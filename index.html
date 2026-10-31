@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Way2Sec News</title>
-<meta name="description" content="తెలంగాణ వార్తలు తెలుగులో – వేగంగా, క్లుప్తంగా. Swipe Telugu short news by district and topic.">
+<meta name="description" content="Fastest AI News in Telugu – తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు. Swipe Telugu short news by district and topic.">
 <meta name="theme-color" content="#C8102E">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="manifest" href="manifest.webmanifest">
@@ -13,17 +13,23 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Noto+Sans+Telugu:wght@400;600;800&display=swap">
 <style>
+/* ===== tokens: Editorial White (light) / Midnight Pro (dark) ===== */
 :root{
-  --app:#E9E4DA; --card:#FFFBF3; --ink:#1A1410; --muted:#5E5246; --line:#E3D9C8; --soft:#F3ECDF;
-  --brand:#C8102E; --bar:#12284A; --ok:#1F7A4D;
+  --app:#ECE7DE; --card:#FFFFFF; --ink:#16120E; --muted:#6A5E52; --line:#ECE3D6; --soft:#FBF4EE;
+  --brand:#C8102E; --brand-ink:#FFFFFF; --brand-soft:#FCE9EC; --bar:#12284A; --ok:#1F7A4D;
+  --chipbg:#FFFFFF; --hdr:#FFFFFF; --hdr-ink:#16120E;
   --c-election:#B3400F; --c-gov:#1F6B3A; --c-money:#16406E; --c-water:#0B5CAD; --c-power:#5B3A8C; --c-city:#7A4A12;
   --display:'Archivo Black','Arial Black',Impact,sans-serif;
   --body:'Noto Sans Telugu','Nirmala UI','Gautami',sans-serif;
   --gx:max(16px,env(safe-area-inset-left,0px)); --gr:max(16px,env(safe-area-inset-right,0px));
+  color-scheme:light;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --app:#0B0F16; --card:#141A24; --ink:#F1ECE2; --muted:#B4BCC9; --line:#253042; --soft:#1C2431; --bar:#0A1424; color-scheme:dark}}
-:root[data-theme="dark"]{--app:#0B0F16; --card:#141A24; --ink:#F1ECE2; --muted:#B4BCC9; --line:#253042; --soft:#1C2431; --bar:#0A1424; color-scheme:dark}
+  --app:#05080D; --card:#0E141D; --ink:#F1ECE2; --muted:#A9B3C1; --line:#1E2836; --soft:#151D29;
+  --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --app:#05080D; --card:#0E141D; --ink:#F1ECE2; --muted:#A9B3C1; --line:#1E2836; --soft:#151D29;
+  --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; color-scheme:dark}
 *{box-sizing:border-box}
 html,body{height:100%;margin:0}
 body{background:var(--app);color:var(--ink);font-family:var(--body);overflow:hidden;-webkit-tap-highlight-color:transparent}
@@ -31,99 +37,125 @@ button{font:inherit;color:inherit}
 .shell{height:100%;max-width:480px;margin:0 auto;display:flex;flex-direction:column;background:var(--card);box-shadow:0 0 0 1px var(--line);position:relative}
 
 /* header */
-header{display:flex;align-items:center;gap:10px;padding:8px var(--gr) 8px var(--gx);padding-top:max(8px,env(safe-area-inset-top,0px));background:#FFFFFF;border-bottom:4px solid var(--brand)}
-header .logo{height:36px;width:auto;display:block}
-.place{margin-left:auto;display:inline-flex;align-items:center;gap:4px;min-height:40px;padding:4px 12px;border-radius:99px;border:1.5px solid #D9CDB8;background:#FFF8EC;color:#1A1410;font-size:13px;font-weight:800;cursor:pointer;max-width:48%}
+header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--gx);padding-top:max(8px,env(safe-area-inset-top,0px));background:var(--hdr)}
+.logo{height:34px;width:auto;display:block}
+:root[data-theme="dark"] .logo{content:url(logo-light.png)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .logo{content:url(logo-light.png)}}
+.place{margin-left:auto;display:inline-flex;align-items:center;gap:4px;min-height:38px;padding:4px 12px;border-radius:99px;border:1px solid var(--line);background:var(--chipbg);color:var(--hdr-ink);font-size:12.5px;font-weight:800;cursor:pointer;min-width:0;flex-shrink:1;max-width:46%}
 .place span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.place svg{width:16px;height:16px;flex-shrink:0}
-.icon{width:40px;height:40px;border-radius:10px;border:1px solid #E3D9C8;background:#fff;color:#1A1410;display:grid;place-items:center;cursor:pointer;flex-shrink:0}
-.icon svg{width:20px;height:20px}
+.place svg{width:15px;height:15px;flex-shrink:0;color:var(--brand)}
+.icon{width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:var(--chipbg);color:var(--hdr-ink);display:grid;place-items:center;cursor:pointer;flex-shrink:0}
+.icon svg{width:19px;height:19px}
 .icon[hidden]{display:none}
 
 /* section tabs */
-.tabs{display:flex;gap:8px;overflow-x:auto;padding:8px var(--gr) 8px var(--gx);border-bottom:1px solid var(--line);scrollbar-width:none;background:var(--card)}
+.tabs{display:flex;gap:4px;overflow-x:auto;padding:6px var(--gr) 8px var(--gx);border-bottom:1px solid var(--line);scrollbar-width:none;background:var(--hdr)}
 .tabs::-webkit-scrollbar{display:none}
-.tab{flex-shrink:0;min-height:36px;padding:4px 14px;border-radius:99px;border:1.5px solid var(--line);background:transparent;font-size:13.5px;font-weight:800;cursor:pointer;white-space:nowrap}
-.tab[aria-pressed="true"]{background:var(--brand);border-color:var(--brand);color:#fff}
+.tab{flex-shrink:0;min-height:34px;padding:4px 12px;border-radius:8px;border:0;background:transparent;font-size:13px;font-weight:800;cursor:pointer;white-space:nowrap;color:var(--hdr-ink)}
+.tab[aria-pressed="true"]{background:var(--brand);color:var(--brand-ink)}
 
-/* feed */
+/* feed + cards */
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none}
 .story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--card);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
 .story.drag{transition:none}
-.panel{position:relative;flex:0 0 27%;min-height:128px;color:#fff;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px var(--gr) 14px var(--gx)}
-.panel svg.art{position:absolute;right:-10px;bottom:-6px;width:62%;height:auto;opacity:.26;pointer-events:none}
-.panel>*:not(.art){position:relative}
+
+.media{position:relative;flex:1 1 auto;min-height:120px;max-height:36%;margin:10px var(--gr) 0 var(--gx);border-radius:14px;overflow:hidden;background:var(--hl);color:#fff}
+.media img.photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.media svg.art{position:absolute;right:-8px;bottom:-6px;width:58%;height:auto;opacity:.24;pointer-events:none}
+.media .ill{position:absolute;inset:0;padding:14px 16px 40px;display:flex;flex-direction:column;justify-content:center;gap:2px}
+.media .stat{font-family:var(--display);font-size:clamp(30px,9vw,46px);line-height:1;letter-spacing:-1px}
+.media .statl{font-size:14px;font-weight:800;line-height:1.4;max-width:24ch}
+.media .shade{position:absolute;left:0;right:0;bottom:0;padding:22px 12px 9px;background:linear-gradient(transparent,rgba(0,0,0,.72));display:flex;align-items:flex-end;justify-content:space-between;gap:8px}
 .chips{display:flex;gap:6px;flex-wrap:wrap}
-.chip{border:1.5px solid currentColor;border-radius:99px;padding:2px 11px;font-size:12px;font-weight:800}
-.chip.pl{background:rgba(255,255,255,.18);border-color:transparent}
-.stat{font-family:var(--display);font-size:clamp(36px,10.5vw,52px);line-height:1;letter-spacing:-1px}
-.statlabel{font-size:14.5px;font-weight:800;line-height:1.4;max-width:24ch;text-wrap:balance}
-.strip{background:var(--bar);color:#fff;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:7px var(--gr) 7px var(--gx)}
-.strip{padding-block:9px}
-.strip img{height:22px;width:auto;display:block;flex-shrink:0}
-.sb{display:flex;flex-direction:column;gap:2px;line-height:1.3;min-width:0}
-.sb .l1{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
-.sb .bn{font-family:var(--display);font-size:16px;letter-spacing:1px;color:#fff}
-.sb .bn i{font-style:normal;color:#E8243F}
-.sb .tg{font-size:15px;font-weight:800;color:#FFD54A}
-.sb .rg{font-size:11px;font-weight:800;color:#D6DEEA;letter-spacing:.3px}
-.sb .ol{font-size:11px;font-weight:600;color:#AFC0D6}
-.qrbar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px var(--gr) 6px var(--gx);background:#16130F;color:#FBF7F0;font-size:12.5px;font-weight:800;text-decoration:none}
-.qrbar img{width:52px;height:52px;background:#fff;padding:3px;flex-shrink:0}
-.text{flex:1;min-height:0;display:flex;flex-direction:column;gap:8px;padding:12px var(--gr) 10px var(--gx)}
-.text h2{margin:0;font-size:clamp(18px,5vw,21px);font-weight:800;line-height:1.4;text-wrap:balance;color:var(--hl)}
-.text p{margin:0;font-size:clamp(14px,3.85vw,16px);line-height:1.62;min-height:0;overflow:auto}
-.foot{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-top:auto;padding-top:8px;border-top:1px solid var(--line)}
-.src{font-size:12.5px;color:var(--muted);font-weight:600}
+.chip{background:var(--brand);color:#fff;border-radius:6px;padding:2px 9px;font-size:11.5px;font-weight:800;line-height:1.6}
+.chip.pl{background:rgba(255,255,255,.2);backdrop-filter:blur(4px)}
+.brandline{font-size:10px;font-weight:800;color:#fff;text-align:right;line-height:1.3;white-space:nowrap}
+.brandline b{font-family:var(--display);font-weight:400;letter-spacing:.5px}
+.brandline b i{font-style:normal;color:#FF5A6E}
+.credit{position:absolute;top:6px;right:8px;font-size:9.5px;color:rgba(255,255,255,.85);background:rgba(0,0,0,.35);padding:1px 6px;border-radius:4px}
+
+.datebar{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:8px var(--gr) 0 var(--gx);padding:5px 10px;border-radius:8px;background:var(--brand);color:#fff;font-size:12px;font-weight:800}
+.datebar span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.datebar svg{width:15px;height:15px;flex-shrink:0}
+.body{flex:0 0 auto;display:flex;flex-direction:column;gap:7px;padding:8px var(--gr) 6px var(--gx);overflow:hidden}
+.body>*{flex-shrink:0}
+.body h2{margin:0;font-size:clamp(18px,5vw,21px);font-weight:800;line-height:1.38;text-wrap:balance}
+.sum{margin:0;font-size:clamp(13.5px,3.7vw,15px);line-height:1.6;color:var(--ink)}
+.pts{border-radius:10px;overflow:hidden}
+.pts .ph{display:flex;align-items:center;gap:6px;background:var(--brand-soft);color:var(--brand);font-weight:800;font-size:13px;padding:5px 10px}
+.pts .ph svg{width:15px;height:15px}
+.pts ol{list-style:none;margin:0;padding:4px 2px 0;display:flex;flex-direction:column;gap:4px}
+.pts li{display:flex;gap:9px;align-items:flex-start;font-size:13.5px;line-height:1.45}
+.pts li b{flex-shrink:0;width:21px;height:21px;border-radius:50%;background:var(--brand);color:#fff;display:grid;place-items:center;font-family:var(--display);font-weight:400;font-size:11px;margin-top:1px}
+.why{display:flex;gap:9px;background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:7px 10px}
+.why svg{width:18px;height:18px;flex-shrink:0;color:#D98A00;margin-top:2px}
+.why strong{display:block;color:var(--brand);font-size:13px}
+.why span{font-size:13px;line-height:1.5}
+.srcrow{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;padding-top:6px;border-top:1px solid var(--line);margin-top:auto}
+.src{font-size:12px;color:var(--muted);font-weight:600}
 .src b{color:var(--ink)}
-.acts{display:flex;gap:6px;align-items:center}
-.read,.share{font-size:13px;font-weight:800;color:var(--hl);text-decoration:none;min-height:36px;display:inline-flex;align-items:center;gap:4px;padding:0 6px;border-radius:8px;background:none;border:0;cursor:pointer}
-.share svg{width:17px;height:17px}
-.hint{font-size:12px;color:var(--muted);font-weight:600;text-align:center}
-.empty{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;text-align:center;scroll-snap-align:start}
+.read{font-size:12.5px;font-weight:800;color:var(--brand);text-decoration:none;min-height:30px;display:inline-flex;align-items:center}
+/* fitting on short screens: drop the least important parts first */
+.story.t1 .sum{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.story.t2 .why{display:none}
+.story.t3 .sum{-webkit-line-clamp:3}
+.story.t3 .pts li:nth-child(3){display:none}
+.story.t4 .pts{display:none}
+.story.t4 .why{display:flex}
+
+.empty{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;text-align:center}
 .empty h2{margin:0;font-size:19px;line-height:1.45}
 .empty p{margin:0;color:var(--muted);font-size:14.5px;line-height:1.6;max-width:32ch}
-.btn{min-height:44px;padding:0 20px;border-radius:10px;border:0;background:var(--brand);color:#fff;font-weight:800;font-size:14.5px;cursor:pointer}
-.btn.ghost{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
+.btn{min-height:44px;padding:0 20px;border-radius:10px;border:0;background:var(--brand);color:#fff;font-weight:800;font-size:14.5px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;gap:8px}
 
-/* bottom bar */
-.bottom{display:flex;align-items:center;gap:8px;padding:8px var(--gr) calc(8px + env(safe-area-inset-bottom,0px)) var(--gx);border-top:1px solid var(--line);background:var(--card)}
-.join{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;min-height:44px;border-radius:10px;background:var(--ok);color:#fff;font-weight:800;font-size:14px;text-decoration:none}
-.join svg{width:20px;height:20px}
-.navbtn{width:44px;height:44px;border-radius:10px;border:1px solid var(--line);background:transparent;display:grid;place-items:center;cursor:pointer}
-.navbtn svg{width:20px;height:20px}
-.count{font-family:var(--display);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:48px;text-align:center}
+/* action row */
+.actions{display:flex;align-items:center;justify-content:space-between;padding:4px var(--gr) 4px var(--gx);border-top:1px solid var(--line);background:var(--card)}
+.act{width:44px;height:44px;border-radius:10px;border:0;background:transparent;display:grid;place-items:center;cursor:pointer;color:var(--ink)}
+.act svg{width:22px;height:22px}
+.act[aria-pressed="true"]{color:var(--brand)}
+.act[aria-pressed="true"] svg{fill:currentColor}
+.mid{display:flex;align-items:center;gap:6px}
+.count{font-family:var(--display);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:52px;text-align:center}
+/* bottom nav */
+.nav{display:flex;border-top:1px solid var(--line);background:var(--card);padding-bottom:env(safe-area-inset-bottom,0px)}
+.nb{flex:1;display:flex;flex-direction:column;align-items:center;gap:1px;min-height:52px;justify-content:center;border:0;background:transparent;cursor:pointer;font-size:11px;font-weight:700;color:var(--muted)}
+.nb svg{width:21px;height:21px}
+.nb[aria-current="true"]{color:var(--brand)}
 :focus-visible{outline:3px solid var(--brand);outline-offset:2px}
 
-/* settings sheet */
+/* sheets */
 .sheet{position:absolute;inset:0;z-index:10;background:var(--card);display:flex;flex-direction:column}
 .sheet[hidden]{display:none}
-.sh-head{padding:max(14px,env(safe-area-inset-top,0px)) var(--gr) 10px var(--gx);background:#fff;border-bottom:4px solid var(--brand);display:flex;align-items:center;gap:10px;color:#1A1410}
-.sh-head img{height:34px}
+.sh-head{padding:max(12px,env(safe-area-inset-top,0px)) var(--gr) 10px var(--gx);background:var(--hdr);border-bottom:3px solid var(--brand);display:flex;align-items:center;gap:10px}
 .sh-head .x{margin-left:auto}
 .sh-body{flex:1;overflow-y:auto;padding:16px var(--gr) 16px var(--gx)}
 .sh-body h2{margin:0 0 4px;font-size:18px}
 .sh-body .sub{margin:0 0 12px;color:var(--muted);font-size:13.5px;line-height:1.5}
 .search{width:100%;min-height:44px;border-radius:10px;border:1.5px solid var(--line);background:var(--soft);color:var(--ink);padding:0 12px;font:inherit;font-size:15px;margin-bottom:10px}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:22px}
+.grid.three{grid-template-columns:1fr 1fr 1fr}
 .opt{min-height:46px;border-radius:10px;border:1.5px solid var(--line);background:transparent;text-align:left;padding:6px 10px;cursor:pointer;line-height:1.25}
 .opt b{display:block;font-size:14px}
 .opt small{color:var(--muted);font-size:11.5px;font-weight:600}
-.opt[aria-pressed="true"],.opt[aria-checked="true"]{border-color:var(--brand);background:color-mix(in srgb,var(--brand) 10%,transparent)}
-.opt[aria-checked="true"] b::after{content:" ✓";color:var(--brand)}
+.opt[aria-pressed="true"],.opt[aria-checked="true"]{border-color:var(--brand);background:var(--brand-soft)}
+.opt[aria-checked="true"] b::after,.opt[aria-pressed="true"] b::after{content:" ✓";color:var(--brand)}
 .opt.wide{grid-column:1/-1}
 .sh-foot{padding:10px var(--gr) calc(10px + env(safe-area-inset-bottom,0px)) var(--gx);border-top:1px solid var(--line);display:flex;gap:10px}
 .sh-foot .btn{flex:1}
-.toast{position:absolute;left:50%;bottom:76px;transform:translateX(-50%);background:#16130F;color:#fff;padding:8px 14px;border-radius:99px;font-size:13px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20}
+.join-box{display:flex;flex-direction:column;align-items:center;gap:14px;text-align:center;padding:20px 0}
+.join-box .bn{font-family:var(--display);font-size:34px;letter-spacing:2px;line-height:1}
+.join-box .bn i{font-style:normal;color:var(--brand)}
+.join-box .tg{font-size:20px;font-weight:800;color:var(--brand)}
+.join-box .tl{font-size:13px;font-weight:700;color:var(--muted)}
+.join-box img.qr{width:180px;height:180px;background:#fff;padding:8px;border-radius:12px;border:1px solid var(--line)}
+.join-box .wa{background:#25D366;color:#0B1F12}
+.links{font-size:13px;color:var(--muted)}
+.links a{color:var(--brand)}
+.toast{position:absolute;left:50%;bottom:118px;transform:translateX(-50%);background:#16130F;color:#fff;padding:8px 14px;border-radius:99px;font-size:13px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20;white-space:nowrap}
 .toast.on{opacity:1}
+@media (max-width:380px){.logo{height:28px}.place{font-size:11.5px;padding:4px 9px}}
 @media (prefers-reduced-motion:reduce){.story{transition:none}.toast{transition:none}}
-.place{min-width:0;flex-shrink:1}
-@media (max-width:400px){header .logo{height:30px}header{gap:6px}.place{font-size:12px;padding:4px 10px}}
-@media (max-height:780px){.panel{flex-basis:23%;min-height:112px}.stat{font-size:clamp(32px,9vw,44px)}.sb .ol,.hint{display:none}.qrbar{padding-block:4px}.qrbar img{width:42px;height:42px}.text{padding-top:10px;gap:6px}}
-@media (max-height:680px){.panel{min-height:100px}.statlabel{font-size:13px}}
-
-.sb .rg{white-space:nowrap!important;font-size:clamp(9.5px,2.75vw,11.5px)!important}.strip>img{display:none!important}.sb{width:100%}.sb .olin{color:#AFC0D6;font-weight:600;white-space:nowrap}
 </style>
 </head>
 <body>
@@ -135,15 +167,26 @@ header .logo{height:36px;width:auto;display:block}
   </header>
   <nav class="tabs" id="tabs" aria-label="విభాగాలు"></nav>
   <main class="feed" id="feed" aria-label="వార్తలు"></main>
-  <nav class="bottom" aria-label="వార్తల నావిగేషన్">
-    <button class="navbtn" id="prev" type="button" aria-label="ముందు వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
-    <span class="count" id="count" aria-live="polite"></span>
-    <a class="join" id="join" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20l1.3-4A8 8 0 1 1 8 18.7z"/></svg>ఛానెల్‌లో చేరండి</a>
-    <button class="navbtn" id="next" type="button" aria-label="తర్వాతి వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+
+  <div class="actions">
+    <button class="act" id="saveBtn" type="button" aria-label="సేవ్ చేయండి" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button>
+    <div class="mid">
+      <button class="act" id="prev" type="button" aria-label="ముందు వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
+      <span class="count" id="count" aria-live="polite"></span>
+      <button class="act" id="next" type="button" aria-label="తర్వాతి వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+    </div>
+    <button class="act" id="shareBtn" type="button" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
+  </div>
+  <nav class="nav" aria-label="ప్రధాన మెనూ">
+    <button class="nb" type="button" data-v="home" aria-current="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>హోమ్</button>
+    <button class="nb" type="button" data-v="saved"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg>సేవ్డ్</button>
+    <button class="nb" type="button" data-v="join"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20l1.3-4A8 8 0 1 1 8 18.7z"/></svg>ఛానెల్</button>
+    <button class="nb" type="button" data-v="more"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>మరిన్ని</button>
   </nav>
 
+  <!-- settings: place, topics, theme -->
   <section class="sheet" id="sheet" hidden aria-label="మీ ఎంపికలు">
-    <div class="sh-head"><img src="logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sh-head"><img class="logo" src="logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="sh-body">
       <h2>మీ జిల్లా ఎంచుకోండి</h2>
       <p class="sub">Choose your district – మీ ప్రాంత వార్తలు ముందుగా కనిపిస్తాయి.</p>
@@ -152,8 +195,25 @@ header .logo{height:36px;width:auto;display:block}
       <h2>మీకు నచ్చిన విభాగాలు</h2>
       <p class="sub">Pick your topics – ఇవి పైన ట్యాబ్‌లుగా కనిపిస్తాయి.</p>
       <div class="grid" id="topics"></div>
+      <h2>థీమ్</h2>
+      <p class="sub">Theme – లైట్ (Editorial White) లేదా డార్క్ (Midnight Pro).</p>
+      <div class="grid three" id="themes" role="radiogroup" aria-label="థీమ్"></div>
+      <p class="links"><a href="privacy.html">Privacy Policy · గోప్యతా విధానం</a> · Contact: way2sec.news@gmail.com</p>
     </div>
     <div class="sh-foot"><button class="btn" id="save" type="button">సేవ్ చేయండి · Save</button></div>
+  </section>
+
+  <!-- join the WhatsApp channel -->
+  <section class="sheet" id="joinSheet" hidden aria-label="Way2Sec ఛానెల్">
+    <div class="sh-head"><img class="logo" src="logo.png" alt="Way2Sec"><button class="icon x" id="closeJoin" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sh-body"><div class="join-box">
+      <div class="bn">WAY<i>2</i>SEC</div>
+      <div class="tg">వార్తలు క్షణాల్లో!</div>
+      <div class="tl">Fastest AI News in Telugu · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</div>
+      <img class="qr" src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్">
+      <a class="btn wa" id="joinLink" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a>
+      <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
+    </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
 </div>
@@ -162,8 +222,10 @@ header .logo{height:36px;width:auto;display:block}
 const CONFIG = {
   NEWS_URL: 'news.json',
   CHANNEL: 'https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138',
-  APP_LINK: ''   // fill in after the app is live, e.g. https://way2sec.github.io/
+  APP_LINK: 'https://way2sec.github.io/'
 };
+/* Topic photo library (free-licence photos in /photos). Filled in once photos are added. */
+const TOPIC_PHOTOS = {};
 
 const SECTIONS = [
   ['all','అన్నీ','All'], ['district','నా జిల్లా','My district'], ['telangana','తెలంగాణ','Telangana'],
@@ -174,6 +236,7 @@ const SECTIONS = [
 ];
 const FIXED = ['all','district'];
 const DEFAULT_TOPICS = ['telangana','india','world','ai','jobs','business','weather'];
+const THEMES = [['auto','ఆటో','Phone setting'],['light','లైట్','Editorial White'],['dark','డార్క్','Midnight Pro']];
 
 const PLACES = [
   ['TS','మొత్తం తెలంగాణ','All Telangana'],
@@ -190,6 +253,8 @@ const PLACES = [
   ['wanaparthy','వనపర్తి','Wanaparthy'], ['warangal','వరంగల్','Warangal'], ['yadadri','యాదాద్రి భువనగిరి','Yadadri Bhuvanagiri']
 ];
 const placeName = k => (PLACES.find(p=>p[0]===k)||PLACES[0])[1];
+const MONTHS = ['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
+const teDate = d => { const m=/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/.exec(d||''); return m ? `${MONTHS[+m[2]-1]} ${+m[1]}, ${m[3]}` : (d||''); };
 
 const ART = {
   voters:'<path d="M20 120H160"/><rect x="30" y="120" width="120" height="70" rx="6"/><path d="M70 120h40"/><g transform="rotate(-8 90 80)"><rect x="72" y="40" width="36" height="70" rx="4"/><path d="M80 75l7 9 14-18"/></g>',
@@ -202,12 +267,7 @@ const ART = {
   court:'<path d="M30 70L100 30L170 70Z"/><path d="M30 70H170M45 80v80M75 80v80M125 80v80M155 80v80M25 170H175M20 188H180"/>',
   farm:'<path d="M10 180H190"/><path d="M40 180l15-20 10 12 15-18M120 180l12-16 14 10"/><path d="M100 180V120"/><path d="M100 140c-20 0-30-12-32-28 18 0 30 10 32 28zM100 128c18 0 28-12 30-28-18 0-28 10-30 28z"/>',
   campus:'<path d="M100 40L180 75L100 110L20 75Z"/><path d="M55 92v40c25 20 65 20 90 0V92"/><path d="M175 77v50"/><circle cx="175" cy="132" r="5"/>',
-  unity:'<circle cx="100" cy="100" r="62"/><circle cx="100" cy="100" r="10"/><path d="M100 38v124M38 100h124M56 56l88 88M144 56l-88 88"/>',
-  chip:'<rect x="50" y="50" width="100" height="100" rx="10"/><rect x="78" y="78" width="44" height="44" rx="4"/><path d="M70 50V25M100 50V25M130 50V25M70 175v-25M100 175v-25M130 175v-25M50 70H25M50 100H25M50 130H25M175 70h-25M175 100h-25M175 130h-25"/>',
-  globe:'<circle cx="100" cy="100" r="75"/><path d="M25 100h150M100 25c-25 25-25 125 0 150M100 25c25 25 25 125 0 150M40 60h120M40 140h120"/>',
-  bulb:'<path d="M70 120c-14-12-22-28-22-44a52 52 0 0 1 104 0c0 16-8 32-22 44v18H70z"/><path d="M76 160h48M84 180h32M100 80v40M86 96l14-16 14 16"/>',
-  culture:'<path d="M100 30c-30 30-30 70 0 100 30-30 30-70 0-100z"/><path d="M40 170c20-20 40-30 60-40 20 10 40 20 60 40M20 190h160"/>',
-  sport:'<circle cx="100" cy="100" r="70"/><path d="M100 30v140M30 100h140M50 50c30 30 30 70 0 100M150 50c-30 30-30 70 0 100"/>'
+  unity:'<circle cx="100" cy="100" r="62"/><circle cx="100" cy="100" r="10"/><path d="M100 38v124M38 100h124M56 56l88 88M144 56l-88 88"/>'
 };
 
 /* storage: per-viewer conveniences only, never required */
@@ -218,13 +278,18 @@ const store = {
 let prefs = store.get('prefs', null);
 const firstRun = !prefs;
 prefs = prefs || {place:'TS', topics:DEFAULT_TOPICS.slice()};
-let section = 'all';
+prefs.theme = prefs.theme || 'auto';
+let saved = store.get('saved', []);
+let section = 'all', view = 'home';
 let NEWS = {date:'', stories:[]};
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-$('join').href = CONFIG.CHANNEL;
+const keyOf = s => (s.url||'')+'|'+(s.h||'');
+$('joinLink').href = CONFIG.CHANNEL;
 
+function applyTheme(){ const r=document.documentElement; if(prefs.theme==='auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme',prefs.theme); }
+applyTheme();
 function toast(t){const el=$('toast');el.textContent=t;el.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('on'),1800)}
 
 /* ---------- tabs ---------- */
@@ -233,64 +298,78 @@ function renderTabs(){
   if(!keys.includes(section)) section='all';
   $('tabs').innerHTML = keys.map(k=>{
     const s=SECTIONS.find(x=>x[0]===k);
-    return `<button class="tab" type="button" data-k="${k}" aria-pressed="${k===section}">${esc(s[1])}</button>`;
+    return `<button class="tab" type="button" data-k="${k}" aria-pressed="${view==='home'&&k===section}">${esc(s[1])}</button>`;
   }).join('');
   $('placeName').textContent = placeName(prefs.place);
 }
-$('tabs').addEventListener('click',e=>{const b=e.target.closest('.tab');if(!b)return;section=b.dataset.k;renderTabs();renderFeed();b.scrollIntoView({inline:'center',block:'nearest'})});
+$('tabs').addEventListener('click',e=>{const b=e.target.closest('.tab');if(!b)return;section=b.dataset.k;setView('home');b.scrollIntoView({inline:'center',block:'nearest'})});
 
 /* ---------- feed ---------- */
 const secsOf = s => Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:['telangana']);
 function pick(){
+  if(view==='saved') return saved;
   const all = NEWS.stories;
   if(section==='district'){
     if(prefs.place==='TS') return all.filter(s=>(s.place||'TS')==='TS');
     return all.filter(s=>s.place===prefs.place);
   }
   let list = section==='all' ? all : all.filter(s=>secsOf(s).includes(section));
-  if(prefs.place!=='TS'){ // your district's stories first, keep the rest in time order
-    list = list.filter(s=>s.place===prefs.place).concat(list.filter(s=>s.place!==prefs.place));
-  }
+  if(prefs.place!=='TS') list = list.filter(s=>s.place===prefs.place).concat(list.filter(s=>s.place!==prefs.place));
   return list;
 }
-let cards=[], cur=0;
-function renderFeed(){
-  const list = pick(), feed=$('feed');
-  if(!list.length){
-    const s=SECTIONS.find(x=>x[0]===section);
-    feed.innerHTML = `<div class="empty"><h2>${section==='district'?esc(placeName(prefs.place))+' నుంచి ఇంకా వార్తలు లేవు':esc(s[1])+' విభాగంలో ఇంకా వార్తలు లేవు'}</h2><p>కొత్త వార్తలు ప్రతి గంటకు వస్తాయి. అప్పటివరకు అన్ని వార్తలు చూడండి.</p><button class="btn" type="button" id="toAll">అన్ని వార్తలు చూడండి</button></div>`;
-    $('toAll').onclick=()=>{section='all';renderTabs();renderFeed()};
-    $('count').textContent='0 / 0'; cards=[]; return;
-  }
-  feed.innerHTML = list.map((s,i)=>{
-    const pl = s.place && s.place!=='TS' ? `<span class="chip pl">📍 ${esc(placeName(s.place))}</span>` : '';
-    return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${s.col||'--c-gov'})">
-  <div class="panel" style="background:var(${s.col||'--c-gov'})">
-    <svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg>
-    <div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div>
-    <div><div class="stat">${esc(s.stat)}</div><div class="statlabel">${esc(s.statl)}</div></div>
+const I = {
+  news:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h10M7 12h10M7 16h6"/></svg>',
+  list:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>',
+  bulb:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></svg>'
+};
+let cards=[], cur=0, LIST=[];
+function cardHTML(s,i){
+  const col = s.col||'--c-gov';
+  const photo = s.img || TOPIC_PHOTOS[s.art];
+  const pl = s.place && s.place!=='TS' ? `<span class="chip pl">📍 ${esc(placeName(s.place))}</span>` : '';
+  const media = photo
+    ? `<img class="photo" src="${esc(/^https?:|^photos\//.test(photo)?photo:'photos/'+photo)}" alt="" loading="${i<2?'eager':'lazy'}" onerror="this.remove()">${s.imgc?`<span class="credit">${esc(s.imgc)}</span>`:''}`
+    : `<svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg><div class="ill"><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>`;
+  const pts = (s.pts||[]).slice(0,3);
+  return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col})">
+  <div class="media">${media}
+    <div class="shade"><div class="chips"><span class="chip">${esc((s.cat||'').split('·').pop().trim()||'వార్త')}</span>${pl}</div>
+    <div class="brandline"><b>WAY<i>2</i>SEC</b> వార్తలు క్షణాల్లో!<br>Fastest AI News in Telugu</div></div>
   </div>
-  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu <span class="olin">· తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></span></div><img src="logo-light.png" alt="Way2Sec"></div>
-  <div class="text">
+  <div class="datebar"><span>${I.news}${esc(s.cat||'వార్త')}</span><span>${esc(teDate(s.d||NEWS.date))}</span></div>
+  <div class="body">
     <h2>${esc(s.h)}</h2>
-    <p>${esc(s.p)}</p>
-    <div class="foot">
-      <span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>
-      <span class="acts">
-        <button class="share" type="button" data-i="${i}" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>షేర్</button>
-        ${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">పూర్తి వార్త →</a>`:''}
-      </span>
-    </div>
-    ${i===0?'<div class="hint">తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి</div>':''}
+    <p class="sum">${esc(s.p)}</p>
+    ${pts.length?`<div class="pts"><div class="ph">${I.list}ముఖ్యాంశాలు</div><ol>${pts.map((t,k)=>`<li><b>${k+1}</b><span>${esc(t)}</span></li>`).join('')}</ol></div>`:''}
+    ${s.why?`<div class="why">${I.bulb}<div><strong>ఎందుకు ముఖ్యం?</strong><span>${esc(s.why)}</span></div></div>`:''}
+    <div class="srcrow"><span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">పూర్తి వార్త →</a>`:''}</div>
   </div>
-  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
-</article>`}).join('');
-  cur=0;
-  cards=[...feed.querySelectorAll('.story')];
-  cards.forEach((c,k)=>{c.hidden=k!==0;c.style.transform=''});
-  $('count').textContent=`1 / ${cards.length}`;
-  feed.onclick = e => { const b=e.target.closest('.share'); if(b) share(list[+b.dataset.i]); };
+</article>`;
 }
+function fit(c){ // make the card fit the screen: hide the least important parts first
+  c.classList.remove('t1','t2','t3','t4');
+  const over = () => c.scrollHeight > c.clientHeight + 1;
+  for(const t of ['t1','t2','t3','t4']){ if(!over()) break; c.classList.add(t); }
+}
+function renderFeed(){
+  LIST = pick(); const feed=$('feed');
+  if(!LIST.length){
+    const s=SECTIONS.find(x=>x[0]===section);
+    const msg = view==='saved' ? ['ఇంకా సేవ్ చేసిన వార్తలు లేవు','వార్త కింద ఉన్న 🔖 బటన్‌తో నచ్చిన వార్తలను సేవ్ చేసుకోండి.']
+      : section==='district' ? [esc(placeName(prefs.place))+' నుంచి ఇంకా వార్తలు లేవు','కొత్త వార్తలు ప్రతి గంటకు వస్తాయి. అప్పటివరకు అన్ని వార్తలు చూడండి.']
+      : [esc(s[1])+' విభాగంలో ఇంకా వార్తలు లేవు','కొత్త వార్తలు ప్రతి గంటకు వస్తాయి. అప్పటివరకు అన్ని వార్తలు చూడండి.'];
+    feed.innerHTML = `<div class="empty"><h2>${msg[0]}</h2><p>${msg[1]}</p><button class="btn" type="button" id="toAll">అన్ని వార్తలు చూడండి</button></div>`;
+    $('toAll').onclick=()=>{section='all';setView('home')};
+    $('count').textContent='0 / 0'; cards=[]; syncSave(); return;
+  }
+  feed.innerHTML = LIST.map(cardHTML).join('');
+  cur=0; cards=[...feed.querySelectorAll('.story')];
+  cards.forEach((c,k)=>{c.hidden=k!==0;c.style.transform=''});
+  fit(cards[0]);
+  $('count').textContent=`1 / ${cards.length}`; syncSave();
+}
+addEventListener('resize',()=>{ if(cards[cur]) fit(cards[cur]); });
+
 /* Way2Sec swipe: ← left or ↓ down = next story, → right or ↑ up = previous story */
 const VEC={left:[-1,0],right:[1,0],down:[0,1],up:[0,-1]};
 const tf=(v,f)=>`translate(${v[0]*f}%,${v[1]*f}%)`;
@@ -301,21 +380,17 @@ function go(i,dir){
   if(i===cur) return;
   const out=cards[cur], inn=cards[i], v=VEC[dir||(i>cur?'left':'right')];
   busy=true;
-  inn.classList.add('drag'); inn.hidden=false; inn.style.transform=tf(v,-100);
+  inn.classList.add('drag'); inn.hidden=false; fit(inn); inn.style.transform=tf(v,-100);
   inn.getBoundingClientRect();
   inn.classList.remove('drag'); out.classList.remove('drag');
   requestAnimationFrame(()=>{ out.style.transform=tf(v,100); inn.style.transform='translate(0,0)'; });
   const done=()=>{ out.hidden=true; out.style.transform=''; busy=false; };
   if(matchMedia('(prefers-reduced-motion: reduce)').matches) done(); else setTimeout(done,320);
-  cur=i; $('count').textContent=`${cur+1} / ${cards.length}`;
+  cur=i; $('count').textContent=`${cur+1} / ${cards.length}`; syncSave();
 }
 function snapBack(){ const c=cards[cur]; if(!c) return; c.classList.remove('drag'); c.style.transform='translate(0,0)'; }
-let drag=null;
-const feedEl=$('feed');
-feedEl.addEventListener('pointerdown',e=>{
-  if(busy||!cards.length||e.target.closest('a,button')) return;
-  drag={x:e.clientX,y:e.clientY,t:Date.now(),axis:null,id:e.pointerId};
-});
+let drag=null; const feedEl=$('feed');
+feedEl.addEventListener('pointerdown',e=>{ if(busy||!cards.length||e.target.closest('a,button')) return; drag={x:e.clientX,y:e.clientY,t:Date.now(),axis:null,id:e.pointerId}; });
 feedEl.addEventListener('pointermove',e=>{
   if(!drag||e.pointerId!==drag.id) return;
   const dx=e.clientX-drag.x, dy=e.clientY-drag.y;
@@ -335,25 +410,47 @@ function endDrag(e){
 feedEl.addEventListener('pointerup',endDrag);
 feedEl.addEventListener('pointercancel',e=>{ if(drag&&e.pointerId===drag.id){drag=null;snapBack();} });
 $('prev').onclick=()=>go(cur-1,'right'); $('next').onclick=()=>go(cur+1,'left');
-document.addEventListener('keydown',e=>{if(!$('sheet').hidden)return;
-  if(['ArrowLeft'].includes(e.key)){e.preventDefault();go(cur+1,'left')}
+document.addEventListener('keydown',e=>{ if(!$('sheet').hidden||!$('joinSheet').hidden) return;
+  if(e.key==='ArrowLeft'){e.preventDefault();go(cur+1,'left')}
   if(['ArrowDown','PageDown'].includes(e.key)){e.preventDefault();go(cur+1,'down')}
-  if(['ArrowRight'].includes(e.key)){e.preventDefault();go(cur-1,'right')}
+  if(e.key==='ArrowRight'){e.preventDefault();go(cur-1,'right')}
   if(['ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1,'up')}});
 
-async function share(s){
-  const text = `🔴 ${s.h}\n\n${s.p}\n\nSource | మూలం: ${s.src}\n${CONFIG.APP_LINK?'📲 Way2Sec యాప్: '+CONFIG.APP_LINK+'\n':''}👉 ${CONFIG.CHANNEL}`;
+/* ---------- save + share ---------- */
+function syncSave(){ const s=LIST[cur]; $('saveBtn').setAttribute('aria-pressed', !!(s && saved.some(x=>keyOf(x)===keyOf(s)))); }
+$('saveBtn').onclick=()=>{
+  const s=LIST[cur]; if(!s) return;
+  const k=keyOf(s), has=saved.some(x=>keyOf(x)===k);
+  saved = has ? saved.filter(x=>keyOf(x)!==k) : [s].concat(saved).slice(0,100);
+  store.set('saved',saved); syncSave(); toast(has?'సేవ్ నుంచి తీసేశాం':'సేవ్ అయింది 🔖');
+  if(view==='saved' && has){ renderFeed(); }
+};
+async function share(text){
   try{ if(navigator.share){ await navigator.share({title:'Way2Sec', text}); return; } }catch(e){ if(e&&e.name==='AbortError') return; }
   location.href = 'https://wa.me/?text=' + encodeURIComponent(text);
 }
+$('shareBtn').onclick=()=>{ const s=LIST[cur]; if(!s) return;
+  const pts=(s.pts||[]).slice(0,3).map(t=>'• '+t).join('\n');
+  share(`🔴 ${s.h}\n\n${s.p}\n${pts?'\n'+pts+'\n':''}\nSource | మూలం: ${s.src}\n📲 Way2Sec – Fastest AI News in Telugu: ${CONFIG.APP_LINK}\n👉 ${CONFIG.CHANNEL}`); };
+$('shareApp').onclick=()=>share(`Way2Sec – Fastest AI News in Telugu 📲\nతెలుగులో వేగంగా, క్లుప్తంగా వార్తలు: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
+
+/* ---------- bottom nav ---------- */
+function setView(v){
+  if(v==='join'){ $('joinSheet').hidden=false; return; }
+  if(v==='more'){ openSheet(); return; }
+  view=v; document.querySelectorAll('.nb').forEach(b=>b.setAttribute('aria-current', b.dataset.v===v));
+  renderTabs(); renderFeed();
+}
+document.querySelector('.nav').addEventListener('click',e=>{const b=e.target.closest('.nb'); if(b) setView(b.dataset.v);});
+$('closeJoin').onclick=()=>{$('joinSheet').hidden=true};
 
 /* ---------- settings sheet ---------- */
 let draft;
 function openSheet(){
-  draft = {place:prefs.place, topics:prefs.topics.slice()};
-  $('q').value=''; drawPlaces(); drawTopics();
+  draft = {place:prefs.place, topics:prefs.topics.slice(), theme:prefs.theme};
+  $('q').value=''; drawPlaces(); drawTopics(); drawThemes();
   $('closeSheet').hidden = firstRun && !store.get('prefs',null);
-  $('sheet').hidden=false; $('q').blur();
+  $('sheet').hidden=false;
 }
 function drawPlaces(){
   const q=$('q').value.trim().toLowerCase();
@@ -364,11 +461,15 @@ function drawTopics(){
   $('topics').innerHTML = SECTIONS.filter(s=>!FIXED.includes(s[0])).map(s=>
     `<button class="opt" type="button" data-k="${s[0]}" aria-pressed="${draft.topics.includes(s[0])}"><b>${esc(s[1])}</b><small>${esc(s[2])}</small></button>`).join('');
 }
+function drawThemes(){
+  $('themes').innerHTML = THEMES.map(t=>`<button class="opt" type="button" role="radio" data-k="${t[0]}" aria-checked="${draft.theme===t[0]}"><b>${esc(t[1])}</b><small>${esc(t[2])}</small></button>`).join('');
+}
 $('q').addEventListener('input',drawPlaces);
 $('places').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.place=b.dataset.k;drawPlaces()});
 $('topics').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const k=b.dataset.k;draft.topics=draft.topics.includes(k)?draft.topics.filter(x=>x!==k):draft.topics.concat(k);drawTopics()});
-$('save').onclick=()=>{prefs=draft;store.set('prefs',prefs);$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
-$('closeSheet').onclick=()=>{$('sheet').hidden=true};
+$('themes').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.theme=b.dataset.k;drawThemes();prefs.theme=draft.theme;applyTheme()});
+$('save').onclick=()=>{prefs=draft;store.set('prefs',prefs);applyTheme();$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
+$('closeSheet').onclick=()=>{prefs.theme=store.get('prefs',prefs).theme||'auto';applyTheme();$('sheet').hidden=true};
 $('placeBtn').onclick=openSheet; $('setBtn').onclick=openSheet;
 
 /* ---------- load news ---------- */
@@ -376,18 +477,16 @@ async function load(){
   try{
     const r = await fetch(CONFIG.NEWS_URL+'?t='+Date.now(), {cache:'no-store'});
     if(!r.ok) throw new Error(r.status);
-    NEWS = await r.json();
-    store.set('news', NEWS);
+    NEWS = await r.json(); store.set('news', NEWS);
   }catch(e){
-    NEWS = store.get('news', NEWS);  // offline: show the last news we saved
+    NEWS = store.get('news', NEWS);
     if(NEWS.stories.length) toast('ఆఫ్‌లైన్ – పాత వార్తలు చూపిస్తున్నాం');
   }
   renderTabs(); renderFeed();
   if(firstRun) openSheet();
 }
 load();
-document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible' && $('sheet').hidden) load(); });
-
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible' && $('sheet').hidden && view==='home') load(); });
 if('serviceWorker' in navigator && location.protocol==='https:' && !/claude\.ai|claudeusercontent/.test(location.host)){
   navigator.serviceWorker.register('sw.js').catch(()=>{});
 }
