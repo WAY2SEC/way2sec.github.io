@@ -8,8 +8,8 @@
 <meta name="theme-color" content="#C8102E">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="icon" href="icons/favicon-48.png" sizes="48x48">
-<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Noto+Sans+Telugu:wght@400;600;800&display=swap">
 <style>
@@ -128,7 +128,7 @@ header .logo{height:36px;width:auto;display:block}
 <body>
 <div class="shell">
   <header>
-    <img class="logo" src="img/logo.png" alt="Way2Sec">
+    <img class="logo" src="logo.png" alt="Way2Sec">
     <button class="place" id="placeBtn" type="button" aria-label="ప్రాంతం మార్చండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><span id="placeName">తెలంగాణ</span></button>
     <button class="icon" id="setBtn" type="button" aria-label="సెట్టింగ్స్"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
   </header>
@@ -142,7 +142,7 @@ header .logo{height:36px;width:auto;display:block}
   </nav>
 
   <section class="sheet" id="sheet" hidden aria-label="మీ ఎంపికలు">
-    <div class="sh-head"><img src="img/logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sh-head"><img src="logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="sh-body">
       <h2>మీ జిల్లా ఎంచుకోండి</h2>
       <p class="sub">Choose your district – మీ ప్రాంత వార్తలు ముందుగా కనిపిస్తాయి.</p>
@@ -269,7 +269,7 @@ function renderFeed(){
     <div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statlabel">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="ol">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div><img src="img/logo-light.png" alt="Way2Sec"></div>
+  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="ol">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div><img src="logo-light.png" alt="Way2Sec"></div>
   <div class="text">
     <h2>${esc(s.h)}</h2>
     <p>${esc(s.p)}</p>
@@ -282,7 +282,7 @@ function renderFeed(){
     </div>
     ${i===0?'<div class="hint">తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి</div>':''}
   </div>
-  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="img/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
+  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`}).join('');
   cur=0;
   cards=[...feed.querySelectorAll('.story')];
