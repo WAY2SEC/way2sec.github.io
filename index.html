@@ -18,7 +18,7 @@
 :root{
   --app:#ECE7DE; --card:#FFFFFF; --ink:#16120E; --muted:#6A5E52; --line:#ECE3D6; --soft:#FBF4EE;
   --brand:#C8102E; --brand-ink:#FFFFFF; --brand-soft:#FCE9EC; --bar:#12284A; --ok:#1F7A4D;
-  --chipbg:#FFFFFF; --hdr:#FFFFFF; --hdr-ink:#16120E;
+  --chipbg:#FFFFFF; --hdr:#FFFFFF; --hdr-ink:#16120E; --paper:#FFFBF3;
   --c-election:#B3400F; --c-gov:#1F6B3A; --c-money:#16406E; --c-water:#0B5CAD; --c-power:#5B3A8C; --c-city:#7A4A12;
   --display:'Archivo Black','Arial Black',Impact,sans-serif;
   --body:'Noto Sans Telugu','Nirmala UI','Gautami',sans-serif;
@@ -27,10 +27,12 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --app:#05080D; --card:#0E141D; --ink:#F1ECE2; --muted:#A9B3C1; --line:#1E2836; --soft:#151D29;
-  --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; color-scheme:dark}}
+  --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; --paper:#0E141D; color-scheme:dark}}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .story{--hl-ink:color-mix(in srgb,var(--hl) 45%,#fff)}}
 :root[data-theme="dark"]{
   --app:#05080D; --card:#0E141D; --ink:#F1ECE2; --muted:#A9B3C1; --line:#1E2836; --soft:#151D29;
-  --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; color-scheme:dark}
+  --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; --paper:#0E141D; color-scheme:dark}
+:root[data-theme="dark"] .story{--hl-ink:color-mix(in srgb,var(--hl) 45%,#fff)}
 *{box-sizing:border-box}
 html,body{height:100%;margin:0}
 body{background:var(--app);color:var(--ink);font-family:var(--body);overflow:hidden;-webkit-tap-highlight-color:transparent}
@@ -64,55 +66,50 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .tab{flex-shrink:0;min-height:34px;padding:4px 12px;border-radius:8px;border:0;background:transparent;font-size:13px;font-weight:800;cursor:pointer;white-space:nowrap;color:var(--hdr-ink)}
 .tab[aria-pressed="true"]{background:var(--brand);color:var(--brand-ink)}
 
-/* feed + cards */
-.feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none}
-.story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--card);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
+/* feed + cards (same look as the Way2Sec WhatsApp cards) */
+.feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
+.story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
 .story.drag{transition:none}
-
-.media{position:relative;flex:1 1 auto;min-height:120px;max-height:36%;margin:10px var(--gr) 0 var(--gx);border-radius:14px;overflow:hidden;background:var(--hl);color:#fff}
-.media img.photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
-.media svg.art{position:absolute;right:-8px;bottom:-6px;width:58%;height:auto;opacity:.24;pointer-events:none}
-.media .ill{position:absolute;inset:0;padding:14px 16px 40px;display:flex;flex-direction:column;justify-content:center;gap:2px}
-.media .stat{font-family:var(--display);font-size:clamp(30px,9vw,46px);line-height:1;letter-spacing:-1px}
-.media .statl{font-size:14px;font-weight:800;line-height:1.4;max-width:24ch}
-.media .shade{position:absolute;left:0;right:0;bottom:0;padding:22px 12px 9px;background:linear-gradient(transparent,rgba(0,0,0,.72));display:flex;align-items:flex-end;justify-content:space-between;gap:8px}
+.panel{position:relative;flex:1 1 auto;min-height:150px;max-height:34%;color:#fff;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px var(--gr) 14px var(--gx);background:var(--hl)}
+.panel svg.art{position:absolute;right:-6px;top:6px;bottom:6px;height:calc(100% - 12px);width:auto;max-width:60%;opacity:.28;pointer-events:none}
+.panel>*:not(.art){position:relative}
+.ptop{display:flex;justify-content:space-between;align-items:center;gap:8px}
 .chips{display:flex;gap:6px;flex-wrap:wrap}
-.chip{background:var(--brand);color:#fff;border-radius:6px;padding:2px 9px;font-size:11.5px;font-weight:800;line-height:1.6}
-.chip.pl{background:rgba(255,255,255,.2);backdrop-filter:blur(4px)}
-.brandline{font-size:10px;font-weight:800;color:#fff;text-align:right;line-height:1.3;white-space:nowrap}
-.brandline b{font-family:var(--display);font-weight:400;letter-spacing:.5px}
-.brandline b i{font-style:normal;color:#FF5A6E}
-.credit{position:absolute;top:6px;right:8px;font-size:9.5px;color:rgba(255,255,255,.85);background:rgba(0,0,0,.35);padding:1px 6px;border-radius:4px}
-
-.datebar{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:8px var(--gr) 0 var(--gx);padding:5px 10px;border-radius:8px;background:var(--brand);color:#fff;font-size:12px;font-weight:800}
-.datebar span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.datebar svg{width:15px;height:15px;flex-shrink:0}
-.body{flex:0 0 auto;display:flex;flex-direction:column;gap:7px;padding:8px var(--gr) 6px var(--gx);overflow:hidden}
-.body>*{flex-shrink:0}
-.body h2{margin:0;font-size:clamp(18px,5vw,21px);font-weight:800;line-height:1.38;text-wrap:balance}
-.sum{margin:0;font-size:clamp(13.5px,3.7vw,15px);line-height:1.6;color:var(--ink)}
-.pts{border-radius:10px;overflow:hidden}
-.pts .ph{display:flex;align-items:center;gap:6px;background:var(--brand-soft);color:var(--brand);font-weight:800;font-size:13px;padding:5px 10px}
-.pts .ph svg{width:15px;height:15px}
-.pts ol{list-style:none;margin:0;padding:4px 2px 0;display:flex;flex-direction:column;gap:4px}
-.pts li{display:flex;gap:9px;align-items:flex-start;font-size:13.5px;line-height:1.45}
-.pts li b{flex-shrink:0;width:21px;height:21px;border-radius:50%;background:var(--brand);color:#fff;display:grid;place-items:center;font-family:var(--display);font-weight:400;font-size:11px;margin-top:1px}
-.why{display:flex;gap:9px;background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:7px 10px}
-.why svg{width:18px;height:18px;flex-shrink:0;color:#D98A00;margin-top:2px}
-.why strong{display:block;color:var(--brand);font-size:13px}
-.why span{font-size:13px;line-height:1.5}
-.srcrow{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;padding-top:6px;border-top:1px solid var(--line);margin-top:auto}
-.src{font-size:12px;color:var(--muted);font-weight:600}
+.chip{border:1.5px solid currentColor;border-radius:99px;padding:2px 12px;font-size:12.5px;font-weight:800;line-height:1.5}
+.chip.pl{border-color:transparent;background:rgba(255,255,255,.2)}
+.pdate{font-size:11.5px;font-weight:700;opacity:.9;white-space:nowrap}
+.stat{font-family:var(--display);font-size:clamp(38px,11vw,56px);line-height:1.05;letter-spacing:-1px}
+.statl{font-size:clamp(14px,4vw,16.5px);font-weight:800;line-height:1.4;max-width:20ch}
+.strip{background:#12284A;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:9px var(--gr) 9px var(--gx)}
+.sb{display:flex;flex-direction:column;gap:2px;line-height:1.3;min-width:0}
+.sb .l1{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.sb .bn{font-family:var(--display);font-size:16px;letter-spacing:1px;color:#fff}
+.sb .bn i{font-style:normal;color:#E8243F}
+.sb .tg{font-size:15px;font-weight:800;color:#FFD54A}
+.sb .rg{font-size:11px;font-weight:800;color:#D6DEEA}
+.sb .rg span{color:#AFC0D6;font-weight:600}
+.strip img{height:22px;width:auto;display:block;flex-shrink:0}
+.text{flex:0 0 auto;display:flex;flex-direction:column;gap:8px;padding:12px var(--gr) 8px var(--gx)}
+.text>*{flex-shrink:0}
+.text h2{margin:0;font-size:clamp(18px,5vw,22px);font-weight:800;line-height:1.38;text-wrap:balance;color:var(--hl-ink)}
+.sum{margin:0;font-size:clamp(14px,3.9vw,16px);line-height:1.62}
+.foot{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;padding-top:8px;border-top:1px solid var(--line)}
+.src{font-size:12.5px;color:var(--muted);font-weight:600}
 .src b{color:var(--ink)}
-.read{font-size:12.5px;font-weight:800;color:var(--brand);text-decoration:none;min-height:30px;display:inline-flex;align-items:center}
-/* fitting on short screens: drop the least important parts first */
-.story.t1 .sum{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
-.story.t2 .why{display:none}
-.story.t3 .sum{-webkit-line-clamp:3}
-.story.t3 .pts li:nth-child(3){display:none}
-.story.t4 .pts{display:none}
-.story.t4 .why{display:flex}
+.read{font-size:13px;font-weight:800;color:var(--hl-ink);text-decoration:none;min-height:30px;display:inline-flex;align-items:center}
+.hint{font-size:11.5px;color:var(--muted);font-weight:600;text-align:center}
+.spacer{flex:1 1 0;min-height:0}
+.qrbar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px var(--gr) 6px var(--gx);background:#16130F;color:#FBF7F0;font-size:13px;font-weight:800;text-decoration:none;flex-shrink:0}
+.qrbar img{width:52px;height:52px;background:#fff;padding:3px;flex-shrink:0}
+/* fitting on short screens */
+.story.t1 .hint{display:none}
+.story.t1 .qrbar img{width:42px;height:42px}
+.story.t2 .sum{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.story.t3 .sum{-webkit-line-clamp:4}
+.story.t3 .sb .rg{display:none}
+.story.t4 .sum{-webkit-line-clamp:3}
+.story.t4 .panel{min-height:120px}
 
 .empty{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;text-align:center}
 .empty h2{margin:0;font-size:19px;line-height:1.45}
@@ -341,25 +338,22 @@ const I = {
 let cards=[], cur=0, LIST=[];
 function cardHTML(s,i){
   const col = s.col||'--c-gov';
-  const photo = s.img || TOPIC_PHOTOS[s.art];
   const pl = s.place && s.place!=='TS' ? `<span class="chip pl">📍 ${esc(placeName(s.place))}</span>` : '';
-  const media = photo
-    ? `<img class="photo" src="${esc(/^https?:|^photos\//.test(photo)?photo:'photos/'+photo)}" alt="" loading="${i<2?'eager':'lazy'}" onerror="this.remove()">${s.imgc?`<span class="credit">${esc(s.imgc)}</span>`:''}`
-    : `<svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg><div class="ill"><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>`;
-  const pts = (s.pts||[]).slice(0,3);
-  return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col})">
-  <div class="media">${media}
-    <div class="shade"><div class="chips"><span class="chip">${esc((s.cat||'').split('·').pop().trim()||'వార్త')}</span>${pl}</div>
-    <div class="brandline"><b>WAY<i>2</i>SEC</b> వార్తలు క్షణాల్లో!<br>Fastest AI News in Telugu</div></div>
+  return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col});--hl-ink:var(${col})">
+  <div class="panel">
+    <svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg>
+    <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat||'వార్త')}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}</span></div>
+    <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="datebar"><span>${I.news}${esc(s.cat||'వార్త')}</span><span>${esc(teDate(s.d||NEWS.date))}</span></div>
-  <div class="body">
+  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></span></div><img src="logo-light.png" alt="Way2Sec"></div>
+  <div class="text">
     <h2>${esc(s.h)}</h2>
     <p class="sum">${esc(s.p)}</p>
-    ${pts.length?`<div class="pts"><div class="ph">${I.list}ముఖ్యాంశాలు</div><ol>${pts.map((t,k)=>`<li><b>${k+1}</b><span>${esc(t)}</span></li>`).join('')}</ol></div>`:''}
-    ${s.why?`<div class="why">${I.bulb}<div><strong>ఎందుకు ముఖ్యం?</strong><span>${esc(s.why)}</span></div></div>`:''}
-    <div class="srcrow"><span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">పూర్తి వార్త →</a>`:''}</div>
+    <div class="foot"><span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">పూర్తి వార్త చదవండి →</a>`:''}</div>
+    ${i===0?'<div class="hint">తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి</div>':''}
   </div>
+  <div class="spacer"></div>
+  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
 function fit(c){ // make the card fit the screen: hide the least important parts first
