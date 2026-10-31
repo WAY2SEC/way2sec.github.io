@@ -10,6 +10,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="favicon-48.png" sizes="48x48">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Noto+Sans+Telugu:wght@400;600;800&display=swap">
 <style>
@@ -47,6 +48,15 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .icon{width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:var(--chipbg);color:var(--hdr-ink);display:grid;place-items:center;cursor:pointer;flex-shrink:0}
 .icon svg{width:19px;height:19px}
 .icon[hidden]{display:none}
+.bell[aria-pressed="true"]{color:var(--brand);border-color:var(--brand)}
+.bell[aria-pressed="true"] svg{fill:currentColor}
+.alertcard{position:absolute;left:12px;right:12px;bottom:12px;z-index:5;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--brand);border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.18);padding:12px 14px;display:flex;flex-direction:column;gap:8px}
+.alertcard[hidden]{display:none}
+.alertcard b{font-size:15px}
+.alertcard p{margin:0;font-size:13px;color:var(--muted);line-height:1.5}
+.alertcard .row{display:flex;gap:8px}
+.alertcard .btn{min-height:40px;font-size:13.5px;flex:1}
+.alertcard .later{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
 
 /* section tabs */
 .tabs{display:flex;gap:4px;overflow-x:auto;padding:6px var(--gr) 8px var(--gx);border-bottom:1px solid var(--line);scrollbar-width:none;background:var(--hdr)}
@@ -163,10 +173,16 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <header>
     <img class="logo" src="logo.png" alt="Way2Sec">
     <button class="place" id="placeBtn" type="button" aria-label="ప్రాంతం మార్చండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><span id="placeName">తెలంగాణ</span></button>
+    <button class="icon bell" id="bellBtn" type="button" aria-label="వార్తల అలర్ట్‌లు" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.9 1.9 0 0 0 3.4 0"/></svg></button>
     <button class="icon" id="setBtn" type="button" aria-label="సెట్టింగ్స్"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
   </header>
   <nav class="tabs" id="tabs" aria-label="విభాగాలు"></nav>
   <main class="feed" id="feed" aria-label="వార్తలు"></main>
+  <div class="alertcard" id="alertCard" hidden role="dialog" aria-label="వార్తల అలర్ట్‌లు">
+    <b>🔔 ముఖ్యమైన వార్తలు వెంటనే తెలుసుకోండి</b>
+    <p>బ్రేకింగ్ న్యూస్, మీ జిల్లా వార్తల అలర్ట్‌లు మీ ఫోన్‌కి పంపమంటారా? ఎప్పుడైనా ఆపేయవచ్చు.</p>
+    <div class="row"><button class="btn later" id="alertLater" type="button">తర్వాత</button><button class="btn" id="alertYes" type="button">అలర్ట్‌లు ఆన్ చేయండి</button></div>
+  </div>
 
   <div class="actions">
     <button class="act" id="saveBtn" type="button" aria-label="సేవ్ చేయండి" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button>
@@ -468,7 +484,7 @@ $('q').addEventListener('input',drawPlaces);
 $('places').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.place=b.dataset.k;drawPlaces()});
 $('topics').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const k=b.dataset.k;draft.topics=draft.topics.includes(k)?draft.topics.filter(x=>x!==k):draft.topics.concat(k);drawTopics()});
 $('themes').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.theme=b.dataset.k;drawThemes();prefs.theme=draft.theme;applyTheme()});
-$('save').onclick=()=>{prefs=draft;store.set('prefs',prefs);applyTheme();$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
+$('save').onclick=()=>{prefs=draft;store.set('prefs',prefs);if(pushOK) OneSignalDeferred.push(tagUser);applyTheme();$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
 $('closeSheet').onclick=()=>{prefs.theme=store.get('prefs',prefs).theme||'auto';applyTheme();$('sheet').hidden=true};
 $('placeBtn').onclick=openSheet; $('setBtn').onclick=openSheet;
 
@@ -487,9 +503,43 @@ async function load(){
 }
 load();
 document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible' && $('sheet').hidden && view==='home') load(); });
-if('serviceWorker' in navigator && location.protocol==='https:' && !/claude\.ai|claudeusercontent/.test(location.host)){
+/* ---------- news alerts (OneSignal web push) ---------- */
+const ONESIGNAL_APP_ID = '910af9fa-740e-48f2-ae42-2e60c9f4b017';
+const pushOK = location.hostname === 'way2sec.github.io' && 'serviceWorker' in navigator && 'Notification' in window;
+window.OneSignalDeferred = window.OneSignalDeferred || [];
+function bellState(on){ $('bellBtn').setAttribute('aria-pressed', !!on); }
+function tagUser(OneSignal){ try{ OneSignal.User.addTags({place:prefs.place, topics:prefs.topics.join(',')}); }catch(e){} }
+if(pushOK){
+  OneSignalDeferred.push(async function(OneSignal){
+    await OneSignal.init({ appId: ONESIGNAL_APP_ID, serviceWorkerPath: 'OneSignalSDKWorker.js', serviceWorkerParam: { scope: '/' } });
+    bellState(OneSignal.Notifications.permission);
+    OneSignal.Notifications.addEventListener('permissionChange', p => { bellState(p); if(p) tagUser(OneSignal); });
+    if(OneSignal.Notifications.permission) tagUser(OneSignal);
+  });
+} else if('serviceWorker' in navigator && location.protocol==='https:' && !/claude\.ai|claudeusercontent/.test(location.host)){
   navigator.serviceWorker.register('sw.js').catch(()=>{});
 }
+async function askAlerts(){
+  $('alertCard').hidden = true; store.set('alertAsked', Date.now());
+  if(!pushOK){ toast('అలర్ట్‌లు way2sec.github.io యాప్‌లో మాత్రమే పనిచేస్తాయి'); return; }
+  if('Notification' in window && Notification.permission==='denied'){ toast('ఫోన్ సెట్టింగ్స్‌లో Way2Sec నోటిఫికేషన్లు ఆన్ చేయండి'); return; }
+  OneSignalDeferred.push(async function(OneSignal){
+    try{ await OneSignal.Notifications.requestPermission(); }catch(e){}
+    if(OneSignal.Notifications.permission){ toast('అలర్ట్‌లు ఆన్ అయ్యాయి 🔔'); tagUser(OneSignal); }
+  });
+}
+$('bellBtn').onclick=()=>{
+  if($('bellBtn').getAttribute('aria-pressed')==='true'){ toast('అలర్ట్‌లు ఆన్‌లో ఉన్నాయి 🔔 ఆపాలంటే ఫోన్ సెట్టింగ్స్‌లో మార్చండి'); return; }
+  askAlerts();
+};
+$('alertYes').onclick=askAlerts;
+$('alertLater').onclick=()=>{ $('alertCard').hidden=true; store.set('alertAsked', Date.now()); };
+/* show the alert invitation once, after the reader has looked at a few stories (again after 7 days if they said later) */
+setTimeout(()=>{
+  const last = store.get('alertAsked', 0);
+  const granted = 'Notification' in window && Notification.permission !== 'default';
+  if(pushOK && !granted && Date.now()-last > 7*864e5 && $('sheet').hidden) $('alertCard').hidden = false;
+}, 25000);
 </script>
 </body>
 </html>
