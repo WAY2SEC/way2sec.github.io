@@ -439,9 +439,85 @@ async function share(text){
   try{ if(navigator.share){ await navigator.share({title:'Way2Sec', text}); return; } }catch(e){ if(e&&e.name==='AbortError') return; }
   location.href = 'https://wa.me/?text=' + encodeURIComponent(text);
 }
-$('shareBtn').onclick=()=>{ const s=LIST[cur]; if(!s) return;
-  const pts=(s.pts||[]).slice(0,3).map(t=>'• '+t).join('\n');
-  share(`🔴 ${s.h}\n\n${s.p}\n${pts?'\n'+pts+'\n':''}\nSource | మూలం: ${s.src}\n📲 Way2Sec – Fastest AI News in Telugu: ${CONFIG.APP_LINK}\n👉 ${CONFIG.CHANNEL}`); };
+/* Share = picture of the card + link text (for WhatsApp Status / chats) */
+const COLS={'--c-election':'#B3400F','--c-gov':'#1F6B3A','--c-money':'#16406E','--c-water':'#0B5CAD','--c-power':'#5B3A8C','--c-city':'#7A4A12'};
+const loadImg=src=>new Promise((ok,no)=>{const im=new Image();im.onload=()=>ok(im);im.onerror=no;im.src=src;});
+function wrap(ctx,text,maxW){ // word wrap that keeps Telugu words whole
+  const words=String(text||'').split(/\s+/), lines=[]; let line='';
+  for(const w of words){ const t=line?line+' '+w:w; if(ctx.measureText(t).width>maxW && line){ lines.push(line); line=w; } else line=t; }
+  if(line) lines.push(line); return lines;
+}
+function rrect(ctx,x,y,w,h,r){ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath();}
+async function cardImage(s){
+  try{ await document.fonts.ready; }catch(e){}
+  const W=1080, P=64, col=COLS[s.col]||COLS['--c-gov'];
+  const TE="'Noto Sans Telugu','Nirmala UI','Gautami',sans-serif", DI="'Archivo Black','Arial Black',Impact,sans-serif";
+  const c=document.createElement('canvas'), ctx=c.getContext('2d');
+  // measure the text block first to know the card height
+  ctx.font=`800 52px ${TE}`; const hl=wrap(ctx,s.h,W-2*P);
+  ctx.font=`400 36px ${TE}`; const pl=wrap(ctx,s.p,W-2*P);
+  const PANEL=600, STRIP=150, QR=190;
+  const textH=48+hl.length*72+24+pl.length*58+40+70+40;
+  const H=PANEL+STRIP+textH+QR; c.width=W; c.height=H;
+  ctx.fillStyle='#FFFBF3'; ctx.fillRect(0,0,W,H);
+  // panel
+  ctx.fillStyle=col; ctx.fillRect(0,0,W,PANEL);
+  try{ const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">${ART[s.art]||ART.unity}</svg>`;
+       const art=await loadImg('data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg)); ctx.globalAlpha=.28; ctx.drawImage(art,W-560,40,520,520); ctx.globalAlpha=1; }catch(e){}
+  ctx.fillStyle='#fff'; ctx.strokeStyle='#fff'; ctx.lineWidth=3;
+  ctx.font=`800 30px ${TE}`; const chip=s.cat||'వార్త', cw=ctx.measureText(chip).width+56;
+  rrect(ctx,P,52,cw,62,31); ctx.stroke(); ctx.textBaseline='middle'; ctx.fillText(chip,P+28,84);
+  ctx.font=`700 28px ${TE}`; ctx.textAlign='right'; ctx.fillText(s.d||NEWS.date||'',W-P,84); ctx.textAlign='left';
+  ctx.textBaseline='alphabetic';
+  let statSize=150; ctx.font=`400 ${statSize}px ${DI}`; while(ctx.measureText(s.stat||'').width>W-2*P && statSize>60){ statSize-=10; ctx.font=`400 ${statSize}px ${DI}`; }
+  // Telugu in the stat needs the Telugu font
+  if(/[ఀ-౿]/.test(s.stat||'')){ ctx.font=`800 ${Math.min(statSize,130)}px ${TE}`; }
+  ctx.font=`800 40px ${TE}`; const sl=wrap(ctx,s.statl,620).slice(0,2);
+  let y=PANEL-56-(sl.length-1)*54;
+  const teStat=/[ఀ-౿]/.test(s.stat||''); let ss=teStat?Math.min(statSize,120):statSize;
+  const setF=()=>{ ctx.font=teStat?`800 ${ss}px ${TE}`:`400 ${ss}px ${DI}`; }; setF();
+  while(ctx.measureText(s.stat||'').width>W-2*P-20 && ss>56){ ss-=8; setF(); }
+  ctx.fillText(s.stat||'',P,y-60-(teStat?Math.round(ss*0.42):0));
+  ctx.font=`800 40px ${TE}`; sl.forEach((t,k)=>ctx.fillText(t,P,y+k*54));
+  // brand strip
+  let yy=PANEL; ctx.fillStyle='#12284A'; ctx.fillRect(0,yy,W,STRIP);
+  ctx.font=`400 40px ${DI}`; ctx.fillStyle='#fff'; ctx.fillText('WAY',P,yy+62); let x=P+ctx.measureText('WAY').width;
+  ctx.fillStyle='#E8243F'; ctx.fillText('2',x,yy+62); x+=ctx.measureText('2').width; ctx.fillStyle='#fff'; ctx.fillText('SEC',x,yy+62); x+=ctx.measureText('SEC').width+22;
+  ctx.font=`800 38px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText('వార్తలు క్షణాల్లో!',x,yy+62);
+  ctx.font=`800 27px ${TE}`; ctx.fillStyle='#D6DEEA'; ctx.fillText('Fastest AI News in Telugu',P,yy+112);
+  x=P+ctx.measureText('Fastest AI News in Telugu').width; ctx.font=`600 27px ${TE}`; ctx.fillStyle='#AFC0D6'; ctx.fillText(' · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు',x,yy+112);
+  try{ const lg=await loadImg('logo-light.png'); const lh=52, lw=lg.width*lh/lg.height; if(x+ctx.measureText(' · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు').width < W-P-lw-20) ctx.drawImage(lg,W-P-lw,yy+(STRIP-lh)/2,lw,lh); }catch(e){}
+  // text
+  yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
+  yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
+  yy+=10; ctx.strokeStyle='#E3D9C8'; ctx.lineWidth=2; ctx.beginPath(); ctx.moveTo(P,yy); ctx.lineTo(W-P,yy); ctx.stroke();
+  yy+=62; ctx.font=`600 30px ${TE}`; ctx.fillStyle='#5E5246'; ctx.fillText('Source | మూలం: ',P,yy);
+  ctx.font=`800 30px ${TE}`; ctx.fillStyle='#1A1410'; ctx.fillText(s.src||'',P+ctx.measureText('Source | మూలం: ').width+8,yy);
+  // QR bar
+  yy=H-QR; ctx.fillStyle='#16130F'; ctx.fillRect(0,yy,W,QR);
+  ctx.font=`800 36px ${TE}`; ctx.fillStyle='#FBF7F0'; ctx.textBaseline='middle'; ctx.fillText('స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి',P,yy+QR/2);
+  try{ const qr=await loadImg('qr.png'); ctx.fillStyle='#fff'; ctx.fillRect(W-P-150,yy+20,150,150); ctx.drawImage(qr,W-P-142,yy+28,134,134); }catch(e){}
+  return await new Promise(r=>c.toBlob(r,'image/jpeg',0.9));
+}
+window.cardImage=cardImage;
+function shareText(s){
+  return `🔴 ${s.h}\n\nSource | మూలం: ${s.src}${/^https?:/.test(s.url||'')?`\nపూర్తి వార్త: ${s.url}`:''}\n\n📲 Way2Sec – Fastest AI News in Telugu: ${CONFIG.APP_LINK}\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
+}
+$('shareBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
+  const text=shareText(s);
+  if(navigator.canShare){
+    toast('చిత్రం తయారవుతోంది…');
+    try{
+      const blob=await cardImage(s);
+      const file=new File([blob],'way2sec-news.jpg',{type:'image/jpeg'});
+      if(navigator.canShare({files:[file]})){
+        try{ await navigator.share({files:[file], text, title:'Way2Sec'}); }catch(e){ if(e&&e.name!=='AbortError') share(text); }
+        return;
+      }
+    }catch(e){}
+  }
+  share(text);
+};
 $('shareApp').onclick=()=>share(`Way2Sec – Fastest AI News in Telugu 📲\nతెలుగులో వేగంగా, క్లుప్తంగా వార్తలు: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
 
 /* ---------- bottom nav ---------- */
