@@ -1,18 +1,34 @@
 {
-  "name": "Way2Sec – తెలుగు వార్తలు",
+  "id": "/",
+  "name": "Way2Sec – Fastest AI News in Telugu",
   "short_name": "Way2Sec",
-  "description": "Telangana news in Telugu – short, swipeable, by district and topic.",
+  "description": "Fastest AI News in Telugu – తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు. Swipe short Telugu news by district and topic with key points, sources and alerts.",
   "lang": "te",
-  "start_url": "./?source=app",
-  "scope": "./",
+  "start_url": "/?source=app",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FFFBF3",
+  "background_color": "#FFFFFF",
   "theme_color": "#C8102E",
-  "categories": ["news"],
+  "categories": [
+    "news"
+  ],
   "icons": [
-    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
-    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
