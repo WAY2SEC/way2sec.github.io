@@ -123,6 +123,7 @@ header .logo{height:36px;width:auto;display:block}
 @media (max-height:780px){.panel{flex-basis:23%;min-height:112px}.stat{font-size:clamp(32px,9vw,44px)}.sb .ol,.hint{display:none}.qrbar{padding-block:4px}.qrbar img{width:42px;height:42px}.text{padding-top:10px;gap:6px}}
 @media (max-height:680px){.panel{min-height:100px}.statlabel{font-size:13px}}
 
+.sb .rg{white-space:nowrap!important;font-size:clamp(9.5px,2.75vw,11.5px)!important}.strip>img{display:none!important}.sb{width:100%}.sb .olin{color:#AFC0D6;font-weight:600;white-space:nowrap}
 </style>
 </head>
 <body>
@@ -269,7 +270,7 @@ function renderFeed(){
     <div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statlabel">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="ol">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div><img src="logo-light.png" alt="Way2Sec"></div>
+  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu <span class="olin">· తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></span></div><img src="logo-light.png" alt="Way2Sec"></div>
   <div class="text">
     <h2>${esc(s.h)}</h2>
     <p>${esc(s.p)}</p>
