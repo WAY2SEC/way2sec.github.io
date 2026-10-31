@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.way2sec.news",
+        "sha256_cert_fingerprints": ["3A:E5:98:FC:3C:3A:11:1E:18:B9:58:F8:63:42:2B:A1:E1:EA:54:AD:F9:98:15:2B:A5:34:DD:FE:45:9C:13:67"]
+      }
+    }]
