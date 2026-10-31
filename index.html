@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="te">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Way2Sec News</title>
+<meta name="description" content="తెలంగాణ వార్తలు తెలుగులో – వేగంగా, క్లుప్తంగా. Swipe Telugu short news by district and topic.">
+<meta name="theme-color" content="#C8102E">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Noto+Sans+Telugu:wght@400;600;800&display=swap">
+<style>
+:root{
+  --app:#E9E4DA; --card:#FFFBF3; --ink:#1A1410; --muted:#5E5246; --line:#E3D9C8; --soft:#F3ECDF;
+  --brand:#C8102E; --bar:#12284A; --ok:#1F7A4D;
+  --c-election:#B3400F; --c-gov:#1F6B3A; --c-money:#16406E; --c-water:#0B5CAD; --c-power:#5B3A8C; --c-city:#7A4A12;
+  --display:'Archivo Black','Arial Black',Impact,sans-serif;
+  --body:'Noto Sans Telugu','Nirmala UI','Gautami',sans-serif;
+  --gx:max(16px,env(safe-area-inset-left,0px)); --gr:max(16px,env(safe-area-inset-right,0px));
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --app:#0B0F16; --card:#141A24; --ink:#F1ECE2; --muted:#B4BCC9; --line:#253042; --soft:#1C2431; --bar:#0A1424; color-scheme:dark}}
+:root[data-theme="dark"]{--app:#0B0F16; --card:#141A24; --ink:#F1ECE2; --muted:#B4BCC9; --line:#253042; --soft:#1C2431; --bar:#0A1424; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--app);color:var(--ink);font-family:var(--body);overflow:hidden;-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit}
+.shell{height:100%;max-width:480px;margin:0 auto;display:flex;flex-direction:column;background:var(--card);box-shadow:0 0 0 1px var(--line);position:relative}
+
+/* header */
+header{display:flex;align-items:center;gap:10px;padding:8px var(--gr) 8px var(--gx);padding-top:max(8px,env(safe-area-inset-top,0px));background:#FFFFFF;border-bottom:4px solid var(--brand)}
+header .logo{height:36px;width:auto;display:block}
+.place{margin-left:auto;display:inline-flex;align-items:center;gap:4px;min-height:40px;padding:4px 12px;border-radius:99px;border:1.5px solid #D9CDB8;background:#FFF8EC;color:#1A1410;font-size:13px;font-weight:800;cursor:pointer;max-width:48%}
+.place span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.place svg{width:16px;height:16px;flex-shrink:0}
+.icon{width:40px;height:40px;border-radius:10px;border:1px solid #E3D9C8;background:#fff;color:#1A1410;display:grid;place-items:center;cursor:pointer;flex-shrink:0}
+.icon svg{width:20px;height:20px}
+.icon[hidden]{display:none}
+
+/* section tabs */
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:8px var(--gr) 8px var(--gx);border-bottom:1px solid var(--line);scrollbar-width:none;background:var(--card)}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex-shrink:0;min-height:36px;padding:4px 14px;border-radius:99px;border:1.5px solid var(--line);background:transparent;font-size:13.5px;font-weight:800;cursor:pointer;white-space:nowrap}
+.tab[aria-pressed="true"]{background:var(--brand);border-color:var(--brand);color:#fff}
+
+/* feed */
+.feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none}
+.story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--card);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
+.story[hidden]{display:none}
+.story.drag{transition:none}
+.panel{position:relative;flex:0 0 27%;min-height:128px;color:#fff;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px var(--gr) 14px var(--gx)}
+.panel svg.art{position:absolute;right:-10px;bottom:-6px;width:62%;height:auto;opacity:.26;pointer-events:none}
+.panel>*:not(.art){position:relative}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1.5px solid currentColor;border-radius:99px;padding:2px 11px;font-size:12px;font-weight:800}
+.chip.pl{background:rgba(255,255,255,.18);border-color:transparent}
+.stat{font-family:var(--display);font-size:clamp(36px,10.5vw,52px);line-height:1;letter-spacing:-1px}
+.statlabel{font-size:14.5px;font-weight:800;line-height:1.4;max-width:24ch;text-wrap:balance}
+.strip{background:var(--bar);color:#fff;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:7px var(--gr) 7px var(--gx)}
+.strip{padding-block:9px}
+.strip img{height:22px;width:auto;display:block;flex-shrink:0}
+.sb{display:flex;flex-direction:column;gap:2px;line-height:1.3;min-width:0}
+.sb .l1{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.sb .bn{font-family:var(--display);font-size:16px;letter-spacing:1px;color:#fff}
+.sb .bn i{font-style:normal;color:#E8243F}
+.sb .tg{font-size:15px;font-weight:800;color:#FFD54A}
+.sb .rg{font-size:11px;font-weight:800;color:#D6DEEA;letter-spacing:.3px}
+.sb .ol{font-size:11px;font-weight:600;color:#AFC0D6}
+.qrbar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px var(--gr) 6px var(--gx);background:#16130F;color:#FBF7F0;font-size:12.5px;font-weight:800;text-decoration:none}
+.qrbar img{width:52px;height:52px;background:#fff;padding:3px;flex-shrink:0}
+.text{flex:1;min-height:0;display:flex;flex-direction:column;gap:8px;padding:12px var(--gr) 10px var(--gx)}
+.text h2{margin:0;font-size:clamp(18px,5vw,21px);font-weight:800;line-height:1.4;text-wrap:balance;color:var(--hl)}
+.text p{margin:0;font-size:clamp(14px,3.85vw,16px);line-height:1.62;min-height:0;overflow:auto}
+.foot{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-top:auto;padding-top:8px;border-top:1px solid var(--line)}
+.src{font-size:12.5px;color:var(--muted);font-weight:600}
+.src b{color:var(--ink)}
+.acts{display:flex;gap:6px;align-items:center}
+.read,.share{font-size:13px;font-weight:800;color:var(--hl);text-decoration:none;min-height:36px;display:inline-flex;align-items:center;gap:4px;padding:0 6px;border-radius:8px;background:none;border:0;cursor:pointer}
+.share svg{width:17px;height:17px}
+.hint{font-size:12px;color:var(--muted);font-weight:600;text-align:center}
+.empty{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;text-align:center;scroll-snap-align:start}
+.empty h2{margin:0;font-size:19px;line-height:1.45}
+.empty p{margin:0;color:var(--muted);font-size:14.5px;line-height:1.6;max-width:32ch}
+.btn{min-height:44px;padding:0 20px;border-radius:10px;border:0;background:var(--brand);color:#fff;font-weight:800;font-size:14.5px;cursor:pointer}
+.btn.ghost{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
+
+/* bottom bar */
+.bottom{display:flex;align-items:center;gap:8px;padding:8px var(--gr) calc(8px + env(safe-area-inset-bottom,0px)) var(--gx);border-top:1px solid var(--line);background:var(--card)}
+.join{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;min-height:44px;border-radius:10px;background:var(--ok);color:#fff;font-weight:800;font-size:14px;text-decoration:none}
+.join svg{width:20px;height:20px}
+.navbtn{width:44px;height:44px;border-radius:10px;border:1px solid var(--line);background:transparent;display:grid;place-items:center;cursor:pointer}
+.navbtn svg{width:20px;height:20px}
+.count{font-family:var(--display);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:48px;text-align:center}
+:focus-visible{outline:3px solid var(--brand);outline-offset:2px}
+
+/* settings sheet */
+.sheet{position:absolute;inset:0;z-index:10;background:var(--card);display:flex;flex-direction:column}
+.sheet[hidden]{display:none}
+.sh-head{padding:max(14px,env(safe-area-inset-top,0px)) var(--gr) 10px var(--gx);background:#fff;border-bottom:4px solid var(--brand);display:flex;align-items:center;gap:10px;color:#1A1410}
+.sh-head img{height:34px}
+.sh-head .x{margin-left:auto}
+.sh-body{flex:1;overflow-y:auto;padding:16px var(--gr) 16px var(--gx)}
+.sh-body h2{margin:0 0 4px;font-size:18px}
+.sh-body .sub{margin:0 0 12px;color:var(--muted);font-size:13.5px;line-height:1.5}
+.search{width:100%;min-height:44px;border-radius:10px;border:1.5px solid var(--line);background:var(--soft);color:var(--ink);padding:0 12px;font:inherit;font-size:15px;margin-bottom:10px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:22px}
+.opt{min-height:46px;border-radius:10px;border:1.5px solid var(--line);background:transparent;text-align:left;padding:6px 10px;cursor:pointer;line-height:1.25}
+.opt b{display:block;font-size:14px}
+.opt small{color:var(--muted);font-size:11.5px;font-weight:600}
+.opt[aria-pressed="true"],.opt[aria-checked="true"]{border-color:var(--brand);background:color-mix(in srgb,var(--brand) 10%,transparent)}
+.opt[aria-checked="true"] b::after{content:" ✓";color:var(--brand)}
+.opt.wide{grid-column:1/-1}
+.sh-foot{padding:10px var(--gr) calc(10px + env(safe-area-inset-bottom,0px)) var(--gx);border-top:1px solid var(--line);display:flex;gap:10px}
+.sh-foot .btn{flex:1}
+.toast{position:absolute;left:50%;bottom:76px;transform:translateX(-50%);background:#16130F;color:#fff;padding:8px 14px;border-radius:99px;font-size:13px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20}
+.toast.on{opacity:1}
+@media (prefers-reduced-motion:reduce){.story{transition:none}.toast{transition:none}}
+.place{min-width:0;flex-shrink:1}
+@media (max-width:400px){header .logo{height:30px}header{gap:6px}.place{font-size:12px;padding:4px 10px}}
+@media (max-height:780px){.panel{flex-basis:23%;min-height:112px}.stat{font-size:clamp(32px,9vw,44px)}.sb .ol,.hint{display:none}.qrbar{padding-block:4px}.qrbar img{width:42px;height:42px}.text{padding-top:10px;gap:6px}}
+@media (max-height:680px){.panel{min-height:100px}.statlabel{font-size:13px}}
+
+</style>
+</head>
+<body>
+<div class="shell">
+  <header>
+    <img class="logo" src="img/logo.png" alt="Way2Sec">
+    <button class="place" id="placeBtn" type="button" aria-label="ప్రాంతం మార్చండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><span id="placeName">తెలంగాణ</span></button>
+    <button class="icon" id="setBtn" type="button" aria-label="సెట్టింగ్స్"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
+  </header>
+  <nav class="tabs" id="tabs" aria-label="విభాగాలు"></nav>
+  <main class="feed" id="feed" aria-label="వార్తలు"></main>
+  <nav class="bottom" aria-label="వార్తల నావిగేషన్">
+    <button class="navbtn" id="prev" type="button" aria-label="ముందు వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
+    <span class="count" id="count" aria-live="polite"></span>
+    <a class="join" id="join" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20l1.3-4A8 8 0 1 1 8 18.7z"/></svg>ఛానెల్‌లో చేరండి</a>
+    <button class="navbtn" id="next" type="button" aria-label="తర్వాతి వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+  </nav>
+
+  <section class="sheet" id="sheet" hidden aria-label="మీ ఎంపికలు">
+    <div class="sh-head"><img src="img/logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sh-body">
+      <h2>మీ జిల్లా ఎంచుకోండి</h2>
+      <p class="sub">Choose your district – మీ ప్రాంత వార్తలు ముందుగా కనిపిస్తాయి.</p>
+      <input class="search" id="q" type="search" placeholder="జిల్లా వెతకండి / Search district" aria-label="జిల్లా వెతకండి">
+      <div class="grid" id="places" role="radiogroup" aria-label="జిల్లాలు"></div>
+      <h2>మీకు నచ్చిన విభాగాలు</h2>
+      <p class="sub">Pick your topics – ఇవి పైన ట్యాబ్‌లుగా కనిపిస్తాయి.</p>
+      <div class="grid" id="topics"></div>
+    </div>
+    <div class="sh-foot"><button class="btn" id="save" type="button">సేవ్ చేయండి · Save</button></div>
+  </section>
+  <div class="toast" id="toast" role="status"></div>
+</div>
+
+<script>
+const CONFIG = {
+  NEWS_URL: 'news.json',
+  CHANNEL: 'https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138',
+  APP_LINK: ''   // fill in after the app is live, e.g. https://way2sec.github.io/
+};
+
+const SECTIONS = [
+  ['all','అన్నీ','All'], ['district','నా జిల్లా','My district'], ['telangana','తెలంగాణ','Telangana'],
+  ['india','దేశం','India'], ['world','ప్రపంచం','World'], ['ai','AI & టెక్','AI & Tech'],
+  ['jobs','ఉద్యోగాలు','IT & Jobs'], ['business','బిజినెస్','Business'], ['innovation','ఆవిష్కరణలు','Innovation'],
+  ['culture','సంస్కృతి','Culture'], ['education','విద్య','Education'], ['agri','వ్యవసాయం','Agriculture'],
+  ['weather','వాతావరణం','Weather'], ['sports','క్రీడలు','Sports']
+];
+const FIXED = ['all','district'];
+const DEFAULT_TOPICS = ['telangana','india','world','ai','jobs','business','weather'];
+
+const PLACES = [
+  ['TS','మొత్తం తెలంగాణ','All Telangana'],
+  ['hyderabad','హైదరాబాద్','Hyderabad'], ['rangareddy','రంగారెడ్డి','Rangareddy'], ['medchal','మేడ్చల్ మల్కాజిగిరి','Medchal–Malkajgiri'],
+  ['adilabad','ఆదిలాబాద్','Adilabad'], ['bhadradri','భద్రాద్రి కొత్తగూడెం','Bhadradri Kothagudem'], ['hanumakonda','హనుమకొండ','Hanumakonda'],
+  ['jagtial','జగిత్యాల','Jagtial'], ['jangaon','జనగామ','Jangaon'], ['bhupalpally','జయశంకర్ భూపాలపల్లి','Jayashankar Bhupalpally'],
+  ['gadwal','జోగులాంబ గద్వాల','Jogulamba Gadwal'], ['kamareddy','కామారెడ్డి','Kamareddy'], ['karimnagar','కరీంనగర్','Karimnagar'],
+  ['khammam','ఖమ్మం','Khammam'], ['asifabad','కుమురం భీం ఆసిఫాబాద్','Kumuram Bheem Asifabad'], ['mahabubabad','మహబూబాబాద్','Mahabubabad'],
+  ['mahabubnagar','మహబూబ్‌నగర్','Mahabubnagar'], ['mancherial','మంచిర్యాల','Mancherial'], ['medak','మెదక్','Medak'],
+  ['mulugu','ములుగు','Mulugu'], ['nagarkurnool','నాగర్‌కర్నూల్','Nagarkurnool'], ['nalgonda','నల్గొండ','Nalgonda'],
+  ['narayanpet','నారాయణపేట','Narayanpet'], ['nirmal','నిర్మల్','Nirmal'], ['nizamabad','నిజామాబాద్','Nizamabad'],
+  ['peddapalli','పెద్దపల్లి','Peddapalli'], ['sircilla','రాజన్న సిరిసిల్ల','Rajanna Sircilla'], ['sangareddy','సంగారెడ్డి','Sangareddy'],
+  ['siddipet','సిద్దిపేట','Siddipet'], ['suryapet','సూర్యాపేట','Suryapet'], ['vikarabad','వికారాబాద్','Vikarabad'],
+  ['wanaparthy','వనపర్తి','Wanaparthy'], ['warangal','వరంగల్','Warangal'], ['yadadri','యాదాద్రి భువనగిరి','Yadadri Bhuvanagiri']
+];
+const placeName = k => (PLACES.find(p=>p[0]===k)||PLACES[0])[1];
+
+const ART = {
+  voters:'<path d="M20 120H160"/><rect x="30" y="120" width="120" height="70" rx="6"/><path d="M70 120h40"/><g transform="rotate(-8 90 80)"><rect x="72" y="40" width="36" height="70" rx="4"/><path d="M80 75l7 9 14-18"/></g>',
+  deadline:'<rect x="40" y="40" width="120" height="140" rx="10"/><path d="M40 72H160M70 26v26M130 26v26"/><circle cx="125" cy="130" r="16"/><path d="M60 100h10M90 100h10M60 130h10M90 130h10M60 158h10M90 158h10"/>',
+  land:'<path d="M10 190L60 125H180L165 190Z"/><path d="M35 158H172M100 125L92 190"/><path d="M110 105c-16-20-24-32-24-44a24 24 0 0 1 48 0c0 12-8 24-24 44z"/><circle cx="110" cy="61" r="8"/>',
+  economy:'<path d="M20 190v-45h22v45M52 190v-75h26v75M88 190v-105h30v105M128 190v-60h22v60M160 190v-85h26v85"/><path d="M20 80l35-20 30 10 40-35 45-20"/><path d="M152 12l18 3-5 17"/>',
+  water:'<path d="M100 20C100 20 60 75 60 105a40 40 0 0 0 80 0C140 75 100 20 100 20Z"/><path d="M0 170q20-12 40 0t40 0 40 0 40 0 40 0"/><path d="M0 190q20-12 40 0t40 0 40 0 40 0 40 0"/>',
+  rain:'<path d="M50 90a28 28 0 0 1 54-10a24 24 0 0 1 16 46H56a22 22 0 0 1-6-36z"/><path d="M62 145l-8 18M90 145l-8 18M118 145l-8 18M76 172l-6 14M104 172l-6 14"/>',
+  power:'<path d="M100 10L78 190M100 10L122 190M60 45H140M68 80H132M84 160H116M88 120H112M80 45L122 80M120 45L78 80"/><path d="M60 45q-40 25-60 15M140 45q20 15 40 15"/>',
+  court:'<path d="M30 70L100 30L170 70Z"/><path d="M30 70H170M45 80v80M75 80v80M125 80v80M155 80v80M25 170H175M20 188H180"/>',
+  farm:'<path d="M10 180H190"/><path d="M40 180l15-20 10 12 15-18M120 180l12-16 14 10"/><path d="M100 180V120"/><path d="M100 140c-20 0-30-12-32-28 18 0 30 10 32 28zM100 128c18 0 28-12 30-28-18 0-28 10-30 28z"/>',
+  campus:'<path d="M100 40L180 75L100 110L20 75Z"/><path d="M55 92v40c25 20 65 20 90 0V92"/><path d="M175 77v50"/><circle cx="175" cy="132" r="5"/>',
+  unity:'<circle cx="100" cy="100" r="62"/><circle cx="100" cy="100" r="10"/><path d="M100 38v124M38 100h124M56 56l88 88M144 56l-88 88"/>',
+  chip:'<rect x="50" y="50" width="100" height="100" rx="10"/><rect x="78" y="78" width="44" height="44" rx="4"/><path d="M70 50V25M100 50V25M130 50V25M70 175v-25M100 175v-25M130 175v-25M50 70H25M50 100H25M50 130H25M175 70h-25M175 100h-25M175 130h-25"/>',
+  globe:'<circle cx="100" cy="100" r="75"/><path d="M25 100h150M100 25c-25 25-25 125 0 150M100 25c25 25 25 125 0 150M40 60h120M40 140h120"/>',
+  bulb:'<path d="M70 120c-14-12-22-28-22-44a52 52 0 0 1 104 0c0 16-8 32-22 44v18H70z"/><path d="M76 160h48M84 180h32M100 80v40M86 96l14-16 14 16"/>',
+  culture:'<path d="M100 30c-30 30-30 70 0 100 30-30 30-70 0-100z"/><path d="M40 170c20-20 40-30 60-40 20 10 40 20 60 40M20 190h160"/>',
+  sport:'<circle cx="100" cy="100" r="70"/><path d="M100 30v140M30 100h140M50 50c30 30 30 70 0 100M150 50c-30 30-30 70 0 100"/>'
+};
+
+/* storage: per-viewer conveniences only, never required */
+const store = {
+  get(k,d){try{const v=localStorage.getItem('w2s.'+k);return v?JSON.parse(v):d}catch(e){return d}},
+  set(k,v){try{localStorage.setItem('w2s.'+k,JSON.stringify(v))}catch(e){}}
+};
+let prefs = store.get('prefs', null);
+const firstRun = !prefs;
+prefs = prefs || {place:'TS', topics:DEFAULT_TOPICS.slice()};
+let section = 'all';
+let NEWS = {date:'', stories:[]};
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+$('join').href = CONFIG.CHANNEL;
+
+function toast(t){const el=$('toast');el.textContent=t;el.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('on'),1800)}
+
+/* ---------- tabs ---------- */
+function renderTabs(){
+  const keys = FIXED.concat(SECTIONS.map(s=>s[0]).filter(k=>prefs.topics.includes(k)));
+  if(!keys.includes(section)) section='all';
+  $('tabs').innerHTML = keys.map(k=>{
+    const s=SECTIONS.find(x=>x[0]===k);
+    return `<button class="tab" type="button" data-k="${k}" aria-pressed="${k===section}">${esc(s[1])}</button>`;
+  }).join('');
+  $('placeName').textContent = placeName(prefs.place);
+}
+$('tabs').addEventListener('click',e=>{const b=e.target.closest('.tab');if(!b)return;section=b.dataset.k;renderTabs();renderFeed();b.scrollIntoView({inline:'center',block:'nearest'})});
+
+/* ---------- feed ---------- */
+const secsOf = s => Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:['telangana']);
+function pick(){
+  const all = NEWS.stories;
+  if(section==='district'){
+    if(prefs.place==='TS') return all.filter(s=>(s.place||'TS')==='TS');
+    return all.filter(s=>s.place===prefs.place);
+  }
+  let list = section==='all' ? all : all.filter(s=>secsOf(s).includes(section));
+  if(prefs.place!=='TS'){ // your district's stories first, keep the rest in time order
+    list = list.filter(s=>s.place===prefs.place).concat(list.filter(s=>s.place!==prefs.place));
+  }
+  return list;
+}
+let cards=[], cur=0;
+function renderFeed(){
+  const list = pick(), feed=$('feed');
+  if(!list.length){
+    const s=SECTIONS.find(x=>x[0]===section);
+    feed.innerHTML = `<div class="empty"><h2>${section==='district'?esc(placeName(prefs.place))+' నుంచి ఇంకా వార్తలు లేవు':esc(s[1])+' విభాగంలో ఇంకా వార్తలు లేవు'}</h2><p>కొత్త వార్తలు ప్రతి గంటకు వస్తాయి. అప్పటివరకు అన్ని వార్తలు చూడండి.</p><button class="btn" type="button" id="toAll">అన్ని వార్తలు చూడండి</button></div>`;
+    $('toAll').onclick=()=>{section='all';renderTabs();renderFeed()};
+    $('count').textContent='0 / 0'; cards=[]; return;
+  }
+  feed.innerHTML = list.map((s,i)=>{
+    const pl = s.place && s.place!=='TS' ? `<span class="chip pl">📍 ${esc(placeName(s.place))}</span>` : '';
+    return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${s.col||'--c-gov'})">
+  <div class="panel" style="background:var(${s.col||'--c-gov'})">
+    <svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg>
+    <div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div>
+    <div><div class="stat">${esc(s.stat)}</div><div class="statlabel">${esc(s.statl)}</div></div>
+  </div>
+  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="ol">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div><img src="img/logo-light.png" alt="Way2Sec"></div>
+  <div class="text">
+    <h2>${esc(s.h)}</h2>
+    <p>${esc(s.p)}</p>
+    <div class="foot">
+      <span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>
+      <span class="acts">
+        <button class="share" type="button" data-i="${i}" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>షేర్</button>
+        ${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">పూర్తి వార్త →</a>`:''}
+      </span>
+    </div>
+    ${i===0?'<div class="hint">తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి</div>':''}
+  </div>
+  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="img/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
+</article>`}).join('');
+  cur=0;
+  cards=[...feed.querySelectorAll('.story')];
+  cards.forEach((c,k)=>{c.hidden=k!==0;c.style.transform=''});
+  $('count').textContent=`1 / ${cards.length}`;
+  feed.onclick = e => { const b=e.target.closest('.share'); if(b) share(list[+b.dataset.i]); };
+}
+/* Way2Sec swipe: ← left or ↓ down = next story, → right or ↑ up = previous story */
+const VEC={left:[-1,0],right:[1,0],down:[0,1],up:[0,-1]};
+const tf=(v,f)=>`translate(${v[0]*f}%,${v[1]*f}%)`;
+let busy=false;
+function go(i,dir){
+  if(!cards.length||busy) return;
+  if(i<0||i>=cards.length){ snapBack(); toast(i<0?'ఇదే మొదటి వార్త':'ఇదే చివరి వార్త – కొత్తవి త్వరలో'); return; }
+  if(i===cur) return;
+  const out=cards[cur], inn=cards[i], v=VEC[dir||(i>cur?'left':'right')];
+  busy=true;
+  inn.classList.add('drag'); inn.hidden=false; inn.style.transform=tf(v,-100);
+  inn.getBoundingClientRect();
+  inn.classList.remove('drag'); out.classList.remove('drag');
+  requestAnimationFrame(()=>{ out.style.transform=tf(v,100); inn.style.transform='translate(0,0)'; });
+  const done=()=>{ out.hidden=true; out.style.transform=''; busy=false; };
+  if(matchMedia('(prefers-reduced-motion: reduce)').matches) done(); else setTimeout(done,320);
+  cur=i; $('count').textContent=`${cur+1} / ${cards.length}`;
+}
+function snapBack(){ const c=cards[cur]; if(!c) return; c.classList.remove('drag'); c.style.transform='translate(0,0)'; }
+let drag=null;
+const feedEl=$('feed');
+feedEl.addEventListener('pointerdown',e=>{
+  if(busy||!cards.length||e.target.closest('a,button')) return;
+  drag={x:e.clientX,y:e.clientY,t:Date.now(),axis:null,id:e.pointerId};
+});
+feedEl.addEventListener('pointermove',e=>{
+  if(!drag||e.pointerId!==drag.id) return;
+  const dx=e.clientX-drag.x, dy=e.clientY-drag.y;
+  if(!drag.axis){ if(Math.hypot(dx,dy)<8) return; drag.axis=Math.abs(dx)>Math.abs(dy)?'x':'y'; try{feedEl.setPointerCapture(e.pointerId)}catch(_){} }
+  const c=cards[cur]; c.classList.add('drag');
+  c.style.transform = drag.axis==='x' ? `translate(${dx}px,0)` : `translate(0,${dy}px)`;
+});
+function endDrag(e){
+  if(!drag||e.pointerId!==drag.id) return;
+  const d=drag; drag=null; if(!d.axis) return;
+  const dx=e.clientX-d.x, dy=e.clientY-d.y, dt=Math.max(1,Date.now()-d.t);
+  const dist=d.axis==='x'?dx:dy, fast=Math.abs(dist)/dt>0.45, far=Math.abs(dist)>(d.axis==='x'?feedEl.clientWidth:feedEl.clientHeight)*0.18;
+  if(!(fast||far)) return snapBack();
+  if(d.axis==='x') dx<0 ? go(cur+1,'left') : go(cur-1,'right');
+  else dy>0 ? go(cur+1,'down') : go(cur-1,'up');
+}
+feedEl.addEventListener('pointerup',endDrag);
+feedEl.addEventListener('pointercancel',e=>{ if(drag&&e.pointerId===drag.id){drag=null;snapBack();} });
+$('prev').onclick=()=>go(cur-1,'right'); $('next').onclick=()=>go(cur+1,'left');
+document.addEventListener('keydown',e=>{if(!$('sheet').hidden)return;
+  if(['ArrowLeft'].includes(e.key)){e.preventDefault();go(cur+1,'left')}
+  if(['ArrowDown','PageDown'].includes(e.key)){e.preventDefault();go(cur+1,'down')}
+  if(['ArrowRight'].includes(e.key)){e.preventDefault();go(cur-1,'right')}
+  if(['ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1,'up')}});
+
+async function share(s){
+  const text = `🔴 ${s.h}\n\n${s.p}\n\nSource | మూలం: ${s.src}\n${CONFIG.APP_LINK?'📲 Way2Sec యాప్: '+CONFIG.APP_LINK+'\n':''}👉 ${CONFIG.CHANNEL}`;
+  try{ if(navigator.share){ await navigator.share({title:'Way2Sec', text}); return; } }catch(e){ if(e&&e.name==='AbortError') return; }
+  location.href = 'https://wa.me/?text=' + encodeURIComponent(text);
+}
+
+/* ---------- settings sheet ---------- */
+let draft;
+function openSheet(){
+  draft = {place:prefs.place, topics:prefs.topics.slice()};
+  $('q').value=''; drawPlaces(); drawTopics();
+  $('closeSheet').hidden = firstRun && !store.get('prefs',null);
+  $('sheet').hidden=false; $('q').blur();
+}
+function drawPlaces(){
+  const q=$('q').value.trim().toLowerCase();
+  $('places').innerHTML = PLACES.filter(p=>!q||p[1].includes(q)||p[2].toLowerCase().includes(q)).map(p=>
+    `<button class="opt${p[0]==='TS'?' wide':''}" type="button" role="radio" data-k="${p[0]}" aria-checked="${draft.place===p[0]}"><b>${esc(p[1])}</b><small>${esc(p[2])}</small></button>`).join('');
+}
+function drawTopics(){
+  $('topics').innerHTML = SECTIONS.filter(s=>!FIXED.includes(s[0])).map(s=>
+    `<button class="opt" type="button" data-k="${s[0]}" aria-pressed="${draft.topics.includes(s[0])}"><b>${esc(s[1])}</b><small>${esc(s[2])}</small></button>`).join('');
+}
+$('q').addEventListener('input',drawPlaces);
+$('places').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.place=b.dataset.k;drawPlaces()});
+$('topics').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const k=b.dataset.k;draft.topics=draft.topics.includes(k)?draft.topics.filter(x=>x!==k):draft.topics.concat(k);drawTopics()});
+$('save').onclick=()=>{prefs=draft;store.set('prefs',prefs);$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
+$('closeSheet').onclick=()=>{$('sheet').hidden=true};
+$('placeBtn').onclick=openSheet; $('setBtn').onclick=openSheet;
+
+/* ---------- load news ---------- */
+async function load(){
+  try{
+    const r = await fetch(CONFIG.NEWS_URL+'?t='+Date.now(), {cache:'no-store'});
+    if(!r.ok) throw new Error(r.status);
+    NEWS = await r.json();
+    store.set('news', NEWS);
+  }catch(e){
+    NEWS = store.get('news', NEWS);  // offline: show the last news we saved
+    if(NEWS.stories.length) toast('ఆఫ్‌లైన్ – పాత వార్తలు చూపిస్తున్నాం');
+  }
+  renderTabs(); renderFeed();
+  if(firstRun) openSheet();
+}
+load();
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible' && $('sheet').hidden) load(); });
+
+if('serviceWorker' in navigator && location.protocol==='https:' && !/claude\.ai|claudeusercontent/.test(location.host)){
+  navigator.serviceWorker.register('sw.js').catch(()=>{});
+}
+</script>
+</body>
+</html>
