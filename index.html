@@ -188,7 +188,10 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <span class="count" id="count" aria-live="polite"></span>
       <button class="act" id="next" type="button" aria-label="తర్వాతి వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
     </div>
+    <div class="mid">
+    <button class="act" id="dlBtn" type="button" aria-label="కార్డు చిత్రాన్ని ఫోన్‌లో సేవ్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></button>
     <button class="act" id="shareBtn" type="button" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
+    </div>
   </div>
   <nav class="nav" aria-label="ప్రధాన మెనూ">
     <button class="nb" type="button" data-v="home" aria-current="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>హోమ్</button>
@@ -303,7 +306,7 @@ $('joinLink').href = CONFIG.CHANNEL;
 
 function applyTheme(){ const r=document.documentElement; if(prefs.theme==='auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme',prefs.theme); }
 applyTheme();
-function toast(t){const el=$('toast');el.textContent=t;el.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('on'),1800)}
+function toast(t){const el=$('toast');el.textContent=t;el.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('on'),t.length>40?4000:1800)}
 
 /* ---------- tabs ---------- */
 function renderTabs(){
@@ -503,19 +506,41 @@ window.cardImage=cardImage;
 function shareText(s){
   return `🔴 ${s.h}\n\nSource | మూలం: ${s.src}${/^https?:/.test(s.url||'')?`\nపూర్తి వార్త: ${s.url}`:''}\n\n📲 Way2Sec – Fastest AI News in Telugu: ${CONFIG.APP_LINK}\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
 }
+/* Card picture is made ahead of time: phones only allow the share sheet right after a tap,
+   so building the picture inside the tap made the share fail and fall back to plain text. */
+let cardCache={k:null,blob:null,p:null};
+function prepCard(){ const s=LIST[cur]; if(!s) return Promise.resolve(null); const k=keyOf(s);
+  if(cardCache.k===k && (cardCache.blob||cardCache.p)) return cardCache.blob?Promise.resolve(cardCache.blob):cardCache.p;
+  const c={k,blob:null,p:null}; cardCache=c;
+  c.p=cardImage(s).then(b=>{ c.blob=b; return b; }).catch(()=>null); return c.p; }
+setInterval(()=>{ const s=LIST[cur]; if(s && cardCache.k!==keyOf(s)) prepCard(); },400);
+const cardFile=b=>new File([b],'way2sec-news-'+Date.now()+'.jpg',{type:'image/jpeg'});
+function saveBlob(b){ const u=URL.createObjectURL(b), a=document.createElement('a');
+  a.href=u; a.download='way2sec-news-'+Date.now()+'.jpg'; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(u),60000); }
+async function copyText(t){ try{ await navigator.clipboard.writeText(t); return true; }catch(e){ return false; } }
+$('dlBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
+  const ready=cardCache.k===keyOf(s) && cardCache.blob;
+  if(!ready) toast('చిత్రం తయారవుతోంది…');
+  const b=ready||await prepCard(); if(!b){ toast('చిత్రం తయారు కాలేదు, మళ్లీ ప్రయత్నించండి'); return; }
+  const f=cardFile(b);
+  // iPhone: "Save Image" is in the share sheet; Android/desktop: normal download to gallery
+  if(/iPhone|iPad|iPod/.test(navigator.userAgent) && navigator.canShare && navigator.canShare({files:[f]}) && ready){
+    try{ await navigator.share({files:[f]}); return; }catch(e){ if(e&&e.name==='AbortError') return; } }
+  saveBlob(b); copyText(shareText(s));
+  toast('చిత్రం సేవ్ అయింది ✅ క్యాప్షన్ కాపీ అయింది – ఛానెల్‌లో 📎 నుంచి పోస్ట్ చేయండి');
+};
 $('shareBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
-  if(navigator.canShare){
-    toast('చిత్రం తయారవుతోంది…');
-    try{
-      const blob=await cardImage(s);
-      const file=new File([blob],'way2sec-news.jpg',{type:'image/jpeg'});
-      if(navigator.canShare({files:[file]})){
-        try{ await navigator.share({files:[file], text, title:'Way2Sec'}); }catch(e){ if(e&&e.name!=='AbortError') share(text); }
-        return;
-      }
-    }catch(e){}
-  }
+  const b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+  if(b && navigator.canShare){
+    const f=cardFile(b);
+    if(navigator.canShare({files:[f]})){
+      copyText(text); // WhatsApp often drops text sent with a picture; it is on the clipboard to paste
+      try{ await navigator.share({files:[f], text, title:'Way2Sec'}); return; }
+      catch(e){ if(e&&e.name==='AbortError') return; }
+    }
+  } else if(!b && navigator.canShare){ prepCard(); toast('చిత్రం సిద్ధమవుతోంది… ఒక్క క్షణం తర్వాత మళ్లీ షేర్ నొక్కండి'); return; }
   share(text);
 };
 $('shareApp').onclick=()=>share(`Way2Sec – Fastest AI News in Telugu 📲\nతెలుగులో వేగంగా, క్లుప్తంగా వార్తలు: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
