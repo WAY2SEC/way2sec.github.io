@@ -729,23 +729,26 @@ $('listenBtn').onclick=()=>{
   u.onend=u.onerror=()=>$('listenBtn').setAttribute('aria-pressed','false');
   synth.cancel(); synth.speak(u); $('listenBtn').setAttribute('aria-pressed','true');
 };
-/* WhatsApp button: opens WhatsApp straight away with the headline + Way2Sec link (WhatsApp shows the link preview) */
-$('waBtn').onclick=()=>{ const s=LIST[cur]; if(!s) return;
-  const u='https://wa.me/?text='+encodeURIComponent(shareText(s));
-  const w=window.open(u,'_blank'); if(!w) location.href=u; };
-$('shareBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
+/* Share the CARD PICTURE + caption. Used by both the share button and the green WhatsApp button. */
+const timeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r(null),ms))]);
+async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
-  const b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+  let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+  if(!b && navigator.canShare) b=await timeout(prepCard(),2500);
   if(b && navigator.canShare){
     const f=cardFile(b);
-    if(navigator.canShare({files:[f]})){
-      copyText(text); // WhatsApp often drops text sent with a picture; it is on the clipboard to paste
-      try{ await navigator.share({files:[f], text, title:'Way2Sec'}); return; }
+    if(navigator.canShare({files:[f], text})){
+      copyText(text); // backup: if WhatsApp drops the caption, it can be pasted
+      try{ await navigator.share({files:[f], text}); toast(viaWA?'WhatsApp ఎంచుకోండి · క్యాప్షన్ కాపీ అయింది':'క్యాప్షన్ కాపీ అయింది'); return; }
       catch(e){ if(e&&e.name==='AbortError') return; }
     }
-  } else if(!b && navigator.canShare){ prepCard(); toast('చిత్రం సిద్ధమవుతోంది… ఒక్క క్షణం తర్వాత మళ్లీ షేర్ నొక్కండి'); return; }
-  share(text);
-};
+  }
+  // computers / phones without picture sharing: open WhatsApp with the text and link
+  if(viaWA){ const u='https://wa.me/?text='+encodeURIComponent(text); const w=window.open(u,'_blank'); if(!w) location.href=u; }
+  else share(text);
+}
+$('shareBtn').onclick=()=>shareCard(false);
+$('waBtn').onclick=()=>shareCard(true);
 $('shareApp').onclick=()=>share(`Way2Sec – Fastest AI News in Telugu 📲\nతెలుగులో వేగంగా, క్లుప్తంగా వార్తలు: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
 
 /* ---------- bottom nav ---------- */
