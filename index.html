@@ -809,7 +809,7 @@ if(pushOK){
 }
 async function askAlerts(){
   $('alertCard').hidden = true; store.set('alertAsked', Date.now());
-  if(!pushOK){ toast('అలర్ట్‌లు way2sec.github.io యాప్‌లో మాత్రమే పనిచేస్తాయి'); return; }
+  if(!pushOK){ toast('అలర్ట్‌లు way2sec.news యాప్‌లో మాత్రమే పనిచేస్తాయి'); return; }
   if('Notification' in window && Notification.permission==='denied'){ toast('ఫోన్ సెట్టింగ్స్‌లో Way2Sec నోటిఫికేషన్లు ఆన్ చేయండి'); return; }
   OneSignalDeferred.push(async function(OneSignal){
     try{ await OneSignal.Notifications.requestPermission(); }catch(e){}
