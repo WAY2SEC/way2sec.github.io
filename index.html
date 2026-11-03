@@ -131,6 +131,12 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .datebar2{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 8px var(--gx);border-bottom:1px solid var(--line);background:var(--hdr);font-weight:800;font-size:14px}
 .datebar2 b{flex:1}
 .datebar2 button{min-height:34px;padding:0 12px;border-radius:8px;border:1.5px solid var(--line);background:transparent;font-weight:800;font-size:12.5px;cursor:pointer}
+.fl{display:block;font-weight:800;font-size:14px;margin-bottom:12px}
+.fl small{color:var(--muted);font-weight:600}
+.fl .search{margin:6px 0 0;font-weight:400}
+.chk{display:flex;gap:10px;align-items:flex-start;font-size:13px;line-height:1.5;margin:4px 0 10px}
+.chk input{width:22px;height:22px;flex-shrink:0;margin-top:1px;accent-color:var(--brand)}
+.tiperr{color:var(--brand);font-weight:800;font-size:13.5px;min-height:1em;margin:4px 0 8px}
 .empty{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;text-align:center}
 .empty h2{margin:0;font-size:19px;line-height:1.45}
 .empty p{margin:0;color:var(--muted);font-size:14.5px;line-height:1.6;max-width:32ch}
@@ -242,6 +248,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <h2>థీమ్</h2>
       <p class="sub">Theme – లైట్ (Editorial White) లేదా డార్క్ (Midnight Pro).</p>
       <div class="grid three" id="themes" role="radiogroup" aria-label="థీమ్"></div>
+      <button class="btn" id="tipOpen1" type="button" style="width:100%;margin-bottom:14px">📝 మీ ఊరి వార్త పంపండి</button>
       <p class="links"><a href="privacy.html">Privacy Policy · గోప్యతా విధానం</a> · Contact: way2sec.news@gmail.com</p>
     </div>
     <div class="sh-foot"><button class="btn" id="save" type="button">సేవ్ చేయండి · Save</button></div>
@@ -258,6 +265,24 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
     </div>
   </section>
 
+  <!-- readers send local news -->
+  <section class="sheet" id="tipSheet" hidden aria-label="మీ ఊరి వార్త పంపండి">
+    <div class="sh-head"><img class="logo" src="logo.png" alt="Way2Sec"><button class="icon x" id="closeTip" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <form class="sh-body" id="tipForm" novalidate>
+      <h2>📝 మీ ఊరి వార్త పంపండి</h2>
+      <p class="sub">మీ గ్రామం, మండలం, జిల్లాలో జరిగిన ముఖ్యమైన విషయం మాకు తెలియజేయండి. Way2Sec బృందం <b>పరిశీలించిన తర్వాతే</b> ప్రచురిస్తుంది.</p>
+      <label class="fl">మీ పేరు <small>(ఐచ్ఛికం)</small><input class="search" id="tipName" maxlength="60" autocomplete="name"></label>
+      <label class="fl">జిల్లా *<select class="search" id="tipDist" required></select></label>
+      <label class="fl">మండలం / గ్రామం / ప్రాంతం *<input class="search" id="tipPlace" maxlength="80" required placeholder="ఉదా: హన్మకొండ, కాజీపేట"></label>
+      <label class="fl">ఏం జరిగింది? *<textarea class="search" id="tipText" rows="5" maxlength="1200" required placeholder="ఏం, ఎక్కడ, ఎప్పుడు జరిగిందో వివరంగా రాయండి…" style="min-height:120px;padding-top:10px"></textarea></label>
+      <label class="fl">ఎప్పుడు జరిగింది?<input class="search" id="tipWhen" type="datetime-local"></label>
+      <label class="chk"><input type="checkbox" id="tipOk"> <span>ఈ సమాచారం నిజమని నిర్ధారిస్తున్నాను. ఎవరి పేరు, ఫోటో అనుమతి లేకుండా పంపను. Way2Sec పరిశీలించి, అవసరమైతే సరిచేసి ప్రచురించవచ్చు.</span></label>
+      <p class="sub">📷 ఫోటో / వీడియో ఉంటే WhatsApp చాట్ తెరిచాక 📎 నుంచి జత చేయండి.</p>
+      <p class="tiperr" id="tipErr" role="alert"></p>
+      <button class="btn wa" type="submit" style="width:100%;background:#25D366;color:#0B1F12">WhatsAppలో పంపండి</button>
+    </form>
+  </section>
+
   <!-- join the WhatsApp channel -->
   <section class="sheet" id="joinSheet" hidden aria-label="Way2Sec ఛానెల్">
     <div class="sh-head"><img class="logo" src="logo.png" alt="Way2Sec"><button class="icon x" id="closeJoin" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
@@ -267,6 +292,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <div class="tl">Fastest AI News in Telugu · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</div>
       <img class="qr" src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్">
       <a class="btn wa" id="joinLink" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a>
+      <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
     </div></div>
   </section>
@@ -277,7 +303,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 const CONFIG = {
   NEWS_URL: 'news.json',
   CHANNEL: 'https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138',
-  APP_LINK: 'https://way2sec.github.io/'
+  APP_LINK: 'https://way2sec.github.io/',
+  TIP_WHATSAPP: ''   // Way2Sec news-tips WhatsApp number with country code, digits only, e.g. '919876543210'
 };
 /* Topic photo library (free-licence photos in /photos). Filled in once photos are added. */
 const TOPIC_PHOTOS = {};
@@ -614,6 +641,30 @@ function setView(v){
 }
 document.querySelector('.nav').addEventListener('click',e=>{const b=e.target.closest('.nb'); if(b) setView(b.dataset.v);});
 $('closeJoin').onclick=()=>{$('joinSheet').hidden=true};
+
+/* ---------- readers send local news (opens WhatsApp with the tip typed) ---------- */
+function openTip(){
+  $('tipDist').innerHTML = '<option value="">జిల్లా ఎంచుకోండి</option>' + PLACES.filter(p=>p[0]!=='TS').map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])})</option>`).join('') + '<option value="ap">ఆంధ్రప్రదేశ్ (Andhra Pradesh)</option><option value="other">ఇతర ప్రాంతం (Other)</option>';
+  $('tipErr').textContent=''; $('sheet').hidden=true; $('joinSheet').hidden=true; $('tipSheet').hidden=false;
+}
+$('tipOpen1').onclick=openTip; $('tipOpen2').onclick=openTip; $('closeTip').onclick=()=>{ $('tipSheet').hidden=true; };
+$('tipForm').addEventListener('submit',e=>{
+  e.preventDefault();
+  const name=$('tipName').value.trim(), dist=$('tipDist'), place=$('tipPlace').value.trim(), text=$('tipText').value.trim(), when=$('tipWhen').value;
+  const err=m=>{ $('tipErr').textContent=m; };
+  if(!dist.value) return err('జిల్లా ఎంచుకోండి');
+  if(place.length<2) return err('మండలం / గ్రామం రాయండి');
+  if(text.length<20) return err('ఏం జరిగిందో కనీసం ఒక వాక్యం రాయండి');
+  if(!$('tipOk').checked) return err('నిర్ధారణ బాక్స్‌పై టిక్ చేయండి');
+  if(!/^\d{10,15}$/.test(CONFIG.TIP_WHATSAPP||'')) return err('క్షమించండి, వార్తల నంబర్ ఇంకా సెట్ చేయలేదు');
+  const distName=dist.options[dist.selectedIndex].text;
+  const whenTxt=when? when.replace('T',' · ') : 'తెలియదు';
+  const msg=`📝 *Way2Sec – మా ఊరి వార్త*\n\n👤 పేరు: ${name||'పేరు చెప్పలేదు'}\n📍 జిల్లా: ${distName}\n🏘️ మండలం/గ్రామం: ${place}\n🕒 ఎప్పుడు: ${whenTxt}\n\n📰 ఏం జరిగింది:\n${text}\n\n✅ సమాచారం నిజమని నిర్ధారించారు · Way2Sec యాప్ నుంచి పంపబడింది`;
+  location.href=`https://wa.me/${CONFIG.TIP_WHATSAPP}?text=`+encodeURIComponent(msg);
+  $('tipSheet').hidden=true; toast('ధన్యవాదాలు 🙏 WhatsAppలో Send నొక్కండి');
+  $('tipText').value=''; $('tipOk').checked=false;
+});
+if(new URLSearchParams(location.search).has('tip')) setTimeout(openTip,600);
 
 /* ---------- settings sheet ---------- */
 let draft;
