@@ -793,7 +793,7 @@ setTimeout(() => { if(!deferredPrompt && (isIOS || inApp)) showInstall(); }, 300
 
 /* ---------- news alerts (OneSignal web push) ---------- */
 const ONESIGNAL_APP_ID = '910af9fa-740e-48f2-ae42-2e60c9f4b017';
-const pushOK = location.hostname === 'way2sec.github.io' && 'serviceWorker' in navigator && 'Notification' in window;
+const pushOK = ['way2sec.github.io','way2sec.news','www.way2sec.news'].includes(location.hostname) && 'serviceWorker' in navigator && 'Notification' in window;
 window.OneSignalDeferred = window.OneSignalDeferred || [];
 function bellState(on){ $('bellBtn').setAttribute('aria-pressed', !!on); }
 function tagUser(OneSignal){ try{ OneSignal.User.addTags({place:prefs.place, topics:prefs.topics.join(',')}); }catch(e){} }
