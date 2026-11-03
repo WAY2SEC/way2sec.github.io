@@ -766,6 +766,27 @@ async function load(){
 }
 load();
 document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible' && $('sheet').hidden && view==='home') load(); });
+/* ---------- live check: every 60 s while the app is open ---------- */
+(function(){
+  const pill=document.createElement('button');
+  pill.id='newPill'; pill.type='button'; pill.hidden=true;
+  pill.textContent='🔴 కొత్త వార్తలు వచ్చాయి – చూడండి ↑';
+  pill.style.cssText='position:fixed;top:72px;left:50%;transform:translateX(-50%);z-index:60;border:0;border-radius:999px;padding:9px 16px;background:#C8102E;color:#fff;font:700 14px/1.2 inherit;box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer';
+  document.body.appendChild(pill);
+  pill.onclick=async()=>{ pill.hidden=true; await load(); if(view==='home') go(0,'right'); };
+  async function check(){
+    if(document.visibilityState!=='visible' || !NEWS || !NEWS.updated) return;
+    try{
+      const r=await fetch(CONFIG.NEWS_URL+'?t='+Date.now(),{cache:'no-store'}); if(!r.ok) return;
+      const j=await r.json();
+      if(j.updated && j.updated!==NEWS.updated){
+        if(view==='home' && cur===0 && $('sheet').hidden){ await load(); toast('కొత్త వార్తలు జోడించాం'); }
+        else pill.hidden=false;
+      }
+    }catch(e){}
+  }
+  setInterval(check,60000);
+})();
 /* ---------- add to home screen ---------- */
 const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true || document.referrer.startsWith('android-app://');
 const ua = navigator.userAgent;
