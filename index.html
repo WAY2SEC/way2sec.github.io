@@ -730,16 +730,21 @@ $('listenBtn').onclick=()=>{
   synth.cancel(); synth.speak(u); $('listenBtn').setAttribute('aria-pressed','true');
 };
 /* Share the CARD PICTURE + caption. Used by both the share button and the green WhatsApp button. */
+const IOS=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
 const timeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r(null),ms))]);
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+  // iPhone: the share must start right after the tap, and WhatsApp on iPhone keeps only the text
+  // when it gets picture + text together. So: share the picture alone, caption goes to the clipboard.
+  if(IOS && !b && navigator.canShare){ prepCard(); toast('చిత్రం సిద్ధమవుతోంది… ఒక్క క్షణం తర్వాత మళ్లీ నొక్కండి'); return; }
   if(!b && navigator.canShare) b=await timeout(prepCard(),2500);
   if(b && navigator.canShare){
-    const f=cardFile(b);
-    if(navigator.canShare({files:[f], text})){
-      copyText(text); // backup: if WhatsApp drops the caption, it can be pasted
-      try{ await navigator.share({files:[f], text}); toast(viaWA?'WhatsApp ఎంచుకోండి · క్యాప్షన్ కాపీ అయింది':'క్యాప్షన్ కాపీ అయింది'); return; }
+    const f=cardFile(b), data=IOS?{files:[f]}:{files:[f], text};
+    if(navigator.canShare(data)){
+      copyText(text); // caption + link on the clipboard, to paste under the picture
+      try{ await navigator.share(data);
+           toast(IOS?'చిత్రం పంపారు ✅ క్యాప్షన్ కాపీ అయింది – WhatsAppలో Paste చేయండి':(viaWA?'క్యాప్షన్ కాపీ అయింది':'క్యాప్షన్ కాపీ అయింది')); return; }
       catch(e){ if(e&&e.name==='AbortError') return; }
     }
   }
