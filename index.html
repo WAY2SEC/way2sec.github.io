@@ -365,7 +365,7 @@ const ART = {
 };
 
 /* ---------- jobs (jobs.json, filled once a day) ---------- */
-const JOB_TYPES = [['all','అన్నీ'],['tg','తెలంగాణ'],['ap','ఆంధ్రప్రదేశ్'],['central','కేంద్ర ప్రభుత్వం'],['bank','బ్యాంక్'],['railway','రైల్వే'],['police','పోలీస్ / రక్షణ'],['teaching','టీచర్ / విద్య'],['it','IT / ప్రైవేట్']];
+const JOB_TYPES = [['all','అన్నీ'],['tg','తెలంగాణ'],['ap','ఆంధ్రప్రదేశ్'],['central','కేంద్ర ప్రభుత్వం'],['bank','బ్యాంక్'],['railway','రైల్వే'],['police','పోలీస్ / రక్షణ'],['teaching','టీచర్ / విద్య'],['it','IT / సాఫ్ట్‌వేర్'],['private','ప్రైవేట్ ఉద్యోగాలు'],['mela','జాబ్ మేళా / అప్రెంటిస్']];
 const JT = Object.fromEntries(JOB_TYPES);
 let JOBS = [], jobFilter = 'all', jobsLoaded = false;
 function daysLeft(j){ const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.last||''); if(!m) return null;
@@ -376,7 +376,9 @@ function normJob(j){
     cat:`💼 ${JT[j.type]||'ఉద్యోగం'}${j.org?' · '+j.org:''}`, stat:j.posts||'ఉద్యోగాలు', statl:j.statl||'పోస్టులు',
     sum:j.p||'', p:[j.p,det].filter(Boolean).join(' '), src:j.src||j.org||'', url:j.url||j.apply||'' });
 }
-function setJobs(raw){ JOBS=(raw||[]).map(normJob).filter(j=>{ const d=daysLeft(j); return d===null||d>=0; }); }
+function setJobs(raw){ JOBS=(raw||[]).map(normJob).filter(j=>{ const d=daysLeft(j); if(d!==null) return d>=0;
+  // no last date (common for private jobs): show for 21 days after it was added
+  const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.d||''); return !m || (Date.now()-new Date(+m[3],+m[2]-1,+m[1]))/864e5 <= 21; }); }
 async function loadJobs(){
   try{ const r=await fetch('jobs.json?t='+Date.now(),{cache:'no-store'}); if(!r.ok) throw 0;
        const j=await r.json(); store.set('jobs', j.jobs||[]); setJobs(j.jobs); jobsLoaded=true; }catch(e){}
@@ -465,13 +467,13 @@ let cards=[], cur=0, LIST=[];
 function jobHTML(s,i){
   const dl=daysLeft(s);
   const left = dl===null ? '' : dl===0 ? '⏰ ఈరోజే చివరి రోజు' : dl<=3 ? `⏰ ఇంకా ${dl} రోజులే మిగిలాయి` : `⏳ దరఖాస్తుకు ఇంకా ${dl} రోజులు`;
-  const rows=[['🎓 అర్హత',s.qual],['🎂 వయసు',s.age,'o2'],['💰 జీతం',s.pay,'o2'],['🗓️ చివరి తేదీ',s.last&&teDate(s.last)],['📝 ఎలా',s.how,'o2']].filter(r=>r[1]);
+  const rows=[['🎓 అర్హత',s.qual],['🎂 వయసు',s.age,'o2'],['💰 జీతం',s.pay,'o2'],['🗓️ చివరి తేదీ',s.last?teDate(s.last):(s.walk||'')],['🏢 ఎక్కడ',s.loc,'o2'],['🧑‍💼 అనుభవం',s.exp,'o2'],['📝 ఎలా',s.how,'o2']].filter(r=>r[1]);
   const pl = s.place && !['TS','IN'].includes(s.place) ? `<span class="chip pl">📍 ${esc(s.place==='AP'?'ఆంధ్రప్రదేశ్':placeName(s.place))}</span>` : '';
   const link = s.apply||s.url;
   return `<article class="story" aria-label="ఉద్యోగం ${i+1}" style="--hl:var(--c-job);--hl-ink:var(--c-job)">
   <div class="panel">
     <svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART.job}</svg>
-    <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?'చివరి తేదీ '+esc(s.last):''}</span></div>
+    <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?'చివరి తేదీ '+esc(s.last):(s.d?'ప్రచురణ '+esc(s.d):'')}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
   <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">జాబ్స్ – ఉద్యోగ సమాచారం</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు</span></span></div><img src="logo-light.png" alt="Way2Sec"></div>
