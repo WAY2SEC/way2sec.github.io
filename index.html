@@ -153,16 +153,30 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .btn{min-height:44px;padding:0 20px;border-radius:10px;border:0;background:var(--brand);color:#fff;font-weight:800;font-size:14.5px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;gap:8px}
 
 /* action row */
-.actions{display:flex;align-items:center;justify-content:space-between;padding:4px var(--gr) 4px var(--gx);border-top:1px solid var(--line);background:var(--card)}
+.dockwrap{position:relative;padding:4px var(--gr) calc(6px) var(--gx);background:var(--paper)}
+.rail{height:3px;border-radius:3px;background:var(--line);overflow:hidden;margin:0 14px 6px}
+.rail i{display:block;height:100%;width:0;border-radius:3px;background:linear-gradient(90deg,#C8102E,#FF6A3D 60%,#FFD54A);transition:width .35s cubic-bezier(.2,.8,.2,1)}
+.actions{display:flex;align-items:center;gap:4px;padding:5px 6px;border-radius:24px;border:1px solid var(--line);
+  background:color-mix(in srgb,var(--card) 80%,transparent);-webkit-backdrop-filter:blur(16px) saturate(1.5);backdrop-filter:blur(16px) saturate(1.5);
+  box-shadow:0 10px 28px -10px rgba(18,40,74,.35),inset 0 1px 0 rgba(255,255,255,.5)}
 .act{width:44px;height:44px;border-radius:10px;border:0;background:transparent;display:grid;place-items:center;cursor:pointer;color:var(--ink)}
 .act svg{width:22px;height:22px}
 .act[aria-pressed="true"]{color:var(--brand)}
 .act[aria-pressed="true"] svg{fill:currentColor}
-.act.wa{background:#25D366;border-radius:50%;margin-left:4px;box-shadow:0 2px 8px rgba(37,211,102,.45)}
+.act.wa{background:linear-gradient(145deg,#2FE47A,#1DA851);border-radius:50%!important;width:48px;height:48px;margin-left:2px;box-shadow:0 2px 8px rgba(37,211,102,.45)}
 .act.wa svg{width:26px;height:26px}
 .act.wa:active{transform:scale(.94)}
 .mid{display:flex;align-items:center;gap:6px}
-.count{font-family:var(--display);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:52px;text-align:center}
+.count{margin-right:auto;font-family:var(--display);font-size:11px;letter-spacing:.06em;color:var(--muted);font-variant-numeric:tabular-nums;padding:5px 9px;border-radius:999px;background:var(--soft);white-space:nowrap}
+.count b{color:var(--ink);font-weight:400}
+.act{border-radius:14px!important;transition:background .15s,transform .1s}
+.act:active{transform:scale(.92)}
+.act.ai[aria-pressed="true"]{color:#fff;background:linear-gradient(135deg,#5B3A8C,#C8102E)}
+.act.ai[aria-pressed="true"] svg path{animation:eq 0.9s ease-in-out infinite alternate}
+.act.ai[aria-pressed="true"] svg path:nth-child(2n){animation-delay:.3s}
+@keyframes eq{from{opacity:.45}to{opacity:1}}
+#prev,#next{display:none}
+@media (min-width:760px){#prev,#next{display:grid}}
 /* bottom nav */
 .nav{display:flex;border-top:1px solid var(--line);background:var(--card);padding-bottom:env(safe-area-inset-bottom,0px)}
 .nb{flex:1;display:flex;flex-direction:column;align-items:center;gap:1px;min-height:52px;justify-content:center;border:0;background:transparent;cursor:pointer;font-size:11px;font-weight:700;color:var(--muted)}
@@ -227,17 +241,17 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
     <div class="row"><button class="btn later" id="alertLater" type="button">తర్వాత</button><button class="btn" id="alertYes" type="button">అలర్ట్‌లు ఆన్ చేయండి</button></div>
   </div>
 
-  <div class="actions">
-    <button class="act" id="saveBtn" type="button" aria-label="సేవ్ చేయండి" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button>
-    <div class="mid">
-      <button class="act" id="prev" type="button" aria-label="ముందు వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
+  <div class="dockwrap">
+    <div class="rail" aria-hidden="true"><i id="railFill"></i></div>
+    <div class="actions">
       <span class="count" id="count" aria-live="polite"></span>
+      <button class="act" id="prev" type="button" aria-label="ముందు వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
       <button class="act" id="next" type="button" aria-label="తర్వాతి వార్త"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
-    </div>
-    <div class="mid">
-    <button class="act" id="dlBtn" type="button" aria-label="కార్డు చిత్రాన్ని ఫోన్‌లో సేవ్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></button>
-    <button class="act" id="shareBtn" type="button" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
-    <button class="act wa" id="waBtn" type="button" aria-label="WhatsAppలో షేర్ చేయండి"><svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3.2A12.7 12.7 0 0 0 5.1 22.4L3.4 28.6l6.4-1.7A12.7 12.7 0 1 0 16 3.2zm0 23.2a10.5 10.5 0 0 1-5.4-1.5l-.4-.2-3.8 1 1-3.7-.2-.4A10.5 10.5 0 1 1 16 26.4zm5.8-7.9c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1a8.6 8.6 0 0 1-4.3-3.7c-.3-.6.3-.5 1-1.7.1-.2 0-.4 0-.5l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6a1.2 1.2 0 0 0-.9.4 3.6 3.6 0 0 0-1.1 2.7 6.3 6.3 0 0 0 1.3 3.3c.2.2 2.2 3.4 5.4 4.8 2 .9 2.8.9 3.8.8a3.2 3.2 0 0 0 2.1-1.5 2.6 2.6 0 0 0 .2-1.5c-.1-.1-.3-.2-.6-.4z"/></svg></button>
+      <button class="act" id="saveBtn" type="button" aria-label="సేవ్ చేయండి" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button>
+      <button class="act ai" id="listenBtn" type="button" aria-label="AI వాయిస్‌తో వినండి" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 10v4M8 7v10M12 4v16M16 8v8M20 11v2"/></svg></button>
+      <button class="act" id="dlBtn" type="button" aria-label="కార్డు చిత్రాన్ని ఫోన్‌లో సేవ్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></button>
+      <button class="act" id="shareBtn" type="button" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
+      <button class="act wa" id="waBtn" type="button" aria-label="WhatsAppలో షేర్ చేయండి"><svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3.2A12.7 12.7 0 0 0 5.1 22.4L3.4 28.6l6.4-1.7A12.7 12.7 0 1 0 16 3.2zm0 23.2a10.5 10.5 0 0 1-5.4-1.5l-.4-.2-3.8 1 1-3.7-.2-.4A10.5 10.5 0 1 1 16 26.4zm5.8-7.9c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1a8.6 8.6 0 0 1-4.3-3.7c-.3-.6.3-.5 1-1.7.1-.2 0-.4 0-.5l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6a1.2 1.2 0 0 0-.9.4 3.6 3.6 0 0 0-1.1 2.7 6.3 6.3 0 0 0 1.3 3.3c.2.2 2.2 3.4 5.4 4.8 2 .9 2.8.9 3.8.8a3.2 3.2 0 0 0 2.1-1.5 2.6 2.6 0 0 0 .2-1.5c-.1-.1-.3-.2-.6-.4z"/></svg></button>
     </div>
   </div>
   <nav class="nav" aria-label="ప్రధాన మెనూ">
@@ -527,14 +541,14 @@ function renderFeed(keepKey){
     if(view==='jobs'){
       feed.innerHTML = `<div class="empty"><h2>${jobsLoaded||JOBS.length?'ఈ విభాగంలో ఇప్పుడు ఉద్యోగ ప్రకటనలు లేవు':'ఉద్యోగాలు లోడ్ అవుతున్నాయి…'}</h2><p>కొత్త ఉద్యోగ ప్రకటనలు ప్రతిరోజూ ఉదయం జోడిస్తాం.</p>${jobFilter!=='all'?'<button class="btn" type="button" id="toAll">అన్ని ఉద్యోగాలు చూడండి</button>':''}</div>`;
       if($('toAll')) $('toAll').onclick=()=>{ jobFilter='all'; renderTabs(); renderFeed(); };
-      $('count').textContent='0 / 0'; cards=[]; syncSave(); return;
+      setCount(0,0); cards=[]; syncSave(); return;
     }
     const msg = view==='saved' ? ['ఇంకా సేవ్ చేసిన వార్తలు లేవు','వార్త కింద ఉన్న 🔖 బటన్‌తో నచ్చిన వార్తలను సేవ్ చేసుకోండి.']
       : section==='district' ? [esc(placeName(prefs.place))+' నుంచి ఇంకా వార్తలు లేవు','కొత్త వార్తలు ప్రతి గంటకు వస్తాయి. అప్పటివరకు అన్ని వార్తలు చూడండి.']
       : [esc(s[1])+' విభాగంలో ఇంకా వార్తలు లేవు','కొత్త వార్తలు ప్రతి గంటకు వస్తాయి. అప్పటివరకు అన్ని వార్తలు చూడండి.'];
     feed.innerHTML = `<div class="empty"><h2>${msg[0]}</h2><p>${msg[1]}</p><button class="btn" type="button" id="toAll">అన్ని వార్తలు చూడండి</button></div>`;
     $('toAll').onclick=()=>{section='all';setView('home')};
-    $('count').textContent='0 / 0'; cards=[]; syncSave(); return;
+    setCount(0,0); cards=[]; syncSave(); return;
   }
   feed.innerHTML = LIST.map(cardHTML).join('');
   cur=0; cards=[...feed.querySelectorAll('.story')];
@@ -542,7 +556,7 @@ function renderFeed(keepKey){
   else if(keepKey){ const j=LIST.findIndex(x=>keyOf(x)===keepKey); if(j>0) cur=j; }
   cards.forEach((c,k)=>{c.hidden=k!==cur;c.style.transform=''});
   fit(cards[cur]);
-  $('count').textContent=`${cur+1} / ${cards.length}`; syncSave();
+  setCount(cur+1,cards.length); syncSave();
 }
 addEventListener('resize',()=>{ if(cards[cur]) fit(cards[cur]); });
 
@@ -563,7 +577,7 @@ function go(i,dir){
   requestAnimationFrame(()=>{ out.style.transform=tf(v,100); inn.style.transform='translate(0,0)'; });
   const done=()=>{ out.hidden=true; out.style.transform=''; busy=false; };
   if(matchMedia('(prefers-reduced-motion: reduce)').matches) done(); else setTimeout(done,320);
-  cur=i; $('count').textContent=`${cur+1} / ${cards.length}`; syncSave();
+  cur=i; setCount(cur+1,cards.length); syncSave();
 }
 function snapBack(){ const c=cards[cur]; if(!c) return; c.classList.remove('drag'); c.style.transform='translate(0,0)'; }
 let drag=null; const feedEl=$('feed');
@@ -696,6 +710,24 @@ $('dlBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
     try{ await navigator.share({files:[f]}); return; }catch(e){ if(e&&e.name==='AbortError') return; } }
   saveBlob(b); copyText(shareText(s));
   toast('చిత్రం సేవ్ అయింది ✅ క్యాప్షన్ కాపీ అయింది – ఛానెల్‌లో 📎 నుంచి పోస్ట్ చేయండి');
+};
+function setCount(a,n){ $('count').innerHTML = n ? `<b>${a}</b>/${n}` : ''; $('railFill').style.width = n ? (a/n*100)+'%' : '0'; if(window.stopVoice) stopVoice(); }
+/* AI voice: reads the card aloud in Telugu with the phone's own voice */
+const synth = window.speechSynthesis;
+function stopVoice(){ try{ if(synth && (synth.speaking||synth.pending)) synth.cancel(); }catch(e){} $('listenBtn').setAttribute('aria-pressed','false'); }
+window.stopVoice = stopVoice;
+$('listenBtn').onclick=()=>{
+  const s=LIST[cur]; if(!s) return;
+  if(!synth){ toast('ఈ ఫోన్‌లో వాయిస్ సపోర్ట్ లేదు'); return; }
+  if($('listenBtn').getAttribute('aria-pressed')==='true'){ stopVoice(); return; }
+  const text = s.kind==='job'
+    ? [s.h, s.sum, s.posts&&('పోస్టులు '+s.posts), s.qual&&('అర్హత '+s.qual), s.last&&('చివరి తేదీ '+teDate(s.last))].filter(Boolean).join('. ')
+    : [s.h, s.p, ...(Array.isArray(s.pts)?s.pts:[])].filter(Boolean).join('. ');
+  const u=new SpeechSynthesisUtterance(text); u.lang='te-IN'; u.rate=0.95;
+  const v=synth.getVoices().find(v=>/^te/i.test(v.lang)); if(v) u.voice=v;
+  else toast('తెలుగు వాయిస్ లేకపోతే ఫోన్ Settings → Text-to-speech లో తెలుగు జోడించండి');
+  u.onend=u.onerror=()=>$('listenBtn').setAttribute('aria-pressed','false');
+  synth.cancel(); synth.speak(u); $('listenBtn').setAttribute('aria-pressed','true');
 };
 /* WhatsApp button: opens WhatsApp straight away with the headline + Way2Sec link (WhatsApp shows the link preview) */
 $('waBtn').onclick=()=>{ const s=LIST[cur]; if(!s) return;
