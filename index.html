@@ -52,6 +52,20 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .icon[hidden]{display:none}
 .bell[aria-pressed="true"]{color:var(--brand);border-color:var(--brand)}
 .bell[aria-pressed="true"] svg{fill:currentColor}
+.installbar{position:absolute;left:10px;right:10px;top:8px;z-index:6;background:#12284A;color:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.25);padding:10px 12px;display:flex;align-items:center;gap:10px}
+.installbar[hidden]{display:none}
+.installbar img{width:42px;height:42px;border-radius:10px;flex-shrink:0;background:#fff}
+.installbar .t{flex:1;min-width:0;line-height:1.35}
+.installbar .t b{display:block;font-size:14px}
+.installbar .t span{font-size:11.5px;color:#D6DEEA}
+.installbar .go{min-height:40px;padding:0 14px;border-radius:10px;border:0;background:#25D366;color:#0B1F12;font-weight:800;font-size:13.5px;cursor:pointer;white-space:nowrap}
+.installbar .no{width:32px;height:32px;border:0;background:transparent;color:#AFC0D6;font-size:20px;cursor:pointer;flex-shrink:0}
+.howto{position:absolute;inset:0;z-index:12;background:rgba(0,0,0,.55);display:flex;align-items:flex-end}
+.howto[hidden]{display:none}
+.howto .box{background:var(--card);color:var(--ink);width:100%;border-radius:16px 16px 0 0;padding:18px 18px calc(18px + env(safe-area-inset-bottom,0px))}
+.howto h3{margin:0 0 10px;font-size:18px}
+.howto ol{margin:0 0 14px;padding-left:22px;font-size:15px;line-height:1.7}
+.howto .btn{width:100%}
 .alertcard{position:absolute;left:12px;right:12px;bottom:12px;z-index:5;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--brand);border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.18);padding:12px 14px;display:flex;flex-direction:column;gap:8px}
 .alertcard[hidden]{display:none}
 .alertcard b{font-size:15px}
@@ -175,6 +189,13 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   </header>
   <nav class="tabs" id="tabs" aria-label="విభాగాలు"></nav>
   <main class="feed" id="feed" aria-label="వార్తలు"></main>
+  <div class="installbar" id="installBar" hidden role="dialog" aria-label="యాప్ ఇన్‌స్టాల్">
+    <img src="icon-192.png" alt="">
+    <div class="t"><b>Way2Sec యాప్‌ను హోమ్ స్క్రీన్‌కు జోడించండి</b><span>ఉచితం · ఒక్క టచ్‌తో వార్తలు · 🔔 అలర్ట్‌లు</span></div>
+    <button class="go" id="installGo" type="button">జోడించండి</button>
+    <button class="no" id="installNo" type="button" aria-label="మూసివేయండి">×</button>
+  </div>
+  <div class="howto" id="howTo" hidden role="dialog" aria-label="హోమ్ స్క్రీన్‌కు జోడించడం ఎలా"><div class="box"><h3 id="howTitle"></h3><ol id="howSteps"></ol><button class="btn" id="howOk" type="button">సరే</button></div></div>
   <div class="alertcard" id="alertCard" hidden role="dialog" aria-label="వార్తల అలర్ట్‌లు">
     <b>🔔 ముఖ్యమైన వార్తలు వెంటనే తెలుసుకోండి</b>
     <p>బ్రేకింగ్ న్యూస్, మీ జిల్లా వార్తల అలర్ట్‌లు మీ ఫోన్‌కి పంపమంటారా? ఎప్పుడైనా ఆపేయవచ్చు.</p>
@@ -598,6 +619,31 @@ async function load(){
 }
 load();
 document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible' && $('sheet').hidden && view==='home') load(); });
+/* ---------- add to home screen ---------- */
+const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true || document.referrer.startsWith('android-app://');
+const ua = navigator.userAgent;
+const isIOS = /iPhone|iPad|iPod/.test(ua) || (navigator.platform==='MacIntel' && navigator.maxTouchPoints>1);
+const inApp = /FBAN|FBAV|Instagram|Line\/|WhatsApp|wv\)/.test(ua);
+let deferredPrompt = null;
+addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt = e; showInstall(); });
+addEventListener('appinstalled', () => { $('installBar').hidden = true; store.set('installed', 1); toast('Way2Sec హోమ్ స్క్రీన్‌కు జోడించబడింది ✓'); });
+function showInstall(){
+  if(standalone || store.get('installed',0)) return;
+  if(Date.now() - store.get('installNo', 0) < 2*864e5) return;  // reader closed it: ask again after 2 days
+  $('installBar').hidden = false;
+}
+function howTo(title, steps){ $('howTitle').textContent = title; $('howSteps').innerHTML = steps.map(t=>`<li>${t}</li>`).join(''); $('howTo').hidden = false; }
+$('installGo').onclick = async () => {
+  if(deferredPrompt){ deferredPrompt.prompt(); const r = await deferredPrompt.userChoice.catch(()=>null); deferredPrompt = null; if(r && r.outcome==='accepted') $('installBar').hidden = true; return; }
+  if(isIOS) return howTo('iPhoneలో హోమ్ స్క్రీన్‌కు జోడించడం', ['Safariలో ఈ పేజీ తెరిచి ఉంచండి','కింద ఉన్న <b>Share ⬆️</b> బటన్ నొక్కండి','<b>"Add to Home Screen"</b> ఎంచుకుని <b>Add</b> నొక్కండి']);
+  if(inApp) return howTo('Chromeలో తెరవండి', ['పైన కుడివైపు <b>⋮</b> (మూడు చుక్కలు) నొక్కండి','<b>"Open in Chrome"</b> / "బ్రౌజర్‌లో తెరవండి" ఎంచుకోండి','Chromeలో వచ్చే <b>"జోడించండి"</b> బటన్ నొక్కండి']);
+  howTo('హోమ్ స్క్రీన్‌కు జోడించడం', ['Chromeలో పైన కుడివైపు <b>⋮</b> (మూడు చుక్కలు) నొక్కండి','<b>"Install app"</b> లేదా <b>"Add to Home screen"</b> ఎంచుకోండి','<b>Install</b> / <b>Add</b> నొక్కండి']);
+};
+$('installNo').onclick = () => { $('installBar').hidden = true; store.set('installNo', Date.now()); };
+$('howOk').onclick = () => { $('howTo').hidden = true; };
+// iPhone and in-app browsers never fire the install event, so offer the steps there after a few seconds
+setTimeout(() => { if(!deferredPrompt && (isIOS || inApp)) showInstall(); }, 3000);
+
 /* ---------- news alerts (OneSignal web push) ---------- */
 const ONESIGNAL_APP_ID = '910af9fa-740e-48f2-ae42-2e60c9f4b017';
 const pushOK = location.hostname === 'way2sec.github.io' && 'serviceWorker' in navigator && 'Notification' in window;
@@ -633,7 +679,7 @@ $('alertLater').onclick=()=>{ $('alertCard').hidden=true; store.set('alertAsked'
 setTimeout(()=>{
   const last = store.get('alertAsked', 0);
   const granted = 'Notification' in window && Notification.permission !== 'default';
-  if(pushOK && !granted && Date.now()-last > 7*864e5 && $('sheet').hidden) $('alertCard').hidden = false;
+  if(pushOK && !granted && Date.now()-last > 7*864e5 && $('sheet').hidden && $('installBar').hidden) $('alertCard').hidden = false;
 }, 25000);
 </script>
 </body>
