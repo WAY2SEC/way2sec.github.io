@@ -158,6 +158,9 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .act svg{width:22px;height:22px}
 .act[aria-pressed="true"]{color:var(--brand)}
 .act[aria-pressed="true"] svg{fill:currentColor}
+.act.wa{background:#25D366;border-radius:50%;margin-left:4px;box-shadow:0 2px 8px rgba(37,211,102,.45)}
+.act.wa svg{width:26px;height:26px}
+.act.wa:active{transform:scale(.94)}
 .mid{display:flex;align-items:center;gap:6px}
 .count{font-family:var(--display);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:52px;text-align:center}
 /* bottom nav */
@@ -234,6 +237,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
     <div class="mid">
     <button class="act" id="dlBtn" type="button" aria-label="కార్డు చిత్రాన్ని ఫోన్‌లో సేవ్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></button>
     <button class="act" id="shareBtn" type="button" aria-label="షేర్ చేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
+    <button class="act wa" id="waBtn" type="button" aria-label="WhatsAppలో షేర్ చేయండి"><svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3.2A12.7 12.7 0 0 0 5.1 22.4L3.4 28.6l6.4-1.7A12.7 12.7 0 1 0 16 3.2zm0 23.2a10.5 10.5 0 0 1-5.4-1.5l-.4-.2-3.8 1 1-3.7-.2-.4A10.5 10.5 0 1 1 16 26.4zm5.8-7.9c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1a8.6 8.6 0 0 1-4.3-3.7c-.3-.6.3-.5 1-1.7.1-.2 0-.4 0-.5l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6a1.2 1.2 0 0 0-.9.4 3.6 3.6 0 0 0-1.1 2.7 6.3 6.3 0 0 0 1.3 3.3c.2.2 2.2 3.4 5.4 4.8 2 .9 2.8.9 3.8.8a3.2 3.2 0 0 0 2.1-1.5 2.6 2.6 0 0 0 .2-1.5c-.1-.1-.3-.2-.6-.4z"/></svg></button>
     </div>
   </div>
   <nav class="nav" aria-label="ప్రధాన మెనూ">
@@ -693,6 +697,10 @@ $('dlBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
   saveBlob(b); copyText(shareText(s));
   toast('చిత్రం సేవ్ అయింది ✅ క్యాప్షన్ కాపీ అయింది – ఛానెల్‌లో 📎 నుంచి పోస్ట్ చేయండి');
 };
+/* WhatsApp button: opens WhatsApp straight away with the headline + Way2Sec link (WhatsApp shows the link preview) */
+$('waBtn').onclick=()=>{ const s=LIST[cur]; if(!s) return;
+  const u='https://wa.me/?text='+encodeURIComponent(shareText(s));
+  const w=window.open(u,'_blank'); if(!w) location.href=u; };
 $('shareBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   const b=(cardCache.k===keyOf(s))?cardCache.blob:null;
