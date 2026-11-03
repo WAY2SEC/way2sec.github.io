@@ -418,7 +418,7 @@ function fit(c){ // make the card fit the screen: hide the least important parts
   const over = () => c.scrollHeight > c.clientHeight + 1;
   for(const t of ['t1','t2','t3','t4']){ if(!over()) break; c.classList.add(t); }
 }
-function renderFeed(){
+function renderFeed(keepKey){
   LIST = pick(); const feed=$('feed');
   if(!LIST.length){
     const s=SECTIONS.find(x=>x[0]===section);
@@ -432,6 +432,7 @@ function renderFeed(){
   feed.innerHTML = LIST.map(cardHTML).join('');
   cur=0; cards=[...feed.querySelectorAll('.story')];
   if(JUMP){ const j=LIST.findIndex(x=>sid(x)===JUMP); JUMP=null; if(j>0) cur=j; }
+  else if(keepKey){ const j=LIST.findIndex(x=>keyOf(x)===keepKey); if(j>0) cur=j; }
   cards.forEach((c,k)=>{c.hidden=k!==cur;c.style.transform=''});
   fit(cards[cur]);
   $('count').textContent=`${cur+1} / ${cards.length}`; syncSave();
@@ -444,7 +445,8 @@ const tf=(v,f)=>`translate(${v[0]*f}%,${v[1]*f}%)`;
 let busy=false;
 function go(i,dir){
   if(!cards.length||busy) return;
-  if(i<0||i>=cards.length){ snapBack(); toast(i<0?'ఇదే మొదటి వార్త':'ఇదే చివరి వార్త – కొత్తవి త్వరలో'); return; }
+  if(i>=cards.length && view==='home'){ snapBack(); moreNews(dir); return; }
+  if(i<0||i>=cards.length){ snapBack(); toast(i<0?'ఇదే మొదటి వార్త':'ఇదే చివరి వార్త'); return; }
   if(i===cur) return;
   const out=cards[cur], inn=cards[i], v=VEC[dir||(i>cur?'left':'right')];
   busy=true;
@@ -667,12 +669,41 @@ $('dateList').addEventListener('click',e=>{ const b=e.target.closest('[data-iso]
 $('datePick').addEventListener('change',e=>{ if(e.target.value) showDay(e.target.value); });
 $('closeDates').onclick=()=>{ $('dateSheet').hidden=true; };
 
+/* ---------- all news: today's full list, then older days as the reader swipes on ---------- */
+let BASE=[], EXTRA=new Map(), loadingMore=false;
+function mergeAll(){
+  const seen=new Set(), out=[];
+  const add=s=>{ const k=keyOf(s); if(seen.has(k)) return; seen.add(k); out.push(s); };
+  BASE.forEach(add);
+  [...EXTRA.keys()].sort().reverse().forEach(iso=>EXTRA.get(iso).forEach(add));
+  NEWS.stories=out;
+}
+async function fetchDay(iso){
+  if(EXTRA.has(iso)) return 0;
+  try{ const r=await fetch(`archive/${iso}.json?t=`+Date.now(),{cache:'no-store'}); if(!r.ok) return 0;
+    const d=await r.json(); const list=(d.stories||[]).map(x=>Object.assign({d:d.date},x)); EXTRA.set(iso,list); return list.length; }catch(e){ return 0; }
+}
+async function moreNews(dir){
+  if(loadingMore) return; loadingMore=true;
+  if(!DATES.length) await loadDates();
+  const next=DATES.find(d=>!EXTRA.has(d.iso));
+  if(!next){ loadingMore=false; toast('ఇవే అన్ని వార్తలు – కొత్తవి త్వరలో'); return; }
+  toast(`📅 ${teDay(next.iso)} వార్తలు లోడ్ అవుతున్నాయి…`);
+  const before=LIST.length, k=LIST[cur]?keyOf(LIST[cur]):null;
+  await fetchDay(next.iso); mergeAll(); renderFeed(k); loadingMore=false;
+  if(LIST.length>before) go(cur+1, dir||'left'); else moreNews(dir);
+}
+
 /* ---------- load news ---------- */
 async function load(){
   try{
     const r = await fetch(CONFIG.NEWS_URL+'?t='+Date.now(), {cache:'no-store'});
     if(!r.ok) throw new Error(r.status);
     NEWS = await r.json(); store.set('news', NEWS);
+    BASE = NEWS.stories.slice();
+    // add the rest of today's stories (news.json holds only the newest 40)
+    await loadDates(); if(DATES[0]) await fetchDay(DATES[0].iso);
+    mergeAll();
   }catch(e){
     NEWS = store.get('news', NEWS);
     if(NEWS.stories.length) toast('ఆఫ్‌లైన్ – పాత వార్తలు చూపిస్తున్నాం');
