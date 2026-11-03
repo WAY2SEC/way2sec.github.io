@@ -45,7 +45,7 @@ li{display:flex;gap:10px;padding:9px 0;border-top:1px solid #E3D9C8} li:first-ch
 
 
 COLS = {'--c-election':'#B3400F','--c-gov':'#1F6B3A','--c-money':'#16406E','--c-water':'#0B5CAD','--c-power':'#5B3A8C','--c-city':'#7A4A12'}
-APP = "way2sec.github.io"
+APP = "way2sec.news"
 IG_CSS = """
 *{box-sizing:border-box} body{margin:0;font-family:'Nirmala UI','Noto Sans Telugu',sans-serif;color:#1A1410}
 .c{width:400px;display:flex;flex-direction:column;background:#FFFBF3;overflow:hidden}
