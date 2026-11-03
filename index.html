@@ -732,6 +732,21 @@ $('listenBtn').onclick=()=>{
 /* Share the CARD PICTURE + caption. Used by both the share button and the green WhatsApp button. */
 const IOS=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
 const timeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r(null),ms))]);
+function showCardImage(b, text){
+  let o=$('imgShare');
+  if(!o){ o=document.createElement('div'); o.id='imgShare';
+    o.style.cssText='position:fixed;inset:0;z-index:80;background:#0A0E16;display:flex;flex-direction:column;align-items:center;gap:12px;padding:16px 16px calc(16px + env(safe-area-inset-bottom,0px));overflow:auto';
+    o.innerHTML='<p style="margin:0;color:#fff;font:800 16px/1.5 var(--body);text-align:center">👇 చిత్రాన్ని <u>నొక్కి పట్టుకోండి</u> → <b>Share</b> → <b>WhatsApp</b></p>'
+      +'<img id="imgShareImg" alt="Way2Sec కార్డు" style="max-width:100%;max-height:62vh;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.5);-webkit-touch-callout:default;user-select:auto">'
+      +'<p style="margin:0;color:#C9D3E1;font:600 13px/1.5 var(--body);text-align:center">క్యాప్షన్, లింక్ కాపీ అయ్యాయి – WhatsAppలో మెసేజ్ బాక్స్‌ను నొక్కి Paste చేయండి</p>'
+      +'<div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center"><button type="button" id="imgShareCopy" class="btn">క్యాప్షన్ మళ్లీ కాపీ</button><button type="button" id="imgShareClose" class="btn" style="background:#fff;color:#16120E">మూసివేయండి</button></div>';
+    document.body.appendChild(o);
+    $('imgShareClose').onclick=()=>{ o.hidden=true; };
+  }
+  const fr=new FileReader(); fr.onload=()=>{ $('imgShareImg').src=fr.result; }; fr.readAsDataURL(b);
+  $('imgShareCopy').onclick=async()=>{ toast(await copyText(text)?'కాపీ అయింది ✅':'కాపీ కాలేదు'); };
+  copyText(text); o.hidden=false;
+}
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
@@ -748,6 +763,8 @@ async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
       catch(e){ if(e&&e.name==='AbortError') return; }
     }
   }
+  // iPhone where the share menu can't take the picture (e.g. Chrome on iPhone): show the picture to long-press
+  if(IOS && b){ showCardImage(b, text); return; }
   // computers / phones without picture sharing: open WhatsApp with the text and link
   if(viaWA){ const u='https://wa.me/?text='+encodeURIComponent(text); const w=window.open(u,'_blank'); if(!w) location.href=u; }
   else share(text);
