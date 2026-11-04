@@ -1,8 +1,204 @@
 {
  "date": "04.11.2026",
- "updated": "2026-11-04T21:13:04+05:30",
+ "updated": "2026-11-04T21:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "15",
+   "statl": "పరిశీలించిన నియోజకవర్గాలు",
+   "h": "హైదరాబాద్ ఎస్ఐఆర్: ఓటర్ల జాబితాలో అక్రమ వలసదారులు లేరన్న డీఈఓ",
+   "p": "ఓటర్ల జాబితాల ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో హైదరాబాద్‌లోని 15 నియోజకవర్గాల జాబితాల్లో ఒక్క అక్రమ వలసదారుడు కూడా కనిపించలేదని జిల్లా ఎన్నికల అధికారి, జీహెచ్ఎంసీ కమిషనర్ ఆర్.వి. కర్ణన్ తెలిపారు. కొద్దిమంది నేపాల్ పౌరుల పేర్లు ఉండగా వాటిని తొలగించామన్నారు. వారు చట్టబద్ధ మార్గంలో దేశంలోకి వచ్చినందున అక్రమ వలసదారులు అనలేమని, వారికి నేపాల్‌లో ఓటు హక్కు ఉందని వివరించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/few-nepalis-but-no-illegal-immigrants-in-hyderabad-sir-deo-3569705/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "15 నియోజకవర్గాల జాబితాల్లో అక్రమ వలసదారులు లేరు",
+    "కొద్దిమంది నేపాల్ పౌరుల పేర్లు తొలగింపు",
+    "డీఈఓ ప్రకటనను స్వాగతించిన ఎంఐఎం అధినేత ఒవైసీ"
+   ],
+   "why": "హైదరాబాద్ ఓటర్ల జాబితాపై జరుగుతున్న చర్చకు ఎన్నికల అధికారి ఇచ్చిన అధికారిక స్పష్టత ఇది.",
+   "en": {
+    "h": "Hyderabad SIR found no illegal immigrants on voter lists: DEO",
+    "p": "District Election Officer and GHMC Commissioner R.V. Karnan said the Special Intensive Revision (SIR) of electoral rolls did not find even one illegal immigrant in the voter lists of Hyderabad's 15 constituencies. He said the names of a few Nepali citizens were found and removed. As they entered the country through a legal route, they cannot be called illegal immigrants, and they hold voting rights in Nepal, he explained.",
+    "pts": [
+     "No illegal immigrants on rolls of 15 constituencies",
+     "Names of a few Nepali citizens removed",
+     "AIMIM chief Owaisi welcomed the DEO's statement"
+    ],
+    "why": "This is official clarification from the election officer on the ongoing debate over Hyderabad's voter list.",
+    "cat": "Hyderabad · Voter list",
+    "statl": "Constituencies checked"
+   },
+   "hi": {
+    "h": "हैदराबाद एसआईआर: मतदाता सूची में कोई अवैध प्रवासी नहीं, डीईओ ने कहा",
+    "p": "जिला निर्वाचन अधिकारी और जीएचएमसी आयुक्त आर.वी. कर्णन ने बताया कि मतदाता सूचियों के विशेष गहन पुनरीक्षण (एसआईआर) में हैदराबाद के 15 निर्वाचन क्षेत्रों की सूचियों में एक भी अवैध प्रवासी नहीं मिला। उन्होंने कहा कि कुछ नेपाली नागरिकों के नाम मिले, जिन्हें हटा दिया गया। वे कानूनी रास्ते से देश में आए थे, इसलिए उन्हें अवैध प्रवासी नहीं कहा जा सकता, और उनके पास नेपाल में मतदान का अधिकार है।",
+    "pts": [
+     "15 निर्वाचन क्षेत्रों की सूचियों में अवैध प्रवासी नहीं",
+     "कुछ नेपाली नागरिकों के नाम हटाए गए",
+     "एआईएमआईएम प्रमुख ओवैसी ने डीईओ के बयान का स्वागत किया"
+    ],
+    "why": "हैदराबाद की मतदाता सूची पर चल रही बहस पर निर्वाचन अधिकारी की यह आधिकारिक स्पष्टता है।",
+    "cat": "हैदराबाद · मतदाता सूची",
+    "statl": "जांचे गए निर्वाचन क्षेत्र"
+   },
+   "d": "04.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "ఏపీ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "HPTF",
+   "statl": "పరీక్షల సంస్కరణల ఉన్నత స్థాయి టాస్క్‌ఫోర్స్",
+   "h": "పరీక్షల సంస్కరణలపై సీఎం చంద్రబాబుతో నందన్ నీలేకని భేటీ",
+   "p": "దేశంలో పరీక్షల విధానంలో సంస్కరణలపై కేంద్రం ఏర్పాటు చేసిన ఉన్నత స్థాయి టాస్క్‌ఫోర్స్ ఛైర్మన్ నందన్ నీలేకని బుధవారం అమరావతి సచివాలయంలో ముఖ్యమంత్రి చంద్రబాబు నాయుడును కలిశారు. రాష్ట్రంలో అకడమిక్, పోటీ పరీక్షలు ఎలా నిర్వహిస్తున్నారో వివరాలు అడిగారు. ఉపాధి అవకాశాలు పెరిగేలా విద్యా వ్యవస్థ అంతటా సంస్కరణలు తేవాలని సీఎం సూచించారు. డీఎస్సీ పరీక్షలో సాంకేతికత వినియోగాన్ని మంత్రి నారా లోకేశ్ వివరించారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/andhra-cm-discusses-examination-reforms-with-centres-task-force-chairman/3090761/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "అమరావతి",
+   "pts": [
+    "అమరావతి సచివాలయంలో సీఎంతో నీలేకని భేటీ",
+    "డీఎస్సీ పరీక్షలో టెక్నాలజీ వినియోగంపై లోకేశ్ వివరణ",
+    "ఎన్టీఏ పరీక్షలతో సహా సంస్కరణలు సూచించనున్న టాస్క్‌ఫోర్స్"
+   ],
+   "why": "పోటీ పరీక్షలు రాసే విద్యార్థులకు పరీక్షల భద్రత, పారదర్శకత విషయంలో ఈ సంస్కరణలు కీలకం.",
+   "en": {
+    "h": "Nandan Nilekani meets CM Naidu on examination reforms",
+    "p": "Nandan Nilekani, chairman of the Centre's High Powered Task Force on examination reforms, met Chief Minister N. Chandrababu Naidu at the Amaravati Secretariat on Wednesday. He sought details of how academic and competitive examinations are conducted in the state. The CM suggested reforms across the education system to improve employment opportunities. Minister Nara Lokesh explained the use of technology in the DSC examination.",
+    "pts": [
+     "Nilekani meets CM at Amaravati Secretariat",
+     "Lokesh explains use of technology in DSC exam",
+     "Task force to recommend reforms, including for NTA exams"
+    ],
+    "why": "These reforms matter to students taking competitive exams, for exam security and transparency.",
+    "cat": "AP · Education",
+    "statl": "High Powered Task Force on exam reforms"
+   },
+   "hi": {
+    "h": "परीक्षा सुधारों पर नंदन नीलेकणि ने मुख्यमंत्री नायडू से की मुलाकात",
+    "p": "परीक्षा सुधारों पर केंद्र की उच्च स्तरीय टास्क फोर्स के अध्यक्ष नंदन नीलेकणि ने बुधवार को अमरावती सचिवालय में मुख्यमंत्री एन. चंद्रबाबू नायडू से मुलाकात की। उन्होंने राज्य में शैक्षणिक और प्रतियोगी परीक्षाएं कैसे आयोजित होती हैं, इसकी जानकारी मांगी। मुख्यमंत्री ने रोजगार के अवसर बढ़ाने के लिए पूरी शिक्षा व्यवस्था में सुधार का सुझाव दिया। मंत्री नारा लोकेश ने डीएससी परीक्षा में तकनीक के उपयोग के बारे में बताया।",
+    "pts": [
+     "अमरावती सचिवालय में मुख्यमंत्री से नीलेकणि की मुलाकात",
+     "लोकेश ने डीएससी परीक्षा में तकनीक के उपयोग की जानकारी दी",
+     "टास्क फोर्स एनटीए परीक्षाओं सहित सुधार सुझाएगी"
+    ],
+    "why": "प्रतियोगी परीक्षा देने वाले छात्रों के लिए परीक्षा की सुरक्षा और पारदर्शिता के लिहाज से ये सुधार अहम हैं।",
+    "cat": "आंध्र प्रदेश · शिक्षा",
+    "statl": "परीक्षा सुधारों पर उच्च स्तरीय टास्क फोर्स"
+   },
+   "d": "04.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "పశ్చిమ బెంగాల్ · ఉద్యోగాలు",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "1 లక్ష",
+   "statl": "2027 మే 7 నాటికి నియామకాల లక్ష్యం",
+   "h": "బెంగాల్‌లో 2027 మే నాటికి లక్ష నియామకాలు: సీఎం సువేందు",
+   "p": "నియామకాల్లో రాజకీయ జోక్యం ఉండదని పశ్చిమ బెంగాల్ సీఎం సువేందు అధికారి బుధవారం కోల్‌కతాలో చెప్పారు. 200 మందికి పైగా కొత్త సహకార ఇన్‌స్పెక్టర్లకు నియామక పత్రాలు అందించారు. 2027 మే 7 నాటికి లక్ష నియామకాలు లక్ష్యమని, ఇప్పటివరకు సుమారు 33,400 మంది టీచర్లు సహా 63,496 పోస్టులు భర్తీ చేశామని తెలిపారు. ఓబీసీలకు 7% రిజర్వేషన్ అమలు చేశామన్నారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/no-political-interference-in-recruitments-bengal-cm-suvendu/3090569/",
+   "sec": [
+    "india",
+    "jobs"
+   ],
+   "st": "WB",
+   "place": "IN",
+   "loc": "కోల్‌కతా",
+   "pts": [
+    "ఇప్పటివరకు 63,496 పోస్టుల భర్తీ, అందులో 33,400 టీచర్లు",
+    "సుమారు 11,000 పోలీసుల నియామకం; నవంబర్ 7న ఎస్ఐ జాబ్ ఫెయిర్",
+    "₹8,000 కోట్ల డీఏ బకాయిలు చెల్లింపు"
+   ],
+   "why": "బెంగాల్‌లో ప్రభుత్వ ఉద్యోగాల కోసం ఎదురుచూస్తున్న యువతకు, అక్కడి ఉద్యోగులకు ఇది ముఖ్యమైన ప్రకటన.",
+   "en": {
+    "h": "Bengal to make one lakh recruitments by May 2027: CM Suvendu",
+    "p": "West Bengal CM Suvendu Adhikari said in Kolkata on Wednesday that there would be no political interference in recruitments. He handed appointment letters to more than 200 newly selected cooperative inspectors. He said the target is one lakh recruitments by May 7, 2027, and that 63,496 posts, including about 33,400 teachers, have been filled so far. He said 7% reservation for OBCs has been implemented.",
+    "pts": [
+     "63,496 posts filled so far, including 33,400 teachers",
+     "About 11,000 police appointed; SI job fair on November 7",
+     "₹8,000 crore of pending DA dues paid"
+    ],
+    "why": "This is an important announcement for youth awaiting government jobs in Bengal and for employees there.",
+    "cat": "West Bengal · Jobs",
+    "statl": "Recruitment target by May 7, 2027"
+   },
+   "hi": {
+    "h": "बंगाल में मई 2027 तक एक लाख भर्तियां: मुख्यमंत्री शुभेंदु",
+    "p": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने बुधवार को कोलकाता में कहा कि भर्तियों में कोई राजनीतिक हस्तक्षेप नहीं होगा। उन्होंने 200 से अधिक नवचयनित सहकारी निरीक्षकों को नियुक्ति पत्र सौंपे। उन्होंने कहा कि 7 मई 2027 तक एक लाख भर्तियों का लक्ष्य है और अब तक लगभग 33,400 शिक्षकों सहित 63,496 पद भरे जा चुके हैं। उन्होंने बताया कि ओबीसी के लिए 7% आरक्षण लागू किया गया है।",
+    "pts": [
+     "अब तक 63,496 पद भरे गए, इनमें 33,400 शिक्षक",
+     "करीब 11,000 पुलिसकर्मी नियुक्त; 7 नवंबर को एसआई जॉब फेयर",
+     "₹8,000 करोड़ के बकाया डीए का भुगतान"
+    ],
+    "why": "बंगाल में सरकारी नौकरियों का इंतजार कर रहे युवाओं और वहां के कर्मचारियों के लिए यह अहम घोषणा है।",
+    "cat": "पश्चिम बंगाल · नौकरियां",
+    "statl": "7 मई 2027 तक भर्ती लक्ष्य"
+   },
+   "d": "04.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "7",
+   "statl": "హార్ముజ్ తెరవడానికి ఇరాన్ షరతులు",
+   "h": "హార్ముజ్‌పై అమెరికా స్పందన నమ్మశక్యంగా లేదన్న ఇరాన్; దాడిని ధ్రువీకరించిన ట్రంప్",
+   "p": "హార్ముజ్ జలసంధిని మళ్లీ తెరవడానికి తాము పెట్టిన ఏడు షరతులపై అమెరికా ఇచ్చిన సమాధానం నమ్మశక్యంగా లేదని ఇరాన్ సుప్రీం జాతీయ భద్రతా మండలి కార్యదర్శి మొహ్సేన్ రెజాయీ అన్నారు. ఆంక్షల ఎత్తివేత, నౌకా దిగ్బంధం ముగింపు వంటివి ఆ షరతుల్లో ఉన్నాయి. ఇరాన్ విమాన విధ్వంసక కేంద్రంపై మంగళవారం దాడి చేసినట్లు ట్రంప్ ధ్రువీకరించారు. ఇరు దేశాల మధ్య చర్చలు కొనసాగుతున్నాయని ఖతార్ తెలిపింది.",
+   "src": "Al Jazeera, Reuters",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "షరతులు నెరవేరితే రెండు రోజుల్లో జలసంధి తెరుస్తామన్న ఇరాన్",
+    "దాడిని 'చిన్న దాడి, యుద్ధం కాదు' అన్న ట్రంప్",
+    "ఒమన్ తీరం సమీపంలో ట్యాంకర్‌ను తాకిన రెండు ప్రక్షేపకాలు"
+   ],
+   "why": "గల్ఫ్‌లో ఉద్రిక్తతలు పెరగడం అక్కడ నివసించే తెలుగువారికి, ప్రపంచ మార్కెట్లకు ఆందోళన కలిగించే అంశం.",
+   "en": {
+    "h": "Iran calls US reply on Hormuz unconvincing; Trump confirms strike",
+    "p": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the US reply to Iran's seven conditions for reopening the Strait of Hormuz was not convincing. The conditions include lifting sanctions and ending the naval blockade. Trump confirmed that the US struck an Iranian anti-aircraft facility on Tuesday. Qatar said talks between the two countries are continuing.",
+    "pts": [
+     "Iran says strait will reopen in two days if conditions are met",
+     "Trump called it a 'minor attack' that 'wasn't war'",
+     "Two projectiles struck a tanker near Oman's coast"
+    ],
+    "why": "Rising tension in the Gulf is a concern for Telugu people living there and for world markets.",
+    "cat": "World · Iran",
+    "statl": "Iran's conditions to reopen Hormuz"
+   },
+   "hi": {
+    "h": "होर्मुज पर अमेरिका का जवाब असंतोषजनक: ईरान; ट्रंप ने हमले की पुष्टि की",
+    "p": "ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मोहसेन रेज़ाई ने कहा कि होर्मुज जलडमरूमध्य फिर से खोलने की ईरान की सात शर्तों पर अमेरिका का जवाब विश्वसनीय नहीं है। इन शर्तों में प्रतिबंध हटाना और नौसैनिक नाकेबंदी खत्म करना शामिल है। ट्रंप ने पुष्टि की कि अमेरिका ने मंगलवार को ईरान के एक विमान-रोधी केंद्र पर हमला किया। कतर ने कहा कि दोनों देशों के बीच बातचीत जारी है।",
+    "pts": [
+     "शर्तें पूरी हों तो दो दिन में जलडमरूमध्य खोलेंगे: ईरान",
+     "ट्रंप ने इसे 'छोटा हमला, युद्ध नहीं' बताया",
+     "ओमान तट के पास टैंकर से टकराए दो प्रक्षेपास्त्र"
+    ],
+    "why": "खाड़ी में बढ़ता तनाव वहां रहने वाले तेलुगु लोगों और दुनिया के बाजारों के लिए चिंता का विषय है।",
+    "cat": "दुनिया · ईरान",
+    "statl": "होर्मुज खोलने की ईरान की शर्तें"
+   },
+   "d": "04.11.2026",
+   "t": "21:35"
+  },
   {
    "cat": "ప్రపంచం · అమెరికా",
    "col": "--c-election",
@@ -1549,177 +1745,6 @@
    "why": "చట్టం ఉన్నా బాల కార్మిక వ్యవస్థ కొనసాగుతున్న చోట్ల అమలుపై కేంద్రం నిరంతర పర్యవేక్షణ ఉండాలని కోర్టు స్పష్టం చేసింది.",
    "d": "04.11.2026",
    "t": "15:55"
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "ఆరెంజ్",
-   "statl": "తూర్పు జిల్లాలకు వాతావరణ శాఖ హెచ్చరిక",
-   "h": "తూర్పు తెలంగాణకు ఆరెంజ్ అలర్ట్: నేడు అతి భారీ వర్షాలు",
-   "p": "బుధవారం తెలంగాణలో ఉరుములు, మెరుపులు, ఈదురుగాలులతో వర్షాలు కురుస్తాయని హైదరాబాద్ వాతావరణ కేంద్రం ఆరెంజ్ అలర్ట్ ఇచ్చింది. ఖమ్మం, భద్రాద్రి కొత్తగూడెం, ములుగు, వరంగల్, నల్గొండ సహా 16 తూర్పు జిల్లాల్లో విస్తృతంగా వానలు పడతాయని తెలిపింది. భద్రాద్రి కొత్తగూడెంలో 24 గంటల్లో ఆకస్మిక వరదలు రావచ్చని తెలంగాణ వెదర్‌మ్యాన్ బాలాజీ హెచ్చరించారు. హైదరాబాద్‌లో మాత్రం తేలికపాటి నుంచి మోస్తరు వర్షమే.",
-   "pts": [
-    "16 తూర్పు జిల్లాలకు ఐఎండీ ఆరెంజ్ అలర్ట్",
-    "భద్రాద్రిలో ఆకస్మిక వరదల ముప్పు హెచ్చరిక",
-    "మంగళవారం భద్రాద్రిలో 231.8 మి.మీ., ఖమ్మంలో 218.6 మి.మీ."
-   ],
-   "why": "భద్రాద్రి, ఖమ్మం, ములుగు జిల్లాల ప్రజలు, రైతులు వాగుల వద్ద జాగ్రత్తగా ఉండాలి.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/imd-hyderabad-forecasts-very-heavy-rain-today-issues-alert-3569546/",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "en": {
-    "h": "Orange alert for eastern Telangana: very heavy rain today",
-    "p": "IMD Hyderabad issued an orange alert for Wednesday, forecasting rain with thunder, lightning and squalls in Telangana. Widespread rain is expected in 16 eastern districts including Khammam, Bhadradri Kothagudem, Mulugu, Warangal and Nalgonda. Telangana Weatherman Balaji warned of possible flash floods in Bhadradri Kothagudem within 24 hours. Hyderabad will see only light to moderate rain.",
-    "pts": [
-     "IMD orange alert for 16 eastern districts",
-     "Flash flood warning for Bhadradri Kothagudem",
-     "Tuesday: 231.8 mm in Bhadradri, 218.6 mm in Khammam"
-    ],
-    "why": "People and farmers in Bhadradri, Khammam and Mulugu districts must stay careful near streams.",
-    "cat": "Telangana · Weather",
-    "statl": "IMD warning for eastern districts"
-   },
-   "hi": {
-    "h": "पूर्वी तेलंगाना के लिए ऑरेंज अलर्ट: आज बहुत भारी बारिश",
-    "p": "हैदराबाद मौसम केंद्र ने बुधवार के लिए ऑरेंज अलर्ट जारी किया है और तेलंगाना में गरज, बिजली और तेज़ हवाओं के साथ बारिश का अनुमान जताया है। खम्मम, भद्राद्री कोत्तागुडेम, मुलुगु, वारंगल और नलगोंडा समेत 16 पूर्वी ज़िलों में व्यापक बारिश होगी। तेलंगाना वेदरमैन बालाजी ने भद्राद्री कोत्तागुडेम में 24 घंटे में अचानक बाढ़ की चेतावनी दी। हैदराबाद में सिर्फ हल्की से मध्यम बारिश होगी।",
-    "pts": [
-     "16 पूर्वी ज़िलों के लिए IMD ऑरेंज अलर्ट",
-     "भद्राद्री में अचानक बाढ़ का खतरा",
-     "मंगलवार: भद्राद्री में 231.8 मिमी, खम्मम में 218.6 मिमी"
-    ],
-    "why": "भद्राद्री, खम्मम और मुलुगु ज़िलों के लोग और किसान नालों के पास सावधान रहें।",
-    "cat": "तेलंगाना · मौसम",
-    "statl": "पूर्वी ज़िलों के लिए मौसम विभाग की चेतावनी"
-   },
-   "d": "04.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ఏపీ · మద్యం కేసు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "₹195 కోట్లు",
-   "statl": "మద్యం రవాణా టెండర్ కుంభకోణం ఆరోపణ",
-   "h": "మద్యం రవాణా కేసు: హైదరాబాద్‌లో ఈడీ ఎదుట హాజరైన అంబటి రాంబాబు",
-   "p": "ఏపీ మద్యం కేసులో మనీ లాండరింగ్ ఆరోపణలపై మాజీ మంత్రి, వైఎస్సార్‌సీపీ నేత అంబటి రాంబాబును బుధవారం హైదరాబాద్‌లోని ఈడీ జోనల్ కార్యాలయంలో ప్రశ్నించారు. రూ.195 కోట్ల మద్యం రవాణా టెండర్ల కుంభకోణం ఆరోపణలపై ఈ దర్యాప్తు జరుగుతోంది. గతంలో గుండె స్టెంట్ల వైద్య నివేదికలు సమర్పించి ఆయన హాజరు వాయిదా వేసుకున్నారు. తర్వాత నవంబర్ 4న రావాలని ఈడీ ఆదేశించింది.",
-   "pts": [
-    "హైదరాబాద్ ఈడీ జోనల్ కార్యాలయంలో విచారణ",
-    "ఏపీ సీఐడీ ఎఫ్ఐఆర్ ఆధారంగా కేసు",
-    "జూన్‌లో ఇదే కేసులో ముగ్గురి అరెస్ట్"
-   ],
-   "why": "ఏపీ మద్యం విధానంపై దర్యాప్తు ఏ దిశగా సాగుతుందో ఈ విచారణ సూచిస్తుంది.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/telangana/ap-liquor-scam-case-ambati-rambabu-appears-before-ed-in-hyderabad-2001649",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "en": {
-    "h": "AP liquor case: Ambati Rambabu appears before ED in Hyderabad",
-    "p": "Former minister and YSRCP leader Ambati Rambabu was questioned on Wednesday at the ED's zonal office in Hyderabad over money laundering allegations in the AP liquor case. The probe concerns an alleged Rs 195-crore liquor transport tender scam. He had earlier deferred appearing by submitting medical reports on heart stents. The ED then directed him to appear on November 4.",
-    "pts": [
-     "Questioned at ED zonal office, Hyderabad",
-     "Case based on an AP CID FIR",
-     "Three arrested in the same case in June"
-    ],
-    "why": "The questioning shows the direction of the probe into Andhra Pradesh's liquor policy.",
-    "cat": "Andhra Pradesh · Liquor case",
-    "statl": "Alleged liquor transport tender scam"
-   },
-   "hi": {
-    "h": "AP शराब मामला: हैदराबाद में ED के सामने पेश हुए अंबटी रामबाबू",
-    "p": "आंध्र प्रदेश शराब मामले में मनी लॉन्ड्रिंग के आरोपों पर पूर्व मंत्री और YSRCP नेता अंबटी रामबाबू से बुधवार को हैदराबाद के ED ज़ोनल कार्यालय में पूछताछ हुई। जांच 195 करोड़ रुपये के कथित शराब परिवहन टेंडर घोटाले से जुड़ी है। पहले उन्होंने हृदय स्टेंट की मेडिकल रिपोर्ट देकर पेशी टाली थी। इसके बाद ED ने उन्हें 4 नवंबर को आने का आदेश दिया।",
-    "pts": [
-     "हैदराबाद ED ज़ोनल कार्यालय में पूछताछ",
-     "AP CID की FIR पर आधारित मामला",
-     "इसी मामले में जून में तीन गिरफ्तार"
-    ],
-    "why": "यह पूछताछ आंध्र प्रदेश की शराब नीति की जांच की दिशा दिखाती है।",
-    "cat": "आंध्र प्रदेश · शराब मामला",
-    "statl": "कथित शराब परिवहन टेंडर घोटाला"
-   },
-   "d": "04.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "తమిళనాడు · చెన్నై",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "9 మంది",
-   "statl": "ఆచూకీ లేని మత్స్యకారులు",
-   "h": "మురసు తుపాను వేళ: సముద్రంలో చెన్నై మత్స్యకారులు 9 మంది గల్లంతు",
-   "p": "చెన్నై కాశిమేడు ఫిషింగ్ హార్బర్ నుంచి వెళ్లిన 9 మంది మత్స్యకారుల మర పడవకు కఠిన వాతావరణంలో సంబంధాలు తెగిపోయాయి. అక్టోబర్ 29న లోతైన సముద్ర వేటకు వెళ్లిన వీరితో నవంబర్ 3 మధ్యాహ్నం 3 గంటలకు సంప్రదింపులు ఆగిపోయాయి. కుటుంబాలు మత్స్యశాఖ, కోస్ట్ గార్డ్, మంత్రులకు ఫిర్యాదు చేశాయి. కోస్ట్ గార్డ్ నౌకలు, హెలికాప్టర్లు పంపాలని మత్స్యకారులు కోరుతున్నారు.",
-   "pts": [
-    "అక్టోబర్ 29న వేటకు వెళ్లిన పడవ",
-    "నవంబర్ 3 మధ్యాహ్నం సంబంధాలు తెగిపోయాయి",
-    "కోస్ట్ గార్డ్ గాలింపు కోసం కుటుంబాల విజ్ఞప్తి"
-   ],
-   "why": "తుపాను సమయంలో సముద్ర వేటకు వెళ్లే మత్స్యకారుల భద్రత మళ్లీ చర్చకు వచ్చింది.",
-   "src": "PTI, Siasat Daily",
-   "url": "https://www.siasat.com/nine-fishermen-from-chennai-missing-at-sea-amid-cyclone-murasu-3569514/",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "TN",
-   "place": "tn-chennai",
-   "loc": "కాశిమేడు",
-   "en": {
-    "h": "Nine Chennai fishermen missing at sea amid Cyclone Murasu",
-    "p": "A mechanised boat with nine fishermen from Kasimedu fishing harbour in Chennai lost contact in rough weather. The crew had left for deep-sea fishing on October 29, and contact stopped at 3 pm on November 3. Families have complained to the fisheries department, the Coast Guard and ministers. Fishermen are asking for Coast Guard ships and helicopters to be deployed.",
-    "pts": [
-     "Boat left for fishing on October 29",
-     "Contact lost on November 3 afternoon",
-     "Families seek Coast Guard search"
-    ],
-    "why": "The safety of fishermen at sea during cyclones is again in focus.",
-    "cat": "Tamil Nadu · Chennai",
-    "statl": "Fishermen missing"
-   },
-   "hi": {
-    "h": "चक्रवात मुरासु के बीच चेन्नई के 9 मछुआरे समुद्र में लापता",
-    "p": "चेन्नई के कासिमेडु फिशिंग हार्बर से निकली 9 मछुआरों वाली मशीनी नाव का खराब मौसम में संपर्क टूट गया। दल 29 अक्टूबर को गहरे समुद्र में मछली पकड़ने गया था और 3 नवंबर दोपहर 3 बजे संपर्क बंद हो गया। परिवारों ने मत्स्य विभाग, तटरक्षक बल और मंत्रियों से शिकायत की है। मछुआरे तटरक्षक जहाज़ और हेलीकॉप्टर भेजने की मांग कर रहे हैं।",
-    "pts": [
-     "29 अक्टूबर को मछली पकड़ने निकली नाव",
-     "3 नवंबर दोपहर संपर्क टूटा",
-     "परिवारों ने तटरक्षक तलाश की मांग की"
-    ],
-    "why": "चक्रवात के दौरान समुद्र में जाने वाले मछुआरों की सुरक्षा फिर चर्चा में है।",
-    "cat": "तमिलनाडु · चेन्नई",
-    "statl": "लापता मछुआरे"
-   },
-   "d": "04.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "భారత్ · సుప్రీంకోర్టు",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "2",
-   "statl": "పిల్లల నిబంధనలపై పునఃపరిశీలన",
-   "h": "ఇద్దరు పిల్లల నిబంధన చట్టాలు ఔచిత్యం కోల్పోయాయి: సుప్రీంకోర్టు",
-   "p": "ఇద్దరి కంటే ఎక్కువ మంది పిల్లలు ఉన్నవారిని శిక్షించే చట్టాలు దేశంలో ఔచిత్యం కోల్పోయాయని సుప్రీంకోర్టు వ్యాఖ్యానించింది. దేశంలో సంతానోత్పత్తి రేటు తగ్గుతున్న విషయాన్ని ప్రస్తావిస్తూ ఈ చట్టాలను మళ్లీ పరిశీలించాల్సిన అవసరం ఉందని పేర్కొంది. ఇద్దరు పిల్లల విధానాన్ని సమర్థించిన గత తీర్పులను విస్తృత ధర్మాసనానికి నివేదించింది.",
-   "src": "LiveLaw",
-   "url": "https://www.livelaw.in/buzz/livelaw-breaking-news-alerts-04-november-2026-37222",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "తగ్గుతున్న సంతానోత్పత్తి రేటును ప్రస్తావించిన కోర్టు",
-    "గత తీర్పులు విస్తృత ధర్మాసనానికి",
-    "తుది నిర్ణయం ఇక విస్తృత ధర్మాసనం చేతిలో"
-   ],
-   "why": "ఇద్దరు పిల్లల నిబంధనలు ఉన్న చట్టాల భవిష్యత్తు ఇప్పుడు విస్తృత ధర్మాసనం తీర్పుపై ఆధారపడి ఉంది.",
-   "d": "04.11.2026",
-   "t": "15:35"
   },
   {
    "cat": "ఆలేరు · మున్సిపాలిటీ",
