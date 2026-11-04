@@ -129,19 +129,131 @@ const SCENES = {
       <rect x="150" y="150" width="5" height="50"/><rect x="160" y="150" width="5" height="50"/><rect x="170" y="150" width="5" height="50"/><rect x="148" y="146" width="29" height="4"/>
     </g>`
 };
+/* more drawings: coast, palaces, monuments, rivers, hills */
+Object.assign(SCENES, {
+  beach: `
+    <circle cx="300" cy="110" r="34" opacity=".55"/>
+    <g opacity=".35"><path d="M0 150h400v50H0z"/></g>
+    <g>
+      <path d="M0 160q25-8 50 0t50 0 50 0 50 0 50 0 50 0 50 0 50 0v8q-25-8-50 0t-50 0-50 0-50 0-50 0-50 0-50 0-50 0z"/>
+      <path d="M0 182q25-8 50 0t50 0 50 0 50 0 50 0 50 0 50 0 50 0v18H0z"/>
+      <path d="M70 160c-2-30 2-62 10-84" stroke="#fff" stroke-width="6" fill="none"/>
+      <path d="M80 76c-22-2-38 8-44 20 14-8 30-10 44-8-20 6-32 16-36 28 14-12 28-18 38-18-2 12-10 22-18 30 14-8 22-18 24-30 6 12 18 20 34 24-8-10-16-20-18-30 14 2 30 10 38 20-4-14-18-24-36-28 12-2 26 2 38 10-8-14-26-20-44-18z"/>
+      <path d="M330 160v-70h14v70z"/><path d="M326 90h22l-4-10h-14z"/><path d="M332 80h10v-8h-10z"/>
+      <path d="M200 150l30-10 6 10z" opacity=".7"/>
+    </g>`,
+  palace: `
+    <g opacity=".35"><path d="M0 200v-30h400v30z"/></g>
+    <g>
+      <rect x="60" y="130" width="280" height="70"/>
+      ${[80,120,160,224,264,304].map(x=>`<path d="M${x} 200v-30c0-8 6-14 13-14s13 6 13 14v30z" fill="var(--hl,#000)" opacity=".35"/>`).join('')}
+      <rect x="170" y="92" width="60" height="38"/>
+      <path d="M176 92c0-22 11-36 24-36s24 14 24 36z"/><rect x="198" y="40" width="4" height="16"/>
+      ${[60,326].map(x=>`<rect x="${x}" y="104" width="14" height="26"/><path d="M${x-2} 104c0-10 4-16 9-16s9 6 9 16z"/>`).join('')}
+      ${[130,256].map(x=>`<rect x="${x}" y="110" width="14" height="20"/><path d="M${x-2} 110c0-8 4-13 9-13s9 5 9 13z"/>`).join('')}
+    </g>`,
+  gateway: `
+    <g opacity=".35"><path d="M0 178q25-8 50 0t50 0 50 0 50 0 50 0 50 0 50 0 50 0v22H0z"/></g>
+    <g>
+      <path d="M130 186V96h140v90h-40v-44c0-17-13-30-30-30s-30 13-30 30v44z"/>
+      <rect x="124" y="86" width="152" height="10"/>
+      ${[130,170,214,254].map(x=>`<rect x="${x}" y="58" width="16" height="28"/><path d="M${x-2} 58c0-10 5-16 10-16s10 6 10 16z"/>`).join('')}
+      <path d="M180 78h40v8h-40z"/>
+    </g>`,
+  redfort: `
+    <g opacity=".35"><path d="M0 200v-20h400v20z"/></g>
+    <g>
+      <path d="M20 200v-60${[...Array(18)].map((_,i)=>`h10v-8h10v8`).join('')}h0v60z"/>
+      <path d="M150 200v-90h100v90h-26v-36c0-14-10-24-24-24s-24 10-24 24v36z"/>
+      <rect x="144" y="100" width="112" height="10"/>
+      ${[150,226].map(x=>`<rect x="${x}" y="78" width="24" height="22"/><path d="M${x-4} 78c0-12 8-20 16-20s16 8 16 20z"/>`).join('')}
+      <path d="M186 100c0-14 6-24 14-24s14 10 14 24z"/>
+      ${[30,350].map(x=>`<rect x="${x}" y="110" width="20" height="30"/><path d="M${x-3} 110c0-10 6-16 13-16s13 6 13 16z"/>`).join('')}
+    </g>`,
+  bridge: `
+    <g opacity=".35"><path d="M0 176q25-8 50 0t50 0 50 0 50 0 50 0 50 0 50 0 50 0v24H0z"/></g>
+    <g>
+      <rect x="0" y="150" width="400" height="10"/>
+      ${[110,290].map(x=>`<path d="M${x-14} 160V40h28v120z"/><rect x="${x-20}" y="36" width="40" height="8"/>`).join('')}
+      <path d="M0 150L96 60M124 60L200 120L276 60M304 60L400 150" stroke="#fff" stroke-width="7" fill="none"/>
+      <path d="M40 150L96 100M150 150L124 100M250 150L276 100M360 150L304 100M200 120v30" stroke="#fff" stroke-width="4" fill="none" opacity=".7"/>
+    </g>`,
+  taj: `
+    <g opacity=".35"><path d="M0 200v-18h400v18z"/></g>
+    <g>
+      <rect x="120" y="170" width="160" height="12"/>
+      <rect x="150" y="110" width="100" height="60"/>
+      <path d="M200 112h-40c0-30 18-50 40-62 22 12 40 32 40 62z"/><rect x="198" y="34" width="4" height="18"/>
+      <path d="M186 170v-30c0-8 6-14 14-14s14 6 14 14v30z" fill="var(--hl,#000)" opacity=".35"/>
+      ${[160,226].map(x=>`<rect x="${x}" y="98" width="14" height="12"/><path d="M${x-2} 98c0-8 4-13 9-13s9 5 9 13z"/>`).join('')}
+      ${[110,282].map(x=>`<rect x="${x}" y="66" width="8" height="104"/><path d="M${x-2} 66c0-8 3-12 6-12s6 4 6 12z"/><rect x="${x-2}" y="96" width="12" height="3"/><rect x="${x-2}" y="130" width="12" height="3"/>`).join('')}
+    </g>`,
+  boat: `
+    <g opacity=".35"><path d="M0 150h400v50H0z"/></g>
+    <g>
+      <path d="M0 170q25-8 50 0t50 0 50 0 50 0 50 0 50 0 50 0 50 0v30H0z" opacity=".6"/>
+      <path d="M120 160h170c-10 14-30 20-50 20h-80c-20 0-34-8-40-20z"/>
+      <path d="M150 160c0-24 20-40 52-40s52 16 52 40z"/>
+      <path d="M296 150c-2-30 2-60 10-80" stroke="#fff" stroke-width="5" fill="none"/>
+      <path d="M306 70c-20-2-34 8-40 18 12-6 26-8 40-6-18 6-28 14-32 24 12-10 24-14 34-14-2 10-8 20-16 26 12-6 20-16 22-26 6 10 16 18 30 22-6-8-14-18-16-26 12 2 26 8 34 18-4-12-16-22-32-26 10-2 22 2 34 8-8-12-24-18-40-16z"/>
+      <path d="M40 150c-2-24 0-46 6-64" stroke="#fff" stroke-width="4" fill="none" opacity=".8"/>
+    </g>`,
+  hills: `
+    <g opacity=".35"><path d="M0 200L70 90l50 60 60-100 70 90 50-50 100 110z"/></g>
+    <g>
+      <path d="M0 200l60-70 40 40 70-90 60 80 50-40 120 80z"/>
+      <path d="M170 80l-14 18 14-6 14 8z" fill="var(--hl,#000)" opacity=".4"/>
+      ${[40,320,360].map(x=>`<path d="M${x} 150l14 24h-8l12 20h-36l12-20h-8z"/>`).join('')}
+    </g>`,
+  dam: `
+    <g opacity=".35"><path d="M0 110h400v20H0z"/></g>
+    <g>
+      <path d="M0 120h400l-30 80H30z"/>
+      ${[...Array(9)].map((_,i)=>`<rect x="${52+i*34}" y="132" width="18" height="40" rx="2" fill="var(--hl,#000)" opacity=".35"/>`).join('')}
+      <rect x="0" y="112" width="400" height="8"/>
+      <path d="M40 200q20-10 40 0t40 0 40 0 40 0 40 0 40 0 40 0 40 0" stroke="#fff" stroke-width="4" fill="none" opacity=".7"/>
+    </g>`
+});
+
+/* Places: India → state → district (Telangana + Andhra Pradesh now; other states state-level) → town/village (story "loc") */
+const STATES = [
+  ['TG','తెలంగాణ','Telangana'],['AP','ఆంధ్రప్రదేశ్','Andhra Pradesh'],['KA','కర్ణాటక','Karnataka'],['TN','తమిళనాడు','Tamil Nadu'],
+  ['MH','మహారాష్ట్ర','Maharashtra'],['KL','కేరళ','Kerala'],['DL','ఢిల్లీ','Delhi'],['OD','ఒడిశా','Odisha'],['CG','ఛత్తీస్‌గఢ్','Chhattisgarh'],
+  ['GJ','గుజరాత్','Gujarat'],['RJ','రాజస్థాన్','Rajasthan'],['UP','ఉత్తరప్రదేశ్','Uttar Pradesh'],['MP','మధ్యప్రదేశ్','Madhya Pradesh'],
+  ['WB','పశ్చిమ బెంగాల్','West Bengal'],['BR','బిహార్','Bihar'],['JH','జార్ఖండ్','Jharkhand'],['PB','పంజాబ్','Punjab'],['HR','హరియాణా','Haryana'],
+  ['HP','హిమాచల్ ప్రదేశ్','Himachal Pradesh'],['UK','ఉత్తరాఖండ్','Uttarakhand'],['JK','జమ్మూ కశ్మీర్','Jammu & Kashmir'],['LA','లద్దాఖ్','Ladakh'],
+  ['GA','గోవా','Goa'],['AS','అస్సాం','Assam'],['NE','ఈశాన్య రాష్ట్రాలు','North-East states'],['PY','పుదుచ్చేరి','Puducherry'],['AN','అండమాన్ నికోబార్','Andaman & Nicobar']
+];
+const AP_DISTRICTS = [
+  ['ap-srikakulam','శ్రీకాకుళం','Srikakulam'],['ap-manyam','పార్వతీపురం మన్యం','Parvathipuram Manyam'],['ap-vizianagaram','విజయనగరం','Vizianagaram'],
+  ['ap-visakhapatnam','విశాఖపట్నం','Visakhapatnam'],['ap-asr','అల్లూరి సీతారామరాజు','Alluri Sitharama Raju'],['ap-anakapalli','అనకాపల్లి','Anakapalli'],
+  ['ap-kakinada','కాకినాడ','Kakinada'],['ap-eastgodavari','తూర్పు గోదావరి','East Godavari'],['ap-konaseema','కోనసీమ','Konaseema'],['ap-eluru','ఏలూరు','Eluru'],
+  ['ap-westgodavari','పశ్చిమ గోదావరి','West Godavari'],['ap-ntr','ఎన్టీఆర్ (విజయవాడ)','NTR (Vijayawada)'],['ap-krishna','కృష్ణా','Krishna'],['ap-palnadu','పల్నాడు','Palnadu'],
+  ['ap-guntur','గుంటూరు','Guntur'],['ap-bapatla','బాపట్ల','Bapatla'],['ap-prakasam','ప్రకాశం','Prakasam'],['ap-nellore','నెల్లూరు','SPS Nellore'],
+  ['ap-kurnool','కర్నూలు','Kurnool'],['ap-nandyal','నంద్యాల','Nandyal'],['ap-anantapur','అనంతపురం','Anantapur'],['ap-sathyasai','శ్రీ సత్యసాయి','Sri Sathya Sai'],
+  ['ap-kadapa','వైఎస్ఆర్ కడప','YSR Kadapa'],['ap-annamayya','అన్నమయ్య','Annamayya'],['ap-tirupati','తిరుపతి','Tirupati'],['ap-chittoor','చిత్తూరు','Chittoor']
+];
 const PLACE_SCENE = {hyderabad:'hyderabad', rangareddy:'city', medchal:'city', sangareddy:'city',
   warangal:'warangal', hanumakonda:'warangal', jangaon:'warangal',
-  bhadradri:'temple', yadadri:'temple', sircilla:'temple', jagtial:'temple', mulugu:'forest',
+  bhadradri:'temple', yadadri:'temple', sircilla:'temple', jagtial:'temple', mulugu:'temple',
   khammam:'fort', medak:'fort', nizamabad:'fort', suryapet:'village', siddipet:'village', kamareddy:'village',
   peddapalli:'mine', mancherial:'mine', bhupalpally:'mine', karimnagar:'river',
-  adilabad:'forest', asifabad:'forest', nirmal:'forest',
-  nalgonda:'river', mahabubnagar:'river', gadwal:'river', wanaparthy:'river', nagarkurnool:'river', narayanpet:'village',
-  vikarabad:'forest', mahabubabad:'village'};
+  adilabad:'forest', asifabad:'forest', nirmal:'forest', nalgonda:'dam',
+  mahabubnagar:'river', gadwal:'river', wanaparthy:'river', nagarkurnool:'river', narayanpet:'village', vikarabad:'forest', mahabubabad:'village',
+  'ap-srikakulam':'beach','ap-manyam':'hills','ap-vizianagaram':'fort','ap-visakhapatnam':'beach','ap-asr':'hills','ap-anakapalli':'village',
+  'ap-kakinada':'beach','ap-eastgodavari':'boat','ap-konaseema':'boat','ap-eluru':'boat','ap-westgodavari':'boat','ap-ntr':'dam','ap-krishna':'river',
+  'ap-palnadu':'dam','ap-guntur':'city','ap-bapatla':'beach','ap-prakasam':'beach','ap-nellore':'beach','ap-kurnool':'fort','ap-nandyal':'temple',
+  'ap-anantapur':'fort','ap-sathyasai':'temple','ap-kadapa':'fort','ap-annamayya':'hills','ap-tirupati':'temple','ap-chittoor':'temple', AP:'river'};
+const STATE_SCENE = {TG:'village',AP:'river',KA:'palace',TN:'temple',MH:'gateway',KL:'boat',DL:'redfort',OD:'temple',CG:'forest',GJ:'city',RJ:'fort',
+  UP:'taj',MP:'forest',WB:'bridge',BR:'village',JH:'forest',PB:'village',HR:'city',HP:'hills',UK:'hills',JK:'hills',LA:'hills',GA:'beach',AS:'hills',NE:'hills',PY:'beach',AN:'beach'};
+function stateOf(s){ if(s.st) return s.st; const p=s.place||''; if(p.startsWith('ap-')||p==='AP') return 'AP'; if(p&&p!=='TS'&&p!=='IN') return 'TG'; return ''; }
 function sceneFor(s){
   if(s.kind==='job') return 'city';
   if(s.place && PLACE_SCENE[s.place]) return PLACE_SCENE[s.place];
   const sec = Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:[]);
   const cat = s.cat||'';
+  const st = stateOf(s);
+  if(st && st!=='TG' && STATE_SCENE[st]) return STATE_SCENE[st];
   if(sec.includes('world')||/ప్రపంచం/.test(cat)) return 'world';
   if(sec.includes('ai')||sec.includes('innovation')||/టెక్|AI/.test(cat)) return 'tech';
   if(sec.includes('sports')||/క్రీడ|క్రికెట్/.test(cat)) return 'sports';
@@ -151,6 +263,13 @@ function sceneFor(s){
   if(sec.includes('india')||/భారత్|దేశ/.test(cat)) return 'india';
   if(sec.includes('telangana')) return 'village';
   return 'city';
+}
+/* name of a place key for chips: Telangana/AP district or "st-XX" state */
+function placeLabel(key){
+  if(!key) return '';
+  if(key.startsWith('st-')){ const s=STATES.find(x=>x[0]===key.slice(3)); return s?s[1]:''; }
+  const a=AP_DISTRICTS.find(x=>x[0]===key); if(a) return a[1];
+  return '';
 }
 function sceneSVG(s, cls){
   const k=sceneFor(s); const body=SCENES[k]||SCENES.city;

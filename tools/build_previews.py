@@ -175,20 +175,58 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 
 
 STATIC_PAGES = {
- "about.html": ("మా గురించి | About Way2Sec", "Way2Sec – తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు అందించే AI ఆధారిత వార్తా వేదిక.", """
-<h1>మా గురించి · About Way2Sec</h1>
-<p class="alead"><b>Way2Sec – వార్తలు క్షణాల్లో!</b> తెలంగాణ, ఆంధ్రప్రదేశ్, దేశం, ప్రపంచం, AI & టెక్నాలజీ, ఉద్యోగాలు, వ్యాపారం, క్రీడల వార్తలను తెలుగులో వేగంగా, క్లుప్తంగా అందించే డిజిటల్ వార్తా వేదిక.</p>
-<h2>మేం ఎలా పని చేస్తాం</h2>
-<ul class="pts">
-<li>ప్రతి 30 నిమిషాలకు నమ్మకమైన వార్తా సంస్థలు, అధికారిక ప్రకటనల నుంచి తాజా వార్తలు సేకరిస్తాం.</li>
-<li>AI సహాయంతో వాటిని మా సొంత మాటల్లో, సరళమైన తెలుగులో క్లుప్తంగా రాస్తాం.</li>
-<li>ప్రతి వార్తకు అసలు మూలం (Source) పేరు, పూర్తి వార్త లింక్ ఇస్తాం.</li>
-<li>రాజకీయ వార్తల్లో తటస్థంగా, వాస్తవాలకే పరిమితం అవుతాం. ఊహాగానాలు, అభిప్రాయాలు ఉండవు.</li>
-<li>ఉద్యోగ ప్రకటనలు అధికారిక వెబ్‌సైట్లు లేదా నమ్మకమైన వార్తా సంస్థల నుంచే తీసుకుంటాం.</li>
-</ul>
-<h2>In English</h2>
-<p>Way2Sec is a Telugu digital news platform – "Fastest AI News in Telugu". Every 30 minutes we gather the latest news from trusted news organisations and official sources, and write short summaries in simple Telugu in our own words, with help from AI. Every story names its original source and links to the full report. Political coverage is neutral and factual. Job listings come only from official websites or reputable news reports.</p>
-<p class="why"><small>తప్పు కనిపించిందా?</small>ఏదైనా వార్తలో తప్పు ఉంటే <a href="/contact.html" style="color:var(--brand)">మాకు తెలియజేయండి</a> – వెంటనే సరిచేస్తాం.</p>
+ "about.html": ("మా గురించి | About Way2Sec – మీ సమయానికి విలువ. మీ ఊరి వార్తకు వేదిక.", "WAY2SEC — మీ సమయానికి విలువ. మీ ఊరి వార్తకు వేదిక. ముఖ్యమైన వార్తలను సులభమైన తెలుగులో, క్లుప్తంగా, వేగంగా అందించడమే మా లక్ష్యం.", """
+<div class="ab-hero">
+  <span class="ab-k">మా గురించి · ABOUT WAY2SEC</span>
+  <h1>WAY2SEC — <span>మీ సమయానికి విలువ.</span><br>మీ ఊరి వార్తకు వేదిక.</h1>
+  <p>ముఖ్యమైన వార్తలను సులభమైన తెలుగులో, క్లుప్తంగా, వేగంగా.</p>
+</div>
+<div class="ab-body">
+  <h2>ఈ ఆలోచన ఎలా పుట్టింది</h2>
+  <p class="alead">ఈ రోజుల్లో సమాచారం ఎక్కువగా ఉంది. కానీ <b>ఏం జరిగింది, ఎందుకు జరిగింది, మనకు ఎందుకు ముఖ్యమో</b> తెలుసుకోవడానికి ఎన్నో పేజీలు చదవాల్సి వస్తోంది.</p>
+  <p class="alead">ఆ అవసరం నుంచే WAY2SEC ఆలోచన పుట్టింది. ముఖ్యమైన వార్తలను <b>సులభమైన తెలుగులో, క్లుప్తంగా, వేగంగా</b> అందించాలనేది మా లక్ష్యం.</p>
+
+  <h2>మా దృష్టిలో వార్త అంటే</h2>
+  <p class="alead">మా దృష్టిలో వార్త అంటే పెద్ద నగరాల్లో జరిగేది మాత్రమే కాదు.</p>
+  <div class="ab-grid3">
+    <div class="ab-c"><b>🏘️</b><span>ఒక గ్రామంలో పరిష్కారం కోసం ఎదురుచూస్తున్న సమస్య</span></div>
+    <div class="ab-c"><b>🎓</b><span>ఒక విద్యార్థి సాధించిన విజయం</span></div>
+    <div class="ab-c"><b>🌾</b><span>ఒక రైతు అనుభవం</span></div>
+  </div>
+  <p class="alead">ఇవి కూడా ప్రజలకు తెలియాల్సిన వార్తలే.</p>
+
+  <h2>AI తో, ఖచ్చితత్వంతో</h2>
+  <p class="alead">AI సాంకేతికతను ఉపయోగించి సమాచారాన్ని సులభంగా అందిస్తూ, ప్రతి వార్తలో <b>ఖచ్చితత్వానికి, సందర్భానికి</b> ప్రాధాన్యం ఇవ్వాలనేది మా సంకల్పం.</p>
+
+  <h2>WAY2SEC అనే పేరు</h2>
+  <p class="alead">WAY2SEC అనే పేరు <b>వేగానికి ప్రతీక</b>. ప్రతి వార్తను రెండు సెకన్లలో చదవాలనే అర్థం కాదు — కొద్దిసమయంలో ముఖ్యమైన విషయం అర్థమయ్యేలా అందించాలనే ఆలోచన.</p>
+</div>
+
+<blockquote class="ab-q">
+  <small>మా పెద్ద ఆలోచన ఒక్కటే</small>
+  <p>ప్రపంచ వార్త మీ చేతిలోకి రావాలి.</p>
+  <p>మీ ఊరి వార్త ప్రపంచానికి చేరాలి.</p>
+</blockquote>
+
+<div class="ab-body">
+  <h2>మా విలువలు</h2>
+  <div class="ab-grid">
+    <div class="ab-v"><b>⚡ వేగం</b><span>ప్రతి 30 నిమిషాలకు తాజా వార్తలు – ముఖ్యమైన విషయం కొద్ది సమయంలో.</span></div>
+    <div class="ab-v"><b>✍️ సులభమైన తెలుగు</b><span>మా సొంత మాటల్లో, అందరికీ అర్థమయ్యేలా క్లుప్తంగా.</span></div>
+    <div class="ab-v"><b>✅ ఖచ్చితత్వం</b><span>నమ్మకమైన వార్తా సంస్థలు, అధికారిక ప్రకటనల నుంచే. ప్రతి వార్తకు అసలు మూలం పేరు, లింక్.</span></div>
+    <div class="ab-v"><b>🧭 సందర్భం</b><span>"ఇది ఎందుకు ముఖ్యం?" – ప్రతి వార్తలో మీకు ఏం అర్థం అనేది కూడా.</span></div>
+    <div class="ab-v"><b>⚖️ తటస్థత</b><span>రాజకీయ వార్తల్లో వాస్తవాలకే పరిమితం. ఊహాగానాలు, అభిప్రాయాలు ఉండవు.</span></div>
+    <div class="ab-v"><b>📍 మీ ఊరు</b><span>గ్రామం, మండలం, జిల్లా నుంచి దేశం, ప్రపంచం వరకు – మీ ప్రాంత వార్తలు ముందుగా.</span></div>
+  </div>
+
+  <h2>మీరూ భాగస్వాములు కండి</h2>
+  <p class="alead">మీ ఊరిలో జరిగిన ముఖ్యమైన విషయం, పరిష్కారం కావాల్సిన సమస్య, ఎవరైనా సాధించిన విజయం – మాకు పంపండి. పరిశీలించి ప్రపంచానికి చేరుస్తాం.</p>
+  <div class="acts"><a class="cta" href="/?tip=1&amp;cards=1" style="background:var(--brand)">📝 మీ ఊరి వార్త పంపండి</a><a class="cta wa" href="https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a><a class="cta" href="/contact.html">సంప్రదించండి</a></div>
+
+  <h2>In English</h2>
+  <p><b>WAY2SEC — your time matters; a platform for your village's news.</b> Information is everywhere today, yet understanding what happened, why it happened and why it matters to us still means reading page after page. WAY2SEC was born from that need: to deliver the important news in simple Telugu – short, clear and fast. For us, news is not only what happens in big cities; a village problem waiting for a solution, a student's achievement or a farmer's experience is news people deserve to know. We use AI to make information easy to read, while putting accuracy and context first in every story – each one names its original source. The name WAY2SEC stands for speed: not reading every story in two seconds, but understanding what matters in very little time. Our one big idea: <b>the world's news should reach your hands, and your village's news should reach the world.</b></p>
+  <p class="why"><small>తప్పు కనిపించిందా? · Spotted an error?</small>ఏదైనా వార్తలో తప్పు ఉంటే <a href="/contact.html" style="color:var(--brand)">మాకు తెలియజేయండి</a> – వెంటనే సరిచేస్తాం.</p>
+</div>
 """),
  "contact.html": ("సంప్రదించండి | Contact Way2Sec", "Way2Sec ను సంప్రదించండి – వార్తలు, సవరణలు, ప్రకటనలు.", """
 <h1>సంప్రదించండి · Contact us</h1>
@@ -211,7 +249,20 @@ def static_page(title, desc, body):
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png"><link rel="manifest" href="/manifest.webmanifest">
 <meta property="og:title" content="{e(title)}"><meta property="og:image" content="{IMG}/og-image.jpg">
-<style>{sh["css"]}{ARTICLE_CSS}.ar .in h2{{font-size:22px;margin:26px 0 10px}}.ar .in p{{line-height:1.85}}</style>
+<style>{sh["css"]}{ARTICLE_CSS}.ar .in h2{{font-size:22px;margin:26px 0 10px}}.ar .in p{{line-height:1.85}}
+.ab-hero{{margin:-26px -32px 24px;padding:44px 32px 40px;color:#fff;background:radial-gradient(120% 140% at 100% 0%,#3B2A7A 0,#1A2C55 45%,#0B1A33 100%);position:relative;overflow:hidden}}
+.ab-hero:after{{content:"";position:absolute;right:-60px;top:-60px;width:260px;height:260px;border-radius:50%;background:radial-gradient(circle,rgba(200,16,46,.55),transparent 65%)}}
+.ab-k{{font:400 12px/1 var(--display);letter-spacing:.14em;color:var(--gold)}}
+.ab-hero h1{{margin:14px 0 10px;font-size:clamp(28px,4.4vw,46px);line-height:1.3;color:#fff;position:relative;z-index:1}}.ab-hero h1 span{{color:var(--gold)}}
+.ab-hero p{{margin:0;font-size:18px;color:#D6DEEA;font-weight:700;position:relative;z-index:1}}
+.ab-grid3{{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:6px 0 14px}}@media (max-width:640px){{.ab-grid3{{grid-template-columns:1fr}}}}
+.ab-c{{padding:18px;border-radius:16px;background:var(--soft);border:1px solid var(--line);font-weight:800;line-height:1.5}}.ab-c b{{display:block;font-size:30px;margin-bottom:6px}}
+.ab-q{{margin:28px -32px;padding:34px 32px;background:linear-gradient(135deg,#C8102E,#8A0B20);color:#fff;text-align:center}}
+.ab-q small{{display:block;font-weight:800;color:#FFD54A;letter-spacing:.04em;margin-bottom:10px}}.ab-q p{{margin:4px 0;font-size:clamp(22px,3.4vw,34px);font-weight:800;line-height:1.45}}
+.ab-grid{{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}}@media (max-width:640px){{.ab-grid{{grid-template-columns:1fr}}}}
+.ab-v{{padding:16px 18px;border-radius:16px;border:1px solid var(--line);background:var(--paper);border-left:5px solid var(--brand)}}.ab-v b{{display:block;font-size:17px;margin-bottom:4px}}.ab-v span{{color:var(--muted);font-weight:600;font-size:15px;line-height:1.6}}
+@media (max-width:640px){{.ab-hero,.ab-q{{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px}}}}
+</style>
 </head><body>
 {sh["header"]}
 <main class="wrap"><div class="agrid"><article class="ar" style="--hl:var(--c-money);--hlink:var(--c-money)"><div class="in">{body}</div></article>

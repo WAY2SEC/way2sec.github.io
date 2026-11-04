@@ -24,6 +24,10 @@ const here=location.pathname.replace(/\.html$/,'').split('/').pop();
 
 (()=>{const W=['ఆదివారం','సోమవారం','మంగళవారం','బుధవారం','గురువారం','శుక్రవారం','శనివారం'],M=['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
  const d=new Date(Date.now()+(330+new Date().getTimezoneOffset())*60000); const el=$('today'); if(el) el.textContent=`📅 ${W[d.getDay()]}, ${d.getDate()} ${M[d.getMonth()]} ${d.getFullYear()}`;})();
+/* chosen place in the top strip (change it on the home page) */
+(()=>{ const p=store.get('prefs',{})||{}, el=document.getElementById('myPlaceTx'), b=document.getElementById('myPlace'); if(!b) return;
+  if(el && (p.place||p.village)){ const k=p.place||'TS'; const n=k==='TS'?'తెలంగాణ':k==='AP'?'ఆంధ్రప్రదేశ్':(typeof placeLabel==='function'&&placeLabel(k))||''; el.textContent=(p.village?p.village+', ':'')+(n||'తెలంగాణ'); }
+  b.onclick=()=>{ location.href='/?pick=1'; }; })();
 /* theme */
 function applyTheme(t){const r=document.documentElement; if(!t||t==='auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme',t);}
 applyTheme((store.get('prefs',{})||{}).theme);

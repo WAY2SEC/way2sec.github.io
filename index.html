@@ -297,10 +297,18 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <section class="sheet" id="sheet" hidden aria-label="మీ ఎంపికలు">
     <div class="sh-head"><img class="logo" src="logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="sh-body">
-      <h2>మీ జిల్లా ఎంచుకోండి</h2>
-      <p class="sub">Choose your district – మీ ప్రాంత వార్తలు ముందుగా కనిపిస్తాయి.</p>
+      <h2>భాష · Language</h2>
+      <div class="grid three" id="langs" role="radiogroup" aria-label="భాష"></div>
+      <h2>మీ రాష్ట్రం · Your state</h2>
+      <p class="sub">మీ రాష్ట్రం ఎంచుకోండి – ఆ ప్రాంత వార్తలు ముందుగా చూపిస్తాం.</p>
+      <div class="grid" id="states" role="radiogroup" aria-label="రాష్ట్రాలు"></div>
+      <h2 id="distH">మీ జిల్లా ఎంచుకోండి</h2>
+      <p class="sub" id="distSub">Choose your district – మీ ప్రాంత వార్తలు ముందుగా కనిపిస్తాయి.</p>
       <input class="search" id="q" type="search" placeholder="జిల్లా వెతకండి / Search district" aria-label="జిల్లా వెతకండి">
       <div class="grid" id="places" role="radiogroup" aria-label="జిల్లాలు"></div>
+      <h2>మీ ఊరు / పట్టణం</h2>
+      <p class="sub">Village or town (optional) – ఈ పేరు ఉన్న వార్తలు అందరికంటే ముందు చూపిస్తాం.</p>
+      <input class="search" id="village" type="text" maxlength="40" placeholder="ఉదా: కొండాపూర్ / Kondapur" aria-label="మీ ఊరు">
       <h2>మీకు నచ్చిన విభాగాలు</h2>
       <p class="sub">Pick your topics – ఇవి పైన ట్యాబ్‌లుగా కనిపిస్తాయి.</p>
       <div class="grid" id="topics"></div>
@@ -396,7 +404,19 @@ const PLACES = [
   ['siddipet','సిద్దిపేట','Siddipet'], ['suryapet','సూర్యాపేట','Suryapet'], ['vikarabad','వికారాబాద్','Vikarabad'],
   ['wanaparthy','వనపర్తి','Wanaparthy'], ['warangal','వరంగల్','Warangal'], ['yadadri','యాదాద్రి భువనగిరి','Yadadri Bhuvanagiri']
 ];
-const placeName = k => (PLACES.find(p=>p[0]===k)||PLACES[0])[1];
+const LANGS = [['te','తెలుగు','Telugu'],['en','English','త్వరలో · Soon'],['hi','हिन्दी','త్వరలో · Soon']];
+const placeName = k => { if(!k||k==='TS') return 'మొత్తం తెలంగాణ'; if(k==='AP') return 'మొత్తం ఆంధ్రప్రదేశ్'; const t=PLACES.find(p=>p[0]===k); return t?t[1]:(placeLabel(k)||'మొత్తం తెలంగాణ'); };
+const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):'TG'));
+/* does a story belong to the reader's place? */
+function inPlace(s,k){ if(!k||k==='TS') return (s.place||'TS')==='TS' && stateOf(s)!=='AP' && !(s.st&&s.st!=='TG');
+  if(k==='AP') return stateOf(s)==='AP'; if(k.startsWith('st-')) return stateOf(s)===k.slice(3); return s.place===k; }
+/* local first: own village → own district → own state → everything else */
+function localScore(s){ const v=(prefs.village||'').trim(); let sc=0;
+  if(v && ((s.loc||'')+' '+(s.h||'')+' '+(s.p||'')).toLowerCase().includes(v.toLowerCase())) sc+=4;
+  if(prefs.place && prefs.place!=='TS' && prefs.place!=='AP' && !prefs.place.startsWith('st-') && s.place===prefs.place) sc+=2;
+  const myst=stOfPlace(prefs.place); if(stateOf(s)===myst && myst!=='TG') sc+=1;
+  return sc; }
+const localFirst = l => l.map((s,i)=>[s,localScore(s),i]).sort((a,b)=>b[1]-a[1]||a[2]-b[2]).map(x=>x[0]);
 const MONTHS = ['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
 const teDate = d => { const m=/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/.exec(d||''); return m ? `${MONTHS[+m[2]-1]} ${+m[1]}, ${m[3]}` : (d||''); };
 
@@ -471,12 +491,12 @@ function toast(t){const el=$('toast');el.textContent=t;el.classList.add('on');cl
 function renderTabs(){
   if(view==='jobs'){
     $('tabs').innerHTML = JOB_TYPES.map(t=>`<button class="tab" type="button" data-j="${t[0]}" aria-pressed="${t[0]===jobFilter}">${esc(t[1])}</button>`).join('');
-    $('placeName').textContent = placeName(prefs.place); return;
+    $('placeName').textContent = (prefs.village?prefs.village+', ':'')+placeName(prefs.place); return;
   }
   if(view==='date' && DAY){
     $('tabs').innerHTML = `<div class="datebar2" style="width:100%;border:0;padding:0"><b>📅 ${esc(teDay(DAY.iso))} · ${DAY.stories.length} వార్తలు</b><button type="button" id="otherDay">మరో తేదీ</button><button type="button" id="backToday">ఈరోజు</button></div>`;
     $('otherDay').onclick=openDates; $('backToday').onclick=()=>{ DAY=null; history.replaceState(null,'',location.pathname); setView('home'); };
-    $('placeName').textContent = placeName(prefs.place); return;
+    $('placeName').textContent = (prefs.village?prefs.village+', ':'')+placeName(prefs.place); return;
   }
   const keys = FIXED.concat(SECTIONS.map(s=>s[0]).filter(k=>prefs.topics.includes(k)));
   if(!keys.includes(section)) section='all';
@@ -484,7 +504,7 @@ function renderTabs(){
     const s=SECTIONS.find(x=>x[0]===k);
     return `<button class="tab" type="button" data-k="${k}" aria-pressed="${view==='home'&&k===section}">${esc(s[1])}</button>`;
   }).join('');
-  $('placeName').textContent = placeName(prefs.place);
+  $('placeName').textContent = (prefs.village?prefs.village+', ':'')+placeName(prefs.place);
 }
 $('tabs').addEventListener('click',e=>{const b=e.target.closest('.tab');if(!b)return;
   if(b.dataset.j){ jobFilter=b.dataset.j; renderTabs(); renderFeed(); const n=$('tabs').querySelector(`[data-j="${jobFilter}"]`); if(n) n.scrollIntoView({inline:'center',block:'nearest'}); return; }
@@ -501,13 +521,9 @@ function pick(){
   }
   if(view==='date' && DAY) return DAY.stories;
   const all = NEWS.stories;
-  if(section==='district'){
-    if(prefs.place==='TS') return all.filter(s=>(s.place||'TS')==='TS');
-    return all.filter(s=>s.place===prefs.place);
-  }
+  if(section==='district') return localFirst(all.filter(s=>inPlace(s,prefs.place)));
   let list = section==='all' ? all : all.filter(s=>secsOf(s).includes(section));
-  if(prefs.place!=='TS') list = list.filter(s=>s.place===prefs.place).concat(list.filter(s=>s.place!==prefs.place));
-  return list;
+  return localFirst(list);
 }
 const I = {
   news:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h10M7 12h10M7 16h6"/></svg>',
@@ -544,7 +560,8 @@ function jobHTML(s,i){
 function cardHTML(s,i){
   if(s.kind==='job') return jobHTML(s,i);
   const col = s.col||'--c-gov';
-  const pl = s.place && s.place!=='TS' ? `<span class="chip pl">📍 ${esc(placeName(s.place))}</span>` : '';
+  const where=[s.loc, s.place&&s.place!=='TS'&&s.place!=='IN' ? placeName(s.place) : (s.st&&s.st!=='TG'&&s.st!=='IN' ? placeLabel('st-'+s.st) : '')].filter(Boolean).join(', ');
+  const pl = where ? `<span class="chip pl">📍 ${esc(where)}</span>` : '';
   return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col});--hl-ink:var(${col})">
   <div class="panel">
     ${sceneSVG(s,'scene')}
@@ -854,7 +871,7 @@ $('closeJoin').onclick=()=>{$('joinSheet').hidden=true};
 
 /* ---------- readers send local news (opens WhatsApp with the tip typed) ---------- */
 function openTip(){
-  $('tipDist').innerHTML = '<option value="">జిల్లా ఎంచుకోండి</option>' + PLACES.filter(p=>p[0]!=='TS').map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])})</option>`).join('') + '<option value="ap">ఆంధ్రప్రదేశ్ (Andhra Pradesh)</option><option value="other">ఇతర ప్రాంతం (Other)</option>';
+  $('tipDist').innerHTML = '<option value="">జిల్లా ఎంచుకోండి</option>' + PLACES.filter(p=>p[0]!=='TS').map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])})</option>`).join('') + AP_DISTRICTS.map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])}) – ఏపీ</option>`).join('') + STATES.filter(s=>s[0]!=='TG'&&s[0]!=='AP').map(s=>`<option value="st-${s[0]}"${'st-'+s[0]===prefs.place?' selected':''}>${esc(s[1])} (${esc(s[2])})</option>`).join('') + '<option value="other">ఇతర ప్రాంతం (Other)</option>';
   $('tipErr').textContent=''; $('sheet').hidden=true; $('joinSheet').hidden=true; $('tipSheet').hidden=false;
 }
 $('tipOpen1').onclick=openTip; $('tipOpen2').onclick=openTip; $('closeTip').onclick=()=>{ $('tipSheet').hidden=true; };
@@ -879,15 +896,32 @@ if(new URLSearchParams(location.search).has('tip')) setTimeout(openTip,600);
 /* ---------- settings sheet ---------- */
 let draft;
 function openSheet(){
-  draft = {place:prefs.place, topics:prefs.topics.slice(), theme:prefs.theme};
-  $('q').value=''; drawPlaces(); drawTopics(); drawThemes();
+  draft = {place:prefs.place, topics:prefs.topics.slice(), theme:prefs.theme, lang:prefs.lang||'te', st:prefs.st||stOfPlace(prefs.place), village:prefs.village||''};
+  $('q').value=''; $('village').value=draft.village; drawLangs(); drawStates(); drawPlaces(); drawTopics(); drawThemes();
   $('closeSheet').hidden = firstRun && !store.get('prefs',null);
   $('sheet').hidden=false;
 }
+function drawLangs(){
+  $('langs').innerHTML = LANGS.map(l=>`<button class="opt" type="button" role="radio" data-k="${l[0]}" aria-checked="${draft.lang===l[0]}"${l[0]!=='te'?' style="opacity:.55"':''}><b>${esc(l[1])}</b><small>${esc(l[2])}</small></button>`).join('');
+}
+function drawStates(){
+  $('states').innerHTML = STATES.map(s=>`<button class="opt" type="button" role="radio" data-k="${s[0]}" aria-checked="${draft.st===s[0]}"><b>${esc(s[1])}</b><small>${esc(s[2])}</small></button>`).join('');
+}
+function distList(){
+  if(draft.st==='TG') return PLACES;
+  if(draft.st==='AP') return [['AP','మొత్తం ఆంధ్రప్రదేశ్','All Andhra Pradesh']].concat(AP_DISTRICTS);
+  return null;
+}
 function drawPlaces(){
-  const q=$('q').value.trim().toLowerCase();
-  $('places').innerHTML = PLACES.filter(p=>!q||p[1].includes(q)||p[2].toLowerCase().includes(q)).map(p=>
-    `<button class="opt${p[0]==='TS'?' wide':''}" type="button" role="radio" data-k="${p[0]}" aria-checked="${draft.place===p[0]}"><b>${esc(p[1])}</b><small>${esc(p[2])}</small></button>`).join('');
+  const q=$('q').value.trim().toLowerCase(), list=distList();
+  const stName=(STATES.find(s=>s[0]===draft.st)||['','',''])[1];
+  $('distH').textContent = list ? `${stName} – మీ జిల్లా ఎంచుకోండి` : `${stName}`;
+  $('distSub').textContent = list ? 'Choose your district – మీ ప్రాంత వార్తలు ముందుగా కనిపిస్తాయి.' : 'ఈ రాష్ట్ర జిల్లాల జాబితా త్వరలో – అప్పటివరకు రాష్ట్రం మొత్తం వార్తలు ముందుగా చూపిస్తాం.';
+  $('q').hidden = !list;
+  if(!list){ draft.place='st-'+draft.st; $('places').innerHTML=''; return; }
+  if(!list.some(p=>p[0]===draft.place)) draft.place=list[0][0];
+  $('places').innerHTML = list.filter(p=>!q||p[1].includes(q)||p[2].toLowerCase().includes(q)).map(p=>
+    `<button class="opt${p[0]==='TS'||p[0]==='AP'?' wide':''}" type="button" role="radio" data-k="${p[0]}" aria-checked="${draft.place===p[0]}"><b>${esc(p[1])}</b><small>${esc(p[2])}</small></button>`).join('');
 }
 function drawTopics(){
   $('topics').innerHTML = SECTIONS.filter(s=>!FIXED.includes(s[0])).map(s=>
@@ -897,6 +931,9 @@ function drawThemes(){
   $('themes').innerHTML = THEMES.map(t=>`<button class="opt" type="button" role="radio" data-k="${t[0]}" aria-checked="${draft.theme===t[0]}"><b>${esc(t[1])}</b><small>${esc(t[2])}</small></button>`).join('');
 }
 $('q').addEventListener('input',drawPlaces);
+$('langs').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return; if(b.dataset.k!=='te'){ toast('ఇంగ్లీష్, హిందీ త్వరలో వస్తాయి – ప్రస్తుతం తెలుగులో'); return; } draft.lang=b.dataset.k; drawLangs();});
+$('states').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return; draft.st=b.dataset.k; $('q').value=''; drawStates(); drawPlaces(); $('distH').scrollIntoView({behavior:'smooth',block:'start'});});
+$('village').addEventListener('input',()=>{ draft.village=$('village').value.trim(); });
 $('places').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.place=b.dataset.k;drawPlaces()});
 $('topics').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const k=b.dataset.k;draft.topics=draft.topics.includes(k)?draft.topics.filter(x=>x!==k):draft.topics.concat(k);drawTopics()});
 $('themes').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.theme=b.dataset.k;drawThemes();prefs.theme=draft.theme;applyTheme()});

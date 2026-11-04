@@ -224,13 +224,23 @@ footer a:hover{color:var(--brand)}
 .newpill{position:fixed;top:132px;left:50%;transform:translateX(-50%);z-index:60;border:0;border-radius:999px;padding:11px 20px;background:var(--brand);color:#fff;font:800 14.5px/1 var(--body);box-shadow:0 10px 30px -8px rgba(200,16,46,.6);cursor:pointer;display:inline-flex;align-items:center;gap:10px}
 .newpill i{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.2s infinite}
 .pnl{position:relative}.pnl svg.scene{position:absolute;left:0;right:0;bottom:0;width:100%;height:84%;opacity:.27;pointer-events:none}.pnl>*:not(svg){position:relative}
+.pick{position:fixed;inset:0;z-index:90;background:rgba(8,14,26,.62);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);display:grid;place-items:center;padding:16px}
+.pick[hidden]{display:none}
+.pbox{width:min(460px,100%);max-height:calc(100vh - 32px);overflow:auto;background:var(--paper);border-radius:24px;padding:26px;box-shadow:0 30px 80px -20px rgba(0,0,0,.6);display:flex;flex-direction:column;gap:12px}
+.pbox h2{margin:6px 0 0;font-size:22px;line-height:1.35}.pbox p{margin:0;color:var(--muted);font-weight:600}
+.pbox label{display:flex;flex-direction:column;gap:6px;font-weight:800;font-size:14px}
+.pbox select,.pbox input{height:46px;border-radius:12px;border:1.5px solid var(--line);background:var(--soft);color:var(--ink);font:inherit;font-size:15px;padding:0 12px}
+.seg{display:flex;gap:6px}.seg button{flex:1;height:42px;border-radius:12px;border:1.5px solid var(--line);background:var(--soft);font-weight:800;font-size:13px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--brand);border-color:var(--brand);color:#fff}
+.pskip{border:0;background:transparent;color:var(--muted);font-weight:700;cursor:pointer;text-decoration:underline}
+.myplace{display:inline-flex;align-items:center;gap:6px;border:0;background:transparent;color:inherit;font:inherit;cursor:pointer;padding:0}
 @media (prefers-reduced-motion:reduce){.tk .row,.live i,.listen .wave i{animation:none!important}.card{transition:none}}
 </style>
 </head>
 <body>
 <a class="skip" href="#main">ప్రధాన కంటెంట్‌కు వెళ్లండి</a>
 <header class="top">
-  <div class="util"><div class="wrap"><span id="today"></span><span class="up">⚡ ప్రతి 30 నిమిషాలకు తాజా వార్తలు · AI తో తెలుగులో</span><nav class="ul" aria-label="లింకులు"><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?tip=1&amp;cards=1">📝 మీ ఊరి వార్త పంపండి</a></nav></div></div>
+  <div class="util"><div class="wrap"><span id="today"></span><button class="myplace" id="myPlace" type="button" title="ప్రాంతం మార్చండి">📍 <span id="myPlaceTx">ప్రాంతం ఎంచుకోండి</span></button><span class="up">⚡ ప్రతి 30 నిమిషాలకు తాజా వార్తలు · AI తో తెలుగులో</span><nav class="ul" aria-label="లింకులు"><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?tip=1&amp;cards=1">📝 మీ ఊరి వార్త పంపండి</a></nav></div></div>
   <div class="wrap">
     <div class="bar">
       <a class="logo" href="/" aria-label="Way2Sec హోమ్"><img class="lk" src="/logo.png" alt="Way2Sec"><img class="lt" src="/logo-light.png" alt=""></a>
@@ -304,6 +314,20 @@ footer a:hover{color:var(--brand)}
   </div>
 </footer>
 
+
+<div class="pick" id="pick" hidden role="dialog" aria-modal="true" aria-labelledby="pickH">
+  <div class="pbox">
+    <img src="/logo.png" alt="Way2Sec" style="height:38px">
+    <h2 id="pickH">స్వాగతం! మీ ప్రాంతం ఎంచుకోండి</h2>
+    <p>Welcome! మీ ఊరి వార్తలు ముందుగా చూపిస్తాం.</p>
+    <label>భాష · Language<div class="seg" id="pLang"><button type="button" data-l="te" aria-pressed="true">తెలుగు</button><button type="button" data-l="en" aria-pressed="false">English · త్వరలో</button><button type="button" data-l="hi" aria-pressed="false">हिन्दी · త్వరలో</button></div></label>
+    <label>రాష్ట్రం · State<select id="pState"></select></label>
+    <label id="pDistL">జిల్లా · District<select id="pDist"></select></label>
+    <label>ఊరు / పట్టణం · Village or town <small>(ఐచ్ఛికం)</small><input id="pVil" type="text" maxlength="40" placeholder="ఉదా: కొండాపూర్ / Kondapur"></label>
+    <button class="cta" id="pSave" type="button" style="width:100%;justify-content:center;background:var(--brand)">వార్తలు చూపించు →</button>
+    <button type="button" id="pSkip" class="pskip">తర్వాత ఎంచుకుంటా</button>
+  </div>
+</div>
 <script>
 /*ART*/
 const SECS=[['all','హోమ్'],['telangana','తెలంగాణ'],['ap','ఆంధ్రప్రదేశ్'],['india','దేశం'],['world','ప్రపంచం'],['ai','AI & టెక్'],['jobs','ఉద్యోగ వార్తలు'],['business','బిజినెస్'],['education','విద్య'],['agri','వ్యవసాయం'],['weather','వాతావరణం'],['sports','క్రీడలు'],['culture','సంస్కృతి'],['innovation','ఆవిష్కరణలు']];
@@ -358,23 +382,28 @@ function renderHome(){
   $('brief').innerHTML=five.map(s=>`<li><a href="${link(s)}">${esc(s.h)}</a></li>`).join('');
   $('latest').innerHTML=ALL.slice(1,7).map(s=>`<a class="it" href="${link(s)}"><span class="tm">${esc(s.t||'')}</span><span class="hd">${esc(s.h)}</span></a>`).join('');
   const used=new Set(ALL.slice(0,7).map(sid));
-  $('sections').innerHTML=BLOCKS.map(k=>{
+  const me=prefsGet(); const mine=ALL.map(s=>[s,inMine(s,me)]).filter(x=>x[1]>0).sort((a,b)=>b[1]-a[1]).map(x=>x[0]).slice(0,4);
+  const mineHTML = mine.length ? `<section class="sec"><div class="sh"><h2>📍 ${esc(placeTx(me))} వార్తలు</h2><a href="#" id="chgPlace">ప్రాంతం మార్చండి →</a></div><div class="grid">${mine.map(card).join('')}</div></section>` : '';
+  mine.forEach(s=>used.add(sid(s)));
+  $('sections').innerHTML=mineHTML+BLOCKS.map(k=>{
     const name=(SECS.find(x=>x[0]===k)||[,k])[1];
     const list=bySec(k).filter(s=>!used.has(sid(s))).slice(0,4); if(list.length<2) return '';
     list.forEach(s=>used.add(sid(s)));
     return `<section class="sec"><div class="sh"><h2>${name}</h2><a href="?sec=${k}" data-go="${k}">మరిన్ని →</a></div><div class="grid">${list.map(card).join('')}</div></section>`;
   }).join('');
+  if($('chgPlace')) $('chgPlace').onclick=e=>{e.preventDefault();openPick();};
   $('sections').querySelectorAll('a[data-go]').forEach(a=>a.onclick=e=>{e.preventDefault();section=a.dataset.go;history.pushState(null,'','?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
   $('tick').innerHTML=(t=>t+t)(ALL.slice(0,10).map(s=>`<a href="${link(s)}"><b>${s.brk?'🔴 BREAKING':esc(s.t||'')}</b>${esc(s.h)}</a>`).join(''));
   // districts
-  const have=Object.keys(PLACES).filter(k=>ALL.some(s=>s.place===k));
+  const ALLP=Object.assign({},PLACES,Object.fromEntries(AP_DISTRICTS.map(a=>[a[0],a[1]])));
+  const have=Object.keys(ALLP).filter(k=>ALL.some(s=>s.place===k));
   const keys=have.length?have:Object.keys(PLACES).slice(0,12);
   const pref=(store.get('prefs',{})||{}).place;
-  $('dists').innerHTML=keys.map(k=>`<button type="button" data-p="${k}" aria-pressed="${k===pref}">${PLACES[k]}</button>`).join('');
+  $('dists').innerHTML=keys.map(k=>`<button type="button" data-p="${k}" aria-pressed="${k===pref}">${ALLP[k]}</button>`).join('');
   const showD=k=>{ $('dists').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.p===k)); const l=ALL.filter(s=>s.place===k).slice(0,6);
     $('dres').innerHTML=l.length?l.map(s=>`<a href="${link(s)}">${esc(s.h)}</a>`).join(''):'<p style="color:var(--muted);margin:10px 0 0">ఈ జిల్లా నుంచి ఇంకా వార్తలు లేవు.</p>'; };
   $('dists').onclick=e=>{const b=e.target.closest('button');if(!b)return;showD(b.dataset.p);const p=store.get('prefs',{})||{};p.place=b.dataset.p;store.set('prefs',p);};
-  if(pref && PLACES[pref]) showD(pref); else if(keys[0]) showD(keys[0]);
+  if(pref && keys.includes(pref)) showD(pref); else if(keys[0]) showD(keys[0]);
 }
 function daysLeft(j){const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.last||'');if(!m)return null;return Math.floor((new Date(+m[3],+m[2]-1,+m[1],23,59,59)-Date.now())/864e5)}
 function renderRail(){
@@ -404,6 +433,38 @@ function route(){
 }
 let qt; $('q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(route,180)});
 addEventListener('keydown',e=>{ if(e.key==='/' && document.activeElement!==$('q')){e.preventDefault();$('q').focus();} if(e.key==='Escape'){$('q').value='';route();} });
+
+
+/* ---- reader's place (shared with the app: same saved choice) ---- */
+const TG_D=[['TS','మొత్తం తెలంగాణ']].concat(Object.entries(PLACES));
+function prefsGet(){ return store.get('prefs',{})||{}; }
+function stOfPlace(k){ if(!k||k==='TS'||PLACES[k]) return 'TG'; if(k==='AP'||k.startsWith('ap-')) return 'AP'; return k.startsWith('st-')?k.slice(3):'TG'; }
+function placeTx(p){ const k=p.place||'TS'; let n=k==='TS'?'తెలంగాణ':k==='AP'?'ఆంధ్రప్రదేశ్':(PLACES[k]||placeLabel(k)||'తెలంగాణ'); return (p.village?p.village+', ':'')+n; }
+function inMine(s,p){ const k=p.place||'TS', v=(p.village||'').toLowerCase();
+  if(v && ((s.loc||'')+' '+(s.h||'')+' '+(s.p||'')).toLowerCase().includes(v)) return 3;
+  if(k!=='TS'&&k!=='AP'&&!k.startsWith('st-')&&s.place===k) return 2;
+  const st=stOfPlace(k); if(st!=='TG' && stateOf(s)===st) return 1; return 0; }
+function fillDist(st,cur){
+  const list = st==='TG'?TG_D : st==='AP'?[['AP','మొత్తం ఆంధ్రప్రదేశ్']].concat(AP_DISTRICTS.map(a=>[a[0],a[1]])) : null;
+  $('pDistL').hidden=!list; if(!list) return;
+  $('pDist').innerHTML=list.map(([k,n])=>`<option value="${k}"${k===cur?' selected':''}>${n}</option>`).join('');
+}
+function openPick(){
+  const p=prefsGet(), st=p.st||stOfPlace(p.place);
+  $('pState').innerHTML=STATES.map(s=>`<option value="${s[0]}"${s[0]===st?' selected':''}>${s[1]} · ${s[2]}</option>`).join('');
+  fillDist(st,p.place); $('pVil').value=p.village||''; $('pick').hidden=false;
+}
+$('pState').onchange=()=>fillDist($('pState').value,'');
+$('pLang').onclick=e=>{const b=e.target.closest('button'); if(b&&b.dataset.l!=='te'){ b.textContent=b.dataset.l==='en'?'English త్వరలో వస్తుంది':'हिन्दी జల్దీ'; } };
+$('pSave').onclick=()=>{ const p=prefsGet(), st=$('pState').value;
+  p.st=st; p.place= st==='TG'||st==='AP' ? $('pDist').value : 'st-'+st; p.village=$('pVil').value.trim(); p.lang='te';
+  p.topics=p.topics||['telangana','india','world','ai','jobs','business','weather']; store.set('prefs',p); $('pick').hidden=true; afterPick(); };
+$('pSkip').onclick=()=>{ $('pick').hidden=true; try{sessionStorage.setItem('w2s.skipPick','1')}catch(e){} };
+$('myPlace').onclick=openPick;
+function afterPick(){ $('myPlaceTx').textContent=placeTx(prefsGet()); if(ALL.length){ renderHome(); route(); } }
+{ const p=prefsGet(); if(p.place||p.st) $('myPlaceTx').textContent=placeTx(p);
+  let skip=false; try{skip=!!sessionStorage.getItem('w2s.skipPick')}catch(e){}
+  if((!p.st && !p.place && !skip) || new URLSearchParams(location.search).has('pick')) setTimeout(openPick,600); }
 
 /* AI briefing voice */
 $('listen').onclick=()=>{ const sy=window.speechSynthesis, b=$('listen'); if(!sy){alert;return;}
