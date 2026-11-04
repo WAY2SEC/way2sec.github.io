@@ -60,6 +60,7 @@ def story(s, size='', lead=False):
     brk = '<span class="brk">BREAKING</span>' if s.get('brk') else ''
     return f'''<article class="st {size}" style="--c:{col}">{art}
   {'' if (lead or size == 'mid') else f'<div class="kick2">{e(s.get("cat"))}</div>'}
+  {f'<div class="fact"><b class="{"te" if any("ఀ" <= ch <= "౿" for ch in str(s.get("stat") or "")) else ""}">{e(s.get("stat"))}</b><i>{e(s.get("statl"))}</i></div>' if size == '' and s.get('stat') else ''}
   <h2>{brk}{e(s.get('h'))}</h2>
   <p class="p">{e(s.get('p'))}</p>
   {f'<ul class="pts">{pts}</ul>' if pts and size not in ('small', 'mid') else ''}
@@ -69,7 +70,7 @@ def story(s, size='', lead=False):
 
 
 def page_head(title, color, date_te, pno):
-    return f'<header class="ph"><span class="pt" style="--c:{color}">{title}</span><span class="pm"><b>way2sec</b> · {date_te} · పేజీ {pno}</span></header>'
+    return f'<header class="ph" style="--c:{color}"><span class="pt">{title}</span><span class="pm"><b>way2sec</b> · {date_te} · పేజీ {pno}</span></header>'
 
 
 def build_html(iso, day, jobs, extra=None):
@@ -148,7 +149,7 @@ def build_html(iso, day, jobs, extra=None):
     # ---------- jobs ----------
     pages.append(f'''<section class="page" data-p="jobs">{page_head('ఉద్యోగాలు · Jobs', '#0F6E5C', date_te, pno)}
   <p class="jintro">ఈరోజు దరఖాస్తు చేయగలిగే ప్రభుత్వ, ప్రైవేట్ ఉద్యోగాలు. పూర్తి వివరాలు, అధికారిక లింకులు: <b>way2sec.news/?jobs=1</b></p>
-  <table class="jobs"><thead><tr><th>ఉద్యోగం</th><th class="n">పోస్టులు</th><th class="n">చివరి తేదీ</th></tr></thead><tbody>{''.join(jobrow(j) for j in jobs[:28])}</tbody></table>
+  <table class="jobs"><thead><tr><th>ఉద్యోగం</th><th class="n">పోస్టులు</th><th class="n">చివరి తేదీ</th></tr></thead><tbody>{''.join(jobrow(j) for j in jobs[:22])}</tbody></table>
   <p class="warn">⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి. అధికారిక వెబ్‌సైట్‌లోనే దరఖాస్తు చేయండి.</p></section>''')
     pno += 1
     # ---------- more news + back cover ----------
@@ -176,17 +177,20 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 .page::before{{content:"WAY2SEC";position:absolute;left:50%;top:52%;transform:translate(-50%,-50%) rotate(-30deg);font:400 120pt/1 W2Disp;color:rgba(18,40,74,.028);pointer-events:none;white-space:nowrap}}
 /* masthead */
 .mast{{border-bottom:2.4pt solid #12284A;margin-bottom:4mm}}
-.mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1.4 W2Sans;color:#5E5246;border-bottom:.6pt solid #CFC4B2;padding-bottom:2mm}}
+.mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1.4 W2Sans;color:#fff;background:#C8102E;padding:1.6mm 4mm;border-radius:1.2mm 1.2mm 0 0}}
 .mname{{display:flex;align-items:center;justify-content:center;gap:6mm;padding:3.5mm 0 2.5mm}}
 .mname img{{height:19mm}}
 .mtag{{border-left:.8pt solid #CFC4B2;padding-left:5mm;display:grid;gap:1mm}}
 .mtag b{{font:400 21pt/1.1 W2Rama;color:#C8102E}} .mtag span{{font:600 8pt/1.3 W2Sans;color:#3B332B}}
-.mbar{{display:flex;gap:5mm;background:#12284A;color:#fff;font:700 8pt/1 W2Sans;padding:2.2mm 4mm;margin-bottom:.8mm}} .mbar .r{{margin-left:auto;color:#FFD54A}}
+.mbar{{display:flex;gap:0;background:#12284A;color:#fff;font:700 8pt/1.3 W2Sans;padding:0;margin-bottom:.8mm;overflow:hidden;border-radius:0 0 1.2mm 1.2mm}} .mbar span{{padding:2.2mm 3.6mm}}
+.mbar span:nth-child(1){{background:#1F6B3A}} .mbar span:nth-child(2){{background:#0B5CAD}} .mbar span:nth-child(3){{background:#B3400F}} .mbar span:nth-child(4){{background:#5B3A8C}} .mbar span:nth-child(5){{background:#0F6E5C}} .mbar .r{{margin-left:auto;color:#FFD54A}}
 /* stories */
 .st{{break-inside:avoid;margin:0 0 4mm}}
 .st h2{{font:400 13pt/1.45 W2Rama;margin:1mm 0 1.5mm;color:#14100C;text-wrap:balance}}
 .st .p{{font:400 8.8pt/1.8 W2Serif;margin:0 0 1.6mm;text-align:left;word-spacing:normal;hyphens:none}}
-.kick2{{font:800 6.8pt/1.4 W2Sans;color:var(--c);letter-spacing:.2pt;text-transform:uppercase;border-top:2pt solid var(--c);padding-top:1.5mm;display:inline-block}}
+.kick2{{font:800 6.8pt/1.4 W2Sans;color:#fff;background:var(--c);border-radius:.8mm;padding:.6mm 2.2mm;display:inline-block}}
+.fact{{display:flex;align-items:baseline;gap:2.5mm;background:color-mix(in srgb,var(--c) 10%,#fff);border-left:2.4pt solid var(--c);border-radius:0 1.5mm 1.5mm 0;padding:1.6mm 2.5mm;margin:1.4mm 0 1.6mm}}
+.fact b{{font:400 15pt/1.1 W2Disp;color:var(--c);white-space:nowrap}} .fact b.te{{font:400 13pt/1.3 W2Rama}} .fact i{{font:700 7.2pt/1.4 W2Sans;font-style:normal;color:#3B332B}}
 .pts{{margin:0 0 1.6mm;padding-left:4mm;font:600 8pt/1.65 W2Sans}} .pts li::marker{{color:var(--c)}}
 .why{{font:500 7.8pt/1.65 W2Sans;margin:0 0 1.5mm;background:#F2F4F7;border-left:2pt solid var(--c);padding:1.5mm 2.5mm}} .why b{{color:var(--c)}}
 .src{{font:600 6.8pt/1.4 W2Sans;color:#7A6E60;margin:0}}
@@ -202,24 +206,24 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 /* front grid */
 .fgrid{{display:grid;grid-template-columns:1fr 52mm;gap:5mm;border-bottom:.8pt solid #CFC4B2;margin-bottom:4mm}}
 .fside{{display:grid;gap:4mm;align-content:start}}
-.box{{border:.8pt solid #CFC4B2;border-top:2.4pt solid #12284A;padding:3mm;background:#fff}}
+.box{{border:0;border-radius:2mm;padding:3mm;background:#F1F5FB;border-top:2.4pt solid #0B5CAD}} .box.idx{{background:#FFF6E0;border-top-color:#C8102E}}
 .box h3{{margin:0 0 2.5mm;font:400 11pt/1 W2Rama;color:#12284A}}
 .num{{display:grid;border-top:.6pt dashed #DDD3C4;padding:1.8mm 0}} .num b{{font:400 15pt/1.1 W2Disp}} .num b.te{{font:400 14pt/1.2 W2Rama}} .num span{{font:600 7.2pt/1.35 W2Sans;color:#3B332B}}
 .idx div{{display:flex;justify-content:space-between;font:700 8pt/1.4 W2Sans;border-top:.6pt dashed #DDD3C4;padding:2mm 0}} .idx b{{color:#C8102E}} .idx p{{font:600 7pt/1.4 W2Sans;color:#7A6E60;margin:2mm 0 0}}
 .fsub{{display:grid;grid-template-columns:repeat(3,1fr);gap:5mm}}
 /* inner pages */
-.ph{{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2.4pt solid #12284A;padding-bottom:2mm;margin-bottom:4mm}}
-.pt{{font:400 19pt/1.3 W2Rama;color:var(--c)}} .pm{{font:600 7.4pt/1.3 W2Sans;color:#5E5246}} .pm b{{font:400 9pt/1 W2Disp;color:#12284A}}
+.ph{{display:flex;justify-content:space-between;align-items:center;background:var(--c);border-radius:1.5mm;padding:2.2mm 4mm;margin-bottom:4mm;box-shadow:inset 0 -1.2mm 0 rgba(0,0,0,.18)}}
+.pt{{font:400 18pt/1.3 W2Rama;color:#fff}} .pm{{font:600 7.4pt/1.3 W2Sans;color:rgba(255,255,255,.9)}} .pm b{{font:400 9pt/1 W2Disp;color:#FFD54A}}
 .secopen .scene{{height:52mm}}
 .secopen{{border-bottom:.8pt solid #CFC4B2;margin-bottom:4mm}}
 .cols{{column-count:3;column-gap:5mm;column-rule:.6pt solid #E0D6C6;column-fill:auto}}
-.cols .st{{break-inside:auto}} .st h2,.kick2{{break-after:avoid}} .why,.pts li,.src{{break-inside:avoid}} .cols .st .p{{orphans:3;widows:3}}
+.cols .st{{break-inside:auto}} .cols .st:nth-child(3n+2){{background:color-mix(in srgb,var(--c) 6%,#fff);border-top:2pt solid var(--c);padding:2mm 2.5mm;border-radius:1.5mm}} .cols .st h2{{color:#12284A}} .cols .st:nth-child(3n+2) h2{{color:color-mix(in srgb,var(--c) 75%,#000)}} .st h2,.kick2{{break-after:avoid}} .why,.pts li,.src{{break-inside:avoid}} .cols .st .p{{orphans:3;widows:3}}
 .jintro{{font:600 9pt/1.5 W2Sans;margin:0 0 3mm}}
 .hgrid{{display:grid;grid-template-columns:1.15fr 1fr;gap:6mm;height:calc(100% - 22mm)}}
 .hh{{font:400 15pt/1.35 W2Rama;margin:0 0 3mm;color:#12284A;border-bottom:1.6pt solid #12284A;padding-bottom:1.5mm}}
 .hl{{list-style:none;margin:0;padding:0;display:grid;gap:3.2mm}}
 .hl li{{display:grid;grid-template-columns:11mm 1fr;gap:3mm;align-items:start;border-bottom:.6pt dashed #DDD3C4;padding-bottom:3mm}}
-.hn{{font:400 20pt/1 W2Disp;color:var(--c);text-align:center}}
+.hn{{font:400 15pt/1 W2Disp;color:#fff;background:var(--c);border-radius:50%;width:10mm;height:10mm;display:flex;align-items:center;justify-content:center}}
 .hk{{font:800 6.8pt/1.4 W2Sans;color:var(--c)}}
 .hl h3{{font:400 11.6pt/1.45 W2Rama;margin:.6mm 0 1mm;color:#14100C}}
 .hl p{{font:500 7.8pt/1.6 W2Sans;margin:0;color:#4A4036}}
@@ -259,7 +263,11 @@ async function fit(){ await document.fonts.ready; let changed=true, guard=0;
       c.style.height=Math.max(40,limit-c.getBoundingClientRect().top)+'px'; c.dataset.fit=1;
       const moved=[]; while(c.scrollWidth>c.clientWidth+2 && c.children.length>1){ moved.unshift(c.lastElementChild); c.lastElementChild.remove(); }
       const rest=document.querySelector('.cols[data-rest]');
-      if(moved.length && rest && c!==rest && !c.closest('.page.cont')){ moved.reverse().forEach(m=>{ m.classList.add('small'); rest.insertBefore(m,rest.firstChild); }); delete rest.dataset.fit; rest.style.height=''; changed=true; break; }
+      if(moved.length && rest && c!==rest && !c.closest('.page.cont')){ moved.reverse().forEach(m=>{ m.classList.add('small'); rest.insertBefore(m,rest.firstChild); });
+        // fill the gap left at the bottom with shorter stories from "more news"
+        for(const cand of [...rest.children]){ const nx=cand.nextSibling; c.appendChild(cand); cand.classList.add('small');
+          if(c.scrollWidth>c.clientWidth+2){ rest.insertBefore(cand,nx); } }
+        delete rest.dataset.fit; rest.style.height=''; changed=true; break; }
       if(moved.length){ const np=document.createElement('section'); np.className='page cont'; const ph=pg.querySelector('.ph');
         np.innerHTML=(ph?ph.outerHTML:'')+'<div class="cols"></div>'; const t=np.querySelector('.pt'); if(t&&!/కొనసాగింపు/.test(t.textContent)) t.textContent+=' (కొనసాగింపు)';
         moved.forEach(m=>np.querySelector('.cols').appendChild(m)); (back?pg:pg).after(np); changed=true; break; } } }
