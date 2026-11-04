@@ -356,3 +356,20 @@ function w2sLangSwitch(){ const w=document.getElementById('lsw'); if(!w) return;
 
 /* a job in the reader's language; _h0 keeps the original Telugu headline for the link */
 function w2sJob(j,l){ l=l||w2sLang(); const o=(l!=='te'&&j&&j[l]&&typeof j[l]==='object'&&j[l].h)?Object.assign({},j,j[l]):Object.assign({},j); o._h0=j.h; return o; }
+
+/* website menu: show the sections that fit in one row, the rest go under "మరిన్ని ▾" (nothing hides off the edge) */
+function w2sNavFit(nav){
+  if(!nav) return; nav.classList.add('fit');
+  let more=nav.querySelector('.nmore'); if(more){ more.querySelectorAll('.nmenu a').forEach(a=>nav.insertBefore(a,more)); more.remove(); }
+  if(nav.scrollWidth<=nav.clientWidth+1) return;
+  more=document.createElement('div'); more.className='nmore';
+  more.innerHTML='<button type="button" aria-expanded="false" aria-haspopup="true">మరిన్ని ▾</button><div class="nmenu" hidden></div>';
+  nav.appendChild(more); const menu=more.querySelector('.nmenu'), btn=more.querySelector('button');
+  const links=[...nav.querySelectorAll(':scope > a')];
+  for(let i=links.length-1;i>0 && nav.scrollWidth>nav.clientWidth+1;i--){ menu.insertBefore(links[i],menu.firstChild); }
+  if(menu.querySelector('a[aria-current="true"]')) btn.classList.add('cur');
+  btn.onclick=e=>{ e.stopPropagation(); const o=menu.hidden; menu.hidden=!o; btn.setAttribute('aria-expanded',String(o)); };
+  menu.addEventListener('click',()=>{ menu.hidden=true; btn.setAttribute('aria-expanded','false'); });
+  if(!w2sNavFit.doc){ w2sNavFit.doc=1; document.addEventListener('click',()=>document.querySelectorAll('.nmore .nmenu').forEach(m=>{ m.hidden=true; }));
+    let t; addEventListener('resize',()=>{ clearTimeout(t); t=setTimeout(()=>document.querySelectorAll('nav.secs').forEach(w2sNavFit),150); }); }
+}

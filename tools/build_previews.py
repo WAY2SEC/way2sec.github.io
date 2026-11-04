@@ -173,7 +173,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <section class="sec"><div class="sh"><h2>మరిన్ని తాజా వార్తలు</h2><a href="/">హోమ్ →</a></div><div class="grid" id="more"></div></section>
 </main>
 {sh["footer"]}
-<script src="/scenes.js?v=20261104" defer></script><script src="/web/site.js" defer></script>
+<script src="/scenes.js?v=20261104" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>
 """
 
@@ -279,7 +279,7 @@ def static_page(title, desc, body):
 <main class="wrap"><div class="agrid"><article class="ar" style="--hl:var(--c-money);--hlink:var(--c-money)"><div class="in">{body}</div></article>
 <aside class="aside"><div class="latest"><h3>⚡ తాజా వార్తలు</h3><div id="latest"></div></div><div class="rbox rqr"><h4>📲 Way2Sec ఛానెల్</h4><img src="/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR"><p>స్కాన్ చేసి ప్రతి 30 నిమిషాలకు వార్తలు పొందండి</p></div></aside></div></main>
 {sh["footer"]}
-<script src="/scenes.js?v=20261104" defer></script><script src="/web/site.js" defer></script>
+<script src="/scenes.js?v=20261104" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>
 """
 

@@ -22,6 +22,7 @@ const tb=$('theme'); if(tb) tb.onclick=()=>{const r=document.documentElement,cur
 
 /* article in the reader's language (English / Hindi when the story has it) */
 const LANG=w2sLang(); w2sLangSwitch();
+document.querySelectorAll('nav.secs').forEach(w2sNavFit); if(document.fonts) document.fonts.ready.then(()=>document.querySelectorAll('nav.secs').forEach(w2sNavFit));
 (()=>{ const el=$('w2sTr'); if(!el||LANG==='te') return; let T; try{ T=JSON.parse(el.textContent)[LANG]; }catch(e){} if(!T||!T.h) return;
   const ar=document.querySelector('.ar'); if(!ar) return; const ui=W2S_UI[LANG];
   document.documentElement.lang=LANG; ar.setAttribute('lang',LANG);

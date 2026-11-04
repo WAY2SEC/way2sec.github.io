@@ -70,6 +70,14 @@ nav.secs::-webkit-scrollbar{display:none}
 nav.secs a{flex-shrink:0;display:flex;align-items:center;padding:0 15px;font-weight:800;font-size:15px;color:#DCE3EE;border-bottom:3px solid transparent;border-top:3px solid transparent}
 nav.secs a:hover{color:#fff;background:rgba(255,255,255,.07)}
 nav.secs a[aria-current="true"]{color:#fff;border-bottom-color:var(--gold);background:rgba(255,255,255,.06)}
+nav.secs.fit{overflow:visible}
+.nmore{position:relative;display:flex;margin-left:auto}
+.nmore>button{border:0;background:transparent;color:#DCE3EE;font:800 15px/1 inherit;font-family:inherit;padding:0 16px;cursor:pointer;border-bottom:3px solid transparent;border-top:3px solid transparent}
+.nmore>button:hover,.nmore>button[aria-expanded="true"]{color:#fff;background:rgba(255,255,255,.07)}
+.nmore>button.cur{color:#fff;border-bottom-color:var(--gold)}
+.nmenu{position:absolute;right:0;top:100%;min-width:220px;background:var(--navy);border-radius:0 0 14px 14px;box-shadow:0 18px 40px -12px rgba(0,0,0,.55);padding:6px;display:grid;z-index:60}
+.nmenu a{padding:11px 14px!important;border:0!important;border-radius:10px}
+.nmenu a[aria-current="true"]{background:rgba(255,213,74,.16)!important;color:var(--gold)!important}
 
 /* ticker */
 .tick{background:var(--navy2);color:#fff;overflow:hidden;border-bottom:3px solid var(--brand)}
@@ -365,5 +373,5 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
     <nav><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?cards=1">కార్డులు</a><a href="/?jobs=1">ఉద్యోగాలు</a><a href="/privacy.html">Privacy</a></nav>
   </div>
 </footer>
-<script src="/scenes.js?v=20261104" defer></script><script src="/web/site.js" defer></script>
+<script src="/scenes.js?v=20261104" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>

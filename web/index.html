@@ -10,7 +10,7 @@
 <link rel="icon" href="/favicon-48.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.webmanifest">
-<script src="/scenes.js?v=20261104"></script>
+<script src="/scenes.js?v=20261104"></script><script src="/web/bg.js?v=1" defer></script>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Way2Sec News">
 <meta property="og:title" content="Way2Sec – వార్తలు క్షణాల్లో! | Fastest AI News in Telugu">
@@ -78,6 +78,14 @@ nav.secs::-webkit-scrollbar{display:none}
 nav.secs a{flex-shrink:0;display:flex;align-items:center;padding:0 15px;font-weight:800;font-size:15px;color:#DCE3EE;border-bottom:3px solid transparent;border-top:3px solid transparent}
 nav.secs a:hover{color:#fff;background:rgba(255,255,255,.07)}
 nav.secs a[aria-current="true"]{color:#fff;border-bottom-color:var(--gold);background:rgba(255,255,255,.06)}
+nav.secs.fit{overflow:visible}
+.nmore{position:relative;display:flex;margin-left:auto}
+.nmore>button{border:0;background:transparent;color:#DCE3EE;font:800 15px/1 inherit;font-family:inherit;padding:0 16px;cursor:pointer;border-bottom:3px solid transparent;border-top:3px solid transparent}
+.nmore>button:hover,.nmore>button[aria-expanded="true"]{color:#fff;background:rgba(255,255,255,.07)}
+.nmore>button.cur{color:#fff;border-bottom-color:var(--gold)}
+.nmenu{position:absolute;right:0;top:100%;min-width:220px;background:var(--navy);border-radius:0 0 14px 14px;box-shadow:0 18px 40px -12px rgba(0,0,0,.55);padding:6px;display:grid;z-index:60}
+.nmenu a{padding:11px 14px!important;border:0!important;border-radius:10px}
+.nmenu a[aria-current="true"]{background:rgba(255,213,74,.16)!important;color:var(--gold)!important}
 
 /* ticker */
 .tick{background:var(--navy2);color:#fff;overflow:hidden;border-bottom:3px solid var(--brand)}
@@ -450,7 +458,7 @@ function renderList(title,list){
   $('backHome').onclick=e=>{e.preventDefault();section='all';$('q').value='';history.pushState(null,'',location.pathname);route();};
 }
 function route(){
-  renderNav();
+  renderNav(); w2sNavFit($('secs'));
   const q=$('q').value.trim();
   if(q){ const words=q.toLowerCase().split(/\s+/).filter(Boolean);
     const hits=ALL.filter(s=>{const t=((s.h||'')+' '+(s.p||'')+' '+(s.cat||'')+' '+(s.src||'')+' '+(PLACES[s.place]||'')).toLowerCase();return words.every(w=>t.includes(w))});
@@ -513,7 +521,7 @@ $('pSave').onclick=()=>{ const p=prefsGet(), st=$('pState').value;
   p.topics=p.topics||['telangana','india','world','ai','jobs','business','weather']; store.set('prefs',p); $('pick').hidden=true; if(chg){ location.href='/'; return; } afterPick(); };
 $('pSkip').onclick=()=>{ $('pick').hidden=true; try{sessionStorage.setItem('w2s.skipPick','1')}catch(e){} };
 $('myPlace').onclick=openPick;
-function afterPick(){ $('myPlaceTx').textContent=placeTx(prefsGet()); if(ALL.length){ renderHome(); route(); } }
+function afterPick(){ if(window.w2sBgRefresh) w2sBgRefresh(); $('myPlaceTx').textContent=placeTx(prefsGet()); if(ALL.length){ renderHome(); route(); } }
 { const p=prefsGet(); if(p.place||p.st) $('myPlaceTx').textContent=placeTx(p);
   let skip=false; try{skip=!!sessionStorage.getItem('w2s.skipPick')}catch(e){}
   if((!p.st && !p.place && !skip) || new URLSearchParams(location.search).has('pick')) setTimeout(openPick,600); }
@@ -541,7 +549,7 @@ async function load(){
   renderHome(); renderJobs(); route();
 }
 { const q0=new URLSearchParams(location.search).get('q'); if(q0) $('q').value=q0; }
-w2sLangSwitch(); renderNav(); load().then(()=>{ LAST=ALL[0]?sid(ALL[0]):''; });
+w2sLangSwitch(); renderNav(); w2sNavFit($('secs')); if(document.fonts) document.fonts.ready.then(()=>w2sNavFit($('secs'))); load().then(()=>{ LAST=ALL[0]?sid(ALL[0]):''; });
 /* live: check for new stories every minute; show a "new stories" button instead of jumping the page */
 let LAST='';
 const pill=document.createElement('button'); pill.type='button'; pill.hidden=true; pill.className='newpill';
