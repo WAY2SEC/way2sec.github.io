@@ -246,10 +246,47 @@ const PLACE_SCENE = {hyderabad:'hyderabad', rangareddy:'city', medchal:'city', s
   'ap-anantapur':'fort','ap-sathyasai':'temple','ap-kadapa':'fort','ap-annamayya':'hills','ap-tirupati':'temple','ap-chittoor':'temple', AP:'river'};
 const STATE_SCENE = {TG:'village',AP:'river',KA:'palace',TN:'temple',MH:'gateway',KL:'boat',DL:'redfort',OD:'temple',CG:'forest',GJ:'city',RJ:'fort',
   UP:'taj',MP:'forest',WB:'bridge',BR:'village',JH:'forest',PB:'village',HR:'city',HP:'hills',UK:'hills',JK:'hills',LA:'hills',GA:'beach',AS:'hills',NE:'hills',PY:'beach',AN:'beach'};
-function stateOf(s){ if(s.st) return s.st; const p=s.place||''; if(p.startsWith('ap-')||p==='AP') return 'AP'; if(p&&p!=='TS'&&p!=='IN') return 'TG'; return ''; }
+
+/* district lists for other states (key = state code + "-" + short English name) */
+const STATE_DISTRICTS = {
+ KA: [['ka-bagalkot','బాగల్‌కోట్','Bagalkot'],['ka-ballari','బళ్లారి','Ballari'],['ka-belagavi','బెళగావి','Belagavi'],['ka-bengalururural','బెంగళూరు గ్రామీణ','Bengaluru Rural'],
+  ['ka-bengaluru','బెంగళూరు అర్బన్','Bengaluru Urban'],['ka-bengalurusouth','బెంగళూరు సౌత్ (రామనగర)','Bengaluru South (Ramanagara)'],['ka-bidar','బీదర్','Bidar'],['ka-chamarajanagar','చామరాజనగర్','Chamarajanagar'],
+  ['ka-chikkaballapur','చిక్కబళ్లాపూర్','Chikkaballapur'],['ka-chikkamagaluru','చిక్కమగళూరు','Chikkamagaluru'],['ka-chitradurga','చిత్రదుర్గ','Chitradurga'],['ka-dakshinakannada','దక్షిణ కన్నడ (మంగళూరు)','Dakshina Kannada'],
+  ['ka-davanagere','దావణగెరె','Davanagere'],['ka-dharwad','ధార్వాడ్ (హుబ్లీ)','Dharwad'],['ka-gadag','గదగ్','Gadag'],['ka-hassan','హాసన్','Hassan'],['ka-haveri','హావేరి','Haveri'],
+  ['ka-kalaburagi','కలబురగి','Kalaburagi'],['ka-kodagu','కొడగు','Kodagu'],['ka-kolar','కోలార్','Kolar'],['ka-koppal','కొప్పళ','Koppal'],['ka-mandya','మండ్య','Mandya'],['ka-mysuru','మైసూరు','Mysuru'],
+  ['ka-raichur','రాయచూరు','Raichur'],['ka-shivamogga','శివమొగ్గ','Shivamogga'],['ka-tumakuru','తుమకూరు','Tumakuru'],['ka-udupi','ఉడుపి','Udupi'],['ka-uttarakannada','ఉత్తర కన్నడ','Uttara Kannada'],
+  ['ka-vijayapura','విజయపుర','Vijayapura'],['ka-vijayanagara','విజయనగర (హంపి)','Vijayanagara'],['ka-yadgir','యాదగిరి','Yadgir']],
+ TN: [['tn-ariyalur','అరియలూరు','Ariyalur'],['tn-chengalpattu','చెంగల్పట్టు','Chengalpattu'],['tn-chennai','చెన్నై','Chennai'],['tn-coimbatore','కోయంబత్తూరు','Coimbatore'],['tn-cuddalore','కడలూరు','Cuddalore'],
+  ['tn-dharmapuri','ధర్మపురి','Dharmapuri'],['tn-dindigul','దిండిగల్','Dindigul'],['tn-erode','ఈరోడ్','Erode'],['tn-kallakurichi','కళ్లకురిచ్చి','Kallakurichi'],['tn-kanchipuram','కాంచీపురం','Kanchipuram'],
+  ['tn-kanyakumari','కన్యాకుమారి','Kanyakumari'],['tn-karur','కరూర్','Karur'],['tn-krishnagiri','కృష్ణగిరి','Krishnagiri'],['tn-madurai','మదురై','Madurai'],['tn-mayiladuthurai','మయిలాడుతురై','Mayiladuthurai'],
+  ['tn-nagapattinam','నాగపట్నం','Nagapattinam'],['tn-namakkal','నామక్కల్','Namakkal'],['tn-nilgiris','నీలగిరి (ఊటీ)','Nilgiris'],['tn-perambalur','పెరంబలూరు','Perambalur'],['tn-pudukkottai','పుదుక్కోట్టై','Pudukkottai'],
+  ['tn-ramanathapuram','రామనాథపురం','Ramanathapuram'],['tn-ranipet','రాణిపేట్','Ranipet'],['tn-salem','సేలం','Salem'],['tn-sivaganga','శివగంగ','Sivaganga'],['tn-tenkasi','తెన్‌కాశి','Tenkasi'],
+  ['tn-thanjavur','తంజావూరు','Thanjavur'],['tn-theni','తేని','Theni'],['tn-thoothukudi','తూత్తుకుడి','Thoothukudi'],['tn-tiruchirappalli','తిరుచిరాపల్లి','Tiruchirappalli'],['tn-tirunelveli','తిరునెల్వేలి','Tirunelveli'],
+  ['tn-tirupathur','తిరుపత్తూరు','Tirupathur'],['tn-tiruppur','తిరుప్పూర్','Tiruppur'],['tn-tiruvallur','తిరువళ్లూరు','Tiruvallur'],['tn-tiruvannamalai','తిరువణ్ణామలై','Tiruvannamalai'],
+  ['tn-tiruvarur','తిరువారూర్','Tiruvarur'],['tn-vellore','వేలూరు','Vellore'],['tn-viluppuram','విల్లుపురం','Viluppuram'],['tn-virudhunagar','విరుదునగర్','Virudhunagar']],
+ MH: [['mh-ahilyanagar','అహిల్యానగర్ (అహ్మద్‌నగర్)','Ahilyanagar (Ahmednagar)'],['mh-akola','అకోలా','Akola'],['mh-amravati','అమరావతి (మహారాష్ట్ర)','Amravati'],['mh-sambhajinagar','ఛత్రపతి శంభాజీనగర్ (ఔరంగాబాద్)','Chhatrapati Sambhajinagar'],
+  ['mh-beed','బీడ్','Beed'],['mh-bhandara','భండారా','Bhandara'],['mh-buldhana','బుల్ధానా','Buldhana'],['mh-chandrapur','చంద్రపూర్','Chandrapur'],['mh-dharashiv','ధారాశివ్ (ఉస్మానాబాద్)','Dharashiv (Osmanabad)'],
+  ['mh-dhule','ధులే','Dhule'],['mh-gadchiroli','గడ్చిరోలి','Gadchiroli'],['mh-gondia','గోండియా','Gondia'],['mh-hingoli','హింగోలి','Hingoli'],['mh-jalgaon','జల్గావ్','Jalgaon'],['mh-jalna','జాల్నా','Jalna'],
+  ['mh-kolhapur','కొల్హాపూర్','Kolhapur'],['mh-latur','లాతూర్','Latur'],['mh-mumbai','ముంబై సిటీ','Mumbai City'],['mh-mumbaisuburban','ముంబై సబర్బన్','Mumbai Suburban'],['mh-nagpur','నాగ్‌పూర్','Nagpur'],
+  ['mh-nanded','నాందేడ్','Nanded'],['mh-nandurbar','నందుర్బార్','Nandurbar'],['mh-nashik','నాశిక్','Nashik'],['mh-palghar','పాల్ఘర్','Palghar'],['mh-parbhani','పర్భణి','Parbhani'],['mh-pune','పుణె','Pune'],
+  ['mh-raigad','రాయగఢ్','Raigad'],['mh-ratnagiri','రత్నగిరి','Ratnagiri'],['mh-sangli','సాంగ్లీ','Sangli'],['mh-satara','సతారా','Satara'],['mh-sindhudurg','సింధుదుర్గ్','Sindhudurg'],['mh-solapur','షోలాపూర్','Solapur'],
+  ['mh-thane','ఠాణె','Thane'],['mh-wardha','వార్ధా','Wardha'],['mh-washim','వాశిమ్','Washim'],['mh-yavatmal','యవత్మాల్','Yavatmal']]
+};
+/* other names the news may use for the same district */
+const PLACE_ALIAS = {'mh-ahmednagar':'mh-ahilyanagar','mh-aurangabad':'mh-sambhajinagar','mh-chhatrapatisambhajinagar':'mh-sambhajinagar','mh-osmanabad':'mh-dharashiv',
+  'mh-mumbaicity':'mh-mumbai','ka-ramanagara':'ka-bengalurusouth','ka-bengaluruurban':'ka-bengaluru','ka-bangalore':'ka-bengaluru','ka-mysore':'ka-mysuru','ka-mangaluru':'ka-dakshinakannada',
+  'ka-hubballi':'ka-dharwad','tn-trichy':'tn-tiruchirappalli','tn-ooty':'tn-nilgiris','tn-thenilgiris':'tn-nilgiris','tn-tuticorin':'tn-thoothukudi','ka-gulbarga':'ka-kalaburagi','ka-belgaum':'ka-belagavi'};
+const normPlace = k => PLACE_ALIAS[k] || k;
+Object.assign(PLACE_SCENE, {'ka-bengaluru':'city','ka-bengalururural':'city','ka-bengalurusouth':'city','ka-mysuru':'palace','ka-kodagu':'hills','ka-chikkamagaluru':'hills','ka-udupi':'beach',
+  'ka-dakshinakannada':'beach','ka-uttarakannada':'beach','ka-vijayanagara':'fort','ka-vijayapura':'fort','ka-bidar':'fort','ka-chitradurga':'fort','ka-mandya':'dam',
+  'tn-chennai':'beach','tn-kanyakumari':'beach','tn-thoothukudi':'beach','tn-nagapattinam':'beach','tn-ramanathapuram':'beach','tn-cuddalore':'beach','tn-madurai':'temple','tn-thanjavur':'temple',
+  'tn-kanchipuram':'temple','tn-tiruvannamalai':'temple','tn-nilgiris':'hills','tn-theni':'hills','tn-coimbatore':'city','tn-tiruppur':'city','tn-salem':'city',
+  'mh-mumbai':'gateway','mh-mumbaisuburban':'city','mh-thane':'city','mh-pune':'city','mh-nagpur':'city','mh-ratnagiri':'beach','mh-sindhudurg':'beach','mh-raigad':'fort','mh-satara':'hills',
+  'mh-gadchiroli':'forest','mh-chandrapur':'forest','mh-kolhapur':'temple','mh-nashik':'temple','mh-sambhajinagar':'fort'});
+function stateOf(s){ if(s.st && s.st!=='IN' && s.st!=='WORLD') return s.st; const p=s.place||''; if(p.startsWith('ap-')||p==='AP') return 'AP'; const m=/^(ka|tn|mh)-/.exec(p); if(m) return m[1].toUpperCase(); if(s.st) return ''; if(p&&p!=='TS'&&p!=='IN') return 'TG'; return ''; }
 function sceneFor(s){
   if(s.kind==='job') return 'city';
-  if(s.place && PLACE_SCENE[s.place]) return PLACE_SCENE[s.place];
+  const pk=normPlace(s.place||''); if(pk && PLACE_SCENE[pk]) return PLACE_SCENE[pk];
   const sec = Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:[]);
   const cat = s.cat||'';
   const st = stateOf(s);
@@ -268,7 +305,8 @@ function sceneFor(s){
 function placeLabel(key){
   if(!key) return '';
   if(key.startsWith('st-')){ const s=STATES.find(x=>x[0]===key.slice(3)); return s?s[1]:''; }
-  const a=AP_DISTRICTS.find(x=>x[0]===key); if(a) return a[1];
+  key=normPlace(key); const a=AP_DISTRICTS.find(x=>x[0]===key); if(a) return a[1];
+  for(const st in STATE_DISTRICTS){ const d=STATE_DISTRICTS[st].find(x=>x[0]===key); if(d) return d[1]; }
   return '';
 }
 function sceneSVG(s, cls){

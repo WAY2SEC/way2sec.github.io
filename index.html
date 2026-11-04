@@ -406,14 +406,14 @@ const PLACES = [
 ];
 const LANGS = [['te','తెలుగు','Telugu'],['en','English','త్వరలో · Soon'],['hi','हिन्दी','త్వరలో · Soon']];
 const placeName = k => { if(!k||k==='TS') return 'మొత్తం తెలంగాణ'; if(k==='AP') return 'మొత్తం ఆంధ్రప్రదేశ్'; const t=PLACES.find(p=>p[0]===k); return t?t[1]:(placeLabel(k)||'మొత్తం తెలంగాణ'); };
-const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):'TG'));
+const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):(/^(ka|tn|mh)-/.test(k)?k.slice(0,2).toUpperCase():'TG')));
 /* does a story belong to the reader's place? */
 function inPlace(s,k){ if(!k||k==='TS') return (s.place||'TS')==='TS' && stateOf(s)!=='AP' && !(s.st&&s.st!=='TG');
-  if(k==='AP') return stateOf(s)==='AP'; if(k.startsWith('st-')) return stateOf(s)===k.slice(3); return s.place===k; }
+  if(k==='AP') return stateOf(s)==='AP'; if(k.startsWith('st-')) return stateOf(s)===k.slice(3); return normPlace(s.place||'')===k; }
 /* local first: own village → own district → own state → everything else */
 function localScore(s){ const v=(prefs.village||'').trim(); let sc=0;
   if(v && ((s.loc||'')+' '+(s.h||'')+' '+(s.p||'')).toLowerCase().includes(v.toLowerCase())) sc+=4;
-  if(prefs.place && prefs.place!=='TS' && prefs.place!=='AP' && !prefs.place.startsWith('st-') && s.place===prefs.place) sc+=2;
+  if(prefs.place && prefs.place!=='TS' && prefs.place!=='AP' && !prefs.place.startsWith('st-') && normPlace(s.place||'')===prefs.place) sc+=2;
   const myst=stOfPlace(prefs.place); if(stateOf(s)===myst && myst!=='TG') sc+=1;
   return sc; }
 const localFirst = l => l.map((s,i)=>[s,localScore(s),i]).sort((a,b)=>b[1]-a[1]||a[2]-b[2]).map(x=>x[0]);
@@ -871,7 +871,7 @@ $('closeJoin').onclick=()=>{$('joinSheet').hidden=true};
 
 /* ---------- readers send local news (opens WhatsApp with the tip typed) ---------- */
 function openTip(){
-  $('tipDist').innerHTML = '<option value="">జిల్లా ఎంచుకోండి</option>' + PLACES.filter(p=>p[0]!=='TS').map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])})</option>`).join('') + AP_DISTRICTS.map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])}) – ఏపీ</option>`).join('') + STATES.filter(s=>s[0]!=='TG'&&s[0]!=='AP').map(s=>`<option value="st-${s[0]}"${'st-'+s[0]===prefs.place?' selected':''}>${esc(s[1])} (${esc(s[2])})</option>`).join('') + '<option value="other">ఇతర ప్రాంతం (Other)</option>';
+  $('tipDist').innerHTML = '<option value="">జిల్లా ఎంచుకోండి</option>' + PLACES.filter(p=>p[0]!=='TS').map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])})</option>`).join('') + AP_DISTRICTS.map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])}) – ఏపీ</option>`).join('') + Object.keys(STATE_DISTRICTS).map(st=>STATE_DISTRICTS[st].map(p=>`<option value="${p[0]}"${p[0]===prefs.place?' selected':''}>${esc(p[1])} (${esc(p[2])}) – ${esc((STATES.find(x=>x[0]===st)||['','',''])[1])}</option>`).join('')).join('') + STATES.filter(s=>s[0]!=='TG'&&s[0]!=='AP').map(s=>`<option value="st-${s[0]}"${'st-'+s[0]===prefs.place?' selected':''}>${esc(s[1])} (${esc(s[2])})</option>`).join('') + '<option value="other">ఇతర ప్రాంతం (Other)</option>';
   $('tipErr').textContent=''; $('sheet').hidden=true; $('joinSheet').hidden=true; $('tipSheet').hidden=false;
 }
 $('tipOpen1').onclick=openTip; $('tipOpen2').onclick=openTip; $('closeTip').onclick=()=>{ $('tipSheet').hidden=true; };
@@ -910,6 +910,7 @@ function drawStates(){
 function distList(){
   if(draft.st==='TG') return PLACES;
   if(draft.st==='AP') return [['AP','మొత్తం ఆంధ్రప్రదేశ్','All Andhra Pradesh']].concat(AP_DISTRICTS);
+  if(STATE_DISTRICTS[draft.st]){ const s=STATES.find(x=>x[0]===draft.st); return [['st-'+draft.st,'మొత్తం '+s[1],'All '+s[2]]].concat(STATE_DISTRICTS[draft.st]); }
   return null;
 }
 function drawPlaces(){
@@ -921,7 +922,7 @@ function drawPlaces(){
   if(!list){ draft.place='st-'+draft.st; $('places').innerHTML=''; return; }
   if(!list.some(p=>p[0]===draft.place)) draft.place=list[0][0];
   $('places').innerHTML = list.filter(p=>!q||p[1].includes(q)||p[2].toLowerCase().includes(q)).map(p=>
-    `<button class="opt${p[0]==='TS'||p[0]==='AP'?' wide':''}" type="button" role="radio" data-k="${p[0]}" aria-checked="${draft.place===p[0]}"><b>${esc(p[1])}</b><small>${esc(p[2])}</small></button>`).join('');
+    `<button class="opt${p[0]==='TS'||p[0]==='AP'||p[0].startsWith('st-')?' wide':''}" type="button" role="radio" data-k="${p[0]}" aria-checked="${draft.place===p[0]}"><b>${esc(p[1])}</b><small>${esc(p[2])}</small></button>`).join('');
 }
 function drawTopics(){
   $('topics').innerHTML = SECTIONS.filter(s=>!FIXED.includes(s[0])).map(s=>

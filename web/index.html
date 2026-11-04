@@ -408,7 +408,7 @@ function renderHome(){
   $('sections').querySelectorAll('a[data-go]').forEach(a=>a.onclick=e=>{e.preventDefault();section=a.dataset.go;history.pushState(null,'','?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
   $('tick').innerHTML=(t=>t+t)(ALL.slice(0,10).map(s=>`<a href="${link(s)}"><b>${s.brk?'🔴 BREAKING':esc(s.t||'')}</b>${esc(s.h)}</a>`).join(''));
   // districts
-  const ALLP=Object.assign({},PLACES,Object.fromEntries(AP_DISTRICTS.map(a=>[a[0],a[1]])));
+  const ALLP=Object.assign({},PLACES,Object.fromEntries(AP_DISTRICTS.concat(...Object.values(STATE_DISTRICTS)).map(a=>[a[0],a[1]])));
   const have=Object.keys(ALLP).filter(k=>ALL.some(s=>s.place===k));
   const keys=have.length?have:Object.keys(PLACES).slice(0,12);
   const pref=(store.get('prefs',{})||{}).place;
@@ -451,14 +451,15 @@ addEventListener('keydown',e=>{ if(e.key==='/' && document.activeElement!==$('q'
 /* ---- reader's place (shared with the app: same saved choice) ---- */
 const TG_D=[['TS','మొత్తం తెలంగాణ']].concat(Object.entries(PLACES));
 function prefsGet(){ return store.get('prefs',{})||{}; }
-function stOfPlace(k){ if(!k||k==='TS'||PLACES[k]) return 'TG'; if(k==='AP'||k.startsWith('ap-')) return 'AP'; return k.startsWith('st-')?k.slice(3):'TG'; }
+function stOfPlace(k){ if(!k||k==='TS'||PLACES[k]) return 'TG'; if(k==='AP'||k.startsWith('ap-')) return 'AP'; if(/^(ka|tn|mh)-/.test(k)) return k.slice(0,2).toUpperCase(); return k.startsWith('st-')?k.slice(3):'TG'; }
 function placeTx(p){ const k=p.place||'TS'; let n=k==='TS'?'తెలంగాణ':k==='AP'?'ఆంధ్రప్రదేశ్':(PLACES[k]||placeLabel(k)||'తెలంగాణ'); return (p.village?p.village+', ':'')+n; }
 function inMine(s,p){ const k=p.place||'TS', v=(p.village||'').toLowerCase();
   if(v && ((s.loc||'')+' '+(s.h||'')+' '+(s.p||'')).toLowerCase().includes(v)) return 3;
-  if(k!=='TS'&&k!=='AP'&&!k.startsWith('st-')&&s.place===k) return 2;
+  if(k!=='TS'&&k!=='AP'&&!k.startsWith('st-')&&normPlace(s.place||'')===k) return 2;
   const st=stOfPlace(k); if(st!=='TG' && stateOf(s)===st) return 1; return 0; }
 function fillDist(st,cur){
-  const list = st==='TG'?TG_D : st==='AP'?[['AP','మొత్తం ఆంధ్రప్రదేశ్']].concat(AP_DISTRICTS.map(a=>[a[0],a[1]])) : null;
+  const sn=(STATES.find(x=>x[0]===st)||['','',''])[1];
+  const list = st==='TG'?TG_D : st==='AP'?[['AP','మొత్తం ఆంధ్రప్రదేశ్']].concat(AP_DISTRICTS.map(a=>[a[0],a[1]])) : STATE_DISTRICTS[st]?[['st-'+st,'మొత్తం '+sn]].concat(STATE_DISTRICTS[st].map(a=>[a[0],a[1]])) : null;
   $('pDistL').hidden=!list; if(!list) return;
   $('pDist').innerHTML=list.map(([k,n])=>`<option value="${k}"${k===cur?' selected':''}>${n}</option>`).join('');
 }
@@ -470,7 +471,7 @@ function openPick(){
 $('pState').onchange=()=>fillDist($('pState').value,'');
 $('pLang').onclick=e=>{const b=e.target.closest('button'); if(b&&b.dataset.l!=='te'){ b.textContent=b.dataset.l==='en'?'English త్వరలో వస్తుంది':'हिन्दी జల్దీ'; } };
 $('pSave').onclick=()=>{ const p=prefsGet(), st=$('pState').value;
-  p.st=st; p.place= st==='TG'||st==='AP' ? $('pDist').value : 'st-'+st; p.village=$('pVil').value.trim(); p.lang='te';
+  p.st=st; p.place= st==='TG'||st==='AP'||STATE_DISTRICTS[st] ? $('pDist').value : 'st-'+st; p.village=$('pVil').value.trim(); p.lang='te';
   p.topics=p.topics||['telangana','india','world','ai','jobs','business','weather']; store.set('prefs',p); $('pick').hidden=true; afterPick(); };
 $('pSkip').onclick=()=>{ $('pick').hidden=true; try{sessionStorage.setItem('w2s.skipPick','1')}catch(e){} };
 $('myPlace').onclick=openPick;
