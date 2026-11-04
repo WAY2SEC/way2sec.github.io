@@ -1,8 +1,106 @@
 {
  "date": "04.11.2026",
- "updated": "2026-11-04T19:46:15+05:30",
+ "updated": "2026-11-04T20:12:53+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · రంగారెడ్డి",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "2 అరెస్ట్",
+   "statl": "క్రైస్తవ యువతులపై దాడి కేసులో",
+   "h": "క్రైస్తవ యువతులపై దాడి కేసు: నిరసనల తర్వాత ఇద్దరి అరెస్ట్",
+   "p": "రంగారెడ్డి జిల్లా అల్మాస్‌గూడలో అంబేడ్కర్ విగ్రహం సమీపంలో క్రైస్తవ యువతులను చెంపదెబ్బ కొట్టారన్న ఆరోపణలపై మీర్‌పేట్ పోలీసులు ఇద్దరిని అరెస్ట్ చేశారు. ఘటన నెల క్రితం జరిగినా, వీడియో మంగళవారం సాయంత్రం బయటకు రావడంతో ఆగ్రహం వ్యక్తమైంది. మతమార్పిడి ఆరోపణతో యువతులను దూషించినట్లు వీడియోలో కనిపిస్తోంది. కేసు నమోదు చేసి నిందితులను మేజిస్ట్రేట్ ముందు హాజరుపరుస్తున్నట్లు పోలీసులు తెలిపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-christian-women-attack-after-intense-protest-two-arrested-3569780/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "అల్మాస్‌గూడ",
+   "pts": [
+    "మీర్‌పేట్ ఎస్‌హెచ్‌ఓ కేసు నమోదు",
+    "బడంగ్‌పేట్ చౌరస్తాలో దళిత క్రైస్తవ సంఘాల భారీ నిరసన",
+    "మరిన్ని వివరాలు పోలీసులు పరిశీలిస్తున్నారు"
+   ],
+   "why": "మత సామరస్యం, మహిళల భద్రతపై ప్రజల్లో ఆందోళన పెంచిన ఘటన కావడంతో పోలీసు చర్య కీలకం.",
+   "d": "04.11.2026",
+   "t": "20:05",
+   "en": {
+    "h": "Attack on Christian women: two arrested after protests",
+    "p": "Meerpet police arrested two people accused of slapping young Christian women near the Ambedkar statue at Almasguda in Ranga Reddy district. Though the incident took place a month ago, the video surfaced on Tuesday evening, sparking anger. The video shows the women being abused over an allegation of religious conversion. Police said a case was registered and the accused are being produced before a magistrate.",
+    "pts": [
+     "Case registered by Meerpet SHO",
+     "Big protest by Dalit Christian groups at Badangpet crossroads",
+     "Police verifying further details"
+    ],
+    "why": "The incident raised public concern over communal harmony and women's safety, making police action important.",
+    "cat": "Telangana · Ranga Reddy",
+    "statl": "In attack on Christian women case"
+   },
+   "hi": {
+    "h": "ईसाई युवतियों पर हमला: विरोध के बाद दो गिरफ्तार",
+    "p": "रंगारेड्डी जिले के अल्मासगुडा में आंबेडकर प्रतिमा के पास ईसाई युवतियों को थप्पड़ मारने के आरोप में मीरपेट पुलिस ने दो लोगों को गिरफ्तार किया। घटना एक महीने पुरानी है, लेकिन मंगलवार शाम वीडियो सामने आने पर आक्रोश फैला। वीडियो में धर्मांतरण के आरोप पर युवतियों से दुर्व्यवहार दिखता है। पुलिस ने बताया कि केस दर्ज कर आरोपियों को मजिस्ट्रेट के सामने पेश किया जा रहा है।",
+    "pts": [
+     "मीरपेट एसएचओ ने केस दर्ज किया",
+     "बडंगपेट चौराहे पर दलित ईसाई संगठनों का बड़ा प्रदर्शन",
+     "पुलिस आगे की जानकारी की जांच कर रही है"
+    ],
+    "why": "घटना से सांप्रदायिक सौहार्द और महिलाओं की सुरक्षा पर चिंता बढ़ी, इसलिए पुलिस कार्रवाई अहम है।",
+    "cat": "तेलंगाना · रंगारेड्डी",
+    "statl": "ईसाई युवतियों पर हमले के मामले में"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · విద్య",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "HCU",
+   "statl": "అధ్యాపకుడిపై కుల దూషణ ఆరోపణలు",
+   "h": "హెచ్‌సీయూ అధ్యాపకుడిపై కుల దూషణ ఆరోపణలు: చర్యకు ఎస్ఎఫ్ఐ డిమాండ్",
+   "p": "హైదరాబాద్ సెంట్రల్ యూనివర్సిటీ చరిత్ర విభాగానికి చెందిన ఓ అసోసియేట్ ప్రొఫెసర్ తన పర్యవేక్షణలోని విద్యార్థికి పంపిన ఈమెయిల్‌లో కుల, వర్గ వివక్షాపూరిత వ్యాఖ్యలు చేశారని ఎస్ఎఫ్ఐ యూకే, హెచ్‌సీయూ విభాగాలు ఆరోపించాయి. పుస్తక అధ్యాయం సవరణలపై విభేదంతో వివాదం మొదలైందని తెలిపాయి. పారదర్శక విచారణ జరిపి ఆయనను తొలగించాలని, ఎస్సీ ఎస్టీ అట్రాసిటీ చట్టం కింద కేసు పెట్టాలని డిమాండ్ చేశాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/sfi-alleges-caste-abuse-by-faculty-at-university-of-hyderabad-3569750/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ఆరోపణలు ఈమెయిల్ ఆధారంగా: ఎస్ఎఫ్ఐ",
+    "విచారణ ఫలితాలు బహిర్గతం చేయాలని డిమాండ్",
+    "ప్రొఫెసర్ స్పందన కోసం సంప్రదించినట్లు సియాసత్ వెల్లడి"
+   ],
+   "why": "విశ్వవిద్యాలయాల్లో అణగారిన వర్గాల విద్యార్థుల పట్ల వివక్షపై ఆందోళనను ఈ ఆరోపణలు మళ్లీ ముందుకు తెచ్చాయి.",
+   "d": "04.11.2026",
+   "t": "20:05",
+   "en": {
+    "h": "Caste abuse allegations against HCU faculty: SFI demands action",
+    "p": "The SFI's UK and HCU units alleged that an Associate Professor of the History department at the University of Hyderabad made casteist and classist remarks in an email to a student he was mentoring. They said the dispute began over revisions to a book chapter. They demanded a transparent inquiry, his removal, and a case under the SC/ST (Prevention of Atrocities) Act.",
+    "pts": [
+     "Allegations based on an email, says SFI",
+     "Demand that inquiry findings be made public",
+     "Siasat says it contacted the professor for comment"
+    ],
+    "why": "The allegations again bring up concerns about discrimination against students from marginalised communities in universities.",
+    "cat": "Hyderabad · Education",
+    "statl": "Caste abuse allegations against faculty"
+   },
+   "hi": {
+    "h": "एचसीयू शिक्षक पर जातिगत अपमान के आरोप: एसएफआई ने कार्रवाई मांगी",
+    "p": "एसएफआई की यूके और एचसीयू इकाइयों ने आरोप लगाया कि हैदराबाद विश्वविद्यालय के इतिहास विभाग के एक एसोसिएट प्रोफेसर ने अपने मार्गदर्शन वाले छात्र को भेजे ईमेल में जातिवादी और वर्गभेदी टिप्पणियां कीं। उन्होंने कहा कि विवाद एक पुस्तक अध्याय के संशोधनों पर शुरू हुआ। उन्होंने पारदर्शी जांच, उन्हें हटाने और एससी/एसटी अत्याचार निवारण अधिनियम के तहत केस की मांग की।",
+    "pts": [
+     "आरोप एक ईमेल पर आधारित: एसएफआई",
+     "जांच के निष्कर्ष सार्वजनिक करने की मांग",
+     "सियासत ने प्रोफेसर से प्रतिक्रिया मांगी"
+    ],
+    "why": "इन आरोपों ने विश्वविद्यालयों में वंचित वर्गों के छात्रों से भेदभाव की चिंता फिर उठाई है।",
+    "cat": "हैदराबाद · शिक्षा",
+    "statl": "शिक्षक पर जातिगत अपमान के आरोप"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
@@ -1579,102 +1677,6 @@
    },
    "d": "04.11.2026",
    "t": "14:05"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "50.88%",
-   "statl": "ఎల్-సయ్యద్‌కు వచ్చిన ఓట్ల శాతం (77% లెక్కింపు)",
-   "h": "అమెరికా సెనేట్‌కు తొలి ముస్లిం: మిషిగన్‌లో అబ్దుల్ ఎల్-సయ్యద్ గెలుపు",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో మిషిగన్ సెనేట్ స్థానాన్ని డెమొక్రాట్ అబ్దుల్ ఎల్-సయ్యద్ (42) గెలుచుకున్నారు. యూఎస్ సెనేట్‌కు ఎన్నికైన తొలి ముస్లిం ఆయనే. రిపబ్లికన్ మాజీ ప్రతినిధి మైక్ రోజర్స్‌ను ఓడించారు. 77% ఓట్ల లెక్కింపు నాటికి ఎల్-సయ్యద్‌కు 50.88%, రోజర్స్‌కు 47.14% ఓట్లు వచ్చాయని డెసిషన్ డెస్క్ హెచ్‌క్యూ తెలిపింది. ఈజిప్ట్ వలస తల్లిదండ్రుల కుమారుడైన ఆయన వైద్యుడు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/history-made-abdul-el-sayed-becomes-first-muslim-us-senator-3569477/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఎల్-సయ్యద్‌కు 18,97,833 ఓట్లు",
-    "గతంలో డెట్రాయిట్ ఆరోగ్య డైరెక్టర్‌గా పనిచేశారు",
-    "జనవరిలో సెనేటర్‌గా ప్రమాణం"
-   ],
-   "why": "అమెరికా రాజకీయాల్లో వలసదారుల కుటుంబాల ప్రాతినిధ్యం పెరుగుతుండటాన్ని అక్కడి భారతీయులు ఆసక్తిగా గమనిస్తున్నారు.",
-   "en": {
-    "h": "First Muslim in US Senate: Abdul El-Sayed wins in Michigan",
-    "p": "Democrat Abdul El-Sayed, 42, won the Michigan Senate seat in the US midterm elections, becoming the first Muslim elected to the US Senate. He defeated Republican former Representative Mike Rogers. With 77% of votes counted, El-Sayed had 50.88% and Rogers 47.14%, according to Decision Desk HQ. The son of Egyptian immigrant parents, he is a doctor.",
-    "pts": [
-     "El-Sayed received 1,897,833 votes",
-     "Earlier served as Detroit's health director",
-     "To be sworn in as senator in January"
-    ],
-    "why": "Indians in the US are closely watching the growing representation of immigrant families in American politics.",
-    "cat": "World · USA",
-    "statl": "El-Sayed's vote share (77% counted)"
-   },
-   "hi": {
-    "h": "अमेरिकी सीनेट में पहला मुस्लिम: मिशिगन में अब्दुल अल-सैयद जीते",
-    "p": "अमेरिकी मध्यावधि चुनाव में डेमोक्रेट अब्दुल अल-सैयद (42) ने मिशिगन सीनेट सीट जीत ली। वे अमेरिकी सीनेट में चुने गए पहले मुस्लिम हैं। उन्होंने रिपब्लिकन पूर्व प्रतिनिधि माइक रोजर्स को हराया। डिसीजन डेस्क एचक्यू के अनुसार 77% मतगणना तक अल-सैयद को 50.88% और रोजर्स को 47.14% वोट मिले। मिस्र से आए प्रवासी माता-पिता के बेटे अल-सैयद डॉक्टर हैं।",
-    "pts": [
-     "अल-सैयद को 18,97,833 वोट मिले",
-     "पहले डेट्रॉयट के स्वास्थ्य निदेशक रहे",
-     "जनवरी में सीनेटर पद की शपथ"
-    ],
-    "why": "अमेरिका में भारतीय वहां की राजनीति में प्रवासी परिवारों के बढ़ते प्रतिनिधित्व पर करीबी नजर रख रहे हैं।",
-    "cat": "विश्व · अमेरिका",
-    "statl": "अल-सैयद का वोट प्रतिशत (77% गिनती)"
-   },
-   "d": "04.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "ఏపీ · పురపాలక ఫలితాలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "94/100",
-   "statl": "కూటమి గెలిచిన పట్టణ స్థానిక సంస్థలు",
-   "h": "ఏపీ పురపాలక ఫలితాలు: 100లో 94 సంస్థలు ఎన్డీఏకు; పోటీ చేసిన అన్నీ జనసేన కైవసం",
-   "p": "ఆంధ్రప్రదేశ్‌లో ఎన్నికలు జరిగిన 100 పట్టణ స్థానిక సంస్థల్లో 94 ఎన్డీఏ కూటమి దక్కించుకుంది. 13 కార్పొరేషన్లలో 11 చోట్ల కూటమి మేయర్లు ఎన్నికయ్యారు. జనసేన పోటీ చేసిన అన్ని స్థానాలు గెలిచి విజయవాడ, ఏలూరు మేయర్ పదవులతో పాటు 14 మున్సిపాలిటీలు, మూడు నగర పంచాయతీల చైర్‌పర్సన్ పదవులు పొందింది. వైకాపాకు ఒక కార్పొరేషన్, మూడు మున్సిపాలిటీలు దక్కాయి.",
-   "src": "Telangana Today, IANS",
-   "url": "https://telanganatoday.com/pawan-kalyans-jana-sena-records-100-per-cent-strike-rate-wins-all-seats-contested-in-andhra-municipal-polls",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "బీజేపీ పోటీ చేసిన నాలుగు మున్సిపాలిటీలూ గెలుపు",
-    "అనంతపురం మేయర్ పదవి వైకాపాకు",
-    "ఒంగోలులో లెక్కింపు కొనసాగుతుండగా ఎన్డీఏ ఆధిక్యం"
-   ],
-   "why": "రాష్ట్రంలోని పట్టణాల్లో రాబోయే ఐదేళ్ల స్థానిక పాలన ఎవరి చేతిలో ఉంటుందో ఈ ఫలితాలు నిర్ణయించాయి.",
-   "en": {
-    "h": "AP civic poll results: NDA wins 94 of 100 bodies; Jana Sena sweeps all it contested",
-    "p": "In Andhra Pradesh, the NDA alliance won 94 of the 100 urban local bodies that went to the polls. Alliance mayors were elected in 11 of 13 corporations. Jana Sena won every seat it contested, taking the Vijayawada and Eluru mayor posts and chairperson posts in 14 municipalities and three nagar panchayats. YSRCP won one corporation and three municipalities.",
-    "pts": [
-     "BJP won all four municipalities it contested",
-     "Anantapur mayor post went to YSRCP",
-     "NDA leading in Ongole as counting continues"
-    ],
-    "why": "These results decide who will run local administration in the state's towns for the next five years.",
-    "cat": "Andhra Pradesh · Civic results",
-    "statl": "Urban local bodies won by the alliance"
-   },
-   "hi": {
-    "h": "आंध्र नगर निकाय नतीजे: 100 में 94 निकाय एनडीए को; जनसेना ने लड़ी सभी सीटें जीतीं",
-    "p": "आंध्र प्रदेश में जिन 100 शहरी स्थानीय निकायों में चुनाव हुए, उनमें से 94 एनडीए गठबंधन ने जीते। 13 नगर निगमों में से 11 में गठबंधन के मेयर चुने गए। जनसेना ने लड़ी सभी सीटें जीतीं और विजयवाड़ा व एलुरु के मेयर पद के साथ 14 नगरपालिकाओं और तीन नगर पंचायतों के अध्यक्ष पद हासिल किए। वाईएसआरसीपी को एक नगर निगम और तीन नगरपालिकाएं मिलीं।",
-    "pts": [
-     "भाजपा ने लड़ी चारों नगरपालिकाएं जीतीं",
-     "अनंतपुर मेयर पद वाईएसआरसीपी को",
-     "ओंगोल में गिनती जारी, एनडीए आगे"
-    ],
-    "why": "इन नतीजों से तय हुआ कि राज्य के शहरों में अगले पांच साल स्थानीय प्रशासन किसके हाथ में रहेगा।",
-    "cat": "आंध्र प्रदेश · निकाय नतीजे",
-    "statl": "गठबंधन के जीते शहरी निकाय"
-   },
-   "d": "04.11.2026",
-   "t": "13:35"
   },
   {
    "cat": "ఆలేరు · మున్సిపాలిటీ",
