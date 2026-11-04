@@ -209,6 +209,8 @@ footer a:hover{color:var(--brand)}
 .ad p{margin:0;font-size:13.5px;color:var(--muted);font-weight:600}
 .ad .go{display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 16px;border-radius:12px;background:var(--brand);color:#fff;font-weight:800;font-size:13.5px}
 .ad .big{font:400 40px/1 var(--display);color:var(--brand)}
+.newpill{position:fixed;top:132px;left:50%;transform:translateX(-50%);z-index:60;border:0;border-radius:999px;padding:11px 20px;background:var(--brand);color:#fff;font:800 14.5px/1 var(--body);box-shadow:0 10px 30px -8px rgba(200,16,46,.6);cursor:pointer;display:inline-flex;align-items:center;gap:10px}
+.newpill i{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.2s infinite}
 @media (prefers-reduced-motion:reduce){.tk .row,.live i,.listen .wave i{animation:none!important}.card{transition:none}}
 </style>
 </head>
@@ -400,8 +402,18 @@ async function load(){
   ALL=out; JOBS=(jobs&&jobs.jobs)||[];
   renderHome(); renderJobs(); route();
 }
-renderNav(); load();
-setInterval(()=>{ if(document.visibilityState==='visible' && !$('q').value) load(); },120000);
+renderNav(); load().then(()=>{ LAST=ALL[0]?sid(ALL[0]):''; });
+/* live: check for new stories every minute; show a "new stories" button instead of jumping the page */
+let LAST='';
+const pill=document.createElement('button'); pill.type='button'; pill.hidden=true; pill.className='newpill';
+document.body.appendChild(pill);
+pill.onclick=async()=>{ pill.hidden=true; await load(); LAST=ALL[0]?sid(ALL[0]):''; scrollTo({top:0,behavior:'smooth'}); };
+setInterval(async()=>{
+  if(document.visibilityState!=='visible') return;
+  const n=await getJSON('/news.json'); const st=(n&&n.stories)||[]; if(!st.length||!LAST) return;
+  const i=st.findIndex(s=>sid(s)===LAST); const fresh=i<0?st.length:i;
+  if(fresh>0){ pill.innerHTML=`<i></i> ${fresh} కొత్త వార్తలు – చూడండి ↑`; pill.hidden=false; }
+},60000);
 </script>
 </body>
 </html>
