@@ -48,7 +48,31 @@
    ],
    "why": "హెచ్-1బీ, వీసా సమస్యలపై గళమెత్తే భారత సంతతి నేత గెలుపు అమెరికాలోని తెలుగు ఉద్యోగులకు ఆసక్తికరం.",
    "d": "04.11.2026",
-   "t": "09:35"
+   "t": "09:35",
+   "en": {
+    "h": "Suhas Subramanyam, with Secunderabad roots, re-elected to US Congress",
+    "p": "Indian American Suhas Subramanyam has been re-elected to the US House of Representatives from Virginia's 10th congressional district. His father grew up in Chennai and Secunderabad; his mother is from Bengaluru. He served as a White House technology adviser under Obama. He has strongly criticised the $100,000 fee on H-1B applications.",
+    "pts": [
+     "Wins second term from Virginia's 10th district",
+     "Father grew up in Chennai and Secunderabad",
+     "Opposed the H-1B fee hike"
+    ],
+    "why": "The win of an Indian-origin leader who speaks up on H-1B and visa issues matters to Telugu workers in the US.",
+    "cat": "World · USA",
+    "statl": "Re-elected from Virginia's 10th district"
+   },
+   "hi": {
+    "h": "सिकंदराबाद से जुड़े सुहास सुब्रमण्यम फिर अमेरिकी कांग्रेस पहुंचे",
+    "p": "भारतीय अमेरिकी सुहास सुब्रमण्यम वर्जीनिया के 10वें कांग्रेशनल ज़िले से अमेरिकी प्रतिनिधि सभा के लिए फिर चुने गए हैं। उनके पिता चेन्नई और सिकंदराबाद में पले-बढ़े; मां बेंगलुरु की हैं। वे ओबामा के समय व्हाइट हाउस में टेक्नोलॉजी सलाहकार रहे। उन्होंने एच-1बी आवेदनों पर एक लाख डॉलर फीस की कड़ी आलोचना की थी।",
+    "pts": [
+     "वर्जीनिया के 10वें ज़िले से दूसरी बार जीत",
+     "पिता चेन्नई और सिकंदराबाद में पले-बढ़े",
+     "एच-1बी फीस बढ़ोतरी का विरोध किया"
+    ],
+    "why": "एच-1बी और वीज़ा मुद्दों पर आवाज़ उठाने वाले भारतीय मूल के नेता की जीत अमेरिका में काम करने वाले भारतीयों के लिए अहम है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "वर्जीनिया 10वें ज़िले से फिर चुने गए"
+   }
   },
   {
    "cat": "భారత్ · మార్కెట్లు",
@@ -72,7 +96,31 @@
    ],
    "why": "ఆసియా మార్కెట్ల పతనం భారత షేర్లలో పెట్టుబడి పెట్టినవారి పోర్ట్‌ఫోలియోలపై ప్రభావం చూపొచ్చు.",
    "d": "04.11.2026",
-   "t": "09:35"
+   "t": "09:35",
+   "en": {
+    "h": "Asian markets tumble; Indian stocks under pressure",
+    "p": "Asian markets fell sharply on Wednesday morning. Japan's Nikkei lost 4.17% and South Korea's Kospi 3.70%. GIFT Nifty opened 19.5 points lower at 23,740.50. Foreign institutional investors were net buyers for a third straight session, buying shares worth ₹6,836.81 crore. Experts say profit-taking is likely after the recent rally.",
+    "pts": [
+     "Nikkei down 4.17%, Kospi down 3.70%",
+     "GIFT Nifty opens at 23,740.50",
+     "FII buying of ₹6,836.81 crore"
+    ],
+    "why": "The fall in Asian markets could hit the portfolios of people invested in Indian shares.",
+    "cat": "India · Markets",
+    "statl": "Big fall in Japan's Nikkei"
+   },
+   "hi": {
+    "h": "एशियाई बाज़ार लुढ़के; भारतीय शेयर बाज़ार दबाव में",
+    "p": "बुधवार सुबह एशियाई बाज़ार भारी गिरावट के साथ खुले। जापान का निक्केई 4.17% और दक्षिण कोरिया का कोस्पी 3.70% टूटा। गिफ्ट निफ्टी 19.5 अंक नीचे 23,740.50 पर खुला। विदेशी संस्थागत निवेशकों ने लगातार तीसरे सत्र में ₹6,836.81 करोड़ के शेयर खरीदे। जानकारों का कहना है कि हालिया तेज़ी के बाद मुनाफ़ावसूली हो सकती है।",
+    "pts": [
+     "निक्केई 4.17%, कोस्पी 3.70% गिरा",
+     "गिफ्ट निफ्टी 23,740.50 पर खुला",
+     "एफ़आईआई की ₹6,836.81 करोड़ की खरीद"
+    ],
+    "why": "एशियाई बाज़ारों की गिरावट भारतीय शेयरों में निवेश करने वालों के पोर्टफ़ोलियो पर असर डाल सकती है।",
+    "cat": "भारत · बाज़ार",
+    "statl": "जापान के निक्केई में भारी गिरावट"
+   }
   },
   {
    "cat": "ప్రపంచం · అమెరికా",

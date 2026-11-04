@@ -314,3 +314,18 @@ function sceneSVG(s, cls){
   const hole = k==='hyderabad' ? `<mask id="m${cls}"><rect width="400" height="200" fill="#fff"/><g fill="#000">${SCENES.hyderabadHole}</g></mask>` : '';
   return `<svg xmlns="http://www.w3.org/2000/svg" class="${cls||'scene'}" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">${hole?`<defs>${hole}</defs><g mask="url(#m${cls})">${body}</g>`:body}</svg>`;
 }
+
+/* ---------- reader's language (Telugu / English / Hindi) shared by app, website and article pages ---------- */
+function w2sLang(){ try{ const q=new URLSearchParams(location.search).get('l'); if(/^(te|en|hi)$/.test(q||'')) return q;
+  const p=JSON.parse(localStorage.getItem('w2s.prefs')||'{}'); return /^(te|en|hi)$/.test(p.lang||'')?p.lang:'te'; }catch(e){ return 'te'; } }
+/* a story in the reader's language (missing translations stay Telugu); sidFn keeps the story's link the same */
+function w2sTr(s,sidFn,l){ l=l||w2sLang(); if(!s||l==='te'||!s[l]||typeof s[l]!=='object') return s;
+  const o=Object.assign({},s,s[l]); if(sidFn) o._sid=sidFn(s); o._lang=l; return o; }
+const W2S_UI={te:{why:'ఇది ఎందుకు ముఖ్యం?',read:'పూర్తి వార్త చదవండి →',src:'మూలం',listen:'🔊 తెలుగులో వినండి',wa:'WhatsAppలో షేర్ చేయండి',speech:'te-IN'},
+  en:{why:'Why it matters',read:'Read full story →',src:'Source',listen:'🔊 Listen',wa:'Share on WhatsApp',speech:'en-IN'},
+  hi:{why:'यह क्यों ज़रूरी है?',read:'पूरी खबर पढ़ें →',src:'स्रोत',listen:'🔊 सुनें',wa:'WhatsApp पर शेयर करें',speech:'hi-IN'}};
+/* the తె / EN / हि switch in the website header */
+function w2sLangSwitch(){ const w=document.getElementById('lsw'); if(!w) return; const cur=w2sLang();
+  w.querySelectorAll('button').forEach(b=>{ b.setAttribute('aria-pressed',String(b.dataset.l===cur));
+    b.onclick=()=>{ try{ const p=JSON.parse(localStorage.getItem('w2s.prefs')||'{}'); p.lang=b.dataset.l; localStorage.setItem('w2s.prefs',JSON.stringify(p)); }catch(e){}
+      const u=new URL(location.href); u.searchParams.delete('l'); location.href=u.pathname+u.search; }; }); }

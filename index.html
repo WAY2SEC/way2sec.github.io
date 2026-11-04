@@ -362,7 +362,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
       <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.11-C · Way2Sec</p>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.12 · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
@@ -404,7 +404,14 @@ const PLACES = [
   ['siddipet','సిద్దిపేట','Siddipet'], ['suryapet','సూర్యాపేట','Suryapet'], ['vikarabad','వికారాబాద్','Vikarabad'],
   ['wanaparthy','వనపర్తి','Wanaparthy'], ['warangal','వరంగల్','Warangal'], ['yadadri','యాదాద్రి భువనగిరి','Yadadri Bhuvanagiri']
 ];
-const LANGS = [['te','తెలుగు','Telugu'],['en','English','త్వరలో · Soon'],['hi','हिन्दी','త్వరలో · Soon']];
+const LANGS = [['te','తెలుగు','Telugu'],['en','English','ఇంగ్లీష్'],['hi','हिन्दी','హిందీ']];
+/* reader's language: stories carry en:{…} and hi:{…}; missing ones stay in Telugu */
+const LG = () => (prefs&&prefs.lang)||'te';
+const UI = {te:{read:'పూర్తి వార్త చదవండి →',hint:'తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి',news:'వార్త',speech:'te-IN',src:'Source | మూలం',tag:'Fastest AI News in Telugu',sub:'తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు',l1:'వార్తలు క్షణాల్లో!'},
+  en:{read:'Read full story →',hint:'Next story: swipe ← left or ↓ down',news:'News',speech:'en-IN',src:'Source',tag:'Fastest AI News',sub:'Fast, short news for you',l1:'News in seconds!'},
+  hi:{read:'पूरी खबर पढ़ें →',hint:'अगली खबर: ← बाएँ या ↓ नीचे स्वाइप करें',news:'खबर',speech:'hi-IN',src:'स्रोत',tag:'Fastest AI News',sub:'तेज़ और छोटी खबरें, आपकी भाषा में',l1:'खबरें पल भर में!'}};
+const U = k => (UI[LG()]||UI.te)[k];
+function tr(s){ const l=LG(); if(!s||l==='te'||!s[l]||typeof s[l]!=='object') return s; return Object.assign({},s,s[l],{_sid:sid(s),_lang:l}); }
 const placeName = k => { if(!k||k==='TS') return 'మొత్తం తెలంగాణ'; if(k==='AP') return 'మొత్తం ఆంధ్రప్రదేశ్'; const t=PLACES.find(p=>p[0]===k); return t?t[1]:(placeLabel(k)||'మొత్తం తెలంగాణ'); };
 const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):(/^(ka|tn|mh)-/.test(k)?k.slice(0,2).toUpperCase():'TG')));
 /* does a story belong to the reader's place? */
@@ -463,6 +470,7 @@ const store = {
 let prefs = store.get('prefs', null);
 const firstRun = !prefs;
 prefs = prefs || {place:'TS', topics:DEFAULT_TOPICS.slice()};
+{ const ql=new URLSearchParams(location.search).get('l'); if(/^(te|en|hi)$/.test(ql||'')) prefs.lang=ql; }
 prefs.theme = prefs.theme || 'auto';
 let saved = store.get('saved', []);
 setJobs(store.get('jobs',[]));
@@ -472,7 +480,7 @@ let DATES = [];            // archive/index.json
 let JUMP = null;           // story id to open (from a shared link)
 const toIso = d => { const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(d||''); return m?`${m[3]}-${m[2]}-${m[1]}`:''; };
 const fromIso = i => { const m=/^(\d{4})-(\d\d)-(\d\d)$/.exec(i||''); return m?`${m[3]}.${m[2]}.${m[1]}`:''; };
-const sid = s => { let h=5381; const t=(s.url||'')+'|'+(s.h||''); for(let i=0;i<t.length;i++) h=((h<<5)+h+t.charCodeAt(i))|0; return (h>>>0).toString(36); };
+const sid = s => { if(s._sid) return s._sid; let h=5381; const t=(s.url||'')+'|'+(s.h||''); for(let i=0;i<t.length;i++) h=((h<<5)+h+t.charCodeAt(i))|0; return (h>>>0).toString(36); };
 const WEEK=['ఆదివారం','సోమవారం','మంగళవారం','బుధవారం','గురువారం','శుక్రవారం','శనివారం'];
 const MON=['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
 const teDay = iso => { const [y,m,d]=iso.split('-').map(Number); const w=new Date(Date.UTC(y,m-1,d)).getUTCDay(); return `${d} ${MON[m-1]} ${y} · ${WEEK[w]}`; };
@@ -512,7 +520,8 @@ $('tabs').addEventListener('click',e=>{const b=e.target.closest('.tab');if(!b)re
 
 /* ---------- feed ---------- */
 const secsOf = s => Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:['telangana']);
-function pick(){
+function pick(){ return pick0().map(tr); }
+function pick0(){
   if(view==='saved') return saved;
   if(view==='jobs'){
     let l = jobFilter==='all' ? JOBS : JOBS.filter(j=>j.type===jobFilter || (jobFilter==='central' && j.type==='psu'));
@@ -565,15 +574,15 @@ function cardHTML(s,i){
   return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col});--hl-ink:var(${col})">
   <div class="panel">
     ${sceneSVG(s,'scene')}
-    <div class="ptop"><div class="chips">${s.brk?'<span class="chip brk">🔴 BREAKING</span>':''}<span class="chip">${esc(s.cat||'వార్త')}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
+    <div class="ptop"><div class="chips">${s.brk?'<span class="chip brk">🔴 BREAKING</span>':''}<span class="chip">${esc(s.cat||U('news'))}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="rt">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div></div>
-  <div class="text">
+  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">${U('l1')}</span></div><span class="rg">${U('tag')}</span><span class="rt">${U('sub')}</span></div></div>
+  <div class="text"${s._lang?` lang="${s._lang}"`:''}>
     <h2>${esc(s.h)}</h2>
     <p class="sum">${esc(s.p)}</p>
-    <div class="foot"><span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">పూర్తి వార్త చదవండి →</a>`:''}</div>
-    ${i===0?'<div class="hint">తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి</div>':''}
+    <div class="foot"><span class="src">${U('src')}: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">${U('read')}</a>`:''}</div>
+    ${i===0?`<div class="hint">${U('hint')}</div>`:''}
   </div>
   <div class="spacer"></div>
   <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
@@ -682,7 +691,7 @@ function rrect(ctx,x,y,w,h,r){ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,
 async function cardImage(s){
   try{ await document.fonts.ready; }catch(e){}
   const W=1080, P=64, col=COLS[s.col]||COLS['--c-gov'];
-  const TE="'Noto Sans Telugu','Nirmala UI','Gautami',sans-serif", DI="'Archivo Black','Arial Black',Impact,sans-serif";
+  const TE="'Noto Sans Telugu','Nirmala UI','Gautami','Noto Sans Devanagari','Kohinoor Devanagari',sans-serif", DI="'Archivo Black','Arial Black',Impact,sans-serif";
   const c=document.createElement('canvas'), ctx=c.getContext('2d');
   // measure the text block first to know the card height
   ctx.font=`800 52px ${TE}`; const hl=wrap(ctx,s.h,W-2*P);
@@ -715,9 +724,9 @@ async function cardImage(s){
   let x=P;
   try{ const lg=await loadImg('logo-light.png'); const lh=64, lw=lg.width*lh/lg.height; ctx.drawImage(lg,P,yy+(STRIP-lh)/2,lw,lh); x=P+lw+28;
        ctx.strokeStyle='rgba(255,255,255,.22)'; ctx.lineWidth=2; ctx.beginPath(); ctx.moveTo(x-14,yy+30); ctx.lineTo(x-14,yy+STRIP-30); ctx.stroke(); }catch(e){}
-  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',x,yy+62);
-  ctx.font=`800 30px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.fillText('Fastest AI News in Telugu',x,yy+112);
-  ctx.font=`700 29px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?'తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు':'తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు',x,yy+158);
+  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':U('l1'),x,yy+62);
+  ctx.font=`800 30px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.fillText(s.kind==='job'?'Fastest AI News in Telugu':U('tag'),x,yy+112);
+  ctx.font=`700 29px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?'తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు':U('sub'),x,yy+158);
   // text
   yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
   yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
@@ -734,7 +743,7 @@ async function cardImage(s){
   return blob;
 }
 window.cardImage=cardImage;
-function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s); } // preview page: shows this story's own card in WhatsApp, then opens it
+function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s)+(s._lang?'?l='+s._lang:''); } // preview page: shows this story's own card in WhatsApp, then opens it
 function shareText(s){
   // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
   if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 పోస్టులు: ${s.stat}${s.qual?`\n🎓 అర్హత: ${s.qual}`:''}${s.last?`\n🗓️ చివరి తేదీ: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి\n\n👉 Way2Sec WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
@@ -777,9 +786,9 @@ $('listenBtn').onclick=()=>{
   const text = s.kind==='job'
     ? [s.h, s.sum, s.posts&&('పోస్టులు '+s.posts), s.qual&&('అర్హత '+s.qual), s.last&&('చివరి తేదీ '+teDate(s.last))].filter(Boolean).join('. ')
     : [s.h, s.p, ...(Array.isArray(s.pts)?s.pts:[])].filter(Boolean).join('. ');
-  const u=new SpeechSynthesisUtterance(text); u.lang='te-IN'; u.rate=0.95;
-  const v=synth.getVoices().find(v=>/^te/i.test(v.lang)); if(v) u.voice=v;
-  else toast('తెలుగు వాయిస్ లేకపోతే ఫోన్ Settings → Text-to-speech లో తెలుగు జోడించండి');
+  const u=new SpeechSynthesisUtterance(text); const sl=U('speech'); u.lang=sl; u.rate=0.95;
+  const v=synth.getVoices().find(v=>v.lang.replace('_','-').toLowerCase().startsWith(sl.slice(0,2))); if(v) u.voice=v;
+  else if(sl==='te-IN') toast('తెలుగు వాయిస్ లేకపోతే ఫోన్ Settings → Text-to-speech లో తెలుగు జోడించండి');
   u.onend=u.onerror=()=>$('listenBtn').setAttribute('aria-pressed','false');
   synth.cancel(); synth.speak(u); $('listenBtn').setAttribute('aria-pressed','true');
 };
@@ -819,9 +828,32 @@ function showCardImage(b, text, why){
   };
   o.hidden=false;
 }
+/* Chrome on iPhone cannot attach pictures (Apple only allows it in Safari).
+   So we ask: send the full card picture (opens this story in Safari, one tap there), or just the link. */
+function chromeChoice(s,text,viaWA){
+  let o=$('crChoice');
+  if(!o){ o=document.createElement('div'); o.id='crChoice';
+    o.style.cssText='position:fixed;inset:0;z-index:85;background:rgba(6,10,18,.72);display:flex;align-items:flex-end;justify-content:center';
+    o.innerHTML='<div style="background:var(--paper,#fff);color:var(--ink,#16120E);width:100%;max-width:520px;border-radius:22px 22px 0 0;padding:20px 18px calc(18px + env(safe-area-inset-bottom,0px));display:grid;gap:10px">'
+      +'<b style="font:800 17px/1.4 var(--body)">ఎలా పంపాలి?</b>'
+      +'<button type="button" id="crPic" class="btn" style="background:#1DA851;justify-content:center">📷 పూర్తి కార్డ్ చిత్రంగా పంపండి</button>'
+      +'<small style="color:var(--muted,#6B5F52);font:600 12.5px/1.5 var(--body)">iPhone లో Chrome చిత్రాలు పంపలేదు – ఈ వార్త Safari లో తెరుచుకుంటుంది, అక్కడ “📤 షేర్” ఒక్కసారి నొక్కండి.</small>'
+      +'<button type="button" id="crLink" class="btn" style="justify-content:center">🔗 లింక్ మాత్రమే పంపండి</button>'
+      +'<button type="button" id="crNo" class="btn" style="background:transparent;color:inherit;box-shadow:none;justify-content:center">వద్దు</button></div>';
+    document.body.appendChild(o);
+    o.addEventListener('click',e=>{ if(e.target===o||e.target.id==='crNo') o.hidden=true; });
+  }
+  $('crPic').onclick=()=>{ o.hidden=true; const l=LG();
+    location.href='x-safari-https://way2sec.news/?cards=1&sharecard=1&s='+sid(s)+(s.kind==='job'?'&jobs=1':'')+(l!=='te'?'&l='+l:''); };
+  $('crLink').onclick=async()=>{ o.hidden=true;
+    if(!viaWA && navigator.share){ try{ await navigator.share({text}); return; }catch(e){ if(e&&e.name==='AbortError') return; } }
+    location.href='https://wa.me/?text='+encodeURIComponent(text); };
+  o.hidden=false;
+}
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+  if(IOS && CRIOS && window.isSecureContext){ chromeChoice(s,text,viaWA); return; }
   if(IOS && (CRIOS || !window.isSecureContext)){
     // Chrome/Firefox/Edge on iPhone (and any non-https page) cannot share pictures at all:
     // go straight to WhatsApp (or the share menu) with the Way2Sec link, which shows our preview.
@@ -902,7 +934,7 @@ function openSheet(){
   $('sheet').hidden=false;
 }
 function drawLangs(){
-  $('langs').innerHTML = LANGS.map(l=>`<button class="opt" type="button" role="radio" data-k="${l[0]}" aria-checked="${draft.lang===l[0]}"${l[0]!=='te'?' style="opacity:.55"':''}><b>${esc(l[1])}</b><small>${esc(l[2])}</small></button>`).join('');
+  $('langs').innerHTML = LANGS.map(l=>`<button class="opt" type="button" role="radio" data-k="${l[0]}" aria-checked="${draft.lang===l[0]}"><b>${esc(l[1])}</b><small>${esc(l[2])}</small></button>`).join('');
 }
 function drawStates(){
   $('states').innerHTML = STATES.map(s=>`<button class="opt" type="button" role="radio" data-k="${s[0]}" aria-checked="${draft.st===s[0]}"><b>${esc(s[1])}</b><small>${esc(s[2])}</small></button>`).join('');
@@ -932,7 +964,7 @@ function drawThemes(){
   $('themes').innerHTML = THEMES.map(t=>`<button class="opt" type="button" role="radio" data-k="${t[0]}" aria-checked="${draft.theme===t[0]}"><b>${esc(t[1])}</b><small>${esc(t[2])}</small></button>`).join('');
 }
 $('q').addEventListener('input',drawPlaces);
-$('langs').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return; if(b.dataset.k!=='te'){ toast('ఇంగ్లీష్, హిందీ త్వరలో వస్తాయి – ప్రస్తుతం తెలుగులో'); return; } draft.lang=b.dataset.k; drawLangs();});
+$('langs').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return; draft.lang=b.dataset.k; drawLangs();});
 $('states').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return; draft.st=b.dataset.k; $('q').value=''; drawStates(); drawPlaces(); $('distH').scrollIntoView({behavior:'smooth',block:'start'});});
 $('village').addEventListener('input',()=>{ draft.village=$('village').value.trim(); });
 $('places').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.place=b.dataset.k;drawPlaces()});
@@ -1011,7 +1043,9 @@ async function load(){
   const q=new URLSearchParams(location.search), qd=q.get('d'), qs=q.get('s');
   if(qd && /^\d{4}-\d\d-\d\d$/.test(qd) && !load.done){ load.done=1; await showDay(qd, qs); }
   else if(q.has('jobs') && !load.done){ load.done=1; JUMP=qs; setView('jobs'); }
-  else if(qs && !load.done){ load.done=1; JUMP=qs; renderFeed(); }
+  else if(qs && !load.done){ load.done=1; JUMP=qs; renderFeed();
+    // opened from Chrome on iPhone to send the picture: Safari can share pictures, so show the one-tap share screen
+    if(q.has('sharecard') && LIST[cur]){ const b=await timeout(prepCard(),8000); if(b) showCardImage(b, shareText(LIST[cur]), ''); } }
   else if(firstRun) openSheet();
 }
 load();

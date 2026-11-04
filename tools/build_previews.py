@@ -114,6 +114,9 @@ def page(sid, s, kind, img, has_card, target, desc, related):
                 (f'<p class="why"><small>ఇది ఎందుకు ముఖ్యం?</small>{e(s.get("why"))}</p>' if s.get("why") else ""))
         src = f'<p class="src">మూలం: {e(s.get("src"))}' + (f' · <a href="{e(s.get("url"))}" target="_blank" rel="noopener nofollow">పూర్తి వార్త చదవండి →</a>' if s.get("url") else "") + "</p>"
     share_text = f"{title}\n{SITE}/s/{sid}"
+    trs = {l: {k: s[l][k] for k in ("h", "p", "pts", "why", "cat", "statl") if isinstance(s.get(l), dict) and s[l].get(k)} for l in ("en", "hi") if isinstance(s.get(l), dict)}
+    trs = {l: v for l, v in trs.items() if v.get("h")}
+    tr_json = ('<script type="application/json" id="w2sTr">' + json.dumps(trs, ensure_ascii=False).replace("</", "<\\/") + "</script>") if trs else ""
     import urllib.parse as up
     rel_cards = "".join(
         f'<a class="card" href="/s/{rid}" style="--hl:var({r.get("col") or "--c-gov"});--hlink:var({r.get("col") or "--c-gov"})"><div class="pnl">{r.get("_scene","")}{'<span class="chip brk">🔴 BREAKING</span>' if r.get("brk") else f'<span class="chip">{e(r.get("cat") or "వార్త")}</span>'}<div class="stat">{e(r.get("stat"))}</div></div><div class="bd"><h3>{e(r.get("h"))}</h3><div class="m">{e(r.get("src"))} · {e(r.get("d"))}</div></div></a>'
@@ -136,7 +139,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <meta property="og:image" content="{e(img)}"><meta property="og:image:secure_url" content="{e(img)}"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{e(img)}">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png"><link rel="manifest" href="/manifest.webmanifest">
-<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
+<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>{tr_json}
 <style>{sh["css"]}{ARTICLE_CSS}</style>
 </head><body>
 {sh["header"]}

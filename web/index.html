@@ -233,6 +233,9 @@ footer a:hover{color:var(--brand)}
 .seg{display:flex;gap:6px}.seg button{flex:1;height:42px;border-radius:12px;border:1.5px solid var(--line);background:var(--soft);font-weight:800;font-size:13px;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--brand);border-color:var(--brand);color:#fff}
 .pskip{border:0;background:transparent;color:var(--muted);font-weight:700;cursor:pointer;text-decoration:underline}
+.lsw{display:inline-flex;border:1px solid rgba(255,255,255,.22);border-radius:999px;overflow:hidden}
+.lsw button{border:0;background:transparent;color:#C9D3E1;font:800 12px/1 var(--body,inherit);padding:5px 10px;cursor:pointer}
+.lsw button[aria-pressed="true"]{background:var(--gold,#FFD54A);color:#12284A}
 .myplace{display:inline-flex;align-items:center;gap:6px;border:0;background:transparent;color:inherit;font:inherit;cursor:pointer;padding:0}
 @media (prefers-reduced-motion:reduce){.tk .row,.live i,.listen .wave i{animation:none!important}.card{transition:none}}
 </style>
@@ -240,7 +243,7 @@ footer a:hover{color:var(--brand)}
 <body>
 <a class="skip" href="#main">ప్రధాన కంటెంట్‌కు వెళ్లండి</a>
 <header class="top">
-  <div class="util"><div class="wrap"><span id="today"></span><button class="myplace" id="myPlace" type="button" title="ప్రాంతం మార్చండి">📍 <span id="myPlaceTx">ప్రాంతం ఎంచుకోండి</span></button><span class="up">⚡ ప్రతి 30 నిమిషాలకు తాజా వార్తలు · AI తో తెలుగులో</span><nav class="ul" aria-label="లింకులు"><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?tip=1&amp;cards=1">📝 మీ ఊరి వార్త పంపండి</a></nav></div></div>
+  <div class="util"><div class="wrap"><span id="today"></span><button class="myplace" id="myPlace" type="button" title="ప్రాంతం మార్చండి">📍 <span id="myPlaceTx">ప్రాంతం ఎంచుకోండి</span></button><span class="up">⚡ ప్రతి 30 నిమిషాలకు తాజా వార్తలు · AI తో తెలుగులో</span><span class="lsw" id="lsw" role="group" aria-label="భాష · Language"><button type="button" data-l="te" lang="te">తె</button><button type="button" data-l="en" lang="en">EN</button><button type="button" data-l="hi" lang="hi">हि</button></span><nav class="ul" aria-label="లింకులు"><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?tip=1&amp;cards=1">📝 మీ ఊరి వార్త పంపండి</a></nav></div></div>
   <div class="wrap">
     <div class="bar">
       <a class="logo" href="/" aria-label="Way2Sec హోమ్"><img class="lk" src="/logo.png" alt="Way2Sec"><img class="lt" src="/logo-light.png" alt=""></a>
@@ -320,7 +323,7 @@ footer a:hover{color:var(--brand)}
     <img src="/logo.png" alt="Way2Sec" style="height:38px">
     <h2 id="pickH">స్వాగతం! మీ ప్రాంతం ఎంచుకోండి</h2>
     <p>Welcome! మీ ఊరి వార్తలు ముందుగా చూపిస్తాం.</p>
-    <label>భాష · Language<div class="seg" id="pLang"><button type="button" data-l="te" aria-pressed="true">తెలుగు</button><button type="button" data-l="en" aria-pressed="false">English · త్వరలో</button><button type="button" data-l="hi" aria-pressed="false">हिन्दी · త్వరలో</button></div></label>
+    <label>భాష · Language<div class="seg" id="pLang"><button type="button" data-l="te" aria-pressed="true">తెలుగు</button><button type="button" data-l="en" aria-pressed="false">English</button><button type="button" data-l="hi" aria-pressed="false">हिन्दी</button></div></label>
     <label>రాష్ట్రం · State<select id="pState"></select></label>
     <label id="pDistL">జిల్లా · District<select id="pDist"></select></label>
     <label>ఊరు / పట్టణం · Village or town <small>(ఐచ్ఛికం)</small><input id="pVil" type="text" maxlength="40" placeholder="ఉదా: కొండాపూర్ / Kondapur"></label>
@@ -348,7 +351,7 @@ const BLOCKS=['telangana','india','world','ai','business','sports','weather','ed
 const PLACES={hyderabad:'హైదరాబాద్',rangareddy:'రంగారెడ్డి',medchal:'మేడ్చల్',adilabad:'ఆదిలాబాద్',bhadradri:'భద్రాద్రి',hanumakonda:'హనుమకొండ',jagtial:'జగిత్యాల',jangaon:'జనగామ',bhupalpally:'భూపాలపల్లి',gadwal:'గద్వాల',kamareddy:'కామారెడ్డి',karimnagar:'కరీంనగర్',khammam:'ఖమ్మం',asifabad:'ఆసిఫాబాద్',mahabubabad:'మహబూబాబాద్',mahabubnagar:'మహబూబ్‌నగర్',mancherial:'మంచిర్యాల',medak:'మెదక్',mulugu:'ములుగు',nagarkurnool:'నాగర్‌కర్నూల్',nalgonda:'నల్గొండ',narayanpet:'నారాయణపేట',nirmal:'నిర్మల్',nizamabad:'నిజామాబాద్',peddapalli:'పెద్దపల్లి',sircilla:'సిరిసిల్ల',sangareddy:'సంగారెడ్డి',siddipet:'సిద్దిపేట',suryapet:'సూర్యాపేట',vikarabad:'వికారాబాద్',wanaparthy:'వనపర్తి',warangal:'వరంగల్',yadadri:'యాదాద్రి'};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const sid=s=>{let h=5381;const t=(s.url||'')+'|'+(s.h||'');for(let i=0;i<t.length;i++)h=((h<<5)+h+t.charCodeAt(i))|0;return (h>>>0).toString(36)};
+const sid=s=>{if(s._sid)return s._sid;let h=5381;const t=(s.url||'')+'|'+(s.h||'');for(let i=0;i<t.length;i++)h=((h<<5)+h+t.charCodeAt(i))|0;return (h>>>0).toString(36)};
 const secsOf=s=>Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:['telangana']);
 const isAP=s=>/ఏపీ|ఆంధ్ర|అమరావతి|విజయవాడ|విశాఖ|తిరుపతి|గుంటూరు|నెల్లూరు|కడప|కర్నూలు|అనంతపురం|ఒంగోలు|శ్రీకాకుళం|కాకినాడ|రాజమహేంద్రవరం/.test((s.cat||'')+' '+(s.h||''));
 const tsOf=s=>{const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(s.d||''),t=/^(\d\d):(\d\d)$/.exec(s.t||'');return m?Date.parse(`${m[3]}-${m[2]}-${m[1]}T${t?t[1]:'12'}:${t?t[2]:'00'}:00+05:30`):0};
@@ -469,10 +472,11 @@ function openPick(){
   fillDist(st,p.place); $('pVil').value=p.village||''; $('pick').hidden=false;
 }
 $('pState').onchange=()=>fillDist($('pState').value,'');
-$('pLang').onclick=e=>{const b=e.target.closest('button'); if(b&&b.dataset.l!=='te'){ b.textContent=b.dataset.l==='en'?'English త్వరలో వస్తుంది':'हिन्दी జల్దీ'; } };
+let PL=w2sLang(); const drawPL=()=>$('pLang').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.l===PL))); drawPL();
+$('pLang').onclick=e=>{const b=e.target.closest('button'); if(b){ PL=b.dataset.l; drawPL(); } };
 $('pSave').onclick=()=>{ const p=prefsGet(), st=$('pState').value;
-  p.st=st; p.place= st==='TG'||st==='AP'||STATE_DISTRICTS[st] ? $('pDist').value : 'st-'+st; p.village=$('pVil').value.trim(); p.lang='te';
-  p.topics=p.topics||['telangana','india','world','ai','jobs','business','weather']; store.set('prefs',p); $('pick').hidden=true; afterPick(); };
+  p.st=st; p.place= st==='TG'||st==='AP'||STATE_DISTRICTS[st] ? $('pDist').value : 'st-'+st; p.village=$('pVil').value.trim(); const chg=(p.lang||'te')!==PL; p.lang=PL;
+  p.topics=p.topics||['telangana','india','world','ai','jobs','business','weather']; store.set('prefs',p); $('pick').hidden=true; if(chg){ location.href='/'; return; } afterPick(); };
 $('pSkip').onclick=()=>{ $('pick').hidden=true; try{sessionStorage.setItem('w2s.skipPick','1')}catch(e){} };
 $('myPlace').onclick=openPick;
 function afterPick(){ $('myPlaceTx').textContent=placeTx(prefsGet()); if(ALL.length){ renderHome(); route(); } }
@@ -483,8 +487,8 @@ function afterPick(){ $('myPlaceTx').textContent=placeTx(prefsGet()); if(ALL.len
 /* AI briefing voice */
 $('listen').onclick=()=>{ const sy=window.speechSynthesis, b=$('listen'); if(!sy){alert;return;}
   if(b.getAttribute('aria-pressed')==='true'){sy.cancel();b.setAttribute('aria-pressed','false');$('listenTx').textContent='తెలుగులో వినండి';return;}
-  const text='Way2Sec నుంచి ఈరోజు ముఖ్య వార్తలు. '+ALL.slice(0,5).map((s,i)=>`${i+1}. ${s.h}`).join('. ');
-  const u=new SpeechSynthesisUtterance(text); u.lang='te-IN'; u.rate=.95; const v=sy.getVoices().find(v=>/^te/i.test(v.lang)); if(v) u.voice=v;
+  const text=({te:'Way2Sec నుంచి ఈరోజు ముఖ్య వార్తలు. ',en:'Top news today from Way2Sec. ',hi:'Way2Sec से आज की मुख्य खबरें। '})[w2sLang()]+ALL.slice(0,5).map((s,i)=>`${i+1}. ${s.h}`).join('. ');
+  const u=new SpeechSynthesisUtterance(text); const sl=W2S_UI[w2sLang()].speech; u.lang=sl; u.rate=.95; const v=sy.getVoices().find(v=>v.lang.replace('_','-').toLowerCase().startsWith(sl.slice(0,2))); if(v) u.voice=v;
   u.onend=u.onerror=()=>{b.setAttribute('aria-pressed','false');$('listenTx').textContent='తెలుగులో వినండి';};
   sy.cancel(); sy.speak(u); b.setAttribute('aria-pressed','true'); $('listenTx').textContent='ఆపండి'; };
 
@@ -498,11 +502,12 @@ async function load(){
   [((news&&news.stories)||[]),...arch.map(a=>(a&&a.stories)||[])].flat().forEach(s=>{const k=sid(s); if(!seen.has(k)){seen.add(k);out.push(s);}});
   out.sort((a,b)=>tsOf(b)-tsOf(a));
   { const now=Date.now(); const hot=out.filter(s=>s.brk && now-tsOf(s)<6*3600e3); out=hot.concat(out.filter(s=>!hot.includes(s))); }
-  ALL=out; JOBS=(jobs&&jobs.jobs)||[];
+  ALL=out.map(s=>w2sTr(s,sid)); JOBS=(jobs&&jobs.jobs)||[];
+  if(w2sLang()!=='te') document.documentElement.lang=w2sLang();
   renderHome(); renderJobs(); route();
 }
 { const q0=new URLSearchParams(location.search).get('q'); if(q0) $('q').value=q0; }
-renderNav(); load().then(()=>{ LAST=ALL[0]?sid(ALL[0]):''; });
+w2sLangSwitch(); renderNav(); load().then(()=>{ LAST=ALL[0]?sid(ALL[0]):''; });
 /* live: check for new stories every minute; show a "new stories" button instead of jumping the page */
 let LAST='';
 const pill=document.createElement('button'); pill.type='button'; pill.hidden=true; pill.className='newpill';
