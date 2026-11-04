@@ -318,7 +318,7 @@ function placeLabel(key){
   return '';
 }
 /* stories may carry their own photo (s.img = "photos/…jpg"): shown in the coloured panel instead of the drawing */
-try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;opacity:1;pointer-events:none}.ar .pnl:has(img.ph),.lead .pnl:has(img.ph){min-height:440px}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.55) 0,rgba(0,0,0,.12) 42%,rgba(0,0,0,.72) 100%)}</style>'); }catch(e){}
+try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;opacity:1;pointer-events:none}.ar .pnl:has(img.ph),.lead .pnl:has(img.ph){min-height:440px}.story .panel:has(img.ph){max-height:46%;min-height:300px}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.55) 0,rgba(0,0,0,.12) 42%,rgba(0,0,0,.72) 100%)}</style>'); }catch(e){}
 function photoFocus(s){ const f=parseFloat(s&&s.imgfy); return f>=0&&f<=1?f:0.3; }
 function storyPhoto(s){ const p=String((s&&s.img)||''); return /^photos\/[A-Za-z0-9._-]+\.(jpe?g|png|webp)$/.test(p) ? '/'+p : ''; }
 /* draws the story photo into a canvas box (cover crop, faces kept in view) with a dark shade for the text; false if none */
