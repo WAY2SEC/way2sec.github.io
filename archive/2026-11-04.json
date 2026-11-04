@@ -1,8 +1,104 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 87,
+ "count": 89,
  "stories": [
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "3",
+   "statl": "గెలిచిన భారత సంతతి నేతలు",
+   "h": "అమెరికా మధ్యంతరం: సుహాస్, పియా గెలుపు; వివేక్ రామస్వామికి ఓటమి",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో భారత సంతతి నేతలు సత్తా చాటారు. వర్జీనియా 10వ జిల్లా నుంచి డెమొక్రాట్ సుహాస్ సుబ్రమణ్యం మళ్లీ గెలిచారు. ఫ్లోరిడా 22వ జిల్లాలో పియా దండియా తొలిసారి ప్రతినిధుల సభకు ఎన్నికయ్యారు. మేరీల్యాండ్ లెఫ్టినెంట్ గవర్నర్‌గా అరుణా మిల్లర్ తిరిగి ఎన్నికయ్యారు. ఒహాయో గవర్నర్ పోటీలో రిపబ్లికన్ వివేక్ రామస్వామి డెమొక్రాట్ ఏమీ ఆక్టన్ చేతిలో ఓడిపోయారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/international/lawmakers-of-indian-origin-in-the-us-midterm-elections-who-won-who-lost-ten26110401534",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "వర్జీనియా 10వ జిల్లాలో సుహాస్ సుబ్రమణ్యం మళ్లీ విజయం",
+    "ఫ్లోరిడా 22వ జిల్లాలో పియా దండియా తొలి గెలుపు",
+    "ఒహాయోకు తొలి మహిళా గవర్నర్‌గా ఏమీ ఆక్టన్"
+   ],
+   "why": "అమెరికాలో ఉంటున్న తెలుగు, భారతీయ కుటుంబాలకు అక్కడి రాజకీయాల్లో భారత సంతతి ప్రాతినిధ్యం ముఖ్యమైనది.",
+   "d": "04.11.2026",
+   "t": "21:05",
+   "en": {
+    "h": "US midterms: Suhas, Pia win; Vivek Ramaswamy loses",
+    "p": "Indian-origin leaders made their mark in the US midterm elections. Democrat Suhas Subramanyam won again from Virginia's 10th district. Pia Dandia was elected to the House of Representatives for the first time from Florida's 22nd district. Aruna Miller was re-elected Lieutenant Governor of Maryland. In the Ohio governor race, Republican Vivek Ramaswamy lost to Democrat Amy Acton.",
+    "pts": [
+     "Suhas Subramanyam wins again in Virginia's 10th district",
+     "Pia Dandia's first win in Florida's 22nd district",
+     "Amy Acton becomes Ohio's first woman governor"
+    ],
+    "why": "Indian-origin representation in US politics matters to Telugu and Indian families living in America.",
+    "cat": "World · USA",
+    "statl": "Indian-origin leaders who won"
+   },
+   "hi": {
+    "h": "अमेरिकी मध्यावधि चुनाव: सुहास, पिया जीते; विवेक रामास्वामी हारे",
+    "p": "अमेरिकी मध्यावधि चुनावों में भारतीय मूल के नेताओं ने दम दिखाया। वर्जीनिया के 10वें जिले से डेमोक्रेट सुहास सुब्रमण्यम फिर जीते। फ्लोरिडा के 22वें जिले से पिया डांडिया पहली बार प्रतिनिधि सभा के लिए चुनी गईं। अरुणा मिलर मैरीलैंड की लेफ्टिनेंट गवर्नर के रूप में फिर चुनी गईं। ओहायो गवर्नर चुनाव में रिपब्लिकन विवेक रामास्वामी डेमोक्रेट एमी एक्टन से हार गए।",
+    "pts": [
+     "वर्जीनिया के 10वें जिले में सुहास सुब्रमण्यम फिर विजयी",
+     "फ्लोरिडा के 22वें जिले में पिया डांडिया की पहली जीत",
+     "एमी एक्टन ओहायो की पहली महिला गवर्नर"
+    ],
+    "why": "अमेरिका में रह रहे तेलुगु और भारतीय परिवारों के लिए वहां की राजनीति में भारतीय मूल का प्रतिनिधित्व अहम है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "जीते भारतीय मूल के नेता"
+   }
+  },
+  {
+   "cat": "భారత్ · ఢిల్లీ",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "263/26",
+   "statl": "ఢిల్లీ స్పెషల్ సెల్ ఎఫ్ఐఆర్ నంబర్",
+   "h": "రష్యా మంత్రి నకిలీ వీడియో వివాదం: ప్రశాంత్ భూషణ్‌పై ఎఫ్ఐఆర్",
+   "p": "రష్యా విదేశాంగ మంత్రి సెర్గీ లావ్రోవ్ భారత అంతర్గత విషయాలు, చమురు కొనుగోళ్లపై విమర్శలు చేసినట్లు చూపే మార్ఫింగ్ వీడియోను సీనియర్ న్యాయవాది ప్రశాంత్ భూషణ్ ఖాతా షేర్ చేసిందన్న ఆరోపణపై ఢిల్లీ పోలీసు స్పెషల్ సెల్ కేసు నమోదు చేసింది. ఆ వీడియో నకిలీదని విదేశాంగ శాఖ ఫ్యాక్ట్‌చెక్ విభాగం, రష్యా రాయబార కార్యాలయం ప్రకటించాయి. స్పెషల్ సెల్ దర్యాప్తు చేయనుంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/bharat/delhi-police-registers-fir-over-doctored-video-of-russian-fm-shared-by-advocate-prashant-bhushan-ten26110401651",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "pts": [
+    "నవంబర్ 3న సైబర్ పెట్రోలింగ్‌లో పోస్ట్ గుర్తింపు",
+    "వీడియో నకిలీదని ఎంఈఏ ఫ్యాక్ట్‌చెక్, రష్యా ఎంబసీ వెల్లడి",
+    "బీఎన్ఎస్, ఐటీ చట్టం 66సీ సెక్షన్ల కింద కేసు"
+   ],
+   "why": "సోషల్ మీడియాలో వీడియోలు షేర్ చేసే ముందు నిజానిజాలు తెలుసుకోవాల్సిన అవసరాన్ని ఈ కేసు గుర్తుచేస్తోంది.",
+   "d": "04.11.2026",
+   "t": "21:05",
+   "en": {
+    "h": "Fake video of Russian minister: FIR against Prashant Bhushan",
+    "p": "The Delhi Police Special Cell has registered a case over the allegation that senior advocate Prashant Bhushan's account shared a doctored video showing Russian Foreign Minister Sergey Lavrov criticising India's internal affairs and oil purchases. The External Affairs Ministry's FactCheck unit and the Russian Embassy have said the video is fake. The Special Cell will investigate.",
+    "pts": [
+     "Post noticed during cyber patrolling on November 3",
+     "MEA FactCheck and Russian Embassy say video is fake",
+     "Case under BNS and IT Act Section 66C"
+    ],
+    "why": "The case is a reminder to check facts before sharing videos on social media.",
+    "cat": "India · Delhi",
+    "statl": "Delhi Special Cell FIR number"
+   },
+   "hi": {
+    "h": "रूसी मंत्री का फर्जी वीडियो विवाद: प्रशांत भूषण पर एफआईआर",
+    "p": "रूस के विदेश मंत्री सर्गेई लावरोव को भारत के आंतरिक मामलों और तेल खरीद की आलोचना करते दिखाने वाला छेड़छाड़ किया गया वीडियो वरिष्ठ वकील प्रशांत भूषण के अकाउंट से शेयर होने के आरोप पर दिल्ली पुलिस की स्पेशल सेल ने मामला दर्ज किया है। विदेश मंत्रालय की फैक्टचेक इकाई और रूसी दूतावास ने वीडियो को फर्जी बताया है। स्पेशल सेल जांच करेगी।",
+    "pts": [
+     "3 नवंबर को साइबर पेट्रोलिंग में पोस्ट का पता चला",
+     "एमईए फैक्टचेक और रूसी दूतावास ने वीडियो फर्जी बताया",
+     "बीएनएस और आईटी एक्ट धारा 66सी के तहत मामला"
+    ],
+    "why": "यह मामला सोशल मीडिया पर वीडियो शेयर करने से पहले तथ्य जांचने की ज़रूरत याद दिलाता है।",
+    "cat": "भारत · दिल्ली",
+    "statl": "दिल्ली स्पेशल सेल एफआईआर नंबर"
+   }
+  },
   {
    "cat": "తెలంగాణ · నిజామాబాద్",
    "col": "--c-gov",
