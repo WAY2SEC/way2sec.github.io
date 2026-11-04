@@ -678,7 +678,10 @@ async function cardImage(s){
   yy=H-QR; ctx.fillStyle='#16130F'; ctx.fillRect(0,yy,W,QR);
   ctx.font=`800 36px ${TE}`; ctx.fillStyle='#FBF7F0'; ctx.textBaseline='middle'; ctx.fillText('స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి',P,yy+QR/2);
   try{ const qr=await loadImg('qr.png'); ctx.fillStyle='#fff'; ctx.fillRect(W-P-150,yy+20,150,150); ctx.drawImage(qr,W-P-142,yy+28,134,134); }catch(e){}
-  return await new Promise(r=>c.toBlob(r,'image/jpeg',0.9));
+  let url=''; try{ url=c.toDataURL('image/jpeg',0.9); }catch(e){}
+  const blob=await new Promise(r=>c.toBlob(r,'image/jpeg',0.9));
+  if(blob && url) blob.dataURL=url;   // ready-made picture for the iPhone long-press screen
+  return blob;
 }
 window.cardImage=cardImage;
 function storyLink(s){ const iso=toIso(s.d||NEWS.date); return CONFIG.APP_LINK+(iso?`?d=${iso}&s=${sid(s)}`:''); }
@@ -732,39 +735,61 @@ $('listenBtn').onclick=()=>{
 /* Share the CARD PICTURE + caption. Used by both the share button and the green WhatsApp button. */
 const IOS=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
 const timeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r(null),ms))]);
-function showCardImage(b, text){
+/* iPhone helpers */
+function capBar(text){ // after the picture is shared: one tap copies caption + link (iPhone needs a tap to copy)
+  let c=$('capBar');
+  if(!c){ c=document.createElement('button'); c.id='capBar'; c.type='button';
+    c.style.cssText='position:fixed;left:50%;bottom:calc(150px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:70;border:0;border-radius:999px;padding:12px 18px;background:#1DA851;color:#fff;font:800 14px/1.2 var(--body);box-shadow:0 8px 24px rgba(0,0,0,.3);max-width:92vw';
+    document.body.appendChild(c); }
+  c.textContent='📋 క్యాప్షన్ + లింక్ కాపీ చేయండి'; c.hidden=false;
+  c.onclick=async()=>{ c.hidden=true; toast(await copyText(text)?'కాపీ అయింది ✅ WhatsAppలో Paste చేయండి':'కాపీ కాలేదు'); };
+  clearTimeout(capBar.t); capBar.t=setTimeout(()=>{ c.hidden=true; },12000);
+}
+function showCardImage(b, text, why){
   let o=$('imgShare');
   if(!o){ o=document.createElement('div'); o.id='imgShare';
     o.style.cssText='position:fixed;inset:0;z-index:80;background:#0A0E16;display:flex;flex-direction:column;align-items:center;gap:12px;padding:16px 16px calc(16px + env(safe-area-inset-bottom,0px));overflow:auto';
-    o.innerHTML='<p style="margin:0;color:#fff;font:800 16px/1.5 var(--body);text-align:center">👇 చిత్రాన్ని <u>నొక్కి పట్టుకోండి</u> → <b>Share</b> → <b>WhatsApp</b></p>'
-      +'<img id="imgShareImg" alt="Way2Sec కార్డు" style="max-width:100%;max-height:62vh;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.5);-webkit-touch-callout:default;user-select:auto">'
-      +'<p style="margin:0;color:#C9D3E1;font:600 13px/1.5 var(--body);text-align:center">క్యాప్షన్, లింక్ కాపీ అయ్యాయి – WhatsAppలో మెసేజ్ బాక్స్‌ను నొక్కి Paste చేయండి</p>'
-      +'<div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center"><button type="button" id="imgShareCopy" class="btn">క్యాప్షన్ మళ్లీ కాపీ</button><button type="button" id="imgShareClose" class="btn" style="background:#fff;color:#16120E">మూసివేయండి</button></div>';
+    o.innerHTML='<img id="imgShareImg" alt="" style="display:block;width:auto;max-width:100%;max-height:58vh;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.5);-webkit-touch-callout:default;-webkit-user-select:auto;user-select:auto">'
+      +'<button type="button" id="imgShareGo" class="btn" style="background:#1DA851;min-width:220px">📤 చిత్రాన్ని షేర్ చేయండి</button>'
+      +'<p style="margin:0;color:#C9D3E1;font:600 13px/1.55 var(--body);text-align:center">లేదా చిత్రాన్ని <b>నొక్కి పట్టుకోండి</b> → <b>Save to Photos</b> → WhatsAppలో 📎 నుంచి పంపండి</p>'
+      +'<div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center"><button type="button" id="imgShareCopy" class="btn">📋 క్యాప్షన్ కాపీ</button><button type="button" id="imgShareClose" class="btn" style="background:#fff;color:#16120E">మూసివేయండి</button></div>'
+      +'<small id="imgShareWhy" style="color:#6B7A90;font-size:11px"></small>';
     document.body.appendChild(o);
     $('imgShareClose').onclick=()=>{ o.hidden=true; };
   }
-  const fr=new FileReader(); fr.onload=()=>{ $('imgShareImg').src=fr.result; }; fr.readAsDataURL(b);
+  const im=$('imgShareImg');
+  im.src = b.dataURL || URL.createObjectURL(b);
+  $('imgShareWhy').textContent = why ? 'code: '+why : '';
   $('imgShareCopy').onclick=async()=>{ toast(await copyText(text)?'కాపీ అయింది ✅':'కాపీ కాలేదు'); };
-  copyText(text); o.hidden=false;
+  $('imgShareGo').onclick=async()=>{ // fresh tap, nothing else before it: the best chance for the share menu
+    try{ await navigator.share({files:[cardFile(b)]}); o.hidden=true; capBar(text); }
+    catch(e){ if(e&&e.name==='AbortError') return; $('imgShareWhy').textContent='code: '+(e&&e.name||e); toast('షేర్ కాలేదు – చిత్రాన్ని నొక్కి పట్టుకుని Save చేయండి'); }
+  };
+  o.hidden=false;
 }
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
-  // iPhone: the share must start right after the tap, and WhatsApp on iPhone keeps only the text
-  // when it gets picture + text together. So: share the picture alone, caption goes to the clipboard.
-  if(IOS && !b && navigator.canShare){ prepCard(); toast('చిత్రం సిద్ధమవుతోంది… ఒక్క క్షణం తర్వాత మళ్లీ నొక్కండి'); return; }
+  if(IOS){
+    // iPhone: the share menu must open straight after the tap, with nothing else first,
+    // and WhatsApp on iPhone keeps only the text if it gets picture + text. So: picture alone.
+    if(!b){ prepCard(); toast('చిత్రం సిద్ధమవుతోంది… ఒక్క క్షణం తర్వాత మళ్లీ నొక్కండి'); return; }
+    let why='';
+    if(navigator.share && navigator.canShare && navigator.canShare({files:[cardFile(b)]})){
+      try{ await navigator.share({files:[cardFile(b)]}); capBar(text); return; }
+      catch(e){ if(e&&e.name==='AbortError') return; why=e&&e.name||String(e); }
+    } else why='no-file-share';
+    showCardImage(b, text, why); return;
+  }
   if(!b && navigator.canShare) b=await timeout(prepCard(),2500);
   if(b && navigator.canShare){
-    const f=cardFile(b), data=IOS?{files:[f]}:{files:[f], text};
+    const f=cardFile(b), data={files:[f], text};
     if(navigator.canShare(data)){
       copyText(text); // caption + link on the clipboard, to paste under the picture
-      try{ await navigator.share(data);
-           toast(IOS?'చిత్రం పంపారు ✅ క్యాప్షన్ కాపీ అయింది – WhatsAppలో Paste చేయండి':(viaWA?'క్యాప్షన్ కాపీ అయింది':'క్యాప్షన్ కాపీ అయింది')); return; }
+      try{ await navigator.share(data); toast('క్యాప్షన్ కాపీ అయింది'); return; }
       catch(e){ if(e&&e.name==='AbortError') return; }
     }
   }
-  // iPhone where the share menu can't take the picture (e.g. Chrome on iPhone): show the picture to long-press
-  if(IOS && b){ showCardImage(b, text); return; }
   // computers / phones without picture sharing: open WhatsApp with the text and link
   if(viaWA){ const u='https://wa.me/?text='+encodeURIComponent(text); const w=window.open(u,'_blank'); if(!w) location.href=u; }
   else share(text);
