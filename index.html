@@ -362,7 +362,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
       <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.12 · Way2Sec</p>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.13 · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
@@ -795,6 +795,8 @@ $('listenBtn').onclick=()=>{
 /* Share the CARD PICTURE + caption. Used by both the share button and the green WhatsApp button. */
 const CRIOS=/CriOS|FxiOS|EdgiOS|OPiOS/.test(navigator.userAgent);
 const IOS=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+/* opened from the home-screen icon: iPhone does not let these apps attach pictures, Safari itself can */
+const STANDALONE=!!(navigator.standalone||(window.matchMedia&&matchMedia('(display-mode: standalone)').matches));
 const timeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r(null),ms))]);
 /* iPhone helpers */
 function capBar(text){ // after the picture is shared: one tap copies caption + link (iPhone needs a tap to copy)
@@ -824,7 +826,10 @@ function showCardImage(b, text, why){
   $('imgShareCopy').onclick=async()=>{ toast(await copyText(text)?'కాపీ అయింది ✅':'కాపీ కాలేదు'); };
   $('imgShareGo').onclick=async()=>{ // fresh tap, nothing else before it: the best chance for the share menu
     try{ await navigator.share({files:[cardFile(b)]}); o.hidden=true; capBar(text); }
-    catch(e){ if(e&&e.name==='AbortError') return; $('imgShareWhy').textContent='code: '+(e&&e.name||e); toast('షేర్ కాలేదు – చిత్రాన్ని నొక్కి పట్టుకుని Save చేయండి'); }
+    catch(e){ if(e&&e.name==='AbortError') return;
+      $('imgShareWhy').textContent='code: '+(e&&e.name||e)+(e&&e.message?' – '+e.message:'')+(STANDALONE?' · app':' · safari')+' · '+Math.round(b.size/1024)+'KB';
+      if(STANDALONE){ toast('Safari లో తెరుస్తున్నాం…'); setTimeout(()=>{ location.href='x-safari-'+location.origin+'/?cards=1&sharecard=1&s='+sid(LIST[cur]||{}); },600); return; }
+      toast('షేర్ కాలేదు – చిత్రాన్ని నొక్కి పట్టుకుని Save చేయండి'); }
   };
   o.hidden=false;
 }
@@ -837,12 +842,13 @@ function chromeChoice(s,text,viaWA){
     o.innerHTML='<div style="background:var(--paper,#fff);color:var(--ink,#16120E);width:100%;max-width:520px;border-radius:22px 22px 0 0;padding:20px 18px calc(18px + env(safe-area-inset-bottom,0px));display:grid;gap:10px">'
       +'<b style="font:800 17px/1.4 var(--body)">ఎలా పంపాలి?</b>'
       +'<button type="button" id="crPic" class="btn" style="background:#1DA851;justify-content:center">📷 పూర్తి కార్డ్ చిత్రంగా పంపండి</button>'
-      +'<small style="color:var(--muted,#6B5F52);font:600 12.5px/1.5 var(--body)">iPhone లో Chrome చిత్రాలు పంపలేదు – ఈ వార్త Safari లో తెరుచుకుంటుంది, అక్కడ “📤 షేర్” ఒక్కసారి నొక్కండి.</small>'
+      +'<small id="crWhy" style="color:var(--muted,#6B5F52);font:600 12.5px/1.5 var(--body)"></small>'
       +'<button type="button" id="crLink" class="btn" style="justify-content:center">🔗 లింక్ మాత్రమే పంపండి</button>'
       +'<button type="button" id="crNo" class="btn" style="background:transparent;color:inherit;box-shadow:none;justify-content:center">వద్దు</button></div>';
     document.body.appendChild(o);
     o.addEventListener('click',e=>{ if(e.target===o||e.target.id==='crNo') o.hidden=true; });
   }
+  $('crWhy').textContent=(CRIOS?'iPhone లో Chrome':'హోమ్ స్క్రీన్ యాప్')+' నుంచి చిత్రాలు పంపడం iPhone అనుమతించదు – ఈ వార్త Safari లో తెరుచుకుంటుంది, అక్కడ “📤 షేర్” ఒక్కసారి నొక్కండి.';
   $('crPic').onclick=()=>{ o.hidden=true; const l=LG();
     location.href='x-safari-https://way2sec.news/?cards=1&sharecard=1&s='+sid(s)+(s.kind==='job'?'&jobs=1':'')+(l!=='te'?'&l='+l:''); };
   $('crLink').onclick=async()=>{ o.hidden=true;
@@ -853,7 +859,7 @@ function chromeChoice(s,text,viaWA){
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
-  if(IOS && CRIOS && window.isSecureContext){ chromeChoice(s,text,viaWA); return; }
+  if(IOS && (CRIOS||STANDALONE) && window.isSecureContext){ chromeChoice(s,text,viaWA); return; }
   if(IOS && (CRIOS || !window.isSecureContext)){
     // Chrome/Firefox/Edge on iPhone (and any non-https page) cannot share pictures at all:
     // go straight to WhatsApp (or the share menu) with the Way2Sec link, which shows our preview.
