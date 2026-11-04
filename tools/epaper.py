@@ -233,9 +233,24 @@ def main():
     from playwright.sync_api import sync_playwright
     raw = os.path.join(out_dir, '_raw.pdf')
     with sync_playwright() as p:
-        b = p.chromium.launch(); pg = b.new_page()
+        b = p.chromium.launch(); pg = b.new_page(viewport={'width': 820, 'height': 1200}, device_scale_factor=2)
         pg.goto(f'http://127.0.0.1:{srv.server_address[1]}/epaper/_build.html'); pg.wait_for_selector('body[data-ready="1"]')
         pg.evaluate('document.fonts.ready'); pg.wait_for_timeout(400)
+        # page pictures + where each story sits on the page (for the web viewer and its ✂️ clip tool)
+        day_dir = os.path.join(out_dir, iso); os.makedirs(day_dir, exist_ok=True)
+        info = pg.evaluate('''() => [...document.querySelectorAll('.page')].map(pg => { const r = pg.getBoundingClientRect();
+          const clips = [...pg.querySelectorAll('.st, table.jobs')].map(el => { const rs = [...el.getClientRects()].filter(q => q.width > 20 && q.height > 10);
+            return rs.map(q => ({x: (q.left - r.left) / r.width, y: (q.top - r.top) / r.height, w: q.width / r.width, h: q.height / r.height,
+              t: (el.querySelector('h2') || {}).textContent || 'ఉద్యోగాలు'})); }).flat();
+          const ttl = (pg.querySelector('.pt') || {}).textContent || 'మొదటి పేజీ';
+          return {title: ttl, clips}; })''')
+        pages_meta = []
+        for i, m in enumerate(info):
+            fn = f'p{i + 1}.jpg'
+            pg.locator('.page').nth(i).screenshot(path=os.path.join(day_dir, fn), type='jpeg', quality=82)
+            pages_meta.append({'img': f'{iso}/{fn}', 'title': m['title'], 'clips': m['clips']})
+        json.dump({'iso': iso, 'date': day.get('date'), 'pdf': f'{iso}.pdf', 'pages': pages_meta}, open(os.path.join(day_dir, 'pages.json'), 'w', encoding='utf-8'), ensure_ascii=False)
+        pg.emulate_media(media='print')
         pg.pdf(path=raw, format='A4', print_background=True, prefer_css_page_size=True)
         b.close()
     srv.shutdown()
@@ -255,6 +270,7 @@ def main():
     idx['issues'] = [x for x in idx['issues'] if x.get('iso') != iso] + [{'iso': iso, 'date': day.get('date'), 'pages': len(r.pages), 'stories': len(day.get('stories') or [])}]
     idx['issues'].sort(key=lambda x: x['iso'], reverse=True)
     json.dump(idx, open(idx_p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    open(os.path.join(out_dir, 'index.html'), 'w', encoding='utf-8').write(open(os.path.join(ROOT, 'tools', 'epaper_viewer.html'), encoding='utf-8').read())
     print(f'epaper: {out} · {len(r.pages)} pages · {os.path.getsize(out)//1024} KB')
 
 
