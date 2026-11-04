@@ -1,8 +1,106 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 75,
+ "count": 77,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "₹1 కోటి",
+   "statl": "కుటుంబానికి ప్రమాద బీమా పరిహారం",
+   "h": "చిల్లర గొడవలో బస్సు నుంచి తోసివేత: మహిళా కండక్టర్ మృతి",
+   "p": "మణుగూరు–భద్రాచలం పల్లె వెలుగు బస్సులో చిల్లర విషయంలో వివాదం తలెత్తగా, ఒక ప్రయాణికురాలు 24 ఏళ్ల మహిళా కండక్టర్‌ను కదులుతున్న బస్సు నుంచి తోసివేసినట్లు ఆరోపణ. అక్టోబర్ 25న జరిగిన ఈ ఘటనలో తీవ్రంగా గాయపడిన ఆమె హైదరాబాద్ ఆసుపత్రిలో చికిత్స పొందుతూ మంగళవారం మృతి చెందారు. నిందితురాలిని పోలీసులు అదుపులోకి తీసుకుని కేసు నమోదు చేశారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/pushed-off-bus-over-change-tgsrtc-woman-conductor-dies-days-later-3569493/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "మిట్టగూడెం",
+   "pts": [
+    "కుటుంబానికి ₹10 లక్షల సాయం ప్రకటించిన మంత్రి పొన్నం",
+    "తల్లికి ఉద్యోగం, ఇందిరమ్మ ఇళ్లు ఇస్తామని హామీ",
+    "ఖమ్మం రీజియన్‌లో జేఏసీ బస్సుల బంద్"
+   ],
+   "why": "ఖమ్మం రీజియన్‌లో బస్సులు డిపోలకే పరిమితం కావడంతో ప్రయాణికులు, ఆర్టీసీ ఉద్యోగుల భద్రతపై ప్రభావం.",
+   "d": "04.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Pushed off bus over change row: woman conductor dies",
+    "p": "A dispute over change on a Manuguru–Bhadrachalam Palle Velugu bus ended with a passenger allegedly pushing a 24-year-old woman conductor out of the moving bus. Seriously injured in the October 25 incident, she died on Tuesday while undergoing treatment at a Hyderabad hospital. Police took the accused woman into custody and registered a case.",
+    "pts": [
+     "Minister Ponnam announced ₹10 lakh aid to the family",
+     "Promise of a job for her mother and Indiramma houses",
+     "JAC halts buses across Khammam region"
+    ],
+    "why": "With buses confined to depots in the Khammam region, both passengers and the safety of RTC staff are affected.",
+    "cat": "Telangana · RTC",
+    "statl": "Accident insurance compensation for the family"
+   },
+   "hi": {
+    "h": "छुट्टे पैसों के विवाद में बस से धक्का: महिला कंडक्टर की मौत",
+    "p": "मणुगुरु–भद्राचलम पल्ले वेलुगु बस में छुट्टे पैसों को लेकर हुए विवाद में एक महिला यात्री ने 24 वर्षीय महिला कंडक्टर को चलती बस से धक्का दे दिया, ऐसा आरोप है। 25 अक्टूबर की इस घटना में गंभीर रूप से घायल कंडक्टर की मंगलवार को हैदराबाद के अस्पताल में इलाज के दौरान मौत हो गई। पुलिस ने आरोपी महिला को हिरासत में लेकर मामला दर्ज किया।",
+    "pts": [
+     "मंत्री पोन्नम ने परिवार को ₹10 लाख सहायता की घोषणा की",
+     "मां को नौकरी और इंदिरम्मा घर देने का वादा",
+     "जेएसी ने खम्मम क्षेत्र में बसें रोकीं"
+    ],
+    "why": "खम्मम क्षेत्र में बसें डिपो में ही रुकने से यात्रियों और आरटीसी कर्मचारियों की सुरक्षा पर असर।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "परिवार को दुर्घटना बीमा मुआवजा"
+   }
+  },
+  {
+   "cat": "భారత్ · క్రికెట్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "74",
+   "statl": "51 బంతుల్లో కోహ్లీ పరుగులు",
+   "h": "తొలి వన్డేలో న్యూజిలాండ్‌పై భారత్ 5 వికెట్ల విజయం",
+   "p": "ఆక్లాండ్‌లో వర్షం అంతరాయం కలిగించిన తొలి వన్డేలో భారత్ ఐదు వికెట్ల తేడాతో న్యూజిలాండ్‌ను ఓడించింది. న్యూజిలాండ్ 185 పరుగులు చేయగా, రెండుసార్లు వర్షం పడటంతో భారత్ లక్ష్యాన్ని 32 ఓవర్లలో 143 పరుగులుగా సవరించారు. విరాట్ కోహ్లీ 51 బంతుల్లో 74 పరుగులు, కెప్టెన్ శుభ్‌మన్ గిల్ 37 బంతుల్లో 56 పరుగులతో జట్టును గెలిపించారు.",
+   "src": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/sports/nz-vs-ind-1st-odi-arshdeeps-heroics-kohlis-74-guide-india-to-5-wicket-win-in-rain-curtailed-match/",
+   "sec": [
+    "sports",
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "అర్ష్‌దీప్ సింగ్‌కు నాలుగు వికెట్లు",
+    "గుర్నూర్ బ్రార్ 3/44, అన్షుల్ కాంబోజ్ 2/22",
+    "ఐదు మ్యాచ్‌ల సిరీస్‌లో ఇది తొలి మ్యాచ్"
+   ],
+   "why": "ఐదు మ్యాచ్‌ల వన్డే సిరీస్‌ను భారత్ గెలుపుతో ప్రారంభించడం క్రికెట్ అభిమానులకు శుభవార్త.",
+   "d": "04.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "India beat New Zealand by 5 wickets in first ODI",
+    "p": "India beat New Zealand by five wickets in the rain-hit first ODI in Auckland. New Zealand made 185, and after two rain interruptions India's target was revised to 143 runs in 32 overs. Virat Kohli's 74 off 51 balls and captain Shubman Gill's 56 off 37 balls took the team to victory.",
+    "pts": [
+     "Four wickets for Arshdeep Singh",
+     "Gurnoor Brar 3/44, Anshul Kamboj 2/22",
+     "First match of a five-match series"
+    ],
+    "why": "India starting the five-match ODI series with a win is good news for cricket fans.",
+    "cat": "India · Cricket",
+    "statl": "Kohli's runs off 51 balls"
+   },
+   "hi": {
+    "h": "पहले वनडे में भारत ने न्यूजीलैंड को 5 विकेट से हराया",
+    "p": "ऑकलैंड में बारिश से प्रभावित पहले वनडे में भारत ने न्यूजीलैंड को पांच विकेट से हराया। न्यूजीलैंड ने 185 रन बनाए, और दो बार बारिश के बाद भारत का लक्ष्य 32 ओवर में 143 रन कर दिया गया। विराट कोहली के 51 गेंदों पर 74 रन और कप्तान शुभमन गिल के 37 गेंदों पर 56 रन ने टीम को जीत दिलाई।",
+    "pts": [
+     "अर्शदीप सिंह को चार विकेट",
+     "गुरनूर बराड़ 3/44, अंशुल कंबोज 2/22",
+     "पांच मैचों की सीरीज का पहला मैच"
+    ],
+    "why": "पांच मैचों की वनडे सीरीज की जीत से शुरुआत क्रिकेट प्रशंसकों के लिए अच्छी खबर।",
+    "cat": "भारत · क्रिकेट",
+    "statl": "51 गेंदों पर कोहली के रन"
+   }
+  },
   {
    "cat": "తెలంగాణ · మెదక్",
    "col": "--c-power",
