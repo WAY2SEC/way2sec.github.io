@@ -9,6 +9,8 @@ const store={get(k,d){try{const v=localStorage.getItem('w2s.'+k);return v?JSON.p
 const te=v=>/[ఀ-౿]/.test(v||'');
 const here=location.pathname.replace(/\.html$/,'').split('/').pop();
 
+(()=>{const W=['ఆదివారం','సోమవారం','మంగళవారం','బుధవారం','గురువారం','శుక్రవారం','శనివారం'],M=['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
+ const d=new Date(Date.now()+(330+new Date().getTimezoneOffset())*60000); const el=$('today'); if(el) el.textContent=`📅 ${W[d.getDay()]}, ${d.getDate()} ${M[d.getMonth()]} ${d.getFullYear()}`;})();
 /* theme */
 function applyTheme(t){const r=document.documentElement; if(!t||t==='auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme',t);}
 applyTheme((store.get('prefs',{})||{}).theme);
@@ -23,7 +25,7 @@ const lb=$('listen'); if(lb) lb.onclick=()=>{ const sy=window.speechSynthesis; i
   const u=new SpeechSynthesisUtterance(t); u.lang='te-IN'; u.rate=.95; const v=sy.getVoices().find(v=>/^te/i.test(v.lang)); if(v) u.voice=v; sy.speak(u); };
 
 function card(s){ const col=s.col||'--c-gov';
-  return `<a class="card" href="/s/${sid(s)}" style="--hl:var(${col});--hlink:var(${col})"><div class="pnl"><svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg>${s.brk?'<span class="chip brk">🔴 BREAKING</span>':`<span class="chip">${esc(s.cat||'వార్త')}</span>`}<div class="stat${te(s.stat)?' te':''}">${esc(s.stat||'')}</div></div><div class="bd"><h3>${esc(s.h)}</h3><div class="m">${esc(s.src||'')} · ${esc(s.d||'')}${s.t?' · '+esc(s.t):''}</div></div></a>`; }
+  return `<a class="card" href="/s/${sid(s)}" style="--hl:var(${col});--hlink:var(${col})"><div class="pnl">${sceneSVG(s,'scene')}${s.brk?'<span class="chip brk">🔴 BREAKING</span>':`<span class="chip">${esc(s.cat||'వార్త')}</span>`}<div class="stat${te(s.stat)?' te':''}">${esc(s.stat||'')}</div></div><div class="bd"><h3>${esc(s.h)}</h3><div class="m">${esc(s.src||'')} · ${esc(s.d||'')}${s.t?' · '+esc(s.t):''}</div></div></a>`; }
 function daysLeft(j){const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.last||'');if(!m)return null;return Math.floor((new Date(+m[3],+m[2]-1,+m[1],23,59,59)-Date.now())/864e5)}
 async function getJSON(u){ try{ const r=await fetch(u+'?t='+Date.now(),{cache:'no-store'}); return r.ok?await r.json():null; }catch(e){ return null; } }
 

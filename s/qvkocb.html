@@ -34,36 +34,44 @@ button{font:inherit;color:inherit}
 .wrap{max-width:1240px;margin:0 auto;padding:0 24px}
 @media (max-width:640px){.wrap{padding:0 16px}}
 
-/* top bar */
-.top{position:sticky;top:0;z-index:50;background:var(--glass);-webkit-backdrop-filter:blur(18px) saturate(1.6);backdrop-filter:blur(18px) saturate(1.6);border-bottom:1px solid var(--line)}
-.bar{display:flex;align-items:center;gap:18px;height:68px}
+/* header: utility strip, main bar, sticky navy section menu */
+.top{background:var(--paper);position:relative;z-index:51}
+.util{background:var(--navy2);color:#C9D3E1;font-size:12.5px;font-weight:700}
+.util .wrap{display:flex;align-items:center;gap:18px;height:34px}
+.util #today{color:#fff}
+.util .up{color:var(--gold)}
+.util .ul{margin-left:auto;display:flex;gap:18px}
+.util a:hover{color:#fff}
+.bar{display:flex;align-items:center;gap:22px;height:92px}
 .logo{display:flex;align-items:center;gap:12px;flex-shrink:0}
-.logo img{height:34px;display:block}
+.logo img{height:48px;display:block}
 .logo .lt{display:none}
 :root[data-theme="dark"] .logo .lk{display:none} :root[data-theme="dark"] .logo .lt{display:block}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .logo .lk{display:none}:root:not([data-theme="light"]) .logo .lt{display:block}}
-.tagl{font-size:15px;font-weight:800;color:var(--brand);border-left:1px solid var(--line);padding-left:12px;line-height:1.25}
-.tagl small{display:block;color:var(--ink);font-weight:800;font-size:12.5px}
-.tagl small.te2{color:var(--muted);font-weight:700;font-size:12px}
-.search{flex:1;max-width:420px;margin-left:auto;position:relative}
-.search input{width:100%;height:42px;border-radius:999px;border:1px solid var(--line);background:var(--paper);padding:0 16px 0 42px;font:inherit;font-size:14px;color:var(--ink);outline:none;transition:border-color .2s,box-shadow .2s}
-.search input:focus{border-color:var(--brand);box-shadow:0 0 0 4px color-mix(in srgb,var(--brand) 15%,transparent)}
-.search svg{position:absolute;left:14px;top:12px;width:18px;height:18px;color:var(--muted)}
-.search kbd{position:absolute;right:12px;top:10px;font:700 11px/1 system-ui;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:4px 6px}
-.ib{width:42px;height:42px;border-radius:12px;border:1px solid var(--line);background:var(--paper);display:grid;place-items:center;cursor:pointer;flex-shrink:0}
+.tagl{font-size:19px;font-weight:800;color:var(--brand);border-left:2px solid var(--line);padding-left:18px;line-height:1.3;white-space:nowrap}
+.tagl small{display:block;color:var(--ink);font-weight:800;font-size:14.5px;letter-spacing:.01em}
+.tagl small.te2{color:var(--muted);font-weight:700;font-size:14px}
+.search{flex:1 1 300px;min-width:240px;max-width:440px;margin-left:auto;position:relative}
+.search input{width:100%;height:48px;border-radius:999px;border:1.5px solid var(--line);background:var(--soft);padding:0 46px 0 46px;font:inherit;font-size:15px;color:var(--ink);outline:none;transition:border-color .2s,box-shadow .2s,background .2s}
+.search input:focus{border-color:var(--brand);background:var(--paper);box-shadow:0 0 0 4px color-mix(in srgb,var(--brand) 15%,transparent)}
+.search svg{position:absolute;left:16px;top:15px;width:18px;height:18px;color:var(--muted)}
+.search kbd{position:absolute;right:14px;top:13px;font:700 11px/1 system-ui;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:5px 7px;background:var(--paper)}
+.ib{width:48px;height:48px;border-radius:14px;border:1.5px solid var(--line);background:var(--paper);display:grid;place-items:center;cursor:pointer;flex-shrink:0}
 .ib svg{width:20px;height:20px}
-.cta{height:42px;padding:0 16px;border-radius:12px;border:0;background:var(--navy);color:#fff;font-weight:800;font-size:13px;display:inline-flex;align-items:center;gap:8px;cursor:pointer;flex-shrink:0;white-space:nowrap}
+.cta{height:48px;padding:0 18px;border-radius:14px;border:0;background:var(--navy);color:#fff;font-weight:800;font-size:14px;display:inline-flex;align-items:center;gap:8px;cursor:pointer;flex-shrink:0;white-space:nowrap}
 .cta.wa{background:linear-gradient(145deg,#2FE47A,#1DA851)}
-@media (max-width:900px){.tagl,.search kbd{display:none}.cta .tx{display:none}}
-@media (max-width:640px){.search{display:none}.bar{gap:10px}}
-nav.secs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:0 0 12px}
+@media (max-width:1100px){.tagl small.te2{display:none}}
+@media (max-width:980px){.tagl,.search kbd,.util .up{display:none}.cta .tx{display:none}}
+@media (max-width:640px){.search{display:none}.bar{gap:10px;height:72px}.logo img{height:38px}.util .ul a:not(:last-child){display:none}}
+.navbar{position:sticky;top:0;z-index:50;background:var(--navy);box-shadow:0 8px 22px -14px rgba(0,0,0,.55)}
+nav.secs{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;height:52px;align-items:stretch}
 nav.secs::-webkit-scrollbar{display:none}
-nav.secs a{flex-shrink:0;padding:7px 14px;border-radius:999px;font-weight:800;font-size:14px;color:var(--muted);border:1px solid transparent}
-nav.secs a:hover{color:var(--ink);background:var(--soft)}
-nav.secs a[aria-current="true"]{color:#fff;background:var(--brand)}
+nav.secs a{flex-shrink:0;display:flex;align-items:center;padding:0 15px;font-weight:800;font-size:15px;color:#DCE3EE;border-bottom:3px solid transparent;border-top:3px solid transparent}
+nav.secs a:hover{color:#fff;background:rgba(255,255,255,.07)}
+nav.secs a[aria-current="true"]{color:#fff;border-bottom-color:var(--gold);background:rgba(255,255,255,.06)}
 
 /* ticker */
-.tick{background:var(--navy);color:#fff;overflow:hidden;border-bottom:3px solid var(--brand)}
+.tick{background:var(--navy2);color:#fff;overflow:hidden;border-bottom:3px solid var(--brand)}
 .tick .wrap{display:flex;align-items:center;gap:14px;height:44px}
 .live{flex-shrink:0;display:inline-flex;align-items:center;gap:8px;font:400 12px/1 var(--display);letter-spacing:.08em;background:var(--brand);padding:7px 11px;border-radius:6px}
 .live i{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.2s infinite}
@@ -180,7 +188,7 @@ footer a:hover{color:var(--brand)}
 /* side rails on very wide screens: left = useful Way2Sec content, right = ad space */
 .rail{display:none}
 @media (min-width:1800px){
-  .rail{display:flex;flex-direction:column;gap:16px;position:fixed;top:200px;width:250px;max-height:calc(100vh - 220px);overflow:auto;scrollbar-width:none;z-index:5}
+  .rail{display:flex;flex-direction:column;gap:16px;position:fixed;top:262px;width:250px;max-height:calc(100vh - 220px);overflow:auto;scrollbar-width:none;z-index:5}
   .rail::-webkit-scrollbar{display:none}
   .rail.l{left:calc(50% - 620px - 274px)} .rail.r{right:calc(50% - 620px - 274px)}
 }
@@ -204,8 +212,10 @@ footer a:hover{color:var(--brand)}
 .ad .big{font:400 40px/1 var(--display);color:var(--brand)}
 .chip.brk{background:#C8102E;border-color:#fff;animation:brk 1.6s ease-in-out infinite}
 @keyframes brk{50%{box-shadow:0 0 0 6px rgba(255,255,255,.25)}}
+.newpill[hidden]{display:none!important}
 .newpill{position:fixed;top:132px;left:50%;transform:translateX(-50%);z-index:60;border:0;border-radius:999px;padding:11px 20px;background:var(--brand);color:#fff;font:800 14.5px/1 var(--body);box-shadow:0 10px 30px -8px rgba(200,16,46,.6);cursor:pointer;display:inline-flex;align-items:center;gap:10px}
 .newpill i{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.2s infinite}
+.pnl{position:relative}.pnl svg.scene{position:absolute;left:0;right:0;bottom:0;width:100%;height:84%;opacity:.27;pointer-events:none}.pnl>*:not(svg){position:relative}
 @media (prefers-reduced-motion:reduce){.tk .row,.live i,.listen .wave i{animation:none!important}.card{transition:none}}
 
 .agrid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:28px;margin-top:28px;align-items:start}
@@ -234,7 +244,7 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
 :root[data-theme="dark"] .warnj{background:#3A1219;color:#FFB3BF}
 .acts{display:flex;flex-wrap:wrap;gap:10px}
 .acts .cta.ghost{background:var(--soft);color:var(--ink);border:1px solid var(--line)}
-.aside{display:flex;flex-direction:column;gap:18px;position:sticky;top:150px}
+.aside{display:flex;flex-direction:column;gap:18px;position:sticky;top:70px}
 @media (max-width:1020px){.aside{position:static}}
 .aside .latest{flex:none}
 .brk{background:#C8102E!important;border-color:#C8102E!important;color:#fff!important;animation:brk 1.6s ease-in-out infinite}
@@ -242,18 +252,19 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
 </style>
 </head><body>
 <header class="top">
+  <div class="util"><div class="wrap"><span id="today"></span><span class="up">⚡ ప్రతి 30 నిమిషాలకు తాజా వార్తలు · AI తో తెలుగులో</span><nav class="ul" aria-label="లింకులు"><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?tip=1&amp;cards=1">📝 మీ ఊరి వార్త పంపండి</a></nav></div></div>
   <div class="wrap">
     <div class="bar">
       <a class="logo" href="/" aria-label="Way2Sec హోమ్"><img class="lk" src="/logo.png" alt="Way2Sec"><img class="lt" src="/logo-light.png" alt=""></a>
       <div class="tagl">వార్తలు క్షణాల్లో!<small>Fastest AI News in Telugu</small><small class="te2">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</small></div>
-      <form class="search" action="/" method="get" role="search"><label style="display:contents"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" name="q" type="search" placeholder="వార్తలు వెతకండి… (ఉదా: హైదరాబాద్ వర్షం)" aria-label="వెతకండి"><kbd>↵</kbd></label></form>
+      <form class="search" action="/" method="get" role="search"><label style="display:contents"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" name="q" type="search" placeholder="వార్తలు వెతకండి…" aria-label="వెతకండి"><kbd>↵</kbd></label></form>
       <button class="ib" id="theme" type="button" aria-label="థీమ్ మార్చండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
       <a class="cta wa" href="https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138" target="_blank" rel="noopener"><svg viewBox="0 0 32 32" width="18" height="18" aria-hidden="true"><path fill="#fff" d="M16 3.2A12.7 12.7 0 0 0 5.1 22.4L3.4 28.6l6.4-1.7A12.7 12.7 0 1 0 16 3.2zm5.8 15.3c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1a8.6 8.6 0 0 1-4.3-3.7c-.3-.6.3-.5 1-1.7.1-.2 0-.4 0-.5l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6a1.2 1.2 0 0 0-.9.4 3.6 3.6 0 0 0-1.1 2.7 6.3 6.3 0 0 0 1.3 3.3c.2.2 2.2 3.4 5.4 4.8 2 .9 2.8.9 3.8.8a3.2 3.2 0 0 0 2.1-1.5 2.6 2.6 0 0 0 .2-1.5c-.1-.1-.3-.2-.6-.4z"/></svg><span class="tx">ఛానెల్‌లో చేరండి</span></a>
       <a class="cta" href="/?cards=1"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="2" width="12" height="20" rx="3"/><path d="M11 18h2"/></svg><span class="tx">కార్డులు</span></a>
     </div>
-    <nav class="secs" aria-label="విభాగాలు"><a href="/">హోమ్</a><a href="/?sec=telangana">తెలంగాణ</a><a href="/?sec=ap">ఆంధ్రప్రదేశ్</a><a href="/?sec=india">దేశం</a><a href="/?sec=world">ప్రపంచం</a><a href="/?sec=ai">AI & టెక్</a><a href="/?sec=jobs">ఉద్యోగ వార్తలు</a><a href="/?sec=business">బిజినెస్</a><a href="/?sec=education">విద్య</a><a href="/?sec=agri">వ్యవసాయం</a><a href="/?sec=weather">వాతావరణం</a><a href="/?sec=sports">క్రీడలు</a><a href="/?jobs=1">💼 జాబ్స్</a></nav>
   </div>
 </header>
+<div class="navbar"><div class="wrap"><nav class="secs" aria-label="విభాగాలు"><a href="/">హోమ్</a><a href="/?sec=telangana">తెలంగాణ</a><a href="/?sec=ap">ఆంధ్రప్రదేశ్</a><a href="/?sec=india">దేశం</a><a href="/?sec=world">ప్రపంచం</a><a href="/?sec=ai">AI & టెక్</a><a href="/?sec=jobs">ఉద్యోగ వార్తలు</a><a href="/?sec=business">బిజినెస్</a><a href="/?sec=education">విద్య</a><a href="/?sec=agri">వ్యవసాయం</a><a href="/?sec=weather">వాతావరణం</a><a href="/?sec=sports">క్రీడలు</a><a href="/?jobs=1">💼 జాబ్స్</a></nav></div></div>
 <div class="tick" aria-label="తాజా వార్తలు"><div class="wrap"><span class="live"><i></i>LIVE</span><div class="tk"><div class="row" id="tick"></div></div></div></div>
 
 
@@ -261,7 +272,15 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
 <main class="wrap">
 <div class="agrid">
 <article class="ar" style="--hl:var(--c-money);--hlink:var(--c-money)">
-  <div class="pnl"><svg class="art2" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="deadline"></svg>
+  <div class="pnl"><svg xmlns="http://www.w3.org/2000/svg" class="scene" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">
+    <g>
+      <circle cx="200" cy="200" r="150" fill="none" stroke="#fff" stroke-width="6"/>
+      <ellipse cx="200" cy="200" rx="60" ry="150" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+      <ellipse cx="200" cy="200" rx="110" ry="150" fill="none" stroke="#fff" stroke-width="3" opacity=".5"/>
+      <path d="M50 160h300M66 110h268M100 70h200" stroke="#fff" stroke-width="3" fill="none" opacity=".6"/>
+      <path d="M120 120c20-10 40 0 50 14s30 10 40 0 30-4 34 10-10 26-30 26-34 14-54 10-44-30-40-60z" opacity=".55"/>
+      <path d="M250 90c16-8 40-4 52 10s4 24-12 24-30-8-40-18z" opacity=".55"/>
+    </g></svg>
     <div class="chips"><span class="chip">ప్రపంచం · గల్ఫ్</span></div>
     <div><div class="stat te">నవంబర్ 30</div><div class="statl">రియాద్ విమానాల నిలిపివేత గడువు</div></div></div>
   <div class="in">
@@ -285,7 +304,41 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
   <div class="rbox rqr"><h4>📲 Way2Sec ఛానెల్</h4><img src="/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR"><p>స్కాన్ చేసి ప్రతి 30 నిమిషాలకు వార్తలు పొందండి</p></div>
 </aside>
 </div>
-<section class="sec"><div class="sh"><h2>ఇవి కూడా చదవండి</h2></div><div class="grid"><a class="card" href="/s/scmqog" style="--hl:var(--c-election);--hlink:var(--c-election)"><div class="pnl"><svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="voters"></svg><span class="chip">ప్రపంచం · అమెరికా</span><div class="stat">1988</div></div><div class="bd"><h3>టెక్సాస్ సెనేట్ సీటు: పాక్స్టన్‌పై టలారికో గెలుపు అంచనా</h3><div class="m">NewsNation, The Texas Tribune · 04.11.2026</div></div></a><a class="card" href="/s/16we2vc" style="--hl:var(--c-election);--hlink:var(--c-election)"><div class="pnl"><svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="voters"></svg><span class="chip">ప్రపంచం · అమెరికా</span><div class="stat">VA-10</div></div><div class="bd"><h3>సికింద్రాబాద్ మూలాలున్న సుహాస్ సుబ్రమణ్యం మళ్లీ అమెరికా కాంగ్రెస్‌కు</h3><div class="m">Telangana Today, IANS · 04.11.2026</div></div></a><a class="card" href="/s/123elyb" style="--hl:var(--c-money);--hlink:var(--c-money)"><div class="pnl"><svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="economy"></svg><span class="chip">భారత్ · మార్కెట్లు</span><div class="stat">-4.17%</div></div><div class="bd"><h3>ఆసియా మార్కెట్లు కుదేలు; ఒత్తిడిలో భారత స్టాక్ మార్కెట్</h3><div class="m">India TV News · 04.11.2026</div></div></a><a class="card" href="/s/m7l68o" style="--hl:var(--c-election);--hlink:var(--c-election)"><div class="pnl"><svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="voters"></svg><span class="chip">ప్రపంచం · అమెరికా</span><div class="stat">3 సీట్లు</div></div><div class="bd"><h3>అమెరికా సెనేట్ పోరు: నార్త్ కరోలినా సీటు డెమొక్రాట్ల కైవసం</h3><div class="m">AP, PBS NewsHour · 04.11.2026</div></div></a></div></section>
+<section class="sec"><div class="sh"><h2>ఇవి కూడా చదవండి</h2></div><div class="grid"><a class="card" href="/s/m7l68o" style="--hl:var(--c-election);--hlink:var(--c-election)"><div class="pnl"><svg xmlns="http://www.w3.org/2000/svg" class="scene" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">
+    <g>
+      <circle cx="200" cy="200" r="150" fill="none" stroke="#fff" stroke-width="6"/>
+      <ellipse cx="200" cy="200" rx="60" ry="150" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+      <ellipse cx="200" cy="200" rx="110" ry="150" fill="none" stroke="#fff" stroke-width="3" opacity=".5"/>
+      <path d="M50 160h300M66 110h268M100 70h200" stroke="#fff" stroke-width="3" fill="none" opacity=".6"/>
+      <path d="M120 120c20-10 40 0 50 14s30 10 40 0 30-4 34 10-10 26-30 26-34 14-54 10-44-30-40-60z" opacity=".55"/>
+      <path d="M250 90c16-8 40-4 52 10s4 24-12 24-30-8-40-18z" opacity=".55"/>
+    </g></svg><span class="chip">ప్రపంచం · అమెరికా</span><div class="stat">3 సీట్లు</div></div><div class="bd"><h3>అమెరికా సెనేట్ పోరు: నార్త్ కరోలినా సీటు డెమొక్రాట్ల కైవసం</h3><div class="m">AP, PBS NewsHour · 04.11.2026</div></div></a><a class="card" href="/s/1hwaw14" style="--hl:var(--c-power);--hlink:var(--c-power)"><div class="pnl"><svg xmlns="http://www.w3.org/2000/svg" class="scene" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">
+    <g>
+      <circle cx="200" cy="200" r="150" fill="none" stroke="#fff" stroke-width="6"/>
+      <ellipse cx="200" cy="200" rx="60" ry="150" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+      <ellipse cx="200" cy="200" rx="110" ry="150" fill="none" stroke="#fff" stroke-width="3" opacity=".5"/>
+      <path d="M50 160h300M66 110h268M100 70h200" stroke="#fff" stroke-width="3" fill="none" opacity=".6"/>
+      <path d="M120 120c20-10 40 0 50 14s30 10 40 0 30-4 34 10-10 26-30 26-34 14-54 10-44-30-40-60z" opacity=".55"/>
+      <path d="M250 90c16-8 40-4 52 10s4 24-12 24-30-8-40-18z" opacity=".55"/>
+    </g></svg><span class="chip">ప్రపంచం · గల్ఫ్</span><div class="stat">అలర్ట్</div></div><div class="bd"><h3>రియాద్‌లో అత్యవసర హెచ్చరిక: ఇళ్లలోనే ఉండాలని ప్రజలకు సూచన</h3><div class="m">Siasat Daily · 04.11.2026</div></div></a><a class="card" href="/s/1c3ma2q" style="--hl:var(--c-election);--hlink:var(--c-election)"><div class="pnl"><svg xmlns="http://www.w3.org/2000/svg" class="scene" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">
+    <g>
+      <circle cx="200" cy="200" r="150" fill="none" stroke="#fff" stroke-width="6"/>
+      <ellipse cx="200" cy="200" rx="60" ry="150" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+      <ellipse cx="200" cy="200" rx="110" ry="150" fill="none" stroke="#fff" stroke-width="3" opacity=".5"/>
+      <path d="M50 160h300M66 110h268M100 70h200" stroke="#fff" stroke-width="3" fill="none" opacity=".6"/>
+      <path d="M120 120c20-10 40 0 50 14s30 10 40 0 30-4 34 10-10 26-30 26-34 14-54 10-44-30-40-60z" opacity=".55"/>
+      <path d="M250 90c16-8 40-4 52 10s4 24-12 24-30-8-40-18z" opacity=".55"/>
+    </g></svg><span class="chip">ప్రపంచం · అమెరికా</span><div class="stat">మిడ్‌టర్మ్</div></div><div class="bd"><h3>అమెరికా మధ్యంతర ఎన్నికలు: ఓటేసిన ప్రజలు, ఫలితాలపై ఉత్కంఠ</h3><div class="m">The Standard, SBS News · 04.11.2026</div></div></a><a class="card" href="/s/1evsth8" style="--hl:var(--c-water);--hlink:var(--c-water)"><div class="pnl"><svg xmlns="http://www.w3.org/2000/svg" class="scene" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true"><defs><mask id="mscene"><rect width="400" height="200" fill="#fff"/><g fill="#000"><path d="M178 200v-38c0-14 10-24 22-24s22 10 22 24v38z"/><path d="M160 200v-26c0-7 4-11 8-11s8 4 8 11v26zM224 200v-26c0-7 4-11 8-11s8 4 8 11v26z"/></g></mask></defs><g mask="url(#mscene)">
+    <g opacity=".35"><path d="M0 200V150h18v-22h14v22h10v-40h16v40h12v-28h20v28h8v-52h18v52h10v-18h14v18H0z"/><path d="M290 200v-58h16v-20h14v20h10v-34h18v34h12v-24h16v24h24v58z"/></g>
+    <g>
+      <rect x="150" y="128" width="100" height="72"/>
+      <path d="M150 128h100v-8H150z"/>
+      <path d="M200 74c-10 0-18 9-18 18h36c0-9-8-18-18-18zM198 60h4v14h-4z"/>
+      <rect x="184" y="92" width="32" height="28"/>
+      <rect x="148" y="44" width="14" height="156"/><rect x="145" y="78" width="20" height="5"/><rect x="145" y="104" width="20" height="5"/><path d="M148 44c0-9 3-16 7-20 4 4 7 11 7 20z"/><rect x="154" y="12" width="2" height="12"/><rect x="238" y="44" width="14" height="156"/><rect x="235" y="78" width="20" height="5"/><rect x="235" y="104" width="20" height="5"/><path d="M238 44c0-9 3-16 7-20 4 4 7 11 7 20z"/><rect x="244" y="12" width="2" height="12"/>
+    </g>
+    <path fill="#000" fill-opacity=".001" d="M0 0"/>
+    <g fill="var(--hole,#000)" opacity="0"></g></g></svg><span class="chip">హైదరాబాద్ · నీరు</span><div class="stat">2,000</div></div><div class="bd"><h3>బోర్ల సీలింగ్‌పై ప్రైవేట్ ట్యాంకర్ యజమానుల నిరసన</h3><div class="m">Namasthe Telangana · 04.11.2026</div></div></a></div></section>
 <section class="sec"><div class="sh"><h2>మరిన్ని తాజా వార్తలు</h2><a href="/">హోమ్ →</a></div><div class="grid" id="more"></div></section>
 </main>
 <footer>
@@ -294,5 +347,5 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
     <nav><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?cards=1">కార్డులు</a><a href="/?jobs=1">ఉద్యోగాలు</a><a href="/privacy.html">Privacy</a></nav>
   </div>
 </footer>
-<script src="/web/site.js" defer></script>
+<script src="/scenes.js" defer></script><script src="/web/site.js" defer></script>
 </body></html>

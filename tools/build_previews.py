@@ -55,7 +55,7 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
 :root[data-theme="dark"] .warnj{background:#3A1219;color:#FFB3BF}
 .acts{display:flex;flex-wrap:wrap;gap:10px}
 .acts .cta.ghost{background:var(--soft);color:var(--ink);border:1px solid var(--line)}
-.aside{display:flex;flex-direction:column;gap:18px;position:sticky;top:150px}
+.aside{display:flex;flex-direction:column;gap:18px;position:sticky;top:70px}
 @media (max-width:1020px){.aside{position:static}}
 .aside .latest{flex:none}
 .brk{background:#C8102E!important;border-color:#C8102E!important;color:#fff!important;animation:brk 1.6s ease-in-out infinite}
@@ -116,7 +116,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
     share_text = f"{title}\n{SITE}/s/{sid}"
     import urllib.parse as up
     rel_cards = "".join(
-        f'<a class="card" href="/s/{rid}" style="--hl:var({r.get("col") or "--c-gov"});--hlink:var({r.get("col") or "--c-gov"})"><div class="pnl"><svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="{e(r.get("art") or "unity")}"></svg>{'<span class="chip brk">🔴 BREAKING</span>' if r.get("brk") else f'<span class="chip">{e(r.get("cat") or "వార్త")}</span>'}<div class="stat">{e(r.get("stat"))}</div></div><div class="bd"><h3>{e(r.get("h"))}</h3><div class="m">{e(r.get("src"))} · {e(r.get("d"))}</div></div></a>'
+        f'<a class="card" href="/s/{rid}" style="--hl:var({r.get("col") or "--c-gov"});--hlink:var({r.get("col") or "--c-gov"})"><div class="pnl">{r.get("_scene","")}{'<span class="chip brk">🔴 BREAKING</span>' if r.get("brk") else f'<span class="chip">{e(r.get("cat") or "వార్త")}</span>'}<div class="stat">{e(r.get("stat"))}</div></div><div class="bd"><h3>{e(r.get("h"))}</h3><div class="m">{e(r.get("src"))} · {e(r.get("d"))}</div></div></a>'
         for rid, r in related)
     published = iso_time(s)
     ld = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": title[:110], "image": [img],
@@ -143,7 +143,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <main class="wrap">
 <div class="agrid">
 <article class="ar" style="--hl:var({colvar});--hlink:var({colvar})">
-  <div class="pnl">{f'<svg class="art2" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" data-art="{e(s.get("art") or "unity")}"></svg>'}
+  <div class="pnl">{s.get("_scene","")}
     <div class="chips">{chips}</div>
     <div><div class="stat{' te' if te else ''}">{e(stat)}</div><div class="statl">{e(s.get("statl"))}</div></div></div>
   <div class="in">
@@ -169,7 +169,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <section class="sec"><div class="sh"><h2>మరిన్ని తాజా వార్తలు</h2><a href="/">హోమ్ →</a></div><div class="grid" id="more"></div></section>
 </main>
 {sh["footer"]}
-<script src="/web/site.js" defer></script>
+<script src="/scenes.js" defer></script><script src="/web/site.js" defer></script>
 </body></html>
 """
 
@@ -217,7 +217,7 @@ def static_page(title, desc, body):
 <main class="wrap"><div class="agrid"><article class="ar" style="--hl:var(--c-money);--hlink:var(--c-money)"><div class="in">{body}</div></article>
 <aside class="aside"><div class="latest"><h3>⚡ తాజా వార్తలు</h3><div id="latest"></div></div><div class="rbox rqr"><h4>📲 Way2Sec ఛానెల్</h4><img src="/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR"><p>స్కాన్ చేసి ప్రతి 30 నిమిషాలకు వార్తలు పొందండి</p></div></aside></div></main>
 {sh["footer"]}
-<script src="/web/site.js" defer></script>
+<script src="/scenes.js" defer></script><script src="/web/site.js" defer></script>
 </body></html>
 """
 
@@ -252,7 +252,7 @@ def main():
         pg.evaluate("Promise.all([document.fonts.load(\"800 40px 'Noto Sans Telugu'\"),document.fonts.load(\"600 40px 'Noto Sans Telugu'\"),document.fonts.load(\"40px 'Archivo Black'\")])")
 
         raw = [("news", s) for s in news + days] + [("job", j) for j in jobs]
-        normed = pg.evaluate("(arr)=>arr.map(a=>{const s=a[0]==='job'?normJob(a[1]):a[1]; return [a[0], s, sid(s)];})", raw)
+        normed = pg.evaluate("(arr)=>arr.map(a=>{const s=a[0]==='job'?normJob(a[1]):a[1]; s._scene=sceneSVG(s,'scene'); return [a[0], s, sid(s)];})", raw)
         uniq, seen = [], set()
         for kind, s, sid in normed:
             if sid in seen: continue

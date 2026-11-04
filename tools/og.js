@@ -9,8 +9,7 @@ window.ogImage = async function(s){
 
   // left colour panel
   x.fillStyle=col; x.fillRect(0,0,L,H);
-  try{ const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">${ART[s.art]||ART.unity}</svg>`;
-       const a=await loadImg('data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg)); x.globalAlpha=.22; x.drawImage(a,L-330,H-360,340,340); x.globalAlpha=1; }catch(e){}
+  try{ const a=await loadImg('data:image/svg+xml;charset=utf-8,'+encodeURIComponent(sceneSVG(s,'og'))); x.globalAlpha=.27; x.drawImage(a,-40,H-300,L+80,270); x.globalAlpha=1; }catch(e){}
   x.fillStyle='#fff'; x.strokeStyle='#fff'; x.lineWidth=3; x.textBaseline='middle';
   x.font=`800 26px ${TE}`; let chip=s.cat||'వార్త'; if(x.measureText(chip).width>L-2*P-44){ while(x.measureText(chip+'…').width>L-2*P-44 && chip.length>4) chip=chip.slice(0,-1); chip=chip.trim()+'…'; }
   const cw=x.measureText(chip).width+44; rrect(x,P,P,cw,52,26); x.stroke(); x.fillText(chip,P+22,P+27);
