@@ -318,7 +318,7 @@ function placeLabel(key){
   return '';
 }
 /* stories may carry their own photo (s.img = "photos/…jpg"): shown in the coloured panel instead of the drawing */
-try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;opacity:1;pointer-events:none}.ar .pnl:has(img.ph),.lead .pnl:has(img.ph){min-height:440px}.story .panel:has(img.ph){max-height:44%;min-height:clamp(190px,34vh,300px)}.story .panel:has(img.ph)>div:last-child{display:none}.story .panel:has(img.ph){justify-content:flex-start}.kf{display:flex;align-items:baseline;gap:8px;flex-wrap:nowrap;align-self:flex-start;max-width:100%;box-sizing:border-box;padding:3px 12px 4px;border-radius:999px;background:var(--hl);color:#fff;font-size:12.5px;font-weight:800;line-height:1.4;white-space:nowrap;overflow:hidden}.kf b{flex:none;font-size:13.5px;font-weight:900}.kf span{min-width:0;overflow:hidden;text-overflow:ellipsis;opacity:.95}.kfw{display:none}.ar .pnl:has(img.ph)>div:last-child,.lead .pnl:has(img.ph)>div:last-child{display:none}.ar .pnl:has(img.ph),.lead .pnl:has(img.ph){justify-content:flex-start}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.42) 0,rgba(0,0,0,0) 28%)}</style>'); }catch(e){}
+try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;opacity:1;pointer-events:none}.ar .pnl:has(img.ph),.lead .pnl:has(img.ph){min-height:440px}.story .panel:has(img.ph){max-height:44%;min-height:clamp(190px,34vh,300px)}.story .panel:has(img.ph) .stat{font-size:30px;letter-spacing:0;line-height:1.15}.story .panel:has(img.ph) .statl{font-size:13px;max-width:30ch;line-height:1.35}.ar .pnl:has(img.ph) .stat,.lead .pnl:has(img.ph) .stat{font-size:36px!important;line-height:1.15!important}.ar .pnl:has(img.ph) .statl,.lead .pnl:has(img.ph) .statl{font-size:15px}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.42) 0,rgba(0,0,0,0) 28%,rgba(0,0,0,0) 62%,rgba(0,0,0,.6) 100%)}</style>'); }catch(e){}
 function photoFocus(s){ const f=parseFloat(s&&s.imgfy); return f>=0&&f<=1?f:0.3; }
 function storyPhoto(s){ const p=String((s&&s.img)||''); return /^photos\/[A-Za-z0-9._-]+\.(jpe?g|png|webp)$/.test(p) ? '/'+p : ''; }
 /* draws the story photo into a canvas box (cover crop, faces kept in view) with a dark shade for the text; false if none */
@@ -328,7 +328,7 @@ async function drawStoryPhoto(ctx,s,x,y,w,h){
     const sc=Math.max(w/im.width,h/im.height), dw=im.width*sc, dh=im.height*sc;
     ctx.save(); ctx.beginPath(); ctx.rect(x,y,w,h); ctx.clip();
     const fy=photoFocus(s), top=Math.min(0,Math.max(h-dh,h*0.4-fy*dh)); ctx.drawImage(im,x+(w-dw)/2,y+top,dw,dh);
-    const g=ctx.createLinearGradient(0,y,0,y+h); g.addColorStop(0,'rgba(0,0,0,.42)'); g.addColorStop(.28,'rgba(0,0,0,0)'); g.addColorStop(1,'rgba(0,0,0,0)');
+    const g=ctx.createLinearGradient(0,y,0,y+h); g.addColorStop(0,'rgba(0,0,0,.42)'); g.addColorStop(.28,'rgba(0,0,0,0)'); g.addColorStop(.62,'rgba(0,0,0,0)'); g.addColorStop(1,'rgba(0,0,0,.6)');
     ctx.fillStyle=g; ctx.fillRect(x,y,w,h); ctx.restore(); return true; }catch(e){ return false; }
 }
 function sceneSVG(s, cls){
