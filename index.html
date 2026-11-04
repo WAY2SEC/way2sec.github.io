@@ -9,7 +9,7 @@
  if(q.has('cards'))sessionStorage.setItem('w2s.cards','1');
  if(app||q.has('cards')||q.has('build')||q.has('tip')||q.has('jobs')||q.has('source')||sessionStorage.getItem('w2s.cards'))return;
  var touch=/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.maxTouchPoints>1&&innerWidth<1100);
- if(!touch&&innerWidth>=900){var s=q.get('s');location.replace(s?'/s/'+s:'/web/');}}catch(e){}})();
+ if(!touch&&innerWidth>=900){var s=q.get('s');location.replace(s?'/s/'+s:'/web/'+location.search);}}catch(e){}})();
 </script>
 
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -155,6 +155,9 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 
 .datebar2{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 8px var(--gx);border-bottom:1px solid var(--line);background:var(--hdr);font-weight:800;font-size:14px}
 .datebar2 b{flex:1}
+.chip.brk{background:#C8102E;border-color:#fff;color:#fff;animation:brkp 1.6s ease-in-out infinite}
+@keyframes brkp{50%{box-shadow:0 0 0 5px rgba(255,255,255,.25)}}
+@media (prefers-reduced-motion:reduce){.chip.brk{animation:none}}
 /* job cards */
 .jd{margin:0;display:grid;grid-template-columns:auto 1fr;gap:3px 10px;font-size:clamp(13.5px,3.8vw,15px);line-height:1.5}
 .jd dt{color:var(--muted);font-weight:700;white-space:nowrap}
@@ -542,7 +545,7 @@ function cardHTML(s,i){
   return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col});--hl-ink:var(${col})">
   <div class="panel">
     <svg class="art" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ART[s.art]||ART.unity}</svg>
-    <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat||'వార్త')}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
+    <div class="ptop"><div class="chips">${s.brk?'<span class="chip brk">🔴 BREAKING</span>':''}<span class="chip">${esc(s.cat||'వార్త')}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
   <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="rt">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div></div>

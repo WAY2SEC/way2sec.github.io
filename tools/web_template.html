@@ -13,10 +13,10 @@
 <meta property="og:site_name" content="Way2Sec News">
 <meta property="og:title" content="Way2Sec – వార్తలు క్షణాల్లో! | Fastest AI News in Telugu">
 <meta property="og:description" content="తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు – తెలంగాణ, దేశం, ప్రపంచం, AI & టెక్, ఉద్యోగాలు.">
-<meta property="og:url" content="https://way2sec.news/web/">
+<meta property="og:url" content="https://way2sec.news/">
 <meta property="og:image" content="https://raw.githubusercontent.com/WAY2SEC/way2sec.github.io/main/og-image.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="canonical" href="https://way2sec.news/web/">
+<link rel="canonical" href="https://way2sec.news/">
 <style>
 @font-face{font-family:'W2S Display';src:url(/tools/fonts/ArchivoBlack-Regular.ttf) format('truetype');font-display:swap}
 :root{
@@ -209,6 +209,8 @@ footer a:hover{color:var(--brand)}
 .ad p{margin:0;font-size:13.5px;color:var(--muted);font-weight:600}
 .ad .go{display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 16px;border-radius:12px;background:var(--brand);color:#fff;font-weight:800;font-size:13.5px}
 .ad .big{font:400 40px/1 var(--display);color:var(--brand)}
+.chip.brk{background:#C8102E;border-color:#fff;animation:brk 1.6s ease-in-out infinite}
+@keyframes brk{50%{box-shadow:0 0 0 6px rgba(255,255,255,.25)}}
 .newpill{position:fixed;top:132px;left:50%;transform:translateX(-50%);z-index:60;border:0;border-radius:999px;padding:11px 20px;background:var(--brand);color:#fff;font:800 14.5px/1 var(--body);box-shadow:0 10px 30px -8px rgba(200,16,46,.6);cursor:pointer;display:inline-flex;align-items:center;gap:10px}
 .newpill i{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.2s infinite}
 @media (prefers-reduced-motion:reduce){.tk .row,.live i,.listen .wave i{animation:none!important}.card{transition:none}}
@@ -219,7 +221,7 @@ footer a:hover{color:var(--brand)}
 <header class="top">
   <div class="wrap">
     <div class="bar">
-      <a class="logo" href="/web/" aria-label="Way2Sec హోమ్"><img class="lk" src="/logo.png" alt="Way2Sec"><img class="lt" src="/logo-light.png" alt=""></a>
+      <a class="logo" href="/" aria-label="Way2Sec హోమ్"><img class="lk" src="/logo.png" alt="Way2Sec"><img class="lt" src="/logo-light.png" alt=""></a>
       <div class="tagl">వార్తలు క్షణాల్లో!<small>Fastest AI News in Telugu</small><small class="te2">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</small></div>
       <label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" type="search" placeholder="వార్తలు వెతకండి… (ఉదా: హైదరాబాద్ వర్షం)" aria-label="వెతకండి"><kbd>/</kbd></label>
       <button class="ib" id="theme" type="button" aria-label="థీమ్ మార్చండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
@@ -286,7 +288,7 @@ footer a:hover{color:var(--brand)}
 <footer>
   <div class="wrap">
     <div><b style="color:var(--ink)">Way2Sec</b> – Fastest AI News in Telugu · సారాంశాలు మా సొంత మాటల్లో; ప్రతి వార్తకు అసలు మూలం పేర్కొన్నాం.</div>
-    <nav><a href="/?cards=1">కార్డులు</a><a href="/?jobs=1">ఉద్యోగాలు</a><a href="/privacy.html">Privacy</a><a href="mailto:way2sec.news@gmail.com">సంప్రదించండి</a></nav>
+    <nav><a href="/about.html">మా గురించి</a><a href="/contact.html">సంప్రదించండి</a><a href="/?cards=1">కార్డులు</a><a href="/?jobs=1">ఉద్యోగాలు</a><a href="/privacy.html">Privacy</a></nav>
   </div>
 </footer>
 
@@ -305,6 +307,8 @@ const link=s=>'/s/'+sid(s);
 const store={get(k,d){try{const v=localStorage.getItem('w2s.'+k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem('w2s.'+k,JSON.stringify(v))}catch(e){}}};
 let ALL=[], JOBS=[], section=new URLSearchParams(location.search).get('sec')||'all';
 
+/* the website lives at way2sec.news itself: hide "/web/" from the address bar */
+try{ sessionStorage.removeItem('w2s.cards'); if(location.pathname.startsWith('/web')) history.replaceState(null,'','/'+location.search+location.hash); }catch(e){}
 /* theme */
 function applyTheme(t){const r=document.documentElement; if(!t||t==='auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme',t);}
 applyTheme((store.get('prefs',{})||{}).theme);
@@ -315,7 +319,7 @@ const te=v=>/[ఀ-౿]/.test(v||'');
 function card(s){
   const col=s.col||'--c-gov';
   return `<a class="card" href="${link(s)}" style="--hl:var(${col});--hlink:var(${col})">
-    <div class="pnl">${art(s)}<span class="chip">${esc(s.cat||'వార్త')}</span><div class="stat${te(s.stat)?' te':''}">${esc(s.stat||'')}</div></div>
+    <div class="pnl">${art(s)}${s.brk?'<span class="chip brk">🔴 BREAKING</span>':`<span class="chip">${esc(s.cat||'వార్త')}</span>`}<div class="stat${te(s.stat)?' te':''}">${esc(s.stat||'')}</div></div>
     <div class="bd"><h3>${esc(s.h)}</h3><div class="m">${esc(s.src||'')} · ${esc(s.d||'')}${s.t?' · '+esc(s.t):''}</div></div></a>`;
 }
 function renderNav(){
@@ -329,7 +333,7 @@ function renderHome(){
   const top=ALL[0]; if(!top) return;
   const col=top.col||'--c-gov';
   const lead=$('lead'); lead.href=link(top); lead.style.cssText=`--hl:var(${col});--hlink:var(${col})`;
-  lead.innerHTML=`<div class="pnl">${art(top)}<span class="chip">${esc(top.cat||'వార్త')}</span><div><div class="stat${te(top.stat)?' te':''}">${esc(top.stat||'')}</div><div class="statl">${esc(top.statl||'')}</div></div></div>
+  lead.innerHTML=`<div class="pnl">${art(top)}<div style="display:flex;gap:8px;flex-wrap:wrap">${top.brk?'<span class="chip brk">🔴 BREAKING</span>':''}<span class="chip">${esc(top.cat||'వార్త')}</span></div><div><div class="stat${te(top.stat)?' te':''}">${esc(top.stat||'')}</div><div class="statl">${esc(top.statl||'')}</div></div></div>
     <div class="txt"><h1>${esc(top.h)}</h1><p>${esc(top.p)}</p>${Array.isArray(top.pts)&&top.pts.length?`<ul class="lpts">${top.pts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}${top.why?`<div class="lwhy"><b>ఇది ఎందుకు ముఖ్యం?</b> ${esc(top.why)}</div>`:''}<div class="meta"><span>Source: ${esc(top.src)}</span><span class="dot"></span><span>${esc(top.d)}${top.t?' · '+esc(top.t):''}</span><span class="dot"></span><span style="color:var(--brand)">పూర్తిగా చదవండి →</span></div></div>`;
   const five=ALL.slice(0,5);
   $('brief').innerHTML=five.map(s=>`<li><a href="${link(s)}">${esc(s.h)}</a></li>`).join('');
@@ -342,7 +346,7 @@ function renderHome(){
     return `<section class="sec"><div class="sh"><h2>${name}</h2><a href="?sec=${k}" data-go="${k}">మరిన్ని →</a></div><div class="grid">${list.map(card).join('')}</div></section>`;
   }).join('');
   $('sections').querySelectorAll('a[data-go]').forEach(a=>a.onclick=e=>{e.preventDefault();section=a.dataset.go;history.pushState(null,'','?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
-  $('tick').innerHTML=(t=>t+t)(ALL.slice(0,10).map(s=>`<a href="${link(s)}"><b>${esc(s.t||'')}</b>${esc(s.h)}</a>`).join(''));
+  $('tick').innerHTML=(t=>t+t)(ALL.slice(0,10).map(s=>`<a href="${link(s)}"><b>${s.brk?'🔴 BREAKING':esc(s.t||'')}</b>${esc(s.h)}</a>`).join(''));
   // districts
   const have=Object.keys(PLACES).filter(k=>ALL.some(s=>s.place===k));
   const keys=have.length?have:Object.keys(PLACES).slice(0,12);
@@ -367,7 +371,7 @@ function renderJobs(){ renderRail();
 }
 function renderList(title,list){
   const r=$('results'); r.hidden=false; $('home').hidden=true;
-  r.innerHTML=`<div class="sh"><h2>${esc(title)}</h2><a href="/web/" id="backHome">← హోమ్</a></div>`+(list.length?`<div class="grid">${list.map(card).join('')}</div>`:'<div class="empty">ఈ విభాగంలో ఇంకా వార్తలు లేవు.</div>');
+  r.innerHTML=`<div class="sh"><h2>${esc(title)}</h2><a href="/" id="backHome">← హోమ్</a></div>`+(list.length?`<div class="grid">${list.map(card).join('')}</div>`:'<div class="empty">ఈ విభాగంలో ఇంకా వార్తలు లేవు.</div>');
   $('backHome').onclick=e=>{e.preventDefault();section='all';$('q').value='';history.pushState(null,'',location.pathname);route();};
 }
 function route(){
@@ -396,12 +400,14 @@ async function load(){
   const [news,idx,jobs]=await Promise.all([getJSON('/news.json'),getJSON('/archive/index.json'),getJSON('/jobs.json')]);
   const days=((idx&&idx.dates)||[]).slice(0,3);
   const arch=await Promise.all(days.map(d=>getJSON(`/archive/${d.iso}.json`)));
-  const seen=new Set(), out=[];
+  const seen=new Set(); let out=[];
   [((news&&news.stories)||[]),...arch.map(a=>(a&&a.stories)||[])].flat().forEach(s=>{const k=sid(s); if(!seen.has(k)){seen.add(k);out.push(s);}});
   out.sort((a,b)=>tsOf(b)-tsOf(a));
+  { const now=Date.now(); const hot=out.filter(s=>s.brk && now-tsOf(s)<6*3600e3); out=hot.concat(out.filter(s=>!hot.includes(s))); }
   ALL=out; JOBS=(jobs&&jobs.jobs)||[];
   renderHome(); renderJobs(); route();
 }
+{ const q0=new URLSearchParams(location.search).get('q'); if(q0) $('q').value=q0; }
 renderNav(); load().then(()=>{ LAST=ALL[0]?sid(ALL[0]):''; });
 /* live: check for new stories every minute; show a "new stories" button instead of jumping the page */
 let LAST='';
