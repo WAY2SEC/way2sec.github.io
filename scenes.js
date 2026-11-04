@@ -309,7 +309,12 @@ function placeLabel(key){
   for(const st in STATE_DISTRICTS){ const d=STATE_DISTRICTS[st].find(x=>x[0]===key); if(d) return d[1]; }
   return '';
 }
+/* stories may carry their own photo (s.img = "photos/…jpg"): shown in the coloured panel instead of the drawing */
+try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;object-position:50% 18%;opacity:1;pointer-events:none}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.55) 0,rgba(0,0,0,.12) 42%,rgba(0,0,0,.72) 100%)}</style>'); }catch(e){}
+function storyPhoto(s){ const p=String((s&&s.img)||''); return /^photos\/[A-Za-z0-9._-]+\.(jpe?g|png|webp)$/.test(p) ? '/'+p : ''; }
 function sceneSVG(s, cls){
+  const ph=storyPhoto(s);
+  if(ph && cls!=='cv' && cls!=='og') return `<img class="ph" src="${ph}" alt="" loading="lazy" decoding="async"><i class="phs"></i>`;
   const k=sceneFor(s); const body=SCENES[k]||SCENES.city;
   const hole = k==='hyderabad' ? `<mask id="m${cls}"><rect width="400" height="200" fill="#fff"/><g fill="#000">${SCENES.hyderabadHole}</g></mask>` : '';
   return `<svg xmlns="http://www.w3.org/2000/svg" class="${cls||'scene'}" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">${hole?`<defs>${hole}</defs><g mask="url(#m${cls})">${body}</g>`:body}</svg>`;
