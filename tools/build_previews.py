@@ -371,7 +371,7 @@ def main():
             sm.append(f"<url><loc>{html.escape(u)}</loc>" + (f"<lastmod>{lm}</lastmod>" if lm else "") + "</url>")
         sm.append("</urlset>")
         with open(os.path.join(ROOT, "web", "sitemap.xml"), "w", encoding="utf-8") as f: f.write("\n".join(sm) + "\n")
-        rb = f"User-agent: *\nAllow: /\nDisallow: /tools/\n\nSitemap: {SITE}/web/sitemap.xml\n"
+        rb = f"User-agent: *\nAllow: /\nDisallow: /tools/\nDisallow: /editor/\nDisallow: /reporter/\n\nSitemap: {SITE}/web/sitemap.xml\n"
         with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f: f.write(rb)
         # website home page (template + the app's card drawings)
         app = open(os.path.join(ROOT, "index.html"), encoding="utf-8").read()
