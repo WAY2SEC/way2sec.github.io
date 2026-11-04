@@ -25,9 +25,10 @@ window.ogImage = async function(s){
   // right: brand bar
   const R=L, RW=W-L;
   x.fillStyle='#12284A'; x.fillRect(R,0,RW,92);
-  x.font=`400 38px ${DI}`; let bx=R+P; x.fillStyle='#fff'; x.fillText('WAY',bx,60); bx+=x.measureText('WAY').width;
-  x.fillStyle='#E8243F'; x.fillText('2',bx,60); bx+=x.measureText('2').width; x.fillStyle='#fff'; x.fillText('SEC',bx,60); bx+=x.measureText('SEC').width+20;
-  x.font=`800 32px ${TE}`; x.fillStyle='#FFD54A'; x.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',bx,60);
+  let bx=R+P;
+  try{ const lg=await loadImg('logo-light.png'); const lh=50, lw=lg.width*lh/lg.height; x.drawImage(lg,bx,(92-lh)/2,lw,lh); bx+=lw+30;
+       x.strokeStyle='rgba(255,255,255,.25)'; x.lineWidth=2; x.beginPath(); x.moveTo(bx-15,22); x.lineTo(bx-15,70); x.stroke(); }catch(e){}
+  x.font=`800 30px ${TE}`; x.fillStyle='#FFD54A'; x.textBaseline='middle'; x.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',bx,48); x.textBaseline='alphabetic';
 
   // headline (shrinks to fit 4 lines)
   let hs=50, hl; do{ x.font=`800 ${hs}px ${TE}`; hl=wrap(x,s.h||'',RW-2*P); if(hl.length<=4) break; hs-=4; }while(hs>32);

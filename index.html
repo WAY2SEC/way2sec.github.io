@@ -110,7 +110,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .pdate{font-size:11.5px;font-weight:700;opacity:.9;white-space:nowrap}
 .stat{font-family:var(--display);font-size:clamp(38px,11vw,56px);line-height:1.05;letter-spacing:-1px}
 .statl{font-size:clamp(14px,4vw,16.5px);font-weight:800;line-height:1.4;max-width:20ch}
-.strip{background:#12284A;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:9px var(--gr) 9px var(--gx)}
+.strip{background:#12284A;color:#fff;display:flex;justify-content:flex-start;align-items:center;gap:12px;padding:9px var(--gr) 9px var(--gx)}
 .sb{display:flex;flex-direction:column;gap:2px;line-height:1.3;min-width:0}
 .sb .l1{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
 .sb .bn{font-family:var(--display);font-size:16px;letter-spacing:1px;color:#fff}
@@ -118,7 +118,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .sb .tg{font-size:15px;font-weight:800;color:#FFD54A}
 .sb .rg{font-size:11px;font-weight:800;color:#D6DEEA}
 .sb .rg span{color:#AFC0D6;font-weight:600}
-.strip img{height:22px;width:auto;display:block;flex-shrink:0}
+@media (max-width:520px){.sb .rg span{display:none}}
+.strip img{height:30px;width:auto;display:block;flex-shrink:0;padding-right:12px;border-right:1px solid rgba(255,255,255,.22)}
 .text{flex:0 0 auto;display:flex;flex-direction:column;gap:8px;padding:12px var(--gr) 8px var(--gx)}
 .text>*{flex-shrink:0}
 .text h2{margin:0;font-size:clamp(18px,5vw,22px);font-weight:800;line-height:1.38;text-wrap:balance;color:var(--hl-ink)}
@@ -507,7 +508,7 @@ function jobHTML(s,i){
     <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?'చివరి తేదీ '+esc(s.last):(s.d?'ప్రచురణ '+esc(s.d):'')}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">జాబ్స్ – ఉద్యోగ సమాచారం</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు</span></span></div><img src="logo-light.png" alt="Way2Sec"></div>
+  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">జాబ్స్ – ఉద్యోగ సమాచారం</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు</span></span></div></div>
   <div class="text">
     <h2>${esc(s.h)}</h2>
     ${left?`<span class="left${dl<=3?' urg':''}">${left}</span>`:''}
@@ -531,7 +532,7 @@ function cardHTML(s,i){
     <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat||'వార్త')}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><div class="sb"><div class="l1"><span class="bn">WAY<i>2</i>SEC</span><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></span></div><img src="logo-light.png" alt="Way2Sec"></div>
+  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></span></div></div>
   <div class="text">
     <h2>${esc(s.h)}</h2>
     <p class="sum">${esc(s.p)}</p>
@@ -673,14 +674,15 @@ async function cardImage(s){
   while(ctx.measureText(s.stat||'').width>W-2*P-20 && ss>56){ ss-=8; setF(); }
   ctx.fillText(s.stat||'',P,y-60-(teStat?Math.round(ss*0.42):0));
   ctx.font=`800 40px ${TE}`; sl.forEach((t,k)=>ctx.fillText(t,P,y+k*54));
-  // brand strip
+  // brand strip: full logo on the left, then the tagline
   let yy=PANEL; ctx.fillStyle='#12284A'; ctx.fillRect(0,yy,W,STRIP);
-  ctx.font=`400 40px ${DI}`; ctx.fillStyle='#fff'; ctx.fillText('WAY',P,yy+62); let x=P+ctx.measureText('WAY').width;
-  ctx.fillStyle='#E8243F'; ctx.fillText('2',x,yy+62); x+=ctx.measureText('2').width; ctx.fillStyle='#fff'; ctx.fillText('SEC',x,yy+62); x+=ctx.measureText('SEC').width+22;
-  ctx.font=`800 38px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText('వార్తలు క్షణాల్లో!',x,yy+62);
-  ctx.font=`800 27px ${TE}`; ctx.fillStyle='#D6DEEA'; ctx.fillText('Fastest AI News in Telugu',P,yy+112);
-  x=P+ctx.measureText('Fastest AI News in Telugu').width; ctx.font=`600 27px ${TE}`; ctx.fillStyle='#AFC0D6'; ctx.fillText(' · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు',x,yy+112);
-  try{ const lg=await loadImg('logo-light.png'); const lh=52, lw=lg.width*lh/lg.height; if(x+ctx.measureText(' · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు').width < W-P-lw-20) ctx.drawImage(lg,W-P-lw,yy+(STRIP-lh)/2,lw,lh); }catch(e){}
+  let x=P;
+  try{ const lg=await loadImg('logo-light.png'); const lh=64, lw=lg.width*lh/lg.height; ctx.drawImage(lg,P,yy+(STRIP-lh)/2,lw,lh); x=P+lw+28;
+       ctx.strokeStyle='rgba(255,255,255,.22)'; ctx.lineWidth=2; ctx.beginPath(); ctx.moveTo(x-14,yy+30); ctx.lineTo(x-14,yy+STRIP-30); ctx.stroke(); }catch(e){}
+  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',x,yy+66);
+  ctx.font=`800 26px ${TE}`; ctx.fillStyle='#D6DEEA'; const rg1='Fastest AI News in Telugu'; ctx.fillText(rg1,x,yy+110);
+  const x2=x+ctx.measureText(rg1).width; ctx.font=`600 26px ${TE}`; ctx.fillStyle='#AFC0D6'; const rg2=' · తెలుగులో వేగంగా వార్తలు';
+  if(x2+ctx.measureText(rg2).width < W-P) ctx.fillText(rg2,x2,yy+110);
   // text
   yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
   yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
