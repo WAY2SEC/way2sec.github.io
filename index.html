@@ -110,6 +110,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
 .story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
+#homeLogo{display:flex;align-items:center;-webkit-tap-highlight-color:transparent}
+.sh-head .logo{cursor:pointer}
 .feed{perspective:1700px}
 .story{backface-visibility:hidden;-webkit-backface-visibility:hidden;background-image:var(--grain,none)}
 .story .pshade{position:absolute;inset:0;pointer-events:none;z-index:40;opacity:0}
@@ -260,7 +262,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 <body>
 <div class="shell">
   <header>
-    <img class="logo" src="logo.png" alt="Way2Sec">
+    <a href="/?cards=1" id="homeLogo" aria-label="Way2Sec హోమ్ – మొదటి వార్త"><img class="logo" src="logo.png" alt="Way2Sec"></a>
     <button class="place" id="placeBtn" type="button" aria-label="ప్రాంతం మార్చండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><span id="placeName">తెలంగాణ</span></button>
     <button class="icon bell" id="bellBtn" type="button" aria-label="వార్తల అలర్ట్‌లు" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.9 1.9 0 0 0 3.4 0"/></svg></button>
     <button class="icon" id="setBtn" type="button" aria-label="సెట్టింగ్స్"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
@@ -372,7 +374,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
       <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.16 · Way2Sec</p>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.17 · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
@@ -999,6 +1001,13 @@ async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   if(viaWA){ const u='https://wa.me/?text='+encodeURIComponent(text); const w=window.open(u,'_blank'); if(!w) location.href=u; }
   else share(text);
 }
+/* Way2Sec logo = home: close any open screen and show the newest stories from the start */
+function goHome(e){ if(e) e.preventDefault();
+  document.querySelectorAll('.sheet').forEach(s=>s.hidden=true);
+  ['imgShare','crChoice','waCopy','capBar'].forEach(id=>{ const x=document.getElementById(id); if(x) x.hidden=true; });
+  DAY=null; section='all'; JUMP=null; setView('home'); scrollTo(0,0); }
+$('homeLogo').onclick=goHome;
+document.querySelectorAll('.sh-head .logo').forEach(l=>{ l.setAttribute('role','link'); l.setAttribute('title','హోమ్'); l.onclick=()=>goHome(); });
 $('shareBtn').onclick=()=>shareCard(false);
 $('waBtn').onclick=()=>shareCard(true);
 $('shareApp').onclick=()=>share(`Way2Sec – Fastest AI News in Telugu 📲\nతెలుగులో వేగంగా, క్లుప్తంగా వార్తలు: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
