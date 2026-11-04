@@ -1,8 +1,107 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 35,
+ "count": 37,
  "stories": [
+  {
+   "cat": "ఏపీ · తుపాను నష్టం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "₹344 కోట్లు",
+   "statl": "మురసు తుపాను ప్రాథమిక నష్టం అంచనా",
+   "h": "మురసు తుపాను: ఏపీలో ₹344 కోట్ల నష్టం, 52 వేల హెక్టార్లలో పంటలు దెబ్బ",
+   "p": "మురసు తుపాను వల్ల ఆంధ్రప్రదేశ్‌లో సుమారు ₹344 కోట్ల నష్టం జరిగినట్లు ప్రాథమిక అంచనా. 52,459 హెక్టార్లలో పంటలు దెబ్బతిన్నాయి, 312 ఇళ్లు ధ్వంసమయ్యాయి. 12,230 మందిని పునరావాస కేంద్రాలకు తరలించారు. ప్రకాశం, బాపట్ల జిల్లాల్లో ఎక్కువ నష్టం నమోదైంది. సీఎం చంద్రబాబు పరిస్థితిని సమీక్షించి కేంద్ర హోంమంత్రి అమిత్ షాకు వివరించి సాయం కోరారు. ఈ లెక్కలు మారవచ్చని అధికారులు తెలిపారు.",
+   "src": "Dainik Jagran",
+   "url": "https://english.dainikjagranmpcg.com/national/cyclone-murasu-weakens-after-andhra-pradesh-landfall-two-dead-damage/article-42768",
+   "sec": [
+    "telangana",
+    "weather",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "52,459 హెక్టార్లలో పంటలకు నష్టం",
+    "312 ఇళ్లు దెబ్బతిన్నాయి; 12,230 మంది శిబిరాల్లో",
+    "ప్రకాశం, బాపట్ల జిల్లాల్లో ఎక్కువ నష్టం"
+   ],
+   "why": "పంటలు, ఇళ్లు కోల్పోయిన రైతులు, తీర ప్రాంత కుటుంబాలకు సహాయ చర్యలు ఈ అంచనాపై ఆధారపడతాయి.",
+   "en": {
+    "h": "Cyclone Murasu: ₹344 crore loss in AP, crops hit on 52,000 hectares",
+    "p": "Cyclone Murasu caused damage of about ₹344 crore in Andhra Pradesh, according to a preliminary estimate. Crops on 52,459 hectares were affected and 312 houses were damaged. 12,230 people were moved to relief shelters. Prakasam and Bapatla districts reported the most damage. CM Chandrababu Naidu reviewed the situation, briefed Union Home Minister Amit Shah and sought assistance. Officials said the figures may change.",
+    "pts": [
+     "Crops damaged on 52,459 hectares",
+     "312 houses damaged; 12,230 people in shelters",
+     "Prakasam and Bapatla districts worst hit"
+    ],
+    "why": "Relief for farmers and coastal families who lost crops and homes will depend on this estimate.",
+    "cat": "AP · Cyclone damage",
+    "statl": "Preliminary damage estimate of Cyclone Murasu"
+   },
+   "hi": {
+    "h": "चक्रवात मुरासु: आंध्र में ₹344 करोड़ का नुकसान, 52 हजार हेक्टेयर फसलें प्रभावित",
+    "p": "प्रारंभिक अनुमान के अनुसार चक्रवात मुरासु से आंध्र प्रदेश में लगभग ₹344 करोड़ का नुकसान हुआ है। 52,459 हेक्टेयर में फसलें प्रभावित हुईं और 312 घर क्षतिग्रस्त हुए। 12,230 लोगों को राहत शिविरों में पहुंचाया गया। प्रकाशम और बापटला जिलों में सबसे ज्यादा नुकसान दर्ज हुआ। मुख्यमंत्री चंद्रबाबू नायडू ने स्थिति की समीक्षा कर केंद्रीय गृह मंत्री अमित शाह को जानकारी दी और मदद मांगी। अधिकारियों ने कहा कि ये आंकड़े बदल सकते हैं।",
+    "pts": [
+     "52,459 हेक्टेयर में फसलों को नुकसान",
+     "312 घर क्षतिग्रस्त; 12,230 लोग शिविरों में",
+     "प्रकाशम और बापटला जिले सबसे ज्यादा प्रभावित"
+    ],
+    "why": "फसल और घर गंवाने वाले किसानों व तटीय परिवारों की राहत इसी अनुमान पर निर्भर करेगी।",
+    "cat": "आंध्र प्रदेश · चक्रवात नुकसान",
+    "statl": "चक्रवात मुरासु से नुकसान का प्रारंभिक अनुमान"
+   },
+   "d": "04.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "20 జనవరి",
+   "statl": "హైకోర్టులో తదుపరి విచారణ తేదీ",
+   "h": "హైడ్రా కమిషనర్ రంగనాథ్‌కు ఊరట: సింగిల్ జడ్జి ఉత్తర్వుపై స్టే కొనసాగింపు",
+   "p": "హైడ్రా కమిషనర్ రంగనాథ్‌ను బాధ్యతల నుంచి తప్పించాలన్న సింగిల్ జడ్జి ఉత్తర్వుపై ఇచ్చిన మధ్యంతర స్టేను తెలంగాణ హైకోర్టు డివిజన్ బెంచ్ కొనసాగించింది. మల్కాజిగిరి మండలం లోతుకుంటలోని వివాదాస్పద భూమిపై స్టేటస్ కో పాటించాలన్న ఆదేశాలను కూడా పక్కనపెట్టింది. ఓ నిర్మాణ సంస్థ వేసిన కోర్టు ధిక్కార కేసులో ఈ విచారణ జరిగింది. తదుపరి విచారణను 2027 జనవరి 20కి వాయిదా వేసింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-high-court-continues-stay-on-order-to-relieve-hydraa-chief",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medchal",
+   "loc": "లోతుకుంట",
+   "pts": [
+    "జస్టిస్ మౌసుమి భట్టాచార్య, జస్టిస్ రేణుక యారా ధర్మాసనం",
+    "లోతుకుంట భూమిపై స్టేటస్ కో ఆదేశాలు పక్కకు",
+    "తదుపరి విచారణ 2027 జనవరి 20న"
+   ],
+   "why": "హైదరాబాద్‌లో చెరువులు, ప్రభుత్వ భూముల రక్షణకు పనిచేస్తున్న హైడ్రా కార్యకలాపాలపై ఈ తీర్పు ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Relief for HYDRAA chief Ranganath: HC continues stay on single judge's order",
+    "p": "A Division Bench of the Telangana High Court continued its interim stay on a single judge's order to relieve HYDRAA Commissioner Ranganath of his duties. It also set aside directions to maintain status quo over disputed land at Lothukunta in Malkajgiri mandal. The hearing was in a contempt case filed by a construction company. The next hearing was adjourned to January 20, 2027.",
+    "pts": [
+     "Bench of Justices Moushumi Bhattacharya and Renuka Yara",
+     "Status quo directions on Lothukunta land set aside",
+     "Next hearing on January 20, 2027"
+    ],
+    "why": "The ruling affects the work of HYDRAA, which protects lakes and government land in Hyderabad.",
+    "cat": "Telangana · High Court",
+    "statl": "Next hearing date in High Court"
+   },
+   "hi": {
+    "h": "हाइड्रा प्रमुख रंगनाथ को राहत: एकल न्यायाधीश के आदेश पर हाईकोर्ट की रोक जारी",
+    "p": "तेलंगाना हाईकोर्ट की खंडपीठ ने हाइड्रा कमिश्नर रंगनाथ को जिम्मेदारी से हटाने के एकल न्यायाधीश के आदेश पर लगी अंतरिम रोक जारी रखी। खंडपीठ ने मलकाजगिरी मंडल के लोतुकुंटा में विवादित जमीन पर यथास्थिति बनाए रखने के निर्देश भी रद्द कर दिए। यह सुनवाई एक निर्माण कंपनी द्वारा दायर अवमानना मामले में हुई। अगली सुनवाई 20 जनवरी 2027 तक स्थगित की गई।",
+    "pts": [
+     "जस्टिस मौसुमी भट्टाचार्य और जस्टिस रेणुका यारा की पीठ",
+     "लोतुकुंटा जमीन पर यथास्थिति के निर्देश रद्द",
+     "अगली सुनवाई 20 जनवरी 2027 को"
+    ],
+    "why": "यह फैसला हैदराबाद में झीलों और सरकारी जमीन की रक्षा करने वाली हाइड्रा के काम पर असर डालता है।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "हाईकोर्ट में अगली सुनवाई की तारीख"
+   },
+   "d": "04.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "తెలంగాణ · ఆర్టీసీ",
    "col": "--c-gov",
