@@ -887,7 +887,7 @@ function chromeChoice(s,text,viaWA){
       +'<b style="font:800 17px/1.4 var(--body)">ఎలా పంపాలి?</b>'
       +'<button type="button" id="crPic" class="btn" style="background:#1DA851;justify-content:center">📷 పూర్తి కార్డ్ చిత్రంగా పంపండి</button>'
       +'<small id="crWhy" style="color:var(--muted,#6B5F52);font:600 12.5px/1.5 var(--body)"></small>'
-      +'<button type="button" id="crLink" class="btn" style="justify-content:center">🔗 లింక్ మాత్రమే పంపండి</button>'
+      +'<button type="button" id="crLink" class="btn" style="justify-content:center">🔗 లింక్ కాపీ చేయండి</button>'
       +'<button type="button" id="crNo" class="btn" style="background:transparent;color:inherit;box-shadow:none;justify-content:center">వద్దు</button></div>';
     document.body.appendChild(o);
     o.addEventListener('click',e=>{ if(e.target===o||e.target.id==='crNo') o.hidden=true; });
@@ -895,9 +895,10 @@ function chromeChoice(s,text,viaWA){
   $('crWhy').textContent=(CRIOS?'iPhone లో Chrome':'హోమ్ స్క్రీన్ యాప్')+' నుంచి చిత్రాలు పంపడం iPhone అనుమతించదు – ఈ వార్త Safari లో తెరుచుకుంటుంది, అక్కడ “📤 షేర్” ఒక్కసారి నొక్కండి.';
   $('crPic').onclick=()=>{ o.hidden=true; const l=LG();
     location.href='x-safari-https://way2sec.news/?cards=1&sharecard=1&s='+sid(s)+(s.kind==='job'?'&jobs=1':'')+(l!=='te'?'&l='+l:''); };
-  $('crLink').onclick=async()=>{ o.hidden=true;
-    if(!viaWA && navigator.share){ try{ await navigator.share({text}); return; }catch(e){ if(e&&e.name==='AbortError') return; } }
-    openWA(text); };
+  $('crLink').onclick=async()=>{ o.hidden=true; // just copy this story's link – the reader pastes it in the WhatsApp they want
+    const link=storyLink(s);
+    if(await copyText(link)){ toast('🔗 లింక్ కాపీ అయింది ✅ WhatsApp తెరిచి Paste చేయండి'); return; }
+    openWA(link); };
   o.hidden=false;
 }
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
