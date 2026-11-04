@@ -139,7 +139,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <meta property="og:image" content="{e(img.replace(IMG, SITE))}"><meta property="og:image:secure_url" content="{e(img.replace(IMG, SITE))}"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image" content="{e(img)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{e(img)}">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://www.googletagmanager.com/gtag/js?id=G-2179H3TXWP"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-2179H3TXWP');</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>{tr_json}
 <style>{sh["css"]}{ARTICLE_CSS}</style>
 </head><body>
@@ -252,7 +252,7 @@ def static_page(title, desc, body):
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png"><link rel="manifest" href="/manifest.webmanifest">
-<meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://www.googletagmanager.com/gtag/js?id=G-2179H3TXWP"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-2179H3TXWP');</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
 <meta property="og:title" content="{e(title)}"><meta property="og:image" content="{IMG}/og-image.jpg">
 <style>{sh["css"]}{ARTICLE_CSS}.ar .in h2{{font-size:22px;margin:26px 0 10px}}.ar .in p{{line-height:1.85}}
 .ab-hero{{margin:-26px -32px 24px;padding:44px 32px 40px;color:#fff;background:radial-gradient(120% 140% at 100% 0%,#3B2A7A 0,#1A2C55 45%,#0B1A33 100%);position:relative;overflow:hidden}}

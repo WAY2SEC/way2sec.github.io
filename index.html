@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="te">
 <head>
-<meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://www.googletagmanager.com/gtag/js?id=G-2179H3TXWP"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-2179H3TXWP');</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
 <meta charset="utf-8">
 <script>
 /* Laptops and desktops get the news website; phones, tablets and the installed app keep the swipe cards */
@@ -688,6 +688,7 @@ function go(i,dir,from){
   else { out.style.zIndex='1'; inn.style.zIndex='3'; bend(inn, from==null?1:from, axis);
     turn(inn, from==null?1:from, 0, axis, ()=>{ out.hidden=true; unbend(out); unbend(inn); busy=false; }); }
   cur=i; setCount(cur+1,cards.length); syncSave();
+  try{ const s=LIST[cur]; if(s && window.gtag) gtag('event','story_view',{story_id:sid(s), story_title:String(s.h||'').slice(0,90), kind:s.kind||'news'}); }catch(e){}
 }
 let DR=null; // the page being bent by the finger
 function snapBack(){ const d=DR; DR=null; const c=cards[cur]; if(!d){ if(c) unbend(c); return; }
