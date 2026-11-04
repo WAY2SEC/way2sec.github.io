@@ -310,11 +310,22 @@ function placeLabel(key){
   return '';
 }
 /* stories may carry their own photo (s.img = "photos/…jpg"): shown in the coloured panel instead of the drawing */
-try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;object-position:50% 18%;opacity:1;pointer-events:none}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.55) 0,rgba(0,0,0,.12) 42%,rgba(0,0,0,.72) 100%)}</style>'); }catch(e){}
+try{ if(typeof document!=='undefined' && !document.getElementById('w2sPhCss')) document.head.insertAdjacentHTML('beforeend','<style id="w2sPhCss">img.ph{position:absolute!important;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;opacity:1;pointer-events:none}i.phs{position:absolute!important;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(0,0,0,.55) 0,rgba(0,0,0,.12) 42%,rgba(0,0,0,.72) 100%)}</style>'); }catch(e){}
+function photoFocus(s){ const f=parseFloat(s&&s.imgfy); return f>=0&&f<=1?f:0.3; }
 function storyPhoto(s){ const p=String((s&&s.img)||''); return /^photos\/[A-Za-z0-9._-]+\.(jpe?g|png|webp)$/.test(p) ? '/'+p : ''; }
+/* draws the story photo into a canvas box (cover crop, faces kept in view) with a dark shade for the text; false if none */
+async function drawStoryPhoto(ctx,s,x,y,w,h){
+  const src=storyPhoto(s); if(!src) return false;
+  try{ const im=await new Promise((ok,no)=>{const i=new Image();i.onload=()=>ok(i);i.onerror=no;i.src=src;});
+    const sc=Math.max(w/im.width,h/im.height), dw=im.width*sc, dh=im.height*sc;
+    ctx.save(); ctx.beginPath(); ctx.rect(x,y,w,h); ctx.clip();
+    const fy=photoFocus(s), top=Math.min(0,Math.max(h-dh,h*0.4-fy*dh)); ctx.drawImage(im,x+(w-dw)/2,y+top,dw,dh);
+    const g=ctx.createLinearGradient(0,y,0,y+h); g.addColorStop(0,'rgba(0,0,0,.55)'); g.addColorStop(.42,'rgba(0,0,0,.12)'); g.addColorStop(1,'rgba(0,0,0,.72)');
+    ctx.fillStyle=g; ctx.fillRect(x,y,w,h); ctx.restore(); return true; }catch(e){ return false; }
+}
 function sceneSVG(s, cls){
   const ph=storyPhoto(s);
-  if(ph && cls!=='cv' && cls!=='og') return `<img class="ph" src="${ph}" alt="" loading="lazy" decoding="async"><i class="phs"></i>`;
+  if(ph && cls!=='cv' && cls!=='og') return `<img class="ph" style="object-position:50% ${Math.round(photoFocus(s)*100)}%" src="${ph}" alt="" loading="lazy" decoding="async"><i class="phs"></i>`;
   const k=sceneFor(s); const body=SCENES[k]||SCENES.city;
   const hole = k==='hyderabad' ? `<mask id="m${cls}"><rect width="400" height="200" fill="#fff"/><g fill="#000">${SCENES.hyderabadHole}</g></mask>` : '';
   return `<svg xmlns="http://www.w3.org/2000/svg" class="${cls||'scene'}" viewBox="0 0 400 200" preserveAspectRatio="xMidYMax meet" fill="#fff" aria-hidden="true">${hole?`<defs>${hole}</defs><g mask="url(#m${cls})">${body}</g>`:body}</svg>`;
