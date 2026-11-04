@@ -110,7 +110,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
 .story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
-#imgShare[hidden],#crChoice[hidden],#capBar[hidden]{display:none!important}
+[hidden]{display:none!important} /* every popup closes, even ones with their own display style */
 .story.drag{transition:none}
 .panel{position:relative;flex:1 1 auto;min-height:150px;max-height:34%;color:#fff;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px var(--gr) 14px var(--gx);background:var(--hl)}
 .panel svg.scene{position:absolute;left:0;right:0;bottom:0;width:100%;height:82%;opacity:.27;pointer-events:none}
@@ -364,7 +364,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
       <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.14 · Way2Sec</p>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.15 · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
