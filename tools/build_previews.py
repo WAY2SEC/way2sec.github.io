@@ -39,7 +39,6 @@ def page(sid, title, desc, img, target):
 <meta property="og:url" content="{SITE}/s/{sid}">
 <meta property="og:image" content="{e(img)}"><meta property="og:image:secure_url" content="{e(img)}"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{e(img)}">
-<link rel="canonical" href="{SITE}{e(target)}">
 <script>location.replace({json.dumps(target)})</script>
 <style>body{{margin:0;font:16px system-ui;background:#12284A;color:#fff;display:grid;place-items:center;min-height:100vh}}a{{color:#FFD54A}}</style>
 </head><body><a href="{e(target)}">Way2Sec లో చదవండి →</a></body></html>
