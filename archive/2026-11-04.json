@@ -1,8 +1,155 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 63,
+ "count": 66,
  "stories": [
+  {
+   "cat": "తెలంగాణ · కేబినెట్",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "నవంబర్ 5",
+   "statl": "సాయంత్రం 4 గంటలకు కేబినెట్ భేటీ",
+   "h": "రేపు తెలంగాణ కేబినెట్ భేటీ: గ్లోబల్ సమ్మిట్ ఏర్పాట్లకే ప్రాధాన్యం",
+   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి అధ్యక్షతన గురువారం సాయంత్రం 4 గంటలకు సచివాలయంలో రాష్ట్ర మంత్రివర్గం సమావేశం కానుంది. దానికి ముందు 3 గంటలకు మంత్రులతో అనధికార భేటీ జరుగుతుంది. ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్ 2026 ఏర్పాట్లు ప్రధాన అజెండాగా ఉన్నాయి. కొన్ని ముసాయిదా బిల్లులు, సంక్షేమ పథకాలు, ఉద్యోగ నియామకాలు, పరిశ్రమలకు భూకేటాయింపులపైనా చర్చించే అవకాశం ఉంది. కరవుపైనా చర్చిస్తామని అధికారులు చెప్పారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-cabinet-to-prioritise-global-summit-amid-drought-concerns",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గురువారం సాయంత్రం 4కు సచివాలయంలో కేబినెట్ సమావేశం",
+    "ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్ ఏర్పాట్లే ప్రధాన అజెండా",
+    "ముసాయిదా బిల్లులు, నియామకాలు, భూకేటాయింపులపై చర్చ అవకాశం"
+   ],
+   "why": "కేబినెట్ నిర్ణయాలు ఉద్యోగ నియామకాలు, సంక్షేమ పథకాలు, కొత్త పెట్టుబడులపై ప్రభావం చూపుతాయి.",
+   "en": {
+    "h": "Telangana Cabinet meets tomorrow; Global Summit preparations top agenda",
+    "p": "The Telangana Cabinet, chaired by Chief Minister Revanth Reddy, will meet at the Secretariat at 4 pm on Thursday, preceded by an informal meeting with ministers at 3 pm. Preparations for the Invest Telangana Global Summit 2026 are the main agenda. Some draft bills, welfare schemes, recruitment and land allotment for industries may also be discussed. Officials said drought will also be discussed.",
+    "pts": [
+     "Cabinet meets at the Secretariat at 4 pm Thursday",
+     "Invest Telangana Global Summit preparations top the agenda",
+     "Draft bills, recruitment, land allotment likely to be discussed"
+    ],
+    "why": "Cabinet decisions affect recruitment, welfare schemes and new investments in the state.",
+    "cat": "Telangana · Cabinet",
+    "statl": "Cabinet meeting at 4 pm"
+   },
+   "hi": {
+    "h": "कल तेलंगाना कैबिनेट बैठक: ग्लोबल समिट की तैयारी को प्राथमिकता",
+    "p": "मुख्यमंत्री रेवंत रेड्डी की अध्यक्षता में गुरुवार शाम 4 बजे सचिवालय में राज्य मंत्रिमंडल की बैठक होगी। इससे पहले 3 बजे मंत्रियों के साथ अनौपचारिक बैठक होगी। इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 की तैयारी मुख्य एजेंडा है। कुछ मसौदा विधेयकों, कल्याण योजनाओं, भर्तियों और उद्योगों के लिए भूमि आवंटन पर भी चर्चा हो सकती है। अधिकारियों ने कहा कि सूखे पर भी चर्चा होगी।",
+    "pts": [
+     "गुरुवार शाम 4 बजे सचिवालय में कैबिनेट बैठक",
+     "इन्वेस्ट तेलंगाना ग्लोबल समिट की तैयारी मुख्य एजेंडा",
+     "मसौदा विधेयक, भर्ती, भूमि आवंटन पर चर्चा संभव"
+    ],
+    "why": "कैबिनेट के फैसले भर्तियों, कल्याण योजनाओं और नए निवेश पर असर डालते हैं।",
+    "cat": "तेलंगाना · कैबिनेट",
+    "statl": "शाम 4 बजे कैबिनेट बैठक"
+   },
+   "d": "04.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "256/435",
+   "statl": "హౌస్‌లో డెమొక్రాట్ల సీట్లు (అంచనా)",
+   "h": "అమెరికా మధ్యంతరం: హౌస్, సెనేట్ రెండూ డెమొక్రాట్ల వశం",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్లు కాంగ్రెస్ ఉభయ సభలపై పట్టు సాధించారు. ఎన్‌బీసీ న్యూస్ అంచనాల ప్రకారం 435 సీట్ల ప్రతినిధుల సభలో వారికి సుమారు 256 సీట్లు, 100 సీట్ల సెనేట్‌లో కనీసం 54 సీట్లు దక్కాయి. ఇది అధ్యక్షుడు ట్రంప్‌కు పెద్ద ఎదురుదెబ్బ. డెమొక్రాట్లతో కలిసి పనిచేస్తామని ట్రంప్ అన్నారు.",
+   "src": "Telangana Today (IANS)",
+   "url": "https://telanganatoday.com/us-midterm-elections-democrats-seize-control-of-house-and-senate-deal-blow-to-trump",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "హౌస్‌లో డెమొక్రాట్లకు సుమారు 256 సీట్లు (ఎన్‌బీసీ అంచనా)",
+    "సెనేట్‌లో కనీసం 54 సీట్లు డెమొక్రాట్లకు",
+    "డెమొక్రాట్లతో కలిసి పనిచేస్తామన్న ట్రంప్"
+   ],
+   "why": "అమెరికా చట్టసభల నియంత్రణ మారడం వీసాలు, వాణిజ్య విధానాలపై చర్చను ప్రభావితం చేయవచ్చు; అక్కడి తెలుగువారు గమనిస్తున్నారు.",
+   "en": {
+    "h": "US midterms: Democrats win control of both House and Senate",
+    "p": "Democrats have won control of both chambers of the US Congress in the midterm elections. According to NBC News projections, they have about 256 seats in the 435-member House and at least 54 seats in the 100-member Senate. This is a major setback for President Trump. Trump said he would work with the Democrats.",
+    "pts": [
+     "Democrats have about 256 House seats (NBC projection)",
+     "Democrats win at least 54 Senate seats",
+     "Trump says he will work with Democrats"
+    ],
+    "why": "A change in control of the US Congress may shape debates on visas and trade policy; Telugu people there are watching.",
+    "cat": "World · USA",
+    "statl": "Democrat House seats (projected)"
+   },
+   "hi": {
+    "h": "अमेरिका मध्यावधि चुनाव: हाउस और सीनेट दोनों डेमोक्रेट्स के हाथ",
+    "p": "अमेरिका के मध्यावधि चुनावों में डेमोक्रेट्स ने कांग्रेस के दोनों सदनों पर नियंत्रण हासिल कर लिया है। एनबीसी न्यूज़ के अनुमान के अनुसार 435 सदस्यीय प्रतिनिधि सभा में उन्हें लगभग 256 सीटें और 100 सदस्यीय सीनेट में कम से कम 54 सीटें मिली हैं। यह राष्ट्रपति ट्रंप के लिए बड़ा झटका है। ट्रंप ने कहा कि वे डेमोक्रेट्स के साथ मिलकर काम करेंगे।",
+    "pts": [
+     "हाउस में डेमोक्रेट्स को लगभग 256 सीटें (एनबीसी अनुमान)",
+     "सीनेट में डेमोक्रेट्स को कम से कम 54 सीटें",
+     "ट्रंप ने कहा, डेमोक्रेट्स के साथ काम करेंगे"
+    ],
+    "why": "अमेरिकी संसद का नियंत्रण बदलने से वीज़ा और व्यापार नीतियों पर बहस प्रभावित हो सकती है; वहां रहने वाले तेलुगु लोग नज़र रखे हुए हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "हाउस में डेमोक्रेट सीटें (अनुमान)"
+   },
+   "d": "04.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "తెలంగాణ · గల్ఫ్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "12 ఏళ్లు",
+   "statl": "సౌదీలో పనిచేసిన కాలం",
+   "h": "రియాద్ విమానాశ్రయ దాడి మృతుడు: కామారెడ్డి యువకుడికి సౌదీలోనే అంత్యక్రియలు",
+   "p": "అక్టోబర్ 10న రియాద్ విమానాశ్రయంపై జరిగిన దాడిలో తీవ్రంగా గాయపడి మంగళవారం మరణించిన కామారెడ్డికి చెందిన 36 ఏళ్ల యువకుడిని సౌదీ అరేబియాలోనే ఖననం చేయనున్నారు. రియాద్‌లోనే ఉన్న అతని సోదరుడు ఈ విషయం ధ్రువీకరించారని ఓ సామాజిక కార్యకర్త తెలిపారు. ఆయన సుమారు 12 ఏళ్లుగా విమానాశ్రయంలోని ఓ కాఫీ దుకాణంలో పనిచేస్తున్నారు. రియాద్‌లోని భారత రాయబార కార్యాలయం బుధవారం సంతాపం తెలిపింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/riyadh-airport-attack-kamareddy-man-to-be-buried-in-saudi-3569674/",
+   "sec": [
+    "telangana",
+    "world"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "loc": "కామారెడ్డి",
+   "pts": [
+    "అక్టోబర్ 10 దాడిలో గాయపడి మంగళవారం మృతి",
+    "సౌదీలోనే ఖననం చేయాలని కుటుంబ నిర్ణయం",
+    "భారత రాయబార కార్యాలయం సంతాపం, సహాయానికి సంసిద్ధత"
+   ],
+   "why": "గల్ఫ్ దేశాల్లో పనిచేస్తున్న తెలంగాణ కార్మికుల కుటుంబాలకు ఈ ఘటన ఆందోళన కలిగిస్తోంది.",
+   "en": {
+    "h": "Riyadh airport attack victim from Kamareddy to be buried in Saudi Arabia",
+    "p": "A 36-year-old man from Kamareddy, who was critically injured in the October 10 attack on Riyadh airport and died on Tuesday, will be buried in Saudi Arabia. A social worker said his brother, who is also in Riyadh, confirmed this. He had worked at a coffee outlet at the airport for about 12 years. The Indian Embassy in Riyadh expressed condolences on Wednesday.",
+    "pts": [
+     "Injured in October 10 attack, died on Tuesday",
+     "Family decides on burial in Saudi Arabia",
+     "Indian Embassy offers condolences and help"
+    ],
+    "why": "The incident worries families of Telangana workers employed in Gulf countries.",
+    "cat": "Telangana · Gulf",
+    "statl": "Years worked in Saudi"
+   },
+   "hi": {
+    "h": "रियाद हवाई अड्डा हमला: कामारेड्डी के युवक को सऊदी में ही दफनाया जाएगा",
+    "p": "10 अक्टूबर को रियाद हवाई अड्डे पर हुए हमले में गंभीर रूप से घायल होकर मंगलवार को दम तोड़ने वाले कामारेड्डी के 36 वर्षीय युवक को सऊदी अरब में ही दफनाया जाएगा। एक सामाजिक कार्यकर्ता ने बताया कि रियाद में मौजूद उनके भाई ने इसकी पुष्टि की। वे करीब 12 साल से हवाई अड्डे पर एक कॉफी दुकान में काम कर रहे थे। रियाद स्थित भारतीय दूतावास ने बुधवार को शोक जताया।",
+    "pts": [
+     "10 अक्टूबर के हमले में घायल, मंगलवार को मौत",
+     "परिवार ने सऊदी में दफनाने का फैसला किया",
+     "भारतीय दूतावास ने शोक जताया, मदद की पेशकश"
+    ],
+    "why": "यह घटना खाड़ी देशों में काम करने वाले तेलंगाना के मज़दूरों के परिवारों को चिंतित करती है।",
+    "cat": "तेलंगाना · खाड़ी",
+    "statl": "सऊदी में काम के साल"
+   },
+   "d": "04.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "భారత్ · మార్కెట్లు",
    "col": "--c-money",
