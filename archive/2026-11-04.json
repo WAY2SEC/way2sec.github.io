@@ -1,8 +1,203 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 31,
+ "count": 35,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "₹10 లక్షలు",
+   "statl": "కండక్టర్ కుటుంబానికి ఎక్స్‌గ్రేషియా",
+   "h": "కండక్టర్ ప్రవళిక కుటుంబానికి ₹10 లక్షలు, తల్లికి ప్రభుత్వ ఉద్యోగం: మంత్రి పొన్నం",
+   "p": "కదులుతున్న బస్సు నుంచి తోసివేతకు గురై మరణించిన ఆర్టీసీ మహిళా కండక్టర్ ప్రవళిక మృతిపై రవాణా మంత్రి పొన్నం ప్రభాకర్ సంతాపం తెలిపారు. ఆమె కుటుంబానికి ₹10 లక్షల ఎక్స్‌గ్రేషియా ఇస్తామని ప్రకటించారు. ప్రవళిక తల్లికి ప్రభుత్వ ఉద్యోగం కల్పిస్తామని, ఘటనకు కారణమైన వారిపై కఠిన చర్యలు తీసుకుంటామని మంత్రి స్పష్టం చేశారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "కుటుంబానికి ₹10 లక్షల ఎక్స్‌గ్రేషియా ప్రకటన",
+    "ప్రవళిక తల్లికి ప్రభుత్వ ఉద్యోగం",
+    "బాధ్యులపై కఠిన చర్యలు తీసుకుంటామని హామీ"
+   ],
+   "why": "విధుల్లో ఉన్న ఆర్టీసీ సిబ్బంది భద్రత, బాధిత కుటుంబానికి ఆసరాపై ప్రభుత్వ స్పందన ఇది.",
+   "en": {
+    "h": "₹10 lakh for conductor Pravalika's family, govt job for mother: Minister Ponnam",
+    "p": "Transport Minister Ponnam Prabhakar expressed condolences over the death of RTC woman conductor Pravalika, who died after being pushed out of a moving bus. He announced ₹10 lakh ex gratia for her family. The minister said Pravalika's mother will be given a government job and strict action will be taken against those responsible for the incident.",
+    "pts": [
+     "₹10 lakh ex gratia announced for the family",
+     "Government job for Pravalika's mother",
+     "Strict action promised against those responsible"
+    ],
+    "why": "This is the government's response on the safety of on-duty RTC staff and support for the bereaved family.",
+    "cat": "Telangana · RTC",
+    "statl": "Ex gratia for conductor's family"
+   },
+   "hi": {
+    "h": "कंडक्टर प्रवल्लिका के परिवार को ₹10 लाख, मां को सरकारी नौकरी: मंत्री पोन्नम",
+    "p": "चलती बस से धक्का दिए जाने के बाद जान गंवाने वाली आरटीसी महिला कंडक्टर प्रवल्लिका की मौत पर परिवहन मंत्री पोन्नम प्रभाकर ने शोक जताया। उन्होंने परिवार को ₹10 लाख की अनुग्रह राशि देने की घोषणा की। मंत्री ने कहा कि प्रवल्लिका की मां को सरकारी नौकरी दी जाएगी और घटना के जिम्मेदार लोगों पर सख्त कार्रवाई होगी।",
+    "pts": [
+     "परिवार के लिए ₹10 लाख अनुग्रह राशि की घोषणा",
+     "प्रवल्लिका की मां को सरकारी नौकरी",
+     "जिम्मेदार लोगों पर सख्त कार्रवाई का भरोसा"
+    ],
+    "why": "यह ड्यूटी पर तैनात आरटीसी कर्मचारियों की सुरक्षा और पीड़ित परिवार की मदद पर सरकार का जवाब है।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "कंडक्टर के परिवार को अनुग्रह राशि"
+   },
+   "d": "04.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ఏపీ · వర్షాలు",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "భారీ వర్షం",
+   "statl": "గోదావరి, గుంటూరు జిల్లాల్లో జలమయం",
+   "h": "తణుకు జలమయం; గుంటూరులో నక్కవాగుకు గండి, రాజానగరంలో హైవేపై నీరు",
+   "p": "భారీ వర్షాలకు పశ్చిమ గోదావరి జిల్లా తణుకులో లోతట్టు ప్రాంతాలు జలమయమయ్యాయి, ఇళ్లలోకి నీరు చేరింది. ఉమ్మడి తూర్పు గోదావరి జిల్లాలో భారీ వర్షం కురుస్తోంది; రాజానగరం వద్ద చెరువు పొంగి హైవేపై నీరు చేరింది. గుంటూరు జిల్లాలో పెనానందిపాడు వద్ద నక్కవాగుకు గండి పడింది. ఏలూరు ఏజెన్సీలో కొండవాగులు పొంగుతున్నాయి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "ap-westgodavari",
+   "loc": "తణుకు",
+   "pts": [
+    "పెనానందిపాడు–కొమ్మూరు రోడ్డుపై వరద నీరు",
+    "బైక్‌పై ముంపు ప్రాంతాల్లో ఎమ్మెల్యే ఆరిమిల్లి పర్యటన",
+    "పట్టినపాలెం, జీలుగుమిల్లిలో వాగుల ఉధృతి"
+   ],
+   "why": "ఈ ప్రాంతాల ప్రజలు, వాహనదారులు వాగులు, వరద రోడ్లపై జాగ్రత్తగా ఉండాలి.",
+   "en": {
+    "h": "Tanuku waterlogged; Nakkavagu breached in Guntur, water on highway at Rajanagaram",
+    "p": "Heavy rain has flooded low-lying areas of Tanuku in West Godavari district, with water entering homes. Heavy rain is falling across the united East Godavari district; a tank overflowed at Rajanagaram, flooding the highway. In Guntur district, the Nakkavagu stream breached near Penanandipadu. Hill streams are overflowing in the Eluru agency area.",
+    "pts": [
+     "Floodwater on Penanandipadu–Kommuru road",
+     "MLA Arimilli toured flood-hit areas on a motorbike",
+     "Streams in spate at Pattinapalem and Jeelugumilli"
+    ],
+    "why": "People and motorists in these areas need to be careful around streams and flooded roads.",
+    "cat": "AP · Rain",
+    "statl": "Waterlogging in Godavari, Guntur districts"
+   },
+   "hi": {
+    "h": "तणुकु जलमग्न; गुंटूर में नक्कावागु टूटा, राजानगरम में हाईवे पर पानी",
+    "p": "भारी बारिश से पश्चिम गोदावरी जिले के तणुकु के निचले इलाके जलमग्न हो गए, घरों में पानी घुस गया। संयुक्त पूर्वी गोदावरी जिले में भारी बारिश हो रही है; राजानगरम में तालाब उफनने से हाईवे पर पानी भर गया। गुंटूर जिले में पेनानंदिपाडु के पास नक्कावागु नाले में दरार आ गई। एलुरु एजेंसी में पहाड़ी नाले उफान पर हैं।",
+    "pts": [
+     "पेनानंदिपाडु–कोम्मूरु सड़क पर बाढ़ का पानी",
+     "विधायक अरिमिल्ली ने बाइक से बाढ़ प्रभावित इलाकों का दौरा किया",
+     "पट्टिनपालेम, जीलुगुमिल्ली में नाले उफान पर"
+    ],
+    "why": "इन इलाकों के लोगों और वाहन चालकों को नालों और बाढ़ वाली सड़कों पर सावधान रहना चाहिए।",
+    "cat": "आंध्र प्रदेश · बारिश",
+    "statl": "गोदावरी, गुंटूर जिलों में जलभराव"
+   },
+   "d": "04.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నేడు",
+   "statl": "తుపాను జిల్లాలపై ఎస్ఈసీ సమీక్ష",
+   "h": "తుపాను ప్రాంతాల్లో పరిషత్ ఎన్నికలపై నేడు ఎస్ఈసీ సమీక్ష",
+   "p": "మురసు తుపాను ప్రభావిత జిల్లాల్లో పరిస్థితులపై ఆంధ్రప్రదేశ్ రాష్ట్ర ఎన్నికల సంఘం (ఎస్ఈసీ) బుధవారం సమీక్షిస్తోంది. ఆయా జిల్లాల అధికారుల నుంచి నివేదికలు తీసుకోనుంది. ఈ సమీక్ష తర్వాత కొన్ని ప్రాంతాల్లో ఎంపీటీసీ, జెడ్పీటీసీ ఎన్నికల నిర్వహణపై స్పష్టత వస్తుందని భావిస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "తుపాను ప్రభావిత జిల్లాల పరిస్థితిపై సమీక్ష",
+    "జిల్లా అధికారుల నుంచి నివేదికల సేకరణ",
+    "కొన్ని చోట్ల పరిషత్ పోలింగ్‌పై త్వరలో స్పష్టత"
+   ],
+   "why": "తుపాను ప్రాంతాల ఓటర్లు, అభ్యర్థులు పోలింగ్ జరుగుతుందా లేదా అనేది తెలుసుకోవాల్సి ఉంది.",
+   "en": {
+    "h": "AP SEC reviews cyclone-hit areas today ahead of Parishad polls",
+    "p": "The Andhra Pradesh State Election Commission (SEC) is reviewing conditions in districts hit by Cyclone Murasu on Wednesday. It will take reports from officials of those districts. Clarity on holding MPTC and ZPTC elections in some areas is expected after this review.",
+    "pts": [
+     "Review of conditions in cyclone-hit districts",
+     "Reports to be collected from district officials",
+     "Clarity soon on Parishad polling in some areas"
+    ],
+    "why": "Voters and candidates in cyclone-hit areas need to know whether polling will go ahead.",
+    "cat": "AP · Elections",
+    "statl": "SEC review of cyclone districts"
+   },
+   "hi": {
+    "h": "चक्रवात प्रभावित इलाकों में परिषद चुनाव पर आज एसईसी की समीक्षा",
+    "p": "आंध्र प्रदेश राज्य चुनाव आयोग (एसईसी) बुधवार को चक्रवात मुरसु से प्रभावित जिलों के हालात की समीक्षा कर रहा है। आयोग उन जिलों के अधिकारियों से रिपोर्ट लेगा। इस समीक्षा के बाद कुछ इलाकों में एमपीटीसी और जेडपीटीसी चुनाव कराने पर स्पष्टता आने की उम्मीद है।",
+    "pts": [
+     "चक्रवात प्रभावित जिलों के हालात की समीक्षा",
+     "जिला अधिकारियों से रिपोर्ट ली जाएगी",
+     "कुछ इलाकों में परिषद मतदान पर जल्द स्पष्टता"
+    ],
+    "why": "चक्रवात प्रभावित इलाकों के मतदाताओं और उम्मीदवारों को जानना है कि मतदान होगा या नहीं।",
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "चक्रवात जिलों पर एसईसी समीक्षा"
+   },
+   "d": "04.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "251",
+   "statl": "క్యూఎస్ ఆసియా ర్యాంకింగ్స్‌లో ఐఐటీహెచ్ స్థానం",
+   "h": "క్యూఎస్ ఆసియా ర్యాంకింగ్స్‌లో 19 స్థానాలు ఎగబాకిన ఐఐటీ హైదరాబాద్",
+   "p": "క్యూఎస్ వరల్డ్ యూనివర్సిటీ ర్యాంకింగ్స్: ఆసియా 2027లో ఐఐటీ హైదరాబాద్ 270వ స్థానం నుంచి 251వ స్థానానికి చేరింది. పరిశోధన ఉత్పాదకత, అధ్యాపకుల అర్హతల్లో మంచి ప్రదర్శన చూపింది. విద్యావేత్తలు, ఉద్యోగ సంస్థల్లో గుర్తింపు కూడా పెరిగింది. ఇది అధ్యాపకులు, విద్యార్థులు, పరిశోధకుల కృషి ఫలితమని డైరెక్టర్ ప్రొ. బీఎస్ మూర్తి అన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/iit-hyderabad-rises-19-places-to-251st-in-qs-asia-rankings",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "pts": [
+    "270 నుంచి 251వ ర్యాంకుకు మెరుగుదల",
+    "అధిగమించిన సంస్థల వాటా 82.5% నుంచి 85.5%కు",
+    "పరిశోధన, అధ్యాపకుల అర్హతల్లో బలమైన ప్రదర్శన"
+   ],
+   "why": "రాష్ట్రంలోని ప్రముఖ విద్యాసంస్థకు అంతర్జాతీయ గుర్తింపు పెరగడం విద్యార్థులకు మేలు.",
+   "en": {
+    "h": "IIT Hyderabad climbs 19 places in QS Asia rankings",
+    "p": "IIT Hyderabad has moved from 270th to 251st place in the QS World University Rankings: Asia 2027. It performed well in research productivity and faculty qualifications. Its reputation among academics and employers also improved. Director Prof BS Murty said this was the result of the work of faculty, students and researchers.",
+    "pts": [
+     "Improved from 270th to 251st rank",
+     "Share of institutions surpassed rose from 82.5% to 85.5%",
+     "Strong showing in research and faculty qualifications"
+    ],
+    "why": "Greater international recognition for a leading institute in the state benefits students.",
+    "cat": "Telangana · Education",
+    "statl": "IITH's place in QS Asia rankings"
+   },
+   "hi": {
+    "h": "क्यूएस एशिया रैंकिंग में आईआईटी हैदराबाद 19 पायदान ऊपर",
+    "p": "क्यूएस वर्ल्ड यूनिवर्सिटी रैंकिंग्स: एशिया 2027 में आईआईटी हैदराबाद 270वें से 251वें स्थान पर पहुंच गया। शोध उत्पादकता और फैकल्टी योग्यता में इसका प्रदर्शन अच्छा रहा। शिक्षाविदों और नियोक्ताओं के बीच इसकी साख भी बढ़ी। निदेशक प्रो. बी.एस. मूर्ति ने कहा कि यह फैकल्टी, छात्रों और शोधकर्ताओं की मेहनत का नतीजा है।",
+    "pts": [
+     "270वें से 251वीं रैंक पर सुधार",
+     "पीछे छोड़े गए संस्थानों का हिस्सा 82.5% से 85.5%",
+     "शोध और फैकल्टी योग्यता में मजबूत प्रदर्शन"
+    ],
+    "why": "राज्य के प्रमुख संस्थान की अंतरराष्ट्रीय पहचान बढ़ना छात्रों के लिए फायदेमंद है।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "क्यूएस एशिया रैंकिंग में आईआईटीएच का स्थान"
+   },
+   "d": "04.11.2026",
+   "t": "12:35"
+  },
   {
    "cat": "ప్రపంచం · మార్కెట్లు",
    "col": "--c-money",
