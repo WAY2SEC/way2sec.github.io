@@ -1,8 +1,157 @@
 {
  "date": "04.11.2026",
- "updated": "2026-11-04T19:12:40+05:30",
+ "updated": "2026-11-04T19:46:15+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "సమ్మె విరమణ",
+   "statl": "వెంటనే ట్యాంకర్ల సరఫరా పునరుద్ధరణ",
+   "h": "హైడ్రా హామీతో హైదరాబాద్ ప్రైవేట్ నీటి ట్యాంకర్ల సమ్మె విరమణ",
+   "p": "అక్రమ బోర్‌వెల్‌లపై హైడ్రా చర్యలకు నిరసనగా సమ్మె చేస్తున్న హైదరాబాద్ వాటర్ ట్యాంకర్ల సంఘం బుధవారం సాయంత్రం సమ్మెను విరమించింది. ఇన్‌చార్జి మంత్రి పొన్నం ప్రభాకర్ చొరవతో సంఘం ప్రతినిధులు హైడ్రా చైర్మన్ ఏవీ రంగనాథ్‌ను కలిశారు. సంబంధిత శాఖల అనుమతుల తర్వాత ఓఆర్ఆర్ వెలుపలి ప్యూర్ ప్రాంతం నుంచి బోరు నీరు తీసుకునేందుకు నిర్వాహకులు అంగీకరించారు. సరఫరా వెంటనే మొదలవుతుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-private-water-tankers-strike-ends-on-hydraa-assurance-3569762/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ఓఆర్ఆర్ వెలుపలి ప్యూర్ ప్రాంతం నుంచే బోరు నీరు",
+    "వాణిజ్య బోర్లు 1,000–1,500 అడుగుల లోతు: రంగనాథ్",
+    "తెల్లాపూర్, సూరారం, జీడిమెట్ల వాసుల ఫిర్యాదులపై చర్యలు"
+   ],
+   "why": "ట్యాంకర్ నీటిపై ఆధారపడే పీజీ హాస్టళ్లు, అపార్ట్‌మెంట్లు, కుటుంబాలకు సరఫరా తిరిగి అందుతుంది.",
+   "d": "04.11.2026",
+   "t": "19:35",
+   "en": {
+    "h": "Hyderabad private water tanker strike ends on HYDRAA assurance",
+    "p": "The Water Tankers' Association of Hyderabad, which was on strike against HYDRAA's action on illegal borewells, called off the strike on Wednesday evening. On the initiative of in-charge minister Ponnam Prabhakar, association representatives met HYDRAA chairman A V Ranganath. After permissions from the departments concerned, operators agreed to draw borewater from the PURE region outside the ORR. Supply resumes immediately.",
+    "pts": [
+     "Borewater only from the PURE region outside the ORR",
+     "Commercial bores go 1,000–1,500 feet deep: Ranganath",
+     "Action on complaints from Tellapur, Suraram, Jeedimetla residents"
+    ],
+    "why": "Supply returns to PG hostels, apartments and families that depend on tanker water.",
+    "cat": "Hyderabad · Water",
+    "statl": "Tanker supply restored immediately"
+   },
+   "hi": {
+    "h": "हाइड्रा के आश्वासन पर हैदराबाद में निजी पानी टैंकरों की हड़ताल खत्म",
+    "p": "अवैध बोरवेल पर हाइड्रा की कार्रवाई के विरोध में हड़ताल कर रहे हैदराबाद वाटर टैंकर एसोसिएशन ने बुधवार शाम हड़ताल वापस ले ली। प्रभारी मंत्री पोन्नम प्रभाकर की पहल पर एसोसिएशन के प्रतिनिधियों ने हाइड्रा अध्यक्ष ए वी रंगनाथ से मुलाकात की। संबंधित विभागों की अनुमति के बाद संचालक ओआरआर के बाहर प्योर क्षेत्र से बोरवेल का पानी लेने पर सहमत हुए। आपूर्ति तुरंत शुरू होगी।",
+    "pts": [
+     "बोरवेल का पानी सिर्फ ओआरआर के बाहर प्योर क्षेत्र से",
+     "व्यावसायिक बोर 1,000–1,500 फीट गहरे: रंगनाथ",
+     "तेल्लापुर, सूरारम, जीडिमेटला निवासियों की शिकायतों पर कार्रवाई"
+    ],
+    "why": "टैंकर के पानी पर निर्भर पीजी हॉस्टलों, अपार्टमेंट और परिवारों को फिर से आपूर्ति मिलेगी।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "टैंकर आपूर्ति तुरंत बहाल"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "12 నెలలు",
+   "statl": "జీతాలు అందని వృత్తి విద్యా శిక్షకులు",
+   "h": "ఏడాదిగా జీతాల్లేవు: సచివాలయం వద్ద వృత్తి విద్యా శిక్షకుల ఆందోళన",
+   "p": "పాఠశాల విద్యాశాఖ పరిధిలో పనిచేస్తున్న వృత్తి విద్యా శిక్షకులు గత 12 నెలలుగా పెండింగ్‌లో ఉన్న జీతాలు విడుదల చేయాలని బుధవారం హైదరాబాద్‌లో ఆందోళన చేశారు. సైఫాబాద్‌లోని విద్యాశాఖ కార్యాలయం నుంచి సచివాలయానికి ర్యాలీగా వెళ్లి సౌత్-ఈస్ట్ గేటు ఎదుట బైఠాయించారు. కాంట్రాక్ట్ ఏజెన్సీలు నిబంధనలు ఉల్లంఘిస్తున్నాయని ఆరోపించారు. పోలీసులు వారిని అదుపులోకి తీసుకున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/unpaid-for-a-year-vocational-trainers-hold-demonstration-at-secretariat-in-hyderabad",
+   "sec": [
+    "telangana",
+    "education",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సైఫాబాద్",
+   "pts": [
+    "సైఫాబాద్ నుంచి సచివాలయానికి ర్యాలీ",
+    "ఆందోళనతో ట్రాఫిక్‌కు అంతరాయం",
+    "సమస్యలపై చర్యలు తీసుకుంటామని పోలీసుల హామీ"
+   ],
+   "why": "ప్రభుత్వ పాఠశాలల్లో వృత్తి విద్య బోధించే శిక్షకుల కుటుంబాలు ఆర్థిక ఇబ్బందుల్లో ఉన్నాయి.",
+   "d": "04.11.2026",
+   "t": "19:35",
+   "en": {
+    "h": "Unpaid for a year: vocational trainers protest at Secretariat",
+    "p": "Vocational trainers working under the School Education Department protested in Hyderabad on Wednesday, demanding release of salaries pending for the past 12 months. They marched from the education department office in Saifabad to the Secretariat and sat in front of the South-East gate. They alleged that contracting agencies are violating rules. Police took them into custody.",
+    "pts": [
+     "Rally from Saifabad to the Secretariat",
+     "Protest disrupted traffic",
+     "Police assured action on their grievances"
+    ],
+    "why": "Families of trainers who teach vocational courses in government schools are in financial distress.",
+    "cat": "Telangana · Education",
+    "statl": "Vocational trainers without salary"
+   },
+   "hi": {
+    "h": "साल भर से वेतन नहीं: सचिवालय पर व्यावसायिक प्रशिक्षकों का प्रदर्शन",
+    "p": "स्कूल शिक्षा विभाग के तहत काम करने वाले व्यावसायिक प्रशिक्षकों ने पिछले 12 महीनों से लंबित वेतन जारी करने की मांग को लेकर बुधवार को हैदराबाद में प्रदर्शन किया। वे सैफाबाद स्थित शिक्षा विभाग कार्यालय से सचिवालय तक रैली निकालकर साउथ-ईस्ट गेट के सामने धरने पर बैठ गए। उन्होंने ठेका एजेंसियों पर नियमों के उल्लंघन का आरोप लगाया। पुलिस ने उन्हें हिरासत में ले लिया।",
+    "pts": [
+     "सैफाबाद से सचिवालय तक रैली",
+     "प्रदर्शन से यातायात बाधित",
+     "पुलिस ने समस्याओं पर कार्रवाई का आश्वासन दिया"
+    ],
+    "why": "सरकारी स्कूलों में व्यावसायिक शिक्षा पढ़ाने वाले प्रशिक्षकों के परिवार आर्थिक संकट में हैं।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "बिना वेतन के व्यावसायिक प्रशिक्षक"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "26 నెలలు",
+   "statl": "చెల్లించని అద్దె, విద్యుత్, నీటి బకాయిలు",
+   "h": "మహేశ్వరం వైద్య కళాశాల తరలింపు కోరుతూ విద్యార్థుల నిరసన",
+   "p": "మహేశ్వరం ప్రభుత్వ వైద్య కళాశాలలో తాగునీరు, మరుగుదొడ్లు, ల్యాబ్‌లు, లైబ్రరీ, హాస్టల్ లేవంటూ విద్యార్థులు ఇబ్రహీంపట్నం నియోజకవర్గం మంగల్‌పల్లిలో నిరసన శిబిరం నిర్వహిస్తున్నారు. శిబిరాన్ని సందర్శించిన బీఆర్ఎస్ నేత హరీశ్ రావు, కళాశాలను రెండు నెలల్లో వసతులున్న భవనానికి తరలించాలని డిమాండ్ చేశారు. రంగారెడ్డి కలెక్టర్, డీఎంఈతో ఫోన్‌లో మాట్లాడారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/harish-rao-seeks-relocation-of-maheshwaram-medical-college",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "మంగల్‌పల్లి",
+   "pts": [
+    "బస్సులు రాక ప్రధాన రోడ్డు నుంచి 2 కి.మీ. నడక",
+    "భవనానికి ఆక్యుపెన్సీ, అగ్నిమాపక అనుమతులు లేవని ఆరోపణ",
+    "వనస్థలిపురం లేదా టిమ్స్-ఎల్బీ నగర్ సమీపానికి తరలించాలని సూచన"
+   ],
+   "why": "కనీస వసతులు లేని కళాశాలలో చదువుతున్న వైద్య విద్యార్థుల చదువు, భద్రతపై ప్రభావం.",
+   "d": "04.11.2026",
+   "t": "19:35",
+   "en": {
+    "h": "Students protest seeking relocation of Maheshwaram medical college",
+    "p": "Students of the Government Medical College, Maheshwaram, are holding a protest camp at Mangalpally in Ibrahimpatnam constituency, saying the college lacks drinking water, toilets, labs, a library and a hostel. Visiting the camp, BRS leader Harish Rao demanded the college be shifted to a building with facilities within two months. He spoke by phone to the Rangareddy Collector and the DME.",
+    "pts": [
+     "With no buses, a 2 km walk from the main road",
+     "Alleged the building lacks occupancy and fire clearances",
+     "Suggested shifting near Vanasthalipuram or TIMS-LB Nagar"
+    ],
+    "why": "The studies and safety of medical students in a college without basic facilities are affected.",
+    "cat": "Telangana · Medical education",
+    "statl": "Unpaid rent, power and water dues"
+   },
+   "hi": {
+    "h": "महेश्वरम मेडिकल कॉलेज को स्थानांतरित करने की मांग पर छात्रों का विरोध",
+    "p": "महेश्वरम सरकारी मेडिकल कॉलेज के छात्र इब्राहिमपट्टनम निर्वाचन क्षेत्र के मंगलपल्ली में विरोध शिविर लगाए हुए हैं। उनका कहना है कि कॉलेज में पीने का पानी, शौचालय, लैब, लाइब्रेरी और हॉस्टल नहीं हैं। शिविर में पहुंचे बीआरएस नेता हरीश राव ने कॉलेज को दो महीने में सुविधाओं वाले भवन में स्थानांतरित करने की मांग की। उन्होंने रंगारेड्डी कलेक्टर और डीएमई से फोन पर बात की।",
+    "pts": [
+     "बसें न आने से मुख्य सड़क से 2 किमी पैदल",
+     "भवन के पास ऑक्यूपेंसी और अग्नि सुरक्षा मंजूरी न होने का आरोप",
+     "वनस्थलीपुरम या टिम्स-एलबी नगर के पास ले जाने का सुझाव"
+    ],
+    "why": "बुनियादी सुविधाओं के बिना कॉलेज में पढ़ रहे मेडिकल छात्रों की पढ़ाई और सुरक्षा प्रभावित।",
+    "cat": "तेलंगाना · चिकित्सा शिक्षा",
+    "statl": "बकाया किराया, बिजली और पानी बिल"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఆర్టీసీ",
    "col": "--c-power",
@@ -1523,154 +1672,6 @@
     "why": "इन नतीजों से तय हुआ कि राज्य के शहरों में अगले पांच साल स्थानीय प्रशासन किसके हाथ में रहेगा।",
     "cat": "आंध्र प्रदेश · निकाय नतीजे",
     "statl": "गठबंधन के जीते शहरी निकाय"
-   },
-   "d": "04.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలంగాణ · వైద్యం",
-   "col": "--c-gov",
-   "art": "campus",
-   "stat": "₹29,792",
-   "statl": "ఎఫ్ఎంజీ ఇంటర్న్‌లు కోరుతున్న నెల స్టైఫండ్",
-   "h": "స్టైఫండ్ సమానత్వం కోసం 600 మంది ఎఫ్ఎంజీ ఇంటర్న్‌ల నిరసన మళ్లీ షురూ",
-   "p": "విదేశాల్లో వైద్య విద్య చదివి తెలంగాణ ప్రభుత్వ వైద్య కళాశాలలు, ఆసుపత్రుల్లో ఇంటర్న్‌షిప్ చేస్తున్న 600 మందికి పైగా ఎఫ్ఎంజీలు బుధవారం రాష్ట్రవ్యాప్త నిరసనను తిరిగి ప్రారంభించారు. ఆరోగ్య మంత్రి దామోదర రాజనర్సింహ హామీతో అక్టోబర్ 24 నుంచి నవంబర్ 3 వరకు ఆందోళన విరమించారు. ఇప్పటికీ లిఖితపూర్వక ఉత్తర్వు రాలేదని వారు చెబుతున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/over-600-fmg-interns-resume-telangana-protest-over-stipend-parity",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "భారత వైద్య పట్టభద్రులతో సమానంగా ₹29,792 స్టైఫండ్ డిమాండ్",
-    "జనవరి 2026 నుంచి బకాయిలు చెల్లించాలని కోరిక",
-    "వేధింపులు, ఇంటర్న్‌షిప్ పొడిగింపు నుంచి రక్షణ కావాలి"
-   ],
-   "why": "ప్రభుత్వ ఆసుపత్రుల్లో సేవలందిస్తున్న వందలాది యువ వైద్యుల జీతభత్యాలు, రోగుల సేవలపై ఇది ప్రభావం చూపుతుంది.",
-   "en": {
-    "h": "Over 600 FMG interns resume protest in Telangana for stipend parity",
-    "p": "More than 600 foreign medical graduates doing internships at Telangana government medical colleges and hospitals resumed their statewide protest on Wednesday. They had paused the agitation from October 24 to November 3 after assurances from Health Minister Damodar Raja Narasimha. They say no written order has been issued yet.",
-    "pts": [
-     "Demand ₹29,792 stipend on par with Indian medical graduates",
-     "Want arrears paid from January 2026",
-     "Seek protection from victimisation and internship extensions"
-    ],
-    "why": "It affects the pay of hundreds of young doctors serving in government hospitals, and patient services there.",
-    "cat": "Telangana · Health",
-    "statl": "Monthly stipend FMG interns are demanding"
-   },
-   "hi": {
-    "h": "स्टाइपेंड समानता के लिए 600 से ज्यादा एफएमजी इंटर्न का विरोध फिर शुरू",
-    "p": "विदेश से मेडिकल पढ़ाई कर तेलंगाना के सरकारी मेडिकल कॉलेजों और अस्पतालों में इंटर्नशिप कर रहे 600 से अधिक एफएमजी ने बुधवार को राज्यव्यापी विरोध फिर शुरू किया। स्वास्थ्य मंत्री दामोदर राजा नरसिम्हा के आश्वासन पर उन्होंने 24 अक्टूबर से 3 नवंबर तक आंदोलन रोका था। उनका कहना है कि अब तक कोई लिखित आदेश जारी नहीं हुआ।",
-    "pts": [
-     "भारतीय मेडिकल स्नातकों के बराबर ₹29,792 स्टाइपेंड की मांग",
-     "जनवरी 2026 से बकाया भुगतान की मांग",
-     "उत्पीड़न और इंटर्नशिप बढ़ाने से सुरक्षा चाहिए"
-    ],
-    "why": "इसका असर सरकारी अस्पतालों में सेवा दे रहे सैकड़ों युवा डॉक्टरों के वेतन और मरीजों की सेवाओं पर पड़ता है।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "एफएमजी इंटर्न की मांगा गया मासिक स्टाइपेंड"
-   },
-   "d": "04.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఖమ్మం, భద్రాద్రి",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "231.8 మి.మీ.",
-   "statl": "ములకలపల్లిలో రాష్ట్రంలోనే అత్యధిక వర్షం",
-   "h": "మురసు ప్రభావం: భద్రాద్రి, ఖమ్మం జిల్లాల్లో 230 మి.మీ.కు పైగా వర్షం",
-   "p": "మురసు తుపాను ప్రభావంతో మంగళవారం రాత్రి నుంచి బుధవారం తెల్లవారుజాము వరకు ఖమ్మం, భద్రాద్రి కొత్తగూడెం జిల్లాల్లో అతి భారీ వర్షాలు కురిశాయి. ములకలపల్లి మండలంలో 231.8 మి.మీ. వర్షం నమోదై రాష్ట్రంలోనే అత్యధికంగా నిలిచింది. హైదరాబాద్ సహా ఇతర జిల్లాల్లో మాత్రం మేఘావృతమై స్వల్ప వర్షమే పడింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-cyclone-murasu-brings-over-230-mm-rain-to-bhadradri-kothagudem-khammam",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "ములకలపల్లి",
-   "pts": [
-    "దమ్మపేట మండలం నాయుడుపేటలో 214.3 మి.మీ.",
-    "వేంసూరులో 196.5, సత్తుపల్లిలో 188 మి.మీ.",
-    "కల్లూరులో 182.5 మి.మీ. వర్షం"
-   ],
-   "why": "ఈ రెండు జిల్లాల్లో రైతులు, వాగుల సమీపంలో ఉండే ప్రజలు అప్రమత్తంగా ఉండాల్సిన అవసరం ఉంది.",
-   "en": {
-    "h": "Cyclone Murasu: over 230 mm rain in Bhadradri Kothagudem, Khammam",
-    "p": "Under the influence of Cyclone Murasu, Khammam and Bhadradri Kothagudem districts received extremely heavy rain from Tuesday night to early Wednesday. Mulakalapally mandal recorded 231.8 mm, the highest in the state. Hyderabad and other districts saw only overcast skies and light rain.",
-    "pts": [
-     "Naidupeta in Dammapeta mandal recorded 214.3 mm",
-     "Vemsoor 196.5 mm, Sathupalli 188 mm",
-     "Kalluru received 182.5 mm"
-    ],
-    "why": "Farmers and people living near streams in these two districts need to stay alert.",
-    "cat": "Telangana · Khammam, Bhadradri",
-    "statl": "Mulakalapally: highest rain in the state"
-   },
-   "hi": {
-    "h": "चक्रवात मुरसु: भद्राद्री कोत्तागुडेम, खम्मम में 230 मिमी से ज्यादा बारिश",
-    "p": "चक्रवात मुरसु के असर से मंगलवार रात से बुधवार तड़के तक खम्मम और भद्राद्री कोत्तागुडेम जिलों में अत्यधिक भारी बारिश हुई। मुलकलपल्ली मंडल में 231.8 मिमी बारिश दर्ज हुई, जो राज्य में सबसे ज्यादा है। हैदराबाद और अन्य जिलों में केवल बादल छाए रहे और हल्की बारिश हुई।",
-    "pts": [
-     "दम्मपेटा मंडल के नायडूपेटा में 214.3 मिमी",
-     "वेमसूर में 196.5, सत्तुपल्ली में 188 मिमी",
-     "कल्लूरु में 182.5 मिमी बारिश"
-    ],
-    "why": "इन दोनों जिलों में किसानों और नालों के पास रहने वाले लोगों को सतर्क रहने की जरूरत है।",
-    "cat": "तेलंगाना · खम्मम, भद्राद्री",
-    "statl": "मुलकलपल्ली में राज्य की सबसे ज्यादा बारिश"
-   },
-   "d": "04.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఆదిలాబాద్",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹30 లక్షలు",
-   "statl": "చోరీ అయిన 4 వెంటిలేటర్ల విలువ",
-   "h": "రిమ్స్ ఆదిలాబాద్ ఐసీయూ నుంచి ₹30 లక్షల విలువైన 4 వెంటిలేటర్లు చోరీ",
-   "p": "ఆదిలాబాద్ రిమ్స్‌లోని శ్వాసకోశ ఐసీయూ నుంచి సుమారు ₹30 లక్షల విలువైన నాలుగు వెంటిలేటర్లు అక్టోబర్ 30న పట్టపగలే చోరీకి గురయ్యాయి. ఐదు రోజుల తర్వాత మంగళవారం అధికారులు పోలీసులకు ఫిర్యాదు చేయడంతో విషయం బయటపడింది. గుర్తుతెలియని వ్యక్తులపై కేసు నమోదు చేసి, సీసీటీవీ దృశ్యాలను పోలీసులు పరిశీలిస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/four-ventilators-worth-rs-30-lakh-stolen-from-rims-adilabad-icu",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "adilabad",
-   "loc": "ఆదిలాబాద్",
-   "pts": [
-    "సీసీటీవీలో ఇద్దరు యంత్రాలు తీసుకెళ్తున్న దృశ్యాలు",
-    "సిబ్బంది విధుల్లో ఉండగా మధ్యాహ్నం చోరీ",
-    "ఐదు రోజులు దాచారని రోగుల బంధువుల ఆగ్రహం"
-   ],
-   "why": "ప్రభుత్వ ఆసుపత్రుల్లో భద్రత, అత్యవసర రోగులకు అవసరమైన పరికరాల లభ్యతపై ఇది ప్రశ్నలు లేవనెత్తుతోంది.",
-   "en": {
-    "h": "Four ventilators worth ₹30 lakh stolen from RIMS Adilabad ICU",
-    "p": "Four ventilators worth about ₹30 lakh were stolen in broad daylight on October 30 from the respiratory ICU at RIMS in Adilabad. The theft came to light only on Tuesday, five days later, when officials filed a police complaint. Police have registered a case against unknown persons and are examining CCTV footage.",
-    "pts": [
-     "CCTV shows two persons taking the machines",
-     "Theft happened in the afternoon while staff were on duty",
-     "Patients' attendants angry over five-day delay"
-    ],
-    "why": "It raises questions about security in government hospitals and the availability of equipment for critical patients.",
-    "cat": "Telangana · Adilabad",
-    "statl": "Value of the 4 stolen ventilators"
-   },
-   "hi": {
-    "h": "रिम्स आदिलाबाद आईसीयू से ₹30 लाख के 4 वेंटिलेटर चोरी",
-    "p": "आदिलाबाद के रिम्स के श्वसन आईसीयू से 30 अक्टूबर को दिनदहाड़े करीब ₹30 लाख के चार वेंटिलेटर चोरी हो गए। पांच दिन बाद मंगलवार को अधिकारियों ने पुलिस में शिकायत की, तब मामला सामने आया। पुलिस ने अज्ञात लोगों पर केस दर्ज कर सीसीटीवी फुटेज की जांच शुरू की है।",
-    "pts": [
-     "सीसीटीवी में दो लोग मशीनें ले जाते दिखे",
-     "कर्मचारियों की ड्यूटी के दौरान दोपहर में चोरी",
-     "पांच दिन छिपाने पर मरीजों के परिजनों में नाराजगी"
-    ],
-    "why": "इससे सरकारी अस्पतालों की सुरक्षा और गंभीर मरीजों के लिए उपकरणों की उपलब्धता पर सवाल उठते हैं।",
-    "cat": "तेलंगाना · आदिलाबाद",
-    "statl": "चोरी हुए 4 वेंटिलेटरों की कीमत"
    },
    "d": "04.11.2026",
    "t": "13:35"
