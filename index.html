@@ -386,7 +386,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <div class="toast" id="toast" role="status"></div>
 </div>
 
-<script src="scenes.js?v=20261104cb"></script>
+<script src="scenes.js?v=20261104d"></script>
 <script>
 const CONFIG = {
   NEWS_URL: 'news.json',
@@ -797,7 +797,8 @@ async function cardImage(s){
   ctx.fillStyle='#FFFBF3'; ctx.fillRect(0,0,W,H);
   // panel
   ctx.fillStyle=col; ctx.fillRect(0,0,W,PANEL);
-  if(!(await drawStoryPhoto(ctx,s,0,0,W,PANEL))){
+  const hasPh=await drawStoryPhoto(ctx,s,0,0,W,PANEL);
+  if(!hasPh){
   try{ const art=await loadImg('data:image/svg+xml;charset=utf-8,'+encodeURIComponent(sceneSVG(s,'cv')));
        ctx.globalAlpha=.27; ctx.drawImage(art,0,PANEL-540,W,540); ctx.globalAlpha=1; }catch(e){} }
   ctx.fillStyle='#fff'; ctx.strokeStyle='#fff'; ctx.lineWidth=3;
@@ -805,6 +806,13 @@ async function cardImage(s){
   rrect(ctx,P,52,cw,62,31); ctx.stroke(); ctx.textBaseline='middle'; ctx.fillText(chip,P+28,84);
   ctx.font=`700 28px ${TE}`; ctx.textAlign='right'; ctx.fillText(s.kind==='job'?(s.last?J('lastd')+' '+s.last:''):(s.d||NEWS.date||''),W-P,84); ctx.textAlign='left';
   ctx.textBaseline='alphabetic';
+  if(hasPh){ // photo story: one slim caption band, so the photo stays visible
+    const BH=92; ctx.fillStyle='rgba(10,12,20,.66)'; ctx.fillRect(0,PANEL-BH,W,BH); ctx.fillStyle='#fff';
+    const te2=/[ఀ-౿]/.test(s.stat||''); ctx.font=te2?`800 40px ${TE}`:`400 44px ${DI}`; ctx.fillText(s.stat||'',P,PANEL-30);
+    const sw=ctx.measureText(s.stat||'').width+22; ctx.font=`800 28px ${TE}`; let t=s.statl||'';
+    while(t && ctx.measureText(t).width>W-2*P-sw){ t=t.slice(0,-2); } if(t!==(s.statl||'')) t=t.trim()+'…';
+    ctx.fillText(t,P+sw,PANEL-33);
+  } else {
   let statSize=150; ctx.font=`400 ${statSize}px ${DI}`; while(ctx.measureText(s.stat||'').width>W-2*P && statSize>60){ statSize-=10; ctx.font=`400 ${statSize}px ${DI}`; }
   // Telugu in the stat needs the Telugu font
   if(/[ఀ-౿]/.test(s.stat||'')){ ctx.font=`800 ${Math.min(statSize,130)}px ${TE}`; }
@@ -815,6 +823,7 @@ async function cardImage(s){
   while(ctx.measureText(s.stat||'').width>W-2*P-20 && ss>56){ ss-=8; setF(); }
   ctx.fillText(s.stat||'',P,y-60-(teStat?Math.round(ss*0.42):0));
   ctx.font=`800 40px ${TE}`; sl.forEach((t,k)=>ctx.fillText(t,P,y+k*54));
+  }
   // brand strip: full logo on the left, then the tagline
   let yy=PANEL; ctx.fillStyle='#12284A'; ctx.fillRect(0,yy,W,STRIP);
   let x=P;
