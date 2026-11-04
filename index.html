@@ -8,6 +8,16 @@
 <meta name="apple-mobile-web-app-title" content="Way2Sec News">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Fastest AI News in Telugu – తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు. Swipe Telugu short news by district and topic.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Way2Sec News">
+<meta property="og:title" content="Way2Sec – వార్తలు క్షణాల్లో! | Fastest AI News in Telugu">
+<meta property="og:description" content="తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు – తెలంగాణ, దేశం, ప్రపంచం, AI & టెక్, ఉద్యోగాలు.">
+<meta property="og:url" content="https://way2sec.news/">
+<meta property="og:image" content="https://way2sec.news/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://way2sec.news/og-image.jpg">
 <meta name="theme-color" content="#C8102E">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="manifest" href="manifest.webmanifest">
@@ -686,9 +696,10 @@ async function cardImage(s){
 window.cardImage=cardImage;
 function storyLink(s){ const iso=toIso(s.d||NEWS.date); return CONFIG.APP_LINK+(iso?`?d=${iso}&s=${sid(s)}`:''); }
 function shareText(s){
-  if(s.kind==='job') return `💼 ${s.h}\n👥 పోస్టులు: ${s.stat}${s.qual?`\n🎓 అర్హత: ${s.qual}`:''}${s.last?`\n🗓️ చివరి తేదీ: ${s.last}`:''}${/^https?:/.test(s.apply||s.url||'')?`\n\nఅధికారిక వెబ్‌సైట్: ${s.apply||s.url}`:''}\n⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి\n\n📲 Way2Sec జాబ్స్: ${CONFIG.APP_LINK}?jobs=1&s=${sid(s)}\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
+  // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
+  if(s.kind==='job') return `💼 ${s.h}\n📲 ${CONFIG.APP_LINK}?jobs=1&s=${sid(s)}\n\n👥 పోస్టులు: ${s.stat}${s.qual?`\n🎓 అర్హత: ${s.qual}`:''}${s.last?`\n🗓️ చివరి తేదీ: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి\n\n👉 Way2Sec WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
   const when=(s.d||NEWS.date||'')+(s.t?' · '+s.t:'');
-  return `🔴 ${s.h}\n📅 ${when}\n\nSource | మూలం: ${s.src}${/^https?:/.test(s.url||'')?`\nపూర్తి వార్త: ${s.url}`:''}\n\n📲 Way2Sec – Fastest AI News in Telugu: ${storyLink(s)}\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
+  return `🔴 ${s.h}\n📲 ${storyLink(s)}\n\n📅 ${when} · Source | మూలం: ${s.src}\nWay2Sec – Fastest AI News in Telugu\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
 }
 /* Card picture is made ahead of time: phones only allow the share sheet right after a tap,
    so building the picture inside the tap made the share fail and fall back to plain text. */
