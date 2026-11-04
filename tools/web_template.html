@@ -183,6 +183,32 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:18px 32px;justify-content:space-bet
 footer nav{display:flex;flex-wrap:wrap;gap:16px;font-weight:700}
 footer a:hover{color:var(--brand)}
 .skip{position:absolute;left:-999px}.skip:focus{left:12px;top:12px;z-index:99;background:#fff;padding:8px}
+
+/* side rails on very wide screens: left = useful Way2Sec content, right = ad space */
+.rail{display:none}
+@media (min-width:1800px){
+  .rail{display:flex;flex-direction:column;gap:16px;position:fixed;top:200px;width:250px;max-height:calc(100vh - 220px);overflow:auto;scrollbar-width:none;z-index:5}
+  .rail::-webkit-scrollbar{display:none}
+  .rail.l{left:calc(50% - 620px - 274px)} .rail.r{right:calc(50% - 620px - 274px)}
+}
+.rbox{border-radius:20px;background:var(--paper);box-shadow:var(--shadow);padding:16px}
+.rbox h4{margin:0 0 8px;font-size:15px;font-weight:800}
+.rbox a.rj{display:block;padding:9px 0;border-top:1px solid var(--line);font-size:13.5px;font-weight:700;line-height:1.45}
+.rbox a.rj:first-of-type{border-top:0}
+.rbox a.rj small{display:block;color:var(--brand);font-weight:800;font-size:12px}
+.rbox a.rj:hover{color:var(--brand)}
+.rqr{text-align:center;color:#fff;background:radial-gradient(120% 140% at 0% 0%,#1E3E6E,#12284A 50%,#0B1A33)}
+.rqr img{width:150px;height:150px;background:#fff;border-radius:12px;padding:8px;margin:8px auto;display:block}
+.rqr p{margin:0;font-size:13.5px;font-weight:700;color:#D6DEEA}
+/* ad slots (house ad until Google AdSense is approved) */
+.ad{position:relative;border-radius:20px;border:1.5px dashed color-mix(in srgb,var(--muted) 45%,transparent);background:var(--soft);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:10px;padding:22px 18px;color:var(--ink)}
+.ad:before{content:"ప్రకటన · Advertisement";position:absolute;top:8px;left:12px;font-size:10.5px;font-weight:800;letter-spacing:.04em;color:var(--muted)}
+.ad.tall{min-height:520px}
+.ad.wide{min-height:130px;margin:40px 0 0;flex-direction:row;gap:18px;flex-wrap:wrap}
+.ad b{font-size:18px;line-height:1.4}
+.ad p{margin:0;font-size:13.5px;color:var(--muted);font-weight:600}
+.ad .go{display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 16px;border-radius:12px;background:var(--brand);color:#fff;font-weight:800;font-size:13.5px}
+.ad .big{font:400 40px/1 var(--display);color:var(--brand)}
 @media (prefers-reduced-motion:reduce){.tk .row,.live i,.listen .wave i{animation:none!important}.card{transition:none}}
 </style>
 </head>
@@ -203,6 +229,16 @@ footer a:hover{color:var(--brand)}
 </header>
 <div class="tick" aria-label="తాజా వార్తలు"><div class="wrap"><span class="live"><i></i>LIVE</span><div class="tk"><div class="row" id="tick"></div></div></div></div>
 
+
+<aside class="rail l" aria-label="Way2Sec">
+  <div class="rbox" id="railJobs" hidden><h4>⏰ చివరి తేదీ దగ్గర</h4><div id="railJobsList"></div></div>
+  <div class="rbox rqr"><h4>📲 Way2Sec ఛానెల్</h4><img src="/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR"><p>స్కాన్ చేసి ప్రతి 30 నిమిషాలకు వార్తలు పొందండి</p></div>
+</aside>
+<aside class="rail r" aria-label="ప్రకటన">
+  <a class="ad tall adslot" data-ad="rail" href="https://wa.me/917032656422?text=%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82%2C%20Way2Sec%20%E0%B0%B2%E0%B1%8B%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%95%E0%B0%9F%E0%B0%A8%20%E0%B0%87%E0%B0%B5%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%A8%E0%B1%81%E0%B0%95%E0%B1%81%E0%B0%82%E0%B0%9F%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%A8%E0%B1%81" target="_blank" rel="noopener">
+    <span class="big">AD</span><b>మీ వ్యాపార ప్రకటన ఇక్కడ</b><p>తెలంగాణ, ఏపీ పాఠకులకు మీ షాప్, కోచింగ్, హాస్పిటల్, రియల్ ఎస్టేట్ ప్రకటన చూపించండి.</p><span class="go">📩 WhatsAppలో సంప్రదించండి</span>
+  </a>
+</aside>
 <main id="main" class="wrap">
   <div id="home">
     <section class="hero">
@@ -217,6 +253,7 @@ footer a:hover{color:var(--brand)}
       </div>
     </section>
     <div id="sections"></div>
+    <a class="ad wide adslot" data-ad="inline" href="https://wa.me/917032656422?text=%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82%2C%20Way2Sec%20%E0%B0%B2%E0%B1%8B%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%95%E0%B0%9F%E0%B0%A8%20%E0%B0%87%E0%B0%B5%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%A8%E0%B1%81%E0%B0%95%E0%B1%81%E0%B0%82%E0%B0%9F%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%A8%E0%B1%81" target="_blank" rel="noopener"><span class="big">AD</span><div style="text-align:left"><b>మీ వ్యాపార ప్రకటన ఇక్కడ చూపించండి</b><p>వేలాది తెలుగు పాఠకులకు చేరండి – షాప్‌లు, కోచింగ్ సెంటర్లు, హాస్పిటల్స్, రియల్ ఎస్టేట్.</p></div><span class="go">📩 సంప్రదించండి</span></a>
     <section class="sec split">
       <div class="panel">
         <div class="sh"><h2>📍 మీ జిల్లా</h2></div>
@@ -315,7 +352,12 @@ function renderHome(){
   if(pref && PLACES[pref]) showD(pref); else if(keys[0]) showD(keys[0]);
 }
 function daysLeft(j){const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.last||'');if(!m)return null;return Math.floor((new Date(+m[3],+m[2]-1,+m[1],23,59,59)-Date.now())/864e5)}
-function renderJobs(){
+function renderRail(){
+  const soon=JOBS.map(j=>[j,daysLeft(j)]).filter(x=>x[1]!==null&&x[1]>=0).sort((a,b)=>a[1]-b[1]).slice(0,5);
+  if(!soon.length) return; $('railJobs').hidden=false;
+  $('railJobsList').innerHTML=soon.map(([j,d])=>`<a class="rj" href="/s/${sid({url:j.url||j.apply||'',h:j.h})}">${esc(j.h)}<small>${d===0?'ఈరోజే చివరి రోజు':d+' రోజులు మిగిలాయి'} · ${esc(j.org||'')}</small></a>`).join('');
+}
+function renderJobs(){ renderRail();
   const l=JOBS.filter(j=>{const d=daysLeft(j);return d===null||d>=0}).slice(0,8);
   if(!l.length){$('jobsPanel').hidden=true;return;}
   $('jobs').innerHTML=l.map(j=>{const d=daysLeft(j); const js={url:j.url||j.apply||'',h:j.h};
