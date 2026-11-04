@@ -369,7 +369,12 @@ function w2sNavFit(nav){
   for(let i=links.length-1;i>0 && nav.scrollWidth>nav.clientWidth+1;i--){ menu.insertBefore(links[i],menu.firstChild); }
   if(menu.querySelector('a[aria-current="true"]')) btn.classList.add('cur');
   btn.onclick=e=>{ e.stopPropagation(); const o=menu.hidden; menu.hidden=!o; btn.setAttribute('aria-expanded',String(o)); };
-  menu.addEventListener('click',()=>{ menu.hidden=true; btn.setAttribute('aria-expanded','false'); });
-  if(!w2sNavFit.doc){ w2sNavFit.doc=1; document.addEventListener('click',()=>document.querySelectorAll('.nmore .nmenu').forEach(m=>{ m.hidden=true; }));
+  const close=()=>{ menu.hidden=true; btn.setAttribute('aria-expanded','false'); };
+  menu.addEventListener('click',close);
+  // on a computer: opens when the mouse comes over "మరిన్ని", closes by itself when the mouse leaves
+  let lt; more.addEventListener('mouseenter',e=>{ if(matchMedia('(hover: hover)').matches){ clearTimeout(lt); menu.hidden=false; btn.setAttribute('aria-expanded','true'); } });
+  more.addEventListener('mouseleave',()=>{ clearTimeout(lt); lt=setTimeout(close,250); });
+  if(!w2sNavFit.doc){ w2sNavFit.doc=1; const shut=()=>document.querySelectorAll('.nmore .nmenu').forEach(m=>{ m.hidden=true; const b=m.parentNode.querySelector('button'); if(b) b.setAttribute('aria-expanded','false'); });
+    document.addEventListener('click',shut); addEventListener('scroll',shut,{passive:true}); document.addEventListener('keydown',e=>{ if(e.key==='Escape') shut(); });
     let t; addEventListener('resize',()=>{ clearTimeout(t); t=setTimeout(()=>document.querySelectorAll('nav.secs').forEach(w2sNavFit),150); }); }
 }
