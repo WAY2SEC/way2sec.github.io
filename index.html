@@ -691,7 +691,32 @@ $('saveBtn').onclick=()=>{
 };
 async function share(text){
   try{ if(navigator.share){ await navigator.share({title:'Way2Sec', text}); return; } }catch(e){ if(e&&e.name==='AbortError') return; }
-  location.href = 'https://wa.me/?text=' + encodeURIComponent(text);
+  openWA(text);
+}
+/* Open WhatsApp with the text. On iPhone a wa.me link opens whichever WhatsApp the phone picks (often WhatsApp Business),
+   so there we copy the caption + link and let the reader open the WhatsApp they want and paste. */
+function openWA(text){
+  const ios=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+  const u='https://wa.me/?text='+encodeURIComponent(text);
+  if(!ios){ location.href=u; return; }
+  copyText(text); // inside the tap, so iPhone allows it
+  let o=document.getElementById('waCopy');
+  if(!o){ o=document.createElement('div'); o.id='waCopy';
+    o.style.cssText='position:fixed;inset:0;z-index:90;background:rgba(6,10,18,.72);display:flex;align-items:flex-end;justify-content:center';
+    o.innerHTML='<div style="background:var(--paper,#fff);color:var(--ink,#16120E);width:100%;max-width:520px;border-radius:22px 22px 0 0;padding:20px 18px calc(18px + env(safe-area-inset-bottom,0px));display:grid;gap:10px">'
+      +'<b style="font:800 18px/1.4 var(--body)">✅ లింక్ + క్యాప్షన్ కాపీ అయింది</b>'
+      +'<p style="margin:0;font:600 15px/1.6 var(--body)">ఇప్పుడు మీ <b>WhatsApp</b> ను మీరే తెరిచి, చాట్ లేదా ఛానెల్‌లో <b>Paste</b> చేయండి.</p>'
+      +'<textarea id="waCopyTx" readonly rows="4" style="width:100%;box-sizing:border-box;border:1px solid var(--line,#ddd);border-radius:12px;padding:10px;font:500 13px/1.5 var(--body);background:var(--soft,#f6f2ea);color:inherit"></textarea>'
+      +'<button type="button" id="waCopyAgain" class="btn" style="justify-content:center">📋 మళ్లీ కాపీ చేయండి</button>'
+      +'<a id="waCopyGo" href="#" style="text-align:center;color:var(--muted,#6B5F52);font:600 13px/1.5 var(--body)">లేదా WhatsApp లో నేరుగా తెరవండి</a>'
+      +'<button type="button" id="waCopyOk" class="btn" style="background:#1DA851;justify-content:center">సరే</button></div>';
+    document.body.appendChild(o);
+    o.addEventListener('click',e=>{ if(e.target===o||e.target.id==='waCopyOk') o.hidden=true; });
+  }
+  document.getElementById('waCopyTx').value=text;
+  document.getElementById('waCopyGo').href=u;
+  document.getElementById('waCopyAgain').onclick=async()=>{ toast(await copyText(text)?'కాపీ అయింది ✅':'కాపీ కాలేదు – పై టెక్స్ట్‌ను నొక్కి పట్టుకుని Copy చేయండి'); };
+  o.hidden=false;
 }
 /* Share = picture of the card + link text (for WhatsApp Status / chats) */
 const COLS={'--c-election':'#B3400F','--c-gov':'#1F6B3A','--c-money':'#16406E','--c-water':'#0B5CAD','--c-power':'#5B3A8C','--c-city':'#7A4A12','--c-job':'#0F6E5C'};
@@ -872,7 +897,7 @@ function chromeChoice(s,text,viaWA){
     location.href='x-safari-https://way2sec.news/?cards=1&sharecard=1&s='+sid(s)+(s.kind==='job'?'&jobs=1':'')+(l!=='te'?'&l='+l:''); };
   $('crLink').onclick=async()=>{ o.hidden=true;
     if(!viaWA && navigator.share){ try{ await navigator.share({text}); return; }catch(e){ if(e&&e.name==='AbortError') return; } }
-    location.href='https://wa.me/?text='+encodeURIComponent(text); };
+    openWA(text); };
   o.hidden=false;
 }
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
@@ -882,9 +907,9 @@ async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   if(IOS && (CRIOS || !window.isSecureContext)){
     // Chrome/Firefox/Edge on iPhone (and any non-https page) cannot share pictures at all:
     // go straight to WhatsApp (or the share menu) with the Way2Sec link, which shows our preview.
-    if(viaWA){ location.href='https://wa.me/?text='+encodeURIComponent(text); return; }
+    if(viaWA){ openWA(text); return; }
     try{ if(navigator.share){ await navigator.share({text}); return; } }catch(e){ if(e&&e.name==='AbortError') return; }
-    location.href='https://wa.me/?text='+encodeURIComponent(text); return;
+    openWA(text); return;
   }
   if(IOS){
     // iPhone: the share menu must open straight after the tap, with nothing else first,
