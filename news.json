@@ -1,8 +1,253 @@
 {
  "date": "04.11.2026",
- "updated": "2026-11-04T10:20:00+05:30",
+ "updated": "2026-11-04T10:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "29 రైళ్లు",
+   "statl": "విజయవాడ డివిజన్‌లో ప్రభావితం",
+   "h": "బలహీనపడిన మురసు: తూర్పు తెలంగాణపై వాయుగుండం; 29 రైళ్లపై ప్రభావం",
+   "p": "తీవ్ర తుపాను మురసు అవశేషం తూర్పు తెలంగాణ, దానికి ఆనుకుని ఉన్న కోస్తాంధ్రపై వాయుగుండంగా బలహీనపడింది. బుధవారం ఉదయం 5:30కి ఇది ఖమ్మంకు సుమారు 30 కి.మీ. దక్షిణాన, నందిగామకు 30 కి.మీ. వాయువ్యంగా ఉంది. రాబోయే 12 గంటల్లో ఇది అల్పపీడనంగా మారే అవకాశం ఉందని ఐఎండీ తెలిపింది. విజయవాడ–ఒంగోలు–గూడూరు మార్గంలో రైళ్లను తాత్కాలికంగా నిలిపివేశారు.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/cyclone-murasu-weakens-into-depression-over-telangana-adjoining-andhra-pradesh-likely-to-become-low-pressure-area-in-12-hours-imd20261104102227/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గంటకు 10 కి.మీ. వేగంతో ఉత్తరం వైపు కదలిక",
+    "బాపట్ల, గుంటూరు, పల్నాడు, ఎన్టీఆర్ జిల్లాల్లో భారీ వర్ష సూచన",
+    "రైళ్ల సమాచారం కోసం 139కు కాల్ చేయాలని సూచన"
+   ],
+   "why": "ఖమ్మం, నల్గొండ సహా తూర్పు తెలంగాణ, కోస్తాంధ్ర ప్రజలు, ఈ మార్గంలో రైలు ప్రయాణికులపై ప్రభావం ఉంటుంది.",
+   "en": {
+    "h": "Murasu weakens into depression over east Telangana; 29 trains affected",
+    "p": "The remnant of severe cyclone Murasu has weakened into a depression over east Telangana and adjoining coastal Andhra Pradesh. At 5:30 am on Wednesday it lay about 30 km south of Khammam and 30 km northwest of Nandigama. IMD said it is likely to weaken into a low-pressure area within 12 hours. Trains on the Vijayawada–Ongole–Gudur route have been temporarily suspended.",
+    "pts": [
+     "Moving north at 10 kmph",
+     "Heavy rain forecast for Bapatla, Guntur, Palnadu and NTR districts",
+     "Passengers told to call 139 for train information"
+    ],
+    "why": "People in east Telangana, including Khammam and Nalgonda, coastal Andhra, and train passengers on this route are affected.",
+    "cat": "Telangana · Weather",
+    "statl": "Affected in Vijayawada division"
+   },
+   "hi": {
+    "h": "मुरासु कमजोर होकर पूर्वी तेलंगाना पर डिप्रेशन बना; 29 ट्रेनें प्रभावित",
+    "p": "गंभीर चक्रवात मुरासु का अवशेष पूर्वी तेलंगाना और उससे सटे तटीय आंध्र प्रदेश पर डिप्रेशन में कमजोर हो गया है। बुधवार सुबह 5:30 बजे यह खम्मम से लगभग 30 किमी दक्षिण और नंदीगामा से 30 किमी उत्तर-पश्चिम में था। आईएमडी ने कहा कि 12 घंटों में इसके कम दबाव के क्षेत्र में बदलने की संभावना है। विजयवाड़ा–ओंगोल–गूडूर मार्ग पर ट्रेनें अस्थायी रूप से रोकी गई हैं।",
+    "pts": [
+     "10 किमी प्रति घंटे की रफ्तार से उत्तर की ओर बढ़ रहा",
+     "बापटला, गुंटूर, पलनाडु और एनटीआर जिलों में भारी बारिश का अनुमान",
+     "ट्रेन जानकारी के लिए 139 पर कॉल करने की सलाह"
+    ],
+    "why": "खम्मम और नलगोंडा सहित पूर्वी तेलंगाना, तटीय आंध्र के लोग और इस मार्ग के रेल यात्री प्रभावित होंगे।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "विजयवाड़ा डिवीजन में प्रभावित"
+   },
+   "d": "04.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "ఏపీ · మురసు తుపాను",
+   "col": "--c-water",
+   "art": "power",
+   "stat": "2,750",
+   "statl": "దెబ్బతిన్న విద్యుత్ స్తంభాలు",
+   "h": "మురసు తుపాను: బాపట్ల, గుంటూరులో నలుగురు మృతి; 1,367 గ్రామాలకు కరెంటు కట్",
+   "p": "మురసు తుపాను ప్రకాశం, గుంటూరు జిల్లాలను తీవ్రంగా దెబ్బతీసింది. బాపట్లలో ముగ్గురు, గుంటూరులో ఒకరు మృతి చెందారు; బాపట్ల, పల్నాడు, ప్రకాశం జిల్లాల్లో పలువురు గల్లంతయ్యారు. సీపీడీసీఎల్ పరిధిలో 2,750 స్తంభాలు దెబ్బతిని 1,367 గ్రామాలకు విద్యుత్ సరఫరా ఆగిపోయింది. 24 గంటల్లో సరఫరా పునరుద్ధరించాలని మంత్రి గొట్టిపాటి రవికుమార్ ఆదేశించారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--04th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110400506",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "597 గ్రామాల్లో పునరుద్ధరణ పనులు ప్రారంభం",
+    "విద్యుత్ ప్రమాదాలపై ఫిర్యాదుకు టోల్‌ఫ్రీ 1912",
+    "తమిళనాడు, కర్ణాటక, తెలంగాణ నుంచి సహాయ బృందాలు"
+   ],
+   "why": "కరెంటు లేక ఇబ్బంది పడుతున్న ప్రకాశం, బాపట్ల, గుంటూరు గ్రామాల ప్రజలకు ఇది కీలక సమాచారం.",
+   "en": {
+    "h": "Cyclone Murasu: four dead in Bapatla, Guntur; power cut in 1,367 villages",
+    "p": "Cyclone Murasu hit Prakasam and Guntur districts hard. Three people died in Bapatla and one in Guntur; several people are missing in Bapatla, Palnadu and Prakasam districts. In the CPDCL area, 2,750 poles were damaged and power supply stopped in 1,367 villages. Minister Gottipati Ravi Kumar ordered supply to be restored within 24 hours.",
+    "pts": [
+     "Restoration work begun in 597 villages",
+     "Toll-free 1912 for complaints about electrical hazards",
+     "Help teams from Tamil Nadu, Karnataka and Telangana"
+    ],
+    "why": "This is key information for villagers in Prakasam, Bapatla and Guntur struggling without power.",
+    "cat": "AP · Cyclone Murasu",
+    "statl": "Electric poles damaged"
+   },
+   "hi": {
+    "h": "चक्रवात मुरासु: बापटला, गुंटूर में चार की मौत; 1,367 गांवों में बिजली गुल",
+    "p": "चक्रवात मुरासु ने प्रकाशम और गुंटूर जिलों को बुरी तरह प्रभावित किया। बापटला में तीन और गुंटूर में एक व्यक्ति की मौत हुई; बापटला, पलनाडु और प्रकाशम जिलों में कई लोग लापता हैं। सीपीडीसीएल क्षेत्र में 2,750 खंभे क्षतिग्रस्त हुए और 1,367 गांवों में बिजली आपूर्ति बंद हो गई। मंत्री गोट्टिपाटी रवि कुमार ने 24 घंटे में आपूर्ति बहाल करने का आदेश दिया।",
+    "pts": [
+     "597 गांवों में बहाली का काम शुरू",
+     "बिजली खतरों की शिकायत के लिए टोल-फ्री 1912",
+     "तमिलनाडु, कर्नाटक और तेलंगाना से सहायता दल"
+    ],
+    "why": "बिना बिजली परेशान प्रकाशम, बापटला और गुंटूर के गांवों के लोगों के लिए यह अहम जानकारी है।",
+    "cat": "आंध्र प्रदेश · चक्रवात मुरासु",
+    "statl": "क्षतिग्रस्त बिजली खंभे"
+   },
+   "d": "04.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవంబర్ 5",
+   "statl": "ఎంపీటీసీ, జెడ్పీటీసీ పోలింగ్",
+   "h": "ఏపీలో రేపు ఎంపీటీసీ, జెడ్పీటీసీ పోలింగ్; నేడు, రేపు సెలవు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జెడ్పీటీసీ ఎన్నికల పోలింగ్ నవంబర్ 5న జరగనుంది. ఏర్పాట్ల కోసం నవంబర్ 4, 5 తేదీల్లో ఎన్నికల ప్రక్రియలో భాగమైన ప్రభుత్వ కార్యాలయాలు, విద్యాసంస్థలకు ప్రభుత్వం సెలవు ప్రకటించింది. ఓట్ల లెక్కింపు నవంబర్ 7న జరుగుతుంది. తుపాను ప్రభావంపై రాష్ట్ర ఎన్నికల సంఘం ఈరోజు సమీక్షించనుంది.",
+   "src": "Business Standard, Andhra Jyothy",
+   "url": "https://www.business-standard.com/india-news/andhra-pradesh-school-holiday-schools-to-stay-closed-on-nov-4-5-know-why-nc-126110301193_1.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "నవంబర్ 4: పోలింగ్ ఏర్పాట్ల కోసం సెలవు",
+    "నవంబర్ 7న ఓట్ల లెక్కింపు",
+    "కొన్ని ప్రాంతాల్లో ఎన్నికలపై సమీక్ష తర్వాత స్పష్టత"
+   ],
+   "why": "గ్రామీణ ఏపీ ఓటర్లు, సెలవు వర్తించే విద్యార్థులు, ఉద్యోగులపై ఇది నేరుగా ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "AP votes in MPTC, ZPTC polls tomorrow; holiday today and tomorrow",
+    "p": "Polling for the MPTC and ZPTC elections in Andhra Pradesh will be held on November 5. For the arrangements, the government declared a holiday on November 4 and 5 for government offices and educational institutions involved in the election process. Votes will be counted on November 7. The State Election Commission will review the cyclone's impact today.",
+    "pts": [
+     "November 4: holiday for polling arrangements",
+     "Votes to be counted on November 7",
+     "Clarity on polls in some areas after the review"
+    ],
+    "why": "This directly affects rural AP voters and the students and employees covered by the holiday.",
+    "cat": "AP · Elections",
+    "statl": "MPTC, ZPTC polling"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में कल एमपीटीसी, जेडपीटीसी मतदान; आज और कल छुट्टी",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनाव के लिए मतदान 5 नवंबर को होगा। तैयारियों के लिए सरकार ने चुनाव प्रक्रिया से जुड़े सरकारी दफ्तरों और शिक्षण संस्थानों में 4 और 5 नवंबर को छुट्टी घोषित की है। मतगणना 7 नवंबर को होगी। राज्य चुनाव आयोग आज चक्रवात के असर की समीक्षा करेगा।",
+    "pts": [
+     "4 नवंबर: मतदान तैयारियों के लिए छुट्टी",
+     "7 नवंबर को मतगणना",
+     "समीक्षा के बाद कुछ इलाकों में चुनाव पर स्पष्टता"
+    ],
+    "why": "इसका सीधा असर ग्रामीण आंध्र के मतदाताओं और छुट्टी के दायरे में आने वाले छात्रों व कर्मचारियों पर पड़ेगा।",
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "एमपीटीसी, जेडपीटीसी मतदान"
+   },
+   "d": "04.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తెలంగాణ · గల్ఫ్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "12 ఏళ్లు",
+   "statl": "సౌదీలో ఉపాధి పొందిన కాలం",
+   "h": "రియాద్ విమానాశ్రయంపై క్షిపణి దాడి: గాయపడిన కామారెడ్డి వాసి మృతి",
+   "p": "సౌదీ అరేబియాలోని రియాద్ విమానాశ్రయంపై అక్టోబర్‌లో జరిగిన క్షిపణి దాడిలో తీవ్రంగా గాయపడిన కామారెడ్డికి చెందిన 36 ఏళ్ల వ్యక్తి చికిత్స పొందుతూ మృతి చెందారు. ఆయన సుమారు 12 ఏళ్ల క్రితం ఉపాధి కోసం సౌదీ వెళ్లారు. కొన్నేళ్లుగా విమానాశ్రయంలోని ఓ కాఫీ దుకాణంలో పనిచేస్తున్నారు. రియాద్‌లోని సైనిక ఆస్పత్రిలో ఆయనకు చికిత్స అందించారు.",
+   "src": "Andhra Jyothy, Deccan Chronicle",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
+   "sec": [
+    "telangana",
+    "world"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "pts": [
+    "దాడిలో 13 మందికి పైగా మృతి చెందినట్లు నివేదికలు",
+    "కింగ్ ఫహద్ ఆర్మ్‌డ్ ఫోర్సెస్ ఆస్పత్రిలో చికిత్స",
+    "కామారెడ్డిలో కుటుంబంలో విషాదం"
+   ],
+   "why": "గల్ఫ్‌లో పనిచేస్తున్న తెలంగాణ కార్మికుల కుటుంబాలను అక్కడి ఉద్రిక్తతలు నేరుగా తాకుతున్నాయని ఈ ఘటన చూపుతోంది.",
+   "en": {
+    "h": "Riyadh airport missile attack: injured Kamareddy man dies",
+    "p": "A 36-year-old man from Kamareddy, critically injured in the October missile attack on Riyadh airport in Saudi Arabia, has died during treatment. He went to Saudi Arabia for work about 12 years ago and had worked for a few years at a coffee outlet at the airport. He had been treated at a military hospital in Riyadh.",
+    "pts": [
+     "Reports say more than 13 were killed in the attack",
+     "Treated at King Fahd Armed Forces Hospital",
+     "Grief in his family in Kamareddy"
+    ],
+    "why": "The incident shows how tensions in the Gulf directly touch the families of Telangana workers there.",
+    "cat": "Telangana · Gulf",
+    "statl": "Years working in Saudi Arabia"
+   },
+   "hi": {
+    "h": "रियाद हवाई अड्डे पर मिसाइल हमला: घायल कामारेड्डी निवासी की मौत",
+    "p": "सऊदी अरब में रियाद हवाई अड्डे पर अक्टूबर में हुए मिसाइल हमले में गंभीर रूप से घायल कामारेड्डी के 36 वर्षीय व्यक्ति की इलाज के दौरान मौत हो गई। वह करीब 12 साल पहले रोजगार के लिए सऊदी गए थे और कुछ वर्षों से हवाई अड्डे पर एक कॉफी दुकान में काम कर रहे थे। रियाद के एक सैन्य अस्पताल में उनका इलाज हुआ था।",
+    "pts": [
+     "रिपोर्टों के अनुसार हमले में 13 से अधिक लोगों की मौत",
+     "किंग फहद आर्म्ड फोर्सेज अस्पताल में इलाज",
+     "कामारेड्डी में परिवार में शोक"
+    ],
+    "why": "यह घटना दिखाती है कि खाड़ी का तनाव वहां काम करने वाले तेलंगाना के मजदूरों के परिवारों को सीधे प्रभावित करता है।",
+    "cat": "तेलंगाना · खाड़ी",
+    "statl": "सऊदी अरब में काम के वर्ष"
+   },
+   "d": "04.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "భారత్ · ఢిల్లీ",
+   "col": "--c-city",
+   "art": "power",
+   "stat": "377",
+   "statl": "ఢిల్లీ గాలి నాణ్యత సూచీ (ఉదయం 8)",
+   "h": "ఢిల్లీని కమ్మేసిన పొగమంచు; 20 కేంద్రాల్లో 'తీవ్ర' కాలుష్యం",
+   "p": "దేశ రాజధాని ఢిల్లీలో గాలి నాణ్యత వరుసగా మూడో రోజూ 'చాలా దారుణం' విభాగంలోనే ఉంది. బుధవారం ఉదయం 8 గంటలకు ఏక్యూఐ 377గా నమోదైంది. 59 పర్యవేక్షణ కేంద్రాల్లో 20 చోట్ల 'తీవ్ర' స్థాయి కనిపించింది. పంజాబీ బాగ్‌లో అత్యధికంగా 456 నమోదైంది. ఎన్‌సీఆర్‌లో గ్రాప్ రెండో దశ ఆంక్షలు అమల్లో ఉన్నాయి.",
+   "src": "National Herald, PTC News",
+   "url": "https://www.nationalheraldindia.com/national/smog-blankets-delhi-as-aqi-hits-377-severe-pollution-recorded-at-20-stations",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "IN",
+   "pts": [
+    "ప్రధాన కాలుష్యకారకం పీఎం2.5",
+    "శుక్రవారం వరకు ఇదే పరిస్థితి ఉంటుందని అంచనా",
+    "నవంబర్ 2న ఆరు రాష్ట్రాల్లో 219 పంట దహనాలు"
+   ],
+   "why": "ఢిల్లీ-ఎన్‌సీఆర్‌లో నివసించే, అక్కడికి ప్రయాణించే తెలుగువారి ఆరోగ్యంపై ఇది ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Smog blankets Delhi; 'severe' pollution at 20 stations",
+    "p": "Delhi's air quality stayed in the 'very poor' category for a third straight day. The AQI was 377 at 8 am on Wednesday. Twenty of 59 monitoring stations recorded 'severe' levels. Punjabi Bagh recorded the highest, 456. Stage II GRAP curbs are in force across the NCR.",
+    "pts": [
+     "PM2.5 is the main pollutant",
+     "Same conditions expected until Friday",
+     "219 farm fires in six states on November 2"
+    ],
+    "why": "This affects the health of Telugu people living in or travelling to Delhi-NCR.",
+    "cat": "India · Delhi",
+    "statl": "Delhi air quality index (8 am)"
+   },
+   "hi": {
+    "h": "दिल्ली पर छाया स्मॉग; 20 केंद्रों पर 'गंभीर' प्रदूषण",
+    "p": "राजधानी दिल्ली में हवा की गुणवत्ता लगातार तीसरे दिन 'बहुत खराब' श्रेणी में रही। बुधवार सुबह 8 बजे एक्यूआई 377 दर्ज किया गया। 59 निगरानी केंद्रों में से 20 पर 'गंभीर' स्तर दर्ज हुआ। पंजाबी बाग में सबसे अधिक 456 दर्ज हुआ। एनसीआर में ग्रैप के दूसरे चरण की पाबंदियां लागू हैं।",
+    "pts": [
+     "मुख्य प्रदूषक पीएम2.5",
+     "शुक्रवार तक यही स्थिति रहने का अनुमान",
+     "2 नवंबर को छह राज्यों में पराली जलाने की 219 घटनाएं"
+    ],
+    "why": "इसका असर दिल्ली-एनसीआर में रहने या वहां जाने वाले तेलुगु लोगों की सेहत पर पड़ता है।",
+    "cat": "भारत · दिल्ली",
+    "statl": "दिल्ली वायु गुणवत्ता सूचकांक (सुबह 8 बजे)"
+   },
+   "d": "04.11.2026",
+   "t": "10:35"
+  },
   {
    "cat": "ఆలేరు · మున్సిపాలిటీ",
    "col": "--c-water",
@@ -873,121 +1118,6 @@
    "place": "హైదరాబాద్",
    "d": "03.11.2026",
    "t": "18:46"
-  },
-  {
-   "cat": "తెలంగాణ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "deadline",
-   "stat": "30 డిసెం.",
-   "statl": "పట్టభద్రుల తుది ఓటర్ల జాబితా",
-   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఓటు నమోదు: నవంబర్ 6 తర్వాతా దరఖాస్తుకు అవకాశం",
-   "p": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల ఓటరు నమోదుకు ఫారం-18 దరఖాస్తులను నవంబర్ 6 తర్వాత కూడా ఇవ్వొచ్చని రాష్ట్ర ప్రధాన ఎన్నికల అధికారి తెలిపారు. వరంగల్-ఖమ్మం-నల్గొండ, మహబూబ్‌నగర్-రంగారెడ్డి-హైదరాబాద్ నియోజకవర్గాల ముసాయిదా జాబితా నవంబర్ 25న వెలువడుతుంది. డిసెంబర్ 10 వరకు అభ్యంతరాలు స్వీకరించి, డిసెంబర్ 30న తుది జాబితా ప్రకటిస్తారు. ఎన్నికలు వచ్చే మార్చిలో జరగనున్నాయి.",
-   "src": "Siasat Daily (PTI)",
-   "url": "https://www.siasat.com/voters-can-register-for-mlc-polls-after-nov-6-telangana-ceo-3569203/",
-   "sec": [
-    "తెలంగాణ"
-   ],
-   "place": "తెలంగాణ",
-   "d": "03.11.2026",
-   "t": "18:46"
-  },
-  {
-   "cat": "ప్రపంచం · ఉక్రెయిన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "73",
-   "statl": "ఖార్కివ్ ఆసుపత్రి దాడిలో గాయపడినవారు",
-   "h": "ఉక్రెయిన్ ఆసుపత్రి, విద్యుత్ కేంద్రాలపై రష్యా దాడులు; 73 మందికి గాయాలు",
-   "p": "సోమవారం రాత్రి రష్యా జరిపిన దాడుల్లో ఖార్కివ్‌లోని ఓ ఆసుపత్రి దెబ్బతిని 73 మంది గాయపడ్డారని ఉక్రెయిన్ అధ్యక్షుడు జెలెన్‌స్కీ తెలిపారు. 289 డ్రోన్లు, 76 క్షిపణులతో తొమ్మిది ప్రాంతాల్లోని విద్యుత్ కేంద్రాలను లక్ష్యంగా చేసుకున్నారని చెప్పారు. జైటోమిర్ ప్రాంతంలో 1.8 లక్షల మందికి పైగా కరెంటు లేకుండా పోయారు. సైనిక అవసరాల విద్యుత్ కేంద్రాలపైనే దాడి చేశామని రష్యా పేర్కొంది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
-   "sec": [
-    "ప్రపంచం"
-   ],
-   "place": "ఉక్రెయిన్",
-   "d": "03.11.2026",
-   "t": "18:46"
-  },
-  {
-   "cat": "ప్రపంచం · గల్ఫ్",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "13",
-   "statl": "మంది భారత సిబ్బందిని కాపాడిన ఒమన్ కోస్ట్ గార్డ్",
-   "h": "ఒమన్ తీరంలో భారత నౌకపై దాడి; ఒక నావికుడు మృతి",
-   "p": "ఒమన్‌లోని లిమా సమీపంలో భారత జెండా ఉన్న ‘ఎంఎస్‌వీ అల్ జుసుఫీ’ నౌకను సోమవారం సాయంత్రం గుర్తు తెలియని వైమానిక వస్తువు ఢీకొట్టింది. నౌకలోని 14 మంది భారతీయుల్లో గుజరాత్‌కు చెందిన ఒకరు మృతి చెందగా, 13 మందిని ఒమన్ కోస్ట్ గార్డ్ కాపాడింది. దాడిని ఖండించిన విదేశాంగ శాఖ, ఉద్రిక్తతలు వెంటనే తగ్గించాలని, దౌత్య పరిష్కారం కావాలని పిలుపునిచ్చింది.",
-   "src": "The Tribune (ANI)",
-   "url": "https://www.tribuneindia.com/news/commercial-vessel/india-calls-for-immediate-de-escalation-diplomatic-solution-after-indian-seafarer-killed-in-vessel-attack-off-oman-coast",
-   "sec": [
-    "ప్రపంచం"
-   ],
-   "place": "ఒమన్",
-   "d": "03.11.2026",
-   "t": "18:46"
-  },
-  {
-   "cat": "ఏపీ · పుర ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "1,456",
-   "statl": "కూటమి గెలిచిన వార్డులు (1,608లో)",
-   "h": "ఏపీ పుర ఫలితాలు: ప్రకటించిన 1,608 వార్డుల్లో 1,456 కూటమి ఖాతాలో",
-   "p": "ఏపీ పుర ఎన్నికల్లో మధ్యాహ్నం 1:47 గంటల వరకు మొత్తం 3,942 వార్డుల్లో 1,608 ఫలితాలు ప్రకటించారు. వీటిలో కూటమి 1,456 (టీడీపీ 1,225, జనసేన 168, బీజేపీ 63), వైకాపా 132, స్వతంత్రులు 15, వామపక్షాలు 5 వార్డులు గెలుచుకున్నాయి. తుపాను కారణంగా ఒంగోలులో లెక్కింపు వాయిదా పడింది. మిగతా చోట్ల లెక్కింపు కొనసాగుతోంది.",
-   "src": "India TV",
-   "url": "https://www.indiatvnews.com/news/india/andhra-pradesh-urban-local-body-election-results-2026-live-updates-on-municipal-corporations-municipalities-nagar-panchayats-visuals-reactions-2026-11-03-1058535",
-   "sec": [
-    "ఆంధ్రప్రదేశ్"
-   ],
-   "place": "ఆంధ్రప్రదేశ్",
-   "d": "03.11.2026",
-   "t": "18:46"
-  },
-  {
-   "cat": "భారత్ · సుప్రీంకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "9",
-   "statl": "విభాగాలుగా పిటిషన్ల విచారణ",
-   "h": "నిరసన స్థలాన్ని ఎవరూ శాశ్వతంగా ఆక్రమించలేరు: సుప్రీంకోర్టు",
-   "p": "నిర్దేశిత నిరసన ప్రదేశాన్ని ఏ వ్యక్తి గానీ, సంస్థ గానీ నిరవధికంగా ఆక్రమించే హక్కు లేదని సుప్రీంకోర్టు మంగళవారం స్పష్టం చేసింది. ఇతరులకూ అదే ప్రదేశాన్ని వాడుకునే సమాన హక్కు ఉందని పేర్కొంది. అక్టోబర్‌లో దిల్లీలో జరిగిన నిరసనలపై దాఖలైన పిటిషన్లను విచారించిన సీజేఐ సూర్యకాంత్ ధర్మాసనం, నిరసన హక్కుతో పాటు వ్యాపార హక్కునూ సమతుల్యం చేయాలని చెప్పింది.",
-   "src": "Business Standard",
-   "url": "https://www.business-standard.com/india-news/no-one-can-claim-indefinite-right-to-occupy-designated-protest-site-sc-126110301084_1.html",
-   "sec": [
-    "india"
-   ],
-   "place": "TS",
-   "pts": [
-    "ప్రతి ఒక్కరికీ నిరసన తెలిపే హక్కు ఉందన్న సీజేఐ",
-    "పండుగ సీజన్ నష్టాలపై వ్యాపారుల పిటిషన్‌కు నోటీసు",
-    "సంబంధిత పిటిషన్లు తొమ్మిది విభాగాలుగా విభజన"
-   ],
-   "why": "నిరసనకారుల హక్కులు, చుట్టుపక్కల వ్యాపారుల జీవనోపాధి మధ్య సమతుల్యతపై ఈ వ్యాఖ్యలు కీలకం.",
-   "d": "03.11.2026",
-   "t": "16:38"
-  },
-  {
-   "cat": "భారత్ · ఆర్థికం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "1,000+",
-   "statl": "పాయింట్లు ఎగిసిన సెన్సెక్స్",
-   "h": "ఎల్‌టీసీజీ పన్ను సమీక్ష సంకేతం; సెన్సెక్స్ వెయ్యి పాయింట్లు జంప్",
-   "p": "దీర్ఘకాలిక మూలధన లాభాల పన్నును సమీక్షించే అవకాశం ఉందని ప్రభుత్వం సంకేతమివ్వడంతో మంగళవారం స్టాక్ మార్కెట్లు దూసుకెళ్లాయి. సెన్సెక్స్ వెయ్యి పాయింట్లకు పైగా పెరిగి 76,700 దాటగా, నిఫ్టీ 23,700 స్థాయిని తిరిగి అందుకుంది. ఒక్కరోజులోనే బీఎస్‌ఈ కంపెనీల విలువ దాదాపు రూ.4 లక్షల కోట్లు పెరిగింది. అయితే పన్నులో ఇంకా అధికారిక మార్పులు ప్రకటించలేదు.",
-   "src": "Whalesbook",
-   "url": "https://www.whalesbook.com/news/English/sebiexchange/Sensex-Jumps-1000-Points-as-Government-Signals-LTCG-Tax-Review/6ae9a0d04fc30694db597b97",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "place": "TS",
-   "pts": [
-    "సెన్సెక్స్ 76,700 పైకి, నిఫ్టీ 23,700 పైకి",
-    "బ్రెంట్ ముడిచమురు బ్యారెల్‌కు 105 డాలర్ల దిగువకు",
-    "విదేశీ సంస్థాగత పెట్టుబడిదారులు నికర కొనుగోళ్లకు మళ్లారు"
-   ],
-   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన సామాన్య మదుపర్లపై ఈ పరిణామం ప్రభావం చూపుతుంది.",
-   "d": "03.11.2026",
-   "t": "16:38"
   }
  ]
 }
