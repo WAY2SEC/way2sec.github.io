@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Way2Sec e-paper: turns one day's stories (archive/YYYY-MM-DD.json) and open jobs into a newspaper PDF.
 
-usage:  python3 tools/epaper.py [YYYY-MM-DD]      (default: today in India)
+usage:  python3 tools/epaper.py [NEWS-DATE] [ISSUE-DATE]
+        NEWS-DATE  = the day whose stories go in (default: yesterday in India)
+        ISSUE-DATE = the date printed on the paper and used for the files (default: today in India)
+        The morning edition (5:30 am IST) carries the full previous day's news.
 output: epaper/YYYY-MM-DD.pdf  (+ epaper/index.json listing all issues)
 
 The PDF is locked against copying text and editing (it can be read and printed),
@@ -280,8 +283,11 @@ def serve():
 
 
 def main():
-    iso = sys.argv[1] if len(sys.argv) > 1 else datetime.datetime.now(IST).date().isoformat()
-    day = json.load(open(os.path.join(ROOT, 'archive', iso + '.json'), encoding='utf-8'))
+    today = datetime.datetime.now(IST).date()
+    news_iso = sys.argv[1] if len(sys.argv) > 1 else (today - datetime.timedelta(days=1)).isoformat()
+    iso = sys.argv[2] if len(sys.argv) > 2 else (news_iso if len(sys.argv) > 1 else today.isoformat())
+    day = json.load(open(os.path.join(ROOT, 'archive', news_iso + '.json'), encoding='utf-8'))
+    d0 = datetime.date.fromisoformat(iso); day = dict(day, date=f'{d0.day:02d}.{d0.month:02d}.{d0.year}')
     try: jobs = json.load(open(os.path.join(ROOT, 'jobs.json'), encoding='utf-8')).get('jobs', [])
     except Exception: jobs = []
     out_dir = os.path.join(ROOT, 'epaper'); os.makedirs(out_dir, exist_ok=True)
