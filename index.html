@@ -149,7 +149,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .strip.sm .lgw{display:flex;flex-direction:column;gap:3px;min-width:0}
 .strip.sm img{height:22px;padding:0;border:0}
 .strip.sm .rt{font-size:11.5px;font-weight:700;color:#C3D0E2;line-height:1.3;white-space:nowrap}
-.strip.sm .tg{font-size:15px;font-weight:800;color:#FFD54A;white-space:nowrap;text-align:right}
+.strip.sm .tg{font-size:14px;font-weight:800;color:#EEF2F8;white-space:nowrap;text-align:right;letter-spacing:.01em}
 .text{flex:0 0 auto;display:flex;flex-direction:column;gap:8px;padding:12px var(--gr) 8px var(--gx)}
 .text>*{flex-shrink:0}
 .text h2{margin:0;font-size:clamp(18px,5vw,22px);font-weight:800;line-height:1.38;text-wrap:balance;color:var(--hl-ink)}
@@ -583,7 +583,7 @@ function jobHTML(s,i){
     <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?J('lastd')+' '+esc(s.last):(s.d?J('pub')+' '+esc(s.d):'')}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip sm"><div class="lgw"><img src="logo-light.png" alt="Way2Sec"><span class="rt">${J('s3')}</span></div><span class="tg">${J('s1')}</span></div>
+  <div class="strip sm"><div class="lgw"><img src="logo-light.png" alt="Way2Sec"><span class="rt">${J('s3')}</span></div><span class="tg">${U('tag')}</span></div>
   <div class="text"${s._lang?` lang="${s._lang}"`:''}>
     <h2>${esc(s.h)}</h2>
     ${left?`<span class="left${dl<=3?' urg':''}">${left}</span>`:''}
@@ -608,7 +608,7 @@ function cardHTML(s,i){
     <div class="ptop"><div class="chips">${s.brk?'<span class="chip brk">🔴 BREAKING</span>':''}<span class="chip">${esc(s.cat||U('news'))}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip sm"><div class="lgw"><img src="logo-light.png" alt="Way2Sec"><span class="rt">${U('sub')}</span></div><span class="tg">${U('l1')}</span></div>
+  <div class="strip sm"><div class="lgw"><img src="logo-light.png" alt="Way2Sec"><span class="rt">${U('sub')}</span></div><span class="tg">${U('tag')}</span></div>
   <div class="text"${s._lang?` lang="${s._lang}"`:''}>
     <h2>${esc(s.h)}</h2>
     <p class="sum">${esc(s.p)}</p>
@@ -820,7 +820,7 @@ async function cardImage(s){
   let x=P;
   try{ const lg=await loadImg('logo-light.png'); const lh=50, lw=lg.width*lh/lg.height; ctx.drawImage(lg,P,yy+16,lw,lh); }catch(e){}
   ctx.font=`700 25px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?J('s3'):U('sub'),P,yy+104);
-  ctx.font=`800 36px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.textAlign='right'; ctx.fillText(s.kind==='job'?(J('s1').replace('💼 ','')+J('s2')):U('l1'),W-P,yy+76); ctx.textAlign='left';
+  ctx.font=`800 32px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.textAlign='right'; ctx.fillText(U('tag'),W-P,yy+76); ctx.textAlign='left';
   // text
   yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
   yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
