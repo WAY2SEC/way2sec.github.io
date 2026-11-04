@@ -1,8 +1,200 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 27,
+ "count": 31,
  "stories": [
+  {
+   "cat": "ప్రపంచం · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "-479",
+   "statl": "డౌ జోన్స్ ఫ్యూచర్స్ పతనం (పాయింట్లు)",
+   "h": "అమెరికా ఎన్నికల్లో డెమొక్రాట్ల హవా; వాల్‌స్ట్రీట్ ఫ్యూచర్స్ పతనం, సెన్సెక్స్ పైకి",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్ల విజయం తర్వాత బుధవారం అక్కడి స్టాక్ ఫ్యూచర్స్ పడిపోయాయి. డౌ జోన్స్ ఫ్యూచర్స్ కనీసం 479 పాయింట్లు, నాస్‌డాక్ 100 ఫ్యూచర్స్ దాదాపు 2% తగ్గాయి. ఫలితాలను అంగీకరిస్తానని, డెమొక్రాట్లతో కలిసి పనిచేస్తానని ట్రంప్ చెప్పారు. మన దేశంలో మాత్రం ఉదయం సెన్సెక్స్ 0.62% పెరిగి 77,396 గరిష్ఠానికి చేరింది.",
+   "src": "Goodreturns, The Week",
+   "url": "https://www.goodreturns.in/news/us-stock-market-to-fall-wednesday-dow-jones-nasdaq-futures-crash-as-democrats-win-us-midterm-sp500-1545111.html",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "నాస్‌డాక్ 100 ఫ్యూచర్స్ 690 పాయింట్లు డౌన్",
+    "నిఫ్టీ 0.56% పెరిగి 23,946 గరిష్ఠం",
+    "బ్రెంట్ ముడిచమురు నాలుగు వారాల కనిష్ఠం, బ్యారెల్ దాదాపు $103"
+   ],
+   "why": "అమెరికా రాజకీయ మార్పు ప్రపంచ మార్కెట్లు, చమురు ధరలు, మన పెట్టుబడిదారులపై ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Democrats sweep US midterms; Wall Street futures fall, Sensex rises",
+    "p": "US stock futures fell on Wednesday after the Democrats' win in the midterm elections. Dow Jones futures dropped at least 479 points and Nasdaq 100 futures fell about 2%. Trump said he will accept the results and work with the Democrats. In India, however, the Sensex rose 0.62% in the morning to a high of 77,396.",
+    "pts": [
+     "Nasdaq 100 futures down 690 points",
+     "Nifty up 0.56% to a high of 23,946",
+     "Brent crude at four-week low, about $103 a barrel"
+    ],
+    "why": "The political shift in the US may affect world markets, oil prices and Indian investors.",
+    "cat": "World · Markets",
+    "statl": "Fall in Dow Jones futures (points)"
+   },
+   "hi": {
+    "h": "अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स की बढ़त; वॉल स्ट्रीट फ्यूचर्स गिरे, सेंसेक्स चढ़ा",
+    "p": "अमेरिका के मध्यावधि चुनाव में डेमोक्रेट्स की जीत के बाद बुधवार को वहां के स्टॉक फ्यूचर्स गिर गए। डाउ जोन्स फ्यूचर्स कम से कम 479 अंक और नैस्डैक 100 फ्यूचर्स लगभग 2% गिरे। ट्रंप ने कहा कि वे नतीजे स्वीकार करेंगे और डेमोक्रेट्स के साथ मिलकर काम करेंगे। वहीं भारत में सुबह सेंसेक्स 0.62% बढ़कर 77,396 के उच्च स्तर पर पहुंचा।",
+    "pts": [
+     "नैस्डैक 100 फ्यूचर्स 690 अंक नीचे",
+     "निफ्टी 0.56% बढ़कर 23,946 के उच्च स्तर पर",
+     "ब्रेंट कच्चा तेल चार हफ्ते के निचले स्तर पर, करीब $103 प्रति बैरल"
+    ],
+    "why": "अमेरिका में राजनीतिक बदलाव का असर दुनिया के बाजारों, तेल की कीमतों और भारतीय निवेशकों पर पड़ सकता है।",
+    "cat": "दुनिया · बाजार",
+    "statl": "डाउ जोन्स फ्यूचर्स में गिरावट (अंक)"
+   },
+   "d": "04.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ఏపీ · మద్యం కేసు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "₹195.33 కోట్లు",
+   "statl": "సీఐడీ ఎఫ్ఐఆర్‌లో ఆరోపించిన నష్టం",
+   "h": "మద్యం రవాణా కేసు: నేడు ఈడీ ఎదుట మాజీ మంత్రి అంబటి రాంబాబు",
+   "p": "ఏపీ మద్యం రవాణా కాంట్రాక్టుల్లో అక్రమాలు జరిగాయన్న ఆరోపణల కేసులో వైఎస్ఆర్‌సీపీ నేత, మాజీ మంత్రి అంబటి రాంబాబు ఈరోజు హైదరాబాద్‌లోని ఈడీ జోనల్ కార్యాలయంలో విచారణకు హాజరు కావాలి. గతంలో ఆరోగ్య కారణాలతో ఆయన హాజరు కాలేదు. ఈ కేసును ఈడీ మనీలాండరింగ్ నిరోధక చట్టం కింద దర్యాప్తు చేస్తోంది.",
+   "src": "Deccan Chronicle, ETV Bharat",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ed-summons-ambati-rambabu-in-liquor-scam-case-on-nov-4-2001334",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "వైఎస్ఆర్‌సీపీ హయాంలో రవాణా కాంట్రాక్టులపై ఆరోపణలు",
+    "ఇదే కేసులో గతంలో పలువురి అరెస్ట్",
+    "సీఐడీ ఎఫ్ఐఆర్ ఆధారంగా ఈడీ దర్యాప్తు"
+   ],
+   "why": "రాష్ట్రంలో చర్చనీయాంశమైన మద్యం కేసు దర్యాప్తు ఏ దిశగా వెళ్తుందో ఈ విచారణతో తెలియనుంది.",
+   "en": {
+    "h": "Liquor transport case: former minister Ambati Rambabu before ED today",
+    "p": "YSRCP leader and former minister Ambati Rambabu has to appear today for questioning at the ED zonal office in Hyderabad, in the case of alleged irregularities in Andhra Pradesh liquor transport contracts. He did not appear earlier, citing health reasons. The ED is probing the case under the Prevention of Money Laundering Act.",
+    "pts": [
+     "Allegations over transport contracts during YSRCP rule",
+     "Several people arrested earlier in the same case",
+     "ED probe based on a CID FIR"
+    ],
+    "why": "This questioning will show which way the much-discussed liquor case probe in the state is heading.",
+    "cat": "AP · Liquor case",
+    "statl": "Loss alleged in the CID FIR"
+   },
+   "hi": {
+    "h": "शराब परिवहन मामला: पूर्व मंत्री अंबाटी रामबाबू आज ईडी के सामने",
+    "p": "आंध्र प्रदेश में शराब परिवहन ठेकों में कथित अनियमितताओं के मामले में वाईएसआरसीपी नेता और पूर्व मंत्री अंबाटी रामबाबू को आज हैदराबाद में ईडी के ज़ोनल कार्यालय में पूछताछ के लिए पेश होना है। पहले वे स्वास्थ्य कारणों से पेश नहीं हुए थे। ईडी इस मामले की जांच धन शोधन निवारण अधिनियम के तहत कर रहा है।",
+    "pts": [
+     "वाईएसआरसीपी शासन में परिवहन ठेकों पर आरोप",
+     "इसी मामले में पहले कई लोग गिरफ्तार",
+     "सीआईडी एफआईआर के आधार पर ईडी जांच"
+    ],
+    "why": "इस पूछताछ से पता चलेगा कि राज्य में चर्चित शराब मामले की जांच किस दिशा में जा रही है।",
+    "cat": "आंध्र प्रदेश · शराब मामला",
+    "statl": "सीआईडी एफआईआर में आरोपित नुकसान"
+   },
+   "d": "04.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ఏపీ · ఒంగోలు",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "2 కిలోలు",
+   "statl": "దోచుకెళ్లిన బంగారం",
+   "h": "ఒంగోలులో ఆయుధాలతో బెదిరించి వ్యాపారుల నుంచి 2 కిలోల బంగారం దోపిడీ",
+   "p": "ఒంగోలులో బుధవారం తెల్లవారుజామున ఆయుధాలతో వచ్చిన దుండగులు ఇద్దరు వ్యాపారులను బెదిరించి సుమారు 2 కిలోల బంగారం దోచుకెళ్లారు. కోయంబత్తూరు నుంచి ఒంగోలులోని దుకాణాలకు బంగారం సరఫరా చేసే వ్యాపారులపై ఈ దాడి జరిగింది. ఒంగోలు రెండో పట్టణ పోలీస్ స్టేషన్‌లో ఫిర్యాదు అందగా, పోలీసులు కేసు నమోదు చేశారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--04th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110400506",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-prakasam",
+   "loc": "ఒంగోలు",
+   "pts": [
+    "రైల్వే స్టేషన్ సమీపంలో వ్యాపారులకు బెదిరింపు",
+    "కోయంబత్తూరు నుంచి వచ్చిన బంగారం సరుకు",
+    "ఒంగోలు టూ టౌన్ పోలీసుల కేసు నమోదు"
+   ],
+   "why": "బంగారం రవాణా చేసే వ్యాపారులు, దుకాణదారులు భద్రతపై జాగ్రత్తగా ఉండాల్సిన అవసరాన్ని ఇది గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Armed gang robs 2 kg gold from traders in Ongole",
+    "p": "Armed miscreants threatened two traders in Ongole early on Wednesday and robbed about 2 kg of gold. The traders supply gold from Coimbatore to shops in Ongole. Following a complaint at the Ongole II Town police station, police registered a case.",
+    "pts": [
+     "Traders threatened near the railway station",
+     "Gold consignment from Coimbatore",
+     "Case registered by Ongole II Town police"
+    ],
+    "why": "It is a reminder for gold traders and shop owners to be careful about security.",
+    "cat": "AP · Ongole",
+    "statl": "Gold robbed"
+   },
+   "hi": {
+    "h": "ओंगोल में हथियारबंद बदमाशों ने व्यापारियों से 2 किलो सोना लूटा",
+    "p": "ओंगोल में बुधवार तड़के हथियारबंद बदमाशों ने दो व्यापारियों को धमकाकर लगभग 2 किलो सोना लूट लिया। ये व्यापारी कोयंबटूर से ओंगोल की दुकानों में सोना सप्लाई करते हैं। ओंगोल II टाउन पुलिस स्टेशन में शिकायत मिलने पर पुलिस ने मामला दर्ज किया।",
+    "pts": [
+     "रेलवे स्टेशन के पास व्यापारियों को धमकाया",
+     "कोयंबटूर से आया सोने का माल",
+     "ओंगोल II टाउन पुलिस ने मामला दर्ज किया"
+    ],
+    "why": "यह सोना ले जाने वाले व्यापारियों और दुकानदारों को सुरक्षा के प्रति सतर्क रहने की याद दिलाता है।",
+    "cat": "आंध्र प्रदेश · ओंगोल",
+    "statl": "लूटा गया सोना"
+   },
+   "d": "04.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹7.8 కోట్లు",
+   "statl": "బ్యాంకు ఖాతా నుంచి మాయం",
+   "h": "రాయదుర్గంలో మైక్రోఫైనాన్స్ సంస్థ ఖాతా నుంచి ₹7.8 కోట్లు మాయం",
+   "p": "హైదరాబాద్ రాయదుర్గంలోని ఓ మైక్రోఫైనాన్స్ సంస్థ బ్యాంకు ఖాతా నుంచి ₹7.8 కోట్లు మాయమయ్యాయి. దీనిపై సంస్థ డైరెక్టర్ తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరోకు ఫిర్యాదు చేశారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "రాయదుర్గం",
+   "pts": [
+    "మైక్రోఫైనాన్స్ సంస్థ బ్యాంకు ఖాతా నుంచి నగదు మాయం",
+    "తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరోకు ఫిర్యాదు"
+   ],
+   "why": "సంస్థలు తమ బ్యాంకు ఖాతాల భద్రతపై మరింత అప్రమత్తంగా ఉండాలని ఈ ఘటన సూచిస్తోంది.",
+   "en": {
+    "h": "₹7.8 crore vanishes from microfinance firm's account in Rayadurgam",
+    "p": "₹7.8 crore went missing from the bank account of a microfinance company in Rayadurgam, Hyderabad. The company's director complained to the Telangana Cyber Security Bureau.",
+    "pts": [
+     "Money missing from microfinance firm's bank account",
+     "Complaint to Telangana Cyber Security Bureau"
+    ],
+    "why": "The incident shows companies need to be more alert about the security of their bank accounts.",
+    "cat": "Hyderabad · Cyber crime",
+    "statl": "Missing from bank account"
+   },
+   "hi": {
+    "h": "रायदुर्गम में माइक्रोफाइनेंस कंपनी के खाते से ₹7.8 करोड़ गायब",
+    "p": "हैदराबाद के रायदुर्गम में एक माइक्रोफाइनेंस कंपनी के बैंक खाते से ₹7.8 करोड़ गायब हो गए। कंपनी के निदेशक ने तेलंगाना साइबर सुरक्षा ब्यूरो में शिकायत की।",
+    "pts": [
+     "माइक्रोफाइनेंस कंपनी के बैंक खाते से पैसा गायब",
+     "तेलंगाना साइबर सुरक्षा ब्यूरो में शिकायत"
+    ],
+    "why": "यह घटना बताती है कि कंपनियों को अपने बैंक खातों की सुरक्षा को लेकर और सतर्क रहना चाहिए।",
+    "cat": "हैदराबाद · साइबर अपराध",
+    "statl": "बैंक खाते से गायब"
+   },
+   "d": "04.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "ఏపీ · విద్యుత్",
    "col": "--c-power",
