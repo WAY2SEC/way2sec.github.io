@@ -1,8 +1,155 @@
 {
  "date": "04.11.2026",
- "updated": "2026-11-04T19:20:00+05:30",
+ "updated": "2026-11-04T18:44:11+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · మెదక్",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "8",
+   "statl": "కల్లు తాగినవారికి బీజెడ్‌ఓ పాజిటివ్",
+   "h": "మెదక్‌లో కల్తీ కల్లు: బీజెడ్‌ఓ కలుపుతున్న నలుగురి అరెస్ట్",
+   "p": "మెదక్ జిల్లా హవేలి ఘన్‌పూర్ పోలీస్ స్టేషన్ పరిధిలోని బూరుగుపల్లి, వాడి గ్రామాల్లో ఈగల్ ఫోర్స్, మెదక్ రూరల్ పోలీసులు ఐదు కల్లు దుకాణాలు, ఒక డిపోపై ఒకేసారి దాడులు చేశారు. నిషేధిత మత్తు పదార్థం బీజెడ్‌ఓ (బెంజోడయాజెపామ్) కల్లులో కలుపుతున్నారనే ఆరోపణలపై నలుగురిని అరెస్ట్ చేశారు. 15 పెట్టెల్లోని 180 కల్లు సీసాలు, నాలుగు ఫోన్లు స్వాధీనం చేసుకున్నారు. మరో ఇద్దరు పరారీలో ఉన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/four-arrested-for-adulterating-toddy-with-bzo-in-medak",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medak",
+   "loc": "బూరుగుపల్లి",
+   "pts": [
+    "పరీక్షించిన 8 మంది కల్లు తాగినవారికీ బీజెడ్‌ఓ పాజిటివ్",
+    "వారిని డీ-అడిక్షన్ కేంద్రాలకు పంపిన అధికారులు",
+    "ఎన్‌డీపీఎస్, ఎక్సైజ్ చట్టాల కింద 5 కేసులు"
+   ],
+   "why": "కల్తీ కల్లు గ్రామీణ ప్రజల ఆరోగ్యానికి ముప్పు కావడంతో ఈ దాడులు కీలకం.",
+   "d": "04.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "Adulterated toddy in Medak: four arrested for mixing BZO",
+    "p": "EAGLE Force and Medak Rural Police carried out simultaneous raids on five toddy shops and a depot in Burugupalli and Vaadi villages under Haveli Ghanpur police station in Medak district. Four people were arrested on allegations of mixing BZO (Benzodiazepam), a banned psychotropic substance, into toddy. Police seized 180 toddy bottles in 15 boxes and four phones. Two others are absconding.",
+    "pts": [
+     "All 8 toddy drinkers tested positive for BZO",
+     "Officials referred them to de-addiction centres",
+     "5 cases filed under NDPS and Excise Acts"
+    ],
+    "why": "Adulterated toddy threatens the health of rural people, making these raids important.",
+    "cat": "Telangana · Medak",
+    "statl": "Toddy drinkers tested BZO-positive"
+   },
+   "hi": {
+    "h": "मेडक में मिलावटी ताड़ी: BZO मिलाने के आरोप में चार गिरफ्तार",
+    "p": "मेडक जिले के हवेली घनपुर थाना क्षेत्र के बुरुगुपल्ली और वाडी गांवों में ईगल फोर्स और मेडक ग्रामीण पुलिस ने पांच ताड़ी दुकानों और एक डिपो पर एक साथ छापे मारे। प्रतिबंधित नशीला पदार्थ BZO (बेंजोडायजेपाम) ताड़ी में मिलाने के आरोप में चार लोगों को गिरफ्तार किया गया। 15 डिब्बों में 180 ताड़ी की बोतलें और चार फोन जब्त किए गए। दो अन्य फरार हैं।",
+    "pts": [
+     "जांचे गए सभी 8 ताड़ी पीने वाले BZO पॉजिटिव",
+     "उन्हें नशामुक्ति केंद्रों में भेजा गया",
+     "NDPS और आबकारी कानूनों के तहत 5 मामले दर्ज"
+    ],
+    "why": "मिलावटी ताड़ी ग्रामीण लोगों की सेहत के लिए खतरा है, इसलिए ये छापे अहम हैं।",
+    "cat": "तेलंगाना · मेडक",
+    "statl": "ताड़ी पीने वाले BZO पॉजिटिव"
+   }
+  },
+  {
+   "cat": "భారత్ · ఏఐ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "22",
+   "statl": "భారతీయ భాషల్లో పనిచేసే ఏకా-1",
+   "h": "ఇండియాఏఐ మిషన్: మూడు స్వదేశీ ఏఐ మోడళ్లు విడుదల",
+   "p": "కేంద్ర ఐటీ శాఖ ఇండియాఏఐ మిషన్ కింద రూపొందిన ఏకా-1, ధీర్-2బీ, ధీర్-5బీ అనే మూడు స్వదేశీ ఏఐ మోడళ్లను ఐటీ కార్యదర్శి ఎస్. కృష్ణన్ విడుదల చేశారు. ఇవి ఇంటర్నెట్ లేకుండానే మొబైల్ ఫోన్లలో పనిచేస్తాయి. బెంగళూరు సంస్థ రూపొందించిన ఏకా-1 ఇంగ్లిష్‌తో పాటు రాజ్యాంగం గుర్తించిన 22 భారతీయ భాషల్లో పనిచేస్తుంది. ప్రభుత్వ, రక్షణ, విద్య రంగాల్లో వీటిని వాడుకోవచ్చని అధికారులు తెలిపారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/bharat/meity-unveils-indigenous-ai-models-eka-1-dhir-2b-and-5b-under-indiaai-mission-ten26110400555",
+   "sec": [
+    "india",
+    "ai"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఏకా-1లో 26.3 బిలియన్ పారామీటర్లు",
+    "ధీర్ మోడళ్లు ఇంగ్లిష్, 10 భారతీయ భాషల్లో",
+    "అపాచీ 2.0 లైసెన్స్‌తో మోడల్ వెయిట్స్ విడుదల కానున్నాయి"
+   ],
+   "why": "డేటా భద్రత ముఖ్యమైన రంగాల్లో తెలుగు సహా భారతీయ భాషల్లో దేశీయ ఏఐ వాడుకునే అవకాశం.",
+   "d": "04.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "IndiaAI Mission: three indigenous AI models released",
+    "p": "IT Secretary S. Krishnan released three indigenous AI models, Eka-1, Dhir-2B and Dhir-5B, developed under the Union IT Ministry's IndiaAI Mission. They can run on mobile phones without the internet. Eka-1, built by a Bengaluru company, works in English and the 22 Indian languages recognised by the Constitution. Officials said they can be used in government, defence and education.",
+    "pts": [
+     "Eka-1 has 26.3 billion parameters",
+     "Dhir models work in English and 10 Indian languages",
+     "Model weights to be released under Apache 2.0 licence"
+    ],
+    "why": "Sectors where data security matters can use home-grown AI in Indian languages, including Telugu.",
+    "cat": "India · AI",
+    "statl": "Indian languages supported by Eka-1"
+   },
+   "hi": {
+    "h": "इंडियाएआई मिशन: तीन स्वदेशी एआई मॉडल जारी",
+    "p": "केंद्रीय आईटी मंत्रालय के इंडियाएआई मिशन के तहत बने तीन स्वदेशी एआई मॉडल एका-1, धीर-2बी और धीर-5बी को आईटी सचिव एस. कृष्णन ने जारी किया। ये इंटरनेट के बिना मोबाइल फोन पर चलते हैं। बेंगलुरु की कंपनी द्वारा बनाया गया एका-1 अंग्रेजी के साथ संविधान से मान्य 22 भारतीय भाषाओं में काम करता है। अधिकारियों ने कहा कि इन्हें सरकार, रक्षा और शिक्षा क्षेत्रों में इस्तेमाल किया जा सकता है।",
+    "pts": [
+     "एका-1 में 26.3 अरब पैरामीटर",
+     "धीर मॉडल अंग्रेजी और 10 भारतीय भाषाओं में",
+     "मॉडल वेट्स अपाचे 2.0 लाइसेंस के तहत जारी होंगे"
+    ],
+    "why": "डेटा सुरक्षा वाले क्षेत्रों में तेलुगु समेत भारतीय भाषाओं में देसी एआई इस्तेमाल का मौका।",
+    "cat": "भारत · एआई",
+    "statl": "भारतीय भाषाओं में चलता है एका-1"
+   }
+  },
+  {
+   "cat": "తమిళనాడు · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "నవం. 7–8",
+   "statl": "తమిళనాడులో విస్తృత వర్షాలు",
+   "h": "తమిళనాడులో 7, 8 తేదీల్లో విస్తృత వర్షాలు: ఐఎండీ",
+   "p": "మురసు తుపాను బలహీనపడి ఏర్పడిన వాయుగుండం తూర్పు తెలంగాణ, కోస్తా ఏపీపై ఉందని ఐఎండీ తెలిపింది. దీంతో బుధవారం కోస్తా ఏపీ, తెలంగాణలో అక్కడక్కడా అతి భారీ వర్షాలు, దక్షిణ ఒడిశా, దక్షిణ ఛత్తీస్‌గఢ్‌లో భారీ వర్షాలు పడే అవకాశం ఉంది. తమిళనాడులో శనివారం, ఆదివారం (నవంబర్ 7, 8) విస్తృతంగా వానలు కురుస్తాయని, 9, 10 తేదీల్లో మళ్లీ వర్షాలు ఉంటాయని అంచనా వేసింది.",
+   "src": "The Week",
+   "url": "https://www.theweek.in/news/india/2026/11/04/imd-forecasts-more-rain-in-chennai-tamil-nadu-andhra-pradesh-to-get-showers-this-week.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "pts": [
+    "తెలంగాణలో నవంబర్ 7 వరకు అక్కడక్కడా వర్షాలు",
+    "కోస్తా ఏపీలో నవంబర్ 10 వరకు వానలు",
+    "వాయవ్య, పశ్చిమ, ఈశాన్య భారత్‌లో పెద్ద మార్పుల్లేవు"
+   ],
+   "why": "తమిళనాడు, ఏపీ, తెలంగాణ ప్రజలు వారాంతపు ప్రయాణాలు, పనులు ప్లాన్ చేసుకునేందుకు ఉపయోగం.",
+   "d": "04.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "Widespread rain in Tamil Nadu on November 7 and 8: IMD",
+    "p": "IMD said a depression formed from the weakened Cyclone Murasu lies over east Telangana and coastal Andhra Pradesh. As a result, isolated very heavy rain is likely in coastal AP and Telangana on Wednesday, and heavy rain in south Odisha and south Chhattisgarh. Tamil Nadu is expected to get widespread rain on Saturday and Sunday (November 7, 8), with rain returning on November 9 and 10.",
+    "pts": [
+     "Isolated rain in Telangana until November 7",
+     "Rain in coastal AP until November 10",
+     "No significant weather in Northwest, West, Northeast India"
+    ],
+    "why": "Useful for people in Tamil Nadu, AP and Telangana to plan weekend travel and work.",
+    "cat": "Tamil Nadu · Weather",
+    "statl": "Widespread rain in Tamil Nadu"
+   },
+   "hi": {
+    "h": "तमिलनाडु में 7 और 8 नवंबर को व्यापक बारिश: आईएमडी",
+    "p": "आईएमडी ने बताया कि कमजोर हुए चक्रवात मुरसु से बना डिप्रेशन पूर्वी तेलंगाना और तटीय आंध्र प्रदेश पर है। इससे बुधवार को तटीय आंध्र और तेलंगाना में कहीं-कहीं बहुत भारी बारिश और दक्षिण ओडिशा व दक्षिण छत्तीसगढ़ में भारी बारिश की संभावना है। तमिलनाडु में शनिवार और रविवार (7, 8 नवंबर) को व्यापक बारिश और 9, 10 नवंबर को फिर बारिश का अनुमान है।",
+    "pts": [
+     "तेलंगाना में 7 नवंबर तक कहीं-कहीं बारिश",
+     "तटीय आंध्र में 10 नवंबर तक बारिश",
+     "उत्तर-पश्चिम, पश्चिम, पूर्वोत्तर भारत में खास बदलाव नहीं"
+    ],
+    "why": "तमिलनाडु, आंध्र और तेलंगाना के लोगों को सप्ताहांत यात्रा और काम की योजना में मदद।",
+    "cat": "तमिलनाडु · मौसम",
+    "statl": "तमिलनाडु में व्यापक बारिश"
+   }
+  },
   {
    "cat": "యాదగిరిగుట్ట · ఆరోగ్యం",
    "col": "--c-water",
@@ -1528,250 +1675,6 @@
    },
    "d": "04.11.2026",
    "t": "13:05"
-  },
-  {
-   "cat": "తెలంగాణ · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "20 జనవరి",
-   "statl": "హైకోర్టులో తదుపరి విచారణ తేదీ",
-   "h": "హైడ్రా కమిషనర్ రంగనాథ్‌కు ఊరట: సింగిల్ జడ్జి ఉత్తర్వుపై స్టే కొనసాగింపు",
-   "p": "హైడ్రా కమిషనర్ రంగనాథ్‌ను బాధ్యతల నుంచి తప్పించాలన్న సింగిల్ జడ్జి ఉత్తర్వుపై ఇచ్చిన మధ్యంతర స్టేను తెలంగాణ హైకోర్టు డివిజన్ బెంచ్ కొనసాగించింది. మల్కాజిగిరి మండలం లోతుకుంటలోని వివాదాస్పద భూమిపై స్టేటస్ కో పాటించాలన్న ఆదేశాలను కూడా పక్కనపెట్టింది. ఓ నిర్మాణ సంస్థ వేసిన కోర్టు ధిక్కార కేసులో ఈ విచారణ జరిగింది. తదుపరి విచారణను 2027 జనవరి 20కి వాయిదా వేసింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-high-court-continues-stay-on-order-to-relieve-hydraa-chief",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "medchal",
-   "loc": "లోతుకుంట",
-   "pts": [
-    "జస్టిస్ మౌసుమి భట్టాచార్య, జస్టిస్ రేణుక యారా ధర్మాసనం",
-    "లోతుకుంట భూమిపై స్టేటస్ కో ఆదేశాలు పక్కకు",
-    "తదుపరి విచారణ 2027 జనవరి 20న"
-   ],
-   "why": "హైదరాబాద్‌లో చెరువులు, ప్రభుత్వ భూముల రక్షణకు పనిచేస్తున్న హైడ్రా కార్యకలాపాలపై ఈ తీర్పు ప్రభావం చూపుతుంది.",
-   "en": {
-    "h": "Relief for HYDRAA chief Ranganath: HC continues stay on single judge's order",
-    "p": "A Division Bench of the Telangana High Court continued its interim stay on a single judge's order to relieve HYDRAA Commissioner Ranganath of his duties. It also set aside directions to maintain status quo over disputed land at Lothukunta in Malkajgiri mandal. The hearing was in a contempt case filed by a construction company. The next hearing was adjourned to January 20, 2027.",
-    "pts": [
-     "Bench of Justices Moushumi Bhattacharya and Renuka Yara",
-     "Status quo directions on Lothukunta land set aside",
-     "Next hearing on January 20, 2027"
-    ],
-    "why": "The ruling affects the work of HYDRAA, which protects lakes and government land in Hyderabad.",
-    "cat": "Telangana · High Court",
-    "statl": "Next hearing date in High Court"
-   },
-   "hi": {
-    "h": "हाइड्रा प्रमुख रंगनाथ को राहत: एकल न्यायाधीश के आदेश पर हाईकोर्ट की रोक जारी",
-    "p": "तेलंगाना हाईकोर्ट की खंडपीठ ने हाइड्रा कमिश्नर रंगनाथ को जिम्मेदारी से हटाने के एकल न्यायाधीश के आदेश पर लगी अंतरिम रोक जारी रखी। खंडपीठ ने मलकाजगिरी मंडल के लोतुकुंटा में विवादित जमीन पर यथास्थिति बनाए रखने के निर्देश भी रद्द कर दिए। यह सुनवाई एक निर्माण कंपनी द्वारा दायर अवमानना मामले में हुई। अगली सुनवाई 20 जनवरी 2027 तक स्थगित की गई।",
-    "pts": [
-     "जस्टिस मौसुमी भट्टाचार्य और जस्टिस रेणुका यारा की पीठ",
-     "लोतुकुंटा जमीन पर यथास्थिति के निर्देश रद्द",
-     "अगली सुनवाई 20 जनवरी 2027 को"
-    ],
-    "why": "यह फैसला हैदराबाद में झीलों और सरकारी जमीन की रक्षा करने वाली हाइड्रा के काम पर असर डालता है।",
-    "cat": "तेलंगाना · हाईकोर्ट",
-    "statl": "हाईकोर्ट में अगली सुनवाई की तारीख"
-   },
-   "d": "04.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆర్టీసీ",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "₹10 లక్షలు",
-   "statl": "కండక్టర్ కుటుంబానికి ఎక్స్‌గ్రేషియా",
-   "h": "కండక్టర్ ప్రవళిక కుటుంబానికి ₹10 లక్షలు, తల్లికి ప్రభుత్వ ఉద్యోగం: మంత్రి పొన్నం",
-   "p": "కదులుతున్న బస్సు నుంచి తోసివేతకు గురై మరణించిన ఆర్టీసీ మహిళా కండక్టర్ ప్రవళిక మృతిపై రవాణా మంత్రి పొన్నం ప్రభాకర్ సంతాపం తెలిపారు. ఆమె కుటుంబానికి ₹10 లక్షల ఎక్స్‌గ్రేషియా ఇస్తామని ప్రకటించారు. ప్రవళిక తల్లికి ప్రభుత్వ ఉద్యోగం కల్పిస్తామని, ఘటనకు కారణమైన వారిపై కఠిన చర్యలు తీసుకుంటామని మంత్రి స్పష్టం చేశారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "కుటుంబానికి ₹10 లక్షల ఎక్స్‌గ్రేషియా ప్రకటన",
-    "ప్రవళిక తల్లికి ప్రభుత్వ ఉద్యోగం",
-    "బాధ్యులపై కఠిన చర్యలు తీసుకుంటామని హామీ"
-   ],
-   "why": "విధుల్లో ఉన్న ఆర్టీసీ సిబ్బంది భద్రత, బాధిత కుటుంబానికి ఆసరాపై ప్రభుత్వ స్పందన ఇది.",
-   "en": {
-    "h": "₹10 lakh for conductor Pravalika's family, govt job for mother: Minister Ponnam",
-    "p": "Transport Minister Ponnam Prabhakar expressed condolences over the death of RTC woman conductor Pravalika, who died after being pushed out of a moving bus. He announced ₹10 lakh ex gratia for her family. The minister said Pravalika's mother will be given a government job and strict action will be taken against those responsible for the incident.",
-    "pts": [
-     "₹10 lakh ex gratia announced for the family",
-     "Government job for Pravalika's mother",
-     "Strict action promised against those responsible"
-    ],
-    "why": "This is the government's response on the safety of on-duty RTC staff and support for the bereaved family.",
-    "cat": "Telangana · RTC",
-    "statl": "Ex gratia for conductor's family"
-   },
-   "hi": {
-    "h": "कंडक्टर प्रवल्लिका के परिवार को ₹10 लाख, मां को सरकारी नौकरी: मंत्री पोन्नम",
-    "p": "चलती बस से धक्का दिए जाने के बाद जान गंवाने वाली आरटीसी महिला कंडक्टर प्रवल्लिका की मौत पर परिवहन मंत्री पोन्नम प्रभाकर ने शोक जताया। उन्होंने परिवार को ₹10 लाख की अनुग्रह राशि देने की घोषणा की। मंत्री ने कहा कि प्रवल्लिका की मां को सरकारी नौकरी दी जाएगी और घटना के जिम्मेदार लोगों पर सख्त कार्रवाई होगी।",
-    "pts": [
-     "परिवार के लिए ₹10 लाख अनुग्रह राशि की घोषणा",
-     "प्रवल्लिका की मां को सरकारी नौकरी",
-     "जिम्मेदार लोगों पर सख्त कार्रवाई का भरोसा"
-    ],
-    "why": "यह ड्यूटी पर तैनात आरटीसी कर्मचारियों की सुरक्षा और पीड़ित परिवार की मदद पर सरकार का जवाब है।",
-    "cat": "तेलंगाना · आरटीसी",
-    "statl": "कंडक्टर के परिवार को अनुग्रह राशि"
-   },
-   "d": "04.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఏపీ · వర్షాలు",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "భారీ వర్షం",
-   "statl": "గోదావరి, గుంటూరు జిల్లాల్లో జలమయం",
-   "h": "తణుకు జలమయం; గుంటూరులో నక్కవాగుకు గండి, రాజానగరంలో హైవేపై నీరు",
-   "p": "భారీ వర్షాలకు పశ్చిమ గోదావరి జిల్లా తణుకులో లోతట్టు ప్రాంతాలు జలమయమయ్యాయి, ఇళ్లలోకి నీరు చేరింది. ఉమ్మడి తూర్పు గోదావరి జిల్లాలో భారీ వర్షం కురుస్తోంది; రాజానగరం వద్ద చెరువు పొంగి హైవేపై నీరు చేరింది. గుంటూరు జిల్లాలో పెనానందిపాడు వద్ద నక్కవాగుకు గండి పడింది. ఏలూరు ఏజెన్సీలో కొండవాగులు పొంగుతున్నాయి.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "ap-westgodavari",
-   "loc": "తణుకు",
-   "pts": [
-    "పెనానందిపాడు–కొమ్మూరు రోడ్డుపై వరద నీరు",
-    "బైక్‌పై ముంపు ప్రాంతాల్లో ఎమ్మెల్యే ఆరిమిల్లి పర్యటన",
-    "పట్టినపాలెం, జీలుగుమిల్లిలో వాగుల ఉధృతి"
-   ],
-   "why": "ఈ ప్రాంతాల ప్రజలు, వాహనదారులు వాగులు, వరద రోడ్లపై జాగ్రత్తగా ఉండాలి.",
-   "en": {
-    "h": "Tanuku waterlogged; Nakkavagu breached in Guntur, water on highway at Rajanagaram",
-    "p": "Heavy rain has flooded low-lying areas of Tanuku in West Godavari district, with water entering homes. Heavy rain is falling across the united East Godavari district; a tank overflowed at Rajanagaram, flooding the highway. In Guntur district, the Nakkavagu stream breached near Penanandipadu. Hill streams are overflowing in the Eluru agency area.",
-    "pts": [
-     "Floodwater on Penanandipadu–Kommuru road",
-     "MLA Arimilli toured flood-hit areas on a motorbike",
-     "Streams in spate at Pattinapalem and Jeelugumilli"
-    ],
-    "why": "People and motorists in these areas need to be careful around streams and flooded roads.",
-    "cat": "AP · Rain",
-    "statl": "Waterlogging in Godavari, Guntur districts"
-   },
-   "hi": {
-    "h": "तणुकु जलमग्न; गुंटूर में नक्कावागु टूटा, राजानगरम में हाईवे पर पानी",
-    "p": "भारी बारिश से पश्चिम गोदावरी जिले के तणुकु के निचले इलाके जलमग्न हो गए, घरों में पानी घुस गया। संयुक्त पूर्वी गोदावरी जिले में भारी बारिश हो रही है; राजानगरम में तालाब उफनने से हाईवे पर पानी भर गया। गुंटूर जिले में पेनानंदिपाडु के पास नक्कावागु नाले में दरार आ गई। एलुरु एजेंसी में पहाड़ी नाले उफान पर हैं।",
-    "pts": [
-     "पेनानंदिपाडु–कोम्मूरु सड़क पर बाढ़ का पानी",
-     "विधायक अरिमिल्ली ने बाइक से बाढ़ प्रभावित इलाकों का दौरा किया",
-     "पट्टिनपालेम, जीलुगुमिल्ली में नाले उफान पर"
-    ],
-    "why": "इन इलाकों के लोगों और वाहन चालकों को नालों और बाढ़ वाली सड़कों पर सावधान रहना चाहिए।",
-    "cat": "आंध्र प्रदेश · बारिश",
-    "statl": "गोदावरी, गुंटूर जिलों में जलभराव"
-   },
-   "d": "04.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఏపీ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "నేడు",
-   "statl": "తుపాను జిల్లాలపై ఎస్ఈసీ సమీక్ష",
-   "h": "తుపాను ప్రాంతాల్లో పరిషత్ ఎన్నికలపై నేడు ఎస్ఈసీ సమీక్ష",
-   "p": "మురసు తుపాను ప్రభావిత జిల్లాల్లో పరిస్థితులపై ఆంధ్రప్రదేశ్ రాష్ట్ర ఎన్నికల సంఘం (ఎస్ఈసీ) బుధవారం సమీక్షిస్తోంది. ఆయా జిల్లాల అధికారుల నుంచి నివేదికలు తీసుకోనుంది. ఈ సమీక్ష తర్వాత కొన్ని ప్రాంతాల్లో ఎంపీటీసీ, జెడ్పీటీసీ ఎన్నికల నిర్వహణపై స్పష్టత వస్తుందని భావిస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "తుపాను ప్రభావిత జిల్లాల పరిస్థితిపై సమీక్ష",
-    "జిల్లా అధికారుల నుంచి నివేదికల సేకరణ",
-    "కొన్ని చోట్ల పరిషత్ పోలింగ్‌పై త్వరలో స్పష్టత"
-   ],
-   "why": "తుపాను ప్రాంతాల ఓటర్లు, అభ్యర్థులు పోలింగ్ జరుగుతుందా లేదా అనేది తెలుసుకోవాల్సి ఉంది.",
-   "en": {
-    "h": "AP SEC reviews cyclone-hit areas today ahead of Parishad polls",
-    "p": "The Andhra Pradesh State Election Commission (SEC) is reviewing conditions in districts hit by Cyclone Murasu on Wednesday. It will take reports from officials of those districts. Clarity on holding MPTC and ZPTC elections in some areas is expected after this review.",
-    "pts": [
-     "Review of conditions in cyclone-hit districts",
-     "Reports to be collected from district officials",
-     "Clarity soon on Parishad polling in some areas"
-    ],
-    "why": "Voters and candidates in cyclone-hit areas need to know whether polling will go ahead.",
-    "cat": "AP · Elections",
-    "statl": "SEC review of cyclone districts"
-   },
-   "hi": {
-    "h": "चक्रवात प्रभावित इलाकों में परिषद चुनाव पर आज एसईसी की समीक्षा",
-    "p": "आंध्र प्रदेश राज्य चुनाव आयोग (एसईसी) बुधवार को चक्रवात मुरसु से प्रभावित जिलों के हालात की समीक्षा कर रहा है। आयोग उन जिलों के अधिकारियों से रिपोर्ट लेगा। इस समीक्षा के बाद कुछ इलाकों में एमपीटीसी और जेडपीटीसी चुनाव कराने पर स्पष्टता आने की उम्मीद है।",
-    "pts": [
-     "चक्रवात प्रभावित जिलों के हालात की समीक्षा",
-     "जिला अधिकारियों से रिपोर्ट ली जाएगी",
-     "कुछ इलाकों में परिषद मतदान पर जल्द स्पष्टता"
-    ],
-    "why": "चक्रवात प्रभावित इलाकों के मतदाताओं और उम्मीदवारों को जानना है कि मतदान होगा या नहीं।",
-    "cat": "आंध्र प्रदेश · चुनाव",
-    "statl": "चक्रवात जिलों पर एसईसी समीक्षा"
-   },
-   "d": "04.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "251",
-   "statl": "క్యూఎస్ ఆసియా ర్యాంకింగ్స్‌లో ఐఐటీహెచ్ స్థానం",
-   "h": "క్యూఎస్ ఆసియా ర్యాంకింగ్స్‌లో 19 స్థానాలు ఎగబాకిన ఐఐటీ హైదరాబాద్",
-   "p": "క్యూఎస్ వరల్డ్ యూనివర్సిటీ ర్యాంకింగ్స్: ఆసియా 2027లో ఐఐటీ హైదరాబాద్ 270వ స్థానం నుంచి 251వ స్థానానికి చేరింది. పరిశోధన ఉత్పాదకత, అధ్యాపకుల అర్హతల్లో మంచి ప్రదర్శన చూపింది. విద్యావేత్తలు, ఉద్యోగ సంస్థల్లో గుర్తింపు కూడా పెరిగింది. ఇది అధ్యాపకులు, విద్యార్థులు, పరిశోధకుల కృషి ఫలితమని డైరెక్టర్ ప్రొ. బీఎస్ మూర్తి అన్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/iit-hyderabad-rises-19-places-to-251st-in-qs-asia-rankings",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "pts": [
-    "270 నుంచి 251వ ర్యాంకుకు మెరుగుదల",
-    "అధిగమించిన సంస్థల వాటా 82.5% నుంచి 85.5%కు",
-    "పరిశోధన, అధ్యాపకుల అర్హతల్లో బలమైన ప్రదర్శన"
-   ],
-   "why": "రాష్ట్రంలోని ప్రముఖ విద్యాసంస్థకు అంతర్జాతీయ గుర్తింపు పెరగడం విద్యార్థులకు మేలు.",
-   "en": {
-    "h": "IIT Hyderabad climbs 19 places in QS Asia rankings",
-    "p": "IIT Hyderabad has moved from 270th to 251st place in the QS World University Rankings: Asia 2027. It performed well in research productivity and faculty qualifications. Its reputation among academics and employers also improved. Director Prof BS Murty said this was the result of the work of faculty, students and researchers.",
-    "pts": [
-     "Improved from 270th to 251st rank",
-     "Share of institutions surpassed rose from 82.5% to 85.5%",
-     "Strong showing in research and faculty qualifications"
-    ],
-    "why": "Greater international recognition for a leading institute in the state benefits students.",
-    "cat": "Telangana · Education",
-    "statl": "IITH's place in QS Asia rankings"
-   },
-   "hi": {
-    "h": "क्यूएस एशिया रैंकिंग में आईआईटी हैदराबाद 19 पायदान ऊपर",
-    "p": "क्यूएस वर्ल्ड यूनिवर्सिटी रैंकिंग्स: एशिया 2027 में आईआईटी हैदराबाद 270वें से 251वें स्थान पर पहुंच गया। शोध उत्पादकता और फैकल्टी योग्यता में इसका प्रदर्शन अच्छा रहा। शिक्षाविदों और नियोक्ताओं के बीच इसकी साख भी बढ़ी। निदेशक प्रो. बी.एस. मूर्ति ने कहा कि यह फैकल्टी, छात्रों और शोधकर्ताओं की मेहनत का नतीजा है।",
-    "pts": [
-     "270वें से 251वीं रैंक पर सुधार",
-     "पीछे छोड़े गए संस्थानों का हिस्सा 82.5% से 85.5%",
-     "शोध और फैकल्टी योग्यता में मजबूत प्रदर्शन"
-    ],
-    "why": "राज्य के प्रमुख संस्थान की अंतरराष्ट्रीय पहचान बढ़ना छात्रों के लिए फायदेमंद है।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "क्यूएस एशिया रैंकिंग में आईआईटीएच का स्थान"
-   },
-   "d": "04.11.2026",
-   "t": "12:35"
   },
   {
    "cat": "ఆలేరు · మున్సిపాలిటీ",
