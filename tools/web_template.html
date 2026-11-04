@@ -475,7 +475,7 @@ addEventListener('keydown',e=>{ if(e.key==='/' && document.activeElement!==$('q'
 /* ---- reader's place (shared with the app: same saved choice) ---- */
 const TG_D=[['TS','మొత్తం తెలంగాణ']].concat(Object.entries(PLACES));
 function prefsGet(){ return store.get('prefs',{})||{}; }
-function stOfPlace(k){ if(!k||k==='TS'||PLACES[k]) return 'TG'; if(k==='AP'||k.startsWith('ap-')) return 'AP'; if(/^(ka|tn|mh)-/.test(k)) return k.slice(0,2).toUpperCase(); return k.startsWith('st-')?k.slice(3):'TG'; }
+function stOfPlace(k){ if(!k||k==='TS'||PLACES[k]) return 'TG'; if(k==='AP'||k.startsWith('ap-')) return 'AP'; if(/^[a-z]{2}-/.test(k)&&STATE_DISTRICTS[k.slice(0,2).toUpperCase()]) return k.slice(0,2).toUpperCase(); return k.startsWith('st-')?k.slice(3):'TG'; }
 function placeTx(p){ const k=p.place||'TS'; let n=k==='TS'?'తెలంగాణ':k==='AP'?'ఆంధ్రప్రదేశ్':(PLACES[k]||placeLabel(k)||'తెలంగాణ'); return (p.village?p.village+', ':'')+n; }
 function inMine(s,p){ const k=p.place||'TS', v=(p.village||'').toLowerCase();
   if(v && ((s.loc||'')+' '+(s.h||'')+' '+(s.p||'')).toLowerCase().includes(v)) return 3;

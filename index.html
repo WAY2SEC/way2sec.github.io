@@ -374,7 +374,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
       <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.17 · Way2Sec</p>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.18 · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
@@ -434,7 +434,7 @@ const JU = {
 const J = k => (JU[LG()]||JU.te)[k];
 function tr(s){ const l=LG(); if(!s||s.kind==='job'||l==='te'||!s[l]||typeof s[l]!=='object') return s; return Object.assign({},s,s[l],{_sid:sid(s),_lang:l}); }
 const placeName = k => { if(!k||k==='TS') return 'మొత్తం తెలంగాణ'; if(k==='AP') return 'మొత్తం ఆంధ్రప్రదేశ్'; const t=PLACES.find(p=>p[0]===k); return t?t[1]:(placeLabel(k)||'మొత్తం తెలంగాణ'); };
-const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):(/^(ka|tn|mh)-/.test(k)?k.slice(0,2).toUpperCase():'TG')));
+const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):(/^[a-z]{2}-/.test(k)&&STATE_DISTRICTS[k.slice(0,2).toUpperCase()]?k.slice(0,2).toUpperCase():'TG')));
 /* does a story belong to the reader's place? */
 function inPlace(s,k){ if(!k||k==='TS') return (s.place||'TS')==='TS' && stateOf(s)!=='AP' && !(s.st&&s.st!=='TG');
   if(k==='AP') return stateOf(s)==='AP'; if(k.startsWith('st-')) return stateOf(s)===k.slice(3); return normPlace(s.place||'')===k; }
