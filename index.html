@@ -694,10 +694,10 @@ async function cardImage(s){
   return blob;
 }
 window.cardImage=cardImage;
-function storyLink(s){ const iso=toIso(s.d||NEWS.date); return CONFIG.APP_LINK+(iso?`?d=${iso}&s=${sid(s)}`:''); }
+function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s); } // preview page: shows this story's own card in WhatsApp, then opens it
 function shareText(s){
   // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
-  if(s.kind==='job') return `💼 ${s.h}\n📲 ${CONFIG.APP_LINK}?jobs=1&s=${sid(s)}\n\n👥 పోస్టులు: ${s.stat}${s.qual?`\n🎓 అర్హత: ${s.qual}`:''}${s.last?`\n🗓️ చివరి తేదీ: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి\n\n👉 Way2Sec WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
+  if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 పోస్టులు: ${s.stat}${s.qual?`\n🎓 అర్హత: ${s.qual}`:''}${s.last?`\n🗓️ చివరి తేదీ: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి\n\n👉 Way2Sec WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
   const when=(s.d||NEWS.date||'')+(s.t?' · '+s.t:'');
   return `🔴 ${s.h}\n📲 ${storyLink(s)}\n\n📅 ${when} · Source | మూలం: ${s.src}\nWay2Sec – Fastest AI News in Telugu\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
 }
@@ -950,6 +950,7 @@ async function load(){
   const q=new URLSearchParams(location.search), qd=q.get('d'), qs=q.get('s');
   if(qd && /^\d{4}-\d\d-\d\d$/.test(qd) && !load.done){ load.done=1; await showDay(qd, qs); }
   else if(q.has('jobs') && !load.done){ load.done=1; JUMP=qs; setView('jobs'); }
+  else if(qs && !load.done){ load.done=1; JUMP=qs; renderFeed(); }
   else if(firstRun) openSheet();
 }
 load();

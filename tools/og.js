@@ -1,0 +1,56 @@
+/* Way2Sec link-preview picture (1200x630) for one story or job.
+   Loaded by tools/build_previews.py into index.html, so it can use ART, COLS, wrap, rrect, loadImg, teDate. */
+window.ogImage = async function(s){
+  const W=1200, H=630, L=460, P=44;
+  const TE="'Noto Sans Telugu',sans-serif", DI="'Archivo Black',sans-serif";
+  const col = COLS[s.col] || COLS['--c-gov'];
+  const c=document.createElement('canvas'); c.width=W; c.height=H; const x=c.getContext('2d');
+  x.fillStyle='#FFFBF3'; x.fillRect(0,0,W,H);
+
+  // left colour panel
+  x.fillStyle=col; x.fillRect(0,0,L,H);
+  try{ const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">${ART[s.art]||ART.unity}</svg>`;
+       const a=await loadImg('data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg)); x.globalAlpha=.22; x.drawImage(a,L-330,H-360,340,340); x.globalAlpha=1; }catch(e){}
+  x.fillStyle='#fff'; x.strokeStyle='#fff'; x.lineWidth=3; x.textBaseline='middle';
+  x.font=`800 26px ${TE}`; let chip=s.cat||'వార్త'; if(x.measureText(chip).width>L-2*P-44){ while(x.measureText(chip+'…').width>L-2*P-44 && chip.length>4) chip=chip.slice(0,-1); chip=chip.trim()+'…'; }
+  const cw=x.measureText(chip).width+44; rrect(x,P,P,cw,52,26); x.stroke(); x.fillText(chip,P+22,P+27);
+  x.textBaseline='alphabetic';
+  const stat=String(s.stat||''), te=/[ఀ-౿]/.test(stat);
+  let ss=te?96:130; const sf=()=>{ x.font=te?`800 ${ss}px ${TE}`:`400 ${ss}px ${DI}`; }; sf();
+  while(x.measureText(stat).width>L-2*P && ss>44){ ss-=6; sf(); }
+  x.font=`800 32px ${TE}`; const sl=wrap(x,s.statl||'',L-2*P).slice(0,2);
+  let y=H-P-(sl.length-1)*42; sl.forEach((t,k)=>x.fillText(t,P,y+k*42));
+  sf(); x.fillText(stat,P,y-50-(te?Math.round(ss*0.3):0));
+
+  // right: brand bar
+  const R=L, RW=W-L;
+  x.fillStyle='#12284A'; x.fillRect(R,0,RW,92);
+  x.font=`400 38px ${DI}`; let bx=R+P; x.fillStyle='#fff'; x.fillText('WAY',bx,60); bx+=x.measureText('WAY').width;
+  x.fillStyle='#E8243F'; x.fillText('2',bx,60); bx+=x.measureText('2').width; x.fillStyle='#fff'; x.fillText('SEC',bx,60); bx+=x.measureText('SEC').width+20;
+  x.font=`800 32px ${TE}`; x.fillStyle='#FFD54A'; x.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',bx,60);
+
+  // headline (shrinks to fit 4 lines)
+  let hs=50, hl; do{ x.font=`800 ${hs}px ${TE}`; hl=wrap(x,s.h||'',RW-2*P); if(hl.length<=4) break; hs-=4; }while(hs>32);
+  hl=hl.slice(0,4); x.fillStyle=col; let hy=92+40+hs; hl.forEach(t=>{ x.fillText(t,R+P,hy); hy+=Math.round(hs*1.42); });
+
+  // meta line
+  const meta = s.kind==='job'
+    ? [s.last&&('చివరి తేదీ: '+s.last), s.qual&&('అర్హత: '+s.qual)].filter(Boolean).join(' · ')
+    : [s.d, s.t].filter(Boolean).join(' · ') + (s.src?'  ·  Source: '+s.src:'');
+  x.font=`600 26px ${TE}`; x.fillStyle='#5E5246'; const ml=wrap(x,meta,RW-2*P).slice(0,2);
+  let my=Math.min(hy+8, H-150); ml.forEach(t=>{ x.fillText(t,R+P,my); my+=36; });
+  // first lines of the story in the free space
+  const body = s.kind==='job' ? (s.sum||'') : (s.p||'');
+  x.font=`400 25px ${TE}`; x.fillStyle='#2A231C';
+  let by=my+14; const lim=H-P-58-22; const bl=wrap(x,body,RW-2*P);
+  for(let k=0;k<bl.length && by<=lim;k++){ let t=bl[k]; if(by+38>lim && k<bl.length-1) t=t.replace(/\s*\S*$/,'')+' …'; x.fillText(t,R+P,by); by+=38; }
+
+  // footer: site pill + call to action
+  x.font=`800 26px ${TE}`; const site='way2sec.news', pw=x.measureText(site).width+40;
+  x.fillStyle='#C8102E'; rrect(x,R+P,H-P-58,pw,52,26); x.fill(); x.fillStyle='#fff'; x.textBaseline='middle'; x.fillText(site,R+P+20,H-P-31);
+  x.fillStyle='#12284A'; x.font=`800 26px ${TE}`; x.fillText(s.kind==='job'?'వివరాలు చూడండి →':'పూర్తి వార్త చదవండి →',R+P+pw+22,H-P-31);
+  x.textBaseline='alphabetic';
+  const g=x.createLinearGradient(0,0,W,0); g.addColorStop(0,'#C8102E'); g.addColorStop(.6,'#FF6A3D'); g.addColorStop(1,'#FFD54A');
+  x.fillStyle=g; x.fillRect(0,H-8,W,8);
+  return c.toDataURL('image/jpeg',0.78);
+};
