@@ -126,8 +126,7 @@ def build_html(iso, day, jobs):
 @page{{size:A4;margin:0}}
 *{{box-sizing:border-box}}
 html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exact;print-color-adjust:exact}}
-.page{{width:210mm;height:297mm;padding:11mm 11mm 14mm;position:relative;overflow:hidden;break-after:page;background:#FFFDF8;
-  background-image:repeating-linear-gradient(45deg,rgba(18,40,74,.022) 0 2px,transparent 2px 9px)}}
+.page{{width:210mm;height:297mm;padding:11mm 11mm 14mm;position:relative;overflow:hidden;break-after:page;background:#FFFFFF}}
 .page::after{{content:"WAY2SEC · {date_te} · way2sec.news";position:absolute;left:11mm;right:11mm;bottom:6mm;font:600 7pt/1 W2Sans;color:#8A7E70;
   border-top:.6pt solid #CFC4B2;padding-top:2.2mm;letter-spacing:.3pt}}
 .page::before{{content:"WAY2SEC";position:absolute;left:50%;top:52%;transform:translate(-50%,-50%) rotate(-30deg);font:400 120pt/1 W2Disp;color:rgba(18,40,74,.028);pointer-events:none;white-space:nowrap}}
@@ -145,7 +144,7 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 .st .p{{font:400 8.6pt/1.62 W2Serif;margin:0 0 1.5mm;text-align:justify}}
 .kick2{{font:800 6.8pt/1 W2Sans;color:var(--c);letter-spacing:.2pt;text-transform:uppercase;border-top:2pt solid var(--c);padding-top:1.5mm;display:inline-block}}
 .pts{{margin:0 0 1.5mm;padding-left:4mm;font:600 8pt/1.5 W2Sans}} .pts li::marker{{color:var(--c)}}
-.why{{font:500 7.8pt/1.5 W2Sans;margin:0 0 1.5mm;background:#F4EEE3;border-left:2pt solid var(--c);padding:1.5mm 2.5mm}} .why b{{color:var(--c)}}
+.why{{font:500 7.8pt/1.5 W2Sans;margin:0 0 1.5mm;background:#F2F4F7;border-left:2pt solid var(--c);padding:1.5mm 2.5mm}} .why b{{color:var(--c)}}
 .src{{font:600 6.8pt/1 W2Sans;color:#7A6E60;margin:0}}
 .brk{{display:inline-block;background:#C8102E;color:#fff;font:800 7pt/1 W2Sans;padding:1mm 2mm;border-radius:1mm;margin-right:2mm;vertical-align:middle}}
 .scene{{position:relative;height:46mm;border-radius:2mm;overflow:hidden;color:#fff;padding:4mm 5mm;display:flex;flex-direction:column;justify-content:flex-end;margin-bottom:2.5mm}}
@@ -170,11 +169,12 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 .secopen .scene{{height:52mm}}
 .secopen{{border-bottom:.8pt solid #CFC4B2;margin-bottom:4mm}}
 .cols{{column-count:3;column-gap:5mm;column-rule:.6pt solid #E0D6C6;column-fill:auto}}
+.cols .st{{break-inside:auto}} .st h2,.kick2{{break-after:avoid}} .why,.pts li,.src{{break-inside:avoid}} .cols .st .p{{orphans:3;widows:3}}
 .jintro{{font:600 9pt/1.5 W2Sans;margin:0 0 3mm}}
 table.jobs{{width:100%;border-collapse:collapse;font:600 8pt/1.4 W2Sans}}
 table.jobs th{{background:#0F6E5C;color:#fff;text-align:left;padding:2mm 2.5mm;font-weight:800}}
 table.jobs td{{border-bottom:.6pt solid #DDD3C4;padding:1.8mm 2.5mm;vertical-align:top}}
-table.jobs tr:nth-child(even) td{{background:#F6F1E8}}
+table.jobs tr:nth-child(even) td{{background:#F3F5F8}}
 table.jobs td small{{display:block;color:#6B5F52;font-weight:600;font-size:7pt}}
 table.jobs .n{{text-align:right;white-space:nowrap;width:24mm}}
 .warn{{font:800 8.6pt/1.5 W2Sans;color:#B3400F;margin:3mm 0 0}}
