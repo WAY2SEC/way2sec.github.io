@@ -425,13 +425,13 @@ function daysLeft(j){const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.last||'');if(!m)
 function renderRail(){
   const soon=JOBS.map(j=>[j,daysLeft(j)]).filter(x=>x[1]!==null&&x[1]>=0).sort((a,b)=>a[1]-b[1]).slice(0,5);
   if(!soon.length) return; $('railJobs').hidden=false;
-  $('railJobsList').innerHTML=soon.map(([j,d])=>`<a class="rj" href="/s/${sid({url:j.url||j.apply||'',h:j.h})}">${esc(j.h)}<small>${d===0?'ఈరోజే చివరి రోజు':d+' రోజులు మిగిలాయి'} · ${esc(j.org||'')}</small></a>`).join('');
+  $('railJobsList').innerHTML=soon.map(([j,d])=>`<a class="rj" href="/s/${sid({url:j.url||j.apply||'',h:j._h0||j.h})}">${esc(j.h)}<small>${d===0?W2S_UI[w2sLang()].today:W2S_UI[w2sLang()].left(d)} · ${esc(j.org||'')}</small></a>`).join('');
 }
 function renderJobs(){ renderRail();
   const l=JOBS.filter(j=>{const d=daysLeft(j);return d===null||d>=0}).slice(0,8);
   if(!l.length){$('jobsPanel').hidden=true;return;}
-  $('jobs').innerHTML=l.map(j=>{const d=daysLeft(j); const js={url:j.url||j.apply||'',h:j.h};
-    return `<a class="job" href="/s/${sid(js)}"><div class="n">${esc(j.posts||'—')}<small>పోస్టులు</small></div><div><b>${esc(j.h)}</b><span class="${d!==null&&d<=3?'hot':''}">${esc(j.org||'')}${j.last?' · చివరి తేదీ '+esc(j.last):(j.loc?' · '+esc(j.loc):'')}${d!==null&&d<=3?' · ⏰ '+d+' రోజులే':''}</span></div></a>`}).join('');
+  $('jobs').innerHTML=l.map(j=>{const d=daysLeft(j); const js={url:j.url||j.apply||'',h:j._h0||j.h}, ui=W2S_UI[w2sLang()];
+    return `<a class="job" href="/s/${sid(js)}"><div class="n">${esc(j.posts||'—')}<small>${ui.posts}</small></div><div><b>${esc(j.h)}</b><span class="${d!==null&&d<=3?'hot':''}">${esc(j.org||'')}${j.last?' · '+ui.lastd+' '+esc(j.last):(j.loc?' · '+esc(j.loc):'')}${d!==null&&d<=3?' · ⏰ '+ui.few(d):''}</span></div></a>`}).join('');
 }
 function renderList(title,list){
   const r=$('results'); r.hidden=false; $('home').hidden=true;
@@ -502,7 +502,7 @@ async function load(){
   [((news&&news.stories)||[]),...arch.map(a=>(a&&a.stories)||[])].flat().forEach(s=>{const k=sid(s); if(!seen.has(k)){seen.add(k);out.push(s);}});
   out.sort((a,b)=>tsOf(b)-tsOf(a));
   { const now=Date.now(); const hot=out.filter(s=>s.brk && now-tsOf(s)<6*3600e3); out=hot.concat(out.filter(s=>!hot.includes(s))); }
-  ALL=out.map(s=>w2sTr(s,sid)); JOBS=(jobs&&jobs.jobs)||[];
+  ALL=out.map(s=>w2sTr(s,sid)); JOBS=((jobs&&jobs.jobs)||[]).map(j=>w2sJob(j));
   if(w2sLang()!=='te') document.documentElement.lang=w2sLang();
   renderHome(); renderJobs(); route();
 }

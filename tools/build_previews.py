@@ -99,10 +99,10 @@ def page(sid, s, kind, img, has_card, target, desc, related):
     te = any("ఀ" <= c <= "౿" for c in stat)
     if kind == "job":
         meta = [x for x in [s.get("org"), s.get("d") and f"ప్రచురణ {s['d']}"] if x]
-        rows = [("పోస్టులు", s.get("posts")), ("అర్హత", s.get("qual")), ("అనుభవం", s.get("exp")), ("ఎక్కడ", s.get("loc")), ("వయసు", s.get("age")),
-                ("జీతం", s.get("pay")), ("చివరి తేదీ", s.get("last")), ("వాక్-ఇన్", s.get("walk")), ("ఎలా దరఖాస్తు", s.get("how"))]
+        rows = [("posts", "పోస్టులు", s.get("posts")), ("qual", "అర్హత", s.get("qual")), ("exp", "అనుభవం", s.get("exp")), ("loc", "ఎక్కడ", s.get("loc")), ("age", "వయసు", s.get("age")),
+                ("pay", "జీతం", s.get("pay")), ("last", "చివరి తేదీ", s.get("last")), ("walk", "వాక్-ఇన్", s.get("walk")), ("how", "ఎలా దరఖాస్తు", s.get("how"))]
         body = (f'<p class="alead">{e(s.get("sum") or s.get("p"))}</p>' +
-                '<table class="jd">' + "".join(f"<tr><th>{k}</th><td>{e(v)}</td></tr>" for k, v in rows if v) + "</table>" +
+                '<table class="jd">' + "".join(f'<tr data-k="{rk}"><th>{k}</th><td>{e(v)}</td></tr>' for rk, k, v in rows if v) + "</table>" +
                 '<p class="warnj">⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి. అధికారిక వెబ్‌సైట్‌లోనే దరఖాస్తు చేయండి.</p>')
         apply = s.get("apply") or s.get("url")
         src = f'<p class="src">మూలం: {e(s.get("src"))}' + (f' · <a href="{e(apply)}" target="_blank" rel="noopener nofollow">అధికారిక వెబ్‌సైట్‌లో దరఖాస్తు →</a>' if apply else "") + "</p>"
@@ -114,7 +114,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
                 (f'<p class="why"><small>ఇది ఎందుకు ముఖ్యం?</small>{e(s.get("why"))}</p>' if s.get("why") else ""))
         src = f'<p class="src">మూలం: {e(s.get("src"))}' + (f' · <a href="{e(s.get("url"))}" target="_blank" rel="noopener nofollow">పూర్తి వార్త చదవండి →</a>' if s.get("url") else "") + "</p>"
     share_text = f"{title}\n{SITE}/s/{sid}"
-    trs = {l: {k: s[l][k] for k in ("h", "p", "pts", "why", "cat", "statl") if isinstance(s.get(l), dict) and s[l].get(k)} for l in ("en", "hi") if isinstance(s.get(l), dict)}
+    trs = {l: {k: s[l][k] for k in ("h", "p", "pts", "why", "cat", "statl", "posts", "qual", "exp", "loc", "age", "how", "walk") if isinstance(s.get(l), dict) and s[l].get(k)} for l in ("en", "hi") if isinstance(s.get(l), dict)}
     trs = {l: v for l, v in trs.items() if v.get("h")}
     tr_json = ('<script type="application/json" id="w2sTr">' + json.dumps(trs, ensure_ascii=False).replace("</", "<\\/") + "</script>") if trs else ""
     import urllib.parse as up

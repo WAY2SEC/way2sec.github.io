@@ -43,8 +43,12 @@ const LANG=w2sLang(); w2sLangSwitch();
   const ul=ar.querySelector('.pts'); if(ul&&Array.isArray(T.pts)) ul.innerHTML=T.pts.map(x=>`<li>${esc(x)}</li>`).join('');
   const wy=ar.querySelector('.why'); if(wy&&T.why) wy.innerHTML=`<small>${esc(ui.why)}</small>${esc(T.why)}`;
   const sl=ar.querySelector('.statl'); if(sl&&T.statl) sl.textContent=T.statl;
+  ar.querySelectorAll('table.jd tr[data-k]').forEach(r=>{ const k=r.dataset.k, th=r.querySelector('th'), td=r.querySelector('td');
+    if(th&&ui.rows[k]) th.textContent=ui.rows[k]; if(td&&T[k]) td.textContent=T[k]; });
+  const wj=ar.querySelector('.warnj'); if(wj) wj.textContent=ui.warn;
+  if(ar.querySelector('table.jd')){ const sa=ar.querySelector('.src a'); if(sa) sa.textContent=ui.off; }
   const ch=ar.querySelector('.chips .chip:not(.brk)'); if(ch&&T.cat) ch.textContent=T.cat;
-  const rd=ar.querySelector('.src a'); if(rd) rd.textContent=ui.read;
+  const rd=ar.querySelector('.src a'); if(rd&&!ar.querySelector('table.jd')) rd.textContent=ui.read;
   const wa=ar.querySelector('.cta.wa'); if(wa){ wa.textContent=ui.wa; wa.href='https://wa.me/?text='+encodeURIComponent(T.h+'\n'+location.origin+location.pathname+'?l='+LANG); }
   if($('listen')) $('listen').textContent=ui.listen;
 })();
@@ -68,8 +72,8 @@ async function getJSON(u){ try{ const r=await fetch(u+'?t='+Date.now(),{cache:'n
   const lt=$('latest'); if(lt) lt.innerHTML=all.slice(0,6).map(s=>`<a class="it" href="/s/${sid(s)}"><span class="tm">${esc(s.t||'')}</span><span class="hd">${esc(s.h)}</span></a>`).join('');
   const mo=$('more'); if(mo){ const rel=new Set([...document.querySelectorAll('.sec .card')].map(a=>a.getAttribute('href').split('/').pop()));
     mo.innerHTML=all.filter(s=>!rel.has(sid(s))).slice(6,14).map(card).join(''); }
-  const J=((jobs&&jobs.jobs)||[]).map(j=>[j,daysLeft(j)]).filter(x=>x[1]!==null&&x[1]>=0).sort((a,b)=>a[1]-b[1]).slice(0,5);
+  const J=((jobs&&jobs.jobs)||[]).map(j=>w2sJob(j,LANG)).map(j=>[j,daysLeft(j)]).filter(x=>x[1]!==null&&x[1]>=0).sort((a,b)=>a[1]-b[1]).slice(0,5);
   if(J.length && $('railJobs')){ $('railJobs').hidden=false;
-    $('railJobsList').innerHTML=J.map(([j,d])=>`<a class="rj" href="/s/${sid({url:j.url||j.apply||'',h:j.h})}">${esc(j.h)}<small>${d===0?'ఈరోజే చివరి రోజు':d+' రోజులు మిగిలాయి'} · ${esc(j.org||'')}</small></a>`).join(''); }
+    $('railJobsList').innerHTML=J.map(([j,d])=>`<a class="rj" href="/s/${sid({url:j.url||j.apply||'',h:j._h0||j.h})}">${esc(j.h)}<small>${d===0?W2S_UI[LANG].today:W2S_UI[LANG].left(d)} · ${esc(j.org||'')}</small></a>`).join(''); }
 })();
 })();

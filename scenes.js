@@ -321,11 +321,14 @@ function w2sLang(){ try{ const q=new URLSearchParams(location.search).get('l'); 
 /* a story in the reader's language (missing translations stay Telugu); sidFn keeps the story's link the same */
 function w2sTr(s,sidFn,l){ l=l||w2sLang(); if(!s||l==='te'||!s[l]||typeof s[l]!=='object') return s;
   const o=Object.assign({},s,s[l]); if(sidFn) o._sid=sidFn(s); o._lang=l; return o; }
-const W2S_UI={te:{why:'ఇది ఎందుకు ముఖ్యం?',read:'పూర్తి వార్త చదవండి →',src:'మూలం',listen:'🔊 తెలుగులో వినండి',wa:'WhatsAppలో షేర్ చేయండి',speech:'te-IN'},
-  en:{why:'Why it matters',read:'Read full story →',src:'Source',listen:'🔊 Listen',wa:'Share on WhatsApp',speech:'en-IN'},
-  hi:{why:'यह क्यों ज़रूरी है?',read:'पूरी खबर पढ़ें →',src:'स्रोत',listen:'🔊 सुनें',wa:'WhatsApp पर शेयर करें',speech:'hi-IN'}};
+const W2S_UI={te:{posts:'పోస్టులు',lastd:'చివరి తేదీ',today:'ఈరోజే చివరి రోజు',left:n=>n+' రోజులు మిగిలాయి',few:n=>n+' రోజులే',off:'అధికారిక వెబ్‌సైట్‌లో దరఖాస్తు →',warn:'⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి. అధికారిక వెబ్‌సైట్‌లోనే దరఖాస్తు చేయండి.',rows:{posts:'పోస్టులు',qual:'అర్హత',exp:'అనుభవం',loc:'ఎక్కడ',age:'వయసు',pay:'జీతం',last:'చివరి తేదీ',walk:'వాక్-ఇన్',how:'ఎలా దరఖాస్తు'},why:'ఇది ఎందుకు ముఖ్యం?',read:'పూర్తి వార్త చదవండి →',src:'మూలం',listen:'🔊 తెలుగులో వినండి',wa:'WhatsAppలో షేర్ చేయండి',speech:'te-IN'},
+  en:{posts:'Posts',lastd:'Last date',today:'Last day today',left:n=>n+' days left',few:n=>'only '+n+' days',off:'Apply on the official website →',warn:'⚠️ Never pay anyone for a job. Apply only on the official website.',rows:{posts:'Posts',qual:'Eligibility',exp:'Experience',loc:'Where',age:'Age',pay:'Pay',last:'Last date',walk:'Walk-in',how:'How to apply'},why:'Why it matters',read:'Read full story →',src:'Source',listen:'🔊 Listen',wa:'Share on WhatsApp',speech:'en-IN'},
+  hi:{posts:'पद',lastd:'अंतिम तिथि',today:'आज आख़िरी दिन',left:n=>n+' दिन बाकी',few:n=>'सिर्फ़ '+n+' दिन',off:'आधिकारिक वेबसाइट पर आवेदन करें →',warn:'⚠️ नौकरी के लिए किसी को पैसे न दें। सिर्फ़ आधिकारिक वेबसाइट पर आवेदन करें।',rows:{posts:'पद',qual:'योग्यता',exp:'अनुभव',loc:'कहाँ',age:'आयु',pay:'वेतन',last:'अंतिम तिथि',walk:'वॉक-इन',how:'कैसे आवेदन करें'},why:'यह क्यों ज़रूरी है?',read:'पूरी खबर पढ़ें →',src:'स्रोत',listen:'🔊 सुनें',wa:'WhatsApp पर शेयर करें',speech:'hi-IN'}};
 /* the తె / EN / हि switch in the website header */
 function w2sLangSwitch(){ const w=document.getElementById('lsw'); if(!w) return; const cur=w2sLang();
   w.querySelectorAll('button').forEach(b=>{ b.setAttribute('aria-pressed',String(b.dataset.l===cur));
     b.onclick=()=>{ try{ const p=JSON.parse(localStorage.getItem('w2s.prefs')||'{}'); p.lang=b.dataset.l; localStorage.setItem('w2s.prefs',JSON.stringify(p)); }catch(e){}
       const u=new URL(location.href); u.searchParams.delete('l'); location.href=u.pathname+u.search; }; }); }
+
+/* a job in the reader's language; _h0 keeps the original Telugu headline for the link */
+function w2sJob(j,l){ l=l||w2sLang(); const o=(l!=='te'&&j&&j[l]&&typeof j[l]==='object'&&j[l].h)?Object.assign({},j,j[l]):Object.assign({},j); o._h0=j.h; return o; }

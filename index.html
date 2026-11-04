@@ -411,7 +411,16 @@ const UI = {te:{read:'పూర్తి వార్త చదవండి →'
   en:{read:'Read full story →',hint:'Next story: swipe ← left or ↓ down',news:'News',speech:'en-IN',src:'Source',tag:'Fastest AI News',sub:'Fast, short news for you',l1:'News in seconds!'},
   hi:{read:'पूरी खबर पढ़ें →',hint:'अगली खबर: ← बाएँ या ↓ नीचे स्वाइप करें',news:'खबर',speech:'hi-IN',src:'स्रोत',tag:'Fastest AI News',sub:'तेज़ और छोटी खबरें, आपकी भाषा में',l1:'खबरें पल भर में!'}};
 const U = k => (UI[LG()]||UI.te)[k];
-function tr(s){ const l=LG(); if(!s||l==='te'||!s[l]||typeof s[l]!=='object') return s; return Object.assign({},s,s[l],{_sid:sid(s),_lang:l}); }
+/* job card words in the reader's language */
+const JU = {
+  te:{elig:'🎓 అర్హత',age:'🎂 వయసు',pay:'💰 జీతం',last:'🗓️ చివరి తేదీ',where:'🏢 ఎక్కడ',exp:'🧑‍💼 అనుభవం',how:'📝 ఎలా',today:'⏰ ఈరోజే చివరి రోజు',few:n=>`⏰ ఇంకా ${n} రోజులే మిగిలాయి`,more:n=>`⏳ దరఖాస్తుకు ఇంకా ${n} రోజులు`,lastd:'చివరి తేదీ',pub:'ప్రచురణ',off:'అధికారిక వెబ్‌సైట్ →',hint:'తర్వాతి ఉద్యోగం: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి',warn:'⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి. అధికారిక వెబ్‌సైట్‌లోనే దరఖాస్తు చేయండి.',warn1:'⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి',posts:'పోస్టులు',s1:'💼 జాబ్స్',s2:' – ఉద్యోగ సమాచారం',s3:'తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు',job:'ఉద్యోగం',jobs:'ఉద్యోగాలు',ch:'Way2Sec WhatsApp ఛానెల్',
+      types:{tg:'తెలంగాణ',ap:'ఆంధ్రప్రదేశ్',central:'కేంద్ర ప్రభుత్వం',psu:'కేంద్ర ప్రభుత్వం',bank:'బ్యాంక్',railway:'రైల్వే',police:'పోలీస్ / రక్షణ',teaching:'టీచర్ / విద్య',it:'IT / సాఫ్ట్‌వేర్',private:'ప్రైవేట్ ఉద్యోగాలు',mela:'జాబ్ మేళా / అప్రెంటిస్',all:'అన్నీ'}},
+  en:{elig:'🎓 Eligibility',age:'🎂 Age',pay:'💰 Pay',last:'🗓️ Last date',where:'🏢 Where',exp:'🧑‍💼 Experience',how:'📝 How to apply',today:'⏰ Today is the last day',few:n=>`⏰ Only ${n} day${n>1?'s':''} left`,more:n=>`⏳ ${n} days left to apply`,lastd:'Last date',pub:'Posted',off:'Official website →',hint:'Next job: swipe ← left or ↓ down',warn:'⚠️ Never pay anyone for a job. Apply only on the official website.',warn1:'⚠️ Never pay anyone for a job',posts:'Posts',s1:'💼 Jobs',s2:' – job alerts',s3:'Fast, verified job alerts',job:'Job',jobs:'Jobs',ch:'Way2Sec WhatsApp channel',
+      types:{tg:'Telangana',ap:'Andhra Pradesh',central:'Central Govt',psu:'Central Govt',bank:'Bank',railway:'Railway',police:'Police / Defence',teaching:'Teaching',it:'IT / Software',private:'Private jobs',mela:'Job mela / Apprentice',all:'All'}},
+  hi:{elig:'🎓 योग्यता',age:'🎂 आयु',pay:'💰 वेतन',last:'🗓️ अंतिम तिथि',where:'🏢 कहाँ',exp:'🧑‍💼 अनुभव',how:'📝 कैसे आवेदन करें',today:'⏰ आज आख़िरी दिन है',few:n=>`⏰ सिर्फ़ ${n} दिन बाकी`,more:n=>`⏳ आवेदन के लिए ${n} दिन बाकी`,lastd:'अंतिम तिथि',pub:'प्रकाशित',off:'आधिकारिक वेबसाइट →',hint:'अगली नौकरी: ← बाएँ या ↓ नीचे स्वाइप करें',warn:'⚠️ नौकरी के लिए किसी को पैसे न दें। सिर्फ़ आधिकारिक वेबसाइट पर आवेदन करें।',warn1:'⚠️ नौकरी के लिए किसी को पैसे न दें',posts:'पद',s1:'💼 नौकरियाँ',s2:' – नौकरी की खबरें',s3:'तेज़ और भरोसेमंद नौकरी अलर्ट',job:'नौकरी',jobs:'नौकरियाँ',ch:'Way2Sec WhatsApp चैनल',
+      types:{tg:'तेलंगाना',ap:'आंध्र प्रदेश',central:'केंद्र सरकार',psu:'केंद्र सरकार',bank:'बैंक',railway:'रेलवे',police:'पुलिस / रक्षा',teaching:'शिक्षक / शिक्षा',it:'आईटी / सॉफ़्टवेयर',private:'प्राइवेट नौकरियाँ',mela:'रोज़गार मेला / अप्रेंटिस',all:'सभी'}}};
+const J = k => (JU[LG()]||JU.te)[k];
+function tr(s){ const l=LG(); if(!s||s.kind==='job'||l==='te'||!s[l]||typeof s[l]!=='object') return s; return Object.assign({},s,s[l],{_sid:sid(s),_lang:l}); }
 const placeName = k => { if(!k||k==='TS') return 'మొత్తం తెలంగాణ'; if(k==='AP') return 'మొత్తం ఆంధ్రప్రదేశ్'; const t=PLACES.find(p=>p[0]===k); return t?t[1]:(placeLabel(k)||'మొత్తం తెలంగాణ'); };
 const stOfPlace = k => !k||k==='TS'||PLACES.some(p=>p[0]===k) ? 'TG' : (k==='AP'||k.startsWith('ap-') ? 'AP' : (k.startsWith('st-')?k.slice(3):(/^(ka|tn|mh)-/.test(k)?k.slice(0,2).toUpperCase():'TG')));
 /* does a story belong to the reader's place? */
@@ -425,7 +434,7 @@ function localScore(s){ const v=(prefs.village||'').trim(); let sc=0;
   return sc; }
 const localFirst = l => l.map((s,i)=>[s,localScore(s),i]).sort((a,b)=>b[1]-a[1]||a[2]-b[2]).map(x=>x[0]);
 const MONTHS = ['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
-const teDate = d => { const m=/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/.exec(d||''); return m ? `${MONTHS[+m[2]-1]} ${+m[1]}, ${m[3]}` : (d||''); };
+const teDate = d => { if(LG()!=='te') return d||''; const m=/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/.exec(d||''); return m ? `${MONTHS[+m[2]-1]} ${+m[1]}, ${m[3]}` : (d||''); };
 
 const ART = {
   voters:'<path d="M20 120H160"/><rect x="30" y="120" width="120" height="70" rx="6"/><path d="M70 120h40"/><g transform="rotate(-8 90 80)"><rect x="72" y="40" width="36" height="70" rx="4"/><path d="M80 75l7 9 14-18"/></g>',
@@ -448,11 +457,15 @@ const JT = Object.fromEntries(JOB_TYPES);
 let JOBS = [], jobFilter = 'all', jobsLoaded = false;
 function daysLeft(j){ const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(j.last||''); if(!m) return null;
   const end=new Date(+m[3],+m[2]-1,+m[1],23,59,59); return Math.floor((end-Date.now())/864e5); }
-function normJob(j){
-  const det=[j.qual&&'అర్హత: '+j.qual, j.last&&'చివరి తేదీ: '+j.last].filter(Boolean).join(' · ');
-  return Object.assign({}, j, { kind:'job', col:'--c-job', art:'job',
-    cat:`💼 ${JT[j.type]||'ఉద్యోగం'}${j.org?' · '+j.org:''}`, stat:j.posts||'ఉద్యోగాలు', statl:j.statl||'పోస్టులు',
-    sum:j.p||'', p:[j.p,det].filter(Boolean).join(' '), src:j.src||j.org||'', url:j.url||j.apply||'' });
+function normJob(j0){
+  const l=LG(), loc=l!=='te' && j0[l] && typeof j0[l]==='object' && j0[l].h;
+  const j = loc ? Object.assign({}, j0, j0[l]) : j0;
+  const det=[j.qual&&J('elig').slice(3)+': '+j.qual, j.last&&J('lastd')+': '+j.last].filter(Boolean).join(' · ');
+  const o = Object.assign({}, j, { kind:'job', col:'--c-job', art:'job',
+    cat:`💼 ${J('types')[j.type]||J('job')}${j.org?' · '+j.org:''}`, stat:j.posts||J('jobs'), statl:(loc?j.statl:j0.statl)||J('posts'),
+    sum:j.p||'', p:[j.p,det].filter(Boolean).join(' '), src:j.src||j.org||'', url:j0.url||j0.apply||'' });
+  if(loc){ o._sid=sid({url:j0.url||j0.apply||'',h:j0.h}); o._lang=l; }
+  return o;
 }
 function setJobs(raw){ JOBS=(raw||[]).map(normJob).filter(j=>{ const d=daysLeft(j); if(d!==null) return d>=0;
   // no last date (common for private jobs): show for 21 days after it was added
@@ -498,7 +511,7 @@ function toast(t){const el=$('toast');el.textContent=t;el.classList.add('on');cl
 /* ---------- tabs ---------- */
 function renderTabs(){
   if(view==='jobs'){
-    $('tabs').innerHTML = JOB_TYPES.map(t=>`<button class="tab" type="button" data-j="${t[0]}" aria-pressed="${t[0]===jobFilter}">${esc(t[1])}</button>`).join('');
+    $('tabs').innerHTML = JOB_TYPES.map(t=>`<button class="tab" type="button" data-j="${t[0]}" aria-pressed="${t[0]===jobFilter}">${esc(J('types')[t[0]]||t[1])}</button>`).join('');
     $('placeName').textContent = (prefs.village?prefs.village+', ':'')+placeName(prefs.place); return;
   }
   if(view==='date' && DAY){
@@ -542,25 +555,25 @@ const I = {
 let cards=[], cur=0, LIST=[];
 function jobHTML(s,i){
   const dl=daysLeft(s);
-  const left = dl===null ? '' : dl===0 ? '⏰ ఈరోజే చివరి రోజు' : dl<=3 ? `⏰ ఇంకా ${dl} రోజులే మిగిలాయి` : `⏳ దరఖాస్తుకు ఇంకా ${dl} రోజులు`;
-  const rows=[['🎓 అర్హత',s.qual],['🎂 వయసు',s.age,'o2'],['💰 జీతం',s.pay,'o2'],['🗓️ చివరి తేదీ',s.last?teDate(s.last):(s.walk||'')],['🏢 ఎక్కడ',s.loc,'o2'],['🧑‍💼 అనుభవం',s.exp,'o2'],['📝 ఎలా',s.how,'o2']].filter(r=>r[1]);
+  const left = dl===null ? '' : dl===0 ? J('today') : dl<=3 ? J('few')(dl) : J('more')(dl);
+  const rows=[[J('elig'),s.qual],[J('age'),s.age,'o2'],[J('pay'),s.pay,'o2'],[J('last'),s.last?teDate(s.last):(s.walk||'')],[J('where'),s.loc,'o2'],[J('exp'),s.exp,'o2'],[J('how'),s.how,'o2']].filter(r=>r[1]);
   const pl = s.place && !['TS','IN'].includes(s.place) ? `<span class="chip pl">📍 ${esc(s.place==='AP'?'ఆంధ్రప్రదేశ్':placeName(s.place))}</span>` : '';
   const link = s.apply||s.url;
   return `<article class="story" aria-label="ఉద్యోగం ${i+1}" style="--hl:var(--c-job);--hl-ink:var(--c-job)">
   <div class="panel">
     ${sceneSVG(s,'scene')}
-    <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?'చివరి తేదీ '+esc(s.last):(s.d?'ప్రచురణ '+esc(s.d):'')}</span></div>
+    <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?J('lastd')+' '+esc(s.last):(s.d?J('pub')+' '+esc(s.d):'')}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">💼 జాబ్స్<span class="tgx"> – ఉద్యోగ సమాచారం</span></span></div><span class="rg">Fastest AI News in Telugu</span><span class="rt">తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు</span></div></div>
-  <div class="text">
+  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">${J('s1')}<span class="tgx">${J('s2')}</span></span></div><span class="rg">${U('tag')}</span><span class="rt">${J('s3')}</span></div></div>
+  <div class="text"${s._lang?` lang="${s._lang}"`:''}>
     <h2>${esc(s.h)}</h2>
     ${left?`<span class="left${dl<=3?' urg':''}">${left}</span>`:''}
     ${s.sum?`<p class="sum js">${esc(s.sum)}</p>`:''}
     <dl class="jd">${rows.map(r=>`<dt class="${r[2]||''}">${r[0]}</dt><dd class="${r[2]||''}">${esc(r[1])}</dd>`).join('')}</dl>
-    <div class="foot"><span class="src">Source | మూలం: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(link||'')?`<a class="read" href="${esc(link)}" target="_blank" rel="noopener">అధికారిక వెబ్‌సైట్ →</a>`:''}</div>
-    <div class="warn">⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి. అధికారిక వెబ్‌సైట్‌లోనే దరఖాస్తు చేయండి.</div>
-    ${i===0?'<div class="hint">తర్వాతి ఉద్యోగం: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి</div>':''}
+    <div class="foot"><span class="src">${U('src')}: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(link||'')?`<a class="read" href="${esc(link)}" target="_blank" rel="noopener">${J('off')}</a>`:''}</div>
+    <div class="warn">${J('warn')}</div>
+    ${i===0?`<div class="hint">${J('hint')}</div>`:''}
   </div>
   <div class="spacer"></div>
   <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
@@ -707,7 +720,7 @@ async function cardImage(s){
   ctx.fillStyle='#fff'; ctx.strokeStyle='#fff'; ctx.lineWidth=3;
   ctx.font=`800 30px ${TE}`; const chip=s.cat||'వార్త', cw=ctx.measureText(chip).width+56;
   rrect(ctx,P,52,cw,62,31); ctx.stroke(); ctx.textBaseline='middle'; ctx.fillText(chip,P+28,84);
-  ctx.font=`700 28px ${TE}`; ctx.textAlign='right'; ctx.fillText(s.kind==='job'?(s.last?'చివరి తేదీ '+s.last:''):(s.d||NEWS.date||''),W-P,84); ctx.textAlign='left';
+  ctx.font=`700 28px ${TE}`; ctx.textAlign='right'; ctx.fillText(s.kind==='job'?(s.last?J('lastd')+' '+s.last:''):(s.d||NEWS.date||''),W-P,84); ctx.textAlign='left';
   ctx.textBaseline='alphabetic';
   let statSize=150; ctx.font=`400 ${statSize}px ${DI}`; while(ctx.measureText(s.stat||'').width>W-2*P && statSize>60){ statSize-=10; ctx.font=`400 ${statSize}px ${DI}`; }
   // Telugu in the stat needs the Telugu font
@@ -724,9 +737,9 @@ async function cardImage(s){
   let x=P;
   try{ const lg=await loadImg('logo-light.png'); const lh=64, lw=lg.width*lh/lg.height; ctx.drawImage(lg,P,yy+(STRIP-lh)/2,lw,lh); x=P+lw+28;
        ctx.strokeStyle='rgba(255,255,255,.22)'; ctx.lineWidth=2; ctx.beginPath(); ctx.moveTo(x-14,yy+30); ctx.lineTo(x-14,yy+STRIP-30); ctx.stroke(); }catch(e){}
-  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':U('l1'),x,yy+62);
-  ctx.font=`800 30px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.fillText(s.kind==='job'?'Fastest AI News in Telugu':U('tag'),x,yy+112);
-  ctx.font=`700 29px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?'తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు':U('sub'),x,yy+158);
+  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?(J('s1').replace('💼 ','')+J('s2')):U('l1'),x,yy+62);
+  ctx.font=`800 30px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.fillText(U('tag'),x,yy+112);
+  ctx.font=`700 29px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?J('s3'):U('sub'),x,yy+158);
   // text
   yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
   yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
@@ -746,7 +759,7 @@ window.cardImage=cardImage;
 function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s)+(s._lang?'?l='+s._lang:''); } // preview page: shows this story's own card in WhatsApp, then opens it
 function shareText(s){
   // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
-  if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 పోస్టులు: ${s.stat}${s.qual?`\n🎓 అర్హత: ${s.qual}`:''}${s.last?`\n🗓️ చివరి తేదీ: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n⚠️ ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి\n\n👉 Way2Sec WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
+  if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 ${J('posts')}: ${s.stat}${s.qual?`\n${J('elig')}: ${s.qual}`:''}${s.last?`\n${J('last')}: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n${J('warn1')}\n\n👉 ${J('ch')}: ${CONFIG.CHANNEL}`;
   const when=(s.d||NEWS.date||'')+(s.t?' · '+s.t:'');
   return `🔴 ${s.h}\n📲 ${storyLink(s)}\n\n📅 ${when} · Source | మూలం: ${s.src}\nWay2Sec – Fastest AI News in Telugu\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
 }
@@ -784,7 +797,7 @@ $('listenBtn').onclick=()=>{
   if(!synth){ toast('ఈ ఫోన్‌లో వాయిస్ సపోర్ట్ లేదు'); return; }
   if($('listenBtn').getAttribute('aria-pressed')==='true'){ stopVoice(); return; }
   const text = s.kind==='job'
-    ? [s.h, s.sum, s.posts&&('పోస్టులు '+s.posts), s.qual&&('అర్హత '+s.qual), s.last&&('చివరి తేదీ '+teDate(s.last))].filter(Boolean).join('. ')
+    ? [s.h, s.sum, s.posts&&(J('posts')+' '+s.posts), s.qual&&(J('elig').slice(3)+' '+s.qual), s.last&&(J('lastd')+' '+teDate(s.last))].filter(Boolean).join('. ')
     : [s.h, s.p, ...(Array.isArray(s.pts)?s.pts:[])].filter(Boolean).join('. ');
   const u=new SpeechSynthesisUtterance(text); const sl=U('speech'); u.lang=sl; u.rate=0.95;
   const v=synth.getVoices().find(v=>v.lang.replace('_','-').toLowerCase().startsWith(sl.slice(0,2))); if(v) u.voice=v;
@@ -976,7 +989,7 @@ $('village').addEventListener('input',()=>{ draft.village=$('village').value.tri
 $('places').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.place=b.dataset.k;drawPlaces()});
 $('topics').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const k=b.dataset.k;draft.topics=draft.topics.includes(k)?draft.topics.filter(x=>x!==k):draft.topics.concat(k);drawTopics()});
 $('themes').addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;draft.theme=b.dataset.k;drawThemes();prefs.theme=draft.theme;applyTheme()});
-$('save').onclick=()=>{prefs=draft;store.set('prefs',prefs);if(pushOK) OneSignalDeferred.push(tagUser);applyTheme();$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
+$('save').onclick=()=>{const lc=(prefs.lang||'te')!==(draft.lang||'te');prefs=draft;store.set('prefs',prefs);if(lc){ setJobs(store.get('jobs',[])); cardCache={k:null,blob:null,p:null}; document.documentElement.lang=LG(); }if(pushOK) OneSignalDeferred.push(tagUser);applyTheme();$('sheet').hidden=true;renderTabs();renderFeed();toast('సేవ్ అయింది ✓')};
 $('closeSheet').onclick=()=>{prefs.theme=store.get('prefs',prefs).theme||'auto';applyTheme();$('sheet').hidden=true};
 $('placeBtn').onclick=openSheet; $('setBtn').onclick=openSheet;
 
