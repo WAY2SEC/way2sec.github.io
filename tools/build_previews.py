@@ -299,6 +299,18 @@ def main():
             out = static_page(t, dsc, body); fp = os.path.join(ROOT, name)
             if not os.path.exists(fp) or open(fp, encoding="utf-8").read() != out:
                 with open(fp, "w", encoding="utf-8") as f: f.write(out)
+        # sitemap for Google (home, sections, static pages, every article) + robots.txt
+        urls = [(SITE + "/", None), (SITE + "/about.html", None), (SITE + "/contact.html", None), (SITE + "/privacy.html", None)]
+        urls += [(f"{SITE}/?sec={k}", None) for k, _ in SITE_SECS]
+        for kind, s, sid in uniq:
+            urls.append((f"{SITE}/s/{sid}", iso_time(s)))
+        sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+        for u, lm in urls:
+            sm.append(f"<url><loc>{html.escape(u)}</loc>" + (f"<lastmod>{lm}</lastmod>" if lm else "") + "</url>")
+        sm.append("</urlset>")
+        with open(os.path.join(ROOT, "web", "sitemap.xml"), "w", encoding="utf-8") as f: f.write("\n".join(sm) + "\n")
+        rb = f"User-agent: *\nAllow: /\nDisallow: /tools/\n\nSitemap: {SITE}/web/sitemap.xml\n"
+        with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f: f.write(rb)
         # website home page (template + the app's card drawings)
         app = open(os.path.join(ROOT, "index.html"), encoding="utf-8").read()
         a0 = app.index("const ART = {"); a1 = app.index("\n};", a0) + 3
