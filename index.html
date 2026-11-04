@@ -744,6 +744,7 @@ $('listenBtn').onclick=()=>{
   synth.cancel(); synth.speak(u); $('listenBtn').setAttribute('aria-pressed','true');
 };
 /* Share the CARD PICTURE + caption. Used by both the share button and the green WhatsApp button. */
+const CRIOS=/CriOS|FxiOS|EdgiOS|OPiOS/.test(navigator.userAgent);
 const IOS=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
 const timeout=(p,ms)=>Promise.race([p,new Promise(r=>setTimeout(()=>r(null),ms))]);
 /* iPhone helpers */
@@ -781,6 +782,13 @@ function showCardImage(b, text, why){
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   const text=shareText(s);
   let b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+  if(IOS && (CRIOS || !window.isSecureContext)){
+    // Chrome/Firefox/Edge on iPhone (and any non-https page) cannot share pictures at all:
+    // go straight to WhatsApp (or the share menu) with the Way2Sec link, which shows our preview.
+    if(viaWA){ location.href='https://wa.me/?text='+encodeURIComponent(text); return; }
+    try{ if(navigator.share){ await navigator.share({text}); return; } }catch(e){ if(e&&e.name==='AbortError') return; }
+    location.href='https://wa.me/?text='+encodeURIComponent(text); return;
+  }
   if(IOS){
     // iPhone: the share menu must open straight after the tap, with nothing else first,
     // and WhatsApp on iPhone keeps only the text if it gets picture + text. So: picture alone.
