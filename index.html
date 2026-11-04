@@ -2,6 +2,16 @@
 <html lang="te">
 <head>
 <meta charset="utf-8">
+<script>
+/* Laptops and desktops get the news website; phones, tablets and the installed app keep the swipe cards */
+(function(){try{var q=new URLSearchParams(location.search);
+ var app=matchMedia('(display-mode: standalone)').matches||navigator.standalone===true||document.referrer.indexOf('android-app://')===0;
+ if(q.has('cards'))sessionStorage.setItem('w2s.cards','1');
+ if(app||q.has('cards')||q.has('build')||q.has('tip')||q.has('jobs')||q.has('source')||sessionStorage.getItem('w2s.cards'))return;
+ var touch=/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.maxTouchPoints>1&&innerWidth<1100);
+ if(!touch&&innerWidth>=900){var s=q.get('s');location.replace(s?'/s/'+s:'/web/');}}catch(e){}})();
+</script>
+
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Way2Sec News</title>
 <meta name="application-name" content="Way2Sec News">
@@ -110,15 +120,17 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .pdate{font-size:11.5px;font-weight:700;opacity:.9;white-space:nowrap}
 .stat{font-family:var(--display);font-size:clamp(38px,11vw,56px);line-height:1.05;letter-spacing:-1px}
 .statl{font-size:clamp(14px,4vw,16.5px);font-weight:800;line-height:1.4;max-width:20ch}
-.strip{background:#12284A;color:#fff;display:flex;justify-content:flex-start;align-items:center;gap:12px;padding:9px var(--gr) 9px var(--gx)}
+.strip{background:#12284A;color:#fff;display:flex;justify-content:flex-start;align-items:center;gap:12px;padding:10px var(--gr) 10px var(--gx)}
 .sb{display:flex;flex-direction:column;gap:2px;line-height:1.3;min-width:0}
 .sb .l1{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
 .sb .bn{font-family:var(--display);font-size:16px;letter-spacing:1px;color:#fff}
 .sb .bn i{font-style:normal;color:#E8243F}
-.sb .tg{font-size:15px;font-weight:800;color:#FFD54A}
-.sb .rg{font-size:11px;font-weight:800;color:#D6DEEA}
+.sb .tg{font-size:16.5px;font-weight:800;color:#FFD54A;line-height:1.35}
+.sb .rg{font-size:13px;font-weight:800;color:#EEF2F8;letter-spacing:.01em}
+.sb .rt{font-size:12.5px;font-weight:700;color:#C3D0E2;line-height:1.4}
+.sb .tg,.sb .rg,.sb .rt{white-space:nowrap}
+@media (max-width:420px){.story .strip{gap:9px}.story .strip img{height:20px;padding-right:9px}.tgx{display:none}.sb .tg{font-size:15.5px}.sb .rg{font-size:12.5px}.sb .rt{font-size:12px}}
 .sb .rg span{color:#AFC0D6;font-weight:600}
-@media (max-width:520px){.sb .rg span{display:none}}
 .strip img{height:30px;width:auto;display:block;flex-shrink:0;padding-right:12px;border-right:1px solid rgba(255,255,255,.22)}
 .text{flex:0 0 auto;display:flex;flex-direction:column;gap:8px;padding:12px var(--gr) 8px var(--gx)}
 .text>*{flex-shrink:0}
@@ -137,7 +149,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .story.t1 .qrbar img{width:42px;height:42px}
 .story.t2 .sum{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
 .story.t3 .sum{-webkit-line-clamp:4}
-.story.t3 .sb .rg{display:none}
+.story.t4 .sb .rt{display:none}
 .story.t4 .sum{-webkit-line-clamp:3}
 .story.t4 .panel{min-height:120px}
 
@@ -336,7 +348,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <a class="btn wa" id="joinLink" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a>
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.11-B · Way2Sec</p>
+      <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.11-C · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
@@ -508,7 +521,7 @@ function jobHTML(s,i){
     <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat)}</span>${pl}</div><span class="pdate">${s.last?'చివరి తేదీ '+esc(s.last):(s.d?'ప్రచురణ '+esc(s.d):'')}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">జాబ్స్ – ఉద్యోగ సమాచారం</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు</span></span></div></div>
+  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">💼 జాబ్స్<span class="tgx"> – ఉద్యోగ సమాచారం</span></span></div><span class="rg">Fastest AI News in Telugu</span><span class="rt">తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు</span></div></div>
   <div class="text">
     <h2>${esc(s.h)}</h2>
     ${left?`<span class="left${dl<=3?' urg':''}">${left}</span>`:''}
@@ -532,7 +545,7 @@ function cardHTML(s,i){
     <div class="ptop"><div class="chips"><span class="chip">${esc(s.cat||'వార్త')}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
-  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu <span>· తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></span></div></div>
+  <div class="strip"><img src="logo-light.png" alt="Way2Sec"><div class="sb"><div class="l1"><span class="tg">వార్తలు క్షణాల్లో!</span></div><span class="rg">Fastest AI News in Telugu</span><span class="rt">తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div></div>
   <div class="text">
     <h2>${esc(s.h)}</h2>
     <p class="sum">${esc(s.p)}</p>
@@ -651,7 +664,7 @@ async function cardImage(s){
   // measure the text block first to know the card height
   ctx.font=`800 52px ${TE}`; const hl=wrap(ctx,s.h,W-2*P);
   ctx.font=`400 36px ${TE}`; const pl=wrap(ctx,s.p,W-2*P);
-  const PANEL=600, STRIP=150, QR=190;
+  const PANEL=600, STRIP=196, QR=190;
   const textH=48+hl.length*72+24+pl.length*58+40+70+40;
   const H=PANEL+STRIP+textH+QR; c.width=W; c.height=H;
   ctx.fillStyle='#FFFBF3'; ctx.fillRect(0,0,W,H);
@@ -679,10 +692,9 @@ async function cardImage(s){
   let x=P;
   try{ const lg=await loadImg('logo-light.png'); const lh=64, lw=lg.width*lh/lg.height; ctx.drawImage(lg,P,yy+(STRIP-lh)/2,lw,lh); x=P+lw+28;
        ctx.strokeStyle='rgba(255,255,255,.22)'; ctx.lineWidth=2; ctx.beginPath(); ctx.moveTo(x-14,yy+30); ctx.lineTo(x-14,yy+STRIP-30); ctx.stroke(); }catch(e){}
-  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',x,yy+66);
-  ctx.font=`800 26px ${TE}`; ctx.fillStyle='#D6DEEA'; const rg1='Fastest AI News in Telugu'; ctx.fillText(rg1,x,yy+110);
-  const x2=x+ctx.measureText(rg1).width; ctx.font=`600 26px ${TE}`; ctx.fillStyle='#AFC0D6'; const rg2=' · తెలుగులో వేగంగా వార్తలు';
-  if(x2+ctx.measureText(rg2).width < W-P) ctx.fillText(rg2,x2,yy+110);
+  ctx.font=`800 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText(s.kind==='job'?'జాబ్స్ – ఉద్యోగ సమాచారం':'వార్తలు క్షణాల్లో!',x,yy+62);
+  ctx.font=`800 30px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.fillText('Fastest AI News in Telugu',x,yy+112);
+  ctx.font=`700 29px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?'తెలుగులో వేగంగా ఉద్యోగ ప్రకటనలు':'తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు',x,yy+158);
   // text
   yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
   yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
