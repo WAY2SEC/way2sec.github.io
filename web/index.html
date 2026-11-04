@@ -178,6 +178,14 @@ nav.secs a[aria-current="true"]{color:#fff;border-bottom-color:var(--gold);backg
 
 /* search results / section pages */
 .results{margin-top:28px}
+.dbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:0 0 18px}
+.dpick{display:inline-flex;align-items:center;gap:10px;font-weight:800;font-size:14px;background:var(--card,#fff);border:1px solid var(--line);border-radius:14px;padding:8px 12px}
+.dpick input{font:inherit;border:0;background:transparent;color:inherit;font-weight:700}
+.dchips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;max-width:100%}
+.dchips a{flex:none;display:flex;flex-direction:column;align-items:center;min-width:64px;padding:8px 10px;border-radius:12px;border:1px solid var(--line);font-weight:800;font-size:13px}
+.dchips a small{font-weight:700;color:var(--muted);font-size:11px}
+.dchips a[aria-current="true"]{background:var(--brand);border-color:var(--brand);color:#fff}.dchips a[aria-current="true"] small{color:#fff}
+.dcount{margin:0 0 12px;color:var(--muted);font-weight:700}
 .empty{padding:40px;text-align:center;color:var(--muted)}
 
 /* app promo + footer */
@@ -383,9 +391,11 @@ function card(s){
     <div class="bd"><h3>${esc(s.h)}</h3><div class="m">${esc(s.src||'')} · ${esc(s.d||'')}${s.t?' · '+esc(s.t):''}</div></div></a>`;
 }
 function renderNav(){
-  $('secs').innerHTML=SECS.map(([k,n])=>`<a href="?sec=${k}" data-k="${k}" aria-current="${k===section}">${n}</a>`).join('')+`<a href="/?jobs=1">💼 జాబ్స్</a>`;
+  const P=new URLSearchParams(location.search), onDates=P.has('d')||P.has('dates');
+  $('secs').innerHTML=SECS.map(([k,n],i)=>`<a href="?sec=${k}" data-k="${k}" aria-current="${k===section&&!onDates}">${n}</a>`+(i===0?`<a href="/?dates=1" data-dates="1" aria-current="${onDates}">📅 పాత వార్తలు</a>`:'')).join('')+`<a href="/?jobs=1">💼 జాబ్స్</a>`;
 }
-$('secs').addEventListener('click',e=>{const a=e.target.closest('a[data-k]');if(!a)return;e.preventDefault();section=a.dataset.k;history.pushState(null,'',section==='all'?location.pathname:'?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
+$('secs').addEventListener('click',e=>{ if(e.target.closest('a[data-dates]')){ e.preventDefault(); section='all'; $('q').value=''; history.pushState(null,'','?dates=1'); route(); scrollTo({top:0,behavior:'smooth'}); return; }
+  const a=e.target.closest('a[data-k]');if(!a)return;e.preventDefault();section=a.dataset.k;history.pushState(null,'',section==='all'?location.pathname:'?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
 addEventListener('popstate',()=>{section=new URLSearchParams(location.search).get('sec')||'all';route();});
 
 function bySec(k){ if(k==='ap') return ALL.filter(isAP); return ALL.filter(s=>secsOf(s).includes(k)); }
@@ -445,8 +455,31 @@ function route(){
   if(q){ const words=q.toLowerCase().split(/\s+/).filter(Boolean);
     const hits=ALL.filter(s=>{const t=((s.h||'')+' '+(s.p||'')+' '+(s.cat||'')+' '+(s.src||'')+' '+(PLACES[s.place]||'')).toLowerCase();return words.every(w=>t.includes(w))});
     renderList(`🔎 "${q}" – ${hits.length} వార్తలు`,hits.slice(0,60)); return; }
+  { const P=new URLSearchParams(location.search); if(P.get('d')||P.has('dates')){ showDay(P.get('d')); return; } }
   if(section!=='all'){ const n=(SECS.find(x=>x[0]===section)||[,section])[1]; renderList(n,bySec(section).slice(0,60)); return; }
   $('results').hidden=true; $('home').hidden=false;
+}
+/* ---- news by date (archive/YYYY-MM-DD.json) ---- */
+let IDX=null;
+const TW=['ఆదివారం','సోమవారం','మంగళవారం','బుధవారం','గురువారం','శుక్రవారం','శనివారం'],TM=['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
+const dayTe=iso=>{const [y,m,d]=iso.split('-').map(Number);return `${d} ${TM[m-1]} ${y}, ${TW[new Date(Date.UTC(y,m-1,d)).getUTCDay()]}`;};
+const dayShort=iso=>{const [y,m,d]=iso.split('-').map(Number);return `${d} ${TM[m-1].slice(0,3)}`;};
+async function showDay(iso){
+  const r=$('results'); r.hidden=false; $('home').hidden=true;
+  if(!IDX) IDX=await getJSON('/archive/index.json'); const dates=((IDX&&IDX.dates)||[]).slice().sort((a,b)=>b.iso<a.iso?-1:1);
+  if(!iso||!/^\d{4}-\d\d-\d\d$/.test(iso)) iso=dates[0]?dates[0].iso:'';
+  const has=new Set(dates.map(d=>d.iso));
+  const bar=`<div class="dbar"><label class="dpick">📅 తేదీ ఎంచుకోండి <input type="date" id="dPick" value="${iso}" min="${dates.length?dates[dates.length-1].iso:''}" max="${dates.length?dates[0].iso:''}"></label>
+    <div class="dchips">${dates.slice(0,14).map(d=>`<a href="?d=${d.iso}" data-d="${d.iso}" aria-current="${d.iso===iso}">${dayShort(d.iso)}<small>${d.count||''}</small></a>`).join('')}</div></div>`;
+  r.innerHTML=`<div class="sh"><h2>📅 ${iso?esc(dayTe(iso)):'పాత వార్తలు'}</h2><a href="/" id="backHome">← హోమ్</a></div>${bar}<div id="dayList"><div class="empty">వార్తలు లోడ్ అవుతున్నాయి…</div></div>`;
+  $('backHome').onclick=e=>{e.preventDefault();section='all';history.pushState(null,'',location.pathname);route();};
+  const pickTo=v=>{ if(!v) return; history.pushState(null,'','?d='+v); route(); scrollTo({top:0,behavior:'smooth'}); };
+  $('dPick').onchange=e=>pickTo(e.target.value);
+  r.querySelector('.dchips').onclick=e=>{const a=e.target.closest('a[data-d]'); if(!a) return; e.preventDefault(); pickTo(a.dataset.d);};
+  if(!iso){ $('dayList').innerHTML='<div class="empty">ఇంకా పాత వార్తలు లేవు.</div>'; return; }
+  if(!has.has(iso)){ $('dayList').innerHTML='<div class="empty">ఈ తేదీకి వార్తలు లేవు. పైన మరో తేదీ ఎంచుకోండి.</div>'; return; }
+  const d=await getJSON(`/archive/${iso}.json`); const list=((d&&d.stories)||[]).map(s=>w2sTr(Object.assign({d:d.date},s),sid));
+  $('dayList').innerHTML=list.length?`<p class="dcount">${list.length} వార్తలు</p><div class="grid">${list.map(card).join('')}</div>`:'<div class="empty">ఈ తేదీకి వార్తలు లేవు.</div>';
 }
 let qt; $('q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(route,180)});
 addEventListener('keydown',e=>{ if(e.key==='/' && document.activeElement!==$('q')){e.preventDefault();$('q').focus();} if(e.key==='Escape'){$('q').value='';route();} });

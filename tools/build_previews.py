@@ -78,7 +78,7 @@ def shell():
     SHELL["css"] = t[t.index("<style>") + 7:t.index("</style>")]
     hd = t[t.index('<header class="top">'):t.index('<aside class="rail l"')]
     nav = "".join(f'<a href="/?sec={k}">{n}</a>' for k, n in SITE_SECS) + '<a href="/?jobs=1">💼 జాబ్స్</a>'
-    hd = hd.replace('<nav class="secs" id="secs" aria-label="విభాగాలు"></nav>', f'<nav class="secs" aria-label="విభాగాలు"><a href="/">హోమ్</a>{nav}</nav>')
+    hd = hd.replace('<nav class="secs" id="secs" aria-label="విభాగాలు"></nav>', f'<nav class="secs" aria-label="విభాగాలు"><a href="/">హోమ్</a><a href="/?dates=1">📅 పాత వార్తలు</a>{nav}</nav>')
     hd = hd.replace('<label class="search">', '<form class="search" action="/" method="get" role="search"><label style="display:contents">').replace('<kbd>/</kbd></label>', '<kbd>↵</kbd></label></form>')
     hd = hd.replace('<input id="q" type="search"', '<input id="q" name="q" type="search"')
     SHELL["header"] = hd

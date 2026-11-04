@@ -1160,6 +1160,7 @@ async function load(){
   else if(qs && !load.done){ load.done=1; JUMP=qs; renderFeed();
     // opened from Chrome on iPhone to send the picture: Safari can share pictures, so show the one-tap share screen
     if(q.has('sharecard') && LIST[cur]){ const b=await timeout(prepCard(),8000); if(b) showCardImage(b, shareText(LIST[cur]), ''); } }
+  else if(q.has('dates') && !load.done){ load.done=1; openDates(); }
   else if(firstRun) openSheet();
 }
 load();

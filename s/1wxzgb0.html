@@ -170,6 +170,14 @@ nav.secs a[aria-current="true"]{color:#fff;border-bottom-color:var(--gold);backg
 
 /* search results / section pages */
 .results{margin-top:28px}
+.dbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:0 0 18px}
+.dpick{display:inline-flex;align-items:center;gap:10px;font-weight:800;font-size:14px;background:var(--card,#fff);border:1px solid var(--line);border-radius:14px;padding:8px 12px}
+.dpick input{font:inherit;border:0;background:transparent;color:inherit;font-weight:700}
+.dchips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;max-width:100%}
+.dchips a{flex:none;display:flex;flex-direction:column;align-items:center;min-width:64px;padding:8px 10px;border-radius:12px;border:1px solid var(--line);font-weight:800;font-size:13px}
+.dchips a small{font-weight:700;color:var(--muted);font-size:11px}
+.dchips a[aria-current="true"]{background:var(--brand);border-color:var(--brand);color:#fff}.dchips a[aria-current="true"] small{color:#fff}
+.dcount{margin:0 0 12px;color:var(--muted);font-weight:700}
 .empty{padding:40px;text-align:center;color:var(--muted)}
 
 /* app promo + footer */
@@ -278,7 +286,7 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
     </div>
   </div>
 </header>
-<div class="navbar"><div class="wrap"><nav class="secs" aria-label="విభాగాలు"><a href="/">హోమ్</a><a href="/?sec=telangana">తెలంగాణ</a><a href="/?sec=ap">ఆంధ్రప్రదేశ్</a><a href="/?sec=india">దేశం</a><a href="/?sec=world">ప్రపంచం</a><a href="/?sec=ai">AI & టెక్</a><a href="/?sec=jobs">ఉద్యోగ వార్తలు</a><a href="/?sec=business">బిజినెస్</a><a href="/?sec=education">విద్య</a><a href="/?sec=agri">వ్యవసాయం</a><a href="/?sec=weather">వాతావరణం</a><a href="/?sec=sports">క్రీడలు</a><a href="/?jobs=1">💼 జాబ్స్</a></nav></div></div>
+<div class="navbar"><div class="wrap"><nav class="secs" aria-label="విభాగాలు"><a href="/">హోమ్</a><a href="/?dates=1">📅 పాత వార్తలు</a><a href="/?sec=telangana">తెలంగాణ</a><a href="/?sec=ap">ఆంధ్రప్రదేశ్</a><a href="/?sec=india">దేశం</a><a href="/?sec=world">ప్రపంచం</a><a href="/?sec=ai">AI & టెక్</a><a href="/?sec=jobs">ఉద్యోగ వార్తలు</a><a href="/?sec=business">బిజినెస్</a><a href="/?sec=education">విద్య</a><a href="/?sec=agri">వ్యవసాయం</a><a href="/?sec=weather">వాతావరణం</a><a href="/?sec=sports">క్రీడలు</a><a href="/?jobs=1">💼 జాబ్స్</a></nav></div></div>
 <div class="tick" aria-label="తాజా వార్తలు"><div class="wrap"><span class="live"><i></i>LIVE</span><div class="tk"><div class="row" id="tick"></div></div></div></div>
 
 
