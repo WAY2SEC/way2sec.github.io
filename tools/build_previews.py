@@ -14,7 +14,7 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://way2sec.news"
-# pictures are served from GitHub directly: always-valid HTTPS and live the moment they are pushed
+# link-preview pictures: first from our own site (WhatsApp shows these reliably), then the same file on GitHub as a backup
 IMG = "https://raw.githubusercontent.com/WAY2SEC/way2sec.github.io/main"
 KEEP_DAYS = 21
 
@@ -136,7 +136,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{SITE}/s/{sid}">
-<meta property="og:image" content="{e(img)}"><meta property="og:image:secure_url" content="{e(img)}"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image" content="{e(img.replace(IMG, SITE))}"><meta property="og:image:secure_url" content="{e(img.replace(IMG, SITE))}"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image" content="{e(img)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{e(img)}">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png"><link rel="manifest" href="/manifest.webmanifest">
 <meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>

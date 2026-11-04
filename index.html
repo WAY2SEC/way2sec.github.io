@@ -783,7 +783,7 @@ async function cardImage(s){
   return blob;
 }
 window.cardImage=cardImage;
-function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s)+(s._lang?'?l='+s._lang:''); } // preview page: shows this story's own card in WhatsApp, then opens it
+function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s)+'?p=2'+(s._lang?'&l='+s._lang:''); } // p=2: new address, so WhatsApp fetches the preview picture fresh // preview page: shows this story's own card in WhatsApp, then opens it
 function shareText(s){
   // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
   if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 ${J('posts')}: ${s.stat}${s.qual?`\n${J('elig')}: ${s.qual}`:''}${s.last?`\n${J('last')}: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n${J('warn1')}\n\n👉 ${J('ch')}: ${CONFIG.CHANNEL}`;
