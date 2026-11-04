@@ -1,8 +1,59 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 46,
+ "count": 47,
  "stories": [
+  {
+   "cat": "ఏపీ · ఏపీపీఎస్సీ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "₹1.14 కోట్లు",
+   "statl": "ప్రైవేటు సంస్థకు చెల్లించినట్లు ఆరోపణ",
+   "h": "ఏపీపీఎస్సీ గ్రూప్-1 మూల్యాంకనంలో అక్రమాలు: 7 చోట్ల ఈడీ సోదాలు",
+   "p": "ఏపీపీఎస్సీ గ్రూప్-1 మెయిన్స్ జవాబు పత్రాల మాన్యువల్ మూల్యాంకనంలో జరిగిన అక్రమాలపై ఈడీ హైదరాబాద్ జోనల్ కార్యాలయం బుధవారం ఉదయం నుంచి మనీలాండరింగ్ నిరోధక చట్టం (పీఎంఎల్ఏ) కింద సోదాలు చేపట్టింది. హైదరాబాద్, సికింద్రాబాద్‌తో పాటు గుంటూరు జిల్లాలోని మొత్తం ఏడు ప్రాంగణాల్లో తనిఖీలు జరిగాయి. ఈ వ్యవహారంలో ఒక ప్రైవేటు సంస్థకు ₹1,14,32,312 చెల్లించినట్లు ఆరోపణలు ఉన్నాయని అధికారులు తెలిపారు.",
+   "src": "ANI",
+   "url": "https://newsable.asianetnews.com/india/ed-conducts-searches-across-andhra-pradesh-over-appsc-exam-irregularities-articleshow-tbgf514",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "చినకాకాని",
+   "pts": [
+    "ఏపీపీఎస్సీ మాజీ కార్యదర్శి (రిటైర్డ్ ఐపీఎస్) ప్రాంగణాల్లో తనిఖీలు",
+    "మూల్యాంకనం జరిగిన చినకాకాని రిసార్ట్‌లోనూ సోదాలు",
+    "మూల్యాంకనం చేసిన రెండు ప్రైవేటు సంస్థలపైనా దృష్టి"
+   ],
+   "why": "గ్రూప్-1 పరీక్ష రాసిన అభ్యర్థులకు, నియామక ప్రక్రియ పారదర్శకతకు ఈ దర్యాప్తు కీలకం.",
+   "en": {
+    "h": "APPSC Group-I evaluation irregularities: ED searches 7 premises",
+    "p": "The Enforcement Directorate's Hyderabad zonal office began searches on Wednesday morning under the Prevention of Money Laundering Act (PMLA) over irregularities in the manual evaluation of APPSC Group-I Mains answer scripts. Seven premises in Hyderabad, Secunderabad and Guntur district were searched. Officials said ₹1,14,32,312 was allegedly paid to a private party in the matter.",
+    "pts": [
+     "Premises of a former APPSC Secretary (retired IPS) searched",
+     "Resort at Chinakakani where evaluation was done also searched",
+     "Two private firms that did the evaluation also in focus"
+    ],
+    "why": "The probe matters to Group-I candidates and to the transparency of the recruitment process.",
+    "cat": "AP · APPSC",
+    "statl": "Allegedly paid to a private party"
+   },
+   "hi": {
+    "h": "एपीपीएससी ग्रुप-1 मूल्यांकन में गड़बड़ी: 7 जगहों पर ईडी की छापेमारी",
+    "p": "एपीपीएससी ग्रुप-1 मेन्स उत्तर पुस्तिकाओं के मैनुअल मूल्यांकन में गड़बड़ियों को लेकर ईडी के हैदराबाद जोनल कार्यालय ने बुधवार सुबह से धन शोधन निवारण अधिनियम (पीएमएलए) के तहत छापेमारी शुरू की। हैदराबाद, सिकंदराबाद और गुंटूर जिले के कुल सात परिसरों में तलाशी ली गई। अधिकारियों के अनुसार इस मामले में एक निजी संस्था को ₹1,14,32,312 का भुगतान किए जाने का आरोप है।",
+    "pts": [
+     "एपीपीएससी के पूर्व सचिव (सेवानिवृत्त आईपीएस) के परिसरों की तलाशी",
+     "चिनकाकानी के रिसॉर्ट में भी छापा, जहां मूल्यांकन हुआ था",
+     "मूल्यांकन करने वाली दो निजी कंपनियां भी जांच के घेरे में"
+    ],
+    "why": "यह जांच ग्रुप-1 अभ्यर्थियों और भर्ती प्रक्रिया की पारदर्शिता के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · एपीपीएससी",
+    "statl": "निजी संस्था को कथित भुगतान"
+   },
+   "d": "04.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "తెలంగాణ · పౌరసరఫరాలు",
    "col": "--c-gov",
