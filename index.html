@@ -770,7 +770,8 @@ let cardCache={k:null,blob:null,p:null};
 function prepCard(){ const s=LIST[cur]; if(!s) return Promise.resolve(null); const k=keyOf(s);
   if(cardCache.k===k && (cardCache.blob||cardCache.p)) return cardCache.blob?Promise.resolve(cardCache.blob):cardCache.p;
   const c={k,blob:null,p:null}; cardCache=c;
-  c.p=cardImage(s).then(b=>{ c.blob=b; return b; }).catch(()=>null); return c.p; }
+  const failed=()=>{ setTimeout(()=>{ if(cardCache===c && !c.blob) cardCache={k:null,blob:null,p:null}; },3000); return null; }; // try again a little later
+  c.p=cardImage(s).then(b=>{ if(!b) return failed(); c.blob=b; return b; }).catch(failed); return c.p; }
 setInterval(()=>{ const s=LIST[cur]; if(s && cardCache.k!==keyOf(s)) prepCard(); },400);
 const cardFile=b=>new File([b],'way2sec-news-'+Date.now()+'.jpg',{type:'image/jpeg'});
 function saveBlob(b){ const u=URL.createObjectURL(b), a=document.createElement('a');
@@ -887,6 +888,10 @@ async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
   if(IOS){
     // iPhone: the share menu must open straight after the tap, with nothing else first,
     // and WhatsApp on iPhone keeps only the text if it gets picture + text. So: picture alone.
+    if(!b && !navigator.share){ // no share menu on this phone (e.g. Lockdown Mode): just wait for the picture and show it
+      toast('చిత్రం తయారవుతోంది…'); b=await timeout(prepCard(),8000);
+      if(!b){ toast('చిత్రం తయారు కాలేదు, మళ్లీ నొక్కండి'); return; }
+      showCardImage(b, text, ''); return; }
     if(!b){ prepCard(); toast('చిత్రం సిద్ధమవుతోంది… ఒక్క క్షణం తర్వాత మళ్లీ నొక్కండి'); return; }
     let why='';
     if(navigator.share && navigator.canShare && navigator.canShare({files:[cardFile(b)]})){
