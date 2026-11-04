@@ -1,8 +1,105 @@
 {
  "date": "04.11.2026",
- "updated": "2026-11-04T14:55:00+05:30",
+ "updated": "2026-11-04T15:13:18+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "సెనేట్",
+   "statl": "డెమొక్రాట్ల చేతికి తిరిగి నియంత్రణ",
+   "h": "అమెరికా మధ్యంతరం: సెనేట్‌ను తిరిగి దక్కించుకున్న డెమొక్రాట్లు",
+   "p": "మంగళవారం ముగిసిన అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాటిక్ పార్టీ సెనేట్ నియంత్రణను మళ్లీ సాధించింది. ప్రతినిధుల సభ (హౌస్) ఫలితం ఇంకా తేలలేదు, కానీ డెమొక్రాట్లు ఇప్పటికే ఏడు సీట్లను రిపబ్లికన్ల నుంచి లాక్కున్నారు. అధిక ధరలు, ఇరాన్ యుద్ధం, అవినీతి ఆందోళనలపై ఓటర్ల అసంతృప్తి ఫలితాల్లో కనిపించిందని పీటీఐ కథనం పేర్కొంది. డెమొక్రాట్ల ఎజెండాను వీటోతో అడ్డుకుంటానని ట్రంప్ ప్రకటించారు.",
+   "src": "PTI",
+   "url": "https://www.siasat.com/democrats-win-senate-edge-closer-to-house-control-3569458/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "టెక్సాస్‌లో కెన్ పాక్స్‌టన్‌పై జేమ్స్ టాలరికో గెలుపు",
+    "జార్జియాలో జాన్ ఆసాఫ్ మళ్లీ ఎన్నిక",
+    "హౌస్ మెజారిటీకి డెమొక్రాట్లకు నికరంగా 3 సీట్లు కావాలి"
+   ],
+   "why": "అమెరికా చట్టాలు, వీసా, వాణిజ్య విధానాలపై కాంగ్రెస్ నియంత్రణ ప్రభావం చూపుతుంది; అక్కడి తెలుగువారికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "US midterms: Democrats retake control of the Senate",
+    "p": "In the US midterm elections that closed on Tuesday, the Democratic Party regained control of the Senate. The House of Representatives result is not yet decided, but Democrats have already flipped seven seats from Republicans. A PTI report said the results reflected voter frustration over high prices, the war in Iran and corruption concerns. Trump has said he will use his veto to block the Democrats' agenda.",
+    "pts": [
+     "James Talarico defeats Ken Paxton in Texas",
+     "Jon Ossoff re-elected in Georgia",
+     "Democrats need a net gain of 3 seats for a House majority"
+    ],
+    "why": "Control of Congress shapes US laws, visa and trade policies; it matters to Telugu people living there.",
+    "cat": "World · USA",
+    "statl": "Back in Democrats' control"
+   },
+   "hi": {
+    "h": "अमेरिकी मध्यावधि चुनाव: डेमोक्रेट्स ने सीनेट पर फिर कब्जा किया",
+    "p": "मंगलवार को संपन्न अमेरिकी मध्यावधि चुनावों में डेमोक्रेटिक पार्टी ने सीनेट का नियंत्रण फिर हासिल कर लिया। प्रतिनिधि सभा (हाउस) का नतीजा अभी तय नहीं हुआ है, लेकिन डेमोक्रेट्स अब तक रिपब्लिकन से सात सीटें छीन चुके हैं। पीटीआई की रिपोर्ट के अनुसार नतीजों में ऊंची कीमतों, ईरान युद्ध और भ्रष्टाचार की चिंताओं पर मतदाताओं की नाराजगी दिखी। ट्रंप ने कहा है कि वे वीटो से डेमोक्रेट्स के एजेंडे को रोकेंगे।",
+    "pts": [
+     "टेक्सास में जेम्स टालारिको ने केन पैक्सटन को हराया",
+     "जॉर्जिया में जॉन ऑसॉफ दोबारा चुने गए",
+     "हाउस बहुमत के लिए डेमोक्रेट्स को 3 सीटों का शुद्ध लाभ चाहिए"
+    ],
+    "why": "कांग्रेस का नियंत्रण अमेरिकी कानूनों, वीजा और व्यापार नीतियों को प्रभावित करता है; वहां रहने वाले तेलुगु लोगों के लिए यह अहम है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "फिर डेमोक्रेट्स के नियंत्रण में"
+   },
+   "d": "04.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఖగోళం",
+   "col": "--c-money",
+   "art": "unity",
+   "stat": "150",
+   "statl": "గంటకు జెమినిడ్స్ ఉల్కలు (గరిష్ఠంగా)",
+   "h": "హైదరాబాద్ ఆకాశంలో శీతాకాల విందు: గ్రహాల కవాతు, ఉల్కాపాతాలు",
+   "p": "నవంబర్, డిసెంబర్ నెలల్లో హైదరాబాద్ నుంచి అరుదైన ఖగోళ దృశ్యాలు కనిపించనున్నాయి. నవంబర్ అంతా సాయంత్రం ఆకాశంలో వలయాలతో శని గ్రహం ప్రకాశిస్తుంది, చిన్న టెలిస్కోప్‌తో చూడొచ్చు. తెల్లవారుజామున బుధుడు, శుక్రుడు, అంగారకుడు, గురుడు కలిసి కనువిందు చేస్తాయి. నవంబర్ మధ్యలో లియోనిడ్స్, డిసెంబర్ 13–14 రాత్రి జెమినిడ్స్ ఉల్కాపాతం గరిష్ఠ స్థాయిలో ఉంటాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-to-witness-rare-planets-meteor-showers-this-winter-3569478/",
+   "sec": [
+    "telangana",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నాలుగు గ్రహాలు తెల్లవారుజామున కంటికే కనిపిస్తాయి",
+    "అనంతగిరి కొండలు, పోచారం సరస్సు చూడటానికి అనువైన ప్రదేశాలు",
+    "దగ్గరలో ఉస్మాన్‌సాగర్, గండిపేట పరిసరాలు"
+   ],
+   "why": "నగర వెలుతురుకు దూరంగా వెళ్లే విద్యార్థులు, ఖగోళ ప్రియులు ఈ అరుదైన దృశ్యాలను ఉచితంగా చూడొచ్చు.",
+   "en": {
+    "h": "Winter treat in Hyderabad's sky: planet parade and meteor showers",
+    "p": "Rare sky events will be visible from Hyderabad in November and December. Saturn with its rings will shine in the evening sky throughout November and can be seen with a small telescope. Before sunrise, Mercury, Venus, Mars and Jupiter will line up together. The Leonids peak in mid-November and the Geminids meteor shower peaks on the night of December 13–14.",
+    "pts": [
+     "Four planets visible to the naked eye before sunrise",
+     "Ananthagiri Hills and Pocharam Lake are good viewing spots",
+     "Osman Sagar and Gandipet outskirts are the closest option"
+    ],
+    "why": "Students and sky watchers who move away from city lights can see these rare sights for free.",
+    "cat": "Hyderabad · Astronomy",
+    "statl": "Geminid meteors per hour (peak)"
+   },
+   "hi": {
+    "h": "हैदराबाद के आसमान में सर्दियों की सौगात: ग्रहों की परेड और उल्कापात",
+    "p": "नवंबर और दिसंबर में हैदराबाद से दुर्लभ खगोलीय नज़ारे दिखेंगे। पूरे नवंबर शाम के आसमान में छल्लों वाला शनि ग्रह चमकेगा, जिसे छोटी दूरबीन से देखा जा सकता है। सूर्योदय से पहले बुध, शुक्र, मंगल और बृहस्पति एक साथ दिखेंगे। नवंबर के मध्य में लियोनिड्स और 13–14 दिसंबर की रात जेमिनिड्स उल्कापात चरम पर होगा।",
+    "pts": [
+     "सूर्योदय से पहले चार ग्रह नंगी आंखों से दिखेंगे",
+     "अनंतगिरि हिल्स और पोचारम झील देखने के लिए अच्छी जगहें",
+     "सबसे नज़दीकी विकल्प उस्मान सागर और गंडीपेट के आसपास"
+    ],
+    "why": "शहर की रोशनी से दूर जाने वाले छात्र और खगोल प्रेमी ये दुर्लभ नज़ारे मुफ्त में देख सकते हैं।",
+    "cat": "हैदराबाद · खगोल",
+    "statl": "प्रति घंटे जेमिनिड उल्काएं (अधिकतम)"
+   },
+   "d": "04.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "ఏపీ · ఏపీపీఎస్సీ",
    "col": "--c-money",
@@ -1633,54 +1730,6 @@
    "why": "పంట నష్టపోయిన రైతులు, కరెంట్ లేని గ్రామాలకు అందే సహాయానికి ఈ నష్ట అంచనా ఆధారం.",
    "d": "04.11.2026",
    "t": "08:35"
-  },
-  {
-   "cat": "ఏపీ · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "2,721",
-   "statl": "ఉపాధ్యాయ పోస్టులు",
-   "h": "ఏపీ డీఎస్సీ నోటిఫికేషన్ నేటికి వాయిదా; 2,721 టీచర్ పోస్టులు",
-   "p": "ఆంధ్రప్రదేశ్‌లో ఉపాధ్యాయ నియామకాల కోసం మంగళవారం విడుదల కావాల్సిన డీఎస్సీ నోటిఫికేషన్ బుధవారానికి వాయిదా పడింది. ఈ నోటిఫికేషన్ ద్వారా రాష్ట్రంలో మొత్తం 2,721 టీచర్ పోస్టులను భర్తీ చేయనున్నారు. నోటిఫికేషన్ నేడు విడుదల కానుందని ఆంధ్రజ్యోతి తెలిపింది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html#dsc",
-   "sec": [
-    "india",
-    "jobs",
-    "education"
-   ],
-   "place": "TS",
-   "pts": [
-    "మంగళవారం రావాల్సిన నోటిఫికేషన్ బుధవారానికి",
-    "మొత్తం 2,721 ఉపాధ్యాయ పోస్టుల భర్తీ"
-   ],
-   "why": "టీచర్ ఉద్యోగాల కోసం సిద్ధమవుతున్న ఏపీ అభ్యర్థులకు ఇది నేరుగా సంబంధించిన వార్త.",
-   "d": "04.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "భారత్ · క్రికెట్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "5",
-   "statl": "మ్యాచ్‌ల వన్డే సిరీస్ ప్రారంభం",
-   "h": "న్యూజిలాండ్‌తో తొలి వన్డే: టాస్ గెలిచి బౌలింగ్ ఎంచుకున్న భారత్",
-   "p": "ఆక్లాండ్‌లోని ఈడెన్ పార్క్‌లో న్యూజిలాండ్‌తో ఐదు మ్యాచ్‌ల వన్డే సిరీస్‌లో తొలి పోరు బుధవారం మొదలైంది. వర్షం కారణంగా టాస్ ఆలస్యమైంది. టాస్ గెలిచిన భారత కెప్టెన్ శుభ్‌మన్ గిల్ ముందుగా బౌలింగ్ ఎంచుకున్నాడు. రోహిత్ శర్మ, విరాట్ కోహ్లీ మళ్లీ వన్డే జట్టులో ఆడుతున్నారు. ఆరంభంలోనే అర్ష్‌దీప్ సింగ్ బౌలింగ్‌లో కివీస్ ఓపెనర్ విల్ యంగ్ ఔటయ్యాడు.",
-   "src": "Outlook India, ANI",
-   "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-odi-live-score-2026-nz-vs-india-scorecard-commentary-latest-update-highlights",
-   "sec": [
-    "india",
-    "sports"
-   ],
-   "place": "TS",
-   "pts": [
-    "ఈడెన్ పార్క్‌లో ఐదు వన్డేల సిరీస్ మొదలు",
-    "వర్షంతో ఆలస్యమైన టాస్; భారత్ బౌలింగ్",
-    "రోహిత్, కోహ్లీ వన్డేల్లో పునరాగమనం"
-   ],
-   "why": "రోహిత్, కోహ్లీ తిరిగి ఆడుతున్న ఈ సిరీస్ క్రికెట్ అభిమానులకు ఆసక్తికరం.",
-   "d": "04.11.2026",
-   "t": "08:05"
   }
  ]
 }
