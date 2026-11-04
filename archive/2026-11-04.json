@@ -1,8 +1,204 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 42,
+ "count": 46,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పౌరసరఫరాలు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹6,000 కోట్లు",
+   "statl": "రాష్ట్రంలో పెండింగ్‌లో ఉన్న సీఎంఆర్ బకాయిలు",
+   "h": "సీఎంఆర్ బియ్యం కుంభకోణం: ఈటీఎఫ్ అధికారులు–మిల్లర్ల కుమ్మక్కుపై దర్యాప్తు",
+   "p": "రాష్ట్రంలో ₹6,000 కోట్ల కస్టమ్ మిల్లింగ్ రైస్ (సీఎంఆర్) బకాయిల వ్యవహారంలో కొందరు ఎన్‌ఫోర్స్‌మెంట్ టాస్క్ ఫోర్స్ అధికారులు, రైస్ మిల్లర్లు కుమ్మక్కయ్యారన్న ఆరోపణలపై విజిలెన్స్, సీఐడీ దర్యాప్తు చేస్తున్నాయి. 300 మందికి పైగా మిల్లర్లు దాదాపు ₹4,000 కోట్లు ఎగవేశారని అంచనా. ఒక ఈటీఎఫ్ ఓఎస్డీని తొలగించగా, సీఐడీ మరో అధికారిని అరెస్ట్ చేసింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-rice-scam-etf-officials-millers-suspected-of-nexus-3569498/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "300కు పైగా మిల్లర్లపై సుమారు ₹4,000 కోట్ల బకాయిలు",
+    "మూడు జిల్లాల్లోనే దాదాపు 25% బకాయిలు",
+    "నిర్మల్‌లో నాలుగేళ్లలో 24 కొత్త మిల్లులకు అనుమతులపై పరిశీలన"
+   ],
+   "why": "ప్రభుత్వ ధాన్యం సేకరణ, రేషన్ బియ్యం సరఫరాకు సంబంధించిన ప్రజాధనం ఈ దర్యాప్తుతో ముడిపడి ఉంది.",
+   "en": {
+    "h": "CMR rice scam: probe into alleged ETF officials–millers nexus in Telangana",
+    "p": "The Vigilance and Enforcement Department and the CID are probing alleged collusion between some Enforcement Task Force officials and rice millers in Telangana's ₹6,000 crore Custom Milled Rice (CMR) dues issue. Over 300 millers are estimated to have defaulted on nearly ₹4,000 crore. One ETF OSD has been removed and the CID has arrested another official.",
+    "pts": [
+     "Over 300 millers owe about ₹4,000 crore",
+     "Three districts account for nearly 25% of dues",
+     "Permissions for 24 new mills in Nirmal over four years under scrutiny"
+    ],
+    "why": "The probe concerns public money linked to government paddy procurement and ration rice supply.",
+    "cat": "Telangana · Civil Supplies",
+    "statl": "CMR dues pending in the state"
+   },
+   "hi": {
+    "h": "सीएमआर चावल घोटाला: तेलंगाना में ईटीएफ अधिकारियों–मिलरों की साठगांठ की जांच",
+    "p": "तेलंगाना में ₹6,000 करोड़ के कस्टम मिल्ड राइस (सीएमआर) बकाया मामले में कुछ एनफोर्समेंट टास्क फोर्स अधिकारियों और राइस मिलरों की कथित मिलीभगत की जांच विजिलेंस और सीआईडी कर रही हैं। अनुमान है कि 300 से अधिक मिलरों ने करीब ₹4,000 करोड़ का भुगतान नहीं किया। एक ईटीएफ ओएसडी को हटाया गया और सीआईडी ने एक अन्य अधिकारी को गिरफ्तार किया।",
+    "pts": [
+     "300 से अधिक मिलरों पर करीब ₹4,000 करोड़ बकाया",
+     "तीन जिलों में ही लगभग 25% बकाया",
+     "निर्मल में चार साल में 24 नई मिलों की अनुमति की जांच"
+    ],
+    "why": "यह जांच सरकारी धान खरीद और राशन चावल आपूर्ति से जुड़े सार्वजनिक धन से संबंधित है।",
+    "cat": "तेलंगाना · नागरिक आपूर्ति",
+    "statl": "राज्य में लंबित सीएमआर बकाया"
+   },
+   "d": "04.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · పన్నులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "100+",
+   "statl": "జీఎస్టీ తనిఖీలో గుర్తించిన రెస్టారెంట్లు",
+   "h": "జీఎస్టీ తనిఖీ: హైదరాబాద్‌లో 80 రెస్టారెంట్లు సహా 100కు పైగా గుర్తింపు",
+   "p": "రిజిస్ట్రేషన్ రద్దయినా జీఎస్టీ వసూలు చేస్తున్న, అనుమతి లేని ఇన్‌పుట్ ట్యాక్స్ క్రెడిట్ తీసుకుంటున్న 100కు పైగా రెస్టారెంట్లను తెలంగాణ జీఎస్టీ విభాగం గుర్తించింది. వీటిలో ఎక్కువ హైదరాబాద్‌లోనే ఉన్నాయి. 5% రాయితీ రేటుపై ఉన్న సుమారు 80 రెస్టారెంట్లు క్రెడిట్ వాడుకున్నాయని తేలింది. ఏఐ ఆధారిత విశ్లేషణతో వీటిని గుర్తించారు. అంచనా తర్వాత బకాయిలు, జరిమానాలు వసూలు చేస్తారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/80-hyderabad-restaurants-among-100-flagged-in-gst-check-3569430/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "మాదాపూర్",
+   "pts": [
+    "రద్దయిన రిజిస్ట్రేషన్‌తో జీఎస్టీ వసూలు చేసినవి దాదాపు 10",
+    "5% రేటు రెస్టారెంట్లకు ఇన్‌పుట్ క్రెడిట్ వాడే అర్హత లేదు",
+    "ఏఐ విశ్లేషణతో రిటర్న్‌లు, చెల్లింపుల సరిపోలిక"
+   ],
+   "why": "హోటళ్లలో బిల్లుపై జీఎస్టీ కట్టే వినియోగదారుల డబ్బు ప్రభుత్వానికి చేరుతోందా అన్నది ఇది తేలుస్తుంది.",
+   "en": {
+    "h": "GST check: over 100 eateries flagged, including 80 in Hyderabad",
+    "p": "Telangana's GST department has flagged over 100 restaurants that kept collecting GST after their registration was cancelled or took input tax credit they are not allowed. Most are in Hyderabad. About 80 restaurants on the concessional 5% rate were found using credits. They were detected with AI-based analytics. Dues and penalties will be recovered after assessment.",
+    "pts": [
+     "Nearly 10 found collecting GST after cancellation",
+     "5% rate restaurants cannot claim input tax credit",
+     "AI analytics match returns with payments"
+    ],
+    "why": "It shows whether the GST diners pay on restaurant bills actually reaches the government.",
+    "cat": "Hyderabad · Taxes",
+    "statl": "Restaurants flagged in GST check"
+   },
+   "hi": {
+    "h": "जीएसटी जांच: हैदराबाद के 80 समेत 100 से ज्यादा रेस्टोरेंट चिह्नित",
+    "p": "तेलंगाना जीएसटी विभाग ने 100 से अधिक ऐसे रेस्टोरेंट चिह्नित किए हैं जो पंजीकरण रद्द होने के बाद भी जीएसटी वसूल रहे थे या बिना अनुमति इनपुट टैक्स क्रेडिट ले रहे थे। इनमें ज्यादातर हैदराबाद में हैं। 5% रियायती दर वाले करीब 80 रेस्टोरेंट क्रेडिट का इस्तेमाल करते पाए गए। इन्हें एआई आधारित विश्लेषण से पकड़ा गया। आकलन के बाद बकाया और जुर्माना वसूला जाएगा।",
+    "pts": [
+     "करीब 10 रद्द पंजीकरण के बाद जीएसटी वसूलते मिले",
+     "5% दर वाले रेस्टोरेंट इनपुट क्रेडिट नहीं ले सकते",
+     "एआई विश्लेषण से रिटर्न और भुगतान का मिलान"
+    ],
+    "why": "इससे पता चलेगा कि रेस्टोरेंट बिल पर ग्राहक जो जीएसटी देते हैं, वह सरकार तक पहुंच रहा है या नहीं।",
+    "cat": "हैदराबाद · कर",
+    "statl": "जीएसटी जांच में चिह्नित रेस्टोरेंट"
+   },
+   "d": "04.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "కర్ణాటక · రేషన్",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "18 లక్షల కిలోలు",
+   "statl": "రెండు నెలల్లో స్వాధీనం చేసుకున్న బియ్యం",
+   "h": "కర్ణాటకలో బియ్యం బ్లాక్ మార్కెట్‌పై కొరడా: 232 మందికి పైగా అరెస్ట్",
+   "p": "రేషన్ బియ్యం బహిరంగ మార్కెట్‌కు మళ్లకుండా కర్ణాటక ఆహార, పౌరసరఫరాల శాఖ గత రెండు నెలల్లో 18 లక్షల కిలోలకు పైగా బియ్యం, 250కి పైగా లారీలను స్వాధీనం చేసుకుంది. 232 మందికి పైగా అరెస్టయి జైలుకెళ్లారని మంత్రి రిజ్వాన్ అర్షద్ తెలిపారు. రాష్ట్రంలో సాధారణం కంటే సుమారు 40% తక్కువ వర్షం కురవడంతో ధరలపై ఆందోళన ఉందని, నిల్వలు దాచే వ్యాపారులపై చర్యలు తప్పవని హెచ్చరించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/karnataka-arrests-232-in-crackdown-on-rice-black-marketing-3569466/",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "250కి పైగా లారీలు స్వాధీనం",
+    "రేషన్‌తో పాటు సాధారణ బియ్యంపైనా నిఘా",
+    "గోదాముల గుర్తింపు, దాడులకు అధికారులకు ఆదేశం"
+   ],
+   "why": "కర్ణాటకలో నివసించే తెలుగువారితో సహా రేషన్, బహిరంగ మార్కెట్ బియ్యం కొనేవారి ధరలపై ఇది ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Karnataka cracks down on rice black marketing: over 232 arrested",
+    "p": "To stop ration rice reaching the open market, Karnataka's Food and Civil Supplies Department seized over 18 lakh kg of rice and more than 250 trucks in the past two months. Minister Rizwan Arshad said over 232 people were arrested and jailed. With about 40% less rainfall than normal, there are price concerns, and he warned traders who hoard stocks of action.",
+    "pts": [
+     "More than 250 trucks seized",
+     "Watch on both ration and regular rice",
+     "Officials told to identify godowns and conduct raids"
+    ],
+    "why": "It affects rice prices for ration and open-market buyers in Karnataka, including Telugu people living there.",
+    "cat": "Karnataka · Ration",
+    "statl": "Rice seized in two months"
+   },
+   "hi": {
+    "h": "कर्नाटक में चावल कालाबाजारी पर सख्ती: 232 से अधिक गिरफ्तार",
+    "p": "राशन चावल खुले बाजार में जाने से रोकने के लिए कर्नाटक के खाद्य और नागरिक आपूर्ति विभाग ने पिछले दो महीनों में 18 लाख किलो से अधिक चावल और 250 से ज्यादा ट्रक जब्त किए। मंत्री रिजवान अरशद ने बताया कि 232 से अधिक लोग गिरफ्तार कर जेल भेजे गए। सामान्य से करीब 40% कम बारिश के कारण कीमतों को लेकर चिंता है, और उन्होंने जमाखोरी करने वाले व्यापारियों को कार्रवाई की चेतावनी दी।",
+    "pts": [
+     "250 से अधिक ट्रक जब्त",
+     "राशन और सामान्य चावल दोनों पर निगरानी",
+     "गोदामों की पहचान और छापे के निर्देश"
+    ],
+    "why": "इसका असर कर्नाटक में राशन और खुले बाजार से चावल खरीदने वालों, वहां रहने वाले तेलुगु लोगों समेत, की कीमतों पर पड़ता है।",
+    "cat": "कर्नाटक · राशन",
+    "statl": "दो महीने में जब्त चावल"
+   },
+   "d": "04.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "50.88%",
+   "statl": "ఎల్-సయ్యద్‌కు వచ్చిన ఓట్ల శాతం (77% లెక్కింపు)",
+   "h": "అమెరికా సెనేట్‌కు తొలి ముస్లిం: మిషిగన్‌లో అబ్దుల్ ఎల్-సయ్యద్ గెలుపు",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో మిషిగన్ సెనేట్ స్థానాన్ని డెమొక్రాట్ అబ్దుల్ ఎల్-సయ్యద్ (42) గెలుచుకున్నారు. యూఎస్ సెనేట్‌కు ఎన్నికైన తొలి ముస్లిం ఆయనే. రిపబ్లికన్ మాజీ ప్రతినిధి మైక్ రోజర్స్‌ను ఓడించారు. 77% ఓట్ల లెక్కింపు నాటికి ఎల్-సయ్యద్‌కు 50.88%, రోజర్స్‌కు 47.14% ఓట్లు వచ్చాయని డెసిషన్ డెస్క్ హెచ్‌క్యూ తెలిపింది. ఈజిప్ట్ వలస తల్లిదండ్రుల కుమారుడైన ఆయన వైద్యుడు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/history-made-abdul-el-sayed-becomes-first-muslim-us-senator-3569477/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఎల్-సయ్యద్‌కు 18,97,833 ఓట్లు",
+    "గతంలో డెట్రాయిట్ ఆరోగ్య డైరెక్టర్‌గా పనిచేశారు",
+    "జనవరిలో సెనేటర్‌గా ప్రమాణం"
+   ],
+   "why": "అమెరికా రాజకీయాల్లో వలసదారుల కుటుంబాల ప్రాతినిధ్యం పెరుగుతుండటాన్ని అక్కడి భారతీయులు ఆసక్తిగా గమనిస్తున్నారు.",
+   "en": {
+    "h": "First Muslim in US Senate: Abdul El-Sayed wins in Michigan",
+    "p": "Democrat Abdul El-Sayed, 42, won the Michigan Senate seat in the US midterm elections, becoming the first Muslim elected to the US Senate. He defeated Republican former Representative Mike Rogers. With 77% of votes counted, El-Sayed had 50.88% and Rogers 47.14%, according to Decision Desk HQ. The son of Egyptian immigrant parents, he is a doctor.",
+    "pts": [
+     "El-Sayed received 1,897,833 votes",
+     "Earlier served as Detroit's health director",
+     "To be sworn in as senator in January"
+    ],
+    "why": "Indians in the US are closely watching the growing representation of immigrant families in American politics.",
+    "cat": "World · USA",
+    "statl": "El-Sayed's vote share (77% counted)"
+   },
+   "hi": {
+    "h": "अमेरिकी सीनेट में पहला मुस्लिम: मिशिगन में अब्दुल अल-सैयद जीते",
+    "p": "अमेरिकी मध्यावधि चुनाव में डेमोक्रेट अब्दुल अल-सैयद (42) ने मिशिगन सीनेट सीट जीत ली। वे अमेरिकी सीनेट में चुने गए पहले मुस्लिम हैं। उन्होंने रिपब्लिकन पूर्व प्रतिनिधि माइक रोजर्स को हराया। डिसीजन डेस्क एचक्यू के अनुसार 77% मतगणना तक अल-सैयद को 50.88% और रोजर्स को 47.14% वोट मिले। मिस्र से आए प्रवासी माता-पिता के बेटे अल-सैयद डॉक्टर हैं।",
+    "pts": [
+     "अल-सैयद को 18,97,833 वोट मिले",
+     "पहले डेट्रॉयट के स्वास्थ्य निदेशक रहे",
+     "जनवरी में सीनेटर पद की शपथ"
+    ],
+    "why": "अमेरिका में भारतीय वहां की राजनीति में प्रवासी परिवारों के बढ़ते प्रतिनिधित्व पर करीबी नजर रख रहे हैं।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "अल-सैयद का वोट प्रतिशत (77% गिनती)"
+   },
+   "d": "04.11.2026",
+   "t": "14:05"
+  },
   {
    "cat": "ఏపీ · పురపాలక ఫలితాలు",
    "col": "--c-election",
