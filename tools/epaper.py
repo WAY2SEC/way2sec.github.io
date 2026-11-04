@@ -6,7 +6,7 @@ output: epaper/YYYY-MM-DD.pdf  (+ epaper/index.json listing all issues)
 
 The PDF is locked against copying text and editing (it can be read and printed),
 and every page carries the Way2Sec name, date and a faint watermark."""
-import json, os, sys, html, datetime, secrets, threading, http.server, functools, socketserver
+import json, os, re, sys, html, datetime, secrets, threading, http.server, functools, socketserver
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
@@ -15,7 +15,17 @@ WEEK = ['సోమవారం', 'మంగళవారం', 'బుధవార
 MON = ['జనవరి', 'ఫిబ్రవరి', 'మార్చి', 'ఏప్రిల్', 'మే', 'జూన్', 'జులై', 'ఆగస్టు', 'సెప్టెంబర్', 'అక్టోబర్', 'నవంబర్', 'డిసెంబర్']
 COLS = {'--c-election': '#B3400F', '--c-gov': '#1F6B3A', '--c-money': '#16406E', '--c-water': '#0B5CAD',
         '--c-power': '#5B3A8C', '--c-city': '#7A4A12', '--c-job': '#0F6E5C'}
-e = lambda s: html.escape(str(s or ''))
+import re as _re
+def tidy(s):
+    """clean Telugu text: single spaces, no space before punctuation, curly quotes"""
+    s = str(s or '').replace('\u00a0', ' ')
+    s = _re.sub(r'\s+', ' ', s).strip()
+    s = _re.sub(r'\s+([,.;:!?)%])', r'\1', s)
+    s = _re.sub(r'([(])\s+', r'\1', s)
+    s = _re.sub(r"(^|[\s(])'", r'\1‘', s); s = s.replace("'", '’')
+    s = _re.sub(r'(^|[\s(])"', r'\1“', s); s = s.replace('"', '”')
+    return s
+e = lambda s: html.escape(tidy(s), quote=False)
 
 
 def secs(s):
@@ -59,7 +69,8 @@ def page_head(title, color, date_te, pno):
     return f'<header class="ph"><span class="pt" style="--c:{color}">{title}</span><span class="pm"><b>way2sec</b> · {date_te} · పేజీ {pno}</span></header>'
 
 
-def build_html(iso, day, jobs):
+def build_html(iso, day, jobs, extra=None):
+    extra = extra or {}
     d = datetime.date.fromisoformat(iso)
     date_te = f'{d.day} {MON[d.month - 1]} {d.year}'
     wk = WEEK[d.weekday()]
@@ -84,12 +95,42 @@ def build_html(iso, day, jobs):
    <aside class="fside">
      <div class="box nums"><h3>ఈరోజు సంఖ్యల్లో</h3>{''.join(f'<div class="num"><b class="{'te' if any('ఀ' <= ch <= '౿' for ch in str(s.get('stat') or '')) else ''}" style="color:{COLS.get(s.get("col"), "#12284A")}">{e(s.get("stat"))}</b><span>{e(s.get("statl"))}</span></div>' for s in nums)}</div>
      <div class="box idx"><h3>ఈ సంచికలో</h3>
-       <div><span>రాష్ట్రం – తెలంగాణ, ఏపీ</span><b data-p="state">2</b></div><div><span>దేశం</span><b data-p="india">3</b></div><div><span>ప్రపంచం</span><b data-p="world">4</b></div><div><span>ఉద్యోగాలు</span><b data-p="jobs">5</b></div><div><span>మరిన్ని వార్తలు</span><b data-p="rest">6</b></div>
+       <div><span>ముఖ్యాంశాలు & రాబోయే ఘట్టాలు</span><b data-p="high">2</b></div><div><span>రాష్ట్రం – తెలంగాణ, ఏపీ</span><b data-p="state">3</b></div><div><span>దేశం</span><b data-p="india">3</b></div><div><span>ప్రపంచం</span><b data-p="world">4</b></div><div><span>ఉద్యోగాలు</span><b data-p="jobs">5</b></div><div><span>మరిన్ని వార్తలు</span><b data-p="rest">6</b></div>
        <p>మొత్తం {len(stories)} వార్తలు · {len(jobs)} ఉద్యోగ ప్రకటనలు</p></div>
    </aside>
  </div>
  <div class="fsub">{''.join(story(s, 'mid') for s in sub)}</div>
 </section>''')
+    # ---------- highlights of the day + what is coming up ----------
+    def pick_high():
+        want = extra.get('highlights') or []
+        out = []
+        for h in want:
+            s = next((x for x in stories if x.get('h') == h or (isinstance(h, int) and x['_k'] == str(h))), None)
+            if s and s not in out: out.append(s)
+        if len(out) < 6:
+            for s in sorted(stories, key=lambda s: (0 if s.get('brk') else 1, -(int((s.get('t') or '0:0').replace(':', ''))))):
+                if s not in out: out.append(s)
+                if len(out) >= 8: break
+        return out[:8]
+    high = pick_high()
+    up = list(extra.get('upcoming') or [])
+    def dd(j):
+        try: return datetime.date(int(j['last'][6:]), int(j['last'][3:5]), int(j['last'][:2]))
+        except Exception: return None
+    soon = sorted([j for j in jobs if dd(j) and 0 <= (dd(j) - d).days <= 7], key=dd)[:6]
+    def chip(when):
+        m = re.match(r'(\d{1,2})\s+(\S+)', str(when or ''))
+        return (m.group(1), m.group(2)) if m else ('', str(when or ''))
+    hl = ''.join(f'''<li style="--c:{COLS.get(s.get('col'), '#12284A')}"><b class="hn">{i + 1}</b><div><span class="hk">{e(s.get('cat'))}</span><h3>{e(s.get('h'))}</h3>{f'<p>{e(s.get("why"))}</p>' if s.get('why') else ''}</div></li>''' for i, s in enumerate(high))
+    ul = ''.join(f'''<li><div class="dc"><b>{e(chip(u.get('when'))[0])}</b><small>{e(chip(u.get('when'))[1])}</small></div><div><h3>{e(u.get('what'))}</h3><p>{e(' · '.join(x for x in [u.get('when'), u.get('where')] if x))}</p>{f'<small class="us">మూలం: {e(u.get("src"))}</small>' if u.get('src') else ''}</div></li>''' for u in up[:8])
+    jl = ''.join(f'''<li><b>{e(j.get('last'))}</b><span>{e(j.get('h'))}</span></li>''' for j in soon)
+    pages.append(f'''<section class="page" data-p="high">{page_head('ముఖ్యాంశాలు · రాబోయే ఘట్టాలు', '#C8102E', date_te, 2)}
+  <div class="hgrid">
+    <div class="hbox"><h2 class="hh">⚡ ఈరోజు ముఖ్యాంశాలు</h2><ol class="hl">{hl}</ol></div>
+    <div class="ubox"><h2 class="hh">📅 రాబోయే ముఖ్య ఘట్టాలు</h2>{f'<ol class="ul">{ul}</ol>' if ul else '<p class="none">రేపటి ముఖ్య ఘట్టాలు త్వరలో.</p>'}
+      {f'<div class="jbox"><h3>⏰ చివరి తేదీ దగ్గర పడుతున్న ఉద్యోగాలు</h3><ul>{jl}</ul></div>' if jl else ''}</div>
+  </div></section>''')
     # ---------- section pages ----------
     def sec_page(title, color, items, pno, key):
         if not items: return ''
@@ -97,7 +138,7 @@ def build_html(iso, day, jobs):
         return f'''<section class="page" data-p="{key}">{page_head(title, color, date_te, pno)}
   <div class="secopen">{story(first, 'lead', True)}</div>
   <div class="cols">{''.join(story(s) for s in more)}</div></section>'''
-    pno = 2
+    pno = 3
     for title, color, items, key in [('రాష్ట్రం · తెలంగాణ & ఆంధ్రప్రదేశ్', '#1F6B3A', state, 'state'), ('దేశం', '#B3400F', india, 'india'), ('ప్రపంచం', '#5B3A8C', world, 'world')]:
         h = sec_page(title, color, items, pno, key)
         if h: pages.append(h); pno += 1
@@ -132,7 +173,7 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 .page::before{{content:"WAY2SEC";position:absolute;left:50%;top:52%;transform:translate(-50%,-50%) rotate(-30deg);font:400 120pt/1 W2Disp;color:rgba(18,40,74,.028);pointer-events:none;white-space:nowrap}}
 /* masthead */
 .mast{{border-bottom:2.4pt solid #12284A;margin-bottom:4mm}}
-.mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1 W2Sans;color:#5E5246;border-bottom:.6pt solid #CFC4B2;padding-bottom:2mm}}
+.mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1.4 W2Sans;color:#5E5246;border-bottom:.6pt solid #CFC4B2;padding-bottom:2mm}}
 .mname{{display:flex;align-items:center;justify-content:center;gap:6mm;padding:3.5mm 0 2.5mm}}
 .mname img{{height:19mm}}
 .mtag{{border-left:.8pt solid #CFC4B2;padding-left:5mm;display:grid;gap:1mm}}
@@ -140,19 +181,19 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 .mbar{{display:flex;gap:5mm;background:#12284A;color:#fff;font:700 8pt/1 W2Sans;padding:2.2mm 4mm;margin-bottom:.8mm}} .mbar .r{{margin-left:auto;color:#FFD54A}}
 /* stories */
 .st{{break-inside:avoid;margin:0 0 4mm}}
-.st h2{{font:400 13pt/1.32 W2Rama;margin:1mm 0 1.5mm;color:#14100C;text-wrap:balance}}
-.st .p{{font:400 8.6pt/1.62 W2Serif;margin:0 0 1.5mm;text-align:justify}}
-.kick2{{font:800 6.8pt/1 W2Sans;color:var(--c);letter-spacing:.2pt;text-transform:uppercase;border-top:2pt solid var(--c);padding-top:1.5mm;display:inline-block}}
-.pts{{margin:0 0 1.5mm;padding-left:4mm;font:600 8pt/1.5 W2Sans}} .pts li::marker{{color:var(--c)}}
-.why{{font:500 7.8pt/1.5 W2Sans;margin:0 0 1.5mm;background:#F2F4F7;border-left:2pt solid var(--c);padding:1.5mm 2.5mm}} .why b{{color:var(--c)}}
-.src{{font:600 6.8pt/1 W2Sans;color:#7A6E60;margin:0}}
+.st h2{{font:400 13pt/1.45 W2Rama;margin:1mm 0 1.5mm;color:#14100C;text-wrap:balance}}
+.st .p{{font:400 8.8pt/1.8 W2Serif;margin:0 0 1.6mm;text-align:left;word-spacing:normal;hyphens:none}}
+.kick2{{font:800 6.8pt/1.4 W2Sans;color:var(--c);letter-spacing:.2pt;text-transform:uppercase;border-top:2pt solid var(--c);padding-top:1.5mm;display:inline-block}}
+.pts{{margin:0 0 1.6mm;padding-left:4mm;font:600 8pt/1.65 W2Sans}} .pts li::marker{{color:var(--c)}}
+.why{{font:500 7.8pt/1.65 W2Sans;margin:0 0 1.5mm;background:#F2F4F7;border-left:2pt solid var(--c);padding:1.5mm 2.5mm}} .why b{{color:var(--c)}}
+.src{{font:600 6.8pt/1.4 W2Sans;color:#7A6E60;margin:0}}
 .brk{{display:inline-block;background:#C8102E;color:#fff;font:800 7pt/1 W2Sans;padding:1mm 2mm;border-radius:1mm;margin-right:2mm;vertical-align:middle}}
 .scene{{position:relative;height:46mm;border-radius:2mm;overflow:hidden;color:#fff;padding:4mm 5mm;display:flex;flex-direction:column;justify-content:flex-end;margin-bottom:2.5mm}}
 .scene svg{{position:absolute;inset:0;width:100%;height:100%;opacity:.3}}
 .scene>*{{position:relative}}
 .scene .kick{{position:absolute;top:3.5mm;left:5mm;border:.8pt solid rgba(255,255,255,.85);border-radius:10mm;padding:.8mm 3mm;font:800 7pt/1.4 W2Sans}}
 .scene .big{{font:400 30pt/1 W2Disp}} .scene .big.te{{font:400 26pt/1.15 W2Rama}} .scene i{{font:700 9pt/1.3 W2Sans;font-style:normal;opacity:.95;margin-top:1mm}}
-.st.lead h2{{font-size:21pt;line-height:1.28}} .st.lead .p{{font-size:9.6pt;line-height:1.7}}
+.st.lead h2{{font-size:21pt;line-height:1.4}} .st.lead .p{{font-size:9.8pt;line-height:1.85}}
 .st.mid .scene{{height:30mm}} .st.mid .scene .big{{font-size:20pt}} .st.mid h2{{font-size:12pt}}
 .st.small h2{{font-size:11pt}} .st.small .p{{font-size:8.2pt}} .st.small .pts,.st.small .why{{display:none}}
 /* front grid */
@@ -161,16 +202,33 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 .box{{border:.8pt solid #CFC4B2;border-top:2.4pt solid #12284A;padding:3mm;background:#fff}}
 .box h3{{margin:0 0 2.5mm;font:400 11pt/1 W2Rama;color:#12284A}}
 .num{{display:grid;border-top:.6pt dashed #DDD3C4;padding:1.8mm 0}} .num b{{font:400 15pt/1.1 W2Disp}} .num b.te{{font:400 14pt/1.2 W2Rama}} .num span{{font:600 7.2pt/1.35 W2Sans;color:#3B332B}}
-.idx div{{display:flex;justify-content:space-between;font:700 8pt/1 W2Sans;border-top:.6pt dashed #DDD3C4;padding:2mm 0}} .idx b{{color:#C8102E}} .idx p{{font:600 7pt/1.4 W2Sans;color:#7A6E60;margin:2mm 0 0}}
+.idx div{{display:flex;justify-content:space-between;font:700 8pt/1.4 W2Sans;border-top:.6pt dashed #DDD3C4;padding:2mm 0}} .idx b{{color:#C8102E}} .idx p{{font:600 7pt/1.4 W2Sans;color:#7A6E60;margin:2mm 0 0}}
 .fsub{{display:grid;grid-template-columns:repeat(3,1fr);gap:5mm}}
 /* inner pages */
 .ph{{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2.4pt solid #12284A;padding-bottom:2mm;margin-bottom:4mm}}
-.pt{{font:400 19pt/1 W2Rama;color:var(--c)}} .pm{{font:600 7.4pt/1 W2Sans;color:#5E5246}} .pm b{{font:400 9pt/1 W2Disp;color:#12284A}}
+.pt{{font:400 19pt/1.3 W2Rama;color:var(--c)}} .pm{{font:600 7.4pt/1.3 W2Sans;color:#5E5246}} .pm b{{font:400 9pt/1 W2Disp;color:#12284A}}
 .secopen .scene{{height:52mm}}
 .secopen{{border-bottom:.8pt solid #CFC4B2;margin-bottom:4mm}}
 .cols{{column-count:3;column-gap:5mm;column-rule:.6pt solid #E0D6C6;column-fill:auto}}
 .cols .st{{break-inside:auto}} .st h2,.kick2{{break-after:avoid}} .why,.pts li,.src{{break-inside:avoid}} .cols .st .p{{orphans:3;widows:3}}
 .jintro{{font:600 9pt/1.5 W2Sans;margin:0 0 3mm}}
+.hgrid{{display:grid;grid-template-columns:1.15fr 1fr;gap:6mm;height:calc(100% - 22mm)}}
+.hh{{font:400 15pt/1.35 W2Rama;margin:0 0 3mm;color:#12284A;border-bottom:1.6pt solid #12284A;padding-bottom:1.5mm}}
+.hl{{list-style:none;margin:0;padding:0;display:grid;gap:3.2mm}}
+.hl li{{display:grid;grid-template-columns:11mm 1fr;gap:3mm;align-items:start;border-bottom:.6pt dashed #DDD3C4;padding-bottom:3mm}}
+.hn{{font:400 20pt/1 W2Disp;color:var(--c);text-align:center}}
+.hk{{font:800 6.8pt/1.4 W2Sans;color:var(--c)}}
+.hl h3{{font:400 11.6pt/1.45 W2Rama;margin:.6mm 0 1mm;color:#14100C}}
+.hl p{{font:500 7.8pt/1.6 W2Sans;margin:0;color:#4A4036}}
+.ubox{{background:#F3F5F8;border-radius:3mm;padding:4mm;border-top:2.4pt solid #C8102E}}
+.ul{{list-style:none;margin:0;padding:0;display:grid;gap:3mm}}
+.ul li{{display:grid;grid-template-columns:15mm 1fr;gap:3mm;align-items:start;background:#fff;border-radius:2mm;padding:2.5mm;box-shadow:0 .6mm 2mm rgba(18,40,74,.08)}}
+.dc{{background:#12284A;color:#fff;border-radius:2mm;text-align:center;padding:1.8mm 1mm;display:grid}}
+.dc b{{font:400 15pt/1 W2Disp;color:#FFD54A}} .dc small{{font:700 6.6pt/1.4 W2Sans}}
+.ul h3{{font:400 10.4pt/1.45 W2Rama;margin:0 0 1mm;color:#14100C}} .ul p{{font:600 7.4pt/1.5 W2Sans;margin:0;color:#4A4036}} .us{{font:600 6.4pt/1.4 W2Sans;color:#7A6E60}}
+.none{{font:600 9pt/1.6 W2Sans;color:#6B5F52}}
+.jbox{{margin-top:4mm;border-top:1.2pt solid #0F6E5C;padding-top:2.5mm}} .jbox h3{{font:400 11pt/1.4 W2Rama;color:#0F6E5C;margin:0 0 2mm}}
+.jbox ul{{list-style:none;margin:0;padding:0;display:grid;gap:1.6mm}} .jbox li{{display:grid;grid-template-columns:19mm 1fr;gap:2mm;font:600 7.6pt/1.5 W2Sans}} .jbox li b{{color:#B3400F}}
 table.jobs{{width:100%;border-collapse:collapse;font:600 8pt/1.4 W2Sans}}
 table.jobs th{{background:#0F6E5C;color:#fff;text-align:left;padding:2mm 2.5mm;font-weight:800}}
 table.jobs td{{border-bottom:.6pt solid #DDD3C4;padding:1.8mm 2.5mm;vertical-align:top}}
@@ -228,7 +286,9 @@ def main():
     except Exception: jobs = []
     out_dir = os.path.join(ROOT, 'epaper'); os.makedirs(out_dir, exist_ok=True)
     tmp = os.path.join(ROOT, 'epaper', '_build.html')
-    open(tmp, 'w', encoding='utf-8').write(build_html(iso, day, jobs))
+    try: extra = json.load(open(os.path.join(ROOT, 'epaper', iso + '.extra.json'), encoding='utf-8'))
+    except Exception: extra = {}
+    open(tmp, 'w', encoding='utf-8').write(build_html(iso, day, jobs, extra))
     srv = serve()
     from playwright.sync_api import sync_playwright
     raw = os.path.join(out_dir, '_raw.pdf')
@@ -239,7 +299,7 @@ def main():
         # page pictures + where each story sits on the page (for the web viewer and its ✂️ clip tool)
         day_dir = os.path.join(out_dir, iso); os.makedirs(day_dir, exist_ok=True)
         info = pg.evaluate('''() => [...document.querySelectorAll('.page')].map(pg => { const r = pg.getBoundingClientRect();
-          const clips = [...pg.querySelectorAll('.st, table.jobs')].map(el => { const rs = [...el.getClientRects()].filter(q => q.width > 20 && q.height > 10);
+          const clips = [...pg.querySelectorAll('.st, table.jobs, .hbox, .ubox')].map(el => { const rs = [...el.getClientRects()].filter(q => q.width > 20 && q.height > 10);
             return rs.map(q => ({x: (q.left - r.left) / r.width, y: (q.top - r.top) / r.height, w: q.width / r.width, h: q.height / r.height,
               t: (el.querySelector('h2') || {}).textContent || 'ఉద్యోగాలు'})); }).flat();
           const ttl = (pg.querySelector('.pt') || {}).textContent || 'మొదటి పేజీ';
