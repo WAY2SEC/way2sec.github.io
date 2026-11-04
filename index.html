@@ -110,6 +110,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
 .story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
+#imgShare[hidden],#crChoice[hidden],#capBar[hidden]{display:none!important}
 .story.drag{transition:none}
 .panel{position:relative;flex:1 1 auto;min-height:150px;max-height:34%;color:#fff;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px var(--gr) 14px var(--gx);background:var(--hl)}
 .panel svg.scene{position:absolute;left:0;right:0;bottom:0;width:100%;height:82%;opacity:.27;pointer-events:none}
@@ -363,7 +364,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <button class="btn" id="tipOpen2" type="button" style="background:#C8102E">📝 మీ ఊరి వార్త పంపండి</button>
       <button class="btn" id="shareApp" type="button" style="background:transparent;color:var(--ink);border:1.5px solid var(--line)">యాప్‌ను స్నేహితులతో షేర్ చేయండి</button>
       <a class="btn" href="/web/" style="display:flex;justify-content:center;background:transparent;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;text-decoration:none">🖥️ Way2Sec వెబ్‌సైట్ చూడండి</a>
-      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.13 · Way2Sec</p>
+      <p id="appVer" style="margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted)">వెర్షన్ 4.14 · Way2Sec</p>
     </div></div>
   </section>
   <div class="toast" id="toast" role="status"></div>
@@ -803,7 +804,12 @@ const cardFile=b=>new File([b],'way2sec-news-'+Date.now()+'.jpg',{type:'image/jp
 function saveBlob(b){ const u=URL.createObjectURL(b), a=document.createElement('a');
   a.href=u; a.download='way2sec-news-'+Date.now()+'.jpg'; document.body.appendChild(a); a.click(); a.remove();
   setTimeout(()=>URL.revokeObjectURL(u),60000); }
-async function copyText(t){ try{ await navigator.clipboard.writeText(t); return true; }catch(e){ return false; } }
+/* copy that also works on iPhone (old way first, it runs inside the tap) */
+function copyLegacy(t){ try{ const a=document.createElement('textarea'); a.value=t; a.setAttribute('readonly',''); a.contentEditable='true';
+    a.style.cssText='position:fixed;top:0;left:0;opacity:0;font-size:16px'; document.body.appendChild(a);
+    const r=document.createRange(); r.selectNodeContents(a); const sel=getSelection(); sel.removeAllRanges(); sel.addRange(r); a.setSelectionRange(0,t.length);
+    const ok=document.execCommand('copy'); a.remove(); sel.removeAllRanges(); return ok; }catch(e){ return false; } }
+async function copyText(t){ if(copyLegacy(t)) return true; try{ await navigator.clipboard.writeText(t); return true; }catch(e){ return false; } }
 $('dlBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
   const ready=cardCache.k===keyOf(s) && cardCache.blob;
   if(!ready) toast('చిత్రం తయారవుతోంది…');
@@ -872,7 +878,8 @@ function showCardImage(b, text, why){
     try{ if(!navigator.share) throw new Error('noshare'); await navigator.share({files:[cardFile(b)]}); o.hidden=true; capBar(text); }
     catch(e){ if(e&&e.name==='AbortError') return;
       $('imgShareWhy').textContent='షేర్ కాలేదు – పై చిత్రాన్ని నొక్కి పట్టుకుని Save to Photos చేసి, WhatsAppలో 📎 నుంచి పంపండి.';
-      if(STANDALONE){ toast('Safari లో తెరుస్తున్నాం…'); setTimeout(()=>{ location.href='x-safari-'+location.origin+'/?cards=1&sharecard=1&s='+sid(LIST[cur]||{}); },600); return; }
+      if(STANDALONE){ const u=location.origin+'/?cards=1&sharecard=1&s='+sid(LIST[cur]||{}); copyLegacy(u); o.hidden=true; location.href='x-safari-'+u;
+        setTimeout(()=>{ if(document.visibilityState==='visible') toast('Safari తెరవలేదు – లింక్ కాపీ అయింది: Safari తెరిచి Paste చేయండి'); },1800); return; }
       toast('షేర్ కాలేదు – చిత్రాన్ని నొక్కి పట్టుకుని Save చేయండి'); }
   };
   o.hidden=false;
@@ -893,8 +900,14 @@ function chromeChoice(s,text,viaWA){
     o.addEventListener('click',e=>{ if(e.target===o||e.target.id==='crNo') o.hidden=true; });
   }
   $('crWhy').textContent=(CRIOS?'iPhone లో Chrome':'హోమ్ స్క్రీన్ యాప్')+' నుంచి చిత్రాలు పంపడం iPhone అనుమతించదు – ఈ వార్త Safari లో తెరుచుకుంటుంది, అక్కడ “📤 షేర్” ఒక్కసారి నొక్కండి.';
-  $('crPic').onclick=()=>{ o.hidden=true; const l=LG();
-    location.href='x-safari-https://way2sec.news/?cards=1&sharecard=1&s='+sid(s)+(s.kind==='job'?'&jobs=1':'')+(l!=='te'?'&l='+l:''); };
+  $('crPic').onclick=async()=>{ const l=LG(), b=(cardCache.k===keyOf(s))?cardCache.blob:null;
+    const safari='https://way2sec.news/?cards=1&sharecard=1&s='+sid(s)+(s.kind==='job'?'&jobs=1':'')+(l!=='te'?'&l='+l:'');
+    // 1) home-screen app: try sharing the picture right here first, straight from the tap
+    if(!CRIOS && b && navigator.share){ try{ await navigator.share({files:[cardFile(b)]}); o.hidden=true; capBar(text); return; }catch(e){ if(e&&e.name==='AbortError'){ o.hidden=true; return; } } }
+    // 2) open the story in Safari, where picture sharing works; if Safari does not open, the link is already copied
+    o.hidden=true; copyLegacy(safari);
+    location.href='x-safari-'+safari;
+    setTimeout(()=>{ if(document.visibilityState==='visible') toast('Safari తెరవలేదు – లింక్ కాపీ అయింది: Safari తెరిచి అడ్రస్ బార్‌లో Paste చేయండి'); },1800); };
   $('crLink').onclick=async()=>{ o.hidden=true; // just copy this story's link – the reader pastes it in the WhatsApp they want
     const link=storyLink(s);
     if(await copyText(link)){ toast('🔗 లింక్ కాపీ అయింది ✅ WhatsApp తెరిచి Paste చేయండి'); return; }
