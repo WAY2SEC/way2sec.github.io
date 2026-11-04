@@ -19,10 +19,9 @@ window.ogImage = async function(s){
   const stat=String(s.stat||''), te=/[ఀ-౿]/.test(stat);
   let ss=te?(hasPh?44:96):(hasPh?56:130); const sf=()=>{ x.font=te?`800 ${ss}px ${TE}`:`400 ${ss}px ${DI}`; }; sf();
   while(x.measureText(stat).width>L-2*P && ss>44){ ss-=6; sf(); }
-  if(hasPh){ x.fillStyle='rgba(10,12,20,.66)'; x.fillRect(0,H-150,L,150); x.fillStyle='#fff'; }
   x.font=`800 ${hasPh?24:32}px ${TE}`; const sl=wrap(x,s.statl||'',L-2*P).slice(0,hasPh?1:2);
-  let y=H-P-(sl.length-1)*42; sl.forEach((t,k)=>x.fillText(t,P,y+k*42));
-  sf(); x.fillText(stat,P,y-50-(te?Math.round(ss*0.3):0));
+  let y=H-P-(sl.length-1)*42; if(!hasPh){ sl.forEach((t,k)=>x.fillText(t,P,y+k*42));
+  sf(); x.fillText(stat,P,y-50-(te?Math.round(ss*0.3):0)); }
 
   // right: brand bar
   const R=L, RW=W-L;

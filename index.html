@@ -386,7 +386,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <div class="toast" id="toast" role="status"></div>
 </div>
 
-<script src="scenes.js?v=20261104d"></script>
+<script src="scenes.js?v=20261104g"></script>
 <script>
 const CONFIG = {
   NEWS_URL: 'news.json',
@@ -601,7 +601,9 @@ function cardHTML(s,i){
   if(s.kind==='job') return jobHTML(s,i);
   const col = s.col||'--c-gov';
   const where=[s.loc, s.place&&s.place!=='TS'&&s.place!=='IN' ? placeName(s.place) : (s.st&&s.st!=='TG'&&s.st!=='IN' ? placeLabel('st-'+s.st) : '')].filter(Boolean).join(', ');
-  const pl = where ? `<span class="chip pl">📍 ${esc(where)}</span>` : '';
+  const ph = !!storyPhoto(s);
+  const pl = where && !ph ? `<span class="chip pl">📍 ${esc(where)}</span>` : '';
+  const kf = ph ? `<div class="kf"><b>${esc(s.stat)}</b><span>${esc(s.statl)}</span></div>${where?`<div class="kfw">📍 ${esc(where)}</div>`:''}` : '';
   return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col});--hl-ink:var(${col})">
   <div class="panel">
     ${sceneSVG(s,'scene')}
@@ -610,7 +612,7 @@ function cardHTML(s,i){
   </div>
   <div class="strip sm"><div class="lgw"><img src="logo-light.png" alt="Way2Sec"><span class="rt">${U('sub')}</span></div><span class="tg">${U('tag')}</span></div>
   <div class="text"${s._lang?` lang="${s._lang}"`:''}>
-    <h2>${esc(s.h)}</h2>
+    ${kf}<h2>${esc(s.h)}</h2>
     <p class="sum">${esc(s.p)}</p>
     <div class="foot"><span class="src">${U('src')}: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">${U('read')}</a>`:''}</div>
     ${i===0?`<div class="hint">${U('hint')}</div>`:''}
@@ -792,7 +794,8 @@ async function cardImage(s){
   ctx.font=`800 52px ${TE}`; const hl=wrap(ctx,s.h,W-2*P);
   ctx.font=`400 36px ${TE}`; const pl=wrap(ctx,s.p,W-2*P);
   const PANEL=600, STRIP=124, QR=190;
-  const textH=48+hl.length*72+24+pl.length*58+40+70+40;
+  const KF=storyPhoto(s)?92:0; // photo story: key fact goes in a pill above the headline
+  const textH=48+KF+hl.length*72+24+pl.length*58+40+70+40;
   const H=PANEL+STRIP+textH+QR; c.width=W; c.height=H;
   ctx.fillStyle='#FFFBF3'; ctx.fillRect(0,0,W,H);
   // panel
@@ -806,12 +809,7 @@ async function cardImage(s){
   rrect(ctx,P,52,cw,62,31); ctx.stroke(); ctx.textBaseline='middle'; ctx.fillText(chip,P+28,84);
   ctx.font=`700 28px ${TE}`; ctx.textAlign='right'; ctx.fillText(s.kind==='job'?(s.last?J('lastd')+' '+s.last:''):(s.d||NEWS.date||''),W-P,84); ctx.textAlign='left';
   ctx.textBaseline='alphabetic';
-  if(hasPh){ // photo story: one slim caption band, so the photo stays visible
-    const BH=92; ctx.fillStyle='rgba(10,12,20,.66)'; ctx.fillRect(0,PANEL-BH,W,BH); ctx.fillStyle='#fff';
-    const te2=/[ఀ-౿]/.test(s.stat||''); ctx.font=te2?`800 40px ${TE}`:`400 44px ${DI}`; ctx.fillText(s.stat||'',P,PANEL-30);
-    const sw=ctx.measureText(s.stat||'').width+22; ctx.font=`800 28px ${TE}`; let t=s.statl||'';
-    while(t && ctx.measureText(t).width>W-2*P-sw){ t=t.slice(0,-2); } if(t!==(s.statl||'')) t=t.trim()+'…';
-    ctx.fillText(t,P+sw,PANEL-33);
+  if(hasPh){ /* photo stays clean: key fact is drawn under the brand bar */ 
   } else {
   let statSize=150; ctx.font=`400 ${statSize}px ${DI}`; while(ctx.measureText(s.stat||'').width>W-2*P && statSize>60){ statSize-=10; ctx.font=`400 ${statSize}px ${DI}`; }
   // Telugu in the stat needs the Telugu font
@@ -831,7 +829,11 @@ async function cardImage(s){
   ctx.font=`700 25px ${TE}`; ctx.fillStyle='#C3D0E2'; ctx.fillText(s.kind==='job'?J('s3'):U('sub'),P,yy+104);
   ctx.font=`800 32px ${TE}`; ctx.fillStyle='#EEF2F8'; ctx.textAlign='right'; ctx.fillText(U('tag'),W-P,yy+76); ctx.textAlign='left';
   // text
-  yy=PANEL+STRIP+48+52; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
+  if(KF){ ctx.font=`900 32px ${TE}`; const st=s.stat||''; const sw=ctx.measureText(st).width;
+    ctx.font=`800 28px ${TE}`; let t=s.statl||''; const maxT=W-2*P-sw-70; while(t && ctx.measureText(t).width>maxT){ t=t.slice(0,-2); } if(t!==(s.statl||'')) t=t.trim()+'…';
+    const pw=Math.min(W-2*P, sw+ctx.measureText(t).width+70); ctx.fillStyle=col; rrect(ctx,P,PANEL+STRIP+30,pw,60,30); ctx.fill();
+    ctx.fillStyle='#fff'; ctx.font=`900 32px ${TE}`; ctx.fillText(st,P+26,PANEL+STRIP+71); ctx.font=`800 28px ${TE}`; ctx.fillText(t,P+26+sw+18,PANEL+STRIP+70); }
+  yy=PANEL+STRIP+48+52+KF; ctx.fillStyle=col; ctx.font=`800 52px ${TE}`; hl.forEach(t=>{ctx.fillText(t,P,yy);yy+=72;});
   yy+=24-72+58; ctx.fillStyle='#1A1410'; ctx.font=`400 36px ${TE}`; pl.forEach(t=>{ctx.fillText(t,P,yy);yy+=58;});
   yy+=10; ctx.strokeStyle='#E3D9C8'; ctx.lineWidth=2; ctx.beginPath(); ctx.moveTo(P,yy); ctx.lineTo(W-P,yy); ctx.stroke();
   yy+=62; ctx.font=`600 30px ${TE}`; ctx.fillStyle='#5E5246'; ctx.fillText('Source | మూలం: ',P,yy);
