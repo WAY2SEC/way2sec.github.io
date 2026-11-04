@@ -1,8 +1,103 @@
 {
  "date": "04.11.2026",
  "iso": "2026-11-04",
- "count": 25,
+ "count": 27,
  "stories": [
+  {
+   "cat": "ఏపీ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "8,000",
+   "statl": "నేలకూలిన విద్యుత్ స్తంభాలు (ప్రాథమిక అంచనా)",
+   "h": "మురసు దెబ్బకు ఏపీలో 8,000 స్తంభాలు నేలమట్టం; 24 గంటల్లో కరెంటు పునరుద్ధరణకు ఆదేశం",
+   "p": "మురసు తుపాను వల్ల ఆంధ్రప్రదేశ్‌లో దాదాపు 8,000 విద్యుత్ స్తంభాలు కూలిపోయాయని ప్రాథమిక అంచనా. అర్నబ్, మురసు తుపానులపై మంత్రి గొట్టిపాటి రవికుమార్ టెలికాన్ఫరెన్స్ నిర్వహించారు. ప్రభావిత ప్రాంతాల్లో 24 గంటల్లో విద్యుత్ సరఫరా పునరుద్ధరించాలని ఆదేశించారు. ఇందుకోసం 500 బృందాలు పనిచేస్తున్నాయి. తమిళనాడు, కర్ణాటక, తెలంగాణ నుంచి కూడా బృందాలు వస్తున్నాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--04th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110400506",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "పునరుద్ధరణ పనుల్లో 500 బృందాలు",
+    "అర్నబ్ తుపాను పునరుద్ధరణ 90% పూర్తి",
+    "తమిళనాడు, కర్ణాటక, తెలంగాణ బృందాల సాయం"
+   ],
+   "why": "తుపాను ప్రభావిత జిల్లాల్లో కరెంటు లేక ఇబ్బంది పడుతున్న ప్రజలకు త్వరలో సరఫరా అందే అవకాశం ఉంది.",
+   "en": {
+    "h": "Murasu fells 8,000 power poles in AP; power restoration ordered within 24 hours",
+    "p": "About 8,000 electricity poles fell in Andhra Pradesh due to Cyclone Murasu, according to a preliminary estimate. Minister Gottipati Ravi Kumar held a teleconference on cyclones Arnab and Murasu. He ordered power supply to be restored in affected areas within 24 hours. 500 teams are working on this, and teams are also coming from Tamil Nadu, Karnataka and Telangana.",
+    "pts": [
+     "500 teams on restoration work",
+     "Arnab cyclone restoration 90% complete",
+     "Help from Tamil Nadu, Karnataka and Telangana teams"
+    ],
+    "why": "People without power in cyclone-hit districts may get supply back soon.",
+    "cat": "AP · Power",
+    "statl": "Power poles fallen (preliminary estimate)"
+   },
+   "hi": {
+    "h": "मुरासु से आंध्र प्रदेश में 8,000 बिजली खंभे गिरे; 24 घंटे में बिजली बहाली का आदेश",
+    "p": "प्रारंभिक अनुमान के अनुसार चक्रवात मुरासु से आंध्र प्रदेश में लगभग 8,000 बिजली खंभे गिर गए। मंत्री गोट्टीपाटी रवि कुमार ने अर्नब और मुरासु चक्रवातों पर टेलीकॉन्फ्रेंस की। उन्होंने प्रभावित क्षेत्रों में 24 घंटे के भीतर बिजली आपूर्ति बहाल करने का आदेश दिया। इसके लिए 500 टीमें काम कर रही हैं, और तमिलनाडु, कर्नाटक व तेलंगाना से भी टीमें आ रही हैं।",
+    "pts": [
+     "बहाली कार्य में 500 टीमें",
+     "अर्नब चक्रवात की बहाली 90% पूरी",
+     "तमिलनाडु, कर्नाटक और तेलंगाना की टीमों की मदद"
+    ],
+    "why": "चक्रवात प्रभावित जिलों में बिना बिजली के परेशान लोगों को जल्द आपूर्ति मिल सकती है।",
+    "cat": "आंध्र प्रदेश · बिजली",
+    "statl": "गिरे बिजली खंभे (प्रारंभिक अनुमान)"
+   },
+   "d": "04.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "తెలంగాణ · కామారెడ్డి",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "14",
+   "statl": "సస్పెండ్ అయిన సీనియర్ విద్యార్థులు",
+   "h": "కామారెడ్డి వైద్య కళాశాలలో ర్యాగింగ్: 14 మంది సీనియర్లపై సస్పెన్షన్",
+   "p": "కామారెడ్డి వైద్య కళాశాలలో ర్యాగింగ్ ఘటన వెలుగులోకి వచ్చింది. ఈ కేసులో కళాశాలకు చెందిన 14 మంది సీనియర్ విద్యార్థులను సస్పెండ్ చేశారు. ర్యాగింగ్‌కు గురైన జూనియర్ విద్యార్థులు దీనిపై నేరుగా జాతీయ వైద్య కమిషన్ (ఎన్ఎంసీ)కి ఫిర్యాదు చేశారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-4th-november-2026-kjr-3702.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "pts": [
+    "14 మంది సీనియర్ విద్యార్థుల సస్పెన్షన్",
+    "జాతీయ వైద్య కమిషన్‌కు బాధితుల ఫిర్యాదు"
+   ],
+   "why": "వైద్య కళాశాలల్లో చదువుతున్న విద్యార్థులు, వారి తల్లిదండ్రులకు ర్యాగింగ్ నిరోధంపై ఇది ముఖ్యమైన అంశం.",
+   "en": {
+    "h": "Ragging at Kamareddy medical college: 14 seniors suspended",
+    "p": "A ragging incident has come to light at the Kamareddy medical college. 14 senior students of the college have been suspended in the case. The junior students who were ragged complained about it directly to the National Medical Commission (NMC).",
+    "pts": [
+     "14 senior students suspended",
+     "Victims complained to the National Medical Commission"
+    ],
+    "why": "This is an important issue on preventing ragging for medical college students and their parents.",
+    "cat": "Telangana · Kamareddy",
+    "statl": "Senior students suspended"
+   },
+   "hi": {
+    "h": "कामारेड्डी मेडिकल कॉलेज में रैगिंग: 14 सीनियर छात्र निलंबित",
+    "p": "कामारेड्डी मेडिकल कॉलेज में रैगिंग की घटना सामने आई है। इस मामले में कॉलेज के 14 सीनियर छात्रों को निलंबित किया गया है। रैगिंग के शिकार जूनियर छात्रों ने इसकी शिकायत सीधे राष्ट्रीय चिकित्सा आयोग (एनएमसी) से की।",
+    "pts": [
+     "14 सीनियर छात्र निलंबित",
+     "पीड़ितों ने राष्ट्रीय चिकित्सा आयोग से शिकायत की"
+    ],
+    "why": "मेडिकल कॉलेजों में पढ़ रहे छात्रों और उनके माता-पिता के लिए रैगिंग रोकथाम पर यह महत्वपूर्ण मुद्दा है।",
+    "cat": "तेलंगाना · कामारेड्डी",
+    "statl": "निलंबित सीनियर छात्र"
+   },
+   "d": "04.11.2026",
+   "t": "11:05"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
