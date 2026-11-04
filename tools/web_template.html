@@ -387,7 +387,7 @@ function card(s){
 }
 function renderNav(){
   const P=new URLSearchParams(location.search), onDates=P.has('d')||P.has('dates');
-  $('secs').innerHTML=SECS.map(([k,n],i)=>`<a href="?sec=${k}" data-k="${k}" aria-current="${k===section&&!onDates}">${n}</a>`+(i===0?`<a href="/?dates=1" data-dates="1" aria-current="${onDates}">📅 పాత వార్తలు</a>`:'')).join('')+`<a href="/?jobs=1">💼 జాబ్స్</a>`;
+  $('secs').innerHTML=SECS.map(([k,n],i)=>`<a href="?sec=${k}" data-k="${k}" aria-current="${k===section&&!onDates}">${n}</a>`+(i===0?`<a href="/?dates=1" data-dates="1" aria-current="${onDates}">📅 పాత వార్తలు</a>`:'')+(k==='world'?`<a href="/?jobs=1">💼 జాబ్స్</a>`:'')).join('');
 }
 $('secs').addEventListener('click',e=>{ if(e.target.closest('a[data-dates]')){ e.preventDefault(); section='all'; $('q').value=''; history.pushState(null,'','?dates=1'); route(); scrollTo({top:0,behavior:'smooth'}); return; }
   const a=e.target.closest('a[data-k]');if(!a)return;e.preventDefault();section=a.dataset.k;history.pushState(null,'',section==='all'?location.pathname:'?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
