@@ -1,8 +1,154 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 78,
+ "count": 81,
  "stories": [
+  {
+   "cat": "భారత్ · కేంద్ర ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "31.12.2024",
+   "statl": "వరకు వచ్చిన మైనారిటీ శరణార్థులకు మినహాయింపు",
+   "h": "విదేశీయులకు పాస్‌పోర్ట్, వీసా నిబంధనల సడలింపు: కేంద్రం గెజిట్",
+   "p": "భారత్‌లో నివసిస్తున్న కొన్ని వర్గాల విదేశీయులకు పాస్‌పోర్ట్, వీసా నిబంధనలను సడలిస్తూ కేంద్ర హోంశాఖ గురువారం గెజిట్ నోటిఫికేషన్ ఇచ్చింది. మతపరమైన వేధింపులతో 2024 డిసెంబర్ 31లోపు అఫ్గానిస్థాన్, బంగ్లాదేశ్, పాకిస్థాన్ నుంచి వచ్చిన హిందూ, సిక్కు, జైన, బౌద్ధ, పార్సీ, క్రైస్తవులకు, 2015 జనవరి 9లోపు వచ్చి నమోదైన శ్రీలంక తమిళులకు మినహాయింపు లభిస్తుంది. భారత్–నేపాల్–భూటాన్ ప్రయాణికుల గుర్తింపు పత్రాల నిబంధనలూ సడలాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/bharat/govt-relaxes-passport-and-visa-rules-for-foreign-nationals-residing-in-india-issues-gazette-notification-ten26110506238",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఇమ్మిగ్రేషన్ అండ్ ఫారినర్స్ (ఎగ్జెంప్షన్) సవరణ ఉత్తర్వు, 2026",
+    "మైనారిటీ శరణార్థులు తగిన వీసా మాత్రం తీసుకోవాలి",
+    "విధుల్లో ఉన్న త్రివిధ దళాల సిబ్బందికీ మినహాయింపు"
+   ],
+   "why": "పత్రాల గడువు ముగిసి ఇబ్బంది పడుతున్న శరణార్థులు, భారత సంతతి విదేశీయులకు ఈ నిర్ణయం ఊరటనిస్తుంది.",
+   "d": "05.11.2026",
+   "t": "19:35",
+   "en": {
+    "h": "Centre relaxes passport, visa rules for some foreigners: gazette issued",
+    "p": "The Union Home Ministry on Thursday issued a gazette notification relaxing passport and visa rules for certain categories of foreign nationals living in India. Hindus, Sikhs, Jains, Buddhists, Parsis and Christians who came from Afghanistan, Bangladesh and Pakistan due to religious persecution by December 31, 2024, and registered Sri Lankan Tamils who came by January 9, 2015, get exemptions. ID document rules for India–Nepal–Bhutan travellers were also eased.",
+    "pts": [
+     "Immigration and Foreigners (Exemption) (Amendment) Order, 2026",
+     "Minority refugees must still obtain an appropriate visa",
+     "Armed forces personnel on duty also exempted"
+    ],
+    "why": "The decision brings relief to refugees and foreigners of Indian origin struggling with expired documents.",
+    "cat": "India · Central Government",
+    "statl": "cut-off for minority refugees' exemption"
+   },
+   "hi": {
+    "h": "कुछ विदेशियों के लिए पासपोर्ट, वीजा नियमों में ढील: केंद्र ने जारी किया गजट",
+    "p": "केंद्रीय गृह मंत्रालय ने गुरुवार को गजट अधिसूचना जारी कर भारत में रह रहे कुछ श्रेणियों के विदेशी नागरिकों के लिए पासपोर्ट और वीजा नियमों में ढील दी। धार्मिक उत्पीड़न के कारण 31 दिसंबर 2024 तक अफगानिस्तान, बांग्लादेश और पाकिस्तान से आए हिंदू, सिख, जैन, बौद्ध, पारसी और ईसाई तथा 9 जनवरी 2015 तक आए पंजीकृत श्रीलंकाई तमिलों को छूट मिलेगी। भारत–नेपाल–भूटान यात्रियों के पहचान पत्र नियम भी आसान किए गए।",
+    "pts": [
+     "आप्रवासन और विदेशी (छूट) (संशोधन) आदेश, 2026",
+     "अल्पसंख्यक शरणार्थियों को उचित वीजा फिर भी लेना होगा",
+     "ड्यूटी पर तीनों सेनाओं के कर्मियों को भी छूट"
+    ],
+    "why": "यह फैसला दस्तावेजों की अवधि खत्म होने से परेशान शरणार्थियों और भारतीय मूल के विदेशियों को राहत देगा।",
+    "cat": "भारत · केंद्र सरकार",
+    "statl": "तक आए अल्पसंख्यक शरणार्थियों को छूट"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · పెట్టుబడులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "డిసెం 7–9",
+   "statl": "ఫ్యూచర్ సిటీలో గ్లోబల్ సమ్మిట్",
+   "h": "గ్లోబల్ సమ్మిట్ ఏర్పాట్లపై సీఎం రేవంత్ సమీక్ష: 15లోగా పూర్తి ప్రణాళిక",
+   "p": "హైదరాబాద్ ఫ్యూచర్ సిటీలో జరగనున్న ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్-2026 ఏర్పాట్లపై సీఎం రేవంత్ రెడ్డి సమీక్షించారు. నవంబర్ 15లోగా పూర్తి ఏర్పాట్ల ప్రణాళిక ఇవ్వాలని అధికారులను ఆదేశించారు. ప్రతి ప్రతినిధికి ఒక లైజన్ అధికారి, విమానాశ్రయంలోనే రిజిస్ట్రేషన్, పాసులు ఉండాలన్నారు. సదస్సు డిసెంబర్ 7, 8, 9 తేదీల్లో జరుగుతుందని సీఎస్ సంజయ్ జాజు తెలిపారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/cm-revanth-reddy-diwali-celebrates-at-indiramma-houses-beneficiaries-tgs26110505337",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "ఫ్యూచర్ సిటీ",
+   "pts": [
+    "ప్రతి విభాగానికి ప్రత్యేక, భద్రతా అధికారి",
+    "పర్యాటకం, రాష్ట్ర చరిత్రపై ప్రదర్శనలు",
+    "ఇతర రాష్ట్రాల సీఎంలకు ఆహ్వానాలు"
+   ],
+   "why": "రాష్ట్రానికి పెట్టుబడులు, ఉద్యోగాల కోసం జరిగే ఈ సదస్సు ఏర్పాట్లు ఇప్పుడు వేగం పుంజుకుంటున్నాయి.",
+   "d": "05.11.2026",
+   "t": "19:35",
+   "en": {
+    "h": "CM Revanth reviews Global Summit arrangements; full plan by Nov 15",
+    "p": "CM Revanth Reddy reviewed arrangements for the Invest Telangana Global Summit-2026 to be held at Hyderabad Future City. He directed officials to submit a full arrangements plan by November 15. Every delegate should have a liaison officer, with registration and passes at the airport itself. Chief Secretary Sanjay Jaju said the summit will be held on December 7, 8 and 9.",
+    "pts": [
+     "Special officer and security officer for each division",
+     "Exhibitions on tourism and state history",
+     "Invitations to chief ministers of other states"
+    ],
+    "why": "Preparations for this summit, aimed at bringing investment and jobs to the state, are now picking up pace.",
+    "cat": "Telangana · Investment",
+    "statl": "Global Summit at Future City"
+   },
+   "hi": {
+    "h": "ग्लोबल समिट की तैयारियों की सीएम रेवंत ने की समीक्षा; 15 तक पूरी योजना",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने हैदराबाद फ्यूचर सिटी में होने वाले इन्वेस्ट तेलंगाना ग्लोबल समिट-2026 की तैयारियों की समीक्षा की। उन्होंने अधिकारियों को 15 नवंबर तक पूरी तैयारी योजना सौंपने का निर्देश दिया। हर प्रतिनिधि के लिए एक संपर्क अधिकारी हो और हवाई अड्डे पर ही पंजीकरण व पास की व्यवस्था हो। मुख्य सचिव संजय जाजू ने बताया कि समिट 7, 8 और 9 दिसंबर को होगा।",
+    "pts": [
+     "हर विभाग के लिए विशेष अधिकारी और सुरक्षा अधिकारी",
+     "पर्यटन और राज्य के इतिहास पर प्रदर्शनियां",
+     "दूसरे राज्यों के मुख्यमंत्रियों को निमंत्रण"
+    ],
+    "why": "राज्य में निवेश और रोजगार लाने के लिए होने वाले इस समिट की तैयारियां अब तेज हो रही हैं।",
+    "cat": "तेलंगाना · निवेश",
+    "statl": "फ्यूचर सिटी में ग्लोबल समिट"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "35,000",
+   "statl": "క్యాన్సర్ రిజిస్ట్రీకి చేరిన కేసులు",
+   "h": "క్యాన్సర్ రిజిస్ట్రీకి 35 వేల కేసులు: హైదరాబాద్‌లో రొమ్ము క్యాన్సరే అధికం",
+   "p": "రాష్ట్రంలో ప్రతి క్యాన్సర్ కేసు నమోదు కోసం ఈ ఏడాది ఏప్రిల్ 7న ప్రారంభించిన క్యాన్సర్ రిజిస్ట్రీకి ఇప్పటివరకు సుమారు 35 వేల కేసులు వచ్చాయని ఎంఎన్‌జే క్యాన్సర్ ఆసుపత్రి డైరెక్టర్ డాక్టర్ సదాశివుడు తెలిపారు. ఈ సమాచారాన్ని ఐసీఎంఆర్‌కు పంపుతున్నారు. సుమారు 13 ఏళ్ల డేటా ప్రకారం హైదరాబాద్‌లో రొమ్ము క్యాన్సర్ ఎక్కువగా ఉండగా, పురుషుల్లో పొగాకు వల్ల నోటి క్యాన్సర్ ఎక్కువ.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/interview-with-mnj-hospital-director-sadashivudu-about-cancer-registry-tgs26110503678",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రిజిస్ట్రీకి నోడల్ కేంద్రంగా ఎంఎన్‌జే ఆసుపత్రి",
+    "పొగాకు, పరోక్ష ధూమపానానికి దూరంగా ఉండాలి",
+    "హెచ్‌పీవీ టీకా, హెపటైటిస్-బీ చికిత్సపై సూచన"
+   ],
+   "why": "క్యాన్సర్ కేసుల సరైన లెక్కలతో నివారణ, చికిత్స ప్రణాళికలు మెరుగవుతాయి; ప్రజలు జాగ్రత్తలు పాటించాలి.",
+   "d": "05.11.2026",
+   "t": "19:35",
+   "en": {
+    "h": "Cancer registry logs 35,000 cases; breast cancer most common in Hyderabad",
+    "p": "About 35,000 cases have so far reached the cancer registry launched on April 7 this year to record every cancer case in the state, said MNJ Cancer Hospital director Dr Sadashivudu. The data is being sent to ICMR. According to about 13 years of data, breast cancer is the most common in Hyderabad, while oral cancer linked to tobacco is most common among men.",
+    "pts": [
+     "MNJ Hospital is the nodal centre for the registry",
+     "Avoid tobacco and passive smoking",
+     "Advice on HPV vaccine and hepatitis B treatment"
+    ],
+    "why": "Accurate counts of cancer cases improve prevention and treatment plans; people should take precautions.",
+    "cat": "Hyderabad · Health",
+    "statl": "cases reach cancer registry"
+   },
+   "hi": {
+    "h": "कैंसर रजिस्ट्री में 35,000 मामले दर्ज; हैदराबाद में स्तन कैंसर सबसे आम",
+    "p": "राज्य में हर कैंसर मामले को दर्ज करने के लिए इस साल 7 अप्रैल को शुरू हुई कैंसर रजिस्ट्री में अब तक करीब 35,000 मामले आए हैं, एमएनजे कैंसर अस्पताल के निदेशक डॉ. सदाशिवुडु ने बताया। यह डेटा आईसीएमआर को भेजा जा रहा है। करीब 13 साल के आंकड़ों के अनुसार हैदराबाद में स्तन कैंसर सबसे आम है, जबकि पुरुषों में तंबाकू से जुड़ा मुंह का कैंसर सबसे ज्यादा है।",
+    "pts": [
+     "एमएनजे अस्पताल रजिस्ट्री का नोडल केंद्र",
+     "तंबाकू और परोक्ष धूम्रपान से दूर रहें",
+     "एचपीवी टीका और हेपेटाइटिस-बी इलाज की सलाह"
+    ],
+    "why": "कैंसर मामलों की सही गिनती से रोकथाम और इलाज की योजनाएं बेहतर होती हैं; लोगों को सावधानी बरतनी चाहिए।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "मामले कैंसर रजिस्ट्री में दर्ज"
+   }
+  },
   {
    "cat": "ఏపీ · అనంతపురం",
    "col": "--c-election",
