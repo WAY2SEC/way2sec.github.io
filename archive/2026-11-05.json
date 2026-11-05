@@ -1,8 +1,106 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 60,
+ "count": 62,
  "stories": [
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+2,009",
+   "statl": "పాయింట్లు ఎగిసిన సెన్సెక్స్",
+   "h": "స్టాక్ మార్కెట్ దూకుడు: 2,009 పాయింట్లు లాభపడి ముగిసిన సెన్సెక్స్",
+   "p": "గురువారం సెన్సెక్స్ 2,008.61 పాయింట్లు (2.6%) పెరిగి 79,310 వద్ద, నిఫ్టీ 576 పాయింట్లు (2.4%) పెరిగి 24,536.60 వద్ద ముగిశాయి. అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్లు కాంగ్రెస్‌ను తిరిగి దక్కించుకోవడంతో అమెరికా-ఇరాన్ ఘర్షణ త్వరగా తగ్గుతుందన్న ఆశలతో ముడి చమురు ధరలు భారీగా పడిపోయాయి. ఇది వరుసగా ఐదో రోజు ర్యాలీ. ఆర్థిక, ఆటో రంగ షేర్లు ముందున్నాయి.",
+   "src": "Business Standard",
+   "url": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html",
+   "sec": [
+    "business",
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "బీఎస్ఈ మార్కెట్ విలువ ₹7.03 లక్షల కోట్లు పెరిగింది",
+    "నిఫ్టీ మిడ్‌క్యాప్ 100 సూచీ 1.87% లాభం",
+    "కెమికల్, మీడియా రంగాలు మాత్రమే వెనుకబడ్డాయి"
+   ],
+   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన లక్షలాది మదుపర్ల సంపద ఒక్కరోజే పెరిగింది.",
+   "d": "05.11.2026",
+   "t": "16:05",
+   "en": {
+    "h": "Markets roar: Sensex closes 2,009 points higher",
+    "p": "On Thursday the Sensex rose 2,008.61 points (2.6%) to close at 79,310, and the Nifty gained 576 points (2.4%) to end at 24,536.60. Crude oil prices fell sharply on hopes of a faster end to the US-Iran conflict after Democrats reclaimed the US Congress in the midterm elections. It was the fifth straight session of gains, led by financial and auto stocks.",
+    "pts": [
+     "BSE market value rose ₹7.03 trillion",
+     "Nifty MidCap 100 gained 1.87%",
+     "Only chemical and media sectors lagged"
+    ],
+    "why": "The wealth of lakhs of investors in shares and mutual funds rose in a single day.",
+    "cat": "India · Markets",
+    "statl": "points gained by the Sensex"
+   },
+   "hi": {
+    "h": "शेयर बाजार में जोरदार उछाल: सेंसेक्स 2,009 अंक चढ़कर बंद",
+    "p": "गुरुवार को सेंसेक्स 2,008.61 अंक (2.6%) चढ़कर 79,310 पर और निफ्टी 576 अंक (2.4%) बढ़कर 24,536.60 पर बंद हुआ। अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स के कांग्रेस पर फिर से कब्जा करने के बाद अमेरिका-ईरान संघर्ष जल्द कम होने की उम्मीद में कच्चे तेल के दाम तेजी से गिरे। यह लगातार पांचवें दिन की तेजी रही, जिसमें वित्तीय और ऑटो शेयर आगे रहे।",
+    "pts": [
+     "BSE बाजार मूल्य ₹7.03 लाख करोड़ बढ़ा",
+     "निफ्टी मिडकैप 100 में 1.87% की बढ़त",
+     "सिर्फ केमिकल और मीडिया सेक्टर पिछड़े"
+    ],
+    "why": "शेयरों और म्यूचुअल फंड में निवेश करने वाले लाखों निवेशकों की संपत्ति एक ही दिन में बढ़ी।",
+    "cat": "भारत · बाजार",
+    "statl": "अंक चढ़ा सेंसेक्स"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · అగ్నిప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "1 గంట",
+   "statl": "లోపే మంటలు అదుపులోకి",
+   "h": "సంగారెడ్డి జిల్లా కంది వద్ద ఎలక్ట్రిక్ స్కూటర్ పరిశ్రమలో భారీ అగ్నిప్రమాదం",
+   "p": "సంగారెడ్డి జిల్లా కంది వద్ద ఉన్న ఎలక్ట్రిక్ స్కూటర్ తయారీ యూనిట్‌లో గురువారం భారీ అగ్నిప్రమాదం జరిగింది. సమాచారం అందగానే అగ్నిమాపక వాహనాలు చేరుకుని గంటలోపే మంటలను అదుపు చేశాయి. ఎవరికీ గాయాలు కాలేదు. యూనిట్‌కు భారీగా ఆస్తి నష్టం జరిగిందని అగ్నిమాపక సిబ్బంది తెలిపారు. విద్యుత్ షార్ట్ సర్క్యూట్ కారణం కావచ్చని ప్రాథమిక అంచనా.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/fire-breaks-out-at-electric-scooter-unit-in-sangareddy-3570057/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కంది",
+   "pts": [
+    "ఈ ప్రమాదంలో ఎవరికీ గాయాలు కాలేదు",
+    "యూనిట్‌కు భారీ ఆస్తి నష్టం",
+    "అసలు కారణం ఇంకా తేలాల్సి ఉంది"
+   ],
+   "why": "పారిశ్రామిక యూనిట్లలో విద్యుత్ భద్రత, అగ్నిమాపక జాగ్రత్తల అవసరాన్ని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "d": "05.11.2026",
+   "t": "16:05",
+   "en": {
+    "h": "Major fire at electric scooter unit at Kandi in Sangareddy district",
+    "p": "A major fire broke out on Thursday at an electric scooter manufacturing unit at Kandi in Sangareddy district. Fire tenders rushed to the spot after being alerted and brought the flames under control within an hour. No one was injured. Firefighters said the unit suffered heavy property damage. A preliminary assessment points to an electrical short circuit.",
+    "pts": [
+     "No one was injured in the fire",
+     "Heavy property damage to the unit",
+     "Exact cause is yet to be ascertained"
+    ],
+    "why": "The incident is a reminder of the need for electrical safety and fire precautions in industrial units.",
+    "cat": "Telangana · Fire",
+    "statl": "flames controlled within an hour"
+   },
+   "hi": {
+    "h": "संगारेड्डी जिले के कंदी में इलेक्ट्रिक स्कूटर यूनिट में भीषण आग",
+    "p": "संगारेड्डी जिले के कंदी में एक इलेक्ट्रिक स्कूटर निर्माण यूनिट में गुरुवार को भीषण आग लग गई। सूचना मिलते ही दमकल गाड़ियां मौके पर पहुंचीं और एक घंटे के भीतर आग पर काबू पा लिया। कोई घायल नहीं हुआ। दमकल कर्मियों ने बताया कि यूनिट को भारी संपत्ति का नुकसान हुआ। शुरुआती आकलन में बिजली का शॉर्ट सर्किट वजह हो सकता है।",
+    "pts": [
+     "आग में कोई घायल नहीं हुआ",
+     "यूनिट को भारी संपत्ति नुकसान",
+     "असली कारण अभी पता लगना बाकी"
+    ],
+    "why": "यह घटना औद्योगिक इकाइयों में बिजली सुरक्षा और आग से बचाव की सावधानियों की जरूरत याद दिलाती है।",
+    "cat": "तेलंगाना · आग",
+    "statl": "एक घंटे के भीतर आग पर काबू"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
