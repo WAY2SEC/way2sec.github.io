@@ -1,8 +1,106 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 88,
+ "count": 90,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "నవం. 6–11",
+   "statl": "చార్మినార్ వైపు రోడ్లు తప్పించుకోండి",
+   "h": "దీపావళి రద్దీ: నవంబర్ 6–11 చార్మినార్ వైపు ట్రాఫిక్ సూచనలు",
+   "p": "దీపావళి సందర్భంగా భాగ్యలక్ష్మి ఆలయానికి భక్తులు భారీగా వచ్చే అవకాశం ఉండటంతో నవంబర్ 6 నుంచి 11 వరకు చార్మినార్ వైపు వెళ్లే రోడ్లను తప్పించుకోవాలని హైదరాబాద్ ట్రాఫిక్ పోలీసులు సూచించారు. మదీనా, ముర్గీ చౌక్, శాలిబండ మార్గాల్లో రద్దీ ఉంటుందని తెలిపారు. భక్తులు నిర్దేశిత పార్కింగ్ స్థలాలను వాడాలని, సహాయం కోసం 9010203626 హెల్ప్‌లైన్‌ను సంప్రదించాలని కోరారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-traffic-advisory-issued-for-charminar-from-november-6",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "చార్మినార్",
+   "pts": [
+    "మదీనా–చార్మినార్, ముర్గీ చౌక్–చార్మినార్ మార్గాల్లో రద్దీ",
+    "చార్మినార్ బస్ టెర్మినల్, కులీ కుతుబ్ షా స్టేడియం వద్ద పార్కింగ్",
+    "ట్రాఫిక్ హెల్ప్‌లైన్: 9010203626"
+   ],
+   "why": "పాతబస్తీ మీదుగా ప్రయాణించే వాహనదారులు, ఆలయానికి వెళ్లే భక్తులు ముందుగా మార్గాలు ప్లాన్ చేసుకోవచ్చు.",
+   "en": {
+    "h": "Diwali rush: Traffic advisory for Charminar from November 6 to 11",
+    "p": "With a large rush of devotees expected at the Bhagyalakshmi Temple during Diwali, Hyderabad Traffic Police advised commuters to avoid roads leading to Charminar from November 6 to 11. Congestion is likely on the Madina, Murgi Chowk and Shah Ali Banda routes. Devotees are asked to use designated parking places and call helpline 9010203626 for help.",
+    "pts": [
+     "Congestion on Madina–Charminar, Murgi Chowk–Charminar routes",
+     "Parking at Charminar Bus Terminal, QQ Stadium and others",
+     "Traffic helpline: 9010203626"
+    ],
+    "why": "Motorists passing through the Old City and temple visitors can plan their routes in advance.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Avoid roads to Charminar"
+   },
+   "hi": {
+    "h": "दिवाली की भीड़: 6 से 11 नवंबर तक चारमीनार के लिए ट्रैफिक सलाह",
+    "p": "दिवाली के दौरान भाग्यलक्ष्मी मंदिर में श्रद्धालुओं की भारी भीड़ की संभावना को देखते हुए हैदराबाद ट्रैफिक पुलिस ने 6 से 11 नवंबर तक चारमीनार की ओर जाने वाली सड़कों से बचने की सलाह दी है। मदीना, मुर्गी चौक और शाह अली बंडा मार्गों पर जाम की संभावना है। श्रद्धालुओं से तय पार्किंग स्थल इस्तेमाल करने और मदद के लिए हेल्पलाइन 9010203626 पर संपर्क करने को कहा गया है।",
+    "pts": [
+     "मदीना–चारमीनार, मुर्गी चौक–चारमीनार मार्गों पर भीड़",
+     "चारमीनार बस टर्मिनल, क्यूक्यू स्टेडियम आदि में पार्किंग",
+     "ट्रैफिक हेल्पलाइन: 9010203626"
+    ],
+    "why": "पुराने शहर से गुजरने वाले वाहन चालक और मंदिर जाने वाले श्रद्धालु पहले से रास्ते तय कर सकते हैं।",
+    "cat": "हैदराबाद · ट्रैफिक",
+    "statl": "चारमीनार की सड़कों से बचें"
+   },
+   "d": "05.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "₹88.50 కోట్లు",
+   "statl": "38 బీసీ సంఘాల భవనాలకు నిధులు",
+   "h": "38 బీసీ సంఘాల ఆత్మగౌరవ భవనాలకు ₹88.50 కోట్లు మంజూరు",
+   "p": "హైదరాబాద్‌లో 38 బీసీ కుల సంఘాల కోసం ఆత్మగౌరవ భవనాల నిర్మాణానికి తెలంగాణ ప్రభుత్వం ₹88.50 కోట్లు మంజూరు చేసింది. జీవో పత్రాలను బీసీ సంక్షేమ మంత్రి పొన్నం ప్రభాకర్ సంఘాల ప్రతినిధులకు అందజేశారు. హెచ్‌ఎండీఏ సహకారంతో స్థలాల సమస్యలు పరిష్కారమయ్యాయని, ఏడాదిలోగా నిర్మాణం పూర్తి చేయాలని లక్ష్యమని తెలిపారు. కేటాయించిన స్థలాలను వెనక్కి తీసుకోబోమని స్పష్టం చేశారు.",
+   "src": "IANS",
+   "url": "https://english.punjabkesari.com/india/telangana-sanctions-rs88-crore-for-building-community-centres-of-38-bc-associations",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "సింగిల్ విండో విధానంలో నిర్మాణ అనుమతులు",
+    "బీసీ సంక్షేమ శాఖ నెలవారీ పురోగతి సమీక్ష",
+    "అందరి కోసం 5 ఎకరాల్లో బీసీ భవన్‌కు సూచన"
+   ],
+   "why": "హైదరాబాద్‌లో 38 బీసీ కుల సంఘాలకు సమావేశాలు, కార్యక్రమాల కోసం సొంత భవనాలు అందుబాటులోకి వస్తాయి.",
+   "en": {
+    "h": "₹88.50 crore sanctioned for self-respect buildings of 38 BC associations",
+    "p": "The Telangana government sanctioned ₹88.50 crore to build 'Atma Gaurava Bhavans' for 38 Backward Class caste associations in Hyderabad. BC Welfare Minister Ponnam Prabhakar handed the GO documents to association representatives. He said land issues were resolved with HMDA's help and the aim is to finish construction within a year. He made clear the allotted plots will not be taken back.",
+    "pts": [
+     "Building permits through a single-window system",
+     "Monthly progress reviews by BC Welfare Department",
+     "Suggestion for a common BC Bhavan on 5 acres"
+    ],
+    "why": "38 BC caste associations in Hyderabad will get their own buildings for meetings and events.",
+    "cat": "Telangana · Welfare",
+    "statl": "Funds for buildings of 38 BC associations"
+   },
+   "hi": {
+    "h": "38 बीसी संघों के आत्मगौरव भवनों के लिए ₹88.50 करोड़ मंजूर",
+    "p": "तेलंगाना सरकार ने हैदराबाद में 38 पिछड़ा वर्ग जाति संघों के लिए 'आत्म गौरव भवन' बनाने हेतु ₹88.50 करोड़ मंजूर किए। बीसी कल्याण मंत्री पोन्नम प्रभाकर ने संघों के प्रतिनिधियों को जीओ दस्तावेज सौंपे। उन्होंने कहा कि एचएमडीए के सहयोग से जमीन की समस्याएं सुलझ गईं और एक साल में निर्माण पूरा करने का लक्ष्य है। उन्होंने साफ किया कि आवंटित प्लॉट वापस नहीं लिए जाएंगे।",
+    "pts": [
+     "सिंगल विंडो प्रणाली से निर्माण अनुमति",
+     "बीसी कल्याण विभाग हर महीने प्रगति की समीक्षा करेगा",
+     "सभी के लिए 5 एकड़ में बीसी भवन का सुझाव"
+    ],
+    "why": "हैदराबाद के 38 बीसी जाति संघों को बैठकों और कार्यक्रमों के लिए अपने भवन मिलेंगे।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "38 बीसी संघों के भवनों के लिए राशि"
+   },
+   "d": "05.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
