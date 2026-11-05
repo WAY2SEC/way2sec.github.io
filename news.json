@@ -1,8 +1,57 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T14:35:00+05:30",
+ "updated": "2026-11-05T15:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹15 కోట్లు",
+   "statl": "క్రిప్టో పెట్టుబడి మోసం విలువ",
+   "h": "₹15 కోట్ల అంతర్జాతీయ క్రిప్టో మోసాన్ని ఛేదించిన ఏపీ సీఐడీ; 8 మంది అరెస్ట్",
+   "p": "అధిక లాభాల ఆశ చూపి తెనాలికి చెందిన ఒక మహిళ నుంచి సుమారు ₹15 కోట్లు కాజేసిన అంతర్జాతీయ క్రిప్టోకరెన్సీ పెట్టుబడి మోసాన్ని ఏపీ సీఐడీ ఛేదించింది. ఆ డబ్బు నకిలీ ప్లాట్‌ఫామ్‌లు, మ్యూల్ ఖాతాల ద్వారా కేమన్ దీవుల్లోని ఒక ఎక్స్ఛేంజ్‌కు చేరగా, సంబంధిత ఖాతాలను కోర్టు ద్వారా స్తంభింపజేశారు. హైదరాబాద్, మహారాష్ట్ర, మలేషియా, చైనా, పోర్చుగల్‌కు చెందిన 8 మందిని అరెస్ట్ చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/andhra-pradesh-cid-cracks-rs-15-crore-transnational-cryptocurrency-fraud",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-guntur",
+   "loc": "తెనాలి",
+   "pts": [
+    "మంగళగిరి సీఐడీ పోలీస్ స్టేషన్‌లో కేసు నమోదు",
+    "బిట్‌కాయిన్, సొలానా, డోజ్‌కాయిన్‌లో 27 లావాదేవీలు",
+    "స్తంభించిన నిధులు బాధితురాలికి ఇవ్వాలని గుంటూరు కోర్టు ఆదేశం"
+   ],
+   "why": "అధిక లాభాల పేరుతో వచ్చే ఆన్‌లైన్ క్రిప్టో పెట్టుబడి ఆఫర్ల విషయంలో ప్రజలు జాగ్రత్తగా ఉండాల్సిన అవసరాన్ని ఈ కేసు చూపిస్తోంది.",
+   "d": "05.11.2026",
+   "t": "15:05",
+   "en": {
+    "h": "AP CID cracks ₹15 crore transnational crypto fraud; 8 arrested",
+    "p": "The Andhra Pradesh CID has cracked a transnational cryptocurrency investment fraud in which a woman from Tenali was lured with promises of high returns and lost about ₹15 crore. The money reached an exchange in the Cayman Islands through fake platforms and mule accounts, and the linked accounts were frozen through the court. Eight people from Hyderabad, Maharashtra, Malaysia, China and Portugal were arrested.",
+    "pts": [
+     "Case registered at CID police station in Mangalagiri",
+     "27 transactions in Bitcoin, Solana and Dogecoin",
+     "Guntur court orders frozen funds returned to victim"
+    ],
+    "why": "The case shows why people must be careful with online crypto investment offers promising high returns.",
+    "cat": "Andhra Pradesh · Cyber crime",
+    "statl": "Value of crypto investment fraud"
+   },
+   "hi": {
+    "h": "आंध्र CID ने ₹15 करोड़ की अंतरराष्ट्रीय क्रिप्टो ठगी पकड़ी; 8 गिरफ्तार",
+    "p": "आंध्र प्रदेश CID ने एक अंतरराष्ट्रीय क्रिप्टोकरेंसी निवेश ठगी का खुलासा किया है, जिसमें तेनाली की एक महिला से ऊंचे मुनाफे का लालच देकर करीब ₹15 करोड़ ठगे गए। यह पैसा फर्जी प्लेटफॉर्म और म्यूल खातों के जरिए केमैन आइलैंड्स के एक एक्सचेंज तक पहुंचा, जिसके संबंधित खाते अदालत के जरिए फ्रीज किए गए। हैदराबाद, महाराष्ट्र, मलेशिया, चीन और पुर्तगाल के 8 लोगों को गिरफ्तार किया गया।",
+    "pts": [
+     "मंगलगिरि CID थाने में मामला दर्ज",
+     "बिटकॉइन, सोलाना और डॉजकॉइन में 27 लेनदेन",
+     "गुंटूर अदालत ने फ्रीज राशि पीड़िता को देने का आदेश दिया"
+    ],
+    "why": "यह मामला दिखाता है कि ऊंचे मुनाफे का वादा करने वाले ऑनलाइन क्रिप्टो निवेश ऑफर से लोगों को सावधान रहना चाहिए।",
+    "cat": "आंध्र प्रदेश · साइबर अपराध",
+    "statl": "क्रिप्टो निवेश ठगी की राशि"
+   }
+  },
   {
    "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
    "col": "--c-election",
@@ -1702,55 +1751,6 @@
      "कलेक्टर दिवाकर ने मौके पर निगरानी की"
     ],
     "why": "रात भर चिंता में रहे बचाव कर्मियों और मछुआरों के परिवारों के लिए यह राहत की खबर है।"
-   },
-   "d": "05.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "ఏపీ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "44",
-   "statl": "కేంద్రాల్లో 3 గంటల వరకే",
-   "h": "ఏపీ పరిషత్ పోలింగ్: వర్షంతో ఓటర్ల ఇక్కట్లు; పోలవరంలో 44 కేంద్రాల్లో 3 వరకే",
-   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ పోలింగ్ కొనసాగుతుండగా పలుచోట్ల వర్షం ఓటర్లను ఇబ్బంది పెడుతోంది. కృష్ణా జిల్లా నందివాడ మండలం జనార్దనపురం కేంద్రంలో నీరు నిలవడంతో సిబ్బంది ఇసుక బస్తాలు వేశారు. ప్రకాశం జిల్లా అద్దంకి, గుడ్లూరు, నాగులపాడు ప్రాంతాల్లోనూ కేంద్రాల వద్ద నీరు చేరింది. పోలవరం జిల్లాలో మావోయిస్టు ప్రభావిత 44 కేంద్రాల్లో మధ్యాహ్నం 3 వరకే పోలింగ్ జరుగుతుంది.",
-   "pts": [
-    "నందివాడలో ఇసుక బస్తాలపై నడిచి ఓటేసిన వృద్ధులు",
-    "పోలవరం జిల్లాలో 368 కేంద్రాలు, 2,78,545 మంది ఓటర్లు",
-    "నెల్లూరు జిల్లాలో 1,568 కేంద్రాలు, 3,000 మంది పోలీసులు"
-   ],
-   "why": "వర్షం వల్ల ముఖ్యంగా వృద్ధులు, దివ్యాంగ ఓటర్లు పోలింగ్ కేంద్రాలకు చేరడంలో ఇబ్బంది పడుతున్నారు.",
-   "src": "Andhra Jyothy, ETV Bharat",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "en": {
-    "cat": "Andhra Pradesh · Elections",
-    "statl": "Booths polling only till 3 pm",
-    "h": "AP parishad polls: rain troubles voters; 44 Polavaram booths close at 3 pm",
-    "p": "As MPTC and ZPTC polling continues in Andhra Pradesh, rain is troubling voters in several places. Water stagnated at the Janardhanapuram centre in Nandivada mandal of Krishna district, and staff laid sand bags. Water also collected at centres in Addanki, Gudluru and Nagulapadu areas of Prakasam district. In Polavaram district, 44 Maoist-affected centres will poll only till 3 pm.",
-    "pts": [
-     "Elderly voters walked on sand bags to vote in Nandivada",
-     "Polavaram district: 368 centres, 2,78,545 voters",
-     "Nellore district: 1,568 centres, 3,000 police"
-    ],
-    "why": "Rain is making it hard especially for elderly and differently-abled voters to reach polling centres."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · चुनाव",
-    "statl": "बूथों पर दोपहर 3 बजे तक ही",
-    "h": "आंध्र परिषद मतदान: बारिश से मतदाता परेशान; पोलावरम के 44 बूथों पर 3 बजे तक",
-    "p": "आंध्र प्रदेश में MPTC और ZPTC मतदान जारी है, लेकिन कई जगहों पर बारिश मतदाताओं को परेशान कर रही है। कृष्णा जिले के नंदिवाडा मंडल के जनार्दनपुरम केंद्र में पानी भरने पर कर्मचारियों ने रेत की बोरियां बिछाईं। प्रकाशम जिले के अद्दंकी, गुडलूरु और नागुलपाडु इलाकों के केंद्रों पर भी पानी जमा हुआ। पोलावरम जिले के 44 माओवादी प्रभावित केंद्रों पर दोपहर 3 बजे तक ही मतदान होगा।",
-    "pts": [
-     "नंदिवाडा में बुजुर्गों ने रेत की बोरियों पर चलकर वोट डाला",
-     "पोलावरम जिले में 368 केंद्र, 2,78,545 मतदाता",
-     "नेल्लोर जिले में 1,568 केंद्र, 3,000 पुलिसकर्मी"
-    ],
-    "why": "बारिश के कारण खासकर बुजुर्ग और दिव्यांग मतदाताओं को मतदान केंद्रों तक पहुंचने में कठिनाई हो रही है।"
    },
    "d": "05.11.2026",
    "t": "08:35"
