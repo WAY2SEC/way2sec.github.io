@@ -1,8 +1,154 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 13,
+ "count": 16,
  "stories": [
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+340",
+   "statl": "గిఫ్ట్ నిఫ్టీ పాయింట్ల జంప్",
+   "h": "స్టాక్ మార్కెట్లకు భారీ లాభాల సంకేతం: ముడి చమురు ధర పతనం",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల ఫలితాల తర్వాత ముడి చమురు ధర భారీగా తగ్గింది. బ్రెంట్ క్రూడ్ సుమారు 93 డాలర్లకు, రెండు నెలల కనిష్ఠానికి పడిపోయింది. దీంతో గిఫ్ట్ నిఫ్టీ దాదాపు 340 పాయింట్లు పెరిగి 24,300 పైకి చేరింది. నేడు సెన్సెక్స్, నిఫ్టీ గ్యాప్-అప్‌తో ప్రారంభం కావచ్చని నిపుణులు అంటున్నారు.",
+   "pts": [
+    "బుధవారం నిఫ్టీ 23,960.60 వద్ద ముగింపు",
+    "విదేశీ సంస్థల నికర కొనుగోళ్లు సుమారు ₹7,284 కోట్లు",
+    "నిఫ్టీకి వరుసగా ఐదో రోజు లాభాలు"
+   ],
+   "why": "చమురు ధర తగ్గడం పెట్టుబడిదారులకు, పెట్రోల్ దిగుమతులపై ఆధారపడే దేశ ఆర్థిక వ్యవస్థకు ముఖ్యం.",
+   "src": "Business Standard",
+   "url": "https://hindi.business-standard.com/markets/stock-market/stock-market-live-updates-5-november-2026-sensex-nifty-today-gift-nifty-crude-oil-price-crash-id-565419",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Markets",
+    "statl": "GIFT Nifty points jump",
+    "h": "Markets signal strong gains as crude oil prices fall sharply",
+    "p": "Crude oil prices fell sharply after the US midterm election results. Brent crude dropped to about $93, a two-month low. GIFT Nifty rose about 340 points to above 24,300. Experts say the Sensex and Nifty may open with a gap-up today.",
+    "pts": [
+     "Nifty closed at 23,960.60 on Wednesday",
+     "Foreign investors net bought about ₹7,284 crore",
+     "Nifty gained for a fifth straight session"
+    ],
+    "why": "Lower oil prices matter for investors and for India's economy, which depends on oil imports."
+   },
+   "hi": {
+    "cat": "भारत · बाज़ार",
+    "statl": "गिफ्ट निफ्टी अंकों की छलांग",
+    "h": "कच्चे तेल के दाम गिरे, शेयर बाज़ार में तेज़ी के संकेत",
+    "p": "अमेरिकी मध्यावधि चुनाव नतीजों के बाद कच्चे तेल के दाम तेज़ी से गिरे। ब्रेंट क्रूड करीब 93 डॉलर पर, दो महीने के निचले स्तर पर आ गया। गिफ्ट निफ्टी करीब 340 अंक उछलकर 24,300 के ऊपर पहुंचा। विशेषज्ञों के अनुसार आज सेंसेक्स और निफ्टी गैप-अप के साथ खुल सकते हैं।",
+    "pts": [
+     "बुधवार को निफ्टी 23,960.60 पर बंद",
+     "विदेशी निवेशकों की करीब ₹7,284 करोड़ की शुद्ध खरीद",
+     "निफ्टी में लगातार पांचवें दिन बढ़त"
+    ],
+    "why": "तेल के दाम घटना निवेशकों और तेल आयात पर निर्भर भारत की अर्थव्यवस्था के लिए अहम है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "నవంబర్ 7",
+   "statl": "నుంచి చలి పెరిగే అవకాశం",
+   "h": "నేడు అక్కడక్కడ ఉరుముల వానలు; నవంబర్ 7 నుంచి చలి తీవ్రం",
+   "p": "మురసు తుపాను ప్రభావం ముగిసినా, మిగిలిన తేమ వల్ల నేడు తెలంగాణలో అక్కడక్కడ ఉరుములతో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు. హైదరాబాద్‌లో మధ్యాహ్నం వరకు పొడి వాతావరణం, తర్వాత కొన్నిచోట్ల చిరుజల్లులు. నవంబర్ 7–8 నాటికి వర్షాలు తగ్గి, ఉష్ణోగ్రతలు పడిపోయి చలి పెరుగుతుందని తెలంగాణ వెదర్‌మ్యాన్ అంచనా.",
+   "pts": [
+    "నల్గొండ, సూర్యాపేట, ఖమ్మం, కొత్తగూడెంలో ఉరుముల వానలు",
+    "ఇవి భారీ వర్షాలు కావు, కొద్దిసేపే",
+    "హైదరాబాద్‌లో భారీ వర్షం భయం లేదు"
+   ],
+   "why": "రైతులు, ప్రయాణికులు నేటి వానలకు, వచ్చే వారం చలికి సిద్ధంగా ఉండాలి.",
+   "src": "NewsMeter",
+   "url": "https://telugu.newsmeter.in/telangana/telangana-weather-update-scattered-thunderstorms-likely-today-cold-wave-to-set-in-from-nov-7-778758",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "cat": "Telangana · Weather",
+    "statl": "Cold likely to intensify from",
+    "h": "Scattered thundershowers today; cold to intensify from November 7",
+    "p": "Though Cyclone Murasu's effect has ended, leftover moisture may bring isolated thunderstorms with light to moderate rain in parts of Telangana today. Hyderabad will stay dry till afternoon, with light showers in some areas later. Telangana Weatherman expects rain to subside by November 7–8, with temperatures falling and cold increasing.",
+    "pts": [
+     "Thundershowers in Nalgonda, Suryapet, Khammam, Kothagudem",
+     "Not heavy rain, short-lived spells",
+     "No heavy rain worry for Hyderabad"
+    ],
+    "why": "Farmers and travellers should prepare for today's showers and next week's cold."
+   },
+   "hi": {
+    "cat": "तेलंगाना · मौसम",
+    "statl": "से ठंड बढ़ने की संभावना",
+    "h": "आज कहीं-कहीं गरज के साथ बारिश; 7 नवंबर से ठंड तेज़",
+    "p": "चक्रवात मुरासु का असर खत्म होने के बावजूद बची नमी से आज तेलंगाना में कहीं-कहीं गरज के साथ हल्की से मध्यम बारिश हो सकती है। हैदराबाद में दोपहर तक मौसम सूखा रहेगा, बाद में कुछ इलाकों में हल्की बौछारें। तेलंगाना वेदरमैन के अनुसार 7–8 नवंबर तक बारिश थमेगी, तापमान गिरेगा और ठंड बढ़ेगी।",
+    "pts": [
+     "नलगोंडा, सूर्यापेट, खम्मम, कोत्तागुडेम में गरज के साथ बारिश",
+     "भारी बारिश नहीं, थोड़ी देर की",
+     "हैदराबाद में भारी बारिश की चिंता नहीं"
+    ],
+    "why": "किसान और यात्री आज की बारिश और अगले हफ्ते की ठंड के लिए तैयार रहें।"
+   },
+   "d": "05.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "90%",
+   "statl": "కాలిన గాయాలు",
+   "h": "విశాఖ స్టీల్ ప్లాంట్‌లో ప్రమాదం: కాంట్రాక్ట్ కార్మికుడి పరిస్థితి విషమం",
+   "p": "విశాఖపట్నం స్టీల్ ప్లాంట్‌లో బుధవారం అర్ధరాత్రి దాటాక జరిగిన ప్రమాదంలో ఒక కాంట్రాక్ట్ కార్మికుడిపై సుమారు 150 డిగ్రీల వేడి ద్రవం పడింది. అతనికి 90 శాతం కాలిన గాయాలయ్యాయి. ప్రైవేట్ ఆసుపత్రికి తరలించగా, పరిస్థితి విషమంగా ఉందని వైద్యులు తెలిపారు.",
+   "pts": [
+    "సుమారు 150 డిగ్రీల వేడి ద్రవం పడింది",
+    "ప్రైవేట్ ఆసుపత్రిలో చికిత్స",
+    "కార్మికుడు విజయనగరం జిల్లాకు చెందినవారు"
+   ],
+   "why": "భారీ పరిశ్రమల్లో కార్మికుల భద్రతపై ఈ ప్రమాదం మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "en": {
+    "cat": "Andhra Pradesh · Visakhapatnam",
+    "statl": "Burn injuries",
+    "h": "Visakhapatnam Steel Plant accident: contract worker critical",
+    "p": "In an accident at the Visakhapatnam Steel Plant shortly after midnight on Wednesday, hot liquid at about 150 degrees fell on a contract worker. He suffered 90 percent burns. He was shifted to a private hospital, where doctors said his condition is critical.",
+    "pts": [
+     "Hot liquid at about 150 degrees fell on him",
+     "Being treated at a private hospital",
+     "Worker hails from Vizianagaram district"
+    ],
+    "why": "The accident again raises questions about worker safety in heavy industries."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "जलने की चोटें",
+    "h": "विशाखापत्तनम स्टील प्लांट में हादसा: ठेका मज़दूर की हालत गंभीर",
+    "p": "विशाखापत्तनम स्टील प्लांट में बुधवार आधी रात के बाद हुए हादसे में एक ठेका मज़दूर पर करीब 150 डिग्री का गर्म द्रव गिर गया। वह 90 प्रतिशत झुलस गया। उसे निजी अस्पताल ले जाया गया, जहां डॉक्टरों ने उसकी हालत गंभीर बताई।",
+    "pts": [
+     "करीब 150 डिग्री का गर्म द्रव गिरा",
+     "निजी अस्पताल में इलाज",
+     "मज़दूर विजयनगरम ज़िले का निवासी"
+    ],
+    "why": "यह हादसा भारी उद्योगों में मज़दूरों की सुरक्षा पर फिर सवाल उठाता है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "ఏపీ · విద్య",
    "col": "--c-money",

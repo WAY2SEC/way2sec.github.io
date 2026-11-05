@@ -1,8 +1,154 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T07:35:00+05:30",
+ "updated": "2026-11-05T08:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+340",
+   "statl": "గిఫ్ట్ నిఫ్టీ పాయింట్ల జంప్",
+   "h": "స్టాక్ మార్కెట్లకు భారీ లాభాల సంకేతం: ముడి చమురు ధర పతనం",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల ఫలితాల తర్వాత ముడి చమురు ధర భారీగా తగ్గింది. బ్రెంట్ క్రూడ్ సుమారు 93 డాలర్లకు, రెండు నెలల కనిష్ఠానికి పడిపోయింది. దీంతో గిఫ్ట్ నిఫ్టీ దాదాపు 340 పాయింట్లు పెరిగి 24,300 పైకి చేరింది. నేడు సెన్సెక్స్, నిఫ్టీ గ్యాప్-అప్‌తో ప్రారంభం కావచ్చని నిపుణులు అంటున్నారు.",
+   "pts": [
+    "బుధవారం నిఫ్టీ 23,960.60 వద్ద ముగింపు",
+    "విదేశీ సంస్థల నికర కొనుగోళ్లు సుమారు ₹7,284 కోట్లు",
+    "నిఫ్టీకి వరుసగా ఐదో రోజు లాభాలు"
+   ],
+   "why": "చమురు ధర తగ్గడం పెట్టుబడిదారులకు, పెట్రోల్ దిగుమతులపై ఆధారపడే దేశ ఆర్థిక వ్యవస్థకు ముఖ్యం.",
+   "src": "Business Standard",
+   "url": "https://hindi.business-standard.com/markets/stock-market/stock-market-live-updates-5-november-2026-sensex-nifty-today-gift-nifty-crude-oil-price-crash-id-565419",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Markets",
+    "statl": "GIFT Nifty points jump",
+    "h": "Markets signal strong gains as crude oil prices fall sharply",
+    "p": "Crude oil prices fell sharply after the US midterm election results. Brent crude dropped to about $93, a two-month low. GIFT Nifty rose about 340 points to above 24,300. Experts say the Sensex and Nifty may open with a gap-up today.",
+    "pts": [
+     "Nifty closed at 23,960.60 on Wednesday",
+     "Foreign investors net bought about ₹7,284 crore",
+     "Nifty gained for a fifth straight session"
+    ],
+    "why": "Lower oil prices matter for investors and for India's economy, which depends on oil imports."
+   },
+   "hi": {
+    "cat": "भारत · बाज़ार",
+    "statl": "गिफ्ट निफ्टी अंकों की छलांग",
+    "h": "कच्चे तेल के दाम गिरे, शेयर बाज़ार में तेज़ी के संकेत",
+    "p": "अमेरिकी मध्यावधि चुनाव नतीजों के बाद कच्चे तेल के दाम तेज़ी से गिरे। ब्रेंट क्रूड करीब 93 डॉलर पर, दो महीने के निचले स्तर पर आ गया। गिफ्ट निफ्टी करीब 340 अंक उछलकर 24,300 के ऊपर पहुंचा। विशेषज्ञों के अनुसार आज सेंसेक्स और निफ्टी गैप-अप के साथ खुल सकते हैं।",
+    "pts": [
+     "बुधवार को निफ्टी 23,960.60 पर बंद",
+     "विदेशी निवेशकों की करीब ₹7,284 करोड़ की शुद्ध खरीद",
+     "निफ्टी में लगातार पांचवें दिन बढ़त"
+    ],
+    "why": "तेल के दाम घटना निवेशकों और तेल आयात पर निर्भर भारत की अर्थव्यवस्था के लिए अहम है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "నవంబర్ 7",
+   "statl": "నుంచి చలి పెరిగే అవకాశం",
+   "h": "నేడు అక్కడక్కడ ఉరుముల వానలు; నవంబర్ 7 నుంచి చలి తీవ్రం",
+   "p": "మురసు తుపాను ప్రభావం ముగిసినా, మిగిలిన తేమ వల్ల నేడు తెలంగాణలో అక్కడక్కడ ఉరుములతో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు. హైదరాబాద్‌లో మధ్యాహ్నం వరకు పొడి వాతావరణం, తర్వాత కొన్నిచోట్ల చిరుజల్లులు. నవంబర్ 7–8 నాటికి వర్షాలు తగ్గి, ఉష్ణోగ్రతలు పడిపోయి చలి పెరుగుతుందని తెలంగాణ వెదర్‌మ్యాన్ అంచనా.",
+   "pts": [
+    "నల్గొండ, సూర్యాపేట, ఖమ్మం, కొత్తగూడెంలో ఉరుముల వానలు",
+    "ఇవి భారీ వర్షాలు కావు, కొద్దిసేపే",
+    "హైదరాబాద్‌లో భారీ వర్షం భయం లేదు"
+   ],
+   "why": "రైతులు, ప్రయాణికులు నేటి వానలకు, వచ్చే వారం చలికి సిద్ధంగా ఉండాలి.",
+   "src": "NewsMeter",
+   "url": "https://telugu.newsmeter.in/telangana/telangana-weather-update-scattered-thunderstorms-likely-today-cold-wave-to-set-in-from-nov-7-778758",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "cat": "Telangana · Weather",
+    "statl": "Cold likely to intensify from",
+    "h": "Scattered thundershowers today; cold to intensify from November 7",
+    "p": "Though Cyclone Murasu's effect has ended, leftover moisture may bring isolated thunderstorms with light to moderate rain in parts of Telangana today. Hyderabad will stay dry till afternoon, with light showers in some areas later. Telangana Weatherman expects rain to subside by November 7–8, with temperatures falling and cold increasing.",
+    "pts": [
+     "Thundershowers in Nalgonda, Suryapet, Khammam, Kothagudem",
+     "Not heavy rain, short-lived spells",
+     "No heavy rain worry for Hyderabad"
+    ],
+    "why": "Farmers and travellers should prepare for today's showers and next week's cold."
+   },
+   "hi": {
+    "cat": "तेलंगाना · मौसम",
+    "statl": "से ठंड बढ़ने की संभावना",
+    "h": "आज कहीं-कहीं गरज के साथ बारिश; 7 नवंबर से ठंड तेज़",
+    "p": "चक्रवात मुरासु का असर खत्म होने के बावजूद बची नमी से आज तेलंगाना में कहीं-कहीं गरज के साथ हल्की से मध्यम बारिश हो सकती है। हैदराबाद में दोपहर तक मौसम सूखा रहेगा, बाद में कुछ इलाकों में हल्की बौछारें। तेलंगाना वेदरमैन के अनुसार 7–8 नवंबर तक बारिश थमेगी, तापमान गिरेगा और ठंड बढ़ेगी।",
+    "pts": [
+     "नलगोंडा, सूर्यापेट, खम्मम, कोत्तागुडेम में गरज के साथ बारिश",
+     "भारी बारिश नहीं, थोड़ी देर की",
+     "हैदराबाद में भारी बारिश की चिंता नहीं"
+    ],
+    "why": "किसान और यात्री आज की बारिश और अगले हफ्ते की ठंड के लिए तैयार रहें।"
+   },
+   "d": "05.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "90%",
+   "statl": "కాలిన గాయాలు",
+   "h": "విశాఖ స్టీల్ ప్లాంట్‌లో ప్రమాదం: కాంట్రాక్ట్ కార్మికుడి పరిస్థితి విషమం",
+   "p": "విశాఖపట్నం స్టీల్ ప్లాంట్‌లో బుధవారం అర్ధరాత్రి దాటాక జరిగిన ప్రమాదంలో ఒక కాంట్రాక్ట్ కార్మికుడిపై సుమారు 150 డిగ్రీల వేడి ద్రవం పడింది. అతనికి 90 శాతం కాలిన గాయాలయ్యాయి. ప్రైవేట్ ఆసుపత్రికి తరలించగా, పరిస్థితి విషమంగా ఉందని వైద్యులు తెలిపారు.",
+   "pts": [
+    "సుమారు 150 డిగ్రీల వేడి ద్రవం పడింది",
+    "ప్రైవేట్ ఆసుపత్రిలో చికిత్స",
+    "కార్మికుడు విజయనగరం జిల్లాకు చెందినవారు"
+   ],
+   "why": "భారీ పరిశ్రమల్లో కార్మికుల భద్రతపై ఈ ప్రమాదం మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "en": {
+    "cat": "Andhra Pradesh · Visakhapatnam",
+    "statl": "Burn injuries",
+    "h": "Visakhapatnam Steel Plant accident: contract worker critical",
+    "p": "In an accident at the Visakhapatnam Steel Plant shortly after midnight on Wednesday, hot liquid at about 150 degrees fell on a contract worker. He suffered 90 percent burns. He was shifted to a private hospital, where doctors said his condition is critical.",
+    "pts": [
+     "Hot liquid at about 150 degrees fell on him",
+     "Being treated at a private hospital",
+     "Worker hails from Vizianagaram district"
+    ],
+    "why": "The accident again raises questions about worker safety in heavy industries."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "जलने की चोटें",
+    "h": "विशाखापत्तनम स्टील प्लांट में हादसा: ठेका मज़दूर की हालत गंभीर",
+    "p": "विशाखापत्तनम स्टील प्लांट में बुधवार आधी रात के बाद हुए हादसे में एक ठेका मज़दूर पर करीब 150 डिग्री का गर्म द्रव गिर गया। वह 90 प्रतिशत झुलस गया। उसे निजी अस्पताल ले जाया गया, जहां डॉक्टरों ने उसकी हालत गंभीर बताई।",
+    "pts": [
+     "करीब 150 डिग्री का गर्म द्रव गिरा",
+     "निजी अस्पताल में इलाज",
+     "मज़दूर विजयनगरम ज़िले का निवासी"
+    ],
+    "why": "यह हादसा भारी उद्योगों में मज़दूरों की सुरक्षा पर फिर सवाल उठाता है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "ఏపీ · విద్య",
    "col": "--c-money",
@@ -1640,104 +1786,6 @@
    }
   },
   {
-   "cat": "భారత్ · ఏఐ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "22",
-   "statl": "భారతీయ భాషల్లో పనిచేసే ఏకా-1",
-   "h": "ఇండియాఏఐ మిషన్: మూడు స్వదేశీ ఏఐ మోడళ్లు విడుదల",
-   "p": "కేంద్ర ఐటీ శాఖ ఇండియాఏఐ మిషన్ కింద రూపొందిన ఏకా-1, ధీర్-2బీ, ధీర్-5బీ అనే మూడు స్వదేశీ ఏఐ మోడళ్లను ఐటీ కార్యదర్శి ఎస్. కృష్ణన్ విడుదల చేశారు. ఇవి ఇంటర్నెట్ లేకుండానే మొబైల్ ఫోన్లలో పనిచేస్తాయి. బెంగళూరు సంస్థ రూపొందించిన ఏకా-1 ఇంగ్లిష్‌తో పాటు రాజ్యాంగం గుర్తించిన 22 భారతీయ భాషల్లో పనిచేస్తుంది. ప్రభుత్వ, రక్షణ, విద్య రంగాల్లో వీటిని వాడుకోవచ్చని అధికారులు తెలిపారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/bharat/meity-unveils-indigenous-ai-models-eka-1-dhir-2b-and-5b-under-indiaai-mission-ten26110400555",
-   "sec": [
-    "india",
-    "ai"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ఏకా-1లో 26.3 బిలియన్ పారామీటర్లు",
-    "ధీర్ మోడళ్లు ఇంగ్లిష్, 10 భారతీయ భాషల్లో",
-    "అపాచీ 2.0 లైసెన్స్‌తో మోడల్ వెయిట్స్ విడుదల కానున్నాయి"
-   ],
-   "why": "డేటా భద్రత ముఖ్యమైన రంగాల్లో తెలుగు సహా భారతీయ భాషల్లో దేశీయ ఏఐ వాడుకునే అవకాశం.",
-   "d": "04.11.2026",
-   "t": "18:35",
-   "en": {
-    "h": "IndiaAI Mission: three indigenous AI models released",
-    "p": "IT Secretary S. Krishnan released three indigenous AI models, Eka-1, Dhir-2B and Dhir-5B, developed under the Union IT Ministry's IndiaAI Mission. They can run on mobile phones without the internet. Eka-1, built by a Bengaluru company, works in English and the 22 Indian languages recognised by the Constitution. Officials said they can be used in government, defence and education.",
-    "pts": [
-     "Eka-1 has 26.3 billion parameters",
-     "Dhir models work in English and 10 Indian languages",
-     "Model weights to be released under Apache 2.0 licence"
-    ],
-    "why": "Sectors where data security matters can use home-grown AI in Indian languages, including Telugu.",
-    "cat": "India · AI",
-    "statl": "Indian languages supported by Eka-1"
-   },
-   "hi": {
-    "h": "इंडियाएआई मिशन: तीन स्वदेशी एआई मॉडल जारी",
-    "p": "केंद्रीय आईटी मंत्रालय के इंडियाएआई मिशन के तहत बने तीन स्वदेशी एआई मॉडल एका-1, धीर-2बी और धीर-5बी को आईटी सचिव एस. कृष्णन ने जारी किया। ये इंटरनेट के बिना मोबाइल फोन पर चलते हैं। बेंगलुरु की कंपनी द्वारा बनाया गया एका-1 अंग्रेजी के साथ संविधान से मान्य 22 भारतीय भाषाओं में काम करता है। अधिकारियों ने कहा कि इन्हें सरकार, रक्षा और शिक्षा क्षेत्रों में इस्तेमाल किया जा सकता है।",
-    "pts": [
-     "एका-1 में 26.3 अरब पैरामीटर",
-     "धीर मॉडल अंग्रेजी और 10 भारतीय भाषाओं में",
-     "मॉडल वेट्स अपाचे 2.0 लाइसेंस के तहत जारी होंगे"
-    ],
-    "why": "डेटा सुरक्षा वाले क्षेत्रों में तेलुगु समेत भारतीय भाषाओं में देसी एआई इस्तेमाल का मौका।",
-    "cat": "भारत · एआई",
-    "statl": "भारतीय भाषाओं में चलता है एका-1"
-   }
-  },
-  {
-   "cat": "తమిళనాడు · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "నవం. 7–8",
-   "statl": "తమిళనాడులో విస్తృత వర్షాలు",
-   "h": "తమిళనాడులో 7, 8 తేదీల్లో విస్తృత వర్షాలు: ఐఎండీ",
-   "p": "మురసు తుపాను బలహీనపడి ఏర్పడిన వాయుగుండం తూర్పు తెలంగాణ, కోస్తా ఏపీపై ఉందని ఐఎండీ తెలిపింది. దీంతో బుధవారం కోస్తా ఏపీ, తెలంగాణలో అక్కడక్కడా అతి భారీ వర్షాలు, దక్షిణ ఒడిశా, దక్షిణ ఛత్తీస్‌గఢ్‌లో భారీ వర్షాలు పడే అవకాశం ఉంది. తమిళనాడులో శనివారం, ఆదివారం (నవంబర్ 7, 8) విస్తృతంగా వానలు కురుస్తాయని, 9, 10 తేదీల్లో మళ్లీ వర్షాలు ఉంటాయని అంచనా వేసింది.",
-   "src": "The Week",
-   "url": "https://www.theweek.in/news/india/2026/11/04/imd-forecasts-more-rain-in-chennai-tamil-nadu-andhra-pradesh-to-get-showers-this-week.html",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "TN",
-   "place": "st-TN",
-   "pts": [
-    "తెలంగాణలో నవంబర్ 7 వరకు అక్కడక్కడా వర్షాలు",
-    "కోస్తా ఏపీలో నవంబర్ 10 వరకు వానలు",
-    "వాయవ్య, పశ్చిమ, ఈశాన్య భారత్‌లో పెద్ద మార్పుల్లేవు"
-   ],
-   "why": "తమిళనాడు, ఏపీ, తెలంగాణ ప్రజలు వారాంతపు ప్రయాణాలు, పనులు ప్లాన్ చేసుకునేందుకు ఉపయోగం.",
-   "d": "04.11.2026",
-   "t": "18:35",
-   "en": {
-    "h": "Widespread rain in Tamil Nadu on November 7 and 8: IMD",
-    "p": "IMD said a depression formed from the weakened Cyclone Murasu lies over east Telangana and coastal Andhra Pradesh. As a result, isolated very heavy rain is likely in coastal AP and Telangana on Wednesday, and heavy rain in south Odisha and south Chhattisgarh. Tamil Nadu is expected to get widespread rain on Saturday and Sunday (November 7, 8), with rain returning on November 9 and 10.",
-    "pts": [
-     "Isolated rain in Telangana until November 7",
-     "Rain in coastal AP until November 10",
-     "No significant weather in Northwest, West, Northeast India"
-    ],
-    "why": "Useful for people in Tamil Nadu, AP and Telangana to plan weekend travel and work.",
-    "cat": "Tamil Nadu · Weather",
-    "statl": "Widespread rain in Tamil Nadu"
-   },
-   "hi": {
-    "h": "तमिलनाडु में 7 और 8 नवंबर को व्यापक बारिश: आईएमडी",
-    "p": "आईएमडी ने बताया कि कमजोर हुए चक्रवात मुरसु से बना डिप्रेशन पूर्वी तेलंगाना और तटीय आंध्र प्रदेश पर है। इससे बुधवार को तटीय आंध्र और तेलंगाना में कहीं-कहीं बहुत भारी बारिश और दक्षिण ओडिशा व दक्षिण छत्तीसगढ़ में भारी बारिश की संभावना है। तमिलनाडु में शनिवार और रविवार (7, 8 नवंबर) को व्यापक बारिश और 9, 10 नवंबर को फिर बारिश का अनुमान है।",
-    "pts": [
-     "तेलंगाना में 7 नवंबर तक कहीं-कहीं बारिश",
-     "तटीय आंध्र में 10 नवंबर तक बारिश",
-     "उत्तर-पश्चिम, पश्चिम, पूर्वोत्तर भारत में खास बदलाव नहीं"
-    ],
-    "why": "तमिलनाडु, आंध्र और तेलंगाना के लोगों को सप्ताहांत यात्रा और काम की योजना में मदद।",
-    "cat": "तमिलनाडु · मौसम",
-    "statl": "तमिलनाडु में व्यापक बारिश"
-   }
-  },
-  {
    "cat": "యాదగిరిగుట్ట · ఆరోగ్యం",
    "col": "--c-water",
    "art": "land",
@@ -1765,55 +1813,6 @@
    "img": "photos/2026-11-04-chinnakandukur-medical-camp.jpg",
    "imgfy": 0.45,
    "local": true
-  },
-  {
-   "cat": "ఏపీ · కరవు సాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "388",
-   "statl": "కరవు మండలాలుగా ప్రకటన (21 జిల్లాలు)",
-   "h": "చంద్రబాబుకు ప్రధాని మోదీ ఫోన్: తుపాన్లు, కరవుకు కేంద్ర సాయం కోరిన సీఎం",
-   "p": "అర్నాబ్, మురసు తుపాన్ల నష్టంపై ప్రధాని మోదీ బుధవారం సీఎం చంద్రబాబుకు ఫోన్ చేసి ఆరా తీశారు. రైతులు భారీగా నష్టపోయారని, రోడ్లు, విద్యుత్ దెబ్బతిన్నాయని సీఎం వివరించారు. 21 జిల్లాల్లో 388 మండలాలను కరవు ప్రాంతాలుగా ప్రకటించారు. ఉపాధి హామీ పనిదినాలను 200కు పెంచాలని, కరవు కార్డులు, రుణాల రీషెడ్యూల్ ఇవ్వాలని కేంద్రాన్ని కోరారు.",
-   "src": "Telugu360, UNI",
-   "url": "https://www.telugu360.com/pm-modi-calls-chandrababu-naidu-over-cyclone-damage/",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "వారంలో రెండు తుపాన్లు: అర్నాబ్, మురసు నష్టంపై ప్రధాని ఆరా",
-    "ఉపాధి పనిదినాలు 200కు పెంచాలని సీఎం విజ్ఞప్తి",
-    "15 రోజుల్లో కేంద్ర బృందం నివేదిక"
-   ],
-   "why": "తుపాను, కరవుతో నష్టపోయిన రైతులు, కూలీలకు కేంద్ర సాయం అందితే ఊరట లభిస్తుంది.",
-   "en": {
-    "h": "PM Modi calls Naidu; CM seeks Central aid for cyclones and drought",
-    "p": "PM Modi called CM Chandrababu Naidu on Wednesday to enquire about the damage from Cyclones Arnab and Murasu. The CM said farmers suffered heavy losses and roads and power were damaged. 388 mandals in 21 districts have been declared drought-hit. He asked the Centre to raise employment guarantee workdays to 200 and to provide drought cards and loan rescheduling.",
-    "pts": [
-     "Two cyclones in a week: PM enquires about Arnab, Murasu damage",
-     "CM asks for employment workdays to be raised to 200",
-     "Central team to submit report within 15 days"
-    ],
-    "why": "Central aid would bring relief to farmers and labourers hit by the cyclones and drought.",
-    "cat": "Andhra Pradesh · Drought aid",
-    "statl": "Mandals declared drought-hit (21 districts)"
-   },
-   "hi": {
-    "h": "नायडू को प्रधानमंत्री मोदी का फोन: सीएम ने तूफानों, सूखे के लिए केंद्र से मदद मांगी",
-    "p": "प्रधानमंत्री मोदी ने बुधवार को मुख्यमंत्री चंद्रबाबू नायडू को फोन कर अर्नब और मुरासु तूफानों से हुए नुकसान की जानकारी ली। सीएम ने बताया कि किसानों को भारी नुकसान हुआ है और सड़कें व बिजली व्यवस्था क्षतिग्रस्त हुई हैं। 21 जिलों के 388 मंडल सूखाग्रस्त घोषित किए गए हैं। उन्होंने रोजगार गारंटी कार्यदिवस 200 करने, सूखा कार्ड और ऋण पुनर्निर्धारण की मांग की।",
-    "pts": [
-     "एक हफ्ते में दो तूफान: अर्नब, मुरासु नुकसान पर पीएम ने ली जानकारी",
-     "सीएम ने रोजगार कार्यदिवस 200 करने की मांग की",
-     "15 दिन में केंद्रीय टीम देगी रिपोर्ट"
-    ],
-    "why": "केंद्रीय मदद मिलने से तूफान और सूखे से प्रभावित किसानों व मजदूरों को राहत मिलेगी।",
-    "cat": "आंध्र प्रदेश · सूखा राहत",
-    "statl": "मंडल सूखाग्रस्त घोषित (21 जिले)"
-   },
-   "d": "04.11.2026",
-   "t": "18:05"
   },
   {
    "cat": "ఆలేరు నియోజకవర్గం",
