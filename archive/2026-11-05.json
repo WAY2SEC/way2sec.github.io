@@ -1,8 +1,106 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 51,
+ "count": 53,
  "stories": [
+  {
+   "cat": "కర్ణాటక · బస్సు ఛార్జీలు",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "33-35%",
+   "statl": "బెంగళూరు బీఎంటీసీ ఛార్జీల పెంపు",
+   "h": "కర్ణాటకలో బస్సు ఛార్జీల పెంపు; బెంగళూరులో బీజేపీ నిరసన",
+   "p": "కర్ణాటకలో ప్రభుత్వ బస్సు ఛార్జీలు పెరిగాయి. ఏఎన్ఐ ప్రకారం కేఎస్ఆర్టీసీ ఛార్జీలు సగటున సుమారు 23%, బెంగళూరు బీఎంటీసీ ఛార్జీలు 33-35% పెరిగాయి. గురువారం రాత్రి నుంచి ఇవి అమల్లోకి వస్తాయి. ఎన్‌డబ్ల్యూకేఆర్టీసీ, కేకేఆర్టీసీ బస్సులకూ ఇది వర్తిస్తుంది. పెంపును వ్యతిరేకిస్తూ బీజేపీ మెజెస్టిక్ బస్ స్టేషన్ వద్ద ఆందోళన చేసి, రవాణా మంత్రి రాజీనామాకు డిమాండ్ చేసింది.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/40-hike-never-seen-in-karnatakas-history-bjps-r-ashoka-demands-transport-ministers-resignation-over-bus-fare-increase20261105130916/",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "loc": "మెజెస్టిక్",
+   "pts": [
+    "బెంగళూరు–నెలమంగల/హోస్కోటే ఛార్జీ ₹35 నుంచి ₹44",
+    "దొడ్డబళ్లాపుర/ఆనేకల్ ఛార్జీ ₹38 నుంచి ₹47",
+    "పెంపు వెనక్కి తీసుకోకపోతే ఆందోళన తీవ్రం: బీజేపీ"
+   ],
+   "why": "బెంగళూరు సహా కర్ణాటకలో రోజూ బస్సుల్లో ప్రయాణించే వారిపై, అక్కడి తెలుగువారిపై ఖర్చు భారం పెరుగుతుంది.",
+   "d": "05.11.2026",
+   "t": "14:05",
+   "en": {
+    "h": "Karnataka hikes bus fares; BJP protests in Bengaluru",
+    "p": "Government bus fares have gone up in Karnataka. According to ANI, KSRTC fares rose by about 23% on average and Bengaluru's BMTC fares by 33-35%, effective from Thursday night. The revision also covers NWKRTC and KKRTC buses. Opposing the hike, the BJP protested at the Majestic bus station and demanded the Transport Minister's resignation.",
+    "pts": [
+     "Bengaluru–Nelamangala/Hoskote fare up from ₹35 to ₹44",
+     "Doddaballapura/Anekal fare up from ₹38 to ₹47",
+     "BJP warns of bigger protests if hike not withdrawn"
+    ],
+    "why": "It raises daily travel costs for bus commuters across Karnataka, including Bengaluru, and Telugu people living there.",
+    "cat": "Karnataka · Bus fares",
+    "statl": "Hike in Bengaluru BMTC fares"
+   },
+   "hi": {
+    "h": "कर्नाटक में बस किराया बढ़ा; बेंगलुरु में भाजपा का विरोध",
+    "p": "कर्नाटक में सरकारी बसों का किराया बढ़ गया है। एएनआई के अनुसार केएसआरटीसी का किराया औसतन लगभग 23% और बेंगलुरु बीएमटीसी का किराया 33-35% बढ़ा है, जो गुरुवार रात से लागू होगा। यह बढ़ोतरी एनडब्ल्यूकेआरटीसी और केकेआरटीसी बसों पर भी लागू है। इसके विरोध में भाजपा ने मैजेस्टिक बस स्टेशन पर प्रदर्शन किया और परिवहन मंत्री के इस्तीफे की मांग की।",
+    "pts": [
+     "बेंगलुरु–नेलमंगला/होसकोटे किराया ₹35 से ₹44",
+     "दोड्डबल्लापुर/अनेकल किराया ₹38 से ₹47",
+     "बढ़ोतरी वापस न होने पर आंदोलन तेज़: भाजपा"
+    ],
+    "why": "बेंगलुरु समेत कर्नाटक में रोज़ बस से सफ़र करने वालों और वहां रहने वाले तेलुगु लोगों का खर्च बढ़ेगा।",
+    "cat": "कर्नाटक · बस किराया",
+    "statl": "बेंगलुरु बीएमटीसी किराये में बढ़ोतरी"
+   }
+  },
+  {
+   "cat": "కర్ణాటక · ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹31/కేజీ",
+   "statl": "2019 నుంచి మారని చక్కెర కనీస ధర",
+   "h": "బెంగళూరుకు ప్రత్యేక ప్యాకేజీ ఇవ్వండి: కేంద్రాన్ని కోరిన సీఎం డీకే శివకుమార్",
+   "p": "ప్రధాని మోదీకి రాసిన లేఖల్లో కర్ణాటక సీఎం డీకే శివకుమార్ బెంగళూరుకు ప్రత్యేక ఆర్థిక ప్యాకేజీ, రక్షణ శాఖ భూములు సరైన ధరకు ఇవ్వాలని కోరారు. మేకేదాటు, కలస-బండూరి, అప్పర్ భద్ర, అప్పర్ కృష్ణ, ఎత్తినహొళె ప్రాజెక్టులకు త్వరగా అనుమతులివ్వాలన్నారు. 2019 ఫిబ్రవరి నుంచి కేజీకి ₹31 వద్దే ఉన్న చక్కెర కనీస ధరను సవరించాలని కూడా కోరారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/politics/karnataka-cm-dk-shivakumar-seeks-centres-intervention-on-bengaluru-infrastructure-irrigation-sugarcane-crisis20261105131455/",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "నమ్మ మెట్రో పింక్ లైన్ ప్రారంభానికి ప్రధాని రాకను స్వాగతించారు",
+    "ఉత్తర కర్ణాటక చెరకు రైతుల ఆందోళనను ప్రస్తావించారు",
+    "ఎఫ్ఆర్‌పీ బేస్ రికవరీని 9.50%కు పునరుద్ధరించాలని వినతి"
+   ],
+   "why": "బెంగళూరు మౌలిక వసతులు, సాగునీటి ప్రాజెక్టులు, చెరకు రైతుల సమస్యలపై ఇవి కర్ణాటక ప్రభుత్వ కీలక డిమాండ్లు.",
+   "d": "05.11.2026",
+   "t": "14:05",
+   "en": {
+    "h": "Give Bengaluru a special package: CM DK Shivakumar urges Centre",
+    "p": "In letters to PM Modi, Karnataka CM DK Shivakumar sought a special financial package for Bengaluru and defence land at appropriate prices. He asked for early clearances for the Mekedatu, Kalasa-Banduri, Upper Bhadra, Upper Krishna and Yettinahole projects. He also sought a revision of the sugar minimum price, unchanged at ₹31 per kg since February 2019.",
+    "pts": [
+     "Welcomed PM's visit to open Namma Metro Pink Line",
+     "Raised the North Karnataka sugarcane farmers' agitation",
+     "Sought FRP base recovery restored to 9.50%"
+    ],
+    "why": "These are the Karnataka government's key demands on Bengaluru infrastructure, irrigation projects and sugarcane farmers' issues.",
+    "cat": "Karnataka · Government",
+    "statl": "Sugar minimum price unchanged since 2019"
+   },
+   "hi": {
+    "h": "बेंगलुरु को विशेष पैकेज दें: सीएम डीके शिवकुमार ने केंद्र से कहा",
+    "p": "प्रधानमंत्री मोदी को लिखे पत्रों में कर्नाटक के मुख्यमंत्री डीके शिवकुमार ने बेंगलुरु के लिए विशेष वित्तीय पैकेज और उचित कीमत पर रक्षा भूमि की मांग की। उन्होंने मेकेदातु, कलसा-बंडूरी, अपर भद्रा, अपर कृष्णा और येत्तिनहोले परियोजनाओं को जल्द मंज़ूरी देने को कहा। फ़रवरी 2019 से ₹31 प्रति किलो पर स्थिर चीनी के न्यूनतम मूल्य में संशोधन की भी मांग की।",
+    "pts": [
+     "नम्मा मेट्रो पिंक लाइन उद्घाटन हेतु पीएम के दौरे का स्वागत",
+     "उत्तर कर्नाटक के गन्ना किसानों के आंदोलन का ज़िक्र",
+     "एफआरपी बेस रिकवरी 9.50% बहाल करने की मांग"
+    ],
+    "why": "बेंगलुरु के बुनियादी ढांचे, सिंचाई परियोजनाओं और गन्ना किसानों के मुद्दों पर ये कर्नाटक सरकार की अहम मांगें हैं।",
+    "cat": "कर्नाटक · सरकार",
+    "statl": "2019 से स्थिर चीनी न्यूनतम मूल्य"
+   }
+  },
   {
    "cat": "ఏపీ · సుప్రీంకోర్టు",
    "col": "--c-city",

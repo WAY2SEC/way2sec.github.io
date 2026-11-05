@@ -1,8 +1,106 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T13:35:00+05:30",
+ "updated": "2026-11-05T14:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "కర్ణాటక · బస్సు ఛార్జీలు",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "33-35%",
+   "statl": "బెంగళూరు బీఎంటీసీ ఛార్జీల పెంపు",
+   "h": "కర్ణాటకలో బస్సు ఛార్జీల పెంపు; బెంగళూరులో బీజేపీ నిరసన",
+   "p": "కర్ణాటకలో ప్రభుత్వ బస్సు ఛార్జీలు పెరిగాయి. ఏఎన్ఐ ప్రకారం కేఎస్ఆర్టీసీ ఛార్జీలు సగటున సుమారు 23%, బెంగళూరు బీఎంటీసీ ఛార్జీలు 33-35% పెరిగాయి. గురువారం రాత్రి నుంచి ఇవి అమల్లోకి వస్తాయి. ఎన్‌డబ్ల్యూకేఆర్టీసీ, కేకేఆర్టీసీ బస్సులకూ ఇది వర్తిస్తుంది. పెంపును వ్యతిరేకిస్తూ బీజేపీ మెజెస్టిక్ బస్ స్టేషన్ వద్ద ఆందోళన చేసి, రవాణా మంత్రి రాజీనామాకు డిమాండ్ చేసింది.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/40-hike-never-seen-in-karnatakas-history-bjps-r-ashoka-demands-transport-ministers-resignation-over-bus-fare-increase20261105130916/",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "loc": "మెజెస్టిక్",
+   "pts": [
+    "బెంగళూరు–నెలమంగల/హోస్కోటే ఛార్జీ ₹35 నుంచి ₹44",
+    "దొడ్డబళ్లాపుర/ఆనేకల్ ఛార్జీ ₹38 నుంచి ₹47",
+    "పెంపు వెనక్కి తీసుకోకపోతే ఆందోళన తీవ్రం: బీజేపీ"
+   ],
+   "why": "బెంగళూరు సహా కర్ణాటకలో రోజూ బస్సుల్లో ప్రయాణించే వారిపై, అక్కడి తెలుగువారిపై ఖర్చు భారం పెరుగుతుంది.",
+   "d": "05.11.2026",
+   "t": "14:05",
+   "en": {
+    "h": "Karnataka hikes bus fares; BJP protests in Bengaluru",
+    "p": "Government bus fares have gone up in Karnataka. According to ANI, KSRTC fares rose by about 23% on average and Bengaluru's BMTC fares by 33-35%, effective from Thursday night. The revision also covers NWKRTC and KKRTC buses. Opposing the hike, the BJP protested at the Majestic bus station and demanded the Transport Minister's resignation.",
+    "pts": [
+     "Bengaluru–Nelamangala/Hoskote fare up from ₹35 to ₹44",
+     "Doddaballapura/Anekal fare up from ₹38 to ₹47",
+     "BJP warns of bigger protests if hike not withdrawn"
+    ],
+    "why": "It raises daily travel costs for bus commuters across Karnataka, including Bengaluru, and Telugu people living there.",
+    "cat": "Karnataka · Bus fares",
+    "statl": "Hike in Bengaluru BMTC fares"
+   },
+   "hi": {
+    "h": "कर्नाटक में बस किराया बढ़ा; बेंगलुरु में भाजपा का विरोध",
+    "p": "कर्नाटक में सरकारी बसों का किराया बढ़ गया है। एएनआई के अनुसार केएसआरटीसी का किराया औसतन लगभग 23% और बेंगलुरु बीएमटीसी का किराया 33-35% बढ़ा है, जो गुरुवार रात से लागू होगा। यह बढ़ोतरी एनडब्ल्यूकेआरटीसी और केकेआरटीसी बसों पर भी लागू है। इसके विरोध में भाजपा ने मैजेस्टिक बस स्टेशन पर प्रदर्शन किया और परिवहन मंत्री के इस्तीफे की मांग की।",
+    "pts": [
+     "बेंगलुरु–नेलमंगला/होसकोटे किराया ₹35 से ₹44",
+     "दोड्डबल्लापुर/अनेकल किराया ₹38 से ₹47",
+     "बढ़ोतरी वापस न होने पर आंदोलन तेज़: भाजपा"
+    ],
+    "why": "बेंगलुरु समेत कर्नाटक में रोज़ बस से सफ़र करने वालों और वहां रहने वाले तेलुगु लोगों का खर्च बढ़ेगा।",
+    "cat": "कर्नाटक · बस किराया",
+    "statl": "बेंगलुरु बीएमटीसी किराये में बढ़ोतरी"
+   }
+  },
+  {
+   "cat": "కర్ణాటక · ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹31/కేజీ",
+   "statl": "2019 నుంచి మారని చక్కెర కనీస ధర",
+   "h": "బెంగళూరుకు ప్రత్యేక ప్యాకేజీ ఇవ్వండి: కేంద్రాన్ని కోరిన సీఎం డీకే శివకుమార్",
+   "p": "ప్రధాని మోదీకి రాసిన లేఖల్లో కర్ణాటక సీఎం డీకే శివకుమార్ బెంగళూరుకు ప్రత్యేక ఆర్థిక ప్యాకేజీ, రక్షణ శాఖ భూములు సరైన ధరకు ఇవ్వాలని కోరారు. మేకేదాటు, కలస-బండూరి, అప్పర్ భద్ర, అప్పర్ కృష్ణ, ఎత్తినహొళె ప్రాజెక్టులకు త్వరగా అనుమతులివ్వాలన్నారు. 2019 ఫిబ్రవరి నుంచి కేజీకి ₹31 వద్దే ఉన్న చక్కెర కనీస ధరను సవరించాలని కూడా కోరారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/politics/karnataka-cm-dk-shivakumar-seeks-centres-intervention-on-bengaluru-infrastructure-irrigation-sugarcane-crisis20261105131455/",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "నమ్మ మెట్రో పింక్ లైన్ ప్రారంభానికి ప్రధాని రాకను స్వాగతించారు",
+    "ఉత్తర కర్ణాటక చెరకు రైతుల ఆందోళనను ప్రస్తావించారు",
+    "ఎఫ్ఆర్‌పీ బేస్ రికవరీని 9.50%కు పునరుద్ధరించాలని వినతి"
+   ],
+   "why": "బెంగళూరు మౌలిక వసతులు, సాగునీటి ప్రాజెక్టులు, చెరకు రైతుల సమస్యలపై ఇవి కర్ణాటక ప్రభుత్వ కీలక డిమాండ్లు.",
+   "d": "05.11.2026",
+   "t": "14:05",
+   "en": {
+    "h": "Give Bengaluru a special package: CM DK Shivakumar urges Centre",
+    "p": "In letters to PM Modi, Karnataka CM DK Shivakumar sought a special financial package for Bengaluru and defence land at appropriate prices. He asked for early clearances for the Mekedatu, Kalasa-Banduri, Upper Bhadra, Upper Krishna and Yettinahole projects. He also sought a revision of the sugar minimum price, unchanged at ₹31 per kg since February 2019.",
+    "pts": [
+     "Welcomed PM's visit to open Namma Metro Pink Line",
+     "Raised the North Karnataka sugarcane farmers' agitation",
+     "Sought FRP base recovery restored to 9.50%"
+    ],
+    "why": "These are the Karnataka government's key demands on Bengaluru infrastructure, irrigation projects and sugarcane farmers' issues.",
+    "cat": "Karnataka · Government",
+    "statl": "Sugar minimum price unchanged since 2019"
+   },
+   "hi": {
+    "h": "बेंगलुरु को विशेष पैकेज दें: सीएम डीके शिवकुमार ने केंद्र से कहा",
+    "p": "प्रधानमंत्री मोदी को लिखे पत्रों में कर्नाटक के मुख्यमंत्री डीके शिवकुमार ने बेंगलुरु के लिए विशेष वित्तीय पैकेज और उचित कीमत पर रक्षा भूमि की मांग की। उन्होंने मेकेदातु, कलसा-बंडूरी, अपर भद्रा, अपर कृष्णा और येत्तिनहोले परियोजनाओं को जल्द मंज़ूरी देने को कहा। फ़रवरी 2019 से ₹31 प्रति किलो पर स्थिर चीनी के न्यूनतम मूल्य में संशोधन की भी मांग की।",
+    "pts": [
+     "नम्मा मेट्रो पिंक लाइन उद्घाटन हेतु पीएम के दौरे का स्वागत",
+     "उत्तर कर्नाटक के गन्ना किसानों के आंदोलन का ज़िक्र",
+     "एफआरपी बेस रिकवरी 9.50% बहाल करने की मांग"
+    ],
+    "why": "बेंगलुरु के बुनियादी ढांचे, सिंचाई परियोजनाओं और गन्ना किसानों के मुद्दों पर ये कर्नाटक सरकार की अहम मांगें हैं।",
+    "cat": "कर्नाटक · सरकार",
+    "statl": "2019 से स्थिर चीनी न्यूनतम मूल्य"
+   }
+  },
   {
    "cat": "ఏపీ · సుప్రీంకోర్టు",
    "col": "--c-city",
@@ -1656,103 +1754,6 @@
    },
    "d": "05.11.2026",
    "t": "08:35"
-  },
-  {
-   "cat": "భారత్ · దర్యాప్తు",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "రెడ్ నోటీస్",
-   "statl": "ఇంటర్‌పోల్ నోటీసుపై అరెస్ట్",
-   "h": "మహాదేవ్ బెట్టింగ్ యాప్ సహ ప్రమోటర్ దుబాయ్‌లో అరెస్ట్",
-   "p": "మహాదేవ్ బెట్టింగ్ యాప్ సహ ప్రమోటర్‌ను ఇంటర్‌పోల్ రెడ్ నోటీస్ ఆధారంగా బుధవారం దుబాయ్‌లో అరెస్ట్ చేశారు. మనీలాండరింగ్ కేసులో అతడిని భారత్‌కు అప్పగించేలా సీబీఐ, ఈడీ ప్రయత్నిస్తున్నాయి. 2023లో యూఏఈ అధికారులు అతడిని అదుపులోకి తీసుకోగా, తర్వాత ఆస్ట్రేలియాలో ఉన్నట్లు తేలింది. అతడు వనువాటు పాస్‌పోర్ట్ పొందినట్లు సమాచారం.",
-   "pts": [
-    "ఇంటర్‌పోల్ రెడ్ నోటీస్ ఆధారంగా అరెస్ట్",
-    "అప్పగింత కోసం సీబీఐ, ఈడీ ప్రయత్నాలు",
-    "వనువాటు పాస్‌పోర్ట్ పొందినట్లు సమాచారం"
-   ],
-   "why": "అక్రమ ఆన్‌లైన్ బెట్టింగ్ యాప్‌ల మనీలాండరింగ్ కేసుల్లో దర్యాప్తు సంస్థల చర్యలు కొనసాగుతున్నాయి.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/today-in-india-5-november-2026/#mahadev",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "cat": "India · Investigation",
-    "statl": "Arrested on Interpol notice",
-    "h": "Mahadev betting app co-promoter arrested in Dubai",
-    "p": "A co-promoter of the Mahadev betting app was arrested in Dubai on Wednesday on an Interpol Red Notice. The CBI and ED are working to get him extradited to India in a money laundering case. UAE authorities had detained him in 2023, and he was later found to be in Australia. He reportedly obtained a Vanuatu passport.",
-    "pts": [
-     "Arrested on an Interpol Red Notice",
-     "CBI and ED working on extradition",
-     "Reportedly obtained a Vanuatu passport"
-    ],
-    "why": "Investigating agencies are continuing action in money laundering cases linked to illegal online betting apps."
-   },
-   "hi": {
-    "cat": "भारत · जांच",
-    "statl": "इंटरपोल नोटिस पर गिरफ्तारी",
-    "h": "महादेव बेटिंग ऐप का सह-प्रमोटर दुबई में गिरफ्तार",
-    "p": "महादेव बेटिंग ऐप के एक सह-प्रमोटर को बुधवार को इंटरपोल रेड नोटिस के आधार पर दुबई में गिरफ्तार किया गया। मनी लॉन्ड्रिंग मामले में उसके प्रत्यर्पण के लिए CBI और ED प्रयास कर रहे हैं। 2023 में UAE अधिकारियों ने उसे हिरासत में लिया था, बाद में वह ऑस्ट्रेलिया में पाया गया। बताया जाता है कि उसने वानुअतु का पासपोर्ट हासिल किया था।",
-    "pts": [
-     "इंटरपोल रेड नोटिस के आधार पर गिरफ्तारी",
-     "प्रत्यर्पण के लिए CBI और ED के प्रयास",
-     "वानुअतु पासपोर्ट हासिल करने की जानकारी"
-    ],
-    "why": "अवैध ऑनलाइन बेटिंग ऐप से जुड़े मनी लॉन्ड्रिंग मामलों में जांच एजेंसियों की कार्रवाई जारी है।"
-   },
-   "d": "05.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "భారత్ · మార్కెట్లు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "+340",
-   "statl": "గిఫ్ట్ నిఫ్టీ పాయింట్ల జంప్",
-   "h": "స్టాక్ మార్కెట్లకు భారీ లాభాల సంకేతం: ముడి చమురు ధర పతనం",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల ఫలితాల తర్వాత ముడి చమురు ధర భారీగా తగ్గింది. బ్రెంట్ క్రూడ్ సుమారు 93 డాలర్లకు, రెండు నెలల కనిష్ఠానికి పడిపోయింది. దీంతో గిఫ్ట్ నిఫ్టీ దాదాపు 340 పాయింట్లు పెరిగి 24,300 పైకి చేరింది. నేడు సెన్సెక్స్, నిఫ్టీ గ్యాప్-అప్‌తో ప్రారంభం కావచ్చని నిపుణులు అంటున్నారు.",
-   "pts": [
-    "బుధవారం నిఫ్టీ 23,960.60 వద్ద ముగింపు",
-    "విదేశీ సంస్థల నికర కొనుగోళ్లు సుమారు ₹7,284 కోట్లు",
-    "నిఫ్టీకి వరుసగా ఐదో రోజు లాభాలు"
-   ],
-   "why": "చమురు ధర తగ్గడం పెట్టుబడిదారులకు, పెట్రోల్ దిగుమతులపై ఆధారపడే దేశ ఆర్థిక వ్యవస్థకు ముఖ్యం.",
-   "src": "Business Standard",
-   "url": "https://hindi.business-standard.com/markets/stock-market/stock-market-live-updates-5-november-2026-sensex-nifty-today-gift-nifty-crude-oil-price-crash-id-565419",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "cat": "India · Markets",
-    "statl": "GIFT Nifty points jump",
-    "h": "Markets signal strong gains as crude oil prices fall sharply",
-    "p": "Crude oil prices fell sharply after the US midterm election results. Brent crude dropped to about $93, a two-month low. GIFT Nifty rose about 340 points to above 24,300. Experts say the Sensex and Nifty may open with a gap-up today.",
-    "pts": [
-     "Nifty closed at 23,960.60 on Wednesday",
-     "Foreign investors net bought about ₹7,284 crore",
-     "Nifty gained for a fifth straight session"
-    ],
-    "why": "Lower oil prices matter for investors and for India's economy, which depends on oil imports."
-   },
-   "hi": {
-    "cat": "भारत · बाज़ार",
-    "statl": "गिफ्ट निफ्टी अंकों की छलांग",
-    "h": "कच्चे तेल के दाम गिरे, शेयर बाज़ार में तेज़ी के संकेत",
-    "p": "अमेरिकी मध्यावधि चुनाव नतीजों के बाद कच्चे तेल के दाम तेज़ी से गिरे। ब्रेंट क्रूड करीब 93 डॉलर पर, दो महीने के निचले स्तर पर आ गया। गिफ्ट निफ्टी करीब 340 अंक उछलकर 24,300 के ऊपर पहुंचा। विशेषज्ञों के अनुसार आज सेंसेक्स और निफ्टी गैप-अप के साथ खुल सकते हैं।",
-    "pts": [
-     "बुधवार को निफ्टी 23,960.60 पर बंद",
-     "विदेशी निवेशकों की करीब ₹7,284 करोड़ की शुद्ध खरीद",
-     "निफ्टी में लगातार पांचवें दिन बढ़त"
-    ],
-    "why": "तेल के दाम घटना निवेशकों और तेल आयात पर निर्भर भारत की अर्थव्यवस्था के लिए अहम है।"
-   },
-   "d": "05.11.2026",
-   "t": "08:05"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
