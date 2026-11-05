@@ -1,8 +1,201 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 34,
+ "count": 38,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "తలుపులు",
+   "statl": "బస్సు కదిలేటప్పుడు మూసి ఉంచాలి",
+   "h": "కదిలే బస్సుల్లో తలుపులు మూసే ఉండాలి: టీజీఎస్‌ఆర్టీసీ ఆదేశం",
+   "p": "తలుపులు ఉన్న బస్సులు తప్పనిసరిగా డోర్లు మూసి ఉంచే నడపాలని టీజీఎస్‌ఆర్టీసీ ఆదేశించింది. మెకానికల్ ఇంజినీరింగ్ విభాగం అన్ని డిప్యూటీ రీజనల్ మేనేజర్లకు సూచనలు జారీ చేసింది. అక్టోబర్ 25న భద్రాద్రి కొత్తగూడెం జిల్లా అశ్వాపురం మండలంలో కదులుతున్న బస్సు నుంచి తోసివేతకు గురై గాయపడిన మణుగూరు డిపో మహిళా కండక్టర్ మంగళవారం రాత్రి చికిత్స పొందుతూ మృతి చెందిన నేపథ్యంలో ఈ నిర్ణయం తీసుకుంది.",
+   "pts": [
+    "బస్సు డోర్లు సరిగా పనిచేసేలా చూడాలని అధికారులకు సూచన",
+    "భద్రతా నిబంధనలు కఠినంగా అమలు చేయాలని ఆదేశం",
+    "మణుగూరు–భద్రాచలం పల్లె వెలుగు బస్సులో ఘటన"
+   ],
+   "why": "ఆర్టీసీ బస్సుల్లో ప్రయాణించే లక్షల మంది ప్రయాణికులు, సిబ్బంది భద్రతకు ఈ నిబంధన సంబంధించింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/after-conductors-death-tgsrtc-mandates-closed-passenger-doors-on-moving-buses",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Doors must stay shut on moving buses: TGSRTC order",
+    "p": "TGSRTC has made it mandatory for buses fitted with passenger doors to run only with the doors closed. Its Mechanical Engineering Department issued instructions to all Deputy Regional Managers. The move follows the death on Tuesday night, during treatment, of a woman conductor of the Manuguru depot who was injured after being pushed out of a moving bus in Aswapuram mandal of Bhadradri Kothagudem district on October 25.",
+    "pts": [
+     "Officials told to ensure bus doors work properly",
+     "Safety measures to be strictly enforced",
+     "Incident occurred on a Manuguru–Bhadrachalam Palle Velugu bus"
+    ],
+    "why": "The rule concerns the safety of lakhs of passengers and staff who travel on RTC buses.",
+    "cat": "Telangana · RTC",
+    "statl": "Must stay closed while bus moves"
+   },
+   "hi": {
+    "h": "चलती बसों में दरवाज़े बंद रहें: टीजीएसआरटीसी का आदेश",
+    "p": "टीजीएसआरटीसी ने दरवाज़ों वाली बसों को केवल दरवाज़े बंद रखकर ही चलाना अनिवार्य कर दिया है। इसके मैकेनिकल इंजीनियरिंग विभाग ने सभी डिप्टी रीजनल मैनेजरों को निर्देश जारी किए। यह कदम मणुगुरु डिपो की उस महिला कंडक्टर की मंगलवार रात इलाज के दौरान मौत के बाद उठाया गया, जो 25 अक्टूबर को भद्राद्री कोठागुडेम जिले के अश्वापुरम मंडल में चलती बस से धक्का दिए जाने पर घायल हुई थीं।",
+    "pts": [
+     "अधिकारियों को बस दरवाज़े ठीक से काम करें यह सुनिश्चित करने का निर्देश",
+     "सुरक्षा नियम सख्ती से लागू करने का आदेश",
+     "घटना मणुगुरु–भद्राचलम पल्ले वेलुगु बस में हुई"
+    ],
+    "why": "यह नियम आरटीसी बसों में सफर करने वाले लाखों यात्रियों और कर्मचारियों की सुरक्षा से जुड़ा है।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "बस चलते समय बंद रहें"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2.61 కోట్లు",
+   "statl": "పరిషత్ ఎన్నికల్లో మొత్తం ఓటర్లు",
+   "h": "ఏపీ పరిషత్ పోలింగ్ ప్రశాంతం: 31,460 కేంద్రాలు, 40,679 మంది పోలీసులు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ గురువారం కట్టుదిట్టమైన భద్రత మధ్య ప్రశాంతంగా సాగుతోందని రాష్ట్ర ఎన్నికల సంఘం తెలిపింది. 582 జడ్పీటీసీ, 7,767 ఎంపీటీసీ స్థానాలకు ఓటింగ్ జరుగుతోంది. మొత్తం 2.61 కోట్ల మంది ఓటర్ల కోసం 31,460 పోలింగ్ కేంద్రాలు ఏర్పాటు చేశారు. వీటిలో 8,904 సమస్యాత్మక, 7,160 అతి సమస్యాత్మక కేంద్రాలు ఉన్నాయి.",
+   "pts": [
+    "2,169 జడ్పీటీసీ, 18,843 ఎంపీటీసీ అభ్యర్థులు బరిలో",
+    "16,064 చోట్ల సీసీటీవీ నిఘా ఏర్పాటు",
+    "కౌంటింగ్ కోసం 365 కేంద్రాలు, 9,062 టేబుళ్లు"
+   ],
+   "why": "గ్రామీణ ప్రాంతాల్లో మండల, జిల్లా పరిషత్ ప్రతినిధులను ఎన్నుకునే ఈ పోలింగ్‌లో కోట్ల మంది ఓటర్లు పాల్గొంటున్నారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/peaceful-polling-underway-for-mptc-zptc-elections-in-andhra/3091044/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "h": "AP parishad polling peaceful: 31,460 booths, 40,679 police deployed",
+    "p": "Polling for MPTC and ZPTC elections in Andhra Pradesh is proceeding peacefully under tight security on Thursday, the State Election Commission said. Voting is under way for 582 ZPTC and 7,767 MPTC seats. A total of 31,460 polling stations have been set up for 2.61 crore voters, including 8,904 sensitive and 7,160 hypersensitive stations.",
+    "pts": [
+     "2,169 ZPTC and 18,843 MPTC candidates in the fray",
+     "CCTV surveillance at 16,064 locations",
+     "365 counting centres with 9,062 tables"
+    ],
+    "why": "Crores of voters are taking part in this poll that elects mandal and zilla parishad representatives in rural areas.",
+    "cat": "AP · Parishad Polls",
+    "statl": "Total voters in parishad polls"
+   },
+   "hi": {
+    "h": "आंध्र परिषद मतदान शांतिपूर्ण: 31,460 केंद्र, 40,679 पुलिसकर्मी तैनात",
+    "p": "राज्य चुनाव आयोग के अनुसार आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों का मतदान गुरुवार को कड़ी सुरक्षा के बीच शांतिपूर्ण ढंग से चल रहा है। 582 जेडपीटीसी और 7,767 एमपीटीसी सीटों के लिए वोटिंग हो रही है। कुल 2.61 करोड़ मतदाताओं के लिए 31,460 मतदान केंद्र बनाए गए हैं, जिनमें 8,904 संवेदनशील और 7,160 अति संवेदनशील केंद्र हैं।",
+    "pts": [
+     "2,169 जेडपीटीसी और 18,843 एमपीटीसी उम्मीदवार मैदान में",
+     "16,064 स्थानों पर सीसीटीवी निगरानी",
+     "मतगणना के लिए 365 केंद्र, 9,062 टेबल"
+    ],
+    "why": "ग्रामीण क्षेत्रों में मंडल और जिला परिषद प्रतिनिधि चुनने वाले इस मतदान में करोड़ों मतदाता भाग ले रहे हैं।",
+    "cat": "आंध्र · परिषद चुनाव",
+    "statl": "परिषद चुनाव में कुल मतदाता"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "భారత్ · వాణిజ్యం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "10%",
+   "statl": "భారత వస్తువులపై ప్రస్తుత అమెరికా సుంకం",
+   "h": "అమెరికా మధ్యంతర ఫలితాలతో వాణిజ్య ఒప్పందం తొందర తగ్గింది: ఎమ్‌కే నివేదిక",
+   "p": "అమెరికా కాంగ్రెస్‌పై రిపబ్లికన్ల పూర్తి నియంత్రణ ముగియడంతో, ఆ దేశంతో వాణిజ్య ఒప్పందం కోసం భారత్‌కు తొందర తగ్గిందని ఎమ్‌కే గ్లోబల్ నివేదిక తెలిపింది. 18% సుంకం ఎప్పుడూ అమలు కాలేదని, ప్రస్తుతం భారత వస్తువులపై 10% 'సెక్షన్ 301' సుంకం ఉందని పేర్కొంది. ఇకపై ఆకస్మిక సుంకాల షాక్‌ల ముప్పు తగ్గుతుందని అంచనా వేసింది.",
+   "pts": [
+    "ఫార్మా, ఎలక్ట్రానిక్స్‌పై సెక్షన్ 232 సుంకాలే ప్రధాన ముప్పు",
+    "బ్రెంట్ చమురు అక్టోబర్ గరిష్ఠం నుంచి 19% తగ్గింది",
+    "రూపాయి స్థిరత్వం, ఎగుమతులకు అనుకూలమని అంచనా"
+   ],
+   "why": "అమెరికాకు ఎగుమతి చేసే భారత పరిశ్రమలు, ఉద్యోగులు, రూపాయి విలువపై ఈ పరిణామం ప్రభావం చూపుతుంది.",
+   "src": "Telangana Today, PTI",
+   "url": "https://telanganatoday.com/urgency-of-a-trade-deal-with-us-fades-for-india-with-midterm-outcome-report",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "US midterm outcome eases urgency of trade deal for India: Emkay report",
+    "p": "With the end of unified Republican control of the US Congress, the urgency for India to strike a trade deal with the US has faded, an Emkay Global report said. It noted the 18% tariff rate was never implemented and Indian goods now face a 10% 'Section 301' duty. It expects a lower risk of surprise tariff shocks from now on.",
+    "pts": [
+     "Section 232 tariffs on pharma, electronics remain main risk",
+     "Brent crude down 19% from October highs",
+     "Seen as supportive of rupee stability and exports"
+    ],
+    "why": "This development affects Indian industries and workers exporting to the US, and the value of the rupee.",
+    "cat": "India · Trade",
+    "statl": "Current US duty on Indian goods"
+   },
+   "hi": {
+    "h": "अमेरिकी मध्यावधि नतीजों से भारत के लिए व्यापार समझौते की जल्दी घटी: एमके रिपोर्ट",
+    "p": "एमके ग्लोबल की रिपोर्ट के अनुसार अमेरिकी कांग्रेस पर रिपब्लिकन का पूरा नियंत्रण खत्म होने से भारत के लिए अमेरिका के साथ व्यापार समझौते की जल्दी कम हो गई है। रिपोर्ट ने कहा कि 18% शुल्क कभी लागू नहीं हुआ और अभी भारतीय सामान पर 10% 'सेक्शन 301' शुल्क है। आगे अचानक टैरिफ झटकों का खतरा कम रहने का अनुमान है।",
+    "pts": [
+     "फार्मा, इलेक्ट्रॉनिक्स पर सेक्शन 232 शुल्क मुख्य जोखिम",
+     "ब्रेंट कच्चा तेल अक्टूबर के उच्च स्तर से 19% नीचे",
+     "रुपये की स्थिरता और निर्यात के लिए अनुकूल माना गया"
+    ],
+    "why": "यह घटनाक्रम अमेरिका को निर्यात करने वाले भारतीय उद्योगों, कर्मचारियों और रुपये के मूल्य पर असर डालता है।",
+    "cat": "भारत · व्यापार",
+    "statl": "भारतीय सामान पर मौजूदा अमेरिकी शुल्क"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "54",
+   "statl": "డెమొక్రాట్లకు కనీస సెనేట్ సీట్లు",
+   "h": "అమెరికా సెనేట్ కూడా డెమొక్రాట్ల వశం: సీబీఎస్ అంచనా",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో సెనేట్ నియంత్రణను డెమొక్రాట్లు గెలుచుకున్నారని సీబీఎస్ న్యూస్ అంచనా వేసింది. జనవరి నుంచి వారు కనీసం 54 సీట్లతో ఎగువ సభను నియంత్రించనున్నారు. టెక్సస్, కాన్సస్, సౌత్ కరోలినాల్లో అనూహ్య విజయాలు సాధించగా, మెయిన్, అయోవా, ఒహాయో, నార్త్ కరోలినా స్థానాలను రిపబ్లికన్ల నుంచి కైవసం చేసుకున్నారు. అలాస్కా, మిసిసిపీ ఫలితాలు ఇంకా తేలలేదు.",
+   "pts": [
+    "జార్జియా, న్యూహాంప్‌షైర్, మిషిగన్ స్థానాలను నిలబెట్టుకున్నారు",
+    "ట్రంప్‌ను చట్టపరంగా అడ్డుకుంటామన్న షూమర్",
+    "ప్రతినిధుల సభలోనూ రిపబ్లికన్లు మెజారిటీ కోల్పోయారు"
+   ],
+   "why": "కాంగ్రెస్ రెండు సభల్లో మార్పు అమెరికా వీసా, వాణిజ్య విధానాలపై ప్రభావం చూపవచ్చు; అక్కడి తెలుగువారికి ఇది కీలకం.",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Democrats win US Senate too: CBS projection",
+    "p": "Democrats have won control of the Senate in the US midterm elections, CBS News projects. From January they will control the upper chamber with at least 54 seats. They scored upsets in Texas, Kansas and South Carolina and flipped Maine, Iowa, Ohio and North Carolina from Republicans. Results in Alaska and Mississippi are still undecided.",
+    "pts": [
+     "Held seats in Georgia, New Hampshire and Michigan",
+     "Schumer vows to check Trump through law and legislation",
+     "Republicans also lost their House majority"
+    ],
+    "why": "The change in both houses of Congress could affect US visa and trade policies; it matters to Telugu people there.",
+    "cat": "World · US",
+    "statl": "Minimum Senate seats for Democrats"
+   },
+   "hi": {
+    "h": "अमेरिकी सीनेट भी डेमोक्रेट्स के कब्ज़े में: सीबीएस अनुमान",
+    "p": "सीबीएस न्यूज़ के अनुमान के अनुसार अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स ने सीनेट का नियंत्रण जीत लिया है। जनवरी से वे कम से कम 54 सीटों के साथ ऊपरी सदन को नियंत्रित करेंगे। उन्होंने टेक्सस, कैनसस और साउथ कैरोलिना में अप्रत्याशित जीत दर्ज की और मेन, आयोवा, ओहायो और नॉर्थ कैरोलिना की सीटें रिपब्लिकन से छीन लीं। अलास्का और मिसिसिपी के नतीजे अभी तय नहीं हुए हैं।",
+    "pts": [
+     "जॉर्जिया, न्यू हैम्पशायर और मिशिगन की सीटें बरकरार रखीं",
+     "शूमर ने कानून और विधायी तरीकों से ट्रंप को रोकने का संकल्प लिया",
+     "प्रतिनिधि सभा में भी रिपब्लिकन ने बहुमत खोया"
+    ],
+    "why": "कांग्रेस के दोनों सदनों में बदलाव से अमेरिकी वीज़ा और व्यापार नीतियों पर असर पड़ सकता है; वहाँ रहने वाले तेलुगु लोगों के लिए यह अहम है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "डेमोक्रेट्स की न्यूनतम सीनेट सीटें"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
   {
    "cat": "ఏపీ · పల్నాడు",
    "col": "--c-election",

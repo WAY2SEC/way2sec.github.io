@@ -1,8 +1,201 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T10:35:00+05:30",
+ "updated": "2026-11-05T11:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "తలుపులు",
+   "statl": "బస్సు కదిలేటప్పుడు మూసి ఉంచాలి",
+   "h": "కదిలే బస్సుల్లో తలుపులు మూసే ఉండాలి: టీజీఎస్‌ఆర్టీసీ ఆదేశం",
+   "p": "తలుపులు ఉన్న బస్సులు తప్పనిసరిగా డోర్లు మూసి ఉంచే నడపాలని టీజీఎస్‌ఆర్టీసీ ఆదేశించింది. మెకానికల్ ఇంజినీరింగ్ విభాగం అన్ని డిప్యూటీ రీజనల్ మేనేజర్లకు సూచనలు జారీ చేసింది. అక్టోబర్ 25న భద్రాద్రి కొత్తగూడెం జిల్లా అశ్వాపురం మండలంలో కదులుతున్న బస్సు నుంచి తోసివేతకు గురై గాయపడిన మణుగూరు డిపో మహిళా కండక్టర్ మంగళవారం రాత్రి చికిత్స పొందుతూ మృతి చెందిన నేపథ్యంలో ఈ నిర్ణయం తీసుకుంది.",
+   "pts": [
+    "బస్సు డోర్లు సరిగా పనిచేసేలా చూడాలని అధికారులకు సూచన",
+    "భద్రతా నిబంధనలు కఠినంగా అమలు చేయాలని ఆదేశం",
+    "మణుగూరు–భద్రాచలం పల్లె వెలుగు బస్సులో ఘటన"
+   ],
+   "why": "ఆర్టీసీ బస్సుల్లో ప్రయాణించే లక్షల మంది ప్రయాణికులు, సిబ్బంది భద్రతకు ఈ నిబంధన సంబంధించింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/after-conductors-death-tgsrtc-mandates-closed-passenger-doors-on-moving-buses",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Doors must stay shut on moving buses: TGSRTC order",
+    "p": "TGSRTC has made it mandatory for buses fitted with passenger doors to run only with the doors closed. Its Mechanical Engineering Department issued instructions to all Deputy Regional Managers. The move follows the death on Tuesday night, during treatment, of a woman conductor of the Manuguru depot who was injured after being pushed out of a moving bus in Aswapuram mandal of Bhadradri Kothagudem district on October 25.",
+    "pts": [
+     "Officials told to ensure bus doors work properly",
+     "Safety measures to be strictly enforced",
+     "Incident occurred on a Manuguru–Bhadrachalam Palle Velugu bus"
+    ],
+    "why": "The rule concerns the safety of lakhs of passengers and staff who travel on RTC buses.",
+    "cat": "Telangana · RTC",
+    "statl": "Must stay closed while bus moves"
+   },
+   "hi": {
+    "h": "चलती बसों में दरवाज़े बंद रहें: टीजीएसआरटीसी का आदेश",
+    "p": "टीजीएसआरटीसी ने दरवाज़ों वाली बसों को केवल दरवाज़े बंद रखकर ही चलाना अनिवार्य कर दिया है। इसके मैकेनिकल इंजीनियरिंग विभाग ने सभी डिप्टी रीजनल मैनेजरों को निर्देश जारी किए। यह कदम मणुगुरु डिपो की उस महिला कंडक्टर की मंगलवार रात इलाज के दौरान मौत के बाद उठाया गया, जो 25 अक्टूबर को भद्राद्री कोठागुडेम जिले के अश्वापुरम मंडल में चलती बस से धक्का दिए जाने पर घायल हुई थीं।",
+    "pts": [
+     "अधिकारियों को बस दरवाज़े ठीक से काम करें यह सुनिश्चित करने का निर्देश",
+     "सुरक्षा नियम सख्ती से लागू करने का आदेश",
+     "घटना मणुगुरु–भद्राचलम पल्ले वेलुगु बस में हुई"
+    ],
+    "why": "यह नियम आरटीसी बसों में सफर करने वाले लाखों यात्रियों और कर्मचारियों की सुरक्षा से जुड़ा है।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "बस चलते समय बंद रहें"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2.61 కోట్లు",
+   "statl": "పరిషత్ ఎన్నికల్లో మొత్తం ఓటర్లు",
+   "h": "ఏపీ పరిషత్ పోలింగ్ ప్రశాంతం: 31,460 కేంద్రాలు, 40,679 మంది పోలీసులు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ గురువారం కట్టుదిట్టమైన భద్రత మధ్య ప్రశాంతంగా సాగుతోందని రాష్ట్ర ఎన్నికల సంఘం తెలిపింది. 582 జడ్పీటీసీ, 7,767 ఎంపీటీసీ స్థానాలకు ఓటింగ్ జరుగుతోంది. మొత్తం 2.61 కోట్ల మంది ఓటర్ల కోసం 31,460 పోలింగ్ కేంద్రాలు ఏర్పాటు చేశారు. వీటిలో 8,904 సమస్యాత్మక, 7,160 అతి సమస్యాత్మక కేంద్రాలు ఉన్నాయి.",
+   "pts": [
+    "2,169 జడ్పీటీసీ, 18,843 ఎంపీటీసీ అభ్యర్థులు బరిలో",
+    "16,064 చోట్ల సీసీటీవీ నిఘా ఏర్పాటు",
+    "కౌంటింగ్ కోసం 365 కేంద్రాలు, 9,062 టేబుళ్లు"
+   ],
+   "why": "గ్రామీణ ప్రాంతాల్లో మండల, జిల్లా పరిషత్ ప్రతినిధులను ఎన్నుకునే ఈ పోలింగ్‌లో కోట్ల మంది ఓటర్లు పాల్గొంటున్నారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/peaceful-polling-underway-for-mptc-zptc-elections-in-andhra/3091044/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "h": "AP parishad polling peaceful: 31,460 booths, 40,679 police deployed",
+    "p": "Polling for MPTC and ZPTC elections in Andhra Pradesh is proceeding peacefully under tight security on Thursday, the State Election Commission said. Voting is under way for 582 ZPTC and 7,767 MPTC seats. A total of 31,460 polling stations have been set up for 2.61 crore voters, including 8,904 sensitive and 7,160 hypersensitive stations.",
+    "pts": [
+     "2,169 ZPTC and 18,843 MPTC candidates in the fray",
+     "CCTV surveillance at 16,064 locations",
+     "365 counting centres with 9,062 tables"
+    ],
+    "why": "Crores of voters are taking part in this poll that elects mandal and zilla parishad representatives in rural areas.",
+    "cat": "AP · Parishad Polls",
+    "statl": "Total voters in parishad polls"
+   },
+   "hi": {
+    "h": "आंध्र परिषद मतदान शांतिपूर्ण: 31,460 केंद्र, 40,679 पुलिसकर्मी तैनात",
+    "p": "राज्य चुनाव आयोग के अनुसार आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों का मतदान गुरुवार को कड़ी सुरक्षा के बीच शांतिपूर्ण ढंग से चल रहा है। 582 जेडपीटीसी और 7,767 एमपीटीसी सीटों के लिए वोटिंग हो रही है। कुल 2.61 करोड़ मतदाताओं के लिए 31,460 मतदान केंद्र बनाए गए हैं, जिनमें 8,904 संवेदनशील और 7,160 अति संवेदनशील केंद्र हैं।",
+    "pts": [
+     "2,169 जेडपीटीसी और 18,843 एमपीटीसी उम्मीदवार मैदान में",
+     "16,064 स्थानों पर सीसीटीवी निगरानी",
+     "मतगणना के लिए 365 केंद्र, 9,062 टेबल"
+    ],
+    "why": "ग्रामीण क्षेत्रों में मंडल और जिला परिषद प्रतिनिधि चुनने वाले इस मतदान में करोड़ों मतदाता भाग ले रहे हैं।",
+    "cat": "आंध्र · परिषद चुनाव",
+    "statl": "परिषद चुनाव में कुल मतदाता"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "భారత్ · వాణిజ్యం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "10%",
+   "statl": "భారత వస్తువులపై ప్రస్తుత అమెరికా సుంకం",
+   "h": "అమెరికా మధ్యంతర ఫలితాలతో వాణిజ్య ఒప్పందం తొందర తగ్గింది: ఎమ్‌కే నివేదిక",
+   "p": "అమెరికా కాంగ్రెస్‌పై రిపబ్లికన్ల పూర్తి నియంత్రణ ముగియడంతో, ఆ దేశంతో వాణిజ్య ఒప్పందం కోసం భారత్‌కు తొందర తగ్గిందని ఎమ్‌కే గ్లోబల్ నివేదిక తెలిపింది. 18% సుంకం ఎప్పుడూ అమలు కాలేదని, ప్రస్తుతం భారత వస్తువులపై 10% 'సెక్షన్ 301' సుంకం ఉందని పేర్కొంది. ఇకపై ఆకస్మిక సుంకాల షాక్‌ల ముప్పు తగ్గుతుందని అంచనా వేసింది.",
+   "pts": [
+    "ఫార్మా, ఎలక్ట్రానిక్స్‌పై సెక్షన్ 232 సుంకాలే ప్రధాన ముప్పు",
+    "బ్రెంట్ చమురు అక్టోబర్ గరిష్ఠం నుంచి 19% తగ్గింది",
+    "రూపాయి స్థిరత్వం, ఎగుమతులకు అనుకూలమని అంచనా"
+   ],
+   "why": "అమెరికాకు ఎగుమతి చేసే భారత పరిశ్రమలు, ఉద్యోగులు, రూపాయి విలువపై ఈ పరిణామం ప్రభావం చూపుతుంది.",
+   "src": "Telangana Today, PTI",
+   "url": "https://telanganatoday.com/urgency-of-a-trade-deal-with-us-fades-for-india-with-midterm-outcome-report",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "US midterm outcome eases urgency of trade deal for India: Emkay report",
+    "p": "With the end of unified Republican control of the US Congress, the urgency for India to strike a trade deal with the US has faded, an Emkay Global report said. It noted the 18% tariff rate was never implemented and Indian goods now face a 10% 'Section 301' duty. It expects a lower risk of surprise tariff shocks from now on.",
+    "pts": [
+     "Section 232 tariffs on pharma, electronics remain main risk",
+     "Brent crude down 19% from October highs",
+     "Seen as supportive of rupee stability and exports"
+    ],
+    "why": "This development affects Indian industries and workers exporting to the US, and the value of the rupee.",
+    "cat": "India · Trade",
+    "statl": "Current US duty on Indian goods"
+   },
+   "hi": {
+    "h": "अमेरिकी मध्यावधि नतीजों से भारत के लिए व्यापार समझौते की जल्दी घटी: एमके रिपोर्ट",
+    "p": "एमके ग्लोबल की रिपोर्ट के अनुसार अमेरिकी कांग्रेस पर रिपब्लिकन का पूरा नियंत्रण खत्म होने से भारत के लिए अमेरिका के साथ व्यापार समझौते की जल्दी कम हो गई है। रिपोर्ट ने कहा कि 18% शुल्क कभी लागू नहीं हुआ और अभी भारतीय सामान पर 10% 'सेक्शन 301' शुल्क है। आगे अचानक टैरिफ झटकों का खतरा कम रहने का अनुमान है।",
+    "pts": [
+     "फार्मा, इलेक्ट्रॉनिक्स पर सेक्शन 232 शुल्क मुख्य जोखिम",
+     "ब्रेंट कच्चा तेल अक्टूबर के उच्च स्तर से 19% नीचे",
+     "रुपये की स्थिरता और निर्यात के लिए अनुकूल माना गया"
+    ],
+    "why": "यह घटनाक्रम अमेरिका को निर्यात करने वाले भारतीय उद्योगों, कर्मचारियों और रुपये के मूल्य पर असर डालता है।",
+    "cat": "भारत · व्यापार",
+    "statl": "भारतीय सामान पर मौजूदा अमेरिकी शुल्क"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "54",
+   "statl": "డెమొక్రాట్లకు కనీస సెనేట్ సీట్లు",
+   "h": "అమెరికా సెనేట్ కూడా డెమొక్రాట్ల వశం: సీబీఎస్ అంచనా",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో సెనేట్ నియంత్రణను డెమొక్రాట్లు గెలుచుకున్నారని సీబీఎస్ న్యూస్ అంచనా వేసింది. జనవరి నుంచి వారు కనీసం 54 సీట్లతో ఎగువ సభను నియంత్రించనున్నారు. టెక్సస్, కాన్సస్, సౌత్ కరోలినాల్లో అనూహ్య విజయాలు సాధించగా, మెయిన్, అయోవా, ఒహాయో, నార్త్ కరోలినా స్థానాలను రిపబ్లికన్ల నుంచి కైవసం చేసుకున్నారు. అలాస్కా, మిసిసిపీ ఫలితాలు ఇంకా తేలలేదు.",
+   "pts": [
+    "జార్జియా, న్యూహాంప్‌షైర్, మిషిగన్ స్థానాలను నిలబెట్టుకున్నారు",
+    "ట్రంప్‌ను చట్టపరంగా అడ్డుకుంటామన్న షూమర్",
+    "ప్రతినిధుల సభలోనూ రిపబ్లికన్లు మెజారిటీ కోల్పోయారు"
+   ],
+   "why": "కాంగ్రెస్ రెండు సభల్లో మార్పు అమెరికా వీసా, వాణిజ్య విధానాలపై ప్రభావం చూపవచ్చు; అక్కడి తెలుగువారికి ఇది కీలకం.",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Democrats win US Senate too: CBS projection",
+    "p": "Democrats have won control of the Senate in the US midterm elections, CBS News projects. From January they will control the upper chamber with at least 54 seats. They scored upsets in Texas, Kansas and South Carolina and flipped Maine, Iowa, Ohio and North Carolina from Republicans. Results in Alaska and Mississippi are still undecided.",
+    "pts": [
+     "Held seats in Georgia, New Hampshire and Michigan",
+     "Schumer vows to check Trump through law and legislation",
+     "Republicans also lost their House majority"
+    ],
+    "why": "The change in both houses of Congress could affect US visa and trade policies; it matters to Telugu people there.",
+    "cat": "World · US",
+    "statl": "Minimum Senate seats for Democrats"
+   },
+   "hi": {
+    "h": "अमेरिकी सीनेट भी डेमोक्रेट्स के कब्ज़े में: सीबीएस अनुमान",
+    "p": "सीबीएस न्यूज़ के अनुमान के अनुसार अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स ने सीनेट का नियंत्रण जीत लिया है। जनवरी से वे कम से कम 54 सीटों के साथ ऊपरी सदन को नियंत्रित करेंगे। उन्होंने टेक्सस, कैनसस और साउथ कैरोलिना में अप्रत्याशित जीत दर्ज की और मेन, आयोवा, ओहायो और नॉर्थ कैरोलिना की सीटें रिपब्लिकन से छीन लीं। अलास्का और मिसिसिपी के नतीजे अभी तय नहीं हुए हैं।",
+    "pts": [
+     "जॉर्जिया, न्यू हैम्पशायर और मिशिगन की सीटें बरकरार रखीं",
+     "शूमर ने कानून और विधायी तरीकों से ट्रंप को रोकने का संकल्प लिया",
+     "प्रतिनिधि सभा में भी रिपब्लिकन ने बहुमत खोया"
+    ],
+    "why": "कांग्रेस के दोनों सदनों में बदलाव से अमेरिकी वीज़ा और व्यापार नीतियों पर असर पड़ सकता है; वहाँ रहने वाले तेलुगु लोगों के लिए यह अहम है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "डेमोक्रेट्स की न्यूनतम सीनेट सीटें"
+   },
+   "d": "05.11.2026",
+   "t": "11:05"
+  },
   {
    "cat": "ఏపీ · పల్నాడు",
    "col": "--c-election",
@@ -1756,200 +1949,6 @@
    },
    "d": "04.11.2026",
    "t": "21:35"
-  },
-  {
-   "cat": "పశ్చిమ బెంగాల్ · ఉద్యోగాలు",
-   "col": "--c-gov",
-   "art": "deadline",
-   "stat": "1 లక్ష",
-   "statl": "2027 మే 7 నాటికి నియామకాల లక్ష్యం",
-   "h": "బెంగాల్‌లో 2027 మే నాటికి లక్ష నియామకాలు: సీఎం సువేందు",
-   "p": "నియామకాల్లో రాజకీయ జోక్యం ఉండదని పశ్చిమ బెంగాల్ సీఎం సువేందు అధికారి బుధవారం కోల్‌కతాలో చెప్పారు. 200 మందికి పైగా కొత్త సహకార ఇన్‌స్పెక్టర్లకు నియామక పత్రాలు అందించారు. 2027 మే 7 నాటికి లక్ష నియామకాలు లక్ష్యమని, ఇప్పటివరకు సుమారు 33,400 మంది టీచర్లు సహా 63,496 పోస్టులు భర్తీ చేశామని తెలిపారు. ఓబీసీలకు 7% రిజర్వేషన్ అమలు చేశామన్నారు.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/no-political-interference-in-recruitments-bengal-cm-suvendu/3090569/",
-   "sec": [
-    "india",
-    "jobs"
-   ],
-   "st": "WB",
-   "place": "IN",
-   "loc": "కోల్‌కతా",
-   "pts": [
-    "ఇప్పటివరకు 63,496 పోస్టుల భర్తీ, అందులో 33,400 టీచర్లు",
-    "సుమారు 11,000 పోలీసుల నియామకం; నవంబర్ 7న ఎస్ఐ జాబ్ ఫెయిర్",
-    "₹8,000 కోట్ల డీఏ బకాయిలు చెల్లింపు"
-   ],
-   "why": "బెంగాల్‌లో ప్రభుత్వ ఉద్యోగాల కోసం ఎదురుచూస్తున్న యువతకు, అక్కడి ఉద్యోగులకు ఇది ముఖ్యమైన ప్రకటన.",
-   "en": {
-    "h": "Bengal to make one lakh recruitments by May 2027: CM Suvendu",
-    "p": "West Bengal CM Suvendu Adhikari said in Kolkata on Wednesday that there would be no political interference in recruitments. He handed appointment letters to more than 200 newly selected cooperative inspectors. He said the target is one lakh recruitments by May 7, 2027, and that 63,496 posts, including about 33,400 teachers, have been filled so far. He said 7% reservation for OBCs has been implemented.",
-    "pts": [
-     "63,496 posts filled so far, including 33,400 teachers",
-     "About 11,000 police appointed; SI job fair on November 7",
-     "₹8,000 crore of pending DA dues paid"
-    ],
-    "why": "This is an important announcement for youth awaiting government jobs in Bengal and for employees there.",
-    "cat": "West Bengal · Jobs",
-    "statl": "Recruitment target by May 7, 2027"
-   },
-   "hi": {
-    "h": "बंगाल में मई 2027 तक एक लाख भर्तियां: मुख्यमंत्री शुभेंदु",
-    "p": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने बुधवार को कोलकाता में कहा कि भर्तियों में कोई राजनीतिक हस्तक्षेप नहीं होगा। उन्होंने 200 से अधिक नवचयनित सहकारी निरीक्षकों को नियुक्ति पत्र सौंपे। उन्होंने कहा कि 7 मई 2027 तक एक लाख भर्तियों का लक्ष्य है और अब तक लगभग 33,400 शिक्षकों सहित 63,496 पद भरे जा चुके हैं। उन्होंने बताया कि ओबीसी के लिए 7% आरक्षण लागू किया गया है।",
-    "pts": [
-     "अब तक 63,496 पद भरे गए, इनमें 33,400 शिक्षक",
-     "करीब 11,000 पुलिसकर्मी नियुक्त; 7 नवंबर को एसआई जॉब फेयर",
-     "₹8,000 करोड़ के बकाया डीए का भुगतान"
-    ],
-    "why": "बंगाल में सरकारी नौकरियों का इंतजार कर रहे युवाओं और वहां के कर्मचारियों के लिए यह अहम घोषणा है।",
-    "cat": "पश्चिम बंगाल · नौकरियां",
-    "statl": "7 मई 2027 तक भर्ती लक्ष्य"
-   },
-   "d": "04.11.2026",
-   "t": "21:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "7",
-   "statl": "హార్ముజ్ తెరవడానికి ఇరాన్ షరతులు",
-   "h": "హార్ముజ్‌పై అమెరికా స్పందన నమ్మశక్యంగా లేదన్న ఇరాన్; దాడిని ధ్రువీకరించిన ట్రంప్",
-   "p": "హార్ముజ్ జలసంధిని మళ్లీ తెరవడానికి తాము పెట్టిన ఏడు షరతులపై అమెరికా ఇచ్చిన సమాధానం నమ్మశక్యంగా లేదని ఇరాన్ సుప్రీం జాతీయ భద్రతా మండలి కార్యదర్శి మొహ్సేన్ రెజాయీ అన్నారు. ఆంక్షల ఎత్తివేత, నౌకా దిగ్బంధం ముగింపు వంటివి ఆ షరతుల్లో ఉన్నాయి. ఇరాన్ విమాన విధ్వంసక కేంద్రంపై మంగళవారం దాడి చేసినట్లు ట్రంప్ ధ్రువీకరించారు. ఇరు దేశాల మధ్య చర్చలు కొనసాగుతున్నాయని ఖతార్ తెలిపింది.",
-   "src": "Al Jazeera, Reuters",
-   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "షరతులు నెరవేరితే రెండు రోజుల్లో జలసంధి తెరుస్తామన్న ఇరాన్",
-    "దాడిని 'చిన్న దాడి, యుద్ధం కాదు' అన్న ట్రంప్",
-    "ఒమన్ తీరం సమీపంలో ట్యాంకర్‌ను తాకిన రెండు ప్రక్షేపకాలు"
-   ],
-   "why": "గల్ఫ్‌లో ఉద్రిక్తతలు పెరగడం అక్కడ నివసించే తెలుగువారికి, ప్రపంచ మార్కెట్లకు ఆందోళన కలిగించే అంశం.",
-   "en": {
-    "h": "Iran calls US reply on Hormuz unconvincing; Trump confirms strike",
-    "p": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the US reply to Iran's seven conditions for reopening the Strait of Hormuz was not convincing. The conditions include lifting sanctions and ending the naval blockade. Trump confirmed that the US struck an Iranian anti-aircraft facility on Tuesday. Qatar said talks between the two countries are continuing.",
-    "pts": [
-     "Iran says strait will reopen in two days if conditions are met",
-     "Trump called it a 'minor attack' that 'wasn't war'",
-     "Two projectiles struck a tanker near Oman's coast"
-    ],
-    "why": "Rising tension in the Gulf is a concern for Telugu people living there and for world markets.",
-    "cat": "World · Iran",
-    "statl": "Iran's conditions to reopen Hormuz"
-   },
-   "hi": {
-    "h": "होर्मुज पर अमेरिका का जवाब असंतोषजनक: ईरान; ट्रंप ने हमले की पुष्टि की",
-    "p": "ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मोहसेन रेज़ाई ने कहा कि होर्मुज जलडमरूमध्य फिर से खोलने की ईरान की सात शर्तों पर अमेरिका का जवाब विश्वसनीय नहीं है। इन शर्तों में प्रतिबंध हटाना और नौसैनिक नाकेबंदी खत्म करना शामिल है। ट्रंप ने पुष्टि की कि अमेरिका ने मंगलवार को ईरान के एक विमान-रोधी केंद्र पर हमला किया। कतर ने कहा कि दोनों देशों के बीच बातचीत जारी है।",
-    "pts": [
-     "शर्तें पूरी हों तो दो दिन में जलडमरूमध्य खोलेंगे: ईरान",
-     "ट्रंप ने इसे 'छोटा हमला, युद्ध नहीं' बताया",
-     "ओमान तट के पास टैंकर से टकराए दो प्रक्षेपास्त्र"
-    ],
-    "why": "खाड़ी में बढ़ता तनाव वहां रहने वाले तेलुगु लोगों और दुनिया के बाजारों के लिए चिंता का विषय है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "होर्मुज खोलने की ईरान की शर्तें"
-   },
-   "d": "04.11.2026",
-   "t": "21:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "3",
-   "statl": "గెలిచిన భారత సంతతి నేతలు",
-   "h": "అమెరికా మధ్యంతరం: సుహాస్, పియా గెలుపు; వివేక్ రామస్వామికి ఓటమి",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో భారత సంతతి నేతలు సత్తా చాటారు. వర్జీనియా 10వ జిల్లా నుంచి డెమొక్రాట్ సుహాస్ సుబ్రమణ్యం మళ్లీ గెలిచారు. ఫ్లోరిడా 22వ జిల్లాలో పియా దండియా తొలిసారి ప్రతినిధుల సభకు ఎన్నికయ్యారు. మేరీల్యాండ్ లెఫ్టినెంట్ గవర్నర్‌గా అరుణా మిల్లర్ తిరిగి ఎన్నికయ్యారు. ఒహాయో గవర్నర్ పోటీలో రిపబ్లికన్ వివేక్ రామస్వామి డెమొక్రాట్ ఏమీ ఆక్టన్ చేతిలో ఓడిపోయారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/international/lawmakers-of-indian-origin-in-the-us-midterm-elections-who-won-who-lost-ten26110401534",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "వర్జీనియా 10వ జిల్లాలో సుహాస్ సుబ్రమణ్యం మళ్లీ విజయం",
-    "ఫ్లోరిడా 22వ జిల్లాలో పియా దండియా తొలి గెలుపు",
-    "ఒహాయోకు తొలి మహిళా గవర్నర్‌గా ఏమీ ఆక్టన్"
-   ],
-   "why": "అమెరికాలో ఉంటున్న తెలుగు, భారతీయ కుటుంబాలకు అక్కడి రాజకీయాల్లో భారత సంతతి ప్రాతినిధ్యం ముఖ్యమైనది.",
-   "d": "04.11.2026",
-   "t": "21:05",
-   "en": {
-    "h": "US midterms: Suhas, Pia win; Vivek Ramaswamy loses",
-    "p": "Indian-origin leaders made their mark in the US midterm elections. Democrat Suhas Subramanyam won again from Virginia's 10th district. Pia Dandia was elected to the House of Representatives for the first time from Florida's 22nd district. Aruna Miller was re-elected Lieutenant Governor of Maryland. In the Ohio governor race, Republican Vivek Ramaswamy lost to Democrat Amy Acton.",
-    "pts": [
-     "Suhas Subramanyam wins again in Virginia's 10th district",
-     "Pia Dandia's first win in Florida's 22nd district",
-     "Amy Acton becomes Ohio's first woman governor"
-    ],
-    "why": "Indian-origin representation in US politics matters to Telugu and Indian families living in America.",
-    "cat": "World · USA",
-    "statl": "Indian-origin leaders who won"
-   },
-   "hi": {
-    "h": "अमेरिकी मध्यावधि चुनाव: सुहास, पिया जीते; विवेक रामास्वामी हारे",
-    "p": "अमेरिकी मध्यावधि चुनावों में भारतीय मूल के नेताओं ने दम दिखाया। वर्जीनिया के 10वें जिले से डेमोक्रेट सुहास सुब्रमण्यम फिर जीते। फ्लोरिडा के 22वें जिले से पिया डांडिया पहली बार प्रतिनिधि सभा के लिए चुनी गईं। अरुणा मिलर मैरीलैंड की लेफ्टिनेंट गवर्नर के रूप में फिर चुनी गईं। ओहायो गवर्नर चुनाव में रिपब्लिकन विवेक रामास्वामी डेमोक्रेट एमी एक्टन से हार गए।",
-    "pts": [
-     "वर्जीनिया के 10वें जिले में सुहास सुब्रमण्यम फिर विजयी",
-     "फ्लोरिडा के 22वें जिले में पिया डांडिया की पहली जीत",
-     "एमी एक्टन ओहायो की पहली महिला गवर्नर"
-    ],
-    "why": "अमेरिका में रह रहे तेलुगु और भारतीय परिवारों के लिए वहां की राजनीति में भारतीय मूल का प्रतिनिधित्व अहम है।",
-    "cat": "विश्व · अमेरिका",
-    "statl": "जीते भारतीय मूल के नेता"
-   }
-  },
-  {
-   "cat": "భారత్ · ఢిల్లీ",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "263/26",
-   "statl": "ఢిల్లీ స్పెషల్ సెల్ ఎఫ్ఐఆర్ నంబర్",
-   "h": "రష్యా మంత్రి నకిలీ వీడియో వివాదం: ప్రశాంత్ భూషణ్‌పై ఎఫ్ఐఆర్",
-   "p": "రష్యా విదేశాంగ మంత్రి సెర్గీ లావ్రోవ్ భారత అంతర్గత విషయాలు, చమురు కొనుగోళ్లపై విమర్శలు చేసినట్లు చూపే మార్ఫింగ్ వీడియోను సీనియర్ న్యాయవాది ప్రశాంత్ భూషణ్ ఖాతా షేర్ చేసిందన్న ఆరోపణపై ఢిల్లీ పోలీసు స్పెషల్ సెల్ కేసు నమోదు చేసింది. ఆ వీడియో నకిలీదని విదేశాంగ శాఖ ఫ్యాక్ట్‌చెక్ విభాగం, రష్యా రాయబార కార్యాలయం ప్రకటించాయి. స్పెషల్ సెల్ దర్యాప్తు చేయనుంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/bharat/delhi-police-registers-fir-over-doctored-video-of-russian-fm-shared-by-advocate-prashant-bhushan-ten26110401651",
-   "sec": [
-    "india"
-   ],
-   "st": "DL",
-   "place": "st-DL",
-   "pts": [
-    "నవంబర్ 3న సైబర్ పెట్రోలింగ్‌లో పోస్ట్ గుర్తింపు",
-    "వీడియో నకిలీదని ఎంఈఏ ఫ్యాక్ట్‌చెక్, రష్యా ఎంబసీ వెల్లడి",
-    "బీఎన్ఎస్, ఐటీ చట్టం 66సీ సెక్షన్ల కింద కేసు"
-   ],
-   "why": "సోషల్ మీడియాలో వీడియోలు షేర్ చేసే ముందు నిజానిజాలు తెలుసుకోవాల్సిన అవసరాన్ని ఈ కేసు గుర్తుచేస్తోంది.",
-   "d": "04.11.2026",
-   "t": "21:05",
-   "en": {
-    "h": "Fake video of Russian minister: FIR against Prashant Bhushan",
-    "p": "The Delhi Police Special Cell has registered a case over the allegation that senior advocate Prashant Bhushan's account shared a doctored video showing Russian Foreign Minister Sergey Lavrov criticising India's internal affairs and oil purchases. The External Affairs Ministry's FactCheck unit and the Russian Embassy have said the video is fake. The Special Cell will investigate.",
-    "pts": [
-     "Post noticed during cyber patrolling on November 3",
-     "MEA FactCheck and Russian Embassy say video is fake",
-     "Case under BNS and IT Act Section 66C"
-    ],
-    "why": "The case is a reminder to check facts before sharing videos on social media.",
-    "cat": "India · Delhi",
-    "statl": "Delhi Special Cell FIR number"
-   },
-   "hi": {
-    "h": "रूसी मंत्री का फर्जी वीडियो विवाद: प्रशांत भूषण पर एफआईआर",
-    "p": "रूस के विदेश मंत्री सर्गेई लावरोव को भारत के आंतरिक मामलों और तेल खरीद की आलोचना करते दिखाने वाला छेड़छाड़ किया गया वीडियो वरिष्ठ वकील प्रशांत भूषण के अकाउंट से शेयर होने के आरोप पर दिल्ली पुलिस की स्पेशल सेल ने मामला दर्ज किया है। विदेश मंत्रालय की फैक्टचेक इकाई और रूसी दूतावास ने वीडियो को फर्जी बताया है। स्पेशल सेल जांच करेगी।",
-    "pts": [
-     "3 नवंबर को साइबर पेट्रोलिंग में पोस्ट का पता चला",
-     "एमईए फैक्टचेक और रूसी दूतावास ने वीडियो फर्जी बताया",
-     "बीएनएस और आईटी एक्ट धारा 66सी के तहत मामला"
-    ],
-    "why": "यह मामला सोशल मीडिया पर वीडियो शेयर करने से पहले तथ्य जांचने की ज़रूरत याद दिलाता है।",
-    "cat": "भारत · दिल्ली",
-    "statl": "दिल्ली स्पेशल सेल एफआईआर नंबर"
-   }
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
