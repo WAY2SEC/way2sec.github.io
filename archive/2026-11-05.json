@@ -1,8 +1,252 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 16,
+ "count": 21,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఖమ్మం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "5:30 AM",
+   "statl": "తెల్లవారుజామున రక్షణ",
+   "h": "బేతుపల్లి చెరువు: మత్స్యకారులు, ఎస్‌డీఆర్‌ఎఫ్ సిబ్బందిని కాపాడిన ఎన్‌డీఆర్‌ఎఫ్",
+   "p": "ఖమ్మం జిల్లా సత్తుపల్లి మండలం బేతుపల్లి చెరువులో వరదలో చిక్కుకున్న 8 మంది మత్స్యకారులు, ఎస్‌డీఆర్‌ఎఫ్ సిబ్బందిని గురువారం తెల్లవారుజామున సుమారు 5:30కు ఎన్‌డీఆర్‌ఎఫ్ బృందాలు కాపాడాయని పోలీసులు తెలిపారు. ప్రాణనష్టం జరగలేదని చెప్పారు. బుధవారం రక్షణకు వెళ్లిన సిబ్బంది పడవలు గల్లంతయ్యాయి. గల్లంతైన 11 మందిలో 10 మంది సురక్షితమని, ఒకరి ఆచూకీ ఇంకా తెలియాల్సి ఉందని మన తెలంగాణ పేర్కొంది.",
+   "pts": [
+    "8 మంది మత్స్యకారులను కాపాడిన ఎన్‌డీఆర్‌ఎఫ్ బృందాలు",
+    "ప్రాణనష్టం లేదని ఖమ్మం పోలీసుల ప్రకటన",
+    "ఘటనాస్థలంలో కలెక్టర్ దివాకర్ పర్యవేక్షణ"
+   ],
+   "why": "రాత్రంతా ఆందోళనలో ఉన్న రక్షణ సిబ్బంది, మత్స్యకారుల కుటుంబాలకు ఇది ఊరట కలిగించే వార్త.",
+   "src": "The News Mill (ANI), Mana Telangana",
+   "url": "https://thenewsmill.com/2026/11/ndrf-rescues-8-fishermen-and-missing-sdrf-personnel-from-telangana-lake/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "khammam",
+   "loc": "సత్తుపల్లి",
+   "en": {
+    "cat": "Telangana · Khammam",
+    "statl": "Rescued before dawn",
+    "h": "Bethupalli lake: NDRF rescues fishermen and SDRF personnel",
+    "p": "Police said NDRF teams rescued 8 fishermen and SDRF personnel stranded in floodwaters at Bethupalli lake in Sathupalli mandal, Khammam district, at about 5:30 am on Thursday. No casualties were reported. The rescuers' boats went missing on Wednesday. Mana Telangana reported that 10 of the 11 missing are safe and one is yet to be traced.",
+    "pts": [
+     "NDRF teams rescued 8 fishermen",
+     "Khammam police say no casualties",
+     "Collector Divakar supervised at the site"
+    ],
+    "why": "It is a relief for the families of rescue personnel and fishermen who waited anxiously all night."
+   },
+   "hi": {
+    "cat": "तेलंगाना · खम्मम",
+    "statl": "भोर में बचाव",
+    "h": "बेतुपल्ली झील: NDRF ने मछुआरों और SDRF कर्मियों को बचाया",
+    "p": "पुलिस ने बताया कि खम्मम जिले के सत्तुपल्ली मंडल की बेतुपल्ली झील में बाढ़ में फंसे 8 मछुआरों और SDRF कर्मियों को NDRF टीमों ने गुरुवार सुबह करीब 5:30 बजे बचा लिया। कोई जनहानि नहीं हुई। बुधवार को बचाव कर्मियों की नावें लापता हो गई थीं। मन तेलंगाना के अनुसार 11 लापता में से 10 सुरक्षित हैं और एक का पता लगाना बाकी है।",
+    "pts": [
+     "NDRF टीमों ने 8 मछुआरों को बचाया",
+     "खम्मम पुलिस: कोई जनहानि नहीं",
+     "कलेक्टर दिवाकर ने मौके पर निगरानी की"
+    ],
+    "why": "रात भर चिंता में रहे बचाव कर्मियों और मछुआरों के परिवारों के लिए यह राहत की खबर है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "44",
+   "statl": "కేంద్రాల్లో 3 గంటల వరకే",
+   "h": "ఏపీ పరిషత్ పోలింగ్: వర్షంతో ఓటర్ల ఇక్కట్లు; పోలవరంలో 44 కేంద్రాల్లో 3 వరకే",
+   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ పోలింగ్ కొనసాగుతుండగా పలుచోట్ల వర్షం ఓటర్లను ఇబ్బంది పెడుతోంది. కృష్ణా జిల్లా నందివాడ మండలం జనార్దనపురం కేంద్రంలో నీరు నిలవడంతో సిబ్బంది ఇసుక బస్తాలు వేశారు. ప్రకాశం జిల్లా అద్దంకి, గుడ్లూరు, నాగులపాడు ప్రాంతాల్లోనూ కేంద్రాల వద్ద నీరు చేరింది. పోలవరం జిల్లాలో మావోయిస్టు ప్రభావిత 44 కేంద్రాల్లో మధ్యాహ్నం 3 వరకే పోలింగ్ జరుగుతుంది.",
+   "pts": [
+    "నందివాడలో ఇసుక బస్తాలపై నడిచి ఓటేసిన వృద్ధులు",
+    "పోలవరం జిల్లాలో 368 కేంద్రాలు, 2,78,545 మంది ఓటర్లు",
+    "నెల్లూరు జిల్లాలో 1,568 కేంద్రాలు, 3,000 మంది పోలీసులు"
+   ],
+   "why": "వర్షం వల్ల ముఖ్యంగా వృద్ధులు, దివ్యాంగ ఓటర్లు పోలింగ్ కేంద్రాలకు చేరడంలో ఇబ్బంది పడుతున్నారు.",
+   "src": "Andhra Jyothy, ETV Bharat",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "cat": "Andhra Pradesh · Elections",
+    "statl": "Booths polling only till 3 pm",
+    "h": "AP parishad polls: rain troubles voters; 44 Polavaram booths close at 3 pm",
+    "p": "As MPTC and ZPTC polling continues in Andhra Pradesh, rain is troubling voters in several places. Water stagnated at the Janardhanapuram centre in Nandivada mandal of Krishna district, and staff laid sand bags. Water also collected at centres in Addanki, Gudluru and Nagulapadu areas of Prakasam district. In Polavaram district, 44 Maoist-affected centres will poll only till 3 pm.",
+    "pts": [
+     "Elderly voters walked on sand bags to vote in Nandivada",
+     "Polavaram district: 368 centres, 2,78,545 voters",
+     "Nellore district: 1,568 centres, 3,000 police"
+    ],
+    "why": "Rain is making it hard especially for elderly and differently-abled voters to reach polling centres."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "बूथों पर दोपहर 3 बजे तक ही",
+    "h": "आंध्र परिषद मतदान: बारिश से मतदाता परेशान; पोलावरम के 44 बूथों पर 3 बजे तक",
+    "p": "आंध्र प्रदेश में MPTC और ZPTC मतदान जारी है, लेकिन कई जगहों पर बारिश मतदाताओं को परेशान कर रही है। कृष्णा जिले के नंदिवाडा मंडल के जनार्दनपुरम केंद्र में पानी भरने पर कर्मचारियों ने रेत की बोरियां बिछाईं। प्रकाशम जिले के अद्दंकी, गुडलूरु और नागुलपाडु इलाकों के केंद्रों पर भी पानी जमा हुआ। पोलावरम जिले के 44 माओवादी प्रभावित केंद्रों पर दोपहर 3 बजे तक ही मतदान होगा।",
+    "pts": [
+     "नंदिवाडा में बुजुर्गों ने रेत की बोरियों पर चलकर वोट डाला",
+     "पोलावरम जिले में 368 केंद्र, 2,78,545 मतदाता",
+     "नेल्लोर जिले में 1,568 केंद्र, 3,000 पुलिसकर्मी"
+    ],
+    "why": "बारिश के कारण खासकर बुजुर्ग और दिव्यांग मतदाताओं को मतदान केंद्रों तक पहुंचने में कठिनाई हो रही है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "భారత్ · న్యాయం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "850",
+   "statl": "ఫాస్ట్ ట్రాక్ ప్రత్యేక కోర్టులు",
+   "h": "850 ఫాస్ట్ ట్రాక్ కోర్టుల కొనసాగింపునకు కేంద్ర కేబినెట్ ఆమోదం",
+   "p": "అత్యాచారం, పోక్సో కేసుల విచారణను వేగవంతం చేసేందుకు దేశవ్యాప్తంగా 850 ఫాస్ట్ ట్రాక్ ప్రత్యేక కోర్టుల కొనసాగింపు, బలోపేతానికి కేంద్ర కేబినెట్ బుధవారం ఆమోదం తెలిపింది. కేబినెట్ భేటీ తర్వాత కేంద్ర మంత్రి అశ్విని వైష్ణవ్ ఈ వివరాలు వెల్లడించారు. ఈ కోర్టులు నిర్ణీత గడువులో విచారణ జరుపుతాయి. ప్రత్యేక పోక్సో కోర్టులతో కూడిన ఈ పథకం 2019 అక్టోబర్‌లో ప్రారంభమైంది.",
+   "pts": [
+    "అత్యాచారం, పోక్సో కేసుల విచారణ వేగవంతమే లక్ష్యం",
+    "కేబినెట్ నిర్ణయం వెల్లడించిన మంత్రి అశ్విని వైష్ణవ్",
+    "2019 అక్టోబర్‌లో ప్రారంభమైన కేంద్ర ప్రాయోజిత పథకం"
+   ],
+   "why": "పెండింగ్‌లో ఉన్న అత్యాచారం, పిల్లలపై లైంగిక నేరాల కేసుల్లో బాధితులకు త్వరగా తీర్పు అందే అవకాశం.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/new-delhi/cabinet-nod-for-850-fast-track-courts-to-expedite-rape-pocso-trials-1139308",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Justice",
+    "statl": "Fast Track Special Courts",
+    "h": "Union Cabinet approves continuing 850 fast-track courts",
+    "p": "To speed up trials in rape and POCSO cases, the Union Cabinet on Wednesday approved the extension and strengthening of 850 Fast Track Special Courts across India. Union Minister Ashwini Vaishnaw shared the details after the Cabinet meeting. These courts hold time-bound trials. The scheme, which includes exclusive POCSO courts, began in October 2019.",
+    "pts": [
+     "Aim is faster trials in rape and POCSO cases",
+     "Minister Ashwini Vaishnaw announced the Cabinet decision",
+     "Centrally sponsored scheme started in October 2019"
+    ],
+    "why": "Victims in pending rape and child sexual abuse cases may get verdicts faster."
+   },
+   "hi": {
+    "cat": "भारत · न्याय",
+    "statl": "फास्ट ट्रैक विशेष अदालतें",
+    "h": "850 फास्ट ट्रैक अदालतें जारी रखने को केंद्रीय कैबिनेट की मंजूरी",
+    "p": "बलात्कार और पॉक्सो मामलों की सुनवाई तेज करने के लिए केंद्रीय कैबिनेट ने बुधवार को देशभर में 850 फास्ट ट्रैक विशेष अदालतों को जारी रखने और मजबूत करने की मंजूरी दी। कैबिनेट बैठक के बाद केंद्रीय मंत्री अश्विनी वैष्णव ने यह जानकारी दी। ये अदालतें तय समय में सुनवाई करती हैं। विशेष पॉक्सो अदालतों वाली यह योजना अक्टूबर 2019 में शुरू हुई थी।",
+    "pts": [
+     "लक्ष्य: बलात्कार और पॉक्सो मामलों की तेज सुनवाई",
+     "मंत्री अश्विनी वैष्णव ने कैबिनेट फैसले की जानकारी दी",
+     "अक्टूबर 2019 में शुरू हुई केंद्र प्रायोजित योजना"
+    ],
+    "why": "लंबित बलात्कार और बाल यौन अपराध मामलों में पीड़ितों को जल्दी फैसला मिल सकता है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "9",
+   "statl": "సంస్థలపై అమెరికా ఆంక్షలు",
+   "h": "ఇరాన్ చమురు మోసం: భారతీయులు, 9 సంస్థలపై అమెరికా ఆంక్షలు",
+   "p": "భారత్‌కు చెందిన ఒక దంపతులు, మరో ఇద్దరు భారతీయులు, తొమ్మిది సంస్థలపై అమెరికా ట్రెజరీ శాఖ బుధవారం ఆంక్షలు విధించింది. ఇరాన్ సైన్యానికి సేవలందించే నౌకలు సహా పలు నౌకలకు తప్పుడు జెండాలు, నకిలీ సముద్ర ధ్రువపత్రాలు అందించిందని ఈ నెట్‌వర్క్‌పై ఆరోపణ. ట్రంప్ ప్రభుత్వం చేపట్టిన ‘ఆపరేషన్ ఎకనామిక్ అవుట్‌కాస్ట్’ కింద ఈ చర్య తీసుకుంది.",
+   "pts": [
+    "భారత దంపతులు, మరో ఇద్దరు భారతీయులపై ఆంక్షలు",
+    "నౌకలకు తప్పుడు జెండాలు, నకిలీ పత్రాలు ఇచ్చారని ఆరోపణ",
+    "‘ఆపరేషన్ ఎకనామిక్ అవుట్‌కాస్ట్’ కింద చర్య"
+   ],
+   "why": "ఇరాన్‌కు సంబంధించిన నౌకా వ్యాపారంపై అమెరికా చర్యలు భారతీయ సంస్థలనూ తాకుతున్నాయని ఇది చూపిస్తోంది.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/today-in-india-5-november-2026/",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · USA",
+    "statl": "Firms hit by US sanctions",
+    "h": "Iran oil fraud: US sanctions Indians and 9 firms",
+    "p": "The US Treasury on Wednesday sanctioned an India-based couple, two other Indian nationals and nine companies. The network is accused of providing false flags and fake maritime certificates to vessels, including those serving Iran's military. The action was taken under the Trump administration's 'Operation Economic Outcast'.",
+    "pts": [
+     "Sanctions on an Indian couple and two other Indians",
+     "Accused of giving vessels false flags and fake papers",
+     "Action under 'Operation Economic Outcast'"
+    ],
+    "why": "It shows US action on Iran-linked shipping is also reaching Indian firms."
+   },
+   "hi": {
+    "cat": "दुनिया · अमेरिका",
+    "statl": "कंपनियों पर अमेरिकी प्रतिबंध",
+    "h": "ईरान तेल धोखाधड़ी: भारतीयों और 9 कंपनियों पर अमेरिकी प्रतिबंध",
+    "p": "अमेरिकी वित्त विभाग ने बुधवार को भारत स्थित एक दंपति, दो अन्य भारतीय नागरिकों और नौ कंपनियों पर प्रतिबंध लगाए। इस नेटवर्क पर ईरान की सेना की सेवा करने वाले जहाजों समेत कई जहाजों को झूठे झंडे और फर्जी समुद्री प्रमाणपत्र देने का आरोप है। यह कार्रवाई ट्रंप प्रशासन के 'ऑपरेशन इकोनॉमिक आउटकास्ट' के तहत की गई।",
+    "pts": [
+     "एक भारतीय दंपति और दो अन्य भारतीयों पर प्रतिबंध",
+     "जहाजों को झूठे झंडे और फर्जी कागजात देने का आरोप",
+     "'ऑपरेशन इकोनॉमिक आउटकास्ट' के तहत कार्रवाई"
+    ],
+    "why": "इससे पता चलता है कि ईरान से जुड़े जहाजरानी पर अमेरिकी कार्रवाई भारतीय कंपनियों तक भी पहुंच रही है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "భారత్ · దర్యాప్తు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "రెడ్ నోటీస్",
+   "statl": "ఇంటర్‌పోల్ నోటీసుపై అరెస్ట్",
+   "h": "మహాదేవ్ బెట్టింగ్ యాప్ సహ ప్రమోటర్ దుబాయ్‌లో అరెస్ట్",
+   "p": "మహాదేవ్ బెట్టింగ్ యాప్ సహ ప్రమోటర్‌ను ఇంటర్‌పోల్ రెడ్ నోటీస్ ఆధారంగా బుధవారం దుబాయ్‌లో అరెస్ట్ చేశారు. మనీలాండరింగ్ కేసులో అతడిని భారత్‌కు అప్పగించేలా సీబీఐ, ఈడీ ప్రయత్నిస్తున్నాయి. 2023లో యూఏఈ అధికారులు అతడిని అదుపులోకి తీసుకోగా, తర్వాత ఆస్ట్రేలియాలో ఉన్నట్లు తేలింది. అతడు వనువాటు పాస్‌పోర్ట్ పొందినట్లు సమాచారం.",
+   "pts": [
+    "ఇంటర్‌పోల్ రెడ్ నోటీస్ ఆధారంగా అరెస్ట్",
+    "అప్పగింత కోసం సీబీఐ, ఈడీ ప్రయత్నాలు",
+    "వనువాటు పాస్‌పోర్ట్ పొందినట్లు సమాచారం"
+   ],
+   "why": "అక్రమ ఆన్‌లైన్ బెట్టింగ్ యాప్‌ల మనీలాండరింగ్ కేసుల్లో దర్యాప్తు సంస్థల చర్యలు కొనసాగుతున్నాయి.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/today-in-india-5-november-2026/#mahadev",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Investigation",
+    "statl": "Arrested on Interpol notice",
+    "h": "Mahadev betting app co-promoter arrested in Dubai",
+    "p": "A co-promoter of the Mahadev betting app was arrested in Dubai on Wednesday on an Interpol Red Notice. The CBI and ED are working to get him extradited to India in a money laundering case. UAE authorities had detained him in 2023, and he was later found to be in Australia. He reportedly obtained a Vanuatu passport.",
+    "pts": [
+     "Arrested on an Interpol Red Notice",
+     "CBI and ED working on extradition",
+     "Reportedly obtained a Vanuatu passport"
+    ],
+    "why": "Investigating agencies are continuing action in money laundering cases linked to illegal online betting apps."
+   },
+   "hi": {
+    "cat": "भारत · जांच",
+    "statl": "इंटरपोल नोटिस पर गिरफ्तारी",
+    "h": "महादेव बेटिंग ऐप का सह-प्रमोटर दुबई में गिरफ्तार",
+    "p": "महादेव बेटिंग ऐप के एक सह-प्रमोटर को बुधवार को इंटरपोल रेड नोटिस के आधार पर दुबई में गिरफ्तार किया गया। मनी लॉन्ड्रिंग मामले में उसके प्रत्यर्पण के लिए CBI और ED प्रयास कर रहे हैं। 2023 में UAE अधिकारियों ने उसे हिरासत में लिया था, बाद में वह ऑस्ट्रेलिया में पाया गया। बताया जाता है कि उसने वानुअतु का पासपोर्ट हासिल किया था।",
+    "pts": [
+     "इंटरपोल रेड नोटिस के आधार पर गिरफ्तारी",
+     "प्रत्यर्पण के लिए CBI और ED के प्रयास",
+     "वानुअतु पासपोर्ट हासिल करने की जानकारी"
+    ],
+    "why": "अवैध ऑनलाइन बेटिंग ऐप से जुड़े मनी लॉन्ड्रिंग मामलों में जांच एजेंसियों की कार्रवाई जारी है।"
+   },
+   "d": "05.11.2026",
+   "t": "08:35"
+  },
   {
    "cat": "భారత్ · మార్కెట్లు",
    "col": "--c-money",
