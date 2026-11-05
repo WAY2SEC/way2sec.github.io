@@ -1,8 +1,203 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 9,
+ "count": 13,
  "stories": [
+  {
+   "cat": "ఏపీ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "2,721",
+   "statl": "ఉపాధ్యాయ పోస్టులు",
+   "h": "ఏపీ డీఎస్సీ-2026 నోటిఫికేషన్ విడుదల: 2,721 టీచర్ పోస్టులు",
+   "p": "ఆంధ్రప్రదేశ్‌లో 2,721 ఉపాధ్యాయ పోస్టుల భర్తీకి డీఎస్సీ-2026 పూర్తి నోటిఫికేషన్, సమాచార బులెటిన్ విడుదలయ్యాయి. నవంబర్ 11 నుంచి 30 వరకు ఆన్‌లైన్‌లో దరఖాస్తు చేసుకోవచ్చు. డిసెంబర్ 20 నుంచి 2027 జనవరి 13 వరకు ఆన్‌లైన్ పరీక్షలు జరుగుతాయి. పోస్టుల వివరాలు పాఠశాల విద్యాశాఖ వెబ్‌సైట్‌లో ఉంటాయి.",
+   "pts": [
+    "డిసెంబర్ 5 నుంచి మాక్ టెస్ట్ అందుబాటులో",
+    "డిసెంబర్ 14 నుంచి హాల్ టికెట్లు",
+    "350 ప్రత్యేక విద్య, 260 సొసైటీ పోస్టులు కూడా"
+   ],
+   "why": "ఉపాధ్యాయ ఉద్యోగాల కోసం సిద్ధమవుతున్న ఏపీ అభ్యర్థులు దరఖాస్తు తేదీలు గుర్తుంచుకోవాలి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "cat": "Andhra Pradesh · Education",
+    "h": "AP DSC-2026 notification released for 2,721 teacher posts",
+    "p": "The full DSC-2026 notification and information bulletin for filling 2,721 teacher posts in Andhra Pradesh have been released. Online applications can be made from November 11 to 30. Online exams will be held from December 20 to January 13, 2027. Post details will be on the School Education Department website.",
+    "pts": [
+     "Mock test available from December 5",
+     "Hall tickets from December 14",
+     "Also 350 special education and 260 society posts"
+    ],
+    "why": "AP candidates preparing for teacher jobs should note the application dates.",
+    "statl": "Teacher posts"
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · शिक्षा",
+    "h": "आंध्र प्रदेश डीएससी-2026 अधिसूचना जारी: 2,721 शिक्षक पद",
+    "p": "आंध्र प्रदेश में 2,721 शिक्षक पदों को भरने के लिए डीएससी-2026 की पूरी अधिसूचना और सूचना बुलेटिन जारी हो गए हैं। 11 से 30 नवंबर तक ऑनलाइन आवेदन किए जा सकते हैं। 20 दिसंबर से 13 जनवरी 2027 तक ऑनलाइन परीक्षाएं होंगी। पदों का विवरण स्कूल शिक्षा विभाग की वेबसाइट पर होगा।",
+    "pts": [
+     "5 दिसंबर से मॉक टेस्ट उपलब्ध",
+     "14 दिसंबर से हॉल टिकट",
+     "350 विशेष शिक्षा और 260 सोसाइटी पद भी"
+    ],
+    "why": "शिक्षक नौकरी की तैयारी कर रहे आंध्र प्रदेश के उम्मीदवार आवेदन की तारीखें याद रखें।",
+    "statl": "शिक्षक पद"
+   },
+   "d": "05.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2.61 కోట్లు",
+   "statl": "ఓటర్లు",
+   "h": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ పోలింగ్ ప్రారంభం; ఏలూరులో కొన్ని మండలాల్లో వాయిదా",
+   "p": "రాష్ట్రవ్యాప్తంగా ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ ఉదయం ప్రారంభమైంది. 582 జడ్పీటీసీ, 7,767 ఎంపీటీసీ స్థానాలకు ఓటింగ్ జరుగుతోంది. సుమారు 2.61 కోట్ల మంది ఓటర్లు ఉన్నారు. తుపాను వర్షాల వల్ల ఏలూరు జిల్లాలోని వేలేరుపాడు, బుట్టాయగూడెం, జీలుగుమిల్లి, పోలవరం మండలాల్లో పోలింగ్ నవంబర్ 6కు వాయిదా పడింది.",
+   "pts": [
+    "31,460 పోలింగ్ కేంద్రాలు, సుమారు 2 లక్షల సిబ్బంది",
+    "77 జడ్పీటీసీ, 2,051 ఎంపీటీసీ ఏకగ్రీవం",
+    "తూర్పు గోదావరి గోపాలపురం మండలంలోనూ వాయిదా"
+   ],
+   "why": "గ్రామీణ స్థానిక పాలనలో ఎవరు ఉంటారో ఈ ఎన్నికలు నిర్ణయిస్తాయి; వాయిదా మండలాల ఓటర్లు రేపు ఓటేయాలి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "cat": "Andhra Pradesh · Elections",
+    "h": "AP MPTC, ZPTC polling begins; postponed in some Eluru mandals",
+    "p": "Polling for MPTC and ZPTC elections began across the state in the morning. Voting is under way for 582 ZPTC and 7,767 MPTC seats. There are about 2.61 crore voters. Due to cyclone rains, polling in Velerupadu, Buttayagudem, Jeelugumilli and Polavaram mandals of Eluru district was postponed to November 6.",
+    "pts": [
+     "31,460 polling stations, about 2 lakh staff",
+     "77 ZPTC and 2,051 MPTC seats unopposed",
+     "Also postponed in Gopalapuram mandal, East Godavari"
+    ],
+    "why": "These polls decide rural local governance; voters in postponed mandals must vote tomorrow.",
+    "statl": "Voters"
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "h": "आंध्र प्रदेश में एमपीटीसी, जेडपीटीसी मतदान शुरू; एलुरु के कुछ मंडलों में स्थगित",
+    "p": "राज्य भर में एमपीटीसी और जेडपीटीसी चुनावों के लिए सुबह मतदान शुरू हुआ। 582 जेडपीटीसी और 7,767 एमपीटीसी सीटों के लिए वोटिंग हो रही है। लगभग 2.61 करोड़ मतदाता हैं। चक्रवात की बारिश के कारण एलुरु जिले के वेलेरुपाडु, बुट्टायगुडेम, जीलुगुमिल्ली और पोलावरम मंडलों में मतदान 6 नवंबर तक स्थगित किया गया।",
+    "pts": [
+     "31,460 मतदान केंद्र, लगभग 2 लाख कर्मचारी",
+     "77 जेडपीटीसी और 2,051 एमपीटीसी सीटें निर्विरोध",
+     "पूर्वी गोदावरी के गोपालपुरम मंडल में भी स्थगित"
+    ],
+    "why": "ये चुनाव ग्रामीण स्थानीय शासन तय करते हैं; स्थगित मंडलों के मतदाता कल वोट डालेंगे।",
+    "statl": "मतदाता"
+   },
+   "d": "05.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "ఏపీ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "రెడ్ అలర్ట్",
+   "statl": "3 జిల్లాలకు భారీ వర్ష హెచ్చరిక",
+   "h": "అల్లూరి, తూర్పు గోదావరి, ఏలూరు జిల్లాలకు రెడ్ అలర్ట్",
+   "p": "బంగాళాఖాతంలో వాతావరణ వ్యవస్థ ప్రభావంతో అల్లూరి సీతారామరాజు, తూర్పు గోదావరి, ఏలూరు జిల్లాల్లో నేడు భారీ వర్షాలు పడతాయని వాతావరణ శాఖ రెడ్ అలర్ట్ ఇచ్చింది. అనకాపల్లి, కాకినాడ, కోనసీమ జిల్లాలకు ఆరెంజ్ అలర్ట్, పశ్చిమ గోదావరికి ఎల్లో అలర్ట్ ఉంది. ప్రకాశం జిల్లాలో ఉదయం నుంచి భారీ వర్షం కురుస్తోంది.",
+   "pts": [
+    "అనకాపల్లి, కాకినాడ, కోనసీమకు ఆరెంజ్ అలర్ట్",
+    "అద్దంకి, గుడ్లూరు పోలింగ్ కేంద్రాల వద్ద నీరు",
+    "పశ్చిమ గోదావరికి ఎల్లో అలర్ట్"
+   ],
+   "why": "ఈ జిల్లాల ప్రజలు, ఓటు వేయడానికి వెళ్లేవారు వర్షాల వేళ జాగ్రత్తగా ఉండాలి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "cat": "Andhra Pradesh · Weather",
+    "h": "Red alert for Alluri, East Godavari and Eluru districts",
+    "p": "Due to a weather system in the Bay of Bengal, the weather department issued a red alert forecasting heavy rain today in Alluri Sitarama Raju, East Godavari and Eluru districts. Anakapalli, Kakinada and Konaseema districts are on orange alert, and West Godavari on yellow alert. Prakasam district has had heavy rain since morning.",
+    "pts": [
+     "Orange alert for Anakapalli, Kakinada, Konaseema",
+     "Water at polling stations in Addanki, Gudluru",
+     "Yellow alert for West Godavari"
+    ],
+    "why": "People in these districts, including those going to vote, should take care during the rains.",
+    "statl": "Heavy rain warning for 3 districts"
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · मौसम",
+    "h": "अल्लूरी, पूर्वी गोदावरी और एलुरु जिलों के लिए रेड अलर्ट",
+    "p": "बंगाल की खाड़ी में मौसम प्रणाली के प्रभाव से मौसम विभाग ने अल्लूरी सीताराम राजू, पूर्वी गोदावरी और एलुरु जिलों में आज भारी बारिश का रेड अलर्ट जारी किया है। अनकापल्ली, काकीनाडा और कोनसीमा जिलों के लिए ऑरेंज अलर्ट और पश्चिम गोदावरी के लिए येलो अलर्ट है। प्रकाशम जिले में सुबह से भारी बारिश हो रही है।",
+    "pts": [
+     "अनकापल्ली, काकीनाडा, कोनसीमा के लिए ऑरेंज अलर्ट",
+     "अद्दंकी, गुडलुरु मतदान केंद्रों पर पानी",
+     "पश्चिम गोदावरी के लिए येलो अलर्ट"
+    ],
+    "why": "इन जिलों के लोग, खासकर वोट डालने जाने वाले, बारिश में सावधान रहें।",
+    "statl": "3 जिलों में भारी बारिश की चेतावनी"
+   },
+   "d": "05.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇజ్రాయెల్",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "61",
+   "statl": "ప్రభుత్వానికి కావాల్సిన సీట్లు",
+   "h": "ఇజ్రాయెల్ ఎన్నికల ఫలితాలను ఆమోదించిన అధ్యక్షుడు హెర్జోగ్; ప్రభుత్వ ఏర్పాటుపై చర్చలు",
+   "p": "అక్టోబర్ 27 ఎన్నికల ధ్రువీకరించిన ఫలితాలను ఇజ్రాయెల్ అధ్యక్షుడు ఐజాక్ హెర్జోగ్ ఆమోదించి, ప్రభుత్వ ఏర్పాటుపై పార్టీ నేతలతో సంప్రదింపులు ప్రారంభించారు. 120 సీట్ల పార్లమెంటులో ఏ కూటమికీ 61 సీట్లు రాలేదు. నెతన్యాహు కూటమికి 53, ప్రతిపక్ష నేత గాదీ ఐసెన్‌కోట్ కూటమికి 48, అరబ్ పార్టీలకు రికార్డు స్థాయిలో 19 సీట్లు వచ్చాయి.",
+   "pts": [
+    "ఎంపికైన నేతకు ప్రభుత్వ ఏర్పాటుకు 28 రోజుల గడువు",
+    "అక్రమాలకు ఆధారాలు లేవన్న ఎన్నికల కమిషన్",
+    "విఫలమైతే వచ్చే ఏడాది మొదట్లో మళ్లీ ఎన్నికలు"
+   ],
+   "why": "పశ్చిమాసియా పరిణామాలు అక్కడ పనిచేసే భారతీయులు, చమురు ధరలపై ప్రభావం చూపవచ్చు.",
+   "src": "Al Jazeera / AP",
+   "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · Israel",
+    "h": "Israel's President Herzog accepts election results, opens coalition talks",
+    "p": "Israeli President Isaac Herzog accepted the certified results of the October 27 election and began consultations with party leaders on forming a government. No bloc won 61 seats in the 120-seat parliament. Netanyahu's coalition won 53, opposition leader Gadi Eisenkot's bloc 48, and Arab-led parties a record 19 seats.",
+    "pts": [
+     "Chosen leader gets 28 days to form government",
+     "Election commission found no evidence of irregularities",
+     "Fresh election early next year if all fail"
+    ],
+    "why": "West Asia developments can affect Indians working there and oil prices.",
+    "statl": "Seats needed to govern"
+   },
+   "hi": {
+    "cat": "विश्व · इज़राइल",
+    "h": "इज़राइल के राष्ट्रपति हर्ज़ोग ने चुनाव नतीजे स्वीकारे; सरकार गठन पर बातचीत शुरू",
+    "p": "इज़राइल के राष्ट्रपति आइज़ैक हर्ज़ोग ने 27 अक्टूबर के चुनाव के प्रमाणित नतीजे स्वीकार कर सरकार गठन पर पार्टी नेताओं से परामर्श शुरू किया। 120 सीटों वाली संसद में किसी गुट को 61 सीटें नहीं मिलीं। नेतन्याहू गठबंधन को 53, विपक्ष के नेता गादी आइज़नकोट के गुट को 48 और अरब पार्टियों को रिकॉर्ड 19 सीटें मिलीं।",
+    "pts": [
+     "चुने गए नेता को सरकार बनाने के लिए 28 दिन",
+     "चुनाव आयोग को गड़बड़ी का कोई सबूत नहीं मिला",
+     "विफल होने पर अगले साल की शुरुआत में फिर चुनाव"
+    ],
+    "why": "पश्चिम एशिया के घटनाक्रम वहां काम करने वाले भारतीयों और तेल कीमतों पर असर डाल सकते हैं।",
+    "statl": "सरकार के लिए जरूरी सीटें"
+   },
+   "d": "05.11.2026",
+   "t": "07:35"
+  },
   {
    "brk": true,
    "cat": "తెలంగాణ · ఖమ్మం",
