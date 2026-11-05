@@ -1,8 +1,106 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 45,
+ "count": 47,
  "stories": [
+  {
+   "cat": "భారత్ · సైబర్ భద్రత",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "AI",
+   "statl": "ఆధారిత సైబర్ దాడులపై సెర్ట్-ఇన్ హెచ్చరిక",
+   "h": "బ్యాంకులు, ఫిన్‌టెక్ సంస్థలపై ఏఐ సైబర్ దాడులు: సెర్ట్-ఇన్ తాజా హెచ్చరిక",
+   "p": "ఏఐ సాధనాలతో నడుస్తున్న 'క్రాఫ్టీ ఫాల్కన్' సైబర్ దాడులు గణనీయంగా పెరిగాయని సెర్ట్-ఇన్ బ్యాంకులు, ఎన్‌బీఎఫ్‌సీలు, ఫిన్‌టెక్ సంస్థలను హెచ్చరించింది. వారాంతాలు, సెలవుల్లో భద్రతా పర్యవేక్షణ తక్కువగా ఉన్నప్పుడు దాడిదారులు దాడులు చేస్తున్నారు. సవరించిన మొబైల్ యాప్‌లు, అనధికార ఏపీఐ కాల్స్‌తో మోసపూరిత లావాదేవీలు జరుపుతున్నారు. లోపాలు పూర్తిగా సరిదిద్దని సంస్థలపై మళ్లీ దాడులు జరిగాయని తెలిపింది.",
+   "src": "Telangana Today (IANS)",
+   "url": "https://telanganatoday.com/cert-in-warns-financial-firms-as-ai-driven-crafty-falcon-cyberattacks-escalate",
+   "sec": [
+    "india",
+    "ai",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ముందు చిన్న లావాదేవీలతో పరీక్ష, తర్వాత పెద్ద బదిలీలు",
+    "క్లౌడ్, టెస్టింగ్ వ్యవస్థలు, దొంగిలించిన లాగిన్‌లతో చొరబాటు",
+    "అక్టోబర్‌లోనూ ఏపీఐ దుర్వినియోగంపై హెచ్చరిక"
+   ],
+   "why": "బ్యాంకు ఖాతాదారులు, డిజిటల్ చెల్లింపులు వాడేవారి డబ్బు భద్రతకు ఇది కీలక హెచ్చరిక.",
+   "d": "05.11.2026",
+   "t": "13:05",
+   "en": {
+    "h": "AI-driven cyberattacks on banks, fintechs: CERT-In issues fresh warning",
+    "p": "CERT-In has warned banks, NBFCs and fintech firms that the AI-powered 'Crafty Falcon' cyberattack campaign has escalated significantly. Attackers are striking on weekends and holidays when security oversight is lower. They are using modified mobile apps and unauthorised API calls to carry out fraudulent transactions. CERT-In said attackers returned to firms that had not fully fixed identified weaknesses.",
+    "pts": [
+     "Small test transactions first, then larger transfers",
+     "Entry via cloud, testing systems and stolen logins",
+     "An alert on API misuse was also issued in October"
+    ],
+    "why": "This is a key warning for the safety of money of bank customers and digital payment users.",
+    "cat": "India · Cyber security",
+    "statl": "CERT-In warns of AI-driven cyberattacks"
+   },
+   "hi": {
+    "h": "बैंकों, फिनटेक कंपनियों पर एआई साइबर हमले: सर्ट-इन की नई चेतावनी",
+    "p": "सर्ट-इन ने बैंकों, एनबीएफसी और फिनटेक कंपनियों को चेताया है कि एआई टूल से चल रहा 'क्राफ्टी फाल्कन' साइबर हमला अभियान काफी बढ़ गया है। हमलावर सप्ताहांत और छुट्टियों में हमला कर रहे हैं, जब सुरक्षा निगरानी कम होती है। वे बदले हुए मोबाइल ऐप और अनधिकृत एपीआई कॉल से धोखाधड़ी वाले लेनदेन कर रहे हैं। सर्ट-इन ने कहा कि जिन संस्थाओं ने कमियां पूरी तरह ठीक नहीं कीं, उन पर फिर हमले हुए।",
+    "pts": [
+     "पहले छोटे लेनदेन से जांच, फिर बड़े ट्रांसफर",
+     "क्लाउड, टेस्टिंग सिस्टम और चोरी हुए लॉगिन से घुसपैठ",
+     "अक्टूबर में भी एपीआई दुरुपयोग पर चेतावनी"
+    ],
+    "why": "बैंक ग्राहकों और डिजिटल भुगतान करने वालों के पैसे की सुरक्षा के लिए यह अहम चेतावनी है।",
+    "cat": "भारत · साइबर सुरक्षा",
+    "statl": "एआई आधारित साइबर हमलों पर सर्ट-इन की चेतावनी"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "సా. 4 గం.",
+   "statl": "సచివాలయంలో రాష్ట్ర కేబినెట్ భేటీ",
+   "h": "నేడు సాయంత్రం 4 గంటలకు తెలంగాణ కేబినెట్ భేటీ; చేయూత పింఛన్‌పై చర్చ",
+   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి అధ్యక్షతన గురువారం సాయంత్రం 4 గంటలకు సచివాలయంలో రాష్ట్ర మంత్రివర్గం సమావేశం కానుంది. దానికి ముందు అనధికార భేటీ జరుగుతుంది. నిజామాబాద్, నల్గొండ, వరంగల్, కరీంనగర్‌లో ఇందిరమ్మ టవర్ల నిర్మాణం, ఎస్సీ/ఎస్టీ కమిషన్ ఏర్పాటుకు చట్ట సవరణ, యంగ్ ఇండియా పాఠశాలలు, పోలీస్ స్టేషన్లకు భూకేటాయింపు, చేయూత పింఛన్ మార్గదర్శకాలు అజెండాలో ఉండే అవకాశం ఉంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "సీఎం అధ్యక్షతన సచివాలయంలో సా. 4 గంటలకు భేటీ",
+    "భూ సీలింగ్, సాదాబైనామా క్రమబద్ధీకరణకు కొత్త దరఖాస్తులపై చర్చ",
+    "కొన్ని శాఖల్లో కొత్త పోస్టులపై నిర్ణయం అవకాశం"
+   ],
+   "why": "పింఛన్‌దారులు, భూ యజమానులు, ఉద్యోగార్థులపై ఈ భేటీ నిర్ణయాల ప్రభావం ఉంటుంది.",
+   "d": "05.11.2026",
+   "t": "13:05",
+   "en": {
+    "h": "Telangana Cabinet meets at 4 pm today; Cheyutha pension on agenda",
+    "p": "The state Cabinet will meet at the Secretariat at 4 pm on Thursday, chaired by Chief Minister Revanth Reddy. An informal meeting will be held before it. Indiramma towers in Nizamabad, Nalgonda, Warangal and Karimnagar, an Act amendment to form an SC/ST Commission, land allotment for Young India schools and police stations, and Cheyutha pension guidelines are likely on the agenda.",
+    "pts": [
+     "Meeting at Secretariat at 4 pm, chaired by the CM",
+     "New applications for land ceiling, Sadabainama regularisation",
+     "Decision likely on new posts in some departments"
+    ],
+    "why": "Decisions at this meeting will affect pensioners, land owners and job seekers.",
+    "cat": "Telangana · Government",
+    "statl": "State Cabinet meeting at Secretariat"
+   },
+   "hi": {
+    "h": "तेलंगाना कैबिनेट की बैठक आज शाम 4 बजे; चेयूता पेंशन पर चर्चा",
+    "p": "मुख्यमंत्री रेवंत रेड्डी की अध्यक्षता में गुरुवार शाम 4 बजे सचिवालय में राज्य मंत्रिमंडल की बैठक होगी। इससे पहले एक अनौपचारिक बैठक होगी। निज़ामाबाद, नलगोंडा, वारंगल और करीमनगर में इंदिरम्मा टावर, एससी/एसटी आयोग के गठन के लिए कानून संशोधन, यंग इंडिया स्कूलों और पुलिस थानों के लिए जमीन आवंटन और चेयूता पेंशन के दिशानिर्देश एजेंडे में रहने की संभावना है।",
+    "pts": [
+     "मुख्यमंत्री की अध्यक्षता में सचिवालय में शाम 4 बजे बैठक",
+     "लैंड सीलिंग, सादाबैनामा नियमितीकरण के नए आवेदनों पर चर्चा",
+     "कुछ विभागों में नए पदों पर फैसला संभव"
+    ],
+    "why": "इस बैठक के फैसलों का असर पेंशनधारकों, जमीन मालिकों और नौकरी चाहने वालों पर होगा।",
+    "cat": "तेलंगाना · सरकार",
+    "statl": "सचिवालय में राज्य कैबिनेट बैठक"
+   }
+  },
   {
    "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
    "col": "--c-election",
