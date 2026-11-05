@@ -1,8 +1,108 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T16:35:00+05:30",
+ "updated": "2026-11-05T17:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · ప్రకాశం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "4",
+   "statl": "తీరానికి కొట్టుకొచ్చిన మృతదేహాలు",
+   "h": "కొత్తపట్నం తీరంలో నలుగురు తమిళనాడు మత్స్యకారుల మృతదేహాలు; ఐదుగురి కోసం గాలింపు",
+   "p": "చెన్నై కాశిమేడు నుంచి అక్టోబర్ 29న వేటకు బయలుదేరిన తమిళనాడు బోటు మురసు తుపానులో బోల్తా పడినట్టు అధికారులు భావిస్తున్నారు. అందులోని తొమ్మిది మంది మత్స్యకారుల్లో నలుగురి మృతదేహాలు ప్రకాశం జిల్లా కొత్తపట్నం తీరానికి కొట్టుకొచ్చాయి. మిగిలిన ఐదుగురి కోసం కోస్ట్‌గార్డ్, మెరైన్ పోలీసులు, స్థానిక మత్స్యకారులు గాలిస్తున్నారని కలెక్టర్ చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/ongole/four-bodies-of-missing-tamil-nadu-fishermen-found-off-andhra-coast-search-on-for-five-others-1139564",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "ap-prakasam",
+   "loc": "కొత్తపట్నం",
+   "pts": [
+    "బోటు నిజాంపట్నం దగ్గర వేటకు బయలుదేరింది",
+    "బుధవారం సాయంత్రం బోల్తా పడిన బోటు కనిపించింది",
+    "కోస్ట్‌గార్డ్ నుంచి వైమానిక గాలింపు కోరిన తమిళనాడు"
+   ],
+   "why": "తుపాను హెచ్చరికల సమయంలో సముద్రంలోకి వెళ్లే మత్స్యకారులకు ఎంత ప్రమాదమో ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Bodies of 4 Tamil Nadu fishermen wash ashore at Kothapatnam; search on for 5",
+    "p": "Officials believe a Tamil Nadu boat that left Kasimedu in Chennai on October 29 for fishing capsized in Cyclone Murasu. The bodies of four of the nine fishermen on board washed ashore at Kothapatnam coast in Prakasam district. The Collector said the Coast Guard, marine police and local fishermen are searching for the remaining five.",
+    "pts": [
+     "The boat had set out to fish near Nizampatnam",
+     "The capsized boat was spotted on Wednesday evening",
+     "Tamil Nadu sought an aerial search from the Coast Guard"
+    ],
+    "why": "The incident is a reminder of the danger fishermen face when they go to sea during cyclone warnings.",
+    "cat": "AP · Prakasam",
+    "statl": "Bodies washed ashore"
+   },
+   "hi": {
+    "h": "कोत्तपट्नम तट पर तमिलनाडु के 4 मछुआरों के शव मिले; 5 की तलाश जारी",
+    "p": "अधिकारियों का मानना है कि 29 अक्टूबर को चेन्नई के कासिमेडु से मछली पकड़ने निकली तमिलनाडु की नाव चक्रवात मुरसु में पलट गई। उसमें सवार नौ मछुआरों में से चार के शव प्रकाशम ज़िले के कोत्तपट्नम तट पर बहकर आए। कलेक्टर ने बताया कि कोस्ट गार्ड, समुद्री पुलिस और स्थानीय मछुआरे बाकी पांच की तलाश कर रहे हैं।",
+    "pts": [
+     "नाव निज़ामपट्नम के पास मछली पकड़ने निकली थी",
+     "पलटी हुई नाव बुधवार शाम दिखाई दी",
+     "तमिलनाडु ने कोस्ट गार्ड से हवाई तलाश मांगी"
+    ],
+    "why": "यह घटना याद दिलाती है कि चक्रवात चेतावनी के समय समुद्र में जाने वाले मछुआरों के लिए कितना खतरा है।",
+    "cat": "आंध्र प्रदेश · प्रकाशम",
+    "statl": "तट पर बहकर आए शव"
+   },
+   "d": "05.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "2,721",
+   "statl": "డీఎస్సీ-2026 టీచర్ పోస్టులు",
+   "h": "ఏపీ డీఎస్సీ-2026 నోటిఫికేషన్ విడుదల: 2,721 పోస్టులు, నవంబర్ 11 నుంచి దరఖాస్తులు",
+   "p": "ఆంధ్రప్రదేశ్‌లో 2,721 ఉపాధ్యాయ పోస్టుల భర్తీకి డీఎస్సీ-2026 సమగ్ర నోటిఫికేషన్ విడుదలైంది. నవంబర్ 11 నుంచి 30 వరకు ఆన్‌లైన్‌లో దరఖాస్తు చేసుకోవచ్చు. డిసెంబర్ 14న హాల్ టికెట్లు, డిసెంబర్ 20 నుంచి 2027 జనవరి 13 వరకు ఆన్‌లైన్ పరీక్షలు జరుగుతాయి. పోస్టులు, జిల్లాలు, సబ్జెక్టుల వివరాలు పాఠశాల విద్యాశాఖ వెబ్‌సైట్‌లో ఉన్నాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "2,111 రెగ్యులర్ స్కూల్ అసిస్టెంట్, ఎస్‌జీటీ పోస్టులు",
+    "350 ప్రత్యేక విద్య టీచర్ పోస్టులు, సొసైటీల్లో 260",
+    "డిసెంబర్ 5 నుంచి మాక్ టెస్ట్ అందుబాటులో"
+   ],
+   "why": "టీచర్ ఉద్యోగాల కోసం ఎదురుచూస్తున్న వేలాది మంది అభ్యర్థులు ఈ గడువుల్లో దరఖాస్తు చేసుకోవాలి.",
+   "en": {
+    "h": "AP DSC-2026 notification out: 2,721 posts, applications from November 11",
+    "p": "The comprehensive DSC-2026 notification to fill 2,721 teacher posts in Andhra Pradesh has been released. Online applications can be made from November 11 to 30. Hall tickets will be out on December 14, and online exams will be held from December 20 to January 13, 2027. Details of posts, districts and subjects are on the School Education Department website.",
+    "pts": [
+     "2,111 regular School Assistant and SGT posts",
+     "350 special education teacher posts, 260 in societies",
+     "Mock test available from December 5"
+    ],
+    "why": "Thousands of candidates waiting for teacher jobs must apply within these deadlines.",
+    "cat": "AP · Jobs",
+    "statl": "DSC-2026 teacher posts"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश DSC-2026 अधिसूचना जारी: 2,721 पद, 11 नवंबर से आवेदन",
+    "p": "आंध्र प्रदेश में 2,721 शिक्षक पदों को भरने के लिए DSC-2026 की विस्तृत अधिसूचना जारी हुई है। 11 से 30 नवंबर तक ऑनलाइन आवेदन किए जा सकते हैं। 14 दिसंबर को हॉल टिकट जारी होंगे और 20 दिसंबर से 13 जनवरी 2027 तक ऑनलाइन परीक्षाएं होंगी। पदों, ज़िलों और विषयों का ब्योरा स्कूल शिक्षा विभाग की वेबसाइट पर है।",
+    "pts": [
+     "2,111 नियमित स्कूल असिस्टेंट और SGT पद",
+     "350 विशेष शिक्षा शिक्षक पद, सोसाइटियों में 260",
+     "5 दिसंबर से मॉक टेस्ट उपलब्ध"
+    ],
+    "why": "शिक्षक नौकरी का इंतज़ार कर रहे हज़ारों उम्मीदवारों को इन समय-सीमाओं में आवेदन करना होगा।",
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "DSC-2026 शिक्षक पद"
+   },
+   "d": "05.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
@@ -1654,298 +1754,6 @@
    },
    "d": "05.11.2026",
    "t": "10:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "255+",
-   "statl": "డెమొక్రాట్ల అంచనా సీట్లు",
-   "h": "అమెరికా ప్రతినిధుల సభలో డెమొక్రాట్లకు మెజారిటీ: సీబీఎస్ అంచనా",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో ప్రతినిధుల సభ నియంత్రణను డెమొక్రాట్లు గెలుచుకున్నారని సీబీఎస్ న్యూస్ అంచనా వేసింది. ఎన్నికల ముందు వారికి 214 సీట్లు ఉండగా, లెక్కింపు పూర్తయ్యాక కనీసం 255 సీట్లు వస్తాయని నేత హకీమ్ జెఫ్రీస్ తెలిపారు. స్పీకర్ పదవికి జెఫ్రీస్ పోటీ ప్రకటించారు. మైక్ జాన్సన్ మైనారిటీ నేత పదవికి పోటీ చేయబోనన్నారు.",
-   "pts": [
-    "మొత్తం 435 సభ సీట్లకు ఎన్నికలు",
-    "నవంబర్ 18, 19న డెమొక్రాట్ నాయకత్వ ఎన్నికలు",
-    "పలు స్థానాల ఫలితాలు ఇంకా తేలాల్సి ఉంది"
-   ],
-   "why": "అమెరికా చట్టసభలో అధికార మార్పు వీసా, వాణిజ్య విధానాలపై చర్చలను ప్రభావితం చేయవచ్చు.",
-   "src": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "cat": "World · USA",
-    "statl": "Seats Democrats expect",
-    "h": "Democrats win majority in US House: CBS projection",
-    "p": "CBS News projected that Democrats have won control of the House of Representatives in the US midterm elections. They held 214 seats before the election, and leader Hakeem Jeffries said they expect at least 255 seats once counting is complete. Jeffries announced his bid for Speaker. Mike Johnson said he will not run for minority leader.",
-    "pts": [
-     "Elections held for all 435 House seats",
-     "Democratic leadership elections on November 18 and 19",
-     "Several races are still to be decided"
-    ],
-    "why": "A change of control in the US Congress could shape debates on visa and trade policies."
-   },
-   "hi": {
-    "cat": "दुनिया · अमेरिका",
-    "statl": "डेमोक्रेट्स की अनुमानित सीटें",
-    "h": "अमेरिकी प्रतिनिधि सभा में डेमोक्रेट्स को बहुमत: सीबीएस का अनुमान",
-    "p": "सीबीएस न्यूज के अनुमान के अनुसार अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स ने प्रतिनिधि सभा का नियंत्रण जीत लिया है। चुनाव से पहले उनके पास 214 सीटें थीं, और नेता हकीम जेफ्रीज ने कहा कि गिनती पूरी होने पर कम से कम 255 सीटों की उम्मीद है। जेफ्रीज ने स्पीकर पद के लिए दावेदारी की घोषणा की। माइक जॉनसन ने कहा कि वे अल्पमत नेता पद के लिए नहीं लड़ेंगे।",
-    "pts": [
-     "सभी 435 सदन सीटों के लिए चुनाव",
-     "18 और 19 नवंबर को डेमोक्रेटिक नेतृत्व चुनाव",
-     "कई सीटों के नतीजे अभी तय होने बाकी"
-    ],
-    "why": "अमेरिकी कांग्रेस में सत्ता परिवर्तन वीज़ा और व्यापार नीतियों पर बहस को प्रभावित कर सकता है।"
-   },
-   "d": "05.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "భారత్ · మార్కెట్లు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "+1,621",
-   "statl": "సెన్సెక్స్ ఉదయం లాభం (పాయింట్లు)",
-   "h": "స్టాక్ మార్కెట్ల భారీ జోరు: సెన్సెక్స్ 1,600 పాయింట్లకు పైగా లాభం",
-   "p": "గురువారం ఉదయం మార్కెట్లు భారీ లాభాలతో ప్రారంభమయ్యాయి. సెన్సెక్స్ 1,621 పాయింట్లు (2.09%) పెరిగి 78,922 వద్దకు చేరింది. నిఫ్టీ 24,378 వద్ద 1.74% లాభంతో తెరుచుకుంది. బ్రెంట్ ముడి చమురు ధర 11% పడిపోయి బ్యారెల్‌కు 93.50 డాలర్ల కనిష్ఠానికి చేరడం, అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్ల విజయం, విదేశీ పెట్టుబడిదారుల కొనుగోళ్లు ఈ జోరుకు కారణాలని కథనం.",
-   "pts": [
-    "నిఫ్టీ 50లో 42 షేర్లు లాభాల్లో",
-    "శ్రీరామ్ ఫైనాన్స్ 5.3%, ఇండిగో 4.6% పెరుగుదల",
-    "అపోలో హాస్పిటల్స్ 3.4%, ఓఎన్‌జీసీ 2.2% తగ్గుదల"
-   ],
-   "why": "చమురు ధరలు తగ్గడం, మార్కెట్ల లాభాలు షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టినవారికి ఊరట.",
-   "src": "Upstox News",
-   "url": "https://upstox.com/news/market-news/stocks/sensex-rallies-over-1-600-pts-nifty-50-jumps-1-7-as-crude-oil-plummets-key-factors-behind-today-s-stock-market-surge/article-203017/",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "cat": "India · Markets",
-    "statl": "Sensex morning gain (points)",
-    "h": "Markets surge: Sensex jumps over 1,600 points in early trade",
-    "p": "Markets opened with big gains on Thursday morning. The Sensex rose 1,621 points (2.09%) to 78,922. The Nifty opened 1.74% higher at 24,378. The report says Brent crude falling 11% to a low of $93.50 a barrel, the Democrats' win in the US midterm elections and foreign investor buying drove the rally.",
-    "pts": [
-     "42 of 50 Nifty stocks in the green",
-     "Shriram Finance up 5.3%, IndiGo up 4.6%",
-     "Apollo Hospitals down 3.4%, ONGC down 2.2%"
-    ],
-    "why": "Lower oil prices and market gains bring relief to people invested in shares and mutual funds."
-   },
-   "hi": {
-    "cat": "भारत · बाजार",
-    "statl": "सेंसेक्स की सुबह की बढ़त (अंक)",
-    "h": "शेयर बाजार में जोरदार तेजी: सेंसेक्स 1,600 अंक से ज्यादा चढ़ा",
-    "p": "गुरुवार सुबह बाजार भारी बढ़त के साथ खुले। सेंसेक्स 1,621 अंक (2.09%) चढ़कर 78,922 पर पहुंचा। निफ्टी 1.74% की बढ़त के साथ 24,378 पर खुला। रिपोर्ट के अनुसार ब्रेंट कच्चे तेल का 11% गिरकर 93.50 डॉलर प्रति बैरल के निचले स्तर पर आना, अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स की जीत और विदेशी निवेशकों की खरीदारी इस तेजी की वजह रहीं।",
-    "pts": [
-     "निफ्टी 50 के 42 शेयर बढ़त में",
-     "श्रीराम फाइनेंस 5.3%, इंडिगो 4.6% ऊपर",
-     "अपोलो हॉस्पिटल्स 3.4%, ओएनजीसी 2.2% नीचे"
-    ],
-    "why": "तेल के दाम घटने और बाजार की तेजी से शेयरों व म्यूचुअल फंड में निवेश करने वालों को राहत।"
-   },
-   "d": "05.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "ఏపీ · ఎన్టీఆర్ జిల్లా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "8.35 లక్షలు",
-   "statl": "ఎన్టీఆర్ జిల్లాలో ఓటర్లు",
-   "h": "ఎన్టీఆర్, అనకాపల్లి జిల్లాల్లో పరిషత్ పోలింగ్; 7న కౌంటింగ్",
-   "p": "ఎన్టీఆర్ జిల్లాలో 16 జడ్పీటీసీ, 276 ఎంపీటీసీ స్థానాలకు ఉదయం 7 గంటల నుంచి పోలింగ్ జరుగుతోంది. 8,35,515 మంది ఓటర్ల కోసం 992 పోలింగ్ కేంద్రాలు ఏర్పాటు చేశారు. మరో 4 ఎంపీటీసీ స్థానాలు ఏకగ్రీవమయ్యాయి. అనకాపల్లి జిల్లా పాయకరావుపేట నియోజకవర్గంలోని నాలుగు మండలాల్లో 2,52,739 మంది ఓటు వేస్తున్నారు. పోలింగ్ సాయంత్రం 5 గంటల వరకు; అవసరమైతే 6న రీపోలింగ్, 7న ఓట్ల లెక్కింపు.",
-   "pts": [
-    "ఎన్టీఆర్ జిల్లాలో 631 మంది ఎంపీటీసీ అభ్యర్థులు",
-    "సమస్యాత్మక కేంద్రాల్లో వెబ్‌కాస్టింగ్",
-    "ఆధార్ లేదా 14 ప్రత్యామ్నాయ గుర్తింపు పత్రాలు చెల్లుతాయి"
-   ],
-   "why": "ఈ జిల్లాల గ్రామీణ ఓటర్లు సాయంత్రం 5 గంటలలోపు గుర్తింపు పత్రంతో ఓటు వేయాలి.",
-   "src": "ANI",
-   "url": "https://www.aninews.in/news/national/general-news/andhra-pradesh-polling-begins-for-zptc-mptc-elections-amid-tight-security20261105084510/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-ntr",
-   "en": {
-    "cat": "AP · NTR district",
-    "statl": "Voters in NTR district",
-    "h": "Parishad polling in NTR, Anakapalli districts; counting on 7th",
-    "p": "Polling for 16 ZPTC and 276 MPTC seats in NTR district has been under way since 7 am. 992 polling stations have been set up for 8,35,515 voters. Another 4 MPTC seats were won unanimously. In four mandals of Payakaraopeta constituency in Anakapalli district, 2,52,739 people are voting. Polling runs till 5 pm; repolling, if needed, on the 6th and counting on the 7th.",
-    "pts": [
-     "631 MPTC candidates in NTR district",
-     "Webcasting at problematic polling centres",
-     "Aadhaar or 14 alternative ID documents accepted"
-    ],
-    "why": "Rural voters in these districts must vote with an ID document before 5 pm."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · एनटीआर जिला",
-    "statl": "एनटीआर जिले में मतदाता",
-    "h": "एनटीआर, अनकापल्ली जिलों में परिषद मतदान; 7 को मतगणना",
-    "p": "एनटीआर जिले में 16 जेडपीटीसी और 276 एमपीटीसी सीटों के लिए सुबह 7 बजे से मतदान जारी है। 8,35,515 मतदाताओं के लिए 992 मतदान केंद्र बनाए गए हैं। 4 और एमपीटीसी सीटें निर्विरोध चुनी गईं। अनकापल्ली जिले के पायकरावुपेटा क्षेत्र के चार मंडलों में 2,52,739 लोग वोट डाल रहे हैं। मतदान शाम 5 बजे तक; जरूरत पड़ने पर 6 को पुनर्मतदान और 7 को मतगणना।",
-    "pts": [
-     "एनटीआर जिले में 631 एमपीटीसी उम्मीदवार",
-     "संवेदनशील केंद्रों पर वेबकास्टिंग",
-     "आधार या 14 वैकल्पिक पहचान पत्र मान्य"
-    ],
-    "why": "इन जिलों के ग्रामीण मतदाताओं को शाम 5 बजे से पहले पहचान पत्र के साथ वोट डालना होगा।"
-   },
-   "d": "05.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · విద్యుత్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2–4:30 PM",
-   "statl": "నేడు కరెంట్ కోత సమయం",
-   "h": "హైదరాబాద్‌లో నేడు కరెంట్ కోత: దిల్‌సుఖ్‌నగర్, గడ్డిఅన్నారం ప్రాంతాల్లో అంతరాయం",
-   "p": "నిర్వహణ పనుల కారణంగా హైదరాబాద్ అస్మాన్‌గఢ్ డివిజన్ పరిధిలో గురువారం కొన్ని ప్రాంతాల్లో విద్యుత్ సరఫరా నిలిచిపోనుంది. గౌతమ్ నగర్ ఫీడర్ పరిధిలో మధ్యాహ్నం 2 నుంచి 3 గంటల వరకు, 11 కేవీ పల్టన్ ఫీడర్ పరిధిలో 3:30 నుంచి 4:30 వరకు కరెంట్ ఉండదు. ముఖ్యమైన పనులు ముందే పూర్తి చేసుకోవాలని అధికారులు సూచించారు.",
-   "pts": [
-    "గౌతమ్ నగర్ ఫీడర్: మధ్యాహ్నం 2 నుంచి 3 వరకు",
-    "పల్టన్ ఫీడర్: 3:30 నుంచి 4:30 వరకు",
-    "దిల్‌సుఖ్‌నగర్, గడ్డిఅన్నారం, అక్బర్‌బాగ్ ప్రాంతాలపై ప్రభావం"
-   ],
-   "why": "ఈ ప్రాంతాల్లోని ఇళ్లు, దుకాణాలు, చిన్న వ్యాపారాలు ముందుగానే ఏర్పాట్లు చేసుకోవచ్చు.",
-   "src": "Sakshi Post",
-   "url": "https://www.sakshipost.com/news/hyderabad/hyderabad-power-cut-these-areas-will-face-electricity-outage-today-483005",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "దిల్‌సుఖ్‌నగర్",
-   "en": {
-    "cat": "Hyderabad · Power",
-    "statl": "Power cut timings today",
-    "h": "Power cut in Hyderabad today: Dilsukhnagar, Gaddiannaram areas affected",
-    "p": "Due to maintenance work, power supply will be cut in some areas under Hyderabad's Asmangadh division on Thursday. Areas under the Gautham Nagar feeder will have no power from 2 PM to 3 PM, and areas under the 11KV Paltan feeder from 3:30 PM to 4:30 PM. Officials advised residents to finish important work in advance.",
-    "pts": [
-     "Gautham Nagar feeder: 2 PM to 3 PM",
-     "Paltan feeder: 3:30 PM to 4:30 PM",
-     "Dilsukhnagar, Gaddiannaram, Akbarbagh areas affected"
-    ],
-    "why": "Homes, shops and small businesses in these areas can plan ahead."
-   },
-   "hi": {
-    "cat": "हैदराबाद · बिजली",
-    "statl": "आज बिजली कटौती का समय",
-    "h": "हैदराबाद में आज बिजली कटौती: दिलसुखनगर, गड्डीअन्नारम इलाके प्रभावित",
-    "p": "रखरखाव कार्य के कारण गुरुवार को हैदराबाद के अस्मानगढ़ डिवीजन के कुछ इलाकों में बिजली आपूर्ति बंद रहेगी। गौतम नगर फीडर के इलाकों में दोपहर 2 से 3 बजे तक और 11 केवी पल्टन फीडर के इलाकों में 3:30 से 4:30 बजे तक बिजली नहीं रहेगी। अधिकारियों ने जरूरी काम पहले निपटाने की सलाह दी।",
-    "pts": [
-     "गौतम नगर फीडर: दोपहर 2 से 3 बजे",
-     "पल्टन फीडर: 3:30 से 4:30 बजे",
-     "दिलसुखनगर, गड्डीअन्नारम, अकबरबाग इलाके प्रभावित"
-    ],
-    "why": "इन इलाकों के घर, दुकानें और छोटे कारोबार पहले से तैयारी कर सकते हैं।"
-   },
-   "d": "05.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "ఏపీ · పల్నాడు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "3",
-   "statl": "మంది కార్యకర్తలకు గాయాలు",
-   "h": "పరిషత్ పోలింగ్ వేళ పల్నాడు, కడప జిల్లాల్లో ఉద్రిక్తతలు, ఘర్షణలు",
-   "p": "ఏపీ పరిషత్ ఎన్నికల పోలింగ్ సందర్భంగా పలుచోట్ల ఉద్రిక్తతలు నెలకొన్నాయి. పల్నాడు జిల్లా ముప్పాళ్ల మండలం లంకెలకూరపాడులో బుధవారం అర్ధరాత్రి టీడీపీ కార్యకర్తలపై వైఎస్సార్సీపీ శ్రేణులు కర్రలతో దాడి చేశాయని, ముగ్గురు గాయపడి ఆసుపత్రిలో చేరారని ఈటీవీ భారత్ తెలిపింది. పులివెందుల మండలం ఆర్.తుమ్మలపల్లెలోనూ ఇరువర్గాల మధ్య ఘర్షణ జరిగింది.",
-   "pts": [
-    "లంకెలకూరపాడు ఘర్షణలో ముగ్గురికి గాయాలు",
-    "పులివెందుల మండలం ఆర్.తుమ్మలపల్లెలో ఇరువర్గాల ఘర్షణ",
-    "పెద్దముడియం మండలం గుండ్లకుంటలో ఉద్రిక్తత"
-   ],
-   "why": "ప్రశాంత పోలింగ్‌కు భద్రత ఎంత కీలకమో ఈ ఘటనలు చూపుతున్నాయి; ఓటర్లు అప్రమత్తంగా ఉండాలి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--ap-mptc-and-zptc-elections-polling-2026-live-updates-aps26110500409",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-palnadu",
-   "loc": "లంకెలకూరపాడు",
-   "en": {
-    "cat": "Andhra Pradesh · Palnadu",
-    "statl": "workers injured",
-    "h": "Tension, clashes in Palnadu and Kadapa districts during parishad polling",
-    "p": "Tension prevailed in several places during polling for the AP parishad elections. ETV Bharat reported that at Lankelakurapadu in Muppalla mandal of Palnadu district, YSRCP cadres attacked TDP workers with sticks around Wednesday midnight, and three were injured and admitted to hospital. A clash between the two groups also took place at R. Thummalapalle in Pulivendula mandal.",
-    "pts": [
-     "Three injured in Lankelakurapadu clash",
-     "Clash between two groups at R. Thummalapalle, Pulivendula mandal",
-     "Tension at Gundlakunta in Peddamudiyam mandal"
-    ],
-    "why": "These incidents show how vital security is for peaceful polling; voters should stay alert."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · पलनाडु",
-    "statl": "कार्यकर्ता घायल",
-    "h": "परिषद मतदान के दौरान पलनाडु और कडपा जिलों में तनाव, झड़पें",
-    "p": "आंध्र प्रदेश परिषद चुनाव के मतदान के दौरान कई जगह तनाव रहा। ईटीवी भारत के अनुसार पलनाडु जिले के मुप्पाल्ला मंडल के लंकेलकुरपाडु में बुधवार आधी रात वाईएसआरसीपी समर्थकों ने टीडीपी कार्यकर्ताओं पर लाठियों से हमला किया, जिसमें तीन घायल होकर अस्पताल में भर्ती हुए। पुलिवेंदुला मंडल के आर. तुम्मलपल्ले में भी दोनों गुटों में झड़प हुई।",
-    "pts": [
-     "लंकेलकुरपाडु झड़प में तीन घायल",
-     "पुलिवेंदुला मंडल के आर. तुम्मलपल्ले में दो गुटों में झड़प",
-     "पेद्दामुडियम मंडल के गुंडलकुंटा में तनाव"
-    ],
-    "why": "ये घटनाएं दिखाती हैं कि शांतिपूर्ण मतदान के लिए सुरक्षा कितनी जरूरी है; मतदाता सतर्क रहें।"
-   },
-   "d": "05.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "భారత్ · ధరలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹680",
-   "statl": "కిలో అమూల్ నెయ్యి కొత్త ధర",
-   "h": "దీపావళి ముందు అమూల్ నెయ్యి, వెన్న ధరలు పెంపు: కిలోపై ₹50",
-   "p": "అమూల్ నెయ్యి, వెన్న ధరలను తక్షణమే అమల్లోకి వచ్చేలా పెంచింది. కిలో నెయ్యి కార్టన్ ₹50 పెరిగి ₹680 అయింది. 500 గ్రాముల వెన్న ప్యాక్ ₹15 పెరిగి ₹325కు చేరింది. 500 గ్రాముల నెయ్యి పౌచ్ ₹345, 100 గ్రాముల వెన్న ₹66. 2025 సెప్టెంబర్ జీఎస్టీ తగ్గింపు లాభం చాలావరకు ఈ పెంపుతో తగ్గిపోయిందని కథనం.",
-   "pts": [
-    "కిలో నెయ్యి ₹50 పెరిగి ₹680",
-    "500 గ్రాముల వెన్న ₹15 పెరిగి ₹325",
-    "పలు నగరాల్లో అమూల్ నెయ్యి కొరత నివేదికలు"
-   ],
-   "why": "పండుగ సీజన్‌లో స్వీట్లు, వంటల కోసం నెయ్యి కొనే కుటుంబాలపై అదనపు భారం పడుతుంది.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/amul-raises-ghee-butter-prices-ahead-of-diwali/",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "cat": "India · Prices",
-    "statl": "New price of 1 kg Amul ghee",
-    "h": "Amul raises ghee, butter prices ahead of Diwali: ₹50 more per kg",
-    "p": "Amul has raised ghee and butter prices with immediate effect. A 1-kg ghee carton rose by ₹50 to ₹680. A 500-gm butter pack rose by ₹15 to ₹325. A 500-gm ghee pouch now costs ₹345 and a 100-gm butter pack ₹66. The report says the hike wipes out much of the benefit of the September 2025 GST cut.",
-    "pts": [
-     "1 kg ghee up ₹50 to ₹680",
-     "500 gm butter up ₹15 to ₹325",
-     "Reports of Amul ghee shortage in several cities"
-    ],
-    "why": "Families buying ghee for sweets and cooking this festive season will pay more."
-   },
-   "hi": {
-    "cat": "भारत · कीमतें",
-    "statl": "1 किलो अमूल घी की नई कीमत",
-    "h": "दिवाली से पहले अमूल ने घी, मक्खन के दाम बढ़ाए: प्रति किलो ₹50 ज्यादा",
-    "p": "अमूल ने घी और मक्खन के दाम तुरंत प्रभाव से बढ़ा दिए हैं। 1 किलो घी का कार्टन ₹50 बढ़कर ₹680 हो गया। 500 ग्राम मक्खन का पैक ₹15 बढ़कर ₹325 हो गया। 500 ग्राम घी का पाउच अब ₹345 और 100 ग्राम मक्खन ₹66 का है। रिपोर्ट के अनुसार इस बढ़ोतरी से सितंबर 2025 की जीएसटी कटौती का ज्यादातर फायदा खत्म हो गया।",
-    "pts": [
-     "1 किलो घी ₹50 बढ़कर ₹680",
-     "500 ग्राम मक्खन ₹15 बढ़कर ₹325",
-     "कई शहरों में अमूल घी की कमी की खबरें"
-    ],
-    "why": "त्योहारों में मिठाई और खाना बनाने के लिए घी खरीदने वाले परिवारों पर बोझ बढ़ेगा।"
-   },
-   "d": "05.11.2026",
-   "t": "09:35"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",

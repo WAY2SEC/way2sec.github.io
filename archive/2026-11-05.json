@@ -1,8 +1,108 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 65,
+ "count": 67,
  "stories": [
+  {
+   "cat": "ఏపీ · ప్రకాశం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "4",
+   "statl": "తీరానికి కొట్టుకొచ్చిన మృతదేహాలు",
+   "h": "కొత్తపట్నం తీరంలో నలుగురు తమిళనాడు మత్స్యకారుల మృతదేహాలు; ఐదుగురి కోసం గాలింపు",
+   "p": "చెన్నై కాశిమేడు నుంచి అక్టోబర్ 29న వేటకు బయలుదేరిన తమిళనాడు బోటు మురసు తుపానులో బోల్తా పడినట్టు అధికారులు భావిస్తున్నారు. అందులోని తొమ్మిది మంది మత్స్యకారుల్లో నలుగురి మృతదేహాలు ప్రకాశం జిల్లా కొత్తపట్నం తీరానికి కొట్టుకొచ్చాయి. మిగిలిన ఐదుగురి కోసం కోస్ట్‌గార్డ్, మెరైన్ పోలీసులు, స్థానిక మత్స్యకారులు గాలిస్తున్నారని కలెక్టర్ చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/ongole/four-bodies-of-missing-tamil-nadu-fishermen-found-off-andhra-coast-search-on-for-five-others-1139564",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "ap-prakasam",
+   "loc": "కొత్తపట్నం",
+   "pts": [
+    "బోటు నిజాంపట్నం దగ్గర వేటకు బయలుదేరింది",
+    "బుధవారం సాయంత్రం బోల్తా పడిన బోటు కనిపించింది",
+    "కోస్ట్‌గార్డ్ నుంచి వైమానిక గాలింపు కోరిన తమిళనాడు"
+   ],
+   "why": "తుపాను హెచ్చరికల సమయంలో సముద్రంలోకి వెళ్లే మత్స్యకారులకు ఎంత ప్రమాదమో ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Bodies of 4 Tamil Nadu fishermen wash ashore at Kothapatnam; search on for 5",
+    "p": "Officials believe a Tamil Nadu boat that left Kasimedu in Chennai on October 29 for fishing capsized in Cyclone Murasu. The bodies of four of the nine fishermen on board washed ashore at Kothapatnam coast in Prakasam district. The Collector said the Coast Guard, marine police and local fishermen are searching for the remaining five.",
+    "pts": [
+     "The boat had set out to fish near Nizampatnam",
+     "The capsized boat was spotted on Wednesday evening",
+     "Tamil Nadu sought an aerial search from the Coast Guard"
+    ],
+    "why": "The incident is a reminder of the danger fishermen face when they go to sea during cyclone warnings.",
+    "cat": "AP · Prakasam",
+    "statl": "Bodies washed ashore"
+   },
+   "hi": {
+    "h": "कोत्तपट्नम तट पर तमिलनाडु के 4 मछुआरों के शव मिले; 5 की तलाश जारी",
+    "p": "अधिकारियों का मानना है कि 29 अक्टूबर को चेन्नई के कासिमेडु से मछली पकड़ने निकली तमिलनाडु की नाव चक्रवात मुरसु में पलट गई। उसमें सवार नौ मछुआरों में से चार के शव प्रकाशम ज़िले के कोत्तपट्नम तट पर बहकर आए। कलेक्टर ने बताया कि कोस्ट गार्ड, समुद्री पुलिस और स्थानीय मछुआरे बाकी पांच की तलाश कर रहे हैं।",
+    "pts": [
+     "नाव निज़ामपट्नम के पास मछली पकड़ने निकली थी",
+     "पलटी हुई नाव बुधवार शाम दिखाई दी",
+     "तमिलनाडु ने कोस्ट गार्ड से हवाई तलाश मांगी"
+    ],
+    "why": "यह घटना याद दिलाती है कि चक्रवात चेतावनी के समय समुद्र में जाने वाले मछुआरों के लिए कितना खतरा है।",
+    "cat": "आंध्र प्रदेश · प्रकाशम",
+    "statl": "तट पर बहकर आए शव"
+   },
+   "d": "05.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "2,721",
+   "statl": "డీఎస్సీ-2026 టీచర్ పోస్టులు",
+   "h": "ఏపీ డీఎస్సీ-2026 నోటిఫికేషన్ విడుదల: 2,721 పోస్టులు, నవంబర్ 11 నుంచి దరఖాస్తులు",
+   "p": "ఆంధ్రప్రదేశ్‌లో 2,721 ఉపాధ్యాయ పోస్టుల భర్తీకి డీఎస్సీ-2026 సమగ్ర నోటిఫికేషన్ విడుదలైంది. నవంబర్ 11 నుంచి 30 వరకు ఆన్‌లైన్‌లో దరఖాస్తు చేసుకోవచ్చు. డిసెంబర్ 14న హాల్ టికెట్లు, డిసెంబర్ 20 నుంచి 2027 జనవరి 13 వరకు ఆన్‌లైన్ పరీక్షలు జరుగుతాయి. పోస్టులు, జిల్లాలు, సబ్జెక్టుల వివరాలు పాఠశాల విద్యాశాఖ వెబ్‌సైట్‌లో ఉన్నాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "2,111 రెగ్యులర్ స్కూల్ అసిస్టెంట్, ఎస్‌జీటీ పోస్టులు",
+    "350 ప్రత్యేక విద్య టీచర్ పోస్టులు, సొసైటీల్లో 260",
+    "డిసెంబర్ 5 నుంచి మాక్ టెస్ట్ అందుబాటులో"
+   ],
+   "why": "టీచర్ ఉద్యోగాల కోసం ఎదురుచూస్తున్న వేలాది మంది అభ్యర్థులు ఈ గడువుల్లో దరఖాస్తు చేసుకోవాలి.",
+   "en": {
+    "h": "AP DSC-2026 notification out: 2,721 posts, applications from November 11",
+    "p": "The comprehensive DSC-2026 notification to fill 2,721 teacher posts in Andhra Pradesh has been released. Online applications can be made from November 11 to 30. Hall tickets will be out on December 14, and online exams will be held from December 20 to January 13, 2027. Details of posts, districts and subjects are on the School Education Department website.",
+    "pts": [
+     "2,111 regular School Assistant and SGT posts",
+     "350 special education teacher posts, 260 in societies",
+     "Mock test available from December 5"
+    ],
+    "why": "Thousands of candidates waiting for teacher jobs must apply within these deadlines.",
+    "cat": "AP · Jobs",
+    "statl": "DSC-2026 teacher posts"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश DSC-2026 अधिसूचना जारी: 2,721 पद, 11 नवंबर से आवेदन",
+    "p": "आंध्र प्रदेश में 2,721 शिक्षक पदों को भरने के लिए DSC-2026 की विस्तृत अधिसूचना जारी हुई है। 11 से 30 नवंबर तक ऑनलाइन आवेदन किए जा सकते हैं। 14 दिसंबर को हॉल टिकट जारी होंगे और 20 दिसंबर से 13 जनवरी 2027 तक ऑनलाइन परीक्षाएं होंगी। पदों, ज़िलों और विषयों का ब्योरा स्कूल शिक्षा विभाग की वेबसाइट पर है।",
+    "pts": [
+     "2,111 नियमित स्कूल असिस्टेंट और SGT पद",
+     "350 विशेष शिक्षा शिक्षक पद, सोसाइटियों में 260",
+     "5 दिसंबर से मॉक टेस्ट उपलब्ध"
+    ],
+    "why": "शिक्षक नौकरी का इंतज़ार कर रहे हज़ारों उम्मीदवारों को इन समय-सीमाओं में आवेदन करना होगा।",
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "DSC-2026 शिक्षक पद"
+   },
+   "d": "05.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
