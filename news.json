@@ -1,8 +1,154 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T16:05:00+05:30",
+ "updated": "2026-11-05T16:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "100 MGD",
+   "statl": "సింగూర్, మంజీరా నుంచి వస్తున్న కొరత అంచనా",
+   "h": "సింగూర్, మంజీరా నీటిమట్టం తగ్గుదల: హైదరాబాద్‌కు వేసవి నీటి సవాల్",
+   "p": "సింగూర్, మంజీరా జలాశయాల్లో నీటి నిల్వలు తగ్గుతుండటంతో వేసవి ముగిసే వరకు హైదరాబాద్‌కు సరఫరా సరిపోతుందా అన్న ప్రశ్న జలమండలి ముందుంది. ఈ రెండింటి నుంచి హామీ ఇచ్చిన 120 ఎంజీడీకి గాను 100 ఎంజీడీ కొరత రావచ్చని అధికారులు హెచ్చరించారు. గోదావరి, కృష్ణా, ఉస్మాన్‌సాగర్, హిమాయత్‌సాగర్ నుంచి అదనంగా 60 ఎంజీడీ తీసుకోవాలని బోర్డు యోచిస్తోంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-water-supply-faces-summer-challenge-as-singur-manjeera-reserves-decline",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "పటాన్‌చెరు నుంచి నార్సింగి వరకు 3.5 లక్షల కనెక్షన్లపై ప్రభావం",
+    "సింగూర్ నీటిమట్టం 1,685 అడుగులు; పూర్తి స్థాయి 1,717 అడుగులు",
+    "అన్ని వనరుల నుంచి నగరానికి రోజూ 580 ఎంజీడీ సరఫరా"
+   ],
+   "why": "పశ్చిమ హైదరాబాద్‌లోని లక్షలాది కుటుంబాలకు వేసవిలో తాగునీటి సరఫరాపై ఇది ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Singur, Manjeera levels fall: summer water challenge for Hyderabad",
+    "p": "With storage falling in the Singur and Manjeera reservoirs, HMWSSB faces the question of whether supply to Hyderabad will last until the end of summer. Officials warned of a shortfall of 100 MGD against the assured 120 MGD from these two sources. The Board plans to draw an extra 60 MGD from the Godavari, Krishna, Osman Sagar and Himayat Sagar.",
+    "pts": [
+     "3.5 lakh connections from Patancheru to Narsingi affected",
+     "Singur at 1,685 ft against full level of 1,717 ft",
+     "City gets 580 MGD daily from all sources"
+    ],
+    "why": "This could affect summer drinking water supply for lakhs of families in western Hyderabad.",
+    "cat": "Hyderabad · Water",
+    "statl": "Expected shortfall from Singur, Manjeera"
+   },
+   "hi": {
+    "h": "सिंगूर, मंजीरा का जलस्तर घटा: हैदराबाद के सामने गर्मी में पानी की चुनौती",
+    "p": "सिंगूर और मंजीरा जलाशयों में भंडार घटने से HMWSSB के सामने सवाल है कि क्या गर्मी खत्म होने तक हैदराबाद की आपूर्ति पर्याप्त रहेगी। अधिकारियों ने चेताया कि इन दोनों से तय 120 MGD में से 100 MGD की कमी हो सकती है। बोर्ड गोदावरी, कृष्णा, उस्मान सागर और हिमायत सागर से अतिरिक्त 60 MGD लेने की योजना बना रहा है।",
+    "pts": [
+     "पटानचेरु से नार्सिंगी तक 3.5 लाख कनेक्शन प्रभावित",
+     "सिंगूर का स्तर 1,685 फीट; पूर्ण स्तर 1,717 फीट",
+     "सभी स्रोतों से शहर को रोज़ 580 MGD आपूर्ति"
+    ],
+    "why": "इससे पश्चिमी हैदराबाद के लाखों परिवारों की गर्मियों में पेयजल आपूर्ति प्रभावित हो सकती है।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "सिंगूर, मंजीरा से अनुमानित कमी"
+   },
+   "d": "05.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "తెలంగాణ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "4",
+   "statl": "ఆందోళనలు జరుగుతున్న కొత్త వైద్య కళాశాలలు",
+   "h": "కొత్త వైద్య కళాశాలల్లో వసతుల కొరత: విద్యార్థుల ఆందోళనలు",
+   "p": "జగిత్యాల, ములుగు, నారాయణపేట, మహేశ్వరంలోని కొత్త ప్రభుత్వ వైద్య కళాశాలల విద్యార్థులు ఎన్‌ఎంసీ నిబంధనల ప్రకారం వసతులు లేవని నిరసనలు చేస్తున్నారు. లెక్చర్ హాళ్లు, ల్యాబ్‌లు, శాశ్వత హాస్టళ్లు లేవని చెబుతున్నారు. ఆరోగ్య శాఖ, కాళోజీ ఆరోగ్య విశ్వవిద్యాలయం, ఎన్‌ఎంసీ నుంచి గడువుతో కూడిన రాతపూర్వక హామీ ఇవ్వాలని విద్యార్థులు, తల్లిదండ్రులు డిమాండ్ చేస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telanganas-new-medical-colleges-rocked-by-student-agitations-over-lack-of-infrastructure",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "జగిత్యాల జీఎంసీలో నిరవధిక నిరసనలు",
+    "ములుగులో మంచాల కొరతతో నేలపై పరుపులపై నిద్ర",
+    "మహేశ్వరం విద్యార్థులు రోజూ 40 కి.మీ. ప్రయాణం"
+   ],
+   "why": "ఈ కళాశాలల్లో చదువుతున్న వైద్య విద్యార్థుల చదువు, భద్రత, వసతులపై ఇది నేరుగా ప్రభావం చూపుతోంది.",
+   "en": {
+    "h": "Lack of facilities at new medical colleges: students protest",
+    "p": "Students of new government medical colleges in Jagtial, Mulugu, Narayanpet and Maheshwaram are protesting that facilities do not meet NMC norms. They say lecture halls, labs and permanent hostels are missing. Students and parents are demanding time-bound written commitments from the health department, Kaloji health university (KNRUHS) and the NMC.",
+    "pts": [
+     "Indefinite protests at GMC Jagtial",
+     "Shortage of cots in Mulugu; students sleep on floor mattresses",
+     "Maheshwaram students travel 40 km daily"
+    ],
+    "why": "This directly affects the studies, safety and living conditions of medical students in these colleges.",
+    "cat": "Telangana · Medical education",
+    "statl": "New medical colleges facing protests"
+   },
+   "hi": {
+    "h": "नए मेडिकल कॉलेजों में सुविधाओं की कमी: छात्रों का आंदोलन",
+    "p": "जगतियाल, मुलुगु, नारायणपेट और महेश्वरम के नए सरकारी मेडिकल कॉलेजों के छात्र विरोध कर रहे हैं कि सुविधाएं NMC मानकों के अनुसार नहीं हैं। उनका कहना है कि लेक्चर हॉल, लैब और स्थायी हॉस्टल नहीं हैं। छात्र और अभिभावक स्वास्थ्य विभाग, कालोजी स्वास्थ्य विश्वविद्यालय (KNRUHS) और NMC से समयबद्ध लिखित आश्वासन मांग रहे हैं।",
+    "pts": [
+     "GMC जगतियाल में अनिश्चितकालीन विरोध",
+     "मुलुगु में चारपाई की कमी; छात्र फर्श पर गद्दों पर सोते हैं",
+     "महेश्वरम के छात्र रोज़ 40 किमी सफर करते हैं"
+    ],
+    "why": "इसका सीधा असर इन कॉलेजों के मेडिकल छात्रों की पढ़ाई, सुरक्षा और रहने की स्थिति पर पड़ रहा है।",
+    "cat": "तेलंगाना · चिकित्सा शिक्षा",
+    "statl": "आंदोलन वाले नए मेडिकल कॉलेज"
+   },
+   "d": "05.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "ఒడిశా · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవం. 30",
+   "statl": "ముసాయిదా ఓటర్ల జాబితా ప్రచురణ",
+   "h": "ఒడిశా సహా 6 రాష్ట్రాలు, యూటీల్లో ఓటర్ల జాబితా ప్రత్యేక సవరణ",
+   "p": "ఒడిశా, అరుణాచల్ ప్రదేశ్, మిజోరం, సిక్కిం, చండీగఢ్, దాద్రా నగర్ హవేలీ-డామన్ డయ్యూలో ఓటర్ల జాబితాల ప్రత్యేక సంక్షిప్త సవరణను ఎన్నికల సంఘం గురువారం ప్రకటించింది. అర్హులైన యువత, తొలిసారి ఓటర్లను చేర్చడమే లక్ష్యం. 2027 ఏప్రిల్ 1, జులై 1, అక్టోబర్ 1 నాటికి అర్హత పొందేవారు ముందుగానే దరఖాస్తు చేసుకోవచ్చు.",
+   "src": "PTI, Telangana Today",
+   "url": "https://telanganatoday.com/ec-announces-special-summary-revision-of-electoral-rolls-in-six-states-uts",
+   "sec": [
+    "india"
+   ],
+   "st": "OD",
+   "place": "st-OD",
+   "pts": [
+    "ముసాయిదా జాబితా నవంబర్ 30న ప్రచురణ",
+    "తుది జాబితా 2027 జనవరి 21న",
+    "తగిన సిబ్బంది కేటాయించాలని సీఎస్‌లకు ఆదేశం"
+   ],
+   "why": "ఈ ప్రాంతాల్లో ఉంటున్న యువత, కొత్త ఓటర్లు, అక్కడి తెలుగువారు జాబితాలో పేరు నమోదు చేసుకునే అవకాశం ఇది.",
+   "en": {
+    "h": "Special revision of voter rolls in 6 states, UTs including Odisha",
+    "p": "The Election Commission on Thursday announced a Special Summary Revision of electoral rolls in Odisha, Arunachal Pradesh, Mizoram, Sikkim, Chandigarh, and Dadra and Nagar Haveli and Daman and Diu. The aim is to enrol eligible young and first-time voters. Those who become eligible on April 1, July 1 and October 1, 2027 can apply in advance.",
+    "pts": [
+     "Draft rolls to be published on November 30",
+     "Final rolls on January 21, 2027",
+     "Chief secretaries told to provide adequate staff"
+    ],
+    "why": "It gives young people, new voters and Telugu people living in these regions a chance to enrol.",
+    "cat": "Odisha · Elections",
+    "statl": "Draft electoral rolls published"
+   },
+   "hi": {
+    "h": "ओडिशा समेत 6 राज्यों, केंद्र शासित प्रदेशों में मतदाता सूची का विशेष पुनरीक्षण",
+    "p": "चुनाव आयोग ने गुरुवार को ओडिशा, अरुणाचल प्रदेश, मिजोरम, सिक्किम, चंडीगढ़ और दादरा नगर हवेली व दमन दीव में मतदाता सूचियों के विशेष संक्षिप्त पुनरीक्षण की घोषणा की। इसका लक्ष्य पात्र युवाओं और पहली बार के मतदाताओं को जोड़ना है। 1 अप्रैल, 1 जुलाई और 1 अक्टूबर 2027 तक पात्र होने वाले पहले से आवेदन कर सकते हैं।",
+    "pts": [
+     "मसौदा सूची 30 नवंबर को प्रकाशित होगी",
+     "अंतिम सूची 21 जनवरी 2027 को",
+     "मुख्य सचिवों को पर्याप्त कर्मचारी देने का निर्देश"
+    ],
+    "why": "इन इलाकों में रहने वाले युवाओं, नए मतदाताओं और तेलुगु लोगों के लिए नाम दर्ज कराने का मौका है।",
+    "cat": "ओडिशा · चुनाव",
+    "statl": "मसौदा मतदाता सूची प्रकाशन"
+   },
+   "d": "05.11.2026",
+   "t": "16:35"
+  },
   {
    "cat": "భారత్ · మార్కెట్లు",
    "col": "--c-money",
@@ -1797,55 +1943,6 @@
      "कई शहरों में अमूल घी की कमी की खबरें"
     ],
     "why": "त्योहारों में मिठाई और खाना बनाने के लिए घी खरीदने वाले परिवारों पर बोझ बढ़ेगा।"
-   },
-   "d": "05.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా వీసా",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "$1,00,000",
-   "statl": "హెచ్-1బీ ఫీజుపై వివాదం కొనసాగింపు",
-   "h": "మధ్యంతర ఫలితాలతో హెచ్-1బీ వీసాలకు తక్షణ ఊరట లేదు: న్యాయ నిపుణులు",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో డెమోక్రాట్లు కాంగ్రెస్‌ను గెలిచినా హెచ్-1బీ వీసా, పెర్మ్ నిబంధనలపై వెంటనే ప్రభావం ఉండదని ఇమిగ్రేషన్ న్యాయవాదులు చెబుతున్నారు. అధ్యక్షుడికి కార్యనిర్వాహక అధికారం, వీటో ఉన్నందున ఆంక్షలు ఆటోమేటిక్‌గా రద్దుకావు. $1,00,000 ఫీజు, వేతన ఆధారిత లాటరీ అంశాలు వివాదంలోనే ఉన్నాయి.",
-   "pts": [
-    "హెచ్-1బీ నిబంధనల్లో వెంటనే మార్పు ఉండదని నిపుణులు",
-    "$1,00,000 ఫీజు, వేతన ఆధారిత లాటరీ ఇంకా వివాదంలో",
-    "ఈబీ-2, ఈబీ-3 గ్రీన్ కార్డ్ బ్యాక్‌లాగ్ పెద్ద సమస్య"
-   ],
-   "why": "అమెరికాలో ఉద్యోగాలు, చదువులు ఆశిస్తున్న తెలుగు విద్యార్థులు, టెకీలు తమ ప్రణాళికలు జాగ్రత్తగా చూసుకోవాలి.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/us-midterm-results-unlikely-to-bring-immediate-h-1b-visa-relief-lawyers/",
-   "sec": [
-    "world",
-    "jobs"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "cat": "World · US Visa",
-    "statl": "H-1B fee dispute continues",
-    "h": "Midterm results unlikely to bring immediate H-1B relief: lawyers",
-    "p": "Immigration lawyers say that even though Democrats won Congress in the US midterms, there will be no immediate impact on H-1B visa and PERM rules. Since the President retains executive authority and veto power, restrictions will not be reversed automatically. The $100,000 fee and the wage-weighted lottery remain contested.",
-    "pts": [
-     "Experts see no immediate change in H-1B rules",
-     "$100,000 fee, wage-weighted lottery still contested",
-     "EB-2, EB-3 green card backlog a major concern"
-    ],
-    "why": "Telugu students and techies hoping for US jobs and studies should review their plans carefully."
-   },
-   "hi": {
-    "cat": "दुनिया · अमेरिकी वीजा",
-    "statl": "एच-1बी शुल्क पर विवाद जारी",
-    "h": "मध्यावधि नतीजों से एच-1बी वीजा को तुरंत राहत नहीं: वकील",
-    "p": "इमिग्रेशन वकीलों का कहना है कि अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स के कांग्रेस जीतने के बावजूद एच-1बी वीजा और पर्म नियमों पर तुरंत असर नहीं होगा। राष्ट्रपति के पास कार्यकारी अधिकार और वीटो होने से पाबंदियां अपने आप खत्म नहीं होंगी। $100,000 शुल्क और वेतन आधारित लॉटरी अब भी विवाद में हैं।",
-    "pts": [
-     "विशेषज्ञों के अनुसार एच-1बी नियमों में तुरंत बदलाव नहीं",
-     "$100,000 शुल्क, वेतन आधारित लॉटरी अब भी विवाद में",
-     "ईबी-2, ईबी-3 ग्रीन कार्ड बैकलॉग बड़ी चिंता"
-    ],
-    "why": "अमेरिका में नौकरी और पढ़ाई की उम्मीद रखने वाले तेलुगु छात्र और टेकी अपनी योजनाएं ध्यान से देखें।"
    },
    "d": "05.11.2026",
    "t": "09:35"
