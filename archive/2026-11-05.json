@@ -1,8 +1,105 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 38,
+ "count": 40,
  "stories": [
+  {
+   "cat": "ఢిల్లీ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "land",
+   "stat": "6+",
+   "statl": "అగ్నిమాపక యూనిట్లు ఘటనాస్థలికి",
+   "h": "ఓల్డ్ ఢిల్లీలో కూలిన మూడంతస్తుల భవనం: శిథిలాల కింద పలువురు?",
+   "p": "ఓల్డ్ ఢిల్లీలోని చావ్రీ బజార్ మెట్రో స్టేషన్ సమీపంలోని గలీ సితారాలో నిర్మాణంలో ఉన్న మూడంతస్తుల భవనం గురువారం ఉదయం కుప్పకూలింది. ఉదయం సుమారు 9:50 గంటలకు ఘటన జరిగినట్లు పీటీఐ తెలిపింది. శిథిలాల కింద పలువురు చిక్కుకుని ఉండొచ్చని అధికారులు అనుమానిస్తున్నారు. కనీసం ఆరు అగ్నిమాపక యూనిట్లు చేరుకుని సహాయక చర్యలు చేపట్టాయి. చిక్కుకున్నవారి సంఖ్య, ప్రమాద కారణం ఇంకా తెలియలేదు.",
+   "src": "India.com / PTI",
+   "url": "https://www.india.com/news/india/breaking-building-collapses-near-old-delhi-chawri-bazaar-metro-station-gali-sitara-several-feared-trapped-rescue-teams-on-spot-8542344/",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "dl-central",
+   "loc": "చావ్రీ బజార్",
+   "pts": [
+    "ఉదయం సుమారు 9:50కి భవనం కూలింది",
+    "కనీసం 6 అగ్నిమాపక యూనిట్లతో సహాయక చర్యలు",
+    "చిక్కుకున్నవారి సంఖ్య, కారణం ఇంకా నిర్ధారణ కాలేదు"
+   ],
+   "why": "రద్దీగా ఉండే ఓల్డ్ ఢిల్లీ మార్కెట్ ప్రాంతంలో జరిగిన ఈ ప్రమాదం స్థానికులు, వ్యాపారుల భద్రతకు సంబంధించినది.",
+   "d": "05.11.2026",
+   "t": "11:35",
+   "en": {
+    "h": "Three-storey building collapses in Old Delhi; several feared trapped",
+    "p": "An under-construction three-storey building collapsed on Thursday morning at Gali Sitara near the Chawri Bazaar Metro station in Old Delhi. PTI said the incident was reported at around 9:50 am. Officials fear several people are trapped under the debris. At least six fire units reached the spot and began rescue work. The number of people trapped and the cause are not yet known.",
+    "pts": [
+     "Building collapsed at around 9:50 am",
+     "Rescue work with at least 6 fire units",
+     "Number trapped and cause not yet confirmed"
+    ],
+    "why": "The accident in a crowded Old Delhi market area concerns the safety of residents and traders.",
+    "cat": "Delhi · Accident",
+    "statl": "Fire units at the spot"
+   },
+   "hi": {
+    "h": "पुरानी दिल्ली में तीन मंजिला इमारत ढही; कई लोगों के फंसे होने की आशंका",
+    "p": "पुरानी दिल्ली में चावड़ी बाजार मेट्रो स्टेशन के पास गली सितारा में एक निर्माणाधीन तीन मंजिला इमारत गुरुवार सुबह ढह गई। पीटीआई के अनुसार घटना सुबह करीब 9:50 बजे हुई। अधिकारियों को आशंका है कि मलबे में कई लोग फंसे हैं। कम से कम छह दमकल इकाइयां मौके पर पहुंचकर बचाव कार्य में जुटी हैं। फंसे लोगों की संख्या और हादसे का कारण अभी पता नहीं चला है।",
+    "pts": [
+     "सुबह करीब 9:50 बजे इमारत ढही",
+     "कम से कम 6 दमकल इकाइयों से बचाव कार्य",
+     "फंसे लोगों की संख्या, कारण की पुष्टि नहीं"
+    ],
+    "why": "भीड़भाड़ वाले पुरानी दिल्ली के बाजार इलाके में हुआ यह हादसा स्थानीय लोगों और व्यापारियों की सुरक्षा से जुड़ा है।",
+    "cat": "दिल्ली · हादसा",
+    "statl": "दमकल इकाइयां मौके पर"
+   }
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "15%",
+   "statl": "కృష్ణా జిల్లాలో ఉదయం పోలింగ్",
+   "h": "పరిషత్ పోలింగ్: ఎన్టీఆర్ జిల్లాలో 14%, కృష్ణాలో 15% ఓటింగ్",
+   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ కొనసాగుతోంది. గురువారం ఉదయం ఎన్టీఆర్ జిల్లాలో 14 శాతానికి పైగా, కృష్ణా జిల్లాలో 15 శాతం ఓటింగ్ నమోదైంది. పలు కేంద్రాల వద్ద మహిళలు బారులు తీరారు. 582 జడ్పీటీసీ, 7,767 ఎంపీటీసీ స్థానాలకు 21,012 మంది అభ్యర్థులు పోటీ పడుతున్నారు. పోలింగ్ సాయంత్రం 5 గంటల వరకు జరుగుతుంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/live-updates/ap-mptc-zptc-election-live-updates-polling-under-way-for-parishad-elections-1139447",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఎన్టీఆర్‌లో 14%కి పైగా, కృష్ణాలో 15% పోలింగ్",
+    "21,012 మంది అభ్యర్థులు బరిలో",
+    "పోలింగ్ సాయంత్రం 5 గంటల వరకు"
+   ],
+   "why": "సుమారు 2.61 కోట్ల మంది ఓటర్లు గ్రామీణ స్థానిక సంస్థల ప్రతినిధులను ఎన్నుకుంటున్నారు.",
+   "d": "05.11.2026",
+   "t": "11:35",
+   "en": {
+    "h": "Parishad polls: Over 14% turnout in NTR, 15% in Krishna district",
+    "p": "Polling for MPTC and ZPTC elections is under way in Andhra Pradesh. By Thursday morning, NTR district recorded over 14 per cent turnout and Krishna district 15 per cent. Women voters stood in queues at several polling stations. 21,012 candidates are contesting for 582 ZPTC and 7,767 MPTC seats. Polling continues till 5 pm.",
+    "pts": [
+     "Over 14% in NTR, 15% in Krishna",
+     "21,012 candidates in the fray",
+     "Polling till 5 pm"
+    ],
+    "why": "About 2.61 crore voters are electing their rural local body representatives.",
+    "cat": "AP · Elections",
+    "statl": "Morning turnout in Krishna district"
+   },
+   "hi": {
+    "h": "परिषद चुनाव: एनटीआर जिले में 14% से अधिक, कृष्णा में 15% मतदान",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनाव के लिए मतदान जारी है। गुरुवार सुबह तक एनटीआर जिले में 14 प्रतिशत से अधिक और कृष्णा जिले में 15 प्रतिशत मतदान दर्ज हुआ। कई मतदान केंद्रों पर महिलाएं कतारों में खड़ी दिखीं। 582 जेडपीटीसी और 7,767 एमपीटीसी सीटों के लिए 21,012 उम्मीदवार मैदान में हैं। मतदान शाम 5 बजे तक चलेगा।",
+    "pts": [
+     "एनटीआर में 14% से अधिक, कृष्णा में 15% मतदान",
+     "21,012 उम्मीदवार मैदान में",
+     "मतदान शाम 5 बजे तक"
+    ],
+    "why": "करीब 2.61 करोड़ मतदाता अपने ग्रामीण स्थानीय निकाय प्रतिनिधि चुन रहे हैं।",
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "कृष्णा जिले में सुबह का मतदान"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఆర్టీసీ",
    "col": "--c-city",
