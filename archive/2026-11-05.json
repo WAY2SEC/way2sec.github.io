@@ -1,8 +1,106 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 76,
+ "count": 78,
  "stories": [
+  {
+   "cat": "ఏపీ · అనంతపురం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "58",
+   "statl": "ఏళ్ల ఉపాధ్యాయురాలు విధుల్లో మృతి",
+   "h": "పరిషత్ పోలింగ్ విధుల్లో గుండెపోటుతో ఉపాధ్యాయురాలు మృతి; సీఎం సంతాపం",
+   "p": "అనంతపురం జిల్లా కూడేరు మండలం కడదరకుంట గ్రామ పోలింగ్ కేంద్రంలో అసిస్టెంట్ ప్రిసైడింగ్ అధికారిగా విధుల్లో ఉన్న 58 ఏళ్ల ఉపాధ్యాయురాలు గురువారం శ్వాస సమస్యతో గుండెపోటుకు గురయ్యారు. వైద్య బృందం ఆమెను కూడేరు ప్రాథమిక ఆరోగ్య కేంద్రానికి తరలించి అత్యవసర చికిత్స అందించినా మధ్యాహ్నం మృతి చెందారు. బాధిత కుటుంబానికి అన్ని విధాలా అండగా ఉంటామని సీఎం చంద్రబాబు నాయుడు తెలిపారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cm-naidu-condoles-death-of-election-officer-on-poll-duty-2001978",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-anantapur",
+   "loc": "కడదరకుంట",
+   "pts": [
+    "కడదరకుంట పోలింగ్ కేంద్రంలో ఏపీఓగా విధులు",
+    "కూడేరు పీహెచ్‌సీలో చికిత్స పొందుతూ మృతి",
+    "582 జడ్పీటీసీ, 7,767 ఎంపీటీసీ స్థానాలకు పోలింగ్"
+   ],
+   "why": "ఎన్నికల విధుల్లో ఉండే ఉద్యోగులు, ఉపాధ్యాయులకు పోలింగ్ కేంద్రాల వద్ద వైద్య సాయం ఎంత ముఖ్యమో ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "05.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Teacher on parishad poll duty dies of heart attack; CM condoles",
+    "p": "A 58-year-old teacher serving as Assistant Presiding Officer at the polling station in Kadadarakunta village, Kuderu mandal, Anantapur district, suffered a heart attack after a breathing problem while on duty on Thursday. The medical team shifted her to the Kuderu Primary Health Centre, but she died in the afternoon despite emergency treatment. CM Chandrababu Naidu said the government would stand by the family in every way.",
+    "pts": [
+     "Was APO at Kadadarakunta polling station",
+     "Died while under treatment at Kuderu PHC",
+     "Polling held for 582 ZPTC, 7,767 MPTC seats"
+    ],
+    "why": "The incident is a reminder of how important medical help at polling stations is for employees and teachers on election duty.",
+    "cat": "AP · Anantapur",
+    "statl": "year-old teacher dies on duty"
+   },
+   "hi": {
+    "h": "परिषद मतदान ड्यूटी पर शिक्षिका की दिल का दौरा पड़ने से मौत; सीएम ने जताया शोक",
+    "p": "अनंतपुर जिले के कुडेरु मंडल के कडदरकुंटा गांव के मतदान केंद्र पर सहायक पीठासीन अधिकारी के रूप में तैनात 58 वर्षीय शिक्षिका को गुरुवार को ड्यूटी के दौरान सांस की तकलीफ के बाद दिल का दौरा पड़ा। मेडिकल टीम उन्हें कुडेरु प्राथमिक स्वास्थ्य केंद्र ले गई, लेकिन आपात इलाज के बावजूद दोपहर में उनकी मौत हो गई। सीएम चंद्रबाबू नायडू ने कहा कि सरकार परिवार के साथ हर तरह से खड़ी रहेगी।",
+    "pts": [
+     "कडदरकुंटा मतदान केंद्र पर सहायक पीठासीन अधिकारी थीं",
+     "कुडेरु पीएचसी में इलाज के दौरान मौत",
+     "582 जेडपीटीसी, 7,767 एमपीटीसी सीटों पर मतदान"
+    ],
+    "why": "यह घटना याद दिलाती है कि चुनाव ड्यूटी पर तैनात कर्मचारियों और शिक्षकों के लिए मतदान केंद्रों पर चिकित्सा सहायता कितनी जरूरी है।",
+    "cat": "आंध्र प्रदेश · अनंतपुर",
+    "statl": "वर्षीय शिक्षिका की ड्यूटी पर मौत"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · క్రికెట్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "CEO",
+   "statl": "హెచ్‌సీఏ కొత్త సీఈఓ గిరీష్ డోంగ్రే",
+   "h": "హైదరాబాద్ క్రికెట్ సంఘం సీఈఓగా గిరీష్ డోంగ్రే నియామకం",
+   "p": "హైదరాబాద్ క్రికెట్ అసోసియేషన్ (హెచ్‌సీఏ) తన చీఫ్ ఎగ్జిక్యూటివ్ ఆఫీసర్‌గా గిరీష్ డోంగ్రేను నియమించింది. నియామకం నవంబర్ 5 నుంచే అమల్లోకి వచ్చింది. సంస్థాగత పాలనను బలోపేతం చేయడం, నిర్వహణను వృత్తిపరంగా మార్చడం, హైదరాబాద్, తెలంగాణ అంతటా క్రికెట్ అభివృద్ధిని వేగవంతం చేయడమే లక్ష్యమని హెచ్‌సీఏ తెలిపింది. పారదర్శక, జవాబుదారీ సంస్థ కోసమే ఈ నియామకమని కార్యదర్శి జీవన్ రెడ్డి అన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-cricket-association-names-girish-dongre-as-ceo",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 5 నుంచి సీఈఓగా బాధ్యతలు",
+    "క్రికెట్ పాలన, నిర్వహణలో అనుభవం",
+    "పాలన బలోపేతం, క్రికెట్ అభివృద్ధే లక్ష్యమన్న హెచ్‌సీఏ"
+   ],
+   "why": "హెచ్‌సీఏ నిర్వహణలో మార్పులు తెలంగాణలోని క్రికెటర్లు, క్రికెట్ కార్యకలాపాలపై ప్రభావం చూపుతాయి.",
+   "d": "05.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Hyderabad Cricket Association appoints Girish Dongre as CEO",
+    "p": "The Hyderabad Cricket Association (HCA) has appointed Girish Dongre as its Chief Executive Officer, effective November 5. The HCA said the aim is to strengthen institutional governance, professionalise administration and accelerate cricket development across Hyderabad and Telangana. Secretary Jeevan Reddy said the appointment is meant to build a transparent and accountable institution.",
+    "pts": [
+     "Takes charge as CEO from November 5",
+     "Has experience in cricket administration and management",
+     "HCA aims to strengthen governance, develop cricket"
+    ],
+    "why": "Changes in how the HCA is run affect cricketers and cricket activities across Telangana.",
+    "cat": "Hyderabad · Cricket",
+    "statl": "Girish Dongre is HCA's new CEO"
+   },
+   "hi": {
+    "h": "हैदराबाद क्रिकेट एसोसिएशन ने गिरीश डोंगरे को सीईओ नियुक्त किया",
+    "p": "हैदराबाद क्रिकेट एसोसिएशन (एचसीए) ने गिरीश डोंगरे को अपना मुख्य कार्यकारी अधिकारी नियुक्त किया है, जो 5 नवंबर से प्रभावी है। एचसीए ने कहा कि लक्ष्य संस्थागत शासन को मजबूत करना, प्रशासन को पेशेवर बनाना और हैदराबाद व तेलंगाना में क्रिकेट विकास को तेज करना है। सचिव जीवन रेड्डी ने कहा कि यह नियुक्ति एक पारदर्शी और जवाबदेह संस्था बनाने के लिए है।",
+    "pts": [
+     "5 नवंबर से सीईओ का पदभार",
+     "क्रिकेट प्रशासन और प्रबंधन का अनुभव",
+     "शासन मजबूत करना, क्रिकेट विकास एचसीए का लक्ष्य"
+    ],
+    "why": "एचसीए के संचालन में बदलाव का असर तेलंगाना के क्रिकेटरों और क्रिकेट गतिविधियों पर पड़ता है।",
+    "cat": "हैदराबाद · क्रिकेट",
+    "statl": "गिरीश डोंगरे एचसीए के नए सीईओ"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · మోసం",
    "col": "--c-power",
