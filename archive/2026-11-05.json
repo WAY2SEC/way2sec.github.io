@@ -1,8 +1,203 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 84,
+ "count": 88,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "48 గంటలు",
+   "statl": "హాస్టళ్లు ఖాళీ చేస్తున్న వందలాది మంది",
+   "h": "నీటి కొరత: హైదరాబాద్‌లో హాస్టళ్లు ఖాళీ చేస్తున్న వందలాది మంది",
+   "p": "తీవ్రమైన నీటి కొరత కారణంగా గత 48 గంటల్లో హైదరాబాద్, సైబరాబాద్ పరిధిలో వందలాది మంది హాస్టళ్లను ఖాళీ చేశారు. గచ్చిబౌలి, అమీర్‌పేట్, కూకట్‌పల్లి, హిమాయత్‌నగర్ వంటి ప్రాంతాల్లో విద్యార్థులు, ఉద్యోగులు నీరు దొరికే హాస్టళ్ల కోసం వెతుకుతున్నారు. ట్యాంకర్ ధరలు రెట్టింపు కావడంతో హాస్టళ్లు మూతపడే ప్రమాదం ఉందని నిర్వాహకులు హెచ్చరిస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/water-scarcity-forces-hundreds-of-hostel-inmates-to-vacate-across-hyderabad",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "గచ్చిబౌలి, అంజయ్యనగర్, అమీర్‌పేట్, కూకట్‌పల్లి ప్రాంతాల్లో ప్రభావం",
+    "ట్యాంకర్ నీటి ధరలు రెట్టింపు",
+    "గచ్చిబౌలిలో బోర్లు, ప్రధాన నీటి లైన్లు ఎండిపోయాయని నిర్వాహకులు"
+   ],
+   "why": "నగరంలో హాస్టళ్లలో ఉండే వేలాది విద్యార్థులు, ఐటీ ఉద్యోగుల నివాసం, ఖర్చులపై నేరుగా ప్రభావం.",
+   "en": {
+    "h": "Water crisis: Hundreds vacate hostels across Hyderabad",
+    "p": "Due to severe water scarcity, hundreds of residents vacated hostels across Hyderabad and Cyberabad in the past 48 hours. Students and employees in areas such as Gachibowli, Ameerpet, Kukatpally and Himayat Nagar are searching for hostels with water. With tanker prices doubling, operators warn that hostels may shut down.",
+    "pts": [
+     "Gachibowli, Anjaiah Nagar, Ameerpet, Kukatpally areas affected",
+     "Tanker water prices have doubled",
+     "Operators say borewells and main water lines in Gachibowli have run dry"
+    ],
+    "why": "It directly affects housing and costs for thousands of students and IT employees living in city hostels.",
+    "cat": "Hyderabad · Water",
+    "statl": "Hundreds vacating hostels"
+   },
+   "hi": {
+    "h": "पानी का संकट: हैदराबाद में सैकड़ों लोगों ने हॉस्टल खाली किए",
+    "p": "भीषण पानी की कमी के कारण पिछले 48 घंटों में हैदराबाद और साइबराबाद क्षेत्र में सैकड़ों लोगों ने हॉस्टल खाली कर दिए। गच्चीबौली, अमीरपेट, कूकटपल्ली और हिमायतनगर जैसे इलाकों में छात्र और कर्मचारी पानी वाले हॉस्टल की तलाश कर रहे हैं। टैंकर के दाम दोगुने होने से संचालकों ने हॉस्टल बंद होने की चेतावनी दी है।",
+    "pts": [
+     "गच्चीबौली, अंजय्या नगर, अमीरपेट, कूकटपल्ली इलाके प्रभावित",
+     "टैंकर पानी के दाम दोगुने",
+     "संचालकों के अनुसार गच्चीबौली में बोरवेल और मुख्य पानी लाइनें सूखीं"
+    ],
+    "why": "शहर के हॉस्टलों में रहने वाले हजारों छात्रों और आईटी कर्मचारियों के आवास और खर्च पर सीधा असर।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "सैकड़ों लोग हॉस्टल छोड़ रहे"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · భూగర్భ జలాలు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "554",
+   "statl": "మండలాల్లో తగ్గిన భూగర్భ జలమట్టం",
+   "h": "తెలంగాణలో 554 మండలాల్లో పడిపోయిన భూగర్భ జలాలు",
+   "p": "రాష్ట్రంలోని 621 మండలాల్లో 554 చోట్ల భూగర్భ జలమట్టం తగ్గిందని భూగర్భ జల శాఖ అక్టోబర్ నివేదిక తెలిపింది. రాష్ట్ర సగటు మట్టం 7.77 మీటర్లు కాగా, గత ఏడాది కంటే 2 మీటర్లు తగ్గింది. జూన్-అక్టోబర్‌లో 24 శాతం లోటు వర్షపాతం నమోదైంది. సూర్యాపేటలో అత్యధికంగా 6.05 మీటర్లు పడిపోయింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/groundwater-levels-decline-in-554-telangana-mandals",
+   "sec": [
+    "telangana",
+    "agri",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "సగటు జలమట్టం 7.77 మీటర్లు; ఏడాదిలో 2 మీటర్లు తగ్గుదల",
+    "628 మి.మీ. వర్షం; సాధారణం 831 మి.మీ.",
+    "హైదరాబాద్ జిల్లాలో 4.50 మీటర్లు పడిపోయిన మట్టం"
+   ],
+   "why": "వేసవిలో తాగునీరు, సాగునీటి కొరత పెరిగే ప్రమాదం ఉండటంతో రైతులు, పట్టణ ప్రజలపై ప్రభావం.",
+   "en": {
+    "h": "Groundwater levels fall in 554 Telangana mandals",
+    "p": "The Groundwater Department's October report says water levels declined in 554 of the state's 621 mandals. The state average level is 7.77 metres, 2 metres lower than last year. Rainfall from June to October was 24 per cent deficient. Suryapet saw the steepest fall at 6.05 metres.",
+    "pts": [
+     "Average level 7.77 metres; down 2 metres in a year",
+     "628 mm rain against normal 831 mm",
+     "Level fell 4.50 metres in Hyderabad district"
+    ],
+    "why": "Farmers and urban residents may face rising drinking and irrigation water shortages in summer.",
+    "cat": "Telangana · Groundwater",
+    "statl": "Mandals with falling groundwater"
+   },
+   "hi": {
+    "h": "तेलंगाना के 554 मंडलों में भूजल स्तर गिरा",
+    "p": "भूजल विभाग की अक्टूबर रिपोर्ट के अनुसार राज्य के 621 मंडलों में से 554 में भूजल स्तर घटा है। राज्य का औसत स्तर 7.77 मीटर है, जो पिछले साल से 2 मीटर कम है। जून से अक्टूबर तक 24 प्रतिशत कम बारिश हुई। सूर्यापेट में सबसे अधिक 6.05 मीटर की गिरावट दर्ज हुई।",
+    "pts": [
+     "औसत स्तर 7.77 मीटर; एक साल में 2 मीटर गिरावट",
+     "सामान्य 831 मिमी के मुकाबले 628 मिमी बारिश",
+     "हैदराबाद जिले में स्तर 4.50 मीटर गिरा"
+    ],
+    "why": "गर्मियों में पीने और सिंचाई के पानी की कमी बढ़ने का खतरा, जिससे किसान और शहरी लोग प्रभावित होंगे।",
+    "cat": "तेलंगाना · भूजल",
+    "statl": "मंडलों में भूजल स्तर घटा"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "3",
+   "statl": "ఫెర్టిలిటీ కేంద్రాల రికార్డుల స్వాధీనం",
+   "h": "అండాల దానం దందా: మూడు ఫెర్టిలిటీ కేంద్రాలపై మల్కాజిగిరి పోలీసుల దర్యాప్తు",
+   "p": "అక్రమ అండాల దానం దందా కేసులో మల్కాజిగిరి పోలీసులు మూడు ఫెర్టిలిటీ కేంద్రాల నుంచి రికార్డులు స్వాధీనం చేసుకున్నారు. ఆధార్ వివరాల దుర్వినియోగం, పెళ్లికాని మహిళలను వివాహితులుగా చూపడం, సంతకాల ఫోర్జరీ వంటి అంశాలను పరిశీలిస్తున్నట్లు పోలీస్ కమిషనర్ బి. సుమతి తెలిపారు. ఆధారాలు లభిస్తేనే చర్యలు ఉంటాయని చెప్పారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/malkajgiri-police-scrutinise-three-fertility-centres-in-egg-donation-racket-probe",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medchal",
+   "pts": [
+    "మూడు కేంద్రాల రికార్డులు స్వాధీనం, తనిఖీ",
+    "దాతల పత్రాలు సరిగా ఉన్నాయో పరిశీలన",
+    "కేంద్రంతో సంబంధం ఉన్నంత మాత్రాన నిందితులు కారన్న సీపీ"
+   ],
+   "why": "ఫెర్టిలిటీ చికిత్సలు పొందేవారు, అండాల దాతల భద్రత, నిబంధనల అమలుకు సంబంధించిన కేసు ఇది.",
+   "en": {
+    "h": "Egg donation racket: Malkajgiri police probe three fertility centres",
+    "p": "In the illegal egg donation racket case, Malkajgiri police seized records from three fertility centres. Police Commissioner B. Sumathi said they are examining misuse of Aadhaar details, unmarried women being shown as married, and forged signatures. She said action will be taken only where evidence is found.",
+    "pts": [
+     "Records of three centres seized and being checked",
+     "Verifying whether donor documents were properly kept",
+     "CP says mere association with a centre does not make one accused"
+    ],
+    "why": "The case concerns the safety of egg donors and people seeking fertility treatment, and enforcement of rules.",
+    "cat": "Telangana · Safety",
+    "statl": "Fertility centres' records seized"
+   },
+   "hi": {
+    "h": "अंडाणु दान रैकेट: मलकाजगिरी पुलिस ने तीन फर्टिलिटी केंद्रों की जांच की",
+    "p": "अवैध अंडाणु दान रैकेट मामले में मलकाजगिरी पुलिस ने तीन फर्टिलिटी केंद्रों से रिकॉर्ड जब्त किए। पुलिस आयुक्त बी. सुमति ने बताया कि आधार विवरण के दुरुपयोग, अविवाहित महिलाओं को विवाहित दिखाने और जाली हस्ताक्षर जैसे पहलुओं की जांच हो रही है। उन्होंने कहा कि सबूत मिलने पर ही कार्रवाई होगी।",
+    "pts": [
+     "तीन केंद्रों के रिकॉर्ड जब्त, जांच जारी",
+     "दाताओं के दस्तावेज सही रखे गए या नहीं, इसकी जांच",
+     "सीपी: केंद्र से जुड़ा होना मात्र आरोपी बनाना नहीं"
+    ],
+    "why": "यह मामला अंडाणु दाताओं और फर्टिलिटी इलाज कराने वालों की सुरक्षा तथा नियमों के पालन से जुड़ा है।",
+    "cat": "तेलंगाना · सुरक्षा",
+    "statl": "फर्टिलिटी केंद्रों के रिकॉर्ड जब्त"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "30",
+   "statl": "రాష్ట్ర చట్టసభ సీట్లు గెలిచిన భారత సంతతి అభ్యర్థులు",
+   "h": "అమెరికా ఎన్నికల్లో 30 మంది భారత సంతతి అభ్యర్థుల విజయం",
+   "p": "అమెరికాలో మంగళవారం జరిగిన ఎన్నికల్లో కనీసం 30 మంది భారత సంతతి అభ్యర్థులు రాష్ట్ర చట్టసభ సీట్లు గెలిచారు. పోటీ చేసిన 41 మందిలో 30 మంది గెలవగా, వీరిలో 15 మంది మహిళలు. మిషిగన్‌లో రంజీవ్ పురి, అరిజోనాలో ప్రియా సుందరేశన్ మళ్లీ గెలిచి చట్టసభల నాయకత్వ రేసులో ఉన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/over-30-indian-american-candidates-secure-state-legislative-seats-across-us",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "41 మందిలో 30 మంది విజయం, ఇద్దరు ఆధిక్యంలో",
+    "మేరీల్యాండ్ లెఫ్టినెంట్ గవర్నర్‌గా అరుణా మిల్లర్ మళ్లీ ఎన్నిక",
+    "ఒహాయో గవర్నర్ రేసులో వివేక్ రామస్వామి ఓటమి"
+   ],
+   "why": "అమెరికాలో ఉన్న భారతీయులు, తెలుగు ప్రజల రాజకీయ ప్రాతినిధ్యం పెరుగుతున్నట్లు ఈ ఫలితాలు చూపుతున్నాయి.",
+   "en": {
+    "h": "30 Indian American candidates win in US elections",
+    "p": "In Tuesday's US elections, at least 30 Indian American candidates won state legislative seats. Of the 41 who contested, 30 won, and 15 of them are women. Ranjeev Puri in Michigan and Priya Sundareshan in Arizona were re-elected and are in line to lead legislative chambers.",
+    "pts": [
+     "30 of 41 won, two leading",
+     "Aruna Miller re-elected Maryland Lt Governor",
+     "Vivek Ramaswamy lost Ohio governor's race"
+    ],
+    "why": "The results show growing political representation of Indians, including Telugu people, in the US.",
+    "cat": "World · US",
+    "statl": "Indian Americans win state legislative seats"
+   },
+   "hi": {
+    "h": "अमेरिकी चुनाव में 30 भारतवंशी उम्मीदवार जीते",
+    "p": "अमेरिका में मंगलवार को हुए चुनावों में कम से कम 30 भारतवंशी उम्मीदवारों ने राज्य विधानसभा सीटें जीतीं। चुनाव लड़ने वाले 41 में से 30 जीते, जिनमें 15 महिलाएं हैं। मिशिगन में रंजीव पुरी और एरिज़ोना में प्रिया सुंदरेशन दोबारा जीतकर विधायी सदनों के नेतृत्व की दौड़ में हैं।",
+    "pts": [
+     "41 में से 30 जीते, दो आगे",
+     "मैरीलैंड की लेफ्टिनेंट गवर्नर अरुणा मिलर दोबारा चुनी गईं",
+     "ओहायो गवर्नर चुनाव में विवेक रामास्वामी हारे"
+    ],
+    "why": "नतीजे अमेरिका में तेलुगु लोगों सहित भारतीयों के बढ़ते राजनीतिक प्रतिनिधित्व को दिखाते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "भारतवंशियों ने राज्य विधानसभा सीटें जीतीं"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
   {
    "cat": "తెలంగాణ · అభివృద్ధి",
    "col": "--c-gov",

@@ -1,8 +1,203 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T20:05:00+05:30",
+ "updated": "2026-11-05T20:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "48 గంటలు",
+   "statl": "హాస్టళ్లు ఖాళీ చేస్తున్న వందలాది మంది",
+   "h": "నీటి కొరత: హైదరాబాద్‌లో హాస్టళ్లు ఖాళీ చేస్తున్న వందలాది మంది",
+   "p": "తీవ్రమైన నీటి కొరత కారణంగా గత 48 గంటల్లో హైదరాబాద్, సైబరాబాద్ పరిధిలో వందలాది మంది హాస్టళ్లను ఖాళీ చేశారు. గచ్చిబౌలి, అమీర్‌పేట్, కూకట్‌పల్లి, హిమాయత్‌నగర్ వంటి ప్రాంతాల్లో విద్యార్థులు, ఉద్యోగులు నీరు దొరికే హాస్టళ్ల కోసం వెతుకుతున్నారు. ట్యాంకర్ ధరలు రెట్టింపు కావడంతో హాస్టళ్లు మూతపడే ప్రమాదం ఉందని నిర్వాహకులు హెచ్చరిస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/water-scarcity-forces-hundreds-of-hostel-inmates-to-vacate-across-hyderabad",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "గచ్చిబౌలి, అంజయ్యనగర్, అమీర్‌పేట్, కూకట్‌పల్లి ప్రాంతాల్లో ప్రభావం",
+    "ట్యాంకర్ నీటి ధరలు రెట్టింపు",
+    "గచ్చిబౌలిలో బోర్లు, ప్రధాన నీటి లైన్లు ఎండిపోయాయని నిర్వాహకులు"
+   ],
+   "why": "నగరంలో హాస్టళ్లలో ఉండే వేలాది విద్యార్థులు, ఐటీ ఉద్యోగుల నివాసం, ఖర్చులపై నేరుగా ప్రభావం.",
+   "en": {
+    "h": "Water crisis: Hundreds vacate hostels across Hyderabad",
+    "p": "Due to severe water scarcity, hundreds of residents vacated hostels across Hyderabad and Cyberabad in the past 48 hours. Students and employees in areas such as Gachibowli, Ameerpet, Kukatpally and Himayat Nagar are searching for hostels with water. With tanker prices doubling, operators warn that hostels may shut down.",
+    "pts": [
+     "Gachibowli, Anjaiah Nagar, Ameerpet, Kukatpally areas affected",
+     "Tanker water prices have doubled",
+     "Operators say borewells and main water lines in Gachibowli have run dry"
+    ],
+    "why": "It directly affects housing and costs for thousands of students and IT employees living in city hostels.",
+    "cat": "Hyderabad · Water",
+    "statl": "Hundreds vacating hostels"
+   },
+   "hi": {
+    "h": "पानी का संकट: हैदराबाद में सैकड़ों लोगों ने हॉस्टल खाली किए",
+    "p": "भीषण पानी की कमी के कारण पिछले 48 घंटों में हैदराबाद और साइबराबाद क्षेत्र में सैकड़ों लोगों ने हॉस्टल खाली कर दिए। गच्चीबौली, अमीरपेट, कूकटपल्ली और हिमायतनगर जैसे इलाकों में छात्र और कर्मचारी पानी वाले हॉस्टल की तलाश कर रहे हैं। टैंकर के दाम दोगुने होने से संचालकों ने हॉस्टल बंद होने की चेतावनी दी है।",
+    "pts": [
+     "गच्चीबौली, अंजय्या नगर, अमीरपेट, कूकटपल्ली इलाके प्रभावित",
+     "टैंकर पानी के दाम दोगुने",
+     "संचालकों के अनुसार गच्चीबौली में बोरवेल और मुख्य पानी लाइनें सूखीं"
+    ],
+    "why": "शहर के हॉस्टलों में रहने वाले हजारों छात्रों और आईटी कर्मचारियों के आवास और खर्च पर सीधा असर।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "सैकड़ों लोग हॉस्टल छोड़ रहे"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · భూగర్భ జలాలు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "554",
+   "statl": "మండలాల్లో తగ్గిన భూగర్భ జలమట్టం",
+   "h": "తెలంగాణలో 554 మండలాల్లో పడిపోయిన భూగర్భ జలాలు",
+   "p": "రాష్ట్రంలోని 621 మండలాల్లో 554 చోట్ల భూగర్భ జలమట్టం తగ్గిందని భూగర్భ జల శాఖ అక్టోబర్ నివేదిక తెలిపింది. రాష్ట్ర సగటు మట్టం 7.77 మీటర్లు కాగా, గత ఏడాది కంటే 2 మీటర్లు తగ్గింది. జూన్-అక్టోబర్‌లో 24 శాతం లోటు వర్షపాతం నమోదైంది. సూర్యాపేటలో అత్యధికంగా 6.05 మీటర్లు పడిపోయింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/groundwater-levels-decline-in-554-telangana-mandals",
+   "sec": [
+    "telangana",
+    "agri",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "సగటు జలమట్టం 7.77 మీటర్లు; ఏడాదిలో 2 మీటర్లు తగ్గుదల",
+    "628 మి.మీ. వర్షం; సాధారణం 831 మి.మీ.",
+    "హైదరాబాద్ జిల్లాలో 4.50 మీటర్లు పడిపోయిన మట్టం"
+   ],
+   "why": "వేసవిలో తాగునీరు, సాగునీటి కొరత పెరిగే ప్రమాదం ఉండటంతో రైతులు, పట్టణ ప్రజలపై ప్రభావం.",
+   "en": {
+    "h": "Groundwater levels fall in 554 Telangana mandals",
+    "p": "The Groundwater Department's October report says water levels declined in 554 of the state's 621 mandals. The state average level is 7.77 metres, 2 metres lower than last year. Rainfall from June to October was 24 per cent deficient. Suryapet saw the steepest fall at 6.05 metres.",
+    "pts": [
+     "Average level 7.77 metres; down 2 metres in a year",
+     "628 mm rain against normal 831 mm",
+     "Level fell 4.50 metres in Hyderabad district"
+    ],
+    "why": "Farmers and urban residents may face rising drinking and irrigation water shortages in summer.",
+    "cat": "Telangana · Groundwater",
+    "statl": "Mandals with falling groundwater"
+   },
+   "hi": {
+    "h": "तेलंगाना के 554 मंडलों में भूजल स्तर गिरा",
+    "p": "भूजल विभाग की अक्टूबर रिपोर्ट के अनुसार राज्य के 621 मंडलों में से 554 में भूजल स्तर घटा है। राज्य का औसत स्तर 7.77 मीटर है, जो पिछले साल से 2 मीटर कम है। जून से अक्टूबर तक 24 प्रतिशत कम बारिश हुई। सूर्यापेट में सबसे अधिक 6.05 मीटर की गिरावट दर्ज हुई।",
+    "pts": [
+     "औसत स्तर 7.77 मीटर; एक साल में 2 मीटर गिरावट",
+     "सामान्य 831 मिमी के मुकाबले 628 मिमी बारिश",
+     "हैदराबाद जिले में स्तर 4.50 मीटर गिरा"
+    ],
+    "why": "गर्मियों में पीने और सिंचाई के पानी की कमी बढ़ने का खतरा, जिससे किसान और शहरी लोग प्रभावित होंगे।",
+    "cat": "तेलंगाना · भूजल",
+    "statl": "मंडलों में भूजल स्तर घटा"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "3",
+   "statl": "ఫెర్టిలిటీ కేంద్రాల రికార్డుల స్వాధీనం",
+   "h": "అండాల దానం దందా: మూడు ఫెర్టిలిటీ కేంద్రాలపై మల్కాజిగిరి పోలీసుల దర్యాప్తు",
+   "p": "అక్రమ అండాల దానం దందా కేసులో మల్కాజిగిరి పోలీసులు మూడు ఫెర్టిలిటీ కేంద్రాల నుంచి రికార్డులు స్వాధీనం చేసుకున్నారు. ఆధార్ వివరాల దుర్వినియోగం, పెళ్లికాని మహిళలను వివాహితులుగా చూపడం, సంతకాల ఫోర్జరీ వంటి అంశాలను పరిశీలిస్తున్నట్లు పోలీస్ కమిషనర్ బి. సుమతి తెలిపారు. ఆధారాలు లభిస్తేనే చర్యలు ఉంటాయని చెప్పారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/malkajgiri-police-scrutinise-three-fertility-centres-in-egg-donation-racket-probe",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medchal",
+   "pts": [
+    "మూడు కేంద్రాల రికార్డులు స్వాధీనం, తనిఖీ",
+    "దాతల పత్రాలు సరిగా ఉన్నాయో పరిశీలన",
+    "కేంద్రంతో సంబంధం ఉన్నంత మాత్రాన నిందితులు కారన్న సీపీ"
+   ],
+   "why": "ఫెర్టిలిటీ చికిత్సలు పొందేవారు, అండాల దాతల భద్రత, నిబంధనల అమలుకు సంబంధించిన కేసు ఇది.",
+   "en": {
+    "h": "Egg donation racket: Malkajgiri police probe three fertility centres",
+    "p": "In the illegal egg donation racket case, Malkajgiri police seized records from three fertility centres. Police Commissioner B. Sumathi said they are examining misuse of Aadhaar details, unmarried women being shown as married, and forged signatures. She said action will be taken only where evidence is found.",
+    "pts": [
+     "Records of three centres seized and being checked",
+     "Verifying whether donor documents were properly kept",
+     "CP says mere association with a centre does not make one accused"
+    ],
+    "why": "The case concerns the safety of egg donors and people seeking fertility treatment, and enforcement of rules.",
+    "cat": "Telangana · Safety",
+    "statl": "Fertility centres' records seized"
+   },
+   "hi": {
+    "h": "अंडाणु दान रैकेट: मलकाजगिरी पुलिस ने तीन फर्टिलिटी केंद्रों की जांच की",
+    "p": "अवैध अंडाणु दान रैकेट मामले में मलकाजगिरी पुलिस ने तीन फर्टिलिटी केंद्रों से रिकॉर्ड जब्त किए। पुलिस आयुक्त बी. सुमति ने बताया कि आधार विवरण के दुरुपयोग, अविवाहित महिलाओं को विवाहित दिखाने और जाली हस्ताक्षर जैसे पहलुओं की जांच हो रही है। उन्होंने कहा कि सबूत मिलने पर ही कार्रवाई होगी।",
+    "pts": [
+     "तीन केंद्रों के रिकॉर्ड जब्त, जांच जारी",
+     "दाताओं के दस्तावेज सही रखे गए या नहीं, इसकी जांच",
+     "सीपी: केंद्र से जुड़ा होना मात्र आरोपी बनाना नहीं"
+    ],
+    "why": "यह मामला अंडाणु दाताओं और फर्टिलिटी इलाज कराने वालों की सुरक्षा तथा नियमों के पालन से जुड़ा है।",
+    "cat": "तेलंगाना · सुरक्षा",
+    "statl": "फर्टिलिटी केंद्रों के रिकॉर्ड जब्त"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "30",
+   "statl": "రాష్ట్ర చట్టసభ సీట్లు గెలిచిన భారత సంతతి అభ్యర్థులు",
+   "h": "అమెరికా ఎన్నికల్లో 30 మంది భారత సంతతి అభ్యర్థుల విజయం",
+   "p": "అమెరికాలో మంగళవారం జరిగిన ఎన్నికల్లో కనీసం 30 మంది భారత సంతతి అభ్యర్థులు రాష్ట్ర చట్టసభ సీట్లు గెలిచారు. పోటీ చేసిన 41 మందిలో 30 మంది గెలవగా, వీరిలో 15 మంది మహిళలు. మిషిగన్‌లో రంజీవ్ పురి, అరిజోనాలో ప్రియా సుందరేశన్ మళ్లీ గెలిచి చట్టసభల నాయకత్వ రేసులో ఉన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/over-30-indian-american-candidates-secure-state-legislative-seats-across-us",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "41 మందిలో 30 మంది విజయం, ఇద్దరు ఆధిక్యంలో",
+    "మేరీల్యాండ్ లెఫ్టినెంట్ గవర్నర్‌గా అరుణా మిల్లర్ మళ్లీ ఎన్నిక",
+    "ఒహాయో గవర్నర్ రేసులో వివేక్ రామస్వామి ఓటమి"
+   ],
+   "why": "అమెరికాలో ఉన్న భారతీయులు, తెలుగు ప్రజల రాజకీయ ప్రాతినిధ్యం పెరుగుతున్నట్లు ఈ ఫలితాలు చూపుతున్నాయి.",
+   "en": {
+    "h": "30 Indian American candidates win in US elections",
+    "p": "In Tuesday's US elections, at least 30 Indian American candidates won state legislative seats. Of the 41 who contested, 30 won, and 15 of them are women. Ranjeev Puri in Michigan and Priya Sundareshan in Arizona were re-elected and are in line to lead legislative chambers.",
+    "pts": [
+     "30 of 41 won, two leading",
+     "Aruna Miller re-elected Maryland Lt Governor",
+     "Vivek Ramaswamy lost Ohio governor's race"
+    ],
+    "why": "The results show growing political representation of Indians, including Telugu people, in the US.",
+    "cat": "World · US",
+    "statl": "Indian Americans win state legislative seats"
+   },
+   "hi": {
+    "h": "अमेरिकी चुनाव में 30 भारतवंशी उम्मीदवार जीते",
+    "p": "अमेरिका में मंगलवार को हुए चुनावों में कम से कम 30 भारतवंशी उम्मीदवारों ने राज्य विधानसभा सीटें जीतीं। चुनाव लड़ने वाले 41 में से 30 जीते, जिनमें 15 महिलाएं हैं। मिशिगन में रंजीव पुरी और एरिज़ोना में प्रिया सुंदरेशन दोबारा जीतकर विधायी सदनों के नेतृत्व की दौड़ में हैं।",
+    "pts": [
+     "41 में से 30 जीते, दो आगे",
+     "मैरीलैंड की लेफ्टिनेंट गवर्नर अरुणा मिलर दोबारा चुनी गईं",
+     "ओहायो गवर्नर चुनाव में विवेक रामास्वामी हारे"
+    ],
+    "why": "नतीजे अमेरिका में तेलुगु लोगों सहित भारतीयों के बढ़ते राजनीतिक प्रतिनिधित्व को दिखाते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "भारतवंशियों ने राज्य विधानसभा सीटें जीतीं"
+   },
+   "d": "05.11.2026",
+   "t": "20:35"
+  },
   {
    "cat": "తెలంగాణ · అభివృద్ధి",
    "col": "--c-gov",
@@ -1567,344 +1762,6 @@
     "why": "बेंगलुरु समेत कर्नाटक में रोज़ बस से सफ़र करने वालों और वहां रहने वाले तेलुगु लोगों का खर्च बढ़ेगा।",
     "cat": "कर्नाटक · बस किराया",
     "statl": "बेंगलुरु बीएमटीसी किराये में बढ़ोतरी"
-   }
-  },
-  {
-   "cat": "కర్ణాటక · ప్రభుత్వం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹31/కేజీ",
-   "statl": "2019 నుంచి మారని చక్కెర కనీస ధర",
-   "h": "బెంగళూరుకు ప్రత్యేక ప్యాకేజీ ఇవ్వండి: కేంద్రాన్ని కోరిన సీఎం డీకే శివకుమార్",
-   "p": "ప్రధాని మోదీకి రాసిన లేఖల్లో కర్ణాటక సీఎం డీకే శివకుమార్ బెంగళూరుకు ప్రత్యేక ఆర్థిక ప్యాకేజీ, రక్షణ శాఖ భూములు సరైన ధరకు ఇవ్వాలని కోరారు. మేకేదాటు, కలస-బండూరి, అప్పర్ భద్ర, అప్పర్ కృష్ణ, ఎత్తినహొళె ప్రాజెక్టులకు త్వరగా అనుమతులివ్వాలన్నారు. 2019 ఫిబ్రవరి నుంచి కేజీకి ₹31 వద్దే ఉన్న చక్కెర కనీస ధరను సవరించాలని కూడా కోరారు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/politics/karnataka-cm-dk-shivakumar-seeks-centres-intervention-on-bengaluru-infrastructure-irrigation-sugarcane-crisis20261105131455/",
-   "sec": [
-    "india",
-    "agri"
-   ],
-   "st": "KA",
-   "place": "st-KA",
-   "pts": [
-    "నమ్మ మెట్రో పింక్ లైన్ ప్రారంభానికి ప్రధాని రాకను స్వాగతించారు",
-    "ఉత్తర కర్ణాటక చెరకు రైతుల ఆందోళనను ప్రస్తావించారు",
-    "ఎఫ్ఆర్‌పీ బేస్ రికవరీని 9.50%కు పునరుద్ధరించాలని వినతి"
-   ],
-   "why": "బెంగళూరు మౌలిక వసతులు, సాగునీటి ప్రాజెక్టులు, చెరకు రైతుల సమస్యలపై ఇవి కర్ణాటక ప్రభుత్వ కీలక డిమాండ్లు.",
-   "d": "05.11.2026",
-   "t": "14:05",
-   "en": {
-    "h": "Give Bengaluru a special package: CM DK Shivakumar urges Centre",
-    "p": "In letters to PM Modi, Karnataka CM DK Shivakumar sought a special financial package for Bengaluru and defence land at appropriate prices. He asked for early clearances for the Mekedatu, Kalasa-Banduri, Upper Bhadra, Upper Krishna and Yettinahole projects. He also sought a revision of the sugar minimum price, unchanged at ₹31 per kg since February 2019.",
-    "pts": [
-     "Welcomed PM's visit to open Namma Metro Pink Line",
-     "Raised the North Karnataka sugarcane farmers' agitation",
-     "Sought FRP base recovery restored to 9.50%"
-    ],
-    "why": "These are the Karnataka government's key demands on Bengaluru infrastructure, irrigation projects and sugarcane farmers' issues.",
-    "cat": "Karnataka · Government",
-    "statl": "Sugar minimum price unchanged since 2019"
-   },
-   "hi": {
-    "h": "बेंगलुरु को विशेष पैकेज दें: सीएम डीके शिवकुमार ने केंद्र से कहा",
-    "p": "प्रधानमंत्री मोदी को लिखे पत्रों में कर्नाटक के मुख्यमंत्री डीके शिवकुमार ने बेंगलुरु के लिए विशेष वित्तीय पैकेज और उचित कीमत पर रक्षा भूमि की मांग की। उन्होंने मेकेदातु, कलसा-बंडूरी, अपर भद्रा, अपर कृष्णा और येत्तिनहोले परियोजनाओं को जल्द मंज़ूरी देने को कहा। फ़रवरी 2019 से ₹31 प्रति किलो पर स्थिर चीनी के न्यूनतम मूल्य में संशोधन की भी मांग की।",
-    "pts": [
-     "नम्मा मेट्रो पिंक लाइन उद्घाटन हेतु पीएम के दौरे का स्वागत",
-     "उत्तर कर्नाटक के गन्ना किसानों के आंदोलन का ज़िक्र",
-     "एफआरपी बेस रिकवरी 9.50% बहाल करने की मांग"
-    ],
-    "why": "बेंगलुरु के बुनियादी ढांचे, सिंचाई परियोजनाओं और गन्ना किसानों के मुद्दों पर ये कर्नाटक सरकार की अहम मांगें हैं।",
-    "cat": "कर्नाटक · सरकार",
-    "statl": "2019 से स्थिर चीनी न्यूनतम मूल्य"
-   }
-  },
-  {
-   "cat": "ఏపీ · సుప్రీంకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "ఏపీలోనే",
-   "statl": "లడ్డూ కల్తీ కేసు విచారణ కొనసాగింపు",
-   "h": "తిరుమల లడ్డూ కల్తీ కేసు విచారణ ఏపీ బయటకు మార్చం: సుప్రీంకోర్టు",
-   "p": "తిరుపతి లడ్డూ నెయ్యి కల్తీ కేసు విచారణను ఆంధ్రప్రదేశ్ వెలుపలికి మార్చాలన్న పిటిషన్‌ను సుప్రీంకోర్టు గురువారం తోసిపుచ్చింది. ప్రస్తుత దశలో బదిలీకి తగిన కారణం లేదని సీజేఐ సూర్యకాంత్, జస్టిస్ జోయ్‌మాల్య బాగ్చీ ధర్మాసనం పేర్కొంది. రాజకీయ ప్రకటనల వల్ల విచారణ న్యాయంగా జరగదని పిటిషనర్ల తరఫు న్యాయవాది వాదించారు. అలాంటి సమస్య తలెత్తితే మళ్లీ కోర్టును ఆశ్రయించవచ్చని ధర్మాసనం సూచించింది.",
-   "src": "Telangana Today (IANS)",
-   "url": "https://telanganatoday.com/no-grounds-to-transfer-tirupati-laddu-adulteration-case-outside-andhra-sc",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "ఒక వ్యక్తి, ఒక పాల ఉత్పత్తుల సంస్థ బదిలీ పిటిషన్ దాఖలు",
-    "సీబీఐ పర్యవేక్షణలోని సిట్ జనవరిలో తుది ఛార్జిషీట్",
-    "నెల్లూరు ఏసీబీ కోర్టులో ఛార్జిషీట్ దాఖలు"
-   ],
-   "why": "తిరుమల భక్తుల మనోభావాలతో ముడిపడిన ఈ కేసు విచారణ ఇక ఏపీలోనే కొనసాగుతుంది.",
-   "d": "05.11.2026",
-   "t": "13:35",
-   "en": {
-    "h": "Tirumala laddu adulteration trial will not move out of AP: Supreme Court",
-    "p": "The Supreme Court on Thursday rejected a petition to transfer the trial in the Tirupati laddu ghee adulteration case outside Andhra Pradesh. A bench of CJI Surya Kant and Justice Joymalya Bagchi said no case was made out for a transfer at this stage. The petitioners' counsel argued that political statements would prevent a fair trial. The bench said they could approach the court again if such an issue arose.",
-    "pts": [
-     "An individual and a milk products firm sought the transfer",
-     "CBI-supervised SIT filed final charge sheet in January",
-     "Charge sheet was filed before Nellore ACB court"
-    ],
-    "why": "This case, linked to the sentiments of Tirumala devotees, will now continue to be tried in AP.",
-    "cat": "Andhra Pradesh · Supreme Court",
-    "statl": "Laddu adulteration trial stays in AP"
-   },
-   "hi": {
-    "h": "तिरुमला लड्डू मिलावट मामले की सुनवाई आंध्र से बाहर नहीं होगी: सुप्रीम कोर्ट",
-    "p": "सुप्रीम कोर्ट ने गुरुवार को तिरुपति लड्डू घी मिलावट मामले की सुनवाई आंध्र प्रदेश से बाहर स्थानांतरित करने की याचिका खारिज कर दी। सीजेआई सूर्यकांत और जस्टिस जॉयमाल्य बागची की पीठ ने कहा कि इस चरण में स्थानांतरण का कोई आधार नहीं है। याचिकाकर्ताओं के वकील ने दलील दी कि राजनीतिक बयानों के कारण निष्पक्ष सुनवाई नहीं होगी। पीठ ने कहा कि ऐसी समस्या आने पर वे फिर से अदालत आ सकते हैं।",
-    "pts": [
-     "एक व्यक्ति और एक दुग्ध उत्पाद कंपनी ने याचिका दायर की",
-     "सीबीआई निगरानी वाली एसआईटी ने जनवरी में अंतिम आरोपपत्र दिया",
-     "नेल्लोर एसीबी अदालत में आरोपपत्र दाखिल"
-    ],
-    "why": "तिरुमला भक्तों की भावनाओं से जुड़े इस मामले की सुनवाई अब आंध्र प्रदेश में ही जारी रहेगी।",
-    "cat": "आंध्र प्रदेश · सुप्रीम कोर्ट",
-    "statl": "लड्डू मिलावट मामले की सुनवाई आंध्र में ही"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · బంగారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹1,46,020",
-   "statl": "10 గ్రాముల 24 క్యారెట్ బంగారం ధర",
-   "h": "ధన్‌తేరస్ ముందు హైదరాబాద్‌లో బంగారం జోరు: 10 గ్రాములు ₹1,46,020",
-   "p": "హైదరాబాద్‌లో గురువారం 24 క్యారెట్ బంగారం ధర 10 గ్రాములకు ₹3,220 పెరిగి ₹1,46,020కి చేరింది. 22 క్యారెట్ ధర ₹2,950 పెరిగి ₹1,33,850 అయింది. నవంబర్ 1 నుంచి వరుసగా నాలుగు సెషన్లలో ధర సుమారు 5.1% ఎగబాకింది. ఈ ధరలకు తయారీ ఛార్జీలు, 3% జీఎస్టీ అదనం. చార్మినార్ వద్ద చిన్న దుకాణాలు చివరి కస్టమర్ వెళ్లే వరకు తెరిచే ఉంచనున్నాయి.",
-   "src": "Upstox",
-   "url": "https://upstox.com/news/personal-finance/commodities/gold-rate-today-hyderabad-november-5-prices-jump-5-in-the-lead-up-to-dhanteras-2026/article-203039/",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "18 క్యారెట్: 10 గ్రాములు ₹1,09,520",
-    "ఒక్క రోజులో దాదాపు 2.25% పెరుగుదల",
-    "అక్టోబర్ 29 నాటి గ్రాము ధర ₹14,395 దాటింది"
-   ],
-   "why": "ధన్‌తేరస్‌కు బంగారం కొనాలనుకునే కుటుంబాల బడ్జెట్‌పై ఈ పెరుగుదల నేరుగా ప్రభావం చూపుతుంది.",
-   "d": "05.11.2026",
-   "t": "13:35",
-   "en": {
-    "h": "Gold surges in Hyderabad ahead of Dhanteras: ₹1,46,020 per 10 grams",
-    "p": "In Hyderabad on Thursday, 24-carat gold rose by ₹3,220 per 10 grams to ₹1,46,020. The 22-carat rate went up by ₹2,950 to ₹1,33,850. Since November 1, the price has climbed about 5.1% over four straight sessions. Making charges and 3% GST are extra on these rates. Small shops near Charminar plan to stay open until the last customer leaves.",
-    "pts": [
-     "18 carat: ₹1,09,520 per 10 grams",
-     "About 2.25% rise in a single day",
-     "Crossed October 29's ₹14,395 per gram level"
-    ],
-    "why": "This rise directly hits the budget of families planning to buy gold for Dhanteras.",
-    "cat": "Hyderabad · Gold",
-    "statl": "Price of 10 grams of 24-carat gold"
-   },
-   "hi": {
-    "h": "धनतेरस से पहले हैदराबाद में सोने में तेजी: 10 ग्राम ₹1,46,020",
-    "p": "हैदराबाद में गुरुवार को 24 कैरेट सोना 10 ग्राम पर ₹3,220 बढ़कर ₹1,46,020 पर पहुंच गया। 22 कैरेट का भाव ₹2,950 बढ़कर ₹1,33,850 हो गया। 1 नवंबर से लगातार चार सत्रों में कीमत करीब 5.1% चढ़ी है। इन दामों पर मेकिंग चार्ज और 3% जीएसटी अलग से लगेगा। चारमीनार के पास छोटी दुकानें आखिरी ग्राहक के जाने तक खुली रहेंगी।",
-    "pts": [
-     "18 कैरेट: 10 ग्राम ₹1,09,520",
-     "एक ही दिन में करीब 2.25% की बढ़त",
-     "29 अक्टूबर का ₹14,395 प्रति ग्राम स्तर पार"
-    ],
-    "why": "यह बढ़ोतरी धनतेरस पर सोना खरीदने वाले परिवारों के बजट पर सीधा असर डालती है।",
-    "cat": "हैदराबाद · सोना",
-    "statl": "24 कैरेट सोने के 10 ग्राम का भाव"
-   }
-  },
-  {
-   "cat": "భారత్ · సుప్రీంకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "24 గంటలు",
-   "statl": "నిర్బంధించిన సమయం నుంచే లెక్క",
-   "h": "నిర్బంధించిన క్షణం నుంచే 24 గంటల గడువు: సుప్రీంకోర్టు",
-   "p": "నిందితుడిని 24 గంటల్లోగా జ్యుడీషియల్ మేజిస్ట్రేట్ ఎదుట హాజరుపరచాల్సిన గడువు అధికారిక అరెస్ట్ సమయం నుంచి మాత్రమే కాదని, నిర్బంధించిన సమయం నుంచే మొదలవుతుందని సుప్రీంకోర్టు గురువారం స్పష్టం చేసింది. మరో తీర్పులో, స్వాతంత్ర్య సమరయోధుల పింఛన్ దావాల్లో అధికారులు కఠిన రుజువుల కోసం పట్టుబట్టకుండా ఆచరణాత్మకంగా వ్యవహరించాలని సూచించింది.",
-   "src": "LiveLaw",
-   "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-05-november-2026-557408",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "గడువు లెక్క అధికారిక అరెస్ట్ నుంచి మాత్రమే కాదు",
-    "సమరయోధుల పింఛన్లపై ఆచరణాత్మక విధానం అవసరం"
-   ],
-   "why": "పోలీసులు అదుపులోకి తీసుకునే ప్రతి వ్యక్తి హక్కులకు ఈ స్పష్టత వర్తిస్తుంది.",
-   "d": "05.11.2026",
-   "t": "13:35",
-   "en": {
-    "h": "24-hour deadline runs from the moment of detention: Supreme Court",
-    "p": "The Supreme Court on Thursday clarified that the 24-hour period to produce an accused before a Judicial Magistrate runs from the time of detention, not just from the time of formal arrest. In another ruling, it said authorities must take a practical approach in freedom fighters' pension claims instead of insisting on strict proof.",
-    "pts": [
-     "Deadline is not counted only from formal arrest",
-     "Practical approach needed in freedom fighters' pension claims"
-    ],
-    "why": "This clarity applies to the rights of every person taken into custody by police.",
-    "cat": "India · Supreme Court",
-    "statl": "Counted from the time of detention"
-   },
-   "hi": {
-    "h": "हिरासत के क्षण से ही शुरू होती है 24 घंटे की समय सीमा: सुप्रीम कोर्ट",
-    "p": "सुप्रीम कोर्ट ने गुरुवार को स्पष्ट किया कि आरोपी को 24 घंटे के भीतर न्यायिक मजिस्ट्रेट के सामने पेश करने की अवधि सिर्फ औपचारिक गिरफ्तारी से नहीं, बल्कि हिरासत में लेने के समय से शुरू होती है। एक अन्य फैसले में कोर्ट ने कहा कि स्वतंत्रता सेनानी पेंशन दावों में अधिकारी सख्त सबूत पर अड़ने के बजाय व्यावहारिक रवैया अपनाएं।",
-    "pts": [
-     "समय सीमा सिर्फ औपचारिक गिरफ्तारी से नहीं गिनी जाएगी",
-     "स्वतंत्रता सेनानी पेंशन पर व्यावहारिक रवैया जरूरी"
-    ],
-    "why": "यह स्पष्टता पुलिस हिरासत में लिए जाने वाले हर व्यक्ति के अधिकारों पर लागू होती है।",
-    "cat": "भारत · सुप्रीम कोर्ट",
-    "statl": "हिरासत के समय से गिनती"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "US-ఇరాన్",
-   "statl": "శత్రుత్వం కొనసాగుతుందన్న ఖమేనీ",
-   "h": "అమెరికా శత్రుత్వం కొనసాగుతుంది: ఇరాన్ సుప్రీం లీడర్ ఖమేనీ",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల ఫలితాలతో ఏమీ మారదని, ఇరాన్‌పై అమెరికా శత్రుత్వం కొనసాగుతుందని ఇరాన్ సుప్రీం లీడర్ మొజ్తబా ఖమేనీ అన్నారు. మరోవైపు ఇరాన్‌పై దాడే రిపబ్లికన్ పార్టీ మధ్యంతర ఓటమికి ప్రధాన కారణమని అమెరికా అధ్యక్షుడు ట్రంప్ అంగీకరించారు. అయితే ఇరాన్ అణ్వాయుధం తయారు చేయకుండా అడ్డుకోవడానికి అది తప్పనిసరి అని ఆయన పేర్కొన్నారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "మధ్యంతర ఫలితాలపై నవంబర్ 4న టెహ్రాన్ ఎద్దేవా",
-    "టెహ్రాన్ ఎంఘెలాబ్ స్క్వేర్‌లో నవంబర్ 4న ర్యాలీ",
-    "ఎన్నికల ఓటమికి దాడే కారణమన్న ట్రంప్"
-   ],
-   "why": "గల్ఫ్‌లో పనిచేస్తున్న తెలుగువారి భద్రత, చమురు ధరలు ఈ ఉద్రిక్తతలతో ముడిపడి ఉన్నాయి.",
-   "d": "05.11.2026",
-   "t": "13:35",
-   "en": {
-    "h": "US hostility will persist: Iran's Supreme Leader Khamenei",
-    "p": "Iran's Supreme Leader Mojtaba Khamenei said the US midterm election results change nothing and that US hostility towards Iran will persist. Meanwhile, US President Trump admitted that the attack on Iran was largely behind the Republican Party's midterm losses. But he said it had to be done to stop Iran from developing a nuclear weapon.",
-    "pts": [
-     "Tehran taunted Trump over midterm results on November 4",
-     "Rally held in Tehran's Enqelab Square on November 4",
-     "Trump says the attack caused the election loss"
-    ],
-    "why": "The safety of Telugu people working in the Gulf and oil prices are tied to these tensions.",
-    "cat": "World · Iran",
-    "statl": "Khamenei says hostility will persist"
-   },
-   "hi": {
-    "h": "अमेरिका की दुश्मनी जारी रहेगी: ईरान के सर्वोच्च नेता खामेनेई",
-    "p": "ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने कहा कि अमेरिकी मध्यावधि चुनाव नतीजों से कुछ नहीं बदलेगा और ईरान के प्रति अमेरिका की दुश्मनी जारी रहेगी। वहीं अमेरिकी राष्ट्रपति ट्रंप ने माना कि ईरान पर हमला रिपब्लिकन पार्टी की मध्यावधि हार की मुख्य वजह रहा। लेकिन उन्होंने कहा कि ईरान को परमाणु हथियार बनाने से रोकने के लिए यह जरूरी था।",
-    "pts": [
-     "4 नवंबर को तेहरान ने मध्यावधि नतीजों पर ट्रंप पर तंज कसा",
-     "4 नवंबर को तेहरान के एंगेलाब स्क्वायर में रैली",
-     "ट्रंप ने चुनावी हार की वजह हमले को माना"
-    ],
-    "why": "खाड़ी में काम करने वाले तेलुगु लोगों की सुरक्षा और तेल कीमतें इन तनावों से जुड़ी हैं।",
-    "cat": "दुनिया · ईरान",
-    "statl": "खामेनेई बोले, दुश्मनी जारी रहेगी"
-   }
-  },
-  {
-   "cat": "భారత్ · సైబర్ భద్రత",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "AI",
-   "statl": "ఆధారిత సైబర్ దాడులపై సెర్ట్-ఇన్ హెచ్చరిక",
-   "h": "బ్యాంకులు, ఫిన్‌టెక్ సంస్థలపై ఏఐ సైబర్ దాడులు: సెర్ట్-ఇన్ తాజా హెచ్చరిక",
-   "p": "ఏఐ సాధనాలతో నడుస్తున్న 'క్రాఫ్టీ ఫాల్కన్' సైబర్ దాడులు గణనీయంగా పెరిగాయని సెర్ట్-ఇన్ బ్యాంకులు, ఎన్‌బీఎఫ్‌సీలు, ఫిన్‌టెక్ సంస్థలను హెచ్చరించింది. వారాంతాలు, సెలవుల్లో భద్రతా పర్యవేక్షణ తక్కువగా ఉన్నప్పుడు దాడిదారులు దాడులు చేస్తున్నారు. సవరించిన మొబైల్ యాప్‌లు, అనధికార ఏపీఐ కాల్స్‌తో మోసపూరిత లావాదేవీలు జరుపుతున్నారు. లోపాలు పూర్తిగా సరిదిద్దని సంస్థలపై మళ్లీ దాడులు జరిగాయని తెలిపింది.",
-   "src": "Telangana Today (IANS)",
-   "url": "https://telanganatoday.com/cert-in-warns-financial-firms-as-ai-driven-crafty-falcon-cyberattacks-escalate",
-   "sec": [
-    "india",
-    "ai",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ముందు చిన్న లావాదేవీలతో పరీక్ష, తర్వాత పెద్ద బదిలీలు",
-    "క్లౌడ్, టెస్టింగ్ వ్యవస్థలు, దొంగిలించిన లాగిన్‌లతో చొరబాటు",
-    "అక్టోబర్‌లోనూ ఏపీఐ దుర్వినియోగంపై హెచ్చరిక"
-   ],
-   "why": "బ్యాంకు ఖాతాదారులు, డిజిటల్ చెల్లింపులు వాడేవారి డబ్బు భద్రతకు ఇది కీలక హెచ్చరిక.",
-   "d": "05.11.2026",
-   "t": "13:05",
-   "en": {
-    "h": "AI-driven cyberattacks on banks, fintechs: CERT-In issues fresh warning",
-    "p": "CERT-In has warned banks, NBFCs and fintech firms that the AI-powered 'Crafty Falcon' cyberattack campaign has escalated significantly. Attackers are striking on weekends and holidays when security oversight is lower. They are using modified mobile apps and unauthorised API calls to carry out fraudulent transactions. CERT-In said attackers returned to firms that had not fully fixed identified weaknesses.",
-    "pts": [
-     "Small test transactions first, then larger transfers",
-     "Entry via cloud, testing systems and stolen logins",
-     "An alert on API misuse was also issued in October"
-    ],
-    "why": "This is a key warning for the safety of money of bank customers and digital payment users.",
-    "cat": "India · Cyber security",
-    "statl": "CERT-In warns of AI-driven cyberattacks"
-   },
-   "hi": {
-    "h": "बैंकों, फिनटेक कंपनियों पर एआई साइबर हमले: सर्ट-इन की नई चेतावनी",
-    "p": "सर्ट-इन ने बैंकों, एनबीएफसी और फिनटेक कंपनियों को चेताया है कि एआई टूल से चल रहा 'क्राफ्टी फाल्कन' साइबर हमला अभियान काफी बढ़ गया है। हमलावर सप्ताहांत और छुट्टियों में हमला कर रहे हैं, जब सुरक्षा निगरानी कम होती है। वे बदले हुए मोबाइल ऐप और अनधिकृत एपीआई कॉल से धोखाधड़ी वाले लेनदेन कर रहे हैं। सर्ट-इन ने कहा कि जिन संस्थाओं ने कमियां पूरी तरह ठीक नहीं कीं, उन पर फिर हमले हुए।",
-    "pts": [
-     "पहले छोटे लेनदेन से जांच, फिर बड़े ट्रांसफर",
-     "क्लाउड, टेस्टिंग सिस्टम और चोरी हुए लॉगिन से घुसपैठ",
-     "अक्टूबर में भी एपीआई दुरुपयोग पर चेतावनी"
-    ],
-    "why": "बैंक ग्राहकों और डिजिटल भुगतान करने वालों के पैसे की सुरक्षा के लिए यह अहम चेतावनी है।",
-    "cat": "भारत · साइबर सुरक्षा",
-    "statl": "एआई आधारित साइबर हमलों पर सर्ट-इन की चेतावनी"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ప్రభుత్వం",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "సా. 4 గం.",
-   "statl": "సచివాలయంలో రాష్ట్ర కేబినెట్ భేటీ",
-   "h": "నేడు సాయంత్రం 4 గంటలకు తెలంగాణ కేబినెట్ భేటీ; చేయూత పింఛన్‌పై చర్చ",
-   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి అధ్యక్షతన గురువారం సాయంత్రం 4 గంటలకు సచివాలయంలో రాష్ట్ర మంత్రివర్గం సమావేశం కానుంది. దానికి ముందు అనధికార భేటీ జరుగుతుంది. నిజామాబాద్, నల్గొండ, వరంగల్, కరీంనగర్‌లో ఇందిరమ్మ టవర్ల నిర్మాణం, ఎస్సీ/ఎస్టీ కమిషన్ ఏర్పాటుకు చట్ట సవరణ, యంగ్ ఇండియా పాఠశాలలు, పోలీస్ స్టేషన్లకు భూకేటాయింపు, చేయూత పింఛన్ మార్గదర్శకాలు అజెండాలో ఉండే అవకాశం ఉంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "సీఎం అధ్యక్షతన సచివాలయంలో సా. 4 గంటలకు భేటీ",
-    "భూ సీలింగ్, సాదాబైనామా క్రమబద్ధీకరణకు కొత్త దరఖాస్తులపై చర్చ",
-    "కొన్ని శాఖల్లో కొత్త పోస్టులపై నిర్ణయం అవకాశం"
-   ],
-   "why": "పింఛన్‌దారులు, భూ యజమానులు, ఉద్యోగార్థులపై ఈ భేటీ నిర్ణయాల ప్రభావం ఉంటుంది.",
-   "d": "05.11.2026",
-   "t": "13:05",
-   "en": {
-    "h": "Telangana Cabinet meets at 4 pm today; Cheyutha pension on agenda",
-    "p": "The state Cabinet will meet at the Secretariat at 4 pm on Thursday, chaired by Chief Minister Revanth Reddy. An informal meeting will be held before it. Indiramma towers in Nizamabad, Nalgonda, Warangal and Karimnagar, an Act amendment to form an SC/ST Commission, land allotment for Young India schools and police stations, and Cheyutha pension guidelines are likely on the agenda.",
-    "pts": [
-     "Meeting at Secretariat at 4 pm, chaired by the CM",
-     "New applications for land ceiling, Sadabainama regularisation",
-     "Decision likely on new posts in some departments"
-    ],
-    "why": "Decisions at this meeting will affect pensioners, land owners and job seekers.",
-    "cat": "Telangana · Government",
-    "statl": "State Cabinet meeting at Secretariat"
-   },
-   "hi": {
-    "h": "तेलंगाना कैबिनेट की बैठक आज शाम 4 बजे; चेयूता पेंशन पर चर्चा",
-    "p": "मुख्यमंत्री रेवंत रेड्डी की अध्यक्षता में गुरुवार शाम 4 बजे सचिवालय में राज्य मंत्रिमंडल की बैठक होगी। इससे पहले एक अनौपचारिक बैठक होगी। निज़ामाबाद, नलगोंडा, वारंगल और करीमनगर में इंदिरम्मा टावर, एससी/एसटी आयोग के गठन के लिए कानून संशोधन, यंग इंडिया स्कूलों और पुलिस थानों के लिए जमीन आवंटन और चेयूता पेंशन के दिशानिर्देश एजेंडे में रहने की संभावना है।",
-    "pts": [
-     "मुख्यमंत्री की अध्यक्षता में सचिवालय में शाम 4 बजे बैठक",
-     "लैंड सीलिंग, सादाबैनामा नियमितीकरण के नए आवेदनों पर चर्चा",
-     "कुछ विभागों में नए पदों पर फैसला संभव"
-    ],
-    "why": "इस बैठक के फैसलों का असर पेंशनधारकों, जमीन मालिकों और नौकरी चाहने वालों पर होगा।",
-    "cat": "तेलंगाना · सरकार",
-    "statl": "सचिवालय में राज्य कैबिनेट बैठक"
    }
   },
   {
