@@ -1,8 +1,155 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 90,
+ "count": 93,
  "stories": [
+  {
+   "cat": "తెలంగాణ · మంత్రివర్గం",
+   "col": "--c-gov",
+   "art": "water",
+   "stat": "₹4,193 కో.",
+   "statl": "మూడు బ్యారేజీల మరమ్మతుల అంచనా వ్యయం",
+   "h": "కాళేశ్వరంపై ఈ నెలాఖరులోగా రెండు రోజుల ప్రత్యేక అసెంబ్లీ సమావేశాలు",
+   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి అధ్యక్షతన గురువారం సచివాలయంలో జరిగిన తెలంగాణ మంత్రివర్గ సమావేశం, కాళేశ్వరం ప్రాజెక్టుపై ఈ నెలాఖరులోగా రెండు రోజుల ప్రత్యేక అసెంబ్లీ సమావేశాలు నిర్వహించాలని నిర్ణయించింది. మేడిగడ్డ, అన్నారం, సుందిల్ల బ్యారేజీల పునరుద్ధరణ డిసెంబర్‌లో మొదలవుతుంది; అంచనా వ్యయం ₹4,193 కోట్లు. డిసెంబర్ 7–9 తేదీల్లో ఫోర్త్ సిటీలో జరిగే గ్లోబల్ సమ్మిట్ ఏర్పాట్లపైనా చర్చించారు.",
+   "src": "Andhra Jyothy, UNI",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-cm-revanth-reddy-orders-special-assembly-sessions-on-kaleshwaram-vk-1573679.html",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నవంబర్ నెలాఖరులోగా రెండు రోజుల ప్రత్యేక అసెంబ్లీ సమావేశాలు",
+    "బ్యారేజీల పునరుద్ధరణ డిసెంబర్‌లో ప్రారంభం",
+    "నిర్మాణ లోపాల మరమ్మతు ఖర్చు నిర్మాణ సంస్థలదే"
+   ],
+   "why": "గోదావరి నీటిపై ఆధారపడిన రైతులకు కాళేశ్వరం బ్యారేజీల మరమ్మతుల కాలపట్టిక ముఖ్యం.",
+   "d": "05.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Two-day special Assembly session on Kaleshwaram before month-end",
+    "p": "The Telangana Cabinet, chaired by Chief Minister Revanth Reddy at the Secretariat on Thursday, decided to hold a two-day special Assembly session on the Kaleshwaram project before the end of this month. Restoration of the Medigadda, Annaram and Sundilla barrages will begin in December at an estimated cost of ₹4,193 crore. Preparations for the Global Summit at Fourth City on December 7–9 were also discussed.",
+    "pts": [
+     "Two-day special Assembly session before November ends",
+     "Barrage restoration to begin in December",
+     "Construction firms to bear cost of fixing defects"
+    ],
+    "why": "The repair timeline of the Kaleshwaram barrages matters to farmers who depend on Godavari water.",
+    "cat": "Telangana · Cabinet",
+    "statl": "Estimated cost of repairing three barrages"
+   },
+   "hi": {
+    "h": "कालेश्वरम पर महीने के अंत से पहले दो दिन का विशेष विधानसभा सत्र",
+    "p": "मुख्यमंत्री रेवंत रेड्डी की अध्यक्षता में गुरुवार को सचिवालय में हुई तेलंगाना कैबिनेट बैठक ने कालेश्वरम परियोजना पर इस महीने के अंत से पहले दो दिन का विशेष विधानसभा सत्र बुलाने का फैसला किया। मेडिगड्डा, अन्नारम और सुंदिल्ला बैराजों की मरम्मत दिसंबर में शुरू होगी; अनुमानित लागत ₹4,193 करोड़ है। 7–9 दिसंबर को फोर्थ सिटी में होने वाले ग्लोबल समिट की तैयारियों पर भी चर्चा हुई।",
+    "pts": [
+     "नवंबर के अंत से पहले दो दिन का विशेष विधानसभा सत्र",
+     "बैराजों की मरम्मत दिसंबर में शुरू",
+     "निर्माण दोषों की मरम्मत का खर्च निर्माण कंपनियां उठाएंगी"
+    ],
+    "why": "गोदावरी के पानी पर निर्भर किसानों के लिए कालेश्वरम बैराजों की मरम्मत की समय-सीमा अहम है।",
+    "cat": "तेलंगाना · कैबिनेट",
+    "statl": "तीन बैराजों की मरम्मत की अनुमानित लागत"
+   }
+  },
+  {
+   "cat": "భారత్ · రక్షణ",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "₹10.92 లక్షలు",
+   "statl": "పొడిగింపు తర్వాత సేవా నిధి ప్యాకేజీ",
+   "h": "పొడిగింపు ఎంచుకున్న అగ్నివీర్‌లకు రెగ్యులర్ సర్వీసుకు అర్హత",
+   "p": "నాలుగేళ్ల సేవ తర్వాత రెండేళ్ల పొడిగింపు ఎంచుకున్న అగ్నివీర్‌లను ఎలాంటి శాతం పరిమితి లేకుండా రెగ్యులర్ సిబ్బందిగా తీసుకోవచ్చని వాయుసేన శిక్షణ కమాండ్ అధికారి ఎయిర్ వైస్ మార్షల్ జి. అనంత్ బెంగళూరులో తెలిపారు. క్రమశిక్షణ, వైద్య అర్హత, పనితీరు ఆధారంగా ఎంపిక ఉంటుంది. పొడిగింపు కాలంలో నెలకు సుమారు ₹43,500, ₹47,500 వేతనం; ముగిశాక ₹10.92 లక్షల సేవా నిధి లభిస్తుంది.",
+   "src": "PTI, ThePrint",
+   "url": "https://theprint.in/india/agniveers-opting-for-extension-eligible-for-regular-service-says-top-official/3091852/",
+   "sec": [
+    "india",
+    "jobs"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "రెగ్యులర్ సర్వీసులో చేరేందుకు శాతం పరిమితి లేదు",
+    "పొడిగింపులో నెలకు సుమారు ₹43,500, ₹47,500",
+    "కేంద్ర కేబినెట్ ఆమోదం తర్వాత బుధవారం ప్రకటన"
+   ],
+   "why": "సాయుధ దళాల్లో చేరాలనుకునే యువతకు, ప్రస్తుత అగ్నివీర్‌లకు దీర్ఘకాల ఉద్యోగ అవకాశాలపై స్పష్టత వస్తుంది.",
+   "d": "05.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Agniveers opting for extension eligible for regular service",
+    "p": "Agniveers who opt for a two-year extension after their four-year service can be absorbed as regular personnel with no percentage cap, Air Vice Marshal G Ananth of the Air Force Training Command said in Bengaluru. Selection will depend on discipline, medical fitness and performance. Monthly pay during the extension is about ₹43,500 and ₹47,500, and a ₹10.92 lakh Seva Nidhi is paid at the end.",
+    "pts": [
+     "No percentage cap on absorption into regular service",
+     "Monthly pay about ₹43,500 and ₹47,500 during extension",
+     "Announced Wednesday after Union Cabinet approval"
+    ],
+    "why": "Youth hoping to join the armed forces and current Agniveers get clarity on long-term job prospects.",
+    "cat": "India · Defence",
+    "statl": "Seva Nidhi package after extension"
+   },
+   "hi": {
+    "h": "विस्तार चुनने वाले अग्निवीर नियमित सेवा के पात्र होंगे",
+    "p": "वायुसेना प्रशिक्षण कमान के एयर वाइस मार्शल जी. अनंत ने बेंगलुरु में कहा कि चार साल की सेवा के बाद दो साल का विस्तार चुनने वाले अग्निवीरों को बिना किसी प्रतिशत सीमा के नियमित कर्मियों के रूप में लिया जा सकता है। चयन अनुशासन, चिकित्सा फिटनेस और प्रदर्शन के आधार पर होगा। विस्तार के दौरान मासिक वेतन लगभग ₹43,500 और ₹47,500 होगा, और अंत में ₹10.92 लाख की सेवा निधि मिलेगी।",
+    "pts": [
+     "नियमित सेवा में शामिल होने पर कोई प्रतिशत सीमा नहीं",
+     "विस्तार में मासिक वेतन लगभग ₹43,500 और ₹47,500",
+     "केंद्रीय कैबिनेट की मंजूरी के बाद बुधवार को घोषणा"
+    ],
+    "why": "सशस्त्र बलों में जाने के इच्छुक युवाओं और मौजूदा अग्निवीरों को दीर्घकालिक नौकरी के अवसरों पर स्पष्टता मिलती है।",
+    "cat": "भारत · रक्षा",
+    "statl": "विस्तार के बाद सेवा निधि पैकेज"
+   }
+  },
+  {
+   "cat": "కర్ణాటక · బెళగావి",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "100+",
+   "statl": "ముందస్తు అదుపులోకి తీసుకున్న రైతులు",
+   "h": "చెరకు మద్దతు ధర కోసం బెళగావిలో రైతుల జైల్ భరో; 100 మందికి పైగా అదుపులోకి",
+   "p": "చెరకుకు లాభదాయక ధర ప్రకటించాలని డిమాండ్ చేస్తూ బెళగావిలో నిషేధాజ్ఞలను లెక్కచేయకుండా రైతులు 'జైల్ భరో' ఆందోళనకు ప్రయత్నించారు. ముక్తిమఠం వద్ద గుమిగూడిన రైతు నాయకుడు చూనప్ప పూజారి సహా వంద మందికి పైగా రైతులను పోలీసులు ముందస్తుగా అదుపులోకి తీసుకుని నగరం బయటకు పంపారు. పలు తాలూకాల్లో రాస్తారోకోలు జరిగాయి; కర్ణాటక బంద్ చేస్తామని నాయకులు హెచ్చరించారు.",
+   "src": "PTI, ThePrint",
+   "url": "https://theprint.in/india/karnataka-farmers-detained-as-they-attempt-jail-bharo-agitation-in-belagavi/3091837/",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "KA",
+   "place": "ka-belagavi",
+   "pts": [
+    "బెళగావి నగరమంతా బీఎన్‌ఎస్‌ఎస్ సెక్షన్ 163 నిషేధాజ్ఞలు",
+    "అరెస్టు కాదు, ముందస్తు నిర్బంధం మాత్రమేనని పోలీస్ కమిషనర్",
+    "రాష్ట్రవ్యాప్త రాస్తారోకో, కర్ణాటక బంద్ హెచ్చరిక"
+   ],
+   "why": "కర్ణాటకలో చెరకు రైతులు, బెళగావి పరిసరాల్లో ప్రయాణించేవారిపై ఈ ఆందోళన ప్రభావం ఉంటుంది.",
+   "d": "05.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Belagavi farmers attempt Jail Bharo for sugarcane price; over 100 detained",
+    "p": "Demanding a remunerative price for sugarcane, farmers in Belagavi attempted a 'Jail Bharo' agitation in defiance of prohibitory orders. Police took more than 100 farmers, including farmer leader Chunappa Poojari who had gathered at Muktimath, into preventive custody and escorted them out of the city. Road blockades were held in several taluks, and leaders warned of a Karnataka bandh.",
+    "pts": [
+     "Prohibitory orders under BNSS Section 163 across Belagavi city",
+     "Police Commissioner: preventive custody, not arrest",
+     "Warning of statewide road blockades and Karnataka bandh"
+    ],
+    "why": "The agitation affects sugarcane farmers in Karnataka and people travelling around Belagavi.",
+    "cat": "Karnataka · Belagavi",
+    "statl": "Farmers taken into preventive custody"
+   },
+   "hi": {
+    "h": "गन्ने के दाम के लिए बेलगावी में किसानों का जेल भरो; 100 से ज्यादा हिरासत में",
+    "p": "गन्ने के लाभकारी दाम की मांग को लेकर बेलगावी में किसानों ने निषेधाज्ञा की अनदेखी कर 'जेल भरो' आंदोलन की कोशिश की। पुलिस ने मुक्तिमठ पर जुटे किसान नेता चूनप्पा पूजारी समेत 100 से ज्यादा किसानों को एहतियाती हिरासत में लेकर शहर से बाहर भेज दिया। कई तालुकों में सड़क जाम हुआ और नेताओं ने कर्नाटक बंद की चेतावनी दी।",
+    "pts": [
+     "पूरे बेलगावी शहर में बीएनएसएस धारा 163 के तहत निषेधाज्ञा",
+     "पुलिस आयुक्त: गिरफ्तारी नहीं, एहतियाती हिरासत",
+     "राज्यव्यापी सड़क जाम और कर्नाटक बंद की चेतावनी"
+    ],
+    "why": "इस आंदोलन का असर कर्नाटक के गन्ना किसानों और बेलगावी के आसपास यात्रा करने वालों पर पड़ता है।",
+    "cat": "कर्नाटक · बेलगावी",
+    "statl": "एहतियाती हिरासत में लिए गए किसान"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · ట్రాఫిక్",
    "col": "--c-city",
