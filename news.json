@@ -1,8 +1,252 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T11:35:00+05:30",
+ "updated": "2026-11-05T12:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "21.12%",
+   "statl": "ఉదయం 11 గంటలకు రాష్ట్ర సగటు పోలింగ్",
+   "h": "ఏపీ పరిషత్ పోలింగ్: 11 గంటలకు 21.12%; విశాఖ, మార్కాపురంలో జోరు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ ఉదయం 11 గంటల వరకు సగటున 21.12 శాతం నమోదైందని ఎన్టీవీ తెలిపింది. 9 గంటలకు ఇది 11.71 శాతం ఉండేది. విశాఖపట్నంలో 35.4%, మార్కాపురంలో 34.66%, పల్నాడులో 32.02%, కడపలో 29.31% పోలింగ్ జరిగింది. అల్లూరి సీతారామరాజు జిల్లాలో అత్యల్పంగా 11.81% నమోదైంది. మధ్యాహ్నం తర్వాత పోలింగ్ మరింత పెరిగే అవకాశం ఉంది.",
+   "src": "NTV Telugu",
+   "url": "https://ntvtelugu.com/news/ap-mptc-zptc-polling-2026-markapuram-records-highest-turnout-at-11am-1032608.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "11 గంటలకు రాష్ట్ర సగటు 21.12% పోలింగ్",
+    "విశాఖ 35.4%, మార్కాపురం 34.66%, పల్నాడు 32.02%",
+    "అల్లూరి జిల్లాలో అత్యల్పంగా 11.81%"
+   ],
+   "why": "గ్రామీణ స్థానిక సంస్థల్లో ఎవరు ప్రాతినిధ్యం వహిస్తారో ఈ ఓటింగ్ నిర్ణయిస్తుంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "AP parishad polls: 21.12% turnout by 11 am; Visakhapatnam, Markapuram lead",
+    "p": "The average turnout in Andhra Pradesh's MPTC and ZPTC elections stood at 21.12 per cent by 11 am, NTV reported. It was 11.71 per cent at 9 am. Visakhapatnam recorded 35.4%, Markapuram 34.66%, Palnadu 32.02% and Kadapa 29.31%. Alluri Sitarama Raju district recorded the lowest at 11.81%. Polling is expected to rise further in the afternoon.",
+    "pts": [
+     "State average turnout 21.12% by 11 am",
+     "Visakhapatnam 35.4%, Markapuram 34.66%, Palnadu 32.02%",
+     "Lowest in Alluri district at 11.81%"
+    ],
+    "why": "This vote decides who represents people in rural local bodies.",
+    "cat": "AP · Parishad polls",
+    "statl": "State average turnout at 11 am"
+   },
+   "hi": {
+    "h": "आंध्र परिषद चुनाव: 11 बजे तक 21.12% मतदान; विशाखापत्तनम, मार्कापुरम आगे",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों में सुबह 11 बजे तक औसतन 21.12 प्रतिशत मतदान हुआ, एनटीवी ने बताया। सुबह 9 बजे यह 11.71 प्रतिशत था। विशाखापत्तनम में 35.4%, मार्कापुरम में 34.66%, पलनाडु में 32.02% और कडप्पा में 29.31% मतदान हुआ। अल्लूरी सीताराम राजू जिले में सबसे कम 11.81% मतदान दर्ज हुआ। दोपहर बाद मतदान और बढ़ने की उम्मीद है।",
+    "pts": [
+     "11 बजे तक राज्य का औसत मतदान 21.12%",
+     "विशाखापत्तनम 35.4%, मार्कापुरम 34.66%, पलनाडु 32.02%",
+     "अल्लूरी जिले में सबसे कम 11.81%"
+    ],
+    "why": "यह मतदान तय करेगा कि ग्रामीण स्थानीय निकायों में कौन प्रतिनिधित्व करेगा।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "सुबह 11 बजे राज्य का औसत मतदान"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "95%",
+   "statl": "కొన్ని వస్తువుల పంపిణీ పూర్తి",
+   "h": "స్కూల్ యూనిఫాం నాణ్యతపై విద్యార్థుల అభిప్రాయం తీసుకోండి: సీఎం రేవంత్",
+   "p": "ప్రభుత్వ పాఠశాలలు, హాస్టళ్లు, గురుకులాల్లో సరఫరా చేస్తున్న యూనిఫాంల నాణ్యతపై నేరుగా విద్యార్థుల అభిప్రాయం తీసుకోవాలని సీఎం రేవంత్ రెడ్డి అధికారులను ఆదేశించారు. రంగులు, డిజైన్లు ఎక్కువమంది విద్యార్థులు ఇష్టపడేలా ఉండాలన్నారు. కొన్ని వస్తువుల పంపిణీ 95 శాతం పూర్తయిందని అధికారులు చెప్పారు. వచ్చే విద్యా సంవత్సరం బడులు తెరిచే మొదటి రోజే అన్నీ అందేలా ప్రణాళిక సిద్ధం చేయాలని సూచించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/seek-feedback-from-students-on-school-uniform-quality-cm-revanth-reddy-to-officials-1139338",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "యూనిఫాం రంగులు, డిజైన్లపై విద్యార్థుల అభిప్రాయం",
+    "కొన్ని వస్తువుల పంపిణీ 95% పూర్తి",
+    "బడులు తెరిచే రోజే అన్నీ అందేలా ప్రణాళిక"
+   ],
+   "why": "ప్రభుత్వ బడులు, హాస్టళ్లలో చదివే విద్యార్థులకు నాణ్యమైన యూనిఫాంలు, కిట్లు సమయానికి అందడంపై ఇది ప్రభావం చూపుతుంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "Take students' feedback on school uniform quality: CM Revanth Reddy",
+    "p": "CM Revanth Reddy directed officials to take feedback directly from students on the quality of uniforms supplied in government schools, hostels and residential institutions. He said colours and designs should match what most students prefer. Officials said distribution of some items is 95 per cent complete. He asked for a plan so that everything reaches students on the first day of school in the next academic year.",
+    "pts": [
+     "Students' feedback on uniform colours and designs",
+     "Distribution of some items 95% complete",
+     "Plan to supply everything on reopening day"
+    ],
+    "why": "This affects whether students in government schools and hostels get quality uniforms and kits on time.",
+    "cat": "Telangana · Education",
+    "statl": "Some items' distribution complete"
+   },
+   "hi": {
+    "h": "स्कूल यूनिफॉर्म की गुणवत्ता पर छात्रों की राय लें: सीएम रेवंत रेड्डी",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने अधिकारियों को निर्देश दिया कि सरकारी स्कूलों, छात्रावासों और आवासीय संस्थानों में दी जा रही यूनिफॉर्म की गुणवत्ता पर सीधे छात्रों से राय ली जाए। उन्होंने कहा कि रंग और डिजाइन ज्यादातर छात्रों की पसंद के हों। अधिकारियों ने बताया कि कुछ वस्तुओं का वितरण 95 प्रतिशत पूरा हो गया है। उन्होंने अगले शैक्षणिक वर्ष में स्कूल खुलने के पहले दिन ही सब कुछ पहुंचाने की योजना बनाने को कहा।",
+    "pts": [
+     "यूनिफॉर्म के रंग, डिजाइन पर छात्रों की राय",
+     "कुछ वस्तुओं का वितरण 95% पूरा",
+     "स्कूल खुलने के दिन ही सब पहुंचाने की योजना"
+    ],
+    "why": "इससे तय होगा कि सरकारी स्कूलों और छात्रावासों के छात्रों को गुणवत्तापूर्ण यूनिफॉर्म और किट समय पर मिलें।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "कुछ वस्तुओं का वितरण पूरा"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "land",
+   "stat": "2",
+   "statl": "భవనం కూలిన ఘటనలో మృతులు",
+   "h": "ఓల్డ్ ఢిల్లీ భవనం కూలిన ఘటనలో ఇద్దరు మృతి; సహాయక చర్యలు కొనసాగింపు",
+   "p": "ఓల్డ్ ఢిల్లీలోని చావ్రీ బజార్ సమీపంలో గలీ సితారాలో నిర్మాణంలో ఉన్న మూడంతస్తుల భవనం కూలిన ఘటనలో కనీసం ఇద్దరు మరణించారని ఐఏఎన్‌ఎస్ తెలిపింది. గాయపడిన మరొకరిని శిథిలాల నుంచి బయటకు తీశారు. ఇంకా పలువురు చిక్కుకుని ఉండొచ్చని సహాయక సిబ్బంది భావిస్తున్నారు. ఆరు అగ్నిమాపక యూనిట్లు సహాయక చర్యల్లో ఉన్నాయి. ఢిల్లీలో ఇటీవల ఇలాంటి పలు ప్రమాదాలు జరిగాయి.",
+   "src": "IANS / The Guardian Chronicle",
+   "url": "https://theguardianchronicle.com/two-dead-several-feared-trapped-after-under-construction-building-collapses-in-old-delhis-chawri-bazaar/",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "dl-central",
+   "loc": "చావ్రీ బజార్",
+   "pts": [
+    "కనీసం ఇద్దరు మృతి, ఒకరిని గాయాలతో రక్షించారు",
+    "ఇంకా పలువురు చిక్కుకున్నట్లు అనుమానం",
+    "ఆరు అగ్నిమాపక యూనిట్లతో సహాయక చర్యలు"
+   ],
+   "why": "రద్దీ మార్కెట్ ప్రాంతాల్లో నిర్మాణ భద్రతపై ఈ ప్రమాదం మళ్లీ ఆందోళన కలిగిస్తోంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "Two dead in Old Delhi building collapse; rescue work continues",
+    "p": "At least two people died after an under-construction three-storey building collapsed at Gali Sitara near Chawri Bazaar in Old Delhi, IANS reported. Another injured person was pulled out of the debris. Rescue workers fear several more are still trapped. Six fire units are involved in the rescue. Delhi has seen several similar collapses recently.",
+    "pts": [
+     "At least two dead, one rescued injured",
+     "Several more feared trapped",
+     "Rescue work with six fire units"
+    ],
+    "why": "The accident again raises concern about construction safety in crowded market areas.",
+    "cat": "Delhi · Accident",
+    "statl": "Dead in building collapse"
+   },
+   "hi": {
+    "h": "पुरानी दिल्ली इमारत हादसे में दो की मौत; बचाव कार्य जारी",
+    "p": "पुरानी दिल्ली में चावड़ी बाजार के पास गली सितारा में निर्माणाधीन तीन मंजिला इमारत ढहने से कम से कम दो लोगों की मौत हो गई, आईएएनएस ने बताया। एक अन्य घायल व्यक्ति को मलबे से निकाला गया। बचावकर्मियों को आशंका है कि कई और लोग अब भी फंसे हैं। बचाव कार्य में छह दमकल इकाइयां लगी हैं। दिल्ली में हाल में ऐसे कई हादसे हुए हैं।",
+    "pts": [
+     "कम से कम दो की मौत, एक घायल को बचाया",
+     "कई और लोगों के फंसे होने की आशंका",
+     "छह दमकल इकाइयों से बचाव कार्य"
+    ],
+    "why": "यह हादसा भीड़भाड़ वाले बाजार इलाकों में निर्माण सुरक्षा पर फिर चिंता बढ़ाता है।",
+    "cat": "दिल्ली · हादसा",
+    "statl": "इमारत हादसे में मौतें"
+   }
+  },
+  {
+   "cat": "దక్షిణ భారత్ · వర్షాలు",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "7-8 నవం.",
+   "statl": "తమిళనాడులో విస్తృత వర్షాలు",
+   "h": "తమిళనాడు, కర్ణాటక, కేరళలో భారీ వర్షాల హెచ్చరిక: ఐఎండీ",
+   "p": "నవంబర్ 5 నుంచి తమిళనాడు, పుదుచ్చేరి, కర్ణాటక, కేరళలోని కొన్ని ప్రాంతాల్లో భారీ వర్షాలు పడొచ్చని ఐఎండీ అంచనా వేసింది. దక్షిణ అంతర్గత కర్ణాటకలో గంటకు 30-40 కి.మీ. వేగంతో గాలులు వీయవచ్చు. 7, 8 తేదీల్లో తమిళనాడు అంతటా విస్తృతంగా వర్షాలు కురుస్తాయి. కోస్తాంధ్ర, రాయలసీమలో గంటకు 40-50 కి.మీ. గాలులతో ఉరుములు, తెలంగాణలోనూ 8 వరకు వర్షాలు ఉంటాయని తెలిపింది.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/imd-issues-heavy-rainfall-alert-for-tamil-nadu-karnataka-kerala/",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "pts": [
+    "తమిళనాడు, కర్ణాటక, కేరళలో అక్కడక్కడ భారీ వర్షాలు",
+    "7, 8 తేదీల్లో తమిళనాడు అంతటా వానలు",
+    "కోస్తాంధ్ర, రాయలసీమలో 40-50 కి.మీ. గాలులతో ఉరుములు"
+   ],
+   "why": "చెన్నై, బెంగళూరు సహా దక్షిణాది నగరాల్లో ఉండే తెలుగువారు, రైతులు ప్రయాణాలు, పనులు ప్లాన్ చేసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "IMD warns of heavy rain in Tamil Nadu, Karnataka and Kerala",
+    "p": "IMD has forecast heavy rain in isolated parts of Tamil Nadu, Puducherry, Karnataka and Kerala from November 5. South Interior Karnataka may see winds of 30-40 kmph. Widespread rain is expected across Tamil Nadu on the 7th and 8th. It said Coastal Andhra and Rayalaseema will see thunderstorms with winds of 40-50 kmph, and Telangana will also get rain till the 8th.",
+    "pts": [
+     "Isolated heavy rain in Tamil Nadu, Karnataka, Kerala",
+     "Widespread rain across Tamil Nadu on 7th, 8th",
+     "Thunderstorms with 40-50 kmph winds in Coastal Andhra, Rayalaseema"
+    ],
+    "why": "It helps Telugu people and farmers in southern cities including Chennai and Bengaluru plan travel and work.",
+    "cat": "South India · Rain",
+    "statl": "Widespread rain in Tamil Nadu"
+   },
+   "hi": {
+    "h": "तमिलनाडु, कर्नाटक और केरल में भारी बारिश की चेतावनी: आईएमडी",
+    "p": "आईएमडी ने 5 नवंबर से तमिलनाडु, पुडुचेरी, कर्नाटक और केरल के कुछ हिस्सों में भारी बारिश का अनुमान जताया है। दक्षिण आंतरिक कर्नाटक में 30-40 किमी प्रति घंटे की हवाएं चल सकती हैं। 7 और 8 तारीख को पूरे तमिलनाडु में व्यापक बारिश होगी। विभाग ने कहा कि तटीय आंध्र और रायलसीमा में 40-50 किमी प्रति घंटे की हवाओं के साथ आंधी आएगी और तेलंगाना में भी 8 तारीख तक बारिश होगी।",
+    "pts": [
+     "तमिलनाडु, कर्नाटक, केरल में कहीं-कहीं भारी बारिश",
+     "7, 8 तारीख को पूरे तमिलनाडु में बारिश",
+     "तटीय आंध्र, रायलसीमा में 40-50 किमी/घंटा हवाओं के साथ आंधी"
+    ],
+    "why": "इससे चेन्नई और बेंगलुरु समेत दक्षिणी शहरों में रहने वाले तेलुगु लोग और किसान यात्रा व काम की योजना बना सकेंगे।",
+    "cat": "दक्षिण भारत · बारिश",
+    "statl": "तमिलनाडु में व्यापक बारिश"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "$93.6",
+   "statl": "బ్రెంట్ ముడి చమురు ధర (బ్యారెల్)",
+   "h": "హార్ముజ్‌లో మంటల్లో రెండు ట్యాంకర్లు; ఇరాన్-అమెరికా చర్చలకు ఖతార్ ముసాయిదా",
+   "p": "హార్ముజ్ జలసంధిలో గురువారం వేర్వేరు ఘటనల్లో రెండు చమురు ట్యాంకర్లు, ఒక టగ్‌బోట్ మంటల్లో చిక్కుకున్నాయని ఇరాన్ ఐఆర్‌జీసీని ఉటంకిస్తూ రాయిటర్స్ తెలిపింది. ఒక ట్యాంకర్ మైన్‌ను ఢీకొంది. మరోవైపు అమెరికా, ఇరాన్ మధ్య కొద్ది రోజుల్లో నేరుగా చర్చలు మొదలయ్యేలా ఖతార్ మధ్యవర్తులు ఒక ముసాయిదా ఒప్పందానికి మద్దతు కోరుతున్నారు. బ్రెంట్ చమురు ధర 93.63 డాలర్లకు తగ్గింది.",
+   "src": "Gulf News / Reuters",
+   "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "హార్ముజ్‌లో రెండు ట్యాంకర్లు, టగ్‌బోట్‌కు మంటలు",
+    "నేరుగా చర్చల కోసం ఖతార్ ముసాయిదా ఒప్పందం",
+    "బ్రెంట్ చమురు 93.63 డాలర్లకు తగ్గుదల"
+   ],
+   "why": "హార్ముజ్ మార్గం, చమురు ధరలు భారత్ దిగుమతి బిల్లు, గల్ఫ్‌లో పనిచేసే తెలుగువారిపై ప్రభావం చూపుతాయి.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "Two tankers on fire in Hormuz; Qatar draft for Iran-US talks",
+    "p": "Two oil tankers and a tugboat caught fire in separate incidents in the Strait of Hormuz on Thursday, Reuters reported, citing Iran's IRGC. One tanker hit a mine. Meanwhile, Qatari mediators are seeking backing for a draft agreement that could restart direct US-Iran talks within days. Brent crude fell to $93.63.",
+    "pts": [
+     "Two tankers, a tugboat catch fire in Hormuz",
+     "Qatar draft agreement for direct talks",
+     "Brent crude falls to $93.63"
+    ],
+    "why": "The Hormuz route and oil prices affect India's import bill and Telugu people working in the Gulf.",
+    "cat": "World · Iran",
+    "statl": "Brent crude price (per barrel)"
+   },
+   "hi": {
+    "h": "होर्मुज में दो टैंकरों में आग; ईरान-अमेरिका वार्ता के लिए कतर का मसौदा",
+    "p": "रॉयटर्स ने ईरान के आईआरजीसी के हवाले से बताया कि गुरुवार को होर्मुज जलडमरूमध्य में अलग-अलग घटनाओं में दो तेल टैंकरों और एक टगबोट में आग लग गई। एक टैंकर बारूदी सुरंग से टकराया। वहीं, कतर के मध्यस्थ एक मसौदा समझौते के लिए समर्थन जुटा रहे हैं जिससे कुछ ही दिनों में अमेरिका-ईरान सीधी बातचीत शुरू हो सकती है। ब्रेंट कच्चा तेल 93.63 डॉलर पर आ गया।",
+    "pts": [
+     "होर्मुज में दो टैंकरों, एक टगबोट में आग",
+     "सीधी वार्ता के लिए कतर का मसौदा समझौता",
+     "ब्रेंट कच्चा तेल 93.63 डॉलर पर"
+    ],
+    "why": "होर्मुज मार्ग और तेल की कीमतें भारत के आयात बिल और खाड़ी में काम करने वाले तेलुगु लोगों पर असर डालती हैं।",
+    "cat": "दुनिया · ईरान",
+    "statl": "ब्रेंट कच्चे तेल का भाव (प्रति बैरल)"
+   }
+  },
   {
    "cat": "ఢిల్లీ · ప్రమాదం",
    "col": "--c-power",
@@ -1512,442 +1756,6 @@
    },
    "d": "05.11.2026",
    "t": "07:35"
-  },
-  {
-   "brk": true,
-   "cat": "తెలంగాణ · ఖమ్మం",
-   "col": "--c-power",
-   "art": "water",
-   "stat": "10",
-   "statl": "గల్లంతైన రక్షణ సిబ్బంది",
-   "h": "ఖమ్మం బేతుపల్లి చెరువులో పడవలు బోల్తా: 10 మంది రక్షణ సిబ్బంది గల్లంతు",
-   "p": "మురసు తుపాను వర్షాలతో ఖమ్మం జిల్లా సత్తుపల్లి మండలం బేతుపల్లి చెరువులో చిక్కుకున్న సుమారు ఐదుగురు మత్స్యకారులను కాపాడేందుకు వెళ్లిన రెండు పడవలు బోల్తా పడ్డాయి. ఎస్‌డీఆర్‌ఎఫ్, అగ్నిమాపక శాఖకు చెందిన 10 మంది సిబ్బంది గల్లంతయ్యారని పీటీఐ తెలిపింది. ఎన్డీఆర్ఎఫ్ బృందాలు రాత్రి నుంచి గాలింపు కొనసాగిస్తున్నాయి.",
-   "pts": [
-    "వేగంగా పెరిగిన నీటి ప్రవాహమే కారణమని అనుమానం",
-    "ముందుగా ముగ్గురు అగ్నిమాపక సిబ్బందిని సురక్షితంగా తెచ్చారు",
-    "సీఎం ఆదేశం; సీఎస్ సంజయ్ జాజు పర్యవేక్షణ"
-   ],
-   "why": "తుపాను వర్షాల వేళ చెరువులు, వాగుల దగ్గర ప్రజలు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఈ ఘటన చూపుతోంది.",
-   "src": "PTI / Amar Ujala",
-   "url": "https://www.amarujala.com/india-news/telangana-khammam-bethupalli-lake-sdrf-personnel-missing-boats-capsize-rescue-operation-2026-11-05",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "khammam",
-   "loc": "బేతుపల్లి",
-   "en": {
-    "cat": "Telangana · Khammam",
-    "h": "Boats capsize in Khammam's Bethupalli lake; 10 rescue personnel missing",
-    "p": "Two boats that went to rescue about five fishermen trapped in Bethupalli lake in Sathupalli mandal of Khammam district, amid Cyclone Murasu rains, capsized. PTI reported that 10 SDRF and fire department personnel are missing. NDRF teams have been searching since the night.",
-    "pts": [
-     "Rapidly rising water suspected as the cause",
-     "Three fire personnel were brought back safely earlier",
-     "CM gave directions; CS Sanjay Jaju monitoring"
-    ],
-    "why": "The incident shows why people must stay alert near lakes and streams during cyclone rains.",
-    "statl": "Rescue personnel missing"
-   },
-   "hi": {
-    "cat": "तेलंगाना · खम्मम",
-    "h": "खम्मम की बेतुपल्ली झील में नावें पलटीं: 10 बचावकर्मी लापता",
-    "p": "चक्रवात मुरासु की बारिश के बीच खम्मम जिले के सत्तुपल्ली मंडल की बेतुपल्ली झील में फंसे लगभग पांच मछुआरों को बचाने गईं दो नावें पलट गईं। पीटीआई के अनुसार एसडीआरएफ और अग्निशमन विभाग के 10 कर्मी लापता हैं। एनडीआरएफ की टीमें रात से तलाश कर रही हैं।",
-    "pts": [
-     "तेजी से बढ़ता पानी कारण होने का संदेह",
-     "पहले तीन अग्निशमन कर्मियों को सुरक्षित लाया गया",
-     "सीएम के निर्देश; मुख्य सचिव संजय जाजू की निगरानी"
-    ],
-    "why": "यह घटना दिखाती है कि चक्रवात की बारिश में झीलों और नालों के पास लोगों को सतर्क रहना जरूरी है।",
-    "statl": "लापता बचावकर्मी"
-   },
-   "d": "05.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "మహారాష్ట్ర · ముంబై",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "బ్రీచ్ కాండీ",
-   "statl": "ముంబై ఆసుపత్రిలో పరీక్షలు",
-   "h": "ఎన్సీపీ అధినేత శరద్ పవార్ ముంబై ఆసుపత్రిలో చేరిక",
-   "p": "ఎన్సీపీ అధినేత శరద్ పవార్ వైద్య పరీక్షల కోసం ముంబైలోని బ్రీచ్ కాండీ ఆసుపత్రిలో చేరారని సుప్రియా సూలే తెలిపారు. నవంబర్ 2న ఛాతీ నొప్పితో ఆయన పుణెలోని ఆసుపత్రిలో చికిత్స పొందారు. ప్రధాని మోదీ ఫోన్ చేసి ఆయన ఆరోగ్యం గురించి అడిగి తెలుసుకున్నారు.",
-   "pts": [
-    "వైద్య పరీక్షల కోసం బ్రీచ్ కాండీలో చేరిక",
-    "నవంబర్ 2న పుణెలో ఛాతీ నొప్పికి చికిత్స",
-    "ప్రధాని మోదీ ఫోన్‌లో పరామర్శ"
-   ],
-   "why": "దేశంలోని సీనియర్ నేతల్లో ఒకరైన పవార్ ఆరోగ్యంపై మహారాష్ట్ర ప్రజల్లో ఆసక్తి నెలకొంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-mumbai",
-   "en": {
-    "cat": "Maharashtra · Mumbai",
-    "h": "NCP chief Sharad Pawar admitted to Mumbai hospital",
-    "p": "NCP chief Sharad Pawar has been admitted to Breach Candy Hospital in Mumbai for medical tests, Supriya Sule said. On November 2 he was treated for chest pain at a hospital in Pune. PM Modi phoned him and enquired about his health.",
-    "pts": [
-     "Admitted to Breach Candy for medical tests",
-     "Treated for chest pain in Pune on November 2",
-     "PM Modi enquired over the phone"
-    ],
-    "why": "The health of Pawar, one of the country's senior leaders, is being followed closely in Maharashtra.",
-    "statl": "Tests at Mumbai hospital"
-   },
-   "hi": {
-    "cat": "महाराष्ट्र · मुंबई",
-    "h": "एनसीपी प्रमुख शरद पवार मुंबई के अस्पताल में भर्ती",
-    "p": "सुप्रिया सुले ने बताया कि एनसीपी प्रमुख शरद पवार को चिकित्सा जांच के लिए मुंबई के ब्रीच कैंडी अस्पताल में भर्ती कराया गया है। 2 नवंबर को सीने में दर्द के कारण पुणे के एक अस्पताल में उनका इलाज हुआ था। प्रधानमंत्री मोदी ने फोन कर उनका हालचाल पूछा।",
-    "pts": [
-     "चिकित्सा जांच के लिए ब्रीच कैंडी में भर्ती",
-     "2 नवंबर को पुणे में सीने के दर्द का इलाज",
-     "प्रधानमंत्री मोदी ने फोन पर हालचाल पूछा"
-    ],
-    "why": "देश के वरिष्ठ नेताओं में से एक पवार के स्वास्थ्य पर महाराष्ट्र में लोगों की नजर है।",
-    "statl": "मुंबई अस्पताल में जांच"
-   },
-   "d": "05.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "తెలుగు రాష్ట్రాలు · కృష్ణా జలాలు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "మళ్లీ వాయిదా",
-   "statl": "కేఆర్ఎంబీ సమావేశం",
-   "h": "కృష్ణా బోర్డు సమావేశం మళ్లీ వాయిదా: మురసు తుపాను కారణం",
-   "p": "కృష్ణా నదీ యాజమాన్య బోర్డు (కేఆర్ఎంబీ) సమావేశం మరోసారి వాయిదా పడింది. మురసు తుపాను కారణంగా సమావేశాన్ని వాయిదా వేయాలని ఆంధ్రప్రదేశ్ కోరడంతో బోర్డు ఈ నిర్ణయం తీసుకుంది. కొత్త తేదీని ఇంకా ప్రకటించలేదు.",
-   "pts": [
-    "ఏపీ అభ్యర్థన మేరకు వాయిదా",
-    "మురసు తుపానును కారణంగా చూపిన ఏపీ"
-   ],
-   "why": "కృష్ణా జలాల పంపకంపై తెలంగాణ, ఏపీ రైతులు ఈ బోర్డు నిర్ణయాల కోసం ఎదురుచూస్తున్నారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395#krmb",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "en": {
-    "cat": "Telugu states · Krishna water",
-    "h": "Krishna board meeting postponed again due to Cyclone Murasu",
-    "p": "The Krishna River Management Board (KRMB) meeting has been postponed once again. The board took the decision after Andhra Pradesh requested a postponement because of Cyclone Murasu. A new date has not yet been announced.",
-    "pts": [
-     "Postponed at Andhra Pradesh's request",
-     "AP cited Cyclone Murasu"
-    ],
-    "why": "Farmers in Telangana and AP await this board's decisions on sharing Krishna water.",
-    "statl": "KRMB meeting"
-   },
-   "hi": {
-    "cat": "तेलुगु राज्य · कृष्णा जल",
-    "h": "चक्रवात मुरासु के कारण कृष्णा बोर्ड की बैठक फिर स्थगित",
-    "p": "कृष्णा नदी प्रबंधन बोर्ड (केआरएमबी) की बैठक एक बार फिर स्थगित हो गई है। आंध्र प्रदेश ने चक्रवात मुरासु के कारण बैठक टालने का अनुरोध किया था, जिसके बाद बोर्ड ने यह फैसला लिया। नई तारीख अभी घोषित नहीं हुई है।",
-    "pts": [
-     "आंध्र प्रदेश के अनुरोध पर स्थगित",
-     "आंध्र प्रदेश ने चक्रवात मुरासु का हवाला दिया"
-    ],
-    "why": "तेलंगाना और आंध्र प्रदेश के किसान कृष्णा जल बंटवारे पर इस बोर्ड के फैसलों का इंतजार कर रहे हैं।",
-    "statl": "केआरएमबी बैठक"
-   },
-   "d": "05.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "భారత్ · క్రీడలు",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "114",
-   "statl": "ఆసియా పారా క్రీడల్లో పతకాలు",
-   "h": "ఆసియా పారా క్రీడల భారత బృందంతో నేడు ప్రధాని మోదీ భేటీ",
-   "p": "ఆసియా పారా క్రీడలు 2026లో పాల్గొన్న భారత బృందంతో ప్రధాని నరేంద్ర మోదీ గురువారం సాయంత్రం 4:30 గంటలకు దిల్లీ ఇందిరా గాంధీ స్పోర్ట్స్ కాంప్లెక్స్‌లో మాట్లాడనున్నారు. జపాన్‌లోని ఐచి-నగోయాలో జరిగిన ఈ క్రీడల్లో 97 మంది పారా అథ్లెట్లు భారత్‌కు 114 పతకాలు సాధించారు.",
-   "pts": [
-    "30 స్వర్ణాలు, 35 రజతాలు, 49 కాంస్యాలు",
-    "సాయంత్రం 4:30కు దిల్లీలో కార్యక్రమం",
-    "అదే రోజు నీతి ఆయోగ్ సమావేశానికి అధ్యక్షత"
-   ],
-   "why": "పారా అథ్లెట్ల విజయాలకు జాతీయ స్థాయిలో గుర్తింపు దక్కుతోంది; దివ్యాంగ క్రీడాకారులకు ఇది ప్రోత్సాహం.",
-   "src": "Amar Ujala",
-   "url": "https://www.amarujala.com/india-news/5-november-2026-major-event-2026-2026-11-04",
-   "sec": [
-    "india",
-    "sports"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "cat": "India · Sports",
-    "h": "PM Modi to meet India's Asian Para Games contingent today",
-    "p": "PM Narendra Modi will interact with the Indian contingent of the Asian Para Games 2026 at 4:30 pm on Thursday at the Indira Gandhi Sports Complex in Delhi. At the Games held in Aichi-Nagoya, Japan, 97 para-athletes won 114 medals for India.",
-    "pts": [
-     "30 gold, 35 silver, 49 bronze",
-     "Event at 4:30 pm in Delhi",
-     "Will also chair a NITI Aayog meeting today"
-    ],
-    "why": "Para-athletes' achievements are getting national recognition, an encouragement for athletes with disabilities.",
-    "statl": "Asian Para Games medals"
-   },
-   "hi": {
-    "cat": "भारत · खेल",
-    "h": "एशियाई पैरा खेलों के भारतीय दल से आज मिलेंगे प्रधानमंत्री मोदी",
-    "p": "प्रधानमंत्री नरेंद्र मोदी गुरुवार शाम 4:30 बजे दिल्ली के इंदिरा गांधी खेल परिसर में एशियाई पैरा खेल 2026 के भारतीय दल से बातचीत करेंगे। जापान के आइची-नागोया में हुए इन खेलों में 97 पैरा एथलीटों ने भारत के लिए 114 पदक जीते।",
-    "pts": [
-     "30 स्वर्ण, 35 रजत, 49 कांस्य",
-     "शाम 4:30 बजे दिल्ली में कार्यक्रम",
-     "आज नीति आयोग की बैठक की अध्यक्षता भी"
-    ],
-    "why": "पैरा एथलीटों की उपलब्धियों को राष्ट्रीय पहचान मिल रही है; यह दिव्यांग खिलाड़ियों के लिए प्रोत्साहन है।",
-    "statl": "एशियाई पैरा खेल पदक"
-   },
-   "d": "05.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "ఓటమి",
-   "statl": "రిపబ్లికన్లకు మధ్యంతర ఫలితం",
-   "h": "మధ్యంతర ఓటమికి ఇరాన్ యుద్ధమే కారణమన్న ట్రంప్; వైట్‌హౌస్ ‘నెవర్ సరెండర్’ పోస్ట్",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో రిపబ్లికన్ పార్టీ ఓటమి తర్వాత ట్రంప్ ఫొటోతో ‘నెవర్ సరెండర్’ అంటూ వైట్‌హౌస్ పోస్ట్ చేసింది. ఇరాన్ యుద్ధం ఫలితాలపై ప్రభావం చూపిందని ఉపాధ్యక్షుడు జేడీ వాన్స్ అనగా ట్రంప్ అంగీకరించారు. డెమొక్రాట్లతో కలిసి పనిచేస్తానని ట్రంప్ చెప్పారు.",
-   "pts": [
-    "యుద్ధంతో పెట్రోల్ ధరలు తాత్కాలికంగా పెరిగాయన్న ట్రంప్",
-    "ఇరాన్ అణ్వాయుధాల అడ్డుకట్టకే సైనిక చర్య అని సమర్థన",
-    "డెమొక్రాట్లతో కలిసి పనిచేస్తానన్న ట్రంప్"
-   ],
-   "why": "అమెరికా రాజకీయ మార్పులు వీసాలు, పెట్రోల్ ధరల ద్వారా అక్కడి తెలుగువారిపై, భారత్‌పై ప్రభావం చూపవచ్చు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/international/white-house-posts-never-surrender-after-republican-defeat-in-us-midterm-elections-ten26110500455",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "cat": "World · USA",
-    "h": "Trump blames Iran war for midterm loss; White House posts 'Never Surrender'",
-    "p": "After the Republican Party's defeat in the US midterm elections, the White House posted a photo of Trump with the words 'Never Surrender'. Vice President JD Vance said the Iran war affected the results, and Trump agreed. Trump said he would work with the Democrats.",
-    "pts": [
-     "Trump said the war briefly raised petrol prices",
-     "Defended military action to stop Iran getting nuclear weapons",
-     "Trump said he would work with Democrats"
-    ],
-    "why": "Political shifts in the US can affect Telugu people there and India through visas and petrol prices.",
-    "statl": "Midterm result for Republicans"
-   },
-   "hi": {
-    "cat": "दुनिया · अमेरिका",
-    "h": "मध्यावधि हार के लिए ट्रंप ने ईरान युद्ध को जिम्मेदार बताया; व्हाइट हाउस की 'नेवर सरेंडर' पोस्ट",
-    "p": "अमेरिकी मध्यावधि चुनावों में रिपब्लिकन पार्टी की हार के बाद व्हाइट हाउस ने ट्रंप की तस्वीर के साथ 'नेवर सरेंडर' लिखकर पोस्ट किया। उपराष्ट्रपति जेडी वेंस ने कहा कि ईरान युद्ध ने नतीजों को प्रभावित किया, जिस पर ट्रंप ने सहमति जताई। ट्रंप ने कहा कि वे डेमोक्रेट्स के साथ मिलकर काम करेंगे।",
-    "pts": [
-     "ट्रंप ने कहा युद्ध से पेट्रोल के दाम कुछ समय बढ़े",
-     "ईरान को परमाणु हथियार से रोकने के लिए सैन्य कार्रवाई का बचाव",
-     "ट्रंप ने डेमोक्रेट्स के साथ काम करने की बात कही"
-    ],
-    "why": "अमेरिका के राजनीतिक बदलाव वीजा और पेट्रोल कीमतों के जरिए वहां के तेलुगु लोगों और भारत पर असर डाल सकते हैं।",
-    "statl": "रिपब्लिकन के लिए मध्यावधि नतीजा"
-   },
-   "d": "05.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · కడప",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "599",
-   "statl": "పోలింగ్ కేంద్రాలు",
-   "h": "కడప జిల్లాలో నేడు జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల పోలింగ్",
-   "p": "వైఎస్ఆర్ కడప జిల్లాలోని 39 మండలాల్లో 21 మండలాల్లో గురువారం జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికలు జరుగుతున్నాయి. 16 జడ్పీటీసీ, 55 ఎంపీటీసీ స్థానాలకు 242 మంది అభ్యర్థులు పోటీలో ఉన్నారు. 599 పోలింగ్ కేంద్రాలు ఏర్పాటు చేశారు. వీటిలో 306 సమస్యాత్మక కేంద్రాలకు ప్రత్యేక భద్రత కల్పించినట్లు జిల్లా కలెక్టర్ తెలిపారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/kadapa/all-set-for-kadapa-zptc-mptc-polls-today-1139300",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-kadapa",
-   "pts": [
-    "16 జడ్పీటీసీ, 55 ఎంపీటీసీ స్థానాలకు పోలింగ్",
-    "జడ్పీటీసీకి 4,47,809 మంది ఓటర్లు",
-    "2,995 మంది సిబ్బందితో ఎన్నికల విధులు"
-   ],
-   "why": "కడప జిల్లాలోని 21 మండలాల గ్రామీణ ఓటర్లు నేడు తమ స్థానిక ప్రతినిధులను ఎన్నుకుంటున్నారు.",
-   "en": {
-    "h": "ZPTC, MPTC polling today in Kadapa district",
-    "p": "ZPTC and MPTC elections are being held on Thursday in 21 of the 39 mandals of YSR Kadapa district. A total of 242 candidates are contesting 16 ZPTC and 55 MPTC seats. 599 polling stations have been set up. The district Collector said special security has been arranged for 306 sensitive stations among them.",
-    "pts": [
-     "Polling for 16 ZPTC and 55 MPTC seats",
-     "4,47,809 voters for ZPTC",
-     "2,995 staff on election duty"
-    ],
-    "why": "Rural voters in 21 mandals of Kadapa district are electing their local representatives today.",
-    "cat": "AP · Kadapa",
-    "statl": "Polling stations"
-   },
-   "hi": {
-    "h": "कडप्पा जिले में आज जेडपीटीसी, एमपीटीसी चुनाव का मतदान",
-    "p": "वाईएसआर कडप्पा जिले के 39 में से 21 मंडलों में गुरुवार को जेडपीटीसी और एमपीटीसी चुनाव हो रहे हैं। 16 जेडपीटीसी और 55 एमपीटीसी सीटों के लिए 242 उम्मीदवार मैदान में हैं। 599 मतदान केंद्र बनाए गए हैं। जिला कलेक्टर ने बताया कि इनमें से 306 संवेदनशील केंद्रों पर विशेष सुरक्षा की गई है।",
-    "pts": [
-     "16 जेडपीटीसी, 55 एमपीटीसी सीटों पर मतदान",
-     "जेडपीटीसी के लिए 4,47,809 मतदाता",
-     "2,995 कर्मचारी चुनाव ड्यूटी पर"
-    ],
-    "why": "कडप्पा जिले के 21 मंडलों के ग्रामीण मतदाता आज अपने स्थानीय प्रतिनिधि चुन रहे हैं।",
-    "cat": "आंध्र प्रदेश · कडप्पा",
-    "statl": "मतदान केंद्र"
-   },
-   "d": "05.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · ప్రభుత్వం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "4 PM",
-   "statl": "సచివాలయంలో కేబినెట్ భేటీ",
-   "h": "నేడు తెలంగాణ కేబినెట్: ఎల్ నినో, కరవు సాయంపై చర్చ",
-   "p": "సీఎం రేవంత్ రెడ్డి అధ్యక్షతన గురువారం సాయంత్రం 4 గంటలకు సచివాలయంలో మంత్రివర్గ సమావేశం జరగనుంది. ఎల్ నినో ప్రభావంపై డిప్యూటీ సీఎం భట్టి విక్రమార్క నేతృత్వంలోని ఉపసంఘం రైతులకు తక్షణ సాయంపై ప్రాథమిక నివేదిక ఇవ్వనుంది. డిసెంబర్ 7–9 తేదీల్లో జరిగే ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్ ఏర్పాట్లపైనా చర్చిస్తారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/hyderabad/telangana-cabinet-meet-on-global-summit-today-1139307",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "రైతుల సాయంపై ఎల్ నినో ఉపసంఘం నివేదిక",
-    "కరవుపై కేంద్రానికి వివరించేందుకు ప్రతినిధి బృందం ప్రతిపాదన",
-    "కొత్త ఉద్యోగ నోటిఫికేషన్లు, సంక్షేమ పథకాల ప్రగతి సమీక్ష"
-   ],
-   "why": "కరవు బారిన పడిన రైతులకు అందే సాయం, కొత్త ఉద్యోగాలపై నేటి కేబినెట్ చర్చ కీలకం.",
-   "en": {
-    "h": "Telangana Cabinet meets today: El Nino, drought relief on agenda",
-    "p": "The Cabinet meeting chaired by CM Revanth Reddy will be held at the Secretariat at 4 pm on Thursday. The sub-committee on El Nino impact, headed by Deputy CM Bhatti Vikramarka, will submit a preliminary report on immediate relief for farmers. Arrangements for the Invest Telangana Global Summit on December 7–9 will also be discussed.",
-    "pts": [
-     "El Nino sub-committee report on relief for farmers",
-     "Proposal for a delegation to brief the Centre on drought",
-     "Review of new job notifications and welfare schemes"
-    ],
-    "why": "Today's Cabinet discussion matters for relief to drought-hit farmers and for new jobs.",
-    "cat": "Telangana · Government",
-    "statl": "Cabinet meet at Secretariat"
-   },
-   "hi": {
-    "h": "आज तेलंगाना कैबिनेट: अल नीनो, सूखा राहत पर चर्चा",
-    "p": "मुख्यमंत्री रेवंत रेड्डी की अध्यक्षता में गुरुवार शाम 4 बजे सचिवालय में मंत्रिमंडल की बैठक होगी। उपमुख्यमंत्री भट्टी विक्रमार्क की अध्यक्षता वाली अल नीनो प्रभाव संबंधी उपसमिति किसानों को तत्काल राहत पर प्रारंभिक रिपोर्ट देगी। 7–9 दिसंबर को होने वाले इन्वेस्ट तेलंगाना ग्लोबल समिट की तैयारियों पर भी चर्चा होगी।",
-    "pts": [
-     "किसानों की राहत पर अल नीनो उपसमिति की रिपोर्ट",
-     "सूखे पर केंद्र को जानकारी देने के लिए प्रतिनिधिमंडल का प्रस्ताव",
-     "नई भर्ती अधिसूचनाओं और कल्याण योजनाओं की समीक्षा"
-    ],
-    "why": "सूखा प्रभावित किसानों की राहत और नई नौकरियों के लिए आज की कैबिनेट चर्चा अहम है।",
-    "cat": "तेलंगाना · सरकार",
-    "statl": "सचिवालय में कैबिनेट बैठक"
-   },
-   "d": "05.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "13",
-   "statl": "జిల్లాల్లో ఉరుములతో వర్షాలు",
-   "h": "నేడు 13 జిల్లాల్లో ఉరుములు, మెరుపులతో వర్షాలు: ఐఎండీ",
-   "p": "తెలంగాణలోని 13 జిల్లాల్లో గురువారం ఉరుములు, మెరుపులు, బలమైన గాలులతో వర్షాలు కురిసే అవకాశం ఉందని భారత వాతావరణ శాఖ తెలిపింది. కరీంనగర్, పెద్దపల్లి, భద్రాద్రి కొత్తగూడెం జిల్లాలు ఇందులో ఉన్నాయి. ఖమ్మం, నల్గొండ, వరంగల్‌పైనా నిఘా ఉంది. హైదరాబాద్‌లో సాయంత్రం తేలికపాటి వర్షం పడవచ్చు.",
-   "src": "NewsBytes",
-   "url": "https://www.newsbytesapp.com/news/india/imd-forecasts-thunderstorms-in-13-telangana-districts-on-november-5/tldr",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "కరీంనగర్, పెద్దపల్లి, భద్రాద్రి జిల్లాలకు సూచన",
-    "మురసు తుపాను బలహీనపడింది",
-    "హైదరాబాద్‌లో పగలు 31°C, రాత్రి 22°C"
-   ],
-   "why": "ఈ జిల్లాల్లో బయటకు వెళ్లేవారు, రైతులు పిడుగులు, గాలుల పట్ల జాగ్రత్తగా ఉండాలి.",
-   "en": {
-    "h": "Thunderstorms likely in 13 Telangana districts today: IMD",
-    "p": "The India Meteorological Department said rain with thunder, lightning and strong winds is likely in 13 Telangana districts on Thursday. Karimnagar, Peddapalli and Bhadradri Kothagudem districts are among them. Khammam, Nalgonda and Warangal are also under watch. Hyderabad may get light rain in the evening.",
-    "pts": [
-     "Forecast for Karimnagar, Peddapalli, Bhadradri districts",
-     "Cyclone Murasu has weakened",
-     "Hyderabad: 31°C by day, 22°C at night"
-    ],
-    "why": "People going out and farmers in these districts should stay alert to lightning and winds.",
-    "cat": "Telangana · Weather",
-    "statl": "districts to get thunderstorms"
-   },
-   "hi": {
-    "h": "आज तेलंगाना के 13 जिलों में गरज के साथ बारिश: आईएमडी",
-    "p": "भारत मौसम विज्ञान विभाग ने कहा कि गुरुवार को तेलंगाना के 13 जिलों में गरज, बिजली और तेज हवाओं के साथ बारिश की संभावना है। करीमनगर, पेद्दापल्ली और भद्राद्री कोत्तागुडेम जिले इनमें शामिल हैं। खम्मम, नलगोंडा और वारंगल पर भी नजर है। हैदराबाद में शाम को हल्की बारिश हो सकती है।",
-    "pts": [
-     "करीमनगर, पेद्दापल्ली, भद्राद्री जिलों के लिए पूर्वानुमान",
-     "चक्रवात मुरासु कमजोर पड़ा",
-     "हैदराबाद: दिन में 31°C, रात में 22°C"
-    ],
-    "why": "इन जिलों में बाहर जाने वाले लोग और किसान बिजली व हवाओं से सावधान रहें।",
-    "cat": "तेलंगाना · मौसम",
-    "statl": "जिलों में गरज के साथ बारिश"
-   },
-   "d": "05.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2",
-   "statl": "ట్యాంకర్‌ను తాకిన గుర్తుతెలియని వస్తువులు",
-   "h": "కొత్త దాడి జరిగితే తక్షణ ప్రతిస్పందనకు ప్రణాళిక సిద్ధం: ఇరాన్",
-   "p": "అమెరికా మళ్లీ దాడి చేస్తే వెంటనే స్పందించేందుకు ‘గరిష్ఠ నిరోధక’ ప్రణాళిక సిద్ధంగా ఉందని ఇరాన్ ప్రకటించింది. విస్తరించిన ప్రాంతాల్లోని అమెరికా, ఇజ్రాయెల్ ఆస్తులను లక్ష్యాల జాబితాలో చేరుస్తోంది. హార్ముజ్ జలసంధి సమీపంలో ఒక చమురు ట్యాంకర్‌ను రెండు గుర్తుతెలియని వస్తువులు ఢీకొన్నాయని యూకేఎంటీవో తెలిపింది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అమెరికా, ఇజ్రాయెల్ ఆస్తులతో లక్ష్యాల జాబితా నవీకరణ",
-    "హార్ముజ్ వద్ద చమురు ట్యాంకర్‌పై దాడి",
-    "మైన్లు తాకి మూడు ట్యాంకర్లు పేలాయన్న ఐఆర్‌జీసీ"
-   ],
-   "why": "హార్ముజ్ ఉద్రిక్తతలు చమురు ధరలు, గల్ఫ్‌లో పనిచేస్తున్న తెలుగువారి భద్రతపై ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Plan ready for immediate response to any new attack: Iran",
-    "p": "Iran said a 'maximum deterrence' plan is ready to respond immediately if the US attacks again. It is adding US and Israeli assets in expanded areas to its target lists. UKMTO said an oil tanker was hit by two unknown projectiles near the Strait of Hormuz.",
-    "pts": [
-     "Target lists updated with US and Israeli assets",
-     "Oil tanker hit near Hormuz",
-     "IRGC says three tankers exploded after hitting mines"
-    ],
-    "why": "Hormuz tensions can affect oil prices and the safety of Telugu people working in the Gulf.",
-    "cat": "World · Iran",
-    "statl": "unknown projectiles hit a tanker"
-   },
-   "hi": {
-    "h": "किसी भी नए हमले पर तुरंत जवाब की योजना तैयार: ईरान",
-    "p": "ईरान ने कहा कि अगर अमेरिका फिर हमला करता है तो तुरंत जवाब देने के लिए 'अधिकतम प्रतिरोध' योजना तैयार है। वह विस्तारित क्षेत्रों में अमेरिकी और इजरायली ठिकानों को अपनी लक्ष्य सूची में जोड़ रहा है। यूकेएमटीओ ने बताया कि होर्मुज जलडमरूमध्य के पास एक तेल टैंकर दो अज्ञात वस्तुओं से टकराया।",
-    "pts": [
-     "लक्ष्य सूची में अमेरिकी, इजरायली ठिकाने जोड़े गए",
-     "होर्मुज के पास तेल टैंकर पर हमला",
-     "आईआरजीसी: बारूदी सुरंगों से टकराकर तीन टैंकर फटे"
-    ],
-    "why": "होर्मुज तनाव तेल कीमतों और खाड़ी में काम करने वाले तेलुगु लोगों की सुरक्षा पर असर डाल सकता है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "अज्ञात वस्तुएं टैंकर से टकराईं"
-   },
-   "d": "05.11.2026",
-   "t": "06:35"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",

@@ -1,8 +1,252 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 40,
+ "count": 45,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "21.12%",
+   "statl": "ఉదయం 11 గంటలకు రాష్ట్ర సగటు పోలింగ్",
+   "h": "ఏపీ పరిషత్ పోలింగ్: 11 గంటలకు 21.12%; విశాఖ, మార్కాపురంలో జోరు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ ఉదయం 11 గంటల వరకు సగటున 21.12 శాతం నమోదైందని ఎన్టీవీ తెలిపింది. 9 గంటలకు ఇది 11.71 శాతం ఉండేది. విశాఖపట్నంలో 35.4%, మార్కాపురంలో 34.66%, పల్నాడులో 32.02%, కడపలో 29.31% పోలింగ్ జరిగింది. అల్లూరి సీతారామరాజు జిల్లాలో అత్యల్పంగా 11.81% నమోదైంది. మధ్యాహ్నం తర్వాత పోలింగ్ మరింత పెరిగే అవకాశం ఉంది.",
+   "src": "NTV Telugu",
+   "url": "https://ntvtelugu.com/news/ap-mptc-zptc-polling-2026-markapuram-records-highest-turnout-at-11am-1032608.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "11 గంటలకు రాష్ట్ర సగటు 21.12% పోలింగ్",
+    "విశాఖ 35.4%, మార్కాపురం 34.66%, పల్నాడు 32.02%",
+    "అల్లూరి జిల్లాలో అత్యల్పంగా 11.81%"
+   ],
+   "why": "గ్రామీణ స్థానిక సంస్థల్లో ఎవరు ప్రాతినిధ్యం వహిస్తారో ఈ ఓటింగ్ నిర్ణయిస్తుంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "AP parishad polls: 21.12% turnout by 11 am; Visakhapatnam, Markapuram lead",
+    "p": "The average turnout in Andhra Pradesh's MPTC and ZPTC elections stood at 21.12 per cent by 11 am, NTV reported. It was 11.71 per cent at 9 am. Visakhapatnam recorded 35.4%, Markapuram 34.66%, Palnadu 32.02% and Kadapa 29.31%. Alluri Sitarama Raju district recorded the lowest at 11.81%. Polling is expected to rise further in the afternoon.",
+    "pts": [
+     "State average turnout 21.12% by 11 am",
+     "Visakhapatnam 35.4%, Markapuram 34.66%, Palnadu 32.02%",
+     "Lowest in Alluri district at 11.81%"
+    ],
+    "why": "This vote decides who represents people in rural local bodies.",
+    "cat": "AP · Parishad polls",
+    "statl": "State average turnout at 11 am"
+   },
+   "hi": {
+    "h": "आंध्र परिषद चुनाव: 11 बजे तक 21.12% मतदान; विशाखापत्तनम, मार्कापुरम आगे",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों में सुबह 11 बजे तक औसतन 21.12 प्रतिशत मतदान हुआ, एनटीवी ने बताया। सुबह 9 बजे यह 11.71 प्रतिशत था। विशाखापत्तनम में 35.4%, मार्कापुरम में 34.66%, पलनाडु में 32.02% और कडप्पा में 29.31% मतदान हुआ। अल्लूरी सीताराम राजू जिले में सबसे कम 11.81% मतदान दर्ज हुआ। दोपहर बाद मतदान और बढ़ने की उम्मीद है।",
+    "pts": [
+     "11 बजे तक राज्य का औसत मतदान 21.12%",
+     "विशाखापत्तनम 35.4%, मार्कापुरम 34.66%, पलनाडु 32.02%",
+     "अल्लूरी जिले में सबसे कम 11.81%"
+    ],
+    "why": "यह मतदान तय करेगा कि ग्रामीण स्थानीय निकायों में कौन प्रतिनिधित्व करेगा।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "सुबह 11 बजे राज्य का औसत मतदान"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "95%",
+   "statl": "కొన్ని వస్తువుల పంపిణీ పూర్తి",
+   "h": "స్కూల్ యూనిఫాం నాణ్యతపై విద్యార్థుల అభిప్రాయం తీసుకోండి: సీఎం రేవంత్",
+   "p": "ప్రభుత్వ పాఠశాలలు, హాస్టళ్లు, గురుకులాల్లో సరఫరా చేస్తున్న యూనిఫాంల నాణ్యతపై నేరుగా విద్యార్థుల అభిప్రాయం తీసుకోవాలని సీఎం రేవంత్ రెడ్డి అధికారులను ఆదేశించారు. రంగులు, డిజైన్లు ఎక్కువమంది విద్యార్థులు ఇష్టపడేలా ఉండాలన్నారు. కొన్ని వస్తువుల పంపిణీ 95 శాతం పూర్తయిందని అధికారులు చెప్పారు. వచ్చే విద్యా సంవత్సరం బడులు తెరిచే మొదటి రోజే అన్నీ అందేలా ప్రణాళిక సిద్ధం చేయాలని సూచించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/seek-feedback-from-students-on-school-uniform-quality-cm-revanth-reddy-to-officials-1139338",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "యూనిఫాం రంగులు, డిజైన్లపై విద్యార్థుల అభిప్రాయం",
+    "కొన్ని వస్తువుల పంపిణీ 95% పూర్తి",
+    "బడులు తెరిచే రోజే అన్నీ అందేలా ప్రణాళిక"
+   ],
+   "why": "ప్రభుత్వ బడులు, హాస్టళ్లలో చదివే విద్యార్థులకు నాణ్యమైన యూనిఫాంలు, కిట్లు సమయానికి అందడంపై ఇది ప్రభావం చూపుతుంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "Take students' feedback on school uniform quality: CM Revanth Reddy",
+    "p": "CM Revanth Reddy directed officials to take feedback directly from students on the quality of uniforms supplied in government schools, hostels and residential institutions. He said colours and designs should match what most students prefer. Officials said distribution of some items is 95 per cent complete. He asked for a plan so that everything reaches students on the first day of school in the next academic year.",
+    "pts": [
+     "Students' feedback on uniform colours and designs",
+     "Distribution of some items 95% complete",
+     "Plan to supply everything on reopening day"
+    ],
+    "why": "This affects whether students in government schools and hostels get quality uniforms and kits on time.",
+    "cat": "Telangana · Education",
+    "statl": "Some items' distribution complete"
+   },
+   "hi": {
+    "h": "स्कूल यूनिफॉर्म की गुणवत्ता पर छात्रों की राय लें: सीएम रेवंत रेड्डी",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने अधिकारियों को निर्देश दिया कि सरकारी स्कूलों, छात्रावासों और आवासीय संस्थानों में दी जा रही यूनिफॉर्म की गुणवत्ता पर सीधे छात्रों से राय ली जाए। उन्होंने कहा कि रंग और डिजाइन ज्यादातर छात्रों की पसंद के हों। अधिकारियों ने बताया कि कुछ वस्तुओं का वितरण 95 प्रतिशत पूरा हो गया है। उन्होंने अगले शैक्षणिक वर्ष में स्कूल खुलने के पहले दिन ही सब कुछ पहुंचाने की योजना बनाने को कहा।",
+    "pts": [
+     "यूनिफॉर्म के रंग, डिजाइन पर छात्रों की राय",
+     "कुछ वस्तुओं का वितरण 95% पूरा",
+     "स्कूल खुलने के दिन ही सब पहुंचाने की योजना"
+    ],
+    "why": "इससे तय होगा कि सरकारी स्कूलों और छात्रावासों के छात्रों को गुणवत्तापूर्ण यूनिफॉर्म और किट समय पर मिलें।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "कुछ वस्तुओं का वितरण पूरा"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "land",
+   "stat": "2",
+   "statl": "భవనం కూలిన ఘటనలో మృతులు",
+   "h": "ఓల్డ్ ఢిల్లీ భవనం కూలిన ఘటనలో ఇద్దరు మృతి; సహాయక చర్యలు కొనసాగింపు",
+   "p": "ఓల్డ్ ఢిల్లీలోని చావ్రీ బజార్ సమీపంలో గలీ సితారాలో నిర్మాణంలో ఉన్న మూడంతస్తుల భవనం కూలిన ఘటనలో కనీసం ఇద్దరు మరణించారని ఐఏఎన్‌ఎస్ తెలిపింది. గాయపడిన మరొకరిని శిథిలాల నుంచి బయటకు తీశారు. ఇంకా పలువురు చిక్కుకుని ఉండొచ్చని సహాయక సిబ్బంది భావిస్తున్నారు. ఆరు అగ్నిమాపక యూనిట్లు సహాయక చర్యల్లో ఉన్నాయి. ఢిల్లీలో ఇటీవల ఇలాంటి పలు ప్రమాదాలు జరిగాయి.",
+   "src": "IANS / The Guardian Chronicle",
+   "url": "https://theguardianchronicle.com/two-dead-several-feared-trapped-after-under-construction-building-collapses-in-old-delhis-chawri-bazaar/",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "dl-central",
+   "loc": "చావ్రీ బజార్",
+   "pts": [
+    "కనీసం ఇద్దరు మృతి, ఒకరిని గాయాలతో రక్షించారు",
+    "ఇంకా పలువురు చిక్కుకున్నట్లు అనుమానం",
+    "ఆరు అగ్నిమాపక యూనిట్లతో సహాయక చర్యలు"
+   ],
+   "why": "రద్దీ మార్కెట్ ప్రాంతాల్లో నిర్మాణ భద్రతపై ఈ ప్రమాదం మళ్లీ ఆందోళన కలిగిస్తోంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "Two dead in Old Delhi building collapse; rescue work continues",
+    "p": "At least two people died after an under-construction three-storey building collapsed at Gali Sitara near Chawri Bazaar in Old Delhi, IANS reported. Another injured person was pulled out of the debris. Rescue workers fear several more are still trapped. Six fire units are involved in the rescue. Delhi has seen several similar collapses recently.",
+    "pts": [
+     "At least two dead, one rescued injured",
+     "Several more feared trapped",
+     "Rescue work with six fire units"
+    ],
+    "why": "The accident again raises concern about construction safety in crowded market areas.",
+    "cat": "Delhi · Accident",
+    "statl": "Dead in building collapse"
+   },
+   "hi": {
+    "h": "पुरानी दिल्ली इमारत हादसे में दो की मौत; बचाव कार्य जारी",
+    "p": "पुरानी दिल्ली में चावड़ी बाजार के पास गली सितारा में निर्माणाधीन तीन मंजिला इमारत ढहने से कम से कम दो लोगों की मौत हो गई, आईएएनएस ने बताया। एक अन्य घायल व्यक्ति को मलबे से निकाला गया। बचावकर्मियों को आशंका है कि कई और लोग अब भी फंसे हैं। बचाव कार्य में छह दमकल इकाइयां लगी हैं। दिल्ली में हाल में ऐसे कई हादसे हुए हैं।",
+    "pts": [
+     "कम से कम दो की मौत, एक घायल को बचाया",
+     "कई और लोगों के फंसे होने की आशंका",
+     "छह दमकल इकाइयों से बचाव कार्य"
+    ],
+    "why": "यह हादसा भीड़भाड़ वाले बाजार इलाकों में निर्माण सुरक्षा पर फिर चिंता बढ़ाता है।",
+    "cat": "दिल्ली · हादसा",
+    "statl": "इमारत हादसे में मौतें"
+   }
+  },
+  {
+   "cat": "దక్షిణ భారత్ · వర్షాలు",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "7-8 నవం.",
+   "statl": "తమిళనాడులో విస్తృత వర్షాలు",
+   "h": "తమిళనాడు, కర్ణాటక, కేరళలో భారీ వర్షాల హెచ్చరిక: ఐఎండీ",
+   "p": "నవంబర్ 5 నుంచి తమిళనాడు, పుదుచ్చేరి, కర్ణాటక, కేరళలోని కొన్ని ప్రాంతాల్లో భారీ వర్షాలు పడొచ్చని ఐఎండీ అంచనా వేసింది. దక్షిణ అంతర్గత కర్ణాటకలో గంటకు 30-40 కి.మీ. వేగంతో గాలులు వీయవచ్చు. 7, 8 తేదీల్లో తమిళనాడు అంతటా విస్తృతంగా వర్షాలు కురుస్తాయి. కోస్తాంధ్ర, రాయలసీమలో గంటకు 40-50 కి.మీ. గాలులతో ఉరుములు, తెలంగాణలోనూ 8 వరకు వర్షాలు ఉంటాయని తెలిపింది.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/imd-issues-heavy-rainfall-alert-for-tamil-nadu-karnataka-kerala/",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "pts": [
+    "తమిళనాడు, కర్ణాటక, కేరళలో అక్కడక్కడ భారీ వర్షాలు",
+    "7, 8 తేదీల్లో తమిళనాడు అంతటా వానలు",
+    "కోస్తాంధ్ర, రాయలసీమలో 40-50 కి.మీ. గాలులతో ఉరుములు"
+   ],
+   "why": "చెన్నై, బెంగళూరు సహా దక్షిణాది నగరాల్లో ఉండే తెలుగువారు, రైతులు ప్రయాణాలు, పనులు ప్లాన్ చేసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "IMD warns of heavy rain in Tamil Nadu, Karnataka and Kerala",
+    "p": "IMD has forecast heavy rain in isolated parts of Tamil Nadu, Puducherry, Karnataka and Kerala from November 5. South Interior Karnataka may see winds of 30-40 kmph. Widespread rain is expected across Tamil Nadu on the 7th and 8th. It said Coastal Andhra and Rayalaseema will see thunderstorms with winds of 40-50 kmph, and Telangana will also get rain till the 8th.",
+    "pts": [
+     "Isolated heavy rain in Tamil Nadu, Karnataka, Kerala",
+     "Widespread rain across Tamil Nadu on 7th, 8th",
+     "Thunderstorms with 40-50 kmph winds in Coastal Andhra, Rayalaseema"
+    ],
+    "why": "It helps Telugu people and farmers in southern cities including Chennai and Bengaluru plan travel and work.",
+    "cat": "South India · Rain",
+    "statl": "Widespread rain in Tamil Nadu"
+   },
+   "hi": {
+    "h": "तमिलनाडु, कर्नाटक और केरल में भारी बारिश की चेतावनी: आईएमडी",
+    "p": "आईएमडी ने 5 नवंबर से तमिलनाडु, पुडुचेरी, कर्नाटक और केरल के कुछ हिस्सों में भारी बारिश का अनुमान जताया है। दक्षिण आंतरिक कर्नाटक में 30-40 किमी प्रति घंटे की हवाएं चल सकती हैं। 7 और 8 तारीख को पूरे तमिलनाडु में व्यापक बारिश होगी। विभाग ने कहा कि तटीय आंध्र और रायलसीमा में 40-50 किमी प्रति घंटे की हवाओं के साथ आंधी आएगी और तेलंगाना में भी 8 तारीख तक बारिश होगी।",
+    "pts": [
+     "तमिलनाडु, कर्नाटक, केरल में कहीं-कहीं भारी बारिश",
+     "7, 8 तारीख को पूरे तमिलनाडु में बारिश",
+     "तटीय आंध्र, रायलसीमा में 40-50 किमी/घंटा हवाओं के साथ आंधी"
+    ],
+    "why": "इससे चेन्नई और बेंगलुरु समेत दक्षिणी शहरों में रहने वाले तेलुगु लोग और किसान यात्रा व काम की योजना बना सकेंगे।",
+    "cat": "दक्षिण भारत · बारिश",
+    "statl": "तमिलनाडु में व्यापक बारिश"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "$93.6",
+   "statl": "బ్రెంట్ ముడి చమురు ధర (బ్యారెల్)",
+   "h": "హార్ముజ్‌లో మంటల్లో రెండు ట్యాంకర్లు; ఇరాన్-అమెరికా చర్చలకు ఖతార్ ముసాయిదా",
+   "p": "హార్ముజ్ జలసంధిలో గురువారం వేర్వేరు ఘటనల్లో రెండు చమురు ట్యాంకర్లు, ఒక టగ్‌బోట్ మంటల్లో చిక్కుకున్నాయని ఇరాన్ ఐఆర్‌జీసీని ఉటంకిస్తూ రాయిటర్స్ తెలిపింది. ఒక ట్యాంకర్ మైన్‌ను ఢీకొంది. మరోవైపు అమెరికా, ఇరాన్ మధ్య కొద్ది రోజుల్లో నేరుగా చర్చలు మొదలయ్యేలా ఖతార్ మధ్యవర్తులు ఒక ముసాయిదా ఒప్పందానికి మద్దతు కోరుతున్నారు. బ్రెంట్ చమురు ధర 93.63 డాలర్లకు తగ్గింది.",
+   "src": "Gulf News / Reuters",
+   "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "హార్ముజ్‌లో రెండు ట్యాంకర్లు, టగ్‌బోట్‌కు మంటలు",
+    "నేరుగా చర్చల కోసం ఖతార్ ముసాయిదా ఒప్పందం",
+    "బ్రెంట్ చమురు 93.63 డాలర్లకు తగ్గుదల"
+   ],
+   "why": "హార్ముజ్ మార్గం, చమురు ధరలు భారత్ దిగుమతి బిల్లు, గల్ఫ్‌లో పనిచేసే తెలుగువారిపై ప్రభావం చూపుతాయి.",
+   "d": "05.11.2026",
+   "t": "12:35",
+   "en": {
+    "h": "Two tankers on fire in Hormuz; Qatar draft for Iran-US talks",
+    "p": "Two oil tankers and a tugboat caught fire in separate incidents in the Strait of Hormuz on Thursday, Reuters reported, citing Iran's IRGC. One tanker hit a mine. Meanwhile, Qatari mediators are seeking backing for a draft agreement that could restart direct US-Iran talks within days. Brent crude fell to $93.63.",
+    "pts": [
+     "Two tankers, a tugboat catch fire in Hormuz",
+     "Qatar draft agreement for direct talks",
+     "Brent crude falls to $93.63"
+    ],
+    "why": "The Hormuz route and oil prices affect India's import bill and Telugu people working in the Gulf.",
+    "cat": "World · Iran",
+    "statl": "Brent crude price (per barrel)"
+   },
+   "hi": {
+    "h": "होर्मुज में दो टैंकरों में आग; ईरान-अमेरिका वार्ता के लिए कतर का मसौदा",
+    "p": "रॉयटर्स ने ईरान के आईआरजीसी के हवाले से बताया कि गुरुवार को होर्मुज जलडमरूमध्य में अलग-अलग घटनाओं में दो तेल टैंकरों और एक टगबोट में आग लग गई। एक टैंकर बारूदी सुरंग से टकराया। वहीं, कतर के मध्यस्थ एक मसौदा समझौते के लिए समर्थन जुटा रहे हैं जिससे कुछ ही दिनों में अमेरिका-ईरान सीधी बातचीत शुरू हो सकती है। ब्रेंट कच्चा तेल 93.63 डॉलर पर आ गया।",
+    "pts": [
+     "होर्मुज में दो टैंकरों, एक टगबोट में आग",
+     "सीधी वार्ता के लिए कतर का मसौदा समझौता",
+     "ब्रेंट कच्चा तेल 93.63 डॉलर पर"
+    ],
+    "why": "होर्मुज मार्ग और तेल की कीमतें भारत के आयात बिल और खाड़ी में काम करने वाले तेलुगु लोगों पर असर डालती हैं।",
+    "cat": "दुनिया · ईरान",
+    "statl": "ब्रेंट कच्चे तेल का भाव (प्रति बैरल)"
+   }
+  },
   {
    "cat": "ఢిల్లీ · ప్రమాదం",
    "col": "--c-power",
