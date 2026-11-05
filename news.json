@@ -1,8 +1,154 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T18:05:00+05:30",
+ "updated": "2026-11-05T18:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · మోసం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "25",
+   "statl": "స్వాధీనం చేసుకున్న ప్రామిసరీ నోట్లు",
+   "h": "భారీ రుణాల పేరిట మోసం: మల్కాజిగిరి పోలీసుల అదుపులో మరో నలుగురు",
+   "p": "పెద్ద మొత్తంలో రుణాలు ఇప్పిస్తామంటూ ఆర్థిక ఇబ్బందుల్లో ఉన్నవారిని, వృద్ధులను మోసం చేస్తున్న ముఠాలో మరో నలుగురిని మల్కాజిగిరి ఎస్‌ఓటీ, ఎల్‌బీ నగర్ పోలీసులు గురువారం అరెస్టు చేశారు. ముందుగానే భారీ వడ్డీ కోసి కొంత మొత్తమే ఇచ్చి, ఖాళీ చెక్కులు తీసుకుని బెదిరించేవారని కమిషనర్ బి. సుమతి తెలిపారు. ఇప్పటివరకు ఏడుగురు బాధితులను గుర్తించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/moneylending-fraud-sot-and-lb-nagar-police-arrest-four-more-in-hyderabad",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "ఎల్‌బీ నగర్",
+   "pts": [
+    "రెండు కార్లు, 22 ఖాళీ చెక్కులు, 25 ప్రామిసరీ నోట్లు స్వాధీనం",
+    "ఎల్‌బీ నగర్, నేరేడ్‌మెట్, కీసర ఠాణాల్లో నాలుగు కేసులు",
+    "మరో నలుగురు పరారీలో; ఇంకా 20 మంది బాధితుల పరిశీలన"
+   ],
+   "why": "అధిక రుణాల హామీలతో వచ్చే మధ్యవర్తుల విషయంలో ప్రజలు జాగ్రత్తగా ఉండాలని ఈ కేసు చెబుతోంది.",
+   "d": "05.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "Big-loan fraud: Malkajgiri police arrest four more in Hyderabad",
+    "p": "Malkajgiri SOT and LB Nagar police on Thursday arrested four more members of a gang that cheated financially distressed people and senior citizens by promising big loans. Commissioner B. Sumathi said the gang deducted huge advance interest, paid only part of the loan, took blank cheques and threatened borrowers. Seven victims have been identified so far.",
+    "pts": [
+     "Two cars, 22 blank cheques, 25 promissory notes seized",
+     "Four cases at LB Nagar, Neredmet and Keesara police stations",
+     "Four more absconding; 20 more possible victims being examined"
+    ],
+    "why": "The case is a warning to be careful with middlemen promising large loans.",
+    "cat": "Hyderabad · Fraud",
+    "statl": "Promissory notes seized"
+   },
+   "hi": {
+    "h": "बड़े कर्ज़ के नाम पर धोखाधड़ी: मल्काजगिरी पुलिस ने चार और पकड़े",
+    "p": "बड़े कर्ज़ दिलाने का वादा कर आर्थिक तंगी झेल रहे लोगों और बुज़ुर्गों को ठगने वाले गिरोह के चार और सदस्यों को मल्काजगिरी एसओटी और एलबी नगर पुलिस ने गुरुवार को गिरफ्तार किया। कमिश्नर बी. सुमति ने बताया कि गिरोह भारी अग्रिम ब्याज काटकर कर्ज़ का कुछ हिस्सा ही देता, खाली चेक लेता और कर्ज़दारों को धमकाता था। अब तक सात पीड़ितों की पहचान हुई है।",
+    "pts": [
+     "दो कारें, 22 खाली चेक, 25 प्रॉमिसरी नोट ज़ब्त",
+     "एलबी नगर, नेरेडमेट और कीसरा थानों में चार मामले",
+     "चार और फरार; 20 और संभावित पीड़ितों की जांच"
+    ],
+    "why": "यह मामला बड़े कर्ज़ का वादा करने वाले बिचौलियों से सावधान रहने की चेतावनी है।",
+    "cat": "हैदराबाद · धोखाधड़ी",
+    "statl": "ज़ब्त प्रॉमिसरी नोट"
+   }
+  },
+  {
+   "cat": "భారత్ · ఇంధనం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "~20%",
+   "statl": "ఈ వారం తగ్గిన బ్రెంట్ ముడి చమురు ధర",
+   "h": "ముడి చమురు ధర భారీ పతనం; దేశంలో పెట్రోల్, డీజిల్ ధరలు యథాతథం",
+   "p": "బ్రెంట్ ముడి చమురు ధర ఈ వారం దాదాపు 20% పడిపోయింది. ఏప్రిల్ 2020 తర్వాత ఇదే అతిపెద్ద వారపు పతనం. గురువారం ఉదయం బ్రెంట్ బ్యారెల్ 93.9 డాలర్లకు చేరింది. అయితే దేశంలోని ప్రధాన నగరాల్లో పెట్రోల్, డీజిల్ ధరలు మారలేదు. హైదరాబాద్‌లో లీటర్ పెట్రోల్ ₹116.15, డీజిల్ ₹104.23గా ఉన్నాయి.",
+   "src": "HDFC Sky",
+   "url": "https://hdfcsky.com/news/petrol-diesel-prices-today-november-5-2026-check-latest-rates-in-delhi-mumbai-kolkata-chennai-bengaluru",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "బుధవారం ఒక్కరోజే బ్రెంట్ 8.7% పతనం",
+    "అమెరికా మధ్యంతర ఎన్నికల ఫలితాల ప్రభావమని అంచనా",
+    "ఢిల్లీలో పెట్రోల్ ₹102.12, ముంబైలో ₹111.21"
+   ],
+   "why": "చమురు చౌకైతే దేశ దిగుమతి భారం, ద్రవ్యోల్బణంపై ఊరట లభించే అవకాశం ఉంది.",
+   "d": "05.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "Crude oil plunges; petrol, diesel prices unchanged in India",
+    "p": "Brent crude has fallen nearly 20% this week, its steepest weekly drop since April 2020. On Thursday morning Brent was at $93.9 a barrel. But petrol and diesel prices were unchanged in major Indian cities. In Hyderabad, petrol costs ₹116.15 a litre and diesel ₹104.23.",
+    "pts": [
+     "Brent fell 8.7% on Wednesday alone",
+     "Drop linked to the US midterm election results",
+     "Petrol ₹102.12 in Delhi, ₹111.21 in Mumbai"
+    ],
+    "why": "Cheaper oil could ease India's import bill and inflation.",
+    "cat": "India · Fuel",
+    "statl": "Fall in Brent crude price this week"
+   },
+   "hi": {
+    "h": "कच्चे तेल में भारी गिरावट; देश में पेट्रोल-डीज़ल के दाम स्थिर",
+    "p": "ब्रेंट कच्चा तेल इस हफ्ते करीब 20% गिर गया है, जो अप्रैल 2020 के बाद सबसे बड़ी साप्ताहिक गिरावट है। गुरुवार सुबह ब्रेंट 93.9 डॉलर प्रति बैरल पर था। लेकिन देश के प्रमुख शहरों में पेट्रोल-डीज़ल के दाम नहीं बदले। हैदराबाद में पेट्रोल ₹116.15 और डीज़ल ₹104.23 प्रति लीटर है।",
+    "pts": [
+     "बुधवार को ही ब्रेंट 8.7% गिरा",
+     "गिरावट को अमेरिकी मध्यावधि चुनाव नतीजों से जोड़ा गया",
+     "दिल्ली में पेट्रोल ₹102.12, मुंबई में ₹111.21"
+    ],
+    "why": "सस्ता तेल भारत के आयात बिल और महंगाई में राहत दे सकता है।",
+    "cat": "भारत · ईंधन",
+    "statl": "इस हफ्ते ब्रेंट कच्चे तेल में गिरावट"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · యూరప్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "~10",
+   "statl": "గురువారం బెదిరింపులు అందిన విమానాలు",
+   "h": "యూరప్‌లో మళ్లీ విమానాలకు బాంబు బెదిరింపులు: పలు విమానాల మళ్లింపు",
+   "p": "ఈ వారంలో రెండోసారి యూరప్‌లో విమానాలకు బాంబు బెదిరింపులు వచ్చాయి. గురువారం సుమారు 10 విమానాలు ప్రభావితమయ్యాయి, కొన్నింటిని మళ్లించారు. బల్గేరియాలో మూడు విమానాలు అత్యవసరంగా దిగాయి. ప్రాగ్ వెళ్తున్న నాలుగు విమానాలకు బెదిరింపులు రాగా, వాటి విశ్వసనీయత తక్కువని చెక్ పోలీసులు తెలిపారు. ఏ విమానంలోనూ అనుమానాస్పద వస్తువులు దొరకలేదు.",
+   "src": "The National",
+   "url": "https://www.thenationalnews.com/news/europe/2026/11/05/european-flights-diverted-after-second-wave-of-bomb-threats/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మంగళవారం కూడా 7 విమానాలు, ఓ క్రూయిజ్ నౌకకు బెదిరింపులు",
+    "బల్గేరియాలో సోఫియా, ప్లొవ్‌డివ్‌లో మూడు విమానాల అత్యవసర ల్యాండింగ్",
+    "బెదిరింపులకు ఏ దేశమూ ఎవరినీ బాధ్యులుగా చెప్పలేదు"
+   ],
+   "why": "యూరప్ మీదుగా ప్రయాణించే భారతీయులు, తెలుగు ప్రయాణికులకు ఆలస్యం, భద్రతా తనిఖీలు ఎదురవ్వొచ్చు.",
+   "d": "05.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "Fresh bomb threats hit European flights; several diverted",
+    "p": "Flights across Europe received bomb threats for the second time this week. Around 10 flights were affected on Thursday and some were diverted. Three planes made emergency landings in Bulgaria. Four Prague-bound planes received threats, which Czech police rated as low in credibility. No suspicious items were found on any aircraft.",
+    "pts": [
+     "On Tuesday too, 7 flights and a cruise ship got threats",
+     "Three emergency landings in Bulgaria, at Sofia and Plovdiv",
+     "No country has blamed anyone for the threats"
+    ],
+    "why": "Indian and Telugu travellers flying via Europe may face delays and security checks.",
+    "cat": "World · Europe",
+    "statl": "Flights that got threats on Thursday"
+   },
+   "hi": {
+    "h": "यूरोप में फिर विमानों को बम धमकी: कई उड़ानें मोड़ी गईं",
+    "p": "इस हफ्ते दूसरी बार यूरोप में विमानों को बम की धमकियां मिलीं। गुरुवार को करीब 10 उड़ानें प्रभावित हुईं और कुछ को मोड़ा गया। बुल्गारिया में तीन विमानों ने आपात लैंडिंग की। प्राग जा रहे चार विमानों को धमकी मिली, जिसे चेक पुलिस ने कम विश्वसनीय बताया। किसी भी विमान में संदिग्ध वस्तु नहीं मिली।",
+    "pts": [
+     "मंगलवार को भी 7 उड़ानों और एक क्रूज़ जहाज़ को धमकी",
+     "बुल्गारिया के सोफिया, प्लोवदिव में तीन विमानों की आपात लैंडिंग",
+     "धमकियों के लिए किसी देश ने किसी को ज़िम्मेदार नहीं ठहराया"
+    ],
+    "why": "यूरोप होकर यात्रा करने वाले भारतीय और तेलुगु यात्रियों को देरी और सुरक्षा जांच का सामना करना पड़ सकता है।",
+    "cat": "दुनिया · यूरोप",
+    "statl": "गुरुवार को धमकी पाने वाली उड़ानें"
+   }
+  },
   {
    "cat": "తెలంగాణ · భూగర్భ జలాలు",
    "col": "--c-water",
