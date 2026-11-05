@@ -1,8 +1,252 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 67,
+ "count": 72,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "58.55%",
+   "statl": "మధ్యాహ్నం 3 గంటల వరకు పోలింగ్",
+   "h": "ఏపీలో ముగిసిన పరిషత్ పోలింగ్: 3 గంటలకు 58.55%; 7న లెక్కింపు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జెడ్‌పీటీసీ ఎన్నికల పోలింగ్ గురువారం సాయంత్రం 5 గంటలకు ముగిసింది. ఆ సమయానికి క్యూలో ఉన్నవారికి ఓటు వేసే అవకాశం ఇచ్చారు. మధ్యాహ్నం 3 గంటల వరకు 58.55 శాతం పోలింగ్ నమోదైంది. కొన్నిచోట్ల చెదురుమదురు ఘటనలు మినహా పోలింగ్ ప్రశాంతంగా జరిగింది. ఓట్ల లెక్కింపు నవంబర్ 7న జరుగుతుంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "కోనసీమ జిల్లాలో 3 గంటలకు 53.37% పోలింగ్",
+    "కోనసీమలో అత్యధికం ఆలమూరు 62.62%, అత్యల్పం మల్కిపురం 39.77%",
+    "శ్రీకాకుళం జిల్లాలో 1 గంటకు 40.21% పోలింగ్"
+   ],
+   "why": "గ్రామీణ స్థానిక పాలనను నడిపే మండల, జిల్లా పరిషత్ ప్రతినిధులు ఎవరో 7న తేలనుంది.",
+   "en": {
+    "h": "AP parishad polling ends: 58.55% by 3 PM; counting on Nov 7",
+    "p": "Polling for MPTC and ZPTC elections in Andhra Pradesh ended at 5 pm on Thursday. Voters standing in queues at that time were allowed to vote. Turnout was 58.55 percent by 3 pm. Apart from scattered incidents at some places, polling was peaceful. Votes will be counted on November 7.",
+    "pts": [
+     "Konaseema district recorded 53.37% polling by 3 PM",
+     "In Konaseema, Alamuru highest at 62.62%, Malkipuram lowest at 39.77%",
+     "Srikakulam district recorded 40.21% polling by 1 PM"
+    ],
+    "why": "Who will run rural local bodies at mandal and district parishad level will be known on November 7.",
+    "cat": "AP · Parishad elections",
+    "statl": "Polling till 3 PM"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में परिषद मतदान समाप्त: 3 बजे तक 58.55%; 7 को मतगणना",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों का मतदान गुरुवार शाम 5 बजे समाप्त हुआ। उस समय कतार में खड़े मतदाताओं को वोट डालने दिया गया। दोपहर 3 बजे तक 58.55 प्रतिशत मतदान हुआ। कुछ जगहों पर छिटपुट घटनाओं को छोड़कर मतदान शांतिपूर्ण रहा। मतगणना 7 नवंबर को होगी।",
+    "pts": [
+     "कोनसीमा ज़िले में 3 बजे तक 53.37% मतदान",
+     "कोनसीमा में आलमुरु सबसे अधिक 62.62%, मलकिपुरम सबसे कम 39.77%",
+     "श्रीकाकुलम ज़िले में 1 बजे तक 40.21% मतदान"
+    ],
+    "why": "मंडल और ज़िला परिषद स्तर पर ग्रामीण स्थानीय निकाय कौन चलाएगा, यह 7 नवंबर को तय होगा।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "दोपहर 3 बजे तक मतदान"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ఏపీ · కర్నూలు",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "30",
+   "statl": "గుమ్మనూరు ఘర్షణలో గాయపడినవారు",
+   "h": "పరిషత్ పోలింగ్‌లో పలుచోట్ల ఘర్షణలు: కర్నూలు జిల్లాలో 30 మందికి గాయాలు",
+   "p": "పరిషత్ పోలింగ్ సందర్భంగా ఏపీలోని పలు ప్రాంతాల్లో రాజకీయ పార్టీల కార్యకర్తల మధ్య ఘర్షణలు జరిగాయి. కర్నూలు జిల్లా చిప్పగిరి మండలం గుమ్మనూరులో రెండు వర్గాలు రాళ్లు, కర్రలతో దాడి చేసుకోవడంతో 30 మంది గాయపడ్డారు. వారిని గుంతకల్లు ఆసుపత్రికి తరలించారు. కుప్పం, పోలవరం, వెంకటాచలం ప్రాంతాల్లోనూ ఉద్రిక్తత నెలకొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-kurnool",
+   "loc": "గుమ్మనూరు",
+   "pts": [
+    "కుప్పంలో రోడ్డుపై బైఠాయింపుతో 2 కి.మీ. ట్రాఫిక్ నిలిచింది",
+    "పోలవరంలో ఇరువర్గాలపై పోలీసుల లాఠీచార్జ్",
+    "సి.బెళగల్ మండలంలో ₹2 లక్షల నగదు స్వాధీనం"
+   ],
+   "why": "ఎన్నికల సమయంలో హింస ఓటర్ల భద్రతకు ముప్పు; ఇలాంటి చోట్ల పోలీసు బందోబస్తు కీలకం.",
+   "en": {
+    "h": "Clashes at several places during parishad polls; 30 injured in Kurnool district",
+    "p": "Clashes broke out between workers of political parties at several places in AP during parishad polling. At Gummanur in Chippagiri mandal of Kurnool district, two groups attacked each other with stones and sticks, injuring 30 people. They were shifted to a hospital in Guntakal. Tension was also seen in Kuppam, Polavaram and Venkatachalam areas.",
+    "pts": [
+     "Road blockade in Kuppam stopped traffic for 2 km",
+     "Police lathi-charged both groups in Polavaram",
+     "Rs 2 lakh cash seized in C. Belagal mandal"
+    ],
+    "why": "Violence during elections threatens voters' safety; police deployment is crucial in such places.",
+    "cat": "AP · Kurnool",
+    "statl": "Injured in Gummanur clash"
+   },
+   "hi": {
+    "h": "परिषद मतदान के दौरान कई जगह झड़पें: कर्नूल ज़िले में 30 घायल",
+    "p": "परिषद मतदान के दौरान आंध्र प्रदेश के कई इलाकों में राजनीतिक दलों के कार्यकर्ताओं के बीच झड़पें हुईं। कर्नूल ज़िले के चिप्पगिरि मंडल के गुम्मनूर में दो गुटों ने पत्थरों और लाठियों से हमला किया, जिसमें 30 लोग घायल हुए। उन्हें गुंतकल के अस्पताल ले जाया गया। कुप्पम, पोलावरम और वेंकटाचलम इलाकों में भी तनाव रहा।",
+    "pts": [
+     "कुप्पम में सड़क जाम से 2 किमी तक यातायात रुका",
+     "पोलावरम में पुलिस ने दोनों गुटों पर लाठीचार्ज किया",
+     "सी. बेलगल मंडल में ₹2 लाख नकद जब्त"
+    ],
+    "why": "चुनाव के समय हिंसा मतदाताओं की सुरक्षा के लिए खतरा है; ऐसी जगहों पर पुलिस तैनाती अहम है।",
+    "cat": "आंध्र प्रदेश · कर्नूल",
+    "statl": "गुम्मनूर झड़प में घायल"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "జార్ఖండ్ · బొకారో",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "బొగ్గు గని ప్రమాదంలో మృతులు",
+   "h": "జార్ఖండ్‌లోని బొకారోలో బొగ్గు గని ప్రమాదం: ముగ్గురు మృతి",
+   "p": "జార్ఖండ్ రాష్ట్రం బొకారోలో గురువారం బొగ్గు గనిలో ప్రమాదం జరిగింది. ఈ ఘటనలో ముగ్గురు ప్రాణాలు కోల్పోగా, మరో ముగ్గురు గాయపడ్డారు. గనుల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ఘటన మరోసారి దృష్టి సారించేలా చేసింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "india"
+   ],
+   "st": "JH",
+   "place": "IN",
+   "pts": [
+    "ప్రమాదం బొకారోలోని బొగ్గు గనిలో జరిగింది",
+    "ముగ్గురు మృతి చెందారు",
+    "మరో ముగ్గురికి గాయాలు"
+   ],
+   "why": "బొగ్గు గనుల్లో పనిచేసే కార్మికుల భద్రత ఎంత కీలకమో ఈ ఘటన చూపిస్తోంది.",
+   "en": {
+    "h": "Coal mine accident in Jharkhand's Bokaro: three dead",
+    "p": "An accident took place in a coal mine at Bokaro in Jharkhand on Thursday. Three people lost their lives and three others were injured. The incident has once again drawn attention to the safety of mine workers.",
+    "pts": [
+     "The accident occurred in a coal mine in Bokaro",
+     "Three people died",
+     "Three others were injured"
+    ],
+    "why": "The incident shows how crucial the safety of coal mine workers is.",
+    "cat": "Jharkhand · Bokaro",
+    "statl": "Dead in coal mine accident"
+   },
+   "hi": {
+    "h": "झारखंड के बोकारो में कोयला खदान हादसा: तीन की मौत",
+    "p": "झारखंड के बोकारो में गुरुवार को एक कोयला खदान में हादसा हुआ। इसमें तीन लोगों की जान चली गई और तीन अन्य घायल हुए। इस घटना ने खदान मज़दूरों की सुरक्षा पर फिर से ध्यान खींचा है।",
+    "pts": [
+     "हादसा बोकारो की कोयला खदान में हुआ",
+     "तीन लोगों की मौत हुई",
+     "तीन अन्य घायल हुए"
+    ],
+    "why": "यह घटना दिखाती है कि कोयला खदान मज़दूरों की सुरक्षा कितनी अहम है।",
+    "cat": "झारखंड · बोकारो",
+    "statl": "कोयला खदान हादसे में मृत"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఫుట్‌బాల్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "23 ఏళ్లు",
+   "statl": "పోర్చుగల్ జట్టుతో ప్రయాణం",
+   "h": "పోర్చుగల్ జాతీయ జట్టుకు రొనాల్డో వీడ్కోలు; ఇకపై లీగ్ మ్యాచ్‌లకే",
+   "p": "స్టార్ ఫుట్‌బాలర్ క్రిస్టియానో రొనాల్డో ఇకపై పోర్చుగల్ జాతీయ జట్టుకు ఆడబోనని ప్రకటించారు. లీగ్ మ్యాచ్‌లలో మాత్రమే కొనసాగుతానని తెలిపారు. 23 ఏళ్లుగా పోర్చుగల్ తరఫున ఆడిన ఆయన కెరీర్‌లో 1,300కు పైగా మ్యాచ్‌లు ఆడారు. నాలుగు యూరోపియన్ గోల్డెన్ షూ అవార్డులు గెలుచుకున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "world",
+    "sports"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "కెరీర్‌లో 1,300కు పైగా మ్యాచ్‌లు",
+    "4 యూరోపియన్ గోల్డెన్ షూ అవార్డులు",
+    "5 సార్లు ఫిఫా బెస్ట్ ప్లేయర్"
+   ],
+   "why": "ప్రపంచవ్యాప్తంగా, భారత్‌లోనూ ఉన్న కోట్లాది ఫుట్‌బాల్ అభిమానులకు ఇది ఓ యుగానికి ముగింపు.",
+   "en": {
+    "h": "Ronaldo bids farewell to Portugal national team; will play only league matches",
+    "p": "Star footballer Cristiano Ronaldo announced that he will no longer play for Portugal's national team. He said he will continue only in league matches. He played for Portugal for 23 years and has played more than 1,300 matches in his career. He has won four European Golden Shoe awards.",
+    "pts": [
+     "More than 1,300 matches in his career",
+     "4 European Golden Shoe awards",
+     "5-time FIFA Best Player"
+    ],
+    "why": "For crores of football fans around the world, including in India, this is the end of an era.",
+    "cat": "World · Football",
+    "statl": "Journey with Portugal team"
+   },
+   "hi": {
+    "h": "रोनाल्डो ने पुर्तगाल राष्ट्रीय टीम को अलविदा कहा; अब सिर्फ लीग मैच",
+    "p": "स्टार फुटबॉलर क्रिस्टियानो रोनाल्डो ने घोषणा की कि वे अब पुर्तगाल की राष्ट्रीय टीम के लिए नहीं खेलेंगे। उन्होंने कहा कि वे सिर्फ लीग मैचों में खेलते रहेंगे। वे 23 साल तक पुर्तगाल के लिए खेले और करियर में 1,300 से अधिक मैच खेले हैं। उन्होंने चार यूरोपियन गोल्डन शू पुरस्कार जीते हैं।",
+    "pts": [
+     "करियर में 1,300 से अधिक मैच",
+     "4 यूरोपियन गोल्डन शू पुरस्कार",
+     "5 बार फीफा बेस्ट प्लेयर"
+    ],
+    "why": "भारत समेत दुनिया भर के करोड़ों फुटबॉल प्रशंसकों के लिए यह एक युग का अंत है।",
+    "cat": "दुनिया · फुटबॉल",
+    "statl": "पुर्तगाल टीम के साथ सफर"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · టెక్ ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "~100",
+   "statl": "ప్రభావితమయ్యే మెటా ఉద్యోగులు",
+   "h": "మైక్రోసాఫ్ట్, గూగుల్ బాటలో మెటా: ఫ్రాన్స్‌లో స్వచ్ఛంద నిష్క్రమణ ఆఫర్",
+   "p": "మైక్రోసాఫ్ట్, గూగుల్ తర్వాత మెటా కూడా ఫ్రాన్స్‌లోని తన ఉద్యోగులకు స్వచ్ఛంద నిష్క్రమణ (వాలంటరీ ఎగ్జిట్) ఆఫర్ ప్రకటించింది. దీనిపై కార్మిక సంఘాలతో చర్చలు జరుగుతున్నాయి. ఫ్రాన్స్‌లో మెటాకు సుమారు 300 మంది ఉద్యోగులు ఉండగా, వారిలో దాదాపు 100 మందిపై ప్రభావం ఉంటుంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "world",
+    "jobs",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఫ్రాన్స్‌లో మెటాకు సుమారు 300 మంది ఉద్యోగులు",
+    "దాదాపు 100 మందిపై ప్రభావం",
+    "కార్మిక సంఘాలతో చర్చలు కొనసాగుతున్నాయి"
+   ],
+   "why": "పెద్ద టెక్ కంపెనీల్లో ఉద్యోగ కోతల ధోరణి ఐటీ ఉద్యోగులు గమనించాల్సిన విషయం.",
+   "en": {
+    "h": "Meta follows Microsoft, Google: voluntary exit offer in France",
+    "p": "After Microsoft and Google, Meta has also announced a voluntary exit offer for its employees in France. Talks are underway with labour unions on this. Meta has about 300 employees in France, and around 100 of them will be affected.",
+    "pts": [
+     "Meta has about 300 employees in France",
+     "Around 100 will be affected",
+     "Talks with labour unions are underway"
+    ],
+    "why": "The trend of job cuts at big tech companies is something IT employees should watch.",
+    "cat": "World · Tech jobs",
+    "statl": "Meta employees affected"
+   },
+   "hi": {
+    "h": "माइक्रोसॉफ्ट, गूगल की राह पर मेटा: फ्रांस में स्वैच्छिक निकास ऑफर",
+    "p": "माइक्रोसॉफ्ट और गूगल के बाद मेटा ने भी फ्रांस में अपने कर्मचारियों के लिए स्वैच्छिक निकास ऑफर की घोषणा की है। इस पर श्रमिक संघों से बातचीत चल रही है। फ्रांस में मेटा के लगभग 300 कर्मचारी हैं, जिनमें से करीब 100 प्रभावित होंगे।",
+    "pts": [
+     "फ्रांस में मेटा के लगभग 300 कर्मचारी",
+     "करीब 100 प्रभावित होंगे",
+     "श्रमिक संघों से बातचीत जारी"
+    ],
+    "why": "बड़ी टेक कंपनियों में नौकरियों में कटौती का रुझान आईटी कर्मचारियों के लिए ध्यान देने वाली बात है।",
+    "cat": "दुनिया · टेक नौकरियां",
+    "statl": "प्रभावित मेटा कर्मचारी"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "ఏపీ · ప్రకాశం",
    "col": "--c-water",

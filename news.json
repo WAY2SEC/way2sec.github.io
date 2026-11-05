@@ -1,8 +1,252 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T17:05:00+05:30",
+ "updated": "2026-11-05T17:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "58.55%",
+   "statl": "మధ్యాహ్నం 3 గంటల వరకు పోలింగ్",
+   "h": "ఏపీలో ముగిసిన పరిషత్ పోలింగ్: 3 గంటలకు 58.55%; 7న లెక్కింపు",
+   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జెడ్‌పీటీసీ ఎన్నికల పోలింగ్ గురువారం సాయంత్రం 5 గంటలకు ముగిసింది. ఆ సమయానికి క్యూలో ఉన్నవారికి ఓటు వేసే అవకాశం ఇచ్చారు. మధ్యాహ్నం 3 గంటల వరకు 58.55 శాతం పోలింగ్ నమోదైంది. కొన్నిచోట్ల చెదురుమదురు ఘటనలు మినహా పోలింగ్ ప్రశాంతంగా జరిగింది. ఓట్ల లెక్కింపు నవంబర్ 7న జరుగుతుంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "కోనసీమ జిల్లాలో 3 గంటలకు 53.37% పోలింగ్",
+    "కోనసీమలో అత్యధికం ఆలమూరు 62.62%, అత్యల్పం మల్కిపురం 39.77%",
+    "శ్రీకాకుళం జిల్లాలో 1 గంటకు 40.21% పోలింగ్"
+   ],
+   "why": "గ్రామీణ స్థానిక పాలనను నడిపే మండల, జిల్లా పరిషత్ ప్రతినిధులు ఎవరో 7న తేలనుంది.",
+   "en": {
+    "h": "AP parishad polling ends: 58.55% by 3 PM; counting on Nov 7",
+    "p": "Polling for MPTC and ZPTC elections in Andhra Pradesh ended at 5 pm on Thursday. Voters standing in queues at that time were allowed to vote. Turnout was 58.55 percent by 3 pm. Apart from scattered incidents at some places, polling was peaceful. Votes will be counted on November 7.",
+    "pts": [
+     "Konaseema district recorded 53.37% polling by 3 PM",
+     "In Konaseema, Alamuru highest at 62.62%, Malkipuram lowest at 39.77%",
+     "Srikakulam district recorded 40.21% polling by 1 PM"
+    ],
+    "why": "Who will run rural local bodies at mandal and district parishad level will be known on November 7.",
+    "cat": "AP · Parishad elections",
+    "statl": "Polling till 3 PM"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में परिषद मतदान समाप्त: 3 बजे तक 58.55%; 7 को मतगणना",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों का मतदान गुरुवार शाम 5 बजे समाप्त हुआ। उस समय कतार में खड़े मतदाताओं को वोट डालने दिया गया। दोपहर 3 बजे तक 58.55 प्रतिशत मतदान हुआ। कुछ जगहों पर छिटपुट घटनाओं को छोड़कर मतदान शांतिपूर्ण रहा। मतगणना 7 नवंबर को होगी।",
+    "pts": [
+     "कोनसीमा ज़िले में 3 बजे तक 53.37% मतदान",
+     "कोनसीमा में आलमुरु सबसे अधिक 62.62%, मलकिपुरम सबसे कम 39.77%",
+     "श्रीकाकुलम ज़िले में 1 बजे तक 40.21% मतदान"
+    ],
+    "why": "मंडल और ज़िला परिषद स्तर पर ग्रामीण स्थानीय निकाय कौन चलाएगा, यह 7 नवंबर को तय होगा।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "दोपहर 3 बजे तक मतदान"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ఏపీ · కర్నూలు",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "30",
+   "statl": "గుమ్మనూరు ఘర్షణలో గాయపడినవారు",
+   "h": "పరిషత్ పోలింగ్‌లో పలుచోట్ల ఘర్షణలు: కర్నూలు జిల్లాలో 30 మందికి గాయాలు",
+   "p": "పరిషత్ పోలింగ్ సందర్భంగా ఏపీలోని పలు ప్రాంతాల్లో రాజకీయ పార్టీల కార్యకర్తల మధ్య ఘర్షణలు జరిగాయి. కర్నూలు జిల్లా చిప్పగిరి మండలం గుమ్మనూరులో రెండు వర్గాలు రాళ్లు, కర్రలతో దాడి చేసుకోవడంతో 30 మంది గాయపడ్డారు. వారిని గుంతకల్లు ఆసుపత్రికి తరలించారు. కుప్పం, పోలవరం, వెంకటాచలం ప్రాంతాల్లోనూ ఉద్రిక్తత నెలకొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-kurnool",
+   "loc": "గుమ్మనూరు",
+   "pts": [
+    "కుప్పంలో రోడ్డుపై బైఠాయింపుతో 2 కి.మీ. ట్రాఫిక్ నిలిచింది",
+    "పోలవరంలో ఇరువర్గాలపై పోలీసుల లాఠీచార్జ్",
+    "సి.బెళగల్ మండలంలో ₹2 లక్షల నగదు స్వాధీనం"
+   ],
+   "why": "ఎన్నికల సమయంలో హింస ఓటర్ల భద్రతకు ముప్పు; ఇలాంటి చోట్ల పోలీసు బందోబస్తు కీలకం.",
+   "en": {
+    "h": "Clashes at several places during parishad polls; 30 injured in Kurnool district",
+    "p": "Clashes broke out between workers of political parties at several places in AP during parishad polling. At Gummanur in Chippagiri mandal of Kurnool district, two groups attacked each other with stones and sticks, injuring 30 people. They were shifted to a hospital in Guntakal. Tension was also seen in Kuppam, Polavaram and Venkatachalam areas.",
+    "pts": [
+     "Road blockade in Kuppam stopped traffic for 2 km",
+     "Police lathi-charged both groups in Polavaram",
+     "Rs 2 lakh cash seized in C. Belagal mandal"
+    ],
+    "why": "Violence during elections threatens voters' safety; police deployment is crucial in such places.",
+    "cat": "AP · Kurnool",
+    "statl": "Injured in Gummanur clash"
+   },
+   "hi": {
+    "h": "परिषद मतदान के दौरान कई जगह झड़पें: कर्नूल ज़िले में 30 घायल",
+    "p": "परिषद मतदान के दौरान आंध्र प्रदेश के कई इलाकों में राजनीतिक दलों के कार्यकर्ताओं के बीच झड़पें हुईं। कर्नूल ज़िले के चिप्पगिरि मंडल के गुम्मनूर में दो गुटों ने पत्थरों और लाठियों से हमला किया, जिसमें 30 लोग घायल हुए। उन्हें गुंतकल के अस्पताल ले जाया गया। कुप्पम, पोलावरम और वेंकटाचलम इलाकों में भी तनाव रहा।",
+    "pts": [
+     "कुप्पम में सड़क जाम से 2 किमी तक यातायात रुका",
+     "पोलावरम में पुलिस ने दोनों गुटों पर लाठीचार्ज किया",
+     "सी. बेलगल मंडल में ₹2 लाख नकद जब्त"
+    ],
+    "why": "चुनाव के समय हिंसा मतदाताओं की सुरक्षा के लिए खतरा है; ऐसी जगहों पर पुलिस तैनाती अहम है।",
+    "cat": "आंध्र प्रदेश · कर्नूल",
+    "statl": "गुम्मनूर झड़प में घायल"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "జార్ఖండ్ · బొకారో",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "బొగ్గు గని ప్రమాదంలో మృతులు",
+   "h": "జార్ఖండ్‌లోని బొకారోలో బొగ్గు గని ప్రమాదం: ముగ్గురు మృతి",
+   "p": "జార్ఖండ్ రాష్ట్రం బొకారోలో గురువారం బొగ్గు గనిలో ప్రమాదం జరిగింది. ఈ ఘటనలో ముగ్గురు ప్రాణాలు కోల్పోగా, మరో ముగ్గురు గాయపడ్డారు. గనుల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ఘటన మరోసారి దృష్టి సారించేలా చేసింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "india"
+   ],
+   "st": "JH",
+   "place": "IN",
+   "pts": [
+    "ప్రమాదం బొకారోలోని బొగ్గు గనిలో జరిగింది",
+    "ముగ్గురు మృతి చెందారు",
+    "మరో ముగ్గురికి గాయాలు"
+   ],
+   "why": "బొగ్గు గనుల్లో పనిచేసే కార్మికుల భద్రత ఎంత కీలకమో ఈ ఘటన చూపిస్తోంది.",
+   "en": {
+    "h": "Coal mine accident in Jharkhand's Bokaro: three dead",
+    "p": "An accident took place in a coal mine at Bokaro in Jharkhand on Thursday. Three people lost their lives and three others were injured. The incident has once again drawn attention to the safety of mine workers.",
+    "pts": [
+     "The accident occurred in a coal mine in Bokaro",
+     "Three people died",
+     "Three others were injured"
+    ],
+    "why": "The incident shows how crucial the safety of coal mine workers is.",
+    "cat": "Jharkhand · Bokaro",
+    "statl": "Dead in coal mine accident"
+   },
+   "hi": {
+    "h": "झारखंड के बोकारो में कोयला खदान हादसा: तीन की मौत",
+    "p": "झारखंड के बोकारो में गुरुवार को एक कोयला खदान में हादसा हुआ। इसमें तीन लोगों की जान चली गई और तीन अन्य घायल हुए। इस घटना ने खदान मज़दूरों की सुरक्षा पर फिर से ध्यान खींचा है।",
+    "pts": [
+     "हादसा बोकारो की कोयला खदान में हुआ",
+     "तीन लोगों की मौत हुई",
+     "तीन अन्य घायल हुए"
+    ],
+    "why": "यह घटना दिखाती है कि कोयला खदान मज़दूरों की सुरक्षा कितनी अहम है।",
+    "cat": "झारखंड · बोकारो",
+    "statl": "कोयला खदान हादसे में मृत"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఫుట్‌బాల్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "23 ఏళ్లు",
+   "statl": "పోర్చుగల్ జట్టుతో ప్రయాణం",
+   "h": "పోర్చుగల్ జాతీయ జట్టుకు రొనాల్డో వీడ్కోలు; ఇకపై లీగ్ మ్యాచ్‌లకే",
+   "p": "స్టార్ ఫుట్‌బాలర్ క్రిస్టియానో రొనాల్డో ఇకపై పోర్చుగల్ జాతీయ జట్టుకు ఆడబోనని ప్రకటించారు. లీగ్ మ్యాచ్‌లలో మాత్రమే కొనసాగుతానని తెలిపారు. 23 ఏళ్లుగా పోర్చుగల్ తరఫున ఆడిన ఆయన కెరీర్‌లో 1,300కు పైగా మ్యాచ్‌లు ఆడారు. నాలుగు యూరోపియన్ గోల్డెన్ షూ అవార్డులు గెలుచుకున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "world",
+    "sports"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "కెరీర్‌లో 1,300కు పైగా మ్యాచ్‌లు",
+    "4 యూరోపియన్ గోల్డెన్ షూ అవార్డులు",
+    "5 సార్లు ఫిఫా బెస్ట్ ప్లేయర్"
+   ],
+   "why": "ప్రపంచవ్యాప్తంగా, భారత్‌లోనూ ఉన్న కోట్లాది ఫుట్‌బాల్ అభిమానులకు ఇది ఓ యుగానికి ముగింపు.",
+   "en": {
+    "h": "Ronaldo bids farewell to Portugal national team; will play only league matches",
+    "p": "Star footballer Cristiano Ronaldo announced that he will no longer play for Portugal's national team. He said he will continue only in league matches. He played for Portugal for 23 years and has played more than 1,300 matches in his career. He has won four European Golden Shoe awards.",
+    "pts": [
+     "More than 1,300 matches in his career",
+     "4 European Golden Shoe awards",
+     "5-time FIFA Best Player"
+    ],
+    "why": "For crores of football fans around the world, including in India, this is the end of an era.",
+    "cat": "World · Football",
+    "statl": "Journey with Portugal team"
+   },
+   "hi": {
+    "h": "रोनाल्डो ने पुर्तगाल राष्ट्रीय टीम को अलविदा कहा; अब सिर्फ लीग मैच",
+    "p": "स्टार फुटबॉलर क्रिस्टियानो रोनाल्डो ने घोषणा की कि वे अब पुर्तगाल की राष्ट्रीय टीम के लिए नहीं खेलेंगे। उन्होंने कहा कि वे सिर्फ लीग मैचों में खेलते रहेंगे। वे 23 साल तक पुर्तगाल के लिए खेले और करियर में 1,300 से अधिक मैच खेले हैं। उन्होंने चार यूरोपियन गोल्डन शू पुरस्कार जीते हैं।",
+    "pts": [
+     "करियर में 1,300 से अधिक मैच",
+     "4 यूरोपियन गोल्डन शू पुरस्कार",
+     "5 बार फीफा बेस्ट प्लेयर"
+    ],
+    "why": "भारत समेत दुनिया भर के करोड़ों फुटबॉल प्रशंसकों के लिए यह एक युग का अंत है।",
+    "cat": "दुनिया · फुटबॉल",
+    "statl": "पुर्तगाल टीम के साथ सफर"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · టెక్ ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "~100",
+   "statl": "ప్రభావితమయ్యే మెటా ఉద్యోగులు",
+   "h": "మైక్రోసాఫ్ట్, గూగుల్ బాటలో మెటా: ఫ్రాన్స్‌లో స్వచ్ఛంద నిష్క్రమణ ఆఫర్",
+   "p": "మైక్రోసాఫ్ట్, గూగుల్ తర్వాత మెటా కూడా ఫ్రాన్స్‌లోని తన ఉద్యోగులకు స్వచ్ఛంద నిష్క్రమణ (వాలంటరీ ఎగ్జిట్) ఆఫర్ ప్రకటించింది. దీనిపై కార్మిక సంఘాలతో చర్చలు జరుగుతున్నాయి. ఫ్రాన్స్‌లో మెటాకు సుమారు 300 మంది ఉద్యోగులు ఉండగా, వారిలో దాదాపు 100 మందిపై ప్రభావం ఉంటుంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
+   "sec": [
+    "world",
+    "jobs",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఫ్రాన్స్‌లో మెటాకు సుమారు 300 మంది ఉద్యోగులు",
+    "దాదాపు 100 మందిపై ప్రభావం",
+    "కార్మిక సంఘాలతో చర్చలు కొనసాగుతున్నాయి"
+   ],
+   "why": "పెద్ద టెక్ కంపెనీల్లో ఉద్యోగ కోతల ధోరణి ఐటీ ఉద్యోగులు గమనించాల్సిన విషయం.",
+   "en": {
+    "h": "Meta follows Microsoft, Google: voluntary exit offer in France",
+    "p": "After Microsoft and Google, Meta has also announced a voluntary exit offer for its employees in France. Talks are underway with labour unions on this. Meta has about 300 employees in France, and around 100 of them will be affected.",
+    "pts": [
+     "Meta has about 300 employees in France",
+     "Around 100 will be affected",
+     "Talks with labour unions are underway"
+    ],
+    "why": "The trend of job cuts at big tech companies is something IT employees should watch.",
+    "cat": "World · Tech jobs",
+    "statl": "Meta employees affected"
+   },
+   "hi": {
+    "h": "माइक्रोसॉफ्ट, गूगल की राह पर मेटा: फ्रांस में स्वैच्छिक निकास ऑफर",
+    "p": "माइक्रोसॉफ्ट और गूगल के बाद मेटा ने भी फ्रांस में अपने कर्मचारियों के लिए स्वैच्छिक निकास ऑफर की घोषणा की है। इस पर श्रमिक संघों से बातचीत चल रही है। फ्रांस में मेटा के लगभग 300 कर्मचारी हैं, जिनमें से करीब 100 प्रभावित होंगे।",
+    "pts": [
+     "फ्रांस में मेटा के लगभग 300 कर्मचारी",
+     "करीब 100 प्रभावित होंगे",
+     "श्रमिक संघों से बातचीत जारी"
+    ],
+    "why": "बड़ी टेक कंपनियों में नौकरियों में कटौती का रुझान आईटी कर्मचारियों के लिए ध्यान देने वाली बात है।",
+    "cat": "दुनिया · टेक नौकरियां",
+    "statl": "प्रभावित मेटा कर्मचारी"
+   },
+   "d": "05.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "ఏపీ · ప్రకాశం",
    "col": "--c-water",
@@ -1512,248 +1756,6 @@
    },
    "d": "05.11.2026",
    "t": "11:05"
-  },
-  {
-   "cat": "భారత్ · వాణిజ్యం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "10%",
-   "statl": "భారత వస్తువులపై ప్రస్తుత అమెరికా సుంకం",
-   "h": "అమెరికా మధ్యంతర ఫలితాలతో వాణిజ్య ఒప్పందం తొందర తగ్గింది: ఎమ్‌కే నివేదిక",
-   "p": "అమెరికా కాంగ్రెస్‌పై రిపబ్లికన్ల పూర్తి నియంత్రణ ముగియడంతో, ఆ దేశంతో వాణిజ్య ఒప్పందం కోసం భారత్‌కు తొందర తగ్గిందని ఎమ్‌కే గ్లోబల్ నివేదిక తెలిపింది. 18% సుంకం ఎప్పుడూ అమలు కాలేదని, ప్రస్తుతం భారత వస్తువులపై 10% 'సెక్షన్ 301' సుంకం ఉందని పేర్కొంది. ఇకపై ఆకస్మిక సుంకాల షాక్‌ల ముప్పు తగ్గుతుందని అంచనా వేసింది.",
-   "pts": [
-    "ఫార్మా, ఎలక్ట్రానిక్స్‌పై సెక్షన్ 232 సుంకాలే ప్రధాన ముప్పు",
-    "బ్రెంట్ చమురు అక్టోబర్ గరిష్ఠం నుంచి 19% తగ్గింది",
-    "రూపాయి స్థిరత్వం, ఎగుమతులకు అనుకూలమని అంచనా"
-   ],
-   "why": "అమెరికాకు ఎగుమతి చేసే భారత పరిశ్రమలు, ఉద్యోగులు, రూపాయి విలువపై ఈ పరిణామం ప్రభావం చూపుతుంది.",
-   "src": "Telangana Today, PTI",
-   "url": "https://telanganatoday.com/urgency-of-a-trade-deal-with-us-fades-for-india-with-midterm-outcome-report",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "US midterm outcome eases urgency of trade deal for India: Emkay report",
-    "p": "With the end of unified Republican control of the US Congress, the urgency for India to strike a trade deal with the US has faded, an Emkay Global report said. It noted the 18% tariff rate was never implemented and Indian goods now face a 10% 'Section 301' duty. It expects a lower risk of surprise tariff shocks from now on.",
-    "pts": [
-     "Section 232 tariffs on pharma, electronics remain main risk",
-     "Brent crude down 19% from October highs",
-     "Seen as supportive of rupee stability and exports"
-    ],
-    "why": "This development affects Indian industries and workers exporting to the US, and the value of the rupee.",
-    "cat": "India · Trade",
-    "statl": "Current US duty on Indian goods"
-   },
-   "hi": {
-    "h": "अमेरिकी मध्यावधि नतीजों से भारत के लिए व्यापार समझौते की जल्दी घटी: एमके रिपोर्ट",
-    "p": "एमके ग्लोबल की रिपोर्ट के अनुसार अमेरिकी कांग्रेस पर रिपब्लिकन का पूरा नियंत्रण खत्म होने से भारत के लिए अमेरिका के साथ व्यापार समझौते की जल्दी कम हो गई है। रिपोर्ट ने कहा कि 18% शुल्क कभी लागू नहीं हुआ और अभी भारतीय सामान पर 10% 'सेक्शन 301' शुल्क है। आगे अचानक टैरिफ झटकों का खतरा कम रहने का अनुमान है।",
-    "pts": [
-     "फार्मा, इलेक्ट्रॉनिक्स पर सेक्शन 232 शुल्क मुख्य जोखिम",
-     "ब्रेंट कच्चा तेल अक्टूबर के उच्च स्तर से 19% नीचे",
-     "रुपये की स्थिरता और निर्यात के लिए अनुकूल माना गया"
-    ],
-    "why": "यह घटनाक्रम अमेरिका को निर्यात करने वाले भारतीय उद्योगों, कर्मचारियों और रुपये के मूल्य पर असर डालता है।",
-    "cat": "भारत · व्यापार",
-    "statl": "भारतीय सामान पर मौजूदा अमेरिकी शुल्क"
-   },
-   "d": "05.11.2026",
-   "t": "11:05"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "54",
-   "statl": "డెమొక్రాట్లకు కనీస సెనేట్ సీట్లు",
-   "h": "అమెరికా సెనేట్ కూడా డెమొక్రాట్ల వశం: సీబీఎస్ అంచనా",
-   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో సెనేట్ నియంత్రణను డెమొక్రాట్లు గెలుచుకున్నారని సీబీఎస్ న్యూస్ అంచనా వేసింది. జనవరి నుంచి వారు కనీసం 54 సీట్లతో ఎగువ సభను నియంత్రించనున్నారు. టెక్సస్, కాన్సస్, సౌత్ కరోలినాల్లో అనూహ్య విజయాలు సాధించగా, మెయిన్, అయోవా, ఒహాయో, నార్త్ కరోలినా స్థానాలను రిపబ్లికన్ల నుంచి కైవసం చేసుకున్నారు. అలాస్కా, మిసిసిపీ ఫలితాలు ఇంకా తేలలేదు.",
-   "pts": [
-    "జార్జియా, న్యూహాంప్‌షైర్, మిషిగన్ స్థానాలను నిలబెట్టుకున్నారు",
-    "ట్రంప్‌ను చట్టపరంగా అడ్డుకుంటామన్న షూమర్",
-    "ప్రతినిధుల సభలోనూ రిపబ్లికన్లు మెజారిటీ కోల్పోయారు"
-   ],
-   "why": "కాంగ్రెస్ రెండు సభల్లో మార్పు అమెరికా వీసా, వాణిజ్య విధానాలపై ప్రభావం చూపవచ్చు; అక్కడి తెలుగువారికి ఇది కీలకం.",
-   "src": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "Democrats win US Senate too: CBS projection",
-    "p": "Democrats have won control of the Senate in the US midterm elections, CBS News projects. From January they will control the upper chamber with at least 54 seats. They scored upsets in Texas, Kansas and South Carolina and flipped Maine, Iowa, Ohio and North Carolina from Republicans. Results in Alaska and Mississippi are still undecided.",
-    "pts": [
-     "Held seats in Georgia, New Hampshire and Michigan",
-     "Schumer vows to check Trump through law and legislation",
-     "Republicans also lost their House majority"
-    ],
-    "why": "The change in both houses of Congress could affect US visa and trade policies; it matters to Telugu people there.",
-    "cat": "World · US",
-    "statl": "Minimum Senate seats for Democrats"
-   },
-   "hi": {
-    "h": "अमेरिकी सीनेट भी डेमोक्रेट्स के कब्ज़े में: सीबीएस अनुमान",
-    "p": "सीबीएस न्यूज़ के अनुमान के अनुसार अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स ने सीनेट का नियंत्रण जीत लिया है। जनवरी से वे कम से कम 54 सीटों के साथ ऊपरी सदन को नियंत्रित करेंगे। उन्होंने टेक्सस, कैनसस और साउथ कैरोलिना में अप्रत्याशित जीत दर्ज की और मेन, आयोवा, ओहायो और नॉर्थ कैरोलिना की सीटें रिपब्लिकन से छीन लीं। अलास्का और मिसिसिपी के नतीजे अभी तय नहीं हुए हैं।",
-    "pts": [
-     "जॉर्जिया, न्यू हैम्पशायर और मिशिगन की सीटें बरकरार रखीं",
-     "शूमर ने कानून और विधायी तरीकों से ट्रंप को रोकने का संकल्प लिया",
-     "प्रतिनिधि सभा में भी रिपब्लिकन ने बहुमत खोया"
-    ],
-    "why": "कांग्रेस के दोनों सदनों में बदलाव से अमेरिकी वीज़ा और व्यापार नीतियों पर असर पड़ सकता है; वहाँ रहने वाले तेलुगु लोगों के लिए यह अहम है।",
-    "cat": "विश्व · अमेरिका",
-    "statl": "डेमोक्रेट्स की न्यूनतम सीनेट सीटें"
-   },
-   "d": "05.11.2026",
-   "t": "11:05"
-  },
-  {
-   "cat": "ఏపీ · పల్నాడు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "12.06%",
-   "statl": "ఉదయం 9 గంటలకు పోలింగ్",
-   "h": "పల్నాడు పరిషత్ ఎన్నికలు: ఉదయం 9 గంటలకు 12.06% పోలింగ్",
-   "p": "పల్నాడు జిల్లాలో జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల్లో గురువారం ఉదయం 9 గంటల వరకు 12.06 శాతం ఓటింగ్ నమోదైంది. 11 మండలాల్లోని 576 పోలింగ్ కేంద్రాల్లో మొత్తం 4,60,784 మంది ఓటర్లలో 55,583 మంది ఓటు వేశారు. పిడుగురాళ్ల మండలంలో అత్యధికంగా 18.55%, చిలకలూరిపేటలో అత్యల్పంగా 4.63% పోలింగ్ జరిగిందని జిల్లా ఎన్నికల అధికారులు తెలిపారు.",
-   "pts": [
-    "పిడుగురాళ్ల 18.55%, గురజాల 16.77%, సత్తెనపల్లి 16.76%",
-    "చిలకలూరిపేటలో అత్యల్పంగా 4.63% పోలింగ్",
-    "జిల్లా అంతటా పోలింగ్ ప్రశాంతంగా జరిగిందని నివేదిక"
-   ],
-   "why": "పల్నాడు గ్రామీణ ఓటర్లు ఇంకా ఓటు వేయని వారు సాయంత్రంలోగా పోలింగ్ కేంద్రానికి వెళ్లవచ్చు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/palnadu-district-records-1206-polling-in-zptc-mptc-elections-1139420",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-palnadu",
-   "en": {
-    "cat": "AP · Palnadu",
-    "statl": "Polling by 9 am",
-    "h": "Palnadu parishad polls: 12.06% turnout by 9 am",
-    "p": "In Palnadu district, 12.06 per cent turnout was recorded in the ZPTC and MPTC elections by 9 am on Thursday. Of 4,60,784 voters, 55,583 cast their votes at 576 polling stations in 11 mandals. District election officials said Piduguralla mandal recorded the highest turnout at 18.55% and Chilakaluripet the lowest at 4.63%.",
-    "pts": [
-     "Piduguralla 18.55%, Gurazala 16.77%, Sattenapalli 16.76%",
-     "Lowest turnout of 4.63% in Chilakaluripet",
-     "Report says polling was peaceful across the district"
-    ],
-    "why": "Rural voters in Palnadu who have not yet voted can still go to their polling station by evening."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · पलनाडु",
-    "statl": "सुबह 9 बजे तक मतदान",
-    "h": "पलनाडु परिषद चुनाव: सुबह 9 बजे तक 12.06% मतदान",
-    "p": "पलनाडु जिले में जेडपीटीसी और एमपीटीसी चुनावों में गुरुवार सुबह 9 बजे तक 12.06 प्रतिशत मतदान दर्ज हुआ। 11 मंडलों के 576 मतदान केंद्रों पर कुल 4,60,784 मतदाताओं में से 55,583 ने वोट डाला। जिला चुनाव अधिकारियों के अनुसार पिडुगुराल्ला मंडल में सबसे अधिक 18.55% और चिलकलूरिपेट में सबसे कम 4.63% मतदान हुआ।",
-    "pts": [
-     "पिडुगुराल्ला 18.55%, गुरजाला 16.77%, सत्तेनपल्ली 16.76%",
-     "चिलकलूरिपेट में सबसे कम 4.63% मतदान",
-     "रिपोर्ट के अनुसार पूरे जिले में मतदान शांतिपूर्ण रहा"
-    ],
-    "why": "पलनाडु के जिन ग्रामीण मतदाताओं ने अभी वोट नहीं डाला है, वे शाम तक मतदान केंद्र जा सकते हैं।"
-   },
-   "d": "05.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఆసిఫాబాద్",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "నవం.16",
-   "statl": "ప్రత్యేక తనిఖీ డ్రైవ్ ప్రారంభం",
-   "h": "ఆసిఫాబాద్ జిల్లాలో ప్రతి గ్రామానికి రోజూ తాగునీరు: కలెక్టర్ ఆదేశం",
-   "p": "కుమురం భీం ఆసిఫాబాద్ జిల్లాలో ఏ గ్రామానికీ తాగునీటి కొరత రాకూడదని కలెక్టర్ కె.హరిత అధికారులను ఆదేశించారు. పంచాయతీరాజ్, మిషన్ భగీరథ, ఇంట్రా గ్రిడ్ అధికారులతో సమీక్షించిన ఆమె, నవంబర్ 16 నుంచి డిసెంబర్ 31 వరకు ప్రత్యేక తనిఖీ డ్రైవ్ ప్రకటించారు. బోర్‌వెల్‌లు, మోటార్లు, ట్యాంకులు, పైప్‌లైన్లు పరిశీలించి వెంటనే మరమ్మతులు చేయాలని సూచించారు.",
-   "pts": [
-    "నవంబర్ 16 – డిసెంబర్ 31 ప్రత్యేక తనిఖీలు",
-    "బోర్‌వెల్‌లు, ఓవర్‌హెడ్ ట్యాంకులు, పైప్‌లైన్ల పరిశీలన",
-    "శాఖలు యుద్ధప్రాతిపదికన సమన్వయంతో పనిచేయాలని సూచన"
-   ],
-   "why": "జిల్లా గ్రామాల ప్రజలకు తాగునీటి సరఫరాలో అంతరాయాలు తగ్గే అవకాశం ఉంది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/telangana/collector-haritha-directs-officials-to-ensure-uninterrupted-drinking-water-supply-1139428",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "asifabad",
-   "en": {
-    "cat": "Telangana · Asifabad",
-    "statl": "Special inspection drive begins",
-    "h": "Daily drinking water for every Asifabad village: Collector's order",
-    "p": "Kumuram Bheem Asifabad District Collector K. Haritha directed officials to ensure that no village faces a drinking water shortage. Reviewing with Panchayat Raj, Mission Bhagiratha and Intra-Grid officials, she announced a special inspection drive from November 16 to December 31. She asked them to check borewells, motors, tanks and pipelines and carry out repairs immediately.",
-    "pts": [
-     "Special inspections from November 16 to December 31",
-     "Borewells, overhead tanks and pipelines to be checked",
-     "Departments told to coordinate on a war footing"
-    ],
-    "why": "Villagers in the district may face fewer disruptions in drinking water supply."
-   },
-   "hi": {
-    "cat": "तेलंगाना · आसिफाबाद",
-    "statl": "विशेष निरीक्षण अभियान की शुरुआत",
-    "h": "आसिफाबाद के हर गांव को रोज पेयजल: कलेक्टर का आदेश",
-    "p": "कुमुरम भीम आसिफाबाद की जिला कलेक्टर के. हरिता ने अधिकारियों को निर्देश दिया कि किसी भी गांव में पेयजल की कमी न हो। पंचायत राज, मिशन भगीरथ और इंट्रा-ग्रिड अधिकारियों के साथ समीक्षा में उन्होंने 16 नवंबर से 31 दिसंबर तक विशेष निरीक्षण अभियान की घोषणा की। बोरवेल, मोटर, टंकियों और पाइपलाइनों की जांच कर तुरंत मरम्मत करने को कहा।",
-    "pts": [
-     "16 नवंबर से 31 दिसंबर तक विशेष निरीक्षण",
-     "बोरवेल, ओवरहेड टंकियों और पाइपलाइनों की जांच",
-     "विभागों को युद्धस्तर पर समन्वय करने का निर्देश"
-    ],
-    "why": "जिले के गांवों में पेयजल आपूर्ति में रुकावटें कम हो सकती हैं।"
-   },
-   "d": "05.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "తమిళనాడు · చెన్నై",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "+₹2,280",
-   "statl": "సవరన్ బంగారంపై పెరుగుదల",
-   "h": "చెన్నైలో బంగారం ధర జోరు: సవరన్‌పై ₹2,280 పెరుగుదల",
-   "p": "చెన్నైలో గురువారం 22 క్యారెట్ల బంగారం ధర సవరన్ (8 గ్రాములు)కు ₹2,280 పెరిగి ₹1,07,080కు చేరింది. గ్రాము ధర ₹285 పెరిగి ₹13,385 అయింది. బుధవారం సవరన్ ధర ₹1,04,800గా ఉంది. వెండి ధర మాత్రం మారకుండా గ్రాముకు ₹210 వద్ద ఉంది. ఏడాది క్రితంతో పోలిస్తే బంగారం సుమారు 19.72% పెరిగింది.",
-   "pts": [
-    "22 క్యారెట్ గ్రాము ధర ₹13,385",
-    "వెండి గ్రాముకు ₹210, మార్పు లేదు",
-    "ఏడాదిలో సవరన్‌పై ₹17,640 పెరుగుదల"
-   ],
-   "why": "పెళ్లిళ్లు, పండుగల కోసం బంగారం కొనాలనుకునే చెన్నై కుటుంబాలపై ఖర్చు భారం పెరుగుతుంది.",
-   "src": "DT Next",
-   "url": "https://www.dtnext.in/news/chennai/chennai-gold-price-rises-by-rs-2280-on-november-5-2026-check-todays-gold-silver-rate",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "TN",
-   "place": "tn-chennai",
-   "en": {
-    "cat": "Tamil Nadu · Chennai",
-    "statl": "Rise per sovereign of gold",
-    "h": "Gold surges in Chennai: up ₹2,280 per sovereign",
-    "p": "In Chennai on Thursday, the price of 22-carat gold rose by ₹2,280 per sovereign (8 grams) to ₹1,07,080. The price per gram rose by ₹285 to ₹13,385. On Wednesday a sovereign cost ₹1,04,800. Silver was unchanged at ₹210 per gram. Compared with a year ago, gold is up about 19.72%.",
-    "pts": [
-     "22-carat gold at ₹13,385 per gram",
-     "Silver unchanged at ₹210 per gram",
-     "Up ₹17,640 per sovereign in a year"
-    ],
-    "why": "Chennai families planning to buy gold for weddings and festivals will have to spend more."
-   },
-   "hi": {
-    "cat": "तमिलनाडु · चेन्नई",
-    "statl": "प्रति सॉवरेन सोने में बढ़ोतरी",
-    "h": "चेन्नई में सोने में उछाल: प्रति सॉवरेन ₹2,280 की बढ़ोतरी",
-    "p": "चेन्नई में गुरुवार को 22 कैरेट सोने का दाम प्रति सॉवरेन (8 ग्राम) ₹2,280 बढ़कर ₹1,07,080 हो गया। प्रति ग्राम दाम ₹285 बढ़कर ₹13,385 हो गया। बुधवार को एक सॉवरेन ₹1,04,800 का था। चांदी बिना बदलाव के ₹210 प्रति ग्राम पर रही। एक साल पहले की तुलना में सोना करीब 19.72% महंगा है।",
-    "pts": [
-     "22 कैरेट सोना ₹13,385 प्रति ग्राम",
-     "चांदी ₹210 प्रति ग्राम, कोई बदलाव नहीं",
-     "एक साल में प्रति सॉवरेन ₹17,640 की बढ़ोतरी"
-    ],
-    "why": "शादी और त्योहारों के लिए सोना खरीदने वाले चेन्नई के परिवारों को ज्यादा खर्च करना होगा।"
-   },
-   "d": "05.11.2026",
-   "t": "10:35"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
