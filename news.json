@@ -1,8 +1,199 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T13:05:00+05:30",
+ "updated": "2026-11-05T13:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · సుప్రీంకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "ఏపీలోనే",
+   "statl": "లడ్డూ కల్తీ కేసు విచారణ కొనసాగింపు",
+   "h": "తిరుమల లడ్డూ కల్తీ కేసు విచారణ ఏపీ బయటకు మార్చం: సుప్రీంకోర్టు",
+   "p": "తిరుపతి లడ్డూ నెయ్యి కల్తీ కేసు విచారణను ఆంధ్రప్రదేశ్ వెలుపలికి మార్చాలన్న పిటిషన్‌ను సుప్రీంకోర్టు గురువారం తోసిపుచ్చింది. ప్రస్తుత దశలో బదిలీకి తగిన కారణం లేదని సీజేఐ సూర్యకాంత్, జస్టిస్ జోయ్‌మాల్య బాగ్చీ ధర్మాసనం పేర్కొంది. రాజకీయ ప్రకటనల వల్ల విచారణ న్యాయంగా జరగదని పిటిషనర్ల తరఫు న్యాయవాది వాదించారు. అలాంటి సమస్య తలెత్తితే మళ్లీ కోర్టును ఆశ్రయించవచ్చని ధర్మాసనం సూచించింది.",
+   "src": "Telangana Today (IANS)",
+   "url": "https://telanganatoday.com/no-grounds-to-transfer-tirupati-laddu-adulteration-case-outside-andhra-sc",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఒక వ్యక్తి, ఒక పాల ఉత్పత్తుల సంస్థ బదిలీ పిటిషన్ దాఖలు",
+    "సీబీఐ పర్యవేక్షణలోని సిట్ జనవరిలో తుది ఛార్జిషీట్",
+    "నెల్లూరు ఏసీబీ కోర్టులో ఛార్జిషీట్ దాఖలు"
+   ],
+   "why": "తిరుమల భక్తుల మనోభావాలతో ముడిపడిన ఈ కేసు విచారణ ఇక ఏపీలోనే కొనసాగుతుంది.",
+   "d": "05.11.2026",
+   "t": "13:35",
+   "en": {
+    "h": "Tirumala laddu adulteration trial will not move out of AP: Supreme Court",
+    "p": "The Supreme Court on Thursday rejected a petition to transfer the trial in the Tirupati laddu ghee adulteration case outside Andhra Pradesh. A bench of CJI Surya Kant and Justice Joymalya Bagchi said no case was made out for a transfer at this stage. The petitioners' counsel argued that political statements would prevent a fair trial. The bench said they could approach the court again if such an issue arose.",
+    "pts": [
+     "An individual and a milk products firm sought the transfer",
+     "CBI-supervised SIT filed final charge sheet in January",
+     "Charge sheet was filed before Nellore ACB court"
+    ],
+    "why": "This case, linked to the sentiments of Tirumala devotees, will now continue to be tried in AP.",
+    "cat": "Andhra Pradesh · Supreme Court",
+    "statl": "Laddu adulteration trial stays in AP"
+   },
+   "hi": {
+    "h": "तिरुमला लड्डू मिलावट मामले की सुनवाई आंध्र से बाहर नहीं होगी: सुप्रीम कोर्ट",
+    "p": "सुप्रीम कोर्ट ने गुरुवार को तिरुपति लड्डू घी मिलावट मामले की सुनवाई आंध्र प्रदेश से बाहर स्थानांतरित करने की याचिका खारिज कर दी। सीजेआई सूर्यकांत और जस्टिस जॉयमाल्य बागची की पीठ ने कहा कि इस चरण में स्थानांतरण का कोई आधार नहीं है। याचिकाकर्ताओं के वकील ने दलील दी कि राजनीतिक बयानों के कारण निष्पक्ष सुनवाई नहीं होगी। पीठ ने कहा कि ऐसी समस्या आने पर वे फिर से अदालत आ सकते हैं।",
+    "pts": [
+     "एक व्यक्ति और एक दुग्ध उत्पाद कंपनी ने याचिका दायर की",
+     "सीबीआई निगरानी वाली एसआईटी ने जनवरी में अंतिम आरोपपत्र दिया",
+     "नेल्लोर एसीबी अदालत में आरोपपत्र दाखिल"
+    ],
+    "why": "तिरुमला भक्तों की भावनाओं से जुड़े इस मामले की सुनवाई अब आंध्र प्रदेश में ही जारी रहेगी।",
+    "cat": "आंध्र प्रदेश · सुप्रीम कोर्ट",
+    "statl": "लड्डू मिलावट मामले की सुनवाई आंध्र में ही"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · బంగారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,46,020",
+   "statl": "10 గ్రాముల 24 క్యారెట్ బంగారం ధర",
+   "h": "ధన్‌తేరస్ ముందు హైదరాబాద్‌లో బంగారం జోరు: 10 గ్రాములు ₹1,46,020",
+   "p": "హైదరాబాద్‌లో గురువారం 24 క్యారెట్ బంగారం ధర 10 గ్రాములకు ₹3,220 పెరిగి ₹1,46,020కి చేరింది. 22 క్యారెట్ ధర ₹2,950 పెరిగి ₹1,33,850 అయింది. నవంబర్ 1 నుంచి వరుసగా నాలుగు సెషన్లలో ధర సుమారు 5.1% ఎగబాకింది. ఈ ధరలకు తయారీ ఛార్జీలు, 3% జీఎస్టీ అదనం. చార్మినార్ వద్ద చిన్న దుకాణాలు చివరి కస్టమర్ వెళ్లే వరకు తెరిచే ఉంచనున్నాయి.",
+   "src": "Upstox",
+   "url": "https://upstox.com/news/personal-finance/commodities/gold-rate-today-hyderabad-november-5-prices-jump-5-in-the-lead-up-to-dhanteras-2026/article-203039/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "18 క్యారెట్: 10 గ్రాములు ₹1,09,520",
+    "ఒక్క రోజులో దాదాపు 2.25% పెరుగుదల",
+    "అక్టోబర్ 29 నాటి గ్రాము ధర ₹14,395 దాటింది"
+   ],
+   "why": "ధన్‌తేరస్‌కు బంగారం కొనాలనుకునే కుటుంబాల బడ్జెట్‌పై ఈ పెరుగుదల నేరుగా ప్రభావం చూపుతుంది.",
+   "d": "05.11.2026",
+   "t": "13:35",
+   "en": {
+    "h": "Gold surges in Hyderabad ahead of Dhanteras: ₹1,46,020 per 10 grams",
+    "p": "In Hyderabad on Thursday, 24-carat gold rose by ₹3,220 per 10 grams to ₹1,46,020. The 22-carat rate went up by ₹2,950 to ₹1,33,850. Since November 1, the price has climbed about 5.1% over four straight sessions. Making charges and 3% GST are extra on these rates. Small shops near Charminar plan to stay open until the last customer leaves.",
+    "pts": [
+     "18 carat: ₹1,09,520 per 10 grams",
+     "About 2.25% rise in a single day",
+     "Crossed October 29's ₹14,395 per gram level"
+    ],
+    "why": "This rise directly hits the budget of families planning to buy gold for Dhanteras.",
+    "cat": "Hyderabad · Gold",
+    "statl": "Price of 10 grams of 24-carat gold"
+   },
+   "hi": {
+    "h": "धनतेरस से पहले हैदराबाद में सोने में तेजी: 10 ग्राम ₹1,46,020",
+    "p": "हैदराबाद में गुरुवार को 24 कैरेट सोना 10 ग्राम पर ₹3,220 बढ़कर ₹1,46,020 पर पहुंच गया। 22 कैरेट का भाव ₹2,950 बढ़कर ₹1,33,850 हो गया। 1 नवंबर से लगातार चार सत्रों में कीमत करीब 5.1% चढ़ी है। इन दामों पर मेकिंग चार्ज और 3% जीएसटी अलग से लगेगा। चारमीनार के पास छोटी दुकानें आखिरी ग्राहक के जाने तक खुली रहेंगी।",
+    "pts": [
+     "18 कैरेट: 10 ग्राम ₹1,09,520",
+     "एक ही दिन में करीब 2.25% की बढ़त",
+     "29 अक्टूबर का ₹14,395 प्रति ग्राम स्तर पार"
+    ],
+    "why": "यह बढ़ोतरी धनतेरस पर सोना खरीदने वाले परिवारों के बजट पर सीधा असर डालती है।",
+    "cat": "हैदराबाद · सोना",
+    "statl": "24 कैरेट सोने के 10 ग्राम का भाव"
+   }
+  },
+  {
+   "cat": "భారత్ · సుప్రీంకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "24 గంటలు",
+   "statl": "నిర్బంధించిన సమయం నుంచే లెక్క",
+   "h": "నిర్బంధించిన క్షణం నుంచే 24 గంటల గడువు: సుప్రీంకోర్టు",
+   "p": "నిందితుడిని 24 గంటల్లోగా జ్యుడీషియల్ మేజిస్ట్రేట్ ఎదుట హాజరుపరచాల్సిన గడువు అధికారిక అరెస్ట్ సమయం నుంచి మాత్రమే కాదని, నిర్బంధించిన సమయం నుంచే మొదలవుతుందని సుప్రీంకోర్టు గురువారం స్పష్టం చేసింది. మరో తీర్పులో, స్వాతంత్ర్య సమరయోధుల పింఛన్ దావాల్లో అధికారులు కఠిన రుజువుల కోసం పట్టుబట్టకుండా ఆచరణాత్మకంగా వ్యవహరించాలని సూచించింది.",
+   "src": "LiveLaw",
+   "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-05-november-2026-557408",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "గడువు లెక్క అధికారిక అరెస్ట్ నుంచి మాత్రమే కాదు",
+    "సమరయోధుల పింఛన్లపై ఆచరణాత్మక విధానం అవసరం"
+   ],
+   "why": "పోలీసులు అదుపులోకి తీసుకునే ప్రతి వ్యక్తి హక్కులకు ఈ స్పష్టత వర్తిస్తుంది.",
+   "d": "05.11.2026",
+   "t": "13:35",
+   "en": {
+    "h": "24-hour deadline runs from the moment of detention: Supreme Court",
+    "p": "The Supreme Court on Thursday clarified that the 24-hour period to produce an accused before a Judicial Magistrate runs from the time of detention, not just from the time of formal arrest. In another ruling, it said authorities must take a practical approach in freedom fighters' pension claims instead of insisting on strict proof.",
+    "pts": [
+     "Deadline is not counted only from formal arrest",
+     "Practical approach needed in freedom fighters' pension claims"
+    ],
+    "why": "This clarity applies to the rights of every person taken into custody by police.",
+    "cat": "India · Supreme Court",
+    "statl": "Counted from the time of detention"
+   },
+   "hi": {
+    "h": "हिरासत के क्षण से ही शुरू होती है 24 घंटे की समय सीमा: सुप्रीम कोर्ट",
+    "p": "सुप्रीम कोर्ट ने गुरुवार को स्पष्ट किया कि आरोपी को 24 घंटे के भीतर न्यायिक मजिस्ट्रेट के सामने पेश करने की अवधि सिर्फ औपचारिक गिरफ्तारी से नहीं, बल्कि हिरासत में लेने के समय से शुरू होती है। एक अन्य फैसले में कोर्ट ने कहा कि स्वतंत्रता सेनानी पेंशन दावों में अधिकारी सख्त सबूत पर अड़ने के बजाय व्यावहारिक रवैया अपनाएं।",
+    "pts": [
+     "समय सीमा सिर्फ औपचारिक गिरफ्तारी से नहीं गिनी जाएगी",
+     "स्वतंत्रता सेनानी पेंशन पर व्यावहारिक रवैया जरूरी"
+    ],
+    "why": "यह स्पष्टता पुलिस हिरासत में लिए जाने वाले हर व्यक्ति के अधिकारों पर लागू होती है।",
+    "cat": "भारत · सुप्रीम कोर्ट",
+    "statl": "हिरासत के समय से गिनती"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "US-ఇరాన్",
+   "statl": "శత్రుత్వం కొనసాగుతుందన్న ఖమేనీ",
+   "h": "అమెరికా శత్రుత్వం కొనసాగుతుంది: ఇరాన్ సుప్రీం లీడర్ ఖమేనీ",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల ఫలితాలతో ఏమీ మారదని, ఇరాన్‌పై అమెరికా శత్రుత్వం కొనసాగుతుందని ఇరాన్ సుప్రీం లీడర్ మొజ్తబా ఖమేనీ అన్నారు. మరోవైపు ఇరాన్‌పై దాడే రిపబ్లికన్ పార్టీ మధ్యంతర ఓటమికి ప్రధాన కారణమని అమెరికా అధ్యక్షుడు ట్రంప్ అంగీకరించారు. అయితే ఇరాన్ అణ్వాయుధం తయారు చేయకుండా అడ్డుకోవడానికి అది తప్పనిసరి అని ఆయన పేర్కొన్నారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మధ్యంతర ఫలితాలపై నవంబర్ 4న టెహ్రాన్ ఎద్దేవా",
+    "టెహ్రాన్ ఎంఘెలాబ్ స్క్వేర్‌లో నవంబర్ 4న ర్యాలీ",
+    "ఎన్నికల ఓటమికి దాడే కారణమన్న ట్రంప్"
+   ],
+   "why": "గల్ఫ్‌లో పనిచేస్తున్న తెలుగువారి భద్రత, చమురు ధరలు ఈ ఉద్రిక్తతలతో ముడిపడి ఉన్నాయి.",
+   "d": "05.11.2026",
+   "t": "13:35",
+   "en": {
+    "h": "US hostility will persist: Iran's Supreme Leader Khamenei",
+    "p": "Iran's Supreme Leader Mojtaba Khamenei said the US midterm election results change nothing and that US hostility towards Iran will persist. Meanwhile, US President Trump admitted that the attack on Iran was largely behind the Republican Party's midterm losses. But he said it had to be done to stop Iran from developing a nuclear weapon.",
+    "pts": [
+     "Tehran taunted Trump over midterm results on November 4",
+     "Rally held in Tehran's Enqelab Square on November 4",
+     "Trump says the attack caused the election loss"
+    ],
+    "why": "The safety of Telugu people working in the Gulf and oil prices are tied to these tensions.",
+    "cat": "World · Iran",
+    "statl": "Khamenei says hostility will persist"
+   },
+   "hi": {
+    "h": "अमेरिका की दुश्मनी जारी रहेगी: ईरान के सर्वोच्च नेता खामेनेई",
+    "p": "ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने कहा कि अमेरिकी मध्यावधि चुनाव नतीजों से कुछ नहीं बदलेगा और ईरान के प्रति अमेरिका की दुश्मनी जारी रहेगी। वहीं अमेरिकी राष्ट्रपति ट्रंप ने माना कि ईरान पर हमला रिपब्लिकन पार्टी की मध्यावधि हार की मुख्य वजह रहा। लेकिन उन्होंने कहा कि ईरान को परमाणु हथियार बनाने से रोकने के लिए यह जरूरी था।",
+    "pts": [
+     "4 नवंबर को तेहरान ने मध्यावधि नतीजों पर ट्रंप पर तंज कसा",
+     "4 नवंबर को तेहरान के एंगेलाब स्क्वायर में रैली",
+     "ट्रंप ने चुनावी हार की वजह हमले को माना"
+    ],
+    "why": "खाड़ी में काम करने वाले तेलुगु लोगों की सुरक्षा और तेल कीमतें इन तनावों से जुड़ी हैं।",
+    "cat": "दुनिया · ईरान",
+    "statl": "खामेनेई बोले, दुश्मनी जारी रहेगी"
+   }
+  },
   {
    "cat": "భారత్ · సైబర్ భద్రత",
    "col": "--c-money",
@@ -1562,201 +1753,6 @@
    },
    "d": "05.11.2026",
    "t": "08:05"
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "నవంబర్ 7",
-   "statl": "నుంచి చలి పెరిగే అవకాశం",
-   "h": "నేడు అక్కడక్కడ ఉరుముల వానలు; నవంబర్ 7 నుంచి చలి తీవ్రం",
-   "p": "మురసు తుపాను ప్రభావం ముగిసినా, మిగిలిన తేమ వల్ల నేడు తెలంగాణలో అక్కడక్కడ ఉరుములతో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు. హైదరాబాద్‌లో మధ్యాహ్నం వరకు పొడి వాతావరణం, తర్వాత కొన్నిచోట్ల చిరుజల్లులు. నవంబర్ 7–8 నాటికి వర్షాలు తగ్గి, ఉష్ణోగ్రతలు పడిపోయి చలి పెరుగుతుందని తెలంగాణ వెదర్‌మ్యాన్ అంచనా.",
-   "pts": [
-    "నల్గొండ, సూర్యాపేట, ఖమ్మం, కొత్తగూడెంలో ఉరుముల వానలు",
-    "ఇవి భారీ వర్షాలు కావు, కొద్దిసేపే",
-    "హైదరాబాద్‌లో భారీ వర్షం భయం లేదు"
-   ],
-   "why": "రైతులు, ప్రయాణికులు నేటి వానలకు, వచ్చే వారం చలికి సిద్ధంగా ఉండాలి.",
-   "src": "NewsMeter",
-   "url": "https://telugu.newsmeter.in/telangana/telangana-weather-update-scattered-thunderstorms-likely-today-cold-wave-to-set-in-from-nov-7-778758",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "en": {
-    "cat": "Telangana · Weather",
-    "statl": "Cold likely to intensify from",
-    "h": "Scattered thundershowers today; cold to intensify from November 7",
-    "p": "Though Cyclone Murasu's effect has ended, leftover moisture may bring isolated thunderstorms with light to moderate rain in parts of Telangana today. Hyderabad will stay dry till afternoon, with light showers in some areas later. Telangana Weatherman expects rain to subside by November 7–8, with temperatures falling and cold increasing.",
-    "pts": [
-     "Thundershowers in Nalgonda, Suryapet, Khammam, Kothagudem",
-     "Not heavy rain, short-lived spells",
-     "No heavy rain worry for Hyderabad"
-    ],
-    "why": "Farmers and travellers should prepare for today's showers and next week's cold."
-   },
-   "hi": {
-    "cat": "तेलंगाना · मौसम",
-    "statl": "से ठंड बढ़ने की संभावना",
-    "h": "आज कहीं-कहीं गरज के साथ बारिश; 7 नवंबर से ठंड तेज़",
-    "p": "चक्रवात मुरासु का असर खत्म होने के बावजूद बची नमी से आज तेलंगाना में कहीं-कहीं गरज के साथ हल्की से मध्यम बारिश हो सकती है। हैदराबाद में दोपहर तक मौसम सूखा रहेगा, बाद में कुछ इलाकों में हल्की बौछारें। तेलंगाना वेदरमैन के अनुसार 7–8 नवंबर तक बारिश थमेगी, तापमान गिरेगा और ठंड बढ़ेगी।",
-    "pts": [
-     "नलगोंडा, सूर्यापेट, खम्मम, कोत्तागुडेम में गरज के साथ बारिश",
-     "भारी बारिश नहीं, थोड़ी देर की",
-     "हैदराबाद में भारी बारिश की चिंता नहीं"
-    ],
-    "why": "किसान और यात्री आज की बारिश और अगले हफ्ते की ठंड के लिए तैयार रहें।"
-   },
-   "d": "05.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "90%",
-   "statl": "కాలిన గాయాలు",
-   "h": "విశాఖ స్టీల్ ప్లాంట్‌లో ప్రమాదం: కాంట్రాక్ట్ కార్మికుడి పరిస్థితి విషమం",
-   "p": "విశాఖపట్నం స్టీల్ ప్లాంట్‌లో బుధవారం అర్ధరాత్రి దాటాక జరిగిన ప్రమాదంలో ఒక కాంట్రాక్ట్ కార్మికుడిపై సుమారు 150 డిగ్రీల వేడి ద్రవం పడింది. అతనికి 90 శాతం కాలిన గాయాలయ్యాయి. ప్రైవేట్ ఆసుపత్రికి తరలించగా, పరిస్థితి విషమంగా ఉందని వైద్యులు తెలిపారు.",
-   "pts": [
-    "సుమారు 150 డిగ్రీల వేడి ద్రవం పడింది",
-    "ప్రైవేట్ ఆసుపత్రిలో చికిత్స",
-    "కార్మికుడు విజయనగరం జిల్లాకు చెందినవారు"
-   ],
-   "why": "భారీ పరిశ్రమల్లో కార్మికుల భద్రతపై ఈ ప్రమాదం మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "en": {
-    "cat": "Andhra Pradesh · Visakhapatnam",
-    "statl": "Burn injuries",
-    "h": "Visakhapatnam Steel Plant accident: contract worker critical",
-    "p": "In an accident at the Visakhapatnam Steel Plant shortly after midnight on Wednesday, hot liquid at about 150 degrees fell on a contract worker. He suffered 90 percent burns. He was shifted to a private hospital, where doctors said his condition is critical.",
-    "pts": [
-     "Hot liquid at about 150 degrees fell on him",
-     "Being treated at a private hospital",
-     "Worker hails from Vizianagaram district"
-    ],
-    "why": "The accident again raises questions about worker safety in heavy industries."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "जलने की चोटें",
-    "h": "विशाखापत्तनम स्टील प्लांट में हादसा: ठेका मज़दूर की हालत गंभीर",
-    "p": "विशाखापत्तनम स्टील प्लांट में बुधवार आधी रात के बाद हुए हादसे में एक ठेका मज़दूर पर करीब 150 डिग्री का गर्म द्रव गिर गया। वह 90 प्रतिशत झुलस गया। उसे निजी अस्पताल ले जाया गया, जहां डॉक्टरों ने उसकी हालत गंभीर बताई।",
-    "pts": [
-     "करीब 150 डिग्री का गर्म द्रव गिरा",
-     "निजी अस्पताल में इलाज",
-     "मज़दूर विजयनगरम ज़िले का निवासी"
-    ],
-    "why": "यह हादसा भारी उद्योगों में मज़दूरों की सुरक्षा पर फिर सवाल उठाता है।"
-   },
-   "d": "05.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "ఏపీ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "2,721",
-   "statl": "ఉపాధ్యాయ పోస్టులు",
-   "h": "ఏపీ డీఎస్సీ-2026 నోటిఫికేషన్ విడుదల: 2,721 టీచర్ పోస్టులు",
-   "p": "ఆంధ్రప్రదేశ్‌లో 2,721 ఉపాధ్యాయ పోస్టుల భర్తీకి డీఎస్సీ-2026 పూర్తి నోటిఫికేషన్, సమాచార బులెటిన్ విడుదలయ్యాయి. నవంబర్ 11 నుంచి 30 వరకు ఆన్‌లైన్‌లో దరఖాస్తు చేసుకోవచ్చు. డిసెంబర్ 20 నుంచి 2027 జనవరి 13 వరకు ఆన్‌లైన్ పరీక్షలు జరుగుతాయి. పోస్టుల వివరాలు పాఠశాల విద్యాశాఖ వెబ్‌సైట్‌లో ఉంటాయి.",
-   "pts": [
-    "డిసెంబర్ 5 నుంచి మాక్ టెస్ట్ అందుబాటులో",
-    "డిసెంబర్ 14 నుంచి హాల్ టికెట్లు",
-    "350 ప్రత్యేక విద్య, 260 సొసైటీ పోస్టులు కూడా"
-   ],
-   "why": "ఉపాధ్యాయ ఉద్యోగాల కోసం సిద్ధమవుతున్న ఏపీ అభ్యర్థులు దరఖాస్తు తేదీలు గుర్తుంచుకోవాలి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
-   "sec": [
-    "telangana",
-    "jobs",
-    "education"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "en": {
-    "cat": "Andhra Pradesh · Education",
-    "h": "AP DSC-2026 notification released for 2,721 teacher posts",
-    "p": "The full DSC-2026 notification and information bulletin for filling 2,721 teacher posts in Andhra Pradesh have been released. Online applications can be made from November 11 to 30. Online exams will be held from December 20 to January 13, 2027. Post details will be on the School Education Department website.",
-    "pts": [
-     "Mock test available from December 5",
-     "Hall tickets from December 14",
-     "Also 350 special education and 260 society posts"
-    ],
-    "why": "AP candidates preparing for teacher jobs should note the application dates.",
-    "statl": "Teacher posts"
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · शिक्षा",
-    "h": "आंध्र प्रदेश डीएससी-2026 अधिसूचना जारी: 2,721 शिक्षक पद",
-    "p": "आंध्र प्रदेश में 2,721 शिक्षक पदों को भरने के लिए डीएससी-2026 की पूरी अधिसूचना और सूचना बुलेटिन जारी हो गए हैं। 11 से 30 नवंबर तक ऑनलाइन आवेदन किए जा सकते हैं। 20 दिसंबर से 13 जनवरी 2027 तक ऑनलाइन परीक्षाएं होंगी। पदों का विवरण स्कूल शिक्षा विभाग की वेबसाइट पर होगा।",
-    "pts": [
-     "5 दिसंबर से मॉक टेस्ट उपलब्ध",
-     "14 दिसंबर से हॉल टिकट",
-     "350 विशेष शिक्षा और 260 सोसाइटी पद भी"
-    ],
-    "why": "शिक्षक नौकरी की तैयारी कर रहे आंध्र प्रदेश के उम्मीदवार आवेदन की तारीखें याद रखें।",
-    "statl": "शिक्षक पद"
-   },
-   "d": "05.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "ఏపీ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "2.61 కోట్లు",
-   "statl": "ఓటర్లు",
-   "h": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ పోలింగ్ ప్రారంభం; ఏలూరులో కొన్ని మండలాల్లో వాయిదా",
-   "p": "రాష్ట్రవ్యాప్తంగా ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల పోలింగ్ ఉదయం ప్రారంభమైంది. 582 జడ్పీటీసీ, 7,767 ఎంపీటీసీ స్థానాలకు ఓటింగ్ జరుగుతోంది. సుమారు 2.61 కోట్ల మంది ఓటర్లు ఉన్నారు. తుపాను వర్షాల వల్ల ఏలూరు జిల్లాలోని వేలేరుపాడు, బుట్టాయగూడెం, జీలుగుమిల్లి, పోలవరం మండలాల్లో పోలింగ్ నవంబర్ 6కు వాయిదా పడింది.",
-   "pts": [
-    "31,460 పోలింగ్ కేంద్రాలు, సుమారు 2 లక్షల సిబ్బంది",
-    "77 జడ్పీటీసీ, 2,051 ఎంపీటీసీ ఏకగ్రీవం",
-    "తూర్పు గోదావరి గోపాలపురం మండలంలోనూ వాయిదా"
-   ],
-   "why": "గ్రామీణ స్థానిక పాలనలో ఎవరు ఉంటారో ఈ ఎన్నికలు నిర్ణయిస్తాయి; వాయిదా మండలాల ఓటర్లు రేపు ఓటేయాలి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110500410",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "en": {
-    "cat": "Andhra Pradesh · Elections",
-    "h": "AP MPTC, ZPTC polling begins; postponed in some Eluru mandals",
-    "p": "Polling for MPTC and ZPTC elections began across the state in the morning. Voting is under way for 582 ZPTC and 7,767 MPTC seats. There are about 2.61 crore voters. Due to cyclone rains, polling in Velerupadu, Buttayagudem, Jeelugumilli and Polavaram mandals of Eluru district was postponed to November 6.",
-    "pts": [
-     "31,460 polling stations, about 2 lakh staff",
-     "77 ZPTC and 2,051 MPTC seats unopposed",
-     "Also postponed in Gopalapuram mandal, East Godavari"
-    ],
-    "why": "These polls decide rural local governance; voters in postponed mandals must vote tomorrow.",
-    "statl": "Voters"
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · चुनाव",
-    "h": "आंध्र प्रदेश में एमपीटीसी, जेडपीटीसी मतदान शुरू; एलुरु के कुछ मंडलों में स्थगित",
-    "p": "राज्य भर में एमपीटीसी और जेडपीटीसी चुनावों के लिए सुबह मतदान शुरू हुआ। 582 जेडपीटीसी और 7,767 एमपीटीसी सीटों के लिए वोटिंग हो रही है। लगभग 2.61 करोड़ मतदाता हैं। चक्रवात की बारिश के कारण एलुरु जिले के वेलेरुपाडु, बुट्टायगुडेम, जीलुगुमिल्ली और पोलावरम मंडलों में मतदान 6 नवंबर तक स्थगित किया गया।",
-    "pts": [
-     "31,460 मतदान केंद्र, लगभग 2 लाख कर्मचारी",
-     "77 जेडपीटीसी और 2,051 एमपीटीसी सीटें निर्विरोध",
-     "पूर्वी गोदावरी के गोपालपुरम मंडल में भी स्थगित"
-    ],
-    "why": "ये चुनाव ग्रामीण स्थानीय शासन तय करते हैं; स्थगित मंडलों के मतदाता कल वोट डालेंगे।",
-    "statl": "मतदाता"
-   },
-   "d": "05.11.2026",
-   "t": "07:35"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
