@@ -1,8 +1,155 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 81,
+ "count": 84,
  "stories": [
+  {
+   "cat": "తెలంగాణ · అభివృద్ధి",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "₹9,053 కోట్లు",
+   "statl": "13 అభివృద్ధి పనులకు శంకుస్థాపన",
+   "h": "నవంబర్ 7 నుంచి 3 రోజులు కొడంగల్‌లో సీఎం రేవంత్ పర్యటన",
+   "p": "సీఎం రేవంత్ రెడ్డి నవంబర్ 7 నుంచి 9 వరకు తన నియోజకవర్గం కొడంగల్‌లో మూడు రోజులు పర్యటించనున్నారు. మెగా రైతు మేళా, పారిశ్రామిక ప్రదర్శనను ప్రారంభిస్తారు. సుమారు ₹9,053 కోట్ల అంచనా వ్యయంతో 13 అభివృద్ధి పనులకు శంకుస్థాపన చేస్తారు. పూర్తయిన మౌలిక వసతుల పనులనూ ప్రారంభిస్తారు.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/south-india/development-telangana-cm-visit-05ms23/236882",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "కొడంగల్",
+   "pts": [
+    "రేడియల్ రోడ్-2 పనులకు ₹5,060 కోట్లు",
+    "మహబూబ్‌నగర్-నారాయణపేట-కొడంగల్ ఎత్తిపోతల రెండో దశకు ₹2,100 కోట్లు",
+    "223 బీటీ రోడ్లకు ₹1,410 కోట్లు"
+   ],
+   "why": "కొడంగల్ ప్రాంత రైతులు, ప్రజలకు సాగునీరు, రోడ్ల వసతులు మెరుగుపడే పనులు ఇవి.",
+   "d": "05.11.2026",
+   "t": "20:05",
+   "en": {
+    "h": "CM Revanth to tour Kodangal for 3 days from November 7",
+    "p": "Chief Minister Revanth Reddy will tour his Kodangal constituency for three days from November 7 to 9. He will inaugurate a Mega Farmers' Fair and an Industrial Expo. He will lay foundation stones for 13 development works with an estimated cost of about ₹9,053 crore, and also inaugurate completed infrastructure works.",
+    "pts": [
+     "₹5,060 crore for Radial Road-2 works",
+     "₹2,100 crore for phase 2 of Mahabubnagar-Narayanpet-Kodangal lift scheme",
+     "₹1,410 crore for 223 BT roads"
+    ],
+    "why": "These works aim to improve irrigation and roads for farmers and people in the Kodangal area.",
+    "cat": "Telangana · Development",
+    "statl": "Foundation for 13 development works"
+   },
+   "hi": {
+    "h": "7 नवंबर से तीन दिन कोडंगल दौरे पर सीएम रेवंत",
+    "p": "मुख्यमंत्री रेवंत रेड्डी 7 से 9 नवंबर तक अपने निर्वाचन क्षेत्र कोडंगल का तीन दिन का दौरा करेंगे। वे मेगा किसान मेला और औद्योगिक प्रदर्शनी का उद्घाटन करेंगे। लगभग ₹9,053 करोड़ की अनुमानित लागत वाले 13 विकास कार्यों की आधारशिला रखेंगे और पूरे हो चुके बुनियादी ढांचे के कार्यों का उद्घाटन भी करेंगे।",
+    "pts": [
+     "रेडियल रोड-2 के कार्यों के लिए ₹5,060 करोड़",
+     "महबूबनगर-नारायणपेट-कोडंगल लिफ्ट योजना के दूसरे चरण के लिए ₹2,100 करोड़",
+     "223 बीटी सड़कों के लिए ₹1,410 करोड़"
+    ],
+    "why": "इन कार्यों से कोडंगल क्षेत्र के किसानों और लोगों के लिए सिंचाई और सड़क सुविधाएं बेहतर होंगी।",
+    "cat": "तेलंगाना · विकास",
+    "statl": "13 विकास कार्यों की आधारशिला"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · రోడ్లు",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "ఫిబ్ర 2027",
+   "statl": "ఫాక్స్ సాగర్ ఫ్లైఓవర్ పూర్తి లక్ష్యం",
+   "h": "ఫాక్స్ సాగర్ బ్రిడ్జి ఫిబ్రవరి 2027 నాటికి పూర్తి చేయాలని ఆదేశం",
+   "p": "హైదరాబాద్‌లో ప్రతిపాదిత ఫాక్స్ సాగర్ బ్రిడ్జి స్థలాన్ని, హెచ్-సిటీ పనులను సైబరాబాద్ మున్సిపల్ కార్పొరేషన్ కమిషనర్ జి.సృజన గురువారం పరిశీలించారు. భూసేకరణను ఈ నెలాఖరులోగా, ప్రధాన ఫ్లైఓవర్ నిర్మాణాన్ని ఫిబ్రవరి 2027 నాటికి పూర్తి చేయాలని అధికారులను ఆదేశించారు. కూకట్‌పల్లి వై-జంక్షన్, ఐడీఎల్ జంక్షన్ పనులను వేగవంతం చేయాలన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-fox-sagar-bridge-targeted-for-completion-by-february-2027",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "భూసేకరణ నవంబర్ నెలాఖరులోగా పూర్తి చేయాలి",
+    "వక్ఫ్ బోర్డు, యజమానులతో సమన్వయం చేయాలని సూచన",
+    "కూకట్‌పల్లి వై, ఐడీఎల్ జంక్షన్ పనులు వేగవంతం"
+   ],
+   "why": "కూకట్‌పల్లి పరిసరాల్లో రోజూ ప్రయాణించే వాహనదారులకు ట్రాఫిక్ ఇబ్బందులు తగ్గించే పనులు ఇవి.",
+   "d": "05.11.2026",
+   "t": "20:05",
+   "en": {
+    "h": "Fox Sagar bridge to be completed by February 2027: officials told",
+    "p": "Cyberabad Municipal Corporation Commissioner G Srijana on Thursday inspected the proposed Fox Sagar bridge site and H-CITI works in Hyderabad. She directed officials to complete land acquisition by the end of this month and the main flyover by February 2027. She also asked them to speed up works at Kukatpally Y-Junction and IDL Junction.",
+    "pts": [
+     "Land acquisition to be completed by end of November",
+     "Coordination with Waqf Board and owners advised",
+     "Kukatpally Y and IDL junction works to be speeded up"
+    ],
+    "why": "These works aim to ease traffic for daily commuters around Kukatpally.",
+    "cat": "Hyderabad · Roads",
+    "statl": "Fox Sagar flyover target"
+   },
+   "hi": {
+    "h": "फॉक्स सागर पुल फरवरी 2027 तक पूरा करने का निर्देश",
+    "p": "साइबराबाद नगर निगम की आयुक्त जी. सृजना ने गुरुवार को हैदराबाद में प्रस्तावित फॉक्स सागर पुल स्थल और एच-सिटी कार्यों का निरीक्षण किया। उन्होंने अधिकारियों को इस महीने के अंत तक भूमि अधिग्रहण और फरवरी 2027 तक मुख्य फ्लाईओवर पूरा करने का निर्देश दिया। कूकटपल्ली वाई-जंक्शन और आईडीएल जंक्शन के कार्यों में तेजी लाने को भी कहा।",
+    "pts": [
+     "नवंबर के अंत तक भूमि अधिग्रहण पूरा हो",
+     "वक्फ बोर्ड और मालिकों से तालमेल की सलाह",
+     "कूकटपल्ली वाई और आईडीएल जंक्शन कार्यों में तेजी"
+    ],
+    "why": "इन कार्यों से कूकटपल्ली के आसपास रोज़ आने-जाने वालों की ट्रैफिक परेशानी कम होगी।",
+    "cat": "हैदराबाद · सड़कें",
+    "statl": "फॉक्स सागर फ्लाईओवर का लक्ष्य"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "24.7 కిలోలు",
+   "statl": "స్వాధీనం చేసుకున్న గంజాయి",
+   "h": "అంతర్రాష్ట్ర గంజాయి ముఠా గుట్టు రట్టు: ఐదుగురి అరెస్టు",
+   "p": "ఈగల్ ఫోర్స్ ఎస్‌టీఎఫ్, చౌటుప్పల్ పోలీసులు కలిసి హైదరాబాద్ న్యూ హఫీజ్‌పేట్‌లో ముఠా నాయకుడు సహా ఐదుగురిని గురువారం అరెస్టు చేశారు. అస్సాం నుంచి ఇద్దరు కొరియర్లు గంజాయి తెచ్చారన్న సమాచారంతో దాడి చేశారు. 24.7 కిలోల గంజాయి, ఏడు మొబైల్ ఫోన్లు స్వాధీనం చేసుకున్నారు. ఒడిశా నుంచి కొని చిన్న ప్యాకెట్లలో అమ్మేవారని తెలిసింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/eagle-force-busts-interstate-drug-racket-arrests-gang-leader-3570357/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హఫీజ్‌పేట్",
+   "pts": [
+    "ముఠా నాయకుడు సహా ఐదుగురు అరెస్టు",
+    "24.7 కిలోల గంజాయి, 7 ఫోన్లు స్వాధీనం",
+    "₹48 లక్షల లావాదేవీలపై దర్యాప్తు"
+   ],
+   "why": "నగరంలో మత్తుపదార్థాల సరఫరా గొలుసును అడ్డుకునేందుకు పోలీసులు చేపట్టిన కీలక చర్య ఇది.",
+   "d": "05.11.2026",
+   "t": "20:05",
+   "en": {
+    "h": "Interstate ganja racket busted in Hyderabad; five arrested",
+    "p": "The EAGLE Force STF and Choutuppal police on Thursday arrested five men, including the gang leader, at New Hafeezpet in Hyderabad. They acted on a tip-off that two couriers from Assam had brought ganja. Police seized 24.7 kg of ganja and seven mobile phones. The gang allegedly bought ganja from Odisha and sold it in small packets.",
+    "pts": [
+     "Five arrested, including the gang leader",
+     "24.7 kg ganja and 7 phones seized",
+     "Transactions of ₹48 lakh under investigation"
+    ],
+    "why": "This is a key police step to break the drug supply chain in the city.",
+    "cat": "Hyderabad · Safety",
+    "statl": "Ganja seized"
+   },
+   "hi": {
+    "h": "हैदराबाद में अंतरराज्यीय गांजा गिरोह का भंडाफोड़; पांच गिरफ्तार",
+    "p": "ईगल फोर्स एसटीएफ और चौटुप्पल पुलिस ने गुरुवार को हैदराबाद के न्यू हफीजपेट में गिरोह के सरगना समेत पांच लोगों को गिरफ्तार किया। असम से दो कूरियर के गांजा लाने की सूचना पर यह कार्रवाई हुई। पुलिस ने 24.7 किलो गांजा और सात मोबाइल फोन जब्त किए। गिरोह कथित तौर पर ओडिशा से गांजा खरीदकर छोटे पैकेटों में बेचता था।",
+    "pts": [
+     "सरगना समेत पांच गिरफ्तार",
+     "24.7 किलो गांजा और 7 फोन जब्त",
+     "₹48 लाख के लेनदेन की जांच"
+    ],
+    "why": "शहर में नशीले पदार्थों की आपूर्ति श्रृंखला तोड़ने के लिए यह पुलिस की अहम कार्रवाई है।",
+    "cat": "हैदराबाद · सुरक्षा",
+    "statl": "जब्त किया गया गांजा"
+   }
+  },
   {
    "cat": "భారత్ · కేంద్ర ప్రభుత్వం",
    "col": "--c-gov",
