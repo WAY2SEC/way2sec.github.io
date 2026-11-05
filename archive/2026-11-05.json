@@ -1,8 +1,201 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 30,
+ "count": 34,
  "stories": [
+  {
+   "cat": "ఏపీ · పల్నాడు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "12.06%",
+   "statl": "ఉదయం 9 గంటలకు పోలింగ్",
+   "h": "పల్నాడు పరిషత్ ఎన్నికలు: ఉదయం 9 గంటలకు 12.06% పోలింగ్",
+   "p": "పల్నాడు జిల్లాలో జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల్లో గురువారం ఉదయం 9 గంటల వరకు 12.06 శాతం ఓటింగ్ నమోదైంది. 11 మండలాల్లోని 576 పోలింగ్ కేంద్రాల్లో మొత్తం 4,60,784 మంది ఓటర్లలో 55,583 మంది ఓటు వేశారు. పిడుగురాళ్ల మండలంలో అత్యధికంగా 18.55%, చిలకలూరిపేటలో అత్యల్పంగా 4.63% పోలింగ్ జరిగిందని జిల్లా ఎన్నికల అధికారులు తెలిపారు.",
+   "pts": [
+    "పిడుగురాళ్ల 18.55%, గురజాల 16.77%, సత్తెనపల్లి 16.76%",
+    "చిలకలూరిపేటలో అత్యల్పంగా 4.63% పోలింగ్",
+    "జిల్లా అంతటా పోలింగ్ ప్రశాంతంగా జరిగిందని నివేదిక"
+   ],
+   "why": "పల్నాడు గ్రామీణ ఓటర్లు ఇంకా ఓటు వేయని వారు సాయంత్రంలోగా పోలింగ్ కేంద్రానికి వెళ్లవచ్చు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/palnadu-district-records-1206-polling-in-zptc-mptc-elections-1139420",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-palnadu",
+   "en": {
+    "cat": "AP · Palnadu",
+    "statl": "Polling by 9 am",
+    "h": "Palnadu parishad polls: 12.06% turnout by 9 am",
+    "p": "In Palnadu district, 12.06 per cent turnout was recorded in the ZPTC and MPTC elections by 9 am on Thursday. Of 4,60,784 voters, 55,583 cast their votes at 576 polling stations in 11 mandals. District election officials said Piduguralla mandal recorded the highest turnout at 18.55% and Chilakaluripet the lowest at 4.63%.",
+    "pts": [
+     "Piduguralla 18.55%, Gurazala 16.77%, Sattenapalli 16.76%",
+     "Lowest turnout of 4.63% in Chilakaluripet",
+     "Report says polling was peaceful across the district"
+    ],
+    "why": "Rural voters in Palnadu who have not yet voted can still go to their polling station by evening."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · पलनाडु",
+    "statl": "सुबह 9 बजे तक मतदान",
+    "h": "पलनाडु परिषद चुनाव: सुबह 9 बजे तक 12.06% मतदान",
+    "p": "पलनाडु जिले में जेडपीटीसी और एमपीटीसी चुनावों में गुरुवार सुबह 9 बजे तक 12.06 प्रतिशत मतदान दर्ज हुआ। 11 मंडलों के 576 मतदान केंद्रों पर कुल 4,60,784 मतदाताओं में से 55,583 ने वोट डाला। जिला चुनाव अधिकारियों के अनुसार पिडुगुराल्ला मंडल में सबसे अधिक 18.55% और चिलकलूरिपेट में सबसे कम 4.63% मतदान हुआ।",
+    "pts": [
+     "पिडुगुराल्ला 18.55%, गुरजाला 16.77%, सत्तेनपल्ली 16.76%",
+     "चिलकलूरिपेट में सबसे कम 4.63% मतदान",
+     "रिपोर्ट के अनुसार पूरे जिले में मतदान शांतिपूर्ण रहा"
+    ],
+    "why": "पलनाडु के जिन ग्रामीण मतदाताओं ने अभी वोट नहीं डाला है, वे शाम तक मतदान केंद्र जा सकते हैं।"
+   },
+   "d": "05.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఆసిఫాబాద్",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "నవం.16",
+   "statl": "ప్రత్యేక తనిఖీ డ్రైవ్ ప్రారంభం",
+   "h": "ఆసిఫాబాద్ జిల్లాలో ప్రతి గ్రామానికి రోజూ తాగునీరు: కలెక్టర్ ఆదేశం",
+   "p": "కుమురం భీం ఆసిఫాబాద్ జిల్లాలో ఏ గ్రామానికీ తాగునీటి కొరత రాకూడదని కలెక్టర్ కె.హరిత అధికారులను ఆదేశించారు. పంచాయతీరాజ్, మిషన్ భగీరథ, ఇంట్రా గ్రిడ్ అధికారులతో సమీక్షించిన ఆమె, నవంబర్ 16 నుంచి డిసెంబర్ 31 వరకు ప్రత్యేక తనిఖీ డ్రైవ్ ప్రకటించారు. బోర్‌వెల్‌లు, మోటార్లు, ట్యాంకులు, పైప్‌లైన్లు పరిశీలించి వెంటనే మరమ్మతులు చేయాలని సూచించారు.",
+   "pts": [
+    "నవంబర్ 16 – డిసెంబర్ 31 ప్రత్యేక తనిఖీలు",
+    "బోర్‌వెల్‌లు, ఓవర్‌హెడ్ ట్యాంకులు, పైప్‌లైన్ల పరిశీలన",
+    "శాఖలు యుద్ధప్రాతిపదికన సమన్వయంతో పనిచేయాలని సూచన"
+   ],
+   "why": "జిల్లా గ్రామాల ప్రజలకు తాగునీటి సరఫరాలో అంతరాయాలు తగ్గే అవకాశం ఉంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/telangana/collector-haritha-directs-officials-to-ensure-uninterrupted-drinking-water-supply-1139428",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "asifabad",
+   "en": {
+    "cat": "Telangana · Asifabad",
+    "statl": "Special inspection drive begins",
+    "h": "Daily drinking water for every Asifabad village: Collector's order",
+    "p": "Kumuram Bheem Asifabad District Collector K. Haritha directed officials to ensure that no village faces a drinking water shortage. Reviewing with Panchayat Raj, Mission Bhagiratha and Intra-Grid officials, she announced a special inspection drive from November 16 to December 31. She asked them to check borewells, motors, tanks and pipelines and carry out repairs immediately.",
+    "pts": [
+     "Special inspections from November 16 to December 31",
+     "Borewells, overhead tanks and pipelines to be checked",
+     "Departments told to coordinate on a war footing"
+    ],
+    "why": "Villagers in the district may face fewer disruptions in drinking water supply."
+   },
+   "hi": {
+    "cat": "तेलंगाना · आसिफाबाद",
+    "statl": "विशेष निरीक्षण अभियान की शुरुआत",
+    "h": "आसिफाबाद के हर गांव को रोज पेयजल: कलेक्टर का आदेश",
+    "p": "कुमुरम भीम आसिफाबाद की जिला कलेक्टर के. हरिता ने अधिकारियों को निर्देश दिया कि किसी भी गांव में पेयजल की कमी न हो। पंचायत राज, मिशन भगीरथ और इंट्रा-ग्रिड अधिकारियों के साथ समीक्षा में उन्होंने 16 नवंबर से 31 दिसंबर तक विशेष निरीक्षण अभियान की घोषणा की। बोरवेल, मोटर, टंकियों और पाइपलाइनों की जांच कर तुरंत मरम्मत करने को कहा।",
+    "pts": [
+     "16 नवंबर से 31 दिसंबर तक विशेष निरीक्षण",
+     "बोरवेल, ओवरहेड टंकियों और पाइपलाइनों की जांच",
+     "विभागों को युद्धस्तर पर समन्वय करने का निर्देश"
+    ],
+    "why": "जिले के गांवों में पेयजल आपूर्ति में रुकावटें कम हो सकती हैं।"
+   },
+   "d": "05.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తమిళనాడు · చెన్నై",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+₹2,280",
+   "statl": "సవరన్ బంగారంపై పెరుగుదల",
+   "h": "చెన్నైలో బంగారం ధర జోరు: సవరన్‌పై ₹2,280 పెరుగుదల",
+   "p": "చెన్నైలో గురువారం 22 క్యారెట్ల బంగారం ధర సవరన్ (8 గ్రాములు)కు ₹2,280 పెరిగి ₹1,07,080కు చేరింది. గ్రాము ధర ₹285 పెరిగి ₹13,385 అయింది. బుధవారం సవరన్ ధర ₹1,04,800గా ఉంది. వెండి ధర మాత్రం మారకుండా గ్రాముకు ₹210 వద్ద ఉంది. ఏడాది క్రితంతో పోలిస్తే బంగారం సుమారు 19.72% పెరిగింది.",
+   "pts": [
+    "22 క్యారెట్ గ్రాము ధర ₹13,385",
+    "వెండి గ్రాముకు ₹210, మార్పు లేదు",
+    "ఏడాదిలో సవరన్‌పై ₹17,640 పెరుగుదల"
+   ],
+   "why": "పెళ్లిళ్లు, పండుగల కోసం బంగారం కొనాలనుకునే చెన్నై కుటుంబాలపై ఖర్చు భారం పెరుగుతుంది.",
+   "src": "DT Next",
+   "url": "https://www.dtnext.in/news/chennai/chennai-gold-price-rises-by-rs-2280-on-november-5-2026-check-todays-gold-silver-rate",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "TN",
+   "place": "tn-chennai",
+   "en": {
+    "cat": "Tamil Nadu · Chennai",
+    "statl": "Rise per sovereign of gold",
+    "h": "Gold surges in Chennai: up ₹2,280 per sovereign",
+    "p": "In Chennai on Thursday, the price of 22-carat gold rose by ₹2,280 per sovereign (8 grams) to ₹1,07,080. The price per gram rose by ₹285 to ₹13,385. On Wednesday a sovereign cost ₹1,04,800. Silver was unchanged at ₹210 per gram. Compared with a year ago, gold is up about 19.72%.",
+    "pts": [
+     "22-carat gold at ₹13,385 per gram",
+     "Silver unchanged at ₹210 per gram",
+     "Up ₹17,640 per sovereign in a year"
+    ],
+    "why": "Chennai families planning to buy gold for weddings and festivals will have to spend more."
+   },
+   "hi": {
+    "cat": "तमिलनाडु · चेन्नई",
+    "statl": "प्रति सॉवरेन सोने में बढ़ोतरी",
+    "h": "चेन्नई में सोने में उछाल: प्रति सॉवरेन ₹2,280 की बढ़ोतरी",
+    "p": "चेन्नई में गुरुवार को 22 कैरेट सोने का दाम प्रति सॉवरेन (8 ग्राम) ₹2,280 बढ़कर ₹1,07,080 हो गया। प्रति ग्राम दाम ₹285 बढ़कर ₹13,385 हो गया। बुधवार को एक सॉवरेन ₹1,04,800 का था। चांदी बिना बदलाव के ₹210 प्रति ग्राम पर रही। एक साल पहले की तुलना में सोना करीब 19.72% महंगा है।",
+    "pts": [
+     "22 कैरेट सोना ₹13,385 प्रति ग्राम",
+     "चांदी ₹210 प्रति ग्राम, कोई बदलाव नहीं",
+     "एक साल में प्रति सॉवरेन ₹17,640 की बढ़ोतरी"
+    ],
+    "why": "शादी और त्योहारों के लिए सोना खरीदने वाले चेन्नई के परिवारों को ज्यादा खर्च करना होगा।"
+   },
+   "d": "05.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "255+",
+   "statl": "డెమొక్రాట్ల అంచనా సీట్లు",
+   "h": "అమెరికా ప్రతినిధుల సభలో డెమొక్రాట్లకు మెజారిటీ: సీబీఎస్ అంచనా",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో ప్రతినిధుల సభ నియంత్రణను డెమొక్రాట్లు గెలుచుకున్నారని సీబీఎస్ న్యూస్ అంచనా వేసింది. ఎన్నికల ముందు వారికి 214 సీట్లు ఉండగా, లెక్కింపు పూర్తయ్యాక కనీసం 255 సీట్లు వస్తాయని నేత హకీమ్ జెఫ్రీస్ తెలిపారు. స్పీకర్ పదవికి జెఫ్రీస్ పోటీ ప్రకటించారు. మైక్ జాన్సన్ మైనారిటీ నేత పదవికి పోటీ చేయబోనన్నారు.",
+   "pts": [
+    "మొత్తం 435 సభ సీట్లకు ఎన్నికలు",
+    "నవంబర్ 18, 19న డెమొక్రాట్ నాయకత్వ ఎన్నికలు",
+    "పలు స్థానాల ఫలితాలు ఇంకా తేలాల్సి ఉంది"
+   ],
+   "why": "అమెరికా చట్టసభలో అధికార మార్పు వీసా, వాణిజ్య విధానాలపై చర్చలను ప్రభావితం చేయవచ్చు.",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · USA",
+    "statl": "Seats Democrats expect",
+    "h": "Democrats win majority in US House: CBS projection",
+    "p": "CBS News projected that Democrats have won control of the House of Representatives in the US midterm elections. They held 214 seats before the election, and leader Hakeem Jeffries said they expect at least 255 seats once counting is complete. Jeffries announced his bid for Speaker. Mike Johnson said he will not run for minority leader.",
+    "pts": [
+     "Elections held for all 435 House seats",
+     "Democratic leadership elections on November 18 and 19",
+     "Several races are still to be decided"
+    ],
+    "why": "A change of control in the US Congress could shape debates on visa and trade policies."
+   },
+   "hi": {
+    "cat": "दुनिया · अमेरिका",
+    "statl": "डेमोक्रेट्स की अनुमानित सीटें",
+    "h": "अमेरिकी प्रतिनिधि सभा में डेमोक्रेट्स को बहुमत: सीबीएस का अनुमान",
+    "p": "सीबीएस न्यूज के अनुमान के अनुसार अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स ने प्रतिनिधि सभा का नियंत्रण जीत लिया है। चुनाव से पहले उनके पास 214 सीटें थीं, और नेता हकीम जेफ्रीज ने कहा कि गिनती पूरी होने पर कम से कम 255 सीटों की उम्मीद है। जेफ्रीज ने स्पीकर पद के लिए दावेदारी की घोषणा की। माइक जॉनसन ने कहा कि वे अल्पमत नेता पद के लिए नहीं लड़ेंगे।",
+    "pts": [
+     "सभी 435 सदन सीटों के लिए चुनाव",
+     "18 और 19 नवंबर को डेमोक्रेटिक नेतृत्व चुनाव",
+     "कई सीटों के नतीजे अभी तय होने बाकी"
+    ],
+    "why": "अमेरिकी कांग्रेस में सत्ता परिवर्तन वीज़ा और व्यापार नीतियों पर बहस को प्रभावित कर सकता है।"
+   },
+   "d": "05.11.2026",
+   "t": "10:35"
+  },
   {
    "cat": "భారత్ · మార్కెట్లు",
    "col": "--c-money",
