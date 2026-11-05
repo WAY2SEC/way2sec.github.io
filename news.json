@@ -1,8 +1,105 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T09:35:00+05:30",
+ "updated": "2026-11-05T10:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+1,621",
+   "statl": "సెన్సెక్స్ ఉదయం లాభం (పాయింట్లు)",
+   "h": "స్టాక్ మార్కెట్ల భారీ జోరు: సెన్సెక్స్ 1,600 పాయింట్లకు పైగా లాభం",
+   "p": "గురువారం ఉదయం మార్కెట్లు భారీ లాభాలతో ప్రారంభమయ్యాయి. సెన్సెక్స్ 1,621 పాయింట్లు (2.09%) పెరిగి 78,922 వద్దకు చేరింది. నిఫ్టీ 24,378 వద్ద 1.74% లాభంతో తెరుచుకుంది. బ్రెంట్ ముడి చమురు ధర 11% పడిపోయి బ్యారెల్‌కు 93.50 డాలర్ల కనిష్ఠానికి చేరడం, అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్ల విజయం, విదేశీ పెట్టుబడిదారుల కొనుగోళ్లు ఈ జోరుకు కారణాలని కథనం.",
+   "pts": [
+    "నిఫ్టీ 50లో 42 షేర్లు లాభాల్లో",
+    "శ్రీరామ్ ఫైనాన్స్ 5.3%, ఇండిగో 4.6% పెరుగుదల",
+    "అపోలో హాస్పిటల్స్ 3.4%, ఓఎన్‌జీసీ 2.2% తగ్గుదల"
+   ],
+   "why": "చమురు ధరలు తగ్గడం, మార్కెట్ల లాభాలు షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టినవారికి ఊరట.",
+   "src": "Upstox News",
+   "url": "https://upstox.com/news/market-news/stocks/sensex-rallies-over-1-600-pts-nifty-50-jumps-1-7-as-crude-oil-plummets-key-factors-behind-today-s-stock-market-surge/article-203017/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Markets",
+    "statl": "Sensex morning gain (points)",
+    "h": "Markets surge: Sensex jumps over 1,600 points in early trade",
+    "p": "Markets opened with big gains on Thursday morning. The Sensex rose 1,621 points (2.09%) to 78,922. The Nifty opened 1.74% higher at 24,378. The report says Brent crude falling 11% to a low of $93.50 a barrel, the Democrats' win in the US midterm elections and foreign investor buying drove the rally.",
+    "pts": [
+     "42 of 50 Nifty stocks in the green",
+     "Shriram Finance up 5.3%, IndiGo up 4.6%",
+     "Apollo Hospitals down 3.4%, ONGC down 2.2%"
+    ],
+    "why": "Lower oil prices and market gains bring relief to people invested in shares and mutual funds."
+   },
+   "hi": {
+    "cat": "भारत · बाजार",
+    "statl": "सेंसेक्स की सुबह की बढ़त (अंक)",
+    "h": "शेयर बाजार में जोरदार तेजी: सेंसेक्स 1,600 अंक से ज्यादा चढ़ा",
+    "p": "गुरुवार सुबह बाजार भारी बढ़त के साथ खुले। सेंसेक्स 1,621 अंक (2.09%) चढ़कर 78,922 पर पहुंचा। निफ्टी 1.74% की बढ़त के साथ 24,378 पर खुला। रिपोर्ट के अनुसार ब्रेंट कच्चे तेल का 11% गिरकर 93.50 डॉलर प्रति बैरल के निचले स्तर पर आना, अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स की जीत और विदेशी निवेशकों की खरीदारी इस तेजी की वजह रहीं।",
+    "pts": [
+     "निफ्टी 50 के 42 शेयर बढ़त में",
+     "श्रीराम फाइनेंस 5.3%, इंडिगो 4.6% ऊपर",
+     "अपोलो हॉस्पिटल्स 3.4%, ओएनजीसी 2.2% नीचे"
+    ],
+    "why": "तेल के दाम घटने और बाजार की तेजी से शेयरों व म्यूचुअल फंड में निवेश करने वालों को राहत।"
+   },
+   "d": "05.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ఏపీ · ఎన్టీఆర్ జిల్లా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "8.35 లక్షలు",
+   "statl": "ఎన్టీఆర్ జిల్లాలో ఓటర్లు",
+   "h": "ఎన్టీఆర్, అనకాపల్లి జిల్లాల్లో పరిషత్ పోలింగ్; 7న కౌంటింగ్",
+   "p": "ఎన్టీఆర్ జిల్లాలో 16 జడ్పీటీసీ, 276 ఎంపీటీసీ స్థానాలకు ఉదయం 7 గంటల నుంచి పోలింగ్ జరుగుతోంది. 8,35,515 మంది ఓటర్ల కోసం 992 పోలింగ్ కేంద్రాలు ఏర్పాటు చేశారు. మరో 4 ఎంపీటీసీ స్థానాలు ఏకగ్రీవమయ్యాయి. అనకాపల్లి జిల్లా పాయకరావుపేట నియోజకవర్గంలోని నాలుగు మండలాల్లో 2,52,739 మంది ఓటు వేస్తున్నారు. పోలింగ్ సాయంత్రం 5 గంటల వరకు; అవసరమైతే 6న రీపోలింగ్, 7న ఓట్ల లెక్కింపు.",
+   "pts": [
+    "ఎన్టీఆర్ జిల్లాలో 631 మంది ఎంపీటీసీ అభ్యర్థులు",
+    "సమస్యాత్మక కేంద్రాల్లో వెబ్‌కాస్టింగ్",
+    "ఆధార్ లేదా 14 ప్రత్యామ్నాయ గుర్తింపు పత్రాలు చెల్లుతాయి"
+   ],
+   "why": "ఈ జిల్లాల గ్రామీణ ఓటర్లు సాయంత్రం 5 గంటలలోపు గుర్తింపు పత్రంతో ఓటు వేయాలి.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/andhra-pradesh-polling-begins-for-zptc-mptc-elections-amid-tight-security20261105084510/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "en": {
+    "cat": "AP · NTR district",
+    "statl": "Voters in NTR district",
+    "h": "Parishad polling in NTR, Anakapalli districts; counting on 7th",
+    "p": "Polling for 16 ZPTC and 276 MPTC seats in NTR district has been under way since 7 am. 992 polling stations have been set up for 8,35,515 voters. Another 4 MPTC seats were won unanimously. In four mandals of Payakaraopeta constituency in Anakapalli district, 2,52,739 people are voting. Polling runs till 5 pm; repolling, if needed, on the 6th and counting on the 7th.",
+    "pts": [
+     "631 MPTC candidates in NTR district",
+     "Webcasting at problematic polling centres",
+     "Aadhaar or 14 alternative ID documents accepted"
+    ],
+    "why": "Rural voters in these districts must vote with an ID document before 5 pm."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · एनटीआर जिला",
+    "statl": "एनटीआर जिले में मतदाता",
+    "h": "एनटीआर, अनकापल्ली जिलों में परिषद मतदान; 7 को मतगणना",
+    "p": "एनटीआर जिले में 16 जेडपीटीसी और 276 एमपीटीसी सीटों के लिए सुबह 7 बजे से मतदान जारी है। 8,35,515 मतदाताओं के लिए 992 मतदान केंद्र बनाए गए हैं। 4 और एमपीटीसी सीटें निर्विरोध चुनी गईं। अनकापल्ली जिले के पायकरावुपेटा क्षेत्र के चार मंडलों में 2,52,739 लोग वोट डाल रहे हैं। मतदान शाम 5 बजे तक; जरूरत पड़ने पर 6 को पुनर्मतदान और 7 को मतगणना।",
+    "pts": [
+     "एनटीआर जिले में 631 एमपीटीसी उम्मीदवार",
+     "संवेदनशील केंद्रों पर वेबकास्टिंग",
+     "आधार या 14 वैकल्पिक पहचान पत्र मान्य"
+    ],
+    "why": "इन जिलों के ग्रामीण मतदाताओं को शाम 5 बजे से पहले पहचान पत्र के साथ वोट डालना होगा।"
+   },
+   "d": "05.11.2026",
+   "t": "10:05"
+  },
   {
    "cat": "హైదరాబాద్ · విద్యుత్",
    "col": "--c-power",
@@ -1659,103 +1756,6 @@
     "why": "यह मामला सोशल मीडिया पर वीडियो शेयर करने से पहले तथ्य जांचने की ज़रूरत याद दिलाता है।",
     "cat": "भारत · दिल्ली",
     "statl": "दिल्ली स्पेशल सेल एफआईआर नंबर"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · నిజామాబాద్",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "13",
-   "statl": "ఆహార సంస్థల లైసెన్సులు సస్పెండ్",
-   "h": "నిజామాబాద్‌లో 13 ఆహార సంస్థల లైసెన్సులు రద్దు: టీజీ సేఫ్ చర్య",
-   "p": "నిజామాబాద్ జిల్లాలో 13 ఆహార తయారీ సంస్థల లైసెన్సులను టీజీ సేఫ్ సస్పెండ్ చేసి, వెంటనే కార్యకలాపాలు ఆపాలని ఆదేశించింది. మంగళవారం 14 బృందాలు మసాలాలు, తాగునీరు, మిఠాయిలు తయారు చేసే 28 సంస్థలను తనిఖీ చేశాయి. అపరిశుభ్ర వంటగదులు, బొద్దింకలు, ఎలుకలు, గడువు ముగిసిన ఉత్పత్తులు బయటపడ్డాయి. ₹17.28 లక్షల విలువైన 9,645 కిలోల ఆహారాన్ని స్వాధీనం చేసుకున్నారు లేదా పారవేశారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/tg-safe-suspends-licences-of-13-food-establishments-in-nizamabad",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nizamabad",
-   "pts": [
-    "కల్తీ అనుమానంతో 26 నమూనాల సేకరణ",
-    "ఎఫ్ఎస్ఎస్ఏఐ లైసెన్స్ లేని 4 సంస్థల మూసివేత",
-    "12 సంస్థలకు షోకాజ్, 3కు మెరుగుదల నోటీసులు"
-   ],
-   "why": "జిల్లాలో ప్రజలు కొనే మసాలాలు, మిఠాయిలు, తాగునీటి నాణ్యత నేరుగా వారి ఆరోగ్యానికి సంబంధించినది.",
-   "d": "04.11.2026",
-   "t": "20:35",
-   "en": {
-    "h": "TG SAFE suspends licences of 13 food units in Nizamabad",
-    "p": "TG SAFE suspended the licences of 13 food establishments in Nizamabad district and ordered them to stop operations immediately. On Tuesday, 14 teams inspected 28 units making spices, drinking water and sweets. Unhygienic kitchens, cockroaches, rodents and expired products were found. 9,645 kg of food worth ₹17.28 lakh was seized or discarded.",
-    "pts": [
-     "26 samples collected on suspicion of adulteration",
-     "4 units without FSSAI licence closed",
-     "Show-cause notices to 12, improvement notices to 3"
-    ],
-    "why": "The quality of spices, sweets and drinking water people buy in the district directly affects their health.",
-    "cat": "Telangana · Nizamabad",
-    "statl": "Food units' licences suspended"
-   },
-   "hi": {
-    "h": "निज़ामाबाद में 13 खाद्य इकाइयों के लाइसेंस निलंबित: टीजी सेफ की कार्रवाई",
-    "p": "टीजी सेफ ने निज़ामाबाद ज़िले में 13 खाद्य प्रतिष्ठानों के लाइसेंस निलंबित कर तुरंत काम बंद करने का आदेश दिया। मंगलवार को 14 टीमों ने मसाले, पेयजल और मिठाई बनाने वाली 28 इकाइयों की जांच की। गंदी रसोई, कॉकरोच, चूहे और एक्सपायर्ड उत्पाद मिले। ₹17.28 लाख मूल्य का 9,645 किलो भोजन ज़ब्त या नष्ट किया गया।",
-    "pts": [
-     "मिलावट के शक में 26 नमूने लिए गए",
-     "बिना एफएसएसएआई लाइसेंस वाली 4 इकाइयां बंद",
-     "12 को कारण बताओ, 3 को सुधार नोटिस"
-    ],
-    "why": "ज़िले में लोग जो मसाले, मिठाई और पेयजल खरीदते हैं, उनकी गुणवत्ता सीधे उनके स्वास्थ्य से जुड़ी है।",
-    "cat": "तेलंगाना · निज़ामाबाद",
-    "statl": "खाद्य इकाइयों के लाइसेंस निलंबित"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · వైద్యం",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "600+",
-   "statl": "నిరసనలో విదేశీ వైద్య గ్రాడ్యుయేట్ ఇంటర్న్‌లు",
-   "h": "స్టైపెండ్ సమానత్వం కోసం 600 మంది ఎఫ్ఎంజీ ఇంటర్న్‌ల నిరసన మళ్లీ ప్రారంభం",
-   "p": "తెలంగాణలోని ప్రభుత్వ వైద్య కళాశాలలు, ఆసుపత్రుల్లో పనిచేస్తున్న 600 మందికి పైగా విదేశీ వైద్య గ్రాడ్యుయేట్ (ఎఫ్ఎంజీ) ఇంటర్న్‌లు బుధవారం రాష్ట్రవ్యాప్త నిరసనను తిరిగి ప్రారంభించారు. ఆరోగ్య మంత్రి దామోదర రాజనర్సింహ హామీతో అక్టోబర్ 24 నుంచి నవంబర్ 3 వరకు నిరసనకు విరామం ఇచ్చారు. అనేక చర్చలు జరిగినా ఇంకా లిఖితపూర్వక ఉత్తర్వు రాలేదని వారు చెబుతున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/over-600-fmg-interns-resume-telangana-protest-over-stipend-parity",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "భారతీయ ఇంటర్న్‌లలాగే నెలకు ₹29,792 స్టైపెండ్ డిమాండ్",
-    "జనవరి 2026 నుంచి బకాయిల చెల్లింపు కోరిక",
-    "వేధింపులు, ఇంటర్న్‌షిప్ పొడిగింపుల నుంచి రక్షణ కోరిక"
-   ],
-   "why": "ప్రభుత్వ ఆసుపత్రుల్లో సేవలందిస్తున్న వందలాది యువ వైద్యుల జీతం, భవిష్యత్తుకు సంబంధించిన అంశం.",
-   "d": "04.11.2026",
-   "t": "20:35",
-   "en": {
-    "h": "600 FMG interns resume protest seeking stipend parity",
-    "p": "Over 600 Foreign Medical Graduate (FMG) interns working in government medical colleges and hospitals in Telangana resumed their statewide protest on Wednesday. They had paused it from October 24 to November 3 after assurances from Health Minister Damodar Raja Narasimha. They say no written order has been issued despite several rounds of talks.",
-    "pts": [
-     "Demand ₹29,792 monthly stipend, same as Indian interns",
-     "Seek arrears from January 2026",
-     "Seek protection from victimisation and internship extensions"
-    ],
-    "why": "The issue concerns the pay and future of hundreds of young doctors serving in government hospitals.",
-    "cat": "Telangana · Health",
-    "statl": "Foreign medical graduate interns protesting"
-   },
-   "hi": {
-    "h": "स्टाइपेंड समानता के लिए 600 एफएमजी इंटर्न का विरोध फिर शुरू",
-    "p": "तेलंगाना के सरकारी मेडिकल कॉलेजों और अस्पतालों में काम कर रहे 600 से अधिक विदेशी मेडिकल ग्रेजुएट (एफएमजी) इंटर्न ने बुधवार को राज्यव्यापी विरोध फिर शुरू किया। स्वास्थ्य मंत्री दामोदर राजा नरसिम्हा के आश्वासन के बाद उन्होंने 24 अक्टूबर से 3 नवंबर तक विरोध रोका था। उनका कहना है कि कई दौर की बातचीत के बावजूद लिखित आदेश जारी नहीं हुआ।",
-    "pts": [
-     "भारतीय इंटर्न के बराबर ₹29,792 मासिक स्टाइपेंड की मांग",
-     "जनवरी 2026 से बकाया भुगतान की मांग",
-     "उत्पीड़न और इंटर्नशिप बढ़ाने से सुरक्षा की मांग"
-    ],
-    "why": "यह सरकारी अस्पतालों में सेवा दे रहे सैकड़ों युवा डॉक्टरों के वेतन और भविष्य से जुड़ा मुद्दा है।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "विरोध में विदेशी मेडिकल ग्रेजुएट इंटर्न"
    }
   },
   {

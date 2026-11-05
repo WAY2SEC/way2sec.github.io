@@ -1,8 +1,105 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 28,
+ "count": 30,
  "stories": [
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+1,621",
+   "statl": "సెన్సెక్స్ ఉదయం లాభం (పాయింట్లు)",
+   "h": "స్టాక్ మార్కెట్ల భారీ జోరు: సెన్సెక్స్ 1,600 పాయింట్లకు పైగా లాభం",
+   "p": "గురువారం ఉదయం మార్కెట్లు భారీ లాభాలతో ప్రారంభమయ్యాయి. సెన్సెక్స్ 1,621 పాయింట్లు (2.09%) పెరిగి 78,922 వద్దకు చేరింది. నిఫ్టీ 24,378 వద్ద 1.74% లాభంతో తెరుచుకుంది. బ్రెంట్ ముడి చమురు ధర 11% పడిపోయి బ్యారెల్‌కు 93.50 డాలర్ల కనిష్ఠానికి చేరడం, అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్ల విజయం, విదేశీ పెట్టుబడిదారుల కొనుగోళ్లు ఈ జోరుకు కారణాలని కథనం.",
+   "pts": [
+    "నిఫ్టీ 50లో 42 షేర్లు లాభాల్లో",
+    "శ్రీరామ్ ఫైనాన్స్ 5.3%, ఇండిగో 4.6% పెరుగుదల",
+    "అపోలో హాస్పిటల్స్ 3.4%, ఓఎన్‌జీసీ 2.2% తగ్గుదల"
+   ],
+   "why": "చమురు ధరలు తగ్గడం, మార్కెట్ల లాభాలు షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టినవారికి ఊరట.",
+   "src": "Upstox News",
+   "url": "https://upstox.com/news/market-news/stocks/sensex-rallies-over-1-600-pts-nifty-50-jumps-1-7-as-crude-oil-plummets-key-factors-behind-today-s-stock-market-surge/article-203017/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Markets",
+    "statl": "Sensex morning gain (points)",
+    "h": "Markets surge: Sensex jumps over 1,600 points in early trade",
+    "p": "Markets opened with big gains on Thursday morning. The Sensex rose 1,621 points (2.09%) to 78,922. The Nifty opened 1.74% higher at 24,378. The report says Brent crude falling 11% to a low of $93.50 a barrel, the Democrats' win in the US midterm elections and foreign investor buying drove the rally.",
+    "pts": [
+     "42 of 50 Nifty stocks in the green",
+     "Shriram Finance up 5.3%, IndiGo up 4.6%",
+     "Apollo Hospitals down 3.4%, ONGC down 2.2%"
+    ],
+    "why": "Lower oil prices and market gains bring relief to people invested in shares and mutual funds."
+   },
+   "hi": {
+    "cat": "भारत · बाजार",
+    "statl": "सेंसेक्स की सुबह की बढ़त (अंक)",
+    "h": "शेयर बाजार में जोरदार तेजी: सेंसेक्स 1,600 अंक से ज्यादा चढ़ा",
+    "p": "गुरुवार सुबह बाजार भारी बढ़त के साथ खुले। सेंसेक्स 1,621 अंक (2.09%) चढ़कर 78,922 पर पहुंचा। निफ्टी 1.74% की बढ़त के साथ 24,378 पर खुला। रिपोर्ट के अनुसार ब्रेंट कच्चे तेल का 11% गिरकर 93.50 डॉलर प्रति बैरल के निचले स्तर पर आना, अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स की जीत और विदेशी निवेशकों की खरीदारी इस तेजी की वजह रहीं।",
+    "pts": [
+     "निफ्टी 50 के 42 शेयर बढ़त में",
+     "श्रीराम फाइनेंस 5.3%, इंडिगो 4.6% ऊपर",
+     "अपोलो हॉस्पिटल्स 3.4%, ओएनजीसी 2.2% नीचे"
+    ],
+    "why": "तेल के दाम घटने और बाजार की तेजी से शेयरों व म्यूचुअल फंड में निवेश करने वालों को राहत।"
+   },
+   "d": "05.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ఏపీ · ఎన్టీఆర్ జిల్లా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "8.35 లక్షలు",
+   "statl": "ఎన్టీఆర్ జిల్లాలో ఓటర్లు",
+   "h": "ఎన్టీఆర్, అనకాపల్లి జిల్లాల్లో పరిషత్ పోలింగ్; 7న కౌంటింగ్",
+   "p": "ఎన్టీఆర్ జిల్లాలో 16 జడ్పీటీసీ, 276 ఎంపీటీసీ స్థానాలకు ఉదయం 7 గంటల నుంచి పోలింగ్ జరుగుతోంది. 8,35,515 మంది ఓటర్ల కోసం 992 పోలింగ్ కేంద్రాలు ఏర్పాటు చేశారు. మరో 4 ఎంపీటీసీ స్థానాలు ఏకగ్రీవమయ్యాయి. అనకాపల్లి జిల్లా పాయకరావుపేట నియోజకవర్గంలోని నాలుగు మండలాల్లో 2,52,739 మంది ఓటు వేస్తున్నారు. పోలింగ్ సాయంత్రం 5 గంటల వరకు; అవసరమైతే 6న రీపోలింగ్, 7న ఓట్ల లెక్కింపు.",
+   "pts": [
+    "ఎన్టీఆర్ జిల్లాలో 631 మంది ఎంపీటీసీ అభ్యర్థులు",
+    "సమస్యాత్మక కేంద్రాల్లో వెబ్‌కాస్టింగ్",
+    "ఆధార్ లేదా 14 ప్రత్యామ్నాయ గుర్తింపు పత్రాలు చెల్లుతాయి"
+   ],
+   "why": "ఈ జిల్లాల గ్రామీణ ఓటర్లు సాయంత్రం 5 గంటలలోపు గుర్తింపు పత్రంతో ఓటు వేయాలి.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/andhra-pradesh-polling-begins-for-zptc-mptc-elections-amid-tight-security20261105084510/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "en": {
+    "cat": "AP · NTR district",
+    "statl": "Voters in NTR district",
+    "h": "Parishad polling in NTR, Anakapalli districts; counting on 7th",
+    "p": "Polling for 16 ZPTC and 276 MPTC seats in NTR district has been under way since 7 am. 992 polling stations have been set up for 8,35,515 voters. Another 4 MPTC seats were won unanimously. In four mandals of Payakaraopeta constituency in Anakapalli district, 2,52,739 people are voting. Polling runs till 5 pm; repolling, if needed, on the 6th and counting on the 7th.",
+    "pts": [
+     "631 MPTC candidates in NTR district",
+     "Webcasting at problematic polling centres",
+     "Aadhaar or 14 alternative ID documents accepted"
+    ],
+    "why": "Rural voters in these districts must vote with an ID document before 5 pm."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · एनटीआर जिला",
+    "statl": "एनटीआर जिले में मतदाता",
+    "h": "एनटीआर, अनकापल्ली जिलों में परिषद मतदान; 7 को मतगणना",
+    "p": "एनटीआर जिले में 16 जेडपीटीसी और 276 एमपीटीसी सीटों के लिए सुबह 7 बजे से मतदान जारी है। 8,35,515 मतदाताओं के लिए 992 मतदान केंद्र बनाए गए हैं। 4 और एमपीटीसी सीटें निर्विरोध चुनी गईं। अनकापल्ली जिले के पायकरावुपेटा क्षेत्र के चार मंडलों में 2,52,739 लोग वोट डाल रहे हैं। मतदान शाम 5 बजे तक; जरूरत पड़ने पर 6 को पुनर्मतदान और 7 को मतगणना।",
+    "pts": [
+     "एनटीआर जिले में 631 एमपीटीसी उम्मीदवार",
+     "संवेदनशील केंद्रों पर वेबकास्टिंग",
+     "आधार या 14 वैकल्पिक पहचान पत्र मान्य"
+    ],
+    "why": "इन जिलों के ग्रामीण मतदाताओं को शाम 5 बजे से पहले पहचान पत्र के साथ वोट डालना होगा।"
+   },
+   "d": "05.11.2026",
+   "t": "10:05"
+  },
   {
    "cat": "హైదరాబాద్ · విద్యుత్",
    "col": "--c-power",
