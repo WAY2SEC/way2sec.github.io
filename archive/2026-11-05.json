@@ -1,8 +1,157 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 21,
+ "count": 24,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సంగారెడ్డి",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "అర్ధరాత్రి",
+   "statl": "తర్వాత చెలరేగిన మంటలు",
+   "h": "సంగారెడ్డి జిల్లా కంది వద్ద ఈవీ స్కూటర్ ఫ్యాక్టరీలో భారీ అగ్నిప్రమాదం",
+   "p": "సంగారెడ్డి జిల్లా కంది సమీపంలోని ప్యూర్ ఎనర్జీ ఎలక్ట్రిక్ ద్విచక్ర వాహనాల తయారీ, బ్యాటరీ యూనిట్‌లో గురువారం అర్ధరాత్రి తర్వాత అగ్నిప్రమాదం జరిగింది. మంటలు ప్లాంట్ అంతటా తీవ్రంగా వ్యాపించాయి. అగ్నిమాపక సిబ్బంది ఘటనాస్థలానికి చేరుకుని మంటలను అదుపులోకి తెచ్చేందుకు శ్రమిస్తున్నారని ఈటీవీ భారత్ తెలిపింది.",
+   "pts": [
+    "కంది సమీపంలోని ప్యూర్ ఎనర్జీ ఈవీ యూనిట్‌లో మంటలు",
+    "అర్ధరాత్రి తర్వాత ప్రమాదం, ప్లాంట్ అంతటా వ్యాప్తి",
+    "మంటల అదుపునకు అగ్నిమాపక సిబ్బంది ప్రయత్నాలు"
+   ],
+   "why": "పారిశ్రామిక ప్రాంతాల్లో అగ్నిప్రమాదాలు కార్మికుల భద్రతపై, పరిసర ప్రజలపై ప్రభావం చూపుతాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395#ev-fire",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కంది",
+   "en": {
+    "cat": "Telangana · Sangareddy",
+    "statl": "Fire broke out after midnight",
+    "h": "Major fire at EV scooter factory near Kandi in Sangareddy district",
+    "p": "A fire broke out after midnight at the Pure Energy electric two-wheeler manufacturing and battery unit near Kandi in Sangareddy district. The flames spread heavily through the plant. ETV Bharat reported that fire personnel reached the spot and were working to bring the blaze under control.",
+    "pts": [
+     "Fire at Pure Energy EV unit near Kandi",
+     "Broke out after midnight, spread across plant",
+     "Fire personnel working to control the blaze"
+    ],
+    "why": "Fires in industrial areas affect worker safety and people living nearby."
+   },
+   "hi": {
+    "cat": "तेलंगाना · संगारेड्डी",
+    "statl": "आधी रात के बाद लगी आग",
+    "h": "संगारेड्डी जिले के कंदी में ईवी स्कूटर फैक्ट्री में भीषण आग",
+    "p": "संगारेड्डी जिले के कंदी के पास प्योर एनर्जी की इलेक्ट्रिक दोपहिया निर्माण और बैटरी यूनिट में आधी रात के बाद आग लग गई। लपटें पूरे प्लांट में तेजी से फैल गईं। ईटीवी भारत के अनुसार दमकलकर्मी मौके पर पहुंचे और आग पर काबू पाने की कोशिश कर रहे हैं।",
+    "pts": [
+     "कंदी के पास प्योर एनर्जी ईवी यूनिट में आग",
+     "आधी रात के बाद लगी, पूरे प्लांट में फैली",
+     "आग बुझाने में जुटे दमकलकर्मी"
+    ],
+    "why": "औद्योगिक क्षेत्रों में आग मजदूरों की सुरक्षा और आसपास के लोगों को प्रभावित करती है।"
+   },
+   "d": "05.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "402",
+   "statl": "ఎయిమ్స్ వద్ద గాలి నాణ్యత సూచీ",
+   "h": "ఢిల్లీలో విషపూరిత గాలి: ఎయిమ్స్ వద్ద ఏక్యూఐ 402, 'తీవ్ర' స్థాయి",
+   "p": "కేంద్ర కాలుష్య నియంత్రణ మండలి (సీపీసీబీ) వివరాల ప్రకారం గురువారం ఉదయం ఢిల్లీ ఎయిమ్స్ పరిసరాల్లో గాలి నాణ్యత సూచీ 402కు చేరి 'తీవ్ర' కేటగిరీలో నమోదైంది. ఇండియా గేట్ వద్ద 399 ('చాలా పేలవం'), ఆనంద్ విహార్ వద్ద 296 ('పేలవం')గా ఉంది.",
+   "pts": [
+    "ఎయిమ్స్ వద్ద ఏక్యూఐ 402 – తీవ్ర కేటగిరీ",
+    "ఇండియా గేట్ వద్ద 399 – చాలా పేలవం",
+    "ఆనంద్ విహార్ వద్ద 296 – పేలవం"
+   ],
+   "why": "ఢిల్లీలో ఉండే తెలుగువారు సహా పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలున్నవారి ఆరోగ్యంపై ఇది ప్రభావం చూపుతుంది.",
+   "src": "Webdunia",
+   "url": "https://hindi.webdunia.com/national-hindi-news/aaj-ke-taaja-samachar-latest-breaking-news-today-in-hindi-5-november-2026-live-update-126110500003_1.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "en": {
+    "cat": "Delhi · Pollution",
+    "statl": "Air quality index near AIIMS",
+    "h": "Toxic air in Delhi: AQI 402 near AIIMS, in 'severe' category",
+    "p": "According to the Central Pollution Control Board (CPCB), the air quality index around Delhi's AIIMS reached 402 on Thursday morning, in the 'severe' category. It was 399 ('very poor') at India Gate and 296 ('poor') at Anand Vihar.",
+    "pts": [
+     "AQI 402 near AIIMS – severe",
+     "399 at India Gate – very poor",
+     "296 at Anand Vihar – poor"
+    ],
+    "why": "It affects the health of children, the elderly and people with breathing problems in Delhi, including Telugu residents."
+   },
+   "hi": {
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "एम्स के पास वायु गुणवत्ता सूचकांक",
+    "h": "दिल्ली की हवा जहरीली: एम्स के पास AQI 402, 'गंभीर' श्रेणी",
+    "p": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) के अनुसार गुरुवार सुबह दिल्ली के एम्स के आसपास वायु गुणवत्ता सूचकांक 402 पहुंच गया, जो 'गंभीर' श्रेणी में है। इंडिया गेट पर यह 399 ('बहुत खराब') और आनंद विहार में 296 ('खराब') रहा।",
+    "pts": [
+     "एम्स के पास AQI 402 – गंभीर",
+     "इंडिया गेट पर 399 – बहुत खराब",
+     "आनंद विहार में 296 – खराब"
+    ],
+    "why": "इसका असर दिल्ली में रहने वाले तेलुगु लोगों सहित बच्चों, बुजुर्गों और सांस के मरीजों की सेहत पर पड़ता है।"
+   },
+   "d": "05.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ప్రపంచం · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "~5%",
+   "statl": "కోస్పి సూచీ పతనం",
+   "h": "అమెరికా మధ్యంతర ఫలితాల ఎఫెక్ట్: దక్షిణ కొరియా కోస్పి దాదాపు 5% పతనం",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్లు భారీ విజయం సాధించిన నేపథ్యంలో గురువారం ఉదయం ట్రేడింగ్‌లో దక్షిణ కొరియా స్టాక్ సూచీ కోస్పి దాదాపు 5% పడిపోయింది. సెమీకండక్టర్ షేర్లు భారీగా క్షీణించాయి. ఏఐ డేటా సెంటర్లపై అమెరికా నియంత్రణలు కఠినమవుతాయన్న ఆందోళనలే ఇందుకు కారణమని ఎస్‌బీఎస్ తెలిపింది.",
+   "pts": [
+    "ప్రారంభ ట్రేడింగ్‌లో కోస్పి దాదాపు 5% పతనం",
+    "సెమీకండక్టర్ షేర్లలో భారీ క్షీణత",
+    "ఏఐ డేటా సెంటర్లపై అమెరికా నియంత్రణల భయం"
+   ],
+   "why": "ఆసియా మార్కెట్ల కదలికలు భారత స్టాక్ మార్కెట్లు, టెక్ షేర్లలో పెట్టుబడిదారులపై ప్రభావం చూపవచ్చు.",
+   "src": "SBS",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008832123",
+   "sec": [
+    "world",
+    "business",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · Markets",
+    "statl": "Fall in KOSPI index",
+    "h": "US midterm effect: South Korea's KOSPI falls nearly 5%",
+    "p": "After the Democrats won the US midterm elections in a landslide, South Korea's KOSPI index fell nearly 5% in early trading on Thursday. Semiconductor shares dropped sharply. SBS said the fall was linked to concerns about tighter US regulation of AI data centres.",
+    "pts": [
+     "KOSPI falls nearly 5% in early trading",
+     "Sharp drop in semiconductor shares",
+     "Fears of tighter US rules on AI data centres"
+    ],
+    "why": "Moves in Asian markets can affect investors in Indian stock markets and tech shares."
+   },
+   "hi": {
+    "cat": "दुनिया · बाजार",
+    "statl": "कोस्पी सूचकांक में गिरावट",
+    "h": "अमेरिकी मध्यावधि नतीजों का असर: दक्षिण कोरिया का कोस्पी करीब 5% गिरा",
+    "p": "अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स की भारी जीत के बाद गुरुवार सुबह शुरुआती कारोबार में दक्षिण कोरिया का कोस्पी सूचकांक करीब 5% गिर गया। सेमीकंडक्टर शेयरों में तेज गिरावट आई। एसबीएस के अनुसार इसकी वजह एआई डेटा सेंटरों पर अमेरिका के सख्त नियमों की आशंका है।",
+    "pts": [
+     "शुरुआती कारोबार में कोस्पी करीब 5% गिरा",
+     "सेमीकंडक्टर शेयरों में तेज गिरावट",
+     "एआई डेटा सेंटरों पर सख्त अमेरिकी नियमों का डर"
+    ],
+    "why": "एशियाई बाजारों की चाल भारतीय शेयर बाजार और टेक शेयरों के निवेशकों को प्रभावित कर सकती है।"
+   },
+   "d": "05.11.2026",
+   "t": "09:05"
+  },
   {
    "cat": "తెలంగాణ · ఖమ్మం",
    "col": "--c-water",

@@ -1,8 +1,157 @@
 {
  "date": "05.11.2026",
- "updated": "2026-11-05T08:40:00+05:30",
+ "updated": "2026-11-05T09:05:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సంగారెడ్డి",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "అర్ధరాత్రి",
+   "statl": "తర్వాత చెలరేగిన మంటలు",
+   "h": "సంగారెడ్డి జిల్లా కంది వద్ద ఈవీ స్కూటర్ ఫ్యాక్టరీలో భారీ అగ్నిప్రమాదం",
+   "p": "సంగారెడ్డి జిల్లా కంది సమీపంలోని ప్యూర్ ఎనర్జీ ఎలక్ట్రిక్ ద్విచక్ర వాహనాల తయారీ, బ్యాటరీ యూనిట్‌లో గురువారం అర్ధరాత్రి తర్వాత అగ్నిప్రమాదం జరిగింది. మంటలు ప్లాంట్ అంతటా తీవ్రంగా వ్యాపించాయి. అగ్నిమాపక సిబ్బంది ఘటనాస్థలానికి చేరుకుని మంటలను అదుపులోకి తెచ్చేందుకు శ్రమిస్తున్నారని ఈటీవీ భారత్ తెలిపింది.",
+   "pts": [
+    "కంది సమీపంలోని ప్యూర్ ఎనర్జీ ఈవీ యూనిట్‌లో మంటలు",
+    "అర్ధరాత్రి తర్వాత ప్రమాదం, ప్లాంట్ అంతటా వ్యాప్తి",
+    "మంటల అదుపునకు అగ్నిమాపక సిబ్బంది ప్రయత్నాలు"
+   ],
+   "why": "పారిశ్రామిక ప్రాంతాల్లో అగ్నిప్రమాదాలు కార్మికుల భద్రతపై, పరిసర ప్రజలపై ప్రభావం చూపుతాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395#ev-fire",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కంది",
+   "en": {
+    "cat": "Telangana · Sangareddy",
+    "statl": "Fire broke out after midnight",
+    "h": "Major fire at EV scooter factory near Kandi in Sangareddy district",
+    "p": "A fire broke out after midnight at the Pure Energy electric two-wheeler manufacturing and battery unit near Kandi in Sangareddy district. The flames spread heavily through the plant. ETV Bharat reported that fire personnel reached the spot and were working to bring the blaze under control.",
+    "pts": [
+     "Fire at Pure Energy EV unit near Kandi",
+     "Broke out after midnight, spread across plant",
+     "Fire personnel working to control the blaze"
+    ],
+    "why": "Fires in industrial areas affect worker safety and people living nearby."
+   },
+   "hi": {
+    "cat": "तेलंगाना · संगारेड्डी",
+    "statl": "आधी रात के बाद लगी आग",
+    "h": "संगारेड्डी जिले के कंदी में ईवी स्कूटर फैक्ट्री में भीषण आग",
+    "p": "संगारेड्डी जिले के कंदी के पास प्योर एनर्जी की इलेक्ट्रिक दोपहिया निर्माण और बैटरी यूनिट में आधी रात के बाद आग लग गई। लपटें पूरे प्लांट में तेजी से फैल गईं। ईटीवी भारत के अनुसार दमकलकर्मी मौके पर पहुंचे और आग पर काबू पाने की कोशिश कर रहे हैं।",
+    "pts": [
+     "कंदी के पास प्योर एनर्जी ईवी यूनिट में आग",
+     "आधी रात के बाद लगी, पूरे प्लांट में फैली",
+     "आग बुझाने में जुटे दमकलकर्मी"
+    ],
+    "why": "औद्योगिक क्षेत्रों में आग मजदूरों की सुरक्षा और आसपास के लोगों को प्रभावित करती है।"
+   },
+   "d": "05.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "402",
+   "statl": "ఎయిమ్స్ వద్ద గాలి నాణ్యత సూచీ",
+   "h": "ఢిల్లీలో విషపూరిత గాలి: ఎయిమ్స్ వద్ద ఏక్యూఐ 402, 'తీవ్ర' స్థాయి",
+   "p": "కేంద్ర కాలుష్య నియంత్రణ మండలి (సీపీసీబీ) వివరాల ప్రకారం గురువారం ఉదయం ఢిల్లీ ఎయిమ్స్ పరిసరాల్లో గాలి నాణ్యత సూచీ 402కు చేరి 'తీవ్ర' కేటగిరీలో నమోదైంది. ఇండియా గేట్ వద్ద 399 ('చాలా పేలవం'), ఆనంద్ విహార్ వద్ద 296 ('పేలవం')గా ఉంది.",
+   "pts": [
+    "ఎయిమ్స్ వద్ద ఏక్యూఐ 402 – తీవ్ర కేటగిరీ",
+    "ఇండియా గేట్ వద్ద 399 – చాలా పేలవం",
+    "ఆనంద్ విహార్ వద్ద 296 – పేలవం"
+   ],
+   "why": "ఢిల్లీలో ఉండే తెలుగువారు సహా పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలున్నవారి ఆరోగ్యంపై ఇది ప్రభావం చూపుతుంది.",
+   "src": "Webdunia",
+   "url": "https://hindi.webdunia.com/national-hindi-news/aaj-ke-taaja-samachar-latest-breaking-news-today-in-hindi-5-november-2026-live-update-126110500003_1.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "en": {
+    "cat": "Delhi · Pollution",
+    "statl": "Air quality index near AIIMS",
+    "h": "Toxic air in Delhi: AQI 402 near AIIMS, in 'severe' category",
+    "p": "According to the Central Pollution Control Board (CPCB), the air quality index around Delhi's AIIMS reached 402 on Thursday morning, in the 'severe' category. It was 399 ('very poor') at India Gate and 296 ('poor') at Anand Vihar.",
+    "pts": [
+     "AQI 402 near AIIMS – severe",
+     "399 at India Gate – very poor",
+     "296 at Anand Vihar – poor"
+    ],
+    "why": "It affects the health of children, the elderly and people with breathing problems in Delhi, including Telugu residents."
+   },
+   "hi": {
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "एम्स के पास वायु गुणवत्ता सूचकांक",
+    "h": "दिल्ली की हवा जहरीली: एम्स के पास AQI 402, 'गंभीर' श्रेणी",
+    "p": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) के अनुसार गुरुवार सुबह दिल्ली के एम्स के आसपास वायु गुणवत्ता सूचकांक 402 पहुंच गया, जो 'गंभीर' श्रेणी में है। इंडिया गेट पर यह 399 ('बहुत खराब') और आनंद विहार में 296 ('खराब') रहा।",
+    "pts": [
+     "एम्स के पास AQI 402 – गंभीर",
+     "इंडिया गेट पर 399 – बहुत खराब",
+     "आनंद विहार में 296 – खराब"
+    ],
+    "why": "इसका असर दिल्ली में रहने वाले तेलुगु लोगों सहित बच्चों, बुजुर्गों और सांस के मरीजों की सेहत पर पड़ता है।"
+   },
+   "d": "05.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ప్రపంచం · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "~5%",
+   "statl": "కోస్పి సూచీ పతనం",
+   "h": "అమెరికా మధ్యంతర ఫలితాల ఎఫెక్ట్: దక్షిణ కొరియా కోస్పి దాదాపు 5% పతనం",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో డెమొక్రాట్లు భారీ విజయం సాధించిన నేపథ్యంలో గురువారం ఉదయం ట్రేడింగ్‌లో దక్షిణ కొరియా స్టాక్ సూచీ కోస్పి దాదాపు 5% పడిపోయింది. సెమీకండక్టర్ షేర్లు భారీగా క్షీణించాయి. ఏఐ డేటా సెంటర్లపై అమెరికా నియంత్రణలు కఠినమవుతాయన్న ఆందోళనలే ఇందుకు కారణమని ఎస్‌బీఎస్ తెలిపింది.",
+   "pts": [
+    "ప్రారంభ ట్రేడింగ్‌లో కోస్పి దాదాపు 5% పతనం",
+    "సెమీకండక్టర్ షేర్లలో భారీ క్షీణత",
+    "ఏఐ డేటా సెంటర్లపై అమెరికా నియంత్రణల భయం"
+   ],
+   "why": "ఆసియా మార్కెట్ల కదలికలు భారత స్టాక్ మార్కెట్లు, టెక్ షేర్లలో పెట్టుబడిదారులపై ప్రభావం చూపవచ్చు.",
+   "src": "SBS",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008832123",
+   "sec": [
+    "world",
+    "business",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · Markets",
+    "statl": "Fall in KOSPI index",
+    "h": "US midterm effect: South Korea's KOSPI falls nearly 5%",
+    "p": "After the Democrats won the US midterm elections in a landslide, South Korea's KOSPI index fell nearly 5% in early trading on Thursday. Semiconductor shares dropped sharply. SBS said the fall was linked to concerns about tighter US regulation of AI data centres.",
+    "pts": [
+     "KOSPI falls nearly 5% in early trading",
+     "Sharp drop in semiconductor shares",
+     "Fears of tighter US rules on AI data centres"
+    ],
+    "why": "Moves in Asian markets can affect investors in Indian stock markets and tech shares."
+   },
+   "hi": {
+    "cat": "दुनिया · बाजार",
+    "statl": "कोस्पी सूचकांक में गिरावट",
+    "h": "अमेरिकी मध्यावधि नतीजों का असर: दक्षिण कोरिया का कोस्पी करीब 5% गिरा",
+    "p": "अमेरिकी मध्यावधि चुनावों में डेमोक्रेट्स की भारी जीत के बाद गुरुवार सुबह शुरुआती कारोबार में दक्षिण कोरिया का कोस्पी सूचकांक करीब 5% गिर गया। सेमीकंडक्टर शेयरों में तेज गिरावट आई। एसबीएस के अनुसार इसकी वजह एआई डेटा सेंटरों पर अमेरिका के सख्त नियमों की आशंका है।",
+    "pts": [
+     "शुरुआती कारोबार में कोस्पी करीब 5% गिरा",
+     "सेमीकंडक्टर शेयरों में तेज गिरावट",
+     "एआई डेटा सेंटरों पर सख्त अमेरिकी नियमों का डर"
+    ],
+    "why": "एशियाई बाजारों की चाल भारतीय शेयर बाजार और टेक शेयरों के निवेशकों को प्रभावित कर सकती है।"
+   },
+   "d": "05.11.2026",
+   "t": "09:05"
+  },
   {
    "cat": "తెలంగాణ · ఖమ్మం",
    "col": "--c-water",
@@ -1025,34 +1174,6 @@
    "t": "06:35"
   },
   {
-   "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "05.11.2026",
-   "statl": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఓటు నమోదు – మల్లన్న మిల్క్ పార్లర్, ఆలేరు",
-   "h": "ఆలేరులో బీజేపీ, బీజేవైఎం ఆధ్వర్యంలో MLC ఓటు నమోదు అవగాహన సమావేశం",
-   "p": "MLC ఓటు నమోదు, ఓటు ప్రాధాన్యతపై బీజేపీ, బీజేవైఎం ఆధ్వర్యంలో ఆలేరు పట్టణంలోని బీజేపీ కార్యాలయంలో కార్యకర్తల సమావేశం జరిగింది. బీజేవైఎం జిల్లా ఉపాధ్యక్షులు పేరపు ఆనంద్ గారు మాట్లాడుతూ.. రాబోయే గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో అర్హత ఉన్న ప్రతి ఒక్కరూ ఓటు హక్కు వినియోగించుకోవాలని, ఈసారి బీజేపీ బలపర్చిన అభ్యర్థికి ఓటు వేయాలని కోరారు. ఓటు హక్కు లేని గ్రాడ్యుయేట్లు గురువారం (05.11.2026) ఆలేరు రైల్వే గేట్ వద్ద మల్లన్న మిల్క్ పార్లర్‌లో జరిగే నమోదు కార్యక్రమాన్ని వినియోగించుకోవాలని సూచించారు.",
-   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "ఆలేరు పట్టణం",
-   "pts": [
-    "📍 ఓటు నమోదు: గురువారం 05.11.2026 · మల్లన్న మిల్క్ పార్లర్, రైల్వే గేట్, ఆలేరు",
-    "సలహా కోసం: పేరపు ఆనంద్ · 86882 73143",
-    "పాల్గొన్నవారు: చిలుగూరి శాంతి రెడ్డి, శంకర్, మంత్రి సాయి, ఎలగల వెంకటేష్, వడ్డెమాన్ నరేందర్, కామిటికారి కృష్ణ, కళ్లెం రాజు"
-   ],
-   "why": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలంటే ముందుగా ఓటరుగా నమోదు చేసుకోవాలి.",
-   "d": "04.11.2026",
-   "t": "19:40",
-   "img": "photos/2026-11-04-aler-bjp-mlc-vote-enrolment.jpg",
-   "imgfy": 0.3,
-   "local": true
-  },
-  {
    "cat": "హైదరాబాద్ · ఓటర్ల జాబితా",
    "col": "--c-election",
    "art": "voters",
@@ -1636,300 +1757,32 @@
    }
   },
   {
-   "cat": "తెలంగాణ · రంగారెడ్డి",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "2 అరెస్ట్",
-   "statl": "క్రైస్తవ యువతులపై దాడి కేసులో",
-   "h": "క్రైస్తవ యువతులపై దాడి కేసు: నిరసనల తర్వాత ఇద్దరి అరెస్ట్",
-   "p": "రంగారెడ్డి జిల్లా అల్మాస్‌గూడలో అంబేడ్కర్ విగ్రహం సమీపంలో క్రైస్తవ యువతులను చెంపదెబ్బ కొట్టారన్న ఆరోపణలపై మీర్‌పేట్ పోలీసులు ఇద్దరిని అరెస్ట్ చేశారు. ఘటన నెల క్రితం జరిగినా, వీడియో మంగళవారం సాయంత్రం బయటకు రావడంతో ఆగ్రహం వ్యక్తమైంది. మతమార్పిడి ఆరోపణతో యువతులను దూషించినట్లు వీడియోలో కనిపిస్తోంది. కేసు నమోదు చేసి నిందితులను మేజిస్ట్రేట్ ముందు హాజరుపరుస్తున్నట్లు పోలీసులు తెలిపారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-christian-women-attack-after-intense-protest-two-arrested-3569780/",
+   "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "05.11.2026",
+   "statl": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఓటు నమోదు – మల్లన్న మిల్క్ పార్లర్, ఆలేరు",
+   "h": "ఆలేరులో బీజేపీ, బీజేవైఎం ఆధ్వర్యంలో MLC ఓటు నమోదు అవగాహన సమావేశం",
+   "p": "MLC ఓటు నమోదు, ఓటు ప్రాధాన్యతపై బీజేపీ, బీజేవైఎం ఆధ్వర్యంలో ఆలేరు పట్టణంలోని బీజేపీ కార్యాలయంలో కార్యకర్తల సమావేశం జరిగింది. బీజేవైఎం జిల్లా ఉపాధ్యక్షులు పేరపు ఆనంద్ గారు మాట్లాడుతూ.. రాబోయే గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో అర్హత ఉన్న ప్రతి ఒక్కరూ ఓటు హక్కు వినియోగించుకోవాలని, ఈసారి బీజేపీ బలపర్చిన అభ్యర్థికి ఓటు వేయాలని కోరారు. ఓటు హక్కు లేని గ్రాడ్యుయేట్లు గురువారం (05.11.2026) ఆలేరు రైల్వే గేట్ వద్ద మల్లన్న మిల్క్ పార్లర్‌లో జరిగే నమోదు కార్యక్రమాన్ని వినియోగించుకోవాలని సూచించారు.",
+   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
+   "url": "",
    "sec": [
     "telangana"
    ],
    "st": "TG",
-   "place": "rangareddy",
-   "loc": "అల్మాస్‌గూడ",
+   "place": "yadadri",
+   "loc": "ఆలేరు పట్టణం",
    "pts": [
-    "మీర్‌పేట్ ఎస్‌హెచ్‌ఓ కేసు నమోదు",
-    "బడంగ్‌పేట్ చౌరస్తాలో దళిత క్రైస్తవ సంఘాల భారీ నిరసన",
-    "మరిన్ని వివరాలు పోలీసులు పరిశీలిస్తున్నారు"
+    "📍 ఓటు నమోదు: గురువారం 05.11.2026 · మల్లన్న మిల్క్ పార్లర్, రైల్వే గేట్, ఆలేరు",
+    "సలహా కోసం: పేరపు ఆనంద్ · 86882 73143",
+    "పాల్గొన్నవారు: చిలుగూరి శాంతి రెడ్డి, శంకర్, మంత్రి సాయి, ఎలగల వెంకటేష్, వడ్డెమాన్ నరేందర్, కామిటికారి కృష్ణ, కళ్లెం రాజు"
    ],
-   "why": "మత సామరస్యం, మహిళల భద్రతపై ప్రజల్లో ఆందోళన పెంచిన ఘటన కావడంతో పోలీసు చర్య కీలకం.",
+   "why": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలంటే ముందుగా ఓటరుగా నమోదు చేసుకోవాలి.",
    "d": "04.11.2026",
-   "t": "20:05",
-   "en": {
-    "h": "Attack on Christian women: two arrested after protests",
-    "p": "Meerpet police arrested two people accused of slapping young Christian women near the Ambedkar statue at Almasguda in Ranga Reddy district. Though the incident took place a month ago, the video surfaced on Tuesday evening, sparking anger. The video shows the women being abused over an allegation of religious conversion. Police said a case was registered and the accused are being produced before a magistrate.",
-    "pts": [
-     "Case registered by Meerpet SHO",
-     "Big protest by Dalit Christian groups at Badangpet crossroads",
-     "Police verifying further details"
-    ],
-    "why": "The incident raised public concern over communal harmony and women's safety, making police action important.",
-    "cat": "Telangana · Ranga Reddy",
-    "statl": "In attack on Christian women case"
-   },
-   "hi": {
-    "h": "ईसाई युवतियों पर हमला: विरोध के बाद दो गिरफ्तार",
-    "p": "रंगारेड्डी जिले के अल्मासगुडा में आंबेडकर प्रतिमा के पास ईसाई युवतियों को थप्पड़ मारने के आरोप में मीरपेट पुलिस ने दो लोगों को गिरफ्तार किया। घटना एक महीने पुरानी है, लेकिन मंगलवार शाम वीडियो सामने आने पर आक्रोश फैला। वीडियो में धर्मांतरण के आरोप पर युवतियों से दुर्व्यवहार दिखता है। पुलिस ने बताया कि केस दर्ज कर आरोपियों को मजिस्ट्रेट के सामने पेश किया जा रहा है।",
-    "pts": [
-     "मीरपेट एसएचओ ने केस दर्ज किया",
-     "बडंगपेट चौराहे पर दलित ईसाई संगठनों का बड़ा प्रदर्शन",
-     "पुलिस आगे की जानकारी की जांच कर रही है"
-    ],
-    "why": "घटना से सांप्रदायिक सौहार्द और महिलाओं की सुरक्षा पर चिंता बढ़ी, इसलिए पुलिस कार्रवाई अहम है।",
-    "cat": "तेलंगाना · रंगारेड्डी",
-    "statl": "ईसाई युवतियों पर हमले के मामले में"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · విద్య",
-   "col": "--c-city",
-   "art": "campus",
-   "stat": "HCU",
-   "statl": "అధ్యాపకుడిపై కుల దూషణ ఆరోపణలు",
-   "h": "హెచ్‌సీయూ అధ్యాపకుడిపై కుల దూషణ ఆరోపణలు: చర్యకు ఎస్ఎఫ్ఐ డిమాండ్",
-   "p": "హైదరాబాద్ సెంట్రల్ యూనివర్సిటీ చరిత్ర విభాగానికి చెందిన ఓ అసోసియేట్ ప్రొఫెసర్ తన పర్యవేక్షణలోని విద్యార్థికి పంపిన ఈమెయిల్‌లో కుల, వర్గ వివక్షాపూరిత వ్యాఖ్యలు చేశారని ఎస్ఎఫ్ఐ యూకే, హెచ్‌సీయూ విభాగాలు ఆరోపించాయి. పుస్తక అధ్యాయం సవరణలపై విభేదంతో వివాదం మొదలైందని తెలిపాయి. పారదర్శక విచారణ జరిపి ఆయనను తొలగించాలని, ఎస్సీ ఎస్టీ అట్రాసిటీ చట్టం కింద కేసు పెట్టాలని డిమాండ్ చేశాయి.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/sfi-alleges-caste-abuse-by-faculty-at-university-of-hyderabad-3569750/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "ఆరోపణలు ఈమెయిల్ ఆధారంగా: ఎస్ఎఫ్ఐ",
-    "విచారణ ఫలితాలు బహిర్గతం చేయాలని డిమాండ్",
-    "ప్రొఫెసర్ స్పందన కోసం సంప్రదించినట్లు సియాసత్ వెల్లడి"
-   ],
-   "why": "విశ్వవిద్యాలయాల్లో అణగారిన వర్గాల విద్యార్థుల పట్ల వివక్షపై ఆందోళనను ఈ ఆరోపణలు మళ్లీ ముందుకు తెచ్చాయి.",
-   "d": "04.11.2026",
-   "t": "20:05",
-   "en": {
-    "h": "Caste abuse allegations against HCU faculty: SFI demands action",
-    "p": "The SFI's UK and HCU units alleged that an Associate Professor of the History department at the University of Hyderabad made casteist and classist remarks in an email to a student he was mentoring. They said the dispute began over revisions to a book chapter. They demanded a transparent inquiry, his removal, and a case under the SC/ST (Prevention of Atrocities) Act.",
-    "pts": [
-     "Allegations based on an email, says SFI",
-     "Demand that inquiry findings be made public",
-     "Siasat says it contacted the professor for comment"
-    ],
-    "why": "The allegations again bring up concerns about discrimination against students from marginalised communities in universities.",
-    "cat": "Hyderabad · Education",
-    "statl": "Caste abuse allegations against faculty"
-   },
-   "hi": {
-    "h": "एचसीयू शिक्षक पर जातिगत अपमान के आरोप: एसएफआई ने कार्रवाई मांगी",
-    "p": "एसएफआई की यूके और एचसीयू इकाइयों ने आरोप लगाया कि हैदराबाद विश्वविद्यालय के इतिहास विभाग के एक एसोसिएट प्रोफेसर ने अपने मार्गदर्शन वाले छात्र को भेजे ईमेल में जातिवादी और वर्गभेदी टिप्पणियां कीं। उन्होंने कहा कि विवाद एक पुस्तक अध्याय के संशोधनों पर शुरू हुआ। उन्होंने पारदर्शी जांच, उन्हें हटाने और एससी/एसटी अत्याचार निवारण अधिनियम के तहत केस की मांग की।",
-    "pts": [
-     "आरोप एक ईमेल पर आधारित: एसएफआई",
-     "जांच के निष्कर्ष सार्वजनिक करने की मांग",
-     "सियासत ने प्रोफेसर से प्रतिक्रिया मांगी"
-    ],
-    "why": "इन आरोपों ने विश्वविद्यालयों में वंचित वर्गों के छात्रों से भेदभाव की चिंता फिर उठाई है।",
-    "cat": "हैदराबाद · शिक्षा",
-    "statl": "शिक्षक पर जातिगत अपमान के आरोप"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "సమ్మె విరమణ",
-   "statl": "వెంటనే ట్యాంకర్ల సరఫరా పునరుద్ధరణ",
-   "h": "హైడ్రా హామీతో హైదరాబాద్ ప్రైవేట్ నీటి ట్యాంకర్ల సమ్మె విరమణ",
-   "p": "అక్రమ బోర్‌వెల్‌లపై హైడ్రా చర్యలకు నిరసనగా సమ్మె చేస్తున్న హైదరాబాద్ వాటర్ ట్యాంకర్ల సంఘం బుధవారం సాయంత్రం సమ్మెను విరమించింది. ఇన్‌చార్జి మంత్రి పొన్నం ప్రభాకర్ చొరవతో సంఘం ప్రతినిధులు హైడ్రా చైర్మన్ ఏవీ రంగనాథ్‌ను కలిశారు. సంబంధిత శాఖల అనుమతుల తర్వాత ఓఆర్ఆర్ వెలుపలి ప్యూర్ ప్రాంతం నుంచి బోరు నీరు తీసుకునేందుకు నిర్వాహకులు అంగీకరించారు. సరఫరా వెంటనే మొదలవుతుంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hyderabad-private-water-tankers-strike-ends-on-hydraa-assurance-3569762/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "ఓఆర్ఆర్ వెలుపలి ప్యూర్ ప్రాంతం నుంచే బోరు నీరు",
-    "వాణిజ్య బోర్లు 1,000–1,500 అడుగుల లోతు: రంగనాథ్",
-    "తెల్లాపూర్, సూరారం, జీడిమెట్ల వాసుల ఫిర్యాదులపై చర్యలు"
-   ],
-   "why": "ట్యాంకర్ నీటిపై ఆధారపడే పీజీ హాస్టళ్లు, అపార్ట్‌మెంట్లు, కుటుంబాలకు సరఫరా తిరిగి అందుతుంది.",
-   "d": "04.11.2026",
-   "t": "19:35",
-   "en": {
-    "h": "Hyderabad private water tanker strike ends on HYDRAA assurance",
-    "p": "The Water Tankers' Association of Hyderabad, which was on strike against HYDRAA's action on illegal borewells, called off the strike on Wednesday evening. On the initiative of in-charge minister Ponnam Prabhakar, association representatives met HYDRAA chairman A V Ranganath. After permissions from the departments concerned, operators agreed to draw borewater from the PURE region outside the ORR. Supply resumes immediately.",
-    "pts": [
-     "Borewater only from the PURE region outside the ORR",
-     "Commercial bores go 1,000–1,500 feet deep: Ranganath",
-     "Action on complaints from Tellapur, Suraram, Jeedimetla residents"
-    ],
-    "why": "Supply returns to PG hostels, apartments and families that depend on tanker water.",
-    "cat": "Hyderabad · Water",
-    "statl": "Tanker supply restored immediately"
-   },
-   "hi": {
-    "h": "हाइड्रा के आश्वासन पर हैदराबाद में निजी पानी टैंकरों की हड़ताल खत्म",
-    "p": "अवैध बोरवेल पर हाइड्रा की कार्रवाई के विरोध में हड़ताल कर रहे हैदराबाद वाटर टैंकर एसोसिएशन ने बुधवार शाम हड़ताल वापस ले ली। प्रभारी मंत्री पोन्नम प्रभाकर की पहल पर एसोसिएशन के प्रतिनिधियों ने हाइड्रा अध्यक्ष ए वी रंगनाथ से मुलाकात की। संबंधित विभागों की अनुमति के बाद संचालक ओआरआर के बाहर प्योर क्षेत्र से बोरवेल का पानी लेने पर सहमत हुए। आपूर्ति तुरंत शुरू होगी।",
-    "pts": [
-     "बोरवेल का पानी सिर्फ ओआरआर के बाहर प्योर क्षेत्र से",
-     "व्यावसायिक बोर 1,000–1,500 फीट गहरे: रंगनाथ",
-     "तेल्लापुर, सूरारम, जीडिमेटला निवासियों की शिकायतों पर कार्रवाई"
-    ],
-    "why": "टैंकर के पानी पर निर्भर पीजी हॉस्टलों, अपार्टमेंट और परिवारों को फिर से आपूर्ति मिलेगी।",
-    "cat": "हैदराबाद · पानी",
-    "statl": "टैंकर आपूर्ति तुरंत बहाल"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-gov",
-   "art": "campus",
-   "stat": "12 నెలలు",
-   "statl": "జీతాలు అందని వృత్తి విద్యా శిక్షకులు",
-   "h": "ఏడాదిగా జీతాల్లేవు: సచివాలయం వద్ద వృత్తి విద్యా శిక్షకుల ఆందోళన",
-   "p": "పాఠశాల విద్యాశాఖ పరిధిలో పనిచేస్తున్న వృత్తి విద్యా శిక్షకులు గత 12 నెలలుగా పెండింగ్‌లో ఉన్న జీతాలు విడుదల చేయాలని బుధవారం హైదరాబాద్‌లో ఆందోళన చేశారు. సైఫాబాద్‌లోని విద్యాశాఖ కార్యాలయం నుంచి సచివాలయానికి ర్యాలీగా వెళ్లి సౌత్-ఈస్ట్ గేటు ఎదుట బైఠాయించారు. కాంట్రాక్ట్ ఏజెన్సీలు నిబంధనలు ఉల్లంఘిస్తున్నాయని ఆరోపించారు. పోలీసులు వారిని అదుపులోకి తీసుకున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/unpaid-for-a-year-vocational-trainers-hold-demonstration-at-secretariat-in-hyderabad",
-   "sec": [
-    "telangana",
-    "education",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "సైఫాబాద్",
-   "pts": [
-    "సైఫాబాద్ నుంచి సచివాలయానికి ర్యాలీ",
-    "ఆందోళనతో ట్రాఫిక్‌కు అంతరాయం",
-    "సమస్యలపై చర్యలు తీసుకుంటామని పోలీసుల హామీ"
-   ],
-   "why": "ప్రభుత్వ పాఠశాలల్లో వృత్తి విద్య బోధించే శిక్షకుల కుటుంబాలు ఆర్థిక ఇబ్బందుల్లో ఉన్నాయి.",
-   "d": "04.11.2026",
-   "t": "19:35",
-   "en": {
-    "h": "Unpaid for a year: vocational trainers protest at Secretariat",
-    "p": "Vocational trainers working under the School Education Department protested in Hyderabad on Wednesday, demanding release of salaries pending for the past 12 months. They marched from the education department office in Saifabad to the Secretariat and sat in front of the South-East gate. They alleged that contracting agencies are violating rules. Police took them into custody.",
-    "pts": [
-     "Rally from Saifabad to the Secretariat",
-     "Protest disrupted traffic",
-     "Police assured action on their grievances"
-    ],
-    "why": "Families of trainers who teach vocational courses in government schools are in financial distress.",
-    "cat": "Telangana · Education",
-    "statl": "Vocational trainers without salary"
-   },
-   "hi": {
-    "h": "साल भर से वेतन नहीं: सचिवालय पर व्यावसायिक प्रशिक्षकों का प्रदर्शन",
-    "p": "स्कूल शिक्षा विभाग के तहत काम करने वाले व्यावसायिक प्रशिक्षकों ने पिछले 12 महीनों से लंबित वेतन जारी करने की मांग को लेकर बुधवार को हैदराबाद में प्रदर्शन किया। वे सैफाबाद स्थित शिक्षा विभाग कार्यालय से सचिवालय तक रैली निकालकर साउथ-ईस्ट गेट के सामने धरने पर बैठ गए। उन्होंने ठेका एजेंसियों पर नियमों के उल्लंघन का आरोप लगाया। पुलिस ने उन्हें हिरासत में ले लिया।",
-    "pts": [
-     "सैफाबाद से सचिवालय तक रैली",
-     "प्रदर्शन से यातायात बाधित",
-     "पुलिस ने समस्याओं पर कार्रवाई का आश्वासन दिया"
-    ],
-    "why": "सरकारी स्कूलों में व्यावसायिक शिक्षा पढ़ाने वाले प्रशिक्षकों के परिवार आर्थिक संकट में हैं।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "बिना वेतन के व्यावसायिक प्रशिक्षक"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · వైద్య విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "26 నెలలు",
-   "statl": "చెల్లించని అద్దె, విద్యుత్, నీటి బకాయిలు",
-   "h": "మహేశ్వరం వైద్య కళాశాల తరలింపు కోరుతూ విద్యార్థుల నిరసన",
-   "p": "మహేశ్వరం ప్రభుత్వ వైద్య కళాశాలలో తాగునీరు, మరుగుదొడ్లు, ల్యాబ్‌లు, లైబ్రరీ, హాస్టల్ లేవంటూ విద్యార్థులు ఇబ్రహీంపట్నం నియోజకవర్గం మంగల్‌పల్లిలో నిరసన శిబిరం నిర్వహిస్తున్నారు. శిబిరాన్ని సందర్శించిన బీఆర్ఎస్ నేత హరీశ్ రావు, కళాశాలను రెండు నెలల్లో వసతులున్న భవనానికి తరలించాలని డిమాండ్ చేశారు. రంగారెడ్డి కలెక్టర్, డీఎంఈతో ఫోన్‌లో మాట్లాడారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/harish-rao-seeks-relocation-of-maheshwaram-medical-college",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "మంగల్‌పల్లి",
-   "pts": [
-    "బస్సులు రాక ప్రధాన రోడ్డు నుంచి 2 కి.మీ. నడక",
-    "భవనానికి ఆక్యుపెన్సీ, అగ్నిమాపక అనుమతులు లేవని ఆరోపణ",
-    "వనస్థలిపురం లేదా టిమ్స్-ఎల్బీ నగర్ సమీపానికి తరలించాలని సూచన"
-   ],
-   "why": "కనీస వసతులు లేని కళాశాలలో చదువుతున్న వైద్య విద్యార్థుల చదువు, భద్రతపై ప్రభావం.",
-   "d": "04.11.2026",
-   "t": "19:35",
-   "en": {
-    "h": "Students protest seeking relocation of Maheshwaram medical college",
-    "p": "Students of the Government Medical College, Maheshwaram, are holding a protest camp at Mangalpally in Ibrahimpatnam constituency, saying the college lacks drinking water, toilets, labs, a library and a hostel. Visiting the camp, BRS leader Harish Rao demanded the college be shifted to a building with facilities within two months. He spoke by phone to the Rangareddy Collector and the DME.",
-    "pts": [
-     "With no buses, a 2 km walk from the main road",
-     "Alleged the building lacks occupancy and fire clearances",
-     "Suggested shifting near Vanasthalipuram or TIMS-LB Nagar"
-    ],
-    "why": "The studies and safety of medical students in a college without basic facilities are affected.",
-    "cat": "Telangana · Medical education",
-    "statl": "Unpaid rent, power and water dues"
-   },
-   "hi": {
-    "h": "महेश्वरम मेडिकल कॉलेज को स्थानांतरित करने की मांग पर छात्रों का विरोध",
-    "p": "महेश्वरम सरकारी मेडिकल कॉलेज के छात्र इब्राहिमपट्टनम निर्वाचन क्षेत्र के मंगलपल्ली में विरोध शिविर लगाए हुए हैं। उनका कहना है कि कॉलेज में पीने का पानी, शौचालय, लैब, लाइब्रेरी और हॉस्टल नहीं हैं। शिविर में पहुंचे बीआरएस नेता हरीश राव ने कॉलेज को दो महीने में सुविधाओं वाले भवन में स्थानांतरित करने की मांग की। उन्होंने रंगारेड्डी कलेक्टर और डीएमई से फोन पर बात की।",
-    "pts": [
-     "बसें न आने से मुख्य सड़क से 2 किमी पैदल",
-     "भवन के पास ऑक्यूपेंसी और अग्नि सुरक्षा मंजूरी न होने का आरोप",
-     "वनस्थलीपुरम या टिम्स-एलबी नगर के पास ले जाने का सुझाव"
-    ],
-    "why": "बुनियादी सुविधाओं के बिना कॉलेज में पढ़ रहे मेडिकल छात्रों की पढ़ाई और सुरक्षा प्रभावित।",
-    "cat": "तेलंगाना · चिकित्सा शिक्षा",
-    "statl": "बकाया किराया, बिजली और पानी बिल"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ఆర్టీసీ",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "₹1 కోటి",
-   "statl": "కుటుంబానికి ప్రమాద బీమా పరిహారం",
-   "h": "చిల్లర గొడవలో బస్సు నుంచి తోసివేత: మహిళా కండక్టర్ మృతి",
-   "p": "మణుగూరు–భద్రాచలం పల్లె వెలుగు బస్సులో చిల్లర విషయంలో వివాదం తలెత్తగా, ఒక ప్రయాణికురాలు 24 ఏళ్ల మహిళా కండక్టర్‌ను కదులుతున్న బస్సు నుంచి తోసివేసినట్లు ఆరోపణ. అక్టోబర్ 25న జరిగిన ఈ ఘటనలో తీవ్రంగా గాయపడిన ఆమె హైదరాబాద్ ఆసుపత్రిలో చికిత్స పొందుతూ మంగళవారం మృతి చెందారు. నిందితురాలిని పోలీసులు అదుపులోకి తీసుకుని కేసు నమోదు చేశారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/pushed-off-bus-over-change-tgsrtc-woman-conductor-dies-days-later-3569493/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "మిట్టగూడెం",
-   "pts": [
-    "కుటుంబానికి ₹10 లక్షల సాయం ప్రకటించిన మంత్రి పొన్నం",
-    "తల్లికి ఉద్యోగం, ఇందిరమ్మ ఇళ్లు ఇస్తామని హామీ",
-    "ఖమ్మం రీజియన్‌లో జేఏసీ బస్సుల బంద్"
-   ],
-   "why": "ఖమ్మం రీజియన్‌లో బస్సులు డిపోలకే పరిమితం కావడంతో ప్రయాణికులు, ఆర్టీసీ ఉద్యోగుల భద్రతపై ప్రభావం.",
-   "d": "04.11.2026",
-   "t": "19:05",
-   "en": {
-    "h": "Pushed off bus over change row: woman conductor dies",
-    "p": "A dispute over change on a Manuguru–Bhadrachalam Palle Velugu bus ended with a passenger allegedly pushing a 24-year-old woman conductor out of the moving bus. Seriously injured in the October 25 incident, she died on Tuesday while undergoing treatment at a Hyderabad hospital. Police took the accused woman into custody and registered a case.",
-    "pts": [
-     "Minister Ponnam announced ₹10 lakh aid to the family",
-     "Promise of a job for her mother and Indiramma houses",
-     "JAC halts buses across Khammam region"
-    ],
-    "why": "With buses confined to depots in the Khammam region, both passengers and the safety of RTC staff are affected.",
-    "cat": "Telangana · RTC",
-    "statl": "Accident insurance compensation for the family"
-   },
-   "hi": {
-    "h": "छुट्टे पैसों के विवाद में बस से धक्का: महिला कंडक्टर की मौत",
-    "p": "मणुगुरु–भद्राचलम पल्ले वेलुगु बस में छुट्टे पैसों को लेकर हुए विवाद में एक महिला यात्री ने 24 वर्षीय महिला कंडक्टर को चलती बस से धक्का दे दिया, ऐसा आरोप है। 25 अक्टूबर की इस घटना में गंभीर रूप से घायल कंडक्टर की मंगलवार को हैदराबाद के अस्पताल में इलाज के दौरान मौत हो गई। पुलिस ने आरोपी महिला को हिरासत में लेकर मामला दर्ज किया।",
-    "pts": [
-     "मंत्री पोन्नम ने परिवार को ₹10 लाख सहायता की घोषणा की",
-     "मां को नौकरी और इंदिरम्मा घर देने का वादा",
-     "जेएसी ने खम्मम क्षेत्र में बसें रोकीं"
-    ],
-    "why": "खम्मम क्षेत्र में बसें डिपो में ही रुकने से यात्रियों और आरटीसी कर्मचारियों की सुरक्षा पर असर।",
-    "cat": "तेलंगाना · आरटीसी",
-    "statl": "परिवार को दुर्घटना बीमा मुआवजा"
-   }
+   "t": "19:40",
+   "img": "photos/2026-11-04-aler-bjp-mlc-vote-enrolment.jpg",
+   "imgfy": 0.3,
+   "local": true
   },
   {
    "cat": "యాదగిరిగుట్ట · ఆరోగ్యం",
