@@ -1,8 +1,250 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 4,
+ "count": 9,
  "stories": [
+  {
+   "brk": true,
+   "cat": "తెలంగాణ · ఖమ్మం",
+   "col": "--c-power",
+   "art": "water",
+   "stat": "10",
+   "statl": "గల్లంతైన రక్షణ సిబ్బంది",
+   "h": "ఖమ్మం బేతుపల్లి చెరువులో పడవలు బోల్తా: 10 మంది రక్షణ సిబ్బంది గల్లంతు",
+   "p": "మురసు తుపాను వర్షాలతో ఖమ్మం జిల్లా సత్తుపల్లి మండలం బేతుపల్లి చెరువులో చిక్కుకున్న సుమారు ఐదుగురు మత్స్యకారులను కాపాడేందుకు వెళ్లిన రెండు పడవలు బోల్తా పడ్డాయి. ఎస్‌డీఆర్‌ఎఫ్, అగ్నిమాపక శాఖకు చెందిన 10 మంది సిబ్బంది గల్లంతయ్యారని పీటీఐ తెలిపింది. ఎన్డీఆర్ఎఫ్ బృందాలు రాత్రి నుంచి గాలింపు కొనసాగిస్తున్నాయి.",
+   "pts": [
+    "వేగంగా పెరిగిన నీటి ప్రవాహమే కారణమని అనుమానం",
+    "ముందుగా ముగ్గురు అగ్నిమాపక సిబ్బందిని సురక్షితంగా తెచ్చారు",
+    "సీఎం ఆదేశం; సీఎస్ సంజయ్ జాజు పర్యవేక్షణ"
+   ],
+   "why": "తుపాను వర్షాల వేళ చెరువులు, వాగుల దగ్గర ప్రజలు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఈ ఘటన చూపుతోంది.",
+   "src": "PTI / Amar Ujala",
+   "url": "https://www.amarujala.com/india-news/telangana-khammam-bethupalli-lake-sdrf-personnel-missing-boats-capsize-rescue-operation-2026-11-05",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "khammam",
+   "loc": "బేతుపల్లి",
+   "en": {
+    "cat": "Telangana · Khammam",
+    "h": "Boats capsize in Khammam's Bethupalli lake; 10 rescue personnel missing",
+    "p": "Two boats that went to rescue about five fishermen trapped in Bethupalli lake in Sathupalli mandal of Khammam district, amid Cyclone Murasu rains, capsized. PTI reported that 10 SDRF and fire department personnel are missing. NDRF teams have been searching since the night.",
+    "pts": [
+     "Rapidly rising water suspected as the cause",
+     "Three fire personnel were brought back safely earlier",
+     "CM gave directions; CS Sanjay Jaju monitoring"
+    ],
+    "why": "The incident shows why people must stay alert near lakes and streams during cyclone rains.",
+    "statl": "Rescue personnel missing"
+   },
+   "hi": {
+    "cat": "तेलंगाना · खम्मम",
+    "h": "खम्मम की बेतुपल्ली झील में नावें पलटीं: 10 बचावकर्मी लापता",
+    "p": "चक्रवात मुरासु की बारिश के बीच खम्मम जिले के सत्तुपल्ली मंडल की बेतुपल्ली झील में फंसे लगभग पांच मछुआरों को बचाने गईं दो नावें पलट गईं। पीटीआई के अनुसार एसडीआरएफ और अग्निशमन विभाग के 10 कर्मी लापता हैं। एनडीआरएफ की टीमें रात से तलाश कर रही हैं।",
+    "pts": [
+     "तेजी से बढ़ता पानी कारण होने का संदेह",
+     "पहले तीन अग्निशमन कर्मियों को सुरक्षित लाया गया",
+     "सीएम के निर्देश; मुख्य सचिव संजय जाजू की निगरानी"
+    ],
+    "why": "यह घटना दिखाती है कि चक्रवात की बारिश में झीलों और नालों के पास लोगों को सतर्क रहना जरूरी है।",
+    "statl": "लापता बचावकर्मी"
+   },
+   "d": "05.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "మహారాష్ట్ర · ముంబై",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "బ్రీచ్ కాండీ",
+   "statl": "ముంబై ఆసుపత్రిలో పరీక్షలు",
+   "h": "ఎన్సీపీ అధినేత శరద్ పవార్ ముంబై ఆసుపత్రిలో చేరిక",
+   "p": "ఎన్సీపీ అధినేత శరద్ పవార్ వైద్య పరీక్షల కోసం ముంబైలోని బ్రీచ్ కాండీ ఆసుపత్రిలో చేరారని సుప్రియా సూలే తెలిపారు. నవంబర్ 2న ఛాతీ నొప్పితో ఆయన పుణెలోని ఆసుపత్రిలో చికిత్స పొందారు. ప్రధాని మోదీ ఫోన్ చేసి ఆయన ఆరోగ్యం గురించి అడిగి తెలుసుకున్నారు.",
+   "pts": [
+    "వైద్య పరీక్షల కోసం బ్రీచ్ కాండీలో చేరిక",
+    "నవంబర్ 2న పుణెలో ఛాతీ నొప్పికి చికిత్స",
+    "ప్రధాని మోదీ ఫోన్‌లో పరామర్శ"
+   ],
+   "why": "దేశంలోని సీనియర్ నేతల్లో ఒకరైన పవార్ ఆరోగ్యంపై మహారాష్ట్ర ప్రజల్లో ఆసక్తి నెలకొంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395",
+   "sec": [
+    "india"
+   ],
+   "st": "MH",
+   "place": "mh-mumbai",
+   "en": {
+    "cat": "Maharashtra · Mumbai",
+    "h": "NCP chief Sharad Pawar admitted to Mumbai hospital",
+    "p": "NCP chief Sharad Pawar has been admitted to Breach Candy Hospital in Mumbai for medical tests, Supriya Sule said. On November 2 he was treated for chest pain at a hospital in Pune. PM Modi phoned him and enquired about his health.",
+    "pts": [
+     "Admitted to Breach Candy for medical tests",
+     "Treated for chest pain in Pune on November 2",
+     "PM Modi enquired over the phone"
+    ],
+    "why": "The health of Pawar, one of the country's senior leaders, is being followed closely in Maharashtra.",
+    "statl": "Tests at Mumbai hospital"
+   },
+   "hi": {
+    "cat": "महाराष्ट्र · मुंबई",
+    "h": "एनसीपी प्रमुख शरद पवार मुंबई के अस्पताल में भर्ती",
+    "p": "सुप्रिया सुले ने बताया कि एनसीपी प्रमुख शरद पवार को चिकित्सा जांच के लिए मुंबई के ब्रीच कैंडी अस्पताल में भर्ती कराया गया है। 2 नवंबर को सीने में दर्द के कारण पुणे के एक अस्पताल में उनका इलाज हुआ था। प्रधानमंत्री मोदी ने फोन कर उनका हालचाल पूछा।",
+    "pts": [
+     "चिकित्सा जांच के लिए ब्रीच कैंडी में भर्ती",
+     "2 नवंबर को पुणे में सीने के दर्द का इलाज",
+     "प्रधानमंत्री मोदी ने फोन पर हालचाल पूछा"
+    ],
+    "why": "देश के वरिष्ठ नेताओं में से एक पवार के स्वास्थ्य पर महाराष्ट्र में लोगों की नजर है।",
+    "statl": "मुंबई अस्पताल में जांच"
+   },
+   "d": "05.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "తెలుగు రాష్ట్రాలు · కృష్ణా జలాలు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "మళ్లీ వాయిదా",
+   "statl": "కేఆర్ఎంబీ సమావేశం",
+   "h": "కృష్ణా బోర్డు సమావేశం మళ్లీ వాయిదా: మురసు తుపాను కారణం",
+   "p": "కృష్ణా నదీ యాజమాన్య బోర్డు (కేఆర్ఎంబీ) సమావేశం మరోసారి వాయిదా పడింది. మురసు తుపాను కారణంగా సమావేశాన్ని వాయిదా వేయాలని ఆంధ్రప్రదేశ్ కోరడంతో బోర్డు ఈ నిర్ణయం తీసుకుంది. కొత్త తేదీని ఇంకా ప్రకటించలేదు.",
+   "pts": [
+    "ఏపీ అభ్యర్థన మేరకు వాయిదా",
+    "మురసు తుపానును కారణంగా చూపిన ఏపీ"
+   ],
+   "why": "కృష్ణా జలాల పంపకంపై తెలంగాణ, ఏపీ రైతులు ఈ బోర్డు నిర్ణయాల కోసం ఎదురుచూస్తున్నారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--5th-november-2026-latest-top-news-information-across-telangana-tgs26110500395#krmb",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "cat": "Telugu states · Krishna water",
+    "h": "Krishna board meeting postponed again due to Cyclone Murasu",
+    "p": "The Krishna River Management Board (KRMB) meeting has been postponed once again. The board took the decision after Andhra Pradesh requested a postponement because of Cyclone Murasu. A new date has not yet been announced.",
+    "pts": [
+     "Postponed at Andhra Pradesh's request",
+     "AP cited Cyclone Murasu"
+    ],
+    "why": "Farmers in Telangana and AP await this board's decisions on sharing Krishna water.",
+    "statl": "KRMB meeting"
+   },
+   "hi": {
+    "cat": "तेलुगु राज्य · कृष्णा जल",
+    "h": "चक्रवात मुरासु के कारण कृष्णा बोर्ड की बैठक फिर स्थगित",
+    "p": "कृष्णा नदी प्रबंधन बोर्ड (केआरएमबी) की बैठक एक बार फिर स्थगित हो गई है। आंध्र प्रदेश ने चक्रवात मुरासु के कारण बैठक टालने का अनुरोध किया था, जिसके बाद बोर्ड ने यह फैसला लिया। नई तारीख अभी घोषित नहीं हुई है।",
+    "pts": [
+     "आंध्र प्रदेश के अनुरोध पर स्थगित",
+     "आंध्र प्रदेश ने चक्रवात मुरासु का हवाला दिया"
+    ],
+    "why": "तेलंगाना और आंध्र प्रदेश के किसान कृष्णा जल बंटवारे पर इस बोर्ड के फैसलों का इंतजार कर रहे हैं।",
+    "statl": "केआरएमबी बैठक"
+   },
+   "d": "05.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "భారత్ · క్రీడలు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "114",
+   "statl": "ఆసియా పారా క్రీడల్లో పతకాలు",
+   "h": "ఆసియా పారా క్రీడల భారత బృందంతో నేడు ప్రధాని మోదీ భేటీ",
+   "p": "ఆసియా పారా క్రీడలు 2026లో పాల్గొన్న భారత బృందంతో ప్రధాని నరేంద్ర మోదీ గురువారం సాయంత్రం 4:30 గంటలకు దిల్లీ ఇందిరా గాంధీ స్పోర్ట్స్ కాంప్లెక్స్‌లో మాట్లాడనున్నారు. జపాన్‌లోని ఐచి-నగోయాలో జరిగిన ఈ క్రీడల్లో 97 మంది పారా అథ్లెట్లు భారత్‌కు 114 పతకాలు సాధించారు.",
+   "pts": [
+    "30 స్వర్ణాలు, 35 రజతాలు, 49 కాంస్యాలు",
+    "సాయంత్రం 4:30కు దిల్లీలో కార్యక్రమం",
+    "అదే రోజు నీతి ఆయోగ్ సమావేశానికి అధ్యక్షత"
+   ],
+   "why": "పారా అథ్లెట్ల విజయాలకు జాతీయ స్థాయిలో గుర్తింపు దక్కుతోంది; దివ్యాంగ క్రీడాకారులకు ఇది ప్రోత్సాహం.",
+   "src": "Amar Ujala",
+   "url": "https://www.amarujala.com/india-news/5-november-2026-major-event-2026-2026-11-04",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Sports",
+    "h": "PM Modi to meet India's Asian Para Games contingent today",
+    "p": "PM Narendra Modi will interact with the Indian contingent of the Asian Para Games 2026 at 4:30 pm on Thursday at the Indira Gandhi Sports Complex in Delhi. At the Games held in Aichi-Nagoya, Japan, 97 para-athletes won 114 medals for India.",
+    "pts": [
+     "30 gold, 35 silver, 49 bronze",
+     "Event at 4:30 pm in Delhi",
+     "Will also chair a NITI Aayog meeting today"
+    ],
+    "why": "Para-athletes' achievements are getting national recognition, an encouragement for athletes with disabilities.",
+    "statl": "Asian Para Games medals"
+   },
+   "hi": {
+    "cat": "भारत · खेल",
+    "h": "एशियाई पैरा खेलों के भारतीय दल से आज मिलेंगे प्रधानमंत्री मोदी",
+    "p": "प्रधानमंत्री नरेंद्र मोदी गुरुवार शाम 4:30 बजे दिल्ली के इंदिरा गांधी खेल परिसर में एशियाई पैरा खेल 2026 के भारतीय दल से बातचीत करेंगे। जापान के आइची-नागोया में हुए इन खेलों में 97 पैरा एथलीटों ने भारत के लिए 114 पदक जीते।",
+    "pts": [
+     "30 स्वर्ण, 35 रजत, 49 कांस्य",
+     "शाम 4:30 बजे दिल्ली में कार्यक्रम",
+     "आज नीति आयोग की बैठक की अध्यक्षता भी"
+    ],
+    "why": "पैरा एथलीटों की उपलब्धियों को राष्ट्रीय पहचान मिल रही है; यह दिव्यांग खिलाड़ियों के लिए प्रोत्साहन है।",
+    "statl": "एशियाई पैरा खेल पदक"
+   },
+   "d": "05.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "ఓటమి",
+   "statl": "రిపబ్లికన్లకు మధ్యంతర ఫలితం",
+   "h": "మధ్యంతర ఓటమికి ఇరాన్ యుద్ధమే కారణమన్న ట్రంప్; వైట్‌హౌస్ ‘నెవర్ సరెండర్’ పోస్ట్",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో రిపబ్లికన్ పార్టీ ఓటమి తర్వాత ట్రంప్ ఫొటోతో ‘నెవర్ సరెండర్’ అంటూ వైట్‌హౌస్ పోస్ట్ చేసింది. ఇరాన్ యుద్ధం ఫలితాలపై ప్రభావం చూపిందని ఉపాధ్యక్షుడు జేడీ వాన్స్ అనగా ట్రంప్ అంగీకరించారు. డెమొక్రాట్లతో కలిసి పనిచేస్తానని ట్రంప్ చెప్పారు.",
+   "pts": [
+    "యుద్ధంతో పెట్రోల్ ధరలు తాత్కాలికంగా పెరిగాయన్న ట్రంప్",
+    "ఇరాన్ అణ్వాయుధాల అడ్డుకట్టకే సైనిక చర్య అని సమర్థన",
+    "డెమొక్రాట్లతో కలిసి పనిచేస్తానన్న ట్రంప్"
+   ],
+   "why": "అమెరికా రాజకీయ మార్పులు వీసాలు, పెట్రోల్ ధరల ద్వారా అక్కడి తెలుగువారిపై, భారత్‌పై ప్రభావం చూపవచ్చు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/international/white-house-posts-never-surrender-after-republican-defeat-in-us-midterm-elections-ten26110500455",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · USA",
+    "h": "Trump blames Iran war for midterm loss; White House posts 'Never Surrender'",
+    "p": "After the Republican Party's defeat in the US midterm elections, the White House posted a photo of Trump with the words 'Never Surrender'. Vice President JD Vance said the Iran war affected the results, and Trump agreed. Trump said he would work with the Democrats.",
+    "pts": [
+     "Trump said the war briefly raised petrol prices",
+     "Defended military action to stop Iran getting nuclear weapons",
+     "Trump said he would work with Democrats"
+    ],
+    "why": "Political shifts in the US can affect Telugu people there and India through visas and petrol prices.",
+    "statl": "Midterm result for Republicans"
+   },
+   "hi": {
+    "cat": "दुनिया · अमेरिका",
+    "h": "मध्यावधि हार के लिए ट्रंप ने ईरान युद्ध को जिम्मेदार बताया; व्हाइट हाउस की 'नेवर सरेंडर' पोस्ट",
+    "p": "अमेरिकी मध्यावधि चुनावों में रिपब्लिकन पार्टी की हार के बाद व्हाइट हाउस ने ट्रंप की तस्वीर के साथ 'नेवर सरेंडर' लिखकर पोस्ट किया। उपराष्ट्रपति जेडी वेंस ने कहा कि ईरान युद्ध ने नतीजों को प्रभावित किया, जिस पर ट्रंप ने सहमति जताई। ट्रंप ने कहा कि वे डेमोक्रेट्स के साथ मिलकर काम करेंगे।",
+    "pts": [
+     "ट्रंप ने कहा युद्ध से पेट्रोल के दाम कुछ समय बढ़े",
+     "ईरान को परमाणु हथियार से रोकने के लिए सैन्य कार्रवाई का बचाव",
+     "ट्रंप ने डेमोक्रेट्स के साथ काम करने की बात कही"
+    ],
+    "why": "अमेरिका के राजनीतिक बदलाव वीजा और पेट्रोल कीमतों के जरिए वहां के तेलुगु लोगों और भारत पर असर डाल सकते हैं।",
+    "statl": "रिपब्लिकन के लिए मध्यावधि नतीजा"
+   },
+   "d": "05.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "ఏపీ · కడప",
    "col": "--c-election",
