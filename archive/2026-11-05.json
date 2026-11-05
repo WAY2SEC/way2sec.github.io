@@ -1,8 +1,204 @@
 {
  "date": "05.11.2026",
  "iso": "2026-11-05",
- "count": 24,
+ "count": 28,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2–4:30 PM",
+   "statl": "నేడు కరెంట్ కోత సమయం",
+   "h": "హైదరాబాద్‌లో నేడు కరెంట్ కోత: దిల్‌సుఖ్‌నగర్, గడ్డిఅన్నారం ప్రాంతాల్లో అంతరాయం",
+   "p": "నిర్వహణ పనుల కారణంగా హైదరాబాద్ అస్మాన్‌గఢ్ డివిజన్ పరిధిలో గురువారం కొన్ని ప్రాంతాల్లో విద్యుత్ సరఫరా నిలిచిపోనుంది. గౌతమ్ నగర్ ఫీడర్ పరిధిలో మధ్యాహ్నం 2 నుంచి 3 గంటల వరకు, 11 కేవీ పల్టన్ ఫీడర్ పరిధిలో 3:30 నుంచి 4:30 వరకు కరెంట్ ఉండదు. ముఖ్యమైన పనులు ముందే పూర్తి చేసుకోవాలని అధికారులు సూచించారు.",
+   "pts": [
+    "గౌతమ్ నగర్ ఫీడర్: మధ్యాహ్నం 2 నుంచి 3 వరకు",
+    "పల్టన్ ఫీడర్: 3:30 నుంచి 4:30 వరకు",
+    "దిల్‌సుఖ్‌నగర్, గడ్డిఅన్నారం, అక్బర్‌బాగ్ ప్రాంతాలపై ప్రభావం"
+   ],
+   "why": "ఈ ప్రాంతాల్లోని ఇళ్లు, దుకాణాలు, చిన్న వ్యాపారాలు ముందుగానే ఏర్పాట్లు చేసుకోవచ్చు.",
+   "src": "Sakshi Post",
+   "url": "https://www.sakshipost.com/news/hyderabad/hyderabad-power-cut-these-areas-will-face-electricity-outage-today-483005",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "దిల్‌సుఖ్‌నగర్",
+   "en": {
+    "cat": "Hyderabad · Power",
+    "statl": "Power cut timings today",
+    "h": "Power cut in Hyderabad today: Dilsukhnagar, Gaddiannaram areas affected",
+    "p": "Due to maintenance work, power supply will be cut in some areas under Hyderabad's Asmangadh division on Thursday. Areas under the Gautham Nagar feeder will have no power from 2 PM to 3 PM, and areas under the 11KV Paltan feeder from 3:30 PM to 4:30 PM. Officials advised residents to finish important work in advance.",
+    "pts": [
+     "Gautham Nagar feeder: 2 PM to 3 PM",
+     "Paltan feeder: 3:30 PM to 4:30 PM",
+     "Dilsukhnagar, Gaddiannaram, Akbarbagh areas affected"
+    ],
+    "why": "Homes, shops and small businesses in these areas can plan ahead."
+   },
+   "hi": {
+    "cat": "हैदराबाद · बिजली",
+    "statl": "आज बिजली कटौती का समय",
+    "h": "हैदराबाद में आज बिजली कटौती: दिलसुखनगर, गड्डीअन्नारम इलाके प्रभावित",
+    "p": "रखरखाव कार्य के कारण गुरुवार को हैदराबाद के अस्मानगढ़ डिवीजन के कुछ इलाकों में बिजली आपूर्ति बंद रहेगी। गौतम नगर फीडर के इलाकों में दोपहर 2 से 3 बजे तक और 11 केवी पल्टन फीडर के इलाकों में 3:30 से 4:30 बजे तक बिजली नहीं रहेगी। अधिकारियों ने जरूरी काम पहले निपटाने की सलाह दी।",
+    "pts": [
+     "गौतम नगर फीडर: दोपहर 2 से 3 बजे",
+     "पल्टन फीडर: 3:30 से 4:30 बजे",
+     "दिलसुखनगर, गड्डीअन्नारम, अकबरबाग इलाके प्रभावित"
+    ],
+    "why": "इन इलाकों के घर, दुकानें और छोटे कारोबार पहले से तैयारी कर सकते हैं।"
+   },
+   "d": "05.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ఏపీ · పల్నాడు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "3",
+   "statl": "మంది కార్యకర్తలకు గాయాలు",
+   "h": "పరిషత్ పోలింగ్ వేళ పల్నాడు, కడప జిల్లాల్లో ఉద్రిక్తతలు, ఘర్షణలు",
+   "p": "ఏపీ పరిషత్ ఎన్నికల పోలింగ్ సందర్భంగా పలుచోట్ల ఉద్రిక్తతలు నెలకొన్నాయి. పల్నాడు జిల్లా ముప్పాళ్ల మండలం లంకెలకూరపాడులో బుధవారం అర్ధరాత్రి టీడీపీ కార్యకర్తలపై వైఎస్సార్సీపీ శ్రేణులు కర్రలతో దాడి చేశాయని, ముగ్గురు గాయపడి ఆసుపత్రిలో చేరారని ఈటీవీ భారత్ తెలిపింది. పులివెందుల మండలం ఆర్.తుమ్మలపల్లెలోనూ ఇరువర్గాల మధ్య ఘర్షణ జరిగింది.",
+   "pts": [
+    "లంకెలకూరపాడు ఘర్షణలో ముగ్గురికి గాయాలు",
+    "పులివెందుల మండలం ఆర్.తుమ్మలపల్లెలో ఇరువర్గాల ఘర్షణ",
+    "పెద్దముడియం మండలం గుండ్లకుంటలో ఉద్రిక్తత"
+   ],
+   "why": "ప్రశాంత పోలింగ్‌కు భద్రత ఎంత కీలకమో ఈ ఘటనలు చూపుతున్నాయి; ఓటర్లు అప్రమత్తంగా ఉండాలి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--ap-mptc-and-zptc-elections-polling-2026-live-updates-aps26110500409",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-palnadu",
+   "loc": "లంకెలకూరపాడు",
+   "en": {
+    "cat": "Andhra Pradesh · Palnadu",
+    "statl": "workers injured",
+    "h": "Tension, clashes in Palnadu and Kadapa districts during parishad polling",
+    "p": "Tension prevailed in several places during polling for the AP parishad elections. ETV Bharat reported that at Lankelakurapadu in Muppalla mandal of Palnadu district, YSRCP cadres attacked TDP workers with sticks around Wednesday midnight, and three were injured and admitted to hospital. A clash between the two groups also took place at R. Thummalapalle in Pulivendula mandal.",
+    "pts": [
+     "Three injured in Lankelakurapadu clash",
+     "Clash between two groups at R. Thummalapalle, Pulivendula mandal",
+     "Tension at Gundlakunta in Peddamudiyam mandal"
+    ],
+    "why": "These incidents show how vital security is for peaceful polling; voters should stay alert."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · पलनाडु",
+    "statl": "कार्यकर्ता घायल",
+    "h": "परिषद मतदान के दौरान पलनाडु और कडपा जिलों में तनाव, झड़पें",
+    "p": "आंध्र प्रदेश परिषद चुनाव के मतदान के दौरान कई जगह तनाव रहा। ईटीवी भारत के अनुसार पलनाडु जिले के मुप्पाल्ला मंडल के लंकेलकुरपाडु में बुधवार आधी रात वाईएसआरसीपी समर्थकों ने टीडीपी कार्यकर्ताओं पर लाठियों से हमला किया, जिसमें तीन घायल होकर अस्पताल में भर्ती हुए। पुलिवेंदुला मंडल के आर. तुम्मलपल्ले में भी दोनों गुटों में झड़प हुई।",
+    "pts": [
+     "लंकेलकुरपाडु झड़प में तीन घायल",
+     "पुलिवेंदुला मंडल के आर. तुम्मलपल्ले में दो गुटों में झड़प",
+     "पेद्दामुडियम मंडल के गुंडलकुंटा में तनाव"
+    ],
+    "why": "ये घटनाएं दिखाती हैं कि शांतिपूर्ण मतदान के लिए सुरक्षा कितनी जरूरी है; मतदाता सतर्क रहें।"
+   },
+   "d": "05.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "భారత్ · ధరలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹680",
+   "statl": "కిలో అమూల్ నెయ్యి కొత్త ధర",
+   "h": "దీపావళి ముందు అమూల్ నెయ్యి, వెన్న ధరలు పెంపు: కిలోపై ₹50",
+   "p": "అమూల్ నెయ్యి, వెన్న ధరలను తక్షణమే అమల్లోకి వచ్చేలా పెంచింది. కిలో నెయ్యి కార్టన్ ₹50 పెరిగి ₹680 అయింది. 500 గ్రాముల వెన్న ప్యాక్ ₹15 పెరిగి ₹325కు చేరింది. 500 గ్రాముల నెయ్యి పౌచ్ ₹345, 100 గ్రాముల వెన్న ₹66. 2025 సెప్టెంబర్ జీఎస్టీ తగ్గింపు లాభం చాలావరకు ఈ పెంపుతో తగ్గిపోయిందని కథనం.",
+   "pts": [
+    "కిలో నెయ్యి ₹50 పెరిగి ₹680",
+    "500 గ్రాముల వెన్న ₹15 పెరిగి ₹325",
+    "పలు నగరాల్లో అమూల్ నెయ్యి కొరత నివేదికలు"
+   ],
+   "why": "పండుగ సీజన్‌లో స్వీట్లు, వంటల కోసం నెయ్యి కొనే కుటుంబాలపై అదనపు భారం పడుతుంది.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/amul-raises-ghee-butter-prices-ahead-of-diwali/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "cat": "India · Prices",
+    "statl": "New price of 1 kg Amul ghee",
+    "h": "Amul raises ghee, butter prices ahead of Diwali: ₹50 more per kg",
+    "p": "Amul has raised ghee and butter prices with immediate effect. A 1-kg ghee carton rose by ₹50 to ₹680. A 500-gm butter pack rose by ₹15 to ₹325. A 500-gm ghee pouch now costs ₹345 and a 100-gm butter pack ₹66. The report says the hike wipes out much of the benefit of the September 2025 GST cut.",
+    "pts": [
+     "1 kg ghee up ₹50 to ₹680",
+     "500 gm butter up ₹15 to ₹325",
+     "Reports of Amul ghee shortage in several cities"
+    ],
+    "why": "Families buying ghee for sweets and cooking this festive season will pay more."
+   },
+   "hi": {
+    "cat": "भारत · कीमतें",
+    "statl": "1 किलो अमूल घी की नई कीमत",
+    "h": "दिवाली से पहले अमूल ने घी, मक्खन के दाम बढ़ाए: प्रति किलो ₹50 ज्यादा",
+    "p": "अमूल ने घी और मक्खन के दाम तुरंत प्रभाव से बढ़ा दिए हैं। 1 किलो घी का कार्टन ₹50 बढ़कर ₹680 हो गया। 500 ग्राम मक्खन का पैक ₹15 बढ़कर ₹325 हो गया। 500 ग्राम घी का पाउच अब ₹345 और 100 ग्राम मक्खन ₹66 का है। रिपोर्ट के अनुसार इस बढ़ोतरी से सितंबर 2025 की जीएसटी कटौती का ज्यादातर फायदा खत्म हो गया।",
+    "pts": [
+     "1 किलो घी ₹50 बढ़कर ₹680",
+     "500 ग्राम मक्खन ₹15 बढ़कर ₹325",
+     "कई शहरों में अमूल घी की कमी की खबरें"
+    ],
+    "why": "त्योहारों में मिठाई और खाना बनाने के लिए घी खरीदने वाले परिवारों पर बोझ बढ़ेगा।"
+   },
+   "d": "05.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా వీసా",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "$1,00,000",
+   "statl": "హెచ్-1బీ ఫీజుపై వివాదం కొనసాగింపు",
+   "h": "మధ్యంతర ఫలితాలతో హెచ్-1బీ వీసాలకు తక్షణ ఊరట లేదు: న్యాయ నిపుణులు",
+   "p": "అమెరికా మధ్యంతర ఎన్నికల్లో డెమోక్రాట్లు కాంగ్రెస్‌ను గెలిచినా హెచ్-1బీ వీసా, పెర్మ్ నిబంధనలపై వెంటనే ప్రభావం ఉండదని ఇమిగ్రేషన్ న్యాయవాదులు చెబుతున్నారు. అధ్యక్షుడికి కార్యనిర్వాహక అధికారం, వీటో ఉన్నందున ఆంక్షలు ఆటోమేటిక్‌గా రద్దుకావు. $1,00,000 ఫీజు, వేతన ఆధారిత లాటరీ అంశాలు వివాదంలోనే ఉన్నాయి.",
+   "pts": [
+    "హెచ్-1బీ నిబంధనల్లో వెంటనే మార్పు ఉండదని నిపుణులు",
+    "$1,00,000 ఫీజు, వేతన ఆధారిత లాటరీ ఇంకా వివాదంలో",
+    "ఈబీ-2, ఈబీ-3 గ్రీన్ కార్డ్ బ్యాక్‌లాగ్ పెద్ద సమస్య"
+   ],
+   "why": "అమెరికాలో ఉద్యోగాలు, చదువులు ఆశిస్తున్న తెలుగు విద్యార్థులు, టెకీలు తమ ప్రణాళికలు జాగ్రత్తగా చూసుకోవాలి.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/us-midterm-results-unlikely-to-bring-immediate-h-1b-visa-relief-lawyers/",
+   "sec": [
+    "world",
+    "jobs"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "cat": "World · US Visa",
+    "statl": "H-1B fee dispute continues",
+    "h": "Midterm results unlikely to bring immediate H-1B relief: lawyers",
+    "p": "Immigration lawyers say that even though Democrats won Congress in the US midterms, there will be no immediate impact on H-1B visa and PERM rules. Since the President retains executive authority and veto power, restrictions will not be reversed automatically. The $100,000 fee and the wage-weighted lottery remain contested.",
+    "pts": [
+     "Experts see no immediate change in H-1B rules",
+     "$100,000 fee, wage-weighted lottery still contested",
+     "EB-2, EB-3 green card backlog a major concern"
+    ],
+    "why": "Telugu students and techies hoping for US jobs and studies should review their plans carefully."
+   },
+   "hi": {
+    "cat": "दुनिया · अमेरिकी वीजा",
+    "statl": "एच-1बी शुल्क पर विवाद जारी",
+    "h": "मध्यावधि नतीजों से एच-1बी वीजा को तुरंत राहत नहीं: वकील",
+    "p": "इमिग्रेशन वकीलों का कहना है कि अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स के कांग्रेस जीतने के बावजूद एच-1बी वीजा और पर्म नियमों पर तुरंत असर नहीं होगा। राष्ट्रपति के पास कार्यकारी अधिकार और वीटो होने से पाबंदियां अपने आप खत्म नहीं होंगी। $100,000 शुल्क और वेतन आधारित लॉटरी अब भी विवाद में हैं।",
+    "pts": [
+     "विशेषज्ञों के अनुसार एच-1बी नियमों में तुरंत बदलाव नहीं",
+     "$100,000 शुल्क, वेतन आधारित लॉटरी अब भी विवाद में",
+     "ईबी-2, ईबी-3 ग्रीन कार्ड बैकलॉग बड़ी चिंता"
+    ],
+    "why": "अमेरिका में नौकरी और पढ़ाई की उम्मीद रखने वाले तेलुगु छात्र और टेकी अपनी योजनाएं ध्यान से देखें।"
+   },
+   "d": "05.11.2026",
+   "t": "09:35"
+  },
   {
    "cat": "తెలంగాణ · సంగారెడ్డి",
    "col": "--c-power",
