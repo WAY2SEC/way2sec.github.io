@@ -1,8 +1,205 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T20:48:02+05:30",
+ "updated": "2026-11-06T21:13:08+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · తుపాను సాయం",
+   "col": "--c-gov",
+   "art": "rain",
+   "stat": "₹1,919 కోట్లు",
+   "statl": "మురసు తుపాను ప్రాథమిక నష్టం",
+   "h": "రెండు తుపానుల దెబ్బ: తక్షణ మధ్యంతర సాయం కోరిన సీఎం చంద్రబాబు",
+   "p": "వారం వ్యవధిలో రెండు తుపానులు దెబ్బతీసిన ఆంధ్రప్రదేశ్‌కు తక్షణ మధ్యంతర ఆర్థిక సాయం అందించాలని సీఎం చంద్రబాబు నాయుడు కేంద్ర హోంమంత్రి అమిత్ షాకు లేఖ రాశారు. మురసు తుపాను వల్ల ప్రాథమికంగా ₹1,919.59 కోట్ల నష్టం జరిగిందని తెలిపారు. 1.43 లక్షల హెక్టార్లలో పంటలు దెబ్బతిని 1.86 లక్షల మందికి పైగా రైతులు నష్టపోయారు. వరద తగ్గాక పూర్తి నివేదిక 15 రోజుల్లో పంపుతామన్నారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/naidu-seeks-interim-aid-from-centre-after-two-cyclones-says-murasu-caused-rs-1919-cr-damage/3092675/",
+   "sec": [
+    "telangana",
+    "agri",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "వ్యవసాయ నష్టం ₹875 కోట్లు; ఉద్యాన పంటల నష్టం ₹337 కోట్లు",
+    "అక్టోబర్ 27న అర్నబ్, తర్వాత మురసు తుపాను దెబ్బ",
+    "మురసు ఒంగోలు వద్ద తీరం దాటింది; 8 మంది మృతి"
+   ],
+   "why": "తుపానులతో పంటలు కోల్పోయిన ఏపీ రైతులకు కేంద్ర సాయం ఎంత త్వరగా అందుతుందనేది కీలకం.",
+   "d": "06.11.2026",
+   "t": "21:05",
+   "en": {
+    "h": "Hit by two cyclones, CM Naidu seeks immediate interim aid from Centre",
+    "p": "Chief Minister N Chandrababu Naidu wrote to Union Home Minister Amit Shah seeking immediate interim financial aid for Andhra Pradesh, hit by two cyclones within a week. He said Cyclone Murasu caused a preliminary loss of Rs 1,919.59 crore. Crops on 1.43 lakh hectares were damaged, affecting over 1.86 lakh farmers. A full report will be sent within 15 days after floodwaters recede.",
+    "pts": [
+     "Agriculture loss Rs 875 crore; horticulture loss Rs 337 crore",
+     "Cyclone Arnab struck on October 27, followed by Murasu",
+     "Murasu crossed the coast near Ongole; 8 people died"
+    ],
+    "why": "How quickly central aid arrives matters for Andhra farmers who lost crops to the cyclones.",
+    "cat": "AP · Cyclone relief",
+    "statl": "Preliminary loss from Cyclone Murasu"
+   },
+   "hi": {
+    "h": "दो चक्रवातों की मार: सीएम नायडू ने केंद्र से तुरंत अंतरिम सहायता मांगी",
+    "p": "मुख्यमंत्री एन चंद्रबाबू नायडू ने केंद्रीय गृह मंत्री अमित शाह को पत्र लिखकर एक हफ्ते में दो चक्रवातों से प्रभावित आंध्र प्रदेश के लिए तुरंत अंतरिम आर्थिक सहायता मांगी। उन्होंने बताया कि चक्रवात मुरसु से प्रारंभिक तौर पर ₹1,919.59 करोड़ का नुकसान हुआ। 1.43 लाख हेक्टेयर में फसलें खराब हुईं और 1.86 लाख से अधिक किसान प्रभावित हुए। बाढ़ का पानी उतरने के बाद 15 दिन में पूरी रिपोर्ट भेजी जाएगी।",
+    "pts": [
+     "कृषि नुकसान ₹875 करोड़; बागवानी नुकसान ₹337 करोड़",
+     "27 अक्टूबर को चक्रवात अर्नब, फिर मुरसु की मार",
+     "मुरसु ओंगोल के पास तट से टकराया; 8 लोगों की मौत"
+    ],
+    "why": "चक्रवात में फसल गंवाने वाले आंध्र के किसानों के लिए केंद्रीय मदद जल्दी पहुंचना अहम है।",
+    "cat": "आंध्र प्रदेश · चक्रवात राहत",
+    "statl": "चक्रवात मुरसु से प्रारंभिक नुकसान"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · కరువు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "365",
+   "statl": "కరువు మండలాలుగా ప్రకటించినవి",
+   "h": "కరువు సాయంపై కేంద్రంపై కాంగ్రెస్ విమర్శ; ₹30,000 కోట్లు కోరుతున్న రాష్ట్రం",
+   "p": "హైదరాబాద్ పర్యటనలో కేంద్ర హోంమంత్రి అమిత్ షా కరువు జిల్లాలకు ఎలాంటి సాయం ప్రకటించలేదని తెలంగాణ కాంగ్రెస్ ఉపాధ్యక్షురాలు కోట నీలిమ విమర్శించారు. రాష్ట్రం 31 జిల్లాల్లో 365 మండలాలను కరువు మండలాలుగా ప్రకటించిందని తెలిపారు. జూన్ 1 నుంచి అక్టోబర్ 31 వరకు 24 శాతం వర్షపాత లోటు నమోదైంది. కరువు సాయంగా రాష్ట్రం ₹30,000 కోట్లు కోరుతోంది.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/telangana-congress-leader-slams-shah-over-lack-of-drought-aid/3092553/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "31 జిల్లాల్లో 365 మండలాల్లో కరువు ప్రకటన",
+    "జూన్–అక్టోబర్ మధ్య 24% వర్షపాత లోటు",
+    "ఉపాధి పథకంలో అదనంగా 50 రోజుల పని కోరిన రాష్ట్రం"
+   ],
+   "why": "కరువు మండలాల్లో పంట నష్టపోయిన రైతులు, తాగునీటి కొరత ఎదుర్కొంటున్న కుటుంబాలకు సాయం కీలకం.",
+   "d": "06.11.2026",
+   "t": "21:05",
+   "en": {
+    "h": "Congress slams Centre over drought aid; Telangana seeks Rs 30,000 crore",
+    "p": "Telangana Congress vice president Kota Neelima criticised Union Home Minister Amit Shah for not announcing any aid for drought-hit districts during his Hyderabad visit. She said the state has declared drought in 365 mandals across 31 districts. A 24 per cent rainfall deficit was recorded from June 1 to October 31. The state is seeking Rs 30,000 crore in drought relief.",
+    "pts": [
+     "Drought declared in 365 mandals across 31 districts",
+     "24% rainfall deficit between June and October",
+     "State seeks 50 extra days of work under employment scheme"
+    ],
+    "why": "Aid is crucial for farmers who lost crops and families facing drinking water shortage in drought mandals.",
+    "cat": "Telangana · Drought",
+    "statl": "Mandals declared drought-hit"
+   },
+   "hi": {
+    "h": "सूखा राहत पर कांग्रेस ने केंद्र को घेरा; तेलंगाना ने ₹30,000 करोड़ मांगे",
+    "p": "तेलंगाना कांग्रेस उपाध्यक्ष कोटा नीलिमा ने आलोचना की कि केंद्रीय गृह मंत्री अमित शाह ने हैदराबाद दौरे में सूखा प्रभावित जिलों के लिए कोई सहायता घोषित नहीं की। उन्होंने बताया कि राज्य ने 31 जिलों के 365 मंडलों को सूखाग्रस्त घोषित किया है। 1 जून से 31 अक्टूबर तक 24 प्रतिशत वर्षा की कमी दर्ज हुई। राज्य सूखा राहत के रूप में ₹30,000 करोड़ मांग रहा है।",
+    "pts": [
+     "31 जिलों के 365 मंडलों में सूखा घोषित",
+     "जून–अक्टूबर के बीच 24% वर्षा की कमी",
+     "रोजगार योजना में 50 अतिरिक्त दिनों का काम मांगा"
+    ],
+    "why": "सूखा प्रभावित मंडलों में फसल गंवाने वाले किसानों और पेयजल संकट झेल रहे परिवारों के लिए सहायता अहम है।",
+    "cat": "तेलंगाना · सूखा",
+    "statl": "सूखाग्रस्त घोषित मंडल"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "₹29,792",
+   "statl": "ఎఫ్‌ఎంజీ ఇంటర్న్‌లు కోరుతున్న స్టైపెండ్",
+   "h": "స్టైపెండ్ సమానత్వం కోసం విదేశీ వైద్య గ్రాడ్యుయేట్ల ఆందోళన ఉధృతం",
+   "p": "ఇంటర్న్‌షిప్ స్టైపెండ్ వ్యత్యాసంపై తెలంగాణలోని విదేశీ వైద్య గ్రాడ్యుయేట్లు (ఎఫ్‌ఎంజీ) ఆందోళన తీవ్రం చేశారు. కోఠిలోని తెలంగాణ మెడికల్ కౌన్సిల్ కార్యాలయం వద్ద రిలే నిరాహార దీక్ష చేపట్టారు; సమ్మె నెల రోజులు పూర్తయింది. ఎంబీబీఎస్ ఇంటర్న్‌లకు ఇచ్చే ₹29,792 తమకూ ఇవ్వాలని, ప్రస్తుతం ₹5,000 మాత్రమే అందుతోందని వారు తెలిపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-foreign-medical-graduates-intensify-stir-over-stipends-3570684/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కోఠి",
+   "pts": [
+    "జనవరి 2026 నుంచి బకాయిలు చెల్లించాలని డిమాండ్",
+    "ఇంటర్న్‌షిప్ పొడిగింపు, శిక్షాత్మక చర్యలు వద్దని కోరిక",
+    "నిరసనకారులను పోలీసులు అదుపులోకి తీసుకున్న వీడియోలు"
+   ],
+   "why": "విదేశాల్లో ఎంబీబీఎస్ చదివి తెలంగాణ ఆసుపత్రుల్లో ఇంటర్న్‌షిప్ చేస్తున్న విద్యార్థులపై ఇది నేరుగా ప్రభావం చూపుతుంది.",
+   "d": "06.11.2026",
+   "t": "21:05",
+   "en": {
+    "h": "Foreign medical graduates intensify stir for stipend parity in Hyderabad",
+    "p": "Foreign medical graduates (FMGs) in Telangana intensified their protest over internship stipend disparity. They held a relay hunger strike at the Telangana State Medical Council office in Koti; the strike has completed a month. They want the Rs 29,792 paid to MBBS interns, saying they currently receive only Rs 5,000.",
+    "pts": [
+     "Demand clearance of arrears since January 2026",
+     "Seek no punitive action or internship extensions",
+     "Videos showed police detaining protesters"
+    ],
+    "why": "It directly affects students who studied MBBS abroad and are interning in Telangana hospitals.",
+    "cat": "Hyderabad · Medical education",
+    "statl": "Stipend FMG interns are seeking"
+   },
+   "hi": {
+    "h": "हैदराबाद में स्टाइपेंड समानता के लिए विदेशी मेडिकल ग्रेजुएट्स का आंदोलन तेज",
+    "p": "तेलंगाना में विदेशी मेडिकल ग्रेजुएट्स (एफएमजी) ने इंटर्नशिप स्टाइपेंड में अंतर को लेकर आंदोलन तेज कर दिया है। उन्होंने कोटी स्थित तेलंगाना स्टेट मेडिकल काउंसिल कार्यालय पर रिले भूख हड़ताल की; हड़ताल को एक महीना पूरा हो गया है। वे एमबीबीएस इंटर्न्स को मिलने वाले ₹29,792 की मांग कर रहे हैं और कहते हैं कि अभी उन्हें केवल ₹5,000 मिलते हैं।",
+    "pts": [
+     "जनवरी 2026 से बकाया भुगतान की मांग",
+     "दंडात्मक कार्रवाई या इंटर्नशिप बढ़ाने पर रोक की मांग",
+     "वीडियो में पुलिस प्रदर्शनकारियों को हिरासत में लेती दिखी"
+    ],
+    "why": "इसका सीधा असर विदेश से एमबीबीएस कर तेलंगाना के अस्पतालों में इंटर्नशिप कर रहे छात्रों पर पड़ता है।",
+    "cat": "हैदराबाद · चिकित्सा शिक्षा",
+    "statl": "एफएमजी इंटर्न्स की मांगा गया स्टाइपेंड"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · పశ్చిమాసియా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "ఫోన్ కాల్",
+   "statl": "ట్రంప్–ఖతార్ ఎమిర్ చర్చలు",
+   "h": "ఉద్రిక్తతల తగ్గింపుపై ఖతార్ ఎమిర్‌తో ట్రంప్ ఫోన్ చర్చ",
+   "p": "ఇరాన్‌పై అమెరికా మళ్లీ సైనిక చర్య తీసుకోవచ్చనే ఆందోళనల నడుమ, పశ్చిమాసియా ఉద్రిక్తతల తగ్గింపుపై అమెరికా అధ్యక్షుడు ట్రంప్ ఖతార్ ఎమిర్ షేక్ తమీమ్ బిన్ హమద్ అల్ థానీతో ఫోన్‌లో మాట్లాడారు. సమగ్ర ఒప్పందం కోసం ఖతార్ మధ్యవర్తిత్వ ప్రయత్నాలపై చర్చ జరిగిందని ఖతార్ ప్రకటించింది. చర్చలు, సముద్ర రవాణా స్వేచ్ఛ, ఇంధన సరఫరా భద్రత అవసరమని ఎమిర్ నొక్కి చెప్పారు.",
+   "src": "AP",
+   "url": "https://www.wdbo.com/news/world/trump-discusses/PMKAHNYEDE5I3DGBV3NYC4FNUM/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అమెరికా–ఇరాన్ మధ్య ఖతార్ మధ్యవర్తిత్వం",
+    "ఇరాన్ విదేశాంగ మంత్రి అరాఘ్చీతో ఈజిప్ట్ మంత్రి ఫోన్",
+    "రాజీకి సిద్ధంగా ఉండాలని ఇరాన్‌కు ఈజిప్ట్ సూచన"
+   ],
+   "why": "గల్ఫ్‌లో పనిచేసే తెలుగువారి భద్రత, చమురు ధరలు ఈ ఉద్రిక్తతలపై ఆధారపడి ఉన్నాయి.",
+   "d": "06.11.2026",
+   "t": "21:05",
+   "en": {
+    "h": "Trump speaks to Qatar's emir on easing West Asia tensions",
+    "p": "Amid fears of renewed US military action against Iran, US President Trump spoke by phone with Qatar's Emir Sheikh Tamim bin Hamad Al Thani on easing West Asia tensions. Qatar said the call discussed its mediation efforts towards a comprehensive agreement. The emir stressed dialogue, freedom of maritime navigation and energy supply security.",
+    "pts": [
+     "Qatar is mediating between the US and Iran",
+     "Egypt's minister phoned Iran's foreign minister Araghchi",
+     "Egypt urged Iran to show flexibility and compromise"
+    ],
+    "why": "The safety of Telugu people working in the Gulf and oil prices depend on these tensions.",
+    "cat": "World · West Asia",
+    "statl": "Trump–Qatar emir talks"
+   },
+   "hi": {
+    "h": "पश्चिम एशिया में तनाव घटाने पर ट्रंप ने कतर के अमीर से फोन पर बात की",
+    "p": "ईरान के खिलाफ अमेरिका की फिर से सैन्य कार्रवाई की आशंकाओं के बीच, अमेरिकी राष्ट्रपति ट्रंप ने पश्चिम एशिया में तनाव घटाने पर कतर के अमीर शेख तमीम बिन हमद अल थानी से फोन पर बात की। कतर ने बताया कि बातचीत में व्यापक समझौते के लिए उसकी मध्यस्थता पर चर्चा हुई। अमीर ने संवाद, समुद्री आवाजाही की स्वतंत्रता और ऊर्जा आपूर्ति सुरक्षा पर ज़ोर दिया।",
+    "pts": [
+     "कतर अमेरिका और ईरान के बीच मध्यस्थता कर रहा है",
+     "मिस्र के मंत्री ने ईरानी विदेश मंत्री अराघची को फोन किया",
+     "मिस्र ने ईरान से लचीलापन और समझौते की अपील की"
+    ],
+    "why": "खाड़ी में काम करने वाले तेलुगु लोगों की सुरक्षा और तेल की कीमतें इस तनाव पर निर्भर हैं।",
+    "cat": "दुनिया · पश्चिम एशिया",
+    "statl": "ट्रंप–कतर अमीर बातचीत"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · ప్రయాణం",
    "col": "--c-gov",
@@ -1761,200 +1958,6 @@
    },
    "d": "06.11.2026",
    "t": "13:05"
-  },
-  {
-   "cat": "భారత్ · బ్యాంకింగ్",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹12,668 కో.",
-   "statl": "ఎస్‌బీఐ క్లెయిమ్ మొత్తం",
-   "h": "వీడియోకాన్ మాజీ ప్రమోటర్ వేణుగోపాల్ ధూత్‌ను దివాలాదారుగా ప్రకటించిన ఎన్‌సీఎల్‌టీ",
-   "p": "ఎస్‌బీఐ పిటిషన్‌ను స్వీకరించిన ఎన్‌సీఎల్‌టీ ముంబై బెంచ్, వీడియోకాన్ గ్రూప్ రుణాలకు వ్యక్తిగత హామీదారుగా ఉన్న వేణుగోపాల్ ధూత్‌ను దివాలాదారుగా ప్రకటించింది. సెప్టెంబర్ 30 నాటికి ఎస్‌బీఐ క్లెయిమ్ ₹12,668.06 కోట్లు. మూడేళ్లలో ₹600 కోట్లు చెల్లిస్తానన్న ఆయన ప్రతిపాదనను రుణదాతలు తిరస్కరించారు. బ్యాంక్రప్సీ ట్రస్టీగా ఆశిష్ నారాయణ్ నియమితులయ్యారు.",
-   "pts": [
-    "ఐబీసీ సెక్షన్ 123 కింద ఎస్‌బీఐ పిటిషన్‌కు ఆమోదం",
-    "₹600 కోట్ల చెల్లింపు ప్రతిపాదనను తిరస్కరించిన రుణదాతలు",
-    "90 రోజుల్లో ట్రస్టీ ప్రాథమిక నివేదిక ఇవ్వాలి"
-   ],
-   "why": "భారీ బ్యాంకు రుణాల వసూలులో వ్యక్తిగత హామీదారులపై చర్యలకు ఇది ఉదాహరణ.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/nclt-declares-videocons-venugopal-dhoot-bankrupt-sbi-to-recover-rs-12668-crore",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "NCLT declares ex-Videocon promoter Venugopal Dhoot bankrupt",
-    "p": "The NCLT Mumbai bench admitted SBI's petition and declared Venugopal Dhoot, a personal guarantor for Videocon group loans, bankrupt. SBI's claim stood at Rs 12,668.06 crore as of September 30. Creditors rejected his offer to pay Rs 600 crore over three years. Asish Narayan has been appointed bankruptcy trustee.",
-    "pts": [
-     "SBI petition admitted under Section 123 of IBC",
-     "Creditors rejected Rs 600 crore repayment offer",
-     "Trustee to file preliminary report within 90 days"
-    ],
-    "why": "It is an example of action against personal guarantors in recovering large bank loans.",
-    "cat": "India · Banking",
-    "statl": "SBI's total claim"
-   },
-   "hi": {
-    "h": "एनसीएलटी ने वीडियोकॉन के पूर्व प्रमोटर वेणुगोपाल धूत को दिवालिया घोषित किया",
-    "p": "एनसीएलटी की मुंबई पीठ ने एसबीआई की याचिका स्वीकार कर वीडियोकॉन समूह के कर्जों के निजी गारंटर वेणुगोपाल धूत को दिवालिया घोषित किया। 30 सितंबर तक एसबीआई का दावा ₹12,668.06 करोड़ था। तीन साल में ₹600 करोड़ चुकाने के उनके प्रस्ताव को कर्जदाताओं ने ठुकरा दिया। आशीष नारायण को बैंकरप्सी ट्रस्टी नियुक्त किया गया है।",
-    "pts": [
-     "आईबीसी धारा 123 के तहत एसबीआई की याचिका स्वीकार",
-     "₹600 करोड़ के भुगतान प्रस्ताव को कर्जदाताओं ने ठुकराया",
-     "ट्रस्टी 90 दिन में प्रारंभिक रिपोर्ट देंगे"
-    ],
-    "why": "बड़े बैंक कर्जों की वसूली में निजी गारंटरों पर कार्रवाई का यह एक उदाहरण है।",
-    "cat": "भारत · बैंकिंग",
-    "statl": "एसबीआई का कुल दावा"
-   },
-   "d": "06.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "తమిళనాడు · చెన్నై",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "5–7 నవం.",
-   "statl": "‘రాహత్ మిత్ర’ విన్యాసాలు",
-   "h": "చెన్నైలో భారత్–మయన్మార్ ‘రాహత్ మిత్ర’ విపత్తు సహాయ విన్యాసాలు",
-   "p": "భారత్, మయన్మార్ కలిసి మానవతా సహాయం, విపత్తు సహాయంపై ‘రాహత్ మిత్ర’ సంయుక్త విన్యాసాలను చెన్నైలో నవంబర్ 5 నుంచి 7 వరకు నిర్వహిస్తున్నాయి. భారత సైన్యం నౌకాదళం, వాయుసేనతో కలిసి వరద సహాయ బృందాలు, ఇంజినీర్ టాస్క్ ఫోర్స్‌ల పనితీరును ప్రదర్శించింది. రక్షణ చర్యలు, నీటి తోడివేత, వంతెనల నిర్మాణం ఇందులో ఉన్నాయి.",
-   "pts": [
-    "చెన్నైలో నవంబర్ 5–7 వరకు విన్యాసాలు",
-    "వరద సహాయం, నీటి తోడివేత, వంతెన నిర్మాణ ప్రదర్శన",
-    "సైన్యం, నౌకాదళం, వాయుసేన భాగస్వామ్యం"
-   ],
-   "why": "తుపానులు, వరదలు వచ్చే తీర ప్రాంతాల్లో విపత్తు సహాయ సన్నద్ధతకు ఇలాంటి విన్యాసాలు తోడ్పడతాయి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/india-myanmar-participate-in-exercise-rahat-mitra-in-chennai",
-   "sec": [
-    "india"
-   ],
-   "st": "TN",
-   "place": "tn-chennai",
-   "en": {
-    "h": "India, Myanmar hold 'Rahat Mitra' disaster relief exercise in Chennai",
-    "p": "India and Myanmar are holding the joint humanitarian assistance and disaster relief exercise 'Rahat Mitra' in Chennai from November 5 to 7. The Indian Army, along with the Navy and Air Force, demonstrated flood relief columns and engineer task forces. The drills covered rescue operations, dewatering and bridge laying.",
-    "pts": [
-     "Exercise in Chennai from November 5 to 7",
-     "Flood relief, dewatering and bridge-laying demonstrated",
-     "Army, Navy and Air Force take part"
-    ],
-    "why": "Such exercises help disaster-relief readiness in coastal areas hit by cyclones and floods.",
-    "cat": "Tamil Nadu · Chennai",
-    "statl": "'Rahat Mitra' exercise"
-   },
-   "hi": {
-    "h": "चेन्नई में भारत–म्यांमार का ‘राहत मित्र’ आपदा राहत अभ्यास",
-    "p": "भारत और म्यांमार 5 से 7 नवंबर तक चेन्नई में मानवीय सहायता और आपदा राहत पर संयुक्त अभ्यास ‘राहत मित्र’ कर रहे हैं। भारतीय सेना ने नौसेना और वायुसेना के साथ बाढ़ राहत दस्तों और इंजीनियर टास्क फोर्स का प्रदर्शन किया। इसमें बचाव कार्य, पानी निकासी और पुल निर्माण शामिल थे।",
-    "pts": [
-     "चेन्नई में 5 से 7 नवंबर तक अभ्यास",
-     "बाढ़ राहत, पानी निकासी और पुल निर्माण का प्रदर्शन",
-     "सेना, नौसेना और वायुसेना शामिल"
-    ],
-    "why": "ऐसे अभ्यास चक्रवात और बाढ़ वाले तटीय इलाकों में आपदा राहत की तैयारी में मदद करते हैं।",
-    "cat": "तमिलनाडु · चेन्नई",
-    "statl": "‘राहत मित्र’ अभ्यास"
-   },
-   "d": "06.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "25 ఏళ్లు",
-   "statl": "పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
-   "h": "ఇరాన్‌లో మిగిలినదాన్నీ ధ్వంసం చేయాల్సి రావొచ్చు: ట్రంప్ హెచ్చరిక",
-   "p": "ఇరాన్‌లో మిగిలిన భాగాన్ని కూడా అమెరికా ‘ధ్వంసం’ చేయాల్సి రావొచ్చని అధ్యక్షుడు ట్రంప్ హెచ్చరించారు. అలా జరిగితే పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని, తాను చర్య తీసుకుంటే ‘త్వరలోనే తెలుస్తుంది’ అని అన్నారు. మరోవైపు ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ అణు ప్రతిపాదనను అమెరికాకు పంపినట్లు సమాచారం; దాన్ని వాషింగ్టన్ పరిశీలిస్తోంది.",
-   "pts": [
-    "ఇరాన్‌ను ‘ధ్వంసం’ చేయాల్సి రావొచ్చన్న ట్రంప్",
-    "పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని వ్యాఖ్య",
-    "ఖతార్ ద్వారా ఇరాన్ అణు ప్రతిపాదన పంపినట్లు సమాచారం"
-   ],
-   "why": "గల్ఫ్‌లో ఉద్రిక్తతలు పెరిగితే అక్కడ పనిచేసే తెలుగువారు, చమురు ధరలపై ప్రభావం పడొచ్చు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "US may have to 'destroy' rest of Iran, Trump warns",
-    "p": "US President Trump warned that the US may have to 'destroy' the rest of Iran. He said rebuilding would then take 25 years and that people would 'know soon enough' if he acts. Meanwhile, Iran has reportedly sent a nuclear proposal to the US through Qatari mediators, which Washington is reviewing.",
-    "pts": [
-     "Trump says US may have to 'destroy' Iran",
-     "Says rebuilding would take 25 years",
-     "Iran reportedly sent nuclear proposal via Qatar"
-    ],
-    "why": "Rising Gulf tensions could affect Telugu workers there and oil prices.",
-    "cat": "World · Iran",
-    "statl": "Rebuilding time, says Trump"
-   },
-   "hi": {
-    "h": "ईरान का बाकी हिस्सा भी ‘तबाह’ करना पड़ सकता है: ट्रंप की चेतावनी",
-    "p": "अमेरिकी राष्ट्रपति ट्रंप ने चेतावनी दी कि अमेरिका को ईरान का बाकी हिस्सा भी ‘तबाह’ करना पड़ सकता है। उन्होंने कहा कि ऐसा हुआ तो पुनर्निर्माण में 25 साल लगेंगे और अगर वे कार्रवाई करते हैं तो ‘जल्द ही पता चल जाएगा’। वहीं, खबर है कि ईरान ने कतर के मध्यस्थों के जरिए अमेरिका को परमाणु प्रस्ताव भेजा है, जिस पर वॉशिंगटन विचार कर रहा है।",
-    "pts": [
-     "ट्रंप ने कहा ईरान को ‘तबाह’ करना पड़ सकता है",
-     "पुनर्निर्माण में 25 साल लगने की बात कही",
-     "खबर: ईरान ने कतर के जरिए परमाणु प्रस्ताव भेजा"
-    ],
-    "why": "खाड़ी में तनाव बढ़ने से वहां काम करने वाले तेलुगु लोगों और तेल कीमतों पर असर पड़ सकता है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "पुनर्निर्माण का समय: ट्रंप"
-   },
-   "d": "06.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "6–11 నవం.",
-   "statl": "చార్మినార్ వద్ద ట్రాఫిక్ ఆంక్షలు",
-   "h": "దీపావళి రద్దీ: చార్మినార్ వైపు రోడ్లు వాడొద్దని ట్రాఫిక్ పోలీసుల సూచన",
-   "p": "భాగ్యలక్ష్మి ఆలయానికి దీపావళి భక్తుల రద్దీ ఉంటుందని, నవంబర్ 6 నుంచి 11 వరకు చార్మినార్ వైపు వెళ్లే రోడ్లను వాడకుండా ఉండాలని హైదరాబాద్ ట్రాఫిక్ పోలీసులు సూచించారు. మదీనా, ముర్గీ చౌక్, షా అలీ బండ మార్గాల్లో రద్దీ ఉండొచ్చు. భక్తులు నిర్ణీత పార్కింగ్ ప్రాంతాలు వాడాలి. సహాయానికి 9010203626 నంబరుకు ఫోన్ చేయొచ్చు.",
-   "pts": [
-    "మదీనా–చార్మినార్, ముర్గీ చౌక్–చార్మినార్ మార్గాల్లో రద్దీ",
-    "చార్మినార్ బస్ టెర్మినల్, కులీ కుతుబ్‌షా స్టేడియంలో పార్కింగ్",
-    "ట్రాఫిక్ హెల్ప్‌లైన్: 9010203626"
-   ],
-   "why": "పాతబస్తీకి వెళ్లే ప్రయాణికులు, భక్తులు ముందుగానే మార్గం ప్లాన్ చేసుకోవచ్చు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-traffic-advisory-issued-for-charminar-from-november-6",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "చార్మినార్",
-   "en": {
-    "h": "Diwali rush: Police advise avoiding roads to Charminar till Nov 11",
-    "p": "Hyderabad Traffic Police have advised commuters to avoid roads leading to Charminar from November 6 to 11 due to the expected Diwali rush at the Bhagyalakshmi Temple. Congestion is likely on the Madina, Murgi Chowk and Shah Ali Banda routes. Devotees should use designated parking areas. Help is available on 9010203626.",
-    "pts": [
-     "Congestion likely on Madina–Charminar, Murgi Chowk–Charminar routes",
-     "Parking at Charminar Bus Terminal, Quli Qutb Shah Stadium",
-     "Traffic helpline: 9010203626"
-    ],
-    "why": "Commuters and devotees heading to the Old City can plan their routes in advance.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Traffic curbs near Charminar"
-   },
-   "hi": {
-    "h": "दिवाली भीड़: 11 नवंबर तक चारमीनार की सड़कों से बचने की सलाह",
-    "p": "भाग्यलक्ष्मी मंदिर में दिवाली पर भक्तों की भीड़ को देखते हुए हैदराबाद ट्रैफिक पुलिस ने 6 से 11 नवंबर तक चारमीनार की ओर जाने वाली सड़कों से बचने की सलाह दी है। मदीना, मुर्गी चौक और शाह अली बंडा मार्गों पर जाम हो सकता है। भक्त तय पार्किंग स्थलों का उपयोग करें। मदद के लिए 9010203626 पर कॉल करें।",
-    "pts": [
-     "मदीना–चारमीनार, मुर्गी चौक–चारमीनार मार्गों पर जाम संभव",
-     "चारमीनार बस टर्मिनल, कुली कुतुबशाह स्टेडियम में पार्किंग",
-     "ट्रैफिक हेल्पलाइन: 9010203626"
-    ],
-    "why": "पुराने शहर जाने वाले यात्री और भक्त पहले से अपना रास्ता तय कर सकते हैं।",
-    "cat": "हैदराबाद · ट्रैफिक",
-    "statl": "चारमीनार के पास ट्रैफिक पाबंदी"
-   },
-   "d": "06.11.2026",
-   "t": "12:35"
   }
  ]
 }
