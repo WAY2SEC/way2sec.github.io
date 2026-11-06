@@ -1,8 +1,156 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T18:09:21+05:30",
+ "updated": "2026-11-06T19:15:03+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · నల్గొండ",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "23 ఏళ్లు",
+   "statl": "బోస్టన్‌లో అదృశ్యమైన విద్యార్థిని వయసు",
+   "h": "అమెరికాలో నల్గొండ విద్యార్థిని అదృశ్యం; ఆందోళనలో కుటుంబం",
+   "p": "ఉన్నత చదువుల కోసం అమెరికా వెళ్లిన నల్గొండ జిల్లాకు చెందిన 23 ఏళ్ల యువతి బోస్టన్‌లో కనిపించకుండా పోయింది. నవంబర్ 2న నడకకు వెళ్లి తిరిగి రాలేదని కుటుంబం తెలిపింది. స్నేహితులు స్థానిక పోలీసులకు ఫిర్యాదు చేశారు. చివరిసారి ఆమె ఆచూకీ ఒక బీచ్ సమీపంలో కనిపించినట్లు సమాచారం. గాలింపు కొనసాగుతోంది.",
+   "pts": [
+    "చదువుతో పాటు పార్ట్‌టైమ్ ఉద్యోగం చేస్తున్న యువతి",
+    "కుటుంబం కనగల్ మండలం సుబ్బులాపురం గ్రామానికి చెందినది",
+    "అధికారులతో మాట్లాడిన మంత్రి కోమటిరెడ్డి వెంకట్ రెడ్డి"
+   ],
+   "why": "విదేశాల్లో చదువుతున్న తెలుగు విద్యార్థుల భద్రతపై కుటుంబాల్లో ఆందోళన పెంచే ఘటన ఇది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-woman-goes-missing-in-us-while-pursuing-higher-studies-3570574/",
+   "sec": [
+    "telangana",
+    "world"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "సుబ్బులాపురం",
+   "d": "06.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Nalgonda student goes missing in US; family worried",
+    "p": "A 23-year-old woman from Nalgonda district, who went to the US for higher studies, has gone missing in Boston. Her family said she left for a walk on November 2 and did not return. Her friends filed a complaint with local police. Her last known location was reportedly near a beach. The search is continuing.",
+    "pts": [
+     "She was also working part-time while studying",
+     "Family hails from Subbulapuram village, Kanagal mandal",
+     "Minister Komatireddy Venkat Reddy spoke to officials"
+    ],
+    "why": "The incident adds to worries among families about the safety of Telugu students studying abroad.",
+    "cat": "Telangana · Nalgonda",
+    "statl": "Age of the student missing in Boston"
+   },
+   "hi": {
+    "h": "अमेरिका में नलगोंडा की छात्रा लापता; परिवार चिंतित",
+    "p": "उच्च शिक्षा के लिए अमेरिका गई तेलंगाना के नलगोंडा जिले की 23 वर्षीय युवती बोस्टन में लापता हो गई है। परिवार के अनुसार वह 2 नवंबर को टहलने निकली और वापस नहीं लौटी। दोस्तों ने स्थानीय पुलिस में शिकायत दर्ज कराई। बताया गया है कि उसकी आखिरी लोकेशन एक बीच के पास थी। तलाश जारी है।",
+    "pts": [
+     "पढ़ाई के साथ पार्ट-टाइम नौकरी भी कर रही थी",
+     "परिवार कनगल मंडल के सुब्बुलापुरम गांव का है",
+     "मंत्री कोमटिरेड्डी वेंकट रेड्डी ने अधिकारियों से बात की"
+    ],
+    "why": "यह घटना विदेश में पढ़ रहे तेलुगु छात्रों की सुरक्षा को लेकर परिवारों की चिंता बढ़ाती है।",
+    "cat": "तेलंगाना · नलगोंडा",
+    "statl": "बोस्टन में लापता छात्रा की उम्र"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · వర్షపాతం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "34%",
+   "statl": "ఈ రుతుపవనాల్లో హైదరాబాద్ వర్షపాత లోటు",
+   "h": "నైరుతి రుతుపవనాల్లో హైదరాబాద్‌కు 34% వర్షపాత లోటు",
+   "p": "జూన్–సెప్టెంబర్ నైరుతి రుతుపవన కాలంలో హైదరాబాద్‌లో సాధారణంగా 745.1 మి.మీ. వర్షం పడాల్సి ఉండగా 488.3 మి.మీ. మాత్రమే నమోదైంది. ఇది 34 శాతం లోటు. చుట్టుపక్కల జిల్లాల్లోనూ లోటు నమోదైంది. ఎల్ నినో, అధిక ఉష్ణోగ్రతలే కారణమని ఐఎండీ అధికారి తెలిపారు. పలు హెచ్చరికలు వచ్చినా నగరంలో 2–3 భారీ వర్షాలే కురిశాయి.",
+   "pts": [
+    "మేడ్చల్-మల్కాజిగిరిలో 39%, వికారాబాద్‌లో 32% లోటు",
+    "యాదాద్రి భువనగిరి 30%, రంగారెడ్డి 28%, సంగారెడ్డి 25%",
+    "కొన్నేళ్లుగా సాగిన అధిక వర్షాల ధోరణికి బ్రేక్"
+   ],
+   "why": "వర్షాలు తగ్గడంతో నగరంలో నీటి అవసరాలు, భూగర్భ జలాలపై ఒత్తిడి పెరిగే అవకాశం ఉన్నందున ఇది కీలకం.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-records-34-per-cent-rainfall-deficit-as-monsoon-disappoints",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "d": "06.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Hyderabad records 34% rainfall deficit in southwest monsoon",
+    "p": "During the June–September southwest monsoon, Hyderabad received only 488.3 mm of rain against a normal of 745.1 mm, a deficit of 34 per cent. Neighbouring districts also recorded deficits. An IMD official attributed it to El Nino and high temperatures. Despite several alerts, the city saw only 2–3 heavy downpours.",
+    "pts": [
+     "Medchal-Malkajgiri 39%, Vikarabad 32% deficit",
+     "Yadadri Bhuvanagiri 30%, Rangareddy 28%, Sangareddy 25%",
+     "Breaks a multi-year wet streak"
+    ],
+    "why": "Less rain matters because it can add pressure on the city's water needs and groundwater.",
+    "cat": "Hyderabad · Rainfall",
+    "statl": "Hyderabad's rainfall deficit this monsoon"
+   },
+   "hi": {
+    "h": "दक्षिण-पश्चिम मानसून में हैदराबाद में 34% बारिश की कमी",
+    "p": "जून–सितंबर के दक्षिण-पश्चिम मानसून में हैदराबाद में सामान्य 745.1 मिमी के मुकाबले केवल 488.3 मिमी बारिश हुई। यह 34 प्रतिशत की कमी है। आसपास के जिलों में भी कमी दर्ज हुई। आईएमडी अधिकारी ने इसकी वजह अल नीनो और ऊंचे तापमान को बताया। कई अलर्ट के बावजूद शहर में केवल 2–3 बार भारी बारिश हुई।",
+    "pts": [
+     "मेडचल-मलकाजगिरी में 39%, विकाराबाद में 32% कमी",
+     "यादाद्री भुवनगिरी 30%, रंगारेड्डी 28%, संगारेड्डी 25%",
+     "कई वर्षों से चल रहे अधिक बारिश के दौर पर विराम"
+    ],
+    "why": "कम बारिश से शहर की पानी की जरूरतों और भूजल पर दबाव बढ़ सकता है, इसलिए यह अहम है।",
+    "cat": "हैदराबाद · वर्षा",
+    "statl": "इस मानसून में हैदराबाद में बारिश की कमी"
+   }
+  },
+  {
+   "cat": "ఝార్ఖండ్ · ఉద్యోగాలు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "22 పరీక్షలు",
+   "statl": "ఆగస్టులో ప్రభుత్వం రద్దు చేసిన నియామక పరీక్షలు",
+   "h": "జేఎస్ఎస్‌సీ-సీజీఎల్ పరీక్ష రద్దు నిర్ణయాన్ని కొట్టేసిన ఝార్ఖండ్ హైకోర్టు",
+   "p": "2024లో జరిగిన జేఎస్ఎస్‌సీ కంబైన్డ్ గ్రాడ్యుయేట్ లెవల్ పరీక్షను రద్దు చేస్తూ ఝార్ఖండ్ ప్రభుత్వం ఇచ్చిన నోటిఫికేషన్‌ను హైకోర్టు శుక్రవారం కొట్టివేసింది. పరీక్షలో ఉత్తీర్ణులైన అభ్యర్థులు ఈ పిటిషన్లు వేశారు. ప్రభుత్వ నిర్ణయం అన్యాయమని జస్టిస్ దీపక్ రోషన్ పేర్కొన్నారు. అక్రమాలు, పేపర్ లీకుల ఆధారాలతోనే రద్దు చేశామని ప్రభుత్వం వాదించింది.",
+   "pts": [
+    "2014 నుంచి జరిగిన 22 పరీక్షలను ఆగస్టులో రద్దు చేసిన ప్రభుత్వం",
+    "మరో 23 పరీక్షలపై విచారణకు ఆదేశం",
+    "అక్రమాలపై సీఐడీ ప్రత్యేక దర్యాప్తు బృందం విచారణ"
+   ],
+   "why": "పరీక్ష రద్దుతో ఉద్యోగాలు కోల్పోయిన వేలాది మంది అభ్యర్థులకు ఈ తీర్పు ఊరటనిస్తుంది.",
+   "src": "PTI",
+   "url": "https://www.siasat.com/hc-quashes-jharkhand-govts-decision-to-cancel-2024-jssc-cgl-exam-3570615/",
+   "sec": [
+    "india",
+    "jobs"
+   ],
+   "st": "JH",
+   "place": "IN",
+   "d": "06.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Jharkhand High Court quashes cancellation of JSSC-CGL exam",
+    "p": "The Jharkhand High Court on Friday quashed the state government's notification cancelling the JSSC Combined Graduate Level exam held in 2024. The petitions were filed by candidates who had cleared the exam. Justice Deepak Roshan called the government's decision unfair. The state had argued it cancelled the exam based on evidence of irregularities and paper leaks.",
+    "pts": [
+     "Government had cancelled 22 exams held since 2014 in August",
+     "Probe ordered into 23 other exams",
+     "CID special investigation team probing irregularities"
+    ],
+    "why": "The ruling brings relief to thousands of candidates who lost jobs after the exam was cancelled.",
+    "cat": "Jharkhand · Jobs",
+    "statl": "Recruitment exams cancelled by the government in August"
+   },
+   "hi": {
+    "h": "झारखंड हाईकोर्ट ने JSSC-CGL परीक्षा रद्द करने का फैसला खारिज किया",
+    "p": "झारखंड हाईकोर्ट ने शुक्रवार को 2024 में हुई JSSC संयुक्त स्नातक स्तरीय परीक्षा रद्द करने की राज्य सरकार की अधिसूचना खारिज कर दी। परीक्षा पास करने वाले अभ्यर्थियों ने ये याचिकाएं दायर की थीं। न्यायमूर्ति दीपक रोशन ने सरकार के फैसले को अनुचित बताया। राज्य ने तर्क दिया था कि अनियमितताओं और पेपर लीक के सबूतों के आधार पर परीक्षा रद्द की गई।",
+    "pts": [
+     "सरकार ने अगस्त में 2014 से हुई 22 परीक्षाएं रद्द की थीं",
+     "23 अन्य परीक्षाओं की जांच के आदेश",
+     "अनियमितताओं की जांच CID की SIT कर रही है"
+    ],
+    "why": "परीक्षा रद्द होने से नौकरी गंवाने वाले हजारों अभ्यर्थियों को इस फैसले से राहत मिलेगी।",
+    "cat": "झारखंड · नौकरियां",
+    "statl": "अगस्त में सरकार द्वारा रद्द भर्ती परीक्षाएं"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఓటర్ల జాబితా",
    "col": "--c-election",
@@ -1807,153 +1955,6 @@
     "cat": "झारखंड · खूंटी · हादसा",
     "statl": "ट्रक हादसे में मौतें"
    }
-  },
-  {
-   "cat": "ఏపీ · తూర్పు గోదావరి · వరద",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "8 ప్రాంతాలు",
-   "statl": "నిడదవోలు శివారు కాలనీలు, గ్రామాల్లోకి వరద నీరు",
-   "h": "నిడదవోలు శివార్లను ముంచెత్తిన ఎర్రకాలువ వరద",
-   "p": "తూర్పు గోదావరి జిల్లా నిడదవోలు పట్టణ శివారు ప్రాంతాలు వరద నీటిలో చిక్కుకున్నాయి. ఎర్రకాలువ నుంచి వచ్చిన వరద తీరుగూడెం, రాయిపేట, ఇందిరానగర్, గాంధీనగర్ ప్రాంతాల్లోకి చేరింది. పట్టణం చుట్టుపక్కల కంసాలిపాలెం, తాళ్లపాలెం, సింగవరం, రావిమెట్ల గ్రామాల్లోకి కూడా నీరు వచ్చింది. వరద నీటితో పాటు విషసర్పాలు కూడా కొట్టుకొస్తున్నాయి.",
-   "pts": [
-    "ఎర్రకాలువ వరదతో నిడదవోలు శివార్లు జలమయం",
-    "తీరుగూడెం, రాయిపేట, ఇందిరానగర్, గాంధీనగర్‌లోకి నీరు",
-    "వరద నీటిలో కొట్టుకొస్తున్న విషసర్పాలు"
-   ],
-   "why": "నిడదవోలు చుట్టుపక్కల కాలనీలు, గ్రామాల ప్రజలు వరద నీరు, పాముల విషయంలో అప్రమత్తంగా ఉండాల్సిన సమయం ఇది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-6th-november-2026-kjr-3704.html",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "ap-eastgodavari",
-   "loc": "నిడదవోలు",
-   "d": "06.11.2026",
-   "t": "11:05",
-   "en": {
-    "h": "Erra Kalva floodwater inundates outskirts of Nidadavole",
-    "p": "The outskirts of Nidadavole town in East Godavari district have been hit by floods. Floodwater from the Erra Kalva has reached the Theerugudem, Raipeta, Indira Nagar and Gandhi Nagar areas. Water has also entered Kansalipalem, Thallapalem, Singavaram and Ravimetla villages around the town. Venomous snakes are also being carried along with the floodwater.",
-    "pts": [
-     "Nidadavole outskirts flooded by Erra Kalva water",
-     "Water enters Theerugudem, Raipeta, Indira Nagar, Gandhi Nagar",
-     "Venomous snakes carried along in floodwater"
-    ],
-    "why": "People in colonies and villages around Nidadavole need to stay alert about floodwater and snakes.",
-    "cat": "AP · East Godavari · Floods",
-    "statl": "Floodwater enters Nidadavole outskirts and villages"
-   },
-   "hi": {
-    "h": "एर्रा कालवा की बाढ़ से निडदवोलु के बाहरी इलाके डूबे",
-    "p": "पूर्वी गोदावरी जिले के निडदवोलु शहर के बाहरी इलाके बाढ़ की चपेट में आ गए हैं। एर्रा कालवा का बाढ़ का पानी तीरुगुडेम, रायपेटा, इंदिरा नगर और गांधी नगर इलाकों तक पहुंच गया है। शहर के आसपास के कंसालिपालेम, तल्लापालेम, सिंगवरम और रावीमेटला गांवों में भी पानी घुस गया है। बाढ़ के पानी के साथ जहरीले सांप भी बहकर आ रहे हैं।",
-    "pts": [
-     "एर्रा कालवा की बाढ़ से निडदवोलु के बाहरी इलाके जलमग्न",
-     "तीरुगुडेम, रायपेटा, इंदिरा नगर, गांधी नगर में पानी",
-     "बाढ़ के पानी में बहकर आ रहे जहरीले सांप"
-    ],
-    "why": "निडदवोलु के आसपास की कॉलोनियों और गांवों के लोगों को बाढ़ के पानी और सांपों से सतर्क रहने की जरूरत है।",
-    "cat": "आंध्र प्रदेश · पूर्वी गोदावरी · बाढ़",
-    "statl": "निडदवोलु के बाहरी इलाकों और गांवों में बाढ़ का पानी"
-   }
-  },
-  {
-   "cat": "ఏపీ · గుంటూరు · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "కేసు నమోదు",
-   "statl": "విధులకు ఆటంకం, నిరసనపై పోలీసుల కేసు",
-   "h": "గుంటూరులో వైఎస్సార్సీపీ ఎమ్మెల్సీ అప్పిరెడ్డి అరెస్టు",
-   "p": "పరిషత్ ఎన్నికల సమయంలో గుంటూరు జిల్లా వెంగళాయపాలెంలో బ్యాలెట్ బాక్స్ వివాదం తర్వాత నల్లపాడులో వైఎస్సార్సీపీ నేతలు రోడ్డుపై బైఠాయించి నిరసన తెలిపారు. ఇందులో పాల్గొన్న ఎమ్మెల్సీ అప్పిరెడ్డిని పోలీసులు రాత్రి అరెస్టు చేసి నల్లపాడు పోలీస్ స్టేషన్‌లో ఉంచారు. సిబ్బంది విధులకు ఆటంకం కలిగించడం, నిరసనపై కేసు నమోదైంది.",
-   "pts": [
-    "నల్లపాడులో రోడ్డుపై బైఠాయింపు నిరసన",
-    "రాత్రంతా నల్లపాడు స్టేషన్‌లోనే ఎమ్మెల్సీ",
-    "విధులకు ఆటంకంపై కేసు నమోదు"
-   ],
-   "why": "పరిషత్ ఎన్నికల వేళ గుంటూరు జిల్లాలో శాంతిభద్రతలపై ఓటర్లు, అధికారులు దృష్టి పెట్టాల్సిన సమయం ఇది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--06th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110600501",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-guntur",
-   "loc": "నల్లపాడు",
-   "en": {
-    "h": "YSRCP MLC Appireddy arrested in Guntur",
-    "p": "After a ballot box dispute at Vengalayapalem in Guntur district during the parishad elections, YSRCP leaders staged a road sit-in protest at Nallapadu. Police arrested MLC Appireddy, who took part, at night and kept him at Nallapadu police station. A case was registered for obstructing staff from their duties and for the protest.",
-    "pts": [
-     "Road sit-in protest at Nallapadu",
-     "MLC kept overnight at Nallapadu police station",
-     "Case registered for obstructing duty"
-    ],
-    "why": "It brings attention to law and order in Guntur district during the parishad elections.",
-    "cat": "AP · Guntur · Elections",
-    "statl": "Police case for obstructing duty and protest"
-   },
-   "hi": {
-    "h": "गुंटूर में वाईएसआरसीपी एमएलसी अप्पिरेड्डी गिरफ्तार",
-    "p": "परिषद चुनावों के दौरान गुंटूर जिले के वेंगलायपालेम में बैलेट बॉक्स विवाद के बाद वाईएसआरसीपी नेताओं ने नल्लापाडु में सड़क पर धरना दिया। इसमें शामिल एमएलसी अप्पिरेड्डी को पुलिस ने रात में गिरफ्तार कर नल्लापाडु थाने में रखा। कर्मचारियों के काम में बाधा डालने और प्रदर्शन को लेकर मामला दर्ज हुआ।",
-    "pts": [
-     "नल्लापाडु में सड़क पर धरना",
-     "एमएलसी रात भर नल्लापाडु थाने में",
-     "ड्यूटी में बाधा का मामला दर्ज"
-    ],
-    "why": "परिषद चुनावों के बीच गुंटूर जिले में कानून-व्यवस्था पर ध्यान खींचती घटना।",
-    "cat": "आंध्र प्रदेश · गुंटूर · चुनाव",
-    "statl": "ड्यूटी में बाधा और प्रदर्शन पर पुलिस केस"
-   },
-   "d": "06.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · భద్రత",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "POCSO",
-   "statl": "కేసుల్లో వేగవంతమైన దర్యాప్తుకు కొత్త ఏర్పాట్లు",
-   "h": "పోక్సో కేసుల్లో వైద్య నివేదికలు త్వరగా ఇవ్వాలి: సీపీ సజ్జనార్",
-   "p": "పోక్సో కేసుల దర్యాప్తు వేగంగా జరగాలంటే ప్రభుత్వ ఆసుపత్రుల వైద్యులు సకాలంలో వైద్య పరీక్షలు, పూర్తి నివేదికలు ఇవ్వాలని హైదరాబాద్ పోలీస్ కమిషనర్ వీసీ సజ్జనార్ కోరారు. నివేదికల జాప్యం వల్ల గడువులోపు ఛార్జిషీట్ దాఖలుపై ప్రభావం పడుతుందన్నారు. ప్రధాన ఆసుపత్రుల్లో పోలీస్ లైజన్ అధికారులు, డీసీపీ స్థాయి వాట్సాప్ గ్రూప్ ఏర్పాటు చేయనున్నట్లు తెలిపారు.",
-   "pts": [
-    "ప్రధాన ప్రభుత్వ ఆసుపత్రుల్లో పోలీస్ లైజన్ అధికారులు",
-    "డీసీపీ స్థాయి అధికారులతో వాట్సాప్ సమన్వయ గ్రూప్",
-    "పాఠశాలల్లో కౌన్సెలింగ్, అవగాహన కార్యక్రమాలు"
-   ],
-   "why": "చిన్నారులపై నేరాల కేసుల్లో త్వరగా న్యాయం జరగడానికి ఆసుపత్రులు, పోలీసుల సమన్వయం కీలకం.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/expedite-probe-in-pocso-cases-sajjanar-urges-govt-doctors-3570482/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "en": {
-    "h": "Give quick medical reports in POCSO cases: CP Sajjanar",
-    "p": "Hyderabad Police Commissioner VC Sajjanar urged government hospital doctors to provide timely medical examinations and complete reports so POCSO investigations move fast. He said delays in reports affect filing chargesheets within legal deadlines. He said police liaison officers will be placed at major hospitals and a DCP-level WhatsApp group will be set up.",
-    "pts": [
-     "Police liaison officers at major government hospitals",
-     "WhatsApp coordination group with DCP-level officers",
-     "Counselling and awareness campaigns in schools"
-    ],
-    "why": "Coordination between hospitals and police is key to quicker justice in crimes against children.",
-    "cat": "Hyderabad · Safety",
-    "statl": "New steps for faster probe in cases"
-   },
-   "hi": {
-    "h": "पॉक्सो मामलों में मेडिकल रिपोर्ट जल्दी दें: सीपी सज्जनार",
-    "p": "हैदराबाद पुलिस आयुक्त वीसी सज्जनार ने सरकारी अस्पतालों के डॉक्टरों से कहा कि पॉक्सो मामलों की जांच तेज करने के लिए समय पर मेडिकल जांच और पूरी रिपोर्ट दें। उन्होंने कहा कि रिपोर्ट में देरी से तय समय में चार्जशीट दाखिल करने पर असर पड़ता है। बड़े अस्पतालों में पुलिस संपर्क अधिकारी और डीसीपी स्तर का व्हाट्सऐप ग्रुप बनाया जाएगा।",
-    "pts": [
-     "बड़े सरकारी अस्पतालों में पुलिस संपर्क अधिकारी",
-     "डीसीपी स्तर के अधिकारियों का व्हाट्सऐप समन्वय ग्रुप",
-     "स्कूलों में काउंसलिंग और जागरूकता अभियान"
-    ],
-    "why": "बच्चों के खिलाफ अपराधों में जल्द न्याय के लिए अस्पताल और पुलिस का तालमेल अहम है।",
-    "cat": "हैदराबाद · सुरक्षा",
-    "statl": "मामलों की तेज जांच के लिए नए इंतजाम"
-   },
-   "d": "06.11.2026",
-   "t": "10:35"
   }
  ]
 }
