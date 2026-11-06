@@ -1,8 +1,106 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T17:48:00+05:30",
+ "updated": "2026-11-06T18:09:21+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "7 రాష్ట్రాలు",
+   "statl": "ఓటర్లకు మరో అవకాశం దక్కిన రాష్ట్రాలు",
+   "h": "ఎస్ఐఆర్‌లో పేర్లు తొలగిన ఓటర్లకు మరో అవకాశం: ఎన్నికల సంఘం",
+   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో ముసాయిదా జాబితా నుంచి బయటపడిన ఓటర్లకు మళ్లీ నమోదు అవకాశం ఇస్తామని ఎన్నికల సంఘం శుక్రవారం ప్రకటించింది. గైర్హాజరు, మారిన చిరునామా, మృతి, నకిలీ (ఏఎస్‌డీడీ)గా గుర్తించి, ఎన్యూమరేషన్ ఫారాలు తిరిగి అందని వారికి ఇది వర్తిస్తుంది. తెలంగాణ, ఆంధ్రప్రదేశ్ సహా ఏడు రాష్ట్రాల్లో ఈ అవకాశం ఉంటుంది.",
+   "pts": [
+    "తెలంగాణ, ఏపీ, ఢిల్లీ, మహారాష్ట్రలో వర్తింపు",
+    "హరియాణా, ఝార్ఖండ్, నాగాలాండ్‌లోనూ అవకాశం",
+    "అర్హులు తుది జాబితాలో ఉండేలా పర్యవేక్షణ వ్యవస్థ"
+   ],
+   "why": "ముసాయిదా జాబితాలో పేరు లేని అర్హులైన ఓటర్లు తుది జాబితాలో చేరే అవకాశం దక్కుతుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/excluded-telangana-voters-get-another-chance-to-enrol-in-sir-3570783/",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "d": "06.11.2026",
+   "t": "18:05",
+   "en": {
+    "h": "Voters left out in SIR get another chance to enrol: Election Commission",
+    "p": "The Election Commission announced on Friday that electors left out of the draft rolls during the Special Intensive Revision (SIR) will get another chance. It applies to voters marked Absent, Shifted, Dead or Duplicate (ASDD) whose enumeration forms were issued but not returned. The chance is available in seven states, including Telangana and Andhra Pradesh.",
+    "pts": [
+     "Applies in Telangana, AP, Delhi and Maharashtra",
+     "Also Haryana, Jharkhand and Nagaland",
+     "Monitoring so eligible voters reach the final roll"
+    ],
+    "why": "Eligible voters missing from the draft roll get a chance to be included in the final roll.",
+    "cat": "Telangana · Voter list",
+    "statl": "States where voters get another chance"
+   },
+   "hi": {
+    "h": "एसआईआर में छूटे मतदाताओं को फिर मौका: चुनाव आयोग",
+    "p": "चुनाव आयोग ने शुक्रवार को घोषणा की कि मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) में मसौदा सूची से छूटे मतदाताओं को फिर से नाम जुड़वाने का मौका मिलेगा। यह उन मतदाताओं पर लागू है जिन्हें अनुपस्थित, स्थानांतरित, मृत या डुप्लिकेट (एएसडीडी) चिह्नित किया गया और जिनके गणना फॉर्म वापस नहीं मिले। तेलंगाना और आंध्र प्रदेश समेत सात राज्यों में यह मौका मिलेगा।",
+    "pts": [
+     "तेलंगाना, आंध्र प्रदेश, दिल्ली, महाराष्ट्र में लागू",
+     "हरियाणा, झारखंड, नगालैंड में भी मौका",
+     "पात्र मतदाता अंतिम सूची में रहें, इसकी निगरानी"
+    ],
+    "why": "मसौदा सूची में नाम न होने वाले पात्र मतदाता अंतिम सूची में शामिल हो सकेंगे।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "राज्य जहां मतदाताओं को फिर मौका"
+   }
+  },
+  {
+   "cat": "పంజాబ్ · రైల్వే",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "1,500",
+   "statl": "సురక్షితంగా బయటపడిన ప్రయాణికులు",
+   "h": "పంజాబ్‌లో రైలు బోగీల్లో మంటలు; 1,500 మంది ప్రయాణికులు సురక్షితం",
+   "p": "అమృత్‌సర్ నుంచి న్యూ జల్పాయిగురి వెళ్తున్న రైలు బోగీల్లో పటియాలా జిల్లా రాజ్‌పురా సమీపంలోని సరాయ్ బంజారా స్టేషన్ వద్ద మంటలు చెలరేగాయి. లోకో పైలట్, గార్డు, సిబ్బంది మంటలున్న బోగీలను వేరు చేయడంతో మంటలు వ్యాపించలేదు. ఎలాంటి ప్రాణనష్టం జరగలేదని, ప్రయాణికులను మరో రైలులో గమ్యస్థానాలకు పంపామని అధికారులు తెలిపారు.",
+   "pts": [
+    "రైలులో సుమారు 1,500 మంది ప్రయాణికులు",
+    "మంటలకు కారణం ఇంకా తెలియలేదు",
+    "ఫోరెన్సిక్ దర్యాప్తు జరుపుతామన్న అంబాలా డీఆర్ఎం"
+   ],
+   "why": "రాజ్‌పురా–అంబాలా–ఢిల్లీ మార్గంలో రైళ్ల రాకపోకలు నిలిచిపోవడంతో ఈ మార్గంలో ప్రయాణించేవారిపై ప్రభావం పడింది.",
+   "src": "Babushahi",
+   "url": "https://www.babushahi.com/full-news.php?id=229425",
+   "sec": [
+    "india"
+   ],
+   "st": "PB",
+   "place": "IN",
+   "loc": "రాజ్‌పురా",
+   "d": "06.11.2026",
+   "t": "18:05",
+   "en": {
+    "h": "Fire in train coaches in Punjab; all 1,500 passengers safe",
+    "p": "Fire broke out in coaches of an Amritsar–New Jalpaiguri train near Sarai Banjara station by Rajpura in Patiala district. The loco pilot, guard and staff detached the burning coaches, stopping the fire from spreading. Officials said there was no loss of life and passengers were sent to their destinations on another train.",
+    "pts": [
+     "About 1,500 passengers were on board",
+     "Cause of the fire not yet known",
+     "Ambala DRM says forensic probe will be held"
+    ],
+    "why": "Train traffic on the Rajpura–Ambala–Delhi route was halted, affecting passengers on this route.",
+    "cat": "Punjab · Railways",
+    "statl": "Passengers evacuated safely"
+   },
+   "hi": {
+    "h": "पंजाब में ट्रेन के डिब्बों में आग; सभी 1,500 यात्री सुरक्षित",
+    "p": "अमृतसर से न्यू जलपाईगुड़ी जा रही ट्रेन के डिब्बों में पटियाला जिले के राजपुरा के पास सराय बंजारा स्टेशन पर आग लग गई। लोको पायलट, गार्ड और कर्मचारियों ने जलते डिब्बों को अलग कर दिया, जिससे आग नहीं फैली। अधिकारियों ने बताया कि कोई जनहानि नहीं हुई और यात्रियों को दूसरी ट्रेन से गंतव्य भेजा गया।",
+    "pts": [
+     "ट्रेन में करीब 1,500 यात्री सवार थे",
+     "आग का कारण अभी पता नहीं",
+     "अंबाला डीआरएम ने फोरेंसिक जांच की बात कही"
+    ],
+    "why": "राजपुरा–अंबाला–दिल्ली मार्ग पर रेल यातायात रुकने से इस रूट के यात्री प्रभावित हुए।",
+    "cat": "पंजाब · रेलवे",
+    "statl": "सुरक्षित निकाले गए यात्री"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · రవాణా",
    "col": "--c-city",
@@ -1853,104 +1951,6 @@
     "why": "बच्चों के खिलाफ अपराधों में जल्द न्याय के लिए अस्पताल और पुलिस का तालमेल अहम है।",
     "cat": "हैदराबाद · सुरक्षा",
     "statl": "मामलों की तेज जांच के लिए नए इंतजाम"
-   },
-   "d": "06.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "భారత్ · స్టాక్ మార్కెట్",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "79,413",
-   "statl": "సెన్సెక్స్ ప్రారంభ స్థాయి (+103 పాయింట్లు)",
-   "h": "ప్రపంచ మార్కెట్ల పతనం మధ్య సెన్సెక్స్, నిఫ్టీ స్థిరంగా ప్రారంభం",
-   "p": "అమెరికా టెక్ షేర్ల భారీ పతనం, ఆసియా మార్కెట్ల నష్టాల మధ్య శుక్రవారం దేశీయ సూచీలు స్వల్ప లాభంతో మొదలయ్యాయి. సెన్సెక్స్ 103.65 పాయింట్లు పెరిగి 79,413.66 వద్ద, నిఫ్టీ 1.60 పాయింట్ల లాభంతో 24,538.20 వద్ద ప్రారంభమయ్యాయి. స్మాల్‌క్యాప్, మిడ్‌క్యాప్ సూచీలు నష్టపోయాయి. ఈ ప్రభావం భారత్‌పై తక్కువగా ఉండొచ్చని జియోజిత్‌కు చెందిన వీకే విజయకుమార్ అన్నారు.",
-   "pts": [
-    "నిఫ్టీ 24,538.20 వద్ద ప్రారంభం",
-    "నాస్‌డాక్ 5.6% పతనం; డేటా సెంటర్ ఖర్చులపై ఆందోళన",
-    "నిఫ్టీ స్మాల్‌క్యాప్ 100 సూచీ 0.87% డౌన్"
-   ],
-   "why": "ప్రపంచ పతనం భారత మార్కెట్‌ను ఎంతవరకు తాకుతుందో మదుపర్లు గమనిస్తున్నారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/en/business/stock-market-on-november-6-2026-sensex-nifty50-crude-oil-prices-fii-world-stock-markets-enn26110601249",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "Sensex, Nifty open flat amid global market sell-off",
-    "p": "Domestic indices opened with small gains on Friday despite a sharp fall in US tech stocks and losses in Asian markets. The Sensex opened 103.65 points higher at 79,413.66 and the Nifty 1.60 points higher at 24,538.20. Smallcap and midcap indices fell. Geojit's VK Vijayakumar said India is likely to be among the least impacted.",
-    "pts": [
-     "Nifty opened at 24,538.20",
-     "Nasdaq fell 5.6% on data centre spending worries",
-     "Nifty Smallcap 100 down 0.87%"
-    ],
-    "why": "Investors are watching how far the global fall hits Indian markets.",
-    "cat": "India · Stock Market",
-    "statl": "Sensex opening level (+103 points)"
-   },
-   "hi": {
-    "h": "वैश्विक बाजारों में गिरावट के बीच सेंसेक्स, निफ्टी सपाट खुले",
-    "p": "अमेरिकी टेक शेयरों में भारी गिरावट और एशियाई बाजारों के नुकसान के बीच शुक्रवार को घरेलू सूचकांक मामूली बढ़त के साथ खुले। सेंसेक्स 103.65 अंक चढ़कर 79,413.66 पर और निफ्टी 1.60 अंक बढ़कर 24,538.20 पर खुला। स्मॉलकैप और मिडकैप सूचकांक गिरे। जियोजित के वीके विजयकुमार ने कहा कि भारत पर इसका असर सबसे कम रहने की संभावना है।",
-    "pts": [
-     "निफ्टी 24,538.20 पर खुला",
-     "डेटा सेंटर खर्च की चिंता से नैस्डैक 5.6% गिरा",
-     "निफ्टी स्मॉलकैप 100 में 0.87% गिरावट"
-    ],
-    "why": "निवेशक देख रहे हैं कि वैश्विक गिरावट भारतीय बाजार को कितना प्रभावित करती है।",
-    "cat": "भारत · शेयर बाजार",
-    "statl": "सेंसेक्स शुरुआती स्तर (+103 अंक)"
-   },
-   "d": "06.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "తమిళనాడు · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "నవంబర్ 11",
-   "statl": "కోస్తా ఏపీలో వర్షాలు కొనసాగే వరకు",
-   "h": "తమిళనాడు, కోస్తా ఏపీ, కేరళకు భారీ వర్ష హెచ్చరిక",
-   "p": "దక్షిణ భారతానికి ఐఎండీ ఏడు రోజుల వర్ష సూచన విడుదల చేసింది. తమిళనాడు, పుదుచ్చేరిలో నవంబర్ 7, 8 తేదీల్లో విస్తృతంగా వర్షాలు కురుస్తాయి. చెన్నై, పుదుచ్చేరిలో శుక్రవారం వర్షం పడొచ్చు. కోస్తా ఏపీ, యానాంలో నవంబర్ 11 వరకు వర్షాలు, అక్కడక్కడ భారీ వర్షాలు ఉంటాయి. కేరళలో ఏడు జిల్లాలకు హెచ్చరికలు జారీ అయ్యాయి.",
-   "pts": [
-    "గంటకు 30-40 కి.మీ. ఈదురుగాలులు, పిడుగుల సూచన",
-    "కేరళలో ఏడు జిల్లాలకు వర్ష హెచ్చరికలు",
-    "తెలంగాణలో నవంబర్ 7 వరకు వర్షాలు"
-   ],
-   "why": "చెన్నై, కోస్తా ఏపీ, కేరళలో ఉండే తెలుగువారు ప్రయాణాలు, పనులు ముందుగానే ప్లాన్ చేసుకోవాలి.",
-   "src": "The Week",
-   "url": "https://www.theweek.in/news/india/2026/11/06/imd-issues-heavy-rain-warning-for-southern-states-tamil-nadu-andhra-and-kerala-on-alert.html",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "TN",
-   "place": "st-TN",
-   "en": {
-    "h": "Heavy rain warning for Tamil Nadu, coastal Andhra, Kerala",
-    "p": "The IMD has issued a seven-day rainfall forecast for South India. Tamil Nadu and Puducherry will get widespread rain on November 7 and 8. Chennai and Puducherry may get rain on Friday. Coastal Andhra Pradesh and Yanam will get rain through November 11, with isolated heavy showers. Alerts have been issued for seven districts in Kerala.",
-    "pts": [
-     "Gusty winds of 30-40 kmph and lightning likely",
-     "Rain alerts for seven districts in Kerala",
-     "Rain in Telangana till November 7"
-    ],
-    "why": "Telugu people in Chennai, coastal Andhra and Kerala should plan travel and work ahead.",
-    "cat": "Tamil Nadu · Weather",
-    "statl": "Rain to continue in coastal AP until"
-   },
-   "hi": {
-    "h": "तमिलनाडु, तटीय आंध्र और केरल में भारी बारिश की चेतावनी",
-    "p": "आईएमडी ने दक्षिण भारत के लिए सात दिन का बारिश पूर्वानुमान जारी किया है। तमिलनाडु और पुडुचेरी में 7 और 8 नवंबर को व्यापक बारिश होगी। चेन्नई और पुडुचेरी में शुक्रवार को बारिश हो सकती है। तटीय आंध्र प्रदेश और यानम में 11 नवंबर तक बारिश, कहीं-कहीं भारी बारिश होगी। केरल के सात जिलों के लिए चेतावनी जारी हुई है।",
-    "pts": [
-     "30-40 किमी प्रति घंटे की तेज हवाएं, बिजली गिरने की आशंका",
-     "केरल के सात जिलों में बारिश की चेतावनी",
-     "तेलंगाना में 7 नवंबर तक बारिश"
-    ],
-    "why": "चेन्नई, तटीय आंध्र और केरल में रहने वाले लोग यात्रा और काम पहले से तय करें।",
-    "cat": "तमिलनाडु · मौसम",
-    "statl": "तटीय आंध्र में बारिश जारी रहेगी तब तक"
    },
    "d": "06.11.2026",
    "t": "10:35"

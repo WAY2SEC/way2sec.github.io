@@ -1,8 +1,106 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 66,
+ "count": 68,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "7 రాష్ట్రాలు",
+   "statl": "ఓటర్లకు మరో అవకాశం దక్కిన రాష్ట్రాలు",
+   "h": "ఎస్ఐఆర్‌లో పేర్లు తొలగిన ఓటర్లకు మరో అవకాశం: ఎన్నికల సంఘం",
+   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో ముసాయిదా జాబితా నుంచి బయటపడిన ఓటర్లకు మళ్లీ నమోదు అవకాశం ఇస్తామని ఎన్నికల సంఘం శుక్రవారం ప్రకటించింది. గైర్హాజరు, మారిన చిరునామా, మృతి, నకిలీ (ఏఎస్‌డీడీ)గా గుర్తించి, ఎన్యూమరేషన్ ఫారాలు తిరిగి అందని వారికి ఇది వర్తిస్తుంది. తెలంగాణ, ఆంధ్రప్రదేశ్ సహా ఏడు రాష్ట్రాల్లో ఈ అవకాశం ఉంటుంది.",
+   "pts": [
+    "తెలంగాణ, ఏపీ, ఢిల్లీ, మహారాష్ట్రలో వర్తింపు",
+    "హరియాణా, ఝార్ఖండ్, నాగాలాండ్‌లోనూ అవకాశం",
+    "అర్హులు తుది జాబితాలో ఉండేలా పర్యవేక్షణ వ్యవస్థ"
+   ],
+   "why": "ముసాయిదా జాబితాలో పేరు లేని అర్హులైన ఓటర్లు తుది జాబితాలో చేరే అవకాశం దక్కుతుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/excluded-telangana-voters-get-another-chance-to-enrol-in-sir-3570783/",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "d": "06.11.2026",
+   "t": "18:05",
+   "en": {
+    "h": "Voters left out in SIR get another chance to enrol: Election Commission",
+    "p": "The Election Commission announced on Friday that electors left out of the draft rolls during the Special Intensive Revision (SIR) will get another chance. It applies to voters marked Absent, Shifted, Dead or Duplicate (ASDD) whose enumeration forms were issued but not returned. The chance is available in seven states, including Telangana and Andhra Pradesh.",
+    "pts": [
+     "Applies in Telangana, AP, Delhi and Maharashtra",
+     "Also Haryana, Jharkhand and Nagaland",
+     "Monitoring so eligible voters reach the final roll"
+    ],
+    "why": "Eligible voters missing from the draft roll get a chance to be included in the final roll.",
+    "cat": "Telangana · Voter list",
+    "statl": "States where voters get another chance"
+   },
+   "hi": {
+    "h": "एसआईआर में छूटे मतदाताओं को फिर मौका: चुनाव आयोग",
+    "p": "चुनाव आयोग ने शुक्रवार को घोषणा की कि मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) में मसौदा सूची से छूटे मतदाताओं को फिर से नाम जुड़वाने का मौका मिलेगा। यह उन मतदाताओं पर लागू है जिन्हें अनुपस्थित, स्थानांतरित, मृत या डुप्लिकेट (एएसडीडी) चिह्नित किया गया और जिनके गणना फॉर्म वापस नहीं मिले। तेलंगाना और आंध्र प्रदेश समेत सात राज्यों में यह मौका मिलेगा।",
+    "pts": [
+     "तेलंगाना, आंध्र प्रदेश, दिल्ली, महाराष्ट्र में लागू",
+     "हरियाणा, झारखंड, नगालैंड में भी मौका",
+     "पात्र मतदाता अंतिम सूची में रहें, इसकी निगरानी"
+    ],
+    "why": "मसौदा सूची में नाम न होने वाले पात्र मतदाता अंतिम सूची में शामिल हो सकेंगे।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "राज्य जहां मतदाताओं को फिर मौका"
+   }
+  },
+  {
+   "cat": "పంజాబ్ · రైల్వే",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "1,500",
+   "statl": "సురక్షితంగా బయటపడిన ప్రయాణికులు",
+   "h": "పంజాబ్‌లో రైలు బోగీల్లో మంటలు; 1,500 మంది ప్రయాణికులు సురక్షితం",
+   "p": "అమృత్‌సర్ నుంచి న్యూ జల్పాయిగురి వెళ్తున్న రైలు బోగీల్లో పటియాలా జిల్లా రాజ్‌పురా సమీపంలోని సరాయ్ బంజారా స్టేషన్ వద్ద మంటలు చెలరేగాయి. లోకో పైలట్, గార్డు, సిబ్బంది మంటలున్న బోగీలను వేరు చేయడంతో మంటలు వ్యాపించలేదు. ఎలాంటి ప్రాణనష్టం జరగలేదని, ప్రయాణికులను మరో రైలులో గమ్యస్థానాలకు పంపామని అధికారులు తెలిపారు.",
+   "pts": [
+    "రైలులో సుమారు 1,500 మంది ప్రయాణికులు",
+    "మంటలకు కారణం ఇంకా తెలియలేదు",
+    "ఫోరెన్సిక్ దర్యాప్తు జరుపుతామన్న అంబాలా డీఆర్ఎం"
+   ],
+   "why": "రాజ్‌పురా–అంబాలా–ఢిల్లీ మార్గంలో రైళ్ల రాకపోకలు నిలిచిపోవడంతో ఈ మార్గంలో ప్రయాణించేవారిపై ప్రభావం పడింది.",
+   "src": "Babushahi",
+   "url": "https://www.babushahi.com/full-news.php?id=229425",
+   "sec": [
+    "india"
+   ],
+   "st": "PB",
+   "place": "IN",
+   "loc": "రాజ్‌పురా",
+   "d": "06.11.2026",
+   "t": "18:05",
+   "en": {
+    "h": "Fire in train coaches in Punjab; all 1,500 passengers safe",
+    "p": "Fire broke out in coaches of an Amritsar–New Jalpaiguri train near Sarai Banjara station by Rajpura in Patiala district. The loco pilot, guard and staff detached the burning coaches, stopping the fire from spreading. Officials said there was no loss of life and passengers were sent to their destinations on another train.",
+    "pts": [
+     "About 1,500 passengers were on board",
+     "Cause of the fire not yet known",
+     "Ambala DRM says forensic probe will be held"
+    ],
+    "why": "Train traffic on the Rajpura–Ambala–Delhi route was halted, affecting passengers on this route.",
+    "cat": "Punjab · Railways",
+    "statl": "Passengers evacuated safely"
+   },
+   "hi": {
+    "h": "पंजाब में ट्रेन के डिब्बों में आग; सभी 1,500 यात्री सुरक्षित",
+    "p": "अमृतसर से न्यू जलपाईगुड़ी जा रही ट्रेन के डिब्बों में पटियाला जिले के राजपुरा के पास सराय बंजारा स्टेशन पर आग लग गई। लोको पायलट, गार्ड और कर्मचारियों ने जलते डिब्बों को अलग कर दिया, जिससे आग नहीं फैली। अधिकारियों ने बताया कि कोई जनहानि नहीं हुई और यात्रियों को दूसरी ट्रेन से गंतव्य भेजा गया।",
+    "pts": [
+     "ट्रेन में करीब 1,500 यात्री सवार थे",
+     "आग का कारण अभी पता नहीं",
+     "अंबाला डीआरएम ने फोरेंसिक जांच की बात कही"
+    ],
+    "why": "राजपुरा–अंबाला–दिल्ली मार्ग पर रेल यातायात रुकने से इस रूट के यात्री प्रभावित हुए।",
+    "cat": "पंजाब · रेलवे",
+    "statl": "सुरक्षित निकाले गए यात्री"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · రవాణా",
    "col": "--c-city",
