@@ -1,8 +1,156 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 47,
+ "count": 50,
  "stories": [
+  {
+   "cat": "ఏపీ · మురసు తుపాను",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "₹1,918 కో.",
+   "statl": "తుపాను వల్ల ప్రాథమిక నష్టం",
+   "h": "మురసు తుపాను: ఏపీలో 8 మంది మృతి, ₹1,918.55 కోట్ల నష్టం",
+   "p": "మురసు తుపాను వల్ల ఆంధ్రప్రదేశ్‌లో ఎనిమిది మంది చనిపోయారని, సుమారు ₹1,918.55 కోట్ల నష్టం జరిగిందని అధికారుల ప్రాథమిక అంచనా. బాపట్లలో ఐదుగురు, గుంటూరులో ఇద్దరు, పల్నాడులో ఒకరు మరణించారు. 1,43,122 హెక్టార్లలో పంటలు దెబ్బతిని 1.86 లక్షల మంది రైతులు నష్టపోయారు. 983 ఇళ్లు, 346 పడవలు దెబ్బతిన్నాయి. తక్షణ సహాయానికి ప్రభుత్వం ₹37 కోట్లు విడుదల చేసింది.",
+   "pts": [
+    "బాపట్లలో 5, గుంటూరులో 2, పల్నాడులో 1 మరణం",
+    "1,43,122 హెక్టార్లలో పంట నష్టం; 1,86,063 రైతులపై ప్రభావం",
+    "తక్షణ సహాయానికి జిల్లాలకు ₹37 కోట్లు విడుదల"
+   ],
+   "why": "పంట నష్టపోయిన లక్షలాది రైతులకు పరిహారం, సహాయం ఈ అంచనాల ఆధారంగానే అందుతాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/andhra-cyclone-murasu-claimed-eight-lives-caused-rs-1918-crore-loss",
+   "sec": [
+    "telangana",
+    "agri",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "en": {
+    "h": "Cyclone Murasu: 8 dead, Rs 1,918.55 crore loss in Andhra Pradesh",
+    "p": "Cyclone Murasu killed eight people in Andhra Pradesh and caused an estimated loss of about Rs 1,918.55 crore, according to a preliminary assessment by officials. Five died in Bapatla, two in Guntur and one in Palnadu. Crops on 1,43,122 hectares were damaged, hitting 1.86 lakh farmers. 983 houses and 346 boats were damaged. The government released Rs 37 crore for immediate relief.",
+    "pts": [
+     "5 deaths in Bapatla, 2 in Guntur, 1 in Palnadu",
+     "Crops damaged on 1,43,122 hectares; 1,86,063 farmers hit",
+     "Rs 37 crore released to districts for immediate relief"
+    ],
+    "why": "Compensation and relief for lakhs of farmers who lost crops will be based on these assessments.",
+    "cat": "Andhra Pradesh · Cyclone Murasu",
+    "statl": "Preliminary cyclone loss"
+   },
+   "hi": {
+    "h": "चक्रवात मुरासु: आंध्र प्रदेश में 8 की मौत, ₹1,918.55 करोड़ का नुकसान",
+    "p": "अधिकारियों के प्रारंभिक आकलन के अनुसार चक्रवात मुरासु से आंध्र प्रदेश में आठ लोगों की मौत हुई और लगभग ₹1,918.55 करोड़ का नुकसान हुआ। बापटला में पांच, गुंटूर में दो और पलनाडु में एक व्यक्ति की मौत हुई। 1,43,122 हेक्टेयर में फसलें खराब हुईं, जिससे 1.86 लाख किसान प्रभावित हुए। 983 मकान और 346 नावें क्षतिग्रस्त हुईं। सरकार ने तत्काल राहत के लिए ₹37 करोड़ जारी किए।",
+    "pts": [
+     "बापटला में 5, गुंटूर में 2, पलनाडु में 1 मौत",
+     "1,43,122 हेक्टेयर फसल खराब; 1,86,063 किसान प्रभावित",
+     "तत्काल राहत के लिए जिलों को ₹37 करोड़ जारी"
+    ],
+    "why": "फसल गंवाने वाले लाखों किसानों को मुआवजा और राहत इन्हीं आकलनों के आधार पर मिलेगी।",
+    "cat": "आंध्र प्रदेश · चक्रवात मुरासु",
+    "statl": "चक्रवात से प्रारंभिक नुकसान"
+   },
+   "d": "06.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "భారత్ · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "113.7%",
+   "statl": "టైటాన్ నికర లాభంలో వృద్ధి",
+   "h": "టైటాన్ రెండో త్రైమాసిక లాభం రెట్టింపు; ₹2,393 కోట్లు",
+   "p": "జులై–సెప్టెంబర్ త్రైమాసికంలో టైటాన్ కంపెనీ ఏకీకృత నికర లాభం 113.7% పెరిగి ₹2,393 కోట్లకు చేరింది. ఇందులో పుట్ ఆప్షన్ బాధ్యతపై ₹671 కోట్ల ఫెయిర్ వాల్యూ లాభం కూడా ఉంది. ఆదాయం 10.1% పెరిగి ₹20,614 కోట్లు అయింది. ఆభరణాల విభాగం 24% వృద్ధితో ₹17,495 కోట్లకు చేరింది. నోమురా, జెఫరీస్ వంటి సంస్థలు ‘కొనండి’ రేటింగ్ ఇచ్చాయి.",
+   "pts": [
+    "నికర లాభం 113.7% పెరిగి ₹2,393 కోట్లు",
+    "ఆదాయం 10.1% పెరిగి ₹20,614 కోట్లు",
+    "ఆభరణాల విభాగం 24% వృద్ధి"
+   ],
+   "why": "ఆభరణాలకు పండుగ సీజన్ గిరాకీ ఎలా ఉందో, మదుపరులకు ఈ షేరు దిశను ఈ ఫలితాలు సూచిస్తాయి.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/titan-q2-profit-jumps-114-brokerages-split-on-target-prices/",
+   "sec": [
+    "business",
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "Titan's Q2 profit more than doubles to Rs 2,393 crore",
+    "p": "Titan Company's consolidated net profit for the July–September quarter rose 113.7% to Rs 2,393 crore. This includes a Rs 671 crore fair value gain on a put option liability. Revenue rose 10.1% to Rs 20,614 crore. The jewellery segment grew 24% to Rs 17,495 crore. Firms such as Nomura and Jefferies have given a 'buy' rating.",
+    "pts": [
+     "Net profit up 113.7% to Rs 2,393 crore",
+     "Revenue up 10.1% to Rs 20,614 crore",
+     "Jewellery segment grew 24%"
+    ],
+    "why": "The results show festive-season demand for jewellery and signal the stock's direction for investors.",
+    "cat": "India · Business",
+    "statl": "Rise in Titan net profit"
+   },
+   "hi": {
+    "h": "टाइटन का दूसरी तिमाही मुनाफा दोगुना से ज्यादा; ₹2,393 करोड़",
+    "p": "जुलाई–सितंबर तिमाही में टाइटन कंपनी का समेकित शुद्ध लाभ 113.7% बढ़कर ₹2,393 करोड़ हो गया। इसमें पुट ऑप्शन देनदारी पर ₹671 करोड़ का फेयर वैल्यू लाभ भी शामिल है। राजस्व 10.1% बढ़कर ₹20,614 करोड़ रहा। आभूषण कारोबार 24% बढ़कर ₹17,495 करोड़ पहुंचा। नोमुरा और जेफरीज जैसी फर्मों ने 'खरीदें' रेटिंग दी है।",
+    "pts": [
+     "शुद्ध लाभ 113.7% बढ़कर ₹2,393 करोड़",
+     "राजस्व 10.1% बढ़कर ₹20,614 करोड़",
+     "आभूषण कारोबार में 24% वृद्धि"
+    ],
+    "why": "ये नतीजे आभूषणों की त्योहारी मांग और निवेशकों के लिए शेयर की दिशा बताते हैं।",
+    "cat": "भारत · कारोबार",
+    "statl": "टाइटन के शुद्ध लाभ में वृद्धि"
+   },
+   "d": "06.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "భారత్ · బీమా",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹12,076 కో.",
+   "statl": "ఎల్ఐసీ రెండో త్రైమాసిక లాభం",
+   "h": "ఎల్ఐసీ లాభం 20% పెరిగి ₹12,076 కోట్లు; యులిప్ అమ్మకాలపై ఆందోళన",
+   "p": "సెప్టెంబర్‌తో ముగిసిన త్రైమాసికంలో ఎల్ఐసీ స్టాండలోన్ నికర లాభం 20% పెరిగి ₹12,076 కోట్లకు చేరింది. నికర ప్రీమియం ఆదాయం 16.2% పెరిగి ₹1,47,018 కోట్లు అయింది. అయితే మొదటి ఏడాది ప్రీమియం ₹10,836 కోట్ల నుంచి ₹10,432 కోట్లకు తగ్గింది. మార్కెట్ ఒడిదొడుకులు యులిప్ అమ్మకాలపై ప్రభావం చూపుతున్నాయని ఎండీ, సీఈఓ ఆర్. దొరైస్వామి తెలిపారు.",
+   "pts": [
+    "నికర లాభం 20% పెరిగి ₹12,076 కోట్లు",
+    "నికర ప్రీమియం ఆదాయం ₹1,47,018 కోట్లు",
+    "మొదటి ఏడాది ప్రీమియం ₹10,432 కోట్లకు తగ్గుదల"
+   ],
+   "why": "కోట్లాది పాలసీదారులున్న ఎల్ఐసీ పనితీరు బీమా రంగ పరిస్థితిని, మదుపరుల నమ్మకాన్ని ప్రతిబింబిస్తుంది.",
+   "src": "Indian Opinion",
+   "url": "https://indianopinion.org/lic-flags-ulip-volatility-seeks-global-alignment-on-irdai-commission-caps/",
+   "sec": [
+    "business",
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "LIC profit rises 20% to Rs 12,076 crore; concern over ULIP sales",
+    "p": "LIC's standalone net profit for the quarter ended September rose 20% to Rs 12,076 crore. Net premium income rose 16.2% to Rs 1,47,018 crore. However, first-year premium fell from Rs 10,836 crore to Rs 10,432 crore. MD and CEO R Doraiswamy said market volatility is affecting ULIP sales.",
+    "pts": [
+     "Net profit up 20% to Rs 12,076 crore",
+     "Net premium income at Rs 1,47,018 crore",
+     "First-year premium fell to Rs 10,432 crore"
+    ],
+    "why": "The performance of LIC, which has crores of policyholders, reflects the state of the insurance sector and investor confidence.",
+    "cat": "India · Insurance",
+    "statl": "LIC Q2 profit"
+   },
+   "hi": {
+    "h": "एलआईसी का मुनाफा 20% बढ़कर ₹12,076 करोड़; यूलिप बिक्री पर चिंता",
+    "p": "सितंबर में समाप्त तिमाही में एलआईसी का स्टैंडअलोन शुद्ध लाभ 20% बढ़कर ₹12,076 करोड़ हो गया। शुद्ध प्रीमियम आय 16.2% बढ़कर ₹1,47,018 करोड़ रही। हालांकि पहले साल का प्रीमियम ₹10,836 करोड़ से घटकर ₹10,432 करोड़ रह गया। एमडी और सीईओ आर. दोरैस्वामी ने कहा कि बाजार के उतार-चढ़ाव से यूलिप बिक्री प्रभावित हो रही है।",
+    "pts": [
+     "शुद्ध लाभ 20% बढ़कर ₹12,076 करोड़",
+     "शुद्ध प्रीमियम आय ₹1,47,018 करोड़",
+     "पहले साल का प्रीमियम घटकर ₹10,432 करोड़"
+    ],
+    "why": "करोड़ों पॉलिसीधारकों वाली एलआईसी का प्रदर्शन बीमा क्षेत्र की स्थिति और निवेशकों के भरोसे को दर्शाता है।",
+    "cat": "भारत · बीमा",
+    "statl": "एलआईसी का दूसरी तिमाही मुनाफा"
+   },
+   "d": "06.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "తెలంగాణ · జగిత్యాల",
    "col": "--c-power",
