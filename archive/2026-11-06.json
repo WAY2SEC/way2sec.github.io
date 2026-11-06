@@ -1,8 +1,105 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 60,
+ "count": 62,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "2 కమిషన్లు",
+   "statl": "ఎస్సీ, ఎస్టీలకు వేర్వేరు కమిషన్లు",
+   "h": "ఎస్సీ, ఎస్టీలకు వేర్వేరు కమిషన్లు: కొత్త చట్టం తెస్తున్న తెలంగాణ ప్రభుత్వం",
+   "p": "2003 నాటి తెలంగాణ ఎస్సీ/ఎస్టీ కమిషన్ చట్టాన్ని రద్దు చేయాలని రాష్ట్ర ప్రభుత్వం నిర్ణయించింది. దాని స్థానంలో షెడ్యూల్డ్ కులాలు, షెడ్యూల్డ్ తెగలకు వేర్వేరు కమిషన్లు ఏర్పాటు చేసే కొత్త 2026 చట్టాన్ని తీసుకొస్తోంది. ఈ నిర్ణయాన్ని తెలంగాణ గిరిజన సమాఖ్య స్వాగతించి, గిరిజన హక్కుల విషయంలో చారిత్రక అడుగుగా పేర్కొంది.",
+   "pts": [
+    "2003 ఎస్సీ/ఎస్టీ కమిషన్ చట్టం రద్దు",
+    "కొత్త 2026 చట్టంతో రెండు వేర్వేరు కమిషన్లు",
+    "సీఎం రేవంత్ రెడ్డికి గిరిజన సమాఖ్య అభినందనలు"
+   ],
+   "why": "రాష్ట్రంలోని ఎస్సీ, ఎస్టీ వర్గాల సమస్యలను వేర్వేరు కమిషన్లు విడిగా పరిశీలించే అవకాశం ఏర్పడుతుంది.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/south-india/politics-telangana-tribal-federation/237671",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Telangana to set up separate commissions for SCs and STs under new law",
+    "p": "The state government has decided to repeal the 2003 Telangana SC/ST Commission Act. In its place it is bringing a new 2026 Act that provides separate commissions for Scheduled Castes and Scheduled Tribes. The Telangana Tribal Federation welcomed the decision and called it a historic step for tribal rights.",
+    "pts": [
+     "2003 SC/ST Commission Act to be repealed",
+     "New 2026 Act creates two separate commissions",
+     "Tribal Federation congratulates CM Revanth Reddy"
+    ],
+    "why": "Separate commissions can take up the issues of SC and ST communities in the state independently.",
+    "cat": "Telangana · Government",
+    "statl": "Separate commissions for SCs and STs"
+   },
+   "hi": {
+    "h": "नए कानून के तहत तेलंगाना में एससी और एसटी के लिए अलग-अलग आयोग",
+    "p": "राज्य सरकार ने 2003 के तेलंगाना एससी/एसटी आयोग अधिनियम को रद्द करने का फैसला किया है। इसकी जगह वह नया 2026 अधिनियम ला रही है, जिसमें अनुसूचित जातियों और अनुसूचित जनजातियों के लिए अलग-अलग आयोग होंगे। तेलंगाना आदिवासी महासंघ ने इस फैसले का स्वागत किया और इसे आदिवासी अधिकारों के लिए ऐतिहासिक कदम बताया।",
+    "pts": [
+     "2003 का एससी/एसटी आयोग अधिनियम रद्द होगा",
+     "नए 2026 अधिनियम से दो अलग आयोग",
+     "आदिवासी महासंघ ने सीएम रेवंत रेड्डी को बधाई दी"
+    ],
+    "why": "अलग-अलग आयोग राज्य के एससी और एसटी समुदायों के मुद्दों को अलग से देख सकेंगे।",
+    "cat": "तेलंगाना · सरकार",
+    "statl": "एससी, एसटी के लिए अलग आयोग"
+   },
+   "d": "06.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "18 నెలలు",
+   "statl": "బళ్లారి రోడ్డు ఆంక్షల వ్యవధి",
+   "h": "బెంగళూరు బళ్లారి రోడ్డులో ఎలివేటెడ్ కారిడార్ పనులు; భారీ వాహనాలు, బస్సులకు ఆంక్షలు",
+   "p": "బళ్లారి రోడ్డులో యూఏఎస్ స్టాఫ్ క్వార్టర్స్ నుంచి మేఖ్రీ సర్కిల్ వరకు బీడీఏ నాలుగు వరుసల ఎలివేటెడ్ కారిడార్ నిర్మిస్తోంది. అందుకే నవంబర్ 6 నుంచి సుమారు 18 నెలల పాటు సరుకు రవాణా వాహనాలు, కేఎస్‌ఆర్‌టీసీ, ప్రైవేట్ బస్సులకు ఈ మార్గంలో అనుమతి లేదని బెంగళూరు ట్రాఫిక్ పోలీసులు తెలిపారు. కార్లు, ద్విచక్ర వాహనాలు, స్కూల్ బస్సులు వెళ్లవచ్చు.",
+   "pts": [
+    "హెబ్బాళ్ వద్ద ట్రాఫిక్ నెమ్మదించే అవకాశం",
+    "విమానాశ్రయానికి నాగవార రోడ్, బీఈఎల్ సర్కిల్ మీదుగా ప్రత్యామ్నాయాలు",
+    "అత్యవసర వాహనాలు కూడా ప్రత్యామ్నాయ మార్గాలు వాడాలని సూచన"
+   ],
+   "why": "బెంగళూరు విమానాశ్రయానికి వెళ్లే ప్రయాణికులు, బస్సు ప్రయాణికులు ముందుగా సమయం కేటాయించుకోవాలి.",
+   "src": "Indian Eagle, NewsBytes",
+   "url": "https://www.indianeagle.com/traveldiary/bengaluru-airport-traffic-diversions-ballari-road-2026",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "loc": "హెబ్బాళ్",
+   "en": {
+    "h": "Bengaluru: Ballari Road elevated corridor work; curbs on heavy vehicles and buses",
+    "p": "The BDA is building a four-lane elevated corridor on Ballari Road between UAS Staff Quarters and Mehkri Circle. Bengaluru Traffic Police said goods vehicles, KSRTC and private buses cannot use the route from November 6 for about 18 months. Cars, two-wheelers and school buses can still use it.",
+    "pts": [
+     "Traffic likely to slow down near Hebbal",
+     "Airport alternatives via Nagawara Road and BEL Circle",
+     "Emergency vehicles also advised to use alternative routes"
+    ],
+    "why": "Travellers heading to Bengaluru airport and bus passengers should plan extra time.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "Duration of Ballari Road curbs"
+   },
+   "hi": {
+    "h": "बेंगलुरु: बल्लारी रोड पर एलिवेटेड कॉरिडोर का काम; भारी वाहनों और बसों पर रोक",
+    "p": "बीडीए बल्लारी रोड पर यूएएस स्टाफ क्वार्टर्स से मेखरी सर्कल तक चार लेन का एलिवेटेड कॉरिडोर बना रहा है। बेंगलुरु ट्रैफिक पुलिस ने बताया कि 6 नवंबर से लगभग 18 महीने तक माल वाहन, केएसआरटीसी और निजी बसें इस रास्ते का इस्तेमाल नहीं कर सकेंगी। कारें, दोपहिया और स्कूल बसें चल सकेंगी।",
+    "pts": [
+     "हेब्बाल के पास ट्रैफिक धीमा होने की संभावना",
+     "हवाई अड्डे के लिए नागवारा रोड, बीईएल सर्कल से विकल्प",
+     "आपातकालीन वाहनों को भी वैकल्पिक मार्ग की सलाह"
+    ],
+    "why": "बेंगलुरु हवाई अड्डे जाने वाले यात्री और बस यात्री पहले से ज्यादा समय लेकर चलें।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "बल्लारी रोड पाबंदियों की अवधि"
+   },
+   "d": "06.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "భారత్ · మార్కెట్లు",
    "col": "--c-money",
