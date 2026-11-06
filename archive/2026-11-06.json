@@ -1,8 +1,201 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 12,
+ "count": 16,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "₹5 లక్షలు",
+   "statl": "ప్రతి కుటుంబానికి ఇందిరమ్మ జీవిత బీమా",
+   "h": "ఇందిరమ్మ ఇళ్లలో దీపావళి వేడుకలు; నవంబర్ 19న ₹5 లక్షల బీమా పథకం",
+   "p": "నిర్మాణం పూర్తయిన అన్ని ఇందిరమ్మ ఇళ్లలో లబ్ధిదారులతో కలిసి ప్రజాప్రతినిధులు 'మా ఇందిరమ్మ ఇంట్లో దీపావళి' కార్యక్రమం నిర్వహించాలని ప్రభుత్వం నిర్ణయించింది. ఇందిరా గాంధీ జయంతి అయిన నవంబర్ 19న సిద్దిపేటలో ఇందిరమ్మ చీరల పంపిణీతో పాటు రాష్ట్రంలోని ప్రతి కుటుంబానికి ₹5 లక్షల జీవిత బీమా ఇచ్చే పథకం ప్రారంభం కానుంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--6th-november-2026-latest-top-news-information-across-telangana-tgs26110600485",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నవంబర్ 7–9 కొడంగల్‌లో సీఎం పర్యటన, 9న రైతు సభ",
+    "నవంబర్ 19న సిద్దిపేటలో బీమా పథకం ప్రారంభం",
+    "నవంబర్ 20–30 ఇంటింటికీ వెళ్లి దరఖాస్తుల సేకరణ"
+   ],
+   "why": "ఇందిరమ్మ ఇళ్ల లబ్ధిదారులు, కొత్త బీమా పథకం కోసం ఎదురుచూస్తున్న రాష్ట్ర కుటుంబాలకు ఇది ముఖ్య సమాచారం.",
+   "en": {
+    "h": "Diwali at Indiramma homes; ₹5 lakh insurance scheme on November 19",
+    "p": "The Telangana government decided that public representatives will hold a 'Maa Indiramma Intlo Deepavali' programme with beneficiaries at all completed Indiramma houses. On November 19, Indira Gandhi's birth anniversary, Indiramma sarees will be distributed and a scheme giving ₹5 lakh life insurance to every family in the state will be launched in Siddipet.",
+    "pts": [
+     "CM tours Kodangal November 7–9, farmers' meet on 9th",
+     "Insurance scheme launch in Siddipet on November 19",
+     "Door-to-door collection of applications November 20–30"
+    ],
+    "why": "This matters to Indiramma house beneficiaries and families across the state awaiting the new insurance scheme.",
+    "cat": "Telangana · Welfare",
+    "statl": "Indiramma life insurance for every family"
+   },
+   "hi": {
+    "h": "इंदिरम्मा घरों में दिवाली; 19 नवंबर को ₹5 लाख बीमा योजना",
+    "p": "तेलंगाना सरकार ने तय किया है कि जनप्रतिनिधि सभी पूरे हो चुके इंदिरम्मा घरों में लाभार्थियों के साथ 'मा इंदिरम्मा इंट्लो दीपावली' कार्यक्रम करेंगे। 19 नवंबर, इंदिरा गांधी जयंती पर सिद्दिपेट में इंदिरम्मा साड़ियां बांटी जाएंगी और राज्य के हर परिवार को ₹5 लाख जीवन बीमा देने वाली योजना शुरू होगी।",
+    "pts": [
+     "7–9 नवंबर सीएम का कोडंगल दौरा, 9 को किसान सभा",
+     "19 नवंबर को सिद्दिपेट में बीमा योजना की शुरुआत",
+     "20–30 नवंबर घर-घर जाकर आवेदन लिए जाएंगे"
+    ],
+    "why": "इंदिरम्मा घरों के लाभार्थियों और नई बीमा योजना का इंतजार कर रहे राज्य के परिवारों के लिए यह अहम जानकारी है।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "हर परिवार को इंदिरम्मा जीवन बीमा"
+   },
+   "d": "06.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "ఏపీ · సుప్రీంకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "తిరస్కరణ",
+   "statl": "విచారణ బదిలీ పిటిషన్‌ను కొట్టేసిన సుప్రీం",
+   "h": "తిరుపతి లడ్డూ కేసు విచారణ ఏపీ బయటకు మార్చలేం: సుప్రీంకోర్టు",
+   "p": "తిరుపతి లడ్డూ నెయ్యి కల్తీ కేసు విచారణను ఆంధ్రప్రదేశ్ వెలుపలికి బదిలీ చేయాలన్న ఓ నిందితుడి పిటిషన్‌ను సుప్రీంకోర్టు గురువారం కొట్టివేసింది. పలువురు సాక్షులు ఏపీకి చెందినవారని, దర్యాప్తును సుప్రీంకోర్టు స్వయంగా ఏర్పాటు చేసిన సిట్ చేసిందని ధర్మాసనం పేర్కొంది. ఏదైనా సమస్య వస్తే మళ్లీ తమను ఆశ్రయించవచ్చని సీజేఐ సూచించారు.",
+   "src": "Telangana Today, PTI",
+   "url": "https://telanganatoday.com/tirupati-laddu-case-sc-refuses-to-move-trial-outside-andhra-pradesh",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "సీజేఐ సూర్యకాంత్, జస్టిస్ జోయ్‌మాల్య బాగ్చీ ధర్మాసనం",
+    "2024 అక్టోబర్‌లో సుప్రీం ఐదుగురు సభ్యుల సిట్ ఏర్పాటు",
+    "సిట్‌లో సీబీఐ, ఏపీ పోలీసు, ఎఫ్ఎస్ఎస్ఏఐ అధికారులు"
+   ],
+   "why": "తిరుమల భక్తులు ఆసక్తిగా గమనిస్తున్న ఈ కేసు విచారణ ఇక ఆంధ్రప్రదేశ్‌లోనే కొనసాగనుంది.",
+   "en": {
+    "h": "Tirupati laddu case trial cannot be moved out of AP: Supreme Court",
+    "p": "The Supreme Court on Thursday dismissed an accused's plea to transfer the trial in the Tirupati laddu ghee adulteration case outside Andhra Pradesh. The bench noted that several witnesses are from AP and that the probe was done by an SIT the Supreme Court itself formed. The CJI said the accused could approach the court again if any problem arises.",
+    "pts": [
+     "Bench of CJI Surya Kant and Justice Joymalya Bagchi",
+     "Supreme Court formed five-member SIT in October 2024",
+     "SIT has CBI, AP Police and FSSAI officials"
+    ],
+    "why": "The trial in this case, closely followed by Tirumala devotees, will now continue in Andhra Pradesh.",
+    "cat": "AP · Supreme Court",
+    "statl": "SC dismisses trial transfer plea"
+   },
+   "hi": {
+    "h": "तिरुपति लड्डू मामले की सुनवाई आंध्र से बाहर नहीं होगी: सुप्रीम कोर्ट",
+    "p": "सुप्रीम कोर्ट ने गुरुवार को तिरुपति लड्डू घी मिलावट मामले की सुनवाई आंध्र प्रदेश से बाहर ले जाने की एक आरोपी की याचिका खारिज कर दी। पीठ ने कहा कि कई गवाह आंध्र प्रदेश के हैं और जांच सुप्रीम कोर्ट द्वारा खुद बनाई गई एसआईटी ने की है। सीजेआई ने कहा कि कोई समस्या होने पर आरोपी फिर से अदालत आ सकते हैं।",
+    "pts": [
+     "सीजेआई सूर्यकांत और जस्टिस जॉयमाल्य बागची की पीठ",
+     "सुप्रीम कोर्ट ने अक्टूबर 2024 में पांच सदस्यीय एसआईटी बनाई",
+     "एसआईटी में सीबीआई, आंध्र पुलिस और एफएसएसएआई अधिकारी"
+    ],
+    "why": "तिरुमला के श्रद्धालुओं की नजर वाले इस मामले की सुनवाई अब आंध्र प्रदेश में ही चलेगी।",
+    "cat": "आंध्र प्रदेश · सुप्रीम कोर्ट",
+    "statl": "सुनवाई स्थानांतरण याचिका खारिज"
+   },
+   "d": "06.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "భారత్ · బంగారం ధరలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,46,340",
+   "statl": "హైదరాబాద్‌లో 10 గ్రాముల 24 క్యారెట్ బంగారం",
+   "h": "ధన్‌తేరస్ రోజున స్వల్పంగా తగ్గిన బంగారం, పెరిగిన వెండి",
+   "p": "ధన్‌తేరస్ సందర్భంగా శుక్రవారం బంగారం ధరలు గత ముగింపుతో పోలిస్తే స్వల్పంగా తగ్గగా, వెండి ధర పెరిగింది. హైదరాబాద్‌లో 10 గ్రాముల 22 క్యారెట్ బంగారం ₹1,34,050, 24 క్యారెట్ ₹1,46,340గా ఉంది. కిలో వెండి ₹1,91,274. ఈ ధరల్లో తయారీ చార్జీలు, జీఎస్టీ కలవవు.",
+   "src": "Asianet Newsable",
+   "url": "https://newsable.asianetnews.com/business/gold-silver-prices-on-dhanteras-check-today-rates-in-delhi-mumbai-bengaluru-and-more-articleshow-gar9fx9",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఢిల్లీలో 24 క్యారెట్ 10 గ్రాములు ₹1,46,290",
+    "చెన్నైలో 24 క్యారెట్ ₹1,46,380",
+    "కొనేముందు స్వచ్ఛత, హాల్‌మార్క్ చూడాలని సూచన"
+   ],
+   "why": "ధన్‌తేరస్, దీపావళికి బంగారం, వెండి కొనాలనుకునే కుటుంబాలకు నేటి ధరలు ఉపయోగపడతాయి.",
+   "en": {
+    "h": "Gold dips slightly, silver rises on Dhanteras",
+    "p": "On Dhanteras on Friday, gold prices fell marginally compared with the previous close while silver rose. In Hyderabad, 10 grams of 22-carat gold is ₹1,34,050 and 24-carat ₹1,46,340. Silver is ₹1,91,274 per kg. These rates exclude making charges and GST.",
+    "pts": [
+     "24-carat 10 grams at ₹1,46,290 in Delhi",
+     "24-carat at ₹1,46,380 in Chennai",
+     "Advice to check purity and hallmark before buying"
+    ],
+    "why": "Today's rates help families planning to buy gold and silver for Dhanteras and Diwali.",
+    "cat": "India · Gold prices",
+    "statl": "24-carat gold per 10 g in Hyderabad"
+   },
+   "hi": {
+    "h": "धनतेरस पर सोना मामूली सस्ता, चांदी महंगी",
+    "p": "शुक्रवार को धनतेरस पर सोने के दाम पिछले बंद भाव की तुलना में मामूली घटे, जबकि चांदी के दाम बढ़े। हैदराबाद में 10 ग्राम 22 कैरेट सोना ₹1,34,050 और 24 कैरेट ₹1,46,340 है। चांदी ₹1,91,274 प्रति किलो है। इन दरों में मेकिंग चार्ज और जीएसटी शामिल नहीं हैं।",
+    "pts": [
+     "दिल्ली में 24 कैरेट 10 ग्राम ₹1,46,290",
+     "चेन्नई में 24 कैरेट ₹1,46,380",
+     "खरीदने से पहले शुद्धता और हॉलमार्क जांचने की सलाह"
+    ],
+    "why": "धनतेरस और दिवाली पर सोना-चांदी खरीदने वाले परिवारों के लिए आज के दाम उपयोगी हैं।",
+    "cat": "भारत · सोने के दाम",
+    "statl": "हैदराबाद में 10 ग्राम 24 कैरेट सोना"
+   },
+   "d": "06.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "ప్రపంచం · రక్షణ ఒప్పందం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "279–119",
+   "statl": "టర్కీ పార్లమెంటులో ఓటింగ్ ఫలితం",
+   "h": "సౌదీ, పాకిస్థాన్‌తో 'మక్కా' రక్షణ ఒప్పందానికి టర్కీ పార్లమెంట్ ఆమోదం",
+   "p": "సౌదీ అరేబియా, పాకిస్థాన్‌లతో కుదిరిన మక్కా ఉమ్మడి రక్షణ ఒప్పందాన్ని టర్కీ పార్లమెంట్ 279–119 ఓట్లతో ఆమోదించింది. ఏ సభ్య దేశంపై సాయుధ దాడి జరిగినా మిగతా దేశాలు వెంటనే సహాయం చేయాలని ఒప్పందం చెబుతోంది. ఆగస్టు 7న మక్కాలో ముగ్గురు నేతలు దీనిపై సంతకాలు చేశారు.",
+   "src": "Al Jazeera, Reuters, AFP",
+   "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఒప్పందం కాలపరిమితి 10 ఏళ్లు",
+    "సభ్యుల ఆమోదంతో ఇతర దేశాలూ చేరవచ్చు",
+    "చేరేందుకు సిరియా ఆసక్తి చూపింది"
+   ],
+   "why": "పాకిస్థాన్ కూడా భాగస్వామిగా ఉన్న ఈ సైనిక ఒప్పందం భారత పొరుగు ప్రాంతంలో కీలక భద్రతా పరిణామం.",
+   "en": {
+    "h": "Turkey's parliament ratifies 'Mecca' defence pact with Saudi, Pakistan",
+    "p": "Turkey's parliament ratified the Mecca Joint Defence Agreement with Saudi Arabia and Pakistan by 279 votes to 119. The pact says that if any member faces an armed attack, the others shall immediately provide assistance. The three leaders signed it in Mecca on August 7.",
+    "pts": [
+     "The pact runs for 10 years",
+     "Other countries may join with members' approval",
+     "Syria has shown interest in joining"
+    ],
+    "why": "This military pact, with Pakistan as a partner, is a key security development in India's neighbourhood.",
+    "cat": "World · Defence pact",
+    "statl": "Vote result in Turkey's parliament"
+   },
+   "hi": {
+    "h": "सऊदी, पाकिस्तान के साथ 'मक्का' रक्षा समझौते को तुर्की संसद की मंजूरी",
+    "p": "तुर्की की संसद ने सऊदी अरब और पाकिस्तान के साथ मक्का संयुक्त रक्षा समझौते को 279 के मुकाबले 119 वोटों से मंजूरी दी। समझौते के अनुसार किसी भी सदस्य पर सशस्त्र हमला होने पर बाकी देश तुरंत सहायता देंगे। तीनों नेताओं ने 7 अगस्त को मक्का में इस पर हस्ताक्षर किए थे।",
+    "pts": [
+     "समझौते की अवधि 10 साल",
+     "सदस्यों की मंजूरी से अन्य देश भी जुड़ सकते हैं",
+     "सीरिया ने जुड़ने में रुचि दिखाई है"
+    ],
+    "why": "पाकिस्तान की भागीदारी वाला यह सैन्य समझौता भारत के पड़ोस में एक अहम सुरक्षा घटनाक्रम है।",
+    "cat": "दुनिया · रक्षा समझौता",
+    "statl": "तुर्की संसद में मतदान का नतीजा"
+   },
+   "d": "06.11.2026",
+   "t": "08:35"
+  },
   {
    "brk": true,
    "cat": "ప్రపంచం · మార్కెట్లు",
