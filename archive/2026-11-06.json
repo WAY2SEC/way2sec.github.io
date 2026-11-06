@@ -1,8 +1,105 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 50,
+ "count": 52,
  "stories": [
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "50%",
+   "statl": "నేడు బెంగళూరులో వర్షం అవకాశం",
+   "h": "బెంగళూరులో నేడు సాయంత్రం ఉరుములతో వర్షం; ఐఎండీ హెచ్చరిక",
+   "p": "దక్షిణ అంతర్గత కర్ణాటకలో శుక్ర, శనివారాల్లో ఉరుములు, మెరుపులు, ఈదురుగాలులు వచ్చే అవకాశం ఉందని ఐఎండీ హెచ్చరించింది. బెంగళూరులో నేడు వర్షం పడే అవకాశం సుమారు 50 శాతం. ధనత్రయోదశి రద్దీ ఉండే సాయంత్రం వేళ జల్లులు పడొచ్చు. మారతహళ్లి వంతెన, కైకొండనహళ్లి, ఇబ్లూర్ వద్ద నీరు నిలిచింది. ఆదివారం దీపావళి రోజు వాతావరణం ఎక్కువగా పొడిగా ఉండే అవకాశం ఉంది.",
+   "pts": [
+    "శుక్ర, శనివారాలకు ఐఎండీ ఉరుముల హెచ్చరిక",
+    "బెంగళూరులో గరిష్ఠం 26°C, కనిష్ఠం 20°C అంచనా",
+    "వారాంతంలో వర్షం అవకాశం 15 శాతానికి తగ్గుదల"
+   ],
+   "why": "బెంగళూరులోని తెలుగువారు సాయంత్రం షాపింగ్, ప్రయాణాలను వాతావరణాన్ని బట్టి ప్లాన్ చేసుకోవాలి.",
+   "src": "Goodreturns",
+   "url": "https://www.goodreturns.in/news/bengaluru-weather-update-imd-thunderstorm-alert-evening-rain-and-traffic-advisory-for-friday-1545669.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "en": {
+    "h": "Thunderstorm alert: evening rain likely in Bengaluru today",
+    "p": "IMD has warned of thunderstorms, lightning and squalls over South Interior Karnataka on Friday and Saturday. Bengaluru has about a 50 per cent chance of rain today, with showers possible in the evening when Dhanteras crowds are out. Waterlogging was reported at the Marathahalli bridge, Kaikondahalli and Iblur. Diwali on Sunday is expected to be mostly dry.",
+    "pts": [
+     "IMD thunderstorm alert for Friday and Saturday",
+     "Bengaluru high of 26°C, low of 20°C expected",
+     "Rain chance falls to 15 per cent over the weekend"
+    ],
+    "why": "Telugu people in Bengaluru should plan evening shopping and travel around the weather.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "Chance of rain in Bengaluru today"
+   },
+   "hi": {
+    "h": "बेंगलुरु में आज शाम गरज के साथ बारिश के आसार; आईएमडी अलर्ट",
+    "p": "आईएमडी ने दक्षिण आंतरिक कर्नाटक में शुक्रवार और शनिवार को गरज, बिजली और तेज़ हवाओं की चेतावनी दी है। बेंगलुरु में आज बारिश की संभावना करीब 50 प्रतिशत है। धनतेरस की भीड़ वाले शाम के समय बौछारें पड़ सकती हैं। मराठहल्ली पुल, कैकोंडनहल्ली और इबलूर में जलभराव हुआ। रविवार को दिवाली पर मौसम ज़्यादातर सूखा रहने की उम्मीद है।",
+    "pts": [
+     "शुक्रवार और शनिवार के लिए आईएमडी का गरज अलर्ट",
+     "बेंगलुरु में अधिकतम 26°C, न्यूनतम 20°C का अनुमान",
+     "सप्ताहांत में बारिश की संभावना घटकर 15 प्रतिशत"
+    ],
+    "why": "बेंगलुरु में रहने वाले तेलुगु लोग शाम की खरीदारी और यात्रा मौसम देखकर तय करें।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "आज बेंगलुरु में बारिश की संभावना"
+   },
+   "d": "06.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "ప్రపంచం · ఉక్రెయిన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "3 దేశాలు",
+   "statl": "ఫిబ్రవరి తర్వాత తొలి త్రైపాక్షిక చర్చలు",
+   "h": "ఉక్రెయిన్, రష్యాతో త్రైపాక్షిక శాంతి చర్చలకు అమెరికా సన్నాహాలు: కుష్నర్",
+   "p": "ఉక్రెయిన్ యుద్ధం ముగింపు కోసం అమెరికా ప్రత్యేక దూత జారెడ్ కుష్నర్ బ్రసెల్స్‌లో ఉక్రెయిన్, నాటో, యూరప్ భాగస్వాములతో ఉన్నత స్థాయి చర్చలు జరిపారు. అన్ని పక్షాల భద్రతా ఆందోళనలను పరిష్కరించి, భవిష్యత్తులో యుద్ధాల ముప్పు తగ్గించడమే తమ లక్ష్యమని ఆయన చెప్పారు. ఫిబ్రవరి తర్వాత ఉక్రెయిన్, రష్యాలతో తొలి త్రైపాక్షిక శాంతి చర్చలు ఏర్పాటు చేయడానికి అమెరికా సిద్ధమవుతోందని తెలిపారు.",
+   "pts": [
+    "బ్రసెల్స్‌లో ఉక్రెయిన్, నాటో, యూరప్‌తో కుష్నర్ చర్చలు",
+    "అన్ని పక్షాల భద్రతా ఆందోళనల పరిష్కారమే లక్ష్యం",
+    "ఫిబ్రవరి తర్వాత తొలి త్రైపాక్షిక చర్చలకు సన్నాహాలు"
+   ],
+   "why": "ఉక్రెయిన్ యుద్ధం ప్రపంచ మార్కెట్లు, ఇంధన ధరలపై ప్రభావం చూపుతున్నందున ఈ చర్చలు భారత్‌కూ ముఖ్యమే.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/international/conflict-ukraine-kushner/237492",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "US preparing trilateral peace talks with Ukraine, Russia: Kushner",
+    "p": "US special envoy Jared Kushner held high-level talks in Brussels with Ukraine, NATO and European partners on ending the war in Ukraine. He said the US aim is to address the security concerns of all sides and reduce the risk of future conflicts. He said the US is preparing to convene the first trilateral peace talks with Ukraine and Russia since February.",
+    "pts": [
+     "Kushner holds talks with Ukraine, NATO, Europe in Brussels",
+     "Aim is to address security concerns of all sides",
+     "Preparing first trilateral talks since February"
+    ],
+    "why": "The Ukraine war affects global markets and fuel prices, so these talks matter for India too.",
+    "cat": "World · Ukraine",
+    "statl": "First trilateral talks since February"
+   },
+   "hi": {
+    "h": "यूक्रेन, रूस के साथ त्रिपक्षीय शांति वार्ता की तैयारी में अमेरिका: कुशनर",
+    "p": "अमेरिका के विशेष दूत जेरेड कुशनर ने यूक्रेन युद्ध खत्म करने के लिए ब्रसेल्स में यूक्रेन, नाटो और यूरोपीय साझेदारों के साथ उच्च स्तरीय बातचीत की। उन्होंने कहा कि अमेरिका का लक्ष्य सभी पक्षों की सुरक्षा चिंताओं को दूर करना और भविष्य में युद्ध का खतरा कम करना है। उन्होंने बताया कि अमेरिका फरवरी के बाद यूक्रेन और रूस के साथ पहली त्रिपक्षीय शांति वार्ता बुलाने की तैयारी कर रहा है।",
+    "pts": [
+     "ब्रसेल्स में यूक्रेन, नाटो, यूरोप से कुशनर की बातचीत",
+     "सभी पक्षों की सुरक्षा चिंताओं का समाधान लक्ष्य",
+     "फरवरी के बाद पहली त्रिपक्षीय वार्ता की तैयारी"
+    ],
+    "why": "यूक्रेन युद्ध का असर वैश्विक बाज़ारों और ईंधन कीमतों पर पड़ता है, इसलिए यह वार्ता भारत के लिए भी अहम है।",
+    "cat": "दुनिया · यूक्रेन",
+    "statl": "फरवरी के बाद पहली त्रिपक्षीय वार्ता"
+   },
+   "d": "06.11.2026",
+   "t": "14:05"
+  },
   {
    "cat": "ఏపీ · మురసు తుపాను",
    "col": "--c-water",
