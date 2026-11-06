@@ -1,8 +1,202 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T12:45:45+05:30",
+ "updated": "2026-11-06T13:13:26+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · జగిత్యాల",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "10 నెలలు",
+   "statl": "విద్యుదాఘాతంతో చిన్నారి మృతి",
+   "h": "జగిత్యాల: ఛార్జింగ్‌లో ఉన్న తూకం యంత్రం తగిలి పది నెలల పాప మృతి",
+   "p": "జగిత్యాల జిల్లా ఎండపల్లి మండలం రాజారాంపల్లిలో శుక్రవారం ఉదయం సుమారు 5 గంటలకు విషాదం జరిగింది. ఛార్జింగ్‌లో ఉన్న పోర్టబుల్ మొబైల్ తూకం యంత్రం దగ్గర ఆడుకుంటున్న పది నెలల పాప దాన్ని తాకి విద్యుదాఘాతానికి గురై మృతి చెందింది. లోపభూయిష్ట వైరింగ్ వల్లే యంత్రంలోకి కరెంటు వచ్చిందని పోలీసులు తెలిపారు. తండ్రి ఫిర్యాదుతో కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "pts": [
+    "ఎండపల్లి మండలం రాజారాంపల్లిలో ఉదయం 5 గంటలకు ఘటన",
+    "ఛార్జింగ్‌లో ఉన్న తూకం యంత్రం తాకి మృతి",
+    "లోపభూయిష్ట వైరింగ్ కారణమని పోలీసులు; కేసు నమోదు"
+   ],
+   "why": "ఛార్జింగ్‌లో ఉన్న విద్యుత్ పరికరాల దగ్గర పిల్లలను ఉంచకుండా తల్లిదండ్రులు జాగ్రత్త పడాలి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/jagtial-10-month-old-baby-girl-electrocuted-by-faulty-mobile-weighing-machine",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "jagtial",
+   "loc": "రాజారాంపల్లి",
+   "en": {
+    "h": "Jagtial: 10-month-old girl electrocuted by charging weighing machine",
+    "p": "A 10-month-old girl died of electrocution at Rajarampalli village in Endapalli mandal of Jagtial district at about 5 am on Friday. She touched a portable mobile weighing machine that was being charged while she was playing near it. Police said faulty wiring caused current to pass through the machine. A case has been registered on the father's complaint and an investigation is under way.",
+    "pts": [
+     "Incident at Rajarampalli, Endapalli mandal, around 5 am",
+     "Child touched a weighing machine that was charging",
+     "Police blame faulty wiring; case registered"
+    ],
+    "why": "Parents should keep children away from electrical devices while they are charging.",
+    "cat": "Telangana · Jagtial",
+    "statl": "Child dies of electrocution"
+   },
+   "hi": {
+    "h": "जगतियाल: चार्जिंग में लगी तौल मशीन छूने से 10 महीने की बच्ची की मौत",
+    "p": "जगतियाल जिले के एंडापल्ली मंडल के राजारामपल्ली गांव में शुक्रवार सुबह करीब 5 बजे 10 महीने की बच्ची की करंट लगने से मौत हो गई। वह चार्जिंग में लगी पोर्टेबल मोबाइल तौल मशीन के पास खेल रही थी और उसे छू लिया। पुलिस के अनुसार खराब वायरिंग के कारण मशीन में करंट आया। पिता की शिकायत पर मामला दर्ज कर जांच शुरू की गई है।",
+    "pts": [
+     "एंडापल्ली मंडल के राजारामपल्ली में सुबह 5 बजे हादसा",
+     "चार्जिंग में लगी तौल मशीन छूने से मौत",
+     "पुलिस ने खराब वायरिंग को कारण बताया; मामला दर्ज"
+    ],
+    "why": "माता-पिता बच्चों को चार्जिंग में लगे बिजली उपकरणों से दूर रखें।",
+    "cat": "तेलंगाना · जगतियाल",
+    "statl": "करंट से बच्ची की मौत"
+   },
+   "d": "06.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "భారత్ · బ్యాంకింగ్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹12,668 కో.",
+   "statl": "ఎస్‌బీఐ క్లెయిమ్ మొత్తం",
+   "h": "వీడియోకాన్ మాజీ ప్రమోటర్ వేణుగోపాల్ ధూత్‌ను దివాలాదారుగా ప్రకటించిన ఎన్‌సీఎల్‌టీ",
+   "p": "ఎస్‌బీఐ పిటిషన్‌ను స్వీకరించిన ఎన్‌సీఎల్‌టీ ముంబై బెంచ్, వీడియోకాన్ గ్రూప్ రుణాలకు వ్యక్తిగత హామీదారుగా ఉన్న వేణుగోపాల్ ధూత్‌ను దివాలాదారుగా ప్రకటించింది. సెప్టెంబర్ 30 నాటికి ఎస్‌బీఐ క్లెయిమ్ ₹12,668.06 కోట్లు. మూడేళ్లలో ₹600 కోట్లు చెల్లిస్తానన్న ఆయన ప్రతిపాదనను రుణదాతలు తిరస్కరించారు. బ్యాంక్రప్సీ ట్రస్టీగా ఆశిష్ నారాయణ్ నియమితులయ్యారు.",
+   "pts": [
+    "ఐబీసీ సెక్షన్ 123 కింద ఎస్‌బీఐ పిటిషన్‌కు ఆమోదం",
+    "₹600 కోట్ల చెల్లింపు ప్రతిపాదనను తిరస్కరించిన రుణదాతలు",
+    "90 రోజుల్లో ట్రస్టీ ప్రాథమిక నివేదిక ఇవ్వాలి"
+   ],
+   "why": "భారీ బ్యాంకు రుణాల వసూలులో వ్యక్తిగత హామీదారులపై చర్యలకు ఇది ఉదాహరణ.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/nclt-declares-videocons-venugopal-dhoot-bankrupt-sbi-to-recover-rs-12668-crore",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "NCLT declares ex-Videocon promoter Venugopal Dhoot bankrupt",
+    "p": "The NCLT Mumbai bench admitted SBI's petition and declared Venugopal Dhoot, a personal guarantor for Videocon group loans, bankrupt. SBI's claim stood at Rs 12,668.06 crore as of September 30. Creditors rejected his offer to pay Rs 600 crore over three years. Asish Narayan has been appointed bankruptcy trustee.",
+    "pts": [
+     "SBI petition admitted under Section 123 of IBC",
+     "Creditors rejected Rs 600 crore repayment offer",
+     "Trustee to file preliminary report within 90 days"
+    ],
+    "why": "It is an example of action against personal guarantors in recovering large bank loans.",
+    "cat": "India · Banking",
+    "statl": "SBI's total claim"
+   },
+   "hi": {
+    "h": "एनसीएलटी ने वीडियोकॉन के पूर्व प्रमोटर वेणुगोपाल धूत को दिवालिया घोषित किया",
+    "p": "एनसीएलटी की मुंबई पीठ ने एसबीआई की याचिका स्वीकार कर वीडियोकॉन समूह के कर्जों के निजी गारंटर वेणुगोपाल धूत को दिवालिया घोषित किया। 30 सितंबर तक एसबीआई का दावा ₹12,668.06 करोड़ था। तीन साल में ₹600 करोड़ चुकाने के उनके प्रस्ताव को कर्जदाताओं ने ठुकरा दिया। आशीष नारायण को बैंकरप्सी ट्रस्टी नियुक्त किया गया है।",
+    "pts": [
+     "आईबीसी धारा 123 के तहत एसबीआई की याचिका स्वीकार",
+     "₹600 करोड़ के भुगतान प्रस्ताव को कर्जदाताओं ने ठुकराया",
+     "ट्रस्टी 90 दिन में प्रारंभिक रिपोर्ट देंगे"
+    ],
+    "why": "बड़े बैंक कर्जों की वसूली में निजी गारंटरों पर कार्रवाई का यह एक उदाहरण है।",
+    "cat": "भारत · बैंकिंग",
+    "statl": "एसबीआई का कुल दावा"
+   },
+   "d": "06.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "తమిళనాడు · చెన్నై",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "5–7 నవం.",
+   "statl": "‘రాహత్ మిత్ర’ విన్యాసాలు",
+   "h": "చెన్నైలో భారత్–మయన్మార్ ‘రాహత్ మిత్ర’ విపత్తు సహాయ విన్యాసాలు",
+   "p": "భారత్, మయన్మార్ కలిసి మానవతా సహాయం, విపత్తు సహాయంపై ‘రాహత్ మిత్ర’ సంయుక్త విన్యాసాలను చెన్నైలో నవంబర్ 5 నుంచి 7 వరకు నిర్వహిస్తున్నాయి. భారత సైన్యం నౌకాదళం, వాయుసేనతో కలిసి వరద సహాయ బృందాలు, ఇంజినీర్ టాస్క్ ఫోర్స్‌ల పనితీరును ప్రదర్శించింది. రక్షణ చర్యలు, నీటి తోడివేత, వంతెనల నిర్మాణం ఇందులో ఉన్నాయి.",
+   "pts": [
+    "చెన్నైలో నవంబర్ 5–7 వరకు విన్యాసాలు",
+    "వరద సహాయం, నీటి తోడివేత, వంతెన నిర్మాణ ప్రదర్శన",
+    "సైన్యం, నౌకాదళం, వాయుసేన భాగస్వామ్యం"
+   ],
+   "why": "తుపానులు, వరదలు వచ్చే తీర ప్రాంతాల్లో విపత్తు సహాయ సన్నద్ధతకు ఇలాంటి విన్యాసాలు తోడ్పడతాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/india-myanmar-participate-in-exercise-rahat-mitra-in-chennai",
+   "sec": [
+    "india"
+   ],
+   "st": "TN",
+   "place": "tn-chennai",
+   "en": {
+    "h": "India, Myanmar hold 'Rahat Mitra' disaster relief exercise in Chennai",
+    "p": "India and Myanmar are holding the joint humanitarian assistance and disaster relief exercise 'Rahat Mitra' in Chennai from November 5 to 7. The Indian Army, along with the Navy and Air Force, demonstrated flood relief columns and engineer task forces. The drills covered rescue operations, dewatering and bridge laying.",
+    "pts": [
+     "Exercise in Chennai from November 5 to 7",
+     "Flood relief, dewatering and bridge-laying demonstrated",
+     "Army, Navy and Air Force take part"
+    ],
+    "why": "Such exercises help disaster-relief readiness in coastal areas hit by cyclones and floods.",
+    "cat": "Tamil Nadu · Chennai",
+    "statl": "'Rahat Mitra' exercise"
+   },
+   "hi": {
+    "h": "चेन्नई में भारत–म्यांमार का ‘राहत मित्र’ आपदा राहत अभ्यास",
+    "p": "भारत और म्यांमार 5 से 7 नवंबर तक चेन्नई में मानवीय सहायता और आपदा राहत पर संयुक्त अभ्यास ‘राहत मित्र’ कर रहे हैं। भारतीय सेना ने नौसेना और वायुसेना के साथ बाढ़ राहत दस्तों और इंजीनियर टास्क फोर्स का प्रदर्शन किया। इसमें बचाव कार्य, पानी निकासी और पुल निर्माण शामिल थे।",
+    "pts": [
+     "चेन्नई में 5 से 7 नवंबर तक अभ्यास",
+     "बाढ़ राहत, पानी निकासी और पुल निर्माण का प्रदर्शन",
+     "सेना, नौसेना और वायुसेना शामिल"
+    ],
+    "why": "ऐसे अभ्यास चक्रवात और बाढ़ वाले तटीय इलाकों में आपदा राहत की तैयारी में मदद करते हैं।",
+    "cat": "तमिलनाडु · चेन्नई",
+    "statl": "‘राहत मित्र’ अभ्यास"
+   },
+   "d": "06.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "25 ఏళ్లు",
+   "statl": "పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
+   "h": "ఇరాన్‌లో మిగిలినదాన్నీ ధ్వంసం చేయాల్సి రావొచ్చు: ట్రంప్ హెచ్చరిక",
+   "p": "ఇరాన్‌లో మిగిలిన భాగాన్ని కూడా అమెరికా ‘ధ్వంసం’ చేయాల్సి రావొచ్చని అధ్యక్షుడు ట్రంప్ హెచ్చరించారు. అలా జరిగితే పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని, తాను చర్య తీసుకుంటే ‘త్వరలోనే తెలుస్తుంది’ అని అన్నారు. మరోవైపు ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ అణు ప్రతిపాదనను అమెరికాకు పంపినట్లు సమాచారం; దాన్ని వాషింగ్టన్ పరిశీలిస్తోంది.",
+   "pts": [
+    "ఇరాన్‌ను ‘ధ్వంసం’ చేయాల్సి రావొచ్చన్న ట్రంప్",
+    "పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని వ్యాఖ్య",
+    "ఖతార్ ద్వారా ఇరాన్ అణు ప్రతిపాదన పంపినట్లు సమాచారం"
+   ],
+   "why": "గల్ఫ్‌లో ఉద్రిక్తతలు పెరిగితే అక్కడ పనిచేసే తెలుగువారు, చమురు ధరలపై ప్రభావం పడొచ్చు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "US may have to 'destroy' rest of Iran, Trump warns",
+    "p": "US President Trump warned that the US may have to 'destroy' the rest of Iran. He said rebuilding would then take 25 years and that people would 'know soon enough' if he acts. Meanwhile, Iran has reportedly sent a nuclear proposal to the US through Qatari mediators, which Washington is reviewing.",
+    "pts": [
+     "Trump says US may have to 'destroy' Iran",
+     "Says rebuilding would take 25 years",
+     "Iran reportedly sent nuclear proposal via Qatar"
+    ],
+    "why": "Rising Gulf tensions could affect Telugu workers there and oil prices.",
+    "cat": "World · Iran",
+    "statl": "Rebuilding time, says Trump"
+   },
+   "hi": {
+    "h": "ईरान का बाकी हिस्सा भी ‘तबाह’ करना पड़ सकता है: ट्रंप की चेतावनी",
+    "p": "अमेरिकी राष्ट्रपति ट्रंप ने चेतावनी दी कि अमेरिका को ईरान का बाकी हिस्सा भी ‘तबाह’ करना पड़ सकता है। उन्होंने कहा कि ऐसा हुआ तो पुनर्निर्माण में 25 साल लगेंगे और अगर वे कार्रवाई करते हैं तो ‘जल्द ही पता चल जाएगा’। वहीं, खबर है कि ईरान ने कतर के मध्यस्थों के जरिए अमेरिका को परमाणु प्रस्ताव भेजा है, जिस पर वॉशिंगटन विचार कर रहा है।",
+    "pts": [
+     "ट्रंप ने कहा ईरान को ‘तबाह’ करना पड़ सकता है",
+     "पुनर्निर्माण में 25 साल लगने की बात कही",
+     "खबर: ईरान ने कतर के जरिए परमाणु प्रस्ताव भेजा"
+    ],
+    "why": "खाड़ी में तनाव बढ़ने से वहां काम करने वाले तेलुगु लोगों और तेल कीमतों पर असर पड़ सकता है।",
+    "cat": "दुनिया · ईरान",
+    "statl": "पुनर्निर्माण का समय: ट्रंप"
+   },
+   "d": "06.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "హైదరాబాద్ · ట్రాఫిక్",
    "col": "--c-city",
@@ -1755,204 +1949,6 @@
    },
    "d": "06.11.2026",
    "t": "07:35"
-  },
-  {
-   "cat": "తెలంగాణ · సైబర్ మోసం",
-   "col": "--c-power",
-   "art": "farm",
-   "stat": "2.73 లక్షలు",
-   "statl": "రైతులకు చేరిన నకిలీ ఎస్ఎంఎస్‌లు",
-   "h": "రైతు భరోసా జమ అయిందంటూ నకిలీ మెసేజ్‌లు; సైబర్ క్రైమ్‌కు ఫిర్యాదు",
-   "p": "రైతు భరోసా నిధులు ఖాతాల్లో జమ అయ్యాయంటూ సీఎం రేవంత్ రెడ్డి పేరుతో వచ్చిన అనధికారిక ఎస్ఎంఎస్‌లు రాష్ట్రవ్యాప్తంగా రైతులను గందరగోళంలో పడేశాయి. ఎకరాకు ఏటా ₹12,000 జమ అయిందని ఆ మెసేజ్‌లలో ఉంది. ప్రభుత్వం నిధులు విడుదల చేయలేదని, ఈ మెసేజ్‌లు తాము పంపలేదని వ్యవసాయ శాఖ స్పష్టం చేసింది. వ్యవసాయ డైరెక్టర్ బి. గోపి డీజీపీ, సైబర్ క్రైమ్ అధికారులకు లేఖ రాసి దర్యాప్తు కోరారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/fake-rythu-bharosa-credit-messages-trigger-confusion-among-telangana-farmers-cyber-complaint-lodged",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "సుమారు 2,73,128 మంది రైతులకు నకిలీ మెసేజ్‌లు",
-    "నిధులు విడుదల చేయలేదన్న వ్యవసాయ శాఖ",
-    "ఎస్ఎంఎస్ గేట్‌వేలు, లాగ్‌లపై దర్యాప్తుకు ఫిర్యాదు"
-   ],
-   "why": "అధికారిక ప్రకటన లేకుండా వచ్చే మెసేజ్‌లు నమ్మవద్దు; లింకులు క్లిక్ చేయొద్దు, ఓటీపీ, బ్యాంక్ వివరాలు ఎవరికీ చెప్పొద్దు.",
-   "d": "06.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "Fake Rythu Bharosa credit messages confuse farmers; cyber complaint filed",
-    "p": "Unauthorised SMS messages in Chief Minister Revanth Reddy's name, claiming Rythu Bharosa funds had been credited, caused confusion among farmers across Telangana. The messages said Rs 12,000 per acre per year had been deposited. The Agriculture Department clarified that the government has not released the funds and did not send these messages. Agriculture Director B Gopi wrote to the DGP and Cyber Crime officials seeking an investigation.",
-    "pts": [
-     "Fake messages reached about 2,73,128 farmers",
-     "Agriculture Department says funds not released",
-     "Complaint seeks probe into SMS gateways and logs"
-    ],
-    "why": "Do not trust such messages without an official announcement; don't click links or share OTPs and bank details.",
-    "cat": "Telangana · Cyber Fraud",
-    "statl": "Farmers who got fake SMS"
-   },
-   "hi": {
-    "h": "रायतु भरोसा राशि जमा होने के फर्जी मैसेज; साइबर क्राइम में शिकायत",
-    "p": "मुख्यमंत्री रेवंत रेड्डी के नाम से आए अनधिकृत एसएमएस, जिनमें रायतु भरोसा की राशि खातों में जमा होने का दावा था, ने पूरे तेलंगाना में किसानों को भ्रम में डाल दिया। मैसेज में कहा गया कि प्रति एकड़ सालाना ₹12,000 जमा हुए हैं। कृषि विभाग ने स्पष्ट किया कि सरकार ने राशि जारी नहीं की है और ये मैसेज उसने नहीं भेजे। कृषि निदेशक बी. गोपी ने डीजीपी और साइबर क्राइम अधिकारियों को पत्र लिखकर जांच की मांग की।",
-    "pts": [
-     "करीब 2,73,128 किसानों तक पहुंचे फर्जी मैसेज",
-     "कृषि विभाग: राशि जारी नहीं हुई",
-     "एसएमएस गेटवे और लॉग की जांच की मांग"
-    ],
-    "why": "आधिकारिक घोषणा के बिना ऐसे मैसेज पर भरोसा न करें; लिंक पर क्लिक न करें, ओटीपी व बैंक विवरण साझा न करें।",
-    "cat": "तेलंगाना · साइबर धोखाधड़ी",
-    "statl": "किसानों को मिले फर्जी एसएमएस"
-   }
-  },
-  {
-   "cat": "వరంగల్ · ఆవిష్కరణ",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "99.9%",
-   "statl": "క్రిములను నాశనం చేసే ఓజోన్ సాంకేతికత",
-   "h": "ఎన్ఐటీ వరంగల్ ఓజోన్ క్రిమిసంహారక సాంకేతికత మార్కెట్‌లోకి",
-   "p": "ఎన్ఐటీ వరంగల్ భౌతికశాస్త్ర విభాగం పరిశోధకులు అభివృద్ధి చేసిన దేశీయ ఓజోన్ ఆధారిత క్రిమిసంహారక సాంకేతికతను వాణిజ్యపరంగా తయారు చేసేందుకు మోహ్‌సాఫ్ట్ టెక్ ప్రైవేట్ లిమిటెడ్‌తో సాంకేతిక బదిలీ ఒప్పందం కుదిరింది. నిర్దేశిత పరిస్థితుల్లో ఈ సాంకేతికత 99.9 శాతం వరకు వైరస్‌లు, బ్యాక్టీరియాను నాశనం చేస్తుంది. వాడిన తర్వాత ఓజోన్ ఆక్సిజన్‌గా మారిపోతుంది. మొదటి బ్యాచ్ పారిశ్రామిక వ్యవస్థల ఉత్పత్తి వచ్చే ఏడాది ప్రారంభంలో మొదలవుతుందని అంచనా.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/nit-warangal-partners-with-mohsoft-tech-to-commercialise-indigenous-ozone-disinfection-technology",
-   "sec": [
-    "telangana",
-    "innovation",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hanumakonda",
-   "loc": "వరంగల్",
-   "pts": [
-    "మోహ్‌సాఫ్ట్ టెక్‌తో సాంకేతిక బదిలీ ఒప్పందం",
-    "రసాయనాలు లేకుండా 99.9% వరకు క్రిముల నాశనం",
-    "వచ్చే ఏడాది ప్రారంభంలో వాణిజ్య ఉత్పత్తి"
-   ],
-   "why": "రాష్ట్ర విద్యాసంస్థ పరిశోధన ల్యాబ్ నుంచి మార్కెట్‌కు చేరుతుండటం దేశీయ ఆవిష్కరణలకు ఊతం.",
-   "d": "06.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "NIT Warangal's ozone disinfection technology heads to market",
-    "p": "NIT Warangal has signed a technology transfer agreement with MOHSoft Tech Private Limited to commercially manufacture an indigenous ozone-based disinfection technology developed by researchers of its physics department. Under specified conditions, the technology eliminates up to 99.9 percent of viruses and bacteria. After use, ozone breaks down into oxygen. Production of the first batch of industrial systems is expected to begin early next year.",
-    "pts": [
-     "Technology transfer deal with MOHSoft Tech",
-     "Kills up to 99.9% of germs without chemicals",
-     "Commercial production expected early next year"
-    ],
-    "why": "Research from a state institute moving from lab to market is a boost for indigenous innovation.",
-    "cat": "Warangal · Innovation",
-    "statl": "Ozone tech that kills germs"
-   },
-   "hi": {
-    "h": "एनआईटी वारंगल की ओजोन कीटाणुनाशक तकनीक बाजार में आएगी",
-    "p": "एनआईटी वारंगल ने अपने भौतिकी विभाग के शोधकर्ताओं द्वारा विकसित स्वदेशी ओजोन-आधारित कीटाणुनाशक तकनीक के व्यावसायिक निर्माण के लिए मोहसॉफ्ट टेक प्राइवेट लिमिटेड के साथ प्रौद्योगिकी हस्तांतरण समझौता किया है। निर्धारित परिस्थितियों में यह तकनीक 99.9 प्रतिशत तक वायरस और बैक्टीरिया को नष्ट करती है। उपयोग के बाद ओजोन ऑक्सीजन में बदल जाती है। औद्योगिक प्रणालियों के पहले बैच का उत्पादन अगले साल की शुरुआत में शुरू होने की उम्मीद है।",
-    "pts": [
-     "मोहसॉफ्ट टेक के साथ तकनीक हस्तांतरण समझौता",
-     "बिना रसायन 99.9% तक कीटाणु नष्ट",
-     "अगले साल की शुरुआत में व्यावसायिक उत्पादन"
-    ],
-    "why": "राज्य के संस्थान का शोध प्रयोगशाला से बाजार तक पहुंचना स्वदेशी नवाचार के लिए बढ़ावा है।",
-    "cat": "वारंगल · नवाचार",
-    "statl": "कीटाणु नष्ट करने वाली ओजोन तकनीक"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "13°C",
-   "statl": "పశ్చిమ, మధ్య తెలంగాణలో అంచనా కనిష్ఠం",
-   "h": "నవంబర్ 7 నుంచి తెలంగాణలో చలి; నేడు పలుచోట్ల ఉరుములతో వర్షాలు",
-   "p": "నవంబర్ 7 నుంచి రాష్ట్రంలో పలు ప్రాంతాల్లో పొడి వాతావరణం ఉంటుందని భారత వాతావరణ శాఖ (IMD) అంచనా వేసింది. పశ్చిమ, మధ్య తెలంగాణలో కొన్నిచోట్ల ఉష్ణోగ్రతలు 13°C వరకు, హైదరాబాద్‌లో కొన్నిచోట్ల 14°C వరకు పడిపోవచ్చు. శుక్రవారం మాత్రం ఖమ్మం, నల్గొండ, వరంగల్, హైదరాబాద్ సహా పలు జిల్లాల్లో ఉరుములు, మెరుపులు, 30–40 కి.మీ. వేగంతో గాలులతో వర్షాలు పడే అవకాశం ఉంది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/hyderabad/winter-chill-to-grip-telangana-after-november-7-1139654",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "నవంబర్ 7 నుంచి పొడి వాతావరణం",
-    "హైదరాబాద్‌లో కొన్నిచోట్ల 14°C వరకు",
-    "జూన్–అక్టోబర్‌లో 24% వర్షపాతం లోటు"
-   ],
-   "why": "ఉరుములు, చలి దృష్ట్యా రైతులు, ప్రయాణికులు, పిల్లలు, వృద్ధులు జాగ్రత్తలు తీసుకోవాలి.",
-   "d": "06.11.2026",
-   "t": "06:35",
-   "en": {
-    "h": "Winter chill in Telangana from November 7; thundershowers in places today",
-    "p": "The India Meteorological Department (IMD) has forecast dry weather in several parts of the state from November 7. Temperatures may drop to 13°C in some parts of West and Central Telangana and to 14°C in a few places in Hyderabad. On Friday, however, rain with thunder, lightning and 30–40 kmph winds is likely in several districts including Khammam, Nalgonda, Warangal and Hyderabad.",
-    "pts": [
-     "Dry weather from November 7",
-     "Hyderabad may touch 14°C in places",
-     "24% rainfall deficit from June to October"
-    ],
-    "why": "Farmers, travellers, children and the elderly should take care in view of thunderstorms and the cold.",
-    "cat": "Telangana · Weather",
-    "statl": "Expected low in West and Central Telangana"
-   },
-   "hi": {
-    "h": "7 नवंबर से तेलंगाना में ठंड; आज कई जगह गरज के साथ बारिश",
-    "p": "भारत मौसम विज्ञान विभाग (IMD) ने 7 नवंबर से राज्य के कई हिस्सों में शुष्क मौसम का अनुमान जताया है। पश्चिम और मध्य तेलंगाना के कुछ हिस्सों में तापमान 13°C तक और हैदराबाद में कुछ जगह 14°C तक गिर सकता है। हालांकि शुक्रवार को खम्मम, नलगोंडा, वारंगल और हैदराबाद समेत कई जिलों में गरज, बिजली और 30–40 किमी प्रति घंटे की हवाओं के साथ बारिश की संभावना है।",
-    "pts": [
-     "7 नवंबर से शुष्क मौसम",
-     "हैदराबाद में कुछ जगह 14°C तक",
-     "जून–अक्टूबर में 24% बारिश की कमी"
-    ],
-    "why": "गरज और ठंड को देखते हुए किसानों, यात्रियों, बच्चों और बुजुर्गों को सावधानी बरतनी चाहिए।",
-    "cat": "तेलंगाना · मौसम",
-    "statl": "पश्चिम व मध्य तेलंगाना में अनुमानित न्यूनतम"
-   }
-  },
-  {
-   "cat": "ఏపీ · తుపాను నష్టం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹1,918.55 కో.",
-   "statl": "మురసు తుపాను ప్రాథమిక నష్టం అంచనా",
-   "h": "మురసు తుపానుతో ఏపీకి ₹1,918 కోట్ల నష్టం: సీఎం చంద్రబాబు",
-   "p": "మురసు తుపాను వల్ల ఆంధ్రప్రదేశ్‌కు ₹1,918.55 కోట్ల నష్టం వాటిల్లినట్లు ప్రాథమిక అంచనాలో తేలిందని ముఖ్యమంత్రి చంద్రబాబు నాయుడు గురువారం అధికారులతో సమీక్షలో తెలిపారు. 1,43,122 హెక్టార్లలో వ్యవసాయ పంటలు దెబ్బతిని 1,86,063 మంది రైతులు నష్టపోయారు. 6,749 హెక్టార్లలో ఉద్యాన పంటలు, 983 ఇళ్లు, 346 పడవలు, 220 వలలు దెబ్బతిన్నాయి.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/south-india/admin-ap-cyclone-loss-05ms50/237257",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "1,86,063 మంది రైతుల పంటలకు నష్టం",
-    "12,586 మంది ఉద్యాన రైతులపై ప్రభావం",
-    "983 ఇళ్లు, 346 పడవలు దెబ్బతిన్నాయి"
-   ],
-   "why": "తుపానుతో నష్టపోయిన రైతులు, మత్స్యకారులకు అందే సాయానికి ఈ అంచనా ఆధారం.",
-   "d": "06.11.2026",
-   "t": "06:35",
-   "en": {
-    "h": "Cyclone Murasu caused ₹1,918 crore loss to AP: CM Chandrababu",
-    "p": "Chief Minister Chandrababu Naidu said at a review meeting with officials on Thursday that a preliminary assessment shows Andhra Pradesh suffered a loss of ₹1,918.55 crore due to Cyclone Murasu. Agricultural crops were damaged on 1,43,122 hectares, affecting 1,86,063 farmers. Horticulture crops on 6,749 hectares, 983 houses, 346 boats and 220 nets were also damaged.",
-    "pts": [
-     "Crops of 1,86,063 farmers damaged",
-     "12,586 horticulture farmers affected",
-     "983 houses, 346 boats damaged"
-    ],
-    "why": "This assessment is the basis for relief to farmers and fishermen hit by the cyclone.",
-    "cat": "AP · Cyclone loss",
-    "statl": "Preliminary loss estimate from Cyclone Murasu"
-   },
-   "hi": {
-    "h": "मुरासु चक्रवात से आंध्र को ₹1,918 करोड़ का नुकसान: सीएम चंद्रबाबू",
-    "p": "मुख्यमंत्री चंद्रबाबू नायडू ने गुरुवार को अधिकारियों के साथ समीक्षा बैठक में बताया कि प्रारंभिक आकलन के अनुसार मुरासु चक्रवात से आंध्र प्रदेश को ₹1,918.55 करोड़ का नुकसान हुआ है। 1,43,122 हेक्टेयर में कृषि फसलें खराब हुईं, जिससे 1,86,063 किसान प्रभावित हुए। 6,749 हेक्टेयर में बागवानी फसलें, 983 घर, 346 नावें और 220 जाल भी क्षतिग्रस्त हुए।",
-    "pts": [
-     "1,86,063 किसानों की फसलें खराब",
-     "12,586 बागवानी किसान प्रभावित",
-     "983 घर, 346 नावें क्षतिग्रस्त"
-    ],
-    "why": "यह आकलन चक्रवात से प्रभावित किसानों और मछुआरों को मिलने वाली राहत का आधार है।",
-    "cat": "आंध्र प्रदेश · चक्रवात नुकसान",
-    "statl": "मुरासु चक्रवात से नुकसान का प्रारंभिक अनुमान"
-   }
   }
  ]
 }
