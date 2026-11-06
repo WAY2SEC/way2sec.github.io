@@ -1,8 +1,105 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T15:44:48+05:30",
+ "updated": "2026-11-06T16:14:25+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · ప్రకాశం",
+   "col": "--c-power",
+   "art": "water",
+   "stat": "7/9",
+   "statl": "మృతి చెందిన మత్స్యకారులు",
+   "h": "చెన్నై మత్స్యకారుల విషాదం: ఏపీ తీరానికి మరో రెండు మృతదేహాలు",
+   "p": "చెన్నై కాసిమేడు హార్బర్ నుంచి అక్టోబర్ 29న పడవలో బయలుదేరిన తొమ్మిది మంది మత్స్యకారుల్లో ఏడుగురు మృతి చెందారు. నిజాంపట్నం సమీపంలో వేట సాగిస్తుండగా సముద్రం మధ్యలో పడవ ఇంజిన్ చెడిపోయింది; నవంబర్ 3 తర్వాత వారితో సంబంధాలు తెగిపోయాయి. ఇప్పటికే ఐదు మృతదేహాలు ప్రకాశం జిల్లా తీరానికి కొట్టుకురాగా, తాజాగా మరో రెండు లభించాయి. మిగిలిన ఇద్దరి కోసం కోస్ట్ గార్డ్ గాలిస్తోంది.",
+   "pts": [
+    "ప్రకాశం జిల్లా తీరంలో మొదట ఐదు మృతదేహాలు లభ్యం",
+    "నౌకలు, హెలికాప్టర్లతో కోస్ట్ గార్డ్ గాలింపు ముమ్మరం",
+    "బాధిత కుటుంబాలకు ఒక్కొక్కరికి ₹7 లక్షల సాయం: తమిళనాడు సీఎం"
+   ],
+   "why": "తుపాను హెచ్చరికల వేళ సముద్ర వేటకు వెళ్లే మత్స్యకారుల భద్రతపై ఈ ఘటన దృష్టి సారిస్తోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/state/kasimedu-fishing-tragedy-two-more-bodies-wash-ashore-in-andhra-pradesh-two-fishers-still-missing-enn26110603400",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "AP",
+   "place": "ap-prakasam",
+   "en": {
+    "h": "Chennai fishing tragedy: two more bodies wash ashore in Andhra Pradesh",
+    "p": "Seven of the nine fishermen who sailed from Chennai's Kasimedu harbour on October 29 have died. While fishing near Nizampatnam, their boat's engine failed mid-sea, and contact was lost after November 3. Five bodies had already washed ashore in Prakasam district, and two more have now been found. The Coast Guard is searching for the remaining two.",
+    "pts": [
+     "First five bodies found on Prakasam district coast",
+     "Coast Guard steps up search with ships, helicopters",
+     "Tamil Nadu CM announces ₹7 lakh aid per family"
+    ],
+    "why": "The tragedy draws attention to the safety of fishermen who go to sea during cyclone warnings.",
+    "cat": "Andhra Pradesh · Prakasam",
+    "statl": "Fishermen dead"
+   },
+   "hi": {
+    "h": "चेन्नई मछुआरा हादसा: आंध्र प्रदेश तट पर दो और शव मिले",
+    "p": "चेन्नई के कासिमेडु बंदरगाह से 29 अक्टूबर को नाव में निकले नौ मछुआरों में से सात की मौत हो गई है। निज़ामपट्टनम के पास मछली पकड़ते समय बीच समुद्र में नाव का इंजन खराब हो गया और 3 नवंबर के बाद उनसे संपर्क टूट गया। पांच शव पहले ही प्रकाशम जिले के तट पर बहकर आ चुके थे, अब दो और मिले हैं। बाकी दो की तलाश कोस्ट गार्ड कर रहा है।",
+    "pts": [
+     "प्रकाशम जिले के तट पर पहले पांच शव मिले",
+     "कोस्ट गार्ड ने जहाजों, हेलीकॉप्टरों से तलाश तेज की",
+     "तमिलनाडु सीएम: हर परिवार को ₹7 लाख सहायता"
+    ],
+    "why": "यह हादसा चक्रवात चेतावनी के समय समुद्र में जाने वाले मछुआरों की सुरक्षा पर ध्यान खींचता है।",
+    "cat": "आंध्र प्रदेश · प्रकाशम",
+    "statl": "मृत मछुआरे"
+   },
+   "d": "06.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "AQI 389",
+   "statl": "శుక్రవారం ఉదయం ఢిల్లీ గాలి నాణ్యత",
+   "h": "ఢిల్లీ కాలుష్యానికి ప్రధాన కారణం వాహనాలే: సుప్రీం కోర్టులో సీజేఐ",
+   "p": "ఢిల్లీ–ఎన్‌సీఆర్ వాయు కాలుష్యం కేసును సీజేఐ సూర్యకాంత్ నేతృత్వంలోని ముగ్గురు న్యాయమూర్తుల ధర్మాసనం శుక్రవారం విచారించింది. ఉదయం 8 గంటలకు ఢిల్లీ ఏక్యూఐ 389గా 'చాలా దారుణం' స్థాయిలో నమోదైంది. వాహన కాలుష్యమే ప్రధాన కారణమని పేర్కొన్న సీజేఐ, ప్రజా రవాణా సరిపోతుందా అని ప్రశ్నించారు. పంట వ్యర్థాలను ప్రభుత్వమే నిర్ణీత ధరకు కొనే ఆలోచనపైనా చర్చ జరిగింది.",
+   "pts": [
+    "నవంబర్ 5న కాలుష్యంలో పంట వ్యర్థాల దహనం వాటా 14%",
+    "వ్యర్థాల నిర్వహణ యంత్రాలు గ్రామ పంచాయతీలకు ఇవ్వాలన్న సీజేఐ",
+    "కోర్టు సూచనలను వ్యవసాయ శాఖకు చేరుస్తామన్న కేంద్రం"
+   ],
+   "why": "ఢిల్లీ–ఎన్‌సీఆర్‌లో నివసించే లక్షల మంది ప్రజలు, అక్కడి తెలుగువారి ఆరోగ్యంపై ఈ కాలుష్యం ప్రభావం చూపుతోంది.",
+   "src": "Outlook India",
+   "url": "https://www.outlookindia.com/national/i-hope-you-all-are-enjoying-the-weather-in-delhi-cji-kant-quips-during-delhi-pollution-hearing",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "en": {
+    "h": "Vehicles are the main cause of Delhi pollution: CJI in Supreme Court",
+    "p": "A three-judge bench led by CJI Surya Kant heard the Delhi-NCR air pollution case on Friday. Delhi's AQI stood at 389, 'very poor', at 8 am. Calling vehicular pollution the major cause, the CJI asked whether public transport was sufficient. The idea of the government buying crop stubble at a fixed price was also discussed.",
+    "pts": [
+     "Stubble burning made up 14% of pollution on November 5",
+     "CJI says stubble machines should go to gram panchayats",
+     "Centre to take court's suggestions to Agriculture Ministry"
+    ],
+    "why": "The pollution affects the health of lakhs of people living in Delhi-NCR, including Telugu residents there.",
+    "cat": "Delhi · Pollution",
+    "statl": "Delhi air quality on Friday morning"
+   },
+   "hi": {
+    "h": "दिल्ली प्रदूषण की मुख्य वजह वाहन: सुप्रीम कोर्ट में सीजेआई",
+    "p": "सीजेआई सूर्यकांत की अगुवाई वाली तीन जजों की पीठ ने शुक्रवार को दिल्ली-एनसीआर वायु प्रदूषण मामले की सुनवाई की। सुबह 8 बजे दिल्ली का एक्यूआई 389 यानी 'बहुत खराब' स्तर पर था। वाहन प्रदूषण को मुख्य कारण बताते हुए सीजेआई ने पूछा कि क्या सार्वजनिक परिवहन पर्याप्त है। सरकार द्वारा तय दाम पर पराली खरीदने के विचार पर भी चर्चा हुई।",
+    "pts": [
+     "5 नवंबर को प्रदूषण में पराली जलाने का हिस्सा 14%",
+     "सीजेआई: पराली मशीनें ग्राम पंचायतों को दी जाएं",
+     "केंद्र कोर्ट के सुझाव कृषि मंत्रालय तक पहुंचाएगा"
+    ],
+    "why": "यह प्रदूषण दिल्ली-एनसीआर में रहने वाले लाखों लोगों, वहां के तेलुगु लोगों समेत, की सेहत पर असर डाल रहा है।",
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "शुक्रवार सुबह दिल्ली की हवा"
+   },
+   "d": "06.11.2026",
+   "t": "16:05"
+  },
   {
    "cat": "తెలంగాణ · భద్రాద్రి",
    "col": "--c-power",
@@ -1857,105 +1954,6 @@
    },
    "d": "06.11.2026",
    "t": "09:05"
-  },
-  {
-   "cat": "భారత్ · స్టాక్ మార్కెట్",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "+6,064",
-   "statl": "ఆరు సెషన్లలో సెన్సెక్స్ లాభం (పాయింట్లు)",
-   "h": "దీపావళి ముందు సెన్సెక్స్ జోరు: ఆరు రోజుల్లో 6,064 పాయింట్లు అప్",
-   "p": "గత ఆరు ట్రేడింగ్ సెషన్లలో సెన్సెక్స్ 8.3%, నిఫ్టీ 8.1% పెరిగాయి. సెన్సెక్స్ 79,300 పైన, నిఫ్టీ 24,500 పైన ఉన్నాయి. 1992లో ఎన్ఎస్ఈలో ముహూరత్ ట్రేడింగ్ మొదలైనప్పటి నుంచి ఇదే అత్యుత్తమ దీపావళి ముందు ర్యాలీ దిశగా సాగుతోంది. విదేశీ ఇన్వెస్టర్లు ఈ కాలంలో ₹18,661 కోట్ల షేర్లు కొన్నారు.",
-   "src": "Business Standard",
-   "url": "https://www.business-standard.com/amp/markets/news/sensex-up-6-064-pts-in-six-days-eyes-strongest-pre-diwali-rally-in-35-yrs-126110600091_1.html",
-   "sec": [
-    "business",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ఇంతకుముందు రికార్డు: 2020లో సెన్సెక్స్ 7% ర్యాలీ",
-    "బ్రెంట్ ముడిచమురు బ్యారెల్ $95 దిగువకు పతనం",
-    "అమెరికా 10 ఏళ్ల బాండ్ రాబడి 4.8%కు తగ్గింది"
-   ],
-   "why": "దీపావళి ముహూరత్ ట్రేడింగ్ ముందు షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టేవారికి ఇది కీలక సమాచారం.",
-   "en": {
-    "h": "Pre-Diwali Sensex surge: up 6,064 points in six days",
-    "p": "Over the last six trading sessions the Sensex rose 8.3% and the Nifty 8.1%. The Sensex is above 79,300 and the Nifty above 24,500. The markets are on course for the best pre-Diwali rally since Muhurat trading began on the NSE in 1992. Foreign investors bought shares worth ₹18,661 crore in this period.",
-    "pts": [
-     "Previous record: Sensex's 7% rally in 2020",
-     "Brent crude fell below $95 a barrel",
-     "US 10-year bond yield eased to 4.8%"
-    ],
-    "why": "Key information for people investing in shares and mutual funds ahead of Diwali Muhurat trading.",
-    "cat": "India · Stock market",
-    "statl": "Sensex gain in six sessions (points)"
-   },
-   "hi": {
-    "h": "दिवाली से पहले सेंसेक्स में तेज़ी: छह दिनों में 6,064 अंक ऊपर",
-    "p": "पिछले छह कारोबारी सत्रों में सेंसेक्स 8.3% और निफ्टी 8.1% चढ़े। सेंसेक्स 79,300 के ऊपर और निफ्टी 24,500 के ऊपर है। 1992 में एनएसई पर मुहूर्त ट्रेडिंग शुरू होने के बाद यह दिवाली से पहले की सबसे अच्छी तेज़ी की ओर है। विदेशी निवेशकों ने इस दौरान ₹18,661 करोड़ के शेयर खरीदे।",
-    "pts": [
-     "पिछला रिकॉर्ड: 2020 में सेंसेक्स की 7% तेज़ी",
-     "ब्रेंट कच्चा तेल $95 प्रति बैरल से नीचे",
-     "अमेरिकी 10 साल का बॉन्ड यील्ड 4.8% पर आया"
-    ],
-    "why": "दिवाली मुहूर्त ट्रेडिंग से पहले शेयर और म्यूचुअल फंड में निवेश करने वालों के लिए अहम जानकारी।",
-    "cat": "भारत · शेयर बाज़ार",
-    "statl": "छह सत्रों में सेंसेक्स की बढ़त (अंक)"
-   },
-   "d": "06.11.2026",
-   "t": "09:05"
-  },
-  {
-   "brk": true,
-   "cat": "ప్రపంచం · మార్కెట్లు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "-8.55%",
-   "statl": "కోస్పీ పతనం; ట్రేడింగ్ 20 నిమిషాలు నిలిపివేత",
-   "h": "ఆసియా మార్కెట్లు కుదేలు: కోస్పీ 8% పతనం, నిక్కీ 6%కు పైగా డౌన్",
-   "p": "వాల్ స్ట్రీట్‌లో ఏఐ, చిప్ షేర్ల భారీ అమ్మకాల ప్రభావంతో శుక్రవారం ఆసియా మార్కెట్లు కుప్పకూలాయి. దక్షిణ కొరియా కోస్పీ సూచీ 8.55% పడిపోయి 5,000 దిగువకు చేరడంతో సర్క్యూట్ బ్రేకర్ అమలై ట్రేడింగ్ 20 నిమిషాలు ఆగింది. జపాన్ నిక్కీ 6.2% పడి 60,000 స్థాయి కోల్పోయింది. శాంసంగ్, ఎస్‌కే హైనిక్స్ షేర్లు 10%కు పైగా నష్టపోయాయి.",
-   "src": "AP, TradingKey",
-   "url": "https://www.tradingkey.com/analysis/stocks/more/262287971-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-mu-sox-tradingkey",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "కోస్పీ 8.55% పతనం, 4,923 వద్ద ట్రేడింగ్",
-    "నిక్కీ 6.2% డౌన్, 57,288 వద్ద",
-    "ఎస్‌కే హైనిక్స్ 12%, శాంసంగ్ 10% నష్టం"
-   ],
-   "why": "ఆసియా మార్కెట్ల పతనం భారత స్టాక్ మార్కెట్ ఇన్వెస్టర్లు, ఐటీ రంగంపై ఆసక్తి ఉన్నవారికి కీలక సంకేతం.",
-   "en": {
-    "h": "Asian markets crash: Kospi plunges 8%, Nikkei down over 6%",
-    "p": "Asian markets tumbled on Friday after a heavy sell-off in AI and chip shares on Wall Street. South Korea's Kospi fell 8.55% to below 5,000, triggering a circuit breaker that halted trading for 20 minutes. Japan's Nikkei dropped 6.2% and lost the 60,000 level. Samsung and SK Hynix shares fell more than 10%.",
-    "pts": [
-     "Kospi down 8.55%, trading at 4,923",
-     "Nikkei down 6.2% at 57,288",
-     "SK Hynix down 12%, Samsung down 10%"
-    ],
-    "why": "The fall in Asian markets is a key signal for Indian stock market investors and those watching the tech sector.",
-    "cat": "World · Markets",
-    "statl": "Kospi fall; trading halted for 20 minutes"
-   },
-   "hi": {
-    "h": "एशियाई बाजार धड़ाम: कोस्पी 8% गिरा, निक्केई 6% से ज्यादा नीचे",
-    "p": "वॉल स्ट्रीट पर एआई और चिप शेयरों में भारी बिकवाली के बाद शुक्रवार को एशियाई बाजार लुढ़क गए। दक्षिण कोरिया का कोस्पी सूचकांक 8.55% गिरकर 5,000 से नीचे आ गया, जिससे सर्किट ब्रेकर लगा और कारोबार 20 मिनट रुका रहा। जापान का निक्केई 6.2% गिरकर 60,000 का स्तर गंवा बैठा। सैमसंग और एसके हाइनिक्स के शेयर 10% से ज्यादा टूटे।",
-    "pts": [
-     "कोस्पी 8.55% गिरा, 4,923 पर कारोबार",
-     "निक्केई 6.2% गिरकर 57,288 पर",
-     "एसके हाइनिक्स 12%, सैमसंग 10% टूटा"
-    ],
-    "why": "एशियाई बाजारों की गिरावट भारतीय शेयर बाजार के निवेशकों और टेक सेक्टर पर नजर रखने वालों के लिए अहम संकेत है।",
-    "cat": "दुनिया · बाजार",
-    "statl": "कोस्पी में गिरावट; कारोबार 20 मिनट रुका"
-   },
-   "d": "06.11.2026",
-   "t": "08:05"
   }
  ]
 }

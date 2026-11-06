@@ -1,8 +1,105 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 55,
+ "count": 57,
  "stories": [
+  {
+   "cat": "ఏపీ · ప్రకాశం",
+   "col": "--c-power",
+   "art": "water",
+   "stat": "7/9",
+   "statl": "మృతి చెందిన మత్స్యకారులు",
+   "h": "చెన్నై మత్స్యకారుల విషాదం: ఏపీ తీరానికి మరో రెండు మృతదేహాలు",
+   "p": "చెన్నై కాసిమేడు హార్బర్ నుంచి అక్టోబర్ 29న పడవలో బయలుదేరిన తొమ్మిది మంది మత్స్యకారుల్లో ఏడుగురు మృతి చెందారు. నిజాంపట్నం సమీపంలో వేట సాగిస్తుండగా సముద్రం మధ్యలో పడవ ఇంజిన్ చెడిపోయింది; నవంబర్ 3 తర్వాత వారితో సంబంధాలు తెగిపోయాయి. ఇప్పటికే ఐదు మృతదేహాలు ప్రకాశం జిల్లా తీరానికి కొట్టుకురాగా, తాజాగా మరో రెండు లభించాయి. మిగిలిన ఇద్దరి కోసం కోస్ట్ గార్డ్ గాలిస్తోంది.",
+   "pts": [
+    "ప్రకాశం జిల్లా తీరంలో మొదట ఐదు మృతదేహాలు లభ్యం",
+    "నౌకలు, హెలికాప్టర్లతో కోస్ట్ గార్డ్ గాలింపు ముమ్మరం",
+    "బాధిత కుటుంబాలకు ఒక్కొక్కరికి ₹7 లక్షల సాయం: తమిళనాడు సీఎం"
+   ],
+   "why": "తుపాను హెచ్చరికల వేళ సముద్ర వేటకు వెళ్లే మత్స్యకారుల భద్రతపై ఈ ఘటన దృష్టి సారిస్తోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/state/kasimedu-fishing-tragedy-two-more-bodies-wash-ashore-in-andhra-pradesh-two-fishers-still-missing-enn26110603400",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "AP",
+   "place": "ap-prakasam",
+   "en": {
+    "h": "Chennai fishing tragedy: two more bodies wash ashore in Andhra Pradesh",
+    "p": "Seven of the nine fishermen who sailed from Chennai's Kasimedu harbour on October 29 have died. While fishing near Nizampatnam, their boat's engine failed mid-sea, and contact was lost after November 3. Five bodies had already washed ashore in Prakasam district, and two more have now been found. The Coast Guard is searching for the remaining two.",
+    "pts": [
+     "First five bodies found on Prakasam district coast",
+     "Coast Guard steps up search with ships, helicopters",
+     "Tamil Nadu CM announces ₹7 lakh aid per family"
+    ],
+    "why": "The tragedy draws attention to the safety of fishermen who go to sea during cyclone warnings.",
+    "cat": "Andhra Pradesh · Prakasam",
+    "statl": "Fishermen dead"
+   },
+   "hi": {
+    "h": "चेन्नई मछुआरा हादसा: आंध्र प्रदेश तट पर दो और शव मिले",
+    "p": "चेन्नई के कासिमेडु बंदरगाह से 29 अक्टूबर को नाव में निकले नौ मछुआरों में से सात की मौत हो गई है। निज़ामपट्टनम के पास मछली पकड़ते समय बीच समुद्र में नाव का इंजन खराब हो गया और 3 नवंबर के बाद उनसे संपर्क टूट गया। पांच शव पहले ही प्रकाशम जिले के तट पर बहकर आ चुके थे, अब दो और मिले हैं। बाकी दो की तलाश कोस्ट गार्ड कर रहा है।",
+    "pts": [
+     "प्रकाशम जिले के तट पर पहले पांच शव मिले",
+     "कोस्ट गार्ड ने जहाजों, हेलीकॉप्टरों से तलाश तेज की",
+     "तमिलनाडु सीएम: हर परिवार को ₹7 लाख सहायता"
+    ],
+    "why": "यह हादसा चक्रवात चेतावनी के समय समुद्र में जाने वाले मछुआरों की सुरक्षा पर ध्यान खींचता है।",
+    "cat": "आंध्र प्रदेश · प्रकाशम",
+    "statl": "मृत मछुआरे"
+   },
+   "d": "06.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "AQI 389",
+   "statl": "శుక్రవారం ఉదయం ఢిల్లీ గాలి నాణ్యత",
+   "h": "ఢిల్లీ కాలుష్యానికి ప్రధాన కారణం వాహనాలే: సుప్రీం కోర్టులో సీజేఐ",
+   "p": "ఢిల్లీ–ఎన్‌సీఆర్ వాయు కాలుష్యం కేసును సీజేఐ సూర్యకాంత్ నేతృత్వంలోని ముగ్గురు న్యాయమూర్తుల ధర్మాసనం శుక్రవారం విచారించింది. ఉదయం 8 గంటలకు ఢిల్లీ ఏక్యూఐ 389గా 'చాలా దారుణం' స్థాయిలో నమోదైంది. వాహన కాలుష్యమే ప్రధాన కారణమని పేర్కొన్న సీజేఐ, ప్రజా రవాణా సరిపోతుందా అని ప్రశ్నించారు. పంట వ్యర్థాలను ప్రభుత్వమే నిర్ణీత ధరకు కొనే ఆలోచనపైనా చర్చ జరిగింది.",
+   "pts": [
+    "నవంబర్ 5న కాలుష్యంలో పంట వ్యర్థాల దహనం వాటా 14%",
+    "వ్యర్థాల నిర్వహణ యంత్రాలు గ్రామ పంచాయతీలకు ఇవ్వాలన్న సీజేఐ",
+    "కోర్టు సూచనలను వ్యవసాయ శాఖకు చేరుస్తామన్న కేంద్రం"
+   ],
+   "why": "ఢిల్లీ–ఎన్‌సీఆర్‌లో నివసించే లక్షల మంది ప్రజలు, అక్కడి తెలుగువారి ఆరోగ్యంపై ఈ కాలుష్యం ప్రభావం చూపుతోంది.",
+   "src": "Outlook India",
+   "url": "https://www.outlookindia.com/national/i-hope-you-all-are-enjoying-the-weather-in-delhi-cji-kant-quips-during-delhi-pollution-hearing",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "en": {
+    "h": "Vehicles are the main cause of Delhi pollution: CJI in Supreme Court",
+    "p": "A three-judge bench led by CJI Surya Kant heard the Delhi-NCR air pollution case on Friday. Delhi's AQI stood at 389, 'very poor', at 8 am. Calling vehicular pollution the major cause, the CJI asked whether public transport was sufficient. The idea of the government buying crop stubble at a fixed price was also discussed.",
+    "pts": [
+     "Stubble burning made up 14% of pollution on November 5",
+     "CJI says stubble machines should go to gram panchayats",
+     "Centre to take court's suggestions to Agriculture Ministry"
+    ],
+    "why": "The pollution affects the health of lakhs of people living in Delhi-NCR, including Telugu residents there.",
+    "cat": "Delhi · Pollution",
+    "statl": "Delhi air quality on Friday morning"
+   },
+   "hi": {
+    "h": "दिल्ली प्रदूषण की मुख्य वजह वाहन: सुप्रीम कोर्ट में सीजेआई",
+    "p": "सीजेआई सूर्यकांत की अगुवाई वाली तीन जजों की पीठ ने शुक्रवार को दिल्ली-एनसीआर वायु प्रदूषण मामले की सुनवाई की। सुबह 8 बजे दिल्ली का एक्यूआई 389 यानी 'बहुत खराब' स्तर पर था। वाहन प्रदूषण को मुख्य कारण बताते हुए सीजेआई ने पूछा कि क्या सार्वजनिक परिवहन पर्याप्त है। सरकार द्वारा तय दाम पर पराली खरीदने के विचार पर भी चर्चा हुई।",
+    "pts": [
+     "5 नवंबर को प्रदूषण में पराली जलाने का हिस्सा 14%",
+     "सीजेआई: पराली मशीनें ग्राम पंचायतों को दी जाएं",
+     "केंद्र कोर्ट के सुझाव कृषि मंत्रालय तक पहुंचाएगा"
+    ],
+    "why": "यह प्रदूषण दिल्ली-एनसीआर में रहने वाले लाखों लोगों, वहां के तेलुगु लोगों समेत, की सेहत पर असर डाल रहा है।",
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "शुक्रवार सुबह दिल्ली की हवा"
+   },
+   "d": "06.11.2026",
+   "t": "16:05"
+  },
   {
    "cat": "తెలంగాణ · భద్రాద్రి",
    "col": "--c-power",
