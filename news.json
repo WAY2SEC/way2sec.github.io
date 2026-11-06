@@ -1,8 +1,203 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T09:07:45+05:30",
+ "updated": "2026-11-06T09:44:19+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · విద్య · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "40%",
+   "statl": "ఓసీ, ఈడబ్ల్యూఎస్‌కు కనీస అర్హత మార్కులు",
+   "h": "ఏపీ డీఎస్సీ-2026లో కనీస అర్హత మార్కుల నిబంధన; క్రీడా కోటాకు శాప్ రిజిస్ట్రేషన్",
+   "p": "డీఎస్సీ-2026లో పాఠశాల విద్యాశాఖ మార్పులు చేసింది. రాత పరీక్ష, టెట్ వెయిటేజీ కలిపి ఓసీ, ఈడబ్ల్యూఎస్‌కు 40%, బీసీలకు 35%, ఎస్సీ, ఎస్టీ, దివ్యాంగులకు 30% కనీస మార్కులు రావాలి. క్రీడా కోటా అభ్యర్థులు దరఖాస్తుకు ముందే శాప్ యాప్ లేదా పోర్టల్‌లో నమోదు చేసుకోవాలి. ఇప్పటివరకు సుమారు 17 వేల మంది నమోదయ్యారు. గరిష్ఠ వయసు 44 ఏళ్లు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/ap-dsc-2026-new-rules-school-education-department-changes-in-dsc-aps26110600531",
+   "sec": [
+    "telangana",
+    "education",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఓసీ 40%, బీసీ 35%, ఎస్సీ/ఎస్టీ/దివ్యాంగులు 30% కనీస మార్కులు",
+    "95% పోస్టులు స్థానికులకు, 5% ఓపెన్ కాంపిటీషన్",
+    "మెరిట్ జాబితా తర్వాత 7 రోజుల్లో పత్రాలు అప్‌లోడ్ చేయాలి"
+   ],
+   "why": "ఉపాధ్యాయ ఉద్యోగాలకు సిద్ధమవుతున్న లక్షలాది ఏపీ అభ్యర్థులు కొత్త నిబంధనలను తప్పక గమనించాలి.",
+   "en": {
+    "h": "AP DSC-2026 brings minimum qualifying marks; SAP registration for sports quota",
+    "p": "The School Education Department has changed DSC-2026 rules. With written test and TET weightage combined, OC and EWS candidates need 40%, BCs 35%, and SC, ST and PwD candidates 30% minimum marks. Sports-quota candidates must register on the SAP app or portal before applying. About 17,000 have registered so far. The maximum age is 44 years.",
+    "pts": [
+     "Minimum marks: OC 40%, BC 35%, SC/ST/PwD 30%",
+     "95% of posts for local candidates, 5% open competition",
+     "Documents must be uploaded within 7 days of merit list"
+    ],
+    "why": "Lakhs of AP candidates preparing for teacher jobs must note the new rules.",
+    "cat": "AP · Education · Jobs",
+    "statl": "Minimum qualifying marks for OC, EWS"
+   },
+   "hi": {
+    "h": "आंध्र डीएससी-2026 में न्यूनतम योग्यता अंक नियम; खेल कोटे के लिए SAP पंजीकरण",
+    "p": "स्कूल शिक्षा विभाग ने डीएससी-2026 में बदलाव किए हैं। लिखित परीक्षा और टेट वेटेज मिलाकर ओसी व ईडब्ल्यूएस को 40%, बीसी को 35% और एससी, एसटी व दिव्यांगों को 30% न्यूनतम अंक लाने होंगे। खेल कोटे के उम्मीदवारों को आवेदन से पहले SAP ऐप या पोर्टल पर पंजीकरण करना होगा। अब तक लगभग 17 हज़ार लोग पंजीकरण करा चुके हैं। अधिकतम आयु 44 वर्ष है।",
+    "pts": [
+     "न्यूनतम अंक: ओसी 40%, बीसी 35%, एससी/एसटी/दिव्यांग 30%",
+     "95% पद स्थानीय उम्मीदवारों के लिए, 5% ओपन प्रतियोगिता",
+     "मेरिट सूची के 7 दिन के भीतर दस्तावेज़ अपलोड करने होंगे"
+    ],
+    "why": "शिक्षक नौकरी की तैयारी कर रहे आंध्र के लाखों उम्मीदवारों को नए नियमों पर ध्यान देना चाहिए।",
+    "cat": "आंध्र प्रदेश · शिक्षा · नौकरियाँ",
+    "statl": "ओसी, ईडब्ल्यूएस के लिए न्यूनतम योग्यता अंक"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ఏపీ · ఏపీపీఎస్సీ",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "₹1.14 కోట్లు",
+   "statl": "సేవలు లేకుండా చెల్లించారని ఈడీ ఆరోపణ",
+   "h": "ఏపీపీఎస్సీ గ్రూప్-1 మూల్యాంకనంలో అక్రమాలు జరిగాయి: ఈడీ ప్రకటన",
+   "p": "గత ప్రభుత్వ హయాంలో ఏపీపీఎస్సీ గ్రూప్-1 మెయిన్స్ జవాబు పత్రాల మూల్యాంకనంలో భారీ అక్రమాలు, నిధుల దుర్వినియోగం జరిగినట్లు దర్యాప్తులో తేలిందని ఈడీ తెలిపింది. హైకోర్టు ఆదేశించిన మాన్యువల్ మూల్యాంకనం జరగకుండానే డిజిటల్ మార్కులను నమోదు చేశారని, ఒక ప్రైవేట్ సంస్థకు ₹1.14 కోట్లు చెల్లించారని పేర్కొంది. బుధవారం ఏపీ, తెలంగాణల్లో సోదాలు చేసింది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/ed-statement-on-evaluation-of-appsc-group1-papers-aps26110600502",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "జవాబు పత్రాలు గుంటూరు జిల్లాలోని రిసార్ట్‌లో 84 రోజులు",
+    "ఏపీ, తెలంగాణల్లో ఈడీ సోదాలు; పత్రాలు, పరికరాలు స్వాధీనం",
+    "నిధులు ఎక్కడికి వెళ్లాయో దర్యాప్తు కొనసాగుతోంది"
+   ],
+   "why": "గ్రూప్-1 పరీక్ష రాసిన అభ్యర్థులు, ఉద్యోగ నియామకాల పారదర్శకతపై ఆసక్తి ఉన్నవారికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "Irregularities in APPSC Group-1 evaluation confirmed: ED statement",
+    "p": "The ED said its probe found large-scale irregularities and misuse of funds in the evaluation of APPSC Group-1 mains answer scripts under the previous government. It said digital marks were recorded without the manual evaluation ordered by the High Court, and Rs 1.14 crore was paid to a private firm. It conducted searches in AP and Telangana on Wednesday.",
+    "pts": [
+     "Answer scripts kept at a Guntur district resort for 84 days",
+     "ED searches in AP, Telangana; documents, devices seized",
+     "Probe continues into where the money went"
+    ],
+    "why": "This matters to Group-1 candidates and to anyone concerned about fair recruitment.",
+    "cat": "AP · APPSC",
+    "statl": "Paid without services, ED alleges"
+   },
+   "hi": {
+    "h": "APPSC ग्रुप-1 मूल्यांकन में अनियमितताएँ हुईं: ईडी का बयान",
+    "p": "ईडी ने कहा कि जांच में पिछली सरकार के समय APPSC ग्रुप-1 मेन्स उत्तर पुस्तिकाओं के मूल्यांकन में बड़े पैमाने पर अनियमितताएँ और धन का दुरुपयोग पाया गया। उसके अनुसार हाईकोर्ट द्वारा आदेशित मैनुअल मूल्यांकन किए बिना डिजिटल अंक दर्ज किए गए और एक निजी कंपनी को ₹1.14 करोड़ दिए गए। बुधवार को आंध्र प्रदेश और तेलंगाना में छापेमारी की गई।",
+    "pts": [
+     "उत्तर पुस्तिकाएँ गुंटूर ज़िले के रिसॉर्ट में 84 दिन रहीं",
+     "आंध्र, तेलंगाना में ईडी छापे; दस्तावेज़, उपकरण ज़ब्त",
+     "पैसा कहाँ गया, इसकी जांच जारी"
+    ],
+    "why": "यह ग्रुप-1 उम्मीदवारों और निष्पक्ष भर्ती की चिंता करने वालों के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · APPSC",
+    "statl": "बिना सेवा के भुगतान, ईडी का आरोप"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "52%",
+   "statl": "నిత్య రామన్‌కు వచ్చిన ఓట్లు",
+   "h": "లాస్ ఏంజెలెస్ మేయర్‌గా భారత్‌లో పుట్టిన నిత్య రామన్ విజయం",
+   "p": "లాస్ ఏంజెలెస్ మేయర్ ఎన్నికల్లో సిటీ కౌన్సిల్ సభ్యురాలు నిత్య రామన్ ప్రస్తుత మేయర్ కరెన్ బాస్‌ను ఓడించారు. 52% ఓట్లతో ఆమె గెలిచినట్లు అసోసియేటెడ్ ప్రెస్ వార్తా సంస్థ ప్రకటించింది. భారత్‌లో పుట్టిన 45 ఏళ్ల రామన్ ఆ నగరానికి తొలి దక్షిణాసియా మేయర్. అందుబాటు ధరల ఇళ్లు, మెరుగైన పౌర సేవలు అందిస్తామని హామీ ఇచ్చారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "లాస్ ఏంజెలెస్‌కు తొలి దక్షిణాసియా మేయర్",
+    "నగర జనాభా 38 లక్షలకు పైగా; 2028 ఒలింపిక్స్ వేదిక",
+    "20 ఏళ్లలో రెండోసారి గెలవలేకపోయిన తొలి మేయర్ కరెన్ బాస్"
+   ],
+   "why": "అమెరికాలో నివసిస్తున్న తెలుగు, భారతీయ సమాజానికి ఇది గర్వకారణమైన రాజకీయ పరిణామం.",
+   "en": {
+    "h": "India-born Nithya Raman wins Los Angeles mayoral race",
+    "p": "City Council member Nithya Raman defeated incumbent Mayor Karen Bass in the Los Angeles mayoral race. The Associated Press called the race with Raman at 52% of the vote. India-born Raman, 45, becomes the city's first South Asian mayor. She pledged affordable housing and better city services.",
+    "pts": [
+     "First South Asian mayor of Los Angeles",
+     "City of over 3.8 million; hosts 2028 Olympics",
+     "Karen Bass first LA mayor in 20+ years to lose re-election"
+    ],
+    "why": "A proud political moment for the Telugu and Indian community living in the US.",
+    "cat": "World · USA",
+    "statl": "Nithya Raman's vote share"
+   },
+   "hi": {
+    "h": "भारत में जन्मी नित्या रमन लॉस एंजेलिस की मेयर चुनी गईं",
+    "p": "लॉस एंजेलिस मेयर चुनाव में सिटी काउंसिल सदस्य नित्या रमन ने मौजूदा मेयर करेन बास को हराया। एपी समाचार एजेंसी ने 52% वोटों के साथ उनकी जीत घोषित की। भारत में जन्मी 45 वर्षीय रमन शहर की पहली दक्षिण एशियाई मेयर हैं। उन्होंने किफायती आवास और बेहतर नागरिक सेवाओं का वादा किया।",
+    "pts": [
+     "लॉस एंजेलिस की पहली दक्षिण एशियाई मेयर",
+     "38 लाख से अधिक आबादी; 2028 ओलंपिक का मेज़बान",
+     "करेन बास 20 से अधिक वर्षों में दोबारा चुनाव हारने वाली पहली मेयर"
+    ],
+    "why": "अमेरिका में रहने वाले तेलुगु और भारतीय समुदाय के लिए यह गर्व का राजनीतिक क्षण है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "नित्या रमन का वोट प्रतिशत"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · రష్యా-ఉక్రెయిన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "~800",
+   "statl": "అక్టోబర్ సంధిలో తరలించిన పౌరులు",
+   "h": "రష్యా దూతతో ట్రంప్ భేటీ; ఉక్రెయిన్ ఒప్పందం చాలా దగ్గర్లో ఉందని వ్యాఖ్య",
+   "p": "వైట్‌హౌస్‌లో పుతిన్ ప్రత్యేక దూత కిరిల్ డిమిత్రియేవ్‌తో అమెరికా అధ్యక్షుడు ట్రంప్ సమావేశమయ్యారు. రష్యా-ఉక్రెయిన్ ఒప్పందం చాలా దగ్గర్లో ఉందని, అది యూరప్ అంతటినీ కలుపుకొని ఉండొచ్చని చెప్పారు. వివరాలు మాత్రం వెల్లడించలేదు. అంతకుముందు మెలానియా ట్రంప్ రష్యా, ఉక్రెయిన్ ప్రతినిధులతో సమావేశం నిర్వహించారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఒప్పందం వివరాలు చెప్పని ట్రంప్",
+    "ఉక్రెయిన్ బృందంతో ట్రంప్ భేటీ కాలేదు",
+    "ఖేర్సన్‌లో 6 రోజుల సంధిలో దాదాపు 800 మంది తరలింపు"
+   ],
+   "why": "రష్యా-ఉక్రెయిన్ యుద్ధం ముగింపుపై జరుగుతున్న చర్చల్లో ఇది తాజా పరిణామం; ప్రపంచమంతా దీనిపై దృష్టి పెట్టింది.",
+   "en": {
+    "h": "Trump meets Russian envoy; says Ukraine deal 'very close'",
+    "p": "US President Trump met Putin's special envoy Kirill Dmitriev at the White House. He said a Russia-Ukraine deal is very close and could involve all of Europe, but gave no details. Earlier, Melania Trump hosted a meeting with Russian and Ukrainian representatives.",
+    "pts": [
+     "Trump gave no details of the deal",
+     "Trump did not meet the Ukrainian delegation",
+     "Nearly 800 civilians evacuated in 6-day Kherson truce"
+    ],
+    "why": "This is the latest step in talks on ending the Russia-Ukraine war, which the world is watching closely.",
+    "cat": "World · Russia-Ukraine",
+    "statl": "Civilians evacuated in October truce"
+   },
+   "hi": {
+    "h": "ट्रंप की रूसी दूत से मुलाकात; बोले यूक्रेन समझौता 'बहुत करीब'",
+    "p": "अमेरिकी राष्ट्रपति ट्रंप ने व्हाइट हाउस में पुतिन के विशेष दूत किरिल दिमित्रियेव से मुलाकात की। उन्होंने कहा कि रूस-यूक्रेन समझौता बहुत करीब है और इसमें पूरा यूरोप शामिल हो सकता है, पर विवरण नहीं दिया। इससे पहले मेलानिया ट्रंप ने रूसी और यूक्रेनी प्रतिनिधियों के साथ बैठक की मेज़बानी की।",
+    "pts": [
+     "ट्रंप ने समझौते का विवरण नहीं दिया",
+     "ट्रंप यूक्रेनी प्रतिनिधिमंडल से नहीं मिले",
+     "खेरसॉन में 6 दिन के युद्धविराम में लगभग 800 नागरिक निकाले गए"
+    ],
+    "why": "रूस-यूक्रेन युद्ध खत्म करने की बातचीत में यह ताज़ा घटनाक्रम है, जिस पर पूरी दुनिया की नज़र है।",
+    "cat": "दुनिया · रूस-यूक्रेन",
+    "statl": "अक्टूबर युद्धविराम में निकाले गए नागरिक"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
@@ -1760,201 +1955,6 @@
     "cat": "हैदराबाद · धोखाधड़ी",
     "statl": "ज़ब्त प्रॉमिसरी नोट"
    }
-  },
-  {
-   "cat": "భారత్ · ఇంధనం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "~20%",
-   "statl": "ఈ వారం తగ్గిన బ్రెంట్ ముడి చమురు ధర",
-   "h": "ముడి చమురు ధర భారీ పతనం; దేశంలో పెట్రోల్, డీజిల్ ధరలు యథాతథం",
-   "p": "బ్రెంట్ ముడి చమురు ధర ఈ వారం దాదాపు 20% పడిపోయింది. ఏప్రిల్ 2020 తర్వాత ఇదే అతిపెద్ద వారపు పతనం. గురువారం ఉదయం బ్రెంట్ బ్యారెల్ 93.9 డాలర్లకు చేరింది. అయితే దేశంలోని ప్రధాన నగరాల్లో పెట్రోల్, డీజిల్ ధరలు మారలేదు. హైదరాబాద్‌లో లీటర్ పెట్రోల్ ₹116.15, డీజిల్ ₹104.23గా ఉన్నాయి.",
-   "src": "HDFC Sky",
-   "url": "https://hdfcsky.com/news/petrol-diesel-prices-today-november-5-2026-check-latest-rates-in-delhi-mumbai-kolkata-chennai-bengaluru",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "బుధవారం ఒక్కరోజే బ్రెంట్ 8.7% పతనం",
-    "అమెరికా మధ్యంతర ఎన్నికల ఫలితాల ప్రభావమని అంచనా",
-    "ఢిల్లీలో పెట్రోల్ ₹102.12, ముంబైలో ₹111.21"
-   ],
-   "why": "చమురు చౌకైతే దేశ దిగుమతి భారం, ద్రవ్యోల్బణంపై ఊరట లభించే అవకాశం ఉంది.",
-   "d": "05.11.2026",
-   "t": "18:35",
-   "en": {
-    "h": "Crude oil plunges; petrol, diesel prices unchanged in India",
-    "p": "Brent crude has fallen nearly 20% this week, its steepest weekly drop since April 2020. On Thursday morning Brent was at $93.9 a barrel. But petrol and diesel prices were unchanged in major Indian cities. In Hyderabad, petrol costs ₹116.15 a litre and diesel ₹104.23.",
-    "pts": [
-     "Brent fell 8.7% on Wednesday alone",
-     "Drop linked to the US midterm election results",
-     "Petrol ₹102.12 in Delhi, ₹111.21 in Mumbai"
-    ],
-    "why": "Cheaper oil could ease India's import bill and inflation.",
-    "cat": "India · Fuel",
-    "statl": "Fall in Brent crude price this week"
-   },
-   "hi": {
-    "h": "कच्चे तेल में भारी गिरावट; देश में पेट्रोल-डीज़ल के दाम स्थिर",
-    "p": "ब्रेंट कच्चा तेल इस हफ्ते करीब 20% गिर गया है, जो अप्रैल 2020 के बाद सबसे बड़ी साप्ताहिक गिरावट है। गुरुवार सुबह ब्रेंट 93.9 डॉलर प्रति बैरल पर था। लेकिन देश के प्रमुख शहरों में पेट्रोल-डीज़ल के दाम नहीं बदले। हैदराबाद में पेट्रोल ₹116.15 और डीज़ल ₹104.23 प्रति लीटर है।",
-    "pts": [
-     "बुधवार को ही ब्रेंट 8.7% गिरा",
-     "गिरावट को अमेरिकी मध्यावधि चुनाव नतीजों से जोड़ा गया",
-     "दिल्ली में पेट्रोल ₹102.12, मुंबई में ₹111.21"
-    ],
-    "why": "सस्ता तेल भारत के आयात बिल और महंगाई में राहत दे सकता है।",
-    "cat": "भारत · ईंधन",
-    "statl": "इस हफ्ते ब्रेंट कच्चे तेल में गिरावट"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · యూరప్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "~10",
-   "statl": "గురువారం బెదిరింపులు అందిన విమానాలు",
-   "h": "యూరప్‌లో మళ్లీ విమానాలకు బాంబు బెదిరింపులు: పలు విమానాల మళ్లింపు",
-   "p": "ఈ వారంలో రెండోసారి యూరప్‌లో విమానాలకు బాంబు బెదిరింపులు వచ్చాయి. గురువారం సుమారు 10 విమానాలు ప్రభావితమయ్యాయి, కొన్నింటిని మళ్లించారు. బల్గేరియాలో మూడు విమానాలు అత్యవసరంగా దిగాయి. ప్రాగ్ వెళ్తున్న నాలుగు విమానాలకు బెదిరింపులు రాగా, వాటి విశ్వసనీయత తక్కువని చెక్ పోలీసులు తెలిపారు. ఏ విమానంలోనూ అనుమానాస్పద వస్తువులు దొరకలేదు.",
-   "src": "The National",
-   "url": "https://www.thenationalnews.com/news/europe/2026/11/05/european-flights-diverted-after-second-wave-of-bomb-threats/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "మంగళవారం కూడా 7 విమానాలు, ఓ క్రూయిజ్ నౌకకు బెదిరింపులు",
-    "బల్గేరియాలో సోఫియా, ప్లొవ్‌డివ్‌లో మూడు విమానాల అత్యవసర ల్యాండింగ్",
-    "బెదిరింపులకు ఏ దేశమూ ఎవరినీ బాధ్యులుగా చెప్పలేదు"
-   ],
-   "why": "యూరప్ మీదుగా ప్రయాణించే భారతీయులు, తెలుగు ప్రయాణికులకు ఆలస్యం, భద్రతా తనిఖీలు ఎదురవ్వొచ్చు.",
-   "d": "05.11.2026",
-   "t": "18:35",
-   "en": {
-    "h": "Fresh bomb threats hit European flights; several diverted",
-    "p": "Flights across Europe received bomb threats for the second time this week. Around 10 flights were affected on Thursday and some were diverted. Three planes made emergency landings in Bulgaria. Four Prague-bound planes received threats, which Czech police rated as low in credibility. No suspicious items were found on any aircraft.",
-    "pts": [
-     "On Tuesday too, 7 flights and a cruise ship got threats",
-     "Three emergency landings in Bulgaria, at Sofia and Plovdiv",
-     "No country has blamed anyone for the threats"
-    ],
-    "why": "Indian and Telugu travellers flying via Europe may face delays and security checks.",
-    "cat": "World · Europe",
-    "statl": "Flights that got threats on Thursday"
-   },
-   "hi": {
-    "h": "यूरोप में फिर विमानों को बम धमकी: कई उड़ानें मोड़ी गईं",
-    "p": "इस हफ्ते दूसरी बार यूरोप में विमानों को बम की धमकियां मिलीं। गुरुवार को करीब 10 उड़ानें प्रभावित हुईं और कुछ को मोड़ा गया। बुल्गारिया में तीन विमानों ने आपात लैंडिंग की। प्राग जा रहे चार विमानों को धमकी मिली, जिसे चेक पुलिस ने कम विश्वसनीय बताया। किसी भी विमान में संदिग्ध वस्तु नहीं मिली।",
-    "pts": [
-     "मंगलवार को भी 7 उड़ानों और एक क्रूज़ जहाज़ को धमकी",
-     "बुल्गारिया के सोफिया, प्लोवदिव में तीन विमानों की आपात लैंडिंग",
-     "धमकियों के लिए किसी देश ने किसी को ज़िम्मेदार नहीं ठहराया"
-    ],
-    "why": "यूरोप होकर यात्रा करने वाले भारतीय और तेलुगु यात्रियों को देरी और सुरक्षा जांच का सामना करना पड़ सकता है।",
-    "cat": "दुनिया · यूरोप",
-    "statl": "गुरुवार को धमकी पाने वाली उड़ानें"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · భూగర్భ జలాలు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "కార్యాచరణ",
-   "statl": "కరవు సాయం, భూగర్భ జలాల పరిరక్షణకు ప్రణాళిక",
-   "h": "కరవు సాయం, భూగర్భ జలాలపై ప్రత్యేక ప్రణాళిక సిద్ధం చేయండి: మంత్రి ఉత్తమ్",
-   "p": "రాష్ట్రంలో తగ్గుతున్న భూగర్భ జలమట్టాలను పునరుద్ధరించేందుకు కరవు సాయం, జల సంరక్షణపై సమగ్ర కార్యాచరణ ప్రణాళిక రూపొందించాలని నీటిపారుదల, పౌరసరఫరాల మంత్రి ఎన్. ఉత్తమ్ కుమార్ రెడ్డి అధికారులను ఆదేశించారు. గురువారం సచివాలయంలో సమీక్ష నిర్వహించిన ఆయన, భూగర్భ జలాల పరిరక్షణకు తగిన నిధులు కేటాయిస్తామని, అవసరమైతే అదనపు ఆర్థిక సాయం అందిస్తామని చెప్పారు. జిల్లాలవారీగా జలమట్టాలను అంచనా వేయాలని సూచించారు.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/south-india/admin-telangana-drought-uttm/236655",
-   "sec": [
-    "telangana",
-    "weather",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "సచివాలయంలో మంత్రి ఉత్తమ్ కుమార్ రెడ్డి సమీక్ష",
-    "జిల్లాలవారీగా భూగర్భ జలమట్టాల అంచనాకు ఆదేశం",
-    "రాజస్థాన్ జల పునరుద్ధరణ చర్యలను అధ్యయనం చేయాలని సూచన"
-   ],
-   "why": "తగ్గుతున్న భూగర్భ జలాలు రాష్ట్రంలోని రైతులు, తాగునీటిపై ఆధారపడే ప్రజలందరిపై ప్రభావం చూపుతాయి.",
-   "d": "05.11.2026",
-   "t": "18:05",
-   "en": {
-    "h": "Prepare special plan on drought relief, groundwater: Minister Uttam",
-    "p": "Irrigation and Civil Supplies Minister N. Uttam Kumar Reddy directed officials to prepare a comprehensive action plan for drought relief and groundwater conservation to restore falling groundwater levels in the state. Reviewing the issue at the Secretariat on Thursday, he said adequate funds would be allocated for groundwater conservation, with additional financial help if needed. He asked officials to assess groundwater levels district-wise.",
-    "pts": [
-     "Minister Uttam Kumar Reddy holds review at the Secretariat",
-     "Officials told to assess groundwater levels district-wise",
-     "Suggests studying Rajasthan's groundwater restoration efforts"
-    ],
-    "why": "Falling groundwater affects farmers and everyone in the state who depends on it for drinking water.",
-    "cat": "Telangana · Groundwater",
-    "statl": "Plan for drought relief and groundwater conservation"
-   },
-   "hi": {
-    "h": "सूखा राहत, भूजल पर विशेष योजना तैयार करें: मंत्री उत्तम",
-    "p": "सिंचाई और नागरिक आपूर्ति मंत्री एन. उत्तम कुमार रेड्डी ने राज्य में गिरते भूजल स्तर को बहाल करने के लिए सूखा राहत और जल संरक्षण पर व्यापक कार्य योजना बनाने का अधिकारियों को निर्देश दिया। गुरुवार को सचिवालय में समीक्षा करते हुए उन्होंने कहा कि भूजल संरक्षण के लिए पर्याप्त धन दिया जाएगा और ज़रूरत पड़ने पर अतिरिक्त आर्थिक मदद भी मिलेगी। उन्होंने ज़िलेवार भूजल स्तर का आकलन करने को कहा।",
-    "pts": [
-     "मंत्री उत्तम कुमार रेड्डी ने सचिवालय में समीक्षा की",
-     "ज़िलेवार भूजल स्तर के आकलन का निर्देश",
-     "राजस्थान के भूजल बहाली प्रयासों के अध्ययन का सुझाव"
-    ],
-    "why": "गिरता भूजल राज्य के किसानों और पीने के पानी के लिए इस पर निर्भर सभी लोगों को प्रभावित करता है।",
-    "cat": "तेलंगाना · भूजल",
-    "statl": "सूखा राहत और भूजल संरक्षण की योजना"
-   }
-  },
-  {
-   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "58.55%",
-   "statl": "మధ్యాహ్నం 3 గంటల వరకు పోలింగ్",
-   "h": "ఏపీలో ముగిసిన పరిషత్ పోలింగ్: 3 గంటలకు 58.55%; 7న లెక్కింపు",
-   "p": "ఆంధ్రప్రదేశ్‌లో ఎంపీటీసీ, జెడ్‌పీటీసీ ఎన్నికల పోలింగ్ గురువారం సాయంత్రం 5 గంటలకు ముగిసింది. ఆ సమయానికి క్యూలో ఉన్నవారికి ఓటు వేసే అవకాశం ఇచ్చారు. మధ్యాహ్నం 3 గంటల వరకు 58.55 శాతం పోలింగ్ నమోదైంది. కొన్నిచోట్ల చెదురుమదురు ఘటనలు మినహా పోలింగ్ ప్రశాంతంగా జరిగింది. ఓట్ల లెక్కింపు నవంబర్ 7న జరుగుతుంది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "కోనసీమ జిల్లాలో 3 గంటలకు 53.37% పోలింగ్",
-    "కోనసీమలో అత్యధికం ఆలమూరు 62.62%, అత్యల్పం మల్కిపురం 39.77%",
-    "శ్రీకాకుళం జిల్లాలో 1 గంటకు 40.21% పోలింగ్"
-   ],
-   "why": "గ్రామీణ స్థానిక పాలనను నడిపే మండల, జిల్లా పరిషత్ ప్రతినిధులు ఎవరో 7న తేలనుంది.",
-   "en": {
-    "h": "AP parishad polling ends: 58.55% by 3 PM; counting on Nov 7",
-    "p": "Polling for MPTC and ZPTC elections in Andhra Pradesh ended at 5 pm on Thursday. Voters standing in queues at that time were allowed to vote. Turnout was 58.55 percent by 3 pm. Apart from scattered incidents at some places, polling was peaceful. Votes will be counted on November 7.",
-    "pts": [
-     "Konaseema district recorded 53.37% polling by 3 PM",
-     "In Konaseema, Alamuru highest at 62.62%, Malkipuram lowest at 39.77%",
-     "Srikakulam district recorded 40.21% polling by 1 PM"
-    ],
-    "why": "Who will run rural local bodies at mandal and district parishad level will be known on November 7.",
-    "cat": "AP · Parishad elections",
-    "statl": "Polling till 3 PM"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में परिषद मतदान समाप्त: 3 बजे तक 58.55%; 7 को मतगणना",
-    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी चुनावों का मतदान गुरुवार शाम 5 बजे समाप्त हुआ। उस समय कतार में खड़े मतदाताओं को वोट डालने दिया गया। दोपहर 3 बजे तक 58.55 प्रतिशत मतदान हुआ। कुछ जगहों पर छिटपुट घटनाओं को छोड़कर मतदान शांतिपूर्ण रहा। मतगणना 7 नवंबर को होगी।",
-    "pts": [
-     "कोनसीमा ज़िले में 3 बजे तक 53.37% मतदान",
-     "कोनसीमा में आलमुरु सबसे अधिक 62.62%, मलकिपुरम सबसे कम 39.77%",
-     "श्रीकाकुलम ज़िले में 1 बजे तक 40.21% मतदान"
-    ],
-    "why": "मंडल और ज़िला परिषद स्तर पर ग्रामीण स्थानीय निकाय कौन चलाएगा, यह 7 नवंबर को तय होगा।",
-    "cat": "आंध्र प्रदेश · परिषद चुनाव",
-    "statl": "दोपहर 3 बजे तक मतदान"
-   },
-   "d": "05.11.2026",
-   "t": "17:35"
   }
  ]
 }

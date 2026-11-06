@@ -1,8 +1,203 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 18,
+ "count": 22,
  "stories": [
+  {
+   "cat": "ఏపీ · విద్య · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "40%",
+   "statl": "ఓసీ, ఈడబ్ల్యూఎస్‌కు కనీస అర్హత మార్కులు",
+   "h": "ఏపీ డీఎస్సీ-2026లో కనీస అర్హత మార్కుల నిబంధన; క్రీడా కోటాకు శాప్ రిజిస్ట్రేషన్",
+   "p": "డీఎస్సీ-2026లో పాఠశాల విద్యాశాఖ మార్పులు చేసింది. రాత పరీక్ష, టెట్ వెయిటేజీ కలిపి ఓసీ, ఈడబ్ల్యూఎస్‌కు 40%, బీసీలకు 35%, ఎస్సీ, ఎస్టీ, దివ్యాంగులకు 30% కనీస మార్కులు రావాలి. క్రీడా కోటా అభ్యర్థులు దరఖాస్తుకు ముందే శాప్ యాప్ లేదా పోర్టల్‌లో నమోదు చేసుకోవాలి. ఇప్పటివరకు సుమారు 17 వేల మంది నమోదయ్యారు. గరిష్ఠ వయసు 44 ఏళ్లు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/ap-dsc-2026-new-rules-school-education-department-changes-in-dsc-aps26110600531",
+   "sec": [
+    "telangana",
+    "education",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఓసీ 40%, బీసీ 35%, ఎస్సీ/ఎస్టీ/దివ్యాంగులు 30% కనీస మార్కులు",
+    "95% పోస్టులు స్థానికులకు, 5% ఓపెన్ కాంపిటీషన్",
+    "మెరిట్ జాబితా తర్వాత 7 రోజుల్లో పత్రాలు అప్‌లోడ్ చేయాలి"
+   ],
+   "why": "ఉపాధ్యాయ ఉద్యోగాలకు సిద్ధమవుతున్న లక్షలాది ఏపీ అభ్యర్థులు కొత్త నిబంధనలను తప్పక గమనించాలి.",
+   "en": {
+    "h": "AP DSC-2026 brings minimum qualifying marks; SAP registration for sports quota",
+    "p": "The School Education Department has changed DSC-2026 rules. With written test and TET weightage combined, OC and EWS candidates need 40%, BCs 35%, and SC, ST and PwD candidates 30% minimum marks. Sports-quota candidates must register on the SAP app or portal before applying. About 17,000 have registered so far. The maximum age is 44 years.",
+    "pts": [
+     "Minimum marks: OC 40%, BC 35%, SC/ST/PwD 30%",
+     "95% of posts for local candidates, 5% open competition",
+     "Documents must be uploaded within 7 days of merit list"
+    ],
+    "why": "Lakhs of AP candidates preparing for teacher jobs must note the new rules.",
+    "cat": "AP · Education · Jobs",
+    "statl": "Minimum qualifying marks for OC, EWS"
+   },
+   "hi": {
+    "h": "आंध्र डीएससी-2026 में न्यूनतम योग्यता अंक नियम; खेल कोटे के लिए SAP पंजीकरण",
+    "p": "स्कूल शिक्षा विभाग ने डीएससी-2026 में बदलाव किए हैं। लिखित परीक्षा और टेट वेटेज मिलाकर ओसी व ईडब्ल्यूएस को 40%, बीसी को 35% और एससी, एसटी व दिव्यांगों को 30% न्यूनतम अंक लाने होंगे। खेल कोटे के उम्मीदवारों को आवेदन से पहले SAP ऐप या पोर्टल पर पंजीकरण करना होगा। अब तक लगभग 17 हज़ार लोग पंजीकरण करा चुके हैं। अधिकतम आयु 44 वर्ष है।",
+    "pts": [
+     "न्यूनतम अंक: ओसी 40%, बीसी 35%, एससी/एसटी/दिव्यांग 30%",
+     "95% पद स्थानीय उम्मीदवारों के लिए, 5% ओपन प्रतियोगिता",
+     "मेरिट सूची के 7 दिन के भीतर दस्तावेज़ अपलोड करने होंगे"
+    ],
+    "why": "शिक्षक नौकरी की तैयारी कर रहे आंध्र के लाखों उम्मीदवारों को नए नियमों पर ध्यान देना चाहिए।",
+    "cat": "आंध्र प्रदेश · शिक्षा · नौकरियाँ",
+    "statl": "ओसी, ईडब्ल्यूएस के लिए न्यूनतम योग्यता अंक"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ఏపీ · ఏపీపీఎస్సీ",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "₹1.14 కోట్లు",
+   "statl": "సేవలు లేకుండా చెల్లించారని ఈడీ ఆరోపణ",
+   "h": "ఏపీపీఎస్సీ గ్రూప్-1 మూల్యాంకనంలో అక్రమాలు జరిగాయి: ఈడీ ప్రకటన",
+   "p": "గత ప్రభుత్వ హయాంలో ఏపీపీఎస్సీ గ్రూప్-1 మెయిన్స్ జవాబు పత్రాల మూల్యాంకనంలో భారీ అక్రమాలు, నిధుల దుర్వినియోగం జరిగినట్లు దర్యాప్తులో తేలిందని ఈడీ తెలిపింది. హైకోర్టు ఆదేశించిన మాన్యువల్ మూల్యాంకనం జరగకుండానే డిజిటల్ మార్కులను నమోదు చేశారని, ఒక ప్రైవేట్ సంస్థకు ₹1.14 కోట్లు చెల్లించారని పేర్కొంది. బుధవారం ఏపీ, తెలంగాణల్లో సోదాలు చేసింది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/ed-statement-on-evaluation-of-appsc-group1-papers-aps26110600502",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "జవాబు పత్రాలు గుంటూరు జిల్లాలోని రిసార్ట్‌లో 84 రోజులు",
+    "ఏపీ, తెలంగాణల్లో ఈడీ సోదాలు; పత్రాలు, పరికరాలు స్వాధీనం",
+    "నిధులు ఎక్కడికి వెళ్లాయో దర్యాప్తు కొనసాగుతోంది"
+   ],
+   "why": "గ్రూప్-1 పరీక్ష రాసిన అభ్యర్థులు, ఉద్యోగ నియామకాల పారదర్శకతపై ఆసక్తి ఉన్నవారికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "Irregularities in APPSC Group-1 evaluation confirmed: ED statement",
+    "p": "The ED said its probe found large-scale irregularities and misuse of funds in the evaluation of APPSC Group-1 mains answer scripts under the previous government. It said digital marks were recorded without the manual evaluation ordered by the High Court, and Rs 1.14 crore was paid to a private firm. It conducted searches in AP and Telangana on Wednesday.",
+    "pts": [
+     "Answer scripts kept at a Guntur district resort for 84 days",
+     "ED searches in AP, Telangana; documents, devices seized",
+     "Probe continues into where the money went"
+    ],
+    "why": "This matters to Group-1 candidates and to anyone concerned about fair recruitment.",
+    "cat": "AP · APPSC",
+    "statl": "Paid without services, ED alleges"
+   },
+   "hi": {
+    "h": "APPSC ग्रुप-1 मूल्यांकन में अनियमितताएँ हुईं: ईडी का बयान",
+    "p": "ईडी ने कहा कि जांच में पिछली सरकार के समय APPSC ग्रुप-1 मेन्स उत्तर पुस्तिकाओं के मूल्यांकन में बड़े पैमाने पर अनियमितताएँ और धन का दुरुपयोग पाया गया। उसके अनुसार हाईकोर्ट द्वारा आदेशित मैनुअल मूल्यांकन किए बिना डिजिटल अंक दर्ज किए गए और एक निजी कंपनी को ₹1.14 करोड़ दिए गए। बुधवार को आंध्र प्रदेश और तेलंगाना में छापेमारी की गई।",
+    "pts": [
+     "उत्तर पुस्तिकाएँ गुंटूर ज़िले के रिसॉर्ट में 84 दिन रहीं",
+     "आंध्र, तेलंगाना में ईडी छापे; दस्तावेज़, उपकरण ज़ब्त",
+     "पैसा कहाँ गया, इसकी जांच जारी"
+    ],
+    "why": "यह ग्रुप-1 उम्मीदवारों और निष्पक्ष भर्ती की चिंता करने वालों के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · APPSC",
+    "statl": "बिना सेवा के भुगतान, ईडी का आरोप"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "52%",
+   "statl": "నిత్య రామన్‌కు వచ్చిన ఓట్లు",
+   "h": "లాస్ ఏంజెలెస్ మేయర్‌గా భారత్‌లో పుట్టిన నిత్య రామన్ విజయం",
+   "p": "లాస్ ఏంజెలెస్ మేయర్ ఎన్నికల్లో సిటీ కౌన్సిల్ సభ్యురాలు నిత్య రామన్ ప్రస్తుత మేయర్ కరెన్ బాస్‌ను ఓడించారు. 52% ఓట్లతో ఆమె గెలిచినట్లు అసోసియేటెడ్ ప్రెస్ వార్తా సంస్థ ప్రకటించింది. భారత్‌లో పుట్టిన 45 ఏళ్ల రామన్ ఆ నగరానికి తొలి దక్షిణాసియా మేయర్. అందుబాటు ధరల ఇళ్లు, మెరుగైన పౌర సేవలు అందిస్తామని హామీ ఇచ్చారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "లాస్ ఏంజెలెస్‌కు తొలి దక్షిణాసియా మేయర్",
+    "నగర జనాభా 38 లక్షలకు పైగా; 2028 ఒలింపిక్స్ వేదిక",
+    "20 ఏళ్లలో రెండోసారి గెలవలేకపోయిన తొలి మేయర్ కరెన్ బాస్"
+   ],
+   "why": "అమెరికాలో నివసిస్తున్న తెలుగు, భారతీయ సమాజానికి ఇది గర్వకారణమైన రాజకీయ పరిణామం.",
+   "en": {
+    "h": "India-born Nithya Raman wins Los Angeles mayoral race",
+    "p": "City Council member Nithya Raman defeated incumbent Mayor Karen Bass in the Los Angeles mayoral race. The Associated Press called the race with Raman at 52% of the vote. India-born Raman, 45, becomes the city's first South Asian mayor. She pledged affordable housing and better city services.",
+    "pts": [
+     "First South Asian mayor of Los Angeles",
+     "City of over 3.8 million; hosts 2028 Olympics",
+     "Karen Bass first LA mayor in 20+ years to lose re-election"
+    ],
+    "why": "A proud political moment for the Telugu and Indian community living in the US.",
+    "cat": "World · USA",
+    "statl": "Nithya Raman's vote share"
+   },
+   "hi": {
+    "h": "भारत में जन्मी नित्या रमन लॉस एंजेलिस की मेयर चुनी गईं",
+    "p": "लॉस एंजेलिस मेयर चुनाव में सिटी काउंसिल सदस्य नित्या रमन ने मौजूदा मेयर करेन बास को हराया। एपी समाचार एजेंसी ने 52% वोटों के साथ उनकी जीत घोषित की। भारत में जन्मी 45 वर्षीय रमन शहर की पहली दक्षिण एशियाई मेयर हैं। उन्होंने किफायती आवास और बेहतर नागरिक सेवाओं का वादा किया।",
+    "pts": [
+     "लॉस एंजेलिस की पहली दक्षिण एशियाई मेयर",
+     "38 लाख से अधिक आबादी; 2028 ओलंपिक का मेज़बान",
+     "करेन बास 20 से अधिक वर्षों में दोबारा चुनाव हारने वाली पहली मेयर"
+    ],
+    "why": "अमेरिका में रहने वाले तेलुगु और भारतीय समुदाय के लिए यह गर्व का राजनीतिक क्षण है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "नित्या रमन का वोट प्रतिशत"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · రష్యా-ఉక్రెయిన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "~800",
+   "statl": "అక్టోబర్ సంధిలో తరలించిన పౌరులు",
+   "h": "రష్యా దూతతో ట్రంప్ భేటీ; ఉక్రెయిన్ ఒప్పందం చాలా దగ్గర్లో ఉందని వ్యాఖ్య",
+   "p": "వైట్‌హౌస్‌లో పుతిన్ ప్రత్యేక దూత కిరిల్ డిమిత్రియేవ్‌తో అమెరికా అధ్యక్షుడు ట్రంప్ సమావేశమయ్యారు. రష్యా-ఉక్రెయిన్ ఒప్పందం చాలా దగ్గర్లో ఉందని, అది యూరప్ అంతటినీ కలుపుకొని ఉండొచ్చని చెప్పారు. వివరాలు మాత్రం వెల్లడించలేదు. అంతకుముందు మెలానియా ట్రంప్ రష్యా, ఉక్రెయిన్ ప్రతినిధులతో సమావేశం నిర్వహించారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఒప్పందం వివరాలు చెప్పని ట్రంప్",
+    "ఉక్రెయిన్ బృందంతో ట్రంప్ భేటీ కాలేదు",
+    "ఖేర్సన్‌లో 6 రోజుల సంధిలో దాదాపు 800 మంది తరలింపు"
+   ],
+   "why": "రష్యా-ఉక్రెయిన్ యుద్ధం ముగింపుపై జరుగుతున్న చర్చల్లో ఇది తాజా పరిణామం; ప్రపంచమంతా దీనిపై దృష్టి పెట్టింది.",
+   "en": {
+    "h": "Trump meets Russian envoy; says Ukraine deal 'very close'",
+    "p": "US President Trump met Putin's special envoy Kirill Dmitriev at the White House. He said a Russia-Ukraine deal is very close and could involve all of Europe, but gave no details. Earlier, Melania Trump hosted a meeting with Russian and Ukrainian representatives.",
+    "pts": [
+     "Trump gave no details of the deal",
+     "Trump did not meet the Ukrainian delegation",
+     "Nearly 800 civilians evacuated in 6-day Kherson truce"
+    ],
+    "why": "This is the latest step in talks on ending the Russia-Ukraine war, which the world is watching closely.",
+    "cat": "World · Russia-Ukraine",
+    "statl": "Civilians evacuated in October truce"
+   },
+   "hi": {
+    "h": "ट्रंप की रूसी दूत से मुलाकात; बोले यूक्रेन समझौता 'बहुत करीब'",
+    "p": "अमेरिकी राष्ट्रपति ट्रंप ने व्हाइट हाउस में पुतिन के विशेष दूत किरिल दिमित्रियेव से मुलाकात की। उन्होंने कहा कि रूस-यूक्रेन समझौता बहुत करीब है और इसमें पूरा यूरोप शामिल हो सकता है, पर विवरण नहीं दिया। इससे पहले मेलानिया ट्रंप ने रूसी और यूक्रेनी प्रतिनिधियों के साथ बैठक की मेज़बानी की।",
+    "pts": [
+     "ट्रंप ने समझौते का विवरण नहीं दिया",
+     "ट्रंप यूक्रेनी प्रतिनिधिमंडल से नहीं मिले",
+     "खेरसॉन में 6 दिन के युद्धविराम में लगभग 800 नागरिक निकाले गए"
+    ],
+    "why": "रूस-यूक्रेन युद्ध खत्म करने की बातचीत में यह ताज़ा घटनाक्रम है, जिस पर पूरी दुनिया की नज़र है।",
+    "cat": "दुनिया · रूस-यूक्रेन",
+    "statl": "अक्टूबर युद्धविराम में निकाले गए नागरिक"
+   },
+   "d": "06.11.2026",
+   "t": "09:35"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
