@@ -1,8 +1,151 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 7,
+ "count": 10,
  "stories": [
+  {
+   "cat": "భారత్ · హాకీ",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "4-1",
+   "statl": "ఫైనల్‌లో జపాన్‌పై భారత్ విజయం",
+   "h": "ఆసియా ఛాంపియన్స్ ట్రోఫీ హాకీ: జపాన్‌ను 4-1తో ఓడించి టైటిల్ నిలబెట్టుకున్న భారత్",
+   "p": "పురుషుల ఆసియా ఛాంపియన్స్ ట్రోఫీ హాకీ టోర్నీలో భారత జట్టు మళ్లీ ఛాంపియన్‌గా నిలిచింది. మొహాలీలో జరిగిన ఫైనల్ మ్యాచ్‌లో జపాన్‌ను 4-1 గోల్స్ తేడాతో ఓడించి టైటిల్‌ను నిలబెట్టుకుంది. ఈ విజయంతో ఆసియా హాకీలో భారత్ తన ఆధిపత్యాన్ని మరోసారి చాటుకుంది. ఈ విషయాన్ని ఆకాశవాణి వార్తా సంస్థ వెల్లడించింది.",
+   "src": "All India Radio News",
+   "url": "https://newsonair.gov.in/india-to-face-japan-in-asian-champions-trophy-final-in-mohali/",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఫైనల్‌లో జపాన్‌పై 4-1తో గెలుపు",
+    "పురుషుల ఆసియా ఛాంపియన్స్ ట్రోఫీ నిలబెట్టుకున్న భారత్"
+   ],
+   "why": "భారత హాకీ అభిమానులకు ఇది సంతోషకర వార్త; జట్టు ఆత్మవిశ్వాసం పెరుగుతుంది.",
+   "en": {
+    "h": "Asian Champions Trophy hockey: India beat Japan 4-1, retain title",
+    "p": "India have once again become champions of the Men's Asian Champions Trophy hockey tournament. In the final played in Mohali, India defeated Japan by 4-1 to retain the title. With this win, India once more showed their dominance in Asian hockey. All India Radio News reported the result.",
+    "pts": [
+     "Beat Japan 4-1 in the final",
+     "India retain Men's Asian Champions Trophy"
+    ],
+    "why": "Good news for Indian hockey fans; the win will boost the team's confidence.",
+    "cat": "India · Hockey",
+    "statl": "India's win over Japan in the final"
+   },
+   "hi": {
+    "h": "एशियन चैंपियंस ट्रॉफी हॉकी: भारत ने जापान को 4-1 से हराकर खिताब बरकरार रखा",
+    "p": "पुरुष एशियन चैंपियंस ट्रॉफी हॉकी टूर्नामेंट में भारतीय टीम फिर से चैंपियन बनी है। मोहाली में खेले गए फाइनल में भारत ने जापान को 4-1 से हराकर खिताब बरकरार रखा। इस जीत से भारत ने एशियाई हॉकी में एक बार फिर अपना दबदबा दिखाया। यह जानकारी आकाशवाणी समाचार ने दी।",
+    "pts": [
+     "फाइनल में जापान पर 4-1 से जीत",
+     "भारत ने पुरुष एशियन चैंपियंस ट्रॉफी बरकरार रखी"
+    ],
+    "why": "भारतीय हॉकी प्रशंसकों के लिए यह खुशी की खबर है; इससे टीम का आत्मविश्वास बढ़ेगा।",
+    "cat": "भारत · हॉकी",
+    "statl": "फाइनल में जापान पर भारत की जीत"
+   },
+   "d": "06.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "భారత్ · పారా క్రీడలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "114",
+   "statl": "ఆసియా పారా గేమ్స్‌లో రికార్డు పతకాలు",
+   "h": "ఆసియా పారా గేమ్స్‌లో 114 పతకాల రికార్డు: క్రీడాకారులను సత్కరించిన ప్రధాని మోదీ",
+   "p": "ఆసియా పారా గేమ్స్ 2026లో రికార్డు స్థాయిలో 114 పతకాలు సాధించిన భారత బృందాన్ని ప్రధాని నరేంద్ర మోదీ సత్కరించారు. ఖేలో ఇండియా, టాప్స్ (TOPS) పథకాల ద్వారా దేశంలో ఆధునిక క్రీడా వ్యవస్థను ప్రభుత్వం నిర్మిస్తోందని ఆయన అన్నారు. పారా క్రీడాకారుల ప్రదర్శనను ప్రధాని ప్రశంసించారు.",
+   "src": "All India Radio News",
+   "url": "https://newsonair.gov.in/pm-modi-to-interact-with-indian-contingent-of-asian-para-games-2026/",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఆసియా పారా గేమ్స్ 2026లో 114 పతకాలు",
+    "భారత బృందాన్ని సత్కరించిన ప్రధాని మోదీ",
+    "ఖేలో ఇండియా, టాప్స్ ద్వారా క్రీడా వ్యవస్థ"
+   ],
+   "why": "దివ్యాంగ క్రీడాకారుల విజయాలు దేశవ్యాప్తంగా యువతకు స్ఫూర్తినిస్తాయి.",
+   "en": {
+    "h": "Record 114 medals at Asian Para Games: PM Modi felicitates athletes",
+    "p": "Prime Minister Narendra Modi felicitated the Indian contingent that won a record 114 medals at the Asian Para Games 2026. He said the government is building a modern sports ecosystem in the country through the Khelo India and TOPS schemes. The Prime Minister praised the performance of the para athletes.",
+    "pts": [
+     "114 medals at Asian Para Games 2026",
+     "PM Modi felicitates Indian contingent",
+     "Sports ecosystem through Khelo India, TOPS"
+    ],
+    "why": "The achievements of para athletes inspire young people across the country.",
+    "cat": "India · Para Sports",
+    "statl": "Record medals at Asian Para Games"
+   },
+   "hi": {
+    "h": "एशियन पैरा गेम्स में 114 पदकों का रिकॉर्ड: पीएम मोदी ने खिलाड़ियों को सम्मानित किया",
+    "p": "प्रधानमंत्री नरेंद्र मोदी ने एशियन पैरा गेम्स 2026 में रिकॉर्ड 114 पदक जीतने वाले भारतीय दल को सम्मानित किया। उन्होंने कहा कि सरकार खेलो इंडिया और टॉप्स (TOPS) योजनाओं के जरिए देश में आधुनिक खेल व्यवस्था बना रही है। प्रधानमंत्री ने पैरा खिलाड़ियों के प्रदर्शन की सराहना की।",
+    "pts": [
+     "एशियन पैरा गेम्स 2026 में 114 पदक",
+     "पीएम मोदी ने भारतीय दल को सम्मानित किया",
+     "खेलो इंडिया, टॉप्स से खेल व्यवस्था"
+    ],
+    "why": "पैरा खिलाड़ियों की उपलब्धियां देशभर के युवाओं को प्रेरित करती हैं।",
+    "cat": "भारत · पैरा खेल",
+    "statl": "एशियन पैरा गेम्स में रिकॉर्ड पदक"
+   },
+   "d": "06.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "25 ఏళ్లు",
+   "statl": "పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
+   "h": "ఇరాన్‌లో మిగిలినదాన్నీ ధ్వంసం చేయాల్సి రావచ్చు: ట్రంప్ హెచ్చరిక",
+   "p": "ఇరాన్‌లో మిగిలిన భాగాన్ని కూడా అమెరికా ధ్వంసం చేయాల్సి రావచ్చని అధ్యక్షుడు డొనాల్డ్ ట్రంప్ హెచ్చరించారు. ఇరాన్ పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని, తాను చర్య తీసుకుంటే త్వరలోనే తెలుస్తుందని అన్నారు. మరోవైపు ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ అణు ప్రతిపాదనను అమెరికాకు పంపినట్లు సమాచారం; దాన్ని వాషింగ్టన్ పరిశీలిస్తోంది. తమ ఏడు డిమాండ్లు నెరవేరాలని టెహ్రాన్ ఎదురుచూస్తోంది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఇరాన్ పునర్నిర్మాణానికి 25 ఏళ్లు: ట్రంప్",
+    "ఖతార్ ద్వారా అమెరికాకు ఇరాన్ అణు ప్రతిపాదన",
+    "ఏడు డిమాండ్ల కోసం టెహ్రాన్ ఎదురుచూపు"
+   ],
+   "why": "గల్ఫ్‌లో ఉద్రిక్తతలు అక్కడ పనిచేసే తెలుగువారిపై, చమురు ధరలపై ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "US may have to destroy the rest of Iran: Trump warns",
+    "p": "US President Donald Trump warned that the US may have to destroy the rest of Iran as well. He said rebuilding Iran would take 25 years and that people would know soon enough if he acts. Meanwhile, Iran has reportedly sent a nuclear proposal to the US through Qatari mediators, which Washington is reviewing. Tehran is waiting for its seven demands to be met.",
+    "pts": [
+     "Rebuilding Iran will take 25 years: Trump",
+     "Iran sends nuclear proposal to US via Qatar",
+     "Tehran waits for its seven demands"
+    ],
+    "why": "Tensions in the Gulf may affect Telugu people working there and oil prices.",
+    "cat": "World · Iran",
+    "statl": "Rebuilding time, says Trump"
+   },
+   "hi": {
+    "h": "ईरान का बाकी हिस्सा भी तबाह करना पड़ सकता है: ट्रंप की चेतावनी",
+    "p": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चेतावनी दी कि अमेरिका को ईरान का बाकी हिस्सा भी तबाह करना पड़ सकता है। उन्होंने कहा कि ईरान के पुनर्निर्माण में 25 साल लगेंगे और अगर वे कार्रवाई करते हैं तो लोगों को जल्द ही पता चल जाएगा। इस बीच, खबरों के अनुसार ईरान ने कतर के मध्यस्थों के जरिए अमेरिका को परमाणु प्रस्ताव भेजा है, जिसकी वॉशिंगटन समीक्षा कर रहा है। तेहरान अपनी सात मांगें पूरी होने का इंतजार कर रहा है।",
+    "pts": [
+     "ईरान के पुनर्निर्माण में 25 साल: ट्रंप",
+     "ईरान ने कतर के जरिए अमेरिका को परमाणु प्रस्ताव भेजा",
+     "तेहरान को सात मांगों का इंतजार"
+    ],
+    "why": "खाड़ी में तनाव का असर वहां काम करने वाले तेलुगु लोगों और तेल कीमतों पर पड़ सकता है।",
+    "cat": "दुनिया · ईरान",
+    "statl": "पुनर्निर्माण का समय, ट्रंप के अनुसार"
+   },
+   "d": "06.11.2026",
+   "t": "07:35"
+  },
   {
    "cat": "తెలంగాణ · సైబర్ మోసం",
    "col": "--c-power",
