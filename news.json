@@ -1,8 +1,153 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T20:08:37+05:30",
+ "updated": "2026-11-06T20:48:02+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ప్రయాణం",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹4,000",
+   "statl": "నెలవారీ కామన్ పాస్ కొత్త ధర",
+   "h": "మెట్రో–ఆర్టీసీ కామన్ పాస్ ధరలు భారీగా తగ్గింపు; నవంబర్ 8 నుంచి అమలు",
+   "p": "హైదరాబాద్ మెట్రో, టీజీఎస్ఆర్టీసీ ఉమ్మడి పాస్ ధరలను నవంబర్ 8 నుంచి తగ్గిస్తున్నట్లు రవాణా మంత్రి పొన్నం ప్రభాకర్ ప్రకటించారు. రోజువారీ పాస్ ₹400 నుంచి ₹275కి, నెలవారీ పాస్ ₹8,500 నుంచి ₹4,000కి తగ్గింది. రోజు పాస్‌తో నాలుగు ప్రయాణాలు, నెల పాస్‌తో 50 రౌండ్ ట్రిప్పులు చేయవచ్చు. ప్రజా రవాణాను అందుబాటులోకి తేవడమే లక్ష్యమని ప్రభుత్వం తెలిపింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-to-cut-hyderabad-metro-rtc-pass-prices-from-november-8-3570531/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రోజువారీ పాస్: ₹400 నుంచి ₹275 (మెట్రో ₹200, బస్ ₹75)",
+    "నెలవారీ పాస్: ₹8,500 నుంచి ₹4,000 (మెట్రో ₹3,000, బస్ ₹1,000)",
+    "నెల పాస్‌దారులకు ₹4,500, రోజు పాస్‌దారులకు ₹125 ఆదా"
+   ],
+   "why": "మెట్రో, సిటీ బస్సుల్లో రోజూ ప్రయాణించే హైదరాబాద్ ఉద్యోగులు, విద్యార్థులకు ఖర్చు తగ్గుతుంది.",
+   "en": {
+    "h": "Hyderabad Metro–RTC common pass fares cut sharply from November 8",
+    "p": "Transport Minister Ponnam Prabhakar announced that fares of the joint Hyderabad Metro and TGSRTC pass will be reduced from November 8. The daily pass is cut from Rs 400 to Rs 275 and the monthly pass from Rs 8,500 to Rs 4,000. The daily pass allows four journeys and the monthly pass 50 round trips. The government said the aim is to make public transport affordable.",
+    "pts": [
+     "Daily pass: Rs 400 to Rs 275 (Metro Rs 200, bus Rs 75)",
+     "Monthly pass: Rs 8,500 to Rs 4,000 (Metro Rs 3,000, bus Rs 1,000)",
+     "Monthly users save Rs 4,500, daily users Rs 125"
+    ],
+    "why": "Hyderabad employees and students who use Metro and city buses daily will spend less.",
+    "cat": "Hyderabad · Transport",
+    "statl": "New monthly common pass fare"
+   },
+   "hi": {
+    "h": "हैदराबाद मेट्रो–आरटीसी कॉमन पास के दाम घटे; 8 नवंबर से लागू",
+    "p": "परिवहन मंत्री पोन्नम प्रभाकर ने घोषणा की कि हैदराबाद मेट्रो और टीजीएसआरटीसी के संयुक्त पास के दाम 8 नवंबर से घटाए जाएंगे। दैनिक पास ₹400 से ₹275 और मासिक पास ₹8,500 से ₹4,000 हो गया है। दैनिक पास से चार यात्राएं और मासिक पास से 50 राउंड ट्रिप की जा सकती हैं। सरकार ने कहा कि लक्ष्य सार्वजनिक परिवहन को सस्ता बनाना है।",
+    "pts": [
+     "दैनिक पास: ₹400 से ₹275 (मेट्रो ₹200, बस ₹75)",
+     "मासिक पास: ₹8,500 से ₹4,000 (मेट्रो ₹3,000, बस ₹1,000)",
+     "मासिक पास धारकों को ₹4,500, दैनिक को ₹125 की बचत"
+    ],
+    "why": "रोज़ मेट्रो और सिटी बस से सफर करने वाले हैदराबाद के कर्मचारियों और छात्रों का खर्च घटेगा।",
+    "cat": "हैदराबाद · परिवहन",
+    "statl": "मासिक कॉमन पास का नया दाम"
+   },
+   "d": "06.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "అస్సాం · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "35–90%",
+   "statl": "క్షతగాత్రులకు కాలిన గాయాలు",
+   "h": "అస్సాంలో ఆయిల్ ఇండియా కేంద్రంలో పేలుడు, మంటలు; ఒకరు మృతి",
+   "p": "అస్సాంలోని దిబ్రూగఢ్ జిల్లా టెంగాఖాట్‌లో ఆయిల్ ఇండియా లిమిటెడ్ ఇంటర్మీడియట్ ట్యాంక్ ఫామ్‌లో శుక్రవారం ఉదయం నిర్వహణ పనుల సమయంలో పేలుడుతో మంటలు చెలరేగాయి. ఒకరు మృతి చెందగా, ఆరుగురు తీవ్రంగా గాయపడ్డారు. వారంతా కాంట్రాక్టు సంస్థ ఉద్యోగులు. మంటలు అదుపులోకి వచ్చాయని, ప్రజలను ఖాళీ చేయించాల్సిన అవసరం లేదని జిల్లా అధికారులు తెలిపారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/one-killed-six-critically-injured-in-fire-at-oil-india-facility-in-assam/3092611/",
+   "sec": [
+    "india"
+   ],
+   "st": "AS",
+   "place": "IN",
+   "loc": "దిబ్రూగఢ్",
+   "pts": [
+    "ఉదయం 9.05కి నిర్వహణ పనుల్లో పేలుడు, మంటలు",
+    "గాయపడిన ఆరుగురికి దిబ్రూగఢ్ ఏఎంసీహెచ్‌లో చికిత్స",
+    "ప్రమాద కారణంపై జిల్లా యంత్రాంగం దర్యాప్తు"
+   ],
+   "why": "చమురు కేంద్రాల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ప్రమాదం మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
+   "en": {
+    "h": "Explosion and fire at Oil India facility in Assam; one dead",
+    "p": "An explosion triggered a fire during maintenance work at Oil India Limited's Intermediate Tank Farm in Tengakhat, Assam's Dibrugarh district, on Friday morning. One person died and six were critically injured. All were employees of a contractor firm. District officials said the fire was brought under control and there was no need to evacuate people.",
+    "pts": [
+     "Explosion and fire during maintenance at 9.05 am",
+     "Six injured being treated at AMCH, Dibrugarh",
+     "District administration to probe the cause"
+    ],
+    "why": "The accident again raises questions about the safety of workers at oil facilities.",
+    "cat": "Assam · Accident",
+    "statl": "Burns suffered by the injured"
+   },
+   "hi": {
+    "h": "असम में ऑयल इंडिया केंद्र में विस्फोट और आग; एक की मौत",
+    "p": "असम के डिब्रूगढ़ जिले के टेंगाखाट में ऑयल इंडिया लिमिटेड के इंटरमीडिएट टैंक फार्म में शुक्रवार सुबह रखरखाव कार्य के दौरान विस्फोट से आग लग गई। एक व्यक्ति की मौत हो गई और छह गंभीर रूप से घायल हुए। सभी एक ठेका कंपनी के कर्मचारी थे। जिला अधिकारियों ने कहा कि आग पर काबू पा लिया गया है और लोगों को निकालने की जरूरत नहीं है।",
+    "pts": [
+     "सुबह 9.05 बजे रखरखाव के दौरान विस्फोट और आग",
+     "छह घायलों का डिब्रूगढ़ के एएमसीएच में इलाज",
+     "जिला प्रशासन कारण की जांच करेगा"
+    ],
+    "why": "यह हादसा तेल केंद्रों में काम करने वाले मजदूरों की सुरक्षा पर फिर सवाल उठाता है।",
+    "cat": "असम · हादसा",
+    "statl": "घायलों को झुलसने के घाव"
+   },
+   "d": "06.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఆహార భద్రత",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "TG SAFE",
+   "statl": "భద్రాద్రిలో ఆహార తనిఖీలు",
+   "h": "భద్రాద్రి కొత్తగూడెంలో ఆహార తనిఖీలు; పలు హోటళ్లు, టిఫిన్ సెంటర్లు మూసివేత",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లాలో తెలంగాణ ఆహార భద్రత సంస్థ (టీజీ సేఫ్) అధికారులు శుక్రవారం తనిఖీలు చేసి పలు హోటళ్లు, టిఫిన్ సెంటర్లను మూసివేయించారు. మరికొన్నింటికి షోకాజ్, మెరుగుదల నోటీసులు ఇచ్చారు. అపరిశుభ్ర వంటగదులు, బొద్దింకలు, తయారీ తేదీ లేని ఆహార పదార్థాలు గుర్తించారు. దాడులు కొనసాగుతున్నాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/several-tiffin-centres-closed-down-after-raids-in-telangana-3570729/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "pts": [
+    "అపరిశుభ్ర వంటగదులు, బొద్దింకలు గుర్తింపు",
+    "తయారీ తేదీ లేని ఆహార పదార్థాలు",
+    "పెస్ట్ కంట్రోల్, ఆరోగ్య రికార్డులు లేవు"
+   ],
+   "why": "బయట తినే ప్రజల ఆరోగ్య రక్షణకు ఈ తనిఖీలు ముఖ్యం.",
+   "en": {
+    "h": "Food safety raids in Bhadradri Kothagudem; several hotels, tiffin centres shut",
+    "p": "Officials of the Telangana Standards Authority for Food and Essential Drugs (TG SAFE) inspected eateries in Bhadradri Kothagudem district on Friday and ordered several hotels and tiffin centres closed. Show cause and improvement notices were issued to others. They found unclean kitchens, cockroaches and food items without a manufacturing date. The raids are continuing.",
+    "pts": [
+     "Unclean kitchens and cockroaches found",
+     "Food items without manufacturing date",
+     "No pest control or health records"
+    ],
+    "why": "These inspections matter for the health of people who eat outside.",
+    "cat": "Telangana · Food safety",
+    "statl": "Food inspections in Bhadradri"
+   },
+   "hi": {
+    "h": "भद्राद्री कोठागुडेम में खाद्य जांच; कई होटल, टिफिन सेंटर बंद",
+    "p": "तेलंगाना खाद्य सुरक्षा प्राधिकरण (टीजी सेफ) के अधिकारियों ने शुक्रवार को भद्राद्री कोठागुडेम जिले में जांच कर कई होटल और टिफिन सेंटर बंद कराए। अन्य को कारण बताओ और सुधार नोटिस दिए गए। गंदी रसोई, कॉकरोच और बिना निर्माण तिथि वाले खाद्य पदार्थ मिले। छापे जारी हैं।",
+    "pts": [
+     "गंदी रसोई और कॉकरोच मिले",
+     "बिना निर्माण तिथि वाले खाद्य पदार्थ",
+     "पेस्ट कंट्रोल और स्वास्थ्य रिकॉर्ड नहीं"
+    ],
+    "why": "बाहर खाना खाने वाले लोगों के स्वास्थ्य के लिए ये जांच अहम हैं।",
+    "cat": "तेलंगाना · खाद्य सुरक्षा",
+    "statl": "भद्राद्री में खाद्य जांच"
+   },
+   "d": "06.11.2026",
+   "t": "20:35"
+  },
   {
    "cat": "భారత్ · విద్య",
    "col": "--c-money",
@@ -1807,153 +1952,6 @@
     "why": "पुराने शहर जाने वाले यात्री और भक्त पहले से अपना रास्ता तय कर सकते हैं।",
     "cat": "हैदराबाद · ट्रैफिक",
     "statl": "चारमीनार के पास ट्रैफिक पाबंदी"
-   },
-   "d": "06.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఏసీబీ",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹1 లక్ష",
-   "statl": "లంచం తీసుకుంటూ పట్టుబడ్డ అధికారులు",
-   "h": "మహబూబ్‌నగర్‌లో ₹1 లక్ష లంచం; ఇద్దరు అధికారులను పట్టుకున్న ఏసీబీ",
-   "p": "మహబూబ్‌నగర్ జిల్లా యువజన, క్రీడల కార్యాలయంలో ఇద్దరు ఉద్యోగులు ₹1 లక్ష లంచం తీసుకుంటూ ఏసీబీకి పట్టుబడ్డారు. శాట్ వాలీబాల్ హాస్టల్ క్రీడాకారుల భోజనానికి సంబంధించిన ₹3.10 లక్షల బిల్లు విడుదలకు ఓ కేటరింగ్ కాంట్రాక్టర్‌ను లంచం అడిగారు. ఇద్దరినీ అరెస్టు చేసి నాంపల్లి ఏసీబీ ప్రత్యేక కోర్టులో హాజరుపరచనున్నారు.",
-   "pts": [
-    "జిల్లా యువజన, క్రీడల అధికారి, ఒక టైపిస్ట్ అరెస్టు",
-    "ఆగస్టు కేటరింగ్ బిల్లు ₹3.10 లక్షల కోసం లంచం డిమాండ్",
-    "నాంపల్లి ఏసీబీ ప్రత్యేక కోర్టుకు హాజరు"
-   ],
-   "why": "ప్రభుత్వ కార్యాలయాల్లో లంచం అడిగితే ఏసీబీకి ఫిర్యాదు చేయొచ్చని ఈ కేసు గుర్తు చేస్తుంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/2-govt-officials-caught-taking-rs-1l-bribe-in-mahabubnagar-3570360/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "mahabubnagar",
-   "en": {
-    "h": "ACB catches two officials taking ₹1 lakh bribe in Mahabubnagar",
-    "p": "Two employees of the Mahabubnagar District Youth and Sports Office were caught by the ACB while accepting a ₹1 lakh bribe. They had demanded it from a catering contractor to release a ₹3.10 lakh bill for meals served to athletes at the SATS volleyball hostel. Both were arrested and will be produced before the ACB special court at Nampally.",
-    "pts": [
-     "District Youth and Sports Officer, a typist arrested",
-     "Bribe demanded for ₹3.10 lakh August catering bill",
-     "To be produced before Nampally ACB special court"
-    ],
-    "why": "The case is a reminder that bribe demands in government offices can be reported to the ACB.",
-    "cat": "Telangana · ACB",
-    "statl": "Officials caught taking bribe"
-   },
-   "hi": {
-    "h": "महबूबनगर में ₹1 लाख की रिश्वत लेते दो अधिकारी एसीबी के हाथों पकड़े गए",
-    "p": "महबूबनगर जिला युवा एवं खेल कार्यालय के दो कर्मचारी ₹1 लाख की रिश्वत लेते हुए एसीबी के हाथों पकड़े गए। उन्होंने सैट्स वॉलीबॉल हॉस्टल के खिलाड़ियों के भोजन के ₹3.10 लाख के बिल को जारी करने के लिए एक कैटरिंग ठेकेदार से रिश्वत मांगी थी। दोनों को गिरफ्तार कर नामपल्ली की एसीबी विशेष अदालत में पेश किया जाएगा।",
-    "pts": [
-     "जिला युवा एवं खेल अधिकारी, एक टाइपिस्ट गिरफ्तार",
-     "अगस्त के ₹3.10 लाख कैटरिंग बिल के लिए रिश्वत मांगी",
-     "नामपल्ली एसीबी विशेष अदालत में पेशी"
-    ],
-    "why": "यह मामला याद दिलाता है कि सरकारी दफ्तरों में रिश्वत मांगने की शिकायत एसीबी से की जा सकती है।",
-    "cat": "तेलंगाना · एसीबी",
-    "statl": "रिश्वत लेते पकड़े गए अधिकारी"
-   },
-   "d": "06.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "కర్ణాటక · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "46,757",
-   "statl": "ప్రభుత్వ పాఠశాలలన్నింటిలో ద్విభాషా తరగతులు",
-   "h": "2027-28 నుంచి కర్ణాటక ప్రభుత్వ బడులన్నీ ద్విభాషా పాఠశాలలు",
-   "p": "2027-28 విద్యా సంవత్సరం నుంచి కర్ణాటకలోని అన్ని ప్రభుత్వ పాఠశాలల్లో ఇంగ్లీష్, కన్నడ మాధ్యమ తరగతులు ఉంటాయని విద్యాశాఖ మంత్రి మధు బంగారప్ప ప్రకటించారు. ప్రస్తుతం 46,757 ప్రభుత్వ బడుల్లో 9,522 బడుల్లోనే ద్విభాషా విభాగాలు ఉన్నాయి. శిక్షణ పొందిన టీచర్ల కొరతతో ఆలస్యమైంది; సుమారు 10,000 టీచర్ల నియామకం మొదలైంది.",
-   "pts": [
-    "ప్రస్తుతం 9,522 బడుల్లోనే ద్విభాషా విభాగాలు",
-    "సుమారు 10,000 టీచర్ల నియామకం ప్రారంభం",
-    "సుమారు 7,500 బడుల్లో ఎల్‌కేజీ, యూకేజీ తరగతులు"
-   ],
-   "why": "కర్ణాటకలో ఉంటున్న తెలుగు కుటుంబాలతో సహా ప్రభుత్వ బడుల్లో చదివే లక్షల మంది పిల్లలపై ప్రభావం.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/karnataka-to-make-all-govt-schools-bilingual-from-2027-28/",
-   "sec": [
-    "india",
-    "education"
-   ],
-   "st": "KA",
-   "place": "st-KA",
-   "en": {
-    "h": "All Karnataka government schools to be bilingual from 2027-28",
-    "p": "School Education Minister Madhu Bangarappa announced that all government schools in Karnataka will offer English and Kannada medium classes from the 2027-28 academic year. Currently only 9,522 of 46,757 government schools have bilingual sections. The plan was delayed by a shortage of trained teachers; recruitment of about 10,000 teachers has begun.",
-    "pts": [
-     "Only 9,522 schools have bilingual sections now",
-     "Recruitment of about 10,000 teachers begun",
-     "LKG, UKG classes in about 7,500 schools"
-    ],
-    "why": "Affects lakhs of children in government schools, including Telugu families living in Karnataka.",
-    "cat": "Karnataka · Education",
-    "statl": "Bilingual classes in all govt schools"
-   },
-   "hi": {
-    "h": "2027-28 से कर्नाटक के सभी सरकारी स्कूल द्विभाषी होंगे",
-    "p": "स्कूल शिक्षा मंत्री मधु बंगारप्पा ने घोषणा की कि 2027-28 शैक्षणिक वर्ष से कर्नाटक के सभी सरकारी स्कूलों में अंग्रेज़ी और कन्नड़ माध्यम की कक्षाएं होंगी। अभी 46,757 सरकारी स्कूलों में से केवल 9,522 में द्विभाषी सेक्शन हैं। प्रशिक्षित शिक्षकों की कमी से योजना में देरी हुई; लगभग 10,000 शिक्षकों की भर्ती शुरू हो गई है।",
-    "pts": [
-     "अभी केवल 9,522 स्कूलों में द्विभाषी सेक्शन",
-     "लगभग 10,000 शिक्षकों की भर्ती शुरू",
-     "लगभग 7,500 स्कूलों में एलकेजी, यूकेजी कक्षाएं"
-    ],
-    "why": "कर्नाटक में रहने वाले तेलुगु परिवारों सहित सरकारी स्कूलों के लाखों बच्चों पर असर।",
-    "cat": "कर्नाटक · शिक्षा",
-    "statl": "सभी सरकारी स्कूलों में द्विभाषी कक्षाएं"
-   },
-   "d": "06.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "భారత్ · టెలికాం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "8%",
-   "statl": "ఏజీఆర్‌పై శాట్‌కామ్ అనుమతి రుసుము",
-   "h": "శాటిలైట్ నెట్‌వర్క్ సంస్థలకు కొత్త అనుమతి విధానం సిఫార్సు చేసిన ట్రాయ్",
-   "p": "టెలికమ్యూనికేషన్స్ చట్టం-2023 కింద శాటిలైట్ కమ్యూనికేషన్ నెట్‌వర్క్ ప్రొవైడర్లకు ప్రత్యేక అనుమతి విధానాన్ని ట్రాయ్ సిఫార్సు చేసింది. ఈ సంస్థలు టెలికాం ఆపరేటర్లకు సామర్థ్యం అందించవచ్చు కానీ వినియోగదారులకు నేరుగా సేవలు అమ్మలేవు. సర్దుబాటు స్థూల ఆదాయంపై 8% రుసుము, అనుమతి గడువు 20 ఏళ్లు ప్రతిపాదించింది. శాటిలైట్ ద్వారా నేరుగా మొబైల్‌కు కనెక్టివిటీకి అవకాశం ఉంటుంది.",
-   "pts": [
-    "వినియోగదారులకు నేరుగా అమ్మకాలపై నిషేధం",
-    "ఏజీఆర్‌పై 8% రుసుము, కనీస రుసుము లేదు",
-    "అనుమతి 20 ఏళ్లు, మరో 20 ఏళ్లు పునరుద్ధరణ"
-   ],
-   "why": "స్టార్‌లింక్ వంటి శాటిలైట్ ఇంటర్నెట్ సేవలు భారత్‌లో ఎలా అందుతాయో ఈ నిబంధనలు నిర్ణయిస్తాయి.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/trai-proposes-satellite-network-as-a-service-model-bars-direct-sales/",
-   "sec": [
-    "india",
-    "ai",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "TRAI recommends new authorisation for satellite network providers",
-    "p": "TRAI has recommended a separate authorisation for satellite communication network providers under the Telecommunications Act, 2023. These firms can supply capacity to telecom operators but cannot sell services directly to consumers. It proposed an 8% fee on adjusted gross revenue and a 20-year authorisation. Direct-to-mobile connectivity via satellite will be allowed.",
-    "pts": [
-     "Direct sales to consumers barred",
-     "8% fee on AGR, no minimum fee",
-     "Valid 20 years, renewable for another 20"
-    ],
-    "why": "These rules will shape how satellite internet services like Starlink reach users in India.",
-    "cat": "India · Telecom",
-    "statl": "Satcom authorisation fee on AGR"
-   },
-   "hi": {
-    "h": "ट्राई ने सैटेलाइट नेटवर्क कंपनियों के लिए नई अनुमति व्यवस्था की सिफारिश की",
-    "p": "ट्राई ने दूरसंचार अधिनियम 2023 के तहत सैटेलाइट संचार नेटवर्क प्रदाताओं के लिए अलग अनुमति व्यवस्था की सिफारिश की है। ये कंपनियां टेलीकॉम ऑपरेटरों को क्षमता दे सकेंगी, लेकिन उपभोक्ताओं को सीधे सेवाएं नहीं बेच सकेंगी। समायोजित सकल राजस्व पर 8% शुल्क और 20 साल की अनुमति का प्रस्ताव है। सैटेलाइट से सीधे मोबाइल कनेक्टिविटी की अनुमति होगी।",
-    "pts": [
-     "उपभोक्ताओं को सीधी बिक्री पर रोक",
-     "एजीआर पर 8% शुल्क, कोई न्यूनतम शुल्क नहीं",
-     "20 साल वैध, अगले 20 साल के लिए नवीनीकरण"
-    ],
-    "why": "ये नियम तय करेंगे कि स्टारलिंक जैसी सैटेलाइट इंटरनेट सेवाएं भारत में कैसे पहुंचेंगी।",
-    "cat": "भारत · टेलीकॉम",
-    "statl": "एजीआर पर सैटकॉम अनुमति शुल्क"
    },
    "d": "06.11.2026",
    "t": "12:35"

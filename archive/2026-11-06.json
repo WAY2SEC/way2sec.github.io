@@ -1,8 +1,153 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 79,
+ "count": 82,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ప్రయాణం",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹4,000",
+   "statl": "నెలవారీ కామన్ పాస్ కొత్త ధర",
+   "h": "మెట్రో–ఆర్టీసీ కామన్ పాస్ ధరలు భారీగా తగ్గింపు; నవంబర్ 8 నుంచి అమలు",
+   "p": "హైదరాబాద్ మెట్రో, టీజీఎస్ఆర్టీసీ ఉమ్మడి పాస్ ధరలను నవంబర్ 8 నుంచి తగ్గిస్తున్నట్లు రవాణా మంత్రి పొన్నం ప్రభాకర్ ప్రకటించారు. రోజువారీ పాస్ ₹400 నుంచి ₹275కి, నెలవారీ పాస్ ₹8,500 నుంచి ₹4,000కి తగ్గింది. రోజు పాస్‌తో నాలుగు ప్రయాణాలు, నెల పాస్‌తో 50 రౌండ్ ట్రిప్పులు చేయవచ్చు. ప్రజా రవాణాను అందుబాటులోకి తేవడమే లక్ష్యమని ప్రభుత్వం తెలిపింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-to-cut-hyderabad-metro-rtc-pass-prices-from-november-8-3570531/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రోజువారీ పాస్: ₹400 నుంచి ₹275 (మెట్రో ₹200, బస్ ₹75)",
+    "నెలవారీ పాస్: ₹8,500 నుంచి ₹4,000 (మెట్రో ₹3,000, బస్ ₹1,000)",
+    "నెల పాస్‌దారులకు ₹4,500, రోజు పాస్‌దారులకు ₹125 ఆదా"
+   ],
+   "why": "మెట్రో, సిటీ బస్సుల్లో రోజూ ప్రయాణించే హైదరాబాద్ ఉద్యోగులు, విద్యార్థులకు ఖర్చు తగ్గుతుంది.",
+   "en": {
+    "h": "Hyderabad Metro–RTC common pass fares cut sharply from November 8",
+    "p": "Transport Minister Ponnam Prabhakar announced that fares of the joint Hyderabad Metro and TGSRTC pass will be reduced from November 8. The daily pass is cut from Rs 400 to Rs 275 and the monthly pass from Rs 8,500 to Rs 4,000. The daily pass allows four journeys and the monthly pass 50 round trips. The government said the aim is to make public transport affordable.",
+    "pts": [
+     "Daily pass: Rs 400 to Rs 275 (Metro Rs 200, bus Rs 75)",
+     "Monthly pass: Rs 8,500 to Rs 4,000 (Metro Rs 3,000, bus Rs 1,000)",
+     "Monthly users save Rs 4,500, daily users Rs 125"
+    ],
+    "why": "Hyderabad employees and students who use Metro and city buses daily will spend less.",
+    "cat": "Hyderabad · Transport",
+    "statl": "New monthly common pass fare"
+   },
+   "hi": {
+    "h": "हैदराबाद मेट्रो–आरटीसी कॉमन पास के दाम घटे; 8 नवंबर से लागू",
+    "p": "परिवहन मंत्री पोन्नम प्रभाकर ने घोषणा की कि हैदराबाद मेट्रो और टीजीएसआरटीसी के संयुक्त पास के दाम 8 नवंबर से घटाए जाएंगे। दैनिक पास ₹400 से ₹275 और मासिक पास ₹8,500 से ₹4,000 हो गया है। दैनिक पास से चार यात्राएं और मासिक पास से 50 राउंड ट्रिप की जा सकती हैं। सरकार ने कहा कि लक्ष्य सार्वजनिक परिवहन को सस्ता बनाना है।",
+    "pts": [
+     "दैनिक पास: ₹400 से ₹275 (मेट्रो ₹200, बस ₹75)",
+     "मासिक पास: ₹8,500 से ₹4,000 (मेट्रो ₹3,000, बस ₹1,000)",
+     "मासिक पास धारकों को ₹4,500, दैनिक को ₹125 की बचत"
+    ],
+    "why": "रोज़ मेट्रो और सिटी बस से सफर करने वाले हैदराबाद के कर्मचारियों और छात्रों का खर्च घटेगा।",
+    "cat": "हैदराबाद · परिवहन",
+    "statl": "मासिक कॉमन पास का नया दाम"
+   },
+   "d": "06.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "అస్సాం · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "35–90%",
+   "statl": "క్షతగాత్రులకు కాలిన గాయాలు",
+   "h": "అస్సాంలో ఆయిల్ ఇండియా కేంద్రంలో పేలుడు, మంటలు; ఒకరు మృతి",
+   "p": "అస్సాంలోని దిబ్రూగఢ్ జిల్లా టెంగాఖాట్‌లో ఆయిల్ ఇండియా లిమిటెడ్ ఇంటర్మీడియట్ ట్యాంక్ ఫామ్‌లో శుక్రవారం ఉదయం నిర్వహణ పనుల సమయంలో పేలుడుతో మంటలు చెలరేగాయి. ఒకరు మృతి చెందగా, ఆరుగురు తీవ్రంగా గాయపడ్డారు. వారంతా కాంట్రాక్టు సంస్థ ఉద్యోగులు. మంటలు అదుపులోకి వచ్చాయని, ప్రజలను ఖాళీ చేయించాల్సిన అవసరం లేదని జిల్లా అధికారులు తెలిపారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/one-killed-six-critically-injured-in-fire-at-oil-india-facility-in-assam/3092611/",
+   "sec": [
+    "india"
+   ],
+   "st": "AS",
+   "place": "IN",
+   "loc": "దిబ్రూగఢ్",
+   "pts": [
+    "ఉదయం 9.05కి నిర్వహణ పనుల్లో పేలుడు, మంటలు",
+    "గాయపడిన ఆరుగురికి దిబ్రూగఢ్ ఏఎంసీహెచ్‌లో చికిత్స",
+    "ప్రమాద కారణంపై జిల్లా యంత్రాంగం దర్యాప్తు"
+   ],
+   "why": "చమురు కేంద్రాల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ప్రమాదం మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
+   "en": {
+    "h": "Explosion and fire at Oil India facility in Assam; one dead",
+    "p": "An explosion triggered a fire during maintenance work at Oil India Limited's Intermediate Tank Farm in Tengakhat, Assam's Dibrugarh district, on Friday morning. One person died and six were critically injured. All were employees of a contractor firm. District officials said the fire was brought under control and there was no need to evacuate people.",
+    "pts": [
+     "Explosion and fire during maintenance at 9.05 am",
+     "Six injured being treated at AMCH, Dibrugarh",
+     "District administration to probe the cause"
+    ],
+    "why": "The accident again raises questions about the safety of workers at oil facilities.",
+    "cat": "Assam · Accident",
+    "statl": "Burns suffered by the injured"
+   },
+   "hi": {
+    "h": "असम में ऑयल इंडिया केंद्र में विस्फोट और आग; एक की मौत",
+    "p": "असम के डिब्रूगढ़ जिले के टेंगाखाट में ऑयल इंडिया लिमिटेड के इंटरमीडिएट टैंक फार्म में शुक्रवार सुबह रखरखाव कार्य के दौरान विस्फोट से आग लग गई। एक व्यक्ति की मौत हो गई और छह गंभीर रूप से घायल हुए। सभी एक ठेका कंपनी के कर्मचारी थे। जिला अधिकारियों ने कहा कि आग पर काबू पा लिया गया है और लोगों को निकालने की जरूरत नहीं है।",
+    "pts": [
+     "सुबह 9.05 बजे रखरखाव के दौरान विस्फोट और आग",
+     "छह घायलों का डिब्रूगढ़ के एएमसीएच में इलाज",
+     "जिला प्रशासन कारण की जांच करेगा"
+    ],
+    "why": "यह हादसा तेल केंद्रों में काम करने वाले मजदूरों की सुरक्षा पर फिर सवाल उठाता है।",
+    "cat": "असम · हादसा",
+    "statl": "घायलों को झुलसने के घाव"
+   },
+   "d": "06.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఆహార భద్రత",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "TG SAFE",
+   "statl": "భద్రాద్రిలో ఆహార తనిఖీలు",
+   "h": "భద్రాద్రి కొత్తగూడెంలో ఆహార తనిఖీలు; పలు హోటళ్లు, టిఫిన్ సెంటర్లు మూసివేత",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లాలో తెలంగాణ ఆహార భద్రత సంస్థ (టీజీ సేఫ్) అధికారులు శుక్రవారం తనిఖీలు చేసి పలు హోటళ్లు, టిఫిన్ సెంటర్లను మూసివేయించారు. మరికొన్నింటికి షోకాజ్, మెరుగుదల నోటీసులు ఇచ్చారు. అపరిశుభ్ర వంటగదులు, బొద్దింకలు, తయారీ తేదీ లేని ఆహార పదార్థాలు గుర్తించారు. దాడులు కొనసాగుతున్నాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/several-tiffin-centres-closed-down-after-raids-in-telangana-3570729/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "pts": [
+    "అపరిశుభ్ర వంటగదులు, బొద్దింకలు గుర్తింపు",
+    "తయారీ తేదీ లేని ఆహార పదార్థాలు",
+    "పెస్ట్ కంట్రోల్, ఆరోగ్య రికార్డులు లేవు"
+   ],
+   "why": "బయట తినే ప్రజల ఆరోగ్య రక్షణకు ఈ తనిఖీలు ముఖ్యం.",
+   "en": {
+    "h": "Food safety raids in Bhadradri Kothagudem; several hotels, tiffin centres shut",
+    "p": "Officials of the Telangana Standards Authority for Food and Essential Drugs (TG SAFE) inspected eateries in Bhadradri Kothagudem district on Friday and ordered several hotels and tiffin centres closed. Show cause and improvement notices were issued to others. They found unclean kitchens, cockroaches and food items without a manufacturing date. The raids are continuing.",
+    "pts": [
+     "Unclean kitchens and cockroaches found",
+     "Food items without manufacturing date",
+     "No pest control or health records"
+    ],
+    "why": "These inspections matter for the health of people who eat outside.",
+    "cat": "Telangana · Food safety",
+    "statl": "Food inspections in Bhadradri"
+   },
+   "hi": {
+    "h": "भद्राद्री कोठागुडेम में खाद्य जांच; कई होटल, टिफिन सेंटर बंद",
+    "p": "तेलंगाना खाद्य सुरक्षा प्राधिकरण (टीजी सेफ) के अधिकारियों ने शुक्रवार को भद्राद्री कोठागुडेम जिले में जांच कर कई होटल और टिफिन सेंटर बंद कराए। अन्य को कारण बताओ और सुधार नोटिस दिए गए। गंदी रसोई, कॉकरोच और बिना निर्माण तिथि वाले खाद्य पदार्थ मिले। छापे जारी हैं।",
+    "pts": [
+     "गंदी रसोई और कॉकरोच मिले",
+     "बिना निर्माण तिथि वाले खाद्य पदार्थ",
+     "पेस्ट कंट्रोल और स्वास्थ्य रिकॉर्ड नहीं"
+    ],
+    "why": "बाहर खाना खाने वाले लोगों के स्वास्थ्य के लिए ये जांच अहम हैं।",
+    "cat": "तेलंगाना · खाद्य सुरक्षा",
+    "statl": "भद्राद्री में खाद्य जांच"
+   },
+   "d": "06.11.2026",
+   "t": "20:35"
+  },
   {
    "cat": "భారత్ · విద్య",
    "col": "--c-money",
