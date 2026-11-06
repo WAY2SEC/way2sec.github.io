@@ -1,8 +1,106 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T08:40:13+05:30",
+ "updated": "2026-11-06T09:07:45+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "నవంబర్ 11",
+   "statl": "బంగాళాఖాతంలో మరో అల్పపీడనం అవకాశం",
+   "h": "మరో అల్పపీడనం ముప్పు; తెలంగాణలో 18 జిల్లాలకు ఎల్లో అలర్ట్",
+   "p": "నవంబర్ 11 ప్రాంతంలో ఆగ్నేయ బంగాళాఖాతం, దక్షిణ అండమాన్ సముద్రంపై ఉపరితల ఆవర్తనం ఏర్పడి అల్పపీడనంగా మారే అవకాశం ఉందని అమరావతి వాతావరణ కేంద్రం తెలిపింది. అది బలపడుతుందా అనేది ఇంకా తెలియదు. హైదరాబాద్ సహా తెలంగాణలోని 18 జిల్లాలకు హైదరాబాద్ వాతావరణ కేంద్రం ఎల్లో అలర్ట్ ఇచ్చింది. ఏపీలో నేడు కొన్ని జిల్లాల్లో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/heavy-rain-warning-for-ap-telangana-as-another-low-pressure-likely-1139798",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నవంబర్ 11న అల్పపీడనం ఏర్పడే అవకాశం",
+    "హైదరాబాద్, ఖమ్మం, వరంగల్ సహా 18 జిల్లాలకు ఎల్లో అలర్ట్",
+    "పొంగుతున్న వాగులు, కాజ్‌వేలు దాటవద్దని ఏపీ విపత్తు సంస్థ సూచన"
+   ],
+   "why": "అర్నబ్, మురసు తుపానులతో ఇప్పటికే పంటలు నష్టపోయిన రైతులు, లోతట్టు ప్రాంతాల ప్రజలు అప్రమత్తంగా ఉండాలి.",
+   "en": {
+    "h": "Another low pressure likely; yellow alert for 18 Telangana districts",
+    "p": "The Amaravati Meteorological Centre said a cyclonic circulation may form over the south-eastern Bay of Bengal and south Andaman Sea around November 11 and could become a low-pressure area. It is not yet clear whether it will intensify. The Hyderabad Meteorological Department issued a yellow alert for 18 Telangana districts including Hyderabad. Parts of AP may get light to moderate rain today.",
+    "pts": [
+     "Low pressure likely to form around November 11",
+     "Yellow alert for 18 districts incl. Hyderabad, Khammam, Warangal",
+     "AP disaster agency: don't cross overflowing streams, causeways"
+    ],
+    "why": "Farmers already hit by cyclones Arnab and Murasu and people in low-lying areas should stay alert.",
+    "cat": "Telangana · Weather",
+    "statl": "Another low pressure possible in Bay of Bengal"
+   },
+   "hi": {
+    "h": "एक और कम दबाव का खतरा; तेलंगाना के 18 जिलों में येलो अलर्ट",
+    "p": "अमरावती मौसम केंद्र ने कहा कि 11 नवंबर के आसपास दक्षिण-पूर्व बंगाल की खाड़ी और दक्षिण अंडमान सागर पर चक्रवाती परिसंचरण बनकर कम दबाव क्षेत्र में बदल सकता है। यह तेज़ होगा या नहीं, अभी स्पष्ट नहीं है। हैदराबाद मौसम विभाग ने हैदराबाद समेत तेलंगाना के 18 जिलों में येलो अलर्ट जारी किया। आंध्र प्रदेश के कुछ जिलों में आज हल्की से मध्यम बारिश हो सकती है।",
+    "pts": [
+     "11 नवंबर के आसपास कम दबाव बनने की संभावना",
+     "हैदराबाद, खम्मम, वारंगल समेत 18 जिलों में येलो अलर्ट",
+     "आंध्र आपदा प्राधिकरण: उफनती नदियाँ, कॉजवे पार न करें"
+    ],
+    "why": "अर्णब और मुरसु चक्रवातों से फसल नुकसान झेल चुके किसानों और निचले इलाकों के लोगों को सतर्क रहना चाहिए।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "बंगाल की खाड़ी में एक और कम दबाव संभव"
+   },
+   "d": "06.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "భారత్ · స్టాక్ మార్కెట్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+6,064",
+   "statl": "ఆరు సెషన్లలో సెన్సెక్స్ లాభం (పాయింట్లు)",
+   "h": "దీపావళి ముందు సెన్సెక్స్ జోరు: ఆరు రోజుల్లో 6,064 పాయింట్లు అప్",
+   "p": "గత ఆరు ట్రేడింగ్ సెషన్లలో సెన్సెక్స్ 8.3%, నిఫ్టీ 8.1% పెరిగాయి. సెన్సెక్స్ 79,300 పైన, నిఫ్టీ 24,500 పైన ఉన్నాయి. 1992లో ఎన్ఎస్ఈలో ముహూరత్ ట్రేడింగ్ మొదలైనప్పటి నుంచి ఇదే అత్యుత్తమ దీపావళి ముందు ర్యాలీ దిశగా సాగుతోంది. విదేశీ ఇన్వెస్టర్లు ఈ కాలంలో ₹18,661 కోట్ల షేర్లు కొన్నారు.",
+   "src": "Business Standard",
+   "url": "https://www.business-standard.com/amp/markets/news/sensex-up-6-064-pts-in-six-days-eyes-strongest-pre-diwali-rally-in-35-yrs-126110600091_1.html",
+   "sec": [
+    "business",
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఇంతకుముందు రికార్డు: 2020లో సెన్సెక్స్ 7% ర్యాలీ",
+    "బ్రెంట్ ముడిచమురు బ్యారెల్ $95 దిగువకు పతనం",
+    "అమెరికా 10 ఏళ్ల బాండ్ రాబడి 4.8%కు తగ్గింది"
+   ],
+   "why": "దీపావళి ముహూరత్ ట్రేడింగ్ ముందు షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టేవారికి ఇది కీలక సమాచారం.",
+   "en": {
+    "h": "Pre-Diwali Sensex surge: up 6,064 points in six days",
+    "p": "Over the last six trading sessions the Sensex rose 8.3% and the Nifty 8.1%. The Sensex is above 79,300 and the Nifty above 24,500. The markets are on course for the best pre-Diwali rally since Muhurat trading began on the NSE in 1992. Foreign investors bought shares worth ₹18,661 crore in this period.",
+    "pts": [
+     "Previous record: Sensex's 7% rally in 2020",
+     "Brent crude fell below $95 a barrel",
+     "US 10-year bond yield eased to 4.8%"
+    ],
+    "why": "Key information for people investing in shares and mutual funds ahead of Diwali Muhurat trading.",
+    "cat": "India · Stock market",
+    "statl": "Sensex gain in six sessions (points)"
+   },
+   "hi": {
+    "h": "दिवाली से पहले सेंसेक्स में तेज़ी: छह दिनों में 6,064 अंक ऊपर",
+    "p": "पिछले छह कारोबारी सत्रों में सेंसेक्स 8.3% और निफ्टी 8.1% चढ़े। सेंसेक्स 79,300 के ऊपर और निफ्टी 24,500 के ऊपर है। 1992 में एनएसई पर मुहूर्त ट्रेडिंग शुरू होने के बाद यह दिवाली से पहले की सबसे अच्छी तेज़ी की ओर है। विदेशी निवेशकों ने इस दौरान ₹18,661 करोड़ के शेयर खरीदे।",
+    "pts": [
+     "पिछला रिकॉर्ड: 2020 में सेंसेक्स की 7% तेज़ी",
+     "ब्रेंट कच्चा तेल $95 प्रति बैरल से नीचे",
+     "अमेरिकी 10 साल का बॉन्ड यील्ड 4.8% पर आया"
+    ],
+    "why": "दिवाली मुहूर्त ट्रेडिंग से पहले शेयर और म्यूचुअल फंड में निवेश करने वालों के लिए अहम जानकारी।",
+    "cat": "भारत · शेयर बाज़ार",
+    "statl": "छह सत्रों में सेंसेक्स की बढ़त (अंक)"
+   },
+   "d": "06.11.2026",
+   "t": "09:05"
+  },
   {
    "brk": true,
    "cat": "ప్రపంచం · మార్కెట్లు",
@@ -1854,103 +1952,6 @@
     "why": "मंडल और ज़िला परिषद स्तर पर ग्रामीण स्थानीय निकाय कौन चलाएगा, यह 7 नवंबर को तय होगा।",
     "cat": "आंध्र प्रदेश · परिषद चुनाव",
     "statl": "दोपहर 3 बजे तक मतदान"
-   },
-   "d": "05.11.2026",
-   "t": "17:35"
-  },
-  {
-   "cat": "ఏపీ · కర్నూలు",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "30",
-   "statl": "గుమ్మనూరు ఘర్షణలో గాయపడినవారు",
-   "h": "పరిషత్ పోలింగ్‌లో పలుచోట్ల ఘర్షణలు: కర్నూలు జిల్లాలో 30 మందికి గాయాలు",
-   "p": "పరిషత్ పోలింగ్ సందర్భంగా ఏపీలోని పలు ప్రాంతాల్లో రాజకీయ పార్టీల కార్యకర్తల మధ్య ఘర్షణలు జరిగాయి. కర్నూలు జిల్లా చిప్పగిరి మండలం గుమ్మనూరులో రెండు వర్గాలు రాళ్లు, కర్రలతో దాడి చేసుకోవడంతో 30 మంది గాయపడ్డారు. వారిని గుంతకల్లు ఆసుపత్రికి తరలించారు. కుప్పం, పోలవరం, వెంకటాచలం ప్రాంతాల్లోనూ ఉద్రిక్తత నెలకొంది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-kurnool",
-   "loc": "గుమ్మనూరు",
-   "pts": [
-    "కుప్పంలో రోడ్డుపై బైఠాయింపుతో 2 కి.మీ. ట్రాఫిక్ నిలిచింది",
-    "పోలవరంలో ఇరువర్గాలపై పోలీసుల లాఠీచార్జ్",
-    "సి.బెళగల్ మండలంలో ₹2 లక్షల నగదు స్వాధీనం"
-   ],
-   "why": "ఎన్నికల సమయంలో హింస ఓటర్ల భద్రతకు ముప్పు; ఇలాంటి చోట్ల పోలీసు బందోబస్తు కీలకం.",
-   "en": {
-    "h": "Clashes at several places during parishad polls; 30 injured in Kurnool district",
-    "p": "Clashes broke out between workers of political parties at several places in AP during parishad polling. At Gummanur in Chippagiri mandal of Kurnool district, two groups attacked each other with stones and sticks, injuring 30 people. They were shifted to a hospital in Guntakal. Tension was also seen in Kuppam, Polavaram and Venkatachalam areas.",
-    "pts": [
-     "Road blockade in Kuppam stopped traffic for 2 km",
-     "Police lathi-charged both groups in Polavaram",
-     "Rs 2 lakh cash seized in C. Belagal mandal"
-    ],
-    "why": "Violence during elections threatens voters' safety; police deployment is crucial in such places.",
-    "cat": "AP · Kurnool",
-    "statl": "Injured in Gummanur clash"
-   },
-   "hi": {
-    "h": "परिषद मतदान के दौरान कई जगह झड़पें: कर्नूल ज़िले में 30 घायल",
-    "p": "परिषद मतदान के दौरान आंध्र प्रदेश के कई इलाकों में राजनीतिक दलों के कार्यकर्ताओं के बीच झड़पें हुईं। कर्नूल ज़िले के चिप्पगिरि मंडल के गुम्मनूर में दो गुटों ने पत्थरों और लाठियों से हमला किया, जिसमें 30 लोग घायल हुए। उन्हें गुंतकल के अस्पताल ले जाया गया। कुप्पम, पोलावरम और वेंकटाचलम इलाकों में भी तनाव रहा।",
-    "pts": [
-     "कुप्पम में सड़क जाम से 2 किमी तक यातायात रुका",
-     "पोलावरम में पुलिस ने दोनों गुटों पर लाठीचार्ज किया",
-     "सी. बेलगल मंडल में ₹2 लाख नकद जब्त"
-    ],
-    "why": "चुनाव के समय हिंसा मतदाताओं की सुरक्षा के लिए खतरा है; ऐसी जगहों पर पुलिस तैनाती अहम है।",
-    "cat": "आंध्र प्रदेश · कर्नूल",
-    "statl": "गुम्मनूर झड़प में घायल"
-   },
-   "d": "05.11.2026",
-   "t": "17:35"
-  },
-  {
-   "cat": "జార్ఖండ్ · బొకారో",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3",
-   "statl": "బొగ్గు గని ప్రమాదంలో మృతులు",
-   "h": "జార్ఖండ్‌లోని బొకారోలో బొగ్గు గని ప్రమాదం: ముగ్గురు మృతి",
-   "p": "జార్ఖండ్ రాష్ట్రం బొకారోలో గురువారం బొగ్గు గనిలో ప్రమాదం జరిగింది. ఈ ఘటనలో ముగ్గురు ప్రాణాలు కోల్పోగా, మరో ముగ్గురు గాయపడ్డారు. గనుల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ఘటన మరోసారి దృష్టి సారించేలా చేసింది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-5th-november-2026-kjr-3703.html",
-   "sec": [
-    "india"
-   ],
-   "st": "JH",
-   "place": "IN",
-   "pts": [
-    "ప్రమాదం బొకారోలోని బొగ్గు గనిలో జరిగింది",
-    "ముగ్గురు మృతి చెందారు",
-    "మరో ముగ్గురికి గాయాలు"
-   ],
-   "why": "బొగ్గు గనుల్లో పనిచేసే కార్మికుల భద్రత ఎంత కీలకమో ఈ ఘటన చూపిస్తోంది.",
-   "en": {
-    "h": "Coal mine accident in Jharkhand's Bokaro: three dead",
-    "p": "An accident took place in a coal mine at Bokaro in Jharkhand on Thursday. Three people lost their lives and three others were injured. The incident has once again drawn attention to the safety of mine workers.",
-    "pts": [
-     "The accident occurred in a coal mine in Bokaro",
-     "Three people died",
-     "Three others were injured"
-    ],
-    "why": "The incident shows how crucial the safety of coal mine workers is.",
-    "cat": "Jharkhand · Bokaro",
-    "statl": "Dead in coal mine accident"
-   },
-   "hi": {
-    "h": "झारखंड के बोकारो में कोयला खदान हादसा: तीन की मौत",
-    "p": "झारखंड के बोकारो में गुरुवार को एक कोयला खदान में हादसा हुआ। इसमें तीन लोगों की जान चली गई और तीन अन्य घायल हुए। इस घटना ने खदान मज़दूरों की सुरक्षा पर फिर से ध्यान खींचा है।",
-    "pts": [
-     "हादसा बोकारो की कोयला खदान में हुआ",
-     "तीन लोगों की मौत हुई",
-     "तीन अन्य घायल हुए"
-    ],
-    "why": "यह घटना दिखाती है कि कोयला खदान मज़दूरों की सुरक्षा कितनी अहम है।",
-    "cat": "झारखंड · बोकारो",
-    "statl": "कोयला खदान हादसे में मृत"
    },
    "d": "05.11.2026",
    "t": "17:35"
