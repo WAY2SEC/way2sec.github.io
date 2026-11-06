@@ -1,8 +1,154 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T16:14:25+05:30",
+ "updated": "2026-11-06T16:39:50+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+1,718",
+   "statl": "సెన్సెక్స్ లాభం (పాయింట్లు)",
+   "h": "ధన్‌తేరస్ జోరు: సెన్సెక్స్ 1,718 పాయింట్లు జంప్, 25 వేలు దాటిన నిఫ్టీ",
+   "p": "ప్రపంచ మార్కెట్లు పడిపోయినా శుక్రవారం భారత స్టాక్ మార్కెట్లు భారీగా లాభపడ్డాయి. సెన్సెక్స్ 1,718.01 పాయింట్లు (2.17%) పెరిగి 81,028.02 వద్ద ముగిసింది. నిఫ్టీ 493.75 పాయింట్లు (2.01%) లాభంతో 25,030.35 వద్ద స్థిరపడింది. ధన్‌తేరస్ సెంటిమెంట్, విదేశీ సంస్థాగత పెట్టుబడిదారుల కొనుగోళ్లు మార్కెట్‌కు బలం ఇచ్చాయని నిపుణులు తెలిపారు.",
+   "pts": [
+    "వరుసగా ఏడో సెషన్‌లోనూ మార్కెట్ల లాభాలు",
+    "బ్యాంకింగ్, ఆర్థిక సేవల సూచీలు 2%కి పైగా పెరుగుదల",
+    "ఎం&ఎం, ఐసీఐసీఐ బ్యాంక్, టైటాన్ టాప్ గెయినర్లు"
+   ],
+   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన లక్షల మంది పెట్టుబడిదారుల సంపదపై ఈ ర్యాలీ ప్రభావం చూపుతుంది.",
+   "src": "ChiniMandi",
+   "url": "https://www.chinimandi.com/dhanteras-bonanza-on-d-street-sensex-jumps-1718-points-nifty-tops-25000/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "Dhanteras rally: Sensex jumps 1,718 points, Nifty crosses 25,000",
+    "p": "Indian stock markets surged on Friday despite falling global markets. The Sensex rose 1,718.01 points (2.17%) to close at 81,028.02. The Nifty gained 493.75 points (2.01%) to settle at 25,030.35. Experts said Dhanteras sentiment and buying by foreign institutional investors supported the market.",
+    "pts": [
+     "Markets gain for the seventh straight session",
+     "Banking, financial services indices rise over 2%",
+     "M&M, ICICI Bank, Titan among top gainers"
+    ],
+    "why": "The rally affects the wealth of lakhs of investors in shares and mutual funds.",
+    "cat": "India · Markets",
+    "statl": "Sensex gain (points)"
+   },
+   "hi": {
+    "h": "धनतेरस की तेजी: सेंसेक्स 1,718 अंक उछला, निफ्टी 25,000 के पार",
+    "p": "वैश्विक बाजारों में गिरावट के बावजूद शुक्रवार को भारतीय शेयर बाजार में जोरदार तेजी रही। सेंसेक्स 1,718.01 अंक (2.17%) चढ़कर 81,028.02 पर बंद हुआ। निफ्टी 493.75 अंक (2.01%) की बढ़त के साथ 25,030.35 पर रहा। विशेषज्ञों ने कहा कि धनतेरस के माहौल और विदेशी संस्थागत निवेशकों की खरीदारी से बाजार को सहारा मिला।",
+    "pts": [
+     "लगातार सातवें सत्र में बाजार में बढ़त",
+     "बैंकिंग, वित्तीय सेवा सूचकांक 2% से अधिक चढ़े",
+     "एमएंडएम, आईसीआईसीआई बैंक, टाइटन टॉप गेनर"
+    ],
+    "why": "इस तेजी का असर शेयरों और म्यूचुअल फंड में निवेश करने वाले लाखों निवेशकों की संपत्ति पर पड़ता है।",
+    "cat": "भारत · बाज़ार",
+    "statl": "सेंसेक्स में बढ़त (अंक)"
+   },
+   "d": "06.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · భూములు",
+   "col": "--c-money",
+   "art": "land",
+   "stat": "నవం 12–27",
+   "statl": "హెచ్‌ఎండీఏ ప్లాట్ల ఈ-వేలం తేదీలు",
+   "h": "హైదరాబాద్ పరిసరాల్లో ప్లాట్ల ఈ-వేలం షెడ్యూల్ ప్రకటించిన హెచ్‌ఎండీఏ",
+   "p": "హైదరాబాద్, పరిసర జిల్లాల్లోని నివాస, వాణిజ్య భూములను ఈ-వేలం వేయనున్నట్లు హెచ్‌ఎండీఏ ప్రకటించింది. కోకాపేట, రాయదుర్గం, నియోపోలిస్, మూసాపేట, బాచుపల్లి, అమీన్‌పూర్ తదితర ప్రాంతాల్లోని భూములకు నవంబర్ 12 నుంచి 27 వరకు వేలం జరుగుతుంది. నియోపోలిస్ ప్లాట్‌కు ఎకరాకు ₹120 కోట్లు, మూసాపేటకు ఎకరాకు ₹99 కోట్ల కనీస ధర నిర్ణయించారు.",
+   "pts": [
+    "బాచుపల్లిలో 50, ఇన్ముల్‌నర్వలో 45 చిన్న ప్లాట్లు",
+    "రిజిస్ట్రేషన్ రుసుము ₹1,180 (జీఎస్టీతో), తిరిగి ఇవ్వరు",
+    "hmda.gov.in, ఎంఎస్‌టీసీ వెబ్‌సైట్‌ల ద్వారా బిడ్డింగ్"
+   ],
+   "why": "హైదరాబాద్ చుట్టుపక్కల ఇంటి స్థలం లేదా వాణిజ్య భూమి కొనాలనుకునే వారికి ఇది అవకాశం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hmda-announces-auction-schedule-for-plots-in-hyderabad-outskirts-3570635/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "en": {
+    "h": "HMDA announces e-auction schedule for plots in and around Hyderabad",
+    "p": "HMDA has announced an e-auction of residential and commercial land in Hyderabad and nearby districts. Land in Kokapet, Raidurg, Neopolis, Moosapet, Bachupally, Ameenpur and other areas will be auctioned from November 12 to 27. The upset price is ₹120 crore per acre for the Neopolis plot and ₹99 crore per acre for Moosapet.",
+    "pts": [
+     "50 small plots in Bachupally, 45 in Inmulnarva",
+     "Registration fee ₹1,180 (with GST), non-refundable",
+     "Bidding via hmda.gov.in and the MSTC website"
+    ],
+    "why": "It is an opportunity for those wanting to buy house sites or commercial land around Hyderabad.",
+    "cat": "Hyderabad · Land",
+    "statl": "HMDA plot e-auction dates"
+   },
+   "hi": {
+    "h": "एचएमडीए ने हैदराबाद और आसपास के प्लॉटों की ई-नीलामी का कार्यक्रम घोषित किया",
+    "p": "एचएमडीए ने हैदराबाद और आसपास के जिलों में आवासीय और व्यावसायिक भूमि की ई-नीलामी की घोषणा की है। कोकापेट, रायदुर्गम, नियोपोलिस, मूसापेट, बाचुपल्ली, अमीनपुर और अन्य क्षेत्रों की भूमि की नीलामी 12 से 27 नवंबर तक होगी। नियोपोलिस प्लॉट के लिए न्यूनतम मूल्य ₹120 करोड़ प्रति एकड़ और मूसापेट के लिए ₹99 करोड़ प्रति एकड़ रखा गया है।",
+    "pts": [
+     "बाचुपल्ली में 50, इनमुलनर्वा में 45 छोटे प्लॉट",
+     "पंजीकरण शुल्क ₹1,180 (जीएसटी सहित), वापस नहीं होगा",
+     "hmda.gov.in और एमएसटीसी वेबसाइट से बोली"
+    ],
+    "why": "हैदराबाद के आसपास घर का प्लॉट या व्यावसायिक जमीन खरीदना चाहने वालों के लिए यह मौका है।",
+    "cat": "हैदराबाद · भूमि",
+    "statl": "एचएमडीए प्लॉट ई-नीलामी की तारीखें"
+   },
+   "d": "06.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "ప్రపంచం · గల్ఫ్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2",
+   "statl": "మంటల్లో చిక్కుకున్న ఆయిల్ ట్యాంకర్లు",
+   "h": "హార్ముజ్ జలసంధిలో మందుపాతరలు తగిలి రెండు ఆయిల్ ట్యాంకర్లలో మంటలు",
+   "p": "హార్ముజ్ జలసంధిలో మందుపాతరలను ఢీకొని రెండు చమురు ట్యాంకర్లు మంటల్లో చిక్కుకున్నాయని ఇరాన్ రివల్యూషనరీ గార్డ్స్ ప్రకటించాయి. ముందురోజు మరో ఐదు ట్యాంకర్లు దెబ్బతిన్నాయని కూడా అవి పేర్కొన్నాయి. అమెరికా తమ ఏడు షరతులకు అంగీకరించే వరకు హార్ముజ్‌ను తెరవబోమని ఇరాన్ స్పష్టం చేసింది. ఆసియా ట్రేడింగ్‌లో బ్రెంట్ ముడిచమురు బ్యారెల్‌కు $98.29కి పెరిగింది.",
+   "pts": [
+    "ఇరాన్ ఓడరేవులపై అమెరికా దిగ్బంధనం కొనసాగుతోంది",
+    "ఖతార్ ఎమిర్‌తో ట్రంప్ ఫోన్‌లో ఉద్రిక్తతల తగ్గింపుపై చర్చ",
+    "బ్రెంట్ ముడిచమురు ధర 3.88% పెరుగుదల"
+   ],
+   "why": "హార్ముజ్ మార్గం ద్వారానే భారత్‌కు చమురు ఎక్కువగా వస్తుంది; గల్ఫ్‌లోని తెలుగువారి భద్రతకూ ఇది కీలకం.",
+   "src": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Two oil tankers catch fire after hitting mines in Strait of Hormuz",
+    "p": "Iran's Revolutionary Guards said two oil tankers caught fire after hitting mines in the Strait of Hormuz. They had also claimed the previous day that five other tankers were hit. Iran said Hormuz will not reopen until the US accepts its seven conditions. Brent crude rose to $98.29 a barrel in Asian trade.",
+    "pts": [
+     "US blockade on Iranian ports continues",
+     "Trump discusses de-escalation with Qatar's Emir by phone",
+     "Brent crude price up 3.88%"
+    ],
+    "why": "Much of India's oil comes via the Hormuz route; it is also key to the safety of Telugu people in the Gulf.",
+    "cat": "World · Gulf",
+    "statl": "Oil tankers on fire"
+   },
+   "hi": {
+    "h": "होर्मुज़ जलडमरूमध्य में बारूदी सुरंगों से टकराकर दो तेल टैंकरों में आग",
+    "p": "ईरान के रिवोल्यूशनरी गार्ड्स ने कहा कि होर्मुज़ जलडमरूमध्य में बारूदी सुरंगों से टकराकर दो तेल टैंकरों में आग लग गई। उन्होंने एक दिन पहले पांच अन्य टैंकरों के प्रभावित होने का दावा भी किया था। ईरान ने कहा कि जब तक अमेरिका उसकी सात शर्तें नहीं मानता, होर्मुज़ नहीं खुलेगा। एशियाई कारोबार में ब्रेंट कच्चा तेल $98.29 प्रति बैरल पहुंच गया।",
+    "pts": [
+     "ईरानी बंदरगाहों पर अमेरिकी नाकेबंदी जारी",
+     "ट्रंप ने कतर के अमीर से फोन पर तनाव घटाने पर चर्चा की",
+     "ब्रेंट कच्चे तेल की कीमत 3.88% बढ़ी"
+    ],
+    "why": "भारत का अधिकांश तेल होर्मुज़ मार्ग से आता है; खाड़ी में रहने वाले तेलुगु लोगों की सुरक्षा के लिए भी यह अहम है।",
+    "cat": "दुनिया · खाड़ी",
+    "statl": "आग की चपेट में तेल टैंकर"
+   },
+   "d": "06.11.2026",
+   "t": "16:35"
+  },
   {
    "cat": "ఏపీ · ప్రకాశం",
    "col": "--c-power",
@@ -1809,151 +1955,6 @@
    },
    "d": "06.11.2026",
    "t": "09:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "52%",
-   "statl": "నిత్య రామన్‌కు వచ్చిన ఓట్లు",
-   "h": "లాస్ ఏంజెలెస్ మేయర్‌గా భారత్‌లో పుట్టిన నిత్య రామన్ విజయం",
-   "p": "లాస్ ఏంజెలెస్ మేయర్ ఎన్నికల్లో సిటీ కౌన్సిల్ సభ్యురాలు నిత్య రామన్ ప్రస్తుత మేయర్ కరెన్ బాస్‌ను ఓడించారు. 52% ఓట్లతో ఆమె గెలిచినట్లు అసోసియేటెడ్ ప్రెస్ వార్తా సంస్థ ప్రకటించింది. భారత్‌లో పుట్టిన 45 ఏళ్ల రామన్ ఆ నగరానికి తొలి దక్షిణాసియా మేయర్. అందుబాటు ధరల ఇళ్లు, మెరుగైన పౌర సేవలు అందిస్తామని హామీ ఇచ్చారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "లాస్ ఏంజెలెస్‌కు తొలి దక్షిణాసియా మేయర్",
-    "నగర జనాభా 38 లక్షలకు పైగా; 2028 ఒలింపిక్స్ వేదిక",
-    "20 ఏళ్లలో రెండోసారి గెలవలేకపోయిన తొలి మేయర్ కరెన్ బాస్"
-   ],
-   "why": "అమెరికాలో నివసిస్తున్న తెలుగు, భారతీయ సమాజానికి ఇది గర్వకారణమైన రాజకీయ పరిణామం.",
-   "en": {
-    "h": "India-born Nithya Raman wins Los Angeles mayoral race",
-    "p": "City Council member Nithya Raman defeated incumbent Mayor Karen Bass in the Los Angeles mayoral race. The Associated Press called the race with Raman at 52% of the vote. India-born Raman, 45, becomes the city's first South Asian mayor. She pledged affordable housing and better city services.",
-    "pts": [
-     "First South Asian mayor of Los Angeles",
-     "City of over 3.8 million; hosts 2028 Olympics",
-     "Karen Bass first LA mayor in 20+ years to lose re-election"
-    ],
-    "why": "A proud political moment for the Telugu and Indian community living in the US.",
-    "cat": "World · USA",
-    "statl": "Nithya Raman's vote share"
-   },
-   "hi": {
-    "h": "भारत में जन्मी नित्या रमन लॉस एंजेलिस की मेयर चुनी गईं",
-    "p": "लॉस एंजेलिस मेयर चुनाव में सिटी काउंसिल सदस्य नित्या रमन ने मौजूदा मेयर करेन बास को हराया। एपी समाचार एजेंसी ने 52% वोटों के साथ उनकी जीत घोषित की। भारत में जन्मी 45 वर्षीय रमन शहर की पहली दक्षिण एशियाई मेयर हैं। उन्होंने किफायती आवास और बेहतर नागरिक सेवाओं का वादा किया।",
-    "pts": [
-     "लॉस एंजेलिस की पहली दक्षिण एशियाई मेयर",
-     "38 लाख से अधिक आबादी; 2028 ओलंपिक का मेज़बान",
-     "करेन बास 20 से अधिक वर्षों में दोबारा चुनाव हारने वाली पहली मेयर"
-    ],
-    "why": "अमेरिका में रहने वाले तेलुगु और भारतीय समुदाय के लिए यह गर्व का राजनीतिक क्षण है।",
-    "cat": "दुनिया · अमेरिका",
-    "statl": "नित्या रमन का वोट प्रतिशत"
-   },
-   "d": "06.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "ప్రపంచం · రష్యా-ఉక్రెయిన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "~800",
-   "statl": "అక్టోబర్ సంధిలో తరలించిన పౌరులు",
-   "h": "రష్యా దూతతో ట్రంప్ భేటీ; ఉక్రెయిన్ ఒప్పందం చాలా దగ్గర్లో ఉందని వ్యాఖ్య",
-   "p": "వైట్‌హౌస్‌లో పుతిన్ ప్రత్యేక దూత కిరిల్ డిమిత్రియేవ్‌తో అమెరికా అధ్యక్షుడు ట్రంప్ సమావేశమయ్యారు. రష్యా-ఉక్రెయిన్ ఒప్పందం చాలా దగ్గర్లో ఉందని, అది యూరప్ అంతటినీ కలుపుకొని ఉండొచ్చని చెప్పారు. వివరాలు మాత్రం వెల్లడించలేదు. అంతకుముందు మెలానియా ట్రంప్ రష్యా, ఉక్రెయిన్ ప్రతినిధులతో సమావేశం నిర్వహించారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఒప్పందం వివరాలు చెప్పని ట్రంప్",
-    "ఉక్రెయిన్ బృందంతో ట్రంప్ భేటీ కాలేదు",
-    "ఖేర్సన్‌లో 6 రోజుల సంధిలో దాదాపు 800 మంది తరలింపు"
-   ],
-   "why": "రష్యా-ఉక్రెయిన్ యుద్ధం ముగింపుపై జరుగుతున్న చర్చల్లో ఇది తాజా పరిణామం; ప్రపంచమంతా దీనిపై దృష్టి పెట్టింది.",
-   "en": {
-    "h": "Trump meets Russian envoy; says Ukraine deal 'very close'",
-    "p": "US President Trump met Putin's special envoy Kirill Dmitriev at the White House. He said a Russia-Ukraine deal is very close and could involve all of Europe, but gave no details. Earlier, Melania Trump hosted a meeting with Russian and Ukrainian representatives.",
-    "pts": [
-     "Trump gave no details of the deal",
-     "Trump did not meet the Ukrainian delegation",
-     "Nearly 800 civilians evacuated in 6-day Kherson truce"
-    ],
-    "why": "This is the latest step in talks on ending the Russia-Ukraine war, which the world is watching closely.",
-    "cat": "World · Russia-Ukraine",
-    "statl": "Civilians evacuated in October truce"
-   },
-   "hi": {
-    "h": "ट्रंप की रूसी दूत से मुलाकात; बोले यूक्रेन समझौता 'बहुत करीब'",
-    "p": "अमेरिकी राष्ट्रपति ट्रंप ने व्हाइट हाउस में पुतिन के विशेष दूत किरिल दिमित्रियेव से मुलाकात की। उन्होंने कहा कि रूस-यूक्रेन समझौता बहुत करीब है और इसमें पूरा यूरोप शामिल हो सकता है, पर विवरण नहीं दिया। इससे पहले मेलानिया ट्रंप ने रूसी और यूक्रेनी प्रतिनिधियों के साथ बैठक की मेज़बानी की।",
-    "pts": [
-     "ट्रंप ने समझौते का विवरण नहीं दिया",
-     "ट्रंप यूक्रेनी प्रतिनिधिमंडल से नहीं मिले",
-     "खेरसॉन में 6 दिन के युद्धविराम में लगभग 800 नागरिक निकाले गए"
-    ],
-    "why": "रूस-यूक्रेन युद्ध खत्म करने की बातचीत में यह ताज़ा घटनाक्रम है, जिस पर पूरी दुनिया की नज़र है।",
-    "cat": "दुनिया · रूस-यूक्रेन",
-    "statl": "अक्टूबर युद्धविराम में निकाले गए नागरिक"
-   },
-   "d": "06.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "నవంబర్ 11",
-   "statl": "బంగాళాఖాతంలో మరో అల్పపీడనం అవకాశం",
-   "h": "మరో అల్పపీడనం ముప్పు; తెలంగాణలో 18 జిల్లాలకు ఎల్లో అలర్ట్",
-   "p": "నవంబర్ 11 ప్రాంతంలో ఆగ్నేయ బంగాళాఖాతం, దక్షిణ అండమాన్ సముద్రంపై ఉపరితల ఆవర్తనం ఏర్పడి అల్పపీడనంగా మారే అవకాశం ఉందని అమరావతి వాతావరణ కేంద్రం తెలిపింది. అది బలపడుతుందా అనేది ఇంకా తెలియదు. హైదరాబాద్ సహా తెలంగాణలోని 18 జిల్లాలకు హైదరాబాద్ వాతావరణ కేంద్రం ఎల్లో అలర్ట్ ఇచ్చింది. ఏపీలో నేడు కొన్ని జిల్లాల్లో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/heavy-rain-warning-for-ap-telangana-as-another-low-pressure-likely-1139798",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "నవంబర్ 11న అల్పపీడనం ఏర్పడే అవకాశం",
-    "హైదరాబాద్, ఖమ్మం, వరంగల్ సహా 18 జిల్లాలకు ఎల్లో అలర్ట్",
-    "పొంగుతున్న వాగులు, కాజ్‌వేలు దాటవద్దని ఏపీ విపత్తు సంస్థ సూచన"
-   ],
-   "why": "అర్నబ్, మురసు తుపానులతో ఇప్పటికే పంటలు నష్టపోయిన రైతులు, లోతట్టు ప్రాంతాల ప్రజలు అప్రమత్తంగా ఉండాలి.",
-   "en": {
-    "h": "Another low pressure likely; yellow alert for 18 Telangana districts",
-    "p": "The Amaravati Meteorological Centre said a cyclonic circulation may form over the south-eastern Bay of Bengal and south Andaman Sea around November 11 and could become a low-pressure area. It is not yet clear whether it will intensify. The Hyderabad Meteorological Department issued a yellow alert for 18 Telangana districts including Hyderabad. Parts of AP may get light to moderate rain today.",
-    "pts": [
-     "Low pressure likely to form around November 11",
-     "Yellow alert for 18 districts incl. Hyderabad, Khammam, Warangal",
-     "AP disaster agency: don't cross overflowing streams, causeways"
-    ],
-    "why": "Farmers already hit by cyclones Arnab and Murasu and people in low-lying areas should stay alert.",
-    "cat": "Telangana · Weather",
-    "statl": "Another low pressure possible in Bay of Bengal"
-   },
-   "hi": {
-    "h": "एक और कम दबाव का खतरा; तेलंगाना के 18 जिलों में येलो अलर्ट",
-    "p": "अमरावती मौसम केंद्र ने कहा कि 11 नवंबर के आसपास दक्षिण-पूर्व बंगाल की खाड़ी और दक्षिण अंडमान सागर पर चक्रवाती परिसंचरण बनकर कम दबाव क्षेत्र में बदल सकता है। यह तेज़ होगा या नहीं, अभी स्पष्ट नहीं है। हैदराबाद मौसम विभाग ने हैदराबाद समेत तेलंगाना के 18 जिलों में येलो अलर्ट जारी किया। आंध्र प्रदेश के कुछ जिलों में आज हल्की से मध्यम बारिश हो सकती है।",
-    "pts": [
-     "11 नवंबर के आसपास कम दबाव बनने की संभावना",
-     "हैदराबाद, खम्मम, वारंगल समेत 18 जिलों में येलो अलर्ट",
-     "आंध्र आपदा प्राधिकरण: उफनती नदियाँ, कॉजवे पार न करें"
-    ],
-    "why": "अर्णब और मुरसु चक्रवातों से फसल नुकसान झेल चुके किसानों और निचले इलाकों के लोगों को सतर्क रहना चाहिए।",
-    "cat": "तेलंगाना · मौसम",
-    "statl": "बंगाल की खाड़ी में एक और कम दबाव संभव"
-   },
-   "d": "06.11.2026",
-   "t": "09:05"
   }
  ]
 }
