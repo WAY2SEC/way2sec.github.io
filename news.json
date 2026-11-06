@@ -1,8 +1,251 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T10:05:00+05:30",
+ "updated": "2026-11-06T10:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · గుంటూరు · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "కేసు నమోదు",
+   "statl": "విధులకు ఆటంకం, నిరసనపై పోలీసుల కేసు",
+   "h": "గుంటూరులో వైఎస్సార్సీపీ ఎమ్మెల్సీ అప్పిరెడ్డి అరెస్టు",
+   "p": "పరిషత్ ఎన్నికల సమయంలో గుంటూరు జిల్లా వెంగళాయపాలెంలో బ్యాలెట్ బాక్స్ వివాదం తర్వాత నల్లపాడులో వైఎస్సార్సీపీ నేతలు రోడ్డుపై బైఠాయించి నిరసన తెలిపారు. ఇందులో పాల్గొన్న ఎమ్మెల్సీ అప్పిరెడ్డిని పోలీసులు రాత్రి అరెస్టు చేసి నల్లపాడు పోలీస్ స్టేషన్‌లో ఉంచారు. సిబ్బంది విధులకు ఆటంకం కలిగించడం, నిరసనపై కేసు నమోదైంది.",
+   "pts": [
+    "నల్లపాడులో రోడ్డుపై బైఠాయింపు నిరసన",
+    "రాత్రంతా నల్లపాడు స్టేషన్‌లోనే ఎమ్మెల్సీ",
+    "విధులకు ఆటంకంపై కేసు నమోదు"
+   ],
+   "why": "పరిషత్ ఎన్నికల వేళ గుంటూరు జిల్లాలో శాంతిభద్రతలపై ఓటర్లు, అధికారులు దృష్టి పెట్టాల్సిన సమయం ఇది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--06th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110600501",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-guntur",
+   "loc": "నల్లపాడు",
+   "en": {
+    "h": "YSRCP MLC Appireddy arrested in Guntur",
+    "p": "After a ballot box dispute at Vengalayapalem in Guntur district during the parishad elections, YSRCP leaders staged a road sit-in protest at Nallapadu. Police arrested MLC Appireddy, who took part, at night and kept him at Nallapadu police station. A case was registered for obstructing staff from their duties and for the protest.",
+    "pts": [
+     "Road sit-in protest at Nallapadu",
+     "MLC kept overnight at Nallapadu police station",
+     "Case registered for obstructing duty"
+    ],
+    "why": "It brings attention to law and order in Guntur district during the parishad elections.",
+    "cat": "AP · Guntur · Elections",
+    "statl": "Police case for obstructing duty and protest"
+   },
+   "hi": {
+    "h": "गुंटूर में वाईएसआरसीपी एमएलसी अप्पिरेड्डी गिरफ्तार",
+    "p": "परिषद चुनावों के दौरान गुंटूर जिले के वेंगलायपालेम में बैलेट बॉक्स विवाद के बाद वाईएसआरसीपी नेताओं ने नल्लापाडु में सड़क पर धरना दिया। इसमें शामिल एमएलसी अप्पिरेड्डी को पुलिस ने रात में गिरफ्तार कर नल्लापाडु थाने में रखा। कर्मचारियों के काम में बाधा डालने और प्रदर्शन को लेकर मामला दर्ज हुआ।",
+    "pts": [
+     "नल्लापाडु में सड़क पर धरना",
+     "एमएलसी रात भर नल्लापाडु थाने में",
+     "ड्यूटी में बाधा का मामला दर्ज"
+    ],
+    "why": "परिषद चुनावों के बीच गुंटूर जिले में कानून-व्यवस्था पर ध्यान खींचती घटना।",
+    "cat": "आंध्र प्रदेश · गुंटूर · चुनाव",
+    "statl": "ड्यूटी में बाधा और प्रदर्शन पर पुलिस केस"
+   },
+   "d": "06.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "POCSO",
+   "statl": "కేసుల్లో వేగవంతమైన దర్యాప్తుకు కొత్త ఏర్పాట్లు",
+   "h": "పోక్సో కేసుల్లో వైద్య నివేదికలు త్వరగా ఇవ్వాలి: సీపీ సజ్జనార్",
+   "p": "పోక్సో కేసుల దర్యాప్తు వేగంగా జరగాలంటే ప్రభుత్వ ఆసుపత్రుల వైద్యులు సకాలంలో వైద్య పరీక్షలు, పూర్తి నివేదికలు ఇవ్వాలని హైదరాబాద్ పోలీస్ కమిషనర్ వీసీ సజ్జనార్ కోరారు. నివేదికల జాప్యం వల్ల గడువులోపు ఛార్జిషీట్ దాఖలుపై ప్రభావం పడుతుందన్నారు. ప్రధాన ఆసుపత్రుల్లో పోలీస్ లైజన్ అధికారులు, డీసీపీ స్థాయి వాట్సాప్ గ్రూప్ ఏర్పాటు చేయనున్నట్లు తెలిపారు.",
+   "pts": [
+    "ప్రధాన ప్రభుత్వ ఆసుపత్రుల్లో పోలీస్ లైజన్ అధికారులు",
+    "డీసీపీ స్థాయి అధికారులతో వాట్సాప్ సమన్వయ గ్రూప్",
+    "పాఠశాలల్లో కౌన్సెలింగ్, అవగాహన కార్యక్రమాలు"
+   ],
+   "why": "చిన్నారులపై నేరాల కేసుల్లో త్వరగా న్యాయం జరగడానికి ఆసుపత్రులు, పోలీసుల సమన్వయం కీలకం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/expedite-probe-in-pocso-cases-sajjanar-urges-govt-doctors-3570482/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "en": {
+    "h": "Give quick medical reports in POCSO cases: CP Sajjanar",
+    "p": "Hyderabad Police Commissioner VC Sajjanar urged government hospital doctors to provide timely medical examinations and complete reports so POCSO investigations move fast. He said delays in reports affect filing chargesheets within legal deadlines. He said police liaison officers will be placed at major hospitals and a DCP-level WhatsApp group will be set up.",
+    "pts": [
+     "Police liaison officers at major government hospitals",
+     "WhatsApp coordination group with DCP-level officers",
+     "Counselling and awareness campaigns in schools"
+    ],
+    "why": "Coordination between hospitals and police is key to quicker justice in crimes against children.",
+    "cat": "Hyderabad · Safety",
+    "statl": "New steps for faster probe in cases"
+   },
+   "hi": {
+    "h": "पॉक्सो मामलों में मेडिकल रिपोर्ट जल्दी दें: सीपी सज्जनार",
+    "p": "हैदराबाद पुलिस आयुक्त वीसी सज्जनार ने सरकारी अस्पतालों के डॉक्टरों से कहा कि पॉक्सो मामलों की जांच तेज करने के लिए समय पर मेडिकल जांच और पूरी रिपोर्ट दें। उन्होंने कहा कि रिपोर्ट में देरी से तय समय में चार्जशीट दाखिल करने पर असर पड़ता है। बड़े अस्पतालों में पुलिस संपर्क अधिकारी और डीसीपी स्तर का व्हाट्सऐप ग्रुप बनाया जाएगा।",
+    "pts": [
+     "बड़े सरकारी अस्पतालों में पुलिस संपर्क अधिकारी",
+     "डीसीपी स्तर के अधिकारियों का व्हाट्सऐप समन्वय ग्रुप",
+     "स्कूलों में काउंसलिंग और जागरूकता अभियान"
+    ],
+    "why": "बच्चों के खिलाफ अपराधों में जल्द न्याय के लिए अस्पताल और पुलिस का तालमेल अहम है।",
+    "cat": "हैदराबाद · सुरक्षा",
+    "statl": "मामलों की तेज जांच के लिए नए इंतजाम"
+   },
+   "d": "06.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "భారత్ · స్టాక్ మార్కెట్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "79,413",
+   "statl": "సెన్సెక్స్ ప్రారంభ స్థాయి (+103 పాయింట్లు)",
+   "h": "ప్రపంచ మార్కెట్ల పతనం మధ్య సెన్సెక్స్, నిఫ్టీ స్థిరంగా ప్రారంభం",
+   "p": "అమెరికా టెక్ షేర్ల భారీ పతనం, ఆసియా మార్కెట్ల నష్టాల మధ్య శుక్రవారం దేశీయ సూచీలు స్వల్ప లాభంతో మొదలయ్యాయి. సెన్సెక్స్ 103.65 పాయింట్లు పెరిగి 79,413.66 వద్ద, నిఫ్టీ 1.60 పాయింట్ల లాభంతో 24,538.20 వద్ద ప్రారంభమయ్యాయి. స్మాల్‌క్యాప్, మిడ్‌క్యాప్ సూచీలు నష్టపోయాయి. ఈ ప్రభావం భారత్‌పై తక్కువగా ఉండొచ్చని జియోజిత్‌కు చెందిన వీకే విజయకుమార్ అన్నారు.",
+   "pts": [
+    "నిఫ్టీ 24,538.20 వద్ద ప్రారంభం",
+    "నాస్‌డాక్ 5.6% పతనం; డేటా సెంటర్ ఖర్చులపై ఆందోళన",
+    "నిఫ్టీ స్మాల్‌క్యాప్ 100 సూచీ 0.87% డౌన్"
+   ],
+   "why": "ప్రపంచ పతనం భారత మార్కెట్‌ను ఎంతవరకు తాకుతుందో మదుపర్లు గమనిస్తున్నారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/business/stock-market-on-november-6-2026-sensex-nifty50-crude-oil-prices-fii-world-stock-markets-enn26110601249",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "Sensex, Nifty open flat amid global market sell-off",
+    "p": "Domestic indices opened with small gains on Friday despite a sharp fall in US tech stocks and losses in Asian markets. The Sensex opened 103.65 points higher at 79,413.66 and the Nifty 1.60 points higher at 24,538.20. Smallcap and midcap indices fell. Geojit's VK Vijayakumar said India is likely to be among the least impacted.",
+    "pts": [
+     "Nifty opened at 24,538.20",
+     "Nasdaq fell 5.6% on data centre spending worries",
+     "Nifty Smallcap 100 down 0.87%"
+    ],
+    "why": "Investors are watching how far the global fall hits Indian markets.",
+    "cat": "India · Stock Market",
+    "statl": "Sensex opening level (+103 points)"
+   },
+   "hi": {
+    "h": "वैश्विक बाजारों में गिरावट के बीच सेंसेक्स, निफ्टी सपाट खुले",
+    "p": "अमेरिकी टेक शेयरों में भारी गिरावट और एशियाई बाजारों के नुकसान के बीच शुक्रवार को घरेलू सूचकांक मामूली बढ़त के साथ खुले। सेंसेक्स 103.65 अंक चढ़कर 79,413.66 पर और निफ्टी 1.60 अंक बढ़कर 24,538.20 पर खुला। स्मॉलकैप और मिडकैप सूचकांक गिरे। जियोजित के वीके विजयकुमार ने कहा कि भारत पर इसका असर सबसे कम रहने की संभावना है।",
+    "pts": [
+     "निफ्टी 24,538.20 पर खुला",
+     "डेटा सेंटर खर्च की चिंता से नैस्डैक 5.6% गिरा",
+     "निफ्टी स्मॉलकैप 100 में 0.87% गिरावट"
+    ],
+    "why": "निवेशक देख रहे हैं कि वैश्विक गिरावट भारतीय बाजार को कितना प्रभावित करती है।",
+    "cat": "भारत · शेयर बाजार",
+    "statl": "सेंसेक्स शुरुआती स्तर (+103 अंक)"
+   },
+   "d": "06.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తమిళనాడు · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "నవంబర్ 11",
+   "statl": "కోస్తా ఏపీలో వర్షాలు కొనసాగే వరకు",
+   "h": "తమిళనాడు, కోస్తా ఏపీ, కేరళకు భారీ వర్ష హెచ్చరిక",
+   "p": "దక్షిణ భారతానికి ఐఎండీ ఏడు రోజుల వర్ష సూచన విడుదల చేసింది. తమిళనాడు, పుదుచ్చేరిలో నవంబర్ 7, 8 తేదీల్లో విస్తృతంగా వర్షాలు కురుస్తాయి. చెన్నై, పుదుచ్చేరిలో శుక్రవారం వర్షం పడొచ్చు. కోస్తా ఏపీ, యానాంలో నవంబర్ 11 వరకు వర్షాలు, అక్కడక్కడ భారీ వర్షాలు ఉంటాయి. కేరళలో ఏడు జిల్లాలకు హెచ్చరికలు జారీ అయ్యాయి.",
+   "pts": [
+    "గంటకు 30-40 కి.మీ. ఈదురుగాలులు, పిడుగుల సూచన",
+    "కేరళలో ఏడు జిల్లాలకు వర్ష హెచ్చరికలు",
+    "తెలంగాణలో నవంబర్ 7 వరకు వర్షాలు"
+   ],
+   "why": "చెన్నై, కోస్తా ఏపీ, కేరళలో ఉండే తెలుగువారు ప్రయాణాలు, పనులు ముందుగానే ప్లాన్ చేసుకోవాలి.",
+   "src": "The Week",
+   "url": "https://www.theweek.in/news/india/2026/11/06/imd-issues-heavy-rain-warning-for-southern-states-tamil-nadu-andhra-and-kerala-on-alert.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "en": {
+    "h": "Heavy rain warning for Tamil Nadu, coastal Andhra, Kerala",
+    "p": "The IMD has issued a seven-day rainfall forecast for South India. Tamil Nadu and Puducherry will get widespread rain on November 7 and 8. Chennai and Puducherry may get rain on Friday. Coastal Andhra Pradesh and Yanam will get rain through November 11, with isolated heavy showers. Alerts have been issued for seven districts in Kerala.",
+    "pts": [
+     "Gusty winds of 30-40 kmph and lightning likely",
+     "Rain alerts for seven districts in Kerala",
+     "Rain in Telangana till November 7"
+    ],
+    "why": "Telugu people in Chennai, coastal Andhra and Kerala should plan travel and work ahead.",
+    "cat": "Tamil Nadu · Weather",
+    "statl": "Rain to continue in coastal AP until"
+   },
+   "hi": {
+    "h": "तमिलनाडु, तटीय आंध्र और केरल में भारी बारिश की चेतावनी",
+    "p": "आईएमडी ने दक्षिण भारत के लिए सात दिन का बारिश पूर्वानुमान जारी किया है। तमिलनाडु और पुडुचेरी में 7 और 8 नवंबर को व्यापक बारिश होगी। चेन्नई और पुडुचेरी में शुक्रवार को बारिश हो सकती है। तटीय आंध्र प्रदेश और यानम में 11 नवंबर तक बारिश, कहीं-कहीं भारी बारिश होगी। केरल के सात जिलों के लिए चेतावनी जारी हुई है।",
+    "pts": [
+     "30-40 किमी प्रति घंटे की तेज हवाएं, बिजली गिरने की आशंका",
+     "केरल के सात जिलों में बारिश की चेतावनी",
+     "तेलंगाना में 7 नवंबर तक बारिश"
+    ],
+    "why": "चेन्नई, तटीय आंध्र और केरल में रहने वाले लोग यात्रा और काम पहले से तय करें।",
+    "cat": "तमिलनाडु · मौसम",
+    "statl": "तटीय आंध्र में बारिश जारी रहेगी तब तक"
+   },
+   "d": "06.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "548",
+   "statl": "శిక్ష తగ్గించిన మరణశిక్ష ఖైదీలు",
+   "h": "కాలిఫోర్నియాలో 548 మంది మరణశిక్ష ఖైదీలకు శిక్ష తగ్గింపు",
+   "p": "కాలిఫోర్నియాలో మరణశిక్ష పడిన మొత్తం 548 మంది శిక్షను తగ్గిస్తున్నట్లు గవర్నర్ గావిన్ న్యూసమ్ ప్రకటించారు. వీరు పెరోల్ లేని జీవిత ఖైదు అనుభవిస్తారు. అమెరికా చరిత్రలో ఇదే అతిపెద్ద సామూహిక క్షమాభిక్షగా చెబుతున్నారు. రాష్ట్రంలో 20 ఏళ్లుగా ఎవరికీ మరణశిక్ష అమలు చేయలేదు. దీంతో దేశంలో మరణశిక్ష ఖైదీల సంఖ్య దాదాపు 30% తగ్గుతుంది.",
+   "pts": [
+    "పెరోల్ లేని జీవిత ఖైదుగా మార్పు",
+    "సుమారు మూడింట రెండు వంతులకు రాష్ట్ర సుప్రీంకోర్టు సమీక్ష",
+    "23 రాష్ట్రాల్లో మరణశిక్షపై పూర్తి నిషేధం"
+   ],
+   "why": "అమెరికాలో మరణశిక్షపై జరుగుతున్న చర్చలో ఇది కీలక మలుపు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "California commutes sentences of 548 death row prisoners",
+    "p": "California Governor Gavin Newsom announced he will commute the sentences of all 548 people on death row in the state. They will serve life without parole. It is described as the largest mass clemency in US history. The state has not executed anyone in 20 years. The move cuts the national death row population by nearly 30%.",
+    "pts": [
+     "Changed to life without parole",
+     "About two-thirds need state Supreme Court review",
+     "23 states have banned the death penalty outright"
+    ],
+    "why": "It is a key turn in the debate over the death penalty in the US.",
+    "cat": "World · USA",
+    "statl": "Death row prisoners whose sentences were commuted"
+   },
+   "hi": {
+    "h": "कैलिफोर्निया में 548 मृत्युदंड कैदियों की सजा कम",
+    "p": "कैलिफोर्निया के गवर्नर गेविन न्यूसम ने राज्य में मृत्युदंड पाए सभी 548 लोगों की सजा कम करने की घोषणा की। वे बिना पैरोल के उम्रकैद काटेंगे। इसे अमेरिकी इतिहास की सबसे बड़ी सामूहिक क्षमादान बताया जा रहा है। राज्य में 20 साल से किसी को फांसी नहीं दी गई। इससे देश में मृत्युदंड कैदियों की संख्या करीब 30% घटेगी।",
+    "pts": [
+     "बिना पैरोल उम्रकैद में बदली सजा",
+     "करीब दो-तिहाई मामलों की राज्य सुप्रीम कोर्ट समीक्षा",
+     "23 राज्यों में मृत्युदंड पर पूरी रोक"
+    ],
+    "why": "अमेरिका में मृत्युदंड पर चल रही बहस में यह अहम मोड़ है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "सजा कम किए गए मृत्युदंड कैदी"
+   },
+   "d": "06.11.2026",
+   "t": "10:35"
+  },
   {
    "cat": "హైదరాబాద్ · రవాణా",
    "col": "--c-gov",
@@ -1711,249 +1954,6 @@
     "why": "इन कार्यों से कोडंगल क्षेत्र के किसानों और लोगों के लिए सिंचाई और सड़क सुविधाएं बेहतर होंगी।",
     "cat": "तेलंगाना · विकास",
     "statl": "13 विकास कार्यों की आधारशिला"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · రోడ్లు",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "ఫిబ్ర 2027",
-   "statl": "ఫాక్స్ సాగర్ ఫ్లైఓవర్ పూర్తి లక్ష్యం",
-   "h": "ఫాక్స్ సాగర్ బ్రిడ్జి ఫిబ్రవరి 2027 నాటికి పూర్తి చేయాలని ఆదేశం",
-   "p": "హైదరాబాద్‌లో ప్రతిపాదిత ఫాక్స్ సాగర్ బ్రిడ్జి స్థలాన్ని, హెచ్-సిటీ పనులను సైబరాబాద్ మున్సిపల్ కార్పొరేషన్ కమిషనర్ జి.సృజన గురువారం పరిశీలించారు. భూసేకరణను ఈ నెలాఖరులోగా, ప్రధాన ఫ్లైఓవర్ నిర్మాణాన్ని ఫిబ్రవరి 2027 నాటికి పూర్తి చేయాలని అధికారులను ఆదేశించారు. కూకట్‌పల్లి వై-జంక్షన్, ఐడీఎల్ జంక్షన్ పనులను వేగవంతం చేయాలన్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-fox-sagar-bridge-targeted-for-completion-by-february-2027",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "భూసేకరణ నవంబర్ నెలాఖరులోగా పూర్తి చేయాలి",
-    "వక్ఫ్ బోర్డు, యజమానులతో సమన్వయం చేయాలని సూచన",
-    "కూకట్‌పల్లి వై, ఐడీఎల్ జంక్షన్ పనులు వేగవంతం"
-   ],
-   "why": "కూకట్‌పల్లి పరిసరాల్లో రోజూ ప్రయాణించే వాహనదారులకు ట్రాఫిక్ ఇబ్బందులు తగ్గించే పనులు ఇవి.",
-   "d": "05.11.2026",
-   "t": "20:05",
-   "en": {
-    "h": "Fox Sagar bridge to be completed by February 2027: officials told",
-    "p": "Cyberabad Municipal Corporation Commissioner G Srijana on Thursday inspected the proposed Fox Sagar bridge site and H-CITI works in Hyderabad. She directed officials to complete land acquisition by the end of this month and the main flyover by February 2027. She also asked them to speed up works at Kukatpally Y-Junction and IDL Junction.",
-    "pts": [
-     "Land acquisition to be completed by end of November",
-     "Coordination with Waqf Board and owners advised",
-     "Kukatpally Y and IDL junction works to be speeded up"
-    ],
-    "why": "These works aim to ease traffic for daily commuters around Kukatpally.",
-    "cat": "Hyderabad · Roads",
-    "statl": "Fox Sagar flyover target"
-   },
-   "hi": {
-    "h": "फॉक्स सागर पुल फरवरी 2027 तक पूरा करने का निर्देश",
-    "p": "साइबराबाद नगर निगम की आयुक्त जी. सृजना ने गुरुवार को हैदराबाद में प्रस्तावित फॉक्स सागर पुल स्थल और एच-सिटी कार्यों का निरीक्षण किया। उन्होंने अधिकारियों को इस महीने के अंत तक भूमि अधिग्रहण और फरवरी 2027 तक मुख्य फ्लाईओवर पूरा करने का निर्देश दिया। कूकटपल्ली वाई-जंक्शन और आईडीएल जंक्शन के कार्यों में तेजी लाने को भी कहा।",
-    "pts": [
-     "नवंबर के अंत तक भूमि अधिग्रहण पूरा हो",
-     "वक्फ बोर्ड और मालिकों से तालमेल की सलाह",
-     "कूकटपल्ली वाई और आईडीएल जंक्शन कार्यों में तेजी"
-    ],
-    "why": "इन कार्यों से कूकटपल्ली के आसपास रोज़ आने-जाने वालों की ट्रैफिक परेशानी कम होगी।",
-    "cat": "हैदराबाद · सड़कें",
-    "statl": "फॉक्स सागर फ्लाईओवर का लक्ष्य"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · భద్రత",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "24.7 కిలోలు",
-   "statl": "స్వాధీనం చేసుకున్న గంజాయి",
-   "h": "అంతర్రాష్ట్ర గంజాయి ముఠా గుట్టు రట్టు: ఐదుగురి అరెస్టు",
-   "p": "ఈగల్ ఫోర్స్ ఎస్‌టీఎఫ్, చౌటుప్పల్ పోలీసులు కలిసి హైదరాబాద్ న్యూ హఫీజ్‌పేట్‌లో ముఠా నాయకుడు సహా ఐదుగురిని గురువారం అరెస్టు చేశారు. అస్సాం నుంచి ఇద్దరు కొరియర్లు గంజాయి తెచ్చారన్న సమాచారంతో దాడి చేశారు. 24.7 కిలోల గంజాయి, ఏడు మొబైల్ ఫోన్లు స్వాధీనం చేసుకున్నారు. ఒడిశా నుంచి కొని చిన్న ప్యాకెట్లలో అమ్మేవారని తెలిసింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/eagle-force-busts-interstate-drug-racket-arrests-gang-leader-3570357/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "హఫీజ్‌పేట్",
-   "pts": [
-    "ముఠా నాయకుడు సహా ఐదుగురు అరెస్టు",
-    "24.7 కిలోల గంజాయి, 7 ఫోన్లు స్వాధీనం",
-    "₹48 లక్షల లావాదేవీలపై దర్యాప్తు"
-   ],
-   "why": "నగరంలో మత్తుపదార్థాల సరఫరా గొలుసును అడ్డుకునేందుకు పోలీసులు చేపట్టిన కీలక చర్య ఇది.",
-   "d": "05.11.2026",
-   "t": "20:05",
-   "en": {
-    "h": "Interstate ganja racket busted in Hyderabad; five arrested",
-    "p": "The EAGLE Force STF and Choutuppal police on Thursday arrested five men, including the gang leader, at New Hafeezpet in Hyderabad. They acted on a tip-off that two couriers from Assam had brought ganja. Police seized 24.7 kg of ganja and seven mobile phones. The gang allegedly bought ganja from Odisha and sold it in small packets.",
-    "pts": [
-     "Five arrested, including the gang leader",
-     "24.7 kg ganja and 7 phones seized",
-     "Transactions of ₹48 lakh under investigation"
-    ],
-    "why": "This is a key police step to break the drug supply chain in the city.",
-    "cat": "Hyderabad · Safety",
-    "statl": "Ganja seized"
-   },
-   "hi": {
-    "h": "हैदराबाद में अंतरराज्यीय गांजा गिरोह का भंडाफोड़; पांच गिरफ्तार",
-    "p": "ईगल फोर्स एसटीएफ और चौटुप्पल पुलिस ने गुरुवार को हैदराबाद के न्यू हफीजपेट में गिरोह के सरगना समेत पांच लोगों को गिरफ्तार किया। असम से दो कूरियर के गांजा लाने की सूचना पर यह कार्रवाई हुई। पुलिस ने 24.7 किलो गांजा और सात मोबाइल फोन जब्त किए। गिरोह कथित तौर पर ओडिशा से गांजा खरीदकर छोटे पैकेटों में बेचता था।",
-    "pts": [
-     "सरगना समेत पांच गिरफ्तार",
-     "24.7 किलो गांजा और 7 फोन जब्त",
-     "₹48 लाख के लेनदेन की जांच"
-    ],
-    "why": "शहर में नशीले पदार्थों की आपूर्ति श्रृंखला तोड़ने के लिए यह पुलिस की अहम कार्रवाई है।",
-    "cat": "हैदराबाद · सुरक्षा",
-    "statl": "जब्त किया गया गांजा"
-   }
-  },
-  {
-   "cat": "భారత్ · కేంద్ర ప్రభుత్వం",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "31.12.2024",
-   "statl": "వరకు వచ్చిన మైనారిటీ శరణార్థులకు మినహాయింపు",
-   "h": "విదేశీయులకు పాస్‌పోర్ట్, వీసా నిబంధనల సడలింపు: కేంద్రం గెజిట్",
-   "p": "భారత్‌లో నివసిస్తున్న కొన్ని వర్గాల విదేశీయులకు పాస్‌పోర్ట్, వీసా నిబంధనలను సడలిస్తూ కేంద్ర హోంశాఖ గురువారం గెజిట్ నోటిఫికేషన్ ఇచ్చింది. మతపరమైన వేధింపులతో 2024 డిసెంబర్ 31లోపు అఫ్గానిస్థాన్, బంగ్లాదేశ్, పాకిస్థాన్ నుంచి వచ్చిన హిందూ, సిక్కు, జైన, బౌద్ధ, పార్సీ, క్రైస్తవులకు, 2015 జనవరి 9లోపు వచ్చి నమోదైన శ్రీలంక తమిళులకు మినహాయింపు లభిస్తుంది. భారత్–నేపాల్–భూటాన్ ప్రయాణికుల గుర్తింపు పత్రాల నిబంధనలూ సడలాయి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/bharat/govt-relaxes-passport-and-visa-rules-for-foreign-nationals-residing-in-india-issues-gazette-notification-ten26110506238",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ఇమ్మిగ్రేషన్ అండ్ ఫారినర్స్ (ఎగ్జెంప్షన్) సవరణ ఉత్తర్వు, 2026",
-    "మైనారిటీ శరణార్థులు తగిన వీసా మాత్రం తీసుకోవాలి",
-    "విధుల్లో ఉన్న త్రివిధ దళాల సిబ్బందికీ మినహాయింపు"
-   ],
-   "why": "పత్రాల గడువు ముగిసి ఇబ్బంది పడుతున్న శరణార్థులు, భారత సంతతి విదేశీయులకు ఈ నిర్ణయం ఊరటనిస్తుంది.",
-   "d": "05.11.2026",
-   "t": "19:35",
-   "en": {
-    "h": "Centre relaxes passport, visa rules for some foreigners: gazette issued",
-    "p": "The Union Home Ministry on Thursday issued a gazette notification relaxing passport and visa rules for certain categories of foreign nationals living in India. Hindus, Sikhs, Jains, Buddhists, Parsis and Christians who came from Afghanistan, Bangladesh and Pakistan due to religious persecution by December 31, 2024, and registered Sri Lankan Tamils who came by January 9, 2015, get exemptions. ID document rules for India–Nepal–Bhutan travellers were also eased.",
-    "pts": [
-     "Immigration and Foreigners (Exemption) (Amendment) Order, 2026",
-     "Minority refugees must still obtain an appropriate visa",
-     "Armed forces personnel on duty also exempted"
-    ],
-    "why": "The decision brings relief to refugees and foreigners of Indian origin struggling with expired documents.",
-    "cat": "India · Central Government",
-    "statl": "cut-off for minority refugees' exemption"
-   },
-   "hi": {
-    "h": "कुछ विदेशियों के लिए पासपोर्ट, वीजा नियमों में ढील: केंद्र ने जारी किया गजट",
-    "p": "केंद्रीय गृह मंत्रालय ने गुरुवार को गजट अधिसूचना जारी कर भारत में रह रहे कुछ श्रेणियों के विदेशी नागरिकों के लिए पासपोर्ट और वीजा नियमों में ढील दी। धार्मिक उत्पीड़न के कारण 31 दिसंबर 2024 तक अफगानिस्तान, बांग्लादेश और पाकिस्तान से आए हिंदू, सिख, जैन, बौद्ध, पारसी और ईसाई तथा 9 जनवरी 2015 तक आए पंजीकृत श्रीलंकाई तमिलों को छूट मिलेगी। भारत–नेपाल–भूटान यात्रियों के पहचान पत्र नियम भी आसान किए गए।",
-    "pts": [
-     "आप्रवासन और विदेशी (छूट) (संशोधन) आदेश, 2026",
-     "अल्पसंख्यक शरणार्थियों को उचित वीजा फिर भी लेना होगा",
-     "ड्यूटी पर तीनों सेनाओं के कर्मियों को भी छूट"
-    ],
-    "why": "यह फैसला दस्तावेजों की अवधि खत्म होने से परेशान शरणार्थियों और भारतीय मूल के विदेशियों को राहत देगा।",
-    "cat": "भारत · केंद्र सरकार",
-    "statl": "तक आए अल्पसंख्यक शरणार्थियों को छूट"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · పెట్టుబడులు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "డిసెం 7–9",
-   "statl": "ఫ్యూచర్ సిటీలో గ్లోబల్ సమ్మిట్",
-   "h": "గ్లోబల్ సమ్మిట్ ఏర్పాట్లపై సీఎం రేవంత్ సమీక్ష: 15లోగా పూర్తి ప్రణాళిక",
-   "p": "హైదరాబాద్ ఫ్యూచర్ సిటీలో జరగనున్న ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్-2026 ఏర్పాట్లపై సీఎం రేవంత్ రెడ్డి సమీక్షించారు. నవంబర్ 15లోగా పూర్తి ఏర్పాట్ల ప్రణాళిక ఇవ్వాలని అధికారులను ఆదేశించారు. ప్రతి ప్రతినిధికి ఒక లైజన్ అధికారి, విమానాశ్రయంలోనే రిజిస్ట్రేషన్, పాసులు ఉండాలన్నారు. సదస్సు డిసెంబర్ 7, 8, 9 తేదీల్లో జరుగుతుందని సీఎస్ సంజయ్ జాజు తెలిపారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/cm-revanth-reddy-diwali-celebrates-at-indiramma-houses-beneficiaries-tgs26110505337",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "ఫ్యూచర్ సిటీ",
-   "pts": [
-    "ప్రతి విభాగానికి ప్రత్యేక, భద్రతా అధికారి",
-    "పర్యాటకం, రాష్ట్ర చరిత్రపై ప్రదర్శనలు",
-    "ఇతర రాష్ట్రాల సీఎంలకు ఆహ్వానాలు"
-   ],
-   "why": "రాష్ట్రానికి పెట్టుబడులు, ఉద్యోగాల కోసం జరిగే ఈ సదస్సు ఏర్పాట్లు ఇప్పుడు వేగం పుంజుకుంటున్నాయి.",
-   "d": "05.11.2026",
-   "t": "19:35",
-   "en": {
-    "h": "CM Revanth reviews Global Summit arrangements; full plan by Nov 15",
-    "p": "CM Revanth Reddy reviewed arrangements for the Invest Telangana Global Summit-2026 to be held at Hyderabad Future City. He directed officials to submit a full arrangements plan by November 15. Every delegate should have a liaison officer, with registration and passes at the airport itself. Chief Secretary Sanjay Jaju said the summit will be held on December 7, 8 and 9.",
-    "pts": [
-     "Special officer and security officer for each division",
-     "Exhibitions on tourism and state history",
-     "Invitations to chief ministers of other states"
-    ],
-    "why": "Preparations for this summit, aimed at bringing investment and jobs to the state, are now picking up pace.",
-    "cat": "Telangana · Investment",
-    "statl": "Global Summit at Future City"
-   },
-   "hi": {
-    "h": "ग्लोबल समिट की तैयारियों की सीएम रेवंत ने की समीक्षा; 15 तक पूरी योजना",
-    "p": "मुख्यमंत्री रेवंत रेड्डी ने हैदराबाद फ्यूचर सिटी में होने वाले इन्वेस्ट तेलंगाना ग्लोबल समिट-2026 की तैयारियों की समीक्षा की। उन्होंने अधिकारियों को 15 नवंबर तक पूरी तैयारी योजना सौंपने का निर्देश दिया। हर प्रतिनिधि के लिए एक संपर्क अधिकारी हो और हवाई अड्डे पर ही पंजीकरण व पास की व्यवस्था हो। मुख्य सचिव संजय जाजू ने बताया कि समिट 7, 8 और 9 दिसंबर को होगा।",
-    "pts": [
-     "हर विभाग के लिए विशेष अधिकारी और सुरक्षा अधिकारी",
-     "पर्यटन और राज्य के इतिहास पर प्रदर्शनियां",
-     "दूसरे राज्यों के मुख्यमंत्रियों को निमंत्रण"
-    ],
-    "why": "राज्य में निवेश और रोजगार लाने के लिए होने वाले इस समिट की तैयारियां अब तेज हो रही हैं।",
-    "cat": "तेलंगाना · निवेश",
-    "statl": "फ्यूचर सिटी में ग्लोबल समिट"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · ఆరోగ్యం",
-   "col": "--c-city",
-   "art": "campus",
-   "stat": "35,000",
-   "statl": "క్యాన్సర్ రిజిస్ట్రీకి చేరిన కేసులు",
-   "h": "క్యాన్సర్ రిజిస్ట్రీకి 35 వేల కేసులు: హైదరాబాద్‌లో రొమ్ము క్యాన్సరే అధికం",
-   "p": "రాష్ట్రంలో ప్రతి క్యాన్సర్ కేసు నమోదు కోసం ఈ ఏడాది ఏప్రిల్ 7న ప్రారంభించిన క్యాన్సర్ రిజిస్ట్రీకి ఇప్పటివరకు సుమారు 35 వేల కేసులు వచ్చాయని ఎంఎన్‌జే క్యాన్సర్ ఆసుపత్రి డైరెక్టర్ డాక్టర్ సదాశివుడు తెలిపారు. ఈ సమాచారాన్ని ఐసీఎంఆర్‌కు పంపుతున్నారు. సుమారు 13 ఏళ్ల డేటా ప్రకారం హైదరాబాద్‌లో రొమ్ము క్యాన్సర్ ఎక్కువగా ఉండగా, పురుషుల్లో పొగాకు వల్ల నోటి క్యాన్సర్ ఎక్కువ.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/interview-with-mnj-hospital-director-sadashivudu-about-cancer-registry-tgs26110503678",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "రిజిస్ట్రీకి నోడల్ కేంద్రంగా ఎంఎన్‌జే ఆసుపత్రి",
-    "పొగాకు, పరోక్ష ధూమపానానికి దూరంగా ఉండాలి",
-    "హెచ్‌పీవీ టీకా, హెపటైటిస్-బీ చికిత్సపై సూచన"
-   ],
-   "why": "క్యాన్సర్ కేసుల సరైన లెక్కలతో నివారణ, చికిత్స ప్రణాళికలు మెరుగవుతాయి; ప్రజలు జాగ్రత్తలు పాటించాలి.",
-   "d": "05.11.2026",
-   "t": "19:35",
-   "en": {
-    "h": "Cancer registry logs 35,000 cases; breast cancer most common in Hyderabad",
-    "p": "About 35,000 cases have so far reached the cancer registry launched on April 7 this year to record every cancer case in the state, said MNJ Cancer Hospital director Dr Sadashivudu. The data is being sent to ICMR. According to about 13 years of data, breast cancer is the most common in Hyderabad, while oral cancer linked to tobacco is most common among men.",
-    "pts": [
-     "MNJ Hospital is the nodal centre for the registry",
-     "Avoid tobacco and passive smoking",
-     "Advice on HPV vaccine and hepatitis B treatment"
-    ],
-    "why": "Accurate counts of cancer cases improve prevention and treatment plans; people should take precautions.",
-    "cat": "Hyderabad · Health",
-    "statl": "cases reach cancer registry"
-   },
-   "hi": {
-    "h": "कैंसर रजिस्ट्री में 35,000 मामले दर्ज; हैदराबाद में स्तन कैंसर सबसे आम",
-    "p": "राज्य में हर कैंसर मामले को दर्ज करने के लिए इस साल 7 अप्रैल को शुरू हुई कैंसर रजिस्ट्री में अब तक करीब 35,000 मामले आए हैं, एमएनजे कैंसर अस्पताल के निदेशक डॉ. सदाशिवुडु ने बताया। यह डेटा आईसीएमआर को भेजा जा रहा है। करीब 13 साल के आंकड़ों के अनुसार हैदराबाद में स्तन कैंसर सबसे आम है, जबकि पुरुषों में तंबाकू से जुड़ा मुंह का कैंसर सबसे ज्यादा है।",
-    "pts": [
-     "एमएनजे अस्पताल रजिस्ट्री का नोडल केंद्र",
-     "तंबाकू और परोक्ष धूम्रपान से दूर रहें",
-     "एचपीवी टीका और हेपेटाइटिस-बी इलाज की सलाह"
-    ],
-    "why": "कैंसर मामलों की सही गिनती से रोकथाम और इलाज की योजनाएं बेहतर होती हैं; लोगों को सावधानी बरतनी चाहिए।",
-    "cat": "हैदराबाद · स्वास्थ्य",
-    "statl": "मामले कैंसर रजिस्ट्री में दर्ज"
    }
   }
  ]
