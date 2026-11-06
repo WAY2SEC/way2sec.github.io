@@ -1,8 +1,203 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T11:44:56+05:30",
+ "updated": "2026-11-06T12:13:30+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "2.2 లక్షలు",
+   "statl": "అక్టోబర్‌లో వాటర్ ట్యాంకర్ బుకింగ్‌లు",
+   "h": "హైదరాబాద్‌లో నీటి కొరత: అక్టోబర్‌లో రికార్డు స్థాయిలో 2.2 లక్షల ట్యాంకర్ బుకింగ్‌లు",
+   "p": "హైదరాబాద్ జలమండలికి అక్టోబర్‌లో 2.2 లక్షల ట్యాంకర్ బుకింగ్‌లు వచ్చాయి. బోర్డు చరిత్రలో అక్టోబర్‌లో ఇంత స్థాయి ఇదే మొదటిసారి; గత ఏడాది అక్టోబర్‌లో 87 వేలు మాత్రమే. రోజువారీ బుకింగ్‌లు 7 వేలు దాటాయి. వర్షాలు తక్కువ కావడంతో భూగర్భ జలాలు పడిపోయి, చాలా బోర్లు ఎండిపోయాయి. మాదాపూర్, గచ్చిబౌలిలో వేసవి లాంటి డిమాండ్ ఉంది.",
+   "pts": [
+    "అక్టోబర్‌లో 2.2 లక్షలు; గత ఏడాది 87 వేలు",
+    "రోజుకు 7 వేలకు పైగా బుకింగ్‌లు",
+    "మాదాపూర్, గచ్చిబౌలి కేంద్రాల్లో రోజుకు 250–300 ట్యాంకర్లు"
+   ],
+   "why": "బోర్లు ఎండిపోవడంతో నగరంలోని ఇళ్లు, అపార్ట్‌మెంట్లు ట్యాంకర్లపై ఆధారపడాల్సి వస్తోంది.",
+   "src": "IndToday",
+   "url": "https://indtoday.com/hyderabad-water-crisis-tanker-bookings-record-october-2026/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "d": "06.11.2026",
+   "t": "12:05",
+   "en": {
+    "h": "Hyderabad water crisis: record 2.2 lakh tanker bookings in October",
+    "p": "Hyderabad's Water Board received 2.2 lakh tanker bookings in October. This is the first time in the Board's history that October bookings reached this level; last October there were only 87,000. Daily bookings have crossed 7,000. With poor rainfall, groundwater has fallen and many borewells have dried up. Madhapur and Gachibowli are seeing summer-like demand.",
+    "pts": [
+     "2.2 lakh in October; 87,000 last year",
+     "Over 7,000 bookings a day",
+     "250–300 tankers daily at Madhapur, Gachibowli stations"
+    ],
+    "why": "With borewells drying up, homes and apartments in the city are forced to depend on tankers.",
+    "cat": "Hyderabad · Water",
+    "statl": "Water tanker bookings in October"
+   },
+   "hi": {
+    "h": "हैदराबाद में जल संकट: अक्टूबर में रिकॉर्ड 2.2 लाख टैंकर बुकिंग",
+    "p": "हैदराबाद जल बोर्ड को अक्टूबर में 2.2 लाख टैंकर बुकिंग मिलीं। बोर्ड के इतिहास में पहली बार अक्टूबर में बुकिंग इस स्तर पर पहुंची; पिछले साल अक्टूबर में सिर्फ 87,000 थीं। रोज़ाना बुकिंग 7,000 पार कर गई है। कम बारिश से भूजल गिरा है और कई बोरवेल सूख गए हैं। मादापुर और गच्चीबौली में गर्मियों जैसी मांग है।",
+    "pts": [
+     "अक्टूबर में 2.2 लाख; पिछले साल 87,000",
+     "रोज़ 7,000 से ज़्यादा बुकिंग",
+     "मादापुर, गच्चीबौली केंद्रों पर रोज़ 250–300 टैंकर"
+    ],
+    "why": "बोरवेल सूखने से शहर के घरों और अपार्टमेंटों को टैंकरों पर निर्भर रहना पड़ रहा है।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "अक्टूबर में पानी टैंकर बुकिंग"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "70%",
+   "statl": "ఈశాన్య రుతుపవనాల్లో వర్షపాత లోటు",
+   "h": "తెలంగాణలో 70% వర్షపాత లోటు; హైదరాబాద్‌లో నాలుగు రోజులు పొగమంచు",
+   "p": "ఈశాన్య రుతుపవన కాలంలో తెలంగాణలో 70 శాతం వర్షపాత లోటు నమోదైంది. అక్టోబర్ 1 నుంచి నవంబర్ 6 వరకు సాధారణం 96.4 మి.మీ. కాగా 28.7 మి.మీ. మాత్రమే కురిసింది. నిజామాబాద్‌లో అసలు వర్షమే లేదు. హైదరాబాద్‌లో 74% లోటు. రాబోయే నాలుగు రోజులు నగరంలో ఉదయం పొగమంచు ఉంటుందని, వారం పాటు ఎలాంటి హెచ్చరిక లేదని ఐఎండీ తెలిపింది.",
+   "pts": [
+    "సాధారణం 96.4 మి.మీ., కురిసింది 28.7 మి.మీ.",
+    "నిజామాబాద్‌లో వర్షం లేదు; పెద్దపల్లి, సిరిసిల్ల, కామారెడ్డిలో 97% లోటు",
+    "హైదరాబాద్‌లో 74% లోటు"
+   ],
+   "why": "వర్షాలు లేకపోవడం రైతుల పంటలపై, నగరాల తాగునీటిపై ప్రభావం చూపుతుంది.",
+   "src": "IndToday",
+   "url": "https://indtoday.com/hyderabad-weather-imd-forecasts-haze-for-four-days/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "d": "06.11.2026",
+   "t": "12:05",
+   "en": {
+    "h": "Telangana faces 70% rain deficit; haze in Hyderabad for four days",
+    "p": "Telangana has recorded a 70 percent rainfall deficit in the northeast monsoon season. Between October 1 and November 6 the state got only 28.7 mm against a normal of 96.4 mm. Nizamabad received no rain at all. Hyderabad has a 74% deficit. IMD said the city will have hazy mornings for the next four days, with no alert for a week.",
+    "pts": [
+     "Normal 96.4 mm, received 28.7 mm",
+     "No rain in Nizamabad; 97% deficit in Peddapalli, Sircilla, Kamareddy",
+     "74% deficit in Hyderabad"
+    ],
+    "why": "The lack of rain affects farmers' crops and drinking water supply in cities.",
+    "cat": "Telangana · Weather",
+    "statl": "Rain deficit in northeast monsoon"
+   },
+   "hi": {
+    "h": "तेलंगाना में 70% बारिश की कमी; हैदराबाद में चार दिन धुंध",
+    "p": "उत्तर-पूर्वी मानसून सीज़न में तेलंगाना में 70 प्रतिशत बारिश की कमी दर्ज हुई है। 1 अक्टूबर से 6 नवंबर के बीच सामान्य 96.4 मिमी के मुकाबले सिर्फ 28.7 मिमी बारिश हुई। निज़ामाबाद में बिल्कुल बारिश नहीं हुई। हैदराबाद में 74% कमी है। आईएमडी ने कहा कि अगले चार दिन शहर में सुबह धुंध रहेगी और एक हफ्ते तक कोई अलर्ट नहीं है।",
+    "pts": [
+     "सामान्य 96.4 मिमी, हुई 28.7 मिमी",
+     "निज़ामाबाद में बारिश नहीं; पेद्दापल्ली, सिरसिल्ला, कामारेड्डी में 97% कमी",
+     "हैदराबाद में 74% कमी"
+    ],
+    "why": "बारिश न होने से किसानों की फसलों और शहरों की पेयजल आपूर्ति पर असर पड़ता है।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "उत्तर-पूर्वी मानसून में बारिश की कमी"
+   }
+  },
+  {
+   "cat": "ఏపీ · తుపాను",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "మురసు",
+   "statl": "తుపాను నష్టంపై సీఎం పర్యటన",
+   "h": "మురసు తుపాను ప్రాంతాల్లో నేడు సీఎం చంద్రబాబు పర్యటన",
+   "p": "మురసు తుపాను ప్రభావిత ప్రాంతాల్లో ముఖ్యమంత్రి చంద్రబాబు నాయుడు ఇవాళ బాపట్ల, గుంటూరు జిల్లాల్లో పర్యటిస్తున్నారు. జిల్లెలమూడి వంతెన వద్ద నష్టాన్ని పరిశీలిస్తారు. దెబ్బతిన్న కాలువలపై జలవనరుల అధికారులతో సమీక్షిస్తారు. గుంటూరు జిల్లా రేటూరులో రైతులను కలుస్తారు.",
+   "pts": [
+    "బాపట్ల, గుంటూరు జిల్లాల్లో పర్యటన",
+    "జిల్లెలమూడి వంతెన వద్ద నష్టం పరిశీలన",
+    "రేటూరులో రైతులతో భేటీ"
+   ],
+   "why": "తుపానుతో పంటలు, కాలువలు దెబ్బతిన్న రైతులకు సాయంపై ఈ పర్యటన కీలకం.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--06th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110600501",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-bapatla",
+   "loc": "జిల్లెలమూడి",
+   "d": "06.11.2026",
+   "t": "12:05",
+   "en": {
+    "h": "CM Chandrababu tours Cyclone Murasu-hit areas today",
+    "p": "Chief Minister Chandrababu Naidu is touring Cyclone Murasu-affected areas in Bapatla and Guntur districts today. He will inspect the damage at the Jillelamudi bridge. He will review damaged drains with irrigation officials. He will meet farmers at Returu in Guntur district.",
+    "pts": [
+     "Tour of Bapatla and Guntur districts",
+     "Inspection of damage at Jillelamudi bridge",
+     "Meeting with farmers at Returu"
+    ],
+    "why": "The tour is key for help to farmers whose crops and drains were damaged by the cyclone.",
+    "cat": "AP · Cyclone",
+    "statl": "CM tour on cyclone damage"
+   },
+   "hi": {
+    "h": "मुरासु चक्रवात प्रभावित इलाकों का आज दौरा करेंगे सीएम चंद्रबाबू",
+    "p": "मुख्यमंत्री चंद्रबाबू नायडू आज बापट्ला और गुंटूर ज़िलों के मुरासु चक्रवात प्रभावित इलाकों का दौरा कर रहे हैं। वे जिल्लेलमूडी पुल पर नुकसान का जायज़ा लेंगे। क्षतिग्रस्त नालों पर सिंचाई अधिकारियों के साथ समीक्षा करेंगे। गुंटूर ज़िले के रेटूरु में किसानों से मिलेंगे।",
+    "pts": [
+     "बापट्ला और गुंटूर ज़िलों का दौरा",
+     "जिल्लेलमूडी पुल पर नुकसान का निरीक्षण",
+     "रेटूरु में किसानों से मुलाकात"
+    ],
+    "why": "चक्रवात से जिन किसानों की फसलें और नाले खराब हुए, उनकी मदद के लिए यह दौरा अहम है।",
+    "cat": "आंध्र प्रदेश · चक्रवात",
+    "statl": "चक्रवात नुकसान पर सीएम का दौरा"
+   }
+  },
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "₹1,200 కోట్లు",
+   "statl": "బస్ ఛార్జీల పెంపుతో ఏటా అదనపు ఆదాయం",
+   "h": "కర్ణాటక బస్ ఛార్జీల పెంపుతో ఏటా ₹1,200 కోట్ల అదనపు ఆదాయం",
+   "p": "నవంబర్ 5 నుంచి అమల్లోకి వచ్చిన బస్ ఛార్జీల పెంపుతో కర్ణాటకలోని నాలుగు రవాణా సంస్థలకు ఏటా సుమారు ₹1,200 కోట్ల అదనపు ఆదాయం వస్తుందని అంచనా. బెంగళూరు బీఎంటీసీ ఛార్జీలు సగటున 35%, ఇతర సంస్థల ఛార్జీలు 23% పెరిగాయి. అయితే సెప్టెంబర్ నాటికి సంస్థల అప్పులు ₹9,912.88 కోట్లు ఉండగా, ఈ ఆదాయం అందులో కొంత భాగాన్నే తీరుస్తుంది.",
+   "pts": [
+    "బీఎంటీసీ ఛార్జీలు సగటున 35% పెంపు",
+    "ఇతర సంస్థల్లో 23% పెంపు",
+    "సంస్థల అప్పులు ₹9,912.88 కోట్లు"
+   ],
+   "why": "బెంగళూరు సహా కర్ణాటకలో రోజూ బస్సుల్లో ప్రయాణించే లక్షల మందిపై భారం పడుతుంది.",
+   "src": "Deccan Herald, The Hindu",
+   "url": "https://indianopinion.org/karnataka-bus-fare-hike-to-fetch-rs-1200-crore-annually/",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "d": "06.11.2026",
+   "t": "12:05",
+   "en": {
+    "h": "Karnataka bus fare hike to bring ₹1,200 crore extra a year",
+    "p": "The bus fare hike that came into force on November 5 is expected to bring Karnataka's four transport corporations about ₹1,200 crore extra a year. Bengaluru's BMTC fares rose by an average of 35%, and other corporations' fares by 23%. But the corporations' liabilities stood at ₹9,912.88 crore as of September, and this revenue will cover only part of it.",
+    "pts": [
+     "BMTC fares up 35% on average",
+     "23% hike in other corporations",
+     "Corporations' liabilities at ₹9,912.88 crore"
+    ],
+    "why": "It adds to the burden on lakhs of daily bus commuters across Karnataka, including Bengaluru.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "Extra annual revenue from bus fare hike"
+   },
+   "hi": {
+    "h": "कर्नाटक बस किराया बढ़ोतरी से सालाना ₹1,200 करोड़ अतिरिक्त आय",
+    "p": "5 नवंबर से लागू बस किराया बढ़ोतरी से कर्नाटक के चार परिवहन निगमों को सालाना करीब ₹1,200 करोड़ अतिरिक्त आय होने का अनुमान है। बेंगलुरु बीएमटीसी का किराया औसतन 35% और अन्य निगमों का 23% बढ़ा है। लेकिन सितंबर तक निगमों पर ₹9,912.88 करोड़ की देनदारियां थीं, और यह आय उसका कुछ हिस्सा ही पूरा करेगी।",
+    "pts": [
+     "बीएमटीसी किराया औसतन 35% बढ़ा",
+     "अन्य निगमों में 23% बढ़ोतरी",
+     "निगमों की देनदारियां ₹9,912.88 करोड़"
+    ],
+    "why": "बेंगलुरु समेत कर्नाटक में रोज़ बस से सफर करने वाले लाखों लोगों पर बोझ बढ़ेगा।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "किराया बढ़ोतरी से सालाना अतिरिक्त आय"
+   }
+  },
   {
    "cat": "ఏపీ · తిరుమల",
    "col": "--c-gov",
@@ -1759,202 +1954,6 @@
     "cat": "भारत · रक्षा",
     "statl": "विस्तार के बाद सेवा निधि पैकेज"
    }
-  },
-  {
-   "cat": "కర్ణాటక · బెళగావి",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "100+",
-   "statl": "ముందస్తు అదుపులోకి తీసుకున్న రైతులు",
-   "h": "చెరకు మద్దతు ధర కోసం బెళగావిలో రైతుల జైల్ భరో; 100 మందికి పైగా అదుపులోకి",
-   "p": "చెరకుకు లాభదాయక ధర ప్రకటించాలని డిమాండ్ చేస్తూ బెళగావిలో నిషేధాజ్ఞలను లెక్కచేయకుండా రైతులు 'జైల్ భరో' ఆందోళనకు ప్రయత్నించారు. ముక్తిమఠం వద్ద గుమిగూడిన రైతు నాయకుడు చూనప్ప పూజారి సహా వంద మందికి పైగా రైతులను పోలీసులు ముందస్తుగా అదుపులోకి తీసుకుని నగరం బయటకు పంపారు. పలు తాలూకాల్లో రాస్తారోకోలు జరిగాయి; కర్ణాటక బంద్ చేస్తామని నాయకులు హెచ్చరించారు.",
-   "src": "PTI, ThePrint",
-   "url": "https://theprint.in/india/karnataka-farmers-detained-as-they-attempt-jail-bharo-agitation-in-belagavi/3091837/",
-   "sec": [
-    "india",
-    "agri"
-   ],
-   "st": "KA",
-   "place": "ka-belagavi",
-   "pts": [
-    "బెళగావి నగరమంతా బీఎన్‌ఎస్‌ఎస్ సెక్షన్ 163 నిషేధాజ్ఞలు",
-    "అరెస్టు కాదు, ముందస్తు నిర్బంధం మాత్రమేనని పోలీస్ కమిషనర్",
-    "రాష్ట్రవ్యాప్త రాస్తారోకో, కర్ణాటక బంద్ హెచ్చరిక"
-   ],
-   "why": "కర్ణాటకలో చెరకు రైతులు, బెళగావి పరిసరాల్లో ప్రయాణించేవారిపై ఈ ఆందోళన ప్రభావం ఉంటుంది.",
-   "d": "05.11.2026",
-   "t": "22:05",
-   "en": {
-    "h": "Belagavi farmers attempt Jail Bharo for sugarcane price; over 100 detained",
-    "p": "Demanding a remunerative price for sugarcane, farmers in Belagavi attempted a 'Jail Bharo' agitation in defiance of prohibitory orders. Police took more than 100 farmers, including farmer leader Chunappa Poojari who had gathered at Muktimath, into preventive custody and escorted them out of the city. Road blockades were held in several taluks, and leaders warned of a Karnataka bandh.",
-    "pts": [
-     "Prohibitory orders under BNSS Section 163 across Belagavi city",
-     "Police Commissioner: preventive custody, not arrest",
-     "Warning of statewide road blockades and Karnataka bandh"
-    ],
-    "why": "The agitation affects sugarcane farmers in Karnataka and people travelling around Belagavi.",
-    "cat": "Karnataka · Belagavi",
-    "statl": "Farmers taken into preventive custody"
-   },
-   "hi": {
-    "h": "गन्ने के दाम के लिए बेलगावी में किसानों का जेल भरो; 100 से ज्यादा हिरासत में",
-    "p": "गन्ने के लाभकारी दाम की मांग को लेकर बेलगावी में किसानों ने निषेधाज्ञा की अनदेखी कर 'जेल भरो' आंदोलन की कोशिश की। पुलिस ने मुक्तिमठ पर जुटे किसान नेता चूनप्पा पूजारी समेत 100 से ज्यादा किसानों को एहतियाती हिरासत में लेकर शहर से बाहर भेज दिया। कई तालुकों में सड़क जाम हुआ और नेताओं ने कर्नाटक बंद की चेतावनी दी।",
-    "pts": [
-     "पूरे बेलगावी शहर में बीएनएसएस धारा 163 के तहत निषेधाज्ञा",
-     "पुलिस आयुक्त: गिरफ्तारी नहीं, एहतियाती हिरासत",
-     "राज्यव्यापी सड़क जाम और कर्नाटक बंद की चेतावनी"
-    ],
-    "why": "इस आंदोलन का असर कर्नाटक के गन्ना किसानों और बेलगावी के आसपास यात्रा करने वालों पर पड़ता है।",
-    "cat": "कर्नाटक · बेलगावी",
-    "statl": "एहतियाती हिरासत में लिए गए किसान"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "నవం. 6–11",
-   "statl": "చార్మినార్ వైపు రోడ్లు తప్పించుకోండి",
-   "h": "దీపావళి రద్దీ: నవంబర్ 6–11 చార్మినార్ వైపు ట్రాఫిక్ సూచనలు",
-   "p": "దీపావళి సందర్భంగా భాగ్యలక్ష్మి ఆలయానికి భక్తులు భారీగా వచ్చే అవకాశం ఉండటంతో నవంబర్ 6 నుంచి 11 వరకు చార్మినార్ వైపు వెళ్లే రోడ్లను తప్పించుకోవాలని హైదరాబాద్ ట్రాఫిక్ పోలీసులు సూచించారు. మదీనా, ముర్గీ చౌక్, శాలిబండ మార్గాల్లో రద్దీ ఉంటుందని తెలిపారు. భక్తులు నిర్దేశిత పార్కింగ్ స్థలాలను వాడాలని, సహాయం కోసం 9010203626 హెల్ప్‌లైన్‌ను సంప్రదించాలని కోరారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-traffic-advisory-issued-for-charminar-from-november-6",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "చార్మినార్",
-   "pts": [
-    "మదీనా–చార్మినార్, ముర్గీ చౌక్–చార్మినార్ మార్గాల్లో రద్దీ",
-    "చార్మినార్ బస్ టెర్మినల్, కులీ కుతుబ్ షా స్టేడియం వద్ద పార్కింగ్",
-    "ట్రాఫిక్ హెల్ప్‌లైన్: 9010203626"
-   ],
-   "why": "పాతబస్తీ మీదుగా ప్రయాణించే వాహనదారులు, ఆలయానికి వెళ్లే భక్తులు ముందుగా మార్గాలు ప్లాన్ చేసుకోవచ్చు.",
-   "en": {
-    "h": "Diwali rush: Traffic advisory for Charminar from November 6 to 11",
-    "p": "With a large rush of devotees expected at the Bhagyalakshmi Temple during Diwali, Hyderabad Traffic Police advised commuters to avoid roads leading to Charminar from November 6 to 11. Congestion is likely on the Madina, Murgi Chowk and Shah Ali Banda routes. Devotees are asked to use designated parking places and call helpline 9010203626 for help.",
-    "pts": [
-     "Congestion on Madina–Charminar, Murgi Chowk–Charminar routes",
-     "Parking at Charminar Bus Terminal, QQ Stadium and others",
-     "Traffic helpline: 9010203626"
-    ],
-    "why": "Motorists passing through the Old City and temple visitors can plan their routes in advance.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Avoid roads to Charminar"
-   },
-   "hi": {
-    "h": "दिवाली की भीड़: 6 से 11 नवंबर तक चारमीनार के लिए ट्रैफिक सलाह",
-    "p": "दिवाली के दौरान भाग्यलक्ष्मी मंदिर में श्रद्धालुओं की भारी भीड़ की संभावना को देखते हुए हैदराबाद ट्रैफिक पुलिस ने 6 से 11 नवंबर तक चारमीनार की ओर जाने वाली सड़कों से बचने की सलाह दी है। मदीना, मुर्गी चौक और शाह अली बंडा मार्गों पर जाम की संभावना है। श्रद्धालुओं से तय पार्किंग स्थल इस्तेमाल करने और मदद के लिए हेल्पलाइन 9010203626 पर संपर्क करने को कहा गया है।",
-    "pts": [
-     "मदीना–चारमीनार, मुर्गी चौक–चारमीनार मार्गों पर भीड़",
-     "चारमीनार बस टर्मिनल, क्यूक्यू स्टेडियम आदि में पार्किंग",
-     "ट्रैफिक हेल्पलाइन: 9010203626"
-    ],
-    "why": "पुराने शहर से गुजरने वाले वाहन चालक और मंदिर जाने वाले श्रद्धालु पहले से रास्ते तय कर सकते हैं।",
-    "cat": "हैदराबाद · ट्रैफिक",
-    "statl": "चारमीनार की सड़कों से बचें"
-   },
-   "d": "05.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "తెలంగాణ · సంక్షేమం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "₹88.50 కోట్లు",
-   "statl": "38 బీసీ సంఘాల భవనాలకు నిధులు",
-   "h": "38 బీసీ సంఘాల ఆత్మగౌరవ భవనాలకు ₹88.50 కోట్లు మంజూరు",
-   "p": "హైదరాబాద్‌లో 38 బీసీ కుల సంఘాల కోసం ఆత్మగౌరవ భవనాల నిర్మాణానికి తెలంగాణ ప్రభుత్వం ₹88.50 కోట్లు మంజూరు చేసింది. జీవో పత్రాలను బీసీ సంక్షేమ మంత్రి పొన్నం ప్రభాకర్ సంఘాల ప్రతినిధులకు అందజేశారు. హెచ్‌ఎండీఏ సహకారంతో స్థలాల సమస్యలు పరిష్కారమయ్యాయని, ఏడాదిలోగా నిర్మాణం పూర్తి చేయాలని లక్ష్యమని తెలిపారు. కేటాయించిన స్థలాలను వెనక్కి తీసుకోబోమని స్పష్టం చేశారు.",
-   "src": "IANS",
-   "url": "https://english.punjabkesari.com/india/telangana-sanctions-rs88-crore-for-building-community-centres-of-38-bc-associations",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "సింగిల్ విండో విధానంలో నిర్మాణ అనుమతులు",
-    "బీసీ సంక్షేమ శాఖ నెలవారీ పురోగతి సమీక్ష",
-    "అందరి కోసం 5 ఎకరాల్లో బీసీ భవన్‌కు సూచన"
-   ],
-   "why": "హైదరాబాద్‌లో 38 బీసీ కుల సంఘాలకు సమావేశాలు, కార్యక్రమాల కోసం సొంత భవనాలు అందుబాటులోకి వస్తాయి.",
-   "en": {
-    "h": "₹88.50 crore sanctioned for self-respect buildings of 38 BC associations",
-    "p": "The Telangana government sanctioned ₹88.50 crore to build 'Atma Gaurava Bhavans' for 38 Backward Class caste associations in Hyderabad. BC Welfare Minister Ponnam Prabhakar handed the GO documents to association representatives. He said land issues were resolved with HMDA's help and the aim is to finish construction within a year. He made clear the allotted plots will not be taken back.",
-    "pts": [
-     "Building permits through a single-window system",
-     "Monthly progress reviews by BC Welfare Department",
-     "Suggestion for a common BC Bhavan on 5 acres"
-    ],
-    "why": "38 BC caste associations in Hyderabad will get their own buildings for meetings and events.",
-    "cat": "Telangana · Welfare",
-    "statl": "Funds for buildings of 38 BC associations"
-   },
-   "hi": {
-    "h": "38 बीसी संघों के आत्मगौरव भवनों के लिए ₹88.50 करोड़ मंजूर",
-    "p": "तेलंगाना सरकार ने हैदराबाद में 38 पिछड़ा वर्ग जाति संघों के लिए 'आत्म गौरव भवन' बनाने हेतु ₹88.50 करोड़ मंजूर किए। बीसी कल्याण मंत्री पोन्नम प्रभाकर ने संघों के प्रतिनिधियों को जीओ दस्तावेज सौंपे। उन्होंने कहा कि एचएमडीए के सहयोग से जमीन की समस्याएं सुलझ गईं और एक साल में निर्माण पूरा करने का लक्ष्य है। उन्होंने साफ किया कि आवंटित प्लॉट वापस नहीं लिए जाएंगे।",
-    "pts": [
-     "सिंगल विंडो प्रणाली से निर्माण अनुमति",
-     "बीसी कल्याण विभाग हर महीने प्रगति की समीक्षा करेगा",
-     "सभी के लिए 5 एकड़ में बीसी भवन का सुझाव"
-    ],
-    "why": "हैदराबाद के 38 बीसी जाति संघों को बैठकों और कार्यक्रमों के लिए अपने भवन मिलेंगे।",
-    "cat": "तेलंगाना · कल्याण",
-    "statl": "38 बीसी संघों के भवनों के लिए राशि"
-   },
-   "d": "05.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "48 గంటలు",
-   "statl": "హాస్టళ్లు ఖాళీ చేస్తున్న వందలాది మంది",
-   "h": "నీటి కొరత: హైదరాబాద్‌లో హాస్టళ్లు ఖాళీ చేస్తున్న వందలాది మంది",
-   "p": "తీవ్రమైన నీటి కొరత కారణంగా గత 48 గంటల్లో హైదరాబాద్, సైబరాబాద్ పరిధిలో వందలాది మంది హాస్టళ్లను ఖాళీ చేశారు. గచ్చిబౌలి, అమీర్‌పేట్, కూకట్‌పల్లి, హిమాయత్‌నగర్ వంటి ప్రాంతాల్లో విద్యార్థులు, ఉద్యోగులు నీరు దొరికే హాస్టళ్ల కోసం వెతుకుతున్నారు. ట్యాంకర్ ధరలు రెట్టింపు కావడంతో హాస్టళ్లు మూతపడే ప్రమాదం ఉందని నిర్వాహకులు హెచ్చరిస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/water-scarcity-forces-hundreds-of-hostel-inmates-to-vacate-across-hyderabad",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "గచ్చిబౌలి, అంజయ్యనగర్, అమీర్‌పేట్, కూకట్‌పల్లి ప్రాంతాల్లో ప్రభావం",
-    "ట్యాంకర్ నీటి ధరలు రెట్టింపు",
-    "గచ్చిబౌలిలో బోర్లు, ప్రధాన నీటి లైన్లు ఎండిపోయాయని నిర్వాహకులు"
-   ],
-   "why": "నగరంలో హాస్టళ్లలో ఉండే వేలాది విద్యార్థులు, ఐటీ ఉద్యోగుల నివాసం, ఖర్చులపై నేరుగా ప్రభావం.",
-   "en": {
-    "h": "Water crisis: Hundreds vacate hostels across Hyderabad",
-    "p": "Due to severe water scarcity, hundreds of residents vacated hostels across Hyderabad and Cyberabad in the past 48 hours. Students and employees in areas such as Gachibowli, Ameerpet, Kukatpally and Himayat Nagar are searching for hostels with water. With tanker prices doubling, operators warn that hostels may shut down.",
-    "pts": [
-     "Gachibowli, Anjaiah Nagar, Ameerpet, Kukatpally areas affected",
-     "Tanker water prices have doubled",
-     "Operators say borewells and main water lines in Gachibowli have run dry"
-    ],
-    "why": "It directly affects housing and costs for thousands of students and IT employees living in city hostels.",
-    "cat": "Hyderabad · Water",
-    "statl": "Hundreds vacating hostels"
-   },
-   "hi": {
-    "h": "पानी का संकट: हैदराबाद में सैकड़ों लोगों ने हॉस्टल खाली किए",
-    "p": "भीषण पानी की कमी के कारण पिछले 48 घंटों में हैदराबाद और साइबराबाद क्षेत्र में सैकड़ों लोगों ने हॉस्टल खाली कर दिए। गच्चीबौली, अमीरपेट, कूकटपल्ली और हिमायतनगर जैसे इलाकों में छात्र और कर्मचारी पानी वाले हॉस्टल की तलाश कर रहे हैं। टैंकर के दाम दोगुने होने से संचालकों ने हॉस्टल बंद होने की चेतावनी दी है।",
-    "pts": [
-     "गच्चीबौली, अंजय्या नगर, अमीरपेट, कूकटपल्ली इलाके प्रभावित",
-     "टैंकर पानी के दाम दोगुने",
-     "संचालकों के अनुसार गच्चीबौली में बोरवेल और मुख्य पानी लाइनें सूखीं"
-    ],
-    "why": "शहर के हॉस्टलों में रहने वाले हजारों छात्रों और आईटी कर्मचारियों के आवास और खर्च पर सीधा असर।",
-    "cat": "हैदराबाद · पानी",
-    "statl": "सैकड़ों लोग हॉस्टल छोड़ रहे"
-   },
-   "d": "05.11.2026",
-   "t": "20:35"
   }
  ]
 }
