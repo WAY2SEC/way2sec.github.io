@@ -1,8 +1,253 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T19:15:03+05:30",
+ "updated": "2026-11-06T19:40:52+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · బాపట్ల",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "1.4 లక్షలు",
+   "statl": "హెక్టార్లలో పంట నష్టం",
+   "h": "బాపట్లలో తుపాను దెబ్బతిన్న పొలాలను పరిశీలించిన సీఎం చంద్రబాబు",
+   "p": "మురసు తుపాను దెబ్బతిన్న బాపట్ల జిల్లా గ్రామాల్లో సీఎం చంద్రబాబు శుక్రవారం పర్యటించారు. జిల్లెళ్లమూడిలో నీట మునిగిన వరి పొలాలను చూసి, కోతకు ముందే నష్టపోయిన రైతులతో మాట్లాడారు. పంట బీమా, ఇన్‌పుట్ సబ్సిడీలతో ఊరట కల్పించవచ్చని చెప్పారు. రాష్ట్రంలో 1.4 లక్షల హెక్టార్లలో పంటలు దెబ్బతిని 1.8 లక్షల మందికి పైగా రైతులు నష్టపోయారు. సహాయ చర్యలకు ప్రభుత్వం ₹37 కోట్లు విడుదల చేసింది.",
+   "src": "ThePrint (PTI)",
+   "url": "https://theprint.in/india/cm-naidu-visits-cyclone-hit-bapatla-villages-inspects-crop-damage/3092405/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-bapatla",
+   "loc": "జిల్లెళ్లమూడి",
+   "pts": [
+    "1.4 లక్షల హెక్టార్లలో పంట నష్టం; 1.8 లక్షల రైతులపై ప్రభావం",
+    "తుపానుకు 8 మంది మృతి; సహాయానికి ₹37 కోట్లు",
+    "నల్లమడ వాగుపై గేట్ల పనులకు ప్రతిపాదనలు కోరిన సీఎం"
+   ],
+   "why": "తుపానుతో పంట కోల్పోయిన లక్షలాది ఏపీ రైతులకు బీమా, సబ్సిడీ సహాయం కీలకం.",
+   "en": {
+    "h": "CM Naidu inspects cyclone-hit fields in Bapatla district",
+    "p": "Chief Minister Chandrababu Naidu toured cyclone Murasu-hit villages in Bapatla district on Friday. At Jillellamudi he saw submerged paddy fields and spoke to farmers who lost crops just before harvest. He said crop insurance and input subsidies could bring relief. Crops were damaged on 1.4 lakh hectares in the state, affecting over 1.8 lakh farmers. The government has released ₹37 crore for relief.",
+    "pts": [
+     "Crops damaged on 1.4 lakh hectares; over 1.8 lakh farmers hit",
+     "Cyclone killed 8; ₹37 crore released for relief",
+     "CM seeks proposals for gates on Nallamada stream"
+    ],
+    "why": "Insurance and subsidy support is key for lakhs of AP farmers who lost crops to the cyclone.",
+    "cat": "Andhra Pradesh · Bapatla",
+    "statl": "hectares of crops damaged"
+   },
+   "hi": {
+    "h": "मुख्यमंत्री नायडू ने बापटला में चक्रवात से प्रभावित खेतों का निरीक्षण किया",
+    "p": "मुख्यमंत्री चंद्रबाबू नायडू ने शुक्रवार को बापटला जिले के चक्रवात मुरासु से प्रभावित गांवों का दौरा किया। जिल्लेल्लमूडी में उन्होंने डूबे हुए धान के खेत देखे और कटाई से ठीक पहले फसल खोने वाले किसानों से बात की। उन्होंने कहा कि फसल बीमा और इनपुट सब्सिडी से राहत मिल सकती है। राज्य में 1.4 लाख हेक्टेयर में फसलें खराब हुईं और 1.8 लाख से अधिक किसान प्रभावित हुए। सरकार ने राहत के लिए ₹37 करोड़ जारी किए हैं।",
+    "pts": [
+     "1.4 लाख हेक्टेयर में फसल नुकसान; 1.8 लाख से अधिक किसान प्रभावित",
+     "चक्रवात से 8 की मौत; राहत के लिए ₹37 करोड़",
+     "नल्लमडा नाले पर गेटों के लिए प्रस्ताव मांगे"
+    ],
+    "why": "चक्रवात में फसल खोने वाले लाखों आंध्र किसानों के लिए बीमा और सब्सिडी सहायता अहम है।",
+    "cat": "आंध्र प्रदेश · बापटला",
+    "statl": "हेक्टेयर में फसल नुकसान"
+   },
+   "d": "06.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "భారత్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "EPIC",
+   "statl": "పథకాల లబ్ధికి ఓటర్ ఐడీ నంబర్",
+   "h": "పంచాయతీరాజ్ పథకాలకు ఓటర్ ఐడీ: కేంద్రంపై రాహుల్ గాంధీ విమర్శ",
+   "p": "పంచాయతీరాజ్ శాఖ పథకాల లబ్ధికి ఇకపై ఆధార్ బదులు ఓటర్ ఐడీ (EPIC) నంబర్, బయోమెట్రిక్ ధృవీకరణ తప్పనిసరి అని కేంద్ర మంత్రి రాజీవ్ రంజన్ సింగ్ (లల్లన్ సింగ్) చెప్పారు. దీనిని కాంగ్రెస్ నేత రాహుల్ గాంధీ శుక్రవారం 'కుట్ర'గా అభివర్ణించారు. ఎస్ఐఆర్‌లో ఓటర్ల జాబితా నుంచి తొలగించిన పేర్లు సంక్షేమ పథకాల అర్హతను నిర్ణయిస్తాయని ఆయన ఆరోపించారు.",
+   "src": "Siasat Daily (PTI)",
+   "url": "https://www.siasat.com/rahul-slams-modi-govt-over-voter-id-for-welfare-schemes-remark-3570897/",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "పథకాలకు EPIC నంబర్, బయోమెట్రిక్ తప్పనిసరి: కేంద్ర మంత్రి",
+    "ఇది 'హక్కుల చోరీ' అని రాహుల్ గాంధీ ఆరోపణ",
+    "పింఛన్లు, రేషన్, ఉపాధి హామీపైనా ప్రభావమని ఆరోపణ"
+   ],
+   "why": "ఈ నిబంధన అమలైతే పంచాయతీరాజ్ పథకాల లబ్ధిదారులు ఓటర్ ఐడీ నంబర్ ఇవ్వాల్సి ఉంటుంది.",
+   "en": {
+    "h": "Voter ID for Panchayati Raj schemes: Rahul Gandhi slams Centre",
+    "p": "Union Minister Rajiv Ranjan Singh (Lallan Singh) said benefits under Panchayati Raj ministry schemes will now need the voter ID (EPIC) number and biometric authentication instead of Aadhaar. Congress leader Rahul Gandhi on Friday called this a 'conspiracy'. He alleged that names removed from voter lists under SIR will decide eligibility for welfare schemes.",
+    "pts": [
+     "Union minister: EPIC number, biometrics mandatory for schemes",
+     "Rahul Gandhi calls it 'rights theft'",
+     "Alleges pensions, rations, MGNREGA could also be hit"
+    ],
+    "why": "If enforced, Panchayati Raj scheme beneficiaries will have to give their voter ID number.",
+    "cat": "India · Politics",
+    "statl": "voter ID number for scheme benefits"
+   },
+   "hi": {
+    "h": "पंचायती राज योजनाओं के लिए वोटर आईडी: राहुल गांधी ने केंद्र पर निशाना साधा",
+    "p": "केंद्रीय मंत्री राजीव रंजन सिंह (ललन सिंह) ने कहा कि पंचायती राज मंत्रालय की योजनाओं के लाभ के लिए अब आधार की जगह वोटर आईडी (EPIC) नंबर और बायोमेट्रिक सत्यापन जरूरी होगा। कांग्रेस नेता राहुल गांधी ने शुक्रवार को इसे 'साजिश' बताया। उन्होंने आरोप लगाया कि SIR में मतदाता सूची से हटाए गए नाम कल्याण योजनाओं की पात्रता तय करेंगे।",
+    "pts": [
+     "केंद्रीय मंत्री: योजनाओं के लिए EPIC नंबर, बायोमेट्रिक जरूरी",
+     "राहुल गांधी ने इसे 'हक की चोरी' बताया",
+     "पेंशन, राशन, मनरेगा पर भी असर का आरोप"
+    ],
+    "why": "लागू होने पर पंचायती राज योजनाओं के लाभार्थियों को वोटर आईडी नंबर देना होगा।",
+    "cat": "भारत · राजनीति",
+    "statl": "योजना लाभ के लिए वोटर आईडी नंबर"
+   },
+   "d": "06.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "భారత్ · రక్షణ",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "18,300",
+   "statl": "డిసెంబర్ 31కి వైదొలగాల్సిన అగ్నివీర్లు",
+   "h": "అగ్నిపథ్ పథకాన్ని రద్దు చేయాలని కాంగ్రెస్ డిమాండ్",
+   "p": "అగ్నిపథ్ పథకం దేశ భద్రతను బలహీనపరిచిందని, దాన్ని రద్దు చేసి సాధారణ సైనిక నియామకాలు మళ్లీ చేపట్టాలని కాంగ్రెస్ శుక్రవారం డిమాండ్ చేసింది. రెగ్యులర్ అయ్యే 25% అగ్నివీర్లకు నియామక తేదీ నుంచే పూర్తి ప్రయోజనాలు ఇవ్వాలని కోరింది. నాలుగేళ్ల తర్వాత మిగిలిన 75% మందికి రెండేళ్ల పొడిగింపు ఇస్తామని సీడీఎస్ బుధవారం ప్రకటించారు. సుమారు 18,300 మంది అగ్నివీర్లు డిసెంబర్ 31కల్లా వైదొలగాల్సి ఉంది.",
+   "src": "ThePrint (PTI)",
+   "url": "https://theprint.in/india/cong-pushes-for-scrapping-agnipath-scheme-says-it-weakened-indias-security/3092546/",
+   "sec": [
+    "india",
+    "jobs"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "రెగ్యులర్ అగ్నివీర్లకు గత తేదీ నుంచి పూర్తి ప్రయోజనాలు కోరిన కాంగ్రెస్",
+    "మిగిలిన 75% మందికి రెండేళ్ల పొడిగింపు: సీడీఎస్",
+    "అగ్నివీర్లకు నెలకు ₹40,000 వేతనం"
+   ],
+   "why": "సైన్యంలో చేరాలనుకునే యువత, ప్రస్తుత అగ్నివీర్ల భవిష్యత్తుకు సంబంధించిన అంశం.",
+   "en": {
+    "h": "Congress demands scrapping of Agnipath scheme",
+    "p": "Congress on Friday said the Agnipath scheme has weakened national security and demanded it be scrapped and regular military recruitment restored. It asked that the 25% of Agniveers made regular get full benefits from their recruitment date. The CDS announced on Wednesday that the remaining 75% will get a two-year extension after four years. About 18,300 Agniveers are due to exit by December 31.",
+    "pts": [
+     "Congress seeks full benefits for regular Agniveers retrospectively",
+     "CDS: two-year extension for the remaining 75%",
+     "Agniveers are paid ₹40,000 a month"
+    ],
+    "why": "The issue concerns youth hoping to join the army and the future of current Agniveers.",
+    "cat": "India · Defence",
+    "statl": "Agniveers due to exit by December 31"
+   },
+   "hi": {
+    "h": "कांग्रेस ने अग्निपथ योजना रद्द करने की मांग की",
+    "p": "कांग्रेस ने शुक्रवार को कहा कि अग्निपथ योजना ने राष्ट्रीय सुरक्षा को कमजोर किया है और इसे रद्द कर नियमित सैन्य भर्ती बहाल करने की मांग की। पार्टी ने कहा कि नियमित होने वाले 25% अग्निवीरों को भर्ती की तारीख से पूरे लाभ मिलें। सीडीएस ने बुधवार को घोषणा की थी कि चार साल बाद बाकी 75% को दो साल का विस्तार मिलेगा। करीब 18,300 अग्निवीरों को 31 दिसंबर तक सेवा छोड़नी है।",
+    "pts": [
+     "नियमित अग्निवीरों को पिछली तारीख से पूरे लाभ की मांग",
+     "सीडीएस: बाकी 75% को दो साल का विस्तार",
+     "अग्निवीरों को ₹40,000 मासिक वेतन"
+    ],
+    "why": "यह सेना में जाने के इच्छुक युवाओं और मौजूदा अग्निवीरों के भविष्य से जुड़ा मुद्दा है।",
+    "cat": "भारत · रक्षा",
+    "statl": "31 दिसंबर तक सेवा छोड़ने वाले अग्निवीर"
+   },
+   "d": "06.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "1.65 లక్షలు",
+   "statl": "అక్టోబర్‌లో అమెరికాలో కొత్త ఉద్యోగాలు",
+   "h": "అమెరికాలో అంచనాలను మించి 1.65 లక్షల కొత్త ఉద్యోగాలు",
+   "p": "అమెరికాలో అక్టోబర్ నెలలో వ్యవసాయేతర రంగాల్లో 1,65,000 కొత్త ఉద్యోగాలు వచ్చాయి. సుమారు 59,000 మాత్రమే వస్తాయని అంచనా వేశారు. గురువారం ఏఐ షేర్ల పతనంతో నాస్‌డాక్ 100 సూచీ 6.3% పడిపోయి 2.3 లక్షల కోట్ల డాలర్ల విలువ ఆవిరైంది. ఈ నేపథ్యంలో శుక్రవారం మార్కెట్ ప్రారంభానికి ముందు ఫ్యూచర్స్ మిశ్రమంగా కదిలాయి. బిట్‌కాయిన్ 4.57% పడిపోయింది.",
+   "src": "TheStreet",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026",
+   "sec": [
+    "world",
+    "business",
+    "jobs"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అంచనా 59,000; వచ్చినవి 1,65,000 ఉద్యోగాలు",
+    "గురువారం నాస్‌డాక్ 100 సూచీ 6.3% పతనం",
+    "బిట్‌కాయిన్ 4.57% తగ్గి సుమారు 75,953 డాలర్లకు"
+   ],
+   "why": "అమెరికా ఉద్యోగ గణాంకాలు ప్రపంచ మార్కెట్ల దిశను, భారత పెట్టుబడిదారులను ప్రభావితం చేస్తాయి.",
+   "en": {
+    "h": "US adds 1.65 lakh jobs in October, beating estimates",
+    "p": "The US added 165,000 non-farm jobs in October, against estimates of about 59,000. On Thursday, an AI stock sell-off pulled the Nasdaq 100 down 6.3%, wiping out $2.3 trillion in value. Against this backdrop, futures moved mixed before Friday's market open. Bitcoin fell 4.57%.",
+    "pts": [
+     "Estimate 59,000; actual 165,000 jobs",
+     "Nasdaq 100 fell 6.3% on Thursday",
+     "Bitcoin down 4.57% to about $75,953"
+    ],
+    "why": "US jobs data steers global markets and affects Indian investors.",
+    "cat": "World · USA",
+    "statl": "new US jobs in October"
+   },
+   "hi": {
+    "h": "अमेरिका में अनुमान से ज्यादा 1.65 लाख नई नौकरियां",
+    "p": "अमेरिका में अक्टूबर में गैर-कृषि क्षेत्रों में 1,65,000 नई नौकरियां जुड़ीं, जबकि करीब 59,000 का अनुमान था। गुरुवार को एआई शेयरों में गिरावट से नैस्डैक 100 सूचकांक 6.3% गिरा और 2.3 लाख करोड़ डॉलर का मूल्य मिट गया। इसी पृष्ठभूमि में शुक्रवार को बाजार खुलने से पहले फ्यूचर्स मिले-जुले रहे। बिटकॉइन 4.57% गिरा।",
+    "pts": [
+     "अनुमान 59,000; मिलीं 1,65,000 नौकरियां",
+     "गुरुवार को नैस्डैक 100 में 6.3% गिरावट",
+     "बिटकॉइन 4.57% गिरकर करीब 75,953 डॉलर"
+    ],
+    "why": "अमेरिकी रोजगार आंकड़े वैश्विक बाजारों की दिशा और भारतीय निवेशकों को प्रभावित करते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "अक्टूबर में अमेरिका में नई नौकरियां"
+   },
+   "d": "06.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "7",
+   "statl": "ఇరాన్ పెట్టిన డిమాండ్లు",
+   "h": "ఖతార్ ద్వారా అమెరికాకు ఇరాన్ అణు ప్రతిపాదన: నివేదికలు",
+   "p": "ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ తన అణు ప్రతిపాదనను అమెరికాకు పంపినట్టు సమాచారం. వాషింగ్టన్ దాన్ని పరిశీలిస్తోంది. అమెరికా తమ ఏడు డిమాండ్లు నెరవేర్చిన తర్వాతే ఈ ప్రతిపాదనపై చర్చ ఉంటుందని ఇరాన్ సీనియర్ అధికారి ఒకరు చెప్పారు. మరోవైపు ఇరాన్‌లో మిగిలినదాన్నీ ధ్వంసం చేయాల్సి రావచ్చని ట్రంప్ హెచ్చరించారు. యుద్ధం ముగింపు ప్రయత్నాలపై ట్రంప్ ఖతార్ ఎమీర్‌తో ఫోన్‌లో మాట్లాడారు.",
+   "src": "The National, Al Jazeera, TheStreet",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/06/live-iran-war-us-nuclear-proposal/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఖతార్ ద్వారా ప్రతిపాదన; పరిశీలిస్తున్న అమెరికా",
+    "ఏడు డిమాండ్లు నెరవేరాకే చర్చ: ఇరాన్ అధికారి",
+    "ఖతార్ ఎమీర్‌తో ట్రంప్ ఫోన్ సంభాషణ"
+   ],
+   "why": "యుద్ధానికి దౌత్య పరిష్కారం దిశగా ఇది కొత్త పరిణామం; గల్ఫ్‌లోని తెలుగు కుటుంబాలకు ముఖ్యమైన వార్త.",
+   "en": {
+    "h": "Iran sends nuclear proposal to US via Qatar: reports",
+    "p": "Iran has reportedly sent its nuclear proposal to the US through Qatari mediators, and Washington is reviewing it. A senior Iranian official said the proposal will be discussed only after the US meets Iran's seven demands. Meanwhile, Trump warned the US may have to destroy the rest of Iran. Trump also spoke by phone with Qatar's Emir on efforts to end the war.",
+    "pts": [
+     "Proposal sent via Qatar; US reviewing it",
+     "Talks only after seven demands met: Iranian official",
+     "Trump speaks to Qatar's Emir by phone"
+    ],
+    "why": "A new step towards a diplomatic end to the war; important news for Telugu families in the Gulf.",
+    "cat": "World · Iran",
+    "statl": "demands set by Iran"
+   },
+   "hi": {
+    "h": "कतर के जरिए ईरान ने अमेरिका को परमाणु प्रस्ताव भेजा: रिपोर्ट",
+    "p": "खबरों के मुताबिक ईरान ने कतर के मध्यस्थों के जरिए अपना परमाणु प्रस्ताव अमेरिका को भेजा है और वॉशिंगटन इसकी समीक्षा कर रहा है। एक वरिष्ठ ईरानी अधिकारी ने कहा कि अमेरिका के ईरान की सात मांगें पूरी करने के बाद ही इस पर चर्चा होगी। इस बीच ट्रंप ने चेतावनी दी कि अमेरिका को बाकी ईरान को भी नष्ट करना पड़ सकता है। ट्रंप ने युद्ध खत्म करने के प्रयासों पर कतर के अमीर से फोन पर बात की।",
+    "pts": [
+     "कतर के जरिए प्रस्ताव; अमेरिका कर रहा समीक्षा",
+     "सात मांगें पूरी होने के बाद ही बातचीत: ईरानी अधिकारी",
+     "ट्रंप ने कतर के अमीर से फोन पर बात की"
+    ],
+    "why": "युद्ध के कूटनीतिक समाधान की दिशा में नया कदम; खाड़ी में रहने वाले तेलुगु परिवारों के लिए अहम खबर।",
+    "cat": "दुनिया · ईरान",
+    "statl": "ईरान की मांगें"
+   },
+   "d": "06.11.2026",
+   "t": "19:35"
+  },
   {
    "cat": "తెలంగాణ · నల్గొండ",
    "col": "--c-power",
@@ -1710,250 +1955,6 @@
     "why": "बारिश न होने से किसानों की फसलों और शहरों की पेयजल आपूर्ति पर असर पड़ता है।",
     "cat": "तेलंगाना · मौसम",
     "statl": "उत्तर-पूर्वी मानसून में बारिश की कमी"
-   }
-  },
-  {
-   "cat": "ఏపీ · తుపాను",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "మురసు",
-   "statl": "తుపాను నష్టంపై సీఎం పర్యటన",
-   "h": "మురసు తుపాను ప్రాంతాల్లో నేడు సీఎం చంద్రబాబు పర్యటన",
-   "p": "మురసు తుపాను ప్రభావిత ప్రాంతాల్లో ముఖ్యమంత్రి చంద్రబాబు నాయుడు ఇవాళ బాపట్ల, గుంటూరు జిల్లాల్లో పర్యటిస్తున్నారు. జిల్లెలమూడి వంతెన వద్ద నష్టాన్ని పరిశీలిస్తారు. దెబ్బతిన్న కాలువలపై జలవనరుల అధికారులతో సమీక్షిస్తారు. గుంటూరు జిల్లా రేటూరులో రైతులను కలుస్తారు.",
-   "pts": [
-    "బాపట్ల, గుంటూరు జిల్లాల్లో పర్యటన",
-    "జిల్లెలమూడి వంతెన వద్ద నష్టం పరిశీలన",
-    "రేటూరులో రైతులతో భేటీ"
-   ],
-   "why": "తుపానుతో పంటలు, కాలువలు దెబ్బతిన్న రైతులకు సాయంపై ఈ పర్యటన కీలకం.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--06th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110600501",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "ap-bapatla",
-   "loc": "జిల్లెలమూడి",
-   "d": "06.11.2026",
-   "t": "12:05",
-   "en": {
-    "h": "CM Chandrababu tours Cyclone Murasu-hit areas today",
-    "p": "Chief Minister Chandrababu Naidu is touring Cyclone Murasu-affected areas in Bapatla and Guntur districts today. He will inspect the damage at the Jillelamudi bridge. He will review damaged drains with irrigation officials. He will meet farmers at Returu in Guntur district.",
-    "pts": [
-     "Tour of Bapatla and Guntur districts",
-     "Inspection of damage at Jillelamudi bridge",
-     "Meeting with farmers at Returu"
-    ],
-    "why": "The tour is key for help to farmers whose crops and drains were damaged by the cyclone.",
-    "cat": "AP · Cyclone",
-    "statl": "CM tour on cyclone damage"
-   },
-   "hi": {
-    "h": "मुरासु चक्रवात प्रभावित इलाकों का आज दौरा करेंगे सीएम चंद्रबाबू",
-    "p": "मुख्यमंत्री चंद्रबाबू नायडू आज बापट्ला और गुंटूर ज़िलों के मुरासु चक्रवात प्रभावित इलाकों का दौरा कर रहे हैं। वे जिल्लेलमूडी पुल पर नुकसान का जायज़ा लेंगे। क्षतिग्रस्त नालों पर सिंचाई अधिकारियों के साथ समीक्षा करेंगे। गुंटूर ज़िले के रेटूरु में किसानों से मिलेंगे।",
-    "pts": [
-     "बापट्ला और गुंटूर ज़िलों का दौरा",
-     "जिल्लेलमूडी पुल पर नुकसान का निरीक्षण",
-     "रेटूरु में किसानों से मुलाकात"
-    ],
-    "why": "चक्रवात से जिन किसानों की फसलें और नाले खराब हुए, उनकी मदद के लिए यह दौरा अहम है।",
-    "cat": "आंध्र प्रदेश · चक्रवात",
-    "statl": "चक्रवात नुकसान पर सीएम का दौरा"
-   }
-  },
-  {
-   "cat": "కర్ణాటక · బెంగళూరు",
-   "col": "--c-city",
-   "art": "economy",
-   "stat": "₹1,200 కోట్లు",
-   "statl": "బస్ ఛార్జీల పెంపుతో ఏటా అదనపు ఆదాయం",
-   "h": "కర్ణాటక బస్ ఛార్జీల పెంపుతో ఏటా ₹1,200 కోట్ల అదనపు ఆదాయం",
-   "p": "నవంబర్ 5 నుంచి అమల్లోకి వచ్చిన బస్ ఛార్జీల పెంపుతో కర్ణాటకలోని నాలుగు రవాణా సంస్థలకు ఏటా సుమారు ₹1,200 కోట్ల అదనపు ఆదాయం వస్తుందని అంచనా. బెంగళూరు బీఎంటీసీ ఛార్జీలు సగటున 35%, ఇతర సంస్థల ఛార్జీలు 23% పెరిగాయి. అయితే సెప్టెంబర్ నాటికి సంస్థల అప్పులు ₹9,912.88 కోట్లు ఉండగా, ఈ ఆదాయం అందులో కొంత భాగాన్నే తీరుస్తుంది.",
-   "pts": [
-    "బీఎంటీసీ ఛార్జీలు సగటున 35% పెంపు",
-    "ఇతర సంస్థల్లో 23% పెంపు",
-    "సంస్థల అప్పులు ₹9,912.88 కోట్లు"
-   ],
-   "why": "బెంగళూరు సహా కర్ణాటకలో రోజూ బస్సుల్లో ప్రయాణించే లక్షల మందిపై భారం పడుతుంది.",
-   "src": "Deccan Herald, The Hindu",
-   "url": "https://indianopinion.org/karnataka-bus-fare-hike-to-fetch-rs-1200-crore-annually/",
-   "sec": [
-    "india"
-   ],
-   "st": "KA",
-   "place": "st-KA",
-   "d": "06.11.2026",
-   "t": "12:05",
-   "en": {
-    "h": "Karnataka bus fare hike to bring ₹1,200 crore extra a year",
-    "p": "The bus fare hike that came into force on November 5 is expected to bring Karnataka's four transport corporations about ₹1,200 crore extra a year. Bengaluru's BMTC fares rose by an average of 35%, and other corporations' fares by 23%. But the corporations' liabilities stood at ₹9,912.88 crore as of September, and this revenue will cover only part of it.",
-    "pts": [
-     "BMTC fares up 35% on average",
-     "23% hike in other corporations",
-     "Corporations' liabilities at ₹9,912.88 crore"
-    ],
-    "why": "It adds to the burden on lakhs of daily bus commuters across Karnataka, including Bengaluru.",
-    "cat": "Karnataka · Bengaluru",
-    "statl": "Extra annual revenue from bus fare hike"
-   },
-   "hi": {
-    "h": "कर्नाटक बस किराया बढ़ोतरी से सालाना ₹1,200 करोड़ अतिरिक्त आय",
-    "p": "5 नवंबर से लागू बस किराया बढ़ोतरी से कर्नाटक के चार परिवहन निगमों को सालाना करीब ₹1,200 करोड़ अतिरिक्त आय होने का अनुमान है। बेंगलुरु बीएमटीसी का किराया औसतन 35% और अन्य निगमों का 23% बढ़ा है। लेकिन सितंबर तक निगमों पर ₹9,912.88 करोड़ की देनदारियां थीं, और यह आय उसका कुछ हिस्सा ही पूरा करेगी।",
-    "pts": [
-     "बीएमटीसी किराया औसतन 35% बढ़ा",
-     "अन्य निगमों में 23% बढ़ोतरी",
-     "निगमों की देनदारियां ₹9,912.88 करोड़"
-    ],
-    "why": "बेंगलुरु समेत कर्नाटक में रोज़ बस से सफर करने वाले लाखों लोगों पर बोझ बढ़ेगा।",
-    "cat": "कर्नाटक · बेंगलुरु",
-    "statl": "किराया बढ़ोतरी से सालाना अतिरिक्त आय"
-   }
-  },
-  {
-   "cat": "ఏపీ · తిరుమల",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "3 సభ్యులు",
-   "statl": "టీటీడీ స్పెసిఫైడ్ అథారిటీ కమిటీ",
-   "h": "టీటీడీ స్పెసిఫైడ్ అథారిటీ ఛైర్మన్‌గా ఈవో రవిచంద్ర ప్రమాణం",
-   "p": "టీటీడీ ధర్మకర్తల మండలి పదవీకాలం ముగియడంతో ప్రభుత్వం ముగ్గురు సభ్యులతో ప్రత్యేక అధికారుల కమిటీని ఏర్పాటు చేసింది. ఈ స్పెసిఫైడ్ అథారిటీకి ఛైర్మన్‌గా టీటీడీ ఈవో ముద్దాడ రవిచంద్ర ప్రమాణ స్వీకారం చేశారు. ఆర్థిక శాఖ కార్యదర్శి వినయ్‌చంద్, దేవాదాయ శాఖ కార్యదర్శి కన్నబాబు సభ్యులుగా ఉంటారు. కొత్త పాలకమండలి ఏర్పడే వరకు ఈ కమిటీ కొనసాగుతుంది.",
-   "pts": [
-    "టీటీడీ బోర్డు పదవీకాలం ముగియడంతో ప్రత్యేక కమిటీ",
-    "ఛైర్మన్‌గా ఈవో ముద్దాడ రవిచంద్ర ప్రమాణం",
-    "సభ్యులుగా వినయ్‌చంద్, కన్నబాబు"
-   ],
-   "why": "కొత్త బోర్డు వచ్చే వరకు తిరుమల ఆలయ నిర్వహణ నిర్ణయాలు ఈ కమిటీ చేతుల్లో ఉంటాయి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--06th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110600501",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "AP",
-   "place": "ap-tirupati",
-   "loc": "తిరుమల",
-   "d": "06.11.2026",
-   "t": "11:35",
-   "en": {
-    "h": "TTD EO Ravichandra sworn in as chairman of specified authority",
-    "p": "With the term of the TTD Board of Trustees over, the government has set up a three-member special officers' committee. TTD EO Muddada Ravichandra was sworn in as chairman of this specified authority. Finance Department Secretary Vinaychand and Endowments Department Secretary Kannababu are members. The committee will continue until a new governing body is formed.",
-    "pts": [
-     "Special committee as TTD board's term ends",
-     "EO Muddada Ravichandra sworn in as chairman",
-     "Vinaychand and Kannababu are members"
-    ],
-    "why": "Until a new board is formed, decisions on running the Tirumala temple rest with this committee.",
-    "cat": "AP · Tirumala",
-    "statl": "TTD specified authority committee"
-   },
-   "hi": {
-    "h": "टीटीडी ईओ रविचंद्र ने विशेष प्राधिकरण अध्यक्ष पद की शपथ ली",
-    "p": "टीटीडी न्यासी बोर्ड का कार्यकाल खत्म होने पर सरकार ने तीन सदस्यों वाली विशेष अधिकारियों की समिति बनाई है। टीटीडी ईओ मुद्दाडा रविचंद्र ने इस स्पेसिफाइड अथॉरिटी के अध्यक्ष के रूप में शपथ ली। वित्त विभाग के सचिव विनयचंद और बंदोबस्ती विभाग के सचिव कन्नबाबू सदस्य हैं। नया शासी मंडल बनने तक यह समिति काम करेगी।",
-    "pts": [
-     "टीटीडी बोर्ड का कार्यकाल खत्म होने पर विशेष समिति",
-     "ईओ मुद्दाडा रविचंद्र ने अध्यक्ष पद की शपथ ली",
-     "विनयचंद और कन्नबाबू सदस्य"
-    ],
-    "why": "नया बोर्ड बनने तक तिरुमला मंदिर के प्रबंधन से जुड़े फैसले यही समिति लेगी।",
-    "cat": "आंध्र प्रदेश · तिरुमला",
-    "statl": "टीटीडी विशेष प्राधिकरण समिति"
-   }
-  },
-  {
-   "cat": "ఏపీ · విశాఖ · పరిశ్రమ",
-   "col": "--c-money",
-   "art": "power",
-   "stat": "11 మంది",
-   "statl": "విశాఖ ఉక్కు కర్మాగారంలో సస్పెండ్ అయిన ఉద్యోగులు",
-   "h": "విశాఖ స్టీల్ ప్లాంట్‌లో 11 మంది ఉద్యోగుల సస్పెన్షన్",
-   "p": "విశాఖపట్నం ఉక్కు కర్మాగారం (విశాఖ స్టీల్ ప్లాంట్) యాజమాన్యం 11 మంది ఉద్యోగులను సస్పెండ్ చేసింది. ప్లాంట్‌లోని మిల్స్ విభాగంలో ఉత్పత్తి తక్కువగా ఉండటమే ఈ చర్యకు కారణమని యాజమాన్యం పేర్కొంది. శుక్రవారం ఉదయం ఈ సమాచారం వెలుగులోకి వచ్చింది.",
-   "pts": [
-    "విశాఖ ఉక్కు కర్మాగారంలో 11 మంది సస్పెండ్",
-    "మిల్స్ విభాగంలో తక్కువ ఉత్పత్తి కారణం"
-   ],
-   "why": "విశాఖ స్టీల్ ప్లాంట్ ఉద్యోగులు, వారి కుటుంబాలకు ఈ నిర్ణయం ఆందోళన కలిగించే విషయం.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--06th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110600501",
-   "sec": [
-    "telangana",
-    "jobs",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "loc": "విశాఖపట్నం",
-   "d": "06.11.2026",
-   "t": "11:35",
-   "en": {
-    "h": "11 employees suspended at Visakhapatnam Steel Plant",
-    "p": "The management of the Visakhapatnam Steel Plant (Vizag Steel Plant) has suspended 11 employees. The management said the action was taken because of low output in the plant's Mills division. The information came to light on Friday morning.",
-    "pts": [
-     "11 suspended at Visakhapatnam Steel Plant",
-     "Low output in Mills division cited as reason"
-    ],
-    "why": "The decision is a matter of concern for Vizag Steel Plant employees and their families.",
-    "cat": "AP · Visakhapatnam · Industry",
-    "statl": "Employees suspended at Vizag Steel Plant"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम स्टील प्लांट में 11 कर्मचारी निलंबित",
-    "p": "विशाखापत्तनम स्टील प्लांट (विजाग स्टील प्लांट) के प्रबंधन ने 11 कर्मचारियों को निलंबित कर दिया है। प्रबंधन ने कहा कि प्लांट के मिल्स विभाग में कम उत्पादन के कारण यह कार्रवाई की गई। यह जानकारी शुक्रवार सुबह सामने आई।",
-    "pts": [
-     "विशाखापत्तनम स्टील प्लांट में 11 निलंबित",
-     "मिल्स विभाग में कम उत्पादन बताया गया कारण"
-    ],
-    "why": "यह फैसला विजाग स्टील प्लांट के कर्मचारियों और उनके परिवारों के लिए चिंता का विषय है।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम · उद्योग",
-    "statl": "विजाग स्टील प्लांट में निलंबित कर्मचारी"
-   }
-  },
-  {
-   "cat": "జార్ఖండ్ · ఖుంటి · ప్రమాదం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "7 మంది",
-   "statl": "ట్రక్కు ప్రమాదంలో మృతులు",
-   "h": "జార్ఖండ్‌లో గుంపుపైకి దూసుకెళ్లిన ట్రక్కు; ఏడుగురు మృతి",
-   "p": "జార్ఖండ్‌లోని ఖుంటి జిల్లాలో శుక్రవారం తెల్లవారుజామున ఘోర ప్రమాదం జరిగింది. అంతకుముందు జరిగిన స్కూటీ ప్రమాదం దగ్గర గుమిగూడిన జనంపైకి వేగంగా వచ్చిన ట్రక్కు దూసుకెళ్లింది. ఈ ఘటనలో నలుగురు మహిళలు, ముగ్గురు పిల్లలు సహా ఏడుగురు మరణించారు. కర్రా-తోర్పా రోడ్డులోని జోన్-లుడ్రు మలుపు వద్ద ఇది జరిగింది. ట్రక్కు అతివేగంతో ఉందని ఎస్పీ తెలిపారు.",
-   "pts": [
-    "ఖుంటి జిల్లాలో ట్రక్కు ఢీకొని ఏడుగురు మృతి",
-    "మృతుల్లో నలుగురు మహిళలు, ముగ్గురు పిల్లలు",
-    "ట్రక్కు అతివేగమే కారణమన్న ఎస్పీ"
-   ],
-   "why": "ప్రమాద స్థలాల వద్ద గుమిగూడటం ఎంత ప్రమాదకరమో, అతివేగం ఎంత ప్రాణాంతకమో ఈ ఘటన చూపుతోంది.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/7-killed-as-speeding-truck-runs-over-crowd-in-jharkhand/",
-   "sec": [
-    "india"
-   ],
-   "st": "JH",
-   "place": "IN",
-   "d": "06.11.2026",
-   "t": "11:35",
-   "en": {
-    "h": "Speeding truck runs over crowd in Jharkhand; seven killed",
-    "p": "A major accident took place early on Friday in Jharkhand's Khunti district. A speeding truck ran into a crowd that had gathered at the site of an earlier scooty accident. Seven people, including four women and three children, were killed. It happened near the Jone-Ludru turn on the Karra-Torpa road. The SP said the truck was overspeeding.",
-    "pts": [
-     "Seven killed as truck hits crowd in Khunti district",
-     "Four women and three children among the dead",
-     "SP says the truck was overspeeding"
-    ],
-    "why": "The incident shows how dangerous it is to crowd around accident sites, and how deadly overspeeding can be.",
-    "cat": "Jharkhand · Khunti · Accident",
-    "statl": "Killed in truck accident"
-   },
-   "hi": {
-    "h": "झारखंड में तेज रफ्तार ट्रक भीड़ पर चढ़ा; सात की मौत",
-    "p": "झारखंड के खूंटी जिले में शुक्रवार तड़के बड़ा हादसा हुआ। पहले हुए एक स्कूटी हादसे की जगह पर जमा भीड़ पर तेज रफ्तार ट्रक चढ़ गया। इस घटना में चार महिलाओं और तीन बच्चों समेत सात लोगों की मौत हो गई। यह हादसा कर्रा-तोरपा सड़क पर जोन-लुड्रू मोड़ के पास हुआ। एसपी ने बताया कि ट्रक तेज रफ्तार में था।",
-    "pts": [
-     "खूंटी जिले में ट्रक की टक्कर से सात की मौत",
-     "मृतकों में चार महिलाएं और तीन बच्चे",
-     "एसपी के अनुसार ट्रक तेज रफ्तार में था"
-    ],
-    "why": "यह घटना दिखाती है कि हादसे की जगह पर भीड़ लगाना कितना खतरनाक है और तेज रफ्तार कितनी जानलेवा हो सकती है।",
-    "cat": "झारखंड · खूंटी · हादसा",
-    "statl": "ट्रक हादसे में मौतें"
    }
   }
  ]
