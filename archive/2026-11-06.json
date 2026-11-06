@@ -1,8 +1,204 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 62,
+ "count": 66,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · రవాణా",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "₹308 కోట్లు",
+   "statl": "లింగంపల్లి ఆర్‌ఓబీ ప్రాజెక్టు వ్యయం",
+   "h": "లింగంపల్లి వద్ద నాలుగు వరుసల స్టీల్ ఆర్‌ఓబీ; గుల్మొహర్ నుంచి బీహెచ్‌ఈఎల్ వరకు",
+   "p": "లింగంపల్లి రైల్వే స్టేషన్ సమీపంలో గుల్మొహర్ జంక్షన్ నుంచి బీహెచ్‌ఈఎల్ జంక్షన్ వరకు 2 కిలోమీటర్ల పొడవైన నాలుగు వరుసల స్టీల్ రైల్ ఓవర్ బ్రిడ్జి రానుంది. జంక్షన్ల అభివృద్ధితో కలిపి వ్యయం ₹308 కోట్లు. సైబరాబాద్ మున్సిపల్ కార్పొరేషన్‌తో కలిసి తనిఖీ చేసిన తర్వాత రైల్వే అధికారులు బౌస్ట్రింగ్ డిజైన్‌కు బదులు స్టీల్ ఆర్‌ఓబీని ఎంచుకున్నారు.",
+   "pts": [
+    "2 కి.మీ. పొడవు, 41 పిల్లర్లు",
+    "గుల్మొహర్ వద్ద రెండు వరుసల అప్-ర్యాంప్",
+    "తారానగర్ రోడ్డును 100 అడుగులకు విస్తరించాలి"
+   ],
+   "why": "రైల్వే ట్రాక్ దాటేందుకు 15–20 నిమిషాలు అదనంగా పడుతున్న తెల్లాపూర్, లింగంపల్లి ప్రయాణికులకు ఊరట కలుగుతుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/four-lane-steel-rob-near-lingampally-station-to-connect-gulmohar-junction-with-bhel",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "లింగంపల్లి",
+   "en": {
+    "h": "Four-lane steel RoB near Lingampally to link Gulmohar Junction with BHEL",
+    "p": "A 2 km four-lane steel rail overbridge will come up near Lingampally railway station, from Gulmohar Junction to BHEL Junction. Including junction improvements, it will cost Rs 308 crore. After a joint inspection with Cyberabad Municipal Corporation officials, railway authorities chose a steel RoB instead of a bowstring design.",
+    "pts": [
+     "2 km long, 41 piers",
+     "Two-lane up-ramp at Gulmohar Junction",
+     "Taranagar road to be widened to 100 feet"
+    ],
+    "why": "It will bring relief to Tellapur and Lingampally commuters who now lose 15–20 extra minutes crossing the railway track.",
+    "cat": "Hyderabad · Transport",
+    "statl": "Cost of the Lingampally RoB project"
+   },
+   "hi": {
+    "h": "लिंगमपल्ली के पास चार लेन का स्टील आरओबी; गुलमोहर से बीएचईएल तक",
+    "p": "लिंगमपल्ली रेलवे स्टेशन के पास गुलमोहर जंक्शन से बीएचईएल जंक्शन तक 2 किलोमीटर लंबा चार लेन का स्टील रेल ओवरब्रिज बनेगा। जंक्शन सुधार सहित इसकी लागत ₹308 करोड़ है। साइबराबाद नगर निगम के अधिकारियों के साथ संयुक्त निरीक्षण के बाद रेलवे ने बोस्ट्रिंग डिज़ाइन की जगह स्टील आरओबी चुना।",
+    "pts": [
+     "2 किमी लंबा, 41 पिलर",
+     "गुलमोहर जंक्शन पर दो लेन का अप-रैंप",
+     "तारानगर सड़क 100 फीट चौड़ी करनी होगी"
+    ],
+    "why": "रेलवे ट्रैक पार करने में 15–20 मिनट अतिरिक्त गंवाने वाले तेल्लापुर और लिंगमपल्ली के यात्रियों को राहत मिलेगी।",
+    "cat": "हैदराबाद · परिवहन",
+    "statl": "लिंगमपल्ली आरओबी परियोजना की लागत"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
+  {
+   "cat": "తెలంగాణ · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "₹4,193 కోట్లు",
+   "statl": "మూడు బ్యారేజీల పునరుద్ధరణ అంచనా",
+   "h": "మేడిగడ్డ, అన్నారం, సుందిళ్ల బ్యారేజీల మరమ్మతులు డిసెంబర్‌లో ప్రారంభం: సీఎం",
+   "p": "మేడిగడ్డ, అన్నారం, సుందిళ్ల బ్యారేజీల పునరుద్ధరణ పనులను డిసెంబర్‌లో మొదలుపెట్టాలని ముఖ్యమంత్రి రేవంత్ రెడ్డి అధికారులను ఆదేశించారు. మూడు బ్యారేజీల ప్రతిపాదనల అంచనా సుమారు ₹4,193 కోట్లు. నిర్మాణ లోపాల మరమ్మతుల ఖర్చును నిర్మాణ సంస్థలే భరిస్తాయని, అదనపు పనుల ఖర్చు ప్రభుత్వానిదని అధికారులు తెలిపారు.",
+   "pts": [
+    "ఈ నెలాఖరులోగా తుది అనుమతులు పొందాలని ఆదేశం",
+    "కేంద్ర సంస్థలు, డ్యామ్ భద్రతా నిపుణుల సిఫార్సుల ప్రకారమే పనులు",
+    "అక్టోబర్ నాటికి దేవాదుల, సీతారామ ద్వారా 24.81 టీఎంసీలు"
+   ],
+   "why": "గోదావరి బ్యారేజీలపై ఆధారపడిన రైతులకు సాగునీటి సరఫరా పునరుద్ధరణపై స్పష్టత వస్తుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/revanth-reddy-sets-december-target-for-restoration-of-medigadda-annaram-and-sundilla-barrages",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Medigadda, Annaram, Sundilla barrage repairs to begin in December: CM",
+    "p": "Chief Minister Revanth Reddy directed officials to begin restoration of the Medigadda, Annaram and Sundilla barrages in December. Proposals for the three barrages are estimated at around Rs 4,193 crore. Officials said construction companies will bear the cost of repairing structural defects, while the government will pay for additional works.",
+    "pts": [
+     "Final approvals to be secured by month-end",
+     "Works to follow Central agencies' and dam safety experts' advice",
+     "24.81 TMC lifted via Devadula and Sitarama by October"
+    ],
+    "why": "Farmers who depend on the Godavari barrages get clarity on when irrigation supply will be restored.",
+    "cat": "Telangana · Irrigation",
+    "statl": "Estimated cost of restoring three barrages"
+   },
+   "hi": {
+    "h": "मेडिगड्डा, अन्नारम, सुंदिल्ला बैराज की मरम्मत दिसंबर में शुरू होगी: मुख्यमंत्री",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने अधिकारियों को मेडिगड्डा, अन्नारम और सुंदिल्ला बैराज की बहाली का काम दिसंबर में शुरू करने का निर्देश दिया। तीनों बैराज के प्रस्तावों का अनुमान लगभग ₹4,193 करोड़ है। अधिकारियों ने कहा कि ढांचागत खामियों की मरम्मत का खर्च निर्माण कंपनियां उठाएंगी, जबकि अतिरिक्त कार्यों का खर्च सरकार देगी।",
+    "pts": [
+     "महीने के अंत तक अंतिम मंजूरी लेने का निर्देश",
+     "केंद्रीय एजेंसियों और बांध सुरक्षा विशेषज्ञों की सिफारिशों के अनुसार काम",
+     "अक्टूबर तक देवादुला और सीतारामा से 24.81 टीएमसी"
+    ],
+    "why": "गोदावरी बैराजों पर निर्भर किसानों को सिंचाई आपूर्ति बहाली को लेकर स्पष्टता मिलेगी।",
+    "cat": "तेलंगाना · सिंचाई",
+    "statl": "तीन बैराज की बहाली का अनुमान"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
+  {
+   "cat": "ఏపీ · గుంటూరు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "37 ఘటనలు",
+   "statl": "15 జిల్లాల్లో పోలింగ్ రోజు ఘటనలు",
+   "h": "బ్యాలెట్ బాక్స్ వివాదం: గుంటూరులో వైఎస్సార్‌సీపీ ఎమ్మెల్సీ లేళ్ల అప్పిరెడ్డి అరెస్ట్",
+   "p": "గురువారం ఎంపీటీసీ, జడ్పీటీసీ పోలింగ్ తర్వాత ఒక అధికారి బ్యాలెట్ బాక్స్‌ను దారి మళ్లించారని ఆరోపిస్తూ వైఎస్సార్‌సీపీ నేతలు నల్లపాడులో రెండు గంటలు ధర్నా చేశారు. శుక్రవారం తెల్లవారుజామున ఎమ్మెల్సీ లేళ్ల అప్పిరెడ్డి సహా పలువురిని పోలీసులు అరెస్ట్ చేసి నల్లపాడు స్టేషన్‌కు తరలించి కేసు నమోదు చేశారు.",
+   "pts": [
+    "అనంతపురం జిల్లా కూడేరు ఘటనలో 60 మందిపై నాన్‌బెయిలబుల్ కేసులు",
+    "పోలింగ్ సిబ్బందిని అడ్డుకున్న ఐదుగురిపై మరో కేసు",
+    "15 జిల్లాల్లో 37 ఘటనలు: డీజీపీ హరీశ్ కుమార్ గుప్తా"
+   ],
+   "why": "ఏపీ స్థానిక సంస్థల ఎన్నికల ప్రక్రియపై ఓటర్లు, పార్టీలు నిశితంగా దృష్టి పెడుతున్నారు.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/ysrcp-mlc-lella-appi-reddy-arrested-after-ballot-box-diversion-row-in-andhra-pradesh",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-guntur",
+   "loc": "నల్లపాడు",
+   "en": {
+    "h": "Ballot box row: YSRCP MLC Lella Appi Reddy arrested in Guntur",
+    "p": "After Thursday's MPTC and ZPTC polling, YSRCP leaders staged a two-hour dharna at Nallapadu alleging that an official had diverted a ballot box. In the early hours of Friday, police arrested MLC Lella Appi Reddy and others, took them to Nallapadu police station and registered a case.",
+    "pts": [
+     "Non-bailable cases against 60 over Kuderu incident in Anantapur district",
+     "Separate case against five for obstructing polling staff",
+     "37 incidents in 15 districts: DGP Harish Kumar Gupta"
+    ],
+    "why": "Voters and parties are closely watching how Andhra Pradesh's local body election process unfolds.",
+    "cat": "AP · Guntur",
+    "statl": "Polling-day incidents in 15 districts"
+   },
+   "hi": {
+    "h": "बैलेट बॉक्स विवाद: गुंटूर में वाईएसआरसीपी एमएलसी लेल्ला अप्पी रेड्डी गिरफ्तार",
+    "p": "गुरुवार को एमपीटीसी और जेडपीटीसी मतदान के बाद वाईएसआरसीपी नेताओं ने नल्लापाडु में दो घंटे धरना दिया और आरोप लगाया कि एक अधिकारी ने बैलेट बॉक्स दूसरी जगह ले जाया। शुक्रवार तड़के पुलिस ने एमएलसी लेल्ला अप्पी रेड्डी समेत कई लोगों को गिरफ्तार कर नल्लापाडु थाने ले जाकर मामला दर्ज किया।",
+    "pts": [
+     "अनंतपुर जिले के कुडेरु मामले में 60 पर गैर-जमानती केस",
+     "मतदान कर्मियों को रोकने पर पांच के खिलाफ अलग केस",
+     "15 जिलों में 37 घटनाएं: डीजीपी हरीश कुमार गुप्ता"
+    ],
+    "why": "आंध्र प्रदेश के स्थानीय निकाय चुनाव की प्रक्रिया पर मतदाता और दल बारीकी से नज़र रख रहे हैं।",
+    "cat": "आंध्र प्रदेश · गुंटूर",
+    "statl": "15 जिलों में मतदान के दिन की घटनाएं"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
+  {
+   "cat": "భారత్ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2.5 లక్షలు",
+   "statl": "రోజుకు అవసరమైన స్మార్ట్ మీటర్లు",
+   "h": "25 కోట్ల స్మార్ట్ మీటర్ల లక్ష్యానికి రోజుకు 2.5 లక్షల మీటర్లు అవసరం: నివేదిక",
+   "p": "2028 మార్చి నాటికి 25 కోట్ల స్మార్ట్ మీటర్ల లక్ష్యం చేరాలంటే దేశంలో రోజుకు దాదాపు 2.5 లక్షల మీటర్లు అమర్చాలని కేర్‌ఎడ్జ్ రేటింగ్స్ నివేదిక తెలిపింది. 2026 ఏప్రిల్ నాటికి సుమారు 6.5 కోట్ల మీటర్లు మాత్రమే అమర్చారు. 2025-26లో రోజుకు సగటున 99 వేల మీటర్లే బిగించారు.",
+   "pts": [
+    "ఏప్రిల్ 2026 నాటికి 9% మీటర్లే ప్రీపెయిడ్ మోడ్‌లో",
+    "మహారాష్ట్ర, బిహార్, యూపీ వాటా సుమారు 47%",
+    "2030-31 వరకు ₹1.84 లక్షల కోట్ల అదనపు ఆదాయం అంచనా"
+   ],
+   "why": "ఇళ్లకు స్మార్ట్, ప్రీపెయిడ్ మీటర్ల ఏర్పాటు వేగం విద్యుత్ వినియోగదారులందరిపై ప్రభావం చూపుతుంది.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/india-needs-2-5-lakh-smart-meter-installations-a-day-to-meet-25-crore-target-by-march-2028",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "India needs 2.5 lakh smart meters a day to hit 25-crore target: report",
+    "p": "To reach the target of 25 crore smart meters by March 2028, India needs to install nearly 2.5 lakh meters a day, a CareEdge Ratings report said. Only about 6.5 crore meters had been installed by April 2026. In 2025-26, an average of only about 99,000 meters were installed daily.",
+    "pts": [
+     "Only 9% of meters in prepaid mode as of April 2026",
+     "Maharashtra, Bihar and UP account for about 47%",
+     "Rs 1.84 lakh crore additional revenue estimated till 2030-31"
+    ],
+    "why": "The pace of smart and prepaid meter installation affects every electricity consumer.",
+    "cat": "India · Power",
+    "statl": "Smart meters needed every day"
+   },
+   "hi": {
+    "h": "25 करोड़ स्मार्ट मीटर लक्ष्य के लिए रोज़ 2.5 लाख मीटर चाहिए: रिपोर्ट",
+    "p": "केयरएज रेटिंग्स की रिपोर्ट के अनुसार मार्च 2028 तक 25 करोड़ स्मार्ट मीटर का लक्ष्य पाने के लिए देश में रोज़ लगभग 2.5 लाख मीटर लगाने होंगे। अप्रैल 2026 तक केवल करीब 6.5 करोड़ मीटर लगे थे। 2025-26 में रोज़ औसतन केवल लगभग 99 हज़ार मीटर लगाए गए।",
+    "pts": [
+     "अप्रैल 2026 तक केवल 9% मीटर प्रीपेड मोड में",
+     "महाराष्ट्र, बिहार और यूपी की हिस्सेदारी लगभग 47%",
+     "2030-31 तक ₹1.84 लाख करोड़ अतिरिक्त राजस्व का अनुमान"
+    ],
+    "why": "स्मार्ट और प्रीपेड मीटर लगाने की रफ्तार हर बिजली उपभोक्ता को प्रभावित करती है।",
+    "cat": "भारत · बिजली",
+    "statl": "रोज़ाना ज़रूरी स्मार्ट मीटर"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
   {
    "cat": "తెలంగాణ · ప్రభుత్వం",
    "col": "--c-gov",

@@ -1,8 +1,204 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T17:14:15+05:30",
+ "updated": "2026-11-06T17:48:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · రవాణా",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "₹308 కోట్లు",
+   "statl": "లింగంపల్లి ఆర్‌ఓబీ ప్రాజెక్టు వ్యయం",
+   "h": "లింగంపల్లి వద్ద నాలుగు వరుసల స్టీల్ ఆర్‌ఓబీ; గుల్మొహర్ నుంచి బీహెచ్‌ఈఎల్ వరకు",
+   "p": "లింగంపల్లి రైల్వే స్టేషన్ సమీపంలో గుల్మొహర్ జంక్షన్ నుంచి బీహెచ్‌ఈఎల్ జంక్షన్ వరకు 2 కిలోమీటర్ల పొడవైన నాలుగు వరుసల స్టీల్ రైల్ ఓవర్ బ్రిడ్జి రానుంది. జంక్షన్ల అభివృద్ధితో కలిపి వ్యయం ₹308 కోట్లు. సైబరాబాద్ మున్సిపల్ కార్పొరేషన్‌తో కలిసి తనిఖీ చేసిన తర్వాత రైల్వే అధికారులు బౌస్ట్రింగ్ డిజైన్‌కు బదులు స్టీల్ ఆర్‌ఓబీని ఎంచుకున్నారు.",
+   "pts": [
+    "2 కి.మీ. పొడవు, 41 పిల్లర్లు",
+    "గుల్మొహర్ వద్ద రెండు వరుసల అప్-ర్యాంప్",
+    "తారానగర్ రోడ్డును 100 అడుగులకు విస్తరించాలి"
+   ],
+   "why": "రైల్వే ట్రాక్ దాటేందుకు 15–20 నిమిషాలు అదనంగా పడుతున్న తెల్లాపూర్, లింగంపల్లి ప్రయాణికులకు ఊరట కలుగుతుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/four-lane-steel-rob-near-lingampally-station-to-connect-gulmohar-junction-with-bhel",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "లింగంపల్లి",
+   "en": {
+    "h": "Four-lane steel RoB near Lingampally to link Gulmohar Junction with BHEL",
+    "p": "A 2 km four-lane steel rail overbridge will come up near Lingampally railway station, from Gulmohar Junction to BHEL Junction. Including junction improvements, it will cost Rs 308 crore. After a joint inspection with Cyberabad Municipal Corporation officials, railway authorities chose a steel RoB instead of a bowstring design.",
+    "pts": [
+     "2 km long, 41 piers",
+     "Two-lane up-ramp at Gulmohar Junction",
+     "Taranagar road to be widened to 100 feet"
+    ],
+    "why": "It will bring relief to Tellapur and Lingampally commuters who now lose 15–20 extra minutes crossing the railway track.",
+    "cat": "Hyderabad · Transport",
+    "statl": "Cost of the Lingampally RoB project"
+   },
+   "hi": {
+    "h": "लिंगमपल्ली के पास चार लेन का स्टील आरओबी; गुलमोहर से बीएचईएल तक",
+    "p": "लिंगमपल्ली रेलवे स्टेशन के पास गुलमोहर जंक्शन से बीएचईएल जंक्शन तक 2 किलोमीटर लंबा चार लेन का स्टील रेल ओवरब्रिज बनेगा। जंक्शन सुधार सहित इसकी लागत ₹308 करोड़ है। साइबराबाद नगर निगम के अधिकारियों के साथ संयुक्त निरीक्षण के बाद रेलवे ने बोस्ट्रिंग डिज़ाइन की जगह स्टील आरओबी चुना।",
+    "pts": [
+     "2 किमी लंबा, 41 पिलर",
+     "गुलमोहर जंक्शन पर दो लेन का अप-रैंप",
+     "तारानगर सड़क 100 फीट चौड़ी करनी होगी"
+    ],
+    "why": "रेलवे ट्रैक पार करने में 15–20 मिनट अतिरिक्त गंवाने वाले तेल्लापुर और लिंगमपल्ली के यात्रियों को राहत मिलेगी।",
+    "cat": "हैदराबाद · परिवहन",
+    "statl": "लिंगमपल्ली आरओबी परियोजना की लागत"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
+  {
+   "cat": "తెలంగాణ · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "₹4,193 కోట్లు",
+   "statl": "మూడు బ్యారేజీల పునరుద్ధరణ అంచనా",
+   "h": "మేడిగడ్డ, అన్నారం, సుందిళ్ల బ్యారేజీల మరమ్మతులు డిసెంబర్‌లో ప్రారంభం: సీఎం",
+   "p": "మేడిగడ్డ, అన్నారం, సుందిళ్ల బ్యారేజీల పునరుద్ధరణ పనులను డిసెంబర్‌లో మొదలుపెట్టాలని ముఖ్యమంత్రి రేవంత్ రెడ్డి అధికారులను ఆదేశించారు. మూడు బ్యారేజీల ప్రతిపాదనల అంచనా సుమారు ₹4,193 కోట్లు. నిర్మాణ లోపాల మరమ్మతుల ఖర్చును నిర్మాణ సంస్థలే భరిస్తాయని, అదనపు పనుల ఖర్చు ప్రభుత్వానిదని అధికారులు తెలిపారు.",
+   "pts": [
+    "ఈ నెలాఖరులోగా తుది అనుమతులు పొందాలని ఆదేశం",
+    "కేంద్ర సంస్థలు, డ్యామ్ భద్రతా నిపుణుల సిఫార్సుల ప్రకారమే పనులు",
+    "అక్టోబర్ నాటికి దేవాదుల, సీతారామ ద్వారా 24.81 టీఎంసీలు"
+   ],
+   "why": "గోదావరి బ్యారేజీలపై ఆధారపడిన రైతులకు సాగునీటి సరఫరా పునరుద్ధరణపై స్పష్టత వస్తుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/revanth-reddy-sets-december-target-for-restoration-of-medigadda-annaram-and-sundilla-barrages",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Medigadda, Annaram, Sundilla barrage repairs to begin in December: CM",
+    "p": "Chief Minister Revanth Reddy directed officials to begin restoration of the Medigadda, Annaram and Sundilla barrages in December. Proposals for the three barrages are estimated at around Rs 4,193 crore. Officials said construction companies will bear the cost of repairing structural defects, while the government will pay for additional works.",
+    "pts": [
+     "Final approvals to be secured by month-end",
+     "Works to follow Central agencies' and dam safety experts' advice",
+     "24.81 TMC lifted via Devadula and Sitarama by October"
+    ],
+    "why": "Farmers who depend on the Godavari barrages get clarity on when irrigation supply will be restored.",
+    "cat": "Telangana · Irrigation",
+    "statl": "Estimated cost of restoring three barrages"
+   },
+   "hi": {
+    "h": "मेडिगड्डा, अन्नारम, सुंदिल्ला बैराज की मरम्मत दिसंबर में शुरू होगी: मुख्यमंत्री",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने अधिकारियों को मेडिगड्डा, अन्नारम और सुंदिल्ला बैराज की बहाली का काम दिसंबर में शुरू करने का निर्देश दिया। तीनों बैराज के प्रस्तावों का अनुमान लगभग ₹4,193 करोड़ है। अधिकारियों ने कहा कि ढांचागत खामियों की मरम्मत का खर्च निर्माण कंपनियां उठाएंगी, जबकि अतिरिक्त कार्यों का खर्च सरकार देगी।",
+    "pts": [
+     "महीने के अंत तक अंतिम मंजूरी लेने का निर्देश",
+     "केंद्रीय एजेंसियों और बांध सुरक्षा विशेषज्ञों की सिफारिशों के अनुसार काम",
+     "अक्टूबर तक देवादुला और सीतारामा से 24.81 टीएमसी"
+    ],
+    "why": "गोदावरी बैराजों पर निर्भर किसानों को सिंचाई आपूर्ति बहाली को लेकर स्पष्टता मिलेगी।",
+    "cat": "तेलंगाना · सिंचाई",
+    "statl": "तीन बैराज की बहाली का अनुमान"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
+  {
+   "cat": "ఏపీ · గుంటూరు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "37 ఘటనలు",
+   "statl": "15 జిల్లాల్లో పోలింగ్ రోజు ఘటనలు",
+   "h": "బ్యాలెట్ బాక్స్ వివాదం: గుంటూరులో వైఎస్సార్‌సీపీ ఎమ్మెల్సీ లేళ్ల అప్పిరెడ్డి అరెస్ట్",
+   "p": "గురువారం ఎంపీటీసీ, జడ్పీటీసీ పోలింగ్ తర్వాత ఒక అధికారి బ్యాలెట్ బాక్స్‌ను దారి మళ్లించారని ఆరోపిస్తూ వైఎస్సార్‌సీపీ నేతలు నల్లపాడులో రెండు గంటలు ధర్నా చేశారు. శుక్రవారం తెల్లవారుజామున ఎమ్మెల్సీ లేళ్ల అప్పిరెడ్డి సహా పలువురిని పోలీసులు అరెస్ట్ చేసి నల్లపాడు స్టేషన్‌కు తరలించి కేసు నమోదు చేశారు.",
+   "pts": [
+    "అనంతపురం జిల్లా కూడేరు ఘటనలో 60 మందిపై నాన్‌బెయిలబుల్ కేసులు",
+    "పోలింగ్ సిబ్బందిని అడ్డుకున్న ఐదుగురిపై మరో కేసు",
+    "15 జిల్లాల్లో 37 ఘటనలు: డీజీపీ హరీశ్ కుమార్ గుప్తా"
+   ],
+   "why": "ఏపీ స్థానిక సంస్థల ఎన్నికల ప్రక్రియపై ఓటర్లు, పార్టీలు నిశితంగా దృష్టి పెడుతున్నారు.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/ysrcp-mlc-lella-appi-reddy-arrested-after-ballot-box-diversion-row-in-andhra-pradesh",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-guntur",
+   "loc": "నల్లపాడు",
+   "en": {
+    "h": "Ballot box row: YSRCP MLC Lella Appi Reddy arrested in Guntur",
+    "p": "After Thursday's MPTC and ZPTC polling, YSRCP leaders staged a two-hour dharna at Nallapadu alleging that an official had diverted a ballot box. In the early hours of Friday, police arrested MLC Lella Appi Reddy and others, took them to Nallapadu police station and registered a case.",
+    "pts": [
+     "Non-bailable cases against 60 over Kuderu incident in Anantapur district",
+     "Separate case against five for obstructing polling staff",
+     "37 incidents in 15 districts: DGP Harish Kumar Gupta"
+    ],
+    "why": "Voters and parties are closely watching how Andhra Pradesh's local body election process unfolds.",
+    "cat": "AP · Guntur",
+    "statl": "Polling-day incidents in 15 districts"
+   },
+   "hi": {
+    "h": "बैलेट बॉक्स विवाद: गुंटूर में वाईएसआरसीपी एमएलसी लेल्ला अप्पी रेड्डी गिरफ्तार",
+    "p": "गुरुवार को एमपीटीसी और जेडपीटीसी मतदान के बाद वाईएसआरसीपी नेताओं ने नल्लापाडु में दो घंटे धरना दिया और आरोप लगाया कि एक अधिकारी ने बैलेट बॉक्स दूसरी जगह ले जाया। शुक्रवार तड़के पुलिस ने एमएलसी लेल्ला अप्पी रेड्डी समेत कई लोगों को गिरफ्तार कर नल्लापाडु थाने ले जाकर मामला दर्ज किया।",
+    "pts": [
+     "अनंतपुर जिले के कुडेरु मामले में 60 पर गैर-जमानती केस",
+     "मतदान कर्मियों को रोकने पर पांच के खिलाफ अलग केस",
+     "15 जिलों में 37 घटनाएं: डीजीपी हरीश कुमार गुप्ता"
+    ],
+    "why": "आंध्र प्रदेश के स्थानीय निकाय चुनाव की प्रक्रिया पर मतदाता और दल बारीकी से नज़र रख रहे हैं।",
+    "cat": "आंध्र प्रदेश · गुंटूर",
+    "statl": "15 जिलों में मतदान के दिन की घटनाएं"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
+  {
+   "cat": "భారత్ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2.5 లక్షలు",
+   "statl": "రోజుకు అవసరమైన స్మార్ట్ మీటర్లు",
+   "h": "25 కోట్ల స్మార్ట్ మీటర్ల లక్ష్యానికి రోజుకు 2.5 లక్షల మీటర్లు అవసరం: నివేదిక",
+   "p": "2028 మార్చి నాటికి 25 కోట్ల స్మార్ట్ మీటర్ల లక్ష్యం చేరాలంటే దేశంలో రోజుకు దాదాపు 2.5 లక్షల మీటర్లు అమర్చాలని కేర్‌ఎడ్జ్ రేటింగ్స్ నివేదిక తెలిపింది. 2026 ఏప్రిల్ నాటికి సుమారు 6.5 కోట్ల మీటర్లు మాత్రమే అమర్చారు. 2025-26లో రోజుకు సగటున 99 వేల మీటర్లే బిగించారు.",
+   "pts": [
+    "ఏప్రిల్ 2026 నాటికి 9% మీటర్లే ప్రీపెయిడ్ మోడ్‌లో",
+    "మహారాష్ట్ర, బిహార్, యూపీ వాటా సుమారు 47%",
+    "2030-31 వరకు ₹1.84 లక్షల కోట్ల అదనపు ఆదాయం అంచనా"
+   ],
+   "why": "ఇళ్లకు స్మార్ట్, ప్రీపెయిడ్ మీటర్ల ఏర్పాటు వేగం విద్యుత్ వినియోగదారులందరిపై ప్రభావం చూపుతుంది.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/india-needs-2-5-lakh-smart-meter-installations-a-day-to-meet-25-crore-target-by-march-2028",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "India needs 2.5 lakh smart meters a day to hit 25-crore target: report",
+    "p": "To reach the target of 25 crore smart meters by March 2028, India needs to install nearly 2.5 lakh meters a day, a CareEdge Ratings report said. Only about 6.5 crore meters had been installed by April 2026. In 2025-26, an average of only about 99,000 meters were installed daily.",
+    "pts": [
+     "Only 9% of meters in prepaid mode as of April 2026",
+     "Maharashtra, Bihar and UP account for about 47%",
+     "Rs 1.84 lakh crore additional revenue estimated till 2030-31"
+    ],
+    "why": "The pace of smart and prepaid meter installation affects every electricity consumer.",
+    "cat": "India · Power",
+    "statl": "Smart meters needed every day"
+   },
+   "hi": {
+    "h": "25 करोड़ स्मार्ट मीटर लक्ष्य के लिए रोज़ 2.5 लाख मीटर चाहिए: रिपोर्ट",
+    "p": "केयरएज रेटिंग्स की रिपोर्ट के अनुसार मार्च 2028 तक 25 करोड़ स्मार्ट मीटर का लक्ष्य पाने के लिए देश में रोज़ लगभग 2.5 लाख मीटर लगाने होंगे। अप्रैल 2026 तक केवल करीब 6.5 करोड़ मीटर लगे थे। 2025-26 में रोज़ औसतन केवल लगभग 99 हज़ार मीटर लगाए गए।",
+    "pts": [
+     "अप्रैल 2026 तक केवल 9% मीटर प्रीपेड मोड में",
+     "महाराष्ट्र, बिहार और यूपी की हिस्सेदारी लगभग 47%",
+     "2030-31 तक ₹1.84 लाख करोड़ अतिरिक्त राजस्व का अनुमान"
+    ],
+    "why": "स्मार्ट और प्रीपेड मीटर लगाने की रफ्तार हर बिजली उपभोक्ता को प्रभावित करती है।",
+    "cat": "भारत · बिजली",
+    "statl": "रोज़ाना ज़रूरी स्मार्ट मीटर"
+   },
+   "d": "06.11.2026",
+   "t": "17:48"
+  },
   {
    "cat": "తెలంగాణ · ప్రభుత్వం",
    "col": "--c-gov",
@@ -1758,201 +1954,6 @@
    },
    "d": "06.11.2026",
    "t": "10:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "548",
-   "statl": "శిక్ష తగ్గించిన మరణశిక్ష ఖైదీలు",
-   "h": "కాలిఫోర్నియాలో 548 మంది మరణశిక్ష ఖైదీలకు శిక్ష తగ్గింపు",
-   "p": "కాలిఫోర్నియాలో మరణశిక్ష పడిన మొత్తం 548 మంది శిక్షను తగ్గిస్తున్నట్లు గవర్నర్ గావిన్ న్యూసమ్ ప్రకటించారు. వీరు పెరోల్ లేని జీవిత ఖైదు అనుభవిస్తారు. అమెరికా చరిత్రలో ఇదే అతిపెద్ద సామూహిక క్షమాభిక్షగా చెబుతున్నారు. రాష్ట్రంలో 20 ఏళ్లుగా ఎవరికీ మరణశిక్ష అమలు చేయలేదు. దీంతో దేశంలో మరణశిక్ష ఖైదీల సంఖ్య దాదాపు 30% తగ్గుతుంది.",
-   "pts": [
-    "పెరోల్ లేని జీవిత ఖైదుగా మార్పు",
-    "సుమారు మూడింట రెండు వంతులకు రాష్ట్ర సుప్రీంకోర్టు సమీక్ష",
-    "23 రాష్ట్రాల్లో మరణశిక్షపై పూర్తి నిషేధం"
-   ],
-   "why": "అమెరికాలో మరణశిక్షపై జరుగుతున్న చర్చలో ఇది కీలక మలుపు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "California commutes sentences of 548 death row prisoners",
-    "p": "California Governor Gavin Newsom announced he will commute the sentences of all 548 people on death row in the state. They will serve life without parole. It is described as the largest mass clemency in US history. The state has not executed anyone in 20 years. The move cuts the national death row population by nearly 30%.",
-    "pts": [
-     "Changed to life without parole",
-     "About two-thirds need state Supreme Court review",
-     "23 states have banned the death penalty outright"
-    ],
-    "why": "It is a key turn in the debate over the death penalty in the US.",
-    "cat": "World · USA",
-    "statl": "Death row prisoners whose sentences were commuted"
-   },
-   "hi": {
-    "h": "कैलिफोर्निया में 548 मृत्युदंड कैदियों की सजा कम",
-    "p": "कैलिफोर्निया के गवर्नर गेविन न्यूसम ने राज्य में मृत्युदंड पाए सभी 548 लोगों की सजा कम करने की घोषणा की। वे बिना पैरोल के उम्रकैद काटेंगे। इसे अमेरिकी इतिहास की सबसे बड़ी सामूहिक क्षमादान बताया जा रहा है। राज्य में 20 साल से किसी को फांसी नहीं दी गई। इससे देश में मृत्युदंड कैदियों की संख्या करीब 30% घटेगी।",
-    "pts": [
-     "बिना पैरोल उम्रकैद में बदली सजा",
-     "करीब दो-तिहाई मामलों की राज्य सुप्रीम कोर्ट समीक्षा",
-     "23 राज्यों में मृत्युदंड पर पूरी रोक"
-    ],
-    "why": "अमेरिका में मृत्युदंड पर चल रही बहस में यह अहम मोड़ है।",
-    "cat": "दुनिया · अमेरिका",
-    "statl": "सजा कम किए गए मृत्युदंड कैदी"
-   },
-   "d": "06.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · రవాణా",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "₹4,000",
-   "statl": "మెట్రో-ఆర్టీసీ నెలవారీ పాస్ కొత్త ధర",
-   "h": "మెట్రో-ఆర్టీసీ ఉమ్మడి పాస్ ధరలు భారీగా తగ్గింపు; నవంబర్ 8 నుంచి అమలు",
-   "p": "హైదరాబాద్‌లో మెట్రో-ఆర్టీసీ ఉమ్మడి పాస్ ధరలను ప్రభుత్వం గణనీయంగా తగ్గించింది. సీఎం రేవంత్ రెడ్డి ఆదేశాలతో నెలవారీ పాస్ ధర ₹8,500 నుంచి ₹4,000కు, రోజువారీ పాస్ ₹400 నుంచి ₹275కు తగ్గింది. కొత్త ధరలు నవంబర్ 8 నుంచి అమల్లోకి వస్తాయని మంత్రి పొన్నం ప్రభాకర్ వివరాలు వెల్లడించారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-6th-november-2026-kjr-3704.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "నెలవారీ పాస్ ₹8,500 నుంచి ₹4,000కు తగ్గింపు",
-    "రోజువారీ పాస్ ₹400 నుంచి ₹275కు తగ్గింపు",
-    "నవంబర్ 8 నుంచి కొత్త ధరలు అమలు"
-   ],
-   "why": "మెట్రో, ఆర్టీసీ బస్సులు రెండూ వాడే నగర ప్రయాణికులకు ప్రయాణ ఖర్చు గణనీయంగా తగ్గుతుంది.",
-   "en": {
-    "h": "Hyderabad Metro-RTC common pass prices cut sharply from November 8",
-    "p": "The government has sharply reduced Metro-RTC common pass prices in Hyderabad. On CM Revanth Reddy's orders, the monthly pass has been cut from ₹8,500 to ₹4,000 and the daily pass from ₹400 to ₹275. Minister Ponnam Prabhakar announced that the new prices will come into effect from November 8.",
-    "pts": [
-     "Monthly pass cut from ₹8,500 to ₹4,000",
-     "Daily pass cut from ₹400 to ₹275",
-     "New prices effective from November 8"
-    ],
-    "why": "City commuters who use both Metro and RTC buses will see their travel costs fall significantly.",
-    "cat": "Hyderabad · Transport",
-    "statl": "New price of Metro-RTC monthly pass"
-   },
-   "hi": {
-    "h": "हैदराबाद मेट्रो-आरटीसी संयुक्त पास के दाम भारी घटे; 8 नवंबर से लागू",
-    "p": "सरकार ने हैदराबाद में मेट्रो-आरटीसी संयुक्त पास के दाम काफी घटा दिए हैं। मुख्यमंत्री रेवंत रेड्डी के आदेश पर मासिक पास ₹8,500 से घटकर ₹4,000 और दैनिक पास ₹400 से घटकर ₹275 हो गया है। मंत्री पोन्नम प्रभाकर ने बताया कि नए दाम 8 नवंबर से लागू होंगे।",
-    "pts": [
-     "मासिक पास ₹8,500 से घटकर ₹4,000",
-     "दैनिक पास ₹400 से घटकर ₹275",
-     "नए दाम 8 नवंबर से लागू"
-    ],
-    "why": "मेट्रो और आरटीसी बस दोनों इस्तेमाल करने वाले शहर के यात्रियों का खर्च काफी घटेगा।",
-    "cat": "हैदराबाद · परिवहन",
-    "statl": "मेट्रो-आरटीसी मासिक पास की नई कीमत"
-   },
-   "d": "06.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "తెలంగాణ · కామారెడ్డి",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "5",
-   "statl": "రియాక్టర్ పేలుడులో తీవ్రంగా గాయపడిన కార్మికులు",
-   "h": "భిక్నూర్ ఫార్మా కంపెనీలో రియాక్టర్ పేలుడు; ఐదుగురు కార్మికులకు తీవ్ర గాయాలు",
-   "p": "కామారెడ్డి జిల్లా భిక్నూర్‌లోని ఓ ఫార్మా కంపెనీలో రియాక్టర్ పేలింది. ఈ ఘటనలో ఐదుగురు కార్మికులు తీవ్రంగా గాయపడ్డారు. వారిలో ముగ్గురు ఇతర రాష్ట్రాలవారు, ఇద్దరు స్థానికులు. ఇద్దరి పరిస్థితి విషమంగా ఉంది. మెరుగైన చికిత్స కోసం క్షతగాత్రులను హైదరాబాద్‌కు తరలించారు. పోలీసులు దర్యాప్తు చేస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-6th-november-2026-kjr-3704.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "kamareddy",
-   "loc": "భిక్నూర్",
-   "pts": [
-    "ఐదుగురు కార్మికులకు తీవ్ర గాయాలు, ఇద్దరి పరిస్థితి విషమం",
-    "క్షతగాత్రులు హైదరాబాద్ ఆసుపత్రికి తరలింపు",
-    "ఘటనపై పోలీసుల దర్యాప్తు"
-   ],
-   "why": "పారిశ్రామిక ప్రాంతాల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ఘటన మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
-   "en": {
-    "h": "Reactor blast at Bhiknoor pharma unit; five workers seriously injured",
-    "p": "A reactor exploded at a pharma company in Bhiknoor, Kamareddy district. Five workers were seriously injured in the incident. Three of them are from other states and two are locals. Two are in critical condition. The injured were shifted to Hyderabad for better treatment. Police are investigating.",
-    "pts": [
-     "Five workers seriously injured, two critical",
-     "Injured shifted to hospital in Hyderabad",
-     "Police investigating the incident"
-    ],
-    "why": "The incident again raises questions about the safety of workers in industrial areas.",
-    "cat": "Telangana · Kamareddy",
-    "statl": "Workers seriously injured in reactor blast"
-   },
-   "hi": {
-    "h": "भिक्नूर फार्मा कंपनी में रिएक्टर विस्फोट; पांच मज़दूर गंभीर रूप से घायल",
-    "p": "कामारेड्डी ज़िले के भिक्नूर में एक फार्मा कंपनी में रिएक्टर फट गया। इस घटना में पांच मज़दूर गंभीर रूप से घायल हुए। इनमें तीन दूसरे राज्यों के और दो स्थानीय हैं। दो की हालत नाज़ुक है। बेहतर इलाज के लिए घायलों को हैदराबाद ले जाया गया। पुलिस जांच कर रही है।",
-    "pts": [
-     "पांच मज़दूर गंभीर घायल, दो की हालत नाज़ुक",
-     "घायलों को हैदराबाद के अस्पताल भेजा गया",
-     "घटना की पुलिस जांच जारी"
-    ],
-    "why": "यह घटना औद्योगिक क्षेत्रों में काम करने वाले मज़दूरों की सुरक्षा पर फिर सवाल उठाती है।",
-    "cat": "तेलंगाना · कामारेड्डी",
-    "statl": "रिएक्टर विस्फोट में गंभीर घायल मज़दूर"
-   },
-   "d": "06.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "ఏపీ · మన్యం · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "44",
-   "statl": "కురుపాం గురుకులంలో అస్వస్థతకు గురైన విద్యార్థులు",
-   "h": "కురుపాం గురుకుల పాఠశాలలో 44 మంది విద్యార్థులకు అస్వస్థత",
-   "p": "పార్వతీపురం మన్యం జిల్లా కురుపాం గురుకుల పాఠశాలలో 44 మంది విద్యార్థినులు అస్వస్థతకు గురై స్థానిక పీహెచ్‌సీకి తరలించారు. వైరల్ జ్వరంతో వారిని ఆసుపత్రిలో చేర్చారు. మంత్రి సంధ్యారాణి స్పందించి కలెక్టర్, వైద్యాధికారులకు తక్షణ ఆదేశాలిచ్చారు. విద్యార్థులు కోలుకుంటున్నారని, ప్రభుత్వ హాస్టళ్లలో వైద్య శిబిరాలు పెడతామని చెప్పారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-6th-november-2026-kjr-3704.html",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "AP",
-   "place": "ap-manyam",
-   "loc": "కురుపాం",
-   "pts": [
-    "44 మంది విద్యార్థులు పీహెచ్‌సీకి తరలింపు",
-    "వైరల్ జ్వరంతో ఆసుపత్రిలో చికిత్స",
-    "ప్రభుత్వ హాస్టళ్లలో వైద్య శిబిరాలు: మంత్రి"
-   ],
-   "why": "గురుకులాలు, హాస్టళ్లలో చదువుతున్న పిల్లల తల్లిదండ్రులకు ఆరోగ్య భద్రతపై ఇది ముఖ్యమైన విషయం.",
-   "en": {
-    "h": "44 students fall ill at Kurupam gurukul school in Manyam",
-    "p": "At the Kurupam gurukul school in Parvathipuram Manyam district, 44 girl students fell ill and were shifted to a PHC. They were admitted to hospital with viral fever. Minister Sandhya Rani responded and gave immediate orders to the Collector and health officials. She said the students are recovering and that medical camps will be set up in government hostels.",
-    "pts": [
-     "44 students shifted to PHC",
-     "Treated in hospital for viral fever",
-     "Medical camps in government hostels: Minister"
-    ],
-    "why": "This matters to parents of children studying in gurukuls and hostels, as it concerns their health and safety.",
-    "cat": "AP · Manyam · Education",
-    "statl": "Students who fell ill at Kurupam gurukul"
-   },
-   "hi": {
-    "h": "मन्यम के कुरुपाम गुरुकुल स्कूल में 44 छात्राएं बीमार",
-    "p": "पार्वतीपुरम मन्यम ज़िले के कुरुपाम गुरुकुल स्कूल में 44 छात्राएं बीमार हो गईं और उन्हें पीएचसी ले जाया गया। वायरल बुखार के चलते उन्हें अस्पताल में भर्ती किया गया। मंत्री संध्या रानी ने कलेक्टर और स्वास्थ्य अधिकारियों को तुरंत निर्देश दिए। उन्होंने कहा कि छात्राएं ठीक हो रही हैं और सरकारी छात्रावासों में चिकित्सा शिविर लगाए जाएंगे।",
-    "pts": [
-     "44 छात्राओं को पीएचसी ले जाया गया",
-     "वायरल बुखार का अस्पताल में इलाज",
-     "सरकारी छात्रावासों में चिकित्सा शिविर: मंत्री"
-    ],
-    "why": "गुरुकुल और छात्रावासों में पढ़ने वाले बच्चों के माता-पिता के लिए यह स्वास्थ्य सुरक्षा का अहम मामला है।",
-    "cat": "आंध्र · मन्यम · शिक्षा",
-    "statl": "कुरुपाम गुरुकुल में बीमार छात्राएं"
-   },
-   "d": "06.11.2026",
-   "t": "10:05"
   }
  ]
 }
