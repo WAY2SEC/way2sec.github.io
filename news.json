@@ -1,8 +1,106 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T07:44:10+05:30",
+ "updated": "2026-11-06T08:09:24+05:30",
  "version": 2,
  "stories": [
+  {
+   "brk": true,
+   "cat": "ప్రపంచం · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "-8.55%",
+   "statl": "కోస్పీ పతనం; ట్రేడింగ్ 20 నిమిషాలు నిలిపివేత",
+   "h": "ఆసియా మార్కెట్లు కుదేలు: కోస్పీ 8% పతనం, నిక్కీ 6%కు పైగా డౌన్",
+   "p": "వాల్ స్ట్రీట్‌లో ఏఐ, చిప్ షేర్ల భారీ అమ్మకాల ప్రభావంతో శుక్రవారం ఆసియా మార్కెట్లు కుప్పకూలాయి. దక్షిణ కొరియా కోస్పీ సూచీ 8.55% పడిపోయి 5,000 దిగువకు చేరడంతో సర్క్యూట్ బ్రేకర్ అమలై ట్రేడింగ్ 20 నిమిషాలు ఆగింది. జపాన్ నిక్కీ 6.2% పడి 60,000 స్థాయి కోల్పోయింది. శాంసంగ్, ఎస్‌కే హైనిక్స్ షేర్లు 10%కు పైగా నష్టపోయాయి.",
+   "src": "AP, TradingKey",
+   "url": "https://www.tradingkey.com/analysis/stocks/more/262287971-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-mu-sox-tradingkey",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "కోస్పీ 8.55% పతనం, 4,923 వద్ద ట్రేడింగ్",
+    "నిక్కీ 6.2% డౌన్, 57,288 వద్ద",
+    "ఎస్‌కే హైనిక్స్ 12%, శాంసంగ్ 10% నష్టం"
+   ],
+   "why": "ఆసియా మార్కెట్ల పతనం భారత స్టాక్ మార్కెట్ ఇన్వెస్టర్లు, ఐటీ రంగంపై ఆసక్తి ఉన్నవారికి కీలక సంకేతం.",
+   "en": {
+    "h": "Asian markets crash: Kospi plunges 8%, Nikkei down over 6%",
+    "p": "Asian markets tumbled on Friday after a heavy sell-off in AI and chip shares on Wall Street. South Korea's Kospi fell 8.55% to below 5,000, triggering a circuit breaker that halted trading for 20 minutes. Japan's Nikkei dropped 6.2% and lost the 60,000 level. Samsung and SK Hynix shares fell more than 10%.",
+    "pts": [
+     "Kospi down 8.55%, trading at 4,923",
+     "Nikkei down 6.2% at 57,288",
+     "SK Hynix down 12%, Samsung down 10%"
+    ],
+    "why": "The fall in Asian markets is a key signal for Indian stock market investors and those watching the tech sector.",
+    "cat": "World · Markets",
+    "statl": "Kospi fall; trading halted for 20 minutes"
+   },
+   "hi": {
+    "h": "एशियाई बाजार धड़ाम: कोस्पी 8% गिरा, निक्केई 6% से ज्यादा नीचे",
+    "p": "वॉल स्ट्रीट पर एआई और चिप शेयरों में भारी बिकवाली के बाद शुक्रवार को एशियाई बाजार लुढ़क गए। दक्षिण कोरिया का कोस्पी सूचकांक 8.55% गिरकर 5,000 से नीचे आ गया, जिससे सर्किट ब्रेकर लगा और कारोबार 20 मिनट रुका रहा। जापान का निक्केई 6.2% गिरकर 60,000 का स्तर गंवा बैठा। सैमसंग और एसके हाइनिक्स के शेयर 10% से ज्यादा टूटे।",
+    "pts": [
+     "कोस्पी 8.55% गिरा, 4,923 पर कारोबार",
+     "निक्केई 6.2% गिरकर 57,288 पर",
+     "एसके हाइनिक्स 12%, सैमसंग 10% टूटा"
+    ],
+    "why": "एशियाई बाजारों की गिरावट भारतीय शेयर बाजार के निवेशकों और टेक सेक्टर पर नजर रखने वालों के लिए अहम संकेत है।",
+    "cat": "दुनिया · बाजार",
+    "statl": "कोस्पी में गिरावट; कारोबार 20 मिनट रुका"
+   },
+   "d": "06.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "67.24%",
+   "statl": "ఎంపీటీసీ, జెడ్‌పీటీసీ రాష్ట్రవ్యాప్త పోలింగ్",
+   "h": "ఏపీ పరిషత్ ఎన్నికలు: నేడు 5 మండలాల్లో పోలింగ్, 7 బూత్‌ల్లో రీపోలింగ్",
+   "p": "ఏపీలో ఎంపీటీసీ, జెడ్‌పీటీసీ ఎన్నికల్లో రాష్ట్రవ్యాప్తంగా 67.24% పోలింగ్ నమోదైందని ఎస్ఈసీ తెలిపింది. తుపాను వల్ల వాయిదా పడిన తూర్పు గోదావరి, ఏలూరు జిల్లాల్లోని 5 మండలాల్లో 5 జెడ్‌పీటీసీ, 60 ఎంపీటీసీ స్థానాలకు నేడు పోలింగ్ జరుగుతోంది. ఘటనల కారణంగా 5 జిల్లాల్లో 7 పోలింగ్ కేంద్రాల్లో రీపోలింగ్ కూడా ఉంది. రేపు ఓట్ల లెక్కింపు.",
+   "src": "NTV Telugu, ETV Bharat",
+   "url": "https://ntvtelugu.com/andhra-pradesh-news/amaravathi/ap-mptc-zptc-repolling-begins-in-several-districts-1032785.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "పోలింగ్ ఉదయం 7 నుంచి సాయంత్రం 5 వరకు",
+    "సత్యసాయి జిల్లాలో అత్యధికంగా 82.60% పోలింగ్",
+    "నవంబర్ 7న ఓట్ల లెక్కింపు"
+   ],
+   "why": "వాయిదా పడిన మండలాలు, రీపోలింగ్ బూత్‌ల పరిధిలోని ఓటర్లు నేడు తమ ఓటు హక్కు వినియోగించుకోవచ్చు.",
+   "en": {
+    "h": "AP parishad polls: voting in 5 mandals today, repoll at 7 booths",
+    "p": "The SEC said 67.24% turnout was recorded statewide in Andhra Pradesh's MPTC and ZPTC elections. Polling is being held today for 5 ZPTC and 60 MPTC seats in 5 mandals of East Godavari and Eluru districts, postponed due to the cyclone. Repolling is also under way at 7 polling stations in 5 districts because of incidents. Votes will be counted tomorrow.",
+    "pts": [
+     "Polling from 7 am to 5 pm",
+     "Satya Sai district recorded the highest turnout at 82.60%",
+     "Votes to be counted on November 7"
+    ],
+    "why": "Voters in the postponed mandals and repoll booths can cast their votes today.",
+    "cat": "AP · Parishad elections",
+    "statl": "Statewide MPTC, ZPTC turnout"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश परिषद चुनाव: आज 5 मंडलों में मतदान, 7 बूथों पर पुनर्मतदान",
+    "p": "राज्य चुनाव आयोग ने बताया कि आंध्र प्रदेश के एमपीटीसी और जेडपीटीसी चुनावों में राज्यभर में 67.24% मतदान हुआ। चक्रवात के कारण टले पूर्वी गोदावरी और एलुरु जिलों के 5 मंडलों में 5 जेडपीटीसी और 60 एमपीटीसी सीटों के लिए आज मतदान हो रहा है। घटनाओं के कारण 5 जिलों के 7 मतदान केंद्रों पर पुनर्मतदान भी हो रहा है। कल मतगणना होगी।",
+    "pts": [
+     "मतदान सुबह 7 से शाम 5 बजे तक",
+     "सत्य साईं जिले में सबसे ज्यादा 82.60% मतदान",
+     "7 नवंबर को मतगणना"
+    ],
+    "why": "टले हुए मंडलों और पुनर्मतदान वाले बूथों के मतदाता आज अपना वोट डाल सकते हैं।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "राज्यभर में एमपीटीसी, जेडपीटीसी मतदान"
+   },
+   "d": "06.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "భారత్ · హాకీ",
    "col": "--c-city",
@@ -1862,55 +1960,6 @@
    },
    "d": "05.11.2026",
    "t": "17:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "100 MGD",
-   "statl": "సింగూర్, మంజీరా నుంచి వస్తున్న కొరత అంచనా",
-   "h": "సింగూర్, మంజీరా నీటిమట్టం తగ్గుదల: హైదరాబాద్‌కు వేసవి నీటి సవాల్",
-   "p": "సింగూర్, మంజీరా జలాశయాల్లో నీటి నిల్వలు తగ్గుతుండటంతో వేసవి ముగిసే వరకు హైదరాబాద్‌కు సరఫరా సరిపోతుందా అన్న ప్రశ్న జలమండలి ముందుంది. ఈ రెండింటి నుంచి హామీ ఇచ్చిన 120 ఎంజీడీకి గాను 100 ఎంజీడీ కొరత రావచ్చని అధికారులు హెచ్చరించారు. గోదావరి, కృష్ణా, ఉస్మాన్‌సాగర్, హిమాయత్‌సాగర్ నుంచి అదనంగా 60 ఎంజీడీ తీసుకోవాలని బోర్డు యోచిస్తోంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-water-supply-faces-summer-challenge-as-singur-manjeera-reserves-decline",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "పటాన్‌చెరు నుంచి నార్సింగి వరకు 3.5 లక్షల కనెక్షన్లపై ప్రభావం",
-    "సింగూర్ నీటిమట్టం 1,685 అడుగులు; పూర్తి స్థాయి 1,717 అడుగులు",
-    "అన్ని వనరుల నుంచి నగరానికి రోజూ 580 ఎంజీడీ సరఫరా"
-   ],
-   "why": "పశ్చిమ హైదరాబాద్‌లోని లక్షలాది కుటుంబాలకు వేసవిలో తాగునీటి సరఫరాపై ఇది ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Singur, Manjeera levels fall: summer water challenge for Hyderabad",
-    "p": "With storage falling in the Singur and Manjeera reservoirs, HMWSSB faces the question of whether supply to Hyderabad will last until the end of summer. Officials warned of a shortfall of 100 MGD against the assured 120 MGD from these two sources. The Board plans to draw an extra 60 MGD from the Godavari, Krishna, Osman Sagar and Himayat Sagar.",
-    "pts": [
-     "3.5 lakh connections from Patancheru to Narsingi affected",
-     "Singur at 1,685 ft against full level of 1,717 ft",
-     "City gets 580 MGD daily from all sources"
-    ],
-    "why": "This could affect summer drinking water supply for lakhs of families in western Hyderabad.",
-    "cat": "Hyderabad · Water",
-    "statl": "Expected shortfall from Singur, Manjeera"
-   },
-   "hi": {
-    "h": "सिंगूर, मंजीरा का जलस्तर घटा: हैदराबाद के सामने गर्मी में पानी की चुनौती",
-    "p": "सिंगूर और मंजीरा जलाशयों में भंडार घटने से HMWSSB के सामने सवाल है कि क्या गर्मी खत्म होने तक हैदराबाद की आपूर्ति पर्याप्त रहेगी। अधिकारियों ने चेताया कि इन दोनों से तय 120 MGD में से 100 MGD की कमी हो सकती है। बोर्ड गोदावरी, कृष्णा, उस्मान सागर और हिमायत सागर से अतिरिक्त 60 MGD लेने की योजना बना रहा है।",
-    "pts": [
-     "पटानचेरु से नार्सिंगी तक 3.5 लाख कनेक्शन प्रभावित",
-     "सिंगूर का स्तर 1,685 फीट; पूर्ण स्तर 1,717 फीट",
-     "सभी स्रोतों से शहर को रोज़ 580 MGD आपूर्ति"
-    ],
-    "why": "इससे पश्चिमी हैदराबाद के लाखों परिवारों की गर्मियों में पेयजल आपूर्ति प्रभावित हो सकती है।",
-    "cat": "हैदराबाद · पानी",
-    "statl": "सिंगूर, मंजीरा से अनुमानित कमी"
-   },
-   "d": "05.11.2026",
-   "t": "16:35"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్సీ ఎన్నికలు",
