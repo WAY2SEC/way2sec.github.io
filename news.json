@@ -1,8 +1,58 @@
 {
  "date": "06.11.2026",
- "updated": "2026-11-06T10:35:00+05:30",
+ "updated": "2026-11-06T11:14:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · తూర్పు గోదావరి · వరద",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "8 ప్రాంతాలు",
+   "statl": "నిడదవోలు శివారు కాలనీలు, గ్రామాల్లోకి వరద నీరు",
+   "h": "నిడదవోలు శివార్లను ముంచెత్తిన ఎర్రకాలువ వరద",
+   "p": "తూర్పు గోదావరి జిల్లా నిడదవోలు పట్టణ శివారు ప్రాంతాలు వరద నీటిలో చిక్కుకున్నాయి. ఎర్రకాలువ నుంచి వచ్చిన వరద తీరుగూడెం, రాయిపేట, ఇందిరానగర్, గాంధీనగర్ ప్రాంతాల్లోకి చేరింది. పట్టణం చుట్టుపక్కల కంసాలిపాలెం, తాళ్లపాలెం, సింగవరం, రావిమెట్ల గ్రామాల్లోకి కూడా నీరు వచ్చింది. వరద నీటితో పాటు విషసర్పాలు కూడా కొట్టుకొస్తున్నాయి.",
+   "pts": [
+    "ఎర్రకాలువ వరదతో నిడదవోలు శివార్లు జలమయం",
+    "తీరుగూడెం, రాయిపేట, ఇందిరానగర్, గాంధీనగర్‌లోకి నీరు",
+    "వరద నీటిలో కొట్టుకొస్తున్న విషసర్పాలు"
+   ],
+   "why": "నిడదవోలు చుట్టుపక్కల కాలనీలు, గ్రామాల ప్రజలు వరద నీరు, పాముల విషయంలో అప్రమత్తంగా ఉండాల్సిన సమయం ఇది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-6th-november-2026-kjr-3704.html",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "ap-eastgodavari",
+   "loc": "నిడదవోలు",
+   "d": "06.11.2026",
+   "t": "11:05",
+   "en": {
+    "h": "Erra Kalva floodwater inundates outskirts of Nidadavole",
+    "p": "The outskirts of Nidadavole town in East Godavari district have been hit by floods. Floodwater from the Erra Kalva has reached the Theerugudem, Raipeta, Indira Nagar and Gandhi Nagar areas. Water has also entered Kansalipalem, Thallapalem, Singavaram and Ravimetla villages around the town. Venomous snakes are also being carried along with the floodwater.",
+    "pts": [
+     "Nidadavole outskirts flooded by Erra Kalva water",
+     "Water enters Theerugudem, Raipeta, Indira Nagar, Gandhi Nagar",
+     "Venomous snakes carried along in floodwater"
+    ],
+    "why": "People in colonies and villages around Nidadavole need to stay alert about floodwater and snakes.",
+    "cat": "AP · East Godavari · Floods",
+    "statl": "Floodwater enters Nidadavole outskirts and villages"
+   },
+   "hi": {
+    "h": "एर्रा कालवा की बाढ़ से निडदवोलु के बाहरी इलाके डूबे",
+    "p": "पूर्वी गोदावरी जिले के निडदवोलु शहर के बाहरी इलाके बाढ़ की चपेट में आ गए हैं। एर्रा कालवा का बाढ़ का पानी तीरुगुडेम, रायपेटा, इंदिरा नगर और गांधी नगर इलाकों तक पहुंच गया है। शहर के आसपास के कंसालिपालेम, तल्लापालेम, सिंगवरम और रावीमेटला गांवों में भी पानी घुस गया है। बाढ़ के पानी के साथ जहरीले सांप भी बहकर आ रहे हैं।",
+    "pts": [
+     "एर्रा कालवा की बाढ़ से निडदवोलु के बाहरी इलाके जलमग्न",
+     "तीरुगुडेम, रायपेटा, इंदिरा नगर, गांधी नगर में पानी",
+     "बाढ़ के पानी में बहकर आ रहे जहरीले सांप"
+    ],
+    "why": "निडदवोलु के आसपास की कॉलोनियों और गांवों के लोगों को बाढ़ के पानी और सांपों से सतर्क रहने की जरूरत है।",
+    "cat": "आंध्र प्रदेश · पूर्वी गोदावरी · बाढ़",
+    "statl": "निडदवोलु के बाहरी इलाकों और गांवों में बाढ़ का पानी"
+   }
+  },
   {
    "cat": "ఏపీ · గుంటూరు · ఎన్నికలు",
    "col": "--c-election",
@@ -1905,56 +1955,6 @@
    },
    "d": "05.11.2026",
    "t": "20:35"
-  },
-  {
-   "cat": "తెలంగాణ · అభివృద్ధి",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "₹9,053 కోట్లు",
-   "statl": "13 అభివృద్ధి పనులకు శంకుస్థాపన",
-   "h": "నవంబర్ 7 నుంచి 3 రోజులు కొడంగల్‌లో సీఎం రేవంత్ పర్యటన",
-   "p": "సీఎం రేవంత్ రెడ్డి నవంబర్ 7 నుంచి 9 వరకు తన నియోజకవర్గం కొడంగల్‌లో మూడు రోజులు పర్యటించనున్నారు. మెగా రైతు మేళా, పారిశ్రామిక ప్రదర్శనను ప్రారంభిస్తారు. సుమారు ₹9,053 కోట్ల అంచనా వ్యయంతో 13 అభివృద్ధి పనులకు శంకుస్థాపన చేస్తారు. పూర్తయిన మౌలిక వసతుల పనులనూ ప్రారంభిస్తారు.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/south-india/development-telangana-cm-visit-05ms23/236882",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "loc": "కొడంగల్",
-   "pts": [
-    "రేడియల్ రోడ్-2 పనులకు ₹5,060 కోట్లు",
-    "మహబూబ్‌నగర్-నారాయణపేట-కొడంగల్ ఎత్తిపోతల రెండో దశకు ₹2,100 కోట్లు",
-    "223 బీటీ రోడ్లకు ₹1,410 కోట్లు"
-   ],
-   "why": "కొడంగల్ ప్రాంత రైతులు, ప్రజలకు సాగునీరు, రోడ్ల వసతులు మెరుగుపడే పనులు ఇవి.",
-   "d": "05.11.2026",
-   "t": "20:05",
-   "en": {
-    "h": "CM Revanth to tour Kodangal for 3 days from November 7",
-    "p": "Chief Minister Revanth Reddy will tour his Kodangal constituency for three days from November 7 to 9. He will inaugurate a Mega Farmers' Fair and an Industrial Expo. He will lay foundation stones for 13 development works with an estimated cost of about ₹9,053 crore, and also inaugurate completed infrastructure works.",
-    "pts": [
-     "₹5,060 crore for Radial Road-2 works",
-     "₹2,100 crore for phase 2 of Mahabubnagar-Narayanpet-Kodangal lift scheme",
-     "₹1,410 crore for 223 BT roads"
-    ],
-    "why": "These works aim to improve irrigation and roads for farmers and people in the Kodangal area.",
-    "cat": "Telangana · Development",
-    "statl": "Foundation for 13 development works"
-   },
-   "hi": {
-    "h": "7 नवंबर से तीन दिन कोडंगल दौरे पर सीएम रेवंत",
-    "p": "मुख्यमंत्री रेवंत रेड्डी 7 से 9 नवंबर तक अपने निर्वाचन क्षेत्र कोडंगल का तीन दिन का दौरा करेंगे। वे मेगा किसान मेला और औद्योगिक प्रदर्शनी का उद्घाटन करेंगे। लगभग ₹9,053 करोड़ की अनुमानित लागत वाले 13 विकास कार्यों की आधारशिला रखेंगे और पूरे हो चुके बुनियादी ढांचे के कार्यों का उद्घाटन भी करेंगे।",
-    "pts": [
-     "रेडियल रोड-2 के कार्यों के लिए ₹5,060 करोड़",
-     "महबूबनगर-नारायणपेट-कोडंगल लिफ्ट योजना के दूसरे चरण के लिए ₹2,100 करोड़",
-     "223 बीटी सड़कों के लिए ₹1,410 करोड़"
-    ],
-    "why": "इन कार्यों से कोडंगल क्षेत्र के किसानों और लोगों के लिए सिंचाई और सड़क सुविधाएं बेहतर होंगी।",
-    "cat": "तेलंगाना · विकास",
-    "statl": "13 विकास कार्यों की आधारशिला"
-   }
   }
  ]
 }

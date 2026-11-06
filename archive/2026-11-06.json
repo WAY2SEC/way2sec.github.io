@@ -1,8 +1,58 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 30,
+ "count": 31,
  "stories": [
+  {
+   "cat": "ఏపీ · తూర్పు గోదావరి · వరద",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "8 ప్రాంతాలు",
+   "statl": "నిడదవోలు శివారు కాలనీలు, గ్రామాల్లోకి వరద నీరు",
+   "h": "నిడదవోలు శివార్లను ముంచెత్తిన ఎర్రకాలువ వరద",
+   "p": "తూర్పు గోదావరి జిల్లా నిడదవోలు పట్టణ శివారు ప్రాంతాలు వరద నీటిలో చిక్కుకున్నాయి. ఎర్రకాలువ నుంచి వచ్చిన వరద తీరుగూడెం, రాయిపేట, ఇందిరానగర్, గాంధీనగర్ ప్రాంతాల్లోకి చేరింది. పట్టణం చుట్టుపక్కల కంసాలిపాలెం, తాళ్లపాలెం, సింగవరం, రావిమెట్ల గ్రామాల్లోకి కూడా నీరు వచ్చింది. వరద నీటితో పాటు విషసర్పాలు కూడా కొట్టుకొస్తున్నాయి.",
+   "pts": [
+    "ఎర్రకాలువ వరదతో నిడదవోలు శివార్లు జలమయం",
+    "తీరుగూడెం, రాయిపేట, ఇందిరానగర్, గాంధీనగర్‌లోకి నీరు",
+    "వరద నీటిలో కొట్టుకొస్తున్న విషసర్పాలు"
+   ],
+   "why": "నిడదవోలు చుట్టుపక్కల కాలనీలు, గ్రామాల ప్రజలు వరద నీరు, పాముల విషయంలో అప్రమత్తంగా ఉండాల్సిన సమయం ఇది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-telangana-national-international-breaking-live-updates-of-6th-november-2026-kjr-3704.html",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "ap-eastgodavari",
+   "loc": "నిడదవోలు",
+   "d": "06.11.2026",
+   "t": "11:05",
+   "en": {
+    "h": "Erra Kalva floodwater inundates outskirts of Nidadavole",
+    "p": "The outskirts of Nidadavole town in East Godavari district have been hit by floods. Floodwater from the Erra Kalva has reached the Theerugudem, Raipeta, Indira Nagar and Gandhi Nagar areas. Water has also entered Kansalipalem, Thallapalem, Singavaram and Ravimetla villages around the town. Venomous snakes are also being carried along with the floodwater.",
+    "pts": [
+     "Nidadavole outskirts flooded by Erra Kalva water",
+     "Water enters Theerugudem, Raipeta, Indira Nagar, Gandhi Nagar",
+     "Venomous snakes carried along in floodwater"
+    ],
+    "why": "People in colonies and villages around Nidadavole need to stay alert about floodwater and snakes.",
+    "cat": "AP · East Godavari · Floods",
+    "statl": "Floodwater enters Nidadavole outskirts and villages"
+   },
+   "hi": {
+    "h": "एर्रा कालवा की बाढ़ से निडदवोलु के बाहरी इलाके डूबे",
+    "p": "पूर्वी गोदावरी जिले के निडदवोलु शहर के बाहरी इलाके बाढ़ की चपेट में आ गए हैं। एर्रा कालवा का बाढ़ का पानी तीरुगुडेम, रायपेटा, इंदिरा नगर और गांधी नगर इलाकों तक पहुंच गया है। शहर के आसपास के कंसालिपालेम, तल्लापालेम, सिंगवरम और रावीमेटला गांवों में भी पानी घुस गया है। बाढ़ के पानी के साथ जहरीले सांप भी बहकर आ रहे हैं।",
+    "pts": [
+     "एर्रा कालवा की बाढ़ से निडदवोलु के बाहरी इलाके जलमग्न",
+     "तीरुगुडेम, रायपेटा, इंदिरा नगर, गांधी नगर में पानी",
+     "बाढ़ के पानी में बहकर आ रहे जहरीले सांप"
+    ],
+    "why": "निडदवोलु के आसपास की कॉलोनियों और गांवों के लोगों को बाढ़ के पानी और सांपों से सतर्क रहने की जरूरत है।",
+    "cat": "आंध्र प्रदेश · पूर्वी गोदावरी · बाढ़",
+    "statl": "निडदवोलु के बाहरी इलाकों और गांवों में बाढ़ का पानी"
+   }
+  },
   {
    "cat": "ఏపీ · గుంటూరు · ఎన్నికలు",
    "col": "--c-election",
