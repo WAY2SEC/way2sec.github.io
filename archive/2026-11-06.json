@@ -1,8 +1,108 @@
 {
  "date": "06.11.2026",
  "iso": "2026-11-06",
- "count": 5,
+ "count": 7,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సైబర్ మోసం",
+   "col": "--c-power",
+   "art": "farm",
+   "stat": "2.73 లక్షలు",
+   "statl": "రైతులకు చేరిన నకిలీ ఎస్ఎంఎస్‌లు",
+   "h": "రైతు భరోసా జమ అయిందంటూ నకిలీ మెసేజ్‌లు; సైబర్ క్రైమ్‌కు ఫిర్యాదు",
+   "p": "రైతు భరోసా నిధులు ఖాతాల్లో జమ అయ్యాయంటూ సీఎం రేవంత్ రెడ్డి పేరుతో వచ్చిన అనధికారిక ఎస్ఎంఎస్‌లు రాష్ట్రవ్యాప్తంగా రైతులను గందరగోళంలో పడేశాయి. ఎకరాకు ఏటా ₹12,000 జమ అయిందని ఆ మెసేజ్‌లలో ఉంది. ప్రభుత్వం నిధులు విడుదల చేయలేదని, ఈ మెసేజ్‌లు తాము పంపలేదని వ్యవసాయ శాఖ స్పష్టం చేసింది. వ్యవసాయ డైరెక్టర్ బి. గోపి డీజీపీ, సైబర్ క్రైమ్ అధికారులకు లేఖ రాసి దర్యాప్తు కోరారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/fake-rythu-bharosa-credit-messages-trigger-confusion-among-telangana-farmers-cyber-complaint-lodged",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "సుమారు 2,73,128 మంది రైతులకు నకిలీ మెసేజ్‌లు",
+    "నిధులు విడుదల చేయలేదన్న వ్యవసాయ శాఖ",
+    "ఎస్ఎంఎస్ గేట్‌వేలు, లాగ్‌లపై దర్యాప్తుకు ఫిర్యాదు"
+   ],
+   "why": "అధికారిక ప్రకటన లేకుండా వచ్చే మెసేజ్‌లు నమ్మవద్దు; లింకులు క్లిక్ చేయొద్దు, ఓటీపీ, బ్యాంక్ వివరాలు ఎవరికీ చెప్పొద్దు.",
+   "d": "06.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "Fake Rythu Bharosa credit messages confuse farmers; cyber complaint filed",
+    "p": "Unauthorised SMS messages in Chief Minister Revanth Reddy's name, claiming Rythu Bharosa funds had been credited, caused confusion among farmers across Telangana. The messages said Rs 12,000 per acre per year had been deposited. The Agriculture Department clarified that the government has not released the funds and did not send these messages. Agriculture Director B Gopi wrote to the DGP and Cyber Crime officials seeking an investigation.",
+    "pts": [
+     "Fake messages reached about 2,73,128 farmers",
+     "Agriculture Department says funds not released",
+     "Complaint seeks probe into SMS gateways and logs"
+    ],
+    "why": "Do not trust such messages without an official announcement; don't click links or share OTPs and bank details.",
+    "cat": "Telangana · Cyber Fraud",
+    "statl": "Farmers who got fake SMS"
+   },
+   "hi": {
+    "h": "रायतु भरोसा राशि जमा होने के फर्जी मैसेज; साइबर क्राइम में शिकायत",
+    "p": "मुख्यमंत्री रेवंत रेड्डी के नाम से आए अनधिकृत एसएमएस, जिनमें रायतु भरोसा की राशि खातों में जमा होने का दावा था, ने पूरे तेलंगाना में किसानों को भ्रम में डाल दिया। मैसेज में कहा गया कि प्रति एकड़ सालाना ₹12,000 जमा हुए हैं। कृषि विभाग ने स्पष्ट किया कि सरकार ने राशि जारी नहीं की है और ये मैसेज उसने नहीं भेजे। कृषि निदेशक बी. गोपी ने डीजीपी और साइबर क्राइम अधिकारियों को पत्र लिखकर जांच की मांग की।",
+    "pts": [
+     "करीब 2,73,128 किसानों तक पहुंचे फर्जी मैसेज",
+     "कृषि विभाग: राशि जारी नहीं हुई",
+     "एसएमएस गेटवे और लॉग की जांच की मांग"
+    ],
+    "why": "आधिकारिक घोषणा के बिना ऐसे मैसेज पर भरोसा न करें; लिंक पर क्लिक न करें, ओटीपी व बैंक विवरण साझा न करें।",
+    "cat": "तेलंगाना · साइबर धोखाधड़ी",
+    "statl": "किसानों को मिले फर्जी एसएमएस"
+   }
+  },
+  {
+   "cat": "వరంగల్ · ఆవిష్కరణ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "99.9%",
+   "statl": "క్రిములను నాశనం చేసే ఓజోన్ సాంకేతికత",
+   "h": "ఎన్ఐటీ వరంగల్ ఓజోన్ క్రిమిసంహారక సాంకేతికత మార్కెట్‌లోకి",
+   "p": "ఎన్ఐటీ వరంగల్ భౌతికశాస్త్ర విభాగం పరిశోధకులు అభివృద్ధి చేసిన దేశీయ ఓజోన్ ఆధారిత క్రిమిసంహారక సాంకేతికతను వాణిజ్యపరంగా తయారు చేసేందుకు మోహ్‌సాఫ్ట్ టెక్ ప్రైవేట్ లిమిటెడ్‌తో సాంకేతిక బదిలీ ఒప్పందం కుదిరింది. నిర్దేశిత పరిస్థితుల్లో ఈ సాంకేతికత 99.9 శాతం వరకు వైరస్‌లు, బ్యాక్టీరియాను నాశనం చేస్తుంది. వాడిన తర్వాత ఓజోన్ ఆక్సిజన్‌గా మారిపోతుంది. మొదటి బ్యాచ్ పారిశ్రామిక వ్యవస్థల ఉత్పత్తి వచ్చే ఏడాది ప్రారంభంలో మొదలవుతుందని అంచనా.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/nit-warangal-partners-with-mohsoft-tech-to-commercialise-indigenous-ozone-disinfection-technology",
+   "sec": [
+    "telangana",
+    "innovation",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "వరంగల్",
+   "pts": [
+    "మోహ్‌సాఫ్ట్ టెక్‌తో సాంకేతిక బదిలీ ఒప్పందం",
+    "రసాయనాలు లేకుండా 99.9% వరకు క్రిముల నాశనం",
+    "వచ్చే ఏడాది ప్రారంభంలో వాణిజ్య ఉత్పత్తి"
+   ],
+   "why": "రాష్ట్ర విద్యాసంస్థ పరిశోధన ల్యాబ్ నుంచి మార్కెట్‌కు చేరుతుండటం దేశీయ ఆవిష్కరణలకు ఊతం.",
+   "d": "06.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "NIT Warangal's ozone disinfection technology heads to market",
+    "p": "NIT Warangal has signed a technology transfer agreement with MOHSoft Tech Private Limited to commercially manufacture an indigenous ozone-based disinfection technology developed by researchers of its physics department. Under specified conditions, the technology eliminates up to 99.9 percent of viruses and bacteria. After use, ozone breaks down into oxygen. Production of the first batch of industrial systems is expected to begin early next year.",
+    "pts": [
+     "Technology transfer deal with MOHSoft Tech",
+     "Kills up to 99.9% of germs without chemicals",
+     "Commercial production expected early next year"
+    ],
+    "why": "Research from a state institute moving from lab to market is a boost for indigenous innovation.",
+    "cat": "Warangal · Innovation",
+    "statl": "Ozone tech that kills germs"
+   },
+   "hi": {
+    "h": "एनआईटी वारंगल की ओजोन कीटाणुनाशक तकनीक बाजार में आएगी",
+    "p": "एनआईटी वारंगल ने अपने भौतिकी विभाग के शोधकर्ताओं द्वारा विकसित स्वदेशी ओजोन-आधारित कीटाणुनाशक तकनीक के व्यावसायिक निर्माण के लिए मोहसॉफ्ट टेक प्राइवेट लिमिटेड के साथ प्रौद्योगिकी हस्तांतरण समझौता किया है। निर्धारित परिस्थितियों में यह तकनीक 99.9 प्रतिशत तक वायरस और बैक्टीरिया को नष्ट करती है। उपयोग के बाद ओजोन ऑक्सीजन में बदल जाती है। औद्योगिक प्रणालियों के पहले बैच का उत्पादन अगले साल की शुरुआत में शुरू होने की उम्मीद है।",
+    "pts": [
+     "मोहसॉफ्ट टेक के साथ तकनीक हस्तांतरण समझौता",
+     "बिना रसायन 99.9% तक कीटाणु नष्ट",
+     "अगले साल की शुरुआत में व्यावसायिक उत्पादन"
+    ],
+    "why": "राज्य के संस्थान का शोध प्रयोगशाला से बाजार तक पहुंचना स्वदेशी नवाचार के लिए बढ़ावा है।",
+    "cat": "वारंगल · नवाचार",
+    "statl": "कीटाणु नष्ट करने वाली ओजोन तकनीक"
+   }
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
