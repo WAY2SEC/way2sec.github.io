@@ -409,3 +409,23 @@ function w2sAskLang(){
   });
 }
 if(typeof document!=='undefined'){ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',w2sAskLang); else w2sAskLang(); }
+
+/* Story pages: always-visible language row at the top of the story (తెలుగు / English / हिन्दी) */
+function w2sLangStrip(){
+  try{
+    const ar=document.querySelector('article.ar .in'); if(!ar || document.getElementById('w2sLs')) return;
+    const cur=w2sLang();
+    const L=[['te','తెలుగు'],['en','English'],['hi','हिन्दी']];
+    const d=document.createElement('div'); d.id='w2sLs';
+    d.style.cssText='display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 14px';
+    d.innerHTML='<span style="font:700 13px/1 inherit;color:#6b6f80">🌐</span>'+L.map(([k,t])=>'<button type="button" data-l="'+k+'" aria-pressed="'+(k===cur)+'" style="min-height:36px;padding:0 16px;border-radius:999px;cursor:pointer;font:800 15px/1 inherit;border:2px solid '+(k===cur?'#e0062b;background:#e0062b;color:#fff':'#d8d2c6;background:#fff;color:#14213d')+'">'+t+'</button>').join('');
+    ar.insertBefore(d, ar.firstChild);
+    d.querySelectorAll('button[data-l]').forEach(b=>b.onclick=()=>{
+      const l=b.dataset.l;
+      try{ const p=JSON.parse(localStorage.getItem('w2s.prefs')||'{}'); p.lang=l; localStorage.setItem('w2s.prefs',JSON.stringify(p)); }catch(e){}
+      try{ if(window.gtag) gtag('event','pick_language',{lang:l,from:'story_strip'}); }catch(e){}
+      const u=new URL(location.href); u.searchParams.set('l',l); location.replace(u.toString());
+    });
+  }catch(e){}
+}
+if(typeof document!=='undefined'){ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',w2sLangStrip); else w2sLangStrip(); }
