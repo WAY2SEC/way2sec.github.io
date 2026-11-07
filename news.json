@@ -1,8 +1,203 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T11:10:40+05:30",
+ "updated": "2026-11-07T11:40:07+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "8",
+   "statl": "జిల్లాల్లో నేడు వర్ష సూచన",
+   "h": "తెలంగాణలో నేడు 8 జిల్లాల్లో వర్షాలు; ఆదివారం నుంచి చలి పెరుగుదల",
+   "p": "శనివారం మధ్యాహ్నం నుంచి రాత్రి వరకు నల్గొండ, సూర్యాపేట, ఖమ్మం, భద్రాద్రి కొత్తగూడెం, మహబూబాబాద్, నాగర్‌కర్నూల్, వనపర్తి, రంగారెడ్డి జిల్లాల్లో అక్కడక్కడ వర్షాలు పడే అవకాశం ఉందని వాతావరణ విశ్లేషకుడు టి. బాలాజీ అంచనా వేశారు. హైదరాబాద్‌లో ఎక్కువగా పొడి వాతావరణం ఉంటుంది. ఆదివారం నుంచి రాత్రి ఉష్ణోగ్రతలు తగ్గుతాయని, ఈ నెల 11 నుంచి 15 వరకు తీవ్రమైన చలి ఉంటుందని ఆయన తెలిపారు.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/telangana-weather-today-rain-in-eight-districts/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "మధ్యాహ్నం నుంచి రాత్రి వరకు అక్కడక్కడ వర్షాలు",
+    "హైదరాబాద్‌లో ఎక్కువగా పొడి వాతావరణం",
+    "నవంబర్ 11–15 మధ్య తీవ్ర చలి అంచనా"
+   ],
+   "why": "వర్షం, చలి అంచనాలు రైతులు, ప్రయాణికులు, వృద్ధులు ముందుజాగ్రత్తలు తీసుకోవడానికి ఉపయోగపడతాయి.",
+   "en": {
+    "h": "Rain in 8 Telangana districts today; chill to rise from Sunday",
+    "p": "Weather analyst T Balaji forecast scattered rain from Saturday afternoon to night in Nalgonda, Suryapet, Khammam, Bhadradri Kothagudem, Mahabubabad, Nagarkurnool, Wanaparthy and Rangareddy districts. Hyderabad will stay mostly dry. He said night temperatures will fall from Sunday and intense cold is expected from November 11 to 15.",
+    "pts": [
+     "Scattered rain from afternoon to night",
+     "Hyderabad mostly dry",
+     "Intense cold expected November 11–15"
+    ],
+    "why": "The rain and cold forecasts help farmers, commuters and the elderly take precautions.",
+    "cat": "Telangana · Weather",
+    "statl": "Districts with rain forecast today"
+   },
+   "hi": {
+    "h": "तेलंगाना के 8 ज़िलों में आज बारिश; रविवार से बढ़ेगी ठंड",
+    "p": "मौसम विश्लेषक टी. बालाजी ने अनुमान लगाया है कि शनिवार दोपहर से रात तक नलगोंडा, सूर्यापेट, खम्मम, भद्राद्री कोत्तागुडेम, महबूबाबाद, नागरकुरनूल, वनपर्ती और रंगारेड्डी ज़िलों में कहीं-कहीं बारिश होगी। हैदराबाद में मौसम ज़्यादातर सूखा रहेगा। उन्होंने कहा कि रविवार से रात का तापमान गिरेगा और 11 से 15 नवंबर तक कड़ी ठंड पड़ेगी।",
+    "pts": [
+     "दोपहर से रात तक कहीं-कहीं बारिश",
+     "हैदराबाद में ज़्यादातर सूखा मौसम",
+     "11–15 नवंबर के बीच कड़ी ठंड का अनुमान"
+    ],
+    "why": "बारिश और ठंड के अनुमान से किसान, यात्री और बुज़ुर्ग पहले से सावधानी बरत सकते हैं।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "ज़िलों में आज बारिश का अनुमान"
+   },
+   "d": "07.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "మహారాష్ట్ర · ఠాణే",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹10 లక్షలు",
+   "statl": "నిందితుడిపై ఉన్న రివార్డు",
+   "h": "₹10 లక్షల రివార్డు ఉన్న నక్సలైట్‌ను ఠాణేలో పట్టుకున్న మహారాష్ట్ర ఏటీఎస్",
+   "p": "ఝార్ఖండ్‌కు చెందిన, ₹10 లక్షల రివార్డు ఉన్న 45 ఏళ్ల నక్సలైట్‌ను ఠాణే జిల్లా ఠాకుర్లీ ప్రాంతంలో మహారాష్ట్ర యాంటీ టెర్రరిజం స్క్వాడ్ అరెస్టు చేసిందని ఓ అధికారి శనివారం తెలిపారు. నిఘా సమాచారంతో ఈ చర్య తీసుకున్నారు. నిషేధిత సంస్థ జోనల్ కమిటీ సభ్యుడైన అతను పది రోజులుగా అక్కడ దాక్కున్నాడని ఆరోపణ. తదుపరి చర్యల కోసం అతన్ని ఝార్ఖండ్ పోలీసులకు అప్పగించారు.",
+   "src": "PTI / Telangana Today",
+   "url": "https://telanganatoday.com/maharashtra-ats-arrests-naxalite-carrying-rs-10-lakh-bounty",
+   "sec": [
+    "india"
+   ],
+   "st": "MH",
+   "place": "mh-thane",
+   "loc": "ఠాకుర్లీ",
+   "pts": [
+    "నిఘా సమాచారంతో ఠాకుర్లీలో అరెస్టు",
+    "నిషేధిత సంస్థ జోనల్ కమిటీ సభ్యుడు",
+    "ఝార్ఖండ్ పోలీసులకు అప్పగింత"
+   ],
+   "why": "ముంబై శివారు ప్రాంతాల్లో భద్రతా సంస్థల నిఘా కొనసాగుతోందని ఈ అరెస్టు చూపిస్తోంది.",
+   "en": {
+    "h": "Maharashtra ATS nabs Naxalite carrying Rs 10 lakh bounty in Thane",
+    "p": "The Maharashtra Anti-Terrorism Squad arrested a 45-year-old Naxalite from Jharkhand, carrying a Rs 10 lakh bounty, in the Thakurli area of Thane district, an official said on Saturday. The action followed specific intelligence. A zonal committee member of a banned outfit, he had allegedly been hiding there for 10 days. He was handed over to Jharkhand Police for further action.",
+    "pts": [
+     "Arrested in Thakurli on specific intelligence",
+     "Zonal committee member of banned outfit",
+     "Handed over to Jharkhand Police"
+    ],
+    "why": "The arrest shows security agencies are keeping watch in Mumbai's suburban areas.",
+    "cat": "Maharashtra · Thane",
+    "statl": "Bounty on the accused"
+   },
+   "hi": {
+    "h": "महाराष्ट्र एटीएस ने ठाणे में 10 लाख के इनामी नक्सली को पकड़ा",
+    "p": "महाराष्ट्र आतंकवाद निरोधक दस्ते ने झारखंड के 45 वर्षीय नक्सली को, जिस पर 10 लाख रुपये का इनाम था, ठाणे ज़िले के ठाकुर्ली इलाके से गिरफ़्तार किया। एक अधिकारी ने शनिवार को यह जानकारी दी। कार्रवाई ख़ुफ़िया सूचना पर हुई। प्रतिबंधित संगठन का ज़ोनल कमेटी सदस्य वह कथित तौर पर 10 दिन से वहाँ छिपा था। आगे की कार्रवाई के लिए उसे झारखंड पुलिस को सौंपा गया।",
+    "pts": [
+     "ख़ुफ़िया सूचना पर ठाकुर्ली में गिरफ़्तारी",
+     "प्रतिबंधित संगठन का ज़ोनल कमेटी सदस्य",
+     "झारखंड पुलिस को सौंपा गया"
+    ],
+    "why": "यह गिरफ़्तारी दिखाती है कि मुंबई के उपनगरों में सुरक्षा एजेंसियाँ नज़र रखे हुए हैं।",
+    "cat": "महाराष्ट्र · ठाणे",
+    "statl": "आरोपी पर इनाम"
+   },
+   "d": "07.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ప్రపంచం · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "−6.16%",
+   "statl": "జపాన్ నిక్కీ 225 పతనం",
+   "h": "వాల్‌స్ట్రీట్ అమ్మకాల ఒత్తిడి: ఆసియా టెక్ షేర్లు భారీగా పతనం",
+   "p": "అమెరికాలో గురువారం నాస్‌డాక్ కాంపోజిట్ 5.5% పడిపోవడంతో ఆసియా మార్కెట్లలో టెక్ షేర్లు కుప్పకూలాయి. జపాన్ నిక్కీ 225 సూచీ 6.16% తగ్గి 57,316.95 వద్ద, దక్షిణ కొరియా కోస్పీ 5.54% తగ్గి 5,085.55 వద్ద, తైవాన్ తైఎక్స్ 4.51% తగ్గి 39,701.64 వద్ద ముగిశాయి.",
+   "src": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "నాస్‌డాక్ కాంపోజిట్ గురువారం 5.5% పతనం",
+    "కోస్పీ 5.54% తగ్గి 5,085.55 వద్ద",
+    "తైఎక్స్ 4.51% తగ్గి 39,701.64 వద్ద"
+   ],
+   "why": "ప్రపంచ టెక్ షేర్ల పతనం ఐటీ రంగ పెట్టుబడిదారులు, మార్కెట్లపై దృష్టి పెట్టేవారికి ముఖ్యం.",
+   "en": {
+    "h": "Wall Street sell-off: Asian tech stocks fall sharply",
+    "p": "Tech shares tumbled in Asian markets after the Nasdaq Composite fell 5.5% on Thursday in the US. Japan's Nikkei 225 fell 6.16% to 57,316.95, South Korea's Kospi dropped 5.54% to 5,085.55, and Taiwan's Taiex fell 4.51% to 39,701.64.",
+    "pts": [
+     "Nasdaq Composite fell 5.5% on Thursday",
+     "Kospi down 5.54% at 5,085.55",
+     "Taiex down 4.51% at 39,701.64"
+    ],
+    "why": "The fall in global tech shares matters to IT sector investors and market watchers.",
+    "cat": "World · Markets",
+    "statl": "Fall in Japan's Nikkei 225"
+   },
+   "hi": {
+    "h": "वॉल स्ट्रीट में बिकवाली: एशियाई टेक शेयर भारी गिरावट के साथ बंद",
+    "p": "अमेरिका में गुरुवार को नैस्डैक कंपोज़िट के 5.5% गिरने के बाद एशियाई बाज़ारों में टेक शेयर लुढ़क गए। जापान का निक्केई 225 6.16% गिरकर 57,316.95 पर, दक्षिण कोरिया का कोस्पी 5.54% गिरकर 5,085.55 पर और ताइवान का ताइएक्स 4.51% गिरकर 39,701.64 पर आ गया।",
+    "pts": [
+     "नैस्डैक कंपोज़िट गुरुवार को 5.5% गिरा",
+     "कोस्पी 5.54% गिरकर 5,085.55 पर",
+     "ताइएक्स 4.51% गिरकर 39,701.64 पर"
+    ],
+    "why": "वैश्विक टेक शेयरों में गिरावट आईटी क्षेत्र के निवेशकों और बाज़ार पर नज़र रखने वालों के लिए अहम है।",
+    "cat": "दुनिया · बाज़ार",
+    "statl": "जापान के निक्केई 225 में गिरावट"
+   },
+   "d": "07.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "సోమవారం",
+   "statl": "కొత్త చీఫ్ ఆఫ్ స్టాఫ్ బాధ్యతలు",
+   "h": "వైట్‌హౌస్ చీఫ్ ఆఫ్ స్టాఫ్‌గా స్టీఫెన్ మిల్లర్; సూసీ వైల్స్ స్థానంలో",
+   "p": "వైట్‌హౌస్ చీఫ్ ఆఫ్ స్టాఫ్ సూసీ వైల్స్ స్థానంలో డిప్యూటీ చీఫ్ ఆఫ్ స్టాఫ్ స్టీఫెన్ మిల్లర్‌ను సోమవారం నుంచి నియమిస్తున్నట్లు అధ్యక్షుడు ట్రంప్ ప్రకటించారు. వైల్స్ ట్రంప్ రాజకీయ విభాగానికి వెళ్తారు. మధ్యంతర ఎన్నికల్లో రిపబ్లికన్లు కాంగ్రెస్ రెండు సభల్లోనూ ఓడిపోయిన నేపథ్యంలో మంత్రివర్గంలో మార్పులు చేయాలని యోచిస్తున్నట్లు ట్రంప్ చెప్పారు.",
+   "src": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "సోమవారం నుంచి మిల్లర్‌కు బాధ్యతలు",
+    "వైల్స్ ట్రంప్ రాజకీయ విభాగానికి",
+    "మంత్రివర్గ మార్పులపై ట్రంప్ యోచన"
+   ],
+   "why": "వైట్‌హౌస్‌లో కీలక మార్పులు వీసాలు, వలస విధానాలపై ఆసక్తి ఉన్న ప్రవాస తెలుగువారు గమనించాల్సిన అంశం.",
+   "en": {
+    "h": "Stephen Miller to be White House chief of staff, replacing Susie Wiles",
+    "p": "President Trump announced that Deputy Chief of Staff Stephen Miller will replace Susie Wiles as White House chief of staff from Monday. Wiles will move to Trump's political operation. Trump said he plans Cabinet changes after Republicans lost both chambers of Congress in the midterm elections.",
+    "pts": [
+     "Miller takes charge from Monday",
+     "Wiles moves to Trump's political operation",
+     "Trump plans Cabinet changes"
+    ],
+    "why": "Key changes in the White House are worth watching for Telugu people abroad interested in visa and immigration policy.",
+    "cat": "World · US",
+    "statl": "New chief of staff takes charge"
+   },
+   "hi": {
+    "h": "स्टीफन मिलर होंगे व्हाइट हाउस चीफ ऑफ स्टाफ, सूसी वाइल्स की जगह",
+    "p": "राष्ट्रपति ट्रंप ने घोषणा की कि डिप्टी चीफ ऑफ स्टाफ स्टीफन मिलर सोमवार से सूसी वाइल्स की जगह व्हाइट हाउस चीफ ऑफ स्टाफ होंगे। वाइल्स ट्रंप के राजनीतिक विभाग में जाएँगी। ट्रंप ने कहा कि मध्यावधि चुनाव में रिपब्लिकन के कांग्रेस के दोनों सदन हारने के बाद वह कैबिनेट में बदलाव की योजना बना रहे हैं।",
+    "pts": [
+     "सोमवार से मिलर संभालेंगे ज़िम्मेदारी",
+     "वाइल्स ट्रंप के राजनीतिक विभाग में",
+     "ट्रंप कैबिनेट में बदलाव की योजना में"
+    ],
+    "why": "व्हाइट हाउस के अहम बदलाव वीज़ा और आप्रवासन नीति में रुचि रखने वाले प्रवासी तेलुगु लोगों के लिए ध्यान देने योग्य हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "नए चीफ ऑफ स्टाफ संभालेंगे पद"
+   },
+   "d": "07.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "ప్రపంచం · యెమెన్",
    "col": "--c-power",
@@ -1755,202 +1950,6 @@
     "cat": "आंध्र प्रदेश · बापटला",
     "statl": "घोषित वार्डों में टीडीपी"
    }
-  },
-  {
-   "cat": "భారత్ · సుప్రీం కోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "+2 నెలలు",
-   "statl": "తీర్పు అమలుకు అదనపు గడువు",
-   "h": "ఓబీసీ క్రీమీ లేయర్ తీర్పు వెనక్కి వర్తించదనే కేంద్ర వినతి తిరస్కరణ",
-   "p": "తల్లిదండ్రుల జీతం లేదా ఆదాయం మాత్రమే ఓబీసీ క్రీమీ లేయర్‌ను నిర్ణయించే ప్రమాణం కాదన్న మార్చి 11 తీర్పును సుప్రీం కోర్టు శుక్రవారం మళ్లీ సమర్థించింది. ఆ తీర్పును భవిష్యత్తుకే వర్తింపజేయాలన్న కేంద్రం వినతిని జస్టిస్ పీఎస్ నరసింహ ధర్మాసనం తోసిపుచ్చింది. అమలుకు ఇచ్చిన ఆరు నెలల గడువును మరో రెండు నెలలు పొడిగించింది.",
-   "src": "ThePrint (PTI)",
-   "url": "https://theprint.in/india/sc-reaffirms-stand-on-obc-creamy-layer-criteria-says-no-prospective-application/3092400/",
-   "sec": [
-    "india",
-    "jobs"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "అభ్యర్థులు నాన్-క్రీమీ లేయర్ కిందకు వస్తారన్న కోర్టు",
-    "ఇతరుల సీనియారిటీ తగ్గదని స్పష్టీకరణ",
-    "క్రీమీ లేయర్ విధానం రూపొందించే స్వేచ్ఛ ప్రభుత్వానికే"
-   ],
-   "why": "కేంద్ర ఉద్యోగాల్లో రిజర్వేషన్ కోసం ఎదురుచూస్తున్న ఓబీసీ అభ్యర్థులపై ఈ తీర్పు ప్రభావం ఉంటుంది.",
-   "d": "06.11.2026",
-   "t": "20:05",
-   "en": {
-    "h": "Supreme Court rejects Centre's plea to apply OBC creamy layer verdict prospectively",
-    "p": "The Supreme Court on Friday reaffirmed its March 11 verdict that a parent's salary or income alone cannot decide OBC creamy layer status. A bench of Justice P S Narasimha rejected the Centre's plea to apply the verdict only prospectively. It extended the six-month deadline for implementation by two more months.",
-    "pts": [
-     "Court says candidates fall in OBC non-creamy layer",
-     "Clarifies others' seniority will not be reduced",
-     "Government remains free to frame creamy layer policy"
-    ],
-    "why": "The ruling affects OBC candidates awaiting reservation in central government jobs.",
-    "cat": "India · Supreme Court",
-    "statl": "extra time to implement verdict"
-   },
-   "hi": {
-    "h": "ओबीसी क्रीमी लेयर फैसले को आगे से लागू करने की केंद्र की याचिका खारिज",
-    "p": "सुप्रीम कोर्ट ने शुक्रवार को 11 मार्च के अपने फैसले को फिर से सही ठहराया कि केवल माता-पिता का वेतन या आय ओबीसी क्रीमी लेयर तय करने का पैमाना नहीं हो सकता। जस्टिस पी एस नरसिम्हा की पीठ ने फैसले को केवल भविष्य से लागू करने की केंद्र की याचिका खारिज कर दी। अमल के लिए दी गई छह महीने की समय सीमा दो महीने और बढ़ा दी गई।",
-    "pts": [
-     "कोर्ट ने कहा, उम्मीदवार ओबीसी नॉन-क्रीमी लेयर में",
-     "दूसरों की वरिष्ठता कम नहीं होगी, स्पष्ट किया",
-     "क्रीमी लेयर नीति बनाने की छूट सरकार को"
-    ],
-    "why": "यह फैसला केंद्रीय नौकरियों में आरक्षण का इंतजार कर रहे ओबीसी उम्मीदवारों को प्रभावित करेगा।",
-    "cat": "भारत · सुप्रीम कोर्ट",
-    "statl": "फैसला लागू करने के लिए अतिरिक्त समय"
-   }
-  },
-  {
-   "cat": "ఏపీ · బాపట్ల",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "1.4 లక్షలు",
-   "statl": "హెక్టార్లలో పంట నష్టం",
-   "h": "బాపట్లలో తుపాను దెబ్బతిన్న పొలాలను పరిశీలించిన సీఎం చంద్రబాబు",
-   "p": "మురసు తుపాను దెబ్బతిన్న బాపట్ల జిల్లా గ్రామాల్లో సీఎం చంద్రబాబు శుక్రవారం పర్యటించారు. జిల్లెళ్లమూడిలో నీట మునిగిన వరి పొలాలను చూసి, కోతకు ముందే నష్టపోయిన రైతులతో మాట్లాడారు. పంట బీమా, ఇన్‌పుట్ సబ్సిడీలతో ఊరట కల్పించవచ్చని చెప్పారు. రాష్ట్రంలో 1.4 లక్షల హెక్టార్లలో పంటలు దెబ్బతిని 1.8 లక్షల మందికి పైగా రైతులు నష్టపోయారు. సహాయ చర్యలకు ప్రభుత్వం ₹37 కోట్లు విడుదల చేసింది.",
-   "src": "ThePrint (PTI)",
-   "url": "https://theprint.in/india/cm-naidu-visits-cyclone-hit-bapatla-villages-inspects-crop-damage/3092405/",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "ap-bapatla",
-   "loc": "జిల్లెళ్లమూడి",
-   "pts": [
-    "1.4 లక్షల హెక్టార్లలో పంట నష్టం; 1.8 లక్షల రైతులపై ప్రభావం",
-    "తుపానుకు 8 మంది మృతి; సహాయానికి ₹37 కోట్లు",
-    "నల్లమడ వాగుపై గేట్ల పనులకు ప్రతిపాదనలు కోరిన సీఎం"
-   ],
-   "why": "తుపానుతో పంట కోల్పోయిన లక్షలాది ఏపీ రైతులకు బీమా, సబ్సిడీ సహాయం కీలకం.",
-   "en": {
-    "h": "CM Naidu inspects cyclone-hit fields in Bapatla district",
-    "p": "Chief Minister Chandrababu Naidu toured cyclone Murasu-hit villages in Bapatla district on Friday. At Jillellamudi he saw submerged paddy fields and spoke to farmers who lost crops just before harvest. He said crop insurance and input subsidies could bring relief. Crops were damaged on 1.4 lakh hectares in the state, affecting over 1.8 lakh farmers. The government has released ₹37 crore for relief.",
-    "pts": [
-     "Crops damaged on 1.4 lakh hectares; over 1.8 lakh farmers hit",
-     "Cyclone killed 8; ₹37 crore released for relief",
-     "CM seeks proposals for gates on Nallamada stream"
-    ],
-    "why": "Insurance and subsidy support is key for lakhs of AP farmers who lost crops to the cyclone.",
-    "cat": "Andhra Pradesh · Bapatla",
-    "statl": "hectares of crops damaged"
-   },
-   "hi": {
-    "h": "मुख्यमंत्री नायडू ने बापटला में चक्रवात से प्रभावित खेतों का निरीक्षण किया",
-    "p": "मुख्यमंत्री चंद्रबाबू नायडू ने शुक्रवार को बापटला जिले के चक्रवात मुरासु से प्रभावित गांवों का दौरा किया। जिल्लेल्लमूडी में उन्होंने डूबे हुए धान के खेत देखे और कटाई से ठीक पहले फसल खोने वाले किसानों से बात की। उन्होंने कहा कि फसल बीमा और इनपुट सब्सिडी से राहत मिल सकती है। राज्य में 1.4 लाख हेक्टेयर में फसलें खराब हुईं और 1.8 लाख से अधिक किसान प्रभावित हुए। सरकार ने राहत के लिए ₹37 करोड़ जारी किए हैं।",
-    "pts": [
-     "1.4 लाख हेक्टेयर में फसल नुकसान; 1.8 लाख से अधिक किसान प्रभावित",
-     "चक्रवात से 8 की मौत; राहत के लिए ₹37 करोड़",
-     "नल्लमडा नाले पर गेटों के लिए प्रस्ताव मांगे"
-    ],
-    "why": "चक्रवात में फसल खोने वाले लाखों आंध्र किसानों के लिए बीमा और सब्सिडी सहायता अहम है।",
-    "cat": "आंध्र प्रदेश · बापटला",
-    "statl": "हेक्टेयर में फसल नुकसान"
-   },
-   "d": "06.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "భారత్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "EPIC",
-   "statl": "పథకాల లబ్ధికి ఓటర్ ఐడీ నంబర్",
-   "h": "పంచాయతీరాజ్ పథకాలకు ఓటర్ ఐడీ: కేంద్రంపై రాహుల్ గాంధీ విమర్శ",
-   "p": "పంచాయతీరాజ్ శాఖ పథకాల లబ్ధికి ఇకపై ఆధార్ బదులు ఓటర్ ఐడీ (EPIC) నంబర్, బయోమెట్రిక్ ధృవీకరణ తప్పనిసరి అని కేంద్ర మంత్రి రాజీవ్ రంజన్ సింగ్ (లల్లన్ సింగ్) చెప్పారు. దీనిని కాంగ్రెస్ నేత రాహుల్ గాంధీ శుక్రవారం 'కుట్ర'గా అభివర్ణించారు. ఎస్ఐఆర్‌లో ఓటర్ల జాబితా నుంచి తొలగించిన పేర్లు సంక్షేమ పథకాల అర్హతను నిర్ణయిస్తాయని ఆయన ఆరోపించారు.",
-   "src": "Siasat Daily (PTI)",
-   "url": "https://www.siasat.com/rahul-slams-modi-govt-over-voter-id-for-welfare-schemes-remark-3570897/",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "పథకాలకు EPIC నంబర్, బయోమెట్రిక్ తప్పనిసరి: కేంద్ర మంత్రి",
-    "ఇది 'హక్కుల చోరీ' అని రాహుల్ గాంధీ ఆరోపణ",
-    "పింఛన్లు, రేషన్, ఉపాధి హామీపైనా ప్రభావమని ఆరోపణ"
-   ],
-   "why": "ఈ నిబంధన అమలైతే పంచాయతీరాజ్ పథకాల లబ్ధిదారులు ఓటర్ ఐడీ నంబర్ ఇవ్వాల్సి ఉంటుంది.",
-   "en": {
-    "h": "Voter ID for Panchayati Raj schemes: Rahul Gandhi slams Centre",
-    "p": "Union Minister Rajiv Ranjan Singh (Lallan Singh) said benefits under Panchayati Raj ministry schemes will now need the voter ID (EPIC) number and biometric authentication instead of Aadhaar. Congress leader Rahul Gandhi on Friday called this a 'conspiracy'. He alleged that names removed from voter lists under SIR will decide eligibility for welfare schemes.",
-    "pts": [
-     "Union minister: EPIC number, biometrics mandatory for schemes",
-     "Rahul Gandhi calls it 'rights theft'",
-     "Alleges pensions, rations, MGNREGA could also be hit"
-    ],
-    "why": "If enforced, Panchayati Raj scheme beneficiaries will have to give their voter ID number.",
-    "cat": "India · Politics",
-    "statl": "voter ID number for scheme benefits"
-   },
-   "hi": {
-    "h": "पंचायती राज योजनाओं के लिए वोटर आईडी: राहुल गांधी ने केंद्र पर निशाना साधा",
-    "p": "केंद्रीय मंत्री राजीव रंजन सिंह (ललन सिंह) ने कहा कि पंचायती राज मंत्रालय की योजनाओं के लाभ के लिए अब आधार की जगह वोटर आईडी (EPIC) नंबर और बायोमेट्रिक सत्यापन जरूरी होगा। कांग्रेस नेता राहुल गांधी ने शुक्रवार को इसे 'साजिश' बताया। उन्होंने आरोप लगाया कि SIR में मतदाता सूची से हटाए गए नाम कल्याण योजनाओं की पात्रता तय करेंगे।",
-    "pts": [
-     "केंद्रीय मंत्री: योजनाओं के लिए EPIC नंबर, बायोमेट्रिक जरूरी",
-     "राहुल गांधी ने इसे 'हक की चोरी' बताया",
-     "पेंशन, राशन, मनरेगा पर भी असर का आरोप"
-    ],
-    "why": "लागू होने पर पंचायती राज योजनाओं के लाभार्थियों को वोटर आईडी नंबर देना होगा।",
-    "cat": "भारत · राजनीति",
-    "statl": "योजना लाभ के लिए वोटर आईडी नंबर"
-   },
-   "d": "06.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "భారత్ · రక్షణ",
-   "col": "--c-gov",
-   "art": "deadline",
-   "stat": "18,300",
-   "statl": "డిసెంబర్ 31కి వైదొలగాల్సిన అగ్నివీర్లు",
-   "h": "అగ్నిపథ్ పథకాన్ని రద్దు చేయాలని కాంగ్రెస్ డిమాండ్",
-   "p": "అగ్నిపథ్ పథకం దేశ భద్రతను బలహీనపరిచిందని, దాన్ని రద్దు చేసి సాధారణ సైనిక నియామకాలు మళ్లీ చేపట్టాలని కాంగ్రెస్ శుక్రవారం డిమాండ్ చేసింది. రెగ్యులర్ అయ్యే 25% అగ్నివీర్లకు నియామక తేదీ నుంచే పూర్తి ప్రయోజనాలు ఇవ్వాలని కోరింది. నాలుగేళ్ల తర్వాత మిగిలిన 75% మందికి రెండేళ్ల పొడిగింపు ఇస్తామని సీడీఎస్ బుధవారం ప్రకటించారు. సుమారు 18,300 మంది అగ్నివీర్లు డిసెంబర్ 31కల్లా వైదొలగాల్సి ఉంది.",
-   "src": "ThePrint (PTI)",
-   "url": "https://theprint.in/india/cong-pushes-for-scrapping-agnipath-scheme-says-it-weakened-indias-security/3092546/",
-   "sec": [
-    "india",
-    "jobs"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "రెగ్యులర్ అగ్నివీర్లకు గత తేదీ నుంచి పూర్తి ప్రయోజనాలు కోరిన కాంగ్రెస్",
-    "మిగిలిన 75% మందికి రెండేళ్ల పొడిగింపు: సీడీఎస్",
-    "అగ్నివీర్లకు నెలకు ₹40,000 వేతనం"
-   ],
-   "why": "సైన్యంలో చేరాలనుకునే యువత, ప్రస్తుత అగ్నివీర్ల భవిష్యత్తుకు సంబంధించిన అంశం.",
-   "en": {
-    "h": "Congress demands scrapping of Agnipath scheme",
-    "p": "Congress on Friday said the Agnipath scheme has weakened national security and demanded it be scrapped and regular military recruitment restored. It asked that the 25% of Agniveers made regular get full benefits from their recruitment date. The CDS announced on Wednesday that the remaining 75% will get a two-year extension after four years. About 18,300 Agniveers are due to exit by December 31.",
-    "pts": [
-     "Congress seeks full benefits for regular Agniveers retrospectively",
-     "CDS: two-year extension for the remaining 75%",
-     "Agniveers are paid ₹40,000 a month"
-    ],
-    "why": "The issue concerns youth hoping to join the army and the future of current Agniveers.",
-    "cat": "India · Defence",
-    "statl": "Agniveers due to exit by December 31"
-   },
-   "hi": {
-    "h": "कांग्रेस ने अग्निपथ योजना रद्द करने की मांग की",
-    "p": "कांग्रेस ने शुक्रवार को कहा कि अग्निपथ योजना ने राष्ट्रीय सुरक्षा को कमजोर किया है और इसे रद्द कर नियमित सैन्य भर्ती बहाल करने की मांग की। पार्टी ने कहा कि नियमित होने वाले 25% अग्निवीरों को भर्ती की तारीख से पूरे लाभ मिलें। सीडीएस ने बुधवार को घोषणा की थी कि चार साल बाद बाकी 75% को दो साल का विस्तार मिलेगा। करीब 18,300 अग्निवीरों को 31 दिसंबर तक सेवा छोड़नी है।",
-    "pts": [
-     "नियमित अग्निवीरों को पिछली तारीख से पूरे लाभ की मांग",
-     "सीडीएस: बाकी 75% को दो साल का विस्तार",
-     "अग्निवीरों को ₹40,000 मासिक वेतन"
-    ],
-    "why": "यह सेना में जाने के इच्छुक युवाओं और मौजूदा अग्निवीरों के भविष्य से जुड़ा मुद्दा है।",
-    "cat": "भारत · रक्षा",
-    "statl": "31 दिसंबर तक सेवा छोड़ने वाले अग्निवीर"
-   },
-   "d": "06.11.2026",
-   "t": "19:35"
   }
  ]
 }
