@@ -1,8 +1,107 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 67,
+ "count": 69,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆదిలాబాద్",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "4",
+   "statl": "రిమ్స్ నుంచి చోరీ అయిన వెంటిలేటర్లు",
+   "h": "ఆదిలాబాద్ రిమ్స్ వెంటిలేటర్ల చోరీ కేసు ఛేదన; ఇద్దరి అరెస్టు",
+   "p": "ఆదిలాబాద్ రిమ్స్ ఆసుపత్రి రెండో అంతస్తు వార్డుల నుంచి అక్టోబర్ 30న మెడికల్ టెక్నీషియన్లుగా నటిస్తూ నాలుగు వెంటిలేటర్లు ఎత్తుకెళ్లిన కేసులో ఇద్దరిని పోలీసులు అరెస్టు చేశారు. ఆదిలాబాద్ ఆర్టీవో వద్ద వాహన తనిఖీల్లో వారు పట్టుబడ్డారు. నిజామాబాద్, మహారాష్ట్ర ప్రభుత్వ ఆసుపత్రుల్లోనూ చోరీలు చేసినట్లు అంగీకరించారని, మరొకరు పరారీలో ఉన్నారని ఎస్పీ అఖిల్ మహాజన్ తెలిపారు.",
+   "pts": [
+    "రిమ్స్‌కు చెందిన 4 వెంటిలేటర్లు స్వాధీనం",
+    "నిజామాబాద్, మహారాష్ట్ర ఆసుపత్రుల పరికరాలు కూడా రికవరీ",
+    "₹1 లక్ష నగదు, కారు, బైక్ సీజ్"
+   ],
+   "why": "ప్రభుత్వ ఆసుపత్రుల్లో అత్యవసర చికిత్స పొందే రోగులకు కీలక పరికరాల భద్రత ఎంత ముఖ్యమో ఈ కేసు చూపుతోంది.",
+   "src": "PTI",
+   "url": "https://www.siasat.com/two-held-for-stealing-ventilators-from-adilabad-rims-3571267/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "adilabad",
+   "loc": "ఆదిలాబాద్",
+   "d": "07.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Adilabad RIMS ventilator theft cracked; two arrested",
+    "p": "Police have arrested two men who, posing as medical technicians, took four ventilators from second-floor wards of Adilabad RIMS hospital on October 30. They were caught during vehicle checks near the Adilabad RTO. SP Akhil Mahajan said they admitted similar thefts at Nizamabad and Maharashtra government hospitals, and that one more person is absconding.",
+    "pts": [
+     "4 ventilators belonging to RIMS recovered",
+     "Equipment from Nizamabad and Maharashtra hospitals also recovered",
+     "₹1 lakh cash, a car and a bike seized"
+    ],
+    "why": "The case shows how important it is to protect vital equipment used by emergency patients in government hospitals.",
+    "cat": "Telangana · Adilabad",
+    "statl": "Ventilators stolen from RIMS"
+   },
+   "hi": {
+    "h": "आदिलाबाद रिम्स वेंटिलेटर चोरी का खुलासा; दो गिरफ्तार",
+    "p": "आदिलाबाद रिम्स अस्पताल की दूसरी मंजिल के वार्डों से 30 अक्टूबर को मेडिकल टेक्नीशियन बनकर चार वेंटिलेटर ले जाने वाले दो लोगों को पुलिस ने गिरफ्तार किया है। वे आदिलाबाद आरटीओ के पास वाहन जांच में पकड़े गए। एसपी अखिल महाजन ने बताया कि उन्होंने निजामाबाद और महाराष्ट्र के सरकारी अस्पतालों में भी चोरी कबूल की है और एक अन्य व्यक्ति फरार है।",
+    "pts": [
+     "रिम्स के 4 वेंटिलेटर बरामद",
+     "निजामाबाद और महाराष्ट्र के अस्पतालों के उपकरण भी बरामद",
+     "₹1 लाख नकद, कार और बाइक जब्त"
+    ],
+    "why": "यह मामला दिखाता है कि सरकारी अस्पतालों में आपात मरीजों के जरूरी उपकरणों की सुरक्षा कितनी अहम है।",
+    "cat": "तेलंगाना · आदिलाबाद",
+    "statl": "रिम्स से चोरी हुए वेंटिलेटर"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగ శిక్షణ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "1,200",
+   "statl": "శిక్షణ పొందనున్న నిరుద్యోగ యువత",
+   "h": "ఎన్ఐటీ వరంగల్‌కు ₹4 కోట్ల పీఎంకేవీవై ప్రాజెక్టు; 1,200 మందికి ఏఐ శిక్షణ",
+   "p": "ప్రధానమంత్రి కౌశల్ వికాస్ యోజన కింద ఎన్ఐటీ వరంగల్‌కు కేంద్ర నైపుణ్యాభివృద్ధి శాఖ ₹4 కోట్ల ప్రాజెక్టు మంజూరు చేసింది. దీని ద్వారా సుమారు 1,200 మంది నిరుద్యోగ యువతకు ఆర్టిఫిషియల్ ఇంటెలిజెన్స్, మెషిన్ లెర్నింగ్, వెబ్ డిజైనింగ్, ఫుల్‌స్టాక్ డెవలప్‌మెంట్‌లో శిక్షణ ఇస్తారు. 2027 మార్చి నాటికి లబ్ధి చేకూరుతుందని, ప్రొఫెసర్ ఎస్. శంకర్ సమన్వయం చేస్తారని అధికారిక ప్రకటన తెలిపింది.",
+   "pts": [
+    "కేంద్ర నైపుణ్యాభివృద్ధి శాఖ ₹4 కోట్లు మంజూరు",
+    "ఏఐ, ఎంఎల్, వెబ్ డిజైనింగ్, ఫుల్‌స్టాక్ కోర్సులు",
+    "2027 మార్చి నాటికి 1,200 మందికి లబ్ధి"
+   ],
+   "why": "కొత్త టెక్నాలజీ రంగాల్లో ఉద్యోగాలు కోరుకునే తెలంగాణ నిరుద్యోగ యువతకు ఇది అవకాశం.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/nit-warangal-rs-4-crore-pmkvy-project-train-1200-youth/",
+   "sec": [
+    "telangana",
+    "jobs",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "warangal",
+   "d": "07.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "NIT Warangal gets ₹4 crore PMKVY project to train 1,200 youth in AI",
+    "p": "The Union Ministry of Skill Development has sanctioned a ₹4 crore project to NIT Warangal under the Pradhan Mantri Kaushal Vikas Yojana. Around 1,200 unemployed youth will be trained in Artificial Intelligence, Machine Learning, Web Designing and Full-Stack Development. An official release said they will benefit by March 2027 and Professor S. Shankar will coordinate.",
+    "pts": [
+     "Union Skill Development Ministry sanctions ₹4 crore",
+     "AI, ML, web designing and full-stack courses",
+     "1,200 youth to benefit by March 2027"
+    ],
+    "why": "It is an opportunity for unemployed youth in Telangana seeking jobs in new technology fields.",
+    "cat": "Telangana · Skill Training",
+    "statl": "Unemployed youth to be trained"
+   },
+   "hi": {
+    "h": "एनआईटी वरंगल को ₹4 करोड़ की पीएमकेवीवाई परियोजना; 1,200 युवाओं को एआई प्रशिक्षण",
+    "p": "प्रधानमंत्री कौशल विकास योजना के तहत केंद्रीय कौशल विकास मंत्रालय ने एनआईटी वरंगल को ₹4 करोड़ की परियोजना मंजूर की है। इसके जरिए करीब 1,200 बेरोजगार युवाओं को आर्टिफिशियल इंटेलिजेंस, मशीन लर्निंग, वेब डिजाइनिंग और फुल-स्टैक डेवलपमेंट का प्रशिक्षण मिलेगा। आधिकारिक विज्ञप्ति के अनुसार मार्च 2027 तक लाभ मिलेगा और प्रोफेसर एस. शंकर समन्वय करेंगे।",
+    "pts": [
+     "केंद्रीय कौशल विकास मंत्रालय ने ₹4 करोड़ मंजूर किए",
+     "एआई, एमएल, वेब डिजाइनिंग और फुल-स्टैक कोर्स",
+     "मार्च 2027 तक 1,200 युवाओं को लाभ"
+    ],
+    "why": "नई तकनीक के क्षेत्रों में नौकरी चाहने वाले तेलंगाना के बेरोजगार युवाओं के लिए यह अवसर है।",
+    "cat": "तेलंगाना · कौशल प्रशिक्षण",
+    "statl": "प्रशिक्षण पाने वाले बेरोजगार युवा"
+   }
+  },
   {
    "cat": "ఆలేరు · ఎమ్మెల్యే పర్యటన",
    "col": "--c-election",
