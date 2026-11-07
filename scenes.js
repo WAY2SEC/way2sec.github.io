@@ -327,7 +327,7 @@ async function drawStoryPhoto(ctx,s,x,y,w,h){
   try{ const im=await new Promise((ok,no)=>{const i=new Image();i.onload=()=>ok(i);i.onerror=no;i.src=src;});
     const sc=Math.max(w/im.width,h/im.height), dw=im.width*sc, dh=im.height*sc;
     ctx.save(); ctx.beginPath(); ctx.rect(x,y,w,h); ctx.clip();
-    const fy=photoFocus(s), top=Math.min(0,Math.max(h-dh,h*0.4-fy*dh)); ctx.drawImage(im,x+(w-dw)/2,y+top,dw,dh);
+    const fy=photoFocus(s), top=Math.min(0,Math.max(h-dh,h*0.4-fy*dh)); const fx=(parseFloat(s&&s.imgfx)>=0&&parseFloat(s.imgfx)<=1)?parseFloat(s.imgfx):0.5, left=Math.min(0,Math.max(w-dw,w*0.5-fx*dw)); ctx.drawImage(im,x+left,y+top,dw,dh);
     if(dh>h*1.35){ /* tall photo in a wide box: faded copy behind, whole photo in the middle so the face fits */
       ctx.fillStyle='rgba(12,14,22,.62)'; ctx.fillRect(x,y,w,h);
       const sc2=h/im.height, w2=im.width*sc2; ctx.drawImage(im,x+(w-w2)/2,y,w2,h); }
