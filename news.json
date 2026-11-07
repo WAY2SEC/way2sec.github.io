@@ -1,8 +1,106 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T13:41:31+05:30",
+ "updated": "2026-11-07T14:08:55+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "క్రీడలు · క్రికెట్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "135",
+   "statl": "భారత్ లక్ష్యం – వెల్లింగ్టన్ రెండో వన్డే",
+   "h": "రెండో వన్డే: కివీస్ 134కే ఆలౌట్; గుర్నూర్ బ్రార్‌కు 4 వికెట్లు",
+   "p": "వెల్లింగ్టన్‌లో జరుగుతున్న రెండో వన్డేలో భారత బౌలర్లు అదరగొట్టారు. వర్షం కారణంగా ఆలస్యంగా మొదలైన 47 ఓవర్ల మ్యాచ్‌లో న్యూజిలాండ్ 41 ఓవర్లలో 134 పరుగులకే ఆలౌటైంది. గుర్నూర్ బ్రార్ 30 పరుగులకు 4 వికెట్లు తీశాడు. 135 పరుగుల లక్ష్య ఛేదనలో భారత్ 17 ఓవర్లకు 4 వికెట్లకు 71 పరుగులు చేసింది. గిల్, కోహ్లీ, రోహిత్ త్వరగా ఔటయ్యారు.",
+   "src": "India.com",
+   "url": "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-2nd-odi-match-7-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-hnry-stadium-wellington-8542833",
+   "sec": [
+    "sports",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "న్యూజిలాండ్ 41 ఓవర్లలో 134 ఆలౌట్",
+    "గుర్నూర్ బ్రార్ 10 ఓవర్లలో 4/30",
+    "డారిల్ మిచెల్ 104 బంతుల్లో 55 పరుగులు"
+   ],
+   "why": "ఐదు వన్డేల సిరీస్‌లో భారత్ ఇప్పటికే 1-0 ఆధిక్యంలో ఉంది; ఈ మ్యాచ్ గెలిస్తే ఆధిక్యం 2-0 అవుతుంది.",
+   "d": "07.11.2026",
+   "t": "14:05",
+   "en": {
+    "h": "2nd ODI: New Zealand all out for 134; Gurnoor Brar takes 4",
+    "p": "Indian bowlers dominated the second ODI in Wellington. In a 47-over match that began late due to rain, New Zealand were bowled out for 134 in 41 overs. Gurnoor Brar took 4 wickets for 30 runs. Chasing 135, India were 71 for 4 after 17 overs. Gill, Kohli and Rohit were dismissed early.",
+    "pts": [
+     "New Zealand all out for 134 in 41 overs",
+     "Gurnoor Brar 4/30 in 10 overs",
+     "Daryl Mitchell scored 55 off 104 balls"
+    ],
+    "why": "India already lead the five-match series 1-0; a win here would make it 2-0.",
+    "cat": "Sports · Cricket",
+    "statl": "India's target – 2nd ODI, Wellington"
+   },
+   "hi": {
+    "h": "दूसरा वनडे: न्यूज़ीलैंड 134 पर ऑलआउट; गुरनूर बराड़ को 4 विकेट",
+    "p": "वेलिंगटन में चल रहे दूसरे वनडे में भारतीय गेंदबाज़ों ने कमाल किया। बारिश के कारण देर से शुरू हुए 47 ओवर के मैच में न्यूज़ीलैंड 41 ओवर में 134 रन पर ऑलआउट हो गया। गुरनूर बराड़ ने 30 रन देकर 4 विकेट लिए। 135 रन के लक्ष्य का पीछा करते हुए भारत ने 17 ओवर में 4 विकेट पर 71 रन बनाए। गिल, कोहली और रोहित जल्दी आउट हो गए।",
+    "pts": [
+     "न्यूज़ीलैंड 41 ओवर में 134 पर ऑलआउट",
+     "गुरनूर बराड़ 10 ओवर में 4/30",
+     "डेरिल मिचेल ने 104 गेंदों में 55 रन बनाए"
+    ],
+    "why": "पाँच वनडे की सीरीज़ में भारत पहले से 1-0 से आगे है; यह मैच जीतने पर बढ़त 2-0 हो जाएगी।",
+    "cat": "खेल · क्रिकेट",
+    "statl": "भारत का लक्ष्य – वेलिंगटन दूसरा वनडे"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · కోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "98 ఏళ్లు",
+   "statl": "పిటిషన్ వేసిన భూయజమాని వయసు",
+   "h": "ఫామ్‌హౌస్ కూల్చివేత: హైడ్రా అధికారులకు హైకోర్టు ధిక్కార నోటీసులు",
+   "p": "సంగారెడ్డి జిల్లా ఐలాపూర్ గ్రామంలో ఫామ్‌హౌస్ కూల్చివేతపై దాఖలైన కోర్టు ధిక్కార పిటిషన్‌లో తెలంగాణ హైకోర్టు హైడ్రా కమిషనర్ సహా అధికారులకు నోటీసులు జారీ చేసింది. 2024 సెప్టెంబర్ 25 నాటి మధ్యంతర ఉత్తర్వులు ఉన్నా, 2026 ఏప్రిల్ 11న కట్టడాలను కూల్చారని 98 ఏళ్ల భూయజమాని ఆరోపించారు. అధికారులు స్పందన దాఖలు చేయకపోవడంతో నోటీసులు ఇచ్చారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-hc-seeks-response-from-hydraa-officials-in-contempt-plea-over-farmhouse-demolition",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "ఐలాపూర్",
+   "pts": [
+    "జస్టిస్ సి.వి. భాస్కర్ రెడ్డి ఫారం-1 నోటీసులు జారీ",
+    "హైడ్రా కమిషనర్, కలెక్టర్, అమీన్‌పూర్ అధికారులు ప్రతివాదులు",
+    "2026 ఏప్రిల్ 11న కూల్చివేత జరిగిందని ఆరోపణ"
+   ],
+   "why": "కోర్టు ఉత్తర్వులు ఉన్నప్పుడు కూల్చివేతలపై అధికారుల జవాబుదారీతనాన్ని ఈ కేసు పరీక్షిస్తోంది.",
+   "d": "07.11.2026",
+   "t": "14:05",
+   "en": {
+    "h": "Farmhouse demolition: High Court issues contempt notices to HYDRAA officials",
+    "p": "In a contempt petition over a farmhouse demolition at Ailapur village in Sangareddy district, the Telangana High Court issued notices to officials including the HYDRAA Commissioner. A 98-year-old landowner alleged the structures were demolished on April 11, 2026, despite an interim order of September 25, 2024. Notices were issued as the officials had not filed responses.",
+    "pts": [
+     "Justice C.V. Bhaskar Reddy issued Form-I notices",
+     "HYDRAA Commissioner, Collector, Ameenpur officials are respondents",
+     "Demolition allegedly carried out on April 11, 2026"
+    ],
+    "why": "The case tests officials' accountability for demolitions while court orders are in force.",
+    "cat": "Telangana · Court",
+    "statl": "Age of the petitioning landowner"
+   },
+   "hi": {
+    "h": "फार्महाउस तोड़फोड़: हाईकोर्ट ने HYDRAA अधिकारियों को अवमानना नोटिस भेजे",
+    "p": "संगारेड्डी ज़िले के ऐलापुर गाँव में फार्महाउस गिराए जाने पर दायर अवमानना याचिका में तेलंगाना हाईकोर्ट ने HYDRAA कमिश्नर समेत अधिकारियों को नोटिस जारी किए। 98 वर्षीय भूस्वामी ने आरोप लगाया कि 25 सितंबर 2024 के अंतरिम आदेश के बावजूद 11 अप्रैल 2026 को ढाँचे गिरा दिए गए। अधिकारियों ने जवाब दाखिल नहीं किया, इसलिए नोटिस जारी हुए।",
+    "pts": [
+     "जस्टिस सी.वी. भास्कर रेड्डी ने फॉर्म-I नोटिस जारी किए",
+     "HYDRAA कमिश्नर, कलेक्टर, अमीनपुर अधिकारी प्रतिवादी",
+     "11 अप्रैल 2026 को तोड़फोड़ का आरोप"
+    ],
+    "why": "यह मामला अदालती आदेश लागू रहते तोड़फोड़ पर अधिकारियों की जवाबदेही की परीक्षा है।",
+    "cat": "तेलंगाना · अदालत",
+    "statl": "याचिका दायर करने वाले भूस्वामी की उम्र"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఓటర్ల జాబితా",
    "col": "--c-election",
@@ -1848,105 +1946,6 @@
     "why": "कोडंगल क्षेत्र के लोगों और किसानों को नए स्कूल, अस्पताल और उद्योग मिलेंगे।",
     "cat": "तेलंगाना · कोडंगल",
     "statl": "कोडंगल में विकास कार्यों का मूल्य"
-   }
-  },
-  {
-   "cat": "ఏపీ · పల్నాడు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "10 + 37",
-   "statl": "జడ్పీటీసీ, ఎంపీటీసీ స్థానాల లెక్కింపు",
-   "h": "పల్నాడులో నేడు 10 జడ్పీటీసీ, 37 ఎంపీటీసీ స్థానాల ఓట్ల లెక్కింపు",
-   "p": "పల్నాడు జిల్లాలో 10 జడ్పీటీసీ, 37 ఎంపీటీసీ స్థానాల ఓట్ల లెక్కింపు శనివారం ఉదయం 8 గంటలకు మొదలవుతుంది. పెట్లూరివారిపాలెంలోని ఏఎం రెడ్డి కళాశాలలో లెక్కింపు కేంద్రం ఏర్పాటు చేశారు. జిల్లా కలెక్టర్, జిల్లా ఎన్నికల అధికారి కృతికా శుక్లా పర్యవేక్షిస్తున్నారు. పోలీసులు మూడంచెల భద్రత ఏర్పాటు చేశారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/counting-for-10-zptc-37-mptc-seats-today-1140012",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-palnadu",
-   "loc": "పెట్లూరివారిపాలెం",
-   "pts": [
-    "ఉదయం 8 గంటలకు లెక్కింపు ప్రారంభం",
-    "ఏఎం రెడ్డి కళాశాలలో లెక్కింపు కేంద్రం",
-    "మూడంచెల పోలీసు భద్రత ఏర్పాటు"
-   ],
-   "why": "పల్నాడు జిల్లాలో స్థానిక ప్రజాప్రతినిధులు ఎవరో నేడు తేలనుంది.",
-   "d": "07.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "Counting for 10 ZPTC, 37 MPTC seats in Palnadu today",
-    "p": "Counting of votes for 10 ZPTC and 37 MPTC seats in Palnadu district begins at 8 am on Saturday. The counting centre is at AM Reddy College in Petlurivaripalem. District Collector and District Election Officer Krithika Shukla is supervising the process. Police have put in place a three-tier security system.",
-    "pts": [
-     "Counting begins at 8 am",
-     "Counting centre at AM Reddy College",
-     "Three-tier police security in place"
-    ],
-    "why": "Palnadu district will learn today who its local representatives are.",
-    "cat": "AP · Palnadu",
-    "statl": "ZPTC and MPTC seats being counted"
-   },
-   "hi": {
-    "h": "पलनाडु में आज 10 जेडपीटीसी, 37 एमपीटीसी सीटों की मतगणना",
-    "p": "पलनाडु जिले में 10 जेडपीटीसी और 37 एमपीटीसी सीटों की मतगणना शनिवार सुबह 8 बजे शुरू होगी। मतगणना केंद्र पेटलूरिवारिपालेम के एएम रेड्डी कॉलेज में बनाया गया है। जिला कलेक्टर और जिला निर्वाचन अधिकारी कृतिका शुक्ला निगरानी कर रही हैं। पुलिस ने तीन-स्तरीय सुरक्षा व्यवस्था की है।",
-    "pts": [
-     "सुबह 8 बजे मतगणना शुरू",
-     "एएम रेड्डी कॉलेज में मतगणना केंद्र",
-     "तीन-स्तरीय पुलिस सुरक्षा"
-    ],
-    "why": "पलनाडु जिले में आज तय होगा कि स्थानीय जनप्रतिनिधि कौन होंगे।",
-    "cat": "आंध्र प्रदेश · पलनाडु",
-    "statl": "जेडपीटीसी और एमपीटीसी सीटों की गिनती"
-   }
-  },
-  {
-   "cat": "ఏపీ · విజయవాడ",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "200 మి.లీ.",
-   "statl": "ఎకరాకు ప్రొపికొనజోల్ పిచికారీ",
-   "h": "మురసు తుపాను వర్షాలు: వరి పంట కాపాడుకోవాలని రైతులకు శాస్త్రవేత్తల సూచన",
-   "p": "మురసు తుపాను భారీ వర్షాలకు దెబ్బతిన్న విజయవాడ రూరల్, అర్బన్ మండలాల వరి పొలాలను శాస్త్రవేత్తలు, వ్యవసాయ అధికారులు శుక్రవారం పరిశీలించారు. పొలాల్లో నిలిచిన నీటిని కాలువల ద్వారా బయటకు పంపాలని సూచించారు. మొలకెత్తుతున్న గింజలపై 5% ఉప్పు ద్రావణం, తెగుళ్లకు ఎకరాకు 200 మి.లీ. ప్రొపికొనజోల్ పిచికారీ చేయాలని చెప్పారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/farmers-urged-to-protect-paddy-from-rains-1140014",
-   "sec": [
-    "telangana",
-    "agri",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "ap-ntr",
-   "pts": [
-    "పొలాల్లో నిలిచిన నీటిని వెంటనే తొలగించాలి",
-    "మొలకెత్తే గింజలపై 5% ఉప్పు ద్రావణం",
-    "ఎకరాకు 200 మి.లీ. ప్రొపికొనజోల్ పిచికారీ"
-   ],
-   "why": "తుపాను వర్షాలతో నష్టపోయిన ఎన్టీఆర్ జిల్లా వరి రైతులు పంటను కాపాడుకోవడానికి ఈ సూచనలు ఉపయోగపడతాయి.",
-   "d": "07.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "Cyclone Murasu rains: scientists advise farmers on saving paddy",
-    "p": "Scientists and agriculture officials on Friday inspected paddy fields in Vijayawada Rural and Urban mandals damaged by heavy rain from Cyclone Murasu. They advised farmers to drain standing water through field channels. They suggested a 5% salt solution for sprouting grains and spraying 200 ml of propiconazole per acre against disease.",
-    "pts": [
-     "Drain standing water from fields quickly",
-     "5% salt solution for sprouting grains",
-     "Spray 200 ml propiconazole per acre"
-    ],
-    "why": "The advice helps NTR district paddy farmers hit by cyclone rains save their crop.",
-    "cat": "AP · Vijayawada",
-    "statl": "Propiconazole spray per acre"
-   },
-   "hi": {
-    "h": "चक्रवात मुरसु की बारिश: धान बचाने के लिए वैज्ञानिकों की सलाह",
-    "p": "वैज्ञानिकों और कृषि अधिकारियों ने शुक्रवार को चक्रवात मुरसु की भारी बारिश से प्रभावित विजयवाड़ा ग्रामीण और शहरी मंडलों के धान के खेतों का निरीक्षण किया। उन्होंने खेतों में भरा पानी नालियों से निकालने की सलाह दी। अंकुरित दानों पर 5% नमक का घोल और रोगों के लिए प्रति एकड़ 200 मिली प्रोपिकोनाज़ोल छिड़कने को कहा।",
-    "pts": [
-     "खेतों से भरा पानी जल्दी निकालें",
-     "अंकुरित दानों पर 5% नमक का घोल",
-     "प्रति एकड़ 200 मिली प्रोपिकोनाज़ोल छिड़काव"
-    ],
-    "why": "चक्रवात की बारिश से प्रभावित एनटीआर जिले के धान किसानों को फसल बचाने में मदद मिलेगी।",
-    "cat": "आंध्र प्रदेश · विजयवाड़ा",
-    "statl": "प्रति एकड़ प्रोपिकोनाज़ोल छिड़काव"
    }
   }
  ]
