@@ -1,8 +1,103 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 15,
+ "count": 17,
  "stories": [
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "22",
+   "statl": "తీవ్ర కాలుష్య స్థాయిలో కేంద్రాలు",
+   "h": "ఢిల్లీలో విషపు గాలి: 22 కేంద్రాల్లో ఏక్యూఐ 400 దాటింది",
+   "p": "శనివారం ఉదయం ఢిల్లీలో గాలి నాణ్యత మరింత పడిపోయింది. ఉదయం 7:30కి నగర సగటు ఏక్యూఐ 365గా నమోదైంది. సీపీసీబీ లెక్కల ప్రకారం 59 కేంద్రాల్లో 22 చోట్ల ‘తీవ్ర’ స్థాయి కాలుష్యం ఉంది. ఐఐటీ ఢిల్లీ వద్ద అత్యధికంగా 440 నమోదైంది. శుక్రవారం నుంచి ఢిల్లీ-ఎన్‌సీఆర్‌లో గ్రాప్-3 ఆంక్షలు అమల్లోకి వచ్చాయి.",
+   "src": "India.com",
+   "url": "https://www.india.com/news/india/delhi-wakes-up-to-toxic-air-aqi-crosses-400-in-22-monitoring-stations-as-grap-3-restrictions-take-effect-check-worst-hit-locations-8542846/",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "pts": [
+    "నగర సగటు ఏక్యూఐ 365 – ‘చాలా పేలవం’",
+    "దుమ్ము రేపే నిర్మాణ, కూల్చివేత పనులపై కఠిన ఆంక్షలు",
+    "నవంబర్ 7–9 మధ్య తీవ్ర స్థాయి కొనసాగవచ్చని ఐఐటీఎం హెచ్చరిక"
+   ],
+   "why": "ఢిల్లీ-ఎన్‌సీఆర్‌లో ఉండే తెలుగువారు సహా లక్షలాది మంది ఆరోగ్యంపై ఈ కాలుష్యం ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Toxic air in Delhi: AQI crosses 400 at 22 stations",
+    "p": "Delhi's air quality worsened further on Saturday morning. The city's average AQI was 365 at 7:30 am. As per CPCB data, 22 of 59 monitoring stations were in the 'severe' category. IIT Delhi recorded the highest reading of 440. GRAP Stage 3 restrictions came into force across Delhi-NCR from Friday.",
+    "pts": [
+     "City average AQI 365 – 'very poor'",
+     "Strict curbs on dust-raising construction and demolition",
+     "IITM warns severe air may continue from Nov 7 to 9"
+    ],
+    "why": "This pollution affects the health of lakhs of people in Delhi-NCR, including Telugu residents.",
+    "cat": "Delhi · Pollution",
+    "statl": "Stations in severe category"
+   },
+   "hi": {
+    "h": "दिल्ली में ज़हरीली हवा: 22 केंद्रों पर एक्यूआई 400 के पार",
+    "p": "शनिवार सुबह दिल्ली की हवा की गुणवत्ता और बिगड़ गई। सुबह 7:30 बजे शहर का औसत एक्यूआई 365 दर्ज हुआ। सीपीसीबी के अनुसार 59 में से 22 केंद्रों पर ‘गंभीर’ स्तर का प्रदूषण था। आईआईटी दिल्ली में सबसे अधिक 440 दर्ज हुआ। शुक्रवार से दिल्ली-एनसीआर में ग्रैप-3 की पाबंदियां लागू हो गई हैं।",
+    "pts": [
+     "शहर का औसत एक्यूआई 365 – ‘बहुत खराब’",
+     "धूल उड़ाने वाले निर्माण और तोड़फोड़ कार्यों पर सख्त रोक",
+     "आईआईटीएम की चेतावनी: 7 से 9 नवंबर तक गंभीर स्तर रह सकता है"
+    ],
+    "why": "यह प्रदूषण दिल्ली-एनसीआर में रहने वाले तेलुगु लोगों समेत लाखों लोगों की सेहत पर असर डालता है।",
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "गंभीर श्रेणी वाले केंद्र"
+   },
+   "d": "07.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ఏపీ · ధరలు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹35",
+   "statl": "రైతు బజార్లలో కిలో ఉల్లి ధర",
+   "h": "ఉల్లి ధరలకు కళ్లెం: రైతు బజార్లలో కిలో ₹35కే అమ్మకం",
+   "p": "ఉల్లి ధరలను అదుపు చేసేందుకు ఆంధ్రప్రదేశ్ ప్రభుత్వం చర్యలు చేపట్టింది. రేపటి నుంచి రాష్ట్రంలోని రైతు బజార్లలో కిలో ఉల్లిని ₹35కే విక్రయించనున్నారు. ఇందుకోసం మహారాష్ట్రలోని నాసిక్ నుంచి 800 మెట్రిక్ టన్నుల ఉల్లిని రాష్ట్రానికి తెప్పిస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-7th-november-2026-kjr-3705.html",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "రేపటి నుంచి రైతు బజార్లలో కిలో ₹35",
+    "నాసిక్ నుంచి 800 మెట్రిక్ టన్నుల ఉల్లి"
+   ],
+   "why": "ఉల్లి ధరల భారంతో ఇబ్బంది పడుతున్న ఏపీ కుటుంబాలకు ఇది కొంత ఊరటనిస్తుంది.",
+   "en": {
+    "h": "AP curbs onion prices: Rythu Bazaars to sell at ₹35 a kg",
+    "p": "The Andhra Pradesh government has taken steps to control onion prices. From tomorrow, onions will be sold at ₹35 per kg at Rythu Bazaars in the state. For this, 800 metric tonnes of onions are being brought to the state from Nashik in Maharashtra.",
+    "pts": [
+     "Onions at ₹35 a kg in Rythu Bazaars from tomorrow",
+     "800 metric tonnes of onions from Nashik"
+    ],
+    "why": "This gives some relief to AP families burdened by high onion prices.",
+    "cat": "AP · Prices",
+    "statl": "Onion price per kg at Rythu Bazaars"
+   },
+   "hi": {
+    "h": "प्याज़ की कीमतों पर लगाम: रायथु बाज़ारों में ₹35 किलो बिक्री",
+    "p": "आंध्र प्रदेश सरकार ने प्याज़ की कीमतें नियंत्रित करने के लिए कदम उठाए हैं। कल से राज्य के रायथु बाज़ारों में प्याज़ ₹35 प्रति किलो बेचा जाएगा। इसके लिए महाराष्ट्र के नासिक से 800 मीट्रिक टन प्याज़ राज्य में मंगाया जा रहा है।",
+    "pts": [
+     "कल से रायथु बाज़ारों में ₹35 किलो प्याज़",
+     "नासिक से 800 मीट्रिक टन प्याज़"
+    ],
+    "why": "इससे प्याज़ की महंगाई से परेशान आंध्र प्रदेश के परिवारों को कुछ राहत मिलेगी।",
+    "cat": "आंध्र प्रदेश · कीमतें",
+    "statl": "रायथु बाज़ार में प्याज़ का प्रति किलो दाम"
+   },
+   "d": "07.11.2026",
+   "t": "09:05"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",

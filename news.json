@@ -1,8 +1,103 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T08:10:23+05:30",
+ "updated": "2026-11-07T09:08:05+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "22",
+   "statl": "తీవ్ర కాలుష్య స్థాయిలో కేంద్రాలు",
+   "h": "ఢిల్లీలో విషపు గాలి: 22 కేంద్రాల్లో ఏక్యూఐ 400 దాటింది",
+   "p": "శనివారం ఉదయం ఢిల్లీలో గాలి నాణ్యత మరింత పడిపోయింది. ఉదయం 7:30కి నగర సగటు ఏక్యూఐ 365గా నమోదైంది. సీపీసీబీ లెక్కల ప్రకారం 59 కేంద్రాల్లో 22 చోట్ల ‘తీవ్ర’ స్థాయి కాలుష్యం ఉంది. ఐఐటీ ఢిల్లీ వద్ద అత్యధికంగా 440 నమోదైంది. శుక్రవారం నుంచి ఢిల్లీ-ఎన్‌సీఆర్‌లో గ్రాప్-3 ఆంక్షలు అమల్లోకి వచ్చాయి.",
+   "src": "India.com",
+   "url": "https://www.india.com/news/india/delhi-wakes-up-to-toxic-air-aqi-crosses-400-in-22-monitoring-stations-as-grap-3-restrictions-take-effect-check-worst-hit-locations-8542846/",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "pts": [
+    "నగర సగటు ఏక్యూఐ 365 – ‘చాలా పేలవం’",
+    "దుమ్ము రేపే నిర్మాణ, కూల్చివేత పనులపై కఠిన ఆంక్షలు",
+    "నవంబర్ 7–9 మధ్య తీవ్ర స్థాయి కొనసాగవచ్చని ఐఐటీఎం హెచ్చరిక"
+   ],
+   "why": "ఢిల్లీ-ఎన్‌సీఆర్‌లో ఉండే తెలుగువారు సహా లక్షలాది మంది ఆరోగ్యంపై ఈ కాలుష్యం ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Toxic air in Delhi: AQI crosses 400 at 22 stations",
+    "p": "Delhi's air quality worsened further on Saturday morning. The city's average AQI was 365 at 7:30 am. As per CPCB data, 22 of 59 monitoring stations were in the 'severe' category. IIT Delhi recorded the highest reading of 440. GRAP Stage 3 restrictions came into force across Delhi-NCR from Friday.",
+    "pts": [
+     "City average AQI 365 – 'very poor'",
+     "Strict curbs on dust-raising construction and demolition",
+     "IITM warns severe air may continue from Nov 7 to 9"
+    ],
+    "why": "This pollution affects the health of lakhs of people in Delhi-NCR, including Telugu residents.",
+    "cat": "Delhi · Pollution",
+    "statl": "Stations in severe category"
+   },
+   "hi": {
+    "h": "दिल्ली में ज़हरीली हवा: 22 केंद्रों पर एक्यूआई 400 के पार",
+    "p": "शनिवार सुबह दिल्ली की हवा की गुणवत्ता और बिगड़ गई। सुबह 7:30 बजे शहर का औसत एक्यूआई 365 दर्ज हुआ। सीपीसीबी के अनुसार 59 में से 22 केंद्रों पर ‘गंभीर’ स्तर का प्रदूषण था। आईआईटी दिल्ली में सबसे अधिक 440 दर्ज हुआ। शुक्रवार से दिल्ली-एनसीआर में ग्रैप-3 की पाबंदियां लागू हो गई हैं।",
+    "pts": [
+     "शहर का औसत एक्यूआई 365 – ‘बहुत खराब’",
+     "धूल उड़ाने वाले निर्माण और तोड़फोड़ कार्यों पर सख्त रोक",
+     "आईआईटीएम की चेतावनी: 7 से 9 नवंबर तक गंभीर स्तर रह सकता है"
+    ],
+    "why": "यह प्रदूषण दिल्ली-एनसीआर में रहने वाले तेलुगु लोगों समेत लाखों लोगों की सेहत पर असर डालता है।",
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "गंभीर श्रेणी वाले केंद्र"
+   },
+   "d": "07.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ఏపీ · ధరలు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹35",
+   "statl": "రైతు బజార్లలో కిలో ఉల్లి ధర",
+   "h": "ఉల్లి ధరలకు కళ్లెం: రైతు బజార్లలో కిలో ₹35కే అమ్మకం",
+   "p": "ఉల్లి ధరలను అదుపు చేసేందుకు ఆంధ్రప్రదేశ్ ప్రభుత్వం చర్యలు చేపట్టింది. రేపటి నుంచి రాష్ట్రంలోని రైతు బజార్లలో కిలో ఉల్లిని ₹35కే విక్రయించనున్నారు. ఇందుకోసం మహారాష్ట్రలోని నాసిక్ నుంచి 800 మెట్రిక్ టన్నుల ఉల్లిని రాష్ట్రానికి తెప్పిస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-7th-november-2026-kjr-3705.html",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "రేపటి నుంచి రైతు బజార్లలో కిలో ₹35",
+    "నాసిక్ నుంచి 800 మెట్రిక్ టన్నుల ఉల్లి"
+   ],
+   "why": "ఉల్లి ధరల భారంతో ఇబ్బంది పడుతున్న ఏపీ కుటుంబాలకు ఇది కొంత ఊరటనిస్తుంది.",
+   "en": {
+    "h": "AP curbs onion prices: Rythu Bazaars to sell at ₹35 a kg",
+    "p": "The Andhra Pradesh government has taken steps to control onion prices. From tomorrow, onions will be sold at ₹35 per kg at Rythu Bazaars in the state. For this, 800 metric tonnes of onions are being brought to the state from Nashik in Maharashtra.",
+    "pts": [
+     "Onions at ₹35 a kg in Rythu Bazaars from tomorrow",
+     "800 metric tonnes of onions from Nashik"
+    ],
+    "why": "This gives some relief to AP families burdened by high onion prices.",
+    "cat": "AP · Prices",
+    "statl": "Onion price per kg at Rythu Bazaars"
+   },
+   "hi": {
+    "h": "प्याज़ की कीमतों पर लगाम: रायथु बाज़ारों में ₹35 किलो बिक्री",
+    "p": "आंध्र प्रदेश सरकार ने प्याज़ की कीमतें नियंत्रित करने के लिए कदम उठाए हैं। कल से राज्य के रायथु बाज़ारों में प्याज़ ₹35 प्रति किलो बेचा जाएगा। इसके लिए महाराष्ट्र के नासिक से 800 मीट्रिक टन प्याज़ राज्य में मंगाया जा रहा है।",
+    "pts": [
+     "कल से रायथु बाज़ारों में ₹35 किलो प्याज़",
+     "नासिक से 800 मीट्रिक टन प्याज़"
+    ],
+    "why": "इससे प्याज़ की महंगाई से परेशान आंध्र प्रदेश के परिवारों को कुछ राहत मिलेगी।",
+    "cat": "आंध्र प्रदेश · कीमतें",
+    "statl": "रायथु बाज़ार में प्याज़ का प्रति किलो दाम"
+   },
+   "d": "07.11.2026",
+   "t": "09:05"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
@@ -1859,103 +1954,6 @@
    },
    "d": "06.11.2026",
    "t": "17:48"
-  },
-  {
-   "cat": "భారత్ · విద్యుత్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2.5 లక్షలు",
-   "statl": "రోజుకు అవసరమైన స్మార్ట్ మీటర్లు",
-   "h": "25 కోట్ల స్మార్ట్ మీటర్ల లక్ష్యానికి రోజుకు 2.5 లక్షల మీటర్లు అవసరం: నివేదిక",
-   "p": "2028 మార్చి నాటికి 25 కోట్ల స్మార్ట్ మీటర్ల లక్ష్యం చేరాలంటే దేశంలో రోజుకు దాదాపు 2.5 లక్షల మీటర్లు అమర్చాలని కేర్‌ఎడ్జ్ రేటింగ్స్ నివేదిక తెలిపింది. 2026 ఏప్రిల్ నాటికి సుమారు 6.5 కోట్ల మీటర్లు మాత్రమే అమర్చారు. 2025-26లో రోజుకు సగటున 99 వేల మీటర్లే బిగించారు.",
-   "pts": [
-    "ఏప్రిల్ 2026 నాటికి 9% మీటర్లే ప్రీపెయిడ్ మోడ్‌లో",
-    "మహారాష్ట్ర, బిహార్, యూపీ వాటా సుమారు 47%",
-    "2030-31 వరకు ₹1.84 లక్షల కోట్ల అదనపు ఆదాయం అంచనా"
-   ],
-   "why": "ఇళ్లకు స్మార్ట్, ప్రీపెయిడ్ మీటర్ల ఏర్పాటు వేగం విద్యుత్ వినియోగదారులందరిపై ప్రభావం చూపుతుంది.",
-   "src": "Telangana Today, IANS",
-   "url": "https://telanganatoday.com/india-needs-2-5-lakh-smart-meter-installations-a-day-to-meet-25-crore-target-by-march-2028",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "India needs 2.5 lakh smart meters a day to hit 25-crore target: report",
-    "p": "To reach the target of 25 crore smart meters by March 2028, India needs to install nearly 2.5 lakh meters a day, a CareEdge Ratings report said. Only about 6.5 crore meters had been installed by April 2026. In 2025-26, an average of only about 99,000 meters were installed daily.",
-    "pts": [
-     "Only 9% of meters in prepaid mode as of April 2026",
-     "Maharashtra, Bihar and UP account for about 47%",
-     "Rs 1.84 lakh crore additional revenue estimated till 2030-31"
-    ],
-    "why": "The pace of smart and prepaid meter installation affects every electricity consumer.",
-    "cat": "India · Power",
-    "statl": "Smart meters needed every day"
-   },
-   "hi": {
-    "h": "25 करोड़ स्मार्ट मीटर लक्ष्य के लिए रोज़ 2.5 लाख मीटर चाहिए: रिपोर्ट",
-    "p": "केयरएज रेटिंग्स की रिपोर्ट के अनुसार मार्च 2028 तक 25 करोड़ स्मार्ट मीटर का लक्ष्य पाने के लिए देश में रोज़ लगभग 2.5 लाख मीटर लगाने होंगे। अप्रैल 2026 तक केवल करीब 6.5 करोड़ मीटर लगे थे। 2025-26 में रोज़ औसतन केवल लगभग 99 हज़ार मीटर लगाए गए।",
-    "pts": [
-     "अप्रैल 2026 तक केवल 9% मीटर प्रीपेड मोड में",
-     "महाराष्ट्र, बिहार और यूपी की हिस्सेदारी लगभग 47%",
-     "2030-31 तक ₹1.84 लाख करोड़ अतिरिक्त राजस्व का अनुमान"
-    ],
-    "why": "स्मार्ट और प्रीपेड मीटर लगाने की रफ्तार हर बिजली उपभोक्ता को प्रभावित करती है।",
-    "cat": "भारत · बिजली",
-    "statl": "रोज़ाना ज़रूरी स्मार्ट मीटर"
-   },
-   "d": "06.11.2026",
-   "t": "17:48"
-  },
-  {
-   "cat": "తెలంగాణ · ప్రభుత్వం",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "2 కమిషన్లు",
-   "statl": "ఎస్సీ, ఎస్టీలకు వేర్వేరు కమిషన్లు",
-   "h": "ఎస్సీ, ఎస్టీలకు వేర్వేరు కమిషన్లు: కొత్త చట్టం తెస్తున్న తెలంగాణ ప్రభుత్వం",
-   "p": "2003 నాటి తెలంగాణ ఎస్సీ/ఎస్టీ కమిషన్ చట్టాన్ని రద్దు చేయాలని రాష్ట్ర ప్రభుత్వం నిర్ణయించింది. దాని స్థానంలో షెడ్యూల్డ్ కులాలు, షెడ్యూల్డ్ తెగలకు వేర్వేరు కమిషన్లు ఏర్పాటు చేసే కొత్త 2026 చట్టాన్ని తీసుకొస్తోంది. ఈ నిర్ణయాన్ని తెలంగాణ గిరిజన సమాఖ్య స్వాగతించి, గిరిజన హక్కుల విషయంలో చారిత్రక అడుగుగా పేర్కొంది.",
-   "pts": [
-    "2003 ఎస్సీ/ఎస్టీ కమిషన్ చట్టం రద్దు",
-    "కొత్త 2026 చట్టంతో రెండు వేర్వేరు కమిషన్లు",
-    "సీఎం రేవంత్ రెడ్డికి గిరిజన సమాఖ్య అభినందనలు"
-   ],
-   "why": "రాష్ట్రంలోని ఎస్సీ, ఎస్టీ వర్గాల సమస్యలను వేర్వేరు కమిషన్లు విడిగా పరిశీలించే అవకాశం ఏర్పడుతుంది.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/south-india/politics-telangana-tribal-federation/237671",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "en": {
-    "h": "Telangana to set up separate commissions for SCs and STs under new law",
-    "p": "The state government has decided to repeal the 2003 Telangana SC/ST Commission Act. In its place it is bringing a new 2026 Act that provides separate commissions for Scheduled Castes and Scheduled Tribes. The Telangana Tribal Federation welcomed the decision and called it a historic step for tribal rights.",
-    "pts": [
-     "2003 SC/ST Commission Act to be repealed",
-     "New 2026 Act creates two separate commissions",
-     "Tribal Federation congratulates CM Revanth Reddy"
-    ],
-    "why": "Separate commissions can take up the issues of SC and ST communities in the state independently.",
-    "cat": "Telangana · Government",
-    "statl": "Separate commissions for SCs and STs"
-   },
-   "hi": {
-    "h": "नए कानून के तहत तेलंगाना में एससी और एसटी के लिए अलग-अलग आयोग",
-    "p": "राज्य सरकार ने 2003 के तेलंगाना एससी/एसटी आयोग अधिनियम को रद्द करने का फैसला किया है। इसकी जगह वह नया 2026 अधिनियम ला रही है, जिसमें अनुसूचित जातियों और अनुसूचित जनजातियों के लिए अलग-अलग आयोग होंगे। तेलंगाना आदिवासी महासंघ ने इस फैसले का स्वागत किया और इसे आदिवासी अधिकारों के लिए ऐतिहासिक कदम बताया।",
-    "pts": [
-     "2003 का एससी/एसटी आयोग अधिनियम रद्द होगा",
-     "नए 2026 अधिनियम से दो अलग आयोग",
-     "आदिवासी महासंघ ने सीएम रेवंत रेड्डी को बधाई दी"
-    ],
-    "why": "अलग-अलग आयोग राज्य के एससी और एसटी समुदायों के मुद्दों को अलग से देख सकेंगे।",
-    "cat": "तेलंगाना · सरकार",
-    "statl": "एससी, एसटी के लिए अलग आयोग"
-   },
-   "d": "06.11.2026",
-   "t": "17:05"
   }
  ]
 }
