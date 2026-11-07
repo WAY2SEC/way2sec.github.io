@@ -1,8 +1,57 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 24,
+ "count": 25,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "వన్‌వే",
+   "statl": "లక్డీకాపూల్‌లో ప్రతిపాదిత ట్రాఫిక్ విధానం",
+   "h": "లక్డీకాపూల్‌లో వన్‌వే వ్యవస్థకు ట్రాఫిక్ పోలీసుల ప్రణాళిక",
+   "p": "హైదరాబాద్‌లోని లక్డీకాపూల్ ప్రాంతంలో ట్రాఫిక్ రద్దీ తగ్గించేందుకు వన్‌వే విధానం తీసుకురావాలని ట్రాఫిక్ పోలీసులు యోచిస్తున్నారు. నగర పోలీస్ కమిషనర్ వీసీ సజ్జనార్, ట్రాఫిక్ జాయింట్ కమిషనర్ డి. జోయెల్ డేవిస్ శుక్రవారం బైక్‌పై ప్రతిపాదిత మార్గాలను పరిశీలించారు. ద్వారకా హోటల్, ఇక్బాల్ మినార్, రవీంద్రభారతి, నిరంకారి జంక్షన్, సెక్రటేరియట్ జంక్షన్ మీదుగా మళ్లింపులు ఉంటాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-traffic-police-plan-one-way-system-at-lakdi-ka-pul",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "లక్డీకాపూల్",
+   "pts": [
+    "సజ్జనార్, జోయెల్ డేవిస్ బైక్‌పై మార్గాల పరిశీలన",
+    "ఓల్డ్ కంట్రోల్ రూమ్ నుంచి సికింద్రాబాద్ వైపు వాహనాల మళ్లింపు",
+    "హెచ్‌డీఎఫ్‌సీ, ఓల్డ్ సైఫాబాద్, ఇక్బాల్ మినార్ మీదుగా కొత్త మార్గం"
+   ],
+   "why": "లక్డీకాపూల్, సెక్రటేరియట్ పరిసరాల్లో రోజూ ప్రయాణించే వాహనదారుల మార్గాలు మారవచ్చు.",
+   "d": "07.11.2026",
+   "t": "10:35",
+   "en": {
+    "h": "Hyderabad traffic police plan one-way system at Lakdi-ka-pul",
+    "p": "Hyderabad traffic police are planning a one-way system in the Lakdi-ka-pul area to ease congestion. City Police Commissioner VC Sajjanar and Traffic Joint Commissioner D Joel Davis inspected the proposed routes on a bike on Friday. Diversions will run via Dwaraka Hotel, Iqbal Minar, Ravindra Bharathi, Nirankari junction and Secretariat junction.",
+    "pts": [
+     "Sajjanar and Joel Davis inspect routes on a bike",
+     "Traffic from Old Control Room towards Secunderabad to be diverted",
+     "New route via HDFC, Old Saifabad and Iqbal Minar"
+    ],
+    "why": "Routes may change for motorists who travel daily around Lakdi-ka-pul and the Secretariat.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Proposed traffic system at Lakdi-ka-pul"
+   },
+   "hi": {
+    "h": "हैदराबाद ट्रैफिक पुलिस की लकड़ी-का-पुल पर वन-वे व्यवस्था की योजना",
+    "p": "हैदराबाद के लकड़ी-का-पुल इलाके में ट्रैफिक जाम कम करने के लिए ट्रैफिक पुलिस वन-वे व्यवस्था लाने की योजना बना रही है। शहर के पुलिस आयुक्त वीसी सज्जनार और ट्रैफिक संयुक्त आयुक्त डी. जोएल डेविस ने शुक्रवार को बाइक पर प्रस्तावित मार्गों का निरीक्षण किया। डायवर्जन द्वारका होटल, इकबाल मीनार, रवींद्र भारती, निरंकारी जंक्शन और सचिवालय जंक्शन से होकर होंगे।",
+    "pts": [
+     "सज्जनार और जोएल डेविस ने बाइक पर मार्गों का निरीक्षण किया",
+     "ओल्ड कंट्रोल रूम से सिकंदराबाद की ओर ट्रैफिक का डायवर्जन",
+     "एचडीएफसी, ओल्ड सैफाबाद और इकबाल मीनार होकर नया मार्ग"
+    ],
+    "why": "लकड़ी-का-पुल और सचिवालय के आसपास रोज़ आने-जाने वाले वाहन चालकों के रास्ते बदल सकते हैं।",
+    "cat": "हैदराबाद · ट्रैफिक",
+    "statl": "लकड़ी-का-पुल पर प्रस्तावित ट्रैफिक व्यवस्था"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · ఐటీ",
    "col": "--c-money",
