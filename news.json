@@ -1,8 +1,251 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T14:08:55+05:30",
+ "updated": "2026-11-07T14:41:46+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సైబర్ నేరాలు",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹400 కోట్లు",
+   "statl": "మ్యూల్ ఖాతాల ద్వారా మళ్లించిన మోసం సొమ్ము",
+   "h": "సైబరాబాద్ ఎఫ్‌ఐఆర్ ఆధారంగా ₹400 కోట్ల సైబర్ మోసం గుట్టు రట్టు చేసిన ఈడీ",
+   "p": "సైబరాబాద్ సైబర్ క్రైమ్ పోలీసులు నమోదు చేసిన ఎఫ్‌ఐఆర్ ఆధారంగా ఎన్‌ఫోర్స్‌మెంట్ డైరెక్టరేట్ దేశవ్యాప్త సైబర్ మనీ లాండరింగ్ ముఠాను బయటపెట్టింది. ఆన్‌లైన్ మోసాల ద్వారా వచ్చిన ₹400 కోట్లకు పైగా సొమ్మును మ్యూల్ బ్యాంకు ఖాతాలు, క్రిప్టో మార్గాల్లో మళ్లించినట్లు గుర్తించారు. ఈడీ చెన్నై కార్యాలయం అక్టోబర్ 30న ఇద్దరిని పీఎంఎల్‌ఏ కింద అరెస్టు చేసింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/fir-in-cyberabad-helps-ed-uncover-rs-400-crore-cyber-fraud-3571093/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఇద్దరు నిందితులకు 14 రోజుల జ్యుడీషియల్ కస్టడీ",
+    "తెలంగాణ, కర్ణాటక, బెంగాల్‌లో మరో 10 ఎఫ్‌ఐఆర్‌ల పరిశీలన",
+    "₹88.2 లక్షల బ్యాంకు నిధులు స్తంభింపజేసిన ఈడీ"
+   ],
+   "why": "సోషల్ మీడియా ప్రకటనలు, ఉద్యోగ, షేర్ మార్కెట్ ఆఫర్లతో మోసపోయే ప్రజలు అప్రమత్తంగా ఉండాలని ఈ కేసు గుర్తు చేస్తోంది.",
+   "en": {
+    "h": "ED busts ₹400 crore cyber fraud based on Cyberabad FIR",
+    "p": "Based on an FIR registered by the Cyberabad cybercrime police, the Enforcement Directorate uncovered a pan-India cyber money laundering network. Over ₹400 crore of online fraud proceeds was found to have been routed through mule bank accounts and crypto channels. ED's Chennai office arrested two people under the PMLA on October 30.",
+    "pts": [
+     "Two accused sent to 14 days' judicial custody",
+     "10 more FIRs in Telangana, Karnataka, Bengal examined",
+     "ED froze ₹88.2 lakh in bank funds"
+    ],
+    "why": "The case is a reminder for people to stay alert to social media ads, job and share-market offers.",
+    "cat": "Telangana · Cybercrime",
+    "statl": "Fraud money routed through mule accounts"
+   },
+   "hi": {
+    "h": "साइबराबाद एफआईआर के आधार पर ईडी ने ₹400 करोड़ की साइबर धोखाधड़ी का भंडाफोड़ किया",
+    "p": "साइबराबाद साइबर क्राइम पुलिस की एफआईआर के आधार पर प्रवर्तन निदेशालय ने देशभर में फैले साइबर मनी लॉन्ड्रिंग नेटवर्क का पता लगाया। ऑनलाइन धोखाधड़ी से मिले ₹400 करोड़ से अधिक की रकम म्यूल बैंक खातों और क्रिप्टो माध्यमों से घुमाई गई। ईडी के चेन्नई कार्यालय ने 30 अक्टूबर को दो लोगों को पीएमएलए के तहत गिरफ्तार किया।",
+    "pts": [
+     "दो आरोपियों को 14 दिन की न्यायिक हिरासत",
+     "तेलंगाना, कर्नाटक, बंगाल में 10 और एफआईआर की जाँच",
+     "ईडी ने ₹88.2 लाख के बैंक फंड फ्रीज़ किए"
+    ],
+    "why": "यह मामला याद दिलाता है कि लोग सोशल मीडिया विज्ञापनों, नौकरी और शेयर बाज़ार के ऑफ़र से सावधान रहें।",
+    "cat": "तेलंगाना · साइबर अपराध",
+    "statl": "म्यूल खातों से घुमाई गई धोखाधड़ी की रकम"
+   },
+   "d": "07.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఏసీబీ",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "90",
+   "statl": "సిబ్బంది ఫోన్లలో అనుమానాస్పద యూపీఐ లావాదేవీలు",
+   "h": "టపాసుల దుకాణాల లైసెన్సులు: ఫైర్ స్టేషన్‌లో 90 అనుమానాస్పద యూపీఐ చెల్లింపులు",
+   "p": "తాత్కాలిక టపాసుల దుకాణాల లైసెన్సుల జారీలో అక్రమాల ఆరోపణలపై ఏసీబీ రంగారెడ్డి రేంజ్ అధికారులు ఉప్పల్ భగాయత్‌లోని ఎల్బీ నగర్ ఫైర్ స్టేషన్‌లో ఆకస్మిక తనిఖీ చేశారు. నిర్ణీత ఫీజు ₹500 కాగా, అంతకంటే ఎక్కువ అడిగారనే ఆరోపణలు ఉన్నాయి. సిబ్బంది ఫోన్లలో ₹1,000 నుంచి ₹4,500 వరకు సుమారు 90 యూపీఐ లావాదేవీలు గుర్తించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/acb-flags-90-suspicious-upi-transactions-in-firecracker-licence-case-3571121/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "ఉప్పల్",
+   "pts": [
+    "సుమారు 397 దరఖాస్తులు, 26 పెండింగ్‌లో",
+    "లావాదేవీలు గత వారంలో జరిగినట్లు సమాచారం",
+    "₹500 కంటే ఎక్కువ చెల్లించవద్దని ఏసీబీ సూచన"
+   ],
+   "why": "దీపావళి టపాసుల దుకాణాల లైసెన్సుల కోసం దరఖాస్తు చేసేవారు అదనపు డబ్బు అడిగితే ఫిర్యాదు చేయవచ్చు.",
+   "en": {
+    "h": "Firecracker shop licences: 90 suspicious UPI payments found at fire station",
+    "p": "Over alleged irregularities in issuing temporary firecracker shop licences, ACB Ranga Reddy Range officials conducted a surprise check at the LB Nagar fire station in Uppal Bhagath. The prescribed fee is ₹500, but there are allegations that more was demanded. About 90 UPI transactions of ₹1,000 to ₹4,500 were found on staff phones.",
+    "pts": [
+     "About 397 applications, 26 pending",
+     "Transactions reportedly made in the past week",
+     "ACB advises not to pay more than ₹500"
+    ],
+    "why": "Applicants for Diwali firecracker shop licences can complain if asked for extra money.",
+    "cat": "Telangana · ACB",
+    "statl": "Suspicious UPI transactions on staff phones"
+   },
+   "hi": {
+    "h": "पटाखा दुकान लाइसेंस: फायर स्टेशन में 90 संदिग्ध यूपीआई भुगतान मिले",
+    "p": "अस्थायी पटाखा दुकानों के लाइसेंस जारी करने में अनियमितताओं के आरोपों पर एसीबी रंगारेड्डी रेंज के अधिकारियों ने उप्पल भगायत स्थित एलबी नगर फायर स्टेशन पर अचानक जाँच की। तय फीस ₹500 है, लेकिन इससे ज़्यादा माँगने के आरोप हैं। कर्मचारियों के फ़ोन में ₹1,000 से ₹4,500 तक के लगभग 90 यूपीआई लेनदेन मिले।",
+    "pts": [
+     "लगभग 397 आवेदन, 26 लंबित",
+     "लेनदेन पिछले सप्ताह में होने की जानकारी",
+     "एसीबी की सलाह: ₹500 से ज़्यादा न दें"
+    ],
+    "why": "दिवाली पटाखा दुकान लाइसेंस के आवेदक अतिरिक्त पैसे माँगे जाने पर शिकायत कर सकते हैं।",
+    "cat": "तेलंगाना · एसीबी",
+    "statl": "कर्मचारियों के फ़ोन में संदिग्ध यूपीआई लेनदेन"
+   },
+   "d": "07.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "వన్‌వే లూప్",
+   "statl": "హైటెక్ సిటీ రద్దీ తగ్గించే ప్రతిపాదన",
+   "h": "హైటెక్ సిటీలో వన్‌వే లూప్: సైబరాబాద్ సీపీ క్షేత్రస్థాయి పరిశీలన",
+   "p": "పీక్ అవర్స్‌లో ట్రాఫిక్ రద్దీ తగ్గించేందుకు హైటెక్ సిటీ, బయోడైవర్సిటీ జంక్షన్, మైండ్‌స్పేస్–నాలెడ్జ్ సిటీ కారిడార్‌లో ప్రతిపాదించిన వన్‌వే లూప్‌ను సైబరాబాద్ పోలీస్ కమిషనర్ డాక్టర్ ఎం. రమేష్ శుక్రవారం పరిశీలించారు. బయోడైవర్సిటీ జంక్షన్, ఐకియా, టీ-వర్క్స్, క్వాల్‌కామ్ ప్రాంతాల్లో పర్యటించారు. వివరణాత్మక ట్రాఫిక్ అధ్యయనం సిద్ధం చేయాలని అధికారులను ఆదేశించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/cyberabad-police-inspect-proposed-one-way-loop-in-hitech-city-3571133/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "హైటెక్ సిటీ",
+   "pts": [
+    "టీ-హబ్, ఐకియా, మైండ్‌స్పేస్ చుట్టూ రద్దీ తగ్గించడం లక్ష్యం",
+    "బాటిల్‌నెక్స్, వాహనాల సంఖ్య, పార్కింగ్‌పై అధ్యయనం",
+    "టీజీఎస్‌ఆర్టీసీ, ఎస్‌సీఎస్‌సీ ప్రతినిధులు పాల్గొన్నారు"
+   ],
+   "why": "హైటెక్ సిటీ ప్రాంతంలో రోజూ ప్రయాణించే ఐటీ ఉద్యోగులు, వాహనదారులపై ఈ మార్పు ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "One-way loop in Hitech City: Cyberabad CP inspects on the ground",
+    "p": "To ease peak-hour traffic congestion, Cyberabad Police Commissioner Dr M Ramesh on Friday inspected the proposed one-way loop across Hitech City, Biodiversity Junction and the Mindspace–Knowledge City corridor. He toured Biodiversity Junction, IKEA, T-Works and Qualcomm areas. He directed officials to prepare a detailed traffic study.",
+    "pts": [
+     "Aim is to ease congestion around T-Hub, IKEA, Mindspace",
+     "Study on bottlenecks, vehicle volumes and parking",
+     "TGSRTC and SCSC representatives took part"
+    ],
+    "why": "The change will affect IT employees and motorists who travel through Hitech City daily.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Proposal to ease Hitech City congestion"
+   },
+   "hi": {
+    "h": "हाईटेक सिटी में वन-वे लूप: साइबराबाद सीपी ने मौके पर जाँच की",
+    "p": "पीक आवर्स में ट्रैफिक जाम कम करने के लिए साइबराबाद पुलिस कमिश्नर डॉ. एम. रमेश ने शुक्रवार को हाईटेक सिटी, बायोडायवर्सिटी जंक्शन और माइंडस्पेस–नॉलेज सिटी कॉरिडोर में प्रस्तावित वन-वे लूप का निरीक्षण किया। उन्होंने बायोडायवर्सिटी जंक्शन, आइकिया, टी-वर्क्स और क्वालकॉम इलाकों का दौरा किया। अधिकारियों को विस्तृत ट्रैफिक अध्ययन तैयार करने का निर्देश दिया।",
+    "pts": [
+     "टी-हब, आइकिया, माइंडस्पेस के आसपास जाम घटाना लक्ष्य",
+     "बॉटलनेक, वाहनों की संख्या और पार्किंग पर अध्ययन",
+     "टीजीएसआरटीसी और एससीएससी प्रतिनिधि शामिल हुए"
+    ],
+    "why": "इस बदलाव का असर हाईटेक सिटी से रोज़ गुज़रने वाले आईटी कर्मचारियों और वाहन चालकों पर पड़ेगा।",
+    "cat": "हैदराबाद · ट्रैफिक",
+    "statl": "हाईटेक सिटी का जाम घटाने का प्रस्ताव"
+   },
+   "d": "07.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "తమిళనాడు · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "₹2,000 కోట్లు",
+   "statl": "విద్యార్థులకు ఉచిత ల్యాప్‌టాప్ పథకం",
+   "h": "తమిళనాడులో కాలేజీ విద్యార్థులకు ఉచిత ల్యాప్‌టాప్‌లు: ₹2,000 కోట్ల పథకానికి ఆమోదం",
+   "p": "2026-27 బడ్జెట్‌లో ప్రకటించిన ₹2,000 కోట్ల 'వెట్రి ల్యాప్‌టాప్ పథకానికి' తమిళనాడు ముఖ్యమంత్రి సి. జోసెఫ్ విజయ్ ఆమోదం తెలిపారు. ప్రభుత్వ, ప్రభుత్వ సహాయ సంస్థల్లో చదువుతున్న మొదటి, రెండో సంవత్సరం డిగ్రీ విద్యార్థులు, పాలిటెక్నిక్, ఐటీఐ డిప్లొమా విద్యార్థులకు ఇది వర్తిస్తుంది. ల్యాప్‌టాప్‌ల కొనుగోలును ప్రభుత్వ సంస్థ ఎల్‌కాట్ చేపడుతుంది.",
+   "src": "India TV, PTI",
+   "url": "https://www.indiatvnews.com/tamil-nadu/news-tamil-nadu-cm-vijay-approves-rs-2-000-crore-free-laptop-scheme-for-college-students-2026-11-07-1058899",
+   "sec": [
+    "india",
+    "education"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "pts": [
+    "ఆర్ట్స్, సైన్స్, ఇంజినీరింగ్, మెడిసిన్, లా విద్యార్థులకు వర్తింపు",
+    "ఇంజినీరింగ్ విద్యార్థులకు ఇంటెల్ కోర్ ఐ5 స్థాయి ల్యాప్‌టాప్‌లు",
+    "అమలు పర్యవేక్షణకు సీఎం నేతృత్వంలో ఉన్నత కమిటీ"
+   ],
+   "why": "తమిళనాడు ప్రభుత్వ కాలేజీల్లో చదువుతున్న తెలుగు విద్యార్థులు సహా అర్హులైన విద్యార్థులకు ఉపయోగపడుతుంది.",
+   "en": {
+    "h": "Free laptops for Tamil Nadu college students: ₹2,000 crore scheme approved",
+    "p": "Tamil Nadu Chief Minister C Joseph Vijay approved the ₹2,000 crore 'Vetri Laptop Scheme' announced in the 2026-27 Budget. It covers first and second-year degree students and polytechnic and ITI diploma students at government and government-aided institutions. The state agency ELCOT will procure the laptops.",
+    "pts": [
+     "Covers arts, science, engineering, medicine and law students",
+     "Intel Core i5-level laptops for engineering students",
+     "High-level committee headed by CM to oversee"
+    ],
+    "why": "It will help eligible students in Tamil Nadu government colleges, including Telugu students.",
+    "cat": "Tamil Nadu · Education",
+    "statl": "Free laptop scheme for students"
+   },
+   "hi": {
+    "h": "तमिलनाडु में कॉलेज छात्रों को मुफ़्त लैपटॉप: ₹2,000 करोड़ की योजना मंज़ूर",
+    "p": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने 2026-27 के बजट में घोषित ₹2,000 करोड़ की 'वेत्री लैपटॉप योजना' को मंज़ूरी दी। यह सरकारी और सरकारी सहायता प्राप्त संस्थानों के पहले और दूसरे वर्ष के डिग्री छात्रों तथा पॉलिटेक्निक और आईटीआई डिप्लोमा छात्रों पर लागू होगी। लैपटॉप की ख़रीद सरकारी संस्था एल्कॉट करेगी।",
+    "pts": [
+     "आर्ट्स, साइंस, इंजीनियरिंग, मेडिसिन, लॉ छात्रों पर लागू",
+     "इंजीनियरिंग छात्रों को इंटेल कोर i5 स्तर के लैपटॉप",
+     "अमल की निगरानी के लिए सीएम की अध्यक्षता में उच्च समिति"
+    ],
+    "why": "इससे तमिलनाडु के सरकारी कॉलेजों में पढ़ रहे तेलुगु छात्रों समेत पात्र छात्रों को लाभ होगा।",
+    "cat": "तमिलनाडु · शिक्षा",
+    "statl": "छात्रों के लिए मुफ़्त लैपटॉप योजना"
+   },
+   "d": "07.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "ప్రపంచం · గల్ఫ్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2 దాడులు",
+   "statl": "రియాద్ వైపు హౌతీల క్షిపణి, డ్రోన్",
+   "h": "రియాద్ లక్ష్యంగా హౌతీల క్షిపణి, డ్రోన్: కూల్చివేసిన సౌదీ అరేబియా",
+   "p": "రియాద్ ప్రాంతాన్ని లక్ష్యంగా చేసుకుని హౌతీలు ప్రయోగించిన క్రూయిజ్ క్షిపణిని, ఒక డ్రోన్‌ను రెండు వేర్వేరు ఘటనల్లో సౌదీ అరేబియా అడ్డుకుని ధ్వంసం చేసింది. లక్ష్యాన్ని చేరకముందే క్షిపణిని కూల్చివేశామని యెమెన్ సంకీర్ణ దళాల ప్రతినిధి మేజర్ జనరల్ తుర్కీ అల్-మాలికీ ప్రకటించారు. హౌతీలు, యెమెన్ ప్రభుత్వం మధ్య 2022 సంధి జూలైలో కుప్పకూలింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/riyadh-targeted-twice-as-saudi-arabia-intercepts-houthi-threats-3571192",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "డ్రోన్ కూల్చివేతను నవంబర్ 6న ప్రకటించిన సంకీర్ణం",
+    "సౌదీపై నావికా దిగ్బంధనం ప్రకటించిన హౌతీలు",
+    "చమురు ట్యాంకర్లు, ఇంధన కేంద్రాలపై మళ్లీ దాడులు"
+   ],
+   "why": "సౌదీ అరేబియాలో పనిచేస్తున్న భారతీయులు, తెలుగు కుటుంబాలకు అక్కడి భద్రతా పరిస్థితి ముఖ్యం.",
+   "en": {
+    "h": "Houthi missile, drone aimed at Riyadh: Saudi Arabia shoots them down",
+    "p": "Saudi Arabia intercepted and destroyed a Houthi cruise missile and a drone targeting the Riyadh region in two separate incidents. Yemen coalition spokesman Major General Turki al-Maliki said the missile was destroyed before it reached its target. The 2022 truce between the Houthis and Yemen's government collapsed in July.",
+    "pts": [
+     "Coalition announced the drone interception on November 6",
+     "Houthis declared a naval blockade on Saudi Arabia",
+     "Attacks on oil tankers and energy sites resumed"
+    ],
+    "why": "The security situation there matters to Indians and Telugu families working in Saudi Arabia.",
+    "cat": "World · Gulf",
+    "statl": "Houthi missile and drone aimed at Riyadh"
+   },
+   "hi": {
+    "h": "रियाद को निशाना बनाकर हूती मिसाइल और ड्रोन: सऊदी अरब ने मार गिराए",
+    "p": "सऊदी अरब ने रियाद क्षेत्र को निशाना बनाकर छोड़ी गई हूती क्रूज़ मिसाइल और एक ड्रोन को दो अलग-अलग घटनाओं में रोककर नष्ट कर दिया। यमन गठबंधन के प्रवक्ता मेजर जनरल तुर्की अल-मालिकी ने कहा कि मिसाइल को लक्ष्य तक पहुँचने से पहले नष्ट कर दिया गया। हूतियों और यमन सरकार के बीच 2022 का संघर्षविराम जुलाई में टूट गया था।",
+    "pts": [
+     "गठबंधन ने 6 नवंबर को ड्रोन गिराने की घोषणा की",
+     "हूतियों ने सऊदी अरब पर नौसैनिक नाकेबंदी घोषित की",
+     "तेल टैंकरों और ऊर्जा ठिकानों पर फिर हमले"
+    ],
+    "why": "सऊदी अरब में काम कर रहे भारतीयों और तेलुगु परिवारों के लिए वहाँ की सुरक्षा स्थिति अहम है।",
+    "cat": "विश्व · खाड़ी",
+    "statl": "रियाद की ओर हूती मिसाइल और ड्रोन"
+   },
+   "d": "07.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "నివాళి · లద్నూరు",
    "col": "--c-power",
@@ -1678,302 +1921,6 @@
     "why": "पश्चिम एशिया में तनाव के बीच तय होगा कि इज़राइल में सरकार कौन बनाएगा।",
     "cat": "दुनिया · इज़राइल",
     "statl": "आइज़ेनकोट और नेतन्याहू के समर्थक सांसद"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · పౌరసరఫరాలు",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "₹66–79",
-   "statl": "కిలో బియ్యం గరిష్ఠ చిల్లర ధర",
-   "h": "బియ్యం ధరలకు కళ్లెం: కిలోకు ₹66–79 గరిష్ఠ ధర ఖరారు",
-   "p": "బియ్యం ధరలు పెరుగుతుండటంతో తెలంగాణ పౌరసరఫరాల శాఖ రకాల వారీగా గరిష్ఠ చిల్లర ధరలు నిర్ణయించింది. బీపీటీ/కేఎన్‌ఎం కిలో ₹66, ప్రీమియం ఆర్‌ఎన్‌ఆర్/తెలంగాణ సోనా ₹74, హెచ్‌ఎంటీ/జేఎస్‌ఆర్ ₹79. 26 కిలోల సంచులపై ఈ ధరలు ముద్రించాలి. అక్టోబర్ 29 నుంచి వారం పాటు జరిగిన తనిఖీల్లో తక్కువ తూకం, ధరలపై స్టిక్కర్లు, రేషన్ బియ్యం నిల్వ వంటి అక్రమాలు బయటపడ్డాయి.",
-   "src": "PTI / Siasat Daily",
-   "url": "https://www.siasat.com/telangana-fixes-rice-prices-at-rs-66-79-per-kg-3571026/",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "టాస్క్‌ఫోర్స్ 1,141 తనిఖీలు; 55 కేసులు, వాటిలో 35 క్రిమినల్",
-    "తూనికలు-కొలతల శాఖ 1,545 తనిఖీలు, 280 కేసులు",
-    "పదేపదే నిల్వ చేసేవారిపై పీడీ చట్టం ప్రయోగానికి యోచన"
-   ],
-   "why": "రాష్ట్రంలో బియ్యం కొనే ప్రతి కుటుంబానికి ధరల భారం, తూకం మోసాల నుంచి రక్షణ లభిస్తుంది.",
-   "en": {
-    "h": "Telangana caps rice prices at ₹66–79 per kg",
-    "p": "With rice prices rising, Telangana's Civil Supplies Department has fixed variety-wise maximum retail prices: ₹66 a kg for BPT/KNM, ₹74 for premium RNR/Telangana Sona and ₹79 for HMT/JSR. These prices must be printed on 26-kg bags. A week-long drive from October 29 found short weighing, stickers over printed rates and hoarding of ration rice.",
-    "pts": [
-     "Task Force made 1,141 inspections; 55 cases, 35 criminal",
-     "Legal Metrology made 1,545 inspections, booked 280 cases",
-     "Preventive Detention Act planned against repeat hoarders"
-    ],
-    "why": "Every family buying rice in the state gets protection from price burden and weighing fraud.",
-    "cat": "Telangana · Civil Supplies",
-    "statl": "Maximum retail price of rice per kg"
-   },
-   "hi": {
-    "h": "तेलंगाना में चावल के दाम पर लगाम: ₹66–79 प्रति किलो अधिकतम मूल्य तय",
-    "p": "चावल के दाम बढ़ने पर तेलंगाना नागरिक आपूर्ति विभाग ने किस्मवार अधिकतम खुदरा मूल्य तय किए हैं: बीपीटी/केएनएम ₹66 प्रति किलो, प्रीमियम आरएनआर/तेलंगाना सोना ₹74 और एचएमटी/जेएसआर ₹79। ये दाम 26 किलो की बोरियों पर छापने होंगे। 29 अक्टूबर से एक हफ्ते चली जांच में कम तौल, छपे दाम पर स्टिकर और राशन चावल की जमाखोरी पकड़ी गई।",
-    "pts": [
-     "टास्क फोर्स ने 1,141 जांच कीं; 55 मामले, 35 आपराधिक",
-     "माप-तौल विभाग ने 1,545 जांच कर 280 मामले दर्ज किए",
-     "बार-बार जमाखोरी करने वालों पर पीडी एक्ट लगाने की योजना"
-    ],
-    "why": "राज्य में चावल खरीदने वाले हर परिवार को महंगाई और तौल की धोखाधड़ी से राहत मिलेगी।",
-    "cat": "तेलंगाना · नागरिक आपूर्ति",
-    "statl": "चावल का अधिकतम खुदरा मूल्य प्रति किलो"
-   },
-   "d": "07.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "తెలంగాణ · సింగరేణి",
-   "col": "--c-money",
-   "art": "land",
-   "stat": "51:49",
-   "statl": "సింగరేణిలో రాష్ట్ర–కేంద్ర వాటా",
-   "h": "కీలక ఖనిజాల రంగంలో అమెరికా సంస్థలతో సింగరేణి భాగస్వామ్యం",
-   "p": "హైదరాబాద్‌లోని అమెరికా కాన్సులేట్ రాజకీయ, ఆర్థిక విభాగం చీఫ్ మెరెడిత్ మెట్జ్లర్ నేతృత్వంలోని బృందం సింగరేణి సీఎండీ బుద్ధప్రకాశ్ జ్యోతితో శుక్రవారం భేటీ అయింది. కీలక ఖనిజాల్లో జాయింట్ వెంచర్లు, సాంకేతిక ఒప్పందాలపై చర్చించారు. ఓపెన్‌కాస్ట్ గనుల మట్టి నుంచి అరుదైన ఖనిజాల వెలికితీత, కొత్తగూడెం జియో-సైన్స్ ల్యాబ్‌పై బృందం ఆసక్తి చూపింది.",
-   "src": "PTI / Siasat Daily",
-   "url": "https://www.siasat.com/sccl-will-partner-with-us-companies-in-critical-minerals-sector-3571027/",
-   "sec": [
-    "telangana",
-    "business",
-    "innovation"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "పాత ఓపెన్‌కాస్ట్ గనుల వద్ద పంప్డ్ స్టోరేజ్ ప్లాంట్ల ప్రతిపాదన",
-    "డేటా సెంటర్లకు పీక్ సమయంలో విద్యుత్ సరఫరా లక్ష్యం",
-    "గనులు, ల్యాబ్ సందర్శనకు బృందాన్ని ఆహ్వానించిన సీఎండీ"
-   ],
-   "why": "సింగరేణికి కొత్త పెట్టుబడులు, సాంకేతికత వస్తే బొగ్గు ప్రాంతాల్లో కొత్త అవకాశాలు ఏర్పడవచ్చు.",
-   "en": {
-    "h": "Singareni to partner with US firms in critical minerals",
-    "p": "A US team led by Meredith Metzler, Political and Economic Chief at the US Consulate in Hyderabad, met SCCL CMD Buddhaprakash Jyoti on Friday. They discussed joint ventures and technology tie-ups in critical minerals. The team showed interest in extracting rare earth elements from open-cast mine overburden and in the Geo-Science Laboratory at Kothagudem.",
-    "pts": [
-     "Pumped storage plants proposed at worked-out open-cast mines",
-     "Aim to supply data centres with power at peak hours",
-     "CMD invited the team to visit the mines and laboratory"
-    ],
-    "why": "New investment and technology for Singareni could open new opportunities in coal-belt areas.",
-    "cat": "Telangana · Singareni",
-    "statl": "Telangana–Centre shareholding in SCCL"
-   },
-   "hi": {
-    "h": "क्रिटिकल मिनरल्स में अमेरिकी कंपनियों के साथ साझेदारी करेगी सिंगरेणी",
-    "p": "हैदराबाद स्थित अमेरिकी वाणिज्य दूतावास की राजनीतिक व आर्थिक प्रमुख मेरेडिथ मेट्ज़लर के नेतृत्व में एक दल ने शुक्रवार को एससीसीएल के सीएमडी बुद्धप्रकाश ज्योति से मुलाकात की। क्रिटिकल मिनरल्स में संयुक्त उद्यम और तकनीकी सहयोग पर चर्चा हुई। दल ने ओपनकास्ट खदानों की मिट्टी से दुर्लभ खनिज निकालने और कोत्तागुडेम की जियो-साइंस लैब में रुचि दिखाई।",
-    "pts": [
-     "पुरानी ओपनकास्ट खदानों पर पंप्ड स्टोरेज प्लांट का प्रस्ताव",
-     "पीक समय में डेटा सेंटरों को बिजली देने का लक्ष्य",
-     "सीएमडी ने दल को खदानें और लैब देखने का न्योता दिया"
-    ],
-    "why": "सिंगरेणी को नया निवेश और तकनीक मिलने से कोयला क्षेत्रों में नए अवसर बन सकते हैं।",
-    "cat": "तेलंगाना · सिंगरेणी",
-    "statl": "एससीसीएल में राज्य–केंद्र हिस्सेदारी"
-   },
-   "d": "07.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "తెలంగాణ · దీపావళి భద్రత",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "7,601",
-   "statl": "జారీ చేసిన బాణసంచా లైసెన్సులు",
-   "h": "దీపావళి జాగ్రత్తలు: అగ్నిమాపక శాఖ భద్రతా సూచనలు",
-   "p": "నవంబర్ 8 దీపావళి సందర్భంగా అగ్నిమాపక భద్రతా నిబంధనలు కచ్చితంగా అమలు చేయాలని తెలంగాణ అగ్నిమాపక శాఖ డీజీ విక్రమ్ సింగ్ మాన్ అధికారులను ఆదేశించారు. రాష్ట్రవ్యాప్తంగా ఏర్పాట్లను సమీక్షించారు. రాష్ట్రంలో 7,601 బాణసంచా లైసెన్సులు జారీ అయ్యాయి. పాఠశాలల్లో విద్యార్థులకు సురక్షితంగా టపాసులు కాల్చడంపై అవగాహన కార్యక్రమాలు నిర్వహించారు.",
-   "src": "PTI / Siasat Daily",
-   "url": "https://www.siasat.com/telangana-fire-services-issues-safety-advisory-ahead-of-diwali-3571028/",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "అనుమతి ఉన్న దుకాణాల్లోనే టపాసులు కొనాలి",
-    "బహిరంగ ప్రదేశాల్లో, దూరం పాటిస్తూ కాల్చాలి",
-    "పిల్లలతో పెద్దలు ఉండాలి; నీళ్లు సిద్ధంగా ఉంచాలి"
-   ],
-   "why": "పండుగ రోజు కుటుంబాలు, ముఖ్యంగా పిల్లలు కాలిన గాయాలు, ప్రమాదాల నుంచి సురక్షితంగా ఉండేందుకు ఈ సూచనలు.",
-   "en": {
-    "h": "Diwali safety: Telangana Fire Services issues advisory",
-    "p": "Ahead of Diwali on November 8, Telangana Fire Services DG Vikram Singh Mann directed officials to strictly enforce fire safety norms and reviewed arrangements across the state. A total of 7,601 firecracker licences have been issued in Telangana. Awareness programmes on safe use of firecrackers were held for students in schools.",
-    "pts": [
-     "Buy firecrackers only from authorised vendors",
-     "Burst them in open spaces, keeping a safe distance",
-     "Adults must supervise children; keep water ready"
-    ],
-    "why": "The advice helps families, especially children, stay safe from burns and accidents during the festival.",
-    "cat": "Telangana · Diwali Safety",
-    "statl": "Firecracker licences issued"
-   },
-   "hi": {
-    "h": "दिवाली सावधानी: तेलंगाना अग्निशमन विभाग की सुरक्षा सलाह",
-    "p": "8 नवंबर को दिवाली से पहले तेलंगाना अग्निशमन सेवा के डीजी विक्रम सिंह मान ने अधिकारियों को अग्नि सुरक्षा नियम सख्ती से लागू करने के निर्देश दिए और राज्यभर की तैयारियों की समीक्षा की। राज्य में 7,601 पटाखा लाइसेंस जारी हुए हैं। स्कूलों में छात्रों को सुरक्षित तरीके से पटाखे चलाने के लिए जागरूकता कार्यक्रम हुए।",
-    "pts": [
-     "पटाखे केवल अधिकृत दुकानों से खरीदें",
-     "खुली जगह में और सुरक्षित दूरी से चलाएं",
-     "बच्चों के साथ बड़े रहें; पानी तैयार रखें"
-    ],
-    "why": "त्योहार पर परिवारों, खासकर बच्चों को जलने और हादसों से बचाने के लिए यह सलाह है।",
-    "cat": "तेलंगाना · दिवाली सुरक्षा",
-    "statl": "जारी पटाखा लाइसेंस"
-   },
-   "d": "07.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "రాజస్థాన్ · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "8",
-   "statl": "యూఏపీఏ అభియోగాలు నిలిచిన నిందితులు",
-   "h": "ఉదయ్‌పూర్ దర్జీ హత్య కేసు: 8 మందిపై యూఏపీఏ అభియోగాలు సమర్థించిన హైకోర్టు",
-   "p": "2022 జూన్ 28న ఉదయ్‌పూర్‌లో దర్జీ హత్య కేసులో ఎనిమిది మంది నిందితుల అప్పీళ్లను రాజస్థాన్ హైకోర్టు ధర్మాసనం కొట్టివేసింది. ప్రత్యేక ఎన్‌ఐఏ కోర్టు నమోదు చేసిన యూఏపీఏ, ఐపీసీ అభియోగాలను సమర్థించింది. కుట్రకు ప్రత్యక్ష సాక్ష్యం లేదన్న ఒక్క కారణంతో విడుదల చేయలేమని, పరిస్థితుల ఆధారాలతోనూ కుట్ర నిరూపించవచ్చని పేర్కొంది.",
-   "src": "PTI / Siasat Daily",
-   "url": "https://www.siasat.com/kanhaiya-lal-murder-case-hc-upholds-uapa-charges-against-eight-3571016/",
-   "sec": [
-    "india"
-   ],
-   "st": "RJ",
-   "place": "IN",
-   "loc": "ఉదయ్‌పూర్",
-   "pts": [
-    "చీఫ్ జస్టిస్ సంజయ్ కె. అగర్వాల్ నేతృత్వంలో ధర్మాసనం తీర్పు",
-    "అభియోగాల దశలో దోషిత్వం నిర్ణయించరని కోర్టు వ్యాఖ్య",
-    "ప్రత్యేక ఎన్‌ఐఏ కోర్టులో విచారణ కొనసాగనుంది"
-   ],
-   "why": "దేశవ్యాప్తంగా సంచలనం రేపిన ఈ కేసులో విచారణ ఇక ముందుకు సాగనుంది.",
-   "en": {
-    "h": "Udaipur tailor murder: HC upholds UAPA charges against eight",
-    "p": "A Rajasthan High Court division bench dismissed the appeals of eight accused in the murder of a tailor in Udaipur on June 28, 2022. It upheld the UAPA and IPC charges framed by the special NIA court. The court said lack of direct evidence of conspiracy alone cannot justify discharge, as conspiracy can be proved through circumstantial evidence.",
-    "pts": [
-     "Bench headed by Chief Justice Sanjay K Agrawal",
-     "Court said guilt is not decided at charge-framing stage",
-     "Trial will continue in the special NIA court"
-    ],
-    "why": "The trial in this case, which shocked the country, will now move forward.",
-    "cat": "Rajasthan · High Court",
-    "statl": "Accused whose UAPA charges stand"
-   },
-   "hi": {
-    "h": "उदयपुर दर्जी हत्याकांड: हाईकोर्ट ने 8 आरोपियों पर यूएपीए आरोप बरकरार रखे",
-    "p": "राजस्थान हाईकोर्ट की खंडपीठ ने 28 जून 2022 को उदयपुर में एक दर्जी की हत्या के मामले में आठ आरोपियों की अपीलें खारिज कर दीं। विशेष एनआईए अदालत द्वारा तय यूएपीए और आईपीसी के आरोप बरकरार रखे। अदालत ने कहा कि साजिश का सीधा सबूत न होना अकेले बरी करने का आधार नहीं, साजिश परिस्थितिजन्य सबूतों से भी साबित हो सकती है।",
-    "pts": [
-     "मुख्य न्यायाधीश संजय के. अग्रवाल की अध्यक्षता में खंडपीठ",
-     "अदालत ने कहा, आरोप तय करते समय दोष तय नहीं होता",
-     "विशेष एनआईए अदालत में मुकदमा जारी रहेगा"
-    ],
-    "why": "देश को झकझोरने वाले इस मामले में मुकदमा अब आगे बढ़ेगा।",
-    "cat": "राजस्थान · हाईकोर्ट",
-    "statl": "आरोपी जिन पर यूएपीए आरोप कायम"
-   },
-   "d": "07.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా–ఇరాన్",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "US+కెనడా",
-   "statl": "కలిసి తీసుకున్న ఆంక్షల చర్య",
-   "h": "ఇరాన్‌కు నిధుల మార్గాలపై అమెరికా కొత్త ఆంక్షలు; కెనడాతో సమన్వయం",
-   "p": "ఇరాన్ రియాల్ సహా కరెన్సీల మార్పిడి చేసే పలు సంస్థలపై అమెరికా ట్రెజరీ శుక్రవారం ఆంక్షలు విధించింది. ఇవి ఇరాన్ ఆంక్షలను తప్పించుకోవడానికి, అనుబంధ గ్రూపులకు నిధులు అందించడానికి సహకరించాయని ఆరోపించింది. కొన్ని సంస్థలు ఇప్పటికే ఆంక్షల్లో ఉన్న ఇరాన్ క్రిప్టో ఎక్స్ఛేంజీలతో లావాదేవీలు జరిపాయి. వాంకూవర్, టొరంటోలో ఉన్నవారూ ఉండటంతో కెనడాతో కలిసి చర్య తీసుకుంది.",
-   "src": "AP / CBS News",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "కరెన్సీ మార్పిడి సంస్థలే లక్ష్యంగా ఆంక్షలు",
-    "ఆంక్షల్లో ఉన్న క్రిప్టో ఎక్స్ఛేంజీలతో కొన్నింటి లావాదేవీలు",
-    "సహకరించినవారు బాధ్యత వహించాల్సిందేనని విదేశాంగ శాఖ హెచ్చరిక"
-   ],
-   "why": "పశ్చిమాసియా ఉద్రిక్తతల్లో ఇది తాజా పరిణామం; గల్ఫ్‌లో ఉండే తెలుగువారు గమనించాల్సిన అంశం.",
-   "en": {
-    "h": "US slaps new sanctions on Iran's money channels, coordinates with Canada",
-    "p": "The US Treasury on Friday sanctioned several firms that exchange Iranian rials and other currencies, accusing them of helping Iran evade sanctions and fund its proxy groups. Some had dealt with Iranian crypto exchanges already under sanctions. As some parties are based in Vancouver and Toronto, the action was coordinated with Canada.",
-    "pts": [
-     "Sanctions target currency exchange firms",
-     "Some dealt with already-sanctioned crypto exchanges",
-     "State Department warns helpers will be held accountable"
-    ],
-    "why": "This is the latest turn in West Asia tensions, worth following for Telugu people in the Gulf.",
-    "cat": "World · US–Iran",
-    "statl": "Sanctions action taken jointly"
-   },
-   "hi": {
-    "h": "ईरान के धन मार्गों पर अमेरिका के नए प्रतिबंध; कनाडा से तालमेल",
-    "p": "अमेरिकी ट्रेजरी ने शुक्रवार को ईरानी रियाल समेत मुद्राओं का लेन-देन करने वाली कई कंपनियों पर प्रतिबंध लगाए। आरोप है कि इन्होंने ईरान को प्रतिबंधों से बचने और उसके सहयोगी गुटों को धन पहुंचाने में मदद की। कुछ ने पहले से प्रतिबंधित ईरानी क्रिप्टो एक्सचेंजों से लेन-देन किया था। कुछ पक्ष वैंकूवर और टोरंटो में होने से कार्रवाई कनाडा के साथ मिलकर की गई।",
-    "pts": [
-     "मुद्रा विनिमय कंपनियां प्रतिबंधों के निशाने पर",
-     "कुछ का प्रतिबंधित क्रिप्टो एक्सचेंजों से लेन-देन",
-     "विदेश विभाग की चेतावनी: मदद करने वाले जवाबदेह होंगे"
-    ],
-    "why": "यह पश्चिम एशिया के तनाव में ताजा घटनाक्रम है, खाड़ी में रहने वाले तेलुगु लोगों के लिए अहम।",
-    "cat": "दुनिया · अमेरिका–ईरान",
-    "statl": "मिलकर की गई प्रतिबंध कार्रवाई"
-   },
-   "d": "07.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "తెలంగాణ · కొడంగల్",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹9,000 కో.",
-   "statl": "కొడంగల్‌లో అభివృద్ధి పనుల విలువ",
-   "h": "నేటి నుంచి మూడు రోజులు కొడంగల్‌లో సీఎం రేవంత్‌రెడ్డి పర్యటన",
-   "p": "ముఖ్యమంత్రి రేవంత్‌రెడ్డి తన సొంత నియోజకవర్గం కొడంగల్‌లో నేటి నుంచి మూడు రోజులు పర్యటిస్తారు. సుమారు ₹9,000 కోట్ల అభివృద్ధి పనులకు శ్రీకారం చుడతారు. ఈ మధ్యాహ్నం దుద్యాల మండలం హకీంపేటలో మెగా రైతు మేళా, పారిశ్రామిక ప్రదర్శనను ప్రారంభించి రైతులు, వ్యవసాయ శాస్త్రవేత్తలతో మాట్లాడతారు. రేపు లగచర్లలో పామాయిల్ పరిశ్రమకు శంకుస్థాపన చేస్తారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--7th-november-2026-latest-top-news-information-across-telangana-tgs26110700388",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "loc": "హకీంపేట",
-   "pts": [
-    "సుమారు ₹9,000 కోట్ల అభివృద్ధి పనులు ప్రారంభం",
-    "నేడు హకీంపేటలో మెగా రైతు మేళా ప్రారంభం",
-    "రేపు లగచర్లలో పామాయిల్ పరిశ్రమకు శంకుస్థాపన"
-   ],
-   "why": "కొడంగల్ ప్రాంత రైతులు, ప్రజలకు కొత్త పాఠశాలలు, ఆసుపత్రులు, పరిశ్రమలు అందుబాటులోకి రానున్నాయి.",
-   "d": "07.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "CM Revanth Reddy begins three-day Kodangal visit today",
-    "p": "Chief Minister Revanth Reddy will tour his home constituency Kodangal for three days from today and launch development works worth about ₹9,000 crore. This afternoon he will open a mega farmers' fair and industrial expo at Hakimpet in Dudyala mandal and interact with farmers and agricultural scientists. Tomorrow he will lay the foundation for a palm oil industry at Lagacherla.",
-    "pts": [
-     "Development works worth about ₹9,000 crore to begin",
-     "Mega farmers' fair opens at Hakimpet today",
-     "Palm oil industry foundation at Lagacherla tomorrow"
-    ],
-    "why": "New schools, hospitals and industry are coming to people and farmers of the Kodangal area.",
-    "cat": "Telangana · Kodangal",
-    "statl": "Value of development works in Kodangal"
-   },
-   "hi": {
-    "h": "आज से तीन दिन कोडंगल दौरे पर मुख्यमंत्री रेवंत रेड्डी",
-    "p": "मुख्यमंत्री रेवंत रेड्डी आज से तीन दिन अपने गृह निर्वाचन क्षेत्र कोडंगल का दौरा करेंगे और लगभग ₹9,000 करोड़ के विकास कार्यों की शुरुआत करेंगे। आज दोपहर वे दुद्याल मंडल के हकीमपेट में मेगा किसान मेला और औद्योगिक प्रदर्शनी का उद्घाटन कर किसानों व कृषि वैज्ञानिकों से बात करेंगे। कल लगचर्ला में पाम ऑयल उद्योग की नींव रखेंगे।",
-    "pts": [
-     "लगभग ₹9,000 करोड़ के विकास कार्य शुरू होंगे",
-     "आज हकीमपेट में मेगा किसान मेले का उद्घाटन",
-     "कल लगचर्ला में पाम ऑयल उद्योग की नींव"
-    ],
-    "why": "कोडंगल क्षेत्र के लोगों और किसानों को नए स्कूल, अस्पताल और उद्योग मिलेंगे।",
-    "cat": "तेलंगाना · कोडंगल",
-    "statl": "कोडंगल में विकास कार्यों का मूल्य"
    }
   }
  ]
