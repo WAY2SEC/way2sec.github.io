@@ -1,8 +1,254 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T07:08:37+05:30",
+ "updated": "2026-11-07T07:43:21+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పౌరసరఫరాలు",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹66–79",
+   "statl": "కిలో బియ్యం గరిష్ఠ చిల్లర ధర",
+   "h": "బియ్యం ధరలకు కళ్లెం: కిలోకు ₹66–79 గరిష్ఠ ధర ఖరారు",
+   "p": "బియ్యం ధరలు పెరుగుతుండటంతో తెలంగాణ పౌరసరఫరాల శాఖ రకాల వారీగా గరిష్ఠ చిల్లర ధరలు నిర్ణయించింది. బీపీటీ/కేఎన్‌ఎం కిలో ₹66, ప్రీమియం ఆర్‌ఎన్‌ఆర్/తెలంగాణ సోనా ₹74, హెచ్‌ఎంటీ/జేఎస్‌ఆర్ ₹79. 26 కిలోల సంచులపై ఈ ధరలు ముద్రించాలి. అక్టోబర్ 29 నుంచి వారం పాటు జరిగిన తనిఖీల్లో తక్కువ తూకం, ధరలపై స్టిక్కర్లు, రేషన్ బియ్యం నిల్వ వంటి అక్రమాలు బయటపడ్డాయి.",
+   "src": "PTI / Siasat Daily",
+   "url": "https://www.siasat.com/telangana-fixes-rice-prices-at-rs-66-79-per-kg-3571026/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "టాస్క్‌ఫోర్స్ 1,141 తనిఖీలు; 55 కేసులు, వాటిలో 35 క్రిమినల్",
+    "తూనికలు-కొలతల శాఖ 1,545 తనిఖీలు, 280 కేసులు",
+    "పదేపదే నిల్వ చేసేవారిపై పీడీ చట్టం ప్రయోగానికి యోచన"
+   ],
+   "why": "రాష్ట్రంలో బియ్యం కొనే ప్రతి కుటుంబానికి ధరల భారం, తూకం మోసాల నుంచి రక్షణ లభిస్తుంది.",
+   "en": {
+    "h": "Telangana caps rice prices at ₹66–79 per kg",
+    "p": "With rice prices rising, Telangana's Civil Supplies Department has fixed variety-wise maximum retail prices: ₹66 a kg for BPT/KNM, ₹74 for premium RNR/Telangana Sona and ₹79 for HMT/JSR. These prices must be printed on 26-kg bags. A week-long drive from October 29 found short weighing, stickers over printed rates and hoarding of ration rice.",
+    "pts": [
+     "Task Force made 1,141 inspections; 55 cases, 35 criminal",
+     "Legal Metrology made 1,545 inspections, booked 280 cases",
+     "Preventive Detention Act planned against repeat hoarders"
+    ],
+    "why": "Every family buying rice in the state gets protection from price burden and weighing fraud.",
+    "cat": "Telangana · Civil Supplies",
+    "statl": "Maximum retail price of rice per kg"
+   },
+   "hi": {
+    "h": "तेलंगाना में चावल के दाम पर लगाम: ₹66–79 प्रति किलो अधिकतम मूल्य तय",
+    "p": "चावल के दाम बढ़ने पर तेलंगाना नागरिक आपूर्ति विभाग ने किस्मवार अधिकतम खुदरा मूल्य तय किए हैं: बीपीटी/केएनएम ₹66 प्रति किलो, प्रीमियम आरएनआर/तेलंगाना सोना ₹74 और एचएमटी/जेएसआर ₹79। ये दाम 26 किलो की बोरियों पर छापने होंगे। 29 अक्टूबर से एक हफ्ते चली जांच में कम तौल, छपे दाम पर स्टिकर और राशन चावल की जमाखोरी पकड़ी गई।",
+    "pts": [
+     "टास्क फोर्स ने 1,141 जांच कीं; 55 मामले, 35 आपराधिक",
+     "माप-तौल विभाग ने 1,545 जांच कर 280 मामले दर्ज किए",
+     "बार-बार जमाखोरी करने वालों पर पीडी एक्ट लगाने की योजना"
+    ],
+    "why": "राज्य में चावल खरीदने वाले हर परिवार को महंगाई और तौल की धोखाधड़ी से राहत मिलेगी।",
+    "cat": "तेलंगाना · नागरिक आपूर्ति",
+    "statl": "चावल का अधिकतम खुदरा मूल्य प्रति किलो"
+   },
+   "d": "07.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "తెలంగాణ · సింగరేణి",
+   "col": "--c-money",
+   "art": "land",
+   "stat": "51:49",
+   "statl": "సింగరేణిలో రాష్ట్ర–కేంద్ర వాటా",
+   "h": "కీలక ఖనిజాల రంగంలో అమెరికా సంస్థలతో సింగరేణి భాగస్వామ్యం",
+   "p": "హైదరాబాద్‌లోని అమెరికా కాన్సులేట్ రాజకీయ, ఆర్థిక విభాగం చీఫ్ మెరెడిత్ మెట్జ్లర్ నేతృత్వంలోని బృందం సింగరేణి సీఎండీ బుద్ధప్రకాశ్ జ్యోతితో శుక్రవారం భేటీ అయింది. కీలక ఖనిజాల్లో జాయింట్ వెంచర్లు, సాంకేతిక ఒప్పందాలపై చర్చించారు. ఓపెన్‌కాస్ట్ గనుల మట్టి నుంచి అరుదైన ఖనిజాల వెలికితీత, కొత్తగూడెం జియో-సైన్స్ ల్యాబ్‌పై బృందం ఆసక్తి చూపింది.",
+   "src": "PTI / Siasat Daily",
+   "url": "https://www.siasat.com/sccl-will-partner-with-us-companies-in-critical-minerals-sector-3571027/",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "పాత ఓపెన్‌కాస్ట్ గనుల వద్ద పంప్డ్ స్టోరేజ్ ప్లాంట్ల ప్రతిపాదన",
+    "డేటా సెంటర్లకు పీక్ సమయంలో విద్యుత్ సరఫరా లక్ష్యం",
+    "గనులు, ల్యాబ్ సందర్శనకు బృందాన్ని ఆహ్వానించిన సీఎండీ"
+   ],
+   "why": "సింగరేణికి కొత్త పెట్టుబడులు, సాంకేతికత వస్తే బొగ్గు ప్రాంతాల్లో కొత్త అవకాశాలు ఏర్పడవచ్చు.",
+   "en": {
+    "h": "Singareni to partner with US firms in critical minerals",
+    "p": "A US team led by Meredith Metzler, Political and Economic Chief at the US Consulate in Hyderabad, met SCCL CMD Buddhaprakash Jyoti on Friday. They discussed joint ventures and technology tie-ups in critical minerals. The team showed interest in extracting rare earth elements from open-cast mine overburden and in the Geo-Science Laboratory at Kothagudem.",
+    "pts": [
+     "Pumped storage plants proposed at worked-out open-cast mines",
+     "Aim to supply data centres with power at peak hours",
+     "CMD invited the team to visit the mines and laboratory"
+    ],
+    "why": "New investment and technology for Singareni could open new opportunities in coal-belt areas.",
+    "cat": "Telangana · Singareni",
+    "statl": "Telangana–Centre shareholding in SCCL"
+   },
+   "hi": {
+    "h": "क्रिटिकल मिनरल्स में अमेरिकी कंपनियों के साथ साझेदारी करेगी सिंगरेणी",
+    "p": "हैदराबाद स्थित अमेरिकी वाणिज्य दूतावास की राजनीतिक व आर्थिक प्रमुख मेरेडिथ मेट्ज़लर के नेतृत्व में एक दल ने शुक्रवार को एससीसीएल के सीएमडी बुद्धप्रकाश ज्योति से मुलाकात की। क्रिटिकल मिनरल्स में संयुक्त उद्यम और तकनीकी सहयोग पर चर्चा हुई। दल ने ओपनकास्ट खदानों की मिट्टी से दुर्लभ खनिज निकालने और कोत्तागुडेम की जियो-साइंस लैब में रुचि दिखाई।",
+    "pts": [
+     "पुरानी ओपनकास्ट खदानों पर पंप्ड स्टोरेज प्लांट का प्रस्ताव",
+     "पीक समय में डेटा सेंटरों को बिजली देने का लक्ष्य",
+     "सीएमडी ने दल को खदानें और लैब देखने का न्योता दिया"
+    ],
+    "why": "सिंगरेणी को नया निवेश और तकनीक मिलने से कोयला क्षेत्रों में नए अवसर बन सकते हैं।",
+    "cat": "तेलंगाना · सिंगरेणी",
+    "statl": "एससीसीएल में राज्य–केंद्र हिस्सेदारी"
+   },
+   "d": "07.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "తెలంగాణ · దీపావళి భద్రత",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "7,601",
+   "statl": "జారీ చేసిన బాణసంచా లైసెన్సులు",
+   "h": "దీపావళి జాగ్రత్తలు: అగ్నిమాపక శాఖ భద్రతా సూచనలు",
+   "p": "నవంబర్ 8 దీపావళి సందర్భంగా అగ్నిమాపక భద్రతా నిబంధనలు కచ్చితంగా అమలు చేయాలని తెలంగాణ అగ్నిమాపక శాఖ డీజీ విక్రమ్ సింగ్ మాన్ అధికారులను ఆదేశించారు. రాష్ట్రవ్యాప్తంగా ఏర్పాట్లను సమీక్షించారు. రాష్ట్రంలో 7,601 బాణసంచా లైసెన్సులు జారీ అయ్యాయి. పాఠశాలల్లో విద్యార్థులకు సురక్షితంగా టపాసులు కాల్చడంపై అవగాహన కార్యక్రమాలు నిర్వహించారు.",
+   "src": "PTI / Siasat Daily",
+   "url": "https://www.siasat.com/telangana-fire-services-issues-safety-advisory-ahead-of-diwali-3571028/",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "అనుమతి ఉన్న దుకాణాల్లోనే టపాసులు కొనాలి",
+    "బహిరంగ ప్రదేశాల్లో, దూరం పాటిస్తూ కాల్చాలి",
+    "పిల్లలతో పెద్దలు ఉండాలి; నీళ్లు సిద్ధంగా ఉంచాలి"
+   ],
+   "why": "పండుగ రోజు కుటుంబాలు, ముఖ్యంగా పిల్లలు కాలిన గాయాలు, ప్రమాదాల నుంచి సురక్షితంగా ఉండేందుకు ఈ సూచనలు.",
+   "en": {
+    "h": "Diwali safety: Telangana Fire Services issues advisory",
+    "p": "Ahead of Diwali on November 8, Telangana Fire Services DG Vikram Singh Mann directed officials to strictly enforce fire safety norms and reviewed arrangements across the state. A total of 7,601 firecracker licences have been issued in Telangana. Awareness programmes on safe use of firecrackers were held for students in schools.",
+    "pts": [
+     "Buy firecrackers only from authorised vendors",
+     "Burst them in open spaces, keeping a safe distance",
+     "Adults must supervise children; keep water ready"
+    ],
+    "why": "The advice helps families, especially children, stay safe from burns and accidents during the festival.",
+    "cat": "Telangana · Diwali Safety",
+    "statl": "Firecracker licences issued"
+   },
+   "hi": {
+    "h": "दिवाली सावधानी: तेलंगाना अग्निशमन विभाग की सुरक्षा सलाह",
+    "p": "8 नवंबर को दिवाली से पहले तेलंगाना अग्निशमन सेवा के डीजी विक्रम सिंह मान ने अधिकारियों को अग्नि सुरक्षा नियम सख्ती से लागू करने के निर्देश दिए और राज्यभर की तैयारियों की समीक्षा की। राज्य में 7,601 पटाखा लाइसेंस जारी हुए हैं। स्कूलों में छात्रों को सुरक्षित तरीके से पटाखे चलाने के लिए जागरूकता कार्यक्रम हुए।",
+    "pts": [
+     "पटाखे केवल अधिकृत दुकानों से खरीदें",
+     "खुली जगह में और सुरक्षित दूरी से चलाएं",
+     "बच्चों के साथ बड़े रहें; पानी तैयार रखें"
+    ],
+    "why": "त्योहार पर परिवारों, खासकर बच्चों को जलने और हादसों से बचाने के लिए यह सलाह है।",
+    "cat": "तेलंगाना · दिवाली सुरक्षा",
+    "statl": "जारी पटाखा लाइसेंस"
+   },
+   "d": "07.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "రాజస్థాన్ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "8",
+   "statl": "యూఏపీఏ అభియోగాలు నిలిచిన నిందితులు",
+   "h": "ఉదయ్‌పూర్ దర్జీ హత్య కేసు: 8 మందిపై యూఏపీఏ అభియోగాలు సమర్థించిన హైకోర్టు",
+   "p": "2022 జూన్ 28న ఉదయ్‌పూర్‌లో దర్జీ హత్య కేసులో ఎనిమిది మంది నిందితుల అప్పీళ్లను రాజస్థాన్ హైకోర్టు ధర్మాసనం కొట్టివేసింది. ప్రత్యేక ఎన్‌ఐఏ కోర్టు నమోదు చేసిన యూఏపీఏ, ఐపీసీ అభియోగాలను సమర్థించింది. కుట్రకు ప్రత్యక్ష సాక్ష్యం లేదన్న ఒక్క కారణంతో విడుదల చేయలేమని, పరిస్థితుల ఆధారాలతోనూ కుట్ర నిరూపించవచ్చని పేర్కొంది.",
+   "src": "PTI / Siasat Daily",
+   "url": "https://www.siasat.com/kanhaiya-lal-murder-case-hc-upholds-uapa-charges-against-eight-3571016/",
+   "sec": [
+    "india"
+   ],
+   "st": "RJ",
+   "place": "IN",
+   "loc": "ఉదయ్‌పూర్",
+   "pts": [
+    "చీఫ్ జస్టిస్ సంజయ్ కె. అగర్వాల్ నేతృత్వంలో ధర్మాసనం తీర్పు",
+    "అభియోగాల దశలో దోషిత్వం నిర్ణయించరని కోర్టు వ్యాఖ్య",
+    "ప్రత్యేక ఎన్‌ఐఏ కోర్టులో విచారణ కొనసాగనుంది"
+   ],
+   "why": "దేశవ్యాప్తంగా సంచలనం రేపిన ఈ కేసులో విచారణ ఇక ముందుకు సాగనుంది.",
+   "en": {
+    "h": "Udaipur tailor murder: HC upholds UAPA charges against eight",
+    "p": "A Rajasthan High Court division bench dismissed the appeals of eight accused in the murder of a tailor in Udaipur on June 28, 2022. It upheld the UAPA and IPC charges framed by the special NIA court. The court said lack of direct evidence of conspiracy alone cannot justify discharge, as conspiracy can be proved through circumstantial evidence.",
+    "pts": [
+     "Bench headed by Chief Justice Sanjay K Agrawal",
+     "Court said guilt is not decided at charge-framing stage",
+     "Trial will continue in the special NIA court"
+    ],
+    "why": "The trial in this case, which shocked the country, will now move forward.",
+    "cat": "Rajasthan · High Court",
+    "statl": "Accused whose UAPA charges stand"
+   },
+   "hi": {
+    "h": "उदयपुर दर्जी हत्याकांड: हाईकोर्ट ने 8 आरोपियों पर यूएपीए आरोप बरकरार रखे",
+    "p": "राजस्थान हाईकोर्ट की खंडपीठ ने 28 जून 2022 को उदयपुर में एक दर्जी की हत्या के मामले में आठ आरोपियों की अपीलें खारिज कर दीं। विशेष एनआईए अदालत द्वारा तय यूएपीए और आईपीसी के आरोप बरकरार रखे। अदालत ने कहा कि साजिश का सीधा सबूत न होना अकेले बरी करने का आधार नहीं, साजिश परिस्थितिजन्य सबूतों से भी साबित हो सकती है।",
+    "pts": [
+     "मुख्य न्यायाधीश संजय के. अग्रवाल की अध्यक्षता में खंडपीठ",
+     "अदालत ने कहा, आरोप तय करते समय दोष तय नहीं होता",
+     "विशेष एनआईए अदालत में मुकदमा जारी रहेगा"
+    ],
+    "why": "देश को झकझोरने वाले इस मामले में मुकदमा अब आगे बढ़ेगा।",
+    "cat": "राजस्थान · हाईकोर्ट",
+    "statl": "आरोपी जिन पर यूएपीए आरोप कायम"
+   },
+   "d": "07.11.2026",
+   "t": "07:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా–ఇరాన్",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "US+కెనడా",
+   "statl": "కలిసి తీసుకున్న ఆంక్షల చర్య",
+   "h": "ఇరాన్‌కు నిధుల మార్గాలపై అమెరికా కొత్త ఆంక్షలు; కెనడాతో సమన్వయం",
+   "p": "ఇరాన్ రియాల్ సహా కరెన్సీల మార్పిడి చేసే పలు సంస్థలపై అమెరికా ట్రెజరీ శుక్రవారం ఆంక్షలు విధించింది. ఇవి ఇరాన్ ఆంక్షలను తప్పించుకోవడానికి, అనుబంధ గ్రూపులకు నిధులు అందించడానికి సహకరించాయని ఆరోపించింది. కొన్ని సంస్థలు ఇప్పటికే ఆంక్షల్లో ఉన్న ఇరాన్ క్రిప్టో ఎక్స్ఛేంజీలతో లావాదేవీలు జరిపాయి. వాంకూవర్, టొరంటోలో ఉన్నవారూ ఉండటంతో కెనడాతో కలిసి చర్య తీసుకుంది.",
+   "src": "AP / CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "కరెన్సీ మార్పిడి సంస్థలే లక్ష్యంగా ఆంక్షలు",
+    "ఆంక్షల్లో ఉన్న క్రిప్టో ఎక్స్ఛేంజీలతో కొన్నింటి లావాదేవీలు",
+    "సహకరించినవారు బాధ్యత వహించాల్సిందేనని విదేశాంగ శాఖ హెచ్చరిక"
+   ],
+   "why": "పశ్చిమాసియా ఉద్రిక్తతల్లో ఇది తాజా పరిణామం; గల్ఫ్‌లో ఉండే తెలుగువారు గమనించాల్సిన అంశం.",
+   "en": {
+    "h": "US slaps new sanctions on Iran's money channels, coordinates with Canada",
+    "p": "The US Treasury on Friday sanctioned several firms that exchange Iranian rials and other currencies, accusing them of helping Iran evade sanctions and fund its proxy groups. Some had dealt with Iranian crypto exchanges already under sanctions. As some parties are based in Vancouver and Toronto, the action was coordinated with Canada.",
+    "pts": [
+     "Sanctions target currency exchange firms",
+     "Some dealt with already-sanctioned crypto exchanges",
+     "State Department warns helpers will be held accountable"
+    ],
+    "why": "This is the latest turn in West Asia tensions, worth following for Telugu people in the Gulf.",
+    "cat": "World · US–Iran",
+    "statl": "Sanctions action taken jointly"
+   },
+   "hi": {
+    "h": "ईरान के धन मार्गों पर अमेरिका के नए प्रतिबंध; कनाडा से तालमेल",
+    "p": "अमेरिकी ट्रेजरी ने शुक्रवार को ईरानी रियाल समेत मुद्राओं का लेन-देन करने वाली कई कंपनियों पर प्रतिबंध लगाए। आरोप है कि इन्होंने ईरान को प्रतिबंधों से बचने और उसके सहयोगी गुटों को धन पहुंचाने में मदद की। कुछ ने पहले से प्रतिबंधित ईरानी क्रिप्टो एक्सचेंजों से लेन-देन किया था। कुछ पक्ष वैंकूवर और टोरंटो में होने से कार्रवाई कनाडा के साथ मिलकर की गई।",
+    "pts": [
+     "मुद्रा विनिमय कंपनियां प्रतिबंधों के निशाने पर",
+     "कुछ का प्रतिबंधित क्रिप्टो एक्सचेंजों से लेन-देन",
+     "विदेश विभाग की चेतावनी: मदद करने वाले जवाबदेह होंगे"
+    ],
+    "why": "यह पश्चिम एशिया के तनाव में ताजा घटनाक्रम है, खाड़ी में रहने वाले तेलुगु लोगों के लिए अहम।",
+    "cat": "दुनिया · अमेरिका–ईरान",
+    "statl": "मिलकर की गई प्रतिबंध कार्रवाई"
+   },
+   "d": "07.11.2026",
+   "t": "07:35"
+  },
   {
    "cat": "తెలంగాణ · కొడంగల్",
    "col": "--c-gov",
@@ -1715,249 +1961,6 @@
    },
    "d": "06.11.2026",
    "t": "16:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · భూములు",
-   "col": "--c-money",
-   "art": "land",
-   "stat": "నవం 12–27",
-   "statl": "హెచ్‌ఎండీఏ ప్లాట్ల ఈ-వేలం తేదీలు",
-   "h": "హైదరాబాద్ పరిసరాల్లో ప్లాట్ల ఈ-వేలం షెడ్యూల్ ప్రకటించిన హెచ్‌ఎండీఏ",
-   "p": "హైదరాబాద్, పరిసర జిల్లాల్లోని నివాస, వాణిజ్య భూములను ఈ-వేలం వేయనున్నట్లు హెచ్‌ఎండీఏ ప్రకటించింది. కోకాపేట, రాయదుర్గం, నియోపోలిస్, మూసాపేట, బాచుపల్లి, అమీన్‌పూర్ తదితర ప్రాంతాల్లోని భూములకు నవంబర్ 12 నుంచి 27 వరకు వేలం జరుగుతుంది. నియోపోలిస్ ప్లాట్‌కు ఎకరాకు ₹120 కోట్లు, మూసాపేటకు ఎకరాకు ₹99 కోట్ల కనీస ధర నిర్ణయించారు.",
-   "pts": [
-    "బాచుపల్లిలో 50, ఇన్ముల్‌నర్వలో 45 చిన్న ప్లాట్లు",
-    "రిజిస్ట్రేషన్ రుసుము ₹1,180 (జీఎస్టీతో), తిరిగి ఇవ్వరు",
-    "hmda.gov.in, ఎంఎస్‌టీసీ వెబ్‌సైట్‌ల ద్వారా బిడ్డింగ్"
-   ],
-   "why": "హైదరాబాద్ చుట్టుపక్కల ఇంటి స్థలం లేదా వాణిజ్య భూమి కొనాలనుకునే వారికి ఇది అవకాశం.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hmda-announces-auction-schedule-for-plots-in-hyderabad-outskirts-3570635/",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "en": {
-    "h": "HMDA announces e-auction schedule for plots in and around Hyderabad",
-    "p": "HMDA has announced an e-auction of residential and commercial land in Hyderabad and nearby districts. Land in Kokapet, Raidurg, Neopolis, Moosapet, Bachupally, Ameenpur and other areas will be auctioned from November 12 to 27. The upset price is ₹120 crore per acre for the Neopolis plot and ₹99 crore per acre for Moosapet.",
-    "pts": [
-     "50 small plots in Bachupally, 45 in Inmulnarva",
-     "Registration fee ₹1,180 (with GST), non-refundable",
-     "Bidding via hmda.gov.in and the MSTC website"
-    ],
-    "why": "It is an opportunity for those wanting to buy house sites or commercial land around Hyderabad.",
-    "cat": "Hyderabad · Land",
-    "statl": "HMDA plot e-auction dates"
-   },
-   "hi": {
-    "h": "एचएमडीए ने हैदराबाद और आसपास के प्लॉटों की ई-नीलामी का कार्यक्रम घोषित किया",
-    "p": "एचएमडीए ने हैदराबाद और आसपास के जिलों में आवासीय और व्यावसायिक भूमि की ई-नीलामी की घोषणा की है। कोकापेट, रायदुर्गम, नियोपोलिस, मूसापेट, बाचुपल्ली, अमीनपुर और अन्य क्षेत्रों की भूमि की नीलामी 12 से 27 नवंबर तक होगी। नियोपोलिस प्लॉट के लिए न्यूनतम मूल्य ₹120 करोड़ प्रति एकड़ और मूसापेट के लिए ₹99 करोड़ प्रति एकड़ रखा गया है।",
-    "pts": [
-     "बाचुपल्ली में 50, इनमुलनर्वा में 45 छोटे प्लॉट",
-     "पंजीकरण शुल्क ₹1,180 (जीएसटी सहित), वापस नहीं होगा",
-     "hmda.gov.in और एमएसटीसी वेबसाइट से बोली"
-    ],
-    "why": "हैदराबाद के आसपास घर का प्लॉट या व्यावसायिक जमीन खरीदना चाहने वालों के लिए यह मौका है।",
-    "cat": "हैदराबाद · भूमि",
-    "statl": "एचएमडीए प्लॉट ई-नीलामी की तारीखें"
-   },
-   "d": "06.11.2026",
-   "t": "16:35"
-  },
-  {
-   "cat": "ప్రపంచం · గల్ఫ్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2",
-   "statl": "మంటల్లో చిక్కుకున్న ఆయిల్ ట్యాంకర్లు",
-   "h": "హార్ముజ్ జలసంధిలో మందుపాతరలు తగిలి రెండు ఆయిల్ ట్యాంకర్లలో మంటలు",
-   "p": "హార్ముజ్ జలసంధిలో మందుపాతరలను ఢీకొని రెండు చమురు ట్యాంకర్లు మంటల్లో చిక్కుకున్నాయని ఇరాన్ రివల్యూషనరీ గార్డ్స్ ప్రకటించాయి. ముందురోజు మరో ఐదు ట్యాంకర్లు దెబ్బతిన్నాయని కూడా అవి పేర్కొన్నాయి. అమెరికా తమ ఏడు షరతులకు అంగీకరించే వరకు హార్ముజ్‌ను తెరవబోమని ఇరాన్ స్పష్టం చేసింది. ఆసియా ట్రేడింగ్‌లో బ్రెంట్ ముడిచమురు బ్యారెల్‌కు $98.29కి పెరిగింది.",
-   "pts": [
-    "ఇరాన్ ఓడరేవులపై అమెరికా దిగ్బంధనం కొనసాగుతోంది",
-    "ఖతార్ ఎమిర్‌తో ట్రంప్ ఫోన్‌లో ఉద్రిక్తతల తగ్గింపుపై చర్చ",
-    "బ్రెంట్ ముడిచమురు ధర 3.88% పెరుగుదల"
-   ],
-   "why": "హార్ముజ్ మార్గం ద్వారానే భారత్‌కు చమురు ఎక్కువగా వస్తుంది; గల్ఫ్‌లోని తెలుగువారి భద్రతకూ ఇది కీలకం.",
-   "src": "Gulf News",
-   "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "Two oil tankers catch fire after hitting mines in Strait of Hormuz",
-    "p": "Iran's Revolutionary Guards said two oil tankers caught fire after hitting mines in the Strait of Hormuz. They had also claimed the previous day that five other tankers were hit. Iran said Hormuz will not reopen until the US accepts its seven conditions. Brent crude rose to $98.29 a barrel in Asian trade.",
-    "pts": [
-     "US blockade on Iranian ports continues",
-     "Trump discusses de-escalation with Qatar's Emir by phone",
-     "Brent crude price up 3.88%"
-    ],
-    "why": "Much of India's oil comes via the Hormuz route; it is also key to the safety of Telugu people in the Gulf.",
-    "cat": "World · Gulf",
-    "statl": "Oil tankers on fire"
-   },
-   "hi": {
-    "h": "होर्मुज़ जलडमरूमध्य में बारूदी सुरंगों से टकराकर दो तेल टैंकरों में आग",
-    "p": "ईरान के रिवोल्यूशनरी गार्ड्स ने कहा कि होर्मुज़ जलडमरूमध्य में बारूदी सुरंगों से टकराकर दो तेल टैंकरों में आग लग गई। उन्होंने एक दिन पहले पांच अन्य टैंकरों के प्रभावित होने का दावा भी किया था। ईरान ने कहा कि जब तक अमेरिका उसकी सात शर्तें नहीं मानता, होर्मुज़ नहीं खुलेगा। एशियाई कारोबार में ब्रेंट कच्चा तेल $98.29 प्रति बैरल पहुंच गया।",
-    "pts": [
-     "ईरानी बंदरगाहों पर अमेरिकी नाकेबंदी जारी",
-     "ट्रंप ने कतर के अमीर से फोन पर तनाव घटाने पर चर्चा की",
-     "ब्रेंट कच्चे तेल की कीमत 3.88% बढ़ी"
-    ],
-    "why": "भारत का अधिकांश तेल होर्मुज़ मार्ग से आता है; खाड़ी में रहने वाले तेलुगु लोगों की सुरक्षा के लिए भी यह अहम है।",
-    "cat": "दुनिया · खाड़ी",
-    "statl": "आग की चपेट में तेल टैंकर"
-   },
-   "d": "06.11.2026",
-   "t": "16:35"
-  },
-  {
-   "cat": "ఏపీ · ప్రకాశం",
-   "col": "--c-power",
-   "art": "water",
-   "stat": "7/9",
-   "statl": "మృతి చెందిన మత్స్యకారులు",
-   "h": "చెన్నై మత్స్యకారుల విషాదం: ఏపీ తీరానికి మరో రెండు మృతదేహాలు",
-   "p": "చెన్నై కాసిమేడు హార్బర్ నుంచి అక్టోబర్ 29న పడవలో బయలుదేరిన తొమ్మిది మంది మత్స్యకారుల్లో ఏడుగురు మృతి చెందారు. నిజాంపట్నం సమీపంలో వేట సాగిస్తుండగా సముద్రం మధ్యలో పడవ ఇంజిన్ చెడిపోయింది; నవంబర్ 3 తర్వాత వారితో సంబంధాలు తెగిపోయాయి. ఇప్పటికే ఐదు మృతదేహాలు ప్రకాశం జిల్లా తీరానికి కొట్టుకురాగా, తాజాగా మరో రెండు లభించాయి. మిగిలిన ఇద్దరి కోసం కోస్ట్ గార్డ్ గాలిస్తోంది.",
-   "pts": [
-    "ప్రకాశం జిల్లా తీరంలో మొదట ఐదు మృతదేహాలు లభ్యం",
-    "నౌకలు, హెలికాప్టర్లతో కోస్ట్ గార్డ్ గాలింపు ముమ్మరం",
-    "బాధిత కుటుంబాలకు ఒక్కొక్కరికి ₹7 లక్షల సాయం: తమిళనాడు సీఎం"
-   ],
-   "why": "తుపాను హెచ్చరికల వేళ సముద్ర వేటకు వెళ్లే మత్స్యకారుల భద్రతపై ఈ ఘటన దృష్టి సారిస్తోంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/en/state/kasimedu-fishing-tragedy-two-more-bodies-wash-ashore-in-andhra-pradesh-two-fishers-still-missing-enn26110603400",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "AP",
-   "place": "ap-prakasam",
-   "en": {
-    "h": "Chennai fishing tragedy: two more bodies wash ashore in Andhra Pradesh",
-    "p": "Seven of the nine fishermen who sailed from Chennai's Kasimedu harbour on October 29 have died. While fishing near Nizampatnam, their boat's engine failed mid-sea, and contact was lost after November 3. Five bodies had already washed ashore in Prakasam district, and two more have now been found. The Coast Guard is searching for the remaining two.",
-    "pts": [
-     "First five bodies found on Prakasam district coast",
-     "Coast Guard steps up search with ships, helicopters",
-     "Tamil Nadu CM announces ₹7 lakh aid per family"
-    ],
-    "why": "The tragedy draws attention to the safety of fishermen who go to sea during cyclone warnings.",
-    "cat": "Andhra Pradesh · Prakasam",
-    "statl": "Fishermen dead"
-   },
-   "hi": {
-    "h": "चेन्नई मछुआरा हादसा: आंध्र प्रदेश तट पर दो और शव मिले",
-    "p": "चेन्नई के कासिमेडु बंदरगाह से 29 अक्टूबर को नाव में निकले नौ मछुआरों में से सात की मौत हो गई है। निज़ामपट्टनम के पास मछली पकड़ते समय बीच समुद्र में नाव का इंजन खराब हो गया और 3 नवंबर के बाद उनसे संपर्क टूट गया। पांच शव पहले ही प्रकाशम जिले के तट पर बहकर आ चुके थे, अब दो और मिले हैं। बाकी दो की तलाश कोस्ट गार्ड कर रहा है।",
-    "pts": [
-     "प्रकाशम जिले के तट पर पहले पांच शव मिले",
-     "कोस्ट गार्ड ने जहाजों, हेलीकॉप्टरों से तलाश तेज की",
-     "तमिलनाडु सीएम: हर परिवार को ₹7 लाख सहायता"
-    ],
-    "why": "यह हादसा चक्रवात चेतावनी के समय समुद्र में जाने वाले मछुआरों की सुरक्षा पर ध्यान खींचता है।",
-    "cat": "आंध्र प्रदेश · प्रकाशम",
-    "statl": "मृत मछुआरे"
-   },
-   "d": "06.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "ఢిల్లీ · కాలుష్యం",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "AQI 389",
-   "statl": "శుక్రవారం ఉదయం ఢిల్లీ గాలి నాణ్యత",
-   "h": "ఢిల్లీ కాలుష్యానికి ప్రధాన కారణం వాహనాలే: సుప్రీం కోర్టులో సీజేఐ",
-   "p": "ఢిల్లీ–ఎన్‌సీఆర్ వాయు కాలుష్యం కేసును సీజేఐ సూర్యకాంత్ నేతృత్వంలోని ముగ్గురు న్యాయమూర్తుల ధర్మాసనం శుక్రవారం విచారించింది. ఉదయం 8 గంటలకు ఢిల్లీ ఏక్యూఐ 389గా 'చాలా దారుణం' స్థాయిలో నమోదైంది. వాహన కాలుష్యమే ప్రధాన కారణమని పేర్కొన్న సీజేఐ, ప్రజా రవాణా సరిపోతుందా అని ప్రశ్నించారు. పంట వ్యర్థాలను ప్రభుత్వమే నిర్ణీత ధరకు కొనే ఆలోచనపైనా చర్చ జరిగింది.",
-   "pts": [
-    "నవంబర్ 5న కాలుష్యంలో పంట వ్యర్థాల దహనం వాటా 14%",
-    "వ్యర్థాల నిర్వహణ యంత్రాలు గ్రామ పంచాయతీలకు ఇవ్వాలన్న సీజేఐ",
-    "కోర్టు సూచనలను వ్యవసాయ శాఖకు చేరుస్తామన్న కేంద్రం"
-   ],
-   "why": "ఢిల్లీ–ఎన్‌సీఆర్‌లో నివసించే లక్షల మంది ప్రజలు, అక్కడి తెలుగువారి ఆరోగ్యంపై ఈ కాలుష్యం ప్రభావం చూపుతోంది.",
-   "src": "Outlook India",
-   "url": "https://www.outlookindia.com/national/i-hope-you-all-are-enjoying-the-weather-in-delhi-cji-kant-quips-during-delhi-pollution-hearing",
-   "sec": [
-    "india"
-   ],
-   "st": "DL",
-   "place": "st-DL",
-   "en": {
-    "h": "Vehicles are the main cause of Delhi pollution: CJI in Supreme Court",
-    "p": "A three-judge bench led by CJI Surya Kant heard the Delhi-NCR air pollution case on Friday. Delhi's AQI stood at 389, 'very poor', at 8 am. Calling vehicular pollution the major cause, the CJI asked whether public transport was sufficient. The idea of the government buying crop stubble at a fixed price was also discussed.",
-    "pts": [
-     "Stubble burning made up 14% of pollution on November 5",
-     "CJI says stubble machines should go to gram panchayats",
-     "Centre to take court's suggestions to Agriculture Ministry"
-    ],
-    "why": "The pollution affects the health of lakhs of people living in Delhi-NCR, including Telugu residents there.",
-    "cat": "Delhi · Pollution",
-    "statl": "Delhi air quality on Friday morning"
-   },
-   "hi": {
-    "h": "दिल्ली प्रदूषण की मुख्य वजह वाहन: सुप्रीम कोर्ट में सीजेआई",
-    "p": "सीजेआई सूर्यकांत की अगुवाई वाली तीन जजों की पीठ ने शुक्रवार को दिल्ली-एनसीआर वायु प्रदूषण मामले की सुनवाई की। सुबह 8 बजे दिल्ली का एक्यूआई 389 यानी 'बहुत खराब' स्तर पर था। वाहन प्रदूषण को मुख्य कारण बताते हुए सीजेआई ने पूछा कि क्या सार्वजनिक परिवहन पर्याप्त है। सरकार द्वारा तय दाम पर पराली खरीदने के विचार पर भी चर्चा हुई।",
-    "pts": [
-     "5 नवंबर को प्रदूषण में पराली जलाने का हिस्सा 14%",
-     "सीजेआई: पराली मशीनें ग्राम पंचायतों को दी जाएं",
-     "केंद्र कोर्ट के सुझाव कृषि मंत्रालय तक पहुंचाएगा"
-    ],
-    "why": "यह प्रदूषण दिल्ली-एनसीआर में रहने वाले लाखों लोगों, वहां के तेलुगु लोगों समेत, की सेहत पर असर डाल रहा है।",
-    "cat": "दिल्ली · प्रदूषण",
-    "statl": "शुक्रवार सुबह दिल्ली की हवा"
-   },
-   "d": "06.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "తెలంగాణ · భద్రాద్రి",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "3 రోజులు",
-   "statl": "ఘటన జరిగి గడిచిన సమయం",
-   "h": "భార్యను హత్య చేసి గోదావరిలో పడేశాడన్న ఆరోపణ; పోలీసులకు లొంగిపోయిన ఏఆర్ కానిస్టేబుల్",
-   "p": "భద్రాద్రి కొత్తగూడెం జిల్లాకు చెందిన ఓ ఆర్మ్‌డ్ రిజర్వ్ కానిస్టేబుల్ తన 30 ఏళ్ల భార్యను మూడు రోజుల క్రితం హత్య చేసి, మృతదేహాన్ని సంచిలో కట్టి భద్రాచలం వద్ద గోదావరిలో పడేశాడని ఆరోపణ. అంతకుముందు భార్య కనిపించడం లేదని అతడే ఫిర్యాదు చేశాడు. తర్వాత త్రీ టౌన్ పోలీసులకు లొంగిపోయాడని సమాచారం. మృతదేహం కోసం గాలింపు సాగుతోంది.",
-   "pts": [
-    "30 ఏళ్ల భార్యను హత్య చేశాడని కానిస్టేబుల్‌పై ఆరోపణ",
-    "గోదావరి వంతెన 22వ స్తంభం వద్ద పడేసినట్లు అంగీకారం",
-    "పోలీసులు ఇంకా అధికారిక ప్రకటన చేయలేదు"
-   ],
-   "why": "కుటుంబ హింస కేసుల్లో పోలీసు సిబ్బందిపైనే ఆరోపణలు రావడం ప్రజల్లో ఆందోళన కలిగిస్తుంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/ar-constable-allegedly-kills-wife-dumps-body-in-godavari-at-bhadrachalam",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "భద్రాచలం",
-   "en": {
-    "h": "AR constable allegedly kills wife, dumps body in Godavari; surrenders",
-    "p": "An Armed Reserve constable from Bhadradri Kothagudem district allegedly killed his 30-year-old wife three days ago, packed the body in a sack and dumped it in the Godavari at Bhadrachalam. He had earlier filed a complaint that his wife was missing. He later reportedly surrendered to the Three-Town police. A search for the body is under way.",
-    "pts": [
-     "Constable accused of killing his 30-year-old wife",
-     "Admitted dumping body near 22nd pillar of Godavari bridge",
-     "Police yet to make an official statement"
-    ],
-    "why": "Allegations against police personnel in domestic violence cases raise public concern.",
-    "cat": "Telangana · Bhadradri",
-    "statl": "Time since the incident"
-   },
-   "hi": {
-    "h": "पत्नी की हत्या कर शव गोदावरी में फेंकने का आरोप; एआर कांस्टेबल ने किया आत्मसमर्पण",
-    "p": "भद्राद्री कोत्तगुडेम जिले के एक आर्म्ड रिजर्व कांस्टेबल पर आरोप है कि उसने तीन दिन पहले अपनी 30 वर्षीय पत्नी की हत्या की, शव को बोरे में बांधकर भद्राचलम में गोदावरी में फेंक दिया। इससे पहले उसने खुद पत्नी के लापता होने की शिकायत दर्ज कराई थी। बाद में उसने थ्री टाउन पुलिस के सामने आत्मसमर्पण किया। शव की तलाश जारी है।",
-    "pts": [
-     "कांस्टेबल पर 30 वर्षीय पत्नी की हत्या का आरोप",
-     "गोदावरी पुल के 22वें खंभे के पास शव फेंकना कबूला",
-     "पुलिस ने अभी आधिकारिक बयान नहीं दिया"
-    ],
-    "why": "घरेलू हिंसा के मामलों में पुलिसकर्मियों पर ही आरोप लगना लोगों में चिंता पैदा करता है।",
-    "cat": "तेलंगाना · भद्राद्री",
-    "statl": "घटना को बीता समय"
-   },
-   "d": "06.11.2026",
-   "t": "15:35"
   }
  ]
 }
