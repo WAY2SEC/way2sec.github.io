@@ -1,8 +1,106 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T19:08:40+05:30",
+ "updated": "2026-11-07T19:42:18+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "9 మంది",
+   "statl": "అధికారులకు ధిక్కరణ నోటీసులు",
+   "h": "హైడ్రా కమిషనర్ సహా 9 మంది అధికారులకు హైకోర్టు ధిక్కరణ నోటీసులు",
+   "p": "సంగారెడ్డి జిల్లా ఐలాపూర్ గ్రామంలో ఫామ్‌హౌస్ కూల్చివేతపై దాఖలైన కోర్టు ధిక్కరణ పిటిషన్‌లో ప్రతివాదులు సమాధానం ఇవ్వకపోవడంతో జస్టిస్ సి.వి. భాస్కర్ రెడ్డి ఫామ్-1 నోటీసులు జారీ చేశారు. హైడ్రా కమిషనర్ ఏ.వి. రంగనాథ్, సంగారెడ్డి కలెక్టర్ సహా తొమ్మిది మంది అధికారులు ఇందులో ఉన్నారు. 2024 సెప్టెంబర్ 25 మధ్యంతర ఉత్తర్వులు ఉన్నా ఏప్రిల్ 11న కూల్చివేశారని 98 ఏళ్ల పిటిషనర్ ఆరోపిస్తున్నారు.",
+   "pts": [
+    "జస్టిస్ సి.వి. భాస్కర్ రెడ్డి ఫామ్-1 నోటీసులు",
+    "హైడ్రా కమిషనర్, సంగారెడ్డి కలెక్టర్ ప్రతివాదులు",
+    "మధ్యంతర ఉత్తర్వుల ఉల్లంఘన అని పిటిషనర్ ఆరోపణ"
+   ],
+   "why": "కోర్టు ఉత్తర్వులు ఉన్న ఆస్తులపై చర్యల విషయంలో అధికారుల జవాబుదారీతనంపై ఈ కేసు ప్రభావం చూపనుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-hc-seeks-response-from-hydraa-officials-in-contempt-plea-over-farmhouse-demolition",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "ఐలాపూర్",
+   "en": {
+    "h": "High Court issues contempt notices to HYDRAA chief, 8 other officials",
+    "p": "Justice C.V. Bhaskar Reddy issued Form-I notices after the respondents failed to file replies in a contempt petition over a farmhouse demolition at Ailapur village in Sangareddy district. HYDRAA Commissioner A.V. Ranganath, the Sangareddy Collector and seven other officials are among them. The 98-year-old petitioner alleges the demolition on April 11 despite a September 25, 2024 interim order.",
+    "pts": [
+     "Justice C.V. Bhaskar Reddy issues Form-I notices",
+     "HYDRAA Commissioner, Sangareddy Collector among respondents",
+     "Petitioner alleges violation of interim order"
+    ],
+    "why": "The case bears on officials' accountability when acting on properties protected by court orders.",
+    "cat": "Telangana · High Court",
+    "statl": "officials get contempt notices"
+   },
+   "hi": {
+    "h": "हाईकोर्ट ने हाइड्रा कमिश्नर समेत 9 अधिकारियों को अवमानना नोटिस भेजे",
+    "p": "संगारेड्डी ज़िले के ऐलापुर गांव में फार्महाउस गिराने के खिलाफ दायर अवमानना याचिका में प्रतिवादियों के जवाब न देने पर जस्टिस सी.वी. भास्कर रेड्डी ने फॉर्म-1 नोटिस जारी किए। हाइड्रा कमिश्नर ए.वी. रंगनाथ और संगारेड्डी कलेक्टर समेत नौ अधिकारी इनमें शामिल हैं। 98 वर्षीय याचिकाकर्ता का आरोप है कि 25 सितंबर 2024 के अंतरिम आदेश के बावजूद 11 अप्रैल को फार्महाउस गिराया गया।",
+    "pts": [
+     "जस्टिस सी.वी. भास्कर रेड्डी ने फॉर्म-1 नोटिस दिए",
+     "हाइड्रा कमिश्नर, संगारेड्डी कलेक्टर प्रतिवादी",
+     "याचिकाकर्ता का अंतरिम आदेश के उल्लंघन का आरोप"
+    ],
+    "why": "अदालती आदेश से सुरक्षित संपत्तियों पर कार्रवाई में अधिकारियों की जवाबदेही पर इस मामले का असर पड़ेगा।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "अधिकारियों को अवमानना नोटिस"
+   },
+   "d": "07.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "ఏపీ · పరిషత్ ఫలితాలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "21/21",
+   "statl": "వి.మాడుగుల ఎంపీటీసీలు కూటమికే",
+   "h": "పరిషత్ ఫలితాలు: వి.మాడుగులలో 21 ఎంపీటీసీలూ కూటమికే; యు.కొత్తపల్లిలో జనసేన 11",
+   "p": "ఏపీ పరిషత్ ఎన్నికల లెక్కింపులో సాయంత్రం మండలాల వారీ ఫలితాలు వెలువడ్డాయి. అనకాపల్లి జిల్లా వి.మాడుగుల మండలంలోని 21 ఎంపీటీసీ స్థానాల్లో టీడీపీ 17, జనసేన 4 గెలుచుకోగా వైసీపీకి ఒక్కటీ దక్కలేదు. కాకినాడ జిల్లా యు.కొత్తపల్లిలో 15 స్థానాల్లో జనసేన 11, టీడీపీ 2, వైసీపీ 2 గెలిచాయి. గుంటూరు జిల్లా పొన్నూరు జెడ్పీటీసీని జనసేన గెలుచుకుంది.",
+   "pts": [
+    "వి.మాడుగుల: టీడీపీ 17, జనసేన 4 ఎంపీటీసీలు",
+    "యు.కొత్తపల్లి: జనసేన 11, టీడీపీ 2, వైసీపీ 2",
+    "పొన్నూరు జెడ్పీటీసీ జనసేన కైవసం"
+   ],
+   "why": "ఈ ఫలితాలతో ఆయా మండలాల్లో స్థానిక పాలన ఎవరి చేతుల్లో ఉంటుందో తేలుతోంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-7th-november-2026-kjr-3705.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-anakapalli",
+   "loc": "వి.మాడుగుల",
+   "en": {
+    "h": "Parishad results: Alliance sweeps all 21 MPTCs in V. Madugula; Jana Sena wins 11 in U. Kothapalli",
+    "p": "Mandal-wise results came in on Saturday evening in the AP parishad election count. In V. Madugula mandal of Anakapalli district, TDP won 17 and Jana Sena 4 of the 21 MPTC seats, while YSRCP won none. In U. Kothapalli, Kakinada district, Jana Sena won 11 of 15 seats, TDP 2 and YSRCP 2. Jana Sena also won the Ponnuru ZPTC in Guntur district.",
+    "pts": [
+     "V. Madugula: TDP 17, Jana Sena 4 MPTCs",
+     "U. Kothapalli: Jana Sena 11, TDP 2, YSRCP 2",
+     "Jana Sena wins Ponnuru ZPTC"
+    ],
+    "why": "These results decide who will run local governance in these mandals.",
+    "cat": "AP · Parishad Results",
+    "statl": "V. Madugula MPTCs go to alliance"
+   },
+   "hi": {
+    "h": "परिषद नतीजे: वी. माडुगुला में सभी 21 एमपीटीसी गठबंधन के; यू. कोत्तपल्ली में जनसेना को 11",
+    "p": "आंध्र प्रदेश परिषद चुनाव की मतगणना में शनिवार शाम मंडलवार नतीजे आए। अनकापल्ली ज़िले के वी. माडुगुला मंडल की 21 एमपीटीसी सीटों में टीडीपी ने 17 और जनसेना ने 4 जीतीं, जबकि वाईएसआरसीपी को एक भी सीट नहीं मिली। काकीनाडा ज़िले के यू. कोत्तपल्ली में 15 सीटों में जनसेना 11, टीडीपी 2 और वाईएसआरसीपी 2 पर जीतीं। गुंटूर ज़िले की पोन्नूरु जेडपीटीसी सीट जनसेना ने जीती।",
+    "pts": [
+     "वी. माडुगुला: टीडीपी 17, जनसेना 4 एमपीटीसी",
+     "यू. कोत्तपल्ली: जनसेना 11, टीडीपी 2, वाईएसआरसीपी 2",
+     "पोन्नूरु जेडपीटीसी जनसेना के नाम"
+    ],
+    "why": "इन नतीजों से तय हो रहा है कि इन मंडलों में स्थानीय शासन किसके हाथ में रहेगा।",
+    "cat": "आंध्र प्रदेश · परिषद नतीजे",
+    "statl": "वी. माडुगुला एमपीटीसी गठबंधन को"
+   },
+   "d": "07.11.2026",
+   "t": "19:35"
+  },
   {
    "cat": "తెలంగాణ · వ్యవసాయం",
    "col": "--c-gov",
@@ -1777,104 +1875,6 @@
     "why": "सूची से छूटे मतदाता समय सीमा से पहले फॉर्म-6 भरकर अपना वोट का अधिकार बचा सकते हैं।",
     "cat": "तेलंगाना · मतदाता सूची",
     "statl": "निपटाए गए एसआईआर नोटिस"
-   },
-   "d": "07.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "భారత్ · వైద్య విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "9,839",
-   "statl": "దేశంలో కొత్తగా పెరిగిన పీజీ వైద్య సీట్లు",
-   "h": "దేశంలో 9,839 పీజీ వైద్య సీట్లు పెంపు; తెలంగాణకు 696, ఏపీకి 408",
-   "p": "జాతీయ వైద్య కమిషన్ (ఎన్‌ఎంసీ) 2026కి దేశవ్యాప్తంగా పీజీ వైద్య సీట్లను 58,466 నుంచి 68,305కి పెంచింది. తెలంగాణలో సీట్లు 3,721 నుంచి 4,417కి, ఆంధ్రప్రదేశ్‌లో 3,908 నుంచి 4,316కి చేరాయి. తెలంగాణలో నాగర్‌కర్నూల్, ఖమ్మం, కరీంనగర్ సహా 13 కళాశాలలకు కొత్తగా పీజీ సీట్లు వచ్చాయి. రాష్ట్ర స్థానిక అభ్యర్థులకు సుమారు 132 అదనపు సీట్లు దక్కే అవకాశం ఉంది.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/neet-pg-seats-2026-rise-by-9839-in-india/",
-   "sec": [
-    "india",
-    "education"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "దేశవ్యాప్తంగా మొత్తం పీజీ సీట్లు 68,305",
-    "తెలంగాణకు 696, ఏపీకి 408 సీట్లు అదనం",
-    "ప్రభుత్వ కళాశాలల్లో 4,440 సీట్లు పెరుగుదల"
-   ],
-   "why": "పీజీ వైద్య విద్యకు సిద్ధమవుతున్న తెలుగు రాష్ట్రాల ఎంబీబీఎస్ వైద్యులకు ఎక్కువ అవకాశాలు లభిస్తాయి.",
-   "en": {
-    "h": "9,839 more PG medical seats in India; Telangana gets 696, AP 408",
-    "p": "The National Medical Commission (NMC) has increased PG medical seats across the country for 2026 from 58,466 to 68,305. Seats in Telangana rose from 3,721 to 4,417, and in Andhra Pradesh from 3,908 to 4,316. In Telangana, 13 colleges including Nagarkurnool, Khammam and Karimnagar have got PG seats for the first time. Local candidates in the state are likely to get about 132 additional seats.",
-    "pts": [
-     "Total PG seats across India now 68,305",
-     "696 more seats for Telangana, 408 for AP",
-     "Government colleges gain 4,440 seats"
-    ],
-    "why": "MBBS doctors from the Telugu states preparing for PG medical courses will get more opportunities.",
-    "cat": "India · Medical Education",
-    "statl": "New PG medical seats in India"
-   },
-   "hi": {
-    "h": "देश में 9,839 पीजी मेडिकल सीटें बढ़ीं; तेलंगाना को 696, आंध्र को 408",
-    "p": "राष्ट्रीय चिकित्सा आयोग (एनएमसी) ने 2026 के लिए देशभर में पीजी मेडिकल सीटें 58,466 से बढ़ाकर 68,305 कर दी हैं। तेलंगाना में सीटें 3,721 से बढ़कर 4,417 और आंध्र प्रदेश में 3,908 से बढ़कर 4,316 हो गईं। तेलंगाना में नागरकर्नूल, खम्मम और करीमनगर समेत 13 कॉलेजों को पहली बार पीजी सीटें मिली हैं। राज्य के स्थानीय उम्मीदवारों को करीब 132 अतिरिक्त सीटें मिलने की संभावना है।",
-    "pts": [
-     "देशभर में कुल पीजी सीटें अब 68,305",
-     "तेलंगाना को 696, आंध्र को 408 अतिरिक्त सीटें",
-     "सरकारी कॉलेजों में 4,440 सीटें बढ़ीं"
-    ],
-    "why": "पीजी मेडिकल की तैयारी कर रहे तेलुगु राज्यों के एमबीबीएस डॉक्टरों को ज़्यादा अवसर मिलेंगे।",
-    "cat": "भारत · चिकित्सा शिक्षा",
-    "statl": "देश में नई पीजी मेडिकल सीटें"
-   },
-   "d": "07.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తమిళనాడు · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "8 జిల్లాలు",
-   "statl": "దీపావళి రోజు భారీ వర్ష సూచన",
-   "h": "తమిళనాడులో రెండు రోజులు భారీ వర్షాలు; దీపావళికి 8 జిల్లాల్లో హెచ్చరిక",
-   "p": "తమిళనాడులో వచ్చే రెండు రోజులు పలుచోట్ల భారీ వర్షాలు కురుస్తాయని చెన్నై ప్రాంతీయ వాతావరణ కేంద్రం తెలిపింది. శనివారం మదురై, తేని, దిండిగల్‌లో భారీ వర్షం, గంటకు 30–40 కి.మీ. వేగంతో గాలులు వీయవచ్చు. దీపావళి రోజైన ఆదివారం తంజావూరు, నాగపట్నం, కన్యాకుమారి సహా 8 జిల్లాల్లో భారీ వర్షం పడే అవకాశం ఉంది. చెన్నైలో మోస్తరు వర్షం కురవవచ్చు.",
-   "src": "IANS",
-   "url": "https://english.punjabkesari.com/india/heavy-rain-forecast-for-tamil-nadu-for-next-two-days-eight-districts-on-alert-for-deepavali",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "TN",
-   "place": "st-TN",
-   "pts": [
-    "అరేబియా సముద్రం నుంచి ద్రోణి ప్రభావం",
-    "ఆదివారం 8 జిల్లాల్లో భారీ వర్ష సూచన",
-    "చెన్నై, తిరువళ్లూరులో మోస్తరు వర్షం"
-   ],
-   "why": "దీపావళి బహిరంగ వేడుకలు, పండుగ ప్రయాణాలపై ఈ వర్షాల ప్రభావం పడవచ్చు.",
-   "en": {
-    "h": "Heavy rain in Tamil Nadu for two days; alert in 8 districts on Deepavali",
-    "p": "The Regional Meteorological Centre in Chennai said heavy rain is likely in several parts of Tamil Nadu over the next two days. On Saturday, Madurai, Theni and Dindigul may get heavy rain with winds of 30–40 kmph. On Sunday, Deepavali day, heavy rain is likely in 8 districts including Thanjavur, Nagapattinam and Kanniyakumari. Chennai may get moderate rain.",
-    "pts": [
-     "Trough from the Arabian Sea behind the rain",
-     "Heavy rain forecast for 8 districts on Sunday",
-     "Moderate rain in Chennai, Tiruvallur"
-    ],
-    "why": "The rain could affect outdoor Deepavali celebrations and festival travel.",
-    "cat": "Tamil Nadu · Weather",
-    "statl": "Heavy rain forecast on Deepavali"
-   },
-   "hi": {
-    "h": "तमिलनाडु में दो दिन भारी बारिश; दीपावली पर 8 जिलों में अलर्ट",
-    "p": "चेन्नई के क्षेत्रीय मौसम केंद्र ने कहा कि अगले दो दिनों में तमिलनाडु के कई हिस्सों में भारी बारिश हो सकती है। शनिवार को मदुरै, थेनी और डिंडीगुल में भारी बारिश और 30–40 किमी प्रति घंटे की हवाएं चल सकती हैं। दीपावली के दिन रविवार को तंजावुर, नागपट्टिनम और कन्याकुमारी समेत 8 जिलों में भारी बारिश की संभावना है। चेन्नई में मध्यम बारिश हो सकती है।",
-    "pts": [
-     "अरब सागर से आई द्रोणिका का असर",
-     "रविवार को 8 जिलों में भारी बारिश का अनुमान",
-     "चेन्नई, तिरुवल्लूर में मध्यम बारिश"
-    ],
-    "why": "इस बारिश का असर दीपावली के बाहरी समारोहों और त्योहार की यात्राओं पर पड़ सकता है।",
-    "cat": "तमिलनाडु · मौसम",
-    "statl": "दीपावली पर भारी बारिश का अनुमान"
    },
    "d": "07.11.2026",
    "t": "13:35"
