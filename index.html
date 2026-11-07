@@ -110,7 +110,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
 .story.promo{background:#eef4fb;justify-content:center;align-items:center;gap:12px;padding:10px}
 .story.promo .pimg{display:flex;flex:1 1 auto;min-height:0;width:100%;justify-content:center}
-.story.promo .pimg img{display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 6px 14px rgba(0,0,0,.18))}
+.story.promo .pimg img{pointer-events:none;-webkit-user-drag:none;user-select:none;display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 6px 14px rgba(0,0,0,.18))}
 .story.promo .pbtn{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;flex:none}
 .story.promo .btn{text-decoration:none}
 .story.promo .btn.ghost{background:#fff;color:#12284A;border:1px solid #c9d3e1}
@@ -613,7 +613,7 @@ function withPromos(list){
 }
 function promoHTML(s,i){
   return `<article class="story promo" aria-label="Way2Sec">
-  <a class="pimg" href="${esc(CONFIG.CHANNEL)}" target="_blank" rel="noopener"><img src="${esc(CONFIG.PROMO.img)}" alt="Way2Sec News – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో! WhatsApp ఛానెల్, వెబ్‌సైట్ way2sec.news"></a>
+  <div class="pimg"><img src="${esc(CONFIG.PROMO.img)}" alt="Way2Sec News – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో! WhatsApp ఛానెల్, వెబ్‌సైట్ way2sec.news" draggable="false"></div>
   <div class="pbtn"><a class="btn" href="${esc(CONFIG.CHANNEL)}" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a><button class="btn ghost" type="button" data-psh="1">స్నేహితులకు పంపండి</button></div>
 </article>`;
 }
