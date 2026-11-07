@@ -1,8 +1,101 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 13,
+ "count": 15,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "365",
+   "statl": "రాష్ట్రవ్యాప్తంగా లెక్కింపు కేంద్రాలు",
+   "h": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు ప్రారంభం",
+   "p": "రాష్ట్రంలో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల ఓట్ల లెక్కింపు శనివారం ఉదయం 8 గంటలకు మొదలైంది. ఏకగ్రీవాలు కాకుండా సుమారు 7,767 ఎంపీటీసీ, 582 జడ్పీటీసీ స్థానాల ఓట్లు లెక్కిస్తారు. 28 జిల్లాల్లో 365 కేంద్రాలు, 9,000కు పైగా టేబుళ్లు ఏర్పాటు చేశారు. మొత్తం పోలింగ్ 70.72 శాతం నమోదైంది. ఎంపీటీసీ ఫలితాలు మధ్యాహ్నం 3 గంటలకు, జడ్పీటీసీ ఫలితాలు రాత్రి 7 గంటలకు రావచ్చని అంచనా.",
+   "src": "Ap7am, The Hans India",
+   "url": "https://www.ap7am.com/en/138895/mptc-zptc-vote-counting-in-andhra-pradesh-to-begin-at-8-am-on-november-7",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "7,767 ఎంపీటీసీ, 582 జడ్పీటీసీ స్థానాల లెక్కింపు",
+    "మొదట పోస్టల్ బ్యాలెట్లు లెక్కిస్తారు",
+    "ఫలితాలు sec.ap.gov.in వెబ్‌సైట్‌లో"
+   ],
+   "why": "గ్రామీణ ప్రాంతాల్లో మండల, జిల్లా పరిషత్ ప్రతినిధులు ఎవరో నేడు తేలనుంది.",
+   "d": "07.11.2026",
+   "t": "08:05",
+   "en": {
+    "h": "Counting of MPTC, ZPTC votes begins across Andhra Pradesh",
+    "p": "Counting of votes for the MPTC and ZPTC elections in the state began at 8 am on Saturday. Votes for about 7,767 MPTC and 582 ZPTC seats, excluding unanimous wins, will be counted. 365 centres with more than 9,000 tables have been set up across 28 districts. Overall polling was 70.72 per cent. MPTC results are expected by 3 pm and ZPTC results by 7 pm.",
+    "pts": [
+     "Counting for 7,767 MPTC, 582 ZPTC seats",
+     "Postal ballots are counted first",
+     "Results on the sec.ap.gov.in website"
+    ],
+    "why": "Rural areas will learn today who their mandal and zilla parishad representatives are.",
+    "cat": "AP · Local Elections",
+    "statl": "Counting centres across the state"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में एमपीटीसी, जेडपीटीसी वोटों की गिनती शुरू",
+    "p": "राज्य में एमपीटीसी और जेडपीटीसी चुनावों की मतगणना शनिवार सुबह 8 बजे शुरू हुई। निर्विरोध जीतों को छोड़कर करीब 7,767 एमपीटीसी और 582 जेडपीटीसी सीटों के वोट गिने जाएंगे। 28 जिलों में 365 केंद्र और 9,000 से अधिक टेबल लगाए गए हैं। कुल मतदान 70.72 प्रतिशत रहा। एमपीटीसी नतीजे दोपहर 3 बजे तक और जेडपीटीसी नतीजे शाम 7 बजे तक आने की उम्मीद है।",
+    "pts": [
+     "7,767 एमपीटीसी, 582 जेडपीटीसी सीटों की गिनती",
+     "पहले डाक मतपत्र गिने जाएंगे",
+     "नतीजे sec.ap.gov.in वेबसाइट पर"
+    ],
+    "why": "ग्रामीण इलाकों में आज तय होगा कि मंडल और जिला परिषद प्रतिनिधि कौन होंगे।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "राज्यभर में मतगणना केंद्र"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · ఇజ్రాయెల్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "67 vs 46",
+   "statl": "ఐసెన్‌కోట్, నెతన్యాహుకు ఎంపీల మద్దతు",
+   "h": "ఇజ్రాయెల్ కొత్త ప్రభుత్వం: ఆదివారం అధ్యక్షుడు హెర్జోగ్ ప్రకటన",
+   "p": "ఇజ్రాయెల్‌లో కొత్త ప్రభుత్వ ఏర్పాటుకు ఎవరిని ఆహ్వానించాలో అధ్యక్షుడు ఐజాక్ హెర్జోగ్ ఆదివారం ప్రకటించనున్నారు. గాడి ఐసెన్‌కోట్‌కు 67 మంది ఎంపీల మద్దతు ఉండగా, బెంజమిన్ నెతన్యాహుకు 46 మంది మద్దతు ఉందని అమర్ ఉజాలా తెలిపింది.",
+   "src": "Amar Ujala",
+   "url": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-07",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఆదివారం అధ్యక్షుడు హెర్జోగ్ నిర్ణయం ప్రకటన",
+    "ఐసెన్‌కోట్‌కు 67, నెతన్యాహుకు 46 ఎంపీల మద్దతు"
+   ],
+   "why": "పశ్చిమాసియా ఉద్రిక్తతల వేళ ఇజ్రాయెల్‌లో ఎవరు ప్రభుత్వం ఏర్పాటు చేస్తారో తేలనుంది.",
+   "d": "07.11.2026",
+   "t": "08:05",
+   "en": {
+    "h": "Israel's new government: President Herzog to announce on Sunday",
+    "p": "Israeli President Isaac Herzog will announce on Sunday whom he will invite to form the new government. Gadi Eisenkot has the support of 67 members of parliament, while Benjamin Netanyahu has the support of 46, Amar Ujala reported.",
+    "pts": [
+     "President Herzog to announce decision on Sunday",
+     "Eisenkot backed by 67 MPs, Netanyahu by 46"
+    ],
+    "why": "Amid West Asia tensions, it will become clear who forms the government in Israel.",
+    "cat": "World · Israel",
+    "statl": "MPs backing Eisenkot and Netanyahu"
+   },
+   "hi": {
+    "h": "इज़राइल की नई सरकार: राष्ट्रपति हर्ज़ोग रविवार को करेंगे घोषणा",
+    "p": "इज़राइल के राष्ट्रपति आइज़ैक हर्ज़ोग रविवार को घोषणा करेंगे कि नई सरकार बनाने के लिए किसे आमंत्रित किया जाएगा। अमर उजाला के अनुसार गादी आइज़ेनकोट को 67 सांसदों का समर्थन है, जबकि बेंजामिन नेतन्याहू को 46 का।",
+    "pts": [
+     "राष्ट्रपति हर्ज़ोग रविवार को बताएंगे फैसला",
+     "आइज़ेनकोट को 67, नेतन्याहू को 46 सांसदों का समर्थन"
+    ],
+    "why": "पश्चिम एशिया में तनाव के बीच तय होगा कि इज़राइल में सरकार कौन बनाएगा।",
+    "cat": "दुनिया · इज़राइल",
+    "statl": "आइज़ेनकोट और नेतन्याहू के समर्थक सांसद"
+   }
+  },
   {
    "cat": "తెలంగాణ · పౌరసరఫరాలు",
    "col": "--c-gov",
