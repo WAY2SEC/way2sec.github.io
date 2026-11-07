@@ -1,8 +1,56 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T19:42:18+05:30",
+ "updated": "2026-11-07T20:12:02+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "12 లక్షలు+",
+   "statl": "పట్టభద్రుల ఓటరు నమోదు దరఖాస్తులు",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలకు ఫిబ్రవరిలో నోటిఫికేషన్ వచ్చే అవకాశం",
+   "p": "మహబూబ్‌నగర్–రంగారెడ్డి–హైదరాబాద్, వరంగల్–ఖమ్మం–నల్గొండ పట్టభద్రుల నియోజకవర్గాల ఎమ్మెల్సీ ఎన్నికలకు ఎన్నికల సంఘం 2027 ఫిబ్రవరిలో నోటిఫికేషన్ ఇచ్చే అవకాశం ఉంది. ప్రస్తుత ఎమ్మెల్సీలు సురభి వాణీదేవి, తీన్మార్ మల్లన్న పదవీకాలం మార్చితో ముగుస్తుంది. రెండు నియోజకవర్గాల్లో కలిపి 12 లక్షలకు పైగా ఓటరు నమోదు దరఖాస్తులు వచ్చాయని రాష్ట్ర ప్రధాన ఎన్నికల అధికారి సి. సుదర్శన్ రెడ్డి తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/eci-likely-to-announce-telangana-graduates-mlc-election-schedule-in-february",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఫిబ్రవరి లేదా మార్చిలో పోలింగ్ జరిగే అవకాశం",
+    "వరంగల్–ఖమ్మం–నల్గొండలో 6,52,680 దరఖాస్తులు",
+    "రెండో దశ నమోదు డిసెంబర్ 10 నుంచి"
+   ],
+   "why": "రెండు నియోజకవర్గాల పట్టభద్రులు ఓటు హక్కు కోసం ఫారం-18తో ఇంకా నమోదు చేసుకోవచ్చు.",
+   "d": "07.11.2026",
+   "t": "20:05",
+   "en": {
+    "h": "Graduates' MLC polls: notification likely in February",
+    "p": "The Election Commission is likely to issue a notification in February 2027 for the MLC elections in the Mahabubnagar-Rangareddy-Hyderabad and Warangal-Khammam-Nalgonda graduates' constituencies. The terms of the current MLCs, Surabhi Vani Devi and Teenmar Mallanna, end in March. Chief Electoral Officer C Sudharsan Reddy said over 12 lakh voter enrolment applications have been received across the two constituencies.",
+    "pts": [
+     "Polling likely in February or March",
+     "6,52,680 applications in Warangal-Khammam-Nalgonda",
+     "Second phase of enrolment from December 10"
+    ],
+    "why": "Graduates in the two constituencies can still enrol to vote using Form-18.",
+    "cat": "Telangana · Elections",
+    "statl": "Graduate voter enrolment applications"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी चुनाव: फरवरी में अधिसूचना की संभावना",
+    "p": "महबूबनगर-रंगारेड्डी-हैदराबाद और वारंगल-खम्मम-नलगोंडा स्नातक निर्वाचन क्षेत्रों के एमएलसी चुनाव के लिए चुनाव आयोग फरवरी 2027 में अधिसूचना जारी कर सकता है। मौजूदा एमएलसी सुरभि वाणी देवी और तीनमार मल्लन्ना का कार्यकाल मार्च में खत्म हो रहा है। मुख्य निर्वाचन अधिकारी सी. सुदर्शन रेड्डी ने बताया कि दोनों क्षेत्रों में कुल 12 लाख से अधिक मतदाता पंजीकरण आवेदन मिले हैं।",
+    "pts": [
+     "फरवरी या मार्च में मतदान की संभावना",
+     "वारंगल-खम्मम-नलगोंडा में 6,52,680 आवेदन",
+     "पंजीकरण का दूसरा चरण 10 दिसंबर से"
+    ],
+    "why": "दोनों क्षेत्रों के स्नातक अब भी फॉर्म-18 से मतदाता के रूप में पंजीकरण करा सकते हैं।",
+    "cat": "तेलंगाना · चुनाव",
+    "statl": "स्नातक मतदाता पंजीकरण आवेदन"
+   }
+  },
   {
    "cat": "తెలంగాణ · హైకోర్టు",
    "col": "--c-city",
@@ -1830,54 +1878,6 @@
     "cat": "तेलंगाना · अदालत",
     "statl": "याचिका दायर करने वाले भूस्वामी की उम्र"
    }
-  },
-  {
-   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "98%",
-   "statl": "పరిష్కారమైన ఎస్‌ఐఆర్ నోటీసులు",
-   "h": "ఎస్‌ఐఆర్: తెలంగాణలో 91 లక్షల కేసులు పరిష్కారం, 1.3 లక్షలు పెండింగ్",
-   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్‌ఐఆర్)లో తెలంగాణలో జారీ చేసిన 92.8 లక్షల నోటీసుల్లో దాదాపు 98 శాతం పరిష్కారమయ్యాయి. సుమారు 91 లక్షల కేసులు తుది జాబితాలో చేర్చేందుకు క్లియర్ కాగా, 1.3 లక్షలు ఇంకా పెండింగ్‌లో ఉన్నాయి. 54,418 మందిని అనర్హులుగా గుర్తించారు. పేరు మళ్లీ చేర్చుకునేందుకు ఫారం-6ను నవంబర్ 21 వరకు స్వీకరిస్తారు.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/telangana-sir-91-lakh-cases-cleared-1-3-lakh-pending/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "92.8 లక్షల నోటీసుల్లో 98% పరిష్కారం",
-    "54,418 మంది ఓటర్లు అనర్హులుగా గుర్తింపు",
-    "ఫారం-6 గడువు నవంబర్ 21; హెల్ప్‌లైన్ 1950"
-   ],
-   "why": "జాబితాలో పేరు లేని ఓటర్లు గడువులోగా ఫారం-6 ఇచ్చి తమ ఓటు హక్కును కాపాడుకోవచ్చు.",
-   "en": {
-    "h": "SIR: 91 lakh cases cleared in Telangana, 1.3 lakh pending",
-    "p": "In the Special Intensive Revision (SIR) of electoral rolls, nearly 98 per cent of the 92.8 lakh notices issued in Telangana have been resolved. About 91 lakh cases have been cleared for inclusion in the final rolls, while 1.3 lakh are still pending. 54,418 people were found ineligible. Form 6 for re-inclusion will be accepted until November 21.",
-    "pts": [
-     "98% of 92.8 lakh notices resolved",
-     "54,418 electors found ineligible",
-     "Form 6 deadline November 21; helpline 1950"
-    ],
-    "why": "Voters missing from the rolls can protect their right to vote by filing Form 6 before the deadline.",
-    "cat": "Telangana · Electoral Rolls",
-    "statl": "SIR notices resolved"
-   },
-   "hi": {
-    "h": "एसआईआर: तेलंगाना में 91 लाख मामले निपटे, 1.3 लाख लंबित",
-    "p": "मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) में तेलंगाना में जारी 92.8 लाख नोटिसों में से लगभग 98 प्रतिशत का निपटारा हो गया है। करीब 91 लाख मामलों को अंतिम सूची में शामिल करने के लिए मंजूरी मिली है, जबकि 1.3 लाख अभी लंबित हैं। 54,418 लोगों को अयोग्य पाया गया। नाम दोबारा जुड़वाने के लिए फॉर्म-6 21 नवंबर तक स्वीकार किया जाएगा।",
-    "pts": [
-     "92.8 लाख नोटिसों में से 98% का निपटारा",
-     "54,418 मतदाता अयोग्य पाए गए",
-     "फॉर्म-6 की अंतिम तिथि 21 नवंबर; हेल्पलाइन 1950"
-    ],
-    "why": "सूची से छूटे मतदाता समय सीमा से पहले फॉर्म-6 भरकर अपना वोट का अधिकार बचा सकते हैं।",
-    "cat": "तेलंगाना · मतदाता सूची",
-    "statl": "निपटाए गए एसआईआर नोटिस"
-   },
-   "d": "07.11.2026",
-   "t": "13:35"
   }
  ]
 }
