@@ -1,8 +1,252 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 33,
+ "count": 38,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "78",
+   "statl": "కూటమి గెలిచిన జడ్పీటీసీ స్థానాలు",
+   "h": "పరిషత్ ఫలితాలు: జడ్పీటీసీల్లో కూటమి ముందంజ, 78 స్థానాల్లో గెలుపు",
+   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు 365 కేంద్రాల్లో కొనసాగుతోంది. ఎం9 న్యూస్ తాజా లెక్క ప్రకారం 171 జడ్పీటీసీ స్థానాల ఫలితాల్లో కూటమి 78 గెలిచి 84 చోట్ల ఆధిక్యంలో ఉంది. వైఎస్సార్‌సీపీ ఒక స్థానం గెలిచి 8 చోట్ల ముందంజలో ఉంది. 2,052 ఎంపీటీసీల్లో కూటమికి 1,928, వైఎస్సార్‌సీపీకి 92 దక్కాయి.",
+   "src": "M9 News",
+   "url": "https://www.m9.news/politics/ap-mptc-zptc-election-results-2026-vote-counting/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "జడ్పీటీసీ: కూటమి 78 గెలుపు, 84 ఆధిక్యం",
+    "వైఎస్సార్‌సీపీ: 1 గెలుపు, 8 ఆధిక్యం",
+    "ఎంపీటీసీ: కూటమి 1,928, వైఎస్సార్‌సీపీ 92, ఇతరులు 32"
+   ],
+   "why": "గ్రామీణ స్థానిక సంస్థల్లో ఎవరు పాలిస్తారో ఈ ఫలితాలు నిర్ణయిస్తాయి; లెక్కింపు ఇంకా కొనసాగుతోంది.",
+   "en": {
+    "h": "Parishad results: Alliance ahead in ZPTCs, wins 78 seats",
+    "p": "Counting of MPTC and ZPTC votes is under way at 365 centres in Andhra Pradesh. As per M9 News's latest count, of 171 ZPTC results, the alliance has won 78 and leads in 84. YSRCP has won one seat and leads in 8. Of 2,052 MPTCs, the alliance got 1,928 and YSRCP 92.",
+    "pts": [
+     "ZPTC: Alliance won 78, leading in 84",
+     "YSRCP: won 1, leading in 8",
+     "MPTC: Alliance 1,928, YSRCP 92, others 32"
+    ],
+    "why": "These results decide who runs rural local bodies; counting is still continuing.",
+    "cat": "AP · Local Elections",
+    "statl": "ZPTC seats won by the alliance"
+   },
+   "hi": {
+    "h": "परिषद नतीजे: जेडपीटीसी में गठबंधन आगे, 78 सीटें जीतीं",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी वोटों की गिनती 365 केंद्रों पर जारी है। एम9 न्यूज़ की ताज़ा गिनती के अनुसार 171 जेडपीटीसी नतीजों में गठबंधन ने 78 सीटें जीतीं और 84 पर आगे है। वाईएसआरसीपी ने एक सीट जीती और 8 पर आगे है। 2,052 एमपीटीसी में गठबंधन को 1,928 और वाईएसआरसीपी को 92 मिलीं।",
+    "pts": [
+     "जेडपीटीसी: गठबंधन 78 जीत, 84 पर बढ़त",
+     "वाईएसआरसीपी: 1 जीत, 8 पर बढ़त",
+     "एमपीटीसी: गठबंधन 1,928, वाईएसआरसीपी 92, अन्य 32"
+    ],
+    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्थानीय निकाय कौन चलाएगा; गिनती अभी जारी है।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "गठबंधन द्वारा जीती जेडपीटीसी सीटें"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రైల్వే",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "861",
+   "statl": "బరౌనీ ప్రత్యేక రైలులో ఖాళీ బెర్తులు",
+   "h": "పండుగ ప్రత్యేక రైళ్లలో ఖాళీ బెర్తుల జాబితా విడుదల చేసిన దక్షిణ మధ్య రైల్వే",
+   "p": "పండుగ సీజన్ కోసం తెలంగాణ నుంచి నడిచే ప్రత్యేక రైళ్లలో ఖాళీగా ఉన్న బెర్తుల వివరాలను దక్షిణ మధ్య రైల్వే ప్రకటించింది. చర్లపల్లి–బరౌనీ రైలులో నవంబర్ 15న 861 బెర్తులు ఉన్నాయి. చర్లపల్లి–హజ్రత్ నిజాముద్దీన్, ప్రయాగ్‌రాజ్, సాసారాం, రక్సౌల్ రైళ్లలోనూ సీట్లు ఉన్నాయి. ఈ సంఖ్యలు బుకింగ్‌ను బట్టి మారతాయని, ముందే రిజర్వ్ చేసుకోవాలని సూచించింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/south-central-railway-lists-available-berths-in-special-trains-from-telangana",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "చర్లపల్లి",
+   "pts": [
+    "చర్లపల్లి–బరౌనీ: నవంబర్ 15న 861 బెర్తులు",
+    "చర్లపల్లి–సాసారాం: నవంబర్ 26న 507 బెర్తులు",
+    "సికింద్రాబాద్–సిర్పూర్ కాగజ్‌నగర్ రైళ్లలోనూ ఖాళీలు"
+   ],
+   "why": "పండుగకు బిహార్, యూపీ, ఢిల్లీ వెళ్లే ప్రయాణికులకు టికెట్ దొరికే అవకాశం ఉంది.",
+   "en": {
+    "h": "South Central Railway lists vacant berths in festival special trains",
+    "p": "South Central Railway has announced details of vacant berths in festival-season special trains running from Telangana. The Charlapalli–Barauni train has 861 berths on November 15. Seats are also available on Charlapalli trains to Hazrat Nizamuddin, Prayagraj, Sasaram and Raxaul. It said the numbers change with bookings and advised passengers to reserve in advance.",
+    "pts": [
+     "Charlapalli–Barauni: 861 berths on November 15",
+     "Charlapalli–Sasaram: 507 berths on November 26",
+     "Vacancies also on Secunderabad–Sirpur Kagaznagar trains"
+    ],
+    "why": "Passengers travelling to Bihar, UP and Delhi for the festival may get tickets.",
+    "cat": "Hyderabad · Railways",
+    "statl": "Vacant berths on Barauni special train"
+   },
+   "hi": {
+    "h": "दक्षिण मध्य रेलवे ने त्योहार स्पेशल ट्रेनों में खाली बर्थ की सूची जारी की",
+    "p": "दक्षिण मध्य रेलवे ने तेलंगाना से चलने वाली त्योहार सीज़न की स्पेशल ट्रेनों में खाली बर्थ का ब्योरा जारी किया है। चर्लापल्ली–बरौनी ट्रेन में 15 नवंबर को 861 बर्थ खाली हैं। चर्लापल्ली से हज़रत निज़ामुद्दीन, प्रयागराज, सासाराम और रक्सौल ट्रेनों में भी सीटें हैं। रेलवे ने कहा कि संख्या बुकिंग के साथ बदलती है और पहले से आरक्षण कराने की सलाह दी।",
+    "pts": [
+     "चर्लापल्ली–बरौनी: 15 नवंबर को 861 बर्थ",
+     "चर्लापल्ली–सासाराम: 26 नवंबर को 507 बर्थ",
+     "सिकंदराबाद–सिरपुर कागज़नगर ट्रेनों में भी जगह"
+    ],
+    "why": "त्योहार पर बिहार, यूपी और दिल्ली जाने वाले यात्रियों को टिकट मिल सकता है।",
+    "cat": "हैदराबाद · रेलवे",
+    "statl": "बरौनी स्पेशल ट्रेन में खाली बर्थ"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "భారత్ · ఎలక్ట్రానిక్స్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹7,503 కోట్లు",
+   "statl": "12 ప్రాజెక్టుల అంచనా పెట్టుబడి",
+   "h": "ఎలక్ట్రానిక్స్ విడిభాగాల పథకం కింద మరో 12 ప్రాజెక్టులకు కేంద్రం ఆమోదం",
+   "p": "ఎలక్ట్రానిక్స్ కాంపోనెంట్స్ మాన్యుఫ్యాక్చరింగ్ స్కీమ్ (ఈసీఎంఎస్) కింద ఏడు రాష్ట్రాల్లో 12 కొత్త ప్రాజెక్టులకు కేంద్ర ఐటీ శాఖ ఆమోదం తెలిపింది. వీటిలో ₹7,503 కోట్ల పెట్టుబడి, 7,127 ప్రత్యక్ష ఉద్యోగాలు వస్తాయని అంచనా. గుజరాత్, కర్ణాటక, తమిళనాడు, మహారాష్ట్ర, యూపీ, మధ్యప్రదేశ్, పంజాబ్‌లలో ఇవి ఏర్పాటవుతాయి. మంత్రి అశ్విని వైష్ణవ్ ఢిల్లీలో ప్రకటించారు.",
+   "src": "Indian Masterminds",
+   "url": "https://indianmasterminds.com/news/government/ecms-approves-12-electronics-projects-248980/",
+   "sec": [
+    "india",
+    "business",
+    "jobs"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "12 ప్రాజెక్టులు, ₹7,503 కోట్ల పెట్టుబడి",
+    "7,127 ప్రత్యక్ష ఉద్యోగాలు అంచనా",
+    "ఇప్పటివరకు మొత్తం 118 దరఖాస్తులకు ఆమోదం"
+   ],
+   "why": "దేశంలో ఎలక్ట్రానిక్స్ తయారీ, ఉద్యోగాల కోసం చూస్తున్న యువతకు ఇది సంబంధించిన వార్త.",
+   "en": {
+    "h": "Centre approves 12 more projects under electronics components scheme",
+    "p": "The Union IT ministry has approved 12 new projects in seven states under the Electronics Components Manufacturing Scheme (ECMS). They are expected to bring an investment of ₹7,503 crore and 7,127 direct jobs. They will come up in Gujarat, Karnataka, Tamil Nadu, Maharashtra, UP, Madhya Pradesh and Punjab. Minister Ashwini Vaishnaw announced it in Delhi.",
+    "pts": [
+     "12 projects, ₹7,503 crore investment",
+     "7,127 direct jobs expected",
+     "118 applications approved so far in total"
+    ],
+    "why": "This matters to young people looking for electronics manufacturing jobs in the country.",
+    "cat": "India · Electronics",
+    "statl": "Projected investment in 12 projects"
+   },
+   "hi": {
+    "h": "इलेक्ट्रॉनिक्स कंपोनेंट योजना के तहत केंद्र ने 12 और परियोजनाओं को मंज़ूरी दी",
+    "p": "केंद्रीय आईटी मंत्रालय ने इलेक्ट्रॉनिक्स कंपोनेंट्स मैन्युफैक्चरिंग स्कीम (ईसीएमएस) के तहत सात राज्यों में 12 नई परियोजनाओं को मंज़ूरी दी है। इनसे ₹7,503 करोड़ का निवेश और 7,127 प्रत्यक्ष नौकरियां आने की उम्मीद है। ये गुजरात, कर्नाटक, तमिलनाडु, महाराष्ट्र, यूपी, मध्य प्रदेश और पंजाब में लगेंगी। मंत्री अश्विनी वैष्णव ने दिल्ली में इसकी घोषणा की।",
+    "pts": [
+     "12 परियोजनाएं, ₹7,503 करोड़ निवेश",
+     "7,127 प्रत्यक्ष नौकरियों की उम्मीद",
+     "अब तक कुल 118 आवेदनों को मंज़ूरी"
+    ],
+    "why": "यह देश में इलेक्ट्रॉनिक्स निर्माण की नौकरियां ढूंढ रहे युवाओं से जुड़ी खबर है।",
+    "cat": "भारत · इलेक्ट्रॉनिक्स",
+    "statl": "12 परियोजनाओं में अनुमानित निवेश"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "కేరళ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "ఎల్లో అలర్ట్",
+   "statl": "కేరళలో ఈ నెల 8 వరకు భారీ వర్షాల హెచ్చరిక",
+   "h": "కేరళలో నవంబర్ 8 వరకు భారీ వర్షాలు; పలు జిల్లాలకు ఎల్లో అలర్ట్",
+   "p": "కేరళలో నవంబర్ 6 నుంచి 8 వరకు అక్కడక్కడ భారీ వర్షాలు కురుస్తాయని భారత వాతావరణ శాఖ తెలిపింది. ఉరుములు, గంటకు 30–40 కి.మీ. వేగంతో గాలులు వీయొచ్చు. నేడు పతనంతిట్ట, కొట్టాయం; రేపు అలప్పుజ, కొట్టాయం, ఎర్నాకులం జిల్లాలకు ఎల్లో అలర్ట్ జారీ చేశారు. తెలంగాణ, కోస్తాంధ్రపై ఉన్న వాయుగుండం దీనికి ఒక కారణం.",
+   "src": "Malayalam Daily News",
+   "url": "https://malayalamdailynews.com/english/668127",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "KL",
+   "place": "st-KL",
+   "pts": [
+    "నవంబర్ 6–8 అక్కడక్కడ భారీ వర్షాలు",
+    "నేడు పతనంతిట్ట, కొట్టాయంకు ఎల్లో అలర్ట్",
+    "రేపు అలప్పుజ, కొట్టాయం, ఎర్నాకులంకు అలర్ట్"
+   ],
+   "why": "కొచ్చి సహా కేరళలో ఉంటున్న తెలుగువారు, ప్రయాణికులు జాగ్రత్తగా ఉండాలి.",
+   "en": {
+    "h": "Heavy rain in Kerala till November 8; yellow alert for several districts",
+    "p": "The India Meteorological Department said isolated heavy rain will occur in Kerala from November 6 to 8. Thunderstorms and winds of 30–40 km/h are possible. Yellow alerts were issued for Pathanamthitta and Kottayam today, and Alappuzha, Kottayam and Ernakulam tomorrow. A deep depression over Telangana and coastal Andhra is one of the reasons.",
+    "pts": [
+     "Isolated heavy rain from November 6–8",
+     "Yellow alert today for Pathanamthitta, Kottayam",
+     "Tomorrow alert for Alappuzha, Kottayam, Ernakulam"
+    ],
+    "why": "Telugu people living in Kerala, including Kochi, and travellers should be careful.",
+    "cat": "Kerala · Weather",
+    "statl": "Heavy rain warning in Kerala till the 8th"
+   },
+   "hi": {
+    "h": "केरल में 8 नवंबर तक भारी बारिश; कई जिलों में येलो अलर्ट",
+    "p": "भारत मौसम विज्ञान विभाग ने कहा कि केरल में 6 से 8 नवंबर तक कहीं-कहीं भारी बारिश होगी। गरज के साथ 30–40 किमी प्रति घंटे की हवाएं चल सकती हैं। आज पथनमथिट्टा और कोट्टायम, कल अलप्पुझा, कोट्टायम और एर्नाकुलम के लिए येलो अलर्ट जारी किया गया है। तेलंगाना और तटीय आंध्र पर बना गहरा दबाव इसका एक कारण है।",
+    "pts": [
+     "6–8 नवंबर कहीं-कहीं भारी बारिश",
+     "आज पथनमथिट्टा, कोट्टायम में येलो अलर्ट",
+     "कल अलप्पुझा, कोट्टायम, एर्नाकुलम में अलर्ट"
+    ],
+    "why": "कोच्चि समेत केरल में रह रहे तेलुगु लोग और यात्री सावधान रहें।",
+    "cat": "केरल · मौसम",
+    "statl": "केरल में 8 तारीख तक भारी बारिश की चेतावनी"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ప్రపంచం · పశ్చిమాసియా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "శాంతి",
+   "statl": "అమెరికా–ఇరాన్ ఒప్పందానికి ఖతార్ పిలుపు",
+   "h": "ఆలస్యం వద్దు: అమెరికా, ఇరాన్ శాంతి ఒప్పందం చేసుకోవాలని ఖతార్ ప్రధాని పిలుపు",
+   "p": "యుద్ధాన్ని ముగించేందుకు అమెరికా, ఇరాన్ వెంటనే శాంతి ఒప్పందం చేసుకోవాలని ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మొహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ కోరారు. సరైన సమయం కోసం ఎదురుచూడటం సాధ్యం కాదని ఆక్స్‌ఫర్డ్ యూనివర్సిటీలో ఇంటర్వ్యూలో అన్నారు. హార్ముజ్ జలసంధిలోని ఖెష్మ్ దీవిపై రెండు క్షిపణులు పడ్డాయని, ప్రాణనష్టం లేదని ఇరాన్ మీడియా తెలిపింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "శాంతి ఒప్పందానికి ఖతార్ ప్రధాని పిలుపు",
+    "సరైన సమయం కోసం ఆగలేమని హెచ్చరిక",
+    "ఖెష్మ్ దీవిపై రెండు క్షిపణులు; ప్రాణనష్టం లేదు"
+   ],
+   "why": "గల్ఫ్‌లో పనిచేస్తున్న తెలుగువారి భద్రత, చమురు ధరలపై ఈ యుద్ధం ప్రభావం చూపుతోంది.",
+   "en": {
+    "h": "Don't delay: Qatar PM urges US and Iran to reach peace deal",
+    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the US and Iran to reach a peace deal soon to end the war. In an interview at Oxford University, he said they cannot wait for the right moment. Iranian media said two missiles hit Qeshm Island in the Strait of Hormuz, with no casualties.",
+    "pts": [
+     "Qatar PM calls for a peace deal",
+     "Warns they cannot wait for the right moment",
+     "Two missiles hit Qeshm Island; no casualties"
+    ],
+    "why": "The war affects the safety of Telugu people working in the Gulf and oil prices.",
+    "cat": "World · West Asia",
+    "statl": "Qatar's call for US–Iran deal"
+   },
+   "hi": {
+    "h": "देर न करें: क़तर के पीएम ने अमेरिका और ईरान से शांति समझौते की अपील की",
+    "p": "क़तर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी ने अमेरिका और ईरान से युद्ध खत्म करने के लिए जल्द शांति समझौता करने की अपील की। ऑक्सफ़ोर्ड यूनिवर्सिटी में एक इंटरव्यू में उन्होंने कहा कि सही समय का इंतज़ार नहीं किया जा सकता। ईरानी मीडिया ने बताया कि होर्मुज़ जलडमरूमध्य में क़ेश्म द्वीप पर दो मिसाइलें गिरीं, कोई हताहत नहीं हुआ।",
+    "pts": [
+     "क़तर के पीएम की शांति समझौते की अपील",
+     "सही समय का इंतज़ार नहीं कर सकते, चेतावनी",
+     "क़ेश्म द्वीप पर दो मिसाइलें; कोई हताहत नहीं"
+    ],
+    "why": "यह युद्ध खाड़ी में काम कर रहे तेलुगु लोगों की सुरक्षा और तेल कीमतों पर असर डालता है।",
+    "cat": "दुनिया · पश्चिम एशिया",
+    "statl": "अमेरिका–ईरान समझौते के लिए क़तर की अपील"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
   {
    "cat": "ఒడిశా · ప్రభుత్వం",
    "col": "--c-gov",

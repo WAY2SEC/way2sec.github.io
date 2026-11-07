@@ -1,8 +1,252 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T12:07:37+05:30",
+ "updated": "2026-11-07T12:39:17+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "78",
+   "statl": "కూటమి గెలిచిన జడ్పీటీసీ స్థానాలు",
+   "h": "పరిషత్ ఫలితాలు: జడ్పీటీసీల్లో కూటమి ముందంజ, 78 స్థానాల్లో గెలుపు",
+   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు 365 కేంద్రాల్లో కొనసాగుతోంది. ఎం9 న్యూస్ తాజా లెక్క ప్రకారం 171 జడ్పీటీసీ స్థానాల ఫలితాల్లో కూటమి 78 గెలిచి 84 చోట్ల ఆధిక్యంలో ఉంది. వైఎస్సార్‌సీపీ ఒక స్థానం గెలిచి 8 చోట్ల ముందంజలో ఉంది. 2,052 ఎంపీటీసీల్లో కూటమికి 1,928, వైఎస్సార్‌సీపీకి 92 దక్కాయి.",
+   "src": "M9 News",
+   "url": "https://www.m9.news/politics/ap-mptc-zptc-election-results-2026-vote-counting/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "జడ్పీటీసీ: కూటమి 78 గెలుపు, 84 ఆధిక్యం",
+    "వైఎస్సార్‌సీపీ: 1 గెలుపు, 8 ఆధిక్యం",
+    "ఎంపీటీసీ: కూటమి 1,928, వైఎస్సార్‌సీపీ 92, ఇతరులు 32"
+   ],
+   "why": "గ్రామీణ స్థానిక సంస్థల్లో ఎవరు పాలిస్తారో ఈ ఫలితాలు నిర్ణయిస్తాయి; లెక్కింపు ఇంకా కొనసాగుతోంది.",
+   "en": {
+    "h": "Parishad results: Alliance ahead in ZPTCs, wins 78 seats",
+    "p": "Counting of MPTC and ZPTC votes is under way at 365 centres in Andhra Pradesh. As per M9 News's latest count, of 171 ZPTC results, the alliance has won 78 and leads in 84. YSRCP has won one seat and leads in 8. Of 2,052 MPTCs, the alliance got 1,928 and YSRCP 92.",
+    "pts": [
+     "ZPTC: Alliance won 78, leading in 84",
+     "YSRCP: won 1, leading in 8",
+     "MPTC: Alliance 1,928, YSRCP 92, others 32"
+    ],
+    "why": "These results decide who runs rural local bodies; counting is still continuing.",
+    "cat": "AP · Local Elections",
+    "statl": "ZPTC seats won by the alliance"
+   },
+   "hi": {
+    "h": "परिषद नतीजे: जेडपीटीसी में गठबंधन आगे, 78 सीटें जीतीं",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी वोटों की गिनती 365 केंद्रों पर जारी है। एम9 न्यूज़ की ताज़ा गिनती के अनुसार 171 जेडपीटीसी नतीजों में गठबंधन ने 78 सीटें जीतीं और 84 पर आगे है। वाईएसआरसीपी ने एक सीट जीती और 8 पर आगे है। 2,052 एमपीटीसी में गठबंधन को 1,928 और वाईएसआरसीपी को 92 मिलीं।",
+    "pts": [
+     "जेडपीटीसी: गठबंधन 78 जीत, 84 पर बढ़त",
+     "वाईएसआरसीपी: 1 जीत, 8 पर बढ़त",
+     "एमपीटीसी: गठबंधन 1,928, वाईएसआरसीपी 92, अन्य 32"
+    ],
+    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्थानीय निकाय कौन चलाएगा; गिनती अभी जारी है।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "गठबंधन द्वारा जीती जेडपीटीसी सीटें"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రైల్వే",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "861",
+   "statl": "బరౌనీ ప్రత్యేక రైలులో ఖాళీ బెర్తులు",
+   "h": "పండుగ ప్రత్యేక రైళ్లలో ఖాళీ బెర్తుల జాబితా విడుదల చేసిన దక్షిణ మధ్య రైల్వే",
+   "p": "పండుగ సీజన్ కోసం తెలంగాణ నుంచి నడిచే ప్రత్యేక రైళ్లలో ఖాళీగా ఉన్న బెర్తుల వివరాలను దక్షిణ మధ్య రైల్వే ప్రకటించింది. చర్లపల్లి–బరౌనీ రైలులో నవంబర్ 15న 861 బెర్తులు ఉన్నాయి. చర్లపల్లి–హజ్రత్ నిజాముద్దీన్, ప్రయాగ్‌రాజ్, సాసారాం, రక్సౌల్ రైళ్లలోనూ సీట్లు ఉన్నాయి. ఈ సంఖ్యలు బుకింగ్‌ను బట్టి మారతాయని, ముందే రిజర్వ్ చేసుకోవాలని సూచించింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/south-central-railway-lists-available-berths-in-special-trains-from-telangana",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "చర్లపల్లి",
+   "pts": [
+    "చర్లపల్లి–బరౌనీ: నవంబర్ 15న 861 బెర్తులు",
+    "చర్లపల్లి–సాసారాం: నవంబర్ 26న 507 బెర్తులు",
+    "సికింద్రాబాద్–సిర్పూర్ కాగజ్‌నగర్ రైళ్లలోనూ ఖాళీలు"
+   ],
+   "why": "పండుగకు బిహార్, యూపీ, ఢిల్లీ వెళ్లే ప్రయాణికులకు టికెట్ దొరికే అవకాశం ఉంది.",
+   "en": {
+    "h": "South Central Railway lists vacant berths in festival special trains",
+    "p": "South Central Railway has announced details of vacant berths in festival-season special trains running from Telangana. The Charlapalli–Barauni train has 861 berths on November 15. Seats are also available on Charlapalli trains to Hazrat Nizamuddin, Prayagraj, Sasaram and Raxaul. It said the numbers change with bookings and advised passengers to reserve in advance.",
+    "pts": [
+     "Charlapalli–Barauni: 861 berths on November 15",
+     "Charlapalli–Sasaram: 507 berths on November 26",
+     "Vacancies also on Secunderabad–Sirpur Kagaznagar trains"
+    ],
+    "why": "Passengers travelling to Bihar, UP and Delhi for the festival may get tickets.",
+    "cat": "Hyderabad · Railways",
+    "statl": "Vacant berths on Barauni special train"
+   },
+   "hi": {
+    "h": "दक्षिण मध्य रेलवे ने त्योहार स्पेशल ट्रेनों में खाली बर्थ की सूची जारी की",
+    "p": "दक्षिण मध्य रेलवे ने तेलंगाना से चलने वाली त्योहार सीज़न की स्पेशल ट्रेनों में खाली बर्थ का ब्योरा जारी किया है। चर्लापल्ली–बरौनी ट्रेन में 15 नवंबर को 861 बर्थ खाली हैं। चर्लापल्ली से हज़रत निज़ामुद्दीन, प्रयागराज, सासाराम और रक्सौल ट्रेनों में भी सीटें हैं। रेलवे ने कहा कि संख्या बुकिंग के साथ बदलती है और पहले से आरक्षण कराने की सलाह दी।",
+    "pts": [
+     "चर्लापल्ली–बरौनी: 15 नवंबर को 861 बर्थ",
+     "चर्लापल्ली–सासाराम: 26 नवंबर को 507 बर्थ",
+     "सिकंदराबाद–सिरपुर कागज़नगर ट्रेनों में भी जगह"
+    ],
+    "why": "त्योहार पर बिहार, यूपी और दिल्ली जाने वाले यात्रियों को टिकट मिल सकता है।",
+    "cat": "हैदराबाद · रेलवे",
+    "statl": "बरौनी स्पेशल ट्रेन में खाली बर्थ"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "భారత్ · ఎలక్ట్రానిక్స్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹7,503 కోట్లు",
+   "statl": "12 ప్రాజెక్టుల అంచనా పెట్టుబడి",
+   "h": "ఎలక్ట్రానిక్స్ విడిభాగాల పథకం కింద మరో 12 ప్రాజెక్టులకు కేంద్రం ఆమోదం",
+   "p": "ఎలక్ట్రానిక్స్ కాంపోనెంట్స్ మాన్యుఫ్యాక్చరింగ్ స్కీమ్ (ఈసీఎంఎస్) కింద ఏడు రాష్ట్రాల్లో 12 కొత్త ప్రాజెక్టులకు కేంద్ర ఐటీ శాఖ ఆమోదం తెలిపింది. వీటిలో ₹7,503 కోట్ల పెట్టుబడి, 7,127 ప్రత్యక్ష ఉద్యోగాలు వస్తాయని అంచనా. గుజరాత్, కర్ణాటక, తమిళనాడు, మహారాష్ట్ర, యూపీ, మధ్యప్రదేశ్, పంజాబ్‌లలో ఇవి ఏర్పాటవుతాయి. మంత్రి అశ్విని వైష్ణవ్ ఢిల్లీలో ప్రకటించారు.",
+   "src": "Indian Masterminds",
+   "url": "https://indianmasterminds.com/news/government/ecms-approves-12-electronics-projects-248980/",
+   "sec": [
+    "india",
+    "business",
+    "jobs"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "12 ప్రాజెక్టులు, ₹7,503 కోట్ల పెట్టుబడి",
+    "7,127 ప్రత్యక్ష ఉద్యోగాలు అంచనా",
+    "ఇప్పటివరకు మొత్తం 118 దరఖాస్తులకు ఆమోదం"
+   ],
+   "why": "దేశంలో ఎలక్ట్రానిక్స్ తయారీ, ఉద్యోగాల కోసం చూస్తున్న యువతకు ఇది సంబంధించిన వార్త.",
+   "en": {
+    "h": "Centre approves 12 more projects under electronics components scheme",
+    "p": "The Union IT ministry has approved 12 new projects in seven states under the Electronics Components Manufacturing Scheme (ECMS). They are expected to bring an investment of ₹7,503 crore and 7,127 direct jobs. They will come up in Gujarat, Karnataka, Tamil Nadu, Maharashtra, UP, Madhya Pradesh and Punjab. Minister Ashwini Vaishnaw announced it in Delhi.",
+    "pts": [
+     "12 projects, ₹7,503 crore investment",
+     "7,127 direct jobs expected",
+     "118 applications approved so far in total"
+    ],
+    "why": "This matters to young people looking for electronics manufacturing jobs in the country.",
+    "cat": "India · Electronics",
+    "statl": "Projected investment in 12 projects"
+   },
+   "hi": {
+    "h": "इलेक्ट्रॉनिक्स कंपोनेंट योजना के तहत केंद्र ने 12 और परियोजनाओं को मंज़ूरी दी",
+    "p": "केंद्रीय आईटी मंत्रालय ने इलेक्ट्रॉनिक्स कंपोनेंट्स मैन्युफैक्चरिंग स्कीम (ईसीएमएस) के तहत सात राज्यों में 12 नई परियोजनाओं को मंज़ूरी दी है। इनसे ₹7,503 करोड़ का निवेश और 7,127 प्रत्यक्ष नौकरियां आने की उम्मीद है। ये गुजरात, कर्नाटक, तमिलनाडु, महाराष्ट्र, यूपी, मध्य प्रदेश और पंजाब में लगेंगी। मंत्री अश्विनी वैष्णव ने दिल्ली में इसकी घोषणा की।",
+    "pts": [
+     "12 परियोजनाएं, ₹7,503 करोड़ निवेश",
+     "7,127 प्रत्यक्ष नौकरियों की उम्मीद",
+     "अब तक कुल 118 आवेदनों को मंज़ूरी"
+    ],
+    "why": "यह देश में इलेक्ट्रॉनिक्स निर्माण की नौकरियां ढूंढ रहे युवाओं से जुड़ी खबर है।",
+    "cat": "भारत · इलेक्ट्रॉनिक्स",
+    "statl": "12 परियोजनाओं में अनुमानित निवेश"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "కేరళ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "ఎల్లో అలర్ట్",
+   "statl": "కేరళలో ఈ నెల 8 వరకు భారీ వర్షాల హెచ్చరిక",
+   "h": "కేరళలో నవంబర్ 8 వరకు భారీ వర్షాలు; పలు జిల్లాలకు ఎల్లో అలర్ట్",
+   "p": "కేరళలో నవంబర్ 6 నుంచి 8 వరకు అక్కడక్కడ భారీ వర్షాలు కురుస్తాయని భారత వాతావరణ శాఖ తెలిపింది. ఉరుములు, గంటకు 30–40 కి.మీ. వేగంతో గాలులు వీయొచ్చు. నేడు పతనంతిట్ట, కొట్టాయం; రేపు అలప్పుజ, కొట్టాయం, ఎర్నాకులం జిల్లాలకు ఎల్లో అలర్ట్ జారీ చేశారు. తెలంగాణ, కోస్తాంధ్రపై ఉన్న వాయుగుండం దీనికి ఒక కారణం.",
+   "src": "Malayalam Daily News",
+   "url": "https://malayalamdailynews.com/english/668127",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "KL",
+   "place": "st-KL",
+   "pts": [
+    "నవంబర్ 6–8 అక్కడక్కడ భారీ వర్షాలు",
+    "నేడు పతనంతిట్ట, కొట్టాయంకు ఎల్లో అలర్ట్",
+    "రేపు అలప్పుజ, కొట్టాయం, ఎర్నాకులంకు అలర్ట్"
+   ],
+   "why": "కొచ్చి సహా కేరళలో ఉంటున్న తెలుగువారు, ప్రయాణికులు జాగ్రత్తగా ఉండాలి.",
+   "en": {
+    "h": "Heavy rain in Kerala till November 8; yellow alert for several districts",
+    "p": "The India Meteorological Department said isolated heavy rain will occur in Kerala from November 6 to 8. Thunderstorms and winds of 30–40 km/h are possible. Yellow alerts were issued for Pathanamthitta and Kottayam today, and Alappuzha, Kottayam and Ernakulam tomorrow. A deep depression over Telangana and coastal Andhra is one of the reasons.",
+    "pts": [
+     "Isolated heavy rain from November 6–8",
+     "Yellow alert today for Pathanamthitta, Kottayam",
+     "Tomorrow alert for Alappuzha, Kottayam, Ernakulam"
+    ],
+    "why": "Telugu people living in Kerala, including Kochi, and travellers should be careful.",
+    "cat": "Kerala · Weather",
+    "statl": "Heavy rain warning in Kerala till the 8th"
+   },
+   "hi": {
+    "h": "केरल में 8 नवंबर तक भारी बारिश; कई जिलों में येलो अलर्ट",
+    "p": "भारत मौसम विज्ञान विभाग ने कहा कि केरल में 6 से 8 नवंबर तक कहीं-कहीं भारी बारिश होगी। गरज के साथ 30–40 किमी प्रति घंटे की हवाएं चल सकती हैं। आज पथनमथिट्टा और कोट्टायम, कल अलप्पुझा, कोट्टायम और एर्नाकुलम के लिए येलो अलर्ट जारी किया गया है। तेलंगाना और तटीय आंध्र पर बना गहरा दबाव इसका एक कारण है।",
+    "pts": [
+     "6–8 नवंबर कहीं-कहीं भारी बारिश",
+     "आज पथनमथिट्टा, कोट्टायम में येलो अलर्ट",
+     "कल अलप्पुझा, कोट्टायम, एर्नाकुलम में अलर्ट"
+    ],
+    "why": "कोच्चि समेत केरल में रह रहे तेलुगु लोग और यात्री सावधान रहें।",
+    "cat": "केरल · मौसम",
+    "statl": "केरल में 8 तारीख तक भारी बारिश की चेतावनी"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ప్రపంచం · పశ్చిమాసియా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "శాంతి",
+   "statl": "అమెరికా–ఇరాన్ ఒప్పందానికి ఖతార్ పిలుపు",
+   "h": "ఆలస్యం వద్దు: అమెరికా, ఇరాన్ శాంతి ఒప్పందం చేసుకోవాలని ఖతార్ ప్రధాని పిలుపు",
+   "p": "యుద్ధాన్ని ముగించేందుకు అమెరికా, ఇరాన్ వెంటనే శాంతి ఒప్పందం చేసుకోవాలని ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మొహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ కోరారు. సరైన సమయం కోసం ఎదురుచూడటం సాధ్యం కాదని ఆక్స్‌ఫర్డ్ యూనివర్సిటీలో ఇంటర్వ్యూలో అన్నారు. హార్ముజ్ జలసంధిలోని ఖెష్మ్ దీవిపై రెండు క్షిపణులు పడ్డాయని, ప్రాణనష్టం లేదని ఇరాన్ మీడియా తెలిపింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "శాంతి ఒప్పందానికి ఖతార్ ప్రధాని పిలుపు",
+    "సరైన సమయం కోసం ఆగలేమని హెచ్చరిక",
+    "ఖెష్మ్ దీవిపై రెండు క్షిపణులు; ప్రాణనష్టం లేదు"
+   ],
+   "why": "గల్ఫ్‌లో పనిచేస్తున్న తెలుగువారి భద్రత, చమురు ధరలపై ఈ యుద్ధం ప్రభావం చూపుతోంది.",
+   "en": {
+    "h": "Don't delay: Qatar PM urges US and Iran to reach peace deal",
+    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the US and Iran to reach a peace deal soon to end the war. In an interview at Oxford University, he said they cannot wait for the right moment. Iranian media said two missiles hit Qeshm Island in the Strait of Hormuz, with no casualties.",
+    "pts": [
+     "Qatar PM calls for a peace deal",
+     "Warns they cannot wait for the right moment",
+     "Two missiles hit Qeshm Island; no casualties"
+    ],
+    "why": "The war affects the safety of Telugu people working in the Gulf and oil prices.",
+    "cat": "World · West Asia",
+    "statl": "Qatar's call for US–Iran deal"
+   },
+   "hi": {
+    "h": "देर न करें: क़तर के पीएम ने अमेरिका और ईरान से शांति समझौते की अपील की",
+    "p": "क़तर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी ने अमेरिका और ईरान से युद्ध खत्म करने के लिए जल्द शांति समझौता करने की अपील की। ऑक्सफ़ोर्ड यूनिवर्सिटी में एक इंटरव्यू में उन्होंने कहा कि सही समय का इंतज़ार नहीं किया जा सकता। ईरानी मीडिया ने बताया कि होर्मुज़ जलडमरूमध्य में क़ेश्म द्वीप पर दो मिसाइलें गिरीं, कोई हताहत नहीं हुआ।",
+    "pts": [
+     "क़तर के पीएम की शांति समझौते की अपील",
+     "सही समय का इंतज़ार नहीं कर सकते, चेतावनी",
+     "क़ेश्म द्वीप पर दो मिसाइलें; कोई हताहत नहीं"
+    ],
+    "why": "यह युद्ध खाड़ी में काम कर रहे तेलुगु लोगों की सुरक्षा और तेल कीमतों पर असर डालता है।",
+    "cat": "दुनिया · पश्चिम एशिया",
+    "statl": "अमेरिका–ईरान समझौते के लिए क़तर की अपील"
+   },
+   "d": "07.11.2026",
+   "t": "12:35"
+  },
   {
    "cat": "ఒడిశా · ప్రభుత్వం",
    "col": "--c-gov",
@@ -1705,249 +1949,6 @@
     "cat": "तेलंगाना · सूखा",
     "statl": "सूखाग्रस्त घोषित मंडल"
    }
-  },
-  {
-   "cat": "హైదరాబాద్ · వైద్య విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "₹29,792",
-   "statl": "ఎఫ్‌ఎంజీ ఇంటర్న్‌లు కోరుతున్న స్టైపెండ్",
-   "h": "స్టైపెండ్ సమానత్వం కోసం విదేశీ వైద్య గ్రాడ్యుయేట్ల ఆందోళన ఉధృతం",
-   "p": "ఇంటర్న్‌షిప్ స్టైపెండ్ వ్యత్యాసంపై తెలంగాణలోని విదేశీ వైద్య గ్రాడ్యుయేట్లు (ఎఫ్‌ఎంజీ) ఆందోళన తీవ్రం చేశారు. కోఠిలోని తెలంగాణ మెడికల్ కౌన్సిల్ కార్యాలయం వద్ద రిలే నిరాహార దీక్ష చేపట్టారు; సమ్మె నెల రోజులు పూర్తయింది. ఎంబీబీఎస్ ఇంటర్న్‌లకు ఇచ్చే ₹29,792 తమకూ ఇవ్వాలని, ప్రస్తుతం ₹5,000 మాత్రమే అందుతోందని వారు తెలిపారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-foreign-medical-graduates-intensify-stir-over-stipends-3570684/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "కోఠి",
-   "pts": [
-    "జనవరి 2026 నుంచి బకాయిలు చెల్లించాలని డిమాండ్",
-    "ఇంటర్న్‌షిప్ పొడిగింపు, శిక్షాత్మక చర్యలు వద్దని కోరిక",
-    "నిరసనకారులను పోలీసులు అదుపులోకి తీసుకున్న వీడియోలు"
-   ],
-   "why": "విదేశాల్లో ఎంబీబీఎస్ చదివి తెలంగాణ ఆసుపత్రుల్లో ఇంటర్న్‌షిప్ చేస్తున్న విద్యార్థులపై ఇది నేరుగా ప్రభావం చూపుతుంది.",
-   "d": "06.11.2026",
-   "t": "21:05",
-   "en": {
-    "h": "Foreign medical graduates intensify stir for stipend parity in Hyderabad",
-    "p": "Foreign medical graduates (FMGs) in Telangana intensified their protest over internship stipend disparity. They held a relay hunger strike at the Telangana State Medical Council office in Koti; the strike has completed a month. They want the Rs 29,792 paid to MBBS interns, saying they currently receive only Rs 5,000.",
-    "pts": [
-     "Demand clearance of arrears since January 2026",
-     "Seek no punitive action or internship extensions",
-     "Videos showed police detaining protesters"
-    ],
-    "why": "It directly affects students who studied MBBS abroad and are interning in Telangana hospitals.",
-    "cat": "Hyderabad · Medical education",
-    "statl": "Stipend FMG interns are seeking"
-   },
-   "hi": {
-    "h": "हैदराबाद में स्टाइपेंड समानता के लिए विदेशी मेडिकल ग्रेजुएट्स का आंदोलन तेज",
-    "p": "तेलंगाना में विदेशी मेडिकल ग्रेजुएट्स (एफएमजी) ने इंटर्नशिप स्टाइपेंड में अंतर को लेकर आंदोलन तेज कर दिया है। उन्होंने कोटी स्थित तेलंगाना स्टेट मेडिकल काउंसिल कार्यालय पर रिले भूख हड़ताल की; हड़ताल को एक महीना पूरा हो गया है। वे एमबीबीएस इंटर्न्स को मिलने वाले ₹29,792 की मांग कर रहे हैं और कहते हैं कि अभी उन्हें केवल ₹5,000 मिलते हैं।",
-    "pts": [
-     "जनवरी 2026 से बकाया भुगतान की मांग",
-     "दंडात्मक कार्रवाई या इंटर्नशिप बढ़ाने पर रोक की मांग",
-     "वीडियो में पुलिस प्रदर्शनकारियों को हिरासत में लेती दिखी"
-    ],
-    "why": "इसका सीधा असर विदेश से एमबीबीएस कर तेलंगाना के अस्पतालों में इंटर्नशिप कर रहे छात्रों पर पड़ता है।",
-    "cat": "हैदराबाद · चिकित्सा शिक्षा",
-    "statl": "एफएमजी इंटर्न्स की मांगा गया स्टाइपेंड"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · పశ్చిమాసియా",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "ఫోన్ కాల్",
-   "statl": "ట్రంప్–ఖతార్ ఎమిర్ చర్చలు",
-   "h": "ఉద్రిక్తతల తగ్గింపుపై ఖతార్ ఎమిర్‌తో ట్రంప్ ఫోన్ చర్చ",
-   "p": "ఇరాన్‌పై అమెరికా మళ్లీ సైనిక చర్య తీసుకోవచ్చనే ఆందోళనల నడుమ, పశ్చిమాసియా ఉద్రిక్తతల తగ్గింపుపై అమెరికా అధ్యక్షుడు ట్రంప్ ఖతార్ ఎమిర్ షేక్ తమీమ్ బిన్ హమద్ అల్ థానీతో ఫోన్‌లో మాట్లాడారు. సమగ్ర ఒప్పందం కోసం ఖతార్ మధ్యవర్తిత్వ ప్రయత్నాలపై చర్చ జరిగిందని ఖతార్ ప్రకటించింది. చర్చలు, సముద్ర రవాణా స్వేచ్ఛ, ఇంధన సరఫరా భద్రత అవసరమని ఎమిర్ నొక్కి చెప్పారు.",
-   "src": "AP",
-   "url": "https://www.wdbo.com/news/world/trump-discusses/PMKAHNYEDE5I3DGBV3NYC4FNUM/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అమెరికా–ఇరాన్ మధ్య ఖతార్ మధ్యవర్తిత్వం",
-    "ఇరాన్ విదేశాంగ మంత్రి అరాఘ్చీతో ఈజిప్ట్ మంత్రి ఫోన్",
-    "రాజీకి సిద్ధంగా ఉండాలని ఇరాన్‌కు ఈజిప్ట్ సూచన"
-   ],
-   "why": "గల్ఫ్‌లో పనిచేసే తెలుగువారి భద్రత, చమురు ధరలు ఈ ఉద్రిక్తతలపై ఆధారపడి ఉన్నాయి.",
-   "d": "06.11.2026",
-   "t": "21:05",
-   "en": {
-    "h": "Trump speaks to Qatar's emir on easing West Asia tensions",
-    "p": "Amid fears of renewed US military action against Iran, US President Trump spoke by phone with Qatar's Emir Sheikh Tamim bin Hamad Al Thani on easing West Asia tensions. Qatar said the call discussed its mediation efforts towards a comprehensive agreement. The emir stressed dialogue, freedom of maritime navigation and energy supply security.",
-    "pts": [
-     "Qatar is mediating between the US and Iran",
-     "Egypt's minister phoned Iran's foreign minister Araghchi",
-     "Egypt urged Iran to show flexibility and compromise"
-    ],
-    "why": "The safety of Telugu people working in the Gulf and oil prices depend on these tensions.",
-    "cat": "World · West Asia",
-    "statl": "Trump–Qatar emir talks"
-   },
-   "hi": {
-    "h": "पश्चिम एशिया में तनाव घटाने पर ट्रंप ने कतर के अमीर से फोन पर बात की",
-    "p": "ईरान के खिलाफ अमेरिका की फिर से सैन्य कार्रवाई की आशंकाओं के बीच, अमेरिकी राष्ट्रपति ट्रंप ने पश्चिम एशिया में तनाव घटाने पर कतर के अमीर शेख तमीम बिन हमद अल थानी से फोन पर बात की। कतर ने बताया कि बातचीत में व्यापक समझौते के लिए उसकी मध्यस्थता पर चर्चा हुई। अमीर ने संवाद, समुद्री आवाजाही की स्वतंत्रता और ऊर्जा आपूर्ति सुरक्षा पर ज़ोर दिया।",
-    "pts": [
-     "कतर अमेरिका और ईरान के बीच मध्यस्थता कर रहा है",
-     "मिस्र के मंत्री ने ईरानी विदेश मंत्री अराघची को फोन किया",
-     "मिस्र ने ईरान से लचीलापन और समझौते की अपील की"
-    ],
-    "why": "खाड़ी में काम करने वाले तेलुगु लोगों की सुरक्षा और तेल की कीमतें इस तनाव पर निर्भर हैं।",
-    "cat": "दुनिया · पश्चिम एशिया",
-    "statl": "ट्रंप–कतर अमीर बातचीत"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · ప్రయాణం",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "₹4,000",
-   "statl": "నెలవారీ కామన్ పాస్ కొత్త ధర",
-   "h": "మెట్రో–ఆర్టీసీ కామన్ పాస్ ధరలు భారీగా తగ్గింపు; నవంబర్ 8 నుంచి అమలు",
-   "p": "హైదరాబాద్ మెట్రో, టీజీఎస్ఆర్టీసీ ఉమ్మడి పాస్ ధరలను నవంబర్ 8 నుంచి తగ్గిస్తున్నట్లు రవాణా మంత్రి పొన్నం ప్రభాకర్ ప్రకటించారు. రోజువారీ పాస్ ₹400 నుంచి ₹275కి, నెలవారీ పాస్ ₹8,500 నుంచి ₹4,000కి తగ్గింది. రోజు పాస్‌తో నాలుగు ప్రయాణాలు, నెల పాస్‌తో 50 రౌండ్ ట్రిప్పులు చేయవచ్చు. ప్రజా రవాణాను అందుబాటులోకి తేవడమే లక్ష్యమని ప్రభుత్వం తెలిపింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-to-cut-hyderabad-metro-rtc-pass-prices-from-november-8-3570531/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "రోజువారీ పాస్: ₹400 నుంచి ₹275 (మెట్రో ₹200, బస్ ₹75)",
-    "నెలవారీ పాస్: ₹8,500 నుంచి ₹4,000 (మెట్రో ₹3,000, బస్ ₹1,000)",
-    "నెల పాస్‌దారులకు ₹4,500, రోజు పాస్‌దారులకు ₹125 ఆదా"
-   ],
-   "why": "మెట్రో, సిటీ బస్సుల్లో రోజూ ప్రయాణించే హైదరాబాద్ ఉద్యోగులు, విద్యార్థులకు ఖర్చు తగ్గుతుంది.",
-   "en": {
-    "h": "Hyderabad Metro–RTC common pass fares cut sharply from November 8",
-    "p": "Transport Minister Ponnam Prabhakar announced that fares of the joint Hyderabad Metro and TGSRTC pass will be reduced from November 8. The daily pass is cut from Rs 400 to Rs 275 and the monthly pass from Rs 8,500 to Rs 4,000. The daily pass allows four journeys and the monthly pass 50 round trips. The government said the aim is to make public transport affordable.",
-    "pts": [
-     "Daily pass: Rs 400 to Rs 275 (Metro Rs 200, bus Rs 75)",
-     "Monthly pass: Rs 8,500 to Rs 4,000 (Metro Rs 3,000, bus Rs 1,000)",
-     "Monthly users save Rs 4,500, daily users Rs 125"
-    ],
-    "why": "Hyderabad employees and students who use Metro and city buses daily will spend less.",
-    "cat": "Hyderabad · Transport",
-    "statl": "New monthly common pass fare"
-   },
-   "hi": {
-    "h": "हैदराबाद मेट्रो–आरटीसी कॉमन पास के दाम घटे; 8 नवंबर से लागू",
-    "p": "परिवहन मंत्री पोन्नम प्रभाकर ने घोषणा की कि हैदराबाद मेट्रो और टीजीएसआरटीसी के संयुक्त पास के दाम 8 नवंबर से घटाए जाएंगे। दैनिक पास ₹400 से ₹275 और मासिक पास ₹8,500 से ₹4,000 हो गया है। दैनिक पास से चार यात्राएं और मासिक पास से 50 राउंड ट्रिप की जा सकती हैं। सरकार ने कहा कि लक्ष्य सार्वजनिक परिवहन को सस्ता बनाना है।",
-    "pts": [
-     "दैनिक पास: ₹400 से ₹275 (मेट्रो ₹200, बस ₹75)",
-     "मासिक पास: ₹8,500 से ₹4,000 (मेट्रो ₹3,000, बस ₹1,000)",
-     "मासिक पास धारकों को ₹4,500, दैनिक को ₹125 की बचत"
-    ],
-    "why": "रोज़ मेट्रो और सिटी बस से सफर करने वाले हैदराबाद के कर्मचारियों और छात्रों का खर्च घटेगा।",
-    "cat": "हैदराबाद · परिवहन",
-    "statl": "मासिक कॉमन पास का नया दाम"
-   },
-   "d": "06.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "అస్సాం · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "35–90%",
-   "statl": "క్షతగాత్రులకు కాలిన గాయాలు",
-   "h": "అస్సాంలో ఆయిల్ ఇండియా కేంద్రంలో పేలుడు, మంటలు; ఒకరు మృతి",
-   "p": "అస్సాంలోని దిబ్రూగఢ్ జిల్లా టెంగాఖాట్‌లో ఆయిల్ ఇండియా లిమిటెడ్ ఇంటర్మీడియట్ ట్యాంక్ ఫామ్‌లో శుక్రవారం ఉదయం నిర్వహణ పనుల సమయంలో పేలుడుతో మంటలు చెలరేగాయి. ఒకరు మృతి చెందగా, ఆరుగురు తీవ్రంగా గాయపడ్డారు. వారంతా కాంట్రాక్టు సంస్థ ఉద్యోగులు. మంటలు అదుపులోకి వచ్చాయని, ప్రజలను ఖాళీ చేయించాల్సిన అవసరం లేదని జిల్లా అధికారులు తెలిపారు.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/one-killed-six-critically-injured-in-fire-at-oil-india-facility-in-assam/3092611/",
-   "sec": [
-    "india"
-   ],
-   "st": "AS",
-   "place": "IN",
-   "loc": "దిబ్రూగఢ్",
-   "pts": [
-    "ఉదయం 9.05కి నిర్వహణ పనుల్లో పేలుడు, మంటలు",
-    "గాయపడిన ఆరుగురికి దిబ్రూగఢ్ ఏఎంసీహెచ్‌లో చికిత్స",
-    "ప్రమాద కారణంపై జిల్లా యంత్రాంగం దర్యాప్తు"
-   ],
-   "why": "చమురు కేంద్రాల్లో పనిచేసే కార్మికుల భద్రతపై ఈ ప్రమాదం మళ్లీ ప్రశ్నలు లేవనెత్తుతోంది.",
-   "en": {
-    "h": "Explosion and fire at Oil India facility in Assam; one dead",
-    "p": "An explosion triggered a fire during maintenance work at Oil India Limited's Intermediate Tank Farm in Tengakhat, Assam's Dibrugarh district, on Friday morning. One person died and six were critically injured. All were employees of a contractor firm. District officials said the fire was brought under control and there was no need to evacuate people.",
-    "pts": [
-     "Explosion and fire during maintenance at 9.05 am",
-     "Six injured being treated at AMCH, Dibrugarh",
-     "District administration to probe the cause"
-    ],
-    "why": "The accident again raises questions about the safety of workers at oil facilities.",
-    "cat": "Assam · Accident",
-    "statl": "Burns suffered by the injured"
-   },
-   "hi": {
-    "h": "असम में ऑयल इंडिया केंद्र में विस्फोट और आग; एक की मौत",
-    "p": "असम के डिब्रूगढ़ जिले के टेंगाखाट में ऑयल इंडिया लिमिटेड के इंटरमीडिएट टैंक फार्म में शुक्रवार सुबह रखरखाव कार्य के दौरान विस्फोट से आग लग गई। एक व्यक्ति की मौत हो गई और छह गंभीर रूप से घायल हुए। सभी एक ठेका कंपनी के कर्मचारी थे। जिला अधिकारियों ने कहा कि आग पर काबू पा लिया गया है और लोगों को निकालने की जरूरत नहीं है।",
-    "pts": [
-     "सुबह 9.05 बजे रखरखाव के दौरान विस्फोट और आग",
-     "छह घायलों का डिब्रूगढ़ के एएमसीएच में इलाज",
-     "जिला प्रशासन कारण की जांच करेगा"
-    ],
-    "why": "यह हादसा तेल केंद्रों में काम करने वाले मजदूरों की सुरक्षा पर फिर सवाल उठाता है।",
-    "cat": "असम · हादसा",
-    "statl": "घायलों को झुलसने के घाव"
-   },
-   "d": "06.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఆహార భద్రత",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "TG SAFE",
-   "statl": "భద్రాద్రిలో ఆహార తనిఖీలు",
-   "h": "భద్రాద్రి కొత్తగూడెంలో ఆహార తనిఖీలు; పలు హోటళ్లు, టిఫిన్ సెంటర్లు మూసివేత",
-   "p": "భద్రాద్రి కొత్తగూడెం జిల్లాలో తెలంగాణ ఆహార భద్రత సంస్థ (టీజీ సేఫ్) అధికారులు శుక్రవారం తనిఖీలు చేసి పలు హోటళ్లు, టిఫిన్ సెంటర్లను మూసివేయించారు. మరికొన్నింటికి షోకాజ్, మెరుగుదల నోటీసులు ఇచ్చారు. అపరిశుభ్ర వంటగదులు, బొద్దింకలు, తయారీ తేదీ లేని ఆహార పదార్థాలు గుర్తించారు. దాడులు కొనసాగుతున్నాయి.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/several-tiffin-centres-closed-down-after-raids-in-telangana-3570729/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "pts": [
-    "అపరిశుభ్ర వంటగదులు, బొద్దింకలు గుర్తింపు",
-    "తయారీ తేదీ లేని ఆహార పదార్థాలు",
-    "పెస్ట్ కంట్రోల్, ఆరోగ్య రికార్డులు లేవు"
-   ],
-   "why": "బయట తినే ప్రజల ఆరోగ్య రక్షణకు ఈ తనిఖీలు ముఖ్యం.",
-   "en": {
-    "h": "Food safety raids in Bhadradri Kothagudem; several hotels, tiffin centres shut",
-    "p": "Officials of the Telangana Standards Authority for Food and Essential Drugs (TG SAFE) inspected eateries in Bhadradri Kothagudem district on Friday and ordered several hotels and tiffin centres closed. Show cause and improvement notices were issued to others. They found unclean kitchens, cockroaches and food items without a manufacturing date. The raids are continuing.",
-    "pts": [
-     "Unclean kitchens and cockroaches found",
-     "Food items without manufacturing date",
-     "No pest control or health records"
-    ],
-    "why": "These inspections matter for the health of people who eat outside.",
-    "cat": "Telangana · Food safety",
-    "statl": "Food inspections in Bhadradri"
-   },
-   "hi": {
-    "h": "भद्राद्री कोठागुडेम में खाद्य जांच; कई होटल, टिफिन सेंटर बंद",
-    "p": "तेलंगाना खाद्य सुरक्षा प्राधिकरण (टीजी सेफ) के अधिकारियों ने शुक्रवार को भद्राद्री कोठागुडेम जिले में जांच कर कई होटल और टिफिन सेंटर बंद कराए। अन्य को कारण बताओ और सुधार नोटिस दिए गए। गंदी रसोई, कॉकरोच और बिना निर्माण तिथि वाले खाद्य पदार्थ मिले। छापे जारी हैं।",
-    "pts": [
-     "गंदी रसोई और कॉकरोच मिले",
-     "बिना निर्माण तिथि वाले खाद्य पदार्थ",
-     "पेस्ट कंट्रोल और स्वास्थ्य रिकॉर्ड नहीं"
-    ],
-    "why": "बाहर खाना खाने वाले लोगों के स्वास्थ्य के लिए ये जांच अहम हैं।",
-    "cat": "तेलंगाना · खाद्य सुरक्षा",
-    "statl": "भद्राद्री में खाद्य जांच"
-   },
-   "d": "06.11.2026",
-   "t": "20:35"
   }
  ]
 }
