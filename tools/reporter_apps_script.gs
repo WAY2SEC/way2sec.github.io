@@ -3,6 +3,7 @@
  * Reporters send news from https://way2sec.news/reporter/ ; the editor approves at https://way2sec.news/editor/ ;
  * the Way2Sec publishing task collects approved stories and puts them live.
  *
+ * Applications from https://way2sec.news/reporter/join.html land in the "Applications" sheet; to accept someone, give them a PIN in "Reporters".
  * SETUP: Extensions → Apps Script → paste this file → set the two keys below → Run "setup" once → Deploy → New deployment
  *        → type "Web app" → Execute as: Me → Who has access: Anyone → Deploy → copy the Web app URL.
  * Keep EDITOR_KEY and BOT_KEY secret (do not put them on the website).
@@ -18,6 +19,8 @@ function setup() {
   if (!r) { r = ss.insertSheet('Reporters'); r.appendRow(['pin','name','phone','district','place','active']); r.appendRow(['1001','Sample Reporter','','yadadri','ఆలేరు','yes']); }
   let s = ss.getSheetByName('Submissions');
   if (!s) { s = ss.insertSheet('Submissions'); s.appendRow(COLS); s.setFrozenRows(1); }
+  let a = ss.getSheetByName('Applications');
+  if (!a) { a = ss.insertSheet('Applications'); a.appendRow(['time','name','phone','age','district','mandal','village','about','status','pin']); a.setFrozenRows(1); }
   folder_();
 }
 
@@ -42,6 +45,16 @@ function doPost(e) {
   let b = {}; try { b = JSON.parse(e.postData.contents); } catch (x) { return out_({ ok: false, error: 'bad request' }); }
   const lock = LockService.getScriptLock(); lock.waitLock(20000);
   try {
+    if (b.action === 'join') {   // new reporter application from https://way2sec.news/reporter/join.html
+      const phone = String(b.phone || '').replace(/\D/g, '');
+      if (clean_(b.name, 60).length < 3 || !/^[6-9]\d{9}$/.test(phone) || Number(b.age) < 18) return out_({ ok: false, error: 'details' });
+      let a = sheet_('Applications');
+      if (!a) { a = SpreadsheetApp.getActive().insertSheet('Applications'); a.appendRow(['time','name','phone','age','district','mandal','village','about','status','pin']); }
+      const dup = a.getDataRange().getValues().some(r => String(r[2]) === phone);
+      if (!dup) a.appendRow([Utilities.formatDate(new Date(), 'Asia/Kolkata', 'dd.MM.yyyy HH:mm'), clean_(b.name, 60), "'" + phone, Number(b.age) || '',
+        clean_(b.district, 40), clean_(b.mandal, 40), clean_(b.village, 60), clean_(b.about, 400), 'new', '']);
+      return out_({ ok: true });
+    }
     if (b.action === 'submit') {
       const rep = reporter_(b.pin); if (!rep) return out_({ ok: false, error: 'pin' });
       const text = clean_(b.text, 3000); if (text.length < 30) return out_({ ok: false, error: 'short' });
