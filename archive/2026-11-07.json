@@ -1,8 +1,202 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 41,
+ "count": 45,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "98%",
+   "statl": "పరిష్కారమైన ఎస్‌ఐఆర్ నోటీసులు",
+   "h": "ఎస్‌ఐఆర్: తెలంగాణలో 91 లక్షల కేసులు పరిష్కారం, 1.3 లక్షలు పెండింగ్",
+   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్‌ఐఆర్)లో తెలంగాణలో జారీ చేసిన 92.8 లక్షల నోటీసుల్లో దాదాపు 98 శాతం పరిష్కారమయ్యాయి. సుమారు 91 లక్షల కేసులు తుది జాబితాలో చేర్చేందుకు క్లియర్ కాగా, 1.3 లక్షలు ఇంకా పెండింగ్‌లో ఉన్నాయి. 54,418 మందిని అనర్హులుగా గుర్తించారు. పేరు మళ్లీ చేర్చుకునేందుకు ఫారం-6ను నవంబర్ 21 వరకు స్వీకరిస్తారు.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/telangana-sir-91-lakh-cases-cleared-1-3-lakh-pending/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "92.8 లక్షల నోటీసుల్లో 98% పరిష్కారం",
+    "54,418 మంది ఓటర్లు అనర్హులుగా గుర్తింపు",
+    "ఫారం-6 గడువు నవంబర్ 21; హెల్ప్‌లైన్ 1950"
+   ],
+   "why": "జాబితాలో పేరు లేని ఓటర్లు గడువులోగా ఫారం-6 ఇచ్చి తమ ఓటు హక్కును కాపాడుకోవచ్చు.",
+   "en": {
+    "h": "SIR: 91 lakh cases cleared in Telangana, 1.3 lakh pending",
+    "p": "In the Special Intensive Revision (SIR) of electoral rolls, nearly 98 per cent of the 92.8 lakh notices issued in Telangana have been resolved. About 91 lakh cases have been cleared for inclusion in the final rolls, while 1.3 lakh are still pending. 54,418 people were found ineligible. Form 6 for re-inclusion will be accepted until November 21.",
+    "pts": [
+     "98% of 92.8 lakh notices resolved",
+     "54,418 electors found ineligible",
+     "Form 6 deadline November 21; helpline 1950"
+    ],
+    "why": "Voters missing from the rolls can protect their right to vote by filing Form 6 before the deadline.",
+    "cat": "Telangana · Electoral Rolls",
+    "statl": "SIR notices resolved"
+   },
+   "hi": {
+    "h": "एसआईआर: तेलंगाना में 91 लाख मामले निपटे, 1.3 लाख लंबित",
+    "p": "मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) में तेलंगाना में जारी 92.8 लाख नोटिसों में से लगभग 98 प्रतिशत का निपटारा हो गया है। करीब 91 लाख मामलों को अंतिम सूची में शामिल करने के लिए मंजूरी मिली है, जबकि 1.3 लाख अभी लंबित हैं। 54,418 लोगों को अयोग्य पाया गया। नाम दोबारा जुड़वाने के लिए फॉर्म-6 21 नवंबर तक स्वीकार किया जाएगा।",
+    "pts": [
+     "92.8 लाख नोटिसों में से 98% का निपटारा",
+     "54,418 मतदाता अयोग्य पाए गए",
+     "फॉर्म-6 की अंतिम तिथि 21 नवंबर; हेल्पलाइन 1950"
+    ],
+    "why": "सूची से छूटे मतदाता समय सीमा से पहले फॉर्म-6 भरकर अपना वोट का अधिकार बचा सकते हैं।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "निपटाए गए एसआईआर नोटिस"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "భారత్ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "9,839",
+   "statl": "దేశంలో కొత్తగా పెరిగిన పీజీ వైద్య సీట్లు",
+   "h": "దేశంలో 9,839 పీజీ వైద్య సీట్లు పెంపు; తెలంగాణకు 696, ఏపీకి 408",
+   "p": "జాతీయ వైద్య కమిషన్ (ఎన్‌ఎంసీ) 2026కి దేశవ్యాప్తంగా పీజీ వైద్య సీట్లను 58,466 నుంచి 68,305కి పెంచింది. తెలంగాణలో సీట్లు 3,721 నుంచి 4,417కి, ఆంధ్రప్రదేశ్‌లో 3,908 నుంచి 4,316కి చేరాయి. తెలంగాణలో నాగర్‌కర్నూల్, ఖమ్మం, కరీంనగర్ సహా 13 కళాశాలలకు కొత్తగా పీజీ సీట్లు వచ్చాయి. రాష్ట్ర స్థానిక అభ్యర్థులకు సుమారు 132 అదనపు సీట్లు దక్కే అవకాశం ఉంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/neet-pg-seats-2026-rise-by-9839-in-india/",
+   "sec": [
+    "india",
+    "education"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "దేశవ్యాప్తంగా మొత్తం పీజీ సీట్లు 68,305",
+    "తెలంగాణకు 696, ఏపీకి 408 సీట్లు అదనం",
+    "ప్రభుత్వ కళాశాలల్లో 4,440 సీట్లు పెరుగుదల"
+   ],
+   "why": "పీజీ వైద్య విద్యకు సిద్ధమవుతున్న తెలుగు రాష్ట్రాల ఎంబీబీఎస్ వైద్యులకు ఎక్కువ అవకాశాలు లభిస్తాయి.",
+   "en": {
+    "h": "9,839 more PG medical seats in India; Telangana gets 696, AP 408",
+    "p": "The National Medical Commission (NMC) has increased PG medical seats across the country for 2026 from 58,466 to 68,305. Seats in Telangana rose from 3,721 to 4,417, and in Andhra Pradesh from 3,908 to 4,316. In Telangana, 13 colleges including Nagarkurnool, Khammam and Karimnagar have got PG seats for the first time. Local candidates in the state are likely to get about 132 additional seats.",
+    "pts": [
+     "Total PG seats across India now 68,305",
+     "696 more seats for Telangana, 408 for AP",
+     "Government colleges gain 4,440 seats"
+    ],
+    "why": "MBBS doctors from the Telugu states preparing for PG medical courses will get more opportunities.",
+    "cat": "India · Medical Education",
+    "statl": "New PG medical seats in India"
+   },
+   "hi": {
+    "h": "देश में 9,839 पीजी मेडिकल सीटें बढ़ीं; तेलंगाना को 696, आंध्र को 408",
+    "p": "राष्ट्रीय चिकित्सा आयोग (एनएमसी) ने 2026 के लिए देशभर में पीजी मेडिकल सीटें 58,466 से बढ़ाकर 68,305 कर दी हैं। तेलंगाना में सीटें 3,721 से बढ़कर 4,417 और आंध्र प्रदेश में 3,908 से बढ़कर 4,316 हो गईं। तेलंगाना में नागरकर्नूल, खम्मम और करीमनगर समेत 13 कॉलेजों को पहली बार पीजी सीटें मिली हैं। राज्य के स्थानीय उम्मीदवारों को करीब 132 अतिरिक्त सीटें मिलने की संभावना है।",
+    "pts": [
+     "देशभर में कुल पीजी सीटें अब 68,305",
+     "तेलंगाना को 696, आंध्र को 408 अतिरिक्त सीटें",
+     "सरकारी कॉलेजों में 4,440 सीटें बढ़ीं"
+    ],
+    "why": "पीजी मेडिकल की तैयारी कर रहे तेलुगु राज्यों के एमबीबीएस डॉक्टरों को ज़्यादा अवसर मिलेंगे।",
+    "cat": "भारत · चिकित्सा शिक्षा",
+    "statl": "देश में नई पीजी मेडिकल सीटें"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "తమిళనాడు · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "8 జిల్లాలు",
+   "statl": "దీపావళి రోజు భారీ వర్ష సూచన",
+   "h": "తమిళనాడులో రెండు రోజులు భారీ వర్షాలు; దీపావళికి 8 జిల్లాల్లో హెచ్చరిక",
+   "p": "తమిళనాడులో వచ్చే రెండు రోజులు పలుచోట్ల భారీ వర్షాలు కురుస్తాయని చెన్నై ప్రాంతీయ వాతావరణ కేంద్రం తెలిపింది. శనివారం మదురై, తేని, దిండిగల్‌లో భారీ వర్షం, గంటకు 30–40 కి.మీ. వేగంతో గాలులు వీయవచ్చు. దీపావళి రోజైన ఆదివారం తంజావూరు, నాగపట్నం, కన్యాకుమారి సహా 8 జిల్లాల్లో భారీ వర్షం పడే అవకాశం ఉంది. చెన్నైలో మోస్తరు వర్షం కురవవచ్చు.",
+   "src": "IANS",
+   "url": "https://english.punjabkesari.com/india/heavy-rain-forecast-for-tamil-nadu-for-next-two-days-eight-districts-on-alert-for-deepavali",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "pts": [
+    "అరేబియా సముద్రం నుంచి ద్రోణి ప్రభావం",
+    "ఆదివారం 8 జిల్లాల్లో భారీ వర్ష సూచన",
+    "చెన్నై, తిరువళ్లూరులో మోస్తరు వర్షం"
+   ],
+   "why": "దీపావళి బహిరంగ వేడుకలు, పండుగ ప్రయాణాలపై ఈ వర్షాల ప్రభావం పడవచ్చు.",
+   "en": {
+    "h": "Heavy rain in Tamil Nadu for two days; alert in 8 districts on Deepavali",
+    "p": "The Regional Meteorological Centre in Chennai said heavy rain is likely in several parts of Tamil Nadu over the next two days. On Saturday, Madurai, Theni and Dindigul may get heavy rain with winds of 30–40 kmph. On Sunday, Deepavali day, heavy rain is likely in 8 districts including Thanjavur, Nagapattinam and Kanniyakumari. Chennai may get moderate rain.",
+    "pts": [
+     "Trough from the Arabian Sea behind the rain",
+     "Heavy rain forecast for 8 districts on Sunday",
+     "Moderate rain in Chennai, Tiruvallur"
+    ],
+    "why": "The rain could affect outdoor Deepavali celebrations and festival travel.",
+    "cat": "Tamil Nadu · Weather",
+    "statl": "Heavy rain forecast on Deepavali"
+   },
+   "hi": {
+    "h": "तमिलनाडु में दो दिन भारी बारिश; दीपावली पर 8 जिलों में अलर्ट",
+    "p": "चेन्नई के क्षेत्रीय मौसम केंद्र ने कहा कि अगले दो दिनों में तमिलनाडु के कई हिस्सों में भारी बारिश हो सकती है। शनिवार को मदुरै, थेनी और डिंडीगुल में भारी बारिश और 30–40 किमी प्रति घंटे की हवाएं चल सकती हैं। दीपावली के दिन रविवार को तंजावुर, नागपट्टिनम और कन्याकुमारी समेत 8 जिलों में भारी बारिश की संभावना है। चेन्नई में मध्यम बारिश हो सकती है।",
+    "pts": [
+     "अरब सागर से आई द्रोणिका का असर",
+     "रविवार को 8 जिलों में भारी बारिश का अनुमान",
+     "चेन्नई, तिरुवल्लूर में मध्यम बारिश"
+    ],
+    "why": "इस बारिश का असर दीपावली के बाहरी समारोहों और त्योहार की यात्राओं पर पड़ सकता है।",
+    "cat": "तमिलनाडु · मौसम",
+    "statl": "दीपावली पर भारी बारिश का अनुमान"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ప్రపంచం · న్యూజిలాండ్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవం. 27",
+   "statl": "అధికారిక తుది ఫలితాల తేదీ",
+   "h": "న్యూజిలాండ్ ఎన్నికలు: పోలింగ్ ముగిసింది, ఓట్ల లెక్కింపు ప్రారంభం",
+   "p": "న్యూజిలాండ్ సాధారణ ఎన్నికల్లో శనివారం స్థానిక సమయం రాత్రి 7 గంటలకు పోలింగ్ ముగిసింది, వెంటనే ఓట్ల లెక్కింపు మొదలైంది. ఈసారి గట్టి పోటీ ఉంటుందని అంచనా. తొలి ఫలితాలు స్థానిక సమయం రాత్రి 7.30 లోపు రావచ్చని తెలిపారు. అధికారిక తుది ఫలితాలను నవంబర్ 27న ప్రకటిస్తారు.",
+   "src": "ABC News",
+   "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "స్థానిక సమయం రాత్రి 7కి పోలింగ్ ముగింపు",
+    "గట్టి పోటీ ఉన్న ఎన్నికగా అంచనా",
+    "అధికారిక ఫలితాలు నవంబర్ 27న"
+   ],
+   "why": "న్యూజిలాండ్‌లో నివసిస్తున్న, చదువుకుంటున్న భారతీయులు కొత్త ప్రభుత్వం ఎవరిదో ఆసక్తిగా చూస్తున్నారు.",
+   "en": {
+    "h": "New Zealand election: polls close, vote counting begins",
+    "p": "Voting in New Zealand's general election closed at 7 pm local time on Saturday, and counting began immediately. A tight contest is expected this time. The first results were expected before 7.30 pm local time. The official final results will be announced on November 27.",
+    "pts": [
+     "Polls closed at 7 pm local time",
+     "A tight election contest expected",
+     "Official results on November 27"
+    ],
+    "why": "Indians living and studying in New Zealand are watching closely to see who forms the new government.",
+    "cat": "World · New Zealand",
+    "statl": "Official final results date"
+   },
+   "hi": {
+    "h": "न्यूज़ीलैंड चुनाव: मतदान खत्म, वोटों की गिनती शुरू",
+    "p": "न्यूज़ीलैंड के आम चुनाव में शनिवार को स्थानीय समय शाम 7 बजे मतदान खत्म हुआ और तुरंत वोटों की गिनती शुरू हो गई। इस बार कड़े मुकाबले की उम्मीद है। पहले नतीजे स्थानीय समय शाम 7.30 बजे से पहले आने की उम्मीद जताई गई। आधिकारिक अंतिम नतीजे 27 नवंबर को घोषित होंगे।",
+    "pts": [
+     "स्थानीय समय शाम 7 बजे मतदान खत्म",
+     "कड़े मुकाबले वाले चुनाव का अनुमान",
+     "आधिकारिक नतीजे 27 नवंबर को"
+    ],
+    "why": "न्यूज़ीलैंड में रह रहे और पढ़ रहे भारतीय यह देखने के लिए उत्सुक हैं कि नई सरकार किसकी बनेगी।",
+    "cat": "विश्व · न्यूज़ीलैंड",
+    "statl": "आधिकारिक अंतिम नतीजों की तारीख"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "ఏపీ · పులివెందుల",
    "col": "--c-election",

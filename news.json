@@ -1,8 +1,202 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T13:08:38+05:30",
+ "updated": "2026-11-07T13:41:31+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "98%",
+   "statl": "పరిష్కారమైన ఎస్‌ఐఆర్ నోటీసులు",
+   "h": "ఎస్‌ఐఆర్: తెలంగాణలో 91 లక్షల కేసులు పరిష్కారం, 1.3 లక్షలు పెండింగ్",
+   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్‌ఐఆర్)లో తెలంగాణలో జారీ చేసిన 92.8 లక్షల నోటీసుల్లో దాదాపు 98 శాతం పరిష్కారమయ్యాయి. సుమారు 91 లక్షల కేసులు తుది జాబితాలో చేర్చేందుకు క్లియర్ కాగా, 1.3 లక్షలు ఇంకా పెండింగ్‌లో ఉన్నాయి. 54,418 మందిని అనర్హులుగా గుర్తించారు. పేరు మళ్లీ చేర్చుకునేందుకు ఫారం-6ను నవంబర్ 21 వరకు స్వీకరిస్తారు.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/telangana-sir-91-lakh-cases-cleared-1-3-lakh-pending/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "92.8 లక్షల నోటీసుల్లో 98% పరిష్కారం",
+    "54,418 మంది ఓటర్లు అనర్హులుగా గుర్తింపు",
+    "ఫారం-6 గడువు నవంబర్ 21; హెల్ప్‌లైన్ 1950"
+   ],
+   "why": "జాబితాలో పేరు లేని ఓటర్లు గడువులోగా ఫారం-6 ఇచ్చి తమ ఓటు హక్కును కాపాడుకోవచ్చు.",
+   "en": {
+    "h": "SIR: 91 lakh cases cleared in Telangana, 1.3 lakh pending",
+    "p": "In the Special Intensive Revision (SIR) of electoral rolls, nearly 98 per cent of the 92.8 lakh notices issued in Telangana have been resolved. About 91 lakh cases have been cleared for inclusion in the final rolls, while 1.3 lakh are still pending. 54,418 people were found ineligible. Form 6 for re-inclusion will be accepted until November 21.",
+    "pts": [
+     "98% of 92.8 lakh notices resolved",
+     "54,418 electors found ineligible",
+     "Form 6 deadline November 21; helpline 1950"
+    ],
+    "why": "Voters missing from the rolls can protect their right to vote by filing Form 6 before the deadline.",
+    "cat": "Telangana · Electoral Rolls",
+    "statl": "SIR notices resolved"
+   },
+   "hi": {
+    "h": "एसआईआर: तेलंगाना में 91 लाख मामले निपटे, 1.3 लाख लंबित",
+    "p": "मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) में तेलंगाना में जारी 92.8 लाख नोटिसों में से लगभग 98 प्रतिशत का निपटारा हो गया है। करीब 91 लाख मामलों को अंतिम सूची में शामिल करने के लिए मंजूरी मिली है, जबकि 1.3 लाख अभी लंबित हैं। 54,418 लोगों को अयोग्य पाया गया। नाम दोबारा जुड़वाने के लिए फॉर्म-6 21 नवंबर तक स्वीकार किया जाएगा।",
+    "pts": [
+     "92.8 लाख नोटिसों में से 98% का निपटारा",
+     "54,418 मतदाता अयोग्य पाए गए",
+     "फॉर्म-6 की अंतिम तिथि 21 नवंबर; हेल्पलाइन 1950"
+    ],
+    "why": "सूची से छूटे मतदाता समय सीमा से पहले फॉर्म-6 भरकर अपना वोट का अधिकार बचा सकते हैं।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "निपटाए गए एसआईआर नोटिस"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "భారత్ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "9,839",
+   "statl": "దేశంలో కొత్తగా పెరిగిన పీజీ వైద్య సీట్లు",
+   "h": "దేశంలో 9,839 పీజీ వైద్య సీట్లు పెంపు; తెలంగాణకు 696, ఏపీకి 408",
+   "p": "జాతీయ వైద్య కమిషన్ (ఎన్‌ఎంసీ) 2026కి దేశవ్యాప్తంగా పీజీ వైద్య సీట్లను 58,466 నుంచి 68,305కి పెంచింది. తెలంగాణలో సీట్లు 3,721 నుంచి 4,417కి, ఆంధ్రప్రదేశ్‌లో 3,908 నుంచి 4,316కి చేరాయి. తెలంగాణలో నాగర్‌కర్నూల్, ఖమ్మం, కరీంనగర్ సహా 13 కళాశాలలకు కొత్తగా పీజీ సీట్లు వచ్చాయి. రాష్ట్ర స్థానిక అభ్యర్థులకు సుమారు 132 అదనపు సీట్లు దక్కే అవకాశం ఉంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/neet-pg-seats-2026-rise-by-9839-in-india/",
+   "sec": [
+    "india",
+    "education"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "దేశవ్యాప్తంగా మొత్తం పీజీ సీట్లు 68,305",
+    "తెలంగాణకు 696, ఏపీకి 408 సీట్లు అదనం",
+    "ప్రభుత్వ కళాశాలల్లో 4,440 సీట్లు పెరుగుదల"
+   ],
+   "why": "పీజీ వైద్య విద్యకు సిద్ధమవుతున్న తెలుగు రాష్ట్రాల ఎంబీబీఎస్ వైద్యులకు ఎక్కువ అవకాశాలు లభిస్తాయి.",
+   "en": {
+    "h": "9,839 more PG medical seats in India; Telangana gets 696, AP 408",
+    "p": "The National Medical Commission (NMC) has increased PG medical seats across the country for 2026 from 58,466 to 68,305. Seats in Telangana rose from 3,721 to 4,417, and in Andhra Pradesh from 3,908 to 4,316. In Telangana, 13 colleges including Nagarkurnool, Khammam and Karimnagar have got PG seats for the first time. Local candidates in the state are likely to get about 132 additional seats.",
+    "pts": [
+     "Total PG seats across India now 68,305",
+     "696 more seats for Telangana, 408 for AP",
+     "Government colleges gain 4,440 seats"
+    ],
+    "why": "MBBS doctors from the Telugu states preparing for PG medical courses will get more opportunities.",
+    "cat": "India · Medical Education",
+    "statl": "New PG medical seats in India"
+   },
+   "hi": {
+    "h": "देश में 9,839 पीजी मेडिकल सीटें बढ़ीं; तेलंगाना को 696, आंध्र को 408",
+    "p": "राष्ट्रीय चिकित्सा आयोग (एनएमसी) ने 2026 के लिए देशभर में पीजी मेडिकल सीटें 58,466 से बढ़ाकर 68,305 कर दी हैं। तेलंगाना में सीटें 3,721 से बढ़कर 4,417 और आंध्र प्रदेश में 3,908 से बढ़कर 4,316 हो गईं। तेलंगाना में नागरकर्नूल, खम्मम और करीमनगर समेत 13 कॉलेजों को पहली बार पीजी सीटें मिली हैं। राज्य के स्थानीय उम्मीदवारों को करीब 132 अतिरिक्त सीटें मिलने की संभावना है।",
+    "pts": [
+     "देशभर में कुल पीजी सीटें अब 68,305",
+     "तेलंगाना को 696, आंध्र को 408 अतिरिक्त सीटें",
+     "सरकारी कॉलेजों में 4,440 सीटें बढ़ीं"
+    ],
+    "why": "पीजी मेडिकल की तैयारी कर रहे तेलुगु राज्यों के एमबीबीएस डॉक्टरों को ज़्यादा अवसर मिलेंगे।",
+    "cat": "भारत · चिकित्सा शिक्षा",
+    "statl": "देश में नई पीजी मेडिकल सीटें"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "తమిళనాడు · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "8 జిల్లాలు",
+   "statl": "దీపావళి రోజు భారీ వర్ష సూచన",
+   "h": "తమిళనాడులో రెండు రోజులు భారీ వర్షాలు; దీపావళికి 8 జిల్లాల్లో హెచ్చరిక",
+   "p": "తమిళనాడులో వచ్చే రెండు రోజులు పలుచోట్ల భారీ వర్షాలు కురుస్తాయని చెన్నై ప్రాంతీయ వాతావరణ కేంద్రం తెలిపింది. శనివారం మదురై, తేని, దిండిగల్‌లో భారీ వర్షం, గంటకు 30–40 కి.మీ. వేగంతో గాలులు వీయవచ్చు. దీపావళి రోజైన ఆదివారం తంజావూరు, నాగపట్నం, కన్యాకుమారి సహా 8 జిల్లాల్లో భారీ వర్షం పడే అవకాశం ఉంది. చెన్నైలో మోస్తరు వర్షం కురవవచ్చు.",
+   "src": "IANS",
+   "url": "https://english.punjabkesari.com/india/heavy-rain-forecast-for-tamil-nadu-for-next-two-days-eight-districts-on-alert-for-deepavali",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "pts": [
+    "అరేబియా సముద్రం నుంచి ద్రోణి ప్రభావం",
+    "ఆదివారం 8 జిల్లాల్లో భారీ వర్ష సూచన",
+    "చెన్నై, తిరువళ్లూరులో మోస్తరు వర్షం"
+   ],
+   "why": "దీపావళి బహిరంగ వేడుకలు, పండుగ ప్రయాణాలపై ఈ వర్షాల ప్రభావం పడవచ్చు.",
+   "en": {
+    "h": "Heavy rain in Tamil Nadu for two days; alert in 8 districts on Deepavali",
+    "p": "The Regional Meteorological Centre in Chennai said heavy rain is likely in several parts of Tamil Nadu over the next two days. On Saturday, Madurai, Theni and Dindigul may get heavy rain with winds of 30–40 kmph. On Sunday, Deepavali day, heavy rain is likely in 8 districts including Thanjavur, Nagapattinam and Kanniyakumari. Chennai may get moderate rain.",
+    "pts": [
+     "Trough from the Arabian Sea behind the rain",
+     "Heavy rain forecast for 8 districts on Sunday",
+     "Moderate rain in Chennai, Tiruvallur"
+    ],
+    "why": "The rain could affect outdoor Deepavali celebrations and festival travel.",
+    "cat": "Tamil Nadu · Weather",
+    "statl": "Heavy rain forecast on Deepavali"
+   },
+   "hi": {
+    "h": "तमिलनाडु में दो दिन भारी बारिश; दीपावली पर 8 जिलों में अलर्ट",
+    "p": "चेन्नई के क्षेत्रीय मौसम केंद्र ने कहा कि अगले दो दिनों में तमिलनाडु के कई हिस्सों में भारी बारिश हो सकती है। शनिवार को मदुरै, थेनी और डिंडीगुल में भारी बारिश और 30–40 किमी प्रति घंटे की हवाएं चल सकती हैं। दीपावली के दिन रविवार को तंजावुर, नागपट्टिनम और कन्याकुमारी समेत 8 जिलों में भारी बारिश की संभावना है। चेन्नई में मध्यम बारिश हो सकती है।",
+    "pts": [
+     "अरब सागर से आई द्रोणिका का असर",
+     "रविवार को 8 जिलों में भारी बारिश का अनुमान",
+     "चेन्नई, तिरुवल्लूर में मध्यम बारिश"
+    ],
+    "why": "इस बारिश का असर दीपावली के बाहरी समारोहों और त्योहार की यात्राओं पर पड़ सकता है।",
+    "cat": "तमिलनाडु · मौसम",
+    "statl": "दीपावली पर भारी बारिश का अनुमान"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ప్రపంచం · న్యూజిలాండ్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవం. 27",
+   "statl": "అధికారిక తుది ఫలితాల తేదీ",
+   "h": "న్యూజిలాండ్ ఎన్నికలు: పోలింగ్ ముగిసింది, ఓట్ల లెక్కింపు ప్రారంభం",
+   "p": "న్యూజిలాండ్ సాధారణ ఎన్నికల్లో శనివారం స్థానిక సమయం రాత్రి 7 గంటలకు పోలింగ్ ముగిసింది, వెంటనే ఓట్ల లెక్కింపు మొదలైంది. ఈసారి గట్టి పోటీ ఉంటుందని అంచనా. తొలి ఫలితాలు స్థానిక సమయం రాత్రి 7.30 లోపు రావచ్చని తెలిపారు. అధికారిక తుది ఫలితాలను నవంబర్ 27న ప్రకటిస్తారు.",
+   "src": "ABC News",
+   "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "స్థానిక సమయం రాత్రి 7కి పోలింగ్ ముగింపు",
+    "గట్టి పోటీ ఉన్న ఎన్నికగా అంచనా",
+    "అధికారిక ఫలితాలు నవంబర్ 27న"
+   ],
+   "why": "న్యూజిలాండ్‌లో నివసిస్తున్న, చదువుకుంటున్న భారతీయులు కొత్త ప్రభుత్వం ఎవరిదో ఆసక్తిగా చూస్తున్నారు.",
+   "en": {
+    "h": "New Zealand election: polls close, vote counting begins",
+    "p": "Voting in New Zealand's general election closed at 7 pm local time on Saturday, and counting began immediately. A tight contest is expected this time. The first results were expected before 7.30 pm local time. The official final results will be announced on November 27.",
+    "pts": [
+     "Polls closed at 7 pm local time",
+     "A tight election contest expected",
+     "Official results on November 27"
+    ],
+    "why": "Indians living and studying in New Zealand are watching closely to see who forms the new government.",
+    "cat": "World · New Zealand",
+    "statl": "Official final results date"
+   },
+   "hi": {
+    "h": "न्यूज़ीलैंड चुनाव: मतदान खत्म, वोटों की गिनती शुरू",
+    "p": "न्यूज़ीलैंड के आम चुनाव में शनिवार को स्थानीय समय शाम 7 बजे मतदान खत्म हुआ और तुरंत वोटों की गिनती शुरू हो गई। इस बार कड़े मुकाबले की उम्मीद है। पहले नतीजे स्थानीय समय शाम 7.30 बजे से पहले आने की उम्मीद जताई गई। आधिकारिक अंतिम नतीजे 27 नवंबर को घोषित होंगे।",
+    "pts": [
+     "स्थानीय समय शाम 7 बजे मतदान खत्म",
+     "कड़े मुकाबले वाले चुनाव का अनुमान",
+     "आधिकारिक नतीजे 27 नवंबर को"
+    ],
+    "why": "न्यूज़ीलैंड में रह रहे और पढ़ रहे भारतीय यह देखने के लिए उत्सुक हैं कि नई सरकार किसकी बनेगी।",
+    "cat": "विश्व · न्यूज़ीलैंड",
+    "statl": "आधिकारिक अंतिम नतीजों की तारीख"
+   },
+   "d": "07.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "ఏపీ · పులివెందుల",
    "col": "--c-election",
@@ -1753,200 +1947,6 @@
     "why": "चक्रवात की बारिश से प्रभावित एनटीआर जिले के धान किसानों को फसल बचाने में मदद मिलेगी।",
     "cat": "आंध्र प्रदेश · विजयवाड़ा",
     "statl": "प्रति एकड़ प्रोपिकोनाज़ोल छिड़काव"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · పశ్చిమాసియా",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "Level 4",
-   "statl": "ఇరాన్‌పై అమెరికా ప్రయాణ హెచ్చరిక",
-   "h": "పశ్చిమాసియాలో దాడుల ముప్పు: అమెరికా పౌరులకు కొత్త భద్రతా హెచ్చరిక",
-   "p": "హూతీల సాయుధ దాడుల ముప్పు పెరిగిందని, మధ్యప్రాచ్యంలోని తమ పౌరులు అప్రమత్తంగా ఉండాలని అమెరికా వర్చువల్ ఎంబసీ కొత్త హెచ్చరిక జారీ చేసింది. విమానాల రద్దు, గగనతలం మూసివేత వంటి ప్రయాణ ఇబ్బందులు రావచ్చని తెలిపింది. ఏ కారణంతోనూ ఇరాన్‌కు వెళ్లొద్దని, అక్కడ ఉన్నవారు వెంటనే బయటకు రావాలని సూచించింది.",
-   "src": "U.S. Virtual Embassy Iran",
-   "url": "https://ir.usembassy.gov/security-alert-iran-november-7-2026/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "మధ్యప్రాచ్యంలో అప్రమత్తంగా ఉండాలని సూచన",
-    "విమానాల రద్దు, గగనతలం మూసివేత అవకాశం",
-    "ఇరాన్‌పై లెవల్ 4 'ప్రయాణం వద్దు' హెచ్చరిక"
-   ],
-   "why": "గల్ఫ్ దేశాల్లో ఉంటున్న, అక్కడికి ప్రయాణించే తెలుగువారు విమాన ఇబ్బందులకు సిద్ధంగా ఉండాలి.",
-   "d": "07.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "Attack threat in West Asia: new US security alert for citizens",
-    "p": "The U.S. Virtual Embassy for Iran has issued a new alert asking Americans in the Middle East to stay vigilant, citing an increased threat of armed attacks by Houthis. It said flight cancellations, airspace closures and other travel disruptions are possible. It told citizens not to travel to Iran for any reason and asked those there to leave now.",
-    "pts": [
-     "Americans told to stay vigilant in Middle East",
-     "Flight cancellations, airspace closures possible",
-     "Iran stays at Level 4 'Do Not Travel'"
-    ],
-    "why": "Telugu people living in or travelling to Gulf countries should be ready for flight disruptions.",
-    "cat": "World · West Asia",
-    "statl": "US travel advisory on Iran"
-   },
-   "hi": {
-    "h": "पश्चिम एशिया में हमलों का खतरा: अमेरिकी नागरिकों के लिए नई सुरक्षा चेतावनी",
-    "p": "ईरान के लिए अमेरिकी वर्चुअल दूतावास ने नई चेतावनी जारी कर मध्य पूर्व में मौजूद अमेरिकियों से सतर्क रहने को कहा है, क्योंकि हूती सशस्त्र हमलों का खतरा बढ़ा है। उसने कहा कि उड़ानें रद्द होने, हवाई क्षेत्र बंद होने जैसी यात्रा बाधाएँ आ सकती हैं। किसी भी कारण ईरान न जाने और वहाँ मौजूद लोगों को तुरंत निकलने को कहा।",
-    "pts": [
-     "मध्य पूर्व में सतर्क रहने की सलाह",
-     "उड़ानें रद्द, हवाई क्षेत्र बंद होने की आशंका",
-     "ईरान पर लेवल 4 'यात्रा न करें' चेतावनी"
-    ],
-    "why": "खाड़ी देशों में रहने या वहाँ जाने वाले तेलुगु लोग उड़ानों में बाधा के लिए तैयार रहें।",
-    "cat": "दुनिया · पश्चिम एशिया",
-    "statl": "ईरान पर अमेरिकी यात्रा सलाह"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "8:30–11",
-   "statl": "ఉదయం రద్దీ సమయం – ఈ మార్గం వద్దు",
-   "h": "స్టీల్ ఫ్లైఓవర్ పనులు: బంజారాహిల్స్ రోడ్ నం.2 వైపు వెళ్లొద్దని సూచన",
-   "p": "జూబ్లీ చెక్‌పోస్ట్ నుంచి ఎన్టీఆర్ భవన్ మీదుగా ఎన్‌ఎఫ్‌సీఎల్ వరకు స్టీల్ ఫ్లైఓవర్ నిర్మాణం వల్ల రాబోయే నెలల్లో ఎన్‌ఎఫ్‌సీఎల్, కేబీఆర్ పార్క్ గేట్-1, జూబ్లీహిల్స్ చెక్‌పోస్ట్ మధ్య ట్రాఫిక్ రద్దీ ఉంటుంది. బంజారాహిల్స్ రోడ్ నం.2 మార్గాన్ని వాహనదారులు తప్పించుకోవాలని సూచించారు. అవసరాన్ని బట్టి మాత్రమే మళ్లింపులు అమలు చేస్తారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/steel-flyover-construction-to-cause-traffic-jam-at-banjara-hills-3570899/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బంజారాహిల్స్",
-   "pts": [
-    "ప్రత్యామ్నాయం: రోడ్ నం.1, 1/10 జంక్షన్, రోడ్ నం.10, రోడ్ నం.12",
-    "ఉదయం 8:30–11, సాయంత్రం 5–9 గంటల మధ్య ఈ దారి వద్దు",
-    "హెల్ప్‌లైన్: 9010203626"
-   ],
-   "why": "బంజారాహిల్స్, జూబ్లీహిల్స్ మీదుగా రోజూ ప్రయాణించే వేలాది మంది తమ మార్గాన్ని ముందుగా ప్లాన్ చేసుకోవాలి.",
-   "d": "07.11.2026",
-   "t": "06:35",
-   "en": {
-    "h": "Steel flyover work: avoid Banjara Hills Road No. 2, commuters told",
-    "p": "Construction of the steel flyover from Jubilee Check Post to NFCL via NTR Bhavan will cause traffic congestion in the coming months between NFCL, KBR Park Gate-1 and Jubilee Hills Check Post. Commuters have been advised to avoid the Banjara Hills Road No. 2 route. Diversions will be used only when needed.",
-    "pts": [
-     "Alternatives: Road No. 1, 1/10 Junction, Road No. 10, Road No. 12",
-     "Avoid the route 8:30–11 am and 5–9 pm",
-     "Helpline: 9010203626"
-    ],
-    "why": "Thousands who travel daily through Banjara Hills and Jubilee Hills should plan their route in advance.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Morning peak hours – avoid this route"
-   },
-   "hi": {
-    "h": "स्टील फ्लाईओवर का काम: बंजारा हिल्स रोड नंबर 2 से बचने की सलाह",
-    "p": "जुबली चेकपोस्ट से एनटीआर भवन होते हुए एनएफसीएल तक स्टील फ्लाईओवर के निर्माण से आने वाले महीनों में एनएफसीएल, केबीआर पार्क गेट-1 और जुबली हिल्स चेकपोस्ट के बीच ट्रैफिक जाम रहेगा। वाहन चालकों को बंजारा हिल्स रोड नंबर 2 के रास्ते से बचने की सलाह दी गई है। जरूरत के हिसाब से ही डायवर्जन लागू होंगे।",
-    "pts": [
-     "विकल्प: रोड नंबर 1, 1/10 जंक्शन, रोड नंबर 10, रोड नंबर 12",
-     "सुबह 8:30–11 और शाम 5–9 बजे यह रास्ता न लें",
-     "हेल्पलाइन: 9010203626"
-    ],
-    "why": "बंजारा हिल्स और जुबली हिल्स से रोज गुजरने वाले हजारों लोगों को पहले से रास्ता तय करना चाहिए।",
-    "cat": "हैदराबाद · ट्रैफिक",
-    "statl": "सुबह की भीड़ का समय – यह रास्ता न लें"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · పశ్చిమాసియా",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "25 ఏళ్లు",
-   "statl": "ఇరాన్ పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
-   "h": "‘పర్ఫెక్ట్ సమయం కోసం ఆగొద్దు’: అమెరికా–ఇరాన్ ఒప్పందానికి ఖతార్ పిలుపు",
-   "p": "యుద్ధం ముగించే శాంతి ఒప్పందం కోసం సరైన సమయం వచ్చేదాకా ఎదురుచూడొద్దని ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ అమెరికా, ఇరాన్‌లను కోరారు. ఆక్స్‌ఫర్డ్ విశ్వవిద్యాలయంలో ఆయన మాట్లాడారు. ఇరాన్ ప్రతినిధులతో తమ ప్రభుత్వం సంప్రదింపులు జరుపుతోందని, చర్చలు బాగా సాగుతున్నాయని అమెరికా అధ్యక్షుడు ట్రంప్ ధ్రువీకరించారు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/world/middle-east/cant-wait-for-perfect-moment-qatari-pm-urges-us-iran-peace-deal-as-trump-confirms-talks-says-doing-well20261107033409/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "మళ్లీ సైనిక చర్యలపై నిర్ణయం దగ్గర్లోనే ఉందన్న ట్రంప్",
-    "జాతీయ భద్రతా బృందంతో గురువారం ట్రంప్ సమావేశం",
-    "ఇరాన్ పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని వ్యాఖ్య"
-   ],
-   "why": "ఈ యుద్ధం గల్ఫ్‌లో పనిచేస్తున్న తెలుగు వారి భద్రతపై, చమురు ధరలపై ప్రభావం చూపుతుంది.",
-   "d": "07.11.2026",
-   "t": "06:35",
-   "en": {
-    "h": "'Don't wait for the perfect moment': Qatar urges US–Iran peace deal",
-    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the US and Iran not to wait for the right moment to reach a peace deal ending the war. He was speaking at Oxford University. US President Trump confirmed his administration is in contact with Iranian representatives and said the talks are going very well.",
-    "pts": [
-     "Trump said a decision on resuming military action is near",
-     "Trump met his national security team on Thursday",
-     "He said rebuilding Iran would take 25 years"
-    ],
-    "why": "The war affects the safety of Telugu people working in the Gulf and oil prices.",
-    "cat": "World · West Asia",
-    "statl": "Time Trump says Iran's rebuilding would take"
-   },
-   "hi": {
-    "h": "'परफेक्ट समय का इंतजार न करें': कतर की अमेरिका–ईरान शांति समझौते की अपील",
-    "p": "कतर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी ने अमेरिका और ईरान से युद्ध खत्म करने वाले शांति समझौते के लिए सही समय का इंतजार न करने को कहा। वे ऑक्सफोर्ड विश्वविद्यालय में बोल रहे थे। अमेरिकी राष्ट्रपति ट्रंप ने पुष्टि की कि उनकी सरकार ईरानी प्रतिनिधियों के संपर्क में है और बातचीत बहुत अच्छी चल रही है।",
-    "pts": [
-     "ट्रंप ने कहा, फिर सैन्य कार्रवाई पर फैसला करीब",
-     "ट्रंप ने गुरुवार को राष्ट्रीय सुरक्षा टीम से बैठक की",
-     "उन्होंने कहा, ईरान के पुनर्निर्माण में 25 साल लगेंगे"
-    ],
-    "why": "यह युद्ध खाड़ी में काम कर रहे तेलुगु लोगों की सुरक्षा और तेल कीमतों को प्रभावित करता है।",
-    "cat": "दुनिया · पश्चिम एशिया",
-    "statl": "ट्रंप के अनुसार ईरान के पुनर्निर्माण का समय"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "అక్టో. 21",
-   "statl": "నుంచి నిరవధిక నిరాహార దీక్ష",
-   "h": "ఎన్‌సీఏహెచ్‌పీ గుర్తింపు కోసం మనూ విద్యార్థుల నిరాహార దీక్ష",
-   "p": "హైదరాబాద్‌లోని మౌలానా ఆజాద్ నేషనల్ ఉర్దూ యూనివర్సిటీ (మనూ) వృత్తి విద్యా కోర్సుల విద్యార్థులు అక్టోబర్ 21 నుంచి పరిపాలనా భవనం ఎదుట నిరవధిక నిరాహార దీక్ష చేస్తున్నారు. తమ బీవోక్, ఎంవోక్ డిగ్రీలకు నేషనల్ కమిషన్ ఫర్ అలైడ్ అండ్ హెల్త్‌కేర్ ప్రొఫెషన్స్ (ఎన్‌సీఏహెచ్‌పీ) గుర్తింపు ఇవ్వాలని డిమాండ్ చేస్తున్నారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/manuu-students-on-hunger-strike-demanding-ncahp-recognition-3570943/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "ఢిల్లీలో ఎన్‌సీఏహెచ్‌పీ అధికారులను కలిసినా స్పష్టత రాలేదు",
-    "కేంద్రం, యూజీసీ, విద్యా శాఖ జోక్యం చేసుకోవాలని విజ్ఞప్తి",
-    "కోర్సులు నిబంధనల ప్రకారమే ఉన్నాయంటున్న విద్యార్థులు"
-   ],
-   "why": "గుర్తింపుపై స్పష్టత లేకపోతే వందలాది విద్యార్థుల ఉద్యోగ అవకాశాలు ప్రమాదంలో పడతాయి.",
-   "d": "07.11.2026",
-   "t": "06:35",
-   "en": {
-    "h": "MANUU students on hunger strike seeking NCAHP recognition",
-    "p": "Vocational course students of Maulana Azad National Urdu University (MANUU) in Hyderabad have been on an indefinite hunger strike in front of the administrative building since October 21. They demand that their BVoc and MVoc degrees be recognised by the National Commission for Allied and Healthcare Professions (NCAHP).",
-    "pts": [
-     "No clarity despite meeting NCAHP officials in Delhi",
-     "They urged the Centre, UGC and Education Ministry to intervene",
-     "Students say the courses follow prescribed norms"
-    ],
-    "why": "Without clarity on recognition, the job prospects of hundreds of students are at risk.",
-    "cat": "Hyderabad · Education",
-    "statl": "Indefinite hunger strike since"
-   },
-   "hi": {
-    "h": "एनसीएएचपी मान्यता के लिए मानू छात्रों की भूख हड़ताल",
-    "p": "हैदराबाद की मौलाना आजाद नेशनल उर्दू यूनिवर्सिटी (मानू) के व्यावसायिक पाठ्यक्रमों के छात्र 21 अक्टूबर से प्रशासनिक भवन के सामने अनिश्चितकालीन भूख हड़ताल पर हैं। वे मांग कर रहे हैं कि उनकी बीवोक और एमवोक डिग्रियों को नेशनल कमीशन फॉर अलाइड एंड हेल्थकेयर प्रोफेशंस (एनसीएएचपी) की मान्यता मिले।",
-    "pts": [
-     "दिल्ली में एनसीएएचपी अधिकारियों से मिलने पर भी स्पष्टता नहीं",
-     "केंद्र, यूजीसी और शिक्षा मंत्रालय से दखल की अपील",
-     "छात्रों का कहना, पाठ्यक्रम तय नियमों के अनुसार हैं"
-    ],
-    "why": "मान्यता पर स्पष्टता न होने से सैकड़ों छात्रों के रोजगार के अवसर खतरे में हैं।",
-    "cat": "हैदराबाद · शिक्षा",
-    "statl": "से अनिश्चितकालीन भूख हड़ताल"
    }
   }
  ]
