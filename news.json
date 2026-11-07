@@ -1,8 +1,105 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T10:41:47+05:30",
+ "updated": "2026-11-07T11:10:40+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ప్రపంచం · యెమెన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "30+",
+   "statl": "మార్కెట్‌పై దాడిలో మృతులు (హౌతీల వాదన)",
+   "h": "యెమెన్‌లో మార్కెట్‌పై వైమానిక దాడులు: 30 మంది మృతి అని హౌతీలు",
+   "p": "నైరుతి యెమెన్‌లోని తైజ్ ప్రావిన్స్ అల్-వజియాలో ఓ మార్కెట్‌పై శుక్రవారం జరిగిన వైమానిక దాడుల్లో కనీసం 30 మంది చనిపోయారని, 8 మంది గాయపడ్డారని హౌతీ అధికారులు తెలిపారు. సౌదీ మద్దతున్న ప్రభుత్వ బలగాలే కారణమని వారు ఆరోపించారు. ఆ ప్రాంతంలో వైమానిక దాడులు జరగలేదని, హౌతీల క్షిపణి దాడులే కారణమని ప్రభుత్వ వర్గాలు అంటున్నాయి. ఈ వాదనలను స్వతంత్రంగా ధ్రువీకరించలేదని ఏపీ పేర్కొంది.",
+   "src": "AP / Gulf News",
+   "url": "https://gulfnews.com/world/gulf/yemen/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-30-houthis-say-1.500738714",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అల్-హదారా మార్కెట్‌పై మూడు దాడులు అని హౌతీలు",
+    "సౌదీ మద్దతు బలగాలపై హౌతీల ఆరోపణ",
+    "దాడులు జరగలేదన్న ప్రభుత్వ వర్గాలు"
+   ],
+   "why": "హౌతీలు, ప్రభుత్వ బలగాల మధ్య మళ్లీ మొదలైన పోరు గల్ఫ్ ప్రాంత భద్రతపై ప్రభావం చూపవచ్చు.",
+   "d": "07.11.2026",
+   "t": "11:05",
+   "en": {
+    "h": "Houthis say airstrikes on Yemen market killed 30 people",
+    "p": "Houthi officials said at least 30 people were killed and 8 injured in airstrikes on a market in al-Waziyah, Taiz province, southwestern Yemen, on Friday. They blamed Saudi-backed government forces. Government-linked authorities said no airstrikes took place in the area and blamed Houthi missile attacks. AP said it could not independently verify the claims.",
+    "pts": [
+     "Houthis say three strikes hit Al Hadara market",
+     "Houthis blame Saudi-backed forces",
+     "Government side says no airstrikes took place"
+    ],
+    "why": "Renewed fighting between the Houthis and government forces could affect security in the Gulf region.",
+    "cat": "World · Yemen",
+    "statl": "Killed in market attack (Houthi claim)"
+   },
+   "hi": {
+    "h": "हूती बोले: यमन के बाज़ार पर हवाई हमलों में 30 लोगों की मौत",
+    "p": "हूती अधिकारियों ने कहा कि दक्षिण-पश्चिमी यमन के ताइज़ प्रांत के अल-वज़िया में शुक्रवार को एक बाज़ार पर हुए हवाई हमलों में कम से कम 30 लोग मारे गए और 8 घायल हुए। उन्होंने सऊदी समर्थित सरकारी बलों को ज़िम्मेदार ठहराया। सरकार से जुड़े अधिकारियों ने कहा कि इलाके में कोई हवाई हमला नहीं हुआ और हूती मिसाइल हमलों को दोषी बताया। एपी ने कहा कि वह इन दावों की स्वतंत्र पुष्टि नहीं कर सका।",
+    "pts": [
+     "हूतियों के अनुसार अल-हदारा बाज़ार पर तीन हमले",
+     "हूतियों ने सऊदी समर्थित बलों पर आरोप लगाया",
+     "सरकारी पक्ष बोला: कोई हवाई हमला नहीं हुआ"
+    ],
+    "why": "हूतियों और सरकारी बलों के बीच फिर शुरू हुई लड़ाई खाड़ी क्षेत्र की सुरक्षा पर असर डाल सकती है।",
+    "cat": "दुनिया · यमन",
+    "statl": "बाज़ार हमले में मौतें (हूती दावा)"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹3.62 కోట్లు",
+   "statl": "48 మంది పెట్టుబడిదారులకు మోసం",
+   "h": "చిట్‌ఫండ్ పేరుతో 48 మందికి ₹3.62 కోట్ల మోసం; నిందితుడి అరెస్ట్",
+   "p": "చిట్‌ఫండ్ పథకం పేరుతో 48 మంది పెట్టుబడిదారుల నుంచి ₹3.62 కోట్లు వసూలు చేసి మోసం చేశాడన్న ఆరోపణలపై 50 ఏళ్ల వ్యక్తిని శంకర్‌పల్లి పోలీసులు గురువారం అరెస్ట్ చేశారు. 2021 నుంచి 2024 వరకు నెలకు ₹15,000 నుంచి ₹30,000 వరకు వసూలు చేశారని పోలీసులు తెలిపారు. మొత్తం మోసం ₹4 కోట్లు దాటవచ్చని అంచనా. నిందితుడిని రిమాండ్‌కు పంపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-man-cheats-48-investors-of-rs-3-62-crore-in-chit-fund-scam-3571019/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "శంకర్‌పల్లి",
+   "pts": [
+    "2021–2024 మధ్య నెలవారీ వాయిదాల వసూలు",
+    "మొత్తం మోసం ₹4 కోట్లు దాటవచ్చని పోలీసుల అంచనా",
+    "బాధితుడి ఫిర్యాదుతో కేసు నమోదు, రిమాండ్"
+   ],
+   "why": "అనధికార చిట్‌ఫండ్‌లలో డబ్బులు పెట్టే ముందు జాగ్రత్తగా ఉండాలని ఈ కేసు గుర్తుచేస్తోంది.",
+   "d": "07.11.2026",
+   "t": "11:05",
+   "en": {
+    "h": "Man arrested for cheating 48 investors of ₹3.62 crore in chit fund",
+    "p": "Shankarpally police arrested a 50-year-old man on Thursday for allegedly collecting ₹3.62 crore from 48 investors through a chit fund scheme and cheating them. Police said ₹15,000 to ₹30,000 a month was collected from 2021 to 2024. The total fraud is estimated to exceed ₹4 crore. The accused was sent to remand.",
+    "pts": [
+     "Monthly instalments collected between 2021 and 2024",
+     "Police estimate total fraud above ₹4 crore",
+     "Case filed on victim's complaint; accused remanded"
+    ],
+    "why": "The case is a reminder to be careful before investing in unauthorised chit funds.",
+    "cat": "Telangana · Fraud",
+    "statl": "Fraud on 48 investors"
+   },
+   "hi": {
+    "h": "चिटफंड के नाम पर 48 लोगों से ₹3.62 करोड़ की ठगी; आरोपी गिरफ्तार",
+    "p": "शंकरपल्ली पुलिस ने गुरुवार को 50 वर्षीय एक व्यक्ति को गिरफ्तार किया, जिस पर चिटफंड योजना के ज़रिए 48 निवेशकों से ₹3.62 करोड़ जुटाकर ठगी करने का आरोप है। पुलिस के अनुसार 2021 से 2024 तक हर महीने ₹15,000 से ₹30,000 तक वसूले गए। कुल ठगी ₹4 करोड़ से ज़्यादा होने का अनुमान है। आरोपी को रिमांड पर भेजा गया।",
+    "pts": [
+     "2021–2024 के बीच मासिक किस्तें वसूली गईं",
+     "पुलिस का अनुमान: कुल ठगी ₹4 करोड़ से ज़्यादा",
+     "पीड़ित की शिकायत पर केस दर्ज, आरोपी रिमांड पर"
+    ],
+    "why": "यह मामला याद दिलाता है कि अनधिकृत चिटफंड में पैसा लगाने से पहले सावधान रहें।",
+    "cat": "तेलंगाना · धोखाधड़ी",
+    "statl": "48 निवेशकों से ठगी"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · ట్రాఫిక్",
    "col": "--c-city",
@@ -1851,104 +1948,6 @@
     "why": "यह सेना में जाने के इच्छुक युवाओं और मौजूदा अग्निवीरों के भविष्य से जुड़ा मुद्दा है।",
     "cat": "भारत · रक्षा",
     "statl": "31 दिसंबर तक सेवा छोड़ने वाले अग्निवीर"
-   },
-   "d": "06.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "1.65 లక్షలు",
-   "statl": "అక్టోబర్‌లో అమెరికాలో కొత్త ఉద్యోగాలు",
-   "h": "అమెరికాలో అంచనాలను మించి 1.65 లక్షల కొత్త ఉద్యోగాలు",
-   "p": "అమెరికాలో అక్టోబర్ నెలలో వ్యవసాయేతర రంగాల్లో 1,65,000 కొత్త ఉద్యోగాలు వచ్చాయి. సుమారు 59,000 మాత్రమే వస్తాయని అంచనా వేశారు. గురువారం ఏఐ షేర్ల పతనంతో నాస్‌డాక్ 100 సూచీ 6.3% పడిపోయి 2.3 లక్షల కోట్ల డాలర్ల విలువ ఆవిరైంది. ఈ నేపథ్యంలో శుక్రవారం మార్కెట్ ప్రారంభానికి ముందు ఫ్యూచర్స్ మిశ్రమంగా కదిలాయి. బిట్‌కాయిన్ 4.57% పడిపోయింది.",
-   "src": "TheStreet",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026",
-   "sec": [
-    "world",
-    "business",
-    "jobs"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అంచనా 59,000; వచ్చినవి 1,65,000 ఉద్యోగాలు",
-    "గురువారం నాస్‌డాక్ 100 సూచీ 6.3% పతనం",
-    "బిట్‌కాయిన్ 4.57% తగ్గి సుమారు 75,953 డాలర్లకు"
-   ],
-   "why": "అమెరికా ఉద్యోగ గణాంకాలు ప్రపంచ మార్కెట్ల దిశను, భారత పెట్టుబడిదారులను ప్రభావితం చేస్తాయి.",
-   "en": {
-    "h": "US adds 1.65 lakh jobs in October, beating estimates",
-    "p": "The US added 165,000 non-farm jobs in October, against estimates of about 59,000. On Thursday, an AI stock sell-off pulled the Nasdaq 100 down 6.3%, wiping out $2.3 trillion in value. Against this backdrop, futures moved mixed before Friday's market open. Bitcoin fell 4.57%.",
-    "pts": [
-     "Estimate 59,000; actual 165,000 jobs",
-     "Nasdaq 100 fell 6.3% on Thursday",
-     "Bitcoin down 4.57% to about $75,953"
-    ],
-    "why": "US jobs data steers global markets and affects Indian investors.",
-    "cat": "World · USA",
-    "statl": "new US jobs in October"
-   },
-   "hi": {
-    "h": "अमेरिका में अनुमान से ज्यादा 1.65 लाख नई नौकरियां",
-    "p": "अमेरिका में अक्टूबर में गैर-कृषि क्षेत्रों में 1,65,000 नई नौकरियां जुड़ीं, जबकि करीब 59,000 का अनुमान था। गुरुवार को एआई शेयरों में गिरावट से नैस्डैक 100 सूचकांक 6.3% गिरा और 2.3 लाख करोड़ डॉलर का मूल्य मिट गया। इसी पृष्ठभूमि में शुक्रवार को बाजार खुलने से पहले फ्यूचर्स मिले-जुले रहे। बिटकॉइन 4.57% गिरा।",
-    "pts": [
-     "अनुमान 59,000; मिलीं 1,65,000 नौकरियां",
-     "गुरुवार को नैस्डैक 100 में 6.3% गिरावट",
-     "बिटकॉइन 4.57% गिरकर करीब 75,953 डॉलर"
-    ],
-    "why": "अमेरिकी रोजगार आंकड़े वैश्विक बाजारों की दिशा और भारतीय निवेशकों को प्रभावित करते हैं।",
-    "cat": "दुनिया · अमेरिका",
-    "statl": "अक्टूबर में अमेरिका में नई नौकरियां"
-   },
-   "d": "06.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "7",
-   "statl": "ఇరాన్ పెట్టిన డిమాండ్లు",
-   "h": "ఖతార్ ద్వారా అమెరికాకు ఇరాన్ అణు ప్రతిపాదన: నివేదికలు",
-   "p": "ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ తన అణు ప్రతిపాదనను అమెరికాకు పంపినట్టు సమాచారం. వాషింగ్టన్ దాన్ని పరిశీలిస్తోంది. అమెరికా తమ ఏడు డిమాండ్లు నెరవేర్చిన తర్వాతే ఈ ప్రతిపాదనపై చర్చ ఉంటుందని ఇరాన్ సీనియర్ అధికారి ఒకరు చెప్పారు. మరోవైపు ఇరాన్‌లో మిగిలినదాన్నీ ధ్వంసం చేయాల్సి రావచ్చని ట్రంప్ హెచ్చరించారు. యుద్ధం ముగింపు ప్రయత్నాలపై ట్రంప్ ఖతార్ ఎమీర్‌తో ఫోన్‌లో మాట్లాడారు.",
-   "src": "The National, Al Jazeera, TheStreet",
-   "url": "https://www.thenationalnews.com/news/mena/2026/11/06/live-iran-war-us-nuclear-proposal/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఖతార్ ద్వారా ప్రతిపాదన; పరిశీలిస్తున్న అమెరికా",
-    "ఏడు డిమాండ్లు నెరవేరాకే చర్చ: ఇరాన్ అధికారి",
-    "ఖతార్ ఎమీర్‌తో ట్రంప్ ఫోన్ సంభాషణ"
-   ],
-   "why": "యుద్ధానికి దౌత్య పరిష్కారం దిశగా ఇది కొత్త పరిణామం; గల్ఫ్‌లోని తెలుగు కుటుంబాలకు ముఖ్యమైన వార్త.",
-   "en": {
-    "h": "Iran sends nuclear proposal to US via Qatar: reports",
-    "p": "Iran has reportedly sent its nuclear proposal to the US through Qatari mediators, and Washington is reviewing it. A senior Iranian official said the proposal will be discussed only after the US meets Iran's seven demands. Meanwhile, Trump warned the US may have to destroy the rest of Iran. Trump also spoke by phone with Qatar's Emir on efforts to end the war.",
-    "pts": [
-     "Proposal sent via Qatar; US reviewing it",
-     "Talks only after seven demands met: Iranian official",
-     "Trump speaks to Qatar's Emir by phone"
-    ],
-    "why": "A new step towards a diplomatic end to the war; important news for Telugu families in the Gulf.",
-    "cat": "World · Iran",
-    "statl": "demands set by Iran"
-   },
-   "hi": {
-    "h": "कतर के जरिए ईरान ने अमेरिका को परमाणु प्रस्ताव भेजा: रिपोर्ट",
-    "p": "खबरों के मुताबिक ईरान ने कतर के मध्यस्थों के जरिए अपना परमाणु प्रस्ताव अमेरिका को भेजा है और वॉशिंगटन इसकी समीक्षा कर रहा है। एक वरिष्ठ ईरानी अधिकारी ने कहा कि अमेरिका के ईरान की सात मांगें पूरी करने के बाद ही इस पर चर्चा होगी। इस बीच ट्रंप ने चेतावनी दी कि अमेरिका को बाकी ईरान को भी नष्ट करना पड़ सकता है। ट्रंप ने युद्ध खत्म करने के प्रयासों पर कतर के अमीर से फोन पर बात की।",
-    "pts": [
-     "कतर के जरिए प्रस्ताव; अमेरिका कर रहा समीक्षा",
-     "सात मांगें पूरी होने के बाद ही बातचीत: ईरानी अधिकारी",
-     "ट्रंप ने कतर के अमीर से फोन पर बात की"
-    ],
-    "why": "युद्ध के कूटनीतिक समाधान की दिशा में नया कदम; खाड़ी में रहने वाले तेलुगु परिवारों के लिए अहम खबर।",
-    "cat": "दुनिया · ईरान",
-    "statl": "ईरान की मांगें"
    },
    "d": "06.11.2026",
    "t": "19:35"

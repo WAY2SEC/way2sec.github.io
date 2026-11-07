@@ -1,8 +1,105 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 25,
+ "count": 27,
  "stories": [
+  {
+   "cat": "ప్రపంచం · యెమెన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "30+",
+   "statl": "మార్కెట్‌పై దాడిలో మృతులు (హౌతీల వాదన)",
+   "h": "యెమెన్‌లో మార్కెట్‌పై వైమానిక దాడులు: 30 మంది మృతి అని హౌతీలు",
+   "p": "నైరుతి యెమెన్‌లోని తైజ్ ప్రావిన్స్ అల్-వజియాలో ఓ మార్కెట్‌పై శుక్రవారం జరిగిన వైమానిక దాడుల్లో కనీసం 30 మంది చనిపోయారని, 8 మంది గాయపడ్డారని హౌతీ అధికారులు తెలిపారు. సౌదీ మద్దతున్న ప్రభుత్వ బలగాలే కారణమని వారు ఆరోపించారు. ఆ ప్రాంతంలో వైమానిక దాడులు జరగలేదని, హౌతీల క్షిపణి దాడులే కారణమని ప్రభుత్వ వర్గాలు అంటున్నాయి. ఈ వాదనలను స్వతంత్రంగా ధ్రువీకరించలేదని ఏపీ పేర్కొంది.",
+   "src": "AP / Gulf News",
+   "url": "https://gulfnews.com/world/gulf/yemen/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-30-houthis-say-1.500738714",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అల్-హదారా మార్కెట్‌పై మూడు దాడులు అని హౌతీలు",
+    "సౌదీ మద్దతు బలగాలపై హౌతీల ఆరోపణ",
+    "దాడులు జరగలేదన్న ప్రభుత్వ వర్గాలు"
+   ],
+   "why": "హౌతీలు, ప్రభుత్వ బలగాల మధ్య మళ్లీ మొదలైన పోరు గల్ఫ్ ప్రాంత భద్రతపై ప్రభావం చూపవచ్చు.",
+   "d": "07.11.2026",
+   "t": "11:05",
+   "en": {
+    "h": "Houthis say airstrikes on Yemen market killed 30 people",
+    "p": "Houthi officials said at least 30 people were killed and 8 injured in airstrikes on a market in al-Waziyah, Taiz province, southwestern Yemen, on Friday. They blamed Saudi-backed government forces. Government-linked authorities said no airstrikes took place in the area and blamed Houthi missile attacks. AP said it could not independently verify the claims.",
+    "pts": [
+     "Houthis say three strikes hit Al Hadara market",
+     "Houthis blame Saudi-backed forces",
+     "Government side says no airstrikes took place"
+    ],
+    "why": "Renewed fighting between the Houthis and government forces could affect security in the Gulf region.",
+    "cat": "World · Yemen",
+    "statl": "Killed in market attack (Houthi claim)"
+   },
+   "hi": {
+    "h": "हूती बोले: यमन के बाज़ार पर हवाई हमलों में 30 लोगों की मौत",
+    "p": "हूती अधिकारियों ने कहा कि दक्षिण-पश्चिमी यमन के ताइज़ प्रांत के अल-वज़िया में शुक्रवार को एक बाज़ार पर हुए हवाई हमलों में कम से कम 30 लोग मारे गए और 8 घायल हुए। उन्होंने सऊदी समर्थित सरकारी बलों को ज़िम्मेदार ठहराया। सरकार से जुड़े अधिकारियों ने कहा कि इलाके में कोई हवाई हमला नहीं हुआ और हूती मिसाइल हमलों को दोषी बताया। एपी ने कहा कि वह इन दावों की स्वतंत्र पुष्टि नहीं कर सका।",
+    "pts": [
+     "हूतियों के अनुसार अल-हदारा बाज़ार पर तीन हमले",
+     "हूतियों ने सऊदी समर्थित बलों पर आरोप लगाया",
+     "सरकारी पक्ष बोला: कोई हवाई हमला नहीं हुआ"
+    ],
+    "why": "हूतियों और सरकारी बलों के बीच फिर शुरू हुई लड़ाई खाड़ी क्षेत्र की सुरक्षा पर असर डाल सकती है।",
+    "cat": "दुनिया · यमन",
+    "statl": "बाज़ार हमले में मौतें (हूती दावा)"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹3.62 కోట్లు",
+   "statl": "48 మంది పెట్టుబడిదారులకు మోసం",
+   "h": "చిట్‌ఫండ్ పేరుతో 48 మందికి ₹3.62 కోట్ల మోసం; నిందితుడి అరెస్ట్",
+   "p": "చిట్‌ఫండ్ పథకం పేరుతో 48 మంది పెట్టుబడిదారుల నుంచి ₹3.62 కోట్లు వసూలు చేసి మోసం చేశాడన్న ఆరోపణలపై 50 ఏళ్ల వ్యక్తిని శంకర్‌పల్లి పోలీసులు గురువారం అరెస్ట్ చేశారు. 2021 నుంచి 2024 వరకు నెలకు ₹15,000 నుంచి ₹30,000 వరకు వసూలు చేశారని పోలీసులు తెలిపారు. మొత్తం మోసం ₹4 కోట్లు దాటవచ్చని అంచనా. నిందితుడిని రిమాండ్‌కు పంపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-man-cheats-48-investors-of-rs-3-62-crore-in-chit-fund-scam-3571019/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "శంకర్‌పల్లి",
+   "pts": [
+    "2021–2024 మధ్య నెలవారీ వాయిదాల వసూలు",
+    "మొత్తం మోసం ₹4 కోట్లు దాటవచ్చని పోలీసుల అంచనా",
+    "బాధితుడి ఫిర్యాదుతో కేసు నమోదు, రిమాండ్"
+   ],
+   "why": "అనధికార చిట్‌ఫండ్‌లలో డబ్బులు పెట్టే ముందు జాగ్రత్తగా ఉండాలని ఈ కేసు గుర్తుచేస్తోంది.",
+   "d": "07.11.2026",
+   "t": "11:05",
+   "en": {
+    "h": "Man arrested for cheating 48 investors of ₹3.62 crore in chit fund",
+    "p": "Shankarpally police arrested a 50-year-old man on Thursday for allegedly collecting ₹3.62 crore from 48 investors through a chit fund scheme and cheating them. Police said ₹15,000 to ₹30,000 a month was collected from 2021 to 2024. The total fraud is estimated to exceed ₹4 crore. The accused was sent to remand.",
+    "pts": [
+     "Monthly instalments collected between 2021 and 2024",
+     "Police estimate total fraud above ₹4 crore",
+     "Case filed on victim's complaint; accused remanded"
+    ],
+    "why": "The case is a reminder to be careful before investing in unauthorised chit funds.",
+    "cat": "Telangana · Fraud",
+    "statl": "Fraud on 48 investors"
+   },
+   "hi": {
+    "h": "चिटफंड के नाम पर 48 लोगों से ₹3.62 करोड़ की ठगी; आरोपी गिरफ्तार",
+    "p": "शंकरपल्ली पुलिस ने गुरुवार को 50 वर्षीय एक व्यक्ति को गिरफ्तार किया, जिस पर चिटफंड योजना के ज़रिए 48 निवेशकों से ₹3.62 करोड़ जुटाकर ठगी करने का आरोप है। पुलिस के अनुसार 2021 से 2024 तक हर महीने ₹15,000 से ₹30,000 तक वसूले गए। कुल ठगी ₹4 करोड़ से ज़्यादा होने का अनुमान है। आरोपी को रिमांड पर भेजा गया।",
+    "pts": [
+     "2021–2024 के बीच मासिक किस्तें वसूली गईं",
+     "पुलिस का अनुमान: कुल ठगी ₹4 करोड़ से ज़्यादा",
+     "पीड़ित की शिकायत पर केस दर्ज, आरोपी रिमांड पर"
+    ],
+    "why": "यह मामला याद दिलाता है कि अनधिकृत चिटफंड में पैसा लगाने से पहले सावधान रहें।",
+    "cat": "तेलंगाना · धोखाधड़ी",
+    "statl": "48 निवेशकों से ठगी"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · ట్రాఫిక్",
    "col": "--c-city",
