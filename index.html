@@ -114,6 +114,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .story.promo .pbtn{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;flex:none}
 .story.promo .btn{text-decoration:none}
 .story.promo .btn.ghost{background:#fff;color:#12284A;border:1px solid #c9d3e1}
+.story .panel .vplay{position:absolute!important;left:auto;right:14px;top:58%;transform:translateY(-50%);width:auto;z-index:3;display:flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:10px 18px 10px 12px;background:rgba(224,6,43,.92);color:#fff;font:800 15px/1.2 var(--body);box-shadow:0 6px 20px rgba(0,0,0,.35);cursor:pointer}
+.vplay svg{background:rgba(255,255,255,.2);border-radius:50%;padding:4px}
 .story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
 #homeLogo{display:flex;align-items:center;-webkit-tap-highlight-color:transparent}
@@ -611,6 +613,18 @@ function jobHTML(s,i){
   <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు మీ చేతిలో! · <em>ఉచిత ప్రచారం</em></b><small>📲 70326 56422 · way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
+function playVideo(src){
+  let o=document.getElementById('vplayer');
+  if(!o){ o=document.createElement('div'); o.id='vplayer';
+    o.style.cssText='position:fixed;inset:0;z-index:95;background:rgba(0,0,0,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:14px';
+    o.innerHTML='<video id="vplayerV" controls playsinline autoplay style="max-width:100%;max-height:82vh;border-radius:12px;background:#000"></video><button type="button" class="btn" id="vplayerX" style="background:#fff;color:#16120E">మూసివేయండి</button>';
+    document.body.appendChild(o);
+    const close=()=>{ const v=document.getElementById('vplayerV'); try{v.pause()}catch(e){} o.hidden=true; };
+    document.getElementById('vplayerX').onclick=close; o.addEventListener('click',e=>{ if(e.target===o) close(); });
+  }
+  const v=document.getElementById('vplayerV'); v.src=src; o.hidden=false; try{ v.play().catch(()=>{}); }catch(e){}
+  try{ if(window.gtag) gtag('event','video_play',{video:src}); }catch(e){}
+}
 function promoItem(n){ return {kind:'promo', h:'Way2Sec – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో', p:'WhatsApp ఛానెల్‌లో జాయిన్ అవ్వండి, way2sec.news విజిట్ చేయండి.', url:'https://way2sec.news/#promo'+n, src:'Way2Sec', d:''}; }
 function withPromos(list){
   const G=CONFIG.GREETING; let gr=null;
@@ -634,7 +648,7 @@ function cardHTML(s,i){
   const kf = '';
   return `<article class="story" aria-label="వార్త ${i+1}" style="--hl:var(${col});--hl-ink:var(${col})">
   <div class="panel">
-    ${sceneSVG(s,'scene')}
+    ${sceneSVG(s,'scene')}${/^videos\/[\w.-]+\.mp4$/.test(s.vid||'')?`<button class="vplay" type="button" data-vid="${esc(s.vid)}" aria-label="వీడియో చూడండి"><svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M8 5v14l11-7z" fill="#fff"/></svg><span>వీడియో చూడండి</span></button>`:''}
     <div class="ptop"><div class="chips">${s.brk?'<span class="chip brk">🔴 BREAKING</span>':''}<span class="chip">${esc(s.cat||U('news'))}</span>${pl}</div><span class="pdate">${esc(s.d||NEWS.date)}${s.t?' · '+esc(s.t):''}</span></div>
     <div><div class="stat">${esc(s.stat)}</div><div class="statl">${esc(s.statl)}</div></div>
   </div>
@@ -673,6 +687,7 @@ function renderFeed(keepKey){
   LIST = withPromos(LIST);
   feed.innerHTML = LIST.map(cardHTML).join('');
   feed.querySelectorAll('[data-psh]').forEach(b=>b.onclick=()=>shareCard(true));
+  feed.querySelectorAll('.vplay').forEach(b=>b.onclick=()=>playVideo(b.dataset.vid));
   cur=0; cards=[...feed.querySelectorAll('.story')];
   if(JUMP){ const j=LIST.findIndex(x=>sid(x)===JUMP); JUMP=null; if(j>0) cur=j; }
   else if(keepKey){ const j=LIST.findIndex(x=>keyOf(x)===keepKey); if(j>0) cur=j; }

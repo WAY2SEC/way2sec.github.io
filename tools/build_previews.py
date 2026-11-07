@@ -62,6 +62,7 @@ table.jd th{width:34%;color:var(--muted);font-weight:800;background:var(--soft)}
 .aside{display:flex;flex-direction:column;gap:18px;position:sticky;top:70px}
 @media (max-width:1020px){.aside{position:static}}
 .aside .latest{flex:none}
+.avid{display:block;width:100%;max-width:420px;max-height:78vh;margin:0 auto 18px;border-radius:16px;background:#000}
 .w2promo{display:block;padding:0 32px 30px}.w2promo img{display:block;width:100%;max-width:560px;height:auto;margin:0 auto;border-radius:16px;box-shadow:0 6px 20px rgba(0,0,0,.12)}
 @media (max-width:640px){.w2promo{padding:0 20px 24px}}
 .brk{background:#C8102E!important;border-color:#C8102E!important;color:#fff!important;animation:brk 1.6s ease-in-out infinite}
@@ -98,6 +99,9 @@ def page(sid, s, kind, img, has_card, target, desc, related):
     sh = shell()
     colvar = s.get("col") or ("--c-job" if kind == "job" else "--c-gov")
     title = s.get("h", "Way2Sec")
+    _v = str(s.get("vid") or "")
+    vid_html = (f'<video class="avid" controls playsinline preload="metadata" poster="/{e(s.get("img",""))}" src="/{e(_v)}"></video>'
+                if _v.startswith("videos/") and _v.endswith(".mp4") else "")
     place = PLACES.get(s.get("place") or "", "")
     brk = '<span class="chip brk">🔴 BREAKING</span>' if s.get("brk") else ""
     chips = brk + f'<span class="chip">{e(s.get("cat") or "వార్త")}</span>' + (f'<span class="chip">📍 {e(place)}</span>' if place else "")
@@ -157,6 +161,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
     <div class="chips">{chips}</div>
     <div><div class="stat{' te' if te else ''}">{e(stat)}</div><div class="statl">{e(s.get("statl"))}</div></div></div>
   <div class="in">
+    {vid_html}
     <h1>{e(title)}</h1>
     <div class="meta">{'<span class="dot"></span>'.join(f"<span>{e(x)}</span>" for x in meta)}</div>
     {body}
