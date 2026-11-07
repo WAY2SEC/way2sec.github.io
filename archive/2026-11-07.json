@@ -1,8 +1,154 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 17,
+ "count": 20,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "79/82",
+   "statl": "తొలి జడ్పీటీసీ ఫలితాల్లో కూటమి విజయాలు",
+   "h": "ఎంపీటీసీ, జడ్పీటీసీ లెక్కింపు: తొలి ఫలితాల్లో కూటమి ఆధిక్యం",
+   "p": "ఏపీలో శనివారం ఉదయం 365 కేంద్రాల్లో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు మొదలైంది. ముందుగా పోస్టల్ బ్యాలెట్లు లెక్కించారు. తొలి సమాచారం ప్రకారం పోస్టల్ లెక్కింపు పూర్తయిన 82 జడ్పీటీసీ స్థానాల్లో టీడీపీ నేతృత్వంలోని కూటమి 79 గెలిచి, మరో 2 చోట్ల ముందంజలో ఉంది. వైఎస్సార్‌సీపీ ఒక్క చోట ఆధిక్యంలో ఉంది. ఎంపీటీసీల్లోనూ కూటమి భారీ ఆధిక్యం కనబరుస్తోంది.",
+   "src": "Oneindia Telugu",
+   "url": "https://telugu.oneindia.com/news/andhra-pradesh/tdp-alliance-took-early-leads-over-ysrcp-in-ap-mptc-zptc-election-votes-counting-513855.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "brk": true,
+   "pts": [
+    "ఎంపీటీసీల్లో కూటమి 1,900, వైఎస్సార్‌సీపీ 89 చోట్ల ముందంజ",
+    "ఇతరులు 31 ఎంపీటీసీ స్థానాల్లో ఆధిక్యం",
+    "మొత్తం 659 జడ్పీటీసీ, 9,829 ఎంపీటీసీ స్థానాల లెక్కింపు"
+   ],
+   "why": "రాష్ట్రంలో మండల, జిల్లా పరిషత్‌ల పాలన ఎవరి చేతికి వెళ్తుందో ఈ ఫలితాలే తేలుస్తాయి.",
+   "en": {
+    "h": "MPTC, ZPTC counting: Alliance leads in early results",
+    "p": "Counting of MPTC and ZPTC votes began on Saturday morning at 365 centres across Andhra Pradesh. Postal ballots were counted first. As per early information, in the 82 ZPTC seats where postal counting was completed, the TDP-led alliance won 79 and was ahead in 2 more. YSRCP was leading in just one seat. The alliance is also showing a big lead in MPTC seats.",
+    "pts": [
+     "Alliance ahead in 1,900 MPTC seats, YSRCP in 89",
+     "Others leading in 31 MPTC seats",
+     "Counting under way for 659 ZPTC and 9,829 MPTC seats"
+    ],
+    "why": "These results decide who will run the mandal and zilla parishads in the state.",
+    "cat": "AP · Local Elections",
+    "statl": "Alliance wins in early ZPTC results"
+   },
+   "hi": {
+    "h": "एमपीटीसी, जेडपीटीसी मतगणना: शुरुआती नतीजों में गठबंधन आगे",
+    "p": "आंध्र प्रदेश में शनिवार सुबह 365 केंद्रों पर एमपीटीसी और जेडपीटीसी वोटों की गिनती शुरू हुई। पहले पोस्टल बैलेट गिने गए। शुरुआती जानकारी के अनुसार, जिन 82 जेडपीटीसी सीटों पर पोस्टल गिनती पूरी हुई, उनमें टीडीपी के नेतृत्व वाले गठबंधन ने 79 जीतीं और 2 पर आगे है। वाईएसआरसीपी सिर्फ एक सीट पर आगे है। एमपीटीसी सीटों में भी गठबंधन बड़ी बढ़त बनाए हुए है।",
+    "pts": [
+     "एमपीटीसी में गठबंधन 1,900, वाईएसआरसीपी 89 सीटों पर आगे",
+     "अन्य 31 एमपीटीसी सीटों पर आगे",
+     "कुल 659 जेडपीटीसी और 9,829 एमपीटीसी सीटों की गिनती"
+    ],
+    "why": "ये नतीजे तय करेंगे कि राज्य में मंडल और जिला परिषदों का शासन किसके हाथ में जाएगा।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "शुरुआती जेडपीटीसी नतीजों में गठबंधन की जीत"
+   },
+   "d": "07.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2",
+   "statl": "ఖెష్మ్ దీవిలో పేలుళ్లు",
+   "h": "ఇరాన్‌లోని ఖెష్మ్ దీవిపై అమెరికా మళ్లీ పరిమిత దాడులు",
+   "p": "ఇరాన్ గగనతల రక్షణ వ్యవస్థలపై తమ దళాలు ‘చిన్న’ దాడులు చేశాయని అమెరికా అధ్యక్షుడు ట్రంప్ శుక్రవారం చెప్పారు. హోర్ముజ్ జలసంధిలోని ఖెష్మ్ దీవి సూజా ప్రాంతంలో రెండు పేలుళ్లు జరిగాయని ఇరాన్ ప్రభుత్వ మీడియా తెలిపింది. అమెరికా మధ్యంతర ఎన్నికల తర్వాత ఇవే తొలి దాడులు. ఇరాన్‌తో చర్చల్లో చాలా పురోగతి ఉందని ట్రంప్ అన్నారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అమెరికా డ్రోన్‌ను కూల్చామని ఇరాన్ సైన్యం ప్రకటన",
+    "పరిస్థితి ‘సాపేక్షంగా ప్రశాంతం’ అని అమెరికా సెంట్‌కామ్",
+    "చర్చలు విఫలమయ్యాయన్న వార్తలను ఖతార్ ఖండించింది"
+   ],
+   "why": "హోర్ముజ్ జలసంధి చమురు రవాణాకు కీలకం కావడంతో గల్ఫ్‌లోని తెలుగువారు, చమురు ధరలపై దృష్టి ఉన్నవారికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "US carries out fresh limited strikes on Iran's Qeshm Island",
+    "p": "US President Trump said on Friday that American forces carried out 'minor' strikes on Iran's air defence systems. Iranian state media said two explosions took place in the Suza area of Qeshm Island in the Strait of Hormuz. These are the first strikes since the US midterm elections. Trump said there has been a lot of progress in talks with Iran.",
+    "pts": [
+     "Iranian army claims it shot down a US drone",
+     "US CENTCOM says situation is 'relatively calm'",
+     "Qatar rejects reports that talks have failed"
+    ],
+    "why": "The Strait of Hormuz is key for oil shipping, so this matters to Telugu people in the Gulf and to those watching oil prices.",
+    "cat": "World · Iran",
+    "statl": "Explosions on Qeshm Island"
+   },
+   "hi": {
+    "h": "ईरान के क़ेश्म द्वीप पर अमेरिका के फिर सीमित हमले",
+    "p": "अमेरिकी राष्ट्रपति ट्रंप ने शुक्रवार को कहा कि अमेरिकी सेना ने ईरान की वायु रक्षा प्रणालियों पर ‘छोटे’ हमले किए। ईरान के सरकारी मीडिया के अनुसार होर्मुज़ जलडमरूमध्य में स्थित क़ेश्म द्वीप के सूज़ा इलाके में दो धमाके हुए। अमेरिकी मध्यावधि चुनावों के बाद ये पहले हमले हैं। ट्रंप ने कहा कि ईरान से बातचीत में काफी प्रगति हुई है।",
+    "pts": [
+     "ईरानी सेना का दावा: अमेरिकी ड्रोन मार गिराया",
+     "अमेरिकी सेंटकॉम ने स्थिति को ‘अपेक्षाकृत शांत’ बताया",
+     "क़तर ने बातचीत विफल होने की खबरों को खारिज किया"
+    ],
+    "why": "होर्मुज़ जलडमरूमध्य तेल परिवहन के लिए अहम है, इसलिए यह खाड़ी में रहने वाले तेलुगु लोगों और तेल कीमतों पर नज़र रखने वालों के लिए अहम है।",
+    "cat": "विश्व · ईरान",
+    "statl": "क़ेश्म द्वीप पर धमाके"
+   },
+   "d": "07.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "భారత్ · క్రికెట్",
+   "col": "--c-money",
+   "art": "unity",
+   "stat": "229",
+   "statl": "షమీ టెస్టు వికెట్లు",
+   "h": "టెస్టు క్రికెట్‌కు మహమ్మద్ షమీ వీడ్కోలు",
+   "p": "భారత పేసర్ మహమ్మద్ షమీ (36) టెస్టు క్రికెట్ నుంచి రిటైర్ అవుతున్నట్లు శుక్రవారం ఇన్‌స్టాగ్రామ్ వీడియో ద్వారా ప్రకటించారు. తన టెస్టు అరంగేట్ర వార్షికోత్సవం రోజునే ఈ నిర్ణయం వెల్లడించారు. 64 టెస్టుల్లో 27.71 సగటుతో 229 వికెట్లు తీశారు. ఐపీఎల్, దేశవాళీ వైట్‌బాల్ క్రికెట్ ఆడుతూనే ఉంటానని ఆయన చెప్పారు.",
+   "src": "ESPNcricinfo",
+   "url": "https://www.espn.com/cricket/story/_/id/50400883/india-news-mohammed-shami-retires-test-cricket",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "2013 నవంబర్‌లో వెస్టిండీస్‌పై టెస్టు అరంగేట్రం",
+    "2023 డబ్ల్యూటీసీ ఫైనలే చివరి టెస్టు మ్యాచ్",
+    "మార్చి 2025 తర్వాత అంతర్జాతీయ మ్యాచ్ ఆడలేదు"
+   ],
+   "why": "దశాబ్దానికి పైగా భారత పేస్ దళంలో కీలకంగా నిలిచిన బౌలర్ టెస్టు ప్రయాణం ముగిసింది.",
+   "en": {
+    "h": "Mohammed Shami bids farewell to Test cricket",
+    "p": "Indian pacer Mohammed Shami (36) announced his retirement from Test cricket on Friday through an Instagram video. He revealed the decision on the anniversary of his Test debut. He took 229 wickets in 64 Tests at an average of 27.71. He said he will continue to play white-ball cricket in the IPL and domestic tournaments.",
+    "pts": [
+     "Made Test debut against West Indies in November 2013",
+     "2023 WTC final was his last Test match",
+     "Has not played an international match since March 2025"
+    ],
+    "why": "The Test journey of a bowler who was key to India's pace attack for over a decade has ended.",
+    "cat": "India · Cricket",
+    "statl": "Shami's Test wickets"
+   },
+   "hi": {
+    "h": "मोहम्मद शमी ने टेस्ट क्रिकेट को अलविदा कहा",
+    "p": "भारतीय तेज़ गेंदबाज़ मोहम्मद शमी (36) ने शुक्रवार को इंस्टाग्राम वीडियो के ज़रिए टेस्ट क्रिकेट से संन्यास की घोषणा की। उन्होंने अपने टेस्ट डेब्यू की सालगिरह के दिन यह फैसला बताया। उन्होंने 64 टेस्ट में 27.71 की औसत से 229 विकेट लिए। उन्होंने कहा कि वे आईपीएल और घरेलू सफेद गेंद क्रिकेट खेलते रहेंगे।",
+    "pts": [
+     "नवंबर 2013 में वेस्टइंडीज़ के खिलाफ टेस्ट डेब्यू",
+     "2023 का डब्ल्यूटीसी फाइनल आखिरी टेस्ट मैच",
+     "मार्च 2025 के बाद कोई अंतरराष्ट्रीय मैच नहीं खेला"
+    ],
+    "why": "एक दशक से ज़्यादा समय तक भारत के तेज़ गेंदबाज़ी आक्रमण के अहम गेंदबाज़ का टेस्ट सफर खत्म हो गया।",
+    "cat": "भारत · क्रिकेट",
+    "statl": "शमी के टेस्ट विकेट"
+   },
+   "d": "07.11.2026",
+   "t": "09:35"
+  },
   {
    "cat": "ఢిల్లీ · కాలుష్యం",
    "col": "--c-water",
