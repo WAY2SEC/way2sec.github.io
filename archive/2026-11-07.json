@@ -1,8 +1,156 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 88,
+ "count": 91,
  "stories": [
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "₹10 లక్షలు",
+   "statl": "సీబీఎస్‌ఈపై జరిమానా కోరిన పిటిషనర్",
+   "h": "ప్రైవేట్ స్కూళ్లలో ఖరీదైన పుస్తకాలపై సీబీఎస్‌ఈని ప్రశ్నించిన హైకోర్టు",
+   "p": "సీబీఎస్‌ఈ అనుబంధ ప్రైవేట్ పాఠశాలలు ఎన్‌సీఈఆర్‌టీ పుస్తకాలకు బదులు ఖరీదైన పుస్తకాలు కొనాలని విద్యార్థులపై ఒత్తిడి తెస్తున్నాయన్న ఆరోపణలపై ఏం చర్యలు తీసుకున్నారో చెప్పాలని తెలంగాణ హైకోర్టు సీబీఎస్‌ఈని అడిగింది. బోరబండకు చెందిన ఒక తల్లిదండ్రి వేసిన రిట్ పిటిషన్‌పై జస్టిస్ ఎన్.వి. శ్రవణ్ కుమార్ విచారణ జరిపారు. తదుపరి విచారణ నవంబర్ 12న జరగనుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-hc-questions-cbse-over-costly-books-in-private-schools-3571326/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బోరబండ",
+   "pts": [
+    "ఎన్‌సీఈఆర్‌టీ బోధన తప్పనిసరి అని పిటిషనర్ వాదన",
+    "స్కూళ్లలో పేరెంట్-టీచర్ సంఘాల అమలు కూడా కోరిక",
+    "తదుపరి విచారణ నవంబర్ 12న"
+   ],
+   "why": "ప్రైవేట్ సీబీఎస్‌ఈ పాఠశాలల్లో చదివే పిల్లల తల్లిదండ్రుల పుస్తకాల ఖర్చుపై ఈ కేసు ప్రభావం చూపవచ్చు.",
+   "d": "07.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Telangana HC questions CBSE over costly books in private schools",
+    "p": "The Telangana High Court asked CBSE what action it has taken on allegations that CBSE-affiliated private schools pressure students to buy costly books instead of NCERT textbooks. Justice N.V. Shravan Kumar heard a writ petition filed by a parent from Borabanda. The next hearing is on November 12.",
+    "pts": [
+     "Petitioner says NCERT teaching is mandatory",
+     "Also seeks parent-teacher associations in schools",
+     "Next hearing on November 12"
+    ],
+    "why": "The case could affect book expenses for parents of children in private CBSE schools.",
+    "cat": "Telangana · High Court",
+    "statl": "Penalty sought against CBSE by petitioner"
+   },
+   "hi": {
+    "h": "निजी स्कूलों में महंगी किताबों पर हाईकोर्ट ने सीबीएसई से पूछा सवाल",
+    "p": "तेलंगाना हाईकोर्ट ने सीबीएसई से पूछा है कि सीबीएसई से संबद्ध निजी स्कूलों द्वारा छात्रों पर एनसीईआरटी की जगह महंगी किताबें खरीदने का दबाव डालने के आरोपों पर उसने क्या कार्रवाई की है। जस्टिस एन.वी. श्रवण कुमार ने बोराबंडा के एक अभिभावक की रिट याचिका पर सुनवाई की। अगली सुनवाई 12 नवंबर को होगी।",
+    "pts": [
+     "याचिकाकर्ता का तर्क: एनसीईआरटी से पढ़ाई अनिवार्य",
+     "स्कूलों में अभिभावक-शिक्षक संघ लागू करने की भी मांग",
+     "अगली सुनवाई 12 नवंबर को"
+    ],
+    "why": "यह मामला निजी सीबीएसई स्कूलों में पढ़ने वाले बच्चों के अभिभावकों के किताबों के खर्च पर असर डाल सकता है।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "याचिकाकर्ता ने सीबीएसई पर जुर्माना मांगा"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆర్థిక మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹670 కోట్లు",
+   "statl": "సుమారు 7,400 మంది పెట్టుబడిదారులకు నష్టం",
+   "h": "₹670 కోట్ల పెట్టుబడి మోసం: హైదరాబాద్‌కు చెందిన రెండు కంపెనీలపై కేసులు",
+   "p": "18 నుంచి 48 శాతం రాబడి ఇస్తామని చెప్పి దేశవ్యాప్తంగా సుమారు 7,400 మంది పెట్టుబడిదారుల నుంచి ₹670 కోట్లు వసూలు చేసి మోసం చేశాయన్న ఆరోపణలపై హైదరాబాద్‌కు చెందిన రెండు కంపెనీలపై సైబరాబాద్ ఆర్థిక నేరాల విభాగం (ఈఓడబ్ల్యూ) దర్యాప్తు చేస్తోంది. ఒకటి స్టాక్ ట్రేడింగ్ సంస్థగా, మరొకటి సేంద్రియ వ్యవసాయ సంస్థగా ప్రచారం చేసుకున్నాయి. ఇప్పటివరకు ఐదుగురిని అరెస్టు చేశారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/two-hyderabad-companies-booked-for-rs-670-crore-investment-fraud-3571404/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "500 మందికి పైగా బాధితులు ఈఓడబ్ల్యూను ఆశ్రయించారు",
+    "2025 అక్టోబర్ నుంచి చెల్లింపులు ఆగిపోయాయి",
+    "మహబూబాబాద్, వనపర్తి, సంగారెడ్డిలో 45 ఆస్తుల జప్తుకు గుర్తింపు"
+   ],
+   "why": "అధిక రాబడి హామీలతో వచ్చే పెట్టుబడి పథకాల విషయంలో ప్రజలు జాగ్రత్తగా ఉండాలని ఈ కేసు గుర్తుచేస్తోంది.",
+   "d": "07.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "₹670 crore investment fraud: cases against two Hyderabad companies",
+    "p": "The Cyberabad Economic Offences Wing (EOW) is investigating two Hyderabad-based companies accused of collecting ₹670 crore from about 7,400 investors across the country by promising returns of 18 to 48 per cent. One was promoted as a stock trading firm and the other as an organic farming venture. Five people have been arrested so far.",
+    "pts": [
+     "Over 500 victims have approached the EOW",
+     "Payouts stopped from October 2025",
+     "45 properties in Mahabubabad, Wanaparthy, Sangareddy identified for attachment"
+    ],
+    "why": "The case is a reminder for people to be careful with investment schemes promising high returns.",
+    "cat": "Hyderabad · Financial Fraud",
+    "statl": "Loss to about 7,400 investors"
+   },
+   "hi": {
+    "h": "₹670 करोड़ का निवेश घोटाला: हैदराबाद की दो कंपनियों पर मामले दर्ज",
+    "p": "18 से 48 प्रतिशत रिटर्न का वादा कर देशभर के करीब 7,400 निवेशकों से ₹670 करोड़ वसूलने के आरोप में हैदराबाद की दो कंपनियों की जांच साइबराबाद आर्थिक अपराध शाखा (ईओडब्ल्यू) कर रही है। एक कंपनी ने खुद को स्टॉक ट्रेडिंग फर्म और दूसरी ने जैविक खेती उद्यम के रूप में पेश किया था। अब तक पांच लोगों को गिरफ्तार किया गया है।",
+    "pts": [
+     "500 से अधिक पीड़ित ईओडब्ल्यू पहुंचे",
+     "अक्टूबर 2025 से भुगतान बंद",
+     "महबूबाबाद, वनपर्ती, संगारेड्डी में 45 संपत्तियां कुर्की के लिए चिह्नित"
+    ],
+    "why": "यह मामला याद दिलाता है कि ऊंचे रिटर्न का वादा करने वाली निवेश योजनाओं से लोग सावधान रहें।",
+    "cat": "हैदराबाद · वित्तीय धोखाधड़ी",
+    "statl": "करीब 7,400 निवेशकों को नुकसान"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · ప్రమాదం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "6",
+   "statl": "భవనం కూలిన ఘటనలో మృతుల సంఖ్య",
+   "h": "ఢిల్లీ చావ్రీ బజార్‌లో భవనం కూలిన ఘటన: మృతులు 6కి, నలుగురు అరెస్టు",
+   "p": "ఢిల్లీలోని చావ్రీ బజార్ వద్ద గురువారం కూలిన నిర్మాణంలో ఉన్న మూడంతస్తుల భవనం ఘటనలో మృతుల సంఖ్య ఆరుకు చేరింది. మృతుల్లో ఐదుగురు బిహార్‌లోని ఖగడియా జిల్లాకు, ఒకరు సహర్సాకు చెందినవారు. భవన యజమాని, ముగ్గురు కాంట్రాక్టర్లను పోలీసులు అరెస్టు చేశారు. నిర్మాణం అక్రమమని పోలీసులు చెప్పారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/death-toll-in-delhi-building-collapse-rises-to-six-4-arrested-3571422/",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "dl-central",
+   "loc": "చావ్రీ బజార్",
+   "pts": [
+    "ఇద్దరు ఎంసీడీ ఇంజినీర్లపై సస్పెన్షన్",
+    "ఎన్‌డీఆర్‌ఎఫ్, అగ్నిమాపక దళం సహాయక చర్యలు",
+    "దర్యాప్తు, కఠిన చర్యలకు సీఎం రేఖా గుప్తా హామీ"
+   ],
+   "why": "నగరాల్లో అక్రమ నిర్మాణాలు, భవన భద్రతపై తనిఖీలు ఎంత అవసరమో ఈ ఘటన చూపుతోంది.",
+   "d": "07.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Delhi Chawri Bazar building collapse: toll rises to 6, four arrested",
+    "p": "The death toll in the collapse of an under-construction three-storey building near Chawri Bazar in Delhi on Thursday has risen to six. Five of the dead were from Bihar's Khagaria district and one from Saharsa. Police arrested the building owner and three contractors. Police said the construction was illegal.",
+    "pts": [
+     "Two MCD engineers suspended",
+     "NDRF and fire services carried out rescue",
+     "CM Rekha Gupta promised a probe and strict action"
+    ],
+    "why": "The incident shows how necessary checks on illegal construction and building safety are in cities.",
+    "cat": "Delhi · Accident",
+    "statl": "Death toll in building collapse"
+   },
+   "hi": {
+    "h": "दिल्ली चावड़ी बाजार इमारत हादसा: मृतक 6 हुए, चार गिरफ्तार",
+    "p": "दिल्ली में चावड़ी बाजार के पास गुरुवार को गिरी निर्माणाधीन तीन मंजिला इमारत के हादसे में मृतकों की संख्या छह हो गई है। मृतकों में पांच बिहार के खगड़िया जिले के और एक सहरसा का था। पुलिस ने इमारत के मालिक और तीन ठेकेदारों को गिरफ्तार किया। पुलिस ने कहा कि निर्माण अवैध था।",
+    "pts": [
+     "एमसीडी के दो इंजीनियर निलंबित",
+     "एनडीआरएफ और दमकल ने राहत कार्य किया",
+     "सीएम रेखा गुप्ता ने जांच और सख्त कार्रवाई का वादा किया"
+    ],
+    "why": "यह हादसा दिखाता है कि शहरों में अवैध निर्माण और इमारतों की सुरक्षा की जांच कितनी जरूरी है।",
+    "cat": "दिल्ली · हादसा",
+    "statl": "इमारत हादसे में मृतकों की संख्या"
+   }
+  },
   {
    "cat": "తెలంగాణ · వినియోగదారులు",
    "col": "--c-gov",

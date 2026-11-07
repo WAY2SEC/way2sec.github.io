@@ -1,8 +1,156 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T21:08:11+05:30",
+ "updated": "2026-11-07T21:40:57+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "₹10 లక్షలు",
+   "statl": "సీబీఎస్‌ఈపై జరిమానా కోరిన పిటిషనర్",
+   "h": "ప్రైవేట్ స్కూళ్లలో ఖరీదైన పుస్తకాలపై సీబీఎస్‌ఈని ప్రశ్నించిన హైకోర్టు",
+   "p": "సీబీఎస్‌ఈ అనుబంధ ప్రైవేట్ పాఠశాలలు ఎన్‌సీఈఆర్‌టీ పుస్తకాలకు బదులు ఖరీదైన పుస్తకాలు కొనాలని విద్యార్థులపై ఒత్తిడి తెస్తున్నాయన్న ఆరోపణలపై ఏం చర్యలు తీసుకున్నారో చెప్పాలని తెలంగాణ హైకోర్టు సీబీఎస్‌ఈని అడిగింది. బోరబండకు చెందిన ఒక తల్లిదండ్రి వేసిన రిట్ పిటిషన్‌పై జస్టిస్ ఎన్.వి. శ్రవణ్ కుమార్ విచారణ జరిపారు. తదుపరి విచారణ నవంబర్ 12న జరగనుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-hc-questions-cbse-over-costly-books-in-private-schools-3571326/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బోరబండ",
+   "pts": [
+    "ఎన్‌సీఈఆర్‌టీ బోధన తప్పనిసరి అని పిటిషనర్ వాదన",
+    "స్కూళ్లలో పేరెంట్-టీచర్ సంఘాల అమలు కూడా కోరిక",
+    "తదుపరి విచారణ నవంబర్ 12న"
+   ],
+   "why": "ప్రైవేట్ సీబీఎస్‌ఈ పాఠశాలల్లో చదివే పిల్లల తల్లిదండ్రుల పుస్తకాల ఖర్చుపై ఈ కేసు ప్రభావం చూపవచ్చు.",
+   "d": "07.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Telangana HC questions CBSE over costly books in private schools",
+    "p": "The Telangana High Court asked CBSE what action it has taken on allegations that CBSE-affiliated private schools pressure students to buy costly books instead of NCERT textbooks. Justice N.V. Shravan Kumar heard a writ petition filed by a parent from Borabanda. The next hearing is on November 12.",
+    "pts": [
+     "Petitioner says NCERT teaching is mandatory",
+     "Also seeks parent-teacher associations in schools",
+     "Next hearing on November 12"
+    ],
+    "why": "The case could affect book expenses for parents of children in private CBSE schools.",
+    "cat": "Telangana · High Court",
+    "statl": "Penalty sought against CBSE by petitioner"
+   },
+   "hi": {
+    "h": "निजी स्कूलों में महंगी किताबों पर हाईकोर्ट ने सीबीएसई से पूछा सवाल",
+    "p": "तेलंगाना हाईकोर्ट ने सीबीएसई से पूछा है कि सीबीएसई से संबद्ध निजी स्कूलों द्वारा छात्रों पर एनसीईआरटी की जगह महंगी किताबें खरीदने का दबाव डालने के आरोपों पर उसने क्या कार्रवाई की है। जस्टिस एन.वी. श्रवण कुमार ने बोराबंडा के एक अभिभावक की रिट याचिका पर सुनवाई की। अगली सुनवाई 12 नवंबर को होगी।",
+    "pts": [
+     "याचिकाकर्ता का तर्क: एनसीईआरटी से पढ़ाई अनिवार्य",
+     "स्कूलों में अभिभावक-शिक्षक संघ लागू करने की भी मांग",
+     "अगली सुनवाई 12 नवंबर को"
+    ],
+    "why": "यह मामला निजी सीबीएसई स्कूलों में पढ़ने वाले बच्चों के अभिभावकों के किताबों के खर्च पर असर डाल सकता है।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "याचिकाकर्ता ने सीबीएसई पर जुर्माना मांगा"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆర్థిక మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹670 కోట్లు",
+   "statl": "సుమారు 7,400 మంది పెట్టుబడిదారులకు నష్టం",
+   "h": "₹670 కోట్ల పెట్టుబడి మోసం: హైదరాబాద్‌కు చెందిన రెండు కంపెనీలపై కేసులు",
+   "p": "18 నుంచి 48 శాతం రాబడి ఇస్తామని చెప్పి దేశవ్యాప్తంగా సుమారు 7,400 మంది పెట్టుబడిదారుల నుంచి ₹670 కోట్లు వసూలు చేసి మోసం చేశాయన్న ఆరోపణలపై హైదరాబాద్‌కు చెందిన రెండు కంపెనీలపై సైబరాబాద్ ఆర్థిక నేరాల విభాగం (ఈఓడబ్ల్యూ) దర్యాప్తు చేస్తోంది. ఒకటి స్టాక్ ట్రేడింగ్ సంస్థగా, మరొకటి సేంద్రియ వ్యవసాయ సంస్థగా ప్రచారం చేసుకున్నాయి. ఇప్పటివరకు ఐదుగురిని అరెస్టు చేశారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/two-hyderabad-companies-booked-for-rs-670-crore-investment-fraud-3571404/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "500 మందికి పైగా బాధితులు ఈఓడబ్ల్యూను ఆశ్రయించారు",
+    "2025 అక్టోబర్ నుంచి చెల్లింపులు ఆగిపోయాయి",
+    "మహబూబాబాద్, వనపర్తి, సంగారెడ్డిలో 45 ఆస్తుల జప్తుకు గుర్తింపు"
+   ],
+   "why": "అధిక రాబడి హామీలతో వచ్చే పెట్టుబడి పథకాల విషయంలో ప్రజలు జాగ్రత్తగా ఉండాలని ఈ కేసు గుర్తుచేస్తోంది.",
+   "d": "07.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "₹670 crore investment fraud: cases against two Hyderabad companies",
+    "p": "The Cyberabad Economic Offences Wing (EOW) is investigating two Hyderabad-based companies accused of collecting ₹670 crore from about 7,400 investors across the country by promising returns of 18 to 48 per cent. One was promoted as a stock trading firm and the other as an organic farming venture. Five people have been arrested so far.",
+    "pts": [
+     "Over 500 victims have approached the EOW",
+     "Payouts stopped from October 2025",
+     "45 properties in Mahabubabad, Wanaparthy, Sangareddy identified for attachment"
+    ],
+    "why": "The case is a reminder for people to be careful with investment schemes promising high returns.",
+    "cat": "Hyderabad · Financial Fraud",
+    "statl": "Loss to about 7,400 investors"
+   },
+   "hi": {
+    "h": "₹670 करोड़ का निवेश घोटाला: हैदराबाद की दो कंपनियों पर मामले दर्ज",
+    "p": "18 से 48 प्रतिशत रिटर्न का वादा कर देशभर के करीब 7,400 निवेशकों से ₹670 करोड़ वसूलने के आरोप में हैदराबाद की दो कंपनियों की जांच साइबराबाद आर्थिक अपराध शाखा (ईओडब्ल्यू) कर रही है। एक कंपनी ने खुद को स्टॉक ट्रेडिंग फर्म और दूसरी ने जैविक खेती उद्यम के रूप में पेश किया था। अब तक पांच लोगों को गिरफ्तार किया गया है।",
+    "pts": [
+     "500 से अधिक पीड़ित ईओडब्ल्यू पहुंचे",
+     "अक्टूबर 2025 से भुगतान बंद",
+     "महबूबाबाद, वनपर्ती, संगारेड्डी में 45 संपत्तियां कुर्की के लिए चिह्नित"
+    ],
+    "why": "यह मामला याद दिलाता है कि ऊंचे रिटर्न का वादा करने वाली निवेश योजनाओं से लोग सावधान रहें।",
+    "cat": "हैदराबाद · वित्तीय धोखाधड़ी",
+    "statl": "करीब 7,400 निवेशकों को नुकसान"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · ప్రమాదం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "6",
+   "statl": "భవనం కూలిన ఘటనలో మృతుల సంఖ్య",
+   "h": "ఢిల్లీ చావ్రీ బజార్‌లో భవనం కూలిన ఘటన: మృతులు 6కి, నలుగురు అరెస్టు",
+   "p": "ఢిల్లీలోని చావ్రీ బజార్ వద్ద గురువారం కూలిన నిర్మాణంలో ఉన్న మూడంతస్తుల భవనం ఘటనలో మృతుల సంఖ్య ఆరుకు చేరింది. మృతుల్లో ఐదుగురు బిహార్‌లోని ఖగడియా జిల్లాకు, ఒకరు సహర్సాకు చెందినవారు. భవన యజమాని, ముగ్గురు కాంట్రాక్టర్లను పోలీసులు అరెస్టు చేశారు. నిర్మాణం అక్రమమని పోలీసులు చెప్పారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/death-toll-in-delhi-building-collapse-rises-to-six-4-arrested-3571422/",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "dl-central",
+   "loc": "చావ్రీ బజార్",
+   "pts": [
+    "ఇద్దరు ఎంసీడీ ఇంజినీర్లపై సస్పెన్షన్",
+    "ఎన్‌డీఆర్‌ఎఫ్, అగ్నిమాపక దళం సహాయక చర్యలు",
+    "దర్యాప్తు, కఠిన చర్యలకు సీఎం రేఖా గుప్తా హామీ"
+   ],
+   "why": "నగరాల్లో అక్రమ నిర్మాణాలు, భవన భద్రతపై తనిఖీలు ఎంత అవసరమో ఈ ఘటన చూపుతోంది.",
+   "d": "07.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Delhi Chawri Bazar building collapse: toll rises to 6, four arrested",
+    "p": "The death toll in the collapse of an under-construction three-storey building near Chawri Bazar in Delhi on Thursday has risen to six. Five of the dead were from Bihar's Khagaria district and one from Saharsa. Police arrested the building owner and three contractors. Police said the construction was illegal.",
+    "pts": [
+     "Two MCD engineers suspended",
+     "NDRF and fire services carried out rescue",
+     "CM Rekha Gupta promised a probe and strict action"
+    ],
+    "why": "The incident shows how necessary checks on illegal construction and building safety are in cities.",
+    "cat": "Delhi · Accident",
+    "statl": "Death toll in building collapse"
+   },
+   "hi": {
+    "h": "दिल्ली चावड़ी बाजार इमारत हादसा: मृतक 6 हुए, चार गिरफ्तार",
+    "p": "दिल्ली में चावड़ी बाजार के पास गुरुवार को गिरी निर्माणाधीन तीन मंजिला इमारत के हादसे में मृतकों की संख्या छह हो गई है। मृतकों में पांच बिहार के खगड़िया जिले के और एक सहरसा का था। पुलिस ने इमारत के मालिक और तीन ठेकेदारों को गिरफ्तार किया। पुलिस ने कहा कि निर्माण अवैध था।",
+    "pts": [
+     "एमसीडी के दो इंजीनियर निलंबित",
+     "एनडीआरएफ और दमकल ने राहत कार्य किया",
+     "सीएम रेखा गुप्ता ने जांच और सख्त कार्रवाई का वादा किया"
+    ],
+    "why": "यह हादसा दिखाता है कि शहरों में अवैध निर्माण और इमारतों की सुरक्षा की जांच कितनी जरूरी है।",
+    "cat": "दिल्ली · हादसा",
+    "statl": "इमारत हादसे में मृतकों की संख्या"
+   }
+  },
   {
    "cat": "తెలంగాణ · వినియోగదారులు",
    "col": "--c-gov",
@@ -1700,153 +1848,6 @@
     "why": "यह मामला याद दिलाता है कि लोग सोशल मीडिया विज्ञापनों, नौकरी और शेयर बाज़ार के ऑफ़र से सावधान रहें।",
     "cat": "तेलंगाना · साइबर अपराध",
     "statl": "म्यूल खातों से घुमाई गई धोखाधड़ी की रकम"
-   },
-   "d": "07.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఏసీబీ",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "90",
-   "statl": "సిబ్బంది ఫోన్లలో అనుమానాస్పద యూపీఐ లావాదేవీలు",
-   "h": "టపాసుల దుకాణాల లైసెన్సులు: ఫైర్ స్టేషన్‌లో 90 అనుమానాస్పద యూపీఐ చెల్లింపులు",
-   "p": "తాత్కాలిక టపాసుల దుకాణాల లైసెన్సుల జారీలో అక్రమాల ఆరోపణలపై ఏసీబీ రంగారెడ్డి రేంజ్ అధికారులు ఉప్పల్ భగాయత్‌లోని ఎల్బీ నగర్ ఫైర్ స్టేషన్‌లో ఆకస్మిక తనిఖీ చేశారు. నిర్ణీత ఫీజు ₹500 కాగా, అంతకంటే ఎక్కువ అడిగారనే ఆరోపణలు ఉన్నాయి. సిబ్బంది ఫోన్లలో ₹1,000 నుంచి ₹4,500 వరకు సుమారు 90 యూపీఐ లావాదేవీలు గుర్తించారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/acb-flags-90-suspicious-upi-transactions-in-firecracker-licence-case-3571121/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "ఉప్పల్",
-   "pts": [
-    "సుమారు 397 దరఖాస్తులు, 26 పెండింగ్‌లో",
-    "లావాదేవీలు గత వారంలో జరిగినట్లు సమాచారం",
-    "₹500 కంటే ఎక్కువ చెల్లించవద్దని ఏసీబీ సూచన"
-   ],
-   "why": "దీపావళి టపాసుల దుకాణాల లైసెన్సుల కోసం దరఖాస్తు చేసేవారు అదనపు డబ్బు అడిగితే ఫిర్యాదు చేయవచ్చు.",
-   "en": {
-    "h": "Firecracker shop licences: 90 suspicious UPI payments found at fire station",
-    "p": "Over alleged irregularities in issuing temporary firecracker shop licences, ACB Ranga Reddy Range officials conducted a surprise check at the LB Nagar fire station in Uppal Bhagath. The prescribed fee is ₹500, but there are allegations that more was demanded. About 90 UPI transactions of ₹1,000 to ₹4,500 were found on staff phones.",
-    "pts": [
-     "About 397 applications, 26 pending",
-     "Transactions reportedly made in the past week",
-     "ACB advises not to pay more than ₹500"
-    ],
-    "why": "Applicants for Diwali firecracker shop licences can complain if asked for extra money.",
-    "cat": "Telangana · ACB",
-    "statl": "Suspicious UPI transactions on staff phones"
-   },
-   "hi": {
-    "h": "पटाखा दुकान लाइसेंस: फायर स्टेशन में 90 संदिग्ध यूपीआई भुगतान मिले",
-    "p": "अस्थायी पटाखा दुकानों के लाइसेंस जारी करने में अनियमितताओं के आरोपों पर एसीबी रंगारेड्डी रेंज के अधिकारियों ने उप्पल भगायत स्थित एलबी नगर फायर स्टेशन पर अचानक जाँच की। तय फीस ₹500 है, लेकिन इससे ज़्यादा माँगने के आरोप हैं। कर्मचारियों के फ़ोन में ₹1,000 से ₹4,500 तक के लगभग 90 यूपीआई लेनदेन मिले।",
-    "pts": [
-     "लगभग 397 आवेदन, 26 लंबित",
-     "लेनदेन पिछले सप्ताह में होने की जानकारी",
-     "एसीबी की सलाह: ₹500 से ज़्यादा न दें"
-    ],
-    "why": "दिवाली पटाखा दुकान लाइसेंस के आवेदक अतिरिक्त पैसे माँगे जाने पर शिकायत कर सकते हैं।",
-    "cat": "तेलंगाना · एसीबी",
-    "statl": "कर्मचारियों के फ़ोन में संदिग्ध यूपीआई लेनदेन"
-   },
-   "d": "07.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "వన్‌వే లూప్",
-   "statl": "హైటెక్ సిటీ రద్దీ తగ్గించే ప్రతిపాదన",
-   "h": "హైటెక్ సిటీలో వన్‌వే లూప్: సైబరాబాద్ సీపీ క్షేత్రస్థాయి పరిశీలన",
-   "p": "పీక్ అవర్స్‌లో ట్రాఫిక్ రద్దీ తగ్గించేందుకు హైటెక్ సిటీ, బయోడైవర్సిటీ జంక్షన్, మైండ్‌స్పేస్–నాలెడ్జ్ సిటీ కారిడార్‌లో ప్రతిపాదించిన వన్‌వే లూప్‌ను సైబరాబాద్ పోలీస్ కమిషనర్ డాక్టర్ ఎం. రమేష్ శుక్రవారం పరిశీలించారు. బయోడైవర్సిటీ జంక్షన్, ఐకియా, టీ-వర్క్స్, క్వాల్‌కామ్ ప్రాంతాల్లో పర్యటించారు. వివరణాత్మక ట్రాఫిక్ అధ్యయనం సిద్ధం చేయాలని అధికారులను ఆదేశించారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/cyberabad-police-inspect-proposed-one-way-loop-in-hitech-city-3571133/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "హైటెక్ సిటీ",
-   "pts": [
-    "టీ-హబ్, ఐకియా, మైండ్‌స్పేస్ చుట్టూ రద్దీ తగ్గించడం లక్ష్యం",
-    "బాటిల్‌నెక్స్, వాహనాల సంఖ్య, పార్కింగ్‌పై అధ్యయనం",
-    "టీజీఎస్‌ఆర్టీసీ, ఎస్‌సీఎస్‌సీ ప్రతినిధులు పాల్గొన్నారు"
-   ],
-   "why": "హైటెక్ సిటీ ప్రాంతంలో రోజూ ప్రయాణించే ఐటీ ఉద్యోగులు, వాహనదారులపై ఈ మార్పు ప్రభావం చూపుతుంది.",
-   "en": {
-    "h": "One-way loop in Hitech City: Cyberabad CP inspects on the ground",
-    "p": "To ease peak-hour traffic congestion, Cyberabad Police Commissioner Dr M Ramesh on Friday inspected the proposed one-way loop across Hitech City, Biodiversity Junction and the Mindspace–Knowledge City corridor. He toured Biodiversity Junction, IKEA, T-Works and Qualcomm areas. He directed officials to prepare a detailed traffic study.",
-    "pts": [
-     "Aim is to ease congestion around T-Hub, IKEA, Mindspace",
-     "Study on bottlenecks, vehicle volumes and parking",
-     "TGSRTC and SCSC representatives took part"
-    ],
-    "why": "The change will affect IT employees and motorists who travel through Hitech City daily.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Proposal to ease Hitech City congestion"
-   },
-   "hi": {
-    "h": "हाईटेक सिटी में वन-वे लूप: साइबराबाद सीपी ने मौके पर जाँच की",
-    "p": "पीक आवर्स में ट्रैफिक जाम कम करने के लिए साइबराबाद पुलिस कमिश्नर डॉ. एम. रमेश ने शुक्रवार को हाईटेक सिटी, बायोडायवर्सिटी जंक्शन और माइंडस्पेस–नॉलेज सिटी कॉरिडोर में प्रस्तावित वन-वे लूप का निरीक्षण किया। उन्होंने बायोडायवर्सिटी जंक्शन, आइकिया, टी-वर्क्स और क्वालकॉम इलाकों का दौरा किया। अधिकारियों को विस्तृत ट्रैफिक अध्ययन तैयार करने का निर्देश दिया।",
-    "pts": [
-     "टी-हब, आइकिया, माइंडस्पेस के आसपास जाम घटाना लक्ष्य",
-     "बॉटलनेक, वाहनों की संख्या और पार्किंग पर अध्ययन",
-     "टीजीएसआरटीसी और एससीएससी प्रतिनिधि शामिल हुए"
-    ],
-    "why": "इस बदलाव का असर हाईटेक सिटी से रोज़ गुज़रने वाले आईटी कर्मचारियों और वाहन चालकों पर पड़ेगा।",
-    "cat": "हैदराबाद · ट्रैफिक",
-    "statl": "हाईटेक सिटी का जाम घटाने का प्रस्ताव"
-   },
-   "d": "07.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "తమిళనాడు · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "₹2,000 కోట్లు",
-   "statl": "విద్యార్థులకు ఉచిత ల్యాప్‌టాప్ పథకం",
-   "h": "తమిళనాడులో కాలేజీ విద్యార్థులకు ఉచిత ల్యాప్‌టాప్‌లు: ₹2,000 కోట్ల పథకానికి ఆమోదం",
-   "p": "2026-27 బడ్జెట్‌లో ప్రకటించిన ₹2,000 కోట్ల 'వెట్రి ల్యాప్‌టాప్ పథకానికి' తమిళనాడు ముఖ్యమంత్రి సి. జోసెఫ్ విజయ్ ఆమోదం తెలిపారు. ప్రభుత్వ, ప్రభుత్వ సహాయ సంస్థల్లో చదువుతున్న మొదటి, రెండో సంవత్సరం డిగ్రీ విద్యార్థులు, పాలిటెక్నిక్, ఐటీఐ డిప్లొమా విద్యార్థులకు ఇది వర్తిస్తుంది. ల్యాప్‌టాప్‌ల కొనుగోలును ప్రభుత్వ సంస్థ ఎల్‌కాట్ చేపడుతుంది.",
-   "src": "India TV, PTI",
-   "url": "https://www.indiatvnews.com/tamil-nadu/news-tamil-nadu-cm-vijay-approves-rs-2-000-crore-free-laptop-scheme-for-college-students-2026-11-07-1058899",
-   "sec": [
-    "india",
-    "education"
-   ],
-   "st": "TN",
-   "place": "st-TN",
-   "pts": [
-    "ఆర్ట్స్, సైన్స్, ఇంజినీరింగ్, మెడిసిన్, లా విద్యార్థులకు వర్తింపు",
-    "ఇంజినీరింగ్ విద్యార్థులకు ఇంటెల్ కోర్ ఐ5 స్థాయి ల్యాప్‌టాప్‌లు",
-    "అమలు పర్యవేక్షణకు సీఎం నేతృత్వంలో ఉన్నత కమిటీ"
-   ],
-   "why": "తమిళనాడు ప్రభుత్వ కాలేజీల్లో చదువుతున్న తెలుగు విద్యార్థులు సహా అర్హులైన విద్యార్థులకు ఉపయోగపడుతుంది.",
-   "en": {
-    "h": "Free laptops for Tamil Nadu college students: ₹2,000 crore scheme approved",
-    "p": "Tamil Nadu Chief Minister C Joseph Vijay approved the ₹2,000 crore 'Vetri Laptop Scheme' announced in the 2026-27 Budget. It covers first and second-year degree students and polytechnic and ITI diploma students at government and government-aided institutions. The state agency ELCOT will procure the laptops.",
-    "pts": [
-     "Covers arts, science, engineering, medicine and law students",
-     "Intel Core i5-level laptops for engineering students",
-     "High-level committee headed by CM to oversee"
-    ],
-    "why": "It will help eligible students in Tamil Nadu government colleges, including Telugu students.",
-    "cat": "Tamil Nadu · Education",
-    "statl": "Free laptop scheme for students"
-   },
-   "hi": {
-    "h": "तमिलनाडु में कॉलेज छात्रों को मुफ़्त लैपटॉप: ₹2,000 करोड़ की योजना मंज़ूर",
-    "p": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने 2026-27 के बजट में घोषित ₹2,000 करोड़ की 'वेत्री लैपटॉप योजना' को मंज़ूरी दी। यह सरकारी और सरकारी सहायता प्राप्त संस्थानों के पहले और दूसरे वर्ष के डिग्री छात्रों तथा पॉलिटेक्निक और आईटीआई डिप्लोमा छात्रों पर लागू होगी। लैपटॉप की ख़रीद सरकारी संस्था एल्कॉट करेगी।",
-    "pts": [
-     "आर्ट्स, साइंस, इंजीनियरिंग, मेडिसिन, लॉ छात्रों पर लागू",
-     "इंजीनियरिंग छात्रों को इंटेल कोर i5 स्तर के लैपटॉप",
-     "अमल की निगरानी के लिए सीएम की अध्यक्षता में उच्च समिति"
-    ],
-    "why": "इससे तमिलनाडु के सरकारी कॉलेजों में पढ़ रहे तेलुगु छात्रों समेत पात्र छात्रों को लाभ होगा।",
-    "cat": "तमिलनाडु · शिक्षा",
-    "statl": "छात्रों के लिए मुफ़्त लैपटॉप योजना"
    },
    "d": "07.11.2026",
    "t": "14:35"
