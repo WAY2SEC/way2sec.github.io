@@ -167,7 +167,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .hint{font-size:11.5px;color:var(--muted);font-weight:600;text-align:center}
 .spacer{flex:1 1 0;min-height:0}
 .qrbar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px var(--gr) 6px var(--gx);background:#16130F;color:#FBF7F0;font-size:13px;font-weight:800;text-decoration:none;flex-shrink:0}
-.qrbar .qp{display:flex;flex-direction:column;gap:2px;min-width:0}.qrbar .qp b{font-size:14.5px;font-weight:900;color:#FFD54A;line-height:1.35}.qrbar .qp small{font-size:12px;font-weight:700;color:#D9D3C8;line-height:1.35;white-space:nowrap}
+.qrbar .qp{display:flex;flex-direction:column;gap:2px;min-width:0}.qrbar .qp b{font-size:14.5px;font-weight:900;color:#FFD54A;line-height:1.35}.qrbar .qp small{font-size:11.5px;font-weight:700;color:#D9D3C8;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.qrbar .qp em{font-style:normal;color:#7CF29A;font-weight:900}
 .qrbar img{width:52px;height:52px;background:#fff;padding:3px;flex-shrink:0}
 /* fitting on short screens */
 .story.t1 .hint{display:none}
@@ -603,7 +603,7 @@ function jobHTML(s,i){
     ${i===0?`<div class="hint">${J('hint')}</div>`:''}
   </div>
   <div class="spacer"></div>
-  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!</b><small>📲 WhatsApp ఛానెల్ · 🌐 way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
+  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!</b><small>📢 మీ వార్తలు, ప్రకటనలకు <em>ఉచిత ప్రచారం</em></small><small>📲 70326 56422 · 🌐 way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
 function promoItem(n){ return {kind:'promo', h:'Way2Sec – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో', p:'WhatsApp ఛానెల్‌లో జాయిన్ అవ్వండి, way2sec.news విజిట్ చేయండి.', url:'https://way2sec.news/#promo'+n, src:'Way2Sec', d:''}; }
@@ -639,7 +639,7 @@ function cardHTML(s,i){
     ${i===0?`<div class="hint">${U('hint')}</div>`:''}
   </div>
   <div class="spacer"></div>
-  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!</b><small>📲 WhatsApp ఛానెల్ · 🌐 way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
+  <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!</b><small>📢 మీ వార్తలు, ప్రకటనలకు <em>ఉచిత ప్రచారం</em></small><small>📲 70326 56422 · 🌐 way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
 function fit(c){ // make the card fit the screen: hide the least important parts first
@@ -862,7 +862,7 @@ async function cardImage(s){
   ctx.font=`800 30px ${TE}`; ctx.fillStyle='#1A1410'; ctx.fillText(s.src||'',P+ctx.measureText('Source | మూలం: ').width+8,yy);
   // QR bar
   yy=H-QR; ctx.fillStyle='#16130F'; ctx.fillRect(0,yy,W,QR);
-  ctx.textBaseline='middle'; ctx.font=`900 40px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText('మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!',P,yy+QR/2-28); ctx.font=`700 27px ${TE}`; ctx.fillStyle='#E6E0D6'; ctx.fillText('📲 WhatsApp ఛానెల్ · 🌐 way2sec.news · QR స్కాన్ చేయండి',P,yy+QR/2+32);
+  ctx.textBaseline='middle'; ctx.font=`900 38px ${TE}`; ctx.fillStyle='#FFD54A'; ctx.fillText('మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!',P,yy+44); ctx.font=`800 27px ${TE}`; ctx.fillStyle='#7CF29A'; ctx.fillText('📢 మీ వార్తలు, ప్రకటనలకు ఉచిత ప్రచారం · 📲 70326 56422',P,yy+98); ctx.font=`700 25px ${TE}`; ctx.fillStyle='#E6E0D6'; ctx.fillText('🌐 way2sec.news · WhatsApp ఛానెల్ · QR స్కాన్ చేయండి',P,yy+146);
   try{ const qr=await loadImg('qr.png'); ctx.fillStyle='#fff'; ctx.fillRect(W-P-150,yy+20,150,150); ctx.drawImage(qr,W-P-142,yy+28,134,134); }catch(e){}
   let url=''; try{ url=c.toDataURL('image/jpeg',0.9); }catch(e){}
   const blob=await new Promise(r=>c.toBlob(r,'image/jpeg',0.9));
