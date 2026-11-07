@@ -8,9 +8,9 @@
    "col": "--c-city",
    "art": "land",
    "stat": "నైజీరియా",
-   "statl": "హిందీలో దీపావళి శుభాకాంక్షలు చెప్పిన దుకాణదారు",
-   "h": "నైజీరియాలో దీపావళి సందడి! హిందీలో భారతీయులకు శుభాకాంక్షలు చెప్పిన టపాసుల దుకాణదారు",
-   "p": "దీపావళి సందడి భారతదేశానికే పరిమితం కాదు. నైజీరియాలో దీపావళి టపాసులు అమ్ముతున్న ఒక మహిళా దుకాణదారు, చేతిలో టపాసుల ప్యాకెట్ పట్టుకుని ఉత్సాహంగా హిందీలో భారతీయులందరికీ దీపావళి శుభాకాంక్షలు చెబుతున్న వీడియో సోషల్ మీడియాలో వైరల్ అవుతోంది. అక్కడ ఉంటున్న భారతీయుల కోసం ఆమె దుకాణం ముందు రంగురంగుల టపాసుల పెట్టెలు పేర్చి ఉన్నాయి. విదేశాల్లోనూ మన పండుగను ఇంత ఆనందంగా పంచుకోవడం చూసి నెటిజన్లు మురిసిపోతున్నారు.",
+   "statl": "హిందీలో దీపావళి శుభాకాంక్షలు చెప్పిన దుకాణ యజమాని",
+   "h": "నైజీరియాలో దీపావళి సందడి! హిందీలో భారతీయులకు శుభాకాంక్షలు చెప్పిన టపాసుల దుకాణ యజమాని",
+   "p": "దీపావళి సందడి భారతదేశానికే పరిమితం కాదు. నైజీరియాలో దీపావళి టపాసులు అమ్ముతున్న ఒక దుకాణ యజమాని, చేతిలో టపాసుల ప్యాకెట్ పట్టుకుని ఉత్సాహంగా హిందీలో భారతీయులందరికీ దీపావళి శుభాకాంక్షలు చెబుతున్న వీడియో సోషల్ మీడియాలో వైరల్ అవుతోంది. అక్కడ ఉంటున్న భారతీయుల కోసం ఆమె దుకాణం ముందు రంగురంగుల టపాసుల పెట్టెలు పేర్చి ఉన్నాయి. విదేశాల్లోనూ మన పండుగను ఇంత ఆనందంగా పంచుకోవడం చూసి నెటిజన్లు మురిసిపోతున్నారు.",
    "src": "సోషల్ మీడియా వీడియో",
    "url": "",
    "sec": [
@@ -22,7 +22,7 @@
    "loc": "నైజీరియా",
    "pts": [
     "▶ వీడియో చూడండి – పై ఫోటోపై నొక్కండి",
-    "నైజీరియాలో టపాసులు అమ్మే దుకాణదారు హిందీలో దీపావళి శుభాకాంక్షలు",
+    "నైజీరియాలో టపాసుల దుకాణ యజమాని హిందీలో దీపావళి శుభాకాంక్షలు",
     "విదేశాల్లోనూ భారతీయ పండుగ సందడి"
    ],
    "why": "ప్రపంచంలో ఎక్కడ ఉన్నా భారతీయుల పండుగలు స్థానికులను కూడా కలుపుతున్నాయని ఈ వీడియో చూపిస్తోంది.",
@@ -30,17 +30,17 @@
    "t": "22:15",
    "img": "photos/2026-11-07-nigeria-diwali.jpg",
    "imgfy": 0.35,
-   "vid": "videos/2026-11-07-nigeria-diwali-wm.mp4",
+   "vid": "videos/2026-11-07-nigeria-diwali-v3.mp4",
    "local": true,
    "en": {
     "cat": "🪔 Diwali · Viral video",
     "stat": "Nigeria",
-    "statl": "Cracker seller wishes Happy Diwali in Hindi",
-    "h": "Diwali cheer in Nigeria! Cracker seller wishes all Indians in Hindi",
-    "p": "Diwali celebrations are not limited to India. A video of a woman selling Diwali crackers in Nigeria, cheerfully wishing all Indians a happy Diwali in Hindi with a pack of crackers in her hand, is going viral on social media. Colourful boxes of crackers for the Indians living there are stacked in front of her shop. Netizens are delighted to see our festival shared so joyfully abroad.",
+    "statl": "Shop owner wishes Happy Diwali in Hindi",
+    "h": "Diwali cheer in Nigeria! Cracker shop owner wishes all Indians in Hindi",
+    "p": "Diwali celebrations are not limited to India. A video of a woman who owns a Diwali cracker shop in Nigeria, cheerfully wishing all Indians a happy Diwali in Hindi with a pack of crackers in her hand, is going viral on social media. Colourful boxes of crackers for the Indians living there are stacked in front of her shop. Netizens are delighted to see our festival shared so joyfully abroad.",
     "pts": [
      "▶ Watch the video – tap the photo above",
-     "A cracker seller in Nigeria wishes Happy Diwali in Hindi",
+     "A cracker shop owner in Nigeria wishes Happy Diwali in Hindi",
      "Indian festival spirit abroad"
     ],
     "why": "The video shows how Indian festivals bring local people together wherever Indians live."
@@ -48,16 +48,17 @@
    "hi": {
     "cat": "🪔 दिवाली · वायरल वीडियो",
     "stat": "नाइजीरिया",
-    "statl": "पटाखा विक्रेता ने हिंदी में दी दिवाली की शुभकामनाएँ",
-    "h": "नाइजीरिया में दिवाली की धूम! पटाखा विक्रेता ने हिंदी में सभी भारतीयों को दी शुभकामनाएँ",
-    "p": "दिवाली की धूम सिर्फ़ भारत तक सीमित नहीं है। नाइजीरिया में दिवाली के पटाखे बेच रही एक महिला दुकानदार का वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वह हाथ में पटाखों का पैकेट लिए जोश से हिंदी में सभी भारतीयों को दिवाली की शुभकामनाएँ दे रही हैं। वहाँ रहने वाले भारतीयों के लिए उनकी दुकान के सामने रंग-बिरंगे पटाखों के डिब्बे सजे हैं। विदेश में भी हमारे त्योहार को इतनी ख़ुशी से मनाते देख लोग खुश हो रहे हैं।",
+    "statl": "दुकान की मालकिन ने हिंदी में दी दिवाली की शुभकामनाएँ",
+    "h": "नाइजीरिया में दिवाली की धूम! पटाखा दुकान की मालकिन ने हिंदी में सभी भारतीयों को दी शुभकामनाएँ",
+    "p": "दिवाली की धूम सिर्फ़ भारत तक सीमित नहीं है। नाइजीरिया में दिवाली के पटाखों की दुकान की एक मालकिन का वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वह हाथ में पटाखों का पैकेट लिए जोश से हिंदी में सभी भारतीयों को दिवाली की शुभकामनाएँ दे रही हैं। वहाँ रहने वाले भारतीयों के लिए उनकी दुकान के सामने रंग-बिरंगे पटाखों के डिब्बे सजे हैं। विदेश में भी हमारे त्योहार को इतनी ख़ुशी से मनाते देख लोग खुश हो रहे हैं।",
     "pts": [
      "▶ वीडियो देखें – ऊपर फ़ोटो पर टैप करें",
-     "नाइजीरिया की पटाखा विक्रेता ने हिंदी में दी दिवाली की शुभकामनाएँ",
+     "नाइजीरिया की पटाखा दुकान की मालकिन ने हिंदी में दी दिवाली की शुभकामनाएँ",
      "विदेश में भी भारतीय त्योहार की धूम"
     ],
     "why": "यह वीडियो दिखाता है कि भारतीय जहाँ भी हों, उनके त्योहार स्थानीय लोगों को भी जोड़ते हैं।"
-   }
+   },
+   "_sid": "1jy2f0f"
   },
   {
    "cat": "🪔 దీపావళి ప్రత్యేక సంచిక",
