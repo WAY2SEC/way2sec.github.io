@@ -397,7 +397,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <div class="toast" id="toast" role="status"></div>
 </div>
 
-<script src="scenes.js?v=20261107b"></script>
+<script src="scenes.js?v=20261107c"></script>
 <script>
 const CONFIG = {
   NEWS_URL: 'news.json',
@@ -517,6 +517,7 @@ const store = {
 let prefs = store.get('prefs', null);
 const firstRun = !prefs;
 prefs = prefs || {place:'TS', topics:DEFAULT_TOPICS.slice()};
+if(!Array.isArray(prefs.topics)) prefs.topics=DEFAULT_TOPICS.slice(); if(!prefs.place) prefs.place='TS'; // a story page may have saved only the language
 { const ql=new URLSearchParams(location.search).get('l'); if(/^(te|en|hi)$/.test(ql||'')) prefs.lang=ql; }
 prefs.theme = prefs.theme || 'auto';
 let saved = store.get('saved', []);

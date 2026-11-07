@@ -124,7 +124,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
                 (f'<p class="why"><small>ఇది ఎందుకు ముఖ్యం?</small>{e(s.get("why"))}</p>' if s.get("why") else ""))
         src = f'<p class="src">మూలం: {e(s.get("src"))}' + (f' · <a href="{e(s.get("url"))}" target="_blank" rel="noopener nofollow">పూర్తి వార్త చదవండి →</a>' if s.get("url") else "") + "</p>"
     share_text = f"{title}\n{SITE}/s/{sid}"
-    trs = {l: {k: s[l][k] for k in ("h", "p", "pts", "why", "cat", "statl", "posts", "qual", "exp", "loc", "age", "how", "walk") if isinstance(s.get(l), dict) and s[l].get(k)} for l in ("en", "hi") if isinstance(s.get(l), dict)}
+    trs = {l: {k: s[l][k] for k in ("h", "p", "pts", "why", "cat", "stat", "statl", "posts", "qual", "exp", "loc", "age", "how", "walk") if isinstance(s.get(l), dict) and s[l].get(k)} for l in ("en", "hi") if isinstance(s.get(l), dict)}
     trs = {l: v for l, v in trs.items() if v.get("h")}
     tr_json = ('<script type="application/json" id="w2sTr">' + json.dumps(trs, ensure_ascii=False).replace("</", "<\\/") + "</script>") if trs else ""
     import urllib.parse as up
@@ -185,7 +185,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <section class="sec"><div class="sh"><h2>మరిన్ని తాజా వార్తలు</h2><a href="/">హోమ్ →</a></div><div class="grid" id="more"></div></section>
 </main>
 {sh["footer"]}
-<script src="/scenes.js?v=20261107b" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
+<script src="/scenes.js?v=20261107c" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>
 """
 
@@ -291,7 +291,7 @@ def static_page(title, desc, body):
 <main class="wrap"><div class="agrid"><article class="ar" style="--hl:var(--c-money);--hlink:var(--c-money)"><div class="in">{body}</div></article>
 <aside class="aside"><div class="latest"><h3>⚡ తాజా వార్తలు</h3><div id="latest"></div></div><div class="rbox rqr"><h4>📲 Way2Sec ఛానెల్</h4><img src="/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR"><p>స్కాన్ చేసి ప్రతి 30 నిమిషాలకు వార్తలు పొందండి</p></div></aside></div></main>
 {sh["footer"]}
-<script src="/scenes.js?v=20261107b" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
+<script src="/scenes.js?v=20261107c" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>
 """
 

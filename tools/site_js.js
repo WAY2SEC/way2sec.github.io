@@ -31,6 +31,8 @@ document.querySelectorAll('nav.secs').forEach(w2sNavFit); if(document.fonts) doc
   const ul=ar.querySelector('.pts'); if(ul&&Array.isArray(T.pts)) ul.innerHTML=T.pts.map(x=>`<li>${esc(x)}</li>`).join('');
   const wy=ar.querySelector('.why'); if(wy&&T.why) wy.innerHTML=`<small>${esc(ui.why)}</small>${esc(T.why)}`;
   const sl=ar.querySelector('.statl'); if(sl&&T.statl) sl.textContent=T.statl;
+  const st=ar.querySelector('.stat'); if(st&&T.stat){ st.textContent=T.stat; st.classList.toggle('te',/[\u0C00-\u0C7F\u0900-\u097F]/.test(T.stat)); }
+  const cp=ar.querySelector('.pnl .chips .chip:not(.brk)'); if(cp&&T.cat) cp.textContent=T.cat;
   ar.querySelectorAll('table.jd tr[data-k]').forEach(r=>{ const k=r.dataset.k, th=r.querySelector('th'), td=r.querySelector('td');
     if(th&&ui.rows[k]) th.textContent=ui.rows[k]; if(td&&T[k]) td.textContent=T[k]; });
   const wj=ar.querySelector('.warnj'); if(wj) wj.textContent=ui.warn;

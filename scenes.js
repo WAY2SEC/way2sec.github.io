@@ -381,3 +381,31 @@ function w2sNavFit(nav){
     document.addEventListener('click',shut); addEventListener('scroll',shut,{passive:true}); document.addEventListener('keydown',e=>{ if(e.key==='Escape') shut(); });
     let t; addEventListener('resize',()=>{ clearTimeout(t); t=setTimeout(()=>document.querySelectorAll('nav.secs').forEach(w2sNavFit),150); }); }
 }
+
+/* First visit through a shared story link: ask the reader's language once (తెలుగు / English / हिन्दी), then show the story in it */
+function w2sAskLang(){
+  try{
+    if(!document.querySelector('article.ar') || document.getElementById('sheet') || document.getElementById('pick')) return;
+    if(/[?&]l=(te|en|hi)\b/.test(location.search)) return;
+    const p=JSON.parse(localStorage.getItem('w2s.prefs')||'{}'); if(p.lang) return;
+  }catch(e){ return; }
+  const o=document.createElement('div'); o.id='w2sAsk';
+  o.style.cssText='position:fixed;inset:0;z-index:9999;background:rgba(8,12,24,.72);display:flex;align-items:center;justify-content:center;padding:18px';
+  o.innerHTML='<div style="background:#fff;color:#14213d;border-radius:20px;padding:22px 20px;width:min(380px,100%);box-shadow:0 20px 60px rgba(0,0,0,.4);text-align:center;font-family:\'Noto Sans Telugu\',\'Noto Sans Devanagari\',system-ui,sans-serif">'
+   +'<img src="/logo.png" alt="Way2Sec" style="height:34px;margin-bottom:10px">'
+   +'<div style="font:800 19px/1.4 inherit">భాష ఎంచుకోండి</div><div style="font:600 14px/1.5 inherit;color:#555">Choose your language · अपनी भाषा चुनें</div>'
+   +'<div style="display:grid;gap:10px;margin-top:16px">'
+   +'<button type="button" data-l="te" style="min-height:52px;border:0;border-radius:12px;background:#e0062b;color:#fff;font:800 19px inherit;cursor:pointer">తెలుగు</button>'
+   +'<button type="button" data-l="en" style="min-height:52px;border:0;border-radius:12px;background:#12284A;color:#fff;font:800 19px inherit;cursor:pointer">English</button>'
+   +'<button type="button" data-l="hi" style="min-height:52px;border:0;border-radius:12px;background:#c47a00;color:#fff;font:800 19px inherit;cursor:pointer">हिन्दी</button>'
+   +'</div></div>';
+  document.body.appendChild(o);
+  o.querySelectorAll('button[data-l]').forEach(b=>b.onclick=()=>{
+    const l=b.dataset.l;
+    try{ const p=JSON.parse(localStorage.getItem('w2s.prefs')||'{}'); p.lang=l; localStorage.setItem('w2s.prefs',JSON.stringify(p)); }catch(e){}
+    try{ if(window.gtag) gtag('event','pick_language',{lang:l,from:'story_link'}); }catch(e){}
+    if(l==='te'){ o.remove(); return; }
+    const u=new URL(location.href); u.searchParams.set('l',l); location.replace(u.toString());
+  });
+}
+if(typeof document!=='undefined'){ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',w2sAskLang); else w2sAskLang(); }
