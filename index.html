@@ -108,6 +108,12 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 
 /* feed + cards (same look as the Way2Sec WhatsApp cards) */
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
+.story.promo{background:#eef4fb;justify-content:center;align-items:center;gap:12px;padding:10px}
+.story.promo .pimg{display:flex;flex:1 1 auto;min-height:0;width:100%;justify-content:center}
+.story.promo .pimg img{display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 6px 14px rgba(0,0,0,.18))}
+.story.promo .pbtn{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;flex:none}
+.story.promo .btn{text-decoration:none}
+.story.promo .btn.ghost{background:#fff;color:#12284A;border:1px solid #c9d3e1}
 .story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
 #homeLogo{display:flex;align-items:center;-webkit-tap-highlight-color:transparent}
@@ -392,7 +398,9 @@ const CONFIG = {
   NEWS_URL: 'news.json',
   CHANNEL: 'https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138',
   APP_LINK: 'https://way2sec.news/',
-  TIP_WHATSAPP: '917032656422'   // Way2Sec news-tips WhatsApp number with country code, digits only, e.g. '919876543210'
+  TIP_WHATSAPP: '917032656422',
+  // Way2Sec promo flyer shown as its own card after every few stories. Set on:false to switch it off.
+  PROMO: {on:true, every:5, img:'promo/way2sec-promo.jpg'}   // Way2Sec news-tips WhatsApp number with country code, digits only, e.g. '919876543210'
 };
 /* Topic photo library (free-licence photos in /photos). Filled in once photos are added. */
 const TOPIC_PHOTOS = {};
@@ -597,7 +605,19 @@ function jobHTML(s,i){
   <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span>స్కాన్ చేసి Way2Sec ఛానెల్‌లో చేరండి</span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
+function promoItem(n){ return {kind:'promo', h:'Way2Sec – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో', p:'WhatsApp ఛానెల్‌లో జాయిన్ అవ్వండి, way2sec.news విజిట్ చేయండి.', url:'https://way2sec.news/#promo'+n, src:'Way2Sec', d:''}; }
+function withPromos(list){
+  const P=CONFIG.PROMO; if(!P||!P.on||view==='saved'||view==='jobs'||list.length<P.every) return list;
+  const out=[]; list.forEach((s,i)=>{ out.push(s); if((i+1)%P.every===0) out.push(promoItem(i)); }); return out;
+}
+function promoHTML(s,i){
+  return `<article class="story promo" aria-label="Way2Sec">
+  <a class="pimg" href="${esc(CONFIG.CHANNEL)}" target="_blank" rel="noopener"><img src="${esc(CONFIG.PROMO.img)}" alt="Way2Sec News – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో! WhatsApp ఛానెల్, వెబ్‌సైట్ way2sec.news"></a>
+  <div class="pbtn"><a class="btn" href="${esc(CONFIG.CHANNEL)}" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a><button class="btn ghost" type="button" data-psh="1">స్నేహితులకు పంపండి</button></div>
+</article>`;
+}
 function cardHTML(s,i){
+  if(s.kind==='promo') return promoHTML(s,i);
   if(s.kind==='job') return jobHTML(s,i);
   const col = s.col||'--c-gov';
   const where=[s.loc, s.place&&s.place!=='TS'&&s.place!=='IN' ? placeName(s.place) : (s.st&&s.st!=='TG'&&s.st!=='IN' ? placeLabel('st-'+s.st) : '')].filter(Boolean).join(', ');
@@ -642,7 +662,9 @@ function renderFeed(keepKey){
     $('toAll').onclick=()=>{section='all';setView('home')};
     setCount(0,0); cards=[]; syncSave(); return;
   }
+  LIST = withPromos(LIST);
   feed.innerHTML = LIST.map(cardHTML).join('');
+  feed.querySelectorAll('[data-psh]').forEach(b=>b.onclick=()=>shareCard(true));
   cur=0; cards=[...feed.querySelectorAll('.story')];
   if(JUMP){ const j=LIST.findIndex(x=>sid(x)===JUMP); JUMP=null; if(j>0) cur=j; }
   else if(keepKey){ const j=LIST.findIndex(x=>keyOf(x)===keepKey); if(j>0) cur=j; }
@@ -695,7 +717,7 @@ function go(i,dir,from){
   else { out.style.zIndex='1'; inn.style.zIndex='3'; bend(inn, from==null?1:from, axis);
     turn(inn, from==null?1:from, 0, axis, ()=>{ out.hidden=true; unbend(out); unbend(inn); busy=false; }); }
   cur=i; setCount(cur+1,cards.length); syncSave();
-  try{ const s=LIST[cur]; if(s && window.gtag) gtag('event','story_view',{story_id:sid(s), story_title:String(s.h||'').slice(0,90), kind:s.kind||'news'}); }catch(e){}
+  try{ const s=LIST[cur]; if(s && s.kind==='promo' && window.gtag) gtag('event','promo_view',{}); if(s && s.kind!=='promo' && window.gtag) gtag('event','story_view',{story_id:sid(s), story_title:String(s.h||'').slice(0,90), kind:s.kind||'news'}); }catch(e){}
 }
 let DR=null; // the page being bent by the finger
 function snapBack(){ const d=DR; DR=null; const c=cards[cur]; if(!d){ if(c) unbend(c); return; }
@@ -742,6 +764,7 @@ document.addEventListener('keydown',e=>{ if(!$('sheet').hidden||!$('joinSheet').
 function syncSave(){ const s=LIST[cur]; $('saveBtn').setAttribute('aria-pressed', !!(s && saved.some(x=>keyOf(x)===keyOf(s)))); }
 $('saveBtn').onclick=()=>{
   const s=LIST[cur]; if(!s) return;
+  if(s.kind==='promo'){ toast('ఇది Way2Sec ప్రకటన'); return; }
   const k=keyOf(s), has=saved.some(x=>keyOf(x)===k);
   saved = has ? saved.filter(x=>keyOf(x)!==k) : [s].concat(saved).slice(0,100);
   store.set('saved',saved); syncSave(); toast(has?'సేవ్ నుంచి తీసేశాం':'సేవ్ అయింది 🔖');
@@ -786,6 +809,7 @@ function wrap(ctx,text,maxW){ // word wrap that keeps Telugu words whole
 }
 function rrect(ctx,x,y,w,h,r){ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath();}
 async function cardImage(s){
+  if(s&&s.kind==='promo'){ try{ const r=await fetch(CONFIG.PROMO.img); const b=await r.blob(); try{ b.dataURL=await new Promise(ok=>{const f=new FileReader(); f.onload=()=>ok(f.result); f.readAsDataURL(b);}); }catch(e){} return b; }catch(e){ return null; } }
   try{ await document.fonts.ready; }catch(e){}
   const W=1080, P=64, col=COLS[s.col]||COLS['--c-gov'];
   const TE="'Noto Sans Telugu','Nirmala UI','Gautami','Noto Sans Devanagari','Kohinoor Devanagari',sans-serif", DI="'Archivo Black','Arial Black',Impact,sans-serif";
@@ -847,6 +871,7 @@ async function cardImage(s){
 window.cardImage=cardImage;
 function storyLink(s){ return CONFIG.APP_LINK+'s/'+sid(s)+'?p=2'+(s._lang?'&l='+s._lang:''); } // p=2: new address, so WhatsApp fetches the preview picture fresh // preview page: shows this story's own card in WhatsApp, then opens it
 function shareText(s){
+  if(s.kind==='promo') return `📰 Way2Sec News – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో!\n⚡ క్షణాల్లో తాజా వార్తలు · తెలంగాణ & ఆంధ్రప్రదేశ్ అన్ని జిల్లాలు\n🌐 ${CONFIG.APP_LINK}\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
   // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
   if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 ${J('posts')}: ${s.stat}${s.qual?`\n${J('elig')}: ${s.qual}`:''}${s.last?`\n${J('last')}: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n${J('warn1')}\n\n👉 ${J('ch')}: ${CONFIG.CHANNEL}`;
   const when=(s.d||NEWS.date||'')+(s.t?' · '+s.t:'');
