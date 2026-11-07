@@ -317,9 +317,11 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   </nav>
 
   <!-- settings: place, topics, theme -->
+  <style>img.wgreet{display:block;width:100%;max-width:420px;height:auto;margin:0 auto 6px;border-radius:14px;box-shadow:0 6px 18px rgba(0,0,0,.18)}img.wgreet[hidden]{display:none}</style>
   <section class="sheet" id="sheet" hidden aria-label="మీ ఎంపికలు">
     <div class="sh-head"><img class="logo" src="logo.png" alt="Way2Sec"><button class="icon x" id="closeSheet" type="button" aria-label="మూసివేయండి"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="sh-body">
+      <img class="wgreet" src="promo/diwali-2026.jpg" alt="Way2Sec – దీపావళి శుభాకాంక్షలు" hidden data-until="2026-11-10T00:00:00+05:30">
       <h2>భాష · Language</h2>
       <div class="grid three" id="langs" role="radiogroup" aria-label="భాష"></div>
       <h2>మీ రాష్ట్రం · Your state</h2>
@@ -1303,5 +1305,6 @@ setTimeout(()=>{
   if(pushOK && !granted && Date.now()-last > 7*864e5 && $('sheet').hidden && $('installBar').hidden) $('alertCard').hidden = false;
 }, 25000);
 </script>
+<script>try{document.querySelectorAll('img.wgreet').forEach(function(i){if(Date.now()<new Date(i.dataset.until).getTime())i.hidden=false})}catch(e){}</script>
 </body>
 </html>
