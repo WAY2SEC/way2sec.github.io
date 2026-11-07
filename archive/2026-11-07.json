@@ -1,8 +1,107 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 77,
+ "count": 79,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఫిన్‌టెక్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "2047",
+   "statl": "తెలంగాణ రైజింగ్ విజన్ లక్ష్య సంవత్సరం",
+   "h": "హైదరాబాద్‌ను అంతర్జాతీయ ఫిన్‌టెక్ హబ్‌గా మారుస్తాం: శ్రీధర్ బాబు",
+   "p": "సింగపూర్‌కు చెందిన ఆర్థ ఫిన్‌టెక్ సంస్థ హైదరాబాద్ కార్యాలయాన్ని పరిశ్రమల శాఖ మంత్రి డి. శ్రీధర్ బాబు శనివారం ప్రారంభించారు. ఐటీ, ఐటీ ఆధారిత సేవల్లో ముందున్న హైదరాబాద్‌ను ఫిన్‌టెక్, డిజిటల్ బ్యాంకింగ్, అంతర్జాతీయ ఆర్థిక సేవలకు కేంద్రంగా తీర్చిదిద్దుతామని చెప్పారు. డిజిటల్ మౌలిక వసతులు, పరిశోధన, నైపుణ్యాలపై ప్రభుత్వం దృష్టి పెట్టిందన్నారు.",
+   "pts": [
+    "సింగపూర్ సంస్థ ఆర్థ ఫిన్‌టెక్ హైదరాబాద్ ఆఫీస్ ప్రారంభం",
+    "ఫిన్‌టెక్, డిజిటల్ బ్యాంకింగ్ రంగాలపై ప్రభుత్వ దృష్టి",
+    "తెలంగాణ రైజింగ్–2047 ద్వారా ప్రపంచ పెట్టుబడుల లక్ష్యం"
+   ],
+   "why": "ఫిన్‌టెక్ సంస్థలు హైదరాబాద్‌కు వస్తే ఆర్థిక సేవల రంగంలో ఉద్యోగ అవకాశాలు పెరగవచ్చు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-aims-to-become-international-fintech-and-financial-services-hub-says-sridhar-babu",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "en": {
+    "h": "Hyderabad to be made an international fintech hub: Sridhar Babu",
+    "p": "Industries Minister D. Sridhar Babu on Saturday inaugurated the Hyderabad office of Singapore-based Artha Fintech. He said Hyderabad, already a leader in IT and IT-enabled services, will be developed into a hub for fintech, digital banking and global financial services. The government is focusing on digital infrastructure, research and skills, he said.",
+    "pts": [
+     "Singapore firm Artha Fintech opens Hyderabad office",
+     "Government focus on fintech and digital banking",
+     "Telangana Rising–2047 aims to attract global investment"
+    ],
+    "why": "If fintech firms come to Hyderabad, job opportunities in financial services may grow.",
+    "cat": "Telangana · Fintech",
+    "statl": "Target year of Telangana Rising vision"
+   },
+   "hi": {
+    "h": "हैदराबाद को अंतरराष्ट्रीय फिनटेक हब बनाएंगे: श्रीधर बाबू",
+    "p": "उद्योग मंत्री डी. श्रीधर बाबू ने शनिवार को सिंगापुर की आर्था फिनटेक कंपनी के हैदराबाद कार्यालय का उद्घाटन किया। उन्होंने कहा कि आईटी और आईटी आधारित सेवाओं में आगे हैदराबाद को फिनटेक, डिजिटल बैंकिंग और वैश्विक वित्तीय सेवाओं का केंद्र बनाया जाएगा। सरकार डिजिटल बुनियादी ढांचे, अनुसंधान और कौशल पर ध्यान दे रही है।",
+    "pts": [
+     "सिंगापुर की आर्था फिनटेक का हैदराबाद कार्यालय शुरू",
+     "फिनटेक, डिजिटल बैंकिंग पर सरकार का ध्यान",
+     "तेलंगाना राइजिंग–2047 से वैश्विक निवेश का लक्ष्य"
+    ],
+    "why": "फिनटेक कंपनियां हैदराबाद आईं तो वित्तीय सेवा क्षेत्र में नौकरी के अवसर बढ़ सकते हैं।",
+    "cat": "तेलंगाना · फिनटेक",
+    "statl": "तेलंगाना राइजिंग विज़न का लक्ष्य वर्ष"
+   },
+   "d": "07.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ఒడిశా · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "నవం. 20",
+   "statl": "స్కాలర్‌షిప్ దరఖాస్తుకు చివరి తేదీ",
+   "h": "ఒడిశాలో మెరిట్ స్కాలర్‌షిప్‌లకు కొత్త దరఖాస్తులు; నవంబర్ 20 వరకు గడువు",
+   "p": "ముఖ్యమంత్రి మేధావి ఛాత్ర ప్రోత్సాహన్ యోజన కింద 2026-27 విద్యా సంవత్సరానికి కొత్త విద్యార్థుల దరఖాస్తు తేదీలను ఒడిశా ఉన్నత విద్యా శాఖ ప్రకటించింది. అర్హులైన విద్యార్థులు నవంబర్ 5 నుంచి 20 వరకు రాష్ట్ర స్కాలర్‌షిప్ పోర్టల్‌లో ఆన్‌లైన్‌లో దరఖాస్తు చేయాలి. యూజీ, పీజీ, టెక్నికల్ మెరిట్ సహా ఐదు పథకాలు ఇందులో ఉన్నాయి.",
+   "pts": [
+    "దరఖాస్తులు scholarship.odisha.gov.in పోర్టల్‌లో మాత్రమే",
+    "కాలేజీలు నవంబర్ 30లోగా దరఖాస్తులు ధృవీకరించాలి",
+    "గోపబంధు పథకం ధృవీకరణ డిసెంబర్ 15 వరకు"
+   ],
+   "why": "ఒడిశాలో చదువుతున్న విద్యార్థులు స్కాలర్‌షిప్ కోల్పోకుండా గడువులోగా దరఖాస్తు చేసుకోవాలి.",
+   "src": "OmmCom News",
+   "url": "https://ommcomnews.com/odisha-news/odisha-govt-announces-fresh-scholarship-dates-under-medhabi-chhatra-protsahan-yojana/",
+   "sec": [
+    "india",
+    "education"
+   ],
+   "st": "OD",
+   "place": "st-OD",
+   "en": {
+    "h": "Odisha opens fresh merit scholarship applications; deadline November 20",
+    "p": "Odisha's Higher Education Department has announced the dates for fresh applications under the Mukhyamantri Medhabi Chhatra Protsahan Yojana for the 2026-27 academic year. Eligible students must apply online on the State Scholarship Portal between November 5 and 20. It covers five schemes, including UG, PG and technical merit scholarships.",
+    "pts": [
+     "Applications only on scholarship.odisha.gov.in portal",
+     "Colleges must verify applications by November 30",
+     "Gopabandhu scheme validation runs till December 15"
+    ],
+    "why": "Students in Odisha must apply before the deadline so they do not miss the scholarship.",
+    "cat": "Odisha · Education",
+    "statl": "Last date to apply for scholarship"
+   },
+   "hi": {
+    "h": "ओडिशा में मेरिट छात्रवृत्ति के नए आवेदन; 20 नवंबर तक मौका",
+    "p": "ओडिशा के उच्च शिक्षा विभाग ने मुख्यमंत्री मेधावी छात्र प्रोत्साहन योजना के तहत 2026-27 शैक्षणिक वर्ष के लिए नए छात्रों के आवेदन की तारीखें घोषित की हैं। पात्र छात्र 5 से 20 नवंबर तक राज्य छात्रवृत्ति पोर्टल पर ऑनलाइन आवेदन करें। इसमें यूजी, पीजी और तकनीकी मेरिट समेत पांच योजनाएं शामिल हैं।",
+    "pts": [
+     "आवेदन केवल scholarship.odisha.gov.in पोर्टल पर",
+     "कॉलेज 30 नवंबर तक आवेदनों का सत्यापन करें",
+     "गोपबंधु योजना का सत्यापन 15 दिसंबर तक"
+    ],
+    "why": "ओडिशा के छात्र छात्रवृत्ति न छूटे, इसलिए समय सीमा से पहले आवेदन करें।",
+    "cat": "ओडिशा · शिक्षा",
+    "statl": "छात्रवृत्ति आवेदन की अंतिम तिथि"
+   },
+   "d": "07.11.2026",
+   "t": "18:35"
+  },
   {
    "cat": "హైదరాబాద్ · రైల్వే",
    "col": "--c-money",

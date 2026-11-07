@@ -1,8 +1,107 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T18:10:12+05:30",
+ "updated": "2026-11-07T18:40:20+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఫిన్‌టెక్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "2047",
+   "statl": "తెలంగాణ రైజింగ్ విజన్ లక్ష్య సంవత్సరం",
+   "h": "హైదరాబాద్‌ను అంతర్జాతీయ ఫిన్‌టెక్ హబ్‌గా మారుస్తాం: శ్రీధర్ బాబు",
+   "p": "సింగపూర్‌కు చెందిన ఆర్థ ఫిన్‌టెక్ సంస్థ హైదరాబాద్ కార్యాలయాన్ని పరిశ్రమల శాఖ మంత్రి డి. శ్రీధర్ బాబు శనివారం ప్రారంభించారు. ఐటీ, ఐటీ ఆధారిత సేవల్లో ముందున్న హైదరాబాద్‌ను ఫిన్‌టెక్, డిజిటల్ బ్యాంకింగ్, అంతర్జాతీయ ఆర్థిక సేవలకు కేంద్రంగా తీర్చిదిద్దుతామని చెప్పారు. డిజిటల్ మౌలిక వసతులు, పరిశోధన, నైపుణ్యాలపై ప్రభుత్వం దృష్టి పెట్టిందన్నారు.",
+   "pts": [
+    "సింగపూర్ సంస్థ ఆర్థ ఫిన్‌టెక్ హైదరాబాద్ ఆఫీస్ ప్రారంభం",
+    "ఫిన్‌టెక్, డిజిటల్ బ్యాంకింగ్ రంగాలపై ప్రభుత్వ దృష్టి",
+    "తెలంగాణ రైజింగ్–2047 ద్వారా ప్రపంచ పెట్టుబడుల లక్ష్యం"
+   ],
+   "why": "ఫిన్‌టెక్ సంస్థలు హైదరాబాద్‌కు వస్తే ఆర్థిక సేవల రంగంలో ఉద్యోగ అవకాశాలు పెరగవచ్చు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-aims-to-become-international-fintech-and-financial-services-hub-says-sridhar-babu",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "en": {
+    "h": "Hyderabad to be made an international fintech hub: Sridhar Babu",
+    "p": "Industries Minister D. Sridhar Babu on Saturday inaugurated the Hyderabad office of Singapore-based Artha Fintech. He said Hyderabad, already a leader in IT and IT-enabled services, will be developed into a hub for fintech, digital banking and global financial services. The government is focusing on digital infrastructure, research and skills, he said.",
+    "pts": [
+     "Singapore firm Artha Fintech opens Hyderabad office",
+     "Government focus on fintech and digital banking",
+     "Telangana Rising–2047 aims to attract global investment"
+    ],
+    "why": "If fintech firms come to Hyderabad, job opportunities in financial services may grow.",
+    "cat": "Telangana · Fintech",
+    "statl": "Target year of Telangana Rising vision"
+   },
+   "hi": {
+    "h": "हैदराबाद को अंतरराष्ट्रीय फिनटेक हब बनाएंगे: श्रीधर बाबू",
+    "p": "उद्योग मंत्री डी. श्रीधर बाबू ने शनिवार को सिंगापुर की आर्था फिनटेक कंपनी के हैदराबाद कार्यालय का उद्घाटन किया। उन्होंने कहा कि आईटी और आईटी आधारित सेवाओं में आगे हैदराबाद को फिनटेक, डिजिटल बैंकिंग और वैश्विक वित्तीय सेवाओं का केंद्र बनाया जाएगा। सरकार डिजिटल बुनियादी ढांचे, अनुसंधान और कौशल पर ध्यान दे रही है।",
+    "pts": [
+     "सिंगापुर की आर्था फिनटेक का हैदराबाद कार्यालय शुरू",
+     "फिनटेक, डिजिटल बैंकिंग पर सरकार का ध्यान",
+     "तेलंगाना राइजिंग–2047 से वैश्विक निवेश का लक्ष्य"
+    ],
+    "why": "फिनटेक कंपनियां हैदराबाद आईं तो वित्तीय सेवा क्षेत्र में नौकरी के अवसर बढ़ सकते हैं।",
+    "cat": "तेलंगाना · फिनटेक",
+    "statl": "तेलंगाना राइजिंग विज़न का लक्ष्य वर्ष"
+   },
+   "d": "07.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ఒడిశా · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "నవం. 20",
+   "statl": "స్కాలర్‌షిప్ దరఖాస్తుకు చివరి తేదీ",
+   "h": "ఒడిశాలో మెరిట్ స్కాలర్‌షిప్‌లకు కొత్త దరఖాస్తులు; నవంబర్ 20 వరకు గడువు",
+   "p": "ముఖ్యమంత్రి మేధావి ఛాత్ర ప్రోత్సాహన్ యోజన కింద 2026-27 విద్యా సంవత్సరానికి కొత్త విద్యార్థుల దరఖాస్తు తేదీలను ఒడిశా ఉన్నత విద్యా శాఖ ప్రకటించింది. అర్హులైన విద్యార్థులు నవంబర్ 5 నుంచి 20 వరకు రాష్ట్ర స్కాలర్‌షిప్ పోర్టల్‌లో ఆన్‌లైన్‌లో దరఖాస్తు చేయాలి. యూజీ, పీజీ, టెక్నికల్ మెరిట్ సహా ఐదు పథకాలు ఇందులో ఉన్నాయి.",
+   "pts": [
+    "దరఖాస్తులు scholarship.odisha.gov.in పోర్టల్‌లో మాత్రమే",
+    "కాలేజీలు నవంబర్ 30లోగా దరఖాస్తులు ధృవీకరించాలి",
+    "గోపబంధు పథకం ధృవీకరణ డిసెంబర్ 15 వరకు"
+   ],
+   "why": "ఒడిశాలో చదువుతున్న విద్యార్థులు స్కాలర్‌షిప్ కోల్పోకుండా గడువులోగా దరఖాస్తు చేసుకోవాలి.",
+   "src": "OmmCom News",
+   "url": "https://ommcomnews.com/odisha-news/odisha-govt-announces-fresh-scholarship-dates-under-medhabi-chhatra-protsahan-yojana/",
+   "sec": [
+    "india",
+    "education"
+   ],
+   "st": "OD",
+   "place": "st-OD",
+   "en": {
+    "h": "Odisha opens fresh merit scholarship applications; deadline November 20",
+    "p": "Odisha's Higher Education Department has announced the dates for fresh applications under the Mukhyamantri Medhabi Chhatra Protsahan Yojana for the 2026-27 academic year. Eligible students must apply online on the State Scholarship Portal between November 5 and 20. It covers five schemes, including UG, PG and technical merit scholarships.",
+    "pts": [
+     "Applications only on scholarship.odisha.gov.in portal",
+     "Colleges must verify applications by November 30",
+     "Gopabandhu scheme validation runs till December 15"
+    ],
+    "why": "Students in Odisha must apply before the deadline so they do not miss the scholarship.",
+    "cat": "Odisha · Education",
+    "statl": "Last date to apply for scholarship"
+   },
+   "hi": {
+    "h": "ओडिशा में मेरिट छात्रवृत्ति के नए आवेदन; 20 नवंबर तक मौका",
+    "p": "ओडिशा के उच्च शिक्षा विभाग ने मुख्यमंत्री मेधावी छात्र प्रोत्साहन योजना के तहत 2026-27 शैक्षणिक वर्ष के लिए नए छात्रों के आवेदन की तारीखें घोषित की हैं। पात्र छात्र 5 से 20 नवंबर तक राज्य छात्रवृत्ति पोर्टल पर ऑनलाइन आवेदन करें। इसमें यूजी, पीजी और तकनीकी मेरिट समेत पांच योजनाएं शामिल हैं।",
+    "pts": [
+     "आवेदन केवल scholarship.odisha.gov.in पोर्टल पर",
+     "कॉलेज 30 नवंबर तक आवेदनों का सत्यापन करें",
+     "गोपबंधु योजना का सत्यापन 15 दिसंबर तक"
+    ],
+    "why": "ओडिशा के छात्र छात्रवृत्ति न छूटे, इसलिए समय सीमा से पहले आवेदन करें।",
+    "cat": "ओडिशा · शिक्षा",
+    "statl": "छात्रवृत्ति आवेदन की अंतिम तिथि"
+   },
+   "d": "07.11.2026",
+   "t": "18:35"
+  },
   {
    "cat": "హైదరాబాద్ · రైల్వే",
    "col": "--c-money",
@@ -1776,102 +1875,6 @@
     "cat": "कर्नाटक · पेट्रोल",
     "statl": "20% से ज़्यादा इथेनॉल वाले नमूने"
    }
-  },
-  {
-   "cat": "హైదరాబాద్ · సైబర్ భద్రత",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "1930",
-   "statl": "సైబర్ మోసాల ఫిర్యాదు హెల్ప్‌లైన్",
-   "h": "'పేటీఎం దీపావళి గిఫ్ట్ ₹1,000' మెసేజ్‌లు నకిలీ: హైదరాబాద్ పోలీసుల హెచ్చరిక",
-   "p": "దీపావళి కానుకగా పేటీఎం అందరికీ ₹1,000 ఇస్తోందంటూ వాట్సాప్, సోషల్ మీడియాలో వస్తున్న సందేశాలు మోసపూరితమని హైదరాబాద్ పోలీస్ కమిషనర్ హెచ్చరించారు. అనుమానాస్పద లింకులు క్లిక్ చేయొద్దని, బ్యాంకు వివరాలు, ఓటీపీ, పిన్ ఎవరికీ చెప్పొద్దని సూచించారు. మోసం జరిగితే 1930కి లేదా cybercrime.gov.in లో ఫిర్యాదు చేయాలన్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-police-warn-against-fake-paytm-diwali-gift-messages",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "₹1,000 దీపావళి గిఫ్ట్ సందేశాలు నకిలీ",
-    "లింకులు క్లిక్ చేయొద్దు, ఓటీపీ, పిన్ పంచుకోవద్దు",
-    "ఫిర్యాదుకు 1930 లేదా cybercrime.gov.in"
-   ],
-   "why": "పండుగ వేళ ఫోన్‌లకు వచ్చే నకిలీ ఆఫర్ లింకులతో డబ్బు పోగొట్టుకోకుండా ఈ హెచ్చరిక ఉపయోగపడుతుంది.",
-   "d": "07.11.2026",
-   "t": "13:05",
-   "en": {
-    "h": "'Paytm Diwali gift Rs 1,000' messages are fake: Hyderabad police",
-    "p": "The Hyderabad Police Commissioner warned that messages on WhatsApp and social media claiming Paytm is giving everyone Rs 1,000 as a Diwali gift are fraudulent. He advised people not to click suspicious links and not to share bank details, OTPs or PINs. Fraud can be reported on 1930 or cybercrime.gov.in.",
-    "pts": [
-     "Rs 1,000 Diwali gift messages are fake",
-     "Don't click links or share OTP, PIN",
-     "Report on 1930 or cybercrime.gov.in"
-    ],
-    "why": "The warning helps people avoid losing money to fake festive offer links on their phones.",
-    "cat": "Hyderabad · Cyber Safety",
-    "statl": "Cyber fraud complaint helpline"
-   },
-   "hi": {
-    "h": "'पेटीएम दिवाली गिफ्ट ₹1,000' संदेश फर्जी: हैदराबाद पुलिस",
-    "p": "हैदराबाद पुलिस कमिश्नर ने चेतावनी दी कि व्हाट्सऐप और सोशल मीडिया पर आ रहे संदेश, जिनमें दावा है कि पेटीएम सबको दिवाली गिफ्ट के रूप में ₹1,000 दे रहा है, धोखाधड़ी हैं। उन्होंने संदिग्ध लिंक पर क्लिक न करने और बैंक विवरण, ओटीपी या पिन साझा न करने की सलाह दी। धोखाधड़ी की शिकायत 1930 या cybercrime.gov.in पर करें।",
-    "pts": [
-     "₹1,000 दिवाली गिफ्ट संदेश फर्जी",
-     "लिंक पर क्लिक न करें, ओटीपी, पिन न बताएं",
-     "शिकायत 1930 या cybercrime.gov.in पर"
-    ],
-    "why": "यह चेतावनी त्योहार पर फोन पर आने वाले फर्जी ऑफर लिंक से पैसे गंवाने से बचाती है।",
-    "cat": "हैदराबाद · साइबर सुरक्षा",
-    "statl": "साइबर धोखाधड़ी शिकायत हेल्पलाइन"
-   }
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "78",
-   "statl": "కూటమి గెలిచిన జడ్పీటీసీ స్థానాలు",
-   "h": "పరిషత్ ఫలితాలు: జడ్పీటీసీల్లో కూటమి ముందంజ, 78 స్థానాల్లో గెలుపు",
-   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు 365 కేంద్రాల్లో కొనసాగుతోంది. ఎం9 న్యూస్ తాజా లెక్క ప్రకారం 171 జడ్పీటీసీ స్థానాల ఫలితాల్లో కూటమి 78 గెలిచి 84 చోట్ల ఆధిక్యంలో ఉంది. వైఎస్సార్‌సీపీ ఒక స్థానం గెలిచి 8 చోట్ల ముందంజలో ఉంది. 2,052 ఎంపీటీసీల్లో కూటమికి 1,928, వైఎస్సార్‌సీపీకి 92 దక్కాయి.",
-   "src": "M9 News",
-   "url": "https://www.m9.news/politics/ap-mptc-zptc-election-results-2026-vote-counting/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "జడ్పీటీసీ: కూటమి 78 గెలుపు, 84 ఆధిక్యం",
-    "వైఎస్సార్‌సీపీ: 1 గెలుపు, 8 ఆధిక్యం",
-    "ఎంపీటీసీ: కూటమి 1,928, వైఎస్సార్‌సీపీ 92, ఇతరులు 32"
-   ],
-   "why": "గ్రామీణ స్థానిక సంస్థల్లో ఎవరు పాలిస్తారో ఈ ఫలితాలు నిర్ణయిస్తాయి; లెక్కింపు ఇంకా కొనసాగుతోంది.",
-   "en": {
-    "h": "Parishad results: Alliance ahead in ZPTCs, wins 78 seats",
-    "p": "Counting of MPTC and ZPTC votes is under way at 365 centres in Andhra Pradesh. As per M9 News's latest count, of 171 ZPTC results, the alliance has won 78 and leads in 84. YSRCP has won one seat and leads in 8. Of 2,052 MPTCs, the alliance got 1,928 and YSRCP 92.",
-    "pts": [
-     "ZPTC: Alliance won 78, leading in 84",
-     "YSRCP: won 1, leading in 8",
-     "MPTC: Alliance 1,928, YSRCP 92, others 32"
-    ],
-    "why": "These results decide who runs rural local bodies; counting is still continuing.",
-    "cat": "AP · Local Elections",
-    "statl": "ZPTC seats won by the alliance"
-   },
-   "hi": {
-    "h": "परिषद नतीजे: जेडपीटीसी में गठबंधन आगे, 78 सीटें जीतीं",
-    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी वोटों की गिनती 365 केंद्रों पर जारी है। एम9 न्यूज़ की ताज़ा गिनती के अनुसार 171 जेडपीटीसी नतीजों में गठबंधन ने 78 सीटें जीतीं और 84 पर आगे है। वाईएसआरसीपी ने एक सीट जीती और 8 पर आगे है। 2,052 एमपीटीसी में गठबंधन को 1,928 और वाईएसआरसीपी को 92 मिलीं।",
-    "pts": [
-     "जेडपीटीसी: गठबंधन 78 जीत, 84 पर बढ़त",
-     "वाईएसआरसीपी: 1 जीत, 8 पर बढ़त",
-     "एमपीटीसी: गठबंधन 1,928, वाईएसआरसीपी 92, अन्य 32"
-    ],
-    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्थानीय निकाय कौन चलाएगा; गिनती अभी जारी है।",
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "गठबंधन द्वारा जीती जेडपीटीसी सीटें"
-   },
-   "d": "07.11.2026",
-   "t": "12:35"
   }
  ]
 }
