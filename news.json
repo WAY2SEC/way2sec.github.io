@@ -1,8 +1,205 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T06:40:53+05:30",
+ "updated": "2026-11-07T07:08:37+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · కొడంగల్",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹9,000 కో.",
+   "statl": "కొడంగల్‌లో అభివృద్ధి పనుల విలువ",
+   "h": "నేటి నుంచి మూడు రోజులు కొడంగల్‌లో సీఎం రేవంత్‌రెడ్డి పర్యటన",
+   "p": "ముఖ్యమంత్రి రేవంత్‌రెడ్డి తన సొంత నియోజకవర్గం కొడంగల్‌లో నేటి నుంచి మూడు రోజులు పర్యటిస్తారు. సుమారు ₹9,000 కోట్ల అభివృద్ధి పనులకు శ్రీకారం చుడతారు. ఈ మధ్యాహ్నం దుద్యాల మండలం హకీంపేటలో మెగా రైతు మేళా, పారిశ్రామిక ప్రదర్శనను ప్రారంభించి రైతులు, వ్యవసాయ శాస్త్రవేత్తలతో మాట్లాడతారు. రేపు లగచర్లలో పామాయిల్ పరిశ్రమకు శంకుస్థాపన చేస్తారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--7th-november-2026-latest-top-news-information-across-telangana-tgs26110700388",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "హకీంపేట",
+   "pts": [
+    "సుమారు ₹9,000 కోట్ల అభివృద్ధి పనులు ప్రారంభం",
+    "నేడు హకీంపేటలో మెగా రైతు మేళా ప్రారంభం",
+    "రేపు లగచర్లలో పామాయిల్ పరిశ్రమకు శంకుస్థాపన"
+   ],
+   "why": "కొడంగల్ ప్రాంత రైతులు, ప్రజలకు కొత్త పాఠశాలలు, ఆసుపత్రులు, పరిశ్రమలు అందుబాటులోకి రానున్నాయి.",
+   "d": "07.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "CM Revanth Reddy begins three-day Kodangal visit today",
+    "p": "Chief Minister Revanth Reddy will tour his home constituency Kodangal for three days from today and launch development works worth about ₹9,000 crore. This afternoon he will open a mega farmers' fair and industrial expo at Hakimpet in Dudyala mandal and interact with farmers and agricultural scientists. Tomorrow he will lay the foundation for a palm oil industry at Lagacherla.",
+    "pts": [
+     "Development works worth about ₹9,000 crore to begin",
+     "Mega farmers' fair opens at Hakimpet today",
+     "Palm oil industry foundation at Lagacherla tomorrow"
+    ],
+    "why": "New schools, hospitals and industry are coming to people and farmers of the Kodangal area.",
+    "cat": "Telangana · Kodangal",
+    "statl": "Value of development works in Kodangal"
+   },
+   "hi": {
+    "h": "आज से तीन दिन कोडंगल दौरे पर मुख्यमंत्री रेवंत रेड्डी",
+    "p": "मुख्यमंत्री रेवंत रेड्डी आज से तीन दिन अपने गृह निर्वाचन क्षेत्र कोडंगल का दौरा करेंगे और लगभग ₹9,000 करोड़ के विकास कार्यों की शुरुआत करेंगे। आज दोपहर वे दुद्याल मंडल के हकीमपेट में मेगा किसान मेला और औद्योगिक प्रदर्शनी का उद्घाटन कर किसानों व कृषि वैज्ञानिकों से बात करेंगे। कल लगचर्ला में पाम ऑयल उद्योग की नींव रखेंगे।",
+    "pts": [
+     "लगभग ₹9,000 करोड़ के विकास कार्य शुरू होंगे",
+     "आज हकीमपेट में मेगा किसान मेले का उद्घाटन",
+     "कल लगचर्ला में पाम ऑयल उद्योग की नींव"
+    ],
+    "why": "कोडंगल क्षेत्र के लोगों और किसानों को नए स्कूल, अस्पताल और उद्योग मिलेंगे।",
+    "cat": "तेलंगाना · कोडंगल",
+    "statl": "कोडंगल में विकास कार्यों का मूल्य"
+   }
+  },
+  {
+   "cat": "ఏపీ · పల్నాడు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "10 + 37",
+   "statl": "జడ్పీటీసీ, ఎంపీటీసీ స్థానాల లెక్కింపు",
+   "h": "పల్నాడులో నేడు 10 జడ్పీటీసీ, 37 ఎంపీటీసీ స్థానాల ఓట్ల లెక్కింపు",
+   "p": "పల్నాడు జిల్లాలో 10 జడ్పీటీసీ, 37 ఎంపీటీసీ స్థానాల ఓట్ల లెక్కింపు శనివారం ఉదయం 8 గంటలకు మొదలవుతుంది. పెట్లూరివారిపాలెంలోని ఏఎం రెడ్డి కళాశాలలో లెక్కింపు కేంద్రం ఏర్పాటు చేశారు. జిల్లా కలెక్టర్, జిల్లా ఎన్నికల అధికారి కృతికా శుక్లా పర్యవేక్షిస్తున్నారు. పోలీసులు మూడంచెల భద్రత ఏర్పాటు చేశారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/counting-for-10-zptc-37-mptc-seats-today-1140012",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-palnadu",
+   "loc": "పెట్లూరివారిపాలెం",
+   "pts": [
+    "ఉదయం 8 గంటలకు లెక్కింపు ప్రారంభం",
+    "ఏఎం రెడ్డి కళాశాలలో లెక్కింపు కేంద్రం",
+    "మూడంచెల పోలీసు భద్రత ఏర్పాటు"
+   ],
+   "why": "పల్నాడు జిల్లాలో స్థానిక ప్రజాప్రతినిధులు ఎవరో నేడు తేలనుంది.",
+   "d": "07.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "Counting for 10 ZPTC, 37 MPTC seats in Palnadu today",
+    "p": "Counting of votes for 10 ZPTC and 37 MPTC seats in Palnadu district begins at 8 am on Saturday. The counting centre is at AM Reddy College in Petlurivaripalem. District Collector and District Election Officer Krithika Shukla is supervising the process. Police have put in place a three-tier security system.",
+    "pts": [
+     "Counting begins at 8 am",
+     "Counting centre at AM Reddy College",
+     "Three-tier police security in place"
+    ],
+    "why": "Palnadu district will learn today who its local representatives are.",
+    "cat": "AP · Palnadu",
+    "statl": "ZPTC and MPTC seats being counted"
+   },
+   "hi": {
+    "h": "पलनाडु में आज 10 जेडपीटीसी, 37 एमपीटीसी सीटों की मतगणना",
+    "p": "पलनाडु जिले में 10 जेडपीटीसी और 37 एमपीटीसी सीटों की मतगणना शनिवार सुबह 8 बजे शुरू होगी। मतगणना केंद्र पेटलूरिवारिपालेम के एएम रेड्डी कॉलेज में बनाया गया है। जिला कलेक्टर और जिला निर्वाचन अधिकारी कृतिका शुक्ला निगरानी कर रही हैं। पुलिस ने तीन-स्तरीय सुरक्षा व्यवस्था की है।",
+    "pts": [
+     "सुबह 8 बजे मतगणना शुरू",
+     "एएम रेड्डी कॉलेज में मतगणना केंद्र",
+     "तीन-स्तरीय पुलिस सुरक्षा"
+    ],
+    "why": "पलनाडु जिले में आज तय होगा कि स्थानीय जनप्रतिनिधि कौन होंगे।",
+    "cat": "आंध्र प्रदेश · पलनाडु",
+    "statl": "जेडपीटीसी और एमपीटीसी सीटों की गिनती"
+   }
+  },
+  {
+   "cat": "ఏపీ · విజయవాడ",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "200 మి.లీ.",
+   "statl": "ఎకరాకు ప్రొపికొనజోల్ పిచికారీ",
+   "h": "మురసు తుపాను వర్షాలు: వరి పంట కాపాడుకోవాలని రైతులకు శాస్త్రవేత్తల సూచన",
+   "p": "మురసు తుపాను భారీ వర్షాలకు దెబ్బతిన్న విజయవాడ రూరల్, అర్బన్ మండలాల వరి పొలాలను శాస్త్రవేత్తలు, వ్యవసాయ అధికారులు శుక్రవారం పరిశీలించారు. పొలాల్లో నిలిచిన నీటిని కాలువల ద్వారా బయటకు పంపాలని సూచించారు. మొలకెత్తుతున్న గింజలపై 5% ఉప్పు ద్రావణం, తెగుళ్లకు ఎకరాకు 200 మి.లీ. ప్రొపికొనజోల్ పిచికారీ చేయాలని చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/farmers-urged-to-protect-paddy-from-rains-1140014",
+   "sec": [
+    "telangana",
+    "agri",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "pts": [
+    "పొలాల్లో నిలిచిన నీటిని వెంటనే తొలగించాలి",
+    "మొలకెత్తే గింజలపై 5% ఉప్పు ద్రావణం",
+    "ఎకరాకు 200 మి.లీ. ప్రొపికొనజోల్ పిచికారీ"
+   ],
+   "why": "తుపాను వర్షాలతో నష్టపోయిన ఎన్టీఆర్ జిల్లా వరి రైతులు పంటను కాపాడుకోవడానికి ఈ సూచనలు ఉపయోగపడతాయి.",
+   "d": "07.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "Cyclone Murasu rains: scientists advise farmers on saving paddy",
+    "p": "Scientists and agriculture officials on Friday inspected paddy fields in Vijayawada Rural and Urban mandals damaged by heavy rain from Cyclone Murasu. They advised farmers to drain standing water through field channels. They suggested a 5% salt solution for sprouting grains and spraying 200 ml of propiconazole per acre against disease.",
+    "pts": [
+     "Drain standing water from fields quickly",
+     "5% salt solution for sprouting grains",
+     "Spray 200 ml propiconazole per acre"
+    ],
+    "why": "The advice helps NTR district paddy farmers hit by cyclone rains save their crop.",
+    "cat": "AP · Vijayawada",
+    "statl": "Propiconazole spray per acre"
+   },
+   "hi": {
+    "h": "चक्रवात मुरसु की बारिश: धान बचाने के लिए वैज्ञानिकों की सलाह",
+    "p": "वैज्ञानिकों और कृषि अधिकारियों ने शुक्रवार को चक्रवात मुरसु की भारी बारिश से प्रभावित विजयवाड़ा ग्रामीण और शहरी मंडलों के धान के खेतों का निरीक्षण किया। उन्होंने खेतों में भरा पानी नालियों से निकालने की सलाह दी। अंकुरित दानों पर 5% नमक का घोल और रोगों के लिए प्रति एकड़ 200 मिली प्रोपिकोनाज़ोल छिड़कने को कहा।",
+    "pts": [
+     "खेतों से भरा पानी जल्दी निकालें",
+     "अंकुरित दानों पर 5% नमक का घोल",
+     "प्रति एकड़ 200 मिली प्रोपिकोनाज़ोल छिड़काव"
+    ],
+    "why": "चक्रवात की बारिश से प्रभावित एनटीआर जिले के धान किसानों को फसल बचाने में मदद मिलेगी।",
+    "cat": "आंध्र प्रदेश · विजयवाड़ा",
+    "statl": "प्रति एकड़ प्रोपिकोनाज़ोल छिड़काव"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · పశ్చిమాసియా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "Level 4",
+   "statl": "ఇరాన్‌పై అమెరికా ప్రయాణ హెచ్చరిక",
+   "h": "పశ్చిమాసియాలో దాడుల ముప్పు: అమెరికా పౌరులకు కొత్త భద్రతా హెచ్చరిక",
+   "p": "హూతీల సాయుధ దాడుల ముప్పు పెరిగిందని, మధ్యప్రాచ్యంలోని తమ పౌరులు అప్రమత్తంగా ఉండాలని అమెరికా వర్చువల్ ఎంబసీ కొత్త హెచ్చరిక జారీ చేసింది. విమానాల రద్దు, గగనతలం మూసివేత వంటి ప్రయాణ ఇబ్బందులు రావచ్చని తెలిపింది. ఏ కారణంతోనూ ఇరాన్‌కు వెళ్లొద్దని, అక్కడ ఉన్నవారు వెంటనే బయటకు రావాలని సూచించింది.",
+   "src": "U.S. Virtual Embassy Iran",
+   "url": "https://ir.usembassy.gov/security-alert-iran-november-7-2026/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మధ్యప్రాచ్యంలో అప్రమత్తంగా ఉండాలని సూచన",
+    "విమానాల రద్దు, గగనతలం మూసివేత అవకాశం",
+    "ఇరాన్‌పై లెవల్ 4 'ప్రయాణం వద్దు' హెచ్చరిక"
+   ],
+   "why": "గల్ఫ్ దేశాల్లో ఉంటున్న, అక్కడికి ప్రయాణించే తెలుగువారు విమాన ఇబ్బందులకు సిద్ధంగా ఉండాలి.",
+   "d": "07.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "Attack threat in West Asia: new US security alert for citizens",
+    "p": "The U.S. Virtual Embassy for Iran has issued a new alert asking Americans in the Middle East to stay vigilant, citing an increased threat of armed attacks by Houthis. It said flight cancellations, airspace closures and other travel disruptions are possible. It told citizens not to travel to Iran for any reason and asked those there to leave now.",
+    "pts": [
+     "Americans told to stay vigilant in Middle East",
+     "Flight cancellations, airspace closures possible",
+     "Iran stays at Level 4 'Do Not Travel'"
+    ],
+    "why": "Telugu people living in or travelling to Gulf countries should be ready for flight disruptions.",
+    "cat": "World · West Asia",
+    "statl": "US travel advisory on Iran"
+   },
+   "hi": {
+    "h": "पश्चिम एशिया में हमलों का खतरा: अमेरिकी नागरिकों के लिए नई सुरक्षा चेतावनी",
+    "p": "ईरान के लिए अमेरिकी वर्चुअल दूतावास ने नई चेतावनी जारी कर मध्य पूर्व में मौजूद अमेरिकियों से सतर्क रहने को कहा है, क्योंकि हूती सशस्त्र हमलों का खतरा बढ़ा है। उसने कहा कि उड़ानें रद्द होने, हवाई क्षेत्र बंद होने जैसी यात्रा बाधाएँ आ सकती हैं। किसी भी कारण ईरान न जाने और वहाँ मौजूद लोगों को तुरंत निकलने को कहा।",
+    "pts": [
+     "मध्य पूर्व में सतर्क रहने की सलाह",
+     "उड़ानें रद्द, हवाई क्षेत्र बंद होने की आशंका",
+     "ईरान पर लेवल 4 'यात्रा न करें' चेतावनी"
+    ],
+    "why": "खाड़ी देशों में रहने या वहाँ जाने वाले तेलुगु लोग उड़ानों में बाधा के लिए तैयार रहें।",
+    "cat": "दुनिया · पश्चिम एशिया",
+    "statl": "ईरान पर अमेरिकी यात्रा सलाह"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · ట్రాఫిక్",
    "col": "--c-city",
@@ -1761,200 +1958,6 @@
    },
    "d": "06.11.2026",
    "t": "15:35"
-  },
-  {
-   "cat": "తెలంగాణ · కామారెడ్డి",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "2",
-   "statl": "చెరువులో మునిగి మృతి చెందినవారు",
-   "h": "కామారెడ్డి జిల్లాలో చెరువులో మునిగి తండ్రి, కూతురు మృతి",
-   "p": "కామారెడ్డి జిల్లా లింగాయపల్లి గ్రామంలోని గొరిగోని చెరువులో ప్రమాదవశాత్తు మునిగి 65 ఏళ్ల వ్యక్తి, ఆయన 35 ఏళ్ల కూతురు మృతి చెందారు. అల్లుడు అనారోగ్యంతో ఉన్నాడని తెలిసి కూతురి ఇంటికి వచ్చిన తండ్రి, గురువారం సాయంత్రం కూతురితో కలిసి దగ్గర్లోని చెరువుకు వెళ్లారు. దేవునిపల్లి పోలీసులు దర్యాప్తు చేస్తున్నారు.",
-   "pts": [
-    "లింగాయపల్లి గొరిగోని చెరువులో ఘటన",
-    "గురువారం సాయంత్రం ఇద్దరూ నీట మునిగారు",
-    "మృతురాలికి భర్త, ఇద్దరు పిల్లలు ఉన్నారు"
-   ],
-   "why": "గ్రామాల్లో చెరువుల వద్ద జాగ్రత్తలు ఎంత అవసరమో ఈ విషాదం గుర్తుచేస్తోంది.",
-   "src": "IndToday",
-   "url": "https://indtoday.com/kamareddy-drowning-case-father-and-daughter-died/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "kamareddy",
-   "loc": "లింగాయపల్లి",
-   "en": {
-    "h": "Father and daughter drown in pond in Kamareddy district",
-    "p": "A 65-year-old man and his 35-year-old daughter accidentally drowned in the Gorigoni pond at Lingayapally village in Kamareddy district. The father had come to his daughter's house after learning that her husband was unwell, and on Thursday evening the two went to the nearby pond. Devunipally police are investigating.",
-    "pts": [
-     "Incident at Gorigoni pond in Lingayapally",
-     "Both drowned on Thursday evening",
-     "The daughter is survived by husband and two children"
-    ],
-    "why": "The tragedy is a reminder of the need for caution around village ponds.",
-    "cat": "Telangana · Kamareddy",
-    "statl": "Drowned in the pond"
-   },
-   "hi": {
-    "h": "कामारेड्डी जिले में तालाब में डूबकर पिता और बेटी की मौत",
-    "p": "कामारेड्डी जिले के लिंगायपल्ली गांव के गोरिगोनी तालाब में हादसे में 65 वर्षीय व्यक्ति और उनकी 35 वर्षीय बेटी की डूबकर मौत हो गई। दामाद के बीमार होने की खबर पाकर पिता बेटी के घर आए थे, और गुरुवार शाम दोनों पास के तालाब पर गए। देवुनिपल्ली पुलिस जांच कर रही है।",
-    "pts": [
-     "लिंगायपल्ली के गोरिगोनी तालाब में हादसा",
-     "गुरुवार शाम दोनों पानी में डूबे",
-     "मृतका के पति और दो बच्चे हैं"
-    ],
-    "why": "यह हादसा गांवों में तालाबों के पास सावधानी की जरूरत याद दिलाता है।",
-    "cat": "तेलंगाना · कामारेड्डी",
-    "statl": "तालाब में डूबकर मौत"
-   },
-   "d": "06.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇజ్రాయెల్",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "67 vs 46",
-   "statl": "ఐసెన్‌కోట్, నెతన్యాహుకు మద్దతిచ్చిన సీట్లు",
-   "h": "ఇజ్రాయెల్ కొత్త ప్రభుత్వం: ఆదివారం ప్రకటించనున్న అధ్యక్షుడు హెర్జోగ్",
-   "p": "ఇజ్రాయెల్‌లో కొత్త ప్రభుత్వం ఏర్పాటు బాధ్యత ఎవరికి ఇవ్వాలో అధ్యక్షుడు హెర్జోగ్ ఆదివారం ప్రకటిస్తారు. 120 సీట్ల నెస్సెట్‌లో 67 సీట్లున్న పార్టీలు యాషార్ పార్టీ నేత గాడి ఐసెన్‌కోట్‌ను, 46 సీట్ల పార్టీలు ప్రధాని బెంజమిన్ నెతన్యాహును సిఫార్సు చేశాయి. ఫలితం ఇంకా అనిశ్చితంగానే ఉందని హెర్జోగ్ అన్నారు.",
-   "pts": [
-    "120 సీట్లలో 67 సీట్ల మద్దతు ఐసెన్‌కోట్‌కు",
-    "నెతన్యాహుకు 46 సీట్ల పార్టీల సిఫార్సు",
-    "ఆదివారం హెర్జోగ్ నిర్ణయం ప్రకటన"
-   ],
-   "why": "పశ్చిమాసియా ఉద్రిక్తతల మధ్య ఇజ్రాయెల్‌లో నాయకత్వ మార్పు ఆ ప్రాంత పరిణామాలపై ప్రభావం చూపవచ్చు.",
-   "src": "Anadolu Agency",
-   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "Israel's new government: President Herzog to announce choice on Sunday",
-    "p": "Israeli President Herzog will announce on Sunday who gets the mandate to form the new government. In the 120-seat Knesset, parties with 67 seats recommended Yashar party leader Gadi Eisenkot, while parties with 46 seats backed Prime Minister Benjamin Netanyahu. Herzog said the outcome is still uncertain.",
-    "pts": [
-     "Eisenkot backed by parties with 67 of 120 seats",
-     "Parties with 46 seats recommended Netanyahu",
-     "Herzog to announce decision on Sunday"
-    ],
-    "why": "A change of leadership in Israel amid West Asia tensions could affect developments in the region.",
-    "cat": "World · Israel",
-    "statl": "Seats backing Eisenkot vs Netanyahu"
-   },
-   "hi": {
-    "h": "इज़राइल की नई सरकार: राष्ट्रपति हर्ज़ोग रविवार को करेंगे घोषणा",
-    "p": "इज़राइल के राष्ट्रपति हर्ज़ोग रविवार को घोषणा करेंगे कि नई सरकार बनाने की जिम्मेदारी किसे मिलेगी। 120 सीटों वाली नेसेट में 67 सीटों वाली पार्टियों ने याशार पार्टी के नेता गादी आइज़नकोट की सिफारिश की, जबकि 46 सीटों वाली पार्टियों ने प्रधानमंत्री बेंजामिन नेतन्याहू का समर्थन किया। हर्ज़ोग ने कहा कि नतीजा अभी अनिश्चित है।",
-    "pts": [
-     "120 में से 67 सीटों का समर्थन आइज़नकोट को",
-     "46 सीटों वाली पार्टियों ने नेतन्याहू की सिफारिश की",
-     "रविवार को हर्ज़ोग करेंगे फैसले की घोषणा"
-    ],
-    "why": "पश्चिम एशिया में तनाव के बीच इज़राइल में नेतृत्व परिवर्तन क्षेत्र के घटनाक्रम को प्रभावित कर सकता है।",
-    "cat": "विश्व · इज़राइल",
-    "statl": "आइज़नकोट बनाम नेतन्याहू को समर्थन देने वाली सीटें"
-   },
-   "d": "06.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "కర్ణాటక · బెంగళూరు",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "50%",
-   "statl": "నేడు బెంగళూరులో వర్షం అవకాశం",
-   "h": "బెంగళూరులో నేడు సాయంత్రం ఉరుములతో వర్షం; ఐఎండీ హెచ్చరిక",
-   "p": "దక్షిణ అంతర్గత కర్ణాటకలో శుక్ర, శనివారాల్లో ఉరుములు, మెరుపులు, ఈదురుగాలులు వచ్చే అవకాశం ఉందని ఐఎండీ హెచ్చరించింది. బెంగళూరులో నేడు వర్షం పడే అవకాశం సుమారు 50 శాతం. ధనత్రయోదశి రద్దీ ఉండే సాయంత్రం వేళ జల్లులు పడొచ్చు. మారతహళ్లి వంతెన, కైకొండనహళ్లి, ఇబ్లూర్ వద్ద నీరు నిలిచింది. ఆదివారం దీపావళి రోజు వాతావరణం ఎక్కువగా పొడిగా ఉండే అవకాశం ఉంది.",
-   "pts": [
-    "శుక్ర, శనివారాలకు ఐఎండీ ఉరుముల హెచ్చరిక",
-    "బెంగళూరులో గరిష్ఠం 26°C, కనిష్ఠం 20°C అంచనా",
-    "వారాంతంలో వర్షం అవకాశం 15 శాతానికి తగ్గుదల"
-   ],
-   "why": "బెంగళూరులోని తెలుగువారు సాయంత్రం షాపింగ్, ప్రయాణాలను వాతావరణాన్ని బట్టి ప్లాన్ చేసుకోవాలి.",
-   "src": "Goodreturns",
-   "url": "https://www.goodreturns.in/news/bengaluru-weather-update-imd-thunderstorm-alert-evening-rain-and-traffic-advisory-for-friday-1545669.html",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "KA",
-   "place": "ka-bengaluru",
-   "en": {
-    "h": "Thunderstorm alert: evening rain likely in Bengaluru today",
-    "p": "IMD has warned of thunderstorms, lightning and squalls over South Interior Karnataka on Friday and Saturday. Bengaluru has about a 50 per cent chance of rain today, with showers possible in the evening when Dhanteras crowds are out. Waterlogging was reported at the Marathahalli bridge, Kaikondahalli and Iblur. Diwali on Sunday is expected to be mostly dry.",
-    "pts": [
-     "IMD thunderstorm alert for Friday and Saturday",
-     "Bengaluru high of 26°C, low of 20°C expected",
-     "Rain chance falls to 15 per cent over the weekend"
-    ],
-    "why": "Telugu people in Bengaluru should plan evening shopping and travel around the weather.",
-    "cat": "Karnataka · Bengaluru",
-    "statl": "Chance of rain in Bengaluru today"
-   },
-   "hi": {
-    "h": "बेंगलुरु में आज शाम गरज के साथ बारिश के आसार; आईएमडी अलर्ट",
-    "p": "आईएमडी ने दक्षिण आंतरिक कर्नाटक में शुक्रवार और शनिवार को गरज, बिजली और तेज़ हवाओं की चेतावनी दी है। बेंगलुरु में आज बारिश की संभावना करीब 50 प्रतिशत है। धनतेरस की भीड़ वाले शाम के समय बौछारें पड़ सकती हैं। मराठहल्ली पुल, कैकोंडनहल्ली और इबलूर में जलभराव हुआ। रविवार को दिवाली पर मौसम ज़्यादातर सूखा रहने की उम्मीद है।",
-    "pts": [
-     "शुक्रवार और शनिवार के लिए आईएमडी का गरज अलर्ट",
-     "बेंगलुरु में अधिकतम 26°C, न्यूनतम 20°C का अनुमान",
-     "सप्ताहांत में बारिश की संभावना घटकर 15 प्रतिशत"
-    ],
-    "why": "बेंगलुरु में रहने वाले तेलुगु लोग शाम की खरीदारी और यात्रा मौसम देखकर तय करें।",
-    "cat": "कर्नाटक · बेंगलुरु",
-    "statl": "आज बेंगलुरु में बारिश की संभावना"
-   },
-   "d": "06.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "ప్రపంచం · ఉక్రెయిన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "3 దేశాలు",
-   "statl": "ఫిబ్రవరి తర్వాత తొలి త్రైపాక్షిక చర్చలు",
-   "h": "ఉక్రెయిన్, రష్యాతో త్రైపాక్షిక శాంతి చర్చలకు అమెరికా సన్నాహాలు: కుష్నర్",
-   "p": "ఉక్రెయిన్ యుద్ధం ముగింపు కోసం అమెరికా ప్రత్యేక దూత జారెడ్ కుష్నర్ బ్రసెల్స్‌లో ఉక్రెయిన్, నాటో, యూరప్ భాగస్వాములతో ఉన్నత స్థాయి చర్చలు జరిపారు. అన్ని పక్షాల భద్రతా ఆందోళనలను పరిష్కరించి, భవిష్యత్తులో యుద్ధాల ముప్పు తగ్గించడమే తమ లక్ష్యమని ఆయన చెప్పారు. ఫిబ్రవరి తర్వాత ఉక్రెయిన్, రష్యాలతో తొలి త్రైపాక్షిక శాంతి చర్చలు ఏర్పాటు చేయడానికి అమెరికా సిద్ధమవుతోందని తెలిపారు.",
-   "pts": [
-    "బ్రసెల్స్‌లో ఉక్రెయిన్, నాటో, యూరప్‌తో కుష్నర్ చర్చలు",
-    "అన్ని పక్షాల భద్రతా ఆందోళనల పరిష్కారమే లక్ష్యం",
-    "ఫిబ్రవరి తర్వాత తొలి త్రైపాక్షిక చర్చలకు సన్నాహాలు"
-   ],
-   "why": "ఉక్రెయిన్ యుద్ధం ప్రపంచ మార్కెట్లు, ఇంధన ధరలపై ప్రభావం చూపుతున్నందున ఈ చర్చలు భారత్‌కూ ముఖ్యమే.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/international/conflict-ukraine-kushner/237492",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "US preparing trilateral peace talks with Ukraine, Russia: Kushner",
-    "p": "US special envoy Jared Kushner held high-level talks in Brussels with Ukraine, NATO and European partners on ending the war in Ukraine. He said the US aim is to address the security concerns of all sides and reduce the risk of future conflicts. He said the US is preparing to convene the first trilateral peace talks with Ukraine and Russia since February.",
-    "pts": [
-     "Kushner holds talks with Ukraine, NATO, Europe in Brussels",
-     "Aim is to address security concerns of all sides",
-     "Preparing first trilateral talks since February"
-    ],
-    "why": "The Ukraine war affects global markets and fuel prices, so these talks matter for India too.",
-    "cat": "World · Ukraine",
-    "statl": "First trilateral talks since February"
-   },
-   "hi": {
-    "h": "यूक्रेन, रूस के साथ त्रिपक्षीय शांति वार्ता की तैयारी में अमेरिका: कुशनर",
-    "p": "अमेरिका के विशेष दूत जेरेड कुशनर ने यूक्रेन युद्ध खत्म करने के लिए ब्रसेल्स में यूक्रेन, नाटो और यूरोपीय साझेदारों के साथ उच्च स्तरीय बातचीत की। उन्होंने कहा कि अमेरिका का लक्ष्य सभी पक्षों की सुरक्षा चिंताओं को दूर करना और भविष्य में युद्ध का खतरा कम करना है। उन्होंने बताया कि अमेरिका फरवरी के बाद यूक्रेन और रूस के साथ पहली त्रिपक्षीय शांति वार्ता बुलाने की तैयारी कर रहा है।",
-    "pts": [
-     "ब्रसेल्स में यूक्रेन, नाटो, यूरोप से कुशनर की बातचीत",
-     "सभी पक्षों की सुरक्षा चिंताओं का समाधान लक्ष्य",
-     "फरवरी के बाद पहली त्रिपक्षीय वार्ता की तैयारी"
-    ],
-    "why": "यूक्रेन युद्ध का असर वैश्विक बाज़ारों और ईंधन कीमतों पर पड़ता है, इसलिए यह वार्ता भारत के लिए भी अहम है।",
-    "cat": "दुनिया · यूक्रेन",
-    "statl": "फरवरी के बाद पहली त्रिपक्षीय वार्ता"
-   },
-   "d": "06.11.2026",
-   "t": "14:05"
   }
  ]
 }
