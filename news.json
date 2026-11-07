@@ -1,8 +1,253 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T17:08:54+05:30",
+ "updated": "2026-11-07T17:40:16+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "₹1,250",
+   "statl": "ఖైదీలకు కోర్సు ఫీజులో రాయితీ",
+   "h": "జైళ్లలోని ఖైదీలకు టాస్ ద్వారా పది, ఇంటర్ చదివే అవకాశం",
+   "p": "తెలంగాణ జైళ్ల శాఖ, తెలంగాణ ఓపెన్ స్కూల్ సొసైటీ (టాస్)తో కలిసి ఖైదీల కోసం ఓపెన్ స్కూలింగ్ కార్యక్రమాన్ని శనివారం ప్రారంభించింది. ఖైదీలు పదో తరగతి, ఇంటర్ కోర్సులు చదవవచ్చు; వయోపరిమితి లేదు. ఆదివారాలు, రెండో శనివారాల్లో తరగతులు జరుగుతాయి. జైళ్లలో ప్రత్యేక టాస్ కేంద్రాలు ఏర్పాటు చేస్తారు. విద్యాశాఖ ముఖ్య కార్యదర్శి డాక్టర్ యోగితా రాణా, జైళ్ల డీజీ డాక్టర్ సౌమ్య మిశ్రా పాల్గొన్నారు.",
+   "pts": [
+    "పదికి 70 మంది, ఇంటర్‌కు 15 మంది ఖైదీల ఆసక్తి",
+    "కోర్సు ఫీజులో ₹1,250 రాయితీ",
+    "జైళ్లలో ప్రత్యేక టాస్ కేంద్రాలు"
+   ],
+   "why": "చదువు మధ్యలో ఆపేసిన ఖైదీలు విడుదల తర్వాత కొత్త జీవితం ప్రారంభించేందుకు ఈ చదువు ఉపయోగపడుతుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-prison-inmates-get-opportunity-to-pursue-ssc-intermediate-courses",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Telangana prison inmates can now study SSC, Intermediate through TOSS",
+    "p": "The Telangana Prisons Department, with the Telangana Open School Society (TOSS), launched an open schooling programme for inmates on Saturday. Inmates can pursue SSC and Intermediate courses with no upper age limit. Classes will be held on Sundays and second Saturdays, and special TOSS centres will be set up in prisons. Education Principal Secretary Dr Yogita Rana and Prisons DG Dr Soumya Mishra attended.",
+    "pts": [
+     "70 inmates keen on SSC, 15 on Intermediate",
+     "₹1,250 concession on course fee",
+     "Special TOSS centres inside prisons"
+    ],
+    "why": "Studying can help inmates who dropped out of school start a new life after release.",
+    "cat": "Telangana · Education",
+    "statl": "Course fee concession for inmates"
+   },
+   "hi": {
+    "h": "तेलंगाना की जेलों में कैदी अब TOSS से दसवीं, इंटर पढ़ सकेंगे",
+    "p": "तेलंगाना जेल विभाग ने तेलंगाना ओपन स्कूल सोसाइटी (TOSS) के साथ मिलकर शनिवार को कैदियों के लिए ओपन स्कूलिंग कार्यक्रम शुरू किया। कैदी दसवीं और इंटर के कोर्स कर सकेंगे; कोई ऊपरी आयु सीमा नहीं है। कक्षाएं रविवार और दूसरे शनिवार को होंगी और जेलों में विशेष TOSS केंद्र बनेंगे। शिक्षा प्रधान सचिव डॉ. योगिता राणा और जेल डीजी डॉ. सौम्या मिश्रा मौजूद रहीं।",
+    "pts": [
+     "दसवीं के लिए 70, इंटर के लिए 15 कैदी इच्छुक",
+     "कोर्स फीस में ₹1,250 की छूट",
+     "जेलों में विशेष TOSS केंद्र"
+    ],
+    "why": "पढ़ाई छोड़ चुके कैदियों को रिहाई के बाद नई जिंदगी शुरू करने में यह पढ़ाई मदद करेगी।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "कैदियों को कोर्स फीस में छूट"
+   },
+   "d": "07.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "సైబరాబాద్ · పార్కులు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "30–40",
+   "statl": "వర్క్ ఫ్రమ్ హోమ్ జోన్లుగా మారనున్న పార్కులు",
+   "h": "సైబరాబాద్ పార్కుల్లో అవుట్‌డోర్ వర్క్ ఫ్రమ్ హోమ్ జోన్లు",
+   "p": "సైబరాబాద్ మున్సిపల్ కార్పొరేషన్ తన పబ్లిక్ పార్కులను ఐటీ ఉద్యోగులు, ఫ్రీలాన్సర్ల కోసం అవుట్‌డోర్ వర్క్ ఫ్రమ్ హోమ్ జోన్లుగా మార్చాలని యోచిస్తోంది. శేరిలింగంపల్లి, కూకట్‌పల్లి, మాదాపూర్ జోన్లలో ఎకరం కంటే పెద్ద 30–40 పార్కులను ఎంపిక చేసినట్లు కమిషనర్ జి. సృజన తెలిపారు. హై-స్పీడ్ వైఫై, కూర్చునే ఏర్పాట్లు, చార్జింగ్ కియోస్కులు, పార్కింగ్, కేఫ్‌టేరియాలు ఏర్పాటు చేస్తారు.",
+   "pts": [
+    "ఒక్కొక్కరికి ₹50 లేదా ₹100 రుసుము ప్రతిపాదన పరిశీలనలో",
+    "2027 జనవరి నాటికి 300 కొత్త పార్కుల లక్ష్యం",
+    "97 పాత పార్కులకు మరమ్మతులు"
+   ],
+   "why": "ఐటీ కారిడార్‌లో ఇంటి నుంచి పనిచేసే ఉద్యోగులకు బయట పని చేసే కొత్త అవకాశం లభించనుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/cyberabad-to-turn-public-parks-into-outdoor-work-from-home-zones",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "శేరిలింగంపల్లి",
+   "en": {
+    "h": "Cyberabad to turn public parks into outdoor work-from-home zones",
+    "p": "The Cyberabad Municipal Corporation plans to turn its public parks into outdoor work-from-home zones for IT employees and freelancers. Commissioner G Srijana said 30–40 parks larger than an acre were selected in the Serilingampally, Kukatpally and Madhapur zones. High-speed Wi-Fi, seating, charging kiosks, parking and cafeterias will be provided.",
+    "pts": [
+     "Fee of ₹50 or ₹100 per person under consideration",
+     "Target of 300 new parks by January 2027",
+     "97 old parks being repaired"
+    ],
+    "why": "Employees working from home in the IT corridor will get a new option to work outdoors.",
+    "cat": "Cyberabad · Parks",
+    "statl": "Parks to become work-from-home zones"
+   },
+   "hi": {
+    "h": "साइबराबाद के पार्कों में बनेंगे आउटडोर वर्क फ्रॉम होम ज़ोन",
+    "p": "साइबराबाद नगर निगम अपने सार्वजनिक पार्कों को आईटी कर्मचारियों और फ्रीलांसरों के लिए आउटडोर वर्क फ्रॉम होम ज़ोन में बदलने की योजना बना रहा है। आयुक्त जी. सृजना ने बताया कि शेरिलिंगमपल्ली, कूकटपल्ली और माधापुर ज़ोन में एक एकड़ से बड़े 30–40 पार्क चुने गए हैं। हाई-स्पीड वाई-फाई, बैठने की व्यवस्था, चार्जिंग कियोस्क, पार्किंग और कैफेटेरिया होंगे।",
+    "pts": [
+     "प्रति व्यक्ति ₹50 या ₹100 शुल्क का प्रस्ताव विचाराधीन",
+     "जनवरी 2027 तक 300 नए पार्कों का लक्ष्य",
+     "97 पुराने पार्कों की मरम्मत"
+    ],
+    "why": "आईटी कॉरिडोर में घर से काम करने वाले कर्मचारियों को बाहर काम करने का नया विकल्प मिलेगा।",
+    "cat": "साइबराबाद · पार्क",
+    "statl": "वर्क फ्रॉम होम ज़ोन बनेंगे पार्क"
+   },
+   "d": "07.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · క్రికెట్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "17",
+   "statl": "ముస్తాక్ అలీ టోర్నీకి హైదరాబాద్ జట్టు సభ్యులు",
+   "h": "ముస్తాక్ అలీ టీ20కి హైదరాబాద్ జట్టు; కెప్టెన్‌గా సీవీ మిలింద్",
+   "p": "బెంగాల్‌లో నవంబర్ 14 నుంచి జరిగే సయ్యద్ ముస్తాక్ అలీ ట్రోఫీ టీ20 టోర్నీకి హైదరాబాద్ 17 మంది సభ్యుల జట్టును ప్రకటించింది. లెఫ్ట్-ఆర్మ్ పేసర్ సీవీ మిలింద్ కెప్టెన్‌గా, ఎం. అభిరథ్ రెడ్డి వైస్ కెప్టెన్‌గా ఉంటారు. గత రెండు రంజీ మ్యాచ్‌ల్లో మిలింద్ జట్టును నడిపించగా, ఛత్తీస్‌గఢ్‌పై హైదరాబాద్ గెలిచింది. ఐదుగురిని స్టాండ్‌బైలుగా ఎంపిక చేశారు.",
+   "pts": [
+    "టోర్నీ బెంగాల్‌లో నవంబర్ 14 నుంచి",
+    "వైస్ కెప్టెన్ ఎం. అభిరథ్ రెడ్డి",
+    "ఐదుగురు స్టాండ్‌బై ఆటగాళ్లు"
+   ],
+   "why": "దేశవాళీ టీ20లో హైదరాబాద్ ఆటగాళ్ల ప్రదర్శనను క్రికెట్ అభిమానులు ఆసక్తిగా గమనిస్తారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-announce-squad-for-syed-mushtaq-ali-trophy-t20-tournament",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "en": {
+    "h": "Hyderabad name squad for Mushtaq Ali T20; CV Milind to captain",
+    "p": "Hyderabad have announced a 17-member squad for the Syed Mushtaq Ali Trophy T20 tournament to be held in Bengal from November 14. Left-arm pacer CV Milind will captain the side, with M Abhirath Reddy as vice-captain. Milind led the team in the last two Ranji matches, in which Hyderabad beat Chhattisgarh. Five players have been named as standbys.",
+    "pts": [
+     "Tournament in Bengal from November 14",
+     "M Abhirath Reddy is vice-captain",
+     "Five standby players"
+    ],
+    "why": "Cricket fans will closely follow how Hyderabad players perform in the domestic T20 event.",
+    "cat": "Hyderabad · Cricket",
+    "statl": "Hyderabad squad members for Mushtaq Ali"
+   },
+   "hi": {
+    "h": "मुश्ताक अली टी20 के लिए हैदराबाद टीम घोषित; कप्तान सीवी मिलिंद",
+    "p": "हैदराबाद ने 14 नवंबर से बंगाल में होने वाले सैयद मुश्ताक अली ट्रॉफी टी20 टूर्नामेंट के लिए 17 सदस्यीय टीम घोषित की है। बाएं हाथ के तेज़ गेंदबाज़ सीवी मिलिंद कप्तान और एम. अभिरथ रेड्डी उपकप्तान होंगे। पिछले दो रणजी मैचों में मिलिंद ने टीम की अगुवाई की, जिनमें हैदराबाद ने छत्तीसगढ़ को हराया। पांच खिलाड़ी स्टैंडबाय रखे गए हैं।",
+    "pts": [
+     "टूर्नामेंट बंगाल में 14 नवंबर से",
+     "उपकप्तान एम. अभिरथ रेड्डी",
+     "पांच स्टैंडबाय खिलाड़ी"
+    ],
+    "why": "घरेलू टी20 में हैदराबाद के खिलाड़ियों के प्रदर्शन पर क्रिकेट प्रशंसकों की नज़र रहेगी।",
+    "cat": "हैदराबाद · क्रिकेट",
+    "statl": "मुश्ताक अली के लिए हैदराबाद टीम सदस्य"
+   },
+   "d": "07.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "మహారాష్ట్ర · ముంబై",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "ఘాట్‌కోపర్ అగ్నిప్రమాదంలో గాయపడినవారు",
+   "h": "ముంబై ఘాట్‌కోపర్‌లో 21 అంతస్తుల భవనంలో మంటలు; ముగ్గురికి గాయాలు",
+   "p": "ముంబై ఘాట్‌కోపర్ ఈస్ట్ పంత్‌నగర్‌లోని 21 అంతస్తుల నివాస భవనం 20వ అంతస్తులోని ఫ్లాట్‌లో శుక్రవారం రాత్రి మంటలు చెలరేగాయి. దీన్ని లెవల్-2 (పెద్ద) అగ్నిప్రమాదంగా ప్రకటించారు. రెండు గంటలకు పైగా శ్రమించి ఫైర్ బ్రిగేడ్ మంటలను అదుపులోకి తెచ్చింది; భవనాన్ని ఖాళీ చేయించారు. దీపావళి రాకెట్ టపాసులే కారణమని అనుమానిస్తున్నారు, అధికారికంగా నిర్ధారించలేదు.",
+   "pts": [
+    "గాయపడిన ముగ్గురి పరిస్థితి నిలకడగా ఉంది",
+    "ఒకరికి 27 శాతం కాలిన గాయాలు",
+    "ఘటనాస్థలాన్ని పరిశీలించిన ముంబై మేయర్"
+   ],
+   "why": "దీపావళి సమయంలో ఎత్తైన భవనాల్లో నివసించేవారు టపాసుల విషయంలో జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "src": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/mumbai/mumbai-ghatkopar-east-fire-breaks-out-on-20th-floor-of-21-storey-building-3-residents-injured",
+   "sec": [
+    "india"
+   ],
+   "st": "MH",
+   "place": "mh-mumbaisuburban",
+   "loc": "ఘాట్‌కోపర్",
+   "en": {
+    "h": "Fire in 21-storey building in Mumbai's Ghatkopar; three injured",
+    "p": "A fire broke out on Friday night in a flat on the 20th floor of a 21-storey residential building in Pantnagar, Ghatkopar East, Mumbai. It was declared a Level-2 (major) fire. The fire brigade brought it under control after more than two hours and the building was evacuated. Diwali rocket firecrackers are suspected, but the cause is not officially confirmed.",
+    "pts": [
+     "All three injured are stable",
+     "One person has 27 per cent burns",
+     "Mumbai Mayor inspected the site"
+    ],
+    "why": "The incident is a reminder for people living in high-rises to be careful with firecrackers during Diwali.",
+    "cat": "Maharashtra · Mumbai",
+    "statl": "Injured in Ghatkopar fire"
+   },
+   "hi": {
+    "h": "मुंबई के घाटकोपर में 21 मंजिला इमारत में आग; तीन घायल",
+    "p": "मुंबई के घाटकोपर ईस्ट के पंतनगर में 21 मंजिला आवासीय इमारत की 20वीं मंजिल के एक फ्लैट में शुक्रवार रात आग लग गई। इसे लेवल-2 (बड़ी) आग घोषित किया गया। दमकल ने दो घंटे से ज़्यादा मशक्कत के बाद आग पर काबू पाया और इमारत खाली कराई गई। दिवाली के रॉकेट पटाखों पर शक है, लेकिन कारण की आधिकारिक पुष्टि नहीं हुई है।",
+    "pts": [
+     "तीनों घायलों की हालत स्थिर",
+     "एक व्यक्ति 27 प्रतिशत झुलसा",
+     "मुंबई की मेयर ने मौके का निरीक्षण किया"
+    ],
+    "why": "यह घटना याद दिलाती है कि दिवाली पर ऊंची इमारतों में रहने वाले पटाखों को लेकर सावधान रहें।",
+    "cat": "महाराष्ट्र · मुंबई",
+    "statl": "घाटकोपर आग में घायल"
+   },
+   "d": "07.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2,000 కి.మీ",
+   "statl": "ఇప్పటివరకు ఉన్న క్షిపణి పరిధి పరిమితి",
+   "h": "క్షిపణుల పరిధిపై 2,000 కి.మీ స్వీయ పరిమితి ఎత్తివేసిన ఇరాన్",
+   "p": "తమ బాలిస్టిక్ క్షిపణుల పరిధిపై తామే విధించుకున్న 2,000 కిలోమీటర్ల పరిమితిని ఎత్తివేసినట్లు ఇరాన్ రివల్యూషనరీ గార్డ్ ప్రతినిధి జనరల్ హొస్సేన్ మొహెబ్బీ టెహ్రాన్‌లో ప్రకటించారు. అంతకు మించిన పరిధి క్షిపణులు ఉన్నాయా అనేది ఆయన చెప్పలేదు; సామర్థ్యాన్ని ఆచరణలో చూపిస్తామన్నారు. అమెరికా, ఇజ్రాయెల్ బెదిరింపులకు భౌగోళిక పరిమితి లేకుండా జవాబిస్తామని సుప్రీం లీడర్ హెచ్చరించిన కొద్ది రోజులకే ఈ ప్రకటన వచ్చింది.",
+   "pts": [
+    "2,000 కి.మీ మించిన క్షిపణులు ఇరాన్‌కు ఉన్నట్లు తెలియదు",
+    "ఈ పరిధిలో మొత్తం అరేబియా ద్వీపకల్పం",
+    "హోర్ముజ్ సమీపంలో ట్యాంకర్‌కు మందుపాతర తగిలి మంటలు"
+   ],
+   "why": "గల్ఫ్ దేశాల్లో ఉద్యోగాలు చేసే తెలుగువారి భద్రతపై ఈ ఉద్రిక్తతలు ప్రభావం చూపవచ్చు.",
+   "src": "AP",
+   "url": "https://www.clickondetroit.com/news/world/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Iran lifts its self-imposed 2,000 km limit on missile range",
+    "p": "Gen. Hossein Mohebbi, spokesman for Iran's Revolutionary Guard, announced in Tehran that the self-imposed 2,000-kilometre limit on the range of its ballistic missiles has been lifted. He did not say whether Iran has longer-range missiles, saying it would demonstrate its capabilities in practice. The statement came days after the supreme leader warned that threats from the US or Israel would be answered without geographic limits.",
+    "pts": [
+     "Iran not known to have missiles beyond 2,000 km",
+     "Range covers the entire Arabian Peninsula",
+     "Tanker hits mine near Hormuz, catches fire"
+    ],
+    "why": "These tensions could affect the safety of Telugu people working in Gulf countries.",
+    "cat": "World · Iran",
+    "statl": "Missile range limit until now"
+   },
+   "hi": {
+    "h": "ईरान ने मिसाइल रेंज पर खुद लगाई 2,000 किमी की सीमा हटाई",
+    "p": "ईरान के रिवोल्यूशनरी गार्ड के प्रवक्ता जनरल हुसैन मोहेब्बी ने तेहरान में घोषणा की कि बैलिस्टिक मिसाइलों की रेंज पर खुद लगाई गई 2,000 किलोमीटर की सीमा हटा दी गई है। उन्होंने यह नहीं बताया कि ईरान के पास इससे लंबी दूरी की मिसाइलें हैं या नहीं; कहा कि क्षमता व्यवहार में दिखाएंगे। यह बयान सुप्रीम लीडर की उस चेतावनी के कुछ दिन बाद आया कि अमेरिका या इज़राइल की धमकियों का जवाब बिना भौगोलिक सीमा के दिया जाएगा।",
+    "pts": [
+     "ईरान के पास 2,000 किमी से आगे की मिसाइलें ज्ञात नहीं",
+     "इस रेंज में पूरा अरब प्रायद्वीप",
+     "होर्मुज़ के पास टैंकर बारूदी सुरंग से टकराकर जला"
+    ],
+    "why": "ये तनाव खाड़ी देशों में काम करने वाले तेलुगु लोगों की सुरक्षा पर असर डाल सकते हैं।",
+    "cat": "विश्व · ईरान",
+    "statl": "अब तक की मिसाइल रेंज सीमा"
+   },
+   "d": "07.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "తెలంగాణ · ఆదిలాబాద్",
    "col": "--c-power",
@@ -1627,248 +1872,6 @@
    },
    "d": "07.11.2026",
    "t": "12:35"
-  },
-  {
-   "cat": "ప్రపంచం · పశ్చిమాసియా",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "శాంతి",
-   "statl": "అమెరికా–ఇరాన్ ఒప్పందానికి ఖతార్ పిలుపు",
-   "h": "ఆలస్యం వద్దు: అమెరికా, ఇరాన్ శాంతి ఒప్పందం చేసుకోవాలని ఖతార్ ప్రధాని పిలుపు",
-   "p": "యుద్ధాన్ని ముగించేందుకు అమెరికా, ఇరాన్ వెంటనే శాంతి ఒప్పందం చేసుకోవాలని ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మొహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ కోరారు. సరైన సమయం కోసం ఎదురుచూడటం సాధ్యం కాదని ఆక్స్‌ఫర్డ్ యూనివర్సిటీలో ఇంటర్వ్యూలో అన్నారు. హార్ముజ్ జలసంధిలోని ఖెష్మ్ దీవిపై రెండు క్షిపణులు పడ్డాయని, ప్రాణనష్టం లేదని ఇరాన్ మీడియా తెలిపింది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "శాంతి ఒప్పందానికి ఖతార్ ప్రధాని పిలుపు",
-    "సరైన సమయం కోసం ఆగలేమని హెచ్చరిక",
-    "ఖెష్మ్ దీవిపై రెండు క్షిపణులు; ప్రాణనష్టం లేదు"
-   ],
-   "why": "గల్ఫ్‌లో పనిచేస్తున్న తెలుగువారి భద్రత, చమురు ధరలపై ఈ యుద్ధం ప్రభావం చూపుతోంది.",
-   "en": {
-    "h": "Don't delay: Qatar PM urges US and Iran to reach peace deal",
-    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the US and Iran to reach a peace deal soon to end the war. In an interview at Oxford University, he said they cannot wait for the right moment. Iranian media said two missiles hit Qeshm Island in the Strait of Hormuz, with no casualties.",
-    "pts": [
-     "Qatar PM calls for a peace deal",
-     "Warns they cannot wait for the right moment",
-     "Two missiles hit Qeshm Island; no casualties"
-    ],
-    "why": "The war affects the safety of Telugu people working in the Gulf and oil prices.",
-    "cat": "World · West Asia",
-    "statl": "Qatar's call for US–Iran deal"
-   },
-   "hi": {
-    "h": "देर न करें: क़तर के पीएम ने अमेरिका और ईरान से शांति समझौते की अपील की",
-    "p": "क़तर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी ने अमेरिका और ईरान से युद्ध खत्म करने के लिए जल्द शांति समझौता करने की अपील की। ऑक्सफ़ोर्ड यूनिवर्सिटी में एक इंटरव्यू में उन्होंने कहा कि सही समय का इंतज़ार नहीं किया जा सकता। ईरानी मीडिया ने बताया कि होर्मुज़ जलडमरूमध्य में क़ेश्म द्वीप पर दो मिसाइलें गिरीं, कोई हताहत नहीं हुआ।",
-    "pts": [
-     "क़तर के पीएम की शांति समझौते की अपील",
-     "सही समय का इंतज़ार नहीं कर सकते, चेतावनी",
-     "क़ेश्म द्वीप पर दो मिसाइलें; कोई हताहत नहीं"
-    ],
-    "why": "यह युद्ध खाड़ी में काम कर रहे तेलुगु लोगों की सुरक्षा और तेल कीमतों पर असर डालता है।",
-    "cat": "दुनिया · पश्चिम एशिया",
-    "statl": "अमेरिका–ईरान समझौते के लिए क़तर की अपील"
-   },
-   "d": "07.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఒడిశా · ప్రభుత్వం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "రద్దు",
-   "statl": "సీఎం నివాసంలో దీపావళి వేడుకలు",
-   "h": "తుపాను బాధితులకు సంఘీభావం: ఒడిశా సీఎం దీపావళి వేడుకలు రద్దు",
-   "p": "ఆర్నబ్ తుపాను, ఆ తర్వాత వచ్చిన వరదలతో ఒడిశాలో భారీ నష్టం జరగడంతో ముఖ్యమంత్రి మోహన్ చరణ్ మాఝీ తన నివాసంలో ఈ ఏడాది దీపావళి వేడుకలను రద్దు చేశారు. పండుగ సందర్భంగా తనకు బహుమతులు, పుష్పగుచ్ఛాలు తీసుకురావద్దని ప్రజలను కోరారు. బాధిత ప్రాంతాల ప్రజలకు సాయం అందించాలని విజ్ఞప్తి చేశారు.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/odisha-cm-cancels-diwali-celebrations-in-solidarity-with-disaster-hit-people/3092961/",
-   "sec": [
-    "india"
-   ],
-   "st": "OD",
-   "place": "st-OD",
-   "pts": [
-    "సీఎం నివాసంలో దీపావళి వేడుకలు రద్దు",
-    "బహుమతులు, పుష్పగుచ్ఛాలు తేవద్దని విజ్ఞప్తి",
-    "దక్షిణ జిల్లాల్లో వరదలతో వేలాది మంది నిరాశ్రయులు"
-   ],
-   "why": "తుపాను, వరదలతో నష్టపోయిన ఒడిశా దక్షిణ జిల్లాల ప్రజల పరిస్థితిని ఇది మరోసారి గుర్తుచేస్తోంది.",
-   "d": "07.11.2026",
-   "t": "12:05",
-   "en": {
-    "h": "Odisha CM cancels Diwali celebrations in solidarity with cyclone-hit people",
-    "p": "With Cyclone Arnab and the floods that followed causing heavy damage in Odisha, Chief Minister Mohan Charan Majhi has cancelled this year's Diwali celebrations at his residence. He asked people not to bring him gifts or bouquets for the festival and appealed to them to help people in the affected areas.",
-    "pts": [
-     "Diwali celebrations at CM's residence cancelled",
-     "People asked not to bring gifts or bouquets",
-     "Floods displaced thousands in southern districts"
-    ],
-    "why": "It again highlights the plight of people in Odisha's southern districts hit by the cyclone and floods.",
-    "cat": "Odisha · Government",
-    "statl": "Diwali celebrations at CM's residence"
-   },
-   "hi": {
-    "h": "तूफान पीड़ितों से एकजुटता: ओडिशा के सीएम ने दिवाली समारोह रद्द किया",
-    "p": "चक्रवात अर्नब और उसके बाद आई बाढ़ से ओडिशा में भारी नुकसान होने के कारण मुख्यमंत्री मोहन चरण माझी ने इस साल अपने आवास पर दिवाली समारोह रद्द कर दिया है। उन्होंने लोगों से त्योहार पर उपहार या गुलदस्ते न लाने को कहा और प्रभावित इलाकों के लोगों की मदद करने की अपील की।",
-    "pts": [
-     "सीएम आवास पर दिवाली समारोह रद्द",
-     "उपहार और गुलदस्ते न लाने की अपील",
-     "दक्षिणी जिलों में बाढ़ से हजारों लोग बेघर"
-    ],
-    "why": "यह चक्रवात और बाढ़ से प्रभावित ओडिशा के दक्षिणी जिलों के लोगों की स्थिति को फिर सामने लाता है।",
-    "cat": "ओडिशा · सरकार",
-    "statl": "सीएम आवास पर दिवाली समारोह"
-   }
-  },
-  {
-   "cat": "మహారాష్ట్ర · ముంబై",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "85",
-   "statl": "ఏళ్ల శరద్ పవార్ డిశ్చార్జ్",
-   "h": "ముంబై ఆసుపత్రి నుంచి శరద్ పవార్ డిశ్చార్జ్",
-   "p": "ఛాతీ, శ్వాసకోశ ఇన్ఫెక్షన్‌కు చికిత్స పొందిన ఎన్సీపీ-ఎస్పీ అధినేత శరద్ పవార్ (85) శనివారం ముంబై ఆసుపత్రి నుంచి డిశ్చార్జ్ అయ్యారు. ఆయన బ్రీచ్ క్యాండీ దగ్గర ఉన్న తన నివాసానికి వెళ్లారు. నవంబర్ 2న పుణె రూబీ హాల్ క్లినిక్‌లో చేరి, 4న డిశ్చార్జ్ అయిన రోజే ముంబై ఆసుపత్రిలో చేరారు.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/sharad-pawar-discharged-from-mumbai-hospital/3092960/",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-mumbai",
-   "pts": [
-    "ఛాతీ, శ్వాసకోశ ఇన్ఫెక్షన్‌కు చికిత్స",
-    "మూడు రోజులుగా ముంబై ఆసుపత్రిలో",
-    "శుక్రవారం రాత్రి పలువురు నేతల పరామర్శ"
-   ],
-   "why": "మహారాష్ట్ర రాజకీయాల్లో సీనియర్ నేత ఆరోగ్యంపై ఆందోళన చెందిన మద్దతుదారులకు ఇది ముఖ్యమైన సమాచారం.",
-   "d": "07.11.2026",
-   "t": "12:05",
-   "en": {
-    "h": "Sharad Pawar discharged from Mumbai hospital",
-    "p": "NCP-SP chief Sharad Pawar (85), who was treated for a chest and respiratory infection, was discharged from a Mumbai hospital on Saturday. He went to his residence near Breach Candy. He was admitted to Pune's Ruby Hall Clinic on November 2 and, on the day of his discharge on the 4th, was admitted to the Mumbai hospital.",
-    "pts": [
-     "Treated for chest and respiratory infection",
-     "Was in Mumbai hospital for three days",
-     "Several leaders visited him on Friday night"
-    ],
-    "why": "This is important news for supporters concerned about the health of a senior leader in Maharashtra politics.",
-    "cat": "Maharashtra · Mumbai",
-    "statl": "Sharad Pawar, 85, discharged"
-   },
-   "hi": {
-    "h": "शरद पवार को मुंबई के अस्पताल से छुट्टी मिली",
-    "p": "छाती और सांस के संक्रमण का इलाज करा रहे एनसीपी-एसपी प्रमुख शरद पवार (85) को शनिवार को मुंबई के अस्पताल से छुट्टी मिल गई। वे ब्रीच कैंडी के पास अपने आवास पर चले गए। वे 2 नवंबर को पुणे के रूबी हॉल क्लिनिक में भर्ती हुए थे और 4 तारीख को वहां से छुट्टी मिलने के दिन ही मुंबई के अस्पताल में भर्ती हुए।",
-    "pts": [
-     "छाती और सांस के संक्रमण का इलाज",
-     "तीन दिन से मुंबई के अस्पताल में थे",
-     "शुक्रवार रात कई नेताओं ने मुलाकात की"
-    ],
-    "why": "महाराष्ट्र की राजनीति के वरिष्ठ नेता की सेहत को लेकर चिंतित समर्थकों के लिए यह अहम खबर है।",
-    "cat": "महाराष्ट्र · मुंबई",
-    "statl": "85 वर्षीय शरद पवार को छुट्टी"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "8",
-   "statl": "జిల్లాల్లో నేడు వర్ష సూచన",
-   "h": "తెలంగాణలో నేడు 8 జిల్లాల్లో వర్షాలు; ఆదివారం నుంచి చలి పెరుగుదల",
-   "p": "శనివారం మధ్యాహ్నం నుంచి రాత్రి వరకు నల్గొండ, సూర్యాపేట, ఖమ్మం, భద్రాద్రి కొత్తగూడెం, మహబూబాబాద్, నాగర్‌కర్నూల్, వనపర్తి, రంగారెడ్డి జిల్లాల్లో అక్కడక్కడ వర్షాలు పడే అవకాశం ఉందని వాతావరణ విశ్లేషకుడు టి. బాలాజీ అంచనా వేశారు. హైదరాబాద్‌లో ఎక్కువగా పొడి వాతావరణం ఉంటుంది. ఆదివారం నుంచి రాత్రి ఉష్ణోగ్రతలు తగ్గుతాయని, ఈ నెల 11 నుంచి 15 వరకు తీవ్రమైన చలి ఉంటుందని ఆయన తెలిపారు.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/telangana-weather-today-rain-in-eight-districts/",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "మధ్యాహ్నం నుంచి రాత్రి వరకు అక్కడక్కడ వర్షాలు",
-    "హైదరాబాద్‌లో ఎక్కువగా పొడి వాతావరణం",
-    "నవంబర్ 11–15 మధ్య తీవ్ర చలి అంచనా"
-   ],
-   "why": "వర్షం, చలి అంచనాలు రైతులు, ప్రయాణికులు, వృద్ధులు ముందుజాగ్రత్తలు తీసుకోవడానికి ఉపయోగపడతాయి.",
-   "en": {
-    "h": "Rain in 8 Telangana districts today; chill to rise from Sunday",
-    "p": "Weather analyst T Balaji forecast scattered rain from Saturday afternoon to night in Nalgonda, Suryapet, Khammam, Bhadradri Kothagudem, Mahabubabad, Nagarkurnool, Wanaparthy and Rangareddy districts. Hyderabad will stay mostly dry. He said night temperatures will fall from Sunday and intense cold is expected from November 11 to 15.",
-    "pts": [
-     "Scattered rain from afternoon to night",
-     "Hyderabad mostly dry",
-     "Intense cold expected November 11–15"
-    ],
-    "why": "The rain and cold forecasts help farmers, commuters and the elderly take precautions.",
-    "cat": "Telangana · Weather",
-    "statl": "Districts with rain forecast today"
-   },
-   "hi": {
-    "h": "तेलंगाना के 8 ज़िलों में आज बारिश; रविवार से बढ़ेगी ठंड",
-    "p": "मौसम विश्लेषक टी. बालाजी ने अनुमान लगाया है कि शनिवार दोपहर से रात तक नलगोंडा, सूर्यापेट, खम्मम, भद्राद्री कोत्तागुडेम, महबूबाबाद, नागरकुरनूल, वनपर्ती और रंगारेड्डी ज़िलों में कहीं-कहीं बारिश होगी। हैदराबाद में मौसम ज़्यादातर सूखा रहेगा। उन्होंने कहा कि रविवार से रात का तापमान गिरेगा और 11 से 15 नवंबर तक कड़ी ठंड पड़ेगी।",
-    "pts": [
-     "दोपहर से रात तक कहीं-कहीं बारिश",
-     "हैदराबाद में ज़्यादातर सूखा मौसम",
-     "11–15 नवंबर के बीच कड़ी ठंड का अनुमान"
-    ],
-    "why": "बारिश और ठंड के अनुमान से किसान, यात्री और बुज़ुर्ग पहले से सावधानी बरत सकते हैं।",
-    "cat": "तेलंगाना · मौसम",
-    "statl": "ज़िलों में आज बारिश का अनुमान"
-   },
-   "d": "07.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "మహారాష్ట్ర · ఠాణే",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹10 లక్షలు",
-   "statl": "నిందితుడిపై ఉన్న రివార్డు",
-   "h": "₹10 లక్షల రివార్డు ఉన్న నక్సలైట్‌ను ఠాణేలో పట్టుకున్న మహారాష్ట్ర ఏటీఎస్",
-   "p": "ఝార్ఖండ్‌కు చెందిన, ₹10 లక్షల రివార్డు ఉన్న 45 ఏళ్ల నక్సలైట్‌ను ఠాణే జిల్లా ఠాకుర్లీ ప్రాంతంలో మహారాష్ట్ర యాంటీ టెర్రరిజం స్క్వాడ్ అరెస్టు చేసిందని ఓ అధికారి శనివారం తెలిపారు. నిఘా సమాచారంతో ఈ చర్య తీసుకున్నారు. నిషేధిత సంస్థ జోనల్ కమిటీ సభ్యుడైన అతను పది రోజులుగా అక్కడ దాక్కున్నాడని ఆరోపణ. తదుపరి చర్యల కోసం అతన్ని ఝార్ఖండ్ పోలీసులకు అప్పగించారు.",
-   "src": "PTI / Telangana Today",
-   "url": "https://telanganatoday.com/maharashtra-ats-arrests-naxalite-carrying-rs-10-lakh-bounty",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-thane",
-   "loc": "ఠాకుర్లీ",
-   "pts": [
-    "నిఘా సమాచారంతో ఠాకుర్లీలో అరెస్టు",
-    "నిషేధిత సంస్థ జోనల్ కమిటీ సభ్యుడు",
-    "ఝార్ఖండ్ పోలీసులకు అప్పగింత"
-   ],
-   "why": "ముంబై శివారు ప్రాంతాల్లో భద్రతా సంస్థల నిఘా కొనసాగుతోందని ఈ అరెస్టు చూపిస్తోంది.",
-   "en": {
-    "h": "Maharashtra ATS nabs Naxalite carrying Rs 10 lakh bounty in Thane",
-    "p": "The Maharashtra Anti-Terrorism Squad arrested a 45-year-old Naxalite from Jharkhand, carrying a Rs 10 lakh bounty, in the Thakurli area of Thane district, an official said on Saturday. The action followed specific intelligence. A zonal committee member of a banned outfit, he had allegedly been hiding there for 10 days. He was handed over to Jharkhand Police for further action.",
-    "pts": [
-     "Arrested in Thakurli on specific intelligence",
-     "Zonal committee member of banned outfit",
-     "Handed over to Jharkhand Police"
-    ],
-    "why": "The arrest shows security agencies are keeping watch in Mumbai's suburban areas.",
-    "cat": "Maharashtra · Thane",
-    "statl": "Bounty on the accused"
-   },
-   "hi": {
-    "h": "महाराष्ट्र एटीएस ने ठाणे में 10 लाख के इनामी नक्सली को पकड़ा",
-    "p": "महाराष्ट्र आतंकवाद निरोधक दस्ते ने झारखंड के 45 वर्षीय नक्सली को, जिस पर 10 लाख रुपये का इनाम था, ठाणे ज़िले के ठाकुर्ली इलाके से गिरफ़्तार किया। एक अधिकारी ने शनिवार को यह जानकारी दी। कार्रवाई ख़ुफ़िया सूचना पर हुई। प्रतिबंधित संगठन का ज़ोनल कमेटी सदस्य वह कथित तौर पर 10 दिन से वहाँ छिपा था। आगे की कार्रवाई के लिए उसे झारखंड पुलिस को सौंपा गया।",
-    "pts": [
-     "ख़ुफ़िया सूचना पर ठाकुर्ली में गिरफ़्तारी",
-     "प्रतिबंधित संगठन का ज़ोनल कमेटी सदस्य",
-     "झारखंड पुलिस को सौंपा गया"
-    ],
-    "why": "यह गिरफ़्तारी दिखाती है कि मुंबई के उपनगरों में सुरक्षा एजेंसियाँ नज़र रखे हुए हैं।",
-    "cat": "महाराष्ट्र · ठाणे",
-    "statl": "आरोपी पर इनाम"
-   },
-   "d": "07.11.2026",
-   "t": "11:35"
   }
  ]
 }
