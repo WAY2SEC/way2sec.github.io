@@ -1,8 +1,204 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T09:42:07+05:30",
+ "updated": "2026-11-07T10:12:36+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఐటీ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "100",
+   "statl": "ఏడాదిలో కొత్త జీసీసీల లక్ష్యం",
+   "h": "ఏడాదిలో హైదరాబాద్‌కు 100 కొత్త జీసీసీలు: మంత్రి శ్రీధర్ బాబు",
+   "p": "ఒక్క ఏడాదిలోనే 100 కొత్త గ్లోబల్ కేపబిలిటీ సెంటర్లు (జీసీసీలు) హైదరాబాద్‌కు తీసుకురావాలని రాష్ట్రం లక్ష్యం పెట్టుకుందని పరిశ్రమల మంత్రి డి. శ్రీధర్ బాబు చెప్పారు. జీసీసీలను కేవలం సేవా కేంద్రాలుగా కాకుండా టెక్నాలజీ, పరిశోధన, ఆవిష్కరణల గ్లోబల్ హబ్‌లుగా మార్చాలన్నదే ఉద్దేశమన్నారు. హైటెక్ సిటీలో న్యూయార్క్‌కు చెందిన పికో టెక్నాలజీ భారత కార్యాలయ ప్రారంభోత్సవంలో ఆయన మాట్లాడారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-aims-to-attract-100-new-gccs-to-hyderabad-in-a-year-sridhar-babu",
+   "sec": [
+    "telangana",
+    "jobs",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హైటెక్ సిటీ",
+   "pts": [
+    "ప్రొడక్ట్ డెవలప్‌మెంట్, ఇంజినీరింగ్, డేటా అనలిటిక్స్‌పై దృష్టి",
+    "సైబర్ సెక్యూరిటీ, ఏఐ రంగాల జీసీసీలకు ప్రాధాన్యం",
+    "పికో టెక్నాలజీ భారత ఆఫీస్ హైటెక్ సిటీలో ప్రారంభం"
+   ],
+   "why": "కొత్త జీసీసీలు వస్తే హైదరాబాద్‌లో ఐటీ, ఏఐ రంగాల్లో ఉద్యోగాలు కోరుకునే యువతకు అవకాశాలు పెరుగుతాయి.",
+   "en": {
+    "h": "100 new GCCs for Hyderabad in a year: Minister Sridhar Babu",
+    "p": "Industries Minister D. Sridhar Babu said the state has set a target of bringing 100 new Global Capability Centres (GCCs) to Hyderabad within a year. He said the aim is to turn GCCs from service centres into global hubs for technology, research and innovation. He spoke at the opening of the India office of New York-based Pico Technology in Hitec City.",
+    "pts": [
+     "Focus on product development, engineering, data analytics",
+     "Priority to cybersecurity and AI GCCs",
+     "Pico Technology's India office opens in Hitec City"
+    ],
+    "why": "New GCCs would widen job opportunities in IT and AI for young people in Hyderabad.",
+    "cat": "Hyderabad · IT",
+    "statl": "Target of new GCCs in a year"
+   },
+   "hi": {
+    "h": "एक साल में हैदराबाद में 100 नए जीसीसी: मंत्री श्रीधर बाबू",
+    "p": "उद्योग मंत्री डी. श्रीधर बाबू ने कहा कि राज्य ने एक साल के भीतर हैदराबाद में 100 नए ग्लोबल कैपेबिलिटी सेंटर (जीसीसी) लाने का लक्ष्य रखा है। उन्होंने कहा कि मकसद जीसीसी को सिर्फ सेवा केंद्र नहीं, बल्कि तकनीक, शोध और नवाचार के वैश्विक हब बनाना है। वे हाईटेक सिटी में न्यूयॉर्क की पिको टेक्नोलॉजी के भारत कार्यालय के उद्घाटन पर बोल रहे थे।",
+    "pts": [
+     "प्रोडक्ट डेवलपमेंट, इंजीनियरिंग, डेटा एनालिटिक्स पर ध्यान",
+     "साइबर सुरक्षा और एआई वाले जीसीसी को प्राथमिकता",
+     "पिको टेक्नोलॉजी का भारत कार्यालय हाईटेक सिटी में शुरू"
+    ],
+    "why": "नए जीसीसी आने से हैदराबाद में आईटी और एआई क्षेत्र में नौकरी चाहने वाले युवाओं के मौके बढ़ेंगे।",
+    "cat": "हैदराबाद · आईटी",
+    "statl": "एक साल में नए जीसीसी का लक्ष्य"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "కర్ణాటక · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "55%",
+   "statl": "నేడు బెంగళూరులో వర్ష సూచన",
+   "h": "బెంగళూరులో నేడు వర్షం అవకాశం; కర్ణాటకకు వారం పాటు హెచ్చరికలు లేవు",
+   "p": "వచ్చే ఏడు రోజులు కర్ణాటకలో ఎండ, మబ్బుల కలయిక ఉంటుందని, కొన్ని చోట్ల తేలికపాటి నుంచి మోస్తరు వర్షాలు పడవచ్చని ఐఎండీ తెలిపింది. నవంబర్ 7 నుంచి 13 వరకు రాష్ట్రానికి ఎలాంటి హెచ్చరికలు లేవు. బెంగళూరులో శనివారం వర్షం పడే అవకాశం సుమారు 55 శాతం, గరిష్ఠ ఉష్ణోగ్రత దాదాపు 28 డిగ్రీలు ఉండొచ్చు.",
+   "src": "Goodreturns",
+   "url": "https://www.goodreturns.in/news/karnataka-weather-imd-forecasts-thunderstorms-foggy-mornings-till-nov-13-check-bengaluru-weather-1545855.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "రాష్ట్రమంతటా ఉష్ణోగ్రతలు సాధారణం కంటే ఎక్కువ",
+    "ఉదయం పొగమంచుతో దృశ్యమానత తగ్గే అవకాశం",
+    "ఆదివారం నుంచి బెంగళూరులో వర్ష అవకాశం తగ్గుతుంది"
+   ],
+   "why": "బెంగళూరు, కర్ణాటకలో ఉంటున్న తెలుగువారు ప్రయాణాలు, ఉదయం డ్రైవింగ్ ప్లాన్ చేసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
+   "en": {
+    "h": "Chance of rain in Bengaluru today; no warnings for Karnataka this week",
+    "p": "The IMD said Karnataka will see a mix of sun and clouds over the next seven days, with light to moderate rain in some places. There are no warnings for the state from November 7 to 13. Bengaluru has about a 55 per cent chance of rain on Saturday, with a maximum temperature of around 28 degrees.",
+    "pts": [
+     "Temperatures above normal across the state",
+     "Morning fog may reduce visibility",
+     "Rain chances in Bengaluru drop from Sunday"
+    ],
+    "why": "It helps Telugu people living in Bengaluru and Karnataka plan travel and morning drives.",
+    "cat": "Karnataka · Weather",
+    "statl": "Rain chance in Bengaluru today"
+   },
+   "hi": {
+    "h": "बेंगलुरु में आज बारिश के आसार; कर्नाटक के लिए इस हफ्ते कोई चेतावनी नहीं",
+    "p": "आईएमडी ने कहा कि अगले सात दिन कर्नाटक में धूप और बादल का मिला-जुला मौसम रहेगा और कुछ जगहों पर हल्की से मध्यम बारिश हो सकती है। 7 से 13 नवंबर तक राज्य के लिए कोई चेतावनी नहीं है। बेंगलुरु में शनिवार को बारिश की संभावना करीब 55 प्रतिशत है और अधिकतम तापमान लगभग 28 डिग्री रह सकता है।",
+    "pts": [
+     "पूरे राज्य में तापमान सामान्य से ज़्यादा",
+     "सुबह कोहरे से दृश्यता कम हो सकती है",
+     "रविवार से बेंगलुरु में बारिश की संभावना घटेगी"
+    ],
+    "why": "इससे बेंगलुरु और कर्नाटक में रहने वाले तेलुगु लोगों को यात्रा और सुबह की ड्राइव की योजना बनाने में मदद मिलेगी।",
+    "cat": "कर्नाटक · मौसम",
+    "statl": "आज बेंगलुरु में बारिश की संभावना"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "5,182",
+   "statl": "ఈ ఏడాది అమెరికాలో మీజిల్స్ కేసులు",
+   "h": "అమెరికాలో మీజిల్స్ కేసులు 5,000 దాటాయి – 35 ఏళ్లలో అత్యధికం",
+   "p": "2026లో ఇప్పటివరకు అమెరికాలో 5,182 మీజిల్స్ (తట్టు) కేసులు నిర్ధారణ అయ్యాయని సీడీసీ తెలిపింది. 1991 తర్వాత ఇదే అత్యధికం. గత ఏడాది నమోదైన 2,289 కేసుల కంటే ఇది రెట్టింపు కంటే ఎక్కువ. కేసుల్లో దాదాపు 59 శాతం పిల్లలు, టీనేజర్లే. కిండర్‌గార్టెన్ పిల్లల టీకా రేటు 95.2 శాతం నుంచి 92.4 శాతానికి తగ్గింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "4,993 కేసులు వ్యాప్తి (ఔట్‌బ్రేక్)లకు సంబంధించినవి",
+    "సీడీసీ లెక్కల ప్రకారం ఈ ఏడాది 4 మరణాలు",
+    "పెన్సిల్వేనియా 6 మరణాలు నమోదైనట్లు చెబుతోంది"
+   ],
+   "why": "అమెరికాలో ఉంటున్న తెలుగు కుటుంబాలు పిల్లలకు టీకాలు సకాలంలో వేయించడం ఎంత ముఖ్యమో ఇది గుర్తుచేస్తుంది.",
+   "en": {
+    "h": "US measles cases cross 5,000 – highest in 35 years",
+    "p": "The CDC said 5,182 measles cases have been confirmed in the US so far in 2026, the highest since 1991. This is more than double the 2,289 cases recorded last year. About 59 per cent of cases are children and teenagers. Vaccination coverage among kindergarten children has fallen from 95.2 per cent to 92.4 per cent.",
+    "pts": [
+     "4,993 cases are linked to outbreaks",
+     "4 deaths this year as per CDC count",
+     "Pennsylvania says it has recorded 6 deaths"
+    ],
+    "why": "It reminds Telugu families in the US how important it is to vaccinate children on time.",
+    "cat": "World · USA",
+    "statl": "Measles cases in the US this year"
+   },
+   "hi": {
+    "h": "अमेरिका में खसरे के मामले 5,000 के पार – 35 साल में सबसे ज़्यादा",
+    "p": "सीडीसी ने बताया कि 2026 में अब तक अमेरिका में खसरे के 5,182 मामलों की पुष्टि हुई है, जो 1991 के बाद सबसे ज़्यादा है। यह पिछले साल के 2,289 मामलों से दोगुने से भी अधिक है। करीब 59 प्रतिशत मामले बच्चों और किशोरों के हैं। किंडरगार्टन बच्चों में टीकाकरण दर 95.2 प्रतिशत से घटकर 92.4 प्रतिशत रह गई है।",
+    "pts": [
+     "4,993 मामले प्रकोप (आउटब्रेक) से जुड़े",
+     "सीडीसी के अनुसार इस साल 4 मौतें",
+     "पेंसिल्वेनिया का कहना है कि 6 मौतें दर्ज हुईं"
+    ],
+    "why": "यह अमेरिका में रह रहे तेलुगु परिवारों को याद दिलाता है कि बच्चों को समय पर टीका लगवाना कितना ज़रूरी है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "इस साल अमेरिका में खसरे के मामले"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ప్రపంచం · పరాగ్వే",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "44/45",
+   "statl": "అధ్యక్షుడి తొలగింపునకు సెనేట్ ఓట్లు",
+   "h": "పరాగ్వే అధ్యక్షుడు పెనా తొలగింపు; కొత్త అధ్యక్షుడిగా పెడ్రో అలియానా ప్రమాణం",
+   "p": "పరాగ్వే సెనేట్ అధ్యక్షుడు సాంటియాగో పెనాను పదవి నుంచి తొలగించింది. 45 మంది సెనేటర్లలో 44 మంది అనుకూలంగా ఓటేశారు, ఒకరు గైర్హాజరయ్యారు. అంతకుముందు దిగువ సభ 78-0 ఓట్లతో అభిశంసన తీర్మానం ఆమోదించింది. 52 ఏళ్ల పెడ్రో అలియానా దేశ 53వ అధ్యక్షుడిగా శుక్రవారం ప్రమాణం చేశారు. పెనాను ఆయన ఇంట్లోనే అదుపులోకి తీసుకున్నట్లు సమాచారం.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మాజీ సెంట్రల్ బ్యాంక్ అధిపతిపై అరెస్ట్ వారెంట్",
+    "దివాలా స్థితికి చేరిన ఉయెనో బ్యాంక్ స్వాధీనం",
+    "కనీసం 27 మందిపై క్రిమినల్ అభియోగాలు"
+   ],
+   "why": "ఒక దేశాధినేతను పార్లమెంటు తొలగించిన అరుదైన ఘటన ఇది; బ్యాంకు సంక్షోభం లక్షలాది పరాగ్వే ప్రజలను ప్రభావితం చేస్తోంది.",
+   "en": {
+    "h": "Paraguay President Pena removed; Pedro Alliana sworn in as new president",
+    "p": "Paraguay's Senate removed President Santiago Pena from office. 44 of the 45 senators voted in favour, with one abstention. Earlier, the lower house passed the impeachment motion 78-0. Pedro Alliana, 52, was sworn in on Friday as the country's 53rd president. Pena was reportedly detained at his home.",
+    "pts": [
+     "Arrest warrant for former central bank chief",
+     "Insolvent Ueno Bank taken over",
+     "At least 27 people face criminal charges"
+    ],
+    "why": "It is a rare case of a parliament removing a head of state; the bank crisis affects millions of Paraguayans.",
+    "cat": "World · Paraguay",
+    "statl": "Senate votes to remove president"
+   },
+   "hi": {
+    "h": "पराग्वे के राष्ट्रपति पेना हटाए गए; पेड्रो अलियाना ने नए राष्ट्रपति की शपथ ली",
+    "p": "पराग्वे की सीनेट ने राष्ट्रपति सैंटियागो पेना को पद से हटा दिया। 45 में से 44 सीनेटरों ने पक्ष में वोट दिया, एक ने मतदान नहीं किया। इससे पहले निचले सदन ने 78-0 से महाभियोग प्रस्ताव पारित किया था। 52 वर्षीय पेड्रो अलियाना ने शुक्रवार को देश के 53वें राष्ट्रपति के रूप में शपथ ली। खबरों के अनुसार पेना को उनके घर पर ही हिरासत में लिया गया।",
+    "pts": [
+     "पूर्व केंद्रीय बैंक प्रमुख के खिलाफ गिरफ्तारी वारंट",
+     "दिवालिया हुआ उएनो बैंक अपने कब्ज़े में लिया गया",
+     "कम से कम 27 लोगों पर आपराधिक आरोप"
+    ],
+    "why": "संसद द्वारा राष्ट्राध्यक्ष को हटाने का यह दुर्लभ मामला है; बैंक संकट से लाखों पराग्वे नागरिक प्रभावित हैं।",
+    "cat": "दुनिया · पराग्वे",
+    "statl": "राष्ट्रपति को हटाने के लिए सीनेट वोट"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
@@ -1756,202 +1952,6 @@
     "why": "यह घटना विदेश में पढ़ रहे तेलुगु छात्रों की सुरक्षा को लेकर परिवारों की चिंता बढ़ाती है।",
     "cat": "तेलंगाना · नलगोंडा",
     "statl": "बोस्टन में लापता छात्रा की उम्र"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · వర్షపాతం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "34%",
-   "statl": "ఈ రుతుపవనాల్లో హైదరాబాద్ వర్షపాత లోటు",
-   "h": "నైరుతి రుతుపవనాల్లో హైదరాబాద్‌కు 34% వర్షపాత లోటు",
-   "p": "జూన్–సెప్టెంబర్ నైరుతి రుతుపవన కాలంలో హైదరాబాద్‌లో సాధారణంగా 745.1 మి.మీ. వర్షం పడాల్సి ఉండగా 488.3 మి.మీ. మాత్రమే నమోదైంది. ఇది 34 శాతం లోటు. చుట్టుపక్కల జిల్లాల్లోనూ లోటు నమోదైంది. ఎల్ నినో, అధిక ఉష్ణోగ్రతలే కారణమని ఐఎండీ అధికారి తెలిపారు. పలు హెచ్చరికలు వచ్చినా నగరంలో 2–3 భారీ వర్షాలే కురిశాయి.",
-   "pts": [
-    "మేడ్చల్-మల్కాజిగిరిలో 39%, వికారాబాద్‌లో 32% లోటు",
-    "యాదాద్రి భువనగిరి 30%, రంగారెడ్డి 28%, సంగారెడ్డి 25%",
-    "కొన్నేళ్లుగా సాగిన అధిక వర్షాల ధోరణికి బ్రేక్"
-   ],
-   "why": "వర్షాలు తగ్గడంతో నగరంలో నీటి అవసరాలు, భూగర్భ జలాలపై ఒత్తిడి పెరిగే అవకాశం ఉన్నందున ఇది కీలకం.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-records-34-per-cent-rainfall-deficit-as-monsoon-disappoints",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "d": "06.11.2026",
-   "t": "19:05",
-   "en": {
-    "h": "Hyderabad records 34% rainfall deficit in southwest monsoon",
-    "p": "During the June–September southwest monsoon, Hyderabad received only 488.3 mm of rain against a normal of 745.1 mm, a deficit of 34 per cent. Neighbouring districts also recorded deficits. An IMD official attributed it to El Nino and high temperatures. Despite several alerts, the city saw only 2–3 heavy downpours.",
-    "pts": [
-     "Medchal-Malkajgiri 39%, Vikarabad 32% deficit",
-     "Yadadri Bhuvanagiri 30%, Rangareddy 28%, Sangareddy 25%",
-     "Breaks a multi-year wet streak"
-    ],
-    "why": "Less rain matters because it can add pressure on the city's water needs and groundwater.",
-    "cat": "Hyderabad · Rainfall",
-    "statl": "Hyderabad's rainfall deficit this monsoon"
-   },
-   "hi": {
-    "h": "दक्षिण-पश्चिम मानसून में हैदराबाद में 34% बारिश की कमी",
-    "p": "जून–सितंबर के दक्षिण-पश्चिम मानसून में हैदराबाद में सामान्य 745.1 मिमी के मुकाबले केवल 488.3 मिमी बारिश हुई। यह 34 प्रतिशत की कमी है। आसपास के जिलों में भी कमी दर्ज हुई। आईएमडी अधिकारी ने इसकी वजह अल नीनो और ऊंचे तापमान को बताया। कई अलर्ट के बावजूद शहर में केवल 2–3 बार भारी बारिश हुई।",
-    "pts": [
-     "मेडचल-मलकाजगिरी में 39%, विकाराबाद में 32% कमी",
-     "यादाद्री भुवनगिरी 30%, रंगारेड्डी 28%, संगारेड्डी 25%",
-     "कई वर्षों से चल रहे अधिक बारिश के दौर पर विराम"
-    ],
-    "why": "कम बारिश से शहर की पानी की जरूरतों और भूजल पर दबाव बढ़ सकता है, इसलिए यह अहम है।",
-    "cat": "हैदराबाद · वर्षा",
-    "statl": "इस मानसून में हैदराबाद में बारिश की कमी"
-   }
-  },
-  {
-   "cat": "ఝార్ఖండ్ · ఉద్యోగాలు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "22 పరీక్షలు",
-   "statl": "ఆగస్టులో ప్రభుత్వం రద్దు చేసిన నియామక పరీక్షలు",
-   "h": "జేఎస్ఎస్‌సీ-సీజీఎల్ పరీక్ష రద్దు నిర్ణయాన్ని కొట్టేసిన ఝార్ఖండ్ హైకోర్టు",
-   "p": "2024లో జరిగిన జేఎస్ఎస్‌సీ కంబైన్డ్ గ్రాడ్యుయేట్ లెవల్ పరీక్షను రద్దు చేస్తూ ఝార్ఖండ్ ప్రభుత్వం ఇచ్చిన నోటిఫికేషన్‌ను హైకోర్టు శుక్రవారం కొట్టివేసింది. పరీక్షలో ఉత్తీర్ణులైన అభ్యర్థులు ఈ పిటిషన్లు వేశారు. ప్రభుత్వ నిర్ణయం అన్యాయమని జస్టిస్ దీపక్ రోషన్ పేర్కొన్నారు. అక్రమాలు, పేపర్ లీకుల ఆధారాలతోనే రద్దు చేశామని ప్రభుత్వం వాదించింది.",
-   "pts": [
-    "2014 నుంచి జరిగిన 22 పరీక్షలను ఆగస్టులో రద్దు చేసిన ప్రభుత్వం",
-    "మరో 23 పరీక్షలపై విచారణకు ఆదేశం",
-    "అక్రమాలపై సీఐడీ ప్రత్యేక దర్యాప్తు బృందం విచారణ"
-   ],
-   "why": "పరీక్ష రద్దుతో ఉద్యోగాలు కోల్పోయిన వేలాది మంది అభ్యర్థులకు ఈ తీర్పు ఊరటనిస్తుంది.",
-   "src": "PTI",
-   "url": "https://www.siasat.com/hc-quashes-jharkhand-govts-decision-to-cancel-2024-jssc-cgl-exam-3570615/",
-   "sec": [
-    "india",
-    "jobs"
-   ],
-   "st": "JH",
-   "place": "IN",
-   "d": "06.11.2026",
-   "t": "19:05",
-   "en": {
-    "h": "Jharkhand High Court quashes cancellation of JSSC-CGL exam",
-    "p": "The Jharkhand High Court on Friday quashed the state government's notification cancelling the JSSC Combined Graduate Level exam held in 2024. The petitions were filed by candidates who had cleared the exam. Justice Deepak Roshan called the government's decision unfair. The state had argued it cancelled the exam based on evidence of irregularities and paper leaks.",
-    "pts": [
-     "Government had cancelled 22 exams held since 2014 in August",
-     "Probe ordered into 23 other exams",
-     "CID special investigation team probing irregularities"
-    ],
-    "why": "The ruling brings relief to thousands of candidates who lost jobs after the exam was cancelled.",
-    "cat": "Jharkhand · Jobs",
-    "statl": "Recruitment exams cancelled by the government in August"
-   },
-   "hi": {
-    "h": "झारखंड हाईकोर्ट ने JSSC-CGL परीक्षा रद्द करने का फैसला खारिज किया",
-    "p": "झारखंड हाईकोर्ट ने शुक्रवार को 2024 में हुई JSSC संयुक्त स्नातक स्तरीय परीक्षा रद्द करने की राज्य सरकार की अधिसूचना खारिज कर दी। परीक्षा पास करने वाले अभ्यर्थियों ने ये याचिकाएं दायर की थीं। न्यायमूर्ति दीपक रोशन ने सरकार के फैसले को अनुचित बताया। राज्य ने तर्क दिया था कि अनियमितताओं और पेपर लीक के सबूतों के आधार पर परीक्षा रद्द की गई।",
-    "pts": [
-     "सरकार ने अगस्त में 2014 से हुई 22 परीक्षाएं रद्द की थीं",
-     "23 अन्य परीक्षाओं की जांच के आदेश",
-     "अनियमितताओं की जांच CID की SIT कर रही है"
-    ],
-    "why": "परीक्षा रद्द होने से नौकरी गंवाने वाले हजारों अभ्यर्थियों को इस फैसले से राहत मिलेगी।",
-    "cat": "झारखंड · नौकरियां",
-    "statl": "अगस्त में सरकार द्वारा रद्द भर्ती परीक्षाएं"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "7 రాష్ట్రాలు",
-   "statl": "ఓటర్లకు మరో అవకాశం దక్కిన రాష్ట్రాలు",
-   "h": "ఎస్ఐఆర్‌లో పేర్లు తొలగిన ఓటర్లకు మరో అవకాశం: ఎన్నికల సంఘం",
-   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో ముసాయిదా జాబితా నుంచి బయటపడిన ఓటర్లకు మళ్లీ నమోదు అవకాశం ఇస్తామని ఎన్నికల సంఘం శుక్రవారం ప్రకటించింది. గైర్హాజరు, మారిన చిరునామా, మృతి, నకిలీ (ఏఎస్‌డీడీ)గా గుర్తించి, ఎన్యూమరేషన్ ఫారాలు తిరిగి అందని వారికి ఇది వర్తిస్తుంది. తెలంగాణ, ఆంధ్రప్రదేశ్ సహా ఏడు రాష్ట్రాల్లో ఈ అవకాశం ఉంటుంది.",
-   "pts": [
-    "తెలంగాణ, ఏపీ, ఢిల్లీ, మహారాష్ట్రలో వర్తింపు",
-    "హరియాణా, ఝార్ఖండ్, నాగాలాండ్‌లోనూ అవకాశం",
-    "అర్హులు తుది జాబితాలో ఉండేలా పర్యవేక్షణ వ్యవస్థ"
-   ],
-   "why": "ముసాయిదా జాబితాలో పేరు లేని అర్హులైన ఓటర్లు తుది జాబితాలో చేరే అవకాశం దక్కుతుంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/excluded-telangana-voters-get-another-chance-to-enrol-in-sir-3570783/",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "d": "06.11.2026",
-   "t": "18:05",
-   "en": {
-    "h": "Voters left out in SIR get another chance to enrol: Election Commission",
-    "p": "The Election Commission announced on Friday that electors left out of the draft rolls during the Special Intensive Revision (SIR) will get another chance. It applies to voters marked Absent, Shifted, Dead or Duplicate (ASDD) whose enumeration forms were issued but not returned. The chance is available in seven states, including Telangana and Andhra Pradesh.",
-    "pts": [
-     "Applies in Telangana, AP, Delhi and Maharashtra",
-     "Also Haryana, Jharkhand and Nagaland",
-     "Monitoring so eligible voters reach the final roll"
-    ],
-    "why": "Eligible voters missing from the draft roll get a chance to be included in the final roll.",
-    "cat": "Telangana · Voter list",
-    "statl": "States where voters get another chance"
-   },
-   "hi": {
-    "h": "एसआईआर में छूटे मतदाताओं को फिर मौका: चुनाव आयोग",
-    "p": "चुनाव आयोग ने शुक्रवार को घोषणा की कि मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) में मसौदा सूची से छूटे मतदाताओं को फिर से नाम जुड़वाने का मौका मिलेगा। यह उन मतदाताओं पर लागू है जिन्हें अनुपस्थित, स्थानांतरित, मृत या डुप्लिकेट (एएसडीडी) चिह्नित किया गया और जिनके गणना फॉर्म वापस नहीं मिले। तेलंगाना और आंध्र प्रदेश समेत सात राज्यों में यह मौका मिलेगा।",
-    "pts": [
-     "तेलंगाना, आंध्र प्रदेश, दिल्ली, महाराष्ट्र में लागू",
-     "हरियाणा, झारखंड, नगालैंड में भी मौका",
-     "पात्र मतदाता अंतिम सूची में रहें, इसकी निगरानी"
-    ],
-    "why": "मसौदा सूची में नाम न होने वाले पात्र मतदाता अंतिम सूची में शामिल हो सकेंगे।",
-    "cat": "तेलंगाना · मतदाता सूची",
-    "statl": "राज्य जहां मतदाताओं को फिर मौका"
-   }
-  },
-  {
-   "cat": "పంజాబ్ · రైల్వే",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "1,500",
-   "statl": "సురక్షితంగా బయటపడిన ప్రయాణికులు",
-   "h": "పంజాబ్‌లో రైలు బోగీల్లో మంటలు; 1,500 మంది ప్రయాణికులు సురక్షితం",
-   "p": "అమృత్‌సర్ నుంచి న్యూ జల్పాయిగురి వెళ్తున్న రైలు బోగీల్లో పటియాలా జిల్లా రాజ్‌పురా సమీపంలోని సరాయ్ బంజారా స్టేషన్ వద్ద మంటలు చెలరేగాయి. లోకో పైలట్, గార్డు, సిబ్బంది మంటలున్న బోగీలను వేరు చేయడంతో మంటలు వ్యాపించలేదు. ఎలాంటి ప్రాణనష్టం జరగలేదని, ప్రయాణికులను మరో రైలులో గమ్యస్థానాలకు పంపామని అధికారులు తెలిపారు.",
-   "pts": [
-    "రైలులో సుమారు 1,500 మంది ప్రయాణికులు",
-    "మంటలకు కారణం ఇంకా తెలియలేదు",
-    "ఫోరెన్సిక్ దర్యాప్తు జరుపుతామన్న అంబాలా డీఆర్ఎం"
-   ],
-   "why": "రాజ్‌పురా–అంబాలా–ఢిల్లీ మార్గంలో రైళ్ల రాకపోకలు నిలిచిపోవడంతో ఈ మార్గంలో ప్రయాణించేవారిపై ప్రభావం పడింది.",
-   "src": "Babushahi",
-   "url": "https://www.babushahi.com/full-news.php?id=229425",
-   "sec": [
-    "india"
-   ],
-   "st": "PB",
-   "place": "IN",
-   "loc": "రాజ్‌పురా",
-   "d": "06.11.2026",
-   "t": "18:05",
-   "en": {
-    "h": "Fire in train coaches in Punjab; all 1,500 passengers safe",
-    "p": "Fire broke out in coaches of an Amritsar–New Jalpaiguri train near Sarai Banjara station by Rajpura in Patiala district. The loco pilot, guard and staff detached the burning coaches, stopping the fire from spreading. Officials said there was no loss of life and passengers were sent to their destinations on another train.",
-    "pts": [
-     "About 1,500 passengers were on board",
-     "Cause of the fire not yet known",
-     "Ambala DRM says forensic probe will be held"
-    ],
-    "why": "Train traffic on the Rajpura–Ambala–Delhi route was halted, affecting passengers on this route.",
-    "cat": "Punjab · Railways",
-    "statl": "Passengers evacuated safely"
-   },
-   "hi": {
-    "h": "पंजाब में ट्रेन के डिब्बों में आग; सभी 1,500 यात्री सुरक्षित",
-    "p": "अमृतसर से न्यू जलपाईगुड़ी जा रही ट्रेन के डिब्बों में पटियाला जिले के राजपुरा के पास सराय बंजारा स्टेशन पर आग लग गई। लोको पायलट, गार्ड और कर्मचारियों ने जलते डिब्बों को अलग कर दिया, जिससे आग नहीं फैली। अधिकारियों ने बताया कि कोई जनहानि नहीं हुई और यात्रियों को दूसरी ट्रेन से गंतव्य भेजा गया।",
-    "pts": [
-     "ट्रेन में करीब 1,500 यात्री सवार थे",
-     "आग का कारण अभी पता नहीं",
-     "अंबाला डीआरएम ने फोरेंसिक जांच की बात कही"
-    ],
-    "why": "राजपुरा–अंबाला–दिल्ली मार्ग पर रेल यातायात रुकने से इस रूट के यात्री प्रभावित हुए।",
-    "cat": "पंजाब · रेलवे",
-    "statl": "सुरक्षित निकाले गए यात्री"
    }
   }
  ]

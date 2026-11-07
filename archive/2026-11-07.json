@@ -1,8 +1,204 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 20,
+ "count": 24,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఐటీ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "100",
+   "statl": "ఏడాదిలో కొత్త జీసీసీల లక్ష్యం",
+   "h": "ఏడాదిలో హైదరాబాద్‌కు 100 కొత్త జీసీసీలు: మంత్రి శ్రీధర్ బాబు",
+   "p": "ఒక్క ఏడాదిలోనే 100 కొత్త గ్లోబల్ కేపబిలిటీ సెంటర్లు (జీసీసీలు) హైదరాబాద్‌కు తీసుకురావాలని రాష్ట్రం లక్ష్యం పెట్టుకుందని పరిశ్రమల మంత్రి డి. శ్రీధర్ బాబు చెప్పారు. జీసీసీలను కేవలం సేవా కేంద్రాలుగా కాకుండా టెక్నాలజీ, పరిశోధన, ఆవిష్కరణల గ్లోబల్ హబ్‌లుగా మార్చాలన్నదే ఉద్దేశమన్నారు. హైటెక్ సిటీలో న్యూయార్క్‌కు చెందిన పికో టెక్నాలజీ భారత కార్యాలయ ప్రారంభోత్సవంలో ఆయన మాట్లాడారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-aims-to-attract-100-new-gccs-to-hyderabad-in-a-year-sridhar-babu",
+   "sec": [
+    "telangana",
+    "jobs",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హైటెక్ సిటీ",
+   "pts": [
+    "ప్రొడక్ట్ డెవలప్‌మెంట్, ఇంజినీరింగ్, డేటా అనలిటిక్స్‌పై దృష్టి",
+    "సైబర్ సెక్యూరిటీ, ఏఐ రంగాల జీసీసీలకు ప్రాధాన్యం",
+    "పికో టెక్నాలజీ భారత ఆఫీస్ హైటెక్ సిటీలో ప్రారంభం"
+   ],
+   "why": "కొత్త జీసీసీలు వస్తే హైదరాబాద్‌లో ఐటీ, ఏఐ రంగాల్లో ఉద్యోగాలు కోరుకునే యువతకు అవకాశాలు పెరుగుతాయి.",
+   "en": {
+    "h": "100 new GCCs for Hyderabad in a year: Minister Sridhar Babu",
+    "p": "Industries Minister D. Sridhar Babu said the state has set a target of bringing 100 new Global Capability Centres (GCCs) to Hyderabad within a year. He said the aim is to turn GCCs from service centres into global hubs for technology, research and innovation. He spoke at the opening of the India office of New York-based Pico Technology in Hitec City.",
+    "pts": [
+     "Focus on product development, engineering, data analytics",
+     "Priority to cybersecurity and AI GCCs",
+     "Pico Technology's India office opens in Hitec City"
+    ],
+    "why": "New GCCs would widen job opportunities in IT and AI for young people in Hyderabad.",
+    "cat": "Hyderabad · IT",
+    "statl": "Target of new GCCs in a year"
+   },
+   "hi": {
+    "h": "एक साल में हैदराबाद में 100 नए जीसीसी: मंत्री श्रीधर बाबू",
+    "p": "उद्योग मंत्री डी. श्रीधर बाबू ने कहा कि राज्य ने एक साल के भीतर हैदराबाद में 100 नए ग्लोबल कैपेबिलिटी सेंटर (जीसीसी) लाने का लक्ष्य रखा है। उन्होंने कहा कि मकसद जीसीसी को सिर्फ सेवा केंद्र नहीं, बल्कि तकनीक, शोध और नवाचार के वैश्विक हब बनाना है। वे हाईटेक सिटी में न्यूयॉर्क की पिको टेक्नोलॉजी के भारत कार्यालय के उद्घाटन पर बोल रहे थे।",
+    "pts": [
+     "प्रोडक्ट डेवलपमेंट, इंजीनियरिंग, डेटा एनालिटिक्स पर ध्यान",
+     "साइबर सुरक्षा और एआई वाले जीसीसी को प्राथमिकता",
+     "पिको टेक्नोलॉजी का भारत कार्यालय हाईटेक सिटी में शुरू"
+    ],
+    "why": "नए जीसीसी आने से हैदराबाद में आईटी और एआई क्षेत्र में नौकरी चाहने वाले युवाओं के मौके बढ़ेंगे।",
+    "cat": "हैदराबाद · आईटी",
+    "statl": "एक साल में नए जीसीसी का लक्ष्य"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "కర్ణాటక · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "55%",
+   "statl": "నేడు బెంగళూరులో వర్ష సూచన",
+   "h": "బెంగళూరులో నేడు వర్షం అవకాశం; కర్ణాటకకు వారం పాటు హెచ్చరికలు లేవు",
+   "p": "వచ్చే ఏడు రోజులు కర్ణాటకలో ఎండ, మబ్బుల కలయిక ఉంటుందని, కొన్ని చోట్ల తేలికపాటి నుంచి మోస్తరు వర్షాలు పడవచ్చని ఐఎండీ తెలిపింది. నవంబర్ 7 నుంచి 13 వరకు రాష్ట్రానికి ఎలాంటి హెచ్చరికలు లేవు. బెంగళూరులో శనివారం వర్షం పడే అవకాశం సుమారు 55 శాతం, గరిష్ఠ ఉష్ణోగ్రత దాదాపు 28 డిగ్రీలు ఉండొచ్చు.",
+   "src": "Goodreturns",
+   "url": "https://www.goodreturns.in/news/karnataka-weather-imd-forecasts-thunderstorms-foggy-mornings-till-nov-13-check-bengaluru-weather-1545855.html",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "రాష్ట్రమంతటా ఉష్ణోగ్రతలు సాధారణం కంటే ఎక్కువ",
+    "ఉదయం పొగమంచుతో దృశ్యమానత తగ్గే అవకాశం",
+    "ఆదివారం నుంచి బెంగళూరులో వర్ష అవకాశం తగ్గుతుంది"
+   ],
+   "why": "బెంగళూరు, కర్ణాటకలో ఉంటున్న తెలుగువారు ప్రయాణాలు, ఉదయం డ్రైవింగ్ ప్లాన్ చేసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
+   "en": {
+    "h": "Chance of rain in Bengaluru today; no warnings for Karnataka this week",
+    "p": "The IMD said Karnataka will see a mix of sun and clouds over the next seven days, with light to moderate rain in some places. There are no warnings for the state from November 7 to 13. Bengaluru has about a 55 per cent chance of rain on Saturday, with a maximum temperature of around 28 degrees.",
+    "pts": [
+     "Temperatures above normal across the state",
+     "Morning fog may reduce visibility",
+     "Rain chances in Bengaluru drop from Sunday"
+    ],
+    "why": "It helps Telugu people living in Bengaluru and Karnataka plan travel and morning drives.",
+    "cat": "Karnataka · Weather",
+    "statl": "Rain chance in Bengaluru today"
+   },
+   "hi": {
+    "h": "बेंगलुरु में आज बारिश के आसार; कर्नाटक के लिए इस हफ्ते कोई चेतावनी नहीं",
+    "p": "आईएमडी ने कहा कि अगले सात दिन कर्नाटक में धूप और बादल का मिला-जुला मौसम रहेगा और कुछ जगहों पर हल्की से मध्यम बारिश हो सकती है। 7 से 13 नवंबर तक राज्य के लिए कोई चेतावनी नहीं है। बेंगलुरु में शनिवार को बारिश की संभावना करीब 55 प्रतिशत है और अधिकतम तापमान लगभग 28 डिग्री रह सकता है।",
+    "pts": [
+     "पूरे राज्य में तापमान सामान्य से ज़्यादा",
+     "सुबह कोहरे से दृश्यता कम हो सकती है",
+     "रविवार से बेंगलुरु में बारिश की संभावना घटेगी"
+    ],
+    "why": "इससे बेंगलुरु और कर्नाटक में रहने वाले तेलुगु लोगों को यात्रा और सुबह की ड्राइव की योजना बनाने में मदद मिलेगी।",
+    "cat": "कर्नाटक · मौसम",
+    "statl": "आज बेंगलुरु में बारिश की संभावना"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "5,182",
+   "statl": "ఈ ఏడాది అమెరికాలో మీజిల్స్ కేసులు",
+   "h": "అమెరికాలో మీజిల్స్ కేసులు 5,000 దాటాయి – 35 ఏళ్లలో అత్యధికం",
+   "p": "2026లో ఇప్పటివరకు అమెరికాలో 5,182 మీజిల్స్ (తట్టు) కేసులు నిర్ధారణ అయ్యాయని సీడీసీ తెలిపింది. 1991 తర్వాత ఇదే అత్యధికం. గత ఏడాది నమోదైన 2,289 కేసుల కంటే ఇది రెట్టింపు కంటే ఎక్కువ. కేసుల్లో దాదాపు 59 శాతం పిల్లలు, టీనేజర్లే. కిండర్‌గార్టెన్ పిల్లల టీకా రేటు 95.2 శాతం నుంచి 92.4 శాతానికి తగ్గింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "4,993 కేసులు వ్యాప్తి (ఔట్‌బ్రేక్)లకు సంబంధించినవి",
+    "సీడీసీ లెక్కల ప్రకారం ఈ ఏడాది 4 మరణాలు",
+    "పెన్సిల్వేనియా 6 మరణాలు నమోదైనట్లు చెబుతోంది"
+   ],
+   "why": "అమెరికాలో ఉంటున్న తెలుగు కుటుంబాలు పిల్లలకు టీకాలు సకాలంలో వేయించడం ఎంత ముఖ్యమో ఇది గుర్తుచేస్తుంది.",
+   "en": {
+    "h": "US measles cases cross 5,000 – highest in 35 years",
+    "p": "The CDC said 5,182 measles cases have been confirmed in the US so far in 2026, the highest since 1991. This is more than double the 2,289 cases recorded last year. About 59 per cent of cases are children and teenagers. Vaccination coverage among kindergarten children has fallen from 95.2 per cent to 92.4 per cent.",
+    "pts": [
+     "4,993 cases are linked to outbreaks",
+     "4 deaths this year as per CDC count",
+     "Pennsylvania says it has recorded 6 deaths"
+    ],
+    "why": "It reminds Telugu families in the US how important it is to vaccinate children on time.",
+    "cat": "World · USA",
+    "statl": "Measles cases in the US this year"
+   },
+   "hi": {
+    "h": "अमेरिका में खसरे के मामले 5,000 के पार – 35 साल में सबसे ज़्यादा",
+    "p": "सीडीसी ने बताया कि 2026 में अब तक अमेरिका में खसरे के 5,182 मामलों की पुष्टि हुई है, जो 1991 के बाद सबसे ज़्यादा है। यह पिछले साल के 2,289 मामलों से दोगुने से भी अधिक है। करीब 59 प्रतिशत मामले बच्चों और किशोरों के हैं। किंडरगार्टन बच्चों में टीकाकरण दर 95.2 प्रतिशत से घटकर 92.4 प्रतिशत रह गई है।",
+    "pts": [
+     "4,993 मामले प्रकोप (आउटब्रेक) से जुड़े",
+     "सीडीसी के अनुसार इस साल 4 मौतें",
+     "पेंसिल्वेनिया का कहना है कि 6 मौतें दर्ज हुईं"
+    ],
+    "why": "यह अमेरिका में रह रहे तेलुगु परिवारों को याद दिलाता है कि बच्चों को समय पर टीका लगवाना कितना ज़रूरी है।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "इस साल अमेरिका में खसरे के मामले"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ప్రపంచం · పరాగ్వే",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "44/45",
+   "statl": "అధ్యక్షుడి తొలగింపునకు సెనేట్ ఓట్లు",
+   "h": "పరాగ్వే అధ్యక్షుడు పెనా తొలగింపు; కొత్త అధ్యక్షుడిగా పెడ్రో అలియానా ప్రమాణం",
+   "p": "పరాగ్వే సెనేట్ అధ్యక్షుడు సాంటియాగో పెనాను పదవి నుంచి తొలగించింది. 45 మంది సెనేటర్లలో 44 మంది అనుకూలంగా ఓటేశారు, ఒకరు గైర్హాజరయ్యారు. అంతకుముందు దిగువ సభ 78-0 ఓట్లతో అభిశంసన తీర్మానం ఆమోదించింది. 52 ఏళ్ల పెడ్రో అలియానా దేశ 53వ అధ్యక్షుడిగా శుక్రవారం ప్రమాణం చేశారు. పెనాను ఆయన ఇంట్లోనే అదుపులోకి తీసుకున్నట్లు సమాచారం.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మాజీ సెంట్రల్ బ్యాంక్ అధిపతిపై అరెస్ట్ వారెంట్",
+    "దివాలా స్థితికి చేరిన ఉయెనో బ్యాంక్ స్వాధీనం",
+    "కనీసం 27 మందిపై క్రిమినల్ అభియోగాలు"
+   ],
+   "why": "ఒక దేశాధినేతను పార్లమెంటు తొలగించిన అరుదైన ఘటన ఇది; బ్యాంకు సంక్షోభం లక్షలాది పరాగ్వే ప్రజలను ప్రభావితం చేస్తోంది.",
+   "en": {
+    "h": "Paraguay President Pena removed; Pedro Alliana sworn in as new president",
+    "p": "Paraguay's Senate removed President Santiago Pena from office. 44 of the 45 senators voted in favour, with one abstention. Earlier, the lower house passed the impeachment motion 78-0. Pedro Alliana, 52, was sworn in on Friday as the country's 53rd president. Pena was reportedly detained at his home.",
+    "pts": [
+     "Arrest warrant for former central bank chief",
+     "Insolvent Ueno Bank taken over",
+     "At least 27 people face criminal charges"
+    ],
+    "why": "It is a rare case of a parliament removing a head of state; the bank crisis affects millions of Paraguayans.",
+    "cat": "World · Paraguay",
+    "statl": "Senate votes to remove president"
+   },
+   "hi": {
+    "h": "पराग्वे के राष्ट्रपति पेना हटाए गए; पेड्रो अलियाना ने नए राष्ट्रपति की शपथ ली",
+    "p": "पराग्वे की सीनेट ने राष्ट्रपति सैंटियागो पेना को पद से हटा दिया। 45 में से 44 सीनेटरों ने पक्ष में वोट दिया, एक ने मतदान नहीं किया। इससे पहले निचले सदन ने 78-0 से महाभियोग प्रस्ताव पारित किया था। 52 वर्षीय पेड्रो अलियाना ने शुक्रवार को देश के 53वें राष्ट्रपति के रूप में शपथ ली। खबरों के अनुसार पेना को उनके घर पर ही हिरासत में लिया गया।",
+    "pts": [
+     "पूर्व केंद्रीय बैंक प्रमुख के खिलाफ गिरफ्तारी वारंट",
+     "दिवालिया हुआ उएनो बैंक अपने कब्ज़े में लिया गया",
+     "कम से कम 27 लोगों पर आपराधिक आरोप"
+    ],
+    "why": "संसद द्वारा राष्ट्राध्यक्ष को हटाने का यह दुर्लभ मामला है; बैंक संकट से लाखों पराग्वे नागरिक प्रभावित हैं।",
+    "cat": "दुनिया · पराग्वे",
+    "statl": "राष्ट्रपति को हटाने के लिए सीनेट वोट"
+   },
+   "d": "07.11.2026",
+   "t": "10:05"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
