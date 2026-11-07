@@ -1,8 +1,154 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T14:41:46+05:30",
+ "updated": "2026-11-07T15:12:09+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఉత్తరప్రదేశ్ · ఘాజియాబాద్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "1 గాయం",
+   "statl": "పోలీస్ ఔట్‌పోస్ట్ వద్ద పేలుడు",
+   "h": "ఘాజియాబాద్ పోలీస్ ఔట్‌పోస్ట్‌లో పేలుడు; ఏటీఎస్, బాంబ్ స్క్వాడ్ దర్యాప్తు",
+   "p": "ఉత్తరప్రదేశ్‌లోని ఘాజియాబాద్‌లో ఇందిరాపురం పోలీస్ స్టేషన్ పరిధిలోని వసుంధర పోలీస్ ఔట్‌పోస్ట్ వద్ద శుక్రవారం అర్ధరాత్రి పేలుడు జరిగింది. అక్కడ ఉన్న ఒక ఫుడ్ డెలివరీ వ్యక్తికి స్వల్ప గాయాలయ్యాయి, కిటికీ అద్దాలు పగిలాయి. ఏటీఎస్, బాంబ్ డిస్పోజల్ బృందాలు ఘటనాస్థలానికి చేరుకున్నాయి. ఉగ్ర కోణం సహా అన్ని కోణాల్లో దర్యాప్తు చేస్తున్నట్లు పోలీసులు తెలిపారు.",
+   "src": "PTI, Siasat Daily",
+   "url": "https://www.siasat.com/explosion-at-ghaziabad-police-outpost-bomb-disposal-team-at-site-3571189/",
+   "sec": [
+    "india"
+   ],
+   "st": "UP",
+   "place": "up-ghaziabad",
+   "loc": "వసుంధర",
+   "pts": [
+    "పేలుడు తీవ్రత, ఉద్దేశం ఇంకా స్పష్టం కాలేదు",
+    "బాధ్యత ప్రకటించిన సోషల్ మీడియా పోస్టును పోలీసులు ధృవీకరిస్తున్నారు",
+    "నమూనాలు ఆగ్రా ల్యాబ్‌కు; సీసీటీవీ దృశ్యాల పరిశీలన"
+   ],
+   "why": "ఢిల్లీ–ఎన్‌సీఆర్ ప్రాంతంలో నివసించే వారి భద్రతకు సంబంధించిన ఘటన కావడంతో దర్యాప్తు ఫలితం కీలకం.",
+   "en": {
+    "h": "Blast at Ghaziabad police outpost; ATS, bomb squad investigate",
+    "p": "An explosion took place late on Friday night at the Vasundhara police outpost under Indirapuram police station in Ghaziabad, Uttar Pradesh. A food delivery person present there suffered minor injuries and window panes were shattered. ATS and bomb disposal teams reached the spot. Police said all angles, including a terror angle, are being investigated.",
+    "pts": [
+     "Intensity and motive of the blast are still unclear",
+     "Police verifying a social media post claiming responsibility",
+     "Samples sent to Agra lab; CCTV footage being checked"
+    ],
+    "why": "The probe outcome matters as the incident concerns the safety of people living in the Delhi-NCR region.",
+    "cat": "Uttar Pradesh · Ghaziabad",
+    "statl": "Blast at police outpost"
+   },
+   "hi": {
+    "h": "गाज़ियाबाद पुलिस चौकी में धमाका; एटीएस, बम निरोधक दस्ता जांच में जुटा",
+    "p": "उत्तर प्रदेश के गाज़ियाबाद में इंदिरापुरम थाना क्षेत्र की वसुंधरा पुलिस चौकी पर शुक्रवार देर रात धमाका हुआ। वहां मौजूद एक फूड डिलीवरी कर्मी को मामूली चोटें आईं और खिड़कियों के शीशे टूट गए। एटीएस और बम निरोधक दस्ते मौके पर पहुंचे। पुलिस ने कहा कि आतंकी पहलू समेत सभी पहलुओं से जांच की जा रही है।",
+    "pts": [
+     "धमाके की तीव्रता और मकसद अभी साफ नहीं",
+     "ज़िम्मेदारी लेने वाली सोशल मीडिया पोस्ट की पुलिस जांच कर रही है",
+     "नमूने आगरा लैब भेजे गए; सीसीटीवी फुटेज की जांच"
+    ],
+    "why": "यह घटना दिल्ली-एनसीआर में रहने वालों की सुरक्षा से जुड़ी है, इसलिए जांच का नतीजा अहम है।",
+    "cat": "उत्तर प्रदेश · गाज़ियाबाद",
+    "statl": "पुलिस चौकी पर धमाका"
+   },
+   "d": "07.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "$2 కోట్లు",
+   "statl": "ఇరాన్ అణు సమాచారానికి అమెరికా బహుమతి",
+   "h": "ఇరాన్ అణు కార్యక్రమం సమాచారానికి అమెరికా 2 కోట్ల డాలర్ల బహుమతి",
+   "p": "ఇరాన్ అణు కార్యక్రమానికి సంబంధించిన కేంద్రాలు, పరికరాలు, సిబ్బంది లేదా వాటి తరలింపుపై సమాచారం ఇస్తే 2 కోట్ల డాలర్ల వరకు బహుమతి ఇస్తామని అమెరికా ప్రకటించింది. విదేశాంగ శాఖ 'రివార్డ్స్ ఫర్ జస్టిస్' పథకం కింద ఈ ఆఫర్ ఇచ్చింది. అమెరికా సెంట్రల్ కమాండ్ శనివారం ఎక్స్‌లో ఈ విషయాన్ని పోస్ట్ చేసింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/us-offers-usd-20-million-reward-for-irans-nuclear-programme-3571135/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "సమాచారం ఇచ్చేవారికి వేరే చోటుకు తరలించే అవకాశం కూడా",
+    "ఇరాన్ ఒప్పందం కోరుకుంటోందని ట్రంప్ వ్యాఖ్య",
+    "చర్చల ద్వారా పరిష్కారానికి కట్టుబడి ఉన్నామన్న ఇరాన్ అధ్యక్షుడు"
+   ],
+   "why": "అమెరికా–ఇరాన్ ఉద్రిక్తతలు గల్ఫ్‌లో పనిచేసే తెలుగువారిని, చమురు ధరలను ప్రభావితం చేస్తాయి.",
+   "en": {
+    "h": "US offers $20 million reward for information on Iran's nuclear programme",
+    "p": "The US announced a reward of up to $20 million for information on facilities, equipment, personnel or their movement linked to Iran's nuclear programme. The offer was made under the State Department's 'Rewards for Justice' programme. US Central Command posted about it on X on Saturday.",
+    "pts": [
+     "Possible relocation also offered to informants",
+     "Trump says Iran wants a deal",
+     "Iran's President says committed to resolving crisis through dialogue"
+    ],
+    "why": "US-Iran tensions affect Telugu people working in the Gulf and oil prices.",
+    "cat": "World · USA",
+    "statl": "US reward for Iran nuclear information"
+   },
+   "hi": {
+    "h": "ईरान के परमाणु कार्यक्रम की जानकारी पर अमेरिका का 2 करोड़ डॉलर का इनाम",
+    "p": "अमेरिका ने ईरान के परमाणु कार्यक्रम से जुड़े ठिकानों, उपकरणों, कर्मियों या उनकी आवाजाही की जानकारी देने पर 2 करोड़ डॉलर तक के इनाम की घोषणा की है। यह पेशकश विदेश विभाग के 'रिवॉर्ड्स फॉर जस्टिस' कार्यक्रम के तहत की गई है। अमेरिकी सेंट्रल कमांड ने शनिवार को एक्स पर इसकी जानकारी दी।",
+    "pts": [
+     "जानकारी देने वालों को दूसरी जगह बसाने की पेशकश भी",
+     "ट्रंप बोले, ईरान समझौता चाहता है",
+     "ईरान के राष्ट्रपति ने बातचीत से हल की प्रतिबद्धता जताई"
+    ],
+    "why": "अमेरिका-ईरान तनाव खाड़ी में काम करने वाले तेलुगु लोगों और तेल कीमतों पर असर डालता है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "ईरान परमाणु जानकारी पर अमेरिकी इनाम"
+   },
+   "d": "07.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "భారత్ · ఐరాస",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "2027–29",
+   "statl": "ఐరాస బడ్జెట్ కమిటీలో భారత దౌత్యవేత్త",
+   "h": "ఐరాస బడ్జెట్ సలహా కమిటీకి భారత దౌత్యవేత్త శివానీ గుప్తా ఎన్నిక",
+   "p": "ఐక్యరాజ్యసమితి పరిపాలన, బడ్జెట్ వ్యవహారాల సలహా కమిటీ (ఏసీఏబీక్యూ)కి 2027–2029 కాలానికి భారత దౌత్యవేత్త శివానీ గుప్తా ఎన్నికయ్యారు. ఈ విషయాన్ని ఐరాసలో భారత శాశ్వత మిషన్ ప్రకటించి, మద్దతు ఇచ్చిన సభ్య దేశాలకు కృతజ్ఞతలు తెలిపింది. ఆమె మూడేళ్ల పదవీకాలం 2027 జనవరిలో ప్రారంభమవుతుంది.",
+   "src": "PTI, Siasat Daily",
+   "url": "https://www.siasat.com/indian-diplomat-elected-to-un-budgetary-committee-for-2027-29-3571182/",
+   "sec": [
+    "india",
+    "world"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఏసీఏబీక్యూ ఐరాస సాధారణ సభ అనుబంధ సంస్థ",
+    "కమిటీలో మొత్తం 21 మంది సభ్యులు",
+    "సభ్యుల పదవీకాలం మూడేళ్లు"
+   ],
+   "why": "ఐరాస బడ్జెట్ నిర్ణయాల్లో భారత్‌కు స్వరం పెరగడానికి ఈ ఎన్నిక తోడ్పడుతుంది.",
+   "en": {
+    "h": "Indian diplomat Shivani Gupta elected to UN budget advisory committee",
+    "p": "Indian diplomat Shivani Gupta has been elected to the UN Advisory Committee on Administrative and Budgetary Questions (ACABQ) for 2027–2029. India's Permanent Mission to the UN announced this and thanked member states for their support. Her three-year term begins in January 2027.",
+    "pts": [
+     "ACABQ is a subsidiary organ of the UN General Assembly",
+     "The committee has 21 members in all",
+     "Members serve three-year terms"
+    ],
+    "why": "The election helps give India a stronger voice in UN budget decisions.",
+    "cat": "India · UN",
+    "statl": "Indian diplomat on UN budget committee"
+   },
+   "hi": {
+    "h": "भारतीय राजनयिक शिवानी गुप्ता संयुक्त राष्ट्र बजट सलाहकार समिति में चुनी गईं",
+    "p": "भारतीय राजनयिक शिवानी गुप्ता को 2027–2029 के लिए संयुक्त राष्ट्र की प्रशासनिक और बजटीय प्रश्नों पर सलाहकार समिति (एसीएबीक्यू) में चुना गया है। संयुक्त राष्ट्र में भारत के स्थायी मिशन ने यह घोषणा की और समर्थन के लिए सदस्य देशों का धन्यवाद किया। उनका तीन साल का कार्यकाल जनवरी 2027 में शुरू होगा।",
+    "pts": [
+     "एसीएबीक्यू संयुक्त राष्ट्र महासभा का सहायक अंग है",
+     "समिति में कुल 21 सदस्य हैं",
+     "सदस्यों का कार्यकाल तीन साल का होता है"
+    ],
+    "why": "इस चुनाव से संयुक्त राष्ट्र के बजट फैसलों में भारत की आवाज़ मज़बूत होगी।",
+    "cat": "भारत · संयुक्त राष्ट्र",
+    "statl": "यूएन बजट समिति में भारतीय राजनयिक"
+   },
+   "d": "07.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "యాదగిరిగుట్ట · ఆలయం",
    "col": "--c-gov",
@@ -1763,194 +1909,6 @@
    },
    "d": "07.11.2026",
    "t": "09:35"
-  },
-  {
-   "cat": "ఢిల్లీ · కాలుష్యం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "22",
-   "statl": "తీవ్ర కాలుష్య స్థాయిలో కేంద్రాలు",
-   "h": "ఢిల్లీలో విషపు గాలి: 22 కేంద్రాల్లో ఏక్యూఐ 400 దాటింది",
-   "p": "శనివారం ఉదయం ఢిల్లీలో గాలి నాణ్యత మరింత పడిపోయింది. ఉదయం 7:30కి నగర సగటు ఏక్యూఐ 365గా నమోదైంది. సీపీసీబీ లెక్కల ప్రకారం 59 కేంద్రాల్లో 22 చోట్ల ‘తీవ్ర’ స్థాయి కాలుష్యం ఉంది. ఐఐటీ ఢిల్లీ వద్ద అత్యధికంగా 440 నమోదైంది. శుక్రవారం నుంచి ఢిల్లీ-ఎన్‌సీఆర్‌లో గ్రాప్-3 ఆంక్షలు అమల్లోకి వచ్చాయి.",
-   "src": "India.com",
-   "url": "https://www.india.com/news/india/delhi-wakes-up-to-toxic-air-aqi-crosses-400-in-22-monitoring-stations-as-grap-3-restrictions-take-effect-check-worst-hit-locations-8542846/",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "DL",
-   "place": "st-DL",
-   "pts": [
-    "నగర సగటు ఏక్యూఐ 365 – ‘చాలా పేలవం’",
-    "దుమ్ము రేపే నిర్మాణ, కూల్చివేత పనులపై కఠిన ఆంక్షలు",
-    "నవంబర్ 7–9 మధ్య తీవ్ర స్థాయి కొనసాగవచ్చని ఐఐటీఎం హెచ్చరిక"
-   ],
-   "why": "ఢిల్లీ-ఎన్‌సీఆర్‌లో ఉండే తెలుగువారు సహా లక్షలాది మంది ఆరోగ్యంపై ఈ కాలుష్యం ప్రభావం చూపుతుంది.",
-   "en": {
-    "h": "Toxic air in Delhi: AQI crosses 400 at 22 stations",
-    "p": "Delhi's air quality worsened further on Saturday morning. The city's average AQI was 365 at 7:30 am. As per CPCB data, 22 of 59 monitoring stations were in the 'severe' category. IIT Delhi recorded the highest reading of 440. GRAP Stage 3 restrictions came into force across Delhi-NCR from Friday.",
-    "pts": [
-     "City average AQI 365 – 'very poor'",
-     "Strict curbs on dust-raising construction and demolition",
-     "IITM warns severe air may continue from Nov 7 to 9"
-    ],
-    "why": "This pollution affects the health of lakhs of people in Delhi-NCR, including Telugu residents.",
-    "cat": "Delhi · Pollution",
-    "statl": "Stations in severe category"
-   },
-   "hi": {
-    "h": "दिल्ली में ज़हरीली हवा: 22 केंद्रों पर एक्यूआई 400 के पार",
-    "p": "शनिवार सुबह दिल्ली की हवा की गुणवत्ता और बिगड़ गई। सुबह 7:30 बजे शहर का औसत एक्यूआई 365 दर्ज हुआ। सीपीसीबी के अनुसार 59 में से 22 केंद्रों पर ‘गंभीर’ स्तर का प्रदूषण था। आईआईटी दिल्ली में सबसे अधिक 440 दर्ज हुआ। शुक्रवार से दिल्ली-एनसीआर में ग्रैप-3 की पाबंदियां लागू हो गई हैं।",
-    "pts": [
-     "शहर का औसत एक्यूआई 365 – ‘बहुत खराब’",
-     "धूल उड़ाने वाले निर्माण और तोड़फोड़ कार्यों पर सख्त रोक",
-     "आईआईटीएम की चेतावनी: 7 से 9 नवंबर तक गंभीर स्तर रह सकता है"
-    ],
-    "why": "यह प्रदूषण दिल्ली-एनसीआर में रहने वाले तेलुगु लोगों समेत लाखों लोगों की सेहत पर असर डालता है।",
-    "cat": "दिल्ली · प्रदूषण",
-    "statl": "गंभीर श्रेणी वाले केंद्र"
-   },
-   "d": "07.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "ఏపీ · ధరలు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹35",
-   "statl": "రైతు బజార్లలో కిలో ఉల్లి ధర",
-   "h": "ఉల్లి ధరలకు కళ్లెం: రైతు బజార్లలో కిలో ₹35కే అమ్మకం",
-   "p": "ఉల్లి ధరలను అదుపు చేసేందుకు ఆంధ్రప్రదేశ్ ప్రభుత్వం చర్యలు చేపట్టింది. రేపటి నుంచి రాష్ట్రంలోని రైతు బజార్లలో కిలో ఉల్లిని ₹35కే విక్రయించనున్నారు. ఇందుకోసం మహారాష్ట్రలోని నాసిక్ నుంచి 800 మెట్రిక్ టన్నుల ఉల్లిని రాష్ట్రానికి తెప్పిస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-7th-november-2026-kjr-3705.html",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "రేపటి నుంచి రైతు బజార్లలో కిలో ₹35",
-    "నాసిక్ నుంచి 800 మెట్రిక్ టన్నుల ఉల్లి"
-   ],
-   "why": "ఉల్లి ధరల భారంతో ఇబ్బంది పడుతున్న ఏపీ కుటుంబాలకు ఇది కొంత ఊరటనిస్తుంది.",
-   "en": {
-    "h": "AP curbs onion prices: Rythu Bazaars to sell at ₹35 a kg",
-    "p": "The Andhra Pradesh government has taken steps to control onion prices. From tomorrow, onions will be sold at ₹35 per kg at Rythu Bazaars in the state. For this, 800 metric tonnes of onions are being brought to the state from Nashik in Maharashtra.",
-    "pts": [
-     "Onions at ₹35 a kg in Rythu Bazaars from tomorrow",
-     "800 metric tonnes of onions from Nashik"
-    ],
-    "why": "This gives some relief to AP families burdened by high onion prices.",
-    "cat": "AP · Prices",
-    "statl": "Onion price per kg at Rythu Bazaars"
-   },
-   "hi": {
-    "h": "प्याज़ की कीमतों पर लगाम: रायथु बाज़ारों में ₹35 किलो बिक्री",
-    "p": "आंध्र प्रदेश सरकार ने प्याज़ की कीमतें नियंत्रित करने के लिए कदम उठाए हैं। कल से राज्य के रायथु बाज़ारों में प्याज़ ₹35 प्रति किलो बेचा जाएगा। इसके लिए महाराष्ट्र के नासिक से 800 मीट्रिक टन प्याज़ राज्य में मंगाया जा रहा है।",
-    "pts": [
-     "कल से रायथु बाज़ारों में ₹35 किलो प्याज़",
-     "नासिक से 800 मीट्रिक टन प्याज़"
-    ],
-    "why": "इससे प्याज़ की महंगाई से परेशान आंध्र प्रदेश के परिवारों को कुछ राहत मिलेगी।",
-    "cat": "आंध्र प्रदेश · कीमतें",
-    "statl": "रायथु बाज़ार में प्याज़ का प्रति किलो दाम"
-   },
-   "d": "07.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "365",
-   "statl": "రాష్ట్రవ్యాప్తంగా లెక్కింపు కేంద్రాలు",
-   "h": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు ప్రారంభం",
-   "p": "రాష్ట్రంలో ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల ఓట్ల లెక్కింపు శనివారం ఉదయం 8 గంటలకు మొదలైంది. ఏకగ్రీవాలు కాకుండా సుమారు 7,767 ఎంపీటీసీ, 582 జడ్పీటీసీ స్థానాల ఓట్లు లెక్కిస్తారు. 28 జిల్లాల్లో 365 కేంద్రాలు, 9,000కు పైగా టేబుళ్లు ఏర్పాటు చేశారు. మొత్తం పోలింగ్ 70.72 శాతం నమోదైంది. ఎంపీటీసీ ఫలితాలు మధ్యాహ్నం 3 గంటలకు, జడ్పీటీసీ ఫలితాలు రాత్రి 7 గంటలకు రావచ్చని అంచనా.",
-   "src": "Ap7am, The Hans India",
-   "url": "https://www.ap7am.com/en/138895/mptc-zptc-vote-counting-in-andhra-pradesh-to-begin-at-8-am-on-november-7",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "7,767 ఎంపీటీసీ, 582 జడ్పీటీసీ స్థానాల లెక్కింపు",
-    "మొదట పోస్టల్ బ్యాలెట్లు లెక్కిస్తారు",
-    "ఫలితాలు sec.ap.gov.in వెబ్‌సైట్‌లో"
-   ],
-   "why": "గ్రామీణ ప్రాంతాల్లో మండల, జిల్లా పరిషత్ ప్రతినిధులు ఎవరో నేడు తేలనుంది.",
-   "d": "07.11.2026",
-   "t": "08:05",
-   "en": {
-    "h": "Counting of MPTC, ZPTC votes begins across Andhra Pradesh",
-    "p": "Counting of votes for the MPTC and ZPTC elections in the state began at 8 am on Saturday. Votes for about 7,767 MPTC and 582 ZPTC seats, excluding unanimous wins, will be counted. 365 centres with more than 9,000 tables have been set up across 28 districts. Overall polling was 70.72 per cent. MPTC results are expected by 3 pm and ZPTC results by 7 pm.",
-    "pts": [
-     "Counting for 7,767 MPTC, 582 ZPTC seats",
-     "Postal ballots are counted first",
-     "Results on the sec.ap.gov.in website"
-    ],
-    "why": "Rural areas will learn today who their mandal and zilla parishad representatives are.",
-    "cat": "AP · Local Elections",
-    "statl": "Counting centres across the state"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में एमपीटीसी, जेडपीटीसी वोटों की गिनती शुरू",
-    "p": "राज्य में एमपीटीसी और जेडपीटीसी चुनावों की मतगणना शनिवार सुबह 8 बजे शुरू हुई। निर्विरोध जीतों को छोड़कर करीब 7,767 एमपीटीसी और 582 जेडपीटीसी सीटों के वोट गिने जाएंगे। 28 जिलों में 365 केंद्र और 9,000 से अधिक टेबल लगाए गए हैं। कुल मतदान 70.72 प्रतिशत रहा। एमपीटीसी नतीजे दोपहर 3 बजे तक और जेडपीटीसी नतीजे शाम 7 बजे तक आने की उम्मीद है।",
-    "pts": [
-     "7,767 एमपीटीसी, 582 जेडपीटीसी सीटों की गिनती",
-     "पहले डाक मतपत्र गिने जाएंगे",
-     "नतीजे sec.ap.gov.in वेबसाइट पर"
-    ],
-    "why": "ग्रामीण इलाकों में आज तय होगा कि मंडल और जिला परिषद प्रतिनिधि कौन होंगे।",
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "राज्यभर में मतगणना केंद्र"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · ఇజ్రాయెల్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "67 vs 46",
-   "statl": "ఐసెన్‌కోట్, నెతన్యాహుకు ఎంపీల మద్దతు",
-   "h": "ఇజ్రాయెల్ కొత్త ప్రభుత్వం: ఆదివారం అధ్యక్షుడు హెర్జోగ్ ప్రకటన",
-   "p": "ఇజ్రాయెల్‌లో కొత్త ప్రభుత్వ ఏర్పాటుకు ఎవరిని ఆహ్వానించాలో అధ్యక్షుడు ఐజాక్ హెర్జోగ్ ఆదివారం ప్రకటించనున్నారు. గాడి ఐసెన్‌కోట్‌కు 67 మంది ఎంపీల మద్దతు ఉండగా, బెంజమిన్ నెతన్యాహుకు 46 మంది మద్దతు ఉందని అమర్ ఉజాలా తెలిపింది.",
-   "src": "Amar Ujala",
-   "url": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-07",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఆదివారం అధ్యక్షుడు హెర్జోగ్ నిర్ణయం ప్రకటన",
-    "ఐసెన్‌కోట్‌కు 67, నెతన్యాహుకు 46 ఎంపీల మద్దతు"
-   ],
-   "why": "పశ్చిమాసియా ఉద్రిక్తతల వేళ ఇజ్రాయెల్‌లో ఎవరు ప్రభుత్వం ఏర్పాటు చేస్తారో తేలనుంది.",
-   "d": "07.11.2026",
-   "t": "08:05",
-   "en": {
-    "h": "Israel's new government: President Herzog to announce on Sunday",
-    "p": "Israeli President Isaac Herzog will announce on Sunday whom he will invite to form the new government. Gadi Eisenkot has the support of 67 members of parliament, while Benjamin Netanyahu has the support of 46, Amar Ujala reported.",
-    "pts": [
-     "President Herzog to announce decision on Sunday",
-     "Eisenkot backed by 67 MPs, Netanyahu by 46"
-    ],
-    "why": "Amid West Asia tensions, it will become clear who forms the government in Israel.",
-    "cat": "World · Israel",
-    "statl": "MPs backing Eisenkot and Netanyahu"
-   },
-   "hi": {
-    "h": "इज़राइल की नई सरकार: राष्ट्रपति हर्ज़ोग रविवार को करेंगे घोषणा",
-    "p": "इज़राइल के राष्ट्रपति आइज़ैक हर्ज़ोग रविवार को घोषणा करेंगे कि नई सरकार बनाने के लिए किसे आमंत्रित किया जाएगा। अमर उजाला के अनुसार गादी आइज़ेनकोट को 67 सांसदों का समर्थन है, जबकि बेंजामिन नेतन्याहू को 46 का।",
-    "pts": [
-     "राष्ट्रपति हर्ज़ोग रविवार को बताएंगे फैसला",
-     "आइज़ेनकोट को 67, नेतन्याहू को 46 सांसदों का समर्थन"
-    ],
-    "why": "पश्चिम एशिया में तनाव के बीच तय होगा कि इज़राइल में सरकार कौन बनाएगा।",
-    "cat": "दुनिया · इज़राइल",
-    "statl": "आइज़ेनकोट और नेतन्याहू के समर्थक सांसद"
-   }
   }
  ]
 }

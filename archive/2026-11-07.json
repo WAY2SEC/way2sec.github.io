@@ -1,8 +1,154 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 54,
+ "count": 57,
  "stories": [
+  {
+   "cat": "ఉత్తరప్రదేశ్ · ఘాజియాబాద్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "1 గాయం",
+   "statl": "పోలీస్ ఔట్‌పోస్ట్ వద్ద పేలుడు",
+   "h": "ఘాజియాబాద్ పోలీస్ ఔట్‌పోస్ట్‌లో పేలుడు; ఏటీఎస్, బాంబ్ స్క్వాడ్ దర్యాప్తు",
+   "p": "ఉత్తరప్రదేశ్‌లోని ఘాజియాబాద్‌లో ఇందిరాపురం పోలీస్ స్టేషన్ పరిధిలోని వసుంధర పోలీస్ ఔట్‌పోస్ట్ వద్ద శుక్రవారం అర్ధరాత్రి పేలుడు జరిగింది. అక్కడ ఉన్న ఒక ఫుడ్ డెలివరీ వ్యక్తికి స్వల్ప గాయాలయ్యాయి, కిటికీ అద్దాలు పగిలాయి. ఏటీఎస్, బాంబ్ డిస్పోజల్ బృందాలు ఘటనాస్థలానికి చేరుకున్నాయి. ఉగ్ర కోణం సహా అన్ని కోణాల్లో దర్యాప్తు చేస్తున్నట్లు పోలీసులు తెలిపారు.",
+   "src": "PTI, Siasat Daily",
+   "url": "https://www.siasat.com/explosion-at-ghaziabad-police-outpost-bomb-disposal-team-at-site-3571189/",
+   "sec": [
+    "india"
+   ],
+   "st": "UP",
+   "place": "up-ghaziabad",
+   "loc": "వసుంధర",
+   "pts": [
+    "పేలుడు తీవ్రత, ఉద్దేశం ఇంకా స్పష్టం కాలేదు",
+    "బాధ్యత ప్రకటించిన సోషల్ మీడియా పోస్టును పోలీసులు ధృవీకరిస్తున్నారు",
+    "నమూనాలు ఆగ్రా ల్యాబ్‌కు; సీసీటీవీ దృశ్యాల పరిశీలన"
+   ],
+   "why": "ఢిల్లీ–ఎన్‌సీఆర్ ప్రాంతంలో నివసించే వారి భద్రతకు సంబంధించిన ఘటన కావడంతో దర్యాప్తు ఫలితం కీలకం.",
+   "en": {
+    "h": "Blast at Ghaziabad police outpost; ATS, bomb squad investigate",
+    "p": "An explosion took place late on Friday night at the Vasundhara police outpost under Indirapuram police station in Ghaziabad, Uttar Pradesh. A food delivery person present there suffered minor injuries and window panes were shattered. ATS and bomb disposal teams reached the spot. Police said all angles, including a terror angle, are being investigated.",
+    "pts": [
+     "Intensity and motive of the blast are still unclear",
+     "Police verifying a social media post claiming responsibility",
+     "Samples sent to Agra lab; CCTV footage being checked"
+    ],
+    "why": "The probe outcome matters as the incident concerns the safety of people living in the Delhi-NCR region.",
+    "cat": "Uttar Pradesh · Ghaziabad",
+    "statl": "Blast at police outpost"
+   },
+   "hi": {
+    "h": "गाज़ियाबाद पुलिस चौकी में धमाका; एटीएस, बम निरोधक दस्ता जांच में जुटा",
+    "p": "उत्तर प्रदेश के गाज़ियाबाद में इंदिरापुरम थाना क्षेत्र की वसुंधरा पुलिस चौकी पर शुक्रवार देर रात धमाका हुआ। वहां मौजूद एक फूड डिलीवरी कर्मी को मामूली चोटें आईं और खिड़कियों के शीशे टूट गए। एटीएस और बम निरोधक दस्ते मौके पर पहुंचे। पुलिस ने कहा कि आतंकी पहलू समेत सभी पहलुओं से जांच की जा रही है।",
+    "pts": [
+     "धमाके की तीव्रता और मकसद अभी साफ नहीं",
+     "ज़िम्मेदारी लेने वाली सोशल मीडिया पोस्ट की पुलिस जांच कर रही है",
+     "नमूने आगरा लैब भेजे गए; सीसीटीवी फुटेज की जांच"
+    ],
+    "why": "यह घटना दिल्ली-एनसीआर में रहने वालों की सुरक्षा से जुड़ी है, इसलिए जांच का नतीजा अहम है।",
+    "cat": "उत्तर प्रदेश · गाज़ियाबाद",
+    "statl": "पुलिस चौकी पर धमाका"
+   },
+   "d": "07.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "$2 కోట్లు",
+   "statl": "ఇరాన్ అణు సమాచారానికి అమెరికా బహుమతి",
+   "h": "ఇరాన్ అణు కార్యక్రమం సమాచారానికి అమెరికా 2 కోట్ల డాలర్ల బహుమతి",
+   "p": "ఇరాన్ అణు కార్యక్రమానికి సంబంధించిన కేంద్రాలు, పరికరాలు, సిబ్బంది లేదా వాటి తరలింపుపై సమాచారం ఇస్తే 2 కోట్ల డాలర్ల వరకు బహుమతి ఇస్తామని అమెరికా ప్రకటించింది. విదేశాంగ శాఖ 'రివార్డ్స్ ఫర్ జస్టిస్' పథకం కింద ఈ ఆఫర్ ఇచ్చింది. అమెరికా సెంట్రల్ కమాండ్ శనివారం ఎక్స్‌లో ఈ విషయాన్ని పోస్ట్ చేసింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/us-offers-usd-20-million-reward-for-irans-nuclear-programme-3571135/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "సమాచారం ఇచ్చేవారికి వేరే చోటుకు తరలించే అవకాశం కూడా",
+    "ఇరాన్ ఒప్పందం కోరుకుంటోందని ట్రంప్ వ్యాఖ్య",
+    "చర్చల ద్వారా పరిష్కారానికి కట్టుబడి ఉన్నామన్న ఇరాన్ అధ్యక్షుడు"
+   ],
+   "why": "అమెరికా–ఇరాన్ ఉద్రిక్తతలు గల్ఫ్‌లో పనిచేసే తెలుగువారిని, చమురు ధరలను ప్రభావితం చేస్తాయి.",
+   "en": {
+    "h": "US offers $20 million reward for information on Iran's nuclear programme",
+    "p": "The US announced a reward of up to $20 million for information on facilities, equipment, personnel or their movement linked to Iran's nuclear programme. The offer was made under the State Department's 'Rewards for Justice' programme. US Central Command posted about it on X on Saturday.",
+    "pts": [
+     "Possible relocation also offered to informants",
+     "Trump says Iran wants a deal",
+     "Iran's President says committed to resolving crisis through dialogue"
+    ],
+    "why": "US-Iran tensions affect Telugu people working in the Gulf and oil prices.",
+    "cat": "World · USA",
+    "statl": "US reward for Iran nuclear information"
+   },
+   "hi": {
+    "h": "ईरान के परमाणु कार्यक्रम की जानकारी पर अमेरिका का 2 करोड़ डॉलर का इनाम",
+    "p": "अमेरिका ने ईरान के परमाणु कार्यक्रम से जुड़े ठिकानों, उपकरणों, कर्मियों या उनकी आवाजाही की जानकारी देने पर 2 करोड़ डॉलर तक के इनाम की घोषणा की है। यह पेशकश विदेश विभाग के 'रिवॉर्ड्स फॉर जस्टिस' कार्यक्रम के तहत की गई है। अमेरिकी सेंट्रल कमांड ने शनिवार को एक्स पर इसकी जानकारी दी।",
+    "pts": [
+     "जानकारी देने वालों को दूसरी जगह बसाने की पेशकश भी",
+     "ट्रंप बोले, ईरान समझौता चाहता है",
+     "ईरान के राष्ट्रपति ने बातचीत से हल की प्रतिबद्धता जताई"
+    ],
+    "why": "अमेरिका-ईरान तनाव खाड़ी में काम करने वाले तेलुगु लोगों और तेल कीमतों पर असर डालता है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "ईरान परमाणु जानकारी पर अमेरिकी इनाम"
+   },
+   "d": "07.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "భారత్ · ఐరాస",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "2027–29",
+   "statl": "ఐరాస బడ్జెట్ కమిటీలో భారత దౌత్యవేత్త",
+   "h": "ఐరాస బడ్జెట్ సలహా కమిటీకి భారత దౌత్యవేత్త శివానీ గుప్తా ఎన్నిక",
+   "p": "ఐక్యరాజ్యసమితి పరిపాలన, బడ్జెట్ వ్యవహారాల సలహా కమిటీ (ఏసీఏబీక్యూ)కి 2027–2029 కాలానికి భారత దౌత్యవేత్త శివానీ గుప్తా ఎన్నికయ్యారు. ఈ విషయాన్ని ఐరాసలో భారత శాశ్వత మిషన్ ప్రకటించి, మద్దతు ఇచ్చిన సభ్య దేశాలకు కృతజ్ఞతలు తెలిపింది. ఆమె మూడేళ్ల పదవీకాలం 2027 జనవరిలో ప్రారంభమవుతుంది.",
+   "src": "PTI, Siasat Daily",
+   "url": "https://www.siasat.com/indian-diplomat-elected-to-un-budgetary-committee-for-2027-29-3571182/",
+   "sec": [
+    "india",
+    "world"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఏసీఏబీక్యూ ఐరాస సాధారణ సభ అనుబంధ సంస్థ",
+    "కమిటీలో మొత్తం 21 మంది సభ్యులు",
+    "సభ్యుల పదవీకాలం మూడేళ్లు"
+   ],
+   "why": "ఐరాస బడ్జెట్ నిర్ణయాల్లో భారత్‌కు స్వరం పెరగడానికి ఈ ఎన్నిక తోడ్పడుతుంది.",
+   "en": {
+    "h": "Indian diplomat Shivani Gupta elected to UN budget advisory committee",
+    "p": "Indian diplomat Shivani Gupta has been elected to the UN Advisory Committee on Administrative and Budgetary Questions (ACABQ) for 2027–2029. India's Permanent Mission to the UN announced this and thanked member states for their support. Her three-year term begins in January 2027.",
+    "pts": [
+     "ACABQ is a subsidiary organ of the UN General Assembly",
+     "The committee has 21 members in all",
+     "Members serve three-year terms"
+    ],
+    "why": "The election helps give India a stronger voice in UN budget decisions.",
+    "cat": "India · UN",
+    "statl": "Indian diplomat on UN budget committee"
+   },
+   "hi": {
+    "h": "भारतीय राजनयिक शिवानी गुप्ता संयुक्त राष्ट्र बजट सलाहकार समिति में चुनी गईं",
+    "p": "भारतीय राजनयिक शिवानी गुप्ता को 2027–2029 के लिए संयुक्त राष्ट्र की प्रशासनिक और बजटीय प्रश्नों पर सलाहकार समिति (एसीएबीक्यू) में चुना गया है। संयुक्त राष्ट्र में भारत के स्थायी मिशन ने यह घोषणा की और समर्थन के लिए सदस्य देशों का धन्यवाद किया। उनका तीन साल का कार्यकाल जनवरी 2027 में शुरू होगा।",
+    "pts": [
+     "एसीएबीक्यू संयुक्त राष्ट्र महासभा का सहायक अंग है",
+     "समिति में कुल 21 सदस्य हैं",
+     "सदस्यों का कार्यकाल तीन साल का होता है"
+    ],
+    "why": "इस चुनाव से संयुक्त राष्ट्र के बजट फैसलों में भारत की आवाज़ मज़बूत होगी।",
+    "cat": "भारत · संयुक्त राष्ट्र",
+    "statl": "यूएन बजट समिति में भारतीय राजनयिक"
+   },
+   "d": "07.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "యాదగిరిగుట్ట · ఆలయం",
    "col": "--c-gov",
