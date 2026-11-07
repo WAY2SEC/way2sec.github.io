@@ -105,6 +105,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .tabs::-webkit-scrollbar{display:none}
 .tab{flex-shrink:0;min-height:34px;padding:4px 12px;border-radius:8px;border:0;background:transparent;font-size:13px;font-weight:800;cursor:pointer;white-space:nowrap;color:var(--hdr-ink)}
 .tab[aria-pressed="true"]{background:var(--brand);color:var(--brand-ink)}
+.tab.fest{box-shadow:inset 0 0 0 2px #E8A317}.tab.fest[aria-pressed="true"]{background:#E8A317;color:#1B1203}
 
 /* feed + cards (same look as the Way2Sec WhatsApp cards) */
 .feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
@@ -397,10 +398,11 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <div class="toast" id="toast" role="status"></div>
 </div>
 
-<script src="scenes.js?v=20261107d"></script>
+<script src="scenes.js?v=20261108a"></script>
 <script>
 const CONFIG = {
   NEWS_URL: 'news.json',
+  WISHES_URL: 'wishes.json',   // festival wishes from leaders: own tab (festival name while it lasts, then "greetings from the world")
   CHANNEL: 'https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138',
   APP_LINK: 'https://way2sec.news/',
   TIP_WHATSAPP: '917032656422',
@@ -485,6 +487,14 @@ const ART = {
   job:'<rect x="28" y="66" width="144" height="104" rx="12"/><path d="M74 66V50a10 10 0 0 1 10-10h32a10 10 0 0 1 10 10v16M28 112h144"/><rect x="88" y="102" width="24" height="20" rx="4"/>'
 };
 
+/* ---------- festival wishes (wishes.json): its own tab ---------- */
+let WISHES = {stories:[]};
+function wishTab(){ const w=WISHES; if(!w||!Array.isArray(w.stories)||!w.stories.length) return null;
+  const on=!!(w.festival&&Date.now()<new Date(w.festival.until).getTime()); const o=(on?w.festival:w.after)||{}, l=LG();
+  const pick=x=>x&&(x[l]||x.te)||''; return {on, label:pick(o.tab)||'🌍 శుభాకాంక్షలు', title:pick(o.title)}; }
+async function loadWishes(){ try{ const r=await fetch(CONFIG.WISHES_URL+'?t='+Date.now(),{cache:'no-store'}); if(!r.ok) throw 0;
+  WISHES=await r.json(); store.set('wishes',WISHES); }catch(e){ WISHES=store.get('wishes',WISHES); } }
+
 /* ---------- jobs (jobs.json, filled once a day) ---------- */
 const JOB_TYPES = [['all','అన్నీ'],['tg','తెలంగాణ'],['ap','ఆంధ్రప్రదేశ్'],['central','కేంద్ర ప్రభుత్వం'],['bank','బ్యాంక్'],['railway','రైల్వే'],['police','పోలీస్ / రక్షణ'],['teaching','టీచర్ / విద్య'],['it','IT / సాఫ్ట్‌వేర్'],['private','ప్రైవేట్ ఉద్యోగాలు'],['mela','జాబ్ మేళా / అప్రెంటిస్']];
 const JT = Object.fromEntries(JOB_TYPES);
@@ -555,8 +565,10 @@ function renderTabs(){
     $('placeName').textContent = (prefs.village?prefs.village+', ':'')+placeName(prefs.place); return;
   }
   const keys = FIXED.concat(SECTIONS.map(s=>s[0]).filter(k=>prefs.topics.includes(k)));
+  const WT = wishTab(); if(WT) keys.splice(1,0,'wishes');
   if(!keys.includes(section)) section='all';
   $('tabs').innerHTML = keys.map(k=>{
+    if(k==='wishes') return `<button class="tab${WT.on?' fest':''}" type="button" data-k="wishes" aria-pressed="${view==='home'&&section==='wishes'}">${esc(WT.label)}</button>`;
     const s=SECTIONS.find(x=>x[0]===k);
     return `<button class="tab" type="button" data-k="${k}" aria-pressed="${view==='home'&&k===section}">${esc(s[1])}</button>`;
   }).join('');
@@ -577,6 +589,7 @@ function pick0(){
     return l;
   }
   if(view==='date' && DAY) return DAY.stories;
+  if(section==='wishes') return (WISHES.stories||[]).slice();
   const all = NEWS.stories;
   if(section==='district') return localFirst(all.filter(s=>inPlace(s,prefs.place)));
   let list = section==='all' ? all : all.filter(s=>secsOf(s).includes(section));
@@ -1219,16 +1232,17 @@ async function load(){
     NEWS = await r.json(); store.set('news', NEWS);
     BASE = NEWS.stories.slice();
     // add the rest of today's stories (news.json holds only the newest 40)
-    await loadDates(); if(DATES[0]) await fetchDay(DATES[0].iso);
+    await Promise.all([loadWishes(), (async()=>{ await loadDates(); if(DATES[0]) await fetchDay(DATES[0].iso); })()]);
     mergeAll();
   }catch(e){
-    NEWS = store.get('news', NEWS);
+    NEWS = store.get('news', NEWS); WISHES = store.get('wishes', WISHES);
     if(NEWS.stories.length) toast('ఆఫ్‌లైన్ – పాత వార్తలు చూపిస్తున్నాం');
   }
   renderTabs(); renderFeed();
   const q=new URLSearchParams(location.search), qd=q.get('d'), qs=q.get('s');
   if(qd && /^\d{4}-\d\d-\d\d$/.test(qd) && !load.done){ load.done=1; await showDay(qd, qs); }
   else if(q.has('jobs') && !load.done){ load.done=1; JUMP=qs; setView('jobs'); }
+  else if(q.has('wishes') && !load.done && wishTab()){ load.done=1; JUMP=qs; section='wishes'; setView('home'); }
   else if(qs && !load.done){ load.done=1; JUMP=qs; renderFeed();
     // opened from Chrome on iPhone to send the picture: Safari can share pictures, so show the one-tap share screen
     if(q.has('sharecard') && LIST[cur]){ const b=await timeout(prepCard(),8000); if(b) showCardImage(b, shareText(LIST[cur]), ''); } }

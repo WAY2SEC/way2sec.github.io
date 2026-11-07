@@ -185,7 +185,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <section class="sec"><div class="sh"><h2>మరిన్ని తాజా వార్తలు</h2><a href="/">హోమ్ →</a></div><div class="grid" id="more"></div></section>
 </main>
 {sh["footer"]}
-<script src="/scenes.js?v=20261107d" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
+<script src="/scenes.js?v=20261108a" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>
 """
 
@@ -291,7 +291,7 @@ def static_page(title, desc, body):
 <main class="wrap"><div class="agrid"><article class="ar" style="--hl:var(--c-money);--hlink:var(--c-money)"><div class="in">{body}</div></article>
 <aside class="aside"><div class="latest"><h3>⚡ తాజా వార్తలు</h3><div id="latest"></div></div><div class="rbox rqr"><h4>📲 Way2Sec ఛానెల్</h4><img src="/qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR"><p>స్కాన్ చేసి ప్రతి 30 నిమిషాలకు వార్తలు పొందండి</p></div></aside></div></main>
 {sh["footer"]}
-<script src="/scenes.js?v=20261107d" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
+<script src="/scenes.js?v=20261108a" defer></script><script src="/web/site.js" defer></script><script src="/web/bg.js?v=1" defer></script>
 </body></html>
 """
 
@@ -301,6 +301,7 @@ def main():
     for p in sorted(glob.glob(os.path.join(ROOT, "archive", "20*.json"))):
         days += load(os.path.relpath(p, ROOT), {}).get("stories", [])
     jobs = load("jobs.json", {}).get("jobs", [])
+    wishes = load("wishes.json", {}).get("stories", [])
     os.makedirs(os.path.join(ROOT, "cards"), exist_ok=True)
     os.makedirs(os.path.join(ROOT, "s"), exist_ok=True)
 
@@ -325,7 +326,7 @@ def main():
         pg.add_script_tag(path=os.path.join(ROOT, "tools", "og.js"))
         pg.evaluate("Promise.all([document.fonts.load(\"800 40px 'Noto Sans Telugu'\"),document.fonts.load(\"600 40px 'Noto Sans Telugu'\"),document.fonts.load(\"40px 'Archivo Black'\")])")
 
-        raw = [("news", s) for s in news + days] + [("job", j) for j in jobs]
+        raw = [("news", s) for s in wishes + news + days] + [("job", j) for j in jobs]
         normed = pg.evaluate("(arr)=>arr.map(a=>{const s=a[0]==='job'?normJob(a[1]):a[1]; s._scene=sceneSVG(s,'scene'); return [a[0], s, sid(s)];})", raw)
         uniq, seen = [], set()
         for kind, s, sid in normed:
@@ -351,7 +352,7 @@ def main():
                 related = [(rid, r) for k2, r, rid in uniq if k2 == "job" and rid != sid][:4]
             else:
                 iso = d.isoformat() if d else ""
-                target = f"/?d={iso}&s={sid}" if iso else f"/?s={sid}"
+                target = f"/?wishes=1&s={sid}" if "wishes" in secs(s) else (f"/?d={iso}&s={sid}" if iso else f"/?s={sid}")
                 desc = (s.get("p") or "")[:160]
                 mine = set(secs(s))
                 related = [(rid, r) for k2, r, rid in uniq if k2 == "news" and rid != sid and mine & set(secs(r))][:4]

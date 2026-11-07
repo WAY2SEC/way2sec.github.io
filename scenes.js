@@ -212,7 +212,17 @@ Object.assign(SCENES, {
       ${[...Array(9)].map((_,i)=>`<rect x="${52+i*34}" y="132" width="18" height="40" rx="2" fill="var(--hl,#000)" opacity=".35"/>`).join('')}
       <rect x="0" y="112" width="400" height="8"/>
       <path d="M40 200q20-10 40 0t40 0 40 0 40 0 40 0 40 0 40 0 40 0" stroke="#fff" stroke-width="4" fill="none" opacity=".7"/>
-    </g>`
+    </g>`,
+  /* festival wishes: a row of clay diyas with flames, hanging lanterns and sparkles */
+  diya: `
+    <g opacity=".45">${[[30,40],[96,22],[318,30],[372,58],[250,14],[150,60]].map(([x,y])=>`<path d="M${x} ${y-7}l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"/>`).join('')}</g>
+    <g opacity=".55">${[70,330].map(x=>`<path d="M${x} 0v26" stroke="#fff" stroke-width="2"/><path d="M${x-12} 30h24l-4 30h-16z"/><rect x="${x-14}" y="26" width="28" height="5" rx="2"/><path d="M${x-4} 60h8l-4 10z"/>`).join('')}</g>
+    <g>${[[110,1],[200,1.35],[290,1]].map(([x,k])=>`<g transform="translate(${x} 200) scale(${k})">
+      <path d="M-44-34q0 34 44 34t44-34z"/><path d="M38-38q14 0 22-8-6 14-22 14z"/>
+      <path d="M44-46c-6-8-4-18 4-28 2 12 12 14 8 24-2 6-8 8-12 4z" opacity=".95"/>
+      <path d="M48-52c-2-4-1-9 2-13 1 6 5 7 3 11z" fill="var(--hl,#000)" opacity=".45"/>
+      <path d="M-30-30q30 10 60 0" stroke="var(--hl,#000)" stroke-width="3" fill="none" opacity=".35"/></g>`).join('')}</g>
+    <path d="M0 196h400" stroke="#fff" stroke-width="6" opacity=".6"/>`
 });
 
 /* Places: India → state → district (Telangana + Andhra Pradesh now; other states state-level) → town/village (story "loc") */
@@ -294,6 +304,7 @@ Object.assign(PLACE_SCENE, {"od-puri": "temple", "od-khordha": "temple", "od-gan
 function stateOf(s){ if(s.st && s.st!=='IN' && s.st!=='WORLD') return s.st; const p=s.place||''; if(p.startsWith('ap-')||p==='AP') return 'AP'; const m=/^([a-z]{2})-/.exec(p); if(m && STATE_DISTRICTS[m[1].toUpperCase()]) return m[1].toUpperCase(); if(s.st) return ''; if(p&&p!=='TS'&&p!=='IN') return 'TG'; return ''; }
 function sceneFor(s){
   if(s.kind==='job') return 'city';
+  if(s.art==='diya'||(Array.isArray(s.sec)&&s.sec.includes('wishes'))) return 'diya';
   const pk=normPlace(s.place||''); if(pk && PLACE_SCENE[pk]) return PLACE_SCENE[pk];
   const sec = Array.isArray(s.sec)?s.sec:(s.sec?[s.sec]:[]);
   const cat = s.cat||'';

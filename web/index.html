@@ -10,7 +10,7 @@
 <link rel="icon" href="/favicon-48.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.webmanifest">
-<script src="/scenes.js?v=20261107d"></script><script src="/web/bg.js?v=1" defer></script>
+<script src="/scenes.js?v=20261108a"></script><script src="/web/bg.js?v=1" defer></script>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Way2Sec News">
 <meta property="og:title" content="Way2Sec – వార్తలు క్షణాల్లో! | Fastest AI News in Telugu">
@@ -289,6 +289,7 @@ footer a:hover{color:var(--brand)}
 <main id="main" class="wrap">
 <a class="w2greet" id="w2greet" href="/diwali.html" hidden><img src="/promo/diwali-2026.jpg" alt="Way2Sec – దీపావళి శుభాకాంక్షలు" loading="eager"></a>
 <script>try{if(Date.now()<new Date('2026-11-10T00:00:00+05:30').getTime())document.getElementById('w2greet').hidden=false}catch(e){}</script>
+<style>.secs a.fest{box-shadow:inset 0 0 0 2px #E8A317;border-radius:8px}.wsec .sh h2{color:#B7791F}</style>
 <style>.w2greet{display:block;max-width:520px;margin:18px auto 6px}.w2greet img{display:block;width:100%;height:auto;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.18)}</style>
   <div id="home">
     <section class="hero">
@@ -380,7 +381,10 @@ const isAP=s=>/ఏపీ|ఆంధ్ర|అమరావతి|విజయవ�
 const tsOf=s=>{const m=/^(\d\d)\.(\d\d)\.(\d{4})$/.exec(s.d||''),t=/^(\d\d):(\d\d)$/.exec(s.t||'');return m?Date.parse(`${m[3]}-${m[2]}-${m[1]}T${t?t[1]:'12'}:${t?t[2]:'00'}:00+05:30`):0};
 const link=s=>'/s/'+sid(s);
 const store={get(k,d){try{const v=localStorage.getItem('w2s.'+k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem('w2s.'+k,JSON.stringify(v))}catch(e){}}};
-let ALL=[], JOBS=[], section=new URLSearchParams(location.search).get('sec')||'all';
+let ALL=[], JOBS=[], WISH=[], WT=null, section=(P0=>P0.get('sec')||(P0.has('wishes')?'wishes':'all'))(new URLSearchParams(location.search));
+/* festival wishes tab: festival name while it lasts, then "greetings from the world" */
+function wishTab(w){ if(!w||!Array.isArray(w.stories)||!w.stories.length) return null; const on=!!(w.festival&&Date.now()<new Date(w.festival.until).getTime());
+  const o=(on?w.festival:w.after)||{}, l=w2sLang(), pk=x=>x&&(x[l]||x.te)||''; return {on, label:pk(o.tab)||'🌍 శుభాకాంక్షలు', title:pk(o.title)||pk(o.tab)}; }
 
 /* the website lives at way2sec.news itself: hide "/web/" from the address bar */
 try{ sessionStorage.removeItem('w2s.cards'); if(location.pathname.startsWith('/web')) history.replaceState(null,'','/'+location.search+location.hash); }catch(e){}
@@ -406,13 +410,13 @@ function card(s){
 }
 function renderNav(){
   const P=new URLSearchParams(location.search), onDates=P.has('d')||P.has('dates');
-  $('secs').innerHTML=SECS.map(([k,n],i)=>`<a href="?sec=${k}" data-k="${k}" aria-current="${k===section&&!onDates}">${n}</a>`+(i===0?`<a href="/epaper/">📰 ఈ-పేపర్</a><a href="/?dates=1" data-dates="1" aria-current="${onDates}">📅 పాత వార్తలు</a>`:'')+(k==='world'?`<a href="/?jobs=1">💼 జాబ్స్</a>`:'')).join('');
+  $('secs').innerHTML=SECS.map(([k,n],i)=>`<a href="?sec=${k}" data-k="${k}" aria-current="${k===section&&!onDates}">${n}</a>`+(i===0&&WT?`<a href="?sec=wishes" data-k="wishes" class="${WT.on?'fest':''}" aria-current="${section==='wishes'&&!onDates}">${esc(WT.label)}</a>`:'')+(i===0?`<a href="/epaper/">📰 ఈ-పేపర్</a><a href="/?dates=1" data-dates="1" aria-current="${onDates}">📅 పాత వార్తలు</a>`:'')+(k==='world'?`<a href="/?jobs=1">💼 జాబ్స్</a>`:'')).join('');
 }
 $('secs').addEventListener('click',e=>{ if(e.target.closest('a[data-dates]')){ e.preventDefault(); section='all'; $('q').value=''; history.pushState(null,'','?dates=1'); route(); scrollTo({top:0,behavior:'smooth'}); return; }
   const a=e.target.closest('a[data-k]');if(!a)return;e.preventDefault();section=a.dataset.k;history.pushState(null,'',section==='all'?location.pathname:'?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
 addEventListener('popstate',()=>{section=new URLSearchParams(location.search).get('sec')||'all';route();});
 
-function bySec(k){ if(k==='ap') return ALL.filter(isAP); return ALL.filter(s=>secsOf(s).includes(k)); }
+function bySec(k){ if(k==='wishes') return WISH; if(k==='ap') return ALL.filter(isAP); return ALL.filter(s=>secsOf(s).includes(k)); }
 function renderHome(){
   const top=ALL[0]; if(!top) return;
   const col=top.col||'--c-gov';
@@ -426,12 +430,13 @@ function renderHome(){
   const me=prefsGet(); const mine=ALL.map(s=>[s,inMine(s,me)]).filter(x=>x[1]>0).sort((a,b)=>b[1]-a[1]).map(x=>x[0]).slice(0,4);
   const mineHTML = mine.length ? `<section class="sec"><div class="sh"><h2>📍 ${esc(placeTx(me))} వార్తలు</h2><a href="#" id="chgPlace">ప్రాంతం మార్చండి →</a></div><div class="grid">${mine.map(card).join('')}</div></section>` : '';
   mine.forEach(s=>used.add(sid(s)));
-  $('sections').innerHTML=mineHTML+BLOCKS.map(k=>{
+  const wishHTML = WISH.length ? `<section class="sec wsec"><div class="sh"><h2>${esc(WT.title)}</h2><a href="?sec=wishes" data-go="wishes">అన్నీ చూడండి →</a></div><div class="grid">${WISH.slice(0,4).map(card).join('')}</div></section>` : '';
+  $('sections').innerHTML=(WT&&WT.on?wishHTML:'')+mineHTML+BLOCKS.map(k=>{
     const name=(SECS.find(x=>x[0]===k)||[,k])[1];
     const list=bySec(k).filter(s=>!used.has(sid(s))).slice(0,4); if(list.length<2) return '';
     list.forEach(s=>used.add(sid(s)));
     return `<section class="sec"><div class="sh"><h2>${name}</h2><a href="?sec=${k}" data-go="${k}">మరిన్ని →</a></div><div class="grid">${list.map(card).join('')}</div></section>`;
-  }).join('');
+  }).join('')+(WT&&!WT.on?wishHTML:'');
   if($('chgPlace')) $('chgPlace').onclick=e=>{e.preventDefault();openPick();};
   $('sections').querySelectorAll('a[data-go]').forEach(a=>a.onclick=e=>{e.preventDefault();section=a.dataset.go;history.pushState(null,'','?sec='+section);route();scrollTo({top:0,behavior:'smooth'});});
   $('tick').innerHTML=(t=>t+t)(ALL.slice(0,10).map(s=>`<a href="${link(s)}"><b>${s.brk?'🔴 BREAKING':esc(s.t||'')}</b>${esc(s.h)}</a>`).join(''));
@@ -470,6 +475,7 @@ function route(){
     const hits=ALL.filter(s=>{const t=((s.h||'')+' '+(s.p||'')+' '+(s.cat||'')+' '+(s.src||'')+' '+(PLACES[s.place]||'')).toLowerCase();return words.every(w=>t.includes(w))});
     renderList(`🔎 "${q}" – ${hits.length} వార్తలు`,hits.slice(0,60)); return; }
   { const P=new URLSearchParams(location.search); if(P.get('d')||P.has('dates')){ showDay(P.get('d')); return; } }
+  if(section==='wishes'&&WT){ renderList(WT.title,WISH); return; }
   if(section!=='all'){ const n=(SECS.find(x=>x[0]===section)||[,section])[1]; renderList(n,bySec(section).slice(0,60)); return; }
   $('results').hidden=true; $('home').hidden=false;
 }
@@ -543,7 +549,8 @@ $('listen').onclick=()=>{ const sy=window.speechSynthesis, b=$('listen'); if(!sy
 /* data */
 async function getJSON(u){ try{ const r=await fetch(u+(u.includes('?')?'&':'?')+'t='+Date.now(),{cache:'no-store'}); return r.ok?await r.json():null; }catch(e){ return null; } }
 async function load(){
-  const [news,idx,jobs]=await Promise.all([getJSON('/news.json'),getJSON('/archive/index.json'),getJSON('/jobs.json')]);
+  const [news,idx,jobs,wishes]=await Promise.all([getJSON('/news.json'),getJSON('/archive/index.json'),getJSON('/jobs.json'),getJSON('/wishes.json')]);
+  WT=wishTab(wishes); WISH=WT?wishes.stories.map(s=>w2sTr(s,sid)):[];
   const days=((idx&&idx.dates)||[]).slice(0,3);
   const arch=await Promise.all(days.map(d=>getJSON(`/archive/${d.iso}.json`)));
   const seen=new Set(); let out=[];
