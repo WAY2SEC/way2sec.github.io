@@ -1,8 +1,104 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 31,
+ "count": 33,
  "stories": [
+  {
+   "cat": "ఒడిశా · ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "రద్దు",
+   "statl": "సీఎం నివాసంలో దీపావళి వేడుకలు",
+   "h": "తుపాను బాధితులకు సంఘీభావం: ఒడిశా సీఎం దీపావళి వేడుకలు రద్దు",
+   "p": "ఆర్నబ్ తుపాను, ఆ తర్వాత వచ్చిన వరదలతో ఒడిశాలో భారీ నష్టం జరగడంతో ముఖ్యమంత్రి మోహన్ చరణ్ మాఝీ తన నివాసంలో ఈ ఏడాది దీపావళి వేడుకలను రద్దు చేశారు. పండుగ సందర్భంగా తనకు బహుమతులు, పుష్పగుచ్ఛాలు తీసుకురావద్దని ప్రజలను కోరారు. బాధిత ప్రాంతాల ప్రజలకు సాయం అందించాలని విజ్ఞప్తి చేశారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/odisha-cm-cancels-diwali-celebrations-in-solidarity-with-disaster-hit-people/3092961/",
+   "sec": [
+    "india"
+   ],
+   "st": "OD",
+   "place": "st-OD",
+   "pts": [
+    "సీఎం నివాసంలో దీపావళి వేడుకలు రద్దు",
+    "బహుమతులు, పుష్పగుచ్ఛాలు తేవద్దని విజ్ఞప్తి",
+    "దక్షిణ జిల్లాల్లో వరదలతో వేలాది మంది నిరాశ్రయులు"
+   ],
+   "why": "తుపాను, వరదలతో నష్టపోయిన ఒడిశా దక్షిణ జిల్లాల ప్రజల పరిస్థితిని ఇది మరోసారి గుర్తుచేస్తోంది.",
+   "d": "07.11.2026",
+   "t": "12:05",
+   "en": {
+    "h": "Odisha CM cancels Diwali celebrations in solidarity with cyclone-hit people",
+    "p": "With Cyclone Arnab and the floods that followed causing heavy damage in Odisha, Chief Minister Mohan Charan Majhi has cancelled this year's Diwali celebrations at his residence. He asked people not to bring him gifts or bouquets for the festival and appealed to them to help people in the affected areas.",
+    "pts": [
+     "Diwali celebrations at CM's residence cancelled",
+     "People asked not to bring gifts or bouquets",
+     "Floods displaced thousands in southern districts"
+    ],
+    "why": "It again highlights the plight of people in Odisha's southern districts hit by the cyclone and floods.",
+    "cat": "Odisha · Government",
+    "statl": "Diwali celebrations at CM's residence"
+   },
+   "hi": {
+    "h": "तूफान पीड़ितों से एकजुटता: ओडिशा के सीएम ने दिवाली समारोह रद्द किया",
+    "p": "चक्रवात अर्नब और उसके बाद आई बाढ़ से ओडिशा में भारी नुकसान होने के कारण मुख्यमंत्री मोहन चरण माझी ने इस साल अपने आवास पर दिवाली समारोह रद्द कर दिया है। उन्होंने लोगों से त्योहार पर उपहार या गुलदस्ते न लाने को कहा और प्रभावित इलाकों के लोगों की मदद करने की अपील की।",
+    "pts": [
+     "सीएम आवास पर दिवाली समारोह रद्द",
+     "उपहार और गुलदस्ते न लाने की अपील",
+     "दक्षिणी जिलों में बाढ़ से हजारों लोग बेघर"
+    ],
+    "why": "यह चक्रवात और बाढ़ से प्रभावित ओडिशा के दक्षिणी जिलों के लोगों की स्थिति को फिर सामने लाता है।",
+    "cat": "ओडिशा · सरकार",
+    "statl": "सीएम आवास पर दिवाली समारोह"
+   }
+  },
+  {
+   "cat": "మహారాష్ట్ర · ముంబై",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "85",
+   "statl": "ఏళ్ల శరద్ పవార్ డిశ్చార్జ్",
+   "h": "ముంబై ఆసుపత్రి నుంచి శరద్ పవార్ డిశ్చార్జ్",
+   "p": "ఛాతీ, శ్వాసకోశ ఇన్ఫెక్షన్‌కు చికిత్స పొందిన ఎన్సీపీ-ఎస్పీ అధినేత శరద్ పవార్ (85) శనివారం ముంబై ఆసుపత్రి నుంచి డిశ్చార్జ్ అయ్యారు. ఆయన బ్రీచ్ క్యాండీ దగ్గర ఉన్న తన నివాసానికి వెళ్లారు. నవంబర్ 2న పుణె రూబీ హాల్ క్లినిక్‌లో చేరి, 4న డిశ్చార్జ్ అయిన రోజే ముంబై ఆసుపత్రిలో చేరారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/sharad-pawar-discharged-from-mumbai-hospital/3092960/",
+   "sec": [
+    "india"
+   ],
+   "st": "MH",
+   "place": "mh-mumbai",
+   "pts": [
+    "ఛాతీ, శ్వాసకోశ ఇన్ఫెక్షన్‌కు చికిత్స",
+    "మూడు రోజులుగా ముంబై ఆసుపత్రిలో",
+    "శుక్రవారం రాత్రి పలువురు నేతల పరామర్శ"
+   ],
+   "why": "మహారాష్ట్ర రాజకీయాల్లో సీనియర్ నేత ఆరోగ్యంపై ఆందోళన చెందిన మద్దతుదారులకు ఇది ముఖ్యమైన సమాచారం.",
+   "d": "07.11.2026",
+   "t": "12:05",
+   "en": {
+    "h": "Sharad Pawar discharged from Mumbai hospital",
+    "p": "NCP-SP chief Sharad Pawar (85), who was treated for a chest and respiratory infection, was discharged from a Mumbai hospital on Saturday. He went to his residence near Breach Candy. He was admitted to Pune's Ruby Hall Clinic on November 2 and, on the day of his discharge on the 4th, was admitted to the Mumbai hospital.",
+    "pts": [
+     "Treated for chest and respiratory infection",
+     "Was in Mumbai hospital for three days",
+     "Several leaders visited him on Friday night"
+    ],
+    "why": "This is important news for supporters concerned about the health of a senior leader in Maharashtra politics.",
+    "cat": "Maharashtra · Mumbai",
+    "statl": "Sharad Pawar, 85, discharged"
+   },
+   "hi": {
+    "h": "शरद पवार को मुंबई के अस्पताल से छुट्टी मिली",
+    "p": "छाती और सांस के संक्रमण का इलाज करा रहे एनसीपी-एसपी प्रमुख शरद पवार (85) को शनिवार को मुंबई के अस्पताल से छुट्टी मिल गई। वे ब्रीच कैंडी के पास अपने आवास पर चले गए। वे 2 नवंबर को पुणे के रूबी हॉल क्लिनिक में भर्ती हुए थे और 4 तारीख को वहां से छुट्टी मिलने के दिन ही मुंबई के अस्पताल में भर्ती हुए।",
+    "pts": [
+     "छाती और सांस के संक्रमण का इलाज",
+     "तीन दिन से मुंबई के अस्पताल में थे",
+     "शुक्रवार रात कई नेताओं ने मुलाकात की"
+    ],
+    "why": "महाराष्ट्र की राजनीति के वरिष्ठ नेता की सेहत को लेकर चिंतित समर्थकों के लिए यह अहम खबर है।",
+    "cat": "महाराष्ट्र · मुंबई",
+    "statl": "85 वर्षीय शरद पवार को छुट्टी"
+   }
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
