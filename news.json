@@ -1,8 +1,154 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T20:12:02+05:30",
+ "updated": "2026-11-07T21:08:11+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వినియోగదారులు",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹1,200",
+   "statl": "5 లీటర్ల వంటనూనె ధర (ఎంఆర్‌పీ)",
+   "h": "నిత్యావసర ధరల నియంత్రణ కమిటీలు వేయాలని ప్రభుత్వానికి సీసీఐ విజ్ఞప్తి",
+   "p": "నిత్యావసర సరుకుల ధరలు పెరుగుతున్నందున వెంటనే ధరల నియంత్రణ కమిటీలు ఏర్పాటు చేయాలని కన్స్యూమర్ కాన్ఫెడరేషన్ ఆఫ్ ఇండియా (సీసీఐ) రాష్ట్ర ప్రభుత్వాన్ని కోరింది. హనుమకొండలో జరిగిన వినియోగదారుల అవగాహన కార్యక్రమంలో జాతీయ ఉపాధ్యక్షుడు డాక్టర్ పల్లెపాడు దామోదర్ మాట్లాడుతూ, పండుగ సీజన్‌కు ముందు వంటనూనె, బియ్యం, పప్పుల ధరలు బాగా పెరిగాయని, వ్యాపారులు కృత్రిమ కొరత సృష్టిస్తున్నారని ఆరోపించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/cci-urges-telangana-government-to-establish-price-control-committees",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "హనుమకొండ",
+   "pts": [
+    "జిల్లా, రాష్ట్ర స్థాయిలో వినియోగదారుల ప్రతినిధులతో కమిటీలు",
+    "25 కిలోల బియ్యం ₹1,900, కిలో కందిపప్పు ₹120",
+    "అన్ని జిల్లాల్లో ‘యాంటీబయాటిక్స్ ఆఫ్ ద మెనూ’ ప్రచారం"
+   ],
+   "why": "పెరుగుతున్న నిత్యావసర ధరలు రాష్ట్రంలోని ప్రతి కుటుంబ బడ్జెట్‌పై ప్రభావం చూపుతాయి.",
+   "en": {
+    "h": "CCI urges Telangana to set up price control committees",
+    "p": "The Consumer Confederation of India (CCI) has asked the State government to immediately set up price control committees as essential commodity prices rise. Speaking at a consumer awareness programme in Hanamkonda, national vice-president Dr. Pallepadu Damodar said cooking oil, rice and pulses had risen sharply ahead of the festive season, and alleged that traders were creating artificial shortages.",
+    "pts": [
+     "Committees with consumer representatives at district and State levels",
+     "25 kg rice at ₹1,900, 1 kg tur dal at ₹120",
+     "'Antibiotics off the Menu' campaign in all districts"
+    ],
+    "why": "Rising prices of essentials affect the budget of every household in the State.",
+    "cat": "Telangana · Consumers",
+    "statl": "Price of 5 litres of cooking oil (MRP)"
+   },
+   "hi": {
+    "h": "सीसीआई ने तेलंगाना सरकार से मूल्य नियंत्रण समितियां बनाने की मांग की",
+    "p": "आवश्यक वस्तुओं की बढ़ती कीमतों को देखते हुए कंज्यूमर कॉन्फेडरेशन ऑफ इंडिया (सीसीआई) ने राज्य सरकार से तुरंत मूल्य नियंत्रण समितियां बनाने की मांग की है। हनमकोंडा में उपभोक्ता जागरूकता कार्यक्रम में राष्ट्रीय उपाध्यक्ष डॉ. पल्लेपाडु दामोदर ने कहा कि त्योहारी सीजन से पहले खाने का तेल, चावल और दालें काफी महंगी हुई हैं और आरोप लगाया कि व्यापारी कृत्रिम कमी पैदा कर रहे हैं।",
+    "pts": [
+     "जिला और राज्य स्तर पर उपभोक्ता प्रतिनिधियों वाली समितियां",
+     "25 किलो चावल ₹1,900, 1 किलो अरहर दाल ₹120",
+     "सभी जिलों में 'एंटीबायोटिक्स ऑफ द मेन्यू' अभियान"
+    ],
+    "why": "जरूरी चीजों की बढ़ती कीमतें राज्य के हर परिवार के बजट पर असर डालती हैं।",
+    "cat": "तेलंगाना · उपभोक्ता",
+    "statl": "5 लीटर खाने के तेल की कीमत (एमआरपी)"
+   },
+   "d": "07.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "ఏపీ · రాజకీయాలు",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "నవం. 11",
+   "statl": "కొత్త పార్టీ ప్రారంభ తేదీ",
+   "h": "నవంబర్ 11న విజయసాయిరెడ్డి కొత్త రాజకీయ పార్టీ",
+   "p": "వైఎస్సార్‌సీపీ మాజీ రాజ్యసభ సభ్యుడు వి. విజయసాయిరెడ్డి నవంబర్ 11న కొత్త రాజకీయ పార్టీని ప్రారంభిస్తానని ప్రకటించారు. అధికార టీడీపీ, ప్రతిపక్ష వైఎస్సార్‌సీపీ రెండింటిపైనా ప్రజలు నిరాశలో ఉన్నారని, రాష్ట్రంలో రాజకీయ శూన్యత ఉందని ఆయన అన్నారు. దేశభక్తి, ప్రజా సంక్షేమం, ఏపీ ప్రయోజనాల పరిరక్షణే పార్టీ లక్ష్యమని పీటీఐకి తెలిపారు.",
+   "src": "PTI, Telangana Today",
+   "url": "https://telanganatoday.com/new-political-party-to-be-launched-by-vijaysai-reddy-on-november-11",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఒకప్పుడు జగన్‌కు సన్నిహితుడు, తర్వాత పార్టీకి దూరం",
+    "కేంద్రంలో ఏ పార్టీ ఉన్నా సమన్వయంతో పనిచేస్తామన్నారు",
+    "ప్రారంభ సమయం పురోహితుడు నిర్ణయించారని వెల్లడి"
+   ],
+   "why": "ఆంధ్రప్రదేశ్ రాజకీయాల్లో మరో కొత్త పార్టీ రంగంలోకి రానుంది.",
+   "en": {
+    "h": "Vijaysai Reddy to launch new political party on November 11",
+    "p": "Former YSRCP Rajya Sabha member V Vijaysai Reddy has announced he will launch a new political party on November 11. He said people are disillusioned with both the ruling TDP and the opposition YSRCP, leaving a political vacuum in the State. He told PTI the party would be guided by patriotism, public welfare and protecting Andhra Pradesh's interests.",
+    "pts": [
+     "Once close to Jagan, later parted ways with the party",
+     "Says party will coordinate with whoever rules at the Centre",
+     "Says a priest fixed the launch time"
+    ],
+    "why": "Another new party is set to enter Andhra Pradesh politics.",
+    "cat": "AP · Politics",
+    "statl": "New party launch date"
+   },
+   "hi": {
+    "h": "विजयसाई रेड्डी 11 नवंबर को नई राजनीतिक पार्टी शुरू करेंगे",
+    "p": "वाईएसआरसीपी के पूर्व राज्यसभा सदस्य वी. विजयसाई रेड्डी ने घोषणा की है कि वे 11 नवंबर को नई राजनीतिक पार्टी शुरू करेंगे। उन्होंने कहा कि लोग सत्तारूढ़ टीडीपी और विपक्षी वाईएसआरसीपी दोनों से निराश हैं और राज्य में राजनीतिक शून्य है। उन्होंने पीटीआई से कहा कि पार्टी देशभक्ति, जनकल्याण और आंध्र प्रदेश के हितों की रक्षा पर चलेगी।",
+    "pts": [
+     "कभी जगन के करीबी, बाद में पार्टी से अलग हुए",
+     "केंद्र में किसी भी दल की सरकार से तालमेल की बात",
+     "लॉन्च का समय पुजारी ने तय किया, उन्होंने बताया"
+    ],
+    "why": "आंध्र प्रदेश की राजनीति में एक और नई पार्टी आने वाली है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "नई पार्टी लॉन्च की तारीख"
+   },
+   "d": "07.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "98.36%",
+   "statl": "ఎస్ఐఆర్ కేసుల్లో పత్రాలు/విచారణ పూర్తి",
+   "h": "హైదరాబాద్‌లో 8 నియోజకవర్గాల్లో ఎస్ఐఆర్ విచారణలు పూర్తి; గోషామహల్‌లో అత్యధిక పెండింగ్",
+   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్) విచారణల్లో హైదరాబాద్ జిల్లాలోని 15 నియోజకవర్గాల్లో 8 చోట్ల ఒక్కటీ పెండింగ్ లేదు. జీహెచ్ఎంసీ కమిషనర్, జిల్లా ఎన్నికల అధికారి ఆర్.వి. కర్ణన్ శనివారం అఖిలపక్ష సమావేశంలో ఈ నివేదిక విడుదల చేశారు. గోషామహల్‌లో 8,720, సికింద్రాబాద్ కంటోన్మెంట్‌లో 6,918 విచారణలు ఇంకా మిగిలి ఉన్నాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/blos-clear-sir-hearings-in-8-hyderabad-assembly-segments-goshamahal-tops-pending-cases",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మొత్తం 12,54,917 నోటీసులు, 99.96% పంపిణీ",
+    "20,559 కేసులు ఇంకా విచారణ కోసం వేచి ఉన్నాయి",
+    "ముషీరాబాద్, చార్మినార్, జూబ్లీహిల్స్ సహా 8 చోట్ల పెండింగ్ సున్నా"
+   ],
+   "why": "నోటీసులు అందుకున్న హైదరాబాద్ ఓటర్లు పేరు జాబితాలో ఉండేందుకు విచారణకు హాజరుకావాలి.",
+   "en": {
+    "h": "SIR hearings cleared in 8 Hyderabad segments; Goshamahal has most pending",
+    "p": "Eight of Hyderabad district's 15 Assembly constituencies have no pending hearings in the Special Intensive Revision (SIR) of electoral rolls. GHMC Commissioner and District Election Officer RV Karnan released the report at an all-party meeting on Saturday. Goshamahal has 8,720 and Secunderabad Cantonment 6,918 hearings still pending.",
+    "pts": [
+     "12,54,917 notices in all, 99.96% distributed",
+     "20,559 cases still awaiting hearings",
+     "Zero pending in 8 including Musheerabad, Charminar, Jubilee Hills"
+    ],
+    "why": "Hyderabad voters who received notices must attend hearings to stay on the rolls.",
+    "cat": "Hyderabad · Voter rolls",
+    "statl": "SIR cases with documents/hearings done"
+   },
+   "hi": {
+    "h": "हैदराबाद के 8 क्षेत्रों में एसआईआर सुनवाई पूरी; गोशामहल में सबसे ज्यादा लंबित",
+    "p": "मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की सुनवाई में हैदराबाद जिले के 15 विधानसभा क्षेत्रों में से 8 में कोई मामला लंबित नहीं है। जीएचएमसी आयुक्त और जिला निर्वाचन अधिकारी आर.वी. कर्णन ने शनिवार को सर्वदलीय बैठक में यह रिपोर्ट जारी की। गोशामहल में 8,720 और सिकंदराबाद कैंटोनमेंट में 6,918 सुनवाइयां अभी बाकी हैं।",
+    "pts": [
+     "कुल 12,54,917 नोटिस, 99.96% बांटे गए",
+     "20,559 मामले अब भी सुनवाई के इंतजार में",
+     "मुशीराबाद, चारमीनार, जुबली हिल्स समेत 8 में शून्य लंबित"
+    ],
+    "why": "नोटिस पाने वाले हैदराबाद के मतदाताओं को सूची में नाम बनाए रखने के लिए सुनवाई में जाना होगा।",
+    "cat": "हैदराबाद · मतदाता सूची",
+    "statl": "एसआईआर मामलों में दस्तावेज/सुनवाई पूरी"
+   },
+   "d": "07.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "తెలంగాణ · ఎన్నికలు",
    "col": "--c-election",
@@ -1706,54 +1852,6 @@
    "t": "14:35"
   },
   {
-   "cat": "ప్రపంచం · గల్ఫ్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2 దాడులు",
-   "statl": "రియాద్ వైపు హౌతీల క్షిపణి, డ్రోన్",
-   "h": "రియాద్ లక్ష్యంగా హౌతీల క్షిపణి, డ్రోన్: కూల్చివేసిన సౌదీ అరేబియా",
-   "p": "రియాద్ ప్రాంతాన్ని లక్ష్యంగా చేసుకుని హౌతీలు ప్రయోగించిన క్రూయిజ్ క్షిపణిని, ఒక డ్రోన్‌ను రెండు వేర్వేరు ఘటనల్లో సౌదీ అరేబియా అడ్డుకుని ధ్వంసం చేసింది. లక్ష్యాన్ని చేరకముందే క్షిపణిని కూల్చివేశామని యెమెన్ సంకీర్ణ దళాల ప్రతినిధి మేజర్ జనరల్ తుర్కీ అల్-మాలికీ ప్రకటించారు. హౌతీలు, యెమెన్ ప్రభుత్వం మధ్య 2022 సంధి జూలైలో కుప్పకూలింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/riyadh-targeted-twice-as-saudi-arabia-intercepts-houthi-threats-3571192",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "డ్రోన్ కూల్చివేతను నవంబర్ 6న ప్రకటించిన సంకీర్ణం",
-    "సౌదీపై నావికా దిగ్బంధనం ప్రకటించిన హౌతీలు",
-    "చమురు ట్యాంకర్లు, ఇంధన కేంద్రాలపై మళ్లీ దాడులు"
-   ],
-   "why": "సౌదీ అరేబియాలో పనిచేస్తున్న భారతీయులు, తెలుగు కుటుంబాలకు అక్కడి భద్రతా పరిస్థితి ముఖ్యం.",
-   "en": {
-    "h": "Houthi missile, drone aimed at Riyadh: Saudi Arabia shoots them down",
-    "p": "Saudi Arabia intercepted and destroyed a Houthi cruise missile and a drone targeting the Riyadh region in two separate incidents. Yemen coalition spokesman Major General Turki al-Maliki said the missile was destroyed before it reached its target. The 2022 truce between the Houthis and Yemen's government collapsed in July.",
-    "pts": [
-     "Coalition announced the drone interception on November 6",
-     "Houthis declared a naval blockade on Saudi Arabia",
-     "Attacks on oil tankers and energy sites resumed"
-    ],
-    "why": "The security situation there matters to Indians and Telugu families working in Saudi Arabia.",
-    "cat": "World · Gulf",
-    "statl": "Houthi missile and drone aimed at Riyadh"
-   },
-   "hi": {
-    "h": "रियाद को निशाना बनाकर हूती मिसाइल और ड्रोन: सऊदी अरब ने मार गिराए",
-    "p": "सऊदी अरब ने रियाद क्षेत्र को निशाना बनाकर छोड़ी गई हूती क्रूज़ मिसाइल और एक ड्रोन को दो अलग-अलग घटनाओं में रोककर नष्ट कर दिया। यमन गठबंधन के प्रवक्ता मेजर जनरल तुर्की अल-मालिकी ने कहा कि मिसाइल को लक्ष्य तक पहुँचने से पहले नष्ट कर दिया गया। हूतियों और यमन सरकार के बीच 2022 का संघर्षविराम जुलाई में टूट गया था।",
-    "pts": [
-     "गठबंधन ने 6 नवंबर को ड्रोन गिराने की घोषणा की",
-     "हूतियों ने सऊदी अरब पर नौसैनिक नाकेबंदी घोषित की",
-     "तेल टैंकरों और ऊर्जा ठिकानों पर फिर हमले"
-    ],
-    "why": "सऊदी अरब में काम कर रहे भारतीयों और तेलुगु परिवारों के लिए वहाँ की सुरक्षा स्थिति अहम है।",
-    "cat": "विश्व · खाड़ी",
-    "statl": "रियाद की ओर हूती मिसाइल और ड्रोन"
-   },
-   "d": "07.11.2026",
-   "t": "14:35"
-  },
-  {
    "cat": "నివాళి · లద్నూరు",
    "col": "--c-power",
    "art": "land",
@@ -1780,104 +1878,6 @@
    "img": "photos/2026-11-07-rammurthy-sir-ladnur.jpg",
    "imgfy": 0.15,
    "local": true
-  },
-  {
-   "cat": "క్రీడలు · క్రికెట్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "135",
-   "statl": "భారత్ లక్ష్యం – వెల్లింగ్టన్ రెండో వన్డే",
-   "h": "రెండో వన్డే: కివీస్ 134కే ఆలౌట్; గుర్నూర్ బ్రార్‌కు 4 వికెట్లు",
-   "p": "వెల్లింగ్టన్‌లో జరుగుతున్న రెండో వన్డేలో భారత బౌలర్లు అదరగొట్టారు. వర్షం కారణంగా ఆలస్యంగా మొదలైన 47 ఓవర్ల మ్యాచ్‌లో న్యూజిలాండ్ 41 ఓవర్లలో 134 పరుగులకే ఆలౌటైంది. గుర్నూర్ బ్రార్ 30 పరుగులకు 4 వికెట్లు తీశాడు. 135 పరుగుల లక్ష్య ఛేదనలో భారత్ 17 ఓవర్లకు 4 వికెట్లకు 71 పరుగులు చేసింది. గిల్, కోహ్లీ, రోహిత్ త్వరగా ఔటయ్యారు.",
-   "src": "India.com",
-   "url": "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-2nd-odi-match-7-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-hnry-stadium-wellington-8542833",
-   "sec": [
-    "sports",
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "న్యూజిలాండ్ 41 ఓవర్లలో 134 ఆలౌట్",
-    "గుర్నూర్ బ్రార్ 10 ఓవర్లలో 4/30",
-    "డారిల్ మిచెల్ 104 బంతుల్లో 55 పరుగులు"
-   ],
-   "why": "ఐదు వన్డేల సిరీస్‌లో భారత్ ఇప్పటికే 1-0 ఆధిక్యంలో ఉంది; ఈ మ్యాచ్ గెలిస్తే ఆధిక్యం 2-0 అవుతుంది.",
-   "d": "07.11.2026",
-   "t": "14:05",
-   "en": {
-    "h": "2nd ODI: New Zealand all out for 134; Gurnoor Brar takes 4",
-    "p": "Indian bowlers dominated the second ODI in Wellington. In a 47-over match that began late due to rain, New Zealand were bowled out for 134 in 41 overs. Gurnoor Brar took 4 wickets for 30 runs. Chasing 135, India were 71 for 4 after 17 overs. Gill, Kohli and Rohit were dismissed early.",
-    "pts": [
-     "New Zealand all out for 134 in 41 overs",
-     "Gurnoor Brar 4/30 in 10 overs",
-     "Daryl Mitchell scored 55 off 104 balls"
-    ],
-    "why": "India already lead the five-match series 1-0; a win here would make it 2-0.",
-    "cat": "Sports · Cricket",
-    "statl": "India's target – 2nd ODI, Wellington"
-   },
-   "hi": {
-    "h": "दूसरा वनडे: न्यूज़ीलैंड 134 पर ऑलआउट; गुरनूर बराड़ को 4 विकेट",
-    "p": "वेलिंगटन में चल रहे दूसरे वनडे में भारतीय गेंदबाज़ों ने कमाल किया। बारिश के कारण देर से शुरू हुए 47 ओवर के मैच में न्यूज़ीलैंड 41 ओवर में 134 रन पर ऑलआउट हो गया। गुरनूर बराड़ ने 30 रन देकर 4 विकेट लिए। 135 रन के लक्ष्य का पीछा करते हुए भारत ने 17 ओवर में 4 विकेट पर 71 रन बनाए। गिल, कोहली और रोहित जल्दी आउट हो गए।",
-    "pts": [
-     "न्यूज़ीलैंड 41 ओवर में 134 पर ऑलआउट",
-     "गुरनूर बराड़ 10 ओवर में 4/30",
-     "डेरिल मिचेल ने 104 गेंदों में 55 रन बनाए"
-    ],
-    "why": "पाँच वनडे की सीरीज़ में भारत पहले से 1-0 से आगे है; यह मैच जीतने पर बढ़त 2-0 हो जाएगी।",
-    "cat": "खेल · क्रिकेट",
-    "statl": "भारत का लक्ष्य – वेलिंगटन दूसरा वनडे"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · కోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "98 ఏళ్లు",
-   "statl": "పిటిషన్ వేసిన భూయజమాని వయసు",
-   "h": "ఫామ్‌హౌస్ కూల్చివేత: హైడ్రా అధికారులకు హైకోర్టు ధిక్కార నోటీసులు",
-   "p": "సంగారెడ్డి జిల్లా ఐలాపూర్ గ్రామంలో ఫామ్‌హౌస్ కూల్చివేతపై దాఖలైన కోర్టు ధిక్కార పిటిషన్‌లో తెలంగాణ హైకోర్టు హైడ్రా కమిషనర్ సహా అధికారులకు నోటీసులు జారీ చేసింది. 2024 సెప్టెంబర్ 25 నాటి మధ్యంతర ఉత్తర్వులు ఉన్నా, 2026 ఏప్రిల్ 11న కట్టడాలను కూల్చారని 98 ఏళ్ల భూయజమాని ఆరోపించారు. అధికారులు స్పందన దాఖలు చేయకపోవడంతో నోటీసులు ఇచ్చారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-hc-seeks-response-from-hydraa-officials-in-contempt-plea-over-farmhouse-demolition",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "loc": "ఐలాపూర్",
-   "pts": [
-    "జస్టిస్ సి.వి. భాస్కర్ రెడ్డి ఫారం-1 నోటీసులు జారీ",
-    "హైడ్రా కమిషనర్, కలెక్టర్, అమీన్‌పూర్ అధికారులు ప్రతివాదులు",
-    "2026 ఏప్రిల్ 11న కూల్చివేత జరిగిందని ఆరోపణ"
-   ],
-   "why": "కోర్టు ఉత్తర్వులు ఉన్నప్పుడు కూల్చివేతలపై అధికారుల జవాబుదారీతనాన్ని ఈ కేసు పరీక్షిస్తోంది.",
-   "d": "07.11.2026",
-   "t": "14:05",
-   "en": {
-    "h": "Farmhouse demolition: High Court issues contempt notices to HYDRAA officials",
-    "p": "In a contempt petition over a farmhouse demolition at Ailapur village in Sangareddy district, the Telangana High Court issued notices to officials including the HYDRAA Commissioner. A 98-year-old landowner alleged the structures were demolished on April 11, 2026, despite an interim order of September 25, 2024. Notices were issued as the officials had not filed responses.",
-    "pts": [
-     "Justice C.V. Bhaskar Reddy issued Form-I notices",
-     "HYDRAA Commissioner, Collector, Ameenpur officials are respondents",
-     "Demolition allegedly carried out on April 11, 2026"
-    ],
-    "why": "The case tests officials' accountability for demolitions while court orders are in force.",
-    "cat": "Telangana · Court",
-    "statl": "Age of the petitioning landowner"
-   },
-   "hi": {
-    "h": "फार्महाउस तोड़फोड़: हाईकोर्ट ने HYDRAA अधिकारियों को अवमानना नोटिस भेजे",
-    "p": "संगारेड्डी ज़िले के ऐलापुर गाँव में फार्महाउस गिराए जाने पर दायर अवमानना याचिका में तेलंगाना हाईकोर्ट ने HYDRAA कमिश्नर समेत अधिकारियों को नोटिस जारी किए। 98 वर्षीय भूस्वामी ने आरोप लगाया कि 25 सितंबर 2024 के अंतरिम आदेश के बावजूद 11 अप्रैल 2026 को ढाँचे गिरा दिए गए। अधिकारियों ने जवाब दाखिल नहीं किया, इसलिए नोटिस जारी हुए।",
-    "pts": [
-     "जस्टिस सी.वी. भास्कर रेड्डी ने फॉर्म-I नोटिस जारी किए",
-     "HYDRAA कमिश्नर, कलेक्टर, अमीनपुर अधिकारी प्रतिवादी",
-     "11 अप्रैल 2026 को तोड़फोड़ का आरोप"
-    ],
-    "why": "यह मामला अदालती आदेश लागू रहते तोड़फोड़ पर अधिकारियों की जवाबदेही की परीक्षा है।",
-    "cat": "तेलंगाना · अदालत",
-    "statl": "याचिका दायर करने वाले भूस्वामी की उम्र"
-   }
   }
  ]
 }

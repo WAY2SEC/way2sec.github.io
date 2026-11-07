@@ -1,8 +1,154 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 85,
+ "count": 88,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వినియోగదారులు",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹1,200",
+   "statl": "5 లీటర్ల వంటనూనె ధర (ఎంఆర్‌పీ)",
+   "h": "నిత్యావసర ధరల నియంత్రణ కమిటీలు వేయాలని ప్రభుత్వానికి సీసీఐ విజ్ఞప్తి",
+   "p": "నిత్యావసర సరుకుల ధరలు పెరుగుతున్నందున వెంటనే ధరల నియంత్రణ కమిటీలు ఏర్పాటు చేయాలని కన్స్యూమర్ కాన్ఫెడరేషన్ ఆఫ్ ఇండియా (సీసీఐ) రాష్ట్ర ప్రభుత్వాన్ని కోరింది. హనుమకొండలో జరిగిన వినియోగదారుల అవగాహన కార్యక్రమంలో జాతీయ ఉపాధ్యక్షుడు డాక్టర్ పల్లెపాడు దామోదర్ మాట్లాడుతూ, పండుగ సీజన్‌కు ముందు వంటనూనె, బియ్యం, పప్పుల ధరలు బాగా పెరిగాయని, వ్యాపారులు కృత్రిమ కొరత సృష్టిస్తున్నారని ఆరోపించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/cci-urges-telangana-government-to-establish-price-control-committees",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "హనుమకొండ",
+   "pts": [
+    "జిల్లా, రాష్ట్ర స్థాయిలో వినియోగదారుల ప్రతినిధులతో కమిటీలు",
+    "25 కిలోల బియ్యం ₹1,900, కిలో కందిపప్పు ₹120",
+    "అన్ని జిల్లాల్లో ‘యాంటీబయాటిక్స్ ఆఫ్ ద మెనూ’ ప్రచారం"
+   ],
+   "why": "పెరుగుతున్న నిత్యావసర ధరలు రాష్ట్రంలోని ప్రతి కుటుంబ బడ్జెట్‌పై ప్రభావం చూపుతాయి.",
+   "en": {
+    "h": "CCI urges Telangana to set up price control committees",
+    "p": "The Consumer Confederation of India (CCI) has asked the State government to immediately set up price control committees as essential commodity prices rise. Speaking at a consumer awareness programme in Hanamkonda, national vice-president Dr. Pallepadu Damodar said cooking oil, rice and pulses had risen sharply ahead of the festive season, and alleged that traders were creating artificial shortages.",
+    "pts": [
+     "Committees with consumer representatives at district and State levels",
+     "25 kg rice at ₹1,900, 1 kg tur dal at ₹120",
+     "'Antibiotics off the Menu' campaign in all districts"
+    ],
+    "why": "Rising prices of essentials affect the budget of every household in the State.",
+    "cat": "Telangana · Consumers",
+    "statl": "Price of 5 litres of cooking oil (MRP)"
+   },
+   "hi": {
+    "h": "सीसीआई ने तेलंगाना सरकार से मूल्य नियंत्रण समितियां बनाने की मांग की",
+    "p": "आवश्यक वस्तुओं की बढ़ती कीमतों को देखते हुए कंज्यूमर कॉन्फेडरेशन ऑफ इंडिया (सीसीआई) ने राज्य सरकार से तुरंत मूल्य नियंत्रण समितियां बनाने की मांग की है। हनमकोंडा में उपभोक्ता जागरूकता कार्यक्रम में राष्ट्रीय उपाध्यक्ष डॉ. पल्लेपाडु दामोदर ने कहा कि त्योहारी सीजन से पहले खाने का तेल, चावल और दालें काफी महंगी हुई हैं और आरोप लगाया कि व्यापारी कृत्रिम कमी पैदा कर रहे हैं।",
+    "pts": [
+     "जिला और राज्य स्तर पर उपभोक्ता प्रतिनिधियों वाली समितियां",
+     "25 किलो चावल ₹1,900, 1 किलो अरहर दाल ₹120",
+     "सभी जिलों में 'एंटीबायोटिक्स ऑफ द मेन्यू' अभियान"
+    ],
+    "why": "जरूरी चीजों की बढ़ती कीमतें राज्य के हर परिवार के बजट पर असर डालती हैं।",
+    "cat": "तेलंगाना · उपभोक्ता",
+    "statl": "5 लीटर खाने के तेल की कीमत (एमआरपी)"
+   },
+   "d": "07.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "ఏపీ · రాజకీయాలు",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "నవం. 11",
+   "statl": "కొత్త పార్టీ ప్రారంభ తేదీ",
+   "h": "నవంబర్ 11న విజయసాయిరెడ్డి కొత్త రాజకీయ పార్టీ",
+   "p": "వైఎస్సార్‌సీపీ మాజీ రాజ్యసభ సభ్యుడు వి. విజయసాయిరెడ్డి నవంబర్ 11న కొత్త రాజకీయ పార్టీని ప్రారంభిస్తానని ప్రకటించారు. అధికార టీడీపీ, ప్రతిపక్ష వైఎస్సార్‌సీపీ రెండింటిపైనా ప్రజలు నిరాశలో ఉన్నారని, రాష్ట్రంలో రాజకీయ శూన్యత ఉందని ఆయన అన్నారు. దేశభక్తి, ప్రజా సంక్షేమం, ఏపీ ప్రయోజనాల పరిరక్షణే పార్టీ లక్ష్యమని పీటీఐకి తెలిపారు.",
+   "src": "PTI, Telangana Today",
+   "url": "https://telanganatoday.com/new-political-party-to-be-launched-by-vijaysai-reddy-on-november-11",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఒకప్పుడు జగన్‌కు సన్నిహితుడు, తర్వాత పార్టీకి దూరం",
+    "కేంద్రంలో ఏ పార్టీ ఉన్నా సమన్వయంతో పనిచేస్తామన్నారు",
+    "ప్రారంభ సమయం పురోహితుడు నిర్ణయించారని వెల్లడి"
+   ],
+   "why": "ఆంధ్రప్రదేశ్ రాజకీయాల్లో మరో కొత్త పార్టీ రంగంలోకి రానుంది.",
+   "en": {
+    "h": "Vijaysai Reddy to launch new political party on November 11",
+    "p": "Former YSRCP Rajya Sabha member V Vijaysai Reddy has announced he will launch a new political party on November 11. He said people are disillusioned with both the ruling TDP and the opposition YSRCP, leaving a political vacuum in the State. He told PTI the party would be guided by patriotism, public welfare and protecting Andhra Pradesh's interests.",
+    "pts": [
+     "Once close to Jagan, later parted ways with the party",
+     "Says party will coordinate with whoever rules at the Centre",
+     "Says a priest fixed the launch time"
+    ],
+    "why": "Another new party is set to enter Andhra Pradesh politics.",
+    "cat": "AP · Politics",
+    "statl": "New party launch date"
+   },
+   "hi": {
+    "h": "विजयसाई रेड्डी 11 नवंबर को नई राजनीतिक पार्टी शुरू करेंगे",
+    "p": "वाईएसआरसीपी के पूर्व राज्यसभा सदस्य वी. विजयसाई रेड्डी ने घोषणा की है कि वे 11 नवंबर को नई राजनीतिक पार्टी शुरू करेंगे। उन्होंने कहा कि लोग सत्तारूढ़ टीडीपी और विपक्षी वाईएसआरसीपी दोनों से निराश हैं और राज्य में राजनीतिक शून्य है। उन्होंने पीटीआई से कहा कि पार्टी देशभक्ति, जनकल्याण और आंध्र प्रदेश के हितों की रक्षा पर चलेगी।",
+    "pts": [
+     "कभी जगन के करीबी, बाद में पार्टी से अलग हुए",
+     "केंद्र में किसी भी दल की सरकार से तालमेल की बात",
+     "लॉन्च का समय पुजारी ने तय किया, उन्होंने बताया"
+    ],
+    "why": "आंध्र प्रदेश की राजनीति में एक और नई पार्टी आने वाली है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "नई पार्टी लॉन्च की तारीख"
+   },
+   "d": "07.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "98.36%",
+   "statl": "ఎస్ఐఆర్ కేసుల్లో పత్రాలు/విచారణ పూర్తి",
+   "h": "హైదరాబాద్‌లో 8 నియోజకవర్గాల్లో ఎస్ఐఆర్ విచారణలు పూర్తి; గోషామహల్‌లో అత్యధిక పెండింగ్",
+   "p": "ఓటర్ల జాబితా ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్) విచారణల్లో హైదరాబాద్ జిల్లాలోని 15 నియోజకవర్గాల్లో 8 చోట్ల ఒక్కటీ పెండింగ్ లేదు. జీహెచ్ఎంసీ కమిషనర్, జిల్లా ఎన్నికల అధికారి ఆర్.వి. కర్ణన్ శనివారం అఖిలపక్ష సమావేశంలో ఈ నివేదిక విడుదల చేశారు. గోషామహల్‌లో 8,720, సికింద్రాబాద్ కంటోన్మెంట్‌లో 6,918 విచారణలు ఇంకా మిగిలి ఉన్నాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/blos-clear-sir-hearings-in-8-hyderabad-assembly-segments-goshamahal-tops-pending-cases",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మొత్తం 12,54,917 నోటీసులు, 99.96% పంపిణీ",
+    "20,559 కేసులు ఇంకా విచారణ కోసం వేచి ఉన్నాయి",
+    "ముషీరాబాద్, చార్మినార్, జూబ్లీహిల్స్ సహా 8 చోట్ల పెండింగ్ సున్నా"
+   ],
+   "why": "నోటీసులు అందుకున్న హైదరాబాద్ ఓటర్లు పేరు జాబితాలో ఉండేందుకు విచారణకు హాజరుకావాలి.",
+   "en": {
+    "h": "SIR hearings cleared in 8 Hyderabad segments; Goshamahal has most pending",
+    "p": "Eight of Hyderabad district's 15 Assembly constituencies have no pending hearings in the Special Intensive Revision (SIR) of electoral rolls. GHMC Commissioner and District Election Officer RV Karnan released the report at an all-party meeting on Saturday. Goshamahal has 8,720 and Secunderabad Cantonment 6,918 hearings still pending.",
+    "pts": [
+     "12,54,917 notices in all, 99.96% distributed",
+     "20,559 cases still awaiting hearings",
+     "Zero pending in 8 including Musheerabad, Charminar, Jubilee Hills"
+    ],
+    "why": "Hyderabad voters who received notices must attend hearings to stay on the rolls.",
+    "cat": "Hyderabad · Voter rolls",
+    "statl": "SIR cases with documents/hearings done"
+   },
+   "hi": {
+    "h": "हैदराबाद के 8 क्षेत्रों में एसआईआर सुनवाई पूरी; गोशामहल में सबसे ज्यादा लंबित",
+    "p": "मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की सुनवाई में हैदराबाद जिले के 15 विधानसभा क्षेत्रों में से 8 में कोई मामला लंबित नहीं है। जीएचएमसी आयुक्त और जिला निर्वाचन अधिकारी आर.वी. कर्णन ने शनिवार को सर्वदलीय बैठक में यह रिपोर्ट जारी की। गोशामहल में 8,720 और सिकंदराबाद कैंटोनमेंट में 6,918 सुनवाइयां अभी बाकी हैं।",
+    "pts": [
+     "कुल 12,54,917 नोटिस, 99.96% बांटे गए",
+     "20,559 मामले अब भी सुनवाई के इंतजार में",
+     "मुशीराबाद, चारमीनार, जुबली हिल्स समेत 8 में शून्य लंबित"
+    ],
+    "why": "नोटिस पाने वाले हैदराबाद के मतदाताओं को सूची में नाम बनाए रखने के लिए सुनवाई में जाना होगा।",
+    "cat": "हैदराबाद · मतदाता सूची",
+    "statl": "एसआईआर मामलों में दस्तावेज/सुनवाई पूरी"
+   },
+   "d": "07.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "తెలంగాణ · ఎన్నికలు",
    "col": "--c-election",
