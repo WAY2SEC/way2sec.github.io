@@ -1280,6 +1280,11 @@ $('installGo').onclick = async () => {
 };
 $('installNo').onclick = () => { $('installBar').hidden = true; store.set('installNo', Date.now()); };
 $('howOk').onclick = () => { $('howTo').hidden = true; };
+// shared install link (way2sec.news/?install=1): show the add-to-home-screen bar and steps right away
+if(new URLSearchParams(location.search).get('install')==='1' && !standalone){
+  setTimeout(()=>{ $('installBar').hidden=false; if(!deferredPrompt && (isIOS||inApp)) $('installGo').click(); }, 1200);
+  try{ if(window.gtag) gtag('event','install_link_open',{}); }catch(e){}
+}
 // iPhone and in-app browsers never fire the install event, so offer the steps there after a few seconds
 setTimeout(() => { if(!deferredPrompt && (isIOS || inApp)) showInstall(); }, 3000);
 
