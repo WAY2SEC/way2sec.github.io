@@ -1,8 +1,202 @@
 {
- "date": "06.11.2026",
- "updated": "2026-11-06T21:13:08+05:30",
+ "date": "07.11.2026",
+ "updated": "2026-11-07T06:40:53+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "8:30–11",
+   "statl": "ఉదయం రద్దీ సమయం – ఈ మార్గం వద్దు",
+   "h": "స్టీల్ ఫ్లైఓవర్ పనులు: బంజారాహిల్స్ రోడ్ నం.2 వైపు వెళ్లొద్దని సూచన",
+   "p": "జూబ్లీ చెక్‌పోస్ట్ నుంచి ఎన్టీఆర్ భవన్ మీదుగా ఎన్‌ఎఫ్‌సీఎల్ వరకు స్టీల్ ఫ్లైఓవర్ నిర్మాణం వల్ల రాబోయే నెలల్లో ఎన్‌ఎఫ్‌సీఎల్, కేబీఆర్ పార్క్ గేట్-1, జూబ్లీహిల్స్ చెక్‌పోస్ట్ మధ్య ట్రాఫిక్ రద్దీ ఉంటుంది. బంజారాహిల్స్ రోడ్ నం.2 మార్గాన్ని వాహనదారులు తప్పించుకోవాలని సూచించారు. అవసరాన్ని బట్టి మాత్రమే మళ్లింపులు అమలు చేస్తారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/steel-flyover-construction-to-cause-traffic-jam-at-banjara-hills-3570899/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బంజారాహిల్స్",
+   "pts": [
+    "ప్రత్యామ్నాయం: రోడ్ నం.1, 1/10 జంక్షన్, రోడ్ నం.10, రోడ్ నం.12",
+    "ఉదయం 8:30–11, సాయంత్రం 5–9 గంటల మధ్య ఈ దారి వద్దు",
+    "హెల్ప్‌లైన్: 9010203626"
+   ],
+   "why": "బంజారాహిల్స్, జూబ్లీహిల్స్ మీదుగా రోజూ ప్రయాణించే వేలాది మంది తమ మార్గాన్ని ముందుగా ప్లాన్ చేసుకోవాలి.",
+   "d": "07.11.2026",
+   "t": "06:35",
+   "en": {
+    "h": "Steel flyover work: avoid Banjara Hills Road No. 2, commuters told",
+    "p": "Construction of the steel flyover from Jubilee Check Post to NFCL via NTR Bhavan will cause traffic congestion in the coming months between NFCL, KBR Park Gate-1 and Jubilee Hills Check Post. Commuters have been advised to avoid the Banjara Hills Road No. 2 route. Diversions will be used only when needed.",
+    "pts": [
+     "Alternatives: Road No. 1, 1/10 Junction, Road No. 10, Road No. 12",
+     "Avoid the route 8:30–11 am and 5–9 pm",
+     "Helpline: 9010203626"
+    ],
+    "why": "Thousands who travel daily through Banjara Hills and Jubilee Hills should plan their route in advance.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Morning peak hours – avoid this route"
+   },
+   "hi": {
+    "h": "स्टील फ्लाईओवर का काम: बंजारा हिल्स रोड नंबर 2 से बचने की सलाह",
+    "p": "जुबली चेकपोस्ट से एनटीआर भवन होते हुए एनएफसीएल तक स्टील फ्लाईओवर के निर्माण से आने वाले महीनों में एनएफसीएल, केबीआर पार्क गेट-1 और जुबली हिल्स चेकपोस्ट के बीच ट्रैफिक जाम रहेगा। वाहन चालकों को बंजारा हिल्स रोड नंबर 2 के रास्ते से बचने की सलाह दी गई है। जरूरत के हिसाब से ही डायवर्जन लागू होंगे।",
+    "pts": [
+     "विकल्प: रोड नंबर 1, 1/10 जंक्शन, रोड नंबर 10, रोड नंबर 12",
+     "सुबह 8:30–11 और शाम 5–9 बजे यह रास्ता न लें",
+     "हेल्पलाइन: 9010203626"
+    ],
+    "why": "बंजारा हिल्स और जुबली हिल्स से रोज गुजरने वाले हजारों लोगों को पहले से रास्ता तय करना चाहिए।",
+    "cat": "हैदराबाद · ट्रैफिक",
+    "statl": "सुबह की भीड़ का समय – यह रास्ता न लें"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · పశ్చిమాసియా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "25 ఏళ్లు",
+   "statl": "ఇరాన్ పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
+   "h": "‘పర్ఫెక్ట్ సమయం కోసం ఆగొద్దు’: అమెరికా–ఇరాన్ ఒప్పందానికి ఖతార్ పిలుపు",
+   "p": "యుద్ధం ముగించే శాంతి ఒప్పందం కోసం సరైన సమయం వచ్చేదాకా ఎదురుచూడొద్దని ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ అమెరికా, ఇరాన్‌లను కోరారు. ఆక్స్‌ఫర్డ్ విశ్వవిద్యాలయంలో ఆయన మాట్లాడారు. ఇరాన్ ప్రతినిధులతో తమ ప్రభుత్వం సంప్రదింపులు జరుపుతోందని, చర్చలు బాగా సాగుతున్నాయని అమెరికా అధ్యక్షుడు ట్రంప్ ధ్రువీకరించారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/world/middle-east/cant-wait-for-perfect-moment-qatari-pm-urges-us-iran-peace-deal-as-trump-confirms-talks-says-doing-well20261107033409/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మళ్లీ సైనిక చర్యలపై నిర్ణయం దగ్గర్లోనే ఉందన్న ట్రంప్",
+    "జాతీయ భద్రతా బృందంతో గురువారం ట్రంప్ సమావేశం",
+    "ఇరాన్ పునర్నిర్మాణానికి 25 ఏళ్లు పడుతుందని వ్యాఖ్య"
+   ],
+   "why": "ఈ యుద్ధం గల్ఫ్‌లో పనిచేస్తున్న తెలుగు వారి భద్రతపై, చమురు ధరలపై ప్రభావం చూపుతుంది.",
+   "d": "07.11.2026",
+   "t": "06:35",
+   "en": {
+    "h": "'Don't wait for the perfect moment': Qatar urges US–Iran peace deal",
+    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the US and Iran not to wait for the right moment to reach a peace deal ending the war. He was speaking at Oxford University. US President Trump confirmed his administration is in contact with Iranian representatives and said the talks are going very well.",
+    "pts": [
+     "Trump said a decision on resuming military action is near",
+     "Trump met his national security team on Thursday",
+     "He said rebuilding Iran would take 25 years"
+    ],
+    "why": "The war affects the safety of Telugu people working in the Gulf and oil prices.",
+    "cat": "World · West Asia",
+    "statl": "Time Trump says Iran's rebuilding would take"
+   },
+   "hi": {
+    "h": "'परफेक्ट समय का इंतजार न करें': कतर की अमेरिका–ईरान शांति समझौते की अपील",
+    "p": "कतर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी ने अमेरिका और ईरान से युद्ध खत्म करने वाले शांति समझौते के लिए सही समय का इंतजार न करने को कहा। वे ऑक्सफोर्ड विश्वविद्यालय में बोल रहे थे। अमेरिकी राष्ट्रपति ट्रंप ने पुष्टि की कि उनकी सरकार ईरानी प्रतिनिधियों के संपर्क में है और बातचीत बहुत अच्छी चल रही है।",
+    "pts": [
+     "ट्रंप ने कहा, फिर सैन्य कार्रवाई पर फैसला करीब",
+     "ट्रंप ने गुरुवार को राष्ट्रीय सुरक्षा टीम से बैठक की",
+     "उन्होंने कहा, ईरान के पुनर्निर्माण में 25 साल लगेंगे"
+    ],
+    "why": "यह युद्ध खाड़ी में काम कर रहे तेलुगु लोगों की सुरक्षा और तेल कीमतों को प्रभावित करता है।",
+    "cat": "दुनिया · पश्चिम एशिया",
+    "statl": "ट्रंप के अनुसार ईरान के पुनर्निर्माण का समय"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "అక్టో. 21",
+   "statl": "నుంచి నిరవధిక నిరాహార దీక్ష",
+   "h": "ఎన్‌సీఏహెచ్‌పీ గుర్తింపు కోసం మనూ విద్యార్థుల నిరాహార దీక్ష",
+   "p": "హైదరాబాద్‌లోని మౌలానా ఆజాద్ నేషనల్ ఉర్దూ యూనివర్సిటీ (మనూ) వృత్తి విద్యా కోర్సుల విద్యార్థులు అక్టోబర్ 21 నుంచి పరిపాలనా భవనం ఎదుట నిరవధిక నిరాహార దీక్ష చేస్తున్నారు. తమ బీవోక్, ఎంవోక్ డిగ్రీలకు నేషనల్ కమిషన్ ఫర్ అలైడ్ అండ్ హెల్త్‌కేర్ ప్రొఫెషన్స్ (ఎన్‌సీఏహెచ్‌పీ) గుర్తింపు ఇవ్వాలని డిమాండ్ చేస్తున్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/manuu-students-on-hunger-strike-demanding-ncahp-recognition-3570943/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ఢిల్లీలో ఎన్‌సీఏహెచ్‌పీ అధికారులను కలిసినా స్పష్టత రాలేదు",
+    "కేంద్రం, యూజీసీ, విద్యా శాఖ జోక్యం చేసుకోవాలని విజ్ఞప్తి",
+    "కోర్సులు నిబంధనల ప్రకారమే ఉన్నాయంటున్న విద్యార్థులు"
+   ],
+   "why": "గుర్తింపుపై స్పష్టత లేకపోతే వందలాది విద్యార్థుల ఉద్యోగ అవకాశాలు ప్రమాదంలో పడతాయి.",
+   "d": "07.11.2026",
+   "t": "06:35",
+   "en": {
+    "h": "MANUU students on hunger strike seeking NCAHP recognition",
+    "p": "Vocational course students of Maulana Azad National Urdu University (MANUU) in Hyderabad have been on an indefinite hunger strike in front of the administrative building since October 21. They demand that their BVoc and MVoc degrees be recognised by the National Commission for Allied and Healthcare Professions (NCAHP).",
+    "pts": [
+     "No clarity despite meeting NCAHP officials in Delhi",
+     "They urged the Centre, UGC and Education Ministry to intervene",
+     "Students say the courses follow prescribed norms"
+    ],
+    "why": "Without clarity on recognition, the job prospects of hundreds of students are at risk.",
+    "cat": "Hyderabad · Education",
+    "statl": "Indefinite hunger strike since"
+   },
+   "hi": {
+    "h": "एनसीएएचपी मान्यता के लिए मानू छात्रों की भूख हड़ताल",
+    "p": "हैदराबाद की मौलाना आजाद नेशनल उर्दू यूनिवर्सिटी (मानू) के व्यावसायिक पाठ्यक्रमों के छात्र 21 अक्टूबर से प्रशासनिक भवन के सामने अनिश्चितकालीन भूख हड़ताल पर हैं। वे मांग कर रहे हैं कि उनकी बीवोक और एमवोक डिग्रियों को नेशनल कमीशन फॉर अलाइड एंड हेल्थकेयर प्रोफेशंस (एनसीएएचपी) की मान्यता मिले।",
+    "pts": [
+     "दिल्ली में एनसीएएचपी अधिकारियों से मिलने पर भी स्पष्टता नहीं",
+     "केंद्र, यूजीसी और शिक्षा मंत्रालय से दखल की अपील",
+     "छात्रों का कहना, पाठ्यक्रम तय नियमों के अनुसार हैं"
+    ],
+    "why": "मान्यता पर स्पष्टता न होने से सैकड़ों छात्रों के रोजगार के अवसर खतरे में हैं।",
+    "cat": "हैदराबाद · शिक्षा",
+    "statl": "से अनिश्चितकालीन भूख हड़ताल"
+   }
+  },
+  {
+   "cat": "భారత్ · క్రికెట్",
+   "col": "--c-money",
+   "art": "unity",
+   "stat": "1-0",
+   "statl": "సిరీస్‌లో భారత్ ఆధిక్యం",
+   "h": "నేడు వెల్లింగ్టన్‌లో భారత్–న్యూజిలాండ్ రెండో వన్డే",
+   "p": "న్యూజిలాండ్‌తో వన్డే సిరీస్‌లో 1-0 ఆధిక్యంలో ఉన్న భారత్ శనివారం వెల్లింగ్టన్‌లోని హనీ స్టేడియంలో రెండో మ్యాచ్ ఆడుతోంది. భారత కాలమానం ప్రకారం ఉదయం 7:30కి మ్యాచ్ మొదలవుతుంది. ఆక్లాండ్‌లో జరిగిన తొలి వన్డేలో న్యూజిలాండ్‌ను 185 పరుగులకే ఆలౌట్ చేసిన భారత్, డీఎల్‌ఎస్ లక్ష్యాన్ని ఛేదించి 5 వికెట్ల తేడాతో గెలిచింది.",
+   "src": "VAVEL",
+   "url": "https://www.vavel.com/en/cricket/2026/11/07/1278283-new-zealand-vs-india-live-score-2nd-odi-cricket.html",
+   "sec": [
+    "sports"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "భారత కెప్టెన్ శుభ్‌మన్ గిల్; కివీస్ కెప్టెన్ మిచెల్ శాంట్నర్",
+    "తొలి వన్డేలో 22.4 ఓవర్లలో 143/5తో భారత్ విజయం",
+    "నేడు గెలిస్తే సిరీస్‌లో భారత్ 2-0 ఆధిక్యం"
+   ],
+   "why": "ఈ మ్యాచ్ గెలిస్తే సిరీస్‌పై భారత్ పట్టు మరింత బలపడుతుంది.",
+   "d": "07.11.2026",
+   "t": "06:35",
+   "en": {
+    "h": "India take on New Zealand in second ODI at Wellington today",
+    "p": "Leading the ODI series against New Zealand 1-0, India play the second match at Hnry Stadium, Wellington, on Saturday. The match starts at 7:30 am IST. In the first ODI at Auckland, India bowled New Zealand out for 185 and chased the DLS target to win by 5 wickets.",
+    "pts": [
+     "India captain Shubman Gill; New Zealand captain Mitchell Santner",
+     "India won the first ODI at 143/5 in 22.4 overs",
+     "A win today would give India a 2-0 series lead"
+    ],
+    "why": "A win in this match would strengthen India's grip on the series.",
+    "cat": "India · Cricket",
+    "statl": "India's lead in the series"
+   },
+   "hi": {
+    "h": "आज वेलिंगटन में भारत–न्यूजीलैंड दूसरा वनडे",
+    "p": "न्यूजीलैंड के खिलाफ वनडे सीरीज में 1-0 से आगे भारत शनिवार को वेलिंगटन के हनी स्टेडियम में दूसरा मैच खेल रहा है। मैच भारतीय समय के अनुसार सुबह 7:30 बजे शुरू होगा। ऑकलैंड में पहले वनडे में भारत ने न्यूजीलैंड को 185 रन पर ऑलआउट किया और डीएलएस लक्ष्य हासिल कर 5 विकेट से जीत दर्ज की।",
+    "pts": [
+     "भारत के कप्तान शुभमन गिल; न्यूजीलैंड के कप्तान मिचेल सैंटनर",
+     "पहले वनडे में भारत ने 22.4 ओवर में 143/5 बनाकर जीता",
+     "आज जीत से भारत को सीरीज में 2-0 की बढ़त मिलेगी"
+    ],
+    "why": "यह मैच जीतने से सीरीज पर भारत की पकड़ और मजबूत होगी।",
+    "cat": "भारत · क्रिकेट",
+    "statl": "सीरीज में भारत की बढ़त"
+   }
+  },
   {
    "cat": "ఏపీ · తుపాను సాయం",
    "col": "--c-gov",
@@ -1761,203 +1955,6 @@
    },
    "d": "06.11.2026",
    "t": "14:05"
-  },
-  {
-   "cat": "ఏపీ · మురసు తుపాను",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "₹1,918 కో.",
-   "statl": "తుపాను వల్ల ప్రాథమిక నష్టం",
-   "h": "మురసు తుపాను: ఏపీలో 8 మంది మృతి, ₹1,918.55 కోట్ల నష్టం",
-   "p": "మురసు తుపాను వల్ల ఆంధ్రప్రదేశ్‌లో ఎనిమిది మంది చనిపోయారని, సుమారు ₹1,918.55 కోట్ల నష్టం జరిగిందని అధికారుల ప్రాథమిక అంచనా. బాపట్లలో ఐదుగురు, గుంటూరులో ఇద్దరు, పల్నాడులో ఒకరు మరణించారు. 1,43,122 హెక్టార్లలో పంటలు దెబ్బతిని 1.86 లక్షల మంది రైతులు నష్టపోయారు. 983 ఇళ్లు, 346 పడవలు దెబ్బతిన్నాయి. తక్షణ సహాయానికి ప్రభుత్వం ₹37 కోట్లు విడుదల చేసింది.",
-   "pts": [
-    "బాపట్లలో 5, గుంటూరులో 2, పల్నాడులో 1 మరణం",
-    "1,43,122 హెక్టార్లలో పంట నష్టం; 1,86,063 రైతులపై ప్రభావం",
-    "తక్షణ సహాయానికి జిల్లాలకు ₹37 కోట్లు విడుదల"
-   ],
-   "why": "పంట నష్టపోయిన లక్షలాది రైతులకు పరిహారం, సహాయం ఈ అంచనాల ఆధారంగానే అందుతాయి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/andhra-cyclone-murasu-claimed-eight-lives-caused-rs-1918-crore-loss",
-   "sec": [
-    "telangana",
-    "agri",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "en": {
-    "h": "Cyclone Murasu: 8 dead, Rs 1,918.55 crore loss in Andhra Pradesh",
-    "p": "Cyclone Murasu killed eight people in Andhra Pradesh and caused an estimated loss of about Rs 1,918.55 crore, according to a preliminary assessment by officials. Five died in Bapatla, two in Guntur and one in Palnadu. Crops on 1,43,122 hectares were damaged, hitting 1.86 lakh farmers. 983 houses and 346 boats were damaged. The government released Rs 37 crore for immediate relief.",
-    "pts": [
-     "5 deaths in Bapatla, 2 in Guntur, 1 in Palnadu",
-     "Crops damaged on 1,43,122 hectares; 1,86,063 farmers hit",
-     "Rs 37 crore released to districts for immediate relief"
-    ],
-    "why": "Compensation and relief for lakhs of farmers who lost crops will be based on these assessments.",
-    "cat": "Andhra Pradesh · Cyclone Murasu",
-    "statl": "Preliminary cyclone loss"
-   },
-   "hi": {
-    "h": "चक्रवात मुरासु: आंध्र प्रदेश में 8 की मौत, ₹1,918.55 करोड़ का नुकसान",
-    "p": "अधिकारियों के प्रारंभिक आकलन के अनुसार चक्रवात मुरासु से आंध्र प्रदेश में आठ लोगों की मौत हुई और लगभग ₹1,918.55 करोड़ का नुकसान हुआ। बापटला में पांच, गुंटूर में दो और पलनाडु में एक व्यक्ति की मौत हुई। 1,43,122 हेक्टेयर में फसलें खराब हुईं, जिससे 1.86 लाख किसान प्रभावित हुए। 983 मकान और 346 नावें क्षतिग्रस्त हुईं। सरकार ने तत्काल राहत के लिए ₹37 करोड़ जारी किए।",
-    "pts": [
-     "बापटला में 5, गुंटूर में 2, पलनाडु में 1 मौत",
-     "1,43,122 हेक्टेयर फसल खराब; 1,86,063 किसान प्रभावित",
-     "तत्काल राहत के लिए जिलों को ₹37 करोड़ जारी"
-    ],
-    "why": "फसल गंवाने वाले लाखों किसानों को मुआवजा और राहत इन्हीं आकलनों के आधार पर मिलेगी।",
-    "cat": "आंध्र प्रदेश · चक्रवात मुरासु",
-    "statl": "चक्रवात से प्रारंभिक नुकसान"
-   },
-   "d": "06.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "భారత్ · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "113.7%",
-   "statl": "టైటాన్ నికర లాభంలో వృద్ధి",
-   "h": "టైటాన్ రెండో త్రైమాసిక లాభం రెట్టింపు; ₹2,393 కోట్లు",
-   "p": "జులై–సెప్టెంబర్ త్రైమాసికంలో టైటాన్ కంపెనీ ఏకీకృత నికర లాభం 113.7% పెరిగి ₹2,393 కోట్లకు చేరింది. ఇందులో పుట్ ఆప్షన్ బాధ్యతపై ₹671 కోట్ల ఫెయిర్ వాల్యూ లాభం కూడా ఉంది. ఆదాయం 10.1% పెరిగి ₹20,614 కోట్లు అయింది. ఆభరణాల విభాగం 24% వృద్ధితో ₹17,495 కోట్లకు చేరింది. నోమురా, జెఫరీస్ వంటి సంస్థలు ‘కొనండి’ రేటింగ్ ఇచ్చాయి.",
-   "pts": [
-    "నికర లాభం 113.7% పెరిగి ₹2,393 కోట్లు",
-    "ఆదాయం 10.1% పెరిగి ₹20,614 కోట్లు",
-    "ఆభరణాల విభాగం 24% వృద్ధి"
-   ],
-   "why": "ఆభరణాలకు పండుగ సీజన్ గిరాకీ ఎలా ఉందో, మదుపరులకు ఈ షేరు దిశను ఈ ఫలితాలు సూచిస్తాయి.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/titan-q2-profit-jumps-114-brokerages-split-on-target-prices/",
-   "sec": [
-    "business",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "Titan's Q2 profit more than doubles to Rs 2,393 crore",
-    "p": "Titan Company's consolidated net profit for the July–September quarter rose 113.7% to Rs 2,393 crore. This includes a Rs 671 crore fair value gain on a put option liability. Revenue rose 10.1% to Rs 20,614 crore. The jewellery segment grew 24% to Rs 17,495 crore. Firms such as Nomura and Jefferies have given a 'buy' rating.",
-    "pts": [
-     "Net profit up 113.7% to Rs 2,393 crore",
-     "Revenue up 10.1% to Rs 20,614 crore",
-     "Jewellery segment grew 24%"
-    ],
-    "why": "The results show festive-season demand for jewellery and signal the stock's direction for investors.",
-    "cat": "India · Business",
-    "statl": "Rise in Titan net profit"
-   },
-   "hi": {
-    "h": "टाइटन का दूसरी तिमाही मुनाफा दोगुना से ज्यादा; ₹2,393 करोड़",
-    "p": "जुलाई–सितंबर तिमाही में टाइटन कंपनी का समेकित शुद्ध लाभ 113.7% बढ़कर ₹2,393 करोड़ हो गया। इसमें पुट ऑप्शन देनदारी पर ₹671 करोड़ का फेयर वैल्यू लाभ भी शामिल है। राजस्व 10.1% बढ़कर ₹20,614 करोड़ रहा। आभूषण कारोबार 24% बढ़कर ₹17,495 करोड़ पहुंचा। नोमुरा और जेफरीज जैसी फर्मों ने 'खरीदें' रेटिंग दी है।",
-    "pts": [
-     "शुद्ध लाभ 113.7% बढ़कर ₹2,393 करोड़",
-     "राजस्व 10.1% बढ़कर ₹20,614 करोड़",
-     "आभूषण कारोबार में 24% वृद्धि"
-    ],
-    "why": "ये नतीजे आभूषणों की त्योहारी मांग और निवेशकों के लिए शेयर की दिशा बताते हैं।",
-    "cat": "भारत · कारोबार",
-    "statl": "टाइटन के शुद्ध लाभ में वृद्धि"
-   },
-   "d": "06.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "భారత్ · బీమా",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹12,076 కో.",
-   "statl": "ఎల్ఐసీ రెండో త్రైమాసిక లాభం",
-   "h": "ఎల్ఐసీ లాభం 20% పెరిగి ₹12,076 కోట్లు; యులిప్ అమ్మకాలపై ఆందోళన",
-   "p": "సెప్టెంబర్‌తో ముగిసిన త్రైమాసికంలో ఎల్ఐసీ స్టాండలోన్ నికర లాభం 20% పెరిగి ₹12,076 కోట్లకు చేరింది. నికర ప్రీమియం ఆదాయం 16.2% పెరిగి ₹1,47,018 కోట్లు అయింది. అయితే మొదటి ఏడాది ప్రీమియం ₹10,836 కోట్ల నుంచి ₹10,432 కోట్లకు తగ్గింది. మార్కెట్ ఒడిదొడుకులు యులిప్ అమ్మకాలపై ప్రభావం చూపుతున్నాయని ఎండీ, సీఈఓ ఆర్. దొరైస్వామి తెలిపారు.",
-   "pts": [
-    "నికర లాభం 20% పెరిగి ₹12,076 కోట్లు",
-    "నికర ప్రీమియం ఆదాయం ₹1,47,018 కోట్లు",
-    "మొదటి ఏడాది ప్రీమియం ₹10,432 కోట్లకు తగ్గుదల"
-   ],
-   "why": "కోట్లాది పాలసీదారులున్న ఎల్ఐసీ పనితీరు బీమా రంగ పరిస్థితిని, మదుపరుల నమ్మకాన్ని ప్రతిబింబిస్తుంది.",
-   "src": "Indian Opinion",
-   "url": "https://indianopinion.org/lic-flags-ulip-volatility-seeks-global-alignment-on-irdai-commission-caps/",
-   "sec": [
-    "business",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "LIC profit rises 20% to Rs 12,076 crore; concern over ULIP sales",
-    "p": "LIC's standalone net profit for the quarter ended September rose 20% to Rs 12,076 crore. Net premium income rose 16.2% to Rs 1,47,018 crore. However, first-year premium fell from Rs 10,836 crore to Rs 10,432 crore. MD and CEO R Doraiswamy said market volatility is affecting ULIP sales.",
-    "pts": [
-     "Net profit up 20% to Rs 12,076 crore",
-     "Net premium income at Rs 1,47,018 crore",
-     "First-year premium fell to Rs 10,432 crore"
-    ],
-    "why": "The performance of LIC, which has crores of policyholders, reflects the state of the insurance sector and investor confidence.",
-    "cat": "India · Insurance",
-    "statl": "LIC Q2 profit"
-   },
-   "hi": {
-    "h": "एलआईसी का मुनाफा 20% बढ़कर ₹12,076 करोड़; यूलिप बिक्री पर चिंता",
-    "p": "सितंबर में समाप्त तिमाही में एलआईसी का स्टैंडअलोन शुद्ध लाभ 20% बढ़कर ₹12,076 करोड़ हो गया। शुद्ध प्रीमियम आय 16.2% बढ़कर ₹1,47,018 करोड़ रही। हालांकि पहले साल का प्रीमियम ₹10,836 करोड़ से घटकर ₹10,432 करोड़ रह गया। एमडी और सीईओ आर. दोरैस्वामी ने कहा कि बाजार के उतार-चढ़ाव से यूलिप बिक्री प्रभावित हो रही है।",
-    "pts": [
-     "शुद्ध लाभ 20% बढ़कर ₹12,076 करोड़",
-     "शुद्ध प्रीमियम आय ₹1,47,018 करोड़",
-     "पहले साल का प्रीमियम घटकर ₹10,432 करोड़"
-    ],
-    "why": "करोड़ों पॉलिसीधारकों वाली एलआईसी का प्रदर्शन बीमा क्षेत्र की स्थिति और निवेशकों के भरोसे को दर्शाता है।",
-    "cat": "भारत · बीमा",
-    "statl": "एलआईसी का दूसरी तिमाही मुनाफा"
-   },
-   "d": "06.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలంగాణ · జగిత్యాల",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "10 నెలలు",
-   "statl": "విద్యుదాఘాతంతో చిన్నారి మృతి",
-   "h": "జగిత్యాల: ఛార్జింగ్‌లో ఉన్న తూకం యంత్రం తగిలి పది నెలల పాప మృతి",
-   "p": "జగిత్యాల జిల్లా ఎండపల్లి మండలం రాజారాంపల్లిలో శుక్రవారం ఉదయం సుమారు 5 గంటలకు విషాదం జరిగింది. ఛార్జింగ్‌లో ఉన్న పోర్టబుల్ మొబైల్ తూకం యంత్రం దగ్గర ఆడుకుంటున్న పది నెలల పాప దాన్ని తాకి విద్యుదాఘాతానికి గురై మృతి చెందింది. లోపభూయిష్ట వైరింగ్ వల్లే యంత్రంలోకి కరెంటు వచ్చిందని పోలీసులు తెలిపారు. తండ్రి ఫిర్యాదుతో కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "pts": [
-    "ఎండపల్లి మండలం రాజారాంపల్లిలో ఉదయం 5 గంటలకు ఘటన",
-    "ఛార్జింగ్‌లో ఉన్న తూకం యంత్రం తాకి మృతి",
-    "లోపభూయిష్ట వైరింగ్ కారణమని పోలీసులు; కేసు నమోదు"
-   ],
-   "why": "ఛార్జింగ్‌లో ఉన్న విద్యుత్ పరికరాల దగ్గర పిల్లలను ఉంచకుండా తల్లిదండ్రులు జాగ్రత్త పడాలి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/jagtial-10-month-old-baby-girl-electrocuted-by-faulty-mobile-weighing-machine",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "jagtial",
-   "loc": "రాజారాంపల్లి",
-   "en": {
-    "h": "Jagtial: 10-month-old girl electrocuted by charging weighing machine",
-    "p": "A 10-month-old girl died of electrocution at Rajarampalli village in Endapalli mandal of Jagtial district at about 5 am on Friday. She touched a portable mobile weighing machine that was being charged while she was playing near it. Police said faulty wiring caused current to pass through the machine. A case has been registered on the father's complaint and an investigation is under way.",
-    "pts": [
-     "Incident at Rajarampalli, Endapalli mandal, around 5 am",
-     "Child touched a weighing machine that was charging",
-     "Police blame faulty wiring; case registered"
-    ],
-    "why": "Parents should keep children away from electrical devices while they are charging.",
-    "cat": "Telangana · Jagtial",
-    "statl": "Child dies of electrocution"
-   },
-   "hi": {
-    "h": "जगतियाल: चार्जिंग में लगी तौल मशीन छूने से 10 महीने की बच्ची की मौत",
-    "p": "जगतियाल जिले के एंडापल्ली मंडल के राजारामपल्ली गांव में शुक्रवार सुबह करीब 5 बजे 10 महीने की बच्ची की करंट लगने से मौत हो गई। वह चार्जिंग में लगी पोर्टेबल मोबाइल तौल मशीन के पास खेल रही थी और उसे छू लिया। पुलिस के अनुसार खराब वायरिंग के कारण मशीन में करंट आया। पिता की शिकायत पर मामला दर्ज कर जांच शुरू की गई है।",
-    "pts": [
-     "एंडापल्ली मंडल के राजारामपल्ली में सुबह 5 बजे हादसा",
-     "चार्जिंग में लगी तौल मशीन छूने से मौत",
-     "पुलिस ने खराब वायरिंग को कारण बताया; मामला दर्ज"
-    ],
-    "why": "माता-पिता बच्चों को चार्जिंग में लगे बिजली उपकरणों से दूर रखें।",
-    "cat": "तेलंगाना · जगतियाल",
-    "statl": "करंट से बच्ची की मौत"
-   },
-   "d": "06.11.2026",
-   "t": "13:05"
   }
  ]
 }
