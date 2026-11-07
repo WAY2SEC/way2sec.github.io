@@ -1,8 +1,57 @@
 {
  "date": "07.11.2026",
  "iso": "2026-11-07",
- "count": 65,
+ "count": 66,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "75/75",
+   "statl": "గిద్దలూరు ఎంపీటీసీలన్నీ కూటమికే",
+   "h": "పరిషత్ ఫలితాలు: గిద్దలూరులో 75 ఎంపీటీసీలూ కూటమి కైవసం",
+   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు శనివారం 365 కేంద్రాల్లో కొనసాగుతోంది. మార్కాపురం జిల్లా గిద్దలూరులో 75 ఎంపీటీసీ స్థానాలన్నీ టీడీపీ నేతృత్వంలోని కూటమి గెలుచుకుంది. వీటిలో టీడీపీ 69, జనసేన 3, బీజేపీ 2, సీపీఎం 1 గెలిచాయి. కడప జిల్లా వేంపల్లి జడ్పీటీసీని వైఎస్సార్‌సీపీ 19,192 ఓట్ల మెజారిటీతో దక్కించుకుంది. 577 జడ్పీటీసీ, 7,707 ఎంపీటీసీ స్థానాలకు నవంబర్ 5న పోలింగ్ జరిగింది.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-zptc-mptc-election-results-2026-live-updates-counting-begins-tdp-leads-in-several-seats-2002446",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "గిద్దలూరు",
+   "pts": [
+    "గిద్దలూరులో 75కి 75 ఎంపీటీసీలు కూటమికే",
+    "వేంపల్లి జడ్పీటీసీ వైఎస్సార్‌సీపీకి, 19,192 ఓట్ల మెజారిటీ",
+    "77 జడ్పీటీసీలు, 2,051 ఎంపీటీసీలు ఏకగ్రీవం"
+   ],
+   "why": "గ్రామ, మండల స్థాయి పాలనలో ప్రజల ప్రతినిధులు ఎవరో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
+   "d": "07.11.2026",
+   "t": "16:35",
+   "en": {
+    "h": "Parishad results: Alliance wins all 75 MPTC seats in Giddalur",
+    "p": "Counting of MPTC and ZPTC votes in Andhra Pradesh continued on Saturday at 365 centres. In Giddalur, Markapuram district, the TDP-led alliance won all 75 MPTC seats: TDP 69, Jana Sena 3, BJP 2 and CPM 1. The YSRCP won the Vempalle ZPTC in Kadapa district with a majority of 19,192 votes. Polling for 577 ZPTC and 7,707 MPTC seats was held on November 5.",
+    "pts": [
+     "Alliance wins 75 of 75 MPTC seats in Giddalur",
+     "YSRCP wins Vempalle ZPTC by 19,192 votes",
+     "77 ZPTCs and 2,051 MPTCs elected unopposed"
+    ],
+    "why": "These results decide who represents people in village and mandal-level governance.",
+    "cat": "Andhra Pradesh · Parishad Polls",
+    "statl": "All Giddalur MPTC seats to alliance"
+   },
+   "hi": {
+    "h": "परिषद नतीजे: गिद्दलूर में सभी 75 एमपीटीसी सीटें गठबंधन के नाम",
+    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी वोटों की गिनती शनिवार को 365 केंद्रों पर जारी रही। मार्कापुरम जिले के गिद्दलूर में टीडीपी के नेतृत्व वाले गठबंधन ने सभी 75 एमपीटीसी सीटें जीतीं: टीडीपी 69, जनसेना 3, भाजपा 2 और सीपीएम 1। कडपा जिले की वेंपल्ली जेडपीटीसी सीट वाईएसआरसीपी ने 19,192 वोटों के अंतर से जीती। 577 जेडपीटीसी और 7,707 एमपीटीसी सीटों के लिए 5 नवंबर को मतदान हुआ था।",
+    "pts": [
+     "गिद्दलूर में 75 में से 75 एमपीटीसी सीटें गठबंधन को",
+     "वेंपल्ली जेडपीटीसी वाईएसआरसीपी को, 19,192 वोटों से जीत",
+     "77 जेडपीटीसी और 2,051 एमपीटीसी निर्विरोध चुने गए"
+    ],
+    "why": "ये नतीजे तय करते हैं कि गांव और मंडल स्तर के शासन में लोगों के प्रतिनिधि कौन होंगे।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "गिद्दलूर की सभी एमपीटीसी सीटें गठबंधन को"
+   }
+  },
   {
    "cat": "ప్రపంచం · క్రికెట్",
    "col": "--c-city",
