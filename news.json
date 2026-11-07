@@ -1,8 +1,154 @@
 {
  "date": "07.11.2026",
- "updated": "2026-11-07T21:40:57+05:30",
+ "updated": "2026-11-07T22:10:03+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "4,197",
+   "statl": "ఫోన్ వాడుతూ డ్రైవింగ్ కేసులు",
+   "h": "డ్రైవింగ్‌లో ఫోన్ వాడకం: వారంలో 4,197 మందిపై కేసులు",
+   "p": "వాహనం నడుపుతూ మొబైల్ ఫోన్ వాడినందుకు హైదరాబాద్ ట్రాఫిక్ పోలీసులు 4,197 మందిపై కేసులు నమోదు చేశారు. నవంబర్ 1 నుంచి 7 వరకు జరిగిన ప్రత్యేక తనిఖీల్లో ఇవి నమోదయ్యాయి. వీరిలో అత్యధికంగా 4,038 మంది ద్విచక్ర వాహనదారులే. ఈ ఉల్లంఘనపై జీరో టాలరెన్స్ విధానం పాటిస్తామని, ఇలాంటి తనిఖీలు తరచూ కొనసాగుతాయని పోలీసులు తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/over-4000-motorists-booked-for-mobile-phone-use-while-driving-in-hyderabad",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ద్విచక్ర వాహనదారులు 4,038 మంది",
+    "కార్ల డ్రైవర్లు 121, ఆటోలు 38",
+    "ఫోన్ వాడకం ప్రమాదాల ముప్పు పెంచుతుందని హెచ్చరిక"
+   ],
+   "why": "హైదరాబాద్‌లో వాహనం నడిపే ప్రతి ఒక్కరూ ఫోన్ వాడితే కేసు, జరిమానా ఎదుర్కొనే అవకాశం ఉంది.",
+   "d": "07.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Phone use while driving: 4,197 motorists booked in a week in Hyderabad",
+    "p": "Hyderabad Traffic Police booked 4,197 motorists for using mobile phones while driving. The cases were registered during a special enforcement drive from November 1 to 7. Most of them, 4,038, were two-wheeler riders. Police said they follow a zero-tolerance policy on this violation and such drives will continue regularly.",
+    "pts": [
+     "4,038 two-wheeler riders booked",
+     "121 four-wheeler and 38 three-wheeler drivers",
+     "Police warn phone use raises crash risk"
+    ],
+    "why": "Anyone driving in Hyderabad while using a phone may face a case and a fine.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Cases for phone use while driving"
+   },
+   "hi": {
+    "h": "ड्राइविंग में फोन का इस्तेमाल: हैदराबाद में एक हफ्ते में 4,197 पर केस",
+    "p": "गाड़ी चलाते समय मोबाइल फोन इस्तेमाल करने पर हैदराबाद ट्रैफिक पुलिस ने 4,197 वाहन चालकों पर केस दर्ज किए। ये केस 1 से 7 नवंबर तक चले विशेष जांच अभियान में दर्ज हुए। इनमें सबसे ज्यादा 4,038 दोपहिया चालक हैं। पुलिस ने कहा कि इस उल्लंघन पर जीरो टॉलरेंस नीति है और ऐसे अभियान लगातार चलेंगे।",
+    "pts": [
+     "4,038 दोपहिया चालकों पर केस",
+     "121 चारपहिया और 38 तिपहिया चालक",
+     "पुलिस की चेतावनी: फोन से हादसे का खतरा बढ़ता है"
+    ],
+    "why": "हैदराबाद में फोन चलाते हुए गाड़ी चलाने वाले किसी भी व्यक्ति पर केस और जुर्माना हो सकता है।",
+    "cat": "हैदराबाद · ट्रैफिक",
+    "statl": "ड्राइविंग में फोन इस्तेमाल के केस"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "16 టీఎంసీ",
+   "statl": "మేడిగడ్డ బ్యారేజీ నిల్వ సామర్థ్యం",
+   "h": "వచ్చే జూలై వరకు నీటిని జాగ్రత్తగా వాడాలి: కొడంగల్‌లో సీఎం రేవంత్",
+   "p": "కొడంగల్‌లో జరిగిన మెగా రైతు మేళాలో సీఎం రేవంత్ రెడ్డి కన్నెపల్లి పంపుహౌస్ నిర్వహణపై ప్రభుత్వ వైఖరిని సమర్థించారు. మేడిగడ్డ బ్యారేజీ నిండినప్పుడే కన్నెపల్లి నుంచి నీరు ఎత్తిపోయగలమని చెప్పారు. ఎల్ నినో కారణంగా శ్రీశైలం, నాగార్జునసాగర్, ఎస్సారెస్పీ, జూరాలలో నీరు లేదని, వచ్చే 8–10 నెలలు నీటిని పొదుపుగా వాడాలని సూచించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/revanth-reddy-defends-governments-stand-on-kanepally-pump-operations",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "కొడంగల్",
+   "pts": [
+    "వచ్చే జూలై వరకు వర్షాలు లేవని సీఎం అంచనా",
+    "మక్తల్–నారాయణపేట ఎత్తిపోతల పనులు వేగవంతం",
+    "డిసెంబర్‌లో అసెంబ్లీ సమావేశం పెట్టాలని స్పీకర్‌కు విజ్ఞప్తి"
+   ],
+   "why": "ప్రధాన జలాశయాల్లో నీరు తక్కువగా ఉండటంతో రైతులు, తాగునీటి సరఫరాపై ప్రభావం పడవచ్చు.",
+   "d": "07.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Use water carefully until next July: CM Revanth at Kodangal",
+    "p": "At a Mega Rythu Mela in Kodangal, Chief Minister Revanth Reddy defended the government's stand on running the Kanepally pump house. He said water can be lifted from Kanepally only when the Medigadda barrage is full. He said Srisailam, Nagarjunasagar, SRSP and Jurala have no water due to El Nino, and urged careful water use for the next 8–10 months.",
+    "pts": [
+     "CM says no rain expected until next July",
+     "Makthal–Narayanpet lift scheme being speeded up",
+     "Speaker urged to hold Assembly session in December"
+    ],
+    "why": "Low water in major reservoirs may affect farmers and drinking water supply.",
+    "cat": "Telangana · Irrigation",
+    "statl": "Medigadda barrage storage capacity"
+   },
+   "hi": {
+    "h": "अगले जुलाई तक पानी सोच-समझकर इस्तेमाल करें: कोडंगल में सीएम रेवंत",
+    "p": "कोडंगल में मेगा रायतु मेला में मुख्यमंत्री रेवंत रेड्डी ने कन्नेपल्ली पंप हाउस चलाने पर सरकार के रुख का बचाव किया। उन्होंने कहा कि मेडिगड्डा बैराज भरने पर ही कन्नेपल्ली से पानी उठाया जा सकता है। उन्होंने कहा कि अल नीनो के कारण श्रीशैलम, नागार्जुनसागर, एसआरएसपी और जूराला में पानी नहीं है और अगले 8–10 महीने पानी संभलकर इस्तेमाल करने की अपील की।",
+    "pts": [
+     "सीएम के अनुसार अगले जुलाई तक बारिश की उम्मीद नहीं",
+     "मक्तल–नारायणपेट लिफ्ट योजना में तेजी",
+     "स्पीकर से दिसंबर में विधानसभा सत्र बुलाने की अपील"
+    ],
+    "why": "बड़े जलाशयों में पानी कम होने से किसानों और पेयजल आपूर्ति पर असर पड़ सकता है।",
+    "cat": "तेलंगाना · सिंचाई",
+    "statl": "मेडिगड्डा बैराज की भंडारण क्षमता"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · యెమెన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "11",
+   "statl": "హౌతీ మీడియా ప్రకారం మృతులు",
+   "h": "యెమెన్ రాజధాని సనా సమీపంలో వైమానిక దాడులు: 11 మంది మృతి",
+   "p": "యెమెన్ రాజధాని సనాకు తూర్పున ఉన్న ఒక గ్రామంపై శనివారం జరిగిన వైమానిక దాడుల్లో కనీసం 11 మంది మరణించారని హౌతీల ఆధ్వర్యంలోని అల్-మసీరా టీవీ తెలిపింది. మృతుల్లో మహిళలు, పిల్లలు ఉన్నారని, ఐదు ఇళ్లు ధ్వంసమయ్యాయని పేర్కొంది. ఇవి సౌదీ యుద్ధ విమానాల దాడులని ఆ ఛానల్ ఆరోపించింది. ఈ వివరాలను స్వతంత్రంగా ధ్రువీకరించలేదు.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/airstrikes-near-yemens-sanaa-leave-11-dead-houthi-media",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మృతుల సంఖ్య ప్రాథమికమేనని స్థానిక ఆరోగ్య అధికారి",
+    "సౌదీ నేతృత్వ కూటమి నుంచి వెంటనే స్పందన లేదు",
+    "శుక్రవారం తైజ్ మార్కెట్ దాడిలో కనీసం 30 మంది మృతి"
+   ],
+   "why": "గల్ఫ్ ప్రాంతంలో పెరుగుతున్న ఉద్రిక్తతలు అక్కడ పనిచేసే తెలుగువారి భద్రతపై ఆందోళన కలిగిస్తాయి.",
+   "d": "07.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Airstrikes near Yemen's capital Sanaa kill 11, says Houthi media",
+    "p": "At least 11 people were killed on Saturday in airstrikes on a village east of Yemen's capital Sanaa, Houthi-run al-Masirah TV said. It said women and children were among the dead and five houses were destroyed. The channel blamed Saudi warplanes. These details could not be independently verified.",
+    "pts": [
+     "Local health official says toll is preliminary",
+     "No immediate comment from Saudi-led coalition",
+     "Taiz market attack on Friday killed at least 30"
+    ],
+    "why": "Rising tension in the Gulf region raises concern for the safety of Telugu people working there.",
+    "cat": "World · Yemen",
+    "statl": "Dead, according to Houthi media"
+   },
+   "hi": {
+    "h": "यमन की राजधानी सना के पास हवाई हमले, 11 की मौत: हूती मीडिया",
+    "p": "हूती संचालित अल-मसीरा टीवी के अनुसार शनिवार को यमन की राजधानी सना के पूर्व में एक गांव पर हुए हवाई हमलों में कम से कम 11 लोगों की मौत हुई। चैनल ने कहा कि मृतकों में महिलाएं और बच्चे शामिल हैं और पांच घर नष्ट हो गए। चैनल ने सऊदी लड़ाकू विमानों पर आरोप लगाया। इन विवरणों की स्वतंत्र पुष्टि नहीं हो सकी।",
+    "pts": [
+     "स्थानीय स्वास्थ्य अधिकारी: मृतकों की संख्या प्रारंभिक",
+     "सऊदी नेतृत्व वाले गठबंधन की तुरंत कोई प्रतिक्रिया नहीं",
+     "शुक्रवार को ताइज़ बाज़ार हमले में कम से कम 30 की मौत"
+    ],
+    "why": "खाड़ी क्षेत्र में बढ़ता तनाव वहां काम करने वाले तेलुगु लोगों की सुरक्षा को लेकर चिंता बढ़ाता है।",
+    "cat": "दुनिया · यमन",
+    "statl": "हूती मीडिया के अनुसार मृतक"
+   }
+  },
   {
    "cat": "తెలంగాణ · హైకోర్టు",
    "col": "--c-city",
@@ -1679,103 +1825,6 @@
    "t": "15:05"
   },
   {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "$2 కోట్లు",
-   "statl": "ఇరాన్ అణు సమాచారానికి అమెరికా బహుమతి",
-   "h": "ఇరాన్ అణు కార్యక్రమం సమాచారానికి అమెరికా 2 కోట్ల డాలర్ల బహుమతి",
-   "p": "ఇరాన్ అణు కార్యక్రమానికి సంబంధించిన కేంద్రాలు, పరికరాలు, సిబ్బంది లేదా వాటి తరలింపుపై సమాచారం ఇస్తే 2 కోట్ల డాలర్ల వరకు బహుమతి ఇస్తామని అమెరికా ప్రకటించింది. విదేశాంగ శాఖ 'రివార్డ్స్ ఫర్ జస్టిస్' పథకం కింద ఈ ఆఫర్ ఇచ్చింది. అమెరికా సెంట్రల్ కమాండ్ శనివారం ఎక్స్‌లో ఈ విషయాన్ని పోస్ట్ చేసింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/us-offers-usd-20-million-reward-for-irans-nuclear-programme-3571135/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "సమాచారం ఇచ్చేవారికి వేరే చోటుకు తరలించే అవకాశం కూడా",
-    "ఇరాన్ ఒప్పందం కోరుకుంటోందని ట్రంప్ వ్యాఖ్య",
-    "చర్చల ద్వారా పరిష్కారానికి కట్టుబడి ఉన్నామన్న ఇరాన్ అధ్యక్షుడు"
-   ],
-   "why": "అమెరికా–ఇరాన్ ఉద్రిక్తతలు గల్ఫ్‌లో పనిచేసే తెలుగువారిని, చమురు ధరలను ప్రభావితం చేస్తాయి.",
-   "en": {
-    "h": "US offers $20 million reward for information on Iran's nuclear programme",
-    "p": "The US announced a reward of up to $20 million for information on facilities, equipment, personnel or their movement linked to Iran's nuclear programme. The offer was made under the State Department's 'Rewards for Justice' programme. US Central Command posted about it on X on Saturday.",
-    "pts": [
-     "Possible relocation also offered to informants",
-     "Trump says Iran wants a deal",
-     "Iran's President says committed to resolving crisis through dialogue"
-    ],
-    "why": "US-Iran tensions affect Telugu people working in the Gulf and oil prices.",
-    "cat": "World · USA",
-    "statl": "US reward for Iran nuclear information"
-   },
-   "hi": {
-    "h": "ईरान के परमाणु कार्यक्रम की जानकारी पर अमेरिका का 2 करोड़ डॉलर का इनाम",
-    "p": "अमेरिका ने ईरान के परमाणु कार्यक्रम से जुड़े ठिकानों, उपकरणों, कर्मियों या उनकी आवाजाही की जानकारी देने पर 2 करोड़ डॉलर तक के इनाम की घोषणा की है। यह पेशकश विदेश विभाग के 'रिवॉर्ड्स फॉर जस्टिस' कार्यक्रम के तहत की गई है। अमेरिकी सेंट्रल कमांड ने शनिवार को एक्स पर इसकी जानकारी दी।",
-    "pts": [
-     "जानकारी देने वालों को दूसरी जगह बसाने की पेशकश भी",
-     "ट्रंप बोले, ईरान समझौता चाहता है",
-     "ईरान के राष्ट्रपति ने बातचीत से हल की प्रतिबद्धता जताई"
-    ],
-    "why": "अमेरिका-ईरान तनाव खाड़ी में काम करने वाले तेलुगु लोगों और तेल कीमतों पर असर डालता है।",
-    "cat": "विश्व · अमेरिका",
-    "statl": "ईरान परमाणु जानकारी पर अमेरिकी इनाम"
-   },
-   "d": "07.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "భారత్ · ఐరాస",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "2027–29",
-   "statl": "ఐరాస బడ్జెట్ కమిటీలో భారత దౌత్యవేత్త",
-   "h": "ఐరాస బడ్జెట్ సలహా కమిటీకి భారత దౌత్యవేత్త శివానీ గుప్తా ఎన్నిక",
-   "p": "ఐక్యరాజ్యసమితి పరిపాలన, బడ్జెట్ వ్యవహారాల సలహా కమిటీ (ఏసీఏబీక్యూ)కి 2027–2029 కాలానికి భారత దౌత్యవేత్త శివానీ గుప్తా ఎన్నికయ్యారు. ఈ విషయాన్ని ఐరాసలో భారత శాశ్వత మిషన్ ప్రకటించి, మద్దతు ఇచ్చిన సభ్య దేశాలకు కృతజ్ఞతలు తెలిపింది. ఆమె మూడేళ్ల పదవీకాలం 2027 జనవరిలో ప్రారంభమవుతుంది.",
-   "src": "PTI, Siasat Daily",
-   "url": "https://www.siasat.com/indian-diplomat-elected-to-un-budgetary-committee-for-2027-29-3571182/",
-   "sec": [
-    "india",
-    "world"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ఏసీఏబీక్యూ ఐరాస సాధారణ సభ అనుబంధ సంస్థ",
-    "కమిటీలో మొత్తం 21 మంది సభ్యులు",
-    "సభ్యుల పదవీకాలం మూడేళ్లు"
-   ],
-   "why": "ఐరాస బడ్జెట్ నిర్ణయాల్లో భారత్‌కు స్వరం పెరగడానికి ఈ ఎన్నిక తోడ్పడుతుంది.",
-   "en": {
-    "h": "Indian diplomat Shivani Gupta elected to UN budget advisory committee",
-    "p": "Indian diplomat Shivani Gupta has been elected to the UN Advisory Committee on Administrative and Budgetary Questions (ACABQ) for 2027–2029. India's Permanent Mission to the UN announced this and thanked member states for their support. Her three-year term begins in January 2027.",
-    "pts": [
-     "ACABQ is a subsidiary organ of the UN General Assembly",
-     "The committee has 21 members in all",
-     "Members serve three-year terms"
-    ],
-    "why": "The election helps give India a stronger voice in UN budget decisions.",
-    "cat": "India · UN",
-    "statl": "Indian diplomat on UN budget committee"
-   },
-   "hi": {
-    "h": "भारतीय राजनयिक शिवानी गुप्ता संयुक्त राष्ट्र बजट सलाहकार समिति में चुनी गईं",
-    "p": "भारतीय राजनयिक शिवानी गुप्ता को 2027–2029 के लिए संयुक्त राष्ट्र की प्रशासनिक और बजटीय प्रश्नों पर सलाहकार समिति (एसीएबीक्यू) में चुना गया है। संयुक्त राष्ट्र में भारत के स्थायी मिशन ने यह घोषणा की और समर्थन के लिए सदस्य देशों का धन्यवाद किया। उनका तीन साल का कार्यकाल जनवरी 2027 में शुरू होगा।",
-    "pts": [
-     "एसीएबीक्यू संयुक्त राष्ट्र महासभा का सहायक अंग है",
-     "समिति में कुल 21 सदस्य हैं",
-     "सदस्यों का कार्यकाल तीन साल का होता है"
-    ],
-    "why": "इस चुनाव से संयुक्त राष्ट्र के बजट फैसलों में भारत की आवाज़ मज़बूत होगी।",
-    "cat": "भारत · संयुक्त राष्ट्र",
-    "statl": "यूएन बजट समिति में भारतीय राजनयिक"
-   },
-   "d": "07.11.2026",
-   "t": "15:05"
-  },
-  {
    "cat": "యాదగిరిగుట్ట · ఆలయం",
    "col": "--c-gov",
    "art": "land",
@@ -1803,54 +1852,6 @@
    "img": "photos/2026-11-07-yadagirigutta-kartheekotsav.jpg",
    "imgfy": 0.3,
    "local": true
-  },
-  {
-   "cat": "తెలంగాణ · సైబర్ నేరాలు",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "₹400 కోట్లు",
-   "statl": "మ్యూల్ ఖాతాల ద్వారా మళ్లించిన మోసం సొమ్ము",
-   "h": "సైబరాబాద్ ఎఫ్‌ఐఆర్ ఆధారంగా ₹400 కోట్ల సైబర్ మోసం గుట్టు రట్టు చేసిన ఈడీ",
-   "p": "సైబరాబాద్ సైబర్ క్రైమ్ పోలీసులు నమోదు చేసిన ఎఫ్‌ఐఆర్ ఆధారంగా ఎన్‌ఫోర్స్‌మెంట్ డైరెక్టరేట్ దేశవ్యాప్త సైబర్ మనీ లాండరింగ్ ముఠాను బయటపెట్టింది. ఆన్‌లైన్ మోసాల ద్వారా వచ్చిన ₹400 కోట్లకు పైగా సొమ్మును మ్యూల్ బ్యాంకు ఖాతాలు, క్రిప్టో మార్గాల్లో మళ్లించినట్లు గుర్తించారు. ఈడీ చెన్నై కార్యాలయం అక్టోబర్ 30న ఇద్దరిని పీఎంఎల్‌ఏ కింద అరెస్టు చేసింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/fir-in-cyberabad-helps-ed-uncover-rs-400-crore-cyber-fraud-3571093/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "ఇద్దరు నిందితులకు 14 రోజుల జ్యుడీషియల్ కస్టడీ",
-    "తెలంగాణ, కర్ణాటక, బెంగాల్‌లో మరో 10 ఎఫ్‌ఐఆర్‌ల పరిశీలన",
-    "₹88.2 లక్షల బ్యాంకు నిధులు స్తంభింపజేసిన ఈడీ"
-   ],
-   "why": "సోషల్ మీడియా ప్రకటనలు, ఉద్యోగ, షేర్ మార్కెట్ ఆఫర్లతో మోసపోయే ప్రజలు అప్రమత్తంగా ఉండాలని ఈ కేసు గుర్తు చేస్తోంది.",
-   "en": {
-    "h": "ED busts ₹400 crore cyber fraud based on Cyberabad FIR",
-    "p": "Based on an FIR registered by the Cyberabad cybercrime police, the Enforcement Directorate uncovered a pan-India cyber money laundering network. Over ₹400 crore of online fraud proceeds was found to have been routed through mule bank accounts and crypto channels. ED's Chennai office arrested two people under the PMLA on October 30.",
-    "pts": [
-     "Two accused sent to 14 days' judicial custody",
-     "10 more FIRs in Telangana, Karnataka, Bengal examined",
-     "ED froze ₹88.2 lakh in bank funds"
-    ],
-    "why": "The case is a reminder for people to stay alert to social media ads, job and share-market offers.",
-    "cat": "Telangana · Cybercrime",
-    "statl": "Fraud money routed through mule accounts"
-   },
-   "hi": {
-    "h": "साइबराबाद एफआईआर के आधार पर ईडी ने ₹400 करोड़ की साइबर धोखाधड़ी का भंडाफोड़ किया",
-    "p": "साइबराबाद साइबर क्राइम पुलिस की एफआईआर के आधार पर प्रवर्तन निदेशालय ने देशभर में फैले साइबर मनी लॉन्ड्रिंग नेटवर्क का पता लगाया। ऑनलाइन धोखाधड़ी से मिले ₹400 करोड़ से अधिक की रकम म्यूल बैंक खातों और क्रिप्टो माध्यमों से घुमाई गई। ईडी के चेन्नई कार्यालय ने 30 अक्टूबर को दो लोगों को पीएमएलए के तहत गिरफ्तार किया।",
-    "pts": [
-     "दो आरोपियों को 14 दिन की न्यायिक हिरासत",
-     "तेलंगाना, कर्नाटक, बंगाल में 10 और एफआईआर की जाँच",
-     "ईडी ने ₹88.2 लाख के बैंक फंड फ्रीज़ किए"
-    ],
-    "why": "यह मामला याद दिलाता है कि लोग सोशल मीडिया विज्ञापनों, नौकरी और शेयर बाज़ार के ऑफ़र से सावधान रहें।",
-    "cat": "तेलंगाना · साइबर अपराध",
-    "statl": "म्यूल खातों से घुमाई गई धोखाधड़ी की रकम"
-   },
-   "d": "07.11.2026",
-   "t": "14:35"
   },
   {
    "cat": "నివాళి · లద్నూరు",
