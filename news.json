@@ -1,8 +1,156 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T16:40:42+05:30",
+ "updated": "2026-11-08T17:08:39+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹7.9 కోట్లు",
+   "statl": "గంటలో కాజేసిన మొత్తం",
+   "h": "హైదరాబాద్ ఆర్థిక సంస్థ ఖాతా నుంచి గంటలో ₹7.9 కోట్లు కాజేసిన సైబర్ నేరగాళ్లు",
+   "p": "నానక్‌రామ్‌గూడ ఫైనాన్షియల్ డిస్ట్రిక్ట్ కేంద్రంగా పనిచేసే కీర్తన ఫిన్‌సర్వ్ అనే బ్యాంకింగేతర ఆర్థిక సంస్థ (ఎన్‌బీఎఫ్‌సీ) కార్పొరేట్ ఖాతా నుంచి సైబర్ మోసగాళ్లు కేవలం గంటలోనే ₹7.9 కోట్లు తరలించారు. నవంబర్ 6న ఉదయం 11 నుంచి 12 గంటల మధ్య ఐడీఎఫ్‌సీ ఫస్ట్ బ్యాంక్ ఖాతా ద్వారా 39 అనధికార లావాదేవీలు జరిగాయి. సంస్థ ఫిర్యాదుతో తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో కేసు నమోదు చేసి దర్యాప్తు చేపట్టింది.",
+   "src": "IndToday",
+   "url": "https://indtoday.com/hyderabad-cyber-fraudsters-loot-rs-7-9-crore-from-nbfc-in-an-hour/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "నానక్‌రామ్‌గూడ",
+   "pts": [
+    "39 అనధికార లావాదేవీలతో ₹7.9 కోట్లు తరలింపు",
+    "నవంబర్ 6 ఉదయం 11–12 గంటల మధ్య ఘటన",
+    "టీజీసీఎస్‌బీ కేసు నమోదు, లావాదేవీల జాడపై దర్యాప్తు"
+   ],
+   "why": "వ్యాపార సంస్థల బ్యాంకు ఖాతాలు కూడా సైబర్ మోసాలకు గురవుతున్నాయని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "08.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Cyber fraudsters steal ₹7.9 crore from Hyderabad NBFC's account in an hour",
+    "p": "Cyber fraudsters moved ₹7.9 crore out of the corporate account of Keerthana Finserv, a non-banking financial company (NBFC) operating from the Financial District at Nanakramguda, within just one hour. Thirty-nine unauthorised transactions were made through its IDFC First Bank account between 11 am and 12 noon on November 6. On the company's complaint, the Telangana Cyber Security Bureau registered a case and began an investigation.",
+    "pts": [
+     "₹7.9 crore moved through 39 unauthorised transactions",
+     "Incident took place between 11 am and 12 noon on November 6",
+     "TGCSB registered a case and is tracing the transfers"
+    ],
+    "why": "The case is a reminder that even business bank accounts are being hit by cyber fraud.",
+    "cat": "Hyderabad · Cyber crime",
+    "statl": "Amount stolen within an hour"
+   },
+   "hi": {
+    "h": "हैदराबाद की वित्तीय कंपनी के खाते से साइबर ठगों ने एक घंटे में ₹7.9 करोड़ उड़ाए",
+    "p": "नानकरामगुडा फाइनेंशियल डिस्ट्रिक्ट से काम करने वाली गैर-बैंकिंग वित्तीय कंपनी (एनबीएफसी) कीर्तना फिनसर्व के कॉर्पोरेट खाते से साइबर ठगों ने सिर्फ एक घंटे में ₹7.9 करोड़ निकाल लिए। 6 नवंबर को सुबह 11 से 12 बजे के बीच आईडीएफसी फर्स्ट बैंक खाते से 39 अनधिकृत लेनदेन हुए। कंपनी की शिकायत पर तेलंगाना साइबर सुरक्षा ब्यूरो ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "39 अनधिकृत लेनदेन से ₹7.9 करोड़ निकाले गए",
+     "घटना 6 नवंबर सुबह 11 से 12 बजे के बीच",
+     "टीजीसीएसबी ने मामला दर्ज किया, लेनदेन की जांच जारी"
+    ],
+    "why": "यह घटना याद दिलाती है कि कारोबारी बैंक खाते भी साइबर ठगी का शिकार हो रहे हैं।",
+    "cat": "हैदराबाद · साइबर अपराध",
+    "statl": "एक घंटे में उड़ाई गई रकम"
+   }
+  },
+  {
+   "cat": "ఉత్తరాఖండ్ · హరిద్వార్",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "18 రోజులు",
+   "statl": "నిలిపివేత తర్వాత మళ్లీ గంగా ప్రవాహం",
+   "h": "18 రోజుల తర్వాత హరిద్వార్‌లో మళ్లీ గంగా ప్రవాహం; అర్ధ కుంభ్‌కు సిద్ధం",
+   "p": "వార్షిక నిర్వహణ పనుల కోసం దసరా తర్వాత నిలిపివేసిన గంగా ప్రవాహాన్ని 18 రోజుల తర్వాత శనివారం అర్ధరాత్రి పునరుద్ధరించారు. ఈ సమయంలో హర్ కీ పౌడీ సహా ఘాట్లు ఎండిపోయాయి. రానున్న అర్ధ కుంభమేళా కోసం ఈ విరామంలో నిర్మాణ పనులు పూర్తి చేశారు. హరిద్వార్‌లో స్నానాల ఘాట్ల పొడవు ఇప్పుడున్న సుమారు 12.5 కి.మీ. నుంచి 16 కి.మీ.కు పెరగనుంది.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/uttarakhand-water-flow-in-ganga-river-restored-after-18-day-suspension/3093695/",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "UK",
+   "place": "IN",
+   "loc": "హరిద్వార్",
+   "pts": [
+    "3.25 కి.మీ. పొడవున 10 కొత్త ఘాట్ల నిర్మాణం",
+    "34 + 22 ఘాట్ల నీట మునిగిన భాగాల మరమ్మతు పూర్తి",
+    "కొత్త ఘాట్లు నవంబర్ 30లోగా పూర్తి చేయాలని లక్ష్యం"
+   ],
+   "why": "అర్ధ కుంభమేళాకు హరిద్వార్ వెళ్లే భక్తులకు స్నానాల కోసం మరిన్ని ఘాట్లు అందుబాటులోకి వస్తాయి.",
+   "d": "08.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Ganga flow restored in Haridwar after 18 days; ghats readied for Ardh Kumbh",
+    "p": "The flow of the Ganga, stopped after Dussehra for annual maintenance, was restored at midnight on Saturday after 18 days. During this period, ghats including Har Ki Pauri ran dry. Construction work for the upcoming Ardh Kumbh Mela was completed during the break. The length of bathing ghats in Haridwar will grow from about 12.5 km now to 16 km.",
+    "pts": [
+     "10 new ghats being built over 3.25 km",
+     "Repairs to submerged parts of 34 + 22 ghats completed",
+     "Target to finish the new ghats by November 30"
+    ],
+    "why": "Pilgrims going to Haridwar for the Ardh Kumbh will have more ghats for bathing.",
+    "cat": "Uttarakhand · Haridwar",
+    "statl": "Ganga flows again after the shutdown"
+   },
+   "hi": {
+    "h": "18 दिन बाद हरिद्वार में फिर बही गंगा; अर्ध कुंभ के लिए घाट तैयार",
+    "p": "वार्षिक रखरखाव के लिए दशहरे के बाद रोका गया गंगा का प्रवाह 18 दिन बाद शनिवार आधी रात को बहाल कर दिया गया। इस दौरान हर की पौड़ी समेत घाट सूखे रहे। आगामी अर्ध कुंभ मेले के लिए निर्माण कार्य इसी अवधि में पूरे किए गए। हरिद्वार में स्नान घाटों की लंबाई अभी के लगभग 12.5 किमी से बढ़कर 16 किमी हो जाएगी।",
+    "pts": [
+     "3.25 किमी में 10 नए घाटों का निर्माण",
+     "34 + 22 घाटों के डूबे हिस्सों की मरम्मत पूरी",
+     "नए घाट 30 नवंबर तक पूरे करने का लक्ष्य"
+    ],
+    "why": "अर्ध कुंभ के लिए हरिद्वार जाने वाले श्रद्धालुओं को स्नान के लिए ज्यादा घाट मिलेंगे।",
+    "cat": "उत्तराखंड · हरिद्वार",
+    "statl": "बंदी के बाद फिर बही गंगा"
+   }
+  },
+  {
+   "cat": "బిహార్ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "125 యూనిట్లు",
+   "statl": "ఉచిత విద్యుత్ వదులుకోవాలని విజ్ఞప్తి",
+   "h": "ఉచిత విద్యుత్ వదులుకోండి: సంపన్నులకు బిహార్ సీఎం పిలుపు, డిసెంబర్ 1 నుంచి ప్రచారం",
+   "p": "ఆర్థికంగా స్థిరపడిన కుటుంబాలు, ఆదాయపు పన్ను చెల్లింపుదారులు 125 యూనిట్ల ఉచిత విద్యుత్‌ను స్వచ్ఛందంగా వదులుకోవాలని బిహార్ ముఖ్యమంత్రి సామ్రాట్ చౌదరి మళ్లీ కోరారు. ఇందుకోసం డిసెంబర్ 1 నుంచి ప్రత్యేక ప్రచారం చేపట్టనున్నారు. విద్యుత్ రాయితీలపై రాష్ట్రం ఏటా సుమారు ₹23,000 కోట్లు ఖర్చు చేస్తోందని, ఒక్కో కుటుంబానికి ఏటా సుమారు ₹10,000 రాయితీ అందుతోందని ఆయన తెలిపారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/bihar-to-launch-drive-from-dec-1-to-encourage-well-off-people-to-surrender-power-subsidy/3093687/",
+   "sec": [
+    "india"
+   ],
+   "st": "BR",
+   "place": "IN",
+   "pts": [
+    "డిసెంబర్ 1 నుంచి రాయితీ స్వచ్ఛంద విరమణ ప్రచారం",
+    "విద్యుత్ రాయితీలపై ఏటా సుమారు ₹23,000 కోట్లు",
+    "వదులుకున్నవారికి గుర్తింపు ఇస్తామన్న సీఎం"
+   ],
+   "why": "బిహార్‌లో ఉచిత విద్యుత్ పొందుతున్న ఆదాయపు పన్ను చెల్లింపుదారుల కుటుంబాలను ఈ ప్రచారం నేరుగా ఉద్దేశించింది.",
+   "d": "08.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Give up free power: Bihar CM urges well-off; drive from December 1",
+    "p": "Bihar Chief Minister Samrat Choudhary again urged well-off families and income tax payers to voluntarily give up 125 units of free electricity. A special campaign for this will begin on December 1. He said the state spends about ₹23,000 crore a year on electricity subsidies and each family gets a subsidy of about ₹10,000 a year.",
+    "pts": [
+     "Voluntary subsidy surrender campaign from December 1",
+     "About ₹23,000 crore a year spent on power subsidies",
+     "CM said those who give it up will be recognised"
+    ],
+    "why": "The campaign is aimed directly at income-tax-paying families in Bihar who get free electricity.",
+    "cat": "Bihar · Electricity",
+    "statl": "Appeal to give up free power"
+   },
+   "hi": {
+    "h": "मुफ्त बिजली छोड़ें: बिहार सीएम की संपन्न लोगों से अपील, 1 दिसंबर से अभियान",
+    "p": "बिहार के मुख्यमंत्री सम्राट चौधरी ने संपन्न परिवारों और आयकर दाताओं से 125 यूनिट मुफ्त बिजली स्वेच्छा से छोड़ने की फिर अपील की। इसके लिए 1 दिसंबर से विशेष अभियान शुरू होगा। उन्होंने बताया कि राज्य बिजली सब्सिडी पर हर साल लगभग ₹23,000 करोड़ खर्च करता है और हर परिवार को सालाना लगभग ₹10,000 की सब्सिडी मिलती है।",
+    "pts": [
+     "1 दिसंबर से स्वैच्छिक सब्सिडी त्याग अभियान",
+     "बिजली सब्सिडी पर सालाना लगभग ₹23,000 करोड़",
+     "सीएम बोले, सब्सिडी छोड़ने वालों को सम्मान मिलेगा"
+    ],
+    "why": "यह अभियान बिहार में मुफ्त बिजली पाने वाले आयकर दाता परिवारों पर सीधे केंद्रित है।",
+    "cat": "बिहार · बिजली",
+    "statl": "मुफ्त बिजली छोड़ने की अपील"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఓటర్ల జాబితా",
    "col": "--c-election",
@@ -1718,248 +1866,6 @@
    },
    "d": "08.11.2026",
    "t": "11:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "20",
-   "statl": "పోలీసుల అదుపులో మహిళలు",
-   "h": "బంజారాహిల్స్‌లో 'కిట్టీ పార్టీ' పేరుతో పేకాట: పోలీసుల దాడి",
-   "p": "హైదరాబాద్ బంజారాహిల్స్ రోడ్ నంబర్ 14లోని ఒక అపార్ట్‌మెంట్‌లో కిట్టీ పార్టీ పేరుతో మహిళలకు నిర్వహిస్తున్న పేకాట శిబిరంపై పోలీసులు దాడి చేశారు. దీన్ని నిర్వహిస్తున్న మహిళా వ్యాపారులను అరెస్ట్ చేశారు. 20 మంది మహిళలను అదుపులోకి తీసుకున్నారు. బంజారాహిల్స్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-8th-november-2026-3706.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బంజారాహిల్స్",
-   "pts": [
-    "రోడ్ నంబర్ 14 అపార్ట్‌మెంట్‌లో దాడి",
-    "నిర్వాహకులైన మహిళా వ్యాపారుల అరెస్ట్",
-    "20 మంది మహిళలు అదుపులో"
-   ],
-   "why": "పండుగ సమయంలో పేకాట, జూదం శిబిరాలపై పోలీసులు నిఘా పెంచినట్లు ఈ దాడి చూపుతోంది.",
-   "en": {
-    "h": "Poker game run as 'kitty party' busted in Banjara Hills",
-    "p": "Police raided a poker game being held for women under the name of a kitty party at an apartment on Road No. 14 in Hyderabad's Banjara Hills. The women businesspersons who organised it were arrested. Twenty women were taken into custody. Banjara Hills police have registered a case and are investigating.",
-    "pts": [
-     "Raid at an apartment on Road No. 14",
-     "Women businesspersons who ran it arrested",
-     "20 women taken into custody"
-    ],
-    "why": "The raid shows police have stepped up watch on gambling during the festival season.",
-    "cat": "Hyderabad · Crime",
-    "statl": "Women taken into police custody"
-   },
-   "hi": {
-    "h": "बंजारा हिल्स में 'किटी पार्टी' के नाम पर पोकर, पुलिस का छापा",
-    "p": "हैदराबाद के बंजारा हिल्स रोड नंबर 14 के एक अपार्टमेंट में किटी पार्टी के नाम पर महिलाओं के लिए चल रहे पोकर खेल पर पुलिस ने छापा मारा। इसे चलाने वाली महिला कारोबारियों को गिरफ्तार किया गया। 20 महिलाओं को हिरासत में लिया गया। बंजारा हिल्स पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "रोड नंबर 14 के अपार्टमेंट में छापा",
-     "आयोजक महिला कारोबारी गिरफ्तार",
-     "20 महिलाएं हिरासत में"
-    ],
-    "why": "यह छापा दिखाता है कि त्योहार के मौसम में पुलिस ने जुए पर निगरानी बढ़ाई है।",
-    "cat": "हैदराबाद · अपराध",
-    "statl": "पुलिस हिरासत में महिलाएं"
-   },
-   "d": "08.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "భారత్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "100వ ఏట",
-   "statl": "ఎల్.కె. అడ్వాణీ పుట్టినరోజు",
-   "h": "100వ ఏట అడుగుపెట్టిన అడ్వాణీ: ప్రధాని మోదీ, చంద్రబాబు శుభాకాంక్షలు",
-   "p": "బీజేపీ సీనియర్ నేత ఎల్.కె. అడ్వాణీ ఆదివారం 100వ ఏట అడుగుపెట్టారు. పార్టీ, ప్రభుత్వం అప్పగించిన ప్రతి బాధ్యతను ఆయన నిబద్ధతతో నిర్వర్తించారని ప్రధాని నరేంద్ర మోదీ శుభాకాంక్షలు తెలిపారు. దశాబ్దాల ప్రజాసేవ, యువతకు స్ఫూర్తి, దేశ ప్రగతిలో ఆయన పాత్రను ఏపీ సీఎం చంద్రబాబు గుర్తుచేశారు. మంత్రి నారా లోకేశ్ కూడా శుభాకాంక్షలు చెప్పారు.",
-   "src": "The Hans India, Andhra Jyothy",
-   "url": "https://www.thehansindia.com/news/cities/new-delhi/advani-atal-changed-course-of-indian-politics-pm-modi-pens-tribute-as-lk-advani-enters-100th-year-1140349",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "అడ్వాణీ 100వ ఏట అడుగు",
-    "నిబద్ధతతో బాధ్యతలు నిర్వర్తించారన్న మోదీ",
-    "ప్రజాసేవను గుర్తుచేసిన చంద్రబాబు"
-   ],
-   "why": "దేశ రాజకీయాల్లో దీర్ఘకాలం కీలకంగా ఉన్న నేత వందో ఏట అడుగుపెట్టడం అరుదైన సందర్భం.",
-   "en": {
-    "h": "Advani enters 100th year: PM Modi, Chandrababu send wishes",
-    "p": "Senior BJP leader L.K. Advani entered his 100th year on Sunday. Prime Minister Narendra Modi greeted him, saying he carried out every responsibility given by the party and government with commitment. AP CM Chandrababu Naidu recalled his decades of public service, his inspiration to youth and his role in the nation's progress. Minister Nara Lokesh also sent wishes.",
-    "pts": [
-     "Advani enters his 100th year",
-     "Modi: he carried out duties with commitment",
-     "Chandrababu recalls his public service"
-    ],
-    "why": "A leader who was long central to national politics entering his 100th year is a rare occasion.",
-    "cat": "India · Politics",
-    "statl": "L.K. Advani's birthday"
-   },
-   "hi": {
-    "h": "100वें वर्ष में आडवाणी: प्रधानमंत्री मोदी, चंद्रबाबू ने दी शुभकामनाएं",
-    "p": "भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी रविवार को 100वें वर्ष में प्रवेश कर गए। प्रधानमंत्री नरेंद्र मोदी ने शुभकामनाएं देते हुए कहा कि उन्होंने पार्टी और सरकार की हर ज़िम्मेदारी निष्ठा से निभाई। आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू ने उनकी दशकों की जनसेवा, युवाओं के लिए प्रेरणा और देश की प्रगति में भूमिका को याद किया। मंत्री नारा लोकेश ने भी शुभकामनाएं दीं।",
-    "pts": [
-     "आडवाणी 100वें वर्ष में",
-     "मोदी: निष्ठा से निभाईं ज़िम्मेदारियां",
-     "चंद्रबाबू ने जनसेवा को याद किया"
-    ],
-    "why": "राष्ट्रीय राजनीति में लंबे समय तक अहम रहे नेता का 100वें वर्ष में प्रवेश दुर्लभ अवसर है।",
-    "cat": "भारत · राजनीति",
-    "statl": "लालकृष्ण आडवाणी का जन्मदिन"
-   },
-   "d": "08.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "ప్రపంచం · జపాన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "5.7",
-   "statl": "రిక్టర్ స్కేలుపై భూకంప తీవ్రత",
-   "h": "మధ్య జపాన్‌లో 5.7 తీవ్రతతో భూకంపం: 20 మందికి పైగా గాయాలు",
-   "p": "మధ్య జపాన్‌లోని షిజువోకా ప్రిఫెక్చర్ పశ్చిమ ప్రాంతంలో ఆదివారం స్థానిక సమయం తెల్లవారుజామున 1:04 గంటలకు 5.7 తీవ్రతతో భూకంపం వచ్చింది. ఐచి, షిజువోకా ప్రాంతాల్లో 20 మందికి పైగా గాయపడ్డారు. దుకాణాల అద్దాలు పగిలిపోయాయి. సునామీ హెచ్చరిక జారీ చేయలేదు. రాబోయే వారం రోజుల్లో మరిన్ని బలమైన ప్రకంపనలు రావచ్చని జపాన్ వాతావరణ సంస్థ హెచ్చరించింది.",
-   "src": "Al Jazeera, AP",
-   "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "భూకంప కేంద్రం సుమారు 40 కి.మీ. లోతులో",
-    "సునామీ హెచ్చరిక లేదు",
-    "బుల్లెట్ రైళ్లు ఆలస్యం, కొన్ని రైళ్లు నిలిపివేత"
-   ],
-   "why": "జపాన్‌లో ఉంటున్న తెలుగువారు, అక్కడికి ప్రయాణించేవారు అధికారుల హెచ్చరికలను గమనించాలి.",
-   "en": {
-    "h": "5.7-magnitude earthquake in central Japan injures more than 20",
-    "p": "A magnitude 5.7 earthquake struck western Shizuoka Prefecture in central Japan at 1:04am local time on Sunday. More than 20 people were injured in Aichi and Shizuoka. Shop windows were shattered. No tsunami warning was issued. The Japan Meteorological Agency warned that more strong tremors could come over the next week.",
-    "pts": [
-     "Quake was about 40 km deep",
-     "No tsunami warning",
-     "Bullet trains delayed, some train services suspended"
-    ],
-    "why": "Telugu people living in or travelling to Japan should follow the authorities' warnings.",
-    "cat": "World · Japan",
-    "statl": "Earthquake magnitude on the Richter scale"
-   },
-   "hi": {
-    "h": "मध्य जापान में 5.7 तीव्रता का भूकंप: 20 से ज़्यादा लोग घायल",
-    "p": "मध्य जापान के पश्चिमी शिज़ुओका प्रांत में रविवार को स्थानीय समय तड़के 1:04 बजे 5.7 तीव्रता का भूकंप आया। आइची और शिज़ुओका में 20 से ज़्यादा लोग घायल हुए। दुकानों के शीशे टूट गए। सुनामी की कोई चेतावनी जारी नहीं की गई। जापान मौसम एजेंसी ने अगले एक हफ्ते में और तेज़ झटकों की चेतावनी दी है।",
-    "pts": [
-     "भूकंप का केंद्र करीब 40 किमी गहराई में",
-     "सुनामी की कोई चेतावनी नहीं",
-     "बुलेट ट्रेनें देरी से, कुछ ट्रेन सेवाएं रुकीं"
-    ],
-    "why": "जापान में रहने वाले या वहां जाने वाले भारतीयों को अधिकारियों की चेतावनियों पर ध्यान देना चाहिए।",
-    "cat": "दुनिया · जापान",
-    "statl": "रिक्टर पैमाने पर भूकंप की तीव्रता"
-   },
-   "d": "08.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ప్రమాదం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "3 మృతి",
-   "statl": "ఓఆర్ఆర్ అప్పా జంక్షన్ వద్ద ప్రమాదం",
-   "h": "ఓఆర్ఆర్‌పై లారీని ఢీకొన్న కూలీల ఆటో: ముగ్గురు మృతి, ఇద్దరి పరిస్థితి విషమం",
-   "p": "హైదరాబాద్ ఔటర్ రింగ్ రోడ్డుపై అప్పా జంక్షన్ వద్ద కూలీలతో వెళ్తున్న ఆటో ముందున్న లారీని వెనుక నుంచి ఢీకొట్టింది. ఈ ప్రమాదంలో ముగ్గురు అక్కడికక్కడే మృతి చెందగా, మరో ఇద్దరు తీవ్రంగా గాయపడ్డారు. ముచ్చింతల్‌లో మొక్కలు నాటే పని ముగించుకుని మొయినాబాద్ వైపు వెళ్తుండగా ఈ ఘటన జరిగింది. రాజేంద్రనగర్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "src": "The Hans India, TV9 Telugu",
-   "url": "https://www.thehansindia.com/news/cities/hyderabad/three-killed-in-orr-crash-in-hyderabad-1140351",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "అప్పా జంక్షన్",
-   "pts": [
-    "ఆటోలో 15 నుంచి 17 మంది ప్రయాణం",
-    "ఓఆర్ఆర్ నుంచి దిగుతుండగా లారీని ఢీ",
-    "గాయపడిన ఇద్దరు ఆసుపత్రిలో చికిత్స"
-   ],
-   "why": "పరిమితికి మించి ప్రయాణికులతో వెళ్లే ఆటోలు ఓఆర్ఆర్‌పై ప్రాణాంతకమని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "d": "08.11.2026",
-   "t": "10:35",
-   "en": {
-    "h": "Labourers' auto hits lorry on ORR: three dead, two critical",
-    "p": "An auto carrying labourers hit a lorry ahead from behind at APPA Junction on Hyderabad's Outer Ring Road. Three people died on the spot and two others were seriously injured. The workers were heading towards Moinabad after finishing tree-planting work in Muchintal. Rajendranagar police have registered a case and are investigating.",
-    "pts": [
-     "15 to 17 people were travelling in the auto",
-     "Hit the lorry while exiting the ORR",
-     "The two injured are being treated in hospital"
-    ],
-    "why": "The crash is a reminder that overloaded autos on the ORR can be deadly.",
-    "cat": "Hyderabad · Accident",
-    "statl": "Crash at ORR APPA Junction"
-   },
-   "hi": {
-    "h": "ओआरआर पर मज़दूरों का ऑटो लॉरी से टकराया: तीन की मौत, दो गंभीर",
-    "p": "हैदराबाद के आउटर रिंग रोड पर अप्पा जंक्शन के पास मज़दूरों को ले जा रहा एक ऑटो आगे चल रही लॉरी से पीछे से टकरा गया। हादसे में तीन लोगों की मौके पर ही मौत हो गई और दो अन्य गंभीर रूप से घायल हुए। मज़दूर मुचिंतल में पौधारोपण का काम खत्म करके मोइनाबाद की ओर जा रहे थे। राजेंद्रनगर पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "ऑटो में 15 से 17 लोग सवार थे",
-     "ओआरआर से उतरते समय लॉरी से टक्कर",
-     "दोनों घायलों का अस्पताल में इलाज जारी"
-    ],
-    "why": "यह हादसा याद दिलाता है कि ओआरआर पर क्षमता से ज़्यादा सवारियों वाले ऑटो जानलेवा हो सकते हैं।",
-    "cat": "हैदराबाद · हादसा",
-    "statl": "ओआरआर अप्पा जंक्शन पर हादसा"
-   }
-  },
-  {
-   "cat": "ఏపీ · పట్టణాలు",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "6 అవార్డులు",
-   "statl": "ఏపీకి స్వచ్ఛ సర్వేక్షణ్ పురస్కారాలు",
-   "h": "స్వచ్ఛ సర్వేక్షణ్‌లో ఏపీకి ఆరు జాతీయ అవార్డులు; నవంబర్ 11న ప్రదానం",
-   "p": "స్వచ్ఛ సర్వేక్షణ్‌లో ఆంధ్రప్రదేశ్‌కు ఆరు జాతీయ స్థాయి అవార్డులు దక్కాయి. విశాఖపట్నం, విజయవాడ, గుంటూరు, రాజమహేంద్రవరం, తిరుపతి నగరపాలక సంస్థలతో పాటు కుప్పం పురపాలక సంఘానికి గుర్తింపు లభించింది. నవంబర్ 11న న్యూఢిల్లీలో రాష్ట్రపతి ద్రౌపది ముర్ము ఈ అవార్డులు అందజేస్తారు. ఇది రాష్ట్రానికి గర్వకారణమని పురపాలక మంత్రి నారాయణ అన్నారు.",
-   "src": "Deccan Chronicle, ETV Bharat",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-bags-six-swachh-survekshan-awards-2002573",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "ఐదు నగరపాలక సంస్థలు, కుప్పం పురపాలక సంఘానికి గుర్తింపు",
-    "ప్రతి నెల మూడో శనివారం ప్రత్యేక పారిశుద్ధ్య కార్యక్రమాలు",
-    "ఢిల్లీలో రాష్ట్రపతి చేతుల మీదుగా ప్రదానం"
-   ],
-   "why": "ఈ ఆరు పట్టణాల ప్రజలకు పారిశుద్ధ్యంలో జాతీయ గుర్తింపు లభించింది.",
-   "d": "08.11.2026",
-   "t": "10:35",
-   "en": {
-    "h": "AP wins six national Swachh Survekshan awards; to be presented on Nov 11",
-    "p": "Andhra Pradesh has won six national-level Swachh Survekshan awards. The Visakhapatnam, Vijayawada, Guntur, Rajahmundry and Tirupati municipal corporations and Kuppam Municipality were recognised. President Droupadi Murmu will present the awards in New Delhi on November 11. Municipal Administration Minister Narayana said it is a matter of pride for the state.",
-    "pts": [
-     "Five municipal corporations and Kuppam Municipality recognised",
-     "Special sanitation drives every third Saturday of the month",
-     "President to present awards in Delhi"
-    ],
-    "why": "People in these six towns get national recognition for cleanliness.",
-    "cat": "AP · Towns",
-    "statl": "Swachh Survekshan awards for AP"
-   },
-   "hi": {
-    "h": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को छह राष्ट्रीय पुरस्कार; 11 नवंबर को सम्मान",
-    "p": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को छह राष्ट्रीय स्तर के पुरस्कार मिले हैं। विशाखापत्तनम, विजयवाड़ा, गुंटूर, राजमहेंद्रवरम और तिरुपति नगर निगमों के साथ कुप्पम नगरपालिका को सम्मान मिला। 11 नवंबर को नई दिल्ली में राष्ट्रपति द्रौपदी मुर्मू ये पुरस्कार देंगी। नगर प्रशासन मंत्री नारायण ने इसे राज्य के लिए गर्व की बात बताया।",
-    "pts": [
-     "पांच नगर निगमों और कुप्पम नगरपालिका को सम्मान",
-     "हर महीने के तीसरे शनिवार विशेष सफ़ाई अभियान",
-     "दिल्ली में राष्ट्रपति के हाथों सम्मान"
-    ],
-    "why": "इन छह शहरों के लोगों को स्वच्छता में राष्ट्रीय पहचान मिली है।",
-    "cat": "आंध्र प्रदेश · शहर",
-    "statl": "आंध्र को स्वच्छ सर्वेक्षण पुरस्कार"
-   }
   },
   {
    "cat": "🪔 దీపావళి · వైరల్ వీడియో",

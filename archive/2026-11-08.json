@@ -1,8 +1,156 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 66,
+ "count": 69,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹7.9 కోట్లు",
+   "statl": "గంటలో కాజేసిన మొత్తం",
+   "h": "హైదరాబాద్ ఆర్థిక సంస్థ ఖాతా నుంచి గంటలో ₹7.9 కోట్లు కాజేసిన సైబర్ నేరగాళ్లు",
+   "p": "నానక్‌రామ్‌గూడ ఫైనాన్షియల్ డిస్ట్రిక్ట్ కేంద్రంగా పనిచేసే కీర్తన ఫిన్‌సర్వ్ అనే బ్యాంకింగేతర ఆర్థిక సంస్థ (ఎన్‌బీఎఫ్‌సీ) కార్పొరేట్ ఖాతా నుంచి సైబర్ మోసగాళ్లు కేవలం గంటలోనే ₹7.9 కోట్లు తరలించారు. నవంబర్ 6న ఉదయం 11 నుంచి 12 గంటల మధ్య ఐడీఎఫ్‌సీ ఫస్ట్ బ్యాంక్ ఖాతా ద్వారా 39 అనధికార లావాదేవీలు జరిగాయి. సంస్థ ఫిర్యాదుతో తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో కేసు నమోదు చేసి దర్యాప్తు చేపట్టింది.",
+   "src": "IndToday",
+   "url": "https://indtoday.com/hyderabad-cyber-fraudsters-loot-rs-7-9-crore-from-nbfc-in-an-hour/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "నానక్‌రామ్‌గూడ",
+   "pts": [
+    "39 అనధికార లావాదేవీలతో ₹7.9 కోట్లు తరలింపు",
+    "నవంబర్ 6 ఉదయం 11–12 గంటల మధ్య ఘటన",
+    "టీజీసీఎస్‌బీ కేసు నమోదు, లావాదేవీల జాడపై దర్యాప్తు"
+   ],
+   "why": "వ్యాపార సంస్థల బ్యాంకు ఖాతాలు కూడా సైబర్ మోసాలకు గురవుతున్నాయని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "08.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Cyber fraudsters steal ₹7.9 crore from Hyderabad NBFC's account in an hour",
+    "p": "Cyber fraudsters moved ₹7.9 crore out of the corporate account of Keerthana Finserv, a non-banking financial company (NBFC) operating from the Financial District at Nanakramguda, within just one hour. Thirty-nine unauthorised transactions were made through its IDFC First Bank account between 11 am and 12 noon on November 6. On the company's complaint, the Telangana Cyber Security Bureau registered a case and began an investigation.",
+    "pts": [
+     "₹7.9 crore moved through 39 unauthorised transactions",
+     "Incident took place between 11 am and 12 noon on November 6",
+     "TGCSB registered a case and is tracing the transfers"
+    ],
+    "why": "The case is a reminder that even business bank accounts are being hit by cyber fraud.",
+    "cat": "Hyderabad · Cyber crime",
+    "statl": "Amount stolen within an hour"
+   },
+   "hi": {
+    "h": "हैदराबाद की वित्तीय कंपनी के खाते से साइबर ठगों ने एक घंटे में ₹7.9 करोड़ उड़ाए",
+    "p": "नानकरामगुडा फाइनेंशियल डिस्ट्रिक्ट से काम करने वाली गैर-बैंकिंग वित्तीय कंपनी (एनबीएफसी) कीर्तना फिनसर्व के कॉर्पोरेट खाते से साइबर ठगों ने सिर्फ एक घंटे में ₹7.9 करोड़ निकाल लिए। 6 नवंबर को सुबह 11 से 12 बजे के बीच आईडीएफसी फर्स्ट बैंक खाते से 39 अनधिकृत लेनदेन हुए। कंपनी की शिकायत पर तेलंगाना साइबर सुरक्षा ब्यूरो ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "39 अनधिकृत लेनदेन से ₹7.9 करोड़ निकाले गए",
+     "घटना 6 नवंबर सुबह 11 से 12 बजे के बीच",
+     "टीजीसीएसबी ने मामला दर्ज किया, लेनदेन की जांच जारी"
+    ],
+    "why": "यह घटना याद दिलाती है कि कारोबारी बैंक खाते भी साइबर ठगी का शिकार हो रहे हैं।",
+    "cat": "हैदराबाद · साइबर अपराध",
+    "statl": "एक घंटे में उड़ाई गई रकम"
+   }
+  },
+  {
+   "cat": "ఉత్తరాఖండ్ · హరిద్వార్",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "18 రోజులు",
+   "statl": "నిలిపివేత తర్వాత మళ్లీ గంగా ప్రవాహం",
+   "h": "18 రోజుల తర్వాత హరిద్వార్‌లో మళ్లీ గంగా ప్రవాహం; అర్ధ కుంభ్‌కు సిద్ధం",
+   "p": "వార్షిక నిర్వహణ పనుల కోసం దసరా తర్వాత నిలిపివేసిన గంగా ప్రవాహాన్ని 18 రోజుల తర్వాత శనివారం అర్ధరాత్రి పునరుద్ధరించారు. ఈ సమయంలో హర్ కీ పౌడీ సహా ఘాట్లు ఎండిపోయాయి. రానున్న అర్ధ కుంభమేళా కోసం ఈ విరామంలో నిర్మాణ పనులు పూర్తి చేశారు. హరిద్వార్‌లో స్నానాల ఘాట్ల పొడవు ఇప్పుడున్న సుమారు 12.5 కి.మీ. నుంచి 16 కి.మీ.కు పెరగనుంది.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/uttarakhand-water-flow-in-ganga-river-restored-after-18-day-suspension/3093695/",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "UK",
+   "place": "IN",
+   "loc": "హరిద్వార్",
+   "pts": [
+    "3.25 కి.మీ. పొడవున 10 కొత్త ఘాట్ల నిర్మాణం",
+    "34 + 22 ఘాట్ల నీట మునిగిన భాగాల మరమ్మతు పూర్తి",
+    "కొత్త ఘాట్లు నవంబర్ 30లోగా పూర్తి చేయాలని లక్ష్యం"
+   ],
+   "why": "అర్ధ కుంభమేళాకు హరిద్వార్ వెళ్లే భక్తులకు స్నానాల కోసం మరిన్ని ఘాట్లు అందుబాటులోకి వస్తాయి.",
+   "d": "08.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Ganga flow restored in Haridwar after 18 days; ghats readied for Ardh Kumbh",
+    "p": "The flow of the Ganga, stopped after Dussehra for annual maintenance, was restored at midnight on Saturday after 18 days. During this period, ghats including Har Ki Pauri ran dry. Construction work for the upcoming Ardh Kumbh Mela was completed during the break. The length of bathing ghats in Haridwar will grow from about 12.5 km now to 16 km.",
+    "pts": [
+     "10 new ghats being built over 3.25 km",
+     "Repairs to submerged parts of 34 + 22 ghats completed",
+     "Target to finish the new ghats by November 30"
+    ],
+    "why": "Pilgrims going to Haridwar for the Ardh Kumbh will have more ghats for bathing.",
+    "cat": "Uttarakhand · Haridwar",
+    "statl": "Ganga flows again after the shutdown"
+   },
+   "hi": {
+    "h": "18 दिन बाद हरिद्वार में फिर बही गंगा; अर्ध कुंभ के लिए घाट तैयार",
+    "p": "वार्षिक रखरखाव के लिए दशहरे के बाद रोका गया गंगा का प्रवाह 18 दिन बाद शनिवार आधी रात को बहाल कर दिया गया। इस दौरान हर की पौड़ी समेत घाट सूखे रहे। आगामी अर्ध कुंभ मेले के लिए निर्माण कार्य इसी अवधि में पूरे किए गए। हरिद्वार में स्नान घाटों की लंबाई अभी के लगभग 12.5 किमी से बढ़कर 16 किमी हो जाएगी।",
+    "pts": [
+     "3.25 किमी में 10 नए घाटों का निर्माण",
+     "34 + 22 घाटों के डूबे हिस्सों की मरम्मत पूरी",
+     "नए घाट 30 नवंबर तक पूरे करने का लक्ष्य"
+    ],
+    "why": "अर्ध कुंभ के लिए हरिद्वार जाने वाले श्रद्धालुओं को स्नान के लिए ज्यादा घाट मिलेंगे।",
+    "cat": "उत्तराखंड · हरिद्वार",
+    "statl": "बंदी के बाद फिर बही गंगा"
+   }
+  },
+  {
+   "cat": "బిహార్ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "125 యూనిట్లు",
+   "statl": "ఉచిత విద్యుత్ వదులుకోవాలని విజ్ఞప్తి",
+   "h": "ఉచిత విద్యుత్ వదులుకోండి: సంపన్నులకు బిహార్ సీఎం పిలుపు, డిసెంబర్ 1 నుంచి ప్రచారం",
+   "p": "ఆర్థికంగా స్థిరపడిన కుటుంబాలు, ఆదాయపు పన్ను చెల్లింపుదారులు 125 యూనిట్ల ఉచిత విద్యుత్‌ను స్వచ్ఛందంగా వదులుకోవాలని బిహార్ ముఖ్యమంత్రి సామ్రాట్ చౌదరి మళ్లీ కోరారు. ఇందుకోసం డిసెంబర్ 1 నుంచి ప్రత్యేక ప్రచారం చేపట్టనున్నారు. విద్యుత్ రాయితీలపై రాష్ట్రం ఏటా సుమారు ₹23,000 కోట్లు ఖర్చు చేస్తోందని, ఒక్కో కుటుంబానికి ఏటా సుమారు ₹10,000 రాయితీ అందుతోందని ఆయన తెలిపారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/bihar-to-launch-drive-from-dec-1-to-encourage-well-off-people-to-surrender-power-subsidy/3093687/",
+   "sec": [
+    "india"
+   ],
+   "st": "BR",
+   "place": "IN",
+   "pts": [
+    "డిసెంబర్ 1 నుంచి రాయితీ స్వచ్ఛంద విరమణ ప్రచారం",
+    "విద్యుత్ రాయితీలపై ఏటా సుమారు ₹23,000 కోట్లు",
+    "వదులుకున్నవారికి గుర్తింపు ఇస్తామన్న సీఎం"
+   ],
+   "why": "బిహార్‌లో ఉచిత విద్యుత్ పొందుతున్న ఆదాయపు పన్ను చెల్లింపుదారుల కుటుంబాలను ఈ ప్రచారం నేరుగా ఉద్దేశించింది.",
+   "d": "08.11.2026",
+   "t": "17:05",
+   "en": {
+    "h": "Give up free power: Bihar CM urges well-off; drive from December 1",
+    "p": "Bihar Chief Minister Samrat Choudhary again urged well-off families and income tax payers to voluntarily give up 125 units of free electricity. A special campaign for this will begin on December 1. He said the state spends about ₹23,000 crore a year on electricity subsidies and each family gets a subsidy of about ₹10,000 a year.",
+    "pts": [
+     "Voluntary subsidy surrender campaign from December 1",
+     "About ₹23,000 crore a year spent on power subsidies",
+     "CM said those who give it up will be recognised"
+    ],
+    "why": "The campaign is aimed directly at income-tax-paying families in Bihar who get free electricity.",
+    "cat": "Bihar · Electricity",
+    "statl": "Appeal to give up free power"
+   },
+   "hi": {
+    "h": "मुफ्त बिजली छोड़ें: बिहार सीएम की संपन्न लोगों से अपील, 1 दिसंबर से अभियान",
+    "p": "बिहार के मुख्यमंत्री सम्राट चौधरी ने संपन्न परिवारों और आयकर दाताओं से 125 यूनिट मुफ्त बिजली स्वेच्छा से छोड़ने की फिर अपील की। इसके लिए 1 दिसंबर से विशेष अभियान शुरू होगा। उन्होंने बताया कि राज्य बिजली सब्सिडी पर हर साल लगभग ₹23,000 करोड़ खर्च करता है और हर परिवार को सालाना लगभग ₹10,000 की सब्सिडी मिलती है।",
+    "pts": [
+     "1 दिसंबर से स्वैच्छिक सब्सिडी त्याग अभियान",
+     "बिजली सब्सिडी पर सालाना लगभग ₹23,000 करोड़",
+     "सीएम बोले, सब्सिडी छोड़ने वालों को सम्मान मिलेगा"
+    ],
+    "why": "यह अभियान बिहार में मुफ्त बिजली पाने वाले आयकर दाता परिवारों पर सीधे केंद्रित है।",
+    "cat": "बिहार · बिजली",
+    "statl": "मुफ्त बिजली छोड़ने की अपील"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఓటర్ల జాబితా",
    "col": "--c-election",
