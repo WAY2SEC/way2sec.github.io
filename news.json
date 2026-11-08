@@ -1,8 +1,251 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T13:10:24+05:30",
+ "updated": "2026-11-08T13:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · తుపాను సాయం",
+   "col": "--c-gov",
+   "art": "rain",
+   "stat": "3.8 లక్షలు",
+   "statl": "కుటుంబాలకు నిత్యావసరాల పంపిణీ",
+   "h": "మురసు తుపాను బాధితులకు తక్షణ ఆర్థిక సాయం: సీఎం చంద్రబాబు ఆదేశం",
+   "p": "మురసు తుపాను ప్రభావిత కుటుంబాలకు వెంటనే ఆర్థిక సాయం అందించాలని, నిత్యావసరాల సరఫరా ఆగకుండా చూసి ధరలు అదుపులో ఉంచాలని ముఖ్యమంత్రి చంద్రబాబు నాయుడు అధికారులను ఆదేశించారు. క్యాంపు కార్యాలయంలో సహాయ, పునరావాస పనులపై సమీక్షించారు. ఉద్యాన పంటల నష్టం అంచనా దాదాపు 92 శాతం పూర్తయిందని, వ్యవసాయ పంటల అంచనా నవంబర్ 9 నాటికి పూర్తవుతుందని అధికారులు తెలిపారు. 1,825 గ్రామాల్లో విద్యుత్ పునరుద్ధరణ కొనసాగుతోంది.",
+   "src": "The Economic Times",
+   "url": "https://fvbb.com/ns/andhra-cm-naidu-orders-immediate-financial/329417",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "3.8 లక్షల కుటుంబాలకు నిత్యావసర సరుకులు",
+    "ఇప్పటివరకు 7,850 విద్యుత్ స్తంభాల మరమ్మతు",
+    "ఉల్లి, బియ్యం, పామాయిల్, కందిపప్పు ధరలపై సమీక్ష"
+   ],
+   "why": "తుపాను దెబ్బతిన్న కుటుంబాలకు సాయం, విద్యుత్ పునరుద్ధరణ, నిత్యావసరాల ధరలపై ఈ నిర్ణయాలు నేరుగా ప్రభావం చూపుతాయి.",
+   "en": {
+    "h": "Immediate financial aid for Cyclone Murasu victims: CM Naidu orders officials",
+    "p": "Chief Minister N Chandrababu Naidu directed officials to give immediate financial aid to families hit by Cyclone Murasu, ensure uninterrupted supply of essential commodities and keep prices in check. He reviewed relief and rehabilitation work at his camp office. Officials said nearly 92 per cent of the horticulture crop damage assessment is complete and the agricultural crop assessment will be finished by November 9. Power restoration is under way in 1,825 villages.",
+    "pts": [
+     "Essential commodities supplied to 3.8 lakh families",
+     "7,850 damaged electricity poles repaired so far",
+     "Review of onion, rice, palm oil and red gram dal prices"
+    ],
+    "why": "These decisions directly affect cyclone-hit families' relief, power restoration and the prices of essential goods.",
+    "cat": "Andhra Pradesh · Cyclone relief",
+    "statl": "families given essential commodities"
+   },
+   "hi": {
+    "h": "मुरासु चक्रवात पीड़ितों को तुरंत आर्थिक मदद: मुख्यमंत्री नायडू का आदेश",
+    "p": "मुख्यमंत्री एन चंद्रबाबू नायडू ने अधिकारियों को मुरासु चक्रवात से प्रभावित परिवारों को तुरंत आर्थिक मदद देने, ज़रूरी सामान की आपूर्ति बिना रुकावट जारी रखने और कीमतें काबू में रखने का निर्देश दिया। उन्होंने अपने कैंप कार्यालय में राहत और पुनर्वास कार्यों की समीक्षा की। अधिकारियों ने बताया कि बागवानी फसलों के नुकसान का आकलन लगभग 92 प्रतिशत पूरा हो गया है और कृषि फसलों का आकलन 9 नवंबर तक पूरा होगा। 1,825 गांवों में बिजली बहाली जारी है।",
+    "pts": [
+     "3.8 लाख परिवारों को ज़रूरी सामान दिया गया",
+     "अब तक 7,850 बिजली खंभों की मरम्मत",
+     "प्याज़, चावल, पाम तेल, अरहर दाल की कीमतों की समीक्षा"
+    ],
+    "why": "ये फैसले चक्रवात प्रभावित परिवारों की राहत, बिजली बहाली और ज़रूरी सामान की कीमतों पर सीधा असर डालते हैं।",
+    "cat": "आंध्र प्रदेश · चक्रवात राहत",
+    "statl": "परिवारों को ज़रूरी सामान"
+   },
+   "d": "08.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "₹20,000",
+   "statl": "తాగునీటి దుర్వినియోగానికి జరిమానా",
+   "h": "తాగునీటితో నేల శుభ్రం: జూబ్లీహిల్స్ సంస్థకు జలమండలి ₹20,000 జరిమానా",
+   "p": "తాగునీటిని నేల శుభ్రం చేయడానికి వాడుతున్నందుకు జూబ్లీహిల్స్‌లోని ఒక సంస్థ ఉపయోగిస్తున్న ప్రాంగణానికి హైదరాబాద్ జలమండలి (HMWSSB) ₹20,000 జరిమానా విధించింది. ఆ ప్రాంగణం మురుగునీటి కనెక్షన్‌ను కూడా తాత్కాలికంగా తొలగించింది. వేసవిలో సరఫరా ఇబ్బందులు రావచ్చన్న దృష్ట్యా తాగునీటి వృథాపై చర్యలు ముమ్మరం చేశామని, నగరమంతా తనిఖీలు కొనసాగుతాయని అధికారులు తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hmwssb-fines-jubilee-hills-firm-rs-20000-for-using-drinking-water-to-clean-floors",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "జూబ్లీహిల్స్",
+   "pts": [
+    "తాగునీటిని వాహనాలు, తోటలు, నిర్మాణాలకు వాడొద్దని సూచన",
+    "వీలైన చోట ఎస్టీపీల శుద్ధి నీటిని వాడాలి",
+    "దుర్వినియోగంపై వాట్సాప్ 99499 30003కు ఫిర్యాదు"
+   ],
+   "why": "హైదరాబాద్‌లో తాగునీటిని వృథా చేసే ఇళ్లు, సంస్థలపై జలమండలి చర్యలు తీసుకుంటుందని ఇది స్పష్టం చేస్తోంది.",
+   "en": {
+    "h": "Floors cleaned with drinking water: HMWSSB fines Jubilee Hills firm Rs 20,000",
+    "p": "The Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB) imposed a Rs 20,000 penalty on premises used by a firm in Jubilee Hills for using drinking water to clean floors. It also temporarily disconnected the premises' sewerage connection. Officials said action against drinking water wastage has been stepped up in view of possible supply problems in summer, and inspections will continue across the city.",
+    "pts": [
+     "Don't use drinking water for vehicles, gardens or construction",
+     "Use treated water from STPs wherever possible",
+     "Report misuse on WhatsApp 99499 30003"
+    ],
+    "why": "It makes clear that the water board will act against homes and firms that waste drinking water in Hyderabad.",
+    "cat": "Hyderabad · Water",
+    "statl": "fine for misusing drinking water"
+   },
+   "hi": {
+    "h": "पीने के पानी से फर्श की सफाई: जुबली हिल्स की फर्म पर जल बोर्ड का ₹20,000 जुर्माना",
+    "p": "हैदराबाद मेट्रोपॉलिटन वॉटर सप्लाई एंड सीवरेज बोर्ड (HMWSSB) ने पीने के पानी से फर्श साफ करने पर जुबली हिल्स में एक फर्म द्वारा इस्तेमाल किए जा रहे परिसर पर ₹20,000 का जुर्माना लगाया। परिसर का सीवरेज कनेक्शन भी अस्थायी रूप से काट दिया गया। अधिकारियों ने कहा कि गर्मियों में आपूर्ति की संभावित दिक्कतों को देखते हुए पीने के पानी की बर्बादी पर कार्रवाई तेज़ की गई है और पूरे शहर में जांच जारी रहेगी।",
+    "pts": [
+     "पीने का पानी वाहन, बगीचे, निर्माण में न लगाएं",
+     "जहां संभव हो, STP का शोधित पानी इस्तेमाल करें",
+     "दुरुपयोग की शिकायत व्हाट्सऐप 99499 30003 पर"
+    ],
+    "why": "इससे साफ है कि हैदराबाद में पीने का पानी बर्बाद करने वाले घरों और संस्थानों पर जल बोर्ड कार्रवाई करेगा।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "पीने के पानी के दुरुपयोग पर जुर्माना"
+   },
+   "d": "08.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ఛత్తీస్‌గఢ్ · బస్తర్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "12,211 కి.మీ",
+   "statl": "బస్తర్‌లో నిర్మించిన రోడ్లు",
+   "h": "బస్తర్‌లో జవాన్లతో ప్రధాని మోదీ దీపావళి: నక్సలిజం ముగిసిందని వెల్లడి",
+   "p": "ఛత్తీస్‌గఢ్‌లోని బస్తర్ ప్రాంతంలో నక్సల్ వ్యతిరేక ఆపరేషన్లలో ఉన్న భద్రతా సిబ్బందితో ప్రధాని నరేంద్ర మోదీ దీపావళి జరుపుకున్నారు. దశాబ్దాల వామపక్ష తీవ్రవాదాన్ని దేశం అధిగమించిన తర్వాత ఇదే తొలి దీపావళి అని, దేశంలోని ప్రతి జిల్లా ఇప్పుడు నక్సలిజం నుంచి విముక్తి పొందిందని ఆయన అన్నారు. భద్రతా సిబ్బంది త్యాగం వల్లే ఇది సాధ్యమైందని, వారు తన కుటుంబమని పేర్కొన్నారు.",
+   "src": "The Week",
+   "url": "https://www.theweek.in/news/india/2026/11/08/pm-modi-celebrates-diwali-in-bastar.html",
+   "sec": [
+    "india"
+   ],
+   "st": "CG",
+   "place": "cg-bastar",
+   "pts": [
+    "బస్తర్ ఏడు జిల్లాల కోసం 200 భద్రతా శిబిరాలు",
+    "₹20,557 కోట్లతో 12,211 కి.మీ రోడ్లు",
+    "మే 2026లో బస్తర్‌ను నక్సల్ రహితంగా ప్రకటించిన అమిత్ షా"
+   ],
+   "why": "దశాబ్దాలు తీవ్రవాదంతో ఇబ్బంది పడిన బస్తర్ ప్రాంతంలో భద్రత, అభివృద్ధిపై కేంద్రం దృష్టిని ఇది చూపిస్తుంది.",
+   "en": {
+    "h": "PM Modi celebrates Diwali with jawans in Bastar, says Naxalism has ended",
+    "p": "Prime Minister Narendra Modi celebrated Diwali with security personnel deployed in anti-Naxal operations in Chhattisgarh's Bastar region. He said this is the first Diwali since the country overcame decades of left-wing extremism, and that every district in the country is now free from Naxalism. He said this was possible because of the sacrifice of the security personnel, whom he called his family.",
+    "pts": [
+     "200 security camps set up for Bastar's seven districts",
+     "12,211 km of roads built at Rs 20,557 crore",
+     "Amit Shah declared Bastar Naxal-free in May 2026"
+    ],
+    "why": "It shows the Centre's focus on security and development in Bastar, a region troubled by extremism for decades.",
+    "cat": "Chhattisgarh · Bastar",
+    "statl": "roads built in Bastar"
+   },
+   "hi": {
+    "h": "बस्तर में जवानों के साथ पीएम मोदी की दिवाली, कहा नक्सलवाद खत्म हुआ",
+    "p": "प्रधानमंत्री नरेंद्र मोदी ने छत्तीसगढ़ के बस्तर क्षेत्र में नक्सल विरोधी अभियानों में तैनात सुरक्षाकर्मियों के साथ दिवाली मनाई। उन्होंने कहा कि दशकों के वामपंथी उग्रवाद पर देश की जीत के बाद यह पहली दिवाली है और देश का हर ज़िला अब नक्सलवाद से मुक्त है। उन्होंने कहा कि यह सुरक्षाकर्मियों के बलिदान से संभव हुआ और वे उनका परिवार हैं।",
+    "pts": [
+     "बस्तर के सात ज़िलों के लिए 200 सुरक्षा शिविर",
+     "₹20,557 करोड़ से 12,211 किमी सड़कें",
+     "मई 2026 में अमित शाह ने बस्तर को नक्सल-मुक्त घोषित किया"
+    ],
+    "why": "यह दशकों तक उग्रवाद झेलने वाले बस्तर में सुरक्षा और विकास पर केंद्र के ध्यान को दिखाता है।",
+    "cat": "छत्तीसगढ़ · बस्तर",
+    "statl": "बस्तर में बनी सड़कें"
+   },
+   "d": "08.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ఉత్తరప్రదేశ్ · అయోధ్య",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "36 లక్షలు",
+   "statl": "సరయూ తీరంలో వెలిగిన ప్రమిదలు",
+   "h": "అయోధ్య దీపోత్సవం: సరయూ తీరంలో 36 లక్షలకు పైగా ప్రమిదలు",
+   "p": "10వ దీపోత్సవం సందర్భంగా శనివారం అయోధ్యలో సరయూ నది తీరాన రామ్ కీ పైడీ సహా 56 ఘాట్లలో 36 లక్షలకు పైగా మట్టి ప్రమిదలు వెలిగించారు. గిన్నిస్ రికార్డు నమోదైన 2025 కంటే ఇవి సుమారు 10 లక్షలు ఎక్కువ. ఉపరాష్ట్రపతి సీపీ రాధాకృష్ణన్, యూపీ గవర్నర్ ఆనందీబెన్ పటేల్, ముఖ్యమంత్రి యోగి ఆదిత్యనాథ్ రామ్ కీ పైడీ వద్ద దీపాలు వెలిగించారు.",
+   "src": "PTI",
+   "url": "https://telanganatoday.com/deepotsav-2026-ayodhya-glows-with-record-36-lakh-earthen-lamps",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "UP",
+   "place": "up-ayodhya",
+   "pts": [
+    "2025లో 26,17,215 ప్రమిదలతో గిన్నిస్ రికార్డు",
+    "35,000 మందికి పైగా వాలంటీర్ల సహకారం",
+    "లేజర్ షో, డ్రోన్ షో, హెలికాప్టర్ పూలవర్షం"
+   ],
+   "why": "దేశవ్యాప్తంగా భక్తులు, పర్యాటకులు ఆసక్తిగా చూసే అయోధ్య దీపోత్సవం ఈసారి మరింత పెద్ద ఎత్తున జరిగింది.",
+   "en": {
+    "h": "Ayodhya Deepotsav: over 36 lakh earthen lamps light up Saryu banks",
+    "p": "For the 10th Deepotsav, over 36 lakh earthen lamps were lit on Saturday across 56 ghats along the Saryu river in Ayodhya, including Ram Ki Paidi. That is about 10 lakh more than in 2025, when the event set a Guinness record. Vice-President C P Radhakrishnan, UP Governor Anandiben Patel and Chief Minister Yogi Adityanath lit lamps at Ram Ki Paidi.",
+    "pts": [
+     "2025 Guinness record was 26,17,215 lamps",
+     "Over 35,000 volunteers helped",
+     "Laser show, drone show, helicopter flower shower"
+    ],
+    "why": "Ayodhya's Deepotsav, watched by devotees and tourists across India, was held on an even bigger scale this time.",
+    "cat": "Uttar Pradesh · Ayodhya",
+    "statl": "lamps lit on Saryu banks"
+   },
+   "hi": {
+    "h": "अयोध्या दीपोत्सव: सरयू तट पर 36 लाख से ज़्यादा दीये जले",
+    "p": "10वें दीपोत्सव पर शनिवार को अयोध्या में सरयू नदी के किनारे राम की पैड़ी समेत 56 घाटों पर 36 लाख से ज़्यादा मिट्टी के दीये जलाए गए। यह गिनीज़ रिकॉर्ड बनाने वाले 2025 से लगभग 10 लाख ज़्यादा है। उपराष्ट्रपति सी पी राधाकृष्णन, यूपी की राज्यपाल आनंदीबेन पटेल और मुख्यमंत्री योगी आदित्यनाथ ने राम की पैड़ी पर दीये जलाए।",
+    "pts": [
+     "2025 में 26,17,215 दीयों का गिनीज़ रिकॉर्ड",
+     "35,000 से ज़्यादा स्वयंसेवकों ने मदद की",
+     "लेज़र शो, ड्रोन शो, हेलिकॉप्टर से पुष्पवर्षा"
+    ],
+    "why": "देशभर के श्रद्धालु और पर्यटक जिसे देखते हैं, वह अयोध्या दीपोत्सव इस बार और बड़े स्तर पर हुआ।",
+    "cat": "उत्तर प्रदेश · अयोध्या",
+    "statl": "सरयू तट पर जले दीये"
+   },
+   "d": "08.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ప్రపంచం · గల్ఫ్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "కూల్చివేసిన బాలిస్టిక్ క్షిపణులు",
+   "h": "రియాద్, తూర్పు ప్రావిన్స్‌పై హౌతీల 3 క్షిపణులు: కూల్చేసిన సౌదీ",
+   "p": "హౌతీలు సౌదీ అరేబియా వైపు ప్రయోగించిన మూడు బాలిస్టిక్ క్షిపణులను తమ గగనతల రక్షణ వ్యవస్థలు ధ్వంసం చేశాయని సౌదీ నేతృత్వంలోని సంకీర్ణ సేన ఆదివారం తెలిపింది. వాటిలో రెండు రియాద్‌ను, ఒకటి తూర్పు ప్రావిన్స్‌ను లక్ష్యంగా చేసుకున్నాయి. సనా సమీపంలోని ఒక గ్రామంపై సంకీర్ణ వైమానిక దాడుల్లో 33 మంది మరణించారని హౌతీలు చెబుతున్నారు; దీనిని స్వతంత్రంగా ధృవీకరించలేదు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "యెమెన్‌లో హౌతీలు, ప్రభుత్వ బలగాల మధ్య పోరు తీవ్రం",
+    "జూలై నుంచి 1,600 మందికి పైగా మృతి: ఐరాస",
+    "దాదాపు 3 లక్షల మంది నిరాశ్రయులు"
+   ],
+   "why": "సౌదీ అరేబియాలో పనిచేస్తున్న తెలుగువారు, వారి కుటుంబాలు అక్కడి భద్రతా పరిస్థితిని గమనించాల్సిన సమయం ఇది.",
+   "en": {
+    "h": "Saudi Arabia intercepts 3 Houthi missiles aimed at Riyadh, Eastern province",
+    "p": "The Saudi-led coalition said on Sunday its air defences destroyed three ballistic missiles fired by the Houthis towards Saudi Arabia. Two were aimed at Riyadh and one at the Eastern province. The Houthis say 33 people were killed in coalition air attacks on a village near Sanaa; this has not been independently verified.",
+    "pts": [
+     "Fighting intensifies between Houthis and Yemen government forces",
+     "Over 1,600 killed since July: UN",
+     "Nearly 3 lakh people displaced"
+    ],
+    "why": "Telugu people working in Saudi Arabia and their families need to watch the security situation there.",
+    "cat": "World · Gulf",
+    "statl": "ballistic missiles intercepted"
+   },
+   "hi": {
+    "h": "रियाद, पूर्वी प्रांत पर हूती की 3 मिसाइलें: सऊदी ने मार गिराईं",
+    "p": "सऊदी नेतृत्व वाले गठबंधन ने रविवार को कहा कि उसकी हवाई रक्षा प्रणाली ने हूतियों द्वारा सऊदी अरब की ओर दागी गई तीन बैलिस्टिक मिसाइलें नष्ट कर दीं। इनमें दो रियाद और एक पूर्वी प्रांत को निशाना बनाकर दागी गई थीं। हूतियों का कहना है कि सना के पास एक गांव पर गठबंधन के हवाई हमलों में 33 लोग मारे गए; इसकी स्वतंत्र पुष्टि नहीं हुई है।",
+    "pts": [
+     "यमन में हूतियों और सरकारी बलों के बीच लड़ाई तेज़",
+     "जुलाई से 1,600 से ज़्यादा लोगों की मौत: संयुक्त राष्ट्र",
+     "लगभग 3 लाख लोग विस्थापित"
+    ],
+    "why": "सऊदी अरब में काम करने वाले तेलुगु लोगों और उनके परिवारों को वहां की सुरक्षा स्थिति पर नज़र रखनी चाहिए।",
+    "cat": "दुनिया · खाड़ी",
+    "statl": "मार गिराई गई बैलिस्टिक मिसाइलें"
+   },
+   "d": "08.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "ఆలేరు · 5వ వార్డు",
    "col": "--c-gov",
