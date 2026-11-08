@@ -1,8 +1,58 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T18:10:38+05:30",
+ "updated": "2026-11-08T18:42:09+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · తిరుమల",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "15 గంటలు",
+   "statl": "సర్వదర్శనానికి పడుతున్న సమయం",
+   "h": "తిరుమలలో భక్తుల రద్దీ: సర్వదర్శనానికి 15 గంటలు",
+   "p": "తిరుమలలో భక్తుల రద్దీ కొనసాగుతోంది. టోకెన్లు లేని భక్తులకు శ్రీవారి సర్వదర్శనానికి 15 గంటల సమయం పడుతోందని టీటీడీ అధికారులు ఆదివారం తెలిపారు. క్యూలైన్లలో 31 కంపార్ట్‌మెంట్లు భక్తులతో నిండిపోయాయి. శనివారం 80,367 మంది స్వామివారిని దర్శించుకోగా, 27,401 మంది తలనీలాలు సమర్పించారు. హుండీ ఆదాయం రూ.3.34 కోట్లుగా నమోదైంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/andhrapradesh-news/continual-rush-of-devotees-in-tirumala-15-hours-for-darshan-of-srivari-temple-2555690",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుమల",
+   "pts": [
+    "టోకెన్ లేని భక్తులకు దర్శనానికి 15 గంటలు",
+    "31 కంపార్ట్‌మెంట్లు భక్తులతో నిండాయి",
+    "శనివారం 80,367 మందికి దర్శనం; హుండీ రూ.3.34 కోట్లు"
+   ],
+   "why": "తిరుమల యాత్రకు వెళ్లే భక్తులకు దర్శనానికి ఎంత సమయం పడుతుందో ఈ సమాచారం తెలియజేస్తుంది.",
+   "d": "08.11.2026",
+   "t": "18:35",
+   "en": {
+    "h": "Heavy rush at Tirumala: 15 hours for Sarvadarshan",
+    "p": "The rush of devotees continues at Tirumala. TTD officials said on Sunday that devotees without tokens are taking 15 hours to get Sarvadarshan of Lord Venkateswara. All 31 queue compartments are full. On Saturday, 80,367 devotees had darshan and 27,401 offered their hair as tonsure. Hundi income was recorded at Rs 3.34 crore.",
+    "pts": [
+     "15 hours for darshan for devotees without tokens",
+     "31 compartments full of devotees",
+     "80,367 had darshan on Saturday; hundi Rs 3.34 crore"
+    ],
+    "why": "This tells devotees travelling to Tirumala how long darshan is currently taking.",
+    "cat": "AP · Tirumala",
+    "statl": "Time taken for Sarvadarshan"
+   },
+   "hi": {
+    "h": "तिरुमला में भक्तों की भारी भीड़: सर्वदर्शन में 15 घंटे",
+    "p": "तिरुमला में भक्तों की भीड़ जारी है। टीटीडी अधिकारियों ने रविवार को बताया कि बिना टोकन वाले भक्तों को भगवान वेंकटेश्वर के सर्वदर्शन में 15 घंटे लग रहे हैं। कतार के सभी 31 कंपार्टमेंट भक्तों से भरे हैं। शनिवार को 80,367 भक्तों ने दर्शन किए और 27,401 ने मुंडन कराया। हुंडी आय 3.34 करोड़ रुपये दर्ज हुई।",
+    "pts": [
+     "बिना टोकन वाले भक्तों को दर्शन में 15 घंटे",
+     "31 कंपार्टमेंट भक्तों से भरे",
+     "शनिवार को 80,367 ने दर्शन किए; हुंडी 3.34 करोड़ रुपये"
+    ],
+    "why": "इससे तिरुमला जाने वाले भक्तों को पता चलता है कि अभी दर्शन में कितना समय लग रहा है।",
+    "cat": "आंध्र प्रदेश · तिरुमला",
+    "statl": "सर्वदर्शन में लगने वाला समय"
+   }
+  },
   {
    "cat": "తెలంగాణ · పర్యావరణం",
    "col": "--c-water",
