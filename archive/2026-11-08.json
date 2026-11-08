@@ -1,8 +1,154 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 92,
+ "count": 95,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "సీతాఫల్‌మండి",
+   "statl": "టపాసుల దుకాణంలో మంటలు",
+   "h": "సికింద్రాబాద్‌లో టపాసుల దుకాణంపై పడిన రాకెట్: భారీ మంటలు",
+   "p": "దీపావళి సందర్భంగా ఆదివారం సికింద్రాబాద్ సీతాఫల్‌మండి ప్రధాన రహదారిలోని ఒక టపాసుల దుకాణంలో దారి తప్పిన రాకెట్ పడింది. లోపల నిల్వ ఉంచిన టపాసులు అంటుకుని పేలుళ్లు, భారీ మంటలు చెలరేగాయి. స్థానికులు, వాహనదారులు అక్కడి నుంచి పరుగులు తీశారు. అగ్నిమాపక సిబ్బంది ఫైర్ ఇంజిన్లతో వచ్చి మంటలను అదుపు చేశారు. ఆస్తి నష్టం ఎంతో అధికారులు ఇంకా తెలపలేదు.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/rocket-hits-firecracker-shop-in-secunderabad/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సీతాఫల్‌మండి",
+   "pts": [
+    "దీపావళి రాకెట్ టపాసుల దుకాణంలో పడింది",
+    "నిల్వ టపాసులు పేలి భారీ మంటలు",
+    "ఫైర్ సిబ్బంది మంటలను అదుపు చేశారు"
+   ],
+   "why": "టపాసుల దుకాణాల దగ్గర రాకెట్లు కాల్చడం ఎంత ప్రమాదమో ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Stray rocket hits firecracker shop in Secunderabad, sparks big fire",
+    "p": "On Sunday, during Diwali, a stray rocket landed in a firecracker shop on the Sitaphalmandi main road in Secunderabad. Crackers stored inside caught fire, causing explosions and a massive blaze. Locals and motorists ran from the spot. Firefighters arrived with fire engines and brought the fire under control. Officials have not yet said how much property was damaged.",
+    "pts": [
+     "Diwali rocket landed in a firecracker shop",
+     "Stored crackers exploded, causing a big fire",
+     "Firefighters brought the blaze under control"
+    ],
+    "why": "The incident shows how dangerous it is to fire rockets near firecracker shops.",
+    "cat": "Hyderabad · Accident",
+    "statl": "Fire at firecracker shop"
+   },
+   "hi": {
+    "h": "सिकंदराबाद में पटाखा दुकान पर गिरा रॉकेट, भीषण आग",
+    "p": "दिवाली पर रविवार को सिकंदराबाद के सीताफलमंडी मेन रोड पर एक पटाखा दुकान में भटका हुआ रॉकेट गिरा। अंदर रखे पटाखों में आग लगने से धमाके हुए और भीषण आग भड़क उठी। स्थानीय लोग और वाहन चालक वहां से भागे। दमकलकर्मी फायर इंजन के साथ पहुंचे और आग पर काबू पाया। संपत्ति के नुकसान की जानकारी अधिकारियों ने अभी नहीं दी है।",
+    "pts": [
+     "दिवाली का रॉकेट पटाखा दुकान में गिरा",
+     "रखे पटाखों में धमाके, भीषण आग",
+     "दमकलकर्मियों ने आग पर काबू पाया"
+    ],
+    "why": "यह घटना बताती है कि पटाखा दुकानों के पास रॉकेट चलाना कितना खतरनाक है।",
+    "cat": "हैदराबाद · हादसा",
+    "statl": "पटाखा दुकान में आग"
+   },
+   "d": "08.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "AQI 376",
+   "statl": "ఆదివారం ఢిల్లీ సగటు గాలి నాణ్యత",
+   "h": "దీపావళి వేళ ఢిల్లీలో 'చాలా పేలవం' గాలి; సోమవారం 'తీవ్ర' స్థాయి అంచనా",
+   "p": "దీపావళి రోజు ఆదివారం ఢిల్లీలో సగటు గాలి నాణ్యత సూచీ (AQI) 376గా నమోదై 'చాలా పేలవం' కేటగిరీలో ఉంది, దట్టమైన పొగమంచు కమ్ముకుంది. వాహనాల పొగ, పంట వ్యర్థాల దహనం కారణంగా సోమవారం 'తీవ్ర' స్థాయికి చేరవచ్చని అంచనా. సుప్రీంకోర్టు ఆదేశాల ప్రకారం గ్రీన్ టపాసులు మాత్రమే, ఉదయం 6–7, రాత్రి 8–10 గంటల మధ్య అనుమతి. పోలీసులు నిఘా పెంచారు.",
+   "src": "PTI",
+   "url": "https://www.siasat.com/photos-india-lights-up-for-diwali-delhis-air-quality-suffers-3571970/",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "pts": [
+    "ఆదివారం సగటు AQI 376: 'చాలా పేలవం'",
+    "సోమవారం 'తీవ్ర' స్థాయికి చేరే అంచనా",
+    "గ్రీన్ టపాసులకు రాత్రి 8–10 మాత్రమే అనుమతి"
+   ],
+   "why": "ఢిల్లీలో ఉండే పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలున్నవారు జాగ్రత్తగా ఉండాలి.",
+   "en": {
+    "h": "Delhi air 'very poor' on Diwali; 'severe' forecast for Monday",
+    "p": "On Diwali Sunday, Delhi's average air quality index (AQI) was 376, in the 'very poor' category, with thick smog. It is forecast to turn 'severe' on Monday because of vehicle emissions and stubble burning. As per Supreme Court directions, only green crackers are allowed, between 6–7 am and 8–10 pm. Police have stepped up vigil.",
+    "pts": [
+     "Average AQI 376 on Sunday: 'very poor'",
+     "Forecast to turn 'severe' on Monday",
+     "Green crackers allowed only 8–10 pm at night"
+    ],
+    "why": "Children, elderly people and those with breathing problems in Delhi need to take care.",
+    "cat": "Delhi · Pollution",
+    "statl": "Delhi's average air quality on Sunday"
+   },
+   "hi": {
+    "h": "दिवाली पर दिल्ली की हवा 'बहुत खराब'; सोमवार को 'गंभीर' का अनुमान",
+    "p": "दिवाली के दिन रविवार को दिल्ली का औसत वायु गुणवत्ता सूचकांक (AQI) 376 रहा, जो 'बहुत खराब' श्रेणी में है, और घना स्मॉग छाया रहा। वाहनों के धुएं और पराली जलाने के कारण सोमवार को यह 'गंभीर' हो सकता है। सुप्रीम कोर्ट के निर्देश के अनुसार केवल ग्रीन पटाखे, सुबह 6–7 और रात 8–10 बजे तक ही अनुमति है। पुलिस ने निगरानी बढ़ाई है।",
+    "pts": [
+     "रविवार को औसत AQI 376: 'बहुत खराब'",
+     "सोमवार को 'गंभीर' होने का अनुमान",
+     "ग्रीन पटाखे रात 8–10 बजे तक ही"
+    ],
+    "why": "दिल्ली में बच्चों, बुजुर्गों और सांस के मरीजों को सावधान रहना चाहिए।",
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "रविवार को दिल्ली की औसत वायु गुणवत्ता"
+   },
+   "d": "08.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "ప్రపంచం · ఇజ్రాయెల్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "67 ఎంపీలు",
+   "statl": "ఐసెన్‌కోట్‌కు మద్దతు తెలిపిన సభ్యులు",
+   "h": "ఇజ్రాయెల్‌లో కొత్త ప్రభుత్వ ఏర్పాటు బాధ్యత ఐసెన్‌కోట్‌కు; నెతన్యాహుకు దక్కని అవకాశం",
+   "p": "ఇజ్రాయెల్ అధ్యక్షుడు ఐజాక్ హెర్జోగ్ కొత్త ప్రభుత్వం ఏర్పాటు బాధ్యతను యాషార్ పార్టీ నేత గాడి ఐసెన్‌కోట్‌కు అప్పగించారు. ఆయనకు 67 మంది నెస్సెట్ సభ్యులు మద్దతు తెలపగా, ప్రస్తుత ప్రధాని నెతన్యాహుకు 46 మంది మద్దతిచ్చారు. అక్టోబర్ 27 ఎన్నికల్లో ఎవరికీ స్పష్టమైన మెజారిటీ రాలేదు. ప్రభుత్వం ఏర్పాటుకు ఐసెన్‌కోట్‌కు 28 రోజుల గడువు ఉంది; దీన్ని 14 రోజులు పొడిగించవచ్చు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/israel-president-selects-eisenkot-over-netanyahu-to-form-new-govt-3571509/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఐసెన్‌కోట్‌కు 67, నెతన్యాహుకు 46 మంది మద్దతు",
+    "అక్టోబర్ 27 ఎన్నికల్లో హంగ్ ఫలితం",
+    "ప్రభుత్వ ఏర్పాటుకు 28 రోజుల గడువు"
+   ],
+   "why": "పశ్చిమాసియా ఉద్రిక్తతల వేళ ఇజ్రాయెల్ నాయకత్వ మార్పు అక్కడి పరిస్థితులపై ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Israel's President picks Eisenkot over Netanyahu to form new government",
+    "p": "Israeli President Isaac Herzog has tasked Yashar party leader Gadi Eisenkot with forming the new government. He was backed by 67 Knesset members, while 46 backed current Prime Minister Netanyahu. The October 27 election gave no one a clear majority. Eisenkot has 28 days to form a government, which can be extended by 14 days.",
+    "pts": [
+     "67 back Eisenkot, 46 back Netanyahu",
+     "October 27 election produced a hung result",
+     "28 days to form the government"
+    ],
+    "why": "A change in Israel's leadership amid West Asia tensions could affect the situation there.",
+    "cat": "World · Israel",
+    "statl": "Members who backed Eisenkot"
+   },
+   "hi": {
+    "h": "इज़राइल में नई सरकार बनाने का जिम्मा आइज़नकोट को, नेतन्याहू को मौका नहीं",
+    "p": "इज़राइल के राष्ट्रपति आइज़क हर्ज़ोग ने यशर पार्टी के नेता गादी आइज़नकोट को नई सरकार बनाने का जिम्मा सौंपा है। उन्हें 67 नेसेट सदस्यों का समर्थन मिला, जबकि मौजूदा प्रधानमंत्री नेतन्याहू को 46 का। 27 अक्टूबर के चुनाव में किसी को स्पष्ट बहुमत नहीं मिला। आइज़नकोट के पास सरकार बनाने के लिए 28 दिन हैं, जिन्हें 14 दिन बढ़ाया जा सकता है।",
+    "pts": [
+     "आइज़नकोट को 67, नेतन्याहू को 46 का समर्थन",
+     "27 अक्टूबर चुनाव में त्रिशंकु नतीजा",
+     "सरकार बनाने के लिए 28 दिन"
+    ],
+    "why": "पश्चिम एशिया के तनाव के बीच इज़राइल में नेतृत्व बदलाव वहां के हालात पर असर डाल सकता है।",
+    "cat": "दुनिया · इज़राइल",
+    "statl": "आइज़नकोट का समर्थन करने वाले सदस्य"
+   },
+   "d": "08.11.2026",
+   "t": "22:05"
+  },
   {
    "cat": "తెలంగాణ · సాగునీరు",
    "col": "--c-election",
