@@ -1,8 +1,105 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T17:42:44+05:30",
+ "updated": "2026-11-08T18:10:38+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పర్యావరణం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "199 MLD",
+   "statl": "గోదావరిలో కలుస్తున్నట్లు ఆరోపించిన మురుగు",
+   "h": "గోదావరిలో శుద్ధి చేయని మురుగు: ఎన్జీటీని ఆశ్రయించిన ఉద్యమకారుడు",
+   "p": "గోదావరి నదిలో శుద్ధి చేయని మురుగు, పారిశ్రామిక వ్యర్థాలు కలుస్తున్నాయంటూ ఓ న్యాయ విద్యార్థి, ఉద్యమకారుడు జాతీయ హరిత ట్రైబ్యునల్‌లో దరఖాస్తు చేశారు. 50కి పైగా కాలువల ద్వారా రోజుకు 199 మిలియన్ లీటర్ల మురుగు చేరుతోందని ఆయన ఆరోపించారు. రామగుండం, మంచిర్యాల, భద్రాచలంలో శుద్ధి కేంద్రాలు పనిచేయడం లేదన్నారు. స్వతంత్ర శాస్త్రీయ పరిశీలన కోరారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/activist-moves-ngt-over-untreated-sewage-discharge-into-godavari-3571799/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "50కి పైగా కాలువల ద్వారా మురుగు చేరుతోందని ఆరోపణ",
+    "ఎల్లంపల్లి జలాశయం నీటి నమూనాల పరీక్షకు వినతి",
+    "మొదట హైకోర్టుకు వెళ్లగా ట్రైబ్యునల్‌కు సూచించింది"
+   ],
+   "why": "హైదరాబాద్‌కు తాగునీరు అందించే శ్రీపాద ఎల్లంపల్లి జలాశయం నీటి నాణ్యతపై ఈ కేసు ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Untreated sewage in Godavari: activist moves National Green Tribunal",
+    "p": "A law student and activist has filed an application before the National Green Tribunal alleging that untreated sewage and industrial waste are polluting the Godavari. He alleges 199 million litres a day of sewage enters through more than 50 channels, and says sewage treatment plants at Ramagundam, Mancherial and Bhadrachalam are not working. He has sought an independent scientific probe.",
+    "pts": [
+     "Sewage alleged to enter through over 50 channels",
+     "Testing of Yellampalli reservoir water sought",
+     "High Court had first directed him to the Tribunal"
+    ],
+    "why": "The case could affect the water quality of Sripada Yellampalli reservoir, a drinking water source for Hyderabad.",
+    "cat": "Telangana · Environment",
+    "statl": "Sewage allegedly entering Godavari"
+   },
+   "hi": {
+    "h": "गोदावरी में बिना शोधन का सीवेज: कार्यकर्ता ने एनजीटी का दरवाज़ा खटखटाया",
+    "p": "एक कानून छात्र और कार्यकर्ता ने राष्ट्रीय हरित अधिकरण में आवेदन दायर कर आरोप लगाया है कि गोदावरी नदी में बिना शोधन का सीवेज और औद्योगिक कचरा मिल रहा है। उनका आरोप है कि 50 से ज़्यादा नालों से रोज़ 199 मिलियन लीटर सीवेज नदी में जाता है और रामगुंडम, मंचेरियल व भद्राचलम में सीवेज शोधन संयंत्र काम नहीं कर रहे। उन्होंने स्वतंत्र वैज्ञानिक जांच मांगी है।",
+    "pts": [
+     "50 से ज़्यादा नालों से सीवेज जाने का आरोप",
+     "येल्लमपल्ली जलाशय के पानी की जांच की मांग",
+     "हाईकोर्ट ने पहले अधिकरण जाने को कहा था"
+    ],
+    "why": "यह मामला हैदराबाद को पीने का पानी देने वाले श्रीपाद येल्लमपल्ली जलाशय की जल गुणवत्ता पर असर डाल सकता है।",
+    "cat": "तेलंगाना · पर्यावरण",
+    "statl": "गोदावरी में कथित रूप से जा रहा सीवेज"
+   },
+   "d": "08.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "కర్ణాటక · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "1,000",
+   "statl": "వైద్యుల నియామకానికి కేబినెట్ ఆమోదం",
+   "h": "కర్ణాటకలో 1,000 మంది వైద్యుల నియామకానికి కేబినెట్ ఆమోదం",
+   "p": "రాష్ట్రవ్యాప్తంగా 1,000 మంది వైద్యులను నియమించేందుకు కర్ణాటక మంత్రివర్గం ఆమోదం తెలిపిందని ఆరోగ్య మంత్రి యు.టి. ఖాదర్ బళ్లారిలో చెప్పారు. నియామకం పూర్తయ్యే వరకు ఔట్‌సోర్సింగ్ ద్వారా సిబ్బందిని తీసుకోవచ్చు. ఇప్పటికే 250 మంది వైద్యులను నేరుగా నియమించారు. మందుల కొరతను రెండు నెలల్లో తీరుస్తామని, 350 కొత్త అంబులెన్సులు కొంటామని తెలిపారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/karnataka-cabinet-approves-recruitment-of-1000-doctors-state-health-minister-ut-khader20261108150057/",
+   "sec": [
+    "india",
+    "jobs"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "ఇప్పటికే 250 మంది వైద్యుల నేరుగా నియామకం",
+    "రెండు నెలల్లో మందుల కొరత తీరుస్తామని హామీ",
+    "350 కొత్త అంబులెన్సుల కొనుగోలు"
+   ],
+   "why": "కర్ణాటకలోని ప్రాథమిక ఆరోగ్య కేంద్రాల్లో వైద్య సేవలు మెరుగుపడతాయి; వైద్యులకు ఉద్యోగావకాశాలు వస్తాయి.",
+   "en": {
+    "h": "Karnataka Cabinet approves recruitment of 1,000 doctors",
+    "p": "Karnataka Health Minister UT Khader said in Ballari that the state Cabinet has approved recruiting 1,000 doctors across the state. Until the recruitment is complete, staff may be hired through outsourcing. 250 doctors have already been appointed through direct recruitment. He said the medicine shortage will be resolved in two months and 350 new ambulances will be bought.",
+    "pts": [
+     "250 doctors already appointed by direct recruitment",
+     "Medicine shortage to be fixed within two months",
+     "350 new ambulances to be purchased"
+    ],
+    "why": "Medical services at Karnataka's primary health centres will improve, and doctors get job opportunities.",
+    "cat": "Karnataka · Health",
+    "statl": "Doctor posts approved by Cabinet"
+   },
+   "hi": {
+    "h": "कर्नाटक कैबिनेट ने 1,000 डॉक्टरों की भर्ती को मंज़ूरी दी",
+    "p": "कर्नाटक के स्वास्थ्य मंत्री यू.टी. खादर ने बल्लारी में कहा कि राज्य मंत्रिमंडल ने पूरे राज्य में 1,000 डॉक्टरों की भर्ती को मंज़ूरी दी है। भर्ती पूरी होने तक आउटसोर्सिंग से कर्मचारी रखे जा सकेंगे। 250 डॉक्टर पहले ही सीधी भर्ती से नियुक्त हो चुके हैं। उन्होंने कहा कि दवाओं की कमी दो महीने में दूर होगी और 350 नई एंबुलेंस खरीदी जाएंगी।",
+    "pts": [
+     "250 डॉक्टर पहले ही सीधी भर्ती से नियुक्त",
+     "दो महीने में दवाओं की कमी दूर करने का वादा",
+     "350 नई एंबुलेंस की खरीद"
+    ],
+    "why": "कर्नाटक के प्राथमिक स्वास्थ्य केंद्रों में इलाज बेहतर होगा और डॉक्टरों को नौकरी के अवसर मिलेंगे।",
+    "cat": "कर्नाटक · स्वास्थ्य",
+    "statl": "कैबिनेट से मंज़ूर डॉक्टर पद"
+   },
+   "d": "08.11.2026",
+   "t": "18:05"
+  },
   {
    "cat": "తెలంగాణ · సంక్షేమం",
    "col": "--c-gov",
@@ -1775,103 +1872,6 @@
    },
    "d": "08.11.2026",
    "t": "13:05"
-  },
-  {
-   "cat": "ప్రపంచం · గల్ఫ్",
-   "col": "--c-power",
-   "art": "water",
-   "stat": "22",
-   "statl": "యూఏఈ కాపాడిన నౌక సిబ్బంది",
-   "h": "హార్ముజ్‌లో మందుపాతరలు తాకిన ట్యాంకర్లు; మంటల నౌక నుంచి 22 మందిని కాపాడిన యూఏఈ",
-   "p": "హార్ముజ్ జలసంధిలో రెండు చమురు ట్యాంకర్లు సముద్ర మందుపాతరలను ఢీకొన్నాయని ఇరాన్ రివల్యూషనరీ గార్డ్స్ ప్రకటించాయి. ఆ తర్వాత మంటలు అంటుకున్న ఒక సరుకు నౌక నుంచి 22 మందిని రక్షించినట్లు యూఏఈ తెలిపింది. ఇరాన్ ఓడరేవులపై కొనసాగుతున్న నౌకాదిగ్బంధాన్ని విస్తరిస్తూ, ఇరాన్ భూమార్గ సరఫరాలను కూడా అడ్డుకునే కొత్త ప్రణాళికను అమెరికా ప్రకటించింది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "రెండు ట్యాంకర్లు మందుపాతరలు తాకాయన్న ఐఆర్‌జీసీ",
-    "మంటల సరుకు నౌక నుంచి 22 మంది రక్షణ",
-    "ఇరాన్ భూమార్గాల అడ్డగింతకు అమెరికా ప్రణాళిక"
-   ],
-   "why": "హార్ముజ్ మార్గంలో ఉద్రిక్తత గల్ఫ్‌లో పనిచేసే తెలుగువారిపై, చమురు సరఫరాపై ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Tankers hit mines in Hormuz; UAE rescues 22 from burning ship",
-    "p": "Iran's Revolutionary Guards said two oil tankers struck sea mines in the Strait of Hormuz. The UAE then said it rescued 22 people from a cargo ship that caught fire. The US announced a new plan to also block Iran's land supply routes, expanding its ongoing naval blockade of Iranian ports.",
-    "pts": [
-     "IRGC says two tankers struck mines",
-     "22 rescued from burning cargo ship",
-     "US plans to block Iran's land routes"
-    ],
-    "why": "Tension on the Hormuz route may affect Telugu people working in the Gulf and oil supplies.",
-    "cat": "World · Gulf",
-    "statl": "Ship crew rescued by UAE"
-   },
-   "hi": {
-    "h": "होर्मुज़ में टैंकरों से टकराईं बारूदी सुरंगें; यूएई ने जलते जहाज़ से 22 को बचाया",
-    "p": "ईरान के रिवोल्यूशनरी गार्ड्स ने कहा कि होर्मुज़ जलडमरूमध्य में दो तेल टैंकर समुद्री बारूदी सुरंगों से टकरा गए। इसके बाद यूएई ने बताया कि उसने आग लगे एक मालवाहक जहाज़ से 22 लोगों को बचाया। अमेरिका ने ईरानी बंदरगाहों पर जारी नौसैनिक नाकेबंदी का दायरा बढ़ाते हुए ईरान के ज़मीनी आपूर्ति मार्गों को भी रोकने की नई योजना की घोषणा की।",
-    "pts": [
-     "आईआरजीसी: दो टैंकर बारूदी सुरंगों से टकराए",
-     "जलते मालवाहक जहाज़ से 22 लोग बचाए गए",
-     "ईरान के ज़मीनी मार्ग रोकने की अमेरिकी योजना"
-    ],
-    "why": "होर्मुज़ मार्ग पर तनाव का असर खाड़ी में काम करने वाले तेलुगु लोगों और तेल आपूर्ति पर पड़ सकता है।",
-    "cat": "दुनिया · खाड़ी",
-    "statl": "यूएई द्वारा बचाए गए जहाज़कर्मी"
-   },
-   "d": "08.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "క్రీడలు · క్రికెట్",
-   "col": "--c-money",
-   "art": "unity",
-   "stat": "36",
-   "statl": "షమీ వయసు",
-   "h": "టెస్ట్ క్రికెట్‌కు మహమ్మద్ షమీ వీడ్కోలు; వైట్‌బాల్‌లో కొనసాగింపు",
-   "p": "భారత పేసర్ మహమ్మద్ షమీ టెస్ట్ క్రికెట్ నుంచి రిటైర్ అవుతున్నట్లు ప్రకటించారు. ఇన్‌స్టాగ్రామ్ ద్వారా ఈ విషయం వెల్లడించిన 36 ఏళ్ల షమీ, వన్డేలు, టీ20ల వంటి వైట్‌బాల్ ఫార్మాట్లలో ఆడటం కొనసాగిస్తానని తెలిపారు. 2025 ఛాంపియన్స్ ట్రోఫీ తర్వాత నుంచి ఆయన భారత జట్టులో లేరు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/sports/shami-retires-from-test-to-play-white-ball-formats-1140339",
-   "sec": [
-    "sports",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ఇన్‌స్టాగ్రామ్‌లో రిటైర్మెంట్ ప్రకటన",
-    "వైట్‌బాల్ ఫార్మాట్లలో ఆడతానన్న షమీ",
-    "2025 ఛాంపియన్స్ ట్రోఫీ నుంచి జట్టుకు దూరం"
-   ],
-   "why": "భారత టెస్ట్ బౌలింగ్‌లో కీలకంగా నిలిచిన పేసర్ వీడ్కోలుతో క్రికెట్ అభిమానుల్లో చర్చ మొదలైంది.",
-   "en": {
-    "h": "Mohammed Shami retires from Tests, will continue in white-ball cricket",
-    "p": "Indian pacer Mohammed Shami has announced his retirement from Test cricket. The 36-year-old, who made the announcement on Instagram, said he will continue playing white-ball formats such as ODIs and T20s. He has been out of the Indian team since the 2025 Champions Trophy.",
-    "pts": [
-     "Retirement announced on Instagram",
-     "Shami says he will play white-ball formats",
-     "Out of the team since the 2025 Champions Trophy"
-    ],
-    "why": "The farewell of a pacer who was key to India's Test bowling has set cricket fans talking.",
-    "cat": "Sports · Cricket",
-    "statl": "Shami's age"
-   },
-   "hi": {
-    "h": "मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास लिया; व्हाइट-बॉल में खेलते रहेंगे",
-    "p": "भारतीय तेज गेंदबाज मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास की घोषणा की है। इंस्टाग्राम पर यह जानकारी देने वाले 36 वर्षीय शमी ने कहा कि वे वनडे और टी20 जैसे व्हाइट-बॉल प्रारूपों में खेलते रहेंगे। 2025 चैंपियंस ट्रॉफी के बाद से वे भारतीय टीम से बाहर हैं।",
-    "pts": [
-     "इंस्टाग्राम पर संन्यास की घोषणा",
-     "शमी व्हाइट-बॉल प्रारूपों में खेलेंगे",
-     "2025 चैंपियंस ट्रॉफी से टीम से बाहर"
-    ],
-    "why": "भारत की टेस्ट गेंदबाजी में अहम रहे तेज गेंदबाज की विदाई से क्रिकेट प्रशंसकों में चर्चा शुरू हो गई है।",
-    "cat": "खेल · क्रिकेट",
-    "statl": "शमी की उम्र"
-   },
-   "d": "08.11.2026",
-   "t": "12:35"
   },
   {
    "cat": "🪔 దీపావళి · వైరల్ వీడియో",
