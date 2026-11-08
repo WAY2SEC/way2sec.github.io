@@ -1,8 +1,152 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 17,
+ "count": 20,
  "stories": [
+  {
+   "cat": "భారత్ · ఆహార భద్రత",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "3,280 టన్నులు",
+   "statl": "స్వాధీనం చేసుకున్న కల్తీ, నిబంధనలు పాటించని ఆహారం",
+   "h": "పండుగ తనిఖీలు: ₹82 కోట్ల విలువైన 3,280 టన్నుల ఆహారం స్వాధీనం",
+   "p": "పండుగ సీజన్‌లో కల్తీని అరికట్టేందుకు సెప్టెంబర్ 1 నుంచి దేశవ్యాప్తంగా చేపట్టిన తనిఖీల్లో భారత ఆహార భద్రత, ప్రమాణాల సంస్థ (FSSAI) సుమారు ₹82 కోట్ల విలువైన 3,280 టన్నుల నిషేధిత, నిబంధనలు పాటించని ఆహార పదార్థాలను స్వాధీనం చేసుకుంది. వీటిలో పనీర్, నెయ్యి, పాలు, స్వీట్లు ఉన్నాయి. 52 లైసెన్సులు రద్దు కాగా, 1,133 సస్పెండ్ అయ్యాయి.",
+   "src": "PTI",
+   "url": "https://www.orissapost.com/fssai-seizes-3280-tonnes-of-food-items-cancels-52-licences-in-nationwide-inspection-drive/",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "సెప్టెంబర్ 1–నవంబర్ 5 మధ్య 56,431 సంస్థల తనిఖీ",
+    "314 సంస్థలు సీల్; 10,047 మందికి నోటీసులు",
+    "పనీర్, నెయ్యి, పాలు, స్వీట్లు స్వాధీనం"
+   ],
+   "why": "దీపావళి స్వీట్లు, పాల ఉత్పత్తులు కొనేవారు నాణ్యత, లైసెన్స్ ఉన్న దుకాణాలను చూసి కొనడం మంచిది.",
+   "en": {
+    "h": "Festive checks: 3,280 tonnes of food worth ₹82 crore seized",
+    "p": "In a nationwide inspection drive that began on September 1 to curb adulteration during the festive season, the Food Safety and Standards Authority of India (FSSAI) seized about 3,280 tonnes of banned and non-compliant food products worth around ₹82 crore. These included paneer, ghee, milk and sweets. 52 licences were cancelled and 1,133 suspended.",
+    "pts": [
+     "56,431 establishments inspected between Sept 1 and Nov 5",
+     "314 establishments sealed; 10,047 notices issued",
+     "Paneer, ghee, milk and sweets seized"
+    ],
+    "why": "People buying Diwali sweets and dairy products should check quality and buy from licensed shops.",
+    "cat": "India · Food Safety",
+    "statl": "Adulterated and non-compliant food seized"
+   },
+   "hi": {
+    "h": "त्योहारी जांच: ₹82 करोड़ का 3,280 टन खाद्य पदार्थ जब्त",
+    "p": "त्योहारों के मौसम में मिलावट रोकने के लिए 1 सितंबर से देशभर में चलाए गए जांच अभियान में भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) ने लगभग ₹82 करोड़ मूल्य का 3,280 टन प्रतिबंधित और नियमों का पालन न करने वाला खाद्य पदार्थ जब्त किया। इनमें पनीर, घी, दूध और मिठाइयां शामिल हैं। 52 लाइसेंस रद्द और 1,133 निलंबित किए गए।",
+    "pts": [
+     "1 सितंबर–5 नवंबर के बीच 56,431 प्रतिष्ठानों की जांच",
+     "314 प्रतिष्ठान सील; 10,047 नोटिस जारी",
+     "पनीर, घी, दूध और मिठाइयां जब्त"
+    ],
+    "why": "दिवाली की मिठाइयां और दूध उत्पाद खरीदने वाले गुणवत्ता देखें और लाइसेंस वाली दुकानों से ही खरीदें।",
+    "cat": "भारत · खाद्य सुरक्षा",
+    "statl": "जब्त मिलावटी और नियम-विरुद्ध खाद्य पदार्थ"
+   },
+   "d": "08.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ప్రపంచం · ఇజ్రాయెల్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "67 vs 46",
+   "statl": "ఐసెన్‌కోట్, నెతన్యాహులకు ఎంపీల మద్దతు",
+   "h": "ఇజ్రాయెల్‌లో ప్రభుత్వ ఏర్పాటుకు నెతన్యాహు కాకుండా ఐసెన్‌కోట్‌కు అవకాశం",
+   "p": "ఇజ్రాయెల్ అధ్యక్షుడు ఐజాక్ హెర్జోగ్ ప్రభుత్వ ఏర్పాటు బాధ్యతను మాజీ సైన్యాధిపతి, యాషర్ పార్టీ నేత గాడి ఐసెన్‌కోట్‌కు అప్పగించారు. ఆయనకు 67 మంది ఎంపీలు, బెంజమిన్ నెతన్యాహుకు 46 మంది మద్దతు ఇచ్చారు. అధికారిక ఆదేశం ఆదివారం ఇవ్వనున్నారు. 120 సీట్లలో కనీసం 61 మందితో కూటమి కట్టేందుకు ఐసెన్‌కోట్‌కు 28 రోజుల గడువు ఉంది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అక్టోబర్ 27 ఎన్నికల్లో ఏ పక్షానికీ 61 సీట్లు రాలేదు",
+    "ఐసెన్‌కోట్ కూటమికి 48, నెతన్యాహు కూటమికి 53 సీట్లు",
+    "గడువు 28 రోజులు, మరో 14 రోజులు పొడిగించవచ్చు"
+   ],
+   "why": "పశ్చిమాసియా పరిస్థితులపై ప్రభావం చూపే ఈ మార్పును అక్కడ పనిచేసే భారతీయులు గమనించాల్సి ఉంటుంది.",
+   "en": {
+    "h": "Israel: Eisenkot, not Netanyahu, gets chance to form government",
+    "p": "Israeli President Isaac Herzog has given the task of forming the government to former army chief and Yashar party leader Gadi Eisenkot. 67 lawmakers backed him, while 46 backed Benjamin Netanyahu. The formal mandate is to be given on Sunday. Eisenkot has 28 days to build a coalition of at least 61 of the 120 seats.",
+    "pts": [
+     "No side won 61 seats in the October 27 election",
+     "Eisenkot's alliance won 48 seats, Netanyahu's bloc 53",
+     "28-day deadline, extendable by 14 days"
+    ],
+    "why": "Indians working in the region should watch this change, which can affect conditions in West Asia.",
+    "cat": "World · Israel",
+    "statl": "MPs backing Eisenkot vs Netanyahu"
+   },
+   "hi": {
+    "h": "इज़राइल: नेतन्याहू नहीं, आइज़नकोट को सरकार बनाने का मौका",
+    "p": "इज़राइल के राष्ट्रपति आइज़ैक हर्ज़ोग ने सरकार बनाने की ज़िम्मेदारी पूर्व सेना प्रमुख और याशर पार्टी के नेता गादी आइज़नकोट को सौंपी है। उन्हें 67 सांसदों और बेंजामिन नेतन्याहू को 46 सांसदों का समर्थन मिला। औपचारिक जनादेश रविवार को दिया जाएगा। 120 में से कम से कम 61 सीटों का गठबंधन बनाने के लिए आइज़नकोट के पास 28 दिन हैं।",
+    "pts": [
+     "27 अक्टूबर के चुनाव में किसी पक्ष को 61 सीटें नहीं मिलीं",
+     "आइज़नकोट गठबंधन को 48, नेतन्याहू गुट को 53 सीटें",
+     "28 दिन की समय सीमा, 14 दिन और बढ़ सकती है"
+    ],
+    "why": "पश्चिम एशिया के हालात पर असर डाल सकने वाले इस बदलाव पर वहां काम करने वाले भारतीयों को नज़र रखनी चाहिए।",
+    "cat": "विश्व · इज़राइल",
+    "statl": "आइज़नकोट बनाम नेतन्याहू को सांसदों का समर्थन"
+   },
+   "d": "08.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · సహకార సంఘం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "90 రోజులు",
+   "statl": "విచారణ నివేదిక గడువు",
+   "h": "జర్నలిస్టుల సహకార గృహ నిర్మాణ సంఘంలో అక్రమాలపై చట్టబద్ధ విచారణ",
+   "p": "జర్నలిస్ట్స్ కోఆపరేటివ్ హౌసింగ్ సొసైటీలో 2025-26 ప్రత్యేక ఆడిట్ నివేదికలో బయటపడిన అక్రమాలపై హైదరాబాద్ జాయింట్ రిజిస్ట్రార్, జిల్లా సహకార అధికారి నవంబర్ 3న చట్టబద్ధ విచారణకు ఆదేశించారు. సహకార సంఘాల అసిస్టెంట్ రిజిస్ట్రార్ విచారణ జరిపి 90 రోజుల్లో నివేదిక ఇవ్వాలి. సొసైటీ తన రికార్డులు, ఫైళ్లను విచారణ అధికారికి అందజేయాలి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/statutory-inquiry-ordered-into-irregularities-in-journalists-cooperative-housing-society",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "2025-26 ప్రత్యేక ఆడిట్‌లో అక్రమాల గుర్తింపు",
+    "బ్యాంకు మాండేట్లు, నగదు పుస్తకాలు, ఎన్‌ఓసీ వివరాలు కోరారు",
+    "అభ్యంతరాలకు నవంబర్ 10 వరకు గడువు"
+   ],
+   "why": "ఈ సొసైటీలో సభ్యులుగా ఉన్న జర్నలిస్టుల ఆర్థిక లావాదేవీలపై స్పష్టత రానుంది.",
+   "en": {
+    "h": "Statutory inquiry ordered into irregularities in Journalists Cooperative Housing Society",
+    "p": "The Joint Registrar and District Cooperative Officer, Hyderabad, on November 3 ordered a statutory inquiry into irregularities found in the 2025-26 special audit report of the Journalists Cooperative Housing Society. An assistant registrar of cooperative societies will conduct the inquiry and must submit a report within 90 days. The society must hand over its records and files to the inquiry officer.",
+    "pts": [
+     "Irregularities flagged in 2025-26 special audit",
+     "Bank mandates, cash books, NOC details sought",
+     "Objections allowed till November 10"
+    ],
+    "why": "It will bring clarity on the financial dealings affecting journalists who are members of this society.",
+    "cat": "Hyderabad · Cooperative Society",
+    "statl": "Deadline for inquiry report"
+   },
+   "hi": {
+    "h": "पत्रकार सहकारी आवास समिति में अनियमितताओं की वैधानिक जांच के आदेश",
+    "p": "हैदराबाद के संयुक्त रजिस्ट्रार और ज़िला सहकारी अधिकारी ने 3 नवंबर को पत्रकार सहकारी आवास समिति की 2025-26 की विशेष ऑडिट रिपोर्ट में मिली अनियमितताओं की वैधानिक जांच का आदेश दिया। सहकारी समितियों के सहायक रजिस्ट्रार जांच करेंगे और 90 दिनों में रिपोर्ट देंगे। समिति को अपने रिकॉर्ड और फाइलें जांच अधिकारी को सौंपनी होंगी।",
+    "pts": [
+     "2025-26 की विशेष ऑडिट में अनियमितताएं पाई गईं",
+     "बैंक मैंडेट, कैश बुक, एनओसी विवरण मांगे गए",
+     "आपत्तियों के लिए 10 नवंबर तक का समय"
+    ],
+    "why": "इस समिति के सदस्य पत्रकारों से जुड़े वित्तीय लेनदेन पर स्पष्टता आएगी।",
+    "cat": "हैदराबाद · सहकारी समिति",
+    "statl": "जांच रिपोर्ट की समय सीमा"
+   },
+   "d": "08.11.2026",
+   "t": "09:05"
+  },
   {
    "cat": "దక్షిణ భారతం · వాతావరణం",
    "col": "--c-water",
