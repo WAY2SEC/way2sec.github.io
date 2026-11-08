@@ -1,8 +1,154 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 25,
+ "count": 28,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "3 మృతి",
+   "statl": "ఓఆర్ఆర్ అప్పా జంక్షన్ వద్ద ప్రమాదం",
+   "h": "ఓఆర్ఆర్‌పై లారీని ఢీకొన్న కూలీల ఆటో: ముగ్గురు మృతి, ఇద్దరి పరిస్థితి విషమం",
+   "p": "హైదరాబాద్ ఔటర్ రింగ్ రోడ్డుపై అప్పా జంక్షన్ వద్ద కూలీలతో వెళ్తున్న ఆటో ముందున్న లారీని వెనుక నుంచి ఢీకొట్టింది. ఈ ప్రమాదంలో ముగ్గురు అక్కడికక్కడే మృతి చెందగా, మరో ఇద్దరు తీవ్రంగా గాయపడ్డారు. ముచ్చింతల్‌లో మొక్కలు నాటే పని ముగించుకుని మొయినాబాద్ వైపు వెళ్తుండగా ఈ ఘటన జరిగింది. రాజేంద్రనగర్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "The Hans India, TV9 Telugu",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/three-killed-in-orr-crash-in-hyderabad-1140351",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "అప్పా జంక్షన్",
+   "pts": [
+    "ఆటోలో 15 నుంచి 17 మంది ప్రయాణం",
+    "ఓఆర్ఆర్ నుంచి దిగుతుండగా లారీని ఢీ",
+    "గాయపడిన ఇద్దరు ఆసుపత్రిలో చికిత్స"
+   ],
+   "why": "పరిమితికి మించి ప్రయాణికులతో వెళ్లే ఆటోలు ఓఆర్ఆర్‌పై ప్రాణాంతకమని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "08.11.2026",
+   "t": "10:35",
+   "en": {
+    "h": "Labourers' auto hits lorry on ORR: three dead, two critical",
+    "p": "An auto carrying labourers hit a lorry ahead from behind at APPA Junction on Hyderabad's Outer Ring Road. Three people died on the spot and two others were seriously injured. The workers were heading towards Moinabad after finishing tree-planting work in Muchintal. Rajendranagar police have registered a case and are investigating.",
+    "pts": [
+     "15 to 17 people were travelling in the auto",
+     "Hit the lorry while exiting the ORR",
+     "The two injured are being treated in hospital"
+    ],
+    "why": "The crash is a reminder that overloaded autos on the ORR can be deadly.",
+    "cat": "Hyderabad · Accident",
+    "statl": "Crash at ORR APPA Junction"
+   },
+   "hi": {
+    "h": "ओआरआर पर मज़दूरों का ऑटो लॉरी से टकराया: तीन की मौत, दो गंभीर",
+    "p": "हैदराबाद के आउटर रिंग रोड पर अप्पा जंक्शन के पास मज़दूरों को ले जा रहा एक ऑटो आगे चल रही लॉरी से पीछे से टकरा गया। हादसे में तीन लोगों की मौके पर ही मौत हो गई और दो अन्य गंभीर रूप से घायल हुए। मज़दूर मुचिंतल में पौधारोपण का काम खत्म करके मोइनाबाद की ओर जा रहे थे। राजेंद्रनगर पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "ऑटो में 15 से 17 लोग सवार थे",
+     "ओआरआर से उतरते समय लॉरी से टक्कर",
+     "दोनों घायलों का अस्पताल में इलाज जारी"
+    ],
+    "why": "यह हादसा याद दिलाता है कि ओआरआर पर क्षमता से ज़्यादा सवारियों वाले ऑटो जानलेवा हो सकते हैं।",
+    "cat": "हैदराबाद · हादसा",
+    "statl": "ओआरआर अप्पा जंक्शन पर हादसा"
+   }
+  },
+  {
+   "cat": "ఏపీ · పట్టణాలు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "6 అవార్డులు",
+   "statl": "ఏపీకి స్వచ్ఛ సర్వేక్షణ్ పురస్కారాలు",
+   "h": "స్వచ్ఛ సర్వేక్షణ్‌లో ఏపీకి ఆరు జాతీయ అవార్డులు; నవంబర్ 11న ప్రదానం",
+   "p": "స్వచ్ఛ సర్వేక్షణ్‌లో ఆంధ్రప్రదేశ్‌కు ఆరు జాతీయ స్థాయి అవార్డులు దక్కాయి. విశాఖపట్నం, విజయవాడ, గుంటూరు, రాజమహేంద్రవరం, తిరుపతి నగరపాలక సంస్థలతో పాటు కుప్పం పురపాలక సంఘానికి గుర్తింపు లభించింది. నవంబర్ 11న న్యూఢిల్లీలో రాష్ట్రపతి ద్రౌపది ముర్ము ఈ అవార్డులు అందజేస్తారు. ఇది రాష్ట్రానికి గర్వకారణమని పురపాలక మంత్రి నారాయణ అన్నారు.",
+   "src": "Deccan Chronicle, ETV Bharat",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-bags-six-swachh-survekshan-awards-2002573",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఐదు నగరపాలక సంస్థలు, కుప్పం పురపాలక సంఘానికి గుర్తింపు",
+    "ప్రతి నెల మూడో శనివారం ప్రత్యేక పారిశుద్ధ్య కార్యక్రమాలు",
+    "ఢిల్లీలో రాష్ట్రపతి చేతుల మీదుగా ప్రదానం"
+   ],
+   "why": "ఈ ఆరు పట్టణాల ప్రజలకు పారిశుద్ధ్యంలో జాతీయ గుర్తింపు లభించింది.",
+   "d": "08.11.2026",
+   "t": "10:35",
+   "en": {
+    "h": "AP wins six national Swachh Survekshan awards; to be presented on Nov 11",
+    "p": "Andhra Pradesh has won six national-level Swachh Survekshan awards. The Visakhapatnam, Vijayawada, Guntur, Rajahmundry and Tirupati municipal corporations and Kuppam Municipality were recognised. President Droupadi Murmu will present the awards in New Delhi on November 11. Municipal Administration Minister Narayana said it is a matter of pride for the state.",
+    "pts": [
+     "Five municipal corporations and Kuppam Municipality recognised",
+     "Special sanitation drives every third Saturday of the month",
+     "President to present awards in Delhi"
+    ],
+    "why": "People in these six towns get national recognition for cleanliness.",
+    "cat": "AP · Towns",
+    "statl": "Swachh Survekshan awards for AP"
+   },
+   "hi": {
+    "h": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को छह राष्ट्रीय पुरस्कार; 11 नवंबर को सम्मान",
+    "p": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को छह राष्ट्रीय स्तर के पुरस्कार मिले हैं। विशाखापत्तनम, विजयवाड़ा, गुंटूर, राजमहेंद्रवरम और तिरुपति नगर निगमों के साथ कुप्पम नगरपालिका को सम्मान मिला। 11 नवंबर को नई दिल्ली में राष्ट्रपति द्रौपदी मुर्मू ये पुरस्कार देंगी। नगर प्रशासन मंत्री नारायण ने इसे राज्य के लिए गर्व की बात बताया।",
+    "pts": [
+     "पांच नगर निगमों और कुप्पम नगरपालिका को सम्मान",
+     "हर महीने के तीसरे शनिवार विशेष सफ़ाई अभियान",
+     "दिल्ली में राष्ट्रपति के हाथों सम्मान"
+    ],
+    "why": "इन छह शहरों के लोगों को स्वच्छता में राष्ट्रीय पहचान मिली है।",
+    "cat": "आंध्र प्रदेश · शहर",
+    "statl": "आंध्र को स्वच्छ सर्वेक्षण पुरस्कार"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · ప్రమాదం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "7 మృతి",
+   "statl": "చావ్రీ బజార్ భవనం కూలిన ఘటనలో",
+   "h": "ఢిల్లీ భవనం కూలిన ఘటనలో మృతులు 7కు; ఇద్దరు ఎంసీడీ ఇంజినీర్ల సస్పెన్షన్",
+   "p": "ఢిల్లీ చావ్రీ బజార్ సమీపంలో నిర్మాణంలో ఉన్న మూడంతస్తుల భవనం కూలిన ఘటనలో మృతుల సంఖ్య ఏడుకు చేరింది. శిథిలాల నుంచి మరో మృతదేహాన్ని వెలికితీశారు. మృతుల్లో ఎక్కువ మంది బిహార్‌కు చెందిన కూలీలు. నిర్మాణం అక్రమం, అసురక్షితమని పోలీసులు తెలిపారు. ఎంసీడీ ఒక జూనియర్ ఇంజినీర్, ఒక అసిస్టెంట్ ఇంజినీర్‌ను సస్పెండ్ చేసింది.",
+   "src": "The Hans India (IANS), ETV Bharat (PTI)",
+   "url": "https://www.thehansindia.com/news/cities/new-delhi/death-toll-climbs-to-7-in-delhi-building-collapse-1140354",
+   "sec": [
+    "india"
+   ],
+   "st": "DL",
+   "place": "dl-central",
+   "loc": "చావ్రీ బజార్",
+   "pts": [
+    "భవన యజమాని, ముగ్గురు కాంట్రాక్టర్ల అరెస్టు",
+    "నవంబర్ 5 ఉదయం భవనం కూలింది",
+    "దర్యాప్తు జరుగుతోందన్న సీఎం రేఖా గుప్తా"
+   ],
+   "why": "అనుమతి లేని నిర్మాణాల్లో పనిచేసే వలస కూలీల భద్రతపై ఈ ఘటన ప్రశ్నలు లేవనెత్తుతోంది.",
+   "d": "08.11.2026",
+   "t": "10:35",
+   "en": {
+    "h": "Delhi building collapse toll rises to 7; two MCD engineers suspended",
+    "p": "The death toll in the collapse of an under-construction three-storey building near Delhi's Chawri Bazar has risen to seven. Rescuers recovered another body from the debris. Most of the dead were labourers from Bihar. Police said the construction was illegal and unsafe. The MCD has suspended a Junior Engineer and an Assistant Engineer.",
+    "pts": [
+     "Building owner and three contractors arrested",
+     "The building collapsed on the morning of November 5",
+     "CM Rekha Gupta says investigation is underway"
+    ],
+    "why": "The incident raises questions about the safety of migrant workers on unauthorised construction sites.",
+    "cat": "Delhi · Accident",
+    "statl": "In Chawri Bazar building collapse"
+   },
+   "hi": {
+    "h": "दिल्ली इमारत हादसे में मृतक संख्या 7 हुई; एमसीडी के दो इंजीनियर निलंबित",
+    "p": "दिल्ली के चावड़ी बाज़ार के पास निर्माणाधीन तीन मंज़िला इमारत गिरने की घटना में मृतकों की संख्या सात हो गई है। बचावकर्मियों ने मलबे से एक और शव निकाला। मृतकों में ज़्यादातर बिहार के मज़दूर थे। पुलिस ने कहा कि निर्माण अवैध और असुरक्षित था। एमसीडी ने एक जूनियर इंजीनियर और एक असिस्टेंट इंजीनियर को निलंबित किया है।",
+    "pts": [
+     "इमारत मालिक और तीन ठेकेदार गिरफ़्तार",
+     "5 नवंबर की सुबह इमारत गिरी थी",
+     "मुख्यमंत्री रेखा गुप्ता ने कहा जांच जारी"
+    ],
+    "why": "यह घटना अवैध निर्माण स्थलों पर काम करने वाले प्रवासी मज़दूरों की सुरक्षा पर सवाल उठाती है।",
+    "cat": "दिल्ली · हादसा",
+    "statl": "चावड़ी बाज़ार इमारत हादसे में"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · రవాణా",
    "col": "--c-city",
