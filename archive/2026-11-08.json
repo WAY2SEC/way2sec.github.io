@@ -1,8 +1,252 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 69,
+ "count": 74,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "4.5 లక్షలు",
+   "statl": "కొత్తగా చేయూత పింఛన్లు",
+   "h": "కొడంగల్‌లో 4.5 లక్షల కొత్త చేయూత పింఛన్లు ప్రారంభించిన సీఎం రేవంత్",
+   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి ఆదివారం తన నియోజకవర్గం కొడంగల్‌లో 4.5 లక్షల మంది కొత్త లబ్ధిదారులకు చేయూత పింఛన్ల పంపిణీని ప్రారంభించారు. వీరిలో 3.5 లక్షల మంది ఒంటరి మహిళలు, వితంతువులు ఉన్నారు. నేత, గీత కార్మికులకూ కొత్త పింఛన్లు మంజూరయ్యాయి. మహిళా సాధికారతే ప్రభుత్వ ప్రధాన లక్ష్యమని, 2034 నాటికి కోటి మంది స్వయం సహాయక సంఘాల సభ్యులను కోటీశ్వరులను చేయడమే లక్ష్యమని ఆయన చెప్పారు.",
+   "src": "IANS",
+   "url": "https://www.socialnews.xyz/2026/11/08/women-empowerment-is-telangana-govts-top-priority-revanth-reddy/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "కొడంగల్",
+   "pts": [
+    "3.5 లక్షల మంది ఒంటరి మహిళలు, వితంతువులకు పింఛన్లు",
+    "ఇప్పటికే 70 లక్షల మంది మహిళలు సంఘాల సభ్యులు",
+    "34 నెలల్లో మహిళలకు ₹79,000 కోట్ల బ్యాంకు రుణాలు"
+   ],
+   "why": "కొత్తగా పింఛన్ మంజూరైన వితంతువులు, ఒంటరి మహిళలు, నేత, గీత కార్మికులకు నెలవారీ ఆర్థిక సాయం అందుతుంది.",
+   "en": {
+    "h": "CM Revanth launches 4.5 lakh new Cheyutha pensions in Kodangal",
+    "p": "Chief Minister Revanth Reddy on Sunday launched the distribution of Cheyutha pensions to 4.5 lakh new beneficiaries in his constituency, Kodangal. They include 3.5 lakh single women and widows. New pensions were also sanctioned for weavers and toddy tappers. He said women's empowerment is the government's top priority and the target is to make one crore self-help group members crorepatis by 2034.",
+    "pts": [
+     "Pensions for 3.5 lakh single women and widows",
+     "70 lakh women already members of SHGs",
+     "₹79,000 crore bank loans for women in 34 months"
+    ],
+    "why": "Newly sanctioned widows, single women, weavers and toddy tappers will get monthly financial support.",
+    "cat": "Telangana · Welfare",
+    "statl": "New Cheyutha pensions"
+   },
+   "hi": {
+    "h": "सीएम रेवंत ने कोडंगल में 4.5 लाख नई चेयूता पेंशन शुरू कीं",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने रविवार को अपने निर्वाचन क्षेत्र कोडंगल में 4.5 लाख नए लाभार्थियों को चेयूता पेंशन वितरण की शुरुआत की। इनमें 3.5 लाख एकल महिलाएं और विधवाएं हैं। बुनकरों और ताड़ी निकालने वालों के लिए भी नई पेंशन मंजूर हुईं। उन्होंने कहा कि महिला सशक्तिकरण सरकार की सर्वोच्च प्राथमिकता है और 2034 तक एक करोड़ स्वयं सहायता समूह सदस्यों को करोड़पति बनाना लक्ष्य है।",
+    "pts": [
+     "3.5 लाख एकल महिलाओं और विधवाओं को पेंशन",
+     "70 लाख महिलाएं पहले से समूहों की सदस्य",
+     "34 महीनों में महिलाओं को ₹79,000 करोड़ के बैंक ऋण"
+    ],
+    "why": "नई पेंशन पाने वाली विधवाओं, एकल महिलाओं, बुनकरों और ताड़ी श्रमिकों को हर महीने आर्थिक मदद मिलेगी।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "नई चेयूता पेंशन"
+   },
+   "d": "08.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "తెలంగాణ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "~20",
+   "statl": "చోట్ల సైలోల ఏర్పాటు ప్రతిపాదన",
+   "h": "రైతుల నష్టం తగ్గించేందుకు రాష్ట్రంలో సైలోల నెట్‌వర్క్: మంత్రి ఉత్తమ్",
+   "p": "పంట కోత తర్వాత నష్టాలు, తక్కువ ధరకు అమ్ముకోవాల్సిన పరిస్థితి నుంచి రైతులను కాపాడేందుకు రాష్ట్రంలో శాస్త్రీయ సైలోల నెట్‌వర్క్ ఏర్పాటు చేయాలని ప్రభుత్వం యోచిస్తోందని మంత్రి ఎన్. ఉత్తమ్ కుమార్ రెడ్డి తెలిపారు. పౌరసరఫరాల సంస్థ రుణాలతో నిర్మించడం, ప్రైవేటు భాగస్వామ్యం అనే రెండు నమూనాలపై సమీక్షించారు. మొదట సుమారు 20 చోట్ల ప్రైవేటు వ్యాపారులను ప్రోత్సహిస్తారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-to-establish-silo-network-to-protect-farmers-from-loss-3571435/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "మొదట సుమారు 20 చోట్ల ప్రైవేటు సైలోలకు ప్రోత్సాహం",
+    "పౌరసరఫరాల సంస్థ అద్దె హామీ ఇస్తుంది",
+    "కోసిన వరిలో సుమారు 25% తేమ ఉంటుంది"
+   ],
+   "why": "వరి రైతులు పంటను నిల్వ చేసుకుని, కోసిన వెంటనే తక్కువ ధరకు అమ్మాల్సిన అవసరం తగ్గుతుంది.",
+   "en": {
+    "h": "Silo network across Telangana to cut farmers' losses: Minister Uttam",
+    "p": "Minister N Uttam Kumar Reddy said the government plans a network of scientific silos in the state to protect farmers from post-harvest losses and distress sales. He reviewed two models: silos built by the Civil Supplies Corporation with loans, and private participation. Initially, private entrepreneurs will be encouraged at around 20 locations.",
+    "pts": [
+     "Private silos to be encouraged first at about 20 locations",
+     "Civil Supplies Corporation to give rental guarantees",
+     "Freshly harvested paddy has about 25% moisture"
+    ],
+    "why": "Paddy farmers can store their crop and need not sell it cheaply right after harvest.",
+    "cat": "Telangana · Agriculture",
+    "statl": "Proposed silo locations"
+   },
+   "hi": {
+    "h": "किसानों का नुकसान घटाने के लिए तेलंगाना में साइलो नेटवर्क: मंत्री उत्तम",
+    "p": "मंत्री एन. उत्तम कुमार रेड्डी ने कहा कि फसल कटाई के बाद के नुकसान और मजबूरी में सस्ती बिक्री से किसानों को बचाने के लिए सरकार राज्य में वैज्ञानिक साइलो का नेटवर्क बनाने की योजना बना रही है। उन्होंने दो मॉडलों की समीक्षा की: नागरिक आपूर्ति निगम द्वारा ऋण लेकर निर्माण और निजी भागीदारी। शुरुआत में करीब 20 जगहों पर निजी उद्यमियों को प्रोत्साहित किया जाएगा।",
+    "pts": [
+     "पहले करीब 20 जगहों पर निजी साइलो को बढ़ावा",
+     "नागरिक आपूर्ति निगम देगा किराये की गारंटी",
+     "ताज़ा कटे धान में करीब 25% नमी होती है"
+    ],
+    "why": "धान किसान फसल जमा कर सकेंगे और कटाई के तुरंत बाद सस्ते में बेचने की ज़रूरत कम होगी।",
+    "cat": "तेलंगाना · कृषि",
+    "statl": "प्रस्तावित साइलो स्थान"
+   },
+   "d": "08.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "3",
+   "statl": "హార్మూజ్‌లో మంటల్లో ట్యాంకర్లు",
+   "h": "హార్మూజ్‌లో మూడు ట్యాంకర్లు పేలి మంటలు: ఇరాన్ రివల్యూషనరీ గార్డ్స్",
+   "p": "ఆదివారం తెల్లవారుజాము నుంచి హార్మూజ్ జలసంధిలో 'అక్రమ మార్గంలో' వెళ్తున్న మూడు ట్యాంకర్లు పేలి మంటలు అంటుకున్నాయని ఇరాన్ రివల్యూషనరీ గార్డ్స్ ప్రకటించాయి. ట్యాంకర్ల పేర్లు, దేశాలను వెల్లడించలేదు. గల్ఫ్ ఆఫ్ ఒమన్‌లో మంటల్లో ఉన్న నౌక నుంచి 22 మందిని కాపాడినట్లు యూఏఈ ప్రభుత్వ మీడియా తెలిపింది. ఈ నివేదికలు ఒకే ఘటనకు సంబంధించినవా అనేది నిర్ధారణ కాలేదు.",
+   "src": "AFP",
+   "url": "https://www.brecorder.com/news/40447998/iran-says-3-tankers-caught-fire-in-hormuz",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ట్యాంకర్ల పేర్లు, దేశాలు వెల్లడించని ఇరాన్",
+    "గల్ఫ్ ఆఫ్ ఒమన్‌లో 22 మంది సురక్షితం",
+    "శనివారం ఒమన్‌లోని ఖసబ్ వద్ద ట్యాంకర్‌కు మంటలు: యూకేఎంటీవో"
+   ],
+   "why": "భారత్‌కు చమురు, ఎల్‌పీజీ వచ్చే కీలక సముద్ర మార్గం హార్మూజ్ కావడంతో ఈ ఘటనలు ముఖ్యమైనవి.",
+   "en": {
+    "h": "Three tankers explode, catch fire in Hormuz: Iran's Revolutionary Guards",
+    "p": "Iran's Revolutionary Guards said three tankers sailing in an 'illegal channel' in the Strait of Hormuz exploded and caught fire since the early hours of Sunday. They did not name the tankers or their nationality. UAE state media said 22 people were rescued from a burning vessel in the Gulf of Oman. It is not confirmed whether the reports refer to the same incidents.",
+    "pts": [
+     "Iran did not name the tankers or their countries",
+     "22 people rescued safely in the Gulf of Oman",
+     "Tanker caught fire off Khasab, Oman, on Saturday: UKMTO"
+    ],
+    "why": "These incidents matter as Hormuz is a key sea route for India's oil and LPG.",
+    "cat": "World · Iran",
+    "statl": "Tankers on fire in Hormuz"
+   },
+   "hi": {
+    "h": "होर्मुज़ में तीन टैंकरों में धमाका और आग: ईरान के रिवॉल्यूशनरी गार्ड्स",
+    "p": "ईरान के रिवॉल्यूशनरी गार्ड्स ने कहा कि रविवार तड़के से होर्मुज़ जलडमरूमध्य में 'अवैध मार्ग' से गुज़र रहे तीन टैंकरों में धमाका हुआ और आग लग गई। उन्होंने टैंकरों के नाम या देश नहीं बताए। यूएई सरकारी मीडिया ने कहा कि ओमान की खाड़ी में जलते जहाज़ से 22 लोगों को बचाया गया। ये रिपोर्टें एक ही घटना की हैं या नहीं, इसकी पुष्टि नहीं हुई है।",
+    "pts": [
+     "ईरान ने टैंकरों के नाम और देश नहीं बताए",
+     "ओमान की खाड़ी में 22 लोग सुरक्षित बचाए गए",
+     "शनिवार को ओमान के खसब के पास टैंकर में आग: यूकेएमटीओ"
+    ],
+    "why": "होर्मुज़ भारत के तेल और एलपीजी का अहम समुद्री मार्ग है, इसलिए ये घटनाएं महत्वपूर्ण हैं।",
+    "cat": "दुनिया · ईरान",
+    "statl": "होर्मुज़ में जलते टैंकर"
+   },
+   "d": "08.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "85",
+   "statl": "చదువుకు ముందుకొచ్చిన ఖైదీలు",
+   "h": "జైళ్లలో ఓపెన్ స్కూల్: ఖైదీలకు పదో తరగతి, ఇంటర్ చదివే అవకాశం",
+   "p": "తెలంగాణ జైళ్ల శాఖ, తెలంగాణ ఓపెన్ స్కూల్ సొసైటీ (టాస్)తో కలిసి ఖైదీల కోసం ఓపెన్ స్కూల్ కార్యక్రమాన్ని ప్రారంభించింది. విద్యాశాఖ ముఖ్య కార్యదర్శి యోగితా రాణా దీన్ని ప్రారంభించారు. ఆదివారాలు, రెండో శనివారాల్లో తరగతులు జరుగుతాయి. ఖైదీలకు పుస్తకాలు, బోధన సహాయం అందిస్తారు. ఈ విద్యా సంవత్సరానికి 85 మంది ఖైదీలు ఆసక్తి చూపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/lesson-for-life-telangana-prisoners-can-study-via-open-schooling-3571445/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఎస్‌ఎస్‌సీకి 70, ఇంటర్‌కు 15 మంది ఖైదీలు",
+    "కోర్సు ఫీజులో ₹1,250 తగ్గింపు",
+    "జైళ్లలోనే ప్రత్యేక టాస్ కేంద్రాలు"
+   ],
+   "why": "ఖైదీలు చదువు పూర్తి చేసి, విడుదలయ్యాక ఉన్నత విద్యకు వెళ్లే అవకాశం కలుగుతుంది.",
+   "en": {
+    "h": "Open school in jails: prisoners can study SSC, Intermediate",
+    "p": "The Telangana Prisons Department, with the Telangana Open School Society (TOSS), launched an open school programme for inmates. Education Department Principal Secretary Yogita Rana inaugurated it. Classes will be held on Sundays and second Saturdays. Inmates will get study material and academic support. 85 prisoners have shown interest for this academic year.",
+    "pts": [
+     "70 prisoners for SSC, 15 for Intermediate",
+     "₹1,250 reduction in course fees",
+     "Dedicated TOSS centres inside prisons"
+    ],
+    "why": "Prisoners get a chance to complete their schooling and go for higher studies after release.",
+    "cat": "Telangana · Education",
+    "statl": "Prisoners keen to study"
+   },
+   "hi": {
+    "h": "जेलों में ओपन स्कूल: कैदी कर सकेंगे दसवीं, इंटर की पढ़ाई",
+    "p": "तेलंगाना जेल विभाग ने तेलंगाना ओपन स्कूल सोसाइटी (टॉस) के साथ मिलकर कैदियों के लिए ओपन स्कूल कार्यक्रम शुरू किया। शिक्षा विभाग की प्रधान सचिव योगिता राणा ने इसका उद्घाटन किया। कक्षाएं रविवार और दूसरे शनिवार को होंगी। कैदियों को अध्ययन सामग्री और शैक्षणिक सहायता मिलेगी। इस शैक्षणिक वर्ष के लिए 85 कैदियों ने रुचि दिखाई है।",
+    "pts": [
+     "एसएससी के लिए 70, इंटर के लिए 15 कैदी",
+     "कोर्स फीस में ₹1,250 की छूट",
+     "जेलों के अंदर ही विशेष टॉस केंद्र"
+    ],
+    "why": "कैदियों को पढ़ाई पूरी करने और रिहाई के बाद उच्च शिक्षा का मौका मिलेगा।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "पढ़ाई को इच्छुक कैदी"
+   },
+   "d": "08.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఫుట్‌బాల్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "26",
+   "statl": "గోల్స్‌తో గోల్డెన్ బూట్",
+   "h": "వరుసగా రెండోసారి ఎంఎల్‌ఎస్ గోల్డెన్ బూట్ గెలిచిన మెస్సీ",
+   "p": "ఇంటర్ మయామి ఆటగాడు లియోనెల్ మెస్సీ 31 రెగ్యులర్ సీజన్ మ్యాచ్‌ల్లో 26 గోల్స్ చేసి 2026 ఎంఎల్‌ఎస్ గోల్డెన్ బూట్ గెలిచాడు. వరుస సీజన్లలో ఈ అవార్డు గెలిచిన తొలి ఆటగాడిగా నిలిచాడు. ఎఫ్‌సీ డల్లాస్ ఆటగాడు పీటర్ ముసా 22 గోల్స్‌తో రెండో స్థానంలో ఉన్నాడు. 39 ఏళ్ల మెస్సీ ఈ సీజన్‌లో 17 అసిస్ట్‌లు కూడా అందించాడు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/lionel-messi-wins-second-consecutive-mls-golden-boot-after-scoring-26-goals-for-inter-miami",
+   "sec": [
+    "world",
+    "sports"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "31 మ్యాచ్‌ల్లో 26 గోల్స్, 17 అసిస్ట్‌లు",
+    "రెండో స్థానంలో పీటర్ ముసా (22 గోల్స్)",
+    "ఈ సీజన్‌లో మొత్తం 43 గోల్ కాంట్రిబ్యూషన్లు"
+   ],
+   "why": "39 ఏళ్ల వయసులోనూ మెస్సీ లీగ్‌లో అత్యధిక గోల్స్ చేసి ఫుట్‌బాల్ అభిమానులను ఆకట్టుకున్నాడు.",
+   "en": {
+    "h": "Messi wins MLS Golden Boot for second straight season",
+    "p": "Inter Miami's Lionel Messi won the 2026 MLS Golden Boot with 26 goals in 31 regular-season matches. He became the first player to win the award in successive seasons. FC Dallas forward Petar Musa finished second with 22 goals. The 39-year-old Messi also provided 17 assists this season.",
+    "pts": [
+     "26 goals, 17 assists in 31 matches",
+     "Petar Musa second with 22 goals",
+     "43 goal contributions in all this season"
+    ],
+    "why": "Even at 39, Messi topped the league's scoring chart, delighting football fans.",
+    "cat": "World · Football",
+    "statl": "Goals for Golden Boot"
+   },
+   "hi": {
+    "h": "मेसी ने लगातार दूसरी बार जीता एमएलएस गोल्डन बूट",
+    "p": "इंटर मियामी के लियोनेल मेसी ने 31 रेगुलर सीज़न मैचों में 26 गोल कर 2026 का एमएलएस गोल्डन बूट जीता। वह लगातार सीज़नों में यह पुरस्कार जीतने वाले पहले खिलाड़ी बने। एफसी डलास के पेटार मूसा 22 गोल के साथ दूसरे स्थान पर रहे। 39 वर्षीय मेसी ने इस सीज़न 17 असिस्ट भी किए।",
+    "pts": [
+     "31 मैचों में 26 गोल, 17 असिस्ट",
+     "22 गोल के साथ पेटार मूसा दूसरे",
+     "इस सीज़न कुल 43 गोल योगदान"
+    ],
+    "why": "39 की उम्र में भी मेसी ने लीग में सबसे ज़्यादा गोल कर फुटबॉल प्रशंसकों का दिल जीता।",
+    "cat": "दुनिया · फुटबॉल",
+    "statl": "गोल्डन बूट के गोल"
+   },
+   "d": "08.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "హైదరాబాద్ · సైబర్ నేరం",
    "col": "--c-power",
