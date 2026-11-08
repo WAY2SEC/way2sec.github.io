@@ -1,8 +1,202 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 6,
+ "count": 10,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "20",
+   "statl": "టపాసు గాయాలకు ప్రత్యేక పడకలు",
+   "h": "దీపావళి టపాసు గాయాలకు సరోజినీ దేవి కంటి ఆస్పత్రిలో 20 పడకలు సిద్ధం",
+   "p": "దీపావళి టపాసుల వల్ల జరిగే గాయాలకు చికిత్స అందించేందుకు హైదరాబాద్ ఆస్పత్రులు సిద్ధమయ్యాయి. సరోజినీ దేవి కంటి ఆస్పత్రి 20 పడకలు కేటాయించి వైద్యులు, సిబ్బందిని అందుబాటులో ఉంచింది. గత రెండు దీపావళి సీజన్లలో 231 మంది గాయాలతో వచ్చారని, ఎక్కువ గాయాలు మిర్చి బాంబుల వల్లేనని సూపరింటెండెంట్ తెలిపారు. పెద్దల పర్యవేక్షణలో, కాటన్ దుస్తులతో, ఖాళీ ప్రదేశాల్లో టపాసులు కాల్చాలని వైద్యులు సూచించారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-hospitals-brace-for-diwali-injuries-2002654",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "గత రెండు సీజన్లలో 231 మంది, 33 మందికి తీవ్ర గాయాలు",
+    "కాలిన చోట 20 నిమిషాలు నీళ్లు పోయాలి; ఐస్, పసుపు వద్దు",
+    "కంటికి గాయమైతే రుద్దకుండా వెంటనే వైద్యం పొందాలి"
+   ],
+   "why": "ఈ జాగ్రత్తలు పాటిస్తే పండుగ రోజు పిల్లలు, పెద్దలు కంటి, కాలిన గాయాల ప్రమాదం తగ్గించుకోవచ్చు.",
+   "en": {
+    "h": "Sarojini Devi Eye Hospital readies 20 beds for Diwali cracker injuries",
+    "p": "Hyderabad hospitals are prepared to treat injuries caused by Diwali firecrackers. Sarojini Devi Eye Hospital has set aside 20 beds and kept doctors and staff on standby. The superintendent said 231 people came with injuries in the last two Diwali seasons, most of them caused by mirchi bombs. Doctors advised bursting crackers under adult supervision, in cotton clothes and in open spaces.",
+    "pts": [
+     "231 patients in last two seasons, 33 seriously injured",
+     "Cool burns under water for 20 minutes; no ice or turmeric",
+     "For eye injuries, do not rub; get treatment immediately"
+    ],
+    "why": "Following these precautions can reduce the risk of eye and burn injuries for children and adults on the festival day.",
+    "cat": "Hyderabad · Health",
+    "statl": "Special beds for cracker injuries"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों से चोट के लिए सरोजिनी देवी नेत्र अस्पताल में 20 बिस्तर तैयार",
+    "p": "हैदराबाद के अस्पताल दिवाली पटाखों से होने वाली चोटों के इलाज के लिए तैयार हैं। सरोजिनी देवी नेत्र अस्पताल ने 20 बिस्तर अलग रखे हैं और डॉक्टरों व कर्मचारियों को तैनात रखा है। अधीक्षक ने बताया कि पिछले दो दिवाली सीज़न में 231 लोग चोट लेकर आए, ज़्यादातर चोटें मिर्ची बम से थीं। डॉक्टरों ने बड़ों की निगरानी में, सूती कपड़ों में और खुली जगह पर पटाखे जलाने की सलाह दी।",
+    "pts": [
+     "पिछले दो सीज़न में 231 मरीज़, 33 गंभीर रूप से घायल",
+     "जले हिस्से पर 20 मिनट पानी डालें; बर्फ, हल्दी नहीं",
+     "आंख में चोट लगे तो मलें नहीं, तुरंत इलाज कराएं"
+    ],
+    "why": "ये सावधानियां बरतने से त्योहार के दिन बच्चों और बड़ों में आंख व जलने की चोट का खतरा घट सकता है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "पटाखों से चोट के लिए विशेष बिस्तर"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ఏపీ · తిరుపతి",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "25/35",
+   "statl": "తిరుపతి జిల్లాలో టీడీపీ జడ్పీటీసీలు",
+   "h": "తిరుపతి జిల్లాలో 35 జడ్పీటీసీల్లో 25 టీడీపీకి, వైఎస్ఆర్‌సీపీకి 7",
+   "p": "తిరుపతి జిల్లా పరిషత్ ఎన్నికల్లో మొత్తం 35 జడ్పీటీసీ స్థానాల్లో టీడీపీ 25 గెలుచుకుంది. వైఎస్ఆర్‌సీపీ 7, బీజేపీ 2, జనసేన 1 స్థానం దక్కించుకున్నాయి. తిరుపతి రూరల్ జడ్పీటీసీని వైఎస్ఆర్‌సీపీ అభ్యర్థి 602 ఓట్లతో, కోడూరును 2,500 ఓట్ల మెజారిటీతో గెలిచారు. జిల్లాలోని 444 ఎంపీటీసీ స్థానాల్లో 142 ఏకగ్రీవమయ్యాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "pts": [
+    "టీడీపీ 25, వైఎస్ఆర్‌సీపీ 7, బీజేపీ 2, జనసేన 1",
+    "444 ఎంపీటీసీల్లో 142 ఏకగ్రీవం",
+    "తిరుపతి రూరల్, కోడూరు జడ్పీటీసీలు వైఎస్ఆర్‌సీపీకి"
+   ],
+   "why": "తిరుపతి జిల్లా గ్రామాల అభివృద్ధి పనులు, నిధుల నిర్ణయాల్లో ఈ జడ్పీటీసీ సభ్యులే కీలకం.",
+   "en": {
+    "h": "TDP wins 25 of 35 ZPTC seats in Tirupati district, YSRCP 7",
+    "p": "In the Tirupati district parishad elections, the TDP won 25 of the 35 ZPTC seats. The YSRCP won 7, the BJP 2 and the Jana Sena 1. A YSRCP candidate won Tirupati Rural ZPTC by 602 votes, and the party won Kodur with a 2,500-vote majority. Of the district's 444 MPTC seats, 142 were decided unopposed.",
+    "pts": [
+     "TDP 25, YSRCP 7, BJP 2, Jana Sena 1",
+     "142 of 444 MPTC seats unopposed",
+     "Tirupati Rural and Kodur ZPTC seats go to YSRCP"
+    ],
+    "why": "These ZPTC members play a key role in development works and fund decisions for Tirupati district's villages.",
+    "cat": "Andhra Pradesh · Tirupati",
+    "statl": "TDP ZPTC seats in Tirupati district"
+   },
+   "hi": {
+    "h": "तिरुपति जिले में 35 में से 25 जेडपीटीसी टीडीपी को, वाईएसआरसीपी को 7",
+    "p": "तिरुपति जिला परिषद चुनावों में टीडीपी ने 35 में से 25 जेडपीटीसी सीटें जीतीं। वाईएसआरसीपी को 7, भाजपा को 2 और जनसेना को 1 सीट मिली। तिरुपति ग्रामीण जेडपीटीसी वाईएसआरसीपी उम्मीदवार ने 602 वोटों से और कोडूर 2,500 वोटों के अंतर से जीती। जिले की 444 एमपीटीसी सीटों में से 142 निर्विरोध तय हुईं।",
+    "pts": [
+     "टीडीपी 25, वाईएसआरसीपी 7, भाजपा 2, जनसेना 1",
+     "444 में से 142 एमपीटीसी निर्विरोध",
+     "तिरुपति ग्रामीण और कोडूर जेडपीटीसी वाईएसआरसीपी को"
+    ],
+    "why": "तिरुपति जिले के गांवों के विकास कार्यों और फंड के फैसलों में ये जेडपीटीसी सदस्य अहम हैं।",
+    "cat": "आंध्र प्रदेश · तिरुपति",
+    "statl": "तिरुपति जिले में टीडीपी की जेडपीटीसी सीटें"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "భారత్ · దీపావళి",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1,008",
+   "statl": "మథుర శ్రీకృష్ణ జన్మస్థాన్‌లో దీపాలు",
+   "h": "దేశవ్యాప్తంగా దీపావళి; సైనికులతో పండుగ జరుపుకుంటానన్న ప్రధాని మోదీ",
+   "p": "దేశవ్యాప్తంగా ఆదివారం దీపావళి పండుగ జరుగుతోంది. ప్రధాని మోదీ ప్రజలకు శుభాకాంక్షలు తెలిపి, ఏటా లాగే ఈసారీ సైనికులతో పండుగ జరుపుకుంటానని చెప్పారు; ఏ ప్రాంతంలో అనేది వెల్లడించలేదు. కేంద్ర మంత్రి అర్జున్ రామ్ మేఘ్వాల్ రాజస్థాన్‌లోని బికనేర్‌లో బీఎస్ఎఫ్ జవాన్లతో దీపావళి జరుపుకున్నారు. మథుర శ్రీకృష్ణ జన్మస్థాన్‌లో 1,008 దీపాలు వెలిగించారు.",
+   "src": "ETV Bharat, PTI",
+   "url": "https://www.etvbharat.com/en/bharat/live-blog--diwali-2026-live-updates-festivities-greetings-delhi-ayodhya-prime-minister-narendra-modi-enn26110800407",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "రాష్ట్రపతి ముర్ము, ప్రధాని మోదీ శుభాకాంక్షలు",
+    "బికనేర్‌లో బీఎస్ఎఫ్ జవాన్లతో మంత్రి మేఘ్వాల్",
+    "నవంబర్ 9న గోవర్ధన పూజ, 10న భాయ్ దూజ్"
+   ],
+   "why": "పండుగ రోజున దేశమంతా వేడుకలతో పాటు సరిహద్దుల్లోని జవాన్ల వద్దకు నేతలు వెళ్తున్నారు.",
+   "en": {
+    "h": "Diwali across India; PM Modi says he will celebrate with soldiers",
+    "p": "Diwali is being celebrated across the country on Sunday. PM Modi greeted the people and said that, as every year, he would celebrate the festival with soldiers this time too; he did not disclose where. Union minister Arjun Ram Meghwal celebrated Diwali with BSF personnel in Bikaner, Rajasthan. At Sri Krishna Janmasthan in Mathura, 1,008 lamps were lit.",
+    "pts": [
+     "President Murmu and PM Modi extend greetings",
+     "Minister Meghwal with BSF personnel in Bikaner",
+     "Govardhan Puja on November 9, Bhai Dooj on 10th"
+    ],
+    "why": "Along with celebrations across the country, leaders are visiting soldiers at the borders on the festival day.",
+    "cat": "India · Diwali",
+    "statl": "Lamps at Sri Krishna Janmasthan, Mathura"
+   },
+   "hi": {
+    "h": "देशभर में दिवाली; प्रधानमंत्री मोदी बोले, सैनिकों के साथ मनाएंगे त्योहार",
+    "p": "रविवार को देशभर में दिवाली मनाई जा रही है। प्रधानमंत्री मोदी ने लोगों को शुभकामनाएं दीं और कहा कि हर साल की तरह इस बार भी वे सैनिकों के साथ त्योहार मनाएंगे; उन्होंने जगह नहीं बताई। केंद्रीय मंत्री अर्जुन राम मेघवाल ने राजस्थान के बीकानेर में बीएसएफ जवानों के साथ दिवाली मनाई। मथुरा के श्रीकृष्ण जन्मस्थान में 1,008 दीये जलाए गए।",
+    "pts": [
+     "राष्ट्रपति मुर्मू और प्रधानमंत्री मोदी की शुभकामनाएं",
+     "बीकानेर में बीएसएफ जवानों के साथ मंत्री मेघवाल",
+     "9 नवंबर को गोवर्धन पूजा, 10 को भाई दूज"
+    ],
+    "why": "त्योहार के दिन देशभर में उत्सव के साथ नेता सीमा पर जवानों के पास जा रहे हैं।",
+    "cat": "भारत · दिवाली",
+    "statl": "मथुरा श्रीकृष्ण जन्मस्थान में दीये"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "బిహార్ · ముంగేర్",
+   "col": "--c-gov",
+   "art": "water",
+   "stat": "83 కి.మీ",
+   "statl": "ముంగేర్–భాగల్‌పూర్ మెరైన్ డ్రైవ్",
+   "h": "ముంగేర్–భాగల్‌పూర్ మధ్య 83 కి.మీ మెరైన్ డ్రైవ్: బిహార్ సీఎం ప్రకటన",
+   "p": "బిహార్ ముఖ్యమంత్రి సామ్రాట్ చౌదరి తన సొంత జిల్లా ముంగేర్‌లోని కళ్యాణ్‌పూర్‌లో శనివారం దీపోత్సవంలో పాల్గొన్నారు. గంగా నది తీరంలో 11,11,111 మట్టి దీపాలు వెలిగించారు. ఈ సందర్భంగా ముంగేర్–భాగల్‌పూర్ మధ్య 83 కిలోమీటర్ల మెరైన్ డ్రైవ్ నిర్మాణం రెండు నెలల్లో మొదలవుతుందని సీఎం ప్రకటించారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/bharat/live-blog--diwali-2026-live-updates-festivities-greetings-delhi-ayodhya-prime-minister-narendra-modi-enn26110800407",
+   "sec": [
+    "india"
+   ],
+   "st": "BR",
+   "place": "IN",
+   "loc": "కళ్యాణ్‌పూర్",
+   "pts": [
+    "గంగా తీరంలో 11,11,111 మట్టి దీపాలు",
+    "మా బడీ దుర్గా ఆలయంలో తొలి దీపం వెలిగించిన సీఎం",
+    "రెండు నెలల్లో మెరైన్ డ్రైవ్ పనులు ప్రారంభం"
+   ],
+   "why": "గంగా తీరంలోని ముంగేర్, భాగల్‌పూర్ ప్రాంత ప్రజలకు ఈ రహదారి ప్రాజెక్టు నేరుగా సంబంధించినది.",
+   "en": {
+    "h": "83-km Munger–Bhagalpur Marine Drive announced by Bihar CM",
+    "p": "Bihar Chief Minister Samrat Choudhary took part in a Deepotsav at Kalyanpur in his home district of Munger on Saturday. 11,11,111 earthen lamps were lit along the banks of the Ganga. On the occasion, the CM announced that construction of an 83-km Marine Drive between Munger and Bhagalpur will begin within two months.",
+    "pts": [
+     "11,11,111 earthen lamps along the Ganga",
+     "CM lit the first lamp at Maa Badi Durga temple",
+     "Marine Drive work to begin within two months"
+    ],
+    "why": "This road project directly concerns people in the Munger and Bhagalpur areas along the Ganga.",
+    "cat": "Bihar · Munger",
+    "statl": "Munger–Bhagalpur Marine Drive"
+   },
+   "hi": {
+    "h": "मुंगेर–भागलपुर के बीच 83 किमी मरीन ड्राइव: बिहार सीएम की घोषणा",
+    "p": "बिहार के मुख्यमंत्री सम्राट चौधरी ने शनिवार को अपने गृह जिले मुंगेर के कल्याणपुर में दीपोत्सव में हिस्सा लिया। गंगा तट पर 11,11,111 मिट्टी के दीये जलाए गए। इस मौके पर मुख्यमंत्री ने घोषणा की कि मुंगेर और भागलपुर के बीच 83 किलोमीटर लंबी मरीन ड्राइव का निर्माण दो महीने में शुरू होगा।",
+    "pts": [
+     "गंगा तट पर 11,11,111 मिट्टी के दीये",
+     "सीएम ने मां बड़ी दुर्गा मंदिर में पहला दीया जलाया",
+     "दो महीने में मरीन ड्राइव का काम शुरू"
+    ],
+    "why": "यह सड़क परियोजना गंगा किनारे के मुंगेर और भागलपुर क्षेत्र के लोगों से सीधे जुड़ी है।",
+    "cat": "बिहार · मुंगेर",
+    "statl": "मुंगेर–भागलपुर मरीन ड्राइव"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "ఏపీ · జిల్లా పరిషత్",
    "col": "--c-election",

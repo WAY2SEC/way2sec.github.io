@@ -1,8 +1,202 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T07:40:23+05:30",
+ "updated": "2026-11-08T08:09:30+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "20",
+   "statl": "టపాసు గాయాలకు ప్రత్యేక పడకలు",
+   "h": "దీపావళి టపాసు గాయాలకు సరోజినీ దేవి కంటి ఆస్పత్రిలో 20 పడకలు సిద్ధం",
+   "p": "దీపావళి టపాసుల వల్ల జరిగే గాయాలకు చికిత్స అందించేందుకు హైదరాబాద్ ఆస్పత్రులు సిద్ధమయ్యాయి. సరోజినీ దేవి కంటి ఆస్పత్రి 20 పడకలు కేటాయించి వైద్యులు, సిబ్బందిని అందుబాటులో ఉంచింది. గత రెండు దీపావళి సీజన్లలో 231 మంది గాయాలతో వచ్చారని, ఎక్కువ గాయాలు మిర్చి బాంబుల వల్లేనని సూపరింటెండెంట్ తెలిపారు. పెద్దల పర్యవేక్షణలో, కాటన్ దుస్తులతో, ఖాళీ ప్రదేశాల్లో టపాసులు కాల్చాలని వైద్యులు సూచించారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-hospitals-brace-for-diwali-injuries-2002654",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "గత రెండు సీజన్లలో 231 మంది, 33 మందికి తీవ్ర గాయాలు",
+    "కాలిన చోట 20 నిమిషాలు నీళ్లు పోయాలి; ఐస్, పసుపు వద్దు",
+    "కంటికి గాయమైతే రుద్దకుండా వెంటనే వైద్యం పొందాలి"
+   ],
+   "why": "ఈ జాగ్రత్తలు పాటిస్తే పండుగ రోజు పిల్లలు, పెద్దలు కంటి, కాలిన గాయాల ప్రమాదం తగ్గించుకోవచ్చు.",
+   "en": {
+    "h": "Sarojini Devi Eye Hospital readies 20 beds for Diwali cracker injuries",
+    "p": "Hyderabad hospitals are prepared to treat injuries caused by Diwali firecrackers. Sarojini Devi Eye Hospital has set aside 20 beds and kept doctors and staff on standby. The superintendent said 231 people came with injuries in the last two Diwali seasons, most of them caused by mirchi bombs. Doctors advised bursting crackers under adult supervision, in cotton clothes and in open spaces.",
+    "pts": [
+     "231 patients in last two seasons, 33 seriously injured",
+     "Cool burns under water for 20 minutes; no ice or turmeric",
+     "For eye injuries, do not rub; get treatment immediately"
+    ],
+    "why": "Following these precautions can reduce the risk of eye and burn injuries for children and adults on the festival day.",
+    "cat": "Hyderabad · Health",
+    "statl": "Special beds for cracker injuries"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों से चोट के लिए सरोजिनी देवी नेत्र अस्पताल में 20 बिस्तर तैयार",
+    "p": "हैदराबाद के अस्पताल दिवाली पटाखों से होने वाली चोटों के इलाज के लिए तैयार हैं। सरोजिनी देवी नेत्र अस्पताल ने 20 बिस्तर अलग रखे हैं और डॉक्टरों व कर्मचारियों को तैनात रखा है। अधीक्षक ने बताया कि पिछले दो दिवाली सीज़न में 231 लोग चोट लेकर आए, ज़्यादातर चोटें मिर्ची बम से थीं। डॉक्टरों ने बड़ों की निगरानी में, सूती कपड़ों में और खुली जगह पर पटाखे जलाने की सलाह दी।",
+    "pts": [
+     "पिछले दो सीज़न में 231 मरीज़, 33 गंभीर रूप से घायल",
+     "जले हिस्से पर 20 मिनट पानी डालें; बर्फ, हल्दी नहीं",
+     "आंख में चोट लगे तो मलें नहीं, तुरंत इलाज कराएं"
+    ],
+    "why": "ये सावधानियां बरतने से त्योहार के दिन बच्चों और बड़ों में आंख व जलने की चोट का खतरा घट सकता है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "पटाखों से चोट के लिए विशेष बिस्तर"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ఏపీ · తిరుపతి",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "25/35",
+   "statl": "తిరుపతి జిల్లాలో టీడీపీ జడ్పీటీసీలు",
+   "h": "తిరుపతి జిల్లాలో 35 జడ్పీటీసీల్లో 25 టీడీపీకి, వైఎస్ఆర్‌సీపీకి 7",
+   "p": "తిరుపతి జిల్లా పరిషత్ ఎన్నికల్లో మొత్తం 35 జడ్పీటీసీ స్థానాల్లో టీడీపీ 25 గెలుచుకుంది. వైఎస్ఆర్‌సీపీ 7, బీజేపీ 2, జనసేన 1 స్థానం దక్కించుకున్నాయి. తిరుపతి రూరల్ జడ్పీటీసీని వైఎస్ఆర్‌సీపీ అభ్యర్థి 602 ఓట్లతో, కోడూరును 2,500 ఓట్ల మెజారిటీతో గెలిచారు. జిల్లాలోని 444 ఎంపీటీసీ స్థానాల్లో 142 ఏకగ్రీవమయ్యాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "pts": [
+    "టీడీపీ 25, వైఎస్ఆర్‌సీపీ 7, బీజేపీ 2, జనసేన 1",
+    "444 ఎంపీటీసీల్లో 142 ఏకగ్రీవం",
+    "తిరుపతి రూరల్, కోడూరు జడ్పీటీసీలు వైఎస్ఆర్‌సీపీకి"
+   ],
+   "why": "తిరుపతి జిల్లా గ్రామాల అభివృద్ధి పనులు, నిధుల నిర్ణయాల్లో ఈ జడ్పీటీసీ సభ్యులే కీలకం.",
+   "en": {
+    "h": "TDP wins 25 of 35 ZPTC seats in Tirupati district, YSRCP 7",
+    "p": "In the Tirupati district parishad elections, the TDP won 25 of the 35 ZPTC seats. The YSRCP won 7, the BJP 2 and the Jana Sena 1. A YSRCP candidate won Tirupati Rural ZPTC by 602 votes, and the party won Kodur with a 2,500-vote majority. Of the district's 444 MPTC seats, 142 were decided unopposed.",
+    "pts": [
+     "TDP 25, YSRCP 7, BJP 2, Jana Sena 1",
+     "142 of 444 MPTC seats unopposed",
+     "Tirupati Rural and Kodur ZPTC seats go to YSRCP"
+    ],
+    "why": "These ZPTC members play a key role in development works and fund decisions for Tirupati district's villages.",
+    "cat": "Andhra Pradesh · Tirupati",
+    "statl": "TDP ZPTC seats in Tirupati district"
+   },
+   "hi": {
+    "h": "तिरुपति जिले में 35 में से 25 जेडपीटीसी टीडीपी को, वाईएसआरसीपी को 7",
+    "p": "तिरुपति जिला परिषद चुनावों में टीडीपी ने 35 में से 25 जेडपीटीसी सीटें जीतीं। वाईएसआरसीपी को 7, भाजपा को 2 और जनसेना को 1 सीट मिली। तिरुपति ग्रामीण जेडपीटीसी वाईएसआरसीपी उम्मीदवार ने 602 वोटों से और कोडूर 2,500 वोटों के अंतर से जीती। जिले की 444 एमपीटीसी सीटों में से 142 निर्विरोध तय हुईं।",
+    "pts": [
+     "टीडीपी 25, वाईएसआरसीपी 7, भाजपा 2, जनसेना 1",
+     "444 में से 142 एमपीटीसी निर्विरोध",
+     "तिरुपति ग्रामीण और कोडूर जेडपीटीसी वाईएसआरसीपी को"
+    ],
+    "why": "तिरुपति जिले के गांवों के विकास कार्यों और फंड के फैसलों में ये जेडपीटीसी सदस्य अहम हैं।",
+    "cat": "आंध्र प्रदेश · तिरुपति",
+    "statl": "तिरुपति जिले में टीडीपी की जेडपीटीसी सीटें"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "భారత్ · దీపావళి",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1,008",
+   "statl": "మథుర శ్రీకృష్ణ జన్మస్థాన్‌లో దీపాలు",
+   "h": "దేశవ్యాప్తంగా దీపావళి; సైనికులతో పండుగ జరుపుకుంటానన్న ప్రధాని మోదీ",
+   "p": "దేశవ్యాప్తంగా ఆదివారం దీపావళి పండుగ జరుగుతోంది. ప్రధాని మోదీ ప్రజలకు శుభాకాంక్షలు తెలిపి, ఏటా లాగే ఈసారీ సైనికులతో పండుగ జరుపుకుంటానని చెప్పారు; ఏ ప్రాంతంలో అనేది వెల్లడించలేదు. కేంద్ర మంత్రి అర్జున్ రామ్ మేఘ్వాల్ రాజస్థాన్‌లోని బికనేర్‌లో బీఎస్ఎఫ్ జవాన్లతో దీపావళి జరుపుకున్నారు. మథుర శ్రీకృష్ణ జన్మస్థాన్‌లో 1,008 దీపాలు వెలిగించారు.",
+   "src": "ETV Bharat, PTI",
+   "url": "https://www.etvbharat.com/en/bharat/live-blog--diwali-2026-live-updates-festivities-greetings-delhi-ayodhya-prime-minister-narendra-modi-enn26110800407",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "రాష్ట్రపతి ముర్ము, ప్రధాని మోదీ శుభాకాంక్షలు",
+    "బికనేర్‌లో బీఎస్ఎఫ్ జవాన్లతో మంత్రి మేఘ్వాల్",
+    "నవంబర్ 9న గోవర్ధన పూజ, 10న భాయ్ దూజ్"
+   ],
+   "why": "పండుగ రోజున దేశమంతా వేడుకలతో పాటు సరిహద్దుల్లోని జవాన్ల వద్దకు నేతలు వెళ్తున్నారు.",
+   "en": {
+    "h": "Diwali across India; PM Modi says he will celebrate with soldiers",
+    "p": "Diwali is being celebrated across the country on Sunday. PM Modi greeted the people and said that, as every year, he would celebrate the festival with soldiers this time too; he did not disclose where. Union minister Arjun Ram Meghwal celebrated Diwali with BSF personnel in Bikaner, Rajasthan. At Sri Krishna Janmasthan in Mathura, 1,008 lamps were lit.",
+    "pts": [
+     "President Murmu and PM Modi extend greetings",
+     "Minister Meghwal with BSF personnel in Bikaner",
+     "Govardhan Puja on November 9, Bhai Dooj on 10th"
+    ],
+    "why": "Along with celebrations across the country, leaders are visiting soldiers at the borders on the festival day.",
+    "cat": "India · Diwali",
+    "statl": "Lamps at Sri Krishna Janmasthan, Mathura"
+   },
+   "hi": {
+    "h": "देशभर में दिवाली; प्रधानमंत्री मोदी बोले, सैनिकों के साथ मनाएंगे त्योहार",
+    "p": "रविवार को देशभर में दिवाली मनाई जा रही है। प्रधानमंत्री मोदी ने लोगों को शुभकामनाएं दीं और कहा कि हर साल की तरह इस बार भी वे सैनिकों के साथ त्योहार मनाएंगे; उन्होंने जगह नहीं बताई। केंद्रीय मंत्री अर्जुन राम मेघवाल ने राजस्थान के बीकानेर में बीएसएफ जवानों के साथ दिवाली मनाई। मथुरा के श्रीकृष्ण जन्मस्थान में 1,008 दीये जलाए गए।",
+    "pts": [
+     "राष्ट्रपति मुर्मू और प्रधानमंत्री मोदी की शुभकामनाएं",
+     "बीकानेर में बीएसएफ जवानों के साथ मंत्री मेघवाल",
+     "9 नवंबर को गोवर्धन पूजा, 10 को भाई दूज"
+    ],
+    "why": "त्योहार के दिन देशभर में उत्सव के साथ नेता सीमा पर जवानों के पास जा रहे हैं।",
+    "cat": "भारत · दिवाली",
+    "statl": "मथुरा श्रीकृष्ण जन्मस्थान में दीये"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "బిహార్ · ముంగేర్",
+   "col": "--c-gov",
+   "art": "water",
+   "stat": "83 కి.మీ",
+   "statl": "ముంగేర్–భాగల్‌పూర్ మెరైన్ డ్రైవ్",
+   "h": "ముంగేర్–భాగల్‌పూర్ మధ్య 83 కి.మీ మెరైన్ డ్రైవ్: బిహార్ సీఎం ప్రకటన",
+   "p": "బిహార్ ముఖ్యమంత్రి సామ్రాట్ చౌదరి తన సొంత జిల్లా ముంగేర్‌లోని కళ్యాణ్‌పూర్‌లో శనివారం దీపోత్సవంలో పాల్గొన్నారు. గంగా నది తీరంలో 11,11,111 మట్టి దీపాలు వెలిగించారు. ఈ సందర్భంగా ముంగేర్–భాగల్‌పూర్ మధ్య 83 కిలోమీటర్ల మెరైన్ డ్రైవ్ నిర్మాణం రెండు నెలల్లో మొదలవుతుందని సీఎం ప్రకటించారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/bharat/live-blog--diwali-2026-live-updates-festivities-greetings-delhi-ayodhya-prime-minister-narendra-modi-enn26110800407",
+   "sec": [
+    "india"
+   ],
+   "st": "BR",
+   "place": "IN",
+   "loc": "కళ్యాణ్‌పూర్",
+   "pts": [
+    "గంగా తీరంలో 11,11,111 మట్టి దీపాలు",
+    "మా బడీ దుర్గా ఆలయంలో తొలి దీపం వెలిగించిన సీఎం",
+    "రెండు నెలల్లో మెరైన్ డ్రైవ్ పనులు ప్రారంభం"
+   ],
+   "why": "గంగా తీరంలోని ముంగేర్, భాగల్‌పూర్ ప్రాంత ప్రజలకు ఈ రహదారి ప్రాజెక్టు నేరుగా సంబంధించినది.",
+   "en": {
+    "h": "83-km Munger–Bhagalpur Marine Drive announced by Bihar CM",
+    "p": "Bihar Chief Minister Samrat Choudhary took part in a Deepotsav at Kalyanpur in his home district of Munger on Saturday. 11,11,111 earthen lamps were lit along the banks of the Ganga. On the occasion, the CM announced that construction of an 83-km Marine Drive between Munger and Bhagalpur will begin within two months.",
+    "pts": [
+     "11,11,111 earthen lamps along the Ganga",
+     "CM lit the first lamp at Maa Badi Durga temple",
+     "Marine Drive work to begin within two months"
+    ],
+    "why": "This road project directly concerns people in the Munger and Bhagalpur areas along the Ganga.",
+    "cat": "Bihar · Munger",
+    "statl": "Munger–Bhagalpur Marine Drive"
+   },
+   "hi": {
+    "h": "मुंगेर–भागलपुर के बीच 83 किमी मरीन ड्राइव: बिहार सीएम की घोषणा",
+    "p": "बिहार के मुख्यमंत्री सम्राट चौधरी ने शनिवार को अपने गृह जिले मुंगेर के कल्याणपुर में दीपोत्सव में हिस्सा लिया। गंगा तट पर 11,11,111 मिट्टी के दीये जलाए गए। इस मौके पर मुख्यमंत्री ने घोषणा की कि मुंगेर और भागलपुर के बीच 83 किलोमीटर लंबी मरीन ड्राइव का निर्माण दो महीने में शुरू होगा।",
+    "pts": [
+     "गंगा तट पर 11,11,111 मिट्टी के दीये",
+     "सीएम ने मां बड़ी दुर्गा मंदिर में पहला दीया जलाया",
+     "दो महीने में मरीन ड्राइव का काम शुरू"
+    ],
+    "why": "यह सड़क परियोजना गंगा किनारे के मुंगेर और भागलपुर क्षेत्र के लोगों से सीधे जुड़ी है।",
+    "cat": "बिहार · मुंगेर",
+    "statl": "मुंगेर–भागलपुर मरीन ड्राइव"
+   },
+   "d": "08.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "ఏపీ · జిల్లా పరిషత్",
    "col": "--c-election",
@@ -1586,202 +1780,6 @@
    },
    "d": "07.11.2026",
    "t": "17:35"
-  },
-  {
-   "cat": "మహారాష్ట్ర · ముంబై",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3",
-   "statl": "ఘాట్‌కోపర్ అగ్నిప్రమాదంలో గాయపడినవారు",
-   "h": "ముంబై ఘాట్‌కోపర్‌లో 21 అంతస్తుల భవనంలో మంటలు; ముగ్గురికి గాయాలు",
-   "p": "ముంబై ఘాట్‌కోపర్ ఈస్ట్ పంత్‌నగర్‌లోని 21 అంతస్తుల నివాస భవనం 20వ అంతస్తులోని ఫ్లాట్‌లో శుక్రవారం రాత్రి మంటలు చెలరేగాయి. దీన్ని లెవల్-2 (పెద్ద) అగ్నిప్రమాదంగా ప్రకటించారు. రెండు గంటలకు పైగా శ్రమించి ఫైర్ బ్రిగేడ్ మంటలను అదుపులోకి తెచ్చింది; భవనాన్ని ఖాళీ చేయించారు. దీపావళి రాకెట్ టపాసులే కారణమని అనుమానిస్తున్నారు, అధికారికంగా నిర్ధారించలేదు.",
-   "pts": [
-    "గాయపడిన ముగ్గురి పరిస్థితి నిలకడగా ఉంది",
-    "ఒకరికి 27 శాతం కాలిన గాయాలు",
-    "ఘటనాస్థలాన్ని పరిశీలించిన ముంబై మేయర్"
-   ],
-   "why": "దీపావళి సమయంలో ఎత్తైన భవనాల్లో నివసించేవారు టపాసుల విషయంలో జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "src": "Free Press Journal",
-   "url": "https://www.freepressjournal.in/mumbai/mumbai-ghatkopar-east-fire-breaks-out-on-20th-floor-of-21-storey-building-3-residents-injured",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-mumbaisuburban",
-   "loc": "ఘాట్‌కోపర్",
-   "en": {
-    "h": "Fire in 21-storey building in Mumbai's Ghatkopar; three injured",
-    "p": "A fire broke out on Friday night in a flat on the 20th floor of a 21-storey residential building in Pantnagar, Ghatkopar East, Mumbai. It was declared a Level-2 (major) fire. The fire brigade brought it under control after more than two hours and the building was evacuated. Diwali rocket firecrackers are suspected, but the cause is not officially confirmed.",
-    "pts": [
-     "All three injured are stable",
-     "One person has 27 per cent burns",
-     "Mumbai Mayor inspected the site"
-    ],
-    "why": "The incident is a reminder for people living in high-rises to be careful with firecrackers during Diwali.",
-    "cat": "Maharashtra · Mumbai",
-    "statl": "Injured in Ghatkopar fire"
-   },
-   "hi": {
-    "h": "मुंबई के घाटकोपर में 21 मंजिला इमारत में आग; तीन घायल",
-    "p": "मुंबई के घाटकोपर ईस्ट के पंतनगर में 21 मंजिला आवासीय इमारत की 20वीं मंजिल के एक फ्लैट में शुक्रवार रात आग लग गई। इसे लेवल-2 (बड़ी) आग घोषित किया गया। दमकल ने दो घंटे से ज़्यादा मशक्कत के बाद आग पर काबू पाया और इमारत खाली कराई गई। दिवाली के रॉकेट पटाखों पर शक है, लेकिन कारण की आधिकारिक पुष्टि नहीं हुई है।",
-    "pts": [
-     "तीनों घायलों की हालत स्थिर",
-     "एक व्यक्ति 27 प्रतिशत झुलसा",
-     "मुंबई की मेयर ने मौके का निरीक्षण किया"
-    ],
-    "why": "यह घटना याद दिलाती है कि दिवाली पर ऊंची इमारतों में रहने वाले पटाखों को लेकर सावधान रहें।",
-    "cat": "महाराष्ट्र · मुंबई",
-    "statl": "घाटकोपर आग में घायल"
-   },
-   "d": "07.11.2026",
-   "t": "17:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2,000 కి.మీ",
-   "statl": "ఇప్పటివరకు ఉన్న క్షిపణి పరిధి పరిమితి",
-   "h": "క్షిపణుల పరిధిపై 2,000 కి.మీ స్వీయ పరిమితి ఎత్తివేసిన ఇరాన్",
-   "p": "తమ బాలిస్టిక్ క్షిపణుల పరిధిపై తామే విధించుకున్న 2,000 కిలోమీటర్ల పరిమితిని ఎత్తివేసినట్లు ఇరాన్ రివల్యూషనరీ గార్డ్ ప్రతినిధి జనరల్ హొస్సేన్ మొహెబ్బీ టెహ్రాన్‌లో ప్రకటించారు. అంతకు మించిన పరిధి క్షిపణులు ఉన్నాయా అనేది ఆయన చెప్పలేదు; సామర్థ్యాన్ని ఆచరణలో చూపిస్తామన్నారు. అమెరికా, ఇజ్రాయెల్ బెదిరింపులకు భౌగోళిక పరిమితి లేకుండా జవాబిస్తామని సుప్రీం లీడర్ హెచ్చరించిన కొద్ది రోజులకే ఈ ప్రకటన వచ్చింది.",
-   "pts": [
-    "2,000 కి.మీ మించిన క్షిపణులు ఇరాన్‌కు ఉన్నట్లు తెలియదు",
-    "ఈ పరిధిలో మొత్తం అరేబియా ద్వీపకల్పం",
-    "హోర్ముజ్ సమీపంలో ట్యాంకర్‌కు మందుపాతర తగిలి మంటలు"
-   ],
-   "why": "గల్ఫ్ దేశాల్లో ఉద్యోగాలు చేసే తెలుగువారి భద్రతపై ఈ ఉద్రిక్తతలు ప్రభావం చూపవచ్చు.",
-   "src": "AP",
-   "url": "https://www.clickondetroit.com/news/world/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "Iran lifts its self-imposed 2,000 km limit on missile range",
-    "p": "Gen. Hossein Mohebbi, spokesman for Iran's Revolutionary Guard, announced in Tehran that the self-imposed 2,000-kilometre limit on the range of its ballistic missiles has been lifted. He did not say whether Iran has longer-range missiles, saying it would demonstrate its capabilities in practice. The statement came days after the supreme leader warned that threats from the US or Israel would be answered without geographic limits.",
-    "pts": [
-     "Iran not known to have missiles beyond 2,000 km",
-     "Range covers the entire Arabian Peninsula",
-     "Tanker hits mine near Hormuz, catches fire"
-    ],
-    "why": "These tensions could affect the safety of Telugu people working in Gulf countries.",
-    "cat": "World · Iran",
-    "statl": "Missile range limit until now"
-   },
-   "hi": {
-    "h": "ईरान ने मिसाइल रेंज पर खुद लगाई 2,000 किमी की सीमा हटाई",
-    "p": "ईरान के रिवोल्यूशनरी गार्ड के प्रवक्ता जनरल हुसैन मोहेब्बी ने तेहरान में घोषणा की कि बैलिस्टिक मिसाइलों की रेंज पर खुद लगाई गई 2,000 किलोमीटर की सीमा हटा दी गई है। उन्होंने यह नहीं बताया कि ईरान के पास इससे लंबी दूरी की मिसाइलें हैं या नहीं; कहा कि क्षमता व्यवहार में दिखाएंगे। यह बयान सुप्रीम लीडर की उस चेतावनी के कुछ दिन बाद आया कि अमेरिका या इज़राइल की धमकियों का जवाब बिना भौगोलिक सीमा के दिया जाएगा।",
-    "pts": [
-     "ईरान के पास 2,000 किमी से आगे की मिसाइलें ज्ञात नहीं",
-     "इस रेंज में पूरा अरब प्रायद्वीप",
-     "होर्मुज़ के पास टैंकर बारूदी सुरंग से टकराकर जला"
-    ],
-    "why": "ये तनाव खाड़ी देशों में काम करने वाले तेलुगु लोगों की सुरक्षा पर असर डाल सकते हैं।",
-    "cat": "विश्व · ईरान",
-    "statl": "अब तक की मिसाइल रेंज सीमा"
-   },
-   "d": "07.11.2026",
-   "t": "17:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఆదిలాబాద్",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "4",
-   "statl": "రిమ్స్ నుంచి చోరీ అయిన వెంటిలేటర్లు",
-   "h": "ఆదిలాబాద్ రిమ్స్ వెంటిలేటర్ల చోరీ కేసు ఛేదన; ఇద్దరి అరెస్టు",
-   "p": "ఆదిలాబాద్ రిమ్స్ ఆసుపత్రి రెండో అంతస్తు వార్డుల నుంచి అక్టోబర్ 30న మెడికల్ టెక్నీషియన్లుగా నటిస్తూ నాలుగు వెంటిలేటర్లు ఎత్తుకెళ్లిన కేసులో ఇద్దరిని పోలీసులు అరెస్టు చేశారు. ఆదిలాబాద్ ఆర్టీవో వద్ద వాహన తనిఖీల్లో వారు పట్టుబడ్డారు. నిజామాబాద్, మహారాష్ట్ర ప్రభుత్వ ఆసుపత్రుల్లోనూ చోరీలు చేసినట్లు అంగీకరించారని, మరొకరు పరారీలో ఉన్నారని ఎస్పీ అఖిల్ మహాజన్ తెలిపారు.",
-   "pts": [
-    "రిమ్స్‌కు చెందిన 4 వెంటిలేటర్లు స్వాధీనం",
-    "నిజామాబాద్, మహారాష్ట్ర ఆసుపత్రుల పరికరాలు కూడా రికవరీ",
-    "₹1 లక్ష నగదు, కారు, బైక్ సీజ్"
-   ],
-   "why": "ప్రభుత్వ ఆసుపత్రుల్లో అత్యవసర చికిత్స పొందే రోగులకు కీలక పరికరాల భద్రత ఎంత ముఖ్యమో ఈ కేసు చూపుతోంది.",
-   "src": "PTI",
-   "url": "https://www.siasat.com/two-held-for-stealing-ventilators-from-adilabad-rims-3571267/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "adilabad",
-   "loc": "ఆదిలాబాద్",
-   "d": "07.11.2026",
-   "t": "17:05",
-   "en": {
-    "h": "Adilabad RIMS ventilator theft cracked; two arrested",
-    "p": "Police have arrested two men who, posing as medical technicians, took four ventilators from second-floor wards of Adilabad RIMS hospital on October 30. They were caught during vehicle checks near the Adilabad RTO. SP Akhil Mahajan said they admitted similar thefts at Nizamabad and Maharashtra government hospitals, and that one more person is absconding.",
-    "pts": [
-     "4 ventilators belonging to RIMS recovered",
-     "Equipment from Nizamabad and Maharashtra hospitals also recovered",
-     "₹1 lakh cash, a car and a bike seized"
-    ],
-    "why": "The case shows how important it is to protect vital equipment used by emergency patients in government hospitals.",
-    "cat": "Telangana · Adilabad",
-    "statl": "Ventilators stolen from RIMS"
-   },
-   "hi": {
-    "h": "आदिलाबाद रिम्स वेंटिलेटर चोरी का खुलासा; दो गिरफ्तार",
-    "p": "आदिलाबाद रिम्स अस्पताल की दूसरी मंजिल के वार्डों से 30 अक्टूबर को मेडिकल टेक्नीशियन बनकर चार वेंटिलेटर ले जाने वाले दो लोगों को पुलिस ने गिरफ्तार किया है। वे आदिलाबाद आरटीओ के पास वाहन जांच में पकड़े गए। एसपी अखिल महाजन ने बताया कि उन्होंने निजामाबाद और महाराष्ट्र के सरकारी अस्पतालों में भी चोरी कबूल की है और एक अन्य व्यक्ति फरार है।",
-    "pts": [
-     "रिम्स के 4 वेंटिलेटर बरामद",
-     "निजामाबाद और महाराष्ट्र के अस्पतालों के उपकरण भी बरामद",
-     "₹1 लाख नकद, कार और बाइक जब्त"
-    ],
-    "why": "यह मामला दिखाता है कि सरकारी अस्पतालों में आपात मरीजों के जरूरी उपकरणों की सुरक्षा कितनी अहम है।",
-    "cat": "तेलंगाना · आदिलाबाद",
-    "statl": "रिम्स से चोरी हुए वेंटिलेटर"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ఉద్యోగ శిక్షణ",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "1,200",
-   "statl": "శిక్షణ పొందనున్న నిరుద్యోగ యువత",
-   "h": "ఎన్ఐటీ వరంగల్‌కు ₹4 కోట్ల పీఎంకేవీవై ప్రాజెక్టు; 1,200 మందికి ఏఐ శిక్షణ",
-   "p": "ప్రధానమంత్రి కౌశల్ వికాస్ యోజన కింద ఎన్ఐటీ వరంగల్‌కు కేంద్ర నైపుణ్యాభివృద్ధి శాఖ ₹4 కోట్ల ప్రాజెక్టు మంజూరు చేసింది. దీని ద్వారా సుమారు 1,200 మంది నిరుద్యోగ యువతకు ఆర్టిఫిషియల్ ఇంటెలిజెన్స్, మెషిన్ లెర్నింగ్, వెబ్ డిజైనింగ్, ఫుల్‌స్టాక్ డెవలప్‌మెంట్‌లో శిక్షణ ఇస్తారు. 2027 మార్చి నాటికి లబ్ధి చేకూరుతుందని, ప్రొఫెసర్ ఎస్. శంకర్ సమన్వయం చేస్తారని అధికారిక ప్రకటన తెలిపింది.",
-   "pts": [
-    "కేంద్ర నైపుణ్యాభివృద్ధి శాఖ ₹4 కోట్లు మంజూరు",
-    "ఏఐ, ఎంఎల్, వెబ్ డిజైనింగ్, ఫుల్‌స్టాక్ కోర్సులు",
-    "2027 మార్చి నాటికి 1,200 మందికి లబ్ధి"
-   ],
-   "why": "కొత్త టెక్నాలజీ రంగాల్లో ఉద్యోగాలు కోరుకునే తెలంగాణ నిరుద్యోగ యువతకు ఇది అవకాశం.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/nit-warangal-rs-4-crore-pmkvy-project-train-1200-youth/",
-   "sec": [
-    "telangana",
-    "jobs",
-    "ai"
-   ],
-   "st": "TG",
-   "place": "warangal",
-   "d": "07.11.2026",
-   "t": "17:05",
-   "en": {
-    "h": "NIT Warangal gets ₹4 crore PMKVY project to train 1,200 youth in AI",
-    "p": "The Union Ministry of Skill Development has sanctioned a ₹4 crore project to NIT Warangal under the Pradhan Mantri Kaushal Vikas Yojana. Around 1,200 unemployed youth will be trained in Artificial Intelligence, Machine Learning, Web Designing and Full-Stack Development. An official release said they will benefit by March 2027 and Professor S. Shankar will coordinate.",
-    "pts": [
-     "Union Skill Development Ministry sanctions ₹4 crore",
-     "AI, ML, web designing and full-stack courses",
-     "1,200 youth to benefit by March 2027"
-    ],
-    "why": "It is an opportunity for unemployed youth in Telangana seeking jobs in new technology fields.",
-    "cat": "Telangana · Skill Training",
-    "statl": "Unemployed youth to be trained"
-   },
-   "hi": {
-    "h": "एनआईटी वरंगल को ₹4 करोड़ की पीएमकेवीवाई परियोजना; 1,200 युवाओं को एआई प्रशिक्षण",
-    "p": "प्रधानमंत्री कौशल विकास योजना के तहत केंद्रीय कौशल विकास मंत्रालय ने एनआईटी वरंगल को ₹4 करोड़ की परियोजना मंजूर की है। इसके जरिए करीब 1,200 बेरोजगार युवाओं को आर्टिफिशियल इंटेलिजेंस, मशीन लर्निंग, वेब डिजाइनिंग और फुल-स्टैक डेवलपमेंट का प्रशिक्षण मिलेगा। आधिकारिक विज्ञप्ति के अनुसार मार्च 2027 तक लाभ मिलेगा और प्रोफेसर एस. शंकर समन्वय करेंगे।",
-    "pts": [
-     "केंद्रीय कौशल विकास मंत्रालय ने ₹4 करोड़ मंजूर किए",
-     "एआई, एमएल, वेब डिजाइनिंग और फुल-स्टैक कोर्स",
-     "मार्च 2027 तक 1,200 युवाओं को लाभ"
-    ],
-    "why": "नई तकनीक के क्षेत्रों में नौकरी चाहने वाले तेलंगाना के बेरोजगार युवाओं के लिए यह अवसर है।",
-    "cat": "तेलंगाना · कौशल प्रशिक्षण",
-    "statl": "प्रशिक्षण पाने वाले बेरोजगार युवा"
-   }
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్యే పర్యటన",
