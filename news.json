@@ -1,8 +1,202 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T07:07:33+05:30",
+ "updated": "2026-11-08T07:40:23+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · జిల్లా పరిషత్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "27/28",
+   "statl": "కూటమి గెలిచిన జడ్పీ పీఠాలు",
+   "h": "ఏపీలో 28 జిల్లా పరిషత్‌లలో 27 కూటమి కైవసం",
+   "p": "ఆంధ్రప్రదేశ్ స్థానిక సంస్థల ఎన్నికల్లో ఎన్డీఏ కూటమి 28 జిల్లా పరిషత్‌లలో 27 పీఠాలు గెలుచుకుంది. అల్లూరి సీతారామరాజు జిల్లాలో మాత్రం వైఎస్ఆర్‌సీపీకి జడ్పీ పీఠం దక్కింది. ఉమ్మడి కడప జిల్లాలో కూటమి 36 జడ్పీటీసీలు గెలవగా, వైఎస్ఆర్‌సీపీ రెండుకే పరిమితమైంది. పల్నాడులో మొత్తం 28 జడ్పీటీసీలు, అనకాపల్లిలో మొత్తం 24 కూటమికే వచ్చాయి.",
+   "src": "10TV",
+   "url": "https://10tv.in/telugu-news/andhra-pradesh/nda-alliance-sweeps-27-districts-in-ap-zptc-mptc-local-body-election-results-sn-1155139.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఉమ్మడి కడపలో కూటమికి 36, వైఎస్ఆర్‌సీపీకి 2 జడ్పీటీసీలు",
+    "అల్లూరిలో 11 జడ్పీటీసీల్లో 7 వైఎస్ఆర్‌సీపీకి",
+    "కాకినాడ, పశ్చిమ గోదావరిలో 20కి 20 కూటమికి"
+   ],
+   "why": "జిల్లాల్లో గ్రామీణ అభివృద్ధి పనులు, నిధుల నిర్ణయాలు ఈ జిల్లా పరిషత్‌ల ద్వారానే జరుగుతాయి.",
+   "d": "08.11.2026",
+   "t": "07:35",
+   "en": {
+    "h": "Alliance wins 27 of 28 zilla parishads in Andhra Pradesh",
+    "p": "In Andhra Pradesh's local body elections, the NDA alliance won 27 of the 28 zilla parishad chair posts. Only in Alluri Sitarama Raju district did the YSRCP get the ZP chair. In undivided Kadapa district the alliance won 36 ZPTC seats, while YSRCP was limited to two. In Palnadu all 28 ZPTC seats and in Anakapalli all 24 went to the alliance.",
+    "pts": [
+     "Undivided Kadapa: alliance 36, YSRCP 2 ZPTC seats",
+     "YSRCP wins 7 of 11 ZPTC seats in Alluri",
+     "Alliance wins all 20 in Kakinada and West Godavari"
+    ],
+    "why": "Rural development works and fund decisions in the districts are made through these zilla parishads.",
+    "cat": "Andhra Pradesh · Zilla Parishad",
+    "statl": "ZP chairs won by the alliance"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 28 में से 27 जिला परिषदें गठबंधन के नाम",
+    "p": "आंध्र प्रदेश के स्थानीय निकाय चुनावों में एनडीए गठबंधन ने 28 में से 27 जिला परिषद अध्यक्ष पद जीत लिए। केवल अल्लूरी सीतारामा राजू जिले में वाईएसआरसीपी को जेडपी अध्यक्ष पद मिला। अविभाजित कडपा जिले में गठबंधन ने 36 जेडपीटीसी सीटें जीतीं, जबकि वाईएसआरसीपी दो पर सिमट गई। पलनाडु की सभी 28 और अनकापल्ली की सभी 24 जेडपीटीसी सीटें गठबंधन को मिलीं।",
+    "pts": [
+     "अविभाजित कडपा: गठबंधन 36, वाईएसआरसीपी 2 जेडपीटीसी",
+     "अल्लूरी में 11 में से 7 जेडपीटीसी वाईएसआरसीपी को",
+     "काकीनाडा, पश्चिम गोदावरी में 20 में से 20 गठबंधन को"
+    ],
+    "why": "जिलों में ग्रामीण विकास कार्य और फंड के फैसले इन्हीं जिला परिषदों के जरिए होते हैं।",
+    "cat": "आंध्र प्रदेश · जिला परिषद",
+    "statl": "गठबंधन द्वारा जीते जेडपी अध्यक्ष पद"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · కొడంగల్",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "పామాయిల్",
+   "statl": "లగచర్లలో ఎకోపామ్ ప్లాంట్‌కు శంకుస్థాపన",
+   "h": "లగచర్లలో పామాయిల్ ప్లాంట్‌కు నేడు సీఎం శంకుస్థాపన",
+   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి ఆదివారం కొడంగల్ పర్యటనలో హకీంపేటలో స్వయం సహాయక సంఘాల మహిళలతో సమావేశం కానున్నారు. తర్వాత లగచర్లలో ఎకోపామ్ పామాయిల్ ప్లాంట్‌కు శంకుస్థాపన చేస్తారు. హకీంపేటలో జడ్పీ పాఠశాల భవనం, కళాశాల భవనాలు, ప్రాథమిక ఆరోగ్య కేంద్రాన్ని ప్రారంభిస్తారు. రాష్ట్రవ్యాప్తంగా ‘మా ఇందిరమ్మ ఇంట్లో దీపావళి’ వేడుకల్లోనూ పాల్గొంటారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-latest-top-news-information-across-telangana-tgs26110800358",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "లగచర్ల",
+   "pts": [
+    "హకీంపేటలో స్వయం సహాయక సంఘాల మహిళలతో సీఎం భేటీ",
+    "జడ్పీ పాఠశాల, కళాశాల భవనాలు, పీహెచ్‌సీ ప్రారంభం",
+    "ఇందిరమ్మ ఇళ్లలో లబ్ధిదారులతో దీపావళి వేడుకలు"
+   ],
+   "why": "కొడంగల్ ప్రాంత రైతులు, మహిళలు, విద్యార్థులకు కొత్త సౌకర్యాలు అందుబాటులోకి రానున్నాయి.",
+   "d": "08.11.2026",
+   "t": "07:35",
+   "en": {
+    "h": "CM to lay foundation for palm oil plant at Lagacherla today",
+    "p": "During his Kodangal tour on Sunday, Chief Minister Revanth Reddy will meet women of self-help groups at Hakimpet. He will then lay the foundation stone for an Ecopalm palm oil plant at Lagacherla. At Hakimpet he will inaugurate a ZP school building, college buildings and a primary health centre. He will also take part in the statewide 'Maa Indiramma Intlo Deepavali' celebrations.",
+    "pts": [
+     "CM meets self-help group women at Hakimpet",
+     "ZP school, college buildings and PHC to be inaugurated",
+     "Diwali celebrations with beneficiaries in Indiramma houses"
+    ],
+    "why": "New facilities will become available to farmers, women and students in the Kodangal area.",
+    "cat": "Telangana · Kodangal",
+    "statl": "Foundation for Ecopalm plant at Lagacherla"
+   },
+   "hi": {
+    "h": "लगचर्ला में पाम ऑयल प्लांट की आज सीएम रखेंगे नींव",
+    "p": "मुख्यमंत्री रेवंत रेड्डी रविवार को कोडंगल दौरे में हकीमपेट में स्वयं सहायता समूहों की महिलाओं से मिलेंगे। इसके बाद वे लगचर्ला में इकोपाम पाम ऑयल प्लांट की आधारशिला रखेंगे। हकीमपेट में वे जेडपी स्कूल भवन, कॉलेज भवनों और प्राथमिक स्वास्थ्य केंद्र का उद्घाटन करेंगे। वे राज्यव्यापी 'मा इंदिरम्मा इंट्लो दीपावली' समारोह में भी शामिल होंगे।",
+    "pts": [
+     "हकीमपेट में स्वयं सहायता समूह की महिलाओं से सीएम की मुलाकात",
+     "जेडपी स्कूल, कॉलेज भवन और पीएचसी का उद्घाटन",
+     "इंदिरम्मा घरों में लाभार्थियों के साथ दीपावली"
+    ],
+    "why": "कोडंगल क्षेत्र के किसानों, महिलाओं और छात्रों को नई सुविधाएं मिलेंगी।",
+    "cat": "तेलंगाना · कोडंगल",
+    "statl": "लगचर्ला में इकोपाम प्लांट की आधारशिला"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "4 చోట్ల",
+   "statl": "ఇరాన్‌లో పేలుళ్లు నమోదైన ప్రాంతాలు",
+   "h": "ఇరాన్ ఖెష్మ్ దీవిలో పేలుళ్లు; భూమార్గ సరఫరా అడ్డుకుంటామన్న అమెరికా",
+   "p": "హార్ముజ్ జలసంధిలోని ఖెష్మ్ దీవితో పాటు జాస్క్, సిరిక్, బందర్ అబ్బాస్ నగరాల్లో పేలుళ్లు సంభవించినట్లు ఇరాన్ ప్రభుత్వ మీడియా తెలిపింది. ఇరాన్‌కు భూమార్గంలో వచ్చే సరఫరాలను అడ్డుకునే ప్రణాళికను అమెరికా ప్రకటించింది. ఇది హార్ముజ్ వద్ద ఇరాన్ ఓడరేవులపై నెలలుగా కొనసాగుతున్న నౌకా దిగ్బంధానికి విస్తరణ అని అల్ జజీరా పేర్కొంది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఖెష్మ్, జాస్క్, సిరిక్, బందర్ అబ్బాస్‌లో పేలుళ్లు",
+    "ఇరాన్ భూమార్గ సరఫరాలు అడ్డుకునే అమెరికా ప్రణాళిక",
+    "హార్ముజ్ వద్ద నౌకా దిగ్బంధం విస్తరణ"
+   ],
+   "why": "హార్ముజ్ ఉద్రిక్తతలు చమురు ధరలు, గల్ఫ్‌లో పనిచేసే తెలుగువారిపై ప్రభావం చూపవచ్చు.",
+   "d": "08.11.2026",
+   "t": "07:35",
+   "en": {
+    "h": "Explosions hit Iran's Qeshm Island; US moves to block land supply routes",
+    "p": "Iranian state media said explosions occurred on Qeshm Island in the Strait of Hormuz and in the cities of Jask, Sirik and Bandar Abbas. The US announced a plan to block supplies reaching Iran by land. Al Jazeera said this expands the months-long naval blockade of Iranian ports at Hormuz.",
+    "pts": [
+     "Explosions in Qeshm, Jask, Sirik and Bandar Abbas",
+     "US plan to block Iran's land supply routes",
+     "Expansion of the naval blockade at Hormuz"
+    ],
+    "why": "Tensions at Hormuz could affect oil prices and Telugu people working in the Gulf.",
+    "cat": "World · Iran",
+    "statl": "Places in Iran where explosions were reported"
+   },
+   "hi": {
+    "h": "ईरान के केश्म द्वीप पर धमाके; अमेरिका ज़मीनी आपूर्ति रोकेगा",
+    "p": "ईरान के सरकारी मीडिया ने बताया कि होर्मुज़ जलडमरूमध्य के केश्म द्वीप और जास्क, सिरिक व बंदर अब्बास शहरों में धमाके हुए। अमेरिका ने ईरान तक ज़मीनी रास्ते से पहुंचने वाली आपूर्ति रोकने की योजना की घोषणा की। अल जज़ीरा के अनुसार यह होर्मुज़ पर ईरानी बंदरगाहों की महीनों से जारी नौसैनिक नाकेबंदी का विस्तार है।",
+    "pts": [
+     "केश्म, जास्क, सिरिक और बंदर अब्बास में धमाके",
+     "ईरान की ज़मीनी आपूर्ति रोकने की अमेरिकी योजना",
+     "होर्मुज़ पर नौसैनिक नाकेबंदी का विस्तार"
+    ],
+    "why": "होर्मुज़ का तनाव तेल कीमतों और खाड़ी में काम करने वाले तेलुगु लोगों पर असर डाल सकता है।",
+    "cat": "दुनिया · ईरान",
+    "statl": "ईरान में जहां धमाके हुए"
+   }
+  },
+  {
+   "cat": "హరియాణా · ఫరీదాబాద్",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "9 బుల్లెట్లు",
+   "statl": "బాధితుడికి తగిలినట్లు సమాచారం",
+   "h": "ఫరీదాబాద్‌లో పార్కింగ్ గొడవ: టెక్ మహీంద్రా మాజీ అధికారి కాల్చివేత",
+   "p": "హరియాణాలోని ఫరీదాబాద్ సెక్టార్ 21సీలో పార్కింగ్ విషయంలో గొడవతో టెక్ మహీంద్రా మాజీ ఆసియా విభాగాధిపతిని శుక్రవారం రాత్రి కాల్చి చంపారు. ఆయన కుటుంబ వివాహం కోసం సింగపూర్ నుంచి వచ్చారు. పొరుగున ఉండే వ్యక్తిని క్రైమ్ బ్రాంచ్ పోలీసులు శనివారం అరెస్టు చేశారు. ఎఫ్ఐఆర్‌లో ఐదుగురి పేర్లు ఉన్నాయి.",
+   "src": "ThePrint",
+   "url": "https://theprint.in/india/tech-mahindras-ex-asia-head-shot-dead-over-parking-row-in-faridabad-neighbour-arrested/3093260/",
+   "sec": [
+    "india"
+   ],
+   "st": "HR",
+   "place": "IN",
+   "pts": [
+    "లైసెన్సు ఉన్న పిస్టల్‌తో కాల్పులు జరిపినట్లు పోలీసులు",
+    "సూరజ్‌కుండ్ పోలీస్ స్టేషన్‌లో కేసు నమోదు",
+    "పార్కింగ్, పెంపుడు కుక్కపై కుటుంబాల మధ్య పాత గొడవ"
+   ],
+   "why": "అపార్ట్‌మెంట్లలో చిన్న గొడవలు ప్రాణాంతకంగా మారకుండా జాగ్రత్త అవసరమని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "08.11.2026",
+   "t": "07:35",
+   "en": {
+    "h": "Faridabad parking row: former Tech Mahindra executive shot dead",
+    "p": "In Sector 21C of Faridabad, Haryana, a former Asia head of Tech Mahindra was shot dead on Friday night after a quarrel over parking. He had come from Singapore for a family wedding. Crime Branch police arrested a neighbour on Saturday. The FIR names five people.",
+    "pts": [
+     "Police say a licensed pistol was used",
+     "Case registered at Surajkund police station",
+     "Old dispute between families over parking and a pet dog"
+    ],
+    "why": "The incident is a reminder to stop small disputes in apartment complexes from turning deadly.",
+    "cat": "Haryana · Faridabad",
+    "statl": "Reportedly hit the victim"
+   },
+   "hi": {
+    "h": "फरीदाबाद पार्किंग विवाद: टेक महिंद्रा के पूर्व अधिकारी की गोली मारकर हत्या",
+    "p": "हरियाणा के फरीदाबाद के सेक्टर 21सी में पार्किंग को लेकर झगड़े के बाद शुक्रवार रात टेक महिंद्रा के पूर्व एशिया प्रमुख की गोली मारकर हत्या कर दी गई। वे परिवार की शादी के लिए सिंगापुर से आए थे। क्राइम ब्रांच पुलिस ने शनिवार को एक पड़ोसी को गिरफ्तार किया। एफआईआर में पांच लोगों के नाम हैं।",
+    "pts": [
+     "पुलिस के अनुसार लाइसेंसी पिस्तौल से गोली चलाई गई",
+     "सूरजकुंड थाने में मामला दर्ज",
+     "पार्किंग और पालतू कुत्ते को लेकर परिवारों में पुराना विवाद"
+    ],
+    "why": "यह घटना याद दिलाती है कि अपार्टमेंट में छोटे झगड़े जानलेवा न बनें।",
+    "cat": "हरियाणा · फरीदाबाद",
+    "statl": "पीड़ित को लगने की जानकारी"
+   }
+  },
   {
    "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
    "col": "--c-election",
@@ -1642,201 +1836,6 @@
      "3:06 – पाचिल्ला (गुंडाला) · 4:05 – पल्लेर्ला (आत्मकूर) · 5:04 – यादगिरिगुट्टा वार्ड 8"
     ],
     "why": "विधायक आपके गाँव कब पहुँचेंगे, यह पहले से जानकर समारोह में शामिल हों।"
-   }
-  },
-  {
-   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "75/75",
-   "statl": "గిద్దలూరు ఎంపీటీసీలన్నీ కూటమికే",
-   "h": "పరిషత్ ఫలితాలు: గిద్దలూరులో 75 ఎంపీటీసీలూ కూటమి కైవసం",
-   "p": "ఏపీలో ఎంపీటీసీ, జడ్పీటీసీ ఓట్ల లెక్కింపు శనివారం 365 కేంద్రాల్లో కొనసాగుతోంది. మార్కాపురం జిల్లా గిద్దలూరులో 75 ఎంపీటీసీ స్థానాలన్నీ టీడీపీ నేతృత్వంలోని కూటమి గెలుచుకుంది. వీటిలో టీడీపీ 69, జనసేన 3, బీజేపీ 2, సీపీఎం 1 గెలిచాయి. కడప జిల్లా వేంపల్లి జడ్పీటీసీని వైఎస్సార్‌సీపీ 19,192 ఓట్ల మెజారిటీతో దక్కించుకుంది. 577 జడ్పీటీసీ, 7,707 ఎంపీటీసీ స్థానాలకు నవంబర్ 5న పోలింగ్ జరిగింది.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-zptc-mptc-election-results-2026-live-updates-counting-begins-tdp-leads-in-several-seats-2002446",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "loc": "గిద్దలూరు",
-   "pts": [
-    "గిద్దలూరులో 75కి 75 ఎంపీటీసీలు కూటమికే",
-    "వేంపల్లి జడ్పీటీసీ వైఎస్సార్‌సీపీకి, 19,192 ఓట్ల మెజారిటీ",
-    "77 జడ్పీటీసీలు, 2,051 ఎంపీటీసీలు ఏకగ్రీవం"
-   ],
-   "why": "గ్రామ, మండల స్థాయి పాలనలో ప్రజల ప్రతినిధులు ఎవరో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
-   "d": "07.11.2026",
-   "t": "16:35",
-   "en": {
-    "h": "Parishad results: Alliance wins all 75 MPTC seats in Giddalur",
-    "p": "Counting of MPTC and ZPTC votes in Andhra Pradesh continued on Saturday at 365 centres. In Giddalur, Markapuram district, the TDP-led alliance won all 75 MPTC seats: TDP 69, Jana Sena 3, BJP 2 and CPM 1. The YSRCP won the Vempalle ZPTC in Kadapa district with a majority of 19,192 votes. Polling for 577 ZPTC and 7,707 MPTC seats was held on November 5.",
-    "pts": [
-     "Alliance wins 75 of 75 MPTC seats in Giddalur",
-     "YSRCP wins Vempalle ZPTC by 19,192 votes",
-     "77 ZPTCs and 2,051 MPTCs elected unopposed"
-    ],
-    "why": "These results decide who represents people in village and mandal-level governance.",
-    "cat": "Andhra Pradesh · Parishad Polls",
-    "statl": "All Giddalur MPTC seats to alliance"
-   },
-   "hi": {
-    "h": "परिषद नतीजे: गिद्दलूर में सभी 75 एमपीटीसी सीटें गठबंधन के नाम",
-    "p": "आंध्र प्रदेश में एमपीटीसी और जेडपीटीसी वोटों की गिनती शनिवार को 365 केंद्रों पर जारी रही। मार्कापुरम जिले के गिद्दलूर में टीडीपी के नेतृत्व वाले गठबंधन ने सभी 75 एमपीटीसी सीटें जीतीं: टीडीपी 69, जनसेना 3, भाजपा 2 और सीपीएम 1। कडपा जिले की वेंपल्ली जेडपीटीसी सीट वाईएसआरसीपी ने 19,192 वोटों के अंतर से जीती। 577 जेडपीटीसी और 7,707 एमपीटीसी सीटों के लिए 5 नवंबर को मतदान हुआ था।",
-    "pts": [
-     "गिद्दलूर में 75 में से 75 एमपीटीसी सीटें गठबंधन को",
-     "वेंपल्ली जेडपीटीसी वाईएसआरसीपी को, 19,192 वोटों से जीत",
-     "77 जेडपीटीसी और 2,051 एमपीटीसी निर्विरोध चुने गए"
-    ],
-    "why": "ये नतीजे तय करते हैं कि गांव और मंडल स्तर के शासन में लोगों के प्रतिनिधि कौन होंगे।",
-    "cat": "आंध्र प्रदेश · परिषद चुनाव",
-    "statl": "गिद्दलूर की सभी एमपीटीसी सीटें गठबंधन को"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · క్రికెట్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "2-0",
-   "statl": "ఐదు వన్డేల సిరీస్‌లో భారత్ ఆధిక్యం",
-   "h": "రెండో వన్డేలో కివీస్‌పై భారత్ విజయం; డీఎల్‌ఎస్‌తో 4 పరుగుల తేడా",
-   "p": "వర్షం అంతరాయం కలిగించిన రెండో వన్డేలో న్యూజిలాండ్‌పై భారత్ డక్‌వర్త్-లూయిస్-స్టెర్న్ (డీఎల్‌ఎస్) పద్ధతిలో 4 పరుగుల తేడాతో గెలిచింది. ముందుగా బ్యాటింగ్ చేసిన కివీస్ 41 ఓవర్లలో 134 పరుగులకే ఆలౌటైంది. 135 పరుగుల లక్ష్య ఛేదనలో భారత్ 26 ఓవర్లలో 113/7 వద్ద ఉండగా వర్షం వల్ల ఆట ఆగిపోయింది. అప్పటి డీఎల్‌ఎస్ పార్ స్కోరు 109.",
-   "src": "Daily Jagran",
-   "url": "https://www.thedailyjagran.com/cricket/news/gurnoor-brars-four-wicket-haul-helps-indian-cricket-team-beat-new-zealand-cricket-team-by-4-runs-in-rain-hit-2nd-odi-by-dls-take-2-0-lead-10335512",
-   "sec": [
-    "sports",
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "గుర్నూర్ బ్రార్ 10 ఓవర్లలో 30 పరుగులకు 4 వికెట్లు",
-    "కివీస్ తరఫున డేరిల్ మిచెల్ 55 పరుగులు",
-    "భారత్‌లో శ్రేయస్ అయ్యర్ 30, కేఎల్ రాహుల్ 26 నాటౌట్"
-   ],
-   "why": "ఈ విజయంతో ఐదు మ్యాచ్‌ల సిరీస్‌లో భారత్ 2-0 ఆధిక్యంలోకి వెళ్లింది; మూడో వన్డే నవంబర్ 10న.",
-   "d": "07.11.2026",
-   "t": "16:05",
-   "en": {
-    "h": "India beat New Zealand by 4 runs on DLS in rain-hit 2nd ODI",
-    "p": "India beat New Zealand by 4 runs under the Duckworth-Lewis-Stern (DLS) method in the rain-hit second ODI. Batting first, New Zealand were bowled out for 134 in 41 overs. Chasing 135, India were 113/7 in 26 overs when rain stopped play. The DLS par score at that point was 109.",
-    "pts": [
-     "Gurnoor Brar took 4 wickets for 30 in 10 overs",
-     "Daryl Mitchell scored 55 for New Zealand",
-     "Shreyas Iyer made 30, KL Rahul 26 not out for India"
-    ],
-    "why": "The win gives India a 2-0 lead in the five-match series; the third ODI is on November 10.",
-    "cat": "World · Cricket",
-    "statl": "India's lead in the five-match ODI series"
-   },
-   "hi": {
-    "h": "बारिश से प्रभावित दूसरे वनडे में भारत ने न्यूज़ीलैंड को डीएलएस से 4 रन से हराया",
-    "p": "बारिश से प्रभावित दूसरे वनडे में भारत ने न्यूज़ीलैंड को डकवर्थ-लुईस-स्टर्न (डीएलएस) पद्धति से 4 रन से हराया। पहले बल्लेबाज़ी करते हुए न्यूज़ीलैंड 41 ओवर में 134 रन पर ऑलआउट हो गया। 135 रन का पीछा करते हुए भारत 26 ओवर में 113/7 पर था, तभी बारिश ने खेल रोक दिया। उस समय डीएलएस पार स्कोर 109 था।",
-    "pts": [
-     "गुरनूर बराड़ ने 10 ओवर में 30 रन देकर 4 विकेट लिए",
-     "न्यूज़ीलैंड के लिए डेरिल मिचेल ने 55 रन बनाए",
-     "भारत के लिए श्रेयस अय्यर 30, केएल राहुल 26 नाबाद"
-    ],
-    "why": "इस जीत से भारत ने पांच मैचों की सीरीज़ में 2-0 की बढ़त ले ली है; तीसरा वनडे 10 नवंबर को है।",
-    "cat": "दुनिया · क्रिकेट",
-    "statl": "पांच वनडे की सीरीज़ में भारत की बढ़त"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · న్యూజిలాండ్",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "66",
-   "statl": "మెజారిటీకి కావాల్సిన సీట్లు (130లో)",
-   "h": "న్యూజిలాండ్ ఎన్నికల లెక్కింపు: నేషనల్, లేబర్ మధ్య హోరాహోరీ",
-   "p": "న్యూజిలాండ్ సాధారణ ఎన్నికల ఓట్ల లెక్కింపులో దాదాపు మూడో వంతు ఓట్లు లెక్కించేసరికి నేషనల్, లేబర్ పార్టీలు చెరో 30 శాతానికి కాస్త తక్కువ ఓట్లతో సమానంగా ఉన్నాయని ఏపీ తెలిపింది. తొలి ఫలితాల ప్రకారం 130 సీట్ల పార్లమెంటులో నేషనల్, ఏసీటీ, ఎన్‌జెడ్ ఫస్ట్ కూటమికి 65, లేబర్, గ్రీన్స్, తె పాతి మావోరీ కూటమికి 58 సీట్లు వస్తున్నాయి.",
-   "src": "AP",
-   "url": "https://www.click2houston.com/news/2026/11/06/early-count-in-new-zealands-election-suggests-result-too-close-to-call/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఈ సీట్ల లెక్కలు మారే అవకాశం ఉంది",
-    "5% పరిమితి దాటిన ఆపర్చునిటీ పార్టీకి తొలిసారి 6 సీట్లు",
-    "తుది ధృవీకృత ఫలితాలు నవంబర్ 27న"
-   ],
-   "why": "ఫలితం తేలేవరకు అక్కడ నివసించే భారతీయులు, తెలుగువారు కొత్త ప్రభుత్వం ఎవరిదో తెలుసుకోవడానికి వేచి చూడాలి.",
-   "d": "07.11.2026",
-   "t": "16:05",
-   "en": {
-    "h": "New Zealand election count: National and Labour neck and neck",
-    "p": "With about a third of votes counted in New Zealand's general election, the National and Labour parties were level at just under 30% of the vote each, AP reported. Early results in a 130-seat Parliament gave the National, ACT and NZ First bloc 65 seats and the Labour, Greens and Te Pāti Māori bloc 58 seats.",
-    "pts": [
-     "These seat figures are likely to change",
-     "Opportunity crossed 5% threshold, set for 6 seats first time",
-     "Final verified results due on November 27"
-    ],
-    "why": "Indians and Telugu people living there must wait to know who will form the new government.",
-    "cat": "World · New Zealand",
-    "statl": "Seats needed for a majority (of 130)"
-   },
-   "hi": {
-    "h": "न्यूज़ीलैंड चुनाव गिनती: नेशनल और लेबर में कांटे की टक्कर",
-    "p": "एपी के अनुसार, न्यूज़ीलैंड के आम चुनाव में लगभग एक-तिहाई वोटों की गिनती तक नेशनल और लेबर पार्टियां लगभग 30 प्रतिशत से थोड़ा कम वोटों के साथ बराबरी पर थीं। शुरुआती नतीजों में 130 सीटों की संसद में नेशनल, एसीटी और एनज़ेड फर्स्ट गठबंधन को 65 और लेबर, ग्रीन्स और ते पाती माओरी गठबंधन को 58 सीटें मिल रही हैं।",
-    "pts": [
-     "सीटों के ये आंकड़े बदल सकते हैं",
-     "5% सीमा पार कर ऑपर्च्युनिटी पार्टी को पहली बार 6 सीटें",
-     "अंतिम सत्यापित नतीजे 27 नवंबर को"
-    ],
-    "why": "वहां रहने वाले भारतीयों और तेलुगु लोगों को नई सरकार किसकी बनेगी, यह जानने के लिए इंतज़ार करना होगा।",
-    "cat": "दुनिया · न्यूज़ीलैंड",
-    "statl": "बहुमत के लिए ज़रूरी सीटें (130 में)"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · సైబర్ భద్రత",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "6",
-   "statl": "అరెస్టయినట్లు ఎమ్మెల్సీ చెప్పిన వ్యక్తులు",
-   "h": "ఏఐ నకిలీ వీడియోలతో బెదిరింపు: ఆరుగురు అరెస్టయ్యారన్న ఎమ్మెల్సీ రహమత్ బేగ్",
-   "p": "తనపై ఏఐతో రూపొందించిన నకిలీ వీడియోలు తయారు చేసి బ్లాక్‌మెయిల్ చేయడానికి ప్రయత్నించిన ఆరుగురిని పోలీసులు అరెస్టు చేసి జ్యుడీషియల్ కస్టడీకి పంపారని ఎమ్మెల్సీ మిర్జా రహమత్ బేగ్ శనివారం హైదరాబాద్‌లో మీడియాకు తెలిపారు. వివాదం తర్వాత ఆయన మీడియా ముందుకు రావడం ఇదే తొలిసారి. ఈ కుట్రలో ఇంకెవరున్నారో గుర్తించేందుకు దర్యాప్తు కొనసాగుతోందని ఆయన చెప్పారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/six-arrested-for-creating-fake-ai-videos-to-blackmail-mlc-mirza-rahmath-baig",
-   "sec": [
-    "telangana",
-    "ai"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "అరెస్టుల విషయం ఎమ్మెల్సీ చెప్పినది; పోలీసు ప్రకటన లేదు",
-    "మరికొందరిపై కూడా ఫిర్యాదులు చేశామన్నారు",
-    "ఇలాంటి వీడియోలు నమ్మవద్దు, షేర్ చేయవద్దని విజ్ఞప్తి"
-   ],
-   "why": "ఏఐతో తయారైన నకిలీ వీడియోలను గుడ్డిగా నమ్మి ఫార్వర్డ్ చేయకూడదని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "d": "07.11.2026",
-   "t": "16:05",
-   "en": {
-    "h": "Six arrested over fake AI videos, says MLC Mirza Rahmath Baig",
-    "p": "MLC Mirza Rahmath Baig told media in Hyderabad on Saturday that police had arrested six persons who made fake AI-generated videos of him and tried to blackmail him, and sent them to judicial custody. This was his first media appearance since the controversy. He said investigation is continuing to identify others in the conspiracy.",
-    "pts": [
-     "Arrests are the MLC's statement; no police statement",
-     "He said complaints were filed against others too",
-     "Urged people not to believe or share such videos"
-    ],
-    "why": "The case is a reminder not to blindly trust or forward AI-made fake videos.",
-    "cat": "Hyderabad · Cyber safety",
-    "statl": "Persons arrested, according to the MLC"
-   },
-   "hi": {
-    "h": "एआई फर्जी वीडियो से ब्लैकमेल: छह गिरफ्तार, बोले एमएलसी रहमत बेग",
-    "p": "एमएलसी मिर्ज़ा रहमत बेग ने शनिवार को हैदराबाद में मीडिया से कहा कि उनके एआई से बने फर्जी वीडियो बनाकर ब्लैकमेल करने की कोशिश करने वाले छह लोगों को पुलिस ने गिरफ्तार कर न्यायिक हिरासत में भेज दिया है। विवाद के बाद यह उनकी पहली मीडिया उपस्थिति थी। उन्होंने कहा कि साज़िश में शामिल अन्य लोगों की पहचान के लिए जांच जारी है।",
-    "pts": [
-     "गिरफ्तारी की बात एमएलसी ने कही; पुलिस बयान नहीं",
-     "अन्य लोगों के खिलाफ भी शिकायत दर्ज करने की बात कही",
-     "लोगों से ऐसे वीडियो पर भरोसा न करने, शेयर न करने की अपील"
-    ],
-    "why": "यह मामला याद दिलाता है कि एआई से बने फर्जी वीडियो पर आंख मूंदकर भरोसा न करें और उन्हें आगे न भेजें।",
-    "cat": "हैदराबाद · साइबर सुरक्षा",
-    "statl": "एमएलसी के अनुसार गिरफ्तार लोग"
    }
   },
   {
