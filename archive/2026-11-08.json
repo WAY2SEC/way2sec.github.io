@@ -1,8 +1,104 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 64,
+ "count": 66,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "73.39 లక్షలు",
+   "statl": "ఏఎస్‌డీడీ జాబితాలో ఉన్న ఓటర్లు",
+   "h": "ఏఎస్‌డీడీ ఓటర్లకు మరో అవకాశం: తుది జాబితాలో చేరేందుకు కొత్త ప్రచారం",
+   "p": "ఎస్ఐఆర్‌లో గైర్హాజరు, మారిన చిరునామా, మృతి, నకిలీ (ఏఎస్‌డీడీ)గా గుర్తించిన ఓటర్ల కోసం తెలంగాణ ఎన్నికల అధికారులు కొత్త ప్రచారం చేపట్టనున్నారు. బూత్ స్థాయి అధికారులు కొత్త ఎన్యూమరేషన్ ఫారాలు ఇచ్చి అర్హులు తుది జాబితాలో చేరేలా సహాయం చేస్తారు. రాష్ట్రంలో 3.38 కోట్ల ఓటర్లలో 73.39 లక్షల మంది ఈ జాబితాలో ఉన్నారు. తుది జాబితా నవంబర్ 30న విడుదల కానుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/second-chance-for-asdd-voters-to-join-final-voter-list-in-telangana",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "బూత్‌వారీ ఏఎస్‌డీడీ జాబితా పోలింగ్ కేంద్రాలు, సీఈఓ వెబ్‌సైట్‌లో",
+    "ఇప్పటికే సుమారు 6 లక్షల మంది ఫారం-6 దాఖలు",
+    "నోటీసులు, అభ్యంతరాల పరిష్కారానికి గడువు నవంబర్ 26"
+   ],
+   "why": "ఓటర్ల జాబితా నుంచి పేరు తొలగే ప్రమాదం ఉన్నవారు నవంబర్ 26 లోపు తమ పేరు సరిచూసుకోవాలి.",
+   "d": "08.11.2026",
+   "t": "16:35",
+   "en": {
+    "h": "Second chance for ASDD voters: new drive to join Telangana's final list",
+    "p": "Telangana election officials will run a fresh drive for voters marked Absent, Shifted, Dead or Duplicate (ASDD) during the SIR. Booth Level Officers will hand out new enumeration forms and help eligible voters get into the final roll. Of the state's 3.38 crore voters, 73.39 lakh are on this list. The final roll will be published on November 30.",
+    "pts": [
+     "Booth-wise ASDD list at polling stations and on the CEO website",
+     "About 6 lakh voters have already filed Form-6",
+     "Deadline for notices and objections is November 26"
+    ],
+    "why": "Voters at risk of being dropped from the roll should check their names before November 26.",
+    "cat": "Telangana · Voter list",
+    "statl": "Voters on the ASDD list"
+   },
+   "hi": {
+    "h": "एएसडीडी मतदाताओं को दूसरा मौका: अंतिम सूची में जुड़ने के लिए नया अभियान",
+    "p": "एसआईआर के दौरान अनुपस्थित, स्थानांतरित, मृत या डुप्लिकेट (एएसडीडी) चिह्नित मतदाताओं के लिए तेलंगाना के चुनाव अधिकारी नया अभियान चलाएंगे। बूथ स्तरीय अधिकारी नए गणना फॉर्म देकर पात्र मतदाताओं को अंतिम सूची में शामिल होने में मदद करेंगे। राज्य के 3.38 करोड़ मतदाताओं में से 73.39 लाख इस सूची में हैं। अंतिम सूची 30 नवंबर को जारी होगी।",
+    "pts": [
+     "बूथवार एएसडीडी सूची मतदान केंद्रों और सीईओ वेबसाइट पर",
+     "लगभग 6 लाख मतदाता पहले ही फॉर्म-6 भर चुके",
+     "नोटिस और आपत्तियों के निपटारे की समय सीमा 26 नवंबर"
+    ],
+    "why": "जिन मतदाताओं के नाम सूची से हटने का खतरा है, वे 26 नवंबर से पहले अपना नाम जांच लें।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "एएसडीडी सूची में मतदाता"
+   }
+  },
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "177 టీఎంసీ",
+   "statl": "తమిళనాడుకు ఏటా ఇవ్వాల్సిన కావేరి నీరు",
+   "h": "మేకెదాటు జలాశయంపై ఐక్యత కోరిన కర్ణాటక సీఎం శివకుమార్",
+   "p": "మేకెదాటు బ్యాలెన్సింగ్ జలాశయం విషయంలో సహకరించాలని కర్ణాటక ముఖ్యమంత్రి డీకే శివకుమార్ ఆదివారం తమిళనాడు సీఎం విజయ్‌ను కోరారు. సుప్రీంకోర్టు నిర్దేశం ప్రకారం తమిళనాడుకు ఏటా 177 టీఎంసీ కావేరి నీరు విడుదల చేస్తామని, ఈ జలాశయంతో తమిళనాడుకూ లాభమేనని చెప్పారు. పరిశీలనకు ఒక బృందాన్ని పంపాలని విజయ్‌ను కోరారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/fighting-days-are-over-dk-shivakumar-appeals-to-tamil-nadu-cm-vijay-for-unity-over-mekedatu-reservoir-issue20261108134457/",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "st-KA",
+   "pts": [
+    "పోరాటాల రోజులు ముగిశాయన్న శివకుమార్",
+    "పరిహార అడవుల పెంపకానికి సుమారు 5,400 హెక్టార్ల భూమి గుర్తింపు",
+    "నీటిని దుర్వినియోగం చేయబోమని హామీ"
+   ],
+   "why": "కావేరి నీటిపై ఆధారపడిన కర్ణాటక, తమిళనాడు రైతులు, బెంగళూరు ప్రజలపై ఈ ప్రాజెక్టు ప్రభావం ఉంటుంది.",
+   "d": "08.11.2026",
+   "t": "16:35",
+   "en": {
+    "h": "Karnataka CM Shivakumar seeks unity on Mekedatu reservoir",
+    "p": "Karnataka Chief Minister DK Shivakumar on Sunday asked Tamil Nadu CM Vijay to cooperate on the Mekedatu balancing reservoir. He said Karnataka will release 177 TMC of Cauvery water to Tamil Nadu every year as directed by the Supreme Court, and that the reservoir will benefit Tamil Nadu too. He asked Vijay to send a team to study it.",
+    "pts": [
+     "Shivakumar said the fighting days are over",
+     "About 5,400 hectares identified for compensatory afforestation",
+     "Assured the water will not be misused"
+    ],
+    "why": "The project affects farmers in Karnataka and Tamil Nadu and Bengaluru residents who depend on Cauvery water.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "Cauvery water owed to Tamil Nadu yearly"
+   },
+   "hi": {
+    "h": "मेकेदातु जलाशय पर कर्नाटक के सीएम शिवकुमार ने एकता की अपील की",
+    "p": "कर्नाटक के मुख्यमंत्री डीके शिवकुमार ने रविवार को तमिलनाडु के मुख्यमंत्री विजय से मेकेदातु बैलेंसिंग जलाशय पर सहयोग की अपील की। उन्होंने कहा कि सुप्रीम कोर्ट के निर्देश के अनुसार तमिलनाडु को हर साल 177 टीएमसी कावेरी पानी छोड़ा जाएगा और इस जलाशय से तमिलनाडु को भी फायदा होगा। उन्होंने विजय से अध्ययन के लिए एक टीम भेजने को कहा।",
+    "pts": [
+     "शिवकुमार ने कहा, लड़ाई के दिन खत्म हो गए",
+     "प्रतिपूरक वनीकरण के लिए लगभग 5,400 हेक्टेयर भूमि चिह्नित",
+     "पानी का दुरुपयोग न करने का आश्वासन"
+    ],
+    "why": "इस परियोजना का असर कावेरी पानी पर निर्भर कर्नाटक, तमिलनाडु के किसानों और बेंगलुरु के लोगों पर पड़ेगा।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "तमिलनाडु को हर साल देय कावेरी पानी"
+   }
+  },
   {
    "cat": "మహారాష్ట్ర · థానే",
    "col": "--c-city",
