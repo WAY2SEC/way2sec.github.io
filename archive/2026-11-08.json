@@ -1,8 +1,106 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 49,
+ "count": 51,
  "stories": [
+  {
+   "cat": "సైబరాబాద్ · ఆర్థిక మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹670 కోట్లు",
+   "statl": "సుమారు 7,400 మంది పెట్టుబడిదారుల నష్టం",
+   "h": "₹670 కోట్ల పెట్టుబడి మోసం: హైదరాబాద్‌కు చెందిన రెండు సంస్థలపై కేసులు",
+   "p": "18 నుంచి 48 శాతం లాభాలు ఇస్తామని నమ్మించి దేశవ్యాప్తంగా సుమారు 7,400 మంది నుంచి ₹670 కోట్లు వసూలు చేశాయన్న ఆరోపణలపై హైదరాబాద్‌కు చెందిన షేర్స్ బజార్, కిసాన్ పరివార్ సంస్థలపై సైబరాబాద్ ఆర్థిక నేరాల విభాగం (ఈవోడబ్ల్యూ) దర్యాప్తు చేస్తోంది. 2020 నుంచి డిపాజిట్లు సేకరించి, 2025 అక్టోబర్‌లో చెల్లింపులు ఆపేశాయని ఫిర్యాదులు. ప్రధాన నిందితుడితో సహా ఐదుగురు అరెస్టయ్యారని సమాచారం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/two-hyderabad-companies-booked-for-rs-670-crore-investment-fraud-3571404/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "pts": [
+    "500 మందికి పైగా బాధితులు ఈవోడబ్ల్యూను ఆశ్రయించారు",
+    "మహబూబాబాద్, వనపర్తి, సంగారెడ్డిలో 45 ఆస్తుల గుర్తింపు",
+    "కొండాపూర్‌లో విల్లా, కార్యాలయ భవనాలు జప్తుకు సిద్ధం"
+   ],
+   "why": "అధిక లాభాల ఆశ చూపే పెట్టుబడి పథకాల పట్ల ప్రజలు జాగ్రత్తగా ఉండాలని ఈ కేసు హెచ్చరిస్తోంది.",
+   "loc": "కొండాపూర్",
+   "en": {
+    "h": "₹670 crore investment fraud: Cases against two Hyderabad firms",
+    "p": "The Cyberabad Economic Offences Wing (EOW) is probing two Hyderabad-based firms, Shares Bazaar and Kisaan Parivaar, on allegations that they collected ₹670 crore from about 7,400 investors across the country by promising returns of 18 to 48 per cent. Complaints say they collected deposits from 2020 and stopped payments in October 2025. Five people, including the alleged kingpin, have reportedly been arrested.",
+    "pts": [
+     "Over 500 victims have approached the EOW",
+     "45 properties identified in Mahabubabad, Wanaparthy, Sangareddy",
+     "Villa and office buildings in Kondapur set for attachment"
+    ],
+    "why": "The case is a warning to be careful about investment schemes that promise very high returns.",
+    "cat": "Cyberabad · Financial Fraud",
+    "statl": "Lost by about 7,400 investors"
+   },
+   "hi": {
+    "h": "₹670 करोड़ का निवेश घोटाला: हैदराबाद की दो कंपनियों पर केस",
+    "p": "18 से 48 प्रतिशत मुनाफे का भरोसा देकर देशभर के करीब 7,400 निवेशकों से ₹670 करोड़ जुटाने के आरोप में हैदराबाद की दो कंपनियों, शेयर्स बाज़ार और किसान परिवार, की साइबराबाद आर्थिक अपराध शाखा (EOW) जांच कर रही है। शिकायतों के मुताबिक 2020 से जमा राशि ली गई और अक्टूबर 2025 में भुगतान बंद कर दिए गए। खबरों के अनुसार मुख्य आरोपी समेत पांच लोग गिरफ्तार हुए हैं।",
+    "pts": [
+     "500 से ज़्यादा पीड़ितों ने EOW से संपर्क किया",
+     "महबूबाबाद, वनपर्ति, संगारेड्डी में 45 संपत्तियां चिह्नित",
+     "कोंडापुर में विला और दफ्तर कुर्की के लिए तय"
+    ],
+    "why": "यह मामला बहुत ऊंचे मुनाफे का वादा करने वाली निवेश योजनाओं से सावधान रहने की चेतावनी है।",
+    "cat": "साइबराबाद · वित्तीय धोखाधड़ी",
+    "statl": "करीब 7,400 निवेशकों का नुकसान"
+   },
+   "d": "08.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "91 లక్షలు",
+   "statl": "తుది జాబితాకు ఆమోదం పొందిన ఓటర్ల రికార్డులు",
+   "h": "ఎస్ఐఆర్: తెలంగాణలో 91 లక్షల ఓటర్ల రికార్డులు తుది జాబితాకు క్లియర్",
+   "p": "ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో నోటీసులు అందుకున్న 92.8 లక్షల మంది ఓటర్లలో సుమారు 91 లక్షల (దాదాపు 98%) రికార్డులను తుది జాబితాకు ఆమోదించినట్లు రాష్ట్ర ప్రధాన ఎన్నికల అధికారి సి. సుదర్శన్ రెడ్డి వెల్లడించారు. ఇంకా 1.3 లక్షల కేసులు పెండింగ్‌లో ఉండగా, 54,418 మంది అనర్హులుగా తేలారు. సవరణకు ముందు 3.38 కోట్లుగా ఉన్న ఓటర్లు ఇప్పుడు 2.65 కోట్లు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-sir-91-lakh-voter-records-cleared-for-final-list-3571298/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గైర్హాజరు, వలస, మృతి, నకిలీ కారణాలతో 73.3 లక్షల పేర్లు తొలగింపు",
+    "గ్రేటర్ హైదరాబాద్‌లో 38.9 లక్షల నోటీసుల్లో 37.9 లక్షలు క్లియర్",
+    "తొలగించిన ఓటర్లకు ఫారాలు ఇచ్చేందుకు మరో అవకాశం"
+   ],
+   "why": "పేరు తొలగిన ఓటర్లు మళ్లీ ఫారం సమర్పించి తమ ఓటు హక్కును కాపాడుకునేందుకు ఇది అవకాశం.",
+   "en": {
+    "h": "SIR: 91 lakh voter records cleared for Telangana's final roll",
+    "p": "Chief Electoral Officer C. Sudarshan Reddy said that of the 92.8 lakh voters who got notices under the Special Intensive Revision (SIR), records of about 91 lakh (nearly 98%) have been cleared for the final roll. About 1.3 lakh cases are still pending and 54,418 people were found ineligible. Voters numbered 3.38 crore before the revision and now stand at 2.65 crore.",
+    "pts": [
+     "73.3 lakh names removed as absent, shifted, dead or duplicate",
+     "Greater Hyderabad: 37.9 lakh of 38.9 lakh notices cleared",
+     "Another chance for removed voters to submit forms"
+    ],
+    "why": "Voters whose names were removed get a chance to submit forms again and protect their right to vote.",
+    "cat": "Telangana · Voter List",
+    "statl": "Voter records cleared for the final roll"
+   },
+   "hi": {
+    "h": "SIR: तेलंगाना में 91 लाख मतदाता रिकॉर्ड अंतिम सूची के लिए मंज़ूर",
+    "p": "मुख्य निर्वाचन अधिकारी सी. सुदर्शन रेड्डी ने बताया कि विशेष गहन पुनरीक्षण (SIR) में नोटिस पाने वाले 92.8 लाख मतदाताओं में से करीब 91 लाख (लगभग 98%) के रिकॉर्ड अंतिम सूची के लिए मंज़ूर हो गए हैं। करीब 1.3 लाख मामले अभी लंबित हैं और 54,418 लोग अयोग्य पाए गए। पुनरीक्षण से पहले मतदाता 3.38 करोड़ थे, अब 2.65 करोड़ हैं।",
+    "pts": [
+     "अनुपस्थित, स्थानांतरित, मृत, डुप्लिकेट कारणों से 73.3 लाख नाम हटे",
+     "ग्रेटर हैदराबाद में 38.9 लाख में से 37.9 लाख नोटिस क्लियर",
+     "हटाए गए मतदाताओं को फॉर्म जमा करने का एक और मौका"
+    ],
+    "why": "जिन मतदाताओं के नाम हटे हैं, वे फिर फॉर्म जमा कर अपना वोट का अधिकार बचा सकते हैं।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "अंतिम सूची के लिए मंज़ूर मतदाता रिकॉर्ड"
+   },
+   "d": "08.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",

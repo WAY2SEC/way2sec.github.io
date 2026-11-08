@@ -1,8 +1,106 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T14:05:00+05:30",
+ "updated": "2026-11-08T14:35:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "సైబరాబాద్ · ఆర్థిక మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹670 కోట్లు",
+   "statl": "సుమారు 7,400 మంది పెట్టుబడిదారుల నష్టం",
+   "h": "₹670 కోట్ల పెట్టుబడి మోసం: హైదరాబాద్‌కు చెందిన రెండు సంస్థలపై కేసులు",
+   "p": "18 నుంచి 48 శాతం లాభాలు ఇస్తామని నమ్మించి దేశవ్యాప్తంగా సుమారు 7,400 మంది నుంచి ₹670 కోట్లు వసూలు చేశాయన్న ఆరోపణలపై హైదరాబాద్‌కు చెందిన షేర్స్ బజార్, కిసాన్ పరివార్ సంస్థలపై సైబరాబాద్ ఆర్థిక నేరాల విభాగం (ఈవోడబ్ల్యూ) దర్యాప్తు చేస్తోంది. 2020 నుంచి డిపాజిట్లు సేకరించి, 2025 అక్టోబర్‌లో చెల్లింపులు ఆపేశాయని ఫిర్యాదులు. ప్రధాన నిందితుడితో సహా ఐదుగురు అరెస్టయ్యారని సమాచారం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/two-hyderabad-companies-booked-for-rs-670-crore-investment-fraud-3571404/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "pts": [
+    "500 మందికి పైగా బాధితులు ఈవోడబ్ల్యూను ఆశ్రయించారు",
+    "మహబూబాబాద్, వనపర్తి, సంగారెడ్డిలో 45 ఆస్తుల గుర్తింపు",
+    "కొండాపూర్‌లో విల్లా, కార్యాలయ భవనాలు జప్తుకు సిద్ధం"
+   ],
+   "why": "అధిక లాభాల ఆశ చూపే పెట్టుబడి పథకాల పట్ల ప్రజలు జాగ్రత్తగా ఉండాలని ఈ కేసు హెచ్చరిస్తోంది.",
+   "loc": "కొండాపూర్",
+   "en": {
+    "h": "₹670 crore investment fraud: Cases against two Hyderabad firms",
+    "p": "The Cyberabad Economic Offences Wing (EOW) is probing two Hyderabad-based firms, Shares Bazaar and Kisaan Parivaar, on allegations that they collected ₹670 crore from about 7,400 investors across the country by promising returns of 18 to 48 per cent. Complaints say they collected deposits from 2020 and stopped payments in October 2025. Five people, including the alleged kingpin, have reportedly been arrested.",
+    "pts": [
+     "Over 500 victims have approached the EOW",
+     "45 properties identified in Mahabubabad, Wanaparthy, Sangareddy",
+     "Villa and office buildings in Kondapur set for attachment"
+    ],
+    "why": "The case is a warning to be careful about investment schemes that promise very high returns.",
+    "cat": "Cyberabad · Financial Fraud",
+    "statl": "Lost by about 7,400 investors"
+   },
+   "hi": {
+    "h": "₹670 करोड़ का निवेश घोटाला: हैदराबाद की दो कंपनियों पर केस",
+    "p": "18 से 48 प्रतिशत मुनाफे का भरोसा देकर देशभर के करीब 7,400 निवेशकों से ₹670 करोड़ जुटाने के आरोप में हैदराबाद की दो कंपनियों, शेयर्स बाज़ार और किसान परिवार, की साइबराबाद आर्थिक अपराध शाखा (EOW) जांच कर रही है। शिकायतों के मुताबिक 2020 से जमा राशि ली गई और अक्टूबर 2025 में भुगतान बंद कर दिए गए। खबरों के अनुसार मुख्य आरोपी समेत पांच लोग गिरफ्तार हुए हैं।",
+    "pts": [
+     "500 से ज़्यादा पीड़ितों ने EOW से संपर्क किया",
+     "महबूबाबाद, वनपर्ति, संगारेड्डी में 45 संपत्तियां चिह्नित",
+     "कोंडापुर में विला और दफ्तर कुर्की के लिए तय"
+    ],
+    "why": "यह मामला बहुत ऊंचे मुनाफे का वादा करने वाली निवेश योजनाओं से सावधान रहने की चेतावनी है।",
+    "cat": "साइबराबाद · वित्तीय धोखाधड़ी",
+    "statl": "करीब 7,400 निवेशकों का नुकसान"
+   },
+   "d": "08.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "91 లక్షలు",
+   "statl": "తుది జాబితాకు ఆమోదం పొందిన ఓటర్ల రికార్డులు",
+   "h": "ఎస్ఐఆర్: తెలంగాణలో 91 లక్షల ఓటర్ల రికార్డులు తుది జాబితాకు క్లియర్",
+   "p": "ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో నోటీసులు అందుకున్న 92.8 లక్షల మంది ఓటర్లలో సుమారు 91 లక్షల (దాదాపు 98%) రికార్డులను తుది జాబితాకు ఆమోదించినట్లు రాష్ట్ర ప్రధాన ఎన్నికల అధికారి సి. సుదర్శన్ రెడ్డి వెల్లడించారు. ఇంకా 1.3 లక్షల కేసులు పెండింగ్‌లో ఉండగా, 54,418 మంది అనర్హులుగా తేలారు. సవరణకు ముందు 3.38 కోట్లుగా ఉన్న ఓటర్లు ఇప్పుడు 2.65 కోట్లు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-sir-91-lakh-voter-records-cleared-for-final-list-3571298/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గైర్హాజరు, వలస, మృతి, నకిలీ కారణాలతో 73.3 లక్షల పేర్లు తొలగింపు",
+    "గ్రేటర్ హైదరాబాద్‌లో 38.9 లక్షల నోటీసుల్లో 37.9 లక్షలు క్లియర్",
+    "తొలగించిన ఓటర్లకు ఫారాలు ఇచ్చేందుకు మరో అవకాశం"
+   ],
+   "why": "పేరు తొలగిన ఓటర్లు మళ్లీ ఫారం సమర్పించి తమ ఓటు హక్కును కాపాడుకునేందుకు ఇది అవకాశం.",
+   "en": {
+    "h": "SIR: 91 lakh voter records cleared for Telangana's final roll",
+    "p": "Chief Electoral Officer C. Sudarshan Reddy said that of the 92.8 lakh voters who got notices under the Special Intensive Revision (SIR), records of about 91 lakh (nearly 98%) have been cleared for the final roll. About 1.3 lakh cases are still pending and 54,418 people were found ineligible. Voters numbered 3.38 crore before the revision and now stand at 2.65 crore.",
+    "pts": [
+     "73.3 lakh names removed as absent, shifted, dead or duplicate",
+     "Greater Hyderabad: 37.9 lakh of 38.9 lakh notices cleared",
+     "Another chance for removed voters to submit forms"
+    ],
+    "why": "Voters whose names were removed get a chance to submit forms again and protect their right to vote.",
+    "cat": "Telangana · Voter List",
+    "statl": "Voter records cleared for the final roll"
+   },
+   "hi": {
+    "h": "SIR: तेलंगाना में 91 लाख मतदाता रिकॉर्ड अंतिम सूची के लिए मंज़ूर",
+    "p": "मुख्य निर्वाचन अधिकारी सी. सुदर्शन रेड्डी ने बताया कि विशेष गहन पुनरीक्षण (SIR) में नोटिस पाने वाले 92.8 लाख मतदाताओं में से करीब 91 लाख (लगभग 98%) के रिकॉर्ड अंतिम सूची के लिए मंज़ूर हो गए हैं। करीब 1.3 लाख मामले अभी लंबित हैं और 54,418 लोग अयोग्य पाए गए। पुनरीक्षण से पहले मतदाता 3.38 करोड़ थे, अब 2.65 करोड़ हैं।",
+    "pts": [
+     "अनुपस्थित, स्थानांतरित, मृत, डुप्लिकेट कारणों से 73.3 लाख नाम हटे",
+     "ग्रेटर हैदराबाद में 38.9 लाख में से 37.9 लाख नोटिस क्लियर",
+     "हटाए गए मतदाताओं को फॉर्म जमा करने का एक और मौका"
+    ],
+    "why": "जिन मतदाताओं के नाम हटे हैं, वे फिर फॉर्म जमा कर अपना वोट का अधिकार बचा सकते हैं।",
+    "cat": "तेलंगाना · मतदाता सूची",
+    "statl": "अंतिम सूची के लिए मंज़ूर मतदाता रिकॉर्ड"
+   },
+   "d": "08.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
@@ -1510,536 +1608,6 @@
    },
    "d": "08.11.2026",
    "t": "09:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · సహకార సంఘం",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "90 రోజులు",
-   "statl": "విచారణ నివేదిక గడువు",
-   "h": "జర్నలిస్టుల సహకార గృహ నిర్మాణ సంఘంలో అక్రమాలపై చట్టబద్ధ విచారణ",
-   "p": "జర్నలిస్ట్స్ కోఆపరేటివ్ హౌసింగ్ సొసైటీలో 2025-26 ప్రత్యేక ఆడిట్ నివేదికలో బయటపడిన అక్రమాలపై హైదరాబాద్ జాయింట్ రిజిస్ట్రార్, జిల్లా సహకార అధికారి నవంబర్ 3న చట్టబద్ధ విచారణకు ఆదేశించారు. సహకార సంఘాల అసిస్టెంట్ రిజిస్ట్రార్ విచారణ జరిపి 90 రోజుల్లో నివేదిక ఇవ్వాలి. సొసైటీ తన రికార్డులు, ఫైళ్లను విచారణ అధికారికి అందజేయాలి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/statutory-inquiry-ordered-into-irregularities-in-journalists-cooperative-housing-society",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "2025-26 ప్రత్యేక ఆడిట్‌లో అక్రమాల గుర్తింపు",
-    "బ్యాంకు మాండేట్లు, నగదు పుస్తకాలు, ఎన్‌ఓసీ వివరాలు కోరారు",
-    "అభ్యంతరాలకు నవంబర్ 10 వరకు గడువు"
-   ],
-   "why": "ఈ సొసైటీలో సభ్యులుగా ఉన్న జర్నలిస్టుల ఆర్థిక లావాదేవీలపై స్పష్టత రానుంది.",
-   "en": {
-    "h": "Statutory inquiry ordered into irregularities in Journalists Cooperative Housing Society",
-    "p": "The Joint Registrar and District Cooperative Officer, Hyderabad, on November 3 ordered a statutory inquiry into irregularities found in the 2025-26 special audit report of the Journalists Cooperative Housing Society. An assistant registrar of cooperative societies will conduct the inquiry and must submit a report within 90 days. The society must hand over its records and files to the inquiry officer.",
-    "pts": [
-     "Irregularities flagged in 2025-26 special audit",
-     "Bank mandates, cash books, NOC details sought",
-     "Objections allowed till November 10"
-    ],
-    "why": "It will bring clarity on the financial dealings affecting journalists who are members of this society.",
-    "cat": "Hyderabad · Cooperative Society",
-    "statl": "Deadline for inquiry report"
-   },
-   "hi": {
-    "h": "पत्रकार सहकारी आवास समिति में अनियमितताओं की वैधानिक जांच के आदेश",
-    "p": "हैदराबाद के संयुक्त रजिस्ट्रार और ज़िला सहकारी अधिकारी ने 3 नवंबर को पत्रकार सहकारी आवास समिति की 2025-26 की विशेष ऑडिट रिपोर्ट में मिली अनियमितताओं की वैधानिक जांच का आदेश दिया। सहकारी समितियों के सहायक रजिस्ट्रार जांच करेंगे और 90 दिनों में रिपोर्ट देंगे। समिति को अपने रिकॉर्ड और फाइलें जांच अधिकारी को सौंपनी होंगी।",
-    "pts": [
-     "2025-26 की विशेष ऑडिट में अनियमितताएं पाई गईं",
-     "बैंक मैंडेट, कैश बुक, एनओसी विवरण मांगे गए",
-     "आपत्तियों के लिए 10 नवंबर तक का समय"
-    ],
-    "why": "इस समिति के सदस्य पत्रकारों से जुड़े वित्तीय लेनदेन पर स्पष्टता आएगी।",
-    "cat": "हैदराबाद · सहकारी समिति",
-    "statl": "जांच रिपोर्ट की समय सीमा"
-   },
-   "d": "08.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "దక్షిణ భారతం · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "30-40",
-   "statl": "తిరువనంతపురంలో గాలుల వేగం (కి.మీ/గం)",
-   "h": "అమరావతిలో వర్షం, బలమైన గాలుల హెచ్చరిక; హైదరాబాద్‌లో పొగమంచు",
-   "p": "ఆదివారం దక్షిణాది నగరాల్లో మేఘావృత వాతావరణం, వర్షాలు ఉంటాయని ఐఎండీ అంచనా వేసింది. అమరావతిలో ఒకటి రెండు సార్లు వర్షం లేదా ఉరుములతో జల్లులు పడే అవకాశం ఉండగా బలమైన ఉపరితల గాలుల హెచ్చరిక జారీ అయింది. హైదరాబాద్‌లో పొగమంచుతో పాక్షికంగా మేఘావృతం, ఎలాంటి హెచ్చరిక లేదు. చెన్నైలో మోస్తరు వర్షం, తిరువనంతపురంలో భారీ వర్షం కురిసే అవకాశం ఉంది.",
-   "src": "The South First (IMD)",
-   "url": "https://thesouthfirst.com/news/weather-update-forecast-for-southern-cities-on-8-november/",
-   "sec": [
-    "weather",
-    "telangana",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "అమరావతి: 25–34°C, వర్షం, బలమైన గాలుల హెచ్చరిక",
-    "హైదరాబాద్: 20–32°C, పొగమంచు; బెంగళూరు: 20–29°C",
-    "చెన్నై, తిరువనంతపురంలో ఉరుములు, మెరుపులు అవకాశం"
-   ],
-   "why": "దీపావళి రోజు బయటకు వెళ్లేవారు, టపాసులు కాల్చేవారు వర్షం, గాలులను దృష్టిలో పెట్టుకుని జాగ్రత్తలు తీసుకోవచ్చు.",
-   "en": {
-    "h": "Rain and strong wind warning for Amaravati; haze in Hyderabad",
-    "p": "The IMD expects cloudy skies and rain in southern cities on Sunday. Amaravati may see one or two spells of rain or thundershowers, and a warning for strong surface winds has been issued. Hyderabad will be partly cloudy with haze, with no warning. Chennai may get moderate rain and Thiruvananthapuram heavy rain.",
-    "pts": [
-     "Amaravati: 25–34°C, rain, strong wind warning",
-     "Hyderabad: 20–32°C, haze; Bengaluru: 20–29°C",
-     "Thunderstorms, lightning likely in Chennai, Thiruvananthapuram"
-    ],
-    "why": "People going out or bursting crackers on Diwali can plan precautions for rain and winds.",
-    "cat": "South India · Weather",
-    "statl": "Wind speed in Thiruvananthapuram (km/h)"
-   },
-   "hi": {
-    "h": "अमरावती में बारिश और तेज़ हवा की चेतावनी; हैदराबाद में धुंध",
-    "p": "आईएमडी ने रविवार को दक्षिणी शहरों में बादल और बारिश का अनुमान जताया है। अमरावती में एक-दो बार बारिश या गरज के साथ बौछारें पड़ सकती हैं और तेज़ सतही हवाओं की चेतावनी जारी की गई है। हैदराबाद में धुंध के साथ आंशिक बादल रहेंगे, कोई चेतावनी नहीं है। चेन्नई में मध्यम और तिरुवनंतपुरम में भारी बारिश हो सकती है।",
-    "pts": [
-     "अमरावती: 25–34°C, बारिश, तेज़ हवा की चेतावनी",
-     "हैदराबाद: 20–32°C, धुंध; बेंगलुरु: 20–29°C",
-     "चेन्नई, तिरुवनंतपुरम में गरज, बिजली की संभावना"
-    ],
-    "why": "दिवाली पर बाहर जाने वाले और पटाखे जलाने वाले बारिश व हवा को ध्यान में रखकर सावधानी बरत सकते हैं।",
-    "cat": "दक्षिण भारत · मौसम",
-    "statl": "तिरुवनंतपुरम में हवा की गति (किमी/घंटा)"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "తెలంగాణ · పంచాయతీలు",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "GO 43",
-   "statl": "పంచాయతీల సొంత ఆదాయంపై ఉత్తర్వు",
-   "h": "పంచాయతీల సొంత ఆదాయం ఇక నేరుగా వాటి బ్యాంకు ఖాతాల్లోకే",
-   "p": "గ్రామ పంచాయతీలు తమ సొంత ఆదాయాన్ని ప్రభుత్వ ఖజానా ద్వారా కాకుండా నేరుగా తమ బ్యాంకు ఖాతాల్లో జమ చేసుకునేందుకు తెలంగాణ ప్రభుత్వం అనుమతించింది. పంచాయతీ రాజ్, గ్రామీణాభివృద్ధి శాఖ జీవో ఎంఎస్ నంబర్ 43 జారీ చేసింది. పారిశుద్ధ్యం, తాగునీరు, వీధి దీపాలు, రోడ్ల నిర్వహణకు నిధులు అందడంలో జాప్యం తగ్గించడమే దీని ఉద్దేశం.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-allows-gram-panchayats-to-deposit-own-revenue-directly-into-bank-accounts",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "పంచాయతీ రాజ్ (నాలుగో సవరణ) చట్టం 2026 అమలు",
-    "ఖజానా ద్వారా కాకుండా నేరుగా పంచాయతీ ఖాతాలకు",
-    "గ్రామ పనులు వేగంగా జరుగుతాయని అధికారుల అంచనా"
-   ],
-   "why": "గ్రామాల్లో తాగునీరు, పారిశుద్ధ్యం, వీధి దీపాల వంటి పనులకు నిధులు త్వరగా అందితే గ్రామస్తులకు మేలు.",
-   "en": {
-    "h": "Gram Panchayats can now deposit own revenue directly in bank accounts",
-    "p": "The Telangana government has allowed Gram Panchayats to deposit their own revenue directly into their bank accounts instead of routing it through the government treasury. The Panchayat Raj and Rural Development department issued GO Ms. No. 43. The aim is to reduce delays in funds for sanitation, drinking water, street lights and road maintenance.",
-    "pts": [
-     "Implements Panchayat Raj (Fourth Amendment) Act, 2026",
-     "Directly to panchayat accounts, not via treasury",
-     "Officials expect village works to speed up"
-    ],
-    "why": "Faster funds for drinking water, sanitation and street lights will benefit villagers.",
-    "cat": "Telangana · Panchayats",
-    "statl": "Order on panchayats' own revenue"
-   },
-   "hi": {
-    "h": "ग्राम पंचायतें अब अपनी आय सीधे अपने बैंक खातों में जमा कर सकेंगी",
-    "p": "तेलंगाना सरकार ने ग्राम पंचायतों को अपनी आय सरकारी खज़ाने के बजाय सीधे अपने बैंक खातों में जमा करने की अनुमति दी है। पंचायत राज और ग्रामीण विकास विभाग ने जीओ एमएस नंबर 43 जारी किया। इसका उद्देश्य स्वच्छता, पेयजल, स्ट्रीट लाइट और सड़क रखरखाव के लिए धन मिलने में देरी कम करना है।",
-    "pts": [
-     "पंचायत राज (चौथा संशोधन) अधिनियम 2026 लागू",
-     "खज़ाने के बजाय सीधे पंचायत खातों में",
-     "अधिकारियों को गांव के काम तेज़ होने की उम्मीद"
-    ],
-    "why": "पेयजल, स्वच्छता और स्ट्रीट लाइट के लिए जल्दी धन मिलने से ग्रामीणों को फायदा होगा।",
-    "cat": "तेलंगाना · पंचायत",
-    "statl": "पंचायतों की अपनी आय पर आदेश"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "ప్రపంచం · పోలాండ్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "6",
-   "statl": "క్రాకోవ్ కాల్పుల్లో మృతులు",
-   "h": "పోలాండ్‌లోని క్రాకోవ్ ప్రధాన కూడలిలో కాల్పులు: కనీసం ఆరుగురు మృతి",
-   "p": "పోలాండ్‌లోని క్రాకోవ్ నగర ప్రధాన మార్కెట్ కూడలిలో శనివారం ఓ వ్యక్తి కారుతో వచ్చి జనంపై విచక్షణారహితంగా కాల్పులు జరిపాడు. కనీసం ఆరుగురు చనిపోయారు, 15 మంది గాయపడ్డారు. గాయపడినవారిలో ఇద్దరు పోలీసులు ఉన్నారు, ఒకరి పరిస్థితి విషమంగా ఉంది. పోలీసులు కాల్పులు జరిపి నిందితుడిని అదుపులోకి తీసుకుని ఆస్పత్రికి తరలించారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "మృతుల్లో నలుగురు మహిళలు, ఇద్దరు పురుషులు",
-    "నిందితుడు ఒంటరిగా దాడి చేశాడు; పోలిష్ పౌరుడు",
-    "పోలీసుల స్పందనను ప్రధాని టస్క్ ప్రశంసించారు"
-   ],
-   "why": "యూరప్‌లో పర్యాటక ప్రాంతాల్లో భద్రతపై ఆందోళన పెంచే ఘటన; అక్కడ ఉన్న భారతీయులు అధికారుల సూచనలు పాటించాలి.",
-   "en": {
-    "h": "Shooting in Krakow's main square in Poland: at least six killed",
-    "p": "A man drove onto the Main Market Square in Krakow, Poland, on Saturday and fired at random people from his car. At least six people were killed and 15 wounded. Two police officers are among the wounded, one in critical condition. Police shot and detained the suspect and took him to hospital.",
-    "pts": [
-     "Four women and two men among the dead",
-     "Attacker acted alone; he is a Polish citizen",
-     "PM Tusk praised the police response"
-    ],
-    "why": "The attack raises safety concerns at tourist spots in Europe; Indians there should follow official advice.",
-    "cat": "World · Poland",
-    "statl": "Killed in Krakow shooting"
-   },
-   "hi": {
-    "h": "पोलैंड के क्राकोव के मुख्य चौक पर गोलीबारी: कम से कम छह की मौत",
-    "p": "पोलैंड के क्राकोव शहर के मुख्य बाज़ार चौक पर शनिवार को एक व्यक्ति कार से आया और लोगों पर अंधाधुंध गोलियां चलाईं। कम से कम छह लोगों की मौत हुई और 15 घायल हुए। घायलों में दो पुलिसकर्मी हैं, एक की हालत गंभीर है। पुलिस ने गोली चलाकर संदिग्ध को हिरासत में लिया और अस्पताल पहुंचाया।",
-    "pts": [
-     "मृतकों में चार महिलाएं और दो पुरुष",
-     "हमलावर ने अकेले हमला किया; वह पोलिश नागरिक है",
-     "प्रधानमंत्री टस्क ने पुलिस की प्रतिक्रिया की सराहना की"
-    ],
-    "why": "यह घटना यूरोप के पर्यटन स्थलों पर सुरक्षा की चिंता बढ़ाती है; वहां रहने वाले भारतीय अधिकारियों की सलाह मानें।",
-    "cat": "दुनिया · पोलैंड",
-    "statl": "क्राकोव गोलीबारी में मृतक"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "ఏపీ · అన్నమయ్య",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "4,400",
-   "statl": "పెద్దమండెంలో వైఎస్ఆర్‌సీపీ మెజారిటీ",
-   "h": "అన్నమయ్య జిల్లా జడ్పీటీసీ ఫలితాలు: రెండు టీడీపీకి, రెండు వైఎస్ఆర్‌సీపీకి",
-   "p": "అన్నమయ్య జిల్లాలో వెలువడిన జడ్పీటీసీ ఫలితాల్లో పెద్దతిప్పసముద్రం స్థానాన్ని టీడీపీ అభ్యర్థి 3,021 ఓట్ల ఆధిక్యంతో గెలుచుకున్నారు. పుంగనూరులోనూ టీడీపీ అభ్యర్థి 553 ఓట్లతో గెలిచారు. పెద్దమండెంలో వైఎస్ఆర్‌సీపీ అభ్యర్థి 4,400 ఓట్ల మెజారిటీతో, రామసముద్రంలో 117 ఓట్ల తేడాతో వైఎస్ఆర్‌సీపీ అభ్యర్థి విజయం సాధించారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-annamayya",
-   "pts": [
-    "పెద్దతిప్పసముద్రం: టీడీపీకి 3,021 ఓట్ల ఆధిక్యం",
-    "పుంగనూరు: టీడీపీ అభ్యర్థి 553 ఓట్లతో గెలుపు",
-    "రామసముద్రం: వైఎస్ఆర్‌సీపీకి 117 ఓట్ల తేడా"
-   ],
-   "why": "ఈ మండలాల ప్రజలకు రాబోయే ఐదేళ్లు జిల్లా పరిషత్‌లో ఎవరు ప్రాతినిధ్యం వహిస్తారో తెలుస్తుంది.",
-   "en": {
-    "h": "Annamayya district ZPTC results: two seats to TDP, two to YSRCP",
-    "p": "In the ZPTC results declared in Annamayya district, the TDP candidate won the Peddathippasamudram seat by a margin of 3,021 votes. A TDP candidate also won in Punganur by 553 votes. In Peddamandem, the YSRCP candidate won by a majority of 4,400 votes, and in Ramasamudram a YSRCP candidate won by 117 votes.",
-    "pts": [
-     "Peddathippasamudram: TDP wins by 3,021 votes",
-     "Punganur: TDP candidate wins by 553 votes",
-     "Ramasamudram: YSRCP wins by 117 votes"
-    ],
-    "why": "People in these mandals now know who will represent them in the Zilla Parishad.",
-    "cat": "AP · Annamayya",
-    "statl": "YSRCP majority in Peddamandem"
-   },
-   "hi": {
-    "h": "अन्नमय्या ज़िले के ज़ेडपीटीसी नतीजे: दो सीटें टीडीपी को, दो वाईएसआरसीपी को",
-    "p": "अन्नमय्या ज़िले में घोषित ज़ेडपीटीसी नतीजों में पेद्दातिप्पसमुद्रम सीट टीडीपी उम्मीदवार ने 3,021 वोटों के अंतर से जीती। पुंगनूर में भी टीडीपी उम्मीदवार 553 वोटों से जीते। पेद्दामंडेम में वाईएसआरसीपी उम्मीदवार 4,400 वोटों के बहुमत से और रामसमुद्रम में वाईएसआरसीपी उम्मीदवार 117 वोटों से जीते।",
-    "pts": [
-     "पेद्दातिप्पसमुद्रम: टीडीपी 3,021 वोटों से जीती",
-     "पुंगनूर: टीडीपी उम्मीदवार 553 वोटों से जीते",
-     "रामसमुद्रम: वाईएसआरसीपी 117 वोटों से जीती"
-    ],
-    "why": "इन मंडलों के लोगों को पता चल गया कि ज़िला परिषद में उनका प्रतिनिधित्व कौन करेगा।",
-    "cat": "आंध्र प्रदेश · अन्नमय्या",
-    "statl": "पेद्दामंडेम में वाईएसआरसीपी का बहुमत"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "సైబరాబాద్ · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "76",
-   "statl": "వార్డుల్లో ఇంకుడు గుంతలు",
-   "h": "సైబరాబాద్‌లో 76 వార్డుల పార్కుల్లో మూడేసి ఇంకుడు గుంతలు",
-   "p": "భూగర్భ జలాలు పెంచేందుకు సైబరాబాద్ మున్సిపల్ కార్పొరేషన్ తన 76 వార్డుల్లోని పార్కుల్లో ఒక్కో దాంట్లో మూడు వర్షపు నీటి ఇంకుడు గుంతలు తవ్వాలని నిర్ణయించింది. కమిషనర్ జి. సృజన ఈ విషయం ప్రకటించారు. బోర్లు ఉన్న పార్కుల్లో చిన్న సంపులు కడతారు. నిర్మాణ పనులకు శుద్ధి చేసిన నీటినే వాడాలని, ఉల్లంఘిస్తే పనులు ఆపేస్తామని బిల్డర్లను హెచ్చరించారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/cyberabad-plans-three-rainwater-harvesting-pits-in-parks-across-76-wards",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "pts": [
-    "పార్కులు, మీడియన్లకు రోజుకు 200 ట్యాంకర్ ట్రిప్పులు",
-    "337 చిన్న ఎస్టీపీల నుంచి శుద్ధి నీరు సరఫరా",
-    "తాగడానికి కాని అవసరాలకు గ్రీన్ ట్యాంకర్లు"
-   ],
-   "why": "భూగర్భ జలాలు పెరిగితే ఐటీ కారిడార్ ప్రాంతవాసులకు భవిష్యత్తులో నీటి కొరత తగ్గే వీలుంటుంది.",
-   "en": {
-    "h": "Three rainwater harvesting pits in parks across 76 Cyberabad wards",
-    "p": "To recharge groundwater, the Cyberabad Municipal Corporation has decided to dig three rainwater harvesting pits in parks in each of its 76 wards. Commissioner G Srijana announced this. Small sumps will be built in parks that have borewells. Builders were warned to use only treated water for construction, or work will be stopped.",
-    "pts": [
-     "200 tanker trips daily to parks and medians",
-     "Treated water supplied from 337 small STPs",
-     "Green tankers for non-drinking needs"
-    ],
-    "why": "Better groundwater can help ease future water shortages for residents of the IT corridor.",
-    "cat": "Cyberabad · Water",
-    "statl": "Wards to get harvesting pits"
-   },
-   "hi": {
-    "h": "साइबराबाद के 76 वार्डों के पार्कों में तीन-तीन वर्षा जल संचयन गड्ढे",
-    "p": "भूजल बढ़ाने के लिए साइबराबाद नगर निगम ने अपने 76 वार्डों के हर पार्क में तीन वर्षा जल संचयन गड्ढे बनाने का फैसला किया है। आयुक्त जी. सृजना ने यह घोषणा की। जिन पार्कों में बोरवेल हैं वहां छोटे संप बनाए जाएंगे। बिल्डरों को चेतावनी दी गई कि निर्माण में केवल शोधित पानी का इस्तेमाल करें, वरना काम रोक दिया जाएगा।",
-    "pts": [
-     "पार्कों और मीडियन के लिए रोज़ 200 टैंकर ट्रिप",
-     "337 छोटे एसटीपी से शोधित पानी की आपूर्ति",
-     "पीने के अलावा ज़रूरतों के लिए ग्रीन टैंकर"
-    ],
-    "why": "भूजल बढ़ने से आईटी कॉरिडोर के निवासियों की भविष्य में पानी की किल्लत कम हो सकती है।",
-    "cat": "साइबराबाद · पानी",
-    "statl": "वार्डों में संचयन गड्ढे"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఫ్రాన్స్",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "1.46 లక్షలు",
-   "statl": "ఫ్రాన్స్ నిరసనల్లో పాల్గొన్నవారు",
-   "h": "పెరుగుతున్న ధరలపై ఫ్రాన్స్‌లో 1.46 లక్షల మంది నిరసన",
-   "p": "జీవన వ్యయం, ఇంధన ధరలు పెరగడాన్ని నిరసిస్తూ శనివారం ఫ్రాన్స్ వ్యాప్తంగా సుమారు 1.46 లక్షల మంది ర్యాలీలు చేశారని ఆ దేశ హోంశాఖ తెలిపింది. పారిస్‌లోనే 46 వేల మంది పాల్గొన్నారు. 2.5 లక్షల మంది వచ్చారని కార్మిక సంఘాలు చెప్పాయి. వరుసగా ఇది నాలుగో వారాంతపు నిరసన. పారిస్, లియోన్‌లో పోలీసులు బాష్పవాయువు ప్రయోగించారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "దేశవ్యాప్తంగా సుమారు 70 వేల భద్రతా సిబ్బంది మోహరింపు",
-    "సెప్టెంబర్‌లో హైస్కూళ్ల సమస్యలపై మొదలైన ఉద్యమం",
-    "విద్యార్థుల నాయకత్వం; అన్ని వయసులవారు పాల్గొన్నారు"
-   ],
-   "why": "ఫ్రాన్స్‌లో చదువుతున్న, పనిచేస్తున్న భారతీయులు నిరసనల ప్రాంతాలకు దూరంగా ఉండాల్సిన పరిస్థితి.",
-   "en": {
-    "h": "1.46 lakh people protest rising prices across France",
-    "p": "About 1.46 lakh people rallied across France on Saturday against the rising cost of living and fuel prices, the country's interior ministry said. Around 46,000 joined in Paris alone. Unions said 2.5 lakh people took part. This is the fourth straight weekend of protests. Police used tear gas in Paris and Lyon.",
-    "pts": [
-     "About 70,000 security personnel deployed nationwide",
-     "Movement began in September over high school problems",
-     "Led by students; people of all ages joined"
-    ],
-    "why": "Indians studying or working in France need to stay away from protest areas.",
-    "cat": "World · France",
-    "statl": "People who joined France protests"
-   },
-   "hi": {
-    "h": "बढ़ती कीमतों के खिलाफ फ्रांस में 1.46 लाख लोगों का प्रदर्शन",
-    "p": "फ्रांस के गृह मंत्रालय के अनुसार शनिवार को देशभर में लगभग 1.46 लाख लोगों ने बढ़ती महंगाई और ईंधन कीमतों के खिलाफ रैलियां कीं। अकेले पेरिस में करीब 46,000 लोग शामिल हुए। यूनियनों ने 2.5 लाख लोगों के शामिल होने का दावा किया। यह लगातार चौथे सप्ताहांत का प्रदर्शन है। पेरिस और ल्यों में पुलिस ने आंसू गैस छोड़ी।",
-    "pts": [
-     "देशभर में लगभग 70,000 सुरक्षाकर्मी तैनात",
-     "आंदोलन सितंबर में हाई स्कूलों की समस्याओं पर शुरू हुआ",
-     "छात्रों के नेतृत्व में; हर उम्र के लोग शामिल"
-    ],
-    "why": "फ्रांस में पढ़ने और काम करने वाले भारतीयों को प्रदर्शन वाले इलाकों से दूर रहना होगा।",
-    "cat": "दुनिया · फ्रांस",
-    "statl": "फ्रांस प्रदर्शनों में शामिल लोग"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "ఏపీ · అనకాపల్లి",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2",
-   "statl": "రోడ్డు ప్రమాదంలో మృతులు",
-   "h": "అనకాపల్లి జిల్లాలో కారును ఢీకొన్న టిప్పర్: ఇద్దరు మృతి",
-   "p": "అనకాపల్లి జిల్లాలోని పెద్ద బొడ్డేపల్లి గురుకులం సమీపంలో ఓ కారు, టిప్పర్ లారీ ఢీకొన్నాయి. ఈ ప్రమాదంలో కారులో ప్రయాణిస్తున్న ఇద్దరూ మృతి చెందారు. సమాచారం అందుకున్న పోలీసులు వెంటనే ఘటనా స్థలానికి చేరుకున్నారు. ప్రమాదానికి సంబంధించిన మరిన్ని వివరాలు తెలియాల్సి ఉంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-anakapalli",
-   "loc": "పెద్ద బొడ్డేపల్లి",
-   "pts": [
-    "పెద్ద బొడ్డేపల్లి గురుకులం సమీపంలో ప్రమాదం",
-    "కారులోని ఇద్దరూ మృతి; ఘటనా స్థలానికి పోలీసులు"
-   ],
-   "why": "రాత్రి, తెల్లవారుజామున ప్రయాణించేవారు భారీ వాహనాల విషయంలో మరింత జాగ్రత్తగా ఉండాలి.",
-   "en": {
-    "h": "Tipper collides with car in Anakapalli district: two dead",
-    "p": "A car and a tipper lorry collided near the Pedda Boddepalli Gurukulam in Anakapalli district. Both people travelling in the car died. Police reached the spot after being informed. More details about the accident are awaited.",
-    "pts": [
-     "Accident near Pedda Boddepalli Gurukulam",
-     "Both in the car died; police reached the spot"
-    ],
-    "why": "Those travelling at night or early morning should be extra careful around heavy vehicles.",
-    "cat": "AP · Anakapalli",
-    "statl": "Killed in road accident"
-   },
-   "hi": {
-    "h": "अनकापल्ली ज़िले में कार से टकराया टिपर: दो की मौत",
-    "p": "अनकापल्ली ज़िले में पेद्दा बोड्डेपल्ली गुरुकुलम के पास एक कार और टिपर लॉरी की टक्कर हो गई। हादसे में कार में सवार दोनों लोगों की मौत हो गई। सूचना मिलने पर पुलिस तुरंत घटनास्थल पर पहुंची। हादसे के बारे में और जानकारी आनी बाकी है।",
-    "pts": [
-     "पेद्दा बोड्डेपल्ली गुरुकुलम के पास हादसा",
-     "कार में सवार दोनों की मौत; पुलिस मौके पर पहुंची"
-    ],
-    "why": "रात या तड़के सफर करने वाले भारी वाहनों से और ज़्यादा सावधान रहें।",
-    "cat": "आंध्र प्रदेश · अनकापल्ली",
-    "statl": "सड़क हादसे में मृतक"
-   },
-   "d": "08.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "20",
-   "statl": "టపాసు గాయాలకు ప్రత్యేక పడకలు",
-   "h": "దీపావళి టపాసు గాయాలకు సరోజినీ దేవి కంటి ఆస్పత్రిలో 20 పడకలు సిద్ధం",
-   "p": "దీపావళి టపాసుల వల్ల జరిగే గాయాలకు చికిత్స అందించేందుకు హైదరాబాద్ ఆస్పత్రులు సిద్ధమయ్యాయి. సరోజినీ దేవి కంటి ఆస్పత్రి 20 పడకలు కేటాయించి వైద్యులు, సిబ్బందిని అందుబాటులో ఉంచింది. గత రెండు దీపావళి సీజన్లలో 231 మంది గాయాలతో వచ్చారని, ఎక్కువ గాయాలు మిర్చి బాంబుల వల్లేనని సూపరింటెండెంట్ తెలిపారు. పెద్దల పర్యవేక్షణలో, కాటన్ దుస్తులతో, ఖాళీ ప్రదేశాల్లో టపాసులు కాల్చాలని వైద్యులు సూచించారు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-hospitals-brace-for-diwali-injuries-2002654",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "గత రెండు సీజన్లలో 231 మంది, 33 మందికి తీవ్ర గాయాలు",
-    "కాలిన చోట 20 నిమిషాలు నీళ్లు పోయాలి; ఐస్, పసుపు వద్దు",
-    "కంటికి గాయమైతే రుద్దకుండా వెంటనే వైద్యం పొందాలి"
-   ],
-   "why": "ఈ జాగ్రత్తలు పాటిస్తే పండుగ రోజు పిల్లలు, పెద్దలు కంటి, కాలిన గాయాల ప్రమాదం తగ్గించుకోవచ్చు.",
-   "en": {
-    "h": "Sarojini Devi Eye Hospital readies 20 beds for Diwali cracker injuries",
-    "p": "Hyderabad hospitals are prepared to treat injuries caused by Diwali firecrackers. Sarojini Devi Eye Hospital has set aside 20 beds and kept doctors and staff on standby. The superintendent said 231 people came with injuries in the last two Diwali seasons, most of them caused by mirchi bombs. Doctors advised bursting crackers under adult supervision, in cotton clothes and in open spaces.",
-    "pts": [
-     "231 patients in last two seasons, 33 seriously injured",
-     "Cool burns under water for 20 minutes; no ice or turmeric",
-     "For eye injuries, do not rub; get treatment immediately"
-    ],
-    "why": "Following these precautions can reduce the risk of eye and burn injuries for children and adults on the festival day.",
-    "cat": "Hyderabad · Health",
-    "statl": "Special beds for cracker injuries"
-   },
-   "hi": {
-    "h": "दिवाली पटाखों से चोट के लिए सरोजिनी देवी नेत्र अस्पताल में 20 बिस्तर तैयार",
-    "p": "हैदराबाद के अस्पताल दिवाली पटाखों से होने वाली चोटों के इलाज के लिए तैयार हैं। सरोजिनी देवी नेत्र अस्पताल ने 20 बिस्तर अलग रखे हैं और डॉक्टरों व कर्मचारियों को तैनात रखा है। अधीक्षक ने बताया कि पिछले दो दिवाली सीज़न में 231 लोग चोट लेकर आए, ज़्यादातर चोटें मिर्ची बम से थीं। डॉक्टरों ने बड़ों की निगरानी में, सूती कपड़ों में और खुली जगह पर पटाखे जलाने की सलाह दी।",
-    "pts": [
-     "पिछले दो सीज़न में 231 मरीज़, 33 गंभीर रूप से घायल",
-     "जले हिस्से पर 20 मिनट पानी डालें; बर्फ, हल्दी नहीं",
-     "आंख में चोट लगे तो मलें नहीं, तुरंत इलाज कराएं"
-    ],
-    "why": "ये सावधानियां बरतने से त्योहार के दिन बच्चों और बड़ों में आंख व जलने की चोट का खतरा घट सकता है।",
-    "cat": "हैदराबाद · स्वास्थ्य",
-    "statl": "पटाखों से चोट के लिए विशेष बिस्तर"
-   },
-   "d": "08.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "ఏపీ · తిరుపతి",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "25/35",
-   "statl": "తిరుపతి జిల్లాలో టీడీపీ జడ్పీటీసీలు",
-   "h": "తిరుపతి జిల్లాలో 35 జడ్పీటీసీల్లో 25 టీడీపీకి, వైఎస్ఆర్‌సీపీకి 7",
-   "p": "తిరుపతి జిల్లా పరిషత్ ఎన్నికల్లో మొత్తం 35 జడ్పీటీసీ స్థానాల్లో టీడీపీ 25 గెలుచుకుంది. వైఎస్ఆర్‌సీపీ 7, బీజేపీ 2, జనసేన 1 స్థానం దక్కించుకున్నాయి. తిరుపతి రూరల్ జడ్పీటీసీని వైఎస్ఆర్‌సీపీ అభ్యర్థి 602 ఓట్లతో, కోడూరును 2,500 ఓట్ల మెజారిటీతో గెలిచారు. జిల్లాలోని 444 ఎంపీటీసీ స్థానాల్లో 142 ఏకగ్రీవమయ్యాయి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-tirupati",
-   "pts": [
-    "టీడీపీ 25, వైఎస్ఆర్‌సీపీ 7, బీజేపీ 2, జనసేన 1",
-    "444 ఎంపీటీసీల్లో 142 ఏకగ్రీవం",
-    "తిరుపతి రూరల్, కోడూరు జడ్పీటీసీలు వైఎస్ఆర్‌సీపీకి"
-   ],
-   "why": "తిరుపతి జిల్లా గ్రామాల అభివృద్ధి పనులు, నిధుల నిర్ణయాల్లో ఈ జడ్పీటీసీ సభ్యులే కీలకం.",
-   "en": {
-    "h": "TDP wins 25 of 35 ZPTC seats in Tirupati district, YSRCP 7",
-    "p": "In the Tirupati district parishad elections, the TDP won 25 of the 35 ZPTC seats. The YSRCP won 7, the BJP 2 and the Jana Sena 1. A YSRCP candidate won Tirupati Rural ZPTC by 602 votes, and the party won Kodur with a 2,500-vote majority. Of the district's 444 MPTC seats, 142 were decided unopposed.",
-    "pts": [
-     "TDP 25, YSRCP 7, BJP 2, Jana Sena 1",
-     "142 of 444 MPTC seats unopposed",
-     "Tirupati Rural and Kodur ZPTC seats go to YSRCP"
-    ],
-    "why": "These ZPTC members play a key role in development works and fund decisions for Tirupati district's villages.",
-    "cat": "Andhra Pradesh · Tirupati",
-    "statl": "TDP ZPTC seats in Tirupati district"
-   },
-   "hi": {
-    "h": "तिरुपति जिले में 35 में से 25 जेडपीटीसी टीडीपी को, वाईएसआरसीपी को 7",
-    "p": "तिरुपति जिला परिषद चुनावों में टीडीपी ने 35 में से 25 जेडपीटीसी सीटें जीतीं। वाईएसआरसीपी को 7, भाजपा को 2 और जनसेना को 1 सीट मिली। तिरुपति ग्रामीण जेडपीटीसी वाईएसआरसीपी उम्मीदवार ने 602 वोटों से और कोडूर 2,500 वोटों के अंतर से जीती। जिले की 444 एमपीटीसी सीटों में से 142 निर्विरोध तय हुईं।",
-    "pts": [
-     "टीडीपी 25, वाईएसआरसीपी 7, भाजपा 2, जनसेना 1",
-     "444 में से 142 एमपीटीसी निर्विरोध",
-     "तिरुपति ग्रामीण और कोडूर जेडपीटीसी वाईएसआरसीपी को"
-    ],
-    "why": "तिरुपति जिले के गांवों के विकास कार्यों और फंड के फैसलों में ये जेडपीटीसी सदस्य अहम हैं।",
-    "cat": "आंध्र प्रदेश · तिरुपति",
-    "statl": "तिरुपति जिले में टीडीपी की जेडपीटीसी सीटें"
-   },
-   "d": "08.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "భారత్ · దీపావళి",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "1,008",
-   "statl": "మథుర శ్రీకృష్ణ జన్మస్థాన్‌లో దీపాలు",
-   "h": "దేశవ్యాప్తంగా దీపావళి; సైనికులతో పండుగ జరుపుకుంటానన్న ప్రధాని మోదీ",
-   "p": "దేశవ్యాప్తంగా ఆదివారం దీపావళి పండుగ జరుగుతోంది. ప్రధాని మోదీ ప్రజలకు శుభాకాంక్షలు తెలిపి, ఏటా లాగే ఈసారీ సైనికులతో పండుగ జరుపుకుంటానని చెప్పారు; ఏ ప్రాంతంలో అనేది వెల్లడించలేదు. కేంద్ర మంత్రి అర్జున్ రామ్ మేఘ్వాల్ రాజస్థాన్‌లోని బికనేర్‌లో బీఎస్ఎఫ్ జవాన్లతో దీపావళి జరుపుకున్నారు. మథుర శ్రీకృష్ణ జన్మస్థాన్‌లో 1,008 దీపాలు వెలిగించారు.",
-   "src": "ETV Bharat, PTI",
-   "url": "https://www.etvbharat.com/en/bharat/live-blog--diwali-2026-live-updates-festivities-greetings-delhi-ayodhya-prime-minister-narendra-modi-enn26110800407",
-   "sec": [
-    "india",
-    "culture"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "రాష్ట్రపతి ముర్ము, ప్రధాని మోదీ శుభాకాంక్షలు",
-    "బికనేర్‌లో బీఎస్ఎఫ్ జవాన్లతో మంత్రి మేఘ్వాల్",
-    "నవంబర్ 9న గోవర్ధన పూజ, 10న భాయ్ దూజ్"
-   ],
-   "why": "పండుగ రోజున దేశమంతా వేడుకలతో పాటు సరిహద్దుల్లోని జవాన్ల వద్దకు నేతలు వెళ్తున్నారు.",
-   "en": {
-    "h": "Diwali across India; PM Modi says he will celebrate with soldiers",
-    "p": "Diwali is being celebrated across the country on Sunday. PM Modi greeted the people and said that, as every year, he would celebrate the festival with soldiers this time too; he did not disclose where. Union minister Arjun Ram Meghwal celebrated Diwali with BSF personnel in Bikaner, Rajasthan. At Sri Krishna Janmasthan in Mathura, 1,008 lamps were lit.",
-    "pts": [
-     "President Murmu and PM Modi extend greetings",
-     "Minister Meghwal with BSF personnel in Bikaner",
-     "Govardhan Puja on November 9, Bhai Dooj on 10th"
-    ],
-    "why": "Along with celebrations across the country, leaders are visiting soldiers at the borders on the festival day.",
-    "cat": "India · Diwali",
-    "statl": "Lamps at Sri Krishna Janmasthan, Mathura"
-   },
-   "hi": {
-    "h": "देशभर में दिवाली; प्रधानमंत्री मोदी बोले, सैनिकों के साथ मनाएंगे त्योहार",
-    "p": "रविवार को देशभर में दिवाली मनाई जा रही है। प्रधानमंत्री मोदी ने लोगों को शुभकामनाएं दीं और कहा कि हर साल की तरह इस बार भी वे सैनिकों के साथ त्योहार मनाएंगे; उन्होंने जगह नहीं बताई। केंद्रीय मंत्री अर्जुन राम मेघवाल ने राजस्थान के बीकानेर में बीएसएफ जवानों के साथ दिवाली मनाई। मथुरा के श्रीकृष्ण जन्मस्थान में 1,008 दीये जलाए गए।",
-    "pts": [
-     "राष्ट्रपति मुर्मू और प्रधानमंत्री मोदी की शुभकामनाएं",
-     "बीकानेर में बीएसएफ जवानों के साथ मंत्री मेघवाल",
-     "9 नवंबर को गोवर्धन पूजा, 10 को भाई दूज"
-    ],
-    "why": "त्योहार के दिन देशभर में उत्सव के साथ नेता सीमा पर जवानों के पास जा रहे हैं।",
-    "cat": "भारत · दिवाली",
-    "statl": "मथुरा श्रीकृष्ण जन्मस्थान में दीये"
-   },
-   "d": "08.11.2026",
-   "t": "08:05"
   },
   {
    "cat": "🪔 దీపావళి · వైరల్ వీడియో",
