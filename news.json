@@ -4,6 +4,58 @@
  "version": 2,
  "stories": [
   {
+   "cat": "ఆలేరు · 5వ వార్డు",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "5వ వార్డు",
+   "statl": "కంటి శస్త్ర చికిత్స కుటుంబాలకు పరామర్శ",
+   "h": "కంటి శస్త్ర చికిత్స చేయించుకున్న కుటుంబాలను పరామర్శించిన కౌన్సిలర్ పాశికంటి సంపత్",
+   "p": "ఆలేరు మున్సిపాలిటీ 5వ వార్డులో కంటి శస్త్ర చికిత్స చేయించుకున్న పలువురి కుటుంబాలను వార్డు కౌన్సిలర్ శ్రీ పాశికంటి సంపత్ గారు యువ నాయకులతో కలిసి ఇంటింటికీ వెళ్లి పరామర్శించారు. వారి ఆరోగ్య పరిస్థితిని అడిగి తెలుసుకుని, ధైర్యం చెప్పారు.",
+   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
+   "url": "",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "yadadri",
+   "loc": "ఆలేరు 5వ వార్డు",
+   "pts": [
+    "కౌన్సిలర్ పాశికంటి సంపత్ ఇంటింటికీ పరామర్శ",
+    "పాల్గొన్న యువ నాయకులు: సతీష్ అంబటి, చింతకింది రవికాంత్, జిల్లా రమేష్, అంబటి సాయి తేజ, వల్లల సాయి, చింతకింది వినయ్"
+   ],
+   "why": "శస్త్ర చికిత్స తర్వాత కోలుకుంటున్నవారికి వార్డు ప్రతినిధి స్వయంగా రావడం ధైర్యాన్నిస్తుంది.",
+   "en": {
+    "cat": "Aler · Ward 5",
+    "stat": "Ward 5",
+    "statl": "Visits to families after eye surgeries",
+    "h": "Councillor Pashikanti Sampath visits families after eye surgeries",
+    "p": "Aler municipality ward 5 councillor Pashikanti Sampath, along with young leaders, went house to house to visit several people in the ward who have had eye surgery. He asked about their health and encouraged them.",
+    "pts": [
+     "Councillor Pashikanti Sampath's house-to-house visits",
+     "Young leaders present: Satish Ambati, Chinthakindi Ravikanth, Jilla Ramesh, Ambati Sai Teja, Vallala Sai, Chinthakindi Vinay"
+    ],
+    "why": "A visit from the ward councillor gives courage to people recovering after surgery."
+   },
+   "hi": {
+    "cat": "आलेर · वार्ड 5",
+    "stat": "वार्ड 5",
+    "statl": "आँखों के ऑपरेशन के बाद परिवारों से मुलाक़ात",
+    "h": "पार्षद पाशिकंटी संपत ने आँखों का ऑपरेशन कराने वाले परिवारों से मुलाक़ात की",
+    "p": "आलेर नगरपालिका के वार्ड 5 के पार्षद पाशिकंटी संपत ने युवा नेताओं के साथ घर-घर जाकर वार्ड में आँखों का ऑपरेशन कराने वाले कई लोगों से मुलाक़ात की। उन्होंने उनका हालचाल जाना और हौसला बढ़ाया।",
+    "pts": [
+     "पार्षद पाशिकंटी संपत की घर-घर मुलाक़ात",
+     "उपस्थित युवा नेता: सतीश अंबटि, चिंतकिंदी रविकांत, जिल्ला रमेश, अंबटि साई तेजा, वल्लला साई, चिंतकिंदी विनय"
+    ],
+    "why": "ऑपरेशन के बाद ठीक हो रहे लोगों को वार्ड प्रतिनिधि का घर आना हिम्मत देता है।"
+   },
+   "d": "08.11.2026",
+   "t": "13:35",
+   "img": "photos/2026-11-08-aler-ward5-eye-surgery.jpg",
+   "imgfy": 0.42,
+   "local": true,
+   "_sid": "1y8qqv6"
+  },
+  {
    "cat": "ఏపీ · ఎన్నికలు",
    "col": "--c-election",
    "art": "voters",
