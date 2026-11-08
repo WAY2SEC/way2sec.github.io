@@ -1,8 +1,154 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 20,
+ "count": 23,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹7.9 కోట్లు",
+   "statl": "గంటలోనే ఖాతా నుంచి మాయం",
+   "h": "హైదరాబాద్ ఫిన్‌సర్వ్ సంస్థ ఖాతా నుంచి గంటలో ₹7.9 కోట్లు కొల్లగొట్టిన సైబర్ నేరగాళ్లు",
+   "p": "హైదరాబాద్‌లోని ఓ ఫిన్‌సర్వ్ కంపెనీ బ్యాంకు ఖాతా నుంచి సైబర్ నేరగాళ్లు కేవలం ఒక గంటలోనే ₹7.9 కోట్లు దోచుకున్నారు. ఐడీఎఫ్‌సీ ఫస్ట్ బ్యాంక్‌లోని సంస్థ ఖాతా నుంచి అనధికారికంగా 39 లావాదేవీలు జరిపి ఆ డబ్బును ఇతర ఖాతాలకు మళ్లించారు. కంపెనీ డైరెక్టర్ ఫిర్యాదు మేరకు తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-8th-november-2026-3706.html",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "గంటలోనే ₹7.9 కోట్లు ఇతర ఖాతాలకు మళ్లింపు",
+    "ఐడీఎఫ్‌సీ ఫస్ట్ బ్యాంక్ ఖాతా నుంచి 39 అనధికార లావాదేవీలు",
+    "తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరోలో కేసు నమోదు"
+   ],
+   "why": "కంపెనీలు, వ్యాపారులు తమ బ్యాంకు ఖాతాల్లో జరిగే లావాదేవీలపై నిరంతరం కన్నేసి ఉంచాల్సిన అవసరాన్ని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "08.11.2026",
+   "t": "09:35",
+   "en": {
+    "h": "Cyber criminals steal ₹7.9 crore from Hyderabad finserv firm within an hour",
+    "p": "Cyber criminals stole ₹7.9 crore from the bank account of a finserv company in Hyderabad within just one hour. They made 39 unauthorised transactions from the firm's IDFC First Bank account and moved the money to other accounts. Following a complaint by the company director, Telangana Cyber Security Bureau police registered a case and are investigating.",
+    "pts": [
+     "₹7.9 crore moved to other accounts within an hour",
+     "39 unauthorised transactions from IDFC First Bank account",
+     "Case registered with Telangana Cyber Security Bureau"
+    ],
+    "why": "The incident is a reminder that companies and traders need to keep a constant watch on transactions in their bank accounts.",
+    "cat": "Hyderabad · Cyber crime",
+    "statl": "Vanished from the account within an hour"
+   },
+   "hi": {
+    "h": "हैदराबाद की फिनसर्व कंपनी के खाते से साइबर ठगों ने घंटे भर में ₹7.9 करोड़ उड़ाए",
+    "p": "साइबर अपराधियों ने हैदराबाद की एक फिनसर्व कंपनी के बैंक खाते से सिर्फ एक घंटे में ₹7.9 करोड़ उड़ा लिए। उन्होंने कंपनी के आईडीएफसी फर्स्ट बैंक खाते से 39 अनधिकृत लेनदेन कर पैसा दूसरे खातों में भेज दिया। कंपनी के निदेशक की शिकायत पर तेलंगाना साइबर सुरक्षा ब्यूरो पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "एक घंटे में ₹7.9 करोड़ दूसरे खातों में ट्रांसफर",
+     "आईडीएफसी फर्स्ट बैंक खाते से 39 अनधिकृत लेनदेन",
+     "तेलंगाना साइबर सुरक्षा ब्यूरो में मामला दर्ज"
+    ],
+    "why": "यह घटना याद दिलाती है कि कंपनियों और व्यापारियों को अपने बैंक खातों के लेनदेन पर लगातार नज़र रखनी चाहिए।",
+    "cat": "हैदराबाद · साइबर अपराध",
+    "statl": "एक घंटे में खाते से गायब"
+   }
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "2:20 PM",
+   "statl": "ముహూరత్ ఈక్విటీ ట్రేడింగ్ ప్రారంభం",
+   "h": "దీపావళి సందర్భంగా నేడు స్టాక్ మార్కెట్లలో ప్రత్యేక ముహూరత్ ట్రేడింగ్",
+   "p": "దీపావళి పండుగ సందర్భంగా ఈరోజు స్టాక్ మార్కెట్లలో ప్రత్యేక ముహూరత్ ట్రేడింగ్ సెషన్ జరగనుంది. మధ్యాహ్నం 2:05 గంటల నుంచి 15 నిమిషాల పాటు ప్రీ-ఓపెన్ సెషన్ నిర్వహిస్తారు. ఆ తర్వాత మధ్యాహ్నం 2:20 గంటల నుంచి ఈక్విటీ ట్రేడింగ్ సెషన్ మొదలవుతుంది. పండుగ రోజున జరిగే ఈ ప్రత్యేక సెషన్ సమయాలను పెట్టుబడిదారులు గమనించాలి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-8th-november-2026-3706.html",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "దీపావళి సందర్భంగా ప్రత్యేక ట్రేడింగ్ సెషన్",
+    "ప్రీ-ఓపెన్: మధ్యాహ్నం 2:05 నుంచి 15 నిమిషాలు",
+    "ఈక్విటీ ట్రేడింగ్: మధ్యాహ్నం 2:20 నుంచి"
+   ],
+   "why": "స్టాక్ మార్కెట్‌లో షేర్లు కొనాలనుకునే, అమ్మాలనుకునే పెట్టుబడిదారులు ఈరోజు ప్రత్యేక సమయాలు తెలుసుకోవడం అవసరం.",
+   "d": "08.11.2026",
+   "t": "09:35",
+   "en": {
+    "h": "Special Diwali Muhurat trading session in stock markets today",
+    "p": "A special Muhurat trading session will be held in the stock markets today on the occasion of Diwali. A 15-minute pre-open session will run from 2:05 pm. After that, the equity trading session will begin at 2:20 pm. Investors should note the timings of this special festival-day session.",
+    "pts": [
+     "Special trading session on the occasion of Diwali",
+     "Pre-open: 15 minutes from 2:05 pm",
+     "Equity trading: from 2:20 pm"
+    ],
+    "why": "Investors who want to buy or sell shares need to know today's special timings.",
+    "cat": "India · Markets",
+    "statl": "Muhurat equity trading begins"
+   },
+   "hi": {
+    "h": "दिवाली पर आज शेयर बाज़ारों में विशेष मुहूर्त ट्रेडिंग",
+    "p": "दिवाली के अवसर पर आज शेयर बाज़ारों में विशेष मुहूर्त ट्रेडिंग सत्र होगा। दोपहर 2:05 बजे से 15 मिनट का प्री-ओपन सत्र चलेगा। इसके बाद दोपहर 2:20 बजे से इक्विटी ट्रेडिंग सत्र शुरू होगा। निवेशकों को त्योहार के दिन होने वाले इस विशेष सत्र का समय ध्यान में रखना चाहिए।",
+    "pts": [
+     "दिवाली के अवसर पर विशेष ट्रेडिंग सत्र",
+     "प्री-ओपन: दोपहर 2:05 बजे से 15 मिनट",
+     "इक्विटी ट्रेडिंग: दोपहर 2:20 बजे से"
+    ],
+    "why": "शेयर खरीदने या बेचने वाले निवेशकों के लिए आज का विशेष समय जानना ज़रूरी है।",
+    "cat": "भारत · बाज़ार",
+    "statl": "मुहूर्त इक्विटी ट्रेडिंग शुरू"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · యెమెన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "27",
+   "statl": "సనా ప్రావిన్స్ దాడుల్లో మృతులు",
+   "h": "యెమెన్ సనా ప్రావిన్స్‌లో వరుస దాడులు: కనీసం 27 మంది మృతి",
+   "p": "యెమెన్ రాజధాని సనాకు ఉత్తరాన ఉన్న అల్-షరియా గ్రామంపై జరిగిన వరుస దాడుల్లో కనీసం 27 మంది మరణించారని, సుమారు 30 మంది గాయపడ్డారని హూతీల ఆధ్వర్యంలోని సబా వార్తా సంస్థ తెలిపింది. మృతుల్లో ఎక్కువ మంది మహిళలు, పిల్లలేనని అక్కడి ఆరోగ్య శాఖ ప్రతినిధి చెప్పారు. ఈ దాడులకు సౌదీ నేతృత్వంలోని కూటమే కారణమని హూతీలు ఆరోపించగా, సౌదీ అరేబియా ఇంకా స్పందించలేదు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "కనీసం 27 మంది మృతి, సుమారు 30 మందికి గాయాలు",
+    "సౌదీ కూటమిపై హూతీల ఆరోపణ; సౌదీ స్పందించలేదు",
+    "మారిబ్, అల్-జౌఫ్ ప్రావిన్సుల్లో కొనసాగుతున్న పోరు"
+   ],
+   "why": "రియాద్‌లోని లక్ష్యాలపైనా దాడులు చేశామని హూతీలు చెప్పడంతో సౌదీలో ఉంటున్న భారతీయులకు ఈ పోరు ముఖ్యమైనది.",
+   "d": "08.11.2026",
+   "t": "09:35",
+   "en": {
+    "h": "Strikes in Yemen's Sanaa province kill at least 27",
+    "p": "At least 27 people were killed and about 30 injured in a series of strikes on al-Shariya village north of Yemen's capital Sanaa, the Houthi-run Saba news agency said. A health ministry spokesman there said most of the dead were women and children. The Houthis blamed the Saudi-led coalition, while Saudi Arabia has not yet responded.",
+    "pts": [
+     "At least 27 killed, about 30 injured",
+     "Houthis blame Saudi coalition; no Saudi response yet",
+     "Fighting continues in Marib and al-Jawf provinces"
+    ],
+    "why": "With the Houthis saying they also attacked targets in Riyadh, the fighting matters to Indians living in Saudi Arabia.",
+    "cat": "World · Yemen",
+    "statl": "Killed in Sanaa province strikes"
+   },
+   "hi": {
+    "h": "यमन के सना प्रांत में सिलसिलेवार हमले: कम से कम 27 की मौत",
+    "p": "हूती नियंत्रित सबा समाचार एजेंसी के अनुसार, यमन की राजधानी सना के उत्तर में अल-शरिया गांव पर हुए सिलसिलेवार हमलों में कम से कम 27 लोगों की मौत हुई और करीब 30 घायल हुए। वहां के स्वास्थ्य मंत्रालय के प्रवक्ता ने कहा कि मरने वालों में ज़्यादातर महिलाएं और बच्चे हैं। हूतियों ने सऊदी नेतृत्व वाले गठबंधन को ज़िम्मेदार ठहराया, जबकि सऊदी अरब ने अभी कोई प्रतिक्रिया नहीं दी है।",
+    "pts": [
+     "कम से कम 27 की मौत, करीब 30 घायल",
+     "हूतियों ने सऊदी गठबंधन पर आरोप लगाया; सऊदी चुप",
+     "मारिब और अल-जौफ़ प्रांतों में लड़ाई जारी"
+    ],
+    "why": "हूतियों के रियाद में भी ठिकानों पर हमले के दावे से यह लड़ाई सऊदी अरब में रहने वाले भारतीयों के लिए अहम है।",
+    "cat": "दुनिया · यमन",
+    "statl": "सना प्रांत के हमलों में मौतें"
+   }
+  },
   {
    "cat": "భారత్ · ఆహార భద్రత",
    "col": "--c-gov",

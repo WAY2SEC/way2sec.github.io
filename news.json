@@ -1,8 +1,154 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T09:09:37+05:30",
+ "updated": "2026-11-08T09:40:13+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹7.9 కోట్లు",
+   "statl": "గంటలోనే ఖాతా నుంచి మాయం",
+   "h": "హైదరాబాద్ ఫిన్‌సర్వ్ సంస్థ ఖాతా నుంచి గంటలో ₹7.9 కోట్లు కొల్లగొట్టిన సైబర్ నేరగాళ్లు",
+   "p": "హైదరాబాద్‌లోని ఓ ఫిన్‌సర్వ్ కంపెనీ బ్యాంకు ఖాతా నుంచి సైబర్ నేరగాళ్లు కేవలం ఒక గంటలోనే ₹7.9 కోట్లు దోచుకున్నారు. ఐడీఎఫ్‌సీ ఫస్ట్ బ్యాంక్‌లోని సంస్థ ఖాతా నుంచి అనధికారికంగా 39 లావాదేవీలు జరిపి ఆ డబ్బును ఇతర ఖాతాలకు మళ్లించారు. కంపెనీ డైరెక్టర్ ఫిర్యాదు మేరకు తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-8th-november-2026-3706.html",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "గంటలోనే ₹7.9 కోట్లు ఇతర ఖాతాలకు మళ్లింపు",
+    "ఐడీఎఫ్‌సీ ఫస్ట్ బ్యాంక్ ఖాతా నుంచి 39 అనధికార లావాదేవీలు",
+    "తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరోలో కేసు నమోదు"
+   ],
+   "why": "కంపెనీలు, వ్యాపారులు తమ బ్యాంకు ఖాతాల్లో జరిగే లావాదేవీలపై నిరంతరం కన్నేసి ఉంచాల్సిన అవసరాన్ని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "d": "08.11.2026",
+   "t": "09:35",
+   "en": {
+    "h": "Cyber criminals steal ₹7.9 crore from Hyderabad finserv firm within an hour",
+    "p": "Cyber criminals stole ₹7.9 crore from the bank account of a finserv company in Hyderabad within just one hour. They made 39 unauthorised transactions from the firm's IDFC First Bank account and moved the money to other accounts. Following a complaint by the company director, Telangana Cyber Security Bureau police registered a case and are investigating.",
+    "pts": [
+     "₹7.9 crore moved to other accounts within an hour",
+     "39 unauthorised transactions from IDFC First Bank account",
+     "Case registered with Telangana Cyber Security Bureau"
+    ],
+    "why": "The incident is a reminder that companies and traders need to keep a constant watch on transactions in their bank accounts.",
+    "cat": "Hyderabad · Cyber crime",
+    "statl": "Vanished from the account within an hour"
+   },
+   "hi": {
+    "h": "हैदराबाद की फिनसर्व कंपनी के खाते से साइबर ठगों ने घंटे भर में ₹7.9 करोड़ उड़ाए",
+    "p": "साइबर अपराधियों ने हैदराबाद की एक फिनसर्व कंपनी के बैंक खाते से सिर्फ एक घंटे में ₹7.9 करोड़ उड़ा लिए। उन्होंने कंपनी के आईडीएफसी फर्स्ट बैंक खाते से 39 अनधिकृत लेनदेन कर पैसा दूसरे खातों में भेज दिया। कंपनी के निदेशक की शिकायत पर तेलंगाना साइबर सुरक्षा ब्यूरो पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "एक घंटे में ₹7.9 करोड़ दूसरे खातों में ट्रांसफर",
+     "आईडीएफसी फर्स्ट बैंक खाते से 39 अनधिकृत लेनदेन",
+     "तेलंगाना साइबर सुरक्षा ब्यूरो में मामला दर्ज"
+    ],
+    "why": "यह घटना याद दिलाती है कि कंपनियों और व्यापारियों को अपने बैंक खातों के लेनदेन पर लगातार नज़र रखनी चाहिए।",
+    "cat": "हैदराबाद · साइबर अपराध",
+    "statl": "एक घंटे में खाते से गायब"
+   }
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "2:20 PM",
+   "statl": "ముహూరత్ ఈక్విటీ ట్రేడింగ్ ప్రారంభం",
+   "h": "దీపావళి సందర్భంగా నేడు స్టాక్ మార్కెట్లలో ప్రత్యేక ముహూరత్ ట్రేడింగ్",
+   "p": "దీపావళి పండుగ సందర్భంగా ఈరోజు స్టాక్ మార్కెట్లలో ప్రత్యేక ముహూరత్ ట్రేడింగ్ సెషన్ జరగనుంది. మధ్యాహ్నం 2:05 గంటల నుంచి 15 నిమిషాల పాటు ప్రీ-ఓపెన్ సెషన్ నిర్వహిస్తారు. ఆ తర్వాత మధ్యాహ్నం 2:20 గంటల నుంచి ఈక్విటీ ట్రేడింగ్ సెషన్ మొదలవుతుంది. పండుగ రోజున జరిగే ఈ ప్రత్యేక సెషన్ సమయాలను పెట్టుబడిదారులు గమనించాలి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-8th-november-2026-3706.html",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "దీపావళి సందర్భంగా ప్రత్యేక ట్రేడింగ్ సెషన్",
+    "ప్రీ-ఓపెన్: మధ్యాహ్నం 2:05 నుంచి 15 నిమిషాలు",
+    "ఈక్విటీ ట్రేడింగ్: మధ్యాహ్నం 2:20 నుంచి"
+   ],
+   "why": "స్టాక్ మార్కెట్‌లో షేర్లు కొనాలనుకునే, అమ్మాలనుకునే పెట్టుబడిదారులు ఈరోజు ప్రత్యేక సమయాలు తెలుసుకోవడం అవసరం.",
+   "d": "08.11.2026",
+   "t": "09:35",
+   "en": {
+    "h": "Special Diwali Muhurat trading session in stock markets today",
+    "p": "A special Muhurat trading session will be held in the stock markets today on the occasion of Diwali. A 15-minute pre-open session will run from 2:05 pm. After that, the equity trading session will begin at 2:20 pm. Investors should note the timings of this special festival-day session.",
+    "pts": [
+     "Special trading session on the occasion of Diwali",
+     "Pre-open: 15 minutes from 2:05 pm",
+     "Equity trading: from 2:20 pm"
+    ],
+    "why": "Investors who want to buy or sell shares need to know today's special timings.",
+    "cat": "India · Markets",
+    "statl": "Muhurat equity trading begins"
+   },
+   "hi": {
+    "h": "दिवाली पर आज शेयर बाज़ारों में विशेष मुहूर्त ट्रेडिंग",
+    "p": "दिवाली के अवसर पर आज शेयर बाज़ारों में विशेष मुहूर्त ट्रेडिंग सत्र होगा। दोपहर 2:05 बजे से 15 मिनट का प्री-ओपन सत्र चलेगा। इसके बाद दोपहर 2:20 बजे से इक्विटी ट्रेडिंग सत्र शुरू होगा। निवेशकों को त्योहार के दिन होने वाले इस विशेष सत्र का समय ध्यान में रखना चाहिए।",
+    "pts": [
+     "दिवाली के अवसर पर विशेष ट्रेडिंग सत्र",
+     "प्री-ओपन: दोपहर 2:05 बजे से 15 मिनट",
+     "इक्विटी ट्रेडिंग: दोपहर 2:20 बजे से"
+    ],
+    "why": "शेयर खरीदने या बेचने वाले निवेशकों के लिए आज का विशेष समय जानना ज़रूरी है।",
+    "cat": "भारत · बाज़ार",
+    "statl": "मुहूर्त इक्विटी ट्रेडिंग शुरू"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · యెమెన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "27",
+   "statl": "సనా ప్రావిన్స్ దాడుల్లో మృతులు",
+   "h": "యెమెన్ సనా ప్రావిన్స్‌లో వరుస దాడులు: కనీసం 27 మంది మృతి",
+   "p": "యెమెన్ రాజధాని సనాకు ఉత్తరాన ఉన్న అల్-షరియా గ్రామంపై జరిగిన వరుస దాడుల్లో కనీసం 27 మంది మరణించారని, సుమారు 30 మంది గాయపడ్డారని హూతీల ఆధ్వర్యంలోని సబా వార్తా సంస్థ తెలిపింది. మృతుల్లో ఎక్కువ మంది మహిళలు, పిల్లలేనని అక్కడి ఆరోగ్య శాఖ ప్రతినిధి చెప్పారు. ఈ దాడులకు సౌదీ నేతృత్వంలోని కూటమే కారణమని హూతీలు ఆరోపించగా, సౌదీ అరేబియా ఇంకా స్పందించలేదు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "కనీసం 27 మంది మృతి, సుమారు 30 మందికి గాయాలు",
+    "సౌదీ కూటమిపై హూతీల ఆరోపణ; సౌదీ స్పందించలేదు",
+    "మారిబ్, అల్-జౌఫ్ ప్రావిన్సుల్లో కొనసాగుతున్న పోరు"
+   ],
+   "why": "రియాద్‌లోని లక్ష్యాలపైనా దాడులు చేశామని హూతీలు చెప్పడంతో సౌదీలో ఉంటున్న భారతీయులకు ఈ పోరు ముఖ్యమైనది.",
+   "d": "08.11.2026",
+   "t": "09:35",
+   "en": {
+    "h": "Strikes in Yemen's Sanaa province kill at least 27",
+    "p": "At least 27 people were killed and about 30 injured in a series of strikes on al-Shariya village north of Yemen's capital Sanaa, the Houthi-run Saba news agency said. A health ministry spokesman there said most of the dead were women and children. The Houthis blamed the Saudi-led coalition, while Saudi Arabia has not yet responded.",
+    "pts": [
+     "At least 27 killed, about 30 injured",
+     "Houthis blame Saudi coalition; no Saudi response yet",
+     "Fighting continues in Marib and al-Jawf provinces"
+    ],
+    "why": "With the Houthis saying they also attacked targets in Riyadh, the fighting matters to Indians living in Saudi Arabia.",
+    "cat": "World · Yemen",
+    "statl": "Killed in Sanaa province strikes"
+   },
+   "hi": {
+    "h": "यमन के सना प्रांत में सिलसिलेवार हमले: कम से कम 27 की मौत",
+    "p": "हूती नियंत्रित सबा समाचार एजेंसी के अनुसार, यमन की राजधानी सना के उत्तर में अल-शरिया गांव पर हुए सिलसिलेवार हमलों में कम से कम 27 लोगों की मौत हुई और करीब 30 घायल हुए। वहां के स्वास्थ्य मंत्रालय के प्रवक्ता ने कहा कि मरने वालों में ज़्यादातर महिलाएं और बच्चे हैं। हूतियों ने सऊदी नेतृत्व वाले गठबंधन को ज़िम्मेदार ठहराया, जबकि सऊदी अरब ने अभी कोई प्रतिक्रिया नहीं दी है।",
+    "pts": [
+     "कम से कम 27 की मौत, करीब 30 घायल",
+     "हूतियों ने सऊदी गठबंधन पर आरोप लगाया; सऊदी चुप",
+     "मारिब और अल-जौफ़ प्रांतों में लड़ाई जारी"
+    ],
+    "why": "हूतियों के रियाद में भी ठिकानों पर हमले के दावे से यह लड़ाई सऊदी अरब में रहने वाले भारतीयों के लिए अहम है।",
+    "cat": "दुनिया · यमन",
+    "statl": "सना प्रांत के हमलों में मौतें"
+   }
+  },
   {
    "cat": "భారత్ · ఆహార భద్రత",
    "col": "--c-gov",
@@ -1619,500 +1765,6 @@
     "cat": "तेलंगाना · चुनाव",
     "statl": "स्नातक मतदाता पंजीकरण आवेदन"
    }
-  },
-  {
-   "cat": "తెలంగాణ · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "9 మంది",
-   "statl": "అధికారులకు ధిక్కరణ నోటీసులు",
-   "h": "హైడ్రా కమిషనర్ సహా 9 మంది అధికారులకు హైకోర్టు ధిక్కరణ నోటీసులు",
-   "p": "సంగారెడ్డి జిల్లా ఐలాపూర్ గ్రామంలో ఫామ్‌హౌస్ కూల్చివేతపై దాఖలైన కోర్టు ధిక్కరణ పిటిషన్‌లో ప్రతివాదులు సమాధానం ఇవ్వకపోవడంతో జస్టిస్ సి.వి. భాస్కర్ రెడ్డి ఫామ్-1 నోటీసులు జారీ చేశారు. హైడ్రా కమిషనర్ ఏ.వి. రంగనాథ్, సంగారెడ్డి కలెక్టర్ సహా తొమ్మిది మంది అధికారులు ఇందులో ఉన్నారు. 2024 సెప్టెంబర్ 25 మధ్యంతర ఉత్తర్వులు ఉన్నా ఏప్రిల్ 11న కూల్చివేశారని 98 ఏళ్ల పిటిషనర్ ఆరోపిస్తున్నారు.",
-   "pts": [
-    "జస్టిస్ సి.వి. భాస్కర్ రెడ్డి ఫామ్-1 నోటీసులు",
-    "హైడ్రా కమిషనర్, సంగారెడ్డి కలెక్టర్ ప్రతివాదులు",
-    "మధ్యంతర ఉత్తర్వుల ఉల్లంఘన అని పిటిషనర్ ఆరోపణ"
-   ],
-   "why": "కోర్టు ఉత్తర్వులు ఉన్న ఆస్తులపై చర్యల విషయంలో అధికారుల జవాబుదారీతనంపై ఈ కేసు ప్రభావం చూపనుంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-hc-seeks-response-from-hydraa-officials-in-contempt-plea-over-farmhouse-demolition",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "loc": "ఐలాపూర్",
-   "en": {
-    "h": "High Court issues contempt notices to HYDRAA chief, 8 other officials",
-    "p": "Justice C.V. Bhaskar Reddy issued Form-I notices after the respondents failed to file replies in a contempt petition over a farmhouse demolition at Ailapur village in Sangareddy district. HYDRAA Commissioner A.V. Ranganath, the Sangareddy Collector and seven other officials are among them. The 98-year-old petitioner alleges the demolition on April 11 despite a September 25, 2024 interim order.",
-    "pts": [
-     "Justice C.V. Bhaskar Reddy issues Form-I notices",
-     "HYDRAA Commissioner, Sangareddy Collector among respondents",
-     "Petitioner alleges violation of interim order"
-    ],
-    "why": "The case bears on officials' accountability when acting on properties protected by court orders.",
-    "cat": "Telangana · High Court",
-    "statl": "officials get contempt notices"
-   },
-   "hi": {
-    "h": "हाईकोर्ट ने हाइड्रा कमिश्नर समेत 9 अधिकारियों को अवमानना नोटिस भेजे",
-    "p": "संगारेड्डी ज़िले के ऐलापुर गांव में फार्महाउस गिराने के खिलाफ दायर अवमानना याचिका में प्रतिवादियों के जवाब न देने पर जस्टिस सी.वी. भास्कर रेड्डी ने फॉर्म-1 नोटिस जारी किए। हाइड्रा कमिश्नर ए.वी. रंगनाथ और संगारेड्डी कलेक्टर समेत नौ अधिकारी इनमें शामिल हैं। 98 वर्षीय याचिकाकर्ता का आरोप है कि 25 सितंबर 2024 के अंतरिम आदेश के बावजूद 11 अप्रैल को फार्महाउस गिराया गया।",
-    "pts": [
-     "जस्टिस सी.वी. भास्कर रेड्डी ने फॉर्म-1 नोटिस दिए",
-     "हाइड्रा कमिश्नर, संगारेड्डी कलेक्टर प्रतिवादी",
-     "याचिकाकर्ता का अंतरिम आदेश के उल्लंघन का आरोप"
-    ],
-    "why": "अदालती आदेश से सुरक्षित संपत्तियों पर कार्रवाई में अधिकारियों की जवाबदेही पर इस मामले का असर पड़ेगा।",
-    "cat": "तेलंगाना · हाईकोर्ट",
-    "statl": "अधिकारियों को अवमानना नोटिस"
-   },
-   "d": "07.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "ఏపీ · పరిషత్ ఫలితాలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "21/21",
-   "statl": "వి.మాడుగుల ఎంపీటీసీలు కూటమికే",
-   "h": "పరిషత్ ఫలితాలు: వి.మాడుగులలో 21 ఎంపీటీసీలూ కూటమికే; యు.కొత్తపల్లిలో జనసేన 11",
-   "p": "ఏపీ పరిషత్ ఎన్నికల లెక్కింపులో సాయంత్రం మండలాల వారీ ఫలితాలు వెలువడ్డాయి. అనకాపల్లి జిల్లా వి.మాడుగుల మండలంలోని 21 ఎంపీటీసీ స్థానాల్లో టీడీపీ 17, జనసేన 4 గెలుచుకోగా వైసీపీకి ఒక్కటీ దక్కలేదు. కాకినాడ జిల్లా యు.కొత్తపల్లిలో 15 స్థానాల్లో జనసేన 11, టీడీపీ 2, వైసీపీ 2 గెలిచాయి. గుంటూరు జిల్లా పొన్నూరు జెడ్పీటీసీని జనసేన గెలుచుకుంది.",
-   "pts": [
-    "వి.మాడుగుల: టీడీపీ 17, జనసేన 4 ఎంపీటీసీలు",
-    "యు.కొత్తపల్లి: జనసేన 11, టీడీపీ 2, వైసీపీ 2",
-    "పొన్నూరు జెడ్పీటీసీ జనసేన కైవసం"
-   ],
-   "why": "ఈ ఫలితాలతో ఆయా మండలాల్లో స్థానిక పాలన ఎవరి చేతుల్లో ఉంటుందో తేలుతోంది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-7th-november-2026-kjr-3705.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-anakapalli",
-   "loc": "వి.మాడుగుల",
-   "en": {
-    "h": "Parishad results: Alliance sweeps all 21 MPTCs in V. Madugula; Jana Sena wins 11 in U. Kothapalli",
-    "p": "Mandal-wise results came in on Saturday evening in the AP parishad election count. In V. Madugula mandal of Anakapalli district, TDP won 17 and Jana Sena 4 of the 21 MPTC seats, while YSRCP won none. In U. Kothapalli, Kakinada district, Jana Sena won 11 of 15 seats, TDP 2 and YSRCP 2. Jana Sena also won the Ponnuru ZPTC in Guntur district.",
-    "pts": [
-     "V. Madugula: TDP 17, Jana Sena 4 MPTCs",
-     "U. Kothapalli: Jana Sena 11, TDP 2, YSRCP 2",
-     "Jana Sena wins Ponnuru ZPTC"
-    ],
-    "why": "These results decide who will run local governance in these mandals.",
-    "cat": "AP · Parishad Results",
-    "statl": "V. Madugula MPTCs go to alliance"
-   },
-   "hi": {
-    "h": "परिषद नतीजे: वी. माडुगुला में सभी 21 एमपीटीसी गठबंधन के; यू. कोत्तपल्ली में जनसेना को 11",
-    "p": "आंध्र प्रदेश परिषद चुनाव की मतगणना में शनिवार शाम मंडलवार नतीजे आए। अनकापल्ली ज़िले के वी. माडुगुला मंडल की 21 एमपीटीसी सीटों में टीडीपी ने 17 और जनसेना ने 4 जीतीं, जबकि वाईएसआरसीपी को एक भी सीट नहीं मिली। काकीनाडा ज़िले के यू. कोत्तपल्ली में 15 सीटों में जनसेना 11, टीडीपी 2 और वाईएसआरसीपी 2 पर जीतीं। गुंटूर ज़िले की पोन्नूरु जेडपीटीसी सीट जनसेना ने जीती।",
-    "pts": [
-     "वी. माडुगुला: टीडीपी 17, जनसेना 4 एमपीटीसी",
-     "यू. कोत्तपल्ली: जनसेना 11, टीडीपी 2, वाईएसआरसीपी 2",
-     "पोन्नूरु जेडपीटीसी जनसेना के नाम"
-    ],
-    "why": "इन नतीजों से तय हो रहा है कि इन मंडलों में स्थानीय शासन किसके हाथ में रहेगा।",
-    "cat": "आंध्र प्रदेश · परिषद नतीजे",
-    "statl": "वी. माडुगुला एमपीटीसी गठबंधन को"
-   },
-   "d": "07.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "తెలంగాణ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "జూలై",
-   "statl": "అప్పటివరకు వర్షాలు లేవన్న సీఎం",
-   "h": "యాసంగిలో ఆరుతడి పంటలే వేయండి: రైతులకు సీఎం రేవంత్ సూచన",
-   "p": "యాసంగి సీజన్‌లో రైతులు ఆరుతడి పంటలు మాత్రమే సాగు చేయాలని, నీటిని పొదుపుగా వాడుకోవాలని ముఖ్యమంత్రి రేవంత్‌రెడ్డి శనివారం సూచించారు. ఎల్ నినో ప్రభావం కారణంగా వచ్చే జూలై వరకు వర్షాలు పడే అవకాశం లేదని ఆయన చెప్పారు. వికారాబాద్ జిల్లా దుద్యాల మండలం హకీంపేటలో వ్యవసాయ ప్రదర్శనను ప్రారంభించిన రోజే ఈ సూచన చేశారు.",
-   "pts": [
-    "యాసంగిలో ఆరుతడి పంటలే వేయాలని సూచన",
-    "జూలై వరకు వర్షాలు ఉండవన్న సీఎం",
-    "నీటిని పొదుపుగా వాడాలని రైతులకు పిలుపు"
-   ],
-   "why": "యాసంగి సాగుకు సిద్ధమవుతున్న తెలంగాణ రైతులు పంట ఎంపిక, నీటి వినియోగంపై జాగ్రత్త పడాల్సి ఉంటుంది.",
-   "src": "ETV Bharat",
-   "url": "https://etvbharat.com/te/state/live-blog--7th-november-2026-latest-top-news-information-across-telangana-tgs26110700388",
-   "sec": [
-    "telangana",
-    "agri",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "loc": "హకీంపేట",
-   "en": {
-    "h": "Sow only dry crops this Yasangi: CM Revanth Reddy tells farmers",
-    "p": "Chief Minister Revanth Reddy on Saturday urged farmers to grow only dry (irrigated-dry) crops in the Yasangi season and to use water sparingly. He said no rain is expected until next July because of El Nino. He made the appeal on the day he opened an agriculture expo at Hakimpet in Dudyal mandal, Vikarabad district.",
-    "pts": [
-     "Only dry crops advised for Yasangi",
-     "CM says no rain expected until July",
-     "Farmers urged to use water sparingly"
-    ],
-    "why": "Telangana farmers preparing for Yasangi sowing need to be careful about crop choice and water use.",
-    "cat": "Telangana · Agriculture",
-    "statl": "CM says no rain until then"
-   },
-   "hi": {
-    "h": "यासंगी में सिर्फ सूखी फसलें बोएं: किसानों से सीएम रेवंत रेड्डी",
-    "p": "मुख्यमंत्री रेवंत रेड्डी ने शनिवार को किसानों से यासंगी सीज़न में सिर्फ सूखी (कम पानी वाली) फसलें उगाने और पानी किफायत से इस्तेमाल करने की अपील की। उन्होंने कहा कि अल नीनो के कारण अगले जुलाई तक बारिश की संभावना नहीं है। उन्होंने यह अपील उसी दिन की जब विकाराबाद ज़िले के दुद्याल मंडल के हकीमपेट में कृषि प्रदर्शनी का उद्घाटन किया।",
-    "pts": [
-     "यासंगी में सिर्फ सूखी फसलों की सलाह",
-     "सीएम बोले, जुलाई तक बारिश नहीं",
-     "किसानों से पानी बचाने की अपील"
-    ],
-    "why": "यासंगी बुआई की तैयारी कर रहे तेलंगाना के किसानों को फसल चुनने और पानी के उपयोग में सावधानी बरतनी होगी।",
-    "cat": "तेलंगाना · कृषि",
-    "statl": "सीएम बोले, तब तक बारिश नहीं"
-   },
-   "d": "07.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "భారత్ · క్రికెట్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "ట్రేడ్",
-   "statl": "ఐపీఎల్ వేలానికి ముందు భారీ మార్పు",
-   "h": "పంజాబ్ కింగ్స్‌కు హార్దిక్ పాండ్యా; ముంబై ఇండియన్స్‌కు అర్ష్‌దీప్",
-   "p": "ఆల్‌రౌండర్ హార్దిక్ పాండ్యాను ముంబై ఇండియన్స్ పంజాబ్ కింగ్స్‌కు ట్రేడ్ చేసింది. బదులుగా పేసర్ అర్ష్‌దీప్ సింగ్ ముంబై జట్టులో చేరుతున్నాడు. ఈ నెలాఖరులో జరిగే ఐపీఎల్ వేలానికి ముందు ఈ మార్పిడి పూర్తయిందని ఐపీఎల్ వర్గాలు తెలిపాయి. శ్రేయస్ అయ్యర్ కెప్టెన్సీలో ఆడేందుకు హార్దిక్ సంతోషంగా ఉన్నాడని ఆ వర్గాలు చెప్పాయి.",
-   "pts": [
-    "హార్దిక్ పాండ్యా ముంబై నుంచి పంజాబ్ కింగ్స్‌కు",
-    "అర్ష్‌దీప్ సింగ్ ముంబై ఇండియన్స్‌కు",
-    "2024లో రోహిత్ స్థానంలో హార్దిక్ కెప్టెన్ అయ్యాడు"
-   ],
-   "why": "వచ్చే ఐపీఎల్ సీజన్‌లో ముంబై, పంజాబ్ జట్ల కూర్పు మారనుండటంతో అభిమానుల్లో ఆసక్తి పెరుగుతుంది.",
-   "src": "PTI, Telangana Today",
-   "url": "https://telanganatoday.com/hardik-pandya-traded-to-punjab-kings-arshdeep-singh-moves-to-mumbai-indians",
-   "sec": [
-    "sports",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "en": {
-    "h": "Hardik Pandya traded to Punjab Kings; Arshdeep Singh moves to Mumbai Indians",
-    "p": "Mumbai Indians have traded all-rounder Hardik Pandya to Punjab Kings. In return, pacer Arshdeep Singh joins Mumbai. IPL sources said the swap was completed ahead of the IPL auction later this month. They said Hardik is happy to play under Punjab Kings captain Shreyas Iyer.",
-    "pts": [
-     "Hardik Pandya moves from Mumbai to Punjab Kings",
-     "Arshdeep Singh joins Mumbai Indians",
-     "Hardik became captain in 2024, replacing Rohit"
-    ],
-    "why": "The line-ups of Mumbai and Punjab will change for the next IPL season, raising fans' interest.",
-    "cat": "India · Cricket",
-    "statl": "Big move ahead of IPL auction"
-   },
-   "hi": {
-    "h": "हार्दिक पांड्या पंजाब किंग्स में; अर्शदीप सिंह मुंबई इंडियंस में",
-    "p": "मुंबई इंडियंस ने ऑलराउंडर हार्दिक पांड्या को पंजाब किंग्स को ट्रेड कर दिया है। बदले में तेज़ गेंदबाज़ अर्शदीप सिंह मुंबई टीम में आ रहे हैं। आईपीएल सूत्रों ने बताया कि इस महीने के अंत में होने वाली आईपीएल नीलामी से पहले यह अदला-बदली पूरी हो गई। सूत्रों के मुताबिक हार्दिक श्रेयस अय्यर की कप्तानी में खेलने को लेकर खुश हैं।",
-    "pts": [
-     "हार्दिक पांड्या मुंबई से पंजाब किंग्स में",
-     "अर्शदीप सिंह मुंबई इंडियंस में",
-     "2024 में रोहित की जगह हार्दिक बने थे कप्तान"
-    ],
-    "why": "अगले आईपीएल सीज़न में मुंबई और पंजाब टीमों का स्वरूप बदलेगा, जिससे प्रशंसकों की दिलचस्पी बढ़ेगी।",
-    "cat": "भारत · क्रिकेट",
-    "statl": "आईपीएल नीलामी से पहले बड़ा बदलाव"
-   },
-   "d": "07.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "అస్సాం · డిబ్రూగఢ్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3",
-   "statl": "ఆయిల్ ఇండియా పేలుడులో మృతులు",
-   "h": "అస్సాం ఆయిల్ ఇండియా ట్యాంక్ ఫాంలో పేలుడు: మృతుల సంఖ్య 3కి",
-   "p": "అస్సాంలోని డిబ్రూగఢ్ జిల్లా టెంగాఖాట్‌లో ఆయిల్ ఇండియా లిమిటెడ్ ట్యాంక్ ఫాంలో శుక్రవారం నిర్వహణ పనుల సమయంలో పేలుడు, మంటలు సంభవించాయి. చికిత్స పొందుతూ మరో ఇద్దరు కార్మికులు శనివారం మరణించడంతో మృతుల సంఖ్య మూడుకు చేరింది. ప్రమాద సమయంలో అక్కడ ఉన్న తొమ్మిది మందిలో ఏడుగురు గాయపడగా, ముగ్గురి పరిస్థితి విషమంగా ఉంది.",
-   "pts": [
-    "మృతుల సంఖ్య మూడుకు పెరిగింది",
-    "ముగ్గురు క్షతగాత్రుల పరిస్థితి విషమం",
-    "మృతులకు ₹10 లక్షలు, గాయపడినవారికి ₹5 లక్షలు"
-   ],
-   "why": "చమురు సంస్థల్లో కార్మికుల భద్రతపై ఈ ప్రమాదం మరోసారి ప్రశ్నలు లేవనెత్తుతోంది; విచారణకు హామీ ఇచ్చారు.",
-   "src": "PTI, ThePrint",
-   "url": "https://theprint.in/india/toll-in-explosion-at-oil-facility-in-assam-rises-to-three/3093264/",
-   "sec": [
-    "india"
-   ],
-   "st": "AS",
-   "place": "IN",
-   "loc": "టెంగాఖాట్",
-   "en": {
-    "h": "Assam Oil India tank farm blast: death toll rises to 3",
-    "p": "An explosion and fire broke out at Oil India Limited's tank farm at Tengakhat in Assam's Dibrugarh district during maintenance work on Friday. The toll rose to three on Saturday after two more workers died during treatment. Of the nine people at the site, seven were injured and three remain critical.",
-    "pts": [
-     "Death toll rises to three",
-     "Three injured workers remain critical",
-     "Rs 10 lakh for deceased, Rs 5 lakh for injured"
-    ],
-    "why": "The accident again raises questions about worker safety at oil facilities; an inquiry has been assured.",
-    "cat": "Assam · Dibrugarh",
-    "statl": "Dead in Oil India blast"
-   },
-   "hi": {
-    "h": "असम में ऑयल इंडिया टैंक फार्म विस्फोट: मृतकों की संख्या 3 हुई",
-    "p": "असम के डिब्रूगढ़ ज़िले के टेंगाखाट में ऑयल इंडिया लिमिटेड के टैंक फार्म में शुक्रवार को रखरखाव के काम के दौरान विस्फोट हुआ और आग लग गई। इलाज के दौरान दो और कर्मचारियों की शनिवार को मौत हो गई, जिससे मृतकों की संख्या तीन हो गई। मौके पर मौजूद नौ लोगों में से सात घायल हुए और तीन की हालत गंभीर है।",
-    "pts": [
-     "मृतकों की संख्या बढ़कर तीन",
-     "तीन घायलों की हालत गंभीर",
-     "मृतकों को ₹10 लाख, घायलों को ₹5 लाख"
-    ],
-    "why": "यह हादसा तेल प्रतिष्ठानों में कर्मचारियों की सुरक्षा पर फिर सवाल उठाता है; जांच का भरोसा दिया गया है।",
-    "cat": "असम · डिब्रूगढ़",
-    "statl": "ऑयल इंडिया विस्फोट में मृतक"
-   },
-   "d": "07.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఫిన్‌టెక్",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "2047",
-   "statl": "తెలంగాణ రైజింగ్ విజన్ లక్ష్య సంవత్సరం",
-   "h": "హైదరాబాద్‌ను అంతర్జాతీయ ఫిన్‌టెక్ హబ్‌గా మారుస్తాం: శ్రీధర్ బాబు",
-   "p": "సింగపూర్‌కు చెందిన ఆర్థ ఫిన్‌టెక్ సంస్థ హైదరాబాద్ కార్యాలయాన్ని పరిశ్రమల శాఖ మంత్రి డి. శ్రీధర్ బాబు శనివారం ప్రారంభించారు. ఐటీ, ఐటీ ఆధారిత సేవల్లో ముందున్న హైదరాబాద్‌ను ఫిన్‌టెక్, డిజిటల్ బ్యాంకింగ్, అంతర్జాతీయ ఆర్థిక సేవలకు కేంద్రంగా తీర్చిదిద్దుతామని చెప్పారు. డిజిటల్ మౌలిక వసతులు, పరిశోధన, నైపుణ్యాలపై ప్రభుత్వం దృష్టి పెట్టిందన్నారు.",
-   "pts": [
-    "సింగపూర్ సంస్థ ఆర్థ ఫిన్‌టెక్ హైదరాబాద్ ఆఫీస్ ప్రారంభం",
-    "ఫిన్‌టెక్, డిజిటల్ బ్యాంకింగ్ రంగాలపై ప్రభుత్వ దృష్టి",
-    "తెలంగాణ రైజింగ్–2047 ద్వారా ప్రపంచ పెట్టుబడుల లక్ష్యం"
-   ],
-   "why": "ఫిన్‌టెక్ సంస్థలు హైదరాబాద్‌కు వస్తే ఆర్థిక సేవల రంగంలో ఉద్యోగ అవకాశాలు పెరగవచ్చు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-aims-to-become-international-fintech-and-financial-services-hub-says-sridhar-babu",
-   "sec": [
-    "telangana",
-    "business",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "en": {
-    "h": "Hyderabad to be made an international fintech hub: Sridhar Babu",
-    "p": "Industries Minister D. Sridhar Babu on Saturday inaugurated the Hyderabad office of Singapore-based Artha Fintech. He said Hyderabad, already a leader in IT and IT-enabled services, will be developed into a hub for fintech, digital banking and global financial services. The government is focusing on digital infrastructure, research and skills, he said.",
-    "pts": [
-     "Singapore firm Artha Fintech opens Hyderabad office",
-     "Government focus on fintech and digital banking",
-     "Telangana Rising–2047 aims to attract global investment"
-    ],
-    "why": "If fintech firms come to Hyderabad, job opportunities in financial services may grow.",
-    "cat": "Telangana · Fintech",
-    "statl": "Target year of Telangana Rising vision"
-   },
-   "hi": {
-    "h": "हैदराबाद को अंतरराष्ट्रीय फिनटेक हब बनाएंगे: श्रीधर बाबू",
-    "p": "उद्योग मंत्री डी. श्रीधर बाबू ने शनिवार को सिंगापुर की आर्था फिनटेक कंपनी के हैदराबाद कार्यालय का उद्घाटन किया। उन्होंने कहा कि आईटी और आईटी आधारित सेवाओं में आगे हैदराबाद को फिनटेक, डिजिटल बैंकिंग और वैश्विक वित्तीय सेवाओं का केंद्र बनाया जाएगा। सरकार डिजिटल बुनियादी ढांचे, अनुसंधान और कौशल पर ध्यान दे रही है।",
-    "pts": [
-     "सिंगापुर की आर्था फिनटेक का हैदराबाद कार्यालय शुरू",
-     "फिनटेक, डिजिटल बैंकिंग पर सरकार का ध्यान",
-     "तेलंगाना राइजिंग–2047 से वैश्विक निवेश का लक्ष्य"
-    ],
-    "why": "फिनटेक कंपनियां हैदराबाद आईं तो वित्तीय सेवा क्षेत्र में नौकरी के अवसर बढ़ सकते हैं।",
-    "cat": "तेलंगाना · फिनटेक",
-    "statl": "तेलंगाना राइजिंग विज़न का लक्ष्य वर्ष"
-   },
-   "d": "07.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "ఒడిశా · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "నవం. 20",
-   "statl": "స్కాలర్‌షిప్ దరఖాస్తుకు చివరి తేదీ",
-   "h": "ఒడిశాలో మెరిట్ స్కాలర్‌షిప్‌లకు కొత్త దరఖాస్తులు; నవంబర్ 20 వరకు గడువు",
-   "p": "ముఖ్యమంత్రి మేధావి ఛాత్ర ప్రోత్సాహన్ యోజన కింద 2026-27 విద్యా సంవత్సరానికి కొత్త విద్యార్థుల దరఖాస్తు తేదీలను ఒడిశా ఉన్నత విద్యా శాఖ ప్రకటించింది. అర్హులైన విద్యార్థులు నవంబర్ 5 నుంచి 20 వరకు రాష్ట్ర స్కాలర్‌షిప్ పోర్టల్‌లో ఆన్‌లైన్‌లో దరఖాస్తు చేయాలి. యూజీ, పీజీ, టెక్నికల్ మెరిట్ సహా ఐదు పథకాలు ఇందులో ఉన్నాయి.",
-   "pts": [
-    "దరఖాస్తులు scholarship.odisha.gov.in పోర్టల్‌లో మాత్రమే",
-    "కాలేజీలు నవంబర్ 30లోగా దరఖాస్తులు ధృవీకరించాలి",
-    "గోపబంధు పథకం ధృవీకరణ డిసెంబర్ 15 వరకు"
-   ],
-   "why": "ఒడిశాలో చదువుతున్న విద్యార్థులు స్కాలర్‌షిప్ కోల్పోకుండా గడువులోగా దరఖాస్తు చేసుకోవాలి.",
-   "src": "OmmCom News",
-   "url": "https://ommcomnews.com/odisha-news/odisha-govt-announces-fresh-scholarship-dates-under-medhabi-chhatra-protsahan-yojana/",
-   "sec": [
-    "india",
-    "education"
-   ],
-   "st": "OD",
-   "place": "st-OD",
-   "en": {
-    "h": "Odisha opens fresh merit scholarship applications; deadline November 20",
-    "p": "Odisha's Higher Education Department has announced the dates for fresh applications under the Mukhyamantri Medhabi Chhatra Protsahan Yojana for the 2026-27 academic year. Eligible students must apply online on the State Scholarship Portal between November 5 and 20. It covers five schemes, including UG, PG and technical merit scholarships.",
-    "pts": [
-     "Applications only on scholarship.odisha.gov.in portal",
-     "Colleges must verify applications by November 30",
-     "Gopabandhu scheme validation runs till December 15"
-    ],
-    "why": "Students in Odisha must apply before the deadline so they do not miss the scholarship.",
-    "cat": "Odisha · Education",
-    "statl": "Last date to apply for scholarship"
-   },
-   "hi": {
-    "h": "ओडिशा में मेरिट छात्रवृत्ति के नए आवेदन; 20 नवंबर तक मौका",
-    "p": "ओडिशा के उच्च शिक्षा विभाग ने मुख्यमंत्री मेधावी छात्र प्रोत्साहन योजना के तहत 2026-27 शैक्षणिक वर्ष के लिए नए छात्रों के आवेदन की तारीखें घोषित की हैं। पात्र छात्र 5 से 20 नवंबर तक राज्य छात्रवृत्ति पोर्टल पर ऑनलाइन आवेदन करें। इसमें यूजी, पीजी और तकनीकी मेरिट समेत पांच योजनाएं शामिल हैं।",
-    "pts": [
-     "आवेदन केवल scholarship.odisha.gov.in पोर्टल पर",
-     "कॉलेज 30 नवंबर तक आवेदनों का सत्यापन करें",
-     "गोपबंधु योजना का सत्यापन 15 दिसंबर तक"
-    ],
-    "why": "ओडिशा के छात्र छात्रवृत्ति न छूटे, इसलिए समय सीमा से पहले आवेदन करें।",
-    "cat": "ओडिशा · शिक्षा",
-    "statl": "छात्रवृत्ति आवेदन की अंतिम तिथि"
-   },
-   "d": "07.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · రైల్వే",
-   "col": "--c-money",
-   "art": "unity",
-   "stat": "2,000",
-   "statl": "హోల్డింగ్ ఏరియాల్లో ప్రయాణికుల సామర్థ్యం",
-   "h": "సికింద్రాబాద్ స్టేషన్‌లో రద్దీపై ఏఐ ‘సురక్ష’ నిఘా",
-   "p": "దీపావళి, ఛఠ్ పూజ రద్దీ దృష్ట్యా సికింద్రాబాద్ రైల్వే స్టేషన్‌లో ఆర్‌పీఎఫ్ ఏఐ ఆధారిత ‘సురక్ష’ వ్యవస్థను ప్రవేశపెట్టింది. ప్లాట్‌ఫాంలపై రద్దీ పెరిగితే ఇది సిబ్బందిని వెంటనే హెచ్చరిస్తుంది. 1,750 నుంచి 2,000 మంది ప్రయాణికులు ఉండేలా నాలుగు హోల్డింగ్ ఏరియాలు ఏర్పాటు చేశారు. చెల్లుబాటు టికెట్ ఉన్నవారికే స్టేషన్‌లోకి అనుమతి ఉంటుంది.",
-   "pts": [
-    "దానాపూర్, ఫలక్‌నుమా రైళ్లకు ప్రత్యేక క్యూలు",
-    "1, 10 ప్లాట్‌ఫాంలపై హెల్ప్ డెస్కులు",
-    "అదనపు సీసీటీవీ కెమెరాలతో రోజంతా పర్యవేక్షణ"
-   ],
-   "why": "పండుగ రద్దీలో సికింద్రాబాద్ నుంచి ప్రయాణించేవారు టికెట్‌తో, ముందుగానే స్టేషన్‌కు చేరుకోవాలి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/ai-powered-system-to-monitor-passenger-crowds-at-secunderabad-railway-station",
-   "sec": [
-    "telangana",
-    "ai"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "సికింద్రాబాద్",
-   "en": {
-    "h": "AI system 'Suraksha' to monitor crowds at Secunderabad station",
-    "p": "Ahead of the Diwali and Chhath Puja rush, the RPF has deployed its AI-based 'Suraksha' system at Secunderabad Railway Station. It instantly alerts staff when platforms get overcrowded. Four holding areas for 1,750 to 2,000 passengers have been set up. Entry to the station is allowed only for passengers with valid tickets.",
-    "pts": [
-     "Special queues for Danapur and Falaknuma trains",
-     "Help desks on Platforms 1 and 10",
-     "Round-the-clock watch with extra CCTV cameras"
-    ],
-    "why": "People travelling from Secunderabad during the festival rush should carry tickets and reach the station early.",
-    "cat": "Hyderabad · Railways",
-    "statl": "Passenger capacity of holding areas"
-   },
-   "hi": {
-    "h": "सिकंदराबाद स्टेशन पर भीड़ की निगरानी करेगा एआई 'सुरक्षा'",
-    "p": "दिवाली और छठ पूजा की भीड़ को देखते हुए आरपीएफ ने सिकंदराबाद रेलवे स्टेशन पर एआई आधारित 'सुरक्षा' प्रणाली लगाई है। प्लेटफॉर्म पर भीड़ बढ़ने पर यह कर्मचारियों को तुरंत सतर्क करती है। 1,750 से 2,000 यात्रियों के लिए चार होल्डिंग एरिया बनाए गए हैं। स्टेशन में प्रवेश केवल वैध टिकट वाले यात्रियों को मिलेगा।",
-    "pts": [
-     "दानापुर, फलकनुमा ट्रेनों के लिए विशेष कतारें",
-     "प्लेटफॉर्म 1 और 10 पर हेल्प डेस्क",
-     "अतिरिक्त सीसीटीवी कैमरों से चौबीसों घंटे निगरानी"
-    ],
-    "why": "त्योहार की भीड़ में सिकंदराबाद से यात्रा करने वाले टिकट के साथ जल्दी स्टेशन पहुंचें।",
-    "cat": "हैदराबाद · रेलवे",
-    "statl": "होल्डिंग एरिया में यात्रियों की क्षमता"
-   },
-   "d": "07.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "వన్‌వే",
-   "statl": "లక్డీకాపూల్ వద్ద ప్రతిపాదిత కొత్త విధానం",
-   "h": "లక్డీకాపూల్ రద్దీ తగ్గింపునకు వన్‌వే వ్యవస్థ యోచన",
-   "p": "లక్డీకాపూల్ ప్రాంతంలో వాహనాలు ఆగకుండా సాగేందుకు హైదరాబాద్ ట్రాఫిక్ పోలీసులు కొత్త వన్‌వే వ్యవస్థను రూపొందిస్తున్నారు. సీపీ వీసీ సజ్జనార్ శుక్రవారం బైక్‌పై ద్వారక హోటల్, ఇక్బాల్ మినార్, రవీంద్రభారతి, ఓల్డ్ కంట్రోల్ రూమ్ మార్గాన్ని పరిశీలించారు. కొన్ని మార్గాల్లో వాహనదారులు మళ్లింపు దారుల్లో వెళ్లాల్సి రావచ్చు. ముందుగా ప్రయోగాత్మకంగా అమలు చేస్తారు.",
-   "pts": [
-    "జీహెచ్‌ఎంసీ, జలమండలితో త్వరలో సమన్వయ సమావేశం",
-    "కేబీఆర్ పార్క్ వద్ద మరో లేన్ ఏర్పాటు",
-    "నగరంలో ఇతర రద్దీ ప్రాంతాల్లోనూ వన్‌వే యోచన"
-   ],
-   "why": "సచివాలయం, అసెంబ్లీ పరిసరాల్లో రోజూ ప్రయాణించే వాహనదారుల దారులు మారే అవకాశం ఉంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hyderabad-police-plan-one-way-system-to-ease-lakdi-ka-pul-traffic-3571089/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "లక్డీకాపూల్",
-   "en": {
-    "h": "Hyderabad police plan one-way system to ease Lakdi-ka-Pul traffic",
-    "p": "Hyderabad Traffic Police are designing a new one-way system so vehicles can move without stopping in the Lakdi-ka-Pul area. CP VC Sajjanar rode a motorcycle on Friday to inspect the Dwaraka Hotel, Iqbal Minar, Ravindra Bharathi and Old Control Room stretch. Motorists may have to take diverted routes on some roads. It will first be introduced on a trial basis.",
-    "pts": [
-     "Coordination meeting with GHMC, water board soon",
-     "Another lane to be added at KBR Park",
-     "One-way systems considered for other congested areas"
-    ],
-    "why": "Daily motorists around the Secretariat and Assembly area may see their routes change.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Proposed new system at Lakdi-ka-Pul"
-   },
-   "hi": {
-    "h": "लकड़ी-का-पुल पर जाम घटाने के लिए वन-वे व्यवस्था की योजना",
-    "p": "लकड़ी-का-पुल इलाके में वाहन बिना रुके चलें, इसके लिए हैदराबाद ट्रैफिक पुलिस नई वन-वे व्यवस्था तैयार कर रही है। सीपी वीसी सज्जनार ने शुक्रवार को बाइक पर द्वारका होटल, इकबाल मीनार, रवींद्र भारती और ओल्ड कंट्रोल रूम मार्ग का निरीक्षण किया। कुछ मार्गों पर वाहन चालकों को डायवर्जन से जाना पड़ सकता है। पहले इसे प्रायोगिक तौर पर लागू किया जाएगा।",
-    "pts": [
-     "जीएचएमसी, जल बोर्ड के साथ जल्द समन्वय बैठक",
-     "केबीआर पार्क पर एक और लेन बनेगी",
-     "शहर के अन्य भीड़भाड़ वाले इलाकों में भी वन-वे पर विचार"
-    ],
-    "why": "सचिवालय और विधानसभा के आसपास रोज़ आने-जाने वाले वाहन चालकों के रास्ते बदल सकते हैं।",
-    "cat": "हैदराबाद · ट्रैफिक",
-    "statl": "लकड़ी-का-पुल पर प्रस्तावित नई व्यवस्था"
-   },
-   "d": "07.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "క్రీడలు · బాక్సింగ్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "23.01.2027",
-   "statl": "గోయత్–పెట్టిస్ బౌట్ తేదీ",
-   "h": "గోయత్–పెట్టిస్ బాక్సింగ్ పోరుకు హైదరాబాద్, విశాఖ, చెన్నై పోటీ",
-   "p": "భారత బాక్సర్ నీరజ్ గోయత్, మాజీ యూఎఫ్‌సీ ఛాంపియన్ ఆంథోనీ పెట్టిస్ మధ్య 2027 జనవరి 23న జరిగే బౌట్‌కు ఆతిథ్యం కోసం హైదరాబాద్, విశాఖపట్నం, చెన్నై పోటీపడుతున్నాయి. దేశంలో అతిపెద్ద ప్రొఫెషనల్ బాక్సింగ్ ఈవెంట్‌గా దీనిని పేర్కొన్నారు. నగరం, వేదిక, టికెట్ వివరాలను రాబోయే వారాల్లో ప్రకటిస్తారు.",
-   "pts": [
-    "ఐపీబీఎల్, ఐబీసీ, ఎంవీపీ సంయుక్త నిర్వహణ",
-    "చెన్నైకే తన మొగ్గు అన్న జేక్ పాల్",
-    "తేదీ ఖరారైందన్న ఐపీబీఎల్ సీఈవో"
-   ],
-   "why": "ఆతిథ్యం దక్కితే హైదరాబాద్ లేదా విశాఖ అభిమానులు అంతర్జాతీయ స్థాయి బౌట్‌ను ప్రత్యక్షంగా చూడొచ్చు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-vizag-and-chennai-vie-to-host-goyat-pettis-boxing-clash",
-   "sec": [
-    "telangana",
-    "sports"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "en": {
-    "h": "Hyderabad, Vizag, Chennai vie to host Goyat-Pettis boxing clash",
-    "p": "Hyderabad, Visakhapatnam and Chennai are competing to host the bout between Indian boxer Neeraj Goyat and former UFC champion Anthony Pettis on January 23, 2027. It has been billed as the biggest professional boxing event in the country. The city, venue and ticket details will be announced in the coming weeks.",
-    "pts": [
-     "Organised by IPBL with IBC and MVP",
-     "Jake Paul says he prefers Chennai",
-     "IPBL CEO says the date is fixed"
-    ],
-    "why": "If chosen, fans in Hyderabad or Vizag could watch a world-class bout live.",
-    "cat": "Sports · Boxing",
-    "statl": "Date of Goyat-Pettis bout"
-   },
-   "hi": {
-    "h": "गोयत-पेटिस बॉक्सिंग मुकाबले की मेज़बानी के लिए हैदराबाद, विशाखापत्तनम, चेन्नई में होड़",
-    "p": "भारतीय मुक्केबाज़ नीरज गोयत और पूर्व यूएफसी चैंपियन एंथनी पेटिस के बीच 23 जनवरी 2027 को होने वाले मुकाबले की मेज़बानी के लिए हैदराबाद, विशाखापत्तनम और चेन्नई होड़ में हैं। इसे देश का सबसे बड़ा प्रोफेशनल बॉक्सिंग इवेंट बताया गया है। शहर, स्थल और टिकट की जानकारी आने वाले हफ्तों में घोषित होगी।",
-    "pts": [
-     "आईपीबीएल, आईबीसी और एमवीपी का संयुक्त आयोजन",
-     "जेक पॉल ने चेन्नई को अपनी पसंद बताया",
-     "आईपीबीएल सीईओ बोले, तारीख तय है"
-    ],
-    "why": "मेज़बानी मिली तो हैदराबाद या विशाखापत्तनम के प्रशंसक विश्व स्तरीय मुकाबला सीधे देख सकेंगे।",
-    "cat": "खेल · बॉक्सिंग",
-    "statl": "गोयत-पेटिस मुकाबले की तारीख"
-   },
-   "d": "07.11.2026",
-   "t": "18:05"
   },
   {
    "cat": "ఆలేరు · ఎమ్మెల్యే పర్యటన",
