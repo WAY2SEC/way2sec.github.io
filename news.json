@@ -1,8 +1,105 @@
 {
- "date": "07.11.2026",
- "updated": "2026-11-07T22:10:03+05:30",
+ "date": "08.11.2026",
+ "updated": "2026-11-08T07:07:33+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "473",
+   "statl": "కూటమి గెలిచిన జడ్పీటీసీ స్థానాలు",
+   "h": "ఏపీ పరిషత్ ఫలితాలు: 473 జడ్పీటీసీలు, 5,819 ఎంపీటీసీలు కూటమికి",
+   "p": "ఆంధ్రప్రదేశ్ పరిషత్ ఎన్నికల ఫలితాల్లో శనివారం అర్ధరాత్రి 2 గంటల వరకు కూటమి 473 జడ్పీటీసీ స్థానాలు గెలుచుకుంది. ఇందులో టీడీపీ 384, జనసేన 70, బీజేపీ 19. వైఎస్ఆర్‌సీపీ 57, ఇతరులు 4 గెలిచారు. ఎంపీటీసీల్లో కూటమి 5,819, వైఎస్ఆర్‌సీపీ 1,583, ఇతరులు 187 స్థానాలు సాధించారు. రాష్ట్రంలో మొత్తం 659 జడ్పీటీసీ, 9,821 ఎంపీటీసీ స్థానాలు ఉన్నాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "77 జడ్పీటీసీలు, 2,051 ఎంపీటీసీలు ఏకగ్రీవం",
+    "తిరుపతి జిల్లాలో 35 జడ్పీటీసీల్లో టీడీపీకి 25",
+    "వైఎస్ఆర్‌సీపీకి తిరుపతి జిల్లాలో 7 జడ్పీటీసీలు"
+   ],
+   "why": "గ్రామీణ స్థానిక పాలన, జిల్లా పరిషత్ పగ్గాలు ఎవరి చేతికి వెళ్తాయో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
+   "d": "08.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "AP parishad results: alliance wins 473 ZPTC, 5,819 MPTC seats",
+    "p": "In Andhra Pradesh's parishad election results, the alliance had won 473 ZPTC seats by 2 am on Saturday night. Of these, TDP won 384, Jana Sena 70 and BJP 19. YSRCP won 57 and others 4. In MPTC seats, the alliance won 5,819, YSRCP 1,583 and others 187. The state has 659 ZPTC and 9,821 MPTC seats in all.",
+    "pts": [
+     "77 ZPTC, 2,051 MPTC seats elected unopposed",
+     "TDP wins 25 of 35 ZPTC seats in Tirupati district",
+     "YSRCP wins 7 ZPTC seats in Tirupati district"
+    ],
+    "why": "These results decide who will control rural local bodies and zilla parishads.",
+    "cat": "Andhra Pradesh · Parishad polls",
+    "statl": "ZPTC seats won by the alliance"
+   },
+   "hi": {
+    "h": "आंध्र परिषद नतीजे: गठबंधन को 473 जेडपीटीसी, 5,819 एमपीटीसी सीटें",
+    "p": "आंध्र प्रदेश परिषद चुनाव के नतीजों में शनिवार रात 2 बजे तक गठबंधन ने 473 जेडपीटीसी सीटें जीत लीं। इनमें टीडीपी 384, जनसेना 70 और बीजेपी 19 हैं। वाईएसआरसीपी ने 57 और अन्य ने 4 सीटें जीतीं। एमपीटीसी में गठबंधन को 5,819, वाईएसआरसीपी को 1,583 और अन्य को 187 सीटें मिलीं। राज्य में कुल 659 जेडपीटीसी और 9,821 एमपीटीसी सीटें हैं।",
+    "pts": [
+     "77 जेडपीटीसी, 2,051 एमपीटीसी सीटें निर्विरोध",
+     "तिरुपति जिले की 35 में से 25 जेडपीटीसी टीडीपी को",
+     "तिरुपति जिले में वाईएसआरसीपी को 7 जेडपीटीसी"
+    ],
+    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्थानीय निकाय और जिला परिषद किसके हाथ में होंगे।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "गठबंधन की जीती जेडपीटीसी सीटें"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "4.5 లక్షలు",
+   "statl": "చేయూత పింఛన్ల లబ్ధిదారులు",
+   "h": "4.5 లక్షల మందికి చేయూత పింఛన్లు; కొడంగల్‌లో సీఎం చేతుల మీదుగా పత్రాలు",
+   "p": "రాష్ట్రవ్యాప్తంగా 4.5 లక్షల మందికి చేయూత పింఛన్లు అందనున్నాయి. ముఖ్యమంత్రి రేవంత్ రెడ్డి ఆదివారం కొడంగల్‌లో లబ్ధిదారులకు మంజూరు పత్రాలు అందజేస్తారు. ఈ నెల 19 నుంచి పింఛన్ డబ్బు జమ అయ్యేలా ప్రభుత్వం ఏర్పాట్లు చేసింది. హకీంపేటలో మహిళా స్వయం సహాయక సంఘాలతో సీఎం భేటీ అవుతారు, లగచర్లలో పామాయిల్ పరిశ్రమకు శంకుస్థాపన చేస్తారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-latest-top-news-information-across-telangana-tgs26110800358",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "కొడంగల్",
+   "pts": [
+    "నవంబర్ 19 నుంచి పింఛన్ డబ్బు జమ",
+    "హకీంపేటలో జడ్పీ స్కూల్, కాలేజీ, పీహెచ్‌సీ ప్రారంభం",
+    "రాష్ట్రవ్యాప్తంగా 'మా ఇందిరమ్మ ఇంట్లో దీపావళి' వేడుకలు"
+   ],
+   "why": "కొత్తగా మంజూరైన లక్షలాది పింఛన్‌దారులకు ఈ నెల నుంచే నెలవారీ ఆర్థిక సాయం అందుతుంది.",
+   "d": "08.11.2026",
+   "t": "07:05",
+   "en": {
+    "h": "Cheyutha pensions for 4.5 lakh people; CM to hand over letters in Kodangal",
+    "p": "Cheyutha pensions will be given to 4.5 lakh people across Telangana. Chief Minister Revanth Reddy will hand over sanction letters to beneficiaries in Kodangal on Sunday. The government has arranged for the pension money to be credited from the 19th of this month. The CM will meet women's self-help groups in Hakimpet and lay the foundation stone for a palm oil industry in Lagacherla.",
+    "pts": [
+     "Pension money to be credited from November 19",
+     "ZP school, college and PHC to open in Hakimpet",
+     "'Maa Indiramma Intlo Deepavali' celebrations statewide"
+    ],
+    "why": "Lakhs of newly sanctioned pensioners will get monthly financial support starting this month.",
+    "cat": "Telangana · Welfare",
+    "statl": "Cheyutha pension beneficiaries"
+   },
+   "hi": {
+    "h": "4.5 लाख लोगों को चेयूता पेंशन; कोडंगल में सीएम सौंपेंगे पत्र",
+    "p": "तेलंगाना भर में 4.5 लाख लोगों को चेयूता पेंशन मिलेगी। मुख्यमंत्री रेवंत रेड्डी रविवार को कोडंगल में लाभार्थियों को मंजूरी पत्र सौंपेंगे। सरकार ने इस महीने की 19 तारीख से पेंशन की राशि जमा करने की व्यवस्था की है। सीएम हकीमपेट में महिला स्वयं सहायता समूहों से मिलेंगे और लगचर्ला में पाम ऑयल उद्योग की नींव रखेंगे।",
+    "pts": [
+     "19 नवंबर से पेंशन राशि जमा होगी",
+     "हकीमपेट में जेडपी स्कूल, कॉलेज और पीएचसी का उद्घाटन",
+     "राज्य भर में 'मा इंदिरम्मा इंट्लो दीपावली' कार्यक्रम"
+    ],
+    "why": "नई मंजूर लाखों पेंशनधारकों को इसी महीने से मासिक आर्थिक मदद मिलेगी।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "चेयूता पेंशन लाभार्थी"
+   }
+  },
   {
    "cat": "🪔 దీపావళి · వైరల్ వీడియో",
    "col": "--c-city",
@@ -1795,249 +1892,6 @@
     ],
     "why": "नहर और नाली का काम होने से गाँव में सिंचाई और सफ़ाई की समस्याएँ कम होंगी।"
    }
-  },
-  {
-   "cat": "తెలంగాణ · పెన్షనర్లు",
-   "col": "--c-gov",
-   "art": "deadline",
-   "stat": "నవం. 30",
-   "statl": "డిజిటల్ లైఫ్ సర్టిఫికెట్ ప్రచారం చివరి తేదీ",
-   "h": "పెన్షనర్లకు తపాలా శాఖ డిజిటల్ లైఫ్ సర్టిఫికెట్ 5.0 ప్రచారం",
-   "p": "తెలంగాణలోని పెన్షనర్ల కోసం తపాలా శాఖ, ఇండియా పోస్ట్ పేమెంట్స్ బ్యాంక్ కలిసి డిజిటల్ లైఫ్ సర్టిఫికెట్ (డీఎల్‌సీ) 5.0 ప్రచారాన్ని ప్రారంభించాయి. పెన్షన్, పెన్షనర్ల సంక్షేమ విభాగం సహకారంతో నవంబర్ 1 నుంచి 30 వరకు ఇది కొనసాగుతుంది. రాష్ట్రంలోని 33 జిల్లాలు, 621 ఉప జిల్లాల్లోని ఎంపిక చేసిన హెడ్, సబ్ పోస్టాఫీసుల్లో ఈ సేవ అందుబాటులో ఉంటుంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/india-post-launches-digital-life-certificate-5-0-campaign-across-telangana",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "సర్టిఫికెట్ రుసుము జీఎస్టీతో కలిపి ₹70",
-    "ఈపీఎఫ్‌ఓ, టెలికాం, రక్షణ శాఖ పెన్షనర్లకు ఉచితం",
-    "ఆధార్ నంబర్, పెన్షన్ వివరాలు తీసుకెళ్లాలి"
-   ],
-   "why": "పెన్షన్ ఆగకుండా ఉండాలంటే ఏటా సమర్పించాల్సిన లైఫ్ సర్టిఫికెట్‌ను సమీప పోస్టాఫీసులోనే పొందవచ్చు.",
-   "en": {
-    "h": "India Post launches Digital Life Certificate 5.0 campaign for pensioners",
-    "p": "The Department of Posts and India Post Payments Bank have launched the Digital Life Certificate (DLC) 5.0 campaign for pensioners in Telangana. Run with the Department of Pension and Pensioners' Welfare, it continues from November 1 to 30. The service is available at designated head and sub-post offices across the state's 33 districts and 621 sub-districts.",
-    "pts": [
-     "Certificate fee is ₹70 including GST",
-     "Free for EPFO, Telecom and Defence pensioners",
-     "Carry Aadhaar number and pension details"
-    ],
-    "why": "Pensioners can get the yearly life certificate needed to keep their pension flowing at a nearby post office.",
-    "cat": "Telangana · Pensioners",
-    "statl": "Last date of Digital Life Certificate campaign"
-   },
-   "hi": {
-    "h": "पेंशनरों के लिए डाक विभाग का डिजिटल जीवन प्रमाणपत्र 5.0 अभियान",
-    "p": "तेलंगाना के पेंशनरों के लिए डाक विभाग और इंडिया पोस्ट पेमेंट्स बैंक ने मिलकर डिजिटल जीवन प्रमाणपत्र (डीएलसी) 5.0 अभियान शुरू किया है। पेंशन और पेंशनभोगी कल्याण विभाग के सहयोग से यह 1 से 30 नवंबर तक चलेगा। राज्य के 33 ज़िलों और 621 उप-ज़िलों के चुने हुए प्रधान और उप डाकघरों में यह सेवा उपलब्ध है।",
-    "pts": [
-     "प्रमाणपत्र शुल्क जीएसटी सहित ₹70",
-     "ईपीएफओ, दूरसंचार और रक्षा पेंशनरों के लिए मुफ्त",
-     "आधार नंबर और पेंशन विवरण साथ ले जाएं"
-    ],
-    "why": "पेंशन जारी रखने के लिए हर साल ज़रूरी जीवन प्रमाणपत्र अब पास के डाकघर में ही बन सकता है।",
-    "cat": "तेलंगाना · पेंशनर",
-    "statl": "डिजिटल जीवन प्रमाणपत्र अभियान की अंतिम तिथि"
-   },
-   "d": "07.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · అగ్నిమాపక",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "134",
-   "statl": "నగరంలో అగ్నిమాపక కేంద్రాలు, ఔట్‌పోస్టులు",
-   "h": "నీటి కొరత భయం: హైదరాబాద్‌లో ప్రత్యామ్నాయ అగ్నిమాపక పద్ధతులు",
-   "p": "ఎండలు, విద్యుత్ డిమాండ్ పెరగడం, తరచూ అగ్నిప్రమాదాలతో హైదరాబాద్‌లో మంటలార్పేందుకు నీటి లభ్యతపై ఆందోళన నెలకొంది. పెద్ద భవనాలు, గోదాముల్లో ప్రమాదాలకు 50 వేల నుంచి కొన్ని లక్షల లీటర్ల నీరు అవసరం. అందుకే సీఓ2 గ్యాస్, రసాయన స్ప్రేలు, సంప్రదాయ పద్ధతులు వాడాలని అగ్నిమాపక శాఖ యోచిస్తోంది. ప్రస్తుతానికి నీటి కొరత లేదని అధికారులు తెలిపారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/alternative-firefighting-methods-planned-amid-fears-of-water-scarcity-in-hyderabad",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "నగరంలో 119 స్టేషన్లు, 15 ఔట్‌పోస్టులు; 2,057 సిబ్బంది",
-    "నివారణే ఉత్తమ మార్గమని జిల్లా ఫైర్ ఆఫీసర్ వెంకన్న",
-    "జల మండలి ఫిల్లింగ్ స్టేషన్లు దూరం కావడం సమస్య"
-   ],
-   "why": "అగ్నిప్రమాదాల్లో సమయానికి నీరు అందడం నగరవాసుల ప్రాణ, ఆస్తి రక్షణకు కీలకం.",
-   "en": {
-    "h": "Water scarcity fears: Hyderabad plans alternative firefighting methods",
-    "p": "Rising heat, higher power demand and frequent fires have raised concern over water availability for firefighting in Hyderabad. Fires in big buildings and warehouses can need 50,000 to several lakh litres of water. So the fire department plans to use CO2 gas, chemical sprays and traditional methods. Officials said there is no water shortage for now.",
-    "pts": [
-     "City has 119 stations, 15 outposts; 2,057 staff",
-     "Prevention is best, says District Fire Officer Venkanna",
-     "Distance to water board filling stations is a concern"
-    ],
-    "why": "Timely water supply during fires is vital to protect lives and property of city residents.",
-    "cat": "Hyderabad · Fire Services",
-    "statl": "Fire stations and outposts in the city"
-   },
-   "hi": {
-    "h": "पानी की कमी की आशंका: हैदराबाद में आग बुझाने के वैकल्पिक तरीके",
-    "p": "गर्मी, बिजली की बढ़ती मांग और लगातार आग की घटनाओं से हैदराबाद में आग बुझाने के लिए पानी की उपलब्धता पर चिंता बढ़ी है। बड़ी इमारतों और गोदामों की आग में 50 हज़ार से कई लाख लीटर पानी लग सकता है। इसलिए अग्निशमन विभाग CO2 गैस, रासायनिक स्प्रे और पारंपरिक तरीके अपनाने की योजना बना रहा है। अधिकारियों ने कहा कि फिलहाल पानी की कमी नहीं है।",
-    "pts": [
-     "शहर में 119 स्टेशन, 15 चौकियां; 2,057 कर्मचारी",
-     "ज़िला अग्निशमन अधिकारी वेंकन्ना: रोकथाम सबसे अच्छा उपाय",
-     "जल बोर्ड के फिलिंग स्टेशनों की दूरी एक समस्या"
-    ],
-    "why": "आग लगने पर समय पर पानी मिलना शहरवासियों की जान-माल की सुरक्षा के लिए ज़रूरी है।",
-    "cat": "हैदराबाद · अग्निशमन",
-    "statl": "शहर में अग्निशमन केंद्र और चौकियां"
-   },
-   "d": "07.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ప్రపంచం · సౌదీ అరేబియా",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "1 లక్ష+",
-   "statl": "హజ్ కమిటీ ద్వారా వెళ్లనున్న భారత యాత్రికులు",
-   "h": "హజ్ 2027 ఏర్పాట్లు: జెడ్డాలో కేంద్ర మంత్రి కిరణ్ రిజిజు పర్యటన",
-   "p": "కేంద్ర మైనారిటీ, పార్లమెంటరీ వ్యవహారాల మంత్రి కిరణ్ రిజిజు సౌదీ అరేబియాలో జరుగుతున్న 6వ హజ్ సదస్సు, ప్రదర్శనలో పాల్గొనేందుకు జెడ్డా వెళ్లారు. సౌదీతో ద్వైపాక్షిక హజ్ ఒప్పందంపై సంతకం చేసి, హజ్ 2027 ఏర్పాట్లను సమీక్షించనున్నారు. శనివారం ఆయన జెడ్డాలోని ప్రసిద్ధ 'ఫ్లోటింగ్ మసీదు'ను సందర్శించారు.",
-   "src": "IANS, Siasat Daily",
-   "url": "https://www.siasat.com/kiren-rijiju-visits-jeddahs-iconic-floating-mosque-3571207/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "loc": "జెడ్డా",
-   "pts": [
-    "విమానాశ్రయంలో కాన్సుల్ జనరల్ ఫహద్ సూరి స్వాగతం",
-    "జెడ్డా హజ్ టెర్మినల్, హరమైన్ రైల్వే స్టేషన్ కీలకం",
-    "అక్టోబర్ 4నే రాయబారి ఏర్పాట్లపై సౌదీ మంత్రితో చర్చ"
-   ],
-   "why": "వచ్చే ఏడాది హజ్‌కు వెళ్లే తెలుగు రాష్ట్రాల సహా దేశవ్యాప్త యాత్రికుల ఏర్పాట్లు ఈ ఒప్పందంపై ఆధారపడతాయి.",
-   "en": {
-    "h": "Haj 2027 preparations: Union Minister Kiren Rijiju visits Jeddah",
-    "p": "Union Minority and Parliamentary Affairs Minister Kiren Rijiju has gone to Jeddah to take part in the 6th Haj Conference and Exhibition in Saudi Arabia. He is to sign a bilateral Haj agreement with Saudi Arabia and review Haj 2027 preparations. On Saturday he visited Jeddah's famous 'Floating Mosque'.",
-    "pts": [
-     "Received at airport by Consul General Fahad Suri",
-     "Jeddah Haj Terminal, Haramain railway station are key",
-     "Ambassador discussed preparations with Saudi minister on October 4"
-    ],
-    "why": "Arrangements for next year's Haj pilgrims across India, including the Telugu states, depend on this agreement.",
-    "cat": "World · Saudi Arabia",
-    "statl": "Indian pilgrims to travel via Haj Committee"
-   },
-   "hi": {
-    "h": "हज 2027 की तैयारी: केंद्रीय मंत्री किरेन रिजिजू जेद्दा पहुंचे",
-    "p": "केंद्रीय अल्पसंख्यक और संसदीय कार्य मंत्री किरेन रिजिजू सऊदी अरब में हो रहे छठे हज सम्मेलन और प्रदर्शनी में हिस्सा लेने जेद्दा गए हैं। वे सऊदी अरब के साथ द्विपक्षीय हज समझौते पर हस्ताक्षर करेंगे और हज 2027 की तैयारियों की समीक्षा करेंगे। शनिवार को उन्होंने जेद्दा की मशहूर 'फ्लोटिंग मस्जिद' का दौरा किया।",
-    "pts": [
-     "हवाई अड्डे पर कॉन्सुल जनरल फहद सूरी ने स्वागत किया",
-     "जेद्दा हज टर्मिनल और हरमैन रेलवे स्टेशन अहम",
-     "4 अक्टूबर को राजदूत ने सऊदी मंत्री से तैयारियों पर चर्चा की"
-    ],
-    "why": "अगले साल हज जाने वाले तेलुगु राज्यों समेत देशभर के यात्रियों की व्यवस्था इस समझौते पर निर्भर है।",
-    "cat": "दुनिया · सऊदी अरब",
-    "statl": "हज कमेटी के ज़रिए जाने वाले भारतीय यात्री"
-   },
-   "d": "07.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "7 షరతులు",
-   "statl": "హార్ముజ్ తెరిచేందుకు ఇరాన్ పెట్టిన షరతులు",
-   "h": "అమెరికా మళ్లీ దాడి చేస్తే భౌగోళిక పరిమితులు లేకుండా ప్రతిస్పందన: ఇరాన్",
-   "p": "అమెరికా మరోసారి దాడి చేస్తే మధ్యప్రాచ్యం బయట ఉన్న అమెరికా స్థావరాలపైనా తక్షణం సైనికంగా స్పందిస్తామని ఇరాన్ సైన్యం ప్రతినిధి మొహమ్మద్ అక్రమినియా శనివారం హెచ్చరించారు. ఫిబ్రవరి 28న యుద్ధం మొదలైనప్పటి కంటే తమ బలగాలు బలంగా ఉన్నాయన్నారు. ట్రంప్ ప్రభుత్వం తమ ఏడు షరతులను అంగీకరిస్తేనే హార్ముజ్ జలసంధి తెరుచుకుంటుందని చెప్పారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/iran-vows-no-geographical-limits-to-retaliation-against-us-3571161/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "కేష్మ్ దీవిపై పరిమిత దాడులను ట్రంప్ ధృవీకరించారు",
-    "చర్చల్లో గణనీయ పురోగతి ఉందని ట్రంప్ వ్యాఖ్య",
-    "రెండు వారాలుగా పరోక్ష చర్చల్లో జేడీ వాన్స్: ఆక్సియోస్"
-   ],
-   "why": "హార్ముజ్ మూసివేత కొనసాగితే చమురు ధరలు, గల్ఫ్‌లో పనిచేసే తెలుగువారి భద్రతపై ప్రభావం ఉంటుంది.",
-   "en": {
-    "h": "Iran vows retaliation without geographical limits if US attacks again",
-    "p": "Iranian Army spokesperson Mohammad Akraminia warned on Saturday that any fresh US attack would bring an immediate military response, including on US bases outside the Middle East. He said Iran's forces are stronger than when the war began on February 28. He said the Strait of Hormuz will reopen only if the Trump administration accepts Iran's seven conditions.",
-    "pts": [
-     "Trump confirmed limited strikes on Qeshm Island",
-     "Trump said talks are making considerable progress",
-     "JD Vance in indirect talks for two weeks: Axios"
-    ],
-    "why": "A continued Hormuz closure affects oil prices and the safety of Telugu people working in the Gulf.",
-    "cat": "World · Iran",
-    "statl": "Iran's conditions to reopen Hormuz"
-   },
-   "hi": {
-    "h": "अमेरिका ने फिर हमला किया तो बिना भौगोलिक सीमा के जवाब: ईरान",
-    "p": "ईरानी सेना के प्रवक्ता मोहम्मद अक्रमिनिया ने शनिवार को चेतावनी दी कि अमेरिका ने दोबारा हमला किया तो मध्य पूर्व के बाहर के अमेरिकी ठिकानों पर भी तुरंत सैन्य जवाब दिया जाएगा। उन्होंने कहा कि 28 फरवरी को युद्ध शुरू होने के समय से ईरानी सेना अब ज़्यादा मज़बूत है। उन्होंने कहा कि ट्रंप सरकार ईरान की सात शर्तें माने तभी होर्मुज़ जलडमरूमध्य खुलेगा।",
-    "pts": [
-     "ट्रंप ने केश्म द्वीप पर सीमित हमलों की पुष्टि की",
-     "ट्रंप बोले, बातचीत में काफी प्रगति हो रही है",
-     "जेडी वेंस दो हफ्तों से परोक्ष बातचीत में: एक्सियोस"
-    ],
-    "why": "होर्मुज़ बंद रहने से तेल की कीमतों और खाड़ी में काम करने वाले तेलुगु लोगों की सुरक्षा पर असर पड़ता है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "होर्मुज़ खोलने के लिए ईरान की शर्तें"
-   },
-   "d": "07.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ఉత్తరప్రదేశ్ · ఘాజియాబాద్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "1 గాయం",
-   "statl": "పోలీస్ ఔట్‌పోస్ట్ వద్ద పేలుడు",
-   "h": "ఘాజియాబాద్ పోలీస్ ఔట్‌పోస్ట్‌లో పేలుడు; ఏటీఎస్, బాంబ్ స్క్వాడ్ దర్యాప్తు",
-   "p": "ఉత్తరప్రదేశ్‌లోని ఘాజియాబాద్‌లో ఇందిరాపురం పోలీస్ స్టేషన్ పరిధిలోని వసుంధర పోలీస్ ఔట్‌పోస్ట్ వద్ద శుక్రవారం అర్ధరాత్రి పేలుడు జరిగింది. అక్కడ ఉన్న ఒక ఫుడ్ డెలివరీ వ్యక్తికి స్వల్ప గాయాలయ్యాయి, కిటికీ అద్దాలు పగిలాయి. ఏటీఎస్, బాంబ్ డిస్పోజల్ బృందాలు ఘటనాస్థలానికి చేరుకున్నాయి. ఉగ్ర కోణం సహా అన్ని కోణాల్లో దర్యాప్తు చేస్తున్నట్లు పోలీసులు తెలిపారు.",
-   "src": "PTI, Siasat Daily",
-   "url": "https://www.siasat.com/explosion-at-ghaziabad-police-outpost-bomb-disposal-team-at-site-3571189/",
-   "sec": [
-    "india"
-   ],
-   "st": "UP",
-   "place": "up-ghaziabad",
-   "loc": "వసుంధర",
-   "pts": [
-    "పేలుడు తీవ్రత, ఉద్దేశం ఇంకా స్పష్టం కాలేదు",
-    "బాధ్యత ప్రకటించిన సోషల్ మీడియా పోస్టును పోలీసులు ధృవీకరిస్తున్నారు",
-    "నమూనాలు ఆగ్రా ల్యాబ్‌కు; సీసీటీవీ దృశ్యాల పరిశీలన"
-   ],
-   "why": "ఢిల్లీ–ఎన్‌సీఆర్ ప్రాంతంలో నివసించే వారి భద్రతకు సంబంధించిన ఘటన కావడంతో దర్యాప్తు ఫలితం కీలకం.",
-   "en": {
-    "h": "Blast at Ghaziabad police outpost; ATS, bomb squad investigate",
-    "p": "An explosion took place late on Friday night at the Vasundhara police outpost under Indirapuram police station in Ghaziabad, Uttar Pradesh. A food delivery person present there suffered minor injuries and window panes were shattered. ATS and bomb disposal teams reached the spot. Police said all angles, including a terror angle, are being investigated.",
-    "pts": [
-     "Intensity and motive of the blast are still unclear",
-     "Police verifying a social media post claiming responsibility",
-     "Samples sent to Agra lab; CCTV footage being checked"
-    ],
-    "why": "The probe outcome matters as the incident concerns the safety of people living in the Delhi-NCR region.",
-    "cat": "Uttar Pradesh · Ghaziabad",
-    "statl": "Blast at police outpost"
-   },
-   "hi": {
-    "h": "गाज़ियाबाद पुलिस चौकी में धमाका; एटीएस, बम निरोधक दस्ता जांच में जुटा",
-    "p": "उत्तर प्रदेश के गाज़ियाबाद में इंदिरापुरम थाना क्षेत्र की वसुंधरा पुलिस चौकी पर शुक्रवार देर रात धमाका हुआ। वहां मौजूद एक फूड डिलीवरी कर्मी को मामूली चोटें आईं और खिड़कियों के शीशे टूट गए। एटीएस और बम निरोधक दस्ते मौके पर पहुंचे। पुलिस ने कहा कि आतंकी पहलू समेत सभी पहलुओं से जांच की जा रही है।",
-    "pts": [
-     "धमाके की तीव्रता और मकसद अभी साफ नहीं",
-     "ज़िम्मेदारी लेने वाली सोशल मीडिया पोस्ट की पुलिस जांच कर रही है",
-     "नमूने आगरा लैब भेजे गए; सीसीटीवी फुटेज की जांच"
-    ],
-    "why": "यह घटना दिल्ली-एनसीआर में रहने वालों की सुरक्षा से जुड़ी है, इसलिए जांच का नतीजा अहम है।",
-    "cat": "उत्तर प्रदेश · गाज़ियाबाद",
-    "statl": "पुलिस चौकी पर धमाका"
-   },
-   "d": "07.11.2026",
-   "t": "15:05"
   },
   {
    "cat": "యాదగిరిగుట్ట · ఆలయం",
