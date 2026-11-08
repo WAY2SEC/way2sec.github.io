@@ -1,8 +1,201 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 85,
+ "count": 89,
  "stories": [
+  {
+   "cat": "ఏపీ · పంచాయతీ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "13,219",
+   "statl": "ఎన్నికలు జరిగే గ్రామ పంచాయతీలు",
+   "h": "ఏపీలో మూడు దశల్లో పంచాయతీ ఎన్నికలు: నవంబర్ 26న తొలి పోలింగ్",
+   "p": "ఆంధ్రప్రదేశ్‌లోని 13,219 గ్రామ పంచాయతీలకు మూడు దశల్లో ఎన్నికలు నిర్వహించేందుకు రాష్ట్ర ఎన్నికల సంఘం ప్రణాళిక సిద్ధం చేసింది. నవంబర్ 26, నవంబర్ 29, డిసెంబర్ 2 తేదీల్లో పోలింగ్ జరగనుంది. ఎన్నికల షెడ్యూల్‌ను నవంబర్ 13న ప్రకటిస్తారు. తొలి దశ నోటిఫికేషన్ నవంబర్ 13న, రెండో దశది 16న, మూడో దశది 19న విడుదలవుతాయి.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/ap-sets-dates-for-panchayat-elections-schedule-on-13-nov-1140379",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "13,219 పంచాయతీల్లో మూడు దశల్లో ఎన్నికలు",
+    "పోలింగ్: నవంబర్ 26, 29, డిసెంబర్ 2",
+    "నవంబర్ 13న షెడ్యూల్ ప్రకటన"
+   ],
+   "why": "రాష్ట్రంలోని గ్రామాల ఓటర్లు, సర్పంచ్ పదవికి పోటీ చేయాలనుకునే వారు ఈ తేదీలకు సిద్ధం కావాలి.",
+   "en": {
+    "h": "AP panchayat polls in three phases; first polling on November 26",
+    "p": "Andhra Pradesh's State Election Commission has prepared a plan to hold elections to 13,219 gram panchayats in three phases. Polling will be held on November 26, November 29 and December 2. The election schedule will be announced on November 13. Notifications for the first phase will be issued on November 13, the second on November 16 and the third on November 19.",
+    "pts": [
+     "Polls in 13,219 panchayats in three phases",
+     "Polling: November 26, 29 and December 2",
+     "Schedule to be announced on November 13"
+    ],
+    "why": "Village voters across the state and those planning to contest for sarpanch posts need to prepare for these dates.",
+    "cat": "AP · Panchayat polls",
+    "statl": "Gram panchayats going to polls"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में तीन चरणों में पंचायत चुनाव: 26 नवंबर को पहला मतदान",
+    "p": "आंध्र प्रदेश राज्य चुनाव आयोग ने 13,219 ग्राम पंचायतों में तीन चरणों में चुनाव कराने की योजना तैयार की है। मतदान 26 नवंबर, 29 नवंबर और 2 दिसंबर को होगा। चुनाव कार्यक्रम की घोषणा 13 नवंबर को की जाएगी। पहले चरण की अधिसूचना 13 नवंबर, दूसरे की 16 नवंबर और तीसरे की 19 नवंबर को जारी होगी।",
+    "pts": [
+     "13,219 पंचायतों में तीन चरणों में चुनाव",
+     "मतदान: 26, 29 नवंबर और 2 दिसंबर",
+     "13 नवंबर को कार्यक्रम की घोषणा"
+    ],
+    "why": "राज्य के गांवों के मतदाताओं और सरपंच पद के इच्छुक उम्मीदवारों को इन तारीखों के लिए तैयार रहना होगा।",
+    "cat": "आंध्र प्रदेश · पंचायत चुनाव",
+    "statl": "चुनाव वाली ग्राम पंचायतें"
+   },
+   "d": "08.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · అగ్నిప్రమాదాలు",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "అలర్ట్",
+   "statl": "అగ్నిమాపక సిబ్బంది అంతా అప్రమత్తం",
+   "h": "దీపావళి రాత్రి హైదరాబాద్‌లో వరుస అగ్నిప్రమాదాలు; ఫైర్ సిబ్బంది అలర్ట్",
+   "p": "దీపావళి సందర్భంగా హైదరాబాద్‌లో పలుచోట్ల అగ్నిప్రమాదాలు జరిగాయి. సికింద్రాబాద్ బండిమెట్‌లోని ఓ మెడికల్ షాపులో, సీతాఫల్‌మండిలోని టపాసుల దుకాణంలో మంటలను అదుపు చేశారు. ఓల్డ్ బోయిన్‌పల్లిలోని ఓ మెడికల్ గోదాం మూడో అంతస్తులో మంటలు వ్యాపించగా ఆర్పే పనులు కొనసాగాయి. టపాసులు, షార్ట్ సర్క్యూట్ కారణమని అనుమానిస్తున్నారు. గాయాలైనట్లు సమాచారం లేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/multiple-fire-incidents-keep-hyderabad-emergency-services-on-high-alert",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "సీతాఫల్‌మండి టపాసుల దుకాణంలో పేలుడు, మంటలు",
+    "బోయిన్‌పల్లి మెడికల్ గోదాంలో మంటలు",
+    "సిబ్బంది అంతా అలర్ట్‌లో అగ్నిమాపక శాఖ"
+   ],
+   "why": "టపాసులు కాల్చేటప్పుడు దుకాణాలు, ఇళ్ల దగ్గర జాగ్రత్తగా ఉండాలని ఈ ఘటనలు గుర్తుచేస్తున్నాయి.",
+   "en": {
+    "h": "Series of fires in Hyderabad on Diwali night; fire staff on alert",
+    "p": "Several fire incidents were reported across Hyderabad during Diwali. Fires at a medical shop in Bandimet, Secunderabad, and at a firecracker shop in Sithaphalmandi were brought under control. At a medical warehouse in Old Bowenpally, flames spread on the third floor and firefighting continued. Firecrackers and short circuits are suspected to be the causes. No injuries have been reported.",
+    "pts": [
+     "Explosion and fire at Sithaphalmandi firecracker shop",
+     "Fire at medical warehouse in Bowenpally",
+     "Fire department puts all staff on alert"
+    ],
+    "why": "The incidents are a reminder to take care near shops and homes while bursting crackers.",
+    "cat": "Hyderabad · Fires",
+    "statl": "All fire personnel on alert"
+   },
+   "hi": {
+    "h": "दिवाली की रात हैदराबाद में आग की कई घटनाएं; दमकलकर्मी अलर्ट",
+    "p": "दिवाली के दौरान हैदराबाद में कई जगह आग लगने की घटनाएं हुईं। सिकंदराबाद के बंडीमेट में एक मेडिकल दुकान और सीताफलमंडी में पटाखों की एक दुकान में लगी आग पर काबू पा लिया गया। ओल्ड बोवेनपल्ली में एक मेडिकल गोदाम की तीसरी मंजिल पर आग फैल गई और उसे बुझाने का काम जारी रहा। पटाखों और शॉर्ट सर्किट को कारण माना जा रहा है। किसी के घायल होने की सूचना नहीं है।",
+    "pts": [
+     "सीताफलमंडी में पटाखा दुकान में विस्फोट, आग",
+     "बोवेनपल्ली के मेडिकल गोदाम में आग",
+     "अग्निशमन विभाग के सभी कर्मचारी अलर्ट पर"
+    ],
+    "why": "ये घटनाएं याद दिलाती हैं कि पटाखे चलाते समय दुकानों और घरों के पास सावधानी बरतें।",
+    "cat": "हैदराबाद · आग",
+    "statl": "सभी दमकलकर्मी अलर्ट पर"
+   },
+   "d": "08.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఎమ్మెల్సీ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "ఫిబ్రవరి",
+   "statl": "నోటిఫికేషన్ వచ్చే అవకాశం ఉన్న నెల",
+   "h": "రెండు పట్టభద్రుల ఎమ్మెల్సీ స్థానాలకు ఫిబ్రవరిలో నోటిఫికేషన్!",
+   "p": "మహబూబ్‌నగర్-రంగారెడ్డి-హైదరాబాద్, వరంగల్-ఖమ్మం-నల్గొండ పట్టభద్రుల ఎమ్మెల్సీ స్థానాలకు ఫిబ్రవరిలో నోటిఫికేషన్ వచ్చే అవకాశం ఉందని, మార్చిలోగా ప్రక్రియ పూర్తి చేస్తామని రాష్ట్ర ప్రధాన ఎన్నికల అధికారి సుదర్శన్ రెడ్డి తెలిపారు. ప్రస్తుత సభ్యుల పదవీకాలం మార్చితో ముగుస్తుంది. ఓటరు నమోదు తొలి దశ నవంబర్ 6న ముగిసింది. రెండో దశ డిసెంబర్ 10న మొదలవుతుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-graduate-mlc-elections-likely-in-february-3571852/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "వరంగల్-ఖమ్మం-నల్గొండలో 6,52,680 దరఖాస్తులు",
+    "మహబూబ్‌నగర్-రంగారెడ్డి-హైదరాబాద్‌లో 5,77,182 నమోదు",
+    "డిసెంబర్ 10 నుంచి రెండో దశ నమోదు"
+   ],
+   "why": "ఈ జిల్లాల్లోని డిగ్రీ పూర్తి చేసిన వారు ఓటు హక్కు కోసం రెండో దశలో నమోదు చేసుకోవచ్చు.",
+   "en": {
+    "h": "Notification for two graduate MLC seats likely in February",
+    "p": "Telangana Chief Electoral Officer Sudharsan Reddy said the notification for the Mahabubnagar-Rangareddy-Hyderabad and Warangal-Khammam-Nalgonda graduates' MLC seats is likely in February and the process will be completed by March. The terms of the present members end in March. The first phase of voter registration ended on November 6. The second phase begins on December 10.",
+    "pts": [
+     "6,52,680 applications in Warangal-Khammam-Nalgonda",
+     "5,77,182 registered in Mahabubnagar-Rangareddy-Hyderabad",
+     "Second phase of enrolment from December 10"
+    ],
+    "why": "Graduates in these districts can enrol in the second phase to get their vote.",
+    "cat": "Telangana · MLC polls",
+    "statl": "Month notification is likely"
+   },
+   "hi": {
+    "h": "दो स्नातक एमएलसी सीटों के लिए फरवरी में अधिसूचना संभव",
+    "p": "तेलंगाना के मुख्य निर्वाचन अधिकारी सुदर्शन रेड्डी ने कहा कि महबूबनगर-रंगारेड्डी-हैदराबाद और वरंगल-खम्मम-नलगोंडा स्नातक एमएलसी सीटों की अधिसूचना फरवरी में आने की संभावना है और प्रक्रिया मार्च तक पूरी कर ली जाएगी। मौजूदा सदस्यों का कार्यकाल मार्च में खत्म हो रहा है। मतदाता पंजीकरण का पहला चरण 6 नवंबर को खत्म हुआ। दूसरा चरण 10 दिसंबर से शुरू होगा।",
+    "pts": [
+     "वरंगल-खम्मम-नलगोंडा में 6,52,680 आवेदन",
+     "महबूबनगर-रंगारेड्डी-हैदराबाद में 5,77,182 पंजीकरण",
+     "10 दिसंबर से दूसरे चरण का पंजीकरण"
+    ],
+    "why": "इन जिलों के स्नातक वोट का अधिकार पाने के लिए दूसरे चरण में पंजीकरण करा सकते हैं।",
+    "cat": "तेलंगाना · एमएलसी चुनाव",
+    "statl": "अधिसूचना का संभावित महीना"
+   },
+   "d": "08.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "500+",
+   "statl": "రద్దయిన మేజిస్ట్రేట్ కాగ్నిజెన్స్ ఉత్తర్వులు",
+   "h": "'రబ్బర్ స్టాంప్' ఉత్తర్వులు: 500కు పైగా కాగ్నిజెన్స్ ఆదేశాలను రద్దు చేసిన హైకోర్టు",
+   "p": "ఈ ఏడాది జనవరి నుంచి మేజిస్ట్రేట్లు జారీ చేసిన 500కు పైగా కాగ్నిజెన్స్ ఉత్తర్వులను తెలంగాణ హైకోర్టు పక్కన పెట్టింది. ఆలోచించకుండా రబ్బర్ స్టాంపులతో కేసులను విచారణకు స్వీకరిస్తున్నారని జస్టిస్ జె. శ్రీనివాసరావు తప్పుపట్టారు. ఇలాంటి యాంత్రిక ఉత్తర్వులతో కోర్టు సమయం వృథా అవుతూ, బాధితులకు, నిందితులకు కేసులు ఆలస్యమవుతున్నాయని పేర్కొన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-hc-sets-aside-500-rubber-stamp-cognisance-orders-3571891/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఆదేశాన్ని రాష్ట్రంలోని మేజిస్ట్రేట్లందరికీ పంపాలని సూచన",
+    "జ్యుడీషియల్ అధికారులకు శిక్షణ ఇవ్వాలని జ్యుడీషియల్ అకాడమీకి ఆదేశం",
+    "కాగ్నిజెన్స్ నేరానికే, వ్యక్తికి కాదని స్పష్టీకరణ"
+   ],
+   "why": "కింది కోర్టుల్లో కేసుల విచారణ సక్రమంగా, వేగంగా జరగడానికి ఈ ఆదేశం దోహదపడుతుంది.",
+   "en": {
+    "h": "'Rubber stamp' orders: High Court sets aside over 500 cognisance orders",
+    "p": "The Telangana High Court has set aside more than 500 cognisance orders passed by magistrates since January this year. Justice J Sreenivas Rao faulted trial courts for taking cognisance of cases using rubber stamps without applying their minds. He said such mechanical orders waste court time and delay cases for both victims and the accused.",
+    "pts": [
+     "Order to be circulated to all magistrates in the state",
+     "Judicial Academy told to train judicial officers",
+     "Cognisance is of the offence, not the offender"
+    ],
+    "why": "The order should help cases in lower courts proceed properly and faster.",
+    "cat": "Telangana · High Court",
+    "statl": "Magistrate cognisance orders set aside"
+   },
+   "hi": {
+    "h": "'रबर स्टैंप' आदेश: हाईकोर्ट ने 500 से ज्यादा संज्ञान आदेश रद्द किए",
+    "p": "तेलंगाना हाईकोर्ट ने इस साल जनवरी से मजिस्ट्रेटों द्वारा जारी 500 से अधिक संज्ञान आदेशों को रद्द कर दिया है। न्यायमूर्ति जे. श्रीनिवास राव ने बिना सोचे-समझे रबर स्टैंप से मामलों का संज्ञान लेने के लिए निचली अदालतों की आलोचना की। उन्होंने कहा कि ऐसे यांत्रिक आदेशों से अदालत का समय बर्बाद होता है और पीड़ितों व आरोपियों दोनों के मामलों में देरी होती है।",
+    "pts": [
+     "आदेश राज्य के सभी मजिस्ट्रेटों को भेजा जाएगा",
+     "न्यायिक अकादमी को न्यायिक अधिकारियों को प्रशिक्षण देने का निर्देश",
+     "संज्ञान अपराध का होता है, व्यक्ति का नहीं"
+    ],
+    "why": "यह आदेश निचली अदालतों में मामलों की सुनवाई सही ढंग से और तेजी से होने में मदद करेगा।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "रद्द किए गए मजिस्ट्रेट संज्ञान आदेश"
+   },
+   "d": "08.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
    "col": "--c-power",
