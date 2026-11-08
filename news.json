@@ -1,8 +1,104 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T12:41:02+05:30",
+ "updated": "2026-11-08T13:10:24+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "13,219",
+   "statl": "ఎన్నికలు జరిగే పంచాయతీలు",
+   "h": "ఏపీలో మూడు దశల్లో పంచాయతీ ఎన్నికలు; 13న షెడ్యూల్",
+   "p": "ఆంధ్రప్రదేశ్‌లో గ్రామ పంచాయతీ ఎన్నికలకు రాష్ట్ర ఎన్నికల సంఘం ప్రణాళిక సిద్ధం చేసింది. రాష్ట్రంలోని 13,219 పంచాయతీల్లో మూడు దశల్లో పోలింగ్ జరగనుంది. నవంబర్ 26, 29, డిసెంబర్ 2 తేదీల్లో ఓటింగ్ ఉంటుంది. మొదటి దశ నోటిఫికేషన్ నవంబర్ 13న, రెండో దశ 16న, మూడో దశ 19న విడుదల కానుంది. షెడ్యూల్‌ను 13న ప్రకటిస్తారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/ap-sets-dates-for-panchayat-elections-schedule-on-13-nov-1140379",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "13,219 పంచాయతీల్లో మూడు దశల్లో ఎన్నికలు",
+    "పోలింగ్: నవంబర్ 26, 29, డిసెంబర్ 2",
+    "నోటిఫికేషన్లు: నవంబర్ 13, 16, 19"
+   ],
+   "why": "ఏపీలోని గ్రామీణ ఓటర్లు, పోటీ చేయాలనుకునే అభ్యర్థులు ఈ తేదీల ప్రకారం సిద్ధం కావాలి.",
+   "en": {
+    "h": "AP panchayat polls in three phases; schedule on November 13",
+    "p": "The Andhra Pradesh State Election Commission has prepared a plan for gram panchayat elections. Polling will be held in three phases across 13,219 panchayats in the state. Voting will take place on November 26, 29 and December 2. The first phase notification will be issued on November 13, the second on the 16th and the third on the 19th. The schedule will be announced on the 13th.",
+    "pts": [
+     "Polls in three phases across 13,219 panchayats",
+     "Polling: November 26, 29 and December 2",
+     "Notifications: November 13, 16 and 19"
+    ],
+    "why": "Rural voters and aspiring candidates in AP must prepare according to these dates.",
+    "cat": "AP · Elections",
+    "statl": "Panchayats going to polls"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में तीन चरणों में पंचायत चुनाव; 13 नवंबर को कार्यक्रम",
+    "p": "आंध्र प्रदेश राज्य चुनाव आयोग ने ग्राम पंचायत चुनावों की योजना तैयार कर ली है। राज्य की 13,219 पंचायतों में तीन चरणों में मतदान होगा। वोटिंग 26 नवंबर, 29 नवंबर और 2 दिसंबर को होगी। पहले चरण की अधिसूचना 13 नवंबर, दूसरे की 16 और तीसरे की 19 नवंबर को जारी होगी। चुनाव कार्यक्रम 13 नवंबर को घोषित किया जाएगा।",
+    "pts": [
+     "13,219 पंचायतों में तीन चरणों में चुनाव",
+     "मतदान: 26, 29 नवंबर और 2 दिसंबर",
+     "अधिसूचनाएं: 13, 16 और 19 नवंबर"
+    ],
+    "why": "आंध्र प्रदेश के ग्रामीण मतदाताओं और उम्मीदवारों को इन तारीखों के अनुसार तैयारी करनी होगी।",
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "चुनाव वाली पंचायतें"
+   },
+   "d": "08.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ప్రపంచం · గల్ఫ్",
+   "col": "--c-power",
+   "art": "water",
+   "stat": "22",
+   "statl": "యూఏఈ కాపాడిన నౌక సిబ్బంది",
+   "h": "హార్ముజ్‌లో మందుపాతరలు తాకిన ట్యాంకర్లు; మంటల నౌక నుంచి 22 మందిని కాపాడిన యూఏఈ",
+   "p": "హార్ముజ్ జలసంధిలో రెండు చమురు ట్యాంకర్లు సముద్ర మందుపాతరలను ఢీకొన్నాయని ఇరాన్ రివల్యూషనరీ గార్డ్స్ ప్రకటించాయి. ఆ తర్వాత మంటలు అంటుకున్న ఒక సరుకు నౌక నుంచి 22 మందిని రక్షించినట్లు యూఏఈ తెలిపింది. ఇరాన్ ఓడరేవులపై కొనసాగుతున్న నౌకాదిగ్బంధాన్ని విస్తరిస్తూ, ఇరాన్ భూమార్గ సరఫరాలను కూడా అడ్డుకునే కొత్త ప్రణాళికను అమెరికా ప్రకటించింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "రెండు ట్యాంకర్లు మందుపాతరలు తాకాయన్న ఐఆర్‌జీసీ",
+    "మంటల సరుకు నౌక నుంచి 22 మంది రక్షణ",
+    "ఇరాన్ భూమార్గాల అడ్డగింతకు అమెరికా ప్రణాళిక"
+   ],
+   "why": "హార్ముజ్ మార్గంలో ఉద్రిక్తత గల్ఫ్‌లో పనిచేసే తెలుగువారిపై, చమురు సరఫరాపై ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Tankers hit mines in Hormuz; UAE rescues 22 from burning ship",
+    "p": "Iran's Revolutionary Guards said two oil tankers struck sea mines in the Strait of Hormuz. The UAE then said it rescued 22 people from a cargo ship that caught fire. The US announced a new plan to also block Iran's land supply routes, expanding its ongoing naval blockade of Iranian ports.",
+    "pts": [
+     "IRGC says two tankers struck mines",
+     "22 rescued from burning cargo ship",
+     "US plans to block Iran's land routes"
+    ],
+    "why": "Tension on the Hormuz route may affect Telugu people working in the Gulf and oil supplies.",
+    "cat": "World · Gulf",
+    "statl": "Ship crew rescued by UAE"
+   },
+   "hi": {
+    "h": "होर्मुज़ में टैंकरों से टकराईं बारूदी सुरंगें; यूएई ने जलते जहाज़ से 22 को बचाया",
+    "p": "ईरान के रिवोल्यूशनरी गार्ड्स ने कहा कि होर्मुज़ जलडमरूमध्य में दो तेल टैंकर समुद्री बारूदी सुरंगों से टकरा गए। इसके बाद यूएई ने बताया कि उसने आग लगे एक मालवाहक जहाज़ से 22 लोगों को बचाया। अमेरिका ने ईरानी बंदरगाहों पर जारी नौसैनिक नाकेबंदी का दायरा बढ़ाते हुए ईरान के ज़मीनी आपूर्ति मार्गों को भी रोकने की नई योजना की घोषणा की।",
+    "pts": [
+     "आईआरजीसी: दो टैंकर बारूदी सुरंगों से टकराए",
+     "जलते मालवाहक जहाज़ से 22 लोग बचाए गए",
+     "ईरान के ज़मीनी मार्ग रोकने की अमेरिकी योजना"
+    ],
+    "why": "होर्मुज़ मार्ग पर तनाव का असर खाड़ी में काम करने वाले तेलुगु लोगों और तेल आपूर्ति पर पड़ सकता है।",
+    "cat": "दुनिया · खाड़ी",
+    "statl": "यूएई द्वारा बचाए गए जहाज़कर्मी"
+   },
+   "d": "08.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "క్రీడలు · క్రికెట్",
    "col": "--c-money",
@@ -1499,297 +1595,6 @@
    },
    "d": "08.11.2026",
    "t": "08:05"
-  },
-  {
-   "cat": "ఏపీ · జిల్లా పరిషత్",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "27/28",
-   "statl": "కూటమి గెలిచిన జడ్పీ పీఠాలు",
-   "h": "ఏపీలో 28 జిల్లా పరిషత్‌లలో 27 కూటమి కైవసం",
-   "p": "ఆంధ్రప్రదేశ్ స్థానిక సంస్థల ఎన్నికల్లో ఎన్డీఏ కూటమి 28 జిల్లా పరిషత్‌లలో 27 పీఠాలు గెలుచుకుంది. అల్లూరి సీతారామరాజు జిల్లాలో మాత్రం వైఎస్ఆర్‌సీపీకి జడ్పీ పీఠం దక్కింది. ఉమ్మడి కడప జిల్లాలో కూటమి 36 జడ్పీటీసీలు గెలవగా, వైఎస్ఆర్‌సీపీ రెండుకే పరిమితమైంది. పల్నాడులో మొత్తం 28 జడ్పీటీసీలు, అనకాపల్లిలో మొత్తం 24 కూటమికే వచ్చాయి.",
-   "src": "10TV",
-   "url": "https://10tv.in/telugu-news/andhra-pradesh/nda-alliance-sweeps-27-districts-in-ap-zptc-mptc-local-body-election-results-sn-1155139.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "ఉమ్మడి కడపలో కూటమికి 36, వైఎస్ఆర్‌సీపీకి 2 జడ్పీటీసీలు",
-    "అల్లూరిలో 11 జడ్పీటీసీల్లో 7 వైఎస్ఆర్‌సీపీకి",
-    "కాకినాడ, పశ్చిమ గోదావరిలో 20కి 20 కూటమికి"
-   ],
-   "why": "జిల్లాల్లో గ్రామీణ అభివృద్ధి పనులు, నిధుల నిర్ణయాలు ఈ జిల్లా పరిషత్‌ల ద్వారానే జరుగుతాయి.",
-   "d": "08.11.2026",
-   "t": "07:35",
-   "en": {
-    "h": "Alliance wins 27 of 28 zilla parishads in Andhra Pradesh",
-    "p": "In Andhra Pradesh's local body elections, the NDA alliance won 27 of the 28 zilla parishad chair posts. Only in Alluri Sitarama Raju district did the YSRCP get the ZP chair. In undivided Kadapa district the alliance won 36 ZPTC seats, while YSRCP was limited to two. In Palnadu all 28 ZPTC seats and in Anakapalli all 24 went to the alliance.",
-    "pts": [
-     "Undivided Kadapa: alliance 36, YSRCP 2 ZPTC seats",
-     "YSRCP wins 7 of 11 ZPTC seats in Alluri",
-     "Alliance wins all 20 in Kakinada and West Godavari"
-    ],
-    "why": "Rural development works and fund decisions in the districts are made through these zilla parishads.",
-    "cat": "Andhra Pradesh · Zilla Parishad",
-    "statl": "ZP chairs won by the alliance"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में 28 में से 27 जिला परिषदें गठबंधन के नाम",
-    "p": "आंध्र प्रदेश के स्थानीय निकाय चुनावों में एनडीए गठबंधन ने 28 में से 27 जिला परिषद अध्यक्ष पद जीत लिए। केवल अल्लूरी सीतारामा राजू जिले में वाईएसआरसीपी को जेडपी अध्यक्ष पद मिला। अविभाजित कडपा जिले में गठबंधन ने 36 जेडपीटीसी सीटें जीतीं, जबकि वाईएसआरसीपी दो पर सिमट गई। पलनाडु की सभी 28 और अनकापल्ली की सभी 24 जेडपीटीसी सीटें गठबंधन को मिलीं।",
-    "pts": [
-     "अविभाजित कडपा: गठबंधन 36, वाईएसआरसीपी 2 जेडपीटीसी",
-     "अल्लूरी में 11 में से 7 जेडपीटीसी वाईएसआरसीपी को",
-     "काकीनाडा, पश्चिम गोदावरी में 20 में से 20 गठबंधन को"
-    ],
-    "why": "जिलों में ग्रामीण विकास कार्य और फंड के फैसले इन्हीं जिला परिषदों के जरिए होते हैं।",
-    "cat": "आंध्र प्रदेश · जिला परिषद",
-    "statl": "गठबंधन द्वारा जीते जेडपी अध्यक्ष पद"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · కొడంగల్",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "పామాయిల్",
-   "statl": "లగచర్లలో ఎకోపామ్ ప్లాంట్‌కు శంకుస్థాపన",
-   "h": "లగచర్లలో పామాయిల్ ప్లాంట్‌కు నేడు సీఎం శంకుస్థాపన",
-   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి ఆదివారం కొడంగల్ పర్యటనలో హకీంపేటలో స్వయం సహాయక సంఘాల మహిళలతో సమావేశం కానున్నారు. తర్వాత లగచర్లలో ఎకోపామ్ పామాయిల్ ప్లాంట్‌కు శంకుస్థాపన చేస్తారు. హకీంపేటలో జడ్పీ పాఠశాల భవనం, కళాశాల భవనాలు, ప్రాథమిక ఆరోగ్య కేంద్రాన్ని ప్రారంభిస్తారు. రాష్ట్రవ్యాప్తంగా ‘మా ఇందిరమ్మ ఇంట్లో దీపావళి’ వేడుకల్లోనూ పాల్గొంటారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-latest-top-news-information-across-telangana-tgs26110800358",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "loc": "లగచర్ల",
-   "pts": [
-    "హకీంపేటలో స్వయం సహాయక సంఘాల మహిళలతో సీఎం భేటీ",
-    "జడ్పీ పాఠశాల, కళాశాల భవనాలు, పీహెచ్‌సీ ప్రారంభం",
-    "ఇందిరమ్మ ఇళ్లలో లబ్ధిదారులతో దీపావళి వేడుకలు"
-   ],
-   "why": "కొడంగల్ ప్రాంత రైతులు, మహిళలు, విద్యార్థులకు కొత్త సౌకర్యాలు అందుబాటులోకి రానున్నాయి.",
-   "d": "08.11.2026",
-   "t": "07:35",
-   "en": {
-    "h": "CM to lay foundation for palm oil plant at Lagacherla today",
-    "p": "During his Kodangal tour on Sunday, Chief Minister Revanth Reddy will meet women of self-help groups at Hakimpet. He will then lay the foundation stone for an Ecopalm palm oil plant at Lagacherla. At Hakimpet he will inaugurate a ZP school building, college buildings and a primary health centre. He will also take part in the statewide 'Maa Indiramma Intlo Deepavali' celebrations.",
-    "pts": [
-     "CM meets self-help group women at Hakimpet",
-     "ZP school, college buildings and PHC to be inaugurated",
-     "Diwali celebrations with beneficiaries in Indiramma houses"
-    ],
-    "why": "New facilities will become available to farmers, women and students in the Kodangal area.",
-    "cat": "Telangana · Kodangal",
-    "statl": "Foundation for Ecopalm plant at Lagacherla"
-   },
-   "hi": {
-    "h": "लगचर्ला में पाम ऑयल प्लांट की आज सीएम रखेंगे नींव",
-    "p": "मुख्यमंत्री रेवंत रेड्डी रविवार को कोडंगल दौरे में हकीमपेट में स्वयं सहायता समूहों की महिलाओं से मिलेंगे। इसके बाद वे लगचर्ला में इकोपाम पाम ऑयल प्लांट की आधारशिला रखेंगे। हकीमपेट में वे जेडपी स्कूल भवन, कॉलेज भवनों और प्राथमिक स्वास्थ्य केंद्र का उद्घाटन करेंगे। वे राज्यव्यापी 'मा इंदिरम्मा इंट्लो दीपावली' समारोह में भी शामिल होंगे।",
-    "pts": [
-     "हकीमपेट में स्वयं सहायता समूह की महिलाओं से सीएम की मुलाकात",
-     "जेडपी स्कूल, कॉलेज भवन और पीएचसी का उद्घाटन",
-     "इंदिरम्मा घरों में लाभार्थियों के साथ दीपावली"
-    ],
-    "why": "कोडंगल क्षेत्र के किसानों, महिलाओं और छात्रों को नई सुविधाएं मिलेंगी।",
-    "cat": "तेलंगाना · कोडंगल",
-    "statl": "लगचर्ला में इकोपाम प्लांट की आधारशिला"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "4 చోట్ల",
-   "statl": "ఇరాన్‌లో పేలుళ్లు నమోదైన ప్రాంతాలు",
-   "h": "ఇరాన్ ఖెష్మ్ దీవిలో పేలుళ్లు; భూమార్గ సరఫరా అడ్డుకుంటామన్న అమెరికా",
-   "p": "హార్ముజ్ జలసంధిలోని ఖెష్మ్ దీవితో పాటు జాస్క్, సిరిక్, బందర్ అబ్బాస్ నగరాల్లో పేలుళ్లు సంభవించినట్లు ఇరాన్ ప్రభుత్వ మీడియా తెలిపింది. ఇరాన్‌కు భూమార్గంలో వచ్చే సరఫరాలను అడ్డుకునే ప్రణాళికను అమెరికా ప్రకటించింది. ఇది హార్ముజ్ వద్ద ఇరాన్ ఓడరేవులపై నెలలుగా కొనసాగుతున్న నౌకా దిగ్బంధానికి విస్తరణ అని అల్ జజీరా పేర్కొంది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఖెష్మ్, జాస్క్, సిరిక్, బందర్ అబ్బాస్‌లో పేలుళ్లు",
-    "ఇరాన్ భూమార్గ సరఫరాలు అడ్డుకునే అమెరికా ప్రణాళిక",
-    "హార్ముజ్ వద్ద నౌకా దిగ్బంధం విస్తరణ"
-   ],
-   "why": "హార్ముజ్ ఉద్రిక్తతలు చమురు ధరలు, గల్ఫ్‌లో పనిచేసే తెలుగువారిపై ప్రభావం చూపవచ్చు.",
-   "d": "08.11.2026",
-   "t": "07:35",
-   "en": {
-    "h": "Explosions hit Iran's Qeshm Island; US moves to block land supply routes",
-    "p": "Iranian state media said explosions occurred on Qeshm Island in the Strait of Hormuz and in the cities of Jask, Sirik and Bandar Abbas. The US announced a plan to block supplies reaching Iran by land. Al Jazeera said this expands the months-long naval blockade of Iranian ports at Hormuz.",
-    "pts": [
-     "Explosions in Qeshm, Jask, Sirik and Bandar Abbas",
-     "US plan to block Iran's land supply routes",
-     "Expansion of the naval blockade at Hormuz"
-    ],
-    "why": "Tensions at Hormuz could affect oil prices and Telugu people working in the Gulf.",
-    "cat": "World · Iran",
-    "statl": "Places in Iran where explosions were reported"
-   },
-   "hi": {
-    "h": "ईरान के केश्म द्वीप पर धमाके; अमेरिका ज़मीनी आपूर्ति रोकेगा",
-    "p": "ईरान के सरकारी मीडिया ने बताया कि होर्मुज़ जलडमरूमध्य के केश्म द्वीप और जास्क, सिरिक व बंदर अब्बास शहरों में धमाके हुए। अमेरिका ने ईरान तक ज़मीनी रास्ते से पहुंचने वाली आपूर्ति रोकने की योजना की घोषणा की। अल जज़ीरा के अनुसार यह होर्मुज़ पर ईरानी बंदरगाहों की महीनों से जारी नौसैनिक नाकेबंदी का विस्तार है।",
-    "pts": [
-     "केश्म, जास्क, सिरिक और बंदर अब्बास में धमाके",
-     "ईरान की ज़मीनी आपूर्ति रोकने की अमेरिकी योजना",
-     "होर्मुज़ पर नौसैनिक नाकेबंदी का विस्तार"
-    ],
-    "why": "होर्मुज़ का तनाव तेल कीमतों और खाड़ी में काम करने वाले तेलुगु लोगों पर असर डाल सकता है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "ईरान में जहां धमाके हुए"
-   }
-  },
-  {
-   "cat": "హరియాణా · ఫరీదాబాద్",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "9 బుల్లెట్లు",
-   "statl": "బాధితుడికి తగిలినట్లు సమాచారం",
-   "h": "ఫరీదాబాద్‌లో పార్కింగ్ గొడవ: టెక్ మహీంద్రా మాజీ అధికారి కాల్చివేత",
-   "p": "హరియాణాలోని ఫరీదాబాద్ సెక్టార్ 21సీలో పార్కింగ్ విషయంలో గొడవతో టెక్ మహీంద్రా మాజీ ఆసియా విభాగాధిపతిని శుక్రవారం రాత్రి కాల్చి చంపారు. ఆయన కుటుంబ వివాహం కోసం సింగపూర్ నుంచి వచ్చారు. పొరుగున ఉండే వ్యక్తిని క్రైమ్ బ్రాంచ్ పోలీసులు శనివారం అరెస్టు చేశారు. ఎఫ్ఐఆర్‌లో ఐదుగురి పేర్లు ఉన్నాయి.",
-   "src": "ThePrint",
-   "url": "https://theprint.in/india/tech-mahindras-ex-asia-head-shot-dead-over-parking-row-in-faridabad-neighbour-arrested/3093260/",
-   "sec": [
-    "india"
-   ],
-   "st": "HR",
-   "place": "IN",
-   "pts": [
-    "లైసెన్సు ఉన్న పిస్టల్‌తో కాల్పులు జరిపినట్లు పోలీసులు",
-    "సూరజ్‌కుండ్ పోలీస్ స్టేషన్‌లో కేసు నమోదు",
-    "పార్కింగ్, పెంపుడు కుక్కపై కుటుంబాల మధ్య పాత గొడవ"
-   ],
-   "why": "అపార్ట్‌మెంట్లలో చిన్న గొడవలు ప్రాణాంతకంగా మారకుండా జాగ్రత్త అవసరమని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "d": "08.11.2026",
-   "t": "07:35",
-   "en": {
-    "h": "Faridabad parking row: former Tech Mahindra executive shot dead",
-    "p": "In Sector 21C of Faridabad, Haryana, a former Asia head of Tech Mahindra was shot dead on Friday night after a quarrel over parking. He had come from Singapore for a family wedding. Crime Branch police arrested a neighbour on Saturday. The FIR names five people.",
-    "pts": [
-     "Police say a licensed pistol was used",
-     "Case registered at Surajkund police station",
-     "Old dispute between families over parking and a pet dog"
-    ],
-    "why": "The incident is a reminder to stop small disputes in apartment complexes from turning deadly.",
-    "cat": "Haryana · Faridabad",
-    "statl": "Reportedly hit the victim"
-   },
-   "hi": {
-    "h": "फरीदाबाद पार्किंग विवाद: टेक महिंद्रा के पूर्व अधिकारी की गोली मारकर हत्या",
-    "p": "हरियाणा के फरीदाबाद के सेक्टर 21सी में पार्किंग को लेकर झगड़े के बाद शुक्रवार रात टेक महिंद्रा के पूर्व एशिया प्रमुख की गोली मारकर हत्या कर दी गई। वे परिवार की शादी के लिए सिंगापुर से आए थे। क्राइम ब्रांच पुलिस ने शनिवार को एक पड़ोसी को गिरफ्तार किया। एफआईआर में पांच लोगों के नाम हैं।",
-    "pts": [
-     "पुलिस के अनुसार लाइसेंसी पिस्तौल से गोली चलाई गई",
-     "सूरजकुंड थाने में मामला दर्ज",
-     "पार्किंग और पालतू कुत्ते को लेकर परिवारों में पुराना विवाद"
-    ],
-    "why": "यह घटना याद दिलाती है कि अपार्टमेंट में छोटे झगड़े जानलेवा न बनें।",
-    "cat": "हरियाणा · फरीदाबाद",
-    "statl": "पीड़ित को लगने की जानकारी"
-   }
-  },
-  {
-   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "473",
-   "statl": "కూటమి గెలిచిన జడ్పీటీసీ స్థానాలు",
-   "h": "ఏపీ పరిషత్ ఫలితాలు: 473 జడ్పీటీసీలు, 5,819 ఎంపీటీసీలు కూటమికి",
-   "p": "ఆంధ్రప్రదేశ్ పరిషత్ ఎన్నికల ఫలితాల్లో శనివారం అర్ధరాత్రి 2 గంటల వరకు కూటమి 473 జడ్పీటీసీ స్థానాలు గెలుచుకుంది. ఇందులో టీడీపీ 384, జనసేన 70, బీజేపీ 19. వైఎస్ఆర్‌సీపీ 57, ఇతరులు 4 గెలిచారు. ఎంపీటీసీల్లో కూటమి 5,819, వైఎస్ఆర్‌సీపీ 1,583, ఇతరులు 187 స్థానాలు సాధించారు. రాష్ట్రంలో మొత్తం 659 జడ్పీటీసీ, 9,821 ఎంపీటీసీ స్థానాలు ఉన్నాయి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26110800373",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "77 జడ్పీటీసీలు, 2,051 ఎంపీటీసీలు ఏకగ్రీవం",
-    "తిరుపతి జిల్లాలో 35 జడ్పీటీసీల్లో టీడీపీకి 25",
-    "వైఎస్ఆర్‌సీపీకి తిరుపతి జిల్లాలో 7 జడ్పీటీసీలు"
-   ],
-   "why": "గ్రామీణ స్థానిక పాలన, జిల్లా పరిషత్ పగ్గాలు ఎవరి చేతికి వెళ్తాయో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
-   "d": "08.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "AP parishad results: alliance wins 473 ZPTC, 5,819 MPTC seats",
-    "p": "In Andhra Pradesh's parishad election results, the alliance had won 473 ZPTC seats by 2 am on Saturday night. Of these, TDP won 384, Jana Sena 70 and BJP 19. YSRCP won 57 and others 4. In MPTC seats, the alliance won 5,819, YSRCP 1,583 and others 187. The state has 659 ZPTC and 9,821 MPTC seats in all.",
-    "pts": [
-     "77 ZPTC, 2,051 MPTC seats elected unopposed",
-     "TDP wins 25 of 35 ZPTC seats in Tirupati district",
-     "YSRCP wins 7 ZPTC seats in Tirupati district"
-    ],
-    "why": "These results decide who will control rural local bodies and zilla parishads.",
-    "cat": "Andhra Pradesh · Parishad polls",
-    "statl": "ZPTC seats won by the alliance"
-   },
-   "hi": {
-    "h": "आंध्र परिषद नतीजे: गठबंधन को 473 जेडपीटीसी, 5,819 एमपीटीसी सीटें",
-    "p": "आंध्र प्रदेश परिषद चुनाव के नतीजों में शनिवार रात 2 बजे तक गठबंधन ने 473 जेडपीटीसी सीटें जीत लीं। इनमें टीडीपी 384, जनसेना 70 और बीजेपी 19 हैं। वाईएसआरसीपी ने 57 और अन्य ने 4 सीटें जीतीं। एमपीटीसी में गठबंधन को 5,819, वाईएसआरसीपी को 1,583 और अन्य को 187 सीटें मिलीं। राज्य में कुल 659 जेडपीटीसी और 9,821 एमपीटीसी सीटें हैं।",
-    "pts": [
-     "77 जेडपीटीसी, 2,051 एमपीटीसी सीटें निर्विरोध",
-     "तिरुपति जिले की 35 में से 25 जेडपीटीसी टीडीपी को",
-     "तिरुपति जिले में वाईएसआरसीपी को 7 जेडपीटीसी"
-    ],
-    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्थानीय निकाय और जिला परिषद किसके हाथ में होंगे।",
-    "cat": "आंध्र प्रदेश · परिषद चुनाव",
-    "statl": "गठबंधन की जीती जेडपीटीसी सीटें"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · సంక్షేమం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "4.5 లక్షలు",
-   "statl": "చేయూత పింఛన్ల లబ్ధిదారులు",
-   "h": "4.5 లక్షల మందికి చేయూత పింఛన్లు; కొడంగల్‌లో సీఎం చేతుల మీదుగా పత్రాలు",
-   "p": "రాష్ట్రవ్యాప్తంగా 4.5 లక్షల మందికి చేయూత పింఛన్లు అందనున్నాయి. ముఖ్యమంత్రి రేవంత్ రెడ్డి ఆదివారం కొడంగల్‌లో లబ్ధిదారులకు మంజూరు పత్రాలు అందజేస్తారు. ఈ నెల 19 నుంచి పింఛన్ డబ్బు జమ అయ్యేలా ప్రభుత్వం ఏర్పాట్లు చేసింది. హకీంపేటలో మహిళా స్వయం సహాయక సంఘాలతో సీఎం భేటీ అవుతారు, లగచర్లలో పామాయిల్ పరిశ్రమకు శంకుస్థాపన చేస్తారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--8th-november-2026-latest-top-news-information-across-telangana-tgs26110800358",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "కొడంగల్",
-   "pts": [
-    "నవంబర్ 19 నుంచి పింఛన్ డబ్బు జమ",
-    "హకీంపేటలో జడ్పీ స్కూల్, కాలేజీ, పీహెచ్‌సీ ప్రారంభం",
-    "రాష్ట్రవ్యాప్తంగా 'మా ఇందిరమ్మ ఇంట్లో దీపావళి' వేడుకలు"
-   ],
-   "why": "కొత్తగా మంజూరైన లక్షలాది పింఛన్‌దారులకు ఈ నెల నుంచే నెలవారీ ఆర్థిక సాయం అందుతుంది.",
-   "d": "08.11.2026",
-   "t": "07:05",
-   "en": {
-    "h": "Cheyutha pensions for 4.5 lakh people; CM to hand over letters in Kodangal",
-    "p": "Cheyutha pensions will be given to 4.5 lakh people across Telangana. Chief Minister Revanth Reddy will hand over sanction letters to beneficiaries in Kodangal on Sunday. The government has arranged for the pension money to be credited from the 19th of this month. The CM will meet women's self-help groups in Hakimpet and lay the foundation stone for a palm oil industry in Lagacherla.",
-    "pts": [
-     "Pension money to be credited from November 19",
-     "ZP school, college and PHC to open in Hakimpet",
-     "'Maa Indiramma Intlo Deepavali' celebrations statewide"
-    ],
-    "why": "Lakhs of newly sanctioned pensioners will get monthly financial support starting this month.",
-    "cat": "Telangana · Welfare",
-    "statl": "Cheyutha pension beneficiaries"
-   },
-   "hi": {
-    "h": "4.5 लाख लोगों को चेयूता पेंशन; कोडंगल में सीएम सौंपेंगे पत्र",
-    "p": "तेलंगाना भर में 4.5 लाख लोगों को चेयूता पेंशन मिलेगी। मुख्यमंत्री रेवंत रेड्डी रविवार को कोडंगल में लाभार्थियों को मंजूरी पत्र सौंपेंगे। सरकार ने इस महीने की 19 तारीख से पेंशन की राशि जमा करने की व्यवस्था की है। सीएम हकीमपेट में महिला स्वयं सहायता समूहों से मिलेंगे और लगचर्ला में पाम ऑयल उद्योग की नींव रखेंगे।",
-    "pts": [
-     "19 नवंबर से पेंशन राशि जमा होगी",
-     "हकीमपेट में जेडपी स्कूल, कॉलेज और पीएचसी का उद्घाटन",
-     "राज्य भर में 'मा इंदिरम्मा इंट्लो दीपावली' कार्यक्रम"
-    ],
-    "why": "नई मंजूर लाखों पेंशनधारकों को इसी महीने से मासिक आर्थिक मदद मिलेगी।",
-    "cat": "तेलंगाना · कल्याण",
-    "statl": "चेयूता पेंशन लाभार्थी"
-   }
   },
   {
    "cat": "🪔 దీపావళి · వైరల్ వీడియో",
