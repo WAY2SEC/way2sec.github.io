@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:50:00+05:30",
+ "updated": "2026-11-08T17:49:43+05:30",
  "version": 1,
  "festival": {
   "key": "diwali-2026",
@@ -28,6 +28,215 @@
   }
  },
  "stories": [
+  {
+   "fest": "diwali-2026",
+   "col": "--c-city",
+   "art": "unity",
+   "d": "08.11.2026",
+   "t": "17:49",
+   "who": "N. Chandrababu Naidu",
+   "cat": "🪔 దీపావళి · ఆంధ్రప్రదేశ్",
+   "stat": "ఏపీ సీఎం",
+   "statl": "దీపావళి శుభాకాంక్షలు తెలిపిన చంద్రబాబు",
+   "h": "ప్రతి ఇంట్లో వెలుగులు నిండాలి: సీఎం చంద్రబాబు దీపావళి శుభాకాంక్షలు",
+   "p": "ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి ఎన్. చంద్రబాబు నాయుడు తన సందేశం ద్వారా రాష్ట్ర ప్రజలకు దీపావళి శుభాకాంక్షలు తెలిపారు. నరకాసురుడి దౌర్జన్యం నుంచి విముక్తికి, చెడుపై మంచి విజయానికి ఈ పండుగ ప్రతీక అని పేర్కొన్నారు. దీపాల వెలుగులు ప్రతి ఇంటికి ఆనందం, సమృద్ధి, శాంతి తేవాలని ఆకాంక్షించారు. పరస్పర సహకారం, ఐక్యత, సామరస్యంతో ముందుకు సాగాలని పిలుపునిచ్చారు.",
+   "pts": [
+    "చెడుపై మంచి విజయానికి దీపావళి ప్రతీక",
+    "ప్రతి ఇంటికి ఆనందం, సమృద్ధి, శాంతి కలగాలని ఆకాంక్ష",
+    "ఐక్యత, సామరస్యంతో ముందుకు సాగాలని పిలుపు"
+   ],
+   "why": "సీఎం సందేశం పండుగ వేళ రాష్ట్ర ప్రజల్లో ఉత్సాహాన్ని నింపుతుంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/cm-naidu-extends-diwali-greetings-to-people-1140247",
+   "sec": [
+    "wishes",
+    "india",
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "అమరావతి",
+   "en": {
+    "cat": "🪔 Diwali · Andhra Pradesh",
+    "statl": "Chandrababu Naidu's Diwali greetings",
+    "h": "May light fill every home: CM Chandrababu Naidu's Diwali greetings",
+    "p": "Andhra Pradesh Chief Minister N. Chandrababu Naidu conveyed Diwali greetings to the people of the state in a message. He said the festival marks the victory of good over evil and the liberation from Narakasura's tyranny. He hoped the lights bring happiness, prosperity and peace to every home, and called for mutual cooperation, unity and harmony.",
+    "pts": [
+     "Diwali symbolises good over evil",
+     "Wished happiness, prosperity and peace to every home",
+     "Called for unity and harmony"
+    ],
+    "why": "The CM's message adds to the festive spirit among the state's people."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · आंध्र प्रदेश",
+    "statl": "चंद्रबाबू नायडू की दिवाली शुभकामनाएँ",
+    "h": "हर घर में रोशनी भरे: मुख्यमंत्री चंद्रबाबू नायडू की दिवाली शुभकामनाएँ",
+    "p": "आंध्र प्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू ने अपने संदेश में राज्य की जनता को दिवाली की शुभकामनाएँ दीं। उन्होंने कहा कि यह त्योहार बुराई पर अच्छाई की जीत और नरकासुर के अत्याचार से मुक्ति का प्रतीक है। उन्होंने कामना की कि दीपों की रोशनी हर घर में खुशी, समृद्धि और शांति लाए, और आपसी सहयोग, एकता व सद्भाव का आह्वान किया।",
+    "pts": [
+     "दिवाली बुराई पर अच्छाई की जीत का प्रतीक",
+     "हर घर में खुशी, समृद्धि, शांति की कामना",
+     "एकता और सद्भाव की अपील"
+    ],
+    "why": "मुख्यमंत्री का संदेश त्योहार पर राज्य के लोगों में उत्साह भरता है।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "col": "--c-city",
+   "art": "unity",
+   "d": "08.11.2026",
+   "t": "17:49",
+   "who": "Anura Kumara Dissanayake",
+   "cat": "🪔 దీపావళి · శ్రీలంక",
+   "stat": "శ్రీలంక అధ్యక్షుడు",
+   "statl": "హిందువులకు దీపావళి శుభాకాంక్షలు",
+   "h": "దయ, సహజీవనం ఎంచుకోవాలి: శ్రీలంక అధ్యక్షుడు దిసనాయకే దీపావళి సందేశం",
+   "p": "శ్రీలంక అధ్యక్షుడు అనుర కుమార దిసనాయకే ఎక్స్ పోస్ట్, అధికారిక ప్రకటన ద్వారా దీపావళి శుభాకాంక్షలు తెలిపారు. చీకటిపై వెలుగు, అజ్ఞానంపై జ్ఞానం సాధించిన విజయానికి దీపావళి ప్రతీక అని పేర్కొన్నారు. ద్వేషం బదులు దయను, విభజన బదులు సహజీవనాన్ని ఎంచుకోవాలని కోరారు. శ్రీలంకతో పాటు ప్రపంచవ్యాప్తంగా ఉన్న హిందువులకు శాంతియుత, సంతోషకర దీపావళి కావాలని ఆకాంక్షించారు.",
+   "pts": [
+    "ఎక్స్ పోస్ట్, అధికారిక ప్రకటన ద్వారా సందేశం",
+    "ద్వేషం బదులు దయ ఎంచుకోవాలని పిలుపు",
+    "ప్రపంచ హిందువులకు శుభాకాంక్షలు"
+   ],
+   "why": "పొరుగు దేశాధినేత సందేశం భారత్‌తో సాంస్కృతిక అనుబంధాన్ని గుర్తుచేస్తుంది.",
+   "src": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/from-trump-to-shehbaz-sharif-world-leaders-extend-diwali-greetings-call-for-peace-religious-harmony-and-prosperity-566372-2026-11-08",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "కొలంబో",
+   "en": {
+    "cat": "🪔 Diwali · Sri Lanka",
+    "statl": "Diwali greetings to Hindus",
+    "h": "Choose kindness and coexistence: Sri Lankan President Dissanayake's Diwali message",
+    "p": "Sri Lankan President Anura Kumara Dissanayake extended Diwali greetings through an X post and an official statement. He said Deepavali symbolises the victory of light over darkness and knowledge over ignorance. He urged people to choose kindness over hatred and coexistence over division, and wished Hindus in Sri Lanka and worldwide a peaceful, joyful Deepavali.",
+    "pts": [
+     "Message via X post and official statement",
+     "Call to choose kindness over hatred",
+     "Greetings to Hindus worldwide"
+    ],
+    "why": "The neighbouring head of state's message recalls cultural ties with India."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · श्रीलंका",
+    "statl": "हिंदुओं को दिवाली की शुभकामनाएँ",
+    "h": "दया और सह-अस्तित्व चुनें: श्रीलंका के राष्ट्रपति दिसानायके का दिवाली संदेश",
+    "p": "श्रीलंका के राष्ट्रपति अनुरा कुमार दिसानायके ने एक्स पोस्ट और आधिकारिक बयान के ज़रिए दिवाली की शुभकामनाएँ दीं। उन्होंने कहा कि दीपावली अंधकार पर प्रकाश और अज्ञान पर ज्ञान की जीत का प्रतीक है। उन्होंने नफ़रत की जगह दया और विभाजन की जगह सह-अस्तित्व चुनने का आग्रह किया, और श्रीलंका व दुनिया भर के हिंदुओं को शांतिपूर्ण, आनंदमय दीपावली की कामना की।",
+    "pts": [
+     "एक्स पोस्ट और आधिकारिक बयान से संदेश",
+     "नफ़रत की जगह दया चुनने की अपील",
+     "दुनिया भर के हिंदुओं को शुभकामनाएँ"
+    ],
+    "why": "पड़ोसी देश के राष्ट्राध्यक्ष का संदेश भारत से सांस्कृतिक रिश्तों की याद दिलाता है।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "col": "--c-city",
+   "art": "unity",
+   "d": "08.11.2026",
+   "t": "17:49",
+   "who": "Sheikh Mohammed bin Rashid Al Maktoum",
+   "cat": "🪔 దీపావళి · యూఏఈ",
+   "stat": "యూఏఈ ఉపాధ్యక్షుడు",
+   "statl": "యూఏఈ, ప్రపంచ ప్రజలకు శుభాకాంక్షలు",
+   "h": "శాంతి, ఆశ నిండాలి: యూఏఈ ఉపాధ్యక్షుడు షేక్ మొహమ్మద్ బిన్ రషీద్ దీపావళి శుభాకాంక్షలు",
+   "p": "యూఏఈ ఉపాధ్యక్షుడు, దుబాయ్ పాలకుడు షేక్ మొహమ్మద్ బిన్ రషీద్ అల్ మక్తూమ్ ఎక్స్‌లో పోస్ట్ ద్వారా దీపావళి శుభాకాంక్షలు తెలిపారు. యూఏఈతో పాటు ప్రపంచవ్యాప్తంగా పండుగ జరుపుకుంటున్న వారికి ఆనందం, భద్రత, సమృద్ధి కలగాలని ఆకాంక్షించారు. ఈ వెలుగుల పండుగ శాంతి, ఆశ, మంచితనాన్ని తేవాలని కోరుకున్నారు.",
+   "pts": [
+    "ఎక్స్‌లో పోస్ట్ ద్వారా సందేశం",
+    "ఆనందం, భద్రత, సమృద్ధి కలగాలని ఆకాంక్ష",
+    "యూఏఈ, ప్రపంచ ప్రజలకు శుభాకాంక్షలు"
+   ],
+   "why": "గల్ఫ్‌లో ఉన్న లక్షలాది భారతీయులకు ఈ సందేశం ప్రత్యేకం.",
+   "src": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/from-trump-to-shehbaz-sharif-world-leaders-extend-diwali-greetings-call-for-peace-religious-harmony-and-prosperity-566372-2026-11-08",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "దుబాయ్",
+   "en": {
+    "cat": "🪔 Diwali · UAE",
+    "statl": "Greetings to the UAE and the world",
+    "h": "May peace and hope shine: UAE Vice President Sheikh Mohammed bin Rashid's Diwali greetings",
+    "p": "UAE Vice President and Ruler of Dubai Sheikh Mohammed bin Rashid Al Maktoum extended Diwali greetings in a post on X. He wished happiness, safety and prosperity to those celebrating in the UAE and around the world. He hoped the festival of lights brings peace, hope and goodness.",
+    "pts": [
+     "Message posted on X",
+     "Wished happiness, safety and prosperity",
+     "Greetings to the UAE and the world"
+    ],
+    "why": "The message is special for the millions of Indians living in the Gulf."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · यूएई",
+    "statl": "यूएई और दुनिया को शुभकामनाएँ",
+    "h": "शांति और आशा फैले: यूएई उपराष्ट्रपति शेख मोहम्मद बिन राशिद की दिवाली शुभकामनाएँ",
+    "p": "यूएई के उपराष्ट्रपति और दुबई के शासक शेख मोहम्मद बिन राशिद अल मकतूम ने एक्स पर पोस्ट के ज़रिए दिवाली की शुभकामनाएँ दीं। उन्होंने यूएई और दुनिया भर में त्योहार मना रहे लोगों के लिए खुशी, सुरक्षा और समृद्धि की कामना की। उन्होंने कहा कि रोशनी का यह त्योहार शांति, आशा और भलाई लाए।",
+    "pts": [
+     "एक्स पर पोस्ट से संदेश",
+     "खुशी, सुरक्षा, समृद्धि की कामना",
+     "यूएई और दुनिया को शुभकामनाएँ"
+    ],
+    "why": "खाड़ी में रह रहे लाखों भारतीयों के लिए यह संदेश ख़ास है।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "col": "--c-city",
+   "art": "unity",
+   "d": "08.11.2026",
+   "t": "17:49",
+   "who": "Shehbaz Sharif",
+   "cat": "🪔 దీపావళి · పాకిస్థాన్",
+   "stat": "పాక్ ప్రధాని",
+   "statl": "హిందువులకు దీపావళి శుభాకాంక్షలు",
+   "h": "మత సామరస్యం కావాలి: పాకిస్థాన్ ప్రధాని షెహబాజ్ షరీఫ్ దీపావళి శుభాకాంక్షలు",
+   "p": "పాకిస్థాన్ ప్రధాని షెహబాజ్ షరీఫ్ ప్రధాని కార్యాలయం ఎక్స్ ఖాతాలో విడుదల చేసిన ప్రకటన ద్వారా దీపావళి శుభాకాంక్షలు తెలిపారు. పాకిస్థాన్‌తో పాటు ప్రపంచవ్యాప్తంగా ఉన్న హిందువులకు శుభాకాంక్షలు చెప్పారు. దేశంలోని హిందూ సమాజం జాతిలో విలువైన, అంతర్భాగమని పేర్కొన్నారు. మత సామరస్యం, సహనం అవసరమని పిలుపునిచ్చారు.",
+   "pts": [
+    "ప్రధాని కార్యాలయం ఎక్స్ ఖాతాలో ప్రకటన",
+    "హిందూ సమాజం దేశంలో అంతర్భాగమని వ్యాఖ్య",
+    "మత సామరస్యం, సహనానికి పిలుపు"
+   ],
+   "why": "పొరుగు దేశ ప్రధాని దీపావళి సందేశం అక్కడి హిందువులకు ప్రాధాన్యం కలిగినది.",
+   "src": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/from-trump-to-shehbaz-sharif-world-leaders-extend-diwali-greetings-call-for-peace-religious-harmony-and-prosperity-566372-2026-11-08",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "ఇస్లామాబాద్",
+   "en": {
+    "cat": "🪔 Diwali · Pakistan",
+    "statl": "Diwali greetings to Hindus",
+    "h": "Calls for religious harmony: Pakistan PM Shehbaz Sharif's Diwali greetings",
+    "p": "Pakistan Prime Minister Shehbaz Sharif extended Diwali greetings in a statement released on the Prime Minister's Office X account. He wished Hindus in Pakistan and around the world. He described the country's Hindu community as a valued and integral part of the nation, and called for religious harmony and tolerance.",
+    "pts": [
+     "Statement on the PM Office's X account",
+     "Called Hindu community an integral part of the nation",
+     "Call for religious harmony and tolerance"
+    ],
+    "why": "The neighbouring PM's Diwali message matters to Hindus living there."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · पाकिस्तान",
+    "statl": "हिंदुओं को दिवाली की शुभकामनाएँ",
+    "h": "धार्मिक सद्भाव की अपील: पाकिस्तान के प्रधानमंत्री शहबाज़ शरीफ़ की दिवाली शुभकामनाएँ",
+    "p": "पाकिस्तान के प्रधानमंत्री शहबाज़ शरीफ़ ने प्रधानमंत्री कार्यालय के एक्स खाते पर जारी बयान के ज़रिए दिवाली की शुभकामनाएँ दीं। उन्होंने पाकिस्तान और दुनिया भर के हिंदुओं को शुभकामनाएँ दीं। उन्होंने देश के हिंदू समुदाय को राष्ट्र का मूल्यवान और अभिन्न हिस्सा बताया, और धार्मिक सद्भाव व सहिष्णुता का आह्वान किया।",
+    "pts": [
+     "प्रधानमंत्री कार्यालय के एक्स खाते पर बयान",
+     "हिंदू समुदाय को राष्ट्र का अभिन्न हिस्सा बताया",
+     "धार्मिक सद्भाव और सहिष्णुता की अपील"
+    ],
+    "why": "पड़ोसी देश के प्रधानमंत्री का दिवाली संदेश वहाँ के हिंदुओं के लिए अहम है।"
+   }
+  },
   {
    "fest": "diwali-2026",
    "col": "--c-city",
