@@ -1,8 +1,62 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 45,
+ "count": 46,
  "stories": [
+  {
+   "cat": "🪔 దీపావళి · బొమ్మలరామారం",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "యావపూర్",
+   "statl": "ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే",
+   "h": "యావపూర్‌లో ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే బీర్ల అయిలయ్య",
+   "p": "బొమ్మలరామారం మండలం యావపూర్ గ్రామంలో ఇందిరమ్మ ఇంట్లో నిర్వహించిన దీపావళి వేడుకల్లో తెలంగాణ రాష్ట్ర ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల అయిలయ్య గారు పాల్గొన్నారు. ఈ సందర్భంగా ఇందిరమ్మ ఇంట్లో గృహప్రవేశం చేసి, కుటుంబ సభ్యులకు పట్టుబట్టలు, స్వీట్లు, టపాకాయలు అందజేసి దీపావళి శుభాకాంక్షలు తెలిపారు. వారి ఇంట్లో ఆనందోత్సాహాలు నింపారు.",
+   "src": "Way2Sec రిపోర్టర్ · బొమ్మలరామారం",
+   "url": "",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "yadadri",
+   "loc": "యావపూర్, బొమ్మలరామారం",
+   "pts": [
+    "“మా ఇందిరమ్మ ఇంట్లో దీపావళి” కార్యక్రమం",
+    "ఇందిరమ్మ ఇంట్లో గృహప్రవేశం",
+    "కుటుంబానికి పట్టుబట్టలు, స్వీట్లు, టపాకాయలు అందజేత"
+   ],
+   "why": "ఇందిరమ్మ పథకంలో కొత్త ఇల్లు పొందిన పేద కుటుంబం తమ ఇంట్లోనే తొలి దీపావళి జరుపుకుంది.",
+   "en": {
+    "cat": "🪔 Diwali · Bommalaramaram",
+    "stat": "Yavapur",
+    "statl": "MLA at Diwali in an Indiramma home",
+    "h": "MLA Beerla Ilaiah joins Diwali celebrations in an Indiramma home at Yavapur",
+    "p": "Telangana government whip and Aler MLA Beerla Ilaiah took part in Diwali celebrations held in an Indiramma house at Yavapur village, Bommalaramaram mandal. He joined the housewarming of the Indiramma house, gave the family silk clothes, sweets and crackers, and wished them a happy Diwali, filling their home with joy.",
+    "pts": [
+     "“Diwali in our Indiramma home” programme",
+     "Housewarming of the Indiramma house",
+     "Silk clothes, sweets and crackers given to the family"
+    ],
+    "why": "A poor family that got a new house under the Indiramma scheme celebrated its first Diwali in its own home."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · बोम्मलरामारम",
+    "stat": "यावपुर",
+    "statl": "इंदिरम्मा घर में दिवाली समारोह में विधायक",
+    "h": "यावपुर में इंदिरम्मा घर के दिवाली समारोह में शामिल हुए विधायक बीरला ऐलय्या",
+    "p": "तेलंगाना सरकार के व्हिप और आलेर विधायक बीरला ऐलय्या बोम्मलरामारम मंडल के यावपुर गाँव में एक इंदिरम्मा घर में आयोजित दिवाली समारोह में शामिल हुए। उन्होंने इंदिरम्मा घर के गृहप्रवेश में भाग लिया, परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे दिए और दिवाली की शुभकामनाएँ देकर उनके घर में खुशियाँ भर दीं।",
+    "pts": [
+     "“हमारे इंदिरम्मा घर में दिवाली” कार्यक्रम",
+     "इंदिरम्मा घर का गृहप्रवेश",
+     "परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे"
+    ],
+    "why": "इंदिरम्मा योजना में नया घर पाने वाले गरीब परिवार ने अपने घर में पहली दिवाली मनाई।"
+   },
+   "d": "08.11.2026",
+   "t": "14:00",
+   "img": "photos/2026-11-08-yavapur-indiramma-diwali.jpg",
+   "imgfy": 0.4,
+   "local": true
+  },
   {
    "cat": "ఏపీ · తుపాను సాయం",
    "col": "--c-gov",
