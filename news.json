@@ -1,8 +1,202 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T15:09:12+05:30",
+ "updated": "2026-11-08T15:41:15+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · భూ రికార్డులు",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "₹90 కోట్లు",
+   "statl": "భూ మ్యుటేషన్ కుంభకోణం విలువ (ఆరోపణ)",
+   "h": "భూ మ్యుటేషన్ కుంభకోణం: భూ భారతి ఆపరేటర్ సహా నలుగురు అరెస్ట్",
+   "p": "సంగారెడ్డి జిల్లాలో సుమారు ₹90 కోట్ల విలువైన భూ మ్యుటేషన్ కుంభకోణం ఆరోపణలపై తెలంగాణ సీఐడీ శనివారం ఒక భూ భారతి ఆపరేటర్‌తో పాటు మరో ముగ్గురిని అరెస్ట్ చేసింది. కొల్లూరు గ్రామంలో మూడు ఎకరాల భూమి తహసీల్దార్ కార్యాలయానికి తెలియకుండానే మరొకరి పేరుకు మార్చినట్లు గుర్తించారు. భూ రికార్డులపై ప్రభుత్వ దర్యాప్తులో ఇదే తొలి అరెస్ట్ అని నివేదిక పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/bhu-bharati-operator-three-others-held-for-land-mutation-scam-3571533/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కొల్లూరు",
+   "pts": [
+    "రామచంద్రాపురం తహసీల్దార్ ఫిర్యాదుతో జూలైలో కేసు నమోదు",
+    "దరఖాస్తు, విచారణ లేకుండానే 3 ఎకరాల మ్యుటేషన్",
+    "సీఐడీ డీజీ చారు సిన్హా నేతృత్వంలో సిట్ దర్యాప్తు"
+   ],
+   "why": "భూ భారతి పోర్టల్‌లో రికార్డుల భద్రత ప్రతి భూ యజమానికీ ముఖ్యమైన విషయం.",
+   "en": {
+    "h": "Land mutation scam: Bhu Bharati operator among four arrested",
+    "p": "Telangana CID on Saturday arrested a Bhu Bharati operator and three others in Sangareddy district over an alleged land mutation scam worth about ₹90 crore. Three acres of land in Kollur village were found transferred to another person's name without the tahsildar's office's knowledge. The report says this is the first arrest in the government's probe into land records.",
+    "pts": [
+     "Case filed in July on Ramachandrapuram tahsildar's complaint",
+     "3 acres mutated without application or field enquiry",
+     "SIT led by CID DG Charu Sinha is probing"
+    ],
+    "why": "The security of records on the Bhu Bharati portal matters to every landowner.",
+    "cat": "Telangana · Land records",
+    "statl": "Alleged value of the land mutation scam"
+   },
+   "hi": {
+    "h": "भूमि म्यूटेशन घोटाला: भू भारती ऑपरेटर समेत चार गिरफ्तार",
+    "p": "तेलंगाना सीआईडी ने शनिवार को संगारेड्डी ज़िले में लगभग ₹90 करोड़ के कथित भूमि म्यूटेशन घोटाले में एक भू भारती ऑपरेटर और तीन अन्य को गिरफ्तार किया। कोल्लूर गांव में तीन एकड़ ज़मीन तहसीलदार कार्यालय की जानकारी के बिना किसी दूसरे व्यक्ति के नाम कर दी गई थी। रिपोर्ट के अनुसार भूमि रिकॉर्ड की सरकारी जांच में यह पहली गिरफ्तारी है।",
+    "pts": [
+     "रामचंद्रपुरम तहसीलदार की शिकायत पर जुलाई में केस दर्ज",
+     "बिना आवेदन और जांच के 3 एकड़ का म्यूटेशन",
+     "सीआईडी डीजी चारु सिन्हा के नेतृत्व में एसआईटी जांच"
+    ],
+    "why": "भू भारती पोर्टल पर रिकॉर्ड की सुरक्षा हर ज़मीन मालिक के लिए अहम है।",
+    "cat": "तेलंगाना · भूमि रिकॉर्ड",
+    "statl": "भूमि म्यूटेशन घोटाले की कथित राशि"
+   },
+   "d": "08.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "6 మంది",
+   "statl": "కోర్టు ధిక్కరణ నోటీసులు అందుకున్న అధికారులు",
+   "h": "హైడ్రా కమిషనర్ సహా ఆరుగురు అధికారులకు హైకోర్టు ధిక్కరణ నోటీసులు",
+   "p": "కోర్టు ఆదేశాలను పాటించలేదని ప్రాథమికంగా భావిస్తూ తెలంగాణ హైకోర్టు శుక్రవారం హైడ్రా కమిషనర్ ఏవీ రంగనాథ్, ఎంఏయూడీ ముఖ్య కార్యదర్శి సహా ఆరుగురు అధికారులకు ధిక్కరణ నోటీసులు జారీ చేసింది. అమీన్‌పూర్ మండలం ఐలాపూర్‌లో 98 ఏళ్ల రైతు ఫామ్‌హౌస్‌ను ఏప్రిల్‌లో కూల్చివేయడంపై ఈ పిటిషన్ దాఖలైంది. డిసెంబర్ 4న హాజరు కావాలని ఆదేశించింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hc-issues-contempt-notice-to-hydraa-commissioner-5-others-3571253/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "ఐలాపూర్",
+   "pts": [
+    "జస్టిస్ సీవీ భాస్కర్ రెడ్డి ధర్మాసనం నోటీసులు",
+    "ఏప్రిల్ 11న ముందస్తు నోటీసు లేకుండా కూల్చివేత",
+    "రైతు వద్ద 1959 నాటి రిజిస్టర్డ్ సేల్ డీడ్లు"
+   ],
+   "why": "కూల్చివేతల్లో కోర్టు ఆదేశాలను అధికారులు తప్పక పాటించాలని ఈ కేసు గుర్తు చేస్తోంది.",
+   "en": {
+    "h": "High Court issues contempt notices to HYDRAA chief, five other officials",
+    "p": "Finding a prima facie failure to follow its orders, the Telangana High Court on Friday issued contempt notices to HYDRAA Commissioner A.V. Ranganath, the MAUD Principal Secretary and four other officials. The petition concerns the April demolition of a 98-year-old farmer's farmhouse at Ailapur in Ameenpur mandal. They have been told to appear on December 4.",
+    "pts": [
+     "Notices issued by Justice C.V. Bhaskar Reddy",
+     "Demolition on April 11 without prior notice",
+     "Farmer holds registered sale deeds dating to 1959"
+    ],
+    "why": "The case is a reminder that officials must follow court orders in demolitions.",
+    "cat": "Telangana · High Court",
+    "statl": "Officials served contempt notices"
+   },
+   "hi": {
+    "h": "हाईकोर्ट ने हाइड्रा आयुक्त समेत छह अधिकारियों को अवमानना नोटिस दिया",
+    "p": "आदेशों का पालन न करने को प्रथम दृष्टया मानते हुए तेलंगाना हाईकोर्ट ने शुक्रवार को हाइड्रा आयुक्त ए.वी. रंगनाथ, एमएयूडी प्रमुख सचिव समेत छह अधिकारियों को अवमानना नोटिस जारी किया। याचिका अमीनपुर मंडल के ऐलापुर में 98 वर्षीय किसान के फार्महाउस को अप्रैल में गिराए जाने से जुड़ी है। उन्हें 4 दिसंबर को पेश होने को कहा गया है।",
+    "pts": [
+     "जस्टिस सी.वी. भास्कर रेड्डी ने जारी किए नोटिस",
+     "11 अप्रैल को बिना पूर्व सूचना के तोड़फोड़",
+     "किसान के पास 1959 के पंजीकृत बिक्री दस्तावेज़"
+    ],
+    "why": "यह मामला याद दिलाता है कि तोड़फोड़ में अधिकारियों को अदालत के आदेश मानने होंगे।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "अवमानना नोटिस पाने वाले अधिकारी"
+   },
+   "d": "08.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "4,197",
+   "statl": "డ్రైవింగ్‌లో ఫోన్ వాడుతూ పట్టుబడినవారు",
+   "h": "డ్రైవింగ్‌లో ఫోన్: హైదరాబాద్‌లో వారంలో 4,197 మందిపై కేసులు",
+   "p": "నవంబర్ 1 నుంచి 7 వరకు నిర్వహించిన ప్రత్యేక తనిఖీల్లో వాహనం నడుపుతూ మొబైల్ ఫోన్ వాడిన 4,197 మందిపై హైదరాబాద్ ట్రాఫిక్ పోలీసులు కేసులు నమోదు చేశారు. వీరిలో 4,038 మంది ద్విచక్ర వాహనదారులే. ఫోన్ వాడకం దృష్టిని మళ్లించి ప్రమాదాలకు దారి తీస్తుందని, ఇలాంటి ప్రత్యేక డ్రైవ్‌లు తరచూ కొనసాగుతాయని పోలీసులు తెలిపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/4197-motorists-caught-using-phones-while-driving-in-hyderabad-3571491/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ద్విచక్ర వాహనాలు 4,038, కార్లు 121",
+    "ఆటోలు వంటి త్రిచక్ర వాహనాలు 38",
+    "జీరో టాలరెన్స్ విధానం కొనసాగుతుందన్న పోలీసులు"
+   ],
+   "why": "హైదరాబాద్‌లో వాహనదారులు ఫోన్ వాడితే కేసులు తప్పవని ఇది హెచ్చరిస్తోంది.",
+   "en": {
+    "h": "Phone while driving: 4,197 booked in Hyderabad in a week",
+    "p": "In a special drive from November 1 to 7, Hyderabad Traffic Police booked 4,197 motorists for using mobile phones while driving. Of them, 4,038 were two-wheeler riders. Police said phone use diverts attention and leads to accidents, and that such special drives will continue regularly.",
+    "pts": [
+     "Two-wheelers 4,038, four-wheelers 121",
+     "Three-wheelers 38",
+     "Police say zero-tolerance approach will continue"
+    ],
+    "why": "It warns Hyderabad motorists that using a phone while driving will lead to cases.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Motorists caught using phones while driving"
+   },
+   "hi": {
+    "h": "ड्राइविंग में फ़ोन: हैदराबाद में एक हफ़्ते में 4,197 पर केस",
+    "p": "1 से 7 नवंबर तक चले विशेष अभियान में हैदराबाद ट्रैफ़िक पुलिस ने गाड़ी चलाते समय मोबाइल फ़ोन इस्तेमाल करने वाले 4,197 वाहन चालकों पर केस दर्ज किए। इनमें 4,038 दोपहिया चालक थे। पुलिस ने कहा कि फ़ोन का इस्तेमाल ध्यान भटकाकर हादसों की वजह बनता है और ऐसे विशेष अभियान नियमित रूप से जारी रहेंगे।",
+    "pts": [
+     "दोपहिया 4,038, चारपहिया 121",
+     "तिपहिया वाहन 38",
+     "पुलिस बोली, ज़ीरो टॉलरेंस नीति जारी रहेगी"
+    ],
+    "why": "यह हैदराबाद के वाहन चालकों को चेतावनी है कि ड्राइविंग में फ़ोन इस्तेमाल पर केस होगा।",
+    "cat": "हैदराबाद · ट्रैफ़िक",
+    "statl": "ड्राइविंग में फ़ोन इस्तेमाल करते पकड़े गए चालक"
+   },
+   "d": "08.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా-ఇరాన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "147",
+   "statl": "జూలై నుంచి అమెరికా దారి మళ్లించిన నౌకలు",
+   "h": "ఇరాన్ భూమార్గ సరఫరాల అడ్డుకట్టకు అమెరికా 'టాస్క్ ఫోర్స్ ఐరన్ గేట్'",
+   "p": "హార్ముజ్ వద్ద ఇరాన్ ఓడరేవులపై నౌకాదిగ్బంధాన్ని విస్తరిస్తూ, భూ సరిహద్దులు, కాస్పియన్ సముద్రం ద్వారా ఆయుధాలు, ఆంక్షల సరుకుల రవాణాను అడ్డుకునేందుకు 'టాస్క్ ఫోర్స్ ఐరన్ గేట్'ను ఏర్పాటు చేసినట్లు అమెరికా సెంట్రల్ కమాండ్ ప్రకటించింది. జూలై నుంచి 147 వాణిజ్య నౌకలను దారి మళ్లించామని, నిరాకరించిన ఐదు నౌకలను నిలిపివేశామని తెలిపింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "టాస్క్ ఫోర్స్ కేంద్రం అమెరికాలోని టాంపా",
+    "నిరాకరించిన 5 వాణిజ్య నౌకలను నిలిపివేసిన అమెరికా",
+    "ఖతార్ మధ్యవర్తిత్వంలో చర్చలు కొనసాగుతున్నాయి"
+   ],
+   "why": "గల్ఫ్ ఉద్రిక్తతలు చమురు సరఫరాలు, గల్ఫ్‌లోని తెలుగు ప్రజలపై ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "US launches 'Task Force Iron Gate' to block Iran's land supply routes",
+    "p": "Expanding its naval blockade of Iranian ports at Hormuz, US Central Command announced 'Task Force Iron Gate' to stop weapons and sanctioned goods moving across Iran's land borders and the Caspian Sea. It said 147 commercial vessels have been redirected since July and five ships that refused were disabled.",
+    "pts": [
+     "Task force is based in Tampa, US",
+     "US disabled 5 merchant ships that refused to comply",
+     "Qatar-mediated talks are continuing"
+    ],
+    "why": "Gulf tensions could affect oil supplies and Telugu people living in the Gulf.",
+    "cat": "World · US-Iran",
+    "statl": "Ships redirected by the US since July"
+   },
+   "hi": {
+    "h": "ईरान के ज़मीनी सप्लाई रास्ते रोकने को अमेरिका की 'टास्क फ़ोर्स आयरन गेट'",
+    "p": "होर्मुज़ में ईरानी बंदरगाहों की नौसैनिक नाकेबंदी का विस्तार करते हुए अमेरिकी सेंट्रल कमांड ने ईरान की ज़मीनी सीमाओं और कैस्पियन सागर से हथियार व प्रतिबंधित सामान की आवाजाही रोकने के लिए 'टास्क फ़ोर्स आयरन गेट' की घोषणा की। उसने कहा कि जुलाई से 147 व्यापारिक जहाज़ों का रास्ता बदला गया और इनकार करने वाले पांच जहाज़ निष्क्रिय किए गए।",
+    "pts": [
+     "टास्क फ़ोर्स का मुख्यालय अमेरिका के टैम्पा में",
+     "इनकार करने वाले 5 व्यापारिक जहाज़ अमेरिका ने निष्क्रिय किए",
+     "क़तर की मध्यस्थता में बातचीत जारी"
+    ],
+    "why": "खाड़ी का तनाव तेल आपूर्ति और खाड़ी में रह रहे तेलुगु लोगों पर असर डाल सकता है।",
+    "cat": "दुनिया · अमेरिका-ईरान",
+    "statl": "जुलाई से अमेरिका द्वारा मोड़े गए जहाज़"
+   },
+   "d": "08.11.2026",
+   "t": "15:35"
+  },
   {
    "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
    "col": "--c-election",
@@ -1761,102 +1955,6 @@
     "cat": "दुनिया · यमन",
     "statl": "सना प्रांत के हमलों में मौतें"
    }
-  },
-  {
-   "cat": "భారత్ · ఆహార భద్రత",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "3,280 టన్నులు",
-   "statl": "స్వాధీనం చేసుకున్న కల్తీ, నిబంధనలు పాటించని ఆహారం",
-   "h": "పండుగ తనిఖీలు: ₹82 కోట్ల విలువైన 3,280 టన్నుల ఆహారం స్వాధీనం",
-   "p": "పండుగ సీజన్‌లో కల్తీని అరికట్టేందుకు సెప్టెంబర్ 1 నుంచి దేశవ్యాప్తంగా చేపట్టిన తనిఖీల్లో భారత ఆహార భద్రత, ప్రమాణాల సంస్థ (FSSAI) సుమారు ₹82 కోట్ల విలువైన 3,280 టన్నుల నిషేధిత, నిబంధనలు పాటించని ఆహార పదార్థాలను స్వాధీనం చేసుకుంది. వీటిలో పనీర్, నెయ్యి, పాలు, స్వీట్లు ఉన్నాయి. 52 లైసెన్సులు రద్దు కాగా, 1,133 సస్పెండ్ అయ్యాయి.",
-   "src": "PTI",
-   "url": "https://www.orissapost.com/fssai-seizes-3280-tonnes-of-food-items-cancels-52-licences-in-nationwide-inspection-drive/",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "సెప్టెంబర్ 1–నవంబర్ 5 మధ్య 56,431 సంస్థల తనిఖీ",
-    "314 సంస్థలు సీల్; 10,047 మందికి నోటీసులు",
-    "పనీర్, నెయ్యి, పాలు, స్వీట్లు స్వాధీనం"
-   ],
-   "why": "దీపావళి స్వీట్లు, పాల ఉత్పత్తులు కొనేవారు నాణ్యత, లైసెన్స్ ఉన్న దుకాణాలను చూసి కొనడం మంచిది.",
-   "en": {
-    "h": "Festive checks: 3,280 tonnes of food worth ₹82 crore seized",
-    "p": "In a nationwide inspection drive that began on September 1 to curb adulteration during the festive season, the Food Safety and Standards Authority of India (FSSAI) seized about 3,280 tonnes of banned and non-compliant food products worth around ₹82 crore. These included paneer, ghee, milk and sweets. 52 licences were cancelled and 1,133 suspended.",
-    "pts": [
-     "56,431 establishments inspected between Sept 1 and Nov 5",
-     "314 establishments sealed; 10,047 notices issued",
-     "Paneer, ghee, milk and sweets seized"
-    ],
-    "why": "People buying Diwali sweets and dairy products should check quality and buy from licensed shops.",
-    "cat": "India · Food Safety",
-    "statl": "Adulterated and non-compliant food seized"
-   },
-   "hi": {
-    "h": "त्योहारी जांच: ₹82 करोड़ का 3,280 टन खाद्य पदार्थ जब्त",
-    "p": "त्योहारों के मौसम में मिलावट रोकने के लिए 1 सितंबर से देशभर में चलाए गए जांच अभियान में भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) ने लगभग ₹82 करोड़ मूल्य का 3,280 टन प्रतिबंधित और नियमों का पालन न करने वाला खाद्य पदार्थ जब्त किया। इनमें पनीर, घी, दूध और मिठाइयां शामिल हैं। 52 लाइसेंस रद्द और 1,133 निलंबित किए गए।",
-    "pts": [
-     "1 सितंबर–5 नवंबर के बीच 56,431 प्रतिष्ठानों की जांच",
-     "314 प्रतिष्ठान सील; 10,047 नोटिस जारी",
-     "पनीर, घी, दूध और मिठाइयां जब्त"
-    ],
-    "why": "दिवाली की मिठाइयां और दूध उत्पाद खरीदने वाले गुणवत्ता देखें और लाइसेंस वाली दुकानों से ही खरीदें।",
-    "cat": "भारत · खाद्य सुरक्षा",
-    "statl": "जब्त मिलावटी और नियम-विरुद्ध खाद्य पदार्थ"
-   },
-   "d": "08.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "ప్రపంచం · ఇజ్రాయెల్",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "67 vs 46",
-   "statl": "ఐసెన్‌కోట్, నెతన్యాహులకు ఎంపీల మద్దతు",
-   "h": "ఇజ్రాయెల్‌లో ప్రభుత్వ ఏర్పాటుకు నెతన్యాహు కాకుండా ఐసెన్‌కోట్‌కు అవకాశం",
-   "p": "ఇజ్రాయెల్ అధ్యక్షుడు ఐజాక్ హెర్జోగ్ ప్రభుత్వ ఏర్పాటు బాధ్యతను మాజీ సైన్యాధిపతి, యాషర్ పార్టీ నేత గాడి ఐసెన్‌కోట్‌కు అప్పగించారు. ఆయనకు 67 మంది ఎంపీలు, బెంజమిన్ నెతన్యాహుకు 46 మంది మద్దతు ఇచ్చారు. అధికారిక ఆదేశం ఆదివారం ఇవ్వనున్నారు. 120 సీట్లలో కనీసం 61 మందితో కూటమి కట్టేందుకు ఐసెన్‌కోట్‌కు 28 రోజుల గడువు ఉంది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అక్టోబర్ 27 ఎన్నికల్లో ఏ పక్షానికీ 61 సీట్లు రాలేదు",
-    "ఐసెన్‌కోట్ కూటమికి 48, నెతన్యాహు కూటమికి 53 సీట్లు",
-    "గడువు 28 రోజులు, మరో 14 రోజులు పొడిగించవచ్చు"
-   ],
-   "why": "పశ్చిమాసియా పరిస్థితులపై ప్రభావం చూపే ఈ మార్పును అక్కడ పనిచేసే భారతీయులు గమనించాల్సి ఉంటుంది.",
-   "en": {
-    "h": "Israel: Eisenkot, not Netanyahu, gets chance to form government",
-    "p": "Israeli President Isaac Herzog has given the task of forming the government to former army chief and Yashar party leader Gadi Eisenkot. 67 lawmakers backed him, while 46 backed Benjamin Netanyahu. The formal mandate is to be given on Sunday. Eisenkot has 28 days to build a coalition of at least 61 of the 120 seats.",
-    "pts": [
-     "No side won 61 seats in the October 27 election",
-     "Eisenkot's alliance won 48 seats, Netanyahu's bloc 53",
-     "28-day deadline, extendable by 14 days"
-    ],
-    "why": "Indians working in the region should watch this change, which can affect conditions in West Asia.",
-    "cat": "World · Israel",
-    "statl": "MPs backing Eisenkot vs Netanyahu"
-   },
-   "hi": {
-    "h": "इज़राइल: नेतन्याहू नहीं, आइज़नकोट को सरकार बनाने का मौका",
-    "p": "इज़राइल के राष्ट्रपति आइज़ैक हर्ज़ोग ने सरकार बनाने की ज़िम्मेदारी पूर्व सेना प्रमुख और याशर पार्टी के नेता गादी आइज़नकोट को सौंपी है। उन्हें 67 सांसदों और बेंजामिन नेतन्याहू को 46 सांसदों का समर्थन मिला। औपचारिक जनादेश रविवार को दिया जाएगा। 120 में से कम से कम 61 सीटों का गठबंधन बनाने के लिए आइज़नकोट के पास 28 दिन हैं।",
-    "pts": [
-     "27 अक्टूबर के चुनाव में किसी पक्ष को 61 सीटें नहीं मिलीं",
-     "आइज़नकोट गठबंधन को 48, नेतन्याहू गुट को 53 सीटें",
-     "28 दिन की समय सीमा, 14 दिन और बढ़ सकती है"
-    ],
-    "why": "पश्चिम एशिया के हालात पर असर डाल सकने वाले इस बदलाव पर वहां काम करने वाले भारतीयों को नज़र रखनी चाहिए।",
-    "cat": "विश्व · इज़राइल",
-    "statl": "आइज़नकोट बनाम नेतन्याहू को सांसदों का समर्थन"
-   },
-   "d": "08.11.2026",
-   "t": "09:05"
   },
   {
    "cat": "🪔 దీపావళి · వైరల్ వీడియో",
