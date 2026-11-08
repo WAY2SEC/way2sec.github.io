@@ -1,8 +1,203 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T14:35:00+05:30",
+ "updated": "2026-11-08T15:09:12+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "5,819",
+   "statl": "ఎంపీటీసీ స్థానాలు కూటమి కైవసం",
+   "h": "ఏపీ ఎంపీటీసీ ఫలితాలు: కూటమికి 5,819, వైకాపాకు 1,583 స్థానాలు",
+   "p": "ఆంధ్రప్రదేశ్‌లో మొత్తం 9,821 ఎంపీటీసీ స్థానాల్లో 9,640 ఫలితాలు వెల్లడయ్యాయి. టీడీపీ నేతృత్వంలోని కూటమి 5,819 స్థానాలు గెలుచుకోగా, వైకాపా 1,583 స్థానాలకు పరిమితమైంది. స్వతంత్రులు సహా ఇతరులు 187 చోట్ల గెలిచారు. 2,051 స్థానాలు ఏకగ్రీవం కాగా, 7,767 స్థానాలకు నవంబర్ 5న పోలింగ్ జరిగింది.",
+   "src": "The Hans India, ETV Bharat",
+   "url": "https://www.thehansindia.com/andhra-pradesh/alliance-dominates-andhra-pradesh-ap-mptc-zptc-elections-1140348",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "టీడీపీ 4,754, జనసేన 945, బీజేపీ 120 స్థానాలు",
+    "2,051 ఎంపీటీసీ స్థానాలు ఏకగ్రీవం",
+    "మూడు స్థానాల్లో ఎన్నికలు జరగలేదు"
+   ],
+   "why": "గ్రామీణ స్థాయిలో మండల పరిషత్‌ల పాలన ఎవరి చేతిలో ఉంటుందో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
+   "en": {
+    "h": "AP MPTC results: Alliance wins 5,819 seats, YSRCP 1,583",
+    "p": "Results have been declared for 9,640 of Andhra Pradesh's 9,821 MPTC seats. The TDP-led alliance won 5,819 seats, while the YSRCP was limited to 1,583. Others, including independents, won 187. 2,051 seats were decided unopposed, and polling was held for 7,767 seats on November 5.",
+    "pts": [
+     "TDP 4,754, Jana Sena 945, BJP 120 seats",
+     "2,051 MPTC seats decided unopposed",
+     "Elections were not held in three seats"
+    ],
+    "why": "These results decide who will run mandal parishads at the rural level.",
+    "cat": "AP · Parishad Elections",
+    "statl": "MPTC seats won by the alliance"
+   },
+   "hi": {
+    "h": "आंध्र MPTC नतीजे: गठबंधन को 5,819, YSRCP को 1,583 सीटें",
+    "p": "आंध्र प्रदेश की कुल 9,821 MPTC सीटों में से 9,640 के नतीजे घोषित हो गए हैं। TDP के नेतृत्व वाले गठबंधन ने 5,819 सीटें जीतीं, जबकि YSRCP 1,583 सीटों पर सिमट गई। निर्दलीयों समेत अन्य ने 187 सीटें जीतीं। 2,051 सीटें निर्विरोध तय हुईं और 7,767 सीटों पर 5 नवंबर को मतदान हुआ।",
+    "pts": [
+     "TDP 4,754, जनसेना 945, BJP 120 सीटें",
+     "2,051 MPTC सीटें निर्विरोध तय",
+     "तीन सीटों पर चुनाव नहीं हुआ"
+    ],
+    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्तर पर मंडल परिषदों का शासन किसके हाथ में होगा।",
+    "cat": "आंध्र प्रदेश · परिषद चुनाव",
+    "statl": "गठबंधन की जीती MPTC सीटें"
+   },
+   "d": "08.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "4 ప్రాంతాలు",
+   "statl": "దక్షిణ ఇరాన్‌లో పేలుళ్ల శబ్దాలు",
+   "h": "దక్షిణ ఇరాన్ తీరంలో పలుచోట్ల పేలుళ్లు; సైనిక విన్యాసాలేనన్న ప్రభుత్వ టీవీ",
+   "p": "ఆదివారం దక్షిణ ఇరాన్‌లోని ఖేష్మ్ దీవి, బందర్ అబ్బాస్, జాస్క్, సిరిక్‌లలో పేలుళ్ల శబ్దాలు వినిపించాయి. ఇవి సైనిక విన్యాసాలు, సాయుధ బలగాల కార్యకలాపాల వల్లేనని ఇరాన్ ప్రభుత్వ టీవీ తెలిపింది. కొత్తగా అమెరికా దాడులు జరిగాయన్న వార్తలను ఖండించింది. ఖేష్మ్ దీవిపై ఓ డ్రోన్‌ను కూల్చేశామని ఇరాన్ సైన్యం ప్రకటించింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/multiple-explosions-reported-across-irans-southern-coast-3571747/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఖేష్మ్ దీవి తూర్పు వైపు రెండు పేలుళ్లు",
+    "శనివారం ఖేష్మ్‌పై 'చిన్న దాడి'ని ట్రంప్ ధ్రువీకరించారు",
+    "షరతులు ఒప్పుకునే వరకు హార్ముజ్ మూసివేతేనని ఇరాన్"
+   ],
+   "why": "హార్ముజ్ ఉద్రిక్తతలు చమురు ధరలు, గల్ఫ్‌లో పనిచేసే తెలుగువారి భద్రతపై ప్రభావం చూపుతాయి.",
+   "en": {
+    "h": "Explosions reported across southern Iran coast; state TV says military drills",
+    "p": "Explosions were heard on Sunday at Qeshm Island, Bandar Abbas, Jask and Sirik in southern Iran. Iranian state TV said they were caused by military exercises and armed forces operations, and denied reports of fresh US attacks. The Iranian Army said it shot down a drone over Qeshm Island.",
+    "pts": [
+     "Two blasts on the eastern side of Qeshm Island",
+     "Trump confirmed a 'minor strike' on Qeshm on Saturday",
+     "Iran says Hormuz stays closed until its conditions are accepted"
+    ],
+    "why": "Hormuz tensions affect oil prices and the safety of Telugu people working in the Gulf.",
+    "cat": "World · Iran",
+    "statl": "Places in south Iran where blasts were heard"
+   },
+   "hi": {
+    "h": "दक्षिणी ईरान के तट पर कई जगह धमाके; सरकारी टीवी ने बताया सैन्य अभ्यास",
+    "p": "रविवार को दक्षिणी ईरान के केश्म द्वीप, बंदर अब्बास, जास्क और सिरिक में धमाकों की आवाज़ें सुनी गईं। ईरान के सरकारी टीवी ने कहा कि ये सैन्य अभ्यास और सशस्त्र बलों की कार्रवाइयों की वजह से थीं और नए अमेरिकी हमलों की खबरों को खारिज किया। ईरानी सेना ने कहा कि उसने केश्म द्वीप के ऊपर एक ड्रोन मार गिराया।",
+    "pts": [
+     "केश्म द्वीप के पूर्वी हिस्से में दो धमाके",
+     "ट्रंप ने शनिवार को केश्म पर 'छोटे हमले' की पुष्टि की",
+     "ईरान: शर्तें माने जाने तक होर्मुज़ बंद रहेगा"
+    ],
+    "why": "होर्मुज़ का तनाव तेल की कीमतों और खाड़ी में काम करने वाले भारतीयों की सुरक्षा पर असर डालता है।",
+    "cat": "दुनिया · ईरान",
+    "statl": "दक्षिणी ईरान में धमाकों वाली जगहें"
+   },
+   "d": "08.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "భారత్ · చమురు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹21,630 కో.",
+   "statl": "రెండో త్రైమాసికంలో ఐఓసీ నికర లాభం",
+   "h": "హార్ముజ్ సంక్షోభం: సొంత చమురు, ఎల్‌పీజీ నౌకలు కొననున్న ఐఓసీ",
+   "p": "హార్ముజ్ జలసంధిలో నౌకాయాన అంతరాయం, భారీ రవాణా ఖర్చుల నేపథ్యంలో ప్రభుత్వ రంగ ఇండియన్ ఆయిల్ కార్పొరేషన్ సొంత ముడిచమురు, ఎల్‌పీజీ నౌకలు కొనాలని నిర్ణయించింది. కొన్ని నౌకల కొనుగోలుకు బోర్డు ఆమోదం తెలిపిందని, మేక్ ఇన్ ఇండియా కింద దేశంలోనే నౌకల నిర్మాణాన్నీ పరిశీలిస్తున్నామని ఫైనాన్స్ డైరెక్టర్ అనుజ్ జైన్ తెలిపారు.",
+   "src": "PTI, Siasat Daily",
+   "url": "https://www.siasat.com/west-asia-crisis-ioc-to-buy-crude-and-lpg-ships-3571629/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "ఎల్‌పీజీ స్పాట్ రవాణా ధర టన్నుకు 160–180 డాలర్లు",
+    "ముడిచమురు నిల్వలు 39 రోజులకు సరిపడా",
+    "అక్టోబర్‌లో భారత బాస్కెట్ ధర బ్యారెల్‌కు సుమారు 120 డాలర్లు"
+   ],
+   "why": "చమురు రవాణా ఖర్చులు తగ్గితే దేశంలో ఇంధన, గ్యాస్ సరఫరా స్థిరంగా ఉండేందుకు సహాయపడుతుంది.",
+   "en": {
+    "h": "Hormuz crisis: IOC to buy its own crude and LPG ships",
+    "p": "With shipping disrupted in the Strait of Hormuz and freight costs high, state-run Indian Oil Corporation has decided to buy its own crude and LPG carriers. Director of Finance Anuj Jain said the board has approved buying a few vessels and IOC is also exploring building ships in India under Make in India.",
+    "pts": [
+     "Spot LPG freight at $160–180 per tonne",
+     "Crude inventory enough for 39 days",
+     "Indian basket crude about $120 a barrel in October"
+    ],
+    "why": "Lower oil shipping costs can help keep fuel and gas supply in the country steady.",
+    "cat": "India · Oil",
+    "statl": "IOC net profit in Q2"
+   },
+   "hi": {
+    "h": "होर्मुज़ संकट: IOC खरीदेगी अपने कच्चे तेल और LPG जहाज़",
+    "p": "होर्मुज़ जलडमरूमध्य में जहाज़रानी बाधित होने और भारी ढुलाई लागत के चलते सरकारी इंडियन ऑयल कॉर्पोरेशन ने अपने कच्चे तेल और LPG जहाज़ खरीदने का फैसला किया है। वित्त निदेशक अनुज जैन ने बताया कि बोर्ड ने कुछ जहाज़ खरीदने की मंज़ूरी दी है और मेक इन इंडिया के तहत देश में ही जहाज़ बनाने पर भी विचार हो रहा है।",
+    "pts": [
+     "LPG की स्पॉट ढुलाई 160–180 डॉलर प्रति टन",
+     "कच्चे तेल का भंडार 39 दिनों के लिए",
+     "अक्टूबर में इंडियन बास्केट करीब 120 डॉलर प्रति बैरल"
+    ],
+    "why": "तेल ढुलाई की लागत घटने से देश में ईंधन और गैस की आपूर्ति स्थिर रखने में मदद मिलेगी।",
+    "cat": "भारत · तेल",
+    "statl": "दूसरी तिमाही में IOC का शुद्ध मुनाफा"
+   },
+   "d": "08.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "తెలంగాణ · జగిత్యాల",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "22 ఏళ్లు",
+   "statl": "అమెరికాలో మృతి చెందిన విద్యార్థి వయసు",
+   "h": "అమెరికాలో జగిత్యాల జిల్లా విద్యార్థి మృతి; మృతదేహం కోసం కుటుంబం వినతి",
+   "p": "జగిత్యాల జిల్లా రామన్నపేట గ్రామానికి చెందిన 22 ఏళ్ల బీటెక్ పట్టభద్రుడు అమెరికాలోని ఒహాయోలో శనివారం తన హాస్టల్ గదిలో మృతిచెంది కనిపించాడు. మాస్టర్స్ చదువు కోసం అతడు అమెరికా వెళ్లాడు. స్నేహితులు ఈ సమాచారాన్ని కుటుంబానికి తెలిపారు. ఒహాయో అధికారులు దర్యాప్తు ప్రారంభించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/student-from-jagtial-found-dead-in-united-states-3571646/",
+   "sec": [
+    "telangana",
+    "world"
+   ],
+   "st": "TG",
+   "place": "jagtial",
+   "loc": "రామన్నపేట",
+   "pts": [
+    "మాస్టర్స్ కోసం ఒహాయో వెళ్లిన విద్యార్థి",
+    "స్నేహితుల ద్వారా కుటుంబానికి సమాచారం",
+    "మృతదేహం స్వదేశానికి తేవడానికి కుటుంబం సాయం కోరుతోంది"
+   ],
+   "why": "విదేశాల్లో చదువుతున్న తెలుగు విద్యార్థుల కుటుంబాలకు ప్రభుత్వ సహాయం ఎంత అవసరమో ఇది చూపుతోంది.",
+   "en": {
+    "h": "Jagtial student found dead in US; family seeks help to bring body home",
+    "p": "A 22-year-old B.Tech graduate from Ramannapet village in Jagtial district was found dead in his hostel room in Ohio, US, on Saturday. He had gone to the US to pursue a master's degree. Friends informed his family. Ohio authorities have begun an investigation.",
+    "pts": [
+     "Student had moved to Ohio for a master's",
+     "Family informed by his friends",
+     "Family seeking help to bring the remains home"
+    ],
+    "why": "It shows how much families of Telugu students abroad need government support.",
+    "cat": "Telangana · Jagtial",
+    "statl": "Age of the student who died in the US"
+   },
+   "hi": {
+    "h": "अमेरिका में जगित्याल के छात्र की मौत; परिवार ने शव लाने में मदद मांगी",
+    "p": "जगित्याल ज़िले के रामन्नापेट गांव का 22 वर्षीय बीटेक स्नातक शनिवार को अमेरिका के ओहायो में अपने हॉस्टल के कमरे में मृत मिला। वह मास्टर्स की पढ़ाई के लिए अमेरिका गया था। दोस्तों ने परिवार को सूचना दी। ओहायो के अधिकारियों ने जांच शुरू कर दी है।",
+    "pts": [
+     "मास्टर्स के लिए ओहायो गया था छात्र",
+     "दोस्तों के ज़रिए परिवार को सूचना",
+     "परिवार शव वापस लाने के लिए मदद मांग रहा है"
+    ],
+    "why": "यह दिखाता है कि विदेश में पढ़ रहे तेलुगु छात्रों के परिवारों को सरकारी मदद की कितनी ज़रूरत है।",
+    "cat": "तेलंगाना · जगित्याल",
+    "statl": "अमेरिका में मृत छात्र की उम्र"
+   },
+   "d": "08.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "యాదాద్రి భువనగిరి · రాజకీయం",
    "col": "--c-election",
@@ -1773,277 +1968,6 @@
      "जैन: महावीर निर्वाण · सिख: बंदी छोड़ दिवस"
     ],
     "why": "ध्यान दें: श्रीराम की वापसी, नरकासुर वध जैसी कथाएँ धार्मिक मान्यताएँ हैं। ऐतिहासिक शिलालेख और साहित्य बताते हैं कि दिवाली प्राचीन काल से मनाई जा रही है। दोनों को अलग-अलग समझना चाहिए।"
-   }
-  },
-  {
-   "cat": "ఆలేరు · పరామర్శ",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "2 కుటుంబాలు",
-   "statl": "ఆలేరు పట్టణంలో ఎమ్మెల్యే బీర్ల ఐలయ్య పరామర్శ",
-   "h": "ఆలేరులో పలు బాధిత కుటుంబాలను పరామర్శించిన ఎమ్మెల్యే బీర్ల ఐలయ్య",
-   "p": "తెలంగాణ ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల ఐలయ్య గారు ఆలేరు పట్టణంలో పలు బాధిత కుటుంబాలను పరామర్శించారు. గాంధీనగర్‌కు చెందిన కాంగ్రెస్ సీనియర్ నాయకుడు, కో-ఆప్షన్ సభ్యుడు ఎం.ఎస్. విజయ్ గారి చెల్లెలు శశి కుమారి గారు మృతి చెందడంతో ఆమె చిత్రపటానికి పూలమాల వేసి నివాళులర్పించి, కుటుంబానికి ప్రగాఢ సానుభూతి తెలిపారు. అనారోగ్యంతో బాధపడుతున్న మంగ వెంకటేష్ గారి సతీమణి మంగ రజిత గారిని పరామర్శించి, ఆరోగ్య పరిస్థితి తెలుసుకొని ధైర్యం నింపారు.",
-   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "ఆలేరు పట్టణం",
-   "pts": [
-    "నివాళి: ఎం.ఎస్. విజయ్ గారి చెల్లెలు శశి కుమారి గారు (గాంధీనగర్)",
-    "పరామర్శ: మంగ వెంకటేష్ గారి సతీమణి మంగ రజిత గారు – అనారోగ్యం"
-   ],
-   "why": "కష్టకాలంలో ఎమ్మెల్యే స్వయంగా ఇంటికి రావడం బాధిత కుటుంబాలకు ఓదార్పునిస్తుంది.",
-   "d": "07.11.2026",
-   "t": "20:30",
-   "img": "photos/2026-11-07-aler-mla-paramarsha.jpg",
-   "imgfy": 0.42,
-   "local": true,
-   "en": {
-    "cat": "Aler · Condolence visits",
-    "stat": "2 families",
-    "statl": "MLA Beerla Ilaiah's visits in Aler town",
-    "h": "MLA Beerla Ilaiah visits bereaved and ailing families in Aler",
-    "p": "Telangana government whip and Aler MLA Beerla Ilaiah visited several families in Aler town. After the death of Sashi Kumari, sister of senior Congress leader and co-opted member M.S. Vijay of Gandhinagar, he paid floral tribute to her portrait and offered his condolences to the family. He also visited Manga Rajitha, wife of Manga Venkatesh, who is unwell, asked about her health and encouraged the family.",
-    "pts": [
-     "Tribute: Sashi Kumari, sister of M.S. Vijay (Gandhinagar)",
-     "Visit: Manga Rajitha, wife of Manga Venkatesh – illness"
-    ],
-    "why": "An MLA visiting families in hard times brings them comfort."
-   },
-   "hi": {
-    "cat": "आलेर · शोक मुलाक़ात",
-    "stat": "2 परिवार",
-    "statl": "आलेर शहर में विधायक बीरला ऐलय्या की मुलाक़ात",
-    "h": "विधायक बीरला ऐलय्या ने आलेर में शोकाकुल और बीमार परिवारों से मुलाक़ात की",
-    "p": "तेलंगाना सरकार के व्हिप और आलेर विधायक बीरला ऐलय्या ने आलेर शहर में कई परिवारों से मुलाक़ात की। गांधीनगर के वरिष्ठ कांग्रेस नेता और सहयोजित सदस्य एम.एस. विजय की बहन शशि कुमारी के निधन पर उन्होंने उनके चित्र पर माल्यार्पण कर श्रद्धांजलि दी और परिवार को सांत्वना दी। उन्होंने बीमार चल रहीं मंगा वेंकटेश की पत्नी मंगा रजिता से भी मिलकर उनका हाल जाना और परिवार का हौसला बढ़ाया।",
-    "pts": [
-     "श्रद्धांजलि: एम.एस. विजय की बहन शशि कुमारी (गांधीनगर)",
-     "मुलाक़ात: मंगा वेंकटेश की पत्नी मंगा रजिता – बीमारी"
-    ],
-    "why": "कठिन समय में विधायक का घर आना परिवारों को सांत्वना देता है।"
-   }
-  },
-  {
-   "cat": "ఆలేరు · ఎమ్మెల్యే పర్యటన",
-   "col": "--c-election",
-   "art": "deadline",
-   "stat": "9 గ్రామాలు",
-   "statl": "ఆదివారం 08.11.2026 · మా ఇందిరమ్మ ఇంట్లో దీపావళి",
-   "h": "“మా ఇందిరమ్మ ఇంట్లో దీపావళి” – ఆదివారం 9 గ్రామాల్లో ఎమ్మెల్యే బీర్ల అయిలయ్య పర్యటన",
-   "p": "తెలంగాణ రాష్ట్ర ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల అయిలయ్య గారు ఆదివారం (08.11.2026) “మా ఇందిరమ్మ ఇంట్లో దీపావళి” పండుగ వేడుకల్లో నియోజకవర్గంలోని 9 గ్రామాల్లో పాల్గొంటారు. ఉదయం 9 గంటలకు యాదగిరిగుట్ట మండలం మల్లాపూర్‌తో మొదలై, సాయంత్రం 5:04కు యాదగిరిగుట్ట పట్టణం 8వ వార్డుతో పర్యటన ముగుస్తుంది. తదుపరి వివరాలు పర్యటన అనంతరం తెలియజేస్తారు.",
-   "src": "PRO to Govt Whip, Aler MLA",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "ఆలేరు నియోజకవర్గం",
-   "pts": [
-    "9:00 – మల్లాపూర్ (యాదగిరిగుట్ట మం.) · 10:08 – సంగ్య తండా (తుర్కపల్లి మం.) · 11:07 – యావపూర్ తండా (బొమ్మలరామారం మం.)",
-    "12:08 – బసంతపురం (రాజాపేట మం.) · 1:08 – ఆలేరు 7వ వార్డు · 2:07 – దిలావర్‌పూర్ (మోటకొండూరు మం.)",
-    "3:06 – పాచిల్ల (గుండాల మం.) · 4:05 – పల్లెర్ల (ఆత్మకూరు మం.) · 5:04 – యాదగిరిగుట్ట 8వ వార్డు"
-   ],
-   "why": "మీ గ్రామానికి ఎమ్మెల్యే ఏ సమయానికి వస్తారో ముందే తెలుసుకుని వేడుకల్లో పాల్గొనవచ్చు.",
-   "d": "07.11.2026",
-   "t": "17:40",
-   "img": "photos/2026-11-08-beerla-ilaiah-diwali-tour.jpg",
-   "imgfy": 0.3,
-   "local": true,
-   "imgfx": 0.72,
-   "en": {
-    "cat": "Aler · MLA tour",
-    "stat": "9 villages",
-    "statl": "Sunday 08.11.2026 · Diwali in our Indiramma home",
-    "h": "“Diwali in our Indiramma home” – MLA Beerla Ilaiah to tour 9 villages on Sunday",
-    "p": "Telangana government whip and Aler MLA Beerla Ilaiah will take part in “Diwali in our Indiramma home” celebrations in 9 villages of the constituency on Sunday (08.11.2026). The tour starts at 9 am in Mallapur, Yadagirigutta mandal, and ends at 5:04 pm in ward 8 of Yadagirigutta town. Further details will be shared after the tour.",
-    "pts": [
-     "9:00 – Mallapur (Yadagirigutta) · 10:08 – Sangya Thanda (Turkapally) · 11:07 – Yavapur Thanda (Bommalaramaram)",
-     "12:08 – Basanthapuram (Rajapet) · 1:08 – Aler ward 7 · 2:07 – Dilawarpur (Motakondur)",
-     "3:06 – Pachilla (Gundala) · 4:05 – Pallerla (Atmakur) · 5:04 – Yadagirigutta ward 8"
-    ],
-    "why": "Know in advance when the MLA will reach your village and join the celebrations."
-   },
-   "hi": {
-    "cat": "आलेर · विधायक दौरा",
-    "stat": "9 गाँव",
-    "statl": "रविवार 08.11.2026 · हमारे इंदिरम्मा घर में दिवाली",
-    "h": "“हमारे इंदिरम्मा घर में दिवाली” – रविवार को 9 गाँवों में विधायक बीरला ऐलय्या का दौरा",
-    "p": "तेलंगाना सरकार के व्हिप और आलेर विधायक बीरला ऐलय्या रविवार (08.11.2026) को निर्वाचन क्षेत्र के 9 गाँवों में “हमारे इंदिरम्मा घर में दिवाली” समारोहों में भाग लेंगे। दौरा सुबह 9 बजे यादगिरिगुट्टा मंडल के मल्लापुर से शुरू होकर शाम 5:04 बजे यादगिरिगुट्टा शहर के वार्ड 8 में समाप्त होगा। आगे की जानकारी दौरे के बाद दी जाएगी।",
-    "pts": [
-     "9:00 – मल्लापुर (यादगिरिगुट्टा) · 10:08 – संग्या तांडा (तुर्कपल्ली) · 11:07 – यावपुर तांडा (बोम्मलरामारम)",
-     "12:08 – बसंतपुरम (राजापेट) · 1:08 – आलेर वार्ड 7 · 2:07 – दिलावरपुर (मोटकोंडूर)",
-     "3:06 – पाचिल्ला (गुंडाला) · 4:05 – पल्लेर्ला (आत्मकूर) · 5:04 – यादगिरिगुट्टा वार्ड 8"
-    ],
-    "why": "विधायक आपके गाँव कब पहुँचेंगे, यह पहले से जानकर समारोह में शामिल हों।"
-   }
-  },
-  {
-   "cat": "ఆలేరు · గ్రామాభివృద్ధి",
-   "col": "--c-gov",
-   "art": "water",
-   "stat": "మందనపల్లి",
-   "statl": "కెనాల్, అండర్ గ్రౌండ్ డ్రైనేజీకి నిధుల వినతి",
-   "h": "మందనపల్లి అభివృద్ధికి నిధులు కోరిన గ్రామ నాయకులు – అండగా ఉంటా: ఎమ్మెల్యే బీర్ల ఐలయ్య",
-   "p": "మందనపల్లి గ్రామ అభివృద్ధి పనులపై గ్రామ నాయకులు ఈరోజు ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల ఐలయ్య గారిని కలిశారు. ఎమ్మెల్యే మంజూరు చేసిన, మందనపల్లి ఇందిరమ్మ ఇండ్ల మీదుగా వెళ్లిన పాత 11 కేవీ లైన్ పనులు పూర్తయ్యాయని తెలియజేశారు. మందనపల్లి కెనాల్‌తో పాటు గ్రామంలో అండర్ గ్రౌండ్ డ్రైనేజీకి నిధులు మంజూరు చేయాలని కోరారు. దీనిపై స్పందించిన ఎమ్మెల్యే.. “ఇది నా గ్రామం. గ్రామానికి అన్ని విధాలా అండగా ఉంటూ, అభివృద్ధిలో నియోజకవర్గంలోనే అగ్రగామిగా నిలిచేలా తీర్చిదిద్దుతా” అని హామీ ఇచ్చారు.",
-   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "మందనపల్లి",
-   "pts": [
-    "✔ పూర్తి: ఇందిరమ్మ ఇండ్లపై నుంచి వెళ్లిన పాత 11 కేవీ లైన్ మార్పు",
-    "వినతి: మందనపల్లి కెనాల్ పనులు, గ్రామంలో అండర్ గ్రౌండ్ డ్రైనేజీ",
-    "కలిసినవారు: సర్పంచ్, ఉప సర్పంచ్, వార్డు సభ్యులు, గ్రామ శాఖ అధ్యక్షులు, యువజన కాంగ్రెస్ జిల్లా ప్రధాన కార్యదర్శి"
-   ],
-   "why": "కెనాల్, డ్రైనేజీ పనులు మంజూరైతే గ్రామంలో సాగునీరు, పారిశుధ్య సమస్యలు తగ్గుతాయి.",
-   "d": "07.11.2026",
-   "t": "16:50",
-   "img": "photos/2026-11-07-mandanapalli-development.jpg",
-   "imgfy": 0.42,
-   "local": true,
-   "en": {
-    "cat": "Aler · Village development",
-    "stat": "Mandanapalli",
-    "statl": "Request for canal and underground drainage funds",
-    "h": "Mandanapalli leaders seek development funds – “I will stand by you”: MLA Beerla Ilaiah",
-    "p": "Mandanapalli village leaders met government whip and Aler MLA Beerla Ilaiah today about development works. They told him the old 11 kV line running over the Indiramma houses, sanctioned by the MLA, has been shifted, and asked for funds for the Mandanapalli canal and underground drainage in the village. The MLA said, “This is my village. I will stand by it in every way and make it a leader in development in the constituency,” and promised funds soon.",
-    "pts": [
-     "✔ Done: old 11 kV line over Indiramma houses shifted",
-     "Request: Mandanapalli canal works, underground drainage in the village",
-     "Met by: sarpanch, deputy sarpanch, ward members, village unit president, Youth Congress district general secretary"
-    ],
-    "why": "Canal and drainage works would ease irrigation and sanitation problems in the village."
-   },
-   "hi": {
-    "cat": "आलेर · ग्राम विकास",
-    "stat": "मंदनपल्ली",
-    "statl": "नहर और भूमिगत नाली के लिए धन की माँग",
-    "h": "मंदनपल्ली के नेताओं ने विकास के लिए धन माँगा – “मैं साथ खड़ा रहूँगा”: विधायक बीरला ऐलय्या",
-    "p": "मंदनपल्ली गाँव के नेता आज विकास कार्यों को लेकर सरकारी व्हिप और आलेर विधायक बीरला ऐलय्या से मिले। उन्होंने बताया कि विधायक द्वारा स्वीकृत, इंदिरम्मा घरों के ऊपर से गुज़रने वाली पुरानी 11 केवी लाइन हटा दी गई है, और मंदनपल्ली नहर तथा गाँव में भूमिगत नाली के लिए धन की माँग की। विधायक ने कहा, “यह मेरा गाँव है। मैं हर तरह से साथ खड़ा रहूँगा और इसे निर्वाचन क्षेत्र में विकास में अग्रणी बनाऊँगा,” और जल्द धन देने का वादा किया।",
-    "pts": [
-     "✔ पूरा: इंदिरम्मा घरों के ऊपर से गुज़रने वाली पुरानी 11 केवी लाइन हटाई गई",
-     "माँग: मंदनपल्ली नहर का काम, गाँव में भूमिगत नाली",
-     "मिलने वाले: सरपंच, उप सरपंच, वार्ड सदस्य, ग्राम इकाई अध्यक्ष, युवा कांग्रेस ज़िला महासचिव"
-    ],
-    "why": "नहर और नाली का काम होने से गाँव में सिंचाई और सफ़ाई की समस्याएँ कम होंगी।"
-   }
-  },
-  {
-   "cat": "యాదగిరిగుట్ట · ఆలయం",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "నవం 20–22",
-   "statl": "యాదగిరిగుట్టలో కార్తీకోత్సవం · ఉత్తర మాడవీధి",
-   "h": "యాదగిరిగుట్టలో కార్తీకోత్సవం – నవంబర్ 20 నుంచి 22 వరకు",
-   "p": "యాదగిరిగుట్ట దేవస్థానం (YTD) ఆధ్వర్యంలో శ్రీ లక్ష్మీనరసింహ స్వామి దేవాలయంలో కార్తీక శుద్ధ ఏకాదశి (శుక్రవారం) నుంచి కార్తీక శుద్ధ త్రయోదశి (ఆదివారం) వరకు, అంటే నవంబర్ 20 నుంచి 22 వరకు కార్తీకోత్సవం నిర్వహించనున్నారు. ఉత్సవాల పోస్టర్ ఆవిష్కరణ కార్యక్రమంలో రాష్ట్ర రోడ్లు, భవనాలు & సినిమాటోగ్రఫీ శాఖ మంత్రి, నల్గొండ ఎమ్మెల్యే శ్రీ కోమటిరెడ్డి వెంకట్ రెడ్డి, ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల ఐలయ్య పాల్గొన్నారు. ప్రతి రోజు సాయంత్రం 6 నుంచి రాత్రి 9 గంటల వరకు కొండపై ఉత్తర మాడవీధిలో కార్యక్రమాలు జరుగుతాయి.",
-   "src": "Way2Sec రిపోర్టర్ · యాదగిరిగుట్ట",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "యాదగిరిగుట్ట",
-   "pts": [
-    "📍 ఉత్తర మాడవీధి (కొండపైన), యాదగిరిగుట్ట · ప్రతి రోజు సా. 6 – రా. 9",
-    "20 నవం (శుక్ర): బ్రహ్మశ్రీ మాడుగుల నాగఫణి శర్మ ప్రవచనం; శ్రీమతి తేలు విజయ సంగీతం",
-    "21 నవం (శని): శ్రీ ఆర్.పి. పట్నాయక్ ఆధ్వర్యంలో సంగీత విభావరి",
-    "22 నవం (ఆది): ఒడిస్సీ నృత్యం, “తెలంగాణ ఆలయాలు” నృత్య రూపకం, పేరిణి నృత్యం"
-   ],
-   "why": "కార్తీక మాసంలో యాదగిరిగుట్టకు వచ్చే భక్తులు సాయంత్రం ఈ సాంస్కృతిక కార్యక్రమాలను ఉచితంగా చూడవచ్చు.",
-   "d": "07.11.2026",
-   "t": "15:40",
-   "img": "photos/2026-11-07-yadagirigutta-kartheekotsav.jpg",
-   "imgfy": 0.3,
-   "local": true,
-   "en": {
-    "cat": "Yadagirigutta · Temple",
-    "stat": "Nov 20–22",
-    "statl": "Kartheekotsav at Yadagirigutta · North Mada Veedhi",
-    "h": "Kartheekotsav at Yadagirigutta from November 20 to 22",
-    "p": "Yadagirigutta Devasthanam (YTD) will hold Kartheekotsav at Sri Lakshmi Narasimha Swamy temple from Kartheeka Shuddha Ekadashi (Friday) to Kartheeka Shuddha Thrayodashi (Sunday), November 20 to 22. State Roads & Buildings and Cinematography Minister and Nalgonda MLA Komatireddy Venkat Reddy and government whip and Aler MLA Beerla Ilaiah took part in the poster release. Programmes will be held every evening from 6 to 9 pm at the North Mada Veedhi on the hill.",
-    "pts": [
-     "📍 North Mada Veedhi (up hills), Yadagirigutta · daily 6–9 pm",
-     "Nov 20 (Fri): discourse by Brahmasri Madugula Nagaphani Sarma; music by Smt. Thelu Vijaya",
-     "Nov 21 (Sat): musical evening led by Sri R.P. Patnaik",
-     "Nov 22 (Sun): Odissi dance, “Temples of Telangana” dance drama, Perini dance"
-    ],
-    "why": "Devotees visiting Yadagirigutta in Kartika month can enjoy these cultural programmes in the evenings."
-   },
-   "hi": {
-    "cat": "यादगिरिगुट्टा · मंदिर",
-    "stat": "20–22 नवं",
-    "statl": "यादगिरिगुट्टा में कार्तिकोत्सव · उत्तर माड वीधि",
-    "h": "यादगिरिगुट्टा में 20 से 22 नवंबर तक कार्तिकोत्सव",
-    "p": "यादगिरिगुट्टा देवस्थानम (YTD) श्री लक्ष्मी नरसिंह स्वामी मंदिर में कार्तिक शुद्ध एकादशी (शुक्रवार) से कार्तिक शुद्ध त्रयोदशी (रविवार), यानी 20 से 22 नवंबर तक कार्तिकोत्सव मनाएगा। पोस्टर विमोचन में राज्य के सड़क एवं भवन और सिनेमैटोग्राफ़ी मंत्री व नलगोंडा विधायक कोमटिरेड्डी वेंकट रेड्डी तथा सरकारी व्हिप व आलेर विधायक बीरला ऐलय्या शामिल हुए। हर शाम 6 से 9 बजे तक पहाड़ी पर उत्तर माड वीधि में कार्यक्रम होंगे।",
-    "pts": [
-     "📍 उत्तर माड वीधि (पहाड़ी पर), यादगिरिगुट्टा · रोज़ शाम 6–9",
-     "20 नवं (शुक्र): ब्रह्मश्री माडुगुला नागफणि शर्मा का प्रवचन; श्रीमती तेलु विजया का संगीत",
-     "21 नवं (शनि): श्री आर.पी. पटनायक के निर्देशन में संगीत संध्या",
-     "22 नवं (रवि): ओडिसी नृत्य, “तेलंगाना के मंदिर” नृत्य नाटिका, पेरिणी नृत्य"
-    ],
-    "why": "कार्तिक मास में यादगिरिगुट्टा आने वाले श्रद्धालु शाम को ये सांस्कृतिक कार्यक्रम देख सकते हैं।"
-   }
-  },
-  {
-   "cat": "నివాళి · లద్నూరు",
-   "col": "--c-power",
-   "art": "land",
-   "stat": "ఓం శాంతి",
-   "statl": "సూర్య నలంద కళాశాల వ్యవస్థాపకులు రామమూర్తి సార్",
-   "h": "పేదోళ్ల పెద్ద సారు.. రామమూర్తి సార్ ఇక లేరు",
-   "p": "పాఠశాల చదువులు పూర్తి చేసుకున్న నిరుపేద విద్యార్థులకు పట్నం వెళ్లి ఉన్నత విద్య చదివే పరిస్థితులు లేవని గమనించి, మారుమూల పల్లెలో సూర్య నలంద కళాశాలను స్థాపించారు. ఎంతోమంది విద్యార్థులకు ఆంగ్ల విద్యను అర్థమయ్యే రీతిలో బోధించి, తన విశ్రాంత జీవితాన్ని విద్యాభివృద్ధి కోసమే వెచ్చించిన గొప్ప విద్యావేత్త, ఈ ప్రాంత ఆణిముత్యం శ్రీ ప్రతి కంఠం రామమూర్తి సార్ మృతి చెందడం చాలా బాధాకరం. ఆయన పవిత్ర ఆత్మకు శాంతి చేకూరాలని భగవంతుణ్ణి ప్రార్థిస్తున్నాం.",
-   "src": "Way2Sec రిపోర్టర్ · లద్నూరు",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "లద్నూరు",
-   "pts": [
-    "మరణ తేదీ: 07.11.2026 · లద్నూరు",
-    "నిరుపేద విద్యార్థుల కోసం పల్లెలో సూర్య నలంద కళాశాల స్థాపించారు",
-    "విశ్రాంత జీవితాన్ని విద్యాభివృద్ధికే అంకితం చేశారు"
-   ],
-   "why": "పట్నం వెళ్లలేని పేద విద్యార్థులకు ఊర్లోనే ఉన్నత విద్య అందించిన ఆయన సేవ ఈ ప్రాంతానికి గుర్తుండిపోతుంది.",
-   "d": "07.11.2026",
-   "t": "14:30",
-   "img": "photos/2026-11-07-rammurthy-sir-ladnur.jpg",
-   "imgfy": 0.15,
-   "local": true,
-   "en": {
-    "cat": "Tribute · Ladnur",
-    "stat": "Om Shanti",
-    "statl": "Rammurthy Sir, founder of Surya Nalanda College",
-    "h": "Big-hearted teacher of the poor.. Rammurthy Sir is no more",
-    "p": "Seeing that poor students who finished school could not afford to go to the city for higher studies, he founded Surya Nalanda College in a remote village. The great educationist who taught English in a way students could understand and spent his retired life on education, Sri Prathi Kantham Rammurthy Sir, the pride of this region, has passed away. We pray that his soul rests in peace.",
-    "pts": [
-     "Passed away: 07.11.2026 · Ladnur",
-     "Founded Surya Nalanda College in the village for poor students",
-     "Devoted his retired life to education"
-    ],
-    "why": "His service of bringing higher education to the village for poor students will be remembered by this region."
-   },
-   "hi": {
-    "cat": "श्रद्धांजलि · लद्नूर",
-    "stat": "ओम शांति",
-    "statl": "सूर्य नालंदा कॉलेज के संस्थापक राममूर्ति सर",
-    "h": "ग़रीबों के बड़े गुरुजी.. राममूर्ति सर नहीं रहे",
-    "p": "स्कूल की पढ़ाई पूरी करने वाले ग़रीब छात्रों के लिए शहर जाकर उच्च शिक्षा पाना संभव नहीं था, यह देखकर उन्होंने एक दूरदराज़ गाँव में सूर्य नालंदा कॉलेज की स्थापना की। छात्रों को समझ में आने वाले तरीक़े से अंग्रेज़ी पढ़ाने वाले और अपना सेवानिवृत्त जीवन शिक्षा के लिए समर्पित करने वाले महान शिक्षाविद्, इस क्षेत्र के गौरव श्री प्रति कंठम राममूर्ति सर का निधन हो गया। हम उनकी आत्मा की शांति की प्रार्थना करते हैं।",
-    "pts": [
-     "निधन: 07.11.2026 · लद्नूर",
-     "ग़रीब छात्रों के लिए गाँव में सूर्य नालंदा कॉलेज की स्थापना",
-     "सेवानिवृत्त जीवन शिक्षा को समर्पित"
-    ],
-    "why": "ग़रीब छात्रों को गाँव में ही उच्च शिक्षा देने की उनकी सेवा यह क्षेत्र याद रखेगा।"
    }
   }
  ]
