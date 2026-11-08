@@ -4,6 +4,60 @@
  "version": 2,
  "stories": [
   {
+   "cat": "🪔 దీపావళి · ఆలేరు",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "7వ వార్డు",
+   "statl": "ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే",
+   "h": "ఆలేరు 7వ వార్డులో ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే బీర్ల అయిలయ్య",
+   "p": "ఆలేరు పట్టణంలోని 7వ వార్డులో ఇందిరమ్మ ఇంట్లో నిర్వహించిన దీపావళి వేడుకల్లో తెలంగాణ రాష్ట్ర ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల అయిలయ్య గారు, ఆలేరు మున్సిపల్ చైర్‌పర్సన్ శ్రీమతి బీజన భాస్కర్ గారు పాల్గొన్నారు. ఈ సందర్భంగా ఇందిరమ్మ ఇంట్లో గృహప్రవేశం చేసి, కుటుంబ సభ్యులకు పట్టుబట్టలు, స్వీట్లు, టపాకాయలు అందజేసి దీపావళి శుభాకాంక్షలు తెలిపారు. వారి ఇంట్లో ఆనందోత్సాహాలు నింపారు.",
+   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
+   "url": "",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "yadadri",
+   "loc": "ఆలేరు 7వ వార్డు",
+   "pts": [
+    "ఇందిరమ్మ ఇంట్లో గృహప్రవేశం, కుటుంబానికి పట్టుబట్టలు, స్వీట్లు, టపాకాయలు",
+    "పాల్గొన్నవారు: PACS చైర్మన్ జనగాం ఉపేందర్ రెడ్డి, బ్లాక్ కాంగ్రెస్ అధ్యక్షుడు ఈరసారపు యాదగిరి గౌడ్, పట్టణ అధ్యక్షుడు సాగర్ రెడ్డి, జిల్లా మహిళా అధ్యక్షురాలు నీలం పద్మా వెంకటస్వామి",
+    "కౌన్సిలర్లు మరియమ్మ మార్, జూకంటి సంపత్, జట్ట నీరజ సిద్ధులు, MA ఇజాజ్, ముదిగొండ శ్రీకాంత్, 7వ వార్డు ప్రజలు"
+   ],
+   "why": "ఇందిరమ్మ పథకంలో కొత్త ఇల్లు పొందిన కుటుంబం తమ ఇంట్లోనే తొలి దీపావళి జరుపుకుంది.",
+   "en": {
+    "cat": "🪔 Diwali · Aler",
+    "stat": "Ward 7",
+    "statl": "MLA at Diwali in an Indiramma home",
+    "h": "MLA Beerla Ilaiah joins Diwali celebrations in an Indiramma home in Aler ward 7",
+    "p": "Telangana government whip and Aler MLA Beerla Ilaiah and Aler municipal chairperson Beejana Bhaskar took part in Diwali celebrations held in an Indiramma house in ward 7 of Aler town. They joined the housewarming, gave the family silk clothes, sweets and crackers, and wished them a happy Diwali, filling their home with joy.",
+    "pts": [
+     "Housewarming of the Indiramma house; silk clothes, sweets and crackers for the family",
+     "Present: PACS chairman Janagam Upender Reddy, block Congress president Eerasarapu Yadagiri Goud, town president Sagar Reddy, district women's president Neelam Padma Venkataswamy",
+     "Councillors Mariyamma Mar, Jukanti Sampath, Jatta Neeraja Siddulu, MA Ijaz, Mudigonda Srikanth and ward 7 residents"
+    ],
+    "why": "A family that got a new house under the Indiramma scheme celebrated its first Diwali in its own home."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · आलेर",
+    "stat": "वार्ड 7",
+    "statl": "इंदिरम्मा घर में दिवाली समारोह में विधायक",
+    "h": "आलेर वार्ड 7 में इंदिरम्मा घर के दिवाली समारोह में शामिल हुए विधायक बीरला ऐलय्या",
+    "p": "तेलंगाना सरकार के व्हिप और आलेर विधायक बीरला ऐलय्या तथा आलेर नगरपालिका अध्यक्ष बीजना भास्कर आलेर शहर के वार्ड 7 में एक इंदिरम्मा घर में आयोजित दिवाली समारोह में शामिल हुए। उन्होंने गृहप्रवेश में भाग लिया, परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे दिए और दिवाली की शुभकामनाएँ देकर घर में खुशियाँ भर दीं।",
+    "pts": [
+     "इंदिरम्मा घर का गृहप्रवेश; परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे",
+     "उपस्थित: पैक्स अध्यक्ष जनगाम उपेंदर रेड्डी, ब्लॉक कांग्रेस अध्यक्ष ईरसारपु यादगिरि गौड़, शहर अध्यक्ष सागर रेड्डी, ज़िला महिला अध्यक्ष नीलम पद्मा वेंकटस्वामी",
+     "पार्षद मरियम्मा मार, जूकंटि संपत, जट्टा नीरजा सिद्धुलु, एम.ए. इजाज़, मुदिगोंडा श्रीकांत और वार्ड 7 के लोग"
+    ],
+    "why": "इंदिरम्मा योजना में नया घर पाने वाले परिवार ने अपने घर में पहली दिवाली मनाई।"
+   },
+   "d": "08.11.2026",
+   "t": "19:00",
+   "img": "photos/2026-11-08-aler-ward7-indiramma-diwali.jpg",
+   "imgfy": 0.35,
+   "local": true
+  },
+  {
    "cat": "ఏపీ · తిరుమల",
    "col": "--c-gov",
    "art": "unity",
