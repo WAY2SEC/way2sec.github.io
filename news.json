@@ -1,8 +1,155 @@
 {
  "date": "08.11.2026",
- "updated": "2026-11-08T21:10:25+05:30",
+ "updated": "2026-11-08T21:41:23+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · సాగునీరు",
+   "col": "--c-election",
+   "art": "water",
+   "stat": "₹6,825 కోట్లు",
+   "statl": "ప్రాజెక్టు ప్రస్తుత అంచనా వ్యయం (కేటీఆర్)",
+   "h": "కొడంగల్ ఎత్తిపోతల టెండర్‌పై కేటీఆర్ ఆరోపణలు",
+   "p": "కొడంగల్–నారాయణపేట–మక్తల్ ఎత్తిపోతల పథకం టెండర్‌ను ఒక మంత్రికి చెందిన కంపెనీకి అనుకూలంగా మార్చారని బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ ఆరోపించారు. 2014లో సుమారు ₹1,450 కోట్లుగా ఉన్న అంచనా ఇప్పుడు ₹6,825 కోట్లకు పెరిగిందని ఆయన అన్నారు. ఈ పథకం 1.6 లక్షల ఎకరాలకు కృష్ణా నీరు అందించేందుకు ఉద్దేశించింది. ప్రభుత్వ స్పందన ఇంకా రాలేదు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/daylight-robbery-ktr-on-kodangal-lift-irrigation-scheme-tender-3571589/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "narayanpet",
+   "pts": [
+    "టెండర్ ఒక కంపెనీకి అనుకూలమని కేటీఆర్ ఆరోపణ",
+    "అంచనా ₹1,450 కోట్ల నుంచి ₹6,825 కోట్లకు: కేటీఆర్",
+    "1.6 లక్షల ఎకరాలకు కృష్ణా నీరు లక్ష్యం"
+   ],
+   "why": "కరవు ప్రాంతాలైన మక్తల్, నారాయణపేట, కొడంగల్ రైతులకు ఈ పథకం కీలకం.",
+   "en": {
+    "h": "KTR levels allegations over Kodangal lift irrigation tender",
+    "p": "BRS working president KTR alleged that the tender for the Kodangal–Narayanpet–Makthal lift irrigation scheme was tailored to favour a company belonging to a minister. He said the estimate, about ₹1,450 crore in 2014, has now risen to ₹6,825 crore. The scheme is meant to supply Krishna water to 1.6 lakh acres. There has been no government response yet.",
+    "pts": [
+     "KTR alleges tender favoured one company",
+     "Estimate up from ₹1,450 crore to ₹6,825 crore: KTR",
+     "Aims to bring Krishna water to 1.6 lakh acres"
+    ],
+    "why": "The scheme is crucial for farmers in the drought-hit Makthal, Narayanpet and Kodangal areas.",
+    "cat": "Telangana · Irrigation",
+    "statl": "Current project estimate (per KTR)"
+   },
+   "hi": {
+    "h": "कोडंगल लिफ्ट सिंचाई टेंडर पर केटीआर के आरोप",
+    "p": "बीआरएस कार्यकारी अध्यक्ष केटीआर ने आरोप लगाया कि कोडंगल–नारायणपेट–मक्तल लिफ्ट सिंचाई योजना का टेंडर एक मंत्री की कंपनी के पक्ष में बनाया गया। उन्होंने कहा कि 2014 में करीब ₹1,450 करोड़ का अनुमान अब ₹6,825 करोड़ हो गया है। यह योजना 1.6 लाख एकड़ तक कृष्णा का पानी पहुंचाने के लिए है। सरकार की प्रतिक्रिया अभी नहीं आई है।",
+    "pts": [
+     "केटीआर का आरोप: टेंडर एक कंपनी के पक्ष में",
+     "अनुमान ₹1,450 करोड़ से ₹6,825 करोड़: केटीआर",
+     "1.6 लाख एकड़ तक कृष्णा जल का लक्ष्य"
+    ],
+    "why": "यह योजना सूखाग्रस्त मक्तल, नारायणपेट और कोडंगल के किसानों के लिए अहम है।",
+    "cat": "तेलंगाना · सिंचाई",
+    "statl": "परियोजना का मौजूदा अनुमान (केटीआर के अनुसार)"
+   },
+   "d": "08.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "ఉత్తరప్రదేశ్ · అయోధ్య",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "36 లక్షలు",
+   "statl": "సరయూ తీరంలో వెలిగిన దీపాలు",
+   "h": "అయోధ్య దీపోత్సవం: 36 లక్షలకు పైగా దీపాలతో వెలిగిన సరయూ తీరం",
+   "p": "అయోధ్యలో శనివారం జరిగిన 10వ దీపోత్సవంలో రామ్ కీ పైడీ సహా 56 ఘాట్లపై 36 లక్షలకు పైగా మట్టి దీపాలు వెలిగించారు. ఇది గత ఏడాది కంటే దాదాపు 10 లక్షలు ఎక్కువ. ఉపరాష్ట్రపతి సి.పి. రాధాకృష్ణన్, గవర్నర్ ఆనందీబెన్ పటేల్, సీఎం యోగి ఆదిత్యనాథ్ దీపాలు వెలిగించారు. 35 వేల మందికి పైగా వాలంటీర్లు పాల్గొన్నారు.",
+   "src": "PTI, Siasat Daily",
+   "url": "https://www.siasat.com/ayodhya-glows-with-over-36-lakh-diyas-in-grand-10th-deepotsav-3571709/",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "UP",
+   "place": "up-ayodhya",
+   "loc": "అయోధ్య",
+   "pts": [
+    "56 ఘాట్లపై 36 లక్షలకు పైగా దీపాలు",
+    "గత ఏడాది కంటే దాదాపు 10 లక్షలు అధికం",
+    "35 వేల మందికి పైగా వాలంటీర్ల సహకారం"
+   ],
+   "why": "దీపావళి వేళ దేశవ్యాప్తంగా భక్తులు, పర్యాటకుల దృష్టిని ఆకర్షించిన ఉత్సవం ఇది.",
+   "en": {
+    "h": "Ayodhya Deepotsav: Saryu banks glow with over 36 lakh lamps",
+    "p": "At the 10th Deepotsav in Ayodhya on Saturday, over 36 lakh earthen lamps were lit on 56 ghats including Ram Ki Paidi. That is nearly 10 lakh more than last year. Vice-President C P Radhakrishnan, Governor Anandiben Patel and CM Yogi Adityanath lit lamps. More than 35,000 volunteers took part.",
+    "pts": [
+     "Over 36 lakh lamps on 56 ghats",
+     "Nearly 10 lakh more than last year",
+     "Helped by more than 35,000 volunteers"
+    ],
+    "why": "The festival drew the attention of devotees and tourists across the country during Diwali.",
+    "cat": "Uttar Pradesh · Ayodhya",
+    "statl": "Lamps lit on the Saryu banks"
+   },
+   "hi": {
+    "h": "अयोध्या दीपोत्सव: 36 लाख से अधिक दीयों से जगमगाया सरयू तट",
+    "p": "अयोध्या में शनिवार को हुए 10वें दीपोत्सव में राम की पैड़ी समेत 56 घाटों पर 36 लाख से अधिक मिट्टी के दीये जलाए गए। यह पिछले साल से करीब 10 लाख अधिक है। उपराष्ट्रपति सी.पी. राधाकृष्णन, राज्यपाल आनंदीबेन पटेल और मुख्यमंत्री योगी आदित्यनाथ ने दीये जलाए। 35 हज़ार से अधिक स्वयंसेवकों ने भाग लिया।",
+    "pts": [
+     "56 घाटों पर 36 लाख से अधिक दीये",
+     "पिछले साल से करीब 10 लाख अधिक",
+     "35 हज़ार से अधिक स्वयंसेवकों का सहयोग"
+    ],
+    "why": "दिवाली पर यह उत्सव देशभर के श्रद्धालुओं और पर्यटकों के आकर्षण का केंद्र रहा।",
+    "cat": "उत्तर प्रदेश · अयोध्या",
+    "statl": "सरयू तट पर जले दीये"
+   },
+   "d": "08.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "ప్రపంచం · సౌదీ",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "4",
+   "statl": "కూల్చివేసిన క్షిపణులు",
+   "h": "రియాద్ వైపు హౌతీ క్షిపణులు: గాల్లోనే కూల్చిన సౌదీ కూటమి",
+   "p": "యెమెన్ హౌతీలు రియాద్ వైపు ప్రయోగించిన రెండు బాలిస్టిక్ క్షిపణులను, రియాద్‌తో పాటు దక్షిణ ప్రాంతం వైపు వచ్చిన రెండు క్రూయిజ్ క్షిపణులను ఆదివారం కూల్చివేశామని సౌదీ నేతృత్వంలోని కూటమి తెలిపింది. పేలుళ్ల శబ్దాలకు ముందు రియాద్, నజ్రాన్‌లో అత్యవసర హెచ్చరికలు జారీ అయ్యాయి. తర్వాత ప్రమాదం తొలగిపోయిందని సివిల్ డిఫెన్స్ ప్రకటించింది.",
+   "src": "The National, Siasat Daily",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/08/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "రియాద్ వైపు రెండు బాలిస్టిక్ క్షిపణుల కూల్చివేత",
+    "మరో రెండు క్రూయిజ్ క్షిపణులనూ అడ్డుకున్న కూటమి",
+    "రియాద్, నజ్రాన్‌లో అత్యవసర హెచ్చరికలు, తర్వాత ఉపసంహరణ"
+   ],
+   "why": "సౌదీలో పనిచేస్తున్న తెలుగువారు, వారి కుటుంబాలు అధికారుల భద్రతా సూచనలను గమనించాలి.",
+   "en": {
+    "h": "Houthi missiles fired at Riyadh shot down by Saudi-led coalition",
+    "p": "The Saudi-led coalition said on Sunday it intercepted and destroyed two ballistic missiles fired by Yemen's Houthis towards Riyadh, and two cruise missiles aimed at Riyadh and the southern region. Emergency alerts were issued in Riyadh and Najran before loud booms were heard. Civil Defence later announced that the danger had passed.",
+    "pts": [
+     "Two ballistic missiles aimed at Riyadh destroyed",
+     "Coalition also intercepted two cruise missiles",
+     "Emergency alerts in Riyadh and Najran, later lifted"
+    ],
+    "why": "Telugu people working in Saudi Arabia and their families should follow the authorities' safety advice.",
+    "cat": "World · Saudi Arabia",
+    "statl": "Missiles shot down"
+   },
+   "hi": {
+    "h": "रियाद की ओर दागी गई हूती मिसाइलें सऊदी गठबंधन ने हवा में गिराईं",
+    "p": "सऊदी नेतृत्व वाले गठबंधन ने कहा कि रविवार को यमन के हूतियों द्वारा रियाद की ओर दागी गई दो बैलिस्टिक मिसाइलों और रियाद व दक्षिणी क्षेत्र की ओर आई दो क्रूज़ मिसाइलों को नष्ट कर दिया गया। धमाकों की आवाज़ से पहले रियाद और नजरान में आपातकालीन अलर्ट जारी हुए। बाद में सिविल डिफेंस ने खतरा टलने की घोषणा की।",
+    "pts": [
+     "रियाद की ओर दो बैलिस्टिक मिसाइलें नष्ट",
+     "गठबंधन ने दो क्रूज़ मिसाइलें भी रोकीं",
+     "रियाद, नजरान में आपात अलर्ट, बाद में हटाए गए"
+    ],
+    "why": "सऊदी अरब में काम कर रहे तेलुगु लोग और उनके परिवार अधिकारियों की सुरक्षा सलाह का पालन करें।",
+    "cat": "दुनिया · सऊदी अरब",
+    "statl": "गिराई गई मिसाइलें"
+   },
+   "d": "08.11.2026",
+   "t": "21:35"
+  },
   {
    "cat": "ఏపీ · పంచాయతీ ఎన్నికలు",
    "col": "--c-election",
@@ -1574,249 +1721,6 @@
    "t": "15:35"
   },
   {
-   "cat": "ప్రపంచం · అమెరికా-ఇరాన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "147",
-   "statl": "జూలై నుంచి అమెరికా దారి మళ్లించిన నౌకలు",
-   "h": "ఇరాన్ భూమార్గ సరఫరాల అడ్డుకట్టకు అమెరికా 'టాస్క్ ఫోర్స్ ఐరన్ గేట్'",
-   "p": "హార్ముజ్ వద్ద ఇరాన్ ఓడరేవులపై నౌకాదిగ్బంధాన్ని విస్తరిస్తూ, భూ సరిహద్దులు, కాస్పియన్ సముద్రం ద్వారా ఆయుధాలు, ఆంక్షల సరుకుల రవాణాను అడ్డుకునేందుకు 'టాస్క్ ఫోర్స్ ఐరన్ గేట్'ను ఏర్పాటు చేసినట్లు అమెరికా సెంట్రల్ కమాండ్ ప్రకటించింది. జూలై నుంచి 147 వాణిజ్య నౌకలను దారి మళ్లించామని, నిరాకరించిన ఐదు నౌకలను నిలిపివేశామని తెలిపింది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "టాస్క్ ఫోర్స్ కేంద్రం అమెరికాలోని టాంపా",
-    "నిరాకరించిన 5 వాణిజ్య నౌకలను నిలిపివేసిన అమెరికా",
-    "ఖతార్ మధ్యవర్తిత్వంలో చర్చలు కొనసాగుతున్నాయి"
-   ],
-   "why": "గల్ఫ్ ఉద్రిక్తతలు చమురు సరఫరాలు, గల్ఫ్‌లోని తెలుగు ప్రజలపై ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "US launches 'Task Force Iron Gate' to block Iran's land supply routes",
-    "p": "Expanding its naval blockade of Iranian ports at Hormuz, US Central Command announced 'Task Force Iron Gate' to stop weapons and sanctioned goods moving across Iran's land borders and the Caspian Sea. It said 147 commercial vessels have been redirected since July and five ships that refused were disabled.",
-    "pts": [
-     "Task force is based in Tampa, US",
-     "US disabled 5 merchant ships that refused to comply",
-     "Qatar-mediated talks are continuing"
-    ],
-    "why": "Gulf tensions could affect oil supplies and Telugu people living in the Gulf.",
-    "cat": "World · US-Iran",
-    "statl": "Ships redirected by the US since July"
-   },
-   "hi": {
-    "h": "ईरान के ज़मीनी सप्लाई रास्ते रोकने को अमेरिका की 'टास्क फ़ोर्स आयरन गेट'",
-    "p": "होर्मुज़ में ईरानी बंदरगाहों की नौसैनिक नाकेबंदी का विस्तार करते हुए अमेरिकी सेंट्रल कमांड ने ईरान की ज़मीनी सीमाओं और कैस्पियन सागर से हथियार व प्रतिबंधित सामान की आवाजाही रोकने के लिए 'टास्क फ़ोर्स आयरन गेट' की घोषणा की। उसने कहा कि जुलाई से 147 व्यापारिक जहाज़ों का रास्ता बदला गया और इनकार करने वाले पांच जहाज़ निष्क्रिय किए गए।",
-    "pts": [
-     "टास्क फ़ोर्स का मुख्यालय अमेरिका के टैम्पा में",
-     "इनकार करने वाले 5 व्यापारिक जहाज़ अमेरिका ने निष्क्रिय किए",
-     "क़तर की मध्यस्थता में बातचीत जारी"
-    ],
-    "why": "खाड़ी का तनाव तेल आपूर्ति और खाड़ी में रह रहे तेलुगु लोगों पर असर डाल सकता है।",
-    "cat": "दुनिया · अमेरिका-ईरान",
-    "statl": "जुलाई से अमेरिका द्वारा मोड़े गए जहाज़"
-   },
-   "d": "08.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ఏపీ · పరిషత్ ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "5,819",
-   "statl": "ఎంపీటీసీ స్థానాలు కూటమి కైవసం",
-   "h": "ఏపీ ఎంపీటీసీ ఫలితాలు: కూటమికి 5,819, వైకాపాకు 1,583 స్థానాలు",
-   "p": "ఆంధ్రప్రదేశ్‌లో మొత్తం 9,821 ఎంపీటీసీ స్థానాల్లో 9,640 ఫలితాలు వెల్లడయ్యాయి. టీడీపీ నేతృత్వంలోని కూటమి 5,819 స్థానాలు గెలుచుకోగా, వైకాపా 1,583 స్థానాలకు పరిమితమైంది. స్వతంత్రులు సహా ఇతరులు 187 చోట్ల గెలిచారు. 2,051 స్థానాలు ఏకగ్రీవం కాగా, 7,767 స్థానాలకు నవంబర్ 5న పోలింగ్ జరిగింది.",
-   "src": "The Hans India, ETV Bharat",
-   "url": "https://www.thehansindia.com/andhra-pradesh/alliance-dominates-andhra-pradesh-ap-mptc-zptc-elections-1140348",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "టీడీపీ 4,754, జనసేన 945, బీజేపీ 120 స్థానాలు",
-    "2,051 ఎంపీటీసీ స్థానాలు ఏకగ్రీవం",
-    "మూడు స్థానాల్లో ఎన్నికలు జరగలేదు"
-   ],
-   "why": "గ్రామీణ స్థాయిలో మండల పరిషత్‌ల పాలన ఎవరి చేతిలో ఉంటుందో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
-   "en": {
-    "h": "AP MPTC results: Alliance wins 5,819 seats, YSRCP 1,583",
-    "p": "Results have been declared for 9,640 of Andhra Pradesh's 9,821 MPTC seats. The TDP-led alliance won 5,819 seats, while the YSRCP was limited to 1,583. Others, including independents, won 187. 2,051 seats were decided unopposed, and polling was held for 7,767 seats on November 5.",
-    "pts": [
-     "TDP 4,754, Jana Sena 945, BJP 120 seats",
-     "2,051 MPTC seats decided unopposed",
-     "Elections were not held in three seats"
-    ],
-    "why": "These results decide who will run mandal parishads at the rural level.",
-    "cat": "AP · Parishad Elections",
-    "statl": "MPTC seats won by the alliance"
-   },
-   "hi": {
-    "h": "आंध्र MPTC नतीजे: गठबंधन को 5,819, YSRCP को 1,583 सीटें",
-    "p": "आंध्र प्रदेश की कुल 9,821 MPTC सीटों में से 9,640 के नतीजे घोषित हो गए हैं। TDP के नेतृत्व वाले गठबंधन ने 5,819 सीटें जीतीं, जबकि YSRCP 1,583 सीटों पर सिमट गई। निर्दलीयों समेत अन्य ने 187 सीटें जीतीं। 2,051 सीटें निर्विरोध तय हुईं और 7,767 सीटों पर 5 नवंबर को मतदान हुआ।",
-    "pts": [
-     "TDP 4,754, जनसेना 945, BJP 120 सीटें",
-     "2,051 MPTC सीटें निर्विरोध तय",
-     "तीन सीटों पर चुनाव नहीं हुआ"
-    ],
-    "why": "ये नतीजे तय करेंगे कि ग्रामीण स्तर पर मंडल परिषदों का शासन किसके हाथ में होगा।",
-    "cat": "आंध्र प्रदेश · परिषद चुनाव",
-    "statl": "गठबंधन की जीती MPTC सीटें"
-   },
-   "d": "08.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "4 ప్రాంతాలు",
-   "statl": "దక్షిణ ఇరాన్‌లో పేలుళ్ల శబ్దాలు",
-   "h": "దక్షిణ ఇరాన్ తీరంలో పలుచోట్ల పేలుళ్లు; సైనిక విన్యాసాలేనన్న ప్రభుత్వ టీవీ",
-   "p": "ఆదివారం దక్షిణ ఇరాన్‌లోని ఖేష్మ్ దీవి, బందర్ అబ్బాస్, జాస్క్, సిరిక్‌లలో పేలుళ్ల శబ్దాలు వినిపించాయి. ఇవి సైనిక విన్యాసాలు, సాయుధ బలగాల కార్యకలాపాల వల్లేనని ఇరాన్ ప్రభుత్వ టీవీ తెలిపింది. కొత్తగా అమెరికా దాడులు జరిగాయన్న వార్తలను ఖండించింది. ఖేష్మ్ దీవిపై ఓ డ్రోన్‌ను కూల్చేశామని ఇరాన్ సైన్యం ప్రకటించింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/multiple-explosions-reported-across-irans-southern-coast-3571747/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఖేష్మ్ దీవి తూర్పు వైపు రెండు పేలుళ్లు",
-    "శనివారం ఖేష్మ్‌పై 'చిన్న దాడి'ని ట్రంప్ ధ్రువీకరించారు",
-    "షరతులు ఒప్పుకునే వరకు హార్ముజ్ మూసివేతేనని ఇరాన్"
-   ],
-   "why": "హార్ముజ్ ఉద్రిక్తతలు చమురు ధరలు, గల్ఫ్‌లో పనిచేసే తెలుగువారి భద్రతపై ప్రభావం చూపుతాయి.",
-   "en": {
-    "h": "Explosions reported across southern Iran coast; state TV says military drills",
-    "p": "Explosions were heard on Sunday at Qeshm Island, Bandar Abbas, Jask and Sirik in southern Iran. Iranian state TV said they were caused by military exercises and armed forces operations, and denied reports of fresh US attacks. The Iranian Army said it shot down a drone over Qeshm Island.",
-    "pts": [
-     "Two blasts on the eastern side of Qeshm Island",
-     "Trump confirmed a 'minor strike' on Qeshm on Saturday",
-     "Iran says Hormuz stays closed until its conditions are accepted"
-    ],
-    "why": "Hormuz tensions affect oil prices and the safety of Telugu people working in the Gulf.",
-    "cat": "World · Iran",
-    "statl": "Places in south Iran where blasts were heard"
-   },
-   "hi": {
-    "h": "दक्षिणी ईरान के तट पर कई जगह धमाके; सरकारी टीवी ने बताया सैन्य अभ्यास",
-    "p": "रविवार को दक्षिणी ईरान के केश्म द्वीप, बंदर अब्बास, जास्क और सिरिक में धमाकों की आवाज़ें सुनी गईं। ईरान के सरकारी टीवी ने कहा कि ये सैन्य अभ्यास और सशस्त्र बलों की कार्रवाइयों की वजह से थीं और नए अमेरिकी हमलों की खबरों को खारिज किया। ईरानी सेना ने कहा कि उसने केश्म द्वीप के ऊपर एक ड्रोन मार गिराया।",
-    "pts": [
-     "केश्म द्वीप के पूर्वी हिस्से में दो धमाके",
-     "ट्रंप ने शनिवार को केश्म पर 'छोटे हमले' की पुष्टि की",
-     "ईरान: शर्तें माने जाने तक होर्मुज़ बंद रहेगा"
-    ],
-    "why": "होर्मुज़ का तनाव तेल की कीमतों और खाड़ी में काम करने वाले भारतीयों की सुरक्षा पर असर डालता है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "दक्षिणी ईरान में धमाकों वाली जगहें"
-   },
-   "d": "08.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "భారత్ · చమురు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹21,630 కో.",
-   "statl": "రెండో త్రైమాసికంలో ఐఓసీ నికర లాభం",
-   "h": "హార్ముజ్ సంక్షోభం: సొంత చమురు, ఎల్‌పీజీ నౌకలు కొననున్న ఐఓసీ",
-   "p": "హార్ముజ్ జలసంధిలో నౌకాయాన అంతరాయం, భారీ రవాణా ఖర్చుల నేపథ్యంలో ప్రభుత్వ రంగ ఇండియన్ ఆయిల్ కార్పొరేషన్ సొంత ముడిచమురు, ఎల్‌పీజీ నౌకలు కొనాలని నిర్ణయించింది. కొన్ని నౌకల కొనుగోలుకు బోర్డు ఆమోదం తెలిపిందని, మేక్ ఇన్ ఇండియా కింద దేశంలోనే నౌకల నిర్మాణాన్నీ పరిశీలిస్తున్నామని ఫైనాన్స్ డైరెక్టర్ అనుజ్ జైన్ తెలిపారు.",
-   "src": "PTI, Siasat Daily",
-   "url": "https://www.siasat.com/west-asia-crisis-ioc-to-buy-crude-and-lpg-ships-3571629/",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "ఎల్‌పీజీ స్పాట్ రవాణా ధర టన్నుకు 160–180 డాలర్లు",
-    "ముడిచమురు నిల్వలు 39 రోజులకు సరిపడా",
-    "అక్టోబర్‌లో భారత బాస్కెట్ ధర బ్యారెల్‌కు సుమారు 120 డాలర్లు"
-   ],
-   "why": "చమురు రవాణా ఖర్చులు తగ్గితే దేశంలో ఇంధన, గ్యాస్ సరఫరా స్థిరంగా ఉండేందుకు సహాయపడుతుంది.",
-   "en": {
-    "h": "Hormuz crisis: IOC to buy its own crude and LPG ships",
-    "p": "With shipping disrupted in the Strait of Hormuz and freight costs high, state-run Indian Oil Corporation has decided to buy its own crude and LPG carriers. Director of Finance Anuj Jain said the board has approved buying a few vessels and IOC is also exploring building ships in India under Make in India.",
-    "pts": [
-     "Spot LPG freight at $160–180 per tonne",
-     "Crude inventory enough for 39 days",
-     "Indian basket crude about $120 a barrel in October"
-    ],
-    "why": "Lower oil shipping costs can help keep fuel and gas supply in the country steady.",
-    "cat": "India · Oil",
-    "statl": "IOC net profit in Q2"
-   },
-   "hi": {
-    "h": "होर्मुज़ संकट: IOC खरीदेगी अपने कच्चे तेल और LPG जहाज़",
-    "p": "होर्मुज़ जलडमरूमध्य में जहाज़रानी बाधित होने और भारी ढुलाई लागत के चलते सरकारी इंडियन ऑयल कॉर्पोरेशन ने अपने कच्चे तेल और LPG जहाज़ खरीदने का फैसला किया है। वित्त निदेशक अनुज जैन ने बताया कि बोर्ड ने कुछ जहाज़ खरीदने की मंज़ूरी दी है और मेक इन इंडिया के तहत देश में ही जहाज़ बनाने पर भी विचार हो रहा है।",
-    "pts": [
-     "LPG की स्पॉट ढुलाई 160–180 डॉलर प्रति टन",
-     "कच्चे तेल का भंडार 39 दिनों के लिए",
-     "अक्टूबर में इंडियन बास्केट करीब 120 डॉलर प्रति बैरल"
-    ],
-    "why": "तेल ढुलाई की लागत घटने से देश में ईंधन और गैस की आपूर्ति स्थिर रखने में मदद मिलेगी।",
-    "cat": "भारत · तेल",
-    "statl": "दूसरी तिमाही में IOC का शुद्ध मुनाफा"
-   },
-   "d": "08.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "తెలంగాణ · జగిత్యాల",
-   "col": "--c-power",
-   "art": "campus",
-   "stat": "22 ఏళ్లు",
-   "statl": "అమెరికాలో మృతి చెందిన విద్యార్థి వయసు",
-   "h": "అమెరికాలో జగిత్యాల జిల్లా విద్యార్థి మృతి; మృతదేహం కోసం కుటుంబం వినతి",
-   "p": "జగిత్యాల జిల్లా రామన్నపేట గ్రామానికి చెందిన 22 ఏళ్ల బీటెక్ పట్టభద్రుడు అమెరికాలోని ఒహాయోలో శనివారం తన హాస్టల్ గదిలో మృతిచెంది కనిపించాడు. మాస్టర్స్ చదువు కోసం అతడు అమెరికా వెళ్లాడు. స్నేహితులు ఈ సమాచారాన్ని కుటుంబానికి తెలిపారు. ఒహాయో అధికారులు దర్యాప్తు ప్రారంభించారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/student-from-jagtial-found-dead-in-united-states-3571646/",
-   "sec": [
-    "telangana",
-    "world"
-   ],
-   "st": "TG",
-   "place": "jagtial",
-   "loc": "రామన్నపేట",
-   "pts": [
-    "మాస్టర్స్ కోసం ఒహాయో వెళ్లిన విద్యార్థి",
-    "స్నేహితుల ద్వారా కుటుంబానికి సమాచారం",
-    "మృతదేహం స్వదేశానికి తేవడానికి కుటుంబం సాయం కోరుతోంది"
-   ],
-   "why": "విదేశాల్లో చదువుతున్న తెలుగు విద్యార్థుల కుటుంబాలకు ప్రభుత్వ సహాయం ఎంత అవసరమో ఇది చూపుతోంది.",
-   "en": {
-    "h": "Jagtial student found dead in US; family seeks help to bring body home",
-    "p": "A 22-year-old B.Tech graduate from Ramannapet village in Jagtial district was found dead in his hostel room in Ohio, US, on Saturday. He had gone to the US to pursue a master's degree. Friends informed his family. Ohio authorities have begun an investigation.",
-    "pts": [
-     "Student had moved to Ohio for a master's",
-     "Family informed by his friends",
-     "Family seeking help to bring the remains home"
-    ],
-    "why": "It shows how much families of Telugu students abroad need government support.",
-    "cat": "Telangana · Jagtial",
-    "statl": "Age of the student who died in the US"
-   },
-   "hi": {
-    "h": "अमेरिका में जगित्याल के छात्र की मौत; परिवार ने शव लाने में मदद मांगी",
-    "p": "जगित्याल ज़िले के रामन्नापेट गांव का 22 वर्षीय बीटेक स्नातक शनिवार को अमेरिका के ओहायो में अपने हॉस्टल के कमरे में मृत मिला। वह मास्टर्स की पढ़ाई के लिए अमेरिका गया था। दोस्तों ने परिवार को सूचना दी। ओहायो के अधिकारियों ने जांच शुरू कर दी है।",
-    "pts": [
-     "मास्टर्स के लिए ओहायो गया था छात्र",
-     "दोस्तों के ज़रिए परिवार को सूचना",
-     "परिवार शव वापस लाने के लिए मदद मांग रहा है"
-    ],
-    "why": "यह दिखाता है कि विदेश में पढ़ रहे तेलुगु छात्रों के परिवारों को सरकारी मदद की कितनी ज़रूरत है।",
-    "cat": "तेलंगाना · जगित्याल",
-    "statl": "अमेरिका में मृत छात्र की उम्र"
-   },
-   "d": "08.11.2026",
-   "t": "15:05"
-  },
-  {
    "cat": "యాదాద్రి భువనగిరి · రాజకీయం",
    "col": "--c-election",
    "art": "voters",
@@ -1869,104 +1773,6 @@
    "img": "photos/2026-11-08-teenmar-mallanna-padayatra.jpg",
    "imgfy": 0.38,
    "local": true
-  },
-  {
-   "cat": "సైబరాబాద్ · ఆర్థిక మోసం",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "₹670 కోట్లు",
-   "statl": "సుమారు 7,400 మంది పెట్టుబడిదారుల నష్టం",
-   "h": "₹670 కోట్ల పెట్టుబడి మోసం: హైదరాబాద్‌కు చెందిన రెండు సంస్థలపై కేసులు",
-   "p": "18 నుంచి 48 శాతం లాభాలు ఇస్తామని నమ్మించి దేశవ్యాప్తంగా సుమారు 7,400 మంది నుంచి ₹670 కోట్లు వసూలు చేశాయన్న ఆరోపణలపై హైదరాబాద్‌కు చెందిన షేర్స్ బజార్, కిసాన్ పరివార్ సంస్థలపై సైబరాబాద్ ఆర్థిక నేరాల విభాగం (ఈవోడబ్ల్యూ) దర్యాప్తు చేస్తోంది. 2020 నుంచి డిపాజిట్లు సేకరించి, 2025 అక్టోబర్‌లో చెల్లింపులు ఆపేశాయని ఫిర్యాదులు. ప్రధాన నిందితుడితో సహా ఐదుగురు అరెస్టయ్యారని సమాచారం.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/two-hyderabad-companies-booked-for-rs-670-crore-investment-fraud-3571404/",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "pts": [
-    "500 మందికి పైగా బాధితులు ఈవోడబ్ల్యూను ఆశ్రయించారు",
-    "మహబూబాబాద్, వనపర్తి, సంగారెడ్డిలో 45 ఆస్తుల గుర్తింపు",
-    "కొండాపూర్‌లో విల్లా, కార్యాలయ భవనాలు జప్తుకు సిద్ధం"
-   ],
-   "why": "అధిక లాభాల ఆశ చూపే పెట్టుబడి పథకాల పట్ల ప్రజలు జాగ్రత్తగా ఉండాలని ఈ కేసు హెచ్చరిస్తోంది.",
-   "loc": "కొండాపూర్",
-   "en": {
-    "h": "₹670 crore investment fraud: Cases against two Hyderabad firms",
-    "p": "The Cyberabad Economic Offences Wing (EOW) is probing two Hyderabad-based firms, Shares Bazaar and Kisaan Parivaar, on allegations that they collected ₹670 crore from about 7,400 investors across the country by promising returns of 18 to 48 per cent. Complaints say they collected deposits from 2020 and stopped payments in October 2025. Five people, including the alleged kingpin, have reportedly been arrested.",
-    "pts": [
-     "Over 500 victims have approached the EOW",
-     "45 properties identified in Mahabubabad, Wanaparthy, Sangareddy",
-     "Villa and office buildings in Kondapur set for attachment"
-    ],
-    "why": "The case is a warning to be careful about investment schemes that promise very high returns.",
-    "cat": "Cyberabad · Financial Fraud",
-    "statl": "Lost by about 7,400 investors"
-   },
-   "hi": {
-    "h": "₹670 करोड़ का निवेश घोटाला: हैदराबाद की दो कंपनियों पर केस",
-    "p": "18 से 48 प्रतिशत मुनाफे का भरोसा देकर देशभर के करीब 7,400 निवेशकों से ₹670 करोड़ जुटाने के आरोप में हैदराबाद की दो कंपनियों, शेयर्स बाज़ार और किसान परिवार, की साइबराबाद आर्थिक अपराध शाखा (EOW) जांच कर रही है। शिकायतों के मुताबिक 2020 से जमा राशि ली गई और अक्टूबर 2025 में भुगतान बंद कर दिए गए। खबरों के अनुसार मुख्य आरोपी समेत पांच लोग गिरफ्तार हुए हैं।",
-    "pts": [
-     "500 से ज़्यादा पीड़ितों ने EOW से संपर्क किया",
-     "महबूबाबाद, वनपर्ति, संगारेड्डी में 45 संपत्तियां चिह्नित",
-     "कोंडापुर में विला और दफ्तर कुर्की के लिए तय"
-    ],
-    "why": "यह मामला बहुत ऊंचे मुनाफे का वादा करने वाली निवेश योजनाओं से सावधान रहने की चेतावनी है।",
-    "cat": "साइबराबाद · वित्तीय धोखाधड़ी",
-    "statl": "करीब 7,400 निवेशकों का नुकसान"
-   },
-   "d": "08.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "91 లక్షలు",
-   "statl": "తుది జాబితాకు ఆమోదం పొందిన ఓటర్ల రికార్డులు",
-   "h": "ఎస్ఐఆర్: తెలంగాణలో 91 లక్షల ఓటర్ల రికార్డులు తుది జాబితాకు క్లియర్",
-   "p": "ప్రత్యేక సమగ్ర సవరణ (ఎస్ఐఆర్)లో నోటీసులు అందుకున్న 92.8 లక్షల మంది ఓటర్లలో సుమారు 91 లక్షల (దాదాపు 98%) రికార్డులను తుది జాబితాకు ఆమోదించినట్లు రాష్ట్ర ప్రధాన ఎన్నికల అధికారి సి. సుదర్శన్ రెడ్డి వెల్లడించారు. ఇంకా 1.3 లక్షల కేసులు పెండింగ్‌లో ఉండగా, 54,418 మంది అనర్హులుగా తేలారు. సవరణకు ముందు 3.38 కోట్లుగా ఉన్న ఓటర్లు ఇప్పుడు 2.65 కోట్లు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-sir-91-lakh-voter-records-cleared-for-final-list-3571298/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "గైర్హాజరు, వలస, మృతి, నకిలీ కారణాలతో 73.3 లక్షల పేర్లు తొలగింపు",
-    "గ్రేటర్ హైదరాబాద్‌లో 38.9 లక్షల నోటీసుల్లో 37.9 లక్షలు క్లియర్",
-    "తొలగించిన ఓటర్లకు ఫారాలు ఇచ్చేందుకు మరో అవకాశం"
-   ],
-   "why": "పేరు తొలగిన ఓటర్లు మళ్లీ ఫారం సమర్పించి తమ ఓటు హక్కును కాపాడుకునేందుకు ఇది అవకాశం.",
-   "en": {
-    "h": "SIR: 91 lakh voter records cleared for Telangana's final roll",
-    "p": "Chief Electoral Officer C. Sudarshan Reddy said that of the 92.8 lakh voters who got notices under the Special Intensive Revision (SIR), records of about 91 lakh (nearly 98%) have been cleared for the final roll. About 1.3 lakh cases are still pending and 54,418 people were found ineligible. Voters numbered 3.38 crore before the revision and now stand at 2.65 crore.",
-    "pts": [
-     "73.3 lakh names removed as absent, shifted, dead or duplicate",
-     "Greater Hyderabad: 37.9 lakh of 38.9 lakh notices cleared",
-     "Another chance for removed voters to submit forms"
-    ],
-    "why": "Voters whose names were removed get a chance to submit forms again and protect their right to vote.",
-    "cat": "Telangana · Voter List",
-    "statl": "Voter records cleared for the final roll"
-   },
-   "hi": {
-    "h": "SIR: तेलंगाना में 91 लाख मतदाता रिकॉर्ड अंतिम सूची के लिए मंज़ूर",
-    "p": "मुख्य निर्वाचन अधिकारी सी. सुदर्शन रेड्डी ने बताया कि विशेष गहन पुनरीक्षण (SIR) में नोटिस पाने वाले 92.8 लाख मतदाताओं में से करीब 91 लाख (लगभग 98%) के रिकॉर्ड अंतिम सूची के लिए मंज़ूर हो गए हैं। करीब 1.3 लाख मामले अभी लंबित हैं और 54,418 लोग अयोग्य पाए गए। पुनरीक्षण से पहले मतदाता 3.38 करोड़ थे, अब 2.65 करोड़ हैं।",
-    "pts": [
-     "अनुपस्थित, स्थानांतरित, मृत, डुप्लिकेट कारणों से 73.3 लाख नाम हटे",
-     "ग्रेटर हैदराबाद में 38.9 लाख में से 37.9 लाख नोटिस क्लियर",
-     "हटाए गए मतदाताओं को फॉर्म जमा करने का एक और मौका"
-    ],
-    "why": "जिन मतदाताओं के नाम हटे हैं, वे फिर फॉर्म जमा कर अपना वोट का अधिकार बचा सकते हैं।",
-    "cat": "तेलंगाना · मतदाता सूची",
-    "statl": "अंतिम सूची के लिए मंज़ूर मतदाता रिकॉर्ड"
-   },
-   "d": "08.11.2026",
-   "t": "14:35"
   },
   {
    "cat": "🪔 దీపావళి · బొమ్మలరామారం",
