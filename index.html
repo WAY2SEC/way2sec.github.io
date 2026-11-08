@@ -639,6 +639,26 @@ function playVideo(src){
   const v=document.getElementById('vplayerV'); v.src=src; o.hidden=false; try{ v.play().catch(()=>{}); }catch(e){}
   try{ if(window.gtag) gtag('event','video_play',{video:src}); }catch(e){}
 }
+/* shows the link in a box people can long-press and copy themselves, plus a big Copy button */
+function linkSheet(link){
+  let o=document.getElementById('lnkSheet');
+  if(!o){ o=document.createElement('div'); o.id='lnkSheet';
+    o.style.cssText='position:fixed;inset:0;z-index:92;background:rgba(6,10,18,.72);display:flex;align-items:flex-end;justify-content:center';
+    o.innerHTML='<div style="background:var(--paper,#fff);color:var(--ink,#16120E);width:100%;max-width:520px;border-radius:22px 22px 0 0;padding:20px 18px calc(18px + env(safe-area-inset-bottom,0px));display:grid;gap:10px">'
+      +'<b style="font:800 17px/1.4 var(--body)">🔗 ఈ వార్త లింక్</b>'
+      +'<input id="lnkTx" readonly style="width:100%;box-sizing:border-box;border:2px solid #e0062b;border-radius:12px;padding:12px;font:700 16px/1.3 var(--body);background:#fff;color:#14213d">'
+      +'<button type="button" id="lnkCopy" class="btn" style="background:#1DA851;justify-content:center;min-height:50px">📋 లింక్ కాపీ చేయండి</button>'
+      +'<p style="margin:0;font:600 13px/1.5 var(--body);color:var(--muted,#6B5F52)">కాపీ అయ్యాక WhatsApp తెరిచి, మెసేజ్ బాక్స్‌ను నొక్కి పట్టుకుని <b>Paste</b> నొక్కండి. కాపీ కాకపోతే పై లింక్‌ను నొక్కి పట్టుకుని <b>Copy</b> చేయండి.</p>'
+      +'<button type="button" id="lnkOk" class="btn" style="background:#fff;color:#16120E;border:1px solid #ccc;justify-content:center">మూసివేయండి</button></div>';
+    document.body.appendChild(o);
+    o.addEventListener('click',e=>{ if(e.target===o||e.target.id==='lnkOk') o.hidden=true; });
+  }
+  const i=document.getElementById('lnkTx'); i.value=link;
+  i.onfocus=()=>{ try{ i.setSelectionRange(0,link.length); }catch(e){} };
+  document.getElementById('lnkCopy').onclick=async()=>{ const ok=await copyText(link); try{ i.focus(); i.setSelectionRange(0,link.length); }catch(e){}
+    toast(ok?'కాపీ అయింది ✅ ఇప్పుడు WhatsAppలో Paste చేయండి':'పై లింక్‌ను నొక్కి పట్టుకుని Copy చేయండి'); };
+  o.hidden=false;
+}
 function promoItem(n){ return {kind:'promo', h:'Way2Sec – మీ ఊరి వార్తలు ఇప్పుడే మీ చేతిలో', p:'WhatsApp ఛానెల్‌లో జాయిన్ అవ్వండి, way2sec.news విజిట్ చేయండి.', url:'https://way2sec.news/#promo'+n, src:'Way2Sec', d:''}; }
 function withPromos(list){
   const G=CONFIG.GREETING; let gr=null;
@@ -933,7 +953,12 @@ function copyLegacy(t){ try{ const a=document.createElement('textarea'); a.value
     a.style.cssText='position:fixed;top:0;left:0;opacity:0;font-size:16px'; document.body.appendChild(a);
     const r=document.createRange(); r.selectNodeContents(a); const sel=getSelection(); sel.removeAllRanges(); sel.addRange(r); a.setSelectionRange(0,t.length);
     const ok=document.execCommand('copy'); a.remove(); sel.removeAllRanges(); return ok; }catch(e){ return false; } }
-async function copyText(t){ if(copyLegacy(t)) return true; try{ await navigator.clipboard.writeText(t); return true; }catch(e){ return false; } }
+// iPhone can report the old copy as done while copying nothing, so always do BOTH, started inside the tap
+async function copyText(t){
+  let p=null; try{ if(navigator.clipboard&&navigator.clipboard.writeText) p=navigator.clipboard.writeText(t); }catch(e){}
+  const old=copyLegacy(t);
+  if(p){ try{ await p; return true; }catch(e){} }
+  return old; }
 $('dlBtn').onclick=async()=>{ const s=LIST[cur]; if(!s) return;
   const ready=cardCache.k===keyOf(s) && cardCache.blob;
   if(!ready) toast('చిత్రం తయారవుతోంది…');
@@ -1034,8 +1059,7 @@ function chromeChoice(s,text,viaWA){
     setTimeout(()=>{ if(document.visibilityState==='visible') toast('Safari తెరవలేదు – లింక్ కాపీ అయింది: Safari తెరిచి అడ్రస్ బార్‌లో Paste చేయండి'); },1800); };
   $('crLink').onclick=async()=>{ o.hidden=true; // just copy this story's link – the reader pastes it in the WhatsApp they want
     const link=storyLink(s);
-    if(await copyText(link)){ toast('🔗 లింక్ కాపీ అయింది ✅ WhatsApp తెరిచి Paste చేయండి'); return; }
-    openWA(link); };
+    copyText(link); linkSheet(link); };
   o.hidden=false;
 }
 async function shareCard(viaWA){ const s=LIST[cur]; if(!s) return;
