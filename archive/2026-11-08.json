@@ -1,8 +1,155 @@
 {
  "date": "08.11.2026",
  "iso": "2026-11-08",
- "count": 82,
+ "count": 85,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3 ఫైరింజన్లు",
+   "statl": "మంటలు ఆర్పేందుకు వచ్చిన అగ్నిమాపక వాహనాలు",
+   "h": "కాటేదాన్ పారిశ్రామిక వాడలో భారీ అగ్నిప్రమాదం",
+   "p": "హైదరాబాద్ కాటేదాన్ పారిశ్రామిక ప్రాంతంలోని ప్లాస్టిక్ తయారీ యూనిట్‌లో ఆదివారం సాయంత్రం మంటలు చెలరేగాయి. దట్టమైన నల్లటి పొగ చుట్టుపక్కల ప్రాంతాన్ని కమ్మేయడంతో స్థానికులు భయంతో ఇళ్ల నుంచి బయటకు వచ్చారు. మూడు ఫైరింజన్లతో అగ్నిమాపక సిబ్బంది, పోలీసులు మంటలను అదుపు చేశారు. ఎవరికీ ప్రాణనష్టం జరిగినట్లు సమాచారం లేదు. ప్రమాదానికి కారణం, నష్టం ఎంతన్నది ఇంకా తేలలేదు.",
+   "src": "Telangana Today, Siasat Daily",
+   "url": "https://telanganatoday.com/fire-breaks-out-at-plastic-manufacturing-unit-in-katedan",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కాటేదాన్",
+   "pts": [
+    "ప్లాస్టిక్ తయారీ యూనిట్‌లో మొదలైన మంటలు",
+    "మూడు ఫైరింజన్లతో మంటల అదుపు",
+    "ప్రాణనష్టం జరిగినట్లు సమాచారం లేదు"
+   ],
+   "why": "పారిశ్రామిక వాడల పక్కనే నివసించే ప్రజల భద్రత, అగ్నిమాపక నిబంధనలపై ఈ ఘటన మళ్లీ దృష్టి పెట్టింది.",
+   "en": {
+    "h": "Major fire at Katedan industrial area in Hyderabad",
+    "p": "A fire broke out on Sunday evening at a plastic manufacturing unit in Hyderabad's Katedan industrial area. Thick black smoke covered the surrounding area and frightened residents rushed out of their homes. Firefighters and police brought the blaze under control with three fire engines. No casualties have been reported. The cause of the fire and the extent of the loss are yet to be ascertained.",
+    "pts": [
+     "Fire started in a plastic manufacturing unit",
+     "Blaze controlled with three fire engines",
+     "No casualties reported"
+    ],
+    "why": "The incident again draws attention to the safety of people living next to industrial areas and to fire safety rules.",
+    "cat": "Hyderabad · Fire",
+    "statl": "Fire engines sent to put out the blaze"
+   },
+   "hi": {
+    "h": "हैदराबाद के काटेदान औद्योगिक क्षेत्र में भीषण आग",
+    "p": "हैदराबाद के काटेदान औद्योगिक क्षेत्र में एक प्लास्टिक निर्माण इकाई में रविवार शाम आग लग गई। घने काले धुएं ने आसपास के इलाके को ढक लिया और डरे हुए लोग घरों से बाहर निकल आए। दमकलकर्मियों और पुलिस ने तीन दमकल गाड़ियों की मदद से आग पर काबू पाया। किसी के हताहत होने की सूचना नहीं है। आग का कारण और नुकसान का आकलन अभी होना बाकी है।",
+    "pts": [
+     "प्लास्टिक निर्माण इकाई में लगी आग",
+     "तीन दमकल गाड़ियों से आग पर काबू",
+     "किसी के हताहत होने की सूचना नहीं"
+    ],
+    "why": "यह घटना औद्योगिक क्षेत्रों के पास रहने वाले लोगों की सुरक्षा और अग्नि सुरक्षा नियमों पर फिर ध्यान खींचती है।",
+    "cat": "हैदराबाद · आग",
+    "statl": "आग बुझाने आईं दमकल गाड़ियां"
+   },
+   "d": "08.11.2026",
+   "t": "20:05"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "నవంబర్ 14",
+   "statl": "భారత్ సమ్మిట్‌కు రాహుల్ గాంధీ హాజరయ్యే అవకాశం",
+   "h": "హైదరాబాద్ భారత్ సమ్మిట్‌కు రాహుల్ గాంధీ; నల్ల జెండాలతో నిరసన అంటున్న బీజేపీ",
+   "p": "హైదరాబాద్‌లో నవంబర్ 12 నుంచి 14 వరకు హెచ్ఐసీసీ, హైటెక్స్‌లో భారత్ సమ్మిట్ జరగనుంది. నవంబర్ 14న ముఖ్య అతిథులుగా మల్లికార్జున ఖర్గే, రాహుల్ గాంధీ హాజరయ్యే అవకాశం ఉంది. 13న ప్రియాంకా గాంధీ ప్రసంగిస్తారు. ఆరు గ్యారెంటీలు అమలు కాలేదని ఆరోపిస్తూ, రాహుల్ పర్యటనను నల్ల జెండాలతో అడ్డుకుంటామని బీజేపీ రాష్ట్ర అధ్యక్షుడు ఎన్. రాంచందర్ రావు అన్నారు.",
+   "src": "Siasat Daily, ANI",
+   "url": "https://www.siasat.com/rahul-gandhi-to-visit-telanganas-bharat-summit-in-hyderabad-3571793/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 12–14 హెచ్ఐసీసీ, హైటెక్స్‌లో భారత్ సమ్మిట్",
+    "14న ఖర్గే, రాహుల్ ముఖ్య అతిథులుగా వచ్చే అవకాశం",
+    "నల్ల జెండాలతో నిరసన తెలుపుతామన్న బీజేపీ"
+   ],
+   "why": "సమ్మిట్ రోజుల్లో హైదరాబాద్‌లో రాజకీయ హడావుడి, నిరసనలు, భద్రతా ఏర్పాట్లు ఉండే అవకాశం ఉంది.",
+   "en": {
+    "h": "Rahul Gandhi to attend Hyderabad Bharat Summit; BJP plans black-flag protest",
+    "p": "The Bharat Summit will be held in Hyderabad from November 12 to 14 at HICC and HITEX. Mallikarjun Kharge and Rahul Gandhi are likely to attend as chief guests on November 14, and Priyanka Gandhi will speak on the 13th. Alleging that the six guarantees have not been implemented, BJP state president N. Ramchander Rao said the party will block Rahul's visit with black flags.",
+    "pts": [
+     "Bharat Summit at HICC and HITEX on November 12–14",
+     "Kharge and Rahul likely chief guests on the 14th",
+     "BJP says it will protest with black flags"
+    ],
+    "why": "Hyderabad may see political activity, protests and security arrangements during the summit days.",
+    "cat": "Telangana · Politics",
+    "statl": "Rahul Gandhi likely to attend Bharat Summit"
+   },
+   "hi": {
+    "h": "हैदराबाद भारत समिट में राहुल गांधी; भाजपा का काले झंडों से विरोध का ऐलान",
+    "p": "हैदराबाद में 12 से 14 नवंबर तक एचआईसीसी और हाईटेक्स में भारत समिट होगा। 14 नवंबर को मुख्य अतिथि के रूप में मल्लिकार्जुन खड़गे और राहुल गांधी के शामिल होने की संभावना है, और 13 को प्रियंका गांधी संबोधित करेंगी। छह गारंटियां लागू न होने का आरोप लगाते हुए भाजपा प्रदेश अध्यक्ष एन. रामचंदर राव ने कहा कि वे राहुल के दौरे को काले झंडों से रोकेंगे।",
+    "pts": [
+     "12–14 नवंबर को एचआईसीसी, हाईटेक्स में भारत समिट",
+     "14 को खड़गे, राहुल मुख्य अतिथि हो सकते हैं",
+     "भाजपा ने काले झंडों से विरोध की बात कही"
+    ],
+    "why": "समिट के दिनों में हैदराबाद में राजनीतिक हलचल, विरोध और सुरक्षा इंतज़ाम देखने को मिल सकते हैं।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "राहुल गांधी के भारत समिट में आने की संभावना"
+   },
+   "d": "08.11.2026",
+   "t": "20:05"
+  },
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,700/కిలో",
+   "statl": "కేఆర్ మార్కెట్‌లో మల్లెపూల ధర",
+   "h": "కరవు ఉన్నా బెంగళూరు కేఆర్ మార్కెట్‌లో దీపావళి కొనుగోళ్ల రద్దీ",
+   "p": "దీపావళి సందర్భంగా ఆదివారం తెల్లవారుజామున 3 గంటల నుంచే బెంగళూరు కేఆర్ మార్కెట్‌కు వేలాది మంది తరలివచ్చారు. కరవు, అస్థిర వర్షాల వల్ల సరఫరా తగ్గిందని వ్యాపారులు చెప్పారు. మల్లెపూలు కిలో ₹1,500–1,700, గులాబీలు ₹300 పలికాయి. సాధారణ రోజుల కంటే పూల ధరలు కిలోకు ₹100–200 ఎక్కువ. బాణసంచా ధరలు గతేడాది కంటే సుమారు 15% పెరిగాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/state/diwali-shopping-rush-continues-in-bengaluru-despite-soaring-prices-amid-drought-enn26110803089",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "loc": "కేఆర్ మార్కెట్",
+   "pts": [
+    "మల్లెపూలు కిలో ₹1,500–1,700",
+    "పూల ధరలు కిలోకు ₹100–200 అదనం",
+    "బాణసంచా ధరలు సుమారు 15% పెరుగుదల"
+   ],
+   "why": "పండుగ ఖర్చులు పెరగడం బెంగళూరులో ఉండే తెలుగు కుటుంబాలతో సహా సామాన్యుల జేబుపై భారం పెంచుతోంది.",
+   "en": {
+    "h": "Diwali shopping rush at Bengaluru's KR Market despite drought",
+    "p": "Thousands thronged Bengaluru's KR Market from 3 am on Sunday for Diwali shopping. Traders said drought and erratic rain have cut supplies. Jasmine sold at ₹1,500–1,700 a kg and roses at ₹300. Flower prices were ₹100–200 a kg higher than on normal days. Firecracker prices rose by about 15% over last year.",
+    "pts": [
+     "Jasmine at ₹1,500–1,700 a kg",
+     "Flowers ₹100–200 a kg costlier",
+     "Firecracker prices up about 15%"
+    ],
+    "why": "Rising festival costs are adding to the burden on ordinary people in Bengaluru, including Telugu families living there.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "Price of jasmine at KR Market"
+   },
+   "hi": {
+    "h": "सूखे के बावजूद बेंगलुरु के केआर मार्केट में दिवाली ख़रीदारी की भीड़",
+    "p": "दिवाली के मौके पर रविवार तड़के 3 बजे से ही हज़ारों लोग बेंगलुरु के केआर मार्केट पहुंचे। व्यापारियों ने कहा कि सूखे और अनियमित बारिश से आपूर्ति घटी है। चमेली ₹1,500–1,700 प्रति किलो और गुलाब ₹300 में बिके। फूलों के दाम सामान्य दिनों से ₹100–200 प्रति किलो ज़्यादा रहे। पटाखों के दाम पिछले साल से करीब 15% बढ़े।",
+    "pts": [
+     "चमेली ₹1,500–1,700 प्रति किलो",
+     "फूल ₹100–200 प्रति किलो महंगे",
+     "पटाखों के दाम करीब 15% बढ़े"
+    ],
+    "why": "त्योहार का बढ़ता ख़र्च बेंगलुरु में रहने वाले तेलुगु परिवारों समेत आम लोगों की जेब पर बोझ बढ़ा रहा है।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "केआर मार्केट में चमेली का दाम"
+   },
+   "d": "08.11.2026",
+   "t": "20:05"
+  },
   {
    "cat": "హైదరాబాద్ · ప్రమాదం",
    "col": "--c-power",
