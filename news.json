@@ -1,8 +1,107 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T09:41:39+05:30",
+ "updated": "2026-11-09T10:10:35+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ప్రపంచం · టెక్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "నవంబర్ 18",
+   "statl": "కాంగ్రెస్ ముందు హాజరుకు కోరిన తేదీ",
+   "h": "ఎన్విడియా సీఈఓ జెన్సన్ హువాంగ్‌పై బోర్డు స్వతంత్ర విచారణ",
+   "p": "చైనా నిఘా సంస్థ తరఫున పనిచేస్తోందన్న ఆరోపణలున్న మహిళతో సంబంధం ఉన్నట్లు ఎన్విడియా సీఈఓ జెన్సన్ హువాంగ్ అంగీకరించారు. స్వతంత్ర డైరెక్టర్ల కమిటీ బయటి న్యాయ సలహాదారులతో విచారణ చేస్తుందని కంపెనీ ఆదివారం ప్రకటించింది. జాతీయ భద్రత లేదా కంపెనీ రహస్యాలు బయటకు వెళ్లినట్లు భావించడం లేదని బోర్డు చెప్పింది. విచారణ సమయంలోనూ హువాంగ్ సంస్థను నడిపిస్తారు. గూఢచర్య ఆరోపణలను చైనా రాయబార కార్యాలయం ఖండించింది.",
+   "src": "Al Jazeera, Reuters",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair",
+   "sec": [
+    "world",
+    "ai",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "స్వతంత్ర డైరెక్టర్ల కమిటీ ఆధ్వర్యంలో విచారణ",
+    "నవంబర్ 18న కాంగ్రెస్ ముందు హాజరుకావాలని రిపబ్లికన్ సభ్యుల విజ్ఞప్తి",
+    "ఆరోపణలను ఖండించిన చైనా రాయబార కార్యాలయం"
+   ],
+   "why": "ఏఐ చిప్‌లు తయారుచేసే ప్రముఖ సంస్థ కావడంతో ఈ విచారణ టెక్ రంగానికి, పెట్టుబడిదారులకు ముఖ్యం.",
+   "d": "09.11.2026",
+   "t": "10:05",
+   "en": {
+    "h": "Nvidia board orders independent probe into CEO Jensen Huang",
+    "p": "Nvidia CEO Jensen Huang has admitted a relationship with a woman accused of working for Chinese intelligence. The company said on Sunday that a committee of independent directors will investigate with outside counsel. The board said it has no reason to believe national security or company secrets were compromised. Huang will continue to lead the company during the probe. The Chinese Embassy denied the spying allegations.",
+    "pts": [
+     "Probe led by a committee of independent directors",
+     "Republican lawmakers ask him to testify before Congress on November 18",
+     "Chinese Embassy denies the allegations"
+    ],
+    "why": "As a leading maker of AI chips, this probe matters to the tech sector and to investors.",
+    "cat": "World · Tech",
+    "statl": "date he was asked to appear before Congress"
+   },
+   "hi": {
+    "h": "एनवीडिया के सीईओ जेन्सन हुआंग की बोर्ड करेगा स्वतंत्र जांच",
+    "p": "एनवीडिया के सीईओ जेन्सन हुआंग ने उस महिला से संबंध होने की बात मानी है, जिस पर चीनी खुफिया एजेंसी के लिए काम करने का आरोप है। कंपनी ने रविवार को बताया कि स्वतंत्र निदेशकों की एक समिति बाहरी कानूनी सलाहकारों के साथ जांच करेगी। बोर्ड ने कहा कि उसे राष्ट्रीय सुरक्षा या कंपनी के रहस्य लीक होने का कोई कारण नहीं दिखता। जांच के दौरान भी हुआंग कंपनी का नेतृत्व करेंगे। चीनी दूतावास ने जासूसी के आरोपों से इनकार किया।",
+    "pts": [
+     "स्वतंत्र निदेशकों की समिति की अगुवाई में जांच",
+     "रिपब्लिकन सांसदों ने 18 नवंबर को कांग्रेस के सामने पेश होने को कहा",
+     "चीनी दूतावास ने आरोपों से इनकार किया"
+    ],
+    "why": "एआई चिप बनाने वाली प्रमुख कंपनी होने के कारण यह जांच टेक सेक्टर और निवेशकों के लिए अहम है।",
+    "cat": "दुनिया · टेक",
+    "statl": "कांग्रेस के सामने पेशी के लिए कही गई तारीख"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · వాతావరణం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "2.8°C",
+   "statl": "ప్రస్తుత దిశలో భూతాపం అంచనా",
+   "h": "తుర్కియేలోని అంటాల్యాలో నేటి నుంచి కాప్31 వాతావరణ సదస్సు",
+   "p": "ఐక్యరాజ్యసమితి వాతావరణ సదస్సు కాప్31 నవంబర్ 9 నుంచి 20 వరకు తుర్కియేలోని అంటాల్యా ఎక్స్‌పో సెంటర్‌లో జరుగుతుంది. ప్రపంచ నేతల సమావేశం నవంబర్ 11, 12 తేదీల్లో ఉంటుంది. ప్రస్తుత దిశలో భూతాపం 2.8 డిగ్రీలకు చేరే అవకాశం ఉందని యూఎన్ఈపీ నివేదిక చెబుతోంది. వాతావరణ మార్పులకు అనుగుణంగా మారేందుకు నిధులు, నష్ట పరిహార నిధి వంటి అంశాలు చర్చకు రానున్నాయి.",
+   "src": "Climate & Capital Media",
+   "url": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/",
+   "sec": [
+    "world",
+    "weather"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "నవంబర్ 9–20 వరకు అంటాల్యాలో సదస్సు",
+    "నవంబర్ 11, 12న ప్రపంచ నేతల సమావేశం",
+    "నష్ట పరిహార నిధి తొలి కేటాయింపు నేపాల్‌కు 2 కోట్ల డాలర్లు"
+   ],
+   "why": "ఈ సదస్సు నిర్ణయాలు వాతావరణ మార్పులపై దేశాల చర్యలు, నిధులపై ప్రభావం చూపుతాయి.",
+   "d": "09.11.2026",
+   "t": "10:05",
+   "en": {
+    "h": "COP31 climate summit begins today in Antalya, Türkiye",
+    "p": "The UN climate conference COP31 runs from November 9 to 20 at the Antalya Expo Center in Türkiye. The world leaders' summit is on November 11 and 12. A UNEP report says the world is on track for 2.8 degrees of warming. Finance for adapting to climate change and the loss and damage fund are among the issues to be discussed.",
+    "pts": [
+     "Summit in Antalya from November 9 to 20",
+     "World leaders' meeting on November 11 and 12",
+     "Loss and damage fund's first allocation: $20 million to Nepal"
+    ],
+    "why": "Decisions at this summit will affect countries' climate action and funding.",
+    "cat": "World · Climate",
+    "statl": "projected warming on current path"
+   },
+   "hi": {
+    "h": "तुर्किये के अंताल्या में आज से कॉप31 जलवायु सम्मेलन",
+    "p": "संयुक्त राष्ट्र जलवायु सम्मेलन कॉप31 तुर्किये के अंताल्या एक्सपो सेंटर में 9 से 20 नवंबर तक होगा। विश्व नेताओं की बैठक 11 और 12 नवंबर को होगी। यूएनईपी की रिपोर्ट के अनुसार मौजूदा रास्ते पर दुनिया का तापमान 2.8 डिग्री तक बढ़ सकता है। जलवायु परिवर्तन के अनुकूल ढलने के लिए धन और हानि-क्षति कोष जैसे मुद्दों पर चर्चा होगी।",
+    "pts": [
+     "अंताल्या में 9 से 20 नवंबर तक सम्मेलन",
+     "11 और 12 नवंबर को विश्व नेताओं की बैठक",
+     "हानि-क्षति कोष का पहला आवंटन: नेपाल को 2 करोड़ डॉलर"
+    ],
+    "why": "इस सम्मेलन के फैसले देशों की जलवायु कार्रवाई और धन पर असर डालेंगे।",
+    "cat": "दुनिया · जलवायु",
+    "statl": "मौजूदा रास्ते पर तापमान वृद्धि का अनुमान"
+   }
+  },
   {
    "cat": "తెలంగాణ · వికారాబాద్",
    "col": "--c-gov",
@@ -1861,152 +1960,6 @@
     "cat": "आंध्र प्रदेश · तिरुमला",
     "statl": "सर्वदर्शन में लगने वाला समय"
    }
-  },
-  {
-   "cat": "తెలంగాణ · పర్యావరణం",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "199 MLD",
-   "statl": "గోదావరిలో కలుస్తున్నట్లు ఆరోపించిన మురుగు",
-   "h": "గోదావరిలో శుద్ధి చేయని మురుగు: ఎన్జీటీని ఆశ్రయించిన ఉద్యమకారుడు",
-   "p": "గోదావరి నదిలో శుద్ధి చేయని మురుగు, పారిశ్రామిక వ్యర్థాలు కలుస్తున్నాయంటూ ఓ న్యాయ విద్యార్థి, ఉద్యమకారుడు జాతీయ హరిత ట్రైబ్యునల్‌లో దరఖాస్తు చేశారు. 50కి పైగా కాలువల ద్వారా రోజుకు 199 మిలియన్ లీటర్ల మురుగు చేరుతోందని ఆయన ఆరోపించారు. రామగుండం, మంచిర్యాల, భద్రాచలంలో శుద్ధి కేంద్రాలు పనిచేయడం లేదన్నారు. స్వతంత్ర శాస్త్రీయ పరిశీలన కోరారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/activist-moves-ngt-over-untreated-sewage-discharge-into-godavari-3571799/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "50కి పైగా కాలువల ద్వారా మురుగు చేరుతోందని ఆరోపణ",
-    "ఎల్లంపల్లి జలాశయం నీటి నమూనాల పరీక్షకు వినతి",
-    "మొదట హైకోర్టుకు వెళ్లగా ట్రైబ్యునల్‌కు సూచించింది"
-   ],
-   "why": "హైదరాబాద్‌కు తాగునీరు అందించే శ్రీపాద ఎల్లంపల్లి జలాశయం నీటి నాణ్యతపై ఈ కేసు ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Untreated sewage in Godavari: activist moves National Green Tribunal",
-    "p": "A law student and activist has filed an application before the National Green Tribunal alleging that untreated sewage and industrial waste are polluting the Godavari. He alleges 199 million litres a day of sewage enters through more than 50 channels, and says sewage treatment plants at Ramagundam, Mancherial and Bhadrachalam are not working. He has sought an independent scientific probe.",
-    "pts": [
-     "Sewage alleged to enter through over 50 channels",
-     "Testing of Yellampalli reservoir water sought",
-     "High Court had first directed him to the Tribunal"
-    ],
-    "why": "The case could affect the water quality of Sripada Yellampalli reservoir, a drinking water source for Hyderabad.",
-    "cat": "Telangana · Environment",
-    "statl": "Sewage allegedly entering Godavari"
-   },
-   "hi": {
-    "h": "गोदावरी में बिना शोधन का सीवेज: कार्यकर्ता ने एनजीटी का दरवाज़ा खटखटाया",
-    "p": "एक कानून छात्र और कार्यकर्ता ने राष्ट्रीय हरित अधिकरण में आवेदन दायर कर आरोप लगाया है कि गोदावरी नदी में बिना शोधन का सीवेज और औद्योगिक कचरा मिल रहा है। उनका आरोप है कि 50 से ज़्यादा नालों से रोज़ 199 मिलियन लीटर सीवेज नदी में जाता है और रामगुंडम, मंचेरियल व भद्राचलम में सीवेज शोधन संयंत्र काम नहीं कर रहे। उन्होंने स्वतंत्र वैज्ञानिक जांच मांगी है।",
-    "pts": [
-     "50 से ज़्यादा नालों से सीवेज जाने का आरोप",
-     "येल्लमपल्ली जलाशय के पानी की जांच की मांग",
-     "हाईकोर्ट ने पहले अधिकरण जाने को कहा था"
-    ],
-    "why": "यह मामला हैदराबाद को पीने का पानी देने वाले श्रीपाद येल्लमपल्ली जलाशय की जल गुणवत्ता पर असर डाल सकता है।",
-    "cat": "तेलंगाना · पर्यावरण",
-    "statl": "गोदावरी में कथित रूप से जा रहा सीवेज"
-   },
-   "d": "08.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "కర్ణాటక · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "campus",
-   "stat": "1,000",
-   "statl": "వైద్యుల నియామకానికి కేబినెట్ ఆమోదం",
-   "h": "కర్ణాటకలో 1,000 మంది వైద్యుల నియామకానికి కేబినెట్ ఆమోదం",
-   "p": "రాష్ట్రవ్యాప్తంగా 1,000 మంది వైద్యులను నియమించేందుకు కర్ణాటక మంత్రివర్గం ఆమోదం తెలిపిందని ఆరోగ్య మంత్రి యు.టి. ఖాదర్ బళ్లారిలో చెప్పారు. నియామకం పూర్తయ్యే వరకు ఔట్‌సోర్సింగ్ ద్వారా సిబ్బందిని తీసుకోవచ్చు. ఇప్పటికే 250 మంది వైద్యులను నేరుగా నియమించారు. మందుల కొరతను రెండు నెలల్లో తీరుస్తామని, 350 కొత్త అంబులెన్సులు కొంటామని తెలిపారు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/karnataka-cabinet-approves-recruitment-of-1000-doctors-state-health-minister-ut-khader20261108150057/",
-   "sec": [
-    "india",
-    "jobs"
-   ],
-   "st": "KA",
-   "place": "st-KA",
-   "pts": [
-    "ఇప్పటికే 250 మంది వైద్యుల నేరుగా నియామకం",
-    "రెండు నెలల్లో మందుల కొరత తీరుస్తామని హామీ",
-    "350 కొత్త అంబులెన్సుల కొనుగోలు"
-   ],
-   "why": "కర్ణాటకలోని ప్రాథమిక ఆరోగ్య కేంద్రాల్లో వైద్య సేవలు మెరుగుపడతాయి; వైద్యులకు ఉద్యోగావకాశాలు వస్తాయి.",
-   "en": {
-    "h": "Karnataka Cabinet approves recruitment of 1,000 doctors",
-    "p": "Karnataka Health Minister UT Khader said in Ballari that the state Cabinet has approved recruiting 1,000 doctors across the state. Until the recruitment is complete, staff may be hired through outsourcing. 250 doctors have already been appointed through direct recruitment. He said the medicine shortage will be resolved in two months and 350 new ambulances will be bought.",
-    "pts": [
-     "250 doctors already appointed by direct recruitment",
-     "Medicine shortage to be fixed within two months",
-     "350 new ambulances to be purchased"
-    ],
-    "why": "Medical services at Karnataka's primary health centres will improve, and doctors get job opportunities.",
-    "cat": "Karnataka · Health",
-    "statl": "Doctor posts approved by Cabinet"
-   },
-   "hi": {
-    "h": "कर्नाटक कैबिनेट ने 1,000 डॉक्टरों की भर्ती को मंज़ूरी दी",
-    "p": "कर्नाटक के स्वास्थ्य मंत्री यू.टी. खादर ने बल्लारी में कहा कि राज्य मंत्रिमंडल ने पूरे राज्य में 1,000 डॉक्टरों की भर्ती को मंज़ूरी दी है। भर्ती पूरी होने तक आउटसोर्सिंग से कर्मचारी रखे जा सकेंगे। 250 डॉक्टर पहले ही सीधी भर्ती से नियुक्त हो चुके हैं। उन्होंने कहा कि दवाओं की कमी दो महीने में दूर होगी और 350 नई एंबुलेंस खरीदी जाएंगी।",
-    "pts": [
-     "250 डॉक्टर पहले ही सीधी भर्ती से नियुक्त",
-     "दो महीने में दवाओं की कमी दूर करने का वादा",
-     "350 नई एंबुलेंस की खरीद"
-    ],
-    "why": "कर्नाटक के प्राथमिक स्वास्थ्य केंद्रों में इलाज बेहतर होगा और डॉक्टरों को नौकरी के अवसर मिलेंगे।",
-    "cat": "कर्नाटक · स्वास्थ्य",
-    "statl": "कैबिनेट से मंज़ूर डॉक्टर पद"
-   },
-   "d": "08.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "తెలంగాణ · సంక్షేమం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "4.5 లక్షలు",
-   "statl": "కొత్తగా చేయూత పింఛన్లు",
-   "h": "కొడంగల్‌లో 4.5 లక్షల కొత్త చేయూత పింఛన్లు ప్రారంభించిన సీఎం రేవంత్",
-   "p": "ముఖ్యమంత్రి రేవంత్ రెడ్డి ఆదివారం తన నియోజకవర్గం కొడంగల్‌లో 4.5 లక్షల మంది కొత్త లబ్ధిదారులకు చేయూత పింఛన్ల పంపిణీని ప్రారంభించారు. వీరిలో 3.5 లక్షల మంది ఒంటరి మహిళలు, వితంతువులు ఉన్నారు. నేత, గీత కార్మికులకూ కొత్త పింఛన్లు మంజూరయ్యాయి. మహిళా సాధికారతే ప్రభుత్వ ప్రధాన లక్ష్యమని, 2034 నాటికి కోటి మంది స్వయం సహాయక సంఘాల సభ్యులను కోటీశ్వరులను చేయడమే లక్ష్యమని ఆయన చెప్పారు.",
-   "src": "IANS",
-   "url": "https://www.socialnews.xyz/2026/11/08/women-empowerment-is-telangana-govts-top-priority-revanth-reddy/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "loc": "కొడంగల్",
-   "pts": [
-    "3.5 లక్షల మంది ఒంటరి మహిళలు, వితంతువులకు పింఛన్లు",
-    "ఇప్పటికే 70 లక్షల మంది మహిళలు సంఘాల సభ్యులు",
-    "34 నెలల్లో మహిళలకు ₹79,000 కోట్ల బ్యాంకు రుణాలు"
-   ],
-   "why": "కొత్తగా పింఛన్ మంజూరైన వితంతువులు, ఒంటరి మహిళలు, నేత, గీత కార్మికులకు నెలవారీ ఆర్థిక సాయం అందుతుంది.",
-   "en": {
-    "h": "CM Revanth launches 4.5 lakh new Cheyutha pensions in Kodangal",
-    "p": "Chief Minister Revanth Reddy on Sunday launched the distribution of Cheyutha pensions to 4.5 lakh new beneficiaries in his constituency, Kodangal. They include 3.5 lakh single women and widows. New pensions were also sanctioned for weavers and toddy tappers. He said women's empowerment is the government's top priority and the target is to make one crore self-help group members crorepatis by 2034.",
-    "pts": [
-     "Pensions for 3.5 lakh single women and widows",
-     "70 lakh women already members of SHGs",
-     "₹79,000 crore bank loans for women in 34 months"
-    ],
-    "why": "Newly sanctioned widows, single women, weavers and toddy tappers will get monthly financial support.",
-    "cat": "Telangana · Welfare",
-    "statl": "New Cheyutha pensions"
-   },
-   "hi": {
-    "h": "सीएम रेवंत ने कोडंगल में 4.5 लाख नई चेयूता पेंशन शुरू कीं",
-    "p": "मुख्यमंत्री रेवंत रेड्डी ने रविवार को अपने निर्वाचन क्षेत्र कोडंगल में 4.5 लाख नए लाभार्थियों को चेयूता पेंशन वितरण की शुरुआत की। इनमें 3.5 लाख एकल महिलाएं और विधवाएं हैं। बुनकरों और ताड़ी निकालने वालों के लिए भी नई पेंशन मंजूर हुईं। उन्होंने कहा कि महिला सशक्तिकरण सरकार की सर्वोच्च प्राथमिकता है और 2034 तक एक करोड़ स्वयं सहायता समूह सदस्यों को करोड़पति बनाना लक्ष्य है।",
-    "pts": [
-     "3.5 लाख एकल महिलाओं और विधवाओं को पेंशन",
-     "70 लाख महिलाएं पहले से समूहों की सदस्य",
-     "34 महीनों में महिलाओं को ₹79,000 करोड़ के बैंक ऋण"
-    ],
-    "why": "नई पेंशन पाने वाली विधवाओं, एकल महिलाओं, बुनकरों और ताड़ी श्रमिकों को हर महीने आर्थिक मदद मिलेगी।",
-    "cat": "तेलंगाना · कल्याण",
-    "statl": "नई चेयूता पेंशन"
-   },
-   "d": "08.11.2026",
-   "t": "17:35"
   }
  ]
 }
