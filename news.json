@@ -1,8 +1,304 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T20:08:11+05:30",
+ "updated": "2026-11-09T21:42:39+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ భద్రత",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "1930",
+   "statl": "సైబర్ నేరాల హెల్ప్‌లైన్",
+   "h": "ఏఐ ఆధారిత సైబర్ దాడులపై బ్యాంకులు అప్రమత్తంగా ఉండాలి: సజ్జనార్",
+   "p": "ఏఐ సహాయంతో జరిగే సైబర్ దాడులను ఎదుర్కొనేందుకు బ్యాంకులు, ఆర్థిక సంస్థలు, క్విక్-కామర్స్, మొబిలిటీ సంస్థలు భద్రతా వ్యవస్థలు, సిబ్బందిని బలోపేతం చేయాలని హైదరాబాద్ పోలీస్ కమిషనర్ వి.సి. సజ్జనార్ సూచించారు. పాత సాఫ్ట్‌వేర్, బలహీనమైన పోర్టళ్లు, పేమెంట్ ఏపీఐల ద్వారా నేరగాళ్లు కోట్ల రూపాయలను మ్యూల్ ఖాతాలకు తరలిస్తున్నారని హెచ్చరించారు. బాధితులు 1930కి కాల్ చేయాలన్నారు.",
+   "src": "IANS",
+   "url": "https://english.punjabkesari.com/india/hyderabad-commissioner-urges-banks-to-be-vigilant-in-view-of-ai-driven-attacks",
+   "sec": [
+    "telangana",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "పాత టెస్ట్ ఏపీఐలు తొలగించాలి, సాఫ్ట్‌వేర్ అప్‌డేట్ చేయాలి",
+    "భారీ, వేగవంతమైన లావాదేవీలపై హెచ్చరిక పరిమితులు",
+    "పూర్తి కేవైసీ తర్వాతే నిధుల జమ చేయాలని సూచన"
+   ],
+   "why": "బ్యాంకు ఖాతాదారుల డబ్బు భద్రతకు ఈ జాగ్రత్తలు కీలకం; మోసపోతే వెంటనే 1930కి ఫోన్ చేయవచ్చు.",
+   "d": "09.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Banks must stay alert to AI-driven cyber attacks: Sajjanar",
+    "p": "Hyderabad Police Commissioner V.C. Sajjanar urged banks, financial institutions, quick-commerce and mobility platforms to strengthen security systems and staffing against AI-assisted cyber attacks. He warned that criminals exploit outdated software, weak portals and payment APIs to move crores of rupees into mule accounts. Victims should call 1930.",
+    "pts": [
+     "Remove old test APIs and keep software updated",
+     "Set alert thresholds for large or rapid transactions",
+     "Credit funds only after full KYC"
+    ],
+    "why": "These steps are key to protecting customers' money; fraud victims can call 1930 immediately.",
+    "cat": "Hyderabad · Cyber security",
+    "statl": "Cybercrime helpline"
+   },
+   "hi": {
+    "h": "एआई आधारित साइबर हमलों को लेकर बैंक सतर्क रहें: सज्जनार",
+    "p": "हैदराबाद पुलिस आयुक्त वी.सी. सज्जनार ने बैंकों, वित्तीय संस्थानों, क्विक-कॉमर्स और मोबिलिटी कंपनियों से एआई की मदद से होने वाले साइबर हमलों के खिलाफ सुरक्षा व्यवस्था और स्टाफ मजबूत करने को कहा। उन्होंने चेताया कि अपराधी पुराने सॉफ्टवेयर, कमजोर पोर्टल और पेमेंट एपीआई के जरिए करोड़ों रुपये म्यूल खातों में भेज रहे हैं। पीड़ित 1930 पर कॉल करें।",
+    "pts": [
+     "पुराने टेस्ट एपीआई हटाएं, सॉफ्टवेयर अपडेट रखें",
+     "बड़े या तेज लेनदेन पर अलर्ट सीमा तय करें",
+     "पूरी केवाईसी के बाद ही राशि जमा करें"
+    ],
+    "why": "ग्राहकों के पैसे की सुरक्षा के लिए ये कदम अहम हैं; ठगी होने पर तुरंत 1930 पर कॉल करें।",
+    "cat": "हैदराबाद · साइबर सुरक्षा",
+    "statl": "साइबर अपराध हेल्पलाइन"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "వరి వద్దు",
+   "statl": "యాసంగిలో సీఎం సూచన",
+   "h": "యాసంగిలో వరి వేయవద్దని రైతులకు సీఎం రేవంత్ రెడ్డి సూచన",
+   "p": "లగచర్లలో సోమవారం జరిగిన 'రైతన్నతో ఆత్మీయ సభ'లో ముఖ్యమంత్రి రేవంత్ రెడ్డి మాట్లాడారు. ఆహార ధాన్యాల నిల్వలు సరిపడా ఉన్నాయని, నీటి కొరత తీవ్రంగా ఉందని చెబుతూ వరి సాగు చేయవద్దని, నీటిని పొదుపుగా వాడాలని రైతులను కోరారు. యాసంగి రైతు భరోసా, పంట నష్ట పరిహారంపై ఎలాంటి ప్రకటన చేయలేదు. సంక్రాంతి తర్వాత ప్రజల వద్దకు వస్తామన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/revanth-reddy-makes-no-rythu-bharosa-or-crop-loss-compensation-announcement-at-lagacherla",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "లగచర్ల",
+   "pts": [
+    "నీటి కొరత కారణంగా వరి వద్దని సూచన",
+    "రైతు భరోసా, పరిహారంపై ప్రకటన లేదు",
+    "శంషాబాద్–కొడంగల్ 200 అడుగుల రోడ్డును సమర్థించిన సీఎం"
+   ],
+   "why": "యాసంగి పంటల ఎంపికపై నిర్ణయం తీసుకునే రాష్ట్ర రైతులకు ఇది ముఖ్యమైన సమాచారం.",
+   "d": "09.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "CM Revanth Reddy urges farmers not to grow paddy this Yasangi",
+    "p": "Chief Minister Revanth Reddy addressed the 'Rythannatho Atmeeya Sabha' farmers' meeting at Lagacherla on Monday. Citing adequate foodgrain stocks and a severe water shortage, he asked farmers not to cultivate paddy and to use water sparingly. He made no announcement on Yasangi Rythu Bharosa or crop-loss compensation. He said he would reach out to people after Sankranti.",
+    "pts": [
+     "Asked farmers to avoid paddy due to water shortage",
+     "No announcement on Rythu Bharosa or compensation",
+     "CM defended 200-foot Shamshabad–Kodangal road"
+    ],
+    "why": "This matters for farmers across the state deciding which crops to sow this Yasangi.",
+    "cat": "Telangana · Farmers",
+    "statl": "CM's advice for Yasangi"
+   },
+   "hi": {
+    "h": "सीएम रेवंत रेड्डी की किसानों से अपील: इस यासंगी में धान न बोएं",
+    "p": "मुख्यमंत्री रेवंत रेड्डी ने सोमवार को लगचर्ला में 'रैतन्नतो आत्मीय सभा' किसान बैठक को संबोधित किया। अनाज का पर्याप्त भंडार और पानी की भारी कमी का हवाला देते हुए उन्होंने किसानों से धान न बोने और पानी किफायत से इस्तेमाल करने को कहा। यासंगी रैतु भरोसा या फसल नुकसान मुआवजे पर कोई घोषणा नहीं हुई। उन्होंने कहा कि संक्रांति के बाद वे लोगों के बीच आएंगे।",
+    "pts": [
+     "पानी की कमी के कारण धान न बोने की सलाह",
+     "रैतु भरोसा, मुआवजे पर कोई घोषणा नहीं",
+     "सीएम ने शमशाबाद–कोडंगल 200 फुट सड़क का बचाव किया"
+    ],
+    "why": "यासंगी में कौन-सी फसल बोएं, यह तय करने वाले राज्य के किसानों के लिए यह अहम जानकारी है।",
+    "cat": "तेलंगाना · किसान",
+    "statl": "यासंगी के लिए सीएम की सलाह"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · మెదక్",
+   "col": "--c-power",
+   "art": "farm",
+   "stat": "అలర్ట్",
+   "statl": "రైతులు ఒంటరిగా వెళ్లొద్దని సూచన",
+   "h": "రామాయంపేట వద్ద చిరుత సంచారం: మెదక్ రైతుల్లో ఆందోళన",
+   "p": "మెదక్ జిల్లా రామాయంపేట మండలం దంతెపల్లి శివారులోని కాకుల గుట్ట వద్ద ఆదివారం రాత్రి రోడ్డు దాటుతున్న చిరుతను ఓ ప్రయాణికుడు గమనించి తన ఫోన్‌లో వీడియో తీశాడు. దీంతో ఆ ప్రాంత రైతుల్లో భయం నెలకొంది. చిరుత తిరిగి అడవిలోకి వెళ్లే వరకు ఒంటరిగా పొలాలకు వెళ్లవద్దని అటవీ అధికారులు స్థానికులను అప్రమత్తం చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/leopard-sighting-triggers-panic-among-farmers-in-medak",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "medak",
+   "loc": "రామాయంపేట",
+   "pts": [
+    "కాకుల గుట్ట వద్ద రోడ్డు దాటిన చిరుత",
+    "ప్రయాణికుడి ఫోన్‌లో వీడియో రికార్డు",
+    "స్థానికులను అప్రమత్తం చేసిన అటవీ అధికారులు"
+   ],
+   "why": "రామాయంపేట పరిసర గ్రామాల రైతులు పొలాలకు వెళ్లేటప్పుడు జాగ్రత్తగా ఉండాలి.",
+   "d": "09.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Leopard spotted near Ramayampet, Medak farmers worried",
+    "p": "A commuter spotted a leopard crossing the road at Kakula Gutta on the outskirts of Danthepally in Ramayampet mandal of Medak district on Sunday night and filmed it on his phone. The sighting caused fear among farmers in the area. Forest officials alerted locals and advised farmers not to go to fields alone until the leopard returns to the forest.",
+    "pts": [
+     "Leopard crossed the road at Kakula Gutta",
+     "Commuter recorded video on his phone",
+     "Forest officials put locals on alert"
+    ],
+    "why": "Farmers in villages around Ramayampet should take care while going to their fields.",
+    "cat": "Telangana · Medak",
+    "statl": "Farmers told not to go alone"
+   },
+   "hi": {
+    "h": "रामायमपेट के पास तेंदुआ दिखा, मेदक के किसानों में दहशत",
+    "p": "मेदक जिले के रामायमपेट मंडल में दंतेपल्ली के बाहरी इलाके काकुला गुट्टा पर रविवार रात एक यात्री ने सड़क पार करते तेंदुए को देखा और फोन पर वीडियो बना लिया। इससे इलाके के किसानों में डर फैल गया। वन अधिकारियों ने स्थानीय लोगों को सतर्क किया और कहा कि तेंदुए के जंगल लौटने तक किसान अकेले खेतों में न जाएं।",
+    "pts": [
+     "काकुला गुट्टा पर तेंदुए ने सड़क पार की",
+     "यात्री ने फोन पर वीडियो रिकॉर्ड किया",
+     "वन अधिकारियों ने लोगों को सतर्क किया"
+    ],
+    "why": "रामायमपेट के आसपास के गांवों के किसानों को खेत जाते समय सावधानी बरतनी चाहिए।",
+    "cat": "तेलंगाना · मेदक",
+    "statl": "किसानों को अकेले न जाने की सलाह"
+   }
+  },
+  {
+   "cat": "మహారాష్ట్ర · ముంబై",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "నవం. 25",
+   "statl": "వరకు రాకెట్ టపాసులపై నిషేధం",
+   "h": "ముంబైలో రాకెట్లు, ఆకాశ టపాసులపై నవంబర్ 25 వరకు నిషేధం",
+   "p": "అగ్ని ప్రమాదాలు పెరగడంతో ముంబై నగరమంతా రాకెట్లు, ఆకాశంలో పేలే టపాసులను నవంబర్ 9 నుంచి 25 రాత్రి 11:59 వరకు నిషేధిస్తూ బీఎంసీ కమిషనర్ ఉత్తర్వులు ఇచ్చారు. ఇళ్ల పైకప్పులు, బాల్కనీలు, పార్కింగ్ ప్రాంతాలు, మురికివాడలకూ ఇది వర్తిస్తుంది. నవంబర్ 8న ముంబై అగ్నిమాపక విభాగానికి 142 కాల్స్ రాగా, వాటిలో 137 టపాసులకు సంబంధించినవే.",
+   "src": "The CSR Journal",
+   "url": "https://thecsrjournal.in/mumbai-bmc-rockets-aerial-firecrackers-ban-november-2026-hindi",
+   "sec": [
+    "india"
+   ],
+   "st": "MH",
+   "place": "mh-mumbai",
+   "loc": "ముంబై",
+   "pts": [
+    "విపత్తు నిర్వహణ చట్టం కింద ఉత్తర్వులు",
+    "పోలీసులు, బీఎంసీ, అగ్నిమాపక శాఖకు అమలు బాధ్యత",
+    "ఇతర టపాసులకు ప్రస్తుత నిబంధనలే వర్తింపు"
+   ],
+   "why": "ముంబైలో నివసించే తెలుగువారు సహా అందరూ ఈ నిషేధాన్ని పాటించాల్సి ఉంటుంది.",
+   "d": "09.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Mumbai bans rockets and aerial firecrackers until November 25",
+    "p": "With fire incidents rising, the BMC Commissioner has banned rockets and aerial firecrackers across Mumbai from November 9 to 11:59 pm on November 25. The ban also covers rooftops, balconies, parking areas and slums. On November 8, the Mumbai Fire Brigade received 142 calls, 137 of them linked to firecrackers.",
+    "pts": [
+     "Order issued under the Disaster Management Act",
+     "Police, BMC and fire brigade to enforce it",
+     "Other firecrackers remain under existing rules"
+    ],
+    "why": "Everyone in Mumbai, including Telugu residents, must follow this ban.",
+    "cat": "Maharashtra · Mumbai",
+    "statl": "Rocket firecracker ban until"
+   },
+   "hi": {
+    "h": "मुंबई में 25 नवंबर तक रॉकेट और आसमानी पटाखों पर बैन",
+    "p": "आग की घटनाएं बढ़ने पर बीएमसी आयुक्त ने पूरे मुंबई में 9 नवंबर से 25 नवंबर रात 11:59 बजे तक रॉकेट और आसमानी पटाखों पर रोक लगा दी है। यह रोक छतों, बालकनियों, पार्किंग और झुग्गी बस्तियों पर भी लागू है। 8 नवंबर को मुंबई फायर ब्रिगेड को 142 कॉल मिलीं, जिनमें 137 पटाखों से जुड़ी थीं।",
+    "pts": [
+     "आपदा प्रबंधन अधिनियम के तहत आदेश",
+     "पुलिस, बीएमसी और फायर ब्रिगेड करेंगे अमल",
+     "अन्य पटाखों पर मौजूदा नियम लागू"
+    ],
+    "why": "मुंबई में रहने वाले तेलुगु लोगों समेत सभी को इस प्रतिबंध का पालन करना होगा।",
+    "cat": "महाराष्ट्र · मुंबई",
+    "statl": "तक रॉकेट पटाखों पर रोक"
+   }
+  },
+  {
+   "cat": "బిహార్ · పట్నా",
+   "col": "--c-gov",
+   "art": "water",
+   "stat": "9",
+   "statl": "ఎన్‌డీఆర్‌ఎఫ్ బృందాల మోహరింపు",
+   "h": "ఛఠ్ పూజకు పట్నా సిద్ధం: నవంబర్ 12లోగా ఘాట్ల పనులు పూర్తి చేయాలని ఆదేశం",
+   "p": "ఛఠ్ పూజ ఏర్పాట్లపై పట్నా డివిజనల్ కమిషనర్ రాజేశ్ కుమార్ సమీక్ష నిర్వహించి, నవంబర్ 12లోగా అన్ని పనులు పూర్తి చేయాలని ఆదేశించారు. ఘాట్ల వద్ద శుభ్రత, వెలుతురు, తాగునీరు, మరుగుదొడ్లు, భద్రత ఏర్పాటు చేయాలన్నారు. దానాపూర్ నుంచి కంగన్ ఘాట్ వరకు 9 ఎన్‌డీఆర్‌ఎఫ్ బృందాలను మోహరిస్తారు. ప్రమాదకర ఘాట్లను ఎరుపు వస్త్రంతో గుర్తిస్తారు.",
+   "src": "Amar Ujala",
+   "url": "https://www.amarujala.com/bihar/patna/patna-administration-sets-november-12-deadline-for-chhath-preparations-9-ndrf-teams-to-be-deployed-2026-11-09",
+   "sec": [
+    "india",
+    "culture"
+   ],
+   "st": "BR",
+   "place": "st-BR",
+   "loc": "పట్నా",
+   "pts": [
+    "నవంబర్ 12 గడువుగా ఘాట్ల పనులు",
+    "నహాయ్-ఖాయ్ నుంచి ప్రత్యేక ట్రాఫిక్ ప్రణాళిక",
+    "నదీ నీటి మట్టాలపై పర్యవేక్షణకు ఆదేశం"
+   ],
+   "why": "ఛఠ్ పూజకు ఘాట్లకు వెళ్లే లక్షలాది భక్తుల భద్రతకు ఈ ఏర్పాట్లు ముఖ్యం.",
+   "d": "09.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Patna gears up for Chhath: ghat work to finish by November 12",
+    "p": "Patna Divisional Commissioner Rajesh Kumar reviewed Chhath Puja arrangements and ordered all work to be completed by November 12. Ghats must have cleaning, lighting, drinking water, toilets and security. Nine NDRF teams will be deployed from Danapur to Kangan Ghat. Dangerous ghats will be marked with red cloth.",
+    "pts": [
+     "November 12 deadline for ghat work",
+     "Special traffic plan from Nahay-Khay",
+     "Orders to monitor river water levels"
+    ],
+    "why": "These arrangements are key to the safety of lakhs of devotees visiting ghats for Chhath.",
+    "cat": "Bihar · Patna",
+    "statl": "NDRF teams deployed"
+   },
+   "hi": {
+    "h": "छठ के लिए पटना तैयार: 12 नवंबर तक घाटों का काम पूरा करने का निर्देश",
+    "p": "पटना के प्रमंडलीय आयुक्त राजेश कुमार ने छठ पूजा की तैयारियों की समीक्षा की और 12 नवंबर तक सभी काम पूरे करने का निर्देश दिया। घाटों पर सफाई, रोशनी, पेयजल, शौचालय और सुरक्षा की व्यवस्था करनी होगी। दानापुर से कंगन घाट तक एनडीआरएफ की 9 टीमें तैनात होंगी। खतरनाक घाटों को लाल कपड़े से चिह्नित किया जाएगा।",
+    "pts": [
+     "घाटों के काम के लिए 12 नवंबर की समय सीमा",
+     "नहाय-खाय से विशेष ट्रैफिक प्लान",
+     "नदी के जलस्तर की निगरानी के निर्देश"
+    ],
+    "why": "छठ पर घाटों पर जाने वाले लाखों श्रद्धालुओं की सुरक्षा के लिए ये इंतजाम अहम हैं।",
+    "cat": "बिहार · पटना",
+    "statl": "एनडीआरएफ टीमें तैनात"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · వాతావరణం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "35%",
+   "statl": "2035 నాటికి విద్యుత్ వాటా లక్ష్యం",
+   "h": "తుర్కియేలో కాప్31 వాతావరణ సదస్సు ప్రారంభం: విద్యుదీకరణపై దృష్టి",
+   "p": "ఐక్యరాజ్యసమితి వాతావరణ సదస్సు కాప్31 సోమవారం తుర్కియేలోని అంటాల్యాలో ప్రారంభమైంది. 2035 నాటికి ప్రపంచ ఇంధన డిమాండ్‌లో కనీసం 35 శాతం విద్యుత్ ద్వారా తీరాలన్న స్వచ్ఛంద ప్రతిజ్ఞను తుర్కియే ముందుకు తెచ్చింది. ప్రస్తుతం ఇది ఐదో వంతు మాత్రమే. ఇరాన్ యుద్ధంతో హోర్ముజ్ చమురు రవాణా దెబ్బతినడంతో భారత్ సహా ఆసియా దేశాలు బొగ్గుపై ఆధారపడటం పెరిగింది.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "'35-బై-35' విద్యుదీకరణ ప్రతిజ్ఞ ప్రతిపాదన",
+    "అదనపు విద్యుత్ తక్కువ కార్బన్‌ది కావాలన్న నిబంధన లేదని విమర్శ",
+    "శిలాజ ఇంధనాల నుంచి వైదొలగే మార్గం కోరుతున్న పసిఫిక్ దేశాలు"
+   ],
+   "why": "ఈ సదస్సు నిర్ణయాలు భారత్ సహా దేశాల ఇంధన, బొగ్గు వినియోగ విధానాలపై ప్రభావం చూపవచ్చు.",
+   "d": "09.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "COP31 climate summit opens in Turkiye with focus on electrification",
+    "p": "The UN climate conference COP31 opened on Monday in Antalya, Turkiye. Turkiye is pushing a non-binding pledge for electricity to meet at least 35 percent of global energy demand by 2035. Today it is only about one-fifth. With the Iran war disrupting oil shipments through Hormuz, Asian countries including India have leaned more on coal.",
+    "pts": [
+     "'35-by-35' electrification pledge proposed",
+     "Critics say it doesn't require extra power to be low-carbon",
+     "Pacific nations seek a roadmap away from fossil fuels"
+    ],
+    "why": "Decisions at this summit could affect energy and coal policies of countries including India.",
+    "cat": "World · Climate",
+    "statl": "Electricity share target by 2035"
+   },
+   "hi": {
+    "h": "तुर्किये में कॉप31 जलवायु सम्मेलन शुरू, विद्युतीकरण पर जोर",
+    "p": "संयुक्त राष्ट्र का जलवायु सम्मेलन कॉप31 सोमवार को तुर्किये के अंताल्या में शुरू हुआ। तुर्किये एक स्वैच्छिक संकल्प आगे बढ़ा रहा है कि 2035 तक दुनिया की ऊर्जा मांग का कम से कम 35 प्रतिशत बिजली से पूरा हो। अभी यह करीब पांचवां हिस्सा है। ईरान युद्ध से होर्मुज के रास्ते तेल आपूर्ति बाधित होने पर भारत समेत एशियाई देशों की कोयले पर निर्भरता बढ़ी है।",
+    "pts": [
+     "'35-बाय-35' विद्युतीकरण संकल्प का प्रस्ताव",
+     "आलोचना: अतिरिक्त बिजली के कम-कार्बन होने की शर्त नहीं",
+     "प्रशांत देश जीवाश्म ईंधन छोड़ने का रोडमैप चाहते हैं"
+    ],
+    "why": "इस सम्मेलन के फैसले भारत समेत कई देशों की ऊर्जा और कोयला नीतियों पर असर डाल सकते हैं।",
+    "cat": "दुनिया · जलवायु",
+    "statl": "2035 तक बिजली हिस्सेदारी लक्ष्य"
+   }
+  },
   {
    "cat": "కార్మికుల సమస్య · మహబూబాబాద్",
    "col": "--c-job",
@@ -2171,373 +2467,6 @@
    },
    "d": "09.11.2026",
    "t": "13:05"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "voters",
-   "stat": "మిడ్‌టర్మ్స్",
-   "statl": "రిపబ్లికన్ల ఓటమిపై ట్రంప్ విశ్లేషణ",
-   "h": "మిడ్‌టర్మ్ ఓటమికి ఇజ్రాయెల్‌పై వ్యతిరేకత ఒక కారణం: ట్రంప్",
-   "p": "గత వారం జరిగిన అమెరికా మధ్యంతర ఎన్నికల్లో రిపబ్లికన్లు వెనుకబడటానికి ఇజ్రాయెల్‌పై ప్రజల్లో ఉన్న అయిష్టత ఒక ముఖ్య కారణమని అధ్యక్షుడు ట్రంప్ ‘60 మినిట్స్’ ఇంటర్వ్యూలో అన్నారు. తాను బ్యాలెట్‌లో లేకపోవడం, యుద్ధంపై అసంతృప్తి, పెట్రోల్ ధరల పెరుగుదల కూడా కారణాలని చెప్పారు. విదేశాంగ మంత్రి రూబియో కొనసాగుతారని, మంత్రివర్గంలో మరికొన్ని మార్పులు ఉండొచ్చని తెలిపారు.",
-   "src": "The Times of Israel",
-   "url": "https://www.timesofisrael.com/liveblog-november-9-2026",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఇజ్రాయెల్‌పై అయిష్టత ఓటమికి కారణమన్న ట్రంప్",
-    "యుద్ధం, పెట్రోల్ ధరలు కూడా కారణాలని వెల్లడి",
-    "రూబియో కొనసాగుతారు; మరికొన్ని మార్పులు ఉండొచ్చు"
-   ],
-   "why": "అమెరికా విదేశాంగ విధానంలో మార్పులు పశ్చిమాసియా, చమురు ధరలపై, అక్కడి తెలుగువారిపై ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Dislike for Israel one reason for midterm loss: Trump",
-    "p": "President Trump said in a '60 Minutes' interview that a main reason Republicans did poorly in last week's US midterm elections was people's dislike of Israel. He said his not being on the ballot, unhappiness over the war and higher gasoline prices were also reasons. He said Secretary of State Rubio will stay and there may be a few more changes in the Cabinet.",
-    "pts": [
-     "Trump cites dislike of Israel for loss",
-     "Also blames war and gasoline prices",
-     "Rubio stays; a few more changes possible"
-    ],
-    "why": "Shifts in US foreign policy can affect West Asia, oil prices and Telugu people living there.",
-    "cat": "World · US",
-    "statl": "Trump on Republican losses"
-   },
-   "hi": {
-    "h": "मध्यावधि चुनाव में हार की एक वजह इज़राइल के प्रति नापसंदगी: ट्रंप",
-    "p": "राष्ट्रपति ट्रंप ने '60 मिनट्स' इंटरव्यू में कहा कि पिछले हफ्ते हुए अमेरिकी मध्यावधि चुनावों में रिपब्लिकन के खराब प्रदर्शन की एक मुख्य वजह लोगों में इज़राइल के प्रति नापसंदगी है। उन्होंने कहा कि उनका बैलेट पर न होना, युद्ध से नाराजगी और पेट्रोल की बढ़ी कीमतें भी कारण रहीं। उन्होंने कहा कि विदेश मंत्री रूबियो पद पर बने रहेंगे और मंत्रिमंडल में कुछ और बदलाव हो सकते हैं।",
-    "pts": [
-     "ट्रंप ने हार के लिए इज़राइल के प्रति नापसंदगी बताई",
-     "युद्ध और पेट्रोल कीमतें भी कारण",
-     "रूबियो बने रहेंगे; कुछ और बदलाव संभव"
-    ],
-    "why": "अमेरिकी विदेश नीति में बदलाव पश्चिम एशिया, तेल कीमतों और वहां रहने वाले तेलुगु लोगों को प्रभावित कर सकते हैं।",
-    "cat": "दुनिया · अमेरिका",
-    "statl": "रिपब्लिकन हार पर ट्रंप"
-   },
-   "d": "09.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "ఏపీ · తిరుమల",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "15 గంటలు",
-   "statl": "సర్వదర్శనానికి నిరీక్షణ",
-   "h": "తిరుమలలో భక్తుల రద్దీ: సర్వదర్శనానికి 15 గంటల సమయం",
-   "p": "తిరుమలలో శ్రీవారి దర్శనానికి భక్తుల రద్దీ కొనసాగుతోంది. టోకెన్లు లేని భక్తులకు సర్వదర్శనానికి సుమారు 15 గంటల సమయం పడుతోంది. కంపార్ట్‌మెంట్లన్నీ నిండిపోయి, క్యూ లైన్లు నారాయణగిరి షెడ్ల వరకు చేరాయి. నిన్న 78,228 మంది భక్తులు స్వామివారిని దర్శించుకున్నారు. హుండీ ఆదాయం రూ.4.01 కోట్లు వచ్చింది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--9th-november-2026-latest-top-news-information-across-telangana-tgs26110900312",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "AP",
-   "place": "ap-tirupati",
-   "loc": "తిరుమల",
-   "pts": [
-    "నిన్న 78,228 మందికి శ్రీవారి దర్శనం",
-    "హుండీ ఆదాయం రూ.4.01 కోట్లు",
-    "25,564 మంది తలనీలాలు సమర్పించారు"
-   ],
-   "why": "తిరుమల వెళ్లే భక్తులు ఎక్కువ నిరీక్షణకు సిద్ధంగా ప్రయాణం ప్లాన్ చేసుకోవాలి.",
-   "en": {
-    "h": "Heavy rush at Tirumala: 15-hour wait for sarva darshan",
-    "p": "The rush of devotees for darshan at Tirumala continues. Devotees without tokens are taking about 15 hours for sarva darshan. All compartments are full and queues have reached the Narayanagiri sheds. Yesterday, 78,228 devotees had darshan of the deity. Hundi income was Rs 4.01 crore.",
-    "pts": [
-     "78,228 devotees had darshan yesterday",
-     "Hundi income of Rs 4.01 crore",
-     "25,564 devotees offered tonsure"
-    ],
-    "why": "Devotees going to Tirumala should plan their trip expecting a long wait.",
-    "cat": "Andhra Pradesh · Tirumala",
-    "statl": "Wait for sarva darshan"
-   },
-   "hi": {
-    "h": "तिरुमला में भारी भीड़: सर्व दर्शन के लिए 15 घंटे का इंतजार",
-    "p": "तिरुमला में श्रीवारी के दर्शन के लिए भक्तों की भीड़ जारी है। बिना टोकन वाले भक्तों को सर्व दर्शन में लगभग 15 घंटे लग रहे हैं। सभी कंपार्टमेंट भर गए हैं और कतारें नारायणगिरि शेड तक पहुंच गई हैं। कल 78,228 भक्तों ने दर्शन किए। हुंडी आय 4.01 करोड़ रुपये रही।",
-    "pts": [
-     "कल 78,228 भक्तों ने दर्शन किए",
-     "हुंडी आय 4.01 करोड़ रुपये",
-     "25,564 भक्तों ने मुंडन कराया"
-    ],
-    "why": "तिरुमला जाने वाले भक्त लंबे इंतजार को ध्यान में रखकर यात्रा की योजना बनाएं।",
-    "cat": "आंध्र प्रदेश · तिरुमला",
-    "statl": "सर्व दर्शन के लिए इंतजार"
-   },
-   "d": "09.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "తెలంగాణ · రంగారెడ్డి",
-   "col": "--c-power",
-   "art": "land",
-   "stat": "దగ్ధం",
-   "statl": "పాత రికార్డులు కాలిపోయాయి",
-   "h": "చేవెళ్లలో పాత పట్వారీ కార్యాలయంలో అగ్నిప్రమాదం",
-   "p": "రంగారెడ్డి జిల్లా చేవెళ్ల ఎమ్మార్వో కార్యాలయం సమీపంలోని పాత పట్వారీ కార్యాలయంలో అగ్నిప్రమాదం జరిగింది. మంటలు ఒక్కసారిగా భవనమంతా వ్యాపించాయి. లోపల ఉన్న పాత రికార్డులు, సామగ్రి కాలిపోయాయి. పోలీసులు అగ్నిమాపక శాఖకు సమాచారం ఇచ్చారు. ప్రమాదానికి కారణం ఇంకా తెలియలేదు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--9th-november-2026-latest-top-news-information-across-telangana-tgs26110900312",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "చేవెళ్ల",
-   "pts": [
-    "ఎమ్మార్వో కార్యాలయం సమీపంలోని పాత భవనంలో మంటలు",
-    "పాత రికార్డులు, సామగ్రి దగ్ధం",
-    "పోలీసుల సమాచారంతో అగ్నిమాపక శాఖ రంగంలోకి"
-   ],
-   "why": "ప్రభుత్వ కార్యాలయాల్లో పాత రెవెన్యూ రికార్డుల భద్రతను ఈ ఘటన గుర్తుచేస్తోంది.",
-   "en": {
-    "h": "Fire at old patwari office in Chevella, records burnt",
-    "p": "A fire broke out at the old patwari office near the Chevella MRO office in Ranga Reddy district. The flames suddenly spread through the whole building. Old records and belongings inside were burnt. Police informed the fire department. The cause of the fire is not yet known.",
-    "pts": [
-     "Fire in old building near the MRO office",
-     "Old records and belongings burnt",
-     "Fire department alerted by police"
-    ],
-    "why": "The incident is a reminder of the safety of old revenue records in government offices.",
-    "cat": "Telangana · Ranga Reddy",
-    "statl": "Old records burnt"
-   },
-   "hi": {
-    "h": "चेवेल्ला में पुराने पटवारी कार्यालय में आग, रिकॉर्ड जले",
-    "p": "रंगारेड्डी जिले के चेवेल्ला एमआरओ कार्यालय के पास पुराने पटवारी कार्यालय में आग लग गई। लपटें अचानक पूरी इमारत में फैल गईं। अंदर रखे पुराने रिकॉर्ड और सामान जल गए। पुलिस ने अग्निशमन विभाग को सूचना दी। आग का कारण अभी पता नहीं चला है।",
-    "pts": [
-     "एमआरओ कार्यालय के पास पुरानी इमारत में आग",
-     "पुराने रिकॉर्ड और सामान जले",
-     "पुलिस ने अग्निशमन विभाग को सूचना दी"
-    ],
-    "why": "यह घटना सरकारी दफ्तरों में पुराने राजस्व रिकॉर्ड की सुरक्षा की याद दिलाती है।",
-    "cat": "तेलंगाना · रंगारेड्डी",
-    "statl": "पुराने रिकॉर्ड जले"
-   },
-   "d": "09.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఢిల్లీ · కాలుష్యం",
-   "col": "--c-water",
-   "art": "power",
-   "stat": "AQI 371",
-   "statl": "దీపావళి తర్వాత ఢిల్లీ గాలి",
-   "h": "దీపావళి టపాసులతో ఢిల్లీలో క్షీణించిన గాలి నాణ్యత",
-   "p": "దీపావళి సందర్భంగా పెద్ద ఎత్తున టపాసులు కాల్చడంతో ఢిల్లీలో గాలి నాణ్యత పడిపోయింది. వాయు నాణ్యత సూచీ 371గా నమోదైంది. సోనియా విహార్‌లో 463, జహంగీర్‌పురిలో 450 నమోదయ్యాయి. కోర్టు ఆదేశాలు, ప్రభుత్వ ఆంక్షలు ఉన్నా ప్రజలు టపాసులు కాల్చారు. కాలుష్యంతో శ్వాస సమస్యలు ఎదురవుతున్నాయి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--9th-november-2026-latest-top-news-information-across-telangana-tgs26110900312",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "DL",
-   "place": "st-DL",
-   "pts": [
-    "ఢిల్లీలో వాయు నాణ్యత సూచీ 371",
-    "సోనియా విహార్ 463, జహంగీర్‌పురి 450",
-    "ఆంక్షలున్నా భారీగా టపాసుల వినియోగం"
-   ],
-   "why": "ఢిల్లీలో ఉండే తెలుగువారు సహా పిల్లలు, వృద్ధులు, శ్వాసకోశ రోగులు జాగ్రత్తగా ఉండాలి.",
-   "en": {
-    "h": "Delhi air quality worsens after Diwali firecrackers",
-    "p": "Air quality in Delhi fell after large-scale bursting of firecrackers on Diwali. The air quality index was recorded at 371. Sonia Vihar recorded 463 and Jahangirpuri 450. People burst crackers despite court orders and government restrictions. The pollution is causing breathing problems.",
-    "pts": [
-     "Delhi air quality index at 371",
-     "Sonia Vihar 463, Jahangirpuri 450",
-     "Heavy cracker use despite restrictions"
-    ],
-    "why": "People in Delhi, including Telugu residents, especially children, the elderly and respiratory patients, should take care.",
-    "cat": "Delhi · Pollution",
-    "statl": "Delhi air after Diwali"
-   },
-   "hi": {
-    "h": "दिवाली के पटाखों से दिल्ली की हवा खराब हुई",
-    "p": "दिवाली पर बड़े पैमाने पर पटाखे जलाए जाने से दिल्ली में हवा की गुणवत्ता गिर गई। वायु गुणवत्ता सूचकांक 371 दर्ज किया गया। सोनिया विहार में 463 और जहांगीरपुरी में 450 दर्ज हुआ। अदालत के आदेश और सरकारी पाबंदियों के बावजूद लोगों ने पटाखे जलाए। प्रदूषण से सांस की दिक्कतें हो रही हैं।",
-    "pts": [
-     "दिल्ली में वायु गुणवत्ता सूचकांक 371",
-     "सोनिया विहार 463, जहांगीरपुरी 450",
-     "पाबंदियों के बावजूद भारी पटाखेबाजी"
-    ],
-    "why": "दिल्ली में रहने वाले लोग, खासकर बच्चे, बुजुर्ग और सांस के मरीज सावधान रहें।",
-    "cat": "दिल्ली · प्रदूषण",
-    "statl": "दिवाली के बाद दिल्ली की हवा"
-   },
-   "d": "09.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "విద్య · యువత",
-   "col": "--c-job",
-   "art": "voters",
-   "stat": "12.11.2026",
-   "statl": "ఆలేరులో విద్యార్థి యువ సమ్మేళనం",
-   "h": "12న ఆలేరులో విద్యార్థి యువ సమ్మేళనం – ముఖ్య అతిథిగా యాదగిరిగుట్ట డీఎస్పీ",
-   "p": "రాఘవ స్వచ్ఛంద సేవా సంస్థ, మంగ ఫౌండేషన్ ఆధ్వర్యంలో ఈ నెల 12న (గురువారం) ఉదయం 11 గంటలకు ఆలేరులోని దినేష్ గార్డెన్స్‌లో విద్యార్థి యువ సమ్మేళనం జరగనుంది. ముఖ్య అతిథిగా యాదగిరిగుట్ట డీఎస్పీ శ్రీ పి. శ్రీనివాస నాయుడు గారు హాజరుకానున్నారు. విద్యార్థులు, యువత పెద్ద సంఖ్యలో పాల్గొనాలని నిర్వాహకులు కోరారు.",
-   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
-   "url": "",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "ఆలేరు",
-   "pts": [
-    "📅 12 నవంబర్ 2026 (గురువారం), ఉదయం 11 గంటలకు · 📍 దినేష్ గార్డెన్స్, ఆలేరు",
-    "🎖️ ముఖ్య అతిథి: శ్రీ పి. శ్రీనివాస నాయుడు, డీఎస్పీ, యాదగిరిగుట్ట",
-    "📚 చదువు · చైతన్యం · సమాజ సేవ"
-   ],
-   "why": "విద్యార్థులు, యువతను చదువు, సామాజిక బాధ్యత వైపు నడిపించే కార్యక్రమం.",
-   "en": {
-    "cat": "Education · Youth",
-    "stat": "12.11.2026",
-    "statl": "Student-youth convention in Aler",
-    "h": "Student-youth convention in Aler on Nov 12 – Yadagirigutta DSP to be chief guest",
-    "p": "Raghava Swachchanda Seva Samstha and Manga Foundation will hold a Vidyarthi Yuva Sammelanam (student-youth convention) on Thursday, November 12, at 11 am at Dinesh Gardens, Aler. Yadagirigutta DSP Sri P. Srinivasa Naidu will attend as chief guest. The organisers have invited students and youth to take part in large numbers.",
-    "pts": [
-     "📅 12 November 2026 (Thursday), 11 am · 📍 Dinesh Gardens, Aler",
-     "🎖️ Chief guest: Sri P. Srinivasa Naidu, DSP, Yadagirigutta",
-     "📚 Education · Awareness · Social service"
-    ],
-    "why": "A programme to guide students and youth towards education and social responsibility."
-   },
-   "hi": {
-    "cat": "शिक्षा · युवा",
-    "stat": "12.11.2026",
-    "statl": "आलेर में छात्र-युवा सम्मेलन",
-    "h": "12 नवंबर को आलेर में छात्र-युवा सम्मेलन – यादगिरिगुट्टा डीएसपी होंगे मुख्य अतिथि",
-    "p": "राघव स्वच्छंद सेवा संस्था और मंगा फ़ाउंडेशन की ओर से गुरुवार, 12 नवंबर को सुबह 11 बजे आलेर के दिनेश गार्डन्स में विद्यार्थी युवा सम्मेलन होगा। यादगिरिगुट्टा के डीएसपी श्री पी. श्रीनिवास नायडू मुख्य अतिथि होंगे। आयोजकों ने छात्रों और युवाओं से बड़ी संख्या में भाग लेने की अपील की है।",
-    "pts": [
-     "📅 12 नवंबर 2026 (गुरुवार), सुबह 11 बजे · 📍 दिनेश गार्डन्स, आलेर",
-     "🎖️ मुख्य अतिथि: श्री पी. श्रीनिवास नायडू, डीएसपी, यादगिरिगुट्टा",
-     "📚 शिक्षा · जागरूकता · समाज सेवा"
-    ],
-    "why": "छात्रों और युवाओं को शिक्षा और सामाजिक ज़िम्मेदारी की ओर ले जाने वाला कार्यक्रम।"
-   },
-   "d": "09.11.2026",
-   "t": "12:00",
-   "img": "photos/2026-11-09-vidyarthi-yuva-sammelanam-aler.jpg",
-   "imgfy": 0.5,
-   "imgfx": 0.5,
-   "local": true,
-   "_sid": "ye4gw6"
-  },
-  {
-   "cat": "యువత · పోటీ",
-   "col": "--c-job",
-   "art": "voters",
-   "stat": "10.11.2026",
-   "statl": "భువనగిరిలో జిల్లా స్థాయి యూత్ పార్లమెంట్",
-   "h": "రేపు భువనగిరిలో వికసిత్ భారత్ యూత్ పార్లమెంట్ – జిల్లా స్థాయి పోటీ",
-   "p": "కేంద్ర యువజన వ్యవహారాలు, క్రీడల శాఖ పరిధిలోని మై భారత్ కేంద్ర, యాదాద్రి భువనగిరి ఆధ్వర్యంలో జిల్లా స్థాయి వికసిత్ భారత్ యూత్ పార్లమెంట్ 2026-27 పోటీ మంగళవారం (10.11.2026) ఉదయం 9:30కి భువనగిరి కలెక్టరేట్ దగ్గర ఉన్న అరోరా ఇంజినీరింగ్ కాలేజ్‌లో జరగనుంది. అంశాలు: ఒకే దేశం – ఒకే ఎన్నిక; నషా ముక్త్ యువ ఫర్ వికసిత్ భారత్ (మత్తు రహిత యువత). 18–25 ఏళ్ల (17.08.2026 నాటికి) యాదాద్రి భువనగిరి జిల్లా యువత పాల్గొనవచ్చు. ఒక్కొక్కరికి 3 నిమిషాల ప్రసంగం; టాప్ 3 విజేతలు రాష్ట్ర స్థాయికి ఎంపికవుతారు.",
-   "src": "మై భారత్ కేంద్ర, యాదాద్రి భువనగిరి",
-   "url": "",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "భువనగిరి",
-   "pts": [
-    "📅 10.11.2026, ఉదయం 9:30 · 📍 అరోరా ఇంజినీరింగ్ కాలేజ్, కలెక్టరేట్ దగ్గర, భువనగిరి",
-    "🎤 అంశాలు: ఒకే దేశం – ఒకే ఎన్నిక · నషా ముక్త్ యువ ఫర్ వికసిత్ భారత్ · ప్రసంగం 3 నిమిషాలు",
-    "👥 18–25 ఏళ్లు, యాదాద్రి భువనగిరి జిల్లా వారికి మాత్రమే · 🏆 టాప్ 3 రాష్ట్ర స్థాయికి",
-    "📞 98486 66536 · 90597 98602"
-   ],
-   "why": "జిల్లా యువత దేశ సమస్యలపై మాట్లాడి రాష్ట్ర స్థాయికి వెళ్లే అవకాశం.",
-   "en": {
-    "cat": "Youth · Competition",
-    "stat": "10.11.2026",
-    "statl": "District-level Youth Parliament in Bhongir",
-    "h": "Viksit Bharat Youth Parliament in Bhongir tomorrow – district-level competition",
-    "p": "The district-level Viksit Bharat Youth Parliament 2026-27, organised by My Bharat Kendra, Yadadri Bhuvanagiri (Ministry of Youth Affairs and Sports), will be held on Tuesday (10.11.2026) at 9:30 am at Aurora Engineering College near the Collectorate, Bhongir. Topics: One Nation – One Election; Nasha Mukt Yuva for Viksit Bharat (drug-free youth). Youth of Yadadri Bhuvanagiri district aged 18–25 (as on 17.08.2026) can take part. Each speaker gets 3 minutes; the top 3 winners qualify for the state level.",
-    "pts": [
-     "📅 10.11.2026, 9:30 am · 📍 Aurora Engineering College, near Collectorate, Bhongir",
-     "🎤 Topics: One Nation – One Election · Nasha Mukt Yuva for Viksit Bharat · 3-minute speech",
-     "👥 Age 18–25, Yadadri Bhuvanagiri district only · 🏆 Top 3 go to state level",
-     "📞 98486 66536 · 90597 98602"
-    ],
-    "why": "A chance for district youth to speak on national issues and reach the state level."
-   },
-   "hi": {
-    "cat": "युवा · प्रतियोगिता",
-    "stat": "10.11.2026",
-    "statl": "भुवनगिरि में ज़िला स्तरीय युवा संसद",
-    "h": "कल भुवनगिरि में विकसित भारत युवा संसद – ज़िला स्तरीय प्रतियोगिता",
-    "p": "युवा कार्यक्रम एवं खेल मंत्रालय के माय भारत केंद्र, यादाद्री भुवनगिरि की ओर से ज़िला स्तरीय विकसित भारत युवा संसद 2026-27 मंगलवार (10.11.2026) सुबह 9:30 बजे भुवनगिरि कलेक्टरेट के पास अरोरा इंजीनियरिंग कॉलेज में होगी। विषय: एक राष्ट्र – एक चुनाव; नशा मुक्त युवा फ़ॉर विकसित भारत। यादाद्री भुवनगिरि ज़िले के 18–25 वर्ष (17.08.2026 तक) के युवा भाग ले सकते हैं। हर वक्ता को 3 मिनट मिलेंगे; शीर्ष 3 विजेता राज्य स्तर पर जाएँगे।",
-    "pts": [
-     "📅 10.11.2026, सुबह 9:30 · 📍 अरोरा इंजीनियरिंग कॉलेज, कलेक्टरेट के पास, भुवनगिरि",
-     "🎤 विषय: एक राष्ट्र – एक चुनाव · नशा मुक्त युवा फ़ॉर विकसित भारत · 3 मिनट का भाषण",
-     "👥 आयु 18–25, केवल यादाद्री भुवनगिरि ज़िला · 🏆 शीर्ष 3 राज्य स्तर पर",
-     "📞 98486 66536 · 90597 98602"
-    ],
-    "why": "ज़िले के युवाओं के लिए राष्ट्रीय मुद्दों पर बोलने और राज्य स्तर तक पहुँचने का मौक़ा।"
-   },
-   "d": "09.11.2026",
-   "t": "11:45",
-   "img": "photos/2026-11-09-youth-parliament-bhongir.jpg",
-   "imgfy": 0.3,
-   "imgfx": 0.5,
-   "local": true,
-   "_sid": "1nhx9ls"
-  },
-  {
-   "cat": "🪔 దీపావళి · ఆలేరు",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "7వ వార్డు",
-   "statl": "ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే",
-   "h": "ఆలేరు 7వ వార్డులో ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే బీర్ల అయిలయ్య",
-   "p": "ఆలేరు పట్టణంలోని 7వ వార్డులో ఇందిరమ్మ ఇంట్లో నిర్వహించిన దీపావళి వేడుకల్లో తెలంగాణ రాష్ట్ర ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల అయిలయ్య గారు, ఆలేరు మున్సిపల్ చైర్‌పర్సన్ శ్రీమతి బీజన భాస్కర్ గారు పాల్గొన్నారు. ఈ సందర్భంగా ఇందిరమ్మ ఇంట్లో గృహప్రవేశం చేసి, కుటుంబ సభ్యులకు పట్టుబట్టలు, స్వీట్లు, టపాకాయలు అందజేసి దీపావళి శుభాకాంక్షలు తెలిపారు. వారి ఇంట్లో ఆనందోత్సాహాలు నింపారు.",
-   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "ఆలేరు 7వ వార్డు",
-   "pts": [
-    "ఇందిరమ్మ ఇంట్లో గృహప్రవేశం, కుటుంబానికి పట్టుబట్టలు, స్వీట్లు, టపాకాయలు",
-    "పాల్గొన్నవారు: PACS చైర్మన్ జనగాం ఉపేందర్ రెడ్డి, బ్లాక్ కాంగ్రెస్ అధ్యక్షుడు ఈరసారపు యాదగిరి గౌడ్, పట్టణ అధ్యక్షుడు సాగర్ రెడ్డి, జిల్లా మహిళా అధ్యక్షురాలు నీలం పద్మా వెంకటస్వామి",
-    "కౌన్సిలర్లు మరియమ్మ మార్, జూకంటి సంపత్, జట్ట నీరజ సిద్ధులు, MA ఇజాజ్, ముదిగొండ శ్రీకాంత్, 7వ వార్డు ప్రజలు"
-   ],
-   "why": "ఇందిరమ్మ పథకంలో కొత్త ఇల్లు పొందిన కుటుంబం తమ ఇంట్లోనే తొలి దీపావళి జరుపుకుంది.",
-   "en": {
-    "cat": "🪔 Diwali · Aler",
-    "stat": "Ward 7",
-    "statl": "MLA at Diwali in an Indiramma home",
-    "h": "MLA Beerla Ilaiah joins Diwali celebrations in an Indiramma home in Aler ward 7",
-    "p": "Telangana government whip and Aler MLA Beerla Ilaiah and Aler municipal chairperson Beejana Bhaskar took part in Diwali celebrations held in an Indiramma house in ward 7 of Aler town. They joined the housewarming, gave the family silk clothes, sweets and crackers, and wished them a happy Diwali, filling their home with joy.",
-    "pts": [
-     "Housewarming of the Indiramma house; silk clothes, sweets and crackers for the family",
-     "Present: PACS chairman Janagam Upender Reddy, block Congress president Eerasarapu Yadagiri Goud, town president Sagar Reddy, district women's president Neelam Padma Venkataswamy",
-     "Councillors Mariyamma Mar, Jukanti Sampath, Jatta Neeraja Siddulu, MA Ijaz, Mudigonda Srikanth and ward 7 residents"
-    ],
-    "why": "A family that got a new house under the Indiramma scheme celebrated its first Diwali in its own home."
-   },
-   "hi": {
-    "cat": "🪔 दिवाली · आलेर",
-    "stat": "वार्ड 7",
-    "statl": "इंदिरम्मा घर में दिवाली समारोह में विधायक",
-    "h": "आलेर वार्ड 7 में इंदिरम्मा घर के दिवाली समारोह में शामिल हुए विधायक बीरला ऐलय्या",
-    "p": "तेलंगाना सरकार के व्हिप और आलेर विधायक बीरला ऐलय्या तथा आलेर नगरपालिका अध्यक्ष बीजना भास्कर आलेर शहर के वार्ड 7 में एक इंदिरम्मा घर में आयोजित दिवाली समारोह में शामिल हुए। उन्होंने गृहप्रवेश में भाग लिया, परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे दिए और दिवाली की शुभकामनाएँ देकर घर में खुशियाँ भर दीं।",
-    "pts": [
-     "इंदिरम्मा घर का गृहप्रवेश; परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे",
-     "उपस्थित: पैक्स अध्यक्ष जनगाम उपेंदर रेड्डी, ब्लॉक कांग्रेस अध्यक्ष ईरसारपु यादगिरि गौड़, शहर अध्यक्ष सागर रेड्डी, ज़िला महिला अध्यक्ष नीलम पद्मा वेंकटस्वामी",
-     "पार्षद मरियम्मा मार, जूकंटि संपत, जट्टा नीरजा सिद्धुलु, एम.ए. इजाज़, मुदिगोंडा श्रीकांत और वार्ड 7 के लोग"
-    ],
-    "why": "इंदिरम्मा योजना में नया घर पाने वाले परिवार ने अपने घर में पहली दिवाली मनाई।"
-   },
-   "d": "08.11.2026",
-   "t": "19:00",
-   "img": "photos/2026-11-08-aler-ward7-indiramma-diwali.jpg",
-   "imgfy": 0.35,
-   "local": true
   }
  ]
 }
