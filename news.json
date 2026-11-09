@@ -1,8 +1,156 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T18:46:00+05:30",
+ "updated": "2026-11-09T19:10:50+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆదిలాబాద్",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "2 మండలాలు",
+   "statl": "భీంపూర్, తాంసిలో పులి భయం",
+   "h": "ఆదిలాబాద్‌లో పులి సంచారం: పంట కోతలు వాయిదా వేస్తున్న రైతులు",
+   "p": "ఆదిలాబాద్ జిల్లా భీంపూర్, తాంసి మండలాల్లో పులి కదలికలతో రైతులు భయపడుతున్నారు. పెన్‌గంగా నది ఒడ్డున పొలాల్లో పులి కనిపించిందని అంతర్‌గావ్ గ్రామస్థులు చెప్పారు. మహారాష్ట్రలోని తిపేశ్వర్ టైగర్ రిజర్వ్ నుంచి పులి వచ్చి ఉండొచ్చని అటవీ అధికారులు భావిస్తున్నారు. ట్రాకర్లు, కెమెరా ట్రాప్‌లతో పర్యవేక్షిస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tiger-movement-triggers-panic-among-farmers-in-adilabad",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "adilabad",
+   "loc": "భీంపూర్",
+   "pts": [
+    "పత్తి, వరి కోతలను రైతులు వాయిదా వేస్తున్నారు",
+    "పులి జాడ కోసం ట్రాకర్లు, సీసీటీవీ కెమెరా ట్రాప్‌లు",
+    "గుంపులుగా వెళ్లి శబ్దం చేయాలని రైతులకు సూచన"
+   ],
+   "why": "పెన్‌గంగా తీర గ్రామాల రైతులు, పశువుల కాపరులు జాగ్రత్తలు పాటించాల్సిన అవసరం ఉంది.",
+   "d": "09.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Tiger movement in Adilabad: farmers postpone harvesting",
+    "p": "Tiger movement in Bheempur and Tamsi mandals of Adilabad district has caused panic among farmers. Villagers of Anthargaon said a tiger was seen in fields on the banks of the Penganga river. Forest officials believe it may have come from Maharashtra's Tipeshwar Tiger Reserve. They are monitoring it with trackers and camera traps.",
+    "pts": [
+     "Farmers are postponing cotton and paddy harvesting",
+     "Trackers and CCTV camera traps deployed to trail the tiger",
+     "Farmers advised to move in groups and make noise"
+    ],
+    "why": "Farmers and shepherds in villages along the Penganga need to take precautions.",
+    "cat": "Telangana · Adilabad",
+    "statl": "Tiger fear in Bheempur, Tamsi"
+   },
+   "hi": {
+    "h": "आदिलाबाद में बाघ की हलचल: किसानों ने फसल कटाई टाली",
+    "p": "आदिलाबाद जिले के भीमपुर और तामसी मंडलों में बाघ की हलचल से किसान डरे हुए हैं। अंतरगांव के ग्रामीणों ने बताया कि पेनगंगा नदी किनारे खेतों में बाघ देखा गया। वन अधिकारियों का मानना है कि बाघ महाराष्ट्र के तिपेश्वर टाइगर रिज़र्व से आया हो सकता है। ट्रैकर और कैमरा ट्रैप से निगरानी हो रही है।",
+    "pts": [
+     "किसान कपास और धान की कटाई टाल रहे हैं",
+     "बाघ की निगरानी के लिए ट्रैकर और सीसीटीवी कैमरा ट्रैप",
+     "किसानों को समूह में जाने और शोर करने की सलाह"
+    ],
+    "why": "पेनगंगा किनारे के गांवों के किसानों और चरवाहों को सावधानी बरतनी होगी।",
+    "cat": "तेलंगाना · आदिलाबाद",
+    "statl": "भीमपुर, तामसी में बाघ का डर"
+   }
+  },
+  {
+   "cat": "ఏపీ · వాయు నాణ్యత",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "264",
+   "statl": "విశాఖపట్నం గాలి నాణ్యత సూచీ",
+   "h": "దీపావళి తర్వాత ఏపీలో క్షీణించిన గాలి నాణ్యత: విశాఖ, రాజమహేంద్రవరం 'పేలవం'",
+   "p": "దీపావళి వేడుకల తర్వాత ఆంధ్రప్రదేశ్‌లో పర్యవేక్షణలో ఉన్న 17 నగరాల్లోనూ గాలి నాణ్యత తగ్గింది. విశాఖపట్నంలో ఏక్యూఐ 229 నుంచి 264కి పెరిగింది. రాజమహేంద్రవరంలో 104 నుంచి 220కి చేరి 'పేలవం' విభాగంలోకి వెళ్లింది. మిగతా 15 నగరాలు 'మధ్యస్థం'లో ఉన్నాయని ఏపీ కాలుష్య నియంత్రణ మండలి తెలిపింది.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/air-quality-worsens-across-andhra-after-deepavali-visakhapatnam-rajamahendravaram-poor/3094332/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "తిరుపతి 191, నెల్లూరు 175, శ్రీకాకుళం 170",
+    "ఆదివారం 12 నగరాలు 'సంతృప్తికరం'గా ఉన్నాయి",
+    "చాలా నగరాల్లో ప్రధాన కాలుష్యకారకం పీఎం 2.5"
+   ],
+   "why": "ఆస్తమా, ఊపిరితిత్తులు, గుండె జబ్బులున్నవారికి శ్వాస ఇబ్బందులు రావచ్చు.",
+   "d": "09.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "Air quality worsens in AP after Deepavali; Vizag, Rajamahendravaram 'poor'",
+    "p": "After Deepavali celebrations, air quality worsened in all 17 monitored cities of Andhra Pradesh. Visakhapatnam's AQI rose from 229 to 264. Rajamahendravaram rose from 104 to 220, moving into the 'poor' category. The other 15 cities are in the 'moderate' category, the AP Pollution Control Board said.",
+    "pts": [
+     "Tirupati 191, Nellore 175, Srikakulam 170",
+     "On Sunday, 12 cities were 'satisfactory'",
+     "PM2.5 was the main pollutant in most cities"
+    ],
+    "why": "People with asthma, lung or heart ailments may face breathing discomfort.",
+    "cat": "AP · Air quality",
+    "statl": "Visakhapatnam air quality index"
+   },
+   "hi": {
+    "h": "दीपावली के बाद आंध्र में बिगड़ी हवा: विशाखापत्तनम, राजमहेंद्रवरम 'खराब'",
+    "p": "दीपावली के बाद आंध्र प्रदेश के सभी 17 निगरानी वाले शहरों में हवा की गुणवत्ता गिरी। विशाखापत्तनम का एक्यूआई 229 से बढ़कर 264 हो गया। राजमहेंद्रवरम 104 से 220 पर पहुंचकर 'खराब' श्रेणी में आ गया। बाकी 15 शहर 'मध्यम' श्रेणी में हैं, आंध्र प्रदेश प्रदूषण नियंत्रण बोर्ड ने बताया।",
+    "pts": [
+     "तिरुपति 191, नेल्लोर 175, श्रीकाकुलम 170",
+     "रविवार को 12 शहर 'संतोषजनक' थे",
+     "ज्यादातर शहरों में मुख्य प्रदूषक पीएम 2.5"
+    ],
+    "why": "अस्थमा, फेफड़े या दिल की बीमारी वाले लोगों को सांस में तकलीफ हो सकती है।",
+    "cat": "आंध्र प्रदेश · वायु गुणवत्ता",
+    "statl": "विशाखापत्तनम वायु गुणवत्ता सूचकांक"
+   }
+  },
+  {
+   "cat": "భారత్ · అంతర్జాతీయ సంబంధాలు",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "భారత్–అమెరికా",
+   "statl": "భాగస్వామ్యం బలోపేతంపై చర్చ",
+   "h": "కేంద్ర మంత్రి సింధియాతో అమెరికా రాయబారి సెర్జియో గోర్ భేటీ",
+   "p": "భారత్‌లో అమెరికా రాయబారి సెర్జియో గోర్ సోమవారం న్యూఢిల్లీలో కేంద్ర కమ్యూనికేషన్ల మంత్రి జ్యోతిరాదిత్య సింధియాను కలిశారు. భారత్–అమెరికా సంబంధాలను ముందుకు తీసుకెళ్లడం, సహకారానికి కొత్త అవకాశాలపై చర్చించారు. వ్యూహాత్మక భాగస్వామ్యాన్ని మరింత బలోపేతం చేసే మార్గాలపై మాట్లాడినట్లు సింధియా ఎక్స్‌లో తెలిపారు.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/us-envoy-sergio-gor-meets-jyotiraditya-scindia-in-delhi",
+   "sec": [
+    "india",
+    "world"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "న్యూఢిల్లీలో సోమవారం భేటీ",
+    "సహకారానికి కొత్త అవకాశాలపై చర్చ",
+    "గత నెల భారత్‌లో పర్యటించిన అమెరికా విదేశాంగ మంత్రి రూబియో"
+   ],
+   "why": "భారత్–అమెరికా సంబంధాల దిశ వాణిజ్యం, సాంకేతికత రంగాలపై ప్రభావం చూపుతుంది.",
+   "d": "09.11.2026",
+   "t": "19:05",
+   "en": {
+    "h": "US envoy Sergio Gor meets Union minister Scindia",
+    "p": "US Ambassador to India Sergio Gor met Union Communications Minister Jyotiraditya Scindia in New Delhi on Monday. They discussed advancing India-US ties and new opportunities for cooperation. Scindia said on X that they discussed ways to further strengthen the strategic partnership.",
+    "pts": [
+     "Meeting held in New Delhi on Monday",
+     "New opportunities for cooperation discussed",
+     "US Secretary of State Rubio visited India last month"
+    ],
+    "why": "The direction of India-US ties affects trade and technology.",
+    "cat": "India · Foreign relations",
+    "statl": "Talks on strengthening partnership"
+   },
+   "hi": {
+    "h": "अमेरिकी राजदूत सर्जियो गोर ने केंद्रीय मंत्री सिंधिया से मुलाकात की",
+    "p": "भारत में अमेरिकी राजदूत सर्जियो गोर ने सोमवार को नई दिल्ली में केंद्रीय संचार मंत्री ज्योतिरादित्य सिंधिया से मुलाकात की। दोनों ने भारत-अमेरिका संबंधों को आगे बढ़ाने और सहयोग के नए अवसरों पर चर्चा की। सिंधिया ने एक्स पर बताया कि रणनीतिक साझेदारी को और मजबूत करने के तरीकों पर बात हुई।",
+    "pts": [
+     "सोमवार को नई दिल्ली में मुलाकात",
+     "सहयोग के नए अवसरों पर चर्चा",
+     "पिछले महीने अमेरिकी विदेश मंत्री रुबियो ने भारत का दौरा किया"
+    ],
+    "why": "भारत-अमेरिका संबंधों की दिशा व्यापार और तकनीक पर असर डालती है।",
+    "cat": "भारत · विदेश संबंध",
+    "statl": "साझेदारी मजबूत करने पर चर्चा"
+   }
+  },
   {
    "cat": "తెలంగాణ · ఆర్థికం",
    "col": "--c-money",
