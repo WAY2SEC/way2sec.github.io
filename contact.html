@@ -37,6 +37,16 @@ button{font:inherit;color:inherit}
 .util .up{color:var(--gold)}
 .util .ul{margin-left:auto;display:flex;gap:18px}
 .util a:hover{color:#fff}
+.util .wrap>*,.util .ul a{white-space:nowrap;flex-shrink:0}
+.util .wrap{overflow:hidden}
+.util .up{flex:0 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis}
+.util .ul{gap:14px}
+@media (max-width:1280px){.util .up{display:none}}
+@media (max-width:1100px){.util .ul a[href="/about.html"],.util .ul a[href="/contact.html"]{display:none}}
+@media (max-width:760px){.util .wrap{gap:12px}.util .lsw button{padding:5px 8px}}
+@media (min-width:981px) and (max-width:1280px){.bar{gap:14px}.search{min-width:180px}.search kbd{display:none}.tagl{padding-left:14px}.tagl small.te2{display:none}.cta{padding:0 14px}}
+@media (min-width:981px) and (max-width:1140px){.cta.wa .tx{display:none}.search{min-width:150px}}
+@media (min-width:981px) and (max-width:1060px){.cta .tx{display:none}}
 .bar{display:flex;align-items:center;gap:22px;height:92px}
 .logo{display:flex;align-items:center;gap:12px;flex-shrink:0}
 .logo img{height:48px;display:block}
