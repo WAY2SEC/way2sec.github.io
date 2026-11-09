@@ -273,6 +273,12 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .links a{color:var(--brand)}
 .toast{position:absolute;left:50%;bottom:118px;transform:translateX(-50%);background:#16130F;color:#fff;padding:8px 14px;border-radius:99px;font-size:13px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20;white-space:nowrap}
 .toast.on{opacity:1}
+/* reading mode: bottom buttons + menu slide away so the card gets the full screen; one tap on the card brings them back */
+.dockwrap,.shell>.nav{transition:max-height .28s ease,opacity .2s ease,padding .28s ease;max-height:160px;overflow:hidden}
+body.fs .dockwrap,body.fs .shell>.nav{max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-top-width:0;pointer-events:none}
+body.fs .feed{padding-bottom:env(safe-area-inset-bottom,0px)}
+.fspill{position:absolute;right:12px;bottom:calc(10px + env(safe-area-inset-bottom,0px));z-index:40;background:rgba(18,40,74,.82);color:#fff;font:800 12px/1 var(--body);padding:7px 11px;border-radius:99px;pointer-events:none;opacity:0;transition:opacity .25s}
+body.fs .toast{bottom:calc(52px + env(safe-area-inset-bottom,0px))}
 @media (max-width:380px){.logo{height:28px}.place{font-size:11.5px;padding:4px 9px}}
 @media (prefers-reduced-motion:reduce){.story{transition:none}.toast{transition:none}}
 </style>
@@ -300,6 +306,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
     <div class="row"><button class="btn later" id="alertLater" type="button">తర్వాత</button><button class="btn" id="alertYes" type="button">అలర్ట్‌లు ఆన్ చేయండి</button></div>
   </div>
 
+  <div class="fspill" id="fsPill" aria-hidden="true"></div>
   <div class="dockwrap">
     <div class="rail" aria-hidden="true"><i id="railFill"></i></div>
     <div class="actions">
@@ -346,6 +353,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
       <h2>థీమ్</h2>
       <p class="sub">Theme – లైట్ (Editorial White) లేదా డార్క్ (Midnight Pro).</p>
       <div class="grid three" id="themes" role="radiogroup" aria-label="థీమ్"></div>
+      <div class="sndrow"><div><b>📖 కార్డు పూర్తిగా చూపించు</b><small>చదువుతున్నప్పుడు కింది బటన్లు దాగిపోతాయి · కార్డుపై ఒకసారి తాకితే మళ్లీ వస్తాయి</small></div><button class="btn" type="button" id="fsToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
       <div class="sndrow"><div><b>💧 కార్డ్ తిప్పే శబ్దం</b><small>స్వైప్ చేసినప్పుడు చిన్న "పాప్" శబ్దం</small></div><button class="btn" type="button" id="sndToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
       <button class="btn" id="tipOpen1" type="button" style="width:100%;margin-bottom:14px">📝 మీ ఊరి వార్త పంపండి</button>
       <p class="links"><a href="privacy.html">Privacy Policy · గోప్యతా విధానం</a> · Contact: way2sec.news@gmail.com</p>
@@ -786,7 +794,7 @@ function go(i,dir,from){
     turn(out, from||0, 1, axis, ()=>{ out.hidden=true; unbend(out); unbend(inn); busy=false; }); }
   else { out.style.zIndex='1'; inn.style.zIndex='3'; bend(inn, from==null?1:from, axis);
     turn(inn, from==null?1:from, 0, axis, ()=>{ out.hidden=true; unbend(out); unbend(inn); busy=false; }); }
-  cur=i; setCount(cur+1,cards.length); syncSave();
+  cur=i; setCount(cur+1,cards.length); syncSave(); fsSoon(1200);
   try{ const s=LIST[cur]; if(s && s.kind==='promo' && window.gtag) gtag('event','promo_view',{}); if(s && s.kind!=='promo' && window.gtag) gtag('event','story_view',{story_id:sid(s), story_title:String(s.h||'').slice(0,90), kind:s.kind||'news'}); }catch(e){}
 }
 let DR=null; // the page being bent by the finger
@@ -809,7 +817,7 @@ feedEl.addEventListener('pointermove',e=>{
 });
 function endDrag(e){
   if(!drag||e.pointerId!==drag.id) return;
-  const d=drag; drag=null; if(!d.axis) return;
+  const d=drag; drag=null; if(!d.axis){ if(Date.now()-d.t<450) fsTap(); return; }
   const dx=e.clientX-d.x, dy=e.clientY-d.y, dt=Math.max(1,Date.now()-d.t);
   const dist=d.axis==='x'?dx:dy, fast=Math.abs(dist)/dt>0.45, far=Math.abs(dist)>(d.axis==='x'?feedEl.clientWidth:feedEl.clientHeight)*0.18;
   if(!(fast||far)) return snapBack();
@@ -823,6 +831,21 @@ feedEl.addEventListener('pointerup',endDrag);
 feedEl.addEventListener('pointercancel',e=>{ if(drag&&e.pointerId===drag.id){drag=null;snapBack();} });
 { const b=$('sndToggle'); const draw=()=>{ b.setAttribute('aria-pressed',String(SND)); b.textContent=SND?'ఆన్':'ఆఫ్'; }; draw();
   b.onclick=()=>{ SND=!SND; try{localStorage.setItem('w2s.turnSound',SND?'1':'0')}catch(e){} draw(); if(SND){ acx(); pop(false); } }; }
+/* ---------- reading mode (auto full card) ---------- */
+let FSON=(()=>{try{return localStorage.getItem('w2s.autoFull')!=='0'}catch(e){return true}})(), fsT=0;
+function fsCan(){ return FSON && cards.length>0 && $('sheet').hidden && (!$('joinSheet')||$('joinSheet').hidden); }
+function fsRefit(){ setTimeout(()=>{ if(cards[cur]) fit(cards[cur]); },300); }
+function fsBars(show){ clearTimeout(fsT); const b=document.body, was=b.classList.contains('fs');
+  if(show){ if(was){ b.classList.remove('fs'); fsRefit(); } if(FSON) fsSoon(5000); }
+  else if(!was && fsCan()){ b.classList.add('fs'); fsRefit(); fsHint(); } }
+function fsSoon(ms){ clearTimeout(fsT); if(!FSON) return; if(document.body.classList.contains('fs')) return; fsT=setTimeout(()=>fsBars(false),ms); }
+function fsTap(){ if(document.body.classList.contains('fs')) fsBars(true); else { clearTimeout(fsT); fsBars(false); } }
+function fsHint(){ try{ if(localStorage.getItem('w2s.fsHint')) return; localStorage.setItem('w2s.fsHint','1'); }catch(e){ return; } toast('కార్డుపై ఒకసారి తాకితే బటన్లు మళ్లీ వస్తాయి'); }
+{ const pill=$('fsPill'), cnt=$('count'); const sync=()=>{ pill.textContent=cnt.textContent; }; new MutationObserver(sync).observe(cnt,{childList:true,characterData:true,subtree:true}); sync(); }
+document.querySelector('.dockwrap').addEventListener('pointerdown',()=>fsSoon(5000));
+{ const b=$('fsToggle'); const draw=()=>{ b.setAttribute('aria-pressed',String(FSON)); b.textContent=FSON?'ఆన్':'ఆఫ్'; }; draw();
+  b.onclick=()=>{ FSON=!FSON; try{localStorage.setItem('w2s.autoFull',FSON?'1':'0')}catch(e){} draw(); if(!FSON) fsBars(true); }; }
+fsSoon(4000);
 $('prev').onclick=()=>go(cur-1,'right'); $('next').onclick=()=>go(cur+1,'left');
 document.addEventListener('keydown',e=>{ if(!$('sheet').hidden||!$('joinSheet').hidden) return;
   if(e.key==='ArrowLeft'){e.preventDefault();go(cur+1,'left')}
@@ -1127,6 +1150,7 @@ $('shareApp').onclick=()=>share(`Way2Sec – ${U('tag')} 📲\n${U('sub')}: ${CO
 
 /* ---------- bottom nav ---------- */
 function setView(v){
+  fsBars(true);
   if(v==='join'){ const jt=document.querySelector('.join-box .tl'); if(jt) jt.textContent=U('tag')+' · '+U('sub'); const jg=document.querySelector('.join-box .tg'); if(jg) jg.textContent=U('l1'); $('joinSheet').hidden=false; return; }
   if(v==='more'){ openSheet(); return; }
   if(v==='dates'){ openDates(); return; }
