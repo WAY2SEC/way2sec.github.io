@@ -1,8 +1,154 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T16:08:00+05:30",
+ "updated": "2026-11-09T16:44:45+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "15 నవం.",
+   "statl": "వరకు పొడి వాతావరణం",
+   "h": "తెలంగాణలో నవంబర్ 15 వరకు పొడి వాతావరణం: ఐఎండీ",
+   "p": "హైదరాబాద్ వాతావరణ కేంద్రం విడుదల చేసిన వారం రోజుల అంచనా ప్రకారం నవంబర్ 9 ఉదయం నుంచి 15 ఉదయం వరకు తెలంగాణ అంతటా పొడి వాతావరణం ఉంటుంది. ఈ రోజుల్లో ఎలాంటి వాతావరణ హెచ్చరికలు జారీ చేయలేదు. నవంబర్ 8 రాత్రి కొన్ని చోట్ల తేలికపాటి నుంచి మోస్తరు వర్షం లేదా ఉరుములతో జల్లులు పడే అవకాశం ఉందని తెలిపింది.",
+   "pts": [
+    "నవంబర్ 9–15 వరకు రాష్ట్రమంతా పొడి వాతావరణం",
+    "వారం రోజుల్లో ఎలాంటి హెచ్చరికలు లేవు",
+    "రైతుల కోసం ప్రత్యేక బులెటిన్ కూడా విడుదల"
+   ],
+   "why": "పంట పనులు, ప్రయాణాలు ప్లాన్ చేసుకునే రైతులు, ప్రజలకు ఈ వారం వాతావరణ సమాచారం ఉపయోగపడుతుంది.",
+   "src": "Hyderabad Mail",
+   "url": "https://hyderabadmail.com/telangana-weather-forecast-november-9-15-2026/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Dry weather across Telangana till November 15: IMD",
+    "p": "According to the week-long forecast issued by the Hyderabad Meteorological Centre, dry weather will prevail across Telangana from the morning of November 9 to the morning of November 15. No weather warnings have been issued for these days. It said light to moderate rain or thundershowers were possible at isolated places on the night of November 8.",
+    "pts": [
+     "Dry weather statewide from November 9 to 15",
+     "No warnings issued for the week",
+     "A special bulletin for farmers also released"
+    ],
+    "why": "The week's weather outlook helps farmers and people planning farm work and travel.",
+    "cat": "Telangana · Weather",
+    "statl": "Dry weather until"
+   },
+   "hi": {
+    "h": "तेलंगाना में 15 नवंबर तक मौसम शुष्क रहेगा: आईएमडी",
+    "p": "हैदराबाद मौसम केंद्र के सात दिन के पूर्वानुमान के अनुसार 9 नवंबर सुबह से 15 नवंबर सुबह तक पूरे तेलंगाना में मौसम शुष्क रहेगा। इन दिनों के लिए कोई मौसम चेतावनी जारी नहीं की गई है। केंद्र ने बताया कि 8 नवंबर की रात कुछ जगहों पर हल्की से मध्यम बारिश या गरज के साथ बौछारें पड़ सकती हैं।",
+    "pts": [
+     "9 से 15 नवंबर तक पूरे राज्य में शुष्क मौसम",
+     "पूरे सप्ताह कोई चेतावनी नहीं",
+     "किसानों के लिए विशेष बुलेटिन भी जारी"
+    ],
+    "why": "इस सप्ताह का मौसम पूर्वानुमान खेती और यात्रा की योजना बनाने वाले किसानों व लोगों के काम आएगा।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "तक शुष्क मौसम"
+   },
+   "d": "09.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "భారత్ · ఉద్యోగులు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "37",
+   "statl": "కేంద్రానికి ఎన్‌సీడబ్ల్యూ సిఫార్సులు",
+   "h": "పురుష ఉద్యోగులకు వేతనంతో కూడిన పితృత్వ సెలవు: మహిళా కమిషన్ సిఫార్సు",
+   "p": "ప్రభుత్వ, ప్రైవేట్ రంగాల్లో పనిచేసే పురుష ఉద్యోగులకు వేతనంతో కూడిన పితృత్వ సెలవు ఇవ్వాలని జాతీయ మహిళా కమిషన్ (ఎన్‌సీడబ్ల్యూ) సిఫార్సు చేసింది. మొత్తం 37 సిఫార్సులను కేంద్ర ప్రభుత్వానికి పంపింది. పిల్లల సంరక్షణ బాధ్యతను తల్లిదండ్రులు ఇద్దరూ సమానంగా పంచుకోవాలని కమిషన్ పేర్కొంది.",
+   "pts": [
+    "పురుష ఉద్యోగులకు వేతన పితృత్వ సెలవు సిఫార్సు",
+    "ప్రభుత్వ, ప్రైవేట్ రంగాలకు వర్తించాలని సూచన",
+    "కేంద్రానికి మొత్తం 37 సిఫార్సులు"
+   ],
+   "why": "కేంద్రం ఆమోదిస్తే దేశవ్యాప్తంగా ప్రభుత్వ, ప్రైవేట్ ఉద్యోగ కుటుంబాలపై ప్రభావం ఉంటుంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html",
+   "sec": [
+    "india",
+    "jobs"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "en": {
+    "h": "Women's commission recommends paid paternity leave for male employees",
+    "p": "The National Commission for Women (NCW) has recommended paid paternity leave for male employees working in government and private sectors. It has sent a total of 37 recommendations to the Central government. The commission said both parents should share childcare responsibilities equally.",
+    "pts": [
+     "Paid paternity leave recommended for male employees",
+     "Suggested for both government and private sectors",
+     "37 recommendations in all sent to the Centre"
+    ],
+    "why": "If the Centre accepts it, families of government and private employees across the country will be affected.",
+    "cat": "India · Employees",
+    "statl": "NCW recommendations to the Centre"
+   },
+   "hi": {
+    "h": "पुरुष कर्मचारियों को सवेतन पितृत्व अवकाश: महिला आयोग की सिफारिश",
+    "p": "राष्ट्रीय महिला आयोग (एनसीडब्ल्यू) ने सरकारी और निजी क्षेत्रों में काम करने वाले पुरुष कर्मचारियों को सवेतन पितृत्व अवकाश देने की सिफारिश की है। आयोग ने कुल 37 सिफारिशें केंद्र सरकार को भेजी हैं। आयोग ने कहा कि बच्चों की देखभाल की जिम्मेदारी माता-पिता दोनों को बराबर बांटनी चाहिए।",
+    "pts": [
+     "पुरुष कर्मचारियों को सवेतन पितृत्व अवकाश की सिफारिश",
+     "सरकारी और निजी दोनों क्षेत्रों के लिए सुझाव",
+     "केंद्र को कुल 37 सिफारिशें"
+    ],
+    "why": "केंद्र मंजूरी देता है तो देश भर में सरकारी और निजी कर्मचारियों के परिवारों पर असर होगा।",
+    "cat": "भारत · कर्मचारी",
+    "statl": "केंद्र को एनसीडब्ल्यू की सिफारिशें"
+   },
+   "d": "09.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "ఉత్తరప్రదేశ్ · రోడ్డు ప్రమాదం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "3",
+   "statl": "మంది మృతి, సుమారు 40 మందికి గాయాలు",
+   "h": "లక్నో–ఆగ్రా ఎక్స్‌ప్రెస్‌వేపై లోయలో పడిన బస్సు: ముగ్గురు మృతి",
+   "p": "ఉత్తరప్రదేశ్‌లోని లక్నో–ఆగ్రా ఎక్స్‌ప్రెస్‌వేపై సోమవారం ఓ బస్సు అదుపుతప్పి లోయలో పడిపోయింది. ఈ ప్రమాదంలో ముగ్గురు మృతి చెందగా, సుమారు 40 మంది గాయపడ్డారు. పీటీఐ వార్తా సంస్థ ఈ వివరాలు వెల్లడించింది.",
+   "pts": [
+    "లక్నో–ఆగ్రా ఎక్స్‌ప్రెస్‌వేపై లోయలో పడిన బస్సు",
+    "ముగ్గురు మృతి",
+    "సుమారు 40 మందికి గాయాలు"
+   ],
+   "why": "ఎక్స్‌ప్రెస్‌వేలపై బస్సు ప్రయాణికుల భద్రత మరోసారి చర్చకు వస్తోంది.",
+   "src": "Andhra Jyothy, PTI",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html#up-bus",
+   "sec": [
+    "india"
+   ],
+   "st": "UP",
+   "place": "st-UP",
+   "en": {
+    "h": "Bus falls into ravine on Lucknow–Agra Expressway, three dead",
+    "p": "A bus fell into a ravine on the Lucknow–Agra Expressway in Uttar Pradesh on Monday. Three people died and about 40 were injured in the accident. The details were reported by the PTI news agency.",
+    "pts": [
+     "Bus fell into a ravine on Lucknow–Agra Expressway",
+     "Three dead",
+     "About 40 injured"
+    ],
+    "why": "The safety of bus passengers on expressways is in focus again.",
+    "cat": "Uttar Pradesh · Road accident",
+    "statl": "dead, about 40 injured"
+   },
+   "hi": {
+    "h": "लखनऊ–आगरा एक्सप्रेसवे पर बस खाई में गिरी, तीन की मौत",
+    "p": "उत्तर प्रदेश में लखनऊ–आगरा एक्सप्रेसवे पर सोमवार को एक बस खाई में गिर गई। हादसे में तीन लोगों की मौत हो गई और करीब 40 लोग घायल हुए। यह जानकारी पीटीआई समाचार एजेंसी ने दी।",
+    "pts": [
+     "लखनऊ–आगरा एक्सप्रेसवे पर बस खाई में गिरी",
+     "तीन की मौत",
+     "करीब 40 लोग घायल"
+    ],
+    "why": "एक्सप्रेसवे पर बस यात्रियों की सुरक्षा फिर चर्चा में है।",
+    "cat": "उत्तर प्रदेश · सड़क हादसा",
+    "statl": "मौतें, करीब 40 घायल"
+   },
+   "d": "09.11.2026",
+   "t": "16:35"
+  },
   {
    "cat": "తెలంగాణ · అగ్నిప్రమాదాలు",
    "col": "--c-power",
@@ -1821,105 +1967,6 @@
    },
    "d": "09.11.2026",
    "t": "11:05"
-  },
-  {
-   "cat": "ప్రపంచం · టెక్",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "నవంబర్ 18",
-   "statl": "కాంగ్రెస్ ముందు హాజరుకు కోరిన తేదీ",
-   "h": "ఎన్విడియా సీఈఓ జెన్సన్ హువాంగ్‌పై బోర్డు స్వతంత్ర విచారణ",
-   "p": "చైనా నిఘా సంస్థ తరఫున పనిచేస్తోందన్న ఆరోపణలున్న మహిళతో సంబంధం ఉన్నట్లు ఎన్విడియా సీఈఓ జెన్సన్ హువాంగ్ అంగీకరించారు. స్వతంత్ర డైరెక్టర్ల కమిటీ బయటి న్యాయ సలహాదారులతో విచారణ చేస్తుందని కంపెనీ ఆదివారం ప్రకటించింది. జాతీయ భద్రత లేదా కంపెనీ రహస్యాలు బయటకు వెళ్లినట్లు భావించడం లేదని బోర్డు చెప్పింది. విచారణ సమయంలోనూ హువాంగ్ సంస్థను నడిపిస్తారు. గూఢచర్య ఆరోపణలను చైనా రాయబార కార్యాలయం ఖండించింది.",
-   "src": "Al Jazeera, Reuters",
-   "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair",
-   "sec": [
-    "world",
-    "ai",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "స్వతంత్ర డైరెక్టర్ల కమిటీ ఆధ్వర్యంలో విచారణ",
-    "నవంబర్ 18న కాంగ్రెస్ ముందు హాజరుకావాలని రిపబ్లికన్ సభ్యుల విజ్ఞప్తి",
-    "ఆరోపణలను ఖండించిన చైనా రాయబార కార్యాలయం"
-   ],
-   "why": "ఏఐ చిప్‌లు తయారుచేసే ప్రముఖ సంస్థ కావడంతో ఈ విచారణ టెక్ రంగానికి, పెట్టుబడిదారులకు ముఖ్యం.",
-   "d": "09.11.2026",
-   "t": "10:05",
-   "en": {
-    "h": "Nvidia board orders independent probe into CEO Jensen Huang",
-    "p": "Nvidia CEO Jensen Huang has admitted a relationship with a woman accused of working for Chinese intelligence. The company said on Sunday that a committee of independent directors will investigate with outside counsel. The board said it has no reason to believe national security or company secrets were compromised. Huang will continue to lead the company during the probe. The Chinese Embassy denied the spying allegations.",
-    "pts": [
-     "Probe led by a committee of independent directors",
-     "Republican lawmakers ask him to testify before Congress on November 18",
-     "Chinese Embassy denies the allegations"
-    ],
-    "why": "As a leading maker of AI chips, this probe matters to the tech sector and to investors.",
-    "cat": "World · Tech",
-    "statl": "date he was asked to appear before Congress"
-   },
-   "hi": {
-    "h": "एनवीडिया के सीईओ जेन्सन हुआंग की बोर्ड करेगा स्वतंत्र जांच",
-    "p": "एनवीडिया के सीईओ जेन्सन हुआंग ने उस महिला से संबंध होने की बात मानी है, जिस पर चीनी खुफिया एजेंसी के लिए काम करने का आरोप है। कंपनी ने रविवार को बताया कि स्वतंत्र निदेशकों की एक समिति बाहरी कानूनी सलाहकारों के साथ जांच करेगी। बोर्ड ने कहा कि उसे राष्ट्रीय सुरक्षा या कंपनी के रहस्य लीक होने का कोई कारण नहीं दिखता। जांच के दौरान भी हुआंग कंपनी का नेतृत्व करेंगे। चीनी दूतावास ने जासूसी के आरोपों से इनकार किया।",
-    "pts": [
-     "स्वतंत्र निदेशकों की समिति की अगुवाई में जांच",
-     "रिपब्लिकन सांसदों ने 18 नवंबर को कांग्रेस के सामने पेश होने को कहा",
-     "चीनी दूतावास ने आरोपों से इनकार किया"
-    ],
-    "why": "एआई चिप बनाने वाली प्रमुख कंपनी होने के कारण यह जांच टेक सेक्टर और निवेशकों के लिए अहम है।",
-    "cat": "दुनिया · टेक",
-    "statl": "कांग्रेस के सामने पेशी के लिए कही गई तारीख"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · వాతావరణం",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "2.8°C",
-   "statl": "ప్రస్తుత దిశలో భూతాపం అంచనా",
-   "h": "తుర్కియేలోని అంటాల్యాలో నేటి నుంచి కాప్31 వాతావరణ సదస్సు",
-   "p": "ఐక్యరాజ్యసమితి వాతావరణ సదస్సు కాప్31 నవంబర్ 9 నుంచి 20 వరకు తుర్కియేలోని అంటాల్యా ఎక్స్‌పో సెంటర్‌లో జరుగుతుంది. ప్రపంచ నేతల సమావేశం నవంబర్ 11, 12 తేదీల్లో ఉంటుంది. ప్రస్తుత దిశలో భూతాపం 2.8 డిగ్రీలకు చేరే అవకాశం ఉందని యూఎన్ఈపీ నివేదిక చెబుతోంది. వాతావరణ మార్పులకు అనుగుణంగా మారేందుకు నిధులు, నష్ట పరిహార నిధి వంటి అంశాలు చర్చకు రానున్నాయి.",
-   "src": "Climate & Capital Media",
-   "url": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/",
-   "sec": [
-    "world",
-    "weather"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "నవంబర్ 9–20 వరకు అంటాల్యాలో సదస్సు",
-    "నవంబర్ 11, 12న ప్రపంచ నేతల సమావేశం",
-    "నష్ట పరిహార నిధి తొలి కేటాయింపు నేపాల్‌కు 2 కోట్ల డాలర్లు"
-   ],
-   "why": "ఈ సదస్సు నిర్ణయాలు వాతావరణ మార్పులపై దేశాల చర్యలు, నిధులపై ప్రభావం చూపుతాయి.",
-   "d": "09.11.2026",
-   "t": "10:05",
-   "en": {
-    "h": "COP31 climate summit begins today in Antalya, Türkiye",
-    "p": "The UN climate conference COP31 runs from November 9 to 20 at the Antalya Expo Center in Türkiye. The world leaders' summit is on November 11 and 12. A UNEP report says the world is on track for 2.8 degrees of warming. Finance for adapting to climate change and the loss and damage fund are among the issues to be discussed.",
-    "pts": [
-     "Summit in Antalya from November 9 to 20",
-     "World leaders' meeting on November 11 and 12",
-     "Loss and damage fund's first allocation: $20 million to Nepal"
-    ],
-    "why": "Decisions at this summit will affect countries' climate action and funding.",
-    "cat": "World · Climate",
-    "statl": "projected warming on current path"
-   },
-   "hi": {
-    "h": "तुर्किये के अंताल्या में आज से कॉप31 जलवायु सम्मेलन",
-    "p": "संयुक्त राष्ट्र जलवायु सम्मेलन कॉप31 तुर्किये के अंताल्या एक्सपो सेंटर में 9 से 20 नवंबर तक होगा। विश्व नेताओं की बैठक 11 और 12 नवंबर को होगी। यूएनईपी की रिपोर्ट के अनुसार मौजूदा रास्ते पर दुनिया का तापमान 2.8 डिग्री तक बढ़ सकता है। जलवायु परिवर्तन के अनुकूल ढलने के लिए धन और हानि-क्षति कोष जैसे मुद्दों पर चर्चा होगी।",
-    "pts": [
-     "अंताल्या में 9 से 20 नवंबर तक सम्मेलन",
-     "11 और 12 नवंबर को विश्व नेताओं की बैठक",
-     "हानि-क्षति कोष का पहला आवंटन: नेपाल को 2 करोड़ डॉलर"
-    ],
-    "why": "इस सम्मेलन के फैसले देशों की जलवायु कार्रवाई और धन पर असर डालेंगे।",
-    "cat": "दुनिया · जलवायु",
-    "statl": "मौजूदा रास्ते पर तापमान वृद्धि का अनुमान"
-   }
   },
   {
    "cat": "🪔 దీపావళి · ఆలేరు",
