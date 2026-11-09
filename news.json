@@ -1,8 +1,106 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T08:41:57+05:30",
+ "updated": "2026-11-09T09:13:51+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "15 వరకు",
+   "statl": "రాష్ట్రమంతా పొడి వాతావరణం",
+   "h": "తెలంగాణలో నవంబర్ 15 వరకు పొడి వాతావరణం; హెచ్చరికలు లేవు: ఐఎండీ",
+   "p": "హైదరాబాద్ వాతావరణ కేంద్రం విడుదల చేసిన ఏడు రోజుల అంచనా ప్రకారం నవంబర్ 9 నుంచి 15 వరకు తెలంగాణ అంతటా పొడి వాతావరణం ఉంటుంది. ఈ వారంలో ఏ రోజుకూ వాతావరణ హెచ్చరిక జారీ చేయలేదు. ఆదివారం రాత్రి మాత్రం కొన్నిచోట్ల తేలికపాటి నుంచి మోస్తరు వర్షం, ఉరుములు పడే అవకాశం ఉందని తెలిపింది. రైతులు వాతావరణ సూచనలను గమనిస్తూ పనులు ప్లాన్ చేసుకోవాలని సూచించింది.",
+   "src": "Hyderabad Mail, IMD",
+   "url": "https://hyderabadmail.com/telangana-weather-forecast-november-9-15-2026/",
+   "sec": [
+    "telangana",
+    "weather",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నవంబర్ 9–15 రాష్ట్రమంతా పొడి వాతావరణం",
+    "వారం రోజులు ఎలాంటి హెచ్చరికలు లేవు",
+    "రైతులు సూచనలు పాటించాలని సలహా"
+   ],
+   "why": "వర్షం లేని వారం రైతులు పంట పనులు, ప్రజలు ప్రయాణాలు ప్లాన్ చేసుకోవడానికి ఉపయోగపడుతుంది.",
+   "d": "09.11.2026",
+   "t": "09:05",
+   "en": {
+    "h": "Dry weather across Telangana till November 15, no warnings: IMD",
+    "p": "According to the seven-day forecast issued by the IMD's Hyderabad centre, dry weather will prevail across Telangana from November 9 to 15. No weather warning has been issued for any day this week. Light to moderate rain and thundershowers were possible at isolated places on Sunday night. Farmers have been advised to follow weather updates and plan their work accordingly.",
+    "pts": [
+     "Dry weather statewide Nov 9–15",
+     "No warnings for the whole week",
+     "Farmers advised to follow updates"
+    ],
+    "why": "A rain-free week helps farmers plan field work and people plan their travel.",
+    "cat": "Telangana · Weather",
+    "statl": "dry weather statewide"
+   },
+   "hi": {
+    "h": "तेलंगाना में 15 नवंबर तक मौसम शुष्क, कोई चेतावनी नहीं: IMD",
+    "p": "IMD के हैदराबाद केंद्र के सात दिन के पूर्वानुमान के अनुसार 9 से 15 नवंबर तक पूरे तेलंगाना में मौसम शुष्क रहेगा। इस हफ्ते किसी भी दिन के लिए मौसम चेतावनी जारी नहीं की गई है। रविवार रात कुछ जगहों पर हल्की से मध्यम बारिश और गरज के साथ बौछारें पड़ने की संभावना थी। किसानों को मौसम की जानकारी देखते रहने और उसी हिसाब से काम की योजना बनाने की सलाह दी गई है।",
+    "pts": [
+     "9–15 नवंबर पूरे राज्य में शुष्क मौसम",
+     "पूरे हफ्ते कोई चेतावनी नहीं",
+     "किसानों को अपडेट देखने की सलाह"
+    ],
+    "why": "बारिश रहित हफ्ता किसानों को खेती के काम और लोगों को यात्रा की योजना बनाने में मदद करेगा।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "पूरे राज्य में शुष्क मौसम"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "8",
+   "statl": "ఆంక్షలు పడిన కెనడా సంస్థలు",
+   "h": "చర్చలు సాగితే ఇరాన్‌పై మళ్లీ దాడులు అవసరం ఉండకపోవచ్చు: ట్రంప్",
+   "p": "ఇరాన్‌తో చర్చలు ముందుకు సాగితే మళ్లీ దాడులు చేయాల్సిన అవసరం చాలావరకు ఉండదని అమెరికా అధ్యక్షుడు ట్రంప్ సీఎన్‌ఎన్ ఇంటర్వ్యూలో చెప్పారు. అణు కార్యక్రమం, హార్ముజ్ జలసంధి తెరవడంపై బలమైన ఒప్పందం కుదరడంపైనే అది ఆధారపడుతుందన్నారు. ఇరాన్‌తో మాట్లాడుతున్నామని తెలిపారు. అదే రోజు ఇరాన్ కరెన్సీ మార్పిడికి సహకరించాయంటూ కెనడాకు చెందిన 8 సంస్థలపై అమెరికా ఆర్థిక శాఖ ఆంక్షలు విధించింది.",
+   "src": "Telangana Today, IANS",
+   "url": "https://telanganatoday.com/trump-says-renewed-strikes-on-iran-highly-unlikely-if-talks-progress",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "మళ్లీ దాడులు అవసరం ఉండకపోవచ్చన్న ట్రంప్",
+    "అణు, హార్ముజ్ ఒప్పందంపైనే ఆధారం",
+    "కెనడాకు చెందిన 8 సంస్థలపై ఆంక్షలు"
+   ],
+   "why": "అమెరికా–ఇరాన్ ఉద్రిక్తత తగ్గితే గల్ఫ్‌లోని తెలుగువారికి, చమురు ధరలకు ఊరట కలగవచ్చు.",
+   "d": "09.11.2026",
+   "t": "09:05",
+   "en": {
+    "h": "Renewed strikes on Iran may not be needed if talks progress: Trump",
+    "p": "US President Trump told CNN in an interview that renewed strikes on Iran would most likely not be necessary if talks move forward. He said it depends on whether a strong agreement is reached on Iran's nuclear programme and reopening the Strait of Hormuz. He said the US is talking to Iran. The same day, the US Treasury sanctioned 8 Canada-based firms accused of helping exchange Iranian currency.",
+    "pts": [
+     "Trump says new strikes may not be needed",
+     "Depends on nuclear, Hormuz deal",
+     "Sanctions on 8 Canada-based firms"
+    ],
+    "why": "Easing US–Iran tension could bring relief to Telugu people in the Gulf and to oil prices.",
+    "cat": "World · USA",
+    "statl": "Canada-based firms sanctioned"
+   },
+   "hi": {
+    "h": "बातचीत आगे बढ़ी तो ईरान पर फिर हमलों की जरूरत नहीं पड़ेगी: ट्रंप",
+    "p": "अमेरिकी राष्ट्रपति ट्रंप ने CNN को दिए इंटरव्यू में कहा कि अगर ईरान से बातचीत आगे बढ़ती है तो फिर से हमलों की जरूरत शायद नहीं पड़ेगी। उन्होंने कहा कि यह परमाणु कार्यक्रम और होर्मुज जलडमरूमध्य खोलने पर मजबूत समझौते पर निर्भर करेगा। उन्होंने बताया कि अमेरिका ईरान से बात कर रहा है। उसी दिन अमेरिकी वित्त मंत्रालय ने ईरानी मुद्रा के लेन-देन में मदद के आरोप में कनाडा स्थित 8 कंपनियों पर प्रतिबंध लगाए।",
+    "pts": [
+     "ट्रंप: फिर हमलों की जरूरत शायद नहीं",
+     "परमाणु, होर्मुज समझौते पर निर्भर",
+     "कनाडा स्थित 8 कंपनियों पर प्रतिबंध"
+    ],
+    "why": "अमेरिका–ईरान तनाव घटने से खाड़ी में रह रहे तेलुगु लोगों और तेल कीमतों को राहत मिल सकती है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "कनाडा स्थित कंपनियों पर प्रतिबंध"
+   }
+  },
   {
    "cat": "తెలంగాణ · నల్గొండ",
    "col": "--c-power",
@@ -1859,279 +1957,6 @@
    },
    "d": "08.11.2026",
    "t": "17:35"
-  },
-  {
-   "cat": "🎂 జన్మదిన శుభాకాంక్షలు",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "🎂",
-   "statl": "సీఎం రేవంత్ రెడ్డికి జన్మదిన శుభాకాంక్షలు",
-   "h": "తెలంగాణ ముఖ్యమంత్రి శ్రీ అనుముల రేవంత్ రెడ్డి గారికి జన్మదిన శుభాకాంక్షలు",
-   "p": "తెలంగాణ రాష్ట్ర ముఖ్యమంత్రి గౌరవ శ్రీ అనుముల రేవంత్ రెడ్డి గారికి జన్మదిన శుభాకాంక్షలు! మీరు ఆయురారోగ్యాలతో, సుఖసంతోషాలతో ఉండాలని, తెలంగాణ ప్రజలకు మరెన్నో సంవత్సరాలు సేవలందించాలని ఆకాంక్షిస్తున్నాం. – Way2Sec News",
-   "src": "Way2Sec News",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "",
-   "pts": [
-    "🎂 సీఎం రేవంత్ రెడ్డి గారికి జన్మదిన శుభాకాంక్షలు",
-    "ఆయురారోగ్యాలతో ప్రజాసేవ కొనసాగించాలని ఆకాంక్ష",
-    "— Team WAY2SEC.NEWS"
-   ],
-   "why": "ప్రజల సంక్షేమం, తెలంగాణ సమగ్ర అభివృద్ధి కోసం మీ నాయకత్వం మరింత బలపడాలని కోరుకుంటున్నాం.",
-   "en": {
-    "cat": "🎂 Birthday wishes",
-    "stat": "🎂",
-    "statl": "Happy Birthday to CM Revanth Reddy",
-    "h": "Happy Birthday to Hon'ble Telangana Chief Minister Shri Anumula Revanth Reddy",
-    "p": "Wishing Hon'ble Telangana CM Shri Revanth Reddy Garu a very Happy Birthday! May you be blessed with good health, happiness and continued success in serving Telangana. — Team Way2Sec News",
-    "pts": [
-     "🎂 Happy Birthday to CM Revanth Reddy",
-     "Wishing him good health and many more years of service",
-     "— Team WAY2SEC.NEWS"
-    ],
-    "why": "We wish your leadership grows stronger for people's welfare and the all-round development of Telangana."
-   },
-   "hi": {
-    "cat": "🎂 जन्मदिन की शुभकामनाएँ",
-    "stat": "🎂",
-    "statl": "मुख्यमंत्री रेवंत रेड्डी को जन्मदिन की शुभकामनाएँ",
-    "h": "तेलंगाना के मुख्यमंत्री श्री अनुमुला रेवंत रेड्डी को जन्मदिन की हार्दिक शुभकामनाएँ",
-    "p": "तेलंगाना के माननीय मुख्यमंत्री श्री अनुमुला रेवंत रेड्डी को जन्मदिन की हार्दिक शुभकामनाएँ! आप स्वस्थ और प्रसन्न रहें और कई वर्षों तक तेलंगाना की जनता की सेवा करते रहें। — टीम Way2Sec News",
-    "pts": [
-     "🎂 मुख्यमंत्री रेवंत रेड्डी को जन्मदिन की शुभकामनाएँ",
-     "अच्छे स्वास्थ्य और लंबी जनसेवा की कामना",
-     "— टीम WAY2SEC.NEWS"
-    ],
-    "why": "जनकल्याण और तेलंगाना के समग्र विकास के लिए आपका नेतृत्व और मज़बूत हो, यही कामना है।"
-   },
-   "d": "08.11.2026",
-   "t": "16:05",
-   "img": "photos/2026-11-08-cm-revanth-reddy-birthday.jpg",
-   "imgfy": 0.25,
-   "imgfx": 0.5,
-   "local": true,
-   "_sid": "6lqwhg"
-  },
-  {
-   "cat": "యాదాద్రి భువనగిరి · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "పాదయాత్ర",
-   "statl": "టేకులసోమారం, నాగిరెడ్డిపల్లిలో ఘన స్వాగతం",
-   "h": "గౌండ్ల ముస్తాదులో తీన్మార్ మల్లన్న – టేకులసోమారం, నాగిరెడ్డిపల్లిలో పాదయాత్రకు ఘన స్వాగతం",
-   "p": "బీసీ రాజ్యాధికారమే లక్ష్యంగా తెలంగాణ రాజ్యాధికార పార్టీ (టీఆర్పీ) అధినేత, ఎమ్మెల్సీ తీన్మార్ మల్లన్న గారు చేపట్టిన పాదయాత్రకు యాదాద్రి భువనగిరి జిల్లాలో పార్టీ నాయకులు ఘన స్వాగతం పలికారు. ఆదివారం టేకులసోమారం, నాగిరెడ్డిపల్లి గ్రామాల్లో టీఆర్పీ జిల్లా మహిళా అధ్యక్షురాలు సునీత ఆధ్వర్యంలో మల్లన్నకు స్వాగతం పలికారు. ఈ సందర్భంగా గౌండ్ల సామాజికవర్గ సంప్రదాయ ముస్తాదును ధరించిన తీన్మార్ మల్లన్న ప్రత్యేక ఆకర్షణగా నిలిచారు. గౌండ్ల వృత్తి సంస్కృతి, సంప్రదాయాలను ప్రతిబింబించేలా మల్లన్న కనిపించడం విశేషం.",
-   "src": "Way2Sec రిపోర్టర్ · యాదాద్రి భువనగిరి",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "టేకులసోమారం, నాగిరెడ్డిపల్లి",
-   "pts": [
-    "టీఆర్పీ అధినేత, ఎమ్మెల్సీ తీన్మార్ మల్లన్న పాదయాత్ర",
-    "జిల్లా మహిళా అధ్యక్షురాలు సునీత ఆధ్వర్యంలో స్వాగతం",
-    "గౌండ్ల సంప్రదాయ ముస్తాదు ధరించిన మల్లన్న"
-   ],
-   "why": "బీసీ రాజ్యాధికారం నినాదంతో సాగుతున్న ఈ పాదయాత్ర జిల్లా గ్రామాల గుండా సాగుతోంది.",
-   "en": {
-    "cat": "Yadadri Bhuvanagiri · Politics",
-    "stat": "Padayatra",
-    "statl": "Grand welcome at Thekulasomaram, Nagireddypally",
-    "h": "Teenmar Mallanna in traditional Goud 'mustadu' – grand welcome for padayatra at Thekulasomaram, Nagireddypally",
-    "p": "Party leaders in Yadadri Bhuvanagiri district gave a grand welcome to the padayatra of Telangana Rajyadhikara Party (TRP) chief and MLC Teenmar Mallanna, which aims at political power for BCs. On Sunday he was welcomed at Thekulasomaram and Nagireddypally villages under TRP district women's president Sunitha. Mallanna drew attention by wearing the 'mustadu', the traditional tree-climbing rope gear of the Goud community, reflecting the Goud community's occupation, culture and traditions.",
-    "pts": [
-     "Padayatra of TRP chief and MLC Teenmar Mallanna",
-     "Welcome led by district women's president Sunitha",
-     "Mallanna wore the traditional Goud 'mustadu'"
-    ],
-    "why": "The padayatra, with the slogan of political power for BCs, is passing through the district's villages."
-   },
-   "hi": {
-    "cat": "यादाद्री भुवनगिरि · राजनीति",
-    "stat": "पदयात्रा",
-    "statl": "तेकुलसोमारम, नागिरेड्डीपल्ली में भव्य स्वागत",
-    "h": "गौड़ समुदाय के पारंपरिक 'मुस्तादु' में तीनमार मल्लन्ना – तेकुलसोमारम, नागिरेड्डीपल्ली में पदयात्रा का भव्य स्वागत",
-    "p": "बीसी वर्गों को राजनीतिक सत्ता दिलाने के लक्ष्य के साथ तेलंगाना राज्याधिकार पार्टी (टीआरपी) के प्रमुख और एमएलसी तीनमार मल्लन्ना की पदयात्रा का यादाद्री भुवनगिरि ज़िले में पार्टी नेताओं ने भव्य स्वागत किया। रविवार को तेकुलसोमारम और नागिरेड्डीपल्ली गाँवों में टीआरपी की ज़िला महिला अध्यक्ष सुनीता के नेतृत्व में उनका स्वागत हुआ। इस मौक़े पर गौड़ समुदाय का पारंपरिक 'मुस्तादु' (ताड़ पर चढ़ने की रस्सी) पहने मल्लन्ना आकर्षण का केंद्र रहे, जो गौड़ समुदाय के पेशे, संस्कृति और परंपराओं को दर्शाता है।",
-    "pts": [
-     "टीआरपी प्रमुख और एमएलसी तीनमार मल्लन्ना की पदयात्रा",
-     "ज़िला महिला अध्यक्ष सुनीता के नेतृत्व में स्वागत",
-     "मल्लन्ना ने पहना गौड़ समुदाय का पारंपरिक 'मुस्तादु'"
-    ],
-    "why": "बीसी राज्याधिकार के नारे के साथ यह पदयात्रा ज़िले के गाँवों से गुज़र रही है।"
-   },
-   "d": "08.11.2026",
-   "t": "15:00",
-   "img": "photos/2026-11-08-teenmar-mallanna-padayatra.jpg",
-   "imgfy": 0.38,
-   "local": true
-  },
-  {
-   "cat": "🪔 దీపావళి · బొమ్మలరామారం",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "యావపూర్",
-   "statl": "ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే",
-   "h": "యావపూర్‌లో ఇందిరమ్మ ఇంట్లో దీపావళి వేడుకల్లో ఎమ్మెల్యే బీర్ల అయిలయ్య",
-   "p": "బొమ్మలరామారం మండలం యావపూర్ గ్రామంలో ఇందిరమ్మ ఇంట్లో నిర్వహించిన దీపావళి వేడుకల్లో తెలంగాణ రాష్ట్ర ప్రభుత్వ విప్, ఆలేరు ఎమ్మెల్యే శ్రీ బీర్ల అయిలయ్య గారు పాల్గొన్నారు. ఈ సందర్భంగా ఇందిరమ్మ ఇంట్లో గృహప్రవేశం చేసి, కుటుంబ సభ్యులకు పట్టుబట్టలు, స్వీట్లు, టపాకాయలు అందజేసి దీపావళి శుభాకాంక్షలు తెలిపారు. వారి ఇంట్లో ఆనందోత్సాహాలు నింపారు.",
-   "src": "Way2Sec రిపోర్టర్ · బొమ్మలరామారం",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "యావపూర్, బొమ్మలరామారం",
-   "pts": [
-    "“మా ఇందిరమ్మ ఇంట్లో దీపావళి” కార్యక్రమం",
-    "ఇందిరమ్మ ఇంట్లో గృహప్రవేశం",
-    "కుటుంబానికి పట్టుబట్టలు, స్వీట్లు, టపాకాయలు అందజేత"
-   ],
-   "why": "ఇందిరమ్మ పథకంలో కొత్త ఇల్లు పొందిన పేద కుటుంబం తమ ఇంట్లోనే తొలి దీపావళి జరుపుకుంది.",
-   "en": {
-    "cat": "🪔 Diwali · Bommalaramaram",
-    "stat": "Yavapur",
-    "statl": "MLA at Diwali in an Indiramma home",
-    "h": "MLA Beerla Ilaiah joins Diwali celebrations in an Indiramma home at Yavapur",
-    "p": "Telangana government whip and Aler MLA Beerla Ilaiah took part in Diwali celebrations held in an Indiramma house at Yavapur village, Bommalaramaram mandal. He joined the housewarming of the Indiramma house, gave the family silk clothes, sweets and crackers, and wished them a happy Diwali, filling their home with joy.",
-    "pts": [
-     "“Diwali in our Indiramma home” programme",
-     "Housewarming of the Indiramma house",
-     "Silk clothes, sweets and crackers given to the family"
-    ],
-    "why": "A poor family that got a new house under the Indiramma scheme celebrated its first Diwali in its own home."
-   },
-   "hi": {
-    "cat": "🪔 दिवाली · बोम्मलरामारम",
-    "stat": "यावपुर",
-    "statl": "इंदिरम्मा घर में दिवाली समारोह में विधायक",
-    "h": "यावपुर में इंदिरम्मा घर के दिवाली समारोह में शामिल हुए विधायक बीरला ऐलय्या",
-    "p": "तेलंगाना सरकार के व्हिप और आलेर विधायक बीरला ऐलय्या बोम्मलरामारम मंडल के यावपुर गाँव में एक इंदिरम्मा घर में आयोजित दिवाली समारोह में शामिल हुए। उन्होंने इंदिरम्मा घर के गृहप्रवेश में भाग लिया, परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे दिए और दिवाली की शुभकामनाएँ देकर उनके घर में खुशियाँ भर दीं।",
-    "pts": [
-     "“हमारे इंदिरम्मा घर में दिवाली” कार्यक्रम",
-     "इंदिरम्मा घर का गृहप्रवेश",
-     "परिवार को रेशमी कपड़े, मिठाइयाँ और पटाखे"
-    ],
-    "why": "इंदिरम्मा योजना में नया घर पाने वाले गरीब परिवार ने अपने घर में पहली दिवाली मनाई।"
-   },
-   "d": "08.11.2026",
-   "t": "14:00",
-   "img": "photos/2026-11-08-yavapur-indiramma-diwali.jpg",
-   "imgfy": 0.4,
-   "local": true
-  },
-  {
-   "cat": "ఆలేరు · 5వ వార్డు",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "5వ వార్డు",
-   "statl": "కంటి శస్త్ర చికిత్స కుటుంబాలకు పరామర్శ",
-   "h": "కంటి శస్త్ర చికిత్స చేయించుకున్న కుటుంబాలను పరామర్శించిన కౌన్సిలర్ పాశికంటి సంపత్",
-   "p": "ఆలేరు మున్సిపాలిటీ 5వ వార్డులో కంటి శస్త్ర చికిత్స చేయించుకున్న పలువురి కుటుంబాలను వార్డు కౌన్సిలర్ శ్రీ పాశికంటి సంపత్ గారు యువ నాయకులతో కలిసి ఇంటింటికీ వెళ్లి పరామర్శించారు. వారి ఆరోగ్య పరిస్థితిని అడిగి తెలుసుకుని, ధైర్యం చెప్పారు.",
-   "src": "Way2Sec రిపోర్టర్ · ఆలేరు",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "yadadri",
-   "loc": "ఆలేరు 5వ వార్డు",
-   "pts": [
-    "కౌన్సిలర్ పాశికంటి సంపత్ ఇంటింటికీ పరామర్శ",
-    "పాల్గొన్న యువ నాయకులు: సతీష్ అంబటి, చింతకింది రవికాంత్, జిల్లా రమేష్, అంబటి సాయి తేజ, వల్లల సాయి, చింతకింది వినయ్"
-   ],
-   "why": "శస్త్ర చికిత్స తర్వాత కోలుకుంటున్నవారికి వార్డు ప్రతినిధి స్వయంగా రావడం ధైర్యాన్నిస్తుంది.",
-   "en": {
-    "cat": "Aler · Ward 5",
-    "stat": "Ward 5",
-    "statl": "Visits to families after eye surgeries",
-    "h": "Councillor Pashikanti Sampath visits families after eye surgeries",
-    "p": "Aler municipality ward 5 councillor Pashikanti Sampath, along with young leaders, went house to house to visit several people in the ward who have had eye surgery. He asked about their health and encouraged them.",
-    "pts": [
-     "Councillor Pashikanti Sampath's house-to-house visits",
-     "Young leaders present: Satish Ambati, Chinthakindi Ravikanth, Jilla Ramesh, Ambati Sai Teja, Vallala Sai, Chinthakindi Vinay"
-    ],
-    "why": "A visit from the ward councillor gives courage to people recovering after surgery."
-   },
-   "hi": {
-    "cat": "आलेर · वार्ड 5",
-    "stat": "वार्ड 5",
-    "statl": "आँखों के ऑपरेशन के बाद परिवारों से मुलाक़ात",
-    "h": "पार्षद पाशिकंटी संपत ने आँखों का ऑपरेशन कराने वाले परिवारों से मुलाक़ात की",
-    "p": "आलेर नगरपालिका के वार्ड 5 के पार्षद पाशिकंटी संपत ने युवा नेताओं के साथ घर-घर जाकर वार्ड में आँखों का ऑपरेशन कराने वाले कई लोगों से मुलाक़ात की। उन्होंने उनका हालचाल जाना और हौसला बढ़ाया।",
-    "pts": [
-     "पार्षद पाशिकंटी संपत की घर-घर मुलाक़ात",
-     "उपस्थित युवा नेता: सतीश अंबटि, चिंतकिंदी रविकांत, जिल्ला रमेश, अंबटि साई तेजा, वल्लला साई, चिंतकिंदी विनय"
-    ],
-    "why": "ऑपरेशन के बाद ठीक हो रहे लोगों को वार्ड प्रतिनिधि का घर आना हिम्मत देता है।"
-   },
-   "d": "08.11.2026",
-   "t": "13:35",
-   "img": "photos/2026-11-08-aler-ward5-eye-surgery.jpg",
-   "imgfy": 0.42,
-   "local": true,
-   "_sid": "1y8qqv6"
-  },
-  {
-   "cat": "🪔 దీపావళి · వైరల్ వీడియో",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "నైజీరియా",
-   "statl": "హిందీలో దీపావళి శుభాకాంక్షలు చెప్పిన దుకాణ యజమాని",
-   "h": "నైజీరియాలో దీపావళి సందడి! హిందీలో భారతీయులకు శుభాకాంక్షలు చెప్పిన టపాసుల దుకాణ యజమాని",
-   "p": "దీపావళి సందడి భారతదేశానికే పరిమితం కాదు. నైజీరియాలో దీపావళి టపాసులు అమ్ముతున్న ఒక దుకాణ యజమాని, చేతిలో టపాసుల ప్యాకెట్ పట్టుకుని ఉత్సాహంగా హిందీలో భారతీయులందరికీ దీపావళి శుభాకాంక్షలు చెబుతున్న వీడియో సోషల్ మీడియాలో వైరల్ అవుతోంది. అక్కడ ఉంటున్న భారతీయుల కోసం ఆమె దుకాణం ముందు రంగురంగుల టపాసుల పెట్టెలు పేర్చి ఉన్నాయి. విదేశాల్లోనూ మన పండుగను ఇంత ఆనందంగా పంచుకోవడం చూసి నెటిజన్లు మురిసిపోతున్నారు.",
-   "src": "సోషల్ మీడియా వీడియో",
-   "url": "",
-   "sec": [
-    "world",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "loc": "నైజీరియా",
-   "pts": [
-    "▶ వీడియో చూడండి – పై ఫోటోపై నొక్కండి",
-    "నైజీరియాలో టపాసుల దుకాణ యజమాని హిందీలో దీపావళి శుభాకాంక్షలు",
-    "విదేశాల్లోనూ భారతీయ పండుగ సందడి"
-   ],
-   "why": "ప్రపంచంలో ఎక్కడ ఉన్నా భారతీయుల పండుగలు స్థానికులను కూడా కలుపుతున్నాయని ఈ వీడియో చూపిస్తోంది.",
-   "d": "07.11.2026",
-   "t": "22:15",
-   "img": "photos/2026-11-07-nigeria-diwali.jpg",
-   "imgfy": 0.35,
-   "vid": "videos/2026-11-07-nigeria-diwali-v3.mp4",
-   "local": true,
-   "en": {
-    "cat": "🪔 Diwali · Viral video",
-    "stat": "Nigeria",
-    "statl": "Shop owner wishes Happy Diwali in Hindi",
-    "h": "Diwali cheer in Nigeria! Cracker shop owner wishes all Indians in Hindi",
-    "p": "Diwali celebrations are not limited to India. A video of a woman who owns a Diwali cracker shop in Nigeria, cheerfully wishing all Indians a happy Diwali in Hindi with a pack of crackers in her hand, is going viral on social media. Colourful boxes of crackers for the Indians living there are stacked in front of her shop. Netizens are delighted to see our festival shared so joyfully abroad.",
-    "pts": [
-     "▶ Watch the video – tap the photo above",
-     "A cracker shop owner in Nigeria wishes Happy Diwali in Hindi",
-     "Indian festival spirit abroad"
-    ],
-    "why": "The video shows how Indian festivals bring local people together wherever Indians live."
-   },
-   "hi": {
-    "cat": "🪔 दिवाली · वायरल वीडियो",
-    "stat": "नाइजीरिया",
-    "statl": "दुकान की मालकिन ने हिंदी में दी दिवाली की शुभकामनाएँ",
-    "h": "नाइजीरिया में दिवाली की धूम! पटाखा दुकान की मालकिन ने हिंदी में सभी भारतीयों को दी शुभकामनाएँ",
-    "p": "दिवाली की धूम सिर्फ़ भारत तक सीमित नहीं है। नाइजीरिया में दिवाली के पटाखों की दुकान की एक मालकिन का वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वह हाथ में पटाखों का पैकेट लिए जोश से हिंदी में सभी भारतीयों को दिवाली की शुभकामनाएँ दे रही हैं। वहाँ रहने वाले भारतीयों के लिए उनकी दुकान के सामने रंग-बिरंगे पटाखों के डिब्बे सजे हैं। विदेश में भी हमारे त्योहार को इतनी ख़ुशी से मनाते देख लोग खुश हो रहे हैं।",
-    "pts": [
-     "▶ वीडियो देखें – ऊपर फ़ोटो पर टैप करें",
-     "नाइजीरिया की पटाखा दुकान की मालकिन ने हिंदी में दी दिवाली की शुभकामनाएँ",
-     "विदेश में भी भारतीय त्योहार की धूम"
-    ],
-    "why": "यह वीडियो दिखाता है कि भारतीय जहाँ भी हों, उनके त्योहार स्थानीय लोगों को भी जोड़ते हैं।"
-   },
-   "_sid": "1jy2f0f"
   }
  ]
 }
