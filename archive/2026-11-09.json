@@ -1,8 +1,153 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 38,
+ "count": 41,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2024 కంటే",
+   "statl": "ఎక్కువ మద్దతు వచ్చిందన్న సీఎం",
+   "h": "స్థానిక ఎన్నికల్లో కూటమి ఓట్ల శాతం పెరిగింది: సీఎం చంద్రబాబు",
+   "p": "మున్సిపల్, పరిషత్ ఎన్నికల్లో 2024 అసెంబ్లీ ఎన్నికల కంటే కూటమికి ఓట్ల శాతం పెరిగిందని సీఎం చంద్రబాబు అమరావతిలో చెప్పారు. ఈ ఫలితాలు కూటమి ప్రభుత్వ విజయమని, పోస్టల్ బ్యాలెట్లలోనూ ఎక్కువ మంది ఉద్యోగులు తమకు మద్దతిచ్చారని అన్నారు. బ్యాలెట్ ఎన్నికల్లోనూ అక్రమాలు జరిగాయని వైఎస్సార్‌సీపీ ఆరోపించడాన్ని ఆయన తప్పుపట్టారు. సంక్షేమం, అభివృద్ధిని వేగవంతం చేస్తామని తెలిపారు.",
+   "src": "Telugu Post",
+   "url": "https://telugupost.com/andhra-pradesh/chandrababu-alliances-vote-s-hare-increased-local-body-elections-1625422",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "2024 కంటే కూటమి ఓట్ల శాతం పెరిగిందన్న సీఎం",
+    "పోస్టల్ బ్యాలెట్లలో ఉద్యోగుల మద్దతు దక్కిందని వెల్లడి",
+    "సంక్షేమం, అభివృద్ధి వేగవంతం చేస్తామని హామీ"
+   ],
+   "why": "స్థానిక ఎన్నికల ఫలితాలపై ప్రభుత్వ వైఖరిని ఇది తెలియజేస్తుంది; కొత్తగా ఎన్నికైన పాలకవర్గాలు త్వరలో బాధ్యతలు చేపడతాయి.",
+   "en": {
+    "h": "Alliance vote share rose in local body polls: CM Chandrababu Naidu",
+    "p": "CM Chandrababu Naidu said in Amaravati that the alliance's vote share in the municipal and parishad elections was higher than in the 2024 Assembly elections. He said the results were the alliance government's victory and that most employees backed the alliance in postal ballots too. He faulted the YSRCP for alleging irregularities even in ballot-paper polls. He said welfare and development would be speeded up.",
+    "pts": [
+     "CM says alliance vote share higher than in 2024",
+     "Says employees backed alliance in postal ballots",
+     "Promises faster welfare and development"
+    ],
+    "why": "It shows the government's stand on the local poll results; newly elected bodies will take charge soon.",
+    "cat": "Andhra Pradesh · Local polls",
+    "statl": "More support than 2024, says CM"
+   },
+   "hi": {
+    "h": "स्थानीय चुनावों में गठबंधन का वोट प्रतिशत बढ़ा: मुख्यमंत्री चंद्रबाबू नायडू",
+    "p": "मुख्यमंत्री चंद्रबाबू नायडू ने अमरावती में कहा कि नगरपालिका और परिषद चुनावों में गठबंधन का वोट प्रतिशत 2024 के विधानसभा चुनाव से अधिक रहा। उन्होंने कहा कि ये नतीजे गठबंधन सरकार की जीत हैं और पोस्टल बैलेट में भी ज्यादातर कर्मचारियों ने गठबंधन का साथ दिया। उन्होंने बैलेट चुनाव में भी गड़बड़ी के वाईएसआरसीपी के आरोपों को गलत बताया। उन्होंने कहा कि कल्याण और विकास कार्यों में तेजी लाई जाएगी।",
+    "pts": [
+     "मुख्यमंत्री बोले, गठबंधन का वोट प्रतिशत 2024 से ज्यादा",
+     "पोस्टल बैलेट में कर्मचारियों का समर्थन मिलने का दावा",
+     "कल्याण और विकास में तेजी का वादा"
+    ],
+    "why": "यह स्थानीय चुनाव नतीजों पर सरकार का रुख बताता है; नए चुने गए निकाय जल्द कार्यभार संभालेंगे।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "2024 से ज्यादा समर्थन: मुख्यमंत्री"
+   },
+   "d": "09.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరాలు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "45 ఏళ్లు",
+   "statl": "మృతి చెందిన వ్యక్తి వయసు",
+   "h": "అత్తాపూర్ మద్యం దుకాణంలో చిల్లర గొడవ: 45 ఏళ్ల వ్యక్తి మృతి",
+   "p": "హైదరాబాద్ అత్తాపూర్‌లో పిల్లర్ నం.140 సమీపంలోని మద్యం దుకాణానికి వెళ్లిన 45 ఏళ్ల వ్యక్తికి సిబ్బందితో చిల్లర విషయంలో గొడవ జరిగింది. వాగ్వాదం దాడికి దారితీయడంతో ఆయన ఛాతీకి తీవ్ర గాయమై కుప్పకూలారు. సమీప ప్రైవేటు ఆసుపత్రికి తరలించగా అప్పటికే మృతి చెందినట్లు వైద్యులు తెలిపారు. కుటుంబ సభ్యుల ఫిర్యాదుతో అత్తాపూర్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-45-year-old-man-dies-after-alleged-altercation-at-wine-shop-in-attapur",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "అత్తాపూర్",
+   "pts": [
+    "చిల్లర విషయంలో దుకాణ సిబ్బందితో గొడవ",
+    "ఛాతీకి తీవ్ర గాయం, ఆసుపత్రిలో మృతి",
+    "అత్తాపూర్ పోలీసుల కేసు, దర్యాప్తు"
+   ],
+   "why": "చిన్న గొడవలు ప్రాణాంతకంగా మారవచ్చు; ఇలాంటి ఘటనల్లో వెంటనే పోలీసులను సంప్రదించాలి.",
+   "en": {
+    "h": "Row over change at Attapur liquor shop: 45-year-old man dies",
+    "p": "A 45-year-old man who went to a liquor shop near Pillar No. 140 in Attapur, Hyderabad, got into a dispute with the staff over change. The argument turned into an assault and he suffered a serious chest injury and collapsed. He was taken to a nearby private hospital, where doctors declared him dead. Attapur police registered a case on the family's complaint and are investigating.",
+    "pts": [
+     "Dispute with shop staff over change",
+     "Serious chest injury, declared dead at hospital",
+     "Attapur police register case, investigate"
+    ],
+    "why": "Small quarrels can turn deadly; people should contact the police immediately in such situations.",
+    "cat": "Hyderabad · Crime",
+    "statl": "Age of the man who died"
+   },
+   "hi": {
+    "h": "अत्तापुर शराब दुकान पर छुट्टे को लेकर झगड़ा: 45 वर्षीय व्यक्ति की मौत",
+    "p": "हैदराबाद के अत्तापुर में पिलर नंबर 140 के पास शराब की दुकान पर गए 45 वर्षीय व्यक्ति का छुट्टे पैसों को लेकर कर्मचारियों से झगड़ा हो गया। बहस मारपीट में बदल गई और उनके सीने में गंभीर चोट लगी, जिससे वे गिर पड़े। पास के निजी अस्पताल ले जाने पर डॉक्टरों ने उन्हें मृत घोषित कर दिया। परिवार की शिकायत पर अत्तापुर पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "छुट्टे पैसों को लेकर कर्मचारियों से झगड़ा",
+     "सीने में गंभीर चोट, अस्पताल में मौत",
+     "अत्तापुर पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "छोटे झगड़े जानलेवा बन सकते हैं; ऐसी स्थिति में तुरंत पुलिस से संपर्क करें।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "मृत व्यक्ति की उम्र"
+   },
+   "d": "09.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "voters",
+   "stat": "మిడ్‌టర్మ్స్",
+   "statl": "రిపబ్లికన్ల ఓటమిపై ట్రంప్ విశ్లేషణ",
+   "h": "మిడ్‌టర్మ్ ఓటమికి ఇజ్రాయెల్‌పై వ్యతిరేకత ఒక కారణం: ట్రంప్",
+   "p": "గత వారం జరిగిన అమెరికా మధ్యంతర ఎన్నికల్లో రిపబ్లికన్లు వెనుకబడటానికి ఇజ్రాయెల్‌పై ప్రజల్లో ఉన్న అయిష్టత ఒక ముఖ్య కారణమని అధ్యక్షుడు ట్రంప్ ‘60 మినిట్స్’ ఇంటర్వ్యూలో అన్నారు. తాను బ్యాలెట్‌లో లేకపోవడం, యుద్ధంపై అసంతృప్తి, పెట్రోల్ ధరల పెరుగుదల కూడా కారణాలని చెప్పారు. విదేశాంగ మంత్రి రూబియో కొనసాగుతారని, మంత్రివర్గంలో మరికొన్ని మార్పులు ఉండొచ్చని తెలిపారు.",
+   "src": "The Times of Israel",
+   "url": "https://www.timesofisrael.com/liveblog-november-9-2026",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఇజ్రాయెల్‌పై అయిష్టత ఓటమికి కారణమన్న ట్రంప్",
+    "యుద్ధం, పెట్రోల్ ధరలు కూడా కారణాలని వెల్లడి",
+    "రూబియో కొనసాగుతారు; మరికొన్ని మార్పులు ఉండొచ్చు"
+   ],
+   "why": "అమెరికా విదేశాంగ విధానంలో మార్పులు పశ్చిమాసియా, చమురు ధరలపై, అక్కడి తెలుగువారిపై ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Dislike for Israel one reason for midterm loss: Trump",
+    "p": "President Trump said in a '60 Minutes' interview that a main reason Republicans did poorly in last week's US midterm elections was people's dislike of Israel. He said his not being on the ballot, unhappiness over the war and higher gasoline prices were also reasons. He said Secretary of State Rubio will stay and there may be a few more changes in the Cabinet.",
+    "pts": [
+     "Trump cites dislike of Israel for loss",
+     "Also blames war and gasoline prices",
+     "Rubio stays; a few more changes possible"
+    ],
+    "why": "Shifts in US foreign policy can affect West Asia, oil prices and Telugu people living there.",
+    "cat": "World · US",
+    "statl": "Trump on Republican losses"
+   },
+   "hi": {
+    "h": "मध्यावधि चुनाव में हार की एक वजह इज़राइल के प्रति नापसंदगी: ट्रंप",
+    "p": "राष्ट्रपति ट्रंप ने '60 मिनट्स' इंटरव्यू में कहा कि पिछले हफ्ते हुए अमेरिकी मध्यावधि चुनावों में रिपब्लिकन के खराब प्रदर्शन की एक मुख्य वजह लोगों में इज़राइल के प्रति नापसंदगी है। उन्होंने कहा कि उनका बैलेट पर न होना, युद्ध से नाराजगी और पेट्रोल की बढ़ी कीमतें भी कारण रहीं। उन्होंने कहा कि विदेश मंत्री रूबियो पद पर बने रहेंगे और मंत्रिमंडल में कुछ और बदलाव हो सकते हैं।",
+    "pts": [
+     "ट्रंप ने हार के लिए इज़राइल के प्रति नापसंदगी बताई",
+     "युद्ध और पेट्रोल कीमतें भी कारण",
+     "रूबियो बने रहेंगे; कुछ और बदलाव संभव"
+    ],
+    "why": "अमेरिकी विदेश नीति में बदलाव पश्चिम एशिया, तेल कीमतों और वहां रहने वाले तेलुगु लोगों को प्रभावित कर सकते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "रिपब्लिकन हार पर ट्रंप"
+   },
+   "d": "09.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "ఏపీ · తిరుమల",
    "col": "--c-city",
