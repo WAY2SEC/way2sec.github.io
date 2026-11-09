@@ -1,8 +1,154 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T16:44:45+05:30",
+ "updated": "2026-11-09T17:09:49+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "16 నవం.",
+   "statl": "నుంచి శబరిమలకు ప్రత్యేక బస్సులు",
+   "h": "శబరిమలకు టీజీఎస్ఆర్టీసీ ప్రత్యేక బస్సులు: నవంబర్ 16 నుంచి",
+   "p": "అయ్యప్ప భక్తుల కోసం 2026-27 సీజన్‌లో శబరిమలకు ప్రత్యేక బస్సులు నడుపుతామని టీజీఎస్ఆర్టీసీ ప్రకటించింది. మండల పూజ సీజన్‌లో నవంబర్ 16 నుంచి డిసెంబర్ 27 వరకు, మకరవిళక్కు సీజన్‌లో డిసెంబర్ 30 నుంచి 2027 జనవరి 20 వరకు ఈ సేవలు ఉంటాయి. బస్సు బుక్ చేసే గురుస్వాములకు ఉచిత ప్రయాణం కల్పిస్తారు. ఈ బస్సులకు కేరళ ప్రభుత్వం సరిహద్దు పన్ను మినహాయింపు ఇచ్చింది.",
+   "pts": [
+    "మండల పూజ సేవలు: నవంబర్ 16 – డిసెంబర్ 27",
+    "మకరవిళక్కు సేవలు: డిసెంబర్ 30 – జనవరి 20",
+    "బుకింగ్: www.tgsrtcbus.in, ఫోన్ 040-69440000"
+   ],
+   "why": "శబరిమల వెళ్లే తెలంగాణ అయ్యప్ప భక్తులు ముందుగానే బస్సులు బుక్ చేసుకునే వీలు కలుగుతుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tgsrtc-announces-special-buses-to-sabarimala-for-2026-27-season",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "TGSRTC special buses to Sabarimala from November 16",
+    "p": "TGSRTC has announced special buses to Sabarimala for Ayyappa devotees in the 2026-27 season. Services will run from November 16 to December 27 in the Mandala Pooja season and from December 30 to January 20, 2027 in the Makara Vilakku season. Guruswamis who book a bus will travel free. The Kerala government has exempted these buses from border tax.",
+    "pts": [
+     "Mandala Pooja services: November 16 – December 27",
+     "Makara Vilakku services: December 30 – January 20",
+     "Booking: www.tgsrtcbus.in, phone 040-69440000"
+    ],
+    "why": "Ayyappa devotees from Telangana going to Sabarimala can book buses in advance.",
+    "cat": "Telangana · RTC",
+    "statl": "Sabarimala special buses from"
+   },
+   "hi": {
+    "h": "टीजीएसआरटीसी की सबरीमला के लिए विशेष बसें: 16 नवंबर से",
+    "p": "टीजीएसआरटीसी ने 2026-27 सीज़न में अयप्पा भक्तों के लिए सबरीमला तक विशेष बसें चलाने की घोषणा की है। मंडल पूजा सीज़न में 16 नवंबर से 27 दिसंबर तक और मकरविलक्कु सीज़न में 30 दिसंबर से 20 जनवरी 2027 तक ये सेवाएं चलेंगी। बस बुक करने वाले गुरुस्वामियों को मुफ्त यात्रा मिलेगी। केरल सरकार ने इन बसों को सीमा कर से छूट दी है।",
+    "pts": [
+     "मंडल पूजा सेवाएं: 16 नवंबर – 27 दिसंबर",
+     "मकरविलक्कु सेवाएं: 30 दिसंबर – 20 जनवरी",
+     "बुकिंग: www.tgsrtcbus.in, फोन 040-69440000"
+    ],
+    "why": "सबरीमला जाने वाले तेलंगाना के अयप्पा भक्त पहले से बसें बुक कर सकेंगे।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "से सबरीमला के लिए विशेष बसें"
+   },
+   "d": "09.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "తెలంగాణ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "3,670",
+   "statl": "2026-27లో పీజీ వైద్య సీట్లు",
+   "h": "తెలంగాణలో పీజీ వైద్య సీట్లు 3,670కి; వసతులపై వైద్యుల ఆందోళన",
+   "p": "2026-27 విద్యా సంవత్సరానికి తెలంగాణలో పీజీ వైద్య సీట్ల సంఖ్య 3,670కి చేరింది. అయితే అధ్యాపకులు, పరికరాలు, క్లినికల్ వసతులు పెంచకుండానే సీట్లు పెంచుతున్నారని జూనియర్ డాక్టర్ల సంఘం (టీజూడా), హెచ్‌ఆర్‌డీఏ వైద్యులు అంటున్నారు. ఎంఆర్ఐ వంటి పరికరాలు లేని చోట్ల కూడా రేడియాలజీలో 10 అదనపు సీట్లు ఇచ్చారని చెప్పారు. వసతులపై ఆడిట్ చేయకపోతే నిరసనలు తీవ్రం చేస్తామని విద్యార్థి సంఘాలు హెచ్చరించాయి.",
+   "pts": [
+    "2026-27లో మొత్తం పీజీ వైద్య సీట్లు 3,670",
+    "ఎంఆర్ఐ లేకున్నా రేడియాలజీలో 10 అదనపు సీట్లు: ఆరోపణ",
+    "అధ్యాపక ఖాళీలు భర్తీ చేయాలని డిమాండ్"
+   ],
+   "why": "నీట్ పీజీ రాసే తెలంగాణ విద్యార్థులకు ఎక్కువ సీట్లు దక్కుతాయి; అయితే శిక్షణ నాణ్యతపై ప్రశ్నలు వస్తున్నాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-pg-medical-seats-rise-to-3670-but-infrastructure-gaps-raise-concerns",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Telangana PG medical seats rise to 3,670; doctors flag infrastructure gaps",
+    "p": "Telangana's PG medical seats have risen to 3,670 for the 2026-27 academic year. But the junior doctors' association (TJUDA) and HRDA doctors say seats are being increased without adding faculty, equipment or clinical facilities. They said 10 additional radiology seats were given even where equipment such as MRI machines is lacking. Student bodies warned they will intensify protests if infrastructure is not audited.",
+    "pts": [
+     "Total PG medical seats in 2026-27: 3,670",
+     "Allegation: 10 extra radiology seats despite no MRI",
+     "Demand to fill faculty vacancies"
+    ],
+    "why": "Telangana NEET PG aspirants get more seats, but questions are being raised about training quality.",
+    "cat": "Telangana · Medical education",
+    "statl": "PG medical seats in 2026-27"
+   },
+   "hi": {
+    "h": "तेलंगाना में पीजी मेडिकल सीटें 3,670; सुविधाओं पर डॉक्टरों की चिंता",
+    "p": "शैक्षणिक वर्ष 2026-27 के लिए तेलंगाना में पीजी मेडिकल सीटों की संख्या 3,670 हो गई है। लेकिन जूनियर डॉक्टर्स एसोसिएशन (टीजूडा) और एचआरडीए के डॉक्टरों का कहना है कि शिक्षक, उपकरण और क्लिनिकल सुविधाएं बढ़ाए बिना सीटें बढ़ाई जा रही हैं। उन्होंने कहा कि एमआरआई जैसी मशीनें न होने पर भी रेडियोलॉजी में 10 अतिरिक्त सीटें दी गईं। छात्र संगठनों ने चेतावनी दी कि सुविधाओं का ऑडिट न हुआ तो आंदोलन तेज करेंगे।",
+    "pts": [
+     "2026-27 में कुल पीजी मेडिकल सीटें 3,670",
+     "आरोप: एमआरआई के बिना रेडियोलॉजी में 10 अतिरिक्त सीटें",
+     "शिक्षकों के रिक्त पद भरने की मांग"
+    ],
+    "why": "नीट पीजी देने वाले तेलंगाना के छात्रों को अधिक सीटें मिलेंगी, पर प्रशिक्षण की गुणवत्ता पर सवाल उठ रहे हैं।",
+    "cat": "तेलंगाना · चिकित्सा शिक्षा",
+    "statl": "2026-27 में पीजी मेडिकल सीटें"
+   },
+   "d": "09.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "7",
+   "statl": "హత్యకు గురైన కుటుంబ సభ్యులు",
+   "h": "బెంగళూరు కుటుంబ హత్యల కేసు: ఏడుగురి మృతదేహాలూ లభ్యం",
+   "p": "బెంగళూరుకు చెందిన ఒకే కుటుంబంలోని ఏడుగురి హత్య కేసులో చివరి రెండు మృతదేహాలను పోలీసులు సోమవారం శిరాడి ఘాట్‌లో గుర్తించారు. మిగతా బాధితుల అవశేషాలు మైసూరులోని చాముండి కొండల దిగువన, తమిళనాడులోని సేలంలో లభించాయి. ప్రధాన నిందితుడు పోలీసు కస్టడీలో ఉన్నాడు. కుటుంబ కలహాలే కారణం కావచ్చని పోలీసులు భావిస్తున్నారు. అంత్యక్రియల కోసం దర్యాప్తు చివరి దశకు చేరింది.",
+   "pts": [
+    "చివరి రెండు మృతదేహాలు శిరాడి ఘాట్‌లో లభ్యం",
+    "మిగతా అవశేషాలు మైసూరు, సేలంలో గుర్తింపు",
+    "ప్రధాన నిందితుడు పోలీసు కస్టడీలో"
+   ],
+   "why": "అన్ని మృతదేహాలు దొరకడంతో బాధిత కుటుంబాలు కలిసి అంత్యక్రియలు నిర్వహించే అవకాశం కలుగుతుంది.",
+   "src": "NewsBytes",
+   "url": "https://www.newsbytesapp.com/news/india/search-ends-as-all-7-bengaluru-family-murder-victims-found/tldr",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "en": {
+    "h": "Bengaluru family murder case: bodies of all seven victims found",
+    "p": "In the case of the murder of seven members of a Bengaluru family, police found the last two bodies at Shiradi Ghat on Monday. The remains of the other victims were found at the foothills of Chamundi Hills in Mysuru and in Salem, Tamil Nadu. The main accused is in police custody. Police believe family disputes may have been the cause. The investigation has reached its final stage so last rites can be held.",
+    "pts": [
+     "Last two bodies found at Shiradi Ghat",
+     "Other remains found in Mysuru and Salem",
+     "Main accused in police custody"
+    ],
+    "why": "With all bodies found, the victims' families can hold the last rites together.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "family members murdered"
+   },
+   "hi": {
+    "h": "बेंगलुरु परिवार हत्याकांड: सातों पीड़ितों के शव मिले",
+    "p": "बेंगलुरु के एक ही परिवार के सात सदस्यों की हत्या के मामले में पुलिस ने सोमवार को शिराडी घाट में आखिरी दो शव बरामद किए। बाकी पीड़ितों के अवशेष मैसूरु में चामुंडी पहाड़ियों की तलहटी और तमिलनाडु के सेलम में मिले थे। मुख्य आरोपी पुलिस हिरासत में है। पुलिस को लगता है कि पारिवारिक कलह इसकी वजह हो सकती है। अंतिम संस्कार के लिए जांच अंतिम चरण में है।",
+    "pts": [
+     "आखिरी दो शव शिराडी घाट में मिले",
+     "बाकी अवशेष मैसूरु और सेलम में मिले",
+     "मुख्य आरोपी पुलिस हिरासत में"
+    ],
+    "why": "सभी शव मिलने से पीड़ित परिवार एक साथ अंतिम संस्कार कर सकेंगे।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "परिवार के सदस्यों की हत्या"
+   },
+   "d": "09.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
@@ -1774,199 +1920,6 @@
    "imgfx": 0.5,
    "local": true,
    "_sid": "1nhx9ls"
-  },
-  {
-   "cat": "మధ్యప్రదేశ్ · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "12",
-   "statl": "దీపావళి రాత్రి అగ్నిప్రమాదాల్లో మృతులు",
-   "h": "మధ్యప్రదేశ్‌లో దీపావళి రాత్రి రెండు అగ్నిప్రమాదాలు: 12 మంది మృతి",
-   "p": "మధ్యప్రదేశ్‌లోని కట్నీ, సివనీ జిల్లాల్లో దీపావళి రాత్రి జరిగిన రెండు వేర్వేరు అగ్నిప్రమాదాల్లో రెండు నెలల పసికందుతో సహా కనీసం 12 మంది చనిపోయారు. కట్నీ జిల్లా బర్హీ పట్టణంలో మూడంతస్తుల భవనంలో నిద్రిస్తున్న ఒకే కుటుంబానికి చెందిన ఆరుగురు, సివనీ జిల్లా ఛపారాలో ఓ వ్యాపారి ఇంట్లో ఆరుగురు మృతి చెందారు. రెండు ఘటనలపై పోలీసులు దర్యాప్తు చేస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/12-killed-in-twin-fire-tragedies-in-mp-on-diwali-night-two-families-wiped-out",
-   "sec": [
-    "india"
-   ],
-   "st": "MP",
-   "place": "IN",
-   "pts": [
-    "కట్నీ, సివనీ జిల్లాల్లో రెండు వేర్వేరు ప్రమాదాలు",
-    "ఒక్కో ఘటనలో ఒకే కుటుంబానికి చెందిన ఆరుగురు మృతి",
-    "సివనీలో ఇద్దరు పిల్లలు సహా నలుగురిని కాపాడారు"
-   ],
-   "why": "నిద్రిస్తున్న కుటుంబాలను బలిగొన్న ఈ ఘటనలు పండుగ వేళ ఇళ్లలో అగ్ని భద్రత ఎంత ముఖ్యమో గుర్తుచేస్తున్నాయి.",
-   "en": {
-    "h": "Two Diwali-night fires in Madhya Pradesh kill 12",
-    "p": "At least 12 people, including a two-month-old baby, died in two separate fires on Diwali night in Madhya Pradesh's Katni and Seoni districts. Six members of one family sleeping in a three-storey building in Barhi town in Katni died, and six members of a trader's family died at their home in Chhapara in Seoni. Police are investigating both fires.",
-    "pts": [
-     "Two separate fires in Katni and Seoni districts",
-     "Six members of one family died in each fire",
-     "Four, including two children, rescued in Seoni"
-    ],
-    "why": "The fires, which killed sleeping families, are a reminder of how important home fire safety is during festivals.",
-    "cat": "Madhya Pradesh · Accident",
-    "statl": "Killed in Diwali-night fires"
-   },
-   "hi": {
-    "h": "मध्य प्रदेश में दिवाली की रात दो अग्निकांड, 12 लोगों की मौत",
-    "p": "मध्य प्रदेश के कटनी और सिवनी जिलों में दिवाली की रात हुए दो अलग-अलग अग्निकांडों में दो महीने के शिशु सहित कम से कम 12 लोगों की मौत हो गई। कटनी जिले के बरही कस्बे में तीन मंजिला इमारत में सो रहे एक ही परिवार के छह सदस्य और सिवनी जिले के छपारा में एक व्यापारी के घर में छह लोग मारे गए। पुलिस दोनों घटनाओं की जांच कर रही है।",
-    "pts": [
-     "कटनी और सिवनी जिलों में दो अलग-अलग हादसे",
-     "हर हादसे में एक ही परिवार के छह सदस्यों की मौत",
-     "सिवनी में दो बच्चों सहित चार लोगों को बचाया गया"
-    ],
-    "why": "सोते हुए परिवारों की जान लेने वाली ये घटनाएं याद दिलाती हैं कि त्योहारों में घरों में अग्नि सुरक्षा कितनी जरूरी है।",
-    "cat": "मध्य प्रदेश · हादसा",
-    "statl": "दिवाली की रात अग्निकांडों में मौतें"
-   },
-   "d": "09.11.2026",
-   "t": "11:05"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "5 రోజులు",
-   "statl": "వారానికి బడి – ప్రతిపాదన",
-   "h": "తెలంగాణ బడులకు శనివారం సెలవు? వారానికి ఐదు రోజుల ప్రతిపాదన",
-   "p": "హైదరాబాద్ సహా తెలంగాణలోని పాఠశాలలకు వారానికి ఐదు రోజులే తరగతులు, శనివారం సెలవు ఇవ్వాలని ఉపాధ్యాయ ఎమ్మెల్సీ మల్క కొమరయ్య ముఖ్యమంత్రికి లేఖ రాశారు. ఎల్‌నినో ప్రభావం, నీటి లభ్యత, వాతావరణ పరిస్థితులను కారణాలుగా చెప్పారు. శనివారం సమయాన్ని భర్తీ చేసేందుకు సోమవారం నుంచి శుక్రవారం వరకు రోజూ 35–40 నిమిషాలు బడి సమయం పెంచాలని సూచించారు. ప్రభుత్వం ఇంకా నిర్ణయం తీసుకోలేదు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hyderabad-schools-may-adopt-5-day-week-with-saturday-holidays-3572053/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "ఉపాధ్యాయ ఎమ్మెల్సీ మల్క కొమరయ్య సీఎంకు లేఖ",
-    "రోజూ 35–40 నిమిషాలు అదనపు బోధన సమయం",
-    "నీటి ఆదా, ట్రాఫిక్, కాలుష్యం తగ్గుతాయని వాదన"
-   ],
-   "why": "ప్రభుత్వం ఆమోదిస్తే రాష్ట్రంలోని విద్యార్థులు, ఉపాధ్యాయులు, తల్లిదండ్రుల వారపు దినచర్య మారుతుంది.",
-   "en": {
-    "h": "Saturday holiday for Telangana schools? Five-day week proposed",
-    "p": "Teachers' constituency MLC Malka Komaraiah has written to the Chief Minister proposing a five-day week with Saturday holidays for schools in Hyderabad and across Telangana. He cited the El Nino impact, water availability and climate conditions. To make up for Saturday, he suggested extending school hours by 35–40 minutes daily from Monday to Friday. The government has not taken a decision yet.",
-    "pts": [
-     "Teachers' MLC Malka Komaraiah writes to the CM",
-     "35–40 minutes of extra teaching time daily",
-     "Says it would save water and cut traffic and pollution"
-    ],
-    "why": "If the government accepts it, the weekly routine of students, teachers and parents across the state will change.",
-    "cat": "Telangana · Education",
-    "statl": "School week – proposal"
-   },
-   "hi": {
-    "h": "तेलंगाना के स्कूलों में शनिवार की छुट्टी? पांच दिन के हफ्ते का प्रस्ताव",
-    "p": "शिक्षक निर्वाचन क्षेत्र के एमएलसी मल्का कोमरैया ने मुख्यमंत्री को पत्र लिखकर हैदराबाद समेत पूरे तेलंगाना के स्कूलों में हफ्ते में पांच दिन पढ़ाई और शनिवार को छुट्टी का प्रस्ताव दिया है। उन्होंने अल नीनो के असर, पानी की उपलब्धता और मौसम की स्थिति को कारण बताया। शनिवार की भरपाई के लिए सोमवार से शुक्रवार तक रोज 35–40 मिनट स्कूल का समय बढ़ाने का सुझाव दिया। सरकार ने अभी फैसला नहीं लिया है।",
-    "pts": [
-     "शिक्षक एमएलसी मल्का कोमरैया ने सीएम को लिखा पत्र",
-     "रोज 35–40 मिनट अतिरिक्त पढ़ाई का समय",
-     "पानी की बचत, ट्रैफिक और प्रदूषण घटने का तर्क"
-    ],
-    "why": "सरकार ने मंजूरी दी तो राज्य के छात्रों, शिक्षकों और अभिभावकों की साप्ताहिक दिनचर्या बदल जाएगी।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "स्कूल सप्ताह – प्रस्ताव"
-   },
-   "d": "09.11.2026",
-   "t": "11:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · మూసీ",
-   "col": "--c-election",
-   "art": "water",
-   "stat": "#MusiLoot",
-   "statl": "కేటీఆర్ ఎక్స్ పోస్ట్ హ్యాష్‌ట్యాగ్",
-   "h": "కరవు వేళ మూసీ సుందరీకరణా? ప్రభుత్వంపై కేటీఆర్ విమర్శలు",
-   "p": "రాష్ట్రం కరవుతో ఇబ్బంది పడుతుంటే కాంగ్రెస్ ప్రభుత్వం మూసీ రివర్‌ఫ్రంట్ సుందరీకరణకు ప్రాధాన్యం ఇస్తోందని బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ సోమవారం ఎక్స్‌లో విమర్శించారు. ప్రజాభిప్రాయ సేకరణలో నిజమైన ప్రజల భాగస్వామ్యం లేదని, సమగ్ర ప్రాజెక్టు నివేదిక (డీపీఆర్) లేకముందే బిడ్లు పిలిచారని ఆయన ఆరోపించారు. #MusiLoot హ్యాష్‌ట్యాగ్‌తో ఈ పోస్ట్ చేశారు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/telangana/ktr-slams-revanth-reddy-government-over-musi-riverfront-beautification-amid-drought-2002834",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "డీపీఆర్ లేకముందే బిడ్లు పిలిచారని ఆరోపణ",
-    "ప్రజాభిప్రాయ సేకరణలో ప్రజల భాగస్వామ్యం లేదని విమర్శ",
-    "కరవు వేళ సుందరీకరణ ఏమిటని ప్రశ్న"
-   ],
-   "why": "హైదరాబాద్ మూసీ ప్రాజెక్టుపై అధికార, ప్రతిపక్షాల మధ్య వివాదం కొనసాగుతోంది; ఇవి కేటీఆర్ చేసిన ఆరోపణలు.",
-   "en": {
-    "h": "Musi beautification amid drought? KTR criticises government",
-    "p": "BRS working president KTR said on X on Monday that the Congress government is prioritising the Musi Riverfront beautification while the state faces drought. He alleged that public hearings had no genuine public participation and that bids were invited before a Detailed Project Report (DPR) was ready. He posted it with the hashtag #MusiLoot.",
-    "pts": [
-     "Alleges bids were invited before the DPR",
-     "Says public hearings lacked real public participation",
-     "Questions beautification during a drought"
-    ],
-    "why": "The dispute between the ruling party and opposition over Hyderabad's Musi project continues; these are KTR's allegations.",
-    "cat": "Hyderabad · Musi",
-    "statl": "Hashtag on KTR's X post"
-   },
-   "hi": {
-    "h": "सूखे के बीच मूसी सौंदर्यीकरण? केटीआर ने सरकार की आलोचना की",
-    "p": "बीआरएस के कार्यकारी अध्यक्ष केटीआर ने सोमवार को एक्स पर कहा कि राज्य सूखे से जूझ रहा है, फिर भी कांग्रेस सरकार मूसी रिवरफ्रंट सौंदर्यीकरण को प्राथमिकता दे रही है। उन्होंने आरोप लगाया कि जनसुनवाई में असली जनभागीदारी नहीं थी और विस्तृत परियोजना रिपोर्ट (डीपीआर) से पहले ही बोलियां मंगाई गईं। उन्होंने यह पोस्ट #MusiLoot हैशटैग के साथ की।",
-    "pts": [
-     "डीपीआर से पहले बोलियां मंगाने का आरोप",
-     "जनसुनवाई में असली जनभागीदारी न होने की आलोचना",
-     "सूखे में सौंदर्यीकरण पर सवाल"
-    ],
-    "why": "हैदराबाद की मूसी परियोजना पर सत्ता पक्ष और विपक्ष के बीच विवाद जारी है; ये केटीआर के आरोप हैं।",
-    "cat": "हैदराबाद · मूसी",
-    "statl": "केटीआर की एक्स पोस्ट का हैशटैग"
-   },
-   "d": "09.11.2026",
-   "t": "11:05"
-  },
-  {
-   "cat": "భారత్ · పార్లమెంటు",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "88 రోజులు",
-   "statl": "ప్రొరోగ్ కాని వర్షాకాల సమావేశాలు",
-   "h": "88 రోజులుగా ప్రొరోగ్ కాని పార్లమెంటు వర్షాకాల సమావేశాలు: కొత్త రికార్డు",
-   "p": "ఆగస్టు 13న ఉభయ సభలు నిరవధికంగా వాయిదా పడినప్పటి నుంచి పార్లమెంటు వర్షాకాల సమావేశాలు 88 రోజులుగా ప్రొరోగ్ కాలేదు. ఇది 2008 నాటి 87 రోజుల రికార్డును దాటింది. దీంతో ఇదే సమావేశాల్లో ప్రత్యేక సిట్టింగ్ నిర్వహించే అవకాశం ఉంది. మహిళా రిజర్వేషన్ అమలుకు రాజ్యాంగ సవరణపై ఊహాగానాలతో దీన్ని ముడిపెడుతున్నారని పీటీఐ పేర్కొంది.",
-   "src": "PTI",
-   "url": "https://www.siasat.com/parliaments-monsoon-session-remains-unprorogued-for-record-88-days-3572049/",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "2008లో 87 రోజులే పాత రికార్డు",
-    "ప్రత్యేక సిట్టింగ్‌కు 2 రోజులు, కొత్త సమావేశాలకు 14 రోజుల నోటీసు",
-    "సవరణతో లోక్‌సభ సీట్లు 543 నుంచి గరిష్ఠంగా 850కి"
-   ],
-   "why": "ఇదే సమావేశాల్లో ప్రత్యేక సిట్టింగ్‌కు దారి తెరిచే ఉండటంతో మహిళా రిజర్వేషన్ సవరణపై ఆసక్తి పెరిగింది.",
-   "en": {
-    "h": "Parliament's Monsoon session unprorogued for record 88 days",
-    "p": "Parliament's Monsoon session has not been prorogued for 88 days since both Houses were adjourned indefinitely on August 13, beating the 2008 record of 87 days. This keeps open the option of a special sitting within the same session. PTI said this is being linked to speculation about a constitutional amendment to implement women's reservation.",
-    "pts": [
-     "Previous record was 87 days in 2008",
-     "Special sitting needs 2 days' notice, new session 14 days",
-     "Amendment would raise Lok Sabha seats from 543 to up to 850"
-    ],
-    "why": "With a special sitting still possible in this session, interest in the women's reservation amendment has grown.",
-    "cat": "India · Parliament",
-    "statl": "Monsoon session not prorogued"
-   },
-   "hi": {
-    "h": "संसद का मानसून सत्र रिकॉर्ड 88 दिनों से सत्रावसान के बिना",
-    "p": "13 अगस्त को दोनों सदनों के अनिश्चितकाल के लिए स्थगित होने के बाद से संसद के मानसून सत्र का 88 दिनों से सत्रावसान नहीं हुआ है। इसने 2008 का 87 दिनों का रिकॉर्ड तोड़ दिया है। इससे इसी सत्र में विशेष बैठक बुलाने का विकल्प खुला है। पीटीआई के अनुसार इसे महिला आरक्षण लागू करने के लिए संविधान संशोधन की अटकलों से जोड़ा जा रहा है।",
-    "pts": [
-     "पिछला रिकॉर्ड 2008 में 87 दिन",
-     "विशेष बैठक के लिए 2 दिन, नए सत्र के लिए 14 दिन का नोटिस",
-     "संशोधन से लोकसभा सीटें 543 से अधिकतम 850"
-    ],
-    "why": "इसी सत्र में विशेष बैठक का रास्ता खुला होने से महिला आरक्षण संशोधन पर दिलचस्पी बढ़ी है।",
-    "cat": "भारत · संसद",
-    "statl": "मानसून सत्र का सत्रावसान नहीं"
-   },
-   "d": "09.11.2026",
-   "t": "11:05"
   },
   {
    "cat": "🪔 దీపావళి · ఆలేరు",

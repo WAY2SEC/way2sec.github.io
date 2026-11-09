@@ -1,8 +1,154 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 61,
+ "count": 64,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "16 నవం.",
+   "statl": "నుంచి శబరిమలకు ప్రత్యేక బస్సులు",
+   "h": "శబరిమలకు టీజీఎస్ఆర్టీసీ ప్రత్యేక బస్సులు: నవంబర్ 16 నుంచి",
+   "p": "అయ్యప్ప భక్తుల కోసం 2026-27 సీజన్‌లో శబరిమలకు ప్రత్యేక బస్సులు నడుపుతామని టీజీఎస్ఆర్టీసీ ప్రకటించింది. మండల పూజ సీజన్‌లో నవంబర్ 16 నుంచి డిసెంబర్ 27 వరకు, మకరవిళక్కు సీజన్‌లో డిసెంబర్ 30 నుంచి 2027 జనవరి 20 వరకు ఈ సేవలు ఉంటాయి. బస్సు బుక్ చేసే గురుస్వాములకు ఉచిత ప్రయాణం కల్పిస్తారు. ఈ బస్సులకు కేరళ ప్రభుత్వం సరిహద్దు పన్ను మినహాయింపు ఇచ్చింది.",
+   "pts": [
+    "మండల పూజ సేవలు: నవంబర్ 16 – డిసెంబర్ 27",
+    "మకరవిళక్కు సేవలు: డిసెంబర్ 30 – జనవరి 20",
+    "బుకింగ్: www.tgsrtcbus.in, ఫోన్ 040-69440000"
+   ],
+   "why": "శబరిమల వెళ్లే తెలంగాణ అయ్యప్ప భక్తులు ముందుగానే బస్సులు బుక్ చేసుకునే వీలు కలుగుతుంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tgsrtc-announces-special-buses-to-sabarimala-for-2026-27-season",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "TGSRTC special buses to Sabarimala from November 16",
+    "p": "TGSRTC has announced special buses to Sabarimala for Ayyappa devotees in the 2026-27 season. Services will run from November 16 to December 27 in the Mandala Pooja season and from December 30 to January 20, 2027 in the Makara Vilakku season. Guruswamis who book a bus will travel free. The Kerala government has exempted these buses from border tax.",
+    "pts": [
+     "Mandala Pooja services: November 16 – December 27",
+     "Makara Vilakku services: December 30 – January 20",
+     "Booking: www.tgsrtcbus.in, phone 040-69440000"
+    ],
+    "why": "Ayyappa devotees from Telangana going to Sabarimala can book buses in advance.",
+    "cat": "Telangana · RTC",
+    "statl": "Sabarimala special buses from"
+   },
+   "hi": {
+    "h": "टीजीएसआरटीसी की सबरीमला के लिए विशेष बसें: 16 नवंबर से",
+    "p": "टीजीएसआरटीसी ने 2026-27 सीज़न में अयप्पा भक्तों के लिए सबरीमला तक विशेष बसें चलाने की घोषणा की है। मंडल पूजा सीज़न में 16 नवंबर से 27 दिसंबर तक और मकरविलक्कु सीज़न में 30 दिसंबर से 20 जनवरी 2027 तक ये सेवाएं चलेंगी। बस बुक करने वाले गुरुस्वामियों को मुफ्त यात्रा मिलेगी। केरल सरकार ने इन बसों को सीमा कर से छूट दी है।",
+    "pts": [
+     "मंडल पूजा सेवाएं: 16 नवंबर – 27 दिसंबर",
+     "मकरविलक्कु सेवाएं: 30 दिसंबर – 20 जनवरी",
+     "बुकिंग: www.tgsrtcbus.in, फोन 040-69440000"
+    ],
+    "why": "सबरीमला जाने वाले तेलंगाना के अयप्पा भक्त पहले से बसें बुक कर सकेंगे।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "से सबरीमला के लिए विशेष बसें"
+   },
+   "d": "09.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "తెలంగాణ · వైద్య విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "3,670",
+   "statl": "2026-27లో పీజీ వైద్య సీట్లు",
+   "h": "తెలంగాణలో పీజీ వైద్య సీట్లు 3,670కి; వసతులపై వైద్యుల ఆందోళన",
+   "p": "2026-27 విద్యా సంవత్సరానికి తెలంగాణలో పీజీ వైద్య సీట్ల సంఖ్య 3,670కి చేరింది. అయితే అధ్యాపకులు, పరికరాలు, క్లినికల్ వసతులు పెంచకుండానే సీట్లు పెంచుతున్నారని జూనియర్ డాక్టర్ల సంఘం (టీజూడా), హెచ్‌ఆర్‌డీఏ వైద్యులు అంటున్నారు. ఎంఆర్ఐ వంటి పరికరాలు లేని చోట్ల కూడా రేడియాలజీలో 10 అదనపు సీట్లు ఇచ్చారని చెప్పారు. వసతులపై ఆడిట్ చేయకపోతే నిరసనలు తీవ్రం చేస్తామని విద్యార్థి సంఘాలు హెచ్చరించాయి.",
+   "pts": [
+    "2026-27లో మొత్తం పీజీ వైద్య సీట్లు 3,670",
+    "ఎంఆర్ఐ లేకున్నా రేడియాలజీలో 10 అదనపు సీట్లు: ఆరోపణ",
+    "అధ్యాపక ఖాళీలు భర్తీ చేయాలని డిమాండ్"
+   ],
+   "why": "నీట్ పీజీ రాసే తెలంగాణ విద్యార్థులకు ఎక్కువ సీట్లు దక్కుతాయి; అయితే శిక్షణ నాణ్యతపై ప్రశ్నలు వస్తున్నాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-pg-medical-seats-rise-to-3670-but-infrastructure-gaps-raise-concerns",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "en": {
+    "h": "Telangana PG medical seats rise to 3,670; doctors flag infrastructure gaps",
+    "p": "Telangana's PG medical seats have risen to 3,670 for the 2026-27 academic year. But the junior doctors' association (TJUDA) and HRDA doctors say seats are being increased without adding faculty, equipment or clinical facilities. They said 10 additional radiology seats were given even where equipment such as MRI machines is lacking. Student bodies warned they will intensify protests if infrastructure is not audited.",
+    "pts": [
+     "Total PG medical seats in 2026-27: 3,670",
+     "Allegation: 10 extra radiology seats despite no MRI",
+     "Demand to fill faculty vacancies"
+    ],
+    "why": "Telangana NEET PG aspirants get more seats, but questions are being raised about training quality.",
+    "cat": "Telangana · Medical education",
+    "statl": "PG medical seats in 2026-27"
+   },
+   "hi": {
+    "h": "तेलंगाना में पीजी मेडिकल सीटें 3,670; सुविधाओं पर डॉक्टरों की चिंता",
+    "p": "शैक्षणिक वर्ष 2026-27 के लिए तेलंगाना में पीजी मेडिकल सीटों की संख्या 3,670 हो गई है। लेकिन जूनियर डॉक्टर्स एसोसिएशन (टीजूडा) और एचआरडीए के डॉक्टरों का कहना है कि शिक्षक, उपकरण और क्लिनिकल सुविधाएं बढ़ाए बिना सीटें बढ़ाई जा रही हैं। उन्होंने कहा कि एमआरआई जैसी मशीनें न होने पर भी रेडियोलॉजी में 10 अतिरिक्त सीटें दी गईं। छात्र संगठनों ने चेतावनी दी कि सुविधाओं का ऑडिट न हुआ तो आंदोलन तेज करेंगे।",
+    "pts": [
+     "2026-27 में कुल पीजी मेडिकल सीटें 3,670",
+     "आरोप: एमआरआई के बिना रेडियोलॉजी में 10 अतिरिक्त सीटें",
+     "शिक्षकों के रिक्त पद भरने की मांग"
+    ],
+    "why": "नीट पीजी देने वाले तेलंगाना के छात्रों को अधिक सीटें मिलेंगी, पर प्रशिक्षण की गुणवत्ता पर सवाल उठ रहे हैं।",
+    "cat": "तेलंगाना · चिकित्सा शिक्षा",
+    "statl": "2026-27 में पीजी मेडिकल सीटें"
+   },
+   "d": "09.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "కర్ణాటక · బెంగళూరు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "7",
+   "statl": "హత్యకు గురైన కుటుంబ సభ్యులు",
+   "h": "బెంగళూరు కుటుంబ హత్యల కేసు: ఏడుగురి మృతదేహాలూ లభ్యం",
+   "p": "బెంగళూరుకు చెందిన ఒకే కుటుంబంలోని ఏడుగురి హత్య కేసులో చివరి రెండు మృతదేహాలను పోలీసులు సోమవారం శిరాడి ఘాట్‌లో గుర్తించారు. మిగతా బాధితుల అవశేషాలు మైసూరులోని చాముండి కొండల దిగువన, తమిళనాడులోని సేలంలో లభించాయి. ప్రధాన నిందితుడు పోలీసు కస్టడీలో ఉన్నాడు. కుటుంబ కలహాలే కారణం కావచ్చని పోలీసులు భావిస్తున్నారు. అంత్యక్రియల కోసం దర్యాప్తు చివరి దశకు చేరింది.",
+   "pts": [
+    "చివరి రెండు మృతదేహాలు శిరాడి ఘాట్‌లో లభ్యం",
+    "మిగతా అవశేషాలు మైసూరు, సేలంలో గుర్తింపు",
+    "ప్రధాన నిందితుడు పోలీసు కస్టడీలో"
+   ],
+   "why": "అన్ని మృతదేహాలు దొరకడంతో బాధిత కుటుంబాలు కలిసి అంత్యక్రియలు నిర్వహించే అవకాశం కలుగుతుంది.",
+   "src": "NewsBytes",
+   "url": "https://www.newsbytesapp.com/news/india/search-ends-as-all-7-bengaluru-family-murder-victims-found/tldr",
+   "sec": [
+    "india"
+   ],
+   "st": "KA",
+   "place": "ka-bengaluru",
+   "en": {
+    "h": "Bengaluru family murder case: bodies of all seven victims found",
+    "p": "In the case of the murder of seven members of a Bengaluru family, police found the last two bodies at Shiradi Ghat on Monday. The remains of the other victims were found at the foothills of Chamundi Hills in Mysuru and in Salem, Tamil Nadu. The main accused is in police custody. Police believe family disputes may have been the cause. The investigation has reached its final stage so last rites can be held.",
+    "pts": [
+     "Last two bodies found at Shiradi Ghat",
+     "Other remains found in Mysuru and Salem",
+     "Main accused in police custody"
+    ],
+    "why": "With all bodies found, the victims' families can hold the last rites together.",
+    "cat": "Karnataka · Bengaluru",
+    "statl": "family members murdered"
+   },
+   "hi": {
+    "h": "बेंगलुरु परिवार हत्याकांड: सातों पीड़ितों के शव मिले",
+    "p": "बेंगलुरु के एक ही परिवार के सात सदस्यों की हत्या के मामले में पुलिस ने सोमवार को शिराडी घाट में आखिरी दो शव बरामद किए। बाकी पीड़ितों के अवशेष मैसूरु में चामुंडी पहाड़ियों की तलहटी और तमिलनाडु के सेलम में मिले थे। मुख्य आरोपी पुलिस हिरासत में है। पुलिस को लगता है कि पारिवारिक कलह इसकी वजह हो सकती है। अंतिम संस्कार के लिए जांच अंतिम चरण में है।",
+    "pts": [
+     "आखिरी दो शव शिराडी घाट में मिले",
+     "बाकी अवशेष मैसूरु और सेलम में मिले",
+     "मुख्य आरोपी पुलिस हिरासत में"
+    ],
+    "why": "सभी शव मिलने से पीड़ित परिवार एक साथ अंतिम संस्कार कर सकेंगे।",
+    "cat": "कर्नाटक · बेंगलुरु",
+    "statl": "परिवार के सदस्यों की हत्या"
+   },
+   "d": "09.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
