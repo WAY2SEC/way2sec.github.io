@@ -1,8 +1,154 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 3,
+ "count": 6,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "పూర్తిగా కాలిపోయిన కంపెనీలు",
+   "h": "కూకట్‌పల్లి ఆస్బెస్టాస్ కాలనీలో భారీ అగ్నిప్రమాదం; మూడు కంపెనీలు దగ్ధం",
+   "p": "హైదరాబాద్ కూకట్‌పల్లి పోలీస్ స్టేషన్ పరిధిలోని ఆస్బెస్టాస్ కాలనీలో పేపర్ టీ కప్పులు, ప్లేట్లు తయారు చేసే కంపెనీలో భారీ మంటలు చెలరేగాయి. మంటలు పక్కనే ఉన్న జీఆర్‌టీ నెయ్యి, హల్దీరామ్ గోదాములకు వ్యాపించాయి. మూడు కంపెనీలు, ఐదు ఆటోలు, ఒక డీసీఎం వాహనం పూర్తిగా కాలిపోయాయి. షార్ట్ సర్క్యూట్ కారణమని పోలీసులు అనుమానిస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కూకట్‌పల్లి",
+   "pts": [
+    "పేపర్ కప్పుల కంపెనీ నుంచి నెయ్యి, హల్దీరామ్ గోదాములకు మంటలు",
+    "ఐదు ఆటోలు, ఒక డీసీఎం వాహనం దగ్ధం",
+    "షార్ట్ సర్క్యూట్ కారణమని పోలీసుల అనుమానం"
+   ],
+   "why": "పారిశ్రామిక ప్రాంతాల్లో గోదాములు, కంపెనీలు అగ్నిమాపక భద్రత ఏర్పాట్లు సరిచూసుకోవాల్సిన అవసరాన్ని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Major fire at Kukatpally's Asbestos Colony; three companies gutted",
+    "p": "A major fire broke out at a company making paper tea cups and plates in Asbestos Colony under Kukatpally police station limits in Hyderabad. The flames spread to nearby GRT Ghee and Haldiram godowns. Three companies, five autos and a DCM vehicle were completely burnt. Police suspect a short circuit caused the fire.",
+    "pts": [
+     "Fire spread from paper cup unit to ghee and Haldiram godowns",
+     "Five autos and a DCM vehicle burnt",
+     "Police suspect a short circuit"
+    ],
+    "why": "The incident is a reminder for godowns and companies in industrial areas to check their fire safety arrangements.",
+    "cat": "Hyderabad · Fire",
+    "statl": "Companies completely gutted"
+   },
+   "hi": {
+    "h": "कूकटपल्ली की एस्बेस्टस कॉलोनी में भीषण आग; तीन कंपनियां जलकर खाक",
+    "p": "हैदराबाद में कूकटपल्ली थाना क्षेत्र की एस्बेस्टस कॉलोनी में पेपर चाय कप और प्लेट बनाने वाली एक कंपनी में भीषण आग लग गई। आग पास के जीआरटी घी और हल्दीराम गोदामों तक फैल गई। तीन कंपनियां, पांच ऑटो और एक डीसीएम वाहन पूरी तरह जल गए। पुलिस को शॉर्ट सर्किट से आग लगने का संदेह है।",
+    "pts": [
+     "पेपर कप कंपनी से घी और हल्दीराम गोदामों तक फैली आग",
+     "पांच ऑटो और एक डीसीएम वाहन जले",
+     "पुलिस को शॉर्ट सर्किट का संदेह"
+    ],
+    "why": "यह घटना औद्योगिक इलाकों के गोदामों और कंपनियों को अग्नि सुरक्षा इंतजाम जांचने की याद दिलाती है।",
+    "cat": "हैदराबाद · आग",
+    "statl": "पूरी तरह जली कंपनियां"
+   },
+   "d": "09.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · సహకార ఎన్నికలు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "2,050",
+   "statl": "ప్రాథమిక వ్యవసాయ సహకార సంఘాలు",
+   "h": "ఏపీలో 14 ఏళ్ల తర్వాత సహకార సంఘాల ఎన్నికలకు సన్నాహాలు",
+   "p": "రాష్ట్రంలోని సుమారు 2,050 ప్రాథమిక వ్యవసాయ సహకార పరపతి సంఘాలకు ఎన్నికలు నిర్వహించేందుకు కూటమి ప్రభుత్వం కసరత్తు ప్రారంభించింది. నోటిఫికేషన్ కోసం ఎదురుచూడకుండా ఒకే దశ ఎన్నికలకు ఏర్పాట్లు మొదలుపెట్టాలని జిల్లా సహకార అధికారులను ఆదేశించారు. పది రోజుల్లో నివేదిక ఇవ్వాలన్నారు. జనవరిలో జిల్లాల వారీగా ఎన్నికలు జరగొచ్చు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "సుమారు 14 ఏళ్లుగా సహకార ఎన్నికలు జరగలేదు",
+    "ఒకే దశ ఎన్నికలకు ఏర్పాట్లు చేయాలని ఆదేశం",
+    "10 రోజుల్లో చర్యల నివేదిక ఇవ్వాలి"
+   ],
+   "why": "సహకార సంఘాల్లో సభ్యులైన లక్షలాది రైతులు తమ ప్రతినిధులను ఎన్నుకునే అవకాశం మళ్లీ రానుంది.",
+   "en": {
+    "h": "Andhra Pradesh prepares for cooperative society polls after 14 years",
+    "p": "The coalition government has begun groundwork to hold elections to about 2,050 primary agricultural cooperative credit societies in the state. District cooperative officers have been told to start arrangements for a single-phase poll without waiting for a notification and to report within ten days. Elections may be held district-wise in January.",
+    "pts": [
+     "No cooperative elections held for about 14 years",
+     "Officers told to prepare for a single-phase poll",
+     "Action report due within 10 days"
+    ],
+    "why": "Lakhs of farmers who are members of cooperative societies will again get a chance to elect their representatives.",
+    "cat": "AP · Cooperative polls",
+    "statl": "Primary agricultural cooperative societies"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 14 साल बाद सहकारी समिति चुनाव की तैयारी",
+    "p": "गठबंधन सरकार ने राज्य की करीब 2,050 प्राथमिक कृषि सहकारी ऋण समितियों के चुनाव कराने की तैयारी शुरू कर दी है। जिला सहकारी अधिकारियों से कहा गया है कि अधिसूचना का इंतजार किए बिना एक चरण के चुनाव की व्यवस्था शुरू करें और दस दिन में रिपोर्ट दें। जनवरी में जिलेवार चुनाव हो सकते हैं।",
+    "pts": [
+     "करीब 14 साल से सहकारी चुनाव नहीं हुए",
+     "एक चरण के चुनाव की तैयारी का आदेश",
+     "10 दिन में कार्रवाई रिपोर्ट देनी होगी"
+    ],
+    "why": "सहकारी समितियों के सदस्य लाखों किसानों को फिर से अपने प्रतिनिधि चुनने का मौका मिलेगा।",
+    "cat": "आंध्र प्रदेश · सहकारी चुनाव",
+    "statl": "प्राथमिक कृषि सहकारी समितियां"
+   },
+   "d": "09.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · కర్నూలు",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "4",
+   "statl": "దీపావళి రాత్రి అగ్నిప్రమాద ప్రాంతాలు",
+   "h": "దీపావళి రాత్రి ఏపీలో పలుచోట్ల అగ్నిప్రమాదాలు; కర్నూలులో ఐటీసీ ఆవరణలో మంటలు",
+   "p": "దీపావళి సందర్భంగా రాష్ట్రంలో పలుచోట్ల అగ్నిప్రమాదాలు జరిగాయి. కర్నూలు నగరం మధ్యలోని ఐటీసీ ఆవరణలో టపాసుల నిప్పురవ్వలు పడి చెట్లు కాలిపోయాయి. గన్నవరంలో గృహోపకరణాల దుకాణంలో, ఆమదాలవలసలో ఆయిల్ గోదాంలో, తెనాలిలో ఎలక్ట్రిక్ స్కూటర్ షోరూంలో మంటలు చెలరేగాయి. అగ్నిమాపక సిబ్బంది మంటలను అదుపులోకి తెచ్చారు.",
+   "src": "Andhra Jyothy, ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "కర్నూలు ఐటీసీ ఆవరణలో టపాసుల రవ్వలతో మంటలు",
+    "ఆమదాలవలసలో తారాజువ్వ ఆయిల్ గోదాంపై పడి ప్రమాదం",
+    "తెనాలి షోరూంలో మూడు ఈ-స్కూటర్లు దగ్ధం"
+   ],
+   "why": "జనావాసాలు, దుకాణాలు, గోదాముల దగ్గర టపాసులు కాల్చేటప్పుడు జాగ్రత్తలు ఎంత ముఖ్యమో ఈ ఘటనలు చూపిస్తున్నాయి.",
+   "en": {
+    "h": "Diwali night fires at several places in AP; blaze in Kurnool ITC compound",
+    "p": "Several fire accidents took place in the state during Diwali. In central Kurnool city, sparks from firecrackers fell into the ITC compound and burnt trees. Fires also broke out at a home appliances shop in Gannavaram, an oil godown in Amadalavalasa and an electric scooter showroom in Tenali. Fire personnel brought the flames under control.",
+    "pts": [
+     "Cracker sparks set fire in Kurnool's ITC compound",
+     "Sky-rocket hit an oil godown in Amadalavalasa",
+     "Three e-scooters burnt in Tenali showroom"
+    ],
+    "why": "These incidents show how important it is to take care while bursting crackers near homes, shops and godowns.",
+    "cat": "AP · Kurnool",
+    "statl": "Places hit by Diwali night fires"
+   },
+   "hi": {
+    "h": "दिवाली की रात आंध्र में कई जगह आग; कुर्नूल के आईटीसी परिसर में लपटें",
+    "p": "दिवाली के मौके पर राज्य में कई जगह आग की घटनाएं हुईं। कुर्नूल शहर के बीच स्थित आईटीसी परिसर में पटाखों की चिंगारियां गिरने से पेड़ जल गए। गन्नवरम में घरेलू उपकरण की दुकान, आमदालवलसा में तेल गोदाम और तेनाली में इलेक्ट्रिक स्कूटर शोरूम में आग लगी। दमकल कर्मियों ने आग पर काबू पाया।",
+    "pts": [
+     "कुर्नूल आईटीसी परिसर में पटाखों की चिंगारी से आग",
+     "आमदालवलसा में रॉकेट तेल गोदाम पर गिरा",
+     "तेनाली शोरूम में तीन ई-स्कूटर जले"
+    ],
+    "why": "ये घटनाएं बताती हैं कि घरों, दुकानों और गोदामों के पास पटाखे जलाते समय सावधानी कितनी जरूरी है।",
+    "cat": "आंध्र प्रदेश · कुर्नूल",
+    "statl": "दिवाली की रात आग वाली जगहें"
+   },
+   "d": "09.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "హైదరాబాద్ · ఆరోగ్యం",
    "col": "--c-power",

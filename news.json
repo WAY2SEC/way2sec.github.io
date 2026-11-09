@@ -1,8 +1,154 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T06:41:59+05:30",
+ "updated": "2026-11-09T07:10:13+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "పూర్తిగా కాలిపోయిన కంపెనీలు",
+   "h": "కూకట్‌పల్లి ఆస్బెస్టాస్ కాలనీలో భారీ అగ్నిప్రమాదం; మూడు కంపెనీలు దగ్ధం",
+   "p": "హైదరాబాద్ కూకట్‌పల్లి పోలీస్ స్టేషన్ పరిధిలోని ఆస్బెస్టాస్ కాలనీలో పేపర్ టీ కప్పులు, ప్లేట్లు తయారు చేసే కంపెనీలో భారీ మంటలు చెలరేగాయి. మంటలు పక్కనే ఉన్న జీఆర్‌టీ నెయ్యి, హల్దీరామ్ గోదాములకు వ్యాపించాయి. మూడు కంపెనీలు, ఐదు ఆటోలు, ఒక డీసీఎం వాహనం పూర్తిగా కాలిపోయాయి. షార్ట్ సర్క్యూట్ కారణమని పోలీసులు అనుమానిస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కూకట్‌పల్లి",
+   "pts": [
+    "పేపర్ కప్పుల కంపెనీ నుంచి నెయ్యి, హల్దీరామ్ గోదాములకు మంటలు",
+    "ఐదు ఆటోలు, ఒక డీసీఎం వాహనం దగ్ధం",
+    "షార్ట్ సర్క్యూట్ కారణమని పోలీసుల అనుమానం"
+   ],
+   "why": "పారిశ్రామిక ప్రాంతాల్లో గోదాములు, కంపెనీలు అగ్నిమాపక భద్రత ఏర్పాట్లు సరిచూసుకోవాల్సిన అవసరాన్ని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Major fire at Kukatpally's Asbestos Colony; three companies gutted",
+    "p": "A major fire broke out at a company making paper tea cups and plates in Asbestos Colony under Kukatpally police station limits in Hyderabad. The flames spread to nearby GRT Ghee and Haldiram godowns. Three companies, five autos and a DCM vehicle were completely burnt. Police suspect a short circuit caused the fire.",
+    "pts": [
+     "Fire spread from paper cup unit to ghee and Haldiram godowns",
+     "Five autos and a DCM vehicle burnt",
+     "Police suspect a short circuit"
+    ],
+    "why": "The incident is a reminder for godowns and companies in industrial areas to check their fire safety arrangements.",
+    "cat": "Hyderabad · Fire",
+    "statl": "Companies completely gutted"
+   },
+   "hi": {
+    "h": "कूकटपल्ली की एस्बेस्टस कॉलोनी में भीषण आग; तीन कंपनियां जलकर खाक",
+    "p": "हैदराबाद में कूकटपल्ली थाना क्षेत्र की एस्बेस्टस कॉलोनी में पेपर चाय कप और प्लेट बनाने वाली एक कंपनी में भीषण आग लग गई। आग पास के जीआरटी घी और हल्दीराम गोदामों तक फैल गई। तीन कंपनियां, पांच ऑटो और एक डीसीएम वाहन पूरी तरह जल गए। पुलिस को शॉर्ट सर्किट से आग लगने का संदेह है।",
+    "pts": [
+     "पेपर कप कंपनी से घी और हल्दीराम गोदामों तक फैली आग",
+     "पांच ऑटो और एक डीसीएम वाहन जले",
+     "पुलिस को शॉर्ट सर्किट का संदेह"
+    ],
+    "why": "यह घटना औद्योगिक इलाकों के गोदामों और कंपनियों को अग्नि सुरक्षा इंतजाम जांचने की याद दिलाती है।",
+    "cat": "हैदराबाद · आग",
+    "statl": "पूरी तरह जली कंपनियां"
+   },
+   "d": "09.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · సహకార ఎన్నికలు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "2,050",
+   "statl": "ప్రాథమిక వ్యవసాయ సహకార సంఘాలు",
+   "h": "ఏపీలో 14 ఏళ్ల తర్వాత సహకార సంఘాల ఎన్నికలకు సన్నాహాలు",
+   "p": "రాష్ట్రంలోని సుమారు 2,050 ప్రాథమిక వ్యవసాయ సహకార పరపతి సంఘాలకు ఎన్నికలు నిర్వహించేందుకు కూటమి ప్రభుత్వం కసరత్తు ప్రారంభించింది. నోటిఫికేషన్ కోసం ఎదురుచూడకుండా ఒకే దశ ఎన్నికలకు ఏర్పాట్లు మొదలుపెట్టాలని జిల్లా సహకార అధికారులను ఆదేశించారు. పది రోజుల్లో నివేదిక ఇవ్వాలన్నారు. జనవరిలో జిల్లాల వారీగా ఎన్నికలు జరగొచ్చు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "సుమారు 14 ఏళ్లుగా సహకార ఎన్నికలు జరగలేదు",
+    "ఒకే దశ ఎన్నికలకు ఏర్పాట్లు చేయాలని ఆదేశం",
+    "10 రోజుల్లో చర్యల నివేదిక ఇవ్వాలి"
+   ],
+   "why": "సహకార సంఘాల్లో సభ్యులైన లక్షలాది రైతులు తమ ప్రతినిధులను ఎన్నుకునే అవకాశం మళ్లీ రానుంది.",
+   "en": {
+    "h": "Andhra Pradesh prepares for cooperative society polls after 14 years",
+    "p": "The coalition government has begun groundwork to hold elections to about 2,050 primary agricultural cooperative credit societies in the state. District cooperative officers have been told to start arrangements for a single-phase poll without waiting for a notification and to report within ten days. Elections may be held district-wise in January.",
+    "pts": [
+     "No cooperative elections held for about 14 years",
+     "Officers told to prepare for a single-phase poll",
+     "Action report due within 10 days"
+    ],
+    "why": "Lakhs of farmers who are members of cooperative societies will again get a chance to elect their representatives.",
+    "cat": "AP · Cooperative polls",
+    "statl": "Primary agricultural cooperative societies"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 14 साल बाद सहकारी समिति चुनाव की तैयारी",
+    "p": "गठबंधन सरकार ने राज्य की करीब 2,050 प्राथमिक कृषि सहकारी ऋण समितियों के चुनाव कराने की तैयारी शुरू कर दी है। जिला सहकारी अधिकारियों से कहा गया है कि अधिसूचना का इंतजार किए बिना एक चरण के चुनाव की व्यवस्था शुरू करें और दस दिन में रिपोर्ट दें। जनवरी में जिलेवार चुनाव हो सकते हैं।",
+    "pts": [
+     "करीब 14 साल से सहकारी चुनाव नहीं हुए",
+     "एक चरण के चुनाव की तैयारी का आदेश",
+     "10 दिन में कार्रवाई रिपोर्ट देनी होगी"
+    ],
+    "why": "सहकारी समितियों के सदस्य लाखों किसानों को फिर से अपने प्रतिनिधि चुनने का मौका मिलेगा।",
+    "cat": "आंध्र प्रदेश · सहकारी चुनाव",
+    "statl": "प्राथमिक कृषि सहकारी समितियां"
+   },
+   "d": "09.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · కర్నూలు",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "4",
+   "statl": "దీపావళి రాత్రి అగ్నిప్రమాద ప్రాంతాలు",
+   "h": "దీపావళి రాత్రి ఏపీలో పలుచోట్ల అగ్నిప్రమాదాలు; కర్నూలులో ఐటీసీ ఆవరణలో మంటలు",
+   "p": "దీపావళి సందర్భంగా రాష్ట్రంలో పలుచోట్ల అగ్నిప్రమాదాలు జరిగాయి. కర్నూలు నగరం మధ్యలోని ఐటీసీ ఆవరణలో టపాసుల నిప్పురవ్వలు పడి చెట్లు కాలిపోయాయి. గన్నవరంలో గృహోపకరణాల దుకాణంలో, ఆమదాలవలసలో ఆయిల్ గోదాంలో, తెనాలిలో ఎలక్ట్రిక్ స్కూటర్ షోరూంలో మంటలు చెలరేగాయి. అగ్నిమాపక సిబ్బంది మంటలను అదుపులోకి తెచ్చారు.",
+   "src": "Andhra Jyothy, ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "కర్నూలు ఐటీసీ ఆవరణలో టపాసుల రవ్వలతో మంటలు",
+    "ఆమదాలవలసలో తారాజువ్వ ఆయిల్ గోదాంపై పడి ప్రమాదం",
+    "తెనాలి షోరూంలో మూడు ఈ-స్కూటర్లు దగ్ధం"
+   ],
+   "why": "జనావాసాలు, దుకాణాలు, గోదాముల దగ్గర టపాసులు కాల్చేటప్పుడు జాగ్రత్తలు ఎంత ముఖ్యమో ఈ ఘటనలు చూపిస్తున్నాయి.",
+   "en": {
+    "h": "Diwali night fires at several places in AP; blaze in Kurnool ITC compound",
+    "p": "Several fire accidents took place in the state during Diwali. In central Kurnool city, sparks from firecrackers fell into the ITC compound and burnt trees. Fires also broke out at a home appliances shop in Gannavaram, an oil godown in Amadalavalasa and an electric scooter showroom in Tenali. Fire personnel brought the flames under control.",
+    "pts": [
+     "Cracker sparks set fire in Kurnool's ITC compound",
+     "Sky-rocket hit an oil godown in Amadalavalasa",
+     "Three e-scooters burnt in Tenali showroom"
+    ],
+    "why": "These incidents show how important it is to take care while bursting crackers near homes, shops and godowns.",
+    "cat": "AP · Kurnool",
+    "statl": "Places hit by Diwali night fires"
+   },
+   "hi": {
+    "h": "दिवाली की रात आंध्र में कई जगह आग; कुर्नूल के आईटीसी परिसर में लपटें",
+    "p": "दिवाली के मौके पर राज्य में कई जगह आग की घटनाएं हुईं। कुर्नूल शहर के बीच स्थित आईटीसी परिसर में पटाखों की चिंगारियां गिरने से पेड़ जल गए। गन्नवरम में घरेलू उपकरण की दुकान, आमदालवलसा में तेल गोदाम और तेनाली में इलेक्ट्रिक स्कूटर शोरूम में आग लगी। दमकल कर्मियों ने आग पर काबू पाया।",
+    "pts": [
+     "कुर्नूल आईटीसी परिसर में पटाखों की चिंगारी से आग",
+     "आमदालवलसा में रॉकेट तेल गोदाम पर गिरा",
+     "तेनाली शोरूम में तीन ई-स्कूटर जले"
+    ],
+    "why": "ये घटनाएं बताती हैं कि घरों, दुकानों और गोदामों के पास पटाखे जलाते समय सावधानी कितनी जरूरी है।",
+    "cat": "आंध्र प्रदेश · कुर्नूल",
+    "statl": "दिवाली की रात आग वाली जगहें"
+   },
+   "d": "09.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "హైదరాబాద్ · ఆరోగ్యం",
    "col": "--c-power",
@@ -1520,296 +1666,6 @@
     "cat": "उत्तराखंड · हरिद्वार",
     "statl": "बंदी के बाद फिर बही गंगा"
    }
-  },
-  {
-   "cat": "బిహార్ · విద్యుత్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "125 యూనిట్లు",
-   "statl": "ఉచిత విద్యుత్ వదులుకోవాలని విజ్ఞప్తి",
-   "h": "ఉచిత విద్యుత్ వదులుకోండి: సంపన్నులకు బిహార్ సీఎం పిలుపు, డిసెంబర్ 1 నుంచి ప్రచారం",
-   "p": "ఆర్థికంగా స్థిరపడిన కుటుంబాలు, ఆదాయపు పన్ను చెల్లింపుదారులు 125 యూనిట్ల ఉచిత విద్యుత్‌ను స్వచ్ఛందంగా వదులుకోవాలని బిహార్ ముఖ్యమంత్రి సామ్రాట్ చౌదరి మళ్లీ కోరారు. ఇందుకోసం డిసెంబర్ 1 నుంచి ప్రత్యేక ప్రచారం చేపట్టనున్నారు. విద్యుత్ రాయితీలపై రాష్ట్రం ఏటా సుమారు ₹23,000 కోట్లు ఖర్చు చేస్తోందని, ఒక్కో కుటుంబానికి ఏటా సుమారు ₹10,000 రాయితీ అందుతోందని ఆయన తెలిపారు.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/bihar-to-launch-drive-from-dec-1-to-encourage-well-off-people-to-surrender-power-subsidy/3093687/",
-   "sec": [
-    "india"
-   ],
-   "st": "BR",
-   "place": "IN",
-   "pts": [
-    "డిసెంబర్ 1 నుంచి రాయితీ స్వచ్ఛంద విరమణ ప్రచారం",
-    "విద్యుత్ రాయితీలపై ఏటా సుమారు ₹23,000 కోట్లు",
-    "వదులుకున్నవారికి గుర్తింపు ఇస్తామన్న సీఎం"
-   ],
-   "why": "బిహార్‌లో ఉచిత విద్యుత్ పొందుతున్న ఆదాయపు పన్ను చెల్లింపుదారుల కుటుంబాలను ఈ ప్రచారం నేరుగా ఉద్దేశించింది.",
-   "d": "08.11.2026",
-   "t": "17:05",
-   "en": {
-    "h": "Give up free power: Bihar CM urges well-off; drive from December 1",
-    "p": "Bihar Chief Minister Samrat Choudhary again urged well-off families and income tax payers to voluntarily give up 125 units of free electricity. A special campaign for this will begin on December 1. He said the state spends about ₹23,000 crore a year on electricity subsidies and each family gets a subsidy of about ₹10,000 a year.",
-    "pts": [
-     "Voluntary subsidy surrender campaign from December 1",
-     "About ₹23,000 crore a year spent on power subsidies",
-     "CM said those who give it up will be recognised"
-    ],
-    "why": "The campaign is aimed directly at income-tax-paying families in Bihar who get free electricity.",
-    "cat": "Bihar · Electricity",
-    "statl": "Appeal to give up free power"
-   },
-   "hi": {
-    "h": "मुफ्त बिजली छोड़ें: बिहार सीएम की संपन्न लोगों से अपील, 1 दिसंबर से अभियान",
-    "p": "बिहार के मुख्यमंत्री सम्राट चौधरी ने संपन्न परिवारों और आयकर दाताओं से 125 यूनिट मुफ्त बिजली स्वेच्छा से छोड़ने की फिर अपील की। इसके लिए 1 दिसंबर से विशेष अभियान शुरू होगा। उन्होंने बताया कि राज्य बिजली सब्सिडी पर हर साल लगभग ₹23,000 करोड़ खर्च करता है और हर परिवार को सालाना लगभग ₹10,000 की सब्सिडी मिलती है।",
-    "pts": [
-     "1 दिसंबर से स्वैच्छिक सब्सिडी त्याग अभियान",
-     "बिजली सब्सिडी पर सालाना लगभग ₹23,000 करोड़",
-     "सीएम बोले, सब्सिडी छोड़ने वालों को सम्मान मिलेगा"
-    ],
-    "why": "यह अभियान बिहार में मुफ्त बिजली पाने वाले आयकर दाता परिवारों पर सीधे केंद्रित है।",
-    "cat": "बिहार · बिजली",
-    "statl": "मुफ्त बिजली छोड़ने की अपील"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ఓటర్ల జాబితా",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "73.39 లక్షలు",
-   "statl": "ఏఎస్‌డీడీ జాబితాలో ఉన్న ఓటర్లు",
-   "h": "ఏఎస్‌డీడీ ఓటర్లకు మరో అవకాశం: తుది జాబితాలో చేరేందుకు కొత్త ప్రచారం",
-   "p": "ఎస్ఐఆర్‌లో గైర్హాజరు, మారిన చిరునామా, మృతి, నకిలీ (ఏఎస్‌డీడీ)గా గుర్తించిన ఓటర్ల కోసం తెలంగాణ ఎన్నికల అధికారులు కొత్త ప్రచారం చేపట్టనున్నారు. బూత్ స్థాయి అధికారులు కొత్త ఎన్యూమరేషన్ ఫారాలు ఇచ్చి అర్హులు తుది జాబితాలో చేరేలా సహాయం చేస్తారు. రాష్ట్రంలో 3.38 కోట్ల ఓటర్లలో 73.39 లక్షల మంది ఈ జాబితాలో ఉన్నారు. తుది జాబితా నవంబర్ 30న విడుదల కానుంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/second-chance-for-asdd-voters-to-join-final-voter-list-in-telangana",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "బూత్‌వారీ ఏఎస్‌డీడీ జాబితా పోలింగ్ కేంద్రాలు, సీఈఓ వెబ్‌సైట్‌లో",
-    "ఇప్పటికే సుమారు 6 లక్షల మంది ఫారం-6 దాఖలు",
-    "నోటీసులు, అభ్యంతరాల పరిష్కారానికి గడువు నవంబర్ 26"
-   ],
-   "why": "ఓటర్ల జాబితా నుంచి పేరు తొలగే ప్రమాదం ఉన్నవారు నవంబర్ 26 లోపు తమ పేరు సరిచూసుకోవాలి.",
-   "d": "08.11.2026",
-   "t": "16:35",
-   "en": {
-    "h": "Second chance for ASDD voters: new drive to join Telangana's final list",
-    "p": "Telangana election officials will run a fresh drive for voters marked Absent, Shifted, Dead or Duplicate (ASDD) during the SIR. Booth Level Officers will hand out new enumeration forms and help eligible voters get into the final roll. Of the state's 3.38 crore voters, 73.39 lakh are on this list. The final roll will be published on November 30.",
-    "pts": [
-     "Booth-wise ASDD list at polling stations and on the CEO website",
-     "About 6 lakh voters have already filed Form-6",
-     "Deadline for notices and objections is November 26"
-    ],
-    "why": "Voters at risk of being dropped from the roll should check their names before November 26.",
-    "cat": "Telangana · Voter list",
-    "statl": "Voters on the ASDD list"
-   },
-   "hi": {
-    "h": "एएसडीडी मतदाताओं को दूसरा मौका: अंतिम सूची में जुड़ने के लिए नया अभियान",
-    "p": "एसआईआर के दौरान अनुपस्थित, स्थानांतरित, मृत या डुप्लिकेट (एएसडीडी) चिह्नित मतदाताओं के लिए तेलंगाना के चुनाव अधिकारी नया अभियान चलाएंगे। बूथ स्तरीय अधिकारी नए गणना फॉर्म देकर पात्र मतदाताओं को अंतिम सूची में शामिल होने में मदद करेंगे। राज्य के 3.38 करोड़ मतदाताओं में से 73.39 लाख इस सूची में हैं। अंतिम सूची 30 नवंबर को जारी होगी।",
-    "pts": [
-     "बूथवार एएसडीडी सूची मतदान केंद्रों और सीईओ वेबसाइट पर",
-     "लगभग 6 लाख मतदाता पहले ही फॉर्म-6 भर चुके",
-     "नोटिस और आपत्तियों के निपटारे की समय सीमा 26 नवंबर"
-    ],
-    "why": "जिन मतदाताओं के नाम सूची से हटने का खतरा है, वे 26 नवंबर से पहले अपना नाम जांच लें।",
-    "cat": "तेलंगाना · मतदाता सूची",
-    "statl": "एएसडीडी सूची में मतदाता"
-   }
-  },
-  {
-   "cat": "కర్ణాటక · బెంగళూరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "177 టీఎంసీ",
-   "statl": "తమిళనాడుకు ఏటా ఇవ్వాల్సిన కావేరి నీరు",
-   "h": "మేకెదాటు జలాశయంపై ఐక్యత కోరిన కర్ణాటక సీఎం శివకుమార్",
-   "p": "మేకెదాటు బ్యాలెన్సింగ్ జలాశయం విషయంలో సహకరించాలని కర్ణాటక ముఖ్యమంత్రి డీకే శివకుమార్ ఆదివారం తమిళనాడు సీఎం విజయ్‌ను కోరారు. సుప్రీంకోర్టు నిర్దేశం ప్రకారం తమిళనాడుకు ఏటా 177 టీఎంసీ కావేరి నీరు విడుదల చేస్తామని, ఈ జలాశయంతో తమిళనాడుకూ లాభమేనని చెప్పారు. పరిశీలనకు ఒక బృందాన్ని పంపాలని విజయ్‌ను కోరారు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/fighting-days-are-over-dk-shivakumar-appeals-to-tamil-nadu-cm-vijay-for-unity-over-mekedatu-reservoir-issue20261108134457/",
-   "sec": [
-    "india"
-   ],
-   "st": "KA",
-   "place": "st-KA",
-   "pts": [
-    "పోరాటాల రోజులు ముగిశాయన్న శివకుమార్",
-    "పరిహార అడవుల పెంపకానికి సుమారు 5,400 హెక్టార్ల భూమి గుర్తింపు",
-    "నీటిని దుర్వినియోగం చేయబోమని హామీ"
-   ],
-   "why": "కావేరి నీటిపై ఆధారపడిన కర్ణాటక, తమిళనాడు రైతులు, బెంగళూరు ప్రజలపై ఈ ప్రాజెక్టు ప్రభావం ఉంటుంది.",
-   "d": "08.11.2026",
-   "t": "16:35",
-   "en": {
-    "h": "Karnataka CM Shivakumar seeks unity on Mekedatu reservoir",
-    "p": "Karnataka Chief Minister DK Shivakumar on Sunday asked Tamil Nadu CM Vijay to cooperate on the Mekedatu balancing reservoir. He said Karnataka will release 177 TMC of Cauvery water to Tamil Nadu every year as directed by the Supreme Court, and that the reservoir will benefit Tamil Nadu too. He asked Vijay to send a team to study it.",
-    "pts": [
-     "Shivakumar said the fighting days are over",
-     "About 5,400 hectares identified for compensatory afforestation",
-     "Assured the water will not be misused"
-    ],
-    "why": "The project affects farmers in Karnataka and Tamil Nadu and Bengaluru residents who depend on Cauvery water.",
-    "cat": "Karnataka · Bengaluru",
-    "statl": "Cauvery water owed to Tamil Nadu yearly"
-   },
-   "hi": {
-    "h": "मेकेदातु जलाशय पर कर्नाटक के सीएम शिवकुमार ने एकता की अपील की",
-    "p": "कर्नाटक के मुख्यमंत्री डीके शिवकुमार ने रविवार को तमिलनाडु के मुख्यमंत्री विजय से मेकेदातु बैलेंसिंग जलाशय पर सहयोग की अपील की। उन्होंने कहा कि सुप्रीम कोर्ट के निर्देश के अनुसार तमिलनाडु को हर साल 177 टीएमसी कावेरी पानी छोड़ा जाएगा और इस जलाशय से तमिलनाडु को भी फायदा होगा। उन्होंने विजय से अध्ययन के लिए एक टीम भेजने को कहा।",
-    "pts": [
-     "शिवकुमार ने कहा, लड़ाई के दिन खत्म हो गए",
-     "प्रतिपूरक वनीकरण के लिए लगभग 5,400 हेक्टेयर भूमि चिह्नित",
-     "पानी का दुरुपयोग न करने का आश्वासन"
-    ],
-    "why": "इस परियोजना का असर कावेरी पानी पर निर्भर कर्नाटक, तमिलनाडु के किसानों और बेंगलुरु के लोगों पर पड़ेगा।",
-    "cat": "कर्नाटक · बेंगलुरु",
-    "statl": "तमिलनाडु को हर साल देय कावेरी पानी"
-   }
-  },
-  {
-   "cat": "మహారాష్ట్ర · థానే",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "9 మంది",
-   "statl": "సురక్షితంగా బయటకు తీసిన నివాసితులు",
-   "h": "థానేలో భవనం సీలింగ్ స్లాబ్ కూలింది: 9 మంది సురక్షితం",
-   "p": "మహారాష్ట్రలోని థానే నగరం వర్తక్ నగర్ ప్రాంతంలో 24 ఏళ్ల నాటి నాలుగు అంతస్తుల గణరాజ్ సొసైటీ భవనంలో ఆదివారం ఉదయం సుమారు 9 గంటలకు రెండో అంతస్తు ఫ్లాట్ సీలింగ్ స్లాబ్ కింది ఫ్లాట్‌పై కూలింది. లోపల చిక్కుకున్న వృద్ధ దంపతులు సహా తొమ్మిది మందిని సహాయక బృందాలు ఎలాంటి గాయాలు లేకుండా బయటకు తీశాయి.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/nine-rescued-after-ceiling-slab-collapses-in-thane-building/3093665/",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-thane",
-   "loc": "వర్తక్ నగర్",
-   "pts": [
-    "24 ఏళ్ల నాటి నాలుగు అంతస్తుల భవనంలో ఘటన",
-    "ఫైర్ బ్రిగేడ్, టీడీఆర్ఎఫ్, పోలీసుల సహాయక చర్యలు",
-    "చిక్కుకున్న తొమ్మిది మందికీ గాయాలు లేవు"
-   ],
-   "why": "పాత అపార్ట్‌మెంట్ భవనాల్లో నివసించే కుటుంబాల భద్రతపై ఈ ఘటన మళ్లీ దృష్టి పెట్టింది.",
-   "en": {
-    "h": "Thane building ceiling slab collapses: all 9 trapped rescued safely",
-    "p": "A second-floor ceiling slab collapsed onto the flat below at the 24-year-old, four-storey Ganraj Society building in Thane's Vartak Nagar area, Maharashtra, around 9 am on Sunday. Rescue teams brought out all nine trapped residents, including an elderly couple, without injuries.",
-    "pts": [
-     "Incident in a 24-year-old four-storey building",
-     "Fire brigade, TDRF and police carried out rescue",
-     "None of the nine trapped people was hurt"
-    ],
-    "why": "The incident again draws attention to the safety of families living in old apartment buildings.",
-    "cat": "Maharashtra · Thane",
-    "statl": "Residents rescued safely"
-   },
-   "hi": {
-    "h": "ठाणे में इमारत की छत का स्लैब गिरा: फंसे सभी 9 लोग सुरक्षित",
-    "p": "महाराष्ट्र के ठाणे शहर के वर्तक नगर इलाके में 24 साल पुरानी चार मंज़िला गणराज सोसाइटी इमारत में रविवार सुबह करीब 9 बजे दूसरी मंज़िल के फ्लैट की छत का स्लैब नीचे के फ्लैट पर गिर गया। बचाव दलों ने एक बुज़ुर्ग दंपती समेत फंसे सभी नौ लोगों को बिना किसी चोट के बाहर निकाला।",
-    "pts": [
-     "24 साल पुरानी चार मंज़िला इमारत में हादसा",
-     "फायर ब्रिगेड, टीडीआरएफ और पुलिस ने बचाव किया",
-     "फंसे नौ लोगों में से किसी को चोट नहीं"
-    ],
-    "why": "इस घटना ने पुरानी अपार्टमेंट इमारतों में रहने वाले परिवारों की सुरक्षा पर फिर ध्यान खींचा है।",
-    "cat": "महाराष्ट्र · ठाणे",
-    "statl": "सुरक्षित निकाले गए निवासी"
-   },
-   "d": "08.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "ప్రపంచం · బంగ్లాదేశ్",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "2024",
-   "statl": "ఆగస్టు 5న హసీనా భారత్‌కు వచ్చిన ఏడాది",
-   "h": "హసీనాను అప్పగించాలని భారత్‌ను మళ్లీ కోరిన బంగ్లాదేశ్",
-   "p": "పదవీచ్యుత ప్రధాని షేక్ హసీనాను భారత్ నుంచి వెనక్కి తీసుకురావడానికి చట్టపరమైన చర్యలు తీసుకుంటున్నామని బంగ్లాదేశ్ న్యాయ మంత్రి ఎండీ అసదుజ్జమాన్ ఆదివారం ఢాకాలో చెప్పారు. అప్పగింత ఒప్పందం కింద ఇప్పటికే అభ్యర్థించామన్నారు. అభ్యర్థనలు అందాయని, వాటిని పరిశీలిస్తున్నామని భారత విదేశాంగ శాఖ చెబుతోంది; ఇంకా నిర్ణయం ప్రకటించలేదు.",
-   "src": "PTI",
-   "url": "https://www.siasat.com/bangladesh-calls-hasina-convicted-criminal-seeks-extradition-3571711/",
-   "sec": [
-    "world",
-    "india"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అప్పగింత ఒప్పందం బాధ్యత బంగ్లా హోం శాఖది",
-    "2025 నవంబర్‌లో హసీనాకు గైర్హాజరీలో శిక్ష",
-    "భారత్ ఇంకా నిర్ణయం ప్రకటించలేదు"
-   ],
-   "why": "ఈ అంశం భారత్–బంగ్లాదేశ్ సంబంధాలపై ప్రభావం చూపే కీలక దౌత్య విషయం.",
-   "en": {
-    "h": "Bangladesh again asks India to extradite Sheikh Hasina",
-    "p": "Bangladesh Law Minister Md Asaduzzaman said in Dhaka on Sunday that the government is taking legal steps to bring ousted prime minister Sheikh Hasina back from India. He said a request has already been made under the extradition treaty. India's External Affairs Ministry says the requests were received and are being examined; no decision has been announced.",
-    "pts": [
-     "Bangladesh's Home Ministry handles the extradition treaty",
-     "Hasina sentenced in absentia in November 2025",
-     "India has not yet announced a decision"
-    ],
-    "why": "This is a key diplomatic issue that can affect India–Bangladesh relations.",
-    "cat": "World · Bangladesh",
-    "statl": "Year Hasina came to India, on August 5"
-   },
-   "hi": {
-    "h": "बांग्लादेश ने भारत से शेख हसीना के प्रत्यर्पण की फिर मांग की",
-    "p": "बांग्लादेश के कानून मंत्री एमडी असदुज्ज़मान ने रविवार को ढाका में कहा कि सरकार अपदस्थ प्रधानमंत्री शेख हसीना को भारत से वापस लाने के लिए कानूनी कदम उठा रही है। उन्होंने कहा कि प्रत्यर्पण संधि के तहत अनुरोध पहले ही किया जा चुका है। भारत के विदेश मंत्रालय का कहना है कि अनुरोध मिले हैं और उनकी जांच हो रही है; अभी कोई फैसला घोषित नहीं हुआ है।",
-    "pts": [
-     "प्रत्यर्पण संधि बांग्लादेश का गृह मंत्रालय देखता है",
-     "नवंबर 2025 में हसीना को उनकी गैरमौजूदगी में सज़ा",
-     "भारत ने अभी कोई फैसला घोषित नहीं किया"
-    ],
-    "why": "यह भारत–बांग्लादेश संबंधों पर असर डालने वाला अहम कूटनीतिक मुद्दा है।",
-    "cat": "दुनिया · बांग्लादेश",
-    "statl": "वह साल जब हसीना 5 अगस्त को भारत आईं"
-   },
-   "d": "08.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2,000 కి.మీ.",
-   "statl": "క్షిపణుల పరిధిపై ఎత్తివేసిన స్వీయ పరిమితి",
-   "h": "బాలిస్టిక్ క్షిపణుల పరిధిపై 2,000 కి.మీ. పరిమితి ఎత్తివేసిన ఇరాన్",
-   "p": "తమ బాలిస్టిక్ క్షిపణుల పరిధిపై తామే విధించుకున్న 2,000 కిలోమీటర్ల పరిమితిని ఎత్తివేసినట్లు ఇరాన్ రివల్యూషనరీ గార్డ్ ప్రకటించింది. అయితే అంతకంటే ఎక్కువ దూరం వెళ్లే క్షిపణులు ఇరాన్ వద్ద ఉన్నట్లు తెలియదని నివేదిక పేర్కొంది. మరోవైపు అణు కార్యక్రమంపై ఖతార్ చేసిన ప్రతిపాదనలను ఇరాన్ పరిశీలిస్తోందని ఏపీ వార్తా సంస్థ తెలిపింది.",
-   "src": "ABC News",
-   "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "పరిమితి ఎత్తివేతను ప్రకటించిన రివల్యూషనరీ గార్డ్",
-    "ఖతార్ మధ్యవర్తిత్వ ప్రతిపాదనలపై ఇరాన్ సమీక్ష",
-    "అమెరికా షరతులు అంగీకరించే వరకు అణు చర్చలు లేవు: అధికారులు"
-   ],
-   "why": "గల్ఫ్‌లో ఉద్రిక్తత పెరిగితే అక్కడ పనిచేసే తెలుగువారి భద్రత, చమురు ధరలపై ప్రభావం ఉంటుంది.",
-   "en": {
-    "h": "Iran lifts self-imposed 2,000 km limit on ballistic missile range",
-    "p": "Iran's Revolutionary Guard said it has lifted a self-imposed 2,000 km limit on the range of its ballistic missiles. The report notes Iran is not known to have missiles that go beyond that range. Meanwhile, the AP news agency reported that Iran is reviewing Qatar's proposals on its nuclear programme.",
-    "pts": [
-     "Revolutionary Guard announced lifting the limit",
-     "Iran reviewing Qatar's mediation proposals",
-     "No nuclear talks until US accepts conditions: officials"
-    ],
-    "why": "Rising Gulf tension affects the safety of Telugu people working there and oil prices.",
-    "cat": "World · Iran",
-    "statl": "Self-imposed missile range limit now lifted"
-   },
-   "hi": {
-    "h": "ईरान ने बैलिस्टिक मिसाइलों की 2,000 किमी सीमा हटाई",
-    "p": "ईरान के रिवोल्यूशनरी गार्ड ने कहा कि उसने अपनी बैलिस्टिक मिसाइलों की मारक दूरी पर खुद लगाई 2,000 किलोमीटर की सीमा हटा दी है। रिपोर्ट के अनुसार यह ज्ञात नहीं है कि ईरान के पास इससे ज़्यादा दूरी वाली मिसाइलें हैं। इस बीच, एपी समाचार एजेंसी ने बताया कि ईरान अपने परमाणु कार्यक्रम पर क़तर के प्रस्तावों की समीक्षा कर रहा है।",
-    "pts": [
-     "रिवोल्यूशनरी गार्ड ने सीमा हटाने की घोषणा की",
-     "ईरान क़तर के मध्यस्थता प्रस्तावों की समीक्षा कर रहा है",
-     "अमेरिका शर्तें माने बिना परमाणु वार्ता नहीं: अधिकारी"
-    ],
-    "why": "खाड़ी में तनाव बढ़ने से वहां काम करने वाले तेलुगु लोगों की सुरक्षा और तेल कीमतों पर असर पड़ता है।",
-    "cat": "दुनिया · ईरान",
-    "statl": "मिसाइल दूरी पर खुद लगाई सीमा अब हटी"
-   },
-   "d": "08.11.2026",
-   "t": "16:05"
   },
   {
    "cat": "🎂 జన్మదిన శుభాకాంక్షలు",
