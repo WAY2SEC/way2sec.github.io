@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:59:08+05:30",
+ "updated": "2026-11-09T17:56:15+05:30",
  "version": 1,
  "festival": {
   "key": "diwali-2026",
@@ -28,6 +28,315 @@
   }
  },
  "stories": [
+  {
+   "fest": "diwali-2026",
+   "who": "Andy Burnham",
+   "cat": "🪔 దీపావళి · బ్రిటన్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "బ్రిటన్ ప్రధాని",
+   "statl": "డౌనింగ్ స్ట్రీట్ నుంచి శుభాకాంక్షలు",
+   "h": "దీపావళి, బందీ ఛోడ్ దివస్ శుభాకాంక్షలు తెలిపిన బ్రిటన్ ప్రధాని ఆండీ బర్న్‌హామ్",
+   "p": "బ్రిటన్ ప్రధానమంత్రి ఆండీ బర్న్‌హామ్ తరఫున 10 డౌనింగ్ స్ట్రీట్ ఎక్స్ ఖాతాలో దీపావళి శుభాకాంక్షలు పోస్ట్ అయ్యాయి. దీపావళి, బందీ ఛోడ్ దివస్ జరుపుకుంటున్న అందరికీ ఆనందంగా, ప్రశాంతంగా పండుగ జరగాలని ఆకాంక్షించారు. సంతోషం, శాంతి, సామరస్యం నెలకొనాలని సందేశంలో పేర్కొన్నారు.",
+   "pts": [
+    "10 డౌనింగ్ స్ట్రీట్ ఎక్స్ పోస్ట్‌లో శుభాకాంక్షలు",
+    "దీపావళి, బందీ ఛోడ్ దివస్ రెండింటికీ విషెస్",
+    "శాంతి, సామరస్యం నెలకొనాలని ఆకాంక్ష"
+   ],
+   "why": "బ్రిటన్‌లోని భారతీయ సమాజానికి ప్రధాని కార్యాలయం నుంచి పండుగ శుభాకాంక్షలు అందాయి.",
+   "src": "ANI · The Tribune",
+   "url": "https://www.tribuneindia.com/news/world/british-pm-andy-burnham-israeli-pm-herzog-extend-diwali-greetings/",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "లండన్",
+   "d": "09.11.2026",
+   "t": "17:56",
+   "en": {
+    "cat": "🪔 Diwali · UK",
+    "statl": "Greetings from Downing Street",
+    "h": "UK PM Andy Burnham wishes a happy Diwali and Bandi Chhor Divas",
+    "p": "Diwali greetings on behalf of British Prime Minister Andy Burnham were posted on the 10 Downing Street X account. He wished everyone celebrating Diwali and Bandi Chhor Divas a happy and peaceful festival, hoping for happiness, peace and harmony.",
+    "pts": [
+     "Greetings posted on the 10 Downing Street X account",
+     "Wishes for both Diwali and Bandi Chhor Divas",
+     "Hoped for peace and harmony"
+    ],
+    "why": "The Indian community in Britain received festive greetings from the PM's office."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · ब्रिटेन",
+    "statl": "डाउनिंग स्ट्रीट से शुभकामनाएँ",
+    "h": "ब्रिटेन के प्रधानमंत्री एंडी बर्नहैम ने दी दिवाली और बंदी छोड़ दिवस की शुभकामनाएँ",
+    "p": "ब्रिटेन के प्रधानमंत्री एंडी बर्नहैम की ओर से 10 डाउनिंग स्ट्रीट के एक्स अकाउंट पर दिवाली की शुभकामनाएँ पोस्ट की गईं। उन्होंने दिवाली और बंदी छोड़ दिवस मना रहे सभी लोगों के लिए खुशहाल और शांतिपूर्ण त्योहार की कामना की और सुख, शांति व सद्भाव की आशा जताई।",
+    "pts": [
+     "10 डाउनिंग स्ट्रीट के एक्स पोस्ट में शुभकामनाएँ",
+     "दिवाली और बंदी छोड़ दिवस दोनों की बधाई",
+     "शांति और सद्भाव की कामना"
+    ],
+    "why": "ब्रिटेन के भारतीय समुदाय को प्रधानमंत्री कार्यालय से त्योहार की शुभकामनाएँ मिलीं।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "who": "Isaac Herzog",
+   "cat": "🪔 దీపావళి · ఇజ్రాయెల్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "ఇజ్రాయెల్ అధ్యక్షుడు",
+   "statl": "ముర్ము, మోదీకి శుభాకాంక్షలు",
+   "h": "రాష్ట్రపతి ముర్ము, ప్రధాని మోదీకి దీపావళి శుభాకాంక్షలు తెలిపిన ఇజ్రాయెల్ అధ్యక్షుడు హెర్జోగ్",
+   "p": "ఇజ్రాయెల్ అధ్యక్షుడు ఐజాక్ హెర్జోగ్ తన కార్యాలయ ఎక్స్ ఖాతా ద్వారా దీపావళి శుభాకాంక్షలు తెలిపారు. రాష్ట్రపతి ద్రౌపది ముర్ము, ప్రధాని నరేంద్ర మోదీతో పాటు భారత్‌లోనూ, ప్రపంచవ్యాప్తంగానూ పండుగ జరుపుకుంటున్న ప్రజలకు విషెస్ చెప్పారు. వెలుగుల పండుగ అందరికీ శాంతి, సంతోషం, శ్రేయస్సు తేవాలని ఆకాంక్షించారు.",
+   "pts": [
+    "అధ్యక్ష కార్యాలయం ఎక్స్ పోస్ట్",
+    "ముర్ము, మోదీ, భారత ప్రజలకు శుభాకాంక్షలు",
+    "శాంతి, సంతోషం, శ్రేయస్సు కోరుకున్నారు"
+   ],
+   "why": "భారత్–ఇజ్రాయెల్ మధ్య స్నేహపూర్వక సంబంధాలను ఈ శుభాకాంక్షలు ప్రతిబింబిస్తున్నాయి.",
+   "src": "ANI · The Tribune",
+   "url": "https://www.tribuneindia.com/news/world/british-pm-andy-burnham-israeli-pm-herzog-extend-diwali-greetings/",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "జెరూసలేం",
+   "d": "09.11.2026",
+   "t": "17:56",
+   "en": {
+    "cat": "🪔 Diwali · Israel",
+    "statl": "Greets Murmu and Modi",
+    "h": "Israel's President Herzog wishes President Murmu and PM Modi a happy Diwali",
+    "p": "Israeli President Isaac Herzog extended Diwali greetings through his office's X account. He greeted President Droupadi Murmu, PM Narendra Modi and people celebrating in India and around the world, wishing everyone peace, happiness and prosperity on the festival of lights.",
+    "pts": [
+     "X post from the President's office",
+     "Greetings to Murmu, Modi and the people of India",
+     "Wished peace, happiness and prosperity"
+    ],
+    "why": "The greetings reflect the friendly ties between India and Israel."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · इज़राइल",
+    "statl": "मुर्मू और मोदी को शुभकामनाएँ",
+    "h": "इज़राइल के राष्ट्रपति हर्ज़ोग ने राष्ट्रपति मुर्मू और पीएम मोदी को दी दिवाली की शुभकामनाएँ",
+    "p": "इज़राइल के राष्ट्रपति आइज़ैक हर्ज़ोग ने अपने कार्यालय के एक्स अकाउंट से दिवाली की शुभकामनाएँ दीं। उन्होंने राष्ट्रपति द्रौपदी मुर्मू, प्रधानमंत्री नरेंद्र मोदी और भारत व दुनिया भर में त्योहार मना रहे लोगों को बधाई दी और सबके लिए शांति, खुशी और समृद्धि की कामना की।",
+    "pts": [
+     "राष्ट्रपति कार्यालय का एक्स पोस्ट",
+     "मुर्मू, मोदी और भारत के लोगों को शुभकामनाएँ",
+     "शांति, खुशी और समृद्धि की कामना"
+    ],
+    "why": "ये शुभकामनाएँ भारत-इज़राइल के मैत्रीपूर्ण संबंधों को दर्शाती हैं।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "who": "Embassy of Italy in India",
+   "cat": "🪔 దీపావళి · ఇటలీ",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "ఇటలీ ఎంబసీ",
+   "statl": "హిందూ సమాజానికి విషెస్",
+   "h": "హిందూ సమాజానికి దీపావళి శుభాకాంక్షలు తెలిపిన భారత్‌లోని ఇటలీ రాయబార కార్యాలయం",
+   "p": "భారత్‌లోని ఇటలీ రాయబార కార్యాలయం ఎక్స్‌లో దీపావళి శుభాకాంక్షల సందేశం పోస్ట్ చేసింది. పండుగ జరుపుకుంటున్న హిందూ సమాజానికి శాంతి, శ్రేయస్సు, సంతోషం కలగాలని ఆకాంక్షించింది. వివిధ దేశాల రాయబార కార్యాలయాలతో పాటు ఇటలీ కూడా భారతీయులకు పండుగ విషెస్ అందించింది.",
+   "pts": [
+    "ఎక్స్‌లో ఎంబసీ శుభాకాంక్షల పోస్ట్",
+    "శాంతి, శ్రేయస్సు, సంతోషం కోరుకుంది"
+   ],
+   "why": "విదేశీ రాయబార కార్యాలయాలు భారతీయ పండుగల్లో భాగమవుతున్నాయి.",
+   "src": "ANI · The Tribune",
+   "url": "https://www.tribuneindia.com/news/world/british-pm-andy-burnham-israeli-pm-herzog-extend-diwali-greetings/",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "న్యూఢిల్లీ",
+   "d": "09.11.2026",
+   "t": "17:56",
+   "en": {
+    "cat": "🪔 Diwali · Italy",
+    "statl": "Wishes to the Hindu community",
+    "h": "Italy's embassy in India extends Diwali greetings to the Hindu community",
+    "p": "The Embassy of Italy in India posted a Diwali message on X, wishing peace, prosperity and happiness to the Hindu community celebrating the festival. Italy joined several other diplomatic missions in sending festive wishes to Indians.",
+    "pts": [
+     "Embassy posted greetings on X",
+     "Wished peace, prosperity and happiness"
+    ],
+    "why": "Foreign embassies are joining in India's festivals."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · इटली",
+    "statl": "हिंदू समुदाय को शुभकामनाएँ",
+    "h": "भारत में इटली के दूतावास ने हिंदू समुदाय को दी दिवाली की शुभकामनाएँ",
+    "p": "भारत में इटली के दूतावास ने एक्स पर दिवाली का संदेश पोस्ट किया और त्योहार मना रहे हिंदू समुदाय के लिए शांति, समृद्धि और खुशी की कामना की। कई अन्य दूतावासों के साथ इटली ने भी भारतीयों को पर्व की बधाई दी।",
+    "pts": [
+     "दूतावास ने एक्स पर शुभकामनाएँ पोस्ट कीं",
+     "शांति, समृद्धि और खुशी की कामना"
+    ],
+    "why": "विदेशी दूतावास भारत के त्योहारों में शामिल हो रहे हैं।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "who": "Philip Green",
+   "cat": "🪔 దీపావళి · ఆస్ట్రేలియా",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "ఆస్ట్రేలియా హైకమిషనర్",
+   "statl": "భారత్‌లో చివరి దీపావళి",
+   "h": "భారత్‌లో హైకమిషనర్‌గా ఇదే నా చివరి దీపావళి: ఆస్ట్రేలియా హైకమిషనర్ ఫిలిప్ గ్రీన్",
+   "p": "భారత్‌లో ఆస్ట్రేలియా హైకమిషనర్ ఫిలిప్ గ్రీన్ ఎక్స్‌లో అందరికీ దీపావళి శుభాకాంక్షలు తెలిపారు. సంప్రదాయ దుస్తుల్లో హైకమిషన్ సిబ్బంది నృత్యం చేస్తున్న ఫొటోలను పంచుకున్నారు. హైకమిషనర్‌గా భారత్‌లో ఇదే తన చివరి దీపావళి అని ఆయన పేర్కొన్నారు.",
+   "pts": [
+    "ఎక్స్‌లో దీపావళి శుభాకాంక్షలు",
+    "సంప్రదాయ దుస్తుల్లో సిబ్బంది నృత్య ఫొటోలు",
+    "హైకమిషనర్‌గా చివరి దీపావళి అని వెల్లడి"
+   ],
+   "why": "పదవీకాలం ముగింపులో భారత పండుగను ఆప్యాయంగా గుర్తు చేసుకున్నారు.",
+   "src": "IANS",
+   "url": "https://www.socialnews.xyz/2026/11/08/embassies-from-across-world-extend-warm-wishes-to-indians-on-diwali/",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "న్యూఢిల్లీ",
+   "d": "09.11.2026",
+   "t": "17:56",
+   "en": {
+    "cat": "🪔 Diwali · Australia",
+    "statl": "Last Diwali in India",
+    "h": "My last Diwali in India as High Commissioner, says Australia's Philip Green",
+    "p": "Australia's High Commissioner to India, Philip Green, wished everyone a Happy Diwali on X. He shared photos of High Commission staff dancing in traditional attire and said this was his final Diwali in India as High Commissioner.",
+    "pts": [
+     "Diwali greetings on X",
+     "Photos of staff dancing in traditional attire",
+     "Said it is his last Diwali as High Commissioner"
+    ],
+    "why": "He fondly marked an Indian festival near the end of his tenure."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · ऑस्ट्रेलिया",
+    "statl": "भारत में आख़िरी दिवाली",
+    "h": "भारत में उच्चायुक्त के तौर पर यह मेरी आख़िरी दिवाली: ऑस्ट्रेलिया के फिलिप ग्रीन",
+    "p": "भारत में ऑस्ट्रेलिया के उच्चायुक्त फिलिप ग्रीन ने एक्स पर सभी को दिवाली की शुभकामनाएँ दीं। उन्होंने पारंपरिक परिधान में नाचते उच्चायोग कर्मचारियों की तस्वीरें साझा कीं और कहा कि उच्चायुक्त के रूप में भारत में यह उनकी आख़िरी दिवाली है।",
+    "pts": [
+     "एक्स पर दिवाली की शुभकामनाएँ",
+     "पारंपरिक परिधान में नाचते कर्मचारियों की तस्वीरें",
+     "उच्चायुक्त के रूप में आख़िरी दिवाली"
+    ],
+    "why": "कार्यकाल के अंत में उन्होंने भारतीय त्योहार को आत्मीयता से मनाया।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "who": "Oleksandr Polishchuk",
+   "cat": "🪔 దీపావళి · ఉక్రెయిన్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "ఉక్రెయిన్ రాయబారి",
+   "statl": "వీడియో సందేశం",
+   "h": "దీపావళి వెలుగు ఆశ, శాంతి తేవాలి: ఉక్రెయిన్ రాయబారి పొలిష్‌చుక్",
+   "p": "భారత్‌లో ఉక్రెయిన్ రాయబారి ఒలెక్సాండర్ పొలిష్‌చుక్ ఎక్స్‌లో వీడియో సందేశం ద్వారా దీపావళి శుభాకాంక్షలు తెలిపారు. భారత్‌లోని, ఉక్రెయిన్‌లో ఉన్న భారతీయ మిత్రులకు విషెస్ చెప్పారు. దీపావళి వెలుగులు ఆశను, శాంతిని తీసుకురావాలని ఆకాంక్షించారు.",
+   "pts": [
+    "ఎక్స్‌లో వీడియో సందేశం",
+    "ఉక్రెయిన్‌లోని భారతీయులకూ విషెస్",
+    "ఆశ, శాంతి నెలకొనాలని ఆకాంక్ష"
+   ],
+   "why": "రాయబారి సందేశం శాంతి ఆకాంక్షను ముందుకు తెచ్చింది.",
+   "src": "IANS",
+   "url": "https://www.socialnews.xyz/2026/11/08/embassies-from-across-world-extend-warm-wishes-to-indians-on-diwali/",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "న్యూఢిల్లీ",
+   "d": "09.11.2026",
+   "t": "17:56",
+   "en": {
+    "cat": "🪔 Diwali · Ukraine",
+    "statl": "Video message",
+    "h": "May Diwali's light bring hope and peace, says Ukraine's envoy Polishchuk",
+    "p": "Ukraine's Ambassador to India, Oleksandr Polishchuk, extended Diwali greetings in a video message on X. He sent warm wishes to Indian friends, including those in Ukraine, and hoped the light of Diwali brings hope and peace.",
+    "pts": [
+     "Video message on X",
+     "Wishes to Indians in Ukraine too",
+     "Hoped for hope and peace"
+    ],
+    "why": "The envoy's message highlights the hope for peace."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · यूक्रेन",
+    "statl": "वीडियो संदेश",
+    "h": "दिवाली की रोशनी उम्मीद और शांति लाए: यूक्रेन के राजदूत पोलिशचुक",
+    "p": "भारत में यूक्रेन के राजदूत ओलेक्सांद्र पोलिशचुक ने एक्स पर वीडियो संदेश के ज़रिए दिवाली की शुभकामनाएँ दीं। उन्होंने यूक्रेन में रह रहे भारतीयों सहित सभी भारतीय मित्रों को बधाई दी और कामना की कि दिवाली की रोशनी उम्मीद और शांति लाए।",
+    "pts": [
+     "एक्स पर वीडियो संदेश",
+     "यूक्रेन में रह रहे भारतीयों को भी शुभकामनाएँ",
+     "उम्मीद और शांति की कामना"
+    ],
+    "why": "राजदूत का संदेश शांति की आकांक्षा को सामने लाता है।"
+   }
+  },
+  {
+   "fest": "diwali-2026",
+   "who": "Embassy of Greece in India",
+   "cat": "🪔 దీపావళి · గ్రీస్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "గ్రీస్ ఎంబసీ",
+   "statl": "కాజు బర్ఫీ విషెస్",
+   "h": "జీవితాలు కాజు బర్ఫీలా తీయగా ఉండాలి: గ్రీస్ ఎంబసీ దీపావళి వీడియో",
+   "p": "భారత్‌లోని గ్రీస్ రాయబార కార్యాలయం ఎక్స్‌లో దీపావళి వీడియో పోస్ట్ చేసింది. అందులో పలువురు గ్రీక్ దౌత్యవేత్తలు దీపావళి గురించి ప్రశ్నలకు సమాధానాలు ఇచ్చారు. భారతీయ మిత్రుల జీవితాలు కాజు బర్ఫీలా తీయగా ఉండాలని ఒకరు ఆకాంక్షించగా, వెలుగుకు సరిహద్దులు లేవని, దాన్ని పంచుకోవాలని మరొకరు అన్నారు.",
+   "pts": [
+    "ఎక్స్‌లో దౌత్యవేత్తల వీడియో",
+    "కాజు బర్ఫీలా తీయని జీవితం కావాలని ఆకాంక్ష",
+    "వెలుగుకు సరిహద్దులు లేవని సందేశం"
+   ],
+   "why": "సరదా వీడియోతో గ్రీస్ దౌత్యవేత్తలు భారతీయులకు దగ్గరయ్యారు.",
+   "src": "IANS",
+   "url": "https://www.socialnews.xyz/2026/11/08/embassies-from-across-world-extend-warm-wishes-to-indians-on-diwali/",
+   "sec": [
+    "wishes",
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "loc": "న్యూఢిల్లీ",
+   "d": "09.11.2026",
+   "t": "17:56",
+   "en": {
+    "cat": "🪔 Diwali · Greece",
+    "statl": "Kaju barfi wishes",
+    "h": "May your lives be as sweet as kaju barfi: Greek embassy's Diwali video",
+    "p": "The Embassy of Greece in India posted a Diwali video on X in which several Greek diplomats answered questions about the festival. One wished that Indian friends' lives be as sweet as kaju barfi, while another said light is meant to be shared and knows no borders.",
+    "pts": [
+     "Video of diplomats on X",
+     "Wished lives as sweet as kaju barfi",
+     "Said light knows no borders"
+    ],
+    "why": "With a light-hearted video, Greek diplomats connected with Indians."
+   },
+   "hi": {
+    "cat": "🪔 दिवाली · ग्रीस",
+    "statl": "काजू बर्फी वाली शुभकामनाएँ",
+    "h": "ज़िंदगी काजू बर्फी जैसी मीठी हो: ग्रीस दूतावास का दिवाली वीडियो",
+    "p": "भारत में ग्रीस के दूतावास ने एक्स पर दिवाली का वीडियो पोस्ट किया, जिसमें कई ग्रीक राजनयिकों ने त्योहार से जुड़े सवालों के जवाब दिए। एक ने कामना की कि भारतीय मित्रों की ज़िंदगी काजू बर्फी जैसी मीठी हो, जबकि दूसरे ने कहा कि रोशनी बाँटने के लिए है और उसकी कोई सीमा नहीं होती।",
+    "pts": [
+     "एक्स पर राजनयिकों का वीडियो",
+     "काजू बर्फी जैसी मीठी ज़िंदगी की कामना",
+     "रोशनी की कोई सीमा नहीं"
+    ],
+    "why": "हल्के-फुल्के वीडियो से ग्रीक राजनयिक भारतीयों से जुड़े।"
+   }
+  },
   {
    "fest": "diwali-2026",
    "who": "Mark Carney",
