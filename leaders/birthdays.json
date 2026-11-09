@@ -1,6 +1,6 @@
 {
  "about": "Way2Sec birthday greetings: PM, Telangana + Andhra Pradesh CMs, Dy CMs, ministers, MLAs and MPs. dob = YYYY-MM-DD (or --MM-DD if the year is unknown). verified=true only when a reputable/official source in dob_src states the date. last_posted = year of the last greeting (prevents repeats). photo = path to a photo the user supplied (never download leaders' photos).",
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "leaders": [
   {
    "id": "narendra-modi",
@@ -2214,15 +2214,15 @@
    "party": "INC",
    "post": "Minister, Government of Telangana",
    "dob": "1962-06-20",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "Wikipedia (cites The Hans India, 20 Jun 2021) + OpenSanctions in_sansad record, checked 2026-11-09",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ ఉత్తమ్ కుమార్ రెడ్డి",
+    "role": "తెలంగాణ రాష్ట్ర మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री उत्तम कुमार रेड्डी",
+    "role": "तेलंगाना सरकार में मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -5139,15 +5139,15 @@
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
    "dob": "1983-01-23",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "Wikipedia (cites Firstpost, 12 Jun 2024), checked 2026-11-09",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ నారా లోకేష్",
+    "role": "ఆంధ్రప్రదేశ్ రాష్ట్ర మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री नारा लोकेश",
+    "role": "आंध्र प्रदेश सरकार में मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -7389,15 +7389,15 @@
    "party": "TDP",
    "post": "Union Minister of Civil Aviation",
    "dob": "1987-12-18",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "civilaviation.gov.in minister profile + OpenSanctions in_sansad record, checked 2026-11-09",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ కింజరాపు రామ్మోహన్ నాయుడు",
+    "role": "కేంద్ర పౌర విమానయాన శాఖ మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री किंजरापु राममोहन नायडू",
+    "role": "केंद्रीय नागरिक उड्डयन मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -8039,7 +8039,7 @@
    "party": "BJP",
    "post": "Union Minister of State",
    "dob": "1971-07-11",
-   "dob_src": "to verify",
+   "dob_src": "unconfirmed: OpenSanctions in_sansad record (2026-11-09); official/Wikipedia page not retrievable this run",
    "verified": false,
    "te": {
     "name": "",
