@@ -1,8 +1,205 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 34,
+ "count": 38,
  "stories": [
+  {
+   "cat": "ఏపీ · తిరుమల",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "15 గంటలు",
+   "statl": "సర్వదర్శనానికి నిరీక్షణ",
+   "h": "తిరుమలలో భక్తుల రద్దీ: సర్వదర్శనానికి 15 గంటల సమయం",
+   "p": "తిరుమలలో శ్రీవారి దర్శనానికి భక్తుల రద్దీ కొనసాగుతోంది. టోకెన్లు లేని భక్తులకు సర్వదర్శనానికి సుమారు 15 గంటల సమయం పడుతోంది. కంపార్ట్‌మెంట్లన్నీ నిండిపోయి, క్యూ లైన్లు నారాయణగిరి షెడ్ల వరకు చేరాయి. నిన్న 78,228 మంది భక్తులు స్వామివారిని దర్శించుకున్నారు. హుండీ ఆదాయం రూ.4.01 కోట్లు వచ్చింది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--9th-november-2026-latest-top-news-information-across-telangana-tgs26110900312",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుమల",
+   "pts": [
+    "నిన్న 78,228 మందికి శ్రీవారి దర్శనం",
+    "హుండీ ఆదాయం రూ.4.01 కోట్లు",
+    "25,564 మంది తలనీలాలు సమర్పించారు"
+   ],
+   "why": "తిరుమల వెళ్లే భక్తులు ఎక్కువ నిరీక్షణకు సిద్ధంగా ప్రయాణం ప్లాన్ చేసుకోవాలి.",
+   "en": {
+    "h": "Heavy rush at Tirumala: 15-hour wait for sarva darshan",
+    "p": "The rush of devotees for darshan at Tirumala continues. Devotees without tokens are taking about 15 hours for sarva darshan. All compartments are full and queues have reached the Narayanagiri sheds. Yesterday, 78,228 devotees had darshan of the deity. Hundi income was Rs 4.01 crore.",
+    "pts": [
+     "78,228 devotees had darshan yesterday",
+     "Hundi income of Rs 4.01 crore",
+     "25,564 devotees offered tonsure"
+    ],
+    "why": "Devotees going to Tirumala should plan their trip expecting a long wait.",
+    "cat": "Andhra Pradesh · Tirumala",
+    "statl": "Wait for sarva darshan"
+   },
+   "hi": {
+    "h": "तिरुमला में भारी भीड़: सर्व दर्शन के लिए 15 घंटे का इंतजार",
+    "p": "तिरुमला में श्रीवारी के दर्शन के लिए भक्तों की भीड़ जारी है। बिना टोकन वाले भक्तों को सर्व दर्शन में लगभग 15 घंटे लग रहे हैं। सभी कंपार्टमेंट भर गए हैं और कतारें नारायणगिरि शेड तक पहुंच गई हैं। कल 78,228 भक्तों ने दर्शन किए। हुंडी आय 4.01 करोड़ रुपये रही।",
+    "pts": [
+     "कल 78,228 भक्तों ने दर्शन किए",
+     "हुंडी आय 4.01 करोड़ रुपये",
+     "25,564 भक्तों ने मुंडन कराया"
+    ],
+    "why": "तिरुमला जाने वाले भक्त लंबे इंतजार को ध्यान में रखकर यात्रा की योजना बनाएं।",
+    "cat": "आंध्र प्रदेश · तिरुमला",
+    "statl": "सर्व दर्शन के लिए इंतजार"
+   },
+   "d": "09.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "తెలంగాణ · రంగారెడ్డి",
+   "col": "--c-power",
+   "art": "land",
+   "stat": "దగ్ధం",
+   "statl": "పాత రికార్డులు కాలిపోయాయి",
+   "h": "చేవెళ్లలో పాత పట్వారీ కార్యాలయంలో అగ్నిప్రమాదం",
+   "p": "రంగారెడ్డి జిల్లా చేవెళ్ల ఎమ్మార్వో కార్యాలయం సమీపంలోని పాత పట్వారీ కార్యాలయంలో అగ్నిప్రమాదం జరిగింది. మంటలు ఒక్కసారిగా భవనమంతా వ్యాపించాయి. లోపల ఉన్న పాత రికార్డులు, సామగ్రి కాలిపోయాయి. పోలీసులు అగ్నిమాపక శాఖకు సమాచారం ఇచ్చారు. ప్రమాదానికి కారణం ఇంకా తెలియలేదు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--9th-november-2026-latest-top-news-information-across-telangana-tgs26110900312",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "చేవెళ్ల",
+   "pts": [
+    "ఎమ్మార్వో కార్యాలయం సమీపంలోని పాత భవనంలో మంటలు",
+    "పాత రికార్డులు, సామగ్రి దగ్ధం",
+    "పోలీసుల సమాచారంతో అగ్నిమాపక శాఖ రంగంలోకి"
+   ],
+   "why": "ప్రభుత్వ కార్యాలయాల్లో పాత రెవెన్యూ రికార్డుల భద్రతను ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Fire at old patwari office in Chevella, records burnt",
+    "p": "A fire broke out at the old patwari office near the Chevella MRO office in Ranga Reddy district. The flames suddenly spread through the whole building. Old records and belongings inside were burnt. Police informed the fire department. The cause of the fire is not yet known.",
+    "pts": [
+     "Fire in old building near the MRO office",
+     "Old records and belongings burnt",
+     "Fire department alerted by police"
+    ],
+    "why": "The incident is a reminder of the safety of old revenue records in government offices.",
+    "cat": "Telangana · Ranga Reddy",
+    "statl": "Old records burnt"
+   },
+   "hi": {
+    "h": "चेवेल्ला में पुराने पटवारी कार्यालय में आग, रिकॉर्ड जले",
+    "p": "रंगारेड्डी जिले के चेवेल्ला एमआरओ कार्यालय के पास पुराने पटवारी कार्यालय में आग लग गई। लपटें अचानक पूरी इमारत में फैल गईं। अंदर रखे पुराने रिकॉर्ड और सामान जल गए। पुलिस ने अग्निशमन विभाग को सूचना दी। आग का कारण अभी पता नहीं चला है।",
+    "pts": [
+     "एमआरओ कार्यालय के पास पुरानी इमारत में आग",
+     "पुराने रिकॉर्ड और सामान जले",
+     "पुलिस ने अग्निशमन विभाग को सूचना दी"
+    ],
+    "why": "यह घटना सरकारी दफ्तरों में पुराने राजस्व रिकॉर्ड की सुरक्षा की याद दिलाती है।",
+    "cat": "तेलंगाना · रंगारेड्डी",
+    "statl": "पुराने रिकॉर्ड जले"
+   },
+   "d": "09.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ఢిల్లీ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "power",
+   "stat": "AQI 371",
+   "statl": "దీపావళి తర్వాత ఢిల్లీ గాలి",
+   "h": "దీపావళి టపాసులతో ఢిల్లీలో క్షీణించిన గాలి నాణ్యత",
+   "p": "దీపావళి సందర్భంగా పెద్ద ఎత్తున టపాసులు కాల్చడంతో ఢిల్లీలో గాలి నాణ్యత పడిపోయింది. వాయు నాణ్యత సూచీ 371గా నమోదైంది. సోనియా విహార్‌లో 463, జహంగీర్‌పురిలో 450 నమోదయ్యాయి. కోర్టు ఆదేశాలు, ప్రభుత్వ ఆంక్షలు ఉన్నా ప్రజలు టపాసులు కాల్చారు. కాలుష్యంతో శ్వాస సమస్యలు ఎదురవుతున్నాయి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--9th-november-2026-latest-top-news-information-across-telangana-tgs26110900312",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "st-DL",
+   "pts": [
+    "ఢిల్లీలో వాయు నాణ్యత సూచీ 371",
+    "సోనియా విహార్ 463, జహంగీర్‌పురి 450",
+    "ఆంక్షలున్నా భారీగా టపాసుల వినియోగం"
+   ],
+   "why": "ఢిల్లీలో ఉండే తెలుగువారు సహా పిల్లలు, వృద్ధులు, శ్వాసకోశ రోగులు జాగ్రత్తగా ఉండాలి.",
+   "en": {
+    "h": "Delhi air quality worsens after Diwali firecrackers",
+    "p": "Air quality in Delhi fell after large-scale bursting of firecrackers on Diwali. The air quality index was recorded at 371. Sonia Vihar recorded 463 and Jahangirpuri 450. People burst crackers despite court orders and government restrictions. The pollution is causing breathing problems.",
+    "pts": [
+     "Delhi air quality index at 371",
+     "Sonia Vihar 463, Jahangirpuri 450",
+     "Heavy cracker use despite restrictions"
+    ],
+    "why": "People in Delhi, including Telugu residents, especially children, the elderly and respiratory patients, should take care.",
+    "cat": "Delhi · Pollution",
+    "statl": "Delhi air after Diwali"
+   },
+   "hi": {
+    "h": "दिवाली के पटाखों से दिल्ली की हवा खराब हुई",
+    "p": "दिवाली पर बड़े पैमाने पर पटाखे जलाए जाने से दिल्ली में हवा की गुणवत्ता गिर गई। वायु गुणवत्ता सूचकांक 371 दर्ज किया गया। सोनिया विहार में 463 और जहांगीरपुरी में 450 दर्ज हुआ। अदालत के आदेश और सरकारी पाबंदियों के बावजूद लोगों ने पटाखे जलाए। प्रदूषण से सांस की दिक्कतें हो रही हैं।",
+    "pts": [
+     "दिल्ली में वायु गुणवत्ता सूचकांक 371",
+     "सोनिया विहार 463, जहांगीरपुरी 450",
+     "पाबंदियों के बावजूद भारी पटाखेबाजी"
+    ],
+    "why": "दिल्ली में रहने वाले लोग, खासकर बच्चे, बुजुर्ग और सांस के मरीज सावधान रहें।",
+    "cat": "दिल्ली · प्रदूषण",
+    "statl": "दिवाली के बाद दिल्ली की हवा"
+   },
+   "d": "09.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఇరాన్",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "హోర్ముజ్",
+   "statl": "చర్చల్లో కీలక అంశం",
+   "h": "ఇరాన్‌తో ఒప్పందం దగ్గర్లో లేదు: అమెరికా విదేశాంగ మంత్రి రూబియో",
+   "p": "ఇరాన్‌తో చర్చల్లో పురోగతి దగ్గర్లో లేదని అమెరికా విదేశాంగ మంత్రి మార్కో రూబియో చెప్పారు. ఇరాన్ డిమాండ్లు అసంబద్ధంగా ఉన్నాయన్నారు. నౌకా దిగ్బంధాన్ని కాస్పియన్ సముద్రం సహా భూమార్గాలకు విస్తరించే ‘టాస్క్ ఫోర్స్ ఐరన్ గేట్’ అమల్లో ఉందని ట్రంప్ ప్రకటించారు. హోర్ముజ్ జలసంధి తిరిగి తెరవడంపై చర్చలు నిలిచిపోయాయి.",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఇరాన్ డిమాండ్లు అసంబద్ధమన్న రూబియో",
+    "దిగ్బంధం భూమార్గాలు, కాస్పియన్ సముద్రానికి విస్తరణ",
+    "హోర్ముజ్, అణు అంశాలపై చర్చలు నిలిచిపోయాయి"
+   ],
+   "why": "హోర్ముజ్ మార్గం మూసి ఉంటే చమురు సరఫరా, గల్ఫ్‌లోని తెలుగువారిపై ప్రభావం కొనసాగుతుంది.",
+   "en": {
+    "h": "No deal with Iran near, says US Secretary of State Rubio",
+    "p": "US Secretary of State Marco Rubio said talks with Iran are not near a breakthrough. He called Iran's demands absurd. Trump announced that 'Task Force Iron Gate', which extends the naval blockade to land routes including the Caspian Sea, is in effect. Talks on reopening the Strait of Hormuz have stalled.",
+    "pts": [
+     "Rubio calls Iran's demands absurd",
+     "Blockade extended to land routes, Caspian Sea",
+     "Talks on Hormuz, nuclear issue stalled"
+    ],
+    "why": "If the Hormuz route stays shut, the impact on oil supply and Telugu people in the Gulf will continue.",
+    "cat": "World · Iran",
+    "statl": "Key issue in talks"
+   },
+   "hi": {
+    "h": "ईरान से समझौता करीब नहीं: अमेरिकी विदेश मंत्री रुबियो",
+    "p": "अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि ईरान के साथ बातचीत में सफलता करीब नहीं है। उन्होंने ईरान की मांगों को बेतुका बताया। ट्रंप ने घोषणा की कि नौसैनिक नाकेबंदी को कैस्पियन सागर सहित जमीनी रास्तों तक बढ़ाने वाली 'टास्क फोर्स आयरन गेट' लागू है। होर्मुज जलडमरूमध्य को फिर से खोलने पर बातचीत रुकी हुई है।",
+    "pts": [
+     "रुबियो ने ईरान की मांगों को बेतुका बताया",
+     "नाकेबंदी जमीनी रास्तों, कैस्पियन सागर तक बढ़ी",
+     "होर्मुज और परमाणु मुद्दे पर बातचीत रुकी"
+    ],
+    "why": "होर्मुज मार्ग बंद रहने से तेल आपूर्ति और खाड़ी में रहने वाले तेलुगु लोगों पर असर जारी रहेगा।",
+    "cat": "दुनिया · ईरान",
+    "statl": "बातचीत का अहम मुद्दा"
+   },
+   "d": "09.11.2026",
+   "t": "12:35"
+  },
   {
    "cat": "హైదరాబాద్ · ట్రాఫిక్",
    "col": "--c-city",
