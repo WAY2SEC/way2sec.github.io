@@ -1,8 +1,156 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T17:09:49+05:30",
+ "updated": "2026-11-09T17:44:03+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఐటీ ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "1,000",
+   "statl": "రెండేళ్లలో ఉద్యోగుల లక్ష్యం",
+   "h": "హైటెక్ సిటీలో సింప్లిఫై ఆల్ఫా ఏఐ కేంద్రం: 1,000 ఉద్యోగాల లక్ష్యం",
+   "p": "అమెరికా ఆరోగ్య బీమా సంస్థలకు ఏఐ ఆటోమేషన్ సేవలు అందించే హెల్త్‌కేర్ టెక్ సంస్థ సింప్లిఫై ఆల్ఫా, హైదరాబాద్ హైటెక్ సిటీలో తన ఏఐ ఇన్నోవేషన్, ఇంజినీరింగ్ కేంద్రాన్ని సోమవారం ప్రారంభించింది. ఐటీ మంత్రి డి.శ్రీధర్ బాబు దీన్ని ప్రారంభించారు. రెండేళ్లలో సిబ్బందిని 1,000కి పెంచాలని సంస్థ యోచిస్తోంది. అజూర్ సొల్యూషన్ ఆర్కిటెక్ట్‌లు, ఏఐ ఇంజినీర్లు, టెక్నికల్ లీడ్‌ల నియామకం జరుగుతోంది.",
+   "pts": [
+    "ప్రారంభించిన ఐటీ మంత్రి డి.శ్రీధర్ బాబు",
+    "రెండేళ్లలో 1,000 మంది సిబ్బంది లక్ష్యం",
+    "రెండున్నరేళ్లలో 160కి పైగా గ్లోబల్ ఇన్నోవేషన్ కేంద్రాలు: మంత్రి"
+   ],
+   "why": "హైదరాబాద్‌లో ఏఐ, క్లౌడ్ నైపుణ్యాలున్న ఐటీ ఉద్యోగార్థులకు కొత్త అవకాశాలు లభిస్తాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-simplify-alpha-starts-ai-engineering-centre-3572392/",
+   "sec": [
+    "telangana",
+    "jobs",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హైటెక్ సిటీ",
+   "en": {
+    "h": "Simplify Alpha opens AI centre in HITEC City, targets 1,000 jobs",
+    "p": "Simplify Alpha, a healthcare tech company that provides AI automation services to US health insurers, opened its AI Innovation and Engineering Centre in HITEC City, Hyderabad, on Monday. IT Minister D. Sridhar Babu inaugurated it. The company plans to grow its staff to 1,000 in two years. It is hiring Azure solutions architects, AI engineers and technical leads.",
+    "pts": [
+     "Inaugurated by IT Minister D. Sridhar Babu",
+     "Target of 1,000 staff in two years",
+     "Over 160 Global Innovation Centres in two and a half years: Minister"
+    ],
+    "why": "New opportunities for IT job seekers in Hyderabad with AI and cloud skills.",
+    "cat": "Hyderabad · IT Jobs",
+    "statl": "Staff target in two years"
+   },
+   "hi": {
+    "h": "हाईटेक सिटी में सिंप्लिफाई अल्फा का एआई केंद्र: 1,000 नौकरियों का लक्ष्य",
+    "p": "अमेरिकी स्वास्थ्य बीमा कंपनियों को एआई ऑटोमेशन सेवाएं देने वाली हेल्थकेयर टेक कंपनी सिंप्लिफाई अल्फा ने सोमवार को हैदराबाद की हाईटेक सिटी में अपना एआई इनोवेशन और इंजीनियरिंग केंद्र शुरू किया। आईटी मंत्री डी. श्रीधर बाबू ने इसका उद्घाटन किया। कंपनी दो साल में कर्मचारियों की संख्या 1,000 तक बढ़ाने की योजना बना रही है। एज़्योर सॉल्यूशन आर्किटेक्ट, एआई इंजीनियर और टेक्निकल लीड की भर्ती हो रही है।",
+    "pts": [
+     "आईटी मंत्री डी. श्रीधर बाबू ने किया उद्घाटन",
+     "दो साल में 1,000 कर्मचारियों का लक्ष्य",
+     "ढाई साल में 160 से अधिक ग्लोबल इनोवेशन सेंटर: मंत्री"
+    ],
+    "why": "हैदराबाद में एआई और क्लाउड कौशल वाले आईटी नौकरी चाहने वालों को नए अवसर मिलेंगे।",
+    "cat": "हैदराबाद · आईटी नौकरियां",
+    "statl": "दो साल में कर्मचारियों का लक्ष्य"
+   },
+   "d": "09.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · గాజా",
+   "col": "--c-power",
+   "art": "rain",
+   "stat": "5",
+   "statl": "ఇసుక దిబ్బ కూలి మృతులు",
+   "h": "గాజాలో గుడారంపై కూలిన ఇసుక దిబ్బ: నలుగురు చిన్నారులు సహా ఐదుగురు మృతి",
+   "p": "మధ్య గాజాలోని దేర్ అల్-బలాహ్‌లో ఆదివారం ఇసుక దిబ్బ ఒక గుడారంపై కూలి నలుగురు పిల్లలు, ఒక మహిళ చనిపోయారు. మరో ఇద్దరి ఆచూకీ దొరకలేదు. శుక్రవారం వచ్చిన ఈ ఏడాది తొలి శీతాకాల తుఫాను వర్షాలకు సుమారు 70,000 గుడారాలు నీట మునిగాయి. ప్రపంచ దేశాల నిష్క్రియాపరత్వాన్ని గాజా ప్రభుత్వ మీడియా కార్యాలయం సోమవారం తీవ్రంగా విమర్శించింది.",
+   "pts": [
+    "దేర్ అల్-బలాహ్‌లో ప్రమాదం; ఇద్దరు గల్లంతు",
+    "తొలి శీతాకాల తుఫానుకు 70,000 గుడారాలు జలమయం",
+    "సహాయ పరికరాల కొరతతో చేతులతోనే తవ్విన స్థానికులు"
+   ],
+   "why": "చలికాలంలో గాజాలో గుడారాల్లో ఉంటున్న కుటుంబాలు, ముఖ్యంగా పిల్లలు తీవ్ర ప్రమాదంలో ఉన్నారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people",
+   "sec": [
+    "world",
+    "weather"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Sandbank collapses on Gaza tent, killing five including four children",
+    "p": "A sandbank collapsed onto a tent in Deir el-Balah in central Gaza on Sunday, killing four children and a woman. Two others are missing. About 70,000 tents were flooded by rains from the year's first winter storm on Friday. Gaza's Government Media Office on Monday strongly criticised global inaction.",
+    "pts": [
+     "Accident in Deir el-Balah; two missing",
+     "70,000 tents flooded in first winter storm",
+     "Residents dug by hand amid shortage of rescue equipment"
+    ],
+    "why": "Families living in tents in Gaza, especially children, face serious danger this winter.",
+    "cat": "World · Gaza",
+    "statl": "Killed in sandbank collapse"
+   },
+   "hi": {
+    "h": "गाज़ा में तंबू पर ढहा रेत का टीला: चार बच्चों समेत पांच की मौत",
+    "p": "मध्य गाज़ा के देर अल-बलाह में रविवार को रेत का टीला एक तंबू पर गिर गया, जिससे चार बच्चों और एक महिला की मौत हो गई। दो अन्य लोग लापता हैं। शुक्रवार को आए साल के पहले शीतकालीन तूफान की बारिश से करीब 70,000 तंबू पानी में डूब गए। गाज़ा के सरकारी मीडिया कार्यालय ने सोमवार को दुनिया की निष्क्रियता की कड़ी आलोचना की।",
+    "pts": [
+     "देर अल-बलाह में हादसा; दो लापता",
+     "पहले शीतकालीन तूफान में 70,000 तंबू जलमग्न",
+     "बचाव उपकरणों की कमी से लोगों ने हाथों से खुदाई की"
+    ],
+    "why": "सर्दियों में गाज़ा के तंबुओं में रह रहे परिवार, खासकर बच्चे, गंभीर खतरे में हैं।",
+    "cat": "दुनिया · गाज़ा",
+    "statl": "रेत का टीला ढहने से मौतें"
+   },
+   "d": "09.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా-ఇరాన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "7",
+   "statl": "ఇరాన్ ముందస్తు డిమాండ్లు",
+   "h": "ట్రంప్‌తో ఖతార్ ప్రధాని భేటీ: ఇరాన్ కొత్త ప్రతిపాదనపై దృష్టి",
+   "p": "ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మొహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ సోమవారం వైట్‌హౌస్‌లో అధ్యక్షుడు ట్రంప్‌తో భేటీ కానున్నారు. ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ గురువారం కొత్త అణు, శాంతి ప్రతిపాదన పంపింది. ఆంక్షల ఎత్తివేత, అమెరికా సైనిక ఉనికి తగ్గింపు, స్తంభించిన నిధుల విడుదల సహా ఏడు డిమాండ్లను అమెరికా ముందుగా నెరవేర్చాలని ఇరాన్ కోరుతోంది.",
+   "pts": [
+    "ఉపాధ్యక్షుడు జేడీ వాన్స్ కూడా ఖతార్ ప్రధానిని కలుస్తారు",
+    "ఇరాన్ వద్ద 60% శుద్ధి యురేనియం 440.9 కిలోలు: ఐఏఈఏ",
+    "చర్చలు ముందుకు సాగలేదన్న విదేశాంగ మంత్రి రూబియో"
+   ],
+   "why": "గల్ఫ్ దేశాల్లో ఉంటున్న లక్షలాది తెలుగువారు ఈ ప్రాంత ఉద్రిక్తతలను దగ్గరగా గమనిస్తున్నారు.",
+   "src": "Al Jazeera, Reuters",
+   "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Qatar PM meets Trump as focus turns to Iran's new proposal",
+    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani is to meet President Trump at the White House on Monday. On Thursday, Iran sent a new nuclear and peace proposal through Qatari mediators. Iran wants the US to first meet seven demands, including lifting sanctions, reducing its military presence and releasing frozen funds.",
+    "pts": [
+     "Vice President JD Vance will also meet the Qatari PM",
+     "Iran holds 440.9 kg of 60% enriched uranium: IAEA",
+     "Secretary of State Rubio says talks have not progressed"
+    ],
+    "why": "Lakhs of Telugu people living in Gulf countries are closely watching tensions in the region.",
+    "cat": "World · US-Iran",
+    "statl": "Iran's preconditions"
+   },
+   "hi": {
+    "h": "ट्रंप से मिले कतर के प्रधानमंत्री: ईरान के नए प्रस्ताव पर नज़र",
+    "p": "कतर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी सोमवार को व्हाइट हाउस में राष्ट्रपति ट्रंप से मिलने वाले हैं। ईरान ने गुरुवार को कतर के मध्यस्थों के ज़रिए नया परमाणु और शांति प्रस्ताव भेजा। ईरान चाहता है कि अमेरिका पहले प्रतिबंध हटाने, सैन्य मौजूदगी घटाने और जमी हुई निधि जारी करने समेत सात मांगें पूरी करे।",
+    "pts": [
+     "उपराष्ट्रपति जेडी वेंस भी कतर के प्रधानमंत्री से मिलेंगे",
+     "ईरान के पास 60% संवर्धित यूरेनियम 440.9 किलो: आईएईए",
+     "विदेश मंत्री रुबियो ने कहा, बातचीत आगे नहीं बढ़ी"
+    ],
+    "why": "खाड़ी देशों में रह रहे लाखों तेलुगु लोग इस क्षेत्र के तनाव पर करीब से नज़र रख रहे हैं।",
+    "cat": "दुनिया · अमेरिका-ईरान",
+    "statl": "ईरान की पूर्व शर्तें"
+   },
+   "d": "09.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "తెలంగాణ · ఆర్టీసీ",
    "col": "--c-gov",
@@ -1654,152 +1802,6 @@
     "why": "ये नतीजे तय करते हैं कि जिला और मंडल परिषदों का शासन किसके हाथ में होगा।",
     "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
     "statl": "एनडीए की जेडपीटीसी सीटें"
-   },
-   "d": "09.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "తెలంగాణ · మహిళలు",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "1 కోటి",
-   "statl": "2034 నాటికి ఎస్‌హెచ్‌జీ సభ్యుల లక్ష్యం",
-   "h": "2034 నాటికి కోటి మంది మహిళలు స్వయం సహాయక సంఘాల్లో: సీఎం రేవంత్",
-   "p": "వికారాబాద్‌లో జరిగిన కార్యక్రమంలో సీఎం రేవంత్ రెడ్డి మాట్లాడుతూ, 2034 నాటికి స్వయం సహాయక సంఘాల్లో కోటి మంది మహిళలను చేర్చి వారిని కోటీశ్వరులుగా చేయడమే లక్ష్యమన్నారు. ఇప్పటికే సుమారు 70 లక్షల మంది చేరారని చెప్పారు. కొత్తగా 4.5 లక్షల పింఛన్లు మంజూరు చేశామని, వాటిలో 3.5 లక్షలు ఒంటరి మహిళలు, వితంతువులకేనని తెలిపారు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/telangana-govt-targets-one-crore-membership-in-womens-self-help-groups-by-2034-cm-revanth-reddy20261109084829/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "pts": [
-    "34 నెలల్లో మహిళలకు రూ.79,000 కోట్ల బ్యాంకు రుణాలు",
-    "ఉచిత బస్సు ప్రయాణంతో రోజూ 37 లక్షల మందికి లబ్ధి",
-    "ఇందిరమ్మ క్యాంటీన్ల నిర్వహణ మహిళా సంఘాలకు"
-   ],
-   "why": "రాష్ట్రంలోని లక్షలాది స్వయం సహాయక సంఘాల మహిళలు, పింఛనుదారులకు ఈ పథకాలు నేరుగా సంబంధించినవి.",
-   "en": {
-    "h": "One crore women in self-help groups by 2034: CM Revanth",
-    "p": "Speaking at a programme in Vikarabad, CM Revanth Reddy said the goal is to bring one crore women into self-help groups by 2034 and make them crorepatis. He said about 70 lakh have already joined. He said 4.5 lakh new pensions have been sanctioned, of which 3.5 lakh are for single women and widows.",
-    "pts": [
-     "Rs 79,000 crore bank loans to women in 34 months",
-     "Free bus travel benefits 37 lakh women daily",
-     "Indiramma Canteens run by women's groups"
-    ],
-    "why": "These schemes directly concern lakhs of self-help group women and pensioners in the state.",
-    "cat": "Telangana · Women",
-    "statl": "SHG membership target by 2034"
-   },
-   "hi": {
-    "h": "2034 तक एक करोड़ महिलाएं स्वयं सहायता समूहों में: सीएम रेवंत",
-    "p": "विकाराबाद में एक कार्यक्रम में सीएम रेवंत रेड्डी ने कहा कि 2034 तक एक करोड़ महिलाओं को स्वयं सहायता समूहों से जोड़कर उन्हें करोड़पति बनाना लक्ष्य है। उन्होंने बताया कि करीब 70 लाख महिलाएं पहले ही जुड़ चुकी हैं। उन्होंने कहा कि 4.5 लाख नई पेंशन मंजूर की गई हैं, जिनमें 3.5 लाख एकल महिलाओं और विधवाओं के लिए हैं।",
-    "pts": [
-     "34 महीनों में महिलाओं को ₹79,000 करोड़ के बैंक ऋण",
-     "मुफ्त बस यात्रा से रोज़ 37 लाख महिलाओं को लाभ",
-     "इंदिरम्मा कैंटीन का संचालन महिला समूहों को"
-    ],
-    "why": "ये योजनाएं राज्य की लाखों स्वयं सहायता समूह महिलाओं और पेंशनधारकों से सीधे जुड़ी हैं।",
-    "cat": "तेलंगाना · महिलाएं",
-    "statl": "2034 तक एसएचजी सदस्य लक्ष्य"
-   },
-   "d": "09.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "మహారాష్ట్ర · రైతులు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹5,000",
-   "statl": "కరువు రైతులకు తక్షణ సాయం",
-   "h": "మహారాష్ట్ర కరువు రైతులకు రూ.5,000 సాయం; జాల్నాలో రైతులతో షిండే దీపావళి",
-   "p": "మహారాష్ట్ర ఉపముఖ్యమంత్రి ఏక్‌నాథ్ షిండే సోమవారం జాల్నా జిల్లా మౌజ్‌పురిలో కరువు బాధిత రైతు కుటుంబాలను కలిసి వారితో దీపావళి భోజనం చేయనున్నారు. రైతులకు తక్షణ సాయంగా రూ.5,000 అందుతుందని, మరిన్ని ప్రయోజనాలు తర్వాత వస్తాయని ఆయన చెప్పారు. సుమారు 1.5 కోట్ల మంది రైతుల ఖాతాల్లో ఈ మొత్తం జమ చేశామని సీఎం ఫడ్నవీస్ తెలిపారు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/eknath-shinde-to-visit-drought-hit-farmers-in-jalna-today-share-diwali-meal-with-them20261109105355",
-   "sec": [
-    "india",
-    "agri"
-   ],
-   "st": "MH",
-   "place": "mh-jalna",
-   "loc": "మౌజ్‌పురి",
-   "pts": [
-    "సుమారు 1.5 కోట్ల రైతుల ఖాతాల్లో రూ.5,000",
-    "రైతుల విద్యుత్ బిల్లులు, బకాయిలు మాఫీ",
-    "పెద్ద ఎత్తున జలసంరక్షణ పనులు చేపడతామన్న సీఎం"
-   ],
-   "why": "మహారాష్ట్రలో కరువుతో ఇబ్బంది పడుతున్న కోట్లాది రైతు కుటుంబాలకు ఈ సాయం నేరుగా అందుతుంది.",
-   "en": {
-    "h": "Rs 5,000 aid for Maharashtra drought farmers; Shinde's Diwali with farmers in Jalna",
-    "p": "Maharashtra Deputy Chief Minister Eknath Shinde will meet drought-hit farm families in Moujpuri in Jalna district on Monday and share a Diwali meal with them. He said farmers will get Rs 5,000 as immediate relief, with more benefits to follow. CM Fadnavis said the amount has been deposited in the accounts of about 1.5 crore farmers.",
-    "pts": [
-     "Rs 5,000 credited to about 1.5 crore farmers",
-     "Farmers' electricity bills and arrears waived",
-     "CM says water conservation works on a large scale"
-    ],
-    "why": "The aid directly reaches crores of drought-hit farm families in Maharashtra.",
-    "cat": "Maharashtra · Farmers",
-    "statl": "Immediate aid for drought farmers"
-   },
-   "hi": {
-    "h": "महाराष्ट्र के सूखा प्रभावित किसानों को ₹5,000 सहायता; जालना में किसानों संग शिंदे की दिवाली",
-    "p": "महाराष्ट्र के उपमुख्यमंत्री एकनाथ शिंदे सोमवार को जालना जिले के मौजपुरी में सूखा प्रभावित किसान परिवारों से मिलेंगे और उनके साथ दिवाली का भोजन करेंगे। उन्होंने कहा कि किसानों को तत्काल राहत के रूप में ₹5,000 मिलेंगे और बाकी लाभ बाद में मिलेंगे। सीएम फडणवीस ने बताया कि करीब 1.5 करोड़ किसानों के खातों में यह राशि जमा की गई है।",
-    "pts": [
-     "करीब 1.5 करोड़ किसानों के खातों में ₹5,000",
-     "किसानों के बिजली बिल और बकाया माफ",
-     "सीएम ने कहा, बड़े पैमाने पर जल संरक्षण कार्य होंगे"
-    ],
-    "why": "यह सहायता महाराष्ट्र के करोड़ों सूखा प्रभावित किसान परिवारों तक सीधे पहुंचती है।",
-    "cat": "महाराष्ट्र · किसान",
-    "statl": "सूखा किसानों को तत्काल सहायता"
-   },
-   "d": "09.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "2/3",
-   "statl": "తొలగింపునకు సెనేట్‌లో కావాల్సిన మెజారిటీ",
-   "h": "అమెరికా రక్షణ మంత్రి హెగ్‌సెత్ అభిశంసనకు డెమోక్రాట్ నేత జెఫ్రీస్ మద్దతు",
-   "p": "అమెరికా రక్షణ మంత్రి పీట్ హెగ్‌సెత్‌ను అభిశంసించే తీర్మానానికి తాను పూర్తిగా మద్దతిస్తానని హౌస్ డెమోక్రాట్ నేత హకీమ్ జెఫ్రీస్ ఆదివారం చెప్పారు. రిపబ్లికన్ ఎంపీ థామస్ మాసీ ఈ తీర్మానాన్ని త్వరలో తీసుకురానున్నారు. హెగ్‌సెత్ అధికార దుర్వినియోగం చేశారని, ఇరాన్ యుద్ధానికి కారకుడని జెఫ్రీస్ ఆరోపించారు. నవంబర్ 3 మధ్యంతర ఎన్నికల్లో డెమోక్రాట్లు హౌస్, సెనేట్ రెండూ గెలిచారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "జెఫ్రీస్ స్పీకర్ అయ్యే అవకాశం",
-    "ట్రంప్ సన్నిహితులపై దర్యాప్తులు చేస్తామన్న డెమోక్రాట్లు",
-    "డెమోక్రాట్లపై దర్యాప్తు చేయాలని న్యాయశాఖను కోరిన ట్రంప్"
-   ],
-   "why": "ఇరాన్ యుద్ధంపై అమెరికా విధానం, ప్రపంచ రాజకీయాలపై ఈ పరిణామాలు ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Democrat leader Jeffries backs impeachment of US Defence Secretary Hegseth",
-    "p": "House Democratic leader Hakeem Jeffries said on Sunday he fully supports a resolution to impeach US Defence Secretary Pete Hegseth. Republican lawmaker Thomas Massie is set to bring the resolution soon. Jeffries accused Hegseth of abusing power and of being behind the Iran war. Democrats won both the House and the Senate in the November 3 midterm elections.",
-    "pts": [
-     "Jeffries likely to become Speaker",
-     "Democrats vow probes of Trump allies",
-     "Trump asks Justice Department to probe Democrats"
-    ],
-    "why": "These developments could affect US policy on the Iran war and global politics.",
-    "cat": "World · USA",
-    "statl": "Senate majority needed for removal"
-   },
-   "hi": {
-    "h": "डेमोक्रेट नेता जेफ्रीज़ ने अमेरिकी रक्षा मंत्री हेगसेथ पर महाभियोग का समर्थन किया",
-    "p": "हाउस में डेमोक्रेटिक नेता हकीम जेफ्रीज़ ने रविवार को कहा कि वे अमेरिकी रक्षा मंत्री पीट हेगसेथ पर महाभियोग प्रस्ताव का पूरा समर्थन करेंगे। रिपब्लिकन सांसद थॉमस मैसी यह प्रस्ताव जल्द लाने वाले हैं। जेफ्रीज़ ने हेगसेथ पर सत्ता के दुरुपयोग और ईरान युद्ध के पीछे होने का आरोप लगाया। 3 नवंबर के मध्यावधि चुनावों में डेमोक्रेट्स ने हाउस और सीनेट दोनों जीते।",
-    "pts": [
-     "जेफ्रीज़ के स्पीकर बनने की संभावना",
-     "डेमोक्रेट्स ने ट्रंप के करीबियों की जांच का वादा किया",
-     "ट्रंप ने न्याय विभाग से डेमोक्रेट्स की जांच को कहा"
-    ],
-    "why": "ये घटनाक्रम ईरान युद्ध पर अमेरिकी नीति और वैश्विक राजनीति को प्रभावित कर सकते हैं।",
-    "cat": "दुनिया · अमेरिका",
-    "statl": "हटाने के लिए सीनेट में ज़रूरी बहुमत"
    },
    "d": "09.11.2026",
    "t": "11:35"

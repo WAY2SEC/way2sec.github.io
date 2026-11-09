@@ -1,8 +1,156 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 64,
+ "count": 67,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఐటీ ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "1,000",
+   "statl": "రెండేళ్లలో ఉద్యోగుల లక్ష్యం",
+   "h": "హైటెక్ సిటీలో సింప్లిఫై ఆల్ఫా ఏఐ కేంద్రం: 1,000 ఉద్యోగాల లక్ష్యం",
+   "p": "అమెరికా ఆరోగ్య బీమా సంస్థలకు ఏఐ ఆటోమేషన్ సేవలు అందించే హెల్త్‌కేర్ టెక్ సంస్థ సింప్లిఫై ఆల్ఫా, హైదరాబాద్ హైటెక్ సిటీలో తన ఏఐ ఇన్నోవేషన్, ఇంజినీరింగ్ కేంద్రాన్ని సోమవారం ప్రారంభించింది. ఐటీ మంత్రి డి.శ్రీధర్ బాబు దీన్ని ప్రారంభించారు. రెండేళ్లలో సిబ్బందిని 1,000కి పెంచాలని సంస్థ యోచిస్తోంది. అజూర్ సొల్యూషన్ ఆర్కిటెక్ట్‌లు, ఏఐ ఇంజినీర్లు, టెక్నికల్ లీడ్‌ల నియామకం జరుగుతోంది.",
+   "pts": [
+    "ప్రారంభించిన ఐటీ మంత్రి డి.శ్రీధర్ బాబు",
+    "రెండేళ్లలో 1,000 మంది సిబ్బంది లక్ష్యం",
+    "రెండున్నరేళ్లలో 160కి పైగా గ్లోబల్ ఇన్నోవేషన్ కేంద్రాలు: మంత్రి"
+   ],
+   "why": "హైదరాబాద్‌లో ఏఐ, క్లౌడ్ నైపుణ్యాలున్న ఐటీ ఉద్యోగార్థులకు కొత్త అవకాశాలు లభిస్తాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-simplify-alpha-starts-ai-engineering-centre-3572392/",
+   "sec": [
+    "telangana",
+    "jobs",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హైటెక్ సిటీ",
+   "en": {
+    "h": "Simplify Alpha opens AI centre in HITEC City, targets 1,000 jobs",
+    "p": "Simplify Alpha, a healthcare tech company that provides AI automation services to US health insurers, opened its AI Innovation and Engineering Centre in HITEC City, Hyderabad, on Monday. IT Minister D. Sridhar Babu inaugurated it. The company plans to grow its staff to 1,000 in two years. It is hiring Azure solutions architects, AI engineers and technical leads.",
+    "pts": [
+     "Inaugurated by IT Minister D. Sridhar Babu",
+     "Target of 1,000 staff in two years",
+     "Over 160 Global Innovation Centres in two and a half years: Minister"
+    ],
+    "why": "New opportunities for IT job seekers in Hyderabad with AI and cloud skills.",
+    "cat": "Hyderabad · IT Jobs",
+    "statl": "Staff target in two years"
+   },
+   "hi": {
+    "h": "हाईटेक सिटी में सिंप्लिफाई अल्फा का एआई केंद्र: 1,000 नौकरियों का लक्ष्य",
+    "p": "अमेरिकी स्वास्थ्य बीमा कंपनियों को एआई ऑटोमेशन सेवाएं देने वाली हेल्थकेयर टेक कंपनी सिंप्लिफाई अल्फा ने सोमवार को हैदराबाद की हाईटेक सिटी में अपना एआई इनोवेशन और इंजीनियरिंग केंद्र शुरू किया। आईटी मंत्री डी. श्रीधर बाबू ने इसका उद्घाटन किया। कंपनी दो साल में कर्मचारियों की संख्या 1,000 तक बढ़ाने की योजना बना रही है। एज़्योर सॉल्यूशन आर्किटेक्ट, एआई इंजीनियर और टेक्निकल लीड की भर्ती हो रही है।",
+    "pts": [
+     "आईटी मंत्री डी. श्रीधर बाबू ने किया उद्घाटन",
+     "दो साल में 1,000 कर्मचारियों का लक्ष्य",
+     "ढाई साल में 160 से अधिक ग्लोबल इनोवेशन सेंटर: मंत्री"
+    ],
+    "why": "हैदराबाद में एआई और क्लाउड कौशल वाले आईटी नौकरी चाहने वालों को नए अवसर मिलेंगे।",
+    "cat": "हैदराबाद · आईटी नौकरियां",
+    "statl": "दो साल में कर्मचारियों का लक्ष्य"
+   },
+   "d": "09.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · గాజా",
+   "col": "--c-power",
+   "art": "rain",
+   "stat": "5",
+   "statl": "ఇసుక దిబ్బ కూలి మృతులు",
+   "h": "గాజాలో గుడారంపై కూలిన ఇసుక దిబ్బ: నలుగురు చిన్నారులు సహా ఐదుగురు మృతి",
+   "p": "మధ్య గాజాలోని దేర్ అల్-బలాహ్‌లో ఆదివారం ఇసుక దిబ్బ ఒక గుడారంపై కూలి నలుగురు పిల్లలు, ఒక మహిళ చనిపోయారు. మరో ఇద్దరి ఆచూకీ దొరకలేదు. శుక్రవారం వచ్చిన ఈ ఏడాది తొలి శీతాకాల తుఫాను వర్షాలకు సుమారు 70,000 గుడారాలు నీట మునిగాయి. ప్రపంచ దేశాల నిష్క్రియాపరత్వాన్ని గాజా ప్రభుత్వ మీడియా కార్యాలయం సోమవారం తీవ్రంగా విమర్శించింది.",
+   "pts": [
+    "దేర్ అల్-బలాహ్‌లో ప్రమాదం; ఇద్దరు గల్లంతు",
+    "తొలి శీతాకాల తుఫానుకు 70,000 గుడారాలు జలమయం",
+    "సహాయ పరికరాల కొరతతో చేతులతోనే తవ్విన స్థానికులు"
+   ],
+   "why": "చలికాలంలో గాజాలో గుడారాల్లో ఉంటున్న కుటుంబాలు, ముఖ్యంగా పిల్లలు తీవ్ర ప్రమాదంలో ఉన్నారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people",
+   "sec": [
+    "world",
+    "weather"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Sandbank collapses on Gaza tent, killing five including four children",
+    "p": "A sandbank collapsed onto a tent in Deir el-Balah in central Gaza on Sunday, killing four children and a woman. Two others are missing. About 70,000 tents were flooded by rains from the year's first winter storm on Friday. Gaza's Government Media Office on Monday strongly criticised global inaction.",
+    "pts": [
+     "Accident in Deir el-Balah; two missing",
+     "70,000 tents flooded in first winter storm",
+     "Residents dug by hand amid shortage of rescue equipment"
+    ],
+    "why": "Families living in tents in Gaza, especially children, face serious danger this winter.",
+    "cat": "World · Gaza",
+    "statl": "Killed in sandbank collapse"
+   },
+   "hi": {
+    "h": "गाज़ा में तंबू पर ढहा रेत का टीला: चार बच्चों समेत पांच की मौत",
+    "p": "मध्य गाज़ा के देर अल-बलाह में रविवार को रेत का टीला एक तंबू पर गिर गया, जिससे चार बच्चों और एक महिला की मौत हो गई। दो अन्य लोग लापता हैं। शुक्रवार को आए साल के पहले शीतकालीन तूफान की बारिश से करीब 70,000 तंबू पानी में डूब गए। गाज़ा के सरकारी मीडिया कार्यालय ने सोमवार को दुनिया की निष्क्रियता की कड़ी आलोचना की।",
+    "pts": [
+     "देर अल-बलाह में हादसा; दो लापता",
+     "पहले शीतकालीन तूफान में 70,000 तंबू जलमग्न",
+     "बचाव उपकरणों की कमी से लोगों ने हाथों से खुदाई की"
+    ],
+    "why": "सर्दियों में गाज़ा के तंबुओं में रह रहे परिवार, खासकर बच्चे, गंभीर खतरे में हैं।",
+    "cat": "दुनिया · गाज़ा",
+    "statl": "रेत का टीला ढहने से मौतें"
+   },
+   "d": "09.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా-ఇరాన్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "7",
+   "statl": "ఇరాన్ ముందస్తు డిమాండ్లు",
+   "h": "ట్రంప్‌తో ఖతార్ ప్రధాని భేటీ: ఇరాన్ కొత్త ప్రతిపాదనపై దృష్టి",
+   "p": "ఖతార్ ప్రధాని, విదేశాంగ మంత్రి షేక్ మొహమ్మద్ బిన్ అబ్దుల్‌రహ్మాన్ అల్ థానీ సోమవారం వైట్‌హౌస్‌లో అధ్యక్షుడు ట్రంప్‌తో భేటీ కానున్నారు. ఖతార్ మధ్యవర్తుల ద్వారా ఇరాన్ గురువారం కొత్త అణు, శాంతి ప్రతిపాదన పంపింది. ఆంక్షల ఎత్తివేత, అమెరికా సైనిక ఉనికి తగ్గింపు, స్తంభించిన నిధుల విడుదల సహా ఏడు డిమాండ్లను అమెరికా ముందుగా నెరవేర్చాలని ఇరాన్ కోరుతోంది.",
+   "pts": [
+    "ఉపాధ్యక్షుడు జేడీ వాన్స్ కూడా ఖతార్ ప్రధానిని కలుస్తారు",
+    "ఇరాన్ వద్ద 60% శుద్ధి యురేనియం 440.9 కిలోలు: ఐఏఈఏ",
+    "చర్చలు ముందుకు సాగలేదన్న విదేశాంగ మంత్రి రూబియో"
+   ],
+   "why": "గల్ఫ్ దేశాల్లో ఉంటున్న లక్షలాది తెలుగువారు ఈ ప్రాంత ఉద్రిక్తతలను దగ్గరగా గమనిస్తున్నారు.",
+   "src": "Al Jazeera, Reuters",
+   "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "en": {
+    "h": "Qatar PM meets Trump as focus turns to Iran's new proposal",
+    "p": "Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani is to meet President Trump at the White House on Monday. On Thursday, Iran sent a new nuclear and peace proposal through Qatari mediators. Iran wants the US to first meet seven demands, including lifting sanctions, reducing its military presence and releasing frozen funds.",
+    "pts": [
+     "Vice President JD Vance will also meet the Qatari PM",
+     "Iran holds 440.9 kg of 60% enriched uranium: IAEA",
+     "Secretary of State Rubio says talks have not progressed"
+    ],
+    "why": "Lakhs of Telugu people living in Gulf countries are closely watching tensions in the region.",
+    "cat": "World · US-Iran",
+    "statl": "Iran's preconditions"
+   },
+   "hi": {
+    "h": "ट्रंप से मिले कतर के प्रधानमंत्री: ईरान के नए प्रस्ताव पर नज़र",
+    "p": "कतर के प्रधानमंत्री और विदेश मंत्री शेख मोहम्मद बिन अब्दुलरहमान अल थानी सोमवार को व्हाइट हाउस में राष्ट्रपति ट्रंप से मिलने वाले हैं। ईरान ने गुरुवार को कतर के मध्यस्थों के ज़रिए नया परमाणु और शांति प्रस्ताव भेजा। ईरान चाहता है कि अमेरिका पहले प्रतिबंध हटाने, सैन्य मौजूदगी घटाने और जमी हुई निधि जारी करने समेत सात मांगें पूरी करे।",
+    "pts": [
+     "उपराष्ट्रपति जेडी वेंस भी कतर के प्रधानमंत्री से मिलेंगे",
+     "ईरान के पास 60% संवर्धित यूरेनियम 440.9 किलो: आईएईए",
+     "विदेश मंत्री रुबियो ने कहा, बातचीत आगे नहीं बढ़ी"
+    ],
+    "why": "खाड़ी देशों में रह रहे लाखों तेलुगु लोग इस क्षेत्र के तनाव पर करीब से नज़र रख रहे हैं।",
+    "cat": "दुनिया · अमेरिका-ईरान",
+    "statl": "ईरान की पूर्व शर्तें"
+   },
+   "d": "09.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "తెలంగాణ · ఆర్టీసీ",
    "col": "--c-gov",
