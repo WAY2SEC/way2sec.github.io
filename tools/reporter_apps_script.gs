@@ -13,8 +13,17 @@ const BOT_KEY    = 'PUT-BOT-KEY-HERE';      // used only by the Way2Sec publishi
 const FOLDER     = 'Way2Sec reporter photos';
 const COLS = ['id','time','pin','reporter','district','place','lat','lng','headline','text','photo','status','note','link'];
 
+// Works both inside a Google Sheet (Extensions → Apps Script) and as a separate script:
+// if there is no sheet, setup() creates "Way2Sec Reporters" in your Google Drive and remembers it.
+function book_() {
+  const a = SpreadsheetApp.getActiveSpreadsheet(); if (a) return a;
+  const p = PropertiesService.getScriptProperties(), id = p.getProperty('SHEET_ID');
+  if (id) return SpreadsheetApp.openById(id);
+  const s = SpreadsheetApp.create('Way2Sec Reporters'); p.setProperty('SHEET_ID', s.getId()); return s;
+}
+
 function setup() {
-  const ss = SpreadsheetApp.getActive();
+  const ss = book_();
   let r = ss.getSheetByName('Reporters');
   if (!r) { r = ss.insertSheet('Reporters'); r.appendRow(['pin','name','phone','district','place','active']); r.appendRow(['1001','Sample Reporter','','yadadri','ఆలేరు','yes']); }
   let s = ss.getSheetByName('Submissions');
@@ -22,6 +31,7 @@ function setup() {
   let a = ss.getSheetByName('Applications');
   if (!a) { a = ss.insertSheet('Applications'); a.appendRow(['time','name','phone','age','district','mandal','village','about','status','pin']); a.setFrozenRows(1); }
   folder_();
+  Logger.log('Way2Sec Reporters sheet: ' + ss.getUrl());
 }
 
 function folder_() {
@@ -29,7 +39,7 @@ function folder_() {
   return it.hasNext() ? it.next() : DriveApp.createFolder(FOLDER);
 }
 function out_(o) { return ContentService.createTextOutput(JSON.stringify(o)).setMimeType(ContentService.MimeType.JSON); }
-function sheet_(n) { return SpreadsheetApp.getActive().getSheetByName(n); }
+function sheet_(n) { return book_().getSheetByName(n); }
 function rows_() {
   const s = sheet_('Submissions'), v = s.getDataRange().getValues(), h = v[0];
   return v.slice(1).map((r, i) => { const o = { _row: i + 2 }; h.forEach((k, j) => o[k] = r[j]); return o; });
@@ -49,7 +59,7 @@ function doPost(e) {
       const phone = String(b.phone || '').replace(/\D/g, '');
       if (clean_(b.name, 60).length < 3 || !/^[6-9]\d{9}$/.test(phone) || Number(b.age) < 18) return out_({ ok: false, error: 'details' });
       let a = sheet_('Applications');
-      if (!a) { a = SpreadsheetApp.getActive().insertSheet('Applications'); a.appendRow(['time','name','phone','age','district','mandal','village','about','status','pin']); }
+      if (!a) { a = book_().insertSheet('Applications'); a.appendRow(['time','name','phone','age','district','mandal','village','about','status','pin']); }
       const dup = a.getDataRange().getValues().some(r => String(r[2]) === phone);
       if (!dup) a.appendRow([Utilities.formatDate(new Date(), 'Asia/Kolkata', 'dd.MM.yyyy HH:mm'), clean_(b.name, 60), "'" + phone, Number(b.age) || '',
         clean_(b.district, 40), clean_(b.mandal, 40), clean_(b.village, 60), clean_(b.about, 400), 'new', '']);
