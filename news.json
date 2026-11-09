@@ -1,8 +1,204 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T21:42:39+05:30",
+ "updated": "2026-11-09T22:08:08+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · రోడ్డు ప్రమాదాలు",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3 మృతి",
+   "statl": "ఉమ్మడి మెదక్‌లో రెండు ప్రమాదాలు",
+   "h": "ఉమ్మడి మెదక్‌లో రెండు రోడ్డు ప్రమాదాలు: చిన్నారి సహా ముగ్గురు మృతి",
+   "p": "ఉమ్మడి మెదక్ జిల్లాలో సోమవారం జరిగిన రెండు వేర్వేరు రోడ్డు ప్రమాదాల్లో ఏడేళ్ల బాలిక సహా ముగ్గురు చనిపోయారు. పొగమంచు వల్ల దారి కనిపించక ఆగి ఉన్న లారీని బైక్ ఢీకొని ఓ యువ కార్మికుడు మృతి చెందగా, మరొకరి పరిస్థితి విషమంగా ఉంది. హుస్నాబాద్ సమీపంలో ట్రాక్టర్‌ను కారు ఢీకొని తండ్రి, కుమార్తె అక్కడికక్కడే చనిపోయారు. పోలీసులు కేసు నమోదు చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/three-killed-in-two-road-accidents-in-erstwhile-medak-district",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "హుస్నాబాద్",
+   "pts": [
+    "పొగమంచులో ఆగి ఉన్న లారీని ఢీకొన్న బైక్: 20 ఏళ్ల యువకుడు మృతి",
+    "పాండిల్ల వంతెన వద్ద ట్రాక్టర్‌ను ఢీకొన్న కారు: తండ్రి, ఏడేళ్ల కుమార్తె మృతి",
+    "భార్య, కుమారుడు, ట్రాక్టర్ డ్రైవర్‌కు తీవ్ర గాయాలు"
+   ],
+   "why": "చలికాలం పొగమంచులో రాత్రి, తెల్లవారుజామున ప్రయాణించే వాహనదారులు వేగం తగ్గించి జాగ్రత్తగా నడపాలి.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Two road accidents in erstwhile Medak: three dead, including a girl",
+    "p": "Three people, including a seven-year-old girl, died in two separate road accidents in erstwhile Medak district on Monday. A motorcycle hit a stationary lorry in poor visibility caused by fog, killing a young worker and leaving another critical. Near Husnabad, a car hit a tractor, killing a father and his daughter on the spot. Police have registered a case.",
+    "pts": [
+     "Bike hits parked lorry in fog: 20-year-old dies",
+     "Car hits tractor at Pandilla bridge: father, 7-year-old daughter die",
+     "Wife, son and tractor driver seriously injured"
+    ],
+    "why": "Motorists travelling at night or early morning in winter fog should slow down and drive carefully.",
+    "cat": "Telangana · Road accidents",
+    "statl": "Two accidents in erstwhile Medak"
+   },
+   "hi": {
+    "h": "पूर्व मेडक जिले में दो सड़क हादसे: बच्ची समेत तीन की मौत",
+    "p": "पूर्व मेडक जिले में सोमवार को दो अलग-अलग सड़क हादसों में सात साल की बच्ची समेत तीन लोगों की मौत हो गई। कोहरे के कारण कम दृश्यता में एक बाइक खड़ी लॉरी से टकरा गई, जिसमें एक युवा कर्मचारी की मौत हो गई और दूसरा गंभीर है। हुस्नाबाद के पास एक कार ट्रैक्टर से टकराई, जिसमें पिता और बेटी की मौके पर मौत हो गई। पुलिस ने मामला दर्ज किया है।",
+    "pts": [
+     "कोहरे में खड़ी लॉरी से टकराई बाइक: 20 वर्षीय युवक की मौत",
+     "पांडिल्ला पुल पर कार ट्रैक्टर से टकराई: पिता और 7 साल की बेटी की मौत",
+     "पत्नी, बेटा और ट्रैक्टर चालक गंभीर रूप से घायल"
+    ],
+    "why": "सर्दियों के कोहरे में रात या तड़के सफर करने वाले वाहन चालकों को रफ्तार कम रखकर सावधानी से चलना चाहिए।",
+    "cat": "तेलंगाना · सड़क हादसे",
+    "statl": "पूर्व मेडक में दो हादसे"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2 అరెస్ట్",
+   "statl": "దుర్గం చెరువు వద్ద దోపిడీ కేసు",
+   "h": "దుర్గం చెరువు మెట్రో వద్ద కత్తితో దాడి, ఫోన్ల దోపిడీ: ఇద్దరు అరెస్ట్",
+   "p": "హైదరాబాద్ దుర్గం చెరువు మెట్రో స్టేషన్ సమీపంలో ఒంటరిగా నడుస్తున్న వ్యక్తి ఫోన్ లాక్కునేందుకు ప్రయత్నించి, ఎదురు తిరగడంతో కత్తితో భుజంపై గాయపరిచిన ఇద్దరు 19 ఏళ్ల యువకులను మాదాపూర్ పోలీసులు సోమవారం అరెస్ట్ చేశారు. వారు మరో వ్యక్తి ఫోన్‌ను కూడా దోచుకున్నారు. రెండు ఫోన్లు, కత్తి స్వాధీనం చేసుకున్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/two-19-yr-olds-arrested-for-robbery-assault-near-durgam-cheruvu-3572598/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "మాదాపూర్",
+   "pts": [
+    "ఫోన్ ఇవ్వకపోవడంతో బాధితుడి భుజంపై కత్తితో దాడి",
+    "అయ్యప్ప సొసైటీ వైపు వెళ్తుండగా నిందితులను పట్టుకున్న పోలీసులు",
+    "దోపిడీ, హత్యాయత్నం సెక్షన్ల కింద కేసు నమోదు"
+   ],
+   "why": "రాత్రి వేళ ఒంటరిగా నడిచే వారు అప్రమత్తంగా ఉండి, అనుమానాస్పద ఘటనలపై వెంటనే పోలీసులకు సమాచారం ఇవ్వాలి.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Knife attack, phone robbery near Durgam Cheruvu metro: two arrested",
+    "p": "Madhapur police on Monday arrested two 19-year-olds who tried to snatch the phone of a man walking alone near Durgam Cheruvu metro station in Hyderabad and stabbed him in the shoulder when he resisted. They also robbed another person's phone. Police seized two phones and a knife.",
+    "pts": [
+     "Victim stabbed in shoulder after resisting phone snatching",
+     "Police caught the accused heading towards Ayyappa Society",
+     "Case registered under robbery and attempt-to-murder sections"
+    ],
+    "why": "People walking alone at night should stay alert and report suspicious incidents to police immediately.",
+    "cat": "Hyderabad · Safety",
+    "statl": "Durgam Cheruvu robbery case"
+   },
+   "hi": {
+    "h": "दुर्गम चेरुवु मेट्रो के पास चाकू से हमला, फोन लूट: दो गिरफ्तार",
+    "p": "हैदराबाद में दुर्गम चेरुवु मेट्रो स्टेशन के पास अकेले जा रहे एक व्यक्ति का फोन छीनने की कोशिश करने और विरोध करने पर उसके कंधे पर चाकू मारने वाले दो 19 वर्षीय युवकों को माधापुर पुलिस ने सोमवार को गिरफ्तार किया। उन्होंने एक और व्यक्ति का फोन भी लूटा था। पुलिस ने दो फोन और एक चाकू जब्त किया।",
+    "pts": [
+     "फोन छीनने का विरोध करने पर पीड़ित के कंधे पर चाकू से वार",
+     "अय्यप्पा सोसाइटी की ओर जाते समय आरोपी पकड़े गए",
+     "लूट और हत्या के प्रयास की धाराओं में मामला दर्ज"
+    ],
+    "why": "रात में अकेले चलने वाले लोग सतर्क रहें और संदिग्ध घटनाओं की तुरंत पुलिस को सूचना दें।",
+    "cat": "हैदराबाद · सुरक्षा",
+    "statl": "दुर्गम चेरुवु लूट मामला"
+   }
+  },
+  {
+   "cat": "పంజాబ్ · చండీగఢ్",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "27",
+   "statl": "దీపావళి కంటి గాయాల కేసులు",
+   "h": "దీపావళి టపాసులతో చండీగఢ్ పీజీఐకి 27 కంటి గాయాల కేసులు",
+   "p": "దీపావళి రోజు టపాసుల వల్ల కంటి గాయాలైన 27 మంది చండీగఢ్ పీజీఐఎంఈఆర్‌లో చికిత్స పొందారు. వీరిలో 20 మంది టపాసులు కాల్చకుండా పక్కన నిలబడి చూస్తున్నవారే. తొమ్మిది మంది పిల్లలు ఉండగా, అతి చిన్నవారు ఆరేళ్లవారు. 15 మందికి శస్త్రచికిత్స చేశారు. రోగులు చండీగఢ్, పంజాబ్, హర్యానా సహా పొరుగు రాష్ట్రాల నుంచి వచ్చారు.",
+   "src": "PTI, Telangana Today",
+   "url": "https://telanganatoday.com/firecrackers-injure-20-onlookers-among-27-patients-at-pgimer",
+   "sec": [
+    "india"
+   ],
+   "st": "PB",
+   "place": "st-PB",
+   "loc": "చండీగఢ్",
+   "pts": [
+    "27 మందిలో 20 మంది (74%) చూస్తున్నవారే",
+    "9 మంది పిల్లలు; 15 మందికి శస్త్రచికిత్స",
+    "పంజాబ్ 7, హర్యానా 9, చండీగఢ్ 6 మంది"
+   ],
+   "why": "టపాసులు కాల్చే చోటుకు దూరంగా ఉండటం, పిల్లలను దూరంగా ఉంచడం, కళ్లకు రక్షణ వాడటం ముఖ్యమని వైద్యులు సూచిస్తున్నారు.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Diwali firecrackers: 27 eye injury cases at Chandigarh PGI",
+    "p": "Twenty-seven people with firecracker eye injuries on Diwali were treated at PGIMER, Chandigarh. Twenty of them were bystanders who were only watching, not bursting crackers. Nine were children, the youngest aged six. Fifteen needed surgery. Patients came from Chandigarh, Punjab, Haryana and other neighbouring states.",
+    "pts": [
+     "20 of 27 (74%) were onlookers",
+     "9 children; 15 underwent surgery",
+     "7 from Punjab, 9 from Haryana, 6 from Chandigarh"
+    ],
+    "why": "Doctors advise keeping a safe distance from firecrackers, keeping children away and using eye protection.",
+    "cat": "Punjab · Chandigarh",
+    "statl": "Diwali eye injury cases"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों से चंडीगढ़ पीजीआई में आंख की चोट के 27 मामले",
+    "p": "दिवाली पर पटाखों से आंख में चोट लगने वाले 27 लोगों का चंडीगढ़ के पीजीआईएमईआर में इलाज हुआ। इनमें 20 लोग पटाखे नहीं जला रहे थे, बल्कि पास खड़े होकर देख रहे थे। नौ बच्चे थे, सबसे छोटे छह साल के। 15 लोगों की सर्जरी करनी पड़ी। मरीज चंडीगढ़, पंजाब, हरियाणा और अन्य पड़ोसी राज्यों से आए।",
+    "pts": [
+     "27 में से 20 (74%) सिर्फ देखने वाले",
+     "9 बच्चे; 15 की सर्जरी हुई",
+     "पंजाब से 7, हरियाणा से 9, चंडीगढ़ से 6"
+    ],
+    "why": "डॉक्टरों की सलाह है कि पटाखों से सुरक्षित दूरी रखें, बच्चों को दूर रखें और आंखों की सुरक्षा का इस्तेमाल करें।",
+    "cat": "पंजाब · चंडीगढ़",
+    "statl": "दिवाली में आंख की चोट के मामले"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · వాయు కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "AQI 350+",
+   "statl": "ఢిల్లీలో పలు ప్రాంతాల్లో",
+   "h": "దీపావళి టపాసుల తర్వాత ఢిల్లీని కమ్మేసిన దట్టమైన పొగమంచు",
+   "p": "ఆంక్షలు ఉన్నా ఆదివారం దీపావళి రాత్రి టపాసులు భారీగా కాల్చడంతో ఢిల్లీని దట్టమైన పొగమంచు కమ్మేసింది. సోమవారం ఉదయం పలు ప్రాంతాల్లో గాలి నాణ్యత సూచీ 350 దాటింది. సుప్రీంకోర్టు అనుమతించిన గ్రీన్ టపాసులను మాత్రమే నిర్ణీత సమయాల్లో కాల్చాలని ఆదేశాలున్నాయి. శీతాకాల కాలుష్యంలో వాహనాల వాటా 23%, పంట వ్యర్థాల దహనం సహా బయోమాస్ వాటా 20% అని కేంద్రం చెబుతోంది.",
+   "src": "Al Jazeera, AFP, AP",
+   "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "dl-newdelhi",
+   "pts": [
+    "సోమవారం ఉదయం పలు ప్రాంతాల్లో AQI 350 పైగా",
+    "గ్రీన్ టపాసులకే సుప్రీంకోర్టు అనుమతి, అదీ మూడు గంటలే",
+    "శీతాకాల కాలుష్యంలో వాహనాలు 23%, బయోమాస్ దహనం 20%"
+   ],
+   "why": "ఢిల్లీలో ఉండే తెలుగువారు సహా పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలున్నవారు బయట తిరగడం తగ్గించుకోవాలి.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Thick smog blankets Delhi after Diwali firecrackers",
+    "p": "Thick smog settled over Delhi after residents burst firecrackers heavily on Sunday Diwali night despite restrictions. On Monday morning the air quality index crossed 350 in several areas. The Supreme Court allowed only approved green crackers in set time windows. The Centre says vehicles cause 23% of winter pollution and biomass burning, including stubble fires, 20%.",
+    "pts": [
+     "AQI above 350 in several areas on Monday morning",
+     "Supreme Court allowed only green crackers, in three-hour windows",
+     "Vehicles 23%, biomass burning 20% of winter pollution"
+    ],
+    "why": "Children, the elderly and people with breathing problems in Delhi, including Telugu residents, should limit time outdoors.",
+    "cat": "Delhi · Air pollution",
+    "statl": "In several parts of Delhi"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों के बाद दिल्ली पर छाया घना स्मॉग",
+    "p": "पाबंदियों के बावजूद रविवार दिवाली की रात भारी आतिशबाजी के बाद दिल्ली पर घना स्मॉग छा गया। सोमवार सुबह कई इलाकों में वायु गुणवत्ता सूचकांक 350 के पार चला गया। सुप्रीम कोर्ट ने तय समय में सिर्फ मंजूर ग्रीन पटाखों की अनुमति दी थी। केंद्र के अनुसार सर्दियों के प्रदूषण में वाहनों का हिस्सा 23% और पराली समेत बायोमास जलाने का 20% है।",
+    "pts": [
+     "सोमवार सुबह कई इलाकों में AQI 350 से ऊपर",
+     "सुप्रीम कोर्ट ने सिर्फ ग्रीन पटाखों की, तीन घंटे के लिए अनुमति दी",
+     "सर्दियों के प्रदूषण में वाहन 23%, बायोमास जलाना 20%"
+    ],
+    "why": "दिल्ली में रहने वाले तेलुगु लोगों समेत बच्चे, बुजुर्ग और सांस के मरीज बाहर निकलना कम करें।",
+    "cat": "दिल्ली · वायु प्रदूषण",
+    "statl": "दिल्ली के कई इलाकों में"
+   }
+  },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",
    "col": "--c-gov",
@@ -2282,249 +2478,6 @@
    },
    "d": "09.11.2026",
    "t": "13:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · పోలీసు",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹1,000",
-   "statl": "బాధితుడు చెల్లించినట్లు చెప్పిన మొత్తం",
-   "h": "లంచం డిమాండ్ ఆరోపణలు: ఇద్దరు కానిస్టేబుళ్లు, హోంగార్డుపై కేసు",
-   "p": "సనత్‌నగర్ ఠాణా పరిధిలో విధుల్లో ఉన్న ఇద్దరు కానిస్టేబుళ్లు, ఒక హోంగార్డు ఆదివారం సాయంత్రం ఓ వ్యక్తితో వాగ్వాదానికి దిగి, అతడిని బైక్‌తో సహా స్టేషన్‌కు తీసుకెళ్లారని ఆరోపణ. బైక్ వదలడానికి ₹2,000 అడగగా అతడు ₹1,000 ఇచ్చి వెళ్లాడు. ఈ విషయం అతడు సామాజిక మాధ్యమాల్లో పెట్టడంతో ఉన్నతాధికారులు ఫిర్యాదు తీసుకుని సోమవారం దోపిడీ కేసు నమోదు చేశారు. విచారణ జరుగుతోంది.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/hyderabad-police-extortion-case-two-constables-home-guard/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "సనత్‌నగర్",
-   "pts": [
-    "బైక్ వదలడానికి ₹2,000 అడిగారని ఆరోపణ",
-    "సోషల్ మీడియా పోస్ట్‌తో వెలుగులోకి",
-    "సనత్‌నగర్ ఠాణాలో దోపిడీ కేసు నమోదు"
-   ],
-   "why": "పోలీసులపై లంచం ఆరోపణలకు ఉన్నతాధికారులు ఎలా స్పందిస్తున్నారో ఇది చూపుతుంది; ఇది ప్రజల నమ్మకానికి సంబంధించిన విషయం.",
-   "en": {
-    "h": "Bribe demand allegation: case against two constables, home guard",
-    "p": "Two constables and a home guard on duty in the Sanathnagar police station area allegedly argued with a man on Sunday evening and took him and his bike to the station. They demanded ₹2,000 to release the bike; he paid ₹1,000 and left. After he posted about it on social media, senior officers took his complaint and registered an extortion case on Monday. An inquiry is under way.",
-    "pts": [
-     "Allegedly demanded ₹2,000 to release the bike",
-     "Came to light through a social media post",
-     "Extortion case registered at Sanathnagar police station"
-    ],
-    "why": "It shows how senior officers respond to bribery allegations against police, a matter of public trust.",
-    "cat": "Hyderabad · Police",
-    "statl": "Amount the man says he paid"
-   },
-   "hi": {
-    "h": "रिश्वत मांगने का आरोप: दो कांस्टेबल, एक होमगार्ड पर केस",
-    "p": "सनतनगर थाना क्षेत्र में ड्यूटी पर तैनात दो कांस्टेबल और एक होमगार्ड पर आरोप है कि रविवार शाम उन्होंने एक व्यक्ति से बहस की और उसे बाइक समेत थाने ले गए। बाइक छोड़ने के लिए ₹2,000 मांगे गए; उसने ₹1,000 देकर बाइक ली। उसने सोशल मीडिया पर इसकी जानकारी दी, जिसके बाद वरिष्ठ अधिकारियों ने शिकायत लेकर सोमवार को उगाही का केस दर्ज किया। जांच जारी है।",
-    "pts": [
-     "बाइक छोड़ने के लिए ₹2,000 मांगने का आरोप",
-     "सोशल मीडिया पोस्ट से मामला सामने आया",
-     "सनतनगर थाने में उगाही का केस दर्ज"
-    ],
-    "why": "यह दिखाता है कि पुलिस पर रिश्वत के आरोपों पर वरिष्ठ अधिकारी कैसे कार्रवाई करते हैं; यह जनता के भरोसे से जुड़ा मामला है।",
-    "cat": "हैदराबाद · पुलिस",
-    "statl": "व्यक्ति के अनुसार दी गई राशि"
-   },
-   "d": "09.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "ఏపీ · విజయనగరం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3 ఘటనలు",
-   "statl": "సీఎం వివరాలు కోరిన అగ్నిప్రమాదాలు",
-   "h": "రాజాంలో ఆటోమొబైల్ షోరూం దగ్ధం: వివరాలు కోరిన సీఎం చంద్రబాబు",
-   "p": "విజయనగరం జిల్లా రాజాంలో దీపావళి టపాసులు పడి ఓ ఆటోమొబైల్ షోరూం కాలిపోయింది. కృష్ణా జిల్లా గన్నవరంలో టపాసుల నిప్పురవ్వలతో ఫర్నిచర్ దుకాణం, తిరువూరులో షార్ట్ సర్క్యూట్‌తో మరో దుకాణం దగ్ధమయ్యాయి. ఈ ఘటనలపై సీఎం చంద్రబాబు వివరాలు అడిగి తెలుసుకున్నారు. భారీ ఆస్తి నష్టంపై విచారం వ్యక్తం చేసి, తగిన జాగ్రత్తలు తీసుకోవాలని అధికారులను ఆదేశించారు.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/rajam-showroom-fire-cm-chandrababu-seeks-details/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-vizianagaram",
-   "loc": "రాజాం",
-   "pts": [
-    "రాజాంలో టపాసులు పడి షోరూం దగ్ధం",
-    "గన్నవరం, తిరువూరులోనూ దుకాణాలు కాలిపోయాయి",
-    "జాగ్రత్తలు తీసుకోవాలని అధికారులకు సీఎం ఆదేశం"
-   ],
-   "why": "పండుగ వేళ అగ్నిప్రమాదాలతో వ్యాపారులకు భారీ నష్టం జరిగింది; అగ్ని భద్రతపై అప్రమత్తత అవసరమని ఇది గుర్తుచేస్తుంది.",
-   "en": {
-    "h": "Automobile showroom gutted in Rajam; CM Chandrababu Naidu seeks details",
-    "p": "An automobile showroom in Rajam, Vizianagaram district, was gutted after Diwali firecrackers fell on it. In Gannavaram, Krishna district, firecracker sparks set a furniture shop ablaze, and in Tiruvuru another shop burned after a short circuit. CM Chandrababu Naidu sought details of the incidents. He expressed regret over the heavy property loss and told officials to take adequate precautions.",
-    "pts": [
-     "Showroom in Rajam gutted after firecrackers fell on it",
-     "Shops also burned in Gannavaram and Tiruvuru",
-     "CM orders officials to take precautions"
-    ],
-    "why": "Festival fires caused heavy losses to traders, a reminder of the need for fire safety.",
-    "cat": "AP · Vizianagaram",
-    "statl": "Fires the CM sought details on"
-   },
-   "hi": {
-    "h": "राजाम में ऑटोमोबाइल शोरूम जलकर खाक: सीएम चंद्रबाबू ने ब्योरा मांगा",
-    "p": "विजयनगरम जिले के राजाम में दीपावली के पटाखे गिरने से एक ऑटोमोबाइल शोरूम जल गया। कृष्णा जिले के गन्नवरम में पटाखों की चिंगारी से फर्नीचर की दुकान और तिरुवुरु में शॉर्ट सर्किट से एक और दुकान जल गई। सीएम चंद्रबाबू नायडू ने इन घटनाओं का ब्योरा मांगा। उन्होंने भारी संपत्ति नुकसान पर दुख जताया और अधिकारियों को उचित सावधानी बरतने का निर्देश दिया।",
-    "pts": [
-     "राजाम में पटाखे गिरने से शोरूम जला",
-     "गन्नवरम और तिरुवुरु में भी दुकानें जलीं",
-     "सीएम ने अधिकारियों को सावधानी बरतने को कहा"
-    ],
-    "why": "त्योहार पर आग की घटनाओं से व्यापारियों को भारी नुकसान हुआ; यह अग्नि सुरक्षा के प्रति सतर्कता की याद दिलाता है।",
-    "cat": "आंध्र प्रदेश · विजयनगरम",
-    "statl": "आग की घटनाएं जिन पर सीएम ने ब्योरा मांगा"
-   },
-   "d": "09.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఉక్రెయిన్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "8.5 లక్షలు",
-   "statl": "కరెంటు నిలిచిన ఉక్రెయిన్ ప్రజలు",
-   "h": "రష్యా దాడులతో 8.5 లక్షల మంది ఉక్రెయిన్ ప్రజలకు కరెంటు కట",
-   "p": "రష్యా దాడులతో ఆదివారం ఉక్రెయిన్‌లో సుమారు 8.5 లక్షల మందికి విద్యుత్ నిలిచిపోయింది. వీరిలో 6 లక్షలకు పైగా ద్నిప్రోపెట్రోవ్స్క్, 2.5 లక్షల మంది ఖార్కివ్ ప్రాంతాల వారు. జపోరిజియా అణు విద్యుత్ కేంద్రానికి బయటి కరెంటు ఆగిపోయింది. మరోవైపు అమెరికా మధ్యవర్తిత్వంలో అబుదాబిలో నవంబర్ 10–11న జరిగే శాంతి చర్చల్లో యూరప్ దేశాలూ పాల్గొంటాయి; ఫ్రాన్స్ హాజరవుతుందని విదేశాంగ మంత్రి జీన్-నోయెల్ బారో తెలిపారు.",
-   "src": "10 Things News",
-   "url": "https://www.10things.news/p/10-things-global-news-9th-november",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ద్నిప్రోపెట్రోవ్స్క్‌లో 6 లక్షలకు పైగా, ఖార్కివ్‌లో 2.5 లక్షలు",
-    "జపోరిజియా అణు కేంద్రానికి బయటి కరెంటు కట",
-    "అబుదాబి చర్చల్లో యూరప్ దేశాల భాగస్వామ్యం"
-   ],
-   "why": "చలికాలంలో లక్షలాది ఉక్రెయిన్ ప్రజలు ఇబ్బంది పడుతున్నారు; అబుదాబి చర్చలు యుద్ధ ముగింపు ప్రయత్నాల్లో భాగం.",
-   "en": {
-    "h": "Russian strikes cut power to 850,000 people in Ukraine",
-    "p": "Russian strikes left about 850,000 people in Ukraine without power on Sunday, more than 600,000 of them in Dnipropetrovsk and 250,000 in Kharkiv. The Zaporizhzhia nuclear plant lost external power. Meanwhile, European countries will join US-brokered peace talks in Abu Dhabi on November 10–11; French Foreign Minister Jean-Noel Barrot confirmed France will attend.",
-    "pts": [
-     "Over 600,000 in Dnipropetrovsk, 250,000 in Kharkiv",
-     "Zaporizhzhia nuclear plant loses external power",
-     "Europeans to join Abu Dhabi talks"
-    ],
-    "why": "Lakhs of Ukrainians face hardship in winter; the Abu Dhabi talks are part of efforts to end the war.",
-    "cat": "World · Ukraine",
-    "statl": "Ukrainians left without power"
-   },
-   "hi": {
-    "h": "रूसी हमलों से यूक्रेन में 8.5 लाख लोगों की बिजली गुल",
-    "p": "रूसी हमलों के कारण रविवार को यूक्रेन में करीब 8.5 लाख लोगों की बिजली चली गई। इनमें 6 लाख से ज़्यादा द्निप्रोपेत्रोव्स्क और 2.5 लाख खारकीव क्षेत्र के हैं। ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली आपूर्ति बंद हो गई। इस बीच, अमेरिका की मध्यस्थता में 10–11 नवंबर को अबू धाबी में होने वाली शांति वार्ता में यूरोपीय देश भी शामिल होंगे; फ्रांस के विदेश मंत्री ज्यां-नोएल बारो ने फ्रांस की भागीदारी की पुष्टि की।",
-    "pts": [
-     "द्निप्रोपेत्रोव्स्क में 6 लाख से ज़्यादा, खारकीव में 2.5 लाख",
-     "ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली बंद",
-     "अबू धाबी वार्ता में यूरोपीय देश शामिल होंगे"
-    ],
-    "why": "सर्दियों में लाखों यूक्रेनी मुश्किल में हैं; अबू धाबी वार्ता युद्ध खत्म करने के प्रयासों का हिस्सा है।",
-    "cat": "दुनिया · यूक्रेन",
-    "statl": "बिजली से वंचित यूक्रेनी लोग"
-   },
-   "d": "09.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "2024 కంటే",
-   "statl": "ఎక్కువ మద్దతు వచ్చిందన్న సీఎం",
-   "h": "స్థానిక ఎన్నికల్లో కూటమి ఓట్ల శాతం పెరిగింది: సీఎం చంద్రబాబు",
-   "p": "మున్సిపల్, పరిషత్ ఎన్నికల్లో 2024 అసెంబ్లీ ఎన్నికల కంటే కూటమికి ఓట్ల శాతం పెరిగిందని సీఎం చంద్రబాబు అమరావతిలో చెప్పారు. ఈ ఫలితాలు కూటమి ప్రభుత్వ విజయమని, పోస్టల్ బ్యాలెట్లలోనూ ఎక్కువ మంది ఉద్యోగులు తమకు మద్దతిచ్చారని అన్నారు. బ్యాలెట్ ఎన్నికల్లోనూ అక్రమాలు జరిగాయని వైఎస్సార్‌సీపీ ఆరోపించడాన్ని ఆయన తప్పుపట్టారు. సంక్షేమం, అభివృద్ధిని వేగవంతం చేస్తామని తెలిపారు.",
-   "src": "Telugu Post",
-   "url": "https://telugupost.com/andhra-pradesh/chandrababu-alliances-vote-s-hare-increased-local-body-elections-1625422",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "2024 కంటే కూటమి ఓట్ల శాతం పెరిగిందన్న సీఎం",
-    "పోస్టల్ బ్యాలెట్లలో ఉద్యోగుల మద్దతు దక్కిందని వెల్లడి",
-    "సంక్షేమం, అభివృద్ధి వేగవంతం చేస్తామని హామీ"
-   ],
-   "why": "స్థానిక ఎన్నికల ఫలితాలపై ప్రభుత్వ వైఖరిని ఇది తెలియజేస్తుంది; కొత్తగా ఎన్నికైన పాలకవర్గాలు త్వరలో బాధ్యతలు చేపడతాయి.",
-   "en": {
-    "h": "Alliance vote share rose in local body polls: CM Chandrababu Naidu",
-    "p": "CM Chandrababu Naidu said in Amaravati that the alliance's vote share in the municipal and parishad elections was higher than in the 2024 Assembly elections. He said the results were the alliance government's victory and that most employees backed the alliance in postal ballots too. He faulted the YSRCP for alleging irregularities even in ballot-paper polls. He said welfare and development would be speeded up.",
-    "pts": [
-     "CM says alliance vote share higher than in 2024",
-     "Says employees backed alliance in postal ballots",
-     "Promises faster welfare and development"
-    ],
-    "why": "It shows the government's stand on the local poll results; newly elected bodies will take charge soon.",
-    "cat": "Andhra Pradesh · Local polls",
-    "statl": "More support than 2024, says CM"
-   },
-   "hi": {
-    "h": "स्थानीय चुनावों में गठबंधन का वोट प्रतिशत बढ़ा: मुख्यमंत्री चंद्रबाबू नायडू",
-    "p": "मुख्यमंत्री चंद्रबाबू नायडू ने अमरावती में कहा कि नगरपालिका और परिषद चुनावों में गठबंधन का वोट प्रतिशत 2024 के विधानसभा चुनाव से अधिक रहा। उन्होंने कहा कि ये नतीजे गठबंधन सरकार की जीत हैं और पोस्टल बैलेट में भी ज्यादातर कर्मचारियों ने गठबंधन का साथ दिया। उन्होंने बैलेट चुनाव में भी गड़बड़ी के वाईएसआरसीपी के आरोपों को गलत बताया। उन्होंने कहा कि कल्याण और विकास कार्यों में तेजी लाई जाएगी।",
-    "pts": [
-     "मुख्यमंत्री बोले, गठबंधन का वोट प्रतिशत 2024 से ज्यादा",
-     "पोस्टल बैलेट में कर्मचारियों का समर्थन मिलने का दावा",
-     "कल्याण और विकास में तेजी का वादा"
-    ],
-    "why": "यह स्थानीय चुनाव नतीजों पर सरकार का रुख बताता है; नए चुने गए निकाय जल्द कार्यभार संभालेंगे।",
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "2024 से ज्यादा समर्थन: मुख्यमंत्री"
-   },
-   "d": "09.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · నేరాలు",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "45 ఏళ్లు",
-   "statl": "మృతి చెందిన వ్యక్తి వయసు",
-   "h": "అత్తాపూర్ మద్యం దుకాణంలో చిల్లర గొడవ: 45 ఏళ్ల వ్యక్తి మృతి",
-   "p": "హైదరాబాద్ అత్తాపూర్‌లో పిల్లర్ నం.140 సమీపంలోని మద్యం దుకాణానికి వెళ్లిన 45 ఏళ్ల వ్యక్తికి సిబ్బందితో చిల్లర విషయంలో గొడవ జరిగింది. వాగ్వాదం దాడికి దారితీయడంతో ఆయన ఛాతీకి తీవ్ర గాయమై కుప్పకూలారు. సమీప ప్రైవేటు ఆసుపత్రికి తరలించగా అప్పటికే మృతి చెందినట్లు వైద్యులు తెలిపారు. కుటుంబ సభ్యుల ఫిర్యాదుతో అత్తాపూర్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-45-year-old-man-dies-after-alleged-altercation-at-wine-shop-in-attapur",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "అత్తాపూర్",
-   "pts": [
-    "చిల్లర విషయంలో దుకాణ సిబ్బందితో గొడవ",
-    "ఛాతీకి తీవ్ర గాయం, ఆసుపత్రిలో మృతి",
-    "అత్తాపూర్ పోలీసుల కేసు, దర్యాప్తు"
-   ],
-   "why": "చిన్న గొడవలు ప్రాణాంతకంగా మారవచ్చు; ఇలాంటి ఘటనల్లో వెంటనే పోలీసులను సంప్రదించాలి.",
-   "en": {
-    "h": "Row over change at Attapur liquor shop: 45-year-old man dies",
-    "p": "A 45-year-old man who went to a liquor shop near Pillar No. 140 in Attapur, Hyderabad, got into a dispute with the staff over change. The argument turned into an assault and he suffered a serious chest injury and collapsed. He was taken to a nearby private hospital, where doctors declared him dead. Attapur police registered a case on the family's complaint and are investigating.",
-    "pts": [
-     "Dispute with shop staff over change",
-     "Serious chest injury, declared dead at hospital",
-     "Attapur police register case, investigate"
-    ],
-    "why": "Small quarrels can turn deadly; people should contact the police immediately in such situations.",
-    "cat": "Hyderabad · Crime",
-    "statl": "Age of the man who died"
-   },
-   "hi": {
-    "h": "अत्तापुर शराब दुकान पर छुट्टे को लेकर झगड़ा: 45 वर्षीय व्यक्ति की मौत",
-    "p": "हैदराबाद के अत्तापुर में पिलर नंबर 140 के पास शराब की दुकान पर गए 45 वर्षीय व्यक्ति का छुट्टे पैसों को लेकर कर्मचारियों से झगड़ा हो गया। बहस मारपीट में बदल गई और उनके सीने में गंभीर चोट लगी, जिससे वे गिर पड़े। पास के निजी अस्पताल ले जाने पर डॉक्टरों ने उन्हें मृत घोषित कर दिया। परिवार की शिकायत पर अत्तापुर पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "छुट्टे पैसों को लेकर कर्मचारियों से झगड़ा",
-     "सीने में गंभीर चोट, अस्पताल में मौत",
-     "अत्तापुर पुलिस ने मामला दर्ज कर जांच शुरू की"
-    ],
-    "why": "छोटे झगड़े जानलेवा बन सकते हैं; ऐसी स्थिति में तुरंत पुलिस से संपर्क करें।",
-    "cat": "हैदराबाद · अपराध",
-    "statl": "मृत व्यक्ति की उम्र"
-   },
-   "d": "09.11.2026",
-   "t": "13:05"
   }
  ]
 }

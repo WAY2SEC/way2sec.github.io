@@ -1,8 +1,204 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 90,
+ "count": 94,
  "stories": [
+  {
+   "cat": "తెలంగాణ · రోడ్డు ప్రమాదాలు",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3 మృతి",
+   "statl": "ఉమ్మడి మెదక్‌లో రెండు ప్రమాదాలు",
+   "h": "ఉమ్మడి మెదక్‌లో రెండు రోడ్డు ప్రమాదాలు: చిన్నారి సహా ముగ్గురు మృతి",
+   "p": "ఉమ్మడి మెదక్ జిల్లాలో సోమవారం జరిగిన రెండు వేర్వేరు రోడ్డు ప్రమాదాల్లో ఏడేళ్ల బాలిక సహా ముగ్గురు చనిపోయారు. పొగమంచు వల్ల దారి కనిపించక ఆగి ఉన్న లారీని బైక్ ఢీకొని ఓ యువ కార్మికుడు మృతి చెందగా, మరొకరి పరిస్థితి విషమంగా ఉంది. హుస్నాబాద్ సమీపంలో ట్రాక్టర్‌ను కారు ఢీకొని తండ్రి, కుమార్తె అక్కడికక్కడే చనిపోయారు. పోలీసులు కేసు నమోదు చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/three-killed-in-two-road-accidents-in-erstwhile-medak-district",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "హుస్నాబాద్",
+   "pts": [
+    "పొగమంచులో ఆగి ఉన్న లారీని ఢీకొన్న బైక్: 20 ఏళ్ల యువకుడు మృతి",
+    "పాండిల్ల వంతెన వద్ద ట్రాక్టర్‌ను ఢీకొన్న కారు: తండ్రి, ఏడేళ్ల కుమార్తె మృతి",
+    "భార్య, కుమారుడు, ట్రాక్టర్ డ్రైవర్‌కు తీవ్ర గాయాలు"
+   ],
+   "why": "చలికాలం పొగమంచులో రాత్రి, తెల్లవారుజామున ప్రయాణించే వాహనదారులు వేగం తగ్గించి జాగ్రత్తగా నడపాలి.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Two road accidents in erstwhile Medak: three dead, including a girl",
+    "p": "Three people, including a seven-year-old girl, died in two separate road accidents in erstwhile Medak district on Monday. A motorcycle hit a stationary lorry in poor visibility caused by fog, killing a young worker and leaving another critical. Near Husnabad, a car hit a tractor, killing a father and his daughter on the spot. Police have registered a case.",
+    "pts": [
+     "Bike hits parked lorry in fog: 20-year-old dies",
+     "Car hits tractor at Pandilla bridge: father, 7-year-old daughter die",
+     "Wife, son and tractor driver seriously injured"
+    ],
+    "why": "Motorists travelling at night or early morning in winter fog should slow down and drive carefully.",
+    "cat": "Telangana · Road accidents",
+    "statl": "Two accidents in erstwhile Medak"
+   },
+   "hi": {
+    "h": "पूर्व मेडक जिले में दो सड़क हादसे: बच्ची समेत तीन की मौत",
+    "p": "पूर्व मेडक जिले में सोमवार को दो अलग-अलग सड़क हादसों में सात साल की बच्ची समेत तीन लोगों की मौत हो गई। कोहरे के कारण कम दृश्यता में एक बाइक खड़ी लॉरी से टकरा गई, जिसमें एक युवा कर्मचारी की मौत हो गई और दूसरा गंभीर है। हुस्नाबाद के पास एक कार ट्रैक्टर से टकराई, जिसमें पिता और बेटी की मौके पर मौत हो गई। पुलिस ने मामला दर्ज किया है।",
+    "pts": [
+     "कोहरे में खड़ी लॉरी से टकराई बाइक: 20 वर्षीय युवक की मौत",
+     "पांडिल्ला पुल पर कार ट्रैक्टर से टकराई: पिता और 7 साल की बेटी की मौत",
+     "पत्नी, बेटा और ट्रैक्टर चालक गंभीर रूप से घायल"
+    ],
+    "why": "सर्दियों के कोहरे में रात या तड़के सफर करने वाले वाहन चालकों को रफ्तार कम रखकर सावधानी से चलना चाहिए।",
+    "cat": "तेलंगाना · सड़क हादसे",
+    "statl": "पूर्व मेडक में दो हादसे"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2 అరెస్ట్",
+   "statl": "దుర్గం చెరువు వద్ద దోపిడీ కేసు",
+   "h": "దుర్గం చెరువు మెట్రో వద్ద కత్తితో దాడి, ఫోన్ల దోపిడీ: ఇద్దరు అరెస్ట్",
+   "p": "హైదరాబాద్ దుర్గం చెరువు మెట్రో స్టేషన్ సమీపంలో ఒంటరిగా నడుస్తున్న వ్యక్తి ఫోన్ లాక్కునేందుకు ప్రయత్నించి, ఎదురు తిరగడంతో కత్తితో భుజంపై గాయపరిచిన ఇద్దరు 19 ఏళ్ల యువకులను మాదాపూర్ పోలీసులు సోమవారం అరెస్ట్ చేశారు. వారు మరో వ్యక్తి ఫోన్‌ను కూడా దోచుకున్నారు. రెండు ఫోన్లు, కత్తి స్వాధీనం చేసుకున్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/two-19-yr-olds-arrested-for-robbery-assault-near-durgam-cheruvu-3572598/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "మాదాపూర్",
+   "pts": [
+    "ఫోన్ ఇవ్వకపోవడంతో బాధితుడి భుజంపై కత్తితో దాడి",
+    "అయ్యప్ప సొసైటీ వైపు వెళ్తుండగా నిందితులను పట్టుకున్న పోలీసులు",
+    "దోపిడీ, హత్యాయత్నం సెక్షన్ల కింద కేసు నమోదు"
+   ],
+   "why": "రాత్రి వేళ ఒంటరిగా నడిచే వారు అప్రమత్తంగా ఉండి, అనుమానాస్పద ఘటనలపై వెంటనే పోలీసులకు సమాచారం ఇవ్వాలి.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Knife attack, phone robbery near Durgam Cheruvu metro: two arrested",
+    "p": "Madhapur police on Monday arrested two 19-year-olds who tried to snatch the phone of a man walking alone near Durgam Cheruvu metro station in Hyderabad and stabbed him in the shoulder when he resisted. They also robbed another person's phone. Police seized two phones and a knife.",
+    "pts": [
+     "Victim stabbed in shoulder after resisting phone snatching",
+     "Police caught the accused heading towards Ayyappa Society",
+     "Case registered under robbery and attempt-to-murder sections"
+    ],
+    "why": "People walking alone at night should stay alert and report suspicious incidents to police immediately.",
+    "cat": "Hyderabad · Safety",
+    "statl": "Durgam Cheruvu robbery case"
+   },
+   "hi": {
+    "h": "दुर्गम चेरुवु मेट्रो के पास चाकू से हमला, फोन लूट: दो गिरफ्तार",
+    "p": "हैदराबाद में दुर्गम चेरुवु मेट्रो स्टेशन के पास अकेले जा रहे एक व्यक्ति का फोन छीनने की कोशिश करने और विरोध करने पर उसके कंधे पर चाकू मारने वाले दो 19 वर्षीय युवकों को माधापुर पुलिस ने सोमवार को गिरफ्तार किया। उन्होंने एक और व्यक्ति का फोन भी लूटा था। पुलिस ने दो फोन और एक चाकू जब्त किया।",
+    "pts": [
+     "फोन छीनने का विरोध करने पर पीड़ित के कंधे पर चाकू से वार",
+     "अय्यप्पा सोसाइटी की ओर जाते समय आरोपी पकड़े गए",
+     "लूट और हत्या के प्रयास की धाराओं में मामला दर्ज"
+    ],
+    "why": "रात में अकेले चलने वाले लोग सतर्क रहें और संदिग्ध घटनाओं की तुरंत पुलिस को सूचना दें।",
+    "cat": "हैदराबाद · सुरक्षा",
+    "statl": "दुर्गम चेरुवु लूट मामला"
+   }
+  },
+  {
+   "cat": "పంజాబ్ · చండీగఢ్",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "27",
+   "statl": "దీపావళి కంటి గాయాల కేసులు",
+   "h": "దీపావళి టపాసులతో చండీగఢ్ పీజీఐకి 27 కంటి గాయాల కేసులు",
+   "p": "దీపావళి రోజు టపాసుల వల్ల కంటి గాయాలైన 27 మంది చండీగఢ్ పీజీఐఎంఈఆర్‌లో చికిత్స పొందారు. వీరిలో 20 మంది టపాసులు కాల్చకుండా పక్కన నిలబడి చూస్తున్నవారే. తొమ్మిది మంది పిల్లలు ఉండగా, అతి చిన్నవారు ఆరేళ్లవారు. 15 మందికి శస్త్రచికిత్స చేశారు. రోగులు చండీగఢ్, పంజాబ్, హర్యానా సహా పొరుగు రాష్ట్రాల నుంచి వచ్చారు.",
+   "src": "PTI, Telangana Today",
+   "url": "https://telanganatoday.com/firecrackers-injure-20-onlookers-among-27-patients-at-pgimer",
+   "sec": [
+    "india"
+   ],
+   "st": "PB",
+   "place": "st-PB",
+   "loc": "చండీగఢ్",
+   "pts": [
+    "27 మందిలో 20 మంది (74%) చూస్తున్నవారే",
+    "9 మంది పిల్లలు; 15 మందికి శస్త్రచికిత్స",
+    "పంజాబ్ 7, హర్యానా 9, చండీగఢ్ 6 మంది"
+   ],
+   "why": "టపాసులు కాల్చే చోటుకు దూరంగా ఉండటం, పిల్లలను దూరంగా ఉంచడం, కళ్లకు రక్షణ వాడటం ముఖ్యమని వైద్యులు సూచిస్తున్నారు.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Diwali firecrackers: 27 eye injury cases at Chandigarh PGI",
+    "p": "Twenty-seven people with firecracker eye injuries on Diwali were treated at PGIMER, Chandigarh. Twenty of them were bystanders who were only watching, not bursting crackers. Nine were children, the youngest aged six. Fifteen needed surgery. Patients came from Chandigarh, Punjab, Haryana and other neighbouring states.",
+    "pts": [
+     "20 of 27 (74%) were onlookers",
+     "9 children; 15 underwent surgery",
+     "7 from Punjab, 9 from Haryana, 6 from Chandigarh"
+    ],
+    "why": "Doctors advise keeping a safe distance from firecrackers, keeping children away and using eye protection.",
+    "cat": "Punjab · Chandigarh",
+    "statl": "Diwali eye injury cases"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों से चंडीगढ़ पीजीआई में आंख की चोट के 27 मामले",
+    "p": "दिवाली पर पटाखों से आंख में चोट लगने वाले 27 लोगों का चंडीगढ़ के पीजीआईएमईआर में इलाज हुआ। इनमें 20 लोग पटाखे नहीं जला रहे थे, बल्कि पास खड़े होकर देख रहे थे। नौ बच्चे थे, सबसे छोटे छह साल के। 15 लोगों की सर्जरी करनी पड़ी। मरीज चंडीगढ़, पंजाब, हरियाणा और अन्य पड़ोसी राज्यों से आए।",
+    "pts": [
+     "27 में से 20 (74%) सिर्फ देखने वाले",
+     "9 बच्चे; 15 की सर्जरी हुई",
+     "पंजाब से 7, हरियाणा से 9, चंडीगढ़ से 6"
+    ],
+    "why": "डॉक्टरों की सलाह है कि पटाखों से सुरक्षित दूरी रखें, बच्चों को दूर रखें और आंखों की सुरक्षा का इस्तेमाल करें।",
+    "cat": "पंजाब · चंडीगढ़",
+    "statl": "दिवाली में आंख की चोट के मामले"
+   }
+  },
+  {
+   "cat": "ఢిల్లీ · వాయు కాలుష్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "AQI 350+",
+   "statl": "ఢిల్లీలో పలు ప్రాంతాల్లో",
+   "h": "దీపావళి టపాసుల తర్వాత ఢిల్లీని కమ్మేసిన దట్టమైన పొగమంచు",
+   "p": "ఆంక్షలు ఉన్నా ఆదివారం దీపావళి రాత్రి టపాసులు భారీగా కాల్చడంతో ఢిల్లీని దట్టమైన పొగమంచు కమ్మేసింది. సోమవారం ఉదయం పలు ప్రాంతాల్లో గాలి నాణ్యత సూచీ 350 దాటింది. సుప్రీంకోర్టు అనుమతించిన గ్రీన్ టపాసులను మాత్రమే నిర్ణీత సమయాల్లో కాల్చాలని ఆదేశాలున్నాయి. శీతాకాల కాలుష్యంలో వాహనాల వాటా 23%, పంట వ్యర్థాల దహనం సహా బయోమాస్ వాటా 20% అని కేంద్రం చెబుతోంది.",
+   "src": "Al Jazeera, AFP, AP",
+   "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality",
+   "sec": [
+    "india",
+    "weather"
+   ],
+   "st": "DL",
+   "place": "dl-newdelhi",
+   "pts": [
+    "సోమవారం ఉదయం పలు ప్రాంతాల్లో AQI 350 పైగా",
+    "గ్రీన్ టపాసులకే సుప్రీంకోర్టు అనుమతి, అదీ మూడు గంటలే",
+    "శీతాకాల కాలుష్యంలో వాహనాలు 23%, బయోమాస్ దహనం 20%"
+   ],
+   "why": "ఢిల్లీలో ఉండే తెలుగువారు సహా పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలున్నవారు బయట తిరగడం తగ్గించుకోవాలి.",
+   "d": "09.11.2026",
+   "t": "22:05",
+   "en": {
+    "h": "Thick smog blankets Delhi after Diwali firecrackers",
+    "p": "Thick smog settled over Delhi after residents burst firecrackers heavily on Sunday Diwali night despite restrictions. On Monday morning the air quality index crossed 350 in several areas. The Supreme Court allowed only approved green crackers in set time windows. The Centre says vehicles cause 23% of winter pollution and biomass burning, including stubble fires, 20%.",
+    "pts": [
+     "AQI above 350 in several areas on Monday morning",
+     "Supreme Court allowed only green crackers, in three-hour windows",
+     "Vehicles 23%, biomass burning 20% of winter pollution"
+    ],
+    "why": "Children, the elderly and people with breathing problems in Delhi, including Telugu residents, should limit time outdoors.",
+    "cat": "Delhi · Air pollution",
+    "statl": "In several parts of Delhi"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों के बाद दिल्ली पर छाया घना स्मॉग",
+    "p": "पाबंदियों के बावजूद रविवार दिवाली की रात भारी आतिशबाजी के बाद दिल्ली पर घना स्मॉग छा गया। सोमवार सुबह कई इलाकों में वायु गुणवत्ता सूचकांक 350 के पार चला गया। सुप्रीम कोर्ट ने तय समय में सिर्फ मंजूर ग्रीन पटाखों की अनुमति दी थी। केंद्र के अनुसार सर्दियों के प्रदूषण में वाहनों का हिस्सा 23% और पराली समेत बायोमास जलाने का 20% है।",
+    "pts": [
+     "सोमवार सुबह कई इलाकों में AQI 350 से ऊपर",
+     "सुप्रीम कोर्ट ने सिर्फ ग्रीन पटाखों की, तीन घंटे के लिए अनुमति दी",
+     "सर्दियों के प्रदूषण में वाहन 23%, बायोमास जलाना 20%"
+    ],
+    "why": "दिल्ली में रहने वाले तेलुगु लोगों समेत बच्चे, बुजुर्ग और सांस के मरीज बाहर निकलना कम करें।",
+    "cat": "दिल्ली · वायु प्रदूषण",
+    "statl": "दिल्ली के कई इलाकों में"
+   }
+  },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",
    "col": "--c-gov",
