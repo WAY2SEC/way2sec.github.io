@@ -1,8 +1,155 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T13:42:50+05:30",
+ "updated": "2026-11-09T14:09:44+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · కాలుష్యం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "AQI 509",
+   "statl": "ఆదివారం రాత్రి నగర సగటు గాలి నాణ్యత సూచీ",
+   "h": "దీపావళి టపాసులతో హైదరాబాద్ గాలి నాణ్యత 500 దాటింది",
+   "p": "దీపావళి రాత్రి భారీగా టపాసులు కాల్చడంతో హైదరాబాద్‌లో గాలి కాలుష్యం తీవ్రంగా పెరిగింది. ఆదివారం రాత్రి 9.30కి నగర సగటు AQI 509కి చేరగా, మాసబ్ ట్యాంక్ సమీప రవి కాలనీలో 995 నమోదైంది. రాత్రి 11.30కి సగటు 442కి తగ్గినా శేరిలింగంపల్లిలో 666 ఉంది. సోమవారం ఉదయం AQI 178గా ఉంది. కళ్ల మంట, శ్వాస ఇబ్బందులు ఉన్నాయని స్థానికులు చెప్పారు.",
+   "src": "Sakshi Post",
+   "url": "https://www.sakshipost.com/news/hyderabad/hyderabad-aqi-crosses-500-after-diwali-celebrations-483086",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రవి కాలనీలో AQI 995 నమోదు",
+    "శేరిలింగంపల్లిలో రాత్రి 11.30కి AQI 666",
+    "సోమవారం ఉదయం AQI 178కి తగ్గింది"
+   ],
+   "why": "పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలున్నవారు కాలుష్యం విషయంలో జాగ్రత్తగా ఉండాల్సిన సమయం ఇది.",
+   "en": {
+    "h": "Diwali crackers push Hyderabad's air quality index past 500",
+    "p": "Heavy bursting of firecrackers on Diwali night sharply worsened air pollution in Hyderabad. The city's average AQI reached 509 at 9.30 pm on Sunday, and Ravi Colony near Masab Tank recorded 995. The average fell to 442 by 11.30 pm, but Serilingampally still read 666. On Monday morning the AQI was 178. Residents reported eye irritation and breathing trouble.",
+    "pts": [
+     "Ravi Colony recorded an AQI of 995",
+     "Serilingampally at AQI 666 at 11.30 pm",
+     "AQI eased to 178 on Monday morning"
+    ],
+    "why": "Children, the elderly and people with breathing problems need to take care while pollution stays high.",
+    "cat": "Hyderabad · Pollution",
+    "statl": "City's average AQI on Sunday night"
+   },
+   "hi": {
+    "h": "दिवाली पटाखों से हैदराबाद का वायु गुणवत्ता सूचकांक 500 पार",
+    "p": "दिवाली की रात भारी आतिशबाज़ी से हैदराबाद में वायु प्रदूषण तेज़ी से बढ़ा। रविवार रात 9.30 बजे शहर का औसत AQI 509 पहुंचा और मासब टैंक के पास रवि कॉलोनी में 995 दर्ज हुआ। रात 11.30 बजे औसत 442 पर आया, लेकिन शेरिलिंगमपल्ली में 666 रहा। सोमवार सुबह AQI 178 था। लोगों ने आंखों में जलन और सांस की तकलीफ़ बताई।",
+    "pts": [
+     "रवि कॉलोनी में AQI 995 दर्ज",
+     "रात 11.30 बजे शेरिलिंगमपल्ली में AQI 666",
+     "सोमवार सुबह AQI घटकर 178"
+    ],
+    "why": "प्रदूषण ऊंचा रहने तक बच्चों, बुज़ुर्गों और सांस के मरीज़ों को सावधानी बरतनी चाहिए।",
+    "cat": "हैदराबाद · प्रदूषण",
+    "statl": "रविवार रात शहर का औसत AQI"
+   },
+   "d": "09.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "తెలంగాణ · రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "నవం. 30",
+   "statl": "అప్పటి వరకు నీరు ఇవ్వాలని రైతుల డిమాండ్",
+   "h": "కడెం నీటి కోసం రైతుల రాస్తారోకో: పొట్ట దశలో వరి",
+   "p": "కడెం ప్రాజెక్టు నుంచి వరి పంటకు నీరు విడుదల చేయాలని కోరుతూ జన్నారం మండలం తపాలపూర్ వద్ద రైతులు సోమవారం మంచిర్యాల–ఉట్నూర్–నిర్మల్ రహదారిని దిగ్బంధించారు. పంట పొట్ట దశలో ఉందని, మరో తడి అవసరమని, నవంబర్ 30 వరకు నీరు ఇవ్వాలని కోరారు. తాగునీటి కోసం నీటిని నిల్వ చేస్తూ నవంబర్ 7 నుంచి పొలాలకు సరఫరా ఉండదని అధికారులు చెప్పడంతో నిరసనలు మొదలయ్యాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/kadem-dam-water-row-farmers-stage-protests-in-mancherial-nirmal-districts",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "mancherial",
+   "loc": "తపాలపూర్",
+   "pts": [
+    "మంచిర్యాల–ఉట్నూర్–నిర్మల్ రోడ్డుపై రాస్తారోకో",
+    "నవంబర్ 7 నుంచి పొలాలకు నీరు నిలిపివేత",
+    "నవంబర్ 5న కూడా రైతుల నిరసనలు"
+   ],
+   "why": "చివరి తడి అందకపోతే మంచిర్యాల, నిర్మల్ జిల్లాల వరి రైతులు పంట నష్టపోయే ప్రమాదం ఉంది.",
+   "en": {
+    "h": "Farmers block road seeking Kadem water for paddy at booting stage",
+    "p": "Farmers blocked the Mancherial–Utnoor–Nirmal road at Thapalapur in Jannaram mandal on Monday, demanding water from the Kadem project for their paddy. They said the crop is at the booting stage and needs one more watering, and asked for water until November 30. Protests began after officials said that, with water reserved for drinking needs, there would be no supply to fields from November 7.",
+    "pts": [
+     "Road blockade on Mancherial–Utnoor–Nirmal road",
+     "Supply to fields stopped from November 7",
+     "Farmers also protested on November 5"
+    ],
+    "why": "Paddy farmers in Mancherial and Nirmal districts risk crop loss if the last watering does not come.",
+    "cat": "Telangana · Farmers",
+    "statl": "Farmers want water until this date"
+   },
+   "hi": {
+    "h": "कडेम पानी के लिए किसानों का रास्ता रोको: धान बालियां निकलने के दौर में",
+    "p": "कडेम परियोजना से धान के लिए पानी छोड़ने की मांग को लेकर सोमवार को जन्नारम मंडल के तपालपुर में किसानों ने मंचेरियल–उटनूर–निर्मल सड़क जाम कर दी। उन्होंने कहा कि फसल बालियां निकलने के दौर में है और एक और सिंचाई चाहिए, इसलिए 30 नवंबर तक पानी दिया जाए। पीने के पानी के लिए भंडारण के कारण 7 नवंबर से खेतों को आपूर्ति बंद होने की अधिकारियों की घोषणा के बाद विरोध शुरू हुआ।",
+    "pts": [
+     "मंचेरियल–उटनूर–निर्मल सड़क पर रास्ता रोको",
+     "7 नवंबर से खेतों को पानी बंद",
+     "5 नवंबर को भी किसानों का विरोध"
+    ],
+    "why": "आखिरी सिंचाई न मिलने पर मंचेरियल और निर्मल ज़िलों के धान किसानों को फसल नुकसान का खतरा है।",
+    "cat": "तेलंगाना · किसान",
+    "statl": "किसान इस तारीख तक पानी चाहते हैं"
+   },
+   "d": "09.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "ఏపీ · అగ్నిప్రమాదాలు",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "దీపావళి రాత్రి అగ్నిప్రమాదాలు జరిగిన ప్రాంతాలు",
+   "h": "మూడు చోట్ల అగ్నిప్రమాదాలు: అప్రమత్తంగా ఉండాలని సీఎం చంద్రబాబు ఆదేశం",
+   "p": "రాజాం (విజయనగరం), గన్నవరం (కృష్ణా), తిరువూరు (ఎన్టీఆర్) లలో జరిగిన అగ్నిప్రమాదాల నేపథ్యంలో అధికారులు అప్రమత్తంగా ఉండాలని ముఖ్యమంత్రి చంద్రబాబు నాయుడు సోమవారం ఆదేశించారు. రాజాంలో టపాసులు పడి ఆటోమొబైల్ షోరూం, గన్నవరంలో నిప్పురవ్వలతో ఫర్నిచర్ దుకాణం కాలిపోయాయి. తిరువూరులో షార్ట్ సర్క్యూట్‌తో ఒక దుకాణం దగ్ధమైంది. అగ్నిమాపక సిబ్బంది త్వరగా మంటలు ఆర్పారని అధికారులు తెలిపారు.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/andhra-cm-directs-officials-to-remain-alert-after-fire-accidents-in-three-places/3094031/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "రాజాంలో టపాసులతో షోరూం దగ్ధం",
+    "గన్నవరంలో ఫర్నిచర్ దుకాణానికి నిప్పు",
+    "తిరువూరులో షార్ట్ సర్క్యూట్‌తో దుకాణం దగ్ధం"
+   ],
+   "why": "పండుగ సమయంలో టపాసులు, విద్యుత్ జాగ్రత్తలు పాటించాలని దుకాణదారులు, ప్రజలకు ఇది హెచ్చరిక.",
+   "en": {
+    "h": "Fires at three places: CM Chandrababu Naidu orders officials to stay alert",
+    "p": "After fires at Rajam (Vizianagaram), Gannavaram (Krishna) and Tiruvuru (NTR), Chief Minister Chandrababu Naidu on Monday directed officials to remain alert. In Rajam, firecrackers landed on an automobile showroom and gutted it; in Gannavaram, sparks set a furniture shop on fire. In Tiruvuru, a shop was gutted due to a short circuit. Officials said fire personnel put out the flames quickly.",
+    "pts": [
+     "Showroom gutted by firecrackers in Rajam",
+     "Furniture shop caught fire in Gannavaram",
+     "Shop gutted by short circuit in Tiruvuru"
+    ],
+    "why": "It is a reminder to shopkeepers and the public to take firecracker and electrical safety precautions during festivals.",
+    "cat": "AP · Fire accidents",
+    "statl": "Places hit by fires on Diwali night"
+   },
+   "hi": {
+    "h": "तीन जगह आग: मुख्यमंत्री चंद्रबाबू नायडू ने अधिकारियों को सतर्क रहने को कहा",
+    "p": "राजाम (विजयनगरम), गन्नावरम (कृष्णा) और तिरुवुरु (एनटीआर) में आग की घटनाओं के बाद मुख्यमंत्री चंद्रबाबू नायडू ने सोमवार को अधिकारियों को सतर्क रहने का निर्देश दिया। राजाम में पटाखे गिरने से एक ऑटोमोबाइल शोरूम जल गया और गन्नावरम में चिंगारियों से फ़र्नीचर की दुकान में आग लगी। तिरुवुरु में शॉर्ट सर्किट से एक दुकान जल गई। अधिकारियों ने कहा कि दमकलकर्मियों ने जल्दी आग बुझा दी।",
+    "pts": [
+     "राजाम में पटाखों से शोरूम जला",
+     "गन्नावरम में फ़र्नीचर दुकान में आग",
+     "तिरुवुरु में शॉर्ट सर्किट से दुकान जली"
+    ],
+    "why": "त्योहारों में पटाखों और बिजली से जुड़ी सावधानी बरतने की यह दुकानदारों और लोगों के लिए चेतावनी है।",
+    "cat": "आंध्र प्रदेश · आग",
+    "statl": "दिवाली की रात आग वाली जगहें"
+   },
+   "d": "09.11.2026",
+   "t": "14:05"
+  },
   {
    "cat": "తెలంగాణ · క్రీడలు",
    "col": "--c-gov",
@@ -1778,298 +1925,6 @@
    },
    "d": "09.11.2026",
    "t": "08:05"
-  },
-  {
-   "cat": "తమిళనాడు · దీపావళి",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "1,387",
-   "statl": "టపాసుల ప్రమాదాల్లో గాయపడినవారు",
-   "h": "తమిళనాడులో టపాసుల ప్రమాదాల్లో 1,387 మందికి గాయాలు; విల్లుపురంలో బాలుడు మృతి",
-   "p": "దీపావళి సందర్భంగా తమిళనాడు అంతటా టపాసుల ప్రమాదాల్లో ఆదివారం ఉదయం నాటికి 1,387 మంది గాయపడ్డారని రాష్ట్ర అత్యవసర నిర్వహణ సేవల విభాగం తెలిపింది. విల్లుపురం జిల్లా వీరచోళపురంలో ఇంట్లో నిల్వ ఉంచిన టపాసులు పేలి 10 ఏళ్ల బాలుడు మరణించగా, అతని తల్లిదండ్రులు తీవ్రంగా గాయపడి ఐసీయూలో ఉన్నారు. రెండు రోజుల క్రితం మదురై జిల్లా మేలూరులో ఇలాంటి పేలుడులో ఓ కళాశాల విద్యార్థి చనిపోయాడు.",
-   "src": "Madhyamam",
-   "url": "https://madhyamamonline.com/india/diwali-mishap-kills-boy-in-tamil-nadu-buildings-catch-fire-in-mumbai-1570406",
-   "sec": [
-    "india"
-   ],
-   "st": "TN",
-   "place": "st-TN",
-   "loc": "వీరచోళపురం",
-   "pts": [
-    "రాష్ట్రవ్యాప్తంగా 1,387 మందికి గాయాలు",
-    "ఇంట్లో టపాసులు పేలి 10 ఏళ్ల బాలుడు మృతి",
-    "మేలూరులో పేలుడుకు కళాశాల విద్యార్థి బలి"
-   ],
-   "why": "ఇళ్లలో టపాసులు నిల్వ ఉంచడం ఎంత ప్రమాదకరమో తమిళనాడులోని తెలుగు కుటుంబాలు సహా అందరూ గుర్తించాలి.",
-   "en": {
-    "h": "1,387 hurt in cracker accidents in Tamil Nadu; boy dies in Villupuram",
-    "p": "The Tamil Nadu Emergency Management Service said 1,387 people were injured in firecracker-related incidents across the state as of Sunday morning. In Veerachozhapuram, Villupuram district, firecrackers stored at a home exploded, killing a 10-year-old boy; his parents were seriously injured and are in the ICU. Two days earlier, a college student died in a similar blast in Melur, Madurai district.",
-    "pts": [
-     "1,387 injured across the state",
-     "10-year-old dies as crackers stored at home explode",
-     "College student killed in Melur blast"
-    ],
-    "why": "Everyone, including Telugu families in Tamil Nadu, should note how dangerous it is to store crackers at home.",
-    "cat": "Tamil Nadu · Diwali",
-    "statl": "Injured in cracker accidents"
-   },
-   "hi": {
-    "h": "तमिलनाडु में पटाखा हादसों में 1,387 घायल; विल्लुपुरम में बच्चे की मौत",
-    "p": "तमिलनाडु आपातकालीन प्रबंधन सेवा ने बताया कि रविवार सुबह तक राज्य भर में पटाखों से जुड़े हादसों में 1,387 लोग घायल हुए। विल्लुपुरम ज़िले के वीरचोळपुरम में एक घर में रखे पटाखे फटने से 10 साल के बच्चे की मौत हो गई; उसके माता-पिता गंभीर रूप से घायल होकर आईसीयू में हैं। दो दिन पहले मदुरै ज़िले के मेलूर में ऐसे ही धमाके में एक कॉलेज छात्र की जान गई थी।",
-    "pts": [
-     "राज्य भर में 1,387 लोग घायल",
-     "घर में रखे पटाखे फटने से 10 साल के बच्चे की मौत",
-     "मेलूर धमाके में कॉलेज छात्र की मौत"
-    ],
-    "why": "तमिलनाडु में रहने वाले तेलुगु परिवारों समेत सभी को समझना चाहिए कि घर में पटाखे रखना कितना खतरनाक है।",
-    "cat": "तमिलनाडु · दिवाली",
-    "statl": "पटाखा हादसों में घायल"
-   },
-   "d": "09.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "మహారాష్ట్ర · ముంబై",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "89",
-   "statl": "రెండు రోజుల్లో అగ్నిప్రమాదాలు",
-   "h": "దీపావళి రెండు రోజుల్లో ముంబైలో 89 అగ్నిప్రమాదాలు; అంధేరిలో సెక్యూరిటీ గార్డు మృతి",
-   "p": "దీపావళి సమయంలో రెండు రోజుల్లో ముంబైలో 89 అగ్నిప్రమాదాలు జరిగాయి; వాటిలో 28 టపాసుల వల్లేనని, నలుగురు గాయపడ్డారని అధికారులు తెలిపారు. అంధేరి వెస్ట్‌లోని 27 అంతస్తుల భవనంలో 17వ అంతస్తు ఫ్లాట్‌లో శనివారం రాత్రి మంటలు చెలరేగాయి. లిఫ్ట్‌లో చిక్కుకుని 56 ఏళ్ల సెక్యూరిటీ గార్డు ఊపిరాడక మరణించాడు. ఇంట్లో పూజగదిలోని దీపం వల్ల మంటలు రేగి ఉండొచ్చని అగ్నిమాపక అధికారి చెప్పారు.",
-   "src": "Free Press Journal",
-   "url": "https://www.freepressjournal.in/mumbai/mumbai-records-89-diwali-fire-incidents-in-2-days-guard-dies-in-andheri-blaze",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-mumbaisuburban",
-   "loc": "అంధేరి",
-   "pts": [
-    "రెండు రోజుల్లో 89 అగ్నిప్రమాదాలు, 28 టపాసుల వల్ల",
-    "అంధేరి భవనం లిఫ్ట్‌లో చిక్కుకుని గార్డు మృతి",
-    "రాత్రి 10.37కి మంటలు అదుపులోకి"
-   ],
-   "why": "ఎత్తైన భవనాల్లో మంటలు చెలరేగినప్పుడు లిఫ్ట్ కాకుండా మెట్లు వాడాలని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "en": {
-    "h": "Mumbai sees 89 fires in two Diwali days; guard dies in Andheri",
-    "p": "Mumbai recorded 89 fire incidents over two days of Diwali; officials said 28 were caused by firecrackers and four people were injured. On Saturday night, a fire broke out in a 17th-floor flat of a 27-storey building in Andheri West. A 56-year-old security guard trapped in a lift died of suffocation. A fire official said a diya in the home's prayer shrine may have sparked the blaze.",
-    "pts": [
-     "89 fires in two days, 28 due to crackers",
-     "Guard trapped in Andheri building lift dies",
-     "Fire brought under control by 10.37 pm"
-    ],
-    "why": "The incident is a reminder to use stairs, not lifts, when fire breaks out in tall buildings.",
-    "cat": "Maharashtra · Mumbai",
-    "statl": "Fires in two days"
-   },
-   "hi": {
-    "h": "दिवाली के दो दिनों में मुंबई में 89 आग की घटनाएं; अंधेरी में गार्ड की मौत",
-    "p": "दिवाली के दो दिनों में मुंबई में आग की 89 घटनाएं दर्ज हुईं; अधिकारियों के मुताबिक इनमें 28 पटाखों से हुईं और चार लोग घायल हुए। शनिवार रात अंधेरी वेस्ट की 27 मंज़िला इमारत की 17वीं मंज़िल के फ्लैट में आग लगी। लिफ्ट में फंसे 56 साल के सुरक्षा गार्ड की दम घुटने से मौत हो गई। दमकल अधिकारी ने कहा कि घर के पूजा स्थल में जल रहे दीये से आग लगी हो सकती है।",
-    "pts": [
-     "दो दिनों में 89 आग, 28 पटाखों से",
-     "अंधेरी की इमारत की लिफ्ट में फंसे गार्ड की मौत",
-     "रात 10.37 बजे तक आग पर काबू"
-    ],
-    "why": "यह घटना याद दिलाती है कि ऊंची इमारतों में आग लगने पर लिफ्ट नहीं, सीढ़ियों का इस्तेमाल करें।",
-    "cat": "महाराष्ट्र · मुंबई",
-    "statl": "दो दिनों में आग की घटनाएं"
-   },
-   "d": "09.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాన్ యుద్ధం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "70%+",
-   "statl": "కుర్దిస్తాన్‌లో కరెంట్ నిలిచిన ప్రాంతం",
-   "h": "ఇరాక్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి; కుర్దిస్తాన్‌లో 70% ప్రాంతానికి కరెంట్ కట్",
-   "p": "ఉత్తర ఇరాక్‌లోని ఖోర్ మోర్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి జరిగి మంటలు చెలరేగాయి. దీంతో కుర్దిస్తాన్ ప్రాంతంలో 70 శాతానికి పైగా కరెంట్ సరఫరా నిలిచిపోయింది. మరోవైపు ఇరాన్ భూమార్గ సరఫరాలపై 'ఐరన్ గేట్' పేరుతో అమెరికా దిగ్బంధనం అమల్లోకి వచ్చిందని ట్రంప్ ప్రకటించారు. అణు కార్యక్రమం, హార్మూజ్ జలసంధి తెరవడంపై చర్చలు ముందుకెళ్తే మళ్లీ దాడులు జరిగే అవకాశం చాలా తక్కువని ఆయన అన్నారు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఖోర్ మోర్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి, మంటలు",
-    "కుర్దిస్తాన్‌లో 70%కి పైగా ప్రాంతానికి కరెంట్ లేదు",
-    "'ఐరన్ గేట్' దిగ్బంధనం అమల్లోకి వచ్చిందన్న ట్రంప్"
-   ],
-   "why": "గల్ఫ్ ప్రాంత ఉద్రిక్తతలు అక్కడ పనిచేసే తెలుగువారిని, వారి కుటుంబాలను ఆందోళనకు గురిచేస్తాయి.",
-   "d": "09.11.2026",
-   "t": "07:35",
-   "en": {
-    "h": "Drone hits Iraq gas facility; 70% of Kurdish region loses power",
-    "p": "A drone struck the Khor Mor gas facility in northern Iraq, causing a fire. As a result, more than 70 percent of the Kurdish region is without power. Meanwhile, Trump announced that the US blockade on Iran's land supply routes, called 'Iron Gate', is in effect. He said renewed strikes are highly unlikely if talks on the nuclear programme and reopening the Strait of Hormuz make progress.",
-    "pts": [
-     "Drone strike and fire at Khor Mor gas facility",
-     "Over 70% of Kurdish region without power",
-     "Trump says 'Iron Gate' blockade is in effect"
-    ],
-    "why": "Tensions in the Gulf region worry Telugu people working there and their families.",
-    "cat": "World · Iran war",
-    "statl": "Area without power in Kurdistan"
-   },
-   "hi": {
-    "h": "इराक के गैस केंद्र पर ड्रोन हमला; कुर्द क्षेत्र के 70% हिस्से में बिजली गुल",
-    "p": "उत्तरी इराक के खोर मोर गैस केंद्र पर ड्रोन हमला हुआ, जिससे आग लग गई। इसके चलते कुर्द क्षेत्र के 70 प्रतिशत से अधिक हिस्से में बिजली आपूर्ति ठप हो गई। वहीं ट्रंप ने घोषणा की कि ईरान के ज़मीनी आपूर्ति मार्गों पर 'आयरन गेट' नाम की अमेरिकी नाकाबंदी लागू हो गई है। उन्होंने कहा कि परमाणु कार्यक्रम और होर्मुज़ जलडमरूमध्य खोलने पर बातचीत आगे बढ़ी तो दोबारा हमलों की संभावना बहुत कम है।",
-    "pts": [
-     "खोर मोर गैस केंद्र पर ड्रोन हमला, आग",
-     "कुर्द क्षेत्र के 70% से अधिक हिस्से में बिजली नहीं",
-     "ट्रंप बोले: 'आयरन गेट' नाकाबंदी लागू"
-    ],
-    "why": "खाड़ी क्षेत्र का तनाव वहां काम करने वाले तेलुगु लोगों और उनके परिवारों की चिंता बढ़ाता है।",
-    "cat": "दुनिया · ईरान युद्ध",
-    "statl": "कुर्दिस्तान में बिजली गुल क्षेत्र"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3",
-   "statl": "పూర్తిగా కాలిపోయిన కంపెనీలు",
-   "h": "కూకట్‌పల్లి ఆస్బెస్టాస్ కాలనీలో భారీ అగ్నిప్రమాదం; మూడు కంపెనీలు దగ్ధం",
-   "p": "హైదరాబాద్ కూకట్‌పల్లి పోలీస్ స్టేషన్ పరిధిలోని ఆస్బెస్టాస్ కాలనీలో పేపర్ టీ కప్పులు, ప్లేట్లు తయారు చేసే కంపెనీలో భారీ మంటలు చెలరేగాయి. మంటలు పక్కనే ఉన్న జీఆర్‌టీ నెయ్యి, హల్దీరామ్ గోదాములకు వ్యాపించాయి. మూడు కంపెనీలు, ఐదు ఆటోలు, ఒక డీసీఎం వాహనం పూర్తిగా కాలిపోయాయి. షార్ట్ సర్క్యూట్ కారణమని పోలీసులు అనుమానిస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "కూకట్‌పల్లి",
-   "pts": [
-    "పేపర్ కప్పుల కంపెనీ నుంచి నెయ్యి, హల్దీరామ్ గోదాములకు మంటలు",
-    "ఐదు ఆటోలు, ఒక డీసీఎం వాహనం దగ్ధం",
-    "షార్ట్ సర్క్యూట్ కారణమని పోలీసుల అనుమానం"
-   ],
-   "why": "పారిశ్రామిక ప్రాంతాల్లో గోదాములు, కంపెనీలు అగ్నిమాపక భద్రత ఏర్పాట్లు సరిచూసుకోవాల్సిన అవసరాన్ని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "en": {
-    "h": "Major fire at Kukatpally's Asbestos Colony; three companies gutted",
-    "p": "A major fire broke out at a company making paper tea cups and plates in Asbestos Colony under Kukatpally police station limits in Hyderabad. The flames spread to nearby GRT Ghee and Haldiram godowns. Three companies, five autos and a DCM vehicle were completely burnt. Police suspect a short circuit caused the fire.",
-    "pts": [
-     "Fire spread from paper cup unit to ghee and Haldiram godowns",
-     "Five autos and a DCM vehicle burnt",
-     "Police suspect a short circuit"
-    ],
-    "why": "The incident is a reminder for godowns and companies in industrial areas to check their fire safety arrangements.",
-    "cat": "Hyderabad · Fire",
-    "statl": "Companies completely gutted"
-   },
-   "hi": {
-    "h": "कूकटपल्ली की एस्बेस्टस कॉलोनी में भीषण आग; तीन कंपनियां जलकर खाक",
-    "p": "हैदराबाद में कूकटपल्ली थाना क्षेत्र की एस्बेस्टस कॉलोनी में पेपर चाय कप और प्लेट बनाने वाली एक कंपनी में भीषण आग लग गई। आग पास के जीआरटी घी और हल्दीराम गोदामों तक फैल गई। तीन कंपनियां, पांच ऑटो और एक डीसीएम वाहन पूरी तरह जल गए। पुलिस को शॉर्ट सर्किट से आग लगने का संदेह है।",
-    "pts": [
-     "पेपर कप कंपनी से घी और हल्दीराम गोदामों तक फैली आग",
-     "पांच ऑटो और एक डीसीएम वाहन जले",
-     "पुलिस को शॉर्ट सर्किट का संदेह"
-    ],
-    "why": "यह घटना औद्योगिक इलाकों के गोदामों और कंपनियों को अग्नि सुरक्षा इंतजाम जांचने की याद दिलाती है।",
-    "cat": "हैदराबाद · आग",
-    "statl": "पूरी तरह जली कंपनियां"
-   },
-   "d": "09.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · సహకార ఎన్నికలు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "2,050",
-   "statl": "ప్రాథమిక వ్యవసాయ సహకార సంఘాలు",
-   "h": "ఏపీలో 14 ఏళ్ల తర్వాత సహకార సంఘాల ఎన్నికలకు సన్నాహాలు",
-   "p": "రాష్ట్రంలోని సుమారు 2,050 ప్రాథమిక వ్యవసాయ సహకార పరపతి సంఘాలకు ఎన్నికలు నిర్వహించేందుకు కూటమి ప్రభుత్వం కసరత్తు ప్రారంభించింది. నోటిఫికేషన్ కోసం ఎదురుచూడకుండా ఒకే దశ ఎన్నికలకు ఏర్పాట్లు మొదలుపెట్టాలని జిల్లా సహకార అధికారులను ఆదేశించారు. పది రోజుల్లో నివేదిక ఇవ్వాలన్నారు. జనవరిలో జిల్లాల వారీగా ఎన్నికలు జరగొచ్చు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "సుమారు 14 ఏళ్లుగా సహకార ఎన్నికలు జరగలేదు",
-    "ఒకే దశ ఎన్నికలకు ఏర్పాట్లు చేయాలని ఆదేశం",
-    "10 రోజుల్లో చర్యల నివేదిక ఇవ్వాలి"
-   ],
-   "why": "సహకార సంఘాల్లో సభ్యులైన లక్షలాది రైతులు తమ ప్రతినిధులను ఎన్నుకునే అవకాశం మళ్లీ రానుంది.",
-   "en": {
-    "h": "Andhra Pradesh prepares for cooperative society polls after 14 years",
-    "p": "The coalition government has begun groundwork to hold elections to about 2,050 primary agricultural cooperative credit societies in the state. District cooperative officers have been told to start arrangements for a single-phase poll without waiting for a notification and to report within ten days. Elections may be held district-wise in January.",
-    "pts": [
-     "No cooperative elections held for about 14 years",
-     "Officers told to prepare for a single-phase poll",
-     "Action report due within 10 days"
-    ],
-    "why": "Lakhs of farmers who are members of cooperative societies will again get a chance to elect their representatives.",
-    "cat": "AP · Cooperative polls",
-    "statl": "Primary agricultural cooperative societies"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में 14 साल बाद सहकारी समिति चुनाव की तैयारी",
-    "p": "गठबंधन सरकार ने राज्य की करीब 2,050 प्राथमिक कृषि सहकारी ऋण समितियों के चुनाव कराने की तैयारी शुरू कर दी है। जिला सहकारी अधिकारियों से कहा गया है कि अधिसूचना का इंतजार किए बिना एक चरण के चुनाव की व्यवस्था शुरू करें और दस दिन में रिपोर्ट दें। जनवरी में जिलेवार चुनाव हो सकते हैं।",
-    "pts": [
-     "करीब 14 साल से सहकारी चुनाव नहीं हुए",
-     "एक चरण के चुनाव की तैयारी का आदेश",
-     "10 दिन में कार्रवाई रिपोर्ट देनी होगी"
-    ],
-    "why": "सहकारी समितियों के सदस्य लाखों किसानों को फिर से अपने प्रतिनिधि चुनने का मौका मिलेगा।",
-    "cat": "आंध्र प्रदेश · सहकारी चुनाव",
-    "statl": "प्राथमिक कृषि सहकारी समितियां"
-   },
-   "d": "09.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · కర్నూలు",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "4",
-   "statl": "దీపావళి రాత్రి అగ్నిప్రమాద ప్రాంతాలు",
-   "h": "దీపావళి రాత్రి ఏపీలో పలుచోట్ల అగ్నిప్రమాదాలు; కర్నూలులో ఐటీసీ ఆవరణలో మంటలు",
-   "p": "దీపావళి సందర్భంగా రాష్ట్రంలో పలుచోట్ల అగ్నిప్రమాదాలు జరిగాయి. కర్నూలు నగరం మధ్యలోని ఐటీసీ ఆవరణలో టపాసుల నిప్పురవ్వలు పడి చెట్లు కాలిపోయాయి. గన్నవరంలో గృహోపకరణాల దుకాణంలో, ఆమదాలవలసలో ఆయిల్ గోదాంలో, తెనాలిలో ఎలక్ట్రిక్ స్కూటర్ షోరూంలో మంటలు చెలరేగాయి. అగ్నిమాపక సిబ్బంది మంటలను అదుపులోకి తెచ్చారు.",
-   "src": "Andhra Jyothy, ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "కర్నూలు ఐటీసీ ఆవరణలో టపాసుల రవ్వలతో మంటలు",
-    "ఆమదాలవలసలో తారాజువ్వ ఆయిల్ గోదాంపై పడి ప్రమాదం",
-    "తెనాలి షోరూంలో మూడు ఈ-స్కూటర్లు దగ్ధం"
-   ],
-   "why": "జనావాసాలు, దుకాణాలు, గోదాముల దగ్గర టపాసులు కాల్చేటప్పుడు జాగ్రత్తలు ఎంత ముఖ్యమో ఈ ఘటనలు చూపిస్తున్నాయి.",
-   "en": {
-    "h": "Diwali night fires at several places in AP; blaze in Kurnool ITC compound",
-    "p": "Several fire accidents took place in the state during Diwali. In central Kurnool city, sparks from firecrackers fell into the ITC compound and burnt trees. Fires also broke out at a home appliances shop in Gannavaram, an oil godown in Amadalavalasa and an electric scooter showroom in Tenali. Fire personnel brought the flames under control.",
-    "pts": [
-     "Cracker sparks set fire in Kurnool's ITC compound",
-     "Sky-rocket hit an oil godown in Amadalavalasa",
-     "Three e-scooters burnt in Tenali showroom"
-    ],
-    "why": "These incidents show how important it is to take care while bursting crackers near homes, shops and godowns.",
-    "cat": "AP · Kurnool",
-    "statl": "Places hit by Diwali night fires"
-   },
-   "hi": {
-    "h": "दिवाली की रात आंध्र में कई जगह आग; कुर्नूल के आईटीसी परिसर में लपटें",
-    "p": "दिवाली के मौके पर राज्य में कई जगह आग की घटनाएं हुईं। कुर्नूल शहर के बीच स्थित आईटीसी परिसर में पटाखों की चिंगारियां गिरने से पेड़ जल गए। गन्नवरम में घरेलू उपकरण की दुकान, आमदालवलसा में तेल गोदाम और तेनाली में इलेक्ट्रिक स्कूटर शोरूम में आग लगी। दमकल कर्मियों ने आग पर काबू पाया।",
-    "pts": [
-     "कुर्नूल आईटीसी परिसर में पटाखों की चिंगारी से आग",
-     "आमदालवलसा में रॉकेट तेल गोदाम पर गिरा",
-     "तेनाली शोरूम में तीन ई-स्कूटर जले"
-    ],
-    "why": "ये घटनाएं बताती हैं कि घरों, दुकानों और गोदामों के पास पटाखे जलाते समय सावधानी कितनी जरूरी है।",
-    "cat": "आंध्र प्रदेश · कुर्नूल",
-    "statl": "दिवाली की रात आग वाली जगहें"
-   },
-   "d": "09.11.2026",
-   "t": "07:05"
   },
   {
    "cat": "🪔 దీపావళి · ఆలేరు",
