@@ -4,6 +4,63 @@
  "version": 2,
  "stories": [
   {
+   "cat": "కార్మికుల సమస్య · మహబూబాబాద్",
+   "col": "--c-job",
+   "art": "economy",
+   "stat": "₹14,000",
+   "statl": "ఇవ్వాల్సిన చోట ₹10,000 లోపే – పంచాయతీ సిబ్బంది ఆవేదన",
+   "h": "జీవో 6 ప్రకారం వేతనాలు ఇవ్వడం లేదు – గ్రామ పంచాయతీ సిబ్బంది ఆవేదన, కార్మిక అధికారికి వినతి",
+   "p": "ప్రభుత్వం జారీ చేసిన G.O.Ms.No.6 (తేదీ 30.05.2026) ప్రకారం గ్రామ పంచాయతీ సిబ్బందికి కనీస వేతనాలు చెల్లించడం లేదని, వెంటనే అమలు చేయాలని కోరుతూ మహబూబాబాద్ జిల్లా బయ్యారం మండలానికి చెందిన చేరాల జలంధర్ జిల్లా కార్మిక అధికారికి వినతిపత్రం సమర్పించారు. ప్రతిని కలెక్టర్, జిల్లా పంచాయతీ అధికారికి కూడా పంపారు. జీవో ప్రకారం Zone-III లో పారిశుద్ధ్య కార్మికులు, వాచ్‌మెన్, ఆఫీస్ అటెండర్లకు ₹14,000, క్లర్క్‌కు ₹15,000, ఎలక్ట్రీషియన్‌కు ₹16,500 ప్రాథమిక వేతనం ఇవ్వాల్సి ఉండగా, ప్రస్తుతం ₹10,000 లోపే చెల్లిస్తున్నారని వినతిలో పేర్కొన్నారు. 01.06.2026 నుంచి జీవో అమలు చేసి పూర్తి వేతనాలు చెల్లించేలా అధికారులను ఆదేశించాలని కోరారు.",
+   "src": "Way2Sec రిపోర్టర్ · బయ్యారం",
+   "url": "",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "mahabubabad",
+   "loc": "బయ్యారం",
+   "pts": [
+    "జీవో 6 (Zone-III): పారిశుద్ధ్య కార్మికుడు, వాచ్‌మెన్, అటెండర్ ₹14,000 · క్లర్క్ ₹15,000 · ఎలక్ట్రీషియన్ ₹16,500",
+    "ఫిర్యాదు ప్రకారం ప్రస్తుతం చెల్లిస్తున్నది ₹10,000 లోపే",
+    "కొత్త కనీస వేతనాలు 01.06.2026 నుంచి అమల్లో",
+    "ప్రతులు: కలెక్టర్, జిల్లా పంచాయతీ అధికారి"
+   ],
+   "why": "ఊరిని శుభ్రంగా ఉంచే, నీళ్లు అందించే పంచాయతీ సిబ్బందికి ప్రభుత్వం నిర్ణయించిన కనీస వేతనం అందాల్సి ఉంది.",
+   "en": {
+    "cat": "Workers' issue · Mahabubabad",
+    "stat": "₹14,000",
+    "statl": "Panchayat staff say they get under ₹10,000",
+    "h": "Panchayat staff not paid as per G.O. 6 – petition to district labour officer",
+    "p": "Cherala Jalandhar of Bayyaram mandal, Mahabubabad district, has submitted a petition to the district labour officer saying gram panchayat staff are not being paid the minimum wages fixed in G.O.Ms.No.6 dated 30.05.2026, with copies to the Collector and the District Panchayat Officer. Under the G.O., Zone-III basic pay is ₹14,000 for sanitation workers, watchmen and office attenders, ₹15,000 for clerks and ₹16,500 for electricians, but the petition says staff are being paid less than ₹10,000. It asks officials to implement the G.O. from 01.06.2026 and pay full wages.",
+    "pts": [
+     "G.O. 6 (Zone-III): sanitation worker, watchman, attender ₹14,000 · clerk ₹15,000 · electrician ₹16,500",
+     "Petition says staff currently get less than ₹10,000",
+     "New minimum wages in force from 01.06.2026",
+     "Copies to the Collector and District Panchayat Officer"
+    ],
+    "why": "Panchayat staff who keep villages clean and run water supply are entitled to the minimum wage the government fixed."
+   },
+   "hi": {
+    "cat": "कर्मचारियों का मुद्दा · महबूबाबाद",
+    "stat": "₹14,000",
+    "statl": "पंचायत कर्मियों को ₹10,000 से भी कम",
+    "h": "जीओ 6 के अनुसार वेतन नहीं – ग्राम पंचायत कर्मियों ने श्रम अधिकारी को सौंपा ज्ञापन",
+    "p": "महबूबाबाद ज़िले के बय्यारम मंडल के चेराला जलंधर ने ज़िला श्रम अधिकारी को ज्ञापन देकर कहा है कि ग्राम पंचायत कर्मियों को 30.05.2026 के G.O.Ms.No.6 में तय न्यूनतम वेतन नहीं दिया जा रहा है; प्रति कलेक्टर और ज़िला पंचायत अधिकारी को भी भेजी गई। जीओ के अनुसार ज़ोन-III में सफ़ाई कर्मी, चौकीदार और ऑफ़िस अटेंडर को ₹14,000, क्लर्क को ₹15,000 और इलेक्ट्रीशियन को ₹16,500 मूल वेतन मिलना चाहिए, जबकि ज्ञापन के अनुसार अभी ₹10,000 से भी कम दिया जा रहा है। 01.06.2026 से जीओ लागू कर पूरा वेतन देने की माँग की गई है।",
+    "pts": [
+     "जीओ 6 (ज़ोन-III): सफ़ाई कर्मी, चौकीदार, अटेंडर ₹14,000 · क्लर्क ₹15,000 · इलेक्ट्रीशियन ₹16,500",
+     "ज्ञापन के अनुसार अभी ₹10,000 से कम",
+     "नया न्यूनतम वेतन 01.06.2026 से लागू",
+     "प्रति: कलेक्टर, ज़िला पंचायत अधिकारी"
+    ],
+    "why": "गाँव साफ़ रखने और पानी पहुँचाने वाले पंचायत कर्मियों को सरकार का तय न्यूनतम वेतन मिलना चाहिए।"
+   },
+   "d": "09.11.2026",
+   "t": "21:30",
+   "img": "photos/2026-11-09-gp-staff-wages-go6.jpg",
+   "imgfy": 0.4,
+   "local": true
+  },
+  {
    "cat": "తెలంగాణ · కొత్తగూడెం",
    "col": "--c-power",
    "art": "unity",
