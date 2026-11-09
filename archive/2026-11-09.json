@@ -1,8 +1,203 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 41,
+ "count": 45,
  "stories": [
+  {
+   "cat": "తెలంగాణ · క్రీడలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "డిసె. 11–22",
+   "statl": "ఖేలో ఇండియా యూత్ గేమ్స్ తేదీలు",
+   "h": "తెలంగాణలో డిసెంబర్ 11–22 వరకు ఖేలో ఇండియా యూత్ గేమ్స్",
+   "p": "తెలంగాణ తొలిసారి ఆతిథ్యమిస్తున్న ఖేలో ఇండియా యూత్ గేమ్స్ 2026 పూర్తి షెడ్యూల్‌ను కేంద్ర క్రీడల మంత్రి మన్‌సుఖ్ మాండవీయ ప్రకటించారు. డిసెంబర్ 11 నుంచి 22 వరకు 27 పోటీ క్రీడలు, ఒక ప్రదర్శన క్రీడ జరుగుతాయి. 22 క్రీడలు హైదరాబాద్‌లోని ఎల్బీ స్టేడియం, గచ్చిబౌలి కాంప్లెక్స్‌లో, మిగతావి ఖమ్మం, హనుమకొండ, కరీంనగర్, నిజామాబాద్, మహబూబ్‌నగర్‌లో జరుగుతాయి. సుమారు 6,000 మంది క్రీడాకారులు పాల్గొంటారని అంచనా.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-to-host-khelo-india-youth-games-from-december-11-27-sports-on-schedule",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "27 పోటీ క్రీడలు, ఒక ప్రదర్శన క్రీడ",
+    "హైదరాబాద్ సహా ఆరు నగరాల్లో పోటీలు",
+    "సాఫ్ట్‌బాల్ తొలిసారి పోటీ క్రీడగా"
+   ],
+   "why": "రాష్ట్ర యువ క్రీడాకారులకు, ఆరు ఆతిథ్య నగరాల ప్రజలకు జాతీయ స్థాయి పోటీలను దగ్గరగా చూసే అవకాశం.",
+   "en": {
+    "h": "Telangana to host Khelo India Youth Games from December 11–22",
+    "p": "Union Sports Minister Mansukh Mandaviya announced the full schedule of the Khelo India Youth Games 2026, which Telangana is hosting for the first time. From December 11 to 22, 27 competitive sports and one demonstration sport will be held. Twenty-two sports will be at Hyderabad's LB Stadium and Gachibowli complex, the rest in Khammam, Hanumakonda, Karimnagar, Nizamabad and Mahabubnagar. About 6,000 athletes are expected.",
+    "pts": [
+     "27 competitive sports and one demonstration sport",
+     "Events in six cities including Hyderabad",
+     "Softball debuts as a competitive sport"
+    ],
+    "why": "Young athletes in the state and people in the six host cities get to see national-level competition up close.",
+    "cat": "Telangana · Sports",
+    "statl": "Khelo India Youth Games dates"
+   },
+   "hi": {
+    "h": "तेलंगाना में 11–22 दिसंबर तक खेलो इंडिया यूथ गेम्स",
+    "p": "केंद्रीय खेल मंत्री मनसुख मांडविया ने खेलो इंडिया यूथ गेम्स 2026 का पूरा कार्यक्रम घोषित किया, जिसकी मेज़बानी तेलंगाना पहली बार कर रहा है। 11 से 22 दिसंबर तक 27 प्रतिस्पर्धी खेल और एक प्रदर्शन खेल होंगे। 22 खेल हैदराबाद के एलबी स्टेडियम और गाचीबौली कॉम्प्लेक्स में, बाकी खम्मम, हनमकोंडा, करीमनगर, निज़ामाबाद और महबूबनगर में होंगे। करीब 6,000 खिलाड़ियों के भाग लेने की उम्मीद है।",
+    "pts": [
+     "27 प्रतिस्पर्धी खेल और एक प्रदर्शन खेल",
+     "हैदराबाद समेत छह शहरों में मुकाबले",
+     "सॉफ्टबॉल पहली बार प्रतिस्पर्धी खेल के रूप में"
+    ],
+    "why": "राज्य के युवा खिलाड़ियों और छह मेज़बान शहरों के लोगों को राष्ट्रीय स्तर की प्रतियोगिता करीब से देखने का मौका।",
+    "cat": "तेलंगाना · खेल",
+    "statl": "खेलो इंडिया यूथ गेम्स की तारीखें"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · పోలీసు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹1,000",
+   "statl": "బాధితుడు చెల్లించినట్లు చెప్పిన మొత్తం",
+   "h": "లంచం డిమాండ్ ఆరోపణలు: ఇద్దరు కానిస్టేబుళ్లు, హోంగార్డుపై కేసు",
+   "p": "సనత్‌నగర్ ఠాణా పరిధిలో విధుల్లో ఉన్న ఇద్దరు కానిస్టేబుళ్లు, ఒక హోంగార్డు ఆదివారం సాయంత్రం ఓ వ్యక్తితో వాగ్వాదానికి దిగి, అతడిని బైక్‌తో సహా స్టేషన్‌కు తీసుకెళ్లారని ఆరోపణ. బైక్ వదలడానికి ₹2,000 అడగగా అతడు ₹1,000 ఇచ్చి వెళ్లాడు. ఈ విషయం అతడు సామాజిక మాధ్యమాల్లో పెట్టడంతో ఉన్నతాధికారులు ఫిర్యాదు తీసుకుని సోమవారం దోపిడీ కేసు నమోదు చేశారు. విచారణ జరుగుతోంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/hyderabad-police-extortion-case-two-constables-home-guard/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సనత్‌నగర్",
+   "pts": [
+    "బైక్ వదలడానికి ₹2,000 అడిగారని ఆరోపణ",
+    "సోషల్ మీడియా పోస్ట్‌తో వెలుగులోకి",
+    "సనత్‌నగర్ ఠాణాలో దోపిడీ కేసు నమోదు"
+   ],
+   "why": "పోలీసులపై లంచం ఆరోపణలకు ఉన్నతాధికారులు ఎలా స్పందిస్తున్నారో ఇది చూపుతుంది; ఇది ప్రజల నమ్మకానికి సంబంధించిన విషయం.",
+   "en": {
+    "h": "Bribe demand allegation: case against two constables, home guard",
+    "p": "Two constables and a home guard on duty in the Sanathnagar police station area allegedly argued with a man on Sunday evening and took him and his bike to the station. They demanded ₹2,000 to release the bike; he paid ₹1,000 and left. After he posted about it on social media, senior officers took his complaint and registered an extortion case on Monday. An inquiry is under way.",
+    "pts": [
+     "Allegedly demanded ₹2,000 to release the bike",
+     "Came to light through a social media post",
+     "Extortion case registered at Sanathnagar police station"
+    ],
+    "why": "It shows how senior officers respond to bribery allegations against police, a matter of public trust.",
+    "cat": "Hyderabad · Police",
+    "statl": "Amount the man says he paid"
+   },
+   "hi": {
+    "h": "रिश्वत मांगने का आरोप: दो कांस्टेबल, एक होमगार्ड पर केस",
+    "p": "सनतनगर थाना क्षेत्र में ड्यूटी पर तैनात दो कांस्टेबल और एक होमगार्ड पर आरोप है कि रविवार शाम उन्होंने एक व्यक्ति से बहस की और उसे बाइक समेत थाने ले गए। बाइक छोड़ने के लिए ₹2,000 मांगे गए; उसने ₹1,000 देकर बाइक ली। उसने सोशल मीडिया पर इसकी जानकारी दी, जिसके बाद वरिष्ठ अधिकारियों ने शिकायत लेकर सोमवार को उगाही का केस दर्ज किया। जांच जारी है।",
+    "pts": [
+     "बाइक छोड़ने के लिए ₹2,000 मांगने का आरोप",
+     "सोशल मीडिया पोस्ट से मामला सामने आया",
+     "सनतनगर थाने में उगाही का केस दर्ज"
+    ],
+    "why": "यह दिखाता है कि पुलिस पर रिश्वत के आरोपों पर वरिष्ठ अधिकारी कैसे कार्रवाई करते हैं; यह जनता के भरोसे से जुड़ा मामला है।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "व्यक्ति के अनुसार दी गई राशि"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ఏపీ · విజయనగరం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3 ఘటనలు",
+   "statl": "సీఎం వివరాలు కోరిన అగ్నిప్రమాదాలు",
+   "h": "రాజాంలో ఆటోమొబైల్ షోరూం దగ్ధం: వివరాలు కోరిన సీఎం చంద్రబాబు",
+   "p": "విజయనగరం జిల్లా రాజాంలో దీపావళి టపాసులు పడి ఓ ఆటోమొబైల్ షోరూం కాలిపోయింది. కృష్ణా జిల్లా గన్నవరంలో టపాసుల నిప్పురవ్వలతో ఫర్నిచర్ దుకాణం, తిరువూరులో షార్ట్ సర్క్యూట్‌తో మరో దుకాణం దగ్ధమయ్యాయి. ఈ ఘటనలపై సీఎం చంద్రబాబు వివరాలు అడిగి తెలుసుకున్నారు. భారీ ఆస్తి నష్టంపై విచారం వ్యక్తం చేసి, తగిన జాగ్రత్తలు తీసుకోవాలని అధికారులను ఆదేశించారు.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/rajam-showroom-fire-cm-chandrababu-seeks-details/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-vizianagaram",
+   "loc": "రాజాం",
+   "pts": [
+    "రాజాంలో టపాసులు పడి షోరూం దగ్ధం",
+    "గన్నవరం, తిరువూరులోనూ దుకాణాలు కాలిపోయాయి",
+    "జాగ్రత్తలు తీసుకోవాలని అధికారులకు సీఎం ఆదేశం"
+   ],
+   "why": "పండుగ వేళ అగ్నిప్రమాదాలతో వ్యాపారులకు భారీ నష్టం జరిగింది; అగ్ని భద్రతపై అప్రమత్తత అవసరమని ఇది గుర్తుచేస్తుంది.",
+   "en": {
+    "h": "Automobile showroom gutted in Rajam; CM Chandrababu Naidu seeks details",
+    "p": "An automobile showroom in Rajam, Vizianagaram district, was gutted after Diwali firecrackers fell on it. In Gannavaram, Krishna district, firecracker sparks set a furniture shop ablaze, and in Tiruvuru another shop burned after a short circuit. CM Chandrababu Naidu sought details of the incidents. He expressed regret over the heavy property loss and told officials to take adequate precautions.",
+    "pts": [
+     "Showroom in Rajam gutted after firecrackers fell on it",
+     "Shops also burned in Gannavaram and Tiruvuru",
+     "CM orders officials to take precautions"
+    ],
+    "why": "Festival fires caused heavy losses to traders, a reminder of the need for fire safety.",
+    "cat": "AP · Vizianagaram",
+    "statl": "Fires the CM sought details on"
+   },
+   "hi": {
+    "h": "राजाम में ऑटोमोबाइल शोरूम जलकर खाक: सीएम चंद्रबाबू ने ब्योरा मांगा",
+    "p": "विजयनगरम जिले के राजाम में दीपावली के पटाखे गिरने से एक ऑटोमोबाइल शोरूम जल गया। कृष्णा जिले के गन्नवरम में पटाखों की चिंगारी से फर्नीचर की दुकान और तिरुवुरु में शॉर्ट सर्किट से एक और दुकान जल गई। सीएम चंद्रबाबू नायडू ने इन घटनाओं का ब्योरा मांगा। उन्होंने भारी संपत्ति नुकसान पर दुख जताया और अधिकारियों को उचित सावधानी बरतने का निर्देश दिया।",
+    "pts": [
+     "राजाम में पटाखे गिरने से शोरूम जला",
+     "गन्नवरम और तिरुवुरु में भी दुकानें जलीं",
+     "सीएम ने अधिकारियों को सावधानी बरतने को कहा"
+    ],
+    "why": "त्योहार पर आग की घटनाओं से व्यापारियों को भारी नुकसान हुआ; यह अग्नि सुरक्षा के प्रति सतर्कता की याद दिलाता है।",
+    "cat": "आंध्र प्रदेश · विजयनगरम",
+    "statl": "आग की घटनाएं जिन पर सीएम ने ब्योरा मांगा"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఉక్రెయిన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "8.5 లక్షలు",
+   "statl": "కరెంటు నిలిచిన ఉక్రెయిన్ ప్రజలు",
+   "h": "రష్యా దాడులతో 8.5 లక్షల మంది ఉక్రెయిన్ ప్రజలకు కరెంటు కట",
+   "p": "రష్యా దాడులతో ఆదివారం ఉక్రెయిన్‌లో సుమారు 8.5 లక్షల మందికి విద్యుత్ నిలిచిపోయింది. వీరిలో 6 లక్షలకు పైగా ద్నిప్రోపెట్రోవ్స్క్, 2.5 లక్షల మంది ఖార్కివ్ ప్రాంతాల వారు. జపోరిజియా అణు విద్యుత్ కేంద్రానికి బయటి కరెంటు ఆగిపోయింది. మరోవైపు అమెరికా మధ్యవర్తిత్వంలో అబుదాబిలో నవంబర్ 10–11న జరిగే శాంతి చర్చల్లో యూరప్ దేశాలూ పాల్గొంటాయి; ఫ్రాన్స్ హాజరవుతుందని విదేశాంగ మంత్రి జీన్-నోయెల్ బారో తెలిపారు.",
+   "src": "10 Things News",
+   "url": "https://www.10things.news/p/10-things-global-news-9th-november",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ద్నిప్రోపెట్రోవ్స్క్‌లో 6 లక్షలకు పైగా, ఖార్కివ్‌లో 2.5 లక్షలు",
+    "జపోరిజియా అణు కేంద్రానికి బయటి కరెంటు కట",
+    "అబుదాబి చర్చల్లో యూరప్ దేశాల భాగస్వామ్యం"
+   ],
+   "why": "చలికాలంలో లక్షలాది ఉక్రెయిన్ ప్రజలు ఇబ్బంది పడుతున్నారు; అబుదాబి చర్చలు యుద్ధ ముగింపు ప్రయత్నాల్లో భాగం.",
+   "en": {
+    "h": "Russian strikes cut power to 850,000 people in Ukraine",
+    "p": "Russian strikes left about 850,000 people in Ukraine without power on Sunday, more than 600,000 of them in Dnipropetrovsk and 250,000 in Kharkiv. The Zaporizhzhia nuclear plant lost external power. Meanwhile, European countries will join US-brokered peace talks in Abu Dhabi on November 10–11; French Foreign Minister Jean-Noel Barrot confirmed France will attend.",
+    "pts": [
+     "Over 600,000 in Dnipropetrovsk, 250,000 in Kharkiv",
+     "Zaporizhzhia nuclear plant loses external power",
+     "Europeans to join Abu Dhabi talks"
+    ],
+    "why": "Lakhs of Ukrainians face hardship in winter; the Abu Dhabi talks are part of efforts to end the war.",
+    "cat": "World · Ukraine",
+    "statl": "Ukrainians left without power"
+   },
+   "hi": {
+    "h": "रूसी हमलों से यूक्रेन में 8.5 लाख लोगों की बिजली गुल",
+    "p": "रूसी हमलों के कारण रविवार को यूक्रेन में करीब 8.5 लाख लोगों की बिजली चली गई। इनमें 6 लाख से ज़्यादा द्निप्रोपेत्रोव्स्क और 2.5 लाख खारकीव क्षेत्र के हैं। ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली आपूर्ति बंद हो गई। इस बीच, अमेरिका की मध्यस्थता में 10–11 नवंबर को अबू धाबी में होने वाली शांति वार्ता में यूरोपीय देश भी शामिल होंगे; फ्रांस के विदेश मंत्री ज्यां-नोएल बारो ने फ्रांस की भागीदारी की पुष्टि की।",
+    "pts": [
+     "द्निप्रोपेत्रोव्स्क में 6 लाख से ज़्यादा, खारकीव में 2.5 लाख",
+     "ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली बंद",
+     "अबू धाबी वार्ता में यूरोपीय देश शामिल होंगे"
+    ],
+    "why": "सर्दियों में लाखों यूक्रेनी मुश्किल में हैं; अबू धाबी वार्ता युद्ध खत्म करने के प्रयासों का हिस्सा है।",
+    "cat": "दुनिया · यूक्रेन",
+    "statl": "बिजली से वंचित यूक्रेनी लोग"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",

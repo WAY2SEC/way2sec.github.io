@@ -1,8 +1,203 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T13:10:20+05:30",
+ "updated": "2026-11-09T13:42:50+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · క్రీడలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "డిసె. 11–22",
+   "statl": "ఖేలో ఇండియా యూత్ గేమ్స్ తేదీలు",
+   "h": "తెలంగాణలో డిసెంబర్ 11–22 వరకు ఖేలో ఇండియా యూత్ గేమ్స్",
+   "p": "తెలంగాణ తొలిసారి ఆతిథ్యమిస్తున్న ఖేలో ఇండియా యూత్ గేమ్స్ 2026 పూర్తి షెడ్యూల్‌ను కేంద్ర క్రీడల మంత్రి మన్‌సుఖ్ మాండవీయ ప్రకటించారు. డిసెంబర్ 11 నుంచి 22 వరకు 27 పోటీ క్రీడలు, ఒక ప్రదర్శన క్రీడ జరుగుతాయి. 22 క్రీడలు హైదరాబాద్‌లోని ఎల్బీ స్టేడియం, గచ్చిబౌలి కాంప్లెక్స్‌లో, మిగతావి ఖమ్మం, హనుమకొండ, కరీంనగర్, నిజామాబాద్, మహబూబ్‌నగర్‌లో జరుగుతాయి. సుమారు 6,000 మంది క్రీడాకారులు పాల్గొంటారని అంచనా.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-to-host-khelo-india-youth-games-from-december-11-27-sports-on-schedule",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "27 పోటీ క్రీడలు, ఒక ప్రదర్శన క్రీడ",
+    "హైదరాబాద్ సహా ఆరు నగరాల్లో పోటీలు",
+    "సాఫ్ట్‌బాల్ తొలిసారి పోటీ క్రీడగా"
+   ],
+   "why": "రాష్ట్ర యువ క్రీడాకారులకు, ఆరు ఆతిథ్య నగరాల ప్రజలకు జాతీయ స్థాయి పోటీలను దగ్గరగా చూసే అవకాశం.",
+   "en": {
+    "h": "Telangana to host Khelo India Youth Games from December 11–22",
+    "p": "Union Sports Minister Mansukh Mandaviya announced the full schedule of the Khelo India Youth Games 2026, which Telangana is hosting for the first time. From December 11 to 22, 27 competitive sports and one demonstration sport will be held. Twenty-two sports will be at Hyderabad's LB Stadium and Gachibowli complex, the rest in Khammam, Hanumakonda, Karimnagar, Nizamabad and Mahabubnagar. About 6,000 athletes are expected.",
+    "pts": [
+     "27 competitive sports and one demonstration sport",
+     "Events in six cities including Hyderabad",
+     "Softball debuts as a competitive sport"
+    ],
+    "why": "Young athletes in the state and people in the six host cities get to see national-level competition up close.",
+    "cat": "Telangana · Sports",
+    "statl": "Khelo India Youth Games dates"
+   },
+   "hi": {
+    "h": "तेलंगाना में 11–22 दिसंबर तक खेलो इंडिया यूथ गेम्स",
+    "p": "केंद्रीय खेल मंत्री मनसुख मांडविया ने खेलो इंडिया यूथ गेम्स 2026 का पूरा कार्यक्रम घोषित किया, जिसकी मेज़बानी तेलंगाना पहली बार कर रहा है। 11 से 22 दिसंबर तक 27 प्रतिस्पर्धी खेल और एक प्रदर्शन खेल होंगे। 22 खेल हैदराबाद के एलबी स्टेडियम और गाचीबौली कॉम्प्लेक्स में, बाकी खम्मम, हनमकोंडा, करीमनगर, निज़ामाबाद और महबूबनगर में होंगे। करीब 6,000 खिलाड़ियों के भाग लेने की उम्मीद है।",
+    "pts": [
+     "27 प्रतिस्पर्धी खेल और एक प्रदर्शन खेल",
+     "हैदराबाद समेत छह शहरों में मुकाबले",
+     "सॉफ्टबॉल पहली बार प्रतिस्पर्धी खेल के रूप में"
+    ],
+    "why": "राज्य के युवा खिलाड़ियों और छह मेज़बान शहरों के लोगों को राष्ट्रीय स्तर की प्रतियोगिता करीब से देखने का मौका।",
+    "cat": "तेलंगाना · खेल",
+    "statl": "खेलो इंडिया यूथ गेम्स की तारीखें"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · పోలీసు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹1,000",
+   "statl": "బాధితుడు చెల్లించినట్లు చెప్పిన మొత్తం",
+   "h": "లంచం డిమాండ్ ఆరోపణలు: ఇద్దరు కానిస్టేబుళ్లు, హోంగార్డుపై కేసు",
+   "p": "సనత్‌నగర్ ఠాణా పరిధిలో విధుల్లో ఉన్న ఇద్దరు కానిస్టేబుళ్లు, ఒక హోంగార్డు ఆదివారం సాయంత్రం ఓ వ్యక్తితో వాగ్వాదానికి దిగి, అతడిని బైక్‌తో సహా స్టేషన్‌కు తీసుకెళ్లారని ఆరోపణ. బైక్ వదలడానికి ₹2,000 అడగగా అతడు ₹1,000 ఇచ్చి వెళ్లాడు. ఈ విషయం అతడు సామాజిక మాధ్యమాల్లో పెట్టడంతో ఉన్నతాధికారులు ఫిర్యాదు తీసుకుని సోమవారం దోపిడీ కేసు నమోదు చేశారు. విచారణ జరుగుతోంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/hyderabad-police-extortion-case-two-constables-home-guard/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సనత్‌నగర్",
+   "pts": [
+    "బైక్ వదలడానికి ₹2,000 అడిగారని ఆరోపణ",
+    "సోషల్ మీడియా పోస్ట్‌తో వెలుగులోకి",
+    "సనత్‌నగర్ ఠాణాలో దోపిడీ కేసు నమోదు"
+   ],
+   "why": "పోలీసులపై లంచం ఆరోపణలకు ఉన్నతాధికారులు ఎలా స్పందిస్తున్నారో ఇది చూపుతుంది; ఇది ప్రజల నమ్మకానికి సంబంధించిన విషయం.",
+   "en": {
+    "h": "Bribe demand allegation: case against two constables, home guard",
+    "p": "Two constables and a home guard on duty in the Sanathnagar police station area allegedly argued with a man on Sunday evening and took him and his bike to the station. They demanded ₹2,000 to release the bike; he paid ₹1,000 and left. After he posted about it on social media, senior officers took his complaint and registered an extortion case on Monday. An inquiry is under way.",
+    "pts": [
+     "Allegedly demanded ₹2,000 to release the bike",
+     "Came to light through a social media post",
+     "Extortion case registered at Sanathnagar police station"
+    ],
+    "why": "It shows how senior officers respond to bribery allegations against police, a matter of public trust.",
+    "cat": "Hyderabad · Police",
+    "statl": "Amount the man says he paid"
+   },
+   "hi": {
+    "h": "रिश्वत मांगने का आरोप: दो कांस्टेबल, एक होमगार्ड पर केस",
+    "p": "सनतनगर थाना क्षेत्र में ड्यूटी पर तैनात दो कांस्टेबल और एक होमगार्ड पर आरोप है कि रविवार शाम उन्होंने एक व्यक्ति से बहस की और उसे बाइक समेत थाने ले गए। बाइक छोड़ने के लिए ₹2,000 मांगे गए; उसने ₹1,000 देकर बाइक ली। उसने सोशल मीडिया पर इसकी जानकारी दी, जिसके बाद वरिष्ठ अधिकारियों ने शिकायत लेकर सोमवार को उगाही का केस दर्ज किया। जांच जारी है।",
+    "pts": [
+     "बाइक छोड़ने के लिए ₹2,000 मांगने का आरोप",
+     "सोशल मीडिया पोस्ट से मामला सामने आया",
+     "सनतनगर थाने में उगाही का केस दर्ज"
+    ],
+    "why": "यह दिखाता है कि पुलिस पर रिश्वत के आरोपों पर वरिष्ठ अधिकारी कैसे कार्रवाई करते हैं; यह जनता के भरोसे से जुड़ा मामला है।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "व्यक्ति के अनुसार दी गई राशि"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ఏపీ · విజయనగరం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3 ఘటనలు",
+   "statl": "సీఎం వివరాలు కోరిన అగ్నిప్రమాదాలు",
+   "h": "రాజాంలో ఆటోమొబైల్ షోరూం దగ్ధం: వివరాలు కోరిన సీఎం చంద్రబాబు",
+   "p": "విజయనగరం జిల్లా రాజాంలో దీపావళి టపాసులు పడి ఓ ఆటోమొబైల్ షోరూం కాలిపోయింది. కృష్ణా జిల్లా గన్నవరంలో టపాసుల నిప్పురవ్వలతో ఫర్నిచర్ దుకాణం, తిరువూరులో షార్ట్ సర్క్యూట్‌తో మరో దుకాణం దగ్ధమయ్యాయి. ఈ ఘటనలపై సీఎం చంద్రబాబు వివరాలు అడిగి తెలుసుకున్నారు. భారీ ఆస్తి నష్టంపై విచారం వ్యక్తం చేసి, తగిన జాగ్రత్తలు తీసుకోవాలని అధికారులను ఆదేశించారు.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/rajam-showroom-fire-cm-chandrababu-seeks-details/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-vizianagaram",
+   "loc": "రాజాం",
+   "pts": [
+    "రాజాంలో టపాసులు పడి షోరూం దగ్ధం",
+    "గన్నవరం, తిరువూరులోనూ దుకాణాలు కాలిపోయాయి",
+    "జాగ్రత్తలు తీసుకోవాలని అధికారులకు సీఎం ఆదేశం"
+   ],
+   "why": "పండుగ వేళ అగ్నిప్రమాదాలతో వ్యాపారులకు భారీ నష్టం జరిగింది; అగ్ని భద్రతపై అప్రమత్తత అవసరమని ఇది గుర్తుచేస్తుంది.",
+   "en": {
+    "h": "Automobile showroom gutted in Rajam; CM Chandrababu Naidu seeks details",
+    "p": "An automobile showroom in Rajam, Vizianagaram district, was gutted after Diwali firecrackers fell on it. In Gannavaram, Krishna district, firecracker sparks set a furniture shop ablaze, and in Tiruvuru another shop burned after a short circuit. CM Chandrababu Naidu sought details of the incidents. He expressed regret over the heavy property loss and told officials to take adequate precautions.",
+    "pts": [
+     "Showroom in Rajam gutted after firecrackers fell on it",
+     "Shops also burned in Gannavaram and Tiruvuru",
+     "CM orders officials to take precautions"
+    ],
+    "why": "Festival fires caused heavy losses to traders, a reminder of the need for fire safety.",
+    "cat": "AP · Vizianagaram",
+    "statl": "Fires the CM sought details on"
+   },
+   "hi": {
+    "h": "राजाम में ऑटोमोबाइल शोरूम जलकर खाक: सीएम चंद्रबाबू ने ब्योरा मांगा",
+    "p": "विजयनगरम जिले के राजाम में दीपावली के पटाखे गिरने से एक ऑटोमोबाइल शोरूम जल गया। कृष्णा जिले के गन्नवरम में पटाखों की चिंगारी से फर्नीचर की दुकान और तिरुवुरु में शॉर्ट सर्किट से एक और दुकान जल गई। सीएम चंद्रबाबू नायडू ने इन घटनाओं का ब्योरा मांगा। उन्होंने भारी संपत्ति नुकसान पर दुख जताया और अधिकारियों को उचित सावधानी बरतने का निर्देश दिया।",
+    "pts": [
+     "राजाम में पटाखे गिरने से शोरूम जला",
+     "गन्नवरम और तिरुवुरु में भी दुकानें जलीं",
+     "सीएम ने अधिकारियों को सावधानी बरतने को कहा"
+    ],
+    "why": "त्योहार पर आग की घटनाओं से व्यापारियों को भारी नुकसान हुआ; यह अग्नि सुरक्षा के प्रति सतर्कता की याद दिलाता है।",
+    "cat": "आंध्र प्रदेश · विजयनगरम",
+    "statl": "आग की घटनाएं जिन पर सीएम ने ब्योरा मांगा"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఉక్రెయిన్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "8.5 లక్షలు",
+   "statl": "కరెంటు నిలిచిన ఉక్రెయిన్ ప్రజలు",
+   "h": "రష్యా దాడులతో 8.5 లక్షల మంది ఉక్రెయిన్ ప్రజలకు కరెంటు కట",
+   "p": "రష్యా దాడులతో ఆదివారం ఉక్రెయిన్‌లో సుమారు 8.5 లక్షల మందికి విద్యుత్ నిలిచిపోయింది. వీరిలో 6 లక్షలకు పైగా ద్నిప్రోపెట్రోవ్స్క్, 2.5 లక్షల మంది ఖార్కివ్ ప్రాంతాల వారు. జపోరిజియా అణు విద్యుత్ కేంద్రానికి బయటి కరెంటు ఆగిపోయింది. మరోవైపు అమెరికా మధ్యవర్తిత్వంలో అబుదాబిలో నవంబర్ 10–11న జరిగే శాంతి చర్చల్లో యూరప్ దేశాలూ పాల్గొంటాయి; ఫ్రాన్స్ హాజరవుతుందని విదేశాంగ మంత్రి జీన్-నోయెల్ బారో తెలిపారు.",
+   "src": "10 Things News",
+   "url": "https://www.10things.news/p/10-things-global-news-9th-november",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ద్నిప్రోపెట్రోవ్స్క్‌లో 6 లక్షలకు పైగా, ఖార్కివ్‌లో 2.5 లక్షలు",
+    "జపోరిజియా అణు కేంద్రానికి బయటి కరెంటు కట",
+    "అబుదాబి చర్చల్లో యూరప్ దేశాల భాగస్వామ్యం"
+   ],
+   "why": "చలికాలంలో లక్షలాది ఉక్రెయిన్ ప్రజలు ఇబ్బంది పడుతున్నారు; అబుదాబి చర్చలు యుద్ధ ముగింపు ప్రయత్నాల్లో భాగం.",
+   "en": {
+    "h": "Russian strikes cut power to 850,000 people in Ukraine",
+    "p": "Russian strikes left about 850,000 people in Ukraine without power on Sunday, more than 600,000 of them in Dnipropetrovsk and 250,000 in Kharkiv. The Zaporizhzhia nuclear plant lost external power. Meanwhile, European countries will join US-brokered peace talks in Abu Dhabi on November 10–11; French Foreign Minister Jean-Noel Barrot confirmed France will attend.",
+    "pts": [
+     "Over 600,000 in Dnipropetrovsk, 250,000 in Kharkiv",
+     "Zaporizhzhia nuclear plant loses external power",
+     "Europeans to join Abu Dhabi talks"
+    ],
+    "why": "Lakhs of Ukrainians face hardship in winter; the Abu Dhabi talks are part of efforts to end the war.",
+    "cat": "World · Ukraine",
+    "statl": "Ukrainians left without power"
+   },
+   "hi": {
+    "h": "रूसी हमलों से यूक्रेन में 8.5 लाख लोगों की बिजली गुल",
+    "p": "रूसी हमलों के कारण रविवार को यूक्रेन में करीब 8.5 लाख लोगों की बिजली चली गई। इनमें 6 लाख से ज़्यादा द्निप्रोपेत्रोव्स्क और 2.5 लाख खारकीव क्षेत्र के हैं। ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली आपूर्ति बंद हो गई। इस बीच, अमेरिका की मध्यस्थता में 10–11 नवंबर को अबू धाबी में होने वाली शांति वार्ता में यूरोपीय देश भी शामिल होंगे; फ्रांस के विदेश मंत्री ज्यां-नोएल बारो ने फ्रांस की भागीदारी की पुष्टि की।",
+    "pts": [
+     "द्निप्रोपेत्रोव्स्क में 6 लाख से ज़्यादा, खारकीव में 2.5 लाख",
+     "ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली बंद",
+     "अबू धाबी वार्ता में यूरोपीय देश शामिल होंगे"
+    ],
+    "why": "सर्दियों में लाखों यूक्रेनी मुश्किल में हैं; अबू धाबी वार्ता युद्ध खत्म करने के प्रयासों का हिस्सा है।",
+    "cat": "दुनिया · यूक्रेन",
+    "statl": "बिजली से वंचित यूक्रेनी लोग"
+   },
+   "d": "09.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
@@ -1875,202 +2070,6 @@
    },
    "d": "09.11.2026",
    "t": "07:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ఆరోగ్యం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "32",
-   "statl": "టపాసుల వల్ల కంటి గాయాలైనవారు",
-   "h": "దీపావళి టపాసులతో 32 మందికి కంటి గాయాలు; ఒకరికి చూపు పోయింది",
-   "p": "దీపావళి వేళ టపాసుల వల్ల కంటి గాయాలైన 32 మంది హైదరాబాద్ మెహదీపట్నంలోని సరోజినీ దేవి కంటి ఆస్పత్రిలో చికిత్స పొందారు. వారిలో ఒకరు కుడి కంటి చూపును పూర్తిగా కోల్పోయారు. నలుగురు పిల్లలు సహా ఆరుగురిని ఆస్పత్రిలో చేర్చుకోగా, మిగతా 26 మందికి మందులు ఇచ్చి మళ్లీ రావాలని సూచించినట్లు ఆర్ఎంఓ డా. ఇబ్రహీం తెలిపారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/one-loses-vision-as-32-hurt-by-crackers-at-diwali-in-hyderabad-3572025/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "మెహదీపట్నం",
-   "pts": [
-    "32 మందికి కంటి గాయాలు; ఒకరికి కుడి కంటి చూపు పోయింది",
-    "నలుగురు పిల్లలు సహా ఆరుగురు ఆస్పత్రిలో చేరిక",
-    "గత రెండు దీపావళులకు 116, 115 మందికి చికిత్స"
-   ],
-   "why": "కంటికి గాయమైతే వెంటనే వైద్య సహాయం పొందాలని, టపాసులు జాగ్రత్తగా కాల్చాలని వైద్యులు సూచిస్తున్నారు.",
-   "en": {
-    "h": "32 suffer eye injuries from Diwali crackers in Hyderabad; one loses vision",
-    "p": "Thirty-two people with eye injuries from Diwali firecrackers were treated at the Sarojini Devi Eye Hospital in Mehdipatnam, Hyderabad. One of them has completely lost vision in the right eye. Six, including four children, were admitted, while the other 26 were given medicines and asked to return for follow-up, RMO Dr Ibrahim said.",
-    "pts": [
-     "32 eye injuries; one lost vision in the right eye",
-     "Six admitted, including four children",
-     "116 and 115 treated in the previous two Diwalis"
-    ],
-    "why": "Doctors advise burning crackers carefully and seeking medical help immediately for any eye injury.",
-    "cat": "Hyderabad · Health",
-    "statl": "People with cracker eye injuries"
-   },
-   "hi": {
-    "h": "हैदराबाद में दिवाली पटाखों से 32 लोगों की आंखें घायल; एक की रोशनी गई",
-    "p": "दिवाली पर पटाखों से आंखों में चोट लगने वाले 32 लोगों का इलाज हैदराबाद के मेहदीपट्टनम स्थित सरोजिनी देवी नेत्र अस्पताल में हुआ। इनमें से एक व्यक्ति की दाईं आंख की रोशनी पूरी तरह चली गई। चार बच्चों सहित छह को भर्ती किया गया, जबकि बाकी 26 को दवाएं देकर दोबारा आने को कहा गया, आरएमओ डॉ. इब्राहिम ने बताया।",
-    "pts": [
-     "32 की आंखों में चोट; एक की दाईं आंख की रोशनी गई",
-     "चार बच्चों सहित छह भर्ती",
-     "पिछली दो दिवाली पर 116 और 115 का इलाज"
-    ],
-    "why": "डॉक्टरों की सलाह है कि पटाखे सावधानी से जलाएं और आंख में चोट लगने पर तुरंत इलाज कराएं।",
-    "cat": "हैदराबाद · स्वास्थ्य",
-    "statl": "पटाखों से आंखों में चोट वाले लोग"
-   },
-   "d": "09.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఢిల్లీ · కాలుష్యం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "AQI 463",
-   "statl": "సోనియా విహార్‌లో అత్యధిక కాలుష్యం",
-   "h": "దీపావళి రాత్రి ఢిల్లీని కమ్మేసిన పొగమంచు; 20 కేంద్రాల్లో 'తీవ్ర' గాలి",
-   "p": "దీపావళి రాత్రి 10 గంటలకు ఢిల్లీ వాయు నాణ్యత సూచీ (AQI) 371గా నమోదైంది. 59 పర్యవేక్షణ కేంద్రాల్లో 20 కేంద్రాలు 'తీవ్ర' కేటగిరీలో ఉన్నాయి. సోనియా విహార్‌లో 463, జహంగీర్‌పురిలో 450 అత్యధికం. ఆంక్షలు ఉన్నా సాయంత్రం 5–6 గంటల నుంచే టపాసుల మోత పెరిగింది. నవంబర్ 9 నుంచి కొన్ని రోజులు గాలి 'తీవ్ర' స్థాయిలో ఉంటుందని హెచ్చరిక వ్యవస్థ అంచనా వేసింది.",
-   "src": "Telangana Today, PTI",
-   "url": "https://telanganatoday.com/thick-smog-blankets-delhi-on-diwali-night-aqi-at-20-monitoring-stations-severe",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "DL",
-   "place": "st-DL",
-   "pts": [
-    "రాత్రి 10 గంటలకు AQI 371",
-    "59లో 20 కేంద్రాల్లో 'తీవ్ర' గాలి",
-    "రోజు సగటు 376; శనివారం 369"
-   ],
-   "why": "రాబోయే రోజుల్లోనూ 'తీవ్ర' గాలి అంచనాతో ఢిల్లీలో ఉండేవారి ఆరోగ్యంపై ప్రభావం పడనుంది.",
-   "en": {
-    "h": "Smog blankets Delhi on Diwali night; air 'severe' at 20 stations",
-    "p": "Delhi's air quality index (AQI) stood at 371 at 10 pm on Diwali night. Twenty of 59 monitoring stations were in the 'severe' category. Sonia Vihar was worst at 463, followed by Jahangirpuri at 450. Despite restrictions, cracker bursting picked up from 5–6 pm. The early warning system forecast 'severe' air for a few days from November 9.",
-    "pts": [
-     "AQI 371 at 10 pm",
-     "'Severe' air at 20 of 59 stations",
-     "Day average 376; Saturday 369"
-    ],
-    "why": "With 'severe' air forecast for the coming days too, the health of people living in Delhi will be affected.",
-    "cat": "Delhi · Pollution",
-    "statl": "Highest pollution at Sonia Vihar"
-   },
-   "hi": {
-    "h": "दिवाली की रात दिल्ली पर छाया स्मॉग; 20 केंद्रों पर हवा 'गंभीर'",
-    "p": "दिवाली की रात 10 बजे दिल्ली का वायु गुणवत्ता सूचकांक (AQI) 371 दर्ज हुआ। 59 निगरानी केंद्रों में से 20 'गंभीर' श्रेणी में रहे। सोनिया विहार में सबसे ज्यादा 463 और जहांगीरपुरी में 450 रहा। पाबंदियों के बावजूद शाम 5–6 बजे से ही पटाखे बढ़ गए। चेतावनी प्रणाली ने 9 नवंबर से कुछ दिन हवा 'गंभीर' रहने का अनुमान जताया है।",
-    "pts": [
-     "रात 10 बजे AQI 371",
-     "59 में से 20 केंद्रों पर 'गंभीर' हवा",
-     "दिन का औसत 376; शनिवार को 369"
-    ],
-    "why": "आने वाले दिनों में भी 'गंभीर' हवा के अनुमान से दिल्ली में रहने वालों की सेहत पर असर पड़ेगा।",
-    "cat": "दिल्ली · प्रदूषण",
-    "statl": "सोनिया विहार में सबसे ज्यादा प्रदूषण"
-   },
-   "d": "09.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · నిర్మాణ అనుమతులు",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "20 అడుగులు",
-   "statl": "అనుమతికి కనీస ప్లాట్ వెడల్పు",
-   "h": "20 అడుగుల లోపు ప్లాట్లకు అనుమతుల నిబంధన కఠిన అమలు; పాతబస్తీలో నిరసన",
-   "p": "20 అడుగుల కంటే తక్కువ వెడల్పున్న నివాస ప్లాట్లకు భవన అనుమతులు ఇవ్వకూడదన్న 2012 నాటి నిబంధనను బిల్డ్‌నౌ సాఫ్ట్‌వేర్ ద్వారా కఠినంగా అమలు చేయడంపై హైదరాబాద్ డెవలపర్లు, నివాసితులు అసంతృప్తితో ఉన్నారు. పాతబస్తీలో పాత ఇళ్ల పునర్నిర్మాణ దరఖాస్తులు తిరస్కరణకు గురవడంతో నిరసనలు జరిగాయి. ఇప్పుడు సాఫ్ట్‌వేర్ దరఖాస్తులు స్వీకరిస్తోంది, కానీ తుది అనుమతి స్థల తనిఖీపై ఆధారపడుతుంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/a-strict-14-year-old-building-rule-irks-hyderabad-realtors-3571547/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "పాతబస్తీ",
-   "pts": [
-    "2012 నిబంధన: 20 అడుగుల లోపు ప్లాట్లకు అనుమతి లేదు",
-    "పాతబస్తీలో 60–70 చ.గజాల ఇళ్లు ఎక్కువ",
-    "నిరసనల తర్వాత దరఖాస్తుల స్వీకరణ; తుది అనుమతికి తనిఖీ"
-   ],
-   "why": "చిన్న ప్లాట్లలో ఇళ్లు కట్టుకోవాలనుకునే మధ్యతరగతి, బలహీన వర్గాల కుటుంబాలపై ఈ నిబంధన ప్రభావం చూపనుంది.",
-   "en": {
-    "h": "Strict enforcement of rule on plots under 20 feet; protests in Old City",
-    "p": "Hyderabad developers and residents are unhappy with the strict enforcement, through the BuildNow software, of a 2012 rule that bars building permissions for residential plots less than 20 feet wide. Protests broke out in the Old City after applications to rebuild old houses were rejected. The software now accepts applications, but final approval will depend on site inspection.",
-    "pts": [
-     "2012 rule: no permission for plots under 20 feet wide",
-     "Many Old City houses on 60–70 sq yard plots",
-     "Applications accepted after protests; inspection for final approval"
-    ],
-    "why": "The rule will affect middle-class and weaker-section families who want to build homes on small plots.",
-    "cat": "Hyderabad · Building permits",
-    "statl": "Minimum plot width for permission"
-   },
-   "hi": {
-    "h": "20 फुट से कम चौड़े प्लॉट पर अनुमति नियम सख्ती से लागू; पुराने शहर में विरोध",
-    "p": "20 फुट से कम चौड़ाई वाले आवासीय प्लॉट को भवन अनुमति न देने वाले 2012 के नियम को बिल्डनाउ सॉफ्टवेयर से सख्ती से लागू करने पर हैदराबाद के डेवलपर और निवासी नाराज हैं। पुराने शहर में पुराने मकानों के पुनर्निर्माण के आवेदन खारिज होने पर विरोध हुआ। अब सॉफ्टवेयर आवेदन ले रहा है, लेकिन अंतिम अनुमति स्थल निरीक्षण पर निर्भर करेगी।",
-    "pts": [
-     "2012 नियम: 20 फुट से कम प्लॉट को अनुमति नहीं",
-     "पुराने शहर में कई मकान 60–70 वर्ग गज के",
-     "विरोध के बाद आवेदन स्वीकार; अंतिम अनुमति निरीक्षण से"
-    ],
-    "why": "छोटे प्लॉट पर घर बनाना चाहने वाले मध्यम वर्ग और कमजोर वर्ग के परिवारों पर इस नियम का असर पड़ेगा।",
-    "cat": "हैदराबाद · भवन अनुमति",
-    "statl": "अनुमति के लिए न्यूनतम प्लॉट चौड़ाई"
-   },
-   "d": "09.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "సీతాఫల్‌మండి",
-   "statl": "టపాసుల దుకాణంలో మంటలు",
-   "h": "సికింద్రాబాద్‌లో టపాసుల దుకాణంపై పడిన రాకెట్: భారీ మంటలు",
-   "p": "దీపావళి సందర్భంగా ఆదివారం సికింద్రాబాద్ సీతాఫల్‌మండి ప్రధాన రహదారిలోని ఒక టపాసుల దుకాణంలో దారి తప్పిన రాకెట్ పడింది. లోపల నిల్వ ఉంచిన టపాసులు అంటుకుని పేలుళ్లు, భారీ మంటలు చెలరేగాయి. స్థానికులు, వాహనదారులు అక్కడి నుంచి పరుగులు తీశారు. అగ్నిమాపక సిబ్బంది ఫైర్ ఇంజిన్లతో వచ్చి మంటలను అదుపు చేశారు. ఆస్తి నష్టం ఎంతో అధికారులు ఇంకా తెలపలేదు.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/rocket-hits-firecracker-shop-in-secunderabad/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "సీతాఫల్‌మండి",
-   "pts": [
-    "దీపావళి రాకెట్ టపాసుల దుకాణంలో పడింది",
-    "నిల్వ టపాసులు పేలి భారీ మంటలు",
-    "ఫైర్ సిబ్బంది మంటలను అదుపు చేశారు"
-   ],
-   "why": "టపాసుల దుకాణాల దగ్గర రాకెట్లు కాల్చడం ఎంత ప్రమాదమో ఈ ఘటన గుర్తుచేస్తోంది.",
-   "en": {
-    "h": "Stray rocket hits firecracker shop in Secunderabad, sparks big fire",
-    "p": "On Sunday, during Diwali, a stray rocket landed in a firecracker shop on the Sitaphalmandi main road in Secunderabad. Crackers stored inside caught fire, causing explosions and a massive blaze. Locals and motorists ran from the spot. Firefighters arrived with fire engines and brought the fire under control. Officials have not yet said how much property was damaged.",
-    "pts": [
-     "Diwali rocket landed in a firecracker shop",
-     "Stored crackers exploded, causing a big fire",
-     "Firefighters brought the blaze under control"
-    ],
-    "why": "The incident shows how dangerous it is to fire rockets near firecracker shops.",
-    "cat": "Hyderabad · Accident",
-    "statl": "Fire at firecracker shop"
-   },
-   "hi": {
-    "h": "सिकंदराबाद में पटाखा दुकान पर गिरा रॉकेट, भीषण आग",
-    "p": "दिवाली पर रविवार को सिकंदराबाद के सीताफलमंडी मेन रोड पर एक पटाखा दुकान में भटका हुआ रॉकेट गिरा। अंदर रखे पटाखों में आग लगने से धमाके हुए और भीषण आग भड़क उठी। स्थानीय लोग और वाहन चालक वहां से भागे। दमकलकर्मी फायर इंजन के साथ पहुंचे और आग पर काबू पाया। संपत्ति के नुकसान की जानकारी अधिकारियों ने अभी नहीं दी है।",
-    "pts": [
-     "दिवाली का रॉकेट पटाखा दुकान में गिरा",
-     "रखे पटाखों में धमाके, भीषण आग",
-     "दमकलकर्मियों ने आग पर काबू पाया"
-    ],
-    "why": "यह घटना बताती है कि पटाखा दुकानों के पास रॉकेट चलाना कितना खतरनाक है।",
-    "cat": "हैदराबाद · हादसा",
-    "statl": "पटाखा दुकान में आग"
-   },
-   "d": "08.11.2026",
-   "t": "22:05"
   },
   {
    "cat": "🪔 దీపావళి · ఆలేరు",
