@@ -60,10 +60,11 @@
   --brand-soft:#3A1219; --chipbg:#151D29; --hdr:#0E141D; --hdr-ink:#F1ECE2; --bar:#0A1424; --paper:#0E141D; color-scheme:dark}
 :root[data-theme="dark"] .story{--hl-ink:color-mix(in srgb,var(--hl) 45%,#fff)}
 *{box-sizing:border-box}
-html,body{height:100%;margin:0}
+html,body{height:100%;margin:0;overscroll-behavior:none}
+body{position:fixed;inset:0;width:100%;touch-action:manipulation}
 body{background:var(--app);color:var(--ink);font-family:var(--body);overflow:hidden;-webkit-tap-highlight-color:transparent}
 button{font:inherit;color:inherit}
-.shell{height:100%;max-width:480px;margin:0 auto;display:flex;flex-direction:column;background:var(--card);box-shadow:0 0 0 1px var(--line);position:relative}
+.shell{height:100%;height:var(--appH,100dvh);max-width:480px;margin:0 auto;display:flex;flex-direction:column;background:var(--card);box-shadow:0 0 0 1px var(--line);position:relative}
 
 /* header */
 header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--gx);padding-top:max(8px,env(safe-area-inset-top,0px));background:var(--hdr)}
@@ -108,7 +109,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .tab.fest{box-shadow:inset 0 0 0 2px #E8A317}.tab.fest[aria-pressed="true"]{background:#E8A317;color:#1B1203}
 
 /* feed + cards (same look as the Way2Sec WhatsApp cards) */
-.feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--paper)}
+.feed{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;overscroll-behavior:none;background:var(--app)}
 .story.promo{background:#eef4fb;justify-content:center;align-items:center;gap:12px;padding:10px}
 .story.promo .pimg{display:flex;flex:1 1 auto;min-height:0;width:100%;justify-content:center}
 .story.promo .pimg img{pointer-events:none;-webkit-user-drag:none;user-select:none;display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 6px 14px rgba(0,0,0,.18))}
@@ -117,7 +118,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .story.promo .btn.ghost{background:#fff;color:#12284A;border:1px solid #c9d3e1}
 .story .panel .vplay{position:absolute!important;left:auto;right:14px;top:58%;transform:translateY(-50%);width:auto;z-index:3;display:flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:10px 18px 10px 12px;background:rgba(224,6,43,.92);color:#fff;font:800 15px/1.2 var(--body);box-shadow:0 6px 20px rgba(0,0,0,.35);cursor:pointer}
 .vplay svg{background:rgba(255,255,255,.2);border-radius:50%;padding:4px}
-.story{position:absolute;inset:0;display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
+@media (max-height:620px){.story .panel{max-height:32%!important;min-height:120px!important}}
+.story{position:absolute;inset:8px 8px 6px;border-radius:18px;box-shadow:0 6px 22px rgba(0,0,0,.16),0 0 0 1px var(--line);display:flex;flex-direction:column;overflow:hidden;background:var(--paper);will-change:transform;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
 .story[hidden]{display:none}
 #homeLogo{display:flex;align-items:center;-webkit-tap-highlight-color:transparent}
 .sh-head .logo{cursor:pointer}
@@ -1375,5 +1377,18 @@ setTimeout(()=>{
 }, 25000);
 </script>
 <script>try{document.querySelectorAll('img.wgreet').forEach(function(i){if(Date.now()<new Date(i.dataset.until).getTime())i.hidden=false})}catch(e){}</script>
+<script>
+/* keep the app exactly inside the visible screen (between the status bar and the home bar) and stop iPhone page bounce */
+(function(){
+  function fitH(){ try{ var h=(window.visualViewport&&visualViewport.height)||innerHeight; document.documentElement.style.setProperty('--appH',Math.round(h)+'px'); window.scrollTo(0,0); }catch(e){} }
+  fitH(); addEventListener('resize',fitH); addEventListener('orientationchange',function(){setTimeout(fitH,300)});
+  if(window.visualViewport) visualViewport.addEventListener('resize',fitH);
+  document.addEventListener('touchmove',function(e){
+    var el=e.target;
+    while(el && el!==document.body){ var cs=getComputedStyle(el); if(/(auto|scroll)/.test(cs.overflowY) && el.scrollHeight>el.clientHeight+1) return; el=el.parentElement; }
+    e.preventDefault();
+  },{passive:false});
+})();
+</script>
 </body>
 </html>
