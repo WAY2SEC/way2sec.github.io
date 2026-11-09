@@ -1,8 +1,105 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 48,
+ "count": 50,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "5",
+   "statl": "ఫెర్టిలిటీ సెంటర్లకు నోటీసులు",
+   "h": "అక్రమ అండాల సేకరణ ఆరోపణలు: 5 ఫెర్టిలిటీ సెంటర్లకు మహిళా కమిషన్ నోటీసులు",
+   "p": "మహిళల నుంచి అక్రమంగా అండాలు సేకరిస్తున్నారన్న ఆరోపణలపై హైదరాబాద్‌లోని ఐదు ఫెర్టిలిటీ సెంటర్లకు తెలంగాణ రాష్ట్ర మహిళా కమిషన్ సోమవారం నోటీసులు ఇచ్చింది. ఆయా కేంద్రాల నిర్వాహకులు కమిషన్ ముందు హాజరయ్యారు. ఏఆర్‌టీ (నియంత్రణ) చట్టం 2021 ప్రకారం దాతల లిఖిత అనుమతి, వైద్య రక్షణలు, అండాల సేకరణ పరిమితులు పాటించారా అని కమిషన్ విచారిస్తోంది. ప్రతి కేంద్రం రాతపూర్వక వివరణ ఇవ్వాలి.",
+   "pts": [
+    "ఐదు ఫెర్టిలిటీ సెంటర్లకు మహిళా కమిషన్ నోటీసులు",
+    "ఏఆర్‌టీ చట్టం 2021 నిబంధనలపై విచారణ",
+    "వివరణలు పరిశీలించాక చర్యలపై నిర్ణయం"
+   ],
+   "why": "సంతాన చికిత్సల కేంద్రాల్లో మహిళా దాతల భద్రత, అనుమతి నిబంధనల అమలుపై ఈ విచారణ దృష్టి పెడుతుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/5-hyderabad-fertility-centres-get-notices-over-illegal-egg-collection-3572242/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "d": "09.11.2026",
+   "t": "15:05",
+   "en": {
+    "h": "Women's commission notices to 5 fertility centres over illegal egg collection",
+    "p": "The Telangana State Women's Commission on Monday issued notices to five fertility centres in Hyderabad over allegations of illegal egg collection from women. Representatives of the centres appeared before the commission. It is examining whether they followed the ART (Regulation) Act, 2021 on written donor consent, medical safeguards and egg retrieval limits. Each centre must give a written explanation.",
+    "pts": [
+     "Women's commission issues notices to five fertility centres",
+     "Inquiry into compliance with ART Act, 2021",
+     "Action to be decided after studying explanations"
+    ],
+    "why": "The inquiry focuses on the safety and consent rules for women egg donors at fertility clinics.",
+    "cat": "Hyderabad · Health",
+    "statl": "Fertility centres get notices"
+   },
+   "hi": {
+    "h": "अवैध अंडाणु संग्रह के आरोप: 5 फर्टिलिटी सेंटरों को महिला आयोग का नोटिस",
+    "p": "महिलाओं से अवैध रूप से अंडाणु लेने के आरोपों पर तेलंगाना राज्य महिला आयोग ने सोमवार को हैदराबाद के पांच फर्टिलिटी सेंटरों को नोटिस जारी किए। सेंटरों के प्रतिनिधि आयोग के सामने पेश हुए। आयोग जांच कर रहा है कि एआरटी (विनियमन) अधिनियम 2021 के तहत दाता की लिखित सहमति, चिकित्सा सुरक्षा और अंडाणु निकालने की सीमा का पालन हुआ या नहीं। हर सेंटर को लिखित स्पष्टीकरण देना होगा।",
+    "pts": [
+     "पांच फर्टिलिटी सेंटरों को महिला आयोग का नोटिस",
+     "एआरटी अधिनियम 2021 के पालन की जांच",
+     "स्पष्टीकरण देखने के बाद कार्रवाई पर फैसला"
+    ],
+    "why": "यह जांच फर्टिलिटी क्लीनिकों में महिला दाताओं की सुरक्षा और सहमति नियमों पर केंद्रित है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "फर्टिलिटी सेंटरों को नोटिस"
+   }
+  },
+  {
+   "cat": "ఏపీ · సహకారం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2,050",
+   "statl": "ప్రాథమిక సహకార సంఘాలు",
+   "h": "ఏపీలో సహకార సంఘాల ఎన్నికలకు ప్రభుత్వం సన్నాహాలు",
+   "p": "రాష్ట్రంలోని సుమారు 2,050 ప్రాథమిక వ్యవసాయ సహకార పరపతి సంఘాలకు ఎన్నికలు నిర్వహించేందుకు కూటమి ప్రభుత్వం కసరత్తు మొదలుపెట్టింది. నోటిఫికేషన్ కోసం ఎదురుచూడకుండా ఒకే విడతలో ఎన్నికలకు సిద్ధం కావాలని జిల్లా సహకార అధికారులను ఆదేశించింది. పది రోజుల్లో నివేదిక ఇవ్వాలని సూచించింది. జనవరిలో ఎన్నికలు జరిగే అవకాశం ఉంది. దాదాపు 14 ఏళ్లుగా ఈ ఎన్నికలు జరగలేదు.",
+   "pts": [
+    "సుమారు 2,050 ప్రాథమిక సహకార సంఘాలకు ఎన్నికలు",
+    "ఒకే విడతలో నిర్వహణకు సిద్ధం కావాలని ఆదేశం",
+    "10 రోజుల్లో నివేదిక; జనవరిలో ఎన్నికలు అవకాశం"
+   ],
+   "why": "సహకార సంఘాల్లో సభ్యులైన రైతులు దాదాపు 14 ఏళ్ల తర్వాత తమ పాలకవర్గాలను ఎన్నుకునే అవకాశం రావచ్చు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "d": "09.11.2026",
+   "t": "15:05",
+   "en": {
+    "h": "AP government prepares for cooperative society elections",
+    "p": "The coalition government has begun preparations to hold elections to about 2,050 primary agricultural cooperative credit societies in the state. It directed district cooperative officers to get ready for single-phase polls without waiting for a notification, and to report within ten days. Elections may be held in January. These elections have not been held for about 14 years.",
+    "pts": [
+     "Elections for about 2,050 primary cooperative societies",
+     "Officers told to prepare for single-phase polls",
+     "Report in 10 days; polls likely in January"
+    ],
+    "why": "Farmer members of cooperative societies may get to elect their managing committees after about 14 years.",
+    "cat": "AP · Cooperatives",
+    "statl": "Primary cooperative societies"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में सहकारी समितियों के चुनाव की तैयारी",
+    "p": "गठबंधन सरकार ने राज्य की लगभग 2,050 प्राथमिक कृषि सहकारी ऋण समितियों के चुनाव कराने की तैयारी शुरू की है। जिला सहकारी अधिकारियों को अधिसूचना का इंतजार किए बिना एक चरण में चुनाव की तैयारी करने और दस दिनों में रिपोर्ट देने का निर्देश दिया गया है। चुनाव जनवरी में हो सकते हैं। लगभग 14 साल से ये चुनाव नहीं हुए हैं।",
+    "pts": [
+     "लगभग 2,050 प्राथमिक सहकारी समितियों के चुनाव",
+     "एक चरण में चुनाव की तैयारी का निर्देश",
+     "10 दिन में रिपोर्ट; जनवरी में चुनाव संभव"
+    ],
+    "why": "सहकारी समितियों के सदस्य किसान लगभग 14 साल बाद अपनी प्रबंध समितियां चुन सकते हैं।",
+    "cat": "आंध्र प्रदेश · सहकारिता",
+    "statl": "प्राथमिक सहकारी समितियां"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · కాలుష్యం",
    "col": "--c-water",

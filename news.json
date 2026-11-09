@@ -1,8 +1,105 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T14:09:44+05:30",
+ "updated": "2026-11-09T15:07:54+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "5",
+   "statl": "ఫెర్టిలిటీ సెంటర్లకు నోటీసులు",
+   "h": "అక్రమ అండాల సేకరణ ఆరోపణలు: 5 ఫెర్టిలిటీ సెంటర్లకు మహిళా కమిషన్ నోటీసులు",
+   "p": "మహిళల నుంచి అక్రమంగా అండాలు సేకరిస్తున్నారన్న ఆరోపణలపై హైదరాబాద్‌లోని ఐదు ఫెర్టిలిటీ సెంటర్లకు తెలంగాణ రాష్ట్ర మహిళా కమిషన్ సోమవారం నోటీసులు ఇచ్చింది. ఆయా కేంద్రాల నిర్వాహకులు కమిషన్ ముందు హాజరయ్యారు. ఏఆర్‌టీ (నియంత్రణ) చట్టం 2021 ప్రకారం దాతల లిఖిత అనుమతి, వైద్య రక్షణలు, అండాల సేకరణ పరిమితులు పాటించారా అని కమిషన్ విచారిస్తోంది. ప్రతి కేంద్రం రాతపూర్వక వివరణ ఇవ్వాలి.",
+   "pts": [
+    "ఐదు ఫెర్టిలిటీ సెంటర్లకు మహిళా కమిషన్ నోటీసులు",
+    "ఏఆర్‌టీ చట్టం 2021 నిబంధనలపై విచారణ",
+    "వివరణలు పరిశీలించాక చర్యలపై నిర్ణయం"
+   ],
+   "why": "సంతాన చికిత్సల కేంద్రాల్లో మహిళా దాతల భద్రత, అనుమతి నిబంధనల అమలుపై ఈ విచారణ దృష్టి పెడుతుంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/5-hyderabad-fertility-centres-get-notices-over-illegal-egg-collection-3572242/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "d": "09.11.2026",
+   "t": "15:05",
+   "en": {
+    "h": "Women's commission notices to 5 fertility centres over illegal egg collection",
+    "p": "The Telangana State Women's Commission on Monday issued notices to five fertility centres in Hyderabad over allegations of illegal egg collection from women. Representatives of the centres appeared before the commission. It is examining whether they followed the ART (Regulation) Act, 2021 on written donor consent, medical safeguards and egg retrieval limits. Each centre must give a written explanation.",
+    "pts": [
+     "Women's commission issues notices to five fertility centres",
+     "Inquiry into compliance with ART Act, 2021",
+     "Action to be decided after studying explanations"
+    ],
+    "why": "The inquiry focuses on the safety and consent rules for women egg donors at fertility clinics.",
+    "cat": "Hyderabad · Health",
+    "statl": "Fertility centres get notices"
+   },
+   "hi": {
+    "h": "अवैध अंडाणु संग्रह के आरोप: 5 फर्टिलिटी सेंटरों को महिला आयोग का नोटिस",
+    "p": "महिलाओं से अवैध रूप से अंडाणु लेने के आरोपों पर तेलंगाना राज्य महिला आयोग ने सोमवार को हैदराबाद के पांच फर्टिलिटी सेंटरों को नोटिस जारी किए। सेंटरों के प्रतिनिधि आयोग के सामने पेश हुए। आयोग जांच कर रहा है कि एआरटी (विनियमन) अधिनियम 2021 के तहत दाता की लिखित सहमति, चिकित्सा सुरक्षा और अंडाणु निकालने की सीमा का पालन हुआ या नहीं। हर सेंटर को लिखित स्पष्टीकरण देना होगा।",
+    "pts": [
+     "पांच फर्टिलिटी सेंटरों को महिला आयोग का नोटिस",
+     "एआरटी अधिनियम 2021 के पालन की जांच",
+     "स्पष्टीकरण देखने के बाद कार्रवाई पर फैसला"
+    ],
+    "why": "यह जांच फर्टिलिटी क्लीनिकों में महिला दाताओं की सुरक्षा और सहमति नियमों पर केंद्रित है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "फर्टिलिटी सेंटरों को नोटिस"
+   }
+  },
+  {
+   "cat": "ఏపీ · సహకారం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2,050",
+   "statl": "ప్రాథమిక సహకార సంఘాలు",
+   "h": "ఏపీలో సహకార సంఘాల ఎన్నికలకు ప్రభుత్వం సన్నాహాలు",
+   "p": "రాష్ట్రంలోని సుమారు 2,050 ప్రాథమిక వ్యవసాయ సహకార పరపతి సంఘాలకు ఎన్నికలు నిర్వహించేందుకు కూటమి ప్రభుత్వం కసరత్తు మొదలుపెట్టింది. నోటిఫికేషన్ కోసం ఎదురుచూడకుండా ఒకే విడతలో ఎన్నికలకు సిద్ధం కావాలని జిల్లా సహకార అధికారులను ఆదేశించింది. పది రోజుల్లో నివేదిక ఇవ్వాలని సూచించింది. జనవరిలో ఎన్నికలు జరిగే అవకాశం ఉంది. దాదాపు 14 ఏళ్లుగా ఈ ఎన్నికలు జరగలేదు.",
+   "pts": [
+    "సుమారు 2,050 ప్రాథమిక సహకార సంఘాలకు ఎన్నికలు",
+    "ఒకే విడతలో నిర్వహణకు సిద్ధం కావాలని ఆదేశం",
+    "10 రోజుల్లో నివేదిక; జనవరిలో ఎన్నికలు అవకాశం"
+   ],
+   "why": "సహకార సంఘాల్లో సభ్యులైన రైతులు దాదాపు 14 ఏళ్ల తర్వాత తమ పాలకవర్గాలను ఎన్నుకునే అవకాశం రావచ్చు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--09th-november-2026-ap-news-today-live-news-updates-telugu-breaking-news-aps26110900300",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "d": "09.11.2026",
+   "t": "15:05",
+   "en": {
+    "h": "AP government prepares for cooperative society elections",
+    "p": "The coalition government has begun preparations to hold elections to about 2,050 primary agricultural cooperative credit societies in the state. It directed district cooperative officers to get ready for single-phase polls without waiting for a notification, and to report within ten days. Elections may be held in January. These elections have not been held for about 14 years.",
+    "pts": [
+     "Elections for about 2,050 primary cooperative societies",
+     "Officers told to prepare for single-phase polls",
+     "Report in 10 days; polls likely in January"
+    ],
+    "why": "Farmer members of cooperative societies may get to elect their managing committees after about 14 years.",
+    "cat": "AP · Cooperatives",
+    "statl": "Primary cooperative societies"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में सहकारी समितियों के चुनाव की तैयारी",
+    "p": "गठबंधन सरकार ने राज्य की लगभग 2,050 प्राथमिक कृषि सहकारी ऋण समितियों के चुनाव कराने की तैयारी शुरू की है। जिला सहकारी अधिकारियों को अधिसूचना का इंतजार किए बिना एक चरण में चुनाव की तैयारी करने और दस दिनों में रिपोर्ट देने का निर्देश दिया गया है। चुनाव जनवरी में हो सकते हैं। लगभग 14 साल से ये चुनाव नहीं हुए हैं।",
+    "pts": [
+     "लगभग 2,050 प्राथमिक सहकारी समितियों के चुनाव",
+     "एक चरण में चुनाव की तैयारी का निर्देश",
+     "10 दिन में रिपोर्ट; जनवरी में चुनाव संभव"
+    ],
+    "why": "सहकारी समितियों के सदस्य किसान लगभग 14 साल बाद अपनी प्रबंध समितियां चुन सकते हैं।",
+    "cat": "आंध्र प्रदेश · सहकारिता",
+    "statl": "प्राथमिक सहकारी समितियां"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · కాలుష్యం",
    "col": "--c-water",
@@ -1829,102 +1926,6 @@
     "cat": "तेलंगाना · सरकार",
     "statl": "इंदिरम्मा लाभार्थियों के साथ सीएम की दिवाली"
    }
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "APEC",
-   "statl": "వచ్చే వారం చైనాలో సదస్సు",
-   "h": "ఏపెక్ సదస్సులో జిన్‌పింగ్, పుతిన్‌ను కలుస్తానన్న ట్రంప్; ఇరాన్‌పై దిగ్బంధం కొనసాగింపు",
-   "p": "ఇరాన్‌కు సరుకుల రాకపోకలను అడ్డుకునే 'టాస్క్ ఫోర్స్ ఐరన్ గేట్' పూర్తి స్థాయిలో పనిచేస్తోందని అమెరికా అధ్యక్షుడు ట్రంప్ ఆదివారం ఫ్లోరిడాలో చెప్పారు. వచ్చే వారం చైనాలో జరిగే ఏపెక్ సదస్సులో చైనా అధ్యక్షుడు జిన్‌పింగ్, రష్యా అధ్యక్షుడు పుతిన్‌ను కలుస్తానని, ఇరాన్ యుద్ధం చర్చకు రావచ్చని అన్నారు. సోమవారం వైట్‌హౌస్‌లో ఖతార్ ప్రధానిని కలవనున్నారు.",
-   "src": "Gulf News, Reuters",
-   "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-task-force-iron-gate-is-in-effect-expects-xi-and-putin-meeting-next-week-1.500740691",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "టాస్క్ ఫోర్స్ ఐరన్ గేట్ పూర్తిస్థాయిలో అమలు",
-    "ఏపెక్‌లో జిన్‌పింగ్, పుతిన్‌తో భేటీ ఆశ",
-    "సోమవారం ఖతార్ ప్రధానితో సమావేశం"
-   ],
-   "why": "ఇరాన్ యుద్ధంపై అగ్రనేతల చర్చలు గల్ఫ్‌లో ఉన్న తెలుగువారికి, చమురు ధరలకు కీలకం.",
-   "d": "09.11.2026",
-   "t": "08:35",
-   "en": {
-    "h": "Trump expects to meet Xi, Putin at APEC; Iran blockade continues",
-    "p": "US President Trump said in Florida on Sunday that 'Task Force Iron Gate', which blocks goods moving into and out of Iran, is operating at full force. He said he expects to meet Chinese President Xi Jinping and Russian President Vladimir Putin at next week's APEC summit in China, where the Iran war could come up. He will meet Qatar's Prime Minister at the White House on Monday.",
-    "pts": [
-     "Task Force Iron Gate at full force",
-     "Expects Xi, Putin meeting at APEC",
-     "Meets Qatar PM on Monday"
-    ],
-    "why": "Top leaders' talks on the Iran war matter for Telugu people in the Gulf and for oil prices.",
-    "cat": "World · USA",
-    "statl": "summit in China next week"
-   },
-   "hi": {
-    "h": "APEC में शी जिनपिंग, पुतिन से मिलने की उम्मीद: ट्रंप; ईरान की नाकेबंदी जारी",
-    "p": "अमेरिकी राष्ट्रपति ट्रंप ने रविवार को फ्लोरिडा में कहा कि ईरान आने-जाने वाले सामान को रोकने वाली 'टास्क फोर्स आयरन गेट' पूरी ताकत से काम कर रही है। उन्होंने कहा कि अगले हफ्ते चीन में होने वाले APEC शिखर सम्मेलन में उन्हें चीनी राष्ट्रपति शी जिनपिंग और रूसी राष्ट्रपति पुतिन से मिलने की उम्मीद है, जहां ईरान युद्ध पर बात हो सकती है। सोमवार को वह व्हाइट हाउस में कतर के प्रधानमंत्री से मिलेंगे।",
-    "pts": [
-     "टास्क फोर्स आयरन गेट पूरी ताकत से सक्रिय",
-     "APEC में शी, पुतिन से मुलाकात की उम्मीद",
-     "सोमवार को कतर के प्रधानमंत्री से भेंट"
-    ],
-    "why": "ईरान युद्ध पर शीर्ष नेताओं की बातचीत खाड़ी में रह रहे तेलुगु लोगों और तेल कीमतों के लिए अहम है।",
-    "cat": "दुनिया · अमेरिका",
-    "statl": "अगले हफ्ते चीन में सम्मेलन"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · దీపావళి",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "67",
-   "statl": "టపాసులతో గాయపడినవారు",
-   "h": "దీపావళి టపాసులతో హైదరాబాద్‌లో 67 మందికి గాయాలు; 10 చోట్ల మంటలు",
-   "p": "దీపావళి రాత్రి హైదరాబాద్‌లో టపాసులు కాలుస్తూ 67 మంది గాయపడ్డారు. మెహదీపట్నం సరోజినీదేవి కంటి ఆసుపత్రిలో 12 మందిని చేర్చుకొని, మిగతావారికి ప్రథమ చికిత్స చేసి పంపారు. గాంధీ, ఉస్మానియా ఆసుపత్రుల్లో 30 మందికి చిన్న గాయాలకు చికిత్స అందించారు. నిప్పురవ్వల వల్ల జీడిమెట్ల, బేగంబజార్, మైలార్‌దేవ్‌పల్లి, సికింద్రాబాద్, జాంబాగ్ సహా 10 చోట్ల అగ్నిప్రమాదాలు జరిగాయి.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "టపాసులు కాలుస్తూ 67 మందికి గాయాలు",
-    "సరోజినీదేవి కంటి ఆసుపత్రిలో 12 మంది చేరిక",
-    "నిప్పురవ్వలతో నగరంలో 10 చోట్ల మంటలు"
-   ],
-   "why": "పండుగ రోజుల్లో టపాసులు కాల్చేటప్పుడు పిల్లలు, కుటుంబాలు మరింత జాగ్రత్తగా ఉండాలని ఈ ఘటనలు గుర్తుచేస్తున్నాయి.",
-   "en": {
-    "h": "67 injured by Diwali crackers in Hyderabad; fires at 10 places",
-    "p": "On Diwali night, 67 people were injured while bursting firecrackers in Hyderabad. Sarojini Devi Eye Hospital in Mehdipatnam admitted 12 of them and sent the rest home after first aid. Gandhi and Osmania hospitals treated 30 people for minor injuries. Sparks caused fires at 10 places, including Jeedimetla, Begumbazar, Mailardevpally, Secunderabad and Jambagh.",
-    "pts": [
-     "67 injured while bursting crackers",
-     "12 admitted at Sarojini Devi Eye Hospital",
-     "Cracker sparks cause fires at 10 places in city"
-    ],
-    "why": "These incidents remind children and families to take more care while bursting crackers during festivals.",
-    "cat": "Hyderabad · Diwali",
-    "statl": "Injured by firecrackers"
-   },
-   "hi": {
-    "h": "हैदराबाद में दिवाली पटाखों से 67 लोग घायल; 10 जगह आग",
-    "p": "दिवाली की रात हैदराबाद में पटाखे जलाते समय 67 लोग घायल हो गए। मेहदीपट्टनम के सरोजिनी देवी नेत्र अस्पताल में 12 लोगों को भर्ती किया गया, बाकी को प्राथमिक उपचार के बाद घर भेज दिया गया। गांधी और उस्मानिया अस्पतालों में 30 लोगों का मामूली चोटों का इलाज हुआ। चिंगारियों से जीडिमेटला, बेगमबाज़ार, मैलारदेवपल्ली, सिकंदराबाद और जांबाग समेत 10 जगह आग लगी।",
-    "pts": [
-     "पटाखे जलाते समय 67 लोग घायल",
-     "सरोजिनी देवी नेत्र अस्पताल में 12 भर्ती",
-     "चिंगारियों से शहर में 10 जगह आग"
-    ],
-    "why": "ये घटनाएं याद दिलाती हैं कि त्योहारों पर पटाखे जलाते समय बच्चों और परिवारों को अधिक सावधानी बरतनी चाहिए।",
-    "cat": "हैदराबाद · दिवाली",
-    "statl": "पटाखों से घायल"
-   },
-   "d": "09.11.2026",
-   "t": "08:05"
   },
   {
    "cat": "🪔 దీపావళి · ఆలేరు",
