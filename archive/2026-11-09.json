@@ -1,8 +1,202 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 27,
+ "count": 31,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "499/582",
+   "statl": "జడ్పీటీసీలు కూటమి కైవసం",
+   "h": "ఏపీ ప్రాదేశిక ఎన్నికల్లో కూటమి హవా: 499 జడ్పీటీసీలు గెలుపు",
+   "p": "ఆంధ్రప్రదేశ్ జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల తుది ఫలితాలను రాష్ట్ర ఎన్నికల సంఘం ఆదివారం రాత్రి ప్రకటించింది. టీడీపీ నేతృత్వంలోని ఎన్డీఏ కూటమి 582 జడ్పీటీసీల్లో 499, 7,768 ఎంపీటీసీల్లో 5,861 స్థానాలు గెలుచుకుంది. వైఎస్సార్‌సీపీకి 76 జడ్పీటీసీలు, 1,711 ఎంపీటీసీలు దక్కాయి. కాంగ్రెస్ ఖాతా తెరవలేదు. లెక్కింపులో అక్రమాలు జరిగాయని జగన్ ఆరోపించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tdp-led-coalition-sweeps-andhra-pradesh-local-body-polls-with-massive-majority",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "టీడీపీ 406, జనసేన 73, బీజేపీ 20 జడ్పీటీసీలు",
+    "నవంబర్ 5న 28 జిల్లాల్లో పోలింగ్",
+    "కడపలో వైఎస్సార్‌సీపీకి 16లో రెండే జడ్పీటీసీలు"
+   ],
+   "why": "జిల్లా, మండల పరిషత్ పాలన ఎవరి చేతుల్లో ఉంటుందో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
+   "en": {
+    "h": "NDA sweeps AP local body polls, wins 499 ZPTC seats",
+    "p": "Andhra Pradesh's State Election Commission announced the final results of the ZPTC and MPTC elections on Sunday night. The TDP-led NDA alliance won 499 of 582 ZPTC seats and 5,861 of 7,768 MPTC seats. The YSRCP got 76 ZPTCs and 1,711 MPTCs. The Congress failed to open its account. Jagan alleged irregularities in the counting.",
+    "pts": [
+     "TDP 406, Jana Sena 73, BJP 20 ZPTCs",
+     "Polling held on November 5 in 28 districts",
+     "YSRCP won only two of 16 ZPTCs in Kadapa"
+    ],
+    "why": "These results decide who will run the district and mandal parishads.",
+    "cat": "AP · Local Polls",
+    "statl": "ZPTC seats won by NDA"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश स्थानीय चुनावों में एनडीए का दबदबा, 499 जेडपीटीसी सीटें जीतीं",
+    "p": "आंध्र प्रदेश राज्य चुनाव आयोग ने रविवार रात जेडपीटीसी और एमपीटीसी चुनावों के अंतिम नतीजे घोषित किए। टीडीपी के नेतृत्व वाले एनडीए गठबंधन ने 582 में से 499 जेडपीटीसी और 7,768 में से 5,861 एमपीटीसी सीटें जीतीं। वाईएसआरसीपी को 76 जेडपीटीसी और 1,711 एमपीटीसी सीटें मिलीं। कांग्रेस का खाता नहीं खुला। जगन ने मतगणना में गड़बड़ी का आरोप लगाया।",
+    "pts": [
+     "टीडीपी 406, जनसेना 73, भाजपा 20 जेडपीटीसी",
+     "5 नवंबर को 28 जिलों में मतदान",
+     "कडपा में वाईएसआरसीपी को 16 में से सिर्फ दो जेडपीटीसी"
+    ],
+    "why": "ये नतीजे तय करते हैं कि जिला और मंडल परिषदों का शासन किसके हाथ में होगा।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "एनडीए की जेडपीटीसी सीटें"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "తెలంగాణ · మహిళలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1 కోటి",
+   "statl": "2034 నాటికి ఎస్‌హెచ్‌జీ సభ్యుల లక్ష్యం",
+   "h": "2034 నాటికి కోటి మంది మహిళలు స్వయం సహాయక సంఘాల్లో: సీఎం రేవంత్",
+   "p": "వికారాబాద్‌లో జరిగిన కార్యక్రమంలో సీఎం రేవంత్ రెడ్డి మాట్లాడుతూ, 2034 నాటికి స్వయం సహాయక సంఘాల్లో కోటి మంది మహిళలను చేర్చి వారిని కోటీశ్వరులుగా చేయడమే లక్ష్యమన్నారు. ఇప్పటికే సుమారు 70 లక్షల మంది చేరారని చెప్పారు. కొత్తగా 4.5 లక్షల పింఛన్లు మంజూరు చేశామని, వాటిలో 3.5 లక్షలు ఒంటరి మహిళలు, వితంతువులకేనని తెలిపారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/telangana-govt-targets-one-crore-membership-in-womens-self-help-groups-by-2034-cm-revanth-reddy20261109084829/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "pts": [
+    "34 నెలల్లో మహిళలకు రూ.79,000 కోట్ల బ్యాంకు రుణాలు",
+    "ఉచిత బస్సు ప్రయాణంతో రోజూ 37 లక్షల మందికి లబ్ధి",
+    "ఇందిరమ్మ క్యాంటీన్ల నిర్వహణ మహిళా సంఘాలకు"
+   ],
+   "why": "రాష్ట్రంలోని లక్షలాది స్వయం సహాయక సంఘాల మహిళలు, పింఛనుదారులకు ఈ పథకాలు నేరుగా సంబంధించినవి.",
+   "en": {
+    "h": "One crore women in self-help groups by 2034: CM Revanth",
+    "p": "Speaking at a programme in Vikarabad, CM Revanth Reddy said the goal is to bring one crore women into self-help groups by 2034 and make them crorepatis. He said about 70 lakh have already joined. He said 4.5 lakh new pensions have been sanctioned, of which 3.5 lakh are for single women and widows.",
+    "pts": [
+     "Rs 79,000 crore bank loans to women in 34 months",
+     "Free bus travel benefits 37 lakh women daily",
+     "Indiramma Canteens run by women's groups"
+    ],
+    "why": "These schemes directly concern lakhs of self-help group women and pensioners in the state.",
+    "cat": "Telangana · Women",
+    "statl": "SHG membership target by 2034"
+   },
+   "hi": {
+    "h": "2034 तक एक करोड़ महिलाएं स्वयं सहायता समूहों में: सीएम रेवंत",
+    "p": "विकाराबाद में एक कार्यक्रम में सीएम रेवंत रेड्डी ने कहा कि 2034 तक एक करोड़ महिलाओं को स्वयं सहायता समूहों से जोड़कर उन्हें करोड़पति बनाना लक्ष्य है। उन्होंने बताया कि करीब 70 लाख महिलाएं पहले ही जुड़ चुकी हैं। उन्होंने कहा कि 4.5 लाख नई पेंशन मंजूर की गई हैं, जिनमें 3.5 लाख एकल महिलाओं और विधवाओं के लिए हैं।",
+    "pts": [
+     "34 महीनों में महिलाओं को ₹79,000 करोड़ के बैंक ऋण",
+     "मुफ्त बस यात्रा से रोज़ 37 लाख महिलाओं को लाभ",
+     "इंदिरम्मा कैंटीन का संचालन महिला समूहों को"
+    ],
+    "why": "ये योजनाएं राज्य की लाखों स्वयं सहायता समूह महिलाओं और पेंशनधारकों से सीधे जुड़ी हैं।",
+    "cat": "तेलंगाना · महिलाएं",
+    "statl": "2034 तक एसएचजी सदस्य लक्ष्य"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "మహారాష్ట్ర · రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹5,000",
+   "statl": "కరువు రైతులకు తక్షణ సాయం",
+   "h": "మహారాష్ట్ర కరువు రైతులకు రూ.5,000 సాయం; జాల్నాలో రైతులతో షిండే దీపావళి",
+   "p": "మహారాష్ట్ర ఉపముఖ్యమంత్రి ఏక్‌నాథ్ షిండే సోమవారం జాల్నా జిల్లా మౌజ్‌పురిలో కరువు బాధిత రైతు కుటుంబాలను కలిసి వారితో దీపావళి భోజనం చేయనున్నారు. రైతులకు తక్షణ సాయంగా రూ.5,000 అందుతుందని, మరిన్ని ప్రయోజనాలు తర్వాత వస్తాయని ఆయన చెప్పారు. సుమారు 1.5 కోట్ల మంది రైతుల ఖాతాల్లో ఈ మొత్తం జమ చేశామని సీఎం ఫడ్నవీస్ తెలిపారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/eknath-shinde-to-visit-drought-hit-farmers-in-jalna-today-share-diwali-meal-with-them20261109105355",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "MH",
+   "place": "mh-jalna",
+   "loc": "మౌజ్‌పురి",
+   "pts": [
+    "సుమారు 1.5 కోట్ల రైతుల ఖాతాల్లో రూ.5,000",
+    "రైతుల విద్యుత్ బిల్లులు, బకాయిలు మాఫీ",
+    "పెద్ద ఎత్తున జలసంరక్షణ పనులు చేపడతామన్న సీఎం"
+   ],
+   "why": "మహారాష్ట్రలో కరువుతో ఇబ్బంది పడుతున్న కోట్లాది రైతు కుటుంబాలకు ఈ సాయం నేరుగా అందుతుంది.",
+   "en": {
+    "h": "Rs 5,000 aid for Maharashtra drought farmers; Shinde's Diwali with farmers in Jalna",
+    "p": "Maharashtra Deputy Chief Minister Eknath Shinde will meet drought-hit farm families in Moujpuri in Jalna district on Monday and share a Diwali meal with them. He said farmers will get Rs 5,000 as immediate relief, with more benefits to follow. CM Fadnavis said the amount has been deposited in the accounts of about 1.5 crore farmers.",
+    "pts": [
+     "Rs 5,000 credited to about 1.5 crore farmers",
+     "Farmers' electricity bills and arrears waived",
+     "CM says water conservation works on a large scale"
+    ],
+    "why": "The aid directly reaches crores of drought-hit farm families in Maharashtra.",
+    "cat": "Maharashtra · Farmers",
+    "statl": "Immediate aid for drought farmers"
+   },
+   "hi": {
+    "h": "महाराष्ट्र के सूखा प्रभावित किसानों को ₹5,000 सहायता; जालना में किसानों संग शिंदे की दिवाली",
+    "p": "महाराष्ट्र के उपमुख्यमंत्री एकनाथ शिंदे सोमवार को जालना जिले के मौजपुरी में सूखा प्रभावित किसान परिवारों से मिलेंगे और उनके साथ दिवाली का भोजन करेंगे। उन्होंने कहा कि किसानों को तत्काल राहत के रूप में ₹5,000 मिलेंगे और बाकी लाभ बाद में मिलेंगे। सीएम फडणवीस ने बताया कि करीब 1.5 करोड़ किसानों के खातों में यह राशि जमा की गई है।",
+    "pts": [
+     "करीब 1.5 करोड़ किसानों के खातों में ₹5,000",
+     "किसानों के बिजली बिल और बकाया माफ",
+     "सीएम ने कहा, बड़े पैमाने पर जल संरक्षण कार्य होंगे"
+    ],
+    "why": "यह सहायता महाराष्ट्र के करोड़ों सूखा प्रभावित किसान परिवारों तक सीधे पहुंचती है।",
+    "cat": "महाराष्ट्र · किसान",
+    "statl": "सूखा किसानों को तत्काल सहायता"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2/3",
+   "statl": "తొలగింపునకు సెనేట్‌లో కావాల్సిన మెజారిటీ",
+   "h": "అమెరికా రక్షణ మంత్రి హెగ్‌సెత్ అభిశంసనకు డెమోక్రాట్ నేత జెఫ్రీస్ మద్దతు",
+   "p": "అమెరికా రక్షణ మంత్రి పీట్ హెగ్‌సెత్‌ను అభిశంసించే తీర్మానానికి తాను పూర్తిగా మద్దతిస్తానని హౌస్ డెమోక్రాట్ నేత హకీమ్ జెఫ్రీస్ ఆదివారం చెప్పారు. రిపబ్లికన్ ఎంపీ థామస్ మాసీ ఈ తీర్మానాన్ని త్వరలో తీసుకురానున్నారు. హెగ్‌సెత్ అధికార దుర్వినియోగం చేశారని, ఇరాన్ యుద్ధానికి కారకుడని జెఫ్రీస్ ఆరోపించారు. నవంబర్ 3 మధ్యంతర ఎన్నికల్లో డెమోక్రాట్లు హౌస్, సెనేట్ రెండూ గెలిచారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "జెఫ్రీస్ స్పీకర్ అయ్యే అవకాశం",
+    "ట్రంప్ సన్నిహితులపై దర్యాప్తులు చేస్తామన్న డెమోక్రాట్లు",
+    "డెమోక్రాట్లపై దర్యాప్తు చేయాలని న్యాయశాఖను కోరిన ట్రంప్"
+   ],
+   "why": "ఇరాన్ యుద్ధంపై అమెరికా విధానం, ప్రపంచ రాజకీయాలపై ఈ పరిణామాలు ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Democrat leader Jeffries backs impeachment of US Defence Secretary Hegseth",
+    "p": "House Democratic leader Hakeem Jeffries said on Sunday he fully supports a resolution to impeach US Defence Secretary Pete Hegseth. Republican lawmaker Thomas Massie is set to bring the resolution soon. Jeffries accused Hegseth of abusing power and of being behind the Iran war. Democrats won both the House and the Senate in the November 3 midterm elections.",
+    "pts": [
+     "Jeffries likely to become Speaker",
+     "Democrats vow probes of Trump allies",
+     "Trump asks Justice Department to probe Democrats"
+    ],
+    "why": "These developments could affect US policy on the Iran war and global politics.",
+    "cat": "World · USA",
+    "statl": "Senate majority needed for removal"
+   },
+   "hi": {
+    "h": "डेमोक्रेट नेता जेफ्रीज़ ने अमेरिकी रक्षा मंत्री हेगसेथ पर महाभियोग का समर्थन किया",
+    "p": "हाउस में डेमोक्रेटिक नेता हकीम जेफ्रीज़ ने रविवार को कहा कि वे अमेरिकी रक्षा मंत्री पीट हेगसेथ पर महाभियोग प्रस्ताव का पूरा समर्थन करेंगे। रिपब्लिकन सांसद थॉमस मैसी यह प्रस्ताव जल्द लाने वाले हैं। जेफ्रीज़ ने हेगसेथ पर सत्ता के दुरुपयोग और ईरान युद्ध के पीछे होने का आरोप लगाया। 3 नवंबर के मध्यावधि चुनावों में डेमोक्रेट्स ने हाउस और सीनेट दोनों जीते।",
+    "pts": [
+     "जेफ्रीज़ के स्पीकर बनने की संभावना",
+     "डेमोक्रेट्स ने ट्रंप के करीबियों की जांच का वादा किया",
+     "ट्रंप ने न्याय विभाग से डेमोक्रेट्स की जांच को कहा"
+    ],
+    "why": "ये घटनाक्रम ईरान युद्ध पर अमेरिकी नीति और वैश्विक राजनीति को प्रभावित कर सकते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "हटाने के लिए सीनेट में ज़रूरी बहुमत"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "విద్య · యువత",
    "col": "--c-job",

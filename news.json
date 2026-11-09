@@ -1,8 +1,202 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T11:09:28+05:30",
+ "updated": "2026-11-09T11:55:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "499/582",
+   "statl": "జడ్పీటీసీలు కూటమి కైవసం",
+   "h": "ఏపీ ప్రాదేశిక ఎన్నికల్లో కూటమి హవా: 499 జడ్పీటీసీలు గెలుపు",
+   "p": "ఆంధ్రప్రదేశ్ జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల తుది ఫలితాలను రాష్ట్ర ఎన్నికల సంఘం ఆదివారం రాత్రి ప్రకటించింది. టీడీపీ నేతృత్వంలోని ఎన్డీఏ కూటమి 582 జడ్పీటీసీల్లో 499, 7,768 ఎంపీటీసీల్లో 5,861 స్థానాలు గెలుచుకుంది. వైఎస్సార్‌సీపీకి 76 జడ్పీటీసీలు, 1,711 ఎంపీటీసీలు దక్కాయి. కాంగ్రెస్ ఖాతా తెరవలేదు. లెక్కింపులో అక్రమాలు జరిగాయని జగన్ ఆరోపించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tdp-led-coalition-sweeps-andhra-pradesh-local-body-polls-with-massive-majority",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "టీడీపీ 406, జనసేన 73, బీజేపీ 20 జడ్పీటీసీలు",
+    "నవంబర్ 5న 28 జిల్లాల్లో పోలింగ్",
+    "కడపలో వైఎస్సార్‌సీపీకి 16లో రెండే జడ్పీటీసీలు"
+   ],
+   "why": "జిల్లా, మండల పరిషత్ పాలన ఎవరి చేతుల్లో ఉంటుందో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
+   "en": {
+    "h": "NDA sweeps AP local body polls, wins 499 ZPTC seats",
+    "p": "Andhra Pradesh's State Election Commission announced the final results of the ZPTC and MPTC elections on Sunday night. The TDP-led NDA alliance won 499 of 582 ZPTC seats and 5,861 of 7,768 MPTC seats. The YSRCP got 76 ZPTCs and 1,711 MPTCs. The Congress failed to open its account. Jagan alleged irregularities in the counting.",
+    "pts": [
+     "TDP 406, Jana Sena 73, BJP 20 ZPTCs",
+     "Polling held on November 5 in 28 districts",
+     "YSRCP won only two of 16 ZPTCs in Kadapa"
+    ],
+    "why": "These results decide who will run the district and mandal parishads.",
+    "cat": "AP · Local Polls",
+    "statl": "ZPTC seats won by NDA"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश स्थानीय चुनावों में एनडीए का दबदबा, 499 जेडपीटीसी सीटें जीतीं",
+    "p": "आंध्र प्रदेश राज्य चुनाव आयोग ने रविवार रात जेडपीटीसी और एमपीटीसी चुनावों के अंतिम नतीजे घोषित किए। टीडीपी के नेतृत्व वाले एनडीए गठबंधन ने 582 में से 499 जेडपीटीसी और 7,768 में से 5,861 एमपीटीसी सीटें जीतीं। वाईएसआरसीपी को 76 जेडपीटीसी और 1,711 एमपीटीसी सीटें मिलीं। कांग्रेस का खाता नहीं खुला। जगन ने मतगणना में गड़बड़ी का आरोप लगाया।",
+    "pts": [
+     "टीडीपी 406, जनसेना 73, भाजपा 20 जेडपीटीसी",
+     "5 नवंबर को 28 जिलों में मतदान",
+     "कडपा में वाईएसआरसीपी को 16 में से सिर्फ दो जेडपीटीसी"
+    ],
+    "why": "ये नतीजे तय करते हैं कि जिला और मंडल परिषदों का शासन किसके हाथ में होगा।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "एनडीए की जेडपीटीसी सीटें"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "తెలంగాణ · మహిళలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1 కోటి",
+   "statl": "2034 నాటికి ఎస్‌హెచ్‌జీ సభ్యుల లక్ష్యం",
+   "h": "2034 నాటికి కోటి మంది మహిళలు స్వయం సహాయక సంఘాల్లో: సీఎం రేవంత్",
+   "p": "వికారాబాద్‌లో జరిగిన కార్యక్రమంలో సీఎం రేవంత్ రెడ్డి మాట్లాడుతూ, 2034 నాటికి స్వయం సహాయక సంఘాల్లో కోటి మంది మహిళలను చేర్చి వారిని కోటీశ్వరులుగా చేయడమే లక్ష్యమన్నారు. ఇప్పటికే సుమారు 70 లక్షల మంది చేరారని చెప్పారు. కొత్తగా 4.5 లక్షల పింఛన్లు మంజూరు చేశామని, వాటిలో 3.5 లక్షలు ఒంటరి మహిళలు, వితంతువులకేనని తెలిపారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/telangana-govt-targets-one-crore-membership-in-womens-self-help-groups-by-2034-cm-revanth-reddy20261109084829/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "pts": [
+    "34 నెలల్లో మహిళలకు రూ.79,000 కోట్ల బ్యాంకు రుణాలు",
+    "ఉచిత బస్సు ప్రయాణంతో రోజూ 37 లక్షల మందికి లబ్ధి",
+    "ఇందిరమ్మ క్యాంటీన్ల నిర్వహణ మహిళా సంఘాలకు"
+   ],
+   "why": "రాష్ట్రంలోని లక్షలాది స్వయం సహాయక సంఘాల మహిళలు, పింఛనుదారులకు ఈ పథకాలు నేరుగా సంబంధించినవి.",
+   "en": {
+    "h": "One crore women in self-help groups by 2034: CM Revanth",
+    "p": "Speaking at a programme in Vikarabad, CM Revanth Reddy said the goal is to bring one crore women into self-help groups by 2034 and make them crorepatis. He said about 70 lakh have already joined. He said 4.5 lakh new pensions have been sanctioned, of which 3.5 lakh are for single women and widows.",
+    "pts": [
+     "Rs 79,000 crore bank loans to women in 34 months",
+     "Free bus travel benefits 37 lakh women daily",
+     "Indiramma Canteens run by women's groups"
+    ],
+    "why": "These schemes directly concern lakhs of self-help group women and pensioners in the state.",
+    "cat": "Telangana · Women",
+    "statl": "SHG membership target by 2034"
+   },
+   "hi": {
+    "h": "2034 तक एक करोड़ महिलाएं स्वयं सहायता समूहों में: सीएम रेवंत",
+    "p": "विकाराबाद में एक कार्यक्रम में सीएम रेवंत रेड्डी ने कहा कि 2034 तक एक करोड़ महिलाओं को स्वयं सहायता समूहों से जोड़कर उन्हें करोड़पति बनाना लक्ष्य है। उन्होंने बताया कि करीब 70 लाख महिलाएं पहले ही जुड़ चुकी हैं। उन्होंने कहा कि 4.5 लाख नई पेंशन मंजूर की गई हैं, जिनमें 3.5 लाख एकल महिलाओं और विधवाओं के लिए हैं।",
+    "pts": [
+     "34 महीनों में महिलाओं को ₹79,000 करोड़ के बैंक ऋण",
+     "मुफ्त बस यात्रा से रोज़ 37 लाख महिलाओं को लाभ",
+     "इंदिरम्मा कैंटीन का संचालन महिला समूहों को"
+    ],
+    "why": "ये योजनाएं राज्य की लाखों स्वयं सहायता समूह महिलाओं और पेंशनधारकों से सीधे जुड़ी हैं।",
+    "cat": "तेलंगाना · महिलाएं",
+    "statl": "2034 तक एसएचजी सदस्य लक्ष्य"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "మహారాష్ట్ర · రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹5,000",
+   "statl": "కరువు రైతులకు తక్షణ సాయం",
+   "h": "మహారాష్ట్ర కరువు రైతులకు రూ.5,000 సాయం; జాల్నాలో రైతులతో షిండే దీపావళి",
+   "p": "మహారాష్ట్ర ఉపముఖ్యమంత్రి ఏక్‌నాథ్ షిండే సోమవారం జాల్నా జిల్లా మౌజ్‌పురిలో కరువు బాధిత రైతు కుటుంబాలను కలిసి వారితో దీపావళి భోజనం చేయనున్నారు. రైతులకు తక్షణ సాయంగా రూ.5,000 అందుతుందని, మరిన్ని ప్రయోజనాలు తర్వాత వస్తాయని ఆయన చెప్పారు. సుమారు 1.5 కోట్ల మంది రైతుల ఖాతాల్లో ఈ మొత్తం జమ చేశామని సీఎం ఫడ్నవీస్ తెలిపారు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/eknath-shinde-to-visit-drought-hit-farmers-in-jalna-today-share-diwali-meal-with-them20261109105355",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "MH",
+   "place": "mh-jalna",
+   "loc": "మౌజ్‌పురి",
+   "pts": [
+    "సుమారు 1.5 కోట్ల రైతుల ఖాతాల్లో రూ.5,000",
+    "రైతుల విద్యుత్ బిల్లులు, బకాయిలు మాఫీ",
+    "పెద్ద ఎత్తున జలసంరక్షణ పనులు చేపడతామన్న సీఎం"
+   ],
+   "why": "మహారాష్ట్రలో కరువుతో ఇబ్బంది పడుతున్న కోట్లాది రైతు కుటుంబాలకు ఈ సాయం నేరుగా అందుతుంది.",
+   "en": {
+    "h": "Rs 5,000 aid for Maharashtra drought farmers; Shinde's Diwali with farmers in Jalna",
+    "p": "Maharashtra Deputy Chief Minister Eknath Shinde will meet drought-hit farm families in Moujpuri in Jalna district on Monday and share a Diwali meal with them. He said farmers will get Rs 5,000 as immediate relief, with more benefits to follow. CM Fadnavis said the amount has been deposited in the accounts of about 1.5 crore farmers.",
+    "pts": [
+     "Rs 5,000 credited to about 1.5 crore farmers",
+     "Farmers' electricity bills and arrears waived",
+     "CM says water conservation works on a large scale"
+    ],
+    "why": "The aid directly reaches crores of drought-hit farm families in Maharashtra.",
+    "cat": "Maharashtra · Farmers",
+    "statl": "Immediate aid for drought farmers"
+   },
+   "hi": {
+    "h": "महाराष्ट्र के सूखा प्रभावित किसानों को ₹5,000 सहायता; जालना में किसानों संग शिंदे की दिवाली",
+    "p": "महाराष्ट्र के उपमुख्यमंत्री एकनाथ शिंदे सोमवार को जालना जिले के मौजपुरी में सूखा प्रभावित किसान परिवारों से मिलेंगे और उनके साथ दिवाली का भोजन करेंगे। उन्होंने कहा कि किसानों को तत्काल राहत के रूप में ₹5,000 मिलेंगे और बाकी लाभ बाद में मिलेंगे। सीएम फडणवीस ने बताया कि करीब 1.5 करोड़ किसानों के खातों में यह राशि जमा की गई है।",
+    "pts": [
+     "करीब 1.5 करोड़ किसानों के खातों में ₹5,000",
+     "किसानों के बिजली बिल और बकाया माफ",
+     "सीएम ने कहा, बड़े पैमाने पर जल संरक्षण कार्य होंगे"
+    ],
+    "why": "यह सहायता महाराष्ट्र के करोड़ों सूखा प्रभावित किसान परिवारों तक सीधे पहुंचती है।",
+    "cat": "महाराष्ट्र · किसान",
+    "statl": "सूखा किसानों को तत्काल सहायता"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2/3",
+   "statl": "తొలగింపునకు సెనేట్‌లో కావాల్సిన మెజారిటీ",
+   "h": "అమెరికా రక్షణ మంత్రి హెగ్‌సెత్ అభిశంసనకు డెమోక్రాట్ నేత జెఫ్రీస్ మద్దతు",
+   "p": "అమెరికా రక్షణ మంత్రి పీట్ హెగ్‌సెత్‌ను అభిశంసించే తీర్మానానికి తాను పూర్తిగా మద్దతిస్తానని హౌస్ డెమోక్రాట్ నేత హకీమ్ జెఫ్రీస్ ఆదివారం చెప్పారు. రిపబ్లికన్ ఎంపీ థామస్ మాసీ ఈ తీర్మానాన్ని త్వరలో తీసుకురానున్నారు. హెగ్‌సెత్ అధికార దుర్వినియోగం చేశారని, ఇరాన్ యుద్ధానికి కారకుడని జెఫ్రీస్ ఆరోపించారు. నవంబర్ 3 మధ్యంతర ఎన్నికల్లో డెమోక్రాట్లు హౌస్, సెనేట్ రెండూ గెలిచారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "జెఫ్రీస్ స్పీకర్ అయ్యే అవకాశం",
+    "ట్రంప్ సన్నిహితులపై దర్యాప్తులు చేస్తామన్న డెమోక్రాట్లు",
+    "డెమోక్రాట్లపై దర్యాప్తు చేయాలని న్యాయశాఖను కోరిన ట్రంప్"
+   ],
+   "why": "ఇరాన్ యుద్ధంపై అమెరికా విధానం, ప్రపంచ రాజకీయాలపై ఈ పరిణామాలు ప్రభావం చూపవచ్చు.",
+   "en": {
+    "h": "Democrat leader Jeffries backs impeachment of US Defence Secretary Hegseth",
+    "p": "House Democratic leader Hakeem Jeffries said on Sunday he fully supports a resolution to impeach US Defence Secretary Pete Hegseth. Republican lawmaker Thomas Massie is set to bring the resolution soon. Jeffries accused Hegseth of abusing power and of being behind the Iran war. Democrats won both the House and the Senate in the November 3 midterm elections.",
+    "pts": [
+     "Jeffries likely to become Speaker",
+     "Democrats vow probes of Trump allies",
+     "Trump asks Justice Department to probe Democrats"
+    ],
+    "why": "These developments could affect US policy on the Iran war and global politics.",
+    "cat": "World · USA",
+    "statl": "Senate majority needed for removal"
+   },
+   "hi": {
+    "h": "डेमोक्रेट नेता जेफ्रीज़ ने अमेरिकी रक्षा मंत्री हेगसेथ पर महाभियोग का समर्थन किया",
+    "p": "हाउस में डेमोक्रेटिक नेता हकीम जेफ्रीज़ ने रविवार को कहा कि वे अमेरिकी रक्षा मंत्री पीट हेगसेथ पर महाभियोग प्रस्ताव का पूरा समर्थन करेंगे। रिपब्लिकन सांसद थॉमस मैसी यह प्रस्ताव जल्द लाने वाले हैं। जेफ्रीज़ ने हेगसेथ पर सत्ता के दुरुपयोग और ईरान युद्ध के पीछे होने का आरोप लगाया। 3 नवंबर के मध्यावधि चुनावों में डेमोक्रेट्स ने हाउस और सीनेट दोनों जीते।",
+    "pts": [
+     "जेफ्रीज़ के स्पीकर बनने की संभावना",
+     "डेमोक्रेट्स ने ट्रंप के करीबियों की जांच का वादा किया",
+     "ट्रंप ने न्याय विभाग से डेमोक्रेट्स की जांच को कहा"
+    ],
+    "why": "ये घटनाक्रम ईरान युद्ध पर अमेरिकी नीति और वैश्विक राजनीति को प्रभावित कर सकते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "हटाने के लिए सीनेट में ज़रूरी बहुमत"
+   },
+   "d": "09.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "విద్య · యువత",
    "col": "--c-job",
@@ -1778,250 +1972,6 @@
    },
    "d": "08.11.2026",
    "t": "21:05"
-  },
-  {
-   "cat": "తెలంగాణ · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "500+",
-   "statl": "రద్దయిన మేజిస్ట్రేట్ కాగ్నిజెన్స్ ఉత్తర్వులు",
-   "h": "'రబ్బర్ స్టాంప్' ఉత్తర్వులు: 500కు పైగా కాగ్నిజెన్స్ ఆదేశాలను రద్దు చేసిన హైకోర్టు",
-   "p": "ఈ ఏడాది జనవరి నుంచి మేజిస్ట్రేట్లు జారీ చేసిన 500కు పైగా కాగ్నిజెన్స్ ఉత్తర్వులను తెలంగాణ హైకోర్టు పక్కన పెట్టింది. ఆలోచించకుండా రబ్బర్ స్టాంపులతో కేసులను విచారణకు స్వీకరిస్తున్నారని జస్టిస్ జె. శ్రీనివాసరావు తప్పుపట్టారు. ఇలాంటి యాంత్రిక ఉత్తర్వులతో కోర్టు సమయం వృథా అవుతూ, బాధితులకు, నిందితులకు కేసులు ఆలస్యమవుతున్నాయని పేర్కొన్నారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-hc-sets-aside-500-rubber-stamp-cognisance-orders-3571891/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "ఆదేశాన్ని రాష్ట్రంలోని మేజిస్ట్రేట్లందరికీ పంపాలని సూచన",
-    "జ్యుడీషియల్ అధికారులకు శిక్షణ ఇవ్వాలని జ్యుడీషియల్ అకాడమీకి ఆదేశం",
-    "కాగ్నిజెన్స్ నేరానికే, వ్యక్తికి కాదని స్పష్టీకరణ"
-   ],
-   "why": "కింది కోర్టుల్లో కేసుల విచారణ సక్రమంగా, వేగంగా జరగడానికి ఈ ఆదేశం దోహదపడుతుంది.",
-   "en": {
-    "h": "'Rubber stamp' orders: High Court sets aside over 500 cognisance orders",
-    "p": "The Telangana High Court has set aside more than 500 cognisance orders passed by magistrates since January this year. Justice J Sreenivas Rao faulted trial courts for taking cognisance of cases using rubber stamps without applying their minds. He said such mechanical orders waste court time and delay cases for both victims and the accused.",
-    "pts": [
-     "Order to be circulated to all magistrates in the state",
-     "Judicial Academy told to train judicial officers",
-     "Cognisance is of the offence, not the offender"
-    ],
-    "why": "The order should help cases in lower courts proceed properly and faster.",
-    "cat": "Telangana · High Court",
-    "statl": "Magistrate cognisance orders set aside"
-   },
-   "hi": {
-    "h": "'रबर स्टैंप' आदेश: हाईकोर्ट ने 500 से ज्यादा संज्ञान आदेश रद्द किए",
-    "p": "तेलंगाना हाईकोर्ट ने इस साल जनवरी से मजिस्ट्रेटों द्वारा जारी 500 से अधिक संज्ञान आदेशों को रद्द कर दिया है। न्यायमूर्ति जे. श्रीनिवास राव ने बिना सोचे-समझे रबर स्टैंप से मामलों का संज्ञान लेने के लिए निचली अदालतों की आलोचना की। उन्होंने कहा कि ऐसे यांत्रिक आदेशों से अदालत का समय बर्बाद होता है और पीड़ितों व आरोपियों दोनों के मामलों में देरी होती है।",
-    "pts": [
-     "आदेश राज्य के सभी मजिस्ट्रेटों को भेजा जाएगा",
-     "न्यायिक अकादमी को न्यायिक अधिकारियों को प्रशिक्षण देने का निर्देश",
-     "संज्ञान अपराध का होता है, व्यक्ति का नहीं"
-    ],
-    "why": "यह आदेश निचली अदालतों में मामलों की सुनवाई सही ढंग से और तेजी से होने में मदद करेगा।",
-    "cat": "तेलंगाना · हाईकोर्ट",
-    "statl": "रद्द किए गए मजिस्ट्रेट संज्ञान आदेश"
-   },
-   "d": "08.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3 ఫైరింజన్లు",
-   "statl": "మంటలు ఆర్పేందుకు వచ్చిన అగ్నిమాపక వాహనాలు",
-   "h": "కాటేదాన్ పారిశ్రామిక వాడలో భారీ అగ్నిప్రమాదం",
-   "p": "హైదరాబాద్ కాటేదాన్ పారిశ్రామిక ప్రాంతంలోని ప్లాస్టిక్ తయారీ యూనిట్‌లో ఆదివారం సాయంత్రం మంటలు చెలరేగాయి. దట్టమైన నల్లటి పొగ చుట్టుపక్కల ప్రాంతాన్ని కమ్మేయడంతో స్థానికులు భయంతో ఇళ్ల నుంచి బయటకు వచ్చారు. మూడు ఫైరింజన్లతో అగ్నిమాపక సిబ్బంది, పోలీసులు మంటలను అదుపు చేశారు. ఎవరికీ ప్రాణనష్టం జరిగినట్లు సమాచారం లేదు. ప్రమాదానికి కారణం, నష్టం ఎంతన్నది ఇంకా తేలలేదు.",
-   "src": "Telangana Today, Siasat Daily",
-   "url": "https://telanganatoday.com/fire-breaks-out-at-plastic-manufacturing-unit-in-katedan",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "కాటేదాన్",
-   "pts": [
-    "ప్లాస్టిక్ తయారీ యూనిట్‌లో మొదలైన మంటలు",
-    "మూడు ఫైరింజన్లతో మంటల అదుపు",
-    "ప్రాణనష్టం జరిగినట్లు సమాచారం లేదు"
-   ],
-   "why": "పారిశ్రామిక వాడల పక్కనే నివసించే ప్రజల భద్రత, అగ్నిమాపక నిబంధనలపై ఈ ఘటన మళ్లీ దృష్టి పెట్టింది.",
-   "en": {
-    "h": "Major fire at Katedan industrial area in Hyderabad",
-    "p": "A fire broke out on Sunday evening at a plastic manufacturing unit in Hyderabad's Katedan industrial area. Thick black smoke covered the surrounding area and frightened residents rushed out of their homes. Firefighters and police brought the blaze under control with three fire engines. No casualties have been reported. The cause of the fire and the extent of the loss are yet to be ascertained.",
-    "pts": [
-     "Fire started in a plastic manufacturing unit",
-     "Blaze controlled with three fire engines",
-     "No casualties reported"
-    ],
-    "why": "The incident again draws attention to the safety of people living next to industrial areas and to fire safety rules.",
-    "cat": "Hyderabad · Fire",
-    "statl": "Fire engines sent to put out the blaze"
-   },
-   "hi": {
-    "h": "हैदराबाद के काटेदान औद्योगिक क्षेत्र में भीषण आग",
-    "p": "हैदराबाद के काटेदान औद्योगिक क्षेत्र में एक प्लास्टिक निर्माण इकाई में रविवार शाम आग लग गई। घने काले धुएं ने आसपास के इलाके को ढक लिया और डरे हुए लोग घरों से बाहर निकल आए। दमकलकर्मियों और पुलिस ने तीन दमकल गाड़ियों की मदद से आग पर काबू पाया। किसी के हताहत होने की सूचना नहीं है। आग का कारण और नुकसान का आकलन अभी होना बाकी है।",
-    "pts": [
-     "प्लास्टिक निर्माण इकाई में लगी आग",
-     "तीन दमकल गाड़ियों से आग पर काबू",
-     "किसी के हताहत होने की सूचना नहीं"
-    ],
-    "why": "यह घटना औद्योगिक क्षेत्रों के पास रहने वाले लोगों की सुरक्षा और अग्नि सुरक्षा नियमों पर फिर ध्यान खींचती है।",
-    "cat": "हैदराबाद · आग",
-    "statl": "आग बुझाने आईं दमकल गाड़ियां"
-   },
-   "d": "08.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "నవంబర్ 14",
-   "statl": "భారత్ సమ్మిట్‌కు రాహుల్ గాంధీ హాజరయ్యే అవకాశం",
-   "h": "హైదరాబాద్ భారత్ సమ్మిట్‌కు రాహుల్ గాంధీ; నల్ల జెండాలతో నిరసన అంటున్న బీజేపీ",
-   "p": "హైదరాబాద్‌లో నవంబర్ 12 నుంచి 14 వరకు హెచ్ఐసీసీ, హైటెక్స్‌లో భారత్ సమ్మిట్ జరగనుంది. నవంబర్ 14న ముఖ్య అతిథులుగా మల్లికార్జున ఖర్గే, రాహుల్ గాంధీ హాజరయ్యే అవకాశం ఉంది. 13న ప్రియాంకా గాంధీ ప్రసంగిస్తారు. ఆరు గ్యారెంటీలు అమలు కాలేదని ఆరోపిస్తూ, రాహుల్ పర్యటనను నల్ల జెండాలతో అడ్డుకుంటామని బీజేపీ రాష్ట్ర అధ్యక్షుడు ఎన్. రాంచందర్ రావు అన్నారు.",
-   "src": "Siasat Daily, ANI",
-   "url": "https://www.siasat.com/rahul-gandhi-to-visit-telanganas-bharat-summit-in-hyderabad-3571793/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "నవంబర్ 12–14 హెచ్ఐసీసీ, హైటెక్స్‌లో భారత్ సమ్మిట్",
-    "14న ఖర్గే, రాహుల్ ముఖ్య అతిథులుగా వచ్చే అవకాశం",
-    "నల్ల జెండాలతో నిరసన తెలుపుతామన్న బీజేపీ"
-   ],
-   "why": "సమ్మిట్ రోజుల్లో హైదరాబాద్‌లో రాజకీయ హడావుడి, నిరసనలు, భద్రతా ఏర్పాట్లు ఉండే అవకాశం ఉంది.",
-   "en": {
-    "h": "Rahul Gandhi to attend Hyderabad Bharat Summit; BJP plans black-flag protest",
-    "p": "The Bharat Summit will be held in Hyderabad from November 12 to 14 at HICC and HITEX. Mallikarjun Kharge and Rahul Gandhi are likely to attend as chief guests on November 14, and Priyanka Gandhi will speak on the 13th. Alleging that the six guarantees have not been implemented, BJP state president N. Ramchander Rao said the party will block Rahul's visit with black flags.",
-    "pts": [
-     "Bharat Summit at HICC and HITEX on November 12–14",
-     "Kharge and Rahul likely chief guests on the 14th",
-     "BJP says it will protest with black flags"
-    ],
-    "why": "Hyderabad may see political activity, protests and security arrangements during the summit days.",
-    "cat": "Telangana · Politics",
-    "statl": "Rahul Gandhi likely to attend Bharat Summit"
-   },
-   "hi": {
-    "h": "हैदराबाद भारत समिट में राहुल गांधी; भाजपा का काले झंडों से विरोध का ऐलान",
-    "p": "हैदराबाद में 12 से 14 नवंबर तक एचआईसीसी और हाईटेक्स में भारत समिट होगा। 14 नवंबर को मुख्य अतिथि के रूप में मल्लिकार्जुन खड़गे और राहुल गांधी के शामिल होने की संभावना है, और 13 को प्रियंका गांधी संबोधित करेंगी। छह गारंटियां लागू न होने का आरोप लगाते हुए भाजपा प्रदेश अध्यक्ष एन. रामचंदर राव ने कहा कि वे राहुल के दौरे को काले झंडों से रोकेंगे।",
-    "pts": [
-     "12–14 नवंबर को एचआईसीसी, हाईटेक्स में भारत समिट",
-     "14 को खड़गे, राहुल मुख्य अतिथि हो सकते हैं",
-     "भाजपा ने काले झंडों से विरोध की बात कही"
-    ],
-    "why": "समिट के दिनों में हैदराबाद में राजनीतिक हलचल, विरोध और सुरक्षा इंतज़ाम देखने को मिल सकते हैं।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "राहुल गांधी के भारत समिट में आने की संभावना"
-   },
-   "d": "08.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "కర్ణాటక · బెంగళూరు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹1,700/కిలో",
-   "statl": "కేఆర్ మార్కెట్‌లో మల్లెపూల ధర",
-   "h": "కరవు ఉన్నా బెంగళూరు కేఆర్ మార్కెట్‌లో దీపావళి కొనుగోళ్ల రద్దీ",
-   "p": "దీపావళి సందర్భంగా ఆదివారం తెల్లవారుజామున 3 గంటల నుంచే బెంగళూరు కేఆర్ మార్కెట్‌కు వేలాది మంది తరలివచ్చారు. కరవు, అస్థిర వర్షాల వల్ల సరఫరా తగ్గిందని వ్యాపారులు చెప్పారు. మల్లెపూలు కిలో ₹1,500–1,700, గులాబీలు ₹300 పలికాయి. సాధారణ రోజుల కంటే పూల ధరలు కిలోకు ₹100–200 ఎక్కువ. బాణసంచా ధరలు గతేడాది కంటే సుమారు 15% పెరిగాయి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/en/state/diwali-shopping-rush-continues-in-bengaluru-despite-soaring-prices-amid-drought-enn26110803089",
-   "sec": [
-    "india",
-    "culture"
-   ],
-   "st": "KA",
-   "place": "ka-bengaluru",
-   "loc": "కేఆర్ మార్కెట్",
-   "pts": [
-    "మల్లెపూలు కిలో ₹1,500–1,700",
-    "పూల ధరలు కిలోకు ₹100–200 అదనం",
-    "బాణసంచా ధరలు సుమారు 15% పెరుగుదల"
-   ],
-   "why": "పండుగ ఖర్చులు పెరగడం బెంగళూరులో ఉండే తెలుగు కుటుంబాలతో సహా సామాన్యుల జేబుపై భారం పెంచుతోంది.",
-   "en": {
-    "h": "Diwali shopping rush at Bengaluru's KR Market despite drought",
-    "p": "Thousands thronged Bengaluru's KR Market from 3 am on Sunday for Diwali shopping. Traders said drought and erratic rain have cut supplies. Jasmine sold at ₹1,500–1,700 a kg and roses at ₹300. Flower prices were ₹100–200 a kg higher than on normal days. Firecracker prices rose by about 15% over last year.",
-    "pts": [
-     "Jasmine at ₹1,500–1,700 a kg",
-     "Flowers ₹100–200 a kg costlier",
-     "Firecracker prices up about 15%"
-    ],
-    "why": "Rising festival costs are adding to the burden on ordinary people in Bengaluru, including Telugu families living there.",
-    "cat": "Karnataka · Bengaluru",
-    "statl": "Price of jasmine at KR Market"
-   },
-   "hi": {
-    "h": "सूखे के बावजूद बेंगलुरु के केआर मार्केट में दिवाली ख़रीदारी की भीड़",
-    "p": "दिवाली के मौके पर रविवार तड़के 3 बजे से ही हज़ारों लोग बेंगलुरु के केआर मार्केट पहुंचे। व्यापारियों ने कहा कि सूखे और अनियमित बारिश से आपूर्ति घटी है। चमेली ₹1,500–1,700 प्रति किलो और गुलाब ₹300 में बिके। फूलों के दाम सामान्य दिनों से ₹100–200 प्रति किलो ज़्यादा रहे। पटाखों के दाम पिछले साल से करीब 15% बढ़े।",
-    "pts": [
-     "चमेली ₹1,500–1,700 प्रति किलो",
-     "फूल ₹100–200 प्रति किलो महंगे",
-     "पटाखों के दाम करीब 15% बढ़े"
-    ],
-    "why": "त्योहार का बढ़ता ख़र्च बेंगलुरु में रहने वाले तेलुगु परिवारों समेत आम लोगों की जेब पर बोझ बढ़ा रहा है।",
-    "cat": "कर्नाटक · बेंगलुरु",
-    "statl": "केआर मार्केट में चमेली का दाम"
-   },
-   "d": "08.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3 మృతి",
-   "statl": "ఓఆర్ఆర్ ప్రమాదంలో మరణించినవారు",
-   "h": "ఓఆర్ఆర్‌పై టిప్పర్‌ను ఢీకొన్న ఆటో: ముగ్గురు మృతి, 19 మందికి గాయాలు",
-   "p": "హైదరాబాద్ ఔటర్ రింగ్ రోడ్డుపై హిమాయత్‌సాగర్ సమీపంలో ఆదివారం తెల్లవారుజామున ఘోర ప్రమాదం జరిగింది. 23 మందితో వెళ్తున్న ఆటో ఒక టిప్పర్‌ను ఢీకొట్టింది. ముగ్గురు అక్కడికక్కడే చనిపోగా, 19 మంది గాయపడ్డారు. వీరిలో కొందరి పరిస్థితి విషమంగా ఉంది. కొత్తూరు సమీపంలో ఓ కార్యక్రమంలో పని ముగించుకుని వారు తిరిగి వస్తుండగా ఈ ఘటన జరిగింది. పోలీసులు దర్యాప్తు చేస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/three-killed-19-injured-as-auto-rickshaw-carrying-23-people-rams-into-tipper-on-hyderabad-orr",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "హిమాయత్‌సాగర్",
-   "pts": [
-    "ఒకే ఆటోలో 23 మంది ప్రయాణం",
-    "ముగ్గురు అక్కడికక్కడే మృతి, 19 మందికి గాయాలు",
-    "కొత్తూరు వద్ద పని ముగించుకుని తిరిగి వస్తుండగా ప్రమాదం"
-   ],
-   "why": "ఆటోల్లో పరిమితికి మించి ప్రయాణించడం ఎంత ప్రమాదకరమో ఈ ఘటన గుర్తుచేస్తుంది.",
-   "en": {
-    "h": "Auto rams tipper on ORR: 3 dead, 19 injured",
-    "p": "A major accident took place on Hyderabad's Outer Ring Road near Himayatsagar early on Sunday. An auto-rickshaw carrying 23 people rammed into a tipper. Three people died on the spot and 19 were injured, some of them critically. They were returning after working at an event near Kothur. Police are investigating.",
-    "pts": [
-     "23 people travelling in a single auto",
-     "3 died on the spot, 19 injured",
-     "Crash while returning from work near Kothur"
-    ],
-    "why": "The incident is a reminder of how dangerous overloaded autos can be.",
-    "cat": "Hyderabad · Accident",
-    "statl": "Killed in the ORR crash"
-   },
-   "hi": {
-    "h": "ओआरआर पर ऑटो टिपर से टकराया: 3 की मौत, 19 घायल",
-    "p": "हैदराबाद के आउटर रिंग रोड पर हिमायतसागर के पास रविवार तड़के बड़ा हादसा हुआ। 23 लोगों को ले जा रहा एक ऑटो टिपर से टकरा गया। तीन लोगों की मौके पर ही मौत हो गई और 19 घायल हुए, जिनमें कुछ की हालत गंभीर है। वे कोत्तूर के पास एक कार्यक्रम में काम करके लौट रहे थे। पुलिस जांच कर रही है।",
-    "pts": [
-     "एक ही ऑटो में 23 लोग सवार",
-     "3 की मौके पर मौत, 19 घायल",
-     "कोत्तूर के पास काम से लौटते समय हादसा"
-    ],
-    "why": "यह घटना याद दिलाती है कि ऑटो में क्षमता से ज़्यादा सवारी कितनी ख़तरनाक है।",
-    "cat": "हैदराबाद · हादसा",
-    "statl": "ओआरआर हादसे में मृतक"
-   },
-   "d": "08.11.2026",
-   "t": "19:35"
   },
   {
    "cat": "🪔 దీపావళి · ఆలేరు",
