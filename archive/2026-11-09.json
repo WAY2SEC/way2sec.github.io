@@ -1,8 +1,154 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 7,
+ "count": 10,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · దీపావళి",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "67",
+   "statl": "టపాసులతో గాయపడినవారు",
+   "h": "దీపావళి టపాసులతో హైదరాబాద్‌లో 67 మందికి గాయాలు; 10 చోట్ల మంటలు",
+   "p": "దీపావళి రాత్రి హైదరాబాద్‌లో టపాసులు కాలుస్తూ 67 మంది గాయపడ్డారు. మెహదీపట్నం సరోజినీదేవి కంటి ఆసుపత్రిలో 12 మందిని చేర్చుకొని, మిగతావారికి ప్రథమ చికిత్స చేసి పంపారు. గాంధీ, ఉస్మానియా ఆసుపత్రుల్లో 30 మందికి చిన్న గాయాలకు చికిత్స అందించారు. నిప్పురవ్వల వల్ల జీడిమెట్ల, బేగంబజార్, మైలార్‌దేవ్‌పల్లి, సికింద్రాబాద్, జాంబాగ్ సహా 10 చోట్ల అగ్నిప్రమాదాలు జరిగాయి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-9th-november-2026-3707.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "టపాసులు కాలుస్తూ 67 మందికి గాయాలు",
+    "సరోజినీదేవి కంటి ఆసుపత్రిలో 12 మంది చేరిక",
+    "నిప్పురవ్వలతో నగరంలో 10 చోట్ల మంటలు"
+   ],
+   "why": "పండుగ రోజుల్లో టపాసులు కాల్చేటప్పుడు పిల్లలు, కుటుంబాలు మరింత జాగ్రత్తగా ఉండాలని ఈ ఘటనలు గుర్తుచేస్తున్నాయి.",
+   "en": {
+    "h": "67 injured by Diwali crackers in Hyderabad; fires at 10 places",
+    "p": "On Diwali night, 67 people were injured while bursting firecrackers in Hyderabad. Sarojini Devi Eye Hospital in Mehdipatnam admitted 12 of them and sent the rest home after first aid. Gandhi and Osmania hospitals treated 30 people for minor injuries. Sparks caused fires at 10 places, including Jeedimetla, Begumbazar, Mailardevpally, Secunderabad and Jambagh.",
+    "pts": [
+     "67 injured while bursting crackers",
+     "12 admitted at Sarojini Devi Eye Hospital",
+     "Cracker sparks cause fires at 10 places in city"
+    ],
+    "why": "These incidents remind children and families to take more care while bursting crackers during festivals.",
+    "cat": "Hyderabad · Diwali",
+    "statl": "Injured by firecrackers"
+   },
+   "hi": {
+    "h": "हैदराबाद में दिवाली पटाखों से 67 लोग घायल; 10 जगह आग",
+    "p": "दिवाली की रात हैदराबाद में पटाखे जलाते समय 67 लोग घायल हो गए। मेहदीपट्टनम के सरोजिनी देवी नेत्र अस्पताल में 12 लोगों को भर्ती किया गया, बाकी को प्राथमिक उपचार के बाद घर भेज दिया गया। गांधी और उस्मानिया अस्पतालों में 30 लोगों का मामूली चोटों का इलाज हुआ। चिंगारियों से जीडिमेटला, बेगमबाज़ार, मैलारदेवपल्ली, सिकंदराबाद और जांबाग समेत 10 जगह आग लगी।",
+    "pts": [
+     "पटाखे जलाते समय 67 लोग घायल",
+     "सरोजिनी देवी नेत्र अस्पताल में 12 भर्ती",
+     "चिंगारियों से शहर में 10 जगह आग"
+    ],
+    "why": "ये घटनाएं याद दिलाती हैं कि त्योहारों पर पटाखे जलाते समय बच्चों और परिवारों को अधिक सावधानी बरतनी चाहिए।",
+    "cat": "हैदराबाद · दिवाली",
+    "statl": "पटाखों से घायल"
+   },
+   "d": "09.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "తమిళనాడు · దీపావళి",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "1,387",
+   "statl": "టపాసుల ప్రమాదాల్లో గాయపడినవారు",
+   "h": "తమిళనాడులో టపాసుల ప్రమాదాల్లో 1,387 మందికి గాయాలు; విల్లుపురంలో బాలుడు మృతి",
+   "p": "దీపావళి సందర్భంగా తమిళనాడు అంతటా టపాసుల ప్రమాదాల్లో ఆదివారం ఉదయం నాటికి 1,387 మంది గాయపడ్డారని రాష్ట్ర అత్యవసర నిర్వహణ సేవల విభాగం తెలిపింది. విల్లుపురం జిల్లా వీరచోళపురంలో ఇంట్లో నిల్వ ఉంచిన టపాసులు పేలి 10 ఏళ్ల బాలుడు మరణించగా, అతని తల్లిదండ్రులు తీవ్రంగా గాయపడి ఐసీయూలో ఉన్నారు. రెండు రోజుల క్రితం మదురై జిల్లా మేలూరులో ఇలాంటి పేలుడులో ఓ కళాశాల విద్యార్థి చనిపోయాడు.",
+   "src": "Madhyamam",
+   "url": "https://madhyamamonline.com/india/diwali-mishap-kills-boy-in-tamil-nadu-buildings-catch-fire-in-mumbai-1570406",
+   "sec": [
+    "india"
+   ],
+   "st": "TN",
+   "place": "st-TN",
+   "loc": "వీరచోళపురం",
+   "pts": [
+    "రాష్ట్రవ్యాప్తంగా 1,387 మందికి గాయాలు",
+    "ఇంట్లో టపాసులు పేలి 10 ఏళ్ల బాలుడు మృతి",
+    "మేలూరులో పేలుడుకు కళాశాల విద్యార్థి బలి"
+   ],
+   "why": "ఇళ్లలో టపాసులు నిల్వ ఉంచడం ఎంత ప్రమాదకరమో తమిళనాడులోని తెలుగు కుటుంబాలు సహా అందరూ గుర్తించాలి.",
+   "en": {
+    "h": "1,387 hurt in cracker accidents in Tamil Nadu; boy dies in Villupuram",
+    "p": "The Tamil Nadu Emergency Management Service said 1,387 people were injured in firecracker-related incidents across the state as of Sunday morning. In Veerachozhapuram, Villupuram district, firecrackers stored at a home exploded, killing a 10-year-old boy; his parents were seriously injured and are in the ICU. Two days earlier, a college student died in a similar blast in Melur, Madurai district.",
+    "pts": [
+     "1,387 injured across the state",
+     "10-year-old dies as crackers stored at home explode",
+     "College student killed in Melur blast"
+    ],
+    "why": "Everyone, including Telugu families in Tamil Nadu, should note how dangerous it is to store crackers at home.",
+    "cat": "Tamil Nadu · Diwali",
+    "statl": "Injured in cracker accidents"
+   },
+   "hi": {
+    "h": "तमिलनाडु में पटाखा हादसों में 1,387 घायल; विल्लुपुरम में बच्चे की मौत",
+    "p": "तमिलनाडु आपातकालीन प्रबंधन सेवा ने बताया कि रविवार सुबह तक राज्य भर में पटाखों से जुड़े हादसों में 1,387 लोग घायल हुए। विल्लुपुरम ज़िले के वीरचोळपुरम में एक घर में रखे पटाखे फटने से 10 साल के बच्चे की मौत हो गई; उसके माता-पिता गंभीर रूप से घायल होकर आईसीयू में हैं। दो दिन पहले मदुरै ज़िले के मेलूर में ऐसे ही धमाके में एक कॉलेज छात्र की जान गई थी।",
+    "pts": [
+     "राज्य भर में 1,387 लोग घायल",
+     "घर में रखे पटाखे फटने से 10 साल के बच्चे की मौत",
+     "मेलूर धमाके में कॉलेज छात्र की मौत"
+    ],
+    "why": "तमिलनाडु में रहने वाले तेलुगु परिवारों समेत सभी को समझना चाहिए कि घर में पटाखे रखना कितना खतरनाक है।",
+    "cat": "तमिलनाडु · दिवाली",
+    "statl": "पटाखा हादसों में घायल"
+   },
+   "d": "09.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "మహారాష్ట్ర · ముంబై",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "89",
+   "statl": "రెండు రోజుల్లో అగ్నిప్రమాదాలు",
+   "h": "దీపావళి రెండు రోజుల్లో ముంబైలో 89 అగ్నిప్రమాదాలు; అంధేరిలో సెక్యూరిటీ గార్డు మృతి",
+   "p": "దీపావళి సమయంలో రెండు రోజుల్లో ముంబైలో 89 అగ్నిప్రమాదాలు జరిగాయి; వాటిలో 28 టపాసుల వల్లేనని, నలుగురు గాయపడ్డారని అధికారులు తెలిపారు. అంధేరి వెస్ట్‌లోని 27 అంతస్తుల భవనంలో 17వ అంతస్తు ఫ్లాట్‌లో శనివారం రాత్రి మంటలు చెలరేగాయి. లిఫ్ట్‌లో చిక్కుకుని 56 ఏళ్ల సెక్యూరిటీ గార్డు ఊపిరాడక మరణించాడు. ఇంట్లో పూజగదిలోని దీపం వల్ల మంటలు రేగి ఉండొచ్చని అగ్నిమాపక అధికారి చెప్పారు.",
+   "src": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/mumbai/mumbai-records-89-diwali-fire-incidents-in-2-days-guard-dies-in-andheri-blaze",
+   "sec": [
+    "india"
+   ],
+   "st": "MH",
+   "place": "mh-mumbaisuburban",
+   "loc": "అంధేరి",
+   "pts": [
+    "రెండు రోజుల్లో 89 అగ్నిప్రమాదాలు, 28 టపాసుల వల్ల",
+    "అంధేరి భవనం లిఫ్ట్‌లో చిక్కుకుని గార్డు మృతి",
+    "రాత్రి 10.37కి మంటలు అదుపులోకి"
+   ],
+   "why": "ఎత్తైన భవనాల్లో మంటలు చెలరేగినప్పుడు లిఫ్ట్ కాకుండా మెట్లు వాడాలని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "Mumbai sees 89 fires in two Diwali days; guard dies in Andheri",
+    "p": "Mumbai recorded 89 fire incidents over two days of Diwali; officials said 28 were caused by firecrackers and four people were injured. On Saturday night, a fire broke out in a 17th-floor flat of a 27-storey building in Andheri West. A 56-year-old security guard trapped in a lift died of suffocation. A fire official said a diya in the home's prayer shrine may have sparked the blaze.",
+    "pts": [
+     "89 fires in two days, 28 due to crackers",
+     "Guard trapped in Andheri building lift dies",
+     "Fire brought under control by 10.37 pm"
+    ],
+    "why": "The incident is a reminder to use stairs, not lifts, when fire breaks out in tall buildings.",
+    "cat": "Maharashtra · Mumbai",
+    "statl": "Fires in two days"
+   },
+   "hi": {
+    "h": "दिवाली के दो दिनों में मुंबई में 89 आग की घटनाएं; अंधेरी में गार्ड की मौत",
+    "p": "दिवाली के दो दिनों में मुंबई में आग की 89 घटनाएं दर्ज हुईं; अधिकारियों के मुताबिक इनमें 28 पटाखों से हुईं और चार लोग घायल हुए। शनिवार रात अंधेरी वेस्ट की 27 मंज़िला इमारत की 17वीं मंज़िल के फ्लैट में आग लगी। लिफ्ट में फंसे 56 साल के सुरक्षा गार्ड की दम घुटने से मौत हो गई। दमकल अधिकारी ने कहा कि घर के पूजा स्थल में जल रहे दीये से आग लगी हो सकती है।",
+    "pts": [
+     "दो दिनों में 89 आग, 28 पटाखों से",
+     "अंधेरी की इमारत की लिफ्ट में फंसे गार्ड की मौत",
+     "रात 10.37 बजे तक आग पर काबू"
+    ],
+    "why": "यह घटना याद दिलाती है कि ऊंची इमारतों में आग लगने पर लिफ्ट नहीं, सीढ़ियों का इस्तेमाल करें।",
+    "cat": "महाराष्ट्र · मुंबई",
+    "statl": "दो दिनों में आग की घटनाएं"
+   },
+   "d": "09.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "ప్రపంచం · ఇరాన్ యుద్ధం",
    "col": "--c-power",
