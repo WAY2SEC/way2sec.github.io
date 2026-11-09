@@ -398,7 +398,7 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
   <div class="toast" id="toast" role="status"></div>
 </div>
 
-<script src="scenes.js?v=20261108a"></script>
+<script src="scenes.js?v=20261109a"></script>
 <script>
 const CONFIG = {
   NEWS_URL: 'news.json',
@@ -444,8 +444,8 @@ const LANGS = [['te','తెలుగు','Telugu'],['en','English','ఇంగ�
 /* reader's language: stories carry en:{…} and hi:{…}; missing ones stay in Telugu */
 const LG = () => (prefs&&prefs.lang)||'te';
 const UI = {te:{read:'పూర్తి వార్త చదవండి →',hint:'తర్వాతి వార్త: ← ఎడమకు లేదా ↓ కిందకు స్వైప్ చేయండి',news:'వార్త',speech:'te-IN',src:'Source | మూలం',tag:'Fastest AI News in Telugu',sub:'తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు',l1:'వార్తలు క్షణాల్లో!'},
-  en:{read:'Read full story →',hint:'Next story: swipe ← left or ↓ down',news:'News',speech:'en-IN',src:'Source',tag:'Fastest AI News',sub:'Fast, short news for you',l1:'News in seconds!'},
-  hi:{read:'पूरी खबर पढ़ें →',hint:'अगली खबर: ← बाएँ या ↓ नीचे स्वाइप करें',news:'खबर',speech:'hi-IN',src:'स्रोत',tag:'Fastest AI News',sub:'तेज़ और छोटी खबरें, आपकी भाषा में',l1:'खबरें पल भर में!'}};
+  en:{read:'Read full story →',hint:'Next story: swipe ← left or ↓ down',news:'News',speech:'en-IN',src:'Source',tag:'Fastest AI News in English',sub:'Fast, short news for you',l1:'News in seconds!'},
+  hi:{read:'पूरी खबर पढ़ें →',hint:'अगली खबर: ← बाएँ या ↓ नीचे स्वाइप करें',news:'खबर',speech:'hi-IN',src:'स्रोत',tag:'हिंदी में सबसे तेज़ AI न्यूज़',sub:'तेज़ और छोटी खबरें, आपकी भाषा में',l1:'खबरें पल भर में!'}};
 const U = k => (UI[LG()]||UI.te)[k];
 /* job card words in the reader's language */
 const JU = {
@@ -943,7 +943,7 @@ function shareText(s){
   // Our link comes FIRST and no outside link is included, so WhatsApp shows the Way2Sec preview
   if(s.kind==='job') return `💼 ${s.h}\n📲 ${storyLink(s)}\n\n👥 ${J('posts')}: ${s.stat}${s.qual?`\n${J('elig')}: ${s.qual}`:''}${s.last?`\n${J('last')}: ${s.last}`:''}\n🏛️ ${s.org||s.src||''}\n${J('warn1')}\n\n👉 ${J('ch')}: ${CONFIG.CHANNEL}`;
   const when=(s.d||NEWS.date||'')+(s.t?' · '+s.t:'');
-  return `🔴 ${s.h}\n📲 ${storyLink(s)}\n\n📅 ${when} · Source | మూలం: ${s.src}\nWay2Sec – Fastest AI News in Telugu\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
+  return `🔴 ${s.h}\n📲 ${storyLink(s)}\n\n📅 ${when} · Source | మూలం: ${s.src}\nWay2Sec – ${U('tag')}\n👉 WhatsApp ఛానెల్: ${CONFIG.CHANNEL}`;
 }
 /* Card picture is made ahead of time: phones only allow the share sheet right after a tap,
    so building the picture inside the tap made the share fail and fall back to plain text. */
@@ -1120,11 +1120,11 @@ $('homeLogo').onclick=goHome;
 document.querySelectorAll('.sh-head .logo').forEach(l=>{ l.setAttribute('role','link'); l.setAttribute('title','హోమ్'); l.onclick=()=>goHome(); });
 $('shareBtn').onclick=()=>shareCard(false);
 $('waBtn').onclick=()=>shareCard(true);
-$('shareApp').onclick=()=>share(`Way2Sec – Fastest AI News in Telugu 📲\nతెలుగులో వేగంగా, క్లుప్తంగా వార్తలు: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
+$('shareApp').onclick=()=>share(`Way2Sec – ${U('tag')} 📲\n${U('sub')}: ${CONFIG.APP_LINK}\nWhatsApp ఛానెల్: ${CONFIG.CHANNEL}`);
 
 /* ---------- bottom nav ---------- */
 function setView(v){
-  if(v==='join'){ $('joinSheet').hidden=false; return; }
+  if(v==='join'){ const jt=document.querySelector('.join-box .tl'); if(jt) jt.textContent=U('tag')+' · '+U('sub'); const jg=document.querySelector('.join-box .tg'); if(jg) jg.textContent=U('l1'); $('joinSheet').hidden=false; return; }
   if(v==='more'){ openSheet(); return; }
   if(v==='dates'){ openDates(); return; }
   view=v; document.querySelectorAll('.nb').forEach(b=>b.setAttribute('aria-current', b.dataset.v===v));

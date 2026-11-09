@@ -440,3 +440,20 @@ function w2sLangStrip(){
   }catch(e){}
 }
 if(typeof document!=='undefined'){ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',w2sLangStrip); else w2sLangStrip(); }
+
+/* Website + story pages: tagline in the reader's language (user, 9 Nov 2026) —
+   "Fastest AI News in Telugu" / "Fastest AI News in English" / "हिंदी में सबसे तेज़ AI न्यूज़" */
+const W2S_TAG={te:{tag:'Fastest AI News in Telugu',l1:'వార్తలు క్షణాల్లో!',sub:'తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు'},
+  en:{tag:'Fastest AI News in English',l1:'News in seconds!',sub:'Fast, short news for you'},
+  hi:{tag:'हिंदी में सबसे तेज़ AI न्यूज़',l1:'खबरें पल भर में!',sub:'तेज़ और छोटी खबरें, आपकी भाषा में'}};
+function w2sTagline(){
+  try{ const l=w2sLang(); if(l==='te'||!W2S_TAG[l]) return; const T=W2S_TAG[l], te=W2S_TAG.te;
+    document.querySelectorAll('.tagl').forEach(el=>{ const sm=el.querySelectorAll('small');
+      if(el.firstChild&&el.firstChild.nodeType===3) el.firstChild.nodeValue=T.l1;
+      if(sm[0]) sm[0].textContent=T.tag; if(sm[1]) sm[1].textContent=T.sub; });
+    const w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT); let n;
+    while((n=w.nextNode())){ if(n.nodeValue.includes(te.tag)) n.nodeValue=n.nodeValue.split(te.tag).join(T.tag); }
+    if(document.title.includes(te.tag)) document.title=document.title.split(te.tag).join(T.tag).split(te.l1).join(T.l1);
+  }catch(e){}
+}
+if(typeof document!=='undefined'){ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',w2sTagline); else w2sTagline(); }
