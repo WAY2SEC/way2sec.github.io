@@ -171,7 +171,20 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .src b{color:var(--ink)}
 .read{font-size:13px;font-weight:800;color:var(--hl-ink);text-decoration:none;min-height:30px;display:inline-flex;align-items:center}
 .hint{font-size:11.5px;color:var(--muted);font-weight:600;text-align:center}
-.spacer{flex:1 1 0;min-height:0}
+.spacer{flex:1 1 0;min-height:0;position:relative}
+.spb{position:absolute;left:var(--gx,14px);right:var(--gr,14px);top:50%;transform:translateY(-50%);display:grid;grid-template-columns:auto 1fr;grid-template-areas:"ic tx" "ic cta";column-gap:12px;row-gap:8px;align-items:center;padding:12px 14px;border-radius:16px;background:var(--spg);color:#fff;text-decoration:none;box-shadow:0 8px 20px -8px rgba(0,0,0,.45),inset 0 0 0 1px rgba(255,255,255,.12);overflow:hidden;max-height:calc(100% - 10px)}
+.spb:before{content:"";position:absolute;right:-40px;top:-50px;width:150px;height:150px;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.18),transparent 65%);pointer-events:none}
+.spb .spl{position:absolute;bottom:13px;right:14px;font:800 9px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.62)}
+.spb .spi{grid-area:ic;align-self:center;width:48px;height:48px;border-radius:14px;background:rgba(255,255,255,.14);display:grid;place-items:center;font-style:normal;font-size:25px;box-shadow:inset 0 0 0 1px rgba(255,255,255,.18);overflow:hidden}
+.spb .spi img{width:100%;height:100%;object-fit:cover}
+.spb .spt{grid-area:tx;display:flex;flex-direction:column;gap:2px;min-width:0}
+.spb .spt b{font-size:15.5px;font-weight:800;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.spb .spt small{font-size:12px;font-weight:600;line-height:1.35;color:rgba(255,255,255,.86);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.spb .spc{grid-area:cta;justify-self:start;background:var(--spa);color:#12284A;font:800 12.5px/1 var(--body);padding:8px 13px;border-radius:99px}
+.spb.slim{grid-template-areas:"ic tx cta";grid-template-columns:auto 1fr auto;padding:8px 10px 8px 8px;border-radius:14px;row-gap:0}
+.spb.slim .spi{width:36px;height:36px;border-radius:10px;font-size:19px}
+.spb.slim b{grid-area:tx;font-size:13.5px;font-weight:800;line-height:1.3;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.spb.slim .spc{grid-area:cta;padding:7px 10px;font-size:12px}
 .qrbar{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:3px var(--gr) 3px var(--gx);background:#16130F;color:#FBF7F0;font-size:13px;font-weight:800;text-decoration:none;flex-shrink:0}
 .qrbar .qp{display:flex;flex-direction:column;gap:0;min-width:0}.qrbar .qp b{font-size:11.5px;font-weight:800;color:#FFD54A;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.qrbar .qp small{font-size:10px;font-weight:700;color:#D9D3C8;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.qrbar .qp em{font-style:normal;color:#7CF29A;font-weight:900}
 .qrbar img{width:34px;height:34px;background:#fff;padding:2px;flex-shrink:0}
@@ -289,6 +302,7 @@ body.fs .toast{bottom:calc(112px + env(safe-area-inset-bottom,0px))}
 .fsplay[aria-pressed="true"]{background:#C8102E;box-shadow:0 8px 22px rgba(200,16,46,.45),0 0 0 2px rgba(255,255,255,.6)}
 .fsplay[aria-pressed="true"] .ico{display:none}.fsplay[aria-pressed="true"] .wv{display:flex}
 body.fs .fsplay{opacity:1;transform:none;pointer-events:auto}
+body.fs .fsplay.nop{opacity:0;pointer-events:none}
 @media (prefers-reduced-motion:reduce){.fsplay .wv b{animation:none;height:10px}}
 @media (max-width:380px){.logo{height:28px}.place{font-size:11.5px;padding:4px 9px}}
 @media (prefers-reduced-motion:reduce){.story{transition:none}.toast{transition:none}}
@@ -431,6 +445,9 @@ const CONFIG = {
   TIP_WHATSAPP: '917032656422',
   // Way2Sec promo flyer shown as its own card after every few stories. Set on:false to switch it off.
   PROMO: {on:true, every:5, img:'promo/way2sec-promo.jpg'},
+  // Smart space: when a card has empty room under the story, show a banner there (never shrinks the news).
+  // ADS = paid ads (shown first, only in their districts): {id, places:['yadadri',...] or [] for all, until:'2026-12-31', icon:'🏥', t:'Title', s:'Line', cta:'Call', link:'tel:...' or 'https://...', img:'promo/ads/x.jpg' (optional logo)}
+  SPACE: {on:true, ADS:[], HOUSE:['ads','reporter','jobs','epaper','share']},
   // Festival greeting shown as the FIRST card until 'until' (IST date-time). Remove or change for the next festival.
   GREETING: {img:'promo/diwali-2026.jpg', until:'2026-11-09T15:00:00+05:30', page:'https://way2sec.news/diwali.html',
     text:'🪔 దీపావళి శుభాకాంక్షలు! 🪔\nమీకు, మీ కుటుంబానికి దీపావళి శుభాకాంక్షలు – Way2Sec News\n🌐 https://way2sec.news/diwali.html'}   // Way2Sec news-tips WhatsApp number with country code, digits only, e.g. '919876543210'
@@ -656,7 +673,7 @@ function jobHTML(s,i){
     <div class="warn">${J('warn')}</div>
     ${i===0?`<div class="hint">${J('hint')}</div>`:''}
   </div>
-  <div class="spacer"></div>
+  <div class="spacer" data-sp="${i}"></div>
   <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు మీ చేతిలో! · <em>ఉచిత ప్రచారం</em></b><small>📲 70326 56422 · way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
@@ -726,14 +743,66 @@ function cardHTML(s,i){
     <div class="foot"><span class="src">${U('src')}: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">${U('read')}</a>`:''}</div>
     ${i===0?`<div class="hint">${U('hint')}</div>`:''}
   </div>
-  <div class="spacer"></div>
+  <div class="spacer" data-sp="${i}"></div>
   <a class="qrbar" href="${CONFIG.CHANNEL}" target="_blank" rel="noopener"><span class="qp"><b>మీ ఊరి వార్తలు మీ చేతిలో! · <em>ఉచిత ప్రచారం</em></b><small>📲 70326 56422 · way2sec.news</small></span><img src="qr.png" alt="Way2Sec WhatsApp ఛానెల్ QR కోడ్"></a>
 </article>`;
 }
+/* ---------- smart space banner ---------- */
+const SPACE_TX={
+ ads:{ic:'📢',g:'linear-gradient(135deg,#12284A 0%,#2B3F8C 100%)',ac:'#FFD54A',
+  te:['మీ వ్యాపారానికి ఇక్కడ ప్రకటన','📲 70326 56422 · మీ జిల్లా పాఠకులకే','WhatsApp చేయండి'],
+  en:['Advertise your business here','📲 70326 56422 · your district only','WhatsApp us'],
+  hi:['अपने व्यापार का विज्ञापन यहाँ दें','📲 70326 56422 · सिर्फ़ आपके ज़िले में','WhatsApp करें'],
+  link:()=>'https://wa.me/'+CONFIG.TIP_WHATSAPP+'?text='+encodeURIComponent('నమస్కారం Way2Sec 🙏\nనా వ్యాపారానికి Way2Sec లో ప్రకటన ఇవ్వాలనుకుంటున్నాను.\nవ్యాపారం పేరు: \nఊరు / జిల్లా: '+(placeName((prefs&&prefs.place)||'')||'')+'\nఫోన్: ')},
+ reporter:{ic:'🎙️',g:'linear-gradient(135deg,#8E0B20 0%,#C8102E 55%,#E8452E 100%)',ac:'#FFE08A',
+  te:['మీ ఊరి రిపోర్టర్ అవ్వండి','వార్తకు ₹30 · వీడియోకు ₹75 · ఇంటి నుంచే','WhatsAppలో చేరండి'],
+  en:['Become your village reporter','₹30 per story · ₹75 per video · from home','Join on WhatsApp'],
+  hi:['अपने गाँव के रिपोर्टर बनें','हर ख़बर ₹30 · वीडियो ₹75 · घर से','WhatsApp पर जुड़ें'],
+  link:()=>'https://wa.me/'+CONFIG.TIP_WHATSAPP+'?text='+encodeURIComponent('నమస్కారం Way2Sec 🙏\nనేను మా ఊరి రిపోర్టర్ అవ్వాలనుకుంటున్నాను.\nపేరు: \nఊరు / మండలం: \nజిల్లా: '+(placeName((prefs&&prefs.place)||'')||'')+'\nఫోన్: ')},
+ jobs:{ic:'💼',g:'linear-gradient(135deg,#0B5D3B 0%,#14874F 60%,#1FA463 100%)',ac:'#C9F7DA',
+  te:['ఈరోజు {n} కొత్త ఉద్యోగాలు','ప్రభుత్వ, ప్రైవేట్ · అధికారిక లింక్','చూడండి'],
+  en:['{n} new jobs today','Govt & private · official links only','View jobs'],
+  hi:['आज {n} नई नौकरियाँ','सरकारी व प्राइवेट · आधिकारिक लिंक','देखें'],
+  link:()=>'/?cards=1&jobs=1', view:'jobs'},
+ epaper:{ic:'📰',g:'linear-gradient(135deg,#3A2412 0%,#6B3F1D 60%,#8A5527 100%)',ac:'#FFD9A8',
+  te:['ఈరోజు Way2Sec ఈ-పేపర్','ఉదయం 5:30కే · పేపర్ లాగే చదవండి','చదవండి'],
+  en:['Today\'s Way2Sec e-paper','Ready by 5:30 am · read it like a paper','Read now'],
+  hi:['आज का Way2Sec ई-पेपर','सुबह 5:30 तक तैयार · अख़बार की तरह पढ़ें','पढ़ें'],
+  link:()=>'/epaper/'},
+ share:{ic:'🤝',g:'linear-gradient(135deg,#3B1C6E 0%,#5B2BA0 60%,#7A45C9 100%)',ac:'#E2D4FF',
+  te:['Way2Sec ని 5 మందికి పంపండి','మీ వాళ్లకూ వేగంగా వార్తలు','WhatsAppలో పంపండి'],
+  en:['Share Way2Sec with 5 friends','Fast, short news for your people too','Share on WhatsApp'],
+  hi:['Way2Sec 5 दोस्तों को भेजें','आपके अपनों को भी तेज़ ख़बरें','WhatsApp पर भेजें'],
+  link:()=>'https://wa.me/?text='+encodeURIComponent('📲 తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు – Way2Sec యాప్ ఉచితం!\nhttps://way2sec.news/install')}
+};
+function spaceJobsN(){ try{ const j=(JOBS&&JOBS.length)?JOBS:(store.get('jobs',[])||[]); return j.length||0; }catch(e){ return 0; } }
+function spacePick(s,i){ const C=CONFIG.SPACE; if(!C||!C.on||!s||s.kind==='promo'||s.rep||s.local) return null;
+  const now=Date.now(), pl=(prefs&&prefs.place)||'';
+  const ads=(C.ADS||[]).filter(a=>(!a.until||now<new Date(a.until+'T23:59:59+05:30').getTime())&&(!a.places||!a.places.length||a.places.includes(pl)||a.places.includes(s.place)));
+  if(ads.length && i%2===0) return {paid:ads[(i/2|0)%ads.length]};
+  let house=(C.HOUSE||[]).filter(k=>SPACE_TX[k]&&!(k==='jobs'&&spaceJobsN()<3));
+  if(!house.length) return null; return {k:house[i%house.length]}; }
+function spaceHTML(p,size){ const L=LG();
+  let ic,t,sub,cta,link,g,ac,lab,img='',key;
+  if(p.paid){ const a=p.paid; key='ad:'+a.id; ic=a.icon||'🏪'; t=a.t; sub=a.s||''; cta=a.cta||'సంప్రదించండి'; link=a.link||'#'; g=a.g||'linear-gradient(135deg,#1B1B1B,#3A3A3A)'; ac=a.ac||'#FFD54A'; lab='ప్రకటన · Sponsored'; img=a.img?`<img src="${esc(a.img)}" alt="">`:''; }
+  else { const c=SPACE_TX[p.k], x=c[L]||c.te; key=p.k; ic=c.ic; t=x[0].replace('{n}',spaceJobsN()); sub=x[1]; cta=x[2]; link=c.link(); g=c.g; ac=c.ac; lab='Way2Sec'; }
+  const ext=/^https?:|^tel:/.test(link)?' target="_blank" rel="noopener"':'';
+  if(size==='slim') return `<a class="spb slim" href="${esc(link)}"${ext} data-sk="${esc(key)}" style="--spg:${g};--spa:${ac}"><i class="spi">${img||ic}</i><b>${esc(t)}</b><span class="spc">${esc(cta)} →</span></a>`;
+  return `<a class="spb" href="${esc(link)}"${ext} data-sk="${esc(key)}" style="--spg:${g};--spa:${ac}"><span class="spl">${esc(lab)}</span><i class="spi">${img||ic}</i><span class="spt"><b>${esc(t)}</b><small>${esc(sub)}</small></span><span class="spc">${esc(cta)} →</span></a>`; }
+const spaceSeen=new Set();
+function spaceFill(c){ const sp=c.querySelector('.spacer[data-sp]'); if(!sp) return; sp.innerHTML='';
+  const i=+sp.dataset.sp, s=LIST[i], h=sp.clientHeight; const p=h>=58?spacePick(s,i):null; if(!p) return;
+  sp.innerHTML=spaceHTML(p,h>=118?'full':'slim');
+  const a=sp.firstElementChild, k=a.dataset.sk;
+  if(!c.hidden && !spaceSeen.has(i+k)){ spaceSeen.add(i+k); try{ window.gtag&&gtag('event','space_view',{space:k}); }catch(e){} }
+  a.onclick=e=>{ try{ window.gtag&&gtag('event','space_click',{space:k}); }catch(_){}
+    if(!p.paid && SPACE_TX[p.k].view){ e.preventDefault(); setView(SPACE_TX[p.k].view); } }; }
 function fit(c){ // make the card fit the screen: hide the least important parts first
   c.classList.remove('t1','t2','t3','t4');
   const over = () => c.scrollHeight > c.clientHeight + 1;
   for(const t of ['t1','t2','t3','t4']){ if(!over()) break; c.classList.add(t); }
+  try{ spaceFill(c); }catch(e){}
+  if(c===cards[cur] && window.fsPlace) setTimeout(fsPlace,0);
 }
 function renderFeed(keepKey){
   LIST = pick(); const feed=$('feed');
@@ -806,7 +875,7 @@ function go(i,dir,from){
     turn(out, from||0, 1, axis, ()=>{ out.hidden=true; unbend(out); unbend(inn); busy=false; }); }
   else { out.style.zIndex='1'; inn.style.zIndex='3'; bend(inn, from==null?1:from, axis);
     turn(inn, from==null?1:from, 0, axis, ()=>{ out.hidden=true; unbend(out); unbend(inn); busy=false; }); }
-  cur=i; setCount(cur+1,cards.length); syncSave(); fsSoon(1200);
+  cur=i; setCount(cur+1,cards.length); syncSave(); fsSoon(1200); setTimeout(()=>{ if(window.fsPlace) fsPlace(); },0);
   try{ const s=LIST[cur]; if(s && s.kind==='promo' && window.gtag) gtag('event','promo_view',{}); if(s && s.kind!=='promo' && window.gtag) gtag('event','story_view',{story_id:sid(s), story_title:String(s.h||'').slice(0,90), kind:s.kind||'news'}); }catch(e){}
 }
 let DR=null; // the page being bent by the finger
@@ -846,7 +915,12 @@ feedEl.addEventListener('pointercancel',e=>{ if(drag&&e.pointerId===drag.id){dra
 /* ---------- reading mode (auto full card) ---------- */
 let FSON=(()=>{try{return localStorage.getItem('w2s.autoFull')!=='0'}catch(e){return true}})(), fsT=0;
 function fsCan(){ return FSON && cards.length>0 && $('sheet').hidden && (!$('joinSheet')||$('joinSheet').hidden); }
-function fsRefit(){ setTimeout(()=>{ if(cards[cur]) fit(cards[cur]); },300); }
+function fsRefit(){ setTimeout(()=>{ if(cards[cur]) fit(cards[cur]); fsPlace(); },300); }
+function fsPlace(){ const f=$('fsPlay'), c=cards[cur]; if(!f) return; const pn=c&&!c.hidden&&c.querySelector('.panel');
+  if(!pn){ f.classList.add('nop'); return; } f.classList.remove('nop');
+  const r=pn.getBoundingClientRect(), sr=document.querySelector('.shell').getBoundingClientRect();
+  f.style.top=Math.round(r.bottom-sr.top-42-12)+'px'; f.style.right=Math.round(sr.right-r.right+12)+'px'; f.style.bottom='auto'; }
+addEventListener('resize',()=>setTimeout(fsPlace,350));
 function fsBars(show){ clearTimeout(fsT); const b=document.body, was=b.classList.contains('fs');
   if(show){ if(was){ b.classList.remove('fs'); fsRefit(); } if(FSON) fsSoon(5000); }
   else if(!was && fsCan()){ b.classList.add('fs'); fsRefit(); fsHint(); } }
