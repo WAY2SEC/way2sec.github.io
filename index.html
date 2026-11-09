@@ -274,7 +274,10 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .toast{position:absolute;left:50%;bottom:118px;transform:translateX(-50%);background:#16130F;color:#fff;padding:8px 14px;border-radius:99px;font-size:13px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20;white-space:nowrap}
 .toast.on{opacity:1}
 /* reading mode: bottom buttons + menu slide away so the card gets the full screen; one tap on the card brings them back */
-.dockwrap,.shell>.nav{transition:max-height .28s ease,opacity .2s ease,padding .28s ease;max-height:160px;overflow:hidden}
+.dockwrap,.shell>.nav,.shell>header,.shell>.tabs{transition:max-height .28s ease,opacity .2s ease,padding .28s ease;max-height:160px}
+.dockwrap,.shell>.nav,.shell>header{overflow:hidden}
+body.fs .shell>header,body.fs .shell>.tabs{max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-bottom-width:0;pointer-events:none;overflow:hidden}
+body.fs .feed{padding-top:env(safe-area-inset-top,0px)}
 body.fs .dockwrap,body.fs .shell>.nav{max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-top-width:0;pointer-events:none}
 body.fs .feed{padding-bottom:env(safe-area-inset-bottom,0px)}
 .fspill{position:absolute;right:12px;bottom:calc(10px + env(safe-area-inset-bottom,0px));z-index:40;background:rgba(18,40,74,.82);color:#fff;font:800 12px/1 var(--body);padding:7px 11px;border-radius:99px;pointer-events:none;opacity:0;transition:opacity .25s}
@@ -353,7 +356,7 @@ body.fs .toast{bottom:calc(52px + env(safe-area-inset-bottom,0px))}
       <h2>థీమ్</h2>
       <p class="sub">Theme – లైట్ (Editorial White) లేదా డార్క్ (Midnight Pro).</p>
       <div class="grid three" id="themes" role="radiogroup" aria-label="థీమ్"></div>
-      <div class="sndrow"><div><b>📖 కార్డు పూర్తిగా చూపించు</b><small>చదువుతున్నప్పుడు కింది బటన్లు దాగిపోతాయి · కార్డుపై ఒకసారి తాకితే మళ్లీ వస్తాయి</small></div><button class="btn" type="button" id="fsToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
+      <div class="sndrow"><div><b>📖 కార్డు పూర్తిగా చూపించు</b><small>చదువుతున్నప్పుడు పైన, కింది బటన్లు దాగిపోతాయి · కార్డుపై ఒకసారి తాకితే మళ్లీ వస్తాయి</small></div><button class="btn" type="button" id="fsToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
       <div class="sndrow"><div><b>💧 కార్డ్ తిప్పే శబ్దం</b><small>స్వైప్ చేసినప్పుడు చిన్న "పాప్" శబ్దం</small></div><button class="btn" type="button" id="sndToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
       <button class="btn" id="tipOpen1" type="button" style="width:100%;margin-bottom:14px">📝 మీ ఊరి వార్త పంపండి</button>
       <p class="links"><a href="privacy.html">Privacy Policy · గోప్యతా విధానం</a> · Contact: way2sec.news@gmail.com</p>
