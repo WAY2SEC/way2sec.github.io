@@ -1,0 +1,75 @@
+{
+ "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
+ "cutoff": "2026-11-09T22:35:00+05:30",
+ "runs": [
+  {
+   "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 12,
+   "published": 0,
+   "gaps": "Hindu, IE, NIE, HT, TOI, ET, Moneycontrol, Telegraph, BBC, Guardian, Reuters, AP, PTI blocked; Hans India, ETV Bharat, DH, Tribune errors; Eenadu robots; Sakshi/AJ/NT/TV9/V6/NTV no article times"
+  }
+ ],
+ "seen": [
+  {
+   "url": "https://telanganatoday.com/hyderabad-womens-commission-issues-notices-to-five-ivf-centres-over-egg-harvesting",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/nation/20-injured-as-fireballs-fly-during-indores-diwali-linked-hingot-war-festival-2002982",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-anyone-but-netanyahu-will-do-2002984",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.ndtv.com/world-news/white-house-on-temporary-lockdown-after-car-crashes-into-signpost-12304959",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/lakdikapul-one-way-trial-on-nov-22-2002985",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/another-opportunity-for-voters-missing-from-draft-electoral-rolls-2002986",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/at-63-woman-pedals-for-drug-free-india-2002987",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/nation/congress-questions-88-day-house-delay-2002988",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/controversy-over-spate-of-deepavali-murders-2002989",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-spelling-out-arrest-protocol-is-welcome-2002991",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/chittoor-tirupati-gear-up-for-gram-panchayat-polls-2002992",
+   "d": "09.11.2026",
+   "w": "22:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/diwali-crackers-injure-74-eyes-in-hyderabad-2002993",
+   "d": "09.11.2026",
+   "w": "22:35"
+  }
+ ]
+}
