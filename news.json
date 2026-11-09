@@ -1,8 +1,106 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T17:44:03+05:30",
+ "updated": "2026-11-09T18:07:59+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "179",
+   "statl": "దీపావళి టపాసుల గాయాలు",
+   "h": "హైదరాబాద్‌లో దీపావళి టపాసులతో 179 మందికి గాయాలు, ఎక్కువగా కంటి గాయాలే",
+   "p": "శనివారం రాత్రి నుంచి సోమవారం మధ్యాహ్నం వరకు హైదరాబాద్‌లో కనీసం 179 మంది టపాసుల వల్ల గాయపడ్డారు. వీరిలో చాలామందికి కంటి గాయాలయ్యాయి. ఎల్వీ ప్రసాద్ కంటి ఆసుపత్రిలో 92 మంది, సరోజినీ దేవి కంటి ఆసుపత్రిలో 74 మంది చికిత్స పొందారు. నగరంలో 49 అగ్ని ప్రమాద కాల్స్ వచ్చాయని అగ్నిమాపక శాఖ తెలిపింది.",
+   "pts": [
+    "ఎల్వీ ప్రసాద్ ఆసుపత్రిలో 92 కేసులు, 25 మందికి శస్త్రచికిత్స సూచన",
+    "సరోజినీ దేవి ఆసుపత్రిలో 74 మంది, 12 మంది అడ్మిట్",
+    "హైదరాబాద్ నుంచి 49 అగ్ని ప్రమాద కాల్స్"
+   ],
+   "why": "టపాసులు కాల్చేటప్పుడు పిల్లలు, పెద్దలు కళ్లను కాపాడుకోవడం ఎంత ముఖ్యమో ఈ గణాంకాలు చెబుతున్నాయి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-diwali-2026-firecracker-injuries-fires-3572323/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "en": {
+    "h": "179 firecracker injuries in Hyderabad on Diwali, most to the eyes",
+    "p": "At least 179 people were injured by firecrackers in Hyderabad between Saturday night and Monday afternoon, most of them with eye injuries. LV Prasad Eye Institute treated 92 people and Sarojini Devi Eye Hospital 74. The fire department said it received 49 fire calls from across the city.",
+    "pts": [
+     "LV Prasad: 92 cases, surgery advised for 25",
+     "Sarojini Devi hospital: 74 treated, 12 admitted",
+     "49 fire calls from Hyderabad"
+    ],
+    "why": "The numbers show how important it is for children and adults to protect their eyes while bursting crackers.",
+    "cat": "Hyderabad · Health",
+    "statl": "Diwali firecracker injuries"
+   },
+   "hi": {
+    "h": "हैदराबाद में दिवाली पटाखों से 179 लोग घायल, ज़्यादातर आंखों में चोट",
+    "p": "शनिवार रात से सोमवार दोपहर तक हैदराबाद में कम से कम 179 लोग पटाखों से घायल हुए। इनमें से ज़्यादातर की आंखों में चोट आई। एलवी प्रसाद नेत्र संस्थान में 92 और सरोजिनी देवी नेत्र अस्पताल में 74 लोगों का इलाज हुआ। दमकल विभाग ने बताया कि शहर से 49 आग की कॉल आईं।",
+    "pts": [
+     "एलवी प्रसाद में 92 मामले, 25 को सर्जरी की सलाह",
+     "सरोजिनी देवी अस्पताल में 74 का इलाज, 12 भर्ती",
+     "हैदराबाद से 49 आग की कॉल"
+    ],
+    "why": "ये आंकड़े बताते हैं कि पटाखे जलाते समय बच्चों और बड़ों के लिए आंखों की सुरक्षा कितनी ज़रूरी है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "दिवाली पटाखों से घायल"
+   },
+   "d": "09.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "జమ్మూ కశ్మీర్ · జమ్మూ",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹200-300 కో.",
+   "statl": "నష్టం అంచనా (మెహబూబా)",
+   "h": "జమ్మూ నెహ్రూ మార్కెట్ అగ్ని ప్రమాదం: వ్యాపారులకు ప్యాకేజీ కోరిన మెహబూబా",
+   "p": "జమ్మూలోని బిక్రమ్ చౌక్ వద్ద నెహ్రూ మార్కెట్ గోదాముల ప్రాంతంలో ఆదివారం రాత్రి జరిగిన అగ్ని ప్రమాదంలో పలు దుకాణాలు కాలిపోయాయి. వంట నూనె నిల్వల వల్ల మంటలు పెరిగాయి. నష్టం కనీసం రూ.200-300 కోట్లు ఉంటుందని పీడీపీ అధ్యక్షురాలు మెహబూబా ముఫ్తీ అన్నారు. కేంద్రం, జమ్మూ కశ్మీర్ ప్రభుత్వం ప్రత్యేక ప్యాకేజీ ఇవ్వాలని కోరారు.",
+   "pts": [
+    "ఆదివారం రాత్రి నెహ్రూ మార్కెట్‌లో పలు దుకాణాలు దగ్ధం",
+    "నష్టం రూ.200-300 కోట్లు: మెహబూబా అంచనా",
+    "అక్టోబర్ 25న శివ్ మార్కెట్‌లో 40 దుకాణాలు కాలాయి"
+   ],
+   "why": "హోల్‌సేల్ ఆహార ధాన్యాల మార్కెట్ దెబ్బతినడంతో వ్యాపారులు, అక్కడ పనిచేసే కార్మికులు ఉపాధి కోల్పోయే పరిస్థితి ఉంది.",
+   "src": "PTI",
+   "url": "https://theprint.in/india/centre-j-k-govt-must-formulate-package-to-revive-fire-hit-markets-in-jammu-mehbooba/3094340/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "JK",
+   "place": "IN",
+   "loc": "బిక్రమ్ చౌక్",
+   "en": {
+    "h": "Jammu Nehru Market fire: Mehbooba seeks package for traders",
+    "p": "Several shops were gutted in a fire on Sunday night in the Nehru Market warehouse area at Bikram Chowk in Jammu. Stocks of edible oil fed the blaze. PDP president Mehbooba Mufti said losses are at least Rs 200-300 crore and asked the Centre and the J&K government for a special package.",
+    "pts": [
+     "Several shops gutted in Nehru Market on Sunday night",
+     "Loss Rs 200-300 crore: Mehbooba's estimate",
+     "40 shops burned in Shiv Market on October 25"
+    ],
+    "why": "Damage to the wholesale foodgrain market puts traders and the workers there at risk of losing their livelihoods.",
+    "cat": "Jammu & Kashmir · Jammu",
+    "statl": "Estimated loss (Mehbooba)"
+   },
+   "hi": {
+    "h": "जम्मू नेहरू मार्केट आग: मेहबूबा ने व्यापारियों के लिए पैकेज मांगा",
+    "p": "जम्मू के बिक्रम चौक पर नेहरू मार्केट गोदाम क्षेत्र में रविवार रात लगी आग में कई दुकानें जल गईं। खाद्य तेल के भंडार से आग और भड़की। पीडीपी अध्यक्ष मेहबूबा मुफ्ती ने कहा कि नुकसान कम से कम 200-300 करोड़ रुपये है और केंद्र व जम्मू-कश्मीर सरकार से विशेष पैकेज मांगा।",
+    "pts": [
+     "रविवार रात नेहरू मार्केट में कई दुकानें जलीं",
+     "नुकसान 200-300 करोड़ रुपये: मेहबूबा का अनुमान",
+     "25 अक्टूबर को शिव मार्केट में 40 दुकानें जली थीं"
+    ],
+    "why": "थोक अनाज बाज़ार को नुकसान से व्यापारियों और वहां काम करने वाले मज़दूरों की रोज़ी पर खतरा है।",
+    "cat": "जम्मू-कश्मीर · जम्मू",
+    "statl": "अनुमानित नुकसान (मेहबूबा)"
+   },
+   "d": "09.11.2026",
+   "t": "18:05"
+  },
   {
    "cat": "హైదరాబాద్ · ఐటీ ఉద్యోగాలు",
    "col": "--c-money",
@@ -1708,103 +1806,6 @@
    },
    "d": "09.11.2026",
    "t": "12:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఫుట్‌బాల్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "1 ఏడాది",
-   "statl": "షబ్బీర్ అలీపై సస్పెన్షన్",
-   "h": "మాజీ భారత ఫుట్‌బాల్ కెప్టెన్ షబ్బీర్ అలీపై ఏడాది సస్పెన్షన్",
-   "p": "భారత ఫుట్‌బాల్ జట్టు మాజీ కెప్టెన్, ధ్యాన్‌చంద్ అవార్డు గ్రహీత షబ్బీర్ అలీని తెలంగాణ ఫుట్‌బాల్ సంఘం (టీఎఫ్‌ఏ) ఏడాది పాటు సస్పెండ్ చేసింది. సంఘానికి నష్టం కలిగించే చర్యలకు పాల్పడ్డారని ఆరోపిస్తూ కార్యవర్గ, సాంకేతిక కమిటీ, సర్వసభ్య సమావేశాల చర్చల తర్వాత ఈ నిర్ణయం తీసుకున్నట్లు టీఎఫ్‌ఏ కార్యదర్శి తెలిపారు. ఎస్‌బీఐకి చెందిన మరొకరిపైనా ఏడాది సస్పెన్షన్ విధించారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-ex-india-football-captain-shabbir-ali-suspended-by-telangana-football-association",
-   "sec": [
-    "telangana",
-    "sports"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "షబ్బీర్ అలీ అబ్బాస్ యూనియన్ ఎఫ్‌సీ అధ్యక్షుడు",
-    "సంతోష్ ట్రోఫీ కోచ్ నియామకంపై వివాదం",
-    "అక్టోబర్ 8న షోకాజ్ నోటీసు జారీ"
-   ],
-   "why": "రాష్ట్ర ఫుట్‌బాల్ నిర్వహణలో విభేదాలు ఆటగాళ్లు, క్లబ్‌లపై ప్రభావం చూపవచ్చు.",
-   "en": {
-    "h": "Ex-India football captain Shabbir Ali suspended for one year",
-    "p": "The Telangana Football Association (TFA) suspended former India football captain and Dhyan Chand Awardee Shabbir Ali for one year. The TFA secretary said the decision was taken after deliberations in the executive, technical committee and general body meetings, alleging actions harmful to the association. Another person from SBI was also suspended for one year.",
-    "pts": [
-     "Shabbir Ali is president of Abbas Union FC",
-     "Dispute over Santosh Trophy coach appointment",
-     "Show-cause notice issued on October 8"
-    ],
-    "why": "Differences in running state football may affect players and clubs.",
-    "cat": "Telangana · Football",
-    "statl": "Suspension on Shabbir Ali"
-   },
-   "hi": {
-    "h": "पूर्व भारतीय फुटबॉल कप्तान शब्बीर अली एक साल के लिए निलंबित",
-    "p": "तेलंगाना फुटबॉल एसोसिएशन (टीएफए) ने भारत के पूर्व फुटबॉल कप्तान और ध्यानचंद पुरस्कार विजेता शब्बीर अली को एक साल के लिए निलंबित कर दिया। टीएफए सचिव ने बताया कि कार्यकारिणी, तकनीकी समिति और आम सभा की बैठकों में चर्चा के बाद एसोसिएशन को नुकसान पहुंचाने वाली गतिविधियों के आरोप में यह फैसला लिया गया। एसबीआई के एक अन्य व्यक्ति को भी एक साल के लिए निलंबित किया गया।",
-    "pts": [
-     "शब्बीर अली अब्बास यूनियन एफसी के अध्यक्ष",
-     "संतोष ट्रॉफी कोच नियुक्ति पर विवाद",
-     "8 अक्टूबर को कारण बताओ नोटिस"
-    ],
-    "why": "राज्य फुटबॉल के संचालन में मतभेद खिलाड़ियों और क्लबों पर असर डाल सकते हैं।",
-    "cat": "तेलंगाना · फुटबॉल",
-    "statl": "शब्बीर अली पर निलंबन"
-   },
-   "d": "09.11.2026",
-   "t": "12:05"
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "499/582",
-   "statl": "జడ్పీటీసీలు కూటమి కైవసం",
-   "h": "ఏపీ ప్రాదేశిక ఎన్నికల్లో కూటమి హవా: 499 జడ్పీటీసీలు గెలుపు",
-   "p": "ఆంధ్రప్రదేశ్ జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల తుది ఫలితాలను రాష్ట్ర ఎన్నికల సంఘం ఆదివారం రాత్రి ప్రకటించింది. టీడీపీ నేతృత్వంలోని ఎన్డీఏ కూటమి 582 జడ్పీటీసీల్లో 499, 7,768 ఎంపీటీసీల్లో 5,861 స్థానాలు గెలుచుకుంది. వైఎస్సార్‌సీపీకి 76 జడ్పీటీసీలు, 1,711 ఎంపీటీసీలు దక్కాయి. కాంగ్రెస్ ఖాతా తెరవలేదు. లెక్కింపులో అక్రమాలు జరిగాయని జగన్ ఆరోపించారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/tdp-led-coalition-sweeps-andhra-pradesh-local-body-polls-with-massive-majority",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "టీడీపీ 406, జనసేన 73, బీజేపీ 20 జడ్పీటీసీలు",
-    "నవంబర్ 5న 28 జిల్లాల్లో పోలింగ్",
-    "కడపలో వైఎస్సార్‌సీపీకి 16లో రెండే జడ్పీటీసీలు"
-   ],
-   "why": "జిల్లా, మండల పరిషత్ పాలన ఎవరి చేతుల్లో ఉంటుందో ఈ ఫలితాలు నిర్ణయిస్తాయి.",
-   "en": {
-    "h": "NDA sweeps AP local body polls, wins 499 ZPTC seats",
-    "p": "Andhra Pradesh's State Election Commission announced the final results of the ZPTC and MPTC elections on Sunday night. The TDP-led NDA alliance won 499 of 582 ZPTC seats and 5,861 of 7,768 MPTC seats. The YSRCP got 76 ZPTCs and 1,711 MPTCs. The Congress failed to open its account. Jagan alleged irregularities in the counting.",
-    "pts": [
-     "TDP 406, Jana Sena 73, BJP 20 ZPTCs",
-     "Polling held on November 5 in 28 districts",
-     "YSRCP won only two of 16 ZPTCs in Kadapa"
-    ],
-    "why": "These results decide who will run the district and mandal parishads.",
-    "cat": "AP · Local Polls",
-    "statl": "ZPTC seats won by NDA"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश स्थानीय चुनावों में एनडीए का दबदबा, 499 जेडपीटीसी सीटें जीतीं",
-    "p": "आंध्र प्रदेश राज्य चुनाव आयोग ने रविवार रात जेडपीटीसी और एमपीटीसी चुनावों के अंतिम नतीजे घोषित किए। टीडीपी के नेतृत्व वाले एनडीए गठबंधन ने 582 में से 499 जेडपीटीसी और 7,768 में से 5,861 एमपीटीसी सीटें जीतीं। वाईएसआरसीपी को 76 जेडपीटीसी और 1,711 एमपीटीसी सीटें मिलीं। कांग्रेस का खाता नहीं खुला। जगन ने मतगणना में गड़बड़ी का आरोप लगाया।",
-    "pts": [
-     "टीडीपी 406, जनसेना 73, भाजपा 20 जेडपीटीसी",
-     "5 नवंबर को 28 जिलों में मतदान",
-     "कडपा में वाईएसआरसीपी को 16 में से सिर्फ दो जेडपीटीसी"
-    ],
-    "why": "ये नतीजे तय करते हैं कि जिला और मंडल परिषदों का शासन किसके हाथ में होगा।",
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "एनडीए की जेडपीटीसी सीटें"
-   },
-   "d": "09.11.2026",
-   "t": "11:35"
   },
   {
    "cat": "విద్య · యువత",
