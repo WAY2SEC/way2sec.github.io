@@ -1,8 +1,56 @@
 {
  "date": "09.11.2026",
- "updated": "2026-11-09T07:10:13+05:30",
+ "updated": "2026-11-09T07:40:41+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ప్రపంచం · ఇరాన్ యుద్ధం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "70%+",
+   "statl": "కుర్దిస్తాన్‌లో కరెంట్ నిలిచిన ప్రాంతం",
+   "h": "ఇరాక్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి; కుర్దిస్తాన్‌లో 70% ప్రాంతానికి కరెంట్ కట్",
+   "p": "ఉత్తర ఇరాక్‌లోని ఖోర్ మోర్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి జరిగి మంటలు చెలరేగాయి. దీంతో కుర్దిస్తాన్ ప్రాంతంలో 70 శాతానికి పైగా కరెంట్ సరఫరా నిలిచిపోయింది. మరోవైపు ఇరాన్ భూమార్గ సరఫరాలపై 'ఐరన్ గేట్' పేరుతో అమెరికా దిగ్బంధనం అమల్లోకి వచ్చిందని ట్రంప్ ప్రకటించారు. అణు కార్యక్రమం, హార్మూజ్ జలసంధి తెరవడంపై చర్చలు ముందుకెళ్తే మళ్లీ దాడులు జరిగే అవకాశం చాలా తక్కువని ఆయన అన్నారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఖోర్ మోర్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి, మంటలు",
+    "కుర్దిస్తాన్‌లో 70%కి పైగా ప్రాంతానికి కరెంట్ లేదు",
+    "'ఐరన్ గేట్' దిగ్బంధనం అమల్లోకి వచ్చిందన్న ట్రంప్"
+   ],
+   "why": "గల్ఫ్ ప్రాంత ఉద్రిక్తతలు అక్కడ పనిచేసే తెలుగువారిని, వారి కుటుంబాలను ఆందోళనకు గురిచేస్తాయి.",
+   "d": "09.11.2026",
+   "t": "07:35",
+   "en": {
+    "h": "Drone hits Iraq gas facility; 70% of Kurdish region loses power",
+    "p": "A drone struck the Khor Mor gas facility in northern Iraq, causing a fire. As a result, more than 70 percent of the Kurdish region is without power. Meanwhile, Trump announced that the US blockade on Iran's land supply routes, called 'Iron Gate', is in effect. He said renewed strikes are highly unlikely if talks on the nuclear programme and reopening the Strait of Hormuz make progress.",
+    "pts": [
+     "Drone strike and fire at Khor Mor gas facility",
+     "Over 70% of Kurdish region without power",
+     "Trump says 'Iron Gate' blockade is in effect"
+    ],
+    "why": "Tensions in the Gulf region worry Telugu people working there and their families.",
+    "cat": "World · Iran war",
+    "statl": "Area without power in Kurdistan"
+   },
+   "hi": {
+    "h": "इराक के गैस केंद्र पर ड्रोन हमला; कुर्द क्षेत्र के 70% हिस्से में बिजली गुल",
+    "p": "उत्तरी इराक के खोर मोर गैस केंद्र पर ड्रोन हमला हुआ, जिससे आग लग गई। इसके चलते कुर्द क्षेत्र के 70 प्रतिशत से अधिक हिस्से में बिजली आपूर्ति ठप हो गई। वहीं ट्रंप ने घोषणा की कि ईरान के ज़मीनी आपूर्ति मार्गों पर 'आयरन गेट' नाम की अमेरिकी नाकाबंदी लागू हो गई है। उन्होंने कहा कि परमाणु कार्यक्रम और होर्मुज़ जलडमरूमध्य खोलने पर बातचीत आगे बढ़ी तो दोबारा हमलों की संभावना बहुत कम है।",
+    "pts": [
+     "खोर मोर गैस केंद्र पर ड्रोन हमला, आग",
+     "कुर्द क्षेत्र के 70% से अधिक हिस्से में बिजली नहीं",
+     "ट्रंप बोले: 'आयरन गेट' नाकाबंदी लागू"
+    ],
+    "why": "खाड़ी क्षेत्र का तनाव वहां काम करने वाले तेलुगु लोगों और उनके परिवारों की चिंता बढ़ाता है।",
+    "cat": "दुनिया · ईरान युद्ध",
+    "statl": "कुर्दिस्तान में बिजली गुल क्षेत्र"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
    "col": "--c-power",
@@ -1939,61 +1987,6 @@
     "why": "यह वीडियो दिखाता है कि भारतीय जहाँ भी हों, उनके त्योहार स्थानीय लोगों को भी जोड़ते हैं।"
    },
    "_sid": "1jy2f0f"
-  },
-  {
-   "cat": "🪔 దీపావళి ప్రత్యేక సంచిక",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "దీపావళి",
-   "statl": "చరిత్ర చెప్పే వెలుగుల పండుగ",
-   "h": "దీపావళి – చరిత్ర చెప్పే వెలుగుల పండుగ",
-   "p": "క్రీ.శ. 11వ శతాబ్దానికి చెందిన పర్షియన్ పండితుడు అల్‌బిరూనీ తన భారతదేశ రచనల్లో కార్తీక అమావాస్య నాడు జరిగే దీపావళి పండుగను ప్రస్తావించారు. కర్ణాటకలోని ధార్వాడ్‌లో లభించిన 12వ శతాబ్దపు కన్నడ శాసనంలోనూ దీపావళిని పవిత్ర పర్వదినంగా పేర్కొన్నారు. అంతకంటే పూర్వపు సాహిత్యంలోనూ దీపోత్సవాల ప్రస్తావనలు ఉన్నాయని పరిశోధకులు చెబుతున్నారు. జైన సంప్రదాయంలో ఈ రోజు మహావీరుడి నిర్వాణాన్ని స్మరించుకుంటారు. సిక్కు సంప్రదాయంలో గురు హర్‌గోబింద్ సాహిబ్ గ్వాలియర్ కోట నుంచి విడుదలైన ఘట్టాన్ని ‘బందీ ఛోర్ దివస్’గా జరుపుకుంటారు. దీపావళి అంటే కేవలం బాణసంచా కాల్చడం, కొత్త బట్టలు ధరించడం మాత్రమే కాదు. మనలోని అజ్ఞానం, ద్వేషం, అసూయలను తొలగించుకొని ప్రేమ, దయ, జ్ఞానం, ఐక్యతను పెంపొందించుకోవాలనే సందేశాన్ని ఈ పండుగ అందిస్తుంది. ఒక్క దీపం వేల దీపాలను వెలిగించినట్లే… ఒక్క మంచి ఆలోచన ఎన్నో జీవితాల్లో వెలుగులు నింపగలదు.",
-   "src": "Way2Sec దీపావళి ప్రత్యేక సంచిక",
-   "url": "",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "loc": "",
-   "pts": [
-    "11వ శతాబ్దం: అల్‌బిరూనీ రచనల్లో దీపావళి ప్రస్తావన",
-    "12వ శతాబ్దం: ధార్వాడ్ (కర్ణాటక) కన్నడ శాసనంలో దీపావళి",
-    "జైనులకు మహావీర నిర్వాణం · సిక్కులకు బందీ ఛోర్ దివస్"
-   ],
-   "why": "గమనిక: శ్రీరాముడి తిరిగిరాక, నరకాసుర వధ వంటి కథనాలు మతపరమైన పురాణ విశ్వాసాలు. చారిత్రక శాసనాలు, సాహిత్య ఆధారాలు మాత్రం దీపావళి ప్రాచీన కాలం నుంచే ఆచరణలో ఉన్నట్లు తెలియజేస్తాయి. రెండింటినీ వేర్వేరుగా అర్థం చేసుకోవాలి.",
-   "d": "07.11.2026",
-   "t": "21:15",
-   "img": "photos/2026-11-08-diwali-special.jpg",
-   "imgfy": 0.4,
-   "local": true,
-   "en": {
-    "cat": "🪔 Diwali special edition",
-    "stat": "Diwali",
-    "statl": "The festival of lights, as history tells it",
-    "h": "Diwali – the festival of lights, as history tells it",
-    "p": "The 11th-century Persian scholar Al-Biruni, in his writings on India, mentioned the Diwali festival held on the new-moon day of Kartika. A 12th-century Kannada inscription found in Dharwad, Karnataka, also calls Diwali a sacred festival. Researchers say even earlier literature mentions festivals of lamps. Jains remember the nirvana of Mahavira on this day, and Sikhs mark Guru Hargobind Sahib's release from Gwalior Fort as Bandi Chhor Divas. Diwali is not only about crackers and new clothes; it asks us to remove ignorance, hatred and envy and grow love, kindness, knowledge and unity. Just as one lamp lights thousands, one good thought can brighten many lives.",
-    "pts": [
-     "11th century: Al-Biruni mentions Diwali",
-     "12th century: Kannada inscription in Dharwad (Karnataka) mentions Diwali",
-     "Jains: Mahavira's nirvana · Sikhs: Bandi Chhor Divas"
-    ],
-    "why": "Note: stories such as Lord Rama's return and the slaying of Narakasura are religious beliefs. Historical inscriptions and literature show Diwali has been celebrated since ancient times. The two should be understood separately."
-   },
-   "hi": {
-    "cat": "🪔 दिवाली विशेषांक",
-    "stat": "दिवाली",
-    "statl": "इतिहास बताता रोशनी का त्योहार",
-    "h": "दिवाली – इतिहास बताता रोशनी का त्योहार",
-    "p": "11वीं सदी के फ़ारसी विद्वान अल-बिरूनी ने भारत पर अपने लेखन में कार्तिक अमावस्या को मनाए जाने वाले दिवाली त्योहार का उल्लेख किया। कर्नाटक के धारवाड़ में मिले 12वीं सदी के कन्नड़ शिलालेख में भी दिवाली को पवित्र पर्व बताया गया है। शोधकर्ताओं के अनुसार इससे पहले के साहित्य में भी दीपोत्सवों के उल्लेख हैं। जैन इस दिन महावीर के निर्वाण को याद करते हैं और सिख गुरु हरगोबिंद साहिब की ग्वालियर क़िले से रिहाई को बंदी छोड़ दिवस के रूप में मनाते हैं। दिवाली सिर्फ़ पटाखे और नए कपड़े नहीं है; यह हमें अज्ञान, द्वेष और ईर्ष्या दूर कर प्रेम, दया, ज्ञान और एकता बढ़ाने का संदेश देती है। जैसे एक दीया हज़ारों दीये जलाता है, वैसे ही एक अच्छा विचार कई ज़िंदगियाँ रोशन कर सकता है।",
-    "pts": [
-     "11वीं सदी: अल-बिरूनी के लेखन में दिवाली",
-     "12वीं सदी: धारवाड़ (कर्नाटक) के कन्नड़ शिलालेख में दिवाली",
-     "जैन: महावीर निर्वाण · सिख: बंदी छोड़ दिवस"
-    ],
-    "why": "ध्यान दें: श्रीराम की वापसी, नरकासुर वध जैसी कथाएँ धार्मिक मान्यताएँ हैं। ऐतिहासिक शिलालेख और साहित्य बताते हैं कि दिवाली प्राचीन काल से मनाई जा रही है। दोनों को अलग-अलग समझना चाहिए।"
-   }
   }
  ]
 }

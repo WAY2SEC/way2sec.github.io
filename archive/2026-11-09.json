@@ -1,8 +1,56 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 6,
+ "count": 7,
  "stories": [
+  {
+   "cat": "ప్రపంచం · ఇరాన్ యుద్ధం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "70%+",
+   "statl": "కుర్దిస్తాన్‌లో కరెంట్ నిలిచిన ప్రాంతం",
+   "h": "ఇరాక్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి; కుర్దిస్తాన్‌లో 70% ప్రాంతానికి కరెంట్ కట్",
+   "p": "ఉత్తర ఇరాక్‌లోని ఖోర్ మోర్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి జరిగి మంటలు చెలరేగాయి. దీంతో కుర్దిస్తాన్ ప్రాంతంలో 70 శాతానికి పైగా కరెంట్ సరఫరా నిలిచిపోయింది. మరోవైపు ఇరాన్ భూమార్గ సరఫరాలపై 'ఐరన్ గేట్' పేరుతో అమెరికా దిగ్బంధనం అమల్లోకి వచ్చిందని ట్రంప్ ప్రకటించారు. అణు కార్యక్రమం, హార్మూజ్ జలసంధి తెరవడంపై చర్చలు ముందుకెళ్తే మళ్లీ దాడులు జరిగే అవకాశం చాలా తక్కువని ఆయన అన్నారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఖోర్ మోర్ గ్యాస్ కేంద్రంపై డ్రోన్ దాడి, మంటలు",
+    "కుర్దిస్తాన్‌లో 70%కి పైగా ప్రాంతానికి కరెంట్ లేదు",
+    "'ఐరన్ గేట్' దిగ్బంధనం అమల్లోకి వచ్చిందన్న ట్రంప్"
+   ],
+   "why": "గల్ఫ్ ప్రాంత ఉద్రిక్తతలు అక్కడ పనిచేసే తెలుగువారిని, వారి కుటుంబాలను ఆందోళనకు గురిచేస్తాయి.",
+   "d": "09.11.2026",
+   "t": "07:35",
+   "en": {
+    "h": "Drone hits Iraq gas facility; 70% of Kurdish region loses power",
+    "p": "A drone struck the Khor Mor gas facility in northern Iraq, causing a fire. As a result, more than 70 percent of the Kurdish region is without power. Meanwhile, Trump announced that the US blockade on Iran's land supply routes, called 'Iron Gate', is in effect. He said renewed strikes are highly unlikely if talks on the nuclear programme and reopening the Strait of Hormuz make progress.",
+    "pts": [
+     "Drone strike and fire at Khor Mor gas facility",
+     "Over 70% of Kurdish region without power",
+     "Trump says 'Iron Gate' blockade is in effect"
+    ],
+    "why": "Tensions in the Gulf region worry Telugu people working there and their families.",
+    "cat": "World · Iran war",
+    "statl": "Area without power in Kurdistan"
+   },
+   "hi": {
+    "h": "इराक के गैस केंद्र पर ड्रोन हमला; कुर्द क्षेत्र के 70% हिस्से में बिजली गुल",
+    "p": "उत्तरी इराक के खोर मोर गैस केंद्र पर ड्रोन हमला हुआ, जिससे आग लग गई। इसके चलते कुर्द क्षेत्र के 70 प्रतिशत से अधिक हिस्से में बिजली आपूर्ति ठप हो गई। वहीं ट्रंप ने घोषणा की कि ईरान के ज़मीनी आपूर्ति मार्गों पर 'आयरन गेट' नाम की अमेरिकी नाकाबंदी लागू हो गई है। उन्होंने कहा कि परमाणु कार्यक्रम और होर्मुज़ जलडमरूमध्य खोलने पर बातचीत आगे बढ़ी तो दोबारा हमलों की संभावना बहुत कम है।",
+    "pts": [
+     "खोर मोर गैस केंद्र पर ड्रोन हमला, आग",
+     "कुर्द क्षेत्र के 70% से अधिक हिस्से में बिजली नहीं",
+     "ट्रंप बोले: 'आयरन गेट' नाकाबंदी लागू"
+    ],
+    "why": "खाड़ी क्षेत्र का तनाव वहां काम करने वाले तेलुगु लोगों और उनके परिवारों की चिंता बढ़ाता है।",
+    "cat": "दुनिया · ईरान युद्ध",
+    "statl": "कुर्दिस्तान में बिजली गुल क्षेत्र"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · అగ్నిప్రమాదం",
    "col": "--c-power",
