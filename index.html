@@ -468,7 +468,17 @@ function localScore(s){ const v=(prefs.village||'').trim(); let sc=0;
   if(prefs.place && prefs.place!=='TS' && prefs.place!=='AP' && !prefs.place.startsWith('st-') && normPlace(s.place||'')===prefs.place) sc+=2;
   const myst=stOfPlace(prefs.place); if(stateOf(s)===myst && myst!=='TG') sc+=1;
   return sc; }
-const localFirst = l => l.map((s,i)=>[s,localScore(s),i]).sort((a,b)=>b[1]-a[1]||a[2]-b[2]).map(x=>x[0]);
+const localFirst0 = l => l.map((s,i)=>[s,localScore(s),i]).sort((a,b)=>b[1]-a[1]||a[2]-b[2]).map(x=>x[0]);
+/* all-states mix (user, 9 Nov 2026): 4 Telugu-state cards (TG + AP, plus India/world news and the reader's own state),
+   then 1 card from another state, repeat. Leftovers go at the end. */
+const HOME_RUN = 4;
+function statesMix(l){ const myst=stOfPlace(prefs.place), home=[], other=[];
+  l.forEach(s=>{ const st=stateOf(s); (!st||st==='TG'||st==='AP'||st===myst ? home : other).push(s); });
+  if(!other.length||!home.length) return l;
+  const out=[]; let h=0,o=0;
+  while(h<home.length||o<other.length){ for(let k=0;k<HOME_RUN&&h<home.length;k++) out.push(home[h++]); if(o<other.length) out.push(other[o++]); }
+  return out; }
+const localFirst = l => statesMix(localFirst0(l));
 const MONTHS = ['జనవరి','ఫిబ్రవరి','మార్చి','ఏప్రిల్','మే','జూన్','జులై','ఆగస్టు','సెప్టెంబర్','అక్టోబర్','నవంబర్','డిసెంబర్'];
 const teDate = d => { if(LG()!=='te') return d||''; const m=/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/.exec(d||''); return m ? `${MONTHS[+m[2]-1]} ${+m[1]}, ${m[3]}` : (d||''); };
 
