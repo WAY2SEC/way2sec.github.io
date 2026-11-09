@@ -1,8 +1,204 @@
 {
  "date": "09.11.2026",
  "iso": "2026-11-09",
- "count": 94,
+ "count": 98,
  "stories": [
+  {
+   "cat": "తెలంగాణ · హైదరాబాద్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "21 ఏళ్లు",
+   "statl": "ప్రమాదంలో చనిపోయిన విద్యార్థిని వయసు",
+   "h": "నల్లకుంటలో బైక్‌ను ఢీకొన్న ఆర్టీసీ బస్సు: ఓయూ విద్యార్థిని మృతి",
+   "p": "హైదరాబాద్ నల్లకుంటలోని ప్రభుత్వ ఫీవర్ ఆసుపత్రి సమీపంలో సోమవారం ఆర్టీసీ బస్సు ఢీకొనడంతో ఉస్మానియా యూనివర్సిటీలో మైనింగ్ ఇంజినీరింగ్ చదువుతున్న 21 ఏళ్ల విద్యార్థిని అక్కడికక్కడే మృతి చెందింది. ఆమె ద్విచక్ర వాహనంపై కాలేజీకి వెళ్తుండగా ఈ ప్రమాదం జరిగింది. మృతదేహాన్ని ఉస్మానియా జనరల్ ఆసుపత్రికి తరలించారు. ఘటనపై దర్యాప్తు కొనసాగుతోంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/osmania-university-student-killed-as-rtc-bus-hits-two-wheeler-in-nallakunta",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నల్లకుంట",
+   "pts": [
+    "ఫీవర్ ఆసుపత్రి వద్ద బైక్‌ను ఢీకొన్న ఆర్టీసీ బస్సు",
+    "కాలేజీకి వెళ్తున్న ఓయూ ఇంజినీరింగ్ విద్యార్థిని అక్కడికక్కడే మృతి",
+    "మృతదేహం ఉస్మానియా ఆసుపత్రికి; దర్యాప్తు కొనసాగుతోంది"
+   ],
+   "why": "నగరంలో రద్దీ రోడ్లపై ద్విచక్ర వాహనదారులు, భారీ వాహనాల డ్రైవర్లు మరింత అప్రమత్తంగా ఉండాలని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "en": {
+    "h": "RTC bus hits two-wheeler in Nallakunta, Osmania University student killed",
+    "p": "A 21-year-old Mining Engineering student of Osmania University died on the spot on Monday when an RTC bus hit her two-wheeler near the Government Fever Hospital in Nallakunta, Hyderabad. She was on her way to college when the accident happened. The body was shifted to Osmania General Hospital. The case is under investigation.",
+    "pts": [
+     "RTC bus hits two-wheeler near Fever Hospital",
+     "OU engineering student on way to college dies on the spot",
+     "Body shifted to Osmania hospital; probe under way"
+    ],
+    "why": "The incident is a reminder for two-wheeler riders and heavy-vehicle drivers to be extra careful on the city's busy roads.",
+    "cat": "Telangana · Hyderabad",
+    "statl": "Age of the student killed"
+   },
+   "hi": {
+    "h": "नल्लाकुंटा में आरटीसी बस ने दोपहिया को टक्कर मारी, उस्मानिया यूनिवर्सिटी की छात्रा की मौत",
+    "p": "हैदराबाद के नल्लाकुंटा में सरकारी फीवर अस्पताल के पास सोमवार को आरटीसी बस की टक्कर से उस्मानिया यूनिवर्सिटी में माइनिंग इंजीनियरिंग पढ़ रही 21 साल की छात्रा की मौके पर ही मौत हो गई। वह दोपहिया वाहन से कॉलेज जा रही थी। शव को उस्मानिया जनरल अस्पताल भेजा गया। मामले की जांच जारी है।",
+    "pts": [
+     "फीवर अस्पताल के पास आरटीसी बस ने दोपहिया को टक्कर मारी",
+     "कॉलेज जा रही ओयू इंजीनियरिंग छात्रा की मौके पर मौत",
+     "शव उस्मानिया अस्पताल भेजा गया; जांच जारी"
+    ],
+    "why": "यह घटना याद दिलाती है कि शहर की व्यस्त सड़कों पर दोपहिया चालकों और भारी वाहन चालकों को ज्यादा सावधान रहना चाहिए।",
+    "cat": "तेलंगाना · हैदराबाद",
+    "statl": "हादसे में मारी गई छात्रा की उम्र"
+   },
+   "d": "09.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "తెలంగాణ · చరిత్ర",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "క్రీ.శ. 1118",
+   "statl": "శాసనంలో ఉన్న తేదీ సంవత్సరం",
+   "h": "వనపర్తి జిల్లా కొత్తకోటలో 12వ శతాబ్దపు కళ్యాణి చాళుక్యుల శాసనం గుర్తింపు",
+   "p": "వనపర్తి జిల్లా కొత్తకోటలోని ఓ శివాలయంలో 12వ శతాబ్దానికి చెందిన కళ్యాణి చాళుక్యుల శాసనాన్ని కొత్త తెలంగాణ చరిత్ర బృందం పరిశోధకులు గుర్తించారు. తెలుగు-కన్నడ లిపిలో, కన్నడ భాషలో ఉన్న ఈ శాసనం క్రీ.శ. 1118 మే 22 నాటిదని, ఆరో విక్రమాదిత్యుడి కాలానికి చెందినదని బృందం అధ్యక్షుడు శ్రీరామోజు హరగోపాల్ చదివారు. ఇందులో మూడు మత్తర్ల మాగాణి భూమి దానం నమోదైంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/12th-century-kalyana-chalukya-inscription-discovered-in-wanaparthy",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "wanaparthy",
+   "loc": "కొత్తకోట",
+   "pts": [
+    "కొత్తకోట శివాలయ స్తంభంపై శాసనం, స్తంభం వాలుగా విరిగింది",
+    "లిపి తెలుగు-కన్నడ, భాష కన్నడ; 'త్రిభువనమల్ల దేవ' ప్రస్తావన",
+    "మూడు మత్తర్ల మాగాణి భూమి దానం నమోదు"
+   ],
+   "why": "ఈ శాసనం వనపర్తి ప్రాంతంపై కళ్యాణి చాళుక్యుల పాలన చరిత్రను తెలుసుకోవడానికి కొత్త ఆధారంగా నిలుస్తుంది.",
+   "en": {
+    "h": "12th-century Kalyana Chalukya inscription found in Kothakota, Wanaparthy district",
+    "p": "Researchers of Kotha Telangana Charitra Brundam have identified a 12th-century Kalyana Chalukya inscription in a Shiva temple at Kothakota in Wanaparthy district. Written in Telugu-Kannada script in the Kannada language, the inscription is dated May 22, 1118 CE and belongs to the time of Vikramaditya VI, according to the group's president Sriramoju Haragopal, who read it. It records a gift of three mattars of wetland.",
+    "pts": [
+     "Inscription on a diagonally fractured pillar of Kothakota Shiva temple",
+     "Telugu-Kannada script, Kannada language; mentions 'Tribhuvanamalla Deva'",
+     "Records donation of three mattars of wetland"
+    ],
+    "why": "The inscription is a new source for understanding the history of Kalyana Chalukya rule in the Wanaparthy region.",
+    "cat": "Telangana · History",
+    "statl": "Year of the date in the inscription"
+   },
+   "hi": {
+    "h": "वनपर्ती जिले के कोत्ताकोटा में 12वीं सदी का कल्याणी चालुक्य शिलालेख मिला",
+    "p": "वनपर्ती जिले के कोत्ताकोटा स्थित एक शिव मंदिर में कोत्ता तेलंगाना चरित्र बृंदम के शोधकर्ताओं ने 12वीं सदी का कल्याणी चालुक्य शिलालेख पहचाना है। तेलुगु-कन्नड़ लिपि और कन्नड़ भाषा में लिखा यह शिलालेख 22 मई 1118 ई. का है और विक्रमादित्य षष्ठ के काल का है, यह बात इसे पढ़ने वाले समूह के अध्यक्ष श्रीरामोजु हरगोपाल ने बताई। इसमें तीन मत्तर सिंचित भूमि के दान का उल्लेख है।",
+    "pts": [
+     "कोत्ताकोटा शिव मंदिर के तिरछे टूटे स्तंभ पर शिलालेख",
+     "लिपि तेलुगु-कन्नड़, भाषा कन्नड़; 'त्रिभुवनमल्ल देव' का उल्लेख",
+     "तीन मत्तर सिंचित भूमि के दान का रिकॉर्ड"
+    ],
+    "why": "यह शिलालेख वनपर्ती क्षेत्र में कल्याणी चालुक्य शासन के इतिहास को समझने का नया स्रोत है।",
+    "cat": "तेलंगाना · इतिहास",
+    "statl": "शिलालेख में दी गई तारीख का वर्ष"
+   },
+   "d": "09.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "గుజరాత్ · అహ్మదాబాద్",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "₹1 లక్ష",
+   "statl": "కలెక్టర్ సొంత జీతం నుంచి చెల్లించాల్సిన ఖర్చు",
+   "h": "కోర్టు ఆదేశాలు పట్టించుకోని అహ్మదాబాద్ కలెక్టర్‌కు ₹1 లక్ష వ్యక్తిగత జరిమానా",
+   "p": "ఒక మహిళ వ్యవసాయేతర భూవినియోగ దరఖాస్తును, హైకోర్టు ఇప్పటికే కొట్టివేసిన కారణాలతోనే మళ్లీ తిరస్కరించినందుకు అహ్మదాబాద్ కలెక్టర్ ₹1 లక్ష ఖర్చులను సొంత జీతం నుంచి నెల రోజుల్లో చెల్లించాలని గుజరాత్ హైకోర్టు ఆదేశించింది. ఇది కోర్టు ఆదేశాల స్పష్టమైన ఉల్లంఘన అని జస్టిస్ ఎం.కె. ఠక్కర్ పేర్కొన్నారు. ఆగస్టు 6 నాటి తిరస్కరణ ఉత్తర్వును రద్దు చేసి, గడువులోగా నిర్ణయం తీసుకోవాలని ఆదేశించారు.",
+   "src": "DeshGujarat",
+   "url": "https://deshgujarat.com/2026/11/09/gujarat-hc-slaps-%e2%82%b91-lakh-personal-cost-on-ahmedabad-collector-for-defying-court-order/",
+   "sec": [
+    "india"
+   ],
+   "st": "GJ",
+   "place": "gj-ahmedabad",
+   "loc": "అహ్మదాబాద్",
+   "pts": [
+    "2025 మార్చిలో హైకోర్టు తొలి తిరస్కరణను రద్దు చేసింది",
+    "అయినా ఆగస్టు 6న కలెక్టర్ మళ్లీ దరఖాస్తు తిరస్కరణ",
+    "చెల్లించకపోతే రాష్ట్రం చెల్లించి జీతం నుంచి వసూలు"
+   ],
+   "why": "కోర్టు ఆదేశాలను అధికారులు పాటించకపోతే వ్యక్తిగతంగా బాధ్యత వహించాల్సి వస్తుందని ఈ తీర్పు స్పష్టం చేస్తోంది.",
+   "en": {
+    "h": "Gujarat HC orders Ahmedabad collector to pay Rs 1 lakh from own salary",
+    "p": "The Gujarat High Court has ordered the Ahmedabad collector to pay Rs 1 lakh in costs from his own salary within a month for rejecting a woman's non-agricultural land-use application again on grounds the court had already quashed. Justice M K Thakker called it a flagrant violation of court directions. The court quashed the August 6 rejection order and directed a decision within the statutory period.",
+    "pts": [
+     "HC had quashed the first rejection in March 2025",
+     "Collector still rejected the application again on August 6",
+     "If unpaid, State will pay and recover it from his salary"
+    ],
+    "why": "The ruling makes clear that officials who ignore court orders can be held personally accountable.",
+    "cat": "Gujarat · Ahmedabad",
+    "statl": "Costs to be paid from the collector's own salary"
+   },
+   "hi": {
+    "h": "गुजरात हाईकोर्ट ने अहमदाबाद कलेक्टर को अपनी सैलरी से 1 लाख रुपये देने का आदेश दिया",
+    "p": "गुजरात हाईकोर्ट ने अहमदाबाद कलेक्टर को एक महिला की गैर-कृषि भूमि उपयोग अर्जी को उन्हीं आधारों पर दोबारा खारिज करने के लिए, जिन्हें कोर्ट पहले ही रद्द कर चुका था, एक महीने के भीतर अपनी सैलरी से 1 लाख रुपये खर्च चुकाने का आदेश दिया है। जस्टिस एम.के. ठक्कर ने इसे कोर्ट के निर्देशों का खुला उल्लंघन बताया। कोर्ट ने 6 अगस्त का अस्वीकृति आदेश रद्द कर तय समय में फैसला लेने को कहा।",
+    "pts": [
+     "हाईकोर्ट ने मार्च 2025 में पहली अस्वीकृति रद्द की थी",
+     "फिर भी कलेक्टर ने 6 अगस्त को अर्जी दोबारा खारिज की",
+     "भुगतान न होने पर राज्य चुकाकर सैलरी से वसूलेगा"
+    ],
+    "why": "यह फैसला साफ करता है कि कोर्ट के आदेश न मानने वाले अधिकारियों को निजी तौर पर जवाबदेह ठहराया जा सकता है।",
+    "cat": "गुजरात · अहमदाबाद",
+    "statl": "कलेक्टर की अपनी सैलरी से चुकाया जाने वाला खर्च"
+   },
+   "d": "09.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "APEC",
+   "statl": "వచ్చే వారం శిఖరాగ్ర సదస్సులో ఇరాన్‌పై చర్చ",
+   "h": "ఇరాన్ యుద్ధంపై జిన్‌పింగ్, పుతిన్‌లతో మాట్లాడతానన్న ట్రంప్",
+   "p": "వచ్చే వారం జరిగే APEC శిఖరాగ్ర సదస్సులో చైనా అధ్యక్షుడు షి జిన్‌పింగ్, రష్యా అధ్యక్షుడు పుతిన్‌తో ఇరాన్ యుద్ధం, 'అణ్వాయుధ నిర్మూలన'పై మాట్లాడాలని భావిస్తున్నట్లు అమెరికా అధ్యక్షుడు ట్రంప్ చెప్పారు. ఇరాన్ భూమార్గ సరఫరాలపై అమెరికా దిగ్బంధం అమల్లో ఉందన్నారు. అణు కార్యక్రమం, హార్ముజ్ జలసంధి పునఃప్రారంభంపై చర్చలు ముందుకెళ్తే మళ్లీ దాడులు జరిగే అవకాశం చాలా తక్కువని తెలిపారు.",
+   "src": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "APEC సదస్సులో షి, పుతిన్‌తో ఇరాన్‌పై చర్చిస్తానన్న ట్రంప్",
+    "ఇరాన్ భూమార్గ సరఫరాలపై అమెరికా దిగ్బంధం అమల్లో",
+    "దాడులు మళ్లీ జరిగితే తీవ్రంగా స్పందిస్తామని ఇరాన్ హెచ్చరిక"
+   ],
+   "why": "హార్ముజ్ జలసంధి, గల్ఫ్ పరిస్థితులు చమురు ధరలపై, గల్ఫ్‌లో పనిచేసే తెలుగువారిపై ప్రభావం చూపుతాయి.",
+   "en": {
+    "h": "Trump says he will discuss Iran war with Xi and Putin",
+    "p": "US President Donald Trump said he expects to talk to Chinese President Xi Jinping and Russian President Vladimir Putin about the war on Iran and 'denuclearisation' at next week's APEC summit. He said the US blockade of Iran's land supply routes is in effect. He said renewed strikes are 'highly unlikely' if talks on the nuclear programme and the reopening of the Strait of Hormuz make progress.",
+    "pts": [
+     "Trump to discuss Iran with Xi and Putin at APEC summit",
+     "US blockade of Iran's land supply routes in effect",
+     "Iran warns of a fierce response if attacks resume"
+    ],
+    "why": "The situation in the Strait of Hormuz and the Gulf affects oil prices and Telugu people working in the Gulf.",
+    "cat": "World · US",
+    "statl": "Iran on the agenda at next week's summit"
+   },
+   "hi": {
+    "h": "ट्रंप ने कहा, ईरान युद्ध पर शी जिनपिंग और पुतिन से बात करेंगे",
+    "p": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि वे अगले हफ्ते होने वाले APEC शिखर सम्मेलन में चीनी राष्ट्रपति शी जिनपिंग और रूसी राष्ट्रपति व्लादिमीर पुतिन से ईरान युद्ध और 'परमाणु निरस्त्रीकरण' पर बात करने की उम्मीद करते हैं। उन्होंने कहा कि ईरान के जमीनी आपूर्ति मार्गों पर अमेरिकी नाकेबंदी लागू है। परमाणु कार्यक्रम और होर्मुज जलडमरूमध्य को फिर खोलने पर बातचीत आगे बढ़ी तो दोबारा हमले की संभावना 'बहुत कम' है।",
+    "pts": [
+     "APEC सम्मेलन में शी और पुतिन से ईरान पर चर्चा करेंगे ट्रंप",
+     "ईरान के जमीनी आपूर्ति मार्गों पर अमेरिकी नाकेबंदी लागू",
+     "हमले दोबारा हुए तो कड़े जवाब की ईरान की चेतावनी"
+    ],
+    "why": "होर्मुज जलडमरूमध्य और खाड़ी के हालात तेल की कीमतों और खाड़ी में काम करने वाले तेलुगु लोगों को प्रभावित करते हैं।",
+    "cat": "दुनिया · अमेरिका",
+    "statl": "अगले हफ्ते के सम्मेलन में ईरान का मुद्दा"
+   },
+   "d": "09.11.2026",
+   "t": "22:35"
+  },
   {
    "cat": "తెలంగాణ · రోడ్డు ప్రమాదాలు",
    "col": "--c-power",
