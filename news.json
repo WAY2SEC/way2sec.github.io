@@ -4,6 +4,67 @@
  "version": 2,
  "stories": [
   {
+   "cat": "ప్రత్యేక కథనం · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "18%",
+   "statl": "చైనాలో 16–24 ఏళ్ల యువత నిరుద్యోగం",
+   "h": "చైనాలో చదువుకున్న యువతకు ఉద్యోగాలు కరువు – భారత్‌కు హెచ్చరిక: శ్రీధర్ వెంబు",
+   "p": "చైనాలో యువత నిరుద్యోగం ఆందోళనకర స్థాయిలో ఉంది. చైనా నేషనల్ బ్యూరో ఆఫ్ స్టాటిస్టిక్స్ ప్రకారం సెప్టెంబర్‌లో 16–24 ఏళ్ల యువతలో (విద్యార్థులు మినహా) నిరుద్యోగం 18%; ఆగస్టులో ఇది 18.9%తో ఈ ఏడాది గరిష్ఠానికి చేరింది. 25–29 ఏళ్ల వారిలో 7.4%, మొత్తం పట్టణ నిరుద్యోగం 5.2%. ఈ ఏడాది రికార్డు స్థాయిలో 1.27 కోట్ల మంది గ్రాడ్యుయేట్లు ఉద్యోగ వేటలోకి వచ్చారు. “చదవండి, మంచి ఉద్యోగం పొందండి, తల్లిదండ్రుల కంటే ధనవంతులవ్వండి – ఆ ఒప్పందం విరిగిపోతోంది” అన్న ఓ X పోస్ట్‌ను ఉటంకిస్తూ జోహో వ్యవస్థాపకులు శ్రీధర్ వెంబు స్పందించారు. ప్రపంచ కర్మాగారంగా, భారీ వాణిజ్య మిగులు ఉన్న చైనా కూడా చదువుకున్న యువతకు ఉద్యోగాలు ఇవ్వలేకపోతోందని, 20–24 ఏళ్ల నిరుద్యోగుల్లో దాదాపు 70% మంది డిగ్రీ చదివినవారేనని అన్నారు. ‘స్థిర జీతం’ ఉద్యోగాలు ఆటోమేషన్, AI వల్ల ఒత్తిడిలో ఉన్నాయని, సమస్య మరింత పెరుగుతుందని హెచ్చరించారు. వ్యాపారం, స్వయం ఉపాధి భారీగా పెరగడమే పరిష్కారమని, భారత విధాన నిర్ణేతలు దీన్ని గమనించాలని సూచించారు.",
+   "src": "చైనా NBS · శ్రీధర్ వెంబు (X) · Way2Sec విశ్లేషణ",
+   "url": "",
+   "sec": [
+    "world",
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "loc": "చైనా",
+   "pts": [
+    "సెప్టెంబర్ 2026: 16–24 ఏళ్లు 18% · 25–29 ఏళ్లు 7.4% · పట్టణ నిరుద్యోగం 5.2% (అధికారిక)",
+    "2026లో రికార్డు స్థాయిలో 1.27 కోట్ల గ్రాడ్యుయేట్లు",
+    "శ్రీధర్ వెంబు: పరిష్కారం వ్యాపారం, స్వయం ఉపాధి – భారత్ గమనించాలి",
+    "గమనిక: X పోస్ట్‌లోని ‘3.7 కోట్ల తక్కువ ఉద్యోగాలు’, ‘అసలు నిరుద్యోగం 10%’, ‘32 కోట్ల గిగ్ కార్మికులు’ వంటి అంచనాలు అధికారికంగా ధృవీకరించినవి కావు"
+   ],
+   "why": "భారత్‌లోనూ ఏటా లక్షలాది గ్రాడ్యుయేట్లు ఉద్యోగ వేటలోకి వస్తున్నారు; AI ప్రభావం, నైపుణ్యాలు, స్వయం ఉపాధిపై ఇప్పుడే దృష్టి పెట్టాలన్నది ఈ చర్చ సారాంశం.",
+   "en": {
+    "cat": "Special story · Jobs",
+    "stat": "18%",
+    "statl": "Youth unemployment (16–24) in China",
+    "h": "China's educated youth struggle for jobs – a warning for India, says Sridhar Vembu",
+    "p": "Youth unemployment in China remains high. According to China's National Bureau of Statistics, the jobless rate for 16–24-year-olds (excluding students) was 18% in September, after hitting a 2026 high of 18.9% in August. It was 7.4% for 25–29-year-olds, and overall urban unemployment was 5.2%. A record 12.7 million graduates entered the job market this year. Quoting an X post that said 'Study hard, get a good job, become richer than your parents – that deal is breaking', Zoho founder Sridhar Vembu said that China, the factory of the world with a huge trade surplus, cannot create jobs for a big share of its college-educated youth, and that about 70% of unemployed 20–24-year-olds hold university degrees. He said 'steady paycheck' jobs are under pressure from automation and AI and the problem will get worse. The solution, he said, is a dramatic rise in entrepreneurship and self-employment, and Indian policymakers must pay heed.",
+    "pts": [
+     "Sept 2026: 16–24 yrs 18% · 25–29 yrs 7.4% · urban rate 5.2% (official)",
+     "Record 12.7 million graduates in 2026",
+     "Sridhar Vembu: the answer is entrepreneurship and self-employment – India must take note",
+     "Note: claims in the X post such as '37 million fewer jobs', 'real unemployment near 10%' and '320 million gig workers' are not officially verified"
+    ],
+    "why": "India also adds millions of graduates every year; the debate is about preparing now for AI, skills and self-employment."
+   },
+   "hi": {
+    "cat": "विशेष रिपोर्ट · नौकरियाँ",
+    "stat": "18%",
+    "statl": "चीन में 16–24 वर्ष के युवाओं की बेरोज़गारी",
+    "h": "चीन में पढ़े-लिखे युवाओं को नौकरियाँ नहीं – भारत के लिए चेतावनी: श्रीधर वेम्बु",
+    "p": "चीन में युवा बेरोज़गारी ऊँचे स्तर पर है। चीन के राष्ट्रीय सांख्यिकी ब्यूरो के अनुसार सितंबर में 16–24 वर्ष के युवाओं (छात्रों को छोड़कर) की बेरोज़गारी दर 18% रही, जो अगस्त में 18.9% के साथ इस साल के उच्चतम स्तर पर थी। 25–29 वर्ष के लिए यह 7.4% और कुल शहरी बेरोज़गारी 5.2% रही। इस साल रिकॉर्ड 1.27 करोड़ स्नातक नौकरी की तलाश में उतरे। 'पढ़ो, अच्छी नौकरी पाओ, माता-पिता से ज़्यादा अमीर बनो – वह वादा टूट रहा है' वाली एक X पोस्ट का हवाला देते हुए ज़ोहो के संस्थापक श्रीधर वेम्बु ने कहा कि दुनिया का कारख़ाना और भारी व्यापार अधिशेष वाला चीन भी अपने पढ़े-लिखे युवाओं के लिए नौकरियाँ नहीं बना पा रहा है, और 20–24 वर्ष के लगभग 70% बेरोज़गार डिग्रीधारी हैं। उन्होंने कहा कि 'स्थिर वेतन' वाली नौकरियाँ ऑटोमेशन और एआई के दबाव में हैं, समाधान उद्यमिता और स्वरोज़गार में तेज़ बढ़ोतरी है, और भारत के नीति-निर्माताओं को इस पर ध्यान देना चाहिए।",
+    "pts": [
+     "सितंबर 2026: 16–24 वर्ष 18% · 25–29 वर्ष 7.4% · शहरी दर 5.2% (आधिकारिक)",
+     "2026 में रिकॉर्ड 1.27 करोड़ स्नातक",
+     "श्रीधर वेम्बु: समाधान उद्यमिता और स्वरोज़गार – भारत ध्यान दे",
+     "ध्यान दें: X पोस्ट के '3.7 करोड़ कम नौकरियाँ', 'असली बेरोज़गारी 10%', '32 करोड़ गिग वर्कर' जैसे दावे आधिकारिक रूप से पुष्ट नहीं हैं"
+    ],
+    "why": "भारत में भी हर साल लाखों स्नातक नौकरी की तलाश में आते हैं; यह बहस एआई, कौशल और स्वरोज़गार की तैयारी अभी से करने की है।"
+   },
+   "d": "09.11.2026",
+   "t": "18:20",
+   "img": "photos/2026-11-09-china-youth-unemployment.jpg",
+   "imgfy": 0.4,
+   "imgfx": 0.5,
+   "local": true,
+   "_sid": "m7arpl"
+  },
+  {
    "cat": "హైదరాబాద్ · ఆరోగ్యం",
    "col": "--c-power",
    "art": "power",
