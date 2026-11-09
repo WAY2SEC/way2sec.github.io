@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 """Way2Sec: make a WhatsApp link-preview page + picture for every story and job.
 
   s/<id>.html   full article page (also gives WhatsApp the story picture) + web/index.html (website home)
@@ -145,6 +146,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
 <meta property="og:type" content="article"><meta property="og:site_name" content="Way2Sec News">
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
+<link rel="canonical" href="{SITE}/s/{sid}">
 <meta property="og:url" content="{SITE}/s/{sid}">
 <meta property="og:image" content="{e(img.replace(IMG, SITE))}"><meta property="og:image:secure_url" content="{e(img.replace(IMG, SITE))}"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image" content="{e(img)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{e(img)}">
@@ -258,11 +260,12 @@ STATIC_PAGES = {
 """),
 }
 
-def static_page(title, desc, body):
+def static_page(title, desc, body, name=""):
     sh = shell(); e = lambda t: html.escape(t or "", quote=True)
     return f"""<!doctype html><html lang="te"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
+<link rel="canonical" href="{SITE}/{name}">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png"><link rel="manifest" href="/manifest.webmanifest">
 <meta name="google-adsense-account" content="ca-pub-5189488674224327"><script async src="https://www.googletagmanager.com/gtag/js?id=G-2179H3TXWP"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-2179H3TXWP');</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5189488674224327" crossorigin="anonymous"></script>
 <meta property="og:title" content="{e(title)}"><meta property="og:image" content="{IMG}/og-image.jpg">
@@ -362,6 +365,21 @@ def main():
             if prev != out:
                 with open(sp, "w", encoding="utf-8") as f: f.write(out)
                 pages += 1
+        # old article pages no longer in the data (headline/link changed): point Google to the
+        # current page with the same headline, else to themselves (fixes "Duplicate without user-selected canonical")
+        cur = {sid for _, _, sid in uniq}
+        by_title = {}
+        for _, s, sid in uniq: by_title.setdefault(s.get("h", "Way2Sec"), sid)
+        for fp in glob.glob(os.path.join(ROOT, "s", "*.html")):
+            oid = os.path.basename(fp)[:-5]
+            if oid in cur: continue
+            h0 = open(fp, encoding="utf-8").read()
+            m = re.search(r"<title>(.*?) \| Way2Sec</title>", h0)
+            tgt = by_title.get(html.unescape(m.group(1)) if m else None) or oid
+            link = f'<link rel="canonical" href="{SITE}/s/{tgt}">'
+            h1 = re.sub(r'<link rel="canonical"[^>]*>\n?', "", h0).replace('<meta property="og:url"', link + "\n" + '<meta property="og:url"', 1)
+            if h1 != h0:
+                with open(fp, "w", encoding="utf-8") as f: f.write(h1)
         # shared script for article pages (ticker, latest, jobs, more news, theme, listen)
         app0 = open(os.path.join(ROOT, "index.html"), encoding="utf-8").read()
         b0 = app0.index("const ART = {"); b1 = app0.index("\n};", b0) + 3
@@ -371,12 +389,11 @@ def main():
         if not os.path.exists(sj) or open(sj, encoding="utf-8").read() != site_js:
             with open(sj, "w", encoding="utf-8") as f: f.write(site_js)
         for name, (t, dsc, body) in STATIC_PAGES.items():
-            out = static_page(t, dsc, body); fp = os.path.join(ROOT, name)
+            out = static_page(t, dsc, body, name); fp = os.path.join(ROOT, name)
             if not os.path.exists(fp) or open(fp, encoding="utf-8").read() != out:
                 with open(fp, "w", encoding="utf-8") as f: f.write(out)
         # sitemap for Google (home, sections, static pages, every article) + robots.txt
         urls = [(SITE + "/", None), (SITE + "/about.html", None), (SITE + "/contact.html", None), (SITE + "/privacy.html", None), (SITE + "/epaper/", None)]
-        urls += [(f"{SITE}/?sec={k}", None) for k, _ in SITE_SECS]
         for kind, s, sid in uniq:
             urls.append((f"{SITE}/s/{sid}", iso_time(s)))
         sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
