@@ -1,8 +1,459 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 40,
+ "count": 49,
  "stories": [
+  {
+   "cat": "ఏపీ · కేబినెట్",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "30+",
+   "statl": "అంశాలకు ఆమోదం",
+   "h": "ఏపీ కేబినెట్: రోబోటిక్స్, ఫిజికల్ ఏఐ పాలసీలకు ఆమోదం",
+   "p": "సీఎం చంద్రబాబు అధ్యక్షతన అమరావతి సచివాలయంలో మంగళవారం జరిగిన మంత్రివర్గ సమావేశం పలు కీలక నిర్ణయాలు తీసుకుంది. రోబోటిక్స్, ఫిజికల్ ఏఐ పాలసీలు, ఏవీజీసీ-ఎక్స్‌ఆర్ పాలసీ, సెమీకండక్టర్ పాలసీ సవరణలకు ఆమోదం లభించింది. రాంబిల్లిలో డేటా సెంటర్, భీమిలిలో 512 మెగావాట్ల ఏఐ డేటా సెంటర్, విజయవాడలో వ్యర్థాల నుంచి విద్యుత్ ప్లాంట్‌కు పచ్చజెండా ఊపింది.",
+   "pts": [
+    "రోబోటిక్స్, ఫిజికల్ ఏఐ పాలసీలకు ఆమోదం",
+    "భీమిలిలో 512 మెగావాట్ల ఏఐ డేటా సెంటర్",
+    "పెనుకొండలో ప్రభుత్వ ఐటీఐ, పోలీస్ శాఖలో రోడ్ సేఫ్టీ డైరెక్టరేట్"
+   ],
+   "why": "కొత్త పరిశ్రమలు, డేటా సెంటర్లతో ఏపీ యువతకు ఉద్యోగావకాశాలపై ప్రభావం ఉంటుంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/andhra-pradesh/guntur/ap-cabinet-key-decisions-robotics-ai-policies-vvnp-1574965.html",
+   "sec": [
+    "telangana",
+    "ai",
+    "business"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "వెలగపూడి",
+   "pub": "2026-11-10T15:36+05:30",
+   "en": {
+    "cat": "AP · Cabinet",
+    "statl": "Items approved",
+    "h": "AP Cabinet approves Robotics and Physical AI policies",
+    "p": "The Andhra Pradesh Cabinet, chaired by CM Chandrababu Naidu at the Amaravati Secretariat on Tuesday, took several key decisions. It approved Robotics and Physical AI policies, the AVGC-XR policy and amendments to the semiconductor policy. It cleared a data centre at Rambilli, a 512 MW AI data centre at Bheemili and a waste-to-energy plant in Vijayawada.",
+    "pts": [
+     "Robotics and Physical AI policies approved",
+     "512 MW AI data centre at Bheemili",
+     "Govt ITI at Penukonda, road safety directorate in police"
+    ],
+    "why": "New industries and data centres will affect job opportunities for AP's youth."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · कैबिनेट",
+    "statl": "मुद्दों को मंज़ूरी",
+    "h": "एपी कैबिनेट ने रोबोटिक्स और फिज़िकल एआई नीतियों को मंज़ूरी दी",
+    "p": "मुख्यमंत्री चंद्रबाबू नायडू की अध्यक्षता में मंगलवार को अमरावती सचिवालय में हुई आंध्र प्रदेश मंत्रिमंडल की बैठक में कई अहम फैसले लिए गए। रोबोटिक्स और फिज़िकल एआई नीतियों, एवीजीसी-एक्सआर नीति और सेमीकंडक्टर नीति में संशोधनों को मंज़ूरी मिली। रामबिल्ली में डेटा सेंटर, भीमिली में 512 मेगावाट एआई डेटा सेंटर और विजयवाड़ा में कचरे से बिजली संयंत्र को हरी झंडी दी गई।",
+    "pts": [
+     "रोबोटिक्स, फिज़िकल एआई नीतियों को मंज़ूरी",
+     "भीमिली में 512 मेगावाट एआई डेटा सेंटर",
+     "पेनुकोंडा में सरकारी आईटीआई, पुलिस में सड़क सुरक्षा निदेशालय"
+    ],
+    "why": "नए उद्योगों और डेटा सेंटरों से आंध्र प्रदेश के युवाओं के रोज़गार अवसरों पर असर पड़ेगा।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "659",
+   "statl": "మండల పరిషత్‌లు",
+   "h": "ఎంపీపీ ఎన్నిక 19న, జడ్పీ ఛైర్మన్ ఎన్నిక 20న: ఎస్‌ఈసీ నోటిఫికేషన్",
+   "p": "ఏపీ రాష్ట్ర ఎన్నికల సంఘం 659 మండల ప్రజా పరిషత్‌లు, 28 జిల్లా ప్రజా పరిషత్‌ల అధ్యక్ష, ఉపాధ్యక్ష పదవుల పరోక్ష ఎన్నికలకు మంగళవారం నోటిఫికేషన్లు జారీ చేసింది. ఎంపీపీ పదవులకు నవంబర్ 19న, జడ్పీ ఛైర్మన్, వైస్ ఛైర్మన్ పదవులకు 20న ప్రత్యేక సమావేశాల్లో ఎన్నిక జరుగుతుంది. చేతులెత్తే పద్ధతిలో ఓటింగ్ ఉంటుంది; ఎన్నికైన ఎంపీటీసీ, జడ్పీటీసీ సభ్యులకు మాత్రమే ఓటు హక్కు ఉంటుంది.",
+   "pts": [
+    "ఎంపీపీ ఎన్నిక నవంబర్ 19న",
+    "జడ్పీ ఛైర్మన్, వైస్ ఛైర్మన్ ఎన్నిక 20న",
+    "ముందుగా కో-ఆప్షన్ సభ్యుల ఎన్నిక"
+   ],
+   "why": "ఏపీలో మండల, జిల్లా పరిషత్ పాలక వర్గాలు ఎవరివో ఈ ఎన్నికలతో తేలనుంది.",
+   "src": "ETV Bharat",
+   "url": "https://etvbharat.com/te/politics/ap-sec-released-notifications-for-mpp-zpp-indirect-elections-2026-aps26111002637",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-10T15:13+05:30",
+   "en": {
+    "cat": "AP · Local polls",
+    "statl": "Mandal Parishads",
+    "h": "AP SEC notifies MPP polls on Nov 19, ZP chairperson polls on Nov 20",
+    "p": "The Andhra Pradesh State Election Commission issued notifications on Tuesday for indirect elections of presidents and vice-presidents of 659 Mandal Praja Parishads and 28 Zilla Praja Parishads. MPP posts will be filled on November 19 and ZP chairperson and vice-chairperson posts on November 20 at special meetings. Voting is by show of hands; only elected MPTC and ZPTC members can vote.",
+    "pts": [
+     "MPP election on November 19",
+     "ZP chair and vice-chair election on November 20",
+     "Co-opted members to be elected first"
+    ],
+    "why": "These elections decide who heads mandal and district parishads across AP."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "मंडल परिषद",
+    "h": "एपी: एमपीपी चुनाव 19 नवंबर, जेडपी अध्यक्ष चुनाव 20 नवंबर को",
+    "p": "आंध्र प्रदेश राज्य निर्वाचन आयोग ने मंगलवार को 659 मंडल प्रजा परिषदों और 28 जिला प्रजा परिषदों के अध्यक्ष व उपाध्यक्ष पदों के अप्रत्यक्ष चुनाव की अधिसूचनाएं जारी कीं। एमपीपी पदों के लिए 19 नवंबर और जेडपी अध्यक्ष व उपाध्यक्ष पदों के लिए 20 नवंबर को विशेष बैठकों में चुनाव होगा। मतदान हाथ उठाकर होगा; केवल निर्वाचित एमपीटीसी और जेडपीटीसी सदस्य ही वोट दे सकेंगे।",
+    "pts": [
+     "एमपीपी चुनाव 19 नवंबर को",
+     "जेडपी अध्यक्ष, उपाध्यक्ष चुनाव 20 नवंबर को",
+     "पहले सहयोजित सदस्यों का चुनाव"
+    ],
+    "why": "इन चुनावों से तय होगा कि आंध्र प्रदेश में मंडल और जिला परिषदों की कमान किसके हाथ होगी।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · విమానాశ్రయం",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "CAT III",
+   "statl": "రన్‌వే 09R అప్‌గ్రేడ్",
+   "h": "పొగమంచులోనూ విమానాలు: శంషాబాద్ రన్‌వేకు CAT III సామర్థ్యం",
+   "p": "హైదరాబాద్ అంతర్జాతీయ విమానాశ్రయంలోని రన్‌వే 09Rకు జీఎంఆర్ హైదరాబాద్ ఇంటర్నేషనల్ ఎయిర్‌పోర్ట్ లిమిటెడ్ CAT III ఎయిర్‌ఫీల్డ్ గ్రౌండ్ లైటింగ్ సామర్థ్యాన్ని ప్రారంభించింది. దీంతో చాలా తక్కువ దృశ్యమానతలోనూ విమానాలు నడపొచ్చు. చలికాలం పొగమంచు సమయంలో విమానాల మళ్లింపులు, ఆలస్యాలు తగ్గుతాయని కథనం పేర్కొంది. ప్రయాణికులకు ఆలస్యాలు తగ్గుతాయని సీఈవో కదిర్ కదిరవన్ చెప్పారు.",
+   "pts": [
+    "CAT II నుంచి CAT IIIకి అప్‌గ్రేడ్",
+    "తక్కువ దృశ్యమానతలోనూ ల్యాండింగ్‌లు",
+    "స్వదేశీ PLC-SCADA వ్యవస్థతో లైటింగ్ నియంత్రణ"
+   ],
+   "why": "శీతాకాలంలో హైదరాబాద్ నుంచి ప్రయాణించే వారికి ఆలస్యాలు, మళ్లింపులు తగ్గే అవకాశం ఉంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-airport-upgrades-runway-09r-for-cat-iii-operations",
+   "sec": [
+    "telangana",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "శంషాబాద్",
+   "pub": "2026-11-10T15:05+05:30",
+   "en": {
+    "cat": "Hyderabad · Airport",
+    "statl": "Runway 09R upgrade",
+    "h": "Flights even in fog: Hyderabad airport runway gets CAT III capability",
+    "p": "GMR Hyderabad International Airport Ltd has commissioned CAT III Airfield Ground Lighting capability for Runway 09R at Hyderabad International Airport. Aircraft can now operate in much lower visibility. The article says this should reduce diversions and delays during the winter fog season. CEO Kadhir Kadhiravan said passengers will see fewer delays.",
+    "pts": [
+     "Upgraded from CAT II to CAT III",
+     "Landings possible in very low visibility",
+     "Indigenous PLC-SCADA system controls lighting"
+    ],
+    "why": "Travellers flying from Hyderabad in winter may face fewer delays and diversions."
+   },
+   "hi": {
+    "cat": "हैदराबाद · हवाई अड्डा",
+    "statl": "रनवे 09R अपग्रेड",
+    "h": "कोहरे में भी उड़ानें: हैदराबाद एयरपोर्ट रनवे को CAT III क्षमता",
+    "p": "जीएमआर हैदराबाद इंटरनेशनल एयरपोर्ट लिमिटेड ने हैदराबाद अंतरराष्ट्रीय हवाई अड्डे के रनवे 09R पर CAT III एयरफील्ड ग्राउंड लाइटिंग क्षमता शुरू की है। अब बहुत कम दृश्यता में भी विमान संचालन हो सकेगा। लेख के अनुसार सर्दियों में कोहरे के दौरान उड़ानों के डायवर्जन और देरी कम होंगी। सीईओ कदिर कदिरवन ने कहा कि यात्रियों को कम देरी का सामना करना पड़ेगा।",
+    "pts": [
+     "CAT II से CAT III में अपग्रेड",
+     "बहुत कम दृश्यता में भी लैंडिंग संभव",
+     "स्वदेशी PLC-SCADA प्रणाली से लाइटिंग नियंत्रण"
+    ],
+    "why": "सर्दियों में हैदराबाद से उड़ान भरने वालों को देरी और डायवर्जन कम झेलने पड़ सकते हैं।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "86",
+   "statl": "బస్ స్టేషన్లు",
+   "h": "అన్ని బస్ స్టేషన్లలో సీసీటీవీ కెమెరాలు: టీజీఎస్ఆర్టీసీ",
+   "p": "ప్రయాణికుల భద్రత, రద్దీ నియంత్రణ కోసం అన్ని బస్ స్టేషన్లలో సీసీటీవీ కెమెరాలు ఏర్పాటు చేయాలని టీజీఎస్ఆర్టీసీ నిర్ణయించింది. రోజుకు 5 వేల మందికి పైగా ప్రయాణించే 86 ప్రధాన బస్ స్టేషన్లలో ఒక్కో కంట్రోలర్‌ను నియమించి, ఎంక్వైరీ నంబర్లు అందుబాటులో ఉంచారు. త్వరలో కొత్త టైమ్‌టేబుల్ బోర్డులు ఏర్పాటు చేస్తామని, సీసీటీవీలను ప్రధాన కార్యాలయానికి అనుసంధానిస్తామని ఆర్టీసీ తెలిపింది.",
+   "pts": [
+    "86 ప్రధాన స్టేషన్లలో కంట్రోలర్లు, ఎంక్వైరీ నంబర్లు",
+    "మొదటి, చివరి బస్సుల సమయాలపై అనౌన్స్‌మెంట్లు",
+    "సీసీటీవీలకు కేంద్రీకృత పర్యవేక్షణ"
+   ],
+   "why": "రోజూ ఆర్టీసీ బస్సుల్లో ప్రయాణించే లక్షలాది మందికి భద్రత, సమాచారం మెరుగుపడతాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tgsrtc-plans-cctv-at-bus-stations-augmentation-of-passenger-f6246537",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-10T13:51+05:30",
+   "en": {
+    "cat": "Telangana · RTC",
+    "statl": "Bus stations",
+    "h": "CCTV cameras at all bus stations: TGSRTC",
+    "p": "TGSRTC has decided to install CCTV cameras at all bus stations for passenger safety and crowd management. At 86 major bus stations with over 5,000 passengers a day, a controller has been appointed at each and enquiry numbers provided. The RTC said new timetable boards will be put up soon and the CCTVs will be linked to its headquarters.",
+    "pts": [
+     "Controllers, enquiry numbers at 86 major stations",
+     "Announcements on first and last bus timings",
+     "Centralised monitoring of CCTVs"
+    ],
+    "why": "Safety and information will improve for the lakhs who travel by RTC buses daily."
+   },
+   "hi": {
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "बस स्टेशन",
+    "h": "सभी बस स्टेशनों पर सीसीटीवी कैमरे: टीजीएसआरटीसी",
+    "p": "टीजीएसआरटीसी ने यात्रियों की सुरक्षा और भीड़ प्रबंधन के लिए सभी बस स्टेशनों पर सीसीटीवी कैमरे लगाने का फैसला किया है। रोज़ 5,000 से अधिक यात्रियों वाले 86 प्रमुख बस स्टेशनों पर एक-एक कंट्रोलर नियुक्त किया गया है और पूछताछ नंबर दिए गए हैं। आरटीसी ने कहा कि जल्द नए टाइमटेबल बोर्ड लगेंगे और सीसीटीवी मुख्यालय से जोड़े जाएंगे।",
+    "pts": [
+     "86 प्रमुख स्टेशनों पर कंट्रोलर, पूछताछ नंबर",
+     "पहली और आखिरी बस के समय की घोषणा",
+     "सीसीटीवी की केंद्रीकृत निगरानी"
+    ],
+    "why": "रोज़ आरटीसी बसों से सफर करने वाले लाखों लोगों की सुरक्षा और जानकारी बेहतर होगी।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "తెలంగాణ · రైల్వే",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "1 జనవరి",
+   "statl": "సూపర్‌ఫాస్ట్‌గా మార్పు",
+   "h": "చర్లపల్లి–తిరుచానూరు ఎక్స్‌ప్రెస్ ఇక సూపర్‌ఫాస్ట్",
+   "p": "చర్లపల్లి–తిరుచానూరు–చర్లపల్లి ఎక్స్‌ప్రెస్‌ను 2027 జనవరి 1 నుంచి సూపర్‌ఫాస్ట్ రైలుగా మారుస్తున్నట్లు దక్షిణ మధ్య రైల్వే ప్రకటించింది. రైలు నంబర్ 17047 ఇకపై 12729గా, 17048 ఇకపై 12730గా మారుతుంది. బయలుదేరే సమయాల్లో మార్పు లేదు. తిరుచానూరు నుంచి వచ్చే రైలు చర్లపల్లికి ఉదయం 7కు బదులు 6 గంటలకే చేరుకుంటుంది.",
+   "pts": [
+    "2027 జనవరి 1 నుంచి అమలు",
+    "రైలు నంబర్లు 12729, 12730గా మార్పు",
+    "తిరుగు ప్రయాణంలో గంట ముందే రాక"
+   ],
+   "why": "హైదరాబాద్ నుంచి తిరుపతి వెళ్లే భక్తులు, ప్రయాణికులకు కొత్త నంబర్లు, సమయం తెలుసుకోవాలి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/charlapalli-tiruchanur-express-to-become-superfast-4f0406f4",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "చర్లపల్లి",
+   "pub": "2026-11-10T13:07+05:30",
+   "en": {
+    "cat": "Telangana · Railways",
+    "statl": "Turns superfast",
+    "h": "Charlapalli–Tiruchanur Express to become superfast",
+    "p": "South Central Railway said the Charlapalli–Tiruchanur–Charlapalli Express will become a superfast train from January 1, 2027. Train No. 17047 will be renumbered 12729 and 17048 will become 12730. Departure times are unchanged. The train from Tiruchanur will reach Charlapalli at 6 am instead of 7 am.",
+    "pts": [
+     "Effective from January 1, 2027",
+     "Renumbered 12729 and 12730",
+     "Return train arrives an hour earlier"
+    ],
+    "why": "Pilgrims and passengers travelling between Hyderabad and Tirupati need to note the new numbers and timing."
+   },
+   "hi": {
+    "cat": "तेलंगाना · रेलवे",
+    "statl": "सुपरफास्ट बनेगी",
+    "h": "चर्लापल्ली–तिरुचानूर एक्सप्रेस अब सुपरफास्ट होगी",
+    "p": "दक्षिण मध्य रेलवे ने कहा कि चर्लापल्ली–तिरुचानूर–चर्लापल्ली एक्सप्रेस 1 जनवरी 2027 से सुपरफास्ट ट्रेन बनेगी। ट्रेन नंबर 17047 का नया नंबर 12729 और 17048 का 12730 होगा। प्रस्थान समय में कोई बदलाव नहीं है। तिरुचानूर से आने वाली ट्रेन चर्लापल्ली सुबह 7 के बजाय 6 बजे पहुंचेगी।",
+    "pts": [
+     "1 जनवरी 2027 से लागू",
+     "नए नंबर 12729 और 12730",
+     "वापसी ट्रेन एक घंटा पहले पहुंचेगी"
+    ],
+    "why": "हैदराबाद और तिरुपति के बीच सफर करने वाले श्रद्धालुओं व यात्रियों को नए नंबर और समय जानने होंगे।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "నల్గొండ · విద్యార్థుల భద్రత",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "విచారణ",
+   "statl": "తల్లిదండ్రుల డిమాండ్",
+   "h": "నిడమనూరు గురుకులంలో పారిశుద్ధ్య కార్మికుడిపై విద్యార్థినుల ఆరోపణ",
+   "p": "నల్గొండ జిల్లా నిడమనూరులోని సోషల్ వెల్ఫేర్ రెసిడెన్షియల్ జూనియర్ కళాశాలలో ఒక పారిశుద్ధ్య కార్మికుడు తమతో అనుచితంగా ప్రవర్తిస్తున్నాడని విద్యార్థినులు ఆరోపించారు. ఫిర్యాదు చేసినా యాజమాన్యం స్పందించలేదని వారు ఆరోపించారు. తల్లిదండ్రులు కళాశాలకు చేరుకుని విచారణకు డిమాండ్ చేశారు. విద్యార్థినుల వాంగ్మూలాలను గోప్యంగా నమోదు చేయాలని విద్యార్థి సంఘాలు కోరాయని Telangana Today కథనం పేర్కొంది.",
+   "pts": [
+    "కార్మికుడిపై విద్యార్థినుల ఆరోపణ",
+    "యాజమాన్యం స్పందించలేదని ఆరోపణ",
+    "గోప్యంగా వాంగ్మూలాల నమోదుకు డిమాండ్"
+   ],
+   "why": "గురుకులాల్లో చదువుతున్న బాలికల భద్రతపై తల్లిదండ్రుల్లో ఆందోళన నెలకొంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/girl-students-allege-harassment-by-sanitary-worker-at-nidamanoor-gurukulam",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "నిడమనూరు",
+   "pub": "2026-11-10T13:18+05:30",
+   "en": {
+    "cat": "Nalgonda · Student safety",
+    "statl": "Parents demand probe",
+    "h": "Nidamanoor gurukulam students allege harassment by sanitary worker",
+    "p": "Girl students at the Social Welfare Residential Junior College in Nidamanoor, Nalgonda district, alleged that a sanitary worker behaved inappropriately with them. They alleged that management did not respond to their complaints. Parents reached the college and demanded an inquiry. Student organisations sought that the girls' statements be recorded confidentially, Telangana Today reported.",
+    "pts": [
+     "Students allege misconduct by worker",
+     "Allege management ignored complaints",
+     "Demand for confidential recording of statements"
+    ],
+    "why": "Parents are worried about the safety of girls studying in residential colleges."
+   },
+   "hi": {
+    "cat": "नलगोंडा · छात्र सुरक्षा",
+    "statl": "अभिभावकों ने जांच मांगी",
+    "h": "निडमनूर गुरुकुल की छात्राओं का सफाईकर्मी पर उत्पीड़न का आरोप",
+    "p": "नलगोंडा जिले के निडमनूर स्थित सोशल वेलफेयर रेज़िडेंशियल जूनियर कॉलेज की छात्राओं ने आरोप लगाया कि एक सफाईकर्मी ने उनके साथ अनुचित व्यवहार किया। उन्होंने आरोप लगाया कि शिकायत करने पर भी प्रबंधन ने कोई कार्रवाई नहीं की। अभिभावक कॉलेज पहुंचे और जांच की मांग की। तेलंगाना टुडे के अनुसार छात्र संगठनों ने छात्राओं के बयान गोपनीय रूप से दर्ज करने की मांग की।",
+    "pts": [
+     "छात्राओं का कर्मी पर दुर्व्यवहार का आरोप",
+     "प्रबंधन पर शिकायत अनसुनी करने का आरोप",
+     "बयान गोपनीय दर्ज करने की मांग"
+    ],
+    "why": "आवासीय कॉलेजों में पढ़ रही छात्राओं की सुरक्षा को लेकर अभिभावक चिंतित हैं।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "MLC",
+   "statl": "పట్టభద్రుల ఎన్నికలు",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలపై కేటీఆర్ కీలక భేటీ",
+   "p": "త్వరలో జరగనున్న పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలే ప్రధాన ఎజెండాగా బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ మంగళవారం తెలంగాణ భవన్‌లో పార్టీ సీనియర్ నేతలతో సమావేశం కానున్నారని తెలుగుపోస్ట్ కథనం పేర్కొంది. ఎన్నికల వ్యూహం, ఓటర్ల నమోదు, అభ్యర్థుల ఎంపికపై చర్చ జరిగే అవకాశం ఉంది. ఈ ఎన్నికలను పార్టీ ప్రతిష్ఠాత్మకంగా తీసుకుంటోందని కథనం తెలిపింది.",
+   "pts": [
+    "తెలంగాణ భవన్‌లో సీనియర్ నేతలతో భేటీ",
+    "ఓటర్ల నమోదు, ప్రచార వ్యూహంపై చర్చ",
+    "అభ్యర్థుల ఎంపికపై చర్చకు అవకాశం"
+   ],
+   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేసే గ్రాడ్యుయేట్లకు ఈ ఎన్నికల పోటీ ముఖ్యం.",
+   "src": "Telugu Post",
+   "url": "https://www.telugupost.com/telangana/ktr-meeting-brs-leaders-hyderabad-today-1625479",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-10T11:33+05:30",
+   "en": {
+    "cat": "Telangana · Politics",
+    "statl": "Graduate MLC polls",
+    "h": "KTR holds key meeting on Graduate MLC elections",
+    "p": "BRS working president KTR is to meet senior party leaders at Telangana Bhavan on Tuesday with the upcoming Graduate MLC elections as the main agenda, Telugu Post reported. Election strategy, voter enrolment and possibly candidate selection are likely to be discussed. The report said the party is treating the polls as a prestige contest.",
+    "pts": [
+     "Meeting with senior leaders at Telangana Bhavan",
+     "Voter enrolment, campaign strategy on agenda",
+     "Candidate selection may be discussed"
+    ],
+    "why": "The contest matters to graduates who vote in the Graduate MLC elections."
+   },
+   "hi": {
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "स्नातक एमएलसी चुनाव",
+    "h": "स्नातक एमएलसी चुनाव पर केटीआर की अहम बैठक",
+    "p": "तेलुगुपोस्ट के अनुसार बीआरएस कार्यकारी अध्यक्ष केटीआर मंगलवार को तेलंगाना भवन में आगामी स्नातक एमएलसी चुनावों को मुख्य एजेंडा बनाकर पार्टी के वरिष्ठ नेताओं से मिलेंगे। चुनावी रणनीति, मतदाता पंजीकरण और संभवतः उम्मीदवार चयन पर चर्चा होगी। रिपोर्ट के अनुसार पार्टी इन चुनावों को प्रतिष्ठा का सवाल मान रही है।",
+    "pts": [
+     "तेलंगाना भवन में वरिष्ठ नेताओं से बैठक",
+     "मतदाता पंजीकरण, प्रचार रणनीति पर चर्चा",
+     "उम्मीदवार चयन पर चर्चा संभव"
+    ],
+    "why": "स्नातक एमएलसी चुनाव में वोट देने वाले स्नातकों के लिए यह मुकाबला अहम है।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "38",
+   "statl": "లక్ష్యంగా గుర్తించిన వంతెనలు",
+   "h": "ఇరాన్‌తో యుద్ధం సైనికంగా దాదాపు ముగిసింది: ట్రంప్",
+   "p": "ఖతార్ ప్రధానితో భేటీ తర్వాత ఇరాన్‌తో యుద్ధం సైనికంగా దాదాపు ముగిసిందని అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ సోమవారం విలేకరులతో అన్నారు. యుద్ధం ముగింపు దిశగా సానుకూల పురోగతి ఉందని, అయితే అణు కార్యక్రమంపై దీర్ఘకాల పరిష్కారం కావాలని చెప్పారు. గత వారంలో అమెరికా దళాలు ఇరాన్‌పై కనీసం రెండుసార్లు పరిమిత దాడులు చేశాయని AP కథనం పేర్కొంది.",
+   "pts": [
+    "ఖతార్ ప్రధానితో భేటీ తర్వాత ప్రకటన",
+    "అణు కార్యక్రమంపై దీర్ఘకాల పరిష్కారం కోరిక",
+    "ఎనిమిది నెలలుగా కొనసాగుతున్న యుద్ధం"
+   ],
+   "why": "ఈ యుద్ధం ఇంధన ధరలపై ప్రభావం చూపుతోంది; ముగిస్తే భారత్‌లో పెట్రోల్ ధరలపై ప్రభావం ఉండొచ్చు.",
+   "src": "AP (via Telangana Today)",
+   "url": "https://telanganatoday.com/trump-after-meeting-qatar-pm-says-he-believes-war-with-iran-is-effectively-over",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pub": "2026-11-10T12:53+05:30",
+   "en": {
+    "cat": "World · USA",
+    "statl": "Bridges identified as targets",
+    "h": "War with Iran 'effectively over' militarily: Trump",
+    "p": "After meeting Qatar's prime minister, US President Donald Trump told reporters on Monday that the war with Iran is militarily effectively over. He cited positive momentum towards ending the war but said a long-term solution on the nuclear programme is still needed. US forces carried out limited strikes on Iran at least twice in the past week, AP reported.",
+    "pts": [
+     "Statement after meeting Qatar PM",
+     "Wants long-term solution on nuclear programme",
+     "War has lasted eight months"
+    ],
+    "why": "The war has affected fuel prices; its end could influence petrol prices in India."
+   },
+   "hi": {
+    "cat": "विश्व · अमेरिका",
+    "statl": "निशाने के रूप में चिह्नित पुल",
+    "h": "ईरान से युद्ध सैन्य रूप से लगभग खत्म: ट्रंप",
+    "p": "कतर के प्रधानमंत्री से मुलाकात के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोमवार को पत्रकारों से कहा कि ईरान के साथ युद्ध सैन्य रूप से लगभग खत्म हो चुका है। उन्होंने युद्ध खत्म होने की दिशा में सकारात्मक प्रगति की बात कही, लेकिन कहा कि परमाणु कार्यक्रम पर दीर्घकालिक समाधान अभी चाहिए। एपी के अनुसार पिछले सप्ताह अमेरिकी बलों ने ईरान पर कम से कम दो बार सीमित हमले किए।",
+    "pts": [
+     "कतर के पीएम से मुलाकात के बाद बयान",
+     "परमाणु कार्यक्रम पर दीर्घकालिक समाधान की चाह",
+     "आठ महीने से चल रहा युद्ध"
+    ],
+    "why": "इस युद्ध का असर ईंधन कीमतों पर पड़ा है; इसके खत्म होने से भारत में पेट्रोल कीमतों पर असर पड़ सकता है।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "2",
+   "statl": "కొత్త ఏఐ మోడళ్లు",
+   "h": "కోడింగ్, సైబర్ సెక్యూరిటీ కోసం ఆంత్రోపిక్ కొత్త క్లాడ్ 5.2 మోడళ్లు",
+   "p": "ఆంత్రోపిక్ సంస్థ క్లాడ్ ఫేబుల్ 5.2, క్లాడ్ మిథోస్ 5.2 అనే రెండు ఏఐ మోడళ్లను విడుదల చేసింది. కోడింగ్, గణితం, సైబర్ సెక్యూరిటీ, రోబోటిక్స్, శాస్త్రీయ పరిశోధనల కోసం వీటిని రూపొందించినట్లు IANS కథనం తెలిపింది. ఫేబుల్ సాధారణ వినియోగదారుల కోసం కాగా, మిథోస్ కఠిన నియంత్రణలతో సున్నిత పరిశోధనలకు ఎక్కువ అవకాశం ఇస్తుంది. ఇవి గంటలు, రోజుల తరబడి స్వతంత్రంగా పనిచేయగలవని కథనం పేర్కొంది.",
+   "pts": [
+    "ఫేబుల్ 5.2 సాధారణ వినియోగదారుల కోసం",
+    "మిథోస్ 5.2 కఠిన నియంత్రణలతో",
+    "దరఖాస్తు ద్వారా మిథోస్ యాక్సెస్"
+   ],
+   "why": "ఏఐ టూల్స్ వాడే భారత సాఫ్ట్‌వేర్ ఉద్యోగులు, విద్యార్థులకు ఇది ముఖ్యమైన టెక్ పరిణామం.",
+   "src": "IANS (via Telangana Today)",
+   "url": "https://telanganatoday.com/anthropic-unveils-two-new-claude-5-2-models-for-advanced-coding-cybersecurity",
+   "sec": [
+    "world",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pub": "2026-11-10T13:35+05:30",
+   "en": {
+    "cat": "World · Technology",
+    "statl": "New AI models",
+    "h": "Anthropic unveils new Claude 5.2 models for coding, cybersecurity",
+    "p": "Anthropic has released two AI models, Claude Fable 5.2 and Claude Mythos 5.2. According to IANS, they are built for coding, mathematics, cybersecurity, robotics and scientific research. Fable is for general users, while Mythos gives more access to sensitive research with tighter controls. The report said the models can work independently for hours or days.",
+    "pts": [
+     "Fable 5.2 for general users",
+     "Mythos 5.2 with tighter controls",
+     "Mythos access by application"
+    ],
+    "why": "An important tech development for Indian software workers and students who use AI tools."
+   },
+   "hi": {
+    "cat": "विश्व · टेक्नोलॉजी",
+    "statl": "नए एआई मॉडल",
+    "h": "कोडिंग, साइबर सुरक्षा के लिए एंथ्रोपिक के नए क्लॉड 5.2 मॉडल",
+    "p": "एंथ्रोपिक ने क्लॉड फेबल 5.2 और क्लॉड मिथोस 5.2 नाम के दो एआई मॉडल जारी किए हैं। आईएएनएस के अनुसार ये कोडिंग, गणित, साइबर सुरक्षा, रोबोटिक्स और वैज्ञानिक शोध के लिए बनाए गए हैं। फेबल आम उपयोगकर्ताओं के लिए है, जबकि मिथोस कड़े नियंत्रणों के साथ संवेदनशील शोध के लिए अधिक पहुंच देता है। रिपोर्ट के अनुसार ये मॉडल घंटों या दिनों तक स्वतंत्र रूप से काम कर सकते हैं।",
+    "pts": [
+     "फेबल 5.2 आम उपयोगकर्ताओं के लिए",
+     "मिथोस 5.2 कड़े नियंत्रणों के साथ",
+     "आवेदन के ज़रिए मिथोस की पहुंच"
+    ],
+    "why": "एआई टूल इस्तेमाल करने वाले भारतीय सॉफ्टवेयर कर्मियों और छात्रों के लिए यह अहम तकनीकी विकास है।"
+   },
+   "d": "10.11.2026",
+   "t": "16:05"
+  },
   {
    "cat": "మేడ్చల్ · నేరం",
    "col": "--c-power",
