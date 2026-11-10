@@ -8,6 +8,16 @@
    "eligible": 12,
    "published": 0,
    "gaps": "Hindu, IE, NIE, HT, TOI, ET, Moneycontrol, Telegraph, BBC, Guardian, Reuters, AP, PTI blocked; Hans India, ETV Bharat, DH, Tribune errors; Eenadu robots; Sakshi/AJ/NT/TV9/V6/NTV no article times"
+  },
+  {
+   "window": "2026-11-09T22:35:00+05:30/2026-11-10T07:00:00+05:30",
+   "status": "manual-partial",
+   "eligible": 10,
+   "published": 10,
+   "duplicates": 0,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Manual edition from chat (feeds blocked to WebFetch; search-based). Cutoff NOT moved so the next run can still cover the overnight window."
   }
  ],
  "seen": [
@@ -70,6 +80,56 @@
    "url": "https://www.deccanchronicle.com/southern-states/telangana/diwali-crackers-injure-74-eyes-in-hyderabad-2002993",
    "d": "09.11.2026",
    "w": "22:35"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/food-poisoning-at-patnam-mahender-reddy-medical-college-2556278",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/gram-panchayats-to-direct-own-revenues-to-dedicated-bank-accounts-for-local-development-2556491",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/pawan-kalyan-and-anna-lezhneva-announce-separation-after-13-years-of-marriage-2556536",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/telangana-police-academy-hosts-mental-health-conclave-to-address-strain-and-high-pressure-on-personnel-2556499",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/police-arrest-differently-abled-association-leaders-ahead-of-revanth-reddys-visit-2556529",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/telangana-high-court-upholds-cancellation-of-bail-for-accused-who-violated-court-imposed-conditions-2556366",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/farmer-dies-of-electric-shock-while-repairing-agricultural-motor-2556505",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/tushar-suveer-and-rakshitha-sri-win-singles-titles-at-telangana-india-international-challenge-badminton-tournament-2556409",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300",
+   "d": "10.11.2026",
+   "w": "07:00"
+  },
+  {
+   "url": "https://abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300",
+   "d": "10.11.2026",
+   "w": "07:00"
   }
  ]
 }
