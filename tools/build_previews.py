@@ -34,6 +34,8 @@ def dmy(d):
 
 SITE_SECS = [('telangana','తెలంగాణ'),('ap','ఆంధ్రప్రదేశ్'),('india','దేశం'),('world','ప్రపంచం'),('ai','AI & టెక్'),('jobs','ఉద్యోగ వార్తలు'),('business','బిజినెస్'),('education','విద్య'),('agri','వ్యవసాయం'),('weather','వాతావరణం'),('sports','క్రీడలు')]
 ARTICLE_CSS = """
+.corr{margin:14px 0 0;padding:10px 14px;border-left:4px solid #E0A100;background:#FFF4D6;color:#5C3900;border-radius:10px;font-size:15px;line-height:1.7}.corr b{color:#7A4B00}
+.wdn{margin:14px 0;padding:14px 16px;border-left:4px solid #C8102E;background:#FDECEE;color:#5C0A16;border-radius:12px;display:grid;gap:6px;font-size:16px;line-height:1.7}
 .agrid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:28px;margin-top:28px;align-items:start}
 @media (max-width:1020px){.agrid{grid-template-columns:1fr}}
 .ar{border-radius:24px;background:var(--paper);box-shadow:var(--shadow);overflow:hidden}
@@ -124,9 +126,19 @@ def page(sid, s, kind, img, has_card, target, desc, related):
                 ('<ul class="pts">' + "".join(f"<li>{e(x)}</li>" for x in pts) + "</ul>" if pts else "") +
                 (f'<p class="why"><small>ఇది ఎందుకు ముఖ్యం?</small>{e(s.get("why"))}</p>' if s.get("why") else ""))
         src = f'<p class="src">మూలం: {e(s.get("src"))}' + (f' · <a href="{e(s.get("url"))}" target="_blank" rel="noopener nofollow">పూర్తి వార్త చదవండి →</a>' if s.get("url") else "") + "</p>"
+        c = s.get("corr") if isinstance(s.get("corr"), dict) else {}
+        if s.get("wd"):   # withdrawn (corrections policy, 10 Nov 2026): keep the link alive, show only the notice
+            body = (f'<p class="wdn"><b>⚠️ ఈ వార్తను Way2Sec ఉపసంహరించుకుంది{(" · " + e(c.get("at"))) if c.get("at") else ""}</b>'
+                    f'<span>{e(c.get("te") or "ఈ వార్తలోని సమాచారం సరైనది కాదని తేలింది. పాఠకులకు క్షమాపణలు.")}</span></p>')
+        elif c.get("te"):
+            body += f'<p class="corr"><b>✏️ సవరణ{(" · " + e(c.get("at"))) if c.get("at") else ""}:</b> <span>{e(c["te"])}</span></p>'
     share_text = f"{title}\n{SITE}/s/{sid}"
     trs = {l: {k: s[l][k] for k in ("h", "p", "pts", "why", "cat", "stat", "statl", "posts", "qual", "exp", "loc", "age", "how", "walk") if isinstance(s.get(l), dict) and s[l].get(k)} for l in ("en", "hi") if isinstance(s.get(l), dict)}
     trs = {l: v for l, v in trs.items() if v.get("h")}
+    if isinstance(s.get("corr"), dict) and not s.get("wd"):
+        for l, lab in (("en", "✏️ Correction"), ("hi", "✏️ सुधार")):
+            if l in trs and s["corr"].get(l):
+                trs[l]["corr"] = s["corr"][l]; trs[l]["corrl"] = lab + (f' · {s["corr"]["at"]}' if s["corr"].get("at") else "") + ":"
     tr_json = ('<script type="application/json" id="w2sTr">' + json.dumps(trs, ensure_ascii=False).replace("</", "<\\/") + "</script>") if trs else ""
     import urllib.parse as up
     rel_cards = "".join(
@@ -142,7 +154,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
     return f"""<!doctype html><html lang="te"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{e(title)} | Way2Sec</title>
-<meta name="description" content="{e(desc)}">
+{'<meta name="robots" content="noindex">' if s.get("wd") else ""}<meta name="description" content="{e(desc)}">
 <meta property="og:type" content="article"><meta property="og:site_name" content="Way2Sec News">
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
@@ -358,7 +370,7 @@ def main():
                 target = f"/?wishes=1&s={sid}" if "wishes" in secs(s) else (f"/?d={iso}&s={sid}" if iso else f"/?s={sid}")
                 desc = (s.get("p") or "")[:160]
                 mine = set(secs(s))
-                related = [(rid, r) for k2, r, rid in uniq if k2 == "news" and rid != sid and mine & set(secs(r))][:4]
+                related = [(rid, r) for k2, r, rid in uniq if k2 == "news" and rid != sid and not r.get("wd") and mine & set(secs(r))][:4]
             out = page(sid, s, kind, img, os.path.exists(img_path), target, desc, related)
             sp = os.path.join(ROOT, "s", sid + ".html")
             prev = open(sp, encoding="utf-8").read() if os.path.exists(sp) else None
@@ -395,6 +407,7 @@ def main():
         # sitemap for Google (home, sections, static pages, every article) + robots.txt
         urls = [(SITE + "/", None), (SITE + "/about.html", None), (SITE + "/contact.html", None), (SITE + "/privacy.html", None), (SITE + "/epaper/", None)]
         for kind, s, sid in uniq:
+            if s.get("wd"): continue
             urls.append((f"{SITE}/s/{sid}", iso_time(s)))
         sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
         for u, lm in urls:

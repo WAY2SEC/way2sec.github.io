@@ -192,6 +192,8 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .sum{margin:0;font-size:clamp(14px,3.9vw,16px);line-height:1.62}
 .foot{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;padding-top:8px;border-top:1px solid var(--line)}
 .src{font-size:12.5px;color:var(--muted);font-weight:600}
+.corr{margin:6px 0 0;font-size:12.5px;line-height:1.55;color:#7A4B00;background:#FFF4D6;border-left:3px solid #E0A100;border-radius:6px;padding:5px 8px}
+.corr b{color:#7A4B00}
 .src b{color:var(--ink)}
 .read{font-size:13px;font-weight:800;color:var(--hl-ink);text-decoration:none;min-height:30px;display:inline-flex;align-items:center}
 .hint{font-size:11.5px;color:var(--muted);font-weight:600;text-align:center}
@@ -668,9 +670,9 @@ function pick0(){
     if(prefs.place!=='TS') l = l.filter(j=>j.place===prefs.place).concat(l.filter(j=>j.place!==prefs.place));
     return l;
   }
-  if(view==='date' && DAY) return DAY.stories;
+  if(view==='date' && DAY) return DAY.stories.filter(s=>!s.wd);
   if(section==='wishes') return (WISHES.stories||[]).slice();
-  const all = NEWS.stories;
+  const all = NEWS.stories.filter(s=>!s.wd); // "wd" = withdrawn by the editor (corrections policy, 10 Nov 2026)
   if(section==='district') return localFirst(all.filter(s=>inPlace(s,prefs.place)));
   let list = section==='all' ? all : all.filter(s=>secsOf(s).includes(section));
   return localFirst(list);
@@ -752,6 +754,9 @@ function promoHTML(s,i){
   <div class="pbtn"><a class="btn" href="${esc(CONFIG.CHANNEL)}" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a><button class="btn ghost" type="button" data-psh="1">${s.greet?'🪔 శుభాకాంక్షలు పంపండి':'స్నేహితులకు పంపండి'}</button></div>
 </article>`;
 }
+/* corrections (10 Nov 2026): s.corr = {at:"DD.MM.YYYY HH:MM", te, en, hi} */
+function corrNote(s){ const c=s&&s.corr; if(!c||typeof c!=='object') return ''; const l=s._lang||'te', tx=c[l]||c.te||''; if(!tx) return '';
+  return `<p class="corr"><b>✏️ ${({te:'సవరణ',en:'Correction',hi:'सुधार'})[l]||'సవరణ'}${c.at?' · '+esc(c.at):''}:</b> ${esc(tx)}</p>`; }
 function cardHTML(s,i){
   if(s.kind==='promo') return promoHTML(s,i);
   if(s.kind==='job') return jobHTML(s,i);
@@ -769,7 +774,7 @@ function cardHTML(s,i){
   <div class="strip sm"><div class="lgw"><img src="logo-light.png" alt="Way2Sec"><span class="rt">${U('sub')}</span></div><span class="tg">${U('tag')}</span></div>
   <div class="text"${s._lang?` lang="${s._lang}"`:''}>
     ${kf}<h2>${esc(s.h)}</h2>
-    <p class="sum">${esc(s.p)}</p>
+    <p class="sum">${esc(s.p)}</p>${corrNote(s)}
     <div class="foot"><span class="src">${U('src')}: <b>${esc(s.src)}</b></span>${/^https?:\/\//.test(s.url||'')?`<a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">${U('read')}</a>`:''}</div>
     ${i===0?`<div class="hint">${U('hint')}</div>`:''}
   </div>

@@ -510,7 +510,7 @@ async function showDay(iso){
   r.querySelector('.dchips').onclick=e=>{const a=e.target.closest('a[data-d]'); if(!a) return; e.preventDefault(); pickTo(a.dataset.d);};
   if(!iso){ $('dayList').innerHTML='<div class="empty">ఇంకా పాత వార్తలు లేవు.</div>'; return; }
   if(!has.has(iso)){ $('dayList').innerHTML='<div class="empty">ఈ తేదీకి వార్తలు లేవు. పైన మరో తేదీ ఎంచుకోండి.</div>'; return; }
-  const d=await getJSON(`/archive/${iso}.json`); const list=((d&&d.stories)||[]).map(s=>w2sTr(Object.assign({d:d.date},s),sid));
+  const d=await getJSON(`/archive/${iso}.json`); const list=((d&&d.stories)||[]).filter(s=>!s.wd).map(s=>w2sTr(Object.assign({d:d.date},s),sid));
   $('dayList').innerHTML=list.length?`<p class="dcount">${list.length} వార్తలు</p><div class="grid">${list.map(card).join('')}</div>`:'<div class="empty">ఈ తేదీకి వార్తలు లేవు.</div>';
 }
 let qt; $('q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(route,180)});
@@ -566,7 +566,7 @@ async function load(){
   const days=((idx&&idx.dates)||[]).slice(0,3);
   const arch=await Promise.all(days.map(d=>getJSON(`/archive/${d.iso}.json`)));
   const seen=new Set(); let out=[];
-  [((news&&news.stories)||[]),...arch.map(a=>(a&&a.stories)||[])].flat().forEach(s=>{const k=sid(s); if(!seen.has(k)){seen.add(k);out.push(s);}});
+  [((news&&news.stories)||[]),...arch.map(a=>(a&&a.stories)||[])].flat().forEach(s=>{const k=sid(s); if(!seen.has(k)){seen.add(k);out.push(s);}}); out=out.filter(s=>!s.wd);
   out.sort((a,b)=>tsOf(b)-tsOf(a));
   { const now=Date.now(); const hot=out.filter(s=>s.brk && now-tsOf(s)<6*3600e3); out=hot.concat(out.filter(s=>!hot.includes(s))); }
   ALL=out.map(s=>w2sTr(s,sid)); JOBS=((jobs&&jobs.jobs)||[]).map(j=>w2sJob(j));

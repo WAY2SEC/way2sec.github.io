@@ -29,6 +29,8 @@ document.querySelectorAll('nav.secs').forEach(w2sNavFit); if(document.fonts) doc
   const h1=ar.querySelector('h1'); if(h1) h1.textContent=T.h; document.title=T.h+' | Way2Sec';
   const ld=ar.querySelector('.alead'); if(ld&&T.p) ld.textContent=T.p;
   const ul=ar.querySelector('.pts'); if(ul&&Array.isArray(T.pts)) ul.innerHTML=T.pts.map(x=>`<li>${esc(x)}</li>`).join('');
+  const cr=ar.querySelector('.corr span'); if(cr&&T.corr) cr.textContent=T.corr;
+  const cb=ar.querySelector('.corr b'); if(cb&&T.corrl) cb.textContent=T.corrl;
   const wy=ar.querySelector('.why'); if(wy&&T.why) wy.innerHTML=`<small>${esc(ui.why)}</small>${esc(T.why)}`;
   const sl=ar.querySelector('.statl'); if(sl&&T.statl) sl.textContent=T.statl;
   const st=ar.querySelector('.stat'); if(st&&T.stat){ st.textContent=T.stat; st.classList.toggle('te',/[\u0C00-\u0C7F\u0900-\u097F]/.test(T.stat)); }
@@ -57,7 +59,7 @@ async function getJSON(u){ try{ const r=await fetch(u+'?t='+Date.now(),{cache:'n
 
 (async()=>{
   const [news,jobs]=await Promise.all([getJSON('/news.json'),getJSON('/jobs.json')]);
-  const all=((news&&news.stories)||[]).map(s=>w2sTr(s,sid)).sort((a,b)=>tsOf(b)-tsOf(a)).filter(s=>sid(s)!==here);
+  const all=((news&&news.stories)||[]).filter(s=>!s.wd).map(s=>w2sTr(s,sid)).sort((a,b)=>tsOf(b)-tsOf(a)).filter(s=>sid(s)!==here);
   const tk=$('tick'); if(tk) tk.innerHTML=(t=>t+t)(all.slice(0,10).map(s=>`<a href="/s/${sid(s)}"><b>${s.brk?'🔴 BREAKING':esc(s.t||'')}</b>${esc(s.h)}</a>`).join(''));
   const lt=$('latest'); if(lt) lt.innerHTML=all.slice(0,6).map(s=>`<a class="it" href="/s/${sid(s)}"><span class="tm">${esc(s.t||'')}</span><span class="hd">${esc(s.h)}</span></a>`).join('');
   const mo=$('more'); if(mo){ const rel=new Set([...document.querySelectorAll('.sec .card')].map(a=>a.getAttribute('href').split('/').pop()));
