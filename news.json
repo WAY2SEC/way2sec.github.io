@@ -1,8 +1,311 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T15:14:07+05:30",
+ "updated": "2026-11-10T15:47:29+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "మేడ్చల్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2వ సారి",
+   "statl": "అదే దుకాణంలో చోరీ",
+   "h": "మేడ్చల్ పోలీస్ స్టేషన్ పక్కనే నగల దుకాణంలో చోరీ",
+   "p": "మేడ్చల్ పోలీస్ స్టేషన్ పక్కనే ఉన్న ఒక నగల దుకాణంలో మంగళవారం తెల్లవారుజామున చోరీ జరిగింది. గుర్తుతెలియని దొంగలు దుకాణం వెనుక గోడకు రంధ్రం చేసి లోపలికి ప్రవేశించి వెండి ఆభరణాలు ఎత్తుకెళ్లారు. ఉదయం దుకాణం తెరిచినప్పుడు చోరీ బయటపడింది. ఇదే దుకాణంలో ఇది రెండో చోరీ అని స్థానికులు చెప్పారు. పోలీసులు దర్యాప్తు ప్రారంభించారు; చోరీ సొత్తు విలువ ఇంకా అంచనా వేయాల్సి ఉంది.",
+   "pts": [
+    "వెనుక గోడకు రంధ్రం చేసి చోరీ",
+    "వెండి ఆభరణాలు అపహరణ",
+    "మేడ్చల్ పోలీసుల దర్యాప్తు"
+   ],
+   "why": "పోలీస్ స్టేషన్ పక్కనే చోరీ జరగడంతో వ్యాపారులు, స్థానికులు భద్రతపై ప్రశ్నిస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-jewellery-shop-next-to-medchal-police-station-burgled-silver-ornaments-stolen",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medchal",
+   "loc": "మేడ్చల్",
+   "pub": "2026-11-10T15:10+05:30",
+   "en": {
+    "cat": "Medchal · Crime",
+    "statl": "Second theft at same shop",
+    "h": "Jewellery shop next to Medchal police station burgled",
+    "p": "A jewellery shop next to Medchal Police Station was burgled early on Tuesday. Unidentified burglars made a hole in the shop's rear wall, entered and took silver ornaments. The theft came to light when the shop was opened in the morning. Locals said this is the second theft at the same shop. Police have begun an investigation; the value of the stolen silver is yet to be estimated.",
+    "pts": [
+     "Burglars broke in through rear wall",
+     "Silver ornaments stolen",
+     "Medchal police investigating"
+    ],
+    "why": "Traders and residents are questioning safety as the theft happened right next to a police station."
+   },
+   "hi": {
+    "cat": "मेडचल · अपराध",
+    "statl": "उसी दुकान में दूसरी चोरी",
+    "h": "मेडचल पुलिस थाने के बगल में ज्वेलरी दुकान में चोरी",
+    "p": "मेडचल पुलिस थाने के बगल में स्थित एक ज्वेलरी दुकान में मंगलवार तड़के चोरी हुई। अज्ञात चोरों ने दुकान की पिछली दीवार में छेद कर अंदर घुसकर चांदी के गहने चुरा लिए। सुबह दुकान खोलने पर चोरी का पता चला। स्थानीय लोगों ने कहा कि इसी दुकान में यह दूसरी चोरी है। पुलिस ने जांच शुरू की है; चोरी गए सामान की कीमत का अभी आकलन होना है।",
+    "pts": [
+     "पिछली दीवार में छेद कर चोरी",
+     "चांदी के गहने चोरी",
+     "मेडचल पुलिस की जांच"
+    ],
+    "why": "थाने के ठीक बगल में चोरी होने से व्यापारी और निवासी सुरक्षा पर सवाल उठा रहे हैं।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ములుగు · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "DPR",
+   "statl": "కేంద్రం వెనక్కి పంపింది",
+   "h": "సమ్మక్కసాగర్ బ్యారేజీ డీపీఆర్‌ను వెనక్కి పంపిన కేంద్రం",
+   "p": "ములుగు జిల్లా తుపాకులగూడెం వద్ద నిర్మించాలనుకుంటున్న సమ్మక్కసాగర్ బ్యారేజీ సవివర ప్రాజెక్టు నివేదిక (డీపీఆర్)ను కేంద్రం రాష్ట్రానికి తిప్పి పంపింది. నివేదికలో పూర్తి వివరాలు లేవని, నిబంధనల ప్రకారం లేదని పేర్కొంది. దీంతో అనుమతులు ఆలస్యం కావచ్చు. అభ్యంతరాలు పరిష్కరించి సవరించిన డీపీఆర్ సమర్పించాల్సి ఉంటుందని వార్త కథనం.",
+   "pts": [
+    "తుపాకులగూడెం వద్ద బ్యారేజీ ప్రతిపాదన",
+    "పూర్తి వివరాలు లేవని కేంద్రం అభ్యంతరం",
+    "సవరించిన డీపీఆర్ సమర్పించాలి"
+   ],
+   "why": "దేవాదుల ద్వారా ఉమ్మడి ఖమ్మం, నల్గొండ, వరంగల్ జిల్లాల సాగునీటికి ఈ ప్రాజెక్టు కీలకం.",
+   "src": "Vaartha",
+   "url": "https://vaartha.com/telangana/sammakka-sagar-dpr-sent-back/802852/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "mulugu",
+   "loc": "తుపాకులగూడెం",
+   "pub": "2026-11-10T10:40+05:30",
+   "en": {
+    "cat": "Mulugu · Irrigation",
+    "statl": "Returned by the Centre",
+    "h": "Centre returns Sammakka Sagar barrage DPR to Telangana",
+    "p": "The Centre has returned to the state the detailed project report (DPR) of the Sammakka Sagar barrage planned at Tupakulagudem in Mulugu district. It said the report lacked full details and did not meet norms. Approval may therefore be delayed. According to the report, the state must resolve the objections and submit a revised DPR.",
+    "pts": [
+     "Barrage proposed at Tupakulagudem",
+     "Centre objects to missing details",
+     "Revised DPR must be submitted"
+    ],
+    "why": "The project is key to irrigation in combined Khammam, Nalgonda and Warangal districts via Devadula."
+   },
+   "hi": {
+    "cat": "मुलुगु · सिंचाई",
+    "statl": "केंद्र ने लौटाई",
+    "h": "केंद्र ने सम्मक्का सागर बैराज की डीपीआर लौटाई",
+    "p": "केंद्र ने मुलुगु जिले के तुपाकुलगुडेम में प्रस्तावित सम्मक्का सागर बैराज की विस्तृत परियोजना रिपोर्ट (डीपीआर) राज्य को लौटा दी है। उसने कहा कि रिपोर्ट में पूरे विवरण नहीं हैं और यह मानकों के अनुसार नहीं है। इससे मंजूरी में देरी हो सकती है। रिपोर्ट के अनुसार राज्य को आपत्तियां दूर कर संशोधित डीपीआर जमा करनी होगी।",
+    "pts": [
+     "तुपाकुलगुडेम में बैराज का प्रस्ताव",
+     "अधूरे विवरण पर केंद्र की आपत्ति",
+     "संशोधित डीपीआर जमा करनी होगी"
+    ],
+    "why": "देवादुला के जरिए संयुक्त खम्मम, नलगोंडा और वरंगल जिलों की सिंचाई के लिए यह परियोजना अहम है।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "720",
+   "statl": "గ్రూప్-2 పోస్టులు",
+   "h": "నేడు ఏపీపీఎస్సీ గ్రూప్-2 నోటిఫికేషన్: 720 పోస్టులు",
+   "p": "ఏపీపీఎస్సీ గ్రూప్-2 ఉద్యోగాల సమగ్ర నోటిఫికేషన్ ఈరోజు విడుదల కానుంది. 30 కేటగిరీల్లో మొత్తం 720 పోస్టులను భర్తీ చేయనున్నారు. గతంలో ప్రకటించిన 686 పోస్టుల కంటే ఇది 34 ఎక్కువ అని ఈటీవీ భారత్ కథనం పేర్కొంది.",
+   "pts": [
+    "30 కేటగిరీల్లో 720 పోస్టులు",
+    "గతంలో ప్రకటించినవి 686",
+    "34 పోస్టులు అదనం"
+   ],
+   "why": "ఏపీలో ప్రభుత్వ ఉద్యోగాలకు సిద్ధమవుతున్న నిరుద్యోగ యువతకు ఇది ముఖ్యమైన అవకాశం.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111000477#appsc-group2",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-10T08:33+05:30",
+   "en": {
+    "cat": "AP · Jobs",
+    "statl": "Group-2 posts",
+    "h": "APPSC Group-2 notification due today: 720 posts",
+    "p": "The APPSC comprehensive notification for Group-2 jobs is due to be released today. A total of 720 posts in 30 categories will be filled. ETV Bharat reported this is 34 more than the 686 posts announced earlier.",
+    "pts": [
+     "720 posts in 30 categories",
+     "686 announced earlier",
+     "34 additional posts"
+    ],
+    "why": "An important opportunity for unemployed youth preparing for government jobs in AP."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "ग्रुप-2 पद",
+    "h": "आज एपीपीएससी ग्रुप-2 अधिसूचना: 720 पद",
+    "p": "एपीपीएससी ग्रुप-2 नौकरियों की विस्तृत अधिसूचना आज जारी होनी है। 30 श्रेणियों में कुल 720 पद भरे जाएंगे। ईटीवी भारत के अनुसार यह पहले घोषित 686 पदों से 34 अधिक है।",
+    "pts": [
+     "30 श्रेणियों में 720 पद",
+     "पहले 686 पद घोषित",
+     "34 अतिरिक्त पद"
+    ],
+    "why": "आंध्र प्रदेश में सरकारी नौकरी की तैयारी कर रहे बेरोजगार युवाओं के लिए अहम अवसर।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "వికారాబాద్ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2",
+   "statl": "పోలీసులకు తీవ్ర గాయాలు",
+   "h": "పరిగిలో పోలీసు వాహనం బోల్తా: ఇద్దరు పోలీసులకు గాయాలు",
+   "p": "వికారాబాద్ జిల్లా పరిగిలో పోలీసు వాహనం అదుపు తప్పి డివైడర్‌ను ఢీకొని బోల్తా పడింది. ఈ ఘటనలో ఇద్దరు పోలీసులకు తీవ్ర గాయాలు కాగా ఆసుపత్రికి తరలించారు. ముఖ్యమంత్రి పర్యటన బందోబస్తు విధులు ముగించుకుని తిరిగి వస్తుండగా ప్రమాదం జరిగిందని ఈటీవీ భారత్ కథనం.",
+   "pts": [
+    "డ్రైవర్ అదుపు తప్పి డివైడర్‌కు ఢీ",
+    "ఇద్దరు పోలీసులకు తీవ్ర గాయాలు",
+    "సీఎం పర్యటన బందోబస్తు నుంచి తిరుగు ప్రయాణం"
+   ],
+   "why": "రహదారులపై వేగం, జాగ్రత్తల అవసరాన్ని ఈ ప్రమాదం మరోసారి గుర్తుచేస్తోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#pargi-police-vehicle",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "పరిగి",
+   "pub": "2026-11-10T08:19+05:30",
+   "en": {
+    "cat": "Vikarabad · Accident",
+    "statl": "Policemen seriously injured",
+    "h": "Police vehicle overturns in Pargi; two policemen injured",
+    "p": "A police vehicle went out of control, hit a divider and overturned at Pargi in Vikarabad district. Two policemen were seriously injured and taken to hospital. According to ETV Bharat, the accident happened while the vehicle was returning from security duty for the Chief Minister's visit.",
+    "pts": [
+     "Driver lost control, hit divider",
+     "Two policemen seriously injured",
+     "Returning from CM visit security duty"
+    ],
+    "why": "The accident is another reminder of the need for caution on roads."
+   },
+   "hi": {
+    "cat": "विकाराबाद · हादसा",
+    "statl": "पुलिसकर्मी गंभीर घायल",
+    "h": "परिगी में पुलिस वाहन पलटा, दो पुलिसकर्मी घायल",
+    "p": "विकाराबाद जिले के परिगी में एक पुलिस वाहन अनियंत्रित होकर डिवाइडर से टकराया और पलट गया। इसमें दो पुलिसकर्मी गंभीर रूप से घायल हुए, जिन्हें अस्पताल ले जाया गया। ईटीवी भारत के अनुसार वाहन मुख्यमंत्री के दौरे की सुरक्षा ड्यूटी से लौट रहा था।",
+    "pts": [
+     "चालक का नियंत्रण छूटा, डिवाइडर से टक्कर",
+     "दो पुलिसकर्मी गंभीर घायल",
+     "सीएम दौरे की सुरक्षा ड्यूटी से वापसी"
+    ],
+    "why": "यह हादसा सड़कों पर सावधानी की जरूरत की फिर याद दिलाता है।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "తీవ్ర గాయాలు",
+   "h": "నాచారంలో ఆటోను ఢీకొన్న కారు: ముగ్గురికి తీవ్ర గాయాలు",
+   "p": "హైదరాబాద్ నాచారంలో వేగంగా వచ్చిన కారు ఆటోను ఢీకొంది. ఈ ప్రమాదంలో ముగ్గురికి తీవ్ర గాయాలయ్యాయి. నాచారం పోలీసులు క్షతగాత్రులను ఆసుపత్రికి తరలించారని ఈటీవీ భారత్ కథనం పేర్కొంది.",
+   "pts": [
+    "వేగంగా వచ్చిన కారు ఆటోకు ఢీ",
+    "ముగ్గురికి తీవ్ర గాయాలు",
+    "క్షతగాత్రులు ఆసుపత్రికి"
+   ],
+   "why": "నగర రహదారులపై అతివేగం ప్రమాదాలకు దారితీస్తోందని ఇది చూపుతోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#nacharam-accident",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నాచారం",
+   "pub": "2026-11-10T08:15+05:30",
+   "en": {
+    "cat": "Hyderabad · Accident",
+    "statl": "Seriously injured",
+    "h": "Car hits auto in Nacharam; three seriously injured",
+    "p": "A speeding car hit an auto-rickshaw at Nacharam in Hyderabad. Three people were seriously injured in the accident. ETV Bharat reported that Nacharam police shifted the injured to hospital.",
+    "pts": [
+     "Speeding car hit an auto",
+     "Three seriously injured",
+     "Injured shifted to hospital"
+    ],
+    "why": "It shows how speeding on city roads leads to accidents."
+   },
+   "hi": {
+    "cat": "हैदराबाद · हादसा",
+    "statl": "गंभीर घायल",
+    "h": "नाचारम में कार ने ऑटो को टक्कर मारी, तीन गंभीर घायल",
+    "p": "हैदराबाद के नाचारम में तेज रफ्तार कार ने एक ऑटो-रिक्शा को टक्कर मार दी। हादसे में तीन लोग गंभीर रूप से घायल हुए। ईटीवी भारत के अनुसार नाचारम पुलिस ने घायलों को अस्पताल पहुंचाया।",
+    "pts": [
+     "तेज रफ्तार कार ने ऑटो को टक्कर मारी",
+     "तीन गंभीर घायल",
+     "घायल अस्पताल भेजे गए"
+    ],
+    "why": "यह दिखाता है कि शहर की सड़कों पर तेज रफ्तार हादसों का कारण बन रही है।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · నంద్యాల",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "డిసెంబర్ 9",
+   "statl": "వరకు కార్తిక మాసోత్సవాలు",
+   "h": "శ్రీశైలంలో కార్తిక మాసోత్సవాలు ప్రారంభం: అభిషేకాలు నిలిపివేత",
+   "p": "నంద్యాల జిల్లా శ్రీశైలం ఆలయంలో కార్తిక మాసోత్సవాలు ప్రారంభమయ్యాయి, డిసెంబర్ 9 వరకు కొనసాగుతాయి. ఈ నెల రోజులు రూ.5,000 గర్భాలయ అభిషేకాలు, రూ.1,500 సామూహిక అభిషేకాలు రద్దు చేశారు. శని, ఆది, సోమవారాల్లో స్పర్శ దర్శనం ఉండదు; మంగళ నుంచి శుక్రవారం వరకు విడతలుగా అనుమతిస్తారు. 20న కోటి దీపోత్సవం జరగనుంది.",
+   "pts": [
+    "డిసెంబర్ 9 వరకు ఉత్సవాలు",
+    "శని, ఆది, సోమవారాల్లో స్పర్శ దర్శనం లేదు",
+    "20న కోటి దీపోత్సవం"
+   ],
+   "why": "కార్తిక మాసంలో శ్రీశైలం వెళ్లే తెలుగు రాష్ట్రాల భక్తులు ఈ మార్పులు తెలుసుకోవాలి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#srisailam-karthika",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-nandyal",
+   "loc": "శ్రీశైలం",
+   "pub": "2026-11-10T08:17+05:30",
+   "en": {
+    "cat": "AP · Nandyal",
+    "statl": "Karthika festivities till",
+    "h": "Karthika festivities begin at Srisailam; abhishekams suspended",
+    "p": "Karthika month festivities have begun at the Srisailam temple in Nandyal district and will continue until December 9. For this month, Rs 5,000 garbhalaya abhishekams and Rs 1,500 group abhishekams are cancelled. Touch darshan will not be available on Saturdays, Sundays and Mondays; it will be allowed in phases from Tuesday to Friday. A Koti Deepotsavam will be held on the 20th.",
+    "pts": [
+     "Festivities till December 9",
+     "No touch darshan Sat, Sun, Mon",
+     "Koti Deepotsavam on the 20th"
+    ],
+    "why": "Devotees from both Telugu states visiting Srisailam in Karthika month should know these changes."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · नंद्याल",
+    "statl": "तक कार्तिक उत्सव",
+    "h": "श्रीशैलम में कार्तिक मासोत्सव शुरू, अभिषेक स्थगित",
+    "p": "नंद्याल जिले के श्रीशैलम मंदिर में कार्तिक मासोत्सव शुरू हो गए हैं, जो 9 दिसंबर तक चलेंगे। इस महीने 5,000 रुपये के गर्भालय अभिषेक और 1,500 रुपये के सामूहिक अभिषेक रद्द रहेंगे। शनिवार, रविवार और सोमवार को स्पर्श दर्शन नहीं होगा; मंगलवार से शुक्रवार तक चरणों में अनुमति होगी। 20 तारीख को कोटि दीपोत्सव होगा।",
+    "pts": [
+     "9 दिसंबर तक उत्सव",
+     "शनि, रवि, सोम को स्पर्श दर्शन नहीं",
+     "20 को कोटि दीपोत्सव"
+    ],
+    "why": "कार्तिक माह में श्रीशैलम जाने वाले दोनों तेलुगु राज्यों के श्रद्धालुओं को ये बदलाव जानने चाहिए।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
   {
    "cat": "సిద్దిపేట · సంక్షేమం",
    "col": "--c-gov",
@@ -2205,253 +2508,6 @@
    }
   },
   {
-   "cat": "తెలంగాణ · రైతులు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "వరి వద్దు",
-   "statl": "యాసంగిలో సీఎం సూచన",
-   "h": "యాసంగిలో వరి వేయవద్దని రైతులకు సీఎం రేవంత్ రెడ్డి సూచన",
-   "p": "లగచర్లలో సోమవారం జరిగిన 'రైతన్నతో ఆత్మీయ సభ'లో ముఖ్యమంత్రి రేవంత్ రెడ్డి మాట్లాడారు. ఆహార ధాన్యాల నిల్వలు సరిపడా ఉన్నాయని, నీటి కొరత తీవ్రంగా ఉందని చెబుతూ వరి సాగు చేయవద్దని, నీటిని పొదుపుగా వాడాలని రైతులను కోరారు. యాసంగి రైతు భరోసా, పంట నష్ట పరిహారంపై ఎలాంటి ప్రకటన చేయలేదు. సంక్రాంతి తర్వాత ప్రజల వద్దకు వస్తామన్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/revanth-reddy-makes-no-rythu-bharosa-or-crop-loss-compensation-announcement-at-lagacherla",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "లగచర్ల",
-   "pts": [
-    "నీటి కొరత కారణంగా వరి వద్దని సూచన",
-    "రైతు భరోసా, పరిహారంపై ప్రకటన లేదు",
-    "శంషాబాద్–కొడంగల్ 200 అడుగుల రోడ్డును సమర్థించిన సీఎం"
-   ],
-   "why": "యాసంగి పంటల ఎంపికపై నిర్ణయం తీసుకునే రాష్ట్ర రైతులకు ఇది ముఖ్యమైన సమాచారం.",
-   "d": "09.11.2026",
-   "t": "21:35",
-   "en": {
-    "h": "CM Revanth Reddy urges farmers not to grow paddy this Yasangi",
-    "p": "Chief Minister Revanth Reddy addressed the 'Rythannatho Atmeeya Sabha' farmers' meeting at Lagacherla on Monday. Citing adequate foodgrain stocks and a severe water shortage, he asked farmers not to cultivate paddy and to use water sparingly. He made no announcement on Yasangi Rythu Bharosa or crop-loss compensation. He said he would reach out to people after Sankranti.",
-    "pts": [
-     "Asked farmers to avoid paddy due to water shortage",
-     "No announcement on Rythu Bharosa or compensation",
-     "CM defended 200-foot Shamshabad–Kodangal road"
-    ],
-    "why": "This matters for farmers across the state deciding which crops to sow this Yasangi.",
-    "cat": "Telangana · Farmers",
-    "statl": "CM's advice for Yasangi"
-   },
-   "hi": {
-    "h": "सीएम रेवंत रेड्डी की किसानों से अपील: इस यासंगी में धान न बोएं",
-    "p": "मुख्यमंत्री रेवंत रेड्डी ने सोमवार को लगचर्ला में 'रैतन्नतो आत्मीय सभा' किसान बैठक को संबोधित किया। अनाज का पर्याप्त भंडार और पानी की भारी कमी का हवाला देते हुए उन्होंने किसानों से धान न बोने और पानी किफायत से इस्तेमाल करने को कहा। यासंगी रैतु भरोसा या फसल नुकसान मुआवजे पर कोई घोषणा नहीं हुई। उन्होंने कहा कि संक्रांति के बाद वे लोगों के बीच आएंगे।",
-    "pts": [
-     "पानी की कमी के कारण धान न बोने की सलाह",
-     "रैतु भरोसा, मुआवजे पर कोई घोषणा नहीं",
-     "सीएम ने शमशाबाद–कोडंगल 200 फुट सड़क का बचाव किया"
-    ],
-    "why": "यासंगी में कौन-सी फसल बोएं, यह तय करने वाले राज्य के किसानों के लिए यह अहम जानकारी है।",
-    "cat": "तेलंगाना · किसान",
-    "statl": "यासंगी के लिए सीएम की सलाह"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · మెదక్",
-   "col": "--c-power",
-   "art": "farm",
-   "stat": "అలర్ట్",
-   "statl": "రైతులు ఒంటరిగా వెళ్లొద్దని సూచన",
-   "h": "రామాయంపేట వద్ద చిరుత సంచారం: మెదక్ రైతుల్లో ఆందోళన",
-   "p": "మెదక్ జిల్లా రామాయంపేట మండలం దంతెపల్లి శివారులోని కాకుల గుట్ట వద్ద ఆదివారం రాత్రి రోడ్డు దాటుతున్న చిరుతను ఓ ప్రయాణికుడు గమనించి తన ఫోన్‌లో వీడియో తీశాడు. దీంతో ఆ ప్రాంత రైతుల్లో భయం నెలకొంది. చిరుత తిరిగి అడవిలోకి వెళ్లే వరకు ఒంటరిగా పొలాలకు వెళ్లవద్దని అటవీ అధికారులు స్థానికులను అప్రమత్తం చేశారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/leopard-sighting-triggers-panic-among-farmers-in-medak",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "medak",
-   "loc": "రామాయంపేట",
-   "pts": [
-    "కాకుల గుట్ట వద్ద రోడ్డు దాటిన చిరుత",
-    "ప్రయాణికుడి ఫోన్‌లో వీడియో రికార్డు",
-    "స్థానికులను అప్రమత్తం చేసిన అటవీ అధికారులు"
-   ],
-   "why": "రామాయంపేట పరిసర గ్రామాల రైతులు పొలాలకు వెళ్లేటప్పుడు జాగ్రత్తగా ఉండాలి.",
-   "d": "09.11.2026",
-   "t": "21:35",
-   "en": {
-    "h": "Leopard spotted near Ramayampet, Medak farmers worried",
-    "p": "A commuter spotted a leopard crossing the road at Kakula Gutta on the outskirts of Danthepally in Ramayampet mandal of Medak district on Sunday night and filmed it on his phone. The sighting caused fear among farmers in the area. Forest officials alerted locals and advised farmers not to go to fields alone until the leopard returns to the forest.",
-    "pts": [
-     "Leopard crossed the road at Kakula Gutta",
-     "Commuter recorded video on his phone",
-     "Forest officials put locals on alert"
-    ],
-    "why": "Farmers in villages around Ramayampet should take care while going to their fields.",
-    "cat": "Telangana · Medak",
-    "statl": "Farmers told not to go alone"
-   },
-   "hi": {
-    "h": "रामायमपेट के पास तेंदुआ दिखा, मेदक के किसानों में दहशत",
-    "p": "मेदक जिले के रामायमपेट मंडल में दंतेपल्ली के बाहरी इलाके काकुला गुट्टा पर रविवार रात एक यात्री ने सड़क पार करते तेंदुए को देखा और फोन पर वीडियो बना लिया। इससे इलाके के किसानों में डर फैल गया। वन अधिकारियों ने स्थानीय लोगों को सतर्क किया और कहा कि तेंदुए के जंगल लौटने तक किसान अकेले खेतों में न जाएं।",
-    "pts": [
-     "काकुला गुट्टा पर तेंदुए ने सड़क पार की",
-     "यात्री ने फोन पर वीडियो रिकॉर्ड किया",
-     "वन अधिकारियों ने लोगों को सतर्क किया"
-    ],
-    "why": "रामायमपेट के आसपास के गांवों के किसानों को खेत जाते समय सावधानी बरतनी चाहिए।",
-    "cat": "तेलंगाना · मेदक",
-    "statl": "किसानों को अकेले न जाने की सलाह"
-   }
-  },
-  {
-   "cat": "మహారాష్ట్ర · ముంబై",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "నవం. 25",
-   "statl": "వరకు రాకెట్ టపాసులపై నిషేధం",
-   "h": "ముంబైలో రాకెట్లు, ఆకాశ టపాసులపై నవంబర్ 25 వరకు నిషేధం",
-   "p": "అగ్ని ప్రమాదాలు పెరగడంతో ముంబై నగరమంతా రాకెట్లు, ఆకాశంలో పేలే టపాసులను నవంబర్ 9 నుంచి 25 రాత్రి 11:59 వరకు నిషేధిస్తూ బీఎంసీ కమిషనర్ ఉత్తర్వులు ఇచ్చారు. ఇళ్ల పైకప్పులు, బాల్కనీలు, పార్కింగ్ ప్రాంతాలు, మురికివాడలకూ ఇది వర్తిస్తుంది. నవంబర్ 8న ముంబై అగ్నిమాపక విభాగానికి 142 కాల్స్ రాగా, వాటిలో 137 టపాసులకు సంబంధించినవే.",
-   "src": "The CSR Journal",
-   "url": "https://thecsrjournal.in/mumbai-bmc-rockets-aerial-firecrackers-ban-november-2026-hindi",
-   "sec": [
-    "india"
-   ],
-   "st": "MH",
-   "place": "mh-mumbai",
-   "loc": "ముంబై",
-   "pts": [
-    "విపత్తు నిర్వహణ చట్టం కింద ఉత్తర్వులు",
-    "పోలీసులు, బీఎంసీ, అగ్నిమాపక శాఖకు అమలు బాధ్యత",
-    "ఇతర టపాసులకు ప్రస్తుత నిబంధనలే వర్తింపు"
-   ],
-   "why": "ముంబైలో నివసించే తెలుగువారు సహా అందరూ ఈ నిషేధాన్ని పాటించాల్సి ఉంటుంది.",
-   "d": "09.11.2026",
-   "t": "21:35",
-   "en": {
-    "h": "Mumbai bans rockets and aerial firecrackers until November 25",
-    "p": "With fire incidents rising, the BMC Commissioner has banned rockets and aerial firecrackers across Mumbai from November 9 to 11:59 pm on November 25. The ban also covers rooftops, balconies, parking areas and slums. On November 8, the Mumbai Fire Brigade received 142 calls, 137 of them linked to firecrackers.",
-    "pts": [
-     "Order issued under the Disaster Management Act",
-     "Police, BMC and fire brigade to enforce it",
-     "Other firecrackers remain under existing rules"
-    ],
-    "why": "Everyone in Mumbai, including Telugu residents, must follow this ban.",
-    "cat": "Maharashtra · Mumbai",
-    "statl": "Rocket firecracker ban until"
-   },
-   "hi": {
-    "h": "मुंबई में 25 नवंबर तक रॉकेट और आसमानी पटाखों पर बैन",
-    "p": "आग की घटनाएं बढ़ने पर बीएमसी आयुक्त ने पूरे मुंबई में 9 नवंबर से 25 नवंबर रात 11:59 बजे तक रॉकेट और आसमानी पटाखों पर रोक लगा दी है। यह रोक छतों, बालकनियों, पार्किंग और झुग्गी बस्तियों पर भी लागू है। 8 नवंबर को मुंबई फायर ब्रिगेड को 142 कॉल मिलीं, जिनमें 137 पटाखों से जुड़ी थीं।",
-    "pts": [
-     "आपदा प्रबंधन अधिनियम के तहत आदेश",
-     "पुलिस, बीएमसी और फायर ब्रिगेड करेंगे अमल",
-     "अन्य पटाखों पर मौजूदा नियम लागू"
-    ],
-    "why": "मुंबई में रहने वाले तेलुगु लोगों समेत सभी को इस प्रतिबंध का पालन करना होगा।",
-    "cat": "महाराष्ट्र · मुंबई",
-    "statl": "तक रॉकेट पटाखों पर रोक"
-   }
-  },
-  {
-   "cat": "బిహార్ · పట్నా",
-   "col": "--c-gov",
-   "art": "water",
-   "stat": "9",
-   "statl": "ఎన్‌డీఆర్‌ఎఫ్ బృందాల మోహరింపు",
-   "h": "ఛఠ్ పూజకు పట్నా సిద్ధం: నవంబర్ 12లోగా ఘాట్ల పనులు పూర్తి చేయాలని ఆదేశం",
-   "p": "ఛఠ్ పూజ ఏర్పాట్లపై పట్నా డివిజనల్ కమిషనర్ రాజేశ్ కుమార్ సమీక్ష నిర్వహించి, నవంబర్ 12లోగా అన్ని పనులు పూర్తి చేయాలని ఆదేశించారు. ఘాట్ల వద్ద శుభ్రత, వెలుతురు, తాగునీరు, మరుగుదొడ్లు, భద్రత ఏర్పాటు చేయాలన్నారు. దానాపూర్ నుంచి కంగన్ ఘాట్ వరకు 9 ఎన్‌డీఆర్‌ఎఫ్ బృందాలను మోహరిస్తారు. ప్రమాదకర ఘాట్లను ఎరుపు వస్త్రంతో గుర్తిస్తారు.",
-   "src": "Amar Ujala",
-   "url": "https://www.amarujala.com/bihar/patna/patna-administration-sets-november-12-deadline-for-chhath-preparations-9-ndrf-teams-to-be-deployed-2026-11-09",
-   "sec": [
-    "india",
-    "culture"
-   ],
-   "st": "BR",
-   "place": "st-BR",
-   "loc": "పట్నా",
-   "pts": [
-    "నవంబర్ 12 గడువుగా ఘాట్ల పనులు",
-    "నహాయ్-ఖాయ్ నుంచి ప్రత్యేక ట్రాఫిక్ ప్రణాళిక",
-    "నదీ నీటి మట్టాలపై పర్యవేక్షణకు ఆదేశం"
-   ],
-   "why": "ఛఠ్ పూజకు ఘాట్లకు వెళ్లే లక్షలాది భక్తుల భద్రతకు ఈ ఏర్పాట్లు ముఖ్యం.",
-   "d": "09.11.2026",
-   "t": "21:35",
-   "en": {
-    "h": "Patna gears up for Chhath: ghat work to finish by November 12",
-    "p": "Patna Divisional Commissioner Rajesh Kumar reviewed Chhath Puja arrangements and ordered all work to be completed by November 12. Ghats must have cleaning, lighting, drinking water, toilets and security. Nine NDRF teams will be deployed from Danapur to Kangan Ghat. Dangerous ghats will be marked with red cloth.",
-    "pts": [
-     "November 12 deadline for ghat work",
-     "Special traffic plan from Nahay-Khay",
-     "Orders to monitor river water levels"
-    ],
-    "why": "These arrangements are key to the safety of lakhs of devotees visiting ghats for Chhath.",
-    "cat": "Bihar · Patna",
-    "statl": "NDRF teams deployed"
-   },
-   "hi": {
-    "h": "छठ के लिए पटना तैयार: 12 नवंबर तक घाटों का काम पूरा करने का निर्देश",
-    "p": "पटना के प्रमंडलीय आयुक्त राजेश कुमार ने छठ पूजा की तैयारियों की समीक्षा की और 12 नवंबर तक सभी काम पूरे करने का निर्देश दिया। घाटों पर सफाई, रोशनी, पेयजल, शौचालय और सुरक्षा की व्यवस्था करनी होगी। दानापुर से कंगन घाट तक एनडीआरएफ की 9 टीमें तैनात होंगी। खतरनाक घाटों को लाल कपड़े से चिह्नित किया जाएगा।",
-    "pts": [
-     "घाटों के काम के लिए 12 नवंबर की समय सीमा",
-     "नहाय-खाय से विशेष ट्रैफिक प्लान",
-     "नदी के जलस्तर की निगरानी के निर्देश"
-    ],
-    "why": "छठ पर घाटों पर जाने वाले लाखों श्रद्धालुओं की सुरक्षा के लिए ये इंतजाम अहम हैं।",
-    "cat": "बिहार · पटना",
-    "statl": "एनडीआरएफ टीमें तैनात"
-   }
-  },
-  {
-   "cat": "ప్రపంచం · వాతావరణం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "35%",
-   "statl": "2035 నాటికి విద్యుత్ వాటా లక్ష్యం",
-   "h": "తుర్కియేలో కాప్31 వాతావరణ సదస్సు ప్రారంభం: విద్యుదీకరణపై దృష్టి",
-   "p": "ఐక్యరాజ్యసమితి వాతావరణ సదస్సు కాప్31 సోమవారం తుర్కియేలోని అంటాల్యాలో ప్రారంభమైంది. 2035 నాటికి ప్రపంచ ఇంధన డిమాండ్‌లో కనీసం 35 శాతం విద్యుత్ ద్వారా తీరాలన్న స్వచ్ఛంద ప్రతిజ్ఞను తుర్కియే ముందుకు తెచ్చింది. ప్రస్తుతం ఇది ఐదో వంతు మాత్రమే. ఇరాన్ యుద్ధంతో హోర్ముజ్ చమురు రవాణా దెబ్బతినడంతో భారత్ సహా ఆసియా దేశాలు బొగ్గుపై ఆధారపడటం పెరిగింది.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "'35-బై-35' విద్యుదీకరణ ప్రతిజ్ఞ ప్రతిపాదన",
-    "అదనపు విద్యుత్ తక్కువ కార్బన్‌ది కావాలన్న నిబంధన లేదని విమర్శ",
-    "శిలాజ ఇంధనాల నుంచి వైదొలగే మార్గం కోరుతున్న పసిఫిక్ దేశాలు"
-   ],
-   "why": "ఈ సదస్సు నిర్ణయాలు భారత్ సహా దేశాల ఇంధన, బొగ్గు వినియోగ విధానాలపై ప్రభావం చూపవచ్చు.",
-   "d": "09.11.2026",
-   "t": "21:35",
-   "en": {
-    "h": "COP31 climate summit opens in Turkiye with focus on electrification",
-    "p": "The UN climate conference COP31 opened on Monday in Antalya, Turkiye. Turkiye is pushing a non-binding pledge for electricity to meet at least 35 percent of global energy demand by 2035. Today it is only about one-fifth. With the Iran war disrupting oil shipments through Hormuz, Asian countries including India have leaned more on coal.",
-    "pts": [
-     "'35-by-35' electrification pledge proposed",
-     "Critics say it doesn't require extra power to be low-carbon",
-     "Pacific nations seek a roadmap away from fossil fuels"
-    ],
-    "why": "Decisions at this summit could affect energy and coal policies of countries including India.",
-    "cat": "World · Climate",
-    "statl": "Electricity share target by 2035"
-   },
-   "hi": {
-    "h": "तुर्किये में कॉप31 जलवायु सम्मेलन शुरू, विद्युतीकरण पर जोर",
-    "p": "संयुक्त राष्ट्र का जलवायु सम्मेलन कॉप31 सोमवार को तुर्किये के अंताल्या में शुरू हुआ। तुर्किये एक स्वैच्छिक संकल्प आगे बढ़ा रहा है कि 2035 तक दुनिया की ऊर्जा मांग का कम से कम 35 प्रतिशत बिजली से पूरा हो। अभी यह करीब पांचवां हिस्सा है। ईरान युद्ध से होर्मुज के रास्ते तेल आपूर्ति बाधित होने पर भारत समेत एशियाई देशों की कोयले पर निर्भरता बढ़ी है।",
-    "pts": [
-     "'35-बाय-35' विद्युतीकरण संकल्प का प्रस्ताव",
-     "आलोचना: अतिरिक्त बिजली के कम-कार्बन होने की शर्त नहीं",
-     "प्रशांत देश जीवाश्म ईंधन छोड़ने का रोडमैप चाहते हैं"
-    ],
-    "why": "इस सम्मेलन के फैसले भारत समेत कई देशों की ऊर्जा और कोयला नीतियों पर असर डाल सकते हैं।",
-    "cat": "दुनिया · जलवायु",
-    "statl": "2035 तक बिजली हिस्सेदारी लक्ष्य"
-   }
-  },
-  {
    "cat": "కార్మికుల సమస్య · మహబూబాబాద్",
    "col": "--c-job",
    "art": "economy",
@@ -2507,105 +2563,6 @@
    "img": "photos/2026-11-09-gp-staff-wages-go6.jpg",
    "imgfy": 0.4,
    "local": true
-  },
-  {
-   "cat": "తెలంగాణ · కొత్తగూడెం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "2 మృతి",
-   "statl": "రెండు బైక్‌లు ఢీకొని",
-   "h": "పాల్వంచలో రెండు బైక్‌లు ఢీ: ఇద్దరు మృతి, మహిళకు గాయాలు",
-   "p": "భద్రాద్రి కొత్తగూడెం జిల్లా పాల్వంచ వద్ద ఆదివారం సాయంత్రం రెండు మోటార్‌సైకిళ్లు ఎదురెదురుగా ఢీకొన్నాయి. బంధువుల ఇంటికి వెళ్తున్న ఒక వాహనదారుడు అక్కడికక్కడే మృతి చెందాడు. మరో బైక్‌పై ఉన్న 29 ఏళ్ల యువకుడు చికిత్స పొందుతూ మరణించాడు. వెనుక కూర్చున్న మహిళ స్థానిక ప్రభుత్వ ఆసుపత్రిలో చికిత్స పొందింది. అతివేగమే కారణమని పోలీసులకు ఫిర్యాదు అందింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/two-killed-woman-injured-in-motorcycle-collision-in-paloncha",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "పాల్వంచ",
-   "pts": [
-    "రెండు మోటార్‌సైకిళ్లు ఎదురెదురుగా ఢీ",
-    "ఒకరు అక్కడికక్కడే, మరొకరు చికిత్స పొందుతూ మృతి",
-    "అతివేగం, నిర్లక్ష్యంపై పోలీసులకు ఫిర్యాదు"
-   ],
-   "why": "ద్విచక్ర వాహనదారులు వేగం తగ్గించి జాగ్రత్తగా నడపాలని ఈ ప్రమాదం గుర్తుచేస్తోంది.",
-   "en": {
-    "h": "Two bikes collide in Paloncha: two dead, woman injured",
-    "p": "Two motorcycles collided head-on at Paloncha in Bhadradri Kothagudem district on Sunday evening. One rider, on his way to a relative's house, died on the spot. The 29-year-old rider of the other bike died during treatment. A woman riding pillion was treated at the local government hospital. A police complaint alleges over-speeding caused the crash.",
-    "pts": [
-     "Two motorcycles collided head-on",
-     "One died on the spot, another during treatment",
-     "Police complaint alleges speeding and negligence"
-    ],
-    "why": "The crash is a reminder for two-wheeler riders to slow down and ride carefully.",
-    "cat": "Telangana · Kothagudem",
-    "statl": "Two bikes collided"
-   },
-   "hi": {
-    "h": "पालवंचा में दो बाइकों की टक्कर: दो की मौत, महिला घायल",
-    "p": "भद्राद्री कोत्तागुडेम जिले के पालवंचा में रविवार शाम दो मोटरसाइकिलें आमने-सामने टकरा गईं। रिश्तेदार के घर जा रहे एक चालक की मौके पर ही मौत हो गई। दूसरी बाइक के 29 वर्षीय चालक ने इलाज के दौरान दम तोड़ दिया। पीछे बैठी महिला का स्थानीय सरकारी अस्पताल में इलाज हुआ। पुलिस शिकायत में तेज रफ्तार को वजह बताया गया।",
-    "pts": [
-     "दो मोटरसाइकिलें आमने-सामने टकराईं",
-     "एक की मौके पर, दूसरे की इलाज के दौरान मौत",
-     "तेज रफ्तार और लापरवाही की पुलिस शिकायत"
-    ],
-    "why": "यह हादसा दोपहिया चालकों को रफ्तार कम कर सावधानी से चलाने की याद दिलाता है।",
-    "cat": "तेलंगाना · कोत्तागुडेम",
-    "statl": "दो बाइकें टकराईं"
-   },
-   "d": "09.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "మధ్యప్రదేశ్ · ఇండోర్",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "10,000",
-   "statl": "పశువుల సామర్థ్యం గల గోశాల",
-   "h": "మధ్యప్రదేశ్‌లో రూ.24 కోట్లతో 10 వేల పశువుల గోశాల ప్రారంభం",
-   "p": "ఇండోర్ జిల్లా మహూలో రూ.24 కోట్లతో నిర్మించిన 'కామధేను గోశాల'ను మధ్యప్రదేశ్ సీఎం మోహన్ యాదవ్ ప్రారంభించారు. దీనిలో 10 వేల పశువులను ఉంచవచ్చు. ఒక్కో ఆవుకు రోజువారీ సబ్సిడీని రూ.20 నుంచి రూ.40కి పెంచినట్లు చెప్పారు. రాష్ట్రంలో 3,000 గోశాలల్లో 5.67 లక్షలకు పైగా పశువులు ఉన్నాయి. ప్రధాన నగరాలన్నింటిలో ఇలాంటివి నిర్మిస్తున్నారు.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/mp-cm-inaugurates-rs-24-cr-cow-shelter-with-capacity-to-house-10000-cattle/3094414/",
-   "sec": [
-    "india",
-    "agri"
-   ],
-   "st": "MP",
-   "place": "st-MP",
-   "loc": "మహూ",
-   "pts": [
-    "మహూలో రూ.24 కోట్లతో కామధేను గోశాల",
-    "ఆవుకు రోజువారీ సబ్సిడీ రూ.20 నుంచి రూ.40కి",
-    "3,000 గోశాలల్లో 5.67 లక్షల పశువులు"
-   ],
-   "why": "వీధుల్లో వదిలేసిన పశువుల సమస్యకు, పాడి రైతులకు ఈ నిర్ణయాలు సంబంధించినవి.",
-   "en": {
-    "h": "Madhya Pradesh opens Rs 24-crore shelter for 10,000 cattle",
-    "p": "Madhya Pradesh Chief Minister Mohan Yadav inaugurated the 'Kamadhenu Gaushala' in Mhow, Indore district, built for Rs 24 crore. It can house 10,000 cattle. He said the daily subsidy per cow has been doubled from Rs 20 to Rs 40. Over 5.67 lakh cattle live in 3,000 shelters in the state. Similar shelters are being built in all major cities.",
-    "pts": [
-     "Kamadhenu Gaushala built in Mhow for Rs 24 crore",
-     "Daily subsidy per cow raised from Rs 20 to Rs 40",
-     "5.67 lakh cattle housed in 3,000 shelters"
-    ],
-    "why": "The steps relate to stray cattle on streets and to dairy farmers.",
-    "cat": "Madhya Pradesh · Indore",
-    "statl": "Cattle capacity of the shelter"
-   },
-   "hi": {
-    "h": "मध्य प्रदेश में 24 करोड़ की 10,000 मवेशियों वाली गौशाला शुरू",
-    "p": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव ने इंदौर जिले के महू में 24 करोड़ रुपये से बनी 'कामधेनु गौशाला' का उद्घाटन किया। इसमें 10,000 मवेशी रखे जा सकते हैं। उन्होंने बताया कि प्रति गाय दैनिक अनुदान 20 से बढ़ाकर 40 रुपये किया गया है। राज्य की 3,000 गौशालाओं में 5.67 लाख से अधिक मवेशी हैं। सभी बड़े शहरों में ऐसी गौशालाएं बन रही हैं।",
-    "pts": [
-     "महू में 24 करोड़ की कामधेनु गौशाला",
-     "प्रति गाय दैनिक अनुदान 20 से 40 रुपये",
-     "3,000 गौशालाओं में 5.67 लाख मवेशी"
-    ],
-    "why": "ये कदम सड़कों पर छोड़े गए मवेशियों और पशुपालकों से जुड़े हैं।",
-    "cat": "मध्य प्रदेश · इंदौर",
-    "statl": "गौशाला की मवेशी क्षमता"
-   },
-   "d": "09.11.2026",
-   "t": "20:05"
   },
   {
    "cat": "ప్రత్యేక కథనం · ఉద్యోగాలు",

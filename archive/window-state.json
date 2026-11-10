@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-10T15:05:00+05:30",
+ "cutoff": "2026-11-10T15:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -218,6 +218,19 @@
    "skipped": 1,
    "review": 2,
    "gaps": "Search-first; WebFetch via sub-agent. CNBC gold page fetch failed (gold already covered today). V6 Velugu CM-vs-KCR page and Sakshi Education AP banking-jobs page have no time zone (review). ETV Bharat AP live blog snapshot only to 09:22; AP cabinet outcome still not found. Newsroom hold returned 'not allowed' – 2 held stories not sent. Telangana Today/TOI/The Hindu/Eenadu/Reuters/BBC searches gave only listing pages; no international-topic or other-state items found with in-range timestamps."
+  },
+  {
+   "window": "2026-11-10T15:05:00+05:30/2026-11-10T15:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 9,
+   "published": 6,
+   "late": 5,
+   "sensitive": 3,
+   "corrected": 0,
+   "duplicates": 2,
+   "skipped": 3,
+   "review": 2,
+   "gaps": "Search-first; WebFetch via sub-agent. munsifdaily.com fetch failed; Hans India PVNR expressway article (1140681) and TN rain article blocked by fetch permission (review). TMV cyclone-roads article has no time (review). ETV Bharat TG/AP live blogs stop at 08:19/09:22, Andhra Jyothy at 07:30. Siasat/DC/Hans listing items were from 9 Nov or before lookback. No in-range international-topic or other-state items found; AP cabinet outcome still not found."
   }
  ],
  "seen": [
@@ -580,6 +593,91 @@
    "url": "https://www.ntnews.com/telangana/farmers-protest-against-millers-over-low-paddy-procurement-prices-2556514",
    "d": "10.11.2026",
    "w": "15:05"
+  },
+  {
+   "url": "https://telanganatoday.com/hyderabad-jewellery-shop-next-to-medchal-police-station-burgled-silver-ornaments-stolen",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://vaartha.com/telangana/sammakka-sagar-dpr-sent-back/802852/",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111000477#appsc-group2",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#pargi-police-vehicle",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#nacharam-accident",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#srisailam-karthika",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://telanganatoday.com/andhra-pradesh-passengers-safe-as-bus-catches-fire-in-ba49d53b",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-10th-november-2026-3709.html",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111000477",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.siasat.com/five-injured-as-nepal-karnataka-car-crashes-in-gadwal-district-3572189/",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.siasat.com/mediation-can-speed-up-consumer-justice-telangana-hc-acting-cj-3572307/",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.siasat.com/andhra-cm-directs-officials-to-remain-alert-after-fire-accidents-3572202/",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.siasat.com/tfa-suspends-former-india-captain-shabbir-ali-for-one-year-3572305/",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://newsable.asianetnews.com/india/telangana-cm-revanth-reddy-embarks-on-padayatra-in-vikarabad-district-articleshow-xug6fzf",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://newsable.asianetnews.com/india/revanth-reddy-warns-pm-modi-and-kcr-of-tsunami-like-praja-balam-wave-articleshow-1brhn4b",
+   "d": "10.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://tmv.in/article/cyclone-murasu-damages-1302-km-of-roads-across-andhra-pradesh",
+   "d": "10.11.2026",
+   "w": "review"
+  },
+  {
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/kia-car-wrecked-in-pvnr-expressway-accident-in-hyderabad-1140681",
+   "d": "10.11.2026",
+   "w": "review"
   }
  ]
 }

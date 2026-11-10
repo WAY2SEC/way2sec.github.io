@@ -1,8 +1,311 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 34,
+ "count": 40,
  "stories": [
+  {
+   "cat": "మేడ్చల్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2వ సారి",
+   "statl": "అదే దుకాణంలో చోరీ",
+   "h": "మేడ్చల్ పోలీస్ స్టేషన్ పక్కనే నగల దుకాణంలో చోరీ",
+   "p": "మేడ్చల్ పోలీస్ స్టేషన్ పక్కనే ఉన్న ఒక నగల దుకాణంలో మంగళవారం తెల్లవారుజామున చోరీ జరిగింది. గుర్తుతెలియని దొంగలు దుకాణం వెనుక గోడకు రంధ్రం చేసి లోపలికి ప్రవేశించి వెండి ఆభరణాలు ఎత్తుకెళ్లారు. ఉదయం దుకాణం తెరిచినప్పుడు చోరీ బయటపడింది. ఇదే దుకాణంలో ఇది రెండో చోరీ అని స్థానికులు చెప్పారు. పోలీసులు దర్యాప్తు ప్రారంభించారు; చోరీ సొత్తు విలువ ఇంకా అంచనా వేయాల్సి ఉంది.",
+   "pts": [
+    "వెనుక గోడకు రంధ్రం చేసి చోరీ",
+    "వెండి ఆభరణాలు అపహరణ",
+    "మేడ్చల్ పోలీసుల దర్యాప్తు"
+   ],
+   "why": "పోలీస్ స్టేషన్ పక్కనే చోరీ జరగడంతో వ్యాపారులు, స్థానికులు భద్రతపై ప్రశ్నిస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-jewellery-shop-next-to-medchal-police-station-burgled-silver-ornaments-stolen",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medchal",
+   "loc": "మేడ్చల్",
+   "pub": "2026-11-10T15:10+05:30",
+   "en": {
+    "cat": "Medchal · Crime",
+    "statl": "Second theft at same shop",
+    "h": "Jewellery shop next to Medchal police station burgled",
+    "p": "A jewellery shop next to Medchal Police Station was burgled early on Tuesday. Unidentified burglars made a hole in the shop's rear wall, entered and took silver ornaments. The theft came to light when the shop was opened in the morning. Locals said this is the second theft at the same shop. Police have begun an investigation; the value of the stolen silver is yet to be estimated.",
+    "pts": [
+     "Burglars broke in through rear wall",
+     "Silver ornaments stolen",
+     "Medchal police investigating"
+    ],
+    "why": "Traders and residents are questioning safety as the theft happened right next to a police station."
+   },
+   "hi": {
+    "cat": "मेडचल · अपराध",
+    "statl": "उसी दुकान में दूसरी चोरी",
+    "h": "मेडचल पुलिस थाने के बगल में ज्वेलरी दुकान में चोरी",
+    "p": "मेडचल पुलिस थाने के बगल में स्थित एक ज्वेलरी दुकान में मंगलवार तड़के चोरी हुई। अज्ञात चोरों ने दुकान की पिछली दीवार में छेद कर अंदर घुसकर चांदी के गहने चुरा लिए। सुबह दुकान खोलने पर चोरी का पता चला। स्थानीय लोगों ने कहा कि इसी दुकान में यह दूसरी चोरी है। पुलिस ने जांच शुरू की है; चोरी गए सामान की कीमत का अभी आकलन होना है।",
+    "pts": [
+     "पिछली दीवार में छेद कर चोरी",
+     "चांदी के गहने चोरी",
+     "मेडचल पुलिस की जांच"
+    ],
+    "why": "थाने के ठीक बगल में चोरी होने से व्यापारी और निवासी सुरक्षा पर सवाल उठा रहे हैं।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ములుగు · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "DPR",
+   "statl": "కేంద్రం వెనక్కి పంపింది",
+   "h": "సమ్మక్కసాగర్ బ్యారేజీ డీపీఆర్‌ను వెనక్కి పంపిన కేంద్రం",
+   "p": "ములుగు జిల్లా తుపాకులగూడెం వద్ద నిర్మించాలనుకుంటున్న సమ్మక్కసాగర్ బ్యారేజీ సవివర ప్రాజెక్టు నివేదిక (డీపీఆర్)ను కేంద్రం రాష్ట్రానికి తిప్పి పంపింది. నివేదికలో పూర్తి వివరాలు లేవని, నిబంధనల ప్రకారం లేదని పేర్కొంది. దీంతో అనుమతులు ఆలస్యం కావచ్చు. అభ్యంతరాలు పరిష్కరించి సవరించిన డీపీఆర్ సమర్పించాల్సి ఉంటుందని వార్త కథనం.",
+   "pts": [
+    "తుపాకులగూడెం వద్ద బ్యారేజీ ప్రతిపాదన",
+    "పూర్తి వివరాలు లేవని కేంద్రం అభ్యంతరం",
+    "సవరించిన డీపీఆర్ సమర్పించాలి"
+   ],
+   "why": "దేవాదుల ద్వారా ఉమ్మడి ఖమ్మం, నల్గొండ, వరంగల్ జిల్లాల సాగునీటికి ఈ ప్రాజెక్టు కీలకం.",
+   "src": "Vaartha",
+   "url": "https://vaartha.com/telangana/sammakka-sagar-dpr-sent-back/802852/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "mulugu",
+   "loc": "తుపాకులగూడెం",
+   "pub": "2026-11-10T10:40+05:30",
+   "en": {
+    "cat": "Mulugu · Irrigation",
+    "statl": "Returned by the Centre",
+    "h": "Centre returns Sammakka Sagar barrage DPR to Telangana",
+    "p": "The Centre has returned to the state the detailed project report (DPR) of the Sammakka Sagar barrage planned at Tupakulagudem in Mulugu district. It said the report lacked full details and did not meet norms. Approval may therefore be delayed. According to the report, the state must resolve the objections and submit a revised DPR.",
+    "pts": [
+     "Barrage proposed at Tupakulagudem",
+     "Centre objects to missing details",
+     "Revised DPR must be submitted"
+    ],
+    "why": "The project is key to irrigation in combined Khammam, Nalgonda and Warangal districts via Devadula."
+   },
+   "hi": {
+    "cat": "मुलुगु · सिंचाई",
+    "statl": "केंद्र ने लौटाई",
+    "h": "केंद्र ने सम्मक्का सागर बैराज की डीपीआर लौटाई",
+    "p": "केंद्र ने मुलुगु जिले के तुपाकुलगुडेम में प्रस्तावित सम्मक्का सागर बैराज की विस्तृत परियोजना रिपोर्ट (डीपीआर) राज्य को लौटा दी है। उसने कहा कि रिपोर्ट में पूरे विवरण नहीं हैं और यह मानकों के अनुसार नहीं है। इससे मंजूरी में देरी हो सकती है। रिपोर्ट के अनुसार राज्य को आपत्तियां दूर कर संशोधित डीपीआर जमा करनी होगी।",
+    "pts": [
+     "तुपाकुलगुडेम में बैराज का प्रस्ताव",
+     "अधूरे विवरण पर केंद्र की आपत्ति",
+     "संशोधित डीपीआर जमा करनी होगी"
+    ],
+    "why": "देवादुला के जरिए संयुक्त खम्मम, नलगोंडा और वरंगल जिलों की सिंचाई के लिए यह परियोजना अहम है।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "720",
+   "statl": "గ్రూప్-2 పోస్టులు",
+   "h": "నేడు ఏపీపీఎస్సీ గ్రూప్-2 నోటిఫికేషన్: 720 పోస్టులు",
+   "p": "ఏపీపీఎస్సీ గ్రూప్-2 ఉద్యోగాల సమగ్ర నోటిఫికేషన్ ఈరోజు విడుదల కానుంది. 30 కేటగిరీల్లో మొత్తం 720 పోస్టులను భర్తీ చేయనున్నారు. గతంలో ప్రకటించిన 686 పోస్టుల కంటే ఇది 34 ఎక్కువ అని ఈటీవీ భారత్ కథనం పేర్కొంది.",
+   "pts": [
+    "30 కేటగిరీల్లో 720 పోస్టులు",
+    "గతంలో ప్రకటించినవి 686",
+    "34 పోస్టులు అదనం"
+   ],
+   "why": "ఏపీలో ప్రభుత్వ ఉద్యోగాలకు సిద్ధమవుతున్న నిరుద్యోగ యువతకు ఇది ముఖ్యమైన అవకాశం.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111000477#appsc-group2",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-10T08:33+05:30",
+   "en": {
+    "cat": "AP · Jobs",
+    "statl": "Group-2 posts",
+    "h": "APPSC Group-2 notification due today: 720 posts",
+    "p": "The APPSC comprehensive notification for Group-2 jobs is due to be released today. A total of 720 posts in 30 categories will be filled. ETV Bharat reported this is 34 more than the 686 posts announced earlier.",
+    "pts": [
+     "720 posts in 30 categories",
+     "686 announced earlier",
+     "34 additional posts"
+    ],
+    "why": "An important opportunity for unemployed youth preparing for government jobs in AP."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "ग्रुप-2 पद",
+    "h": "आज एपीपीएससी ग्रुप-2 अधिसूचना: 720 पद",
+    "p": "एपीपीएससी ग्रुप-2 नौकरियों की विस्तृत अधिसूचना आज जारी होनी है। 30 श्रेणियों में कुल 720 पद भरे जाएंगे। ईटीवी भारत के अनुसार यह पहले घोषित 686 पदों से 34 अधिक है।",
+    "pts": [
+     "30 श्रेणियों में 720 पद",
+     "पहले 686 पद घोषित",
+     "34 अतिरिक्त पद"
+    ],
+    "why": "आंध्र प्रदेश में सरकारी नौकरी की तैयारी कर रहे बेरोजगार युवाओं के लिए अहम अवसर।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "వికారాబాద్ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "2",
+   "statl": "పోలీసులకు తీవ్ర గాయాలు",
+   "h": "పరిగిలో పోలీసు వాహనం బోల్తా: ఇద్దరు పోలీసులకు గాయాలు",
+   "p": "వికారాబాద్ జిల్లా పరిగిలో పోలీసు వాహనం అదుపు తప్పి డివైడర్‌ను ఢీకొని బోల్తా పడింది. ఈ ఘటనలో ఇద్దరు పోలీసులకు తీవ్ర గాయాలు కాగా ఆసుపత్రికి తరలించారు. ముఖ్యమంత్రి పర్యటన బందోబస్తు విధులు ముగించుకుని తిరిగి వస్తుండగా ప్రమాదం జరిగిందని ఈటీవీ భారత్ కథనం.",
+   "pts": [
+    "డ్రైవర్ అదుపు తప్పి డివైడర్‌కు ఢీ",
+    "ఇద్దరు పోలీసులకు తీవ్ర గాయాలు",
+    "సీఎం పర్యటన బందోబస్తు నుంచి తిరుగు ప్రయాణం"
+   ],
+   "why": "రహదారులపై వేగం, జాగ్రత్తల అవసరాన్ని ఈ ప్రమాదం మరోసారి గుర్తుచేస్తోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#pargi-police-vehicle",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "పరిగి",
+   "pub": "2026-11-10T08:19+05:30",
+   "en": {
+    "cat": "Vikarabad · Accident",
+    "statl": "Policemen seriously injured",
+    "h": "Police vehicle overturns in Pargi; two policemen injured",
+    "p": "A police vehicle went out of control, hit a divider and overturned at Pargi in Vikarabad district. Two policemen were seriously injured and taken to hospital. According to ETV Bharat, the accident happened while the vehicle was returning from security duty for the Chief Minister's visit.",
+    "pts": [
+     "Driver lost control, hit divider",
+     "Two policemen seriously injured",
+     "Returning from CM visit security duty"
+    ],
+    "why": "The accident is another reminder of the need for caution on roads."
+   },
+   "hi": {
+    "cat": "विकाराबाद · हादसा",
+    "statl": "पुलिसकर्मी गंभीर घायल",
+    "h": "परिगी में पुलिस वाहन पलटा, दो पुलिसकर्मी घायल",
+    "p": "विकाराबाद जिले के परिगी में एक पुलिस वाहन अनियंत्रित होकर डिवाइडर से टकराया और पलट गया। इसमें दो पुलिसकर्मी गंभीर रूप से घायल हुए, जिन्हें अस्पताल ले जाया गया। ईटीवी भारत के अनुसार वाहन मुख्यमंत्री के दौरे की सुरक्षा ड्यूटी से लौट रहा था।",
+    "pts": [
+     "चालक का नियंत्रण छूटा, डिवाइडर से टक्कर",
+     "दो पुलिसकर्मी गंभीर घायल",
+     "सीएम दौरे की सुरक्षा ड्यूटी से वापसी"
+    ],
+    "why": "यह हादसा सड़कों पर सावधानी की जरूरत की फिर याद दिलाता है।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3",
+   "statl": "తీవ్ర గాయాలు",
+   "h": "నాచారంలో ఆటోను ఢీకొన్న కారు: ముగ్గురికి తీవ్ర గాయాలు",
+   "p": "హైదరాబాద్ నాచారంలో వేగంగా వచ్చిన కారు ఆటోను ఢీకొంది. ఈ ప్రమాదంలో ముగ్గురికి తీవ్ర గాయాలయ్యాయి. నాచారం పోలీసులు క్షతగాత్రులను ఆసుపత్రికి తరలించారని ఈటీవీ భారత్ కథనం పేర్కొంది.",
+   "pts": [
+    "వేగంగా వచ్చిన కారు ఆటోకు ఢీ",
+    "ముగ్గురికి తీవ్ర గాయాలు",
+    "క్షతగాత్రులు ఆసుపత్రికి"
+   ],
+   "why": "నగర రహదారులపై అతివేగం ప్రమాదాలకు దారితీస్తోందని ఇది చూపుతోంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#nacharam-accident",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నాచారం",
+   "pub": "2026-11-10T08:15+05:30",
+   "en": {
+    "cat": "Hyderabad · Accident",
+    "statl": "Seriously injured",
+    "h": "Car hits auto in Nacharam; three seriously injured",
+    "p": "A speeding car hit an auto-rickshaw at Nacharam in Hyderabad. Three people were seriously injured in the accident. ETV Bharat reported that Nacharam police shifted the injured to hospital.",
+    "pts": [
+     "Speeding car hit an auto",
+     "Three seriously injured",
+     "Injured shifted to hospital"
+    ],
+    "why": "It shows how speeding on city roads leads to accidents."
+   },
+   "hi": {
+    "cat": "हैदराबाद · हादसा",
+    "statl": "गंभीर घायल",
+    "h": "नाचारम में कार ने ऑटो को टक्कर मारी, तीन गंभीर घायल",
+    "p": "हैदराबाद के नाचारम में तेज रफ्तार कार ने एक ऑटो-रिक्शा को टक्कर मार दी। हादसे में तीन लोग गंभीर रूप से घायल हुए। ईटीवी भारत के अनुसार नाचारम पुलिस ने घायलों को अस्पताल पहुंचाया।",
+    "pts": [
+     "तेज रफ्तार कार ने ऑटो को टक्कर मारी",
+     "तीन गंभीर घायल",
+     "घायल अस्पताल भेजे गए"
+    ],
+    "why": "यह दिखाता है कि शहर की सड़कों पर तेज रफ्तार हादसों का कारण बन रही है।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · నంద్యాల",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "డిసెంబర్ 9",
+   "statl": "వరకు కార్తిక మాసోత్సవాలు",
+   "h": "శ్రీశైలంలో కార్తిక మాసోత్సవాలు ప్రారంభం: అభిషేకాలు నిలిపివేత",
+   "p": "నంద్యాల జిల్లా శ్రీశైలం ఆలయంలో కార్తిక మాసోత్సవాలు ప్రారంభమయ్యాయి, డిసెంబర్ 9 వరకు కొనసాగుతాయి. ఈ నెల రోజులు రూ.5,000 గర్భాలయ అభిషేకాలు, రూ.1,500 సామూహిక అభిషేకాలు రద్దు చేశారు. శని, ఆది, సోమవారాల్లో స్పర్శ దర్శనం ఉండదు; మంగళ నుంచి శుక్రవారం వరకు విడతలుగా అనుమతిస్తారు. 20న కోటి దీపోత్సవం జరగనుంది.",
+   "pts": [
+    "డిసెంబర్ 9 వరకు ఉత్సవాలు",
+    "శని, ఆది, సోమవారాల్లో స్పర్శ దర్శనం లేదు",
+    "20న కోటి దీపోత్సవం"
+   ],
+   "why": "కార్తిక మాసంలో శ్రీశైలం వెళ్లే తెలుగు రాష్ట్రాల భక్తులు ఈ మార్పులు తెలుసుకోవాలి.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#srisailam-karthika",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-nandyal",
+   "loc": "శ్రీశైలం",
+   "pub": "2026-11-10T08:17+05:30",
+   "en": {
+    "cat": "AP · Nandyal",
+    "statl": "Karthika festivities till",
+    "h": "Karthika festivities begin at Srisailam; abhishekams suspended",
+    "p": "Karthika month festivities have begun at the Srisailam temple in Nandyal district and will continue until December 9. For this month, Rs 5,000 garbhalaya abhishekams and Rs 1,500 group abhishekams are cancelled. Touch darshan will not be available on Saturdays, Sundays and Mondays; it will be allowed in phases from Tuesday to Friday. A Koti Deepotsavam will be held on the 20th.",
+    "pts": [
+     "Festivities till December 9",
+     "No touch darshan Sat, Sun, Mon",
+     "Koti Deepotsavam on the 20th"
+    ],
+    "why": "Devotees from both Telugu states visiting Srisailam in Karthika month should know these changes."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · नंद्याल",
+    "statl": "तक कार्तिक उत्सव",
+    "h": "श्रीशैलम में कार्तिक मासोत्सव शुरू, अभिषेक स्थगित",
+    "p": "नंद्याल जिले के श्रीशैलम मंदिर में कार्तिक मासोत्सव शुरू हो गए हैं, जो 9 दिसंबर तक चलेंगे। इस महीने 5,000 रुपये के गर्भालय अभिषेक और 1,500 रुपये के सामूहिक अभिषेक रद्द रहेंगे। शनिवार, रविवार और सोमवार को स्पर्श दर्शन नहीं होगा; मंगलवार से शुक्रवार तक चरणों में अनुमति होगी। 20 तारीख को कोटि दीपोत्सव होगा।",
+    "pts": [
+     "9 दिसंबर तक उत्सव",
+     "शनि, रवि, सोम को स्पर्श दर्शन नहीं",
+     "20 को कोटि दीपोत्सव"
+    ],
+    "why": "कार्तिक माह में श्रीशैलम जाने वाले दोनों तेलुगु राज्यों के श्रद्धालुओं को ये बदलाव जानने चाहिए।"
+   },
+   "d": "10.11.2026",
+   "t": "15:35"
+  },
   {
    "cat": "సిద్దిపేట · సంక్షేమం",
    "col": "--c-gov",
