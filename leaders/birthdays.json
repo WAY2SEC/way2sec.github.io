@@ -1,6 +1,6 @@
 {
  "about": "Way2Sec birthday greetings: PM, Telangana + Andhra Pradesh CMs, Dy CMs, ministers, MLAs and MPs. dob = YYYY-MM-DD (or --MM-DD if the year is unknown). verified=true only when a reputable/official source in dob_src states the date. last_posted = year of the last greeting (prevents repeats). photo = path to a photo the user supplied (never download leaders' photos).",
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "leaders": [
   {
    "id": "narendra-modi",
@@ -63,8 +63,8 @@
    "no": 2,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1957-11-30",
+   "dob_src": "unconfirmed: Wikipedia G._Vivekanand (date not footnoted; lead cites digitalsansad bioprofile) 2026-11-10",
    "verified": false,
    "te": {
     "name": "",
@@ -563,8 +563,8 @@
    "no": 22,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1968-04-01",
+   "dob_src": "unconfirmed: Wikipedia (uncited) 2026-11-10",
    "verified": false,
    "te": {
     "name": "",
@@ -813,8 +813,8 @@
    "no": 32,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1967-05-08",
+   "dob_src": "unconfirmed: OpenSanctions in-sansad-ls-4337 (2026-11-10)",
    "verified": false,
    "te": {
     "name": "",
@@ -1064,15 +1064,15 @@
    "party": "BRS",
    "post": "Former Chief Minister of Telangana",
    "dob": "1954-02-17",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "Wikipedia (cites The Times of India, 17 Feb 2017) + Free Press Journal, 16 Feb 2022; checked 2026-11-10",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ కేసీఆర్",
+    "role": "తెలంగాణ మాజీ ముఖ్యమంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री के. चंद्रशेखर राव",
+    "role": "तेलंगाना के पूर्व मुख्यमंत्री"
    },
    "photo": "",
    "last_posted": ""
