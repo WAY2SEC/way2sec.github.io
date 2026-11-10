@@ -1,8 +1,260 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T16:45:36+05:30",
+ "updated": "2026-11-10T17:11:19+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "నిజామాబాద్ · ఉద్యోగులు",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "డిసెం. 15",
+   "statl": "నుంచి ఆశాల రాష్ట్రవ్యాప్త సమ్మె",
+   "h": "డిసెంబర్ 15 నుంచి ఆశా కార్యకర్తల సమ్మె: సీఐటీయూ నోటీసు",
+   "p": "ఆశా వర్కర్ల సమస్యల పరిష్కారం కోరుతూ తెలంగాణ ఆశా వర్కర్స్ యూనియన్ (సీఐటీయూ) నిజామాబాద్ జిల్లా కమిటీ మంగళవారం జిల్లా వైద్య, ఆరోగ్య శాఖ కార్యాలయంలో సమ్మె నోటీసు అందజేసింది. 20 ఏళ్లుగా పనిచేస్తున్నా రూ.9,900 స్థిర వేతనమే వస్తోందని, ఇచ్చిన హామీలు అమలు కాలేదని సీఐటీయూ నేత ఎ. రమేశ్ బాబు అన్నారు. నెలకు రూ.18,000 వేతనం, పీఎఫ్, ఈఎస్‌ఐ, ఉద్యోగ భద్రత కోరుతూ డిసెంబర్ 15 నుంచి రాష్ట్రవ్యాప్త సమ్మె చేస్తామని, ప్రభుత్వం చర్చలు జరపాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nizamabad/strike-from-december-15-to-solve-the-problems-of-asha-workers-citu-2556773",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "nizamabad",
+   "pts": [
+    "ప్రస్తుత స్థిర వేతనం రూ.9,900 మాత్రమే",
+    "నెలకు రూ.18,000, పీఎఫ్, ఈఎస్‌ఐ డిమాండ్",
+    "డిసెంబర్ 15 నుంచి రాష్ట్రవ్యాప్త సమ్మె"
+   ],
+   "why": "రాష్ట్రంలోని ఆశా కార్యకర్తల వేతనాలు, ఉద్యోగ భద్రతకు సంబంధించిన అంశం ఇది.",
+   "d": "10.11.2026",
+   "t": "17:05",
+   "pub": "2026-11-10T15:51+05:30",
+   "en": {
+    "h": "ASHA workers to strike from December 15: CITU serves notice",
+    "p": "The Telangana ASHA Workers Union (CITU) Nizamabad district committee on Tuesday served a strike notice at the District Medical and Health Office. CITU leader A. Ramesh Babu said ASHA workers still get a fixed pay of Rs 9,900 despite working for 20 years, and promises made to them remain unfulfilled. Demanding Rs 18,000 monthly pay, PF, ESI and job security, they will go on a statewide strike from December 15, and asked the government to hold talks.",
+    "pts": [
+     "Current fixed pay only Rs 9,900",
+     "Demand for Rs 18,000 a month, PF and ESI",
+     "Statewide strike from December 15"
+    ],
+    "why": "This concerns the pay and job security of ASHA workers across the state.",
+    "cat": "Nizamabad · Employees",
+    "statl": "Statewide ASHA strike from"
+   },
+   "hi": {
+    "h": "15 दिसंबर से आशा कार्यकर्ताओं की हड़ताल: सीटू ने नोटिस दिया",
+    "p": "तेलंगाना आशा वर्कर्स यूनियन (सीटू) की निजामाबाद जिला समिति ने मंगलवार को जिला चिकित्सा एवं स्वास्थ्य कार्यालय में हड़ताल का नोटिस दिया। सीटू नेता ए. रमेश बाबू ने कहा कि 20 साल से काम करने के बावजूद आशा कार्यकर्ताओं को केवल 9,900 रुपये का निश्चित वेतन मिलता है और उनसे किए वादे पूरे नहीं हुए। 18,000 रुपये मासिक वेतन, पीएफ, ईएसआई और नौकरी की सुरक्षा की मांग को लेकर वे 15 दिसंबर से राज्यव्यापी हड़ताल करेंगे और सरकार से बातचीत की अपील की।",
+    "pts": [
+     "वर्तमान निश्चित वेतन केवल 9,900 रुपये",
+     "18,000 रुपये मासिक, पीएफ और ईएसआई की मांग",
+     "15 दिसंबर से राज्यव्यापी हड़ताल"
+    ],
+    "why": "यह राज्य की आशा कार्यकर्ताओं के वेतन और नौकरी की सुरक्षा से जुड़ा मुद्दा है।",
+    "cat": "निजामाबाद · कर्मचारी",
+    "statl": "से आशा की राज्यव्यापी हड़ताल"
+   }
+  },
+  {
+   "cat": "నల్గొండ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹50,000",
+   "statl": "పత్తికి ఎకరాకు పరిహారం డిమాండ్",
+   "h": "నల్గొండ మండలాలన్నింటినీ కరువు ప్రాంతాలుగా ప్రకటించాలి: సీపీఐ",
+   "p": "చండూరు తహసీల్దార్ కార్యాలయం ఎదుట మంగళవారం సీపీఐ ధర్నా నిర్వహించింది. ఎల్‌నినో కరువును జాతీయ విపత్తుగా ప్రకటించాలని సీపీఐ జిల్లా కార్యదర్శి, ఎమ్మెల్సీ నెల్లికంటి సత్యం డిమాండ్ చేశారు. పత్తికి ఎకరాకు రూ.50,000, వరికి రూ.30,000 పరిహారం, పంట రుణాల రీషెడ్యూల్, వడ్డీ మాఫీ, ఉపాధి హామీ పని దినాలను 200కు పెంచాలని కోరారు. పంటలు ఎండిపోయాయని, గ్రామాల్లో సాగు, తాగునీటి కొరత ఉందని ఆయన అన్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/drought-relief-measures-must-be-undertaken-immediately-2-2556782",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "చండూరు",
+   "pts": [
+    "జిల్లా మండలాలన్నీ కరువు ప్రాంతాలుగా ప్రకటించాలని డిమాండ్",
+    "పత్తికి ₹50 వేలు, వరికి ₹30 వేలు పరిహారం కోరిక",
+    "మునుగోడుకు డిండి ప్రాజెక్టు పూర్తి చేయాలని విజ్ఞప్తి"
+   ],
+   "why": "కరువుతో పంటలు నష్టపోయిన నల్గొండ జిల్లా రైతులకు సంబంధించిన డిమాండ్లు ఇవి.",
+   "d": "10.11.2026",
+   "t": "17:05",
+   "pub": "2026-11-10T15:52+05:30",
+   "en": {
+    "h": "Declare all Nalgonda mandals drought-hit: CPI",
+    "p": "The CPI staged a dharna in front of the Chandur tahsildar office on Tuesday. CPI district secretary and MLC Nellikanti Satyam demanded that the El Nino drought be declared a national disaster. He sought compensation of Rs 50,000 per acre for cotton and Rs 30,000 for paddy, rescheduling of crop loans with interest waiver, and raising MGNREGA workdays to 200. He said crops had dried up and villages face irrigation and drinking water shortages.",
+    "pts": [
+     "Demand to declare all district mandals drought-hit",
+     "Rs 50,000 for cotton, Rs 30,000 for paddy sought",
+     "Appeal to complete Dindi project for Munugode"
+    ],
+    "why": "These demands concern Nalgonda district farmers whose crops were hit by drought.",
+    "cat": "Nalgonda · Agriculture",
+    "statl": "Per-acre compensation sought for cotton"
+   },
+   "hi": {
+    "h": "नलगोंडा के सभी मंडलों को सूखाग्रस्त घोषित करें: भाकपा",
+    "p": "भाकपा ने मंगलवार को चंडूर तहसीलदार कार्यालय के सामने धरना दिया। भाकपा जिला सचिव और एमएलसी नेल्लिकंटि सत्यम ने अल नीनो सूखे को राष्ट्रीय आपदा घोषित करने की मांग की। उन्होंने कपास के लिए प्रति एकड़ 50,000 रुपये और धान के लिए 30,000 रुपये मुआवजा, फसल ऋणों का पुनर्निर्धारण व ब्याज माफी और मनरेगा कार्य दिवस 200 करने की मांग की। उन्होंने कहा कि फसलें सूख गई हैं और गांवों में सिंचाई व पेयजल की कमी है।",
+    "pts": [
+     "जिले के सभी मंडल सूखाग्रस्त घोषित करने की मांग",
+     "कपास के लिए 50 हजार, धान के लिए 30 हजार मुआवजा",
+     "मुनुगोडु के लिए डिंडी परियोजना पूरी करने की अपील"
+    ],
+    "why": "ये मांगें सूखे से फसल गंवाने वाले नलगोंडा जिले के किसानों से जुड़ी हैं।",
+    "cat": "नलगोंडा · कृषि",
+    "statl": "कपास के लिए प्रति एकड़ मुआवजे की मांग"
+   }
+  },
+  {
+   "cat": "భద్రాద్రి · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2 → 4",
+   "statl": "పోలింగ్ కేంద్రాల పెంపు కోరిక",
+   "h": "బూర్గంపహాడ్‌లో ఎమ్మెల్సీ పోలింగ్ కేంద్రాలు పెంచాలని అఖిలపక్ష తీర్మానం",
+   "p": "ఎమ్మెల్సీ ఎన్నికల పోలింగ్ కేంద్రాల పెంపుపై బూర్గంపహాడ్ తహసీల్దార్ కేఆర్‌కే ప్రసాద్ మంగళవారం తహసీల్దార్ కార్యాలయంలో అఖిలపక్ష నాయకులతో సమావేశం నిర్వహించారు. మండలంలో ప్రస్తుతం రెండు పోలింగ్ కేంద్రాలే ఉన్నాయని, మరో రెండు ఏర్పాటు చేయాలని నేతలు తీర్మానం అందజేశారు. ఈ తీర్మానాన్ని ఉన్నతాధికారులకు పంపి, కేంద్రాల పెంపునకు కృషి చేస్తామని తహసీల్దార్ తెలిపారు. బీఆర్ఎస్, సీపీఎం, సీపీఐ, కాంగ్రెస్, బీజేపీ, టీడీపీ నేతలు పాల్గొన్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/all-party-resolution-to-increase-the-number-of-polling-stations-2556772",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "బూర్గంపహాడ్",
+   "pts": [
+    "మండలంలో ప్రస్తుతం రెండు పోలింగ్ కేంద్రాలు",
+    "మరో రెండు కావాలని అఖిలపక్ష తీర్మానం",
+    "ఉన్నతాధికారులకు పంపుతామన్న తహసీల్దార్"
+   ],
+   "why": "ఎమ్మెల్సీ ఎన్నికల్లో బూర్గంపహాడ్ మండల ఓటర్లు ఓటు వేసే సౌలభ్యానికి సంబంధించిన అంశం.",
+   "d": "10.11.2026",
+   "t": "17:05",
+   "pub": "2026-11-10T15:41+05:30",
+   "en": {
+    "h": "All-party resolution seeks more MLC polling stations in Burgampahad",
+    "p": "Burgampahad Tahsildar KRK Prasad held a meeting with all-party leaders at the tahsildar office on Tuesday on increasing polling stations for the MLC elections. The leaders said the mandal has only two polling stations and submitted a resolution seeking two more. The tahsildar said he would send the resolution to higher officials and work to increase the polling stations. Leaders of BRS, CPM, CPI, Congress, BJP and TDP attended.",
+    "pts": [
+     "Mandal currently has two polling stations",
+     "All-party resolution seeks two more",
+     "Tahsildar to forward it to higher officials"
+    ],
+    "why": "This concerns how easily Burgampahad mandal voters can cast their votes in the MLC elections.",
+    "cat": "Bhadradri · Elections",
+    "statl": "More polling stations sought"
+   },
+   "hi": {
+    "h": "बुर्गमपहाड़ में एमएलसी मतदान केंद्र बढ़ाने के लिए सर्वदलीय प्रस्ताव",
+    "p": "बुर्गमपहाड़ के तहसीलदार केआरके प्रसाद ने मंगलवार को तहसीलदार कार्यालय में एमएलसी चुनाव के मतदान केंद्र बढ़ाने पर सर्वदलीय नेताओं के साथ बैठक की। नेताओं ने कहा कि मंडल में अभी केवल दो मतदान केंद्र हैं और दो और बनाने का प्रस्ताव सौंपा। तहसीलदार ने कहा कि वे प्रस्ताव उच्च अधिकारियों को भेजेंगे और केंद्र बढ़ाने का प्रयास करेंगे। बीआरएस, माकपा, भाकपा, कांग्रेस, भाजपा और टीडीपी के नेता मौजूद रहे।",
+    "pts": [
+     "मंडल में अभी दो मतदान केंद्र",
+     "दो और केंद्रों के लिए सर्वदलीय प्रस्ताव",
+     "तहसीलदार उच्च अधिकारियों को भेजेंगे"
+    ],
+    "why": "यह एमएलसी चुनाव में बुर्गमपहाड़ मंडल के मतदाताओं की सुविधा से जुड़ा मुद्दा है।",
+    "cat": "भद्राद्री · चुनाव",
+    "statl": "मतदान केंद्र बढ़ाने की मांग"
+   }
+  },
+  {
+   "cat": "నల్గొండ · ప్రవాసులు",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "నవం. 2",
+   "statl": "నుంచి బోస్టన్‌లో ఆచూకీ లేదు",
+   "h": "అమెరికాలోని బోస్టన్‌లో కనగల్ విద్యార్థిని అదృశ్యం; కుటుంబానికి కేటీఆర్ భరోసా",
+   "p": "నల్గొండ జిల్లా కనగల్ మండలానికి చెందిన ఓ విద్యార్థిని నవంబర్ 2 నుంచి అమెరికాలోని బోస్టన్‌లో కనిపించడం లేదని నమస్తే తెలంగాణ కథనం. బోస్టన్ యూనివర్సిటీలో చదువుతున్న ఆమె స్నేహితురాలి పుట్టినరోజు వేడుక నుంచి ఒంటరిగా బయటకు వెళ్లారని, స్నేహితులు వెతికినా, పోలీసులకు ఫిర్యాదు చేసినా ఆచూకీ దొరకలేదని పేర్కొంది. మాజీ ఎమ్మెల్యే కంచర్ల భూపాల్ రెడ్డి కుటుంబాన్ని పరామర్శించగా, బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ ఫోన్ చేసి అక్కడి పరిచయస్తులతో మాట్లాడతానని హామీ ఇచ్చారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/ktr-assures-sreejas-family-members-2556721",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "కనగల్",
+   "pts": [
+    "నవంబర్ 2 నుంచి విద్యార్థిని ఆచూకీ లేదు",
+    "బోస్టన్ యూనివర్సిటీలో చదువుతున్న విద్యార్థిని",
+    "అక్కడి పరిచయస్తులతో మాట్లాడతానన్న కేటీఆర్"
+   ],
+   "why": "విదేశాల్లో చదువుతున్న తెలుగు విద్యార్థుల కుటుంబాల ఆందోళనకు సంబంధించిన వార్త ఇది.",
+   "d": "10.11.2026",
+   "t": "17:05",
+   "pub": "2026-11-10T15:01+05:30",
+   "en": {
+    "h": "Kanagal student missing in Boston, US; KTR assures family",
+    "p": "A student from Kanagal mandal in Nalgonda district has been missing in Boston, US, since November 2, Namasthe Telangana reported. The report said she studies at Boston University and left a friend's birthday celebration alone, and has not been traced despite searches by friends and a police complaint. After former MLA Kancharla Bhupal Reddy visited the family, BRS working president KTR called them and assured he would speak to his contacts there.",
+    "pts": [
+     "Student untraced since November 2",
+     "She studies at Boston University",
+     "KTR to speak to contacts there"
+    ],
+    "why": "This news concerns families of Telugu students studying abroad.",
+    "cat": "Nalgonda · NRI",
+    "statl": "Missing in Boston since"
+   },
+   "hi": {
+    "h": "अमेरिका के बोस्टन में कनगल की छात्रा लापता; केटीआर ने परिवार को भरोसा दिया",
+    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार नलगोंडा जिले के कनगल मंडल की एक छात्रा 2 नवंबर से अमेरिका के बोस्टन में लापता है। रिपोर्ट में कहा गया कि वह बोस्टन यूनिवर्सिटी में पढ़ती है और एक दोस्त के जन्मदिन समारोह से अकेले निकली थी; दोस्तों की तलाश और पुलिस शिकायत के बावजूद उसका पता नहीं चला। पूर्व विधायक कंचर्ला भूपाल रेड्डी के परिवार से मिलने के बाद बीआरएस कार्यकारी अध्यक्ष केटीआर ने फोन कर वहां अपने परिचितों से बात करने का आश्वासन दिया।",
+    "pts": [
+     "2 नवंबर से छात्रा का पता नहीं",
+     "बोस्टन यूनिवर्सिटी में पढ़ती है छात्रा",
+     "केटीआर वहां परिचितों से बात करेंगे"
+    ],
+    "why": "यह खबर विदेश में पढ़ रहे तेलुगु छात्रों के परिवारों की चिंता से जुड़ी है।",
+    "cat": "नलगोंडा · प्रवासी",
+    "statl": "से बोस्टन में लापता"
+   }
+  },
+  {
+   "cat": "భూపాలపల్లి · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "1 మండలం",
+   "statl": "కరువు జాబితాలో అని బీఆర్ఎస్ ఆరోపణ",
+   "h": "భూపాలపల్లిలో ఒక్క మండలమే కరువు జాబితాలో: గండ్ర ఆరోపణ",
+   "p": "సీఎం రేవంత్ రెడ్డి ప్రజలకు ఇచ్చిన హామీలు నెరవేర్చలేదని మాజీ ఎమ్మెల్యే గండ్ర వెంకటరమణారెడ్డి మంగళవారం భూపాలపల్లి బీఆర్ఎస్ జిల్లా కార్యాలయంలో విలేకరుల సమావేశంలో ఆరోపించారు. కరువు మండలాలు మంత్రుల నియోజకవర్గాల్లోనే ఉన్నాయా అని ప్రశ్నించారు. భూపాలపల్లి నియోజకవర్గంలో ఒక్క మండలాన్నే కరువు ప్రభావిత ప్రాంతంగా ప్రకటించడం సిగ్గుచేటని విమర్శించారు. ఈ ఆరోపణలపై ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/gandra-venkataramana-reddy-alleged-that-the-promises-made-by-revanth-reddy-are-not-being-implemented-2556738",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "bhupalpally",
+   "pts": [
+    "హామీలు నెరవేర్చలేదని సీఎంపై గండ్ర ఆరోపణ",
+    "భూపాలపల్లిలో ఒక్క మండలమే కరువు జాబితాలో అని విమర్శ",
+    "బీఆర్ఎస్ జిల్లా కార్యాలయంలో విలేకరుల సమావేశం"
+   ],
+   "why": "కరువు మండలాల ప్రకటన భూపాలపల్లి రైతులకు సంబంధించిన అంశం.",
+   "d": "10.11.2026",
+   "t": "17:05",
+   "pub": "2026-11-10T15:11+05:30",
+   "en": {
+    "h": "Only one Bhupalpally mandal on drought list: Gandra alleges",
+    "p": "Former MLA Gandra Venkataramana Reddy alleged at a press meet at the BRS district office in Bhupalpally on Tuesday that CM Revanth Reddy had not kept his promises to the people. He asked whether drought mandals exist only in ministers' constituencies. He criticised as shameful that only one mandal in the Bhupalpally constituency was declared drought-affected. The government's response to these allegations is not in the report.",
+    "pts": [
+     "Gandra alleges CM failed to keep promises",
+     "Criticises only one Bhupalpally mandal on drought list",
+     "Press meet at BRS district office"
+    ],
+    "why": "The declaration of drought mandals concerns farmers in Bhupalpally.",
+    "cat": "Bhupalpally · Politics",
+    "statl": "on drought list, BRS alleges"
+   },
+   "hi": {
+    "h": "भूपालपल्ली में केवल एक मंडल सूखा सूची में: गंड्रा का आरोप",
+    "p": "पूर्व विधायक गंड्रा वेंकटरमण रेड्डी ने मंगलवार को भूपालपल्ली में बीआरएस जिला कार्यालय में प्रेस वार्ता में आरोप लगाया कि मुख्यमंत्री रेवंत रेड्डी ने जनता से किए वादे पूरे नहीं किए। उन्होंने पूछा कि क्या सूखाग्रस्त मंडल केवल मंत्रियों के निर्वाचन क्षेत्रों में ही हैं। उन्होंने भूपालपल्ली निर्वाचन क्षेत्र में केवल एक मंडल को सूखा प्रभावित घोषित करने को शर्मनाक बताया। इन आरोपों पर सरकार की प्रतिक्रिया रिपोर्ट में नहीं है।",
+    "pts": [
+     "गंड्रा का आरोप, मुख्यमंत्री ने वादे पूरे नहीं किए",
+     "भूपालपल्ली में केवल एक मंडल सूखा सूची में होने की आलोचना",
+     "बीआरएस जिला कार्यालय में प्रेस वार्ता"
+    ],
+    "why": "सूखाग्रस्त मंडलों की घोषणा भूपालपल्ली के किसानों से जुड़ा मुद्दा है।",
+    "cat": "भूपालपल्ली · राजनीति",
+    "statl": "सूखा सूची में, बीआरएस का आरोप"
+   }
+  },
   {
    "cat": "సైబరాబాద్ · రోడ్డు భద్రత",
    "col": "--c-city",
@@ -2104,254 +2356,6 @@
      "अपनी आय गांव के विकास पर"
     ],
     "why": "गांव अपने धन का सीधे स्थानीय कामों में उपयोग कर सकेंगे।"
-   },
-   "d": "10.11.2026",
-   "t": "07:00"
-  },
-  {
-   "cat": "ఏపీ · రాజకీయ నేతలు",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "13 ఏళ్లు",
-   "statl": "వివాహ బంధానికి ముగింపు",
-   "h": "పవన్ కల్యాణ్, అన్నా లెజినోవా విడిపోతున్నట్టు ప్రకటన",
-   "p": "ఏపీ ఉపముఖ్యమంత్రి, నటుడు పవన్ కల్యాణ్, ఆయన భార్య అన్నా లెజినోవా పరస్పర అంగీకారంతో విడిపోతున్నట్టు సోమవారం రాత్రి సంయుక్త ప్రకటన విడుదల చేశారు. 13 ఏళ్ల వివాహ బంధానికి ముగింపు పలుకుతున్నట్టు తెలిపారు. పిల్లల బాధ్యతలను కొనసాగిస్తామని, తమ గోప్యతను గౌరవించాలని కోరారు.",
-   "pts": [
-    "పరస్పర అంగీకారంతో విడిపోతున్నట్టు సంయుక్త ప్రకటన",
-    "పిల్లల సంక్షేమమే ముఖ్యమని వెల్లడి",
-    "గోప్యతను గౌరవించాలని అభిమానులకు విజ్ఞప్తి"
-   ],
-   "why": "రాష్ట్ర ఉపముఖ్యమంత్రికి సంబంధించిన ప్రకటన కావడంతో విస్తృత చర్చ జరుగుతోంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/pawan-kalyan-and-anna-lezhneva-announce-separation-after-13-years-of-marriage-2556536",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-10T04:46+05:30",
-   "en": {
-    "cat": "AP · Leaders",
-    "statl": "Marriage comes to an end",
-    "h": "Pawan Kalyan and Anna Lezhneva announce separation",
-    "p": "AP Deputy Chief Minister and actor Pawan Kalyan and his wife Anna Lezhneva announced on Monday night, in a joint statement, that they are separating by mutual consent, ending 13 years of marriage. They said they will continue their duties as parents and asked people to respect their privacy.",
-    "pts": [
-     "Joint statement on separation by mutual consent",
-     "Children's welfare called the top priority",
-     "Fans asked to respect their privacy"
-    ],
-    "why": "The statement concerns the state's Deputy Chief Minister and is widely discussed."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · नेता",
-    "statl": "विवाह का अंत",
-    "h": "पवन कल्याण और अन्ना लेज़नेवा ने अलग होने की घोषणा की",
-    "p": "आंध्र प्रदेश के उपमुख्यमंत्री और अभिनेता पवन कल्याण तथा उनकी पत्नी अन्ना लेज़नेवा ने सोमवार रात संयुक्त बयान में आपसी सहमति से अलग होने की घोषणा की और 13 साल के विवाह को समाप्त बताया। उन्होंने कहा कि वे माता-पिता की ज़िम्मेदारी निभाते रहेंगे और निजता का सम्मान करने की अपील की।",
-    "pts": [
-     "आपसी सहमति से अलग होने का संयुक्त बयान",
-     "बच्चों का कल्याण सबसे ऊपर",
-     "प्रशंसकों से निजता के सम्मान की अपील"
-    ],
-    "why": "बयान राज्य के उपमुख्यमंत्री से जुड़ा है, इसलिए इसकी व्यापक चर्चा है।"
-   },
-   "d": "10.11.2026",
-   "t": "07:00"
-  },
-  {
-   "cat": "తెలంగాణ · పోలీస్",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "కాన్‌క్లేవ్",
-   "statl": "పోలీసుల మానసిక ఆరోగ్యంపై",
-   "h": "పోలీసుల మానసిక ఆరోగ్యంపై ప్రత్యేక దృష్టి: శిక్షణలోనే అవగాహన",
-   "p": "తెలంగాణ పోలీస్ అకాడమీలో ఆదివారం మానసిక ఆరోగ్య కాన్‌క్లేవ్ జరిగింది. కొత్తగా చేరే సిబ్బందికి ఇండక్షన్ శిక్షణ దశలోనే మానసిక ఆరోగ్యంపై అవగాహన కల్పించాలని నిర్ణయించినట్టు అకాడమీ డైరెక్టర్, డీజీ అభిలాష బిస్త్ తెలిపారు.",
-   "pts": [
-    "పోలీస్ అకాడమీలో మెంటల్ హెల్త్ కాన్‌క్లేవ్",
-    "కొత్త సిబ్బంది శిక్షణలోనే అవగాహన",
-    "డైరెక్టర్ డీజీ అభిలాష బిస్త్ వెల్లడి"
-   ],
-   "why": "ఒత్తిడితో పనిచేసే పోలీసు సిబ్బంది ఆరోగ్యానికి ఇది ఉపయోగపడుతుంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-police-academy-hosts-mental-health-conclave-to-address-strain-and-high-pressure-on-personnel-2556499",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-10T04:19+05:30",
-   "en": {
-    "cat": "Telangana · Police",
-    "statl": "On police mental health",
-    "h": "Focus on police mental health: awareness from induction training",
-    "p": "A mental health conclave was held at the Telangana Police Academy on Sunday. Academy director DG Abhilasha Bisht said it has been decided to build mental health awareness into the induction training of new recruits.",
-    "pts": [
-     "Mental health conclave at police academy",
-     "Awareness from induction training",
-     "Announced by director DG Abhilasha Bisht"
-    ],
-    "why": "It helps police staff who work under heavy pressure."
-   },
-   "hi": {
-    "cat": "तेलंगाना · पुलिस",
-    "statl": "पुलिस के मानसिक स्वास्थ्य पर",
-    "h": "पुलिस के मानसिक स्वास्थ्य पर ध्यान, प्रशिक्षण से ही जागरूकता",
-    "p": "तेलंगाना पुलिस अकादमी में रविवार को मानसिक स्वास्थ्य सम्मेलन हुआ। अकादमी की निदेशक डीजी अभिलाषा बिष्ट ने बताया कि नए भर्ती कर्मियों के इंडक्शन प्रशिक्षण में ही मानसिक स्वास्थ्य पर जागरूकता देने का निर्णय लिया गया है।",
-    "pts": [
-     "पुलिस अकादमी में मानसिक स्वास्थ्य सम्मेलन",
-     "इंडक्शन प्रशिक्षण से ही जागरूकता",
-     "निदेशक डीजी अभिलाषा बिष्ट ने बताया"
-    ],
-    "why": "दबाव में काम करने वाले पुलिसकर्मियों के लिए यह उपयोगी है।"
-   },
-   "d": "10.11.2026",
-   "t": "07:00"
-  },
-  {
-   "cat": "నాగర్‌కర్నూల్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "అరెస్టులు",
-   "statl": "దివ్యాంగుల సంఘం నేతలు",
-   "h": "సీఎం కొడంగల్ పర్యటన నేపథ్యంలో దివ్యాంగుల సంఘం నేతల అరెస్టు",
-   "p": "వికారాబాద్ జిల్లా కొడంగల్‌లో సీఎం రేవంత్ రెడ్డి పర్యటన నేపథ్యంలో నాగర్‌కర్నూల్ జిల్లాలోని దివ్యాంగుల సంఘం నాయకులను పోలీసులు సోమవారం అదుపులోకి తీసుకున్నారు. కల్వకుర్తి, అమ్రాబాద్ మండలాలకు చెందిన సంఘం ఉమ్మడి పాలమూరు జిల్లా బాధ్యులను పోలీస్ స్టేషన్‌కు తరలించారు.",
-   "pts": [
-    "సీఎం కొడంగల్ పర్యటన నేపథ్యంలో చర్య",
-    "కల్వకుర్తి, అమ్రాబాద్ నేతల అదుపు",
-    "సంఘం ఉమ్మడి పాలమూరు బాధ్యులు"
-   ],
-   "why": "నిరసన తెలపాలనుకున్న దివ్యాంగుల సంఘాల కార్యకలాపాలపై ఇది ప్రభావం చూపుతుంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/police-arrest-differently-abled-association-leaders-ahead-of-revanth-reddys-visit-2556529",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nagarkurnool",
-   "loc": "కల్వకుర్తి",
-   "pub": "2026-11-10T04:40+05:30",
-   "en": {
-    "cat": "Nagarkurnool · Politics",
-    "statl": "Disability group leaders",
-    "h": "Disability association leaders detained ahead of CM's Kodangal visit",
-    "p": "Ahead of Chief Minister Revanth Reddy's visit to Kodangal in Vikarabad district, police on Monday detained leaders of a disabled persons' association in Nagarkurnool district. Office-bearers of the joint Palamuru district unit from Kalwakurthy and Amrabad were taken to the police station.",
-    "pts": [
-     "Action ahead of CM's Kodangal visit",
-     "Leaders from Kalwakurthy and Amrabad detained",
-     "Joint Palamuru district office-bearers"
-    ],
-    "why": "It affects disability groups that planned to raise their demands."
-   },
-   "hi": {
-    "cat": "नागरकर्नूल · राजनीति",
-    "statl": "दिव्यांग संघ के नेता",
-    "h": "मुख्यमंत्री के कोडंगल दौरे से पहले दिव्यांग संघ के नेता हिरासत में",
-    "p": "विकाराबाद ज़िले के कोडंगल में मुख्यमंत्री रेवंत रेड्डी के दौरे से पहले पुलिस ने सोमवार को नागरकर्नूल ज़िले में दिव्यांग संघ के नेताओं को हिरासत में लिया। कलवकुर्ती और अमराबाद के संयुक्त पालमुरु ज़िला पदाधिकारियों को थाने ले जाया गया।",
-    "pts": [
-     "मुख्यमंत्री के कोडंगल दौरे से पहले कार्रवाई",
-     "कलवकुर्ती और अमराबाद के नेता हिरासत में",
-     "संयुक्त पालमुरु ज़िला पदाधिकारी"
-    ],
-    "why": "अपनी मांगें उठाने की तैयारी कर रहे दिव्यांग संगठनों पर इसका असर पड़ता है।"
-   },
-   "d": "10.11.2026",
-   "t": "07:00"
-  },
-  {
-   "cat": "తెలంగాణ · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "బెయిలు",
-   "statl": "షరతుల ఉల్లంఘనతో రద్దు",
-   "h": "షరతులు ఉల్లంఘిస్తే బెయిలు రద్దు చేయొచ్చు: హైకోర్టు",
-   "p": "బెయిలు ఇచ్చేటప్పుడు కోర్టు విధించిన షరతులను ఉల్లంఘించినా, అదే కేసులో మరో నేరానికి పాల్పడినా బెయిలు రద్దు చేయవచ్చని తెలంగాణ హైకోర్టు స్పష్టం చేసింది. కింది కోర్టు ఇచ్చిన బెయిలు రద్దు తీర్పును సమర్థిస్తూ జస్టిస్ జె. శ్రీనివాసరావు పిటిషన్‌ను కొట్టివేశారు.",
-   "pts": [
-    "కింది కోర్టు తీర్పును సమర్థించిన హైకోర్టు",
-    "షరతుల ఉల్లంఘనతో బెయిలు రద్దు సాధ్యం",
-    "జస్టిస్ జె. శ్రీనివాసరావు తీర్పు"
-   ],
-   "why": "బెయిలుపై ఉన్నవారు కోర్టు షరతులు తప్పక పాటించాలని ఈ తీర్పు గుర్తుచేస్తోంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-high-court-upholds-cancellation-of-bail-for-accused-who-violated-court-imposed-conditions-2556366",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-10T02:02+05:30",
-   "en": {
-    "cat": "Telangana · High Court",
-    "statl": "Cancelled for breaking terms",
-    "h": "Bail can be cancelled if conditions are violated: High Court",
-    "p": "The Telangana High Court said bail can be cancelled if the conditions set by the court are violated or the accused commits another offence in the same case. Upholding a lower court's cancellation of bail, Justice J. Sreenivas Rao dismissed the petition.",
-    "pts": [
-     "High Court upheld lower court's order",
-     "Breaking conditions can cost bail",
-     "Ruling by Justice J. Sreenivas Rao"
-    ],
-    "why": "It reminds people on bail that court conditions must be followed."
-   },
-   "hi": {
-    "cat": "तेलंगाना · हाईकोर्ट",
-    "statl": "शर्तें तोड़ने पर रद्द",
-    "h": "शर्तें तोड़ने पर ज़मानत रद्द की जा सकती है: हाईकोर्ट",
-    "p": "तेलंगाना हाईकोर्ट ने कहा कि अदालत की ज़मानत शर्तें तोड़ने या उसी मामले में दूसरा अपराध करने पर ज़मानत रद्द की जा सकती है। निचली अदालत के ज़मानत रद्द करने के आदेश को बरकरार रखते हुए जस्टिस जे. श्रीनिवास राव ने याचिका खारिज कर दी।",
-    "pts": [
-     "हाईकोर्ट ने निचली अदालत का आदेश बरकरार रखा",
-     "शर्तें तोड़ने पर ज़मानत रद्द संभव",
-     "जस्टिस जे. श्रीनिवास राव का फ़ैसला"
-    ],
-    "why": "यह ज़मानत पर रिहा लोगों को याद दिलाता है कि अदालत की शर्तें माननी होंगी।"
-   },
-   "d": "10.11.2026",
-   "t": "07:00"
-  },
-  {
-   "cat": "వనపర్తి · రైతులు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "60 ఏళ్లు",
-   "statl": "విద్యుత్ షాక్‌తో మృతి చెందిన రైతు",
-   "h": "వనపర్తి జిల్లాలో పొలంలో మోటారు సరిచేస్తూ విద్యుత్ షాక్‌తో రైతు మృతి",
-   "p": "వనపర్తి జిల్లా పాన్‌గల్ మండలం అన్నారం గ్రామానికి చెందిన 60 ఏళ్ల రైతు సొంత పొలంతో పాటు కౌలు భూమిలో వరి సాగు చేస్తున్నాడు. పొలంలో విద్యుత్ మోటారు వైరు ఇన్సులేషన్ దెబ్బతినగా టేపు చుడుతుండగా షాక్ తగిలి మృతి చెందాడు. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "pts": [
-    "మోటారు వైరుకు టేపు చుడుతుండగా ప్రమాదం",
-    "పాన్‌గల్ మండలం అన్నారం గ్రామం",
-    "కేసు నమోదు చేసిన పోలీసులు"
-   ],
-   "why": "పొలాల్లో దెబ్బతిన్న విద్యుత్ తీగలతో రైతులు జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/farmer-dies-of-electric-shock-while-repairing-agricultural-motor-2556505",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "wanaparthy",
-   "loc": "అన్నారం",
-   "pub": "2026-11-10T04:24+05:30",
-   "en": {
-    "cat": "Wanaparthy · Farmers",
-    "statl": "Farmer killed by electric shock",
-    "h": "Farmer dies of electric shock while fixing farm motor in Wanaparthy",
-    "p": "A 60-year-old farmer of Annaram village in Pangal mandal, Wanaparthy district, who grew paddy on his own and leased land, died of an electric shock while wrapping tape over damaged insulation on his motor wire. Police registered a case and are investigating.",
-    "pts": [
-     "Shock while taping a motor wire",
-     "Annaram village, Pangal mandal",
-     "Police registered a case"
-    ],
-    "why": "A reminder for farmers to be careful with damaged power lines in fields."
-   },
-   "hi": {
-    "cat": "वनपर्ती · किसान",
-    "statl": "करंट से किसान की मौत",
-    "h": "वनपर्ती में खेत की मोटर ठीक करते समय करंट लगने से किसान की मौत",
-    "p": "वनपर्ती ज़िले के पानगल मंडल के अन्नारम गांव के 60 वर्षीय किसान, जो अपनी और पट्टे की ज़मीन पर धान उगाते थे, मोटर के तार की खराब इंसुलेशन पर टेप लपेटते समय करंट लगने से मारे गए। पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "मोटर के तार पर टेप लगाते समय हादसा",
-     "पानगल मंडल का अन्नारम गांव",
-     "पुलिस ने मामला दर्ज किया"
-    ],
-    "why": "खेतों में खराब बिजली तारों से किसानों को सावधान रहने की याद दिलाता है।"
    },
    "d": "10.11.2026",
    "t": "07:00"
