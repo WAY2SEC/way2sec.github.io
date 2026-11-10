@@ -1,8 +1,210 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 92,
+ "count": 96,
  "stories": [
+  {
+   "cat": "రంగారెడ్డి · రాజకీయం",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "అరెస్ట్",
+   "statl": "వ్యవసాయ వర్సిటీ వద్ద బీఆర్ఎస్ నేత",
+   "h": "వ్యవసాయ వర్సిటీ ప్రొఫెసర్లకు మద్దతు: బీఆర్ఎస్ నేతను అరెస్ట్ చేసిన పోలీసులు",
+   "p": "రాజేంద్రనగర్ వ్యవసాయ విశ్వవిద్యాలయంలో లైంగిక వేధింపుల ఆరోపణలు చేసిన మహిళా ప్రొఫెసర్లను పరామర్శించేందుకు వెళ్లిన ఒక బీఆర్ఎస్ నేతను పోలీసులు అరెస్ట్ చేశారని నమస్తే తెలంగాణ కథనం. ఆరోపణలు ఎదుర్కొంటున్న వైస్ ఛాన్సలర్‌పై ప్రభుత్వం చర్యలు తీసుకోవడం లేదని ఆయన ఆరోపించారు. అరెస్టుకు కారణంపై పోలీసుల ప్రకటన, ప్రభుత్వ స్పందన కథనంలో లేవు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/hyderabad/police-have-arrested-brs-leader-patlolla-karthik-reddy-2556863",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "రాజేంద్రనగర్",
+   "pts": [
+    "మహిళా ప్రొఫెసర్ల లైంగిక వేధింపుల ఆరోపణలు",
+    "వీసీపై చర్యలు లేవని బీఆర్ఎస్ నేత ఆరోపణ",
+    "వీసీపై చర్యలకు బీఆర్ఎస్ ఎమ్మెల్యేల డిమాండ్"
+   ],
+   "why": "వ్యవసాయ వర్సిటీలో మహిళా అధ్యాపకుల భద్రత, వేధింపుల ఆరోపణలపై చర్యల అంశం ఇది.",
+   "pub": "2026-11-10T17:35+05:30",
+   "en": {
+    "h": "Backing agri varsity professors: Police arrest BRS leader",
+    "p": "Police arrested a BRS leader who went to meet women professors at the Agricultural University in Rajendranagar who had alleged sexual harassment, Namasthe Telangana reported. He alleged the government was not acting against the vice-chancellor facing the allegations. The report has no police statement on the reason for the arrest and no government response.",
+    "pts": [
+     "Women professors allege sexual harassment",
+     "BRS leader alleges no action against VC",
+     "BRS MLAs demand action against the VC"
+    ],
+    "why": "It concerns the safety of women faculty at the agricultural university and action on harassment allegations.",
+    "cat": "Rangareddy · Politics",
+    "statl": "BRS leader at agri university"
+   },
+   "hi": {
+    "h": "कृषि विश्वविद्यालय के प्रोफेसरों का समर्थन: पुलिस ने बीआरएस नेता को गिरफ्तार किया",
+    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार, राजेंद्रनगर कृषि विश्वविद्यालय में यौन उत्पीड़न का आरोप लगाने वाली महिला प्रोफेसरों से मिलने गए एक बीआरएस नेता को पुलिस ने गिरफ्तार किया। उन्होंने आरोप लगाया कि सरकार आरोपों का सामना कर रहे कुलपति पर कार्रवाई नहीं कर रही। गिरफ्तारी के कारण पर पुलिस का बयान और सरकार का जवाब रिपोर्ट में नहीं है।",
+    "pts": [
+     "महिला प्रोफेसरों का यौन उत्पीड़न का आरोप",
+     "बीआरएस नेता का आरोप: कुलपति पर कार्रवाई नहीं",
+     "बीआरएस विधायकों ने कुलपति पर कार्रवाई मांगी"
+    ],
+    "why": "यह कृषि विश्वविद्यालय में महिला शिक्षकों की सुरक्षा और उत्पीड़न के आरोपों पर कार्रवाई का मामला है।",
+    "cat": "रंगारेड्डी · राजनीति",
+    "statl": "कृषि विश्वविद्यालय में बीआरएस नेता"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "భద్రాద్రి · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "750",
+   "statl": "ఓటర్లకు ఒక పోలింగ్ బూత్ కావాలని వినతి",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నిక: బూర్గంపహాడ్‌లో అదనపు పోలింగ్ కేంద్రాలకు వినతి",
+   "p": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలో ప్రతి 750 మంది ఓటర్లకు ఒక పోలింగ్ బూత్ ఏర్పాటు చేయాలని బీఆర్ఎస్ మండల నేతలు బూర్గంపహాడ్ తహసీల్దార్‌కు వినతిపత్రం ఇచ్చారు. మండలంలో సుమారు 3,000 మంది పట్టభద్రులు ఓటర్లుగా నమోదయ్యారని తెలిపారు. గత ఎన్నికలో 2,079 మందికి రెండు కేంద్రాలే ఉండటంతో 3–4 గంటలు క్యూలో నిలబడాల్సి వచ్చిందన్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/khammam/badradri-kothagudem/polling-booth-should-be-set-up-for-every-750-voters-2556884",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "బూర్గంపహాడ్",
+   "pts": [
+    "మండలంలో సుమారు 3,000 మంది పట్టభద్ర ఓటర్లు",
+    "గతంలో 2,079 మందికి రెండు కేంద్రాలే",
+    "మరో రెండు పోలింగ్ కేంద్రాలు కావాలని వినతి"
+   ],
+   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలో ఓటు వేసే బూర్గంపహాడ్ మండల ఓటర్ల క్యూ సమస్యకు సంబంధించినది.",
+   "pub": "2026-11-10T18:14+05:30",
+   "en": {
+    "h": "Graduates' MLC poll: Plea for more polling centres in Burgampahad",
+    "p": "BRS mandal leaders submitted a representation to the Burgampahad Tahsildar asking for one polling booth for every 750 voters in the graduates' MLC election. They said about 3,000 graduates have enrolled as voters in the mandal. In the last election only two centres served 2,079 voters, forcing queues of 3–4 hours, they said.",
+    "pts": [
+     "About 3,000 graduate voters in the mandal",
+     "Earlier, only two centres for 2,079 voters",
+     "Plea for two more polling centres"
+    ],
+    "why": "It concerns long queues faced by graduate voters of Burgampahad mandal in the MLC election.",
+    "cat": "Bhadradri · Elections",
+    "statl": "Voters per booth sought"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी चुनाव: बूर्गमपहाड़ में अधिक मतदान केंद्रों की मांग",
+    "p": "बीआरएस मंडल नेताओं ने बूर्गमपहाड़ तहसीलदार को ज्ञापन देकर स्नातक एमएलसी चुनाव में हर 750 मतदाताओं पर एक मतदान बूथ की मांग की। उन्होंने बताया कि मंडल में करीब 3,000 स्नातक मतदाता पंजीकृत हुए हैं। उनके अनुसार पिछले चुनाव में 2,079 मतदाताओं के लिए केवल दो केंद्र थे, जिससे 3–4 घंटे कतार में रहना पड़ा।",
+    "pts": [
+     "मंडल में करीब 3,000 स्नातक मतदाता",
+     "पहले 2,079 मतदाताओं पर केवल दो केंद्र",
+     "दो और मतदान केंद्रों की मांग"
+    ],
+    "why": "यह एमएलसी चुनाव में बूर्गमपहाड़ मंडल के स्नातक मतदाताओं की लंबी कतारों से जुड़ा है।",
+    "cat": "भद्राद्रि · चुनाव",
+    "statl": "प्रति बूथ मतदाता की मांग"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "సూర్యాపేట · సమాజం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "30 ఏళ్లు",
+   "statl": "సామాజిక సేవకు గుర్తింపు",
+   "h": "కోదాడకు చెందిన ఎమ్మార్పీఎస్ నేత చింతాబాబు మాదిగకు అంబేద్కర్ జాతీయ పురస్కారం",
+   "p": "ఎమ్మార్పీఎస్ రాష్ట్ర నాయకుడు చింతాబాబు మాదిగకు డాక్టర్ బి.ఆర్. అంబేద్కర్ జాతీయ పురస్కారం లభించింది. బహుజన సాహిత్య అకాడమీ జాతీయ అధ్యక్షుడు నల్ల రాధాకృష్ణ ఈ అవార్డు ప్రకటించారని ఆయన కోదాడలో తెలిపారు. యువజన సంఘాల ద్వారా మూడు దశాబ్దాల సామాజిక సేవ, యువత చైతన్యానికి గుర్తింపుగా ఈ నెల 15న ఢిల్లీలో పురస్కారం అందుకోనున్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/national-award-for-chintababu-madiga-2556923",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "suryapet",
+   "loc": "కోదాడ",
+   "pts": [
+    "బహుజన సాహిత్య అకాడమీ ప్రకటించిన పురస్కారం",
+    "ఈ నెల 15న ఢిల్లీలో ప్రదానం",
+    "మూడు దశాబ్దాల సామాజిక సేవకు గుర్తింపు"
+   ],
+   "why": "సూర్యాపేట జిల్లా నుంచి సామాజిక సేవకు జాతీయ స్థాయి గుర్తింపు లభించిన వార్త.",
+   "pub": "2026-11-10T19:14+05:30",
+   "en": {
+    "h": "Kodad MRPS leader Chintababu Madiga gets Ambedkar National Award",
+    "p": "MRPS state leader Chintababu Madiga has received the Dr B.R. Ambedkar National Award. He said in Kodad that the award was announced by Nalla Radhakrishna, national president of the Bahujana Sahitya Academy. Recognising three decades of social service and youth awareness work through youth associations, he will receive it in Delhi on the 15th of this month.",
+    "pts": [
+     "Award announced by Bahujana Sahitya Academy",
+     "To be presented in Delhi on the 15th",
+     "Recognises three decades of social service"
+    ],
+    "why": "It is national recognition for social service from Suryapet district.",
+    "cat": "Suryapet · Society",
+    "statl": "Recognition for social service"
+   },
+   "hi": {
+    "h": "कोदाड़ के एमआरपीएस नेता चिंताबाबू मादिगा को अंबेडकर राष्ट्रीय पुरस्कार",
+    "p": "एमआरपीएस के राज्य नेता चिंताबाबू मादिगा को डॉ. बी.आर. अंबेडकर राष्ट्रीय पुरस्कार मिला है। उन्होंने कोदाड़ में बताया कि बहुजन साहित्य अकादमी के राष्ट्रीय अध्यक्ष नल्ला राधाकृष्ण ने पुरस्कार की घोषणा की। युवा संगठनों के जरिए तीन दशकों की समाज सेवा और युवा जागरूकता के लिए वे इस महीने की 15 तारीख को दिल्ली में पुरस्कार लेंगे।",
+    "pts": [
+     "बहुजन साहित्य अकादमी ने घोषणा की",
+     "15 तारीख को दिल्ली में सम्मान",
+     "तीन दशकों की समाज सेवा की पहचान"
+    ],
+    "why": "यह सूर्यापेट जिले से समाज सेवा को मिली राष्ट्रीय पहचान की खबर है।",
+    "cat": "सूर्यापेट · समाज",
+    "statl": "समाज सेवा की पहचान"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · క్రీడలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "120",
+   "statl": "జట్లకు గరిష్ఠ అవకాశం",
+   "h": "అండర్-14 స్కూల్ క్రికెట్ టోర్నీకి హెచ్‌సీఏ ఎంట్రీల ఆహ్వానం",
+   "p": "హెచ్‌సీఏ అండర్-14 స్కూల్ టోర్నమెంట్ 2026–27 కోసం తెలంగాణ అంతటా అర్హత ఉన్న పాఠశాలల నుంచి హైదరాబాద్ క్రికెట్ అసోసియేషన్ ఎంట్రీలు ఆహ్వానించింది. టోర్నీ నవంబర్ మూడో వారంలో జరిగే అవకాశం ఉంది. గరిష్ఠంగా 120 జట్లకు అవకాశం ఉంటుంది. ఒక్కో పాఠశాల 15 మంది ఆటగాళ్ల జట్టు నమోదు చేయవచ్చు, ఎంట్రీ ఫీజు ₹2,000.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hca-invites-entries-for-under-14-school-tournament-2026-27",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ మూడో వారంలో టోర్నీ అవకాశం",
+    "ఒక్కో పాఠశాల గరిష్ఠంగా 15 మంది ఆటగాళ్లు",
+    "ఒక్కో పాఠశాలకు ఎంట్రీ ఫీజు ₹2,000"
+   ],
+   "why": "తెలంగాణలోని పాఠశాలల యువ క్రికెటర్లకు పోటీలో పాల్గొనే అవకాశం.",
+   "pub": "2026-11-10T21:17+05:30",
+   "en": {
+    "h": "HCA invites entries for Under-14 school cricket tournament",
+    "p": "The Hyderabad Cricket Association has invited entries from eligible schools across Telangana for the HCA Under-14 School Tournament 2026–27. The tournament is tentatively set for the third week of November. A maximum of 120 teams can take part. Each school may register a squad of up to 15 players, and the entry fee is ₹2,000.",
+    "pts": [
+     "Tournament likely in third week of November",
+     "Up to 15 players per school",
+     "Entry fee ₹2,000 per school"
+    ],
+    "why": "It gives young school cricketers across Telangana a chance to compete.",
+    "cat": "Hyderabad · Sports",
+    "statl": "Maximum teams"
+   },
+   "hi": {
+    "h": "अंडर-14 स्कूल क्रिकेट टूर्नामेंट के लिए एचसीए ने प्रविष्टियां मांगीं",
+    "p": "हैदराबाद क्रिकेट एसोसिएशन ने एचसीए अंडर-14 स्कूल टूर्नामेंट 2026–27 के लिए पूरे तेलंगाना के योग्य स्कूलों से प्रविष्टियां मांगी हैं। टूर्नामेंट नवंबर के तीसरे सप्ताह में होने की संभावना है। अधिकतम 120 टीमें भाग ले सकती हैं। हर स्कूल 15 खिलाड़ियों तक की टीम दर्ज करा सकता है, प्रवेश शुल्क ₹2,000 है।",
+    "pts": [
+     "नवंबर के तीसरे सप्ताह में टूर्नामेंट संभव",
+     "प्रति स्कूल अधिकतम 15 खिलाड़ी",
+     "प्रति स्कूल प्रवेश शुल्क ₹2,000"
+    ],
+    "why": "इससे तेलंगाना के स्कूली युवा क्रिकेटरों को प्रतियोगिता का मौका मिलेगा।",
+    "cat": "हैदराबाद · खेल",
+    "statl": "अधिकतम टीमें"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
   {
    "cat": "గద్వాల · రైతులు",
    "col": "--c-gov",

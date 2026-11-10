@@ -1,8 +1,210 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T21:43:46+05:30",
+ "updated": "2026-11-10T22:10:45+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "రంగారెడ్డి · రాజకీయం",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "అరెస్ట్",
+   "statl": "వ్యవసాయ వర్సిటీ వద్ద బీఆర్ఎస్ నేత",
+   "h": "వ్యవసాయ వర్సిటీ ప్రొఫెసర్లకు మద్దతు: బీఆర్ఎస్ నేతను అరెస్ట్ చేసిన పోలీసులు",
+   "p": "రాజేంద్రనగర్ వ్యవసాయ విశ్వవిద్యాలయంలో లైంగిక వేధింపుల ఆరోపణలు చేసిన మహిళా ప్రొఫెసర్లను పరామర్శించేందుకు వెళ్లిన ఒక బీఆర్ఎస్ నేతను పోలీసులు అరెస్ట్ చేశారని నమస్తే తెలంగాణ కథనం. ఆరోపణలు ఎదుర్కొంటున్న వైస్ ఛాన్సలర్‌పై ప్రభుత్వం చర్యలు తీసుకోవడం లేదని ఆయన ఆరోపించారు. అరెస్టుకు కారణంపై పోలీసుల ప్రకటన, ప్రభుత్వ స్పందన కథనంలో లేవు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/hyderabad/police-have-arrested-brs-leader-patlolla-karthik-reddy-2556863",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "రాజేంద్రనగర్",
+   "pts": [
+    "మహిళా ప్రొఫెసర్ల లైంగిక వేధింపుల ఆరోపణలు",
+    "వీసీపై చర్యలు లేవని బీఆర్ఎస్ నేత ఆరోపణ",
+    "వీసీపై చర్యలకు బీఆర్ఎస్ ఎమ్మెల్యేల డిమాండ్"
+   ],
+   "why": "వ్యవసాయ వర్సిటీలో మహిళా అధ్యాపకుల భద్రత, వేధింపుల ఆరోపణలపై చర్యల అంశం ఇది.",
+   "pub": "2026-11-10T17:35+05:30",
+   "en": {
+    "h": "Backing agri varsity professors: Police arrest BRS leader",
+    "p": "Police arrested a BRS leader who went to meet women professors at the Agricultural University in Rajendranagar who had alleged sexual harassment, Namasthe Telangana reported. He alleged the government was not acting against the vice-chancellor facing the allegations. The report has no police statement on the reason for the arrest and no government response.",
+    "pts": [
+     "Women professors allege sexual harassment",
+     "BRS leader alleges no action against VC",
+     "BRS MLAs demand action against the VC"
+    ],
+    "why": "It concerns the safety of women faculty at the agricultural university and action on harassment allegations.",
+    "cat": "Rangareddy · Politics",
+    "statl": "BRS leader at agri university"
+   },
+   "hi": {
+    "h": "कृषि विश्वविद्यालय के प्रोफेसरों का समर्थन: पुलिस ने बीआरएस नेता को गिरफ्तार किया",
+    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार, राजेंद्रनगर कृषि विश्वविद्यालय में यौन उत्पीड़न का आरोप लगाने वाली महिला प्रोफेसरों से मिलने गए एक बीआरएस नेता को पुलिस ने गिरफ्तार किया। उन्होंने आरोप लगाया कि सरकार आरोपों का सामना कर रहे कुलपति पर कार्रवाई नहीं कर रही। गिरफ्तारी के कारण पर पुलिस का बयान और सरकार का जवाब रिपोर्ट में नहीं है।",
+    "pts": [
+     "महिला प्रोफेसरों का यौन उत्पीड़न का आरोप",
+     "बीआरएस नेता का आरोप: कुलपति पर कार्रवाई नहीं",
+     "बीआरएस विधायकों ने कुलपति पर कार्रवाई मांगी"
+    ],
+    "why": "यह कृषि विश्वविद्यालय में महिला शिक्षकों की सुरक्षा और उत्पीड़न के आरोपों पर कार्रवाई का मामला है।",
+    "cat": "रंगारेड्डी · राजनीति",
+    "statl": "कृषि विश्वविद्यालय में बीआरएस नेता"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "భద్రాద్రి · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "750",
+   "statl": "ఓటర్లకు ఒక పోలింగ్ బూత్ కావాలని వినతి",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నిక: బూర్గంపహాడ్‌లో అదనపు పోలింగ్ కేంద్రాలకు వినతి",
+   "p": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలో ప్రతి 750 మంది ఓటర్లకు ఒక పోలింగ్ బూత్ ఏర్పాటు చేయాలని బీఆర్ఎస్ మండల నేతలు బూర్గంపహాడ్ తహసీల్దార్‌కు వినతిపత్రం ఇచ్చారు. మండలంలో సుమారు 3,000 మంది పట్టభద్రులు ఓటర్లుగా నమోదయ్యారని తెలిపారు. గత ఎన్నికలో 2,079 మందికి రెండు కేంద్రాలే ఉండటంతో 3–4 గంటలు క్యూలో నిలబడాల్సి వచ్చిందన్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/khammam/badradri-kothagudem/polling-booth-should-be-set-up-for-every-750-voters-2556884",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "బూర్గంపహాడ్",
+   "pts": [
+    "మండలంలో సుమారు 3,000 మంది పట్టభద్ర ఓటర్లు",
+    "గతంలో 2,079 మందికి రెండు కేంద్రాలే",
+    "మరో రెండు పోలింగ్ కేంద్రాలు కావాలని వినతి"
+   ],
+   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలో ఓటు వేసే బూర్గంపహాడ్ మండల ఓటర్ల క్యూ సమస్యకు సంబంధించినది.",
+   "pub": "2026-11-10T18:14+05:30",
+   "en": {
+    "h": "Graduates' MLC poll: Plea for more polling centres in Burgampahad",
+    "p": "BRS mandal leaders submitted a representation to the Burgampahad Tahsildar asking for one polling booth for every 750 voters in the graduates' MLC election. They said about 3,000 graduates have enrolled as voters in the mandal. In the last election only two centres served 2,079 voters, forcing queues of 3–4 hours, they said.",
+    "pts": [
+     "About 3,000 graduate voters in the mandal",
+     "Earlier, only two centres for 2,079 voters",
+     "Plea for two more polling centres"
+    ],
+    "why": "It concerns long queues faced by graduate voters of Burgampahad mandal in the MLC election.",
+    "cat": "Bhadradri · Elections",
+    "statl": "Voters per booth sought"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी चुनाव: बूर्गमपहाड़ में अधिक मतदान केंद्रों की मांग",
+    "p": "बीआरएस मंडल नेताओं ने बूर्गमपहाड़ तहसीलदार को ज्ञापन देकर स्नातक एमएलसी चुनाव में हर 750 मतदाताओं पर एक मतदान बूथ की मांग की। उन्होंने बताया कि मंडल में करीब 3,000 स्नातक मतदाता पंजीकृत हुए हैं। उनके अनुसार पिछले चुनाव में 2,079 मतदाताओं के लिए केवल दो केंद्र थे, जिससे 3–4 घंटे कतार में रहना पड़ा।",
+    "pts": [
+     "मंडल में करीब 3,000 स्नातक मतदाता",
+     "पहले 2,079 मतदाताओं पर केवल दो केंद्र",
+     "दो और मतदान केंद्रों की मांग"
+    ],
+    "why": "यह एमएलसी चुनाव में बूर्गमपहाड़ मंडल के स्नातक मतदाताओं की लंबी कतारों से जुड़ा है।",
+    "cat": "भद्राद्रि · चुनाव",
+    "statl": "प्रति बूथ मतदाता की मांग"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "సూర్యాపేట · సమాజం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "30 ఏళ్లు",
+   "statl": "సామాజిక సేవకు గుర్తింపు",
+   "h": "కోదాడకు చెందిన ఎమ్మార్పీఎస్ నేత చింతాబాబు మాదిగకు అంబేద్కర్ జాతీయ పురస్కారం",
+   "p": "ఎమ్మార్పీఎస్ రాష్ట్ర నాయకుడు చింతాబాబు మాదిగకు డాక్టర్ బి.ఆర్. అంబేద్కర్ జాతీయ పురస్కారం లభించింది. బహుజన సాహిత్య అకాడమీ జాతీయ అధ్యక్షుడు నల్ల రాధాకృష్ణ ఈ అవార్డు ప్రకటించారని ఆయన కోదాడలో తెలిపారు. యువజన సంఘాల ద్వారా మూడు దశాబ్దాల సామాజిక సేవ, యువత చైతన్యానికి గుర్తింపుగా ఈ నెల 15న ఢిల్లీలో పురస్కారం అందుకోనున్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/national-award-for-chintababu-madiga-2556923",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "suryapet",
+   "loc": "కోదాడ",
+   "pts": [
+    "బహుజన సాహిత్య అకాడమీ ప్రకటించిన పురస్కారం",
+    "ఈ నెల 15న ఢిల్లీలో ప్రదానం",
+    "మూడు దశాబ్దాల సామాజిక సేవకు గుర్తింపు"
+   ],
+   "why": "సూర్యాపేట జిల్లా నుంచి సామాజిక సేవకు జాతీయ స్థాయి గుర్తింపు లభించిన వార్త.",
+   "pub": "2026-11-10T19:14+05:30",
+   "en": {
+    "h": "Kodad MRPS leader Chintababu Madiga gets Ambedkar National Award",
+    "p": "MRPS state leader Chintababu Madiga has received the Dr B.R. Ambedkar National Award. He said in Kodad that the award was announced by Nalla Radhakrishna, national president of the Bahujana Sahitya Academy. Recognising three decades of social service and youth awareness work through youth associations, he will receive it in Delhi on the 15th of this month.",
+    "pts": [
+     "Award announced by Bahujana Sahitya Academy",
+     "To be presented in Delhi on the 15th",
+     "Recognises three decades of social service"
+    ],
+    "why": "It is national recognition for social service from Suryapet district.",
+    "cat": "Suryapet · Society",
+    "statl": "Recognition for social service"
+   },
+   "hi": {
+    "h": "कोदाड़ के एमआरपीएस नेता चिंताबाबू मादिगा को अंबेडकर राष्ट्रीय पुरस्कार",
+    "p": "एमआरपीएस के राज्य नेता चिंताबाबू मादिगा को डॉ. बी.आर. अंबेडकर राष्ट्रीय पुरस्कार मिला है। उन्होंने कोदाड़ में बताया कि बहुजन साहित्य अकादमी के राष्ट्रीय अध्यक्ष नल्ला राधाकृष्ण ने पुरस्कार की घोषणा की। युवा संगठनों के जरिए तीन दशकों की समाज सेवा और युवा जागरूकता के लिए वे इस महीने की 15 तारीख को दिल्ली में पुरस्कार लेंगे।",
+    "pts": [
+     "बहुजन साहित्य अकादमी ने घोषणा की",
+     "15 तारीख को दिल्ली में सम्मान",
+     "तीन दशकों की समाज सेवा की पहचान"
+    ],
+    "why": "यह सूर्यापेट जिले से समाज सेवा को मिली राष्ट्रीय पहचान की खबर है।",
+    "cat": "सूर्यापेट · समाज",
+    "statl": "समाज सेवा की पहचान"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · క్రీడలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "120",
+   "statl": "జట్లకు గరిష్ఠ అవకాశం",
+   "h": "అండర్-14 స్కూల్ క్రికెట్ టోర్నీకి హెచ్‌సీఏ ఎంట్రీల ఆహ్వానం",
+   "p": "హెచ్‌సీఏ అండర్-14 స్కూల్ టోర్నమెంట్ 2026–27 కోసం తెలంగాణ అంతటా అర్హత ఉన్న పాఠశాలల నుంచి హైదరాబాద్ క్రికెట్ అసోసియేషన్ ఎంట్రీలు ఆహ్వానించింది. టోర్నీ నవంబర్ మూడో వారంలో జరిగే అవకాశం ఉంది. గరిష్ఠంగా 120 జట్లకు అవకాశం ఉంటుంది. ఒక్కో పాఠశాల 15 మంది ఆటగాళ్ల జట్టు నమోదు చేయవచ్చు, ఎంట్రీ ఫీజు ₹2,000.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hca-invites-entries-for-under-14-school-tournament-2026-27",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ మూడో వారంలో టోర్నీ అవకాశం",
+    "ఒక్కో పాఠశాల గరిష్ఠంగా 15 మంది ఆటగాళ్లు",
+    "ఒక్కో పాఠశాలకు ఎంట్రీ ఫీజు ₹2,000"
+   ],
+   "why": "తెలంగాణలోని పాఠశాలల యువ క్రికెటర్లకు పోటీలో పాల్గొనే అవకాశం.",
+   "pub": "2026-11-10T21:17+05:30",
+   "en": {
+    "h": "HCA invites entries for Under-14 school cricket tournament",
+    "p": "The Hyderabad Cricket Association has invited entries from eligible schools across Telangana for the HCA Under-14 School Tournament 2026–27. The tournament is tentatively set for the third week of November. A maximum of 120 teams can take part. Each school may register a squad of up to 15 players, and the entry fee is ₹2,000.",
+    "pts": [
+     "Tournament likely in third week of November",
+     "Up to 15 players per school",
+     "Entry fee ₹2,000 per school"
+    ],
+    "why": "It gives young school cricketers across Telangana a chance to compete.",
+    "cat": "Hyderabad · Sports",
+    "statl": "Maximum teams"
+   },
+   "hi": {
+    "h": "अंडर-14 स्कूल क्रिकेट टूर्नामेंट के लिए एचसीए ने प्रविष्टियां मांगीं",
+    "p": "हैदराबाद क्रिकेट एसोसिएशन ने एचसीए अंडर-14 स्कूल टूर्नामेंट 2026–27 के लिए पूरे तेलंगाना के योग्य स्कूलों से प्रविष्टियां मांगी हैं। टूर्नामेंट नवंबर के तीसरे सप्ताह में होने की संभावना है। अधिकतम 120 टीमें भाग ले सकती हैं। हर स्कूल 15 खिलाड़ियों तक की टीम दर्ज करा सकता है, प्रवेश शुल्क ₹2,000 है।",
+    "pts": [
+     "नवंबर के तीसरे सप्ताह में टूर्नामेंट संभव",
+     "प्रति स्कूल अधिकतम 15 खिलाड़ी",
+     "प्रति स्कूल प्रवेश शुल्क ₹2,000"
+    ],
+    "why": "इससे तेलंगाना के स्कूली युवा क्रिकेटरों को प्रतियोगिता का मौका मिलेगा।",
+    "cat": "हैदराबाद · खेल",
+    "statl": "अधिकतम टीमें"
+   },
+   "d": "10.11.2026",
+   "t": "22:05"
+  },
   {
    "cat": "గద్వాల · రైతులు",
    "col": "--c-gov",
@@ -2159,357 +2361,6 @@
     "cat": "साइबराबाद · सड़क सुरक्षा",
     "statl": "दुर्घटना संभावित स्थान"
    }
-  },
-  {
-   "cat": "ఏపీ · కేబినెట్",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "30+",
-   "statl": "అంశాలకు ఆమోదం",
-   "h": "ఏపీ కేబినెట్: రోబోటిక్స్, ఫిజికల్ ఏఐ పాలసీలకు ఆమోదం",
-   "p": "సీఎం చంద్రబాబు అధ్యక్షతన అమరావతి సచివాలయంలో మంగళవారం జరిగిన మంత్రివర్గ సమావేశం పలు కీలక నిర్ణయాలు తీసుకుంది. రోబోటిక్స్, ఫిజికల్ ఏఐ పాలసీలు, ఏవీజీసీ-ఎక్స్‌ఆర్ పాలసీ, సెమీకండక్టర్ పాలసీ సవరణలకు ఆమోదం లభించింది. రాంబిల్లిలో డేటా సెంటర్, భీమిలిలో 512 మెగావాట్ల ఏఐ డేటా సెంటర్, విజయవాడలో వ్యర్థాల నుంచి విద్యుత్ ప్లాంట్‌కు పచ్చజెండా ఊపింది.",
-   "pts": [
-    "రోబోటిక్స్, ఫిజికల్ ఏఐ పాలసీలకు ఆమోదం",
-    "భీమిలిలో 512 మెగావాట్ల ఏఐ డేటా సెంటర్",
-    "పెనుకొండలో ప్రభుత్వ ఐటీఐ, పోలీస్ శాఖలో రోడ్ సేఫ్టీ డైరెక్టరేట్"
-   ],
-   "why": "కొత్త పరిశ్రమలు, డేటా సెంటర్లతో ఏపీ యువతకు ఉద్యోగావకాశాలపై ప్రభావం ఉంటుంది.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/andhra-pradesh/guntur/ap-cabinet-key-decisions-robotics-ai-policies-vvnp-1574965.html",
-   "sec": [
-    "telangana",
-    "ai",
-    "business"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "loc": "వెలగపూడి",
-   "pub": "2026-11-10T15:36+05:30",
-   "en": {
-    "cat": "AP · Cabinet",
-    "statl": "Items approved",
-    "h": "AP Cabinet approves Robotics and Physical AI policies",
-    "p": "The Andhra Pradesh Cabinet, chaired by CM Chandrababu Naidu at the Amaravati Secretariat on Tuesday, took several key decisions. It approved Robotics and Physical AI policies, the AVGC-XR policy and amendments to the semiconductor policy. It cleared a data centre at Rambilli, a 512 MW AI data centre at Bheemili and a waste-to-energy plant in Vijayawada.",
-    "pts": [
-     "Robotics and Physical AI policies approved",
-     "512 MW AI data centre at Bheemili",
-     "Govt ITI at Penukonda, road safety directorate in police"
-    ],
-    "why": "New industries and data centres will affect job opportunities for AP's youth."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · कैबिनेट",
-    "statl": "मुद्दों को मंज़ूरी",
-    "h": "एपी कैबिनेट ने रोबोटिक्स और फिज़िकल एआई नीतियों को मंज़ूरी दी",
-    "p": "मुख्यमंत्री चंद्रबाबू नायडू की अध्यक्षता में मंगलवार को अमरावती सचिवालय में हुई आंध्र प्रदेश मंत्रिमंडल की बैठक में कई अहम फैसले लिए गए। रोबोटिक्स और फिज़िकल एआई नीतियों, एवीजीसी-एक्सआर नीति और सेमीकंडक्टर नीति में संशोधनों को मंज़ूरी मिली। रामबिल्ली में डेटा सेंटर, भीमिली में 512 मेगावाट एआई डेटा सेंटर और विजयवाड़ा में कचरे से बिजली संयंत्र को हरी झंडी दी गई।",
-    "pts": [
-     "रोबोटिक्स, फिज़िकल एआई नीतियों को मंज़ूरी",
-     "भीमिली में 512 मेगावाट एआई डेटा सेंटर",
-     "पेनुकोंडा में सरकारी आईटीआई, पुलिस में सड़क सुरक्षा निदेशालय"
-    ],
-    "why": "नए उद्योगों और डेटा सेंटरों से आंध्र प्रदेश के युवाओं के रोज़गार अवसरों पर असर पड़ेगा।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "659",
-   "statl": "మండల పరిషత్‌లు",
-   "h": "ఎంపీపీ ఎన్నిక 19న, జడ్పీ ఛైర్మన్ ఎన్నిక 20న: ఎస్‌ఈసీ నోటిఫికేషన్",
-   "p": "ఏపీ రాష్ట్ర ఎన్నికల సంఘం 659 మండల ప్రజా పరిషత్‌లు, 28 జిల్లా ప్రజా పరిషత్‌ల అధ్యక్ష, ఉపాధ్యక్ష పదవుల పరోక్ష ఎన్నికలకు మంగళవారం నోటిఫికేషన్లు జారీ చేసింది. ఎంపీపీ పదవులకు నవంబర్ 19న, జడ్పీ ఛైర్మన్, వైస్ ఛైర్మన్ పదవులకు 20న ప్రత్యేక సమావేశాల్లో ఎన్నిక జరుగుతుంది. చేతులెత్తే పద్ధతిలో ఓటింగ్ ఉంటుంది; ఎన్నికైన ఎంపీటీసీ, జడ్పీటీసీ సభ్యులకు మాత్రమే ఓటు హక్కు ఉంటుంది.",
-   "pts": [
-    "ఎంపీపీ ఎన్నిక నవంబర్ 19న",
-    "జడ్పీ ఛైర్మన్, వైస్ ఛైర్మన్ ఎన్నిక 20న",
-    "ముందుగా కో-ఆప్షన్ సభ్యుల ఎన్నిక"
-   ],
-   "why": "ఏపీలో మండల, జిల్లా పరిషత్ పాలక వర్గాలు ఎవరివో ఈ ఎన్నికలతో తేలనుంది.",
-   "src": "ETV Bharat",
-   "url": "https://etvbharat.com/te/politics/ap-sec-released-notifications-for-mpp-zpp-indirect-elections-2026-aps26111002637",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-10T15:13+05:30",
-   "en": {
-    "cat": "AP · Local polls",
-    "statl": "Mandal Parishads",
-    "h": "AP SEC notifies MPP polls on Nov 19, ZP chairperson polls on Nov 20",
-    "p": "The Andhra Pradesh State Election Commission issued notifications on Tuesday for indirect elections of presidents and vice-presidents of 659 Mandal Praja Parishads and 28 Zilla Praja Parishads. MPP posts will be filled on November 19 and ZP chairperson and vice-chairperson posts on November 20 at special meetings. Voting is by show of hands; only elected MPTC and ZPTC members can vote.",
-    "pts": [
-     "MPP election on November 19",
-     "ZP chair and vice-chair election on November 20",
-     "Co-opted members to be elected first"
-    ],
-    "why": "These elections decide who heads mandal and district parishads across AP."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "मंडल परिषद",
-    "h": "एपी: एमपीपी चुनाव 19 नवंबर, जेडपी अध्यक्ष चुनाव 20 नवंबर को",
-    "p": "आंध्र प्रदेश राज्य निर्वाचन आयोग ने मंगलवार को 659 मंडल प्रजा परिषदों और 28 जिला प्रजा परिषदों के अध्यक्ष व उपाध्यक्ष पदों के अप्रत्यक्ष चुनाव की अधिसूचनाएं जारी कीं। एमपीपी पदों के लिए 19 नवंबर और जेडपी अध्यक्ष व उपाध्यक्ष पदों के लिए 20 नवंबर को विशेष बैठकों में चुनाव होगा। मतदान हाथ उठाकर होगा; केवल निर्वाचित एमपीटीसी और जेडपीटीसी सदस्य ही वोट दे सकेंगे।",
-    "pts": [
-     "एमपीपी चुनाव 19 नवंबर को",
-     "जेडपी अध्यक्ष, उपाध्यक्ष चुनाव 20 नवंबर को",
-     "पहले सहयोजित सदस्यों का चुनाव"
-    ],
-    "why": "इन चुनावों से तय होगा कि आंध्र प्रदेश में मंडल और जिला परिषदों की कमान किसके हाथ होगी।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · విమానాశ్రయం",
-   "col": "--c-city",
-   "art": "economy",
-   "stat": "CAT III",
-   "statl": "రన్‌వే 09R అప్‌గ్రేడ్",
-   "h": "పొగమంచులోనూ విమానాలు: శంషాబాద్ రన్‌వేకు CAT III సామర్థ్యం",
-   "p": "హైదరాబాద్ అంతర్జాతీయ విమానాశ్రయంలోని రన్‌వే 09Rకు జీఎంఆర్ హైదరాబాద్ ఇంటర్నేషనల్ ఎయిర్‌పోర్ట్ లిమిటెడ్ CAT III ఎయిర్‌ఫీల్డ్ గ్రౌండ్ లైటింగ్ సామర్థ్యాన్ని ప్రారంభించింది. దీంతో చాలా తక్కువ దృశ్యమానతలోనూ విమానాలు నడపొచ్చు. చలికాలం పొగమంచు సమయంలో విమానాల మళ్లింపులు, ఆలస్యాలు తగ్గుతాయని కథనం పేర్కొంది. ప్రయాణికులకు ఆలస్యాలు తగ్గుతాయని సీఈవో కదిర్ కదిరవన్ చెప్పారు.",
-   "pts": [
-    "CAT II నుంచి CAT IIIకి అప్‌గ్రేడ్",
-    "తక్కువ దృశ్యమానతలోనూ ల్యాండింగ్‌లు",
-    "స్వదేశీ PLC-SCADA వ్యవస్థతో లైటింగ్ నియంత్రణ"
-   ],
-   "why": "శీతాకాలంలో హైదరాబాద్ నుంచి ప్రయాణించే వారికి ఆలస్యాలు, మళ్లింపులు తగ్గే అవకాశం ఉంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-airport-upgrades-runway-09r-for-cat-iii-operations",
-   "sec": [
-    "telangana",
-    "innovation"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "శంషాబాద్",
-   "pub": "2026-11-10T15:05+05:30",
-   "en": {
-    "cat": "Hyderabad · Airport",
-    "statl": "Runway 09R upgrade",
-    "h": "Flights even in fog: Hyderabad airport runway gets CAT III capability",
-    "p": "GMR Hyderabad International Airport Ltd has commissioned CAT III Airfield Ground Lighting capability for Runway 09R at Hyderabad International Airport. Aircraft can now operate in much lower visibility. The article says this should reduce diversions and delays during the winter fog season. CEO Kadhir Kadhiravan said passengers will see fewer delays.",
-    "pts": [
-     "Upgraded from CAT II to CAT III",
-     "Landings possible in very low visibility",
-     "Indigenous PLC-SCADA system controls lighting"
-    ],
-    "why": "Travellers flying from Hyderabad in winter may face fewer delays and diversions."
-   },
-   "hi": {
-    "cat": "हैदराबाद · हवाई अड्डा",
-    "statl": "रनवे 09R अपग्रेड",
-    "h": "कोहरे में भी उड़ानें: हैदराबाद एयरपोर्ट रनवे को CAT III क्षमता",
-    "p": "जीएमआर हैदराबाद इंटरनेशनल एयरपोर्ट लिमिटेड ने हैदराबाद अंतरराष्ट्रीय हवाई अड्डे के रनवे 09R पर CAT III एयरफील्ड ग्राउंड लाइटिंग क्षमता शुरू की है। अब बहुत कम दृश्यता में भी विमान संचालन हो सकेगा। लेख के अनुसार सर्दियों में कोहरे के दौरान उड़ानों के डायवर्जन और देरी कम होंगी। सीईओ कदिर कदिरवन ने कहा कि यात्रियों को कम देरी का सामना करना पड़ेगा।",
-    "pts": [
-     "CAT II से CAT III में अपग्रेड",
-     "बहुत कम दृश्यता में भी लैंडिंग संभव",
-     "स्वदेशी PLC-SCADA प्रणाली से लाइटिंग नियंत्रण"
-    ],
-    "why": "सर्दियों में हैदराबाद से उड़ान भरने वालों को देरी और डायवर्जन कम झेलने पड़ सकते हैं।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆర్టీసీ",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "86",
-   "statl": "బస్ స్టేషన్లు",
-   "h": "అన్ని బస్ స్టేషన్లలో సీసీటీవీ కెమెరాలు: టీజీఎస్ఆర్టీసీ",
-   "p": "ప్రయాణికుల భద్రత, రద్దీ నియంత్రణ కోసం అన్ని బస్ స్టేషన్లలో సీసీటీవీ కెమెరాలు ఏర్పాటు చేయాలని టీజీఎస్ఆర్టీసీ నిర్ణయించింది. రోజుకు 5 వేల మందికి పైగా ప్రయాణించే 86 ప్రధాన బస్ స్టేషన్లలో ఒక్కో కంట్రోలర్‌ను నియమించి, ఎంక్వైరీ నంబర్లు అందుబాటులో ఉంచారు. త్వరలో కొత్త టైమ్‌టేబుల్ బోర్డులు ఏర్పాటు చేస్తామని, సీసీటీవీలను ప్రధాన కార్యాలయానికి అనుసంధానిస్తామని ఆర్టీసీ తెలిపింది.",
-   "pts": [
-    "86 ప్రధాన స్టేషన్లలో కంట్రోలర్లు, ఎంక్వైరీ నంబర్లు",
-    "మొదటి, చివరి బస్సుల సమయాలపై అనౌన్స్‌మెంట్లు",
-    "సీసీటీవీలకు కేంద్రీకృత పర్యవేక్షణ"
-   ],
-   "why": "రోజూ ఆర్టీసీ బస్సుల్లో ప్రయాణించే లక్షలాది మందికి భద్రత, సమాచారం మెరుగుపడతాయి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/tgsrtc-plans-cctv-at-bus-stations-augmentation-of-passenger-f6246537",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-10T13:51+05:30",
-   "en": {
-    "cat": "Telangana · RTC",
-    "statl": "Bus stations",
-    "h": "CCTV cameras at all bus stations: TGSRTC",
-    "p": "TGSRTC has decided to install CCTV cameras at all bus stations for passenger safety and crowd management. At 86 major bus stations with over 5,000 passengers a day, a controller has been appointed at each and enquiry numbers provided. The RTC said new timetable boards will be put up soon and the CCTVs will be linked to its headquarters.",
-    "pts": [
-     "Controllers, enquiry numbers at 86 major stations",
-     "Announcements on first and last bus timings",
-     "Centralised monitoring of CCTVs"
-    ],
-    "why": "Safety and information will improve for the lakhs who travel by RTC buses daily."
-   },
-   "hi": {
-    "cat": "तेलंगाना · आरटीसी",
-    "statl": "बस स्टेशन",
-    "h": "सभी बस स्टेशनों पर सीसीटीवी कैमरे: टीजीएसआरटीसी",
-    "p": "टीजीएसआरटीसी ने यात्रियों की सुरक्षा और भीड़ प्रबंधन के लिए सभी बस स्टेशनों पर सीसीटीवी कैमरे लगाने का फैसला किया है। रोज़ 5,000 से अधिक यात्रियों वाले 86 प्रमुख बस स्टेशनों पर एक-एक कंट्रोलर नियुक्त किया गया है और पूछताछ नंबर दिए गए हैं। आरटीसी ने कहा कि जल्द नए टाइमटेबल बोर्ड लगेंगे और सीसीटीवी मुख्यालय से जोड़े जाएंगे।",
-    "pts": [
-     "86 प्रमुख स्टेशनों पर कंट्रोलर, पूछताछ नंबर",
-     "पहली और आखिरी बस के समय की घोषणा",
-     "सीसीटीवी की केंद्रीकृत निगरानी"
-    ],
-    "why": "रोज़ आरटीसी बसों से सफर करने वाले लाखों लोगों की सुरक्षा और जानकारी बेहतर होगी।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "తెలంగాణ · రైల్వే",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "1 జనవరి",
-   "statl": "సూపర్‌ఫాస్ట్‌గా మార్పు",
-   "h": "చర్లపల్లి–తిరుచానూరు ఎక్స్‌ప్రెస్ ఇక సూపర్‌ఫాస్ట్",
-   "p": "చర్లపల్లి–తిరుచానూరు–చర్లపల్లి ఎక్స్‌ప్రెస్‌ను 2027 జనవరి 1 నుంచి సూపర్‌ఫాస్ట్ రైలుగా మారుస్తున్నట్లు దక్షిణ మధ్య రైల్వే ప్రకటించింది. రైలు నంబర్ 17047 ఇకపై 12729గా, 17048 ఇకపై 12730గా మారుతుంది. బయలుదేరే సమయాల్లో మార్పు లేదు. తిరుచానూరు నుంచి వచ్చే రైలు చర్లపల్లికి ఉదయం 7కు బదులు 6 గంటలకే చేరుకుంటుంది.",
-   "pts": [
-    "2027 జనవరి 1 నుంచి అమలు",
-    "రైలు నంబర్లు 12729, 12730గా మార్పు",
-    "తిరుగు ప్రయాణంలో గంట ముందే రాక"
-   ],
-   "why": "హైదరాబాద్ నుంచి తిరుపతి వెళ్లే భక్తులు, ప్రయాణికులకు కొత్త నంబర్లు, సమయం తెలుసుకోవాలి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/charlapalli-tiruchanur-express-to-become-superfast-4f0406f4",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "చర్లపల్లి",
-   "pub": "2026-11-10T13:07+05:30",
-   "en": {
-    "cat": "Telangana · Railways",
-    "statl": "Turns superfast",
-    "h": "Charlapalli–Tiruchanur Express to become superfast",
-    "p": "South Central Railway said the Charlapalli–Tiruchanur–Charlapalli Express will become a superfast train from January 1, 2027. Train No. 17047 will be renumbered 12729 and 17048 will become 12730. Departure times are unchanged. The train from Tiruchanur will reach Charlapalli at 6 am instead of 7 am.",
-    "pts": [
-     "Effective from January 1, 2027",
-     "Renumbered 12729 and 12730",
-     "Return train arrives an hour earlier"
-    ],
-    "why": "Pilgrims and passengers travelling between Hyderabad and Tirupati need to note the new numbers and timing."
-   },
-   "hi": {
-    "cat": "तेलंगाना · रेलवे",
-    "statl": "सुपरफास्ट बनेगी",
-    "h": "चर्लापल्ली–तिरुचानूर एक्सप्रेस अब सुपरफास्ट होगी",
-    "p": "दक्षिण मध्य रेलवे ने कहा कि चर्लापल्ली–तिरुचानूर–चर्लापल्ली एक्सप्रेस 1 जनवरी 2027 से सुपरफास्ट ट्रेन बनेगी। ट्रेन नंबर 17047 का नया नंबर 12729 और 17048 का 12730 होगा। प्रस्थान समय में कोई बदलाव नहीं है। तिरुचानूर से आने वाली ट्रेन चर्लापल्ली सुबह 7 के बजाय 6 बजे पहुंचेगी।",
-    "pts": [
-     "1 जनवरी 2027 से लागू",
-     "नए नंबर 12729 और 12730",
-     "वापसी ट्रेन एक घंटा पहले पहुंचेगी"
-    ],
-    "why": "हैदराबाद और तिरुपति के बीच सफर करने वाले श्रद्धालुओं व यात्रियों को नए नंबर और समय जानने होंगे।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "నల్గొండ · విద్యార్థుల భద్రత",
-   "col": "--c-power",
-   "art": "campus",
-   "stat": "విచారణ",
-   "statl": "తల్లిదండ్రుల డిమాండ్",
-   "h": "నిడమనూరు గురుకులంలో పారిశుద్ధ్య కార్మికుడిపై విద్యార్థినుల ఆరోపణ",
-   "p": "నల్గొండ జిల్లా నిడమనూరులోని సోషల్ వెల్ఫేర్ రెసిడెన్షియల్ జూనియర్ కళాశాలలో ఒక పారిశుద్ధ్య కార్మికుడు తమతో అనుచితంగా ప్రవర్తిస్తున్నాడని విద్యార్థినులు ఆరోపించారు. ఫిర్యాదు చేసినా యాజమాన్యం స్పందించలేదని వారు ఆరోపించారు. తల్లిదండ్రులు కళాశాలకు చేరుకుని విచారణకు డిమాండ్ చేశారు. విద్యార్థినుల వాంగ్మూలాలను గోప్యంగా నమోదు చేయాలని విద్యార్థి సంఘాలు కోరాయని Telangana Today కథనం పేర్కొంది.",
-   "pts": [
-    "కార్మికుడిపై విద్యార్థినుల ఆరోపణ",
-    "యాజమాన్యం స్పందించలేదని ఆరోపణ",
-    "గోప్యంగా వాంగ్మూలాల నమోదుకు డిమాండ్"
-   ],
-   "why": "గురుకులాల్లో చదువుతున్న బాలికల భద్రతపై తల్లిదండ్రుల్లో ఆందోళన నెలకొంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/girl-students-allege-harassment-by-sanitary-worker-at-nidamanoor-gurukulam",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "నిడమనూరు",
-   "pub": "2026-11-10T13:18+05:30",
-   "en": {
-    "cat": "Nalgonda · Student safety",
-    "statl": "Parents demand probe",
-    "h": "Nidamanoor gurukulam students allege harassment by sanitary worker",
-    "p": "Girl students at the Social Welfare Residential Junior College in Nidamanoor, Nalgonda district, alleged that a sanitary worker behaved inappropriately with them. They alleged that management did not respond to their complaints. Parents reached the college and demanded an inquiry. Student organisations sought that the girls' statements be recorded confidentially, Telangana Today reported.",
-    "pts": [
-     "Students allege misconduct by worker",
-     "Allege management ignored complaints",
-     "Demand for confidential recording of statements"
-    ],
-    "why": "Parents are worried about the safety of girls studying in residential colleges."
-   },
-   "hi": {
-    "cat": "नलगोंडा · छात्र सुरक्षा",
-    "statl": "अभिभावकों ने जांच मांगी",
-    "h": "निडमनूर गुरुकुल की छात्राओं का सफाईकर्मी पर उत्पीड़न का आरोप",
-    "p": "नलगोंडा जिले के निडमनूर स्थित सोशल वेलफेयर रेज़िडेंशियल जूनियर कॉलेज की छात्राओं ने आरोप लगाया कि एक सफाईकर्मी ने उनके साथ अनुचित व्यवहार किया। उन्होंने आरोप लगाया कि शिकायत करने पर भी प्रबंधन ने कोई कार्रवाई नहीं की। अभिभावक कॉलेज पहुंचे और जांच की मांग की। तेलंगाना टुडे के अनुसार छात्र संगठनों ने छात्राओं के बयान गोपनीय रूप से दर्ज करने की मांग की।",
-    "pts": [
-     "छात्राओं का कर्मी पर दुर्व्यवहार का आरोप",
-     "प्रबंधन पर शिकायत अनसुनी करने का आरोप",
-     "बयान गोपनीय दर्ज करने की मांग"
-    ],
-    "why": "आवासीय कॉलेजों में पढ़ रही छात्राओं की सुरक्षा को लेकर अभिभावक चिंतित हैं।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "MLC",
-   "statl": "పట్టభద్రుల ఎన్నికలు",
-   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలపై కేటీఆర్ కీలక భేటీ",
-   "p": "త్వరలో జరగనున్న పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలే ప్రధాన ఎజెండాగా బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ మంగళవారం తెలంగాణ భవన్‌లో పార్టీ సీనియర్ నేతలతో సమావేశం కానున్నారని తెలుగుపోస్ట్ కథనం పేర్కొంది. ఎన్నికల వ్యూహం, ఓటర్ల నమోదు, అభ్యర్థుల ఎంపికపై చర్చ జరిగే అవకాశం ఉంది. ఈ ఎన్నికలను పార్టీ ప్రతిష్ఠాత్మకంగా తీసుకుంటోందని కథనం తెలిపింది.",
-   "pts": [
-    "తెలంగాణ భవన్‌లో సీనియర్ నేతలతో భేటీ",
-    "ఓటర్ల నమోదు, ప్రచార వ్యూహంపై చర్చ",
-    "అభ్యర్థుల ఎంపికపై చర్చకు అవకాశం"
-   ],
-   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేసే గ్రాడ్యుయేట్లకు ఈ ఎన్నికల పోటీ ముఖ్యం.",
-   "src": "Telugu Post",
-   "url": "https://www.telugupost.com/telangana/ktr-meeting-brs-leaders-hyderabad-today-1625479",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-10T11:33+05:30",
-   "en": {
-    "cat": "Telangana · Politics",
-    "statl": "Graduate MLC polls",
-    "h": "KTR holds key meeting on Graduate MLC elections",
-    "p": "BRS working president KTR is to meet senior party leaders at Telangana Bhavan on Tuesday with the upcoming Graduate MLC elections as the main agenda, Telugu Post reported. Election strategy, voter enrolment and possibly candidate selection are likely to be discussed. The report said the party is treating the polls as a prestige contest.",
-    "pts": [
-     "Meeting with senior leaders at Telangana Bhavan",
-     "Voter enrolment, campaign strategy on agenda",
-     "Candidate selection may be discussed"
-    ],
-    "why": "The contest matters to graduates who vote in the Graduate MLC elections."
-   },
-   "hi": {
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "स्नातक एमएलसी चुनाव",
-    "h": "स्नातक एमएलसी चुनाव पर केटीआर की अहम बैठक",
-    "p": "तेलुगुपोस्ट के अनुसार बीआरएस कार्यकारी अध्यक्ष केटीआर मंगलवार को तेलंगाना भवन में आगामी स्नातक एमएलसी चुनावों को मुख्य एजेंडा बनाकर पार्टी के वरिष्ठ नेताओं से मिलेंगे। चुनावी रणनीति, मतदाता पंजीकरण और संभवतः उम्मीदवार चयन पर चर्चा होगी। रिपोर्ट के अनुसार पार्टी इन चुनावों को प्रतिष्ठा का सवाल मान रही है।",
-    "pts": [
-     "तेलंगाना भवन में वरिष्ठ नेताओं से बैठक",
-     "मतदाता पंजीकरण, प्रचार रणनीति पर चर्चा",
-     "उम्मीदवार चयन पर चर्चा संभव"
-    ],
-    "why": "स्नातक एमएलसी चुनाव में वोट देने वाले स्नातकों के लिए यह मुकाबला अहम है।"
-   },
-   "d": "10.11.2026",
-   "t": "16:05"
   },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",
