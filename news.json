@@ -1,8 +1,260 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T20:42:14+05:30",
+ "updated": "2026-11-10T21:09:52+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "కొత్తగూడెం · కార్మికులు",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "550",
+   "statl": "బోనస్ కోసం ఆందోళనలో కాంట్రాక్ట్ కార్మికులు",
+   "h": "బోనస్ వివాదం: వీకే బొగ్గు గని కాంట్రాక్ట్ కార్మికుల సమ్మె హెచ్చరిక",
+   "p": "కొత్తగూడెంలోని వీకే (వెంకటేశ్‌ఖని) ఓపెన్‌కాస్ట్ గనిలో సుమారు 550 మంది కాంట్రాక్ట్ కార్మికులకు బోనస్, భత్యాలు చెల్లించడం లేదని 11 కార్మిక సంఘాల జేఏసీ ఆరోపిస్తోంది. మస్టర్‌కు ₹120 కావాలని కార్మికులు, ₹65 ఇస్తామని కాంట్రాక్ట్ సంస్థ అంటోంది. చర్చలు విఫలమైతే బుధవారం నుంచి సమ్మె చేస్తామని జేఏసీ హెచ్చరించింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/vk-coal-mine-contract-workers-threaten-strike-over-bonus-dispute",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "కొత్తగూడెం",
+   "pts": [
+    "సుమారు 550 మంది కాంట్రాక్ట్ కార్మికుల బోనస్ డిమాండ్",
+    "కార్మికులు ₹120 అడిగితే సంస్థ ₹65 ఆఫర్",
+    "ఎస్సీసీఎల్ జీఎం కార్యాలయం వద్ద మంగళవారం ధర్నా"
+   ],
+   "why": "సింగరేణి గనుల్లో పనిచేసే కాంట్రాక్ట్ కార్మికుల ఆదాయం, బొగ్గు ఉత్పత్తిపై ఈ వివాదం ప్రభావం చూపవచ్చు.",
+   "pub": "2026-11-10T20:36+05:30",
+   "en": {
+    "h": "Bonus row: VK coal mine contract workers threaten strike",
+    "p": "A JAC of 11 trade unions alleges that about 550 contract workers at the VK (Venkateshkhani) opencast mine in Kothagudem are not being paid bonus and allowances. Workers want ₹120 per muster while the contracting firm offers ₹65. The JAC warned it would strike from Wednesday if talks fail.",
+    "pts": [
+     "About 550 contract workers demand bonus",
+     "Workers seek ₹120, firm offers ₹65",
+     "Dharna at SCCL GM office on Tuesday"
+    ],
+    "why": "The dispute may affect the income of contract workers in Singareni mines and coal output.",
+    "cat": "Kothagudem · Workers",
+    "statl": "Contract workers agitating for bonus"
+   },
+   "hi": {
+    "h": "बोनस विवाद: वीके कोयला खदान के ठेका मजदूरों ने हड़ताल की चेतावनी दी",
+    "p": "11 मजदूर संगठनों की जेएसी का आरोप है कि कोत्तागुडेम की वीके (वेंकटेशखनी) ओपनकास्ट खदान में करीब 550 ठेका मजदूरों को बोनस और भत्ते नहीं दिए जा रहे। मजदूर प्रति मस्टर ₹120 चाहते हैं, जबकि ठेका कंपनी ₹65 दे रही है। जेएसी ने कहा कि बातचीत विफल हुई तो बुधवार से हड़ताल होगी।",
+    "pts": [
+     "करीब 550 ठेका मजदूरों की बोनस मांग",
+     "मजदूर ₹120 मांग रहे, कंपनी ₹65 दे रही",
+     "मंगलवार को एससीसीएल जीएम दफ्तर पर धरना"
+    ],
+    "why": "यह विवाद सिंगरेणी खदानों के ठेका मजदूरों की आय और कोयला उत्पादन पर असर डाल सकता है।",
+    "cat": "कोत्तागुडेम · मजदूर",
+    "statl": "बोनस के लिए आंदोलन कर रहे ठेका मजदूर"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగాలు",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "15 రోజులు",
+   "statl": "టీజీపీఎస్సీ రాతపూర్వక జవాబుకు గడువు",
+   "h": "గ్రూప్-1 పరీక్షపై న్యాయ విచారణ, ఫోరెన్సిక్ ఆడిట్ కోరిన బీఆర్‌ఎస్",
+   "p": "గ్రూప్-1 మెయిన్స్, మూల్యాంకనంలో అక్రమాలు జరిగాయని ఆరోపిస్తూ ఎమ్మెల్సీ దాసోజు శ్రవణ్ నేతృత్వంలో బీఆర్‌ఎస్ బృందం, అభ్యర్థులు మంగళవారం టీజీపీఎస్సీ చైర్మన్‌కు వినతిపత్రం ఇచ్చారు. హైకోర్టు జడ్జి నేతృత్వంలో 90 రోజుల్లో విచారణ జరపాలని, 15 రోజుల్లో జవాబు ఇవ్వాలని కోరారు. టీజీపీఎస్సీ స్పందన కథనంలో లేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/brs-seeks-judicial-inquiry-forensic-audit-into-group-i-examination",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "563 పోస్టులన్నింటిపై విచారణ కోరిన బీఆర్‌ఎస్",
+    "112 మంది శిక్షణ డీఎస్పీల్లో 40 మందికి పైగా ఫెయిల్ అని ఆరోపణ",
+    "జవాబు పత్రాలు, సీసీటీవీ రికార్డులు భద్రపరచాలని డిమాండ్"
+   ],
+   "why": "గ్రూప్-1 అభ్యర్థులు, ఎంపికైన అధికారుల భవిష్యత్తుపై ఈ డిమాండ్ ప్రభావం చూపే అవకాశం ఉంది.",
+   "pub": "2026-11-10T19:57+05:30",
+   "en": {
+    "h": "BRS seeks judicial inquiry, forensic audit into Group-I exam",
+    "p": "Alleging irregularities in the Group-I mains and evaluation, a BRS team led by MLC Dasoju Sravan, along with aspirants, gave a representation to the TGPSC Chairman on Tuesday. They sought an inquiry led by a High Court judge within 90 days and a reply within 15 days. The article carries no TGPSC response.",
+    "pts": [
+     "BRS seeks inquiry covering all 563 posts",
+     "Alleges over 40 of 112 trainee DSPs failed",
+     "Demands preservation of answer scripts, CCTV records"
+    ],
+    "why": "The demand could affect the future of Group-I aspirants and selected officers.",
+    "cat": "Telangana · Jobs",
+    "statl": "Deadline for TGPSC written reply"
+   },
+   "hi": {
+    "h": "बीआरएस ने ग्रुप-1 परीक्षा की न्यायिक जांच, फॉरेंसिक ऑडिट मांगा",
+    "p": "ग्रुप-1 मेन्स और मूल्यांकन में अनियमितताओं का आरोप लगाते हुए एमएलसी दासोजु श्रवण के नेतृत्व में बीआरएस दल और अभ्यर्थियों ने मंगलवार को टीजीपीएससी अध्यक्ष को ज्ञापन दिया। उन्होंने हाईकोर्ट जज की अगुवाई में 90 दिन में जांच और 15 दिन में जवाब मांगा। खबर में टीजीपीएससी का जवाब नहीं है।",
+    "pts": [
+     "बीआरएस ने सभी 563 पदों की जांच मांगी",
+     "आरोप: 112 प्रशिक्षु डीएसपी में 40 से ज्यादा फेल",
+     "उत्तर पुस्तिकाएं, सीसीटीवी रिकॉर्ड सुरक्षित रखने की मांग"
+    ],
+    "why": "यह मांग ग्रुप-1 अभ्यर्थियों और चयनित अधिकारियों के भविष्य पर असर डाल सकती है।",
+    "cat": "तेलंगाना · नौकरियां",
+    "statl": "टीजीपीएससी के लिखित जवाब की समय-सीमा"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "సంగారెడ్డి · నేరాలు",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "కేసు నమోదు",
+   "statl": "కంగ్టి పోలీసుల దర్యాప్తు",
+   "h": "సంగారెడ్డి జిల్లాలో మంచంపై కాలిన స్థితిలో వ్యక్తి మృతదేహం: అనుమానాస్పద మృతి",
+   "p": "సంగారెడ్డి జిల్లా కంగ్టి మండలం దేగుల్‌వాడిలో 40 ఏళ్ల వ్యక్తి మంగళవారం ఉదయం తన ఇంట్లో మంచంపై కాలిన స్థితిలో మృతి చెంది కనిపించారు. ఎవరో హత్య చేసి ప్రమాదంగా చిత్రీకరిస్తున్నారని కుటుంబ సభ్యులు ఆరోపిస్తున్నారు. కంగ్టి పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. మృతికి కారణం ఇంకా తేలలేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/man-found-charred-in-bed-under-suspicious-circumstances-in-sangareddy",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "దేగుల్‌వాడి",
+   "pts": [
+    "కంగ్టి మండలంలో అనుమానాస్పద స్థితిలో మృతి",
+    "హత్య అని కుటుంబ సభ్యుల ఆరోపణ",
+    "నారాయణఖేడ్ ఆసుపత్రికి పోస్టుమార్టం కోసం తరలింపు"
+   ],
+   "why": "మృతికి కారణం పోలీసుల దర్యాప్తు, పోస్టుమార్టం నివేదికతోనే తేలనుంది.",
+   "pub": "2026-11-10T19:51+05:30",
+   "en": {
+    "h": "Man found charred on bed in Sangareddy district: suspicious death",
+    "p": "A 40-year-old man was found dead and charred on his bed at his house in Degulwadi, Kangti mandal, Sangareddy district, on Tuesday morning. His family alleges that someone killed him and is trying to pass it off as an accident. Kangti police have registered a case and are investigating. The cause of death is not yet known.",
+    "pts": [
+     "Suspicious death in Kangti mandal",
+     "Family alleges murder",
+     "Body sent to Narayankhed hospital for postmortem"
+    ],
+    "why": "The cause of death will be known only from the police probe and postmortem report.",
+    "cat": "Sangareddy · Crime",
+    "statl": "Kangti police investigating"
+   },
+   "hi": {
+    "h": "संगारेड्डी जिले में बिस्तर पर जली हालत में मिला शव: संदिग्ध मौत",
+    "p": "संगारेड्डी जिले के कंगटी मंडल के देगुलवाड़ी में मंगलवार सुबह 40 वर्षीय व्यक्ति अपने घर में बिस्तर पर जली हालत में मृत मिला। परिवार का आरोप है कि किसी ने उसकी हत्या कर इसे हादसा दिखाने की कोशिश की है। कंगटी पुलिस ने मामला दर्ज कर जांच शुरू की है। मौत का कारण अभी पता नहीं है।",
+    "pts": [
+     "कंगटी मंडल में संदिग्ध हालात में मौत",
+     "परिवार ने हत्या का आरोप लगाया",
+     "पोस्टमार्टम के लिए शव नारायणखेड़ अस्पताल भेजा गया"
+    ],
+    "why": "मौत का कारण पुलिस जांच और पोस्टमार्टम रिपोर्ट से ही पता चलेगा।",
+    "cat": "संगारेड्डी · अपराध",
+    "statl": "कंगटी पुलिस की जांच"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "ఏపీ · ప్రభుత్వం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "1996",
+   "statl": "బ్యాచ్ ఐపీఎస్ అధికారి సస్పెన్షన్ పొడిగింపు",
+   "h": "సీనియర్ ఐపీఎస్ అధికారి సస్పెన్షన్‌ను పొడిగించిన ఏపీ ప్రభుత్వం",
+   "p": "1996 బ్యాచ్ ఐపీఎస్ అధికారిపై క్రిమినల్ కేసులు ముగిసే వరకు లేదా ఆయన పదవీ విరమణ వరకు సస్పెన్షన్ కొనసాగిస్తూ ఏపీ ప్రభుత్వం మంగళవారం ఉత్తర్వులిచ్చింది. అగ్నిమాపక శాఖ డీజీగా ఉన్నప్పుడు ఎన్‌ఓసీ పోర్టల్‌లో నిధుల దుర్వినియోగం జరిగిందన్న ఆరోపణలపై 2024 డిసెంబర్‌లో ఆయన సస్పెండ్ అయ్యారు. ఏసీబీ దర్యాప్తు కొనసాగుతోందని పీటీఐ తెలిపింది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/andhra-pradesh-extends-ips-officer-n-sanjays-suspension",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "నవంబర్ 6న సమీక్ష కమిటీ సిఫారసు",
+    "2024 డిసెంబర్ 24న ఏసీబీ కేసు నమోదు",
+    "ఆధారాలు తారుమారు చేసే అవకాశం ఉందని జీవో"
+   ],
+   "why": "అవినీతి ఆరోపణలున్న అధికారులపై ప్రభుత్వ చర్యలను ఈ నిర్ణయం సూచిస్తోంది.",
+   "pub": "2026-11-10T20:29+05:30",
+   "en": {
+    "h": "Andhra Pradesh extends suspension of senior IPS officer",
+    "p": "The Andhra Pradesh government on Tuesday ordered that the suspension of a 1996-batch IPS officer continue until his criminal cases end or he retires. He was suspended in December 2024 over alleged misappropriation in the NoC portal while he was DG of Fire Services. PTI said the ACB investigation is continuing.",
+    "pts": [
+     "Review committee recommended it on November 6",
+     "ACB case registered on December 24, 2024",
+     "GO says he could tamper with evidence"
+    ],
+    "why": "The decision shows government action against officers facing corruption allegations.",
+    "cat": "AP · Government",
+    "statl": "Batch IPS officer's suspension extended"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश ने वरिष्ठ आईपीएस अधिकारी का निलंबन बढ़ाया",
+    "p": "आंध्र प्रदेश सरकार ने मंगलवार को आदेश दिया कि 1996 बैच के एक आईपीएस अधिकारी का निलंबन उनके आपराधिक मामले खत्म होने या सेवानिवृत्ति तक जारी रहेगा। अग्निशमन सेवा के डीजी रहते एनओसी पोर्टल में कथित गड़बड़ी के आरोप में उन्हें दिसंबर 2024 में निलंबित किया गया था। पीटीआई के मुताबिक एसीबी जांच जारी है।",
+    "pts": [
+     "समीक्षा समिति ने 6 नवंबर को सिफारिश की",
+     "24 दिसंबर 2024 को एसीबी केस दर्ज",
+     "जीओ: सबूतों से छेड़छाड़ की आशंका"
+    ],
+    "why": "यह फैसला भ्रष्टाचार के आरोपों वाले अधिकारियों पर सरकारी कार्रवाई दिखाता है।",
+    "cat": "आंध्र प्रदेश · सरकार",
+    "statl": "बैच के आईपीएस अधिकारी का निलंबन बढ़ा"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "51,005",
+   "statl": "2025-26లో టీజీ-ఐపాస్ ద్వారా ఉద్యోగాలు",
+   "h": "టీజీ-ఐపాస్ పరిశ్రమల ఉద్యోగాలు కరోనా కాలం స్థాయి కంటే తక్కువ: టీటీ విశ్లేషణ",
+   "p": "టీజీ-ఐపాస్ గణాంకాల ప్రకారం 2024-25లో ప్రభుత్వ సహకారంతో వచ్చిన పరిశ్రమల ఉద్యోగాలు 38.5% తగ్గి 49,523కు, పెట్టుబడులు 52.5% తగ్గి ₹11,719.90 కోట్లకు చేరాయని తెలంగాణ టుడే విశ్లేషణ తెలిపింది. 2025-26లో ఉద్యోగాలు 3% పెరిగి 51,005 అయినా, 2019-20లోని 59,261 కంటే తక్కువే. ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telanganas-industrial-growth-under-congress-trails-pandemic-era-levels",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "2025-26లో పెట్టుబడులు ₹10,236.76 కోట్లు",
+    "2021-22లో 88,110 ఉద్యోగాలు వచ్చాయి",
+    "1,146 ప్రతిపాదనలు ఇంకా పెండింగ్‌లో"
+   ],
+   "why": "రాష్ట్రంలో కొత్త పరిశ్రమలు, ఉద్యోగ అవకాశాల తీరును ఈ గణాంకాలు చూపుతున్నాయి.",
+   "pub": "2026-11-10T17:20+05:30",
+   "en": {
+    "h": "TG-iPASS industry jobs below pandemic-era levels: Telangana Today analysis",
+    "p": "Citing TG-iPASS data, a Telangana Today analysis said jobs from government-facilitated industries fell 38.5% to 49,523 in 2024-25 and investments fell 52.5% to ₹11,719.90 crore. In 2025-26 jobs rose 3% to 51,005, still below 59,261 in 2019-20. The article carries no government response.",
+    "pts": [
+     "2025-26 investments at ₹10,236.76 crore",
+     "88,110 jobs came in 2021-22",
+     "1,146 proposals still pending"
+    ],
+    "why": "The figures show the trend of new industries and job opportunities in the state.",
+    "cat": "Telangana · Industry",
+    "statl": "Jobs via TG-iPASS in 2025-26"
+   },
+   "hi": {
+    "h": "टीजी-आईपास उद्योगों की नौकरियां महामारी काल से भी कम: तेलंगाना टुडे विश्लेषण",
+    "p": "टीजी-आईपास आंकड़ों के हवाले से तेलंगाना टुडे के विश्लेषण में कहा गया कि 2024-25 में सरकारी सहायता से आए उद्योगों की नौकरियां 38.5% घटकर 49,523 और निवेश 52.5% घटकर ₹11,719.90 करोड़ रह गया। 2025-26 में नौकरियां 3% बढ़कर 51,005 हुईं, जो 2019-20 के 59,261 से कम हैं। खबर में सरकार का जवाब नहीं है।",
+    "pts": [
+     "2025-26 में निवेश ₹10,236.76 करोड़",
+     "2021-22 में 88,110 नौकरियां आईं",
+     "1,146 प्रस्ताव अब भी लंबित"
+    ],
+    "why": "ये आंकड़े राज्य में नए उद्योगों और रोजगार के रुझान को दिखाते हैं।",
+    "cat": "तेलंगाना · उद्योग",
+    "statl": "2025-26 में टीजी-आईपास से नौकरियां"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "రంగారెడ్డి · హైకోర్టు",
    "col": "--c-city",
@@ -2258,257 +2510,6 @@
    },
    "d": "10.11.2026",
    "t": "15:35"
-  },
-  {
-   "cat": "వికారాబాద్ · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "2",
-   "statl": "పోలీసులకు తీవ్ర గాయాలు",
-   "h": "పరిగిలో పోలీసు వాహనం బోల్తా: ఇద్దరు పోలీసులకు గాయాలు",
-   "p": "వికారాబాద్ జిల్లా పరిగిలో పోలీసు వాహనం అదుపు తప్పి డివైడర్‌ను ఢీకొని బోల్తా పడింది. ఈ ఘటనలో ఇద్దరు పోలీసులకు తీవ్ర గాయాలు కాగా ఆసుపత్రికి తరలించారు. ముఖ్యమంత్రి పర్యటన బందోబస్తు విధులు ముగించుకుని తిరిగి వస్తుండగా ప్రమాదం జరిగిందని ఈటీవీ భారత్ కథనం.",
-   "pts": [
-    "డ్రైవర్ అదుపు తప్పి డివైడర్‌కు ఢీ",
-    "ఇద్దరు పోలీసులకు తీవ్ర గాయాలు",
-    "సీఎం పర్యటన బందోబస్తు నుంచి తిరుగు ప్రయాణం"
-   ],
-   "why": "రహదారులపై వేగం, జాగ్రత్తల అవసరాన్ని ఈ ప్రమాదం మరోసారి గుర్తుచేస్తోంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#pargi-police-vehicle",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "vikarabad",
-   "loc": "పరిగి",
-   "pub": "2026-11-10T08:19+05:30",
-   "en": {
-    "cat": "Vikarabad · Accident",
-    "statl": "Policemen seriously injured",
-    "h": "Police vehicle overturns in Pargi; two policemen injured",
-    "p": "A police vehicle went out of control, hit a divider and overturned at Pargi in Vikarabad district. Two policemen were seriously injured and taken to hospital. According to ETV Bharat, the accident happened while the vehicle was returning from security duty for the Chief Minister's visit.",
-    "pts": [
-     "Driver lost control, hit divider",
-     "Two policemen seriously injured",
-     "Returning from CM visit security duty"
-    ],
-    "why": "The accident is another reminder of the need for caution on roads."
-   },
-   "hi": {
-    "cat": "विकाराबाद · हादसा",
-    "statl": "पुलिसकर्मी गंभीर घायल",
-    "h": "परिगी में पुलिस वाहन पलटा, दो पुलिसकर्मी घायल",
-    "p": "विकाराबाद जिले के परिगी में एक पुलिस वाहन अनियंत्रित होकर डिवाइडर से टकराया और पलट गया। इसमें दो पुलिसकर्मी गंभीर रूप से घायल हुए, जिन्हें अस्पताल ले जाया गया। ईटीवी भारत के अनुसार वाहन मुख्यमंत्री के दौरे की सुरक्षा ड्यूटी से लौट रहा था।",
-    "pts": [
-     "चालक का नियंत्रण छूटा, डिवाइडर से टक्कर",
-     "दो पुलिसकर्मी गंभीर घायल",
-     "सीएम दौरे की सुरक्षा ड्यूटी से वापसी"
-    ],
-    "why": "यह हादसा सड़कों पर सावधानी की जरूरत की फिर याद दिलाता है।"
-   },
-   "d": "10.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3",
-   "statl": "తీవ్ర గాయాలు",
-   "h": "నాచారంలో ఆటోను ఢీకొన్న కారు: ముగ్గురికి తీవ్ర గాయాలు",
-   "p": "హైదరాబాద్ నాచారంలో వేగంగా వచ్చిన కారు ఆటోను ఢీకొంది. ఈ ప్రమాదంలో ముగ్గురికి తీవ్ర గాయాలయ్యాయి. నాచారం పోలీసులు క్షతగాత్రులను ఆసుపత్రికి తరలించారని ఈటీవీ భారత్ కథనం పేర్కొంది.",
-   "pts": [
-    "వేగంగా వచ్చిన కారు ఆటోకు ఢీ",
-    "ముగ్గురికి తీవ్ర గాయాలు",
-    "క్షతగాత్రులు ఆసుపత్రికి"
-   ],
-   "why": "నగర రహదారులపై అతివేగం ప్రమాదాలకు దారితీస్తోందని ఇది చూపుతోంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#nacharam-accident",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "నాచారం",
-   "pub": "2026-11-10T08:15+05:30",
-   "en": {
-    "cat": "Hyderabad · Accident",
-    "statl": "Seriously injured",
-    "h": "Car hits auto in Nacharam; three seriously injured",
-    "p": "A speeding car hit an auto-rickshaw at Nacharam in Hyderabad. Three people were seriously injured in the accident. ETV Bharat reported that Nacharam police shifted the injured to hospital.",
-    "pts": [
-     "Speeding car hit an auto",
-     "Three seriously injured",
-     "Injured shifted to hospital"
-    ],
-    "why": "It shows how speeding on city roads leads to accidents."
-   },
-   "hi": {
-    "cat": "हैदराबाद · हादसा",
-    "statl": "गंभीर घायल",
-    "h": "नाचारम में कार ने ऑटो को टक्कर मारी, तीन गंभीर घायल",
-    "p": "हैदराबाद के नाचारम में तेज रफ्तार कार ने एक ऑटो-रिक्शा को टक्कर मार दी। हादसे में तीन लोग गंभीर रूप से घायल हुए। ईटीवी भारत के अनुसार नाचारम पुलिस ने घायलों को अस्पताल पहुंचाया।",
-    "pts": [
-     "तेज रफ्तार कार ने ऑटो को टक्कर मारी",
-     "तीन गंभीर घायल",
-     "घायल अस्पताल भेजे गए"
-    ],
-    "why": "यह दिखाता है कि शहर की सड़कों पर तेज रफ्तार हादसों का कारण बन रही है।"
-   },
-   "d": "10.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "ఏపీ · నంద్యాల",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "డిసెంబర్ 9",
-   "statl": "వరకు కార్తిక మాసోత్సవాలు",
-   "h": "శ్రీశైలంలో కార్తిక మాసోత్సవాలు ప్రారంభం: అభిషేకాలు నిలిపివేత",
-   "p": "నంద్యాల జిల్లా శ్రీశైలం ఆలయంలో కార్తిక మాసోత్సవాలు ప్రారంభమయ్యాయి, డిసెంబర్ 9 వరకు కొనసాగుతాయి. ఈ నెల రోజులు రూ.5,000 గర్భాలయ అభిషేకాలు, రూ.1,500 సామూహిక అభిషేకాలు రద్దు చేశారు. శని, ఆది, సోమవారాల్లో స్పర్శ దర్శనం ఉండదు; మంగళ నుంచి శుక్రవారం వరకు విడతలుగా అనుమతిస్తారు. 20న కోటి దీపోత్సవం జరగనుంది.",
-   "pts": [
-    "డిసెంబర్ 9 వరకు ఉత్సవాలు",
-    "శని, ఆది, సోమవారాల్లో స్పర్శ దర్శనం లేదు",
-    "20న కోటి దీపోత్సవం"
-   ],
-   "why": "కార్తిక మాసంలో శ్రీశైలం వెళ్లే తెలుగు రాష్ట్రాల భక్తులు ఈ మార్పులు తెలుసుకోవాలి.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441#srisailam-karthika",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "AP",
-   "place": "ap-nandyal",
-   "loc": "శ్రీశైలం",
-   "pub": "2026-11-10T08:17+05:30",
-   "en": {
-    "cat": "AP · Nandyal",
-    "statl": "Karthika festivities till",
-    "h": "Karthika festivities begin at Srisailam; abhishekams suspended",
-    "p": "Karthika month festivities have begun at the Srisailam temple in Nandyal district and will continue until December 9. For this month, Rs 5,000 garbhalaya abhishekams and Rs 1,500 group abhishekams are cancelled. Touch darshan will not be available on Saturdays, Sundays and Mondays; it will be allowed in phases from Tuesday to Friday. A Koti Deepotsavam will be held on the 20th.",
-    "pts": [
-     "Festivities till December 9",
-     "No touch darshan Sat, Sun, Mon",
-     "Koti Deepotsavam on the 20th"
-    ],
-    "why": "Devotees from both Telugu states visiting Srisailam in Karthika month should know these changes."
-   },
-   "hi": {
-    "cat": "आंध्र प्रदेश · नंद्याल",
-    "statl": "तक कार्तिक उत्सव",
-    "h": "श्रीशैलम में कार्तिक मासोत्सव शुरू, अभिषेक स्थगित",
-    "p": "नंद्याल जिले के श्रीशैलम मंदिर में कार्तिक मासोत्सव शुरू हो गए हैं, जो 9 दिसंबर तक चलेंगे। इस महीने 5,000 रुपये के गर्भालय अभिषेक और 1,500 रुपये के सामूहिक अभिषेक रद्द रहेंगे। शनिवार, रविवार और सोमवार को स्पर्श दर्शन नहीं होगा; मंगलवार से शुक्रवार तक चरणों में अनुमति होगी। 20 तारीख को कोटि दीपोत्सव होगा।",
-    "pts": [
-     "9 दिसंबर तक उत्सव",
-     "शनि, रवि, सोम को स्पर्श दर्शन नहीं",
-     "20 को कोटि दीपोत्सव"
-    ],
-    "why": "कार्तिक माह में श्रीशैलम जाने वाले दोनों तेलुगु राज्यों के श्रद्धालुओं को ये बदलाव जानने चाहिए।"
-   },
-   "d": "10.11.2026",
-   "t": "15:35"
-  },
-  {
-   "cat": "సిద్దిపేట · సంక్షేమం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "₹5 లక్షలు",
-   "statl": "ఇందిరమ్మ బీమా పథకం",
-   "h": "19న సిద్దిపేటలో ఇందిరమ్మ బీమా పథకం ప్రారంభం: మంత్రి వివేక్",
-   "p": "రూ.5 లక్షల ఇందిరమ్మ బీమా పథకాన్ని ఈ నెల 19న సిద్దిపేటలో సీఎం రేవంత్ రెడ్డి ప్రారంభిస్తారని మంత్రి వివేక్ వెంకటస్వామి తెలిపారు. 20 లక్షల విద్యార్థులకు అల్పాహార పథకం కూడా అమలు చేస్తామన్నారు. సభా స్థలాన్ని మంత్రులు పొన్నం ప్రభాకర్, వివేక్, కలెక్టర్ హైమావతి పరిశీలించారు. అదే రోజు ఇందిరమ్మ చీరలను ఆవిష్కరిస్తామని పొన్నం చెప్పారు.",
-   "pts": [
-    "19న సిద్దిపేటలో సీఎం సభ",
-    "రూ.5 లక్షల ఇందిరమ్మ బీమా ప్రారంభం",
-    "20 లక్షల విద్యార్థులకు అల్పాహార పథకం"
-   ],
-   "why": "అర్హులైన కుటుంబాలకు బీమా, విద్యార్థులకు అల్పాహారం అందే పథకాలు ఇవి.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/medak/telangana-ministers-ponnam-prabhakar-and-vivek-venkataswamy-inspect-siddipet-cm-revanth-reddy-meeting-venue-vk-1574944.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "siddipet",
-   "pub": "2026-11-10T12:45+05:30",
-   "en": {
-    "cat": "Siddipet · Welfare",
-    "statl": "Indiramma Bheema scheme",
-    "h": "Indiramma Bheema scheme to be launched in Siddipet on 19th: Minister Vivek",
-    "p": "Minister Vivek Venkataswamy said CM Revanth Reddy will launch the Rs 5 lakh Indiramma Bheema scheme in Siddipet on the 19th of this month. He said a breakfast scheme for 20 lakh students will also be implemented. Ministers Ponnam Prabhakar and Vivek and Collector Haimavathi inspected the meeting venue. Ponnam said Indiramma sarees will be unveiled the same day.",
-    "pts": [
-     "CM's meeting in Siddipet on 19th",
-     "Launch of Rs 5 lakh Indiramma Bheema",
-     "Breakfast scheme for 20 lakh students"
-    ],
-    "why": "These schemes bring insurance to eligible families and breakfast to students."
-   },
-   "hi": {
-    "cat": "सिद्दिपेट · कल्याण",
-    "statl": "इंदिरम्मा बीमा योजना",
-    "h": "19 को सिद्दिपेट में इंदिरम्मा बीमा योजना की शुरुआत: मंत्री विवेक",
-    "p": "मंत्री विवेक वेंकटस्वामी ने कहा कि मुख्यमंत्री रेवंत रेड्डी इस महीने की 19 तारीख को सिद्दिपेट में 5 लाख रुपये की इंदिरम्मा बीमा योजना शुरू करेंगे। उन्होंने कहा कि 20 लाख छात्रों के लिए नाश्ता योजना भी लागू होगी। मंत्री पोन्नम प्रभाकर, विवेक और कलेक्टर हैमावती ने सभा स्थल का निरीक्षण किया। पोन्नम ने कहा कि उसी दिन इंदिरम्मा साड़ियों का अनावरण होगा।",
-    "pts": [
-     "19 को सिद्दिपेट में मुख्यमंत्री की सभा",
-     "5 लाख रुपये की इंदिरम्मा बीमा की शुरुआत",
-     "20 लाख छात्रों के लिए नाश्ता योजना"
-    ],
-    "why": "ये योजनाएं पात्र परिवारों को बीमा और छात्रों को नाश्ता देंगी।"
-   },
-   "d": "10.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "రా.7–ఉ.4",
-   "statl": "సదర్ మేళా ట్రాఫిక్ మళ్లింపులు",
-   "h": "సదర్ మేళా: నారాయణగూడ వైఎంసీఏ వద్ద ఈ రాత్రి ట్రాఫిక్ మళ్లింపులు",
-   "p": "నారాయణగూడ వైఎంసీఏ వద్ద సదర్ ఉత్సవ మేళా సందర్భంగా నవంబర్ 10 రాత్రి 7 నుంచి 11 తెల్లవారుజామున 4 గంటల వరకు ట్రాఫిక్ మళ్లింపులు ఉంటాయని హైదరాబాద్ ట్రాఫిక్ పోలీసులు ప్రకటించారు. రామ్‌కోటి వైపు నుంచి వచ్చే వాహనాలను కాచిగూడ ఎక్స్‌రోడ్స్ వద్ద మళ్లిస్తారు. సందర్శకులు కేశవ మెమోరియల్ కళాశాల మైదానంలో పార్క్ చేయాలి. హెల్ప్‌లైన్: 9010203626.",
-   "pts": [
-    "నవంబర్ 10 రాత్రి 7 నుంచి ఉదయం 4 వరకు",
-    "కేశవ మెమోరియల్ మైదానంలో పార్కింగ్",
-    "ఆర్టీసీ బస్సులు వైఎంసీఏ సర్కిల్‌కు దూరం"
-   ],
-   "why": "నారాయణగూడ, కాచిగూడ మార్గాల్లో ప్రయాణించే వాహనదారులు ముందే ప్రత్యామ్నాయ దారులు చూసుకోవాలి.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/traffic-diversions-announced-for-sadar-mela-in-hyderabad-3572809/",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "నారాయణగూడ",
-   "pub": "2026-11-10T09:45+05:30",
-   "en": {
-    "cat": "Hyderabad · Traffic",
-    "statl": "Sadar Mela traffic diversions",
-    "h": "Sadar Mela: traffic diversions near Narayanguda YMCA tonight",
-    "p": "Hyderabad Traffic Police announced diversions for the Sadar Utsav Mela at YMCA, Narayanguda, from 7 pm on November 10 to 4 am on November 11. Vehicles coming from Ramkoti side will be diverted at Kachiguda X Roads. Visitors should park at Keshav Memorial College grounds. Helpline: 9010203626.",
-    "pts": [
-     "From 7 pm Nov 10 to 4 am",
-     "Parking at Keshav Memorial grounds",
-     "RTC buses to avoid YMCA Circle"
-    ],
-    "why": "Motorists using Narayanguda and Kachiguda routes should plan alternative roads in advance."
-   },
-   "hi": {
-    "cat": "हैदराबाद · ट्रैफिक",
-    "statl": "सदर मेला ट्रैफिक डायवर्जन",
-    "h": "सदर मेला: नारायणगुडा वाईएमसीए के पास आज रात ट्रैफिक डायवर्जन",
-    "p": "हैदराबाद ट्रैफिक पुलिस ने नारायणगुडा वाईएमसीए पर सदर उत्सव मेले के लिए 10 नवंबर रात 7 बजे से 11 नवंबर सुबह 4 बजे तक डायवर्जन की घोषणा की। रामकोटी की ओर से आने वाले वाहनों को काचीगुडा एक्स रोड्स पर मोड़ा जाएगा। आगंतुक केशव मेमोरियल कॉलेज मैदान में पार्क करें। हेल्पलाइन: 9010203626।",
-    "pts": [
-     "10 नवंबर रात 7 से सुबह 4 बजे तक",
-     "केशव मेमोरियल मैदान में पार्किंग",
-     "आरटीसी बसें वाईएमसीए सर्कल से दूर"
-    ],
-    "why": "नारायणगुडा और काचीगुडा मार्गों पर चलने वाले वाहन चालक पहले से वैकल्पिक रास्ते तय करें।"
-   },
-   "d": "10.11.2026",
-   "t": "15:05"
   },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",

@@ -1,8 +1,260 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 82,
+ "count": 87,
  "stories": [
+  {
+   "cat": "కొత్తగూడెం · కార్మికులు",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "550",
+   "statl": "బోనస్ కోసం ఆందోళనలో కాంట్రాక్ట్ కార్మికులు",
+   "h": "బోనస్ వివాదం: వీకే బొగ్గు గని కాంట్రాక్ట్ కార్మికుల సమ్మె హెచ్చరిక",
+   "p": "కొత్తగూడెంలోని వీకే (వెంకటేశ్‌ఖని) ఓపెన్‌కాస్ట్ గనిలో సుమారు 550 మంది కాంట్రాక్ట్ కార్మికులకు బోనస్, భత్యాలు చెల్లించడం లేదని 11 కార్మిక సంఘాల జేఏసీ ఆరోపిస్తోంది. మస్టర్‌కు ₹120 కావాలని కార్మికులు, ₹65 ఇస్తామని కాంట్రాక్ట్ సంస్థ అంటోంది. చర్చలు విఫలమైతే బుధవారం నుంచి సమ్మె చేస్తామని జేఏసీ హెచ్చరించింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/vk-coal-mine-contract-workers-threaten-strike-over-bonus-dispute",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "కొత్తగూడెం",
+   "pts": [
+    "సుమారు 550 మంది కాంట్రాక్ట్ కార్మికుల బోనస్ డిమాండ్",
+    "కార్మికులు ₹120 అడిగితే సంస్థ ₹65 ఆఫర్",
+    "ఎస్సీసీఎల్ జీఎం కార్యాలయం వద్ద మంగళవారం ధర్నా"
+   ],
+   "why": "సింగరేణి గనుల్లో పనిచేసే కాంట్రాక్ట్ కార్మికుల ఆదాయం, బొగ్గు ఉత్పత్తిపై ఈ వివాదం ప్రభావం చూపవచ్చు.",
+   "pub": "2026-11-10T20:36+05:30",
+   "en": {
+    "h": "Bonus row: VK coal mine contract workers threaten strike",
+    "p": "A JAC of 11 trade unions alleges that about 550 contract workers at the VK (Venkateshkhani) opencast mine in Kothagudem are not being paid bonus and allowances. Workers want ₹120 per muster while the contracting firm offers ₹65. The JAC warned it would strike from Wednesday if talks fail.",
+    "pts": [
+     "About 550 contract workers demand bonus",
+     "Workers seek ₹120, firm offers ₹65",
+     "Dharna at SCCL GM office on Tuesday"
+    ],
+    "why": "The dispute may affect the income of contract workers in Singareni mines and coal output.",
+    "cat": "Kothagudem · Workers",
+    "statl": "Contract workers agitating for bonus"
+   },
+   "hi": {
+    "h": "बोनस विवाद: वीके कोयला खदान के ठेका मजदूरों ने हड़ताल की चेतावनी दी",
+    "p": "11 मजदूर संगठनों की जेएसी का आरोप है कि कोत्तागुडेम की वीके (वेंकटेशखनी) ओपनकास्ट खदान में करीब 550 ठेका मजदूरों को बोनस और भत्ते नहीं दिए जा रहे। मजदूर प्रति मस्टर ₹120 चाहते हैं, जबकि ठेका कंपनी ₹65 दे रही है। जेएसी ने कहा कि बातचीत विफल हुई तो बुधवार से हड़ताल होगी।",
+    "pts": [
+     "करीब 550 ठेका मजदूरों की बोनस मांग",
+     "मजदूर ₹120 मांग रहे, कंपनी ₹65 दे रही",
+     "मंगलवार को एससीसीएल जीएम दफ्तर पर धरना"
+    ],
+    "why": "यह विवाद सिंगरेणी खदानों के ठेका मजदूरों की आय और कोयला उत्पादन पर असर डाल सकता है।",
+    "cat": "कोत्तागुडेम · मजदूर",
+    "statl": "बोनस के लिए आंदोलन कर रहे ठेका मजदूर"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగాలు",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "15 రోజులు",
+   "statl": "టీజీపీఎస్సీ రాతపూర్వక జవాబుకు గడువు",
+   "h": "గ్రూప్-1 పరీక్షపై న్యాయ విచారణ, ఫోరెన్సిక్ ఆడిట్ కోరిన బీఆర్‌ఎస్",
+   "p": "గ్రూప్-1 మెయిన్స్, మూల్యాంకనంలో అక్రమాలు జరిగాయని ఆరోపిస్తూ ఎమ్మెల్సీ దాసోజు శ్రవణ్ నేతృత్వంలో బీఆర్‌ఎస్ బృందం, అభ్యర్థులు మంగళవారం టీజీపీఎస్సీ చైర్మన్‌కు వినతిపత్రం ఇచ్చారు. హైకోర్టు జడ్జి నేతృత్వంలో 90 రోజుల్లో విచారణ జరపాలని, 15 రోజుల్లో జవాబు ఇవ్వాలని కోరారు. టీజీపీఎస్సీ స్పందన కథనంలో లేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/brs-seeks-judicial-inquiry-forensic-audit-into-group-i-examination",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "563 పోస్టులన్నింటిపై విచారణ కోరిన బీఆర్‌ఎస్",
+    "112 మంది శిక్షణ డీఎస్పీల్లో 40 మందికి పైగా ఫెయిల్ అని ఆరోపణ",
+    "జవాబు పత్రాలు, సీసీటీవీ రికార్డులు భద్రపరచాలని డిమాండ్"
+   ],
+   "why": "గ్రూప్-1 అభ్యర్థులు, ఎంపికైన అధికారుల భవిష్యత్తుపై ఈ డిమాండ్ ప్రభావం చూపే అవకాశం ఉంది.",
+   "pub": "2026-11-10T19:57+05:30",
+   "en": {
+    "h": "BRS seeks judicial inquiry, forensic audit into Group-I exam",
+    "p": "Alleging irregularities in the Group-I mains and evaluation, a BRS team led by MLC Dasoju Sravan, along with aspirants, gave a representation to the TGPSC Chairman on Tuesday. They sought an inquiry led by a High Court judge within 90 days and a reply within 15 days. The article carries no TGPSC response.",
+    "pts": [
+     "BRS seeks inquiry covering all 563 posts",
+     "Alleges over 40 of 112 trainee DSPs failed",
+     "Demands preservation of answer scripts, CCTV records"
+    ],
+    "why": "The demand could affect the future of Group-I aspirants and selected officers.",
+    "cat": "Telangana · Jobs",
+    "statl": "Deadline for TGPSC written reply"
+   },
+   "hi": {
+    "h": "बीआरएस ने ग्रुप-1 परीक्षा की न्यायिक जांच, फॉरेंसिक ऑडिट मांगा",
+    "p": "ग्रुप-1 मेन्स और मूल्यांकन में अनियमितताओं का आरोप लगाते हुए एमएलसी दासोजु श्रवण के नेतृत्व में बीआरएस दल और अभ्यर्थियों ने मंगलवार को टीजीपीएससी अध्यक्ष को ज्ञापन दिया। उन्होंने हाईकोर्ट जज की अगुवाई में 90 दिन में जांच और 15 दिन में जवाब मांगा। खबर में टीजीपीएससी का जवाब नहीं है।",
+    "pts": [
+     "बीआरएस ने सभी 563 पदों की जांच मांगी",
+     "आरोप: 112 प्रशिक्षु डीएसपी में 40 से ज्यादा फेल",
+     "उत्तर पुस्तिकाएं, सीसीटीवी रिकॉर्ड सुरक्षित रखने की मांग"
+    ],
+    "why": "यह मांग ग्रुप-1 अभ्यर्थियों और चयनित अधिकारियों के भविष्य पर असर डाल सकती है।",
+    "cat": "तेलंगाना · नौकरियां",
+    "statl": "टीजीपीएससी के लिखित जवाब की समय-सीमा"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "సంగారెడ్డి · నేరాలు",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "కేసు నమోదు",
+   "statl": "కంగ్టి పోలీసుల దర్యాప్తు",
+   "h": "సంగారెడ్డి జిల్లాలో మంచంపై కాలిన స్థితిలో వ్యక్తి మృతదేహం: అనుమానాస్పద మృతి",
+   "p": "సంగారెడ్డి జిల్లా కంగ్టి మండలం దేగుల్‌వాడిలో 40 ఏళ్ల వ్యక్తి మంగళవారం ఉదయం తన ఇంట్లో మంచంపై కాలిన స్థితిలో మృతి చెంది కనిపించారు. ఎవరో హత్య చేసి ప్రమాదంగా చిత్రీకరిస్తున్నారని కుటుంబ సభ్యులు ఆరోపిస్తున్నారు. కంగ్టి పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. మృతికి కారణం ఇంకా తేలలేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/man-found-charred-in-bed-under-suspicious-circumstances-in-sangareddy",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "దేగుల్‌వాడి",
+   "pts": [
+    "కంగ్టి మండలంలో అనుమానాస్పద స్థితిలో మృతి",
+    "హత్య అని కుటుంబ సభ్యుల ఆరోపణ",
+    "నారాయణఖేడ్ ఆసుపత్రికి పోస్టుమార్టం కోసం తరలింపు"
+   ],
+   "why": "మృతికి కారణం పోలీసుల దర్యాప్తు, పోస్టుమార్టం నివేదికతోనే తేలనుంది.",
+   "pub": "2026-11-10T19:51+05:30",
+   "en": {
+    "h": "Man found charred on bed in Sangareddy district: suspicious death",
+    "p": "A 40-year-old man was found dead and charred on his bed at his house in Degulwadi, Kangti mandal, Sangareddy district, on Tuesday morning. His family alleges that someone killed him and is trying to pass it off as an accident. Kangti police have registered a case and are investigating. The cause of death is not yet known.",
+    "pts": [
+     "Suspicious death in Kangti mandal",
+     "Family alleges murder",
+     "Body sent to Narayankhed hospital for postmortem"
+    ],
+    "why": "The cause of death will be known only from the police probe and postmortem report.",
+    "cat": "Sangareddy · Crime",
+    "statl": "Kangti police investigating"
+   },
+   "hi": {
+    "h": "संगारेड्डी जिले में बिस्तर पर जली हालत में मिला शव: संदिग्ध मौत",
+    "p": "संगारेड्डी जिले के कंगटी मंडल के देगुलवाड़ी में मंगलवार सुबह 40 वर्षीय व्यक्ति अपने घर में बिस्तर पर जली हालत में मृत मिला। परिवार का आरोप है कि किसी ने उसकी हत्या कर इसे हादसा दिखाने की कोशिश की है। कंगटी पुलिस ने मामला दर्ज कर जांच शुरू की है। मौत का कारण अभी पता नहीं है।",
+    "pts": [
+     "कंगटी मंडल में संदिग्ध हालात में मौत",
+     "परिवार ने हत्या का आरोप लगाया",
+     "पोस्टमार्टम के लिए शव नारायणखेड़ अस्पताल भेजा गया"
+    ],
+    "why": "मौत का कारण पुलिस जांच और पोस्टमार्टम रिपोर्ट से ही पता चलेगा।",
+    "cat": "संगारेड्डी · अपराध",
+    "statl": "कंगटी पुलिस की जांच"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "ఏపీ · ప్రభుత్వం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "1996",
+   "statl": "బ్యాచ్ ఐపీఎస్ అధికారి సస్పెన్షన్ పొడిగింపు",
+   "h": "సీనియర్ ఐపీఎస్ అధికారి సస్పెన్షన్‌ను పొడిగించిన ఏపీ ప్రభుత్వం",
+   "p": "1996 బ్యాచ్ ఐపీఎస్ అధికారిపై క్రిమినల్ కేసులు ముగిసే వరకు లేదా ఆయన పదవీ విరమణ వరకు సస్పెన్షన్ కొనసాగిస్తూ ఏపీ ప్రభుత్వం మంగళవారం ఉత్తర్వులిచ్చింది. అగ్నిమాపక శాఖ డీజీగా ఉన్నప్పుడు ఎన్‌ఓసీ పోర్టల్‌లో నిధుల దుర్వినియోగం జరిగిందన్న ఆరోపణలపై 2024 డిసెంబర్‌లో ఆయన సస్పెండ్ అయ్యారు. ఏసీబీ దర్యాప్తు కొనసాగుతోందని పీటీఐ తెలిపింది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/andhra-pradesh-extends-ips-officer-n-sanjays-suspension",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "నవంబర్ 6న సమీక్ష కమిటీ సిఫారసు",
+    "2024 డిసెంబర్ 24న ఏసీబీ కేసు నమోదు",
+    "ఆధారాలు తారుమారు చేసే అవకాశం ఉందని జీవో"
+   ],
+   "why": "అవినీతి ఆరోపణలున్న అధికారులపై ప్రభుత్వ చర్యలను ఈ నిర్ణయం సూచిస్తోంది.",
+   "pub": "2026-11-10T20:29+05:30",
+   "en": {
+    "h": "Andhra Pradesh extends suspension of senior IPS officer",
+    "p": "The Andhra Pradesh government on Tuesday ordered that the suspension of a 1996-batch IPS officer continue until his criminal cases end or he retires. He was suspended in December 2024 over alleged misappropriation in the NoC portal while he was DG of Fire Services. PTI said the ACB investigation is continuing.",
+    "pts": [
+     "Review committee recommended it on November 6",
+     "ACB case registered on December 24, 2024",
+     "GO says he could tamper with evidence"
+    ],
+    "why": "The decision shows government action against officers facing corruption allegations.",
+    "cat": "AP · Government",
+    "statl": "Batch IPS officer's suspension extended"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश ने वरिष्ठ आईपीएस अधिकारी का निलंबन बढ़ाया",
+    "p": "आंध्र प्रदेश सरकार ने मंगलवार को आदेश दिया कि 1996 बैच के एक आईपीएस अधिकारी का निलंबन उनके आपराधिक मामले खत्म होने या सेवानिवृत्ति तक जारी रहेगा। अग्निशमन सेवा के डीजी रहते एनओसी पोर्टल में कथित गड़बड़ी के आरोप में उन्हें दिसंबर 2024 में निलंबित किया गया था। पीटीआई के मुताबिक एसीबी जांच जारी है।",
+    "pts": [
+     "समीक्षा समिति ने 6 नवंबर को सिफारिश की",
+     "24 दिसंबर 2024 को एसीबी केस दर्ज",
+     "जीओ: सबूतों से छेड़छाड़ की आशंका"
+    ],
+    "why": "यह फैसला भ्रष्टाचार के आरोपों वाले अधिकारियों पर सरकारी कार्रवाई दिखाता है।",
+    "cat": "आंध्र प्रदेश · सरकार",
+    "statl": "बैच के आईपीएस अधिकारी का निलंबन बढ़ा"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "51,005",
+   "statl": "2025-26లో టీజీ-ఐపాస్ ద్వారా ఉద్యోగాలు",
+   "h": "టీజీ-ఐపాస్ పరిశ్రమల ఉద్యోగాలు కరోనా కాలం స్థాయి కంటే తక్కువ: టీటీ విశ్లేషణ",
+   "p": "టీజీ-ఐపాస్ గణాంకాల ప్రకారం 2024-25లో ప్రభుత్వ సహకారంతో వచ్చిన పరిశ్రమల ఉద్యోగాలు 38.5% తగ్గి 49,523కు, పెట్టుబడులు 52.5% తగ్గి ₹11,719.90 కోట్లకు చేరాయని తెలంగాణ టుడే విశ్లేషణ తెలిపింది. 2025-26లో ఉద్యోగాలు 3% పెరిగి 51,005 అయినా, 2019-20లోని 59,261 కంటే తక్కువే. ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telanganas-industrial-growth-under-congress-trails-pandemic-era-levels",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "2025-26లో పెట్టుబడులు ₹10,236.76 కోట్లు",
+    "2021-22లో 88,110 ఉద్యోగాలు వచ్చాయి",
+    "1,146 ప్రతిపాదనలు ఇంకా పెండింగ్‌లో"
+   ],
+   "why": "రాష్ట్రంలో కొత్త పరిశ్రమలు, ఉద్యోగ అవకాశాల తీరును ఈ గణాంకాలు చూపుతున్నాయి.",
+   "pub": "2026-11-10T17:20+05:30",
+   "en": {
+    "h": "TG-iPASS industry jobs below pandemic-era levels: Telangana Today analysis",
+    "p": "Citing TG-iPASS data, a Telangana Today analysis said jobs from government-facilitated industries fell 38.5% to 49,523 in 2024-25 and investments fell 52.5% to ₹11,719.90 crore. In 2025-26 jobs rose 3% to 51,005, still below 59,261 in 2019-20. The article carries no government response.",
+    "pts": [
+     "2025-26 investments at ₹10,236.76 crore",
+     "88,110 jobs came in 2021-22",
+     "1,146 proposals still pending"
+    ],
+    "why": "The figures show the trend of new industries and job opportunities in the state.",
+    "cat": "Telangana · Industry",
+    "statl": "Jobs via TG-iPASS in 2025-26"
+   },
+   "hi": {
+    "h": "टीजी-आईपास उद्योगों की नौकरियां महामारी काल से भी कम: तेलंगाना टुडे विश्लेषण",
+    "p": "टीजी-आईपास आंकड़ों के हवाले से तेलंगाना टुडे के विश्लेषण में कहा गया कि 2024-25 में सरकारी सहायता से आए उद्योगों की नौकरियां 38.5% घटकर 49,523 और निवेश 52.5% घटकर ₹11,719.90 करोड़ रह गया। 2025-26 में नौकरियां 3% बढ़कर 51,005 हुईं, जो 2019-20 के 59,261 से कम हैं। खबर में सरकार का जवाब नहीं है।",
+    "pts": [
+     "2025-26 में निवेश ₹10,236.76 करोड़",
+     "2021-22 में 88,110 नौकरियां आईं",
+     "1,146 प्रस्ताव अब भी लंबित"
+    ],
+    "why": "ये आंकड़े राज्य में नए उद्योगों और रोजगार के रुझान को दिखाते हैं।",
+    "cat": "तेलंगाना · उद्योग",
+    "statl": "2025-26 में टीजी-आईपास से नौकरियां"
+   },
+   "d": "10.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "రంగారెడ్డి · హైకోర్టు",
    "col": "--c-city",
