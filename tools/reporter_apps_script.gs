@@ -11,6 +11,11 @@
 const EDITOR_KEY = 'PUT-EDITOR-KEY-HERE';   // typed once on the editor page
 const BOT_KEY    = 'PUT-BOT-KEY-HERE';      // used only by the Way2Sec publishing task
 const FOLDER     = 'Way2Sec reporter photos';
+// AUTO_APPROVE (user, 10 Nov 2026): reporter stories from active PINs go live automatically at the next :20 run –
+// no editor click needed. The publishing task still screens each story; a risky one (crime allegation naming someone,
+// death, communal tension, child, graphic photo…) stays "pending" with a 🤖 note for the editor. The editor can still
+// ❌ reject a pending story before the next run. Set to false to go back to editor-only approval.
+const AUTO_APPROVE = true;
 const COLS = ['id','time','pin','reporter','district','place','lat','lng','headline','text','photo','status','note','link'];
 // "Review": web news that the news tasks HOLD for the editor (crime allegations, deaths, communal, elections, emergencies,
 // conflicting reports). The editor approves at /editor/ (tab "వెబ్ వార్తలు"); the reporter-stories task publishes approved ones.
@@ -101,13 +106,19 @@ function doPost(e) {
       return out_({ ok: true, status: st });
     }
     if (b.action === 'approved' && b.key === BOT_KEY) {
-      const items = rows_().filter(r => r.status === 'approved').map(r => Object.assign({}, r,
-        { photo_data: r.photo ? Utilities.base64Encode(DriveApp.getFileById(r.photo).getBlob().getBytes()) : '' }));
+      const items = rows_().filter(r => r.status === 'approved' ||
+          (AUTO_APPROVE && r.status === 'pending' && String(r.note || '').indexOf('🤖') !== 0)).map(r => Object.assign({}, r,
+        { auto: r.status === 'pending', photo_data: r.photo ? Utilities.base64Encode(DriveApp.getFileById(r.photo).getBlob().getBytes()) : '' }));
       return out_({ ok: true, items: items });
     }
     if (b.action === 'published' && b.key === BOT_KEY) {
       const r = rows_().find(x => x.id === b.id); if (!r) return out_({ ok: false });
       const s = sheet_('Submissions'); s.getRange(r._row, COLS.indexOf('status') + 1).setValue('published'); s.getRange(r._row, COLS.indexOf('link') + 1).setValue(clean_(b.link, 200));
+      return out_({ ok: true });
+    }
+    if (b.action === 'needseditor' && b.key === BOT_KEY) {   // auto-approve screen said "editor must check" – keep pending, stop re-sending it
+      const r = rows_().find(x => x.id === b.id); if (!r || r.status !== 'pending') return out_({ ok: false });
+      sheet_('Submissions').getRange(r._row, COLS.indexOf('note') + 1).setValue('🤖 ఎడిటర్ పరిశీలన అవసరం: ' + clean_(b.reason, 200));
       return out_({ ok: true });
     }
     if (b.action === 'hold' && b.key === BOT_KEY) {   // news task: [{risk, story}] – story = the full Way2Sec story object
