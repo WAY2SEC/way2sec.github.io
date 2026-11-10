@@ -1,8 +1,108 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 21,
+ "count": 23,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "29",
+   "statl": "జిల్లాలకు ఎల్లో అలర్ట్",
+   "h": "తెలంగాణలో పెరుగుతున్న చలి: 29 జిల్లాలకు ఎల్లో అలర్ట్",
+   "p": "రాబోయే మూడు రోజులు చలిగాలులు మరింత తీవ్రమవుతాయని హైదరాబాద్ వాతావరణ కేంద్రం హెచ్చరించి 29 జిల్లాలకు ఎల్లో అలర్ట్ ఇచ్చింది. గద్వాల, ఖమ్మం, సూర్యాపేట, జనగామ మినహా అన్ని జిల్లాల్లో కనిష్ఠ ఉష్ణోగ్రత 15 డిగ్రీల కంటే తగ్గొచ్చు. సంగారెడ్డి, మెదక్, ఆసిఫాబాద్, మంచిర్యాల, భూపాలపల్లి, నిర్మల్, వనపర్తిలో 12 డిగ్రీల వరకు పడిపోవచ్చు. గత 24 గంటల్లో ఆదిలాబాద్‌లో అత్యల్పంగా 14.7 డిగ్రీలు నమోదైంది.",
+   "pts": [
+    "29 జిల్లాలకు ఎల్లో అలర్ట్ జారీ",
+    "కొన్ని జిల్లాల్లో 12 డిగ్రీల వరకు పడిపోయే అవకాశం",
+    "తెల్లవారుజామున దట్టమైన పొగమంచు, వాహనదారులు జాగ్రత్త"
+   ],
+   "why": "తెల్లవారుజామున ప్రయాణించేవారు, వాహనదారులు పొగమంచు, చలి వల్ల జాగ్రత్తగా ఉండాల్సిన అవసరం ఉంది.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/telangana/telangana-cold-wave-warning-yellow-alert-issued-for-29-districts-as-temperatures-drop-to-12-degrees-211072",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-10T10:40+05:30",
+   "d": "10.11.2026",
+   "t": "11:05",
+   "en": {
+    "cat": "Telangana · Weather",
+    "statl": "districts on yellow alert",
+    "h": "Cold tightens grip on Telangana: yellow alert for 29 districts",
+    "p": "IMD Hyderabad has warned that cold winds will intensify over the next three days and issued a yellow alert for 29 districts. Minimum temperatures may fall below 15°C in all districts except Gadwal, Khammam, Suryapet and Jangaon. Sangareddy, Medak, Asifabad, Mancherial, Bhupalpally, Nirmal and Wanaparthy could drop to 12°C. Adilabad recorded the state's lowest, 14.7°C, in the last 24 hours.",
+    "pts": [
+     "Yellow alert issued for 29 districts",
+     "Some districts may drop to 12°C",
+     "Dense fog at dawn; drivers urged to be careful"
+    ],
+    "why": "Early-morning travellers and drivers need to take care because of fog and cold."
+   },
+   "hi": {
+    "cat": "तेलंगाना · मौसम",
+    "statl": "जिलों में येलो अलर्ट",
+    "h": "तेलंगाना में बढ़ती ठंड: 29 जिलों में येलो अलर्ट",
+    "p": "हैदराबाद मौसम केंद्र ने चेतावनी दी है कि अगले तीन दिनों में ठंडी हवाएं और तेज होंगी और 29 जिलों के लिए येलो अलर्ट जारी किया है। गद्वाल, खम्मम, सूर्यापेट और जनगांव को छोड़कर सभी जिलों में न्यूनतम तापमान 15 डिग्री से नीचे जा सकता है। संगारेड्डी, मेदक, आसिफाबाद, मंचेरियल, भूपालपल्ली, निर्मल और वनपर्ती में यह 12 डिग्री तक गिर सकता है। पिछले 24 घंटों में आदिलाबाद में सबसे कम 14.7 डिग्री दर्ज हुआ।",
+    "pts": [
+     "29 जिलों में येलो अलर्ट जारी",
+     "कुछ जिलों में 12 डिग्री तक गिरावट संभव",
+     "सुबह घना कोहरा, वाहन चालक सावधान रहें"
+    ],
+    "why": "सुबह जल्दी यात्रा करने वालों और वाहन चालकों को कोहरे और ठंड के कारण सावधान रहना होगा।"
+   }
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "సెలవు",
+   "statl": "నేడు స్టాక్ మార్కెట్లు మూత",
+   "h": "దీపావళి బలిప్రతిపద: నేడు బీఎస్ఈ, ఎన్ఎస్ఈ మూసివేత",
+   "p": "దీపావళి బలిప్రతిపద సందర్భంగా మంగళవారం దేశీయ స్టాక్ మార్కెట్లకు సెలవు. ఈక్విటీ, డెరివేటివ్స్, కరెన్సీ డెరివేటివ్స్‌లో ట్రేడింగ్ జరగదు. బుధవారం ట్రేడింగ్ తిరిగి మొదలవుతుంది. ఎంసీఎక్స్ ఉదయం సెషన్ మూత, సాయంత్రం 5 గంటల నుంచి సెషన్ ఉంటుంది. సోమవారం సెన్సెక్స్ 107 పాయింట్లు పెరిగి 81,106.65 వద్ద, నిఫ్టీ 25,044.65 వద్ద ముగిశాయి.",
+   "pts": [
+    "మంగళవారం బీఎస్ఈ, ఎన్ఎస్ఈలో ట్రేడింగ్ లేదు",
+    "బుధవారం మార్కెట్లు తిరిగి ప్రారంభం",
+    "ఈ ఏడాది ఇంకా నవంబర్ 24, డిసెంబర్ 25 సెలవులు"
+   ],
+   "why": "షేర్లు కొనేవారు, అమ్మేవారు బుధవారం వరకు వేచి ఉండాల్సి ఉంటుంది.",
+   "src": "The Hans India (IANS)",
+   "url": "https://www.thehansindia.com/business/market-compass/indian-stock-markets-closed-on-account-of-diwali-balipratipada-1140730",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-10T10:53+05:30",
+   "d": "10.11.2026",
+   "t": "11:05",
+   "en": {
+    "cat": "India · Markets",
+    "statl": "stock markets shut today",
+    "h": "Diwali Balipratipada: BSE, NSE closed today",
+    "p": "Indian stock markets are closed on Tuesday for Diwali Balipratipada. There is no trading in equity, derivatives or currency derivatives. Trading resumes on Wednesday. MCX's morning session is shut, with the evening session from 5 pm. On Monday the Sensex rose 107 points to close at 81,106.65 and the Nifty closed at 25,044.65.",
+    "pts": [
+     "No trading on BSE, NSE on Tuesday",
+     "Markets reopen on Wednesday",
+     "Holidays left this year: Nov 24, Dec 25"
+    ],
+    "why": "Investors buying or selling shares will have to wait until Wednesday."
+   },
+   "hi": {
+    "cat": "भारत · बाजार",
+    "statl": "आज शेयर बाजार बंद",
+    "h": "दिवाली बलिप्रतिपदा: आज बीएसई, एनएसई बंद",
+    "p": "दिवाली बलिप्रतिपदा के कारण मंगलवार को भारतीय शेयर बाजार बंद हैं। इक्विटी, डेरिवेटिव्स और करेंसी डेरिवेटिव्स में कारोबार नहीं होगा। बुधवार को कारोबार फिर शुरू होगा। एमसीएक्स का सुबह का सत्र बंद है, शाम 5 बजे से सत्र होगा। सोमवार को सेंसेक्स 107 अंक बढ़कर 81,106.65 और निफ्टी 25,044.65 पर बंद हुआ।",
+    "pts": [
+     "मंगलवार को बीएसई, एनएसई में कारोबार नहीं",
+     "बुधवार को बाजार फिर खुलेंगे",
+     "इस साल बाकी छुट्टियां: 24 नवंबर, 25 दिसंबर"
+    ],
+    "why": "शेयर खरीदने-बेचने वालों को बुधवार तक इंतजार करना होगा।"
+   }
+  },
   {
    "cat": "ఏపీ · ప్రభుత్వం",
    "col": "--c-gov",
