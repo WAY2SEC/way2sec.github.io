@@ -1,8 +1,109 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 19,
+ "count": 21,
  "stories": [
+  {
+   "cat": "ఏపీ · ప్రభుత్వం",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "30+",
+   "statl": "కేబినెట్ అజెండా అంశాలు",
+   "h": "ఏపీ కేబినెట్ భేటీ: ఏఐ డేటా సెంటర్లు, కొత్త పాలసీలపై చర్చ",
+   "p": "సీఎం చంద్రబాబు నాయుడు అధ్యక్షతన మంగళవారం ఉదయం 10:30కు సచివాలయంలో ఏపీ కేబినెట్ సమావేశం జరగనుంది. 30కి పైగా అజెండా అంశాల్లో యానిమేషన్-వీఎఫ్‌ఎక్స్ (AVGC-XR) 2026-31, రోబోటిక్స్-ఫిజికల్ ఏఐ పాలసీలు ఉన్నాయి. విశాఖ భీమిలిలో రూ.31,387 కోట్ల 512 మెగావాట్ల ఏఐ డేటా సెంటర్, అనకాపల్లి జిల్లా రాంబిల్లిలో రూ.570.20 కోట్ల డేటా సెంటర్, తిరుపతిలో డిక్సన్‌కు రూ.700 కోట్ల భూకేటాయింపు ప్రతిపాదనలు ఉన్నాయి.",
+   "pts": [
+    "30కి పైగా అంశాలతో కేబినెట్ అజెండా",
+    "భీమిలిలో రూ.31,387 కోట్ల ఏఐ డేటా సెంటర్",
+    "రోబోటిక్స్, యానిమేషన్ రంగాలకు కొత్త పాలసీలు"
+   ],
+   "why": "ఈ పెట్టుబడులు, పాలసీలు ఆమోదం పొందితే విశాఖ, అనకాపల్లి, తిరుపతి ప్రాంతాల్లో పరిశ్రమలపై ప్రభావం ఉంటుంది.",
+   "src": "10TV",
+   "url": "https://10tv.in/telugu-news/andhra-pradesh/ap-cabinet-meeting-chandrababu-naidu-to-discuss-major-investment-proposals-sh-1156130.html",
+   "sec": [
+    "telangana",
+    "business",
+    "ai"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-10T10:24+05:30",
+   "d": "10.11.2026",
+   "t": "10:35",
+   "en": {
+    "cat": "AP · Government",
+    "statl": "Cabinet agenda items",
+    "h": "AP Cabinet meets on AI data centres and new policies",
+    "p": "The Andhra Pradesh Cabinet, chaired by CM Chandrababu Naidu, is set to meet at 10:30 am on Tuesday at the Secretariat. Its 30-plus agenda items include an animation-VFX (AVGC-XR) policy for 2026-31 and a robotics and physical AI policy. Proposals include a Rs 31,387 crore, 512 MW AI data centre at Bhimili in Visakhapatnam, a Rs 570.20 crore data centre at Rambilli in Anakapalli district and a Rs 700 crore land allotment to Dixon in Tirupati.",
+    "pts": [
+     "Cabinet agenda has over 30 items",
+     "Rs 31,387 crore AI data centre at Bhimili",
+     "New policies for robotics and animation"
+    ],
+    "why": "If approved, these investments and policies will affect industry in the Visakhapatnam, Anakapalli and Tirupati regions."
+   },
+   "hi": {
+    "cat": "आंध्र प्रदेश · सरकार",
+    "statl": "कैबिनेट एजेंडा के मुद्दे",
+    "h": "आंध्र कैबिनेट बैठक: एआई डेटा सेंटर और नई नीतियों पर चर्चा",
+    "p": "मुख्यमंत्री चंद्रबाबू नायडू की अध्यक्षता में मंगलवार सुबह 10:30 बजे सचिवालय में आंध्र प्रदेश कैबिनेट की बैठक होनी है। 30 से अधिक एजेंडा मुद्दों में एनीमेशन-वीएफएक्स (AVGC-XR) 2026-31 और रोबोटिक्स-फिजिकल एआई नीतियां शामिल हैं। विशाखापत्तनम के भीमिली में 31,387 करोड़ रुपये का 512 मेगावाट एआई डेटा सेंटर, अनकापल्ली जिले के रामबिल्ली में 570.20 करोड़ रुपये का डेटा सेंटर और तिरुपति में डिक्सन को 700 करोड़ रुपये का भूमि आवंटन प्रस्तावित है।",
+    "pts": [
+     "कैबिनेट एजेंडा में 30 से अधिक मुद्दे",
+     "भीमिली में 31,387 करोड़ का एआई डेटा सेंटर",
+     "रोबोटिक्स और एनीमेशन के लिए नई नीतियां"
+    ],
+    "why": "मंजूरी मिलने पर इन निवेशों और नीतियों का असर विशाखापत्तनम, अनकापल्ली और तिरुपति क्षेत्रों के उद्योगों पर पड़ेगा।"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · బంగారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,44,110",
+   "statl": "10 గ్రాముల 24 క్యారెట్ బంగారం",
+   "h": "హైదరాబాద్, విశాఖలో తగ్గిన బంగారం ధరలు",
+   "p": "హైదరాబాద్, విశాఖపట్నం, విజయవాడ, కరీంనగర్, వరంగల్‌లో మంగళవారం బంగారం ధరలు తగ్గాయి. 10 గ్రాముల 24 క్యారెట్ బంగారం రూ.490 తగ్గి రూ.1,44,110, 22 క్యారెట్ రూ.450 తగ్గి రూ.1,32,100, 18 క్యారెట్ రూ.370 తగ్గి రూ.1,08,080గా ఉంది. హైదరాబాద్, విశాఖలో కిలో వెండి రూ.2,05,000. ఇవి ఉదయం 8 గంటల ధరలని, రోజులో మారవచ్చని నివేదిక తెలిపింది.",
+   "pts": [
+    "24 క్యారెట్ 10 గ్రాములు రూ.1,44,110",
+    "22 క్యారెట్ రూ.450 తగ్గి రూ.1,32,100",
+    "కిలో వెండి రూ.2,05,000"
+   ],
+   "why": "పెళ్లిళ్లు, పండుగల కోసం బంగారం కొనేవారు ఈ ధరలను గమనించవచ్చు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/business/gold-and-silver-rates-today-10-nov-in-hyderabad-visakhapatnam-check-gold-prices-of-18k-22k-24k-1140725",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-10T10:28+05:30",
+   "d": "10.11.2026",
+   "t": "10:35",
+   "en": {
+    "cat": "Hyderabad · Gold",
+    "statl": "24-carat gold per 10 grams",
+    "h": "Gold prices fall in Hyderabad and Visakhapatnam",
+    "p": "Gold prices fell on Tuesday in Hyderabad, Visakhapatnam, Vijayawada, Karimnagar and Warangal. 24-carat gold fell by Rs 490 to Rs 1,44,110 per 10 grams, 22-carat by Rs 450 to Rs 1,32,100 and 18-carat by Rs 370 to Rs 1,08,080. Silver was Rs 2,05,000 per kg in Hyderabad and Visakhapatnam. The report says these are 8 am rates and may change during the day.",
+    "pts": [
+     "24-carat at Rs 1,44,110 per 10 grams",
+     "22-carat down Rs 450 to Rs 1,32,100",
+     "Silver at Rs 2,05,000 per kg"
+    ],
+    "why": "People buying gold for weddings and festivals can keep track of these prices."
+   },
+   "hi": {
+    "cat": "हैदराबाद · सोना",
+    "statl": "24 कैरेट सोना प्रति 10 ग्राम",
+    "h": "हैदराबाद और विशाखापत्तनम में सोने के दाम गिरे",
+    "p": "मंगलवार को हैदराबाद, विशाखापत्तनम, विजयवाड़ा, करीमनगर और वारंगल में सोने के दाम गिरे। 24 कैरेट सोना 490 रुपये घटकर 1,44,110 रुपये प्रति 10 ग्राम, 22 कैरेट 450 रुपये घटकर 1,32,100 रुपये और 18 कैरेट 370 रुपये घटकर 1,08,080 रुपये रहा। हैदराबाद और विशाखापत्तनम में चांदी 2,05,000 रुपये प्रति किलो रही। रिपोर्ट के अनुसार ये सुबह 8 बजे के दाम हैं और दिन में बदल सकते हैं।",
+    "pts": [
+     "24 कैरेट 1,44,110 रुपये प्रति 10 ग्राम",
+     "22 कैरेट 450 रुपये घटकर 1,32,100 रुपये",
+     "चांदी 2,05,000 रुपये प्रति किलो"
+    ],
+    "why": "शादियों और त्योहारों के लिए सोना खरीदने वाले इन दामों पर नज़र रख सकते हैं।"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · విద్య",
    "col": "--c-money",
