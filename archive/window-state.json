@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-09T22:35:00+05:30",
+ "cutoff": "2026-11-10T07:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -18,6 +18,16 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Manual edition from chat (feeds blocked to WebFetch; search-based). Cutoff NOT moved so the next run can still cover the overnight window."
+  },
+  {
+   "window": "2026-11-09T22:35:00+05:30/2026-11-10T07:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 10,
+   "published": 9,
+   "duplicates": 1,
+   "skipped": 1,
+   "review": 2,
+   "gaps": "Search-first; WebSearch surfaced few timestamped articles. Times of Israel and Deccan Herald fetch failed; no timestamped results found for Eenadu, Sakshi, Andhra Jyothy, The Hindu, IE, TOI, HT, NDTV, PTI, Reuters/AP/BBC direct, or other-state outlets; no other-state or national items checked in full."
   }
  ],
  "seen": [
@@ -130,6 +140,66 @@
    "url": "https://abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300",
    "d": "10.11.2026",
    "w": "07:00"
+  },
+  {
+   "url": "https://telanganatoday.com/after-lizard-in-curry-snail-found-in-sambar-served-at-jntu-hyderabad",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.etvbharat.com/te/state/live-blog--10th-november-2026-latest-top-news-information-across-telangana-tgs26111000441",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/low-pressure-area-likely-over-bay-of-bengal-on-november-13-2556481",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/farmers-stage-protest-demanding-irrigation-water-from-kadem-project-2556510",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/water-shortage-threatens-200-acres-of-paddy-in-mulugu-2556517",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/tenant-farmer-dies-by-suicide-due-to-crop-losses-and-mounting-debts-2556507",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/growing-reluctance-among-contractors-to-take-up-power-projects-due-to-growing-stalls-and-cancelled-tenders-2556512",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/news/cities/amaravati/deepavali-pollution-pushes-two-ap-cities-into-poor-air-category-1140662",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.brecorder.com/news/40448184/gold-gains-as-lower-oil-prices-temper-inflation-fears-us-inflation-in-focus",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838153",
+   "d": "10.11.2026",
+   "w": "07:05"
+  },
+  {
+   "url": "https://www.tribuneindia.com/news/delhi/capital-struggles-in-toxic-air-after-diwali/amp/",
+   "d": "10.11.2026",
+   "w": "review"
+  },
+  {
+   "url": "https://www.thepoultrysite.com/news/2026/11/world-food-prices-dip-in-october-but-stay-near-6-above-last-year",
+   "d": "10.11.2026",
+   "w": "review"
   }
  ]
 }
