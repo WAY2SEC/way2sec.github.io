@@ -1,8 +1,358 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 60,
+ "count": 67,
  "stories": [
+  {
+   "cat": "ఏపీ · ఆర్థికం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹100, ₹200",
+   "statl": "మాత్రమే ఉండాలన్న సీఎం",
+   "h": "₹500, ₹1000, ₹2000 నోట్లు రద్దు చేయాలి: సీఎం చంద్రబాబు",
+   "p": "పెద్ద నగదు లావాదేవీలు, అవినీతిని తగ్గించేందుకు అధిక విలువ నోట్లను దశలవారీగా తొలగించాలని ఏపీ సీఎం చంద్రబాబు నాయుడు సోమవారం అన్నారు. ₹500, ₹1000, ₹2000 నోట్లు రద్దు చేసి ₹100, ₹200 నోట్లు మాత్రమే ఉంచాలని చెప్పారు. పూర్తి నిషేధం ఇప్పుడు చాలా ఇబ్బందికరమని ఐఎస్‌బీ ప్రొఫెసర్ ప్రసన్న తంత్రి హెచ్చరించారని బిజినెస్ టుడే కథనం.",
+   "src": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/chandrababu-naidu-wants-rs-500-notes-scrapped-isb-professor-warns-would-be-too-disruptive-566695-2026-11-10",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "పెద్ద నోట్ల రద్దు కోసం ప్రధానిని గతంలోనే కోరానన్న సీఎం",
+    "డిజిటల్ కరెన్సీకి చంద్రబాబు మద్దతు",
+    "అక్టోబర్ మధ్యనాటికి చలామణిలో ₹43.47 లక్షల కోట్ల నగదు"
+   ],
+   "why": "నగదు వాడకం, డిజిటల్ చెల్లింపులపై జరుగుతున్న చర్చ సామాన్యుల రోజువారీ లావాదేవీలతో ముడిపడి ఉంది.",
+   "pub": "2026-11-10T15:26+05:30",
+   "en": {
+    "h": "Scrap ₹500, ₹1,000, ₹2,000 notes: CM Chandrababu Naidu",
+    "p": "Andhra Pradesh CM N Chandrababu Naidu said on Monday that high-denomination notes should be phased out to reduce large cash transactions and corruption. He said ₹500, ₹1,000 and ₹2,000 notes should be scrapped and only ₹100 and ₹200 notes kept. ISB professor Prasanna Tantri warned that an outright ban would be too disruptive now, Business Today reported.",
+    "pts": [
+     "CM says he had urged the PM earlier",
+     "Naidu backs digital currency",
+     "₹43.47 lakh crore cash in circulation by mid-October"
+    ],
+    "why": "The debate on cash and digital payments is linked to ordinary people's daily transactions.",
+    "cat": "AP · Economy",
+    "statl": "Only notes the CM wants kept"
+   },
+   "hi": {
+    "h": "₹500, ₹1000, ₹2000 के नोट बंद हों: मुख्यमंत्री चंद्रबाबू नायडू",
+    "p": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू ने सोमवार को कहा कि बड़े नकद लेनदेन और भ्रष्टाचार कम करने के लिए ऊंचे मूल्य के नोट धीरे-धीरे हटाए जाएं। उन्होंने कहा कि ₹500, ₹1000 और ₹2000 के नोट बंद कर केवल ₹100 और ₹200 के नोट रखे जाएं। बिजनेस टुडे के अनुसार आईएसबी प्रोफेसर प्रसन्ना तंत्री ने चेताया कि अभी पूरी पाबंदी बहुत बाधक होगी।",
+    "pts": [
+     "मुख्यमंत्री बोले, पहले भी प्रधानमंत्री से आग्रह किया था",
+     "नायडू ने डिजिटल करेंसी का समर्थन किया",
+     "अक्टूबर मध्य तक ₹43.47 लाख करोड़ नकदी चलन में"
+    ],
+    "why": "नकदी और डिजिटल भुगतान पर बहस आम लोगों के रोज़ के लेनदेन से जुड़ी है।",
+    "cat": "आंध्र प्रदेश · अर्थव्यवस्था",
+    "statl": "सिर्फ ये नोट रखने की मांग"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "నిర్మల్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "farm",
+   "stat": "నవం. 11",
+   "statl": "నిర్మల్‌లో రైతు గర్జన సభ",
+   "h": "రేపు నిర్మల్‌లో బీఆర్ఎస్ రైతు గర్జన: ఏర్పాట్లు పరిశీలించిన నేతలు",
+   "p": "బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ ముఖ్య అతిథిగా బుధవారం (నవంబర్ 11) నిర్మల్ జిల్లా కేంద్రంలో రైతు గర్జన సభ జరగనుంది. సభా ఏర్పాట్లను ఎమ్మెల్యే వేముల ప్రశాంత్ రెడ్డి, మాజీ మంత్రి జోగు రామన్న, మాజీ ఎమ్మెల్యేలు బాల్క సుమన్, అనిల్ జాదవ్ తదితరులు మంగళవారం పరిశీలించారు. రైతులు, కార్యకర్తలు పెద్ద ఎత్తున వస్తారని భావిస్తున్నట్లు నమస్తే తెలంగాణ కథనం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/adilabad/nirmal/mla-vemula-visits-nirmal-rythu-garjana-place-along-with-brs-leaders-for-arrangements-2556854",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "pts": [
+    "బుధవారం నిర్మల్‌లో బీఆర్ఎస్ రైతు గర్జన",
+    "ముఖ్య అతిథిగా కేటీఆర్",
+    "ఏర్పాట్లు పరిశీలించిన బీఆర్ఎస్ నేతలు"
+   ],
+   "why": "నిర్మల్ జిల్లా రైతులు, సభ రోజున ఆ ప్రాంతంలో ప్రయాణించేవారికి ఈ సమాచారం ఉపయోగపడుతుంది.",
+   "pub": "2026-11-10T17:27+05:30",
+   "en": {
+    "h": "BRS Rythu Garjana in Nirmal tomorrow; leaders inspect arrangements",
+    "p": "The BRS Rythu Garjana meeting will be held at Nirmal district headquarters on Wednesday, November 11, with BRS working president KTR as chief guest. MLA Vemula Prashanth Reddy, former minister Jogu Ramanna, former MLAs Balka Suman and Anil Jadhav and others inspected the arrangements on Tuesday. Farmers and workers are expected in large numbers, Namasthe Telangana reported.",
+    "pts": [
+     "BRS Rythu Garjana in Nirmal on Wednesday",
+     "KTR to be chief guest",
+     "BRS leaders inspect arrangements"
+    ],
+    "why": "The information is useful for Nirmal district farmers and people travelling in the area on the meeting day.",
+    "cat": "Nirmal · Politics",
+    "statl": "Rythu Garjana meeting in Nirmal"
+   },
+   "hi": {
+    "h": "कल निर्मल में बीआरएस रैतु गर्जना: नेताओं ने तैयारियां देखीं",
+    "p": "बीआरएस कार्यकारी अध्यक्ष केटीआर के मुख्य अतिथि के रूप में बुधवार (11 नवंबर) को निर्मल जिला मुख्यालय में रैतु गर्जना सभा होगी। विधायक वेमुला प्रशांत रेड्डी, पूर्व मंत्री जोगु रामन्ना, पूर्व विधायक बाल्का सुमन, अनिल जाधव और अन्य ने मंगलवार को तैयारियों का जायजा लिया। नमस्ते तेलंगाना के अनुसार बड़ी संख्या में किसान और कार्यकर्ता आने की उम्मीद है।",
+    "pts": [
+     "बुधवार को निर्मल में बीआरएस रैतु गर्जना",
+     "केटीआर होंगे मुख्य अतिथि",
+     "बीआरएस नेताओं ने तैयारियां देखीं"
+    ],
+    "why": "यह जानकारी निर्मल जिले के किसानों और सभा के दिन उस इलाके में यात्रा करने वालों के काम की है।",
+    "cat": "निर्मल · राजनीति",
+    "statl": "निर्मल में रैतु गर्जना सभा"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "భద్రాద్రి · ఇసుక",
+   "col": "--c-power",
+   "art": "water",
+   "stat": "365 రోజులు",
+   "statl": "అక్రమ రవాణా జరుగుతోందని ఆరోపణ",
+   "h": "బుడ్డగూడెం కేంద్రంగా కిన్నెరసాని వాగు నుంచి అక్రమ ఇసుక రవాణా: ఆరోపణ",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లా బూర్గంపహాడ్ మండలం బుడ్డగూడెం కేంద్రంగా కిన్నెరసాని వాగు నుంచి అక్రమంగా ఇసుక తరలిస్తున్నారని నమస్తే తెలంగాణ కథనం. జేసీబీలు, పదుల సంఖ్యలో ట్రాక్టర్లతో రాత్రింబవళ్లు తవ్వకాలు జరుగుతున్నాయని, అధికార పార్టీ నేతల అండతో ఇద్దరు నడిపిస్తున్నారని ఆరోపణ. సమాచారం ఇచ్చినా పోలీసు, రెవెన్యూ, మైనింగ్ శాఖలు చర్యలు తీసుకోవడం లేదని స్థానికులు ఆరోపిస్తున్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/illegal-sand-transportation-centered-at-buddagudem-2556803",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "బుడ్డగూడెం",
+   "pts": [
+    "కిన్నెరసాని వాగులో జేసీబీలతో తవ్వకాలని ఆరోపణ",
+    "రాత్రి 10 నుంచి ఉదయం 6 వరకు రవాణా జరుగుతోందని కథనం",
+    "జిల్లా అధికారులు, టాస్క్‌ఫోర్స్ చర్యలు తీసుకోవాలని స్థానికుల డిమాండ్"
+   ],
+   "why": "వాగుల్లో అక్రమ ఇసుక తవ్వకాలు స్థానిక పర్యావరణం, గ్రామస్థులపై ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-10T16:36+05:30",
+   "en": {
+    "h": "Illegal sand transport from Kinnerasani stream centred at Buddagudem: allegation",
+    "p": "Sand is being illegally transported from the Kinnerasani stream with Buddagudem in Burgampahad mandal, Bhadradri Kothagudem district, as its base, Namasthe Telangana reported. It alleges JCBs and dozens of tractors work day and night and that two people run it with the backing of ruling-party leaders. Locals allege police, revenue and mining departments have not acted despite being informed.",
+    "pts": [
+     "Digging with JCBs in Kinnerasani stream alleged",
+     "Report says transport runs from 10 pm to 6 am",
+     "Locals demand action by district officials and task force"
+    ],
+    "why": "Illegal sand mining in streams affects the local environment and villagers.",
+    "cat": "Bhadradri · Sand",
+    "statl": "Illegal transport alleged all year"
+   },
+   "hi": {
+    "h": "बुड्डागुडेम से किन्नेरसानी नाले की रेत का अवैध परिवहन: आरोप",
+    "p": "नमस्ते तेलंगाना के अनुसार भद्राद्री कोत्तागुडेम जिले के बूर्गमपहाड मंडल के बुड्डागुडेम को केंद्र बनाकर किन्नेरसानी नाले से अवैध रूप से रेत ले जाई जा रही है। आरोप है कि जेसीबी और दर्जनों ट्रैक्टर दिन-रात काम कर रहे हैं और सत्तारूढ़ दल के नेताओं की शह पर दो लोग इसे चला रहे हैं। स्थानीय लोगों का आरोप है कि सूचना देने पर भी पुलिस, राजस्व और खनन विभाग कार्रवाई नहीं कर रहे।",
+    "pts": [
+     "किन्नेरसानी नाले में जेसीबी से खुदाई का आरोप",
+     "रिपोर्ट के अनुसार रात 10 से सुबह 6 बजे तक परिवहन",
+     "स्थानीय लोगों ने जिला अधिकारियों व टास्क फोर्स से कार्रवाई मांगी"
+    ],
+    "why": "नालों में अवैध रेत खनन का असर स्थानीय पर्यावरण और ग्रामीणों पर पड़ता है।",
+    "cat": "भद्राद्री · रेत",
+    "statl": "सालभर अवैध परिवहन का आरोप"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "సిరిసిల్ల · ఆశా వర్కర్లు",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "₹18,000",
+   "statl": "నెల వేతనం డిమాండ్",
+   "h": "వేములవాడలో విప్ ఆది శ్రీనివాస్‌కు ఆశా వర్కర్ల సమ్మె నోటీసు",
+   "p": "సమస్యలు పరిష్కరించాలని కోరుతూ ఆశా వర్కర్లు మంగళవారం వేములవాడలో ప్రభుత్వ విప్ ఆది శ్రీనివాస్ నివాసంలో సమ్మె నోటీసు అందజేశారు. ప్రతి ఆశా వర్కర్‌కు నెలకు ₹18,000 స్థిర వేతనం, ఆరోగ్య, ఉద్యోగ భద్రత కల్పించాలని సీఐటీయూ జిల్లా ప్రధాన కార్యదర్శి రమణ డిమాండ్ చేశారు. డిమాండ్లు నెరవేరకపోతే డిసెంబర్ 15 నుంచి సమ్మె చేస్తామని తెలిపారని నమస్తే తెలంగాణ కథనం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/strike-notice-to-government-whip-adi-srinivas-demanding-resolution-of-asha-workers-problems-2556829",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "sircilla",
+   "loc": "వేములవాడ",
+   "pts": [
+    "విప్ ఆది శ్రీనివాస్ నివాసంలో సమ్మె నోటీసు",
+    "నెలకు ₹18,000 స్థిర వేతనం డిమాండ్",
+    "డిసెంబర్ 15 నుంచి సమ్మె హెచ్చరిక"
+   ],
+   "why": "ఆశా వర్కర్లు సమ్మెకు దిగితే గ్రామీణ ఆరోగ్య సేవలపై ప్రభావం పడవచ్చు.",
+   "pub": "2026-11-10T16:35+05:30",
+   "en": {
+    "h": "ASHA workers serve strike notice on Whip Adi Srinivas in Vemulawada",
+    "p": "ASHA workers served a strike notice at Government Whip Adi Srinivas's residence in Vemulawada on Tuesday, seeking a solution to their problems. CITU district general secretary Ramana demanded a fixed monthly pay of ₹18,000 for each ASHA worker, plus health and job security. They said they will strike from December 15 if demands are not met, Namasthe Telangana reported.",
+    "pts": [
+     "Strike notice served at Whip Adi Srinivas's residence",
+     "Demand for ₹18,000 fixed monthly pay",
+     "Strike warning from December 15"
+    ],
+    "why": "A strike by ASHA workers could affect rural health services.",
+    "cat": "Sircilla · ASHA workers",
+    "statl": "Monthly pay demanded"
+   },
+   "hi": {
+    "h": "वेमुलवाडा में व्हिप आदि श्रीनिवास को आशा कार्यकर्ताओं का हड़ताल नोटिस",
+    "p": "समस्याओं के समाधान की मांग करते हुए आशा कार्यकर्ताओं ने मंगलवार को वेमुलवाडा में सरकारी व्हिप आदि श्रीनिवास के आवास पर हड़ताल नोटिस सौंपा। सीटू जिला महासचिव रमणा ने हर आशा कार्यकर्ता के लिए ₹18,000 मासिक निश्चित वेतन, स्वास्थ्य और नौकरी सुरक्षा की मांग की। नमस्ते तेलंगाना के अनुसार उन्होंने कहा कि मांगें पूरी न होने पर 15 दिसंबर से हड़ताल करेंगे।",
+    "pts": [
+     "व्हिप आदि श्रीनिवास के आवास पर हड़ताल नोटिस",
+     "₹18,000 मासिक निश्चित वेतन की मांग",
+     "15 दिसंबर से हड़ताल की चेतावनी"
+    ],
+    "why": "आशा कार्यकर्ताओं की हड़ताल से ग्रामीण स्वास्थ्य सेवाओं पर असर पड़ सकता है।",
+    "cat": "सिरिसिल्ला · आशा कार्यकर्ता",
+    "statl": "मासिक वेतन की मांग"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "పెద్దపల్లి · పోలీసు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "10",
+   "statl": "స్వాధీనం చేసుకున్న బైకులు",
+   "h": "ధర్మారంలో అంతర్ జిల్లా బైక్ దొంగ అరెస్టు: 10 బైకులు స్వాధీనం",
+   "p": "జిల్లాల మధ్య బైకులు చోరీ చేస్తున్న జగిత్యాల జిల్లా కోరుట్లకు చెందిన ఒక వ్యక్తిని అరెస్టు చేసినట్లు పెద్దపల్లి ఏసీపీ గజ్జి కృష్ణ మంగళవారం ధర్మారం పోలీస్ స్టేషన్‌లో తెలిపారు. నంది మేడారం గ్రామస్థుడి ఫిర్యాదుతో దర్యాప్తు చేసి జక్కాపల్లి సమీపంలో పట్టుకున్నామని, సుమారు 10 బైకులు స్వాధీనం చేసుకున్నామని పోలీసుల ప్రకారం. నిందితుడిని రిమాండ్‌కు తరలించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/an-inter-district-thief-who-stole-bikes-was-arrested-peddapalli-acp-gaji-krishna-disclosed-the-details-2556800",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "ధర్మారం",
+   "pts": [
+    "నంది మేడారం గ్రామస్థుడి ఫిర్యాదుతో దర్యాప్తు",
+    "సుమారు 10 బైకులు స్వాధీనం: పోలీసులు",
+    "నిందితుడు రిమాండ్‌కు"
+   ],
+   "why": "పెద్దపల్లి, కరీంనగర్, జగిత్యాల ప్రాంతాల్లో బైకులు పోగొట్టుకున్నవారికి ఈ వార్త సంబంధించినది.",
+   "pub": "2026-11-10T16:03+05:30",
+   "en": {
+    "h": "Inter-district bike thief arrested in Dharmaram; 10 bikes seized",
+    "p": "Peddapalli ACP Gajji Krishna said at Dharmaram police station on Tuesday that a man from Koratla in Jagtial district who stole bikes across districts had been arrested. According to police, he was caught near Jakkapalli after a complaint by a Nandi Medaram villager, and about 10 bikes were seized. The accused was remanded.",
+    "pts": [
+     "Probe after complaint from Nandi Medaram villager",
+     "About 10 bikes seized: police",
+     "Accused remanded"
+    ],
+    "why": "The news concerns people who lost bikes in the Peddapalli, Karimnagar and Jagtial areas.",
+    "cat": "Peddapalli · Police",
+    "statl": "Bikes seized"
+   },
+   "hi": {
+    "h": "धर्मारम में अंतर-जिला बाइक चोर गिरफ्तार: 10 बाइक जब्त",
+    "p": "पेद्दापल्ली एसीपी गज्जी कृष्णा ने मंगलवार को धर्मारम थाने में बताया कि जिलों में बाइक चुराने वाले जगित्याल जिले के कोरुट्ला के एक व्यक्ति को गिरफ्तार किया गया है। पुलिस के अनुसार नंदी मेडारम गांव के एक व्यक्ति की शिकायत पर जांच कर उसे जक्कापल्ली के पास पकड़ा गया और करीब 10 बाइक जब्त की गईं। आरोपी को रिमांड पर भेजा गया।",
+    "pts": [
+     "नंदी मेडारम के ग्रामीण की शिकायत पर जांच",
+     "पुलिस के अनुसार करीब 10 बाइक जब्त",
+     "आरोपी रिमांड पर"
+    ],
+    "why": "यह खबर पेद्दापल्ली, करीमनगर और जगित्याल इलाकों में बाइक गंवाने वालों से जुड़ी है।",
+    "cat": "पेद्दापल्ली · पुलिस",
+    "statl": "जब्त बाइक"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "హనుమకొండ · ఉద్యమకారులు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "13–15",
+   "statl": "నవంబర్‌లో రెండో విడత యాత్ర",
+   "h": "తెలంగాణ ఉద్యమకారుల ఐక్యవేదిక రెండో విడత యాత్ర 13 నుంచి",
+   "p": "హనుమకొండ కేంద్రంగా నవంబర్ 13, 14, 15 తేదీల్లో రెండో విడత సంతాప యాత్ర నిర్వహిస్తామని తెలంగాణ ఉద్యమకారుల ఐక్యవేదిక రాష్ట్ర ఛైర్మన్ గుడిమళ్ల రవికుమార్ మంగళవారం తెలిపారు. యాత్ర పోస్టర్లను ఆవిష్కరించారు. మరణించిన ఉద్యమకారుల కుటుంబాలకు గుర్తింపు, సాయం అందించాలని, నెలకు ₹25,000 పింఛన్, ఇంటి స్థలాలు ఇవ్వాలని ఆయన డిమాండ్ చేశారని నమస్తే తెలంగాణ కథనం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/warangal-rural/warangal-city/ravikumar-stated-that-the-movement-centered-in-warangal-served-as-a-guiding-light-for-the-entire-telangana-region-2556823",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "pts": [
+    "13న ములుగు రోడ్ జంక్షన్ నుంచి మడికొండ వరకు యాత్ర",
+    "ఉద్యమకారుల ఇళ్లకు వెళ్లి కుటుంబ పరిస్థితుల నమోదు",
+    "₹25,000 పింఛన్, ₹25 లక్షల ఆరోగ్య బీమా డిమాండ్"
+   ],
+   "why": "తెలంగాణ ఉద్యమకారుల కుటుంబాల సంక్షేమ డిమాండ్లు మరోసారి చర్చకు వస్తున్నాయి.",
+   "pub": "2026-11-10T16:47+05:30",
+   "en": {
+    "h": "Telangana activists' forum to hold second-phase yatra from November 13",
+    "p": "Telangana Udyamakarula Aikya Vedika state chairman Gudimalla Ravikumar said on Tuesday that a second-phase condolence yatra will be held on November 13, 14 and 15 with Hanumakonda as the centre. Posters for the yatra were released. He demanded recognition and aid for families of activists who died, a ₹25,000 monthly pension and house sites, Namasthe Telangana reported.",
+    "pts": [
+     "Yatra on 13th from Mulugu Road junction to Madikonda",
+     "Volunteers to visit activists' homes and record family conditions",
+     "Demand for ₹25,000 pension, ₹25 lakh health insurance"
+    ],
+    "why": "The welfare demands of Telangana movement activists' families are back in discussion.",
+    "cat": "Hanumakonda · Activists",
+    "statl": "Second-phase yatra in November"
+   },
+   "hi": {
+    "h": "तेलंगाना आंदोलनकारी मंच की दूसरे चरण की यात्रा 13 नवंबर से",
+    "p": "तेलंगाना उद्यमकारुला ऐक्य वेदिका के राज्य अध्यक्ष गुडिमल्ला रविकुमार ने मंगलवार को कहा कि हनुमकोंडा को केंद्र बनाकर 13, 14 और 15 नवंबर को दूसरे चरण की श्रद्धांजलि यात्रा निकाली जाएगी। यात्रा के पोस्टर जारी किए गए। नमस्ते तेलंगाना के अनुसार उन्होंने दिवंगत आंदोलनकारियों के परिवारों को मान्यता और सहायता, ₹25,000 मासिक पेंशन और घर के प्लॉट देने की मांग की।",
+    "pts": [
+     "13 को मुलुगु रोड जंक्शन से मडिकोंडा तक यात्रा",
+     "आंदोलनकारियों के घर जाकर परिवारों की स्थिति दर्ज होगी",
+     "₹25,000 पेंशन, ₹25 लाख स्वास्थ्य बीमा की मांग"
+    ],
+    "why": "तेलंगाना आंदोलनकारियों के परिवारों की कल्याण मांगें फिर चर्चा में हैं।",
+    "cat": "हनुमकोंडा · आंदोलनकारी",
+    "statl": "नवंबर में दूसरे चरण की यात्रा"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "ఆదిలాబాద్ · పంచాయతీ",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "హైకోర్టు",
+   "statl": "ఉత్తర్వులతో తిరిగి బాధ్యతలు",
+   "h": "హైకోర్టు ఉత్తర్వులతో గుండాల(జి) సర్పంచ్‌గా మళ్లీ బాధ్యతలు స్వీకరించిన రాథోడ్ సురేష్",
+   "p": "ఆదిలాబాద్ జిల్లా నార్నూర్ మండలం గుండాల(జి) గ్రామ పంచాయతీ సర్పంచ్‌గా రాథోడ్ సురేష్ మంగళవారం ప్రమాణం చేసి బాధ్యతలు స్వీకరించారు. ఎంపీవో మహేష్ ప్రమాణం చేయించారు. గతంలో సస్పెన్షన్‌కు గురవడంతో ఉప సర్పంచ్ చంద్రకాంత్‌కు బాధ్యతలు అప్పగించారని, సురేష్ హైకోర్టును ఆశ్రయించి ఉత్తర్వులు పొందారని ఎంపీవో తెలిపారు అని నమస్తే తెలంగాణ కథనం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/adilabad/rathod-suresh-assumes-charge-as-sarpanch-2556750",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "adilabad",
+   "loc": "నార్నూర్",
+   "pts": [
+    "ఎంపీవో మహేష్ ప్రమాణ స్వీకారం చేయించారు",
+    "హైకోర్టు ఉత్తర్వులతో తిరిగి బాధ్యతలు",
+    "చంద్రకాంత్ ఉప సర్పంచ్‌గా కొనసాగుతారు"
+   ],
+   "why": "గుండాల(జి) గ్రామ పాలనా బాధ్యతలపై స్పష్టత వచ్చింది.",
+   "pub": "2026-11-10T15:17+05:30",
+   "en": {
+    "h": "Rathod Suresh resumes charge as Gundala (G) sarpanch after High Court order",
+    "p": "Rathod Suresh took oath and assumed charge as sarpanch of Gundala (G) gram panchayat in Narnoor mandal, Adilabad district, on Tuesday. MPO Mahesh administered the oath. The MPO said duties had gone to deputy sarpanch Chandrakanth after Suresh was suspended earlier, and Suresh had approached the High Court and obtained an order, Namasthe Telangana reported.",
+    "pts": [
+     "MPO Mahesh administered the oath",
+     "Charge resumed after High Court order",
+     "Chandrakanth continues as deputy sarpanch"
+    ],
+    "why": "It brings clarity on who runs Gundala (G) village administration.",
+    "cat": "Adilabad · Panchayat",
+    "statl": "Charge resumed after order"
+   },
+   "hi": {
+    "h": "हाईकोर्ट के आदेश से राठौड़ सुरेश ने फिर संभाला गुंडाला(जी) सरपंच पद",
+    "p": "आदिलाबाद जिले के नार्नूर मंडल की गुंडाला(जी) ग्राम पंचायत के सरपंच के रूप में राठौड़ सुरेश ने मंगलवार को शपथ लेकर कार्यभार संभाला। एमपीओ महेश ने शपथ दिलाई। नमस्ते तेलंगाना के अनुसार एमपीओ ने बताया कि पहले निलंबन के बाद जिम्मेदारी उपसरपंच चंद्रकांत को दी गई थी और सुरेश ने हाईकोर्ट जाकर आदेश हासिल किया।",
+    "pts": [
+     "एमपीओ महेश ने शपथ दिलाई",
+     "हाईकोर्ट के आदेश के बाद फिर कार्यभार",
+     "चंद्रकांत उपसरपंच बने रहेंगे"
+    ],
+    "why": "इससे गुंडाला(जी) गांव के प्रशासन की जिम्मेदारी पर स्पष्टता आई।",
+    "cat": "आदिलाबाद · पंचायत",
+    "statl": "आदेश के बाद फिर कार्यभार"
+   },
+   "d": "10.11.2026",
+   "t": "18:05"
+  },
   {
    "cat": "హైదరాబాద్ · ఆహార భద్రత",
    "col": "--c-city",
