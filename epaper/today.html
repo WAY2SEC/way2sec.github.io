@@ -13,7 +13,7 @@
 <script>
 /* always opens the newest issue's PDF (from index.json) */
 fetch('/epaper/index.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{
-  const x=(j.issues||[])[0]; if(!x) return; const u='/epaper/'+x.iso+'.pdf';
+  const x=(j.issues||[])[0]; if(!x) return; const u='/epaper/'+x.iso+'.pdf?v='+Date.now();
   document.getElementById('go').href=u; location.replace(u);
 }).catch(()=>{});
 </script>
