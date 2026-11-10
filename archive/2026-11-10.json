@@ -1,8 +1,159 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 79,
+ "count": 82,
  "stories": [
+  {
+   "cat": "రంగారెడ్డి · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "6 నెలలు",
+   "statl": "కలెక్టర్‌కు జైలు శిక్ష (4 వారాలు నిలుపుదల)",
+   "h": "కోర్టు ధిక్కారం: రంగారెడ్డి కలెక్టర్‌కు 6 నెలల జైలు శిక్ష విధించిన హైకోర్టు",
+   "p": "కోర్టు ఉత్తర్వులను ఉద్దేశపూర్వకంగా పాటించలేదన్న ధిక్కార కేసులో రంగారెడ్డి జిల్లా కలెక్టర్ సి. నారాయణ రెడ్డికి తెలంగాణ హైకోర్టు జస్టిస్ కె. లక్ష్మణ్ ఆరు నెలల జైలు శిక్ష, ₹2,000 జరిమానా విధించారు. అప్పీల్‌కు వీలుగా శిక్షను నాలుగు వారాలు నిలిపివేశారు. తుర్కయాంజాల్‌లోని ప్లాట్లపై 60 రోజుల్లో నిర్ణయం చెప్పాలన్న 2025 ఆదేశాన్ని పాటించలేదని దంపతులు పిటిషన్ వేశారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-hc-sentences-rangareddy-collector-to-6-months-in-jail-3572994/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "తుర్కయాంజాల్",
+   "pts": [
+    "కలెక్టర్‌కు 6 నెలల జైలు, ₹2,000 జరిమానా",
+    "అప్పీల్ కోసం శిక్ష నాలుగు వారాలు నిలుపుదల",
+    "60 రోజుల్లో నిర్ణయం చెప్పాలన్న ఆదేశం అమలు కాలేదు"
+   ],
+   "why": "కోర్టు ఉత్తర్వులను అధికారులు సకాలంలో అమలు చేయాల్సిందేనని ఈ తీర్పు స్పష్టం చేస్తోంది.",
+   "pub": "2026-11-10T12:17+05:30",
+   "en": {
+    "h": "Contempt case: High Court sentences Rangareddy Collector to 6 months in jail",
+    "p": "Telangana High Court judge Justice K Lakshman sentenced Rangareddy district Collector C Narayana Reddy to six months' imprisonment and a fine of ₹2,000 in a contempt case for wilfully not following a court order. The sentence was suspended for four weeks to allow an appeal. A couple had petitioned that a 2025 order to decide on their Turkayamjal plots within 60 days was not followed.",
+    "pts": [
+     "Collector gets 6 months' jail, ₹2,000 fine",
+     "Sentence suspended for four weeks for appeal",
+     "Order to decide within 60 days was not implemented"
+    ],
+    "why": "The ruling makes clear that officials must implement court orders on time.",
+    "cat": "Rangareddy · High Court",
+    "statl": "Jail term for Collector (suspended 4 weeks)"
+   },
+   "hi": {
+    "h": "अवमानना मामला: हाईकोर्ट ने रंगारेड्डी कलेक्टर को 6 महीने जेल की सजा दी",
+    "p": "तेलंगाना हाईकोर्ट के न्यायमूर्ति के. लक्ष्मण ने अदालत के आदेश का जानबूझकर पालन न करने के अवमानना मामले में रंगारेड्डी जिला कलेक्टर सी. नारायण रेड्डी को छह महीने की जेल और ₹2,000 जुर्माने की सजा सुनाई। अपील के लिए सजा चार हफ्ते के लिए स्थगित की गई। एक दंपती ने याचिका दी थी कि तुर्कयांजल के उनके प्लॉटों पर 60 दिन में फैसला लेने का 2025 का आदेश नहीं माना गया।",
+    "pts": [
+     "कलेक्टर को 6 महीने जेल, ₹2,000 जुर्माना",
+     "अपील के लिए सजा चार हफ्ते स्थगित",
+     "60 दिन में फैसले का आदेश लागू नहीं हुआ"
+    ],
+    "why": "यह फैसला साफ करता है कि अधिकारियों को अदालत के आदेश समय पर लागू करने होंगे।",
+    "cat": "रंगारेड्डी · हाईकोर्ट",
+    "statl": "कलेक्टर को जेल (4 हफ्ते स्थगित)"
+   },
+   "d": "10.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "బస్తర్",
+   "statl": "రాహుల్ వ్యాఖ్యలపై బీజేపీ విమర్శ",
+   "h": "బస్తర్ వ్యాఖ్యలపై రాహుల్ గాంధీని విమర్శించిన టీబీజేపీ చీఫ్ రాంచందర్ రావు",
+   "p": "బస్తర్‌లో ప్రధాని మోదీ ప్రసంగంపై బహిరంగ చర్చకు రావాలన్న రాహుల్ గాంధీ డిమాండ్‌పై తెలంగాణ బీజేపీ అధ్యక్షుడు ఎన్. రాంచందర్ రావు మంగళవారం స్పందించారు. నక్సల్ దాడులు, భద్రతా దళాలపై హింసను రాహుల్ ఖండించడం లేదని ఆయన ఆరోపించారు. జాతీయ భద్రతపై పార్లమెంటులో చర్చించాలని సవాల్ చేశారు. కాంగ్రెస్ స్పందన కథనంలో లేదని సియాసత్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-bjp-chief-targets-rahul-gandhi-over-bastar-remarks-3573235/",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "మోదీతో బహిరంగ చర్చకు రాహుల్ డిమాండ్",
+    "నక్సల్ హింసను ఖండించలేదని రాంచందర్ రావు ఆరోపణ",
+    "జాతీయ భద్రతపై పార్లమెంటులో చర్చకు సవాల్"
+   ],
+   "why": "భారత్ సమ్మిట్‌కు ముందు రాష్ట్రంలో కాంగ్రెస్, బీజేపీ మధ్య మాటల యుద్ధం పెరుగుతోంది.",
+   "pub": "2026-11-10T15:52+05:30",
+   "en": {
+    "h": "Telangana BJP chief Ramchander Rao criticises Rahul Gandhi over Bastar remarks",
+    "p": "Telangana BJP president N Ramchander Rao on Tuesday responded to Rahul Gandhi's demand for an open debate on PM Modi's speech in Bastar. He alleged that Rahul does not condemn Naxal attacks and violence against security forces. He challenged him to discuss national security in Parliament. Siasat said the article carries no Congress response.",
+    "pts": [
+     "Rahul demands open debate with Modi",
+     "Ramchander Rao alleges Naxal violence not condemned",
+     "Challenge to debate national security in Parliament"
+    ],
+    "why": "The war of words between Congress and BJP in the state is rising ahead of the Bharat Summit.",
+    "cat": "Telangana · Politics",
+    "statl": "BJP criticises Rahul's remarks"
+   },
+   "hi": {
+    "h": "बस्तर टिप्पणी पर तेलंगाना भाजपा प्रमुख रामचंदर राव ने राहुल गांधी की आलोचना की",
+    "p": "बस्तर में प्रधानमंत्री मोदी के भाषण पर खुली बहस की राहुल गांधी की मांग पर तेलंगाना भाजपा अध्यक्ष एन. रामचंदर राव ने मंगलवार को प्रतिक्रिया दी। उन्होंने आरोप लगाया कि राहुल नक्सली हमलों और सुरक्षा बलों पर हिंसा की निंदा नहीं करते। उन्होंने राष्ट्रीय सुरक्षा पर संसद में चर्चा की चुनौती दी। सियासत के अनुसार लेख में कांग्रेस की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "राहुल ने मोदी से खुली बहस की मांग की",
+     "रामचंदर राव का आरोप: नक्सली हिंसा की निंदा नहीं",
+     "राष्ट्रीय सुरक्षा पर संसद में चर्चा की चुनौती"
+    ],
+    "why": "भारत समिट से पहले राज्य में कांग्रेस और भाजपा के बीच जुबानी जंग तेज हो रही है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "राहुल की टिप्पणी पर भाजपा का हमला"
+   },
+   "d": "10.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "హనుమకొండ · విద్యార్థులు",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "16 ఏళ్లు",
+   "statl": "ఇంటర్ విద్యార్థి వయసు",
+   "h": "దామెర మండలంలో ఇంటర్ విద్యార్థి ఆత్మహత్య",
+   "p": "హనుమకొండ జిల్లా దామెర మండలం సింగరాజుపల్లి గ్రామంలో 16 ఏళ్ల ఇంటర్మీడియట్ విద్యార్థి ఆత్మహత్య చేసుకున్నట్లు సియాసత్ డైలీ కథనం తెలిపింది. పోలీసులు ఘటనాస్థలికి చేరుకుని మృతదేహాన్ని పోస్టుమార్టం కోసం ప్రభుత్వ ఆసుపత్రికి తరలించారు. కారణాలపై కథనంలో వివరాలు లేవు. మానసిక ఒత్తిడిలో ఉన్నవారు కుటుంబం, స్నేహితులు లేదా నిపుణుల సహాయం తీసుకోవాలి.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/intermediate-student-dies-by-suicide-in-telangana-3573312/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "సింగరాజుపల్లి",
+   "pts": [
+    "సింగరాజుపల్లిలో 16 ఏళ్ల ఇంటర్ విద్యార్థి మృతి",
+    "పోస్టుమార్టం కోసం ప్రభుత్వ ఆసుపత్రికి తరలింపు",
+    "కారణాలపై వివరాలు ఇంకా తెలియలేదు"
+   ],
+   "why": "విద్యార్థుల మానసిక ఆరోగ్యంపై కుటుంబాలు, కళాశాలలు దృష్టి పెట్టాల్సిన అవసరాన్ని ఇది గుర్తుచేస్తోంది.",
+   "pub": "2026-11-10T16:02+05:30",
+   "en": {
+    "h": "Intermediate student dies by suicide in Damera mandal",
+    "p": "A 16-year-old Intermediate student died by suicide at Singarajupally village in Damera mandal of Hanumakonda district, according to a Siasat Daily report. Police reached the spot and shifted the body to a government hospital for post-mortem. The report gives no details about the reasons. People under mental stress should seek help from family, friends or professionals.",
+    "pts": [
+     "16-year-old Inter student dies in Singarajupally",
+     "Body shifted to government hospital for post-mortem",
+     "Details of the reasons not yet known"
+    ],
+    "why": "It is a reminder that families and colleges need to pay attention to students' mental health.",
+    "cat": "Hanumakonda · Students",
+    "statl": "Age of the Inter student"
+   },
+   "hi": {
+    "h": "दामेरा मंडल में इंटर छात्र ने की आत्महत्या",
+    "p": "सियासत डेली की खबर के अनुसार हनुमकोंडा जिले के दामेरा मंडल के सिंगराजुपल्ली गांव में 16 वर्षीय इंटरमीडिएट छात्र ने आत्महत्या कर ली। पुलिस मौके पर पहुंची और शव को पोस्टमार्टम के लिए सरकारी अस्पताल भेजा। खबर में कारणों का कोई विवरण नहीं है। मानसिक तनाव में लोग परिवार, दोस्तों या विशेषज्ञों से मदद लें।",
+    "pts": [
+     "सिंगराजुपल्ली में 16 वर्षीय इंटर छात्र की मौत",
+     "पोस्टमार्टम के लिए शव सरकारी अस्पताल भेजा",
+     "कारणों का अभी पता नहीं"
+    ],
+    "why": "यह याद दिलाता है कि परिवारों और कॉलेजों को छात्रों के मानसिक स्वास्थ्य पर ध्यान देना चाहिए।",
+    "cat": "हनुमकोंडा · छात्र",
+    "statl": "इंटर छात्र की उम्र"
+   },
+   "d": "10.11.2026",
+   "t": "20:35"
+  },
   {
    "cat": "హనుమకొండ · విద్య",
    "col": "--c-money",
