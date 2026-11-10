@@ -1,8 +1,59 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 78,
+ "count": 79,
  "stories": [
+  {
+   "cat": "హనుమకొండ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "12 గంటలు",
+   "statl": "బుధవారం శంకుస్థాపన సమయం",
+   "h": "కాజీపేటలో తెలంగాణ పబ్లిక్ స్కూల్ భవనానికి భట్టి శంకుస్థాపన",
+   "p": "హనుమకొండ జిల్లా కాజీపేటలో కొత్త తెలంగాణ పబ్లిక్ స్కూల్ (టీపీఎస్) భవనానికి ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క బుధవారం మధ్యాహ్నం 12 గంటలకు శంకుస్థాపన చేయనున్నారు. జిల్లా బీసీ సంక్షేమ బాలుర హాస్టల్ ఆవరణలో ఈ భవనం నిర్మిస్తారు. వరంగల్ పశ్చిమ ఎమ్మెల్యే నాయిని రాజేందర్ రెడ్డి పాల్గొంటారు. ఏర్పాట్లను కలెక్టర్ చాహత్ బాజ్‌పాయ్ మంగళవారం పరిశీలించారు.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/warangal/kazipet-telangana-public-school-foundation-stone-laying-ceremony-deputy-cm-211281",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "కాజీపేట",
+   "pts": [
+    "బుధవారం మధ్యాహ్నం 12కు డిప్యూటీ సీఎం శంకుస్థాపన",
+    "బీసీ సంక్షేమ బాలుర హాస్టల్ ఆవరణలో భవనం",
+    "ఏర్పాట్లు త్వరగా పూర్తి చేయాలని కలెక్టర్ ఆదేశం"
+   ],
+   "why": "కాజీపేట, హనుమకొండ ప్రాంత విద్యార్థులకు కొత్త ప్రభుత్వ పాఠశాల భవనం రానుంది.",
+   "d": "10.11.2026",
+   "t": "20:05",
+   "pub": "2026-11-10T17:52+05:30",
+   "en": {
+    "h": "Bhatti to lay foundation for Telangana Public School building in Kazipet",
+    "p": "Deputy Chief Minister Mallu Bhatti Vikramarka will lay the foundation stone for the new Telangana Public School (TPS) building in Kazipet, Hanumakonda district, at 12 noon on Wednesday. The building will come up on the premises of the district BC welfare boys' hostel. Warangal West MLA Naini Rajender Reddy will take part. Collector Chahat Bajpai inspected the arrangements on Tuesday.",
+    "pts": [
+     "Deputy CM lays foundation at 12 noon on Wednesday",
+     "Building on BC welfare boys' hostel premises",
+     "Collector orders arrangements to be completed quickly"
+    ],
+    "why": "Students in the Kazipet and Hanumakonda area will get a new government school building.",
+    "cat": "Hanumakonda · Education",
+    "statl": "Foundation time on Wednesday"
+   },
+   "hi": {
+    "h": "काजीपेट में तेलंगाना पब्लिक स्कूल भवन की नींव रखेंगे भट्टी",
+    "p": "उपमुख्यमंत्री मल्लु भट्टी विक्रमार्क बुधवार दोपहर 12 बजे हनुमकोंडा जिले के काजीपेट में नए तेलंगाना पब्लिक स्कूल (टीपीएस) भवन की आधारशिला रखेंगे। यह भवन जिला बीसी कल्याण बालक छात्रावास परिसर में बनेगा। वरंगल पश्चिम के विधायक नायिनी राजेंदर रेड्डी भी शामिल होंगे। कलेक्टर चाहत बाजपेयी ने मंगलवार को तैयारियों का निरीक्षण किया।",
+    "pts": [
+     "बुधवार दोपहर 12 बजे उपमुख्यमंत्री रखेंगे नींव",
+     "बीसी कल्याण बालक छात्रावास परिसर में भवन",
+     "कलेक्टर ने तैयारियां जल्द पूरी करने का आदेश दिया"
+    ],
+    "why": "काजीपेट और हनुमकोंडा क्षेत्र के छात्रों को नया सरकारी स्कूल भवन मिलेगा।",
+    "cat": "हनुमकोंडा · शिक्षा",
+    "statl": "बुधवार को शिलान्यास का समय"
+   }
+  },
   {
    "cat": "తెలంగాణ · వ్యవసాయం",
    "col": "--c-gov",

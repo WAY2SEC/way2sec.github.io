@@ -1,8 +1,59 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T19:42:15+05:30",
+ "updated": "2026-11-10T20:15:08+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హనుమకొండ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "12 గంటలు",
+   "statl": "బుధవారం శంకుస్థాపన సమయం",
+   "h": "కాజీపేటలో తెలంగాణ పబ్లిక్ స్కూల్ భవనానికి భట్టి శంకుస్థాపన",
+   "p": "హనుమకొండ జిల్లా కాజీపేటలో కొత్త తెలంగాణ పబ్లిక్ స్కూల్ (టీపీఎస్) భవనానికి ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క బుధవారం మధ్యాహ్నం 12 గంటలకు శంకుస్థాపన చేయనున్నారు. జిల్లా బీసీ సంక్షేమ బాలుర హాస్టల్ ఆవరణలో ఈ భవనం నిర్మిస్తారు. వరంగల్ పశ్చిమ ఎమ్మెల్యే నాయిని రాజేందర్ రెడ్డి పాల్గొంటారు. ఏర్పాట్లను కలెక్టర్ చాహత్ బాజ్‌పాయ్ మంగళవారం పరిశీలించారు.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/warangal/kazipet-telangana-public-school-foundation-stone-laying-ceremony-deputy-cm-211281",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "కాజీపేట",
+   "pts": [
+    "బుధవారం మధ్యాహ్నం 12కు డిప్యూటీ సీఎం శంకుస్థాపన",
+    "బీసీ సంక్షేమ బాలుర హాస్టల్ ఆవరణలో భవనం",
+    "ఏర్పాట్లు త్వరగా పూర్తి చేయాలని కలెక్టర్ ఆదేశం"
+   ],
+   "why": "కాజీపేట, హనుమకొండ ప్రాంత విద్యార్థులకు కొత్త ప్రభుత్వ పాఠశాల భవనం రానుంది.",
+   "d": "10.11.2026",
+   "t": "20:05",
+   "pub": "2026-11-10T17:52+05:30",
+   "en": {
+    "h": "Bhatti to lay foundation for Telangana Public School building in Kazipet",
+    "p": "Deputy Chief Minister Mallu Bhatti Vikramarka will lay the foundation stone for the new Telangana Public School (TPS) building in Kazipet, Hanumakonda district, at 12 noon on Wednesday. The building will come up on the premises of the district BC welfare boys' hostel. Warangal West MLA Naini Rajender Reddy will take part. Collector Chahat Bajpai inspected the arrangements on Tuesday.",
+    "pts": [
+     "Deputy CM lays foundation at 12 noon on Wednesday",
+     "Building on BC welfare boys' hostel premises",
+     "Collector orders arrangements to be completed quickly"
+    ],
+    "why": "Students in the Kazipet and Hanumakonda area will get a new government school building.",
+    "cat": "Hanumakonda · Education",
+    "statl": "Foundation time on Wednesday"
+   },
+   "hi": {
+    "h": "काजीपेट में तेलंगाना पब्लिक स्कूल भवन की नींव रखेंगे भट्टी",
+    "p": "उपमुख्यमंत्री मल्लु भट्टी विक्रमार्क बुधवार दोपहर 12 बजे हनुमकोंडा जिले के काजीपेट में नए तेलंगाना पब्लिक स्कूल (टीपीएस) भवन की आधारशिला रखेंगे। यह भवन जिला बीसी कल्याण बालक छात्रावास परिसर में बनेगा। वरंगल पश्चिम के विधायक नायिनी राजेंदर रेड्डी भी शामिल होंगे। कलेक्टर चाहत बाजपेयी ने मंगलवार को तैयारियों का निरीक्षण किया।",
+    "pts": [
+     "बुधवार दोपहर 12 बजे उपमुख्यमंत्री रखेंगे नींव",
+     "बीसी कल्याण बालक छात्रावास परिसर में भवन",
+     "कलेक्टर ने तैयारियां जल्द पूरी करने का आदेश दिया"
+    ],
+    "why": "काजीपेट और हनुमकोंडा क्षेत्र के छात्रों को नया सरकारी स्कूल भवन मिलेगा।",
+    "cat": "हनुमकोंडा · शिक्षा",
+    "statl": "बुधवार को शिलान्यास का समय"
+   }
+  },
   {
    "cat": "తెలంగాణ · వ్యవసాయం",
    "col": "--c-gov",
@@ -2304,56 +2355,6 @@
      "आरटीसी बसें वाईएमसीए सर्कल से दूर"
     ],
     "why": "नारायणगुडा और काचीगुडा मार्गों पर चलने वाले वाहन चालक पहले से वैकल्पिक रास्ते तय करें।"
-   },
-   "d": "10.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · రోడ్డు ప్రమాదం",
-   "col": "--c-power",
-   "art": "deadline",
-   "stat": "పిల్లర్ 165",
-   "statl": "పీవీఎన్ఆర్ ఎక్స్‌ప్రెస్‌వే వద్ద ఢీ",
-   "h": "మెహదీపట్నం–ఆరాంఘర్ రోడ్డుపై రెండు కార్లు ఢీ: ట్రాఫిక్ జామ్",
-   "p": "పీవీఎన్ఆర్ ఎక్స్‌ప్రెస్‌వే వెంట మెహదీపట్నం–ఆరాంఘర్ రోడ్డులో పిల్లర్ నంబర్ 165 వద్ద సోమవారం రెండు కార్లు ఢీకొన్నాయి. ఒక కారు డివైడర్‌ను ఢీకొని ముందు భాగం బాగా దెబ్బతింది. డ్రైవర్‌కు స్వల్ప గాయాలయ్యాయి. రాజేంద్రనగర్ ట్రాఫిక్ పోలీసులు వాహనాన్ని తొలగించి ట్రాఫిక్‌ను క్లియర్ చేశారు. కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "pts": [
-    "పిల్లర్ 165 వద్ద రెండు కార్లు ఢీ",
-    "డ్రైవర్‌కు స్వల్ప గాయాలు",
-    "రాజేంద్రనగర్ పోలీసుల కేసు నమోదు"
-   ],
-   "why": "ఈ మార్గంలో రోజూ ప్రయాణించేవారికి వేగం, జాగ్రత్తపై హెచ్చరిక ఇది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/car-accident-on-mehdipatnam-aramghar-road-leads-to-traffic-jam-3573048/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "మెహదీపట్నం",
-   "pub": "2026-11-10T13:57+05:30",
-   "en": {
-    "cat": "Hyderabad · Road accident",
-    "statl": "collision near PVNR Expressway",
-    "h": "Two cars collide on Mehdipatnam–Aramghar road, causing traffic jam",
-    "p": "Two cars collided on Monday near pillar number 165 on the Mehdipatnam–Aramghar road along the PVNR Expressway. One car hit the median and its front was badly damaged. The driver suffered minor injuries. Rajendranagar Traffic Police removed the vehicle and cleared traffic. A case has been registered and an investigation is on.",
-    "pts": [
-     "Two cars collide near pillar 165",
-     "Driver suffers minor injuries",
-     "Rajendranagar police register case"
-    ],
-    "why": "A caution on speed and care for daily commuters on this route."
-   },
-   "hi": {
-    "cat": "हैदराबाद · सड़क हादसा",
-    "statl": "पीवीएनआर एक्सप्रेसवे के पास टक्कर",
-    "h": "मेहदीपट्टनम–आरामघर रोड पर दो कारें टकराईं, ट्रैफिक जाम",
-    "p": "सोमवार को पीवीएनआर एक्सप्रेसवे के साथ मेहदीपट्टनम–आरामघर रोड पर पिलर नंबर 165 के पास दो कारें टकरा गईं। एक कार डिवाइडर से टकराई और उसका अगला हिस्सा बुरी तरह क्षतिग्रस्त हुआ। चालक को मामूली चोटें आईं। राजेंद्रनगर ट्रैफिक पुलिस ने वाहन हटाकर यातायात सुचारू किया। मामला दर्ज कर जांच जारी है।",
-    "pts": [
-     "पिलर 165 के पास दो कारें टकराईं",
-     "चालक को मामूली चोटें",
-     "राजेंद्रनगर पुलिस ने मामला दर्ज किया"
-    ],
-    "why": "इस मार्ग पर रोज़ यात्रा करने वालों के लिए गति और सावधानी की चेतावनी।"
    },
    "d": "10.11.2026",
    "t": "15:05"
