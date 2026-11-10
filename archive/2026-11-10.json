@@ -1,8 +1,257 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 67,
+ "count": 72,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "5 నెలలు",
+   "statl": "రక్తం గడ్డకట్టకుండా పనిచేసిన వాల్వ్",
+   "h": "రక్తం పలుచబడే మందులు అవసరం లేని గుండె వాల్వ్: హైదరాబాద్ వైద్యుడికి అమెరికా పేటెంట్",
+   "p": "హైదరాబాద్‌కు చెందిన సజ్జ హార్ట్ ఫౌండేషన్ గుండె శస్త్రచికిత్స నిపుణుడు డాక్టర్ లోకేశ్వరరావు సజ్జ బృందం కొత్త యాంత్రిక గుండె వాల్వ్ రూపొందించింది. పేస్‌మేకర్ శక్తితో వాల్వ్‌పై స్వల్ప నెగటివ్ విద్యుదావేశం ఉంచి రక్తం గడ్డకట్టకుండా చేస్తారు. ప్రయోగశాల, జంతు పరీక్షల్లో ఐదు నెలలకుపైగా గడ్డలు లేకుండా పనిచేసిందని, మనుషులపై అధ్యయనాలతో నిర్ధారించాల్సి ఉందని ఆయన చెప్పారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-surgeon-develops-us-patented-heart-valve-designed-to-prevent-clots-without-blood-thinners",
+   "sec": [
+    "telangana",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "వాల్వ్ డిజైన్‌కు అమెరికా పేటెంట్",
+    "ఫలితాలు PLOS One, సైంటిఫిక్ రిపోర్ట్స్‌లో ప్రచురణ",
+    "రక్త కణాలకు ఎలాంటి హాని కనిపించలేదు"
+   ],
+   "why": "గుండె వాల్వ్ రోగులు జీవితాంతం రక్తం పలుచబడే మందులు వాడే అవసరం తగ్గే అవకాశంపై ఇది తొలి అడుగు.",
+   "pub": "2026-11-10T17:55+05:30",
+   "en": {
+    "h": "Heart valve that needs no blood thinners: US patent for Hyderabad surgeon",
+    "p": "Dr Lokeswara Rao Sajja of Hyderabad's Sajja Heart Foundation and his team have developed a new mechanical heart valve. A weak negative electric charge, powered by a pacemaker, keeps blood from clotting on it. In lab and animal tests it stayed clot-free for over five months, and he said human studies are needed to confirm the results.",
+    "pts": [
+     "US patent granted for the valve design",
+     "Results published in PLOS One and Scientific Reports",
+     "No damage to blood cells was seen"
+    ],
+    "why": "It is a first step towards heart-valve patients not needing lifelong blood thinners.",
+    "cat": "Hyderabad · Health",
+    "statl": "Valve stayed clot-free"
+   },
+   "hi": {
+    "h": "खून पतला करने की दवा के बिना चलने वाला हार्ट वाल्व: हैदराबाद के सर्जन को अमेरिकी पेटेंट",
+    "p": "हैदराबाद के सज्जा हार्ट फाउंडेशन के हृदय सर्जन डॉ. लोकेश्वर राव सज्जा और उनकी टीम ने नया मैकेनिकल हार्ट वाल्व बनाया है। पेसमेकर से चलने वाला हल्का नेगेटिव विद्युत आवेश उस पर खून का थक्का नहीं बनने देता। प्रयोगशाला और जानवरों पर परीक्षण में यह पांच महीने से ज़्यादा बिना थक्के के चला; उन्होंने कहा कि इंसानों पर अध्ययन से पुष्टि ज़रूरी है।",
+    "pts": [
+     "वाल्व के डिज़ाइन को अमेरिकी पेटेंट",
+     "नतीजे PLOS One और साइंटिफिक रिपोर्ट्स में प्रकाशित",
+     "रक्त कोशिकाओं को कोई नुकसान नहीं दिखा"
+    ],
+    "why": "यह हार्ट वाल्व मरीज़ों को जीवनभर खून पतला करने की दवा से मुक्ति की दिशा में पहला कदम है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "बिना थक्के के चला वाल्व"
+   },
+   "d": "10.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ప్రపంచం · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "$90 దిగువకు",
+   "statl": "బ్రెంట్ ముడి చమురు ధర",
+   "h": "ఇరాన్‌పై దాడులు ఆపుతామన్న ట్రంప్: 90 డాలర్ల దిగువకు చమురు ధర",
+   "p": "ఇరాన్‌పై కొత్త సైనిక దాడులు నిలిపివేస్తామని అమెరికా అధ్యక్షుడు ట్రంప్ చెప్పడంతో మంగళవారం బ్రెంట్ ముడి చమురు ధర 2 శాతానికిపైగా తగ్గి బ్యారెల్‌కు 90 డాలర్ల దిగువకు చేరింది. ఆగస్టు చివరి తర్వాత ఇదే తొలిసారి. జపాన్ నిక్కీ 2.9%, దక్షిణ కొరియా కోస్పీ 4.4% పెరిగాయని రాయిటర్స్ కథనం.",
+   "src": "Reuters",
+   "url": "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అమెరికా–ఇరాన్ శాంతి చర్చలపై మదుపర్ల ఆశలు",
+    "ఐరోపా స్టాక్స్ 600 సూచీ 0.5% పెరుగుదల",
+    "అమెరికా అక్టోబర్ ద్రవ్యోల్బణ గణాంకాల కోసం ఎదురుచూపు"
+   ],
+   "why": "చమురు ధర తగ్గితే భారత్ దిగుమతి భారం, పెట్రోల్–డీజిల్ ధరలపై ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-10T15:38+05:30",
+   "en": {
+    "h": "Trump says Iran strikes on hold: oil falls below $90",
+    "p": "Brent crude fell more than 2% on Tuesday to below $90 a barrel after US President Trump said he would hold off on new military strikes on Iran. It is the first time since late August. Japan's Nikkei rose 2.9% and South Korea's KOSPI 4.4%, Reuters reported.",
+    "pts": [
+     "Investors hope for US-Iran peace talks",
+     "Europe's STOXX 600 index up 0.5%",
+     "Markets await US October inflation data"
+    ],
+    "why": "Lower oil prices affect India's import bill and petrol-diesel prices.",
+    "cat": "World · Business",
+    "statl": "Brent crude oil price"
+   },
+   "hi": {
+    "h": "ईरान पर हमले रोकने की ट्रंप की बात: तेल 90 डॉलर से नीचे",
+    "p": "अमेरिकी राष्ट्रपति ट्रंप के ईरान पर नए सैन्य हमले रोकने की बात कहने के बाद मंगलवार को ब्रेंट कच्चा तेल 2% से ज़्यादा गिरकर 90 डॉलर प्रति बैरल से नीचे आ गया। अगस्त के आखिर के बाद ऐसा पहली बार हुआ। रॉयटर्स के अनुसार जापान का निक्केई 2.9% और दक्षिण कोरिया का कोस्पी 4.4% चढ़ा।",
+    "pts": [
+     "अमेरिका-ईरान शांति वार्ता की उम्मीद में निवेशक",
+     "यूरोप का STOXX 600 सूचकांक 0.5% ऊपर",
+     "अमेरिका के अक्टूबर महंगाई आंकड़ों का इंतज़ार"
+    ],
+    "why": "तेल सस्ता होने से भारत के आयात बिल और पेट्रोल-डीज़ल कीमतों पर असर पड़ता है।",
+    "cat": "दुनिया · व्यापार",
+    "statl": "ब्रेंट कच्चे तेल का दाम"
+   },
+   "d": "10.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · అంతర్జాతీయ సదస్సు",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "70 దేశాలు",
+   "statl": "నుంచి సుమారు 1,000 మంది ప్రతినిధులు",
+   "h": "హైదరాబాద్‌లో రెండోసారి భారత్ సమ్మిట్: 70 దేశాల ప్రతినిధులు",
+   "p": "హైదరాబాద్‌లో జరగనున్న భారత్ సమ్మిట్‌కు దాదాపు 70 దేశాల నుంచి సుమారు 1,000 మంది ప్రతినిధులు వస్తారని కాంగ్రెస్ విదేశీ వ్యవహారాల విభాగం ఛైర్మన్ సల్మాన్ ఖుర్షీద్ దిల్లీలో చెప్పారు. రెండు రోజుల సదస్సు అని ఆయన అనగా, నవంబర్ 12–14 తేదీల్లో జరుగుతుందని భువనగిరి ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి తెలిపారని యూఎన్‌ఐ కథనాలు.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/national/politics-bharat-summit-congress-hyderabad/240716",
+   "sec": [
+    "telangana",
+    "world"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "హైదరాబాద్‌లో భారత్ సమ్మిట్ రెండోసారి",
+    "కొత్త ప్రపంచ క్రమం, భారత్ పాత్రపై చర్చలు",
+    "విధాన నిర్ణేతలు, నిపుణులు, ఉద్యమ నేతలు హాజరు"
+   ],
+   "why": "అంతర్జాతీయ విధాన చర్చలకు హైదరాబాద్ వేదిక కావడం నగరానికి గుర్తింపు తెస్తుంది.",
+   "pub": "2026-11-10T14:00+05:30",
+   "en": {
+    "h": "Hyderabad to host Bharat Summit again: delegates from 70 countries",
+    "p": "Around 1,000 delegates from nearly 70 countries are expected at the Bharat Summit in Hyderabad, Congress foreign affairs department chairman Salman Khurshid said in Delhi. He called it a two-day summit, while Bhongir MP Chamala Kiran Kumar Reddy said it would be held from November 12 to 14, UNI reported.",
+    "pts": [
+     "Hyderabad hosts the Bharat Summit for a second time",
+     "Talks on the new world order and India's role",
+     "Policymakers, experts and movement leaders to attend"
+    ],
+    "why": "Hosting global policy talks brings recognition to Hyderabad.",
+    "cat": "Hyderabad · Global summit",
+    "statl": "About 1,000 delegates from"
+   },
+   "hi": {
+    "h": "हैदराबाद में दूसरी बार भारत समिट: 70 देशों के प्रतिनिधि",
+    "p": "कांग्रेस के विदेश मामलों के विभाग के अध्यक्ष सलमान खुर्शीद ने दिल्ली में कहा कि हैदराबाद में होने वाले भारत समिट में करीब 70 देशों से लगभग 1,000 प्रतिनिधि आएंगे। उन्होंने इसे दो दिन का सम्मेलन बताया, जबकि भुवनगिरी सांसद चामला किरण कुमार रेड्डी ने कहा कि यह 12 से 14 नवंबर तक होगा, यूएनआई की खबरों के अनुसार।",
+    "pts": [
+     "हैदराबाद में दूसरी बार भारत समिट",
+     "नई विश्व व्यवस्था और भारत की भूमिका पर चर्चा",
+     "नीति-निर्माता, विशेषज्ञ और आंदोलन नेता शामिल होंगे"
+    ],
+    "why": "वैश्विक नीति चर्चा की मेज़बानी से हैदराबाद की पहचान बढ़ती है।",
+    "cat": "हैदराबाद · अंतरराष्ट्रीय सम्मेलन",
+    "statl": "से लगभग 1,000 प्रतिनिधि"
+   },
+   "d": "10.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "సంక్రాంతి తర్వాత",
+   "statl": "రాష్ట్రవ్యాప్త 'ప్రజా బలం' పర్యటన",
+   "h": "సంక్రాంతి తర్వాత రాష్ట్రమంతా పర్యటిస్తా: సీఎం రేవంత్ రెడ్డి",
+   "p": "కొడంగల్‌లో మూడు రోజుల పర్యటన ముగింపు సభలో సోమవారం మాట్లాడిన సీఎం రేవంత్ రెడ్డి, జనవరిలో సంక్రాంతి తర్వాత 'ప్రజా బలం' పేరుతో రాష్ట్రమంతా పర్యటిస్తానని చెప్పారు. ఇది బీఆర్ఎస్, బీజేపీని కొట్టుకుపోయే సునామీ అవుతుందని ఆయన అన్నారు. రబీలో తక్కువ నీరు అవసరమయ్యే పంటలు వేయాలని రైతులను కోరారని పీటీఐ కథనం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/cm-revanth-plans-statewide-tour-after-sankranti-targets-brs-bjp-3572875/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "2028 డిసెంబర్‌లోగా కొడంగల్‌కు కృష్ణా నీళ్లు తెస్తామన్న సీఎం",
+    "కొడంగల్‌లో ₹10,000 కోట్ల పనులు జరుగుతున్నాయని వెల్లడి",
+    "బీఆర్ఎస్ హయాంలో ₹8.11 లక్షల కోట్ల అప్పు అని ఆరోపణ"
+   ],
+   "why": "సీఎం రాష్ట్రవ్యాప్త పర్యటన రానున్న రాజకీయ కార్యక్రమాలు, జిల్లాల పర్యటనలపై ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-10T10:39+05:30",
+   "en": {
+    "h": "Will tour the whole state after Sankranti: CM Revanth Reddy",
+    "p": "Speaking on Monday at a meeting ending his three-day Kodangal tour, CM Revanth Reddy said he would tour all of Telangana after Sankranti in January under the 'Praja Balam' programme. He said it would be a tsunami that sweeps away the BRS and BJP. He urged farmers to grow less water-intensive crops in Rabi, PTI reported.",
+    "pts": [
+     "CM promises Krishna water to Kodangal by December 2028",
+     "Says ₹10,000 crore of works under way in Kodangal",
+     "Alleges ₹8.11 lakh crore debt under BRS rule"
+    ],
+    "why": "The CM's statewide tour will shape upcoming political programmes and district visits.",
+    "cat": "Telangana · Politics",
+    "statl": "Statewide 'Praja Balam' tour"
+   },
+   "hi": {
+    "h": "संक्रांति के बाद पूरे राज्य का दौरा करूंगा: मुख्यमंत्री रेवंत रेड्डी",
+    "p": "कोडंगल के तीन दिन के दौरे की समापन सभा में सोमवार को मुख्यमंत्री रेवंत रेड्डी ने कहा कि जनवरी में संक्रांति के बाद वे 'प्रजा बलम' कार्यक्रम के तहत पूरे तेलंगाना का दौरा करेंगे। उन्होंने कहा कि यह बीआरएस और बीजेपी को बहा ले जाने वाली सुनामी होगी। पीटीआई के अनुसार उन्होंने किसानों से रबी में कम पानी वाली फसलें उगाने को कहा।",
+    "pts": [
+     "दिसंबर 2028 तक कोडंगल को कृष्णा का पानी देने का वादा",
+     "कोडंगल में ₹10,000 करोड़ के काम जारी होने की बात",
+     "बीआरएस शासन में ₹8.11 लाख करोड़ कर्ज़ का आरोप"
+    ],
+    "why": "मुख्यमंत्री का राज्यव्यापी दौरा आगामी राजनीतिक कार्यक्रमों और ज़िलों के दौरों को प्रभावित करेगा।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "राज्यव्यापी 'प्रजा बलम' दौरा"
+   },
+   "d": "10.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరాలు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹40,000",
+   "statl": "లోన్ యాప్ నుంచి తీసుకున్న రుణం",
+   "h": "లోన్ యాప్ వేధింపులు: హైదరాబాద్‌లో కానిస్టేబుల్ ఆత్మహత్య",
+   "p": "కొండాపూర్ బెటాలియన్‌కు చెందిన 31 ఏళ్ల పోలీస్ కానిస్టేబుల్ సోమవారం పహాడీషరీఫ్‌లోని తన ఇంట్లో ఆత్మహత్య చేసుకున్నారు. నాలుగు నెలల క్రితం లోన్ యాప్ నుంచి ₹40,000 రుణం తీసుకుని సకాలంలో చెల్లించలేకపోవడంతో నిర్వాహకులు వేధించి, కుటుంబ సభ్యులకు అసభ్య చిత్రాలు పంపుతామని బెదిరించారని ఆరోపణ. పహాడీషరీఫ్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారని తెలంగాణ టుడే కథనం.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-police-constable-dies-by-suicide-amid-alleged-harassment-by-loan-app-operators",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "పహాడీషరీఫ్",
+   "pts": [
+    "లోన్ యాప్ నిర్వాహకుల వేధింపులు ఆరోపణ",
+    "కుటుంబానికి అసభ్య చిత్రాలు పంపుతామని బెదిరింపులు",
+    "పహాడీషరీఫ్ పోలీసుల కేసు, దర్యాప్తు"
+   ],
+   "why": "ఆన్‌లైన్ లోన్ యాప్‌ల వేధింపులపై అప్రమత్తత అవసరమని ఈ ఘటన గుర్తు చేస్తోంది; ఇబ్బందుల్లో ఉంటే సహాయం కోరండి.",
+   "pub": "2026-11-10T10:22+05:30",
+   "en": {
+    "h": "Loan app harassment: constable dies by suicide in Hyderabad",
+    "p": "A 31-year-old police constable of the Kondapur Battalion died by suicide at his home in Pahadishareef on Monday. He had allegedly been harassed by loan app operators after failing to repay a ₹40,000 loan taken four months earlier, with threats to send obscene images to his family. Pahadishareef police have registered a case and are investigating, Telangana Today reported.",
+    "pts": [
+     "Harassment by loan app operators alleged",
+     "Threats to send obscene images to family",
+     "Pahadishareef police register case, investigate"
+    ],
+    "why": "The case is a reminder to be careful with online loan apps; please seek help if you are in distress.",
+    "cat": "Hyderabad · Crime",
+    "statl": "Loan taken from a loan app"
+   },
+   "hi": {
+    "h": "लोन ऐप उत्पीड़न: हैदराबाद में कांस्टेबल ने आत्महत्या की",
+    "p": "कोंडापुर बटालियन के 31 वर्षीय पुलिस कांस्टेबल ने सोमवार को पहाड़ीशरीफ स्थित अपने घर में आत्महत्या कर ली। आरोप है कि चार महीने पहले लोन ऐप से लिया ₹40,000 का कर्ज़ समय पर न चुका पाने पर संचालकों ने उन्हें परेशान किया और परिवार को अश्लील तस्वीरें भेजने की धमकी दी। तेलंगाना टुडे के अनुसार पहाड़ीशरीफ पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "लोन ऐप संचालकों पर उत्पीड़न का आरोप",
+     "परिवार को अश्लील तस्वीरें भेजने की धमकी",
+     "पहाड़ीशरीफ पुलिस ने केस दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह घटना ऑनलाइन लोन ऐप से सावधान रहने की याद दिलाती है; परेशानी में हों तो मदद लें।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "लोन ऐप से लिया कर्ज़"
+   },
+   "d": "10.11.2026",
+   "t": "18:35"
+  },
   {
    "cat": "ఏపీ · ఆర్థికం",
    "col": "--c-money",
