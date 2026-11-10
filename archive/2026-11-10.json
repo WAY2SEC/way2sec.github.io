@@ -1,8 +1,307 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 23,
+ "count": 29,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "CSAM",
+   "statl": "కేసు నమోదు, నిందితుడి కోసం గాలింపు",
+   "h": "చిన్నారుల లైంగిక వేధింపుల కంటెంట్ అప్‌లోడ్: హైదరాబాద్ వ్యక్తిపై కేసు",
+   "p": "చిన్నారులపై లైంగిక వేధింపుల కంటెంట్ (CSAM)ను ఆన్‌లైన్‌లో అప్‌లోడ్ చేశాడనే ఆరోపణపై తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో (TGCSB) ఒక వ్యక్తిపై కేసు నమోదు చేసింది. కేంద్ర హోంశాఖ నుంచి వచ్చిన సమాచారం ఆధారంగా ఈ కేసు పెట్టారు. అప్‌లోడ్‌లకు సంబంధించిన ఐపీ అడ్రస్ ద్వారా నిందితుడిని హైదరాబాద్‌లో గుర్తించారు. అతడు పరారీలో ఉండటంతో ప్రత్యేక బృందాలు గాలిస్తున్నాయని అధికారులు తెలిపారు.",
+   "pts": [
+    "కేంద్ర హోంశాఖ సమాచారంతో TGCSB కేసు",
+    "ఐపీ అడ్రస్ ద్వారా హైదరాబాద్‌లో గుర్తింపు",
+    "నిందితుడు పరారీ, ప్రత్యేక బృందాల గాలింపు"
+   ],
+   "why": "చిన్నారులకు హాని చేసే ఆన్‌లైన్ కంటెంట్‌పై పోలీసులు నిఘా పెంచారని ఈ కేసు చూపిస్తోంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/csam-upload-case-tgcsb-books-hyderabad-man/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-10T14:10+05:30",
+   "en": {
+    "cat": "Hyderabad · Cyber Security",
+    "statl": "case filed, hunt for suspect",
+    "h": "Child sexual abuse material upload: case against Hyderabad man",
+    "p": "The Telangana Cyber Security Bureau (TGCSB) has registered a case against a man for allegedly uploading child sexual abuse material (CSAM) online. The case was filed on information from the Union Home Ministry. The suspect was traced to Hyderabad through the IP address linked to the uploads. Officials said he is absconding and special teams are searching for him.",
+    "pts": [
+     "TGCSB case on Union Home Ministry input",
+     "Traced to Hyderabad via IP address",
+     "Suspect absconding, special teams searching"
+    ],
+    "why": "The case shows police are stepping up watch on online content that harms children."
+   },
+   "hi": {
+    "cat": "हैदराबाद · साइबर सुरक्षा",
+    "statl": "मामला दर्ज, आरोपी की तलाश",
+    "h": "बाल यौन शोषण सामग्री अपलोड: हैदराबाद के व्यक्ति पर मामला",
+    "p": "तेलंगाना साइबर सुरक्षा ब्यूरो (TGCSB) ने बाल यौन शोषण सामग्री (CSAM) ऑनलाइन अपलोड करने के आरोप में एक व्यक्ति पर मामला दर्ज किया है। यह मामला केंद्रीय गृह मंत्रालय से मिली जानकारी पर दर्ज हुआ। अपलोड से जुड़े आईपी पते के जरिए आरोपी की पहचान हैदराबाद में हुई। अधिकारियों के अनुसार वह फरार है और विशेष टीमें उसकी तलाश कर रही हैं।",
+    "pts": [
+     "गृह मंत्रालय की सूचना पर TGCSB का मामला",
+     "आईपी पते से हैदराबाद में पहचान",
+     "आरोपी फरार, विशेष टीमें तलाश में"
+    ],
+    "why": "यह मामला दिखाता है कि बच्चों को नुकसान पहुंचाने वाली ऑनलाइन सामग्री पर पुलिस निगरानी बढ़ी है।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "భారత్ · మహిళలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1.5 లక్షలు",
+   "statl": "ఏటా ఎన్‌సీడబ్ల్యూకు ఫిర్యాదులు",
+   "h": "ఎన్‌సీడబ్ల్యూ ఫిర్యాదుల్లో గృహహింసవే అధికం: చైర్‌పర్సన్ రహత్కర్",
+   "p": "జాతీయ మహిళా కమిషన్ (NCW)కు ఏటా సుమారు 1.5 లక్షల ఫిర్యాదులు వస్తున్నాయని, వాటిలో గృహహింస కేసులే ఎక్కువని చైర్‌పర్సన్ విజయా రహత్కర్ హైదరాబాద్‌లో తెలిపారు. ఆన్‌లైన్ పోర్టల్, ఈమెయిల్, నేరుగా లేదా 24 గంటల హెల్ప్‌లైన్ 14490 ద్వారా ఫిర్యాదు చేయొచ్చన్నారు. 'రాష్ట్రీయ మహిళా ఆయోగ్ ఆప్‌కే ద్వార్' కింద ఏడాదిన్నరలో 200కు పైగా ప్రజా విచారణలు నిర్వహించామని చెప్పారు.",
+   "pts": [
+    "ఏటా సుమారు 1.5 లక్షల ఫిర్యాదులు",
+    "24 గంటల హెల్ప్‌లైన్ నంబర్ 14490",
+    "200కు పైగా గ్రామస్థాయి ప్రజా విచారణలు"
+   ],
+   "why": "గృహహింస బాధిత మహిళలు ఎలా, ఎక్కడ ఫిర్యాదు చేయాలో తెలుసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/ncw-domestic-violence-complaints-top-annual-list/",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-10T14:18+05:30",
+   "en": {
+    "cat": "India · Women",
+    "statl": "complaints to NCW every year",
+    "h": "Domestic violence tops NCW complaints, says chairperson Rahatkar",
+    "p": "National Commission for Women chairperson Vijaya Rahatkar said in Hyderabad that the NCW receives about 1.5 lakh complaints a year, with domestic violence the largest category. Complaints can be filed through the online portal, email, in person or the 24-hour helpline 14490. Under 'Rashtriya Mahila Aayog Aapke Dwar', she said, more than 200 public hearings were held in about one and a half years.",
+    "pts": [
+     "About 1.5 lakh complaints every year",
+     "24-hour helpline number 14490",
+     "Over 200 public hearings at village level"
+    ],
+    "why": "It helps women facing domestic violence know how and where to file a complaint."
+   },
+   "hi": {
+    "cat": "भारत · महिलाएं",
+    "statl": "हर साल NCW को शिकायतें",
+    "h": "NCW की शिकायतों में घरेलू हिंसा सबसे ज्यादा: अध्यक्ष रहाटकर",
+    "p": "राष्ट्रीय महिला आयोग (NCW) की अध्यक्ष विजया रहाटकर ने हैदराबाद में कहा कि आयोग को हर साल लगभग 1.5 लाख शिकायतें मिलती हैं, जिनमें घरेलू हिंसा के मामले सबसे ज्यादा हैं। ऑनलाइन पोर्टल, ईमेल, व्यक्तिगत रूप से या 24 घंटे की हेल्पलाइन 14490 से शिकायत की जा सकती है। 'राष्ट्रीय महिला आयोग आपके द्वार' के तहत करीब डेढ़ साल में 200 से अधिक जन सुनवाइयां हुईं।",
+    "pts": [
+     "हर साल लगभग 1.5 लाख शिकायतें",
+     "24 घंटे की हेल्पलाइन 14490",
+     "गांवों में 200 से अधिक जन सुनवाई"
+    ],
+    "why": "घरेलू हिंसा से पीड़ित महिलाओं को यह जानने में मदद मिलती है कि शिकायत कैसे और कहां करें।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "AI",
+   "statl": "టీనేజర్ల వయసు గుర్తింపు",
+   "h": "టీనేజర్ల రక్షణకు మెటా ఏఐ వయసు గుర్తింపు సాంకేతికత ప్రపంచవ్యాప్తం",
+   "p": "తప్పుడు వయసు, పెద్దల పుట్టినతేదీ ఇచ్చిన టీనేజర్లను గుర్తించి 'టీన్ అకౌంట్' రక్షణల్లోకి మార్చే ఏఐ సాంకేతికతను మెటా ప్రపంచవ్యాప్తంగా విస్తరించింది. ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్, మెసెంజర్‌లో టీన్ అకౌంట్లు ఎవరు సంప్రదించవచ్చు, ఏ కంటెంట్ కనిపిస్తుంది, ఎంతసేపు వాడతారనే వాటిని పరిమితం చేస్తాయి. ఇన్‌స్టాగ్రామ్‌లో మరిన్ని లక్షల మంది టీనేజర్లకు ఈ రక్షణ వస్తుందని, త్రెడ్స్‌లో ఈ ఏడాది చివర్లో తెస్తామని మెటా తెలిపింది.",
+   "pts": [
+    "తప్పుడు వయసు చెప్పిన టీనేజర్లను ఏఐ గుర్తిస్తుంది",
+    "ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్‌లో అమలు",
+    "త్రెడ్స్‌లో ఈ ఏడాది చివర్లో"
+   ],
+   "why": "ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్ వాడే మన దేశ టీనేజర్లు, వారి తల్లిదండ్రులపై ఇది ప్రభావం చూపుతుంది.",
+   "src": "TechAfrica News",
+   "url": "https://techafricanews.com/2026/11/10/meta-expands-ai-age-detection-technology-protect-teens-globally/",
+   "sec": [
+    "world",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pub": "2026-11-10T14:08+05:30",
+   "en": {
+    "cat": "World · Technology",
+    "statl": "identifying teens' age",
+    "h": "Meta takes AI age-detection for teen safety worldwide",
+    "p": "Meta has expanded worldwide its AI technology that identifies teens who gave a false age or an adult birthday and moves them into 'Teen Account' protections. Teen Accounts on Instagram, Facebook and Messenger limit who can contact teens, what content they see and how long they use the apps. Meta said millions more teens on Instagram will get the protections, and it will bring similar technology to Threads later this year.",
+    "pts": [
+     "AI spots teens who misstate their age",
+     "Rolling out on Instagram and Facebook",
+     "Threads to follow later this year"
+    ],
+    "why": "It affects teens in India who use Instagram and Facebook, and their parents."
+   },
+   "hi": {
+    "cat": "दुनिया · टेक्नोलॉजी",
+    "statl": "किशोरों की उम्र पहचान",
+    "h": "किशोरों की सुरक्षा के लिए मेटा की एआई उम्र पहचान दुनियाभर में",
+    "p": "मेटा ने गलत उम्र या वयस्क जन्मतिथि बताने वाले किशोरों को पहचानकर 'टीन अकाउंट' सुरक्षा में डालने वाली एआई तकनीक को दुनियाभर में बढ़ाया है। इंस्टाग्राम, फेसबुक और मैसेंजर पर टीन अकाउंट यह सीमित करते हैं कि किशोरों से कौन संपर्क करे, वे क्या देखें और कितनी देर ऐप चलाएं। मेटा ने कहा कि इंस्टाग्राम पर लाखों और किशोरों को यह सुरक्षा मिलेगी और थ्रेड्स पर इस साल के अंत में ऐसी तकनीक आएगी।",
+    "pts": [
+     "गलत उम्र बताने वाले किशोरों को एआई पहचानेगा",
+     "इंस्टाग्राम और फेसबुक पर लागू",
+     "थ्रेड्स पर इस साल के अंत में"
+    ],
+    "why": "इसका असर इंस्टाग्राम और फेसबुक इस्तेमाल करने वाले भारत के किशोरों और उनके माता-पिता पर पड़ेगा।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "నల్గొండ · క్రీడలు",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "₹12,000",
+   "statl": "హాకీ బ్యాట్ కోసం సాయం",
+   "h": "జాతీయ హాకీ జట్టుకు ఎంపికైన నల్గొండ యువకుడు గణేష్‌కు ఆర్థిక సాయం",
+   "p": "జాతీయ హాకీ జట్టుకు తెలంగాణ నుంచి ఎంపికైన ఏకైక క్రీడాకారుడు, నల్గొండ పట్టణానికి చెందిన రావుల గణేష్‌కు ఆర్థిక ప్రోత్సాహం అందింది. గుత్తా వెంకట్‌రెడ్డి మెమోరియల్ ట్రస్ట్ చైర్మన్ గుత్తా అమిత్‌రెడ్డి హాకీ బ్యాట్ కోసం రూ.12 వేలు అందజేశారు. కార్యక్రమంలో 20వ డివిజన్ కార్పొరేటర్ అల్లి సుభాష్, జిల్లా హాకీ కోచ్ అలీ తదితరులు పాల్గొన్నారు.",
+   "pts": [
+    "తెలంగాణ నుంచి జాతీయ జట్టుకు ఏకైక ఎంపిక",
+    "గుత్తా అమిత్‌రెడ్డి రూ.12 వేల సాయం",
+    "జిల్లా హాకీ కోచ్ అలీ హాజరు"
+   ],
+   "why": "జిల్లా స్థాయి క్రీడాకారులకు ఇలాంటి ప్రోత్సాహం జాతీయ స్థాయిలో రాణించేందుకు తోడ్పడుతుంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/nalgonda/financial-support-for-young-hockey-player-ganesh-2556705",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pub": "2026-11-10T13:57+05:30",
+   "en": {
+    "cat": "Nalgonda · Sports",
+    "statl": "help for a hockey stick",
+    "h": "Nalgonda youth Ganesh, picked for national hockey team, gets financial help",
+    "p": "Ravula Ganesh of Nalgonda town, the only player from Telangana selected for the national hockey team, received financial encouragement. Gutta Amit Reddy, chairman of the Gutta Venkat Reddy Memorial Trust, gave him Rs 12,000 for a hockey stick. 20th division corporator Alli Subhash, district hockey coach Ali and others attended.",
+    "pts": [
+     "Only Telangana player picked for national team",
+     "Gutta Amit Reddy gives Rs 12,000",
+     "District hockey coach Ali present"
+    ],
+    "why": "Such support helps district-level players perform at the national level."
+   },
+   "hi": {
+    "cat": "नलगोंडा · खेल",
+    "statl": "हॉकी स्टिक के लिए मदद",
+    "h": "राष्ट्रीय हॉकी टीम में चुने गए नलगोंडा के गणेश को आर्थिक मदद",
+    "p": "राष्ट्रीय हॉकी टीम में तेलंगाना से चुने गए एकमात्र खिलाड़ी, नलगोंडा शहर के रावुला गणेश को आर्थिक प्रोत्साहन मिला। गुत्ता वेंकट रेड्डी मेमोरियल ट्रस्ट के अध्यक्ष गुत्ता अमित रेड्डी ने हॉकी स्टिक के लिए 12,000 रुपये दिए। 20वें डिवीजन के पार्षद अल्ली सुभाष, जिला हॉकी कोच अली और अन्य मौजूद थे।",
+    "pts": [
+     "तेलंगाना से राष्ट्रीय टीम में एकमात्र चयन",
+     "गुत्ता अमित रेड्डी ने 12,000 रुपये दिए",
+     "जिला हॉकी कोच अली मौजूद"
+    ],
+    "why": "ऐसी मदद जिला स्तर के खिलाड़ियों को राष्ट्रीय स्तर पर आगे बढ़ने में सहायक होती है।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "జనగామ · రాజకీయం",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "కొన్నె",
+   "statl": "లక్ష్మణ్ గౌడ్ కుటుంబానికి పరామర్శ",
+   "h": "ఉద్యమకారుడు లక్ష్మణ్ గౌడ్ కుటుంబాన్ని పరామర్శించిన హరీశ్ రావు",
+   "p": "జనగామ జిల్లా కొన్నె గ్రామంలో తెలంగాణ ఉద్యమకారుడు లక్ష్మణ్ గౌడ్ కుటుంబాన్ని ఎమ్మెల్యేలు హరీశ్ రావు, పల్లా రాజేశ్వర్ రెడ్డి పరామర్శించారు. ఆయన చిత్రపటానికి నివాళులర్పించి, పార్టీ తరఫున ఆర్థిక సాయం అందించారు. కుటుంబానికి అన్ని విధాలా అండగా ఉంటామని హరీశ్ రావు హామీ ఇచ్చారు. లక్ష్మణ్ గౌడ్ భార్యకు ఉద్యోగం ఇప్పిస్తానని, పిల్లల చదువు బాధ్యత తీసుకుంటానని పల్లా రాజేశ్వర్ రెడ్డి చెప్పారు.",
+   "pts": [
+    "కొన్నె గ్రామంలో కుటుంబానికి పరామర్శ",
+    "పార్టీ తరఫున ఆర్థిక సాయం",
+    "భార్యకు ఉద్యోగం, పిల్లల చదువుకు హామీ"
+   ],
+   "why": "ఉద్యమకారుల కుటుంబాలకు అందుతున్న సహాయం గురించి జనగామ జిల్లా ప్రజలకు ఇది సమాచారం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/harish-rao-calls-on-the-family-of-activist-laxman-goud-2556698",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "jangaon",
+   "loc": "కొన్నె",
+   "pub": "2026-11-10T13:20+05:30",
+   "en": {
+    "cat": "Jangaon · Politics",
+    "statl": "visit to Laxman Goud's family",
+    "h": "Harish Rao visits family of activist Laxman Goud",
+    "p": "MLAs Harish Rao and Palla Rajeshwar Reddy visited the family of Telangana activist Laxman Goud at Konne village in Jangaon district. They paid floral tributes to his portrait and gave financial help on behalf of the party. Harish Rao assured the family of full support. Palla Rajeshwar Reddy said he would arrange a job for Laxman Goud's wife and take responsibility for the children's education.",
+    "pts": [
+     "Family visited at Konne village",
+     "Financial help on behalf of the party",
+     "Job for wife, children's education promised"
+    ],
+    "why": "It informs Jangaon district residents about support being given to activists' families."
+   },
+   "hi": {
+    "cat": "जनगांव · राजनीति",
+    "statl": "लक्ष्मण गौड़ के परिवार से मुलाकात",
+    "h": "आंदोलनकारी लक्ष्मण गौड़ के परिवार से मिले हरीश राव",
+    "p": "विधायक हरीश राव और पल्ला राजेश्वर रेड्डी ने जनगांव जिले के कोन्ने गांव में तेलंगाना आंदोलनकारी लक्ष्मण गौड़ के परिवार से मुलाकात की। उन्होंने उनके चित्र पर श्रद्धांजलि दी और पार्टी की ओर से आर्थिक मदद दी। हरीश राव ने परिवार को हर तरह का साथ देने का भरोसा दिया। पल्ला राजेश्वर रेड्डी ने लक्ष्मण गौड़ की पत्नी को नौकरी दिलाने और बच्चों की पढ़ाई की जिम्मेदारी लेने की बात कही।",
+    "pts": [
+     "कोन्ने गांव में परिवार से मुलाकात",
+     "पार्टी की ओर से आर्थिक मदद",
+     "पत्नी को नौकरी, बच्चों की पढ़ाई का वादा"
+    ],
+    "why": "इससे जनगांव जिले के लोगों को आंदोलनकारियों के परिवारों को मिल रही मदद की जानकारी मिलती है।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "సిద్దిపేట · సంస్కృతి",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1వ",
+   "statl": "అందెశ్రీ వర్ధంతి",
+   "h": "మద్దూరులో ఘనంగా ప్రజాకవి అందెశ్రీ ప్రథమ వర్ధంతి",
+   "p": "ప్రజాకవి అందెశ్రీ ప్రథమ వర్ధంతిని ఆయన సొంత మండలం సిద్దిపేట జిల్లా మద్దూరు మండల కేంద్రంలో ఘనంగా నిర్వహించారు. పలువురు నాయకులు ఆయన చిత్రపటానికి పూలమాలలు వేసి నివాళులర్పించారు. మలిదశ తెలంగాణ ఉద్యమంలో అందెశ్రీ పాత్ర ఎనలేనిదని, ఆయన ఆశయాల సాధనకు కృషి చేయాలని పాల్గొన్నవారు పిలుపునిచ్చారు.",
+   "pts": [
+    "సొంత మండలం మద్దూరులో వర్ధంతి",
+    "చిత్రపటానికి నాయకుల నివాళులు",
+    "మలిదశ ఉద్యమంలో పాత్రను స్మరించారు"
+   ],
+   "why": "తెలంగాణ ఉద్యమ సాహిత్యానికి అందెశ్రీ చేసిన కృషిని ప్రజలు గుర్తుచేసుకుంటున్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/medak/siddipet/andesris-first-death-anniversary-commemorated-grandly-2556688",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "siddipet",
+   "loc": "మద్దూరు",
+   "pub": "2026-11-10T13:12+05:30",
+   "en": {
+    "cat": "Siddipet · Culture",
+    "statl": "Andesri death anniversary",
+    "h": "People's poet Andesri's first death anniversary observed at Maddur",
+    "p": "The first death anniversary of people's poet Andesri was observed grandly at Maddur mandal centre in Siddipet district, his home mandal. Several leaders paid floral tributes to his portrait. Those present said his role in the second phase of the Telangana movement was immense and urged people to work towards his ideals.",
+    "pts": [
+     "Anniversary held in his home mandal Maddur",
+     "Leaders pay tributes to his portrait",
+     "His role in the movement remembered"
+    ],
+    "why": "People are remembering Andesri's contribution to Telangana movement literature."
+   },
+   "hi": {
+    "cat": "सिद्दिपेट · संस्कृति",
+    "statl": "अंदेश्री की पुण्यतिथि",
+    "h": "मद्दूर में जनकवि अंदेश्री की पहली पुण्यतिथि मनाई गई",
+    "p": "जनकवि अंदेश्री की पहली पुण्यतिथि उनके गृह मंडल, सिद्दिपेट जिले के मद्दूर मंडल केंद्र में धूमधाम से मनाई गई। कई नेताओं ने उनके चित्र पर पुष्पांजलि अर्पित की। उपस्थित लोगों ने कहा कि तेलंगाना आंदोलन के दूसरे चरण में अंदेश्री की भूमिका बहुत बड़ी थी और उनके आदर्शों के लिए काम करने का आह्वान किया।",
+    "pts": [
+     "गृह मंडल मद्दूर में पुण्यतिथि",
+     "नेताओं ने चित्र पर श्रद्धांजलि दी",
+     "आंदोलन में उनकी भूमिका याद की गई"
+    ],
+    "why": "लोग तेलंगाना आंदोलन साहित्य में अंदेश्री के योगदान को याद कर रहे हैं।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",

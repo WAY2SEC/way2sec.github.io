@@ -1,8 +1,307 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T11:08:06+05:30",
+ "updated": "2026-11-10T14:42:23+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · సైబర్ భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "CSAM",
+   "statl": "కేసు నమోదు, నిందితుడి కోసం గాలింపు",
+   "h": "చిన్నారుల లైంగిక వేధింపుల కంటెంట్ అప్‌లోడ్: హైదరాబాద్ వ్యక్తిపై కేసు",
+   "p": "చిన్నారులపై లైంగిక వేధింపుల కంటెంట్ (CSAM)ను ఆన్‌లైన్‌లో అప్‌లోడ్ చేశాడనే ఆరోపణపై తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో (TGCSB) ఒక వ్యక్తిపై కేసు నమోదు చేసింది. కేంద్ర హోంశాఖ నుంచి వచ్చిన సమాచారం ఆధారంగా ఈ కేసు పెట్టారు. అప్‌లోడ్‌లకు సంబంధించిన ఐపీ అడ్రస్ ద్వారా నిందితుడిని హైదరాబాద్‌లో గుర్తించారు. అతడు పరారీలో ఉండటంతో ప్రత్యేక బృందాలు గాలిస్తున్నాయని అధికారులు తెలిపారు.",
+   "pts": [
+    "కేంద్ర హోంశాఖ సమాచారంతో TGCSB కేసు",
+    "ఐపీ అడ్రస్ ద్వారా హైదరాబాద్‌లో గుర్తింపు",
+    "నిందితుడు పరారీ, ప్రత్యేక బృందాల గాలింపు"
+   ],
+   "why": "చిన్నారులకు హాని చేసే ఆన్‌లైన్ కంటెంట్‌పై పోలీసులు నిఘా పెంచారని ఈ కేసు చూపిస్తోంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/csam-upload-case-tgcsb-books-hyderabad-man/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-10T14:10+05:30",
+   "en": {
+    "cat": "Hyderabad · Cyber Security",
+    "statl": "case filed, hunt for suspect",
+    "h": "Child sexual abuse material upload: case against Hyderabad man",
+    "p": "The Telangana Cyber Security Bureau (TGCSB) has registered a case against a man for allegedly uploading child sexual abuse material (CSAM) online. The case was filed on information from the Union Home Ministry. The suspect was traced to Hyderabad through the IP address linked to the uploads. Officials said he is absconding and special teams are searching for him.",
+    "pts": [
+     "TGCSB case on Union Home Ministry input",
+     "Traced to Hyderabad via IP address",
+     "Suspect absconding, special teams searching"
+    ],
+    "why": "The case shows police are stepping up watch on online content that harms children."
+   },
+   "hi": {
+    "cat": "हैदराबाद · साइबर सुरक्षा",
+    "statl": "मामला दर्ज, आरोपी की तलाश",
+    "h": "बाल यौन शोषण सामग्री अपलोड: हैदराबाद के व्यक्ति पर मामला",
+    "p": "तेलंगाना साइबर सुरक्षा ब्यूरो (TGCSB) ने बाल यौन शोषण सामग्री (CSAM) ऑनलाइन अपलोड करने के आरोप में एक व्यक्ति पर मामला दर्ज किया है। यह मामला केंद्रीय गृह मंत्रालय से मिली जानकारी पर दर्ज हुआ। अपलोड से जुड़े आईपी पते के जरिए आरोपी की पहचान हैदराबाद में हुई। अधिकारियों के अनुसार वह फरार है और विशेष टीमें उसकी तलाश कर रही हैं।",
+    "pts": [
+     "गृह मंत्रालय की सूचना पर TGCSB का मामला",
+     "आईपी पते से हैदराबाद में पहचान",
+     "आरोपी फरार, विशेष टीमें तलाश में"
+    ],
+    "why": "यह मामला दिखाता है कि बच्चों को नुकसान पहुंचाने वाली ऑनलाइन सामग्री पर पुलिस निगरानी बढ़ी है।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "భారత్ · మహిళలు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1.5 లక్షలు",
+   "statl": "ఏటా ఎన్‌సీడబ్ల్యూకు ఫిర్యాదులు",
+   "h": "ఎన్‌సీడబ్ల్యూ ఫిర్యాదుల్లో గృహహింసవే అధికం: చైర్‌పర్సన్ రహత్కర్",
+   "p": "జాతీయ మహిళా కమిషన్ (NCW)కు ఏటా సుమారు 1.5 లక్షల ఫిర్యాదులు వస్తున్నాయని, వాటిలో గృహహింస కేసులే ఎక్కువని చైర్‌పర్సన్ విజయా రహత్కర్ హైదరాబాద్‌లో తెలిపారు. ఆన్‌లైన్ పోర్టల్, ఈమెయిల్, నేరుగా లేదా 24 గంటల హెల్ప్‌లైన్ 14490 ద్వారా ఫిర్యాదు చేయొచ్చన్నారు. 'రాష్ట్రీయ మహిళా ఆయోగ్ ఆప్‌కే ద్వార్' కింద ఏడాదిన్నరలో 200కు పైగా ప్రజా విచారణలు నిర్వహించామని చెప్పారు.",
+   "pts": [
+    "ఏటా సుమారు 1.5 లక్షల ఫిర్యాదులు",
+    "24 గంటల హెల్ప్‌లైన్ నంబర్ 14490",
+    "200కు పైగా గ్రామస్థాయి ప్రజా విచారణలు"
+   ],
+   "why": "గృహహింస బాధిత మహిళలు ఎలా, ఎక్కడ ఫిర్యాదు చేయాలో తెలుసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
+   "src": "IND Today",
+   "url": "https://indtoday.com/ncw-domestic-violence-complaints-top-annual-list/",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-10T14:18+05:30",
+   "en": {
+    "cat": "India · Women",
+    "statl": "complaints to NCW every year",
+    "h": "Domestic violence tops NCW complaints, says chairperson Rahatkar",
+    "p": "National Commission for Women chairperson Vijaya Rahatkar said in Hyderabad that the NCW receives about 1.5 lakh complaints a year, with domestic violence the largest category. Complaints can be filed through the online portal, email, in person or the 24-hour helpline 14490. Under 'Rashtriya Mahila Aayog Aapke Dwar', she said, more than 200 public hearings were held in about one and a half years.",
+    "pts": [
+     "About 1.5 lakh complaints every year",
+     "24-hour helpline number 14490",
+     "Over 200 public hearings at village level"
+    ],
+    "why": "It helps women facing domestic violence know how and where to file a complaint."
+   },
+   "hi": {
+    "cat": "भारत · महिलाएं",
+    "statl": "हर साल NCW को शिकायतें",
+    "h": "NCW की शिकायतों में घरेलू हिंसा सबसे ज्यादा: अध्यक्ष रहाटकर",
+    "p": "राष्ट्रीय महिला आयोग (NCW) की अध्यक्ष विजया रहाटकर ने हैदराबाद में कहा कि आयोग को हर साल लगभग 1.5 लाख शिकायतें मिलती हैं, जिनमें घरेलू हिंसा के मामले सबसे ज्यादा हैं। ऑनलाइन पोर्टल, ईमेल, व्यक्तिगत रूप से या 24 घंटे की हेल्पलाइन 14490 से शिकायत की जा सकती है। 'राष्ट्रीय महिला आयोग आपके द्वार' के तहत करीब डेढ़ साल में 200 से अधिक जन सुनवाइयां हुईं।",
+    "pts": [
+     "हर साल लगभग 1.5 लाख शिकायतें",
+     "24 घंटे की हेल्पलाइन 14490",
+     "गांवों में 200 से अधिक जन सुनवाई"
+    ],
+    "why": "घरेलू हिंसा से पीड़ित महिलाओं को यह जानने में मदद मिलती है कि शिकायत कैसे और कहां करें।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "AI",
+   "statl": "టీనేజర్ల వయసు గుర్తింపు",
+   "h": "టీనేజర్ల రక్షణకు మెటా ఏఐ వయసు గుర్తింపు సాంకేతికత ప్రపంచవ్యాప్తం",
+   "p": "తప్పుడు వయసు, పెద్దల పుట్టినతేదీ ఇచ్చిన టీనేజర్లను గుర్తించి 'టీన్ అకౌంట్' రక్షణల్లోకి మార్చే ఏఐ సాంకేతికతను మెటా ప్రపంచవ్యాప్తంగా విస్తరించింది. ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్, మెసెంజర్‌లో టీన్ అకౌంట్లు ఎవరు సంప్రదించవచ్చు, ఏ కంటెంట్ కనిపిస్తుంది, ఎంతసేపు వాడతారనే వాటిని పరిమితం చేస్తాయి. ఇన్‌స్టాగ్రామ్‌లో మరిన్ని లక్షల మంది టీనేజర్లకు ఈ రక్షణ వస్తుందని, త్రెడ్స్‌లో ఈ ఏడాది చివర్లో తెస్తామని మెటా తెలిపింది.",
+   "pts": [
+    "తప్పుడు వయసు చెప్పిన టీనేజర్లను ఏఐ గుర్తిస్తుంది",
+    "ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్‌లో అమలు",
+    "త్రెడ్స్‌లో ఈ ఏడాది చివర్లో"
+   ],
+   "why": "ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్ వాడే మన దేశ టీనేజర్లు, వారి తల్లిదండ్రులపై ఇది ప్రభావం చూపుతుంది.",
+   "src": "TechAfrica News",
+   "url": "https://techafricanews.com/2026/11/10/meta-expands-ai-age-detection-technology-protect-teens-globally/",
+   "sec": [
+    "world",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pub": "2026-11-10T14:08+05:30",
+   "en": {
+    "cat": "World · Technology",
+    "statl": "identifying teens' age",
+    "h": "Meta takes AI age-detection for teen safety worldwide",
+    "p": "Meta has expanded worldwide its AI technology that identifies teens who gave a false age or an adult birthday and moves them into 'Teen Account' protections. Teen Accounts on Instagram, Facebook and Messenger limit who can contact teens, what content they see and how long they use the apps. Meta said millions more teens on Instagram will get the protections, and it will bring similar technology to Threads later this year.",
+    "pts": [
+     "AI spots teens who misstate their age",
+     "Rolling out on Instagram and Facebook",
+     "Threads to follow later this year"
+    ],
+    "why": "It affects teens in India who use Instagram and Facebook, and their parents."
+   },
+   "hi": {
+    "cat": "दुनिया · टेक्नोलॉजी",
+    "statl": "किशोरों की उम्र पहचान",
+    "h": "किशोरों की सुरक्षा के लिए मेटा की एआई उम्र पहचान दुनियाभर में",
+    "p": "मेटा ने गलत उम्र या वयस्क जन्मतिथि बताने वाले किशोरों को पहचानकर 'टीन अकाउंट' सुरक्षा में डालने वाली एआई तकनीक को दुनियाभर में बढ़ाया है। इंस्टाग्राम, फेसबुक और मैसेंजर पर टीन अकाउंट यह सीमित करते हैं कि किशोरों से कौन संपर्क करे, वे क्या देखें और कितनी देर ऐप चलाएं। मेटा ने कहा कि इंस्टाग्राम पर लाखों और किशोरों को यह सुरक्षा मिलेगी और थ्रेड्स पर इस साल के अंत में ऐसी तकनीक आएगी।",
+    "pts": [
+     "गलत उम्र बताने वाले किशोरों को एआई पहचानेगा",
+     "इंस्टाग्राम और फेसबुक पर लागू",
+     "थ्रेड्स पर इस साल के अंत में"
+    ],
+    "why": "इसका असर इंस्टाग्राम और फेसबुक इस्तेमाल करने वाले भारत के किशोरों और उनके माता-पिता पर पड़ेगा।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "నల్గొండ · క్రీడలు",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "₹12,000",
+   "statl": "హాకీ బ్యాట్ కోసం సాయం",
+   "h": "జాతీయ హాకీ జట్టుకు ఎంపికైన నల్గొండ యువకుడు గణేష్‌కు ఆర్థిక సాయం",
+   "p": "జాతీయ హాకీ జట్టుకు తెలంగాణ నుంచి ఎంపికైన ఏకైక క్రీడాకారుడు, నల్గొండ పట్టణానికి చెందిన రావుల గణేష్‌కు ఆర్థిక ప్రోత్సాహం అందింది. గుత్తా వెంకట్‌రెడ్డి మెమోరియల్ ట్రస్ట్ చైర్మన్ గుత్తా అమిత్‌రెడ్డి హాకీ బ్యాట్ కోసం రూ.12 వేలు అందజేశారు. కార్యక్రమంలో 20వ డివిజన్ కార్పొరేటర్ అల్లి సుభాష్, జిల్లా హాకీ కోచ్ అలీ తదితరులు పాల్గొన్నారు.",
+   "pts": [
+    "తెలంగాణ నుంచి జాతీయ జట్టుకు ఏకైక ఎంపిక",
+    "గుత్తా అమిత్‌రెడ్డి రూ.12 వేల సాయం",
+    "జిల్లా హాకీ కోచ్ అలీ హాజరు"
+   ],
+   "why": "జిల్లా స్థాయి క్రీడాకారులకు ఇలాంటి ప్రోత్సాహం జాతీయ స్థాయిలో రాణించేందుకు తోడ్పడుతుంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/nalgonda/financial-support-for-young-hockey-player-ganesh-2556705",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pub": "2026-11-10T13:57+05:30",
+   "en": {
+    "cat": "Nalgonda · Sports",
+    "statl": "help for a hockey stick",
+    "h": "Nalgonda youth Ganesh, picked for national hockey team, gets financial help",
+    "p": "Ravula Ganesh of Nalgonda town, the only player from Telangana selected for the national hockey team, received financial encouragement. Gutta Amit Reddy, chairman of the Gutta Venkat Reddy Memorial Trust, gave him Rs 12,000 for a hockey stick. 20th division corporator Alli Subhash, district hockey coach Ali and others attended.",
+    "pts": [
+     "Only Telangana player picked for national team",
+     "Gutta Amit Reddy gives Rs 12,000",
+     "District hockey coach Ali present"
+    ],
+    "why": "Such support helps district-level players perform at the national level."
+   },
+   "hi": {
+    "cat": "नलगोंडा · खेल",
+    "statl": "हॉकी स्टिक के लिए मदद",
+    "h": "राष्ट्रीय हॉकी टीम में चुने गए नलगोंडा के गणेश को आर्थिक मदद",
+    "p": "राष्ट्रीय हॉकी टीम में तेलंगाना से चुने गए एकमात्र खिलाड़ी, नलगोंडा शहर के रावुला गणेश को आर्थिक प्रोत्साहन मिला। गुत्ता वेंकट रेड्डी मेमोरियल ट्रस्ट के अध्यक्ष गुत्ता अमित रेड्डी ने हॉकी स्टिक के लिए 12,000 रुपये दिए। 20वें डिवीजन के पार्षद अल्ली सुभाष, जिला हॉकी कोच अली और अन्य मौजूद थे।",
+    "pts": [
+     "तेलंगाना से राष्ट्रीय टीम में एकमात्र चयन",
+     "गुत्ता अमित रेड्डी ने 12,000 रुपये दिए",
+     "जिला हॉकी कोच अली मौजूद"
+    ],
+    "why": "ऐसी मदद जिला स्तर के खिलाड़ियों को राष्ट्रीय स्तर पर आगे बढ़ने में सहायक होती है।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "జనగామ · రాజకీయం",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "కొన్నె",
+   "statl": "లక్ష్మణ్ గౌడ్ కుటుంబానికి పరామర్శ",
+   "h": "ఉద్యమకారుడు లక్ష్మణ్ గౌడ్ కుటుంబాన్ని పరామర్శించిన హరీశ్ రావు",
+   "p": "జనగామ జిల్లా కొన్నె గ్రామంలో తెలంగాణ ఉద్యమకారుడు లక్ష్మణ్ గౌడ్ కుటుంబాన్ని ఎమ్మెల్యేలు హరీశ్ రావు, పల్లా రాజేశ్వర్ రెడ్డి పరామర్శించారు. ఆయన చిత్రపటానికి నివాళులర్పించి, పార్టీ తరఫున ఆర్థిక సాయం అందించారు. కుటుంబానికి అన్ని విధాలా అండగా ఉంటామని హరీశ్ రావు హామీ ఇచ్చారు. లక్ష్మణ్ గౌడ్ భార్యకు ఉద్యోగం ఇప్పిస్తానని, పిల్లల చదువు బాధ్యత తీసుకుంటానని పల్లా రాజేశ్వర్ రెడ్డి చెప్పారు.",
+   "pts": [
+    "కొన్నె గ్రామంలో కుటుంబానికి పరామర్శ",
+    "పార్టీ తరఫున ఆర్థిక సాయం",
+    "భార్యకు ఉద్యోగం, పిల్లల చదువుకు హామీ"
+   ],
+   "why": "ఉద్యమకారుల కుటుంబాలకు అందుతున్న సహాయం గురించి జనగామ జిల్లా ప్రజలకు ఇది సమాచారం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/harish-rao-calls-on-the-family-of-activist-laxman-goud-2556698",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "jangaon",
+   "loc": "కొన్నె",
+   "pub": "2026-11-10T13:20+05:30",
+   "en": {
+    "cat": "Jangaon · Politics",
+    "statl": "visit to Laxman Goud's family",
+    "h": "Harish Rao visits family of activist Laxman Goud",
+    "p": "MLAs Harish Rao and Palla Rajeshwar Reddy visited the family of Telangana activist Laxman Goud at Konne village in Jangaon district. They paid floral tributes to his portrait and gave financial help on behalf of the party. Harish Rao assured the family of full support. Palla Rajeshwar Reddy said he would arrange a job for Laxman Goud's wife and take responsibility for the children's education.",
+    "pts": [
+     "Family visited at Konne village",
+     "Financial help on behalf of the party",
+     "Job for wife, children's education promised"
+    ],
+    "why": "It informs Jangaon district residents about support being given to activists' families."
+   },
+   "hi": {
+    "cat": "जनगांव · राजनीति",
+    "statl": "लक्ष्मण गौड़ के परिवार से मुलाकात",
+    "h": "आंदोलनकारी लक्ष्मण गौड़ के परिवार से मिले हरीश राव",
+    "p": "विधायक हरीश राव और पल्ला राजेश्वर रेड्डी ने जनगांव जिले के कोन्ने गांव में तेलंगाना आंदोलनकारी लक्ष्मण गौड़ के परिवार से मुलाकात की। उन्होंने उनके चित्र पर श्रद्धांजलि दी और पार्टी की ओर से आर्थिक मदद दी। हरीश राव ने परिवार को हर तरह का साथ देने का भरोसा दिया। पल्ला राजेश्वर रेड्डी ने लक्ष्मण गौड़ की पत्नी को नौकरी दिलाने और बच्चों की पढ़ाई की जिम्मेदारी लेने की बात कही।",
+    "pts": [
+     "कोन्ने गांव में परिवार से मुलाकात",
+     "पार्टी की ओर से आर्थिक मदद",
+     "पत्नी को नौकरी, बच्चों की पढ़ाई का वादा"
+    ],
+    "why": "इससे जनगांव जिले के लोगों को आंदोलनकारियों के परिवारों को मिल रही मदद की जानकारी मिलती है।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "సిద్దిపేట · సంస్కృతి",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "1వ",
+   "statl": "అందెశ్రీ వర్ధంతి",
+   "h": "మద్దూరులో ఘనంగా ప్రజాకవి అందెశ్రీ ప్రథమ వర్ధంతి",
+   "p": "ప్రజాకవి అందెశ్రీ ప్రథమ వర్ధంతిని ఆయన సొంత మండలం సిద్దిపేట జిల్లా మద్దూరు మండల కేంద్రంలో ఘనంగా నిర్వహించారు. పలువురు నాయకులు ఆయన చిత్రపటానికి పూలమాలలు వేసి నివాళులర్పించారు. మలిదశ తెలంగాణ ఉద్యమంలో అందెశ్రీ పాత్ర ఎనలేనిదని, ఆయన ఆశయాల సాధనకు కృషి చేయాలని పాల్గొన్నవారు పిలుపునిచ్చారు.",
+   "pts": [
+    "సొంత మండలం మద్దూరులో వర్ధంతి",
+    "చిత్రపటానికి నాయకుల నివాళులు",
+    "మలిదశ ఉద్యమంలో పాత్రను స్మరించారు"
+   ],
+   "why": "తెలంగాణ ఉద్యమ సాహిత్యానికి అందెశ్రీ చేసిన కృషిని ప్రజలు గుర్తుచేసుకుంటున్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/medak/siddipet/andesris-first-death-anniversary-commemorated-grandly-2556688",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "siddipet",
+   "loc": "మద్దూరు",
+   "pub": "2026-11-10T13:12+05:30",
+   "en": {
+    "cat": "Siddipet · Culture",
+    "statl": "Andesri death anniversary",
+    "h": "People's poet Andesri's first death anniversary observed at Maddur",
+    "p": "The first death anniversary of people's poet Andesri was observed grandly at Maddur mandal centre in Siddipet district, his home mandal. Several leaders paid floral tributes to his portrait. Those present said his role in the second phase of the Telangana movement was immense and urged people to work towards his ideals.",
+    "pts": [
+     "Anniversary held in his home mandal Maddur",
+     "Leaders pay tributes to his portrait",
+     "His role in the movement remembered"
+    ],
+    "why": "People are remembering Andesri's contribution to Telangana movement literature."
+   },
+   "hi": {
+    "cat": "सिद्दिपेट · संस्कृति",
+    "statl": "अंदेश्री की पुण्यतिथि",
+    "h": "मद्दूर में जनकवि अंदेश्री की पहली पुण्यतिथि मनाई गई",
+    "p": "जनकवि अंदेश्री की पहली पुण्यतिथि उनके गृह मंडल, सिद्दिपेट जिले के मद्दूर मंडल केंद्र में धूमधाम से मनाई गई। कई नेताओं ने उनके चित्र पर पुष्पांजलि अर्पित की। उपस्थित लोगों ने कहा कि तेलंगाना आंदोलन के दूसरे चरण में अंदेश्री की भूमिका बहुत बड़ी थी और उनके आदर्शों के लिए काम करने का आह्वान किया।",
+    "pts": [
+     "गृह मंडल मद्दूर में पुण्यतिथि",
+     "नेताओं ने चित्र पर श्रद्धांजलि दी",
+     "आंदोलन में उनकी भूमिका याद की गई"
+    ],
+    "why": "लोग तेलंगाना आंदोलन साहित्य में अंदेश्री के योगदान को याद कर रहे हैं।"
+   },
+   "d": "10.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
@@ -2156,398 +2455,6 @@
    },
    "d": "09.11.2026",
    "t": "20:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆదిలాబాద్",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "2 మండలాలు",
-   "statl": "భీంపూర్, తాంసిలో పులి భయం",
-   "h": "ఆదిలాబాద్‌లో పులి సంచారం: పంట కోతలు వాయిదా వేస్తున్న రైతులు",
-   "p": "ఆదిలాబాద్ జిల్లా భీంపూర్, తాంసి మండలాల్లో పులి కదలికలతో రైతులు భయపడుతున్నారు. పెన్‌గంగా నది ఒడ్డున పొలాల్లో పులి కనిపించిందని అంతర్‌గావ్ గ్రామస్థులు చెప్పారు. మహారాష్ట్రలోని తిపేశ్వర్ టైగర్ రిజర్వ్ నుంచి పులి వచ్చి ఉండొచ్చని అటవీ అధికారులు భావిస్తున్నారు. ట్రాకర్లు, కెమెరా ట్రాప్‌లతో పర్యవేక్షిస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/tiger-movement-triggers-panic-among-farmers-in-adilabad",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "adilabad",
-   "loc": "భీంపూర్",
-   "pts": [
-    "పత్తి, వరి కోతలను రైతులు వాయిదా వేస్తున్నారు",
-    "పులి జాడ కోసం ట్రాకర్లు, సీసీటీవీ కెమెరా ట్రాప్‌లు",
-    "గుంపులుగా వెళ్లి శబ్దం చేయాలని రైతులకు సూచన"
-   ],
-   "why": "పెన్‌గంగా తీర గ్రామాల రైతులు, పశువుల కాపరులు జాగ్రత్తలు పాటించాల్సిన అవసరం ఉంది.",
-   "d": "09.11.2026",
-   "t": "19:05",
-   "en": {
-    "h": "Tiger movement in Adilabad: farmers postpone harvesting",
-    "p": "Tiger movement in Bheempur and Tamsi mandals of Adilabad district has caused panic among farmers. Villagers of Anthargaon said a tiger was seen in fields on the banks of the Penganga river. Forest officials believe it may have come from Maharashtra's Tipeshwar Tiger Reserve. They are monitoring it with trackers and camera traps.",
-    "pts": [
-     "Farmers are postponing cotton and paddy harvesting",
-     "Trackers and CCTV camera traps deployed to trail the tiger",
-     "Farmers advised to move in groups and make noise"
-    ],
-    "why": "Farmers and shepherds in villages along the Penganga need to take precautions.",
-    "cat": "Telangana · Adilabad",
-    "statl": "Tiger fear in Bheempur, Tamsi"
-   },
-   "hi": {
-    "h": "आदिलाबाद में बाघ की हलचल: किसानों ने फसल कटाई टाली",
-    "p": "आदिलाबाद जिले के भीमपुर और तामसी मंडलों में बाघ की हलचल से किसान डरे हुए हैं। अंतरगांव के ग्रामीणों ने बताया कि पेनगंगा नदी किनारे खेतों में बाघ देखा गया। वन अधिकारियों का मानना है कि बाघ महाराष्ट्र के तिपेश्वर टाइगर रिज़र्व से आया हो सकता है। ट्रैकर और कैमरा ट्रैप से निगरानी हो रही है।",
-    "pts": [
-     "किसान कपास और धान की कटाई टाल रहे हैं",
-     "बाघ की निगरानी के लिए ट्रैकर और सीसीटीवी कैमरा ट्रैप",
-     "किसानों को समूह में जाने और शोर करने की सलाह"
-    ],
-    "why": "पेनगंगा किनारे के गांवों के किसानों और चरवाहों को सावधानी बरतनी होगी।",
-    "cat": "तेलंगाना · आदिलाबाद",
-    "statl": "भीमपुर, तामसी में बाघ का डर"
-   }
-  },
-  {
-   "cat": "ఏపీ · వాయు నాణ్యత",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "264",
-   "statl": "విశాఖపట్నం గాలి నాణ్యత సూచీ",
-   "h": "దీపావళి తర్వాత ఏపీలో క్షీణించిన గాలి నాణ్యత: విశాఖ, రాజమహేంద్రవరం 'పేలవం'",
-   "p": "దీపావళి వేడుకల తర్వాత ఆంధ్రప్రదేశ్‌లో పర్యవేక్షణలో ఉన్న 17 నగరాల్లోనూ గాలి నాణ్యత తగ్గింది. విశాఖపట్నంలో ఏక్యూఐ 229 నుంచి 264కి పెరిగింది. రాజమహేంద్రవరంలో 104 నుంచి 220కి చేరి 'పేలవం' విభాగంలోకి వెళ్లింది. మిగతా 15 నగరాలు 'మధ్యస్థం'లో ఉన్నాయని ఏపీ కాలుష్య నియంత్రణ మండలి తెలిపింది.",
-   "src": "PTI",
-   "url": "https://theprint.in/india/air-quality-worsens-across-andhra-after-deepavali-visakhapatnam-rajamahendravaram-poor/3094332/",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "తిరుపతి 191, నెల్లూరు 175, శ్రీకాకుళం 170",
-    "ఆదివారం 12 నగరాలు 'సంతృప్తికరం'గా ఉన్నాయి",
-    "చాలా నగరాల్లో ప్రధాన కాలుష్యకారకం పీఎం 2.5"
-   ],
-   "why": "ఆస్తమా, ఊపిరితిత్తులు, గుండె జబ్బులున్నవారికి శ్వాస ఇబ్బందులు రావచ్చు.",
-   "d": "09.11.2026",
-   "t": "19:05",
-   "en": {
-    "h": "Air quality worsens in AP after Deepavali; Vizag, Rajamahendravaram 'poor'",
-    "p": "After Deepavali celebrations, air quality worsened in all 17 monitored cities of Andhra Pradesh. Visakhapatnam's AQI rose from 229 to 264. Rajamahendravaram rose from 104 to 220, moving into the 'poor' category. The other 15 cities are in the 'moderate' category, the AP Pollution Control Board said.",
-    "pts": [
-     "Tirupati 191, Nellore 175, Srikakulam 170",
-     "On Sunday, 12 cities were 'satisfactory'",
-     "PM2.5 was the main pollutant in most cities"
-    ],
-    "why": "People with asthma, lung or heart ailments may face breathing discomfort.",
-    "cat": "AP · Air quality",
-    "statl": "Visakhapatnam air quality index"
-   },
-   "hi": {
-    "h": "दीपावली के बाद आंध्र में बिगड़ी हवा: विशाखापत्तनम, राजमहेंद्रवरम 'खराब'",
-    "p": "दीपावली के बाद आंध्र प्रदेश के सभी 17 निगरानी वाले शहरों में हवा की गुणवत्ता गिरी। विशाखापत्तनम का एक्यूआई 229 से बढ़कर 264 हो गया। राजमहेंद्रवरम 104 से 220 पर पहुंचकर 'खराब' श्रेणी में आ गया। बाकी 15 शहर 'मध्यम' श्रेणी में हैं, आंध्र प्रदेश प्रदूषण नियंत्रण बोर्ड ने बताया।",
-    "pts": [
-     "तिरुपति 191, नेल्लोर 175, श्रीकाकुलम 170",
-     "रविवार को 12 शहर 'संतोषजनक' थे",
-     "ज्यादातर शहरों में मुख्य प्रदूषक पीएम 2.5"
-    ],
-    "why": "अस्थमा, फेफड़े या दिल की बीमारी वाले लोगों को सांस में तकलीफ हो सकती है।",
-    "cat": "आंध्र प्रदेश · वायु गुणवत्ता",
-    "statl": "विशाखापत्तनम वायु गुणवत्ता सूचकांक"
-   }
-  },
-  {
-   "cat": "భారత్ · అంతర్జాతీయ సంబంధాలు",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "భారత్–అమెరికా",
-   "statl": "భాగస్వామ్యం బలోపేతంపై చర్చ",
-   "h": "కేంద్ర మంత్రి సింధియాతో అమెరికా రాయబారి సెర్జియో గోర్ భేటీ",
-   "p": "భారత్‌లో అమెరికా రాయబారి సెర్జియో గోర్ సోమవారం న్యూఢిల్లీలో కేంద్ర కమ్యూనికేషన్ల మంత్రి జ్యోతిరాదిత్య సింధియాను కలిశారు. భారత్–అమెరికా సంబంధాలను ముందుకు తీసుకెళ్లడం, సహకారానికి కొత్త అవకాశాలపై చర్చించారు. వ్యూహాత్మక భాగస్వామ్యాన్ని మరింత బలోపేతం చేసే మార్గాలపై మాట్లాడినట్లు సింధియా ఎక్స్‌లో తెలిపారు.",
-   "src": "Telangana Today, IANS",
-   "url": "https://telanganatoday.com/us-envoy-sergio-gor-meets-jyotiraditya-scindia-in-delhi",
-   "sec": [
-    "india",
-    "world"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "న్యూఢిల్లీలో సోమవారం భేటీ",
-    "సహకారానికి కొత్త అవకాశాలపై చర్చ",
-    "గత నెల భారత్‌లో పర్యటించిన అమెరికా విదేశాంగ మంత్రి రూబియో"
-   ],
-   "why": "భారత్–అమెరికా సంబంధాల దిశ వాణిజ్యం, సాంకేతికత రంగాలపై ప్రభావం చూపుతుంది.",
-   "d": "09.11.2026",
-   "t": "19:05",
-   "en": {
-    "h": "US envoy Sergio Gor meets Union minister Scindia",
-    "p": "US Ambassador to India Sergio Gor met Union Communications Minister Jyotiraditya Scindia in New Delhi on Monday. They discussed advancing India-US ties and new opportunities for cooperation. Scindia said on X that they discussed ways to further strengthen the strategic partnership.",
-    "pts": [
-     "Meeting held in New Delhi on Monday",
-     "New opportunities for cooperation discussed",
-     "US Secretary of State Rubio visited India last month"
-    ],
-    "why": "The direction of India-US ties affects trade and technology.",
-    "cat": "India · Foreign relations",
-    "statl": "Talks on strengthening partnership"
-   },
-   "hi": {
-    "h": "अमेरिकी राजदूत सर्जियो गोर ने केंद्रीय मंत्री सिंधिया से मुलाकात की",
-    "p": "भारत में अमेरिकी राजदूत सर्जियो गोर ने सोमवार को नई दिल्ली में केंद्रीय संचार मंत्री ज्योतिरादित्य सिंधिया से मुलाकात की। दोनों ने भारत-अमेरिका संबंधों को आगे बढ़ाने और सहयोग के नए अवसरों पर चर्चा की। सिंधिया ने एक्स पर बताया कि रणनीतिक साझेदारी को और मजबूत करने के तरीकों पर बात हुई।",
-    "pts": [
-     "सोमवार को नई दिल्ली में मुलाकात",
-     "सहयोग के नए अवसरों पर चर्चा",
-     "पिछले महीने अमेरिकी विदेश मंत्री रुबियो ने भारत का दौरा किया"
-    ],
-    "why": "भारत-अमेरिका संबंधों की दिशा व्यापार और तकनीक पर असर डालती है।",
-    "cat": "भारत · विदेश संबंध",
-    "statl": "साझेदारी मजबूत करने पर चर्चा"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ఆర్థికం",
-   "col": "--c-money",
-   "art": "land",
-   "stat": "₹30,000 కోట్లు",
-   "statl": "34 నెలల్లో భూముల ద్వారా సమీకరణ",
-   "h": "ఆర్థిక ఒత్తిడి నడుమ ప్రభుత్వ భూముల విలువ పెంపుపై తెలంగాణ దృష్టి",
-   "p": "ఆర్థిక ఇబ్బందుల నేపథ్యంలో తెలంగాణ ప్రభుత్వం భూముల మానిటైజేషన్‌పై దృష్టి పెట్టింది. శాఖల ఆస్తులతో సహా ప్రభుత్వ భూముల విలువను పెంచడం, హైదరాబాద్ శివారు ప్రాంతాల్లో ప్రైవేటు భూములను ల్యాండ్ పూలింగ్ ద్వారా సేకరించడం ప్రణాళికలో ఉన్నాయి. గత 34 నెలల్లో భూములు, ఆస్తుల ద్వారా రూ.30,000 కోట్లకు పైగా సమీకరించారు. వేలానికి సిద్ధంగా ఉన్న లేఅవుట్లను గుర్తించాలని అన్ని శాఖలను ఆదేశించారు.",
-   "pts": [
-    "మేడ్చల్-మల్కాజిగిరి, రంగారెడ్డిలో ల్యాండ్ పూలింగ్ ప్రతిపాదన",
-    "హెచ్ఎండీఏ చేతిలో సుమారు 5,000 ఎకరాలు",
-    "టీజీఐఐసీ పరిధిలో లక్ష ఎకరాలకు పైగా భూమి"
-   ],
-   "why": "హైదరాబాద్ శివారు భూయజమానులు, పారిశ్రామిక యూనిట్లపై ఈ ప్రణాళికల ప్రభావం ఉంటుంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/congress-government-turns-to-land-monetisation-amid-financial-pressure",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "en": {
-    "h": "Amid financial pressure, Telangana turns to monetising government land",
-    "p": "Facing financial strain, the Telangana government is focusing on land monetisation. Plans include unlocking the value of government land, including departmental properties, and pooling private land in Hyderabad's peripheral areas. Over the last 34 months, more than Rs 30,000 crore was raised through government lands and properties. All departments have been asked to identify auction-ready layouts.",
-    "pts": [
-     "Land pooling proposed in Medchal-Malkajgiri, Rangareddy",
-     "HMDA holds about 5,000 acres",
-     "Over one lakh acres under TGIIC"
-    ],
-    "why": "These plans will affect landowners and industrial units on Hyderabad's outskirts.",
-    "cat": "Telangana · Economy",
-    "statl": "Raised via land in 34 months"
-   },
-   "hi": {
-    "h": "वित्तीय दबाव के बीच तेलंगाना सरकारी जमीनों के मुद्रीकरण पर केंद्रित",
-    "p": "वित्तीय तंगी के बीच तेलंगाना सरकार भूमि मुद्रीकरण पर ध्यान दे रही है। योजना में विभागीय संपत्तियों समेत सरकारी जमीनों का मूल्य बढ़ाना और हैदराबाद के बाहरी इलाकों में निजी जमीनों की लैंड पूलिंग शामिल है। पिछले 34 महीनों में सरकारी जमीनों और संपत्तियों से 30,000 करोड़ रुपये से अधिक जुटाए गए। सभी विभागों को नीलामी योग्य लेआउट पहचानने को कहा गया है।",
-    "pts": [
-     "मेडचल-मलकाजगिरी, रंगारेड्डी में लैंड पूलिंग प्रस्ताव",
-     "एचएमडीए के पास लगभग 5,000 एकड़",
-     "टीजीआईआईसी के तहत एक लाख एकड़ से अधिक"
-    ],
-    "why": "इन योजनाओं का असर हैदराबाद के बाहरी इलाकों के भूस्वामियों और औद्योगिक इकाइयों पर पड़ेगा।",
-    "cat": "तेलंगाना · अर्थव्यवस्था",
-    "statl": "34 महीनों में जमीन से जुटाए"
-   },
-   "d": "09.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "ఏపీ · పెట్టుబడులు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "12–13 నవంబర్",
-   "statl": "విశాఖలో సీఐఐ భాగస్వామ్య సదస్సు",
-   "h": "పెట్టుబడుల ఆకర్షణ కొనసాగుతుంది; విశాఖలో 12, 13న సీఐఐ సదస్సు: చంద్రబాబు",
-   "p": "రాష్ట్రానికి పెట్టుబడులు తెచ్చే ప్రయత్నాలు కొనసాగుతాయని ఏపీ సీఎం చంద్రబాబు నాయుడు సోమవారం అమరావతిలో చెప్పారు. సీఐఐ భాగస్వామ్య సదస్సు నవంబర్ 12, 13 తేదీల్లో విశాఖపట్నంలో జరుగుతుందని తెలిపారు. స్థానిక ఎన్నికల్లో గెలుపుపై టీడీపీ, జనసేన, బీజేపీ కార్యకర్తలకు ధన్యవాదాలు చెప్పారు. గ్రామ పంచాయతీ ఎన్నికలు మూడు దశల్లో జరగనున్నాయి.",
-   "pts": [
-    "సీఐఐ సదస్సు నవంబర్ 12, 13న విశాఖలో",
-    "పంచాయతీ పోలింగ్ నవంబర్ 26, 29, డిసెంబర్ 2న",
-    "అనంతపురం, ఏజెన్సీ ఓటములను పరిశీలిస్తామన్న సీఎం"
-   ],
-   "why": "విశాఖ సదస్సు రాష్ట్రంలో పెట్టుబడులు, ఉద్యోగాల ఆశలకు కీలకం; పంచాయతీ ఓటర్లకు పోలింగ్ తేదీలు ముఖ్యం.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/naidu-says-nda-government-will-continue-efforts-to-attract-investments",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "en": {
-    "h": "Investment drive will continue; CII summit in Visakhapatnam on Nov 12–13: Naidu",
-    "p": "Andhra Pradesh CM N Chandrababu Naidu said in Amaravati on Monday that efforts to bring investment to the state will continue. He said the CII Partnership Summit will be held in Visakhapatnam on November 12 and 13. He thanked TDP, Janasena and BJP cadres for the local body poll win. Gram panchayat elections will be held in three phases.",
-    "pts": [
-     "CII summit in Visakhapatnam on Nov 12, 13",
-     "Panchayat polling on Nov 26, 29 and Dec 2",
-     "CM to examine losses in Anantapur, agency areas"
-    ],
-    "why": "The Visakhapatnam summit matters for investment and job hopes; panchayat voters need the polling dates.",
-    "cat": "AP · Investment",
-    "statl": "CII Partnership Summit in Visakhapatnam"
-   },
-   "hi": {
-    "h": "निवेश लाने के प्रयास जारी रहेंगे; विशाखापत्तनम में 12–13 नवंबर को सीआईआई सम्मेलन: नायडू",
-    "p": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू ने सोमवार को अमरावती में कहा कि राज्य में निवेश लाने के प्रयास जारी रहेंगे। उन्होंने बताया कि सीआईआई पार्टनरशिप समिट 12 और 13 नवंबर को विशाखापत्तनम में होगा। उन्होंने स्थानीय निकाय चुनाव में जीत के लिए टीडीपी, जनसेना और भाजपा कार्यकर्ताओं का धन्यवाद किया। ग्राम पंचायत चुनाव तीन चरणों में होंगे।",
-    "pts": [
-     "सीआईआई सम्मेलन 12, 13 नवंबर को विशाखापत्तनम में",
-     "पंचायत मतदान 26, 29 नवंबर और 2 दिसंबर को",
-     "अनंतपुर, एजेंसी क्षेत्रों की हार की समीक्षा करेंगे सीएम"
-    ],
-    "why": "विशाखापत्तनम सम्मेलन निवेश और रोजगार की उम्मीदों के लिए अहम है; पंचायत मतदाताओं के लिए तारीखें जरूरी हैं।",
-    "cat": "आंध्र प्रदेश · निवेश",
-    "statl": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट"
-   },
-   "d": "09.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "తమిళనాడు · తేని",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹40 లక్షలు",
-   "statl": "పోలీసు అధికారి కుటుంబానికి సాయం",
-   "h": "తేనిలో దాడిలో మృతిచెందిన పోలీసు అధికారి కుటుంబానికి రూ.40 లక్షలు: సీఎం విజయ్",
-   "p": "దీపావళి రోజు తేని జిల్లాలో మద్యం మత్తులో ఉన్న యువకుల దాడిలో మృతిచెందినట్లు చెబుతున్న స్పెషల్ సబ్-ఇన్‌స్పెక్టర్ కుటుంబానికి రూ.40 లక్షల సాయాన్ని తమిళనాడు సీఎం సి. జోసెఫ్ విజయ్ ప్రకటించారు. రోడ్డును అడ్డుకుని టపాసులు కాలుస్తున్న గుంపును ఆపమని ఆయన కోరగా వారు దాడి చేశారు. ఈ కేసులో నలుగురిని అరెస్టు చేశారు.",
-   "pts": [
-    "ఘటన ఆదివారం సమధర్మపురంలో జరిగింది",
-    "సీసీటీవీ దృశ్యాలను పోలీసులు పరిశీలించారు",
-    "మరికొందరి పాత్రపైనా దర్యాప్తు కొనసాగుతోంది"
-   ],
-   "why": "విధుల్లో ఉన్న పోలీసుల భద్రత, పండుగల్లో రోడ్లపై అల్లర్ల నియంత్రణపై ఈ ఘటన ప్రశ్నలు లేవనెత్తుతోంది.",
-   "src": "IANS",
-   "url": "https://www.socialnews.xyz/2026/11/09/tamil-nadu-cm-vijay-announces-rs-40-lakh-compensation-to-family-of-slain-police-officer",
-   "sec": [
-    "india"
-   ],
-   "st": "TN",
-   "place": "tn-theni",
-   "loc": "సమధర్మపురం",
-   "en": {
-    "h": "Rs 40 lakh for family of police officer killed in Theni attack: CM Vijay",
-    "p": "Tamil Nadu CM C Joseph Vijay announced Rs 40 lakh in assistance for the family of a Special Sub-Inspector who was allegedly beaten to death by intoxicated youths in Theni district on Deepavali. He had asked a group blocking a road and bursting firecrackers to stop, and they attacked him. Four people have been arrested in the case.",
-    "pts": [
-     "Incident happened at Samadharmapuram on Sunday",
-     "Police examined CCTV footage",
-     "Probe on whether more people were involved"
-    ],
-    "why": "The incident raises questions about the safety of police on duty and control of street disorder during festivals.",
-    "cat": "Tamil Nadu · Theni",
-    "statl": "Aid to police officer's family"
-   },
-   "hi": {
-    "h": "थेनी हमले में मारे गए पुलिस अधिकारी के परिवार को 40 लाख रुपये: सीएम विजय",
-    "p": "तमिलनाडु के मुख्यमंत्री सी जोसेफ विजय ने उस स्पेशल सब-इंस्पेक्टर के परिवार को 40 लाख रुपये की सहायता की घोषणा की, जिनकी दीपावली पर थेनी जिले में नशे में धुत युवकों द्वारा कथित तौर पर पिटाई से मौत हो गई। उन्होंने सड़क रोककर पटाखे जला रहे समूह को रोकने को कहा था, जिसके बाद उन पर हमला हुआ। मामले में चार लोग गिरफ्तार हुए हैं।",
-    "pts": [
-     "घटना रविवार को समधर्मपुरम में हुई",
-     "पुलिस ने सीसीटीवी फुटेज की जांच की",
-     "और लोगों की भूमिका की जांच जारी"
-    ],
-    "why": "यह घटना ड्यूटी पर तैनात पुलिस की सुरक्षा और त्योहारों में सड़कों पर हुड़दंग रोकने पर सवाल उठाती है।",
-    "cat": "तमिलनाडु · थेनी",
-    "statl": "पुलिस अधिकारी के परिवार को सहायता"
-   },
-   "d": "09.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "ఒడిశా · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "12.2°C",
-   "statl": "సిమిలిగుడలో కనిష్ఠ ఉష్ణోగ్రత",
-   "h": "ఒడిశాలో ముందే చలి: 24 గంటల్లో మరో 2–3 డిగ్రీలు తగ్గనున్న ఉష్ణోగ్రత",
-   "p": "ఒడిశాలో ఉష్ణోగ్రతలు 20 డిగ్రీల కంటే కిందకు పడిపోయాయని, రాబోయే 24 గంటల్లో మరో 2 నుంచి 3 డిగ్రీలు తగ్గుతాయని భారత వాతావరణ శాఖ సోమవారం తెలిపింది. భువనేశ్వర్‌లో కనిష్ఠ ఉష్ణోగ్రత 18.9 డిగ్రీలు నమోదైంది. నవంబర్ 10, 11 తేదీల్లో కొన్ని ఉత్తర, తీర జిల్లాల్లో ఒకటి రెండు చోట్ల తేలికపాటి నుంచి మోస్తరు వర్షాలు పడే అవకాశం ఉంది.",
-   "pts": [
-    "సిమిలిగుడ 12.2°, ఫుల్బాని 14° సెల్సియస్",
-    "కటక్‌లో 17.6 డిగ్రీల కనిష్ఠ ఉష్ణోగ్రత",
-    "బాలాసోర్, భద్రక్, మయూర్‌భంజ్‌లో 10న వర్ష సూచన"
-   ],
-   "why": "ఒడిశాలో ఉండే తెలుగువారు, ముఖ్యంగా పిల్లలు, వృద్ధులు చలి నుంచి జాగ్రత్తలు తీసుకోవాలి.",
-   "src": "OdishaBytes",
-   "url": "https://odishabytes.com/early-chill-in-odisha-temp-to-drop-further-in-next-24-hours-says-imd/",
-   "sec": [
-    "india",
-    "weather"
-   ],
-   "st": "OD",
-   "place": "st-OD",
-   "en": {
-    "h": "Early chill in Odisha: temperature to fall another 2–3 degrees in 24 hours",
-    "p": "The India Meteorological Department said on Monday that temperatures in Odisha have dropped below 20°C and will fall a further 2 to 3 degrees over the next 24 hours. Bhubaneswar recorded a minimum of 18.9°C. Light to moderate rain is likely at one or two places in some northern and coastal districts on November 10 and 11.",
-    "pts": [
-     "Similiguda 12.2°C, Phulbani 14°C",
-     "Cuttack minimum at 17.6°C",
-     "Rain likely in Balasore, Bhadrak, Mayurbhanj on Nov 10"
-    ],
-    "why": "Telugu people living in Odisha, especially children and the elderly, should take care against the cold.",
-    "cat": "Odisha · Weather",
-    "statl": "Minimum temperature at Similiguda"
-   },
-   "hi": {
-    "h": "ओडिशा में जल्दी ठंड: 24 घंटे में तापमान 2–3 डिग्री और गिरेगा",
-    "p": "भारत मौसम विज्ञान विभाग ने सोमवार को बताया कि ओडिशा में तापमान 20 डिग्री से नीचे आ गया है और अगले 24 घंटों में 2 से 3 डिग्री और गिरेगा। भुवनेश्वर में न्यूनतम तापमान 18.9 डिग्री दर्ज हुआ। 10 और 11 नवंबर को कुछ उत्तरी और तटीय जिलों में एक-दो जगह हल्की से मध्यम बारिश की संभावना है।",
-    "pts": [
-     "सिमिलिगुडा 12.2°, फुलबानी 14° सेल्सियस",
-     "कटक में न्यूनतम तापमान 17.6 डिग्री",
-     "10 को बालासोर, भद्रक, मयूरभंज में बारिश की संभावना"
-    ],
-    "why": "ओडिशा में रहने वाले तेलुगु लोग, खासकर बच्चे और बुजुर्ग, ठंड से सावधानी बरतें।",
-    "cat": "ओडिशा · मौसम",
-    "statl": "सिमिलिगुडा में न्यूनतम तापमान"
-   },
-   "d": "09.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "ప్రపంచం · ఇరాక్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "70%",
-   "statl": "కుర్దిస్తాన్‌లో కరెంటు లేని ప్రాంతం",
-   "h": "ఇరాక్ గ్యాస్ క్షేత్రంపై డ్రోన్ దాడి: కుర్దిస్తాన్‌లో 70% ప్రాంతానికి కరెంటు కట్",
-   "p": "ఇరాక్‌లోని కుర్దిస్తాన్ ప్రాంతంలో ఖోర్ మోర్ గ్యాస్ క్షేత్రంపై ఆదివారం రాత్రి జరిగిన డ్రోన్ దాడితో మంటలు చెలరేగి ఉత్పత్తి నిలిచిపోయింది. దీంతో ఆ ప్రాంతంలో 70 శాతానికి పైగా కరెంటు సరఫరా ఆగిపోయింది. ఎర్బిల్, సులైమానియా సహా పలు విద్యుత్ కేంద్రాలకు గ్యాస్ సరఫరా నిలిచింది. ప్రాణనష్టం లేదని ప్రాథమిక అంచనా. దాడికి ఎవరు బాధ్యులో ఇంకా తెలియలేదు.",
-   "pts": [
-    "గ్రిడ్ నుంచి 2,500–2,800 మెగావాట్లు తగ్గాయి",
-    "ఆసుపత్రులు, నీటి ప్లాంట్లకు ప్రత్యామ్నాయ విద్యుత్",
-    "సంయుక్త దర్యాప్తు కమిటీకి ఇరాక్ ప్రధాని ఆదేశం"
-   ],
-   "why": "గల్ఫ్ ప్రాంత ఉద్రిక్తతలు ఇంధన సరఫరాలపై, అక్కడ పనిచేసే భారతీయులపై ప్రభావం చూపవచ్చు.",
-   "src": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "en": {
-    "h": "Drone strike on Iraqi gasfield cuts power to 70% of Kurdish region",
-    "p": "A drone attack on Sunday night on the Khor Mor gasfield in Iraq's Kurdish region caused a fire and halted production. More than 70 percent of the region lost power. Gas supply to several power plants, including in Erbil and Sulaimaniyah, was suspended. An initial assessment found no casualties. It is not yet known who carried out the attack.",
-    "pts": [
-     "2,500–2,800 MW knocked off the grid",
-     "Alternative power for hospitals, water plants",
-     "Iraqi PM orders joint investigative committee"
-    ],
-    "why": "Tensions in the Gulf region can affect energy supplies and Indians working there.",
-    "cat": "World · Iraq",
-    "statl": "Kurdish region without power"
-   },
-   "hi": {
-    "h": "इराक के गैस क्षेत्र पर ड्रोन हमला: कुर्दिस्तान के 70% हिस्से में बिजली गुल",
-    "p": "इराक के कुर्द क्षेत्र में खोर मोर गैस क्षेत्र पर रविवार रात हुए ड्रोन हमले से आग लग गई और उत्पादन रुक गया। इससे क्षेत्र के 70 प्रतिशत से अधिक हिस्से की बिजली चली गई। एरबिल और सुलैमानिया समेत कई बिजलीघरों को गैस आपूर्ति रुकी। शुरुआती आकलन में कोई हताहत नहीं हुआ। हमला किसने किया, यह अभी स्पष्ट नहीं है।",
-    "pts": [
-     "ग्रिड से 2,500–2,800 मेगावाट कम हुए",
-     "अस्पतालों, जल संयंत्रों को वैकल्पिक बिजली",
-     "इराकी पीएम ने संयुक्त जांच समिति का आदेश दिया"
-    ],
-    "why": "खाड़ी क्षेत्र का तनाव ऊर्जा आपूर्ति और वहां काम करने वाले भारतीयों पर असर डाल सकता है।",
-    "cat": "विश्व · इराक",
-    "statl": "कुर्द क्षेत्र में बिजली नहीं"
-   },
-   "d": "09.11.2026",
-   "t": "18:35"
   },
   {
    "cat": "ప్రత్యేక కథనం · ఉద్యోగాలు",
