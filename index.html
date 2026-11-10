@@ -43,6 +43,7 @@ setTimeout(box,12000);setTimeout(box,25000);})();
 <meta name="application-name" content="Way2Sec News">
 <meta name="apple-mobile-web-app-title" content="Way2Sec News">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="robots" content="max-image-preview:large">
 <meta name="description" content="Fastest AI News in Telugu – తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు. Swipe Telugu short news by district and topic.">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Way2Sec News">
@@ -902,6 +903,7 @@ function turn(el,from,to,axis,done){ const ms=Math.round(140+420*Math.abs(to-fro
   const t0=performance.now(), ease=x=>1-Math.pow(1-x,3);
   (function step(now){ const k=Math.min(1,(now-t0)/ms); bend(el,from+(to-from)*ease(k),axis); if(k<1) requestAnimationFrame(step); else done(); })(t0); }
 function go(i,dir,from){
+  go.n=(go.n||0)+1; if(go.n===3) setTimeout(alertInvite,1200);
   if(!cards.length||busy) return;
   if(i>=cards.length && view==='home'){ snapBack(); moreNews(dir); return; }
   if(i<0||i>=cards.length){ snapBack(); toast(i<0?'ఇదే మొదటి వార్త':'ఇదే చివరి వార్త'); return; }
@@ -1542,11 +1544,19 @@ $('bellBtn').onclick=()=>{
 $('alertYes').onclick=askAlerts;
 $('alertLater').onclick=()=>{ $('alertCard').hidden=true; store.set('alertAsked', Date.now()); };
 /* show the alert invitation once, after the reader has looked at a few stories (again after 7 days if they said later) */
-setTimeout(()=>{
+/* (10 Nov 2026) ask when the reader is interested: after the 3rd swipe, or after 60 s; names their district */
+function alertInvite(){
+  if(alertInvite.done) return;
   const last = store.get('alertAsked', 0);
   const granted = 'Notification' in window && Notification.permission !== 'default';
-  if(pushOK && !granted && Date.now()-last > 7*864e5 && $('sheet').hidden && $('installBar').hidden) $('alertCard').hidden = false;
-}, 25000);
+  if(!(pushOK && !granted && Date.now()-last > 7*864e5 && $('sheet').hidden && $('installBar').hidden)) return;
+  alertInvite.done = 1;
+  const pl = (prefs && prefs.place && !['TS','AP','IN'].includes(prefs.place) && typeof placeName==='function') ? placeName(prefs.place) : '';
+  const p = $('alertCard').querySelector('p');
+  if(p && pl) p.textContent = `బ్రేకింగ్ న్యూస్, ${pl} జిల్లా ముఖ్య వార్తల అలర్ట్‌లు మీ ఫోన్‌కి పంపమంటారా? ఉచితం – ఎప్పుడైనా ఆపేయవచ్చు.`;
+  $('alertCard').hidden = false;
+}
+setTimeout(alertInvite, 60000);
 </script>
 <script>try{document.querySelectorAll('img.wgreet').forEach(function(i){if(Date.now()<new Date(i.dataset.until).getTime())i.hidden=false})}catch(e){}</script>
 <script>

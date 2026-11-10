@@ -154,7 +154,7 @@ def page(sid, s, kind, img, has_card, target, desc, related):
     return f"""<!doctype html><html lang="te"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{e(title)} | Way2Sec</title>
-{'<meta name="robots" content="noindex">' if s.get("wd") else ""}<meta name="description" content="{e(desc)}">
+{'<meta name="robots" content="noindex">' if s.get("wd") else '<meta name="robots" content="max-image-preview:large">'}<meta name="description" content="{e(desc)}">
 <meta property="og:type" content="article"><meta property="og:site_name" content="Way2Sec News">
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
@@ -414,7 +414,18 @@ def main():
             sm.append(f"<url><loc>{html.escape(u)}</loc>" + (f"<lastmod>{lm}</lastmod>" if lm else "") + "</url>")
         sm.append("</urlset>")
         with open(os.path.join(ROOT, "web", "sitemap.xml"), "w", encoding="utf-8") as f: f.write("\n".join(sm) + "\n")
-        rb = f"User-agent: *\nAllow: /\nDisallow: /tools/\nDisallow: /editor/\nDisallow: /reporter/\n\nSitemap: {SITE}/web/sitemap.xml\n"
+        # Google News sitemap: news articles of the last 2 days (Google News reads only the last 48 hours)
+        ns = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">']
+        nn = 0
+        for kind, s, sid in uniq:
+            d = dmy(s.get("d", ""))
+            if kind != "news" or s.get("wd") or not d or (today - d).days > 1 or "wishes" in secs(s) or nn >= 1000: continue
+            ns.append(f"<url><loc>{SITE}/s/{sid}</loc><news:news><news:publication><news:name>Way2Sec</news:name><news:language>te</news:language></news:publication>"
+                      f"<news:publication_date>{iso_time(s)}</news:publication_date><news:title>{html.escape(str(s.get('h') or ''))}</news:title></news:news></url>")
+            nn += 1
+        ns.append("</urlset>")
+        with open(os.path.join(ROOT, "web", "news-sitemap.xml"), "w", encoding="utf-8") as f: f.write("\n".join(ns) + "\n")
+        rb = f"User-agent: *\nAllow: /\nDisallow: /tools/\nDisallow: /editor/\nDisallow: /reporter/\n\nSitemap: {SITE}/web/sitemap.xml\nSitemap: {SITE}/web/news-sitemap.xml\n"
         with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f: f.write(rb)
         # website home page (template + the app's card drawings)
         app = open(os.path.join(ROOT, "index.html"), encoding="utf-8").read()

@@ -5,3 +5,4 @@ Disallow: /editor/
 Disallow: /reporter/
 
 Sitemap: https://way2sec.news/web/sitemap.xml
+Sitemap: https://way2sec.news/web/news-sitemap.xml
