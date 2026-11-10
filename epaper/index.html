@@ -64,7 +64,7 @@ button,select,a{font:inherit}
 </head>
 <body oncontextmenu="return false">
 <header class="top"><div class="bar">
-  <a class="logo" href="/" aria-label="Way2Sec హోమ్"><img src="/logo-light.png" alt="Way2Sec"></a>
+  <a class="logo" href="/" aria-label="హోమ్"><img src="/epaper/mark-light.png" alt="జనధ్వని"></a>
   <div class="ttl"><b>📰 జనధ్వని ఈ-పేపర్</b><small>ప్రజల గొంతుక… ప్రతి ఊరి పలుకు · A WAY2SEC Publication</small></div>
   <div class="ctl">
     <label><span class="sr" style="position:absolute;left:-9999px">తేదీ</span><select id="day" aria-label="తేదీ ఎంచుకోండి"></select></label>
@@ -114,7 +114,7 @@ $('zin').onclick=()=>zoom(180); $('zout').onclick=()=>zoom(-180);
 $('clip').onclick=()=>{ CLIP=!CLIP; $('clip').setAttribute('aria-pressed',String(CLIP)); $('sheet').classList.toggle('clip',CLIP); $('tip').hidden=!CLIP;
   $('sheet').querySelectorAll('.hot').forEach(h=>h.tabIndex=CLIP?0:-1); if(CLIP) setTimeout(()=>{$('tip').hidden=true;},3500); };
 $('day').onchange=e=>openIssue(e.target.value,1);
-/* ✂️ clip: crop the story from the page picture and add the Way2Sec band */
+/* ✂️ clip: crop the story from the page picture and add the జనధ్వని band */
 let BLOB=null, CT='';
 function clipStory(c){ const img=$('pimg'), sw=img.naturalWidth, sh=img.naturalHeight, pad=10;
   // a story that runs across columns is joined into one picture, top to bottom
@@ -123,17 +123,17 @@ function clipStory(c){ const img=$('pimg'), sw=img.naturalWidth, sh=img.naturalH
   const band=Math.round(Math.max(70,w*0.09)), cv=$('cv'); cv.width=w; cv.height=h+band; const g=cv.getContext('2d');
   g.fillStyle='#fff'; g.fillRect(0,0,w,h+band); let yy=0; parts.forEach(q=>{ g.drawImage(img,q.x,q.y,q.w,q.h,0,yy,q.w,q.h); yy+=q.h; });
   g.fillStyle='#12284A'; g.fillRect(0,h,w,band); g.fillStyle='#FFD54A'; g.font=`800 ${Math.round(band*.34)}px 'Noto Sans Telugu',sans-serif`; g.textBaseline='middle';
-  g.fillText('way2sec.news',Math.round(band*.35),h+band/2); g.fillStyle='#C9D3E1'; g.textAlign='right'; g.font=`700 ${Math.round(band*.26)}px 'Noto Sans Telugu',sans-serif`;
-  g.fillText(`జనధ్వని ఈ-పేపర్ · ${dayTe(ISS.iso)}`,w-Math.round(band*.35),h+band/2); g.textAlign='left';
+  g.fillText('జనధ్వని',Math.round(band*.35),h+band/2); g.fillStyle='#C9D3E1'; g.textAlign='right'; g.font=`700 ${Math.round(band*.26)}px 'Noto Sans Telugu',sans-serif`;
+  g.fillText(`ఈ-పేపర్ · ${dayTe(ISS.iso)}`,w-Math.round(band*.35),h+band/2); g.textAlign='left';
   CT=c.t; $('mt').textContent=c.t; $('modal').hidden=false; BLOB=null; cv.toBlob(b=>{BLOB=b;},'image/jpeg',.9); }
 $('sheet').addEventListener('click',e=>{ const h=e.target.closest('.hot'); if(!h||!CLIP) return; clipStory(ISS.pages[P].clips[+h.dataset.k]); });
 $('sheet').addEventListener('keydown',e=>{ const h=e.target.closest('.hot'); if(h&&CLIP&&(e.key==='Enter'||e.key===' ')){ e.preventDefault(); clipStory(ISS.pages[P].clips[+h.dataset.k]); } });
 $('mclose').onclick=()=>{$('modal').hidden=true}; $('modal').addEventListener('click',e=>{ if(e.target===$('modal')) $('modal').hidden=true; });
 const link=()=>`${location.origin}/epaper/?d=${ISS.iso}&p=${P+1}`;
 $('mshare').onclick=async()=>{ const text=`📰 ${CT}\nజనధ్వని ఈ-పేపర్ · ${dayTe(ISS.iso)}\n${link()}`;
-  if(BLOB && navigator.canShare){ const f=new File([BLOB],'way2sec-clip.jpg',{type:'image/jpeg'}); if(navigator.canShare({files:[f]})){ try{ await navigator.share({files:[f],text}); return; }catch(e){ if(e&&e.name==='AbortError') return; } } }
+  if(BLOB && navigator.canShare){ const f=new File([BLOB],'janadhwani-clip.jpg',{type:'image/jpeg'}); if(navigator.canShare({files:[f]})){ try{ await navigator.share({files:[f],text}); return; }catch(e){ if(e&&e.name==='AbortError') return; } } }
   location.href='https://wa.me/?text='+encodeURIComponent(text); };
-$('msave').onclick=()=>{ if(!BLOB) return; const u=URL.createObjectURL(BLOB), a=document.createElement('a'); a.href=u; a.download=`way2sec-clip-${ISS.iso}.jpg`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(u),30000); };
+$('msave').onclick=()=>{ if(!BLOB) return; const u=URL.createObjectURL(BLOB), a=document.createElement('a'); a.href=u; a.download=`janadhwani-clip-${ISS.iso}.jpg`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(u),30000); };
 /* swipe pages on phones */
 let sx=null; $('view').addEventListener('touchstart',e=>{ sx=e.touches.length===1?e.touches[0].clientX:null; },{passive:true});
 $('view').addEventListener('touchend',e=>{ if(sx===null||CLIP) return; const dx=e.changedTouches[0].clientX-sx; if(Math.abs(dx)>70 && W<=860){ dx<0?$('next').click():$('prev').click(); } sx=null; });
