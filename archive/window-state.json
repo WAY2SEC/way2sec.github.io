@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-10T14:35:00+05:30",
+ "cutoff": "2026-11-10T15:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -205,6 +205,19 @@
    "skipped": 1,
    "review": 1,
    "gaps": "Search-first; WebFetch via sub-agent. Eenadu blocked (robots.txt); CNBC gold page fetch failed; Sakshi Guntur accident page has no time zone (review). Newsroom hold returned 'not allowed' – 5 held stories not sent. DC/TOI/The Hindu/Sakshi/Andhra Jyothy/Reuters/BBC searches gave no new timestamped in-range items; AP cabinet outcome still not found (only previews, already published)."
+  },
+  {
+   "window": "2026-11-10T14:35:00+05:30/2026-11-10T15:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 10,
+   "published": 5,
+   "late": 3,
+   "held": 2,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 1,
+   "review": 2,
+   "gaps": "Search-first; WebFetch via sub-agent. CNBC gold page fetch failed (gold already covered today). V6 Velugu CM-vs-KCR page and Sakshi Education AP banking-jobs page have no time zone (review). ETV Bharat AP live blog snapshot only to 09:22; AP cabinet outcome still not found. Newsroom hold returned 'not allowed' – 2 held stories not sent. Telangana Today/TOI/The Hindu/Eenadu/Reuters/BBC searches gave only listing pages; no international-topic or other-state items found with in-range timestamps."
   }
  ],
  "seen": [
@@ -512,6 +525,61 @@
    "url": "https://sakshi.com/telugu-news/guntur/2956001",
    "d": "10.11.2026",
    "w": "review"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/telangana/medak/telangana-ministers-ponnam-prabhakar-and-vivek-venkataswamy-inspect-siddipet-cm-revanth-reddy-meeting-venue-vk-1574944.html",
+   "d": "10.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.siasat.com/traffic-diversions-announced-for-sadar-mela-in-hyderabad-3572809/",
+   "d": "10.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.siasat.com/car-accident-on-mehdipatnam-aramghar-road-leads-to-traffic-jam-3573048/",
+   "d": "10.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.siasat.com/private-bus-gutted-in-fire-after-rear-tyre-bursts-in-andhra-3573030/",
+   "d": "10.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/news/cities/amaravati/their-sacrifice-will-forever-inspire-our-commitment-to-preserve-nature-pawan-kalyan-pays-tributes-to-forest-martyrs-1140773",
+   "d": "10.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.siasat.com/father-daughter-killed-in-accident-while-travelling-to-hyderabad-3572808/",
+   "d": "10.11.2026",
+   "w": "held"
+  },
+  {
+   "url": "https://www.siasat.com/16-year-old-dies-during-sadar-festival-celebration-in-lb-nagar-3573201/",
+   "d": "10.11.2026",
+   "w": "held"
+  },
+  {
+   "url": "https://www.v6velugu.com/revanth-reddy-slams-kcr-over-mounting-state-debt-accuses-him-of-pushing-telangana-into-a-debt-trap",
+   "d": "10.11.2026",
+   "w": "review"
+  },
+  {
+   "url": "https://education.sakshi.com/en/ap-jobs/education-news/andhra-pradesh-banking-finance-jobs-2026-district-wise-202338",
+   "d": "10.11.2026",
+   "w": "review"
+  },
+  {
+   "url": "https://www.thehansindia.com/andhra-pradesh/ap-ministers-congratulate-cm-chandrababu-and-pawan-in-local-body-elections-victory-1140751",
+   "d": "10.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/farmers-protest-against-millers-over-low-paddy-procurement-prices-2556514",
+   "d": "10.11.2026",
+   "w": "15:05"
   }
  ]
 }
