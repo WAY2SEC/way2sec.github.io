@@ -1117,7 +1117,7 @@ function radioUI(){ const on=String(RADIO); $('listenBtn').setAttribute('aria-pr
 function speakCur(){ clearTimeout(rWait); if(!RADIO) return; const s=LIST[cur], tok=++rTok;
   const text=voiceText(s); if(!text){ rWait=setTimeout(()=>{ if(RADIO&&tok===rTok) go(cur+1,'left'); },900); return; }
   // short pieces: Android Chrome stops long speech after ~15 s
-  const parts=text.replace(/\s+/g,' ').split(/(?<=[.!?।])\s+/).reduce((a,x)=>{ if(a.length && (a[a.length-1]+' '+x).length<180) a[a.length-1]+=' '+x; else a.push(x); return a; },[]);
+  const parts=(text.replace(/\s+/g,' ').match(/[^.!?।]+[.!?।]*\s*|[.!?।]+\s*/g)||[]).map(x=>x.trim()).filter(Boolean).reduce((a,x)=>{ if(a.length && (a[a.length-1]+' '+x).length<180) a[a.length-1]+=' '+x; else a.push(x); return a; },[]);
   const sl=U('speech'), v=synth.getVoices().find(v=>v.lang.replace('_','-').toLowerCase().startsWith(sl.slice(0,2)));
   try{ synth.cancel(); }catch(e){}
   parts.forEach((x,i)=>{ const u=new SpeechSynthesisUtterance(x); u.lang=sl; u.rate=0.95; if(v) u.voice=v;
