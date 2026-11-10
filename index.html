@@ -1417,7 +1417,7 @@ async function load(){
   // Show the news saved on the phone at once, so a slow network never leaves a black screen (iPhone, 10 Nov 2026).
   if(!load.shown){ const c=store.get('news',null);
     if(c && c.stories && c.stories.length){ NEWS=c; WISHES=store.get('wishes',WISHES); renderTabs(); renderFeed(); load.shown=1; } }
-  const keep = load.shown && LIST && LIST[cur] ? keyOf(LIST[cur]) : null;
+  const keep = load.shown && cur>0 && LIST && LIST[cur] ? keyOf(LIST[cur]) : null; // still on the first card → jump to the newest news
   try{
     const ac = window.AbortController ? new AbortController() : null;
     const tm = setTimeout(()=>{ if(ac) ac.abort(); }, 15000);
