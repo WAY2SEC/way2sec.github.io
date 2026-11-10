@@ -190,10 +190,10 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 /* masthead */
 .mast{{border-bottom:2.4pt solid #12284A;margin-bottom:4mm}}
 .mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1.4 W2Sans;color:#fff;background:#C8102E;padding:1.6mm 4mm;border-radius:1.2mm 1.2mm 0 0}}
-.mname{{display:grid;grid-template-columns:44mm 1fr 44mm;align-items:center;padding:3mm 0 2.5mm}}
-.qbox{{justify-self:end;width:44mm;background:#FFF8E6;border:.6pt solid #E8C77A;border-top:2pt solid #C8102E;border-radius:1.5mm;padding:2mm 2.6mm}}
+.mname{{display:grid;grid-template-columns:auto 1fr 42mm;gap:3mm;align-items:center;padding:3mm 0 2.5mm}}
+.qbox{{justify-self:end;width:42mm;background:#FFF8E6;border:.6pt solid #E8C77A;border-top:2pt solid #C8102E;border-radius:1.5mm;padding:2mm 2.6mm}}
 .qbox b{{display:block;font:800 7.4pt/1.3 W2Sans;color:#C8102E;margin-bottom:.8mm}} .qbox p{{margin:0;font:600 8.2pt/1.55 W2Sans;color:#14100C}} .qbox i{{display:block;font:700 6.8pt/1.3 W2Sans;font-style:normal;color:#7A6E60;margin-top:.8mm;text-align:right}}
-.mname .mk{{height:17mm;justify-self:start}} .mname .nm{{height:34mm;justify-self:center}}
+.mname .mk{{height:33mm;justify-self:start}} .mname .nm{{height:33mm;max-width:100%;object-fit:contain;justify-self:center}}
 .mbar{{display:flex;gap:0;background:#12284A;color:#fff;font:700 8pt/1.3 W2Sans;padding:0;margin-bottom:.8mm;overflow:hidden;border-radius:0 0 1.2mm 1.2mm}} .mbar span{{padding:2.2mm 3.6mm}}
 .mbar span:nth-child(1){{background:#1F6B3A}} .mbar span:nth-child(2){{background:#0B5CAD}} .mbar span:nth-child(3){{background:#B3400F}} .mbar span:nth-child(4){{background:#5B3A8C}} .mbar span:nth-child(5){{background:#0F6E5C}} .mbar .r{{margin-left:auto;color:#FFD54A}}
 /* stories */
