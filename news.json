@@ -1,8 +1,58 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T16:15:29+05:30",
+ "updated": "2026-11-10T16:45:36+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "సైబరాబాద్ · రోడ్డు భద్రత",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "NH-44",
+   "statl": "ప్రమాద ప్రాంతాల గుర్తింపు",
+   "h": "ఎన్‌హెచ్-44పై ప్రమాదకర ప్రాంతాల గుర్తింపునకు సైబరాబాద్ పోలీసుల సంయుక్త డ్రైవ్",
+   "p": "ఎన్‌హెచ్-44తో పాటు ప్రధాన రహదారులపై ప్రమాదాలు ఎక్కువగా జరిగే ప్రాంతాలను గుర్తించేందుకు సైబరాబాద్ పోలీసులు పలు శాఖలతో కలిసి సంయుక్త కార్యక్రమం ప్రారంభించారు. ట్రాఫిక్ పోలీసులు, ఎన్‌హెచ్‌ఏఐ, ఆర్ అండ్ బీ, రవాణా, వైద్య, రెవెన్యూ, మున్సిపల్ శాఖల అధికారులు రోడ్లపై మౌలిక సదుపాయాలు, సాంకేతిక లోపాలను పరిశీలిస్తున్నారు. అదనపు కలెక్టర్ (స్థానిక సంస్థలు) ఫైజాన్ అహ్మద్, సైబరాబాద్ ట్రాఫిక్ డీసీపీ-2 ఎస్. శేషాద్రి రెడ్డి క్షేత్రస్థాయిలో తనిఖీ చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/cyberabad-police-agencies-launch-drive-to-identify-accident-black-spots-on-nh-44",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "సైబరాబాద్",
+   "pts": [
+    "పోలీసులు, ఎన్‌హెచ్‌ఏఐ సహా పలు శాఖల సంయుక్త కార్యక్రమం",
+    "ఎన్‌హెచ్-44, పూడూరు మార్గంలో క్షేత్రస్థాయి తనిఖీ",
+    "రోడ్ల మౌలిక, సాంకేతిక లోపాల పరిశీలన"
+   ],
+   "why": "ఈ హైవేపై రోజూ ప్రయాణించే వాహనదారుల భద్రతకు ఈ తనిఖీలు కీలకం.",
+   "d": "10.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-10T16:15+05:30",
+   "en": {
+    "h": "Cyberabad Police launch joint drive to identify accident black spots on NH-44",
+    "p": "Cyberabad Police, together with several departments, have launched a joint exercise to identify accident-prone spots on NH-44 and other major roads. Officials from the traffic police, NHAI, R&B, transport, health, revenue and municipal departments are examining road infrastructure and technical faults. Additional Collector (Local Bodies) Faizan Ahmed and Cyberabad Traffic DCP-II S. Seshadri Reddy carried out a field inspection.",
+    "pts": [
+     "Joint exercise by police, NHAI and other departments",
+     "Field inspection on NH-44 and the Pudur route",
+     "Road infrastructure and technical faults being examined"
+    ],
+    "why": "These checks matter for the safety of motorists who travel this highway every day.",
+    "cat": "Cyberabad · Road Safety",
+    "statl": "Accident black spots"
+   },
+   "hi": {
+    "h": "NH-44 पर दुर्घटना संभावित स्थानों की पहचान के लिए साइबराबाद पुलिस का संयुक्त अभियान",
+    "p": "साइबराबाद पुलिस ने कई विभागों के साथ मिलकर NH-44 और अन्य प्रमुख सड़कों पर दुर्घटना संभावित स्थानों की पहचान के लिए संयुक्त अभियान शुरू किया है। ट्रैफिक पुलिस, NHAI, सड़क एवं भवन, परिवहन, स्वास्थ्य, राजस्व और नगर निगम विभागों के अधिकारी सड़क ढांचे और तकनीकी खामियों की जांच कर रहे हैं। अतिरिक्त कलेक्टर (स्थानीय निकाय) फैजान अहमद और साइबराबाद ट्रैफिक डीसीपी-2 एस. शेषाद्रि रेड्डी ने मौके पर निरीक्षण किया।",
+    "pts": [
+     "पुलिस, NHAI और कई विभागों का संयुक्त अभियान",
+     "NH-44 और पुडूर मार्ग पर मौके पर निरीक्षण",
+     "सड़क ढांचे व तकनीकी खामियों की जांच"
+    ],
+    "why": "रोज़ इस हाईवे से गुजरने वाले वाहन चालकों की सुरक्षा के लिए ये जांच अहम हैं।",
+    "cat": "साइबराबाद · सड़क सुरक्षा",
+    "statl": "दुर्घटना संभावित स्थान"
+   }
+  },
   {
    "cat": "ఏపీ · కేబినెట్",
    "col": "--c-gov",
@@ -2302,57 +2352,6 @@
      "पुलिस ने मामला दर्ज किया"
     ],
     "why": "खेतों में खराब बिजली तारों से किसानों को सावधान रहने की याद दिलाता है।"
-   },
-   "d": "10.11.2026",
-   "t": "07:00"
-  },
-  {
-   "cat": "హైదరాబాద్ · క్రీడలు",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "విజేతలు",
-   "statl": "సింగిల్స్ టైటిళ్లు",
-   "h": "తెలంగాణ ఇండియా ఇంటర్నేషనల్ బ్యాడ్మింటన్: తుషార్ సువీర్, రక్షితశ్రీ విజేతలు",
-   "p": "గచ్చిబౌలిలోని పుల్లెల గోపీచంద్ బ్యాడ్మింటన్ అకాడమీలో ఆదివారం ముగిసిన తెలంగాణ ఇండియా ఇంటర్నేషనల్ చాలెంజ్ టోర్నీలో పురుషుల సింగిల్స్‌లో తుషార్ సువీర్, మహిళల సింగిల్స్‌లో రక్షితశ్రీ టైటిళ్లు గెలిచారు. ఇద్దరూ ఫైనల్స్‌లో మూడు గేమ్‌ల పోరులో గెలిచారు.",
-   "pts": [
-    "పురుషుల సింగిల్స్ విజేత తుషార్ సువీర్",
-    "మహిళల సింగిల్స్ విజేత రక్షితశ్రీ",
-    "గచ్చిబౌలి గోపీచంద్ అకాడమీలో టోర్నీ"
-   ],
-   "why": "హైదరాబాద్‌లో జరిగే అంతర్జాతీయ టోర్నీలు యువ క్రీడాకారులకు అవకాశాలు పెంచుతాయి.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/tushar-suveer-and-rakshitha-sri-win-singles-titles-at-telangana-india-international-challenge-badminton-tournament-2556409",
-   "sec": [
-    "telangana",
-    "sports"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "గచ్చిబౌలి",
-   "pub": "2026-11-10T02:42+05:30",
-   "en": {
-    "cat": "Hyderabad · Sports",
-    "statl": "Singles titles",
-    "h": "Telangana India International badminton: Tushar Suveer, Rakshitha Sri win titles",
-    "p": "At the Telangana India International Challenge that ended on Sunday at the Pullela Gopichand Badminton Academy in Gachibowli, Tushar Suveer won the men's singles and Rakshitha Sri the women's singles. Both won their finals in three games.",
-    "pts": [
-     "Men's singles: Tushar Suveer",
-     "Women's singles: Rakshitha Sri",
-     "Held at Gopichand Academy, Gachibowli"
-    ],
-    "why": "International events in Hyderabad give young players more chances."
-   },
-   "hi": {
-    "cat": "हैदराबाद · खेल",
-    "statl": "सिंगल्स खिताब",
-    "h": "तेलंगाना इंडिया इंटरनेशनल बैडमिंटन: तुषार सुवीर और रक्षिता श्री विजेता",
-    "p": "गच्चीबौली की पुलेला गोपीचंद बैडमिंटन अकादमी में रविवार को समाप्त तेलंगाना इंडिया इंटरनेशनल चैलेंज में पुरुष एकल में तुषार सुवीर और महिला एकल में रक्षिता श्री ने खिताब जीते। दोनों ने फ़ाइनल तीन गेम में जीते।",
-    "pts": [
-     "पुरुष एकल: तुषार सुवीर",
-     "महिला एकल: रक्षिता श्री",
-     "गच्चीबौली की गोपीचंद अकादमी में आयोजन"
-    ],
-    "why": "हैदराबाद में होने वाले अंतरराष्ट्रीय टूर्नामेंट युवा खिलाड़ियों को मौके देते हैं।"
    },
    "d": "10.11.2026",
    "t": "07:00"

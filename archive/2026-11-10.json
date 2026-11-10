@@ -1,8 +1,58 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 49,
+ "count": 50,
  "stories": [
+  {
+   "cat": "సైబరాబాద్ · రోడ్డు భద్రత",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "NH-44",
+   "statl": "ప్రమాద ప్రాంతాల గుర్తింపు",
+   "h": "ఎన్‌హెచ్-44పై ప్రమాదకర ప్రాంతాల గుర్తింపునకు సైబరాబాద్ పోలీసుల సంయుక్త డ్రైవ్",
+   "p": "ఎన్‌హెచ్-44తో పాటు ప్రధాన రహదారులపై ప్రమాదాలు ఎక్కువగా జరిగే ప్రాంతాలను గుర్తించేందుకు సైబరాబాద్ పోలీసులు పలు శాఖలతో కలిసి సంయుక్త కార్యక్రమం ప్రారంభించారు. ట్రాఫిక్ పోలీసులు, ఎన్‌హెచ్‌ఏఐ, ఆర్ అండ్ బీ, రవాణా, వైద్య, రెవెన్యూ, మున్సిపల్ శాఖల అధికారులు రోడ్లపై మౌలిక సదుపాయాలు, సాంకేతిక లోపాలను పరిశీలిస్తున్నారు. అదనపు కలెక్టర్ (స్థానిక సంస్థలు) ఫైజాన్ అహ్మద్, సైబరాబాద్ ట్రాఫిక్ డీసీపీ-2 ఎస్. శేషాద్రి రెడ్డి క్షేత్రస్థాయిలో తనిఖీ చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/cyberabad-police-agencies-launch-drive-to-identify-accident-black-spots-on-nh-44",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "సైబరాబాద్",
+   "pts": [
+    "పోలీసులు, ఎన్‌హెచ్‌ఏఐ సహా పలు శాఖల సంయుక్త కార్యక్రమం",
+    "ఎన్‌హెచ్-44, పూడూరు మార్గంలో క్షేత్రస్థాయి తనిఖీ",
+    "రోడ్ల మౌలిక, సాంకేతిక లోపాల పరిశీలన"
+   ],
+   "why": "ఈ హైవేపై రోజూ ప్రయాణించే వాహనదారుల భద్రతకు ఈ తనిఖీలు కీలకం.",
+   "d": "10.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-10T16:15+05:30",
+   "en": {
+    "h": "Cyberabad Police launch joint drive to identify accident black spots on NH-44",
+    "p": "Cyberabad Police, together with several departments, have launched a joint exercise to identify accident-prone spots on NH-44 and other major roads. Officials from the traffic police, NHAI, R&B, transport, health, revenue and municipal departments are examining road infrastructure and technical faults. Additional Collector (Local Bodies) Faizan Ahmed and Cyberabad Traffic DCP-II S. Seshadri Reddy carried out a field inspection.",
+    "pts": [
+     "Joint exercise by police, NHAI and other departments",
+     "Field inspection on NH-44 and the Pudur route",
+     "Road infrastructure and technical faults being examined"
+    ],
+    "why": "These checks matter for the safety of motorists who travel this highway every day.",
+    "cat": "Cyberabad · Road Safety",
+    "statl": "Accident black spots"
+   },
+   "hi": {
+    "h": "NH-44 पर दुर्घटना संभावित स्थानों की पहचान के लिए साइबराबाद पुलिस का संयुक्त अभियान",
+    "p": "साइबराबाद पुलिस ने कई विभागों के साथ मिलकर NH-44 और अन्य प्रमुख सड़कों पर दुर्घटना संभावित स्थानों की पहचान के लिए संयुक्त अभियान शुरू किया है। ट्रैफिक पुलिस, NHAI, सड़क एवं भवन, परिवहन, स्वास्थ्य, राजस्व और नगर निगम विभागों के अधिकारी सड़क ढांचे और तकनीकी खामियों की जांच कर रहे हैं। अतिरिक्त कलेक्टर (स्थानीय निकाय) फैजान अहमद और साइबराबाद ट्रैफिक डीसीपी-2 एस. शेषाद्रि रेड्डी ने मौके पर निरीक्षण किया।",
+    "pts": [
+     "पुलिस, NHAI और कई विभागों का संयुक्त अभियान",
+     "NH-44 और पुडूर मार्ग पर मौके पर निरीक्षण",
+     "सड़क ढांचे व तकनीकी खामियों की जांच"
+    ],
+    "why": "रोज़ इस हाईवे से गुजरने वाले वाहन चालकों की सुरक्षा के लिए ये जांच अहम हैं।",
+    "cat": "साइबराबाद · सड़क सुरक्षा",
+    "statl": "दुर्घटना संभावित स्थान"
+   }
+  },
   {
    "cat": "ఏపీ · కేబినెట్",
    "col": "--c-gov",
