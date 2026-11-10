@@ -1,8 +1,162 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T22:10:45+05:30",
+ "updated": "2026-11-10T22:39:56+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · పెట్టుబడులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹17.2 లక్షల కోట్లు",
+   "statl": "అమలు దశకు వచ్చిన పెట్టుబడులు",
+   "h": "ఏపీలో 526 పెట్టుబడి ప్రతిపాదనలు అమలు దశకు: ₹17.2 లక్షల కోట్లు",
+   "p": "జూన్ 2024 నుంచి వచ్చిన 714 పెట్టుబడి ప్రతిపాదనల్లో 526 ప్రతిపాదనలు (₹17.2 లక్షల కోట్లు) అమలు దశకు మారాయని రాష్ట్ర ప్రభుత్వం మంగళవారం తెలిపిందని పీటీఐ కథనం. వీటి ద్వారా 19.3 లక్షల ఉద్యోగాలు రావచ్చని ప్రభుత్వం పేర్కొంది. ఇంకా 188 ప్రాజెక్టులు (₹5.4 లక్షల కోట్లు) పరిశీలనలో ఉన్నాయి. నవంబర్ 12–13న విశాఖలో 31వ సీఐఐ భాగస్వామ్య సదస్సు జరగనుంది.",
+   "src": "The Hans India (PTI)",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/andhra-pradesh-converts-526-investment-proposals-worth-rs-172-lakh-cr-ahead-of-cii-summit-1140854",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "714లో 526 ప్రతిపాదనలు అమలు దశకు",
+    "19.3 లక్షల ఉద్యోగాల అవకాశం: ప్రభుత్వం",
+    "నవంబర్ 12–13న విశాఖలో సీఐఐ సదస్సు"
+   ],
+   "why": "రాష్ట్రంలో కొత్త పరిశ్రమలు, ఉద్యోగాల కోసం ఎదురుచూస్తున్న యువతకు ఇది సంబంధించిన వార్త.",
+   "pub": "2026-11-10T20:40+05:30",
+   "en": {
+    "h": "AP converts 526 investment proposals worth Rs 17.2 lakh crore",
+    "p": "The state government said on Tuesday that 526 of the 714 investment proposals received since June 2024, worth Rs 17.2 lakh crore, have moved to implementation, PTI reported. The government said these could create 19.3 lakh jobs. Another 188 projects worth Rs 5.4 lakh crore are still under consideration. The 31st CII Partnership Summit will be held in Visakhapatnam on November 12–13.",
+    "pts": [
+     "526 of 714 proposals moved to implementation",
+     "Potential for 19.3 lakh jobs: government",
+     "CII summit in Visakhapatnam on Nov 12–13"
+    ],
+    "why": "It matters to youth in the state waiting for new industries and jobs.",
+    "cat": "AP · Investments",
+    "statl": "Investments moved to implementation"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 526 निवेश प्रस्ताव अमल में: ₹17.2 लाख करोड़",
+    "p": "पीटीआई के अनुसार, राज्य सरकार ने मंगलवार को बताया कि जून 2024 से मिले 714 निवेश प्रस्तावों में से 526 प्रस्ताव (₹17.2 लाख करोड़) अमल के चरण में आ गए हैं। सरकार के अनुसार इनसे 19.3 लाख नौकरियां बन सकती हैं। 188 परियोजनाएं (₹5.4 लाख करोड़) अभी विचाराधीन हैं। 12–13 नवंबर को विशाखापत्तनम में 31वां सीआईआई पार्टनरशिप समिट होगा।",
+    "pts": [
+     "714 में से 526 प्रस्ताव अमल में",
+     "19.3 लाख नौकरियों की संभावना: सरकार",
+     "12–13 नवंबर को विशाखापत्तनम में सीआईआई समिट"
+    ],
+    "why": "यह राज्य में नए उद्योगों और नौकरियों का इंतजार कर रहे युवाओं से जुड़ी खबर है।",
+    "cat": "आंध्र प्रदेश · निवेश",
+    "statl": "अमल में आए निवेश"
+   },
+   "d": "10.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "తెలంగాణ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "25 సంస్థలు",
+   "statl": "ఆటో, ఈవీ కౌన్సిల్‌లో చేరిక",
+   "h": "ఆటో, ఈవీ పెట్టుబడులపై తెలంగాణ దృష్టి: రేపు తొలి కౌన్సిల్ భేటీ",
+   "p": "వచ్చే నెల జరిగే 'ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్ – 2026'లో ఆటోమొబైల్, ఎలక్ట్రిక్ వాహనాల (ఈవీ) రంగాల్లో పెట్టుబడులు ఆకర్షించేందుకు ప్రభుత్వం ప్రణాళిక సిద్ధం చేస్తోందని ఐఏఎన్ఎస్ కథనం. కొత్తగా ఏర్పాటైన ఆటో, ఈవీ కార్యనిర్వాహక మండలి తొలి సమావేశం నవంబర్ 11న మంత్రి పొన్నం ప్రభాకర్ అధ్యక్షతన జరుగుతుంది. సుమారు 25 సంస్థలు మండలిలో చేరేందుకు అంగీకరించాయని అధికారిక ప్రకటన తెలిపింది.",
+   "src": "Siasat Daily (IANS)",
+   "url": "https://siasat.com/at-invest-telangana-global-summit-state-to-focus-on-auto-ev-firms-3573439",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నవంబర్ 11న ఆటో, ఈవీ మండలి తొలి భేటీ",
+    "మంత్రి పొన్నం ప్రభాకర్ అధ్యక్షత",
+    "ఈవీ ఛార్జింగ్, బ్యాటరీ సాంకేతికతపై చర్చ"
+   ],
+   "why": "ఆటో, ఈవీ రంగంలో పెట్టుబడులు వస్తే రాష్ట్రంలో పరిశ్రమలు, ఉద్యోగాలపై ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-10T18:01+05:30",
+   "en": {
+    "h": "Telangana eyes auto, EV investments; first council meeting tomorrow",
+    "p": "The government is preparing a plan to attract investment in the automobile and electric vehicle (EV) sectors at next month's 'Invest Telangana Global Summit – 2026', IANS reported. The first meeting of the newly formed auto and EV executive council will be held on November 11, chaired by Minister Ponnam Prabhakar. An official release said about 25 entities agreed to join the council.",
+    "pts": [
+     "Auto, EV council's first meeting on Nov 11",
+     "Chaired by Minister Ponnam Prabhakar",
+     "EV charging, battery technology on agenda"
+    ],
+    "why": "Investment in the auto and EV sector would affect industry and jobs in the state.",
+    "cat": "Telangana · Industry",
+    "statl": "Firms joining auto, EV council"
+   },
+   "hi": {
+    "h": "ऑटो, ईवी निवेश पर तेलंगाना का ध्यान: कल परिषद की पहली बैठक",
+    "p": "आईएएनएस के अनुसार, अगले महीने होने वाले 'इन्वेस्ट तेलंगाना ग्लोबल समिट – 2026' में ऑटोमोबाइल और इलेक्ट्रिक वाहन (ईवी) क्षेत्रों में निवेश आकर्षित करने के लिए सरकार योजना बना रही है। नई गठित ऑटो और ईवी कार्यकारी परिषद की पहली बैठक 11 नवंबर को मंत्री पोन्नम प्रभाकर की अध्यक्षता में होगी। आधिकारिक बयान के अनुसार लगभग 25 संस्थाएं परिषद में शामिल होने को सहमत हुईं।",
+    "pts": [
+     "11 नवंबर को ऑटो, ईवी परिषद की पहली बैठक",
+     "मंत्री पोन्नम प्रभाकर करेंगे अध्यक्षता",
+     "ईवी चार्जिंग, बैटरी तकनीक पर चर्चा"
+    ],
+    "why": "ऑटो और ईवी क्षेत्र में निवेश से राज्य के उद्योग और रोजगार पर असर पड़ेगा।",
+    "cat": "तेलंगाना · उद्योग",
+    "statl": "ऑटो, ईवी परिषद में शामिल संस्थाएं"
+   },
+   "d": "10.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · వైద్యం",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "34వ రోజు",
+   "statl": "ఎఫ్ఎంజీ ఇంటర్న్‌ల నిరసన",
+   "h": "స్టైపెండ్ సమానత్వం కోసం ఎఫ్ఎంజీ ఇంటర్న్‌ల నిరసన: పోలీసుల చర్యలపై ఆరోపణ",
+   "p": "విదేశీ వైద్య పట్టభద్రుల (ఎఫ్ఎంజీ) ఇంటర్న్‌ల నిరసన మంగళవారం 34వ రోజుకు, రిలే నిరాహార దీక్ష ఆరో రోజుకు చేరిందని తెలంగాణ టుడే కథనం. కోఠిలోని తెలంగాణ మెడికల్ కౌన్సిల్ కార్యాలయం వద్ద నిరసనకారులను పోలీసులు అదుపులోకి తీసుకున్నారని ఆరోపణ. స్థానిక ఎంబీబీఎస్ ఇంటర్న్‌లకు నెలకు ₹29,792, ఎఫ్ఎంజీలకు ₹5,000 స్టైపెండ్ ఇస్తున్నారని, సమానత్వం కావాలని వారు డిమాండ్ చేస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/fmg-interns-face-police-action-near-tsmc-office-as-hunger-strike-enters-critical-phase",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కోఠి",
+   "pts": [
+    "స్థానిక ఇంటర్న్‌లకు ₹29,792, ఎఫ్ఎంజీలకు ₹5,000",
+    "జనవరి 2026 నుంచి బకాయిల చెల్లింపు డిమాండ్",
+    "జోక్యం చేసుకోవాలని ఆరోగ్య మంత్రికి వైద్యుల విజ్ఞప్తి"
+   ],
+   "why": "ప్రభుత్వ బోధనాసుపత్రుల్లో పనిచేసే విదేశీ వైద్య పట్టభద్రుల స్టైపెండ్ అంశం ఇది.",
+   "pub": "2026-11-10T14:18+05:30",
+   "en": {
+    "h": "FMG interns protest for stipend parity; allege police action",
+    "p": "The protest by Foreign Medical Graduate (FMG) interns reached its 34th day on Tuesday and the relay hunger strike its sixth day, Telangana Today reported. Protesters allege police detained them near the Telangana Medical Council office in Koti. They demand parity, saying local MBBS interns get a monthly stipend of Rs 29,792 while FMG interns get Rs 5,000.",
+    "pts": [
+     "Local interns get Rs 29,792, FMGs Rs 5,000",
+     "Demand for arrears since January 2026",
+     "Doctors urge Health Minister to intervene"
+    ],
+    "why": "It concerns the stipend of foreign medical graduates working in government teaching hospitals.",
+    "cat": "Hyderabad · Health",
+    "statl": "FMG interns' protest"
+   },
+   "hi": {
+    "h": "स्टाइपेंड समानता के लिए एफएमजी इंटर्न का विरोध: पुलिस कार्रवाई का आरोप",
+    "p": "तेलंगाना टुडे के अनुसार, विदेशी मेडिकल स्नातक (एफएमजी) इंटर्न का विरोध मंगलवार को 34वें दिन और रिले भूख हड़ताल छठे दिन पहुंच गई। आरोप है कि कोठी में तेलंगाना मेडिकल काउंसिल कार्यालय के पास पुलिस ने प्रदर्शनकारियों को हिरासत में लिया। वे समानता की मांग कर रहे हैं, क्योंकि स्थानीय एमबीबीएस इंटर्न को ₹29,792 और एफएमजी इंटर्न को ₹5,000 मासिक स्टाइपेंड मिलता है।",
+    "pts": [
+     "स्थानीय इंटर्न को ₹29,792, एफएमजी को ₹5,000",
+     "जनवरी 2026 से बकाया भुगतान की मांग",
+     "डॉक्टरों की स्वास्थ्य मंत्री से हस्तक्षेप की अपील"
+    ],
+    "why": "यह सरकारी शिक्षण अस्पतालों में काम करने वाले विदेशी मेडिकल स्नातकों के स्टाइपेंड का मामला है।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "एफएमजी इंटर्न का विरोध"
+   },
+   "d": "10.11.2026",
+   "t": "22:35"
+  },
   {
    "cat": "రంగారెడ్డి · రాజకీయం",
    "col": "--c-election",
