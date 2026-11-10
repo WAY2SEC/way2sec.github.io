@@ -1,8 +1,158 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T18:46:31+05:30",
+ "updated": "2026-11-10T19:10:26+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · భద్రత",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "10 మంది",
+   "statl": "అర్ధరాత్రి తనిఖీల్లో అదుపులోకి",
+   "h": "అత్తాపూర్‌లో పోలీసుల చబుత్రా మిషన్: రాత్రి తిరుగుతున్న 10 మంది అదుపులోకి",
+   "p": "హైదరాబాద్ అత్తాపూర్ పోలీసులు పలు ప్రాంతాల్లో ఫుట్ పెట్రోలింగ్, చబుత్రా మిషన్ తనిఖీలు నిర్వహించారు. ఇన్‌స్పెక్టర్ ఎ. సీతయ్య నేతృత్వంలో ప్రత్యేక బృందాలు అత్తాపూర్, ఎన్‌ఎం గూడ, అర్ష్ మహల్, సిక్ ఛావ్నీ, ఎంఎం పహాడీ, చింతల్‌మెట్‌లో తనిఖీ చేశాయి. అర్ధరాత్రి కారణం లేకుండా రోడ్లపై తిరుగుతున్నారని 10 మందిని అదుపులోకి తీసుకుని, మరో 30 మందికి కౌన్సెలింగ్ ఇచ్చారు. ఇలాంటి తనిఖీలు కొనసాగుతాయని పోలీసులు తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/attapur-police-detain-10-in-late-night-chabutra-mission-drive",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "అత్తాపూర్",
+   "pts": [
+    "ఇన్‌స్పెక్టర్ సీతయ్య నేతృత్వంలో ప్రత్యేక బృందాల తనిఖీలు",
+    "10 మంది అదుపులోకి, 30 మందికి కౌన్సెలింగ్",
+    "తనిఖీలు క్రమం తప్పకుండా కొనసాగుతాయన్న పోలీసులు"
+   ],
+   "why": "అత్తాపూర్ పరిసర ప్రాంతాల ప్రజల భద్రత కోసం రాత్రి గస్తీ పెరిగింది.",
+   "pub": "2026-11-10T18:40+05:30",
+   "en": {
+    "h": "Attapur police Chabutra Mission: 10 detained for late-night loitering",
+    "p": "Attapur police in Hyderabad carried out foot patrols and a Chabutra Mission drive in several localities. Special teams led by Inspector A. Seethaiah checked Attapur, NM Guda, Arsh Mahal, Sikh Chawni, MM Pahadi and Chintalmet. Police detained 10 people allegedly moving on roads late at night without purpose and counselled 30 others. Police said such drives will continue.",
+    "pts": [
+     "Special teams led by Inspector Seethaiah conducted checks",
+     "10 detained, 30 others counselled",
+     "Police say drives will continue regularly"
+    ],
+    "why": "Night patrols have been stepped up for public safety in Attapur and nearby areas.",
+    "cat": "Hyderabad · Safety",
+    "statl": "Detained in late-night checks"
+   },
+   "hi": {
+    "h": "अत्तापुर पुलिस का चबूतरा मिशन: देर रात घूम रहे 10 लोग हिरासत में",
+    "p": "हैदराबाद की अत्तापुर पुलिस ने कई इलाकों में पैदल गश्त और चबूतरा मिशन जांच अभियान चलाया। इंस्पेक्टर ए. सीतैया के नेतृत्व में विशेष टीमों ने अत्तापुर, एनएम गुडा, अर्श महल, सिख छावनी, एमएम पहाड़ी और चिंतलमेट में जांच की। देर रात बिना कारण सड़कों पर घूमने के आरोप में 10 लोगों को हिरासत में लिया गया और 30 अन्य को समझाइश दी गई। पुलिस ने कहा कि ऐसे अभियान जारी रहेंगे।",
+    "pts": [
+     "इंस्पेक्टर सीतैया के नेतृत्व में विशेष टीमों की जांच",
+     "10 हिरासत में, 30 को समझाइश",
+     "पुलिस: अभियान नियमित रूप से जारी रहेंगे"
+    ],
+    "why": "अत्तापुर और आसपास के इलाकों में लोगों की सुरक्षा के लिए रात की गश्त बढ़ाई गई है।",
+    "cat": "हैदराबाद · सुरक्षा",
+    "statl": "देर रात जांच में हिरासत में"
+   },
+   "d": "10.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కరీంనగర్ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹50,000",
+   "statl": "పత్తి ఎకరాకు పరిహారం డిమాండ్",
+   "h": "కరీంనగర్‌ను కరువు జిల్లాగా ప్రకటించాలి: కలెక్టరేట్ ఎదుట సీపీఐ ధర్నా",
+   "p": "కరీంనగర్‌ను వెంటనే కరువు జిల్లాగా ప్రకటించి, పంట నష్టపోయిన రైతులకు పరిహారం ఇవ్వాలని సీపీఐ నాయకులు కలెక్టరేట్ ఎదుట ధర్నా చేశారు. వర్షాలు సరిగా కురవక పంటలు ఎండిపోయాయని మాజీ ఎమ్మెల్యే చాడ వెంకట్ రెడ్డి అన్నారు. సాధారణ పంటలకు ఎకరాకు ₹30,000, పత్తికి ₹50,000, కూరగాయలకు ₹20,000 ఇవ్వాలని డిమాండ్ చేశారు. జిల్లాలో తాగునీటి సమస్య కూడా పెరుగుతోందని చెప్పారు.",
+   "src": "NTV Telugu",
+   "url": "https://ntvtelugu.com/news/karimnagar-drought-demand-cpi-seeks-crop-loss-compensation-1033977.html",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "కరీంనగర్ కలెక్టరేట్ ఎదుట సీపీఐ ధర్నా",
+    "పత్తికి ఎకరాకు ₹50,000 పరిహారం డిమాండ్",
+    "తాగునీటి సమస్య కూడా పెరుగుతోందన్న చాడ వెంకట్ రెడ్డి"
+   ],
+   "why": "వర్షాభావంతో పంటలు నష్టపోయిన కరీంనగర్ జిల్లా రైతులకు ఇది సంబంధించిన అంశం.",
+   "pub": "2026-11-10T13:31+05:30",
+   "en": {
+    "h": "Declare Karimnagar a drought district: CPI dharna at Collectorate",
+    "p": "CPI leaders staged a dharna at the Karimnagar Collectorate demanding that the district be declared drought-hit immediately and that farmers get crop-loss compensation. Former MLA Chada Venkat Reddy said crops dried up due to poor rain. They demanded ₹30,000 per acre for ordinary crops, ₹50,000 for cotton and ₹20,000 for vegetables. He said drinking water problems are also growing in the district.",
+    "pts": [
+     "CPI dharna in front of Karimnagar Collectorate",
+     "₹50,000 per acre compensation demanded for cotton",
+     "Chada Venkat Reddy says drinking water problem also growing"
+    ],
+    "why": "This concerns Karimnagar district farmers whose crops were hit by poor rainfall.",
+    "cat": "Karimnagar · Agriculture",
+    "statl": "Compensation sought per acre of cotton"
+   },
+   "hi": {
+    "h": "करीमनगर को सूखा जिला घोषित करें: कलेक्टरेट के सामने सीपीआई का धरना",
+    "p": "सीपीआई नेताओं ने करीमनगर कलेक्टरेट के सामने धरना देकर जिले को तुरंत सूखाग्रस्त घोषित करने और फसल नुकसान झेलने वाले किसानों को मुआवजा देने की मांग की। पूर्व विधायक चाडा वेंकट रेड्डी ने कहा कि कम बारिश से फसलें सूख गईं। उन्होंने सामान्य फसलों के लिए प्रति एकड़ ₹30,000, कपास के लिए ₹50,000 और सब्जियों के लिए ₹20,000 की मांग की। उन्होंने कहा कि जिले में पेयजल की समस्या भी बढ़ रही है।",
+    "pts": [
+     "करीमनगर कलेक्टरेट के सामने सीपीआई का धरना",
+     "कपास के लिए प्रति एकड़ ₹50,000 मुआवजे की मांग",
+     "चाडा वेंकट रेड्डी: पेयजल समस्या भी बढ़ रही"
+    ],
+    "why": "यह कम बारिश से फसल नुकसान झेलने वाले करीमनगर जिले के किसानों से जुड़ा मामला है।",
+    "cat": "करीमनगर · कृषि",
+    "statl": "कपास के प्रति एकड़ मुआवजे की मांग"
+   },
+   "d": "10.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "ప్రపంచం · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "$4,149",
+   "statl": "ఔన్సు బంగారం ప్రారంభ ధర",
+   "h": "మూడు వారాల తర్వాత 4,100 డాలర్లు దాటిన బంగారం ధర",
+   "p": "మంగళవారం బంగారం డిసెంబర్ ఫ్యూచర్స్ ఔన్సుకు 4,149 డాలర్ల వద్ద ప్రారంభమైంది, ఇది 1.8% పెరుగుదల అని యాహూ ఫైనాన్స్ పేర్కొంది. అక్టోబర్ 22 తర్వాత 4,100 డాలర్లకు పైగా ప్రారంభం కావడం ఇదే మొదటిసారి. అమెరికా డాలర్ సూచీ తగ్గడం, చమురు ధరలు దిగిరావడంతో బంగారానికి బలం వచ్చింది. బ్రెంట్ క్రూడ్ బ్యారెల్‌కు 90.72 డాలర్లుగా ఉంది, ఐదు రోజుల్లో 12% పైగా తగ్గింది.",
+   "src": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-10-2026-gold-opens-above-4100-for-the-first-time-in-three-weeks-121734382.html",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "అక్టోబర్ 22 తర్వాత తొలిసారి 4,100 డాలర్లు దాటిన ప్రారంభం",
+    "డాలర్ బలహీనత, చమురు ధరల తగ్గుదల కారణం",
+    "బ్రెంట్ క్రూడ్ ఐదు రోజుల్లో 12% పైగా తగ్గుదల"
+   ],
+   "why": "అంతర్జాతీయ బంగారం, చమురు ధరల మార్పులు బంగారం కొనేవారిని, పొదుపు చేసేవారిని ప్రభావితం చేస్తాయి.",
+   "pub": "2026-11-10T17:47+05:30",
+   "en": {
+    "h": "Gold opens above $4,100 for the first time in three weeks",
+    "p": "Gold December futures opened at $4,149 an ounce on Tuesday, up 1.8%, according to Yahoo Finance. It is the first open above $4,100 since October 22. Gold found support as the US dollar index eased and oil prices fell. Brent crude was at $90.72 a barrel, down more than 12% in five days.",
+    "pts": [
+     "First open above $4,100 since October 22",
+     "Weaker dollar and lower oil prices helped",
+     "Brent crude down over 12% in five days"
+    ],
+    "why": "Global gold and oil price moves affect gold buyers and savers.",
+    "cat": "World · Business",
+    "statl": "Gold opening price per ounce"
+   },
+   "hi": {
+    "h": "तीन हफ्ते बाद सोना 4,100 डॉलर के पार खुला",
+    "p": "याहू फाइनेंस के अनुसार मंगलवार को सोने का दिसंबर वायदा 4,149 डॉलर प्रति औंस पर खुला, जो 1.8% की बढ़त है। 22 अक्टूबर के बाद पहली बार सोना 4,100 डॉलर से ऊपर खुला। अमेरिकी डॉलर सूचकांक में नरमी और तेल की कीमतों में गिरावट से सोने को सहारा मिला। ब्रेंट क्रूड 90.72 डॉलर प्रति बैरल पर था, जो पांच दिनों में 12% से अधिक गिरा है।",
+    "pts": [
+     "22 अक्टूबर के बाद पहली बार 4,100 डॉलर से ऊपर शुरुआत",
+     "कमजोर डॉलर और सस्ते तेल से मदद",
+     "ब्रेंट क्रूड पांच दिनों में 12% से अधिक गिरा"
+    ],
+    "why": "सोने और तेल की वैश्विक कीमतों में बदलाव सोना खरीदने वालों और बचत करने वालों को प्रभावित करता है।",
+    "cat": "विश्व · व्यापार",
+    "statl": "सोने का प्रति औंस शुरुआती भाव"
+   },
+   "d": "10.11.2026",
+   "t": "19:05"
+  },
   {
    "cat": "హైదరాబాద్ · ఆరోగ్యం",
    "col": "--c-money",
@@ -2201,155 +2351,6 @@
      "आरोपी फरार, विशेष टीमें तलाश में"
     ],
     "why": "यह मामला दिखाता है कि बच्चों को नुकसान पहुंचाने वाली ऑनलाइन सामग्री पर पुलिस निगरानी बढ़ी है।"
-   },
-   "d": "10.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "భారత్ · మహిళలు",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "1.5 లక్షలు",
-   "statl": "ఏటా ఎన్‌సీడబ్ల్యూకు ఫిర్యాదులు",
-   "h": "ఎన్‌సీడబ్ల్యూ ఫిర్యాదుల్లో గృహహింసవే అధికం: చైర్‌పర్సన్ రహత్కర్",
-   "p": "జాతీయ మహిళా కమిషన్ (NCW)కు ఏటా సుమారు 1.5 లక్షల ఫిర్యాదులు వస్తున్నాయని, వాటిలో గృహహింస కేసులే ఎక్కువని చైర్‌పర్సన్ విజయా రహత్కర్ హైదరాబాద్‌లో తెలిపారు. ఆన్‌లైన్ పోర్టల్, ఈమెయిల్, నేరుగా లేదా 24 గంటల హెల్ప్‌లైన్ 14490 ద్వారా ఫిర్యాదు చేయొచ్చన్నారు. 'రాష్ట్రీయ మహిళా ఆయోగ్ ఆప్‌కే ద్వార్' కింద ఏడాదిన్నరలో 200కు పైగా ప్రజా విచారణలు నిర్వహించామని చెప్పారు.",
-   "pts": [
-    "ఏటా సుమారు 1.5 లక్షల ఫిర్యాదులు",
-    "24 గంటల హెల్ప్‌లైన్ నంబర్ 14490",
-    "200కు పైగా గ్రామస్థాయి ప్రజా విచారణలు"
-   ],
-   "why": "గృహహింస బాధిత మహిళలు ఎలా, ఎక్కడ ఫిర్యాదు చేయాలో తెలుసుకోవడానికి ఇది ఉపయోగపడుతుంది.",
-   "src": "IND Today",
-   "url": "https://indtoday.com/ncw-domestic-violence-complaints-top-annual-list/",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pub": "2026-11-10T14:18+05:30",
-   "en": {
-    "cat": "India · Women",
-    "statl": "complaints to NCW every year",
-    "h": "Domestic violence tops NCW complaints, says chairperson Rahatkar",
-    "p": "National Commission for Women chairperson Vijaya Rahatkar said in Hyderabad that the NCW receives about 1.5 lakh complaints a year, with domestic violence the largest category. Complaints can be filed through the online portal, email, in person or the 24-hour helpline 14490. Under 'Rashtriya Mahila Aayog Aapke Dwar', she said, more than 200 public hearings were held in about one and a half years.",
-    "pts": [
-     "About 1.5 lakh complaints every year",
-     "24-hour helpline number 14490",
-     "Over 200 public hearings at village level"
-    ],
-    "why": "It helps women facing domestic violence know how and where to file a complaint."
-   },
-   "hi": {
-    "cat": "भारत · महिलाएं",
-    "statl": "हर साल NCW को शिकायतें",
-    "h": "NCW की शिकायतों में घरेलू हिंसा सबसे ज्यादा: अध्यक्ष रहाटकर",
-    "p": "राष्ट्रीय महिला आयोग (NCW) की अध्यक्ष विजया रहाटकर ने हैदराबाद में कहा कि आयोग को हर साल लगभग 1.5 लाख शिकायतें मिलती हैं, जिनमें घरेलू हिंसा के मामले सबसे ज्यादा हैं। ऑनलाइन पोर्टल, ईमेल, व्यक्तिगत रूप से या 24 घंटे की हेल्पलाइन 14490 से शिकायत की जा सकती है। 'राष्ट्रीय महिला आयोग आपके द्वार' के तहत करीब डेढ़ साल में 200 से अधिक जन सुनवाइयां हुईं।",
-    "pts": [
-     "हर साल लगभग 1.5 लाख शिकायतें",
-     "24 घंटे की हेल्पलाइन 14490",
-     "गांवों में 200 से अधिक जन सुनवाई"
-    ],
-    "why": "घरेलू हिंसा से पीड़ित महिलाओं को यह जानने में मदद मिलती है कि शिकायत कैसे और कहां करें।"
-   },
-   "d": "10.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "ప్రపంచం · టెక్నాలజీ",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "AI",
-   "statl": "టీనేజర్ల వయసు గుర్తింపు",
-   "h": "టీనేజర్ల రక్షణకు మెటా ఏఐ వయసు గుర్తింపు సాంకేతికత ప్రపంచవ్యాప్తం",
-   "p": "తప్పుడు వయసు, పెద్దల పుట్టినతేదీ ఇచ్చిన టీనేజర్లను గుర్తించి 'టీన్ అకౌంట్' రక్షణల్లోకి మార్చే ఏఐ సాంకేతికతను మెటా ప్రపంచవ్యాప్తంగా విస్తరించింది. ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్, మెసెంజర్‌లో టీన్ అకౌంట్లు ఎవరు సంప్రదించవచ్చు, ఏ కంటెంట్ కనిపిస్తుంది, ఎంతసేపు వాడతారనే వాటిని పరిమితం చేస్తాయి. ఇన్‌స్టాగ్రామ్‌లో మరిన్ని లక్షల మంది టీనేజర్లకు ఈ రక్షణ వస్తుందని, త్రెడ్స్‌లో ఈ ఏడాది చివర్లో తెస్తామని మెటా తెలిపింది.",
-   "pts": [
-    "తప్పుడు వయసు చెప్పిన టీనేజర్లను ఏఐ గుర్తిస్తుంది",
-    "ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్‌లో అమలు",
-    "త్రెడ్స్‌లో ఈ ఏడాది చివర్లో"
-   ],
-   "why": "ఇన్‌స్టాగ్రామ్, ఫేస్‌బుక్ వాడే మన దేశ టీనేజర్లు, వారి తల్లిదండ్రులపై ఇది ప్రభావం చూపుతుంది.",
-   "src": "TechAfrica News",
-   "url": "https://techafricanews.com/2026/11/10/meta-expands-ai-age-detection-technology-protect-teens-globally/",
-   "sec": [
-    "world",
-    "ai"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pub": "2026-11-10T14:08+05:30",
-   "en": {
-    "cat": "World · Technology",
-    "statl": "identifying teens' age",
-    "h": "Meta takes AI age-detection for teen safety worldwide",
-    "p": "Meta has expanded worldwide its AI technology that identifies teens who gave a false age or an adult birthday and moves them into 'Teen Account' protections. Teen Accounts on Instagram, Facebook and Messenger limit who can contact teens, what content they see and how long they use the apps. Meta said millions more teens on Instagram will get the protections, and it will bring similar technology to Threads later this year.",
-    "pts": [
-     "AI spots teens who misstate their age",
-     "Rolling out on Instagram and Facebook",
-     "Threads to follow later this year"
-    ],
-    "why": "It affects teens in India who use Instagram and Facebook, and their parents."
-   },
-   "hi": {
-    "cat": "दुनिया · टेक्नोलॉजी",
-    "statl": "किशोरों की उम्र पहचान",
-    "h": "किशोरों की सुरक्षा के लिए मेटा की एआई उम्र पहचान दुनियाभर में",
-    "p": "मेटा ने गलत उम्र या वयस्क जन्मतिथि बताने वाले किशोरों को पहचानकर 'टीन अकाउंट' सुरक्षा में डालने वाली एआई तकनीक को दुनियाभर में बढ़ाया है। इंस्टाग्राम, फेसबुक और मैसेंजर पर टीन अकाउंट यह सीमित करते हैं कि किशोरों से कौन संपर्क करे, वे क्या देखें और कितनी देर ऐप चलाएं। मेटा ने कहा कि इंस्टाग्राम पर लाखों और किशोरों को यह सुरक्षा मिलेगी और थ्रेड्स पर इस साल के अंत में ऐसी तकनीक आएगी।",
-    "pts": [
-     "गलत उम्र बताने वाले किशोरों को एआई पहचानेगा",
-     "इंस्टाग्राम और फेसबुक पर लागू",
-     "थ्रेड्स पर इस साल के अंत में"
-    ],
-    "why": "इसका असर इंस्टाग्राम और फेसबुक इस्तेमाल करने वाले भारत के किशोरों और उनके माता-पिता पर पड़ेगा।"
-   },
-   "d": "10.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "నల్గొండ · క్రీడలు",
-   "col": "--c-city",
-   "art": "campus",
-   "stat": "₹12,000",
-   "statl": "హాకీ బ్యాట్ కోసం సాయం",
-   "h": "జాతీయ హాకీ జట్టుకు ఎంపికైన నల్గొండ యువకుడు గణేష్‌కు ఆర్థిక సాయం",
-   "p": "జాతీయ హాకీ జట్టుకు తెలంగాణ నుంచి ఎంపికైన ఏకైక క్రీడాకారుడు, నల్గొండ పట్టణానికి చెందిన రావుల గణేష్‌కు ఆర్థిక ప్రోత్సాహం అందింది. గుత్తా వెంకట్‌రెడ్డి మెమోరియల్ ట్రస్ట్ చైర్మన్ గుత్తా అమిత్‌రెడ్డి హాకీ బ్యాట్ కోసం రూ.12 వేలు అందజేశారు. కార్యక్రమంలో 20వ డివిజన్ కార్పొరేటర్ అల్లి సుభాష్, జిల్లా హాకీ కోచ్ అలీ తదితరులు పాల్గొన్నారు.",
-   "pts": [
-    "తెలంగాణ నుంచి జాతీయ జట్టుకు ఏకైక ఎంపిక",
-    "గుత్తా అమిత్‌రెడ్డి రూ.12 వేల సాయం",
-    "జిల్లా హాకీ కోచ్ అలీ హాజరు"
-   ],
-   "why": "జిల్లా స్థాయి క్రీడాకారులకు ఇలాంటి ప్రోత్సాహం జాతీయ స్థాయిలో రాణించేందుకు తోడ్పడుతుంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/nalgonda/financial-support-for-young-hockey-player-ganesh-2556705",
-   "sec": [
-    "telangana",
-    "sports"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "pub": "2026-11-10T13:57+05:30",
-   "en": {
-    "cat": "Nalgonda · Sports",
-    "statl": "help for a hockey stick",
-    "h": "Nalgonda youth Ganesh, picked for national hockey team, gets financial help",
-    "p": "Ravula Ganesh of Nalgonda town, the only player from Telangana selected for the national hockey team, received financial encouragement. Gutta Amit Reddy, chairman of the Gutta Venkat Reddy Memorial Trust, gave him Rs 12,000 for a hockey stick. 20th division corporator Alli Subhash, district hockey coach Ali and others attended.",
-    "pts": [
-     "Only Telangana player picked for national team",
-     "Gutta Amit Reddy gives Rs 12,000",
-     "District hockey coach Ali present"
-    ],
-    "why": "Such support helps district-level players perform at the national level."
-   },
-   "hi": {
-    "cat": "नलगोंडा · खेल",
-    "statl": "हॉकी स्टिक के लिए मदद",
-    "h": "राष्ट्रीय हॉकी टीम में चुने गए नलगोंडा के गणेश को आर्थिक मदद",
-    "p": "राष्ट्रीय हॉकी टीम में तेलंगाना से चुने गए एकमात्र खिलाड़ी, नलगोंडा शहर के रावुला गणेश को आर्थिक प्रोत्साहन मिला। गुत्ता वेंकट रेड्डी मेमोरियल ट्रस्ट के अध्यक्ष गुत्ता अमित रेड्डी ने हॉकी स्टिक के लिए 12,000 रुपये दिए। 20वें डिवीजन के पार्षद अल्ली सुभाष, जिला हॉकी कोच अली और अन्य मौजूद थे।",
-    "pts": [
-     "तेलंगाना से राष्ट्रीय टीम में एकमात्र चयन",
-     "गुत्ता अमित रेड्डी ने 12,000 रुपये दिए",
-     "जिला हॉकी कोच अली मौजूद"
-    ],
-    "why": "ऐसी मदद जिला स्तर के खिलाड़ियों को राष्ट्रीय स्तर पर आगे बढ़ने में सहायक होती है।"
    },
    "d": "10.11.2026",
    "t": "14:35"
