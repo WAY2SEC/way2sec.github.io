@@ -70,7 +70,7 @@ def story(s, size='', lead=False):
 
 
 def page_head(title, color, date_te, pno):
-    return f'<header class="ph" style="--c:{color}"><span class="pt">{title}</span><span class="pm"><b>way2sec</b> · {date_te} · పేజీ {pno}</span></header>'
+    return f'<header class="ph" style="--c:{color}"><span class="pt">{title}</span><span class="pm"><b>జనధ్వని</b> · {date_te} · పేజీ {pno}</span></header>'
 
 
 def build_html(iso, day, jobs, extra=None):
@@ -91,7 +91,7 @@ def build_html(iso, day, jobs, extra=None):
     pages.append(f'''<section class="page front">
  <div class="mast">
    <div class="mtop"><span>{wk}, {date_te}</span><span>సంపుటి 1 · సంచిక {issue}</span><span>హైదరాబాద్ · AI ఈ-పేపర్ · ఉచితం</span></div>
-   <div class="mname"><img src="/logo.png" alt="Way2Sec"><div class="mtag"><b>వార్తలు క్షణాల్లో!</b><span>Fastest AI News in Telugu · తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</span></div></div>
+   <div class="mname"><img src="/logo.png" alt="Way2Sec"><div class="mtag"><b>జనధ్వని</b><span class="cap">ప్రజల గొంతుక… ప్రతి ఊరి పలుకు</span><span class="pub">A WAY2SEC Publication</span></div></div>
    <div class="mbar"><span>📍 తెలంగాణ</span><span>ఆంధ్రప్రదేశ్</span><span>దేశం</span><span>ప్రపంచం</span><span>ఉద్యోగాలు</span><span class="r">way2sec.news</span></div>
  </div>
  <div class="fgrid">
@@ -162,7 +162,7 @@ def build_html(iso, day, jobs, extra=None):
       <p>📝 మీ ఊరి వార్త పంపండి – పరిశీలించి ప్రపంచానికి చేరుస్తాం.</p>
       <p class="fine">ఈ ఈ-పేపర్‌లోని వార్తలు AI సహాయంతో మా మాటల్లో రాసినవి; ప్రతి వార్తకు మూలం పేర్కొన్నాం. © {d.year} Way2Sec. అనుమతి లేకుండా పునఃప్రచురణ, కాపీ నిషిద్ధం.</p></div>
   </div></section>''')
-    return f'''<!doctype html><html lang="te"><head><meta charset="utf-8"><title>Way2Sec ఈ-పేపర్ – {date_te}</title>
+    return f'''<!doctype html><html lang="te"><head><meta charset="utf-8"><title>జనధ్వని ఈ-పేపర్ – {date_te}</title>
 <style>
 @font-face{{font-family:W2Rama;src:url(/tools/fonts/Ramabhadra-Regular.ttf)}}
 @font-face{{font-family:W2Serif;src:url(/tools/fonts/NotoSerifTelugu.ttf);font-weight:100 900}}
@@ -172,16 +172,16 @@ def build_html(iso, day, jobs, extra=None):
 *{{box-sizing:border-box}}
 html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exact;print-color-adjust:exact}}
 .page{{width:210mm;height:297mm;padding:11mm 11mm 14mm;position:relative;overflow:hidden;break-after:page;background:#FFFFFF}}
-.page::after{{content:"WAY2SEC · {date_te} · way2sec.news";position:absolute;left:11mm;right:11mm;bottom:6mm;font:600 7pt/1 W2Sans;color:#8A7E70;
-  border-top:.6pt solid #CFC4B2;padding-top:2.2mm;letter-spacing:.3pt}}
+.page::after{{content:"జనధ్వని · {date_te} · A WAY2SEC Publication · way2sec.news";position:absolute;left:11mm;right:11mm;bottom:0;font:600 7pt/1 W2Sans;color:#8A7E70;z-index:5;background:#fff;
+  border-top:.6pt solid #CFC4B2;padding:2.2mm 0 6mm;letter-spacing:.3pt}}
 .page::before{{content:"WAY2SEC";position:absolute;left:50%;top:52%;transform:translate(-50%,-50%) rotate(-30deg);font:400 120pt/1 W2Disp;color:rgba(18,40,74,.028);pointer-events:none;white-space:nowrap}}
 /* masthead */
 .mast{{border-bottom:2.4pt solid #12284A;margin-bottom:4mm}}
 .mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1.4 W2Sans;color:#fff;background:#C8102E;padding:1.6mm 4mm;border-radius:1.2mm 1.2mm 0 0}}
 .mname{{display:flex;align-items:center;justify-content:center;gap:6mm;padding:3.5mm 0 2.5mm}}
-.mname img{{height:19mm}}
+.mname img{{height:15mm}}
 .mtag{{border-left:.8pt solid #CFC4B2;padding-left:5mm;display:grid;gap:1mm}}
-.mtag b{{font:400 21pt/1.1 W2Rama;color:#C8102E}} .mtag span{{font:600 8pt/1.3 W2Sans;color:#3B332B}}
+.mtag{{gap:.6mm}} .mtag b{{font:400 40pt/1 W2Rama;color:#C8102E;letter-spacing:.5pt}} .mtag .cap{{font:700 11pt/1.3 W2Sans;color:#12284A}} .mtag .pub{{font:700 7.4pt/1.2 W2Sans;color:#7A6E60;letter-spacing:2.2pt}}
 .mbar{{display:flex;gap:0;background:#12284A;color:#fff;font:700 8pt/1.3 W2Sans;padding:0;margin-bottom:.8mm;overflow:hidden;border-radius:0 0 1.2mm 1.2mm}} .mbar span{{padding:2.2mm 3.6mm}}
 .mbar span:nth-child(1){{background:#1F6B3A}} .mbar span:nth-child(2){{background:#0B5CAD}} .mbar span:nth-child(3){{background:#B3400F}} .mbar span:nth-child(4){{background:#5B3A8C}} .mbar span:nth-child(5){{background:#0F6E5C}} .mbar .r{{margin-left:auto;color:#FFD54A}}
 /* stories */
@@ -333,7 +333,7 @@ def main():
     from pypdf.constants import UserAccessPermissions as P
     r = PdfReader(raw); w = PdfWriter()
     for pgx in r.pages: w.add_page(pgx)
-    w.add_metadata({'/Title': f'Way2Sec ఈ-పేపర్ {iso}', '/Author': 'Way2Sec', '/Subject': 'Fastest AI News in Telugu', '/Creator': 'way2sec.news'})
+    w.add_metadata({'/Title': f'జనధ్వని ఈ-పేపర్ {iso}', '/Author': 'Way2Sec', '/Subject': 'జనధ్వని – ప్రజల గొంతుక… ప్రతి ఊరి పలుకు · A WAY2SEC Publication', '/Creator': 'way2sec.news'})
     w.encrypt(user_password='', owner_password=secrets.token_hex(16), permissions_flag=P.PRINT | P.PRINT_TO_REPRESENTATION, algorithm='AES-256')
     out = os.path.join(out_dir, iso + '.pdf')
     with open(out, 'wb') as f: w.write(f)

@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2179H3TXWP"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-2179H3TXWP');</script>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Way2Sec ఈ-పేపర్ | వార్తలు క్షణాల్లో!</title>
+<title>జనధ్వని ఈ-పేపర్ | ప్రజల గొంతుక… ప్రతి ఊరి పలుకు</title>
 <link rel="canonical" href="https://way2sec.news/epaper/">
-<meta name="description" content="Way2Sec ఈ-పేపర్ – రోజువారీ తెలుగు వార్తాపత్రిక. పేజీలు తిప్పండి, వార్తను క్లిప్ చేసి WhatsAppలో షేర్ చేయండి, PDF డౌన్‌లోడ్ చేయండి.">
-<meta property="og:title" content="Way2Sec ఈ-పేపర్"><meta property="og:image" content="https://way2sec.news/og-image.jpg">
+<meta name="description" content="జనధ్వని ఈ-పేపర్ (A WAY2SEC Publication) – రోజువారీ తెలుగు వార్తాపత్రిక. పేజీలు తిప్పండి, వార్తను క్లిప్ చేసి WhatsAppలో షేర్ చేయండి, PDF డౌన్‌లోడ్ చేయండి.">
+<meta property="og:title" content="జనధ్వని ఈ-పేపర్ · A WAY2SEC Publication"><meta property="og:image" content="https://way2sec.news/og-image.jpg">
 <meta name="theme-color" content="#12284A"><link rel="icon" href="/favicon-48.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@500;700;800&display=swap">
 <style>
@@ -65,7 +65,7 @@ button,select,a{font:inherit}
 <body oncontextmenu="return false">
 <header class="top"><div class="bar">
   <a class="logo" href="/" aria-label="Way2Sec హోమ్"><img src="/logo-light.png" alt="Way2Sec"></a>
-  <div class="ttl"><b>📰 ఈ-పేపర్</b><small>హైదరాబాద్ ఎడిషన్ · ప్రతి రోజూ ఉదయం 5:30కి</small></div>
+  <div class="ttl"><b>📰 జనధ్వని ఈ-పేపర్</b><small>ప్రజల గొంతుక… ప్రతి ఊరి పలుకు · A WAY2SEC Publication</small></div>
   <div class="ctl">
     <label><span class="sr" style="position:absolute;left:-9999px">తేదీ</span><select id="day" aria-label="తేదీ ఎంచుకోండి"></select></label>
     <button type="button" id="clip" aria-pressed="false" title="వార్తను క్లిప్ చేసి షేర్ చేయండి">✂️ క్లిప్</button>
@@ -94,7 +94,7 @@ async function getJSON(u){ try{ const r=await fetch(u+'?t='+Date.now(),{cache:'n
 function setURL(){ history.replaceState(null,'',`?d=${ISS.iso}&p=${P+1}`); }
 async function openIssue(iso,p){
   ISS=await getJSON(`/epaper/${iso}/pages.json`); if(!ISS){ $('empty').hidden=false; $('sheet').hidden=true; return; }
-  $('empty').hidden=true; $('sheet').hidden=false; $('pdf').href=`/epaper/${ISS.pdf}`; $('pdf').setAttribute('download',`Way2Sec-ePaper-${iso}.pdf`);
+  $('empty').hidden=true; $('sheet').hidden=false; $('pdf').href=`/epaper/${ISS.pdf}`; $('pdf').setAttribute('download',`Janadhwani-ePaper-${iso}.pdf`);
   $('thumbs').innerHTML=ISS.pages.map((pg,i)=>`<button type="button" data-i="${i}"><img src="/epaper/${pg.img}" alt="" loading="lazy" draggable="false">పేజీ ${i+1} · ${pg.title.replace(/\s*\(.*\)/,'').split('·')[0].trim()}</button>`).join('');
   show(Math.min(Math.max(0,(p||1)-1),ISS.pages.length-1));
 }
@@ -124,13 +124,13 @@ function clipStory(c){ const img=$('pimg'), sw=img.naturalWidth, sh=img.naturalH
   g.fillStyle='#fff'; g.fillRect(0,0,w,h+band); let yy=0; parts.forEach(q=>{ g.drawImage(img,q.x,q.y,q.w,q.h,0,yy,q.w,q.h); yy+=q.h; });
   g.fillStyle='#12284A'; g.fillRect(0,h,w,band); g.fillStyle='#FFD54A'; g.font=`800 ${Math.round(band*.34)}px 'Noto Sans Telugu',sans-serif`; g.textBaseline='middle';
   g.fillText('way2sec.news',Math.round(band*.35),h+band/2); g.fillStyle='#C9D3E1'; g.textAlign='right'; g.font=`700 ${Math.round(band*.26)}px 'Noto Sans Telugu',sans-serif`;
-  g.fillText(`Way2Sec ఈ-పేపర్ · ${dayTe(ISS.iso)}`,w-Math.round(band*.35),h+band/2); g.textAlign='left';
+  g.fillText(`జనధ్వని ఈ-పేపర్ · ${dayTe(ISS.iso)}`,w-Math.round(band*.35),h+band/2); g.textAlign='left';
   CT=c.t; $('mt').textContent=c.t; $('modal').hidden=false; BLOB=null; cv.toBlob(b=>{BLOB=b;},'image/jpeg',.9); }
 $('sheet').addEventListener('click',e=>{ const h=e.target.closest('.hot'); if(!h||!CLIP) return; clipStory(ISS.pages[P].clips[+h.dataset.k]); });
 $('sheet').addEventListener('keydown',e=>{ const h=e.target.closest('.hot'); if(h&&CLIP&&(e.key==='Enter'||e.key===' ')){ e.preventDefault(); clipStory(ISS.pages[P].clips[+h.dataset.k]); } });
 $('mclose').onclick=()=>{$('modal').hidden=true}; $('modal').addEventListener('click',e=>{ if(e.target===$('modal')) $('modal').hidden=true; });
 const link=()=>`${location.origin}/epaper/?d=${ISS.iso}&p=${P+1}`;
-$('mshare').onclick=async()=>{ const text=`📰 ${CT}\nWay2Sec ఈ-పేపర్ · ${dayTe(ISS.iso)}\n${link()}`;
+$('mshare').onclick=async()=>{ const text=`📰 ${CT}\nజనధ్వని ఈ-పేపర్ · ${dayTe(ISS.iso)}\n${link()}`;
   if(BLOB && navigator.canShare){ const f=new File([BLOB],'way2sec-clip.jpg',{type:'image/jpeg'}); if(navigator.canShare({files:[f]})){ try{ await navigator.share({files:[f],text}); return; }catch(e){ if(e&&e.name==='AbortError') return; } } }
   location.href='https://wa.me/?text='+encodeURIComponent(text); };
 $('msave').onclick=()=>{ if(!BLOB) return; const u=URL.createObjectURL(BLOB), a=document.createElement('a'); a.href=u; a.download=`way2sec-clip-${ISS.iso}.jpg`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(u),30000); };
