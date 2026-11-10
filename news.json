@@ -1,8 +1,207 @@
 {
  "date": "10.11.2026",
- "updated": "2026-11-10T22:39:56+05:30",
+ "updated": "2026-11-10T23:12:31+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "నల్గొండ · నేరం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "హత్య కేసు",
+   "statl": "నల్గొండ 1 టౌన్ పోలీస్ స్టేషన్‌లో నమోదు",
+   "h": "నల్గొండలో మహిళా హోంగార్డ్ హత్య: భర్తపై ఆరోపణ, పరారీలో నిందితుడు",
+   "p": "నల్గొండలోని నివాస క్వార్టర్స్‌లో మంగళవారం ఓ మహిళా హోంగార్డ్ హత్యకు గురయ్యారని, ఆమె భర్తే ఈ హత్య చేశాడని ఆరోపణ ఉందని పోలీసుల ప్రకారం పీటీఐ కథనం. కుటుంబ విషయాలపై దంపతుల మధ్య తరచూ గొడవలు జరిగేవని ప్రాథమిక విచారణలో తేలిందని అధికారి తెలిపారు. మృతురాలి సోదరుడి ఫిర్యాదుతో హత్య కేసు నమోదైంది. నిందితుడు పరారీలో ఉన్నాడు, పట్టుకునేందుకు బృందాలు ఏర్పాటు చేశారు.",
+   "src": "Deccan Chronicle (PTI)",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/woman-home-guard-murdered-by-husband-in-telangana-2003218",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pts": [
+    "భర్తే హత్య చేశాడని పోలీసుల ప్రకారం ఆరోపణ",
+    "సోదరుడి ఫిర్యాదుతో హత్య కేసు నమోదు",
+    "పరారీలో నిందితుడు, గాలింపు బృందాలు ఏర్పాటు"
+   ],
+   "why": "గృహ హింస తీవ్ర రూపం దాల్చుతున్న ఘటనలపై కుటుంబాలు, అధికారులు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-10T18:00+05:30",
+   "en": {
+    "h": "Woman Home Guard killed in Nalgonda; husband accused, absconding",
+    "p": "A woman Home Guard was killed at her residential quarters in Nalgonda on Tuesday, and her husband is accused of the murder, police said, according to PTI. A preliminary probe found the couple often quarrelled over family issues, an official said. A murder case was registered on a complaint by the deceased's brother. The accused is absconding and teams have been formed to arrest him.",
+    "pts": [
+     "Husband accused of the murder, police say",
+     "Murder case registered on brother's complaint",
+     "Accused absconding; search teams formed"
+    ],
+    "why": "It shows why families and authorities must stay alert when domestic disputes turn violent.",
+    "cat": "Nalgonda · Crime",
+    "statl": "Registered at Nalgonda 1 Town police station"
+   },
+   "hi": {
+    "h": "नलगोंडा में महिला होमगार्ड की हत्या: पति पर आरोप, फरार",
+    "p": "पीटीआई के अनुसार, पुलिस ने बताया कि मंगलवार को नलगोंडा में आवासीय क्वार्टर में एक महिला होमगार्ड की हत्या हुई और उनके पति पर हत्या का आरोप है। एक अधिकारी के अनुसार प्रारंभिक जांच में पता चला कि दंपती में पारिवारिक मुद्दों पर अक्सर झगड़े होते थे। मृतका के भाई की शिकायत पर हत्या का मामला दर्ज हुआ। आरोपी फरार है और उसे पकड़ने के लिए टीमें बनाई गई हैं।",
+    "pts": [
+     "पुलिस के अनुसार पति पर हत्या का आरोप",
+     "भाई की शिकायत पर हत्या का मामला दर्ज",
+     "आरोपी फरार, तलाश के लिए टीमें गठित"
+    ],
+    "why": "यह दिखाता है कि घरेलू झगड़े हिंसक होने पर परिवारों और अधिकारियों को सतर्क रहना चाहिए।",
+    "cat": "नलगोंडा · अपराध",
+    "statl": "नलगोंडा 1 टाउन थाने में दर्ज"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "భారత్ · బంగారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,46,400",
+   "statl": "ఢిల్లీలో 10 గ్రాముల బంగారం ధర",
+   "h": "బంగారం ధర ₹500 తగ్గింది: ఢిల్లీలో 10 గ్రాములు ₹1,46,400",
+   "p": "దేశ రాజధానిలో మంగళవారం బంగారం ధర ₹500 తగ్గి 10 గ్రాములకు ₹1,46,400కి చేరిందని పీటీఐ కథనం. సోమవారం ఇది ₹1,46,900. వెండి కిలో ₹1,92,500 వద్ద స్థిరంగా ఉంది. అంతర్జాతీయంగా బంగారం బలహీనపడటం, డాలర్ స్థిరంగా ఉండటం కారణమని వ్యాపారులు తెలిపారు. అంతర్జాతీయ మార్కెట్లో ఔన్స్ బంగారం సుమారు 1% తగ్గి 4,113.55 డాలర్లకు చేరింది.",
+   "src": "PTI (ThePrint)",
+   "url": "https://theprint.in/economy/gold-falls-rs-500-per-10-gm-as-firm-us-dollar-weak-global-cues-weigh-on-investor-sentiment/3095252/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "10 గ్రాముల బంగారం ₹1,46,400, ₹500 తగ్గుదల",
+    "వెండి కిలో ₹1,92,500 వద్ద స్థిరం",
+    "అంతర్జాతీయ ధర ఔన్స్‌కు 4,113.55 డాలర్లు"
+   ],
+   "why": "పెళ్లిళ్లు, పండుగల కోసం బంగారం కొనాలనుకునే కుటుంబాలకు ధరల మార్పు ముఖ్యం.",
+   "pub": "2026-11-10T17:48+05:30",
+   "en": {
+    "h": "Gold falls Rs 500; 10 grams at Rs 1,46,400 in Delhi",
+    "p": "Gold fell Rs 500 to Rs 1,46,400 per 10 grams in the national capital on Tuesday, PTI reported. It was Rs 1,46,900 on Monday. Silver held steady at Rs 1,92,500 per kg. Traders cited weak international bullion and a steady US dollar. In global markets, spot gold fell about 1% to $4,113.55 an ounce.",
+    "pts": [
+     "10 grams of gold at Rs 1,46,400, down Rs 500",
+     "Silver steady at Rs 1,92,500 per kg",
+     "Global price at $4,113.55 an ounce"
+    ],
+    "why": "Price changes matter to families planning to buy gold for weddings and festivals.",
+    "cat": "India · Gold",
+    "statl": "Price of 10 grams of gold in Delhi"
+   },
+   "hi": {
+    "h": "सोना ₹500 सस्ता: दिल्ली में 10 ग्राम ₹1,46,400",
+    "p": "पीटीआई के अनुसार, राष्ट्रीय राजधानी में मंगलवार को सोना ₹500 गिरकर ₹1,46,400 प्रति 10 ग्राम पर आ गया। सोमवार को यह ₹1,46,900 था। चांदी ₹1,92,500 प्रति किलो पर स्थिर रही। व्यापारियों ने कमजोर अंतरराष्ट्रीय भाव और स्थिर अमेरिकी डॉलर को कारण बताया। अंतरराष्ट्रीय बाजार में सोना करीब 1% गिरकर 4,113.55 डॉलर प्रति औंस पर रहा।",
+    "pts": [
+     "10 ग्राम सोना ₹1,46,400, ₹500 की गिरावट",
+     "चांदी ₹1,92,500 प्रति किलो पर स्थिर",
+     "अंतरराष्ट्रीय भाव 4,113.55 डॉलर प्रति औंस"
+    ],
+    "why": "शादी और त्योहारों के लिए सोना खरीदने वाले परिवारों के लिए कीमत में बदलाव अहम है।",
+    "cat": "भारत · सोना",
+    "statl": "दिल्ली में 10 ग्राम सोने का भाव"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "భారత్ · విదేశాంగం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "రష్యా–ఉక్రెయిన్",
+   "statl": "రెండు దేశాలతో భారత్ సంప్రదింపులు",
+   "h": "రష్యా, ఉక్రెయిన్ రెండింటితోనూ సంప్రదింపులు జరుపుతున్నాం: భారత్",
+   "p": "నల్ల సముద్రంలో నౌకల భద్రత, ధాన్యం, ఇంధన ఎగుమతులు వంటి అంశాలపై రష్యా, ఉక్రెయిన్ రెండింటితోనూ భారత్ చర్చిస్తోందని విదేశాంగ శాఖ ప్రతినిధి రణధీర్ జైస్వాల్ మంగళవారం తెలిపారని పీటీఐ కథనం. ప్రధాని మోదీ సోమవారం ఉక్రెయిన్ అధ్యక్షుడు జెలెన్‌స్కీతో ఫోన్‌లో మాట్లాడారు. యూఏఈలో రష్యా, ఉక్రెయిన్, అమెరికా త్రైపాక్షిక చర్చలు ప్రారంభమైన సమయంలో ఈ వ్యాఖ్యలు వచ్చాయి.",
+   "src": "PTI (ThePrint)",
+   "url": "https://theprint.in/india/ukraine-conflict-india-says-it-is-engaged-with-both-moscow-kyiv/3095316/",
+   "sec": [
+    "india",
+    "world"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "నల్ల సముద్రం నౌకల భద్రత, ధాన్యం ఎగుమతులపై చర్చలు",
+    "సోమవారం జెలెన్‌స్కీతో మోదీ ఫోన్ సంభాషణ",
+    "యూఏఈలో త్రైపాక్షిక చర్చలు ప్రారంభం"
+   ],
+   "why": "ధాన్యం, ఇంధన సరఫరాపై ప్రభావం చూపే ఈ యుద్ధంలో భారత్ పాత్ర దేశ ప్రజలకు ముఖ్యం.",
+   "pub": "2026-11-10T18:45+05:30",
+   "en": {
+    "h": "India says it is engaging both Russia and Ukraine",
+    "p": "India is discussing issues such as Black Sea shipping safety and grain and energy exports with both Russia and Ukraine, External Affairs Ministry spokesperson Randhir Jaiswal said on Tuesday, according to PTI. Prime Minister Modi spoke to Ukrainian President Zelenskyy by phone on Monday. The remarks came as three-way talks among Russia, Ukraine and the US opened in the UAE.",
+    "pts": [
+     "Talks on Black Sea shipping safety, grain exports",
+     "Modi spoke to Zelenskyy by phone on Monday",
+     "Three-way talks open in the UAE"
+    ],
+    "why": "India's role in a war that affects grain and energy supplies matters to people in the country.",
+    "cat": "India · External Affairs",
+    "statl": "India in talks with both countries"
+   },
+   "hi": {
+    "h": "रूस और यूक्रेन दोनों से संपर्क में है भारत",
+    "p": "पीटीआई के अनुसार, विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने मंगलवार को कहा कि भारत काला सागर में जहाजों की सुरक्षा, अनाज और ऊर्जा निर्यात जैसे मुद्दों पर रूस और यूक्रेन दोनों से बात कर रहा है। प्रधानमंत्री मोदी ने सोमवार को यूक्रेन के राष्ट्रपति ज़ेलेंस्की से फोन पर बात की थी। यह टिप्पणी ऐसे समय आई जब यूएई में रूस, यूक्रेन और अमेरिका की त्रिपक्षीय वार्ता शुरू हुई।",
+    "pts": [
+     "काला सागर जहाज सुरक्षा, अनाज निर्यात पर बातचीत",
+     "सोमवार को मोदी की ज़ेलेंस्की से फोन पर बात",
+     "यूएई में त्रिपक्षीय वार्ता शुरू"
+    ],
+    "why": "अनाज और ऊर्जा आपूर्ति पर असर डालने वाले इस युद्ध में भारत की भूमिका देश के लोगों के लिए अहम है।",
+    "cat": "भारत · विदेश मामले",
+    "statl": "दोनों देशों से भारत की बातचीत"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "కొత్తగూడెం · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "ఎమ్మెల్సీ",
+   "statl": "వరంగల్–ఖమ్మం–నల్గొండ పట్టభద్రుల స్థానం",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ: సర్వోత్తమ రెడ్డికి మద్దతుగా పని చేయాలన్న కూనంనేని",
+   "p": "వరంగల్–ఖమ్మం–నల్గొండ పట్టభద్రుల ఎమ్మెల్సీ స్థానానికి కాంగ్రెస్ అభ్యర్థి రామ్‌రెడ్డి సర్వోత్తమ రెడ్డి మంగళవారం కొత్తగూడెం సింగరేణి అతిథి గృహంలో సీపీఐ రాష్ట్ర కార్యదర్శి, ఎమ్మెల్యే కూనంనేని సాంబశివరావును కలిశారని హెచ్ఎంటీవీ కథనం. ఆయన విజయానికి సీపీఐ, కాంగ్రెస్ కార్యకర్తలు కలిసి పని చేయాలని కూనంనేని పిలుపునిచ్చారు. నిరుద్యోగ, విద్యావంతుల సమస్యలపై చట్టసభలో బలమైన గొంతు కావాలన్నారు.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/khammam/work-unitedly-for-sarvothama-reddys-win-cpi-state-secretary-kunamneni-211377",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "కొత్తగూడెం",
+   "pts": [
+    "కూనంనేనిని కలిసిన కాంగ్రెస్ అభ్యర్థి సర్వోత్తమ రెడ్డి",
+    "సీపీఐ, కాంగ్రెస్ కార్యకర్తలు కలిసి పనిచేయాలని పిలుపు",
+    "మొదటి ప్రాధాన్య ఓటు సరిగ్గా వేయాలని సూచన"
+   ],
+   "why": "మూడు జిల్లాల పట్టభద్రుల ఓటర్లకు ఈ ఎన్నికలో పార్టీల పొత్తు సమాచారం ఇది.",
+   "pub": "2026-11-10T20:02+05:30",
+   "en": {
+    "h": "Graduates' MLC poll: Kunamneni urges support for Sarvothama Reddy",
+    "p": "Congress candidate Ramreddy Sarvothama Reddy for the Warangal–Khammam–Nalgonda graduates' MLC seat met CPI state secretary and MLA Kunamneni Sambasiva Rao at the Singareni guest house in Kothagudem on Tuesday, HMTV reported. Kunamneni called on CPI and Congress workers to work together for his win. He said the legislature needs a strong voice on the problems of the unemployed and educated youth.",
+    "pts": [
+     "Congress candidate Sarvothama Reddy meets Kunamneni",
+     "CPI, Congress workers urged to work together",
+     "Graduates asked to use first-preference vote well"
+    ],
+    "why": "It tells graduate voters in three districts about party alliances in this election.",
+    "cat": "Kothagudem · Elections",
+    "statl": "Warangal–Khammam–Nalgonda graduates' seat"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी चुनाव: कूनमनेनी ने सर्वोत्तम रेड्डी के समर्थन की अपील की",
+    "p": "एचएमटीवी के अनुसार, वरंगल–खम्मम–नलगोंडा स्नातक एमएलसी सीट के कांग्रेस उम्मीदवार रामरेड्डी सर्वोत्तम रेड्डी ने मंगलवार को कोत्तागुडेम के सिंगरेणी अतिथि गृह में सीपीआई राज्य सचिव और विधायक कूनमनेनी सांबशिव राव से मुलाकात की। कूनमनेनी ने सीपीआई और कांग्रेस कार्यकर्ताओं से मिलकर उनकी जीत के लिए काम करने की अपील की। उन्होंने कहा कि विधानमंडल में बेरोजगार और शिक्षित युवाओं की समस्याओं पर मजबूत आवाज चाहिए।",
+    "pts": [
+     "कांग्रेस उम्मीदवार सर्वोत्तम रेड्डी कूनमनेनी से मिले",
+     "सीपीआई, कांग्रेस कार्यकर्ताओं से मिलकर काम की अपील",
+     "स्नातकों से पहली वरीयता वोट सोच-समझकर देने को कहा"
+    ],
+    "why": "यह तीन जिलों के स्नातक मतदाताओं को इस चुनाव में दलों के गठबंधन की जानकारी देता है।",
+    "cat": "कोत्तागुडेम · चुनाव",
+    "statl": "वरंगल–खम्मम–नलगोंडा स्नातक सीट"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
   {
    "cat": "ఏపీ · పెట్టుబడులు",
    "col": "--c-money",
@@ -2163,358 +2362,6 @@
    },
    "d": "10.11.2026",
    "t": "17:35"
-  },
-  {
-   "cat": "సూర్యాపేట · ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "3",
-   "statl": "తీవ్ర గాయాలైన వారు",
-   "h": "పెన్‌పహాడ్ మండలంలో రెండు బైకులు ఢీ: ముగ్గురికి తీవ్ర గాయాలు",
-   "p": "సూర్యాపేట జిల్లా పెన్‌పహాడ్ మండలం అనంతారం గ్రామ శివారులో ఒక రైస్ మిల్లు సమీపంలో సోమవారం రాత్రి రెండు బైకులు ఎదురెదురుగా ఢీకొన్నాయి. ఈ ప్రమాదంలో ముగ్గురికి తీవ్ర గాయాలయ్యాయని నమస్తే తెలంగాణ కథనం. గాయపడిన వారిలో విధులు ముగించుకుని ఇంటికి వెళ్తున్న ఒక ఆర్టీసీ కండక్టర్ ఉన్నారు. స్థానికులు క్షతగాత్రులను సూర్యాపేట జనరల్ ఆస్పత్రికి తరలించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/suryapet-penpahad-two-bikes-collision-three-injured-2556626",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "suryapet",
-   "loc": "అనంతారం",
-   "pts": [
-    "అనంతారం శివారులో రెండు బైకులు ఎదురెదురుగా ఢీ",
-    "ముగ్గురికి తీవ్ర గాయాలు",
-    "సూర్యాపేట జనరల్ ఆస్పత్రికి తరలింపు"
-   ],
-   "why": "రాత్రి వేళల్లో గ్రామీణ రోడ్లపై ద్విచక్ర వాహనదారులు జాగ్రత్తగా ఉండాల్సిన అవసరాన్ని గుర్తు చేస్తుంది.",
-   "pub": "2026-11-10T09:59+05:30",
-   "en": {
-    "h": "Two bikes collide in Penpahad mandal; three seriously injured",
-    "p": "Two bikes collided head-on near a rice mill on the outskirts of Anantharam village in Penpahad mandal, Suryapet district, on Monday night. Three people were seriously injured, according to Namasthe Telangana. The injured include an RTC conductor who was returning home after duty. Locals shifted the injured to Suryapet General Hospital.",
-    "pts": [
-     "Two bikes collide head-on near Anantharam",
-     "Three seriously injured",
-     "Shifted to Suryapet General Hospital"
-    ],
-    "why": "It is a reminder for two-wheeler riders to be careful on rural roads at night.",
-    "cat": "Suryapet · Accident",
-    "statl": "Seriously injured"
-   },
-   "hi": {
-    "h": "पेनपहाड़ मंडल में दो बाइकों की टक्कर: तीन गंभीर घायल",
-    "p": "सूर्यापेट जिले के पेनपहाड़ मंडल में अनंतारम गांव के बाहरी इलाके में एक राइस मिल के पास सोमवार रात दो बाइकें आमने-सामने टकरा गईं। नमस्ते तेलंगाना के अनुसार हादसे में तीन लोग गंभीर रूप से घायल हुए। घायलों में ड्यूटी के बाद घर लौट रहा एक आरटीसी कंडक्टर भी है। स्थानीय लोगों ने घायलों को सूर्यापेट जनरल अस्पताल पहुंचाया।",
-    "pts": [
-     "अनंतारम के पास दो बाइकें आमने-सामने टकराईं",
-     "तीन लोग गंभीर घायल",
-     "सूर्यापेट जनरल अस्पताल ले जाया गया"
-    ],
-    "why": "यह रात में ग्रामीण सड़कों पर दोपहिया चालकों को सावधान रहने की याद दिलाता है।",
-    "cat": "सूर्यापेट · हादसा",
-    "statl": "गंभीर रूप से घायल"
-   },
-   "d": "10.11.2026",
-   "t": "17:35"
-  },
-  {
-   "cat": "నిజామాబాద్ · ఉద్యోగులు",
-   "col": "--c-gov",
-   "art": "deadline",
-   "stat": "డిసెం. 15",
-   "statl": "నుంచి ఆశాల రాష్ట్రవ్యాప్త సమ్మె",
-   "h": "డిసెంబర్ 15 నుంచి ఆశా కార్యకర్తల సమ్మె: సీఐటీయూ నోటీసు",
-   "p": "ఆశా వర్కర్ల సమస్యల పరిష్కారం కోరుతూ తెలంగాణ ఆశా వర్కర్స్ యూనియన్ (సీఐటీయూ) నిజామాబాద్ జిల్లా కమిటీ మంగళవారం జిల్లా వైద్య, ఆరోగ్య శాఖ కార్యాలయంలో సమ్మె నోటీసు అందజేసింది. 20 ఏళ్లుగా పనిచేస్తున్నా రూ.9,900 స్థిర వేతనమే వస్తోందని, ఇచ్చిన హామీలు అమలు కాలేదని సీఐటీయూ నేత ఎ. రమేశ్ బాబు అన్నారు. నెలకు రూ.18,000 వేతనం, పీఎఫ్, ఈఎస్‌ఐ, ఉద్యోగ భద్రత కోరుతూ డిసెంబర్ 15 నుంచి రాష్ట్రవ్యాప్త సమ్మె చేస్తామని, ప్రభుత్వం చర్చలు జరపాలని కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nizamabad/strike-from-december-15-to-solve-the-problems-of-asha-workers-citu-2556773",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "nizamabad",
-   "pts": [
-    "ప్రస్తుత స్థిర వేతనం రూ.9,900 మాత్రమే",
-    "నెలకు రూ.18,000, పీఎఫ్, ఈఎస్‌ఐ డిమాండ్",
-    "డిసెంబర్ 15 నుంచి రాష్ట్రవ్యాప్త సమ్మె"
-   ],
-   "why": "రాష్ట్రంలోని ఆశా కార్యకర్తల వేతనాలు, ఉద్యోగ భద్రతకు సంబంధించిన అంశం ఇది.",
-   "d": "10.11.2026",
-   "t": "17:05",
-   "pub": "2026-11-10T15:51+05:30",
-   "en": {
-    "h": "ASHA workers to strike from December 15: CITU serves notice",
-    "p": "The Telangana ASHA Workers Union (CITU) Nizamabad district committee on Tuesday served a strike notice at the District Medical and Health Office. CITU leader A. Ramesh Babu said ASHA workers still get a fixed pay of Rs 9,900 despite working for 20 years, and promises made to them remain unfulfilled. Demanding Rs 18,000 monthly pay, PF, ESI and job security, they will go on a statewide strike from December 15, and asked the government to hold talks.",
-    "pts": [
-     "Current fixed pay only Rs 9,900",
-     "Demand for Rs 18,000 a month, PF and ESI",
-     "Statewide strike from December 15"
-    ],
-    "why": "This concerns the pay and job security of ASHA workers across the state.",
-    "cat": "Nizamabad · Employees",
-    "statl": "Statewide ASHA strike from"
-   },
-   "hi": {
-    "h": "15 दिसंबर से आशा कार्यकर्ताओं की हड़ताल: सीटू ने नोटिस दिया",
-    "p": "तेलंगाना आशा वर्कर्स यूनियन (सीटू) की निजामाबाद जिला समिति ने मंगलवार को जिला चिकित्सा एवं स्वास्थ्य कार्यालय में हड़ताल का नोटिस दिया। सीटू नेता ए. रमेश बाबू ने कहा कि 20 साल से काम करने के बावजूद आशा कार्यकर्ताओं को केवल 9,900 रुपये का निश्चित वेतन मिलता है और उनसे किए वादे पूरे नहीं हुए। 18,000 रुपये मासिक वेतन, पीएफ, ईएसआई और नौकरी की सुरक्षा की मांग को लेकर वे 15 दिसंबर से राज्यव्यापी हड़ताल करेंगे और सरकार से बातचीत की अपील की।",
-    "pts": [
-     "वर्तमान निश्चित वेतन केवल 9,900 रुपये",
-     "18,000 रुपये मासिक, पीएफ और ईएसआई की मांग",
-     "15 दिसंबर से राज्यव्यापी हड़ताल"
-    ],
-    "why": "यह राज्य की आशा कार्यकर्ताओं के वेतन और नौकरी की सुरक्षा से जुड़ा मुद्दा है।",
-    "cat": "निजामाबाद · कर्मचारी",
-    "statl": "से आशा की राज्यव्यापी हड़ताल"
-   }
-  },
-  {
-   "cat": "నల్గొండ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹50,000",
-   "statl": "పత్తికి ఎకరాకు పరిహారం డిమాండ్",
-   "h": "నల్గొండ మండలాలన్నింటినీ కరువు ప్రాంతాలుగా ప్రకటించాలి: సీపీఐ",
-   "p": "చండూరు తహసీల్దార్ కార్యాలయం ఎదుట మంగళవారం సీపీఐ ధర్నా నిర్వహించింది. ఎల్‌నినో కరువును జాతీయ విపత్తుగా ప్రకటించాలని సీపీఐ జిల్లా కార్యదర్శి, ఎమ్మెల్సీ నెల్లికంటి సత్యం డిమాండ్ చేశారు. పత్తికి ఎకరాకు రూ.50,000, వరికి రూ.30,000 పరిహారం, పంట రుణాల రీషెడ్యూల్, వడ్డీ మాఫీ, ఉపాధి హామీ పని దినాలను 200కు పెంచాలని కోరారు. పంటలు ఎండిపోయాయని, గ్రామాల్లో సాగు, తాగునీటి కొరత ఉందని ఆయన అన్నారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nalgonda/drought-relief-measures-must-be-undertaken-immediately-2-2556782",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "చండూరు",
-   "pts": [
-    "జిల్లా మండలాలన్నీ కరువు ప్రాంతాలుగా ప్రకటించాలని డిమాండ్",
-    "పత్తికి ₹50 వేలు, వరికి ₹30 వేలు పరిహారం కోరిక",
-    "మునుగోడుకు డిండి ప్రాజెక్టు పూర్తి చేయాలని విజ్ఞప్తి"
-   ],
-   "why": "కరువుతో పంటలు నష్టపోయిన నల్గొండ జిల్లా రైతులకు సంబంధించిన డిమాండ్లు ఇవి.",
-   "d": "10.11.2026",
-   "t": "17:05",
-   "pub": "2026-11-10T15:52+05:30",
-   "en": {
-    "h": "Declare all Nalgonda mandals drought-hit: CPI",
-    "p": "The CPI staged a dharna in front of the Chandur tahsildar office on Tuesday. CPI district secretary and MLC Nellikanti Satyam demanded that the El Nino drought be declared a national disaster. He sought compensation of Rs 50,000 per acre for cotton and Rs 30,000 for paddy, rescheduling of crop loans with interest waiver, and raising MGNREGA workdays to 200. He said crops had dried up and villages face irrigation and drinking water shortages.",
-    "pts": [
-     "Demand to declare all district mandals drought-hit",
-     "Rs 50,000 for cotton, Rs 30,000 for paddy sought",
-     "Appeal to complete Dindi project for Munugode"
-    ],
-    "why": "These demands concern Nalgonda district farmers whose crops were hit by drought.",
-    "cat": "Nalgonda · Agriculture",
-    "statl": "Per-acre compensation sought for cotton"
-   },
-   "hi": {
-    "h": "नलगोंडा के सभी मंडलों को सूखाग्रस्त घोषित करें: भाकपा",
-    "p": "भाकपा ने मंगलवार को चंडूर तहसीलदार कार्यालय के सामने धरना दिया। भाकपा जिला सचिव और एमएलसी नेल्लिकंटि सत्यम ने अल नीनो सूखे को राष्ट्रीय आपदा घोषित करने की मांग की। उन्होंने कपास के लिए प्रति एकड़ 50,000 रुपये और धान के लिए 30,000 रुपये मुआवजा, फसल ऋणों का पुनर्निर्धारण व ब्याज माफी और मनरेगा कार्य दिवस 200 करने की मांग की। उन्होंने कहा कि फसलें सूख गई हैं और गांवों में सिंचाई व पेयजल की कमी है।",
-    "pts": [
-     "जिले के सभी मंडल सूखाग्रस्त घोषित करने की मांग",
-     "कपास के लिए 50 हजार, धान के लिए 30 हजार मुआवजा",
-     "मुनुगोडु के लिए डिंडी परियोजना पूरी करने की अपील"
-    ],
-    "why": "ये मांगें सूखे से फसल गंवाने वाले नलगोंडा जिले के किसानों से जुड़ी हैं।",
-    "cat": "नलगोंडा · कृषि",
-    "statl": "कपास के लिए प्रति एकड़ मुआवजे की मांग"
-   }
-  },
-  {
-   "cat": "భద్రాద్రి · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "2 → 4",
-   "statl": "పోలింగ్ కేంద్రాల పెంపు కోరిక",
-   "h": "బూర్గంపహాడ్‌లో ఎమ్మెల్సీ పోలింగ్ కేంద్రాలు పెంచాలని అఖిలపక్ష తీర్మానం",
-   "p": "ఎమ్మెల్సీ ఎన్నికల పోలింగ్ కేంద్రాల పెంపుపై బూర్గంపహాడ్ తహసీల్దార్ కేఆర్‌కే ప్రసాద్ మంగళవారం తహసీల్దార్ కార్యాలయంలో అఖిలపక్ష నాయకులతో సమావేశం నిర్వహించారు. మండలంలో ప్రస్తుతం రెండు పోలింగ్ కేంద్రాలే ఉన్నాయని, మరో రెండు ఏర్పాటు చేయాలని నేతలు తీర్మానం అందజేశారు. ఈ తీర్మానాన్ని ఉన్నతాధికారులకు పంపి, కేంద్రాల పెంపునకు కృషి చేస్తామని తహసీల్దార్ తెలిపారు. బీఆర్ఎస్, సీపీఎం, సీపీఐ, కాంగ్రెస్, బీజేపీ, టీడీపీ నేతలు పాల్గొన్నారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/all-party-resolution-to-increase-the-number-of-polling-stations-2556772",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "బూర్గంపహాడ్",
-   "pts": [
-    "మండలంలో ప్రస్తుతం రెండు పోలింగ్ కేంద్రాలు",
-    "మరో రెండు కావాలని అఖిలపక్ష తీర్మానం",
-    "ఉన్నతాధికారులకు పంపుతామన్న తహసీల్దార్"
-   ],
-   "why": "ఎమ్మెల్సీ ఎన్నికల్లో బూర్గంపహాడ్ మండల ఓటర్లు ఓటు వేసే సౌలభ్యానికి సంబంధించిన అంశం.",
-   "d": "10.11.2026",
-   "t": "17:05",
-   "pub": "2026-11-10T15:41+05:30",
-   "en": {
-    "h": "All-party resolution seeks more MLC polling stations in Burgampahad",
-    "p": "Burgampahad Tahsildar KRK Prasad held a meeting with all-party leaders at the tahsildar office on Tuesday on increasing polling stations for the MLC elections. The leaders said the mandal has only two polling stations and submitted a resolution seeking two more. The tahsildar said he would send the resolution to higher officials and work to increase the polling stations. Leaders of BRS, CPM, CPI, Congress, BJP and TDP attended.",
-    "pts": [
-     "Mandal currently has two polling stations",
-     "All-party resolution seeks two more",
-     "Tahsildar to forward it to higher officials"
-    ],
-    "why": "This concerns how easily Burgampahad mandal voters can cast their votes in the MLC elections.",
-    "cat": "Bhadradri · Elections",
-    "statl": "More polling stations sought"
-   },
-   "hi": {
-    "h": "बुर्गमपहाड़ में एमएलसी मतदान केंद्र बढ़ाने के लिए सर्वदलीय प्रस्ताव",
-    "p": "बुर्गमपहाड़ के तहसीलदार केआरके प्रसाद ने मंगलवार को तहसीलदार कार्यालय में एमएलसी चुनाव के मतदान केंद्र बढ़ाने पर सर्वदलीय नेताओं के साथ बैठक की। नेताओं ने कहा कि मंडल में अभी केवल दो मतदान केंद्र हैं और दो और बनाने का प्रस्ताव सौंपा। तहसीलदार ने कहा कि वे प्रस्ताव उच्च अधिकारियों को भेजेंगे और केंद्र बढ़ाने का प्रयास करेंगे। बीआरएस, माकपा, भाकपा, कांग्रेस, भाजपा और टीडीपी के नेता मौजूद रहे।",
-    "pts": [
-     "मंडल में अभी दो मतदान केंद्र",
-     "दो और केंद्रों के लिए सर्वदलीय प्रस्ताव",
-     "तहसीलदार उच्च अधिकारियों को भेजेंगे"
-    ],
-    "why": "यह एमएलसी चुनाव में बुर्गमपहाड़ मंडल के मतदाताओं की सुविधा से जुड़ा मुद्दा है।",
-    "cat": "भद्राद्री · चुनाव",
-    "statl": "मतदान केंद्र बढ़ाने की मांग"
-   }
-  },
-  {
-   "cat": "నల్గొండ · ప్రవాసులు",
-   "col": "--c-power",
-   "art": "campus",
-   "stat": "నవం. 2",
-   "statl": "నుంచి బోస్టన్‌లో ఆచూకీ లేదు",
-   "h": "అమెరికాలోని బోస్టన్‌లో కనగల్ విద్యార్థిని అదృశ్యం; కుటుంబానికి కేటీఆర్ భరోసా",
-   "p": "నల్గొండ జిల్లా కనగల్ మండలానికి చెందిన ఓ విద్యార్థిని నవంబర్ 2 నుంచి అమెరికాలోని బోస్టన్‌లో కనిపించడం లేదని నమస్తే తెలంగాణ కథనం. బోస్టన్ యూనివర్సిటీలో చదువుతున్న ఆమె స్నేహితురాలి పుట్టినరోజు వేడుక నుంచి ఒంటరిగా బయటకు వెళ్లారని, స్నేహితులు వెతికినా, పోలీసులకు ఫిర్యాదు చేసినా ఆచూకీ దొరకలేదని పేర్కొంది. మాజీ ఎమ్మెల్యే కంచర్ల భూపాల్ రెడ్డి కుటుంబాన్ని పరామర్శించగా, బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ ఫోన్ చేసి అక్కడి పరిచయస్తులతో మాట్లాడతానని హామీ ఇచ్చారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nalgonda/ktr-assures-sreejas-family-members-2556721",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "కనగల్",
-   "pts": [
-    "నవంబర్ 2 నుంచి విద్యార్థిని ఆచూకీ లేదు",
-    "బోస్టన్ యూనివర్సిటీలో చదువుతున్న విద్యార్థిని",
-    "అక్కడి పరిచయస్తులతో మాట్లాడతానన్న కేటీఆర్"
-   ],
-   "why": "విదేశాల్లో చదువుతున్న తెలుగు విద్యార్థుల కుటుంబాల ఆందోళనకు సంబంధించిన వార్త ఇది.",
-   "d": "10.11.2026",
-   "t": "17:05",
-   "pub": "2026-11-10T15:01+05:30",
-   "en": {
-    "h": "Kanagal student missing in Boston, US; KTR assures family",
-    "p": "A student from Kanagal mandal in Nalgonda district has been missing in Boston, US, since November 2, Namasthe Telangana reported. The report said she studies at Boston University and left a friend's birthday celebration alone, and has not been traced despite searches by friends and a police complaint. After former MLA Kancharla Bhupal Reddy visited the family, BRS working president KTR called them and assured he would speak to his contacts there.",
-    "pts": [
-     "Student untraced since November 2",
-     "She studies at Boston University",
-     "KTR to speak to contacts there"
-    ],
-    "why": "This news concerns families of Telugu students studying abroad.",
-    "cat": "Nalgonda · NRI",
-    "statl": "Missing in Boston since"
-   },
-   "hi": {
-    "h": "अमेरिका के बोस्टन में कनगल की छात्रा लापता; केटीआर ने परिवार को भरोसा दिया",
-    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार नलगोंडा जिले के कनगल मंडल की एक छात्रा 2 नवंबर से अमेरिका के बोस्टन में लापता है। रिपोर्ट में कहा गया कि वह बोस्टन यूनिवर्सिटी में पढ़ती है और एक दोस्त के जन्मदिन समारोह से अकेले निकली थी; दोस्तों की तलाश और पुलिस शिकायत के बावजूद उसका पता नहीं चला। पूर्व विधायक कंचर्ला भूपाल रेड्डी के परिवार से मिलने के बाद बीआरएस कार्यकारी अध्यक्ष केटीआर ने फोन कर वहां अपने परिचितों से बात करने का आश्वासन दिया।",
-    "pts": [
-     "2 नवंबर से छात्रा का पता नहीं",
-     "बोस्टन यूनिवर्सिटी में पढ़ती है छात्रा",
-     "केटीआर वहां परिचितों से बात करेंगे"
-    ],
-    "why": "यह खबर विदेश में पढ़ रहे तेलुगु छात्रों के परिवारों की चिंता से जुड़ी है।",
-    "cat": "नलगोंडा · प्रवासी",
-    "statl": "से बोस्टन में लापता"
-   }
-  },
-  {
-   "cat": "భూపాలపల్లి · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "1 మండలం",
-   "statl": "కరువు జాబితాలో అని బీఆర్ఎస్ ఆరోపణ",
-   "h": "భూపాలపల్లిలో ఒక్క మండలమే కరువు జాబితాలో: గండ్ర ఆరోపణ",
-   "p": "సీఎం రేవంత్ రెడ్డి ప్రజలకు ఇచ్చిన హామీలు నెరవేర్చలేదని మాజీ ఎమ్మెల్యే గండ్ర వెంకటరమణారెడ్డి మంగళవారం భూపాలపల్లి బీఆర్ఎస్ జిల్లా కార్యాలయంలో విలేకరుల సమావేశంలో ఆరోపించారు. కరువు మండలాలు మంత్రుల నియోజకవర్గాల్లోనే ఉన్నాయా అని ప్రశ్నించారు. భూపాలపల్లి నియోజకవర్గంలో ఒక్క మండలాన్నే కరువు ప్రభావిత ప్రాంతంగా ప్రకటించడం సిగ్గుచేటని విమర్శించారు. ఈ ఆరోపణలపై ప్రభుత్వ స్పందన కథనంలో లేదు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/gandra-venkataramana-reddy-alleged-that-the-promises-made-by-revanth-reddy-are-not-being-implemented-2556738",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "bhupalpally",
-   "pts": [
-    "హామీలు నెరవేర్చలేదని సీఎంపై గండ్ర ఆరోపణ",
-    "భూపాలపల్లిలో ఒక్క మండలమే కరువు జాబితాలో అని విమర్శ",
-    "బీఆర్ఎస్ జిల్లా కార్యాలయంలో విలేకరుల సమావేశం"
-   ],
-   "why": "కరువు మండలాల ప్రకటన భూపాలపల్లి రైతులకు సంబంధించిన అంశం.",
-   "d": "10.11.2026",
-   "t": "17:05",
-   "pub": "2026-11-10T15:11+05:30",
-   "en": {
-    "h": "Only one Bhupalpally mandal on drought list: Gandra alleges",
-    "p": "Former MLA Gandra Venkataramana Reddy alleged at a press meet at the BRS district office in Bhupalpally on Tuesday that CM Revanth Reddy had not kept his promises to the people. He asked whether drought mandals exist only in ministers' constituencies. He criticised as shameful that only one mandal in the Bhupalpally constituency was declared drought-affected. The government's response to these allegations is not in the report.",
-    "pts": [
-     "Gandra alleges CM failed to keep promises",
-     "Criticises only one Bhupalpally mandal on drought list",
-     "Press meet at BRS district office"
-    ],
-    "why": "The declaration of drought mandals concerns farmers in Bhupalpally.",
-    "cat": "Bhupalpally · Politics",
-    "statl": "on drought list, BRS alleges"
-   },
-   "hi": {
-    "h": "भूपालपल्ली में केवल एक मंडल सूखा सूची में: गंड्रा का आरोप",
-    "p": "पूर्व विधायक गंड्रा वेंकटरमण रेड्डी ने मंगलवार को भूपालपल्ली में बीआरएस जिला कार्यालय में प्रेस वार्ता में आरोप लगाया कि मुख्यमंत्री रेवंत रेड्डी ने जनता से किए वादे पूरे नहीं किए। उन्होंने पूछा कि क्या सूखाग्रस्त मंडल केवल मंत्रियों के निर्वाचन क्षेत्रों में ही हैं। उन्होंने भूपालपल्ली निर्वाचन क्षेत्र में केवल एक मंडल को सूखा प्रभावित घोषित करने को शर्मनाक बताया। इन आरोपों पर सरकार की प्रतिक्रिया रिपोर्ट में नहीं है।",
-    "pts": [
-     "गंड्रा का आरोप, मुख्यमंत्री ने वादे पूरे नहीं किए",
-     "भूपालपल्ली में केवल एक मंडल सूखा सूची में होने की आलोचना",
-     "बीआरएस जिला कार्यालय में प्रेस वार्ता"
-    ],
-    "why": "सूखाग्रस्त मंडलों की घोषणा भूपालपल्ली के किसानों से जुड़ा मुद्दा है।",
-    "cat": "भूपालपल्ली · राजनीति",
-    "statl": "सूखा सूची में, बीआरएस का आरोप"
-   }
-  },
-  {
-   "cat": "సైబరాబాద్ · రోడ్డు భద్రత",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "NH-44",
-   "statl": "ప్రమాద ప్రాంతాల గుర్తింపు",
-   "h": "ఎన్‌హెచ్-44పై ప్రమాదకర ప్రాంతాల గుర్తింపునకు సైబరాబాద్ పోలీసుల సంయుక్త డ్రైవ్",
-   "p": "ఎన్‌హెచ్-44తో పాటు ప్రధాన రహదారులపై ప్రమాదాలు ఎక్కువగా జరిగే ప్రాంతాలను గుర్తించేందుకు సైబరాబాద్ పోలీసులు పలు శాఖలతో కలిసి సంయుక్త కార్యక్రమం ప్రారంభించారు. ట్రాఫిక్ పోలీసులు, ఎన్‌హెచ్‌ఏఐ, ఆర్ అండ్ బీ, రవాణా, వైద్య, రెవెన్యూ, మున్సిపల్ శాఖల అధికారులు రోడ్లపై మౌలిక సదుపాయాలు, సాంకేతిక లోపాలను పరిశీలిస్తున్నారు. అదనపు కలెక్టర్ (స్థానిక సంస్థలు) ఫైజాన్ అహ్మద్, సైబరాబాద్ ట్రాఫిక్ డీసీపీ-2 ఎస్. శేషాద్రి రెడ్డి క్షేత్రస్థాయిలో తనిఖీ చేశారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/cyberabad-police-agencies-launch-drive-to-identify-accident-black-spots-on-nh-44",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "సైబరాబాద్",
-   "pts": [
-    "పోలీసులు, ఎన్‌హెచ్‌ఏఐ సహా పలు శాఖల సంయుక్త కార్యక్రమం",
-    "ఎన్‌హెచ్-44, పూడూరు మార్గంలో క్షేత్రస్థాయి తనిఖీ",
-    "రోడ్ల మౌలిక, సాంకేతిక లోపాల పరిశీలన"
-   ],
-   "why": "ఈ హైవేపై రోజూ ప్రయాణించే వాహనదారుల భద్రతకు ఈ తనిఖీలు కీలకం.",
-   "d": "10.11.2026",
-   "t": "16:35",
-   "pub": "2026-11-10T16:15+05:30",
-   "en": {
-    "h": "Cyberabad Police launch joint drive to identify accident black spots on NH-44",
-    "p": "Cyberabad Police, together with several departments, have launched a joint exercise to identify accident-prone spots on NH-44 and other major roads. Officials from the traffic police, NHAI, R&B, transport, health, revenue and municipal departments are examining road infrastructure and technical faults. Additional Collector (Local Bodies) Faizan Ahmed and Cyberabad Traffic DCP-II S. Seshadri Reddy carried out a field inspection.",
-    "pts": [
-     "Joint exercise by police, NHAI and other departments",
-     "Field inspection on NH-44 and the Pudur route",
-     "Road infrastructure and technical faults being examined"
-    ],
-    "why": "These checks matter for the safety of motorists who travel this highway every day.",
-    "cat": "Cyberabad · Road Safety",
-    "statl": "Accident black spots"
-   },
-   "hi": {
-    "h": "NH-44 पर दुर्घटना संभावित स्थानों की पहचान के लिए साइबराबाद पुलिस का संयुक्त अभियान",
-    "p": "साइबराबाद पुलिस ने कई विभागों के साथ मिलकर NH-44 और अन्य प्रमुख सड़कों पर दुर्घटना संभावित स्थानों की पहचान के लिए संयुक्त अभियान शुरू किया है। ट्रैफिक पुलिस, NHAI, सड़क एवं भवन, परिवहन, स्वास्थ्य, राजस्व और नगर निगम विभागों के अधिकारी सड़क ढांचे और तकनीकी खामियों की जांच कर रहे हैं। अतिरिक्त कलेक्टर (स्थानीय निकाय) फैजान अहमद और साइबराबाद ट्रैफिक डीसीपी-2 एस. शेषाद्रि रेड्डी ने मौके पर निरीक्षण किया।",
-    "pts": [
-     "पुलिस, NHAI और कई विभागों का संयुक्त अभियान",
-     "NH-44 और पुडूर मार्ग पर मौके पर निरीक्षण",
-     "सड़क ढांचे व तकनीकी खामियों की जांच"
-    ],
-    "why": "रोज़ इस हाईवे से गुजरने वाले वाहन चालकों की सुरक्षा के लिए ये जांच अहम हैं।",
-    "cat": "साइबराबाद · सड़क सुरक्षा",
-    "statl": "दुर्घटना संभावित स्थान"
-   }
   },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",

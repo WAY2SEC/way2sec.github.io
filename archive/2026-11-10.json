@@ -1,8 +1,207 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 99,
+ "count": 103,
  "stories": [
+  {
+   "cat": "నల్గొండ · నేరం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "హత్య కేసు",
+   "statl": "నల్గొండ 1 టౌన్ పోలీస్ స్టేషన్‌లో నమోదు",
+   "h": "నల్గొండలో మహిళా హోంగార్డ్ హత్య: భర్తపై ఆరోపణ, పరారీలో నిందితుడు",
+   "p": "నల్గొండలోని నివాస క్వార్టర్స్‌లో మంగళవారం ఓ మహిళా హోంగార్డ్ హత్యకు గురయ్యారని, ఆమె భర్తే ఈ హత్య చేశాడని ఆరోపణ ఉందని పోలీసుల ప్రకారం పీటీఐ కథనం. కుటుంబ విషయాలపై దంపతుల మధ్య తరచూ గొడవలు జరిగేవని ప్రాథమిక విచారణలో తేలిందని అధికారి తెలిపారు. మృతురాలి సోదరుడి ఫిర్యాదుతో హత్య కేసు నమోదైంది. నిందితుడు పరారీలో ఉన్నాడు, పట్టుకునేందుకు బృందాలు ఏర్పాటు చేశారు.",
+   "src": "Deccan Chronicle (PTI)",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/woman-home-guard-murdered-by-husband-in-telangana-2003218",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pts": [
+    "భర్తే హత్య చేశాడని పోలీసుల ప్రకారం ఆరోపణ",
+    "సోదరుడి ఫిర్యాదుతో హత్య కేసు నమోదు",
+    "పరారీలో నిందితుడు, గాలింపు బృందాలు ఏర్పాటు"
+   ],
+   "why": "గృహ హింస తీవ్ర రూపం దాల్చుతున్న ఘటనలపై కుటుంబాలు, అధికారులు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-10T18:00+05:30",
+   "en": {
+    "h": "Woman Home Guard killed in Nalgonda; husband accused, absconding",
+    "p": "A woman Home Guard was killed at her residential quarters in Nalgonda on Tuesday, and her husband is accused of the murder, police said, according to PTI. A preliminary probe found the couple often quarrelled over family issues, an official said. A murder case was registered on a complaint by the deceased's brother. The accused is absconding and teams have been formed to arrest him.",
+    "pts": [
+     "Husband accused of the murder, police say",
+     "Murder case registered on brother's complaint",
+     "Accused absconding; search teams formed"
+    ],
+    "why": "It shows why families and authorities must stay alert when domestic disputes turn violent.",
+    "cat": "Nalgonda · Crime",
+    "statl": "Registered at Nalgonda 1 Town police station"
+   },
+   "hi": {
+    "h": "नलगोंडा में महिला होमगार्ड की हत्या: पति पर आरोप, फरार",
+    "p": "पीटीआई के अनुसार, पुलिस ने बताया कि मंगलवार को नलगोंडा में आवासीय क्वार्टर में एक महिला होमगार्ड की हत्या हुई और उनके पति पर हत्या का आरोप है। एक अधिकारी के अनुसार प्रारंभिक जांच में पता चला कि दंपती में पारिवारिक मुद्दों पर अक्सर झगड़े होते थे। मृतका के भाई की शिकायत पर हत्या का मामला दर्ज हुआ। आरोपी फरार है और उसे पकड़ने के लिए टीमें बनाई गई हैं।",
+    "pts": [
+     "पुलिस के अनुसार पति पर हत्या का आरोप",
+     "भाई की शिकायत पर हत्या का मामला दर्ज",
+     "आरोपी फरार, तलाश के लिए टीमें गठित"
+    ],
+    "why": "यह दिखाता है कि घरेलू झगड़े हिंसक होने पर परिवारों और अधिकारियों को सतर्क रहना चाहिए।",
+    "cat": "नलगोंडा · अपराध",
+    "statl": "नलगोंडा 1 टाउन थाने में दर्ज"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "భారత్ · బంగారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,46,400",
+   "statl": "ఢిల్లీలో 10 గ్రాముల బంగారం ధర",
+   "h": "బంగారం ధర ₹500 తగ్గింది: ఢిల్లీలో 10 గ్రాములు ₹1,46,400",
+   "p": "దేశ రాజధానిలో మంగళవారం బంగారం ధర ₹500 తగ్గి 10 గ్రాములకు ₹1,46,400కి చేరిందని పీటీఐ కథనం. సోమవారం ఇది ₹1,46,900. వెండి కిలో ₹1,92,500 వద్ద స్థిరంగా ఉంది. అంతర్జాతీయంగా బంగారం బలహీనపడటం, డాలర్ స్థిరంగా ఉండటం కారణమని వ్యాపారులు తెలిపారు. అంతర్జాతీయ మార్కెట్లో ఔన్స్ బంగారం సుమారు 1% తగ్గి 4,113.55 డాలర్లకు చేరింది.",
+   "src": "PTI (ThePrint)",
+   "url": "https://theprint.in/economy/gold-falls-rs-500-per-10-gm-as-firm-us-dollar-weak-global-cues-weigh-on-investor-sentiment/3095252/",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "10 గ్రాముల బంగారం ₹1,46,400, ₹500 తగ్గుదల",
+    "వెండి కిలో ₹1,92,500 వద్ద స్థిరం",
+    "అంతర్జాతీయ ధర ఔన్స్‌కు 4,113.55 డాలర్లు"
+   ],
+   "why": "పెళ్లిళ్లు, పండుగల కోసం బంగారం కొనాలనుకునే కుటుంబాలకు ధరల మార్పు ముఖ్యం.",
+   "pub": "2026-11-10T17:48+05:30",
+   "en": {
+    "h": "Gold falls Rs 500; 10 grams at Rs 1,46,400 in Delhi",
+    "p": "Gold fell Rs 500 to Rs 1,46,400 per 10 grams in the national capital on Tuesday, PTI reported. It was Rs 1,46,900 on Monday. Silver held steady at Rs 1,92,500 per kg. Traders cited weak international bullion and a steady US dollar. In global markets, spot gold fell about 1% to $4,113.55 an ounce.",
+    "pts": [
+     "10 grams of gold at Rs 1,46,400, down Rs 500",
+     "Silver steady at Rs 1,92,500 per kg",
+     "Global price at $4,113.55 an ounce"
+    ],
+    "why": "Price changes matter to families planning to buy gold for weddings and festivals.",
+    "cat": "India · Gold",
+    "statl": "Price of 10 grams of gold in Delhi"
+   },
+   "hi": {
+    "h": "सोना ₹500 सस्ता: दिल्ली में 10 ग्राम ₹1,46,400",
+    "p": "पीटीआई के अनुसार, राष्ट्रीय राजधानी में मंगलवार को सोना ₹500 गिरकर ₹1,46,400 प्रति 10 ग्राम पर आ गया। सोमवार को यह ₹1,46,900 था। चांदी ₹1,92,500 प्रति किलो पर स्थिर रही। व्यापारियों ने कमजोर अंतरराष्ट्रीय भाव और स्थिर अमेरिकी डॉलर को कारण बताया। अंतरराष्ट्रीय बाजार में सोना करीब 1% गिरकर 4,113.55 डॉलर प्रति औंस पर रहा।",
+    "pts": [
+     "10 ग्राम सोना ₹1,46,400, ₹500 की गिरावट",
+     "चांदी ₹1,92,500 प्रति किलो पर स्थिर",
+     "अंतरराष्ट्रीय भाव 4,113.55 डॉलर प्रति औंस"
+    ],
+    "why": "शादी और त्योहारों के लिए सोना खरीदने वाले परिवारों के लिए कीमत में बदलाव अहम है।",
+    "cat": "भारत · सोना",
+    "statl": "दिल्ली में 10 ग्राम सोने का भाव"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "భారత్ · విదేశాంగం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "రష్యా–ఉక్రెయిన్",
+   "statl": "రెండు దేశాలతో భారత్ సంప్రదింపులు",
+   "h": "రష్యా, ఉక్రెయిన్ రెండింటితోనూ సంప్రదింపులు జరుపుతున్నాం: భారత్",
+   "p": "నల్ల సముద్రంలో నౌకల భద్రత, ధాన్యం, ఇంధన ఎగుమతులు వంటి అంశాలపై రష్యా, ఉక్రెయిన్ రెండింటితోనూ భారత్ చర్చిస్తోందని విదేశాంగ శాఖ ప్రతినిధి రణధీర్ జైస్వాల్ మంగళవారం తెలిపారని పీటీఐ కథనం. ప్రధాని మోదీ సోమవారం ఉక్రెయిన్ అధ్యక్షుడు జెలెన్‌స్కీతో ఫోన్‌లో మాట్లాడారు. యూఏఈలో రష్యా, ఉక్రెయిన్, అమెరికా త్రైపాక్షిక చర్చలు ప్రారంభమైన సమయంలో ఈ వ్యాఖ్యలు వచ్చాయి.",
+   "src": "PTI (ThePrint)",
+   "url": "https://theprint.in/india/ukraine-conflict-india-says-it-is-engaged-with-both-moscow-kyiv/3095316/",
+   "sec": [
+    "india",
+    "world"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "నల్ల సముద్రం నౌకల భద్రత, ధాన్యం ఎగుమతులపై చర్చలు",
+    "సోమవారం జెలెన్‌స్కీతో మోదీ ఫోన్ సంభాషణ",
+    "యూఏఈలో త్రైపాక్షిక చర్చలు ప్రారంభం"
+   ],
+   "why": "ధాన్యం, ఇంధన సరఫరాపై ప్రభావం చూపే ఈ యుద్ధంలో భారత్ పాత్ర దేశ ప్రజలకు ముఖ్యం.",
+   "pub": "2026-11-10T18:45+05:30",
+   "en": {
+    "h": "India says it is engaging both Russia and Ukraine",
+    "p": "India is discussing issues such as Black Sea shipping safety and grain and energy exports with both Russia and Ukraine, External Affairs Ministry spokesperson Randhir Jaiswal said on Tuesday, according to PTI. Prime Minister Modi spoke to Ukrainian President Zelenskyy by phone on Monday. The remarks came as three-way talks among Russia, Ukraine and the US opened in the UAE.",
+    "pts": [
+     "Talks on Black Sea shipping safety, grain exports",
+     "Modi spoke to Zelenskyy by phone on Monday",
+     "Three-way talks open in the UAE"
+    ],
+    "why": "India's role in a war that affects grain and energy supplies matters to people in the country.",
+    "cat": "India · External Affairs",
+    "statl": "India in talks with both countries"
+   },
+   "hi": {
+    "h": "रूस और यूक्रेन दोनों से संपर्क में है भारत",
+    "p": "पीटीआई के अनुसार, विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने मंगलवार को कहा कि भारत काला सागर में जहाजों की सुरक्षा, अनाज और ऊर्जा निर्यात जैसे मुद्दों पर रूस और यूक्रेन दोनों से बात कर रहा है। प्रधानमंत्री मोदी ने सोमवार को यूक्रेन के राष्ट्रपति ज़ेलेंस्की से फोन पर बात की थी। यह टिप्पणी ऐसे समय आई जब यूएई में रूस, यूक्रेन और अमेरिका की त्रिपक्षीय वार्ता शुरू हुई।",
+    "pts": [
+     "काला सागर जहाज सुरक्षा, अनाज निर्यात पर बातचीत",
+     "सोमवार को मोदी की ज़ेलेंस्की से फोन पर बात",
+     "यूएई में त्रिपक्षीय वार्ता शुरू"
+    ],
+    "why": "अनाज और ऊर्जा आपूर्ति पर असर डालने वाले इस युद्ध में भारत की भूमिका देश के लोगों के लिए अहम है।",
+    "cat": "भारत · विदेश मामले",
+    "statl": "दोनों देशों से भारत की बातचीत"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "కొత్తగూడెం · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "ఎమ్మెల్సీ",
+   "statl": "వరంగల్–ఖమ్మం–నల్గొండ పట్టభద్రుల స్థానం",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ: సర్వోత్తమ రెడ్డికి మద్దతుగా పని చేయాలన్న కూనంనేని",
+   "p": "వరంగల్–ఖమ్మం–నల్గొండ పట్టభద్రుల ఎమ్మెల్సీ స్థానానికి కాంగ్రెస్ అభ్యర్థి రామ్‌రెడ్డి సర్వోత్తమ రెడ్డి మంగళవారం కొత్తగూడెం సింగరేణి అతిథి గృహంలో సీపీఐ రాష్ట్ర కార్యదర్శి, ఎమ్మెల్యే కూనంనేని సాంబశివరావును కలిశారని హెచ్ఎంటీవీ కథనం. ఆయన విజయానికి సీపీఐ, కాంగ్రెస్ కార్యకర్తలు కలిసి పని చేయాలని కూనంనేని పిలుపునిచ్చారు. నిరుద్యోగ, విద్యావంతుల సమస్యలపై చట్టసభలో బలమైన గొంతు కావాలన్నారు.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/khammam/work-unitedly-for-sarvothama-reddys-win-cpi-state-secretary-kunamneni-211377",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "కొత్తగూడెం",
+   "pts": [
+    "కూనంనేనిని కలిసిన కాంగ్రెస్ అభ్యర్థి సర్వోత్తమ రెడ్డి",
+    "సీపీఐ, కాంగ్రెస్ కార్యకర్తలు కలిసి పనిచేయాలని పిలుపు",
+    "మొదటి ప్రాధాన్య ఓటు సరిగ్గా వేయాలని సూచన"
+   ],
+   "why": "మూడు జిల్లాల పట్టభద్రుల ఓటర్లకు ఈ ఎన్నికలో పార్టీల పొత్తు సమాచారం ఇది.",
+   "pub": "2026-11-10T20:02+05:30",
+   "en": {
+    "h": "Graduates' MLC poll: Kunamneni urges support for Sarvothama Reddy",
+    "p": "Congress candidate Ramreddy Sarvothama Reddy for the Warangal–Khammam–Nalgonda graduates' MLC seat met CPI state secretary and MLA Kunamneni Sambasiva Rao at the Singareni guest house in Kothagudem on Tuesday, HMTV reported. Kunamneni called on CPI and Congress workers to work together for his win. He said the legislature needs a strong voice on the problems of the unemployed and educated youth.",
+    "pts": [
+     "Congress candidate Sarvothama Reddy meets Kunamneni",
+     "CPI, Congress workers urged to work together",
+     "Graduates asked to use first-preference vote well"
+    ],
+    "why": "It tells graduate voters in three districts about party alliances in this election.",
+    "cat": "Kothagudem · Elections",
+    "statl": "Warangal–Khammam–Nalgonda graduates' seat"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी चुनाव: कूनमनेनी ने सर्वोत्तम रेड्डी के समर्थन की अपील की",
+    "p": "एचएमटीवी के अनुसार, वरंगल–खम्मम–नलगोंडा स्नातक एमएलसी सीट के कांग्रेस उम्मीदवार रामरेड्डी सर्वोत्तम रेड्डी ने मंगलवार को कोत्तागुडेम के सिंगरेणी अतिथि गृह में सीपीआई राज्य सचिव और विधायक कूनमनेनी सांबशिव राव से मुलाकात की। कूनमनेनी ने सीपीआई और कांग्रेस कार्यकर्ताओं से मिलकर उनकी जीत के लिए काम करने की अपील की। उन्होंने कहा कि विधानमंडल में बेरोजगार और शिक्षित युवाओं की समस्याओं पर मजबूत आवाज चाहिए।",
+    "pts": [
+     "कांग्रेस उम्मीदवार सर्वोत्तम रेड्डी कूनमनेनी से मिले",
+     "सीपीआई, कांग्रेस कार्यकर्ताओं से मिलकर काम की अपील",
+     "स्नातकों से पहली वरीयता वोट सोच-समझकर देने को कहा"
+    ],
+    "why": "यह तीन जिलों के स्नातक मतदाताओं को इस चुनाव में दलों के गठबंधन की जानकारी देता है।",
+    "cat": "कोत्तागुडेम · चुनाव",
+    "statl": "वरंगल–खम्मम–नलगोंडा स्नातक सीट"
+   },
+   "d": "10.11.2026",
+   "t": "23:05"
+  },
   {
    "cat": "ఏపీ · పెట్టుబడులు",
    "col": "--c-money",
