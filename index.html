@@ -1397,19 +1397,28 @@ async function moreNews(dir){
 
 /* ---------- load news ---------- */
 async function load(){
+  // Show the news saved on the phone at once, so a slow network never leaves a black screen (iPhone, 10 Nov 2026).
+  if(!load.shown){ const c=store.get('news',null);
+    if(c && c.stories && c.stories.length){ NEWS=c; WISHES=store.get('wishes',WISHES); renderTabs(); renderFeed(); load.shown=1; } }
+  const keep = load.shown && LIST && LIST[cur] ? keyOf(LIST[cur]) : null;
   try{
-    const r = await fetch(CONFIG.NEWS_URL+'?t='+Date.now(), {cache:'no-store'});
-    if(!r.ok) throw new Error(r.status);
-    NEWS = await r.json(); store.set('news', NEWS);
+    const ac = window.AbortController ? new AbortController() : null;
+    const tm = setTimeout(()=>{ if(ac) ac.abort(); }, 15000);
+    let r, j;
+    try{ r = await fetch(CONFIG.NEWS_URL+'?t='+Date.now(), {cache:'no-store', signal: ac?ac.signal:undefined});
+      if(!r.ok) throw new Error(r.status); j = await r.json(); } finally { clearTimeout(tm); }
+    NEWS = j; store.set('news', NEWS);
     BASE = NEWS.stories.slice();
-    // add the rest of today's stories (news.json holds only the newest 40)
-    await Promise.all([loadWishes(), (async()=>{ await loadDates(); if(DATES[0]) await fetchDay(DATES[0].iso); })()]);
+    // add the rest of today's stories (news.json holds only the newest 50); never wait more than 8 s for these
+    await timeout(Promise.all([loadWishes(), (async()=>{ await loadDates(); if(DATES[0]) await fetchDay(DATES[0].iso); })()]), 8000);
     mergeAll();
   }catch(e){
-    NEWS = store.get('news', NEWS); WISHES = store.get('wishes', WISHES);
+    if(!load.shown){ NEWS = store.get('news', NEWS); WISHES = store.get('wishes', WISHES); }
     if(NEWS.stories.length) toast('ఆఫ్‌లైన్ – పాత వార్తలు చూపిస్తున్నాం');
+    else toast('నెట్‌వర్క్ నెమ్మదిగా ఉంది – కొద్దిసేపట్లో మళ్లీ ప్రయత్నించండి');
   }
-  renderTabs(); renderFeed();
+  load.shown=1;
+  renderTabs(); renderFeed(keep||undefined);
   const q=new URLSearchParams(location.search), qd=q.get('d'), qs=q.get('s');
   if(qd && /^\d{4}-\d\d-\d\d$/.test(qd) && !load.done){ load.done=1; await showDay(qd, qs); }
   else if(q.has('jobs') && !load.done){ load.done=1; JUMP=qs; setView('jobs'); }
