@@ -1,8 +1,208 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 103,
+ "count": 107,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "7",
+   "statl": "షోకాజ్ నోటీసులు అందుకున్న సంతానోత్పత్తి కేంద్రాలు",
+   "h": "తెలంగాణలో 7 సంతానోత్పత్తి కేంద్రాలకు షోకాజ్ నోటీసులు",
+   "p": "రాష్ట్రవ్యాప్తంగా ఏఆర్‌టీ కేంద్రాల తనిఖీల్లో భాగంగా మంగళవారం ఏడు సంతానోత్పత్తి కేంద్రాలకు షోకాజ్ నోటీసులు ఇచ్చారని సియాసత్ కథనం. ఆరోగ్య శాఖ గుర్తించిన 44 కేంద్రాల్లో ఇప్పటివరకు 27 తనిఖీ చేశారు. ఏడు ఆసుపత్రుల్లో 13 తీవ్ర ఉల్లంఘనలు బయటపడ్డాయి. వైద్యులు, ఐవీఎఫ్ కేంద్రాలు, మధ్యవర్తుల పాత్రపై దర్యాప్తుకు ఆరోగ్య మంత్రి దామోదర రాజనర్సింహ ఆదేశించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/seven-fertility-centres-in-telangana-served-notices-3573652/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "44 ఏఆర్‌టీ కేంద్రాల్లో 27 తనిఖీ పూర్తి",
+    "ఏడు ఆసుపత్రుల్లో 13 తీవ్ర ఉల్లంఘనలు",
+    "వైద్యులు, మధ్యవర్తుల పాత్రపై దర్యాప్తుకు మంత్రి ఆదేశం"
+   ],
+   "why": "సంతాన చికిత్స కోసం ఐవీఎఫ్ కేంద్రాలను ఆశ్రయించే దంపతులకు ఈ తనిఖీలు ముఖ్యమైనవి.",
+   "pub": "2026-11-10T22:22+05:30",
+   "en": {
+    "h": "Seven fertility centres in Telangana served show-cause notices",
+    "p": "Seven fertility centres were served show-cause notices on Tuesday during a statewide inspection of ART centres, Siasat reported. Of the 44 centres identified by the health department, 27 have been checked so far. The checks found 13 gross violations in the seven hospitals. Health Minister Damodar Raja Narsimha ordered a probe into the role of doctors, IVF centres and intermediaries.",
+    "pts": [
+     "27 of 44 ART centres inspected so far",
+     "13 gross violations found in seven hospitals",
+     "Minister orders probe into doctors, intermediaries"
+    ],
+    "why": "The inspections matter for couples who turn to IVF centres for fertility treatment.",
+    "cat": "Telangana · Health",
+    "statl": "Fertility centres served show-cause notices"
+   },
+   "hi": {
+    "h": "तेलंगाना में 7 प्रजनन केंद्रों को कारण बताओ नोटिस",
+    "p": "सियासत के अनुसार, राज्यभर में एआरटी केंद्रों के निरीक्षण के दौरान मंगलवार को सात प्रजनन केंद्रों को कारण बताओ नोटिस दिए गए। स्वास्थ्य विभाग द्वारा चिह्नित 44 केंद्रों में से अब तक 27 की जांच हुई है। सात अस्पतालों में 13 गंभीर उल्लंघन मिले। स्वास्थ्य मंत्री दामोदर राजा नरसिम्हा ने डॉक्टरों, आईवीएफ केंद्रों और बिचौलियों की भूमिका की जांच के आदेश दिए।",
+    "pts": [
+     "44 में से 27 एआरटी केंद्रों की जांच पूरी",
+     "सात अस्पतालों में 13 गंभीर उल्लंघन",
+     "डॉक्टरों, बिचौलियों की भूमिका की जांच के आदेश"
+    ],
+    "why": "प्रजनन उपचार के लिए आईवीएफ केंद्रों पर निर्भर दंपतियों के लिए ये जांच अहम हैं।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "कारण बताओ नोटिस पाने वाले प्रजनन केंद्र"
+   },
+   "d": "10.11.2026",
+   "t": "23:35"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "deadline",
+   "stat": "720",
+   "statl": "ఏపీపీఎస్సీ గ్రూప్-2 పోస్టులు",
+   "h": "అప్‌డేట్: ఏపీపీఎస్సీ గ్రూప్-2 నోటిఫికేషన్ విడుదల, డిసెంబర్ 11 వరకు దరఖాస్తులు",
+   "p": "ఏపీపీఎస్సీ మంగళవారం గ్రూప్-2 సర్వీసుల కింద 720 పోస్టులకు నోటిఫికేషన్ ఇచ్చిందని డెక్కన్ క్రానికల్ కథనం. వీటిలో 471 ఎగ్జిక్యూటివ్, 249 నాన్-ఎగ్జిక్యూటివ్ పోస్టులు. నవంబర్ 10 నుంచి డిసెంబర్ 11 రాత్రి 11.59 వరకు psc.gov.in ద్వారా ఆన్‌లైన్‌లో దరఖాస్తు చేయవచ్చు. ఓఎంఆర్ ఆధారిత స్క్రీనింగ్ పరీక్ష 2027 ఫిబ్రవరి 21న జరుగుతుంది.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/appsc-issues-notification-for-720-group-ii-posts-2003285",
+   "sec": [
+    "jobs",
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "471 ఎగ్జిక్యూటివ్, 249 నాన్-ఎగ్జిక్యూటివ్ పోస్టులు",
+    "దరఖాస్తుకు చివరి తేదీ డిసెంబర్ 11",
+    "స్క్రీనింగ్ పరీక్ష 2027 ఫిబ్రవరి 21న"
+   ],
+   "why": "ఏపీలో ప్రభుత్వ ఉద్యోగాల కోసం సిద్ధమవుతున్న నిరుద్యోగ యువతకు ఇది కీలక అవకాశం.",
+   "pub": "2026-11-10T22:27+05:30",
+   "en": {
+    "h": "Update: APPSC issues Group-II notification; apply till December 11",
+    "p": "APPSC issued a notification on Tuesday for 720 posts under Group-II Services, Deccan Chronicle reported. Of these, 471 are executive and 249 non-executive posts. Candidates can apply online at psc.gov.in from November 10 to December 11, up to 11.59 pm. The OMR-based screening test will be held on February 21, 2027.",
+    "pts": [
+     "471 executive, 249 non-executive posts",
+     "Last date to apply is December 11",
+     "Screening test on February 21, 2027"
+    ],
+    "why": "It is a key opportunity for young job seekers preparing for government jobs in AP.",
+    "cat": "AP · Jobs",
+    "statl": "APPSC Group-II posts"
+   },
+   "hi": {
+    "h": "अपडेट: एपीपीएससी ग्रुप-2 अधिसूचना जारी, 11 दिसंबर तक आवेदन",
+    "p": "डेक्कन क्रॉनिकल के अनुसार, एपीपीएससी ने मंगलवार को ग्रुप-2 सेवाओं के तहत 720 पदों के लिए अधिसूचना जारी की। इनमें 471 कार्यकारी और 249 गैर-कार्यकारी पद हैं। उम्मीदवार 10 नवंबर से 11 दिसंबर रात 11.59 बजे तक psc.gov.in पर ऑनलाइन आवेदन कर सकते हैं। ओएमआर आधारित स्क्रीनिंग परीक्षा 21 फरवरी 2027 को होगी।",
+    "pts": [
+     "471 कार्यकारी, 249 गैर-कार्यकारी पद",
+     "आवेदन की अंतिम तिथि 11 दिसंबर",
+     "स्क्रीनिंग परीक्षा 21 फरवरी 2027 को"
+    ],
+    "why": "आंध्र प्रदेश में सरकारी नौकरी की तैयारी कर रहे युवाओं के लिए यह अहम मौका है।",
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "एपीपीएससी ग्रुप-2 पद"
+   },
+   "d": "10.11.2026",
+   "t": "23:35"
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "12/79",
+   "statl": "జర్మనీకి పంపినట్లు టామ్‌కామ్ ఆర్టీఐ సమాధానం",
+   "h": "జర్మనీ ఉద్యోగాలు: డబ్బు తిరిగివ్వాలని టామ్‌కామ్ జీఎంను నిలదీసిన అభ్యర్థులు",
+   "p": "జర్మనీ అప్రెంటిస్‌షిప్ ఉద్యోగాల విషయంలో మోసపోయామని ఆరోపిస్తూ సుమారు 20 మంది అభ్యర్థులు మంగళవారం టామ్‌కామ్ జనరల్ మేనేజర్‌ను కలిసి డబ్బు తిరిగివ్వాలని డిమాండ్ చేశారని సియాసత్ కథనం. ఓ మంత్రి వివరాలు అడిగారని, త్వరలో నివేదిక ఇస్తామని జీఎం చెప్పినట్లు సమాచారం. 79 మందిలో 12 మందిని జర్మనీకి పంపినట్లు టామ్‌కామ్ ఆర్టీఐ సమాధానంలో పేర్కొంది. శ్వేతపత్రం విడుదల చేయాలని బీఆర్ఎస్ కోరుతోంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/we-need-refund-tomcom-candidates-confront-gm-over-germany-jobs-3573444/",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మోసపోయామని సుమారు 20 మంది అభ్యర్థుల ఆరోపణ",
+    "మంత్రికి త్వరలో నివేదిక: జీఎం",
+    "షరతులతో రీఫండ్‌పై అధికారుల చర్చ: సియాసత్"
+   ],
+   "why": "విదేశీ ఉద్యోగాల కోసం ప్రభుత్వ సంస్థపై ఆధారపడిన యువత, అప్పులు చేసిన కుటుంబాలపై ఇది ప్రభావం చూపుతోంది.",
+   "pub": "2026-11-10T19:35+05:30",
+   "en": {
+    "h": "Germany jobs: candidates confront TOMCOM GM, demand refund",
+    "p": "About 20 candidates met the TOMCOM general manager on Tuesday demanding refunds, alleging they were cheated over German apprenticeship jobs, Siasat reported. The GM reportedly said a minister had sought details and a report would be submitted soon. TOMCOM's RTI reply said 12 of 79 candidates were sent to Germany. The BRS is seeking a white paper.",
+    "pts": [
+     "About 20 candidates allege they were cheated",
+     "Report to minister soon, says GM",
+     "Officials discussing conditional refunds: Siasat"
+    ],
+    "why": "It affects youth who relied on a government agency for overseas jobs and families who took loans.",
+    "cat": "Telangana · Jobs",
+    "statl": "Sent to Germany, per TOMCOM's RTI reply"
+   },
+   "hi": {
+    "h": "जर्मनी नौकरियां: उम्मीदवारों ने टॉमकॉम जीएम से पैसे वापसी मांगी",
+    "p": "सियासत के अनुसार, जर्मनी अप्रेंटिसशिप नौकरियों में ठगे जाने का आरोप लगाते हुए करीब 20 उम्मीदवारों ने मंगलवार को टॉमकॉम की महाप्रबंधक से मिलकर पैसे वापस करने की मांग की। बताया गया कि जीएम ने कहा कि एक मंत्री ने ब्योरा मांगा है और जल्द रिपोर्ट दी जाएगी। टॉमकॉम के आरटीआई जवाब के अनुसार 79 में से 12 उम्मीदवार जर्मनी भेजे गए। बीआरएस श्वेतपत्र की मांग कर रही है।",
+    "pts": [
+     "करीब 20 उम्मीदवारों का ठगी का आरोप",
+     "जीएम: मंत्री को जल्द रिपोर्ट",
+     "सियासत: शर्तों के साथ रिफंड पर चर्चा"
+    ],
+    "why": "यह विदेशी नौकरी के लिए सरकारी संस्था पर निर्भर युवाओं और कर्ज लेने वाले परिवारों को प्रभावित करता है।",
+    "cat": "तेलंगाना · नौकरियां",
+    "statl": "टॉमकॉम आरटीआई के अनुसार जर्मनी भेजे गए"
+   },
+   "d": "10.11.2026",
+   "t": "23:35"
+  },
+  {
+   "cat": "ఏపీ · అటవీ",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "23",
+   "statl": "రాష్ట్రంలో అటవీ అమరవీరులు",
+   "h": "రాజమహేంద్రవరం అటవీ అకాడమీలో అటవీ అమరవీరులకు నివాళి",
+   "p": "అటవీ అమరవీరుల దినోత్సవం సందర్భంగా రాజమహేంద్రవరంలోని ఏపీ రాష్ట్ర అటవీ అకాడమీ మంగళవారం నివాళులు అర్పించిందని డెక్కన్ క్రానికల్ కథనం. అధ్యాపకులు, సిబ్బంది, శిక్షణ అధికారులు అమరవీరుల స్మారక స్తూపం వద్ద పుష్పాంజలి ఘటించారు. అడవులు, వన్యప్రాణుల రక్షణకు అంకితభావంతో పనిచేయాలని అకాడమీ డైరెక్టర్ బి. విజయ్ కుమార్ పిలుపునిచ్చారు. రాష్ట్రంలో 23 మంది అటవీ అమరవీరులు ఉన్నారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-forest-academy-pays-tribute-to-mark-forest-martyrs-day-2003292",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "రాజమహేంద్రవరం",
+   "pts": [
+    "స్మారక స్తూపం వద్ద శిక్షణ అధికారుల పుష్పాంజలి",
+    "అటవీ రక్షణకు అంకితభావంతో పనిచేయాలని డైరెక్టర్ పిలుపు",
+    "రాష్ట్రంలో 23 మంది అటవీ అమరవీరులు"
+   ],
+   "why": "అడవులు, వన్యప్రాణుల రక్షణలో ప్రాణాలు కోల్పోయిన సిబ్బంది త్యాగాన్ని ఇది గుర్తుచేస్తుంది.",
+   "pub": "2026-11-10T22:40+05:30",
+   "en": {
+    "h": "Rajamahendravaram forest academy pays tribute to forest martyrs",
+    "p": "The AP State Forest Academy in Rajamahendravaram paid tribute to forest martyrs on Tuesday, Deccan Chronicle reported. Faculty, staff and trainee officers offered floral tributes at the Martyrs' Memorial Column. Academy director B. Vijay Kumar urged everyone to protect forests and wildlife with dedication. The state has 23 forest martyrs.",
+    "pts": [
+     "Trainee officers offer floral tributes at memorial",
+     "Director calls for dedicated forest protection",
+     "State has 23 forest martyrs"
+    ],
+    "why": "It recalls the sacrifice of staff who lost their lives protecting forests and wildlife.",
+    "cat": "AP · Forests",
+    "statl": "Forest martyrs in the state"
+   },
+   "hi": {
+    "h": "राजमहेंद्रवरम वन अकादमी में वन शहीदों को श्रद्धांजलि",
+    "p": "डेक्कन क्रॉनिकल के अनुसार, वन शहीद दिवस पर राजमहेंद्रवरम स्थित आंध्र प्रदेश राज्य वन अकादमी ने मंगलवार को श्रद्धांजलि दी। संकाय, कर्मचारियों और प्रशिक्षु अधिकारियों ने शहीद स्मारक स्तंभ पर पुष्पांजलि अर्पित की। अकादमी निदेशक बी. विजय कुमार ने वनों और वन्यजीवों की रक्षा समर्पण से करने का आह्वान किया। राज्य में 23 वन शहीद हैं।",
+    "pts": [
+     "प्रशिक्षु अधिकारियों ने स्मारक पर पुष्पांजलि दी",
+     "निदेशक का समर्पण से वन रक्षा का आह्वान",
+     "राज्य में 23 वन शहीद"
+    ],
+    "why": "यह वनों और वन्यजीवों की रक्षा में जान गंवाने वाले कर्मियों के बलिदान की याद दिलाता है।",
+    "cat": "आंध्र प्रदेश · वन",
+    "statl": "राज्य में वन शहीद"
+   },
+   "d": "10.11.2026",
+   "t": "23:35"
+  },
   {
    "cat": "నల్గొండ · నేరం",
    "col": "--c-power",
