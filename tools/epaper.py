@@ -73,6 +73,18 @@ def page_head(title, color, date_te, pno):
     return f'<header class="ph" style="--c:{color}"><span class="pt">{title}</span><span class="pm"><b>జనధ్వని</b> · {date_te} · పేజీ {pno}</span></header>'
 
 
+def quote_box(d, extra):
+    """Daily good word in the masthead's free corner: extra.json "quote" {t, a} wins, else tools/quotes.json by date."""
+    q = extra.get('quote')
+    if not q:
+        try: qs = json.load(open(os.path.join(ROOT, 'tools', 'quotes.json'), encoding='utf-8'))
+        except Exception: qs = []
+        q = qs[d.toordinal() % len(qs)] if qs else None
+    if not q: return '<span class="sp"></span>'
+    au = f'<i>– {e(q.get("a"))}</i>' if q.get('a') else ''
+    return f'<div class="qbox"><b>✨ నేటి మంచి మాట</b><p>“{e(q.get("t"))}”</p>{au}</div>'
+
+
 def build_html(iso, day, jobs, extra=None):
     extra = extra or {}
     d = datetime.date.fromisoformat(iso)
@@ -91,7 +103,7 @@ def build_html(iso, day, jobs, extra=None):
     pages.append(f'''<section class="page front">
  <div class="mast">
    <div class="mtop"><span>{wk}, {date_te}</span><span>సంపుటి 1 · సంచిక {issue}</span><span>హైదరాబాద్ · AI ఈ-పేపర్ · ఉచితం</span></div>
-   <div class="mname"><img class="mk" src="/epaper/mark.png" alt=""><img class="nm" src="/epaper/janadhwani-name.png" alt="జనధ్వని – ప్రజల గొంతుక… ప్రతి ఊరి పలుకు · A WAY2SEC Publication"><span class="sp"></span></div>
+   <div class="mname"><img class="mk" src="/epaper/mark.png" alt=""><img class="nm" src="/epaper/janadhwani-name.png" alt="జనధ్వని – ప్రజల గొంతుక… ప్రతి ఊరి పలుకు · A WAY2SEC Publication">{quote_box(d, extra)}</div>
    <div class="mbar"><span>📍 తెలంగాణ</span><span>ఆంధ్రప్రదేశ్</span><span>దేశం</span><span>ప్రపంచం</span><span>ఉద్యోగాలు</span><span class="r"></span></div>
  </div>
  <div class="fgrid">
@@ -178,7 +190,9 @@ html,body{{margin:0;background:#fff;color:#1A1410;-webkit-print-color-adjust:exa
 /* masthead */
 .mast{{border-bottom:2.4pt solid #12284A;margin-bottom:4mm}}
 .mtop{{display:flex;justify-content:space-between;font:700 7.6pt/1.4 W2Sans;color:#fff;background:#C8102E;padding:1.6mm 4mm;border-radius:1.2mm 1.2mm 0 0}}
-.mname{{display:grid;grid-template-columns:30mm 1fr 30mm;align-items:center;padding:3mm 0 2.5mm}}
+.mname{{display:grid;grid-template-columns:44mm 1fr 44mm;align-items:center;padding:3mm 0 2.5mm}}
+.qbox{{justify-self:end;width:44mm;background:#FFF8E6;border:.6pt solid #E8C77A;border-top:2pt solid #C8102E;border-radius:1.5mm;padding:2mm 2.6mm}}
+.qbox b{{display:block;font:800 7.4pt/1.3 W2Sans;color:#C8102E;margin-bottom:.8mm}} .qbox p{{margin:0;font:600 8.2pt/1.55 W2Sans;color:#14100C}} .qbox i{{display:block;font:700 6.8pt/1.3 W2Sans;font-style:normal;color:#7A6E60;margin-top:.8mm;text-align:right}}
 .mname .mk{{height:17mm;justify-self:start}} .mname .nm{{height:34mm;justify-self:center}}
 .mbar{{display:flex;gap:0;background:#12284A;color:#fff;font:700 8pt/1.3 W2Sans;padding:0;margin-bottom:.8mm;overflow:hidden;border-radius:0 0 1.2mm 1.2mm}} .mbar span{{padding:2.2mm 3.6mm}}
 .mbar span:nth-child(1){{background:#1F6B3A}} .mbar span:nth-child(2){{background:#0B5CAD}} .mbar span:nth-child(3){{background:#B3400F}} .mbar span:nth-child(4){{background:#5B3A8C}} .mbar span:nth-child(5){{background:#0F6E5C}} .mbar .r{{margin-left:auto;color:#FFD54A}}
