@@ -1,8 +1,159 @@
 {
  "date": "10.11.2026",
  "iso": "2026-11-10",
- "count": 75,
+ "count": 78,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹38,268 కోట్లు",
+   "statl": "యాసంగి సీజన్‌కు కొత్త రుణాలు",
+   "h": "కరువు మండలాల్లో పంట రుణాలు రీషెడ్యూల్ చేయండి: బ్యాంకులకు భట్టి సూచన",
+   "p": "ఎల్ నినో వల్ల కరువు ప్రభావిత ప్రాంతాల్లో పంట రుణాలను పునర్వ్యవస్థీకరించి, రీషెడ్యూల్ చేయాలని ఉప ముఖ్యమంత్రి భట్టి విక్రమార్క ఎస్‌ఎల్‌బీసీ సమావేశంలో బ్యాంకులను కోరారు. యాసంగి సీజన్‌కు ₹38,268 కోట్ల కొత్త రుణాలు త్వరగా ఇవ్వాలన్నారు. సెప్టెంబర్ వరకు వ్యవసాయ రుణ లక్ష్యంలో 53% మాత్రమే చేరిందని మంత్రి తుమ్మల తెలిపారు. రాష్ట్రంలో 31 జిల్లాల్లోని సుమారు 365 మండలాలు కరువు ప్రాంతాలుగా ప్రకటించబడ్డాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/bhatti-vikramarka-asks-banks-to-restructure-crop-loans-in-drought-hit-areas",
+   "sec": [
+    "telangana",
+    "agri",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "కరువు ప్రాంతాల్లో పంట రుణాల రీషెడ్యూల్‌కు సూచన",
+    "చిన్న, సన్నకారు, కౌలు రైతులకు ప్రాధాన్యం",
+    "సుమారు 365 మండలాలు కరువు ప్రాంతాలుగా ప్రకటన"
+   ],
+   "why": "కరువుతో నష్టపోయిన రైతులకు రుణ భారం తగ్గించి, యాసంగి సాగుకు కొత్త రుణాలు అందించే అంశం ఇది.",
+   "pub": "2026-11-10T19:30+05:30",
+   "en": {
+    "h": "Reschedule crop loans in drought-hit mandals: Bhatti tells banks",
+    "p": "Deputy CM Bhatti Vikramarka, at the SLBC meeting, asked banks to restructure and reschedule crop loans in areas hit by drought due to El Niño. He asked them to speed up fresh credit of ₹38,268 crore for the Yasangi season. Minister Tummala said only 53% of the agricultural credit target was achieved up to September. About 365 mandals in 31 districts of the state have been declared drought-affected.",
+    "pts": [
+     "Banks asked to reschedule crop loans in drought areas",
+     "Priority for small, marginal and tenant farmers",
+     "About 365 mandals declared drought-affected"
+    ],
+    "why": "It concerns easing loan burden on drought-hit farmers and fresh credit for Yasangi cultivation.",
+    "cat": "Telangana · Agriculture",
+    "statl": "Fresh credit for Yasangi season"
+   },
+   "hi": {
+    "h": "सूखा प्रभावित मंडलों में फसल ऋण पुनर्निर्धारित करें: भट्टी का बैंकों से आग्रह",
+    "p": "उपमुख्यमंत्री भट्टी विक्रमार्क ने एसएलबीसी बैठक में बैंकों से अल नीनो के कारण सूखा प्रभावित क्षेत्रों में फसल ऋणों का पुनर्गठन और पुनर्निर्धारण करने को कहा। उन्होंने यासंगी सीज़न के लिए ₹38,268 करोड़ के नए ऋण जल्द देने को कहा। मंत्री तुम्मला ने बताया कि सितंबर तक कृषि ऋण लक्ष्य का केवल 53% ही हासिल हुआ। राज्य के 31 जिलों के लगभग 365 मंडल सूखा प्रभावित घोषित किए गए हैं।",
+    "pts": [
+     "सूखा क्षेत्रों में फसल ऋण पुनर्निर्धारण का आग्रह",
+     "छोटे, सीमांत और बटाईदार किसानों को प्राथमिकता",
+     "लगभग 365 मंडल सूखा प्रभावित घोषित"
+    ],
+    "why": "यह सूखा प्रभावित किसानों का ऋण बोझ कम करने और यासंगी खेती के लिए नए ऋण से जुड़ा है।",
+    "cat": "तेलंगाना · कृषि",
+    "statl": "यासंगी सीज़न के लिए नए ऋण"
+   },
+   "d": "10.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "కరీంనగర్ · రవాణా",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "₹5,000",
+   "statl": "పెద్దలకు టికెట్ ధర",
+   "h": "కరీంనగర్ నుంచి అరుణాచలానికి టీజీఎస్‌ఆర్టీసీ ప్రత్యేక బస్సు",
+   "p": "కరీంనగర్ నుంచి తమిళనాడులోని తిరువణ్ణామలై (అరుణాచలం)కు భక్తుల కోసం టీజీఎస్‌ఆర్టీసీ బస్సు సర్వీసు ప్రారంభించింది. సూపర్ లగ్జరీ బస్సు నవంబర్ 13 మధ్యాహ్నం 2 గంటలకు బయలుదేరుతుంది. దారిలో కాణిపాకం, కంచి ఆలయాల దర్శనం ఉంటుంది. నవంబర్ 16 సాయంత్రం తిరుగు ప్రయాణం, అలంపూర్ జోగులాంబ ఆలయం మీదుగా. పెద్దలకు ₹5,000, పిల్లలకు ₹3,750 ఛార్జీ.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tgrtc-launches-karimnagar-tiruvannamalai-bus-service-for-pilgrims",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "నవంబర్ 13 మధ్యాహ్నం 2కు కరీంనగర్ నుంచి బస్సు",
+    "కాణిపాకం, కంచి, అలంపూర్ ఆలయాల దర్శనం",
+    "పిల్లలకు ₹3,750; వివరాలకు 73828 49352"
+   ],
+   "why": "కార్తిక మాసంలో అరుణాచలం వెళ్లాలనుకునే కరీంనగర్ ప్రాంత భక్తులకు ఉపయోగపడే సర్వీసు.",
+   "pub": "2026-11-10T19:24+05:30",
+   "en": {
+    "h": "TGSRTC special bus from Karimnagar to Arunachalam for pilgrims",
+    "p": "TGSRTC has launched a bus service for pilgrims from Karimnagar to Tiruvannamalai (Arunachalam) in Tamil Nadu. The super luxury bus leaves on November 13 at 2 pm. The route includes darshan at Kanipakam and Kanchi temples. The return trip starts on the evening of November 16, via the Jogulamba temple at Alampur. The fare is ₹5,000 for adults and ₹3,750 for children.",
+    "pts": [
+     "Bus leaves Karimnagar on Nov 13 at 2 pm",
+     "Covers Kanipakam, Kanchi and Alampur temples",
+     "₹3,750 for children; enquiries 73828 49352"
+    ],
+    "why": "A useful service for Karimnagar-area devotees planning to visit Arunachalam.",
+    "cat": "Karimnagar · Transport",
+    "statl": "Adult ticket fare"
+   },
+   "hi": {
+    "h": "करीमनगर से अरुणाचलम के लिए टीजीएसआरटीसी की विशेष बस",
+    "p": "टीजीएसआरटीसी ने श्रद्धालुओं के लिए करीमनगर से तमिलनाडु के तिरुवन्नामलै (अरुणाचलम) तक बस सेवा शुरू की है। सुपर लग्ज़री बस 13 नवंबर को दोपहर 2 बजे रवाना होगी। रास्ते में काणिपाकम और कांची मंदिरों के दर्शन होंगे। वापसी 16 नवंबर की शाम आलमपुर के जोगुलांबा मंदिर होते हुए होगी। किराया वयस्कों के लिए ₹5,000 और बच्चों के लिए ₹3,750 है।",
+    "pts": [
+     "13 नवंबर दोपहर 2 बजे करीमनगर से बस",
+     "काणिपाकम, कांची और आलमपुर मंदिरों के दर्शन",
+     "बच्चों के लिए ₹3,750; जानकारी 73828 49352"
+    ],
+    "why": "अरुणाचलम जाने की योजना बना रहे करीमनगर क्षेत्र के श्रद्धालुओं के लिए उपयोगी सेवा।",
+    "cat": "करीमनगर · परिवहन",
+    "statl": "वयस्क टिकट किराया"
+   },
+   "d": "10.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "water",
+   "stat": "24.40 లక్షలు",
+   "statl": "ఎకరాల్లో పంట నష్టమని బీఆర్‌ఎస్",
+   "h": "పాలమూరు ఎత్తిపోతల పంపులు వెంటనే నడపాలి: బీఆర్‌ఎస్ డిమాండ్",
+   "p": "కృష్ణా, గోదావరి నీటిని వినియోగించకుండా కాంగ్రెస్ ప్రభుత్వం పాలమూరు ప్రాంతాన్ని కష్టాల్లోకి నెట్టిందని బీఆర్‌ఎస్ ఆరోపించింది. పాలమూరు-రంగారెడ్డి ఎత్తిపోతల పథకాన్ని వెంటనే నడపాలని తెలంగాణ భవన్‌లో డిమాండ్ చేసింది. అధికారికంగా గుర్తించిన సుమారు 24.40 లక్షల ఎకరాల పంట నష్టానికి పరిహారం ఇవ్వాలని మాజీ మంత్రి నిరంజన్ రెడ్డి కోరారు. ఈ ఆరోపణలపై ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/brs-questions-revanth-reddy-on-palamuru-destructions-drought-relief-and-irrigation-action",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "పాలమూరు-రంగారెడ్డి పథకం వెంటనే నడపాలని డిమాండ్",
+    "24.40 లక్షల ఎకరాల నష్టానికి పరిహారం కోరిన నిరంజన్ రెడ్డి",
+    "వలసలు మళ్లీ పెరుగుతున్నాయన్న శ్రీనివాస్ గౌడ్"
+   ],
+   "why": "కరువుతో ఇబ్బంది పడుతున్న పాలమూరు ప్రాంత రైతుల సాగునీటి, పరిహారం అంశం ఇది.",
+   "pub": "2026-11-10T18:59+05:30",
+   "en": {
+    "h": "Run Palamuru lift irrigation pumps immediately: BRS demands",
+    "p": "The BRS alleged that the Congress government pushed the Palamuru region into distress without using Krishna and Godavari waters. At Telangana Bhavan, it demanded immediate operation of the Palamuru-Rangareddy Lift Irrigation Scheme. Former minister Niranjan Reddy sought compensation for about 24.40 lakh acres of officially acknowledged crop loss. The government's response to these allegations is not in the report.",
+    "pts": [
+     "Demand to run Palamuru-Rangareddy scheme immediately",
+     "Niranjan Reddy seeks compensation for 24.40 lakh acres",
+     "Srinivas Goud says migration is rising again"
+    ],
+    "why": "It concerns irrigation and compensation for drought-hit farmers of the Palamuru region.",
+    "cat": "Telangana · Politics",
+    "statl": "Acres of crop loss, says BRS"
+   },
+   "hi": {
+    "h": "पालमुरु लिफ्ट सिंचाई पंप तुरंत चलाएं: बीआरएस की मांग",
+    "p": "बीआरएस ने आरोप लगाया कि कांग्रेस सरकार ने कृष्णा और गोदावरी का पानी इस्तेमाल किए बिना पालमुरु क्षेत्र को संकट में धकेल दिया। तेलंगाना भवन में उसने पालमुरु-रंगारेड्डी लिफ्ट सिंचाई योजना को तुरंत चलाने की मांग की। पूर्व मंत्री निरंजन रेड्डी ने आधिकारिक रूप से माने गए लगभग 24.40 लाख एकड़ फसल नुकसान के लिए मुआवजा मांगा। इन आरोपों पर सरकार की प्रतिक्रिया रिपोर्ट में नहीं है।",
+    "pts": [
+     "पालमुरु-रंगारेड्डी योजना तुरंत चलाने की मांग",
+     "निरंजन रेड्डी ने 24.40 लाख एकड़ के लिए मुआवजा मांगा",
+     "श्रीनिवास गौड़: पलायन फिर बढ़ रहा"
+    ],
+    "why": "यह पालमुरु क्षेत्र के सूखा प्रभावित किसानों की सिंचाई और मुआवजे से जुड़ा मामला है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "एकड़ फसल नुकसान, बीआरएस के अनुसार"
+   },
+   "d": "10.11.2026",
+   "t": "19:35"
+  },
   {
    "cat": "హైదరాబాద్ · భద్రత",
    "col": "--c-power",
