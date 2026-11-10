@@ -210,6 +210,11 @@ header{display:flex;align-items:center;gap:8px;padding:8px var(--gr) 6px var(--g
 .spb.slim .spt{grid-area:tx}.spb.slim .spt b{font-size:13.5px}.spb.slim .spt small{font-size:11.5px}
 .spb.slim .spl{display:none}
 .spb.slim .spc{grid-area:cta;padding:7px 10px;font-size:12px}
+.spb.mini{grid-template-areas:"ic tx cta";grid-template-columns:auto 1fr auto;padding:6px 8px 6px 6px;border-radius:12px;row-gap:0;column-gap:8px}
+.spb.mini .spi{width:28px;height:28px;border-radius:8px;font-size:15px}
+.spb.mini .spt b{font-size:13px;line-height:1.25}.spb.mini .spl{display:none}
+.spb.mini .spc{padding:6px 9px;font-size:11.5px}
+.spb.mini:before{display:none}
 .qrbar{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:3px var(--gr) 3px var(--gx);background:#16130F;color:#FBF7F0;font-size:13px;font-weight:800;text-decoration:none;flex-shrink:0}
 .qrbar .qp{display:flex;flex-direction:column;gap:0;min-width:0}.qrbar .qp b{font-size:11.5px;font-weight:800;color:#FFD54A;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.qrbar .qp small{font-size:10px;font-weight:700;color:#D9D3C8;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.qrbar .qp em{font-style:normal;color:#7CF29A;font-weight:900}
 .qrbar img{width:34px;height:34px;background:#fff;padding:2px;flex-shrink:0}
@@ -790,9 +795,9 @@ const SPACE_TX={
   hi:['आज {n} नई नौकरियाँ','सरकारी व प्राइवेट · आधिकारिक लिंक','देखें'],
   link:()=>'/?cards=1&jobs=1', view:'jobs'},
  epaper:{ic:'📰',g:'linear-gradient(135deg,#3A2412 0%,#6B3F1D 60%,#8A5527 100%)',ac:'#FFD9A8',
-  te:['ఈరోజు Way2Sec ఈ-పేపర్','ఉదయం 5:30కే · పేపర్ లాగే చదవండి','చదవండి'],
-  en:['Today\'s Way2Sec e-paper','Ready by 5:30 am · read it like a paper','Read now'],
-  hi:['आज का Way2Sec ई-पेपर','सुबह 5:30 तक तैयार · अख़बार की तरह पढ़ें','पढ़ें'],
+  te:['ఈరోజు జనధ్వని ఈ-పేపర్','ఉదయం 5:30కే · పేపర్ లాగే చదవండి','చదవండి'],
+  en:['Today\'s Janadhwani e-paper','Ready by 5:30 am · read it like a paper','Read now'],
+  hi:['आज का जनध्वनि ई-पेपर','सुबह 5:30 तक तैयार · अख़बार की तरह पढ़ें','पढ़ें'],
   link:()=>'/epaper/'},
  share:{ic:'🤝',g:'linear-gradient(135deg,#3B1C6E 0%,#5B2BA0 60%,#7A45C9 100%)',ac:'#E2D4FF',
   te:['Way2Sec ని 5 మందికి పంపండి','మీ వాళ్లకూ వేగంగా వార్తలు','WhatsAppలో పంపండి'],
@@ -812,13 +817,14 @@ function spaceHTML(p,size){ const L=LG();
   if(p.paid){ const a=p.paid; key='ad:'+a.id; ic=a.icon||'🏪'; t=a.t; sub=a.s||''; cta=a.cta||'సంప్రదించండి'; link=a.link||'#'; g=a.g||'linear-gradient(135deg,#1B1B1B,#3A3A3A)'; ac=a.ac||'#FFD54A'; lab='ప్రకటన · Sponsored'; img=a.img?`<img src="${esc(a.img)}" alt="">`:''; }
   else { const c=SPACE_TX[p.k], x=c[L]||c.te; key=p.k; ic=c.ic; t=x[0].replace('{n}',spaceJobsN()); sub=x[1]; cta=x[2]; link=c.link(); g=c.g; ac=c.ac; lab='Way2Sec'; }
   const ext=/^https?:|^tel:/.test(link)?' target="_blank" rel="noopener"':'';
+  if(size==='mini') return `<a class="spb mini" href="${esc(link)}"${ext} data-sk="${esc(key)}" style="--spg:${g};--spa:${ac}"><i class="spi">${img||ic}</i><span class="spt"><b>${esc(t)}</b></span><span class="spc">${esc(cta)} →</span></a>`;
   if(size==='slim') return `<a class="spb slim" href="${esc(link)}"${ext} data-sk="${esc(key)}" style="--spg:${g};--spa:${ac}"><i class="spi">${img||ic}</i><span class="spt"><b>${esc(t)}</b>${sub?`<small>${esc(sub)}</small>`:''}</span><span class="spc">${esc(cta)} →</span></a>`;
   return `<a class="spb" href="${esc(link)}"${ext} data-sk="${esc(key)}" style="--spg:${g};--spa:${ac}"><span class="spl">${esc(lab)}</span><i class="spi">${img||ic}</i><span class="spt"><b>${esc(t)}</b><small>${esc(sub)}</small></span><span class="spc">${esc(cta)} →</span></a>`; }
 const spaceSeen=new Set();
 function spaceFill(c){ const sp=c.querySelector('.spacer[data-sp]'); if(!sp) return; sp.innerHTML='';
-  const i=+sp.dataset.sp, s=LIST[i], h=sp.clientHeight; const p=h>=58?spacePick(s,i):null; if(!p) return;
-  // show the banner only if ALL its text fits: full first, then the slim one, else nothing
-  let a=null; for(const size of ['full','slim']){ sp.innerHTML=spaceHTML(p,size); const el=sp.firstElementChild; if(el.offsetHeight<=h-8 && el.scrollHeight<=el.offsetHeight+1){ a=el; break; } }
+  const i=+sp.dataset.sp, s=LIST[i], h=sp.clientHeight; const p=h>=46?spacePick(s,i):null; if(!p) return;
+  // show the banner only if ALL its text fits: full, then slim, then mini (one row, title + button; 10 Nov 2026), else nothing
+  let a=null; for(const size of ['full','slim','mini']){ sp.innerHTML=spaceHTML(p,size); const el=sp.firstElementChild; if(el.offsetHeight<=h-8 && el.scrollHeight<=el.offsetHeight+1){ a=el; break; } }
   if(!a){ sp.innerHTML=''; return; }
   const k=a.dataset.sk;
   if(!c.hidden && !spaceSeen.has(i+k)){ spaceSeen.add(i+k); try{ window.gtag&&gtag('event','space_view',{space:k}); }catch(e){} }
@@ -942,7 +948,7 @@ feedEl.addEventListener('pointercancel',e=>{ if(drag&&e.pointerId===drag.id){dra
 /* ---------- reading mode (auto full card) ---------- */
 let FSON=(()=>{try{return localStorage.getItem('w2s.autoFull')!=='0'}catch(e){return true}})(), fsT=0;
 function fsCan(){ return FSON && cards.length>0 && $('sheet').hidden && (!$('joinSheet')||$('joinSheet').hidden); }
-function fsRefit(){ setTimeout(()=>{ if(cards[cur]) fit(cards[cur]); fsPlace(); },300); }
+function fsRefit(){ setTimeout(()=>{ if(cards[cur]) fit(cards[cur]); fsPlace(); },300); setTimeout(()=>{ if(cards[cur]) spaceFill(cards[cur]); },900); }
 function fsPlace(){ const f=$('fsPlay'), c=cards[cur]; if(!f) return; const pn=c&&!c.hidden&&c.querySelector('.panel');
   if(!pn){ f.classList.add('nop'); return; } f.classList.remove('nop');
   const r=pn.getBoundingClientRect(), sr=document.querySelector('.shell').getBoundingClientRect();
