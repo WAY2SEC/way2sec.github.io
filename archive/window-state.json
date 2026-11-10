@@ -196,12 +196,12 @@
   {
    "window": "2026-11-10T14:05:00+05:30/2026-11-10T14:35:00+05:30",
    "status": "completed-with-gaps",
-   "eligible": 19,
+   "eligible": 17,
    "published": 6,
    "late": 3,
    "held": 5,
    "corrected": 0,
-   "duplicates": 4,
+   "duplicates": 5,
    "skipped": 1,
    "review": 1,
    "gaps": "Search-first; WebFetch via sub-agent. Eenadu blocked (robots.txt); CNBC gold page fetch failed; Sakshi Guntur accident page has no time zone (review). Newsroom hold returned 'not allowed' – 5 held stories not sent. DC/TOI/The Hindu/Sakshi/Andhra Jyothy/Reuters/BBC searches gave no new timestamped in-range items; AP cabinet outcome still not found (only previews, already published)."
