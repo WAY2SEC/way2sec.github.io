@@ -1,8 +1,308 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T13:09:55+05:30",
+ "updated": "2026-11-11T13:40:17+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "నవం. 15",
+   "statl": "నాటికి వాయుగుండంగా మారే అవకాశం",
+   "h": "అప్‌డేట్: బంగాళాఖాతంలో అల్పపీడనం, 15 నాటికి వాయుగుండం అవకాశం",
+   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13 నాటికి అల్పపీడనం ఏర్పడే అవకాశం ఉందని ఏపీ విపత్తుల నిర్వహణ సంస్థ తెలిపింది. ఇది వాయువ్య దిశగా కదిలి శనివారం నాటికి బలపడి, ఆదివారం (15న) వాయుగుండంగా మారే అవకాశం ఉందని పేర్కొంది. శనివారం నుంచి మంగళవారం వరకు సముద్రం అల్లకల్లోలంగా ఉంటుందని, మత్స్యకారులు వేటకు వెళ్లవద్దని హెచ్చరించింది. ప్రస్తుతానికి ఏపీపై ప్రభావం లేదని అధికారులు చెప్పారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/weather-forecast/bay-of-bengal-low-pressure-depression-november-weather-alert-suchi-1575250.html",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "13 నాటికి ఆగ్నేయ బంగాళాఖాతంలో అల్పపీడనం",
+    "15న వాయుగుండంగా మారే అవకాశం",
+    "శనివారం నుంచి మంగళవారం వరకు మత్స్యకారులకు హెచ్చరిక"
+   ],
+   "why": "తీర ప్రాంత మత్స్యకారులు ఈ హెచ్చరికను పాటించి వేటకు వెళ్లకుండా జాగ్రత్త పడాలి.",
+   "pub": "2026-11-11T13:28+05:30",
+   "en": {
+    "h": "Update: Low pressure in Bay of Bengal may become depression by Nov 15",
+    "p": "The AP Disaster Management Authority said a low pressure area may form over the southeast Bay of Bengal by November 13. It is expected to move northwest, strengthen by Saturday and become a depression by Sunday (15th). The sea will be rough from Saturday to Tuesday and fishermen were warned not to venture out. Officials said there is no impact on AP for now.",
+    "pts": [
+     "Low pressure likely over southeast Bay of Bengal by Nov 13",
+     "May intensify into a depression on Nov 15",
+     "Fishermen warned from Saturday to Tuesday"
+    ],
+    "why": "Coastal fishermen should follow the warning and avoid going to sea.",
+    "cat": "AP · Weather",
+    "statl": "likely to become a depression by then"
+   },
+   "hi": {
+    "h": "अपडेट: बंगाल की खाड़ी में कम दबाव, 15 नवंबर तक डिप्रेशन बनने की संभावना",
+    "p": "आंध्र प्रदेश आपदा प्रबंधन प्राधिकरण ने कहा कि 13 नवंबर तक दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव का क्षेत्र बन सकता है। यह उत्तर-पश्चिम की ओर बढ़कर शनिवार तक मजबूत होगा और रविवार (15 तारीख) तक डिप्रेशन बन सकता है। शनिवार से मंगलवार तक समुद्र अशांत रहेगा, मछुआरों को समुद्र में न जाने की चेतावनी दी गई। अधिकारियों के अनुसार अभी आंध्र प्रदेश पर कोई असर नहीं है।",
+    "pts": [
+     "13 नवंबर तक दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव",
+     "15 नवंबर को डिप्रेशन बनने की संभावना",
+     "शनिवार से मंगलवार तक मछुआरों को चेतावनी"
+    ],
+    "why": "तटीय मछुआरों को चेतावनी का पालन कर समुद्र में जाने से बचना चाहिए।",
+    "cat": "आंध्र प्रदेश · मौसम",
+    "statl": "तक डिप्रेशन बनने की संभावना"
+   },
+   "d": "11.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "మహబూబాబాద్ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "deadline",
+   "stat": "నవం. 13",
+   "statl": "విదేశీ ఉద్యోగాలకు టామ్‌కామ్ రిజిస్ట్రేషన్",
+   "h": "విదేశీ ఉద్యోగాల కోసం 13న మహబూబాబాద్‌లో టామ్‌కామ్ రిజిస్ట్రేషన్",
+   "p": "తెలంగాణ ప్రభుత్వ సంస్థ టామ్‌కామ్ (తెలంగాణ ఓవర్సీస్ మ్యాన్‌పవర్ కంపెనీ) విదేశాల్లో ఉద్యోగాలు కోరుకునేవారి కోసం నవంబర్ 13న మహబూబాబాద్‌లో ప్రత్యేక రిజిస్ట్రేషన్ కార్యక్రమం నిర్వహిస్తోంది. ఎస్సీ కార్యాలయ ప్రాంగణంలోని ఏటీసీ కేంద్రంలో ఇది జరుగుతుందని జిల్లా ఉపాధి అధికారి రజిత తెలిపారు. జర్మనీ, యూకే, ఇజ్రాయెల్, ఆస్ట్రియా, పోలాండ్, సౌదీ అరేబియా, మారిషస్, దుబాయ్ తదితర దేశాల్లో అవకాశాలు ఉన్నాయన్నారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/warangal/tomcom-to-hold-registration-drive-for-overseas-jobs-in-mahabubabad-on-november-13-1141071",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "mahabubabad",
+   "pts": [
+    "నవంబర్ 13న ఏటీసీ కేంద్రంలో రిజిస్ట్రేషన్",
+    "జర్మనీ, యూకే, ఇజ్రాయెల్ సహా పలు దేశాల్లో అవకాశాలు",
+    "సురక్షిత, చట్టబద్ధ వలస మార్గాలు వాడాలని సూచన"
+   ],
+   "why": "విదేశీ ఉద్యోగాలు కోరే జిల్లా యువత ప్రభుత్వ సంస్థ ద్వారా సురక్షితంగా నమోదు చేసుకోవచ్చు.",
+   "pub": "2026-11-11T13:06+05:30",
+   "en": {
+    "h": "TOMCOM overseas jobs registration drive in Mahabubabad on November 13",
+    "p": "TOMCOM (Telangana Overseas Manpower Company), a state government undertaking, will hold a special registration programme for overseas job seekers in Mahabubabad on November 13. District Employment Officer Rajitha said it will be held at the ATC centre in the SC Office premises. Opportunities are available in Germany, the UK, Israel, Austria, Poland, Saudi Arabia, Mauritius, Dubai and other countries, she said.",
+    "pts": [
+     "Registration at the ATC centre on November 13",
+     "Openings in Germany, UK, Israel and other countries",
+     "Candidates urged to use safe and legal migration channels"
+    ],
+    "why": "Youth in the district seeking jobs abroad can register safely through a government agency.",
+    "cat": "Mahabubabad · Jobs",
+    "statl": "TOMCOM registration for overseas jobs"
+   },
+   "hi": {
+    "h": "विदेशी नौकरियों के लिए 13 नवंबर को महबूबाबाद में टॉमकॉम पंजीकरण",
+    "p": "तेलंगाना सरकार की संस्था टॉमकॉम (तेलंगाना ओवरसीज़ मैनपावर कंपनी) विदेश में नौकरी चाहने वालों के लिए 13 नवंबर को महबूबाबाद में विशेष पंजीकरण कार्यक्रम आयोजित करेगी। जिला रोजगार अधिकारी रजिता ने बताया कि यह एससी कार्यालय परिसर के एटीसी केंद्र में होगा। जर्मनी, ब्रिटेन, इज़राइल, ऑस्ट्रिया, पोलैंड, सऊदी अरब, मॉरीशस, दुबई और अन्य देशों में अवसर उपलब्ध हैं।",
+    "pts": [
+     "13 नवंबर को एटीसी केंद्र में पंजीकरण",
+     "जर्मनी, ब्रिटेन, इज़राइल सहित कई देशों में अवसर",
+     "सुरक्षित और कानूनी प्रवास मार्ग अपनाने की सलाह"
+    ],
+    "why": "विदेश में नौकरी चाहने वाले जिले के युवा सरकारी संस्था के जरिए सुरक्षित पंजीकरण करा सकते हैं।",
+    "cat": "महबूबाबाद · नौकरियां",
+    "statl": "विदेशी नौकरियों के लिए टॉमकॉम पंजीकरण"
+   },
+   "d": "11.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయాలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "77",
+   "statl": "నియోజకవర్గాల్లో పట్టభద్రుల ఎన్నికలు (కవిత ప్రకారం)",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలు: ఓటు నమోదు చేసుకోవాలని కవిత పిలుపు",
+   "p": "త్వరలో రెండు పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలు ఉన్నాయని, పట్టభద్రులంతా ఓటర్లుగా నమోదు చేసుకోవాలని తెలంగాణ రాష్ట్ర సేన అధ్యక్షురాలు కల్వకుంట్ల కవిత హైదరాబాద్‌లో కోరారు. రాష్ట్రంలో సుమారు 80 లక్షల మంది పట్టభద్రులు ఉంటే 10 లక్షల లోపే నమోదయ్యారని ఆమె అన్నారు. గెలుపు కోసం కాంగ్రెస్ రూ.200 కోట్లు ఖర్చు చేయాలని చూస్తోందని ఆరోపించి, డబ్బుకు ఓటు అమ్ముకోవద్దని యువతను కోరారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/kavitha-graduate-mlc-election-campaign-suchi-1575240.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "హైదరాబాద్",
+   "pts": [
+    "త్వరలో రెండు పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలు",
+    "80 లక్షల పట్టభద్రుల్లో 10 లక్షల లోపే నమోదు: కవిత",
+    "కాంగ్రెస్ రూ.200 కోట్లు ఖర్చు చేయనుందని కవిత ఆరోపణ"
+   ],
+   "why": "పట్టభద్రులు ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలంటే ముందుగా ఓటర్లుగా నమోదు చేసుకోవాలి.",
+   "pub": "2026-11-11T11:59+05:30",
+   "en": {
+    "h": "Graduate MLC polls: Kavitha urges graduates to register as voters",
+    "p": "Telangana Rashtra Sena president Kalvakuntla Kavitha, speaking in Hyderabad, said two graduate MLC elections are due soon and urged all graduates to register as voters. She said of about 80 lakh graduates in the state, fewer than 10 lakh have registered. She alleged that the Congress plans to spend Rs 200 crore to win and urged youth not to sell their votes for money.",
+    "pts": [
+     "Two graduate MLC elections due soon",
+     "Fewer than 10 lakh of 80 lakh graduates registered: Kavitha",
+     "Kavitha alleges Congress plans to spend Rs 200 crore"
+    ],
+    "why": "Graduates must register as voters first to vote in the MLC elections.",
+    "cat": "Telangana · Politics",
+    "statl": "constituencies in graduate polls (per Kavitha)"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी चुनाव: कविता ने स्नातकों से मतदाता पंजीकरण की अपील की",
+    "p": "तेलंगाना राष्ट्र सेना की अध्यक्ष कल्वकुंट्ला कविता ने हैदराबाद में कहा कि जल्द ही दो स्नातक एमएलसी चुनाव होने हैं और सभी स्नातकों से मतदाता के रूप में पंजीकरण कराने की अपील की। उन्होंने कहा कि राज्य में लगभग 80 लाख स्नातकों में से 10 लाख से कम ने पंजीकरण कराया है। उन्होंने आरोप लगाया कि कांग्रेस जीत के लिए 200 करोड़ रुपये खर्च करने की योजना बना रही है और युवाओं से पैसे के लिए वोट न बेचने को कहा।",
+    "pts": [
+     "जल्द ही दो स्नातक एमएलसी चुनाव",
+     "80 लाख में से 10 लाख से कम स्नातक पंजीकृत: कविता",
+     "कविता का आरोप – कांग्रेस 200 करोड़ खर्च करेगी"
+    ],
+    "why": "एमएलसी चुनाव में वोट देने के लिए स्नातकों को पहले मतदाता पंजीकरण कराना होगा।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "निर्वाचन क्षेत्रों में स्नातक चुनाव (कविता के अनुसार)"
+   },
+   "d": "11.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · సదస్సు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "70 దేశాలు",
+   "statl": "1,000 మంది ప్రతినిధుల రాక (భట్టి ప్రకారం)",
+   "h": "హైదరాబాద్‌లో రెండో భారత్ సమ్మిట్: 70 దేశాల నుంచి 1,000 మంది ప్రతినిధులు",
+   "p": "రెండో భారత్ సమ్మిట్ తెలంగాణలో జరుగుతోందని కాంగ్రెస్ విదేశీ వ్యవహారాల విభాగం ఛైర్మన్, మాజీ కేంద్ర మంత్రి సల్మాన్ ఖుర్షీద్ హెచ్ఐసీసీలో చెప్పారు. ప్రపంచ పరిస్థితులపై చర్చలు జరుగుతాయన్నారు. 70 దేశాల నుంచి 1,000 మంది ప్రతినిధులు హాజరవుతున్నారని డిప్యూటీ సీఎం భట్టి విక్రమార్క తెలిపారు. ఇది రాజకీయ సదస్సు కాదని, జెన్ జెడ్ డిమాండ్లపై ఒక సెషన్ ఉంటుందని మంత్రి శ్రీధర్ బాబు చెప్పారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/bharat-summit-tg-hyderabad-2026-suchi-1575232.html",
+   "sec": [
+    "telangana",
+    "world"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హెచ్ఐసీసీ",
+   "pts": [
+    "హెచ్ఐసీసీలో రెండో భారత్ సమ్మిట్",
+    "70 దేశాల నుంచి 1,000 మంది ప్రతినిధులు: భట్టి",
+    "జెన్ జెడ్ డిమాండ్లపై ప్రత్యేక సెషన్: శ్రీధర్ బాబు"
+   ],
+   "why": "అంతర్జాతీయ ప్రతినిధులు పాల్గొనే ఈ సదస్సు హైదరాబాద్‌లో జరుగుతుండటం నగరానికి ప్రాధాన్యం కలిగిస్తుంది.",
+   "pub": "2026-11-11T11:06+05:30",
+   "en": {
+    "h": "Second Bharat Summit in Hyderabad: 1,000 delegates from 70 countries",
+    "p": "Former Union minister Salman Khurshid, chairman of the Congress foreign affairs department, said at the HICC that the second Bharat Summit is being held in Telangana and will discuss world conditions. Deputy CM Bhatti Vikramarka said 1,000 delegates from 70 countries are attending. Minister Sridhar Babu said the summit is not political and a session will discuss Gen Z demands.",
+    "pts": [
+     "Second Bharat Summit at HICC",
+     "1,000 delegates from 70 countries: Bhatti",
+     "Special session on Gen Z demands: Sridhar Babu"
+    ],
+    "why": "The summit with international delegates being held in Hyderabad gives the city prominence.",
+    "cat": "Hyderabad · Summit",
+    "statl": "1,000 delegates attending (per Bhatti)"
+   },
+   "hi": {
+    "h": "हैदराबाद में दूसरा भारत समिट: 70 देशों से 1,000 प्रतिनिधि",
+    "p": "कांग्रेस के विदेश मामलों के विभाग के अध्यक्ष और पूर्व केंद्रीय मंत्री सलमान खुर्शीद ने एचआईसीसी में कहा कि दूसरा भारत समिट तेलंगाना में हो रहा है और इसमें विश्व की स्थितियों पर चर्चा होगी। उपमुख्यमंत्री भट्टी विक्रमार्क ने बताया कि 70 देशों से 1,000 प्रतिनिधि शामिल हो रहे हैं। मंत्री श्रीधर बाबू ने कहा कि यह राजनीतिक सम्मेलन नहीं है और जेन ज़ेड की मांगों पर एक सत्र होगा।",
+    "pts": [
+     "एचआईसीसी में दूसरा भारत समिट",
+     "70 देशों से 1,000 प्रतिनिधि: भट्टी",
+     "जेन ज़ेड की मांगों पर विशेष सत्र: श्रीधर बाबू"
+    ],
+    "why": "अंतरराष्ट्रीय प्रतिनिधियों वाला यह सम्मेलन हैदराबाद में होने से शहर का महत्व बढ़ता है।",
+    "cat": "हैदराबाद · सम्मेलन",
+    "statl": "1,000 प्रतिनिधि शामिल (भट्टी के अनुसार)"
+   },
+   "d": "11.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "తెలుగు రాష్ట్రాలు · బంగారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,655",
+   "statl": "10 గ్రాముల 24 క్యారెట్ బంగారంపై తగ్గుదల",
+   "h": "తెలుగు రాష్ట్రాల్లో తగ్గిన బంగారం, వెండి ధరలు",
+   "p": "బుధవారం తెలుగు రాష్ట్రాల్లో బంగారం, వెండి ధరలు తగ్గాయి. హైదరాబాద్‌లో 10 గ్రాముల 24 క్యారెట్ బంగారం ధర మంగళవారం రూ.1,46,440 ఉండగా బుధవారం రూ.1,655 తగ్గి రూ.1,44,785కి చేరిందని ఈటీవీ భారత్ పేర్కొంది. 22 క్యారెట్ బంగారం 10 గ్రాములు రూ.1,30,800. కిలో వెండి రూ.1,91,161 నుంచి రూ.1,89,700కి తగ్గింది. విశాఖ, విజయవాడ, నెల్లూరు, ప్రొద్దుటూరులోనూ ధరలు దాదాపు ఇలాగే ఉన్నాయి.",
+   "src": "ETV Bharat",
+   "url": "https://etvbharat.com/te/business/gold-and-silver-rate-today-11th-november-in-telugu-states-ten26111100965",
+   "sec": [
+    "business",
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "24 క్యారెట్ 10 గ్రాములు రూ.1,44,785",
+    "22 క్యారెట్ 10 గ్రాములు రూ.1,30,800",
+    "కిలో వెండి రూ.1,89,700"
+   ],
+   "why": "పెళ్లిళ్ల సీజన్‌లో బంగారం, వెండి కొనేవారికి ఈ ధరలు ఉపయోగపడతాయి.",
+   "pub": "2026-11-11T09:38+05:30",
+   "en": {
+    "h": "Gold and silver prices fall in Telugu states",
+    "p": "Gold and silver prices fell on Wednesday in the Telugu states. In Hyderabad, 24-carat gold (10 g) was Rs 1,46,440 on Tuesday and fell by Rs 1,655 to Rs 1,44,785 on Wednesday, ETV Bharat reported. 22-carat gold (10 g) was Rs 1,30,800. Silver per kg fell from Rs 1,91,161 to Rs 1,89,700. Prices in Visakhapatnam, Vijayawada, Nellore and Proddatur were similar.",
+    "pts": [
+     "24-carat gold Rs 1,44,785 per 10 g",
+     "22-carat gold Rs 1,30,800 per 10 g",
+     "Silver Rs 1,89,700 per kg"
+    ],
+    "why": "These rates help people buying gold and silver during the wedding season.",
+    "cat": "Telugu States · Gold",
+    "statl": "drop in 24-carat gold per 10 g"
+   },
+   "hi": {
+    "h": "तेलुगु राज्यों में सोने-चांदी के दाम गिरे",
+    "p": "बुधवार को तेलुगु राज्यों में सोने और चांदी के दाम गिरे। ईटीवी भारत के अनुसार हैदराबाद में 24 कैरेट सोना (10 ग्राम) मंगलवार को 1,46,440 रुपये था, जो बुधवार को 1,655 रुपये घटकर 1,44,785 रुपये हो गया। 22 कैरेट सोना (10 ग्राम) 1,30,800 रुपये रहा। चांदी प्रति किलो 1,91,161 रुपये से घटकर 1,89,700 रुपये हो गई। विशाखापत्तनम, विजयवाड़ा, नेल्लोर और प्रोद्दुटूर में भी दाम लगभग ऐसे ही रहे।",
+    "pts": [
+     "24 कैरेट सोना 1,44,785 रुपये प्रति 10 ग्राम",
+     "22 कैरेट सोना 1,30,800 रुपये प्रति 10 ग्राम",
+     "चांदी 1,89,700 रुपये प्रति किलो"
+    ],
+    "why": "शादी के मौसम में सोना-चांदी खरीदने वालों के लिए ये दाम उपयोगी हैं।",
+    "cat": "तेलुगु राज्य · सोना",
+    "statl": "24 कैरेट सोना प्रति 10 ग्राम सस्ता"
+   },
+   "d": "11.11.2026",
+   "t": "13:35"
+  },
+  {
+   "cat": "తెలంగాణ · కాంగ్రెస్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "20",
+   "statl": "నిలిచిపోయిన మీడియా ప్యానెల్ నియామకాలు",
+   "h": "కాంగ్రెస్ మీడియా ప్యానెల్ జాబితా ఆగలేదు, కొత్త జాబితా త్వరలో: చామల",
+   "p": "తాను విడుదల చేసిన 20 మంది మీడియా ప్యానెలిస్టులు, కోఆర్డినేటర్లు, అధికార ప్రతినిధుల నియామకాలను తెలంగాణ కాంగ్రెస్ నిలిపివేయడంపై టీపీసీసీ మీడియా విభాగం ఛైర్మన్, ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి స్పందించారు. టీపీసీసీ చీఫ్ మహేశ్ కుమార్ గౌడ్‌తో తనకు విభేదాలు లేవని, చిన్న సాంకేతిక సమస్య వల్లే ఆగిందని ఏబీఎన్ ఆంధ్రజ్యోతికి చెప్పారు. రెండు మూడు రోజుల్లో మరిన్ని పేర్లతో కొత్త జాబితా ప్రకటిస్తామన్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/tg-congress-media-panel-new-list-chamala-suchi-1575242.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "20 మంది మీడియా ప్యానెల్ నియామకాలు నిలిపివేత",
+    "సాంకేతిక సమస్య వల్లే ఆగిందన్న చామల",
+    "2–3 రోజుల్లో కొత్త జాబితా"
+   ],
+   "why": "అధికార పార్టీ మీడియా ప్రతినిధుల నియామకాలపై స్పష్టత కోసం ఎదురుచూస్తున్న కార్యకర్తలకు ఇది సమాచారం.",
+   "pub": "2026-11-11T12:21+05:30",
+   "en": {
+    "h": "Congress media panel list not dropped, new list soon: Chamala",
+    "p": "MP Chamala Kiran Kumar Reddy, chairman of the TPCC media and publicity wing, responded after Telangana Congress halted the appointments of 20 media panelists, coordinators and spokespersons he had released. He told ABN Andhra Jyothy there is no gap between him and TPCC chief Mahesh Kumar Goud and a small technical problem stalled it. A new list with more names will be announced in two or three days, he said.",
+    "pts": [
+     "20 media panel appointments put on hold",
+     "Chamala says a technical problem stalled it",
+     "New list in 2–3 days"
+    ],
+    "why": "It gives clarity to party workers awaiting the ruling party's media appointments.",
+    "cat": "Telangana · Congress",
+    "statl": "media panel appointments halted"
+   },
+   "hi": {
+    "h": "कांग्रेस मीडिया पैनल सूची रद्द नहीं, नई सूची जल्द: चामला",
+    "p": "टीपीसीसी मीडिया एवं प्रचार विभाग के अध्यक्ष सांसद चामला किरण कुमार रेड्डी ने तेलंगाना कांग्रेस द्वारा उनकी जारी 20 मीडिया पैनलिस्टों, समन्वयकों और प्रवक्ताओं की नियुक्तियां रोके जाने पर प्रतिक्रिया दी। उन्होंने एबीएन आंध्र ज्योति से कहा कि टीपीसीसी प्रमुख महेश कुमार गौड़ से उनका कोई मतभेद नहीं है और एक छोटी तकनीकी समस्या के कारण यह रुका। दो-तीन दिनों में और नामों के साथ नई सूची घोषित होगी।",
+    "pts": [
+     "20 मीडिया पैनल नियुक्तियां रोकी गईं",
+     "चामला ने तकनीकी समस्या को कारण बताया",
+     "2–3 दिनों में नई सूची"
+    ],
+    "why": "सत्तारूढ़ पार्टी की मीडिया नियुक्तियों का इंतजार कर रहे कार्यकर्ताओं को इससे स्पष्टता मिलती है।",
+    "cat": "तेलंगाना · कांग्रेस",
+    "statl": "मीडिया पैनल नियुक्तियां रुकीं"
+   },
+   "d": "11.11.2026",
+   "t": "13:35"
+  },
   {
    "cat": "హనుమకొండ · రాజకీయాలు",
    "col": "--c-election",
@@ -2204,306 +2504,6 @@
     "why": "बुज़ुर्गों, छोटे बच्चों और सुबह-रात यात्रा करने वालों को सावधानी बरतनी चाहिए।",
     "cat": "तेलंगाना · मौसम",
     "statl": "कुबीर में न्यूनतम तापमान"
-   },
-   "d": "11.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "సంగారెడ్డి · భూమి",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "16.5 ఎకరాలు",
-   "statl": "తీసుకున్నారని ఎమ్మెల్యే ఆరోపణ",
-   "h": "కోట్లపూర్‌లో దళిత రైతుల భూములు కంపెనీకి: ఎమ్మెల్యే చింతా ప్రభాకర్ ఆరోపణ",
-   "p": "సంగారెడ్డి జిల్లా కోట్లపూర్‌లో దళిత, బహుజన రైతుల అసైన్డ్ భూములను టీజీఐఐసీ ద్వారా జెట్టి ఇన్‌ఫ్రాకు తక్కువ ధరకు కేటాయించారని బీఆర్‌ఎస్ ఎమ్మెల్యే చింతా ప్రభాకర్ ఆరోపించారు. మొత్తం 16.5 ఎకరాలు తీసుకున్నారని, భూములు తిరిగి ఇవ్వాలని కలెక్టర్ ప్రతీక్ జైన్‌కు ఫిర్యాదు చేశారు. ఆరు ఎకరాల కేటాయింపు జరిగిందని, రాష్ట్ర ఉన్నతాధికారులు నిర్ణయించారని టీజీఐఐసీ జోనల్ మేనేజర్ తెలిపినట్లు నమస్తే తెలంగాణ పేర్కొంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/sangareddy-land-allocation-row-brs-mla-alleges-farmers-lands-handed-over-to-jetty-infra-2557177",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "loc": "కోట్లపూర్",
-   "pub": "2026-11-11T07:08+05:30",
-   "pts": [
-    "జెట్టి ఇన్‌ఫ్రాకు భూకేటాయింపుపై ఎమ్మెల్యే ఆరోపణ",
-    "కలెక్టర్‌కు ఫిర్యాదు, భూములు తిరిగి ఇవ్వాలని డిమాండ్",
-    "ఆరు ఎకరాల కేటాయింపును ధృవీకరించిన టీజీఐఐసీ"
-   ],
-   "why": "అసైన్డ్ భూములున్న పేద రైతుల హక్కులకు సంబంధించిన అంశం ఇది.",
-   "en": {
-    "h": "Dalit farmers' land in Kotlapur given to company, alleges MLA Chinta Prabhakar",
-    "p": "BRS MLA Chinta Prabhakar alleged that assigned land of Dalit and Bahujan farmers in Kotlapur, Sangareddy district, was allotted cheaply to Jetty Infra through TGIIC. He alleged 16.5 acres in all were taken and complained to Collector Pratik Jain seeking return of the land. Namasthe Telangana said the TGIIC zonal manager confirmed a six-acre allotment and said senior state officials decided it.",
-    "pts": [
-     "MLA alleges land allotment to Jetty Infra",
-     "Complaint to Collector, demand to return land",
-     "TGIIC confirms six-acre allotment"
-    ],
-    "why": "The issue concerns the rights of poor farmers holding assigned land.",
-    "cat": "Sangareddy · Land",
-    "statl": "Taken, alleges MLA"
-   },
-   "hi": {
-    "h": "कोटलापुर में दलित किसानों की ज़मीन कंपनी को दी गई: विधायक चिंता प्रभाकर का आरोप",
-    "p": "बीआरएस विधायक चिंता प्रभाकर ने आरोप लगाया कि संगारेड्डी ज़िले के कोटलापुर में दलित और बहुजन किसानों की आवंटित ज़मीन टीजीआईआईसी के ज़रिए सस्ते में जेट्टी इन्फ्रा को दी गई। उन्होंने कुल 16.5 एकड़ लेने का आरोप लगाया और ज़मीन लौटाने के लिए कलेक्टर प्रतीक जैन से शिकायत की। नमस्ते तेलंगाना के अनुसार टीजीआईआईसी के ज़ोनल मैनेजर ने छह एकड़ आवंटन की पुष्टि की और कहा कि यह फ़ैसला राज्य के वरिष्ठ अधिकारियों ने लिया।",
-    "pts": [
-     "जेट्टी इन्फ्रा को भूमि आवंटन पर विधायक का आरोप",
-     "कलेक्टर से शिकायत, ज़मीन लौटाने की मांग",
-     "टीजीआईआईसी ने छह एकड़ आवंटन की पुष्टि की"
-    ],
-    "why": "यह मामला आवंटित ज़मीन वाले गरीब किसानों के अधिकारों से जुड़ा है।",
-    "cat": "संगारेड्डी · भूमि",
-    "statl": "लेने का विधायक का आरोप"
-   },
-   "d": "11.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "తెలంగాణ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹2,461",
-   "statl": "ఏ-గ్రేడ్ ధాన్యం మద్దతు ధర",
-   "h": "కొనుగోలు కేంద్రాలు తెరవక కల్లాల్లోనే ధాన్యం: రైతుల ఆందోళన",
-   "p": "రాష్ట్రంలో చాలా ధాన్యం కొనుగోలు కేంద్రాలు ఇంకా తెరవకపోవడంతో రైతులు కల్లాల్లోనే ధాన్యంతో ఎదురుచూస్తున్నారని నమస్తే తెలంగాణ కథనం పేర్కొంది. 8,283 కేంద్రాల ద్వారా 65 లక్షల టన్నులు కొనాలని ప్రభుత్వం ప్రణాళిక వేసింది. కథనం ప్రకారం 100 కంటే తక్కువ కేంద్రాలే తెరుచుకున్నాయి. మిల్లర్లు, వ్యాపారులు క్వింటాకు రూ.1,000 వరకు ధర తగ్గించారని, పలు చోట్ల రైతులు నిరసన తెలిపారని పేర్కొంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/paddy-farmers-struggle-as-government-procurement-delays-trigger-price-crash-2557253",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T06:59+05:30",
-   "pts": [
-    "8,283 కేంద్రాల ద్వారా 65 లక్షల టన్నుల కొనుగోలు లక్ష్యం",
-    "కథనం ప్రకారం 100 లోపు కేంద్రాలే ప్రారంభం",
-    "దొడ్డు రకం క్వింటా రూ.2,000 లోపే పలుకుతోంది"
-   ],
-   "why": "ఖరీఫ్ ధాన్యం అమ్ముకోవాల్సిన లక్షలాది రైతుల ఆదాయంపై ప్రభావం.",
-   "en": {
-    "h": "Paddy stuck on threshing yards as procurement centres not opened",
-    "p": "With most paddy procurement centres in the state yet to open, farmers are waiting with grain on threshing yards, a Namasthe Telangana report said. The government planned to buy 65 lakh tonnes through 8,283 centres. According to the report, fewer than 100 centres have opened. It said millers and traders cut prices by up to Rs 1,000 per quintal and farmers protested in several places.",
-    "pts": [
-     "Target of 65 lakh tonnes via 8,283 centres",
-     "Fewer than 100 centres opened, per report",
-     "Coarse paddy fetching under Rs 2,000 a quintal"
-    ],
-    "why": "It affects the income of lakhs of farmers who must sell kharif paddy.",
-    "cat": "Telangana · Agriculture",
-    "statl": "MSP for Grade-A paddy"
-   },
-   "hi": {
-    "h": "ख़रीद केंद्र न खुलने से खलिहानों में पड़ा धान: किसान परेशान",
-    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार राज्य में अधिकतर धान ख़रीद केंद्र अभी नहीं खुले हैं, जिससे किसान खलिहानों में धान लेकर इंतज़ार कर रहे हैं। सरकार ने 8,283 केंद्रों के ज़रिए 65 लाख टन ख़रीदने की योजना बनाई थी। रिपोर्ट के अनुसार 100 से भी कम केंद्र खुले हैं। इसमें कहा गया कि मिलरों और व्यापारियों ने प्रति क्विंटल 1,000 रुपये तक दाम घटाए और कई जगह किसानों ने विरोध किया।",
-    "pts": [
-     "8,283 केंद्रों से 65 लाख टन ख़रीद का लक्ष्य",
-     "रिपोर्ट के अनुसार 100 से कम केंद्र खुले",
-     "मोटा धान 2,000 रुपये प्रति क्विंटल से कम"
-    ],
-    "why": "इसका असर ख़रीफ़ धान बेचने वाले लाखों किसानों की आय पर पड़ता है।",
-    "cat": "तेलंगाना · कृषि",
-    "statl": "ए-ग्रेड धान का समर्थन मूल्य"
-   },
-   "d": "11.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆర్టీసీ",
-   "col": "--c-city",
-   "art": "power",
-   "stat": "అన్ని",
-   "statl": "బస్ స్టేషన్లలో సీసీటీవీలు",
-   "h": "అన్ని బస్ స్టేషన్లలో సీసీటీవీ కెమెరాలు: ఆర్టీసీ ఎండీ నాగిరెడ్డి",
-   "p": "రాష్ట్రంలోని అన్ని బస్ స్టేషన్లలో త్వరలో సీసీటీవీ కెమెరాలు ఏర్పాటు చేస్తామని ఆర్టీసీ ఎండీ వై. నాగిరెడ్డి ఒక ప్రకటనలో తెలిపారు. ప్రయాణికుల భద్రత, రద్దీ నియంత్రణ, కార్యకలాపాల పర్యవేక్షణ దీని లక్ష్యం. ఈ వ్యవస్థను ప్రాంతీయ కార్యాలయాలు, ప్రధాన కార్యాలయంతో అనుసంధానించి నిరంతరం పర్యవేక్షిస్తామని ఆయన చెప్పినట్లు నమస్తే తెలంగాణ పేర్కొంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-rtc-to-install-cctv-cameras-at-all-bus-stations-2557343",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T04:37+05:30",
-   "pts": [
-    "అన్ని బస్ స్టేషన్లలో త్వరలో సీసీటీవీలు",
-    "ప్రయాణికుల భద్రత, రద్దీ నియంత్రణ లక్ష్యం",
-    "ప్రధాన కార్యాలయం నుంచి నిరంతర పర్యవేక్షణ"
-   ],
-   "why": "రోజూ బస్సుల్లో ప్రయాణించే లక్షలాది మందికి భద్రత పెరుగుతుంది.",
-   "en": {
-    "h": "CCTV cameras at all bus stations: RTC MD Nagi Reddy",
-    "p": "RTC Managing Director Y. Nagi Reddy said in a statement that CCTV cameras will soon be installed at all bus stations in the state. The aim is passenger safety, crowd control and supervision of operations. Namasthe Telangana said the system will be linked to regional offices and the head office for continuous monitoring.",
-    "pts": [
-     "CCTV cameras soon at all bus stations",
-     "Aim: passenger safety, crowd control",
-     "Continuous monitoring from head office"
-    ],
-    "why": "It improves safety for lakhs of people who travel by bus daily.",
-    "cat": "Telangana · RTC",
-    "statl": "Bus stations to get CCTV"
-   },
-   "hi": {
-    "h": "सभी बस स्टेशनों पर सीसीटीवी कैमरे: आरटीसी एमडी नागी रेड्डी",
-    "p": "आरटीसी के प्रबंध निदेशक वाई. नागी रेड्डी ने एक बयान में कहा कि राज्य के सभी बस स्टेशनों पर जल्द सीसीटीवी कैमरे लगाए जाएंगे। इसका उद्देश्य यात्रियों की सुरक्षा, भीड़ नियंत्रण और कामकाज की निगरानी है। नमस्ते तेलंगाना के अनुसार यह व्यवस्था क्षेत्रीय कार्यालयों और मुख्यालय से जोड़ी जाएगी ताकि लगातार निगरानी हो सके।",
-    "pts": [
-     "सभी बस स्टेशनों पर जल्द सीसीटीवी",
-     "यात्री सुरक्षा और भीड़ नियंत्रण लक्ष्य",
-     "मुख्यालय से लगातार निगरानी"
-    ],
-    "why": "इससे रोज़ बस से यात्रा करने वाले लाखों लोगों की सुरक्षा बढ़ेगी।",
-    "cat": "तेलंगाना · आरटीसी",
-    "statl": "बस स्टेशनों पर सीसीटीवी"
-   },
-   "d": "11.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "తెలంగాణ · సంక్షేమం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "నవం. 11",
-   "statl": "మైనారిటీ సంక్షేమ దినోత్సవం",
-   "h": "మైనారిటీ సంక్షేమ దినోత్సవాన్ని ప్రభుత్వం పట్టించుకోవడం లేదు: సంఘం ఆరోపణ",
-   "p": "మౌలానా అబుల్ కలాం ఆజాద్ జయంతి సందర్భంగా నవంబర్ 11న జరిగే మైనారిటీ సంక్షేమ దినోత్సవాన్ని రాష్ట్ర ప్రభుత్వం నిర్లక్ష్యం చేస్తోందని మైనారిటీ సంక్షేమ సంఘం రాష్ట్ర అధ్యక్షుడు ఎండీ యాకూబ్ పాషా ఆరోపించారు. ఏటా మెమో మాత్రమే ఇస్తున్నారని, గతంలోలా నిధులు ఇవ్వడం లేదని అన్నారు. ప్రజావాణిలో వినతిపత్రం ఇచ్చినా స్పందన లేదని చెప్పినట్లు నమస్తే తెలంగాణ పేర్కొంది. కథనంలో ప్రభుత్వ స్పందన లేదు.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/minority-leaders-fire-at-revanth-government-for-neglecting-minority-welfare-day-2557284",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T02:48+05:30",
-   "pts": [
-    "నవంబర్ 11న మైనారిటీ సంక్షేమ దినోత్సవం",
-    "అధికారిక వేడుకలు, నిధులు లేవని ఆరోపణ",
-    "ప్రజావాణిలో వినతిపత్రం ఇచ్చినట్లు వెల్లడి"
-   ],
-   "why": "పాఠశాలలు, విద్యాసంస్థల్లో దినోత్సవ కార్యక్రమాల నిర్వహణకు సంబంధించిన అంశం.",
-   "en": {
-    "h": "Government ignoring Minority Welfare Day, alleges association",
-    "p": "Minority Welfare Association state president MD Yakoob Pasha alleged that the state government is neglecting Minority Welfare Day, observed on November 11 on Maulana Abul Kalam Azad's birth anniversary. He said only a memo is issued every year and funds are not released as before. Namasthe Telangana said he told of a petition at Praja Vani that got no response. The report has no government response.",
-    "pts": [
-     "Minority Welfare Day on November 11",
-     "Alleges no official events or funds",
-     "Says petition given at Praja Vani"
-    ],
-    "why": "The issue concerns holding the day's events in schools and colleges.",
-    "cat": "Telangana · Welfare",
-    "statl": "Minority Welfare Day"
-   },
-   "hi": {
-    "h": "सरकार अल्पसंख्यक कल्याण दिवस की अनदेखी कर रही है: संघ का आरोप",
-    "p": "अल्पसंख्यक कल्याण संघ के प्रदेश अध्यक्ष एमडी याकूब पाशा ने आरोप लगाया कि मौलाना अबुल कलाम आज़ाद की जयंती पर 11 नवंबर को मनाए जाने वाले अल्पसंख्यक कल्याण दिवस की राज्य सरकार अनदेखी कर रही है। उन्होंने कहा कि हर साल केवल एक मेमो जारी होता है और पहले की तरह धनराशि नहीं दी जाती। नमस्ते तेलंगाना के अनुसार उन्होंने प्रजावाणी में दी गई अर्ज़ी पर कोई जवाब न मिलने की बात कही। रिपोर्ट में सरकार का जवाब नहीं है।",
-    "pts": [
-     "11 नवंबर को अल्पसंख्यक कल्याण दिवस",
-     "सरकारी आयोजन और धन न देने का आरोप",
-     "प्रजावाणी में अर्ज़ी देने की बात"
-    ],
-    "why": "यह मामला स्कूलों और कॉलेजों में दिवस के आयोजन से जुड़ा है।",
-    "cat": "तेलंगाना · कल्याण",
-    "statl": "अल्पसंख्यक कल्याण दिवस"
-   },
-   "d": "11.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "ఏపీ · పిల్లల హక్కులు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "తండ్రి పేరు",
-   "statl": "తప్పనిసరి కాకూడదని సూచన",
-   "h": "ప్రభుత్వ పత్రాల్లో తండ్రి పేరు తప్పనిసరి కాకూడదు: ఏపీ బాలల హక్కుల కమిషన్",
-   "p": "చట్టప్రకారం అవసరం లేని చోట్ల ప్రభుత్వ దరఖాస్తులు, రికార్డుల్లో తండ్రి పేరును తప్పనిసరి చేయవద్దని ఏపీ బాలల హక్కుల పరిరక్షణ కమిషన్ సూచించింది. విజయవాడలో జరిగిన రాష్ట్రస్థాయి వర్క్‌షాప్‌లో కమిషన్ చైర్‌పర్సన్ వేటుకూరి రాజు మాట్లాడారు. ఒంటరి, వితంతు తల్లుల పిల్లలు, అక్రమ రవాణా బాధితులు ఇబ్బంది పడుతున్నారని చెప్పారు. జీవో తేవాలని మహిళా కమిషన్ చైర్‌పర్సన్ రాయపాటి శైలజ కోరారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/call-for-child-friendly-documentation-policies-1140894",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "AP",
-   "place": "ap-ntr",
-   "loc": "విజయవాడ",
-   "pub": "2026-11-11T01:37+05:30",
-   "pts": [
-    "విజయవాడలో రాష్ట్రస్థాయి వర్క్‌షాప్",
-    "తండ్రి పేరు ఐచ్ఛికం చేయాలని సూచన",
-    "ప్రభుత్వ ఉత్తర్వు తేవాలని మహిళా కమిషన్ డిమాండ్"
-   ],
-   "why": "ఒంటరి తల్లుల పిల్లలకు చదువు, గుర్తింపు పత్రాలు, సంక్షేమం సులభంగా అందే అవకాశం.",
-   "en": {
-    "h": "Father's name should not be mandatory in government documents: AP child rights panel",
-    "p": "The AP State Commission for Protection of Child Rights suggested that the father's name should not be mandatory in government forms and records where the law does not require it. Commission chairperson Vetukuri Raju spoke at a state-level workshop in Vijayawada. He said children of single and widowed mothers and trafficking survivors face difficulties. Women's commission chairperson Rayapati Sailaja sought a Government Order.",
-    "pts": [
-     "State-level workshop held in Vijayawada",
-     "Suggests making father's name optional",
-     "Women's commission seeks Government Order"
-    ],
-    "why": "Children of single mothers could get education, ID documents and welfare more easily.",
-    "cat": "AP · Child Rights",
-    "statl": "Should not be mandatory"
-   },
-   "hi": {
-    "h": "सरकारी दस्तावेज़ों में पिता का नाम अनिवार्य न हो: एपी बाल अधिकार आयोग",
-    "p": "आंध्र प्रदेश बाल अधिकार संरक्षण आयोग ने सुझाव दिया कि जहाँ क़ानूनन ज़रूरी न हो, वहाँ सरकारी फ़ॉर्म और रिकॉर्ड में पिता का नाम अनिवार्य न किया जाए। आयोग के अध्यक्ष वेटुकुरी राजू ने विजयवाड़ा में राज्य स्तरीय कार्यशाला में यह बात कही। उन्होंने कहा कि अकेली और विधवा माताओं के बच्चे तथा तस्करी पीड़ित कठिनाइयों का सामना करते हैं। महिला आयोग की अध्यक्ष रायपाटी शैलजा ने सरकारी आदेश की मांग की।",
-    "pts": [
-     "विजयवाड़ा में राज्य स्तरीय कार्यशाला",
-     "पिता का नाम वैकल्पिक करने का सुझाव",
-     "महिला आयोग ने सरकारी आदेश मांगा"
-    ],
-    "why": "अकेली माताओं के बच्चों को शिक्षा, पहचान पत्र और कल्याण आसानी से मिल सकेगा।",
-    "cat": "एपी · बाल अधिकार",
-    "statl": "अनिवार्य न हो"
-   },
-   "d": "11.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "భారత్ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "32",
-   "statl": "స్థానాల్లో ఓట్ల తేడా: నివేదిక",
-   "h": "2024 ఎన్నికల్లో 32 స్థానాల్లో పోలైన, లెక్కించిన ఓట్లలో తేడా: దర్యాప్తు నివేదిక",
-   "p": "2024లో మహారాష్ట్ర, హర్యానా, జమ్మూకశ్మీర్ ఎన్నికలకు సంబంధించిన ఎన్నికల సంఘం రికార్డులను పరిశీలించిన ‘ది రిపోర్టర్స్ కలెక్టివ్’ దర్యాప్తు ప్రకారం 32 స్థానాల్లో పోలైన ఓట్లు, లెక్కించిన ఓట్ల మధ్య తేడా కనిపించింది. 51 స్థానాల్లో రికార్డులు సరిపోలేదని నివేదిక పేర్కొంది. అన్ని దశలూ సజావుగా జరిగాయని ఈసీ నివేదిక ఇచ్చినట్లు, 20 స్థానాల్లో రీపోల్ కావాలని కాంగ్రెస్ కోరినట్లు నమస్తే తెలంగాణ తెలిపింది.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/national/investigative-report-flags-discrepancies-between-votes-polled-and-counted-in-51-seats-2557141",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pub": "2026-11-11T03:20+05:30",
-   "pts": [
-    "467 అసెంబ్లీ, 63 లోక్‌సభ స్థానాల రికార్డుల పరిశీలన",
-    "12 చోట్ల తక్కువ, 20 చోట్ల ఎక్కువ ఓట్లు లెక్కింపు: నివేదిక",
-    "అన్ని దశలు సజావుగా జరిగాయన్న ఈసీ"
-   ],
-   "why": "ఎన్నికల రికార్డుల పారదర్శకతపై ప్రశ్నలు, దేశవ్యాప్తంగా ఓటర్లకు సంబంధించిన అంశం.",
-   "en": {
-    "h": "Polled and counted votes differ in 32 seats in 2024 polls: investigative report",
-    "p": "An investigation by The Reporters Collective into Election Commission records of the 2024 Maharashtra, Haryana and Jammu and Kashmir elections found differences between votes polled and counted in 32 seats. The report said records were insufficient in 51 seats. Namasthe Telangana said the EC submitted a report saying all phases went smoothly, and Congress sought re-polls in 20 seats.",
-    "pts": [
-     "Records of 467 Assembly, 63 Lok Sabha seats examined",
-     "Fewer votes counted in 12, more in 20: report",
-     "EC says all phases went smoothly"
-    ],
-    "why": "It raises questions on transparency of election records, a matter for voters nationwide.",
-    "cat": "India · Elections",
-    "statl": "Seats with vote gap: report"
-   },
-   "hi": {
-    "h": "2024 चुनावों में 32 सीटों पर डाले गए और गिने गए वोटों में अंतर: जांच रिपोर्ट",
-    "p": "2024 में महाराष्ट्र, हरियाणा और जम्मू-कश्मीर चुनावों के चुनाव आयोग रिकॉर्ड की 'द रिपोर्टर्स कलेक्टिव' की जांच के अनुसार 32 सीटों पर डाले गए और गिने गए वोटों में अंतर मिला। रिपोर्ट में कहा गया कि 51 सीटों पर रिकॉर्ड अपर्याप्त थे। नमस्ते तेलंगाना के अनुसार चुनाव आयोग ने रिपोर्ट दी कि सभी चरण सुचारु रहे, और कांग्रेस ने 20 सीटों पर दोबारा मतदान की मांग की।",
-    "pts": [
-     "467 विधानसभा, 63 लोकसभा सीटों के रिकॉर्ड जांचे",
-     "12 पर कम, 20 पर ज़्यादा वोट गिने: रिपोर्ट",
-     "चुनाव आयोग: सभी चरण सुचारु रहे"
-    ],
-    "why": "इससे चुनावी रिकॉर्ड की पारदर्शिता पर सवाल उठते हैं, जो देशभर के मतदाताओं से जुड़ा है।",
-    "cat": "भारत · चुनाव",
-    "statl": "वोट अंतर वाली सीटें: रिपोर्ट"
    },
    "d": "11.11.2026",
    "t": "08:05"
