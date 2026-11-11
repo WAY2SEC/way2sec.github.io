@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 77,
+ "count": 79,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పారిశుద్ధ్యం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "2025-26",
+   "statl": "స్వచ్ఛ సర్వేక్షణ్ జాతీయ అవార్డు",
+   "h": "తెలంగాణకు స్వచ్ఛ సర్వేక్షణ్ జాతీయ అవార్డు: నేడు ఢిల్లీలో ప్రదానం",
+   "p": "స్వచ్ఛ సర్వేక్షణ్ 2025-26 జాతీయ అవార్డును తెలంగాణ ప్రభుత్వం ఈరోజు అందుకోనుంది. ఢిల్లీలోని విజ్ఞాన్ భవన్‌లో రాష్ట్రపతి ఈ అవార్డులను ప్రదానం చేయనున్నారు. రాష్ట్రం తరఫున హైదరాబాద్ ఇన్‌చార్జ్ మంత్రి పొన్నం, జీహెచ్‌ఎంసీ కమిషనర్, హెచ్‌ఎండీఏ కమిషనర్ అవార్డును స్వీకరిస్తారు. పట్టణాలు, నగరాల్లో పారిశుద్ధ్యం, పరిశుభ్రత ప్రమాణాల ఆధారంగా ఈ అవార్డులు ఇస్తారని ఈటీవీ భారత్ పేర్కొంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-latest-top-news-information-across-telangana-tgs26111100387",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "విజ్ఞాన్ భవన్‌లో రాష్ట్రపతి చేతుల మీదుగా ప్రదానం",
+    "మంత్రి పొన్నం, జీహెచ్‌ఎంసీ, హెచ్‌ఎండీఏ కమిషనర్ల స్వీకరణ",
+    "పారిశుద్ధ్య, పరిశుభ్రత ప్రమాణాల ఆధారంగా అవార్డులు"
+   ],
+   "why": "పట్టణాలు, నగరాల పరిశుభ్రతలో రాష్ట్ర పనితీరుకు ఇది జాతీయ స్థాయి గుర్తింపు.",
+   "d": "11.11.2026",
+   "t": "12:05",
+   "pub": "2026-11-11T09:32+05:30",
+   "en": {
+    "h": "Telangana to receive Swachh Survekshan national award in Delhi today",
+    "p": "The Telangana government will receive the Swachh Survekshan 2025-26 national award today. The President will present the awards at Vigyan Bhavan in Delhi. Hyderabad in-charge minister Ponnam, the GHMC commissioner and the HMDA commissioner will receive the award on the state's behalf. ETV Bharat said the awards are based on sanitation and cleanliness standards in towns and cities.",
+    "pts": [
+     "President to present awards at Vigyan Bhavan",
+     "Minister Ponnam, GHMC and HMDA commissioners to receive it",
+     "Awards based on sanitation and cleanliness standards"
+    ],
+    "why": "It is national recognition of the state's performance in keeping towns and cities clean.",
+    "cat": "Telangana · Sanitation",
+    "statl": "Swachh Survekshan national award"
+   },
+   "hi": {
+    "h": "तेलंगाना को स्वच्छ सर्वेक्षण राष्ट्रीय पुरस्कार: आज दिल्ली में मिलेगा",
+    "p": "तेलंगाना सरकार आज स्वच्छ सर्वेक्षण 2025-26 का राष्ट्रीय पुरस्कार प्राप्त करेगी। दिल्ली के विज्ञान भवन में राष्ट्रपति ये पुरस्कार प्रदान करेंगे। राज्य की ओर से हैदराबाद के प्रभारी मंत्री पोन्नम, जीएचएमसी आयुक्त और एचएमडीए आयुक्त पुरस्कार ग्रहण करेंगे। ईटीवी भारत के अनुसार ये पुरस्कार कस्बों और शहरों में साफ-सफाई और स्वच्छता मानकों के आधार पर दिए जाते हैं।",
+    "pts": [
+     "विज्ञान भवन में राष्ट्रपति देंगी पुरस्कार",
+     "मंत्री पोन्नम, जीएचएमसी व एचएमडीए आयुक्त करेंगे ग्रहण",
+     "साफ-सफाई और स्वच्छता मानकों के आधार पर पुरस्कार"
+    ],
+    "why": "यह कस्बों और शहरों की स्वच्छता में राज्य के प्रदर्शन की राष्ट्रीय पहचान है।",
+    "cat": "तेलंगाना · स्वच्छता",
+    "statl": "स्वच्छ सर्वेक्षण राष्ट्रीय पुरस्कार"
+   }
+  },
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "6%+",
+   "statl": "ఒక్క రోజులో ఎన్విడియా షేరు పతనం",
+   "h": "ఎన్విడియా షేర్ల పతనం: ప్రపంచంలో రెండో విలువైన కంపెనీగా మైక్రోసాఫ్ట్",
+   "p": "ఏఐ చిప్ దిగ్గజం ఎన్విడియా షేర్లు భారీగా పడిపోవడంతో మైక్రోసాఫ్ట్ ప్రపంచంలో రెండో అత్యంత విలువైన కంపెనీగా నిలిచిందని ఈటీవీ భారత్ పేర్కొంది. ఎన్విడియా షేరు ఒక్క రోజులోనే 6 శాతానికి పైగా తగ్గి 167 డాలర్లకు చేరింది. దీంతో కంపెనీ మార్కెట్ విలువ 400 బిలియన్ డాలర్లు తగ్గి మూడో స్థానానికి పడిపోయింది. రెండు రోజుల్లో షేర్లు 10.6 శాతం పడ్డాయని ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-latest-top-news-information-across-telangana-tgs26111100387",
+   "sec": [
+    "world",
+    "ai",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఒక్క రోజులో 6 శాతానికి పైగా తగ్గిన ఎన్విడియా షేరు",
+    "400 బిలియన్ డాలర్ల మార్కెట్ విలువ తగ్గుదల",
+    "మూడో స్థానానికి ఎన్విడియా, రెండో స్థానంలో మైక్రోసాఫ్ట్"
+   ],
+   "why": "ఏఐ చిప్‌లు తయారు చేసే అగ్రశ్రేణి కంపెనీ విలువలో మార్పు టెక్ రంగం, షేర్ మార్కెట్‌ను గమనించే వారికి ముఖ్యం.",
+   "d": "11.11.2026",
+   "t": "12:05",
+   "pub": "2026-11-11T06:42+05:30",
+   "en": {
+    "h": "Nvidia shares tumble; Microsoft becomes world's second most valuable company",
+    "p": "ETV Bharat said Microsoft has become the world's second most valuable company after a sharp fall in shares of AI chip giant Nvidia. Nvidia's share fell more than 6 percent in a single day to 167 dollars. The company lost 400 billion dollars in market value and slipped to third place. Andhra Jyothy reported that the shares fell 10.6 percent over two days.",
+    "pts": [
+     "Nvidia share down over 6 percent in one day",
+     "Market value falls by 400 billion dollars",
+     "Nvidia slips to third, Microsoft now second"
+    ],
+    "why": "A change in the value of the top AI chip maker matters to those following the tech sector and share markets.",
+    "cat": "World · Technology",
+    "statl": "Nvidia share fall in one day"
+   },
+   "hi": {
+    "h": "एनवीडिया के शेयर गिरे: माइक्रोसॉफ्ट बनी दुनिया की दूसरी सबसे मूल्यवान कंपनी",
+    "p": "ईटीवी भारत के अनुसार एआई चिप दिग्गज एनवीडिया के शेयरों में भारी गिरावट के बाद माइक्रोसॉफ्ट दुनिया की दूसरी सबसे मूल्यवान कंपनी बन गई है। एनवीडिया का शेयर एक ही दिन में 6 प्रतिशत से ज्यादा गिरकर 167 डॉलर पर आ गया। इससे कंपनी का बाजार मूल्य 400 अरब डॉलर घट गया और वह तीसरे स्थान पर खिसक गई। आंध्र ज्योति के मुताबिक दो दिनों में शेयर 10.6 प्रतिशत गिरे।",
+    "pts": [
+     "एक दिन में 6 प्रतिशत से ज्यादा गिरा एनवीडिया का शेयर",
+     "बाजार मूल्य 400 अरब डॉलर घटा",
+     "एनवीडिया तीसरे, माइक्रोसॉफ्ट दूसरे स्थान पर"
+    ],
+    "why": "शीर्ष एआई चिप निर्माता के मूल्य में बदलाव टेक क्षेत्र और शेयर बाजार पर नजर रखने वालों के लिए अहम है।",
+    "cat": "विश्व · टेक्नोलॉजी",
+    "statl": "एक दिन में एनवीडिया शेयर गिरावट"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · రోడ్డు ప్రమాదం",
    "col": "--c-power",
