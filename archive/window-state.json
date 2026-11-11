@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T19:05:00+05:30",
+ "cutoff": "2026-11-11T19:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -777,6 +777,19 @@
    "skipped": 3,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Most searches returned stale tag/listing pages (Telangana Today, Siasat, Deccan Chronicle, Hans India). Eenadu, Sakshi, TV9, V6, NTV, ETV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicate: NT Uttam aruthadi/Reddlakunta 2557613 (AJ flash reddlakunta-lift already seen). Skipped: NT Chekumuki poster (non-news promo), NT TN CM Vijay emergency meeting (minor other-state), AJ MPP/ZP 1575121 (03:57, before lookback 10:35)."
+  },
+  {
+   "window": "2026-11-11T19:05:00+05:30/2026-11-11T19:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 8,
+   "published": 8,
+   "late": 3,
+   "sensitive": 1,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 1,
+   "review": 2,
+   "gaps": "Search-first; WebFetch via sub-agent. Eenadu pages refused (robots) - 2 URLs to review. Most searches returned stale listing pages; Sakshi, TV9, V6, NTV, ETV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Skipped: Sakshi AP HC 7 cases (02:22, before lookback 11:05)."
   }
  ],
  "seen": [
@@ -3339,6 +3352,61 @@
    "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/ap-mpp-and-zp-chairperson-elections-on-november-19-and-20-1575121.html",
    "d": "11.11.2026",
    "w": "19:05"
+  },
+  {
+   "url": "https://www.siasat.com/125-telangana-shops-face-notices-over-habit-forming-drug-sales-3574561/",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/brsv-urges-ou-to-halt-demolition-of-hostels-restore-utilities",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/qualcomm-begins-bengaluru-layoffs-hyderabad-may-follow",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://indtoday.com/kollur-road-accidents-four-seriously-injured-in-seperate-mishaps/",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/india-advance-to-saff-last-four-after-1-0-victory",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/telangana-begins-merging-government-schools-to-establish-tgps",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://www.ntnews.com/nalgonda/let-us-fight-against-privatization-2557748",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://www.siasat.com/hyderabad-bharat-summit-to-host-delegates-from-over-70-countries-3573976/",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/andhra-pradesh-high-court-hears-seven-cases-involving-chandrababu-naidu",
+   "d": "11.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/126204956",
+   "d": "11.11.2026",
+   "w": "review"
+  },
+  {
+   "url": "https://eenadu.net/live-news/general/today-latest-news-updates11112026/6302/126204838",
+   "d": "11.11.2026",
+   "w": "review"
   }
  ]
 }

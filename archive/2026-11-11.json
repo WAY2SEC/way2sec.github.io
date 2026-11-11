@@ -1,8 +1,410 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 149,
+ "count": 157,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "125",
+   "statl": "మెడికల్ షాపులకు షోకాజ్ నోటీసులు",
+   "h": "అలవాటు పుట్టించే మందుల అక్రమ విక్రయం: 125 మెడికల్ షాపులకు నోటీసులు",
+   "p": "అలవాటు పుట్టించే మందుల అక్రమ అమ్మకాలపై తెలంగాణ ఫుడ్ అండ్ ఎసెన్షియల్ డ్రగ్స్ స్టాండర్డ్స్ అథారిటీ (టీజీ సేఫ్) బుధవారం ప్రత్యేక తనిఖీలు చేపట్టింది. మేడ్చల్, శేరిలింగంపల్లి జోన్లపై దృష్టి పెట్టి డెకాయ్ కొనుగోళ్లు చేశారు. ప్రిస్క్రిప్షన్ లేకుండా అమ్మకాలు, షెడ్యూల్ హెచ్1 రిజిస్టర్లు లేకపోవడం, ఫార్మసిస్ట్ లేకుండా విక్రయం వంటి ఉల్లంఘనలు గుర్తించారు. 125 షాపులకు షోకాజ్ నోటీసులు జారీ చేశారు; లైసెన్సుల సస్పెన్షన్ లేదా రద్దు చర్యలు తీసుకోనున్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/125-telangana-shops-face-notices-over-habit-forming-drug-sales-3574561/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "టీజీ సేఫ్ ప్రత్యేక డ్రైవ్‌లో 125 షాపుల్లో ఉల్లంఘనలు",
+    "ట్రామడాల్, ఆల్ప్రజోలం, కోడీన్ సిరప్‌లపై తనిఖీ",
+    "లైసెన్సుల సస్పెన్షన్ లేదా రద్దు చర్యలు రానున్నాయి"
+   ],
+   "why": "ప్రిస్క్రిప్షన్ లేకుండా ప్రమాదకర మందుల అమ్మకాలు అరికట్టడం ప్రజారోగ్యానికి కీలకం.",
+   "pub": "2026-11-11T19:29+05:30",
+   "en": {
+    "h": "Habit-forming drug sales: notices to 125 Telangana medical shops",
+    "p": "The Telangana Standards Authority for Food and Essential Drugs (TG SAFE) held a special drive on Wednesday against illegal sale of habit-forming drugs. Focusing on Medchal and Serilingampally zones, teams made decoy purchases. Violations found included sales without prescriptions, missing Schedule H1 registers and dispensing without pharmacists. Show-cause notices were issued to 125 shops; suspension or cancellation of licences will follow.",
+    "pts": [
+     "TG SAFE drive finds violations at 125 shops",
+     "Tramadol, Alprazolam, codeine syrups checked",
+     "Licence suspension or cancellation to follow"
+    ],
+    "why": "Curbing sale of risky drugs without prescription is key to public health.",
+    "cat": "Telangana · Health",
+    "statl": "Shops served show-cause notices"
+   },
+   "hi": {
+    "h": "आदत डालने वाली दवाओं की अवैध बिक्री: तेलंगाना की 125 दवा दुकानों को नोटिस",
+    "p": "तेलंगाना स्टैंडर्ड्स अथॉरिटी फॉर फूड एंड एसेंशियल ड्रग्स (टीजी सेफ) ने बुधवार को आदत डालने वाली दवाओं की अवैध बिक्री के खिलाफ विशेष अभियान चलाया। मेडचल और शेरिलिंगमपल्ली ज़ोन पर ध्यान देकर टीमों ने डिकॉय खरीदारी की। बिना पर्चे बिक्री, शेड्यूल एच1 रजिस्टर न होना और बिना फार्मासिस्ट दवा देना जैसे उल्लंघन मिले। 125 दुकानों को कारण बताओ नोटिस दिए गए; लाइसेंस निलंबन या रद्द करने की कार्रवाई होगी।",
+    "pts": [
+     "टीजी सेफ अभियान में 125 दुकानों पर उल्लंघन",
+     "ट्रामाडोल, अल्प्राजोलम, कोडीन सिरप की जांच",
+     "लाइसेंस निलंबन या रद्द करने की कार्रवाई होगी"
+    ],
+    "why": "बिना पर्चे जोखिम भरी दवाओं की बिक्री रोकना जनस्वास्थ्य के लिए अहम है।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "दुकानों को कारण बताओ नोटिस"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "₹1,000 కోట్లు",
+   "statl": "ఓయూకు విడుదల చేయాలని డిమాండ్",
+   "h": "ఓయూ హాస్టళ్ల కూల్చివేత ఆపాలి: బీఆర్ఎస్వీ డిమాండ్",
+   "p": "ఉస్మానియా యూనివర్సిటీలో ఈ1, ఈ2, డి హాస్టళ్ల కూల్చివేతను ఆపి, విద్యుత్, నీటి సరఫరా పునరుద్ధరించాలని బీఆర్ఎస్వీ బుధవారం డిమాండ్ చేసింది. ఓయూ రిజిస్ట్రార్ ప్రొ. జి. నరేశ్ రెడ్డికి వినతిపత్రం ఇచ్చిన బీఆర్ఎస్వీ ప్రధాన కార్యదర్శి జంగయ్య, ఉద్యోగ పోటీ పరీక్షలకు సిద్ధమవుతున్న విద్యార్థులు వసతి లేక ఇబ్బంది పడుతున్నారని అన్నారు. వర్సిటీకి హామీ ఇచ్చిన ₹1,000 కోట్లు విడుదల చేయాలని కోరారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/brsv-urges-ou-to-halt-demolition-of-hostels-restore-utilities",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "ఉస్మానియా యూనివర్సిటీ",
+   "pts": [
+    "ఈ1, ఈ2, డి హాస్టళ్ల కూల్చివేత ఆపాలని డిమాండ్",
+    "విద్యుత్, నీటి సరఫరా పునరుద్ధరించాలని వినతి",
+    "ఖాళీ పోస్టుల భర్తీకి నోటిఫికేషన్లు కోరిన బీఆర్ఎస్వీ"
+   ],
+   "why": "ఓయూ హాస్టళ్లలో ఉండి పోటీ పరీక్షలకు సిద్ధమవుతున్న విద్యార్థుల వసతిపై ప్రభావం ఉంది.",
+   "pub": "2026-11-11T19:30+05:30",
+   "en": {
+    "h": "Stop demolition of OU hostels: BRSV demands",
+    "p": "The BRSV on Wednesday demanded that Osmania University halt demolition of its E1, E2 and D hostels and restore power and water supply. Submitting a representation to OU Registrar Prof G Naresh Reddy, BRSV general secretary Jangaiah said students preparing for job exams were left without accommodation. He sought release of the Rs 1,000 crore promised to the university.",
+    "pts": [
+     "Demand to halt demolition of E1, E2, D hostels",
+     "Plea to restore power and water supply",
+     "BRSV seeks notifications for vacant posts"
+    ],
+    "why": "It affects OU hostel students preparing for competitive exams.",
+    "cat": "Hyderabad · Education",
+    "statl": "Sought for OU"
+   },
+   "hi": {
+    "h": "ओयू हॉस्टलों को गिराना रोका जाए: बीआरएसवी की मांग",
+    "p": "बीआरएसवी ने बुधवार को उस्मानिया यूनिवर्सिटी से ई1, ई2 और डी हॉस्टलों को गिराना रोकने और बिजली-पानी की आपूर्ति बहाल करने की मांग की। ओयू रजिस्ट्रार प्रो. जी. नरेश रेड्डी को ज्ञापन देते हुए बीआरएसवी महासचिव जंगय्या ने कहा कि नौकरी की परीक्षाओं की तैयारी कर रहे छात्र बिना आवास के रह गए हैं। उन्होंने यूनिवर्सिटी को वादा किए गए ₹1,000 करोड़ जारी करने की मांग की।",
+    "pts": [
+     "ई1, ई2, डी हॉस्टल गिराना रोकने की मांग",
+     "बिजली और पानी आपूर्ति बहाल करने की अपील",
+     "बीआरएसवी ने रिक्त पदों पर अधिसूचना मांगी"
+    ],
+    "why": "इससे प्रतियोगी परीक्षाओं की तैयारी कर रहे ओयू हॉस्टल छात्र प्रभावित हैं।",
+    "cat": "हैदराबाद · शिक्षा",
+    "statl": "ओयू के लिए मांग"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "భారత్ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "~1,000",
+   "statl": "ఉద్యోగాలపై ప్రభావం (నివేదికలు)",
+   "h": "బెంగళూరులో క్వాల్‌కామ్ లేఆఫ్‌లు ప్రారంభం: హైదరాబాద్‌కూ విస్తరించే అవకాశం",
+   "p": "ప్రపంచవ్యాప్త పునర్వ్యవస్థీకరణలో భాగంగా క్వాల్‌కామ్ భారత్‌లో ఉద్యోగుల తొలగింపు ప్రారంభించిందని ఐఏఎన్ఎస్ కథనం. నివేదికల ప్రకారం సుమారు 1,000 మంది, అంటే భారత్ సిబ్బందిలో 5–6 శాతం మందిపై ప్రభావం పడవచ్చు. బెంగళూరులో మొదలైన ఈ ప్రక్రియ రానున్న రోజుల్లో హైదరాబాద్, ఢిల్లీ-ఎన్‌సీఆర్, చెన్నై కేంద్రాలకూ చేరవచ్చని అంచనా. పరిహార నిబంధనలను సంస్థ అధికారికంగా ధృవీకరించలేదు.",
+   "src": "Telangana Today (IANS)",
+   "url": "https://telanganatoday.com/qualcomm-begins-bengaluru-layoffs-hyderabad-may-follow",
+   "sec": [
+    "india",
+    "jobs",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "బెంగళూరులో సీనియర్ ఇంజినీర్లపై ప్రధానంగా ప్రభావం",
+    "హైదరాబాద్, చెన్నై, ఢిల్లీ-ఎన్‌సీఆర్‌కు విస్తరించే అవకాశం",
+    "అక్టోబర్ 20న సీఈఓ పునర్వ్యవస్థీకరణ ప్రకటన"
+   ],
+   "why": "హైదరాబాద్‌లోని క్వాల్‌కామ్ ఇంజినీరింగ్, పరిశోధన కేంద్రాల ఉద్యోగులపై ప్రభావం పడవచ్చు.",
+   "pub": "2026-11-11T19:10+05:30",
+   "en": {
+    "h": "Qualcomm begins layoffs in Bengaluru; Hyderabad may follow",
+    "p": "Qualcomm has begun laying off employees in India as part of a global restructuring, IANS reported. Reports say about 1,000 staff, nearly 5–6 per cent of its India workforce, could be affected. The process began in Bengaluru and is expected to reach its Hyderabad, Delhi-NCR and Chennai centres in the coming days. The company has not officially confirmed the severance terms.",
+    "pts": [
+     "Senior engineers in Bengaluru mainly hit",
+     "May extend to Hyderabad, Chennai, Delhi-NCR",
+     "CEO announced restructuring on October 20"
+    ],
+    "why": "Employees at Qualcomm's Hyderabad engineering and research centres may be affected.",
+    "cat": "India · Jobs",
+    "statl": "Jobs may be hit (reports)"
+   },
+   "hi": {
+    "h": "क्वालकॉम ने बेंगलुरु में छंटनी शुरू की: हैदराबाद में भी हो सकती है",
+    "p": "आईएएनएस के अनुसार वैश्विक पुनर्गठन के तहत क्वालकॉम ने भारत में कर्मचारियों की छंटनी शुरू कर दी है। रिपोर्टों के मुताबिक करीब 1,000 कर्मचारी, यानी भारत के स्टाफ का 5–6 प्रतिशत, प्रभावित हो सकते हैं। प्रक्रिया बेंगलुरु से शुरू हुई और आने वाले दिनों में हैदराबाद, दिल्ली-एनसीआर और चेन्नई केंद्रों तक पहुंच सकती है। कंपनी ने मुआवज़े की शर्तों की आधिकारिक पुष्टि नहीं की है।",
+    "pts": [
+     "बेंगलुरु में मुख्य रूप से वरिष्ठ इंजीनियर प्रभावित",
+     "हैदराबाद, चेन्नई, दिल्ली-एनसीआर तक विस्तार संभव",
+     "सीईओ ने 20 अक्टूबर को पुनर्गठन की घोषणा की"
+    ],
+    "why": "हैदराबाद के क्वालकॉम इंजीनियरिंग और रिसर्च केंद्रों के कर्मचारी प्रभावित हो सकते हैं।",
+    "cat": "भारत · नौकरियां",
+    "statl": "नौकरियों पर असर (रिपोर्ट)"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "సంగారెడ్డి · రోడ్డు ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "4",
+   "statl": "మందికి తీవ్ర గాయాలు",
+   "h": "కొల్లూరు వద్ద ఓఆర్ఆర్‌పై వరుస ప్రమాదాలు: నలుగురికి తీవ్ర గాయాలు",
+   "p": "సంగారెడ్డి జిల్లా కొల్లూరు సమీపంలో ఔటర్ రింగ్ రోడ్డుపై బుధవారం వరుసగా రెండు ప్రమాదాలు జరిగాయని ఇండ్‌టుడే కథనం. ఓ కారు లారీని ఢీకొనగా, అందులోని నలుగురు బయటకు దిగారు. వెనుక నుంచి వచ్చిన మరో కారు వారిని ఢీకొనడంతో నలుగురూ తీవ్రంగా గాయపడ్డారు. అటుగా వెళ్తున్న ఎమ్మెల్సీ అంజిరెడ్డి వారిని తన కారులో హైదరాబాద్ ఆసుపత్రికి తరలించారు. కొల్లూరు పోలీసులు కేసు నమోదు చేశారు.",
+   "src": "IndToday",
+   "url": "https://indtoday.com/kollur-road-accidents-four-seriously-injured-in-seperate-mishaps/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కొల్లూరు",
+   "pts": [
+    "కారు-లారీ ఢీ తర్వాత మరో కారు ఢీకొంది",
+    "గాయపడిన వారిని ఆసుపత్రికి తరలించిన ఎమ్మెల్సీ అంజిరెడ్డి",
+    "కొల్లూరు పోలీసుల కేసు నమోదు, దర్యాప్తు"
+   ],
+   "why": "ఓఆర్ఆర్‌పై ప్రమాదం తర్వాత వాహనాల నుంచి దిగడం ఎంత ప్రమాదకరమో ఈ ఘటన చూపుతోంది.",
+   "pub": "2026-11-11T19:17+05:30",
+   "en": {
+    "h": "Back-to-back crashes on ORR near Kollur: four seriously injured",
+    "p": "Two consecutive accidents occurred on the Outer Ring Road near Kollur in Sangareddy district on Wednesday, IndToday reported. A car hit a lorry and four occupants stepped out. Another car coming from behind then hit them, seriously injuring all four. MLC Anji Reddy, passing by, took them to a hospital in Hyderabad in his car. Kollur police registered a case.",
+    "pts": [
+     "Car hit four after a car-lorry collision",
+     "MLC Anji Reddy took injured to hospital",
+     "Kollur police register case, probe on"
+    ],
+    "why": "It shows how risky it is to step out of vehicles after a crash on the ORR.",
+    "cat": "Sangareddy · Road accident",
+    "statl": "Seriously injured"
+   },
+   "hi": {
+    "h": "कोल्लूर के पास ओआरआर पर लगातार हादसे: चार गंभीर रूप से घायल",
+    "p": "इंडटुडे के अनुसार संगारेड्डी ज़िले में कोल्लूर के पास आउटर रिंग रोड पर बुधवार को लगातार दो हादसे हुए। एक कार लॉरी से टकराई और उसमें सवार चार लोग बाहर उतरे। पीछे से आई दूसरी कार ने उन्हें टक्कर मार दी, जिससे चारों गंभीर रूप से घायल हो गए। वहां से गुज़र रहे एमएलसी अंजी रेड्डी उन्हें अपनी कार में हैदराबाद के अस्पताल ले गए। कोल्लूर पुलिस ने मामला दर्ज किया।",
+    "pts": [
+     "कार-लॉरी टक्कर के बाद दूसरी कार ने चार को टक्कर मारी",
+     "एमएलसी अंजी रेड्डी घायलों को अस्पताल ले गए",
+     "कोल्लूर पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह दिखाता है कि ओआरआर पर हादसे के बाद वाहन से उतरना कितना जोखिम भरा है।",
+    "cat": "संगारेड्डी · सड़क हादसा",
+    "statl": "गंभीर रूप से घायल"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "భారత్ · ఫుట్‌బాల్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "1-0",
+   "statl": "మాల్దీవులపై భారత్ విజయం",
+   "h": "శాఫ్ ఛాంపియన్‌షిప్: మాల్దీవులపై గెలిచి సెమీస్‌కు భారత్",
+   "p": "ఢాకాలో బుధవారం జరిగిన శాఫ్ ఛాంపియన్‌షిప్ గ్రూప్-బి మ్యాచ్‌లో భారత్ 1-0తో మాల్దీవులను ఓడించి సెమీఫైనల్‌కు చేరిందని పీటీఐ తెలిపింది. 38వ నిమిషంలో అబ్దుల్ రబీహ్‌ను బాక్స్‌లో పడగొట్టడంతో వచ్చిన పెనాల్టీని సుహైల్ అహ్మద్ భట్ గోల్‌గా మలిచాడు. సీనియర్ జట్టు న్యూజిలాండ్‌తో స్నేహపూర్వక మ్యాచ్‌లు ఆడుతుండటంతో, అండర్-23 కోచ్ నౌషాద్ మూసా నేతృత్వంలో యువ జట్టు బరిలోకి దిగింది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/india-advance-to-saff-last-four-after-1-0-victory",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "38వ నిమిషంలో సుహైల్ భట్ పెనాల్టీ గోల్",
+    "గ్రూప్-బి నుంచి సెమీఫైనల్‌కు భారత్",
+    "నౌషాద్ మూసా శిక్షణలో యువ జట్టు"
+   ],
+   "why": "భారత ఫుట్‌బాల్ అభిమానులకు, యువ ఆటగాళ్లకు ఇది ప్రోత్సాహకర ఫలితం.",
+   "pub": "2026-11-11T19:07+05:30",
+   "en": {
+    "h": "SAFF Championship: India beat Maldives to reach semis",
+    "p": "India beat Maldives 1-0 in a SAFF Championship Group B match in Dhaka on Wednesday to reach the semifinals, PTI reported. Suhail Ahmad Bhat converted a 38th-minute penalty awarded after Abdul Rabeeh was fouled in the box. With the senior team playing friendlies against New Zealand, a young side led by Under-23 coach Naushad Moosa took the field.",
+    "pts": [
+     "Suhail Bhat penalty goal in 38th minute",
+     "India reach semifinals from Group B",
+     "Young squad under coach Naushad Moosa"
+    ],
+    "why": "An encouraging result for Indian football fans and young players.",
+    "cat": "India · Football",
+    "statl": "India beat Maldives"
+   },
+   "hi": {
+    "h": "सैफ चैंपियनशिप: मालदीव को हराकर भारत सेमीफाइनल में",
+    "p": "पीटीआई के अनुसार ढाका में बुधवार को सैफ चैंपियनशिप के ग्रुप-बी मैच में भारत ने मालदीव को 1-0 से हराकर सेमीफाइनल में जगह बनाई। अब्दुल रबीह को बॉक्स में गिराए जाने पर 38वें मिनट में मिली पेनल्टी को सुहैल अहमद भट ने गोल में बदला। सीनियर टीम न्यूज़ीलैंड से दोस्ताना मैच खेल रही है, इसलिए अंडर-23 कोच नौशाद मूसा के नेतृत्व में युवा टीम उतरी।",
+    "pts": [
+     "38वें मिनट में सुहैल भट का पेनल्टी गोल",
+     "ग्रुप-बी से भारत सेमीफाइनल में",
+     "कोच नौशाद मूसा के नेतृत्व में युवा टीम"
+    ],
+    "why": "भारतीय फुटबॉल प्रशंसकों और युवा खिलाड़ियों के लिए उत्साहजनक नतीजा।",
+    "cat": "भारत · फुटबॉल",
+    "statl": "भारत ने मालदीव को हराया"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "134",
+   "statl": "కొత్త టీజీపీఎస్‌ల ప్రతిపాదన",
+   "h": "ప్రభుత్వ పాఠశాలల విలీనం ప్రారంభం: తెలంగాణ పబ్లిక్ స్కూళ్ల ఏర్పాటు",
+   "p": "ఒకే క్యాంపస్‌లో పలు ప్రభుత్వ పాఠశాలలను విలీనం చేసి తెలంగాణ పబ్లిక్ స్కూళ్లు (టీజీపీఎస్) ఏర్పాటు చేయాలని పాఠశాల విద్యాశాఖ డీఈఓలను ఆదేశించిందని తెలంగాణ టుడే కథనం. ఆరుట్ల, పోల్కంపల్లి, వనగూరు, మంచాలలో ఇప్పటికే టీజీపీఎస్‌లు ఏర్పాటయ్యాయి. ప్రతి గ్రామీణ నియోజకవర్గానికి ఒకటి చొప్పున మరో 134 ప్రతిపాదించారు. 5–10 కి.మీ. బస్సు ప్రయాణం ఆర్టీఈ పరిమితులకు విరుద్ధమని ఉపాధ్యాయులు అంటున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-begins-merging-government-schools-to-establish-tgps",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఎంపీపీఎస్, జడ్పీహెచ్ఎస్, కేజీబీవీలు ఒకే క్యాంపస్‌లోకి",
+    "కొడంగల్, మధిరకు తొమ్మిది చొప్పున మంజూరు",
+    "సుమారు 7,500 బడుల్లో తక్కువ లేదా సున్నా నమోదు"
+   ],
+   "why": "గ్రామీణ విద్యార్థులు బడికి వెళ్లే దూరం, తల్లిదండ్రుల ఎంపికలపై ఈ మార్పు ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T18:59+05:30",
+   "en": {
+    "h": "Merger of government schools begins to set up Telangana Public Schools",
+    "p": "The School Education department has directed DEOs to merge several government schools on one campus to form Telangana Public Schools (TGPS), Telangana Today reported. TGPS have already been set up at Arutla, Polkampally, Vanguru and Manchala. Another 134 are proposed, one per rural constituency. Teachers say bus travel of 5–10 km goes against RTE limits.",
+    "pts": [
+     "MPPS, ZPHS, KGBVs to share one campus",
+     "Nine each sanctioned for Kodangal, Madhira",
+     "About 7,500 schools have low or nil enrolment"
+    ],
+    "why": "The change affects how far rural students travel to school and parents' choices.",
+    "cat": "Telangana · Education",
+    "statl": "New TGPS proposed"
+   },
+   "hi": {
+    "h": "सरकारी स्कूलों का विलय शुरू: तेलंगाना पब्लिक स्कूलों की स्थापना",
+    "p": "तेलंगाना टुडे के अनुसार स्कूल शिक्षा विभाग ने डीईओ को कई सरकारी स्कूलों को एक परिसर में मिलाकर तेलंगाना पब्लिक स्कूल (टीजीपीएस) बनाने का निर्देश दिया है। अरुट्ला, पोल्कमपल्ली, वनगुरु और मंचाला में टीजीपीएस पहले ही बन चुके हैं। हर ग्रामीण विधानसभा क्षेत्र में एक के हिसाब से 134 और प्रस्तावित हैं। शिक्षकों का कहना है कि 5–10 किमी बस यात्रा आरटीई सीमाओं के खिलाफ है।",
+    "pts": [
+     "एमपीपीएस, जेडपीएचएस, केजीबीवी एक परिसर में",
+     "कोडंगल और मधिरा के लिए नौ-नौ मंज़ूर",
+     "करीब 7,500 स्कूलों में कम या शून्य नामांकन"
+    ],
+    "why": "यह बदलाव ग्रामीण छात्रों की स्कूल दूरी और अभिभावकों के विकल्पों को प्रभावित करेगा।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "नए टीजीपीएस प्रस्तावित"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "నల్గొండ · కార్మికులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "నవంబర్ 15–18",
+   "statl": "నల్గొండలో కిసాన్ సభ మహాసభలు",
+   "h": "ప్రైవేటీకరణకు వ్యతిరేకంగా పోరాడుదాం: నల్గొండలో సీఐటీయూ బైక్ ర్యాలీ",
+   "p": "కేంద్ర ప్రభుత్వ కార్పొరేట్ అనుకూల విధానాలకు వ్యతిరేకంగా ఐక్య పోరాటాలు చేయాలని, ప్రభుత్వ రంగ సంస్థలను కాపాడుకోవాలని సీఐటీయూ రాష్ట్ర ఉపాధ్యక్షుడు తుమ్మల వీరారెడ్డి పిలుపునిచ్చారు. బుధవారం ఎఫ్‌సీఐ హమాలీ వర్కర్స్ యూనియన్ ఆధ్వర్యంలో నల్గొండలో సీఐటీయూ కార్యాలయం నుంచి కలెక్టరేట్ వరకు బైక్ ర్యాలీ జరిగింది. నవంబర్ 15–18 తేదీల్లో నల్గొండలో జరిగే అఖిల భారత కిసాన్ సభ 36వ జాతీయ మహాసభల బహిరంగ సభను జయప్రదం చేయాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/let-us-fight-against-privatization-2557748",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "నల్గొండ",
+   "pts": [
+    "సీఐటీయూ కార్యాలయం నుంచి కలెక్టరేట్ వరకు ర్యాలీ",
+    "ప్రభుత్వ రంగ సంస్థల రక్షణకు పిలుపు",
+    "15న కిసాన్ సభ బహిరంగ సభ"
+   ],
+   "why": "నల్గొండలో జరిగే కిసాన్ సభ జాతీయ మహాసభలు జిల్లా రైతులు, కార్మికులకు సంబంధించినవి.",
+   "pub": "2026-11-11T18:45+05:30",
+   "en": {
+    "h": "Let us fight privatisation: CITU bike rally in Nalgonda",
+    "p": "CITU state vice-president Tummala Veera Reddy called for united struggles against the Centre's pro-corporate policies and to protect public sector undertakings. On Wednesday, the FCI Hamali Workers Union held a bike rally in Nalgonda from the CITU office to the Collectorate. He urged people to make a success of the public meeting of the All India Kisan Sabha's 36th national conference in Nalgonda, to be held from November 15 to 18.",
+    "pts": [
+     "Rally from CITU office to Collectorate",
+     "Call to protect public sector undertakings",
+     "Kisan Sabha public meeting on the 15th"
+    ],
+    "why": "The Kisan Sabha national conference in Nalgonda concerns the district's farmers and workers.",
+    "cat": "Nalgonda · Workers",
+    "statl": "Kisan Sabha conference in Nalgonda"
+   },
+   "hi": {
+    "h": "निजीकरण के खिलाफ लड़ें: नलगोंडा में सीटू की बाइक रैली",
+    "p": "सीटू के राज्य उपाध्यक्ष तुम्मला वीरा रेड्डी ने केंद्र की कॉरपोरेट-समर्थक नीतियों के खिलाफ एकजुट संघर्ष और सार्वजनिक उपक्रमों की रक्षा का आह्वान किया। बुधवार को एफसीआई हमाली वर्कर्स यूनियन ने नलगोंडा में सीटू कार्यालय से कलेक्टरेट तक बाइक रैली निकाली। उन्होंने 15 से 18 नवंबर तक नलगोंडा में होने वाले अखिल भारतीय किसान सभा के 36वें राष्ट्रीय सम्मेलन की जनसभा को सफल बनाने की अपील की।",
+    "pts": [
+     "सीटू कार्यालय से कलेक्टरेट तक रैली",
+     "सार्वजनिक उपक्रमों की रक्षा का आह्वान",
+     "15 तारीख को किसान सभा की जनसभा"
+    ],
+    "why": "नलगोंडा में किसान सभा का राष्ट्रीय सम्मेलन ज़िले के किसानों और मज़दूरों से जुड़ा है।",
+    "cat": "नलगोंडा · मज़दूर",
+    "statl": "नलगोंडा में किसान सभा सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · సదస్సు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "70+",
+   "statl": "దేశాల నుంచి ప్రతినిధులు",
+   "h": "హైటెక్స్‌లో 13, 14న భారత్ సమ్మిట్: 70కి పైగా దేశాల ప్రతినిధులు",
+   "p": "నవంబర్ 13, 14 తేదీల్లో హైటెక్స్‌లో జరిగే రెండో భారత్ సమ్మిట్‌కు 70కి పైగా దేశాల నుంచి 1,000 మందికి పైగా ప్రతినిధులు హాజరవుతారని ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క తెలిపారు. హైటెక్స్‌లో విలేకరుల సమావేశంలో ఆయన మాట్లాడారు. గాంధీ అహింస, నెహ్రూ అలీనోద్యమం, మిశ్రమ ఆర్థిక విధానం ప్రధాన అంశాలని చెప్పారు. మంత్రి శ్రీధర్ బాబు, సల్మాన్ ఖుర్షీద్, టీపీసీసీ అధ్యక్షుడు మహేశ్ కుమార్ గౌడ్ పాల్గొన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-bharat-summit-to-host-delegates-from-over-70-countries-3573976/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హైటెక్స్",
+   "pts": [
+    "సీఎం రేవంత్ రెడ్డి నేతృత్వంలో రెండు రోజుల సదస్సు",
+    "1,000 మందికి పైగా ప్రతినిధుల హాజరు అంచనా",
+    "గాంధీ, నెహ్రూ ఆలోచనలపై చర్చలు"
+   ],
+   "why": "హైదరాబాద్‌లో అంతర్జాతీయ సదస్సు కారణంగా హైటెక్స్ పరిసరాల్లో రద్దీ ఉండే అవకాశం ఉంది.",
+   "pub": "2026-11-11T14:03+05:30",
+   "en": {
+    "h": "Bharat Summit at HITEX on 13–14: delegates from 70+ countries",
+    "p": "Deputy CM Mallu Bhatti Vikramarka said the second Bharat Summit, to be held at HITEX on November 13 and 14, will bring more than 1,000 delegates from over 70 countries. He spoke at a press conference at HITEX. He said Gandhi's ahimsa, Nehru's non-alignment and the mixed economic model are the main themes. Minister Sridhar Babu, Salman Khurshid and TPCC chief Mahesh Kumar Goud were present.",
+    "pts": [
+     "Two-day summit led by CM Revanth Reddy",
+     "Over 1,000 delegates expected",
+     "Discussions on Gandhi and Nehru's ideas"
+    ],
+    "why": "The international summit may bring heavy traffic around HITEX in Hyderabad.",
+    "cat": "Hyderabad · Summit",
+    "statl": "Countries sending delegates"
+   },
+   "hi": {
+    "h": "हाईटेक्स में 13-14 को भारत समिट: 70 से अधिक देशों के प्रतिनिधि",
+    "p": "उपमुख्यमंत्री मल्लू भट्टी विक्रमार्क ने कहा कि 13 और 14 नवंबर को हाईटेक्स में होने वाले दूसरे भारत समिट में 70 से अधिक देशों के 1,000 से ज़्यादा प्रतिनिधि आएंगे। वे हाईटेक्स में संवाददाता सम्मेलन में बोल रहे थे। उन्होंने कहा कि गांधी की अहिंसा, नेहरू की गुटनिरपेक्षता और मिश्रित अर्थव्यवस्था मुख्य विषय हैं। मंत्री श्रीधर बाबू, सलमान खुर्शीद और टीपीसीसी अध्यक्ष महेश कुमार गौड़ मौजूद थे।",
+    "pts": [
+     "सीएम रेवंत रेड्डी के नेतृत्व में दो दिवसीय समिट",
+     "1,000 से अधिक प्रतिनिधियों के आने की उम्मीद",
+     "गांधी और नेहरू के विचारों पर चर्चा"
+    ],
+    "why": "अंतरराष्ट्रीय समिट के कारण हैदराबाद में हाईटेक्स के आसपास भीड़ रह सकती है।",
+    "cat": "हैदराबाद · समिट",
+    "statl": "देशों से प्रतिनिधि"
+   },
+   "d": "11.11.2026",
+   "t": "19:35"
+  },
   {
    "cat": "పెద్దపల్లి · రైల్వే",
    "col": "--c-power",
