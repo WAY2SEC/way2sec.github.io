@@ -1,8 +1,259 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 144,
+ "count": 149,
  "stories": [
+  {
+   "cat": "పెద్దపల్లి · రైల్వే",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "గూడ్స్ రైలు",
+   "statl": "పట్టాలు తప్పిన ఇంజిన్",
+   "h": "పెద్దపల్లిలో పట్టాలు తప్పిన గూడ్స్ రైలు ఇంజిన్: కారణంపై దర్యాప్తు",
+   "p": "పెద్దపల్లి పట్టణంలోని కూనారం రైల్వే గేటు సమీపంలో బుధవారం ఓ గూడ్స్ రైలు ఇంజిన్ ప్రమాదవశాత్తు పట్టాలు తప్పింది. సమాచారం అందుకున్న రైల్వే అధికారులు ఘటనాస్థలాన్ని పరిశీలించారు. సాంకేతిక లోపమా లేక ట్రాక్ సమస్యా అనేది దర్యాప్తులో తేలాల్సి ఉందని అధికారులు తెలిపారు. ఆ మార్గంలో రైళ్ల రాకపోకలకు తాత్కాలికంగా అంతరాయం కలిగినట్లు సమాచారం. ట్రాక్ పునరుద్ధరణ పనులు ప్రారంభమయ్యాయి.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/goods-train-derails-in-peddapalli-2557633",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "కూనారం రైల్వే గేటు",
+   "pts": [
+    "కూనారం గేటు వద్ద ఇంజిన్ పట్టాలు తప్పింది",
+    "కారణంపై రైల్వే అధికారుల దర్యాప్తు",
+    "ట్రాక్ పునరుద్ధరణ పనులు ప్రారంభం"
+   ],
+   "why": "ఈ మార్గంలో ప్రయాణించే రైళ్లు, ప్రయాణికులపై తాత్కాలిక ప్రభావం పడే అవకాశం ఉంది.",
+   "pub": "2026-11-11T16:25+05:30",
+   "en": {
+    "h": "Goods train engine derails in Peddapalli; probe into cause",
+    "p": "The engine of a goods train accidentally derailed near the Koonaram railway gate in Peddapalli town on Wednesday. Railway officials reached the spot after being informed and inspected it. Officials said the probe must establish whether a technical fault or a track problem caused it. Train movement on the route was reportedly disrupted temporarily. Track restoration work has begun.",
+    "pts": [
+     "Engine derailed near Koonaram gate",
+     "Railway officials probing the cause",
+     "Track restoration work begun"
+    ],
+    "why": "Trains and passengers on this route may face temporary disruption.",
+    "cat": "Peddapalli · Railways",
+    "statl": "Engine derailed"
+   },
+   "hi": {
+    "h": "पेद्दापल्ली में मालगाड़ी का इंजन पटरी से उतरा: कारण की जांच",
+    "p": "पेद्दापल्ली शहर में कूनारम रेलवे गेट के पास बुधवार को एक मालगाड़ी का इंजन दुर्घटनावश पटरी से उतर गया। सूचना मिलने पर रेलवे अधिकारी मौके पर पहुंचे और जांच की। अधिकारियों ने कहा कि जांच से पता चलेगा कि तकनीकी खराबी थी या ट्रैक की समस्या। बताया गया कि इस मार्ग पर ट्रेनों की आवाजाही अस्थायी रूप से बाधित हुई। ट्रैक बहाली का काम शुरू हो गया है।",
+    "pts": [
+     "कूनारम गेट के पास इंजन पटरी से उतरा",
+     "रेलवे अधिकारी कारण की जांच कर रहे",
+     "ट्रैक बहाली का काम शुरू"
+    ],
+    "why": "इस मार्ग की ट्रेनों और यात्रियों पर अस्थायी असर पड़ सकता है।",
+    "cat": "पेद्दापल्ली · रेलवे",
+    "statl": "पटरी से उतरा इंजन"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవంబర్ 26",
+   "statl": "మున్సిపల్ పోలింగ్ తేదీ",
+   "h": "ఏపీలో మరిన్ని పురపాలికలకు నవంబర్ 26న ఎన్నికలు: 13న నోటిఫికేషన్",
+   "p": "కోర్టు వివాదాలు తొలగిపోవడంతో పలు మున్సిపాలిటీలు, నగరపాలక సంస్థలకు నవంబర్ 26న ఎన్నికలు నిర్వహించాలని రాష్ట్ర ఎన్నికల సంఘం బుధవారం నిర్ణయించిందని ఆంధ్రజ్యోతి తెలిపింది. శ్రీకాకుళం, కాకినాడ, రాజమండ్రి, మంగళగిరి-తాడేపల్లి కార్పొరేషన్లతో పాటు భీమవరం, గుడివాడ, నరసరావుపేట, బాపట్ల, కావలి, శ్రీకాళహస్తి తదితర పురపాలికల్లో పోలింగ్ జరగనుంది. నవంబర్ 13న నోటిఫికేషన్ రావచ్చు; రిజర్వేషన్లు ఖరారయ్యాయి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/ap-municipal-elections-november-26-vvnp-1575266.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "నాలుగు కార్పొరేషన్లు, పలు మున్సిపాలిటీల్లో పోలింగ్",
+    "అదే రోజు తొలి విడత పంచాయతీ ఎన్నికలు",
+    "ఈ సంస్థల రిజర్వేషన్లు ఇప్పటికే ఖరారు"
+   ],
+   "why": "ఈ పట్టణాల ఓటర్లు నవంబర్ 26న తమ స్థానిక ప్రతినిధులను ఎన్నుకోనున్నారు.",
+   "pub": "2026-11-11T15:34+05:30",
+   "en": {
+    "h": "AP: polls on November 26 for more municipal bodies; notification on 13th",
+    "p": "The State Election Commission decided on Wednesday to hold elections on November 26 for several municipalities and municipal corporations after court disputes were cleared, Andhra Jyothy reported. Polling will be held in the Srikakulam, Kakinada, Rajahmundry and Mangalagiri-Tadepalli corporations and municipalities including Bhimavaram, Gudivada, Narasaraopet, Bapatla, Kavali and Srikalahasti. The notification may come on November 13; reservations are finalised.",
+    "pts": [
+     "Polls in four corporations and several municipalities",
+     "First phase of panchayat polls the same day",
+     "Reservations for these bodies already finalised"
+    ],
+    "why": "Voters in these towns will elect their local representatives on November 26.",
+    "cat": "AP · Elections",
+    "statl": "Municipal polling date"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश: और नगर निकायों के चुनाव 26 नवंबर को, 13 को अधिसूचना",
+    "p": "आंध्र ज्योति के अनुसार, अदालती विवाद खत्म होने के बाद राज्य चुनाव आयोग ने बुधवार को कई नगरपालिकाओं और नगर निगमों के चुनाव 26 नवंबर को कराने का फैसला किया। श्रीकाकुलम, काकीनाडा, राजमुंदरी और मंगलगिरी-ताडेपल्ली निगमों के साथ भीमावरम, गुडिवाडा, नरसरावपेट, बापटला, कावली और श्रीकालहस्ती समेत नगरपालिकाओं में मतदान होगा। अधिसूचना 13 नवंबर को आ सकती है; आरक्षण तय हो चुका है।",
+    "pts": [
+     "चार निगमों और कई नगरपालिकाओं में मतदान",
+     "उसी दिन पंचायत चुनाव का पहला चरण",
+     "इन निकायों का आरक्षण पहले ही तय"
+    ],
+    "why": "इन शहरों के मतदाता 26 नवंबर को अपने स्थानीय प्रतिनिधि चुनेंगे।",
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "नगर निकाय मतदान की तारीख"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కొత్తగూడెం · సింగరేణి",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "20%",
+   "statl": "కార్మికులు డిమాండ్ చేస్తున్న బోనస్",
+   "h": "సింగరేణి వీకేసీఎం గనిలో కాంట్రాక్ట్ కార్మికుల ఆందోళన: పూర్తి బోనస్‌కు డిమాండ్",
+   "p": "సింగరేణి కొత్తగూడెం ఏరియా వీకేసీఎం గనిలో మట్టి తొలగింపు పనులు చేసే సోధా కంపెనీ కాంట్రాక్ట్ కార్మికుల ఆందోళన బుధవారం రెండో రోజుకు చేరింది. 20 శాతం పూర్తి బోనస్, చట్టబద్ధ హక్కులు కల్పించాలని జేఏసీ డిమాండ్ చేస్తోంది. చర్చల పేరుతో రెండు నెలలుగా బోనస్ ఆలస్యం చేశారని, మంగళవారం అతి తక్కువ మొత్తం జమ చేశారని నేతలు ఆరోపించారు. సింగరేణి యాజమాన్యం జోక్యం చేసుకోవాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/we-will-not-call-off-the-protest-until-the-full-bonus-is-paid-2557729",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "రుద్రంపూర్",
+   "pts": [
+    "ఆందోళన రెండో రోజుకు చేరింది",
+    "20% పూర్తి బోనస్ చెల్లించాలని జేఏసీ డిమాండ్",
+    "లేదంటే నిరవధిక ఆందోళన హెచ్చరిక"
+   ],
+   "why": "సింగరేణి గనిలో పనిచేసే కాంట్రాక్ట్ కార్మికుల జీతభత్యాలకు సంబంధించిన విషయం ఇది.",
+   "pub": "2026-11-11T18:16+05:30",
+   "en": {
+    "h": "Contract workers protest at Singareni VKCM mine, demand full bonus",
+    "p": "Contract workers of Sodha company doing earth-removal work at the VKCM mine in Singareni's Kothagudem area continued their protest for a second day on Wednesday. Their JAC demands the full 20 per cent bonus and legal rights. Leaders alleged the bonus was delayed for two months in the name of talks and a very small amount was credited on Tuesday. They urged Singareni management to intervene.",
+    "pts": [
+     "Protest enters second day",
+     "JAC demands full 20% bonus",
+     "Warns of indefinite agitation otherwise"
+    ],
+    "why": "The issue concerns pay and benefits of contract workers at a Singareni mine.",
+    "cat": "Kothagudem · Singareni",
+    "statl": "Bonus demanded by workers"
+   },
+   "hi": {
+    "h": "सिंगरेणी वीकेसीएम खदान में ठेका मजदूरों का आंदोलन: पूरे बोनस की मांग",
+    "p": "सिंगरेणी के कोत्तागुडेम क्षेत्र की वीकेसीएम खदान में मिट्टी हटाने का काम करने वाली सोधा कंपनी के ठेका मजदूरों का आंदोलन बुधवार को दूसरे दिन जारी रहा। उनकी जेएसी पूरा 20 प्रतिशत बोनस और कानूनी अधिकार मांग रही है। नेताओं का आरोप है कि बातचीत के नाम पर दो महीने बोनस टाला गया और मंगलवार को बहुत कम राशि जमा की गई। उन्होंने सिंगरेणी प्रबंधन से हस्तक्षेप की मांग की।",
+    "pts": [
+     "आंदोलन दूसरे दिन पहुंचा",
+     "जेएसी की पूरे 20% बोनस की मांग",
+     "नहीं तो अनिश्चितकालीन आंदोलन की चेतावनी"
+    ],
+    "why": "यह मामला सिंगरेणी खदान के ठेका मजदूरों के वेतन-लाभ से जुड़ा है।",
+    "cat": "कोत्तागुडेम · सिंगरेणी",
+    "statl": "मजदूरों की बोनस मांग"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "నల్గొండ · రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "36వ",
+   "statl": "అఖిల భారత కిసాన్ సభ జాతీయ మహాసభలు",
+   "h": "రైతు వ్యతిరేక విధానాలపై కవులు కలం ఎత్తాలి: నందిని సిధారెడ్డి",
+   "p": "నల్గొండ టీఎన్జీవో భవన్‌లో బుధవారం జరిగిన 'రైతు జనకవనం' కవి గాయక సమ్మేళనంలో కేంద్ర సాహిత్య అకాడమీ పురస్కార గ్రహీత డాక్టర్ నందిని సిధారెడ్డి మాట్లాడారు. రైతులను కాపాడాల్సిన ప్రభుత్వాలు పెట్టుబడిదారులకు అనుకూలంగా ఉన్నాయని ఆయన విమర్శించారు. నల్గొండలో అఖిల భారత కిసాన్ సభ 36వ జాతీయ మహాసభల సందర్భంగా తెలంగాణ సాహితి, ప్రజా నాట్యమండలి, రైతు సంఘం ఈ కార్యక్రమం నిర్వహించాయి.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/poets-should-take-up-their-pens-against-anti-farmer-policies-2557738",
+   "sec": [
+    "telangana",
+    "culture",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pts": [
+    "టీఎన్జీవో భవన్‌లో రైతు జనకవనం సమ్మేళనం",
+    "భూ సంస్కరణల చట్టం అమలుకు ఏనుగు నరసింహారెడ్డి పిలుపు",
+    "కిసాన్ సభ జాతీయ మహాసభల సందర్భంగా కార్యక్రమం"
+   ],
+   "why": "రైతుల సమస్యలపై సాహితీవేత్తల స్పందనను ఈ కార్యక్రమం ప్రతిబింబిస్తోంది.",
+   "pub": "2026-11-11T18:36+05:30",
+   "en": {
+    "h": "Poets should raise their pens against anti-farmer policies: Nandini Sidhareddy",
+    "p": "Central Sahitya Akademi awardee Dr Nandini Sidhareddy spoke at the 'Raitu Janakavanam' poets and singers meet at TNGO Bhavan in Nalgonda on Wednesday. He criticised governments meant to protect farmers for favouring investors. Telangana Sahiti, Praja Natya Mandali and the farmers' association organised the event during the 36th national conference of the All India Kisan Sabha in Nalgonda.",
+    "pts": [
+     "Raitu Janakavanam meet at TNGO Bhavan",
+     "Enugu Narasimha Reddy calls for land reform law enforcement",
+     "Held during Kisan Sabha national conference"
+    ],
+    "why": "The event reflects writers' response to farmers' problems.",
+    "cat": "Nalgonda · Farmers",
+    "statl": "All India Kisan Sabha national conference"
+   },
+   "hi": {
+    "h": "किसान विरोधी नीतियों के खिलाफ कवि कलम उठाएं: नंदिनी सिधारेड्डी",
+    "p": "केंद्रीय साहित्य अकादमी पुरस्कार विजेता डॉ. नंदिनी सिधारेड्डी ने बुधवार को नलगोंडा के टीएनजीओ भवन में 'रैतु जनकवनम' कवि-गायक सम्मेलन में बात की। उन्होंने आलोचना की कि किसानों की रक्षा करने वाली सरकारें निवेशकों के पक्ष में हैं। नलगोंडा में अखिल भारतीय किसान सभा के 36वें राष्ट्रीय सम्मेलन के दौरान तेलंगाना साहिती, प्रजा नाट्य मंडली और किसान संघ ने यह आयोजन किया।",
+    "pts": [
+     "टीएनजीओ भवन में रैतु जनकवनम सम्मेलन",
+     "एनुगु नरसिम्हा रेड्डी ने भूमि सुधार कानून लागू करने की मांग की",
+     "किसान सभा राष्ट्रीय सम्मेलन के दौरान आयोजन"
+    ],
+    "why": "यह कार्यक्रम किसानों की समस्याओं पर साहित्यकारों की प्रतिक्रिया दिखाता है।",
+    "cat": "नलगोंडा · किसान",
+    "statl": "अखिल भारतीय किसान सभा राष्ट्रीय सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కామారెడ్డి · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "బీఆర్ఎస్",
+   "statl": "పార్టీలో చేరికలు",
+   "h": "డోంగ్లీలో బీఆర్ఎస్‌లో చేరిన కాంగ్రెస్, బీజేపీ నాయకులు",
+   "p": "కామారెడ్డి జిల్లా జుక్కల్ నియోజకవర్గం మద్నూర్-డోంగ్లీ మండల కేంద్రంలో బుధవారం బీఆర్ఎస్ కార్యకర్తల సమావేశం జరిగింది. మాజీ ఎమ్మెల్యే హన్మంత్ షిండే సమక్షంలో మోగా, సోనాల, వాడి, లింబూర్ తదితర గ్రామాలకు చెందిన పలువురు కాంగ్రెస్, బీజేపీ నాయకులు, కార్యకర్తలు బీఆర్ఎస్‌లో చేరారని నమస్తే తెలంగాణ తెలిపింది. ప్రజలకు అందుబాటులో ఉండి పార్టీని బలోపేతం చేయాలని షిండే పిలుపునిచ్చారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nizamabad/massive-influx-into-brs-in-dongli-congress-and-bjp-leaders-join-the-party-in-the-presence-of-former-mla-hanmanth-shinde-2557629",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "loc": "డోంగ్లీ",
+   "pts": [
+    "మద్నూర్-డోంగ్లీలో బీఆర్ఎస్ కార్యకర్తల సమావేశం",
+    "మాజీ ఎమ్మెల్యే హన్మంత్ షిండే ముఖ్య అతిథి",
+    "పలు గ్రామాల నాయకులు పార్టీలో చేరిక"
+   ],
+   "why": "జుక్కల్ నియోజకవర్గంలో స్థానిక రాజకీయ మార్పులను ఇది చూపుతోంది.",
+   "pub": "2026-11-11T16:22+05:30",
+   "en": {
+    "h": "Congress, BJP leaders join BRS in Dongli",
+    "p": "A BRS workers' meeting was held on Wednesday at the Madnoor-Dongli mandal headquarters in Jukkal constituency of Kamareddy district. Several Congress and BJP leaders and workers from Moga, Sonala, Wadi, Limbur and other villages joined BRS in the presence of former MLA Hanmanth Shinde, Namasthe Telangana reported. Shinde urged cadres to stay accessible to people and strengthen the party.",
+    "pts": [
+     "BRS workers' meeting in Madnoor-Dongli",
+     "Former MLA Hanmanth Shinde chief guest",
+     "Leaders from several villages join party"
+    ],
+    "why": "It reflects local political shifts in Jukkal constituency.",
+    "cat": "Kamareddy · Politics",
+    "statl": "Joinings in party"
+   },
+   "hi": {
+    "h": "डोंगली में कांग्रेस, भाजपा नेता बीआरएस में शामिल",
+    "p": "कामारेड्डी जिले के जुक्कल निर्वाचन क्षेत्र के मद्नूर-डोंगली मंडल मुख्यालय में बुधवार को बीआरएस कार्यकर्ताओं की बैठक हुई। नमस्ते तेलंगाना के अनुसार, पूर्व विधायक हनमंत शिंदे की मौजूदगी में मोगा, सोनाला, वाडी, लिंबूर और अन्य गांवों के कई कांग्रेस व भाजपा नेता और कार्यकर्ता बीआरएस में शामिल हुए। शिंदे ने कार्यकर्ताओं से लोगों के बीच रहकर पार्टी मजबूत करने को कहा।",
+    "pts": [
+     "मद्नूर-डोंगली में बीआरएस कार्यकर्ता बैठक",
+     "पूर्व विधायक हनमंत शिंदे मुख्य अतिथि",
+     "कई गांवों के नेता पार्टी में शामिल"
+    ],
+    "why": "यह जुक्कल क्षेत्र में स्थानीय राजनीतिक बदलाव दिखाता है।",
+    "cat": "कामारेड्डी · राजनीति",
+    "statl": "पार्टी में शामिल"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
    "col": "--c-gov",

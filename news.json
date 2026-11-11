@@ -1,8 +1,259 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T18:42:13+05:30",
+ "updated": "2026-11-11T19:09:17+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "పెద్దపల్లి · రైల్వే",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "గూడ్స్ రైలు",
+   "statl": "పట్టాలు తప్పిన ఇంజిన్",
+   "h": "పెద్దపల్లిలో పట్టాలు తప్పిన గూడ్స్ రైలు ఇంజిన్: కారణంపై దర్యాప్తు",
+   "p": "పెద్దపల్లి పట్టణంలోని కూనారం రైల్వే గేటు సమీపంలో బుధవారం ఓ గూడ్స్ రైలు ఇంజిన్ ప్రమాదవశాత్తు పట్టాలు తప్పింది. సమాచారం అందుకున్న రైల్వే అధికారులు ఘటనాస్థలాన్ని పరిశీలించారు. సాంకేతిక లోపమా లేక ట్రాక్ సమస్యా అనేది దర్యాప్తులో తేలాల్సి ఉందని అధికారులు తెలిపారు. ఆ మార్గంలో రైళ్ల రాకపోకలకు తాత్కాలికంగా అంతరాయం కలిగినట్లు సమాచారం. ట్రాక్ పునరుద్ధరణ పనులు ప్రారంభమయ్యాయి.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/goods-train-derails-in-peddapalli-2557633",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "కూనారం రైల్వే గేటు",
+   "pts": [
+    "కూనారం గేటు వద్ద ఇంజిన్ పట్టాలు తప్పింది",
+    "కారణంపై రైల్వే అధికారుల దర్యాప్తు",
+    "ట్రాక్ పునరుద్ధరణ పనులు ప్రారంభం"
+   ],
+   "why": "ఈ మార్గంలో ప్రయాణించే రైళ్లు, ప్రయాణికులపై తాత్కాలిక ప్రభావం పడే అవకాశం ఉంది.",
+   "pub": "2026-11-11T16:25+05:30",
+   "en": {
+    "h": "Goods train engine derails in Peddapalli; probe into cause",
+    "p": "The engine of a goods train accidentally derailed near the Koonaram railway gate in Peddapalli town on Wednesday. Railway officials reached the spot after being informed and inspected it. Officials said the probe must establish whether a technical fault or a track problem caused it. Train movement on the route was reportedly disrupted temporarily. Track restoration work has begun.",
+    "pts": [
+     "Engine derailed near Koonaram gate",
+     "Railway officials probing the cause",
+     "Track restoration work begun"
+    ],
+    "why": "Trains and passengers on this route may face temporary disruption.",
+    "cat": "Peddapalli · Railways",
+    "statl": "Engine derailed"
+   },
+   "hi": {
+    "h": "पेद्दापल्ली में मालगाड़ी का इंजन पटरी से उतरा: कारण की जांच",
+    "p": "पेद्दापल्ली शहर में कूनारम रेलवे गेट के पास बुधवार को एक मालगाड़ी का इंजन दुर्घटनावश पटरी से उतर गया। सूचना मिलने पर रेलवे अधिकारी मौके पर पहुंचे और जांच की। अधिकारियों ने कहा कि जांच से पता चलेगा कि तकनीकी खराबी थी या ट्रैक की समस्या। बताया गया कि इस मार्ग पर ट्रेनों की आवाजाही अस्थायी रूप से बाधित हुई। ट्रैक बहाली का काम शुरू हो गया है।",
+    "pts": [
+     "कूनारम गेट के पास इंजन पटरी से उतरा",
+     "रेलवे अधिकारी कारण की जांच कर रहे",
+     "ट्रैक बहाली का काम शुरू"
+    ],
+    "why": "इस मार्ग की ट्रेनों और यात्रियों पर अस्थायी असर पड़ सकता है।",
+    "cat": "पेद्दापल्ली · रेलवे",
+    "statl": "पटरी से उतरा इंजन"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "ఏపీ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవంబర్ 26",
+   "statl": "మున్సిపల్ పోలింగ్ తేదీ",
+   "h": "ఏపీలో మరిన్ని పురపాలికలకు నవంబర్ 26న ఎన్నికలు: 13న నోటిఫికేషన్",
+   "p": "కోర్టు వివాదాలు తొలగిపోవడంతో పలు మున్సిపాలిటీలు, నగరపాలక సంస్థలకు నవంబర్ 26న ఎన్నికలు నిర్వహించాలని రాష్ట్ర ఎన్నికల సంఘం బుధవారం నిర్ణయించిందని ఆంధ్రజ్యోతి తెలిపింది. శ్రీకాకుళం, కాకినాడ, రాజమండ్రి, మంగళగిరి-తాడేపల్లి కార్పొరేషన్లతో పాటు భీమవరం, గుడివాడ, నరసరావుపేట, బాపట్ల, కావలి, శ్రీకాళహస్తి తదితర పురపాలికల్లో పోలింగ్ జరగనుంది. నవంబర్ 13న నోటిఫికేషన్ రావచ్చు; రిజర్వేషన్లు ఖరారయ్యాయి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/ap-municipal-elections-november-26-vvnp-1575266.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "నాలుగు కార్పొరేషన్లు, పలు మున్సిపాలిటీల్లో పోలింగ్",
+    "అదే రోజు తొలి విడత పంచాయతీ ఎన్నికలు",
+    "ఈ సంస్థల రిజర్వేషన్లు ఇప్పటికే ఖరారు"
+   ],
+   "why": "ఈ పట్టణాల ఓటర్లు నవంబర్ 26న తమ స్థానిక ప్రతినిధులను ఎన్నుకోనున్నారు.",
+   "pub": "2026-11-11T15:34+05:30",
+   "en": {
+    "h": "AP: polls on November 26 for more municipal bodies; notification on 13th",
+    "p": "The State Election Commission decided on Wednesday to hold elections on November 26 for several municipalities and municipal corporations after court disputes were cleared, Andhra Jyothy reported. Polling will be held in the Srikakulam, Kakinada, Rajahmundry and Mangalagiri-Tadepalli corporations and municipalities including Bhimavaram, Gudivada, Narasaraopet, Bapatla, Kavali and Srikalahasti. The notification may come on November 13; reservations are finalised.",
+    "pts": [
+     "Polls in four corporations and several municipalities",
+     "First phase of panchayat polls the same day",
+     "Reservations for these bodies already finalised"
+    ],
+    "why": "Voters in these towns will elect their local representatives on November 26.",
+    "cat": "AP · Elections",
+    "statl": "Municipal polling date"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश: और नगर निकायों के चुनाव 26 नवंबर को, 13 को अधिसूचना",
+    "p": "आंध्र ज्योति के अनुसार, अदालती विवाद खत्म होने के बाद राज्य चुनाव आयोग ने बुधवार को कई नगरपालिकाओं और नगर निगमों के चुनाव 26 नवंबर को कराने का फैसला किया। श्रीकाकुलम, काकीनाडा, राजमुंदरी और मंगलगिरी-ताडेपल्ली निगमों के साथ भीमावरम, गुडिवाडा, नरसरावपेट, बापटला, कावली और श्रीकालहस्ती समेत नगरपालिकाओं में मतदान होगा। अधिसूचना 13 नवंबर को आ सकती है; आरक्षण तय हो चुका है।",
+    "pts": [
+     "चार निगमों और कई नगरपालिकाओं में मतदान",
+     "उसी दिन पंचायत चुनाव का पहला चरण",
+     "इन निकायों का आरक्षण पहले ही तय"
+    ],
+    "why": "इन शहरों के मतदाता 26 नवंबर को अपने स्थानीय प्रतिनिधि चुनेंगे।",
+    "cat": "आंध्र प्रदेश · चुनाव",
+    "statl": "नगर निकाय मतदान की तारीख"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కొత్తగూడెం · సింగరేణి",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "20%",
+   "statl": "కార్మికులు డిమాండ్ చేస్తున్న బోనస్",
+   "h": "సింగరేణి వీకేసీఎం గనిలో కాంట్రాక్ట్ కార్మికుల ఆందోళన: పూర్తి బోనస్‌కు డిమాండ్",
+   "p": "సింగరేణి కొత్తగూడెం ఏరియా వీకేసీఎం గనిలో మట్టి తొలగింపు పనులు చేసే సోధా కంపెనీ కాంట్రాక్ట్ కార్మికుల ఆందోళన బుధవారం రెండో రోజుకు చేరింది. 20 శాతం పూర్తి బోనస్, చట్టబద్ధ హక్కులు కల్పించాలని జేఏసీ డిమాండ్ చేస్తోంది. చర్చల పేరుతో రెండు నెలలుగా బోనస్ ఆలస్యం చేశారని, మంగళవారం అతి తక్కువ మొత్తం జమ చేశారని నేతలు ఆరోపించారు. సింగరేణి యాజమాన్యం జోక్యం చేసుకోవాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/we-will-not-call-off-the-protest-until-the-full-bonus-is-paid-2557729",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "రుద్రంపూర్",
+   "pts": [
+    "ఆందోళన రెండో రోజుకు చేరింది",
+    "20% పూర్తి బోనస్ చెల్లించాలని జేఏసీ డిమాండ్",
+    "లేదంటే నిరవధిక ఆందోళన హెచ్చరిక"
+   ],
+   "why": "సింగరేణి గనిలో పనిచేసే కాంట్రాక్ట్ కార్మికుల జీతభత్యాలకు సంబంధించిన విషయం ఇది.",
+   "pub": "2026-11-11T18:16+05:30",
+   "en": {
+    "h": "Contract workers protest at Singareni VKCM mine, demand full bonus",
+    "p": "Contract workers of Sodha company doing earth-removal work at the VKCM mine in Singareni's Kothagudem area continued their protest for a second day on Wednesday. Their JAC demands the full 20 per cent bonus and legal rights. Leaders alleged the bonus was delayed for two months in the name of talks and a very small amount was credited on Tuesday. They urged Singareni management to intervene.",
+    "pts": [
+     "Protest enters second day",
+     "JAC demands full 20% bonus",
+     "Warns of indefinite agitation otherwise"
+    ],
+    "why": "The issue concerns pay and benefits of contract workers at a Singareni mine.",
+    "cat": "Kothagudem · Singareni",
+    "statl": "Bonus demanded by workers"
+   },
+   "hi": {
+    "h": "सिंगरेणी वीकेसीएम खदान में ठेका मजदूरों का आंदोलन: पूरे बोनस की मांग",
+    "p": "सिंगरेणी के कोत्तागुडेम क्षेत्र की वीकेसीएम खदान में मिट्टी हटाने का काम करने वाली सोधा कंपनी के ठेका मजदूरों का आंदोलन बुधवार को दूसरे दिन जारी रहा। उनकी जेएसी पूरा 20 प्रतिशत बोनस और कानूनी अधिकार मांग रही है। नेताओं का आरोप है कि बातचीत के नाम पर दो महीने बोनस टाला गया और मंगलवार को बहुत कम राशि जमा की गई। उन्होंने सिंगरेणी प्रबंधन से हस्तक्षेप की मांग की।",
+    "pts": [
+     "आंदोलन दूसरे दिन पहुंचा",
+     "जेएसी की पूरे 20% बोनस की मांग",
+     "नहीं तो अनिश्चितकालीन आंदोलन की चेतावनी"
+    ],
+    "why": "यह मामला सिंगरेणी खदान के ठेका मजदूरों के वेतन-लाभ से जुड़ा है।",
+    "cat": "कोत्तागुडेम · सिंगरेणी",
+    "statl": "मजदूरों की बोनस मांग"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "నల్గొండ · రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "36వ",
+   "statl": "అఖిల భారత కిసాన్ సభ జాతీయ మహాసభలు",
+   "h": "రైతు వ్యతిరేక విధానాలపై కవులు కలం ఎత్తాలి: నందిని సిధారెడ్డి",
+   "p": "నల్గొండ టీఎన్జీవో భవన్‌లో బుధవారం జరిగిన 'రైతు జనకవనం' కవి గాయక సమ్మేళనంలో కేంద్ర సాహిత్య అకాడమీ పురస్కార గ్రహీత డాక్టర్ నందిని సిధారెడ్డి మాట్లాడారు. రైతులను కాపాడాల్సిన ప్రభుత్వాలు పెట్టుబడిదారులకు అనుకూలంగా ఉన్నాయని ఆయన విమర్శించారు. నల్గొండలో అఖిల భారత కిసాన్ సభ 36వ జాతీయ మహాసభల సందర్భంగా తెలంగాణ సాహితి, ప్రజా నాట్యమండలి, రైతు సంఘం ఈ కార్యక్రమం నిర్వహించాయి.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/poets-should-take-up-their-pens-against-anti-farmer-policies-2557738",
+   "sec": [
+    "telangana",
+    "culture",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pts": [
+    "టీఎన్జీవో భవన్‌లో రైతు జనకవనం సమ్మేళనం",
+    "భూ సంస్కరణల చట్టం అమలుకు ఏనుగు నరసింహారెడ్డి పిలుపు",
+    "కిసాన్ సభ జాతీయ మహాసభల సందర్భంగా కార్యక్రమం"
+   ],
+   "why": "రైతుల సమస్యలపై సాహితీవేత్తల స్పందనను ఈ కార్యక్రమం ప్రతిబింబిస్తోంది.",
+   "pub": "2026-11-11T18:36+05:30",
+   "en": {
+    "h": "Poets should raise their pens against anti-farmer policies: Nandini Sidhareddy",
+    "p": "Central Sahitya Akademi awardee Dr Nandini Sidhareddy spoke at the 'Raitu Janakavanam' poets and singers meet at TNGO Bhavan in Nalgonda on Wednesday. He criticised governments meant to protect farmers for favouring investors. Telangana Sahiti, Praja Natya Mandali and the farmers' association organised the event during the 36th national conference of the All India Kisan Sabha in Nalgonda.",
+    "pts": [
+     "Raitu Janakavanam meet at TNGO Bhavan",
+     "Enugu Narasimha Reddy calls for land reform law enforcement",
+     "Held during Kisan Sabha national conference"
+    ],
+    "why": "The event reflects writers' response to farmers' problems.",
+    "cat": "Nalgonda · Farmers",
+    "statl": "All India Kisan Sabha national conference"
+   },
+   "hi": {
+    "h": "किसान विरोधी नीतियों के खिलाफ कवि कलम उठाएं: नंदिनी सिधारेड्डी",
+    "p": "केंद्रीय साहित्य अकादमी पुरस्कार विजेता डॉ. नंदिनी सिधारेड्डी ने बुधवार को नलगोंडा के टीएनजीओ भवन में 'रैतु जनकवनम' कवि-गायक सम्मेलन में बात की। उन्होंने आलोचना की कि किसानों की रक्षा करने वाली सरकारें निवेशकों के पक्ष में हैं। नलगोंडा में अखिल भारतीय किसान सभा के 36वें राष्ट्रीय सम्मेलन के दौरान तेलंगाना साहिती, प्रजा नाट्य मंडली और किसान संघ ने यह आयोजन किया।",
+    "pts": [
+     "टीएनजीओ भवन में रैतु जनकवनम सम्मेलन",
+     "एनुगु नरसिम्हा रेड्डी ने भूमि सुधार कानून लागू करने की मांग की",
+     "किसान सभा राष्ट्रीय सम्मेलन के दौरान आयोजन"
+    ],
+    "why": "यह कार्यक्रम किसानों की समस्याओं पर साहित्यकारों की प्रतिक्रिया दिखाता है।",
+    "cat": "नलगोंडा · किसान",
+    "statl": "अखिल भारतीय किसान सभा राष्ट्रीय सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కామారెడ్డి · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "బీఆర్ఎస్",
+   "statl": "పార్టీలో చేరికలు",
+   "h": "డోంగ్లీలో బీఆర్ఎస్‌లో చేరిన కాంగ్రెస్, బీజేపీ నాయకులు",
+   "p": "కామారెడ్డి జిల్లా జుక్కల్ నియోజకవర్గం మద్నూర్-డోంగ్లీ మండల కేంద్రంలో బుధవారం బీఆర్ఎస్ కార్యకర్తల సమావేశం జరిగింది. మాజీ ఎమ్మెల్యే హన్మంత్ షిండే సమక్షంలో మోగా, సోనాల, వాడి, లింబూర్ తదితర గ్రామాలకు చెందిన పలువురు కాంగ్రెస్, బీజేపీ నాయకులు, కార్యకర్తలు బీఆర్ఎస్‌లో చేరారని నమస్తే తెలంగాణ తెలిపింది. ప్రజలకు అందుబాటులో ఉండి పార్టీని బలోపేతం చేయాలని షిండే పిలుపునిచ్చారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nizamabad/massive-influx-into-brs-in-dongli-congress-and-bjp-leaders-join-the-party-in-the-presence-of-former-mla-hanmanth-shinde-2557629",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "loc": "డోంగ్లీ",
+   "pts": [
+    "మద్నూర్-డోంగ్లీలో బీఆర్ఎస్ కార్యకర్తల సమావేశం",
+    "మాజీ ఎమ్మెల్యే హన్మంత్ షిండే ముఖ్య అతిథి",
+    "పలు గ్రామాల నాయకులు పార్టీలో చేరిక"
+   ],
+   "why": "జుక్కల్ నియోజకవర్గంలో స్థానిక రాజకీయ మార్పులను ఇది చూపుతోంది.",
+   "pub": "2026-11-11T16:22+05:30",
+   "en": {
+    "h": "Congress, BJP leaders join BRS in Dongli",
+    "p": "A BRS workers' meeting was held on Wednesday at the Madnoor-Dongli mandal headquarters in Jukkal constituency of Kamareddy district. Several Congress and BJP leaders and workers from Moga, Sonala, Wadi, Limbur and other villages joined BRS in the presence of former MLA Hanmanth Shinde, Namasthe Telangana reported. Shinde urged cadres to stay accessible to people and strengthen the party.",
+    "pts": [
+     "BRS workers' meeting in Madnoor-Dongli",
+     "Former MLA Hanmanth Shinde chief guest",
+     "Leaders from several villages join party"
+    ],
+    "why": "It reflects local political shifts in Jukkal constituency.",
+    "cat": "Kamareddy · Politics",
+    "statl": "Joinings in party"
+   },
+   "hi": {
+    "h": "डोंगली में कांग्रेस, भाजपा नेता बीआरएस में शामिल",
+    "p": "कामारेड्डी जिले के जुक्कल निर्वाचन क्षेत्र के मद्नूर-डोंगली मंडल मुख्यालय में बुधवार को बीआरएस कार्यकर्ताओं की बैठक हुई। नमस्ते तेलंगाना के अनुसार, पूर्व विधायक हनमंत शिंदे की मौजूदगी में मोगा, सोनाला, वाडी, लिंबूर और अन्य गांवों के कई कांग्रेस व भाजपा नेता और कार्यकर्ता बीआरएस में शामिल हुए। शिंदे ने कार्यकर्ताओं से लोगों के बीच रहकर पार्टी मजबूत करने को कहा।",
+    "pts": [
+     "मद्नूर-डोंगली में बीआरएस कार्यकर्ता बैठक",
+     "पूर्व विधायक हनमंत शिंदे मुख्य अतिथि",
+     "कई गांवों के नेता पार्टी में शामिल"
+    ],
+    "why": "यह जुक्कल क्षेत्र में स्थानीय राजनीतिक बदलाव दिखाता है।",
+    "cat": "कामारेड्डी · राजनीति",
+    "statl": "पार्टी में शामिल"
+   },
+   "d": "11.11.2026",
+   "t": "19:05"
+  },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
    "col": "--c-gov",
@@ -2260,356 +2511,6 @@
    },
    "d": "11.11.2026",
    "t": "15:05"
-  },
-  {
-   "cat": "మహబూబాబాద్ · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "కేసు నమోదు",
-   "statl": "పోలీసుల దర్యాప్తు",
-   "h": "తొర్రూరు మండలంలో బాలికపై వేధింపుల ఆరోపణ: యువకుడిపై కేసు",
-   "p": "మహబూబాబాద్ జిల్లా తొర్రూరు మండలంలో ప్రేమ పేరుతో ఒక యువకుడు బాలికను మోసం చేసి గర్భవతిని చేశాడని, ఆ తర్వాత గర్భస్రావం కోసం మాత్రలు ఇచ్చాడని ఆరోపణ. దీంతో బాలిక అస్వస్థతకు గురై ఆస్పత్రిలో చికిత్స పొందుతోందని ఆంధ్రజ్యోతి తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#torrur-minor",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "mahabubabad",
-   "loc": "తొర్రూరు",
-   "pts": [
-    "ప్రేమ పేరుతో మోసం చేశాడని యువకుడిపై ఆరోపణ",
-    "బాలిక ఆస్పత్రిలో చికిత్స",
-    "పోలీసుల కేసు నమోదు, దర్యాప్తు"
-   ],
-   "why": "బాలికల భద్రతపై తల్లిదండ్రులు, సమాజం అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
-   "pub": "2026-11-11T10:50+05:30",
-   "en": {
-    "h": "Torrur mandal: youth booked over alleged exploitation of minor girl",
-    "p": "In Torrur mandal of Mahabubabad district, a youth allegedly deceived a minor girl in the name of love, made her pregnant and then gave her pills to end the pregnancy. The girl fell ill and is under treatment in hospital, Andhra Jyothy reported. Police have registered a case and are investigating.",
-    "pts": [
-     "Youth accused of deceiving girl in name of love",
-     "Girl under treatment in hospital",
-     "Police register case, investigate"
-    ],
-    "why": "It shows the need for parents and society to stay alert about girls' safety.",
-    "cat": "Mahabubabad · Crime",
-    "statl": "Police investigating"
-   },
-   "hi": {
-    "h": "तोर्रूर मंडल: नाबालिग लड़की के शोषण के आरोप में युवक पर मामला",
-    "p": "महबूबाबाद जिले के तोर्रूर मंडल में एक युवक पर आरोप है कि उसने प्यार के नाम पर एक नाबालिग लड़की को धोखा देकर गर्भवती किया और फिर गर्भपात के लिए गोलियां दीं। आंध्र ज्योति के अनुसार लड़की बीमार पड़ गई और अस्पताल में इलाज चल रहा है। पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "प्यार के नाम पर धोखे का युवक पर आरोप",
-     "लड़की का अस्पताल में इलाज",
-     "पुलिस ने मामला दर्ज कर जांच शुरू की"
-    ],
-    "why": "यह लड़कियों की सुरक्षा को लेकर माता-पिता और समाज की सतर्कता की जरूरत दिखाता है।",
-    "cat": "महबूबाबाद · अपराध",
-    "statl": "पुलिस जांच जारी"
-   },
-   "d": "11.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "భారత్ · క్రికెట్",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "7 టెస్టులు",
-   "statl": "భారత్ తరఫున కేఎస్ భరత్",
-   "h": "యూఏఈ తరఫున ఆడేందుకు భారత మాజీ వికెట్ కీపర్ కేఎస్ భరత్ ప్రయత్నం",
-   "p": "భారత మాజీ వికెట్ కీపర్ కేఎస్ భరత్ యూఏఈ తరఫున క్రికెట్ ఆడేందుకు ప్రయత్నిస్తున్నారని ఆంధ్రజ్యోతి తెలిపింది. ఆయన భారత్ తరఫున ఏడు టెస్టులు ఆడారు. ప్రస్తుతం అబుదాబి టీ10 లీగ్‌లో ఎమిరేట్స్ ఈగల్స్ జట్టుకు ప్రాతినిధ్యం వహిస్తున్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#ks-bharat-uae",
-   "sec": [
-    "india",
-    "sports"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "యూఏఈ తరఫున ఆడేందుకు భరత్ ప్రయత్నం",
-    "భారత్ తరఫున ఏడు టెస్టులు",
-    "అబుదాబి టీ10లో ఎమిరేట్స్ ఈగల్స్‌కు ఆట"
-   ],
-   "why": "తెలుగు క్రికెట్ అభిమానులు ఆసక్తిగా గమనించే ఆటగాడి కెరీర్ నిర్ణయం ఇది.",
-   "pub": "2026-11-11T12:45+05:30",
-   "en": {
-    "h": "Former India wicketkeeper KS Bharat seeks to play for UAE",
-    "p": "Former India wicketkeeper KS Bharat is trying to play cricket for the UAE, Andhra Jyothy reported. He played seven Tests for India. He currently represents Emirates Eagles in the Abu Dhabi T10 League.",
-    "pts": [
-     "Bharat seeks to play for UAE",
-     "Played seven Tests for India",
-     "Plays for Emirates Eagles in Abu Dhabi T10"
-    ],
-    "why": "It is a career move by a player Telugu cricket fans follow closely.",
-    "cat": "India · Cricket",
-    "statl": "KS Bharat's Tests for India"
-   },
-   "hi": {
-    "h": "भारत के पूर्व विकेटकीपर केएस भरत यूएई के लिए खेलने की कोशिश में",
-    "p": "आंध्र ज्योति के अनुसार भारत के पूर्व विकेटकीपर केएस भरत यूएई की ओर से क्रिकेट खेलने की कोशिश कर रहे हैं। उन्होंने भारत के लिए सात टेस्ट खेले। वह इस समय अबू धाबी टी10 लीग में एमिरेट्स ईगल्स की ओर से खेल रहे हैं।",
-    "pts": [
-     "भरत यूएई के लिए खेलने की कोशिश में",
-     "भारत के लिए सात टेस्ट खेले",
-     "अबू धाबी टी10 में एमिरेट्स ईगल्स से खेलते हैं"
-    ],
-    "why": "यह उस खिलाड़ी का करियर फैसला है जिसे तेलुगु क्रिकेट प्रशंसक करीब से देखते हैं।",
-    "cat": "भारत · क्रिकेट",
-    "statl": "भारत के लिए केएस भरत के टेस्ट"
-   },
-   "d": "11.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "తెలంగాణ · విద్యుత్",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "75,000 టన్నులు",
-   "statl": "రోజుకు జెన్‌కోకు బొగ్గు సరఫరా",
-   "h": "జెన్‌కో విద్యుత్ కేంద్రాలకు రోజుకు 75 వేల టన్నుల బొగ్గు: సింగరేణి నిర్ణయం",
-   "p": "తెలంగాణ జెన్‌కో థర్మల్ విద్యుత్ కేంద్రాలకు రోజుకు 75 వేల టన్నుల బొగ్గు సరఫరా చేయాలని సింగరేణి నిర్ణయించినట్లు ఆంధ్రజ్యోతి తెలిపింది. ఒడిశాలోని నైనీ బొగ్గు గని నుంచి యాదాద్రి థర్మల్ ప్లాంట్‌కు రోజుకు కనీసం 16 వేల టన్నులు పంపనున్నారు. హైదరాబాద్ సింగరేణి భవన్‌లో ఇరు సంస్థల సీఎండీల అధ్యక్షతన వర్చువల్ సమన్వయ సమావేశం జరిగింది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/singareni-to-supply-75000-tonnes-coal-daily-to-telangana-genco-power-plants-1575206.html",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "జెన్‌కోకు రోజుకు 75 వేల టన్నుల బొగ్గు",
-    "నైనీ గని నుంచి యాదాద్రికి రోజుకు 16 వేల టన్నులు",
-    "ఈ ఏడాది సరఫరా గత 3–4 ఏళ్ల కంటే ఎక్కువన్న సింగరేణి సీఎండీ"
-   ],
-   "why": "థర్మల్ కేంద్రాలకు బొగ్గు సరఫరా రాష్ట్రంలో విద్యుత్ ఉత్పత్తికి కీలకం.",
-   "pub": "2026-11-11T06:43+05:30",
-   "d": "11.11.2026",
-   "t": "14:35",
-   "en": {
-    "h": "Singareni to supply 75,000 tonnes of coal daily to GENCO plants",
-    "p": "Singareni has decided to supply 75,000 tonnes of coal a day to Telangana GENCO's thermal power plants, Andhra Jyothy reported. At least 16,000 tonnes a day will be sent from the Naini coal mine in Odisha to the Yadadri thermal plant. A virtual coordination meeting chaired by the CMDs of both organisations was held at Singareni Bhavan in Hyderabad.",
-    "pts": [
-     "75,000 tonnes of coal daily for GENCO",
-     "16,000 tonnes a day from Naini mine to Yadadri",
-     "Singareni CMD: supply higher than past 3–4 years"
-    ],
-    "why": "Coal supply to thermal plants is key to power generation in the state.",
-    "cat": "Telangana · Power",
-    "statl": "Daily coal supply to GENCO"
-   },
-   "hi": {
-    "h": "जेनको बिजली संयंत्रों को रोज 75 हजार टन कोयला: सिंगरेनी का फैसला",
-    "p": "आंध्र ज्योति के अनुसार सिंगरेनी ने तेलंगाना जेनको के थर्मल बिजली संयंत्रों को रोजाना 75 हजार टन कोयला देने का फैसला किया है। ओडिशा की नैनी कोयला खदान से यादाद्रि थर्मल प्लांट को रोज कम से कम 16 हजार टन भेजा जाएगा। हैदराबाद के सिंगरेनी भवन में दोनों संस्थाओं के सीएमडी की अध्यक्षता में वर्चुअल समन्वय बैठक हुई।",
-    "pts": [
-     "जेनको को रोज 75 हजार टन कोयला",
-     "नैनी खदान से यादाद्रि को रोज 16 हजार टन",
-     "सिंगरेनी सीएमडी: आपूर्ति पिछले 3–4 साल से ज्यादा"
-    ],
-    "why": "थर्मल संयंत्रों को कोयला आपूर्ति राज्य में बिजली उत्पादन के लिए अहम है।",
-    "cat": "तेलंगाना · बिजली",
-    "statl": "जेनको को रोज कोयला आपूर्ति"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "558",
-   "statl": "తిరిగి వైద్య విధాన పరిషత్‌కు సిబ్బంది",
-   "h": "బోధనాస్పత్రుల్లోని 558 మంది సిబ్బంది తిరిగి వైద్య విధాన పరిషత్‌కు",
-   "p": "30 బోధనాస్పత్రుల్లో పనిచేస్తున్న 558 మంది తెలంగాణ వైద్య విధాన పరిషత్ (టీవీవీపీ) ఉద్యోగులను వెంటనే రిలీవ్ చేసి మాతృసంస్థకు పంపాలని డీఎంఈ డాక్టర్ వాణి ఆదేశాలు జారీ చేసినట్లు ఆంధ్రజ్యోతి తెలిపింది. వీరిలో 244 మంది నర్సింగ్ సిబ్బంది, 39 మంది వైద్యులు ఉన్నారు. అందరూ కోఠిలోని టీవీవీపీ కమిషనర్ కార్యాలయంలో రిపోర్ట్ చేయాలి.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/558-hospital-employees-return-telangana-vaidya-vidhana-parishad-1575214.html",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "30 బోధనాస్పత్రుల సూపరింటెండెంట్లకు డీఎంఈ ఆదేశాలు",
-    "244 నర్సింగ్, 116 క్లాస్-4, 111 మినిస్టీరియల్ సిబ్బంది",
-    "48 పారామెడికల్ సిబ్బంది, 39 మంది వైద్యులు"
-   ],
-   "why": "బోధనాస్పత్రుల్లో, వైద్య విధాన పరిషత్ ఆస్పత్రుల్లో సిబ్బంది కేటాయింపుపై ఇది ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-11T07:00+05:30",
-   "d": "11.11.2026",
-   "t": "14:35",
-   "en": {
-    "h": "558 teaching hospital staff sent back to Vaidya Vidhana Parishad",
-    "p": "DME Dr Vani has ordered the immediate relief of 558 Telangana Vaidya Vidhana Parishad (TVVP) employees working in 30 teaching hospitals and their return to the parent body, Andhra Jyothy reported. They include 244 nursing staff and 39 doctors. All must report to the TVVP Commissioner's office in Koti.",
-    "pts": [
-     "DME orders to superintendents of 30 teaching hospitals",
-     "244 nursing, 116 Class-IV, 111 ministerial staff",
-     "48 paramedical staff and 39 doctors"
-    ],
-    "why": "This affects staffing at teaching hospitals and Vaidya Vidhana Parishad hospitals.",
-    "cat": "Telangana · Health",
-    "statl": "Staff returning to TVVP"
-   },
-   "hi": {
-    "h": "शिक्षण अस्पतालों के 558 कर्मचारी वापस वैद्य विधान परिषद भेजे गए",
-    "p": "आंध्र ज्योति के अनुसार डीएमई डॉ. वाणी ने 30 शिक्षण अस्पतालों में कार्यरत तेलंगाना वैद्य विधान परिषद (टीवीवीपी) के 558 कर्मचारियों को तुरंत कार्यमुक्त कर मूल संस्था में भेजने का आदेश दिया है। इनमें 244 नर्सिंग कर्मचारी और 39 डॉक्टर शामिल हैं। सभी को कोठी स्थित टीवीवीपी आयुक्त कार्यालय में रिपोर्ट करना होगा।",
-    "pts": [
-     "30 शिक्षण अस्पतालों के अधीक्षकों को डीएमई के आदेश",
-     "244 नर्सिंग, 116 क्लास-4, 111 मिनिस्टीरियल कर्मचारी",
-     "48 पैरामेडिकल कर्मचारी और 39 डॉक्टर"
-    ],
-    "why": "इसका असर शिक्षण अस्पतालों और वैद्य विधान परिषद अस्पतालों में स्टाफ पर पड़ेगा।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "टीवीवीपी में लौटने वाले कर्मचारी"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · ఆదివాసీలు",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "ST సర్టిఫికెట్లు",
-   "statl": "వలస ఆదివాసీల ప్రధాన డిమాండ్",
-   "h": "వలస ఆదివాసీలకు ఎస్టీ సర్టిఫికెట్లు ఇవ్వాలి: ఇందిరా పార్క్‌లో సీపీఎం ఆదివాసీ మహాగర్జన",
-   "p": "వలస ఆదివాసీలకు ఎస్టీ ధ్రువీకరణ పత్రాలు, సాగు భూములకు హక్కు పత్రాలు ఇవ్వాలని డిమాండ్ చేస్తూ సీపీఎం రాష్ట్ర కమిటీ హైదరాబాద్ ఇందిరా పార్క్‌లో 'ఆదివాసీ మహాగర్జన' నిర్వహించినట్లు ఆంధ్రజ్యోతి తెలిపింది. వేలాది మంది ఆదివాసీలు పాల్గొన్నారు. డిమాండ్లు నెరవేర్చకపోతే అసెంబ్లీని ముట్టడిస్తామని సీపీఎం రాష్ట్ర కార్యదర్శి జాన్ వెస్లీ హెచ్చరించారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-adivasis-demand-st-certificates-land-rights-massive-cpm-rally-hyderabad-1575209.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "ఇందిరా పార్క్",
-   "pts": [
-    "వలస ఆదివాసీలకు ఎస్టీ సర్టిఫికెట్లు ఇవ్వాలని డిమాండ్",
-    "సాగు భూములకు హక్కు పత్రాలు కావాలని విజ్ఞప్తి",
-    "ప్రభుత్వాల నిర్లక్ష్యమని జాన్ వెస్లీ ఆరోపణ"
-   ],
-   "why": "రాష్ట్రంలోని వలస ఆదివాసీల గుర్తింపు, భూమి హక్కుల అంశం దీనితో మళ్లీ తెరపైకి వచ్చింది.",
-   "pub": "2026-11-11T06:48+05:30",
-   "d": "11.11.2026",
-   "t": "14:35",
-   "en": {
-    "h": "Give ST certificates to migrant Adivasis: CPM rally at Indira Park",
-    "p": "The CPM state committee held an 'Adivasi Maha Garjana' at Indira Park in Hyderabad demanding ST certificates for migrant Adivasis and title documents for the land they cultivate, Andhra Jyothy reported. Thousands of Adivasis took part. CPM state secretary John Wesley warned that they would lay siege to the Assembly if the demands are not met.",
-    "pts": [
-     "Demand for ST certificates for migrant Adivasis",
-     "Call for title documents for cultivated land",
-     "John Wesley alleges government negligence"
-    ],
-    "why": "The rally brings the identity and land-rights issue of migrant Adivasis in the state back into focus.",
-    "cat": "Hyderabad · Adivasis",
-    "statl": "Key demand of migrant Adivasis"
-   },
-   "hi": {
-    "h": "प्रवासी आदिवासियों को एसटी प्रमाणपत्र दें: इंदिरा पार्क में सीपीएम की रैली",
-    "p": "आंध्र ज्योति के अनुसार सीपीएम राज्य समिति ने हैदराबाद के इंदिरा पार्क में 'आदिवासी महा गर्जना' आयोजित की, जिसमें प्रवासी आदिवासियों को एसटी प्रमाणपत्र और खेती की जमीन के अधिकार पत्र देने की मांग की गई। हजारों आदिवासी शामिल हुए। सीपीएम राज्य सचिव जॉन वेस्ली ने चेतावनी दी कि मांगें पूरी न होने पर विधानसभा का घेराव करेंगे।",
-    "pts": [
-     "प्रवासी आदिवासियों को एसटी प्रमाणपत्र की मांग",
-     "खेती की जमीन के अधिकार पत्र की मांग",
-     "जॉन वेस्ली ने सरकारों पर लापरवाही का आरोप लगाया"
-    ],
-    "why": "इस रैली से राज्य के प्रवासी आदिवासियों की पहचान और भूमि अधिकार का मुद्दा फिर सामने आया है।",
-    "cat": "हैदराबाद · आदिवासी",
-    "statl": "प्रवासी आदिवासियों की मुख्य मांग"
-   }
-  },
-  {
-   "cat": "భారత్ · క్రీడలు",
-   "col": "--c-money",
-   "art": "unity",
-   "stat": "నవంబర్ 12",
-   "statl": "సెమీఫైనల్: భారత్ vs అఫ్గానిస్తాన్",
-   "h": "అండర్-19 ఆసియా కప్: సెమీస్‌లో అఫ్గానిస్తాన్‌తో భారత్ పోరు",
-   "p": "ఒమన్‌లో జరుగుతున్న అండర్-19 ఆసియా కప్ చివరి గ్రూప్ మ్యాచ్‌లో యూఏఈపై భారత్ 70 పరుగుల తేడాతో గెలిచిందని ఈటీవీ భారత్ తెలిపింది. భారత్ 309/7 చేయగా, ఆర్యవీర్ సెహ్వాగ్ 160 పరుగులు సాధించాడు. నవంబర్ 12న సెమీఫైనల్స్‌లో భారత్-అఫ్గానిస్తాన్, పాకిస్తాన్-బంగ్లాదేశ్ తలపడతాయి. ఫైనల్ నవంబర్ 14న జరుగుతుంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/hi/sports/u-19-asia-cup-2026-semifinals-india-to-face-afghanistan-and-pakistan-to-take-on-bangladesh-hin26111102640",
-   "sec": [
-    "india",
-    "sports"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "యూఏఈపై 70 పరుగుల తేడాతో భారత్ విజయం",
-    "ఆర్యవీర్ సెహ్వాగ్ 160 పరుగులు",
-    "12న సెమీస్, 14న ఫైనల్"
-   ],
-   "why": "భారత యువ క్రికెట్ జట్టు ఆసియా కప్ టైటిల్‌కు రెండు అడుగుల దూరంలో ఉంది.",
-   "pub": "2026-11-11T13:33+05:30",
-   "d": "11.11.2026",
-   "t": "14:35",
-   "en": {
-    "h": "U-19 Asia Cup: India to face Afghanistan in semifinal",
-    "p": "India beat the UAE by 70 runs in their last group match of the Under-19 Asia Cup in Oman, ETV Bharat reported. India scored 309/7, with Aaryavir Sehwag making 160. In the semifinals on November 12, India face Afghanistan and Pakistan meet Bangladesh. The final is on November 14.",
-    "pts": [
-     "India beat UAE by 70 runs",
-     "Aaryavir Sehwag scores 160",
-     "Semifinals on 12th, final on 14th"
-    ],
-    "why": "India's youth cricket team is two steps from the Asia Cup title.",
-    "cat": "India · Sports",
-    "statl": "Semifinal: India vs Afghanistan"
-   },
-   "hi": {
-    "h": "अंडर-19 एशिया कप: सेमीफाइनल में भारत का मुकाबला अफगानिस्तान से",
-    "p": "ईटीवी भारत के अनुसार ओमान में चल रहे अंडर-19 एशिया कप के आखिरी ग्रुप मैच में भारत ने यूएई को 70 रन से हराया। भारत ने 309/7 रन बनाए, जिसमें आर्यवीर सहवाग ने 160 रन बनाए। 12 नवंबर को सेमीफाइनल में भारत-अफगानिस्तान और पाकिस्तान-बांग्लादेश भिड़ेंगे। फाइनल 14 नवंबर को होगा।",
-    "pts": [
-     "भारत ने यूएई को 70 रन से हराया",
-     "आर्यवीर सहवाग के 160 रन",
-     "12 को सेमीफाइनल, 14 को फाइनल"
-    ],
-    "why": "भारत की युवा क्रिकेट टीम एशिया कप खिताब से दो कदम दूर है।",
-    "cat": "भारत · खेल",
-    "statl": "सेमीफाइनल: भारत बनाम अफगानिस्तान"
-   }
-  },
-  {
-   "cat": "హైదరాబాద్ · నేరాలు",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "కేసు నమోదు",
-   "statl": "మేడిపల్లి పోలీసుల దర్యాప్తు",
-   "h": "పెళ్లి ప్రతిపాదన తిరస్కరించిందని మహిళకు వేధింపులు: కేసు నమోదు",
-   "p": "పెళ్లి ప్రతిపాదనను తిరస్కరించినందుకు ఓ వ్యక్తి ఫోన్‌లో దూషిస్తూ వేధిస్తున్నాడని బోడుప్పల్‌కు చెందిన 28 ఏళ్ల మహిళ ఫిర్యాదు చేసినట్లు తెలంగాణ టుడే తెలిపింది. విడాకులు రాకముందే పెళ్లి వద్దని ఆమె తల్లిదండ్రులు వ్యతిరేకించారని, ఆ తర్వాత అతను పదేపదే ఫోన్ చేసి దూషించాడని ఆరోపణ. మేడిపల్లి పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-man-harassed-woman-after-she-refused-his-marriage-proposal",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బోడుప్పల్",
-   "pts": [
-    "బోడుప్పల్‌కు చెందిన 28 ఏళ్ల మహిళ ఫిర్యాదు",
-    "పెళ్లి తిరస్కరణ తర్వాత ఫోన్‌లో దూషణలని ఆరోపణ",
-    "మేడిపల్లి పోలీసుల కేసు, దర్యాప్తు"
-   ],
-   "why": "ఫోన్ వేధింపులు ఎదుర్కొనే మహిళలు పోలీసులను ఆశ్రయించవచ్చని ఈ కేసు చూపుతోంది.",
-   "pub": "2026-11-11T13:35+05:30",
-   "en": {
-    "h": "Woman harassed after rejecting marriage proposal: case registered",
-    "p": "A 28-year-old woman from Boduppal complained that a man harassed her with abusive phone calls after she rejected his marriage proposal, Telangana Today reported. Her parents had opposed the proposal as she had not yet obtained a divorce, after which he allegedly called repeatedly and abused her. Medipally police have registered a case and are investigating.",
-    "pts": [
-     "Complaint by 28-year-old woman from Boduppal",
-     "Alleged abusive calls after proposal was rejected",
-     "Medipally police register case, probe on"
-    ],
-    "why": "The case shows women facing phone harassment can approach the police.",
-    "cat": "Hyderabad · Crime",
-    "statl": "Medipally police investigating"
-   },
-   "hi": {
-    "h": "शादी का प्रस्ताव ठुकराने पर महिला से उत्पीड़न: मामला दर्ज",
-    "p": "तेलंगाना टुडे के अनुसार बोडुप्पल की 28 वर्षीय महिला ने शिकायत की कि शादी का प्रस्ताव ठुकराने के बाद एक व्यक्ति फोन पर गाली देकर उसे परेशान कर रहा है। तलाक न होने के कारण महिला के माता-पिता ने प्रस्ताव का विरोध किया था, जिसके बाद उसने कथित तौर पर बार-बार फोन कर गालियां दीं। मेडिपल्ली पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "बोडुप्पल की 28 वर्षीय महिला की शिकायत",
-     "प्रस्ताव ठुकराने पर फोन पर गालियों का आरोप",
-     "मेडिपल्ली पुलिस ने मामला दर्ज कर जांच शुरू की"
-    ],
-    "why": "यह मामला दिखाता है कि फोन पर उत्पीड़न झेल रही महिलाएं पुलिस की मदद ले सकती हैं।",
-    "cat": "हैदराबाद · अपराध",
-    "statl": "मेडिपल्ली पुलिस की जांच"
-   },
-   "d": "11.11.2026",
-   "t": "14:05"
   }
  ]
 }
