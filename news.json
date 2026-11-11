@@ -1,8 +1,459 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T11:14:40+05:30",
+ "updated": "2026-11-11T11:40:47+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · రోడ్డు ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "21 ఏళ్లు",
+   "statl": "మృతి చెందిన విద్యార్థిని వయసు",
+   "h": "నల్లకుంటలో బైక్ అదుపుతప్పి ఆర్టీసీ బస్సు కింద పడి ఇంజినీరింగ్ విద్యార్థిని మృతి",
+   "p": "హైదరాబాద్ నల్లకుంటలో ఫీవర్ ఆస్పత్రి సిగ్నల్ సమీపంలో జరిగిన ప్రమాదంలో 21 ఏళ్ల ఇంజినీరింగ్ విద్యార్థిని మృతి చెందింది. తండ్రి బైక్‌పై కాలేజీకి తీసుకెళ్తుండగా, ఎదురుగా రాంగ్ రూట్‌లో వచ్చిన మరో బైకర్‌ను తప్పించేందుకు తండ్రి సడెన్ బ్రేక్ వేయడంతో బైక్ అదుపుతప్పిందని పోలీసులు తెలిపారు. కిందపడిన ఆమెపై వెనుక నుంచి వచ్చిన ఆర్టీసీ బస్సు చక్రాలు ఎక్కడంతో తలకు తీవ్ర గాయాలై అక్కడికక్కడే మృతి చెందింది. కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/engineering-student-killed-in-hyderabad-road-mishap-1141066",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నల్లకుంట",
+   "pts": [
+    "రాంగ్ రూట్ బైకర్‌ను తప్పించబోయి బైక్ అదుపుతప్పింది",
+    "వెనుక వచ్చిన ఆర్టీసీ బస్సు చక్రాల కింద పడిన విద్యార్థిని",
+    "నల్లకుంట పోలీసుల కేసు నమోదు, దర్యాప్తు"
+   ],
+   "why": "రాంగ్ రూట్ డ్రైవింగ్ ప్రాణాలు తీస్తోందని, నగర రహదారులపై జాగ్రత్త అవసరమని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "pub": "2026-11-11T11:18+05:30",
+   "en": {
+    "h": "Engineering student dies after falling under RTC bus at Nallakunta",
+    "p": "A 21-year-old engineering student died in an accident near the Fever Hospital signal at Nallakunta, Hyderabad. Police said her father, who was taking her to college on his motorcycle, braked suddenly to avoid a biker coming on the wrong side, and the bike lost control. She fell and the rear wheels of an RTC bus coming from behind ran over her, causing severe head injuries; she died on the spot. A case has been registered and is being investigated.",
+    "pts": [
+     "Bike lost control while avoiding a wrong-side biker",
+     "Student fell under the wheels of an RTC bus behind",
+     "Nallakunta police register case, investigate"
+    ],
+    "why": "The incident is a reminder that wrong-side driving costs lives and city roads need caution.",
+    "cat": "Hyderabad · Road accident",
+    "statl": "age of the student who died"
+   },
+   "hi": {
+    "h": "नल्लकुंटा में बाइक अनियंत्रित होकर आरटीसी बस के नीचे गिरी इंजीनियरिंग छात्रा की मौत",
+    "p": "हैदराबाद के नल्लकुंटा में फीवर अस्पताल सिग्नल के पास हुए हादसे में 21 वर्षीय इंजीनियरिंग छात्रा की मौत हो गई। पुलिस के अनुसार, पिता उसे बाइक पर कॉलेज ले जा रहे थे, तभी गलत दिशा से आ रहे एक बाइक सवार से बचने के लिए उन्होंने अचानक ब्रेक लगाया और बाइक अनियंत्रित हो गई। नीचे गिरी छात्रा पर पीछे से आ रही आरटीसी बस के पिछले पहिए चढ़ गए, सिर में गंभीर चोटों से उसकी मौके पर ही मौत हो गई। मामला दर्ज कर जांच की जा रही है।",
+    "pts": [
+     "गलत दिशा से आए बाइक सवार से बचते हुए बाइक अनियंत्रित",
+     "पीछे से आई आरटीसी बस के पहियों के नीचे आई छात्रा",
+     "नल्लकुंटा पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह घटना याद दिलाती है कि गलत दिशा में वाहन चलाना जानलेवा है और सड़कों पर सावधानी ज़रूरी है।",
+    "cat": "हैदराबाद · सड़क हादसा",
+    "statl": "मृत छात्रा की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ఏపీ · పంచాయతీ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "13,171",
+   "statl": "ఎన్నికలు జరిగే గ్రామ పంచాయతీలు",
+   "h": "ఏపీలో 13,171 పంచాయతీలకు మూడు దశల్లో ఎన్నికలు: 13న నోటిఫికేషన్",
+   "p": "ఆంధ్రప్రదేశ్‌లో 13,171 గ్రామ పంచాయతీలకు మూడు దశల్లో పోలింగ్ జరగనుంది. రాష్ట్ర ఎన్నికల సంఘం ఈ నెల 13న నోటిఫికేషన్లు జారీ చేయనుంది. నవంబర్ 26, 29, డిసెంబర్ 2 తేదీల్లో పోలింగ్ జరుగుతుందని ఈటీవీ భారత్ కథనం తెలిపింది. గ్రామాల్లో ఎన్నికల సందడి మొదలుకానుంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#panchayat-polls",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "13,171 గ్రామ పంచాయతీలకు మూడు దశల్లో పోలింగ్",
+    "నవంబర్ 13న ఎస్ఈసీ నోటిఫికేషన్లు",
+    "పోలింగ్: నవంబర్ 26, 29, డిసెంబర్ 2"
+   ],
+   "why": "రాష్ట్రవ్యాప్తంగా గ్రామీణ ఓటర్లు, సర్పంచ్ అభ్యర్థులకు ఈ షెడ్యూల్ కీలకం.",
+   "pub": "2026-11-11T06:46+05:30",
+   "en": {
+    "h": "AP to hold polls to 13,171 panchayats in three phases; notification on 13th",
+    "p": "Polling for 13,171 gram panchayats in Andhra Pradesh will be held in three phases. The State Election Commission will issue notifications on the 13th of this month. Polling will be held on November 26, 29 and December 2, ETV Bharat reported. Election activity is set to begin in villages.",
+    "pts": [
+     "Three-phase polling for 13,171 gram panchayats",
+     "SEC notifications on November 13",
+     "Polling: November 26, 29 and December 2"
+    ],
+    "why": "The schedule matters to rural voters and sarpanch aspirants across the state.",
+    "cat": "AP · Panchayat polls",
+    "statl": "gram panchayats going to polls"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 13,171 पंचायतों के चुनाव तीन चरणों में: 13 को अधिसूचना",
+    "p": "आंध्र प्रदेश में 13,171 ग्राम पंचायतों के लिए तीन चरणों में मतदान होगा। राज्य चुनाव आयोग इस महीने की 13 तारीख को अधिसूचनाएं जारी करेगा। ईटीवी भारत के अनुसार मतदान 26 और 29 नवंबर तथा 2 दिसंबर को होगा। गांवों में चुनावी हलचल शुरू होने वाली है।",
+    "pts": [
+     "13,171 ग्राम पंचायतों में तीन चरणों में मतदान",
+     "13 नवंबर को एसईसी की अधिसूचनाएं",
+     "मतदान: 26, 29 नवंबर और 2 दिसंबर"
+    ],
+    "why": "यह कार्यक्रम राज्य भर के ग्रामीण मतदाताओं और सरपंच उम्मीदवारों के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · पंचायत चुनाव",
+    "statl": "ग्राम पंचायतों में चुनाव"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ఏపీ · తిరుమల",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "12 గంటలు",
+   "statl": "సర్వదర్శనానికి వేచి ఉండే సమయం",
+   "h": "తిరుమలలో భక్తుల రద్దీ: టోకెన్ లేని సర్వదర్శనానికి 12 గంటలు",
+   "p": "తిరుమలలో భక్తుల రద్దీ కొనసాగుతోంది. టోకెన్లు లేని భక్తులకు సర్వదర్శనానికి 12 గంటల సమయం పడుతోంది. కంపార్ట్‌మెంట్లన్నీ నిండి క్యూ నారాయణగిరి షెడ్ల వరకు చేరింది. మంగళవారం 78,085 మంది స్వామివారిని దర్శించుకోగా, 26,232 మంది తలనీలాలు సమర్పించారు. హుండీ ఆదాయం రూ.3.93 కోట్లు వచ్చిందని ఈటీవీ భారత్ పేర్కొంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#tirumala-rush",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుమల",
+   "pts": [
+    "కంపార్ట్‌మెంట్లు నిండి నారాయణగిరి షెడ్ల వరకు క్యూ",
+    "మంగళవారం 78,085 మందికి దర్శనం",
+    "హుండీ ఆదాయం రూ.3.93 కోట్లు"
+   ],
+   "why": "తిరుమల వెళ్లే భక్తులు ప్రయాణం ప్లాన్ చేసుకునేందుకు ఈ సమాచారం ఉపయోగపడుతుంది.",
+   "pub": "2026-11-11T09:08+05:30",
+   "en": {
+    "h": "Heavy rush at Tirumala: 12-hour wait for sarva darshan without tokens",
+    "p": "The rush of devotees continues at Tirumala. Devotees without tokens are taking 12 hours for sarva darshan. All compartments are full and the queue has reached the Narayanagiri sheds. On Tuesday, 78,085 devotees had darshan and 26,232 offered tonsure. The hundi collection was Rs 3.93 crore, ETV Bharat said.",
+    "pts": [
+     "Compartments full, queue up to Narayanagiri sheds",
+     "78,085 devotees had darshan on Tuesday",
+     "Hundi collection Rs 3.93 crore"
+    ],
+    "why": "The information helps devotees heading to Tirumala plan their trip.",
+    "cat": "AP · Tirumala",
+    "statl": "wait for sarva darshan"
+   },
+   "hi": {
+    "h": "तिरुमला में भारी भीड़: बिना टोकन सर्वदर्शन में 12 घंटे",
+    "p": "तिरुमला में श्रद्धालुओं की भीड़ जारी है। बिना टोकन वाले श्रद्धालुओं को सर्वदर्शन में 12 घंटे लग रहे हैं। सभी कम्पार्टमेंट भरे हुए हैं और कतार नारायणगिरि शेड तक पहुंच गई है। मंगलवार को 78,085 श्रद्धालुओं ने दर्शन किए और 26,232 ने मुंडन कराया। ईटीवी भारत के अनुसार हुंडी आय 3.93 करोड़ रुपये रही।",
+    "pts": [
+     "कम्पार्टमेंट भरे, कतार नारायणगिरि शेड तक",
+     "मंगलवार को 78,085 श्रद्धालुओं ने दर्शन किए",
+     "हुंडी आय 3.93 करोड़ रुपये"
+    ],
+    "why": "यह जानकारी तिरुमला जाने वाले श्रद्धालुओं को यात्रा की योजना बनाने में मदद करती है।",
+    "cat": "आंध्र प्रदेश · तिरुमला",
+    "statl": "सर्वदर्शन का इंतज़ार"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "నెల్లూరు · నేరం",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "2",
+   "statl": "కేసు నమోదైన విద్యార్థులు",
+   "h": "సంగంలో విద్యార్థితో బలవంతంగా పురుగుమందు తాగించారని ఆరోపణ: ఇద్దరిపై కేసు",
+   "p": "నెల్లూరు జిల్లా సంగంలో తోటి విద్యార్థులు ఓ విద్యార్థితో బలవంతంగా పురుగుమందు తాగించారని ఆరోపణ వచ్చింది. ఇంటికి వచ్చాక అస్వస్థతకు గురైన బాలుడిని తల్లిదండ్రులు చెన్నై ఆస్పత్రికి తీసుకెళ్లగా పురుగుమందు తాగినట్లు వైద్యులు గుర్తించారు. అతని పరిస్థితి ఇంకా విషమంగానే ఉందని ఈటీవీ భారత్ పేర్కొంది. తల్లిదండ్రుల ఫిర్యాదుతో ఇద్దరు విద్యార్థులపై అట్రాసిటీ, హత్యాయత్నం కేసు నమోదు చేశారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#sangam-student",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "ap-nellore",
+   "loc": "సంగం",
+   "pts": [
+    "తోటి విద్యార్థులు పురుగుమందు తాగించారని ఆరోపణ",
+    "చెన్నై ఆస్పత్రిలో చికిత్స, పరిస్థితి విషమం",
+    "ఇద్దరు విద్యార్థులపై అట్రాసిటీ, హత్యాయత్నం కేసు"
+   ],
+   "why": "పాఠశాలల్లో విద్యార్థుల భద్రత, వేధింపుల నివారణపై తల్లిదండ్రులు, ఉపాధ్యాయులు దృష్టి పెట్టాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T07:32+05:30",
+   "en": {
+    "h": "Sangam student allegedly forced to drink pesticide; case against two",
+    "p": "A student in Sangam, Nellore district, was allegedly forced by classmates to drink pesticide. After he fell ill at home, his parents took him to a hospital in Chennai, where doctors found he had consumed pesticide. His condition is still serious, ETV Bharat said. On the parents' complaint, police registered a case against two students under the Atrocities Act and for attempt to murder.",
+    "pts": [
+     "Classmates allegedly forced him to drink pesticide",
+     "Treated in Chennai hospital, condition serious",
+     "Atrocities Act, attempt-to-murder case against two students"
+    ],
+    "why": "It shows the need for parents and teachers to focus on student safety and preventing harassment in schools.",
+    "cat": "Nellore · Crime",
+    "statl": "students booked"
+   },
+   "hi": {
+    "h": "संगम में छात्र को जबरन कीटनाशक पिलाने का आरोप: दो पर मामला",
+    "p": "नेल्लोर जिले के संगम में आरोप है कि सहपाठियों ने एक छात्र को जबरन कीटनाशक पिलाया। घर लौटने पर तबीयत बिगड़ने के बाद माता-पिता उसे चेन्नई के अस्पताल ले गए, जहां डॉक्टरों ने कीटनाशक पीने की पुष्टि की। ईटीवी भारत के अनुसार उसकी हालत अब भी गंभीर है। माता-पिता की शिकायत पर दो छात्रों के खिलाफ एट्रोसिटी एक्ट और हत्या के प्रयास का मामला दर्ज किया गया।",
+    "pts": [
+     "सहपाठियों पर जबरन कीटनाशक पिलाने का आरोप",
+     "चेन्नई के अस्पताल में इलाज, हालत गंभीर",
+     "दो छात्रों पर एट्रोसिटी, हत्या के प्रयास का मामला"
+    ],
+    "why": "यह स्कूलों में छात्रों की सुरक्षा और उत्पीड़न रोकने पर अभिभावकों व शिक्षकों के ध्यान देने की ज़रूरत दिखाता है।",
+    "cat": "नेल्लोर · अपराध",
+    "statl": "छात्रों पर मामला"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "అనంతపురం · అటవీ",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "3 గ్రామాలు",
+   "statl": "చిరుత కనిపించిన ప్రాంతాలు",
+   "h": "కుందుర్పి మండలంలో చిరుత సంచారం: అప్రమత్తంగా ఉండాలని అటవీ అధికారుల సూచన",
+   "p": "అనంతపురం జిల్లా కుందుర్పి మండలంలోని బొమ్మజ్జిపల్లి, బి.కొత్తూరు, బసాపురం పరిసరాల్లో చిరుత కనిపించింది. పొలాల వద్ద చిరుతను చూసిన రైతులు అధికారులకు సమాచారం ఇచ్చారు. స్థానికులు అప్రమత్తంగా ఉండాలని అటవీ అధికారులు సూచించారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#kundurpi-leopard",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-anantapur",
+   "loc": "కుందుర్పి",
+   "pts": [
+    "బొమ్మజ్జిపల్లి, బి.కొత్తూరు, బసాపురం వద్ద చిరుత",
+    "పొలాల వద్ద చూసిన రైతులు అధికారులకు సమాచారం",
+    "అప్రమత్తంగా ఉండాలని అటవీ శాఖ సూచన"
+   ],
+   "why": "ఈ గ్రామాల రైతులు, పశువుల కాపరులు పొలాలకు వెళ్లేటప్పుడు జాగ్రత్తగా ఉండాలి.",
+   "pub": "2026-11-11T06:44+05:30",
+   "en": {
+    "h": "Leopard spotted in Kundurpi mandal; forest officials urge caution",
+    "p": "A leopard has been spotted around Bommajjipalli, B. Kotturu and Basapuram in Kundurpi mandal of Anantapur district. Farmers who saw it near their fields informed officials. Forest officials advised residents to stay alert.",
+    "pts": [
+     "Leopard near Bommajjipalli, B. Kotturu, Basapuram",
+     "Farmers saw it near fields, alerted officials",
+     "Forest department asks residents to stay alert"
+    ],
+    "why": "Farmers and herders in these villages need to be careful when going to the fields.",
+    "cat": "Anantapur · Forest",
+    "statl": "villages where leopard seen"
+   },
+   "hi": {
+    "h": "कुंदुर्पी मंडल में तेंदुआ दिखा: वन अधिकारियों ने सतर्क रहने को कहा",
+    "p": "अनंतपुर जिले के कुंदुर्पी मंडल में बोम्मज्जिपल्ली, बी. कोत्तूरु और बसापुरम के आसपास तेंदुआ देखा गया है। खेतों के पास इसे देखने वाले किसानों ने अधिकारियों को सूचना दी। वन अधिकारियों ने लोगों को सतर्क रहने की सलाह दी है।",
+    "pts": [
+     "बोम्मज्जिपल्ली, बी. कोत्तूरु, बसापुरम के पास तेंदुआ",
+     "किसानों ने खेतों के पास देखकर अधिकारियों को बताया",
+     "वन विभाग ने सतर्क रहने को कहा"
+    ],
+    "why": "इन गांवों के किसानों और चरवाहों को खेतों में जाते समय सावधान रहना होगा।",
+    "cat": "अनंतपुर · वन",
+    "statl": "गांव जहां तेंदुआ दिखा"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "మంచిర్యాల · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "42 ఏళ్లు",
+   "statl": "మృతుని వయసు",
+   "h": "దండేపల్లి మండలంలో వన్యప్రాణుల వేటకు పెట్టిన విద్యుత్ తీగలు తగిలి వ్యక్తి మృతి",
+   "p": "మంచిర్యాల జిల్లా దండేపల్లి మండలంలో అటవీ జంతువుల వేట కోసం అమర్చిన విద్యుత్ తీగలు తగిలి 42 ఏళ్ల వ్యక్తి మృతి చెందారని ఆంధ్రజ్యోతి కథనం తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#dandepalli-electrocution",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "mancherial",
+   "loc": "దండేపల్లి",
+   "pts": [
+    "వన్యప్రాణుల వేటకు అమర్చిన విద్యుత్ తీగలు",
+    "తీగలు తగిలి 42 ఏళ్ల వ్యక్తి మృతి",
+    "కేసు నమోదు చేసి పోలీసుల దర్యాప్తు"
+   ],
+   "why": "అక్రమంగా అమర్చే విద్యుత్ ఉచ్చులు మనుషుల ప్రాణాలకూ ముప్పుగా మారుతున్నాయి.",
+   "pub": "2026-11-11T07:10+05:30",
+   "en": {
+    "h": "Man dies after touching power wires set to hunt wild animals in Dandepalli mandal",
+    "p": "A 42-year-old man died after touching electric wires set up to hunt forest animals in Dandepalli mandal of Mancherial district, Andhra Jyothy reported. Police have registered a case and are investigating.",
+    "pts": [
+     "Electric wires set up to hunt wild animals",
+     "42-year-old man died after touching them",
+     "Police register case, investigate"
+    ],
+    "why": "Illegal electric traps are becoming a threat to human lives too.",
+    "cat": "Mancherial · Accident",
+    "statl": "age of the deceased"
+   },
+   "hi": {
+    "h": "दंडेपल्ली मंडल में वन्यजीवों के शिकार के लिए लगाए बिजली तारों से व्यक्ति की मौत",
+    "p": "आंध्र ज्योति के अनुसार मंचिर्याल जिले के दंडेपल्ली मंडल में जंगली जानवरों के शिकार के लिए लगाए गए बिजली के तारों के संपर्क में आने से 42 वर्षीय व्यक्ति की मौत हो गई। पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "जंगली जानवरों के शिकार के लिए लगाए गए बिजली तार",
+     "तारों के संपर्क में आने से 42 वर्षीय व्यक्ति की मौत",
+     "पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "अवैध बिजली के जाल इंसानों की जान के लिए भी खतरा बन रहे हैं।",
+    "cat": "मंचिर्याल · हादसा",
+    "statl": "मृतक की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "శ్రీ సత్యసాయి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "6 ఏళ్లు",
+   "statl": "గాయపడిన చిన్నారి వయసు",
+   "h": "జామకాయ కోసిందని ఆరేళ్ల చిన్నారిపై వృద్ధురాలి దాడి ఆరోపణ: కేసు నమోదు",
+   "p": "శ్రీ సత్యసాయి జిల్లా పరిగి మండలం ఉటుకూరు గ్రామంలో జామకాయ కోసిందన్న కారణంతో ఆరేళ్ల చిన్నారిపై ఓ వృద్ధురాలు దాడి చేసిందని ఆరోపణ. తీవ్రంగా గాయపడిన చిన్నారిని ఆస్పత్రికి తరలించారు. తల్లిదండ్రుల ఫిర్యాదు మేరకు పోలీసులు కేసు నమోదు చేశారని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#utakur-child",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-sathyasai",
+   "loc": "ఉటుకూరు",
+   "pts": [
+    "జామకాయ కోసిందని దాడి చేసినట్లు ఆరోపణ",
+    "తీవ్ర గాయాలతో చిన్నారి ఆస్పత్రిలో",
+    "తల్లిదండ్రుల ఫిర్యాదుతో కేసు నమోదు"
+   ],
+   "why": "చిన్నారులపై హింసను సహించకూడదని, అలాంటి ఘటనలను పోలీసులకు తెలపాలని ఇది గుర్తుచేస్తోంది.",
+   "pub": "2026-11-11T07:05+05:30",
+   "en": {
+    "h": "Elderly woman allegedly attacks six-year-old for plucking guava; case filed",
+    "p": "An elderly woman allegedly attacked a six-year-old girl for plucking a guava in Utakur village, Parigi mandal, Sri Sathya Sai district. The seriously injured child was shifted to hospital. Police registered a case on the parents' complaint, Andhra Jyothy said.",
+    "pts": [
+     "Allegedly attacked for plucking a guava",
+     "Child in hospital with serious injuries",
+     "Case registered on parents' complaint"
+    ],
+    "why": "It is a reminder that violence against children must not be tolerated and should be reported to police.",
+    "cat": "Sri Sathya Sai · Crime",
+    "statl": "age of the injured child"
+   },
+   "hi": {
+    "h": "अमरूद तोड़ने पर छह साल की बच्ची पर बुज़ुर्ग महिला के हमले का आरोप: मामला दर्ज",
+    "p": "श्री सत्य साई जिले के परिगी मंडल के उटकूरु गांव में आरोप है कि अमरूद तोड़ने पर एक बुज़ुर्ग महिला ने छह साल की बच्ची पर हमला किया। गंभीर रूप से घायल बच्ची को अस्पताल ले जाया गया। आंध्र ज्योति के अनुसार माता-पिता की शिकायत पर पुलिस ने मामला दर्ज किया।",
+    "pts": [
+     "अमरूद तोड़ने पर हमले का आरोप",
+     "गंभीर चोटों के साथ बच्ची अस्पताल में",
+     "माता-पिता की शिकायत पर मामला दर्ज"
+    ],
+    "why": "यह याद दिलाता है कि बच्चों के खिलाफ हिंसा बर्दाश्त नहीं की जानी चाहिए और पुलिस को बताना चाहिए।",
+    "cat": "श्री सत्य साई · अपराध",
+    "statl": "घायल बच्ची की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "వరంగల్ · ప్రభుత్వం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "నేడు",
+   "statl": "డిప్యూటీ సీఎం వరంగల్ పర్యటన",
+   "h": "నేడు వరంగల్‌కు డిప్యూటీ సీఎం భట్టి: గోదావరి నీరు, విద్యుత్ కొరతపై సమీక్ష",
+   "p": "ఉప ముఖ్యమంత్రి భట్టి విక్రమార్క బుధవారం వరంగల్ జిల్లాలో పర్యటించనున్నారు. గోదావరి నీటి లభ్యత, విద్యుత్ కొరతపై ఆయన సమీక్ష నిర్వహిస్తారని ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#bhatti-warangal",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "warangal",
+   "pts": [
+    "డిప్యూటీ సీఎం భట్టి నేడు వరంగల్ పర్యటన",
+    "గోదావరి నీటి లభ్యతపై సమీక్ష",
+    "విద్యుత్ కొరతపైనా చర్చ"
+   ],
+   "why": "వరంగల్ ప్రాంత రైతులు, ప్రజలకు నీరు, విద్యుత్ సరఫరా అంశాలు నేరుగా ముడిపడి ఉన్నాయి.",
+   "pub": "2026-11-11T06:45+05:30",
+   "en": {
+    "h": "Deputy CM Bhatti in Warangal today to review Godavari water, power shortage",
+    "p": "Deputy Chief Minister Bhatti Vikramarka will tour Warangal district on Wednesday. He will review Godavari water availability and the power shortage, Andhra Jyothy said.",
+    "pts": [
+     "Deputy CM Bhatti visits Warangal today",
+     "Review of Godavari water availability",
+     "Power shortage also on agenda"
+    ],
+    "why": "Water and power supply directly concern farmers and people in the Warangal region.",
+    "cat": "Warangal · Government",
+    "statl": "Deputy CM's Warangal visit"
+   },
+   "hi": {
+    "h": "उपमुख्यमंत्री भट्टी आज वरंगल में: गोदावरी जल, बिजली कमी की समीक्षा",
+    "p": "उपमुख्यमंत्री भट्टी विक्रमार्क बुधवार को वरंगल जिले का दौरा करेंगे। आंध्र ज्योति के अनुसार वे गोदावरी जल की उपलब्धता और बिजली की कमी की समीक्षा करेंगे।",
+    "pts": [
+     "उपमुख्यमंत्री भट्टी आज वरंगल दौरे पर",
+     "गोदावरी जल उपलब्धता की समीक्षा",
+     "बिजली की कमी पर भी चर्चा"
+    ],
+    "why": "पानी और बिजली आपूर्ति का सीधा संबंध वरंगल क्षेत्र के किसानों और लोगों से है।",
+    "cat": "वरंगल · सरकार",
+    "statl": "उपमुख्यमंत्री का वरंगल दौरा"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "మ.2",
+   "statl": "సీఎం విద్యాశాఖ అధికారులతో భేటీ",
+   "h": "జాతీయ విద్యా దినోత్సవం: బంజారా భవన్‌లో కార్యక్రమానికి సీఎం రేవంత్",
+   "p": "మౌలానా అబుల్ కలాం ఆజాద్ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవ కార్యక్రమం హైదరాబాద్ బంజారా భవన్‌లో జరగనుంది. ముఖ్యమంత్రి రేవంత్ రెడ్డి హాజరై మధ్యాహ్నం 2 గంటలకు విద్యాశాఖ అధికారులతో సమావేశమవుతారని ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#education-day",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మౌలానా ఆజాద్ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం",
+    "బంజారా భవన్‌లో కార్యక్రమం",
+    "మధ్యాహ్నం 2కు విద్యాశాఖ అధికారులతో సీఎం భేటీ"
+   ],
+   "why": "రాష్ట్ర విద్యారంగంపై ప్రభుత్వ ప్రాధాన్యతలను విద్యార్థులు, ఉపాధ్యాయులు గమనించవచ్చు.",
+   "pub": "2026-11-11T06:40+05:30",
+   "en": {
+    "h": "National Education Day: CM Revanth to attend event at Banjara Bhavan",
+    "p": "A National Education Day event marking the birth anniversary of Maulana Abul Kalam Azad will be held at Banjara Bhavan in Hyderabad. Chief Minister Revanth Reddy will attend and meet education officials at 2 pm, Andhra Jyothy said.",
+    "pts": [
+     "National Education Day on Maulana Azad's birth anniversary",
+     "Event at Banjara Bhavan",
+     "CM meets education officials at 2 pm"
+    ],
+    "why": "Students and teachers can watch for the government's priorities on education.",
+    "cat": "Hyderabad · Education",
+    "statl": "CM meets education officials"
+   },
+   "hi": {
+    "h": "राष्ट्रीय शिक्षा दिवस: बंजारा भवन के कार्यक्रम में मुख्यमंत्री रेवंत",
+    "p": "मौलाना अबुल कलाम आज़ाद की जयंती पर राष्ट्रीय शिक्षा दिवस का कार्यक्रम हैदराबाद के बंजारा भवन में होगा। आंध्र ज्योति के अनुसार मुख्यमंत्री रेवंत रेड्डी इसमें शामिल होंगे और दोपहर 2 बजे शिक्षा अधिकारियों से मिलेंगे।",
+    "pts": [
+     "मौलाना आज़ाद की जयंती पर राष्ट्रीय शिक्षा दिवस",
+     "बंजारा भवन में कार्यक्रम",
+     "दोपहर 2 बजे शिक्षा अधिकारियों से मुख्यमंत्री की बैठक"
+    ],
+    "why": "छात्र और शिक्षक शिक्षा पर सरकार की प्राथमिकताओं पर नज़र रख सकते हैं।",
+    "cat": "हैदराबाद · शिक्षा",
+    "statl": "मुख्यमंत्री की शिक्षा अधिकारियों से बैठक"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "సూర్యాపేట · క్రీడలు",
    "col": "--c-city",
@@ -2056,455 +2507,6 @@
    },
    "d": "11.11.2026",
    "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "31వ",
-   "statl": "సీఐఐ భాగస్వామ్య సదస్సు",
-   "h": "విశాఖలో రేపటి నుంచి సీఐఐ భాగస్వామ్య సదస్సు: అమిత్ షా ప్రారంభం",
-   "p": "రాష్ట్ర ప్రభుత్వం, సీఐఐ కలిసి నిర్వహిస్తున్న 31వ భాగస్వామ్య సదస్సు నవంబర్ 12, 13 తేదీల్లో విశాఖపట్నంలో జరగనుంది. కేంద్ర హోంమంత్రి అమిత్ షా 12న ఆంధ్ర విశ్వవిద్యాలయంలో దీన్ని ప్రారంభిస్తారు. అంతరిక్ష సాంకేతికత, స్వచ్ఛ ఇంధనం, ఏఐ, అధునాతన తయారీ రంగాలపై రాష్ట్రం దృష్టి పెట్టింది. సీఎం చంద్రబాబు స్కైరూట్, అగ్నికుల్ వంటి అంతరిక్ష సంస్థలతో భేటీ కానున్నారని హన్స్ ఇండియా పేర్కొంది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/amaravati/ap-sets-its-sights-on-next-industrial-revolution-1140992",
-   "sec": [
-    "telangana",
-    "business",
-    "innovation"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "loc": "విశాఖపట్నం",
-   "pub": "2026-11-11T06:42+05:30",
-   "pts": [
-    "నవంబర్ 12, 13 తేదీల్లో విశాఖలో సదస్సు",
-    "ఆంధ్ర విశ్వవిద్యాలయంలో అమిత్ షా ప్రారంభోత్సవం",
-    "ఐదు ప్రాంతీయ సదస్సుల్లో ₹86,000 కోట్ల హామీలు"
-   ],
-   "why": "పెట్టుబడులు వస్తే ఏపీ యువతకు ఉద్యోగాలు, పరిశ్రమల అభివృద్ధికి అవకాశం.",
-   "en": {
-    "h": "CII Partnership Summit in Visakhapatnam from tomorrow; Amit Shah to inaugurate",
-    "p": "The 31st Partnership Summit, organised jointly by the state government and CII, will be held in Visakhapatnam on November 12 and 13. Union Home Minister Amit Shah will inaugurate it at Andhra University on the 12th. The state is focusing on space technology, clean energy, AI and advanced manufacturing. The Hans India said CM Chandrababu Naidu will meet space firms such as Skyroot and Agnikul.",
-    "pts": [
-     "Summit in Visakhapatnam on November 12 and 13",
-     "Amit Shah to inaugurate at Andhra University",
-     "Rs 86,000 crore commitments from five regional meets"
-    ],
-    "why": "Investment could bring jobs for AP youth and industrial growth.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "CII Partnership Summit"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम में कल से सीआईआई साझेदारी सम्मेलन: अमित शाह करेंगे उद्घाटन",
-    "p": "राज्य सरकार और सीआईआई द्वारा संयुक्त रूप से आयोजित 31वां साझेदारी सम्मेलन 12 और 13 नवंबर को विशाखापत्तनम में होगा। केंद्रीय गृह मंत्री अमित शाह 12 नवंबर को आंध्र विश्वविद्यालय में इसका उद्घाटन करेंगे। राज्य अंतरिक्ष तकनीक, स्वच्छ ऊर्जा, एआई और उन्नत विनिर्माण पर ध्यान दे रहा है। हंस इंडिया के अनुसार मुख्यमंत्री चंद्रबाबू नायडू स्काईरूट और अग्निकुल जैसी अंतरिक्ष कंपनियों से मिलेंगे।",
-    "pts": [
-     "12 और 13 नवंबर को विशाखापत्तनम में सम्मेलन",
-     "आंध्र विश्वविद्यालय में अमित शाह करेंगे उद्घाटन",
-     "पांच क्षेत्रीय बैठकों में ₹86,000 करोड़ की प्रतिबद्धताएं"
-    ],
-    "why": "निवेश आने से आंध्र प्रदेश के युवाओं को नौकरियां और उद्योगों को बढ़ावा मिल सकता है।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "सीआईआई साझेदारी सम्मेलन"
-   },
-   "d": "11.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "659",
-   "statl": "మండల పరిషత్తుల్లో అధ్యక్ష ఎన్నికలు",
-   "h": "ఏపీలో 19న ఎంపీపీ, 20న జడ్పీ ఛైర్‌పర్సన్ ఎన్నికలు",
-   "p": "రాష్ట్రంలోని 659 మండల పరిషత్తుల అధ్యక్ష, ఉపాధ్యక్ష పదవులకు నవంబర్ 19న, 28 జిల్లా పరిషత్తుల ఛైర్‌పర్సన్, వైస్ ఛైర్‌పర్సన్ పదవులకు 20న పరోక్ష ఎన్నికలు జరుగుతాయి. రాష్ట్ర ఎన్నికల కమిషనర్ అనిల్ చంద్ర పునేఠా మంగళవారం నోటిఫికేషన్లు జారీ చేశారు. ఎన్నికైన ఎంపీటీసీ, జడ్పీటీసీ సభ్యులకు నవంబర్ 14లోగా నోటీసులు అందించాలి. ఓటింగ్ చేతులెత్తే పద్ధతిలో జరుగుతుంది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/amaravati/indirect-polls-to-mpp-zpp-chief-posts-1140984",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-11T06:32+05:30",
-   "pts": [
-    "28 జిల్లా పరిషత్తులకు నవంబర్ 20న ఎన్నిక",
-    "ప్రతి ఎంపీపీకి ఒకరు, జడ్పీకి ఇద్దరు కోఆప్షన్ సభ్యులు",
-    "కోఆప్షన్‌కు తప్ప మిగతా ఓటింగ్‌కు పార్టీ విప్"
-   ],
-   "why": "మండల, జిల్లా పరిషత్తుల నాయకత్వం గ్రామీణ అభివృద్ధి పనులను నిర్ణయిస్తుంది.",
-   "en": {
-    "h": "AP to elect MPP chiefs on Nov 19, ZP chairpersons on Nov 20",
-    "p": "Indirect elections for president and vice-president posts in 659 Mandal Praja Parishads will be held on November 19, and for chairperson and vice-chairperson posts in 28 Zilla Praja Parishads on November 20. State Election Commissioner Anil Chandra Punetha issued the notifications on Tuesday. Notices must reach elected MPTC and ZPTC members by November 14. Voting will be by show of hands.",
-    "pts": [
-     "Election in 28 Zilla Parishads on November 20",
-     "One co-opted member per MPP, two per ZP",
-     "Party whips apply to all votes except co-option"
-    ],
-    "why": "Mandal and district parishad leaders decide rural development works.",
-    "cat": "AP · Local polls",
-    "statl": "Mandal parishads electing chiefs"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में 19 को एमपीपी, 20 को जिला परिषद अध्यक्ष चुनाव",
-    "p": "राज्य की 659 मंडल प्रजा परिषदों के अध्यक्ष और उपाध्यक्ष पदों के लिए 19 नवंबर को और 28 जिला प्रजा परिषदों के अध्यक्ष और उपाध्यक्ष पदों के लिए 20 नवंबर को अप्रत्यक्ष चुनाव होंगे। राज्य चुनाव आयुक्त अनिल चंद्र पुनेठा ने मंगलवार को अधिसूचनाएं जारी कीं। निर्वाचित एमपीटीसी और जेडपीटीसी सदस्यों को 14 नवंबर तक नोटिस देने होंगे। मतदान हाथ उठाकर होगा।",
-    "pts": [
-     "28 जिला परिषदों में 20 नवंबर को चुनाव",
-     "हर एमपीपी में एक, हर जिला परिषद में दो सहयोजित सदस्य",
-     "सहयोजन को छोड़ बाकी मतदान पर पार्टी व्हिप लागू"
-    ],
-    "why": "मंडल और जिला परिषद के नेता ग्रामीण विकास कार्य तय करते हैं।",
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "मंडल परिषदों में अध्यक्ष चुनाव"
-   },
-   "d": "11.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · పరిశ్రమలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹1,400 కో.",
-   "statl": "పెండింగ్ పారిశ్రామిక ప్రోత్సాహకాలు విడుదల",
-   "h": "₹1,400 కోట్ల పారిశ్రామిక ప్రోత్సాహకాల విడుదలను స్వాగతించిన ఏపీ ఛాంబర్స్",
-   "p": "పెండింగ్‌లో ఉన్న పారిశ్రామిక ప్రోత్సాహకాల కోసం రాష్ట్ర ప్రభుత్వం సుమారు ₹1,400 కోట్లు విడుదల చేయడాన్ని ఏపీ ఛాంబర్స్ స్వాగతించింది. ఇందులో ఆహార శుద్ధి యూనిట్లకు ₹22 కోట్లు ఉన్నాయి. దీనివల్ల సూక్ష్మ, చిన్న, మధ్య తరహా పరిశ్రమలకు ఆర్థిక ఊరట లభిస్తుందని, వర్కింగ్ క్యాపిటల్ మెరుగవుతుందని ఛాంబర్స్ అధ్యక్షుడు పొట్లూరి భాస్కరరావు ఒక ప్రకటనలో తెలిపారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/release-of-industrial-incentives-hailed-1140903",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-11T01:55+05:30",
-   "pts": [
-    "ఆహార శుద్ధి యూనిట్లకు ₹22 కోట్లు",
-    "ఎంఎస్ఎంఈలకు ఆర్థిక ఊరట: ఏపీ ఛాంబర్స్",
-    "సీఎం చంద్రబాబుకు ఛాంబర్స్ కృతజ్ఞతలు"
-   ],
-   "why": "ప్రోత్సాహకాల కోసం ఎదురుచూస్తున్న ఏపీ చిన్న పరిశ్రమలకు నిధులు అందుతాయి.",
-   "en": {
-    "h": "AP Chambers welcomes release of Rs 1,400 crore industrial incentives",
-    "p": "AP Chambers welcomed the state government's release of about Rs 1,400 crore towards pending industrial incentives. This includes Rs 22 crore for food processing units. Chambers president Potluri Bhaskara Rao said in a statement that the release would give financial relief to micro, small and medium enterprises and improve their working capital.",
-    "pts": [
-     "Rs 22 crore for food processing units",
-     "Financial relief for MSMEs: AP Chambers",
-     "Chambers thanked CM Chandrababu Naidu"
-    ],
-    "why": "Small industries in AP waiting for incentives will receive funds.",
-    "cat": "AP · Industry",
-    "statl": "Pending industrial incentives released"
-   },
-   "hi": {
-    "h": "एपी चैंबर्स ने ₹1,400 करोड़ के औद्योगिक प्रोत्साहन जारी करने का स्वागत किया",
-    "p": "एपी चैंबर्स ने लंबित औद्योगिक प्रोत्साहनों के लिए राज्य सरकार द्वारा लगभग ₹1,400 करोड़ जारी करने का स्वागत किया। इसमें खाद्य प्रसंस्करण इकाइयों के लिए ₹22 करोड़ शामिल हैं। चैंबर्स अध्यक्ष पोट्लूरी भास्कर राव ने एक बयान में कहा कि इससे सूक्ष्म, लघु और मध्यम उद्यमों को आर्थिक राहत मिलेगी और उनकी कार्यशील पूंजी सुधरेगी।",
-    "pts": [
-     "खाद्य प्रसंस्करण इकाइयों के लिए ₹22 करोड़",
-     "एमएसएमई को आर्थिक राहत: एपी चैंबर्स",
-     "चैंबर्स ने मुख्यमंत्री चंद्रबाबू नायडू का आभार जताया"
-    ],
-    "why": "प्रोत्साहन का इंतज़ार कर रहे आंध्र प्रदेश के छोटे उद्योगों को धन मिलेगा।",
-    "cat": "आंध्र प्रदेश · उद्योग",
-    "statl": "लंबित औद्योगिक प्रोत्साहन जारी"
-   },
-   "d": "11.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "విజయవాడ · క్రీడలు",
-   "col": "--c-city",
-   "art": "campus",
-   "stat": "4",
-   "statl": "జాతీయ జిమ్నాస్టిక్స్‌కు ఎంపికైన విద్యార్థులు",
-   "h": "జాతీయ ఏరోబిక్స్ జిమ్నాస్టిక్స్ పోటీలకు విజయవాడ విద్యార్థులు నలుగురు",
-   "p": "విజయవాడలోని వీరమాచనేని పడయ్య సిద్ధార్థ పబ్లిక్ స్కూల్‌కు చెందిన నలుగురు విద్యార్థులు జాతీయ ఏరోబిక్స్ జిమ్నాస్టిక్స్ ఛాంపియన్‌షిప్ 2026-27కు ఆంధ్రప్రదేశ్ జట్టులో ఎంపికయ్యారు. ఈ పోటీలు నవంబర్ 12 నుంచి 16 వరకు రాజస్థాన్‌లోని జైపూర్‌లో జరుగుతాయి. జట్టు నవంబర్ 11న జైపూర్ బయలుదేరి 18న తిరిగి వస్తుంది. పాఠశాల యాజమాన్యం విద్యార్థులను అభినందించింది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/four-vps-students-selected-1140904",
-   "sec": [
-    "telangana",
-    "sports"
-   ],
-   "st": "AP",
-   "place": "ap-ntr",
-   "loc": "విజయవాడ",
-   "pub": "2026-11-11T01:57+05:30",
-   "pts": [
-    "నవంబర్ 12–16 తేదీల్లో జైపూర్‌లో పోటీలు",
-    "ఆంధ్రప్రదేశ్ జట్టులో నలుగురు విద్యార్థులు",
-    "ఎన్టీఆర్ జిల్లా జిమ్నాస్టిక్స్ సంఘం ఎంపిక లేఖ"
-   ],
-   "why": "జాతీయ స్థాయిలో రాష్ట్రానికి ప్రాతినిధ్యం వహించే యువ క్రీడాకారులకు ప్రోత్సాహం.",
-   "en": {
-    "h": "Four Vijayawada students selected for national aerobics gymnastics meet",
-    "p": "Four students of Veeramachaneni Paddayya Siddhartha Public School in Vijayawada have been selected for the Andhra Pradesh team at the Aerobics Gymnastics National Championship 2026-27. The event will be held in Jaipur, Rajasthan, from November 12 to 16. The team leaves for Jaipur on November 11 and returns on the 18th. The school management congratulated the students.",
-    "pts": [
-     "Championship in Jaipur from November 12 to 16",
-     "Four students in Andhra Pradesh team",
-     "Selection letter from NTR district gymnastics association"
-    ],
-    "why": "It encourages young athletes representing the state at the national level.",
-    "cat": "Vijayawada · Sports",
-    "statl": "Students picked for national gymnastics"
-   },
-   "hi": {
-    "h": "राष्ट्रीय एरोबिक्स जिम्नास्टिक्स प्रतियोगिता के लिए विजयवाड़ा के चार छात्र चुने गए",
-    "p": "विजयवाड़ा के वीरमाचनेनी पडय्या सिद्धार्थ पब्लिक स्कूल के चार छात्रों को एरोबिक्स जिम्नास्टिक्स राष्ट्रीय चैंपियनशिप 2026-27 के लिए आंध्र प्रदेश टीम में चुना गया है। प्रतियोगिता 12 से 16 नवंबर तक राजस्थान के जयपुर में होगी। टीम 11 नवंबर को जयपुर रवाना होगी और 18 को लौटेगी। स्कूल प्रबंधन ने छात्रों को बधाई दी।",
-    "pts": [
-     "जयपुर में 12 से 16 नवंबर तक चैंपियनशिप",
-     "आंध्र प्रदेश टीम में चार छात्र",
-     "एनटीआर जिला जिम्नास्टिक्स संघ का चयन पत्र"
-    ],
-    "why": "यह राष्ट्रीय स्तर पर राज्य का प्रतिनिधित्व करने वाले युवा खिलाड़ियों को प्रोत्साहन है।",
-    "cat": "विजयवाड़ा · खेल",
-    "statl": "राष्ट्रीय जिम्नास्टिक्स के लिए चुने गए छात्र"
-   },
-   "d": "11.11.2026",
-   "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "4.61 లక్షల హె.",
-   "statl": "తుపాన్లతో దెబ్బతిన్న పంటల విస్తీర్ణం",
-   "h": "ఆర్నబ్, మురసు తుపాన్లు: ఏపీలో 4.61 లక్షల హెక్టార్లలో పంట నష్టం",
-   "p": "ఆర్నబ్, మురసు తుపాన్ల వల్ల రాష్ట్రంలో 4,61,194 హెక్టార్లలో వ్యవసాయ పంటలు, 29,960 హెక్టార్లలో ఉద్యాన పంటలు దెబ్బతిన్నాయని అధికారులు మంత్రి అచ్చెన్నాయుడికి నివేదించారు. ఆర్నబ్ తుపాను 15 జిల్లాల్లో 5.23 లక్షల మంది రైతులపై ప్రభావం చూపింది, నష్టం ₹2,392.84 కోట్లు. కోనసీమ జిల్లాలో 99.19% సాగు విస్తీర్ణం దెబ్బతింది. అర్హులైన ఏ రైతూ మిగిలిపోకుండా గణన వేగవంతం చేయాలని మంత్రి ఆదేశించారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/amaravati/cyclones-ravage-crops-in-461-lakh-hectares-1140907",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-11T02:03+05:30",
-   "pts": [
-    "ఆర్నబ్ తుపాను నష్టం ₹2,392.84 కోట్లు",
-    "మురసు తుపానుతో 1.86 లక్షల రైతులకు నష్టం",
-    "కోనసీమలో 99.19% సాగు విస్తీర్ణం దెబ్బతింది"
-   ],
-   "why": "తుపాన్లతో పంటలు కోల్పోయిన లక్షలాది ఏపీ రైతులకు పరిహారం గణన ముఖ్యం.",
-   "en": {
-    "h": "Cyclones Arnab, Murasu damage crops on 4.61 lakh hectares in AP",
-    "p": "Officials told Agriculture Minister K Atchannaidu that cyclones Arnab and Murasu damaged agricultural crops on 4,61,194 hectares and horticultural crops on 29,960 hectares in the state. Cyclone Arnab hit 5.23 lakh farmers in 15 districts, with losses of Rs 2,392.84 crore. In Konaseema district, 99.19% of the cultivated area was damaged. The minister ordered faster enumeration so no eligible farmer is left out.",
-    "pts": [
-     "Cyclone Arnab losses put at Rs 2,392.84 crore",
-     "Cyclone Murasu hit 1.86 lakh farmers",
-     "99.19% of cultivated area damaged in Konaseema"
-    ],
-    "why": "The damage count matters for lakhs of AP farmers who lost crops to the cyclones.",
-    "cat": "AP · Agriculture",
-    "statl": "Crop area damaged by cyclones"
-   },
-   "hi": {
-    "h": "अर्नब, मुरासु चक्रवात: आंध्र प्रदेश में 4.61 लाख हेक्टेयर फसल बर्बाद",
-    "p": "अधिकारियों ने कृषि मंत्री के. अच्चन्नायडु को बताया कि अर्नब और मुरासु चक्रवातों से राज्य में 4,61,194 हेक्टेयर कृषि फसलें और 29,960 हेक्टेयर बागवानी फसलें बर्बाद हुईं। अर्नब चक्रवात ने 15 जिलों में 5.23 लाख किसानों को प्रभावित किया, नुकसान ₹2,392.84 करोड़ रहा। कोनसीमा जिले में 99.19% खेती क्षेत्र बर्बाद हुआ। मंत्री ने गणना तेज करने का आदेश दिया ताकि कोई पात्र किसान न छूटे।",
-    "pts": [
-     "अर्नब चक्रवात से ₹2,392.84 करोड़ का नुकसान",
-     "मुरासु से 1.86 लाख किसान प्रभावित",
-     "कोनसीमा में 99.19% खेती क्षेत्र बर्बाद"
-    ],
-    "why": "चक्रवात में फसल गंवाने वाले लाखों किसानों के लिए यह गणना अहम है।",
-    "cat": "आंध्र प्रदेश · कृषि",
-    "statl": "चक्रवात से बर्बाद फसल क्षेत्र"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · సంక్షేమం",
-   "col": "--c-gov",
-   "art": "deadline",
-   "stat": "18 వరకు",
-   "statl": "కొత్త చేయూత పింఛన్ల పంపిణీ గడువు",
-   "h": "రేపటి నుంచి కొత్త చేయూత పింఛన్ల పంపిణీ",
-   "p": "కొత్తగా మంజూరైన చేయూత పింఛన్లను గురువారం నుంచి ఈ నెల 18 వరకు పంపిణీ చేయాలని రాష్ట్ర ప్రభుత్వం అధికారులను ఆదేశించిందని నమస్తే తెలంగాణ కథనం. పెండింగ్‌లో ఉన్న పరిశీలన, ఆమోద ప్రక్రియను వేగవంతం చేయాలని సెర్ప్ సీఈవో దివ్య దేవరాజన్ కలెక్టర్లకు సర్క్యులర్ జారీ చేశారు. మండల కేంద్రాలు, మున్సిపాలిటీల్లో పంపిణీ ఏర్పాట్లు చేయాలని సూచించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-to-distribute-newly-sanctioned-cheyutha-pensions-from-thursday-2557282",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T02:47+05:30",
-   "pts": [
-    "గురువారం నుంచి 18 వరకు పంపిణీ",
-    "సెర్ప్ సీఈవో కలెక్టర్లకు సర్క్యులర్",
-    "మండల కేంద్రాలు, మున్సిపాలిటీల్లో పంపిణీ"
-   ],
-   "why": "కొత్తగా పింఛను మంజూరైన లబ్ధిదారులు ఈ తేదీల్లో పింఛను అందుకోవచ్చు.",
-   "en": {
-    "h": "New Cheyutha pensions to be distributed from tomorrow",
-    "p": "The state government has ordered officials to distribute newly sanctioned Cheyutha pensions from Thursday until the 18th of this month, Namasthe Telangana reported. SERP CEO Divya Devarajan issued a circular to collectors to speed up pending verification and approvals. Distribution is to be arranged at mandal headquarters and municipalities.",
-    "pts": [
-     "Distribution from Thursday to the 18th",
-     "SERP CEO issues circular to collectors",
-     "Distribution at mandal headquarters, municipalities"
-    ],
-    "why": "Newly sanctioned pensioners can receive their pensions on these dates.",
-    "cat": "Telangana · Welfare",
-    "statl": "Deadline for new Cheyutha pension distribution"
-   },
-   "hi": {
-    "h": "कल से नई चेयूता पेंशन का वितरण",
-    "p": "नमस्ते तेलंगाना के अनुसार, राज्य सरकार ने अधिकारियों को नई मंजूर चेयूता पेंशन गुरुवार से इस महीने की 18 तारीख तक बांटने का आदेश दिया है। सेर्प सीईओ दिव्या देवराजन ने कलेक्टरों को लंबित सत्यापन और मंजूरी तेज करने का सर्कुलर जारी किया। वितरण मंडल मुख्यालयों और नगरपालिकाओं में होगा।",
-    "pts": [
-     "गुरुवार से 18 तारीख तक वितरण",
-     "सेर्प सीईओ का कलेक्टरों को सर्कुलर",
-     "मंडल मुख्यालयों, नगरपालिकाओं में वितरण"
-    ],
-    "why": "नए मंजूर पेंशनभोगी इन तारीखों पर पेंशन ले सकेंगे।",
-    "cat": "तेलंगाना · कल्याण",
-    "statl": "नई चेयूता पेंशन वितरण की समय-सीमा"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఏపీ · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "1,364",
-   "statl": "ధరలు తగ్గిన క్యాన్సర్ మందులు",
-   "h": "క్యాన్సర్ మందుల ధరల తగ్గింపు: అధిక ధరలపై ఏపీలో తనిఖీలు",
-   "p": "కేంద్రం సోమవారం నుంచి 1,364 క్యాన్సర్ మందుల ధరలు తగ్గించింది; 671 బ్రాండ్ల ధరలు 50% కంటే ఎక్కువ తగ్గాయి. ఈ ప్రయోజనం రోగులకు పూర్తిగా అందేలా ఆసుపత్రులు, మెడికల్ షాపుల్లో తనిఖీలు పెంచాలని మంత్రి సత్యకుమార్ యాదవ్ ఆదేశించారు. ఏడు రోజుల్లో అన్ని క్యాన్సర్ ఆసుపత్రులను తనిఖీ చేయాలి. పాత ఎంఆర్‌పీ ఉన్న మందులను తగ్గిన ధరకే అమ్మాలి.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/amaravati/cancer-drug-price-cut-ap-cracks-down-on-overcharging-1140909",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-11T02:06+05:30",
-   "pts": [
-    "671 బ్రాండ్ల ధరలు 50% పైగా తగ్గింపు",
-    "7 రోజుల్లో క్యాన్సర్ ఆసుపత్రుల తనిఖీ",
-    "ఫిర్యాదులకు డీసీఏ వాట్సాప్ 8632330909"
-   ],
-   "why": "క్యాన్సర్ రోగుల కుటుంబాలు మందులు తగ్గిన ధరకే పొందేందుకు ఇది ఉపయోగపడుతుంది.",
-   "en": {
-    "h": "Cancer drug price cut: AP steps up checks on overcharging",
-    "p": "The Centre cut prices of 1,364 cancer medicines from Monday; 671 brands fell by more than 50%. Health Minister Satya Kumar Yadav ordered more inspections of hospitals and medical stores so patients get the full benefit. All cancer hospitals must be inspected within seven days. Medicines with old MRPs must be sold at the lower price.",
-    "pts": [
-     "Prices of 671 brands cut by over 50%",
-     "Cancer hospitals to be inspected within 7 days",
-     "DCA WhatsApp for complaints: 8632330909"
-    ],
-    "why": "It helps cancer patients' families buy medicines at the reduced prices.",
-    "cat": "AP · Health",
-    "statl": "Cancer medicines with reduced prices"
-   },
-   "hi": {
-    "h": "कैंसर दवाओं के दाम घटे: आंध्र में अधिक कीमत वसूली पर जांच",
-    "p": "केंद्र ने सोमवार से 1,364 कैंसर दवाओं के दाम घटाए; 671 ब्रांड 50% से ज्यादा सस्ते हुए। स्वास्थ्य मंत्री सत्य कुमार यादव ने अस्पतालों और मेडिकल स्टोरों की जांच बढ़ाने का आदेश दिया ताकि मरीजों को पूरा लाभ मिले। सात दिनों में सभी कैंसर अस्पतालों की जांच होगी। पुराने एमआरपी वाली दवाएं घटी कीमत पर ही बिकेंगी।",
-    "pts": [
-     "671 ब्रांड के दाम 50% से ज्यादा घटे",
-     "7 दिनों में कैंसर अस्पतालों की जांच",
-     "शिकायत के लिए डीसीए व्हाट्सऐप 8632330909"
-    ],
-    "why": "इससे कैंसर मरीजों के परिवारों को घटी कीमत पर दवाएं मिलेंगी।",
-    "cat": "आंध्र प्रदेश · स्वास्थ्य",
-    "statl": "दाम घटी कैंसर दवाएं"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · భూములు",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "2,720",
-   "statl": "భూ రీసర్వే జరుగుతున్న గ్రామాలు",
-   "h": "2,720 గ్రామాల్లో భూముల రీసర్వే: మంత్రి పొంగులేటి సమీక్ష",
-   "p": "రాష్ట్రంలోని 10,954 రెవెన్యూ గ్రామాల్లో 2,720 గ్రామాల్లో సమగ్ర భూ రీసర్వే జరుగుతోందని రెవెన్యూ మంత్రి పొంగులేటి శ్రీనివాస్ రెడ్డి తెలిపారు. తొలి దశలో హైదరాబాద్ మినహా 32 జిల్లాల్లో ఒక్కో జిల్లాకు 70 గ్రామాలు ఎంపిక చేశారు. వెయ్యికి పైగా గ్రామాలు కీలక దశ దాటగా, 416 గ్రామాల్లో ప్రక్రియ పూర్తయింది. సచివాలయంలో అధికారులతో మంగళవారం సమీక్షించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/minister-ponguleti-reviews-progress-of-statewide-land-resurvey-2557328",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T04:19+05:30",
-   "pts": [
-    "10,954 రెవెన్యూ గ్రామాల్లో 2,720లో రీసర్వే",
-    "ఒక్కో జిల్లాలో 70 గ్రామాలు ఎంపిక",
-    "416 గ్రామాల్లో ప్రక్రియ పూర్తి"
-   ],
-   "why": "భూ రికార్డుల సమస్యలు ఎదుర్కొంటున్న గ్రామీణ భూయజమానులకు ఈ రీసర్వే ముఖ్యం.",
-   "en": {
-    "h": "Land resurvey under way in 2,720 villages: Minister Ponguleti reviews",
-    "p": "Revenue Minister Ponguleti Srinivas Reddy said a comprehensive land resurvey is under way in 2,720 of the state's 10,954 revenue villages. In phase one, 70 villages were chosen in each of 32 districts other than Hyderabad. Over 1,000 villages have crossed a key stage and 416 have completed the process. He reviewed progress with officials at the Secretariat on Tuesday.",
-    "pts": [
-     "Resurvey in 2,720 of 10,954 revenue villages",
-     "70 villages chosen in each district",
-     "Process complete in 416 villages"
-    ],
-    "why": "The resurvey matters for rural landowners facing land-record problems.",
-    "cat": "Telangana · Land",
-    "statl": "Villages under land resurvey"
-   },
-   "hi": {
-    "h": "2,720 गांवों में भूमि पुनर्सर्वेक्षण: मंत्री पोंगुलेटी ने की समीक्षा",
-    "p": "राजस्व मंत्री पोंगुलेटी श्रीनिवास रेड्डी ने बताया कि राज्य के 10,954 राजस्व गांवों में से 2,720 गांवों में व्यापक भूमि पुनर्सर्वेक्षण चल रहा है। पहले चरण में हैदराबाद को छोड़कर 32 जिलों में हर जिले से 70 गांव चुने गए। 1,000 से ज्यादा गांव अहम चरण पार कर चुके हैं और 416 में प्रक्रिया पूरी हुई। उन्होंने मंगलवार को सचिवालय में समीक्षा की।",
-    "pts": [
-     "10,954 में से 2,720 गांवों में पुनर्सर्वेक्षण",
-     "हर जिले से 70 गांव चुने गए",
-     "416 गांवों में प्रक्रिया पूरी"
-    ],
-    "why": "भूमि रिकॉर्ड की समस्याओं से जूझ रहे ग्रामीण भू-स्वामियों के लिए यह अहम है।",
-    "cat": "तेलंगाना · भूमि",
-    "statl": "पुनर्सर्वेक्षण वाले गांव"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "16–23",
-   "statl": "మళ్లీ సమీక్షల తేదీలు",
-   "h": "మిగులు ఉపాధ్యాయుల సర్దుబాటు ఇంకా అసంపూర్తి",
-   "p": "రాష్ట్రవ్యాప్తంగా మిగులు ఉపాధ్యాయుల సర్దుబాటు నిలిచిపోయిందని నమస్తే తెలంగాణ కథనం. వరంగల్ జిల్లాలో సర్దుబాటు పూర్తయినా, జోగులాంబ గద్వాల జిల్లాలో చాలా బడుల్లో టీచర్లు లేరు. మంచిర్యాల జిల్లా జన్నారం మండలంలో 400 మందికి పైగా విద్యార్థులున్న ఓ బడికి టీచర్లు కావాలి. డేటా నవీకరణ జరగకపోవడంతో 16 నుంచి 23 వరకు మళ్లీ సమీక్షలు జరగనున్నాయి.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/teacher-rationalisation-in-telangana-remains-incomplete-2557210",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T01:57+05:30",
-   "pts": [
-    "గద్వాల జిల్లాలో చాలా బడుల్లో టీచర్ల కొరత",
-    "జన్నారంలో 400 మంది విద్యార్థుల బడికి టీచర్లు అవసరం",
-    "బుధవారంలోగా పూర్తి చేయాలని విద్యాశాఖ ఆదేశం"
-   ],
-   "why": "టీచర్లు లేని ప్రభుత్వ బడుల్లో చదువుతున్న విద్యార్థులపై దీని ప్రభావం ఉంటుంది.",
-   "en": {
-    "h": "Adjustment of surplus teachers still incomplete in Telangana",
-    "p": "The statewide adjustment of surplus teachers has stalled, Namasthe Telangana reported. It was completed in Warangal district, but many schools in Jogulamba Gadwal district have no teachers. A school with over 400 students in Jannaram mandal of Mancherial district needs teachers. As data was not updated, fresh reviews are set for the 16th to 23rd.",
-    "pts": [
-     "Many Gadwal district schools lack teachers",
-     "Jannaram school with 400 students needs teachers",
-     "Education department orders completion by Wednesday"
-    ],
-    "why": "It affects students in government schools that lack teachers.",
-    "cat": "Telangana · Education",
-    "statl": "Dates of fresh reviews"
-   },
-   "hi": {
-    "h": "तेलंगाना में अतिरिक्त शिक्षकों का समायोजन अब भी अधूरा",
-    "p": "नमस्ते तेलंगाना के अनुसार, राज्यभर में अतिरिक्त शिक्षकों का समायोजन रुका हुआ है। वरंगल जिले में यह पूरा हुआ, लेकिन जोगुलांबा गदवाल जिले के कई स्कूलों में शिक्षक नहीं हैं। मंचेरियल जिले के जन्नारम मंडल में 400 से ज्यादा छात्रों वाले एक स्कूल को शिक्षक चाहिए। डेटा अपडेट न होने से 16 से 23 तारीख तक फिर समीक्षा होगी।",
-    "pts": [
-     "गदवाल जिले के कई स्कूलों में शिक्षकों की कमी",
-     "जन्नारम में 400 छात्रों वाले स्कूल को शिक्षक चाहिए",
-     "शिक्षा विभाग का बुधवार तक पूरा करने का आदेश"
-    ],
-    "why": "इसका असर बिना शिक्षक वाले सरकारी स्कूलों के छात्रों पर पड़ता है।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "फिर से समीक्षा की तारीखें"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
   }
  ]
 }

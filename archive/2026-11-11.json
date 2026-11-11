@@ -1,8 +1,459 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 68,
+ "count": 77,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · రోడ్డు ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "21 ఏళ్లు",
+   "statl": "మృతి చెందిన విద్యార్థిని వయసు",
+   "h": "నల్లకుంటలో బైక్ అదుపుతప్పి ఆర్టీసీ బస్సు కింద పడి ఇంజినీరింగ్ విద్యార్థిని మృతి",
+   "p": "హైదరాబాద్ నల్లకుంటలో ఫీవర్ ఆస్పత్రి సిగ్నల్ సమీపంలో జరిగిన ప్రమాదంలో 21 ఏళ్ల ఇంజినీరింగ్ విద్యార్థిని మృతి చెందింది. తండ్రి బైక్‌పై కాలేజీకి తీసుకెళ్తుండగా, ఎదురుగా రాంగ్ రూట్‌లో వచ్చిన మరో బైకర్‌ను తప్పించేందుకు తండ్రి సడెన్ బ్రేక్ వేయడంతో బైక్ అదుపుతప్పిందని పోలీసులు తెలిపారు. కిందపడిన ఆమెపై వెనుక నుంచి వచ్చిన ఆర్టీసీ బస్సు చక్రాలు ఎక్కడంతో తలకు తీవ్ర గాయాలై అక్కడికక్కడే మృతి చెందింది. కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/engineering-student-killed-in-hyderabad-road-mishap-1141066",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నల్లకుంట",
+   "pts": [
+    "రాంగ్ రూట్ బైకర్‌ను తప్పించబోయి బైక్ అదుపుతప్పింది",
+    "వెనుక వచ్చిన ఆర్టీసీ బస్సు చక్రాల కింద పడిన విద్యార్థిని",
+    "నల్లకుంట పోలీసుల కేసు నమోదు, దర్యాప్తు"
+   ],
+   "why": "రాంగ్ రూట్ డ్రైవింగ్ ప్రాణాలు తీస్తోందని, నగర రహదారులపై జాగ్రత్త అవసరమని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "pub": "2026-11-11T11:18+05:30",
+   "en": {
+    "h": "Engineering student dies after falling under RTC bus at Nallakunta",
+    "p": "A 21-year-old engineering student died in an accident near the Fever Hospital signal at Nallakunta, Hyderabad. Police said her father, who was taking her to college on his motorcycle, braked suddenly to avoid a biker coming on the wrong side, and the bike lost control. She fell and the rear wheels of an RTC bus coming from behind ran over her, causing severe head injuries; she died on the spot. A case has been registered and is being investigated.",
+    "pts": [
+     "Bike lost control while avoiding a wrong-side biker",
+     "Student fell under the wheels of an RTC bus behind",
+     "Nallakunta police register case, investigate"
+    ],
+    "why": "The incident is a reminder that wrong-side driving costs lives and city roads need caution.",
+    "cat": "Hyderabad · Road accident",
+    "statl": "age of the student who died"
+   },
+   "hi": {
+    "h": "नल्लकुंटा में बाइक अनियंत्रित होकर आरटीसी बस के नीचे गिरी इंजीनियरिंग छात्रा की मौत",
+    "p": "हैदराबाद के नल्लकुंटा में फीवर अस्पताल सिग्नल के पास हुए हादसे में 21 वर्षीय इंजीनियरिंग छात्रा की मौत हो गई। पुलिस के अनुसार, पिता उसे बाइक पर कॉलेज ले जा रहे थे, तभी गलत दिशा से आ रहे एक बाइक सवार से बचने के लिए उन्होंने अचानक ब्रेक लगाया और बाइक अनियंत्रित हो गई। नीचे गिरी छात्रा पर पीछे से आ रही आरटीसी बस के पिछले पहिए चढ़ गए, सिर में गंभीर चोटों से उसकी मौके पर ही मौत हो गई। मामला दर्ज कर जांच की जा रही है।",
+    "pts": [
+     "गलत दिशा से आए बाइक सवार से बचते हुए बाइक अनियंत्रित",
+     "पीछे से आई आरटीसी बस के पहियों के नीचे आई छात्रा",
+     "नल्लकुंटा पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह घटना याद दिलाती है कि गलत दिशा में वाहन चलाना जानलेवा है और सड़कों पर सावधानी ज़रूरी है।",
+    "cat": "हैदराबाद · सड़क हादसा",
+    "statl": "मृत छात्रा की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ఏపీ · పంచాయతీ ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "13,171",
+   "statl": "ఎన్నికలు జరిగే గ్రామ పంచాయతీలు",
+   "h": "ఏపీలో 13,171 పంచాయతీలకు మూడు దశల్లో ఎన్నికలు: 13న నోటిఫికేషన్",
+   "p": "ఆంధ్రప్రదేశ్‌లో 13,171 గ్రామ పంచాయతీలకు మూడు దశల్లో పోలింగ్ జరగనుంది. రాష్ట్ర ఎన్నికల సంఘం ఈ నెల 13న నోటిఫికేషన్లు జారీ చేయనుంది. నవంబర్ 26, 29, డిసెంబర్ 2 తేదీల్లో పోలింగ్ జరుగుతుందని ఈటీవీ భారత్ కథనం తెలిపింది. గ్రామాల్లో ఎన్నికల సందడి మొదలుకానుంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#panchayat-polls",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "13,171 గ్రామ పంచాయతీలకు మూడు దశల్లో పోలింగ్",
+    "నవంబర్ 13న ఎస్ఈసీ నోటిఫికేషన్లు",
+    "పోలింగ్: నవంబర్ 26, 29, డిసెంబర్ 2"
+   ],
+   "why": "రాష్ట్రవ్యాప్తంగా గ్రామీణ ఓటర్లు, సర్పంచ్ అభ్యర్థులకు ఈ షెడ్యూల్ కీలకం.",
+   "pub": "2026-11-11T06:46+05:30",
+   "en": {
+    "h": "AP to hold polls to 13,171 panchayats in three phases; notification on 13th",
+    "p": "Polling for 13,171 gram panchayats in Andhra Pradesh will be held in three phases. The State Election Commission will issue notifications on the 13th of this month. Polling will be held on November 26, 29 and December 2, ETV Bharat reported. Election activity is set to begin in villages.",
+    "pts": [
+     "Three-phase polling for 13,171 gram panchayats",
+     "SEC notifications on November 13",
+     "Polling: November 26, 29 and December 2"
+    ],
+    "why": "The schedule matters to rural voters and sarpanch aspirants across the state.",
+    "cat": "AP · Panchayat polls",
+    "statl": "gram panchayats going to polls"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 13,171 पंचायतों के चुनाव तीन चरणों में: 13 को अधिसूचना",
+    "p": "आंध्र प्रदेश में 13,171 ग्राम पंचायतों के लिए तीन चरणों में मतदान होगा। राज्य चुनाव आयोग इस महीने की 13 तारीख को अधिसूचनाएं जारी करेगा। ईटीवी भारत के अनुसार मतदान 26 और 29 नवंबर तथा 2 दिसंबर को होगा। गांवों में चुनावी हलचल शुरू होने वाली है।",
+    "pts": [
+     "13,171 ग्राम पंचायतों में तीन चरणों में मतदान",
+     "13 नवंबर को एसईसी की अधिसूचनाएं",
+     "मतदान: 26, 29 नवंबर और 2 दिसंबर"
+    ],
+    "why": "यह कार्यक्रम राज्य भर के ग्रामीण मतदाताओं और सरपंच उम्मीदवारों के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · पंचायत चुनाव",
+    "statl": "ग्राम पंचायतों में चुनाव"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "ఏపీ · తిరుమల",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "12 గంటలు",
+   "statl": "సర్వదర్శనానికి వేచి ఉండే సమయం",
+   "h": "తిరుమలలో భక్తుల రద్దీ: టోకెన్ లేని సర్వదర్శనానికి 12 గంటలు",
+   "p": "తిరుమలలో భక్తుల రద్దీ కొనసాగుతోంది. టోకెన్లు లేని భక్తులకు సర్వదర్శనానికి 12 గంటల సమయం పడుతోంది. కంపార్ట్‌మెంట్లన్నీ నిండి క్యూ నారాయణగిరి షెడ్ల వరకు చేరింది. మంగళవారం 78,085 మంది స్వామివారిని దర్శించుకోగా, 26,232 మంది తలనీలాలు సమర్పించారు. హుండీ ఆదాయం రూ.3.93 కోట్లు వచ్చిందని ఈటీవీ భారత్ పేర్కొంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#tirumala-rush",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుమల",
+   "pts": [
+    "కంపార్ట్‌మెంట్లు నిండి నారాయణగిరి షెడ్ల వరకు క్యూ",
+    "మంగళవారం 78,085 మందికి దర్శనం",
+    "హుండీ ఆదాయం రూ.3.93 కోట్లు"
+   ],
+   "why": "తిరుమల వెళ్లే భక్తులు ప్రయాణం ప్లాన్ చేసుకునేందుకు ఈ సమాచారం ఉపయోగపడుతుంది.",
+   "pub": "2026-11-11T09:08+05:30",
+   "en": {
+    "h": "Heavy rush at Tirumala: 12-hour wait for sarva darshan without tokens",
+    "p": "The rush of devotees continues at Tirumala. Devotees without tokens are taking 12 hours for sarva darshan. All compartments are full and the queue has reached the Narayanagiri sheds. On Tuesday, 78,085 devotees had darshan and 26,232 offered tonsure. The hundi collection was Rs 3.93 crore, ETV Bharat said.",
+    "pts": [
+     "Compartments full, queue up to Narayanagiri sheds",
+     "78,085 devotees had darshan on Tuesday",
+     "Hundi collection Rs 3.93 crore"
+    ],
+    "why": "The information helps devotees heading to Tirumala plan their trip.",
+    "cat": "AP · Tirumala",
+    "statl": "wait for sarva darshan"
+   },
+   "hi": {
+    "h": "तिरुमला में भारी भीड़: बिना टोकन सर्वदर्शन में 12 घंटे",
+    "p": "तिरुमला में श्रद्धालुओं की भीड़ जारी है। बिना टोकन वाले श्रद्धालुओं को सर्वदर्शन में 12 घंटे लग रहे हैं। सभी कम्पार्टमेंट भरे हुए हैं और कतार नारायणगिरि शेड तक पहुंच गई है। मंगलवार को 78,085 श्रद्धालुओं ने दर्शन किए और 26,232 ने मुंडन कराया। ईटीवी भारत के अनुसार हुंडी आय 3.93 करोड़ रुपये रही।",
+    "pts": [
+     "कम्पार्टमेंट भरे, कतार नारायणगिरि शेड तक",
+     "मंगलवार को 78,085 श्रद्धालुओं ने दर्शन किए",
+     "हुंडी आय 3.93 करोड़ रुपये"
+    ],
+    "why": "यह जानकारी तिरुमला जाने वाले श्रद्धालुओं को यात्रा की योजना बनाने में मदद करती है।",
+    "cat": "आंध्र प्रदेश · तिरुमला",
+    "statl": "सर्वदर्शन का इंतज़ार"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "నెల్లూరు · నేరం",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "2",
+   "statl": "కేసు నమోదైన విద్యార్థులు",
+   "h": "సంగంలో విద్యార్థితో బలవంతంగా పురుగుమందు తాగించారని ఆరోపణ: ఇద్దరిపై కేసు",
+   "p": "నెల్లూరు జిల్లా సంగంలో తోటి విద్యార్థులు ఓ విద్యార్థితో బలవంతంగా పురుగుమందు తాగించారని ఆరోపణ వచ్చింది. ఇంటికి వచ్చాక అస్వస్థతకు గురైన బాలుడిని తల్లిదండ్రులు చెన్నై ఆస్పత్రికి తీసుకెళ్లగా పురుగుమందు తాగినట్లు వైద్యులు గుర్తించారు. అతని పరిస్థితి ఇంకా విషమంగానే ఉందని ఈటీవీ భారత్ పేర్కొంది. తల్లిదండ్రుల ఫిర్యాదుతో ఇద్దరు విద్యార్థులపై అట్రాసిటీ, హత్యాయత్నం కేసు నమోదు చేశారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#sangam-student",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "ap-nellore",
+   "loc": "సంగం",
+   "pts": [
+    "తోటి విద్యార్థులు పురుగుమందు తాగించారని ఆరోపణ",
+    "చెన్నై ఆస్పత్రిలో చికిత్స, పరిస్థితి విషమం",
+    "ఇద్దరు విద్యార్థులపై అట్రాసిటీ, హత్యాయత్నం కేసు"
+   ],
+   "why": "పాఠశాలల్లో విద్యార్థుల భద్రత, వేధింపుల నివారణపై తల్లిదండ్రులు, ఉపాధ్యాయులు దృష్టి పెట్టాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T07:32+05:30",
+   "en": {
+    "h": "Sangam student allegedly forced to drink pesticide; case against two",
+    "p": "A student in Sangam, Nellore district, was allegedly forced by classmates to drink pesticide. After he fell ill at home, his parents took him to a hospital in Chennai, where doctors found he had consumed pesticide. His condition is still serious, ETV Bharat said. On the parents' complaint, police registered a case against two students under the Atrocities Act and for attempt to murder.",
+    "pts": [
+     "Classmates allegedly forced him to drink pesticide",
+     "Treated in Chennai hospital, condition serious",
+     "Atrocities Act, attempt-to-murder case against two students"
+    ],
+    "why": "It shows the need for parents and teachers to focus on student safety and preventing harassment in schools.",
+    "cat": "Nellore · Crime",
+    "statl": "students booked"
+   },
+   "hi": {
+    "h": "संगम में छात्र को जबरन कीटनाशक पिलाने का आरोप: दो पर मामला",
+    "p": "नेल्लोर जिले के संगम में आरोप है कि सहपाठियों ने एक छात्र को जबरन कीटनाशक पिलाया। घर लौटने पर तबीयत बिगड़ने के बाद माता-पिता उसे चेन्नई के अस्पताल ले गए, जहां डॉक्टरों ने कीटनाशक पीने की पुष्टि की। ईटीवी भारत के अनुसार उसकी हालत अब भी गंभीर है। माता-पिता की शिकायत पर दो छात्रों के खिलाफ एट्रोसिटी एक्ट और हत्या के प्रयास का मामला दर्ज किया गया।",
+    "pts": [
+     "सहपाठियों पर जबरन कीटनाशक पिलाने का आरोप",
+     "चेन्नई के अस्पताल में इलाज, हालत गंभीर",
+     "दो छात्रों पर एट्रोसिटी, हत्या के प्रयास का मामला"
+    ],
+    "why": "यह स्कूलों में छात्रों की सुरक्षा और उत्पीड़न रोकने पर अभिभावकों व शिक्षकों के ध्यान देने की ज़रूरत दिखाता है।",
+    "cat": "नेल्लोर · अपराध",
+    "statl": "छात्रों पर मामला"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "అనంతపురం · అటవీ",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "3 గ్రామాలు",
+   "statl": "చిరుత కనిపించిన ప్రాంతాలు",
+   "h": "కుందుర్పి మండలంలో చిరుత సంచారం: అప్రమత్తంగా ఉండాలని అటవీ అధికారుల సూచన",
+   "p": "అనంతపురం జిల్లా కుందుర్పి మండలంలోని బొమ్మజ్జిపల్లి, బి.కొత్తూరు, బసాపురం పరిసరాల్లో చిరుత కనిపించింది. పొలాల వద్ద చిరుతను చూసిన రైతులు అధికారులకు సమాచారం ఇచ్చారు. స్థానికులు అప్రమత్తంగా ఉండాలని అటవీ అధికారులు సూచించారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#kundurpi-leopard",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-anantapur",
+   "loc": "కుందుర్పి",
+   "pts": [
+    "బొమ్మజ్జిపల్లి, బి.కొత్తూరు, బసాపురం వద్ద చిరుత",
+    "పొలాల వద్ద చూసిన రైతులు అధికారులకు సమాచారం",
+    "అప్రమత్తంగా ఉండాలని అటవీ శాఖ సూచన"
+   ],
+   "why": "ఈ గ్రామాల రైతులు, పశువుల కాపరులు పొలాలకు వెళ్లేటప్పుడు జాగ్రత్తగా ఉండాలి.",
+   "pub": "2026-11-11T06:44+05:30",
+   "en": {
+    "h": "Leopard spotted in Kundurpi mandal; forest officials urge caution",
+    "p": "A leopard has been spotted around Bommajjipalli, B. Kotturu and Basapuram in Kundurpi mandal of Anantapur district. Farmers who saw it near their fields informed officials. Forest officials advised residents to stay alert.",
+    "pts": [
+     "Leopard near Bommajjipalli, B. Kotturu, Basapuram",
+     "Farmers saw it near fields, alerted officials",
+     "Forest department asks residents to stay alert"
+    ],
+    "why": "Farmers and herders in these villages need to be careful when going to the fields.",
+    "cat": "Anantapur · Forest",
+    "statl": "villages where leopard seen"
+   },
+   "hi": {
+    "h": "कुंदुर्पी मंडल में तेंदुआ दिखा: वन अधिकारियों ने सतर्क रहने को कहा",
+    "p": "अनंतपुर जिले के कुंदुर्पी मंडल में बोम्मज्जिपल्ली, बी. कोत्तूरु और बसापुरम के आसपास तेंदुआ देखा गया है। खेतों के पास इसे देखने वाले किसानों ने अधिकारियों को सूचना दी। वन अधिकारियों ने लोगों को सतर्क रहने की सलाह दी है।",
+    "pts": [
+     "बोम्मज्जिपल्ली, बी. कोत्तूरु, बसापुरम के पास तेंदुआ",
+     "किसानों ने खेतों के पास देखकर अधिकारियों को बताया",
+     "वन विभाग ने सतर्क रहने को कहा"
+    ],
+    "why": "इन गांवों के किसानों और चरवाहों को खेतों में जाते समय सावधान रहना होगा।",
+    "cat": "अनंतपुर · वन",
+    "statl": "गांव जहां तेंदुआ दिखा"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "మంచిర్యాల · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "42 ఏళ్లు",
+   "statl": "మృతుని వయసు",
+   "h": "దండేపల్లి మండలంలో వన్యప్రాణుల వేటకు పెట్టిన విద్యుత్ తీగలు తగిలి వ్యక్తి మృతి",
+   "p": "మంచిర్యాల జిల్లా దండేపల్లి మండలంలో అటవీ జంతువుల వేట కోసం అమర్చిన విద్యుత్ తీగలు తగిలి 42 ఏళ్ల వ్యక్తి మృతి చెందారని ఆంధ్రజ్యోతి కథనం తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#dandepalli-electrocution",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "mancherial",
+   "loc": "దండేపల్లి",
+   "pts": [
+    "వన్యప్రాణుల వేటకు అమర్చిన విద్యుత్ తీగలు",
+    "తీగలు తగిలి 42 ఏళ్ల వ్యక్తి మృతి",
+    "కేసు నమోదు చేసి పోలీసుల దర్యాప్తు"
+   ],
+   "why": "అక్రమంగా అమర్చే విద్యుత్ ఉచ్చులు మనుషుల ప్రాణాలకూ ముప్పుగా మారుతున్నాయి.",
+   "pub": "2026-11-11T07:10+05:30",
+   "en": {
+    "h": "Man dies after touching power wires set to hunt wild animals in Dandepalli mandal",
+    "p": "A 42-year-old man died after touching electric wires set up to hunt forest animals in Dandepalli mandal of Mancherial district, Andhra Jyothy reported. Police have registered a case and are investigating.",
+    "pts": [
+     "Electric wires set up to hunt wild animals",
+     "42-year-old man died after touching them",
+     "Police register case, investigate"
+    ],
+    "why": "Illegal electric traps are becoming a threat to human lives too.",
+    "cat": "Mancherial · Accident",
+    "statl": "age of the deceased"
+   },
+   "hi": {
+    "h": "दंडेपल्ली मंडल में वन्यजीवों के शिकार के लिए लगाए बिजली तारों से व्यक्ति की मौत",
+    "p": "आंध्र ज्योति के अनुसार मंचिर्याल जिले के दंडेपल्ली मंडल में जंगली जानवरों के शिकार के लिए लगाए गए बिजली के तारों के संपर्क में आने से 42 वर्षीय व्यक्ति की मौत हो गई। पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "जंगली जानवरों के शिकार के लिए लगाए गए बिजली तार",
+     "तारों के संपर्क में आने से 42 वर्षीय व्यक्ति की मौत",
+     "पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "अवैध बिजली के जाल इंसानों की जान के लिए भी खतरा बन रहे हैं।",
+    "cat": "मंचिर्याल · हादसा",
+    "statl": "मृतक की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "శ్రీ సత్యసాయి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "6 ఏళ్లు",
+   "statl": "గాయపడిన చిన్నారి వయసు",
+   "h": "జామకాయ కోసిందని ఆరేళ్ల చిన్నారిపై వృద్ధురాలి దాడి ఆరోపణ: కేసు నమోదు",
+   "p": "శ్రీ సత్యసాయి జిల్లా పరిగి మండలం ఉటుకూరు గ్రామంలో జామకాయ కోసిందన్న కారణంతో ఆరేళ్ల చిన్నారిపై ఓ వృద్ధురాలు దాడి చేసిందని ఆరోపణ. తీవ్రంగా గాయపడిన చిన్నారిని ఆస్పత్రికి తరలించారు. తల్లిదండ్రుల ఫిర్యాదు మేరకు పోలీసులు కేసు నమోదు చేశారని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#utakur-child",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-sathyasai",
+   "loc": "ఉటుకూరు",
+   "pts": [
+    "జామకాయ కోసిందని దాడి చేసినట్లు ఆరోపణ",
+    "తీవ్ర గాయాలతో చిన్నారి ఆస్పత్రిలో",
+    "తల్లిదండ్రుల ఫిర్యాదుతో కేసు నమోదు"
+   ],
+   "why": "చిన్నారులపై హింసను సహించకూడదని, అలాంటి ఘటనలను పోలీసులకు తెలపాలని ఇది గుర్తుచేస్తోంది.",
+   "pub": "2026-11-11T07:05+05:30",
+   "en": {
+    "h": "Elderly woman allegedly attacks six-year-old for plucking guava; case filed",
+    "p": "An elderly woman allegedly attacked a six-year-old girl for plucking a guava in Utakur village, Parigi mandal, Sri Sathya Sai district. The seriously injured child was shifted to hospital. Police registered a case on the parents' complaint, Andhra Jyothy said.",
+    "pts": [
+     "Allegedly attacked for plucking a guava",
+     "Child in hospital with serious injuries",
+     "Case registered on parents' complaint"
+    ],
+    "why": "It is a reminder that violence against children must not be tolerated and should be reported to police.",
+    "cat": "Sri Sathya Sai · Crime",
+    "statl": "age of the injured child"
+   },
+   "hi": {
+    "h": "अमरूद तोड़ने पर छह साल की बच्ची पर बुज़ुर्ग महिला के हमले का आरोप: मामला दर्ज",
+    "p": "श्री सत्य साई जिले के परिगी मंडल के उटकूरु गांव में आरोप है कि अमरूद तोड़ने पर एक बुज़ुर्ग महिला ने छह साल की बच्ची पर हमला किया। गंभीर रूप से घायल बच्ची को अस्पताल ले जाया गया। आंध्र ज्योति के अनुसार माता-पिता की शिकायत पर पुलिस ने मामला दर्ज किया।",
+    "pts": [
+     "अमरूद तोड़ने पर हमले का आरोप",
+     "गंभीर चोटों के साथ बच्ची अस्पताल में",
+     "माता-पिता की शिकायत पर मामला दर्ज"
+    ],
+    "why": "यह याद दिलाता है कि बच्चों के खिलाफ हिंसा बर्दाश्त नहीं की जानी चाहिए और पुलिस को बताना चाहिए।",
+    "cat": "श्री सत्य साई · अपराध",
+    "statl": "घायल बच्ची की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "వరంగల్ · ప్రభుత్వం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "నేడు",
+   "statl": "డిప్యూటీ సీఎం వరంగల్ పర్యటన",
+   "h": "నేడు వరంగల్‌కు డిప్యూటీ సీఎం భట్టి: గోదావరి నీరు, విద్యుత్ కొరతపై సమీక్ష",
+   "p": "ఉప ముఖ్యమంత్రి భట్టి విక్రమార్క బుధవారం వరంగల్ జిల్లాలో పర్యటించనున్నారు. గోదావరి నీటి లభ్యత, విద్యుత్ కొరతపై ఆయన సమీక్ష నిర్వహిస్తారని ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#bhatti-warangal",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "warangal",
+   "pts": [
+    "డిప్యూటీ సీఎం భట్టి నేడు వరంగల్ పర్యటన",
+    "గోదావరి నీటి లభ్యతపై సమీక్ష",
+    "విద్యుత్ కొరతపైనా చర్చ"
+   ],
+   "why": "వరంగల్ ప్రాంత రైతులు, ప్రజలకు నీరు, విద్యుత్ సరఫరా అంశాలు నేరుగా ముడిపడి ఉన్నాయి.",
+   "pub": "2026-11-11T06:45+05:30",
+   "en": {
+    "h": "Deputy CM Bhatti in Warangal today to review Godavari water, power shortage",
+    "p": "Deputy Chief Minister Bhatti Vikramarka will tour Warangal district on Wednesday. He will review Godavari water availability and the power shortage, Andhra Jyothy said.",
+    "pts": [
+     "Deputy CM Bhatti visits Warangal today",
+     "Review of Godavari water availability",
+     "Power shortage also on agenda"
+    ],
+    "why": "Water and power supply directly concern farmers and people in the Warangal region.",
+    "cat": "Warangal · Government",
+    "statl": "Deputy CM's Warangal visit"
+   },
+   "hi": {
+    "h": "उपमुख्यमंत्री भट्टी आज वरंगल में: गोदावरी जल, बिजली कमी की समीक्षा",
+    "p": "उपमुख्यमंत्री भट्टी विक्रमार्क बुधवार को वरंगल जिले का दौरा करेंगे। आंध्र ज्योति के अनुसार वे गोदावरी जल की उपलब्धता और बिजली की कमी की समीक्षा करेंगे।",
+    "pts": [
+     "उपमुख्यमंत्री भट्टी आज वरंगल दौरे पर",
+     "गोदावरी जल उपलब्धता की समीक्षा",
+     "बिजली की कमी पर भी चर्चा"
+    ],
+    "why": "पानी और बिजली आपूर्ति का सीधा संबंध वरंगल क्षेत्र के किसानों और लोगों से है।",
+    "cat": "वरंगल · सरकार",
+    "statl": "उपमुख्यमंत्री का वरंगल दौरा"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "మ.2",
+   "statl": "సీఎం విద్యాశాఖ అధికారులతో భేటీ",
+   "h": "జాతీయ విద్యా దినోత్సవం: బంజారా భవన్‌లో కార్యక్రమానికి సీఎం రేవంత్",
+   "p": "మౌలానా అబుల్ కలాం ఆజాద్ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవ కార్యక్రమం హైదరాబాద్ బంజారా భవన్‌లో జరగనుంది. ముఖ్యమంత్రి రేవంత్ రెడ్డి హాజరై మధ్యాహ్నం 2 గంటలకు విద్యాశాఖ అధికారులతో సమావేశమవుతారని ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#education-day",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మౌలానా ఆజాద్ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం",
+    "బంజారా భవన్‌లో కార్యక్రమం",
+    "మధ్యాహ్నం 2కు విద్యాశాఖ అధికారులతో సీఎం భేటీ"
+   ],
+   "why": "రాష్ట్ర విద్యారంగంపై ప్రభుత్వ ప్రాధాన్యతలను విద్యార్థులు, ఉపాధ్యాయులు గమనించవచ్చు.",
+   "pub": "2026-11-11T06:40+05:30",
+   "en": {
+    "h": "National Education Day: CM Revanth to attend event at Banjara Bhavan",
+    "p": "A National Education Day event marking the birth anniversary of Maulana Abul Kalam Azad will be held at Banjara Bhavan in Hyderabad. Chief Minister Revanth Reddy will attend and meet education officials at 2 pm, Andhra Jyothy said.",
+    "pts": [
+     "National Education Day on Maulana Azad's birth anniversary",
+     "Event at Banjara Bhavan",
+     "CM meets education officials at 2 pm"
+    ],
+    "why": "Students and teachers can watch for the government's priorities on education.",
+    "cat": "Hyderabad · Education",
+    "statl": "CM meets education officials"
+   },
+   "hi": {
+    "h": "राष्ट्रीय शिक्षा दिवस: बंजारा भवन के कार्यक्रम में मुख्यमंत्री रेवंत",
+    "p": "मौलाना अबुल कलाम आज़ाद की जयंती पर राष्ट्रीय शिक्षा दिवस का कार्यक्रम हैदराबाद के बंजारा भवन में होगा। आंध्र ज्योति के अनुसार मुख्यमंत्री रेवंत रेड्डी इसमें शामिल होंगे और दोपहर 2 बजे शिक्षा अधिकारियों से मिलेंगे।",
+    "pts": [
+     "मौलाना आज़ाद की जयंती पर राष्ट्रीय शिक्षा दिवस",
+     "बंजारा भवन में कार्यक्रम",
+     "दोपहर 2 बजे शिक्षा अधिकारियों से मुख्यमंत्री की बैठक"
+    ],
+    "why": "छात्र और शिक्षक शिक्षा पर सरकार की प्राथमिकताओं पर नज़र रख सकते हैं।",
+    "cat": "हैदराबाद · शिक्षा",
+    "statl": "मुख्यमंत्री की शिक्षा अधिकारियों से बैठक"
+   },
+   "d": "11.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "సూర్యాపేట · క్రీడలు",
    "col": "--c-city",
