@@ -1,8 +1,106 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 130,
+ "count": 132,
  "stories": [
+  {
+   "cat": "భారత్ · హక్కులు",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "322",
+   "statl": "జనవరి–సెప్టెంబర్ ద్వేష నేరాలు (ఏపీసీఆర్)",
+   "h": "జనవరి–సెప్టెంబర్‌లో 322 ద్వేష నేరాలు: ఏపీసీఆర్ నివేదిక",
+   "p": "దేశంలో ఈ ఏడాది జనవరి నుంచి సెప్టెంబర్ వరకు ముస్లింలు, క్రైస్తవులపై 322 ద్వేష నేరాలు నమోదైనట్లు అసోసియేషన్ ఫర్ ప్రొటెక్షన్ ఆఫ్ సివిల్ రైట్స్ (ఏపీసీఆర్) నివేదిక పేర్కొంది. 24 రాష్ట్రాలు, కేంద్రపాలిత ప్రాంతాల్లో జరిగిన ఈ ఘటనల్లో 54 మంది మరణించారని తెలిపింది. సుమారు 16 రాష్ట్రాల్లో 83 ద్వేష ప్రసంగాలు నమోదయ్యాయని, ఇవి వెలుగులోకి వచ్చిన ఘటనలు మాత్రమేనని సంస్థ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/apcr-documents-322-hate-crimes-83-hate-speeches-from-jan-sept-3574226/",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "322 ఘటనల్లో 307 ముస్లింలపై, 14 క్రైస్తవులపై: నివేదిక",
+    "57 మంది వక్తల 83 ద్వేష ప్రసంగాలు నమోదు: ఏపీసీఆర్",
+    "వాటిలో 33 ప్రజా పదవుల్లో ఉన్నవారివని నివేదిక"
+   ],
+   "why": "దేశంలో మైనారిటీలపై నమోదైన ద్వేష ఘటనల వివరాలను ఈ నివేదిక ఒకచోట చూపుతుంది.",
+   "pub": "2026-11-11T17:26+05:30",
+   "en": {
+    "h": "322 hate crimes recorded from January to September: APCR report",
+    "p": "A report by the Association for Protection of Civil Rights (APCR) says 322 hate crimes against Muslims and Christians were recorded in the country from January to September this year. It says 54 people died in these incidents across 24 states and Union Territories. The organisation said 83 hate speeches were recorded in about 16 states, and that these are only the incidents that came to light.",
+    "pts": [
+     "Of 322 incidents, 307 targeted Muslims, 14 Christians: report",
+     "83 hate speeches by 57 speakers recorded: APCR",
+     "33 of them by people holding public office, report says"
+    ],
+    "why": "The report brings together recorded hate incidents against minorities in the country.",
+    "cat": "India · Rights",
+    "statl": "Hate crimes, Jan–Sept (APCR)"
+   },
+   "hi": {
+    "h": "जनवरी–सितंबर में 322 नफ़रती अपराध दर्ज: एपीसीआर रिपोर्ट",
+    "p": "एसोसिएशन फॉर प्रोटेक्शन ऑफ सिविल राइट्स (एपीसीआर) की रिपोर्ट के अनुसार इस साल जनवरी से सितंबर तक देश में मुसलमानों और ईसाइयों के ख़िलाफ़ 322 नफ़रती अपराध दर्ज हुए। रिपोर्ट के मुताबिक 24 राज्यों और केंद्रशासित प्रदेशों में हुई इन घटनाओं में 54 लोगों की मौत हुई। संस्था ने कहा कि करीब 16 राज्यों में 83 नफ़रती भाषण दर्ज हुए और ये केवल वही घटनाएँ हैं जो सामने आईं।",
+    "pts": [
+     "322 घटनाओं में 307 मुसलमानों, 14 ईसाइयों के ख़िलाफ़: रिपोर्ट",
+     "57 वक्ताओं के 83 नफ़रती भाषण दर्ज: एपीसीआर",
+     "इनमें 33 सार्वजनिक पदों पर बैठे लोगों के, रिपोर्ट का दावा"
+    ],
+    "why": "यह रिपोर्ट देश में अल्पसंख्यकों के ख़िलाफ़ दर्ज नफ़रती घटनाओं का ब्योरा एक जगह देती है।",
+    "cat": "भारत · अधिकार",
+    "statl": "नफ़रती अपराध, जनवरी–सितंबर (एपीसीआर)"
+   },
+   "d": "11.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "కరీంనగర్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "1 లక్ష",
+   "statl": "పాదయాత్రలో పాల్గొనేవారు (అంచనా)",
+   "h": "కరీంనగర్‌లో లక్ష మందితో బీజేపీ మహాపాదయాత్ర: బండి సంజయ్",
+   "p": "కరీంనగర్‌లో త్వరలో లక్ష మందితో మహాపాదయాత్ర నిర్వహిస్తామని కేంద్ర హోంశాఖ సహాయ మంత్రి బండి సంజయ్ తెలిపారు. బీజేపీ జాతీయ అధ్యక్షుడు నితిన్ నబిన్ ఇందులో పాల్గొంటారని, ఇది ఆయన తొలి కరీంనగర్ పర్యటన అని చెప్పారు. 'సర్' విషయంలో ప్రతిపక్షాల ప్రచారాన్ని ఎదుర్కొని ప్రజలకు వాస్తవాలు వివరించడమే లక్ష్యమని ఆయన అన్నారు. మంగళవారం ఎంపీ కార్యాలయంలో ఏర్పాట్లపై సమావేశం జరిగింది.",
+   "src": "V6 Velugu",
+   "url": "https://v6velugu.com/mega-padayatra-with-one-lakh-participants-to-be-held-in-karimnagar-bjp-chief-nitin-nabin-to-attend",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "పాదయాత్రకు బీజేపీ జాతీయ అధ్యక్షుడు నితిన్ నబిన్ హాజరు",
+    "నితిన్ నబిన్‌కు ఇది తొలి కరీంనగర్ పర్యటన",
+    "కథనంలో పాదయాత్ర తేదీ వెల్లడించలేదు"
+   ],
+   "why": "కరీంనగర్‌లో బీజేపీ కార్యక్రమాలు, 'సర్'పై జరుగుతున్న రాజకీయ చర్చకు సంబంధించిన పరిణామం ఇది.",
+   "pub": "2026-11-11T09:09+05:30",
+   "en": {
+    "h": "BJP mega padayatra with one lakh people in Karimnagar: Bandi Sanjay",
+    "p": "Union Minister of State for Home Bandi Sanjay said a mega padayatra with one lakh participants will be held soon in Karimnagar. He said BJP national president Nitin Nabin will take part, and that it will be his first visit to Karimnagar. He said the aim is to counter the opposition's campaign on 'SIR' and explain the facts to people. A meeting on the arrangements was held at the MP's office on Tuesday.",
+    "pts": [
+     "BJP national president Nitin Nabin to attend the padayatra",
+     "It will be Nitin Nabin's first visit to Karimnagar",
+     "The report does not give the padayatra date"
+    ],
+    "why": "This is a development in BJP activity in Karimnagar and the political debate over 'SIR'.",
+    "cat": "Karimnagar · Politics",
+    "statl": "Expected participants"
+   },
+   "hi": {
+    "h": "करीमनगर में एक लाख लोगों के साथ भाजपा की महापदयात्रा: बंडी संजय",
+    "p": "केंद्रीय गृह राज्य मंत्री बंडी संजय ने कहा कि करीमनगर में जल्द ही एक लाख लोगों के साथ महापदयात्रा निकाली जाएगी। उन्होंने बताया कि भाजपा के राष्ट्रीय अध्यक्ष नितिन नबिन इसमें शामिल होंगे और यह उनका पहला करीमनगर दौरा होगा। उन्होंने कहा कि इसका मकसद 'एसआईआर' पर विपक्ष के प्रचार का जवाब देना और लोगों को तथ्य बताना है। मंगलवार को सांसद कार्यालय में तैयारियों पर बैठक हुई।",
+    "pts": [
+     "पदयात्रा में भाजपा राष्ट्रीय अध्यक्ष नितिन नबिन शामिल होंगे",
+     "नितिन नबिन का यह पहला करीमनगर दौरा होगा",
+     "रिपोर्ट में पदयात्रा की तारीख़ नहीं बताई गई"
+    ],
+    "why": "यह करीमनगर में भाजपा की गतिविधियों और 'एसआईआर' पर चल रही राजनीतिक बहस से जुड़ा घटनाक्रम है।",
+    "cat": "करीमनगर · राजनीति",
+    "statl": "अनुमानित प्रतिभागी"
+   },
+   "d": "11.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "తెలంగాణ · విద్య",
    "col": "--c-money",
