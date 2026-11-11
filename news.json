@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T16:11:25+05:30",
+ "updated": "2026-11-11T16:48:44+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "ఆరోపణ",
+   "statl": "స్థానిక ఎన్నికల్లో రిగ్గింగ్ జరిగిందని వైసీపీ ఆరోపణ",
+   "h": "స్థానిక ఎన్నికల్లో రిగ్గింగ్ జరిగిందని చంద్రబాబుపై జగన్ ఆరోపణ",
+   "p": "ఇటీవలి స్థానిక సంస్థల ఎన్నికల్లో ముఖ్యమంత్రి చంద్రబాబు నాయుడు రిగ్గింగ్‌కు పాల్పడ్డారని వైసీపీ అధ్యక్షుడు వైఎస్ జగన్ మోహన్ రెడ్డి ఆరోపించారు. తాడేపల్లిలో పలు జిల్లాల పార్టీ నేతలతో జరిగిన సమావేశంలో ఆయన మాట్లాడారు. అక్రమాలు జరిగినా 2024తో పోలిస్తే తమ ఓట్ల శాతం పెరిగిందని, స్వేచ్ఛగా ఎన్నికలు జరిగి ఉంటే ఇంకా ఎక్కువ వచ్చేదని ఆయన అన్నారని ఏఎన్ఐ కథనం పేర్కొంది.",
+   "src": "Asianet Newsable (ANI)",
+   "url": "https://newsable.asianetnews.com/india/ys-jagan-accuses-chandrababu-naidu-of-rigging-local-body-elections-articleshow-my9eqoa",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-guntur",
+   "loc": "తాడేపల్లి",
+   "pts": [
+    "వైసీపీ గెలిచిన చోట ఫలితాలు మార్చారని జగన్ ఆరోపణ",
+    "కౌంటింగ్ కేంద్రాల్లో కరెంట్ కోత, రీకౌంటింగ్ నిరాకరణ అని నేతల ఆరోపణ",
+    "రాష్ట్ర ఎన్నికల సంఘం విఫలమైందని వైసీపీ నేతల విమర్శ"
+   ],
+   "why": "స్థానిక ఎన్నికల ఫలితాలపై అధికార, ప్రతిపక్షాల మధ్య వివాదం ముదురుతోందని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T16:10+05:30",
+   "en": {
+    "h": "Jagan accuses Chandrababu Naidu of rigging local body elections",
+    "p": "YSRCP president YS Jagan Mohan Reddy alleged that Chief Minister Chandrababu Naidu rigged the recent local body elections. He spoke at a meeting with party leaders from several districts at Tadepalli. He claimed that despite irregularities the YSRCP's vote share rose compared with 2024, and that a free and fair poll would have given it much more, ANI reported.",
+    "pts": [
+     "Jagan alleges results were overturned where YSRCP won",
+     "Leaders allege power cuts at counting centres, recounts denied",
+     "YSRCP leaders say the State Election Commission failed"
+    ],
+    "why": "It shows the dispute between the ruling and opposition parties over the local poll results is intensifying.",
+    "cat": "AP · Politics",
+    "statl": "YSRCP alleges rigging in local body polls"
+   },
+   "hi": {
+    "h": "जगन का आरोप: स्थानीय निकाय चुनावों में चंद्रबाबू नायडू ने धांधली की",
+    "p": "वाईएसआरसीपी अध्यक्ष वाईएस जगन मोहन रेड्डी ने आरोप लगाया कि मुख्यमंत्री चंद्रबाबू नायडू ने हाल के स्थानीय निकाय चुनावों में धांधली की। वे ताडेपल्ली में कई जिलों के पार्टी नेताओं की बैठक में बोल रहे थे। एएनआई के अनुसार उन्होंने दावा किया कि अनियमितताओं के बावजूद 2024 की तुलना में पार्टी का वोट प्रतिशत बढ़ा और निष्पक्ष चुनाव होते तो और अधिक मिलता।",
+    "pts": [
+     "जगन का आरोप: जहाँ वाईएसआरसीपी जीती वहाँ नतीजे पलटे गए",
+     "नेताओं का आरोप: मतगणना केंद्रों पर बिजली कटौती, पुनर्गणना से इनकार",
+     "वाईएसआरसीपी नेताओं ने कहा, राज्य चुनाव आयोग विफल रहा"
+    ],
+    "why": "इससे पता चलता है कि स्थानीय चुनाव नतीजों पर सत्ता पक्ष और विपक्ष का विवाद गहरा रहा है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "वाईएसआरसीपी का धांधली का आरोप"
+   },
+   "d": "11.11.2026",
+   "t": "16:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "5 అడుగులు",
+   "statl": "ఢీకొన్న తర్వాత గాల్లోకి లేచిన కారు",
+   "h": "నిజాం కళాశాల వద్ద డివైడర్‌ను ఢీకొన్న వేగంగా వస్తున్న కారు: ఇద్దరు సురక్షితం",
+   "p": "హైదరాబాద్‌లో బషీర్‌బాగ్ ఫ్లైఓవర్ దిగి వేగంగా వస్తున్న కారు నిజాం కళాశాల సమీపంలో రోడ్డు డివైడర్‌ను ఢీకొంది. ప్రాథమిక సమాచారం ప్రకారం ఢీకొన్న ధాటికి రెండు టైర్లు పగిలి, కారు దాదాపు ఐదు అడుగులు గాల్లోకి లేచి మళ్లీ రోడ్డుపై పడింది. కారులోని ఇద్దరు గాయాలు లేకుండా బయటపడ్డారు. వారు మద్యం మత్తులో ఉన్నారని, అదే ప్రమాదానికి కారణమని పోలీసులు అనుమానిస్తున్నట్లు తెలంగాణ టుడే పేర్కొంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/speeding-car-hits-divider-near-nizam-college-occupants-escape-unhurt",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బషీర్‌బాగ్",
+   "pts": [
+    "ఢీకొన్న ధాటికి కారు రెండు టైర్లు పగిలాయి",
+    "కారులోని ఇద్దరికీ గాయాలు కాలేదు",
+    "మద్యం మత్తే కారణమని పోలీసుల అనుమానం"
+   ],
+   "why": "మద్యం తాగి అతివేగంగా నడపడం రోడ్డుపై అందరికీ ప్రమాదమని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "pub": "2026-11-11T15:55+05:30",
+   "en": {
+    "h": "Speeding car hits divider near Nizam College; two occupants unhurt",
+    "p": "A speeding car coming down the Basheerbagh flyover in Hyderabad hit a road divider near Nizam College. According to preliminary information, two tyres burst on impact and the car rose nearly five feet into the air before landing back on the road. The two occupants escaped without injuries. Police suspect they were drunk and that this caused the crash, Telangana Today reported.",
+    "pts": [
+     "Two tyres of the car burst on impact",
+     "Both occupants escaped without injuries",
+     "Police suspect drunk driving caused the crash"
+    ],
+    "why": "The incident is a reminder that drunk and rash driving endangers everyone on the road.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Car rose into the air after impact"
+   },
+   "hi": {
+    "h": "निज़ाम कॉलेज के पास तेज रफ्तार कार डिवाइडर से टकराई, दोनों सवार सुरक्षित",
+    "p": "हैदराबाद में बशीरबाग फ्लाईओवर से तेज रफ्तार में उतर रही एक कार निज़ाम कॉलेज के पास सड़क डिवाइडर से टकरा गई। प्रारंभिक जानकारी के अनुसार टक्कर से दो टायर फट गए और कार करीब पाँच फुट हवा में उछलकर वापस सड़क पर गिरी। दोनों सवार बिना चोट के बच गए। तेलंगाना टुडे के अनुसार पुलिस को संदेह है कि वे नशे में थे और यही हादसे की वजह बनी।",
+    "pts": [
+     "टक्कर से कार के दो टायर फट गए",
+     "दोनों सवारों को कोई चोट नहीं आई",
+     "पुलिस को नशे में ड्राइविंग का संदेह"
+    ],
+    "why": "यह घटना याद दिलाती है कि नशे में तेज गाड़ी चलाना सड़क पर सभी के लिए खतरा है।",
+    "cat": "हैदराबाद · यातायात",
+    "statl": "टक्कर के बाद हवा में उछली कार"
+   },
+   "d": "11.11.2026",
+   "t": "16:35"
+  },
   {
    "cat": "భారత్ · వ్యవసాయం",
    "col": "--c-gov",
@@ -2401,105 +2501,6 @@
     "cat": "विश्व · टेक्नोलॉजी",
     "statl": "एक दिन में एनवीडिया शेयर गिरावट"
    }
-  },
-  {
-   "cat": "హైదరాబాద్ · రోడ్డు ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "21 ఏళ్లు",
-   "statl": "మృతి చెందిన విద్యార్థిని వయసు",
-   "h": "నల్లకుంటలో బైక్ అదుపుతప్పి ఆర్టీసీ బస్సు కింద పడి ఇంజినీరింగ్ విద్యార్థిని మృతి",
-   "p": "హైదరాబాద్ నల్లకుంటలో ఫీవర్ ఆస్పత్రి సిగ్నల్ సమీపంలో జరిగిన ప్రమాదంలో 21 ఏళ్ల ఇంజినీరింగ్ విద్యార్థిని మృతి చెందింది. తండ్రి బైక్‌పై కాలేజీకి తీసుకెళ్తుండగా, ఎదురుగా రాంగ్ రూట్‌లో వచ్చిన మరో బైకర్‌ను తప్పించేందుకు తండ్రి సడెన్ బ్రేక్ వేయడంతో బైక్ అదుపుతప్పిందని పోలీసులు తెలిపారు. కిందపడిన ఆమెపై వెనుక నుంచి వచ్చిన ఆర్టీసీ బస్సు చక్రాలు ఎక్కడంతో తలకు తీవ్ర గాయాలై అక్కడికక్కడే మృతి చెందింది. కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/hyderabad/engineering-student-killed-in-hyderabad-road-mishap-1141066",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "నల్లకుంట",
-   "pts": [
-    "రాంగ్ రూట్ బైకర్‌ను తప్పించబోయి బైక్ అదుపుతప్పింది",
-    "వెనుక వచ్చిన ఆర్టీసీ బస్సు చక్రాల కింద పడిన విద్యార్థిని",
-    "నల్లకుంట పోలీసుల కేసు నమోదు, దర్యాప్తు"
-   ],
-   "why": "రాంగ్ రూట్ డ్రైవింగ్ ప్రాణాలు తీస్తోందని, నగర రహదారులపై జాగ్రత్త అవసరమని ఈ ఘటన గుర్తుచేస్తోంది.",
-   "pub": "2026-11-11T11:18+05:30",
-   "en": {
-    "h": "Engineering student dies after falling under RTC bus at Nallakunta",
-    "p": "A 21-year-old engineering student died in an accident near the Fever Hospital signal at Nallakunta, Hyderabad. Police said her father, who was taking her to college on his motorcycle, braked suddenly to avoid a biker coming on the wrong side, and the bike lost control. She fell and the rear wheels of an RTC bus coming from behind ran over her, causing severe head injuries; she died on the spot. A case has been registered and is being investigated.",
-    "pts": [
-     "Bike lost control while avoiding a wrong-side biker",
-     "Student fell under the wheels of an RTC bus behind",
-     "Nallakunta police register case, investigate"
-    ],
-    "why": "The incident is a reminder that wrong-side driving costs lives and city roads need caution.",
-    "cat": "Hyderabad · Road accident",
-    "statl": "age of the student who died"
-   },
-   "hi": {
-    "h": "नल्लकुंटा में बाइक अनियंत्रित होकर आरटीसी बस के नीचे गिरी इंजीनियरिंग छात्रा की मौत",
-    "p": "हैदराबाद के नल्लकुंटा में फीवर अस्पताल सिग्नल के पास हुए हादसे में 21 वर्षीय इंजीनियरिंग छात्रा की मौत हो गई। पुलिस के अनुसार, पिता उसे बाइक पर कॉलेज ले जा रहे थे, तभी गलत दिशा से आ रहे एक बाइक सवार से बचने के लिए उन्होंने अचानक ब्रेक लगाया और बाइक अनियंत्रित हो गई। नीचे गिरी छात्रा पर पीछे से आ रही आरटीसी बस के पिछले पहिए चढ़ गए, सिर में गंभीर चोटों से उसकी मौके पर ही मौत हो गई। मामला दर्ज कर जांच की जा रही है।",
-    "pts": [
-     "गलत दिशा से आए बाइक सवार से बचते हुए बाइक अनियंत्रित",
-     "पीछे से आई आरटीसी बस के पहियों के नीचे आई छात्रा",
-     "नल्लकुंटा पुलिस ने मामला दर्ज कर जांच शुरू की"
-    ],
-    "why": "यह घटना याद दिलाती है कि गलत दिशा में वाहन चलाना जानलेवा है और सड़कों पर सावधानी ज़रूरी है।",
-    "cat": "हैदराबाद · सड़क हादसा",
-    "statl": "मृत छात्रा की उम्र"
-   },
-   "d": "11.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "ఏపీ · పంచాయతీ ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "13,171",
-   "statl": "ఎన్నికలు జరిగే గ్రామ పంచాయతీలు",
-   "h": "ఏపీలో 13,171 పంచాయతీలకు మూడు దశల్లో ఎన్నికలు: 13న నోటిఫికేషన్",
-   "p": "ఆంధ్రప్రదేశ్‌లో 13,171 గ్రామ పంచాయతీలకు మూడు దశల్లో పోలింగ్ జరగనుంది. రాష్ట్ర ఎన్నికల సంఘం ఈ నెల 13న నోటిఫికేషన్లు జారీ చేయనుంది. నవంబర్ 26, 29, డిసెంబర్ 2 తేదీల్లో పోలింగ్ జరుగుతుందని ఈటీవీ భారత్ కథనం తెలిపింది. గ్రామాల్లో ఎన్నికల సందడి మొదలుకానుంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#panchayat-polls",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "13,171 గ్రామ పంచాయతీలకు మూడు దశల్లో పోలింగ్",
-    "నవంబర్ 13న ఎస్ఈసీ నోటిఫికేషన్లు",
-    "పోలింగ్: నవంబర్ 26, 29, డిసెంబర్ 2"
-   ],
-   "why": "రాష్ట్రవ్యాప్తంగా గ్రామీణ ఓటర్లు, సర్పంచ్ అభ్యర్థులకు ఈ షెడ్యూల్ కీలకం.",
-   "pub": "2026-11-11T06:46+05:30",
-   "en": {
-    "h": "AP to hold polls to 13,171 panchayats in three phases; notification on 13th",
-    "p": "Polling for 13,171 gram panchayats in Andhra Pradesh will be held in three phases. The State Election Commission will issue notifications on the 13th of this month. Polling will be held on November 26, 29 and December 2, ETV Bharat reported. Election activity is set to begin in villages.",
-    "pts": [
-     "Three-phase polling for 13,171 gram panchayats",
-     "SEC notifications on November 13",
-     "Polling: November 26, 29 and December 2"
-    ],
-    "why": "The schedule matters to rural voters and sarpanch aspirants across the state.",
-    "cat": "AP · Panchayat polls",
-    "statl": "gram panchayats going to polls"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में 13,171 पंचायतों के चुनाव तीन चरणों में: 13 को अधिसूचना",
-    "p": "आंध्र प्रदेश में 13,171 ग्राम पंचायतों के लिए तीन चरणों में मतदान होगा। राज्य चुनाव आयोग इस महीने की 13 तारीख को अधिसूचनाएं जारी करेगा। ईटीवी भारत के अनुसार मतदान 26 और 29 नवंबर तथा 2 दिसंबर को होगा। गांवों में चुनावी हलचल शुरू होने वाली है।",
-    "pts": [
-     "13,171 ग्राम पंचायतों में तीन चरणों में मतदान",
-     "13 नवंबर को एसईसी की अधिसूचनाएं",
-     "मतदान: 26, 29 नवंबर और 2 दिसंबर"
-    ],
-    "why": "यह कार्यक्रम राज्य भर के ग्रामीण मतदाताओं और सरपंच उम्मीदवारों के लिए अहम है।",
-    "cat": "आंध्र प्रदेश · पंचायत चुनाव",
-    "statl": "ग्राम पंचायतों में चुनाव"
-   },
-   "d": "11.11.2026",
-   "t": "11:35"
   }
  ]
 }
