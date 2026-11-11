@@ -1,8 +1,408 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T08:09:27+05:30",
+ "updated": "2026-11-11T08:39:41+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "−38.5%",
+   "statl": "2024-25లో తగ్గిన ఉద్యోగాలు (TGIPASS)",
+   "h": "రాష్ట్రంలో పరిశ్రమల వృద్ధి మందగింపు: ఉద్యోగాలు 38.5% తగ్గాయని కథనం",
+   "p": "TGIPASS గణాంకాల ఆధారంగా రాష్ట్రంలో పారిశ్రామిక వృద్ధి తగ్గిందని నమస్తే తెలంగాణ కథనం పేర్కొంది. 2023-24తో పోలిస్తే 2024-25లో ఉద్యోగాలు 38.5% తగ్గి 49,523కు, పెట్టుబడులు 52.5% తగ్గి రూ.11,719.90 కోట్లకు చేరాయని తెలిపింది. 2025-26లో యూనిట్లు 7.7%, ఉద్యోగాలు 3% పెరిగాయి. సుమారు 1,152 ప్రతిపాదనలు పెండింగ్‌లో ఉన్నాయి. పెట్టుబడుల ఒప్పందాలు అతిశయోక్తి అని ప్రతిపక్షాల ఆరోపణ; కథనంలో ప్రభుత్వ స్పందన లేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-industrial-growth-slows-as-job-opportunities-drop-by-38-5-2557197",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T08:02+05:30",
+   "pts": [
+    "2024-25లో ఉద్యోగాలు 49,523కు తగ్గుదల",
+    "2025-26లో ఉద్యోగాలు 3% పెరిగి 51,005",
+    "1,152 ప్రతిపాదనలు ఇంకా పెండింగ్‌లో"
+   ],
+   "why": "రాష్ట్రంలో కొత్త ఉద్యోగాలు, పెట్టుబడుల పరిస్థితిని ఈ గణాంకాలు చూపిస్తున్నాయి.",
+   "en": {
+    "h": "Industrial growth slows in Telangana; jobs fell 38.5%, says report",
+    "p": "Industrial growth in the state has slowed, according to a Namasthe Telangana report based on TGIPASS figures. Compared with 2023-24, jobs fell 38.5% to 49,523 in 2024-25 and investment fell 52.5% to Rs 11,719.90 crore, it said. In 2025-26, units rose 7.7% and jobs 3%. About 1,152 proposals are pending. Opposition parties allege investment agreements were exaggerated; the report carries no government response.",
+    "pts": [
+     "Jobs fell to 49,523 in 2024-25",
+     "Jobs rose 3% to 51,005 in 2025-26",
+     "1,152 proposals still pending"
+    ],
+    "why": "The figures show the state of new jobs and investment in Telangana.",
+    "cat": "Telangana · Industry",
+    "statl": "Fall in jobs in 2024-25 (TGIPASS)"
+   },
+   "hi": {
+    "h": "तेलंगाना में औद्योगिक विकास धीमा: नौकरियां 38.5% घटीं, रिपोर्ट",
+    "p": "नमस्ते तेलंगाना की TGIPASS आंकड़ों पर आधारित रिपोर्ट के अनुसार राज्य में औद्योगिक विकास धीमा हुआ है। 2023-24 की तुलना में 2024-25 में नौकरियां 38.5% घटकर 49,523 और निवेश 52.5% घटकर 11,719.90 करोड़ रुपये रह गया। 2025-26 में इकाइयां 7.7% और नौकरियां 3% बढ़ीं। करीब 1,152 प्रस्ताव लंबित हैं। विपक्ष का आरोप है कि निवेश समझौते बढ़ा-चढ़ाकर बताए गए; रिपोर्ट में सरकार का जवाब नहीं है।",
+    "pts": [
+     "2024-25 में नौकरियां घटकर 49,523",
+     "2025-26 में नौकरियां 3% बढ़कर 51,005",
+     "1,152 प्रस्ताव अभी लंबित"
+    ],
+    "why": "ये आंकड़े राज्य में नई नौकरियों और निवेश की स्थिति दिखाते हैं।",
+    "cat": "तेलंगाना · उद्योग",
+    "statl": "2024-25 में घटी नौकरियां (TGIPASS)"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "నవం. 26-28",
+   "statl": "సైబరాబాద్ మూవ్స్ 2026 తేదీలు",
+   "h": "సైబరాబాద్ మూవ్స్ 2026 లోగో ఆవిష్కరణ: 26 నుంచి కార్యక్రమం",
+   "p": "సైబరాబాద్ మూవ్స్ 2026 లోగోను తెలంగాణ డీజీపీ మంగళవారం హైదరాబాద్‌లో ఆవిష్కరించారు. సైబరాబాద్ పోలీస్ కమిషనర్, ట్రాఫిక్ జాయింట్ కమిషనర్, కార్పొరేట్ సంస్థల ప్రతినిధులు పాల్గొన్నారు. నవంబర్ 26 నుంచి 28 వరకు మూడు రోజులు జరిగే ఈ కార్యక్రమంలో నగర రవాణా, రోడ్డు భద్రత, ప్రజా రవాణా, నడక, సైక్లింగ్‌పై చర్చిస్తారు. ప్రజలు CyberabadMoves.inలో నమోదు చేసుకుని ఆలోచనలు పంచుకోవచ్చు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/cyberabad-moves-2026-logo-unveiled-event-to-be-held-from-november-26-2003389",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-11T08:24+05:30",
+   "pts": [
+    "లోగోను ఆవిష్కరించిన తెలంగాణ డీజీపీ",
+    "నవంబర్ 26-28 మూడు రోజుల కార్యక్రమం",
+    "CyberabadMoves.inలో ప్రజల నమోదు"
+   ],
+   "why": "నగర ట్రాఫిక్, రోడ్డు భద్రతపై హైదరాబాద్ ప్రజలు సూచనలు ఇచ్చే అవకాశం.",
+   "en": {
+    "h": "Cyberabad Moves 2026 logo unveiled; event from November 26",
+    "p": "The Telangana DGP unveiled the Cyberabad Moves 2026 logo in Hyderabad on Tuesday. The Cyberabad Police Commissioner, the Joint Commissioner (Traffic) and corporate representatives attended. The three-day event from November 26 to 28 will discuss urban mobility, road safety, public transport, walking and cycling. Citizens can register at CyberabadMoves.in and share ideas.",
+    "pts": [
+     "Telangana DGP unveiled the logo",
+     "Three-day event from November 26-28",
+     "Citizens can register at CyberabadMoves.in"
+    ],
+    "why": "Hyderabad residents get a chance to give suggestions on city traffic and road safety.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "Cyberabad Moves 2026 dates"
+   },
+   "hi": {
+    "h": "साइबराबाद मूव्स 2026 का लोगो जारी: 26 नवंबर से कार्यक्रम",
+    "p": "तेलंगाना के डीजीपी ने मंगलवार को हैदराबाद में साइबराबाद मूव्स 2026 का लोगो जारी किया। साइबराबाद पुलिस आयुक्त, संयुक्त आयुक्त (यातायात) और कॉर्पोरेट प्रतिनिधि मौजूद थे। 26 से 28 नवंबर तक तीन दिन के इस कार्यक्रम में शहरी आवाजाही, सड़क सुरक्षा, सार्वजनिक परिवहन, पैदल चलने और साइकिलिंग पर चर्चा होगी। नागरिक CyberabadMoves.in पर पंजीकरण कर सुझाव दे सकते हैं।",
+    "pts": [
+     "तेलंगाना डीजीपी ने लोगो जारी किया",
+     "26-28 नवंबर तीन दिन का कार्यक्रम",
+     "CyberabadMoves.in पर नागरिक पंजीकरण"
+    ],
+    "why": "हैदराबाद के लोगों को शहर के यातायात और सड़क सुरक्षा पर सुझाव देने का मौका।",
+    "cat": "हैदराबाद · यातायात",
+    "statl": "साइबराबाद मूव्स 2026 की तारीखें"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "అస్సాం · రైలు ప్రమాదం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "6 బోగీలు",
+   "statl": "పట్టాలు తప్పిన బోగీలు",
+   "h": "అస్సాంలో పట్టాలు తప్పిన కోల్‌కతా-సైరంగ్ ఎక్స్‌ప్రెస్ ఆరు బోగీలు",
+   "p": "గువాహటి శివారులోని దిగారు రైల్వే స్టేషన్ సమీపంలో బుధవారం ఉదయం సుమారు 6:54కు కోల్‌కతా-సైరంగ్ ఎక్స్‌ప్రెస్ ఇంజిన్‌తో పాటు కనీసం ఆరు బోగీలు పట్టాలు తప్పాయని IANS తెలిపింది. ఇప్పటివరకు ప్రాణనష్టం లేదని ఈశాన్య సరిహద్దు రైల్వే సీపీఆర్‌వో చెప్పారు. పలువురు ప్రయాణికులు గాయపడ్డారని కథనం పేర్కొన్నా, సంఖ్య అధికారికంగా ధృవీకరించాల్సి ఉంది. ప్రమాద కారణం ఇంకా తెలియలేదు; సహాయక చర్యలు కొనసాగుతున్నాయి.",
+   "src": "IANS",
+   "url": "https://ianslive.in/six-coaches-of-kolkatasairang-express-derail-in-assam-several-injured--20261111082853",
+   "sec": [
+    "india"
+   ],
+   "st": "AS",
+   "place": "st-AS",
+   "loc": "దిగారు",
+   "pub": "2026-11-11T08:32+05:30",
+   "pts": [
+    "గువాహటి శివారు దిగారు వద్ద ప్రమాదం",
+    "ప్రాణనష్టం లేదని రైల్వే అధికారులు",
+    "కారణంపై విచారణ, ట్రాక్ పునరుద్ధరణ పనులు"
+   ],
+   "why": "ఈశాన్య మార్గంలో రైళ్లలో ప్రయాణించేవారు తాజా సమాచారం తెలుసుకోవాలి.",
+   "en": {
+    "h": "Six coaches of Kolkata–Sairang Express derail in Assam",
+    "p": "At least six coaches of the Kolkata–Sairang Express, along with the locomotive, derailed near Digaru railway station on the outskirts of Guwahati at about 6:54 am on Wednesday, IANS reported. The Northeast Frontier Railway CPRO said no casualties had been reported so far. The report says several passengers were injured, but the number is yet to be officially confirmed. The cause is not yet known; rescue work is under way.",
+    "pts": [
+     "Accident near Digaru on Guwahati's outskirts",
+     "No casualties, say railway officials",
+     "Inquiry into cause; track restoration under way"
+    ],
+    "why": "Passengers on north-eastern routes should check for the latest train updates.",
+    "cat": "Assam · Rail accident",
+    "statl": "Coaches derailed"
+   },
+   "hi": {
+    "h": "असम में कोलकाता-सैरांग एक्सप्रेस के छह डिब्बे पटरी से उतरे",
+    "p": "IANS के अनुसार बुधवार सुबह करीब 6:54 बजे गुवाहाटी के बाहरी इलाके में दिगारू रेलवे स्टेशन के पास कोलकाता-सैरांग एक्सप्रेस के इंजन समेत कम से कम छह डिब्बे पटरी से उतर गए। पूर्वोत्तर सीमांत रेलवे के सीपीआरओ ने कहा कि अब तक किसी की जान जाने की खबर नहीं है। रिपोर्ट के अनुसार कई यात्री घायल हुए, लेकिन संख्या की आधिकारिक पुष्टि होनी बाकी है। कारण अभी पता नहीं; राहत कार्य जारी है।",
+    "pts": [
+     "गुवाहाटी के बाहर दिगारू के पास हादसा",
+     "रेल अधिकारियों के अनुसार कोई मौत नहीं",
+     "कारण की जांच, ट्रैक बहाली का काम जारी"
+    ],
+    "why": "पूर्वोत्तर मार्गों पर यात्रा करने वाले ताज़ा जानकारी देखें।",
+    "cat": "असम · रेल हादसा",
+    "statl": "पटरी से उतरे डिब्बे"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "నవం. 13-14",
+   "statl": "భారత్ సమ్మిట్‌కు రాహుల్",
+   "h": "రాహుల్ గాంధీని కలిసిన టీపీసీసీ చీఫ్: భారత్ సమ్మిట్‌కు ఆహ్వానం",
+   "p": "టీపీసీసీ అధ్యక్షుడు మహేశ్‌కుమార్ గౌడ్ కాంగ్రెస్ నేత రాహుల్ గాంధీని కలిసి హైదరాబాద్‌లో జరిగే భారత్ సమ్మిట్‌కు ఆహ్వానించారు. రాజకీయాల్లో బీసీలకు మరింత ప్రాధాన్యం ఇవ్వాల్సిన అవసరాన్ని రాహుల్‌కు వివరించానని ఆయన మీడియాకు తెలిపారు. నవంబర్ 13, 14 తేదీల్లో హైదరాబాద్‌లో జరిగే సమ్మిట్‌కు రాహుల్ హాజరవుతారని నమస్తే తెలంగాణ కథనం పేర్కొంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/tpcc-chief-mahesh-kumar-goud-invites-rahul-gandhi-to-bharat-summit-2557337",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-11T04:31+05:30",
+   "pts": [
+    "రాహుల్‌ను కలిసిన మహేశ్‌కుమార్ గౌడ్",
+    "బీసీలకు ప్రాధాన్యంపై చర్చించినట్టు వెల్లడి",
+    "నవంబర్ 13, 14న హైదరాబాద్‌లో సమ్మిట్"
+   ],
+   "why": "హైదరాబాద్‌లో జరిగే భారత్ సమ్మిట్‌లో జాతీయ నేతల పర్యటన వివరాలు.",
+   "en": {
+    "h": "TPCC chief meets Rahul Gandhi, invites him to Bharat Summit",
+    "p": "TPCC president Mahesh Kumar Goud met Congress leader Rahul Gandhi and invited him to the Bharat Summit in Hyderabad. He told the media he had explained to Rahul the need to give backward classes more importance in politics. Rahul will attend the summit in Hyderabad on November 13 and 14, the Namasthe Telangana report said.",
+    "pts": [
+     "Mahesh Kumar Goud met Rahul Gandhi",
+     "Says he discussed priority for BCs",
+     "Summit in Hyderabad on November 13-14"
+    ],
+    "why": "Details of national leaders' visit for the Bharat Summit in Hyderabad.",
+    "cat": "Telangana · Politics",
+    "statl": "Rahul at Bharat Summit"
+   },
+   "hi": {
+    "h": "टीपीसीसी अध्यक्ष ने राहुल गांधी से मुलाकात की, भारत समिट का न्योता",
+    "p": "टीपीसीसी अध्यक्ष महेश कुमार गौड़ ने कांग्रेस नेता राहुल गांधी से मिलकर उन्हें हैदराबाद में होने वाले भारत समिट में आमंत्रित किया। उन्होंने मीडिया से कहा कि उन्होंने राहुल को राजनीति में पिछड़े वर्गों को ज़्यादा महत्व देने की ज़रूरत बताई। नमस्ते तेलंगाना की रिपोर्ट के अनुसार राहुल 13 और 14 नवंबर को हैदराबाद में समिट में शामिल होंगे।",
+    "pts": [
+     "महेश कुमार गौड़ ने राहुल से मुलाकात की",
+     "पिछड़े वर्गों को प्राथमिकता पर चर्चा",
+     "13-14 नवंबर को हैदराबाद में समिट"
+    ],
+    "why": "हैदराबाद में भारत समिट के लिए राष्ट्रीय नेताओं के दौरे का ब्योरा।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "भारत समिट में राहुल"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "నిర్మల్ · అవినీతి",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹50,000",
+   "statl": "లంచం తీసుకుంటుండగా పట్టివేత",
+   "h": "బిల్లు మంజూరుకు రూ.50 వేల లంచం: ఏసీబీకి చిక్కిన భైంసా మున్సిపల్ కమిషనర్",
+   "p": "నిర్మల్ జిల్లా భైంసా మున్సిపాలిటీ ఇన్‌చార్జి కమిషనర్ ఒక కాంట్రాక్టర్ నుంచి రూ.50 వేలు లంచం తీసుకుంటుండగా ఏసీబీ అధికారులు మంగళవారం పట్టుకున్నారని నమస్తే తెలంగాణ కథనం తెలిపింది. పట్టణంలో చేసిన పనులకు రూ.2.63 లక్షల బిల్లు మంజూరు చేసేందుకు లంచం అడిగారని ఆరోపణ. కాంట్రాక్టర్ ఫిర్యాదుతో డీఎస్పీ నేతృత్వంలో అధికారులు నగదు స్వాధీనం చేసుకుని అధికారిని అదుపులోకి తీసుకున్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/acb-arrests-municipal-commissioner-over-bribe-for-clearing-contractors-bill-2557320",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "loc": "భైంసా",
+   "pub": "2026-11-11T04:04+05:30",
+   "pts": [
+    "రూ.2.63 లక్షల బిల్లుకు లంచం డిమాండ్ ఆరోపణ",
+    "కాంట్రాక్టర్ ఫిర్యాదుతో ఏసీబీ దాడి",
+    "రూ.50 వేలు స్వాధీనం, అధికారి అదుపులోకి"
+   ],
+   "why": "ప్రభుత్వ కార్యాలయాల్లో లంచం డిమాండ్‌పై ఏసీబీకి ఫిర్యాదు చేయవచ్చని ఈ ఘటన చూపుతోంది.",
+   "en": {
+    "h": "Rs 50,000 bribe to clear bill: Bhainsa municipal commissioner caught by ACB",
+    "p": "ACB officers on Tuesday caught the in-charge commissioner of Bhainsa municipality in Nirmal district taking a Rs 50,000 bribe from a contractor, Namasthe Telangana reported. The bribe was allegedly demanded to clear a Rs 2.63 lakh bill for works in the town. Acting on the contractor's complaint, officers led by a DSP seized the cash and took the official into custody.",
+    "pts": [
+     "Bribe allegedly demanded for Rs 2.63 lakh bill",
+     "ACB acted on contractor's complaint",
+     "Rs 50,000 seized, official taken into custody"
+    ],
+    "why": "The case shows bribe demands in government offices can be reported to the ACB.",
+    "cat": "Nirmal · Corruption",
+    "statl": "Caught taking bribe"
+   },
+   "hi": {
+    "h": "बिल पास करने के लिए 50 हज़ार रिश्वत: भैंसा नगर आयुक्त एसीबी के हत्थे",
+    "p": "नमस्ते तेलंगाना के अनुसार एसीबी अधिकारियों ने मंगलवार को निर्मल ज़िले की भैंसा नगरपालिका के प्रभारी आयुक्त को एक ठेकेदार से 50,000 रुपये रिश्वत लेते पकड़ा। आरोप है कि शहर में किए गए कामों का 2.63 लाख रुपये का बिल पास करने के लिए रिश्वत मांगी गई। ठेकेदार की शिकायत पर डीएसपी के नेतृत्व में अधिकारियों ने नकदी ज़ब्त कर अधिकारी को हिरासत में लिया।",
+    "pts": [
+     "2.63 लाख के बिल के लिए रिश्वत मांगने का आरोप",
+     "ठेकेदार की शिकायत पर एसीबी की कार्रवाई",
+     "50,000 रुपये ज़ब्त, अधिकारी हिरासत में"
+    ],
+    "why": "यह मामला दिखाता है कि सरकारी दफ़्तरों में रिश्वत मांगे जाने की शिकायत एसीबी से की जा सकती है।",
+    "cat": "निर्मल · भ्रष्टाचार",
+    "statl": "रिश्वत लेते पकड़े गए"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "యాదాద్రి · వైద్యం",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "30 నిమిషాలు",
+   "statl": "ఉప్పల్ నుంచి బస్సు కోరిక",
+   "h": "అన్ని జిల్లాల నుంచి బీబీనగర్ ఎయిమ్స్‌కు బస్సులు నడపాలి: వినోద్‌కుమార్",
+   "p": "రాష్ట్రంలోని అన్ని జిల్లాల నుంచి బీబీనగర్ ఎయిమ్స్‌కు ఆర్టీసీ బస్సులు నడపాలని మాజీ ఎంపీ బోయినపల్లి వినోద్‌కుమార్ రవాణా మంత్రి పొన్నం ప్రభాకర్, ఆర్టీసీ ఎండీ నాగిరెడ్డికి లేఖ రాశారు. హైదరాబాద్ ఉప్పల్ కూడలి నుంచి ఎయిమ్స్‌కు ప్రతి 30 నిమిషాలకు ప్రత్యేక బస్సు ఏర్పాటు చేయాలని కోరారు. ఎయిమ్స్‌కు రాష్ట్రం సుమారు 200 ఎకరాలు కేటాయించిందని గుర్తుచేశారు. మంత్రి, ఆర్టీసీ స్పందన కథనంలో లేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/vinod-kumar-demands-bus-services-to-bibinagar-aiims-from-all-districts-2557308",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "yadadri",
+   "loc": "బీబీనగర్",
+   "pub": "2026-11-11T03:20+05:30",
+   "pts": [
+    "అన్ని జిల్లాల నుంచి ఎయిమ్స్‌కు బస్సుల డిమాండ్",
+    "ఉప్పల్ నుంచి ప్రతి 30 నిమిషాలకు బస్సు",
+    "మంత్రి పొన్నం, ఆర్టీసీ ఎండీకి లేఖ"
+   ],
+   "why": "బీబీనగర్ ఎయిమ్స్‌కు చికిత్స కోసం వెళ్లే జిల్లాల రోగులకు రవాణా సమస్య ఇది.",
+   "en": {
+    "h": "Run buses from all districts to Bibinagar AIIMS: Vinod Kumar",
+    "p": "Former MP Boinapally Vinod Kumar wrote to Transport Minister Ponnam Prabhakar and RTC MD Nagireddy demanding RTC buses from all districts of the state to Bibinagar AIIMS. He asked for a special bus every 30 minutes from Uppal junction in Hyderabad to AIIMS. He recalled that the state had allotted about 200 acres for AIIMS. The report carries no response from the minister or RTC.",
+    "pts": [
+     "Demand for buses to AIIMS from all districts",
+     "A bus every 30 minutes from Uppal",
+     "Letter to Minister Ponnam and RTC MD"
+    ],
+    "why": "Transport is a problem for patients from districts going to Bibinagar AIIMS for treatment.",
+    "cat": "Yadadri · Health",
+    "statl": "Bus sought from Uppal"
+   },
+   "hi": {
+    "h": "सभी ज़िलों से बीबीनगर एम्स के लिए बसें चलाएं: विनोद कुमार",
+    "p": "पूर्व सांसद बोइनपल्ली विनोद कुमार ने परिवहन मंत्री पोन्नम प्रभाकर और आरटीसी एमडी नागिरेड्डी को पत्र लिखकर राज्य के सभी ज़िलों से बीबीनगर एम्स के लिए आरटीसी बसें चलाने की मांग की। उन्होंने हैदराबाद के उप्पल जंक्शन से एम्स तक हर 30 मिनट में विशेष बस की मांग की। उन्होंने याद दिलाया कि राज्य ने एम्स के लिए करीब 200 एकड़ ज़मीन दी थी। रिपोर्ट में मंत्री या आरटीसी का जवाब नहीं है।",
+    "pts": [
+     "सभी ज़िलों से एम्स तक बसों की मांग",
+     "उप्पल से हर 30 मिनट में बस",
+     "मंत्री पोन्नम और आरटीसी एमडी को पत्र"
+    ],
+    "why": "ज़िलों से बीबीनगर एम्स इलाज के लिए जाने वाले मरीज़ों के लिए यह परिवहन की समस्या है।",
+    "cat": "यादाद्रि · स्वास्थ्य",
+    "statl": "उप्पल से बस की मांग"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "ఏపీ · తిరుపతి",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "2 బస్సులు",
+   "statl": "అతివేగంతో సీజ్",
+   "h": "అతివేగంతో తిరుపతికి వస్తున్న రెండు ప్రైవేట్ బస్సులు సీజ్",
+   "p": "రవాణా శాఖ కంట్రోల్ రూమ్ రియల్‌టైమ్ వేగ పర్యవేక్షణ సమాచారంతో తిరుపతి జిల్లా రవాణా అధికారులు మంగళవారం రెండు ప్రైవేట్ ట్రావెల్స్ బస్సులను సీజ్ చేశారని ది హన్స్ ఇండియా తెలిపింది. ఒకటి బెంగళూరు నుంచి, మరొకటి హైదరాబాద్ నుంచి తిరుపతికి నిర్ణీత పరిమితికి మించిన వేగంతో వస్తున్నాయి. రాత్రి సర్వీసుల డ్రైవర్లు నిర్లక్ష్యంగా నడపొద్దని, ఉల్లంఘనలకు సీజ్, కేసులు తప్పవని డీటీవో హెచ్చరించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/tirupathi/real-time-tracking-catches-speeding-private-buses-entering-tirupati-1140977",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుపతి",
+   "pub": "2026-11-11T06:22+05:30",
+   "pts": [
+    "బెంగళూరు, హైదరాబాద్ నుంచి వస్తున్న బస్సులు",
+    "కంట్రోల్ రూమ్ వేగ హెచ్చరికలతో పట్టివేత",
+    "ఉల్లంఘిస్తే సీజ్, ప్రాసిక్యూషన్: డీటీవో"
+   ],
+   "why": "హైదరాబాద్, బెంగళూరు నుంచి రాత్రి ప్రైవేట్ బస్సుల్లో తిరుపతి వెళ్లే ప్రయాణికుల భద్రతకు సంబంధించినది.",
+   "en": {
+    "h": "Two private buses speeding into Tirupati seized",
+    "p": "Tirupati district transport officials on Tuesday seized two private travel buses using real-time speed-monitoring data from the transport department's control room, The Hans India reported. One was coming from Bengaluru and the other from Hyderabad to Tirupati, above prescribed speed limits. The DTO warned night-service drivers against reckless driving and said violators face seizure and prosecution.",
+    "pts": [
+     "Buses were coming from Bengaluru and Hyderabad",
+     "Caught after control-room speed alerts",
+     "Violators face seizure, prosecution: DTO"
+    ],
+    "why": "It concerns the safety of passengers travelling to Tirupati by private night buses from Hyderabad and Bengaluru.",
+    "cat": "AP · Tirupati",
+    "statl": "Seized for speeding"
+   },
+   "hi": {
+    "h": "तेज़ रफ़्तार से तिरुपति आ रहीं दो निजी बसें ज़ब्त",
+    "p": "द हंस इंडिया के अनुसार तिरुपति ज़िले के परिवहन अधिकारियों ने मंगलवार को परिवहन विभाग के कंट्रोल रूम की रियल-टाइम गति निगरानी के आधार पर दो निजी ट्रैवल बसें ज़ब्त कीं। एक बेंगलुरु से और दूसरी हैदराबाद से तय सीमा से ज़्यादा रफ़्तार में तिरुपति आ रही थी। डीटीओ ने रात की सेवाओं के ड्राइवरों को लापरवाही से न चलाने की चेतावनी दी और कहा कि उल्लंघन पर ज़ब्ती और मुकदमा होगा।",
+    "pts": [
+     "बसें बेंगलुरु और हैदराबाद से आ रही थीं",
+     "कंट्रोल रूम की गति चेतावनी पर पकड़ी गईं",
+     "उल्लंघन पर ज़ब्ती, मुकदमा: डीटीओ"
+    ],
+    "why": "हैदराबाद और बेंगलुरु से रात की निजी बसों से तिरुपति जाने वाले यात्रियों की सुरक्षा से जुड़ा मामला।",
+    "cat": "आंध्र प्रदेश · तिरुपति",
+    "statl": "तेज़ रफ़्तार पर ज़ब्त"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
+  {
+   "cat": "ఏపీ · కృష్ణా",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "2026-29",
+   "statl": "మూడేళ్ల పదవీకాలం",
+   "h": "ఏపీ అకాడమీ ఆఫ్ సైన్సెస్ గౌరవ కార్యదర్శిగా ప్రొ. బసవేశ్వరరావు",
+   "p": "కృష్ణా విశ్వవిద్యాలయం ఇన్‌చార్జి రెక్టార్ ప్రొఫెసర్ ఎం.వి. బసవేశ్వరరావు ఆంధ్రప్రదేశ్ అకాడమీ ఆఫ్ సైన్సెస్ (APAS) గౌరవ కార్యదర్శిగా ఎన్నికయ్యారు. 2026 నవంబర్ నుంచి 2029 నవంబర్ వరకు మూడేళ్లు ఆయన ఈ పదవిలో ఉంటారు. రాష్ట్రంలోని విశ్వవిద్యాలయాలు, పరిశోధన సంస్థల శాస్త్రవేత్తలతో అకాడమీ కొత్త కార్యవర్గం ఏర్పాటైన సందర్భంగా ఈ ఎన్నిక జరిగిందని ది హన్స్ ఇండియా తెలిపింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/basaveswara-rao-elected-apas-honorary-secretary-1140989",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "ap-krishna",
+   "loc": "మచిలీపట్నం",
+   "pub": "2026-11-11T06:37+05:30",
+   "pts": [
+    "కృష్ణా వర్సిటీ ఇన్‌చార్జి రెక్టార్‌కు బాధ్యత",
+    "2026-2029 మూడేళ్ల పదవీకాలం",
+    "APAS కొత్త కార్యవర్గం ఏర్పాటు"
+   ],
+   "why": "రాష్ట్రంలో శాస్త్ర పరిశోధన, విద్యా సహకార కార్యక్రమాలకు ఇది సంబంధించినది.",
+   "en": {
+    "h": "Prof Basaveswara Rao elected AP Akademi of Sciences honorary secretary",
+    "p": "Prof MV Basaveswara Rao, in-charge Rector of Krishna University, has been elected Honorary Secretary of the Andhra Pradesh Akademi of Sciences (APAS). He will hold the post for three years, from November 2026 to November 2029. The election took place as the Akademi formed its new executive council of scientists from the state's universities and research institutions, The Hans India reported.",
+    "pts": [
+     "Krishna University in-charge Rector gets post",
+     "Three-year term, 2026-2029",
+     "APAS new executive council formed"
+    ],
+    "why": "It relates to science research and academic collaboration in the state.",
+    "cat": "AP · Krishna",
+    "statl": "Three-year term"
+   },
+   "hi": {
+    "h": "प्रो. बसवेश्वर राव आंध्र प्रदेश विज्ञान अकादमी के मानद सचिव चुने गए",
+    "p": "कृष्णा विश्वविद्यालय के प्रभारी रेक्टर प्रोफेसर एम.वी. बसवेश्वर राव आंध्र प्रदेश विज्ञान अकादमी (APAS) के मानद सचिव चुने गए हैं। वे नवंबर 2026 से नवंबर 2029 तक तीन साल इस पद पर रहेंगे। द हंस इंडिया के अनुसार यह चुनाव अकादमी की नई कार्यकारी परिषद के गठन के दौरान हुआ, जिसमें राज्य के विश्वविद्यालयों और शोध संस्थानों के वैज्ञानिक हैं।",
+    "pts": [
+     "कृष्णा विश्वविद्यालय के प्रभारी रेक्टर को पद",
+     "तीन साल का कार्यकाल, 2026-2029",
+     "APAS की नई कार्यकारी परिषद गठित"
+    ],
+    "why": "यह राज्य में विज्ञान शोध और शैक्षणिक सहयोग से जुड़ा है।",
+    "cat": "आंध्र प्रदेश · कृष्णा",
+    "statl": "तीन साल का कार्यकाल"
+   },
+   "d": "11.11.2026",
+   "t": "08:35"
+  },
   {
    "cat": "తెలంగాణ · వాతావరణం",
    "col": "--c-water",
@@ -2101,255 +2501,6 @@
    },
    "d": "10.11.2026",
    "t": "23:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "12/79",
-   "statl": "జర్మనీకి పంపినట్లు టామ్‌కామ్ ఆర్టీఐ సమాధానం",
-   "h": "జర్మనీ ఉద్యోగాలు: డబ్బు తిరిగివ్వాలని టామ్‌కామ్ జీఎంను నిలదీసిన అభ్యర్థులు",
-   "p": "జర్మనీ అప్రెంటిస్‌షిప్ ఉద్యోగాల విషయంలో మోసపోయామని ఆరోపిస్తూ సుమారు 20 మంది అభ్యర్థులు మంగళవారం టామ్‌కామ్ జనరల్ మేనేజర్‌ను కలిసి డబ్బు తిరిగివ్వాలని డిమాండ్ చేశారని సియాసత్ కథనం. ఓ మంత్రి వివరాలు అడిగారని, త్వరలో నివేదిక ఇస్తామని జీఎం చెప్పినట్లు సమాచారం. 79 మందిలో 12 మందిని జర్మనీకి పంపినట్లు టామ్‌కామ్ ఆర్టీఐ సమాధానంలో పేర్కొంది. శ్వేతపత్రం విడుదల చేయాలని బీఆర్ఎస్ కోరుతోంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/we-need-refund-tomcom-candidates-confront-gm-over-germany-jobs-3573444/",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "మోసపోయామని సుమారు 20 మంది అభ్యర్థుల ఆరోపణ",
-    "మంత్రికి త్వరలో నివేదిక: జీఎం",
-    "షరతులతో రీఫండ్‌పై అధికారుల చర్చ: సియాసత్"
-   ],
-   "why": "విదేశీ ఉద్యోగాల కోసం ప్రభుత్వ సంస్థపై ఆధారపడిన యువత, అప్పులు చేసిన కుటుంబాలపై ఇది ప్రభావం చూపుతోంది.",
-   "pub": "2026-11-10T19:35+05:30",
-   "en": {
-    "h": "Germany jobs: candidates confront TOMCOM GM, demand refund",
-    "p": "About 20 candidates met the TOMCOM general manager on Tuesday demanding refunds, alleging they were cheated over German apprenticeship jobs, Siasat reported. The GM reportedly said a minister had sought details and a report would be submitted soon. TOMCOM's RTI reply said 12 of 79 candidates were sent to Germany. The BRS is seeking a white paper.",
-    "pts": [
-     "About 20 candidates allege they were cheated",
-     "Report to minister soon, says GM",
-     "Officials discussing conditional refunds: Siasat"
-    ],
-    "why": "It affects youth who relied on a government agency for overseas jobs and families who took loans.",
-    "cat": "Telangana · Jobs",
-    "statl": "Sent to Germany, per TOMCOM's RTI reply"
-   },
-   "hi": {
-    "h": "जर्मनी नौकरियां: उम्मीदवारों ने टॉमकॉम जीएम से पैसे वापसी मांगी",
-    "p": "सियासत के अनुसार, जर्मनी अप्रेंटिसशिप नौकरियों में ठगे जाने का आरोप लगाते हुए करीब 20 उम्मीदवारों ने मंगलवार को टॉमकॉम की महाप्रबंधक से मिलकर पैसे वापस करने की मांग की। बताया गया कि जीएम ने कहा कि एक मंत्री ने ब्योरा मांगा है और जल्द रिपोर्ट दी जाएगी। टॉमकॉम के आरटीआई जवाब के अनुसार 79 में से 12 उम्मीदवार जर्मनी भेजे गए। बीआरएस श्वेतपत्र की मांग कर रही है।",
-    "pts": [
-     "करीब 20 उम्मीदवारों का ठगी का आरोप",
-     "जीएम: मंत्री को जल्द रिपोर्ट",
-     "सियासत: शर्तों के साथ रिफंड पर चर्चा"
-    ],
-    "why": "यह विदेशी नौकरी के लिए सरकारी संस्था पर निर्भर युवाओं और कर्ज लेने वाले परिवारों को प्रभावित करता है।",
-    "cat": "तेलंगाना · नौकरियां",
-    "statl": "टॉमकॉम आरटीआई के अनुसार जर्मनी भेजे गए"
-   },
-   "d": "10.11.2026",
-   "t": "23:35"
-  },
-  {
-   "cat": "ఏపీ · అటవీ",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "23",
-   "statl": "రాష్ట్రంలో అటవీ అమరవీరులు",
-   "h": "రాజమహేంద్రవరం అటవీ అకాడమీలో అటవీ అమరవీరులకు నివాళి",
-   "p": "అటవీ అమరవీరుల దినోత్సవం సందర్భంగా రాజమహేంద్రవరంలోని ఏపీ రాష్ట్ర అటవీ అకాడమీ మంగళవారం నివాళులు అర్పించిందని డెక్కన్ క్రానికల్ కథనం. అధ్యాపకులు, సిబ్బంది, శిక్షణ అధికారులు అమరవీరుల స్మారక స్తూపం వద్ద పుష్పాంజలి ఘటించారు. అడవులు, వన్యప్రాణుల రక్షణకు అంకితభావంతో పనిచేయాలని అకాడమీ డైరెక్టర్ బి. విజయ్ కుమార్ పిలుపునిచ్చారు. రాష్ట్రంలో 23 మంది అటవీ అమరవీరులు ఉన్నారు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-forest-academy-pays-tribute-to-mark-forest-martyrs-day-2003292",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "loc": "రాజమహేంద్రవరం",
-   "pts": [
-    "స్మారక స్తూపం వద్ద శిక్షణ అధికారుల పుష్పాంజలి",
-    "అటవీ రక్షణకు అంకితభావంతో పనిచేయాలని డైరెక్టర్ పిలుపు",
-    "రాష్ట్రంలో 23 మంది అటవీ అమరవీరులు"
-   ],
-   "why": "అడవులు, వన్యప్రాణుల రక్షణలో ప్రాణాలు కోల్పోయిన సిబ్బంది త్యాగాన్ని ఇది గుర్తుచేస్తుంది.",
-   "pub": "2026-11-10T22:40+05:30",
-   "en": {
-    "h": "Rajamahendravaram forest academy pays tribute to forest martyrs",
-    "p": "The AP State Forest Academy in Rajamahendravaram paid tribute to forest martyrs on Tuesday, Deccan Chronicle reported. Faculty, staff and trainee officers offered floral tributes at the Martyrs' Memorial Column. Academy director B. Vijay Kumar urged everyone to protect forests and wildlife with dedication. The state has 23 forest martyrs.",
-    "pts": [
-     "Trainee officers offer floral tributes at memorial",
-     "Director calls for dedicated forest protection",
-     "State has 23 forest martyrs"
-    ],
-    "why": "It recalls the sacrifice of staff who lost their lives protecting forests and wildlife.",
-    "cat": "AP · Forests",
-    "statl": "Forest martyrs in the state"
-   },
-   "hi": {
-    "h": "राजमहेंद्रवरम वन अकादमी में वन शहीदों को श्रद्धांजलि",
-    "p": "डेक्कन क्रॉनिकल के अनुसार, वन शहीद दिवस पर राजमहेंद्रवरम स्थित आंध्र प्रदेश राज्य वन अकादमी ने मंगलवार को श्रद्धांजलि दी। संकाय, कर्मचारियों और प्रशिक्षु अधिकारियों ने शहीद स्मारक स्तंभ पर पुष्पांजलि अर्पित की। अकादमी निदेशक बी. विजय कुमार ने वनों और वन्यजीवों की रक्षा समर्पण से करने का आह्वान किया। राज्य में 23 वन शहीद हैं।",
-    "pts": [
-     "प्रशिक्षु अधिकारियों ने स्मारक पर पुष्पांजलि दी",
-     "निदेशक का समर्पण से वन रक्षा का आह्वान",
-     "राज्य में 23 वन शहीद"
-    ],
-    "why": "यह वनों और वन्यजीवों की रक्षा में जान गंवाने वाले कर्मियों के बलिदान की याद दिलाता है।",
-    "cat": "आंध्र प्रदेश · वन",
-    "statl": "राज्य में वन शहीद"
-   },
-   "d": "10.11.2026",
-   "t": "23:35"
-  },
-  {
-   "cat": "నల్గొండ · నేరం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "హత్య కేసు",
-   "statl": "నల్గొండ 1 టౌన్ పోలీస్ స్టేషన్‌లో నమోదు",
-   "h": "నల్గొండలో మహిళా హోంగార్డ్ హత్య: భర్తపై ఆరోపణ, పరారీలో నిందితుడు",
-   "p": "నల్గొండలోని నివాస క్వార్టర్స్‌లో మంగళవారం ఓ మహిళా హోంగార్డ్ హత్యకు గురయ్యారని, ఆమె భర్తే ఈ హత్య చేశాడని ఆరోపణ ఉందని పోలీసుల ప్రకారం పీటీఐ కథనం. కుటుంబ విషయాలపై దంపతుల మధ్య తరచూ గొడవలు జరిగేవని ప్రాథమిక విచారణలో తేలిందని అధికారి తెలిపారు. మృతురాలి సోదరుడి ఫిర్యాదుతో హత్య కేసు నమోదైంది. నిందితుడు పరారీలో ఉన్నాడు, పట్టుకునేందుకు బృందాలు ఏర్పాటు చేశారు.",
-   "src": "Deccan Chronicle (PTI)",
-   "url": "https://www.deccanchronicle.com/southern-states/telangana/woman-home-guard-murdered-by-husband-in-telangana-2003218",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "pts": [
-    "భర్తే హత్య చేశాడని పోలీసుల ప్రకారం ఆరోపణ",
-    "సోదరుడి ఫిర్యాదుతో హత్య కేసు నమోదు",
-    "పరారీలో నిందితుడు, గాలింపు బృందాలు ఏర్పాటు"
-   ],
-   "why": "గృహ హింస తీవ్ర రూపం దాల్చుతున్న ఘటనలపై కుటుంబాలు, అధికారులు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
-   "pub": "2026-11-10T18:00+05:30",
-   "en": {
-    "h": "Woman Home Guard killed in Nalgonda; husband accused, absconding",
-    "p": "A woman Home Guard was killed at her residential quarters in Nalgonda on Tuesday, and her husband is accused of the murder, police said, according to PTI. A preliminary probe found the couple often quarrelled over family issues, an official said. A murder case was registered on a complaint by the deceased's brother. The accused is absconding and teams have been formed to arrest him.",
-    "pts": [
-     "Husband accused of the murder, police say",
-     "Murder case registered on brother's complaint",
-     "Accused absconding; search teams formed"
-    ],
-    "why": "It shows why families and authorities must stay alert when domestic disputes turn violent.",
-    "cat": "Nalgonda · Crime",
-    "statl": "Registered at Nalgonda 1 Town police station"
-   },
-   "hi": {
-    "h": "नलगोंडा में महिला होमगार्ड की हत्या: पति पर आरोप, फरार",
-    "p": "पीटीआई के अनुसार, पुलिस ने बताया कि मंगलवार को नलगोंडा में आवासीय क्वार्टर में एक महिला होमगार्ड की हत्या हुई और उनके पति पर हत्या का आरोप है। एक अधिकारी के अनुसार प्रारंभिक जांच में पता चला कि दंपती में पारिवारिक मुद्दों पर अक्सर झगड़े होते थे। मृतका के भाई की शिकायत पर हत्या का मामला दर्ज हुआ। आरोपी फरार है और उसे पकड़ने के लिए टीमें बनाई गई हैं।",
-    "pts": [
-     "पुलिस के अनुसार पति पर हत्या का आरोप",
-     "भाई की शिकायत पर हत्या का मामला दर्ज",
-     "आरोपी फरार, तलाश के लिए टीमें गठित"
-    ],
-    "why": "यह दिखाता है कि घरेलू झगड़े हिंसक होने पर परिवारों और अधिकारियों को सतर्क रहना चाहिए।",
-    "cat": "नलगोंडा · अपराध",
-    "statl": "नलगोंडा 1 टाउन थाने में दर्ज"
-   },
-   "d": "10.11.2026",
-   "t": "23:05"
-  },
-  {
-   "cat": "భారత్ · బంగారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹1,46,400",
-   "statl": "ఢిల్లీలో 10 గ్రాముల బంగారం ధర",
-   "h": "బంగారం ధర ₹500 తగ్గింది: ఢిల్లీలో 10 గ్రాములు ₹1,46,400",
-   "p": "దేశ రాజధానిలో మంగళవారం బంగారం ధర ₹500 తగ్గి 10 గ్రాములకు ₹1,46,400కి చేరిందని పీటీఐ కథనం. సోమవారం ఇది ₹1,46,900. వెండి కిలో ₹1,92,500 వద్ద స్థిరంగా ఉంది. అంతర్జాతీయంగా బంగారం బలహీనపడటం, డాలర్ స్థిరంగా ఉండటం కారణమని వ్యాపారులు తెలిపారు. అంతర్జాతీయ మార్కెట్లో ఔన్స్ బంగారం సుమారు 1% తగ్గి 4,113.55 డాలర్లకు చేరింది.",
-   "src": "PTI (ThePrint)",
-   "url": "https://theprint.in/economy/gold-falls-rs-500-per-10-gm-as-firm-us-dollar-weak-global-cues-weigh-on-investor-sentiment/3095252/",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "10 గ్రాముల బంగారం ₹1,46,400, ₹500 తగ్గుదల",
-    "వెండి కిలో ₹1,92,500 వద్ద స్థిరం",
-    "అంతర్జాతీయ ధర ఔన్స్‌కు 4,113.55 డాలర్లు"
-   ],
-   "why": "పెళ్లిళ్లు, పండుగల కోసం బంగారం కొనాలనుకునే కుటుంబాలకు ధరల మార్పు ముఖ్యం.",
-   "pub": "2026-11-10T17:48+05:30",
-   "en": {
-    "h": "Gold falls Rs 500; 10 grams at Rs 1,46,400 in Delhi",
-    "p": "Gold fell Rs 500 to Rs 1,46,400 per 10 grams in the national capital on Tuesday, PTI reported. It was Rs 1,46,900 on Monday. Silver held steady at Rs 1,92,500 per kg. Traders cited weak international bullion and a steady US dollar. In global markets, spot gold fell about 1% to $4,113.55 an ounce.",
-    "pts": [
-     "10 grams of gold at Rs 1,46,400, down Rs 500",
-     "Silver steady at Rs 1,92,500 per kg",
-     "Global price at $4,113.55 an ounce"
-    ],
-    "why": "Price changes matter to families planning to buy gold for weddings and festivals.",
-    "cat": "India · Gold",
-    "statl": "Price of 10 grams of gold in Delhi"
-   },
-   "hi": {
-    "h": "सोना ₹500 सस्ता: दिल्ली में 10 ग्राम ₹1,46,400",
-    "p": "पीटीआई के अनुसार, राष्ट्रीय राजधानी में मंगलवार को सोना ₹500 गिरकर ₹1,46,400 प्रति 10 ग्राम पर आ गया। सोमवार को यह ₹1,46,900 था। चांदी ₹1,92,500 प्रति किलो पर स्थिर रही। व्यापारियों ने कमजोर अंतरराष्ट्रीय भाव और स्थिर अमेरिकी डॉलर को कारण बताया। अंतरराष्ट्रीय बाजार में सोना करीब 1% गिरकर 4,113.55 डॉलर प्रति औंस पर रहा।",
-    "pts": [
-     "10 ग्राम सोना ₹1,46,400, ₹500 की गिरावट",
-     "चांदी ₹1,92,500 प्रति किलो पर स्थिर",
-     "अंतरराष्ट्रीय भाव 4,113.55 डॉलर प्रति औंस"
-    ],
-    "why": "शादी और त्योहारों के लिए सोना खरीदने वाले परिवारों के लिए कीमत में बदलाव अहम है।",
-    "cat": "भारत · सोना",
-    "statl": "दिल्ली में 10 ग्राम सोने का भाव"
-   },
-   "d": "10.11.2026",
-   "t": "23:05"
-  },
-  {
-   "cat": "భారత్ · విదేశాంగం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "రష్యా–ఉక్రెయిన్",
-   "statl": "రెండు దేశాలతో భారత్ సంప్రదింపులు",
-   "h": "రష్యా, ఉక్రెయిన్ రెండింటితోనూ సంప్రదింపులు జరుపుతున్నాం: భారత్",
-   "p": "నల్ల సముద్రంలో నౌకల భద్రత, ధాన్యం, ఇంధన ఎగుమతులు వంటి అంశాలపై రష్యా, ఉక్రెయిన్ రెండింటితోనూ భారత్ చర్చిస్తోందని విదేశాంగ శాఖ ప్రతినిధి రణధీర్ జైస్వాల్ మంగళవారం తెలిపారని పీటీఐ కథనం. ప్రధాని మోదీ సోమవారం ఉక్రెయిన్ అధ్యక్షుడు జెలెన్‌స్కీతో ఫోన్‌లో మాట్లాడారు. యూఏఈలో రష్యా, ఉక్రెయిన్, అమెరికా త్రైపాక్షిక చర్చలు ప్రారంభమైన సమయంలో ఈ వ్యాఖ్యలు వచ్చాయి.",
-   "src": "PTI (ThePrint)",
-   "url": "https://theprint.in/india/ukraine-conflict-india-says-it-is-engaged-with-both-moscow-kyiv/3095316/",
-   "sec": [
-    "india",
-    "world"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "నల్ల సముద్రం నౌకల భద్రత, ధాన్యం ఎగుమతులపై చర్చలు",
-    "సోమవారం జెలెన్‌స్కీతో మోదీ ఫోన్ సంభాషణ",
-    "యూఏఈలో త్రైపాక్షిక చర్చలు ప్రారంభం"
-   ],
-   "why": "ధాన్యం, ఇంధన సరఫరాపై ప్రభావం చూపే ఈ యుద్ధంలో భారత్ పాత్ర దేశ ప్రజలకు ముఖ్యం.",
-   "pub": "2026-11-10T18:45+05:30",
-   "en": {
-    "h": "India says it is engaging both Russia and Ukraine",
-    "p": "India is discussing issues such as Black Sea shipping safety and grain and energy exports with both Russia and Ukraine, External Affairs Ministry spokesperson Randhir Jaiswal said on Tuesday, according to PTI. Prime Minister Modi spoke to Ukrainian President Zelenskyy by phone on Monday. The remarks came as three-way talks among Russia, Ukraine and the US opened in the UAE.",
-    "pts": [
-     "Talks on Black Sea shipping safety, grain exports",
-     "Modi spoke to Zelenskyy by phone on Monday",
-     "Three-way talks open in the UAE"
-    ],
-    "why": "India's role in a war that affects grain and energy supplies matters to people in the country.",
-    "cat": "India · External Affairs",
-    "statl": "India in talks with both countries"
-   },
-   "hi": {
-    "h": "रूस और यूक्रेन दोनों से संपर्क में है भारत",
-    "p": "पीटीआई के अनुसार, विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने मंगलवार को कहा कि भारत काला सागर में जहाजों की सुरक्षा, अनाज और ऊर्जा निर्यात जैसे मुद्दों पर रूस और यूक्रेन दोनों से बात कर रहा है। प्रधानमंत्री मोदी ने सोमवार को यूक्रेन के राष्ट्रपति ज़ेलेंस्की से फोन पर बात की थी। यह टिप्पणी ऐसे समय आई जब यूएई में रूस, यूक्रेन और अमेरिका की त्रिपक्षीय वार्ता शुरू हुई।",
-    "pts": [
-     "काला सागर जहाज सुरक्षा, अनाज निर्यात पर बातचीत",
-     "सोमवार को मोदी की ज़ेलेंस्की से फोन पर बात",
-     "यूएई में त्रिपक्षीय वार्ता शुरू"
-    ],
-    "why": "अनाज और ऊर्जा आपूर्ति पर असर डालने वाले इस युद्ध में भारत की भूमिका देश के लोगों के लिए अहम है।",
-    "cat": "भारत · विदेश मामले",
-    "statl": "दोनों देशों से भारत की बातचीत"
-   },
-   "d": "10.11.2026",
-   "t": "23:05"
   },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",
