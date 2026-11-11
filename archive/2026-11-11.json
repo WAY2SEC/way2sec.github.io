@@ -1,8 +1,308 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 48,
+ "count": 54,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "7",
+   "statl": "ఆస్పత్రులకు షోకాజ్ నోటీసులు",
+   "h": "ఏఆర్టీ కేంద్రాల్లో అక్రమ అండాల సేకరణపై తనిఖీలు: 7 ఆస్పత్రులకు నోటీసులు",
+   "p": "సంతాన సాఫల్య (ఏఆర్టీ) కేంద్రాల్లో అక్రమంగా అండాల సేకరణపై రాష్ట్ర ప్రభుత్వం దృష్టి పెట్టింది. రాష్ట్రంలోని 44 ఏఆర్టీ కేంద్రాల్లో 27 కేంద్రాలను వైద్య ఆరోగ్య శాఖ అధికారులు మంగళవారం తనిఖీ చేశారు. నిబంధనలు ఉల్లంఘించినట్లు గుర్తించిన ఏడు ఆస్పత్రులకు షోకాజ్ నోటీసులు ఇచ్చినట్లు కమిషనర్ ముషారఫ్ అలీ ఫారూఖీ తెలిపారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-cracks-down-on-illegal-egg-collection-at-art-centres-2557293",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "44 ఏఆర్టీ కేంద్రాల్లో 27 చోట్ల తనిఖీలు",
+    "ఏడు ఆస్పత్రుల్లో నిబంధనల ఉల్లంఘన: అధికారుల ప్రకారం",
+    "ఆ ఆస్పత్రులకు షోకాజ్ నోటీసులు జారీ"
+   ],
+   "why": "సంతాన చికిత్సలు తీసుకునే దంపతులు, అండ దాతల భద్రతకు ఇది సంబంధించినది.",
+   "pub": "2026-11-11T02:58+05:30",
+   "en": {
+    "h": "Telangana inspects ART centres over illegal egg collection; 7 hospitals get notices",
+    "p": "The state government has turned its attention to illegal egg (ovum) collection at assisted reproductive technology (ART) centres. Health department officials inspected 27 of the state's 44 ART centres on Tuesday. Show-cause notices were issued to seven hospitals found violating rules, said Commissioner Musharraf Ali Farooqui.",
+    "pts": [
+     "Inspections at 27 of 44 ART centres",
+     "Rule violations at seven hospitals, per officials",
+     "Show-cause notices issued to them"
+    ],
+    "why": "It concerns the safety of couples taking fertility treatment and egg donors.",
+    "cat": "Telangana · Health",
+    "statl": "Hospitals served show-cause notices"
+   },
+   "hi": {
+    "h": "तेलंगाना में एआरटी केंद्रों पर अवैध अंडाणु संग्रह की जांच, 7 अस्पतालों को नोटिस",
+    "p": "राज्य सरकार ने सहायक प्रजनन तकनीक (एआरटी) केंद्रों में अवैध अंडाणु संग्रह पर ध्यान दिया है। स्वास्थ्य विभाग के अधिकारियों ने मंगलवार को राज्य के 44 में से 27 एआरटी केंद्रों का निरीक्षण किया। आयुक्त मुशर्रफ अली फारूकी ने बताया कि नियमों का उल्लंघन करते पाए गए सात अस्पतालों को कारण बताओ नोटिस दिए गए।",
+    "pts": [
+     "44 में से 27 एआरटी केंद्रों पर निरीक्षण",
+     "अधिकारियों के अनुसार सात अस्पतालों में नियम उल्लंघन",
+     "उन्हें कारण बताओ नोटिस जारी"
+    ],
+    "why": "यह प्रजनन उपचार लेने वाले दंपतियों और अंडाणु दाताओं की सुरक्षा से जुड़ा है।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "अस्पतालों को कारण बताओ नोटिस"
+   },
+   "d": "11.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "తెలంగాణ · రెవెన్యూ",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "TRESA",
+   "statl": "తహసీల్దార్ల పదోన్నతులు కోరిన సంఘం",
+   "h": "తహసీల్దార్ల పదోన్నతుల ఫైల్‌ను త్వరగా క్లియర్ చేయాలి: ట్రెసా",
+   "p": "అర్హులైన తహసీల్దార్లకు డిప్యూటీ కలెక్టర్లుగా పదోన్నతులు ఇచ్చే ఫైల్‌ను త్వరగా క్లియర్ చేయాలని తెలంగాణ రెవెన్యూ ఉద్యోగుల సర్వీసుల సంఘం (ట్రెసా) సీఎం కార్యాలయ ముఖ్య కార్యదర్శి వి. శేషాద్రిని కోరింది. సంఘం రాష్ట్ర అధ్యక్షుడు కె. గౌతమ్ కుమార్, ప్రధాన కార్యదర్శి ఎల్. రమణ్ రెడ్డి, గౌరవ అధ్యక్షుడు వంగ రవీందర్ రెడ్డి ఈ బృందంలో ఉన్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/revenue-employees-seek-early-clearance-of-tahsildar-promotion-file-2557323",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "తహసీల్దార్లకు డిప్యూటీ కలెక్టర్ పదోన్నతుల కోసం వినతి",
+    "సీఎంవో ముఖ్య కార్యదర్శి శేషాద్రిని కలిసిన ట్రెసా బృందం",
+    "ఫైల్‌పై గడువు గురించి కథనంలో వివరాలు లేవు"
+   ],
+   "why": "రాష్ట్రవ్యాప్తంగా తహసీల్దార్ల పదోన్నతులు, రెవెన్యూ పాలనకు ఇది సంబంధించినది.",
+   "pub": "2026-11-11T04:08+05:30",
+   "en": {
+    "h": "Clear Tahsildar promotion file quickly, TRESA urges CMO",
+    "p": "The Telangana Revenue Employees Services Association (TRESA) asked V. Seshadri, Principal Secretary in the Chief Minister's Office, to quickly clear the file to promote eligible Tahsildars as Deputy Collectors. The delegation included state president K. Gautam Kumar, general secretary L. Raman Reddy and honorary president Vanga Ravinder Reddy.",
+    "pts": [
+     "Plea for Tahsildars' promotion as Deputy Collectors",
+     "TRESA team met CMO Principal Secretary Seshadri",
+     "Report gives no timeline for the file"
+    ],
+    "why": "It concerns Tahsildar promotions and revenue administration across the state.",
+    "cat": "Telangana · Revenue",
+    "statl": "Association seeking Tahsildar promotions"
+   },
+   "hi": {
+    "h": "तहसीलदारों की पदोन्नति फाइल जल्द निपटाएं: ट्रेसा",
+    "p": "तेलंगाना राजस्व कर्मचारी सेवा संघ (ट्रेसा) ने मुख्यमंत्री कार्यालय के प्रधान सचिव वी. शेषाद्रि से योग्य तहसीलदारों को डिप्टी कलेक्टर के रूप में पदोन्नत करने की फाइल जल्द निपटाने का आग्रह किया। प्रतिनिधिमंडल में प्रदेश अध्यक्ष के. गौतम कुमार, महासचिव एल. रमण रेड्डी और मानद अध्यक्ष वंगा रविंदर रेड्डी शामिल थे।",
+    "pts": [
+     "तहसीलदारों को डिप्टी कलेक्टर पदोन्नति की मांग",
+     "ट्रेसा दल ने सीएमओ प्रधान सचिव शेषाद्रि से मुलाकात की",
+     "रिपोर्ट में फाइल की समय-सीमा नहीं बताई गई"
+    ],
+    "why": "यह राज्यभर में तहसीलदारों की पदोन्नति और राजस्व प्रशासन से जुड़ा है।",
+    "cat": "तेलंगाना · राजस्व",
+    "statl": "तहसीलदार पदोन्नति मांगने वाला संघ"
+   },
+   "d": "11.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "కృష్ణా · సహకారం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹1 కోటి",
+   "statl": "సీఎం సహాయ నిధికి విరాళం",
+   "h": "పంట నష్టపోయిన రైతుల కోసం కృష్ణా డీసీసీబీ ₹1 కోటి విరాళం",
+   "p": "ప్రకృతి విపత్తుల వల్ల పంట నష్టపోయిన రైతులను ఆదుకునేందుకు కృష్ణా జిల్లా కేంద్ర సహకార బ్యాంకు (డీసీసీబీ) ముఖ్యమంత్రి సహాయ నిధికి ₹1 కోటి ఇచ్చింది. డీసీసీబీ ఛైర్మన్ నెట్టెం శ్రీ రఘురామ్, మంత్రి కొల్లు రవీంద్ర, ఆప్కాబ్ ఛైర్మన్ గన్ని వీరాంజనేయులు అమరావతి సచివాలయంలో సీఎం చంద్రబాబు నాయుడుకు చెక్కు అందజేశారు. రైతు సంక్షేమమే బ్యాంకు లక్ష్యమని రఘురామ్ అన్నారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/krishna-dccb-donates-rs-1-cr-to-cm-relief-fund-1140990",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-krishna",
+   "pts": [
+    "పంట నష్టపోయిన రైతుల సహాయం కోసం విరాళం",
+    "అమరావతి సచివాలయంలో సీఎంకు చెక్కు అందజేత",
+    "బ్యాంకు సిబ్బందిని అభినందించిన సీఎం"
+   ],
+   "why": "తుపాన్లు, విపత్తులతో నష్టపోయిన రైతులకు సహాయ నిధి పెరుగుతుంది.",
+   "pub": "2026-11-11T06:38+05:30",
+   "en": {
+    "h": "Krishna DCCB donates ₹1 crore for crop-loss-hit farmers",
+    "p": "The Krishna District Cooperative Central Bank (DCCB) gave ₹1 crore to the Chief Minister's Relief Fund to help farmers who lost crops to natural calamities. DCCB chairman Nettam Sri Raghuram, Minister Kollu Ravindra and APCOB chairman Ganni Veeranjaneyulu handed the cheque to CM Chandrababu Naidu at the Amaravati Secretariat. Raghuram said farmer welfare is the bank's main goal.",
+    "pts": [
+     "Donation to help farmers hit by crop losses",
+     "Cheque handed to CM at Amaravati Secretariat",
+     "CM appreciated the bank's staff"
+    ],
+    "why": "It adds to relief funds for farmers hit by cyclones and disasters.",
+    "cat": "Krishna · Cooperative",
+    "statl": "Donation to CM Relief Fund"
+   },
+   "hi": {
+    "h": "फसल नुकसान झेल रहे किसानों के लिए कृष्णा डीसीसीबी ने दिए ₹1 करोड़",
+    "p": "प्राकृतिक आपदाओं से फसल गंवाने वाले किसानों की मदद के लिए कृष्णा जिला केंद्रीय सहकारी बैंक (डीसीसीबी) ने मुख्यमंत्री राहत कोष में ₹1 करोड़ दिए। डीसीसीबी अध्यक्ष नेट्टम श्री रघुराम, मंत्री कोल्लू रवींद्र और एपीकॉब अध्यक्ष गन्नी वीरांजनेयुलु ने अमरावती सचिवालय में सीएम चंद्रबाबू नायडू को चेक सौंपा। रघुराम ने कहा कि किसान कल्याण बैंक का मुख्य लक्ष्य है।",
+    "pts": [
+     "फसल नुकसान से प्रभावित किसानों की मदद के लिए दान",
+     "अमरावती सचिवालय में सीएम को चेक सौंपा",
+     "सीएम ने बैंक कर्मचारियों की सराहना की"
+    ],
+    "why": "इससे चक्रवात और आपदाओं से प्रभावित किसानों के लिए राहत कोष बढ़ेगा।",
+    "cat": "कृष्णा · सहकारिता",
+    "statl": "सीएम राहत कोष में दान"
+   },
+   "d": "11.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "355",
+   "statl": "గతంలో గెలిచిన ప్రతినిధులు (బీజేపీ ప్రకారం)",
+   "h": "పంచాయతీ ఎన్నికలకు ఏపీ బీజేపీ సన్నద్ధం: ప్రతి గ్రామంలో అభ్యర్థులు",
+   "p": "రాబోయే గ్రామ పంచాయతీ ఎన్నికల్లో ప్రతి మండలం, గ్రామంలో పార్టీ ప్రాతినిధ్యం ఉండాలని కేంద్ర మంత్రి భూపతిరాజు శ్రీనివాస వర్మ కార్యకర్తలను కోరారు. విజయవాడలో జరిగిన రాష్ట్ర స్థాయి సన్నాహక సమావేశంలో ప్రతి గ్రామంలో కనీసం ఒకటి రెండు వార్డు అభ్యర్థులు ఉండాలన్నారు. గతంలో 33 జడ్పీటీసీ స్థానాల్లో పోటీ చేసి సుమారు 23 గెలిచామని, 355 మంది ప్రతినిధులు ఎన్నికయ్యారని రాష్ట్ర అధ్యక్షుడు పీవీఎన్ మాధవ్ చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/bjp-gears-up-for-panchayat-polls-1140910",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "విజయవాడ",
+   "pts": [
+    "ప్రతి గ్రామంలో 1–2 వార్డు అభ్యర్థులు ఉండాలని పిలుపు",
+    "వెంటనే సన్నాహాలు ప్రారంభించాలన్న మంత్రి సత్యకుమార్ యాదవ్",
+    "సమావేశంలో ఎంపీ పురందేశ్వరి కూడా ప్రసంగం"
+   ],
+   "why": "ఏపీ పంచాయతీ ఎన్నికల్లో గ్రామ స్థాయి పోటీ ఎలా ఉండబోతుందో ఇది చూపిస్తుంది.",
+   "pub": "2026-11-11T02:07+05:30",
+   "en": {
+    "h": "AP BJP gears up for panchayat polls, eyes candidates in every village",
+    "p": "Union Minister Bhupathiraju Srinivasa Varma urged BJP workers to secure party representation in every mandal and village in the coming gram panchayat polls. At a state-level preparatory meeting in Vijayawada, he asked for at least one or two ward candidates per village. State president P V N Madhav said the party earlier contested 33 ZPTC seats, won about 23, and 355 representatives were elected.",
+    "pts": [
+     "Call for 1–2 ward candidates in every village",
+     "Minister Satya Kumar Yadav asked for preparations to begin now",
+     "MP Purandeswari also addressed the meeting"
+    ],
+    "why": "It shows how village-level contests may shape up in AP panchayat polls.",
+    "cat": "AP · Politics",
+    "statl": "Representatives elected earlier (per BJP)"
+   },
+   "hi": {
+    "h": "पंचायत चुनाव के लिए आंध्र भाजपा तैयार, हर गांव में उम्मीदवार का लक्ष्य",
+    "p": "केंद्रीय मंत्री भूपतिराजू श्रीनिवास वर्मा ने भाजपा कार्यकर्ताओं से आगामी ग्राम पंचायत चुनावों में हर मंडल और गांव में पार्टी का प्रतिनिधित्व सुनिश्चित करने को कहा। विजयवाड़ा में राज्य स्तरीय तैयारी बैठक में उन्होंने हर गांव में कम से कम एक-दो वार्ड उम्मीदवार उतारने को कहा। प्रदेश अध्यक्ष पीवीएन माधव ने कहा कि पार्टी ने पहले 33 जेडपीटीसी सीटों पर चुनाव लड़कर करीब 23 जीतीं और 355 प्रतिनिधि चुने गए।",
+    "pts": [
+     "हर गांव में 1–2 वार्ड उम्मीदवार उतारने का आह्वान",
+     "मंत्री सत्य कुमार यादव ने तुरंत तैयारी शुरू करने को कहा",
+     "सांसद पुरंदेश्वरी ने भी बैठक को संबोधित किया"
+    ],
+    "why": "इससे पता चलता है कि आंध्र के पंचायत चुनावों में गांव स्तर पर मुकाबला कैसा होगा।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "पहले चुने गए प्रतिनिधि (भाजपा के अनुसार)"
+   },
+   "d": "11.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "ఏపీ · ఆర్టీసీ",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "125",
+   "statl": "డిపో మేనేజర్లకు ప్రత్యేక శిక్షణ",
+   "h": "ఆదాయ నష్టాల నివారణకు 125 డిపో మేనేజర్లకు ఏపీఎస్‌ఆర్టీసీ శిక్షణ",
+   "p": "సాంకేతిక లోపాలు, ఆర్థిక అవకతవకలు, ఆదాయ నష్టాలను అరికట్టేందుకు రాష్ట్రవ్యాప్తంగా 125 మంది డిపో మేనేజర్లకు ఏపీఎస్‌ఆర్టీసీ ప్రత్యేక శిక్షణ ప్రారంభించింది. నవంబర్ 10 నుంచి 20 వరకు నాలుగు బ్యాచ్‌లుగా ఇది జరుగుతుంది. విజయవాడ ప్రధాన కార్యాలయంలో మొదటి బ్యాచ్‌లో 30 మంది పాల్గొన్నారు. ఆదాయ రక్షణ, పారదర్శకత, జవాబుదారీతనం ముఖ్యమని జేఎండీ ఎం. శివప్రసాద్ చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/rtc-trains-125-depot-managers-to-prevent-revenue-losses-1140991",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "విజయవాడ",
+   "pts": [
+    "నవంబర్ 10–20 మధ్య నాలుగు బ్యాచ్‌లుగా శిక్షణ",
+    "మొదటి బ్యాచ్‌లో 30 మంది డిపో మేనేజర్లు",
+    "అకౌంట్స్, ఆపరేషన్స్, ఐటీ తదితర అంశాలపై పాఠాలు"
+   ],
+   "why": "ఆర్టీసీ ఆదాయం కాపాడటం, బస్సు సేవల్లో పారదర్శకతకు ఇది సంబంధించినది.",
+   "pub": "2026-11-11T06:40+05:30",
+   "en": {
+    "h": "APSRTC trains 125 depot managers to curb revenue losses",
+    "p": "APSRTC has launched special training for 125 depot managers across the state to curb technical lapses, financial irregularities and revenue losses. It runs in four batches from November 10 to 20. The first batch of 30 attended at the Vijayawada head office. Joint MD M. Siva Prasad said protecting revenue, transparency and accountability are key.",
+    "pts": [
+     "Training in four batches between November 10 and 20",
+     "First batch has 30 depot managers",
+     "Lessons cover accounts, operations, IT and more"
+    ],
+    "why": "It concerns protecting RTC revenue and transparency in bus services.",
+    "cat": "AP · RTC",
+    "statl": "Depot managers in special training"
+   },
+   "hi": {
+    "h": "राजस्व नुकसान रोकने के लिए APSRTC ने 125 डिपो मैनेजरों को दिया प्रशिक्षण",
+    "p": "तकनीकी खामियों, वित्तीय अनियमितताओं और राजस्व नुकसान को रोकने के लिए APSRTC ने राज्यभर के 125 डिपो मैनेजरों के लिए विशेष प्रशिक्षण शुरू किया है। यह 10 से 20 नवंबर तक चार बैचों में होगा। विजयवाड़ा मुख्यालय में पहले बैच में 30 लोग शामिल हुए। संयुक्त एमडी एम. शिव प्रसाद ने राजस्व सुरक्षा, पारदर्शिता और जवाबदेही को अहम बताया।",
+    "pts": [
+     "10 से 20 नवंबर के बीच चार बैचों में प्रशिक्षण",
+     "पहले बैच में 30 डिपो मैनेजर",
+     "अकाउंट्स, ऑपरेशंस, आईटी आदि विषय शामिल"
+    ],
+    "why": "यह आरटीसी के राजस्व की सुरक्षा और बस सेवाओं में पारदर्शिता से जुड़ा है।",
+    "cat": "आंध्र प्रदेश · आरटीसी",
+    "statl": "डिपो मैनेजरों को विशेष प्रशिक्षण"
+   },
+   "d": "11.11.2026",
+   "t": "09:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగ సంఘం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "3",
+   "statl": "కొత్త ఆఫీస్ బేరర్ల ఎన్నిక",
+   "h": "ఎక్సైజ్ గెజిటెడ్ అధికారుల సంఘం అధ్యక్షుడిగా జె. హరికిషన్",
+   "p": "తెలంగాణ ఎక్సైజ్ శాఖ గెజిటెడ్ అధికారుల సంఘం అధ్యక్షుడిగా సైబరాబాద్ డీసీ జె. హరికిషన్ ఎన్నికయ్యారు. హైదరాబాద్‌లోని ఎక్సైజ్ భవన్‌లో మంగళవారం ఎన్నికలు జరిగాయి. ప్రధాన కార్యదర్శిగా హనుమంతరావు (ఈఎస్, మల్కాజిగిరి), కోశాధికారిగా డి. శ్రీనివాస్ (ఏసీ, గ్రేటర్ హైదరాబాద్) ఎన్నికయ్యారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/j-harikishan-elected-president-of-telangana-excise-gazetted-officers-association-2557299",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "ఎక్సైజ్ భవన్, హైదరాబాద్",
+   "pts": [
+    "అధ్యక్షుడిగా సైబరాబాద్ డీసీ జె. హరికిషన్",
+    "ప్రధాన కార్యదర్శిగా హనుమంతరావు",
+    "కోశాధికారిగా డి. శ్రీనివాస్"
+   ],
+   "why": "ఎక్సైజ్ శాఖ అధికారుల సమస్యలను ఈ సంఘం ప్రభుత్వం ముందు ఉంచుతుంది.",
+   "pub": "2026-11-11T03:07+05:30",
+   "en": {
+    "h": "J. Harikishan elected president of Excise Gazetted Officers Association",
+    "p": "Cyberabad DC J. Harikishan was elected president of the Telangana Excise Department Gazetted Officers Association. Elections were held on Tuesday at Excise Bhavan in Hyderabad. Hanumantha Rao (ES, Malkajgiri) was elected general secretary and D. Srinivas (AC, Greater Hyderabad) treasurer.",
+    "pts": [
+     "Cyberabad DC J. Harikishan elected president",
+     "Hanumantha Rao is general secretary",
+     "D. Srinivas is treasurer"
+    ],
+    "why": "The association takes excise officers' issues to the government.",
+    "cat": "Telangana · Employees' body",
+    "statl": "New office-bearers elected"
+   },
+   "hi": {
+    "h": "जे. हरिकिशन एक्साइज गजटेड अधिकारी संघ के अध्यक्ष चुने गए",
+    "p": "साइबराबाद डीसी जे. हरिकिशन तेलंगाना आबकारी विभाग गजटेड अधिकारी संघ के अध्यक्ष चुने गए। मंगलवार को हैदराबाद के एक्साइज भवन में चुनाव हुए। हनुमंत राव (ईएस, मलकाजगिरी) महासचिव और डी. श्रीनिवास (एसी, ग्रेटर हैदराबाद) कोषाध्यक्ष चुने गए।",
+    "pts": [
+     "साइबराबाद डीसी जे. हरिकिशन अध्यक्ष",
+     "हनुमंत राव महासचिव",
+     "डी. श्रीनिवास कोषाध्यक्ष"
+    ],
+    "why": "यह संघ आबकारी अधिकारियों के मुद्दे सरकार के सामने रखता है।",
+    "cat": "तेलंगाना · कर्मचारी संघ",
+    "statl": "नए पदाधिकारी चुने गए"
+   },
+   "d": "11.11.2026",
+   "t": "09:05"
+  },
   {
    "cat": "తెలంగాణ · పరిశ్రమలు",
    "col": "--c-money",
