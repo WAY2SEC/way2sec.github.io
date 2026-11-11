@@ -1,8 +1,159 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T10:40:40+05:30",
+ "updated": "2026-11-11T11:14:40+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "సూర్యాపేట · క్రీడలు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "2 పతకాలు",
+   "statl": "వాలీబాల్ స్వర్ణం, కబడ్డీ రజతం",
+   "h": "పోలీస్ స్పోర్ట్స్ మీట్‌లో పెన్‌పహాడ్ కానిస్టేబుల్ దీపికకు స్వర్ణం, రజతం",
+   "p": "సూర్యాపేట జిల్లా పెన్‌పహాడ్ పోలీస్ స్టేషన్‌లో పనిచేస్తున్న కానిస్టేబుల్ నందిపాటి దీపిక వరంగల్‌లో జరిగిన తెలంగాణ పోలీస్ స్పోర్ట్స్ మీట్-5లో వాలీబాల్‌లో స్వర్ణం, కబడ్డీలో రజతం గెలిచారు. 2027 జాతీయ కబడ్డీ పోటీలకు డిఫెండర్‌గా ఎంపికయ్యారు. పొనుగోడు గ్రామానికి చెందిన ఆమె గతంలో పంజాబ్, జమ్ముకశ్మీర్‌లో జరిగిన ఆల్ ఇండియా పోలీస్ మీట్‌లలో రాష్ట్రానికి ప్రాతినిధ్యం వహించారు. జిల్లా ఎస్పీ నరసింహ ఆమెను సన్మానించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/news/telangana-woman-constable-deepika-wins-gold-and-silver-medals-at-police-sports-meet-2557449",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "suryapet",
+   "loc": "పెన్‌పహాడ్",
+   "pts": [
+    "వాలీబాల్‌లో స్వర్ణం, కబడ్డీలో రజత పతకం",
+    "2027 జాతీయ కబడ్డీ పోటీలకు డిఫెండర్‌గా ఎంపిక",
+    "ఎస్పీ నరసింహ చేతుల మీదుగా సన్మానం"
+   ],
+   "why": "గ్రామీణ ప్రాంతం నుంచి వచ్చిన మహిళా పోలీసులు క్రీడల్లో రాణిస్తున్నారనడానికి ఇది ఉదాహరణ.",
+   "pub": "2026-11-11T10:46+05:30",
+   "en": {
+    "h": "Penpahad constable Deepika wins gold and silver at police sports meet",
+    "p": "Constable Nandipati Deepika of Penpahad police station in Suryapet district won gold in volleyball and silver in kabaddi at Telangana Police Sports Meet-5 held in Warangal. She has been selected as a defender for the 2027 national kabaddi competition. A native of Ponugodu village, she earlier represented the state at All India Police meets in Punjab and Jammu & Kashmir. District SP Narasimha felicitated her.",
+    "pts": [
+     "Gold in volleyball, silver in kabaddi",
+     "Selected as defender for 2027 national kabaddi event",
+     "Felicitated by SP Narasimha"
+    ],
+    "why": "It shows women police from rural areas excelling in sports.",
+    "cat": "Suryapet · Sports",
+    "statl": "volleyball gold, kabaddi silver"
+   },
+   "hi": {
+    "h": "पुलिस खेल प्रतियोगिता में पेनपहाड़ की कांस्टेबल दीपिका को स्वर्ण और रजत",
+    "p": "सूर्यापेट जिले के पेनपहाड़ पुलिस स्टेशन में तैनात कांस्टेबल नंदिपाटि दीपिका ने वरंगल में हुई तेलंगाना पुलिस स्पोर्ट्स मीट-5 में वॉलीबॉल में स्वर्ण और कबड्डी में रजत पदक जीता। उन्हें 2027 की राष्ट्रीय कबड्डी प्रतियोगिता के लिए डिफेंडर के रूप में चुना गया है। पोनुगोडु गांव की दीपिका पहले पंजाब और जम्मू-कश्मीर में हुई अखिल भारतीय पुलिस मीट में राज्य का प्रतिनिधित्व कर चुकी हैं। जिला एसपी नरसिम्हा ने उनका सम्मान किया।",
+    "pts": [
+     "वॉलीबॉल में स्वर्ण, कबड्डी में रजत",
+     "2027 राष्ट्रीय कबड्डी के लिए डिफेंडर चुनी गईं",
+     "एसपी नरसिम्हा ने सम्मानित किया"
+    ],
+    "why": "यह दिखाता है कि ग्रामीण इलाकों की महिला पुलिसकर्मी खेलों में आगे बढ़ रही हैं।",
+    "cat": "सूर्यापेट · खेल",
+    "statl": "वॉलीबॉल स्वर्ण, कबड्डी रजत"
+   },
+   "d": "11.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · పండుగ",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "28",
+   "statl": "ఛఠ్ పూజ వేదికలు",
+   "h": "హైదరాబాద్‌లో 28 చోట్ల ఛఠ్ పూజ: నవంబర్ 14 నుంచి 16 వరకు",
+   "p": "బిహార్ అసోసియేషన్ ఆధ్వర్యంలో నవంబర్ 14, 15, 16 తేదీల్లో హైదరాబాద్‌లో ఛఠ్ పూజ వేడుకలు జరగనున్నాయి. ట్యాంక్‌బండ్, హస్మత్‌పేట చెరువు, దుర్గం చెరువు, శామీర్‌పేట, మియాపూర్, ఉప్పల్ సహా 28 ప్రాంతాలను గుర్తించారు. ఎంఏయూడీ శాఖ ఈ విజ్ఞప్తిని హైడ్రా, మూడు మున్సిపల్ కార్పొరేషన్లకు పంపింది. పారిశుద్ధ్యం, తాగునీరు, వీధి దీపాలు, జనసమూహ నియంత్రణ ఏర్పాట్లు చేయనున్నారు. ట్రాఫిక్ మళ్లింపులు ఉండే అవకాశం ఉందని సియాసత్ కథనం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-set-for-grand-chhath-puja-celebrations-at-28-venues-3573785/",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 14–16 తేదీల్లో ఛఠ్ పూజ వేడుకలు",
+    "ట్యాంక్‌బండ్ సహా 28 వేదికల గుర్తింపు",
+    "ట్రాఫిక్ ఆంక్షలు, మళ్లింపులు ఉండే అవకాశం"
+   ],
+   "why": "ఆ మూడు రోజులు ట్యాంక్‌బండ్, చెరువుల పరిసరాల్లో ప్రయాణించే వారు ట్రాఫిక్ మార్పులు గమనించాలి.",
+   "pub": "2026-11-11T10:02+05:30",
+   "en": {
+    "h": "Chhath Puja at 28 venues in Hyderabad from November 14 to 16",
+    "p": "The Bihar Association will hold Chhath Puja celebrations in Hyderabad on November 14, 15 and 16. Twenty-eight locations have been identified, including Tank Bund, Hasmatpet Lake, Durgam Cheruvu, Shamirpet, Miyapur and Uppal. The MAUD department forwarded the request to HYDRAA and the three municipal corporations. Sanitation, drinking water, street lighting and crowd management arrangements are planned. Traffic diversions are likely, Siasat reported.",
+    "pts": [
+     "Chhath Puja celebrations on November 14–16",
+     "28 venues identified, including Tank Bund",
+     "Traffic restrictions and diversions likely"
+    ],
+    "why": "Commuters near Tank Bund and city lakes should watch for traffic changes on those three days.",
+    "cat": "Hyderabad · Festival",
+    "statl": "Chhath Puja venues"
+   },
+   "hi": {
+    "h": "हैदराबाद में 28 स्थानों पर छठ पूजा: 14 से 16 नवंबर तक",
+    "p": "बिहार एसोसिएशन की ओर से 14, 15 और 16 नवंबर को हैदराबाद में छठ पूजा समारोह होंगे। टैंक बंड, हस्मतपेट झील, दुर्गम चेरुवु, शामीरपेट, मियापुर और उप्पल सहित 28 स्थान चिह्नित किए गए हैं। एमएयूडी विभाग ने यह अनुरोध हाइड्रा और तीनों नगर निगमों को भेजा है। सफाई, पेयजल, स्ट्रीट लाइट और भीड़ प्रबंधन की व्यवस्था की जाएगी। सियासत के अनुसार यातायात में बदलाव की संभावना है।",
+    "pts": [
+     "14–16 नवंबर को छठ पूजा समारोह",
+     "टैंक बंड सहित 28 स्थान चिह्नित",
+     "यातायात प्रतिबंध और डायवर्जन संभव"
+    ],
+    "why": "इन तीन दिनों में टैंक बंड और झीलों के पास से गुजरने वालों को यातायात बदलाव पर ध्यान देना होगा।",
+    "cat": "हैदराबाद · त्योहार",
+    "statl": "छठ पूजा स्थल"
+   },
+   "d": "11.11.2026",
+   "t": "11:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరాలు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "260+",
+   "statl": "నిద్ర మాత్రలు స్వాధీనం",
+   "h": "ప్రిస్క్రిప్షన్ లేకుండా నిద్ర మాత్రల విక్రయం ఆరోపణ: హబీబ్‌నగర్‌లో దంపతుల అరెస్ట్",
+   "p": "హైదరాబాద్ హబీబ్‌నగర్ ప్రాంతంలో ప్రిస్క్రిప్షన్ లేకుండా నిద్ర మాత్రలు అమ్ముతున్నారన్న ఆరోపణపై ఒక దంపతులను అరెస్ట్ చేశారు. వివిధ ఎన్‌ఫోర్స్‌మెంట్ సంస్థల సంయుక్త బృందం దాడిలో 260కి పైగా నైట్రోవెట్ మాత్రలు, కొద్ది మొత్తంలో గంజాయి స్వాధీనం చేసుకుంది. మాత్రలు ఏ మెడికల్ షాపులు లేదా సరఫరాదారుల నుంచి వచ్చాయో, బీదర్‌తో సంబంధాలు ఉన్నాయా అనే కోణంలో దర్యాప్తు చేస్తున్నామని ఒక అధికారి చెప్పినట్లు సియాసత్ కథనం.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/couple-arrested-for-illegal-sale-of-sleeping-pills-in-hyderabad-3573792/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హబీబ్‌నగర్",
+   "pts": [
+    "260కి పైగా నైట్రోవెట్ మాత్రలు, కొంత గంజాయి స్వాధీనం",
+    "అఫ్జల్‌గంజ్, హబీబ్‌నగర్ పాత కేసుల్లో మరో ఇద్దరు అదుపులోకి",
+    "సరఫరా మూలం, ఆర్థిక లావాదేవీలపై దర్యాప్తు"
+   ],
+   "why": "ప్రిస్క్రిప్షన్ లేని మత్తు మాత్రల విక్రయంపై అధికారులు సంయుక్త దాడులు కొనసాగిస్తామన్నారు.",
+   "pub": "2026-11-11T10:02+05:30",
+   "en": {
+    "h": "Couple arrested in Habeebnagar for allegedly selling sleeping pills without prescription",
+    "p": "A couple was arrested in Hyderabad's Habeebnagar area on allegations of selling sleeping pills without prescriptions. A joint team of enforcement agencies seized over 260 Nitrovet tablets and a small quantity of ganja in a raid. An official said investigators are tracing which medical shops or suppliers the pills came from and any links to Bidar, according to Siasat.",
+    "pts": [
+     "Over 260 Nitrovet tablets and some ganja seized",
+     "Two others held in earlier Afzalgunj and Habeebnagar cases",
+     "Probe into supply source and financial transactions"
+    ],
+    "why": "Officials said joint raids against sale of sedative pills without prescription will continue.",
+    "cat": "Hyderabad · Crime",
+    "statl": "sleeping pills seized"
+   },
+   "hi": {
+    "h": "बिना पर्चे नींद की गोलियां बेचने का आरोप: हबीबनगर में दंपती गिरफ्तार",
+    "p": "हैदराबाद के हबीबनगर इलाके में बिना पर्चे के नींद की गोलियां बेचने के आरोप में एक दंपती को गिरफ्तार किया गया। विभिन्न प्रवर्तन एजेंसियों की संयुक्त टीम ने छापे में 260 से अधिक नाइट्रोवेट गोलियां और थोड़ा गांजा जब्त किया। सियासत के अनुसार एक अधिकारी ने कहा कि गोलियां किन मेडिकल दुकानों या आपूर्तिकर्ताओं से आईं और बीदर से कोई संबंध है या नहीं, इसकी जांच हो रही है।",
+    "pts": [
+     "260 से अधिक नाइट्रोवेट गोलियां और कुछ गांजा जब्त",
+     "अफजलगंज, हबीबनगर के पुराने मामलों में दो और हिरासत में",
+     "आपूर्ति स्रोत और लेनदेन की जांच"
+    ],
+    "why": "अधिकारियों ने कहा कि बिना पर्चे नशीली गोलियों की बिक्री के खिलाफ संयुक्त छापे जारी रहेंगे।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "नींद की गोलियां जब्त"
+   },
+   "d": "11.11.2026",
+   "t": "11:05"
+  },
   {
    "cat": "పల్నాడు · గురుకులం",
    "col": "--c-power",
@@ -2354,330 +2505,6 @@
    },
    "d": "11.11.2026",
    "t": "06:35"
-  },
-  {
-   "cat": "ప్రపంచం · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "2.8%",
-   "statl": "స్పాట్ బంగారం ధర పతనం",
-   "h": "అమెరికా ద్రవ్యోల్బణం ఎక్కువ: అంతర్జాతీయంగా బంగారం ధర దాదాపు 3% పతనం",
-   "p": "అమెరికా అక్టోబర్ వినియోగదారుల ధరల సూచీ అంచనాల కంటే ఎక్కువగా 0.4% పెరగడంతో నవంబర్ 10న అంతర్జాతీయ బంగారం ధర దాదాపు 3% పడిపోయిందని ద నేషన్ కథనం. స్పాట్ బంగారం 2.8% తగ్గి ఔన్సుకు 4,021.36 డాలర్లకు చేరింది. వెండి 3.9% తగ్గింది. డిసెంబర్‌లో ఫెడ్ వడ్డీ రేటు పెంపు అంచనాలు బలపడ్డాయి. బుధవారం బంగారం స్వల్పంగా 0.1% పెరిగింది.",
-   "src": "The Nation (Thailand)",
-   "url": "https://www.nationthailand.com/news/general/40073349",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pub": "2026-11-11T05:58+05:30",
-   "pts": [
-    "స్పాట్ బంగారం ఔన్సుకు 4,021.36 డాలర్లు",
-    "వెండి 3.9% తగ్గి 51.32 డాలర్లు",
-    "డిసెంబర్‌లో ఫెడ్ రేటు పెంపు అంచనా"
-   ],
-   "why": "అంతర్జాతీయ ధరల మార్పు భారత్‌లో బంగారం కొనుగోలుదారులు, పెట్టుబడిదారులపై ప్రభావం చూపుతుంది.",
-   "en": {
-    "h": "Higher US inflation: global gold prices fall nearly 3%",
-    "p": "Global gold prices fell nearly 3% on November 10 after US October consumer prices rose 0.4%, more than expected, The Nation reported. Spot gold fell 2.8% to $4,021.36 an ounce. Silver fell 3.9%. Expectations of a US Fed rate hike in December strengthened. Gold edged up 0.1% on Wednesday.",
-    "pts": [
-     "Spot gold at $4,021.36 an ounce",
-     "Silver down 3.9% to $51.32",
-     "Fed rate hike expected in December"
-    ],
-    "why": "Global price swings affect gold buyers and investors in India.",
-    "cat": "World · Business",
-    "statl": "Fall in spot gold price"
-   },
-   "hi": {
-    "h": "अमेरिकी महंगाई ज्यादा: वैश्विक बाजार में सोना करीब 3% गिरा",
-    "p": "द नेशन के अनुसार, अमेरिका में अक्टूबर की उपभोक्ता कीमतें अनुमान से ज्यादा 0.4% बढ़ने पर 10 नवंबर को वैश्विक सोने की कीमत करीब 3% गिरी। स्पॉट सोना 2.8% गिरकर 4,021.36 डॉलर प्रति औंस रहा। चांदी 3.9% गिरी। दिसंबर में अमेरिकी फेड की दर बढ़ोतरी की उम्मीद मजबूत हुई। बुधवार को सोना 0.1% चढ़ा।",
-    "pts": [
-     "स्पॉट सोना 4,021.36 डॉलर प्रति औंस",
-     "चांदी 3.9% गिरकर 51.32 डॉलर",
-     "दिसंबर में फेड दर बढ़ोतरी की उम्मीद"
-    ],
-    "why": "वैश्विक कीमतों का असर भारत में सोना खरीदारों और निवेशकों पर पड़ता है।",
-    "cat": "विश्व · व्यापार",
-    "statl": "स्पॉट सोने में गिरावट"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "భారత్ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "ఫిబ్ర. 7",
-   "statl": "ఐఎస్‌సీ 12వ తరగతి పరీక్షల ప్రారంభం",
-   "h": "2027 ఫిబ్రవరిలో ఐసీఎస్‌ఈ, ఐఎస్‌సీ బోర్డు పరీక్షలు",
-   "p": "2027 పదో తరగతి, 12వ తరగతి పరీక్షల షెడ్యూల్‌ను సీఐఎస్‌సీఈ విడుదల చేసిందని నమస్తే తెలంగాణ కథనం. పదో తరగతి పరీక్షలు 2027 ఫిబ్రవరి 15 నుంచి, 12వ తరగతి పరీక్షలు ఫిబ్రవరి 7 నుంచి ప్రారంభమవుతాయి. ఈ బోర్డు పరిధిలోని విద్యార్థులు ఈ తేదీలకు అనుగుణంగా సన్నద్ధం కావాల్సి ఉంటుంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/icse-releases-2027-class-10-and-12-examination-schedule-2557269",
-   "sec": [
-    "india",
-    "education"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pub": "2026-11-11T02:36+05:30",
-   "pts": [
-    "పదో తరగతి పరీక్షలు ఫిబ్రవరి 15 నుంచి",
-    "12వ తరగతి పరీక్షలు ఫిబ్రవరి 7 నుంచి"
-   ],
-   "why": "ఐసీఎస్‌ఈ, ఐఎస్‌సీ బోర్డు విద్యార్థులు, తల్లిదండ్రులకు ఈ షెడ్యూల్ ముఖ్యం.",
-   "en": {
-    "h": "ICSE, ISC board exams to be held in February 2027",
-    "p": "CISCE has released the 2027 schedule for Class 10 and Class 12 exams, Namasthe Telangana reported. Class 10 exams begin on February 15, 2027, and Class 12 exams on February 7. Students of the board will need to prepare according to these dates.",
-    "pts": [
-     "Class 10 exams from February 15",
-     "Class 12 exams from February 7"
-    ],
-    "why": "The schedule matters for ICSE and ISC students and their parents.",
-    "cat": "India · Education",
-    "statl": "ISC Class 12 exams begin"
-   },
-   "hi": {
-    "h": "फरवरी 2027 में आईसीएसई, आईएससी बोर्ड परीक्षाएं",
-    "p": "नमस्ते तेलंगाना के अनुसार, सीआईएससीई ने 2027 की कक्षा 10 और कक्षा 12 परीक्षाओं का कार्यक्रम जारी किया है। कक्षा 10 की परीक्षाएं 15 फरवरी 2027 से और कक्षा 12 की 7 फरवरी से शुरू होंगी। बोर्ड के छात्रों को इन तारीखों के अनुसार तैयारी करनी होगी।",
-    "pts": [
-     "कक्षा 10 की परीक्षाएं 15 फरवरी से",
-     "कक्षा 12 की परीक्षाएं 7 फरवरी से"
-    ],
-    "why": "यह कार्यक्रम आईसीएसई, आईएससी छात्रों और अभिभावकों के लिए अहम है।",
-    "cat": "भारत · शिक्षा",
-    "statl": "आईएससी कक्षा 12 परीक्षा शुरू"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "నిర్మల్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "farm",
-   "stat": "సా. 4",
-   "statl": "రైతు గర్జన సభకు కేటీఆర్ రాక",
-   "h": "నేడు నిర్మల్‌లో బీఆర్‌ఎస్ 'రైతు గర్జన': కేటీఆర్ నాయకత్వం",
-   "p": "బీఆర్‌ఎస్ కార్యనిర్వాహక అధ్యక్షుడు కేటీఆర్ బుధవారం నిర్మల్ ఎన్టీఆర్ మినీ స్టేడియంలో 'రైతు గర్జన' సభకు నాయకత్వం వహిస్తారని నమస్తే తెలంగాణ కథనం. ఆయన సాయంత్రం 4 గంటలకు చేరుకుంటారు. నిర్మల్, ఖానాపూర్, ముధోల్ నియోజకవర్గాల రైతులు రానున్నారు. కాంగ్రెస్ ప్రభుత్వ విధానాలు రైతు వ్యతిరేకమని బీఆర్‌ఎస్ ఆరోపిస్తోంది; రైతు భరోసా, రుణమాఫీ, కొనుగోళ్లపై డిమాండ్లు చేయనుంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/ktr-to-lead-brs-farmers-protest-against-congress-government-in-nirmal-2557249",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nirmal",
-   "loc": "నిర్మల్",
-   "pub": "2026-11-11T02:12+05:30",
-   "pts": [
-    "నిర్మల్ ఎన్టీఆర్ మినీ స్టేడియంలో సభ",
-    "మూడు నియోజకవర్గాల రైతులు హాజరు",
-    "ఖమ్మం, నల్గొండ, వరంగల్‌లోనూ సభలకు ప్రణాళిక"
-   ],
-   "why": "రైతు సమస్యలపై ప్రతిపక్ష కార్యక్రమం నిర్మల్ జిల్లా రైతులకు సంబంధించినది.",
-   "en": {
-    "h": "BRS 'Raithu Garjana' in Nirmal today, led by KTR",
-    "p": "BRS working president KTR will lead a 'Raithu Garjana' rally at the NTR Mini Stadium in Nirmal on Wednesday, Namasthe Telangana reported. He will arrive at about 4 pm. Farmers from Nirmal, Khanapur and Mudhole constituencies are expected. The BRS alleges the Congress government's policies are anti-farmer and will raise demands on Rythu Bharosa, loan waiver and procurement.",
-    "pts": [
-     "Rally at NTR Mini Stadium, Nirmal",
-     "Farmers from three constituencies to attend",
-     "Rallies also planned in Khammam, Nalgonda, Warangal"
-    ],
-    "why": "The opposition event on farm issues concerns farmers in Nirmal district.",
-    "cat": "Nirmal · Politics",
-    "statl": "KTR arrives at rally"
-   },
-   "hi": {
-    "h": "आज निर्मल में बीआरएस की 'रैतु गर्जना', केटीआर करेंगे नेतृत्व",
-    "p": "नमस्ते तेलंगाना के अनुसार, बीआरएस कार्यकारी अध्यक्ष केटीआर बुधवार को निर्मल के एनटीआर मिनी स्टेडियम में 'रैतु गर्जना' रैली का नेतृत्व करेंगे। वे करीब शाम 4 बजे पहुंचेंगे। निर्मल, खानापुर और मुधोल निर्वाचन क्षेत्रों के किसान आएंगे। बीआरएस का आरोप है कि कांग्रेस सरकार की नीतियां किसान विरोधी हैं; रैतु भरोसा, ऋण माफी, खरीद पर मांगें उठाई जाएंगी।",
-    "pts": [
-     "निर्मल एनटीआर मिनी स्टेडियम में रैली",
-     "तीन निर्वाचन क्षेत्रों के किसान आएंगे",
-     "खम्मम, नलगोंडा, वरंगल में भी रैलियों की योजना"
-    ],
-    "why": "किसान मुद्दों पर विपक्ष का यह कार्यक्रम निर्मल जिले के किसानों से जुड़ा है।",
-    "cat": "निर्मल · राजनीति",
-    "statl": "रैली में केटीआर का आगमन"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "మోసం ఆరోపణ · సిద్దిపేట",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "22 మంది",
-   "statl": "బతికున్నవారికి మరణ ధ్రువీకరణ పత్రాలు",
-   "h": "బతికున్న 22 మందికి మరణ ధ్రువీకరణ పత్రాలు! – బీమా కోసం ఈ-సైన్ దుర్వినియోగం ఆరోపణ, ఇద్దరిపై కేసు",
-   "p": "సిద్దిపేట జిల్లా చేర్యాల మండలం రాంపూర్ గ్రామ పంచాయతీలో బతికున్న 22 మంది పేర్లపై మరణ ధ్రువీకరణ పత్రాలు జారీ కావడం కలకలం రేపింది. 2026 ఫిబ్రవరి నుంచి సెప్టెంబర్ వరకు ఈ సర్టిఫికెట్లు జారీ అయినట్లు అధికారులు గుర్తించారు. ప్రభుత్వ అధికారి మాత్రమే వినియోగించాల్సిన ఈ-సైన్ డాంగిల్‌ను గ్రామ పంచాయతీ కార్యదర్శి భూక్య మధు నిబంధనలకు విరుద్ధంగా అదే గ్రామానికి చెందిన శేవల్ల రమేశ్‌కు అప్పగించారని, హైదరాబాద్‌లో ఇంటర్నెట్ సెంటర్ నిర్వహిస్తున్న రమేశ్ ద్వారా అక్రమంగా సర్టిఫికెట్లు జారీ అయ్యాయని ఆరోపణలు ఉన్నాయి. కుటుంబ సభ్యుల పేర్లపై బీమా పాలసీలు తీసుకుని, నకిలీ మరణ పత్రాలతో క్లెయిమ్ చేసినట్లు అనుమానిస్తున్నారు. జిల్లా కలెక్టర్ ఆదేశాలతో అధికారులు ఫిర్యాదు చేయగా, భూక్య మధు, రమేశ్‌పై కేసు నమోదు చేసిన చేర్యాల పోలీసులు దర్యాప్తు చేస్తున్నారు.",
-   "src": "Way2Sec రిపోర్టర్ · చేర్యాల",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "siddipet",
-   "loc": "రాంపూర్, చేర్యాల",
-   "pts": [
-    "2026 ఫిబ్రవరి – సెప్టెంబర్ మధ్య 22 పత్రాల జారీ",
-    "కార్యదర్శి ఈ-సైన్ డాంగిల్‌ను ప్రైవేటు వ్యక్తికి ఇచ్చారని ఆరోపణ",
-    "బీమా క్లెయిమ్‌ల కోసమేనని అనుమానం",
-    "కలెక్టర్ ఆదేశాలతో ఫిర్యాదు – చేర్యాల పోలీసుల దర్యాప్తు"
-   ],
-   "why": "ప్రభుత్వ డిజిటల్ సంతకాలు దుర్వినియోగమైతే బతికున్నవారి రికార్డులే మారిపోతాయి; మీ పేరుపై పత్రాలు సరిగ్గా ఉన్నాయో మీ-సేవ/పంచాయతీలో తనిఖీ చేసుకోవచ్చు.",
-   "en": {
-    "cat": "Fraud allegation · Siddipet",
-    "stat": "22 people",
-    "statl": "Death certificates issued for living people",
-    "h": "Death certificates issued for 22 living people – e-sign misuse for insurance alleged, case against two",
-    "p": "Death certificates were issued in the names of 22 living people in Rampur gram panchayat, Cheriyal mandal, Siddipet district, causing a stir. Officials found the certificates were issued between February and September 2026. It is alleged that panchayat secretary Bhukya Madhu, against the rules, handed the government e-sign dongle meant only for officials to Shevalla Ramesh of the same village, who runs an internet centre in Hyderabad and allegedly issued the certificates illegally. Officials suspect insurance policies were taken out in family members' names and claimed with the fake death certificates. On the Collector's orders a complaint was filed, and Cheriyal police have registered a case against Bhukya Madhu and Ramesh and are investigating.",
-    "pts": [
-     "22 certificates issued between Feb and Sept 2026",
-     "Secretary allegedly handed the e-sign dongle to a private person",
-     "Insurance claims suspected",
-     "Complaint on Collector's orders – Cheriyal police investigating"
-    ],
-    "why": "Misuse of official digital signatures can change records of living people; residents can check documents in their name at Mee Seva or the panchayat."
-   },
-   "hi": {
-    "cat": "धोखाधड़ी का आरोप · सिद्दिपेट",
-    "stat": "22 लोग",
-    "statl": "ज़िंदा लोगों के मृत्यु प्रमाणपत्र",
-    "h": "22 ज़िंदा लोगों के नाम मृत्यु प्रमाणपत्र जारी – बीमा के लिए ई-साइन के दुरुपयोग का आरोप, दो पर केस",
-    "p": "सिद्दिपेट ज़िले के चेर्याल मंडल की रामपुर ग्राम पंचायत में 22 ज़िंदा लोगों के नाम पर मृत्यु प्रमाणपत्र जारी होने से हड़कंप मच गया। अधिकारियों ने पाया कि ये प्रमाणपत्र फ़रवरी से सितंबर 2026 के बीच जारी हुए। आरोप है कि पंचायत सचिव भूक्या मधु ने नियमों के ख़िलाफ़ केवल अधिकारी के लिए बना सरकारी ई-साइन डोंगल उसी गाँव के शेवल्ला रमेश को दे दिया, जो हैदराबाद में इंटरनेट सेंटर चलाता है और जिस पर अवैध रूप से प्रमाणपत्र जारी करने का आरोप है। संदेह है कि परिवार के सदस्यों के नाम बीमा पॉलिसियाँ लेकर फ़र्ज़ी मृत्यु प्रमाणपत्रों से दावे किए गए। कलेक्टर के आदेश पर शिकायत दर्ज की गई; चेर्याल पुलिस ने भूक्या मधु और रमेश के ख़िलाफ़ केस दर्ज कर जाँच शुरू की है।",
-    "pts": [
-     "फ़रवरी–सितंबर 2026 के बीच 22 प्रमाणपत्र",
-     "सचिव पर ई-साइन डोंगल निजी व्यक्ति को देने का आरोप",
-     "बीमा दावों का संदेह",
-     "कलेक्टर के आदेश पर शिकायत – चेर्याल पुलिस की जाँच"
-    ],
-    "why": "सरकारी डिजिटल हस्ताक्षर के दुरुपयोग से ज़िंदा लोगों के रिकॉर्ड बदल सकते हैं; अपने नाम के दस्तावेज़ मी-सेवा या पंचायत में जाँच लें।"
-   },
-   "d": "09.11.2026",
-   "t": "21:45",
-   "img": "photos/2026-11-09-siddipet-rampur-death-certificates.jpg",
-   "imgfy": 0.5,
-   "local": true,
-   "imgfx": 0.72
-  },
-  {
-   "cat": "కార్మికుల సమస్య · మహబూబాబాద్",
-   "col": "--c-job",
-   "art": "economy",
-   "stat": "₹14,000",
-   "statl": "ఇవ్వాల్సిన చోట ₹10,000 లోపే – పంచాయతీ సిబ్బంది ఆవేదన",
-   "h": "జీవో 6 ప్రకారం వేతనాలు ఇవ్వడం లేదు – గ్రామ పంచాయతీ సిబ్బంది ఆవేదన, కార్మిక అధికారికి వినతి",
-   "p": "ప్రభుత్వం జారీ చేసిన G.O.Ms.No.6 (తేదీ 30.05.2026) ప్రకారం గ్రామ పంచాయతీ సిబ్బందికి కనీస వేతనాలు చెల్లించడం లేదని, వెంటనే అమలు చేయాలని కోరుతూ మహబూబాబాద్ జిల్లా బయ్యారం మండలానికి చెందిన చేరాల జలంధర్ జిల్లా కార్మిక అధికారికి వినతిపత్రం సమర్పించారు. ప్రతిని కలెక్టర్, జిల్లా పంచాయతీ అధికారికి కూడా పంపారు. జీవో ప్రకారం Zone-III లో పారిశుద్ధ్య కార్మికులు, వాచ్‌మెన్, ఆఫీస్ అటెండర్లకు ₹14,000, క్లర్క్‌కు ₹15,000, ఎలక్ట్రీషియన్‌కు ₹16,500 ప్రాథమిక వేతనం ఇవ్వాల్సి ఉండగా, ప్రస్తుతం ₹10,000 లోపే చెల్లిస్తున్నారని వినతిలో పేర్కొన్నారు. 01.06.2026 నుంచి జీవో అమలు చేసి పూర్తి వేతనాలు చెల్లించేలా అధికారులను ఆదేశించాలని కోరారు.",
-   "src": "Way2Sec రిపోర్టర్ · బయ్యారం",
-   "url": "",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "mahabubabad",
-   "loc": "బయ్యారం",
-   "pts": [
-    "జీవో 6 (Zone-III): పారిశుద్ధ్య కార్మికుడు, వాచ్‌మెన్, అటెండర్ ₹14,000 · క్లర్క్ ₹15,000 · ఎలక్ట్రీషియన్ ₹16,500",
-    "ఫిర్యాదు ప్రకారం ప్రస్తుతం చెల్లిస్తున్నది ₹10,000 లోపే",
-    "కొత్త కనీస వేతనాలు 01.06.2026 నుంచి అమల్లో",
-    "ప్రతులు: కలెక్టర్, జిల్లా పంచాయతీ అధికారి"
-   ],
-   "why": "ఊరిని శుభ్రంగా ఉంచే, నీళ్లు అందించే పంచాయతీ సిబ్బందికి ప్రభుత్వం నిర్ణయించిన కనీస వేతనం అందాల్సి ఉంది.",
-   "en": {
-    "cat": "Workers' issue · Mahabubabad",
-    "stat": "₹14,000",
-    "statl": "Panchayat staff say they get under ₹10,000",
-    "h": "Panchayat staff not paid as per G.O. 6 – petition to district labour officer",
-    "p": "Cherala Jalandhar of Bayyaram mandal, Mahabubabad district, has submitted a petition to the district labour officer saying gram panchayat staff are not being paid the minimum wages fixed in G.O.Ms.No.6 dated 30.05.2026, with copies to the Collector and the District Panchayat Officer. Under the G.O., Zone-III basic pay is ₹14,000 for sanitation workers, watchmen and office attenders, ₹15,000 for clerks and ₹16,500 for electricians, but the petition says staff are being paid less than ₹10,000. It asks officials to implement the G.O. from 01.06.2026 and pay full wages.",
-    "pts": [
-     "G.O. 6 (Zone-III): sanitation worker, watchman, attender ₹14,000 · clerk ₹15,000 · electrician ₹16,500",
-     "Petition says staff currently get less than ₹10,000",
-     "New minimum wages in force from 01.06.2026",
-     "Copies to the Collector and District Panchayat Officer"
-    ],
-    "why": "Panchayat staff who keep villages clean and run water supply are entitled to the minimum wage the government fixed."
-   },
-   "hi": {
-    "cat": "कर्मचारियों का मुद्दा · महबूबाबाद",
-    "stat": "₹14,000",
-    "statl": "पंचायत कर्मियों को ₹10,000 से भी कम",
-    "h": "जीओ 6 के अनुसार वेतन नहीं – ग्राम पंचायत कर्मियों ने श्रम अधिकारी को सौंपा ज्ञापन",
-    "p": "महबूबाबाद ज़िले के बय्यारम मंडल के चेराला जलंधर ने ज़िला श्रम अधिकारी को ज्ञापन देकर कहा है कि ग्राम पंचायत कर्मियों को 30.05.2026 के G.O.Ms.No.6 में तय न्यूनतम वेतन नहीं दिया जा रहा है; प्रति कलेक्टर और ज़िला पंचायत अधिकारी को भी भेजी गई। जीओ के अनुसार ज़ोन-III में सफ़ाई कर्मी, चौकीदार और ऑफ़िस अटेंडर को ₹14,000, क्लर्क को ₹15,000 और इलेक्ट्रीशियन को ₹16,500 मूल वेतन मिलना चाहिए, जबकि ज्ञापन के अनुसार अभी ₹10,000 से भी कम दिया जा रहा है। 01.06.2026 से जीओ लागू कर पूरा वेतन देने की माँग की गई है।",
-    "pts": [
-     "जीओ 6 (ज़ोन-III): सफ़ाई कर्मी, चौकीदार, अटेंडर ₹14,000 · क्लर्क ₹15,000 · इलेक्ट्रीशियन ₹16,500",
-     "ज्ञापन के अनुसार अभी ₹10,000 से कम",
-     "नया न्यूनतम वेतन 01.06.2026 से लागू",
-     "प्रति: कलेक्टर, ज़िला पंचायत अधिकारी"
-    ],
-    "why": "गाँव साफ़ रखने और पानी पहुँचाने वाले पंचायत कर्मियों को सरकार का तय न्यूनतम वेतन मिलना चाहिए।"
-   },
-   "d": "09.11.2026",
-   "t": "21:30",
-   "img": "photos/2026-11-09-gp-staff-wages-go6.jpg",
-   "imgfy": 0.4,
-   "local": true
-  },
-  {
-   "cat": "ప్రత్యేక కథనం · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "18%",
-   "statl": "చైనాలో 16–24 ఏళ్ల యువత నిరుద్యోగం",
-   "h": "చైనాలో చదువుకున్న యువతకు ఉద్యోగాలు కరువు – భారత్‌కు హెచ్చరిక: శ్రీధర్ వెంబు",
-   "p": "చైనాలో యువత నిరుద్యోగం ఆందోళనకర స్థాయిలో ఉంది. చైనా నేషనల్ బ్యూరో ఆఫ్ స్టాటిస్టిక్స్ ప్రకారం సెప్టెంబర్‌లో 16–24 ఏళ్ల యువతలో (విద్యార్థులు మినహా) నిరుద్యోగం 18%; ఆగస్టులో ఇది 18.9%తో ఈ ఏడాది గరిష్ఠానికి చేరింది. 25–29 ఏళ్ల వారిలో 7.4%, మొత్తం పట్టణ నిరుద్యోగం 5.2%. ఈ ఏడాది రికార్డు స్థాయిలో 1.27 కోట్ల మంది గ్రాడ్యుయేట్లు ఉద్యోగ వేటలోకి వచ్చారు. “చదవండి, మంచి ఉద్యోగం పొందండి, తల్లిదండ్రుల కంటే ధనవంతులవ్వండి – ఆ ఒప్పందం విరిగిపోతోంది” అన్న ఓ X పోస్ట్‌ను ఉటంకిస్తూ జోహో వ్యవస్థాపకులు శ్రీధర్ వెంబు స్పందించారు. ప్రపంచ కర్మాగారంగా, భారీ వాణిజ్య మిగులు ఉన్న చైనా కూడా చదువుకున్న యువతకు ఉద్యోగాలు ఇవ్వలేకపోతోందని, 20–24 ఏళ్ల నిరుద్యోగుల్లో దాదాపు 70% మంది డిగ్రీ చదివినవారేనని అన్నారు. ‘స్థిర జీతం’ ఉద్యోగాలు ఆటోమేషన్, AI వల్ల ఒత్తిడిలో ఉన్నాయని, సమస్య మరింత పెరుగుతుందని హెచ్చరించారు. వ్యాపారం, స్వయం ఉపాధి భారీగా పెరగడమే పరిష్కారమని, భారత విధాన నిర్ణేతలు దీన్ని గమనించాలని సూచించారు.",
-   "src": "చైనా NBS · శ్రీధర్ వెంబు (X) · Way2Sec విశ్లేషణ",
-   "url": "",
-   "sec": [
-    "world",
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "loc": "చైనా",
-   "pts": [
-    "సెప్టెంబర్ 2026: 16–24 ఏళ్లు 18% · 25–29 ఏళ్లు 7.4% · పట్టణ నిరుద్యోగం 5.2% (అధికారిక)",
-    "2026లో రికార్డు స్థాయిలో 1.27 కోట్ల గ్రాడ్యుయేట్లు",
-    "శ్రీధర్ వెంబు: పరిష్కారం వ్యాపారం, స్వయం ఉపాధి – భారత్ గమనించాలి",
-    "గమనిక: X పోస్ట్‌లోని ‘3.7 కోట్ల తక్కువ ఉద్యోగాలు’, ‘అసలు నిరుద్యోగం 10%’, ‘32 కోట్ల గిగ్ కార్మికులు’ వంటి అంచనాలు అధికారికంగా ధృవీకరించినవి కావు"
-   ],
-   "why": "భారత్‌లోనూ ఏటా లక్షలాది గ్రాడ్యుయేట్లు ఉద్యోగ వేటలోకి వస్తున్నారు; AI ప్రభావం, నైపుణ్యాలు, స్వయం ఉపాధిపై ఇప్పుడే దృష్టి పెట్టాలన్నది ఈ చర్చ సారాంశం.",
-   "en": {
-    "cat": "Special story · Jobs",
-    "stat": "18%",
-    "statl": "Youth unemployment (16–24) in China",
-    "h": "China's educated youth struggle for jobs – a warning for India, says Sridhar Vembu",
-    "p": "Youth unemployment in China remains high. According to China's National Bureau of Statistics, the jobless rate for 16–24-year-olds (excluding students) was 18% in September, after hitting a 2026 high of 18.9% in August. It was 7.4% for 25–29-year-olds, and overall urban unemployment was 5.2%. A record 12.7 million graduates entered the job market this year. Quoting an X post that said 'Study hard, get a good job, become richer than your parents – that deal is breaking', Zoho founder Sridhar Vembu said that China, the factory of the world with a huge trade surplus, cannot create jobs for a big share of its college-educated youth, and that about 70% of unemployed 20–24-year-olds hold university degrees. He said 'steady paycheck' jobs are under pressure from automation and AI and the problem will get worse. The solution, he said, is a dramatic rise in entrepreneurship and self-employment, and Indian policymakers must pay heed.",
-    "pts": [
-     "Sept 2026: 16–24 yrs 18% · 25–29 yrs 7.4% · urban rate 5.2% (official)",
-     "Record 12.7 million graduates in 2026",
-     "Sridhar Vembu: the answer is entrepreneurship and self-employment – India must take note",
-     "Note: claims in the X post such as '37 million fewer jobs', 'real unemployment near 10%' and '320 million gig workers' are not officially verified"
-    ],
-    "why": "India also adds millions of graduates every year; the debate is about preparing now for AI, skills and self-employment."
-   },
-   "hi": {
-    "cat": "विशेष रिपोर्ट · नौकरियाँ",
-    "stat": "18%",
-    "statl": "चीन में 16–24 वर्ष के युवाओं की बेरोज़गारी",
-    "h": "चीन में पढ़े-लिखे युवाओं को नौकरियाँ नहीं – भारत के लिए चेतावनी: श्रीधर वेम्बु",
-    "p": "चीन में युवा बेरोज़गारी ऊँचे स्तर पर है। चीन के राष्ट्रीय सांख्यिकी ब्यूरो के अनुसार सितंबर में 16–24 वर्ष के युवाओं (छात्रों को छोड़कर) की बेरोज़गारी दर 18% रही, जो अगस्त में 18.9% के साथ इस साल के उच्चतम स्तर पर थी। 25–29 वर्ष के लिए यह 7.4% और कुल शहरी बेरोज़गारी 5.2% रही। इस साल रिकॉर्ड 1.27 करोड़ स्नातक नौकरी की तलाश में उतरे। 'पढ़ो, अच्छी नौकरी पाओ, माता-पिता से ज़्यादा अमीर बनो – वह वादा टूट रहा है' वाली एक X पोस्ट का हवाला देते हुए ज़ोहो के संस्थापक श्रीधर वेम्बु ने कहा कि दुनिया का कारख़ाना और भारी व्यापार अधिशेष वाला चीन भी अपने पढ़े-लिखे युवाओं के लिए नौकरियाँ नहीं बना पा रहा है, और 20–24 वर्ष के लगभग 70% बेरोज़गार डिग्रीधारी हैं। उन्होंने कहा कि 'स्थिर वेतन' वाली नौकरियाँ ऑटोमेशन और एआई के दबाव में हैं, समाधान उद्यमिता और स्वरोज़गार में तेज़ बढ़ोतरी है, और भारत के नीति-निर्माताओं को इस पर ध्यान देना चाहिए।",
-    "pts": [
-     "सितंबर 2026: 16–24 वर्ष 18% · 25–29 वर्ष 7.4% · शहरी दर 5.2% (आधिकारिक)",
-     "2026 में रिकॉर्ड 1.27 करोड़ स्नातक",
-     "श्रीधर वेम्बु: समाधान उद्यमिता और स्वरोज़गार – भारत ध्यान दे",
-     "ध्यान दें: X पोस्ट के '3.7 करोड़ कम नौकरियाँ', 'असली बेरोज़गारी 10%', '32 करोड़ गिग वर्कर' जैसे दावे आधिकारिक रूप से पुष्ट नहीं हैं"
-    ],
-    "why": "भारत में भी हर साल लाखों स्नातक नौकरी की तलाश में आते हैं; यह बहस एआई, कौशल और स्वरोज़गार की तैयारी अभी से करने की है।"
-   },
-   "d": "09.11.2026",
-   "t": "18:20",
-   "img": "photos/2026-11-09-china-youth-unemployment.jpg",
-   "imgfy": 0.4,
-   "imgfx": 0.5,
-   "local": true,
-   "_sid": "m7arpl"
   }
  ]
 }
