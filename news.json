@@ -1,8 +1,157 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T09:09:05+05:30",
+ "updated": "2026-11-11T09:38:57+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · పట్టణాభివృద్ధి",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "6",
+   "statl": "ఏపీకి స్వచ్ఛ సర్వేక్షణ్ అవార్డులు",
+   "h": "స్వచ్ఛ సర్వేక్షణ్‌లో ఏపీకి 6 అవార్డులు: నేడు ఢిల్లీలో ప్రదానం",
+   "p": "స్వచ్ఛ సర్వేక్షణ్‌లో ఆంధ్రప్రదేశ్‌కు ఆరు అవార్డులు వచ్చాయి. విజయవాడ, గుంటూరు, తిరుపతి కార్పొరేషన్లు సూపర్ స్వచ్ఛ లీగ్‌లో నిలిచాయి. రాజమహేంద్రవరానికి ప్రామిసింగ్ స్వచ్ఛ షహర్, జీవీఎంసీకి సఫాయి మిత్ర సురక్షిత్ షహర్, కుప్పానికి స్వచ్ఛ సిటీ అవార్డు దక్కాయి. బుధవారం ఢిల్లీ విజ్ఞాన్ భవన్‌లో రాష్ట్రపతి ద్రౌపది ముర్ము అందించే అవార్డులను మంత్రి నారాయణ స్వీకరిస్తారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/ap-wins-swachh-survekshan-awards-minister-narayana-to-receive-award-today-1141040",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "విజయవాడ, గుంటూరు, తిరుపతికి సూపర్ స్వచ్ఛ లీగ్ గుర్తింపు",
+    "జీవీఎంసీకి పారిశుద్ధ్య కార్మికుల భద్రత విభాగంలో అవార్డు",
+    "20 వేల లోపు జనాభా విభాగంలో కుప్పానికి అవార్డు"
+   ],
+   "why": "ఈ నగరాలు, పట్టణాల్లో పరిశుభ్రత కోసం చేసిన పనికి జాతీయ గుర్తింపు లభించింది.",
+   "pub": "2026-11-11T09:25+05:30",
+   "en": {
+    "h": "AP wins 6 Swachh Survekshan awards; to be presented in Delhi today",
+    "p": "Andhra Pradesh has won six Swachh Survekshan awards. Vijayawada, Guntur and Tirupati corporations were placed in the Super Swachh League. Rajamahendravaram won Promising Swachh Shehar, GVMC won Safai Mitra Surakshit Shehar and Kuppam won a Swachh City award. Minister P Narayana will receive the awards from President Droupadi Murmu at Vigyan Bhawan, Delhi, on Wednesday.",
+    "pts": [
+     "Vijayawada, Guntur, Tirupati in Super Swachh League",
+     "GVMC award for sanitation workers' safety",
+     "Kuppam award in under-20,000 population category"
+    ],
+    "why": "These cities and towns get national recognition for their cleanliness work.",
+    "cat": "AP · Urban Development",
+    "statl": "Swachh Survekshan awards for AP"
+   },
+   "hi": {
+    "h": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को 6 पुरस्कार, आज दिल्ली में सम्मान",
+    "p": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को छह पुरस्कार मिले हैं। विजयवाड़ा, गुंटूर और तिरुपति नगर निगम सुपर स्वच्छ लीग में रहे। राजमहेंद्रवरम को प्रॉमिसिंग स्वच्छ शहर, जीवीएमसी को सफाई मित्र सुरक्षित शहर और कुप्पम को स्वच्छ सिटी पुरस्कार मिला। बुधवार को दिल्ली के विज्ञान भवन में राष्ट्रपति द्रौपदी मुर्मू से मंत्री पी. नारायण पुरस्कार लेंगे।",
+    "pts": [
+     "विजयवाड़ा, गुंटूर, तिरुपति सुपर स्वच्छ लीग में",
+     "सफाई कर्मियों की सुरक्षा श्रेणी में जीवीएमसी को पुरस्कार",
+     "20 हजार से कम आबादी श्रेणी में कुप्पम को पुरस्कार"
+    ],
+    "why": "इन शहरों और कस्बों को स्वच्छता के काम के लिए राष्ट्रीय पहचान मिली है।",
+    "cat": "आंध्र प्रदेश · शहरी विकास",
+    "statl": "आंध्र प्रदेश को स्वच्छ सर्वेक्षण पुरस्कार"
+   },
+   "d": "11.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ఏపీ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "13న",
+   "statl": "బంగాళాఖాతంలో అల్పపీడనం అంచనా",
+   "h": "ఏపీకి వర్ష సూచన, తెలంగాణలో మరింత చలి: 13న అల్పపీడనం",
+   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13న అల్పపీడనం ఏర్పడి, బలపడి వాయుగుండంగా మారి 18–19 నాటికి ఉత్తర తమిళనాడు తీరానికి చేరవచ్చని వాతావరణ శాఖ తెలిపింది. దీంతో దక్షిణ కోస్తా, రాయలసీమలో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు. తెలంగాణలో సుమారు 16 జిల్లాల్లో రాత్రి ఉష్ణోగ్రతలు 14.7–15 డిగ్రీలు నమోదయ్యాయి. తీరంలో గాలుల వల్ల మత్స్యకారులు వేటకు వెళ్లొద్దని సూచించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/rain-forecast-for-ap-as-telangana-turns-colder-1141039",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "18–19 నాటికి తమిళనాడు తీరానికి వాయుగుండం అంచనా",
+    "ఆదిలాబాద్ జిల్లా నేరడుగొండలో కనిష్ఠం 14.7 డిగ్రీలు",
+    "తీరంలో గంటకు 40–50 కి.మీ. గాలులు"
+   ],
+   "why": "దక్షిణ కోస్తా, రాయలసీమ రైతులు, మత్స్యకారులు, తెలంగాణలో చలికి గురయ్యేవారు జాగ్రత్తగా ఉండాలి.",
+   "pub": "2026-11-11T09:23+05:30",
+   "en": {
+    "h": "Rain forecast for AP, colder days for Telangana; low pressure on Nov 13",
+    "p": "The Meteorological Department said a low pressure area is likely over the south-east Bay of Bengal on November 13, which may intensify into a depression and reach the north Tamil Nadu coast by November 18–19. South coastal AP and Rayalaseema may get light to moderate rain. In Telangana, about 16 districts recorded night temperatures of 14.7–15°C. Fishermen were told not to venture into the sea due to coastal winds.",
+    "pts": [
+     "Depression likely to reach Tamil Nadu coast by Nov 18–19",
+     "Lowest 14.7°C at Neredugonda, Adilabad district",
+     "Coastal winds of 40–50 km/h"
+    ],
+    "why": "Farmers and fishermen in south coastal AP and Rayalaseema, and people facing the cold in Telangana, should take care.",
+    "cat": "AP · Weather",
+    "statl": "Low pressure expected in Bay of Bengal"
+   },
+   "hi": {
+    "h": "आंध्र में बारिश का अनुमान, तेलंगाना में और ठंड; 13 को कम दबाव",
+    "p": "मौसम विभाग ने कहा कि 13 नवंबर को दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव का क्षेत्र बन सकता है, जो अवदाब बनकर 18–19 नवंबर तक उत्तरी तमिलनाडु तट तक पहुंच सकता है। दक्षिण तटीय आंध्र और रायलसीमा में हल्की से मध्यम बारिश हो सकती है। तेलंगाना के करीब 16 जिलों में रात का तापमान 14.7–15 डिग्री रहा। तटीय हवाओं के कारण मछुआरों को समुद्र में न जाने की सलाह दी गई।",
+    "pts": [
+     "18–19 नवंबर तक तमिलनाडु तट पर अवदाब का अनुमान",
+     "आदिलाबाद जिले के नेरडुगोंडा में न्यूनतम 14.7 डिग्री",
+     "तट पर 40–50 किमी प्रति घंटा की हवाएं"
+    ],
+    "why": "दक्षिण तटीय आंध्र और रायलसीमा के किसानों, मछुआरों और तेलंगाना में ठंड झेल रहे लोगों को सावधान रहना चाहिए।",
+    "cat": "आंध्र प्रदेश · मौसम",
+    "statl": "बंगाल की खाड़ी में कम दबाव का अनुमान"
+   },
+   "d": "11.11.2026",
+   "t": "09:35"
+  },
+  {
+   "cat": "ప్రపంచం · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "$92.20",
+   "statl": "బ్రెంట్ ముడి చమురు బ్యారెల్ ధర",
+   "h": "హార్మూజ్‌లో నౌకలపై దాడులు: మళ్లీ పెరిగిన ముడి చమురు ధర",
+   "p": "రెండు నెలల కనిష్ఠం నుంచి బుధవారం చమురు ధర పెరిగింది. బ్రెంట్ 0.78% పెరిగి బ్యారెల్ 92.20 డాలర్లకు, డబ్ల్యూటీఐ 86.53 డాలర్లకు చేరింది. ఇరాన్ యుద్ధంలో ఉద్రిక్తత తగ్గుతుందన్న ఆశలు ఉన్నా, హార్మూజ్ జలసంధిలో నౌకలపై దాడులు కొనసాగడం ధరను పెంచిందని రాయిటర్స్ తెలిపింది. అక్టోబర్‌లో ఆ ప్రాంతంలో 37 నౌకలపై దాడులు జరిగాయని ఒక అధ్యయన సంస్థ లెక్కించింది.",
+   "src": "Reuters (via Business Recorder)",
+   "url": "https://www.brecorder.com/news/40448385/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "బ్రెంట్ 0.78% పెరిగి 92.20 డాలర్లు",
+    "నవంబర్‌లో ఇప్పటివరకు 10 దాడులు",
+    "చర్చలు జరగడం లేదని ఇరాన్ భద్రతా అధికారి ప్రకటన"
+   ],
+   "why": "ముడి చమురు ధర పెరిగితే భారత్‌లో ఇంధనం, రవాణా ఖర్చులపై ప్రభావం పడొచ్చు.",
+   "pub": "2026-11-11T08:16+05:30",
+   "en": {
+    "h": "Hormuz shipping attacks push crude oil prices up again",
+    "p": "Oil rose on Wednesday from a two-month low. Brent gained 0.78% to $92.20 a barrel and WTI was at $86.53. Reuters said hopes of de-escalation in the Iran war were offset by continuing attacks on ships in the Strait of Hormuz. A research institute counted 37 ships attacked in the area in October.",
+    "pts": [
+     "Brent up 0.78% to $92.20",
+     "10 attacks so far in November",
+     "Iranian security official said no talks under way"
+    ],
+    "why": "Higher crude prices can affect fuel and transport costs in India.",
+    "cat": "World · Business",
+    "statl": "Brent crude price per barrel"
+   },
+   "hi": {
+    "h": "होर्मुज में जहाजों पर हमले: कच्चे तेल के दाम फिर बढ़े",
+    "p": "बुधवार को तेल के दाम दो महीने के निचले स्तर से चढ़े। ब्रेंट 0.78% बढ़कर 92.20 डॉलर प्रति बैरल और डब्ल्यूटीआई 86.53 डॉलर पर रहा। रॉयटर्स के अनुसार ईरान युद्ध में तनाव घटने की उम्मीदों के बावजूद होर्मुज जलडमरूमध्य में जहाजों पर जारी हमलों से दाम बढ़े। एक शोध संस्था के मुताबिक अक्टूबर में वहां 37 जहाजों पर हमले हुए।",
+    "pts": [
+     "ब्रेंट 0.78% बढ़कर 92.20 डॉलर",
+     "नवंबर में अब तक 10 हमले",
+     "ईरानी सुरक्षा अधिकारी: कोई बातचीत नहीं हो रही"
+    ],
+    "why": "कच्चा तेल महंगा होने से भारत में ईंधन और परिवहन लागत पर असर पड़ सकता है।",
+    "cat": "विश्व · व्यापार",
+    "statl": "ब्रेंट कच्चे तेल का प्रति बैरल दाम"
+   },
+   "d": "11.11.2026",
+   "t": "09:35"
+  },
   {
    "cat": "తెలంగాణ · ఆరోగ్యం",
    "col": "--c-gov",
@@ -2195,157 +2344,6 @@
     "why": "संगठनों के नाम पर धमकाए जाने वाले छोटे व्यापारी पुलिस से शिकायत कर सकते हैं।",
     "cat": "वनपर्ती · अपराध",
     "statl": "होटल मालिक से कथित वसूली"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "సూర్యాపేట · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹1,000",
-   "statl": "క్వింటాకు ధర తగ్గిందని ఆరోపణ",
-   "h": "ధాన్యం కొనుగోళ్లలో రైతుల దోపిడీ: మాజీ ఎమ్మెల్యే బొల్లం మల్లయ్య ఆరోపణ",
-   "p": "సూర్యాపేట జిల్లా చిలుకూరు మండలంలో కొనుగోలు కేంద్రాలను పరిశీలించిన కోదాడ మాజీ ఎమ్మెల్యే బొల్లం మల్లయ్య యాదవ్, దళారులు, వ్యాపారులు రైతులను దోపిడీ చేస్తున్నారని ఆరోపించారు. తూకంలో బస్తాకు 2.5 కిలోలు తరుగు తీస్తున్నారని, క్వింటా ధర సుమారు ₹4,200 నుంచి ₹3,200కు పడిపోయిందని అన్నారు. యూరియా కొరత ఉందని కూడా ఆరోపించారని నమస్తే తెలంగాణ కథనం.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/farmers-face-exploitation-in-paddy-procurement-says-former-mla-2557235",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "suryapet",
-   "loc": "చిలుకూరు",
-   "pub": "2026-11-11T02:05+05:30",
-   "pts": [
-    "బస్తాకు 2.5 కిలోల తరుగు తీస్తున్నారని ఆరోపణ",
-    "క్వింటా ధర ₹1,000 తగ్గిందని వ్యాఖ్య",
-    "యూరియా కొరత ఉందని ఆరోపణ"
-   ],
-   "why": "ధాన్యం అమ్ముతున్న సూర్యాపేట జిల్లా రైతుల ఆదాయానికి సంబంధించిన అంశం.",
-   "en": {
-    "h": "Farmers exploited in paddy procurement, alleges ex-MLA Bollam Mallaiah",
-    "p": "Former Kodad MLA Bollam Mallaiah Yadav, who inspected procurement centres in Chilukur mandal of Suryapet district, alleged that middlemen and traders are exploiting farmers. He said 2.5 kg per bag is deducted during weighing and the price per quintal fell from about Rs 4,200 to Rs 3,200. He also alleged a urea shortage, Namasthe Telangana reported.",
-    "pts": [
-     "Alleges 2.5 kg per bag deducted in weighing",
-     "Says price per quintal fell by Rs 1,000",
-     "Alleges urea shortage"
-    ],
-    "why": "The issue concerns the income of Suryapet district farmers selling paddy.",
-    "cat": "Suryapet · Agriculture",
-    "statl": "Alleged fall in price per quintal"
-   },
-   "hi": {
-    "h": "धान खरीद में किसानों का शोषण: पूर्व विधायक बोल्लम मल्लैया का आरोप",
-    "p": "सूर्यापेट जिले के चिलुकूर मंडल में खरीद केंद्रों का निरीक्षण करने वाले कोदाड के पूर्व विधायक बोल्लम मल्लैया यादव ने आरोप लगाया कि बिचौलिए और व्यापारी किसानों का शोषण कर रहे हैं। उन्होंने कहा कि तौल में प्रति बोरी 2.5 किलो काटा जा रहा है और प्रति क्विंटल कीमत करीब ₹4,200 से घटकर ₹3,200 हो गई। नमस्ते तेलंगाना के अनुसार उन्होंने यूरिया की कमी का भी आरोप लगाया।",
-    "pts": [
-     "तौल में प्रति बोरी 2.5 किलो कटौती का आरोप",
-     "प्रति क्विंटल ₹1,000 कीमत घटने की बात",
-     "यूरिया की कमी का आरोप"
-    ],
-    "why": "यह धान बेच रहे सूर्यापेट जिले के किसानों की आय से जुड़ा मुद्दा है।",
-    "cat": "सूर्यापेट · कृषि",
-    "statl": "प्रति क्विंटल कथित गिरावट"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "నల్గొండ · అదృశ్యం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "కనగల్",
-   "statl": "యువతి అదృశ్యమైన మండలం",
-   "h": "నల్గొండ జిల్లాలో యువతి అదృశ్యం: కుటుంబానికి కేటీఆర్ ఫోన్‌లో పరామర్శ",
-   "p": "నల్గొండ జిల్లా కనగల్ మండలానికి చెందిన ఓ యువతి అదృశ్యమైన ఘటనపై బీఆర్‌ఎస్ కార్యనిర్వాహక అధ్యక్షుడు కేటీఆర్ మంగళవారం ఆమె తండ్రికి ఫోన్ చేసి అండగా ఉంటామని హామీ ఇచ్చారని నమస్తే తెలంగాణ కథనం. పోలీసులకు ఫిర్యాదు చేసినా ఆచూకీ దొరకలేదని కుటుంబసభ్యులు తెలిపారు. ఈ విషయమై స్థానిక అధికారులతో మాట్లాడతానని కేటీఆర్ చెప్పారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/ktr-assures-support-to-family-of-missing-girl-in-nalgonda-2557146",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "కనగల్",
-   "pub": "2026-11-11T01:11+05:30",
-   "pts": [
-    "పోలీసులకు ఫిర్యాదు చేసినా ఆచూకీ లేదని కుటుంబం",
-    "స్థానిక అధికారులతో మాట్లాడతానన్న కేటీఆర్",
-    "మాజీ ఎమ్మెల్యే కంచర్ల భూపాల్ రెడ్డి గ్రామ సందర్శన"
-   ],
-   "why": "అదృశ్య కేసుల్లో వేగవంతమైన దర్యాప్తు అవసరాన్ని ఈ ఘటన చూపుతోంది.",
-   "en": {
-    "h": "Young woman missing in Nalgonda district; KTR calls family",
-    "p": "BRS working president KTR phoned the father of a young woman from Kanagal mandal in Nalgonda district who has gone missing, and assured support on Tuesday, Namasthe Telangana reported. Family members said she has not been traced despite a complaint to police. KTR said he would speak to local officials about the matter.",
-    "pts": [
-     "Family says no trace despite police complaint",
-     "KTR says he will speak to local officials",
-     "Ex-MLA Kancherla Bhupal Reddy visited the village"
-    ],
-    "why": "The case shows the need for swift investigation of missing-person complaints.",
-    "cat": "Nalgonda · Missing",
-    "statl": "Mandal where the woman went missing"
-   },
-   "hi": {
-    "h": "नलगोंडा जिले में युवती लापता: केटीआर ने परिवार से फोन पर बात की",
-    "p": "नमस्ते तेलंगाना के अनुसार, बीआरएस कार्यकारी अध्यक्ष केटीआर ने मंगलवार को नलगोंडा जिले के कनगल मंडल की लापता युवती के पिता को फोन कर मदद का भरोसा दिया। परिवार ने कहा कि पुलिस में शिकायत के बावजूद उसका पता नहीं चला। केटीआर ने कहा कि वे इस बारे में स्थानीय अधिकारियों से बात करेंगे।",
-    "pts": [
-     "पुलिस शिकायत के बावजूद पता नहीं: परिवार",
-     "स्थानीय अधिकारियों से बात करेंगे केटीआर",
-     "पूर्व विधायक कंचरला भूपाल रेड्डी गांव पहुंचे"
-    ],
-    "why": "यह मामला लापता लोगों की शिकायतों में तेज जांच की जरूरत दिखाता है।",
-    "cat": "नलगोंडा · लापता",
-    "statl": "वह मंडल जहां युवती लापता हुई"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "వరంగల్ · భూములు",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "14.37 ఎ.",
-   "statl": "మిగులు భూమిగా పేర్కొన్న విస్తీర్ణం",
-   "h": "వరంగల్ వైఎస్‌ఆర్ నగర్‌లో ఇళ్ల కూల్చివేత: పాత రికార్డులపై ప్రశ్నలు",
-   "p": "వరంగల్ వైఎస్‌ఆర్ నగర్ కాలనీలో పేదల ఇళ్లను కూల్చివేస్తున్నారని నమస్తే తెలంగాణ కథనం. అది ప్రైవేట్ పట్టా భూమి అని, రికార్డులు లేవని రెవెన్యూ, పోలీసు అధికారులు చెబుతున్నారని పత్రిక పేర్కొంది. అయితే పట్టణ భూగరిష్ఠ పరిమితి చట్టం కింద ఆ భూమిని మిగులు భూమిగా గుర్తించారని, 1995లో సుమారు 14.37 ఎకరాలు స్వాధీనం చేసుకోవాలని హైకోర్టు ఆదేశించిందని పత్రిక పేర్కొంది. ఇవి పత్రిక కథనంలోని అంశాలు.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/warangal-ysr-nagar-land-dispute-old-records-raise-questions-over-demolition-of-poor-peoples-homes-2557174",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "warangal",
-   "loc": "వైఎస్‌ఆర్ నగర్",
-   "pub": "2026-11-11T03:24+05:30",
-   "pts": [
-    "ప్రైవేట్ పట్టా భూమి అని అధికారులు చెబుతున్నారని కథనం",
-    "మిగులు భూమిగా గుర్తించారని పత్రిక పేర్కొంది",
-    "1995 హైకోర్టు ఆదేశాన్ని ప్రస్తావించిన కథనం"
-   ],
-   "why": "ఇళ్లు కోల్పోతున్న వైఎస్‌ఆర్ నగర్ పేద కుటుంబాలకు భూమి హక్కుల స్పష్టత అవసరం.",
-   "en": {
-    "h": "Homes demolished in Warangal's YSR Nagar: old records raise questions",
-    "p": "Homes of poor residents are being demolished in YSR Nagar colony in Warangal, Namasthe Telangana reported. The paper says revenue and police officials claim the site is private patta land with no records. But it says the land was declared surplus under the Urban Land Ceiling Act and that the High Court in 1995 ordered about 14.37 acres to be taken over. These are points made in the paper's report.",
-    "pts": [
-     "Officials say it is private patta land, report says",
-     "Paper says land was declared surplus",
-     "Report cites a 1995 High Court order"
-    ],
-    "why": "Poor families losing homes in YSR Nagar need clarity on land rights.",
-    "cat": "Warangal · Land",
-    "statl": "Area described as surplus land"
-   },
-   "hi": {
-    "h": "वरंगल के वाईएसआर नगर में घर गिराए गए: पुराने रिकॉर्ड पर सवाल",
-    "p": "नमस्ते तेलंगाना के अनुसार, वरंगल की वाईएसआर नगर कॉलोनी में गरीबों के घर गिराए जा रहे हैं। अखबार कहता है कि राजस्व और पुलिस अधिकारी इसे निजी पट्टा जमीन बताते हैं और रिकॉर्ड नहीं होने की बात कहते हैं। लेकिन अखबार के अनुसार शहरी भूमि सीमा कानून के तहत इसे अतिरिक्त भूमि घोषित किया गया था और 1995 में हाईकोर्ट ने करीब 14.37 एकड़ अपने कब्जे में लेने का आदेश दिया था। ये अखबार की रिपोर्ट के बिंदु हैं।",
-    "pts": [
-     "अधिकारी इसे निजी पट्टा जमीन बताते हैं: रिपोर्ट",
-     "अखबार के अनुसार अतिरिक्त भूमि घोषित",
-     "रिपोर्ट में 1995 के हाईकोर्ट आदेश का जिक्र"
-    ],
-    "why": "घर खो रहे वाईएसआर नगर के गरीब परिवारों को भूमि अधिकारों पर स्पष्टता चाहिए।",
-    "cat": "वरंगल · भूमि",
-    "statl": "अतिरिक्त भूमि बताया गया क्षेत्र"
    },
    "d": "11.11.2026",
    "t": "06:35"
