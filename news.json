@@ -1,8 +1,210 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T17:42:17+05:30",
+ "updated": "2026-11-11T18:09:46+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "నల్గొండ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹2,461",
+   "statl": "ఏ గ్రేడ్ ధాన్యం మద్దతు ధర",
+   "h": "పరడలో ధాన్యం కొనుగోలు కేంద్రం ప్రారంభం: దళారులకు అమ్మొద్దని సూచన",
+   "p": "నల్గొండ జిల్లా కట్టంగూర్ మండలం పరడ గ్రామంలో ఎన్‌డీసీఎంఎస్ ఆధ్వర్యంలోని ధాన్యం కొనుగోలు కేంద్రాన్ని నకిరేకల్ ఏఎంసీ చైర్‌పర్సన్ గుత్తా మంజుల మాధవరెడ్డి బుధవారం ప్రారంభించారు. రైతులు దళారులకు కాకుండా నేరుగా కొనుగోలు కేంద్రాల్లోనే ధాన్యం అమ్ముకోవాలని ఆమె సూచించారు. ఏ గ్రేడ్‌కు ₹2,461, బీ గ్రేడ్‌కు ₹2,441 మద్దతు ధర ఉందని తెలిపారు. కొన్న ధాన్యాన్ని వెంటనే మిల్లులకు తరలించాలని, రైతులకు సౌకర్యాలు కల్పించాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/farmers-should-make-good-use-of-the-procurement-centers-2557698",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "పరడ, కట్టంగూర్",
+   "pts": [
+    "ఎన్‌డీసీఎంఎస్ కొనుగోలు కేంద్రం ప్రారంభం",
+    "ఏ గ్రేడ్ ₹2,461, బీ గ్రేడ్ ₹2,441 మద్దతు ధర",
+    "ధాన్యాన్ని వెంటనే మిల్లులకు తరలించాలని సూచన"
+   ],
+   "why": "కట్టంగూర్ మండల రైతులు మద్దతు ధరకు ధాన్యం అమ్ముకునే అవకాశం దగ్గరలోనే లభిస్తుంది.",
+   "pub": "2026-11-11T17:45+05:30",
+   "en": {
+    "h": "Paddy procurement centre opened at Parada; farmers told not to sell to middlemen",
+    "p": "Nakrekal AMC chairperson Gutta Manjula Madhava Reddy on Wednesday opened a paddy procurement centre run under the NDCMS at Parada village in Kattangur mandal of Nalgonda district. She urged farmers to sell their grain directly at the procurement centres instead of to middlemen. She said the support price is ₹2,461 for Grade A and ₹2,441 for Grade B. She asked that purchased grain be moved to millers promptly and that farmers be given facilities.",
+    "pts": [
+     "NDCMS procurement centre opened",
+     "Support price ₹2,461 Grade A, ₹2,441 Grade B",
+     "Purchased grain to be moved to mills promptly"
+    ],
+    "why": "Kattangur mandal farmers get a nearby place to sell paddy at the support price.",
+    "cat": "Nalgonda · Agriculture",
+    "statl": "Support price, Grade A paddy"
+   },
+   "hi": {
+    "h": "परडा में धान खरीद केंद्र शुरू: किसानों से बिचौलियों को न बेचने की अपील",
+    "p": "नकरेकल एएमसी अध्यक्ष गुत्ता मंजुला माधव रेड्डी ने बुधवार को नलगोंडा जिले के कट्टंगूर मंडल के परडा गांव में एनडीसीएमएस के तहत धान खरीद केंद्र का उद्घाटन किया। उन्होंने किसानों से बिचौलियों के बजाय सीधे खरीद केंद्रों पर धान बेचने को कहा। उन्होंने बताया कि ए ग्रेड का समर्थन मूल्य ₹2,461 और बी ग्रेड का ₹2,441 है। उन्होंने खरीदा गया धान तुरंत मिलों तक पहुंचाने और किसानों को सुविधाएं देने को कहा।",
+    "pts": [
+     "एनडीसीएमएस खरीद केंद्र शुरू",
+     "ए ग्रेड ₹2,461, बी ग्रेड ₹2,441 समर्थन मूल्य",
+     "खरीदा धान तुरंत मिलों तक भेजने का निर्देश"
+    ],
+    "why": "कट्टंगूर मंडल के किसानों को समर्थन मूल्य पर धान बेचने की सुविधा पास में मिलेगी।",
+    "cat": "नलगोंडा · कृषि",
+    "statl": "ए ग्रेड धान का समर्थन मूल्य"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "భద్రాచలం · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹5 లక్షలు",
+   "statl": "సీఎం సహాయ నిధి నుంచి కోరిన సాయం",
+   "h": "నిమ్స్‌లో చికిత్స పొందుతున్న మహిళకు ₹5 లక్షల ఎల్‌ఓసీ: సీఎంకు భద్రాచలం ఎమ్మెల్యే లేఖ",
+   "p": "వెంకటాపురం మండలం వీఆర్ పురం గ్రామానికి చెందిన ఓ మహిళ మయోసైటిస్ వ్యాధితో హైదరాబాద్ నిమ్స్‌లో చికిత్స పొందుతున్నారు. ఆమె వైద్యం కోసం సీఎం సహాయ నిధి నుంచి ₹5 లక్షల లెటర్ ఆఫ్ క్రెడిట్ (ఎల్‌ఓసీ) మంజూరు చేయాలని భద్రాచలం ఎమ్మెల్యే డాక్టర్ తెల్లం వెంకట్రావు ముఖ్యమంత్రి రేవంత్ రెడ్డికి లేఖ రాశారు. ఎమ్మెల్యే చొరవను స్థానికులు స్వాగతించారు.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/khammam/bhadrachalam-mla-dr-tellam-venkata-rao-letter-to-cm-revanth-reddy-5-lakhs-211693",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "వెంకటాపురం",
+   "pts": [
+    "మయోసైటిస్‌తో నిమ్స్‌లో మహిళకు చికిత్స",
+    "సీఎం సహాయ నిధి నుంచి ₹5 లక్షల ఎల్‌ఓసీ కోరిన ఎమ్మెల్యే",
+    "ఎమ్మెల్యే చొరవను స్వాగతించిన స్థానికులు"
+   ],
+   "why": "ఖరీదైన వైద్యం అవసరమైన పేద కుటుంబాలకు సీఎం సహాయ నిధి ఎల్‌ఓసీ ఆసరాగా నిలుస్తుంది.",
+   "pub": "2026-11-11T17:53+05:30",
+   "en": {
+    "h": "Bhadrachalam MLA writes to CM seeking ₹5 lakh LOC for woman treated at NIMS",
+    "p": "A woman from V.R. Puram village in Venkatapuram mandal is being treated for myositis at NIMS in Hyderabad. Bhadrachalam MLA Dr Tellam Venkata Rao wrote to Chief Minister Revanth Reddy asking for a ₹5 lakh Letter of Credit (LOC) from the CM Relief Fund for her treatment. Locals welcomed the MLA's initiative.",
+    "pts": [
+     "Woman treated for myositis at NIMS",
+     "MLA seeks ₹5 lakh LOC from CM Relief Fund",
+     "Locals welcome MLA's initiative"
+    ],
+    "why": "CM Relief Fund LOCs support poor families who need costly treatment.",
+    "cat": "Bhadrachalam · Health",
+    "statl": "Aid sought from CM Relief Fund"
+   },
+   "hi": {
+    "h": "निम्स में इलाज करा रही महिला के लिए ₹5 लाख एलओसी: भद्राचलम विधायक का सीएम को पत्र",
+    "p": "वेंकटापुरम मंडल के वीआर पुरम गांव की एक महिला का हैदराबाद के निम्स में मायोसाइटिस का इलाज चल रहा है। भद्राचलम विधायक डॉ. तेल्लम वेंकट राव ने मुख्यमंत्री रेवंत रेड्डी को पत्र लिखकर उनके इलाज के लिए सीएम राहत कोष से ₹5 लाख का लेटर ऑफ क्रेडिट (एलओसी) मंजूर करने की मांग की। स्थानीय लोगों ने विधायक की पहल का स्वागत किया।",
+    "pts": [
+     "निम्स में मायोसाइटिस का इलाज",
+     "विधायक ने सीएम राहत कोष से ₹5 लाख एलओसी मांगा",
+     "स्थानीय लोगों ने पहल का स्वागत किया"
+    ],
+    "why": "महंगे इलाज की जरूरत वाले गरीब परिवारों को सीएम राहत कोष का एलओसी सहारा देता है।",
+    "cat": "भद्राचलम · स्वास्थ्य",
+    "statl": "सीएम राहत कोष से मांगी गई मदद"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "సిద్దిపేట · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "8",
+   "statl": "గ్రామాల్లో కొనుగోలు కేంద్రాలు",
+   "h": "దుబ్బాకను కరువు ప్రాంతంగా ప్రకటించాలి: ఎమ్మెల్యే కొత్త ప్రభాకర్ రెడ్డి డిమాండ్",
+   "p": "సిద్దిపేట జిల్లా తొగుట మండలంలోని వెంకట్రావుపేట, చందాపూర్, ఘనపూర్ సహా ఎనిమిది గ్రామాల్లో ఐకేపీ, పీఏసీఎస్ ధాన్యం కొనుగోలు కేంద్రాలను దుబ్బాక ఎమ్మెల్యే కొత్త ప్రభాకర్ రెడ్డి ప్రారంభించారు. ఎల్‌నినో ప్రభావంతో వర్షాభావం ఏర్పడి చెరువులు ఎండిపోయాయని, భూగర్భ జలాలు తగ్గి యాసంగి సాగు చేయలేని పరిస్థితి ఉందని ఆయన అన్నారు. సిద్దిపేట పర్యటనకు వస్తున్న సీఎం రేవంత్ రెడ్డి దుబ్బాకను కరువు ప్రాంతంగా ప్రకటించాలని ఆయన డిమాండ్ చేశారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/medak/siddipet/mla-kotha-prabhakar-reddy-inaugurated-the-paddy-procurement-centers-2557641",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "siddipet",
+   "loc": "తొగుట",
+   "pts": [
+    "తొగుట మండలంలో 8 గ్రామాల్లో కొనుగోలు కేంద్రాలు ప్రారంభం",
+    "వర్షాభావంతో యాసంగి సాగు కష్టమని ఎమ్మెల్యే వ్యాఖ్య",
+    "ఈసారి కరువు మండలాలు ప్రకటించలేదని ఎమ్మెల్యే ఆరోపణ"
+   ],
+   "why": "కరువు ప్రకటిస్తే ఆర్థిక సాయం, పంట రుణాల రీషెడ్యూల్ వస్తాయని ఎమ్మెల్యే అన్నారు; దుబ్బాక రైతులకు ఇది కీలకం.",
+   "pub": "2026-11-11T16:31+05:30",
+   "en": {
+    "h": "Declare Dubbaka a drought area: MLA Kotha Prabhakar Reddy demands",
+    "p": "Dubbaka MLA Kotha Prabhakar Reddy opened IKP and PACS paddy procurement centres in eight villages of Thoguta mandal in Siddipet district, including Venkatraopet, Chandapur and Ghanpur. He said El Niño-linked rain deficiency has dried up tanks and lowered groundwater, leaving farmers unable to take up rabi cultivation. He demanded that Chief Minister Revanth Reddy, who is due to visit Siddipet, declare Dubbaka a drought area.",
+    "pts": [
+     "Procurement centres opened in 8 villages of Thoguta mandal",
+     "MLA says rain deficit makes rabi cultivation hard",
+     "MLA alleges no drought mandals declared this time"
+    ],
+    "why": "The MLA said a drought declaration brings financial aid and crop loan rescheduling; this matters to Dubbaka farmers.",
+    "cat": "Siddipet · Agriculture",
+    "statl": "Villages with procurement centres"
+   },
+   "hi": {
+    "h": "दुब्बाका को सूखा क्षेत्र घोषित करें: विधायक कोत्ता प्रभाकर रेड्डी की मांग",
+    "p": "दुब्बाका विधायक कोत्ता प्रभाकर रेड्डी ने सिद्दिपेट जिले के तोगुटा मंडल के वेंकटरावपेट, चंदापुर और घनपुर सहित आठ गांवों में आईकेपी और पीएसीएस धान खरीद केंद्रों का उद्घाटन किया। उन्होंने कहा कि अल नीनो के असर से बारिश की कमी के कारण तालाब सूख गए हैं और भूजल घट गया है, जिससे किसान रबी की खेती नहीं कर पा रहे। उन्होंने मांग की कि सिद्दिपेट दौरे पर आ रहे मुख्यमंत्री रेवंत रेड्डी दुब्बाका को सूखा क्षेत्र घोषित करें।",
+    "pts": [
+     "तोगुटा मंडल के 8 गांवों में खरीद केंद्र शुरू",
+     "विधायक बोले, बारिश की कमी से रबी खेती मुश्किल",
+     "विधायक का आरोप: इस बार सूखा मंडल घोषित नहीं हुए"
+    ],
+    "why": "विधायक के अनुसार सूखा घोषित होने पर आर्थिक मदद और फसल ऋण पुनर्निर्धारण मिलता है; यह दुब्बाका के किसानों के लिए अहम है।",
+    "cat": "सिद्दिपेट · कृषि",
+    "statl": "खरीद केंद्र वाले गांव"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "భూపాలపల్లి · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "138",
+   "statl": "మౌలానా ఆజాద్ జయంతి",
+   "h": "విద్యతోనే సమాజాభివృద్ధి సాధ్యం: భూపాలపల్లి కలెక్టర్ రాహుల్ శర్మ",
+   "p": "మౌలానా అబుల్ కలాం ఆజాద్ 138వ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం, మైనారిటీ సంక్షేమ దినోత్సవాన్ని జయశంకర్ భూపాలపల్లి ఐడీవోసీ సమావేశ మందిరంలో బుధవారం నిర్వహించారు. ఆజాద్ చిత్రపటానికి పూలమాల వేసి నివాళులర్పించారు. విద్య, జాతీయ సమైక్యత, మత సామరస్యానికి ఆజాద్ చేసిన సేవలను కలెక్టర్ రాహుల్ శర్మ కొనియాడారు. మైనారిటీ సంక్షేమ పథకాలపై అవగాహన కల్పించాలని అధికారులను, క్రమశిక్షణతో చదవాలని విద్యార్థులను కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/news/societal-development-is-possible-only-through-education-says-collector-rahul-sharma-2557669",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "bhupalpally",
+   "pts": [
+    "ఆజాద్ 138వ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం",
+    "మైనారిటీ పథకాలపై అవగాహన కల్పించాలని ఆదేశం",
+    "క్రమశిక్షణతో చదవాలని విద్యార్థులకు సూచన"
+   ],
+   "why": "భూపాలపల్లి జిల్లాలోని మైనారిటీ కుటుంబాలకు సంక్షేమ పథకాలపై సమాచారం అందనుంది.",
+   "pub": "2026-11-11T16:58+05:30",
+   "en": {
+    "h": "Development of society possible only through education: Bhupalpally Collector Rahul Sharma",
+    "p": "National Education Day and Minority Welfare Day were held on Wednesday at the IDOC meeting hall in Jayashankar Bhupalpally to mark the 138th birth anniversary of Maulana Abul Kalam Azad. Floral tributes were paid to Azad's portrait. Collector Rahul Sharma praised Azad's services to education, national integration and communal harmony. He asked officials to spread awareness of minority welfare schemes and urged students to study with discipline.",
+    "pts": [
+     "National Education Day on Azad's 138th birth anniversary",
+     "Officials told to spread awareness of minority schemes",
+     "Students urged to study with discipline"
+    ],
+    "why": "Minority families in Bhupalpally district will get information on welfare schemes.",
+    "cat": "Bhupalpally · Education",
+    "statl": "Maulana Azad birth anniversary"
+   },
+   "hi": {
+    "h": "शिक्षा से ही समाज का विकास संभव: भूपालपल्ली कलेक्टर राहुल शर्मा",
+    "p": "मौलाना अबुल कलाम आज़ाद की 138वीं जयंती पर बुधवार को जयशंकर भूपालपल्ली के आईडीओसी सभागार में राष्ट्रीय शिक्षा दिवस और अल्पसंख्यक कल्याण दिवस मनाया गया। आज़ाद के चित्र पर पुष्पांजलि अर्पित की गई। कलेक्टर राहुल शर्मा ने शिक्षा, राष्ट्रीय एकता और सांप्रदायिक सद्भाव में आज़ाद के योगदान की सराहना की। उन्होंने अधिकारियों से अल्पसंख्यक कल्याण योजनाओं के बारे में जागरूकता फैलाने और छात्रों से अनुशासन से पढ़ने को कहा।",
+    "pts": [
+     "आज़ाद की 138वीं जयंती पर राष्ट्रीय शिक्षा दिवस",
+     "अल्पसंख्यक योजनाओं पर जागरूकता का निर्देश",
+     "छात्रों से अनुशासन से पढ़ने की अपील"
+    ],
+    "why": "भूपालपल्ली जिले के अल्पसंख्यक परिवारों को कल्याण योजनाओं की जानकारी मिलेगी।",
+    "cat": "भूपालपल्ली · शिक्षा",
+    "statl": "मौलाना आज़ाद जयंती"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
   {
    "cat": "భారత్ · హక్కులు",
    "col": "--c-power",
@@ -2299,256 +2501,6 @@
    },
    "d": "11.11.2026",
    "t": "13:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · సదస్సు",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "70 దేశాలు",
-   "statl": "1,000 మంది ప్రతినిధుల రాక (భట్టి ప్రకారం)",
-   "h": "హైదరాబాద్‌లో రెండో భారత్ సమ్మిట్: 70 దేశాల నుంచి 1,000 మంది ప్రతినిధులు",
-   "p": "రెండో భారత్ సమ్మిట్ తెలంగాణలో జరుగుతోందని కాంగ్రెస్ విదేశీ వ్యవహారాల విభాగం ఛైర్మన్, మాజీ కేంద్ర మంత్రి సల్మాన్ ఖుర్షీద్ హెచ్ఐసీసీలో చెప్పారు. ప్రపంచ పరిస్థితులపై చర్చలు జరుగుతాయన్నారు. 70 దేశాల నుంచి 1,000 మంది ప్రతినిధులు హాజరవుతున్నారని డిప్యూటీ సీఎం భట్టి విక్రమార్క తెలిపారు. ఇది రాజకీయ సదస్సు కాదని, జెన్ జెడ్ డిమాండ్లపై ఒక సెషన్ ఉంటుందని మంత్రి శ్రీధర్ బాబు చెప్పారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/bharat-summit-tg-hyderabad-2026-suchi-1575232.html",
-   "sec": [
-    "telangana",
-    "world"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "హెచ్ఐసీసీ",
-   "pts": [
-    "హెచ్ఐసీసీలో రెండో భారత్ సమ్మిట్",
-    "70 దేశాల నుంచి 1,000 మంది ప్రతినిధులు: భట్టి",
-    "జెన్ జెడ్ డిమాండ్లపై ప్రత్యేక సెషన్: శ్రీధర్ బాబు"
-   ],
-   "why": "అంతర్జాతీయ ప్రతినిధులు పాల్గొనే ఈ సదస్సు హైదరాబాద్‌లో జరుగుతుండటం నగరానికి ప్రాధాన్యం కలిగిస్తుంది.",
-   "pub": "2026-11-11T11:06+05:30",
-   "en": {
-    "h": "Second Bharat Summit in Hyderabad: 1,000 delegates from 70 countries",
-    "p": "Former Union minister Salman Khurshid, chairman of the Congress foreign affairs department, said at the HICC that the second Bharat Summit is being held in Telangana and will discuss world conditions. Deputy CM Bhatti Vikramarka said 1,000 delegates from 70 countries are attending. Minister Sridhar Babu said the summit is not political and a session will discuss Gen Z demands.",
-    "pts": [
-     "Second Bharat Summit at HICC",
-     "1,000 delegates from 70 countries: Bhatti",
-     "Special session on Gen Z demands: Sridhar Babu"
-    ],
-    "why": "The summit with international delegates being held in Hyderabad gives the city prominence.",
-    "cat": "Hyderabad · Summit",
-    "statl": "1,000 delegates attending (per Bhatti)"
-   },
-   "hi": {
-    "h": "हैदराबाद में दूसरा भारत समिट: 70 देशों से 1,000 प्रतिनिधि",
-    "p": "कांग्रेस के विदेश मामलों के विभाग के अध्यक्ष और पूर्व केंद्रीय मंत्री सलमान खुर्शीद ने एचआईसीसी में कहा कि दूसरा भारत समिट तेलंगाना में हो रहा है और इसमें विश्व की स्थितियों पर चर्चा होगी। उपमुख्यमंत्री भट्टी विक्रमार्क ने बताया कि 70 देशों से 1,000 प्रतिनिधि शामिल हो रहे हैं। मंत्री श्रीधर बाबू ने कहा कि यह राजनीतिक सम्मेलन नहीं है और जेन ज़ेड की मांगों पर एक सत्र होगा।",
-    "pts": [
-     "एचआईसीसी में दूसरा भारत समिट",
-     "70 देशों से 1,000 प्रतिनिधि: भट्टी",
-     "जेन ज़ेड की मांगों पर विशेष सत्र: श्रीधर बाबू"
-    ],
-    "why": "अंतरराष्ट्रीय प्रतिनिधियों वाला यह सम्मेलन हैदराबाद में होने से शहर का महत्व बढ़ता है।",
-    "cat": "हैदराबाद · सम्मेलन",
-    "statl": "1,000 प्रतिनिधि शामिल (भट्टी के अनुसार)"
-   },
-   "d": "11.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలుగు రాష్ట్రాలు · బంగారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹1,655",
-   "statl": "10 గ్రాముల 24 క్యారెట్ బంగారంపై తగ్గుదల",
-   "h": "తెలుగు రాష్ట్రాల్లో తగ్గిన బంగారం, వెండి ధరలు",
-   "p": "బుధవారం తెలుగు రాష్ట్రాల్లో బంగారం, వెండి ధరలు తగ్గాయి. హైదరాబాద్‌లో 10 గ్రాముల 24 క్యారెట్ బంగారం ధర మంగళవారం రూ.1,46,440 ఉండగా బుధవారం రూ.1,655 తగ్గి రూ.1,44,785కి చేరిందని ఈటీవీ భారత్ పేర్కొంది. 22 క్యారెట్ బంగారం 10 గ్రాములు రూ.1,30,800. కిలో వెండి రూ.1,91,161 నుంచి రూ.1,89,700కి తగ్గింది. విశాఖ, విజయవాడ, నెల్లూరు, ప్రొద్దుటూరులోనూ ధరలు దాదాపు ఇలాగే ఉన్నాయి.",
-   "src": "ETV Bharat",
-   "url": "https://etvbharat.com/te/business/gold-and-silver-rate-today-11th-november-in-telugu-states-ten26111100965",
-   "sec": [
-    "business",
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "24 క్యారెట్ 10 గ్రాములు రూ.1,44,785",
-    "22 క్యారెట్ 10 గ్రాములు రూ.1,30,800",
-    "కిలో వెండి రూ.1,89,700"
-   ],
-   "why": "పెళ్లిళ్ల సీజన్‌లో బంగారం, వెండి కొనేవారికి ఈ ధరలు ఉపయోగపడతాయి.",
-   "pub": "2026-11-11T09:38+05:30",
-   "en": {
-    "h": "Gold and silver prices fall in Telugu states",
-    "p": "Gold and silver prices fell on Wednesday in the Telugu states. In Hyderabad, 24-carat gold (10 g) was Rs 1,46,440 on Tuesday and fell by Rs 1,655 to Rs 1,44,785 on Wednesday, ETV Bharat reported. 22-carat gold (10 g) was Rs 1,30,800. Silver per kg fell from Rs 1,91,161 to Rs 1,89,700. Prices in Visakhapatnam, Vijayawada, Nellore and Proddatur were similar.",
-    "pts": [
-     "24-carat gold Rs 1,44,785 per 10 g",
-     "22-carat gold Rs 1,30,800 per 10 g",
-     "Silver Rs 1,89,700 per kg"
-    ],
-    "why": "These rates help people buying gold and silver during the wedding season.",
-    "cat": "Telugu States · Gold",
-    "statl": "drop in 24-carat gold per 10 g"
-   },
-   "hi": {
-    "h": "तेलुगु राज्यों में सोने-चांदी के दाम गिरे",
-    "p": "बुधवार को तेलुगु राज्यों में सोने और चांदी के दाम गिरे। ईटीवी भारत के अनुसार हैदराबाद में 24 कैरेट सोना (10 ग्राम) मंगलवार को 1,46,440 रुपये था, जो बुधवार को 1,655 रुपये घटकर 1,44,785 रुपये हो गया। 22 कैरेट सोना (10 ग्राम) 1,30,800 रुपये रहा। चांदी प्रति किलो 1,91,161 रुपये से घटकर 1,89,700 रुपये हो गई। विशाखापत्तनम, विजयवाड़ा, नेल्लोर और प्रोद्दुटूर में भी दाम लगभग ऐसे ही रहे।",
-    "pts": [
-     "24 कैरेट सोना 1,44,785 रुपये प्रति 10 ग्राम",
-     "22 कैरेट सोना 1,30,800 रुपये प्रति 10 ग्राम",
-     "चांदी 1,89,700 रुपये प्रति किलो"
-    ],
-    "why": "शादी के मौसम में सोना-चांदी खरीदने वालों के लिए ये दाम उपयोगी हैं।",
-    "cat": "तेलुगु राज्य · सोना",
-    "statl": "24 कैरेट सोना प्रति 10 ग्राम सस्ता"
-   },
-   "d": "11.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలంగాణ · కాంగ్రెస్",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "20",
-   "statl": "నిలిచిపోయిన మీడియా ప్యానెల్ నియామకాలు",
-   "h": "కాంగ్రెస్ మీడియా ప్యానెల్ జాబితా ఆగలేదు, కొత్త జాబితా త్వరలో: చామల",
-   "p": "తాను విడుదల చేసిన 20 మంది మీడియా ప్యానెలిస్టులు, కోఆర్డినేటర్లు, అధికార ప్రతినిధుల నియామకాలను తెలంగాణ కాంగ్రెస్ నిలిపివేయడంపై టీపీసీసీ మీడియా విభాగం ఛైర్మన్, ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి స్పందించారు. టీపీసీసీ చీఫ్ మహేశ్ కుమార్ గౌడ్‌తో తనకు విభేదాలు లేవని, చిన్న సాంకేతిక సమస్య వల్లే ఆగిందని ఏబీఎన్ ఆంధ్రజ్యోతికి చెప్పారు. రెండు మూడు రోజుల్లో మరిన్ని పేర్లతో కొత్త జాబితా ప్రకటిస్తామన్నారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/tg-congress-media-panel-new-list-chamala-suchi-1575242.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "20 మంది మీడియా ప్యానెల్ నియామకాలు నిలిపివేత",
-    "సాంకేతిక సమస్య వల్లే ఆగిందన్న చామల",
-    "2–3 రోజుల్లో కొత్త జాబితా"
-   ],
-   "why": "అధికార పార్టీ మీడియా ప్రతినిధుల నియామకాలపై స్పష్టత కోసం ఎదురుచూస్తున్న కార్యకర్తలకు ఇది సమాచారం.",
-   "pub": "2026-11-11T12:21+05:30",
-   "en": {
-    "h": "Congress media panel list not dropped, new list soon: Chamala",
-    "p": "MP Chamala Kiran Kumar Reddy, chairman of the TPCC media and publicity wing, responded after Telangana Congress halted the appointments of 20 media panelists, coordinators and spokespersons he had released. He told ABN Andhra Jyothy there is no gap between him and TPCC chief Mahesh Kumar Goud and a small technical problem stalled it. A new list with more names will be announced in two or three days, he said.",
-    "pts": [
-     "20 media panel appointments put on hold",
-     "Chamala says a technical problem stalled it",
-     "New list in 2–3 days"
-    ],
-    "why": "It gives clarity to party workers awaiting the ruling party's media appointments.",
-    "cat": "Telangana · Congress",
-    "statl": "media panel appointments halted"
-   },
-   "hi": {
-    "h": "कांग्रेस मीडिया पैनल सूची रद्द नहीं, नई सूची जल्द: चामला",
-    "p": "टीपीसीसी मीडिया एवं प्रचार विभाग के अध्यक्ष सांसद चामला किरण कुमार रेड्डी ने तेलंगाना कांग्रेस द्वारा उनकी जारी 20 मीडिया पैनलिस्टों, समन्वयकों और प्रवक्ताओं की नियुक्तियां रोके जाने पर प्रतिक्रिया दी। उन्होंने एबीएन आंध्र ज्योति से कहा कि टीपीसीसी प्रमुख महेश कुमार गौड़ से उनका कोई मतभेद नहीं है और एक छोटी तकनीकी समस्या के कारण यह रुका। दो-तीन दिनों में और नामों के साथ नई सूची घोषित होगी।",
-    "pts": [
-     "20 मीडिया पैनल नियुक्तियां रोकी गईं",
-     "चामला ने तकनीकी समस्या को कारण बताया",
-     "2–3 दिनों में नई सूची"
-    ],
-    "why": "सत्तारूढ़ पार्टी की मीडिया नियुक्तियों का इंतजार कर रहे कार्यकर्ताओं को इससे स्पष्टता मिलती है।",
-    "cat": "तेलंगाना · कांग्रेस",
-    "statl": "मीडिया पैनल नियुक्तियां रुकीं"
-   },
-   "d": "11.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "హనుమకొండ · రాజకీయాలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "హౌస్ అరెస్ట్",
-   "statl": "భట్టి పర్యటనకు ముందు బీఆర్ఎస్ నేతల నిర్బంధం",
-   "h": "భట్టి హనుమకొండ పర్యటన: బీఆర్ఎస్ నేతల హౌస్ అరెస్ట్, ముందస్తు నిర్బంధం",
-   "p": "డిప్యూటీ సీఎం భట్టి విక్రమార్క బుధవారం హనుమకొండ జిల్లా పర్యటనకు ముందు పలువురు బీఆర్ఎస్ నేతలను హౌస్ అరెస్ట్ చేసి, ముందస్తు నిర్బంధంలోకి తీసుకున్నారని తెలంగాణ టుడే తెలిపింది. మాజీ ప్రభుత్వ చీఫ్ విప్ దాస్యం వినయ్ భాస్కర్‌ను వడ్డేపల్లిలోని ఇంట్లో గృహనిర్బంధం చేశారు. కాజీపేట డివిజన్ నేతలను హసన్‌పర్తి పోలీస్ స్టేషన్‌కు తరలించారు. పర్యటనలో భట్టి తెలంగాణ పబ్లిక్ స్కూల్ భవనానికి శంకుస్థాపన చేయనున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/brs-leaders-detained-ahead-of-bhattis-hanamkonda-visit",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hanumakonda",
-   "loc": "హసన్‌పర్తి",
-   "pts": [
-    "మాజీ చీఫ్ విప్ వినయ్ భాస్కర్ గృహనిర్బంధం",
-    "కాజీపేట నేతలు హసన్‌పర్తి పీఎస్‌కు తరలింపు",
-    "పబ్లిక్ స్కూల్ భవనానికి భట్టి శంకుస్థాపన"
-   ],
-   "why": "ఉమ్మడి వరంగల్ జిల్లాలో ప్రభుత్వ, ప్రతిపక్ష పార్టీల మధ్య రాజకీయ వాతావరణాన్ని ఇది చూపుతోంది.",
-   "pub": "2026-11-11T12:40+05:30",
-   "en": {
-    "h": "Bhatti's Hanamkonda visit: BRS leaders under house arrest, preventive custody",
-    "p": "Several BRS leaders were placed under house arrest or taken into preventive custody ahead of Deputy Chief Minister Bhatti Vikramarka's visit to Hanamkonda district on Wednesday, Telangana Today reported. Former government chief whip Dasyam Vinay Bhaskar was placed under house arrest at his residence in Waddepally. Leaders from the Kazipet division were taken to Hasanparthy police station. During the visit, Bhatti is to lay the foundation stone for a Telangana Public School building.",
-    "pts": [
-     "Former chief whip Vinay Bhaskar under house arrest",
-     "Kazipet leaders taken to Hasanparthy police station",
-     "Bhatti to lay foundation for public school building"
-    ],
-    "why": "It shows the political climate between the ruling and opposition parties in erstwhile Warangal district.",
-    "cat": "Hanamkonda · Politics",
-    "statl": "BRS leaders detained before Bhatti's visit"
-   },
-   "hi": {
-    "h": "भट्टि का हनमकोंडा दौरा: बीआरएस नेता नज़रबंद, एहतियाती हिरासत में",
-    "p": "तेलंगाना टुडे के अनुसार, उपमुख्यमंत्री भट्टि विक्रमार्क के बुधवार को हनमकोंडा ज़िले के दौरे से पहले कई बीआरएस नेताओं को नज़रबंद किया गया या एहतियाती हिरासत में लिया गया। पूर्व सरकारी मुख्य सचेतक दास्यम विनय भास्कर को वड्डेपल्ली स्थित उनके घर में नज़रबंद किया गया। काज़ीपेट डिवीजन के नेताओं को हसनपर्ती पुलिस स्टेशन ले जाया गया। दौरे में भट्टि तेलंगाना पब्लिक स्कूल भवन की आधारशिला रखेंगे।",
-    "pts": [
-     "पूर्व मुख्य सचेतक विनय भास्कर नज़रबंद",
-     "काज़ीपेट के नेता हसनपर्ती थाने ले जाए गए",
-     "भट्टि पब्लिक स्कूल भवन की आधारशिला रखेंगे"
-    ],
-    "why": "यह संयुक्त वरंगल ज़िले में सत्ताधारी और विपक्षी दलों के बीच राजनीतिक माहौल को दिखाता है।",
-    "cat": "हनमकोंडा · राजनीति",
-    "statl": "भट्टि के दौरे से पहले बीआरएस नेता हिरासत में"
-   },
-   "d": "11.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "ప్రపంచం · యువత భవిష్యత్తు",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "31,383",
-   "statl": "హెచ్-1బీ గ్రేస్ పీరియడ్ ప్రతిపాదనపై అభిప్రాయాలు",
-   "h": "హెచ్-1బీ 60 రోజుల గ్రేస్ పీరియడ్ రద్దు ప్రతిపాదనపై 31 వేలకు పైగా అభిప్రాయాలు",
-   "p": "ఉద్యోగం కోల్పోయిన హెచ్-1బీ తదితర వీసాదారులకు ఉన్న 60 రోజుల గ్రేస్ పీరియడ్‌ను రద్దు చేయాలన్న అమెరికా హోంల్యాండ్ సెక్యూరిటీ శాఖ (డీహెచ్ఎస్) ప్రతిపాదనపై మంగళవారం రాత్రికి 31,383 అభిప్రాయాలు వచ్చాయని ఐఏఎన్ఎస్ తెలిపింది. ఈ మార్పుతో ఆదాయ నష్టం, తరలింపు ఖర్చులు రావచ్చని డీహెచ్ఎస్ అంగీకరించింది. 2025 ఆర్థిక సంవత్సరంలో ఆమోదించిన హెచ్-1బీ పిటిషన్లలో సుమారు 70 శాతం భారత్‌లో జన్మించినవారివే.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/h-1b-grace-period-plan-draws-31000-comments",
-   "sec": [
-    "world",
-    "jobs"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఉద్యోగం పోయాక 60 రోజుల గడువు రద్దు ప్రతిపాదన",
-    "ఏటా సగటున 65,752 మంది ఉద్యోగం కోల్పోవడం/మారడం",
-    "ఆమోదిత హెచ్-1బీల్లో 70% భారతీయులవే"
-   ],
-   "why": "అమెరికాలో హెచ్-1బీపై పనిచేస్తున్న భారతీయ, తెలుగు ఉద్యోగులు, వారి కుటుంబాలపై దీని ప్రభావం ఉంటుంది.",
-   "pub": "2026-11-11T10:56+05:30",
-   "en": {
-    "h": "Over 31,000 comments on plan to scrap H-1B 60-day grace period",
-    "p": "The US Department of Homeland Security (DHS) proposal to eliminate the 60-day grace period for laid-off H-1B and other visa holders had drawn 31,383 comments by Tuesday night, IANS reported. DHS acknowledged the change could cause income loss and relocation expenses. About 70 per cent of H-1B petitions approved in fiscal 2025 involved beneficiaries born in India.",
-    "pts": [
-     "Proposal ends 60-day window after job loss",
-     "Average 65,752 workers a year lost or changed jobs",
-     "70% of approved H-1Bs went to Indian-born"
-    ],
-    "why": "It affects Indian and Telugu workers on H-1B visas in the US and their families.",
-    "cat": "World · Youth & Future",
-    "statl": "Comments on H-1B grace period proposal"
-   },
-   "hi": {
-    "h": "एच-1बी की 60 दिन की ग्रेस अवधि खत्म करने के प्रस्ताव पर 31 हज़ार से ज़्यादा टिप्पणियाँ",
-    "p": "आईएएनएस के अनुसार, नौकरी गंवाने वाले एच-1बी और अन्य वीज़ा धारकों की 60 दिन की ग्रेस अवधि खत्म करने के अमेरिकी होमलैंड सिक्योरिटी विभाग (डीएचएस) के प्रस्ताव पर मंगलवार रात तक 31,383 टिप्पणियाँ आ चुकी थीं। डीएचएस ने माना कि इस बदलाव से आय का नुकसान और स्थानांतरण खर्च हो सकता है। वित्त वर्ष 2025 में मंज़ूर एच-1बी याचिकाओं में करीब 70 प्रतिशत भारत में जन्मे लोगों की थीं।",
-    "pts": [
-     "नौकरी जाने के बाद 60 दिन की मोहलत खत्म करने का प्रस्ताव",
-     "हर साल औसतन 65,752 कर्मचारियों की नौकरी गई या बदली",
-     "मंज़ूर एच-1बी में 70% भारत में जन्मे"
-    ],
-    "why": "इसका असर अमेरिका में एच-1बी पर काम कर रहे भारतीय और तेलुगु कर्मचारियों व उनके परिवारों पर पड़ेगा।",
-    "cat": "विश्व · युवा और भविष्य",
-    "statl": "एच-1बी ग्रेस अवधि प्रस्ताव पर टिप्पणियाँ"
-   },
-   "d": "11.11.2026",
-   "t": "13:05"
   }
  ]
 }

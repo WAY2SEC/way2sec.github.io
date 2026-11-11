@@ -1,8 +1,210 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 132,
+ "count": 136,
  "stories": [
+  {
+   "cat": "నల్గొండ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹2,461",
+   "statl": "ఏ గ్రేడ్ ధాన్యం మద్దతు ధర",
+   "h": "పరడలో ధాన్యం కొనుగోలు కేంద్రం ప్రారంభం: దళారులకు అమ్మొద్దని సూచన",
+   "p": "నల్గొండ జిల్లా కట్టంగూర్ మండలం పరడ గ్రామంలో ఎన్‌డీసీఎంఎస్ ఆధ్వర్యంలోని ధాన్యం కొనుగోలు కేంద్రాన్ని నకిరేకల్ ఏఎంసీ చైర్‌పర్సన్ గుత్తా మంజుల మాధవరెడ్డి బుధవారం ప్రారంభించారు. రైతులు దళారులకు కాకుండా నేరుగా కొనుగోలు కేంద్రాల్లోనే ధాన్యం అమ్ముకోవాలని ఆమె సూచించారు. ఏ గ్రేడ్‌కు ₹2,461, బీ గ్రేడ్‌కు ₹2,441 మద్దతు ధర ఉందని తెలిపారు. కొన్న ధాన్యాన్ని వెంటనే మిల్లులకు తరలించాలని, రైతులకు సౌకర్యాలు కల్పించాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/nalgonda/farmers-should-make-good-use-of-the-procurement-centers-2557698",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "పరడ, కట్టంగూర్",
+   "pts": [
+    "ఎన్‌డీసీఎంఎస్ కొనుగోలు కేంద్రం ప్రారంభం",
+    "ఏ గ్రేడ్ ₹2,461, బీ గ్రేడ్ ₹2,441 మద్దతు ధర",
+    "ధాన్యాన్ని వెంటనే మిల్లులకు తరలించాలని సూచన"
+   ],
+   "why": "కట్టంగూర్ మండల రైతులు మద్దతు ధరకు ధాన్యం అమ్ముకునే అవకాశం దగ్గరలోనే లభిస్తుంది.",
+   "pub": "2026-11-11T17:45+05:30",
+   "en": {
+    "h": "Paddy procurement centre opened at Parada; farmers told not to sell to middlemen",
+    "p": "Nakrekal AMC chairperson Gutta Manjula Madhava Reddy on Wednesday opened a paddy procurement centre run under the NDCMS at Parada village in Kattangur mandal of Nalgonda district. She urged farmers to sell their grain directly at the procurement centres instead of to middlemen. She said the support price is ₹2,461 for Grade A and ₹2,441 for Grade B. She asked that purchased grain be moved to millers promptly and that farmers be given facilities.",
+    "pts": [
+     "NDCMS procurement centre opened",
+     "Support price ₹2,461 Grade A, ₹2,441 Grade B",
+     "Purchased grain to be moved to mills promptly"
+    ],
+    "why": "Kattangur mandal farmers get a nearby place to sell paddy at the support price.",
+    "cat": "Nalgonda · Agriculture",
+    "statl": "Support price, Grade A paddy"
+   },
+   "hi": {
+    "h": "परडा में धान खरीद केंद्र शुरू: किसानों से बिचौलियों को न बेचने की अपील",
+    "p": "नकरेकल एएमसी अध्यक्ष गुत्ता मंजुला माधव रेड्डी ने बुधवार को नलगोंडा जिले के कट्टंगूर मंडल के परडा गांव में एनडीसीएमएस के तहत धान खरीद केंद्र का उद्घाटन किया। उन्होंने किसानों से बिचौलियों के बजाय सीधे खरीद केंद्रों पर धान बेचने को कहा। उन्होंने बताया कि ए ग्रेड का समर्थन मूल्य ₹2,461 और बी ग्रेड का ₹2,441 है। उन्होंने खरीदा गया धान तुरंत मिलों तक पहुंचाने और किसानों को सुविधाएं देने को कहा।",
+    "pts": [
+     "एनडीसीएमएस खरीद केंद्र शुरू",
+     "ए ग्रेड ₹2,461, बी ग्रेड ₹2,441 समर्थन मूल्य",
+     "खरीदा धान तुरंत मिलों तक भेजने का निर्देश"
+    ],
+    "why": "कट्टंगूर मंडल के किसानों को समर्थन मूल्य पर धान बेचने की सुविधा पास में मिलेगी।",
+    "cat": "नलगोंडा · कृषि",
+    "statl": "ए ग्रेड धान का समर्थन मूल्य"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "భద్రాచలం · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹5 లక్షలు",
+   "statl": "సీఎం సహాయ నిధి నుంచి కోరిన సాయం",
+   "h": "నిమ్స్‌లో చికిత్స పొందుతున్న మహిళకు ₹5 లక్షల ఎల్‌ఓసీ: సీఎంకు భద్రాచలం ఎమ్మెల్యే లేఖ",
+   "p": "వెంకటాపురం మండలం వీఆర్ పురం గ్రామానికి చెందిన ఓ మహిళ మయోసైటిస్ వ్యాధితో హైదరాబాద్ నిమ్స్‌లో చికిత్స పొందుతున్నారు. ఆమె వైద్యం కోసం సీఎం సహాయ నిధి నుంచి ₹5 లక్షల లెటర్ ఆఫ్ క్రెడిట్ (ఎల్‌ఓసీ) మంజూరు చేయాలని భద్రాచలం ఎమ్మెల్యే డాక్టర్ తెల్లం వెంకట్రావు ముఖ్యమంత్రి రేవంత్ రెడ్డికి లేఖ రాశారు. ఎమ్మెల్యే చొరవను స్థానికులు స్వాగతించారు.",
+   "src": "HMTV",
+   "url": "https://www.hmtvlive.com/telugu-news/khammam/bhadrachalam-mla-dr-tellam-venkata-rao-letter-to-cm-revanth-reddy-5-lakhs-211693",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "వెంకటాపురం",
+   "pts": [
+    "మయోసైటిస్‌తో నిమ్స్‌లో మహిళకు చికిత్స",
+    "సీఎం సహాయ నిధి నుంచి ₹5 లక్షల ఎల్‌ఓసీ కోరిన ఎమ్మెల్యే",
+    "ఎమ్మెల్యే చొరవను స్వాగతించిన స్థానికులు"
+   ],
+   "why": "ఖరీదైన వైద్యం అవసరమైన పేద కుటుంబాలకు సీఎం సహాయ నిధి ఎల్‌ఓసీ ఆసరాగా నిలుస్తుంది.",
+   "pub": "2026-11-11T17:53+05:30",
+   "en": {
+    "h": "Bhadrachalam MLA writes to CM seeking ₹5 lakh LOC for woman treated at NIMS",
+    "p": "A woman from V.R. Puram village in Venkatapuram mandal is being treated for myositis at NIMS in Hyderabad. Bhadrachalam MLA Dr Tellam Venkata Rao wrote to Chief Minister Revanth Reddy asking for a ₹5 lakh Letter of Credit (LOC) from the CM Relief Fund for her treatment. Locals welcomed the MLA's initiative.",
+    "pts": [
+     "Woman treated for myositis at NIMS",
+     "MLA seeks ₹5 lakh LOC from CM Relief Fund",
+     "Locals welcome MLA's initiative"
+    ],
+    "why": "CM Relief Fund LOCs support poor families who need costly treatment.",
+    "cat": "Bhadrachalam · Health",
+    "statl": "Aid sought from CM Relief Fund"
+   },
+   "hi": {
+    "h": "निम्स में इलाज करा रही महिला के लिए ₹5 लाख एलओसी: भद्राचलम विधायक का सीएम को पत्र",
+    "p": "वेंकटापुरम मंडल के वीआर पुरम गांव की एक महिला का हैदराबाद के निम्स में मायोसाइटिस का इलाज चल रहा है। भद्राचलम विधायक डॉ. तेल्लम वेंकट राव ने मुख्यमंत्री रेवंत रेड्डी को पत्र लिखकर उनके इलाज के लिए सीएम राहत कोष से ₹5 लाख का लेटर ऑफ क्रेडिट (एलओसी) मंजूर करने की मांग की। स्थानीय लोगों ने विधायक की पहल का स्वागत किया।",
+    "pts": [
+     "निम्स में मायोसाइटिस का इलाज",
+     "विधायक ने सीएम राहत कोष से ₹5 लाख एलओसी मांगा",
+     "स्थानीय लोगों ने पहल का स्वागत किया"
+    ],
+    "why": "महंगे इलाज की जरूरत वाले गरीब परिवारों को सीएम राहत कोष का एलओसी सहारा देता है।",
+    "cat": "भद्राचलम · स्वास्थ्य",
+    "statl": "सीएम राहत कोष से मांगी गई मदद"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "సిద్దిపేట · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "8",
+   "statl": "గ్రామాల్లో కొనుగోలు కేంద్రాలు",
+   "h": "దుబ్బాకను కరువు ప్రాంతంగా ప్రకటించాలి: ఎమ్మెల్యే కొత్త ప్రభాకర్ రెడ్డి డిమాండ్",
+   "p": "సిద్దిపేట జిల్లా తొగుట మండలంలోని వెంకట్రావుపేట, చందాపూర్, ఘనపూర్ సహా ఎనిమిది గ్రామాల్లో ఐకేపీ, పీఏసీఎస్ ధాన్యం కొనుగోలు కేంద్రాలను దుబ్బాక ఎమ్మెల్యే కొత్త ప్రభాకర్ రెడ్డి ప్రారంభించారు. ఎల్‌నినో ప్రభావంతో వర్షాభావం ఏర్పడి చెరువులు ఎండిపోయాయని, భూగర్భ జలాలు తగ్గి యాసంగి సాగు చేయలేని పరిస్థితి ఉందని ఆయన అన్నారు. సిద్దిపేట పర్యటనకు వస్తున్న సీఎం రేవంత్ రెడ్డి దుబ్బాకను కరువు ప్రాంతంగా ప్రకటించాలని ఆయన డిమాండ్ చేశారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/medak/siddipet/mla-kotha-prabhakar-reddy-inaugurated-the-paddy-procurement-centers-2557641",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "siddipet",
+   "loc": "తొగుట",
+   "pts": [
+    "తొగుట మండలంలో 8 గ్రామాల్లో కొనుగోలు కేంద్రాలు ప్రారంభం",
+    "వర్షాభావంతో యాసంగి సాగు కష్టమని ఎమ్మెల్యే వ్యాఖ్య",
+    "ఈసారి కరువు మండలాలు ప్రకటించలేదని ఎమ్మెల్యే ఆరోపణ"
+   ],
+   "why": "కరువు ప్రకటిస్తే ఆర్థిక సాయం, పంట రుణాల రీషెడ్యూల్ వస్తాయని ఎమ్మెల్యే అన్నారు; దుబ్బాక రైతులకు ఇది కీలకం.",
+   "pub": "2026-11-11T16:31+05:30",
+   "en": {
+    "h": "Declare Dubbaka a drought area: MLA Kotha Prabhakar Reddy demands",
+    "p": "Dubbaka MLA Kotha Prabhakar Reddy opened IKP and PACS paddy procurement centres in eight villages of Thoguta mandal in Siddipet district, including Venkatraopet, Chandapur and Ghanpur. He said El Niño-linked rain deficiency has dried up tanks and lowered groundwater, leaving farmers unable to take up rabi cultivation. He demanded that Chief Minister Revanth Reddy, who is due to visit Siddipet, declare Dubbaka a drought area.",
+    "pts": [
+     "Procurement centres opened in 8 villages of Thoguta mandal",
+     "MLA says rain deficit makes rabi cultivation hard",
+     "MLA alleges no drought mandals declared this time"
+    ],
+    "why": "The MLA said a drought declaration brings financial aid and crop loan rescheduling; this matters to Dubbaka farmers.",
+    "cat": "Siddipet · Agriculture",
+    "statl": "Villages with procurement centres"
+   },
+   "hi": {
+    "h": "दुब्बाका को सूखा क्षेत्र घोषित करें: विधायक कोत्ता प्रभाकर रेड्डी की मांग",
+    "p": "दुब्बाका विधायक कोत्ता प्रभाकर रेड्डी ने सिद्दिपेट जिले के तोगुटा मंडल के वेंकटरावपेट, चंदापुर और घनपुर सहित आठ गांवों में आईकेपी और पीएसीएस धान खरीद केंद्रों का उद्घाटन किया। उन्होंने कहा कि अल नीनो के असर से बारिश की कमी के कारण तालाब सूख गए हैं और भूजल घट गया है, जिससे किसान रबी की खेती नहीं कर पा रहे। उन्होंने मांग की कि सिद्दिपेट दौरे पर आ रहे मुख्यमंत्री रेवंत रेड्डी दुब्बाका को सूखा क्षेत्र घोषित करें।",
+    "pts": [
+     "तोगुटा मंडल के 8 गांवों में खरीद केंद्र शुरू",
+     "विधायक बोले, बारिश की कमी से रबी खेती मुश्किल",
+     "विधायक का आरोप: इस बार सूखा मंडल घोषित नहीं हुए"
+    ],
+    "why": "विधायक के अनुसार सूखा घोषित होने पर आर्थिक मदद और फसल ऋण पुनर्निर्धारण मिलता है; यह दुब्बाका के किसानों के लिए अहम है।",
+    "cat": "सिद्दिपेट · कृषि",
+    "statl": "खरीद केंद्र वाले गांव"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "భూపాలపల్లి · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "138",
+   "statl": "మౌలానా ఆజాద్ జయంతి",
+   "h": "విద్యతోనే సమాజాభివృద్ధి సాధ్యం: భూపాలపల్లి కలెక్టర్ రాహుల్ శర్మ",
+   "p": "మౌలానా అబుల్ కలాం ఆజాద్ 138వ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం, మైనారిటీ సంక్షేమ దినోత్సవాన్ని జయశంకర్ భూపాలపల్లి ఐడీవోసీ సమావేశ మందిరంలో బుధవారం నిర్వహించారు. ఆజాద్ చిత్రపటానికి పూలమాల వేసి నివాళులర్పించారు. విద్య, జాతీయ సమైక్యత, మత సామరస్యానికి ఆజాద్ చేసిన సేవలను కలెక్టర్ రాహుల్ శర్మ కొనియాడారు. మైనారిటీ సంక్షేమ పథకాలపై అవగాహన కల్పించాలని అధికారులను, క్రమశిక్షణతో చదవాలని విద్యార్థులను కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/news/societal-development-is-possible-only-through-education-says-collector-rahul-sharma-2557669",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "bhupalpally",
+   "pts": [
+    "ఆజాద్ 138వ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం",
+    "మైనారిటీ పథకాలపై అవగాహన కల్పించాలని ఆదేశం",
+    "క్రమశిక్షణతో చదవాలని విద్యార్థులకు సూచన"
+   ],
+   "why": "భూపాలపల్లి జిల్లాలోని మైనారిటీ కుటుంబాలకు సంక్షేమ పథకాలపై సమాచారం అందనుంది.",
+   "pub": "2026-11-11T16:58+05:30",
+   "en": {
+    "h": "Development of society possible only through education: Bhupalpally Collector Rahul Sharma",
+    "p": "National Education Day and Minority Welfare Day were held on Wednesday at the IDOC meeting hall in Jayashankar Bhupalpally to mark the 138th birth anniversary of Maulana Abul Kalam Azad. Floral tributes were paid to Azad's portrait. Collector Rahul Sharma praised Azad's services to education, national integration and communal harmony. He asked officials to spread awareness of minority welfare schemes and urged students to study with discipline.",
+    "pts": [
+     "National Education Day on Azad's 138th birth anniversary",
+     "Officials told to spread awareness of minority schemes",
+     "Students urged to study with discipline"
+    ],
+    "why": "Minority families in Bhupalpally district will get information on welfare schemes.",
+    "cat": "Bhupalpally · Education",
+    "statl": "Maulana Azad birth anniversary"
+   },
+   "hi": {
+    "h": "शिक्षा से ही समाज का विकास संभव: भूपालपल्ली कलेक्टर राहुल शर्मा",
+    "p": "मौलाना अबुल कलाम आज़ाद की 138वीं जयंती पर बुधवार को जयशंकर भूपालपल्ली के आईडीओसी सभागार में राष्ट्रीय शिक्षा दिवस और अल्पसंख्यक कल्याण दिवस मनाया गया। आज़ाद के चित्र पर पुष्पांजलि अर्पित की गई। कलेक्टर राहुल शर्मा ने शिक्षा, राष्ट्रीय एकता और सांप्रदायिक सद्भाव में आज़ाद के योगदान की सराहना की। उन्होंने अधिकारियों से अल्पसंख्यक कल्याण योजनाओं के बारे में जागरूकता फैलाने और छात्रों से अनुशासन से पढ़ने को कहा।",
+    "pts": [
+     "आज़ाद की 138वीं जयंती पर राष्ट्रीय शिक्षा दिवस",
+     "अल्पसंख्यक योजनाओं पर जागरूकता का निर्देश",
+     "छात्रों से अनुशासन से पढ़ने की अपील"
+    ],
+    "why": "भूपालपल्ली जिले के अल्पसंख्यक परिवारों को कल्याण योजनाओं की जानकारी मिलेगी।",
+    "cat": "भूपालपल्ली · शिक्षा",
+    "statl": "मौलाना आज़ाद जयंती"
+   },
+   "d": "11.11.2026",
+   "t": "18:05"
+  },
   {
    "cat": "భారత్ · హక్కులు",
    "col": "--c-power",
