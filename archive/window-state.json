@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T17:05:00+05:30",
+ "cutoff": "2026-11-11T17:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -725,6 +725,19 @@
    "skipped": 0,
    "review": 1,
    "gaps": "Search-first; WebFetch via sub-agent. Searches mostly returned stale tag/listing pages. ETV TG/AP live blogs no entries after 09:32/09:10; AJ live blog latest 13:45. Business Standard market live blog had no closing entry readable (HDFC Sky used). South First Revanth article body not readable. Eenadu blocked (robots). Sakshi, TV9, V6, NTV, The Hindu, PTI, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicates: TT Revanth minorities 16:46, Siasat Revanth quota 16:08, South First Revanth 14:42 (Banjara Bhavan speech already published 15:05), Tribune/ANI CII Rs 11 lakh crore 13:32 (CII summit published). Review: FPJ/IANS Amit Shah CII (no publication time)."
+  },
+  {
+   "window": "2026-11-11T17:05:00+05:30/2026-11-11T17:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 10,
+   "published": 2,
+   "late": 1,
+   "sensitive": 1,
+   "corrected": 0,
+   "duplicates": 4,
+   "skipped": 4,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Searches mostly returned stale listing pages. Eenadu blocked (robots). ETV TG/AP live blogs no entries after 09:32/09:10. Siasat/TT/NT listing pages relative times only. Sakshi, TV9, NTV, The Hindu, PTI, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicates: ANI Revanth minority quota 16:16, AJ flash Banjara Bhavan 13:40, AJ flash CII inspection 13:30, AJ flash Andaman circulation 13:45 (low-pressure story already seen). Skipped: AJ Hardik IPL (gossip), Siasat Arshdeep engagement (celebrity), Siasat Bengaluru Olympian medals (minor other-state), The Neuron AI digest items (minor international/aggregator). V6 padayatra datePublished 09:09 without timezone, treated as IST (either reading falls inside lookback)."
   }
  ],
  "seen": [
@@ -3072,6 +3085,56 @@
    "url": "https://www.freepressjournal.in/india/andhra-pradesh-union-hm-amit-shah-to-attend-31st-cii-partnership-summit-as-cm-chandrababu-naidu-seeks-global-investments",
    "d": "11.11.2026",
    "w": "review"
+  },
+  {
+   "url": "https://www.siasat.com/apcr-documents-322-hate-crimes-83-hate-speeches-from-jan-sept-3574226/",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://v6velugu.com/mega-padayatra-with-one-lakh-participants-to-be-held-in-karimnagar-bjp-chief-nitin-nabin-to-attend",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://aninews.in/news/national/politics/congress-empowers-muslims-by-providing-reservation-cm-revanth-reddy16020261111161620/",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.siasat.com/cricketer-arshdeep-singh-proposes-samreen-kaur-get-engaged-3574380/",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.siasat.com/glory-stolen-bengaluru-police-recover-olympians-medals-3574372/",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#andaman-circulation",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#hardik-ipl",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://vaartha.com/telangana/karimnagar-bjp-padayatra-nitin-nabin-visit/803337/",
+   "d": "11.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://hmtvlive.com/telugu-news/karimnagar/karimnagar-mayor-wedding-anniversary-at-ministers-office-211312",
+   "d": "11.11.2026",
+   "w": "17:35"
   }
  ]
 }
