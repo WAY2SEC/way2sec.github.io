@@ -1,8 +1,210 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T19:41:27+05:30",
+ "updated": "2026-11-11T20:09:43+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "నిర్మల్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "farm",
+   "stat": "1996",
+   "statl": "నిర్మల్ ఉప ఎన్నిక నాటి జ్ఞాపకం",
+   "h": "తెలంగాణ తెస్తానని కేసీఆర్ తొలిసారి చెప్పింది నిర్మల్‌లోనే: కేటీఆర్",
+   "p": "నిర్మల్‌లో జరిగిన బీఆర్ఎస్ రైతు గర్జన సభలో పార్టీ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ మాట్లాడారు. 1996లో నిర్మల్ ఉప ఎన్నిక సమయంలో ఇన్‌చార్జ్ మంత్రిగా వచ్చిన కేసీఆర్ పోచంపాడ్ ప్రాజెక్టును చూసి, గేట్లకు గ్రీజు కూడా లేని దుస్థితి చూసి, శక్తి ఇస్తే ఉద్యమం చేసి తెలంగాణ తెస్తానని అన్నారని గుర్తుచేశారు. నిర్మల్ కళాకారులను ఆయన ప్రశంసించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/adilabad/nirmal/first-time-kcr-told-he-will-bring-telangana-in-nirmal-area-says-ktr-2557740",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "pts": [
+    "నిర్మల్‌లో బీఆర్ఎస్ రైతు గర్జన సభ",
+    "1996 ఉప ఎన్నిక నాటి కేసీఆర్ మాటలు గుర్తుచేసిన కేటీఆర్",
+    "నిర్మల్ బొమ్మలు, చిత్రకళ కళాకారులకు ప్రశంస"
+   ],
+   "why": "నిర్మల్ ప్రాంత రైతులు, బీఆర్ఎస్ కార్యకర్తలను ఉద్దేశించిన సభ ఇది.",
+   "pub": "2026-11-11T18:38+05:30",
+   "en": {
+    "h": "KCR first spoke of achieving Telangana in Nirmal: KTR",
+    "p": "BRS working president KTR addressed the party's Rythu Garjana meeting in Nirmal. He recalled that during the 1996 Nirmal by-election, KCR came as in-charge minister, saw the Pochampad project with gates lacking even grease, and said that if given strength he would launch a movement and bring Telangana. KTR also praised Nirmal's artisans.",
+    "pts": [
+     "BRS Rythu Garjana meeting held in Nirmal",
+     "KTR recalls KCR's words from 1996 by-election",
+     "Praise for Nirmal toy and painting artisans"
+    ],
+    "why": "The meeting was aimed at farmers and BRS workers in the Nirmal region.",
+    "cat": "Nirmal · Politics",
+    "statl": "Memory of Nirmal by-election"
+   },
+   "hi": {
+    "h": "केसीआर ने तेलंगाना लाने की बात पहली बार निर्मल में कही थी: केटीआर",
+    "p": "बीआरएस के कार्यकारी अध्यक्ष केटीआर ने निर्मल में पार्टी की रैतु गर्जना सभा को संबोधित किया। उन्होंने याद किया कि 1996 के निर्मल उपचुनाव में प्रभारी मंत्री के रूप में आए केसीआर ने पोचमपाड परियोजना के गेटों पर ग्रीस तक न होने की हालत देखी और कहा कि शक्ति मिली तो आंदोलन कर तेलंगाना लाएंगे। केटीआर ने निर्मल के कारीगरों की भी सराहना की।",
+    "pts": [
+     "निर्मल में बीआरएस की रैतु गर्जना सभा",
+     "केटीआर ने 1996 उपचुनाव की केसीआर की बात याद की",
+     "निर्मल के खिलौना और चित्रकला कारीगरों की सराहना"
+    ],
+    "why": "यह सभा निर्मल क्षेत्र के किसानों और बीआरएस कार्यकर्ताओं को संबोधित थी।",
+    "cat": "निर्मल · राजनीति",
+    "statl": "निर्मल उपचुनाव की याद"
+   },
+   "d": "11.11.2026",
+   "t": "20:05"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "27 లక్షలు",
+   "statl": "బడిలో అల్పాహారం పొందుతున్న పిల్లలు",
+   "h": "ప్రతి బిడ్డకు నాణ్యమైన విద్యే లక్ష్యం: కాజీపేటలో భట్టి విక్రమార్క",
+   "p": "కాజీపేటలో తెలంగాణ పబ్లిక్ స్కూల్ కొత్త భవనానికి డిప్యూటీ సీఎం భట్టి విక్రమార్క బుధవారం శంకుస్థాపన చేశారు. రాష్ట్రంలో పుట్టిన ప్రతి బిడ్డకు నాణ్యమైన విద్య అందించడమే ప్రభుత్వ లక్ష్యమన్నారు. ఒక్కోటి సుమారు ₹200 కోట్లతో 105 యంగ్ ఇండియా పాఠశాలలు నిర్మిస్తున్నామని, ప్రతి నియోజకవర్గంలో పబ్లిక్ స్కూల్ వస్తుందని చెప్పారు. 27 లక్షల మంది పిల్లలకు బడిలో అల్పాహారం అందుతోందన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/quality-education-to-each-child-here-bhatti-spells-out-govt-goal-3574347/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "కాజీపేట",
+   "pts": [
+    "కాజీపేట పబ్లిక్ స్కూల్ భవనానికి శంకుస్థాపన",
+    "105 యంగ్ ఇండియా స్కూళ్లు, ఒక్కోటి ~₹200 కోట్లు",
+    "ప్రీ-ప్రైమరీ నుంచి 12వ తరగతి వరకు రవాణా, భోజనం"
+   ],
+   "why": "ప్రభుత్వ బడుల్లో చదివే పిల్లలు, తల్లిదండ్రులకు కొత్త సౌకర్యాలపై స్పష్టత.",
+   "pub": "2026-11-11T17:13+05:30",
+   "en": {
+    "h": "Quality education for every child is the goal: Bhatti in Kazipet",
+    "p": "Deputy CM Bhatti Vikramarka on Wednesday laid the foundation stone for a new Telangana Public School building in Kazipet. He said the government's goal is quality education for every child born in the state. He said 105 Young India schools costing around Rs 200 crore each are being built and a public school will come up in every constituency. 27 lakh children get breakfast at school, he said.",
+    "pts": [
+     "Foundation laid for Kazipet public school building",
+     "105 Young India schools, about Rs 200 crore each",
+     "Transport, meals from pre-primary to Class 12"
+    ],
+    "why": "Clarity for children in government schools and their parents on new facilities.",
+    "cat": "Telangana · Education",
+    "statl": "Children getting school breakfast"
+   },
+   "hi": {
+    "h": "हर बच्चे को गुणवत्तापूर्ण शिक्षा लक्ष्य: काजीपेट में भट्टि विक्रमार्क",
+    "p": "उपमुख्यमंत्री भट्टि विक्रमार्क ने बुधवार को काजीपेट में तेलंगाना पब्लिक स्कूल के नए भवन की आधारशिला रखी। उन्होंने कहा कि राज्य में जन्मे हर बच्चे को गुणवत्तापूर्ण शिक्षा देना सरकार का लक्ष्य है। लगभग 200 करोड़ रुपये प्रति स्कूल की लागत से 105 यंग इंडिया स्कूल बन रहे हैं और हर निर्वाचन क्षेत्र में पब्लिक स्कूल बनेगा। 27 लाख बच्चों को स्कूल में नाश्ता मिल रहा है।",
+    "pts": [
+     "काजीपेट पब्लिक स्कूल भवन की आधारशिला",
+     "105 यंग इंडिया स्कूल, प्रत्येक ~200 करोड़ रुपये",
+     "प्री-प्राइमरी से 12वीं तक परिवहन, भोजन"
+    ],
+    "why": "सरकारी स्कूलों के बच्चों और अभिभावकों के लिए नई सुविधाओं पर स्पष्टता।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "स्कूल में नाश्ता पाने वाले बच्चे"
+   },
+   "d": "11.11.2026",
+   "t": "20:05"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "2,721",
+   "statl": "ప్రకటించిన టీచర్ పోస్టులు",
+   "h": "23 వేల ఖాళీలుంటే 2,721 టీచర్ పోస్టులేనా: వైఎస్సార్సీపీ విమర్శ",
+   "p": "రాష్ట్రంలో 23 వేలకు పైగా టీచర్ ఖాళీలు ఉన్నా ప్రభుత్వం 2,721 పోస్టులే ప్రకటించిందని వైఎస్సార్సీపీ విద్యార్థి విభాగం వర్కింగ్ ప్రెసిడెంట్ ఎ. రవిచంద్ర తాడేపల్లిలో ఆరోపించారు. రోస్టర్ వివరాల ఆలస్యం, జిల్లాల మధ్య అసమాన కేటాయింపులపై సమాధానం కోరారు. ఐదు జిల్లాలకు ఒక్క పోస్టూ రాలేదని, తొమ్మిది జిల్లాలకు ఒక అంకె పోస్టులే వచ్చాయని అన్నారు. ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/politics/ysrcp-accuses-naidu-government-of-rs-12000-crore-amaravati-land-scam20261111185817/",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "తాడేపల్లి",
+   "pts": [
+    "906 స్కూల్ అసిస్టెంట్, 1,205 ఎస్జీటీ పోస్టులు ఉన్నాయి",
+    "5 జిల్లాలకు సున్నా పోస్టులు అని ఆరోపణ",
+    "చర్యలు లేకపోతే రాష్ట్రవ్యాప్త నిరసనలని హెచ్చరిక"
+   ],
+   "why": "ఏపీలో టీచర్ ఉద్యోగాల కోసం సిద్ధమవుతున్న నిరుద్యోగ యువతకు సంబంధించిన అంశం.",
+   "pub": "2026-11-11T18:58+05:30",
+   "en": {
+    "h": "Only 2,721 teacher posts despite 23,000 vacancies: YSRCP",
+    "p": "YSRCP students' wing working president A. Ravichandra alleged in Tadepalli that the government announced only 2,721 posts although over 23,000 teacher vacancies exist in the state. He sought answers on delayed roster details and unequal district allocations. He said five districts got no posts and nine got only single-digit allocations. The report carries no government response.",
+    "pts": [
+     "Posts include 906 School Assistants, 1,205 SGTs",
+     "Alleges five districts got zero posts",
+     "Warns of statewide protests if no action"
+    ],
+    "why": "The issue concerns unemployed youth preparing for teacher jobs in AP.",
+    "cat": "AP · Jobs",
+    "statl": "Teacher posts announced"
+   },
+   "hi": {
+    "h": "23 हज़ार रिक्तियों पर सिर्फ 2,721 शिक्षक पद: वाईएसआरसीपी",
+    "p": "वाईएसआरसीपी छात्र विंग के कार्यकारी अध्यक्ष ए. रविचंद्र ने ताडेपल्ली में आरोप लगाया कि राज्य में 23 हज़ार से ज़्यादा शिक्षक पद खाली होने के बावजूद सरकार ने सिर्फ 2,721 पद घोषित किए। उन्होंने रोस्टर विवरण में देरी और ज़िलों के बीच असमान आवंटन पर जवाब मांगा। उनके अनुसार पांच ज़िलों को एक भी पद नहीं मिला और नौ ज़िलों को एक अंक में पद मिले। रिपोर्ट में सरकार का जवाब नहीं है।",
+    "pts": [
+     "906 स्कूल असिस्टेंट, 1,205 एसजीटी पद शामिल",
+     "पांच ज़िलों को शून्य पद मिलने का आरोप",
+     "कार्रवाई न होने पर राज्यव्यापी विरोध की चेतावनी"
+    ],
+    "why": "यह मुद्दा आंध्र प्रदेश में शिक्षक नौकरी की तैयारी कर रहे बेरोज़गार युवाओं से जुड़ा है।",
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "घोषित शिक्षक पद"
+   },
+   "d": "11.11.2026",
+   "t": "20:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · సమాజం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "3,000 కి.మీ",
+   "statl": "భీమవరం నుంచి ఢిల్లీకి సైకిల్ యాత్ర",
+   "h": "62 ఏళ్ల వయసులో 3,000 కి.మీ సైకిల్ యాత్ర: డ్రగ్స్‌పై అవగాహన",
+   "p": "డ్రగ్స్ వ్యసనంపై యువతలో అవగాహన కోసం 62 ఏళ్ల విజయలక్ష్మి నషా ముక్త్ భారత్ అభియాన్‌లో భాగంగా భీమవరం నుంచి న్యూఢిల్లీకి 3,000 కి.మీ సైకిల్ యాత్ర చేపట్టారు. అక్టోబర్ 2న ప్రారంభించి ఇప్పటివరకు సుమారు 800 కి.మీ ప్రయాణించారు; డిసెంబర్ 10న ఢిల్లీ చేరాలని లక్ష్యం. హైదరాబాద్‌లో తెలంగాణ ఈగల్ ఫోర్స్ ఆమెకు ఘన స్వాగతం పలికింది.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/62-year-old-woman-cycles-3000-km-from-andhra-pradesh-to-new-delhi-for-nasha-mukth-bharat-campaign20261111142035/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "అక్టోబర్ 2న భీమవరం నుంచి యాత్ర ప్రారంభం",
+    "ఇప్పటికే 40 కళాశాలల సందర్శన",
+    "లక్ష మంది పిల్లలను చేరుకోవడం లక్ష్యం"
+   ],
+   "why": "డ్రగ్స్ ముప్పుపై తల్లిదండ్రులు, యువతను అప్రమత్తం చేసే ప్రయత్నం ఇది.",
+   "pub": "2026-11-11T14:20+05:30",
+   "en": {
+    "h": "At 62, a 3,000-km cycle journey for drug awareness",
+    "p": "To raise awareness among youth about drug abuse, 62-year-old Vijayalakshmi has taken up a 3,000-km cycle journey from Bheemavaram to New Delhi under the Nasha Mukt Bharat Abhiyan. She began on October 2, has covered about 800 km so far and aims to reach Delhi on December 10. The Telangana Eagle Force gave her a grand welcome in Hyderabad.",
+    "pts": [
+     "Journey began from Bheemavaram on October 2",
+     "Has visited 40 colleges so far",
+     "Aims to reach one lakh children"
+    ],
+    "why": "An effort to alert parents and youth to the threat of drugs.",
+    "cat": "Hyderabad · Society",
+    "statl": "Bheemavaram to Delhi cycle ride"
+   },
+   "hi": {
+    "h": "62 की उम्र में 3,000 किमी साइकिल यात्रा: नशे के खिलाफ जागरूकता",
+    "p": "युवाओं में नशे की लत के प्रति जागरूकता के लिए 62 वर्षीय विजयलक्ष्मी ने नशा मुक्त भारत अभियान के तहत भीमावरम से नई दिल्ली तक 3,000 किमी की साइकिल यात्रा शुरू की है। 2 अक्टूबर को शुरू कर वे अब तक करीब 800 किमी चल चुकी हैं और 10 दिसंबर को दिल्ली पहुंचने का लक्ष्य है। हैदराबाद में तेलंगाना ईगल फोर्स ने उनका भव्य स्वागत किया।",
+    "pts": [
+     "2 अक्टूबर को भीमावरम से यात्रा शुरू",
+     "अब तक 40 कॉलेजों का दौरा",
+     "एक लाख बच्चों तक पहुंचने का लक्ष्य"
+    ],
+    "why": "नशे के खतरे के प्रति अभिभावकों और युवाओं को सचेत करने का प्रयास।",
+    "cat": "हैदराबाद · समाज",
+    "statl": "भीमावरम से दिल्ली साइकिल यात्रा"
+   },
+   "d": "11.11.2026",
+   "t": "20:05"
+  },
   {
    "cat": "తెలంగాణ · ఆరోగ్యం",
    "col": "--c-city",
@@ -2317,206 +2519,6 @@
     "why": "मतदाता सूची पुनरीक्षण पर राज्य और केंद्र के सत्ताधारी दलों का विवाद मतदाताओं से जुड़ा है।",
     "cat": "तेलंगाना · राजनीति",
     "statl": "अल्पसंख्यक आरक्षण पर सीएम की टिप्पणी"
-   },
-   "d": "11.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "రంగారెడ్డి · మోసం",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "₹30 లక్షలు",
-   "statl": "నకిలీ పత్రాలతో పొందిన రుణాలు (ఆరోపణ)",
-   "h": "నకిలీ పత్రాలతో ఐసీఐసీఐ బ్యాంకుకు ₹30 లక్షల మోసం ఆరోపణ: ఐదుగురు అదుపులో",
-   "p": "నకిలీ ఆధార్, పాన్ కార్డులు, నకిలీ నియామక పత్రాలు, జీతం స్లిప్పులతో ఐసీఐసీఐ బ్యాంకు నుంచి ₹30 లక్షల రుణాలు పొందారన్న ఆరోపణపై ఇబ్రహీంపట్నం పోలీసులు ఐదుగురిని అదుపులోకి తీసుకున్నారు. అనుమానాస్పద రుణ లావాదేవీలపై దర్యాప్తులో ఇది బయటపడిందని తెలంగాణ టుడే కథనం. ఈ ముఠా ఇతర రుణ మోసాల్లోనూ పాల్గొందా, ఇంకా ఎవరైనా ఉన్నారా అని పోలీసులు పరిశీలిస్తున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-five-held-for-allegedly-cheating-icici-bank-of-rs-30-lakh",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "ఇబ్రహీంపట్నం",
-   "pts": [
-    "నకిలీ ఆధార్, పాన్, జీతం స్లిప్పులు వాడారని ఆరోపణ",
-    "ఐదుగురిని అదుపులోకి తీసుకుని విచారణ",
-    "ఇతర రుణ మోసాలపైనా పోలీసుల దర్యాప్తు"
-   ],
-   "why": "నకిలీ పత్రాలతో రుణ మోసాలు బ్యాంకులు, ఖాతాదారులు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని చూపుతున్నాయి.",
-   "pub": "2026-11-11T14:22+05:30",
-   "en": {
-    "h": "Five detained for allegedly cheating ICICI Bank of Rs 30 lakh with fake papers",
-    "p": "Ibrahimpatnam police detained five people on the allegation that they obtained Rs 30 lakh in loans from ICICI Bank using fake Aadhaar and PAN cards, forged appointment letters and salary slips. Telangana Today reports it came to light during a probe into suspicious loan transactions. Police are checking whether the gang was involved in other loan frauds and whether more people were part of it.",
-    "pts": [
-     "Fake Aadhaar, PAN and salary slips allegedly used",
-     "Five detained and being questioned",
-     "Police probing links to other loan frauds"
-    ],
-    "why": "Loan frauds using fake documents show the need for banks and customers to stay alert.",
-    "cat": "Rangareddy · Fraud",
-    "statl": "Loans obtained with fake papers (alleged)"
-   },
-   "hi": {
-    "h": "फर्जी दस्तावेजों से ICICI बैंक से ₹30 लाख ठगी का आरोप: पांच हिरासत में",
-    "p": "इब्राहिमपट्टनम पुलिस ने पांच लोगों को इस आरोप में हिरासत में लिया कि उन्होंने फर्जी आधार, पैन कार्ड, जाली नियुक्ति पत्र और वेतन पर्चियों से ICICI बैंक से ₹30 लाख के कर्ज लिए। तेलंगाना टुडे के अनुसार संदिग्ध ऋण लेनदेन की जांच में यह सामने आया। पुलिस जांच रही है कि क्या गिरोह अन्य ऋण धोखाधड़ी में भी शामिल था और क्या इसमें और लोग हैं।",
-    "pts": [
-     "फर्जी आधार, पैन, वेतन पर्ची इस्तेमाल का आरोप",
-     "पांच लोग हिरासत में, पूछताछ जारी",
-     "अन्य ऋण धोखाधड़ी की भी जांच"
-    ],
-    "why": "फर्जी दस्तावेजों से ऋण धोखाधड़ी बैंकों और ग्राहकों के लिए सतर्कता की जरूरत दिखाती है।",
-    "cat": "रंगारेड्डी · धोखाधड़ी",
-    "statl": "फर्जी कागजों से लिया कर्ज (आरोप)"
-   },
-   "d": "11.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹11 లక్షల కోట్లు",
-   "statl": "సదస్సులో ఆశిస్తున్న పెట్టుబడి ఒప్పందాలు",
-   "h": "విశాఖ సీఐఐ సదస్సు: ₹11 లక్షల కోట్ల పెట్టుబడి ఒప్పందాలు ఆశాభావం",
-   "p": "విశాఖపట్నంలో జరగనున్న 31వ సీఐఐ భాగస్వామ్య సదస్సు ఏర్పాట్లను మంత్రి డోలా బాల వీరాంజనేయస్వామి, ఎంపీ భరత్, ఎమ్మెల్యేలు పరిశీలించారు. వరుసగా రెండోసారి ఈ సదస్సు విశాఖలో జరుగుతోంది. ఉపరాష్ట్రపతి, సీఎం చంద్రబాబు, కేంద్ర మంత్రులు హాజరవుతారు. సదస్సులో సుమారు ₹11 లక్షల కోట్ల పెట్టుబడి ఒప్పందాలు జరుగుతాయని అంచనా అని ఆంధ్రజ్యోతి పేర్కొంది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cii-arrangements",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "31వ సీఐఐ భాగస్వామ్య సదస్సు ఏర్పాట్ల పరిశీలన",
-    "వరుసగా రెండోసారి విశాఖలో సదస్సు",
-    "ఉపరాష్ట్రపతి, సీఎం, కేంద్ర మంత్రులు హాజరు"
-   ],
-   "why": "భారీ పెట్టుబడి ఒప్పందాలు జరిగితే ఏపీలో పరిశ్రమలు, ఉద్యోగాలపై ప్రభావం ఉంటుంది.",
-   "pub": "2026-11-11T13:30+05:30",
-   "en": {
-    "h": "Vizag CII summit: Rs 11 lakh crore investment pacts expected",
-    "p": "Minister Dola Bala Veeranjaneya Swamy, MP Bharat and MLAs inspected arrangements for the 31st CII Partnership Summit in Visakhapatnam. The summit is being held there for the second consecutive time. The Vice President, CM Chandrababu and Union ministers will attend. Andhra Jyothy reports that investment agreements worth about Rs 11 lakh crore are expected at the summit.",
-    "pts": [
-     "Arrangements for 31st CII Partnership Summit inspected",
-     "Held in Visakhapatnam for second straight time",
-     "Vice President, CM, Union ministers to attend"
-    ],
-    "why": "Large investment agreements would affect industries and jobs in Andhra Pradesh.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "Investment pacts expected at summit"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम CII सम्मेलन: ₹11 लाख करोड़ के निवेश समझौतों की उम्मीद",
-    "p": "मंत्री डोला बाला वीरांजनेय स्वामी, सांसद भरत और विधायकों ने विशाखापत्तनम में होने वाले 31वें CII पार्टनरशिप समिट की तैयारियों का निरीक्षण किया। यह सम्मेलन लगातार दूसरी बार वहां हो रहा है। उपराष्ट्रपति, सीएम चंद्रबाबू और केंद्रीय मंत्री शामिल होंगे। आंध्र ज्योति के अनुसार सम्मेलन में करीब ₹11 लाख करोड़ के निवेश समझौते होने की उम्मीद है।",
-    "pts": [
-     "31वें CII पार्टनरशिप समिट की तैयारियों का निरीक्षण",
-     "लगातार दूसरी बार विशाखापत्तनम में आयोजन",
-     "उपराष्ट्रपति, सीएम, केंद्रीय मंत्री होंगे शामिल"
-    ],
-    "why": "बड़े निवेश समझौते आंध्र प्रदेश में उद्योग और रोजगार को प्रभावित करेंगे।",
-    "cat": "एपी · विशाखापत्तनम",
-    "statl": "सम्मेलन में अपेक्षित निवेश समझौते"
-   },
-   "d": "11.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "ఏపీ · సాగునీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "36",
-   "statl": "రెండున్నరేళ్లలో పూర్తి చేయాల్సిన ప్రాజెక్టులు",
-   "h": "36 సాగునీటి ప్రాజెక్టులు రెండున్నరేళ్లలో పూర్తి చేయాలి: సీఎం చంద్రబాబు",
-   "p": "సాగునీటి ప్రాజెక్టులు, ఎత్తిపోతల పథకాలపై సీఎం చంద్రబాబు సమీక్ష నిర్వహించారు. ఎత్తిపోతల పథకాల మరమ్మతులు, నిర్వహణ, సాగునీటి శాఖ భూముల్లో సోలార్ విద్యుత్ ప్లాంట్ల ఏర్పాటుపై చర్చ జరిగింది. ఎత్తిపోతల పథకాలను జలహారతి కార్పొరేషన్ ద్వారా పర్యవేక్షించాలని, నీటి నియంత్రణ కమిషన్‌పై అధ్యయనం చేయాలని సూచించారు. 36 ప్రాజెక్టులను రెండున్నరేళ్లలో పూర్తి చేయాలని ఆదేశించారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cbn-irrigation-review",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "ఎత్తిపోతల మరమ్మతులు, నిర్వహణపై చర్చ",
-    "సాగునీటి భూముల్లో సోలార్ ప్లాంట్ల ప్రతిపాదన",
-    "జలహారతి కార్పొరేషన్ ద్వారా పర్యవేక్షణ సూచన"
-   ],
-   "why": "ప్రాజెక్టులు సకాలంలో పూర్తయితే ఏపీ రైతులకు సాగునీరు అందుబాటులోకి వస్తుంది.",
-   "pub": "2026-11-11T12:40+05:30",
-   "en": {
-    "h": "Complete 36 irrigation projects within two and a half years: CM Naidu",
-    "p": "CM Chandrababu Naidu reviewed irrigation projects and lift irrigation schemes. Repair and maintenance of lift schemes and setting up solar power plants on irrigation department land were discussed. He suggested monitoring lift schemes through the Jalaharati Corporation and studying a water regulatory commission. He directed that 36 projects be completed within two and a half years.",
-    "pts": [
-     "Repair and maintenance of lift schemes discussed",
-     "Solar plants on irrigation land proposed",
-     "Monitoring through Jalaharati Corporation suggested"
-    ],
-    "why": "Timely completion of projects would bring irrigation water to AP farmers.",
-    "cat": "AP · Irrigation",
-    "statl": "Projects to finish in two and a half years"
-   },
-   "hi": {
-    "h": "36 सिंचाई परियोजनाएं ढाई साल में पूरी करें: सीएम चंद्रबाबू",
-    "p": "सीएम चंद्रबाबू नायडू ने सिंचाई परियोजनाओं और लिफ्ट सिंचाई योजनाओं की समीक्षा की। लिफ्ट योजनाओं की मरम्मत, रखरखाव और सिंचाई विभाग की जमीन पर सौर बिजली संयंत्र लगाने पर चर्चा हुई। उन्होंने जलहारती कॉरपोरेशन के जरिए लिफ्ट योजनाओं की निगरानी और जल नियामक आयोग के अध्ययन का सुझाव दिया। उन्होंने 36 परियोजनाएं ढाई साल में पूरी करने का निर्देश दिया।",
-    "pts": [
-     "लिफ्ट योजनाओं की मरम्मत, रखरखाव पर चर्चा",
-     "सिंचाई जमीन पर सौर संयंत्र का प्रस्ताव",
-     "जलहारती कॉरपोरेशन से निगरानी का सुझाव"
-    ],
-    "why": "परियोजनाएं समय पर पूरी होने से एपी के किसानों को सिंचाई पानी मिलेगा।",
-    "cat": "एपी · सिंचाई",
-    "statl": "ढाई साल में पूरी होने वाली परियोजनाएं"
-   },
-   "d": "11.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "70",
-   "statl": "స్వాధీనం చేసుకున్న నకిలీ జనన ధృవపత్రాలు",
-   "h": "నకిలీ జనన ధృవపత్రాల ముఠా: ముగ్గురిని అరెస్ట్ చేసిన ఎస్‌వోటీ పోలీసులు",
-   "p": "నకిలీ జనన ధృవపత్రాలు జారీ చేస్తున్న ముఠాకు చెందిన ముగ్గురిని ఎస్‌వోటీ పోలీసులు అరెస్ట్ చేశారు. వారి నుంచి 70 నకిలీ జనన ధృవపత్రాలు స్వాధీనం చేసుకున్నారు. ప్రధాన నిందితుడికి ఇద్దరు ఏజెంట్లు సహకరించారని, ఈ దందా టెలిగ్రామ్ ద్వారా సాగిందని పోలీసులు తెలిపినట్లు ఆంధ్రజ్యోతి పేర్కొంది.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#fake-birth-certificates",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "ముగ్గురు నిందితుల అరెస్ట్",
-    "70 నకిలీ జనన ధృవపత్రాలు స్వాధీనం",
-    "టెలిగ్రామ్ ద్వారా దందా అని పోలీసులు"
-   ],
-   "why": "ధృవపత్రాలు అధికారిక మార్గంలోనే తీసుకోవాలని ఈ కేసు ప్రజలను హెచ్చరిస్తోంది.",
-   "pub": "2026-11-11T12:30+05:30",
-   "en": {
-    "h": "Fake birth certificate racket: SOT police arrest three",
-    "p": "SOT police arrested three members of a gang issuing fake birth certificates and seized 70 fake certificates from them. Police said two agents helped the main accused and that the racket operated through Telegram, Andhra Jyothy reported.",
-    "pts": [
-     "Three accused arrested",
-     "70 fake birth certificates seized",
-     "Racket ran through Telegram, police say"
-    ],
-    "why": "The case warns people to obtain certificates only through official channels.",
-    "cat": "Hyderabad · Crime",
-    "statl": "Fake birth certificates seized"
-   },
-   "hi": {
-    "h": "फर्जी जन्म प्रमाणपत्र गिरोह: SOT पुलिस ने तीन को गिरफ्तार किया",
-    "p": "SOT पुलिस ने फर्जी जन्म प्रमाणपत्र जारी करने वाले गिरोह के तीन सदस्यों को गिरफ्तार किया और उनसे 70 फर्जी प्रमाणपत्र जब्त किए। आंध्र ज्योति के अनुसार पुलिस ने बताया कि दो एजेंटों ने मुख्य आरोपी की मदद की और यह धंधा टेलीग्राम के जरिए चलता था।",
-    "pts": [
-     "तीन आरोपी गिरफ्तार",
-     "70 फर्जी जन्म प्रमाणपत्र जब्त",
-     "पुलिस के अनुसार टेलीग्राम से धंधा"
-    ],
-    "why": "यह मामला लोगों को प्रमाणपत्र केवल आधिकारिक माध्यम से लेने की चेतावनी देता है।",
-    "cat": "हैदराबाद · अपराध",
-    "statl": "जब्त फर्जी जन्म प्रमाणपत्र"
    },
    "d": "11.11.2026",
    "t": "15:05"
