@@ -872,7 +872,7 @@
   {
    "window": "2026-11-11T22:35:00+05:30/2026-11-11T23:05:00+05:30",
    "status": "completed-with-gaps",
-   "eligible": 6,
+   "eligible": 5,
    "published": 3,
    "late": 2,
    "sensitive": 0,
