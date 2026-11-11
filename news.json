@@ -1,8 +1,210 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T22:10:57+05:30",
+ "updated": "2026-11-11T22:47:15+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · పోలీస్",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "AI",
+   "statl": "దేశంలో తొలి AI పోలీస్ స్టేషన్",
+   "h": "దేశంలో తొలి AI పోలీస్ స్టేషన్‌గా పంజాగుట్ట",
+   "p": "హైదరాబాద్ పంజాగుట్ట పోలీస్ స్టేషన్‌ను దేశంలోనే తొలి AI ఆధారిత పోలీస్ స్టేషన్‌గా మారుస్తున్నారని తెలంగాణ టుడే కథనం. ఫిర్యాదు స్వీకరణ నుంచి ఎఫ్‌ఐఆర్, దర్యాప్తు నివేదికలు, చార్జిషీట్ వరకు అన్ని దశల్లో AI వాడతారు. రిసెప్షన్‌లోని 'సేతు' కియోస్క్‌లో దాదాపు 10 భాషల్లో ఫిర్యాదు చేయవచ్చు. డిసెంబర్ మొదటి వారంలో డీజీపీ సీవీ ఆనంద్ పైలట్‌ను ప్రారంభించే అవకాశం ఉంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/punjagutta-police-station-gets-ai-upgrade-31aa68e2",
+   "sec": [
+    "telangana",
+    "ai",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "పంజాగుట్ట",
+   "pts": [
+    "'సేతు' కియోస్క్‌లో దాదాపు 10 భాషల్లో ఫిర్యాదులు",
+    "కమిషనర్ వీసీ సజ్జనార్ ఆకస్మిక తనిఖీ",
+    "పైలట్ తర్వాత రాష్ట్రవ్యాప్తంగా విస్తరణపై నిర్ణయం"
+   ],
+   "why": "ఫిర్యాదుదారులు తమ భాషలోనే ఫిర్యాదు చేయగలుగుతారు; పైలట్ విజయవంతమైతే రాష్ట్రమంతా అమలవుతుంది.",
+   "pub": "2026-11-11T22:31+05:30",
+   "en": {
+    "h": "Punjagutta to become India's first AI-powered police station",
+    "p": "Hyderabad's Punjagutta police station is being turned into the country's first AI-powered police station, Telangana Today reported. AI will be used at every stage, from receiving complaints to FIRs, investigation reports and charge sheets. A 'Sethu' kiosk at the reception lets people file complaints in nearly 10 languages. DGP CV Anand is expected to launch the pilot in the first week of December.",
+    "pts": [
+     "'Sethu' kiosk takes complaints in nearly 10 languages",
+     "Commissioner VC Sajjanar made a surprise inspection",
+     "Statewide rollout to be decided after the pilot"
+    ],
+    "why": "Complainants can file in their own language; if the pilot works, it will be extended across the state.",
+    "cat": "Hyderabad · Police",
+    "statl": "India's first AI police station"
+   },
+   "hi": {
+    "h": "पंजागुट्टा बनेगा देश का पहला AI पुलिस स्टेशन",
+    "p": "तेलंगाना टुडे के अनुसार हैदराबाद के पंजागुट्टा पुलिस स्टेशन को देश के पहले AI-आधारित पुलिस स्टेशन में बदला जा रहा है। शिकायत लेने से लेकर एफआईआर, जांच रिपोर्ट और चार्जशीट तक हर चरण में AI का उपयोग होगा। रिसेप्शन पर 'सेतु' कियोस्क में लगभग 10 भाषाओं में शिकायत दर्ज की जा सकती है। डीजीपी सीवी आनंद दिसंबर के पहले सप्ताह में पायलट शुरू कर सकते हैं।",
+    "pts": [
+     "'सेतु' कियोस्क पर लगभग 10 भाषाओं में शिकायत",
+     "कमिश्नर वीसी सज्जनार ने औचक निरीक्षण किया",
+     "पायलट के बाद राज्यव्यापी विस्तार पर फैसला"
+    ],
+    "why": "शिकायतकर्ता अपनी भाषा में शिकायत कर सकेंगे; पायलट सफल रहा तो पूरे राज्य में लागू होगा।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "देश का पहला AI पुलिस स्टेशन"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · కార్మికులు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "6 లక్షలు",
+   "statl": "రాష్ట్రంలో గిగ్ కార్మికులు",
+   "h": "నవంబర్ 14న హైదరాబాద్‌లో గిగ్ కార్మికుల సభకు రాహుల్ గాంధీ",
+   "p": "కాంగ్రెస్ నేత రాహుల్ గాంధీ నవంబర్ 14న హైదరాబాద్‌లో గిగ్ కార్మికుల సమావేశానికి హాజరై సంక్షేమ చర్యలు ప్రకటిస్తారని కార్మిక మంత్రి జి. వివేక్ వెంకటస్వామి తెలిపారు. రాష్ట్రంలో సుమారు 6 లక్షల గిగ్ కార్మికులు ఉన్నారు. శిల్పకళా వేదిక నుంచి హెచ్‌ఐసీసీ వరకు ర్యాలీ జరుగుతుంది. నమోదైన కార్మికులు ప్రభుత్వ యాప్‌ను స్కాన్ చేసి హాజరుకావచ్చని పీటీఐ కథనం.",
+   "src": "Siasat Daily (PTI)",
+   "url": "https://www.siasat.com/hyderabad-rahul-gandhi-to-attend-gig-workers-meeting-on-nov-14-3574748/",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "సభలో గిగ్ కార్మికుల సంక్షేమ చర్యల ప్రకటన",
+    "శిల్పకళా వేదిక నుంచి హెచ్‌ఐసీసీ వరకు ర్యాలీ",
+    "గిగ్ వర్కర్ల చట్టం మార్చిలో అమల్లోకి వచ్చిందన్న మంత్రి"
+   ],
+   "why": "డెలివరీ, క్యాబ్ వంటి ప్లాట్‌ఫాం పనులు చేసే లక్షల మంది కార్మికులకు సంబంధించిన ప్రకటనలు రానున్నాయి.",
+   "pub": "2026-11-11T22:14+05:30",
+   "en": {
+    "h": "Rahul Gandhi to attend Hyderabad gig workers' meet on November 14",
+    "p": "Congress leader Rahul Gandhi will attend a gig workers' meeting in Hyderabad on November 14 and announce welfare measures, Labour Minister G Vivek Venkataswamy said. The state has about 6 lakh gig workers. A rally will run from Silpakala Vedika to HICC. Registered workers can attend by scanning a government app, PTI reported.",
+    "pts": [
+     "Welfare measures for gig workers to be announced",
+     "Rally from Silpakala Vedika to HICC",
+     "Minister says gig workers law was enacted in March"
+    ],
+    "why": "Announcements are due for lakhs of platform workers such as delivery and cab drivers.",
+    "cat": "Hyderabad · Workers",
+    "statl": "Gig workers in the state"
+   },
+   "hi": {
+    "h": "14 नवंबर को हैदराबाद में गिग कामगारों की सभा में राहुल गांधी",
+    "p": "श्रम मंत्री जी. विवेक वेंकटस्वामी ने कहा कि कांग्रेस नेता राहुल गांधी 14 नवंबर को हैदराबाद में गिग कामगारों की बैठक में शामिल होंगे और कल्याण उपायों की घोषणा करेंगे। राज्य में लगभग 6 लाख गिग कामगार हैं। शिल्पकला वेदिका से एचआईसीसी तक रैली होगी। पीटीआई के अनुसार पंजीकृत कामगार सरकारी ऐप स्कैन करके शामिल हो सकते हैं।",
+    "pts": [
+     "गिग कामगारों के लिए कल्याण उपायों की घोषणा",
+     "शिल्पकला वेदिका से एचआईसीसी तक रैली",
+     "मंत्री के अनुसार गिग कामगार कानून मार्च में बना"
+    ],
+    "why": "डिलीवरी, कैब जैसे प्लेटफॉर्म काम करने वाले लाखों कामगारों से जुड़ी घोषणाएं होंगी।",
+    "cat": "हैदराबाद · कामगार",
+    "statl": "राज्य में गिग कामगार"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · టి-హబ్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "20",
+   "statl": "ఇజ్రాయెల్ కంపెనీలు",
+   "h": "ఇజ్రాయెల్ కంపెనీలతో టి-హబ్ కార్యక్రమం రద్దు చేయాలని ఎస్ఐఓ డిమాండ్",
+   "p": "నవంబర్ 16న 20 ఇజ్రాయెల్ కంపెనీలతో టి-హబ్ నిర్వహించనున్న కార్యక్రమాన్ని రద్దు చేయాలని స్టూడెంట్స్ ఇస్లామిక్ ఆర్గనైజేషన్ (ఎస్ఐఓ) ప్రభుత్వాన్ని కోరింది. ఈ కంపెనీలు రక్షణ సాంకేతికత, రోబోటిక్స్, సైబర్ భద్రత, AI రంగాలవి. కనీసం 11 కంపెనీలకు ఇజ్రాయెల్ సైన్యంతో సంబంధాలు ఉన్నాయని సియాసత్ గతంలో రాసింది. ఆర్థిక ప్రయోజనాలు మానవ ప్రాణాల కంటే ముఖ్యం కాదని ఎస్ఐఓ రాష్ట్ర అధ్యక్షుడు అన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/sio-urges-t-hub-to-cancel-nov-16-event-with-israeli-firms-3574678/",
+   "sec": [
+    "telangana",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 16న టి-హబ్‌లో 20 ఇజ్రాయెల్ కంపెనీలు",
+    "రక్షణ, రోబోటిక్స్, సైబర్ భద్రత, AI రంగాలు",
+    "కార్యక్రమం రద్దు చేయాలని ఎస్ఐఓ విజ్ఞప్తి"
+   ],
+   "why": "రాష్ట్ర స్టార్టప్ కేంద్రం టి-హబ్ అంతర్జాతీయ కార్యక్రమంపై విద్యార్థి సంస్థ అభ్యంతరం తెలిపింది.",
+   "pub": "2026-11-11T22:00+05:30",
+   "en": {
+    "h": "SIO urges T-Hub to cancel November 16 event with Israeli firms",
+    "p": "The Students Islamic Organisation (SIO) urged the government to cancel T-Hub's November 16 event with 20 Israeli companies. The firms work in defence technology, robotics, cybersecurity and AI. Siasat had earlier reported that at least 11 of them have ties to the Israeli military. SIO's state president said economic interests should not come before human lives.",
+    "pts": [
+     "20 Israeli companies at T-Hub on November 16",
+     "Defence, robotics, cybersecurity and AI sectors",
+     "SIO appeals for the event to be cancelled"
+    ],
+    "why": "A student body has objected to an international event at T-Hub, the state's startup hub.",
+    "cat": "Hyderabad · T-Hub",
+    "statl": "Israeli companies"
+   },
+   "hi": {
+    "h": "इज़राइली कंपनियों के साथ टी-हब कार्यक्रम रद्द करने की एसआईओ की मांग",
+    "p": "स्टूडेंट्स इस्लामिक ऑर्गनाइज़ेशन (एसआईओ) ने सरकार से 16 नवंबर को 20 इज़राइली कंपनियों के साथ होने वाला टी-हब कार्यक्रम रद्द करने की मांग की। ये कंपनियां रक्षा तकनीक, रोबोटिक्स, साइबर सुरक्षा और AI क्षेत्र की हैं। सियासत ने पहले बताया था कि इनमें से कम से कम 11 के इज़राइली सेना से संबंध हैं। एसआईओ के राज्य अध्यक्ष ने कहा कि आर्थिक हित मानव जीवन से ऊपर नहीं हो सकते।",
+    "pts": [
+     "16 नवंबर को टी-हब में 20 इज़राइली कंपनियां",
+     "रक्षा, रोबोटिक्स, साइबर सुरक्षा और AI क्षेत्र",
+     "एसआईओ ने कार्यक्रम रद्द करने की अपील की"
+    ],
+    "why": "राज्य के स्टार्टअप केंद्र टी-हब के अंतरराष्ट्रीय कार्यक्रम पर एक छात्र संगठन ने आपत्ति जताई है।",
+    "cat": "हैदराबाद · टी-हब",
+    "statl": "इज़राइली कंपनियां"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "తెలంగాణ · క్రికెట్",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "120",
+   "statl": "ఎంపికైన మహిళా క్రికెటర్లు",
+   "h": "హెచ్‌సీఏ రాష్ట్రవ్యాప్త ట్రయల్స్: 120 మంది యువ మహిళా క్రికెటర్ల ఎంపిక",
+   "p": "హైదరాబాద్ క్రికెట్ అసోసియేషన్ రాష్ట్రవ్యాప్తంగా ట్రయల్స్ నిర్వహించి 500 మందికి పైగా మహిళా క్రికెటర్లను పరీక్షించింది. జిల్లాల నుంచి 60, హైదరాబాద్ నుంచి 60 మంది కలిపి 120 మందిని ఎంపిక చేసి 15 మంది చొప్పున 8 జట్లుగా విభజించింది. కరీంనగర్, సిద్దిపేటల్లో 12 రోజుల్లో 32 మ్యాచ్‌లు జరుగుతాయి. తొలి రోజు కరీంనగర్‌లో ప్రారంభమైంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hca-conducts-statewide-trials-shortlists-120-emerging-women-cricketers",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "500 మందికి పైగా ట్రయల్స్, 120 మంది ఎంపిక",
+    "15 మంది చొప్పున 8 జట్లు, 32 మ్యాచ్‌లు",
+    "కోచ్‌లు, ఫిజియోలను హెచ్‌సీఏ అందిస్తోంది"
+   ],
+   "why": "జిల్లాల యువతులకు రాష్ట్ర స్థాయి మ్యాచ్ అనుభవం పొందే అవకాశం లభిస్తోంది.",
+   "pub": "2026-11-11T20:03+05:30",
+   "en": {
+    "h": "HCA statewide trials: 120 young women cricketers shortlisted",
+    "p": "The Hyderabad Cricket Association held trials across the state and screened more than 500 women cricketers. It shortlisted 120 — 60 from the districts and 60 from Hyderabad — and split them into 8 teams of 15. They will play 32 matches over 12 days in Karimnagar and Siddipet. The opening day was held in Karimnagar.",
+    "pts": [
+     "Over 500 screened, 120 shortlisted",
+     "8 teams of 15 players, 32 matches",
+     "HCA provides coaches and physios"
+    ],
+    "why": "Young women from the districts get a chance to gain state-level match experience.",
+    "cat": "Telangana · Cricket",
+    "statl": "Women cricketers shortlisted"
+   },
+   "hi": {
+    "h": "एचसीए के राज्यव्यापी ट्रायल: 120 युवा महिला क्रिकेटर चुनी गईं",
+    "p": "हैदराबाद क्रिकेट एसोसिएशन ने पूरे राज्य में ट्रायल कर 500 से अधिक महिला क्रिकेटरों को परखा। जिलों से 60 और हैदराबाद से 60, कुल 120 खिलाड़ियों को चुनकर 15-15 की 8 टीमें बनाई गईं। करीमनगर और सिद्दीपेट में 12 दिनों में 32 मैच होंगे। पहला दिन करीमनगर में हुआ।",
+    "pts": [
+     "500 से अधिक का ट्रायल, 120 चुनी गईं",
+     "15-15 खिलाड़ियों की 8 टीमें, 32 मैच",
+     "एचसीए कोच और फिजियो उपलब्ध करा रहा है"
+    ],
+    "why": "जिलों की युवतियों को राज्य स्तर के मैचों का अनुभव मिलेगा।",
+    "cat": "तेलंगाना · क्रिकेट",
+    "statl": "चुनी गई महिला क्रिकेटर"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
   {
    "cat": "ఏపీ · పెట్టుబడులు",
    "col": "--c-money",
@@ -2269,306 +2471,6 @@
    },
    "d": "11.11.2026",
    "t": "18:35"
-  },
-  {
-   "cat": "నల్గొండ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹2,461",
-   "statl": "ఏ గ్రేడ్ ధాన్యం మద్దతు ధర",
-   "h": "పరడలో ధాన్యం కొనుగోలు కేంద్రం ప్రారంభం: దళారులకు అమ్మొద్దని సూచన",
-   "p": "నల్గొండ జిల్లా కట్టంగూర్ మండలం పరడ గ్రామంలో ఎన్‌డీసీఎంఎస్ ఆధ్వర్యంలోని ధాన్యం కొనుగోలు కేంద్రాన్ని నకిరేకల్ ఏఎంసీ చైర్‌పర్సన్ గుత్తా మంజుల మాధవరెడ్డి బుధవారం ప్రారంభించారు. రైతులు దళారులకు కాకుండా నేరుగా కొనుగోలు కేంద్రాల్లోనే ధాన్యం అమ్ముకోవాలని ఆమె సూచించారు. ఏ గ్రేడ్‌కు ₹2,461, బీ గ్రేడ్‌కు ₹2,441 మద్దతు ధర ఉందని తెలిపారు. కొన్న ధాన్యాన్ని వెంటనే మిల్లులకు తరలించాలని, రైతులకు సౌకర్యాలు కల్పించాలని కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nalgonda/farmers-should-make-good-use-of-the-procurement-centers-2557698",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "పరడ, కట్టంగూర్",
-   "pts": [
-    "ఎన్‌డీసీఎంఎస్ కొనుగోలు కేంద్రం ప్రారంభం",
-    "ఏ గ్రేడ్ ₹2,461, బీ గ్రేడ్ ₹2,441 మద్దతు ధర",
-    "ధాన్యాన్ని వెంటనే మిల్లులకు తరలించాలని సూచన"
-   ],
-   "why": "కట్టంగూర్ మండల రైతులు మద్దతు ధరకు ధాన్యం అమ్ముకునే అవకాశం దగ్గరలోనే లభిస్తుంది.",
-   "pub": "2026-11-11T17:45+05:30",
-   "en": {
-    "h": "Paddy procurement centre opened at Parada; farmers told not to sell to middlemen",
-    "p": "Nakrekal AMC chairperson Gutta Manjula Madhava Reddy on Wednesday opened a paddy procurement centre run under the NDCMS at Parada village in Kattangur mandal of Nalgonda district. She urged farmers to sell their grain directly at the procurement centres instead of to middlemen. She said the support price is ₹2,461 for Grade A and ₹2,441 for Grade B. She asked that purchased grain be moved to millers promptly and that farmers be given facilities.",
-    "pts": [
-     "NDCMS procurement centre opened",
-     "Support price ₹2,461 Grade A, ₹2,441 Grade B",
-     "Purchased grain to be moved to mills promptly"
-    ],
-    "why": "Kattangur mandal farmers get a nearby place to sell paddy at the support price.",
-    "cat": "Nalgonda · Agriculture",
-    "statl": "Support price, Grade A paddy"
-   },
-   "hi": {
-    "h": "परडा में धान खरीद केंद्र शुरू: किसानों से बिचौलियों को न बेचने की अपील",
-    "p": "नकरेकल एएमसी अध्यक्ष गुत्ता मंजुला माधव रेड्डी ने बुधवार को नलगोंडा जिले के कट्टंगूर मंडल के परडा गांव में एनडीसीएमएस के तहत धान खरीद केंद्र का उद्घाटन किया। उन्होंने किसानों से बिचौलियों के बजाय सीधे खरीद केंद्रों पर धान बेचने को कहा। उन्होंने बताया कि ए ग्रेड का समर्थन मूल्य ₹2,461 और बी ग्रेड का ₹2,441 है। उन्होंने खरीदा गया धान तुरंत मिलों तक पहुंचाने और किसानों को सुविधाएं देने को कहा।",
-    "pts": [
-     "एनडीसीएमएस खरीद केंद्र शुरू",
-     "ए ग्रेड ₹2,461, बी ग्रेड ₹2,441 समर्थन मूल्य",
-     "खरीदा धान तुरंत मिलों तक भेजने का निर्देश"
-    ],
-    "why": "कट्टंगूर मंडल के किसानों को समर्थन मूल्य पर धान बेचने की सुविधा पास में मिलेगी।",
-    "cat": "नलगोंडा · कृषि",
-    "statl": "ए ग्रेड धान का समर्थन मूल्य"
-   },
-   "d": "11.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "భద్రాచలం · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "₹5 లక్షలు",
-   "statl": "సీఎం సహాయ నిధి నుంచి కోరిన సాయం",
-   "h": "నిమ్స్‌లో చికిత్స పొందుతున్న మహిళకు ₹5 లక్షల ఎల్‌ఓసీ: సీఎంకు భద్రాచలం ఎమ్మెల్యే లేఖ",
-   "p": "వెంకటాపురం మండలం వీఆర్ పురం గ్రామానికి చెందిన ఓ మహిళ మయోసైటిస్ వ్యాధితో హైదరాబాద్ నిమ్స్‌లో చికిత్స పొందుతున్నారు. ఆమె వైద్యం కోసం సీఎం సహాయ నిధి నుంచి ₹5 లక్షల లెటర్ ఆఫ్ క్రెడిట్ (ఎల్‌ఓసీ) మంజూరు చేయాలని భద్రాచలం ఎమ్మెల్యే డాక్టర్ తెల్లం వెంకట్రావు ముఖ్యమంత్రి రేవంత్ రెడ్డికి లేఖ రాశారు. ఎమ్మెల్యే చొరవను స్థానికులు స్వాగతించారు.",
-   "src": "HMTV",
-   "url": "https://www.hmtvlive.com/telugu-news/khammam/bhadrachalam-mla-dr-tellam-venkata-rao-letter-to-cm-revanth-reddy-5-lakhs-211693",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "వెంకటాపురం",
-   "pts": [
-    "మయోసైటిస్‌తో నిమ్స్‌లో మహిళకు చికిత్స",
-    "సీఎం సహాయ నిధి నుంచి ₹5 లక్షల ఎల్‌ఓసీ కోరిన ఎమ్మెల్యే",
-    "ఎమ్మెల్యే చొరవను స్వాగతించిన స్థానికులు"
-   ],
-   "why": "ఖరీదైన వైద్యం అవసరమైన పేద కుటుంబాలకు సీఎం సహాయ నిధి ఎల్‌ఓసీ ఆసరాగా నిలుస్తుంది.",
-   "pub": "2026-11-11T17:53+05:30",
-   "en": {
-    "h": "Bhadrachalam MLA writes to CM seeking ₹5 lakh LOC for woman treated at NIMS",
-    "p": "A woman from V.R. Puram village in Venkatapuram mandal is being treated for myositis at NIMS in Hyderabad. Bhadrachalam MLA Dr Tellam Venkata Rao wrote to Chief Minister Revanth Reddy asking for a ₹5 lakh Letter of Credit (LOC) from the CM Relief Fund for her treatment. Locals welcomed the MLA's initiative.",
-    "pts": [
-     "Woman treated for myositis at NIMS",
-     "MLA seeks ₹5 lakh LOC from CM Relief Fund",
-     "Locals welcome MLA's initiative"
-    ],
-    "why": "CM Relief Fund LOCs support poor families who need costly treatment.",
-    "cat": "Bhadrachalam · Health",
-    "statl": "Aid sought from CM Relief Fund"
-   },
-   "hi": {
-    "h": "निम्स में इलाज करा रही महिला के लिए ₹5 लाख एलओसी: भद्राचलम विधायक का सीएम को पत्र",
-    "p": "वेंकटापुरम मंडल के वीआर पुरम गांव की एक महिला का हैदराबाद के निम्स में मायोसाइटिस का इलाज चल रहा है। भद्राचलम विधायक डॉ. तेल्लम वेंकट राव ने मुख्यमंत्री रेवंत रेड्डी को पत्र लिखकर उनके इलाज के लिए सीएम राहत कोष से ₹5 लाख का लेटर ऑफ क्रेडिट (एलओसी) मंजूर करने की मांग की। स्थानीय लोगों ने विधायक की पहल का स्वागत किया।",
-    "pts": [
-     "निम्स में मायोसाइटिस का इलाज",
-     "विधायक ने सीएम राहत कोष से ₹5 लाख एलओसी मांगा",
-     "स्थानीय लोगों ने पहल का स्वागत किया"
-    ],
-    "why": "महंगे इलाज की जरूरत वाले गरीब परिवारों को सीएम राहत कोष का एलओसी सहारा देता है।",
-    "cat": "भद्राचलम · स्वास्थ्य",
-    "statl": "सीएम राहत कोष से मांगी गई मदद"
-   },
-   "d": "11.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "సిద్దిపేట · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "8",
-   "statl": "గ్రామాల్లో కొనుగోలు కేంద్రాలు",
-   "h": "దుబ్బాకను కరువు ప్రాంతంగా ప్రకటించాలి: ఎమ్మెల్యే కొత్త ప్రభాకర్ రెడ్డి డిమాండ్",
-   "p": "సిద్దిపేట జిల్లా తొగుట మండలంలోని వెంకట్రావుపేట, చందాపూర్, ఘనపూర్ సహా ఎనిమిది గ్రామాల్లో ఐకేపీ, పీఏసీఎస్ ధాన్యం కొనుగోలు కేంద్రాలను దుబ్బాక ఎమ్మెల్యే కొత్త ప్రభాకర్ రెడ్డి ప్రారంభించారు. ఎల్‌నినో ప్రభావంతో వర్షాభావం ఏర్పడి చెరువులు ఎండిపోయాయని, భూగర్భ జలాలు తగ్గి యాసంగి సాగు చేయలేని పరిస్థితి ఉందని ఆయన అన్నారు. సిద్దిపేట పర్యటనకు వస్తున్న సీఎం రేవంత్ రెడ్డి దుబ్బాకను కరువు ప్రాంతంగా ప్రకటించాలని ఆయన డిమాండ్ చేశారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/medak/siddipet/mla-kotha-prabhakar-reddy-inaugurated-the-paddy-procurement-centers-2557641",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "siddipet",
-   "loc": "తొగుట",
-   "pts": [
-    "తొగుట మండలంలో 8 గ్రామాల్లో కొనుగోలు కేంద్రాలు ప్రారంభం",
-    "వర్షాభావంతో యాసంగి సాగు కష్టమని ఎమ్మెల్యే వ్యాఖ్య",
-    "ఈసారి కరువు మండలాలు ప్రకటించలేదని ఎమ్మెల్యే ఆరోపణ"
-   ],
-   "why": "కరువు ప్రకటిస్తే ఆర్థిక సాయం, పంట రుణాల రీషెడ్యూల్ వస్తాయని ఎమ్మెల్యే అన్నారు; దుబ్బాక రైతులకు ఇది కీలకం.",
-   "pub": "2026-11-11T16:31+05:30",
-   "en": {
-    "h": "Declare Dubbaka a drought area: MLA Kotha Prabhakar Reddy demands",
-    "p": "Dubbaka MLA Kotha Prabhakar Reddy opened IKP and PACS paddy procurement centres in eight villages of Thoguta mandal in Siddipet district, including Venkatraopet, Chandapur and Ghanpur. He said El Niño-linked rain deficiency has dried up tanks and lowered groundwater, leaving farmers unable to take up rabi cultivation. He demanded that Chief Minister Revanth Reddy, who is due to visit Siddipet, declare Dubbaka a drought area.",
-    "pts": [
-     "Procurement centres opened in 8 villages of Thoguta mandal",
-     "MLA says rain deficit makes rabi cultivation hard",
-     "MLA alleges no drought mandals declared this time"
-    ],
-    "why": "The MLA said a drought declaration brings financial aid and crop loan rescheduling; this matters to Dubbaka farmers.",
-    "cat": "Siddipet · Agriculture",
-    "statl": "Villages with procurement centres"
-   },
-   "hi": {
-    "h": "दुब्बाका को सूखा क्षेत्र घोषित करें: विधायक कोत्ता प्रभाकर रेड्डी की मांग",
-    "p": "दुब्बाका विधायक कोत्ता प्रभाकर रेड्डी ने सिद्दिपेट जिले के तोगुटा मंडल के वेंकटरावपेट, चंदापुर और घनपुर सहित आठ गांवों में आईकेपी और पीएसीएस धान खरीद केंद्रों का उद्घाटन किया। उन्होंने कहा कि अल नीनो के असर से बारिश की कमी के कारण तालाब सूख गए हैं और भूजल घट गया है, जिससे किसान रबी की खेती नहीं कर पा रहे। उन्होंने मांग की कि सिद्दिपेट दौरे पर आ रहे मुख्यमंत्री रेवंत रेड्डी दुब्बाका को सूखा क्षेत्र घोषित करें।",
-    "pts": [
-     "तोगुटा मंडल के 8 गांवों में खरीद केंद्र शुरू",
-     "विधायक बोले, बारिश की कमी से रबी खेती मुश्किल",
-     "विधायक का आरोप: इस बार सूखा मंडल घोषित नहीं हुए"
-    ],
-    "why": "विधायक के अनुसार सूखा घोषित होने पर आर्थिक मदद और फसल ऋण पुनर्निर्धारण मिलता है; यह दुब्बाका के किसानों के लिए अहम है।",
-    "cat": "सिद्दिपेट · कृषि",
-    "statl": "खरीद केंद्र वाले गांव"
-   },
-   "d": "11.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "భూపాలపల్లి · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "138",
-   "statl": "మౌలానా ఆజాద్ జయంతి",
-   "h": "విద్యతోనే సమాజాభివృద్ధి సాధ్యం: భూపాలపల్లి కలెక్టర్ రాహుల్ శర్మ",
-   "p": "మౌలానా అబుల్ కలాం ఆజాద్ 138వ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం, మైనారిటీ సంక్షేమ దినోత్సవాన్ని జయశంకర్ భూపాలపల్లి ఐడీవోసీ సమావేశ మందిరంలో బుధవారం నిర్వహించారు. ఆజాద్ చిత్రపటానికి పూలమాల వేసి నివాళులర్పించారు. విద్య, జాతీయ సమైక్యత, మత సామరస్యానికి ఆజాద్ చేసిన సేవలను కలెక్టర్ రాహుల్ శర్మ కొనియాడారు. మైనారిటీ సంక్షేమ పథకాలపై అవగాహన కల్పించాలని అధికారులను, క్రమశిక్షణతో చదవాలని విద్యార్థులను కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/news/societal-development-is-possible-only-through-education-says-collector-rahul-sharma-2557669",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "bhupalpally",
-   "pts": [
-    "ఆజాద్ 138వ జయంతి సందర్భంగా జాతీయ విద్యా దినోత్సవం",
-    "మైనారిటీ పథకాలపై అవగాహన కల్పించాలని ఆదేశం",
-    "క్రమశిక్షణతో చదవాలని విద్యార్థులకు సూచన"
-   ],
-   "why": "భూపాలపల్లి జిల్లాలోని మైనారిటీ కుటుంబాలకు సంక్షేమ పథకాలపై సమాచారం అందనుంది.",
-   "pub": "2026-11-11T16:58+05:30",
-   "en": {
-    "h": "Development of society possible only through education: Bhupalpally Collector Rahul Sharma",
-    "p": "National Education Day and Minority Welfare Day were held on Wednesday at the IDOC meeting hall in Jayashankar Bhupalpally to mark the 138th birth anniversary of Maulana Abul Kalam Azad. Floral tributes were paid to Azad's portrait. Collector Rahul Sharma praised Azad's services to education, national integration and communal harmony. He asked officials to spread awareness of minority welfare schemes and urged students to study with discipline.",
-    "pts": [
-     "National Education Day on Azad's 138th birth anniversary",
-     "Officials told to spread awareness of minority schemes",
-     "Students urged to study with discipline"
-    ],
-    "why": "Minority families in Bhupalpally district will get information on welfare schemes.",
-    "cat": "Bhupalpally · Education",
-    "statl": "Maulana Azad birth anniversary"
-   },
-   "hi": {
-    "h": "शिक्षा से ही समाज का विकास संभव: भूपालपल्ली कलेक्टर राहुल शर्मा",
-    "p": "मौलाना अबुल कलाम आज़ाद की 138वीं जयंती पर बुधवार को जयशंकर भूपालपल्ली के आईडीओसी सभागार में राष्ट्रीय शिक्षा दिवस और अल्पसंख्यक कल्याण दिवस मनाया गया। आज़ाद के चित्र पर पुष्पांजलि अर्पित की गई। कलेक्टर राहुल शर्मा ने शिक्षा, राष्ट्रीय एकता और सांप्रदायिक सद्भाव में आज़ाद के योगदान की सराहना की। उन्होंने अधिकारियों से अल्पसंख्यक कल्याण योजनाओं के बारे में जागरूकता फैलाने और छात्रों से अनुशासन से पढ़ने को कहा।",
-    "pts": [
-     "आज़ाद की 138वीं जयंती पर राष्ट्रीय शिक्षा दिवस",
-     "अल्पसंख्यक योजनाओं पर जागरूकता का निर्देश",
-     "छात्रों से अनुशासन से पढ़ने की अपील"
-    ],
-    "why": "भूपालपल्ली जिले के अल्पसंख्यक परिवारों को कल्याण योजनाओं की जानकारी मिलेगी।",
-    "cat": "भूपालपल्ली · शिक्षा",
-    "statl": "मौलाना आज़ाद जयंती"
-   },
-   "d": "11.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "భారత్ · హక్కులు",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "322",
-   "statl": "జనవరి–సెప్టెంబర్ ద్వేష నేరాలు (ఏపీసీఆర్)",
-   "h": "జనవరి–సెప్టెంబర్‌లో 322 ద్వేష నేరాలు: ఏపీసీఆర్ నివేదిక",
-   "p": "దేశంలో ఈ ఏడాది జనవరి నుంచి సెప్టెంబర్ వరకు ముస్లింలు, క్రైస్తవులపై 322 ద్వేష నేరాలు నమోదైనట్లు అసోసియేషన్ ఫర్ ప్రొటెక్షన్ ఆఫ్ సివిల్ రైట్స్ (ఏపీసీఆర్) నివేదిక పేర్కొంది. 24 రాష్ట్రాలు, కేంద్రపాలిత ప్రాంతాల్లో జరిగిన ఈ ఘటనల్లో 54 మంది మరణించారని తెలిపింది. సుమారు 16 రాష్ట్రాల్లో 83 ద్వేష ప్రసంగాలు నమోదయ్యాయని, ఇవి వెలుగులోకి వచ్చిన ఘటనలు మాత్రమేనని సంస్థ పేర్కొంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/apcr-documents-322-hate-crimes-83-hate-speeches-from-jan-sept-3574226/",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "322 ఘటనల్లో 307 ముస్లింలపై, 14 క్రైస్తవులపై: నివేదిక",
-    "57 మంది వక్తల 83 ద్వేష ప్రసంగాలు నమోదు: ఏపీసీఆర్",
-    "వాటిలో 33 ప్రజా పదవుల్లో ఉన్నవారివని నివేదిక"
-   ],
-   "why": "దేశంలో మైనారిటీలపై నమోదైన ద్వేష ఘటనల వివరాలను ఈ నివేదిక ఒకచోట చూపుతుంది.",
-   "pub": "2026-11-11T17:26+05:30",
-   "en": {
-    "h": "322 hate crimes recorded from January to September: APCR report",
-    "p": "A report by the Association for Protection of Civil Rights (APCR) says 322 hate crimes against Muslims and Christians were recorded in the country from January to September this year. It says 54 people died in these incidents across 24 states and Union Territories. The organisation said 83 hate speeches were recorded in about 16 states, and that these are only the incidents that came to light.",
-    "pts": [
-     "Of 322 incidents, 307 targeted Muslims, 14 Christians: report",
-     "83 hate speeches by 57 speakers recorded: APCR",
-     "33 of them by people holding public office, report says"
-    ],
-    "why": "The report brings together recorded hate incidents against minorities in the country.",
-    "cat": "India · Rights",
-    "statl": "Hate crimes, Jan–Sept (APCR)"
-   },
-   "hi": {
-    "h": "जनवरी–सितंबर में 322 नफ़रती अपराध दर्ज: एपीसीआर रिपोर्ट",
-    "p": "एसोसिएशन फॉर प्रोटेक्शन ऑफ सिविल राइट्स (एपीसीआर) की रिपोर्ट के अनुसार इस साल जनवरी से सितंबर तक देश में मुसलमानों और ईसाइयों के ख़िलाफ़ 322 नफ़रती अपराध दर्ज हुए। रिपोर्ट के मुताबिक 24 राज्यों और केंद्रशासित प्रदेशों में हुई इन घटनाओं में 54 लोगों की मौत हुई। संस्था ने कहा कि करीब 16 राज्यों में 83 नफ़रती भाषण दर्ज हुए और ये केवल वही घटनाएँ हैं जो सामने आईं।",
-    "pts": [
-     "322 घटनाओं में 307 मुसलमानों, 14 ईसाइयों के ख़िलाफ़: रिपोर्ट",
-     "57 वक्ताओं के 83 नफ़रती भाषण दर्ज: एपीसीआर",
-     "इनमें 33 सार्वजनिक पदों पर बैठे लोगों के, रिपोर्ट का दावा"
-    ],
-    "why": "यह रिपोर्ट देश में अल्पसंख्यकों के ख़िलाफ़ दर्ज नफ़रती घटनाओं का ब्योरा एक जगह देती है।",
-    "cat": "भारत · अधिकार",
-    "statl": "नफ़रती अपराध, जनवरी–सितंबर (एपीसीआर)"
-   },
-   "d": "11.11.2026",
-   "t": "17:35"
-  },
-  {
-   "cat": "కరీంనగర్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "1 లక్ష",
-   "statl": "పాదయాత్రలో పాల్గొనేవారు (అంచనా)",
-   "h": "కరీంనగర్‌లో లక్ష మందితో బీజేపీ మహాపాదయాత్ర: బండి సంజయ్",
-   "p": "కరీంనగర్‌లో త్వరలో లక్ష మందితో మహాపాదయాత్ర నిర్వహిస్తామని కేంద్ర హోంశాఖ సహాయ మంత్రి బండి సంజయ్ తెలిపారు. బీజేపీ జాతీయ అధ్యక్షుడు నితిన్ నబిన్ ఇందులో పాల్గొంటారని, ఇది ఆయన తొలి కరీంనగర్ పర్యటన అని చెప్పారు. 'సర్' విషయంలో ప్రతిపక్షాల ప్రచారాన్ని ఎదుర్కొని ప్రజలకు వాస్తవాలు వివరించడమే లక్ష్యమని ఆయన అన్నారు. మంగళవారం ఎంపీ కార్యాలయంలో ఏర్పాట్లపై సమావేశం జరిగింది.",
-   "src": "V6 Velugu",
-   "url": "https://v6velugu.com/mega-padayatra-with-one-lakh-participants-to-be-held-in-karimnagar-bjp-chief-nitin-nabin-to-attend",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "karimnagar",
-   "pts": [
-    "పాదయాత్రకు బీజేపీ జాతీయ అధ్యక్షుడు నితిన్ నబిన్ హాజరు",
-    "నితిన్ నబిన్‌కు ఇది తొలి కరీంనగర్ పర్యటన",
-    "కథనంలో పాదయాత్ర తేదీ వెల్లడించలేదు"
-   ],
-   "why": "కరీంనగర్‌లో బీజేపీ కార్యక్రమాలు, 'సర్'పై జరుగుతున్న రాజకీయ చర్చకు సంబంధించిన పరిణామం ఇది.",
-   "pub": "2026-11-11T09:09+05:30",
-   "en": {
-    "h": "BJP mega padayatra with one lakh people in Karimnagar: Bandi Sanjay",
-    "p": "Union Minister of State for Home Bandi Sanjay said a mega padayatra with one lakh participants will be held soon in Karimnagar. He said BJP national president Nitin Nabin will take part, and that it will be his first visit to Karimnagar. He said the aim is to counter the opposition's campaign on 'SIR' and explain the facts to people. A meeting on the arrangements was held at the MP's office on Tuesday.",
-    "pts": [
-     "BJP national president Nitin Nabin to attend the padayatra",
-     "It will be Nitin Nabin's first visit to Karimnagar",
-     "The report does not give the padayatra date"
-    ],
-    "why": "This is a development in BJP activity in Karimnagar and the political debate over 'SIR'.",
-    "cat": "Karimnagar · Politics",
-    "statl": "Expected participants"
-   },
-   "hi": {
-    "h": "करीमनगर में एक लाख लोगों के साथ भाजपा की महापदयात्रा: बंडी संजय",
-    "p": "केंद्रीय गृह राज्य मंत्री बंडी संजय ने कहा कि करीमनगर में जल्द ही एक लाख लोगों के साथ महापदयात्रा निकाली जाएगी। उन्होंने बताया कि भाजपा के राष्ट्रीय अध्यक्ष नितिन नबिन इसमें शामिल होंगे और यह उनका पहला करीमनगर दौरा होगा। उन्होंने कहा कि इसका मकसद 'एसआईआर' पर विपक्ष के प्रचार का जवाब देना और लोगों को तथ्य बताना है। मंगलवार को सांसद कार्यालय में तैयारियों पर बैठक हुई।",
-    "pts": [
-     "पदयात्रा में भाजपा राष्ट्रीय अध्यक्ष नितिन नबिन शामिल होंगे",
-     "नितिन नबिन का यह पहला करीमनगर दौरा होगा",
-     "रिपोर्ट में पदयात्रा की तारीख़ नहीं बताई गई"
-    ],
-    "why": "यह करीमनगर में भाजपा की गतिविधियों और 'एसआईआर' पर चल रही राजनीतिक बहस से जुड़ा घटनाक्रम है।",
-    "cat": "करीमनगर · राजनीति",
-    "statl": "अनुमानित प्रतिभागी"
-   },
-   "d": "11.11.2026",
-   "t": "17:35"
   },
   {
    "cat": "ఆహ్వానం · ఆలేరు",

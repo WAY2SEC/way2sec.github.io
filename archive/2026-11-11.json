@@ -1,8 +1,210 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 181,
+ "count": 185,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · పోలీస్",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "AI",
+   "statl": "దేశంలో తొలి AI పోలీస్ స్టేషన్",
+   "h": "దేశంలో తొలి AI పోలీస్ స్టేషన్‌గా పంజాగుట్ట",
+   "p": "హైదరాబాద్ పంజాగుట్ట పోలీస్ స్టేషన్‌ను దేశంలోనే తొలి AI ఆధారిత పోలీస్ స్టేషన్‌గా మారుస్తున్నారని తెలంగాణ టుడే కథనం. ఫిర్యాదు స్వీకరణ నుంచి ఎఫ్‌ఐఆర్, దర్యాప్తు నివేదికలు, చార్జిషీట్ వరకు అన్ని దశల్లో AI వాడతారు. రిసెప్షన్‌లోని 'సేతు' కియోస్క్‌లో దాదాపు 10 భాషల్లో ఫిర్యాదు చేయవచ్చు. డిసెంబర్ మొదటి వారంలో డీజీపీ సీవీ ఆనంద్ పైలట్‌ను ప్రారంభించే అవకాశం ఉంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/punjagutta-police-station-gets-ai-upgrade-31aa68e2",
+   "sec": [
+    "telangana",
+    "ai",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "పంజాగుట్ట",
+   "pts": [
+    "'సేతు' కియోస్క్‌లో దాదాపు 10 భాషల్లో ఫిర్యాదులు",
+    "కమిషనర్ వీసీ సజ్జనార్ ఆకస్మిక తనిఖీ",
+    "పైలట్ తర్వాత రాష్ట్రవ్యాప్తంగా విస్తరణపై నిర్ణయం"
+   ],
+   "why": "ఫిర్యాదుదారులు తమ భాషలోనే ఫిర్యాదు చేయగలుగుతారు; పైలట్ విజయవంతమైతే రాష్ట్రమంతా అమలవుతుంది.",
+   "pub": "2026-11-11T22:31+05:30",
+   "en": {
+    "h": "Punjagutta to become India's first AI-powered police station",
+    "p": "Hyderabad's Punjagutta police station is being turned into the country's first AI-powered police station, Telangana Today reported. AI will be used at every stage, from receiving complaints to FIRs, investigation reports and charge sheets. A 'Sethu' kiosk at the reception lets people file complaints in nearly 10 languages. DGP CV Anand is expected to launch the pilot in the first week of December.",
+    "pts": [
+     "'Sethu' kiosk takes complaints in nearly 10 languages",
+     "Commissioner VC Sajjanar made a surprise inspection",
+     "Statewide rollout to be decided after the pilot"
+    ],
+    "why": "Complainants can file in their own language; if the pilot works, it will be extended across the state.",
+    "cat": "Hyderabad · Police",
+    "statl": "India's first AI police station"
+   },
+   "hi": {
+    "h": "पंजागुट्टा बनेगा देश का पहला AI पुलिस स्टेशन",
+    "p": "तेलंगाना टुडे के अनुसार हैदराबाद के पंजागुट्टा पुलिस स्टेशन को देश के पहले AI-आधारित पुलिस स्टेशन में बदला जा रहा है। शिकायत लेने से लेकर एफआईआर, जांच रिपोर्ट और चार्जशीट तक हर चरण में AI का उपयोग होगा। रिसेप्शन पर 'सेतु' कियोस्क में लगभग 10 भाषाओं में शिकायत दर्ज की जा सकती है। डीजीपी सीवी आनंद दिसंबर के पहले सप्ताह में पायलट शुरू कर सकते हैं।",
+    "pts": [
+     "'सेतु' कियोस्क पर लगभग 10 भाषाओं में शिकायत",
+     "कमिश्नर वीसी सज्जनार ने औचक निरीक्षण किया",
+     "पायलट के बाद राज्यव्यापी विस्तार पर फैसला"
+    ],
+    "why": "शिकायतकर्ता अपनी भाषा में शिकायत कर सकेंगे; पायलट सफल रहा तो पूरे राज्य में लागू होगा।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "देश का पहला AI पुलिस स्टेशन"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · కార్మికులు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "6 లక్షలు",
+   "statl": "రాష్ట్రంలో గిగ్ కార్మికులు",
+   "h": "నవంబర్ 14న హైదరాబాద్‌లో గిగ్ కార్మికుల సభకు రాహుల్ గాంధీ",
+   "p": "కాంగ్రెస్ నేత రాహుల్ గాంధీ నవంబర్ 14న హైదరాబాద్‌లో గిగ్ కార్మికుల సమావేశానికి హాజరై సంక్షేమ చర్యలు ప్రకటిస్తారని కార్మిక మంత్రి జి. వివేక్ వెంకటస్వామి తెలిపారు. రాష్ట్రంలో సుమారు 6 లక్షల గిగ్ కార్మికులు ఉన్నారు. శిల్పకళా వేదిక నుంచి హెచ్‌ఐసీసీ వరకు ర్యాలీ జరుగుతుంది. నమోదైన కార్మికులు ప్రభుత్వ యాప్‌ను స్కాన్ చేసి హాజరుకావచ్చని పీటీఐ కథనం.",
+   "src": "Siasat Daily (PTI)",
+   "url": "https://www.siasat.com/hyderabad-rahul-gandhi-to-attend-gig-workers-meeting-on-nov-14-3574748/",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "సభలో గిగ్ కార్మికుల సంక్షేమ చర్యల ప్రకటన",
+    "శిల్పకళా వేదిక నుంచి హెచ్‌ఐసీసీ వరకు ర్యాలీ",
+    "గిగ్ వర్కర్ల చట్టం మార్చిలో అమల్లోకి వచ్చిందన్న మంత్రి"
+   ],
+   "why": "డెలివరీ, క్యాబ్ వంటి ప్లాట్‌ఫాం పనులు చేసే లక్షల మంది కార్మికులకు సంబంధించిన ప్రకటనలు రానున్నాయి.",
+   "pub": "2026-11-11T22:14+05:30",
+   "en": {
+    "h": "Rahul Gandhi to attend Hyderabad gig workers' meet on November 14",
+    "p": "Congress leader Rahul Gandhi will attend a gig workers' meeting in Hyderabad on November 14 and announce welfare measures, Labour Minister G Vivek Venkataswamy said. The state has about 6 lakh gig workers. A rally will run from Silpakala Vedika to HICC. Registered workers can attend by scanning a government app, PTI reported.",
+    "pts": [
+     "Welfare measures for gig workers to be announced",
+     "Rally from Silpakala Vedika to HICC",
+     "Minister says gig workers law was enacted in March"
+    ],
+    "why": "Announcements are due for lakhs of platform workers such as delivery and cab drivers.",
+    "cat": "Hyderabad · Workers",
+    "statl": "Gig workers in the state"
+   },
+   "hi": {
+    "h": "14 नवंबर को हैदराबाद में गिग कामगारों की सभा में राहुल गांधी",
+    "p": "श्रम मंत्री जी. विवेक वेंकटस्वामी ने कहा कि कांग्रेस नेता राहुल गांधी 14 नवंबर को हैदराबाद में गिग कामगारों की बैठक में शामिल होंगे और कल्याण उपायों की घोषणा करेंगे। राज्य में लगभग 6 लाख गिग कामगार हैं। शिल्पकला वेदिका से एचआईसीसी तक रैली होगी। पीटीआई के अनुसार पंजीकृत कामगार सरकारी ऐप स्कैन करके शामिल हो सकते हैं।",
+    "pts": [
+     "गिग कामगारों के लिए कल्याण उपायों की घोषणा",
+     "शिल्पकला वेदिका से एचआईसीसी तक रैली",
+     "मंत्री के अनुसार गिग कामगार कानून मार्च में बना"
+    ],
+    "why": "डिलीवरी, कैब जैसे प्लेटफॉर्म काम करने वाले लाखों कामगारों से जुड़ी घोषणाएं होंगी।",
+    "cat": "हैदराबाद · कामगार",
+    "statl": "राज्य में गिग कामगार"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · టి-హబ్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "20",
+   "statl": "ఇజ్రాయెల్ కంపెనీలు",
+   "h": "ఇజ్రాయెల్ కంపెనీలతో టి-హబ్ కార్యక్రమం రద్దు చేయాలని ఎస్ఐఓ డిమాండ్",
+   "p": "నవంబర్ 16న 20 ఇజ్రాయెల్ కంపెనీలతో టి-హబ్ నిర్వహించనున్న కార్యక్రమాన్ని రద్దు చేయాలని స్టూడెంట్స్ ఇస్లామిక్ ఆర్గనైజేషన్ (ఎస్ఐఓ) ప్రభుత్వాన్ని కోరింది. ఈ కంపెనీలు రక్షణ సాంకేతికత, రోబోటిక్స్, సైబర్ భద్రత, AI రంగాలవి. కనీసం 11 కంపెనీలకు ఇజ్రాయెల్ సైన్యంతో సంబంధాలు ఉన్నాయని సియాసత్ గతంలో రాసింది. ఆర్థిక ప్రయోజనాలు మానవ ప్రాణాల కంటే ముఖ్యం కాదని ఎస్ఐఓ రాష్ట్ర అధ్యక్షుడు అన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/sio-urges-t-hub-to-cancel-nov-16-event-with-israeli-firms-3574678/",
+   "sec": [
+    "telangana",
+    "innovation"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 16న టి-హబ్‌లో 20 ఇజ్రాయెల్ కంపెనీలు",
+    "రక్షణ, రోబోటిక్స్, సైబర్ భద్రత, AI రంగాలు",
+    "కార్యక్రమం రద్దు చేయాలని ఎస్ఐఓ విజ్ఞప్తి"
+   ],
+   "why": "రాష్ట్ర స్టార్టప్ కేంద్రం టి-హబ్ అంతర్జాతీయ కార్యక్రమంపై విద్యార్థి సంస్థ అభ్యంతరం తెలిపింది.",
+   "pub": "2026-11-11T22:00+05:30",
+   "en": {
+    "h": "SIO urges T-Hub to cancel November 16 event with Israeli firms",
+    "p": "The Students Islamic Organisation (SIO) urged the government to cancel T-Hub's November 16 event with 20 Israeli companies. The firms work in defence technology, robotics, cybersecurity and AI. Siasat had earlier reported that at least 11 of them have ties to the Israeli military. SIO's state president said economic interests should not come before human lives.",
+    "pts": [
+     "20 Israeli companies at T-Hub on November 16",
+     "Defence, robotics, cybersecurity and AI sectors",
+     "SIO appeals for the event to be cancelled"
+    ],
+    "why": "A student body has objected to an international event at T-Hub, the state's startup hub.",
+    "cat": "Hyderabad · T-Hub",
+    "statl": "Israeli companies"
+   },
+   "hi": {
+    "h": "इज़राइली कंपनियों के साथ टी-हब कार्यक्रम रद्द करने की एसआईओ की मांग",
+    "p": "स्टूडेंट्स इस्लामिक ऑर्गनाइज़ेशन (एसआईओ) ने सरकार से 16 नवंबर को 20 इज़राइली कंपनियों के साथ होने वाला टी-हब कार्यक्रम रद्द करने की मांग की। ये कंपनियां रक्षा तकनीक, रोबोटिक्स, साइबर सुरक्षा और AI क्षेत्र की हैं। सियासत ने पहले बताया था कि इनमें से कम से कम 11 के इज़राइली सेना से संबंध हैं। एसआईओ के राज्य अध्यक्ष ने कहा कि आर्थिक हित मानव जीवन से ऊपर नहीं हो सकते।",
+    "pts": [
+     "16 नवंबर को टी-हब में 20 इज़राइली कंपनियां",
+     "रक्षा, रोबोटिक्स, साइबर सुरक्षा और AI क्षेत्र",
+     "एसआईओ ने कार्यक्रम रद्द करने की अपील की"
+    ],
+    "why": "राज्य के स्टार्टअप केंद्र टी-हब के अंतरराष्ट्रीय कार्यक्रम पर एक छात्र संगठन ने आपत्ति जताई है।",
+    "cat": "हैदराबाद · टी-हब",
+    "statl": "इज़राइली कंपनियां"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
+  {
+   "cat": "తెలంగాణ · క్రికెట్",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "120",
+   "statl": "ఎంపికైన మహిళా క్రికెటర్లు",
+   "h": "హెచ్‌సీఏ రాష్ట్రవ్యాప్త ట్రయల్స్: 120 మంది యువ మహిళా క్రికెటర్ల ఎంపిక",
+   "p": "హైదరాబాద్ క్రికెట్ అసోసియేషన్ రాష్ట్రవ్యాప్తంగా ట్రయల్స్ నిర్వహించి 500 మందికి పైగా మహిళా క్రికెటర్లను పరీక్షించింది. జిల్లాల నుంచి 60, హైదరాబాద్ నుంచి 60 మంది కలిపి 120 మందిని ఎంపిక చేసి 15 మంది చొప్పున 8 జట్లుగా విభజించింది. కరీంనగర్, సిద్దిపేటల్లో 12 రోజుల్లో 32 మ్యాచ్‌లు జరుగుతాయి. తొలి రోజు కరీంనగర్‌లో ప్రారంభమైంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hca-conducts-statewide-trials-shortlists-120-emerging-women-cricketers",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "500 మందికి పైగా ట్రయల్స్, 120 మంది ఎంపిక",
+    "15 మంది చొప్పున 8 జట్లు, 32 మ్యాచ్‌లు",
+    "కోచ్‌లు, ఫిజియోలను హెచ్‌సీఏ అందిస్తోంది"
+   ],
+   "why": "జిల్లాల యువతులకు రాష్ట్ర స్థాయి మ్యాచ్ అనుభవం పొందే అవకాశం లభిస్తోంది.",
+   "pub": "2026-11-11T20:03+05:30",
+   "en": {
+    "h": "HCA statewide trials: 120 young women cricketers shortlisted",
+    "p": "The Hyderabad Cricket Association held trials across the state and screened more than 500 women cricketers. It shortlisted 120 — 60 from the districts and 60 from Hyderabad — and split them into 8 teams of 15. They will play 32 matches over 12 days in Karimnagar and Siddipet. The opening day was held in Karimnagar.",
+    "pts": [
+     "Over 500 screened, 120 shortlisted",
+     "8 teams of 15 players, 32 matches",
+     "HCA provides coaches and physios"
+    ],
+    "why": "Young women from the districts get a chance to gain state-level match experience.",
+    "cat": "Telangana · Cricket",
+    "statl": "Women cricketers shortlisted"
+   },
+   "hi": {
+    "h": "एचसीए के राज्यव्यापी ट्रायल: 120 युवा महिला क्रिकेटर चुनी गईं",
+    "p": "हैदराबाद क्रिकेट एसोसिएशन ने पूरे राज्य में ट्रायल कर 500 से अधिक महिला क्रिकेटरों को परखा। जिलों से 60 और हैदराबाद से 60, कुल 120 खिलाड़ियों को चुनकर 15-15 की 8 टीमें बनाई गईं। करीमनगर और सिद्दीपेट में 12 दिनों में 32 मैच होंगे। पहला दिन करीमनगर में हुआ।",
+    "pts": [
+     "500 से अधिक का ट्रायल, 120 चुनी गईं",
+     "15-15 खिलाड़ियों की 8 टीमें, 32 मैच",
+     "एचसीए कोच और फिजियो उपलब्ध करा रहा है"
+    ],
+    "why": "जिलों की युवतियों को राज्य स्तर के मैचों का अनुभव मिलेगा।",
+    "cat": "तेलंगाना · क्रिकेट",
+    "statl": "चुनी गई महिला क्रिकेटर"
+   },
+   "d": "11.11.2026",
+   "t": "22:35"
+  },
   {
    "cat": "ఏపీ · పెట్టుబడులు",
    "col": "--c-money",
