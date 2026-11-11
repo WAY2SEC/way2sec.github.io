@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T21:35:00+05:30",
+ "cutoff": "2026-11-11T22:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -842,6 +842,19 @@
    "skipped": 2,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Search returned stale listing pages; siasat.com/news/telangana, telanganatoday.com/telangana, DC Telangana, Hans AP, ANI national, ntnews.com and andhrajyothy.com listings not fetched (permission not granted); Eenadu, Sakshi, TV9, V6, NTV, ETV, The Hindu, Reuters/BBC/AP and international-topic sources not surfaced. Duplicates (events already published): Siasat 10+2 3574525, TT AP 789 lift schemes, TT CII Vizag 3,800 delegates, TT KTR Nirmal Rythu Garjana water crisis, Hans Rahul Gandhi Bharat Summit 1141124. Skipped: Siasat Nisar feature 3574204 (feature, not news), TT Fadnavis Navi Mumbai flights (minor other-state)."
+  },
+  {
+   "window": "2026-11-11T21:35:00+05:30/2026-11-11T22:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 6,
+   "published": 3,
+   "late": 2,
+   "sensitive": 0,
+   "corrected": 0,
+   "duplicates": 3,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Search returned stale listing pages; Siasat, Telangana Today and South First listings show no per-article times and only older items; Eenadu, Sakshi, Andhra Jyothy, Namasthe Telangana, TV9, V6, NTV, ETV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicates: INDToday Revanth minorities education (event published 13:51), DC 2003487 Sangam pesticide (published 07:32), DC 2003459 CII Rs 11 lakh crore (published 13:30). 12 old TT/South First items (3-10 Nov) found before lookback. UNI 242467 (22:06) left for next window."
   }
  ],
  "seen": [
@@ -3659,6 +3672,96 @@
    "url": "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
    "d": "11.11.2026",
    "w": "21:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-converts-74-of-investment-proposals-into-projects-worth-172-lakh-crore-2003562",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-chambers-unido-promote-solar-thermal-technology-among-msmes-2003539",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-trains-doctors-health-personnel-on-fbnc-portal-for-newborn-care-2003536",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://indtoday.com/revanth-reddy-urges-minorities-to-prioritise-education/",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/school-student-critical-after-peers-force-him-to-drink-pesticide-2003487",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-expects-rs-11-lakh-crore-investments-25-lakh-jobs-from-cii-summit-2003459",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/telangana-rgukt-basar-students-forced-to-consume-sewage-like-water",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/army-jawan-dies-in-road-accident-in-siddipet",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/hyderabad-to-host-khelo-india-youth-games-2026-from-december-11",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/how-did-revanth-reddys-family-businesses-grow-so-fast-asks-brs",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/brs-slams-congress-over-poor-services-at-nalgonda-government-hospital",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/tg-safe-suspends-117-medical-shops-over-habit-forming-drug-violations",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://telanganatoday.com/telangana-inter-exams-likely-from-february-24-practicals-from-february-1",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://thesouthfirst.com/andhrapradesh/supreme-court-declines-plea-to-transfer-tirumala-adulterated-ghee-case-out-of-andhra-pradesh/",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://thesouthfirst.com/andhrapradesh/gade-sai-krishna-case-ysrcp-mp-gurumoorthy-withdraws-petition-in-supreme-court/",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://thesouthfirst.com/andhrapradesh/in-andhras-tribal-belt-icmr-sanctions-rs-76-lakh-to-study-meropenem-resistance/",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://thesouthfirst.com/andhrapradesh/mandate-better-than-2024-people-have-endorsed-alliance-governance-says-cm-chandrababu-naidu-on-local-body-poll-results/",
+   "d": "11.11.2026",
+   "w": "22:05"
+  },
+  {
+   "url": "https://thesouthfirst.com/andhrapradesh/cyclone-murasu-proves-fatal-for-fishermen-four-bodies-wash-ashore-at-kothapatnam-coast/",
+   "d": "11.11.2026",
+   "w": "22:05"
   }
  ]
 }
