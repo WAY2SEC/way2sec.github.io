@@ -1,6 +1,6 @@
 {
  "about": "Way2Sec birthday greetings: PM, Telangana + Andhra Pradesh CMs, Dy CMs, ministers, MLAs and MPs. dob = YYYY-MM-DD (or --MM-DD if the year is unknown). verified=true only when a reputable/official source in dob_src states the date. last_posted = year of the last greeting (prevents repeats). photo = path to a photo the user supplied (never download leaders' photos).",
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "leaders": [
   {
    "id": "narendra-modi",
@@ -64,15 +64,15 @@
    "party": "INC",
    "post": "Minister, Government of Telangana",
    "dob": "1957-11-30",
-   "dob_src": "unconfirmed: Wikipedia G._Vivekanand (date not footnoted; lead cites digitalsansad bioprofile) 2026-11-10",
-   "verified": false,
+   "dob_src": "OpenSanctions in-sansad-ls-4259 (India Lok Sabha members dataset) + Wikipedia G._Vivekanand lead (cites digitalsansad bio); checked 2026-11-11",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ వివేక్ వెంకటస్వామి",
+    "role": "తెలంగాణ రాష్ట్ర మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री विवेक वेंकटस्वामी",
+    "role": "तेलंगाना सरकार में मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -613,8 +613,8 @@
    "no": 24,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1969-05-30",
+   "dob_src": "unconfirmed: dsryuvasena.blogspot.com supporter page (30-05-1969), 2026-11-11; Wikipedia not retrievable this run",
    "verified": false,
    "te": {
     "name": "",
@@ -8163,16 +8163,16 @@
    "no": 8,
    "party": "BJP",
    "post": "Union Cabinet Minister",
-   "dob": null,
-   "dob_src": "",
-   "verified": false,
+   "dob": "1960-06-15",
+   "dob_src": "coal.gov.in Union Minister profile (Date of Birth 15-Jun-1960), checked 2026-11-11",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ కిషన్ రెడ్డి",
+    "role": "కేంద్ర మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री किशन रेड्डी",
+    "role": "केंद्रीय मंत्री"
    },
    "photo": "",
    "last_posted": ""
