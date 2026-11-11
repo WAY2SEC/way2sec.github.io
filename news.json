@@ -1,8 +1,208 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T14:09:09+05:30",
+ "updated": "2026-11-11T14:39:00+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "75,000 టన్నులు",
+   "statl": "రోజుకు జెన్‌కోకు బొగ్గు సరఫరా",
+   "h": "జెన్‌కో విద్యుత్ కేంద్రాలకు రోజుకు 75 వేల టన్నుల బొగ్గు: సింగరేణి నిర్ణయం",
+   "p": "తెలంగాణ జెన్‌కో థర్మల్ విద్యుత్ కేంద్రాలకు రోజుకు 75 వేల టన్నుల బొగ్గు సరఫరా చేయాలని సింగరేణి నిర్ణయించినట్లు ఆంధ్రజ్యోతి తెలిపింది. ఒడిశాలోని నైనీ బొగ్గు గని నుంచి యాదాద్రి థర్మల్ ప్లాంట్‌కు రోజుకు కనీసం 16 వేల టన్నులు పంపనున్నారు. హైదరాబాద్ సింగరేణి భవన్‌లో ఇరు సంస్థల సీఎండీల అధ్యక్షతన వర్చువల్ సమన్వయ సమావేశం జరిగింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/singareni-to-supply-75000-tonnes-coal-daily-to-telangana-genco-power-plants-1575206.html",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "జెన్‌కోకు రోజుకు 75 వేల టన్నుల బొగ్గు",
+    "నైనీ గని నుంచి యాదాద్రికి రోజుకు 16 వేల టన్నులు",
+    "ఈ ఏడాది సరఫరా గత 3–4 ఏళ్ల కంటే ఎక్కువన్న సింగరేణి సీఎండీ"
+   ],
+   "why": "థర్మల్ కేంద్రాలకు బొగ్గు సరఫరా రాష్ట్రంలో విద్యుత్ ఉత్పత్తికి కీలకం.",
+   "pub": "2026-11-11T06:43+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "Singareni to supply 75,000 tonnes of coal daily to GENCO plants",
+    "p": "Singareni has decided to supply 75,000 tonnes of coal a day to Telangana GENCO's thermal power plants, Andhra Jyothy reported. At least 16,000 tonnes a day will be sent from the Naini coal mine in Odisha to the Yadadri thermal plant. A virtual coordination meeting chaired by the CMDs of both organisations was held at Singareni Bhavan in Hyderabad.",
+    "pts": [
+     "75,000 tonnes of coal daily for GENCO",
+     "16,000 tonnes a day from Naini mine to Yadadri",
+     "Singareni CMD: supply higher than past 3–4 years"
+    ],
+    "why": "Coal supply to thermal plants is key to power generation in the state.",
+    "cat": "Telangana · Power",
+    "statl": "Daily coal supply to GENCO"
+   },
+   "hi": {
+    "h": "जेनको बिजली संयंत्रों को रोज 75 हजार टन कोयला: सिंगरेनी का फैसला",
+    "p": "आंध्र ज्योति के अनुसार सिंगरेनी ने तेलंगाना जेनको के थर्मल बिजली संयंत्रों को रोजाना 75 हजार टन कोयला देने का फैसला किया है। ओडिशा की नैनी कोयला खदान से यादाद्रि थर्मल प्लांट को रोज कम से कम 16 हजार टन भेजा जाएगा। हैदराबाद के सिंगरेनी भवन में दोनों संस्थाओं के सीएमडी की अध्यक्षता में वर्चुअल समन्वय बैठक हुई।",
+    "pts": [
+     "जेनको को रोज 75 हजार टन कोयला",
+     "नैनी खदान से यादाद्रि को रोज 16 हजार टन",
+     "सिंगरेनी सीएमडी: आपूर्ति पिछले 3–4 साल से ज्यादा"
+    ],
+    "why": "थर्मल संयंत्रों को कोयला आपूर्ति राज्य में बिजली उत्पादन के लिए अहम है।",
+    "cat": "तेलंगाना · बिजली",
+    "statl": "जेनको को रोज कोयला आपूर्ति"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "558",
+   "statl": "తిరిగి వైద్య విధాన పరిషత్‌కు సిబ్బంది",
+   "h": "బోధనాస్పత్రుల్లోని 558 మంది సిబ్బంది తిరిగి వైద్య విధాన పరిషత్‌కు",
+   "p": "30 బోధనాస్పత్రుల్లో పనిచేస్తున్న 558 మంది తెలంగాణ వైద్య విధాన పరిషత్ (టీవీవీపీ) ఉద్యోగులను వెంటనే రిలీవ్ చేసి మాతృసంస్థకు పంపాలని డీఎంఈ డాక్టర్ వాణి ఆదేశాలు జారీ చేసినట్లు ఆంధ్రజ్యోతి తెలిపింది. వీరిలో 244 మంది నర్సింగ్ సిబ్బంది, 39 మంది వైద్యులు ఉన్నారు. అందరూ కోఠిలోని టీవీవీపీ కమిషనర్ కార్యాలయంలో రిపోర్ట్ చేయాలి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/558-hospital-employees-return-telangana-vaidya-vidhana-parishad-1575214.html",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "30 బోధనాస్పత్రుల సూపరింటెండెంట్లకు డీఎంఈ ఆదేశాలు",
+    "244 నర్సింగ్, 116 క్లాస్-4, 111 మినిస్టీరియల్ సిబ్బంది",
+    "48 పారామెడికల్ సిబ్బంది, 39 మంది వైద్యులు"
+   ],
+   "why": "బోధనాస్పత్రుల్లో, వైద్య విధాన పరిషత్ ఆస్పత్రుల్లో సిబ్బంది కేటాయింపుపై ఇది ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T07:00+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "558 teaching hospital staff sent back to Vaidya Vidhana Parishad",
+    "p": "DME Dr Vani has ordered the immediate relief of 558 Telangana Vaidya Vidhana Parishad (TVVP) employees working in 30 teaching hospitals and their return to the parent body, Andhra Jyothy reported. They include 244 nursing staff and 39 doctors. All must report to the TVVP Commissioner's office in Koti.",
+    "pts": [
+     "DME orders to superintendents of 30 teaching hospitals",
+     "244 nursing, 116 Class-IV, 111 ministerial staff",
+     "48 paramedical staff and 39 doctors"
+    ],
+    "why": "This affects staffing at teaching hospitals and Vaidya Vidhana Parishad hospitals.",
+    "cat": "Telangana · Health",
+    "statl": "Staff returning to TVVP"
+   },
+   "hi": {
+    "h": "शिक्षण अस्पतालों के 558 कर्मचारी वापस वैद्य विधान परिषद भेजे गए",
+    "p": "आंध्र ज्योति के अनुसार डीएमई डॉ. वाणी ने 30 शिक्षण अस्पतालों में कार्यरत तेलंगाना वैद्य विधान परिषद (टीवीवीपी) के 558 कर्मचारियों को तुरंत कार्यमुक्त कर मूल संस्था में भेजने का आदेश दिया है। इनमें 244 नर्सिंग कर्मचारी और 39 डॉक्टर शामिल हैं। सभी को कोठी स्थित टीवीवीपी आयुक्त कार्यालय में रिपोर्ट करना होगा।",
+    "pts": [
+     "30 शिक्षण अस्पतालों के अधीक्षकों को डीएमई के आदेश",
+     "244 नर्सिंग, 116 क्लास-4, 111 मिनिस्टीरियल कर्मचारी",
+     "48 पैरामेडिकल कर्मचारी और 39 डॉक्टर"
+    ],
+    "why": "इसका असर शिक्षण अस्पतालों और वैद्य विधान परिषद अस्पतालों में स्टाफ पर पड़ेगा।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "टीवीवीपी में लौटने वाले कर्मचारी"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆదివాసీలు",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "ST సర్టిఫికెట్లు",
+   "statl": "వలస ఆదివాసీల ప్రధాన డిమాండ్",
+   "h": "వలస ఆదివాసీలకు ఎస్టీ సర్టిఫికెట్లు ఇవ్వాలి: ఇందిరా పార్క్‌లో సీపీఎం ఆదివాసీ మహాగర్జన",
+   "p": "వలస ఆదివాసీలకు ఎస్టీ ధ్రువీకరణ పత్రాలు, సాగు భూములకు హక్కు పత్రాలు ఇవ్వాలని డిమాండ్ చేస్తూ సీపీఎం రాష్ట్ర కమిటీ హైదరాబాద్ ఇందిరా పార్క్‌లో 'ఆదివాసీ మహాగర్జన' నిర్వహించినట్లు ఆంధ్రజ్యోతి తెలిపింది. వేలాది మంది ఆదివాసీలు పాల్గొన్నారు. డిమాండ్లు నెరవేర్చకపోతే అసెంబ్లీని ముట్టడిస్తామని సీపీఎం రాష్ట్ర కార్యదర్శి జాన్ వెస్లీ హెచ్చరించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-adivasis-demand-st-certificates-land-rights-massive-cpm-rally-hyderabad-1575209.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "ఇందిరా పార్క్",
+   "pts": [
+    "వలస ఆదివాసీలకు ఎస్టీ సర్టిఫికెట్లు ఇవ్వాలని డిమాండ్",
+    "సాగు భూములకు హక్కు పత్రాలు కావాలని విజ్ఞప్తి",
+    "ప్రభుత్వాల నిర్లక్ష్యమని జాన్ వెస్లీ ఆరోపణ"
+   ],
+   "why": "రాష్ట్రంలోని వలస ఆదివాసీల గుర్తింపు, భూమి హక్కుల అంశం దీనితో మళ్లీ తెరపైకి వచ్చింది.",
+   "pub": "2026-11-11T06:48+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "Give ST certificates to migrant Adivasis: CPM rally at Indira Park",
+    "p": "The CPM state committee held an 'Adivasi Maha Garjana' at Indira Park in Hyderabad demanding ST certificates for migrant Adivasis and title documents for the land they cultivate, Andhra Jyothy reported. Thousands of Adivasis took part. CPM state secretary John Wesley warned that they would lay siege to the Assembly if the demands are not met.",
+    "pts": [
+     "Demand for ST certificates for migrant Adivasis",
+     "Call for title documents for cultivated land",
+     "John Wesley alleges government negligence"
+    ],
+    "why": "The rally brings the identity and land-rights issue of migrant Adivasis in the state back into focus.",
+    "cat": "Hyderabad · Adivasis",
+    "statl": "Key demand of migrant Adivasis"
+   },
+   "hi": {
+    "h": "प्रवासी आदिवासियों को एसटी प्रमाणपत्र दें: इंदिरा पार्क में सीपीएम की रैली",
+    "p": "आंध्र ज्योति के अनुसार सीपीएम राज्य समिति ने हैदराबाद के इंदिरा पार्क में 'आदिवासी महा गर्जना' आयोजित की, जिसमें प्रवासी आदिवासियों को एसटी प्रमाणपत्र और खेती की जमीन के अधिकार पत्र देने की मांग की गई। हजारों आदिवासी शामिल हुए। सीपीएम राज्य सचिव जॉन वेस्ली ने चेतावनी दी कि मांगें पूरी न होने पर विधानसभा का घेराव करेंगे।",
+    "pts": [
+     "प्रवासी आदिवासियों को एसटी प्रमाणपत्र की मांग",
+     "खेती की जमीन के अधिकार पत्र की मांग",
+     "जॉन वेस्ली ने सरकारों पर लापरवाही का आरोप लगाया"
+    ],
+    "why": "इस रैली से राज्य के प्रवासी आदिवासियों की पहचान और भूमि अधिकार का मुद्दा फिर सामने आया है।",
+    "cat": "हैदराबाद · आदिवासी",
+    "statl": "प्रवासी आदिवासियों की मुख्य मांग"
+   }
+  },
+  {
+   "cat": "భారత్ · క్రీడలు",
+   "col": "--c-money",
+   "art": "unity",
+   "stat": "నవంబర్ 12",
+   "statl": "సెమీఫైనల్: భారత్ vs అఫ్గానిస్తాన్",
+   "h": "అండర్-19 ఆసియా కప్: సెమీస్‌లో అఫ్గానిస్తాన్‌తో భారత్ పోరు",
+   "p": "ఒమన్‌లో జరుగుతున్న అండర్-19 ఆసియా కప్ చివరి గ్రూప్ మ్యాచ్‌లో యూఏఈపై భారత్ 70 పరుగుల తేడాతో గెలిచిందని ఈటీవీ భారత్ తెలిపింది. భారత్ 309/7 చేయగా, ఆర్యవీర్ సెహ్వాగ్ 160 పరుగులు సాధించాడు. నవంబర్ 12న సెమీఫైనల్స్‌లో భారత్-అఫ్గానిస్తాన్, పాకిస్తాన్-బంగ్లాదేశ్ తలపడతాయి. ఫైనల్ నవంబర్ 14న జరుగుతుంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/hi/sports/u-19-asia-cup-2026-semifinals-india-to-face-afghanistan-and-pakistan-to-take-on-bangladesh-hin26111102640",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "యూఏఈపై 70 పరుగుల తేడాతో భారత్ విజయం",
+    "ఆర్యవీర్ సెహ్వాగ్ 160 పరుగులు",
+    "12న సెమీస్, 14న ఫైనల్"
+   ],
+   "why": "భారత యువ క్రికెట్ జట్టు ఆసియా కప్ టైటిల్‌కు రెండు అడుగుల దూరంలో ఉంది.",
+   "pub": "2026-11-11T13:33+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "U-19 Asia Cup: India to face Afghanistan in semifinal",
+    "p": "India beat the UAE by 70 runs in their last group match of the Under-19 Asia Cup in Oman, ETV Bharat reported. India scored 309/7, with Aaryavir Sehwag making 160. In the semifinals on November 12, India face Afghanistan and Pakistan meet Bangladesh. The final is on November 14.",
+    "pts": [
+     "India beat UAE by 70 runs",
+     "Aaryavir Sehwag scores 160",
+     "Semifinals on 12th, final on 14th"
+    ],
+    "why": "India's youth cricket team is two steps from the Asia Cup title.",
+    "cat": "India · Sports",
+    "statl": "Semifinal: India vs Afghanistan"
+   },
+   "hi": {
+    "h": "अंडर-19 एशिया कप: सेमीफाइनल में भारत का मुकाबला अफगानिस्तान से",
+    "p": "ईटीवी भारत के अनुसार ओमान में चल रहे अंडर-19 एशिया कप के आखिरी ग्रुप मैच में भारत ने यूएई को 70 रन से हराया। भारत ने 309/7 रन बनाए, जिसमें आर्यवीर सहवाग ने 160 रन बनाए। 12 नवंबर को सेमीफाइनल में भारत-अफगानिस्तान और पाकिस्तान-बांग्लादेश भिड़ेंगे। फाइनल 14 नवंबर को होगा।",
+    "pts": [
+     "भारत ने यूएई को 70 रन से हराया",
+     "आर्यवीर सहवाग के 160 रन",
+     "12 को सेमीफाइनल, 14 को फाइनल"
+    ],
+    "why": "भारत की युवा क्रिकेट टीम एशिया कप खिताब से दो कदम दूर है।",
+    "cat": "भारत · खेल",
+    "statl": "सेमीफाइनल: भारत बनाम अफगानिस्तान"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · నేరాలు",
    "col": "--c-power",
@@ -2303,204 +2503,6 @@
     "why": "ये आंकड़े राज्य में नई नौकरियों और निवेश की स्थिति दिखाते हैं।",
     "cat": "तेलंगाना · उद्योग",
     "statl": "2024-25 में घटी नौकरियां (TGIPASS)"
-   },
-   "d": "11.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "నవం. 26-28",
-   "statl": "సైబరాబాద్ మూవ్స్ 2026 తేదీలు",
-   "h": "సైబరాబాద్ మూవ్స్ 2026 లోగో ఆవిష్కరణ: 26 నుంచి కార్యక్రమం",
-   "p": "సైబరాబాద్ మూవ్స్ 2026 లోగోను తెలంగాణ డీజీపీ మంగళవారం హైదరాబాద్‌లో ఆవిష్కరించారు. సైబరాబాద్ పోలీస్ కమిషనర్, ట్రాఫిక్ జాయింట్ కమిషనర్, కార్పొరేట్ సంస్థల ప్రతినిధులు పాల్గొన్నారు. నవంబర్ 26 నుంచి 28 వరకు మూడు రోజులు జరిగే ఈ కార్యక్రమంలో నగర రవాణా, రోడ్డు భద్రత, ప్రజా రవాణా, నడక, సైక్లింగ్‌పై చర్చిస్తారు. ప్రజలు CyberabadMoves.inలో నమోదు చేసుకుని ఆలోచనలు పంచుకోవచ్చు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/telangana/cyberabad-moves-2026-logo-unveiled-event-to-be-held-from-november-26-2003389",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-11T08:24+05:30",
-   "pts": [
-    "లోగోను ఆవిష్కరించిన తెలంగాణ డీజీపీ",
-    "నవంబర్ 26-28 మూడు రోజుల కార్యక్రమం",
-    "CyberabadMoves.inలో ప్రజల నమోదు"
-   ],
-   "why": "నగర ట్రాఫిక్, రోడ్డు భద్రతపై హైదరాబాద్ ప్రజలు సూచనలు ఇచ్చే అవకాశం.",
-   "en": {
-    "h": "Cyberabad Moves 2026 logo unveiled; event from November 26",
-    "p": "The Telangana DGP unveiled the Cyberabad Moves 2026 logo in Hyderabad on Tuesday. The Cyberabad Police Commissioner, the Joint Commissioner (Traffic) and corporate representatives attended. The three-day event from November 26 to 28 will discuss urban mobility, road safety, public transport, walking and cycling. Citizens can register at CyberabadMoves.in and share ideas.",
-    "pts": [
-     "Telangana DGP unveiled the logo",
-     "Three-day event from November 26-28",
-     "Citizens can register at CyberabadMoves.in"
-    ],
-    "why": "Hyderabad residents get a chance to give suggestions on city traffic and road safety.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Cyberabad Moves 2026 dates"
-   },
-   "hi": {
-    "h": "साइबराबाद मूव्स 2026 का लोगो जारी: 26 नवंबर से कार्यक्रम",
-    "p": "तेलंगाना के डीजीपी ने मंगलवार को हैदराबाद में साइबराबाद मूव्स 2026 का लोगो जारी किया। साइबराबाद पुलिस आयुक्त, संयुक्त आयुक्त (यातायात) और कॉर्पोरेट प्रतिनिधि मौजूद थे। 26 से 28 नवंबर तक तीन दिन के इस कार्यक्रम में शहरी आवाजाही, सड़क सुरक्षा, सार्वजनिक परिवहन, पैदल चलने और साइकिलिंग पर चर्चा होगी। नागरिक CyberabadMoves.in पर पंजीकरण कर सुझाव दे सकते हैं।",
-    "pts": [
-     "तेलंगाना डीजीपी ने लोगो जारी किया",
-     "26-28 नवंबर तीन दिन का कार्यक्रम",
-     "CyberabadMoves.in पर नागरिक पंजीकरण"
-    ],
-    "why": "हैदराबाद के लोगों को शहर के यातायात और सड़क सुरक्षा पर सुझाव देने का मौका।",
-    "cat": "हैदराबाद · यातायात",
-    "statl": "साइबराबाद मूव्स 2026 की तारीखें"
-   },
-   "d": "11.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "అస్సాం · రైలు ప్రమాదం",
-   "col": "--c-power",
-   "art": "deadline",
-   "stat": "6 బోగీలు",
-   "statl": "పట్టాలు తప్పిన బోగీలు",
-   "h": "అస్సాంలో పట్టాలు తప్పిన కోల్‌కతా-సైరంగ్ ఎక్స్‌ప్రెస్ ఆరు బోగీలు",
-   "p": "గువాహటి శివారులోని దిగారు రైల్వే స్టేషన్ సమీపంలో బుధవారం ఉదయం సుమారు 6:54కు కోల్‌కతా-సైరంగ్ ఎక్స్‌ప్రెస్ ఇంజిన్‌తో పాటు కనీసం ఆరు బోగీలు పట్టాలు తప్పాయని IANS తెలిపింది. ఇప్పటివరకు ప్రాణనష్టం లేదని ఈశాన్య సరిహద్దు రైల్వే సీపీఆర్‌వో చెప్పారు. పలువురు ప్రయాణికులు గాయపడ్డారని కథనం పేర్కొన్నా, సంఖ్య అధికారికంగా ధృవీకరించాల్సి ఉంది. ప్రమాద కారణం ఇంకా తెలియలేదు; సహాయక చర్యలు కొనసాగుతున్నాయి.",
-   "src": "IANS",
-   "url": "https://ianslive.in/six-coaches-of-kolkatasairang-express-derail-in-assam-several-injured--20261111082853",
-   "sec": [
-    "india"
-   ],
-   "st": "AS",
-   "place": "st-AS",
-   "loc": "దిగారు",
-   "pub": "2026-11-11T08:32+05:30",
-   "pts": [
-    "గువాహటి శివారు దిగారు వద్ద ప్రమాదం",
-    "ప్రాణనష్టం లేదని రైల్వే అధికారులు",
-    "కారణంపై విచారణ, ట్రాక్ పునరుద్ధరణ పనులు"
-   ],
-   "why": "ఈశాన్య మార్గంలో రైళ్లలో ప్రయాణించేవారు తాజా సమాచారం తెలుసుకోవాలి.",
-   "en": {
-    "h": "Six coaches of Kolkata–Sairang Express derail in Assam",
-    "p": "At least six coaches of the Kolkata–Sairang Express, along with the locomotive, derailed near Digaru railway station on the outskirts of Guwahati at about 6:54 am on Wednesday, IANS reported. The Northeast Frontier Railway CPRO said no casualties had been reported so far. The report says several passengers were injured, but the number is yet to be officially confirmed. The cause is not yet known; rescue work is under way.",
-    "pts": [
-     "Accident near Digaru on Guwahati's outskirts",
-     "No casualties, say railway officials",
-     "Inquiry into cause; track restoration under way"
-    ],
-    "why": "Passengers on north-eastern routes should check for the latest train updates.",
-    "cat": "Assam · Rail accident",
-    "statl": "Coaches derailed"
-   },
-   "hi": {
-    "h": "असम में कोलकाता-सैरांग एक्सप्रेस के छह डिब्बे पटरी से उतरे",
-    "p": "IANS के अनुसार बुधवार सुबह करीब 6:54 बजे गुवाहाटी के बाहरी इलाके में दिगारू रेलवे स्टेशन के पास कोलकाता-सैरांग एक्सप्रेस के इंजन समेत कम से कम छह डिब्बे पटरी से उतर गए। पूर्वोत्तर सीमांत रेलवे के सीपीआरओ ने कहा कि अब तक किसी की जान जाने की खबर नहीं है। रिपोर्ट के अनुसार कई यात्री घायल हुए, लेकिन संख्या की आधिकारिक पुष्टि होनी बाकी है। कारण अभी पता नहीं; राहत कार्य जारी है।",
-    "pts": [
-     "गुवाहाटी के बाहर दिगारू के पास हादसा",
-     "रेल अधिकारियों के अनुसार कोई मौत नहीं",
-     "कारण की जांच, ट्रैक बहाली का काम जारी"
-    ],
-    "why": "पूर्वोत्तर मार्गों पर यात्रा करने वाले ताज़ा जानकारी देखें।",
-    "cat": "असम · रेल हादसा",
-    "statl": "पटरी से उतरे डिब्बे"
-   },
-   "d": "11.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "నవం. 13-14",
-   "statl": "భారత్ సమ్మిట్‌కు రాహుల్",
-   "h": "రాహుల్ గాంధీని కలిసిన టీపీసీసీ చీఫ్: భారత్ సమ్మిట్‌కు ఆహ్వానం",
-   "p": "టీపీసీసీ అధ్యక్షుడు మహేశ్‌కుమార్ గౌడ్ కాంగ్రెస్ నేత రాహుల్ గాంధీని కలిసి హైదరాబాద్‌లో జరిగే భారత్ సమ్మిట్‌కు ఆహ్వానించారు. రాజకీయాల్లో బీసీలకు మరింత ప్రాధాన్యం ఇవ్వాల్సిన అవసరాన్ని రాహుల్‌కు వివరించానని ఆయన మీడియాకు తెలిపారు. నవంబర్ 13, 14 తేదీల్లో హైదరాబాద్‌లో జరిగే సమ్మిట్‌కు రాహుల్ హాజరవుతారని నమస్తే తెలంగాణ కథనం పేర్కొంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/tpcc-chief-mahesh-kumar-goud-invites-rahul-gandhi-to-bharat-summit-2557337",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-11T04:31+05:30",
-   "pts": [
-    "రాహుల్‌ను కలిసిన మహేశ్‌కుమార్ గౌడ్",
-    "బీసీలకు ప్రాధాన్యంపై చర్చించినట్టు వెల్లడి",
-    "నవంబర్ 13, 14న హైదరాబాద్‌లో సమ్మిట్"
-   ],
-   "why": "హైదరాబాద్‌లో జరిగే భారత్ సమ్మిట్‌లో జాతీయ నేతల పర్యటన వివరాలు.",
-   "en": {
-    "h": "TPCC chief meets Rahul Gandhi, invites him to Bharat Summit",
-    "p": "TPCC president Mahesh Kumar Goud met Congress leader Rahul Gandhi and invited him to the Bharat Summit in Hyderabad. He told the media he had explained to Rahul the need to give backward classes more importance in politics. Rahul will attend the summit in Hyderabad on November 13 and 14, the Namasthe Telangana report said.",
-    "pts": [
-     "Mahesh Kumar Goud met Rahul Gandhi",
-     "Says he discussed priority for BCs",
-     "Summit in Hyderabad on November 13-14"
-    ],
-    "why": "Details of national leaders' visit for the Bharat Summit in Hyderabad.",
-    "cat": "Telangana · Politics",
-    "statl": "Rahul at Bharat Summit"
-   },
-   "hi": {
-    "h": "टीपीसीसी अध्यक्ष ने राहुल गांधी से मुलाकात की, भारत समिट का न्योता",
-    "p": "टीपीसीसी अध्यक्ष महेश कुमार गौड़ ने कांग्रेस नेता राहुल गांधी से मिलकर उन्हें हैदराबाद में होने वाले भारत समिट में आमंत्रित किया। उन्होंने मीडिया से कहा कि उन्होंने राहुल को राजनीति में पिछड़े वर्गों को ज़्यादा महत्व देने की ज़रूरत बताई। नमस्ते तेलंगाना की रिपोर्ट के अनुसार राहुल 13 और 14 नवंबर को हैदराबाद में समिट में शामिल होंगे।",
-    "pts": [
-     "महेश कुमार गौड़ ने राहुल से मुलाकात की",
-     "पिछड़े वर्गों को प्राथमिकता पर चर्चा",
-     "13-14 नवंबर को हैदराबाद में समिट"
-    ],
-    "why": "हैदराबाद में भारत समिट के लिए राष्ट्रीय नेताओं के दौरे का ब्योरा।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "भारत समिट में राहुल"
-   },
-   "d": "11.11.2026",
-   "t": "08:35"
-  },
-  {
-   "cat": "నిర్మల్ · అవినీతి",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹50,000",
-   "statl": "లంచం తీసుకుంటుండగా పట్టివేత",
-   "h": "బిల్లు మంజూరుకు రూ.50 వేల లంచం: ఏసీబీకి చిక్కిన భైంసా మున్సిపల్ కమిషనర్",
-   "p": "నిర్మల్ జిల్లా భైంసా మున్సిపాలిటీ ఇన్‌చార్జి కమిషనర్ ఒక కాంట్రాక్టర్ నుంచి రూ.50 వేలు లంచం తీసుకుంటుండగా ఏసీబీ అధికారులు మంగళవారం పట్టుకున్నారని నమస్తే తెలంగాణ కథనం తెలిపింది. పట్టణంలో చేసిన పనులకు రూ.2.63 లక్షల బిల్లు మంజూరు చేసేందుకు లంచం అడిగారని ఆరోపణ. కాంట్రాక్టర్ ఫిర్యాదుతో డీఎస్పీ నేతృత్వంలో అధికారులు నగదు స్వాధీనం చేసుకుని అధికారిని అదుపులోకి తీసుకున్నారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/acb-arrests-municipal-commissioner-over-bribe-for-clearing-contractors-bill-2557320",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nirmal",
-   "loc": "భైంసా",
-   "pub": "2026-11-11T04:04+05:30",
-   "pts": [
-    "రూ.2.63 లక్షల బిల్లుకు లంచం డిమాండ్ ఆరోపణ",
-    "కాంట్రాక్టర్ ఫిర్యాదుతో ఏసీబీ దాడి",
-    "రూ.50 వేలు స్వాధీనం, అధికారి అదుపులోకి"
-   ],
-   "why": "ప్రభుత్వ కార్యాలయాల్లో లంచం డిమాండ్‌పై ఏసీబీకి ఫిర్యాదు చేయవచ్చని ఈ ఘటన చూపుతోంది.",
-   "en": {
-    "h": "Rs 50,000 bribe to clear bill: Bhainsa municipal commissioner caught by ACB",
-    "p": "ACB officers on Tuesday caught the in-charge commissioner of Bhainsa municipality in Nirmal district taking a Rs 50,000 bribe from a contractor, Namasthe Telangana reported. The bribe was allegedly demanded to clear a Rs 2.63 lakh bill for works in the town. Acting on the contractor's complaint, officers led by a DSP seized the cash and took the official into custody.",
-    "pts": [
-     "Bribe allegedly demanded for Rs 2.63 lakh bill",
-     "ACB acted on contractor's complaint",
-     "Rs 50,000 seized, official taken into custody"
-    ],
-    "why": "The case shows bribe demands in government offices can be reported to the ACB.",
-    "cat": "Nirmal · Corruption",
-    "statl": "Caught taking bribe"
-   },
-   "hi": {
-    "h": "बिल पास करने के लिए 50 हज़ार रिश्वत: भैंसा नगर आयुक्त एसीबी के हत्थे",
-    "p": "नमस्ते तेलंगाना के अनुसार एसीबी अधिकारियों ने मंगलवार को निर्मल ज़िले की भैंसा नगरपालिका के प्रभारी आयुक्त को एक ठेकेदार से 50,000 रुपये रिश्वत लेते पकड़ा। आरोप है कि शहर में किए गए कामों का 2.63 लाख रुपये का बिल पास करने के लिए रिश्वत मांगी गई। ठेकेदार की शिकायत पर डीएसपी के नेतृत्व में अधिकारियों ने नकदी ज़ब्त कर अधिकारी को हिरासत में लिया।",
-    "pts": [
-     "2.63 लाख के बिल के लिए रिश्वत मांगने का आरोप",
-     "ठेकेदार की शिकायत पर एसीबी की कार्रवाई",
-     "50,000 रुपये ज़ब्त, अधिकारी हिरासत में"
-    ],
-    "why": "यह मामला दिखाता है कि सरकारी दफ़्तरों में रिश्वत मांगे जाने की शिकायत एसीबी से की जा सकती है।",
-    "cat": "निर्मल · भ्रष्टाचार",
-    "statl": "रिश्वत लेते पकड़े गए"
    },
    "d": "11.11.2026",
    "t": "08:35"

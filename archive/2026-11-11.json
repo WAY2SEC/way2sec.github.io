@@ -1,8 +1,208 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 93,
+ "count": 97,
  "stories": [
+  {
+   "cat": "తెలంగాణ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "75,000 టన్నులు",
+   "statl": "రోజుకు జెన్‌కోకు బొగ్గు సరఫరా",
+   "h": "జెన్‌కో విద్యుత్ కేంద్రాలకు రోజుకు 75 వేల టన్నుల బొగ్గు: సింగరేణి నిర్ణయం",
+   "p": "తెలంగాణ జెన్‌కో థర్మల్ విద్యుత్ కేంద్రాలకు రోజుకు 75 వేల టన్నుల బొగ్గు సరఫరా చేయాలని సింగరేణి నిర్ణయించినట్లు ఆంధ్రజ్యోతి తెలిపింది. ఒడిశాలోని నైనీ బొగ్గు గని నుంచి యాదాద్రి థర్మల్ ప్లాంట్‌కు రోజుకు కనీసం 16 వేల టన్నులు పంపనున్నారు. హైదరాబాద్ సింగరేణి భవన్‌లో ఇరు సంస్థల సీఎండీల అధ్యక్షతన వర్చువల్ సమన్వయ సమావేశం జరిగింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/singareni-to-supply-75000-tonnes-coal-daily-to-telangana-genco-power-plants-1575206.html",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "జెన్‌కోకు రోజుకు 75 వేల టన్నుల బొగ్గు",
+    "నైనీ గని నుంచి యాదాద్రికి రోజుకు 16 వేల టన్నులు",
+    "ఈ ఏడాది సరఫరా గత 3–4 ఏళ్ల కంటే ఎక్కువన్న సింగరేణి సీఎండీ"
+   ],
+   "why": "థర్మల్ కేంద్రాలకు బొగ్గు సరఫరా రాష్ట్రంలో విద్యుత్ ఉత్పత్తికి కీలకం.",
+   "pub": "2026-11-11T06:43+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "Singareni to supply 75,000 tonnes of coal daily to GENCO plants",
+    "p": "Singareni has decided to supply 75,000 tonnes of coal a day to Telangana GENCO's thermal power plants, Andhra Jyothy reported. At least 16,000 tonnes a day will be sent from the Naini coal mine in Odisha to the Yadadri thermal plant. A virtual coordination meeting chaired by the CMDs of both organisations was held at Singareni Bhavan in Hyderabad.",
+    "pts": [
+     "75,000 tonnes of coal daily for GENCO",
+     "16,000 tonnes a day from Naini mine to Yadadri",
+     "Singareni CMD: supply higher than past 3–4 years"
+    ],
+    "why": "Coal supply to thermal plants is key to power generation in the state.",
+    "cat": "Telangana · Power",
+    "statl": "Daily coal supply to GENCO"
+   },
+   "hi": {
+    "h": "जेनको बिजली संयंत्रों को रोज 75 हजार टन कोयला: सिंगरेनी का फैसला",
+    "p": "आंध्र ज्योति के अनुसार सिंगरेनी ने तेलंगाना जेनको के थर्मल बिजली संयंत्रों को रोजाना 75 हजार टन कोयला देने का फैसला किया है। ओडिशा की नैनी कोयला खदान से यादाद्रि थर्मल प्लांट को रोज कम से कम 16 हजार टन भेजा जाएगा। हैदराबाद के सिंगरेनी भवन में दोनों संस्थाओं के सीएमडी की अध्यक्षता में वर्चुअल समन्वय बैठक हुई।",
+    "pts": [
+     "जेनको को रोज 75 हजार टन कोयला",
+     "नैनी खदान से यादाद्रि को रोज 16 हजार टन",
+     "सिंगरेनी सीएमडी: आपूर्ति पिछले 3–4 साल से ज्यादा"
+    ],
+    "why": "थर्मल संयंत्रों को कोयला आपूर्ति राज्य में बिजली उत्पादन के लिए अहम है।",
+    "cat": "तेलंगाना · बिजली",
+    "statl": "जेनको को रोज कोयला आपूर्ति"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "558",
+   "statl": "తిరిగి వైద్య విధాన పరిషత్‌కు సిబ్బంది",
+   "h": "బోధనాస్పత్రుల్లోని 558 మంది సిబ్బంది తిరిగి వైద్య విధాన పరిషత్‌కు",
+   "p": "30 బోధనాస్పత్రుల్లో పనిచేస్తున్న 558 మంది తెలంగాణ వైద్య విధాన పరిషత్ (టీవీవీపీ) ఉద్యోగులను వెంటనే రిలీవ్ చేసి మాతృసంస్థకు పంపాలని డీఎంఈ డాక్టర్ వాణి ఆదేశాలు జారీ చేసినట్లు ఆంధ్రజ్యోతి తెలిపింది. వీరిలో 244 మంది నర్సింగ్ సిబ్బంది, 39 మంది వైద్యులు ఉన్నారు. అందరూ కోఠిలోని టీవీవీపీ కమిషనర్ కార్యాలయంలో రిపోర్ట్ చేయాలి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/558-hospital-employees-return-telangana-vaidya-vidhana-parishad-1575214.html",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "30 బోధనాస్పత్రుల సూపరింటెండెంట్లకు డీఎంఈ ఆదేశాలు",
+    "244 నర్సింగ్, 116 క్లాస్-4, 111 మినిస్టీరియల్ సిబ్బంది",
+    "48 పారామెడికల్ సిబ్బంది, 39 మంది వైద్యులు"
+   ],
+   "why": "బోధనాస్పత్రుల్లో, వైద్య విధాన పరిషత్ ఆస్పత్రుల్లో సిబ్బంది కేటాయింపుపై ఇది ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T07:00+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "558 teaching hospital staff sent back to Vaidya Vidhana Parishad",
+    "p": "DME Dr Vani has ordered the immediate relief of 558 Telangana Vaidya Vidhana Parishad (TVVP) employees working in 30 teaching hospitals and their return to the parent body, Andhra Jyothy reported. They include 244 nursing staff and 39 doctors. All must report to the TVVP Commissioner's office in Koti.",
+    "pts": [
+     "DME orders to superintendents of 30 teaching hospitals",
+     "244 nursing, 116 Class-IV, 111 ministerial staff",
+     "48 paramedical staff and 39 doctors"
+    ],
+    "why": "This affects staffing at teaching hospitals and Vaidya Vidhana Parishad hospitals.",
+    "cat": "Telangana · Health",
+    "statl": "Staff returning to TVVP"
+   },
+   "hi": {
+    "h": "शिक्षण अस्पतालों के 558 कर्मचारी वापस वैद्य विधान परिषद भेजे गए",
+    "p": "आंध्र ज्योति के अनुसार डीएमई डॉ. वाणी ने 30 शिक्षण अस्पतालों में कार्यरत तेलंगाना वैद्य विधान परिषद (टीवीवीपी) के 558 कर्मचारियों को तुरंत कार्यमुक्त कर मूल संस्था में भेजने का आदेश दिया है। इनमें 244 नर्सिंग कर्मचारी और 39 डॉक्टर शामिल हैं। सभी को कोठी स्थित टीवीवीपी आयुक्त कार्यालय में रिपोर्ट करना होगा।",
+    "pts": [
+     "30 शिक्षण अस्पतालों के अधीक्षकों को डीएमई के आदेश",
+     "244 नर्सिंग, 116 क्लास-4, 111 मिनिस्टीरियल कर्मचारी",
+     "48 पैरामेडिकल कर्मचारी और 39 डॉक्टर"
+    ],
+    "why": "इसका असर शिक्षण अस्पतालों और वैद्य विधान परिषद अस्पतालों में स्टाफ पर पड़ेगा।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "टीवीवीपी में लौटने वाले कर्मचारी"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆదివాసీలు",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "ST సర్టిఫికెట్లు",
+   "statl": "వలస ఆదివాసీల ప్రధాన డిమాండ్",
+   "h": "వలస ఆదివాసీలకు ఎస్టీ సర్టిఫికెట్లు ఇవ్వాలి: ఇందిరా పార్క్‌లో సీపీఎం ఆదివాసీ మహాగర్జన",
+   "p": "వలస ఆదివాసీలకు ఎస్టీ ధ్రువీకరణ పత్రాలు, సాగు భూములకు హక్కు పత్రాలు ఇవ్వాలని డిమాండ్ చేస్తూ సీపీఎం రాష్ట్ర కమిటీ హైదరాబాద్ ఇందిరా పార్క్‌లో 'ఆదివాసీ మహాగర్జన' నిర్వహించినట్లు ఆంధ్రజ్యోతి తెలిపింది. వేలాది మంది ఆదివాసీలు పాల్గొన్నారు. డిమాండ్లు నెరవేర్చకపోతే అసెంబ్లీని ముట్టడిస్తామని సీపీఎం రాష్ట్ర కార్యదర్శి జాన్ వెస్లీ హెచ్చరించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-adivasis-demand-st-certificates-land-rights-massive-cpm-rally-hyderabad-1575209.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "ఇందిరా పార్క్",
+   "pts": [
+    "వలస ఆదివాసీలకు ఎస్టీ సర్టిఫికెట్లు ఇవ్వాలని డిమాండ్",
+    "సాగు భూములకు హక్కు పత్రాలు కావాలని విజ్ఞప్తి",
+    "ప్రభుత్వాల నిర్లక్ష్యమని జాన్ వెస్లీ ఆరోపణ"
+   ],
+   "why": "రాష్ట్రంలోని వలస ఆదివాసీల గుర్తింపు, భూమి హక్కుల అంశం దీనితో మళ్లీ తెరపైకి వచ్చింది.",
+   "pub": "2026-11-11T06:48+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "Give ST certificates to migrant Adivasis: CPM rally at Indira Park",
+    "p": "The CPM state committee held an 'Adivasi Maha Garjana' at Indira Park in Hyderabad demanding ST certificates for migrant Adivasis and title documents for the land they cultivate, Andhra Jyothy reported. Thousands of Adivasis took part. CPM state secretary John Wesley warned that they would lay siege to the Assembly if the demands are not met.",
+    "pts": [
+     "Demand for ST certificates for migrant Adivasis",
+     "Call for title documents for cultivated land",
+     "John Wesley alleges government negligence"
+    ],
+    "why": "The rally brings the identity and land-rights issue of migrant Adivasis in the state back into focus.",
+    "cat": "Hyderabad · Adivasis",
+    "statl": "Key demand of migrant Adivasis"
+   },
+   "hi": {
+    "h": "प्रवासी आदिवासियों को एसटी प्रमाणपत्र दें: इंदिरा पार्क में सीपीएम की रैली",
+    "p": "आंध्र ज्योति के अनुसार सीपीएम राज्य समिति ने हैदराबाद के इंदिरा पार्क में 'आदिवासी महा गर्जना' आयोजित की, जिसमें प्रवासी आदिवासियों को एसटी प्रमाणपत्र और खेती की जमीन के अधिकार पत्र देने की मांग की गई। हजारों आदिवासी शामिल हुए। सीपीएम राज्य सचिव जॉन वेस्ली ने चेतावनी दी कि मांगें पूरी न होने पर विधानसभा का घेराव करेंगे।",
+    "pts": [
+     "प्रवासी आदिवासियों को एसटी प्रमाणपत्र की मांग",
+     "खेती की जमीन के अधिकार पत्र की मांग",
+     "जॉन वेस्ली ने सरकारों पर लापरवाही का आरोप लगाया"
+    ],
+    "why": "इस रैली से राज्य के प्रवासी आदिवासियों की पहचान और भूमि अधिकार का मुद्दा फिर सामने आया है।",
+    "cat": "हैदराबाद · आदिवासी",
+    "statl": "प्रवासी आदिवासियों की मुख्य मांग"
+   }
+  },
+  {
+   "cat": "భారత్ · క్రీడలు",
+   "col": "--c-money",
+   "art": "unity",
+   "stat": "నవంబర్ 12",
+   "statl": "సెమీఫైనల్: భారత్ vs అఫ్గానిస్తాన్",
+   "h": "అండర్-19 ఆసియా కప్: సెమీస్‌లో అఫ్గానిస్తాన్‌తో భారత్ పోరు",
+   "p": "ఒమన్‌లో జరుగుతున్న అండర్-19 ఆసియా కప్ చివరి గ్రూప్ మ్యాచ్‌లో యూఏఈపై భారత్ 70 పరుగుల తేడాతో గెలిచిందని ఈటీవీ భారత్ తెలిపింది. భారత్ 309/7 చేయగా, ఆర్యవీర్ సెహ్వాగ్ 160 పరుగులు సాధించాడు. నవంబర్ 12న సెమీఫైనల్స్‌లో భారత్-అఫ్గానిస్తాన్, పాకిస్తాన్-బంగ్లాదేశ్ తలపడతాయి. ఫైనల్ నవంబర్ 14న జరుగుతుంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/hi/sports/u-19-asia-cup-2026-semifinals-india-to-face-afghanistan-and-pakistan-to-take-on-bangladesh-hin26111102640",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "యూఏఈపై 70 పరుగుల తేడాతో భారత్ విజయం",
+    "ఆర్యవీర్ సెహ్వాగ్ 160 పరుగులు",
+    "12న సెమీస్, 14న ఫైనల్"
+   ],
+   "why": "భారత యువ క్రికెట్ జట్టు ఆసియా కప్ టైటిల్‌కు రెండు అడుగుల దూరంలో ఉంది.",
+   "pub": "2026-11-11T13:33+05:30",
+   "d": "11.11.2026",
+   "t": "14:35",
+   "en": {
+    "h": "U-19 Asia Cup: India to face Afghanistan in semifinal",
+    "p": "India beat the UAE by 70 runs in their last group match of the Under-19 Asia Cup in Oman, ETV Bharat reported. India scored 309/7, with Aaryavir Sehwag making 160. In the semifinals on November 12, India face Afghanistan and Pakistan meet Bangladesh. The final is on November 14.",
+    "pts": [
+     "India beat UAE by 70 runs",
+     "Aaryavir Sehwag scores 160",
+     "Semifinals on 12th, final on 14th"
+    ],
+    "why": "India's youth cricket team is two steps from the Asia Cup title.",
+    "cat": "India · Sports",
+    "statl": "Semifinal: India vs Afghanistan"
+   },
+   "hi": {
+    "h": "अंडर-19 एशिया कप: सेमीफाइनल में भारत का मुकाबला अफगानिस्तान से",
+    "p": "ईटीवी भारत के अनुसार ओमान में चल रहे अंडर-19 एशिया कप के आखिरी ग्रुप मैच में भारत ने यूएई को 70 रन से हराया। भारत ने 309/7 रन बनाए, जिसमें आर्यवीर सहवाग ने 160 रन बनाए। 12 नवंबर को सेमीफाइनल में भारत-अफगानिस्तान और पाकिस्तान-बांग्लादेश भिड़ेंगे। फाइनल 14 नवंबर को होगा।",
+    "pts": [
+     "भारत ने यूएई को 70 रन से हराया",
+     "आर्यवीर सहवाग के 160 रन",
+     "12 को सेमीफाइनल, 14 को फाइनल"
+    ],
+    "why": "भारत की युवा क्रिकेट टीम एशिया कप खिताब से दो कदम दूर है।",
+    "cat": "भारत · खेल",
+    "statl": "सेमीफाइनल: भारत बनाम अफगानिस्तान"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · నేరాలు",
    "col": "--c-power",
