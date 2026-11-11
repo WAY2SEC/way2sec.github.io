@@ -34,6 +34,11 @@ def dmy(d):
 
 SITE_SECS = [('telangana','తెలంగాణ'),('ap','ఆంధ్రప్రదేశ్'),('india','దేశం'),('world','ప్రపంచం'),('ai','AI & టెక్'),('jobs','ఉద్యోగ వార్తలు'),('business','బిజినెస్'),('education','విద్య'),('agri','వ్యవసాయం'),('weather','వాతావరణం'),('sports','క్రీడలు')]
 ARTICLE_CSS = """
+.ar .byl{font-size:13px;color:var(--muted,#6B7280);margin:6px 0 0;line-height:1.7}.ar .byl a{color:var(--brand);font-weight:700}
+.ar .entr{margin:18px 0 4px;padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:var(--soft);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.ar .entr h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted,#6B7280);margin:0 0 6px}
+.ar .entr h3{font-size:18px;margin:0 0 6px;line-height:1.35}.ar .entr p,.ar .entr li{font-size:15px;line-height:1.65}
+html.l-en .ar .entr,html.l-hi .ar .entr{display:none}
 .corr{margin:14px 0 0;padding:10px 14px;border-left:4px solid #E0A100;background:#FFF4D6;color:#5C3900;border-radius:10px;font-size:15px;line-height:1.7}.corr b{color:#7A4B00}
 .wdn{margin:14px 0;padding:14px 16px;border-left:4px solid #C8102E;background:#FDECEE;color:#5C0A16;border-radius:12px;display:grid;gap:6px;font-size:16px;line-height:1.7}
 .agrid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:28px;margin-top:28px;align-items:start}
@@ -126,6 +131,18 @@ def page(sid, s, kind, img, has_card, target, desc, related):
                 ('<ul class="pts">' + "".join(f"<li>{e(x)}</li>" for x in pts) + "</ul>" if pts else "") +
                 (f'<p class="why"><small>ఇది ఎందుకు ముఖ్యం?</small>{e(s.get("why"))}</p>' if s.get("why") else ""))
         src = f'<p class="src">మూలం: {e(s.get("src"))}' + (f' · <a href="{e(s.get("url"))}" target="_blank" rel="noopener nofollow">పూర్తి వార్త చదవండి →</a>' if s.get("url") else "") + "</p>"
+        # who prepared it + other languages (AdSense / reader trust, 11 Nov 2026)
+        if s.get("local") or s.get("rep"):
+            by = f'✍️ {e(s.get("repn") or "Way2Sec రిపోర్టర్")} · Way2Sec రిపోర్టర్{(" · " + e(s.get("loc"))) if s.get("loc") else ""} · ఎడిటర్ ఆమోదించిన స్థానిక వార్త'
+        else:
+            by = '✍️ Way2Sec డెస్క్ · అసలు వార్త ఆధారంగా మా మాటల్లో క్లుప్తంగా'
+        src += (f'<p class="byl">{by} · <a href="/editorial-policy.html">మేము వార్తలు ఎలా సిద్ధం చేస్తాం</a> · '
+                f'<a href="/contact.html">తప్పు కనిపించిందా? తెలియజేయండి</a></p>')
+        en = s.get("en") if isinstance(s.get("en"), dict) else {}
+        if en.get("h") and en.get("p") and not s.get("wd"):
+            src += ('<section class="entr" lang="en"><h2>In English</h2>' + f'<h3>{e(en["h"])}</h3><p>{e(en["p"])}</p>' +
+                    ('<ul>' + "".join(f"<li>{e(x)}</li>" for x in (en.get("pts") or [])) + '</ul>' if en.get("pts") else "") +
+                    (f'<p><b>Why it matters:</b> {e(en["why"])}</p>' if en.get("why") else "") + '</section>')
         c = s.get("corr") if isinstance(s.get("corr"), dict) else {}
         if s.get("wd"):   # withdrawn (corrections policy, 10 Nov 2026): keep the link alive, show only the notice
             body = (f'<p class="wdn"><b>⚠️ ఈ వార్తను Way2Sec ఉపసంహరించుకుంది{(" · " + e(c.get("at"))) if c.get("at") else ""}</b>'
@@ -253,8 +270,25 @@ STATIC_PAGES = {
   <p class="alead">మీ ఊరిలో జరిగిన ముఖ్యమైన విషయం, పరిష్కారం కావాల్సిన సమస్య, ఎవరైనా సాధించిన విజయం – మాకు పంపండి. పరిశీలించి ప్రపంచానికి చేరుస్తాం.</p>
   <div class="acts"><a class="cta" href="/?tip=1&amp;cards=1" style="background:var(--brand)">📝 మీ ఊరి వార్త పంపండి</a><a class="cta wa" href="https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138" target="_blank" rel="noopener">WhatsApp ఛానెల్‌లో చేరండి</a><a class="cta" href="/contact.html">సంప్రదించండి</a></div>
 
+  <h2>మేము ఎవరు · Who we are</h2>
+  <p class="alead">WAY2SEC ను <b>Way2Sec టీమ్</b> నడుపుతోంది. మా కేంద్రం <b>ఆలేరు, యాదాద్రి భువనగిరి జిల్లా, తెలంగాణ</b>. ఆలేరు, యాదాద్రి ప్రాంతంలోని మా స్థానిక రిపోర్టర్లు గ్రామ వార్తలు పంపుతారు; ప్రతి స్థానిక వార్తను మా ఎడిటర్ పరిశీలించి ఆమోదించిన తర్వాతే ప్రచురిస్తాం.</p>
+  <table class="jd">
+  <tr><th>📍 చిరునామా · Based in</th><td>ఆలేరు, యాదాద్రి భువనగిరి జిల్లా, తెలంగాణ, భారత్ · Aler, Yadadri Bhuvanagiri district, Telangana, India</td></tr>
+  <tr><th>📧 ఈమెయిల్ · Email</th><td><a href="mailto:way2sec.news@gmail.com" style="color:var(--brand);font-weight:800">way2sec.news@gmail.com</a></td></tr>
+  <tr><th>📲 WhatsApp</th><td><a href="https://wa.me/917032656422" target="_blank" rel="noopener" style="color:var(--brand);font-weight:800">+91 70326 56422</a></td></tr>
+  </table>
+
+  <h2>మేము ఏమి అందిస్తాం · What we publish</h2>
+  <div class="ab-grid">
+    <div class="ab-v"><b>📍 స్థానిక వార్తలు</b><span>మా రిపోర్టర్లు స్వయంగా సేకరించిన ఆలేరు, యాదాద్రి, చుట్టుపక్కల గ్రామాల వార్తలు – ఫోటోలతో.</span></div>
+    <div class="ab-v"><b>🗞️ తెలంగాణ, ఏపీ, దేశం, ప్రపంచం</b><span>నమ్మకమైన వార్తా సంస్థలు, అధికారిక ప్రకటనల ఆధారంగా మా మాటల్లో క్లుప్త వార్తలు – అసలు మూలం పేరు, లింక్‌తో.</span></div>
+    <div class="ab-v"><b>💼 ఉద్యోగాలు</b><span>ప్రభుత్వ, ప్రైవేట్ ఉద్యోగ ప్రకటనలు – అధికారిక వెబ్‌సైట్ లింక్‌తోనే. ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి.</span></div>
+    <div class="ab-v"><b>📰 జనధ్వని ఈ-పేపర్</b><span>ప్రతి ఉదయం నిన్నటి ముఖ్య వార్తలు, ఈరోజు ముఖ్య ఘట్టాలతో రోజువారీ ఈ-పేపర్.</span></div>
+  </div>
+  <p class="alead">మేము వార్తలు ఎలా సిద్ధం చేస్తామో, తప్పులు ఎలా సరిచేస్తామో మా <a href="/editorial-policy.html" style="color:var(--brand);font-weight:800">సంపాదకీయ విధానం (Editorial policy)</a>లో వివరంగా చదవండి.</p>
+
   <h2>In English</h2>
-  <p><b>WAY2SEC — your time matters; a platform for your village's news.</b> Information is everywhere today, yet understanding what happened, why it happened and why it matters to us still means reading page after page. WAY2SEC was born from that need: to deliver the important news in simple Telugu – short, clear and fast. For us, news is not only what happens in big cities; a village problem waiting for a solution, a student's achievement or a farmer's experience is news people deserve to know. We use AI to make information easy to read, while putting accuracy and context first in every story – each one names its original source. The name WAY2SEC stands for speed: not reading every story in two seconds, but understanding what matters in very little time. Our one big idea: <b>the world's news should reach your hands, and your village's news should reach the world.</b></p>
+  <p><b>WAY2SEC — your time matters; a platform for your village's news.</b> Information is everywhere today, yet understanding what happened, why it happened and why it matters to us still means reading page after page. WAY2SEC was born from that need: to deliver the important news in simple Telugu – short, clear and fast. For us, news is not only what happens in big cities; a village problem waiting for a solution, a student's achievement or a farmer's experience is news people deserve to know. We use AI to make information easy to read, while putting accuracy and context first in every story – each one names its original source. Way2Sec is run by the Way2Sec team from Aler, Yadadri Bhuvanagiri district, Telangana (way2sec.news@gmail.com · +91 70326 56422). Local stories come from our own reporters and are approved by our editor before they are published; read how we work in our <a href="/editorial-policy.html" style="color:var(--brand);font-weight:800">Editorial policy</a>. The name WAY2SEC stands for speed: not reading every story in two seconds, but understanding what matters in very little time. Our one big idea: <b>the world's news should reach your hands, and your village's news should reach the world.</b></p>
   <p class="why"><small>తప్పు కనిపించిందా? · Spotted an error?</small>ఏదైనా వార్తలో తప్పు ఉంటే <a href="/contact.html" style="color:var(--brand)">మాకు తెలియజేయండి</a> – వెంటనే సరిచేస్తాం.</p>
 </div>
 """),
@@ -266,9 +300,72 @@ STATIC_PAGES = {
 <tr><th>📝 మీ ఊరి వార్త పంపండి</th><td><a href="/?tip=1&amp;cards=1" style="color:var(--brand);font-weight:800">వార్త పంపే ఫారం →</a></td></tr>
 <tr><th>📢 ప్రకటనలు · Advertising</th><td><a href="https://wa.me/917032656422?text=Way2Sec%20advertising" target="_blank" rel="noopener" style="color:var(--brand);font-weight:800">WhatsAppలో సంప్రదించండి →</a></td></tr>
 <tr><th>📲 WhatsApp ఛానెల్</th><td><a href="https://whatsapp.com/channel/0029Vb9nNd8CBtxIYFryH138" target="_blank" rel="noopener" style="color:var(--brand);font-weight:800">Way2Sec ఛానెల్‌లో చేరండి →</a></td></tr>
+<tr><th>📍 చిరునామా · Address</th><td>Way2Sec టీమ్, ఆలేరు, యాదాద్రి భువనగిరి జిల్లా, తెలంగాణ, భారత్</td></tr>
+<tr><th>📲 WhatsApp</th><td><a href="https://wa.me/917032656422" target="_blank" rel="noopener" style="color:var(--brand);font-weight:800">+91 70326 56422</a></td></tr>
 <tr><th>🔒 గోప్యత · Privacy</th><td><a href="/privacy.html" style="color:var(--brand);font-weight:800">Privacy Policy →</a></td></tr>
+<tr><th>📜 విధానాలు · Policies</th><td><a href="/editorial-policy.html" style="color:var(--brand);font-weight:800">Editorial policy</a> · <a href="/terms.html" style="color:var(--brand);font-weight:800">Terms of use</a></td></tr>
 </table>
 <p class="why"><small>సవరణలు · Corrections</small>ఏదైనా వార్తలో తప్పు కనిపిస్తే, ఆ వార్త లింక్‌తో ఈమెయిల్ చేయండి. పరిశీలించి సరిచేస్తాం.</p>
+"""),
+ "editorial-policy.html": ("సంపాదకీయ విధానం | Editorial policy – Way2Sec", "Way2Sec వార్తలను ఎలా సిద్ధం చేస్తుంది, మూలాలు, AI వినియోగం, తటస్థత, తప్పుల సవరణ విధానం. How Way2Sec prepares news, sources, use of AI, neutrality and corrections.", """
+<h1>సంపాదకీయ విధానం · Editorial policy</h1>
+<p class="alead">Way2Sec లో ప్రతి వార్తను ఎలా ఎంచుకుంటాం, ఎలా రాస్తాం, తప్పులను ఎలా సరిచేస్తాం – ఇక్కడ స్పష్టంగా చెబుతున్నాం. పాఠకుల నమ్మకమే మా బలం.</p>
+
+<h2>1. మూలాలు · Sources</h2>
+<p>తెలంగాణ, ఏపీ, దేశ, ప్రపంచ వార్తలను <b>నమ్మకమైన వార్తా సంస్థలు</b> (ఉదా: PTI, The Hindu, Eenadu, Sakshi, Telangana Today, Reuters, BBC) మరియు <b>అధికారిక ప్రకటనలు</b> (ప్రభుత్వ పత్రికా ప్రకటనలు, IMD, TGPSC/APPSC, PIB) ఆధారంగా అందిస్తాం. ప్రతి వార్త కింద <b>అసలు మూలం పేరు, లింక్</b> ఇస్తాం – పూర్తి వివరాలు అక్కడ చదవవచ్చు. సోషల్ మీడియాలో మాత్రమే కనిపించే, నిర్ధారణ కాని సమాచారాన్ని ప్రచురించం.</p>
+<p><i>English:</i> National, state and world stories are based on reputable news organisations and official releases. Every story names and links its original source. We do not publish claims that appear only on social media and cannot be confirmed.</p>
+
+<h2>2. స్థానిక వార్తలు · Local reporting</h2>
+<p>ఆలేరు, యాదాద్రి భువనగిరి, చుట్టుపక్కల గ్రామాల వార్తలను <b>మా స్వంత రిపోర్టర్లు</b> సేకరిస్తారు. ప్రతి రిపోర్టర్‌కు ఒక గుర్తింపు సంఖ్య (PIN) ఉంటుంది. వారు పంపిన ప్రతి వార్తను <b>మా ఎడిటర్ చదివి, అవసరమైతే రిపోర్టర్‌తో మాట్లాడి, ఆమోదించిన తర్వాతే</b> ప్రచురిస్తాం. వార్తపై రిపోర్టర్ పేరు ఉంటుంది.</p>
+<p><i>English:</i> Local news is gathered by our own registered reporters. Every local story is read and approved by our editor before publication, and carries the reporter's name.</p>
+
+<h2>3. AI వినియోగం · How we use AI</h2>
+<p>వార్తలను వేగంగా, సులభమైన తెలుగులో అందించేందుకు AI సాధనాలను ఉపయోగిస్తాం: మూల వార్తలను చదివి <b>మా సొంత మాటల్లో క్లుప్త సారాంశం</b>, ముఖ్యాంశాలు, "ఇది ఎందుకు ముఖ్యం" వివరణ, ఇంగ్లీష్, హిందీ అనువాదాలు తయారు చేయడానికి. AI కి కఠిన నియమాలు ఉన్నాయి: మూలంలో లేని సంఖ్యలు, పేర్లు, కోట్స్ జోడించకూడదు; ఊహాగానాలు, అభిప్రాయాలు రాయకూడదు; ప్రతి వార్తకు మూలం చూపాలి. పాఠకులు తప్పు చెబితే మా టీమ్ పరిశీలించి సరిచేస్తుంది.</p>
+<p><i>English:</i> We use AI tools to write short summaries of source reports in our own words, add key points and a "why it matters" line, and translate into English and Hindi. The AI works under strict rules: no numbers, names or quotes that are not in the source, no speculation or opinion, and the source is always shown. Our team checks and corrects stories when errors are found or reported.</p>
+
+<h2>4. తటస్థత · Neutrality</h2>
+<p>రాజకీయ వార్తల్లో అన్ని పార్టీలకు ఒకే ప్రమాణం. వాస్తవాలకే పరిమితం – ఏ పార్టీకి, అభ్యర్థికి మద్దతు లేదా వ్యతిరేకత ఉండదు. నిర్ధారణ కాని ఆరోపణలను వాస్తవాలుగా రాయం. నేరాల వార్తల్లో బాధితులు, అనుమానితులు, పిల్లల పేర్లు వెల్లడించం; హింసాత్మక వివరాలు రాయం.</p>
+<p><i>English:</i> Political news follows the same standard for every party, sticks to facts and takes no side. Unproven allegations are never presented as fact. In crime news we do not name victims, suspects or children, and avoid graphic detail.</p>
+
+<h2>5. తప్పుల సవరణ · Corrections</h2>
+<p>ఏదైనా వార్తలో తప్పు కనిపిస్తే, ఆ వార్త లింక్‌తో <a href="mailto:way2sec.news@gmail.com" style="color:var(--brand);font-weight:800">way2sec.news@gmail.com</a> కు ఈమెయిల్ చేయండి లేదా <a href="https://wa.me/917032656422" target="_blank" rel="noopener" style="color:var(--brand);font-weight:800">WhatsApp 70326 56422</a> కు పంపండి. పరిశీలించి, తప్పు అయితే <b>వెంటనే సరిచేస్తాం</b>. తీవ్రమైన తప్పు అయితే వార్తను తొలగిస్తాం.</p>
+<p><i>English:</i> If you find an error, send us the story link by email or WhatsApp. We check it and correct it promptly; a story with a serious error is removed.</p>
+
+<h2>6. ప్రకటనలు · Advertising</h2>
+<p>ప్రకటనలు ఎప్పుడూ "ప్రకటన · Sponsored" అని స్పష్టంగా గుర్తించి ఉంటాయి. ప్రకటనదారులు మా వార్తలను ప్రభావితం చేయలేరు. ఉద్యోగ ప్రకటనలకు అధికారిక లింక్ మాత్రమే ఇస్తాం – <b>ఉద్యోగం కోసం ఎవరికీ డబ్బులు ఇవ్వకండి</b>.</p>
+<p><i>English:</i> Ads are always clearly labelled "ప్రకటన · Sponsored", and advertisers have no say over our news. Job listings link only to official pages.</p>
+
+<h2>7. కాపీరైట్ · Copyright</h2>
+<p>మా సారాంశాలు మా సొంత మాటల్లో ఉంటాయి; ఇతర సంస్థల వ్యాసాలను, వార్తా ఫోటోలను కాపీ చేయం. కాపీరైట్ సమస్య ఉంటే మమ్మల్ని సంప్రదించండి – వెంటనే చర్య తీసుకుంటాం.</p>
+<p class="why"><small>సంప్రదించండి · Contact</small>Way2Sec టీమ్ · ఆలేరు, యాదాద్రి భువనగిరి జిల్లా, తెలంగాణ · way2sec.news@gmail.com · +91 70326 56422</p>
+"""),
+ "terms.html": ("ఉపయోగ నిబంధనలు | Terms of use – Way2Sec", "Way2Sec వెబ్‌సైట్, యాప్ ఉపయోగ నిబంధనలు. Terms of use for the Way2Sec website and app.", """
+<h1>ఉపయోగ నిబంధనలు · Terms of use</h1>
+<p class="alead">Way2Sec వెబ్‌సైట్ (way2sec.news), యాప్‌ను ఉపయోగించడం ద్వారా మీరు ఈ నిబంధనలను అంగీకరిస్తున్నారు. చివరి మార్పు: 11 నవంబర్ 2026.</p>
+
+<h2>1. సేవ · The service</h2>
+<p>Way2Sec ఉచిత తెలుగు వార్తా సేవ – వార్తలు, ఉద్యోగ సమాచారం, ఈ-పేపర్, ఇంగ్లీష్, హిందీ అనువాదాలతో. ఈ సమాచారం సాధారణ అవగాహన కోసం మాత్రమే. ఆరోగ్యం, చట్టం, డబ్బు, ఉద్యోగ దరఖాస్తుల వంటి ముఖ్య నిర్ణయాల ముందు అధికారిక మూలాన్ని తప్పకుండా చూసుకోండి.</p>
+<p><i>English:</i> Way2Sec is a free Telugu news service. Its content is for general information; please check the official source before acting on anything important.</p>
+
+<h2>2. మా కంటెంట్ · Our content</h2>
+<p>Way2Sec సారాంశాలు, డిజైన్, కార్డ్ చిత్రాలు, ఈ-పేపర్ Way2Sec కు చెందినవి. మా లింక్‌తో, Way2Sec పేరుతో షేర్ చేయడానికి స్వాగతం. అనుమతి లేకుండా మొత్తం కంటెంట్‌ను కాపీ చేసి వేరే చోట ప్రచురించకూడదు. మూల వార్తల హక్కులు ఆయా సంస్థలవే.</p>
+<p><i>English:</i> Our summaries, designs, cards and e-paper belong to Way2Sec. Sharing with our link and name is welcome; republishing our content in bulk without permission is not. Rights in original source articles belong to their publishers.</p>
+
+<h2>3. మీరు పంపే వార్తలు · What you send us</h2>
+<p>మీరు లేదా మా రిపోర్టర్లు పంపే వార్తలు, ఫోటోలు, వీడియోలు నిజమైనవి, మీ స్వంతవి (లేదా ప్రచురించే అనుమతి ఉన్నవి) అయి ఉండాలి. ఎవరినీ కించపరిచే, తప్పుడు, ద్వేషపూరిత కంటెంట్ పంపకూడదు. పంపడం ద్వారా Way2Sec యాప్, వెబ్‌సైట్, ఈ-పేపర్, సోషల్ మీడియాలో దానిని ప్రచురించే అనుమతి ఇస్తున్నారు. ఏ వార్తను ప్రచురించాలో, ఎలా సవరించాలో ఎడిటర్ నిర్ణయిస్తారు.</p>
+<p><i>English:</i> Anything you send must be true and yours (or you must have permission to share it), and must not be defamatory, false or hateful. By sending it you allow Way2Sec to publish it across its app, website, e-paper and social channels. The editor decides what is published and may edit it.</p>
+
+<h2>4. ప్రకటనలు, బయటి లింకులు · Ads and external links</h2>
+<p>Way2Sec లో ప్రకటనలు "ప్రకటన · Sponsored" అని గుర్తించి ఉంటాయి. ప్రకటనదారుల ఉత్పత్తులు, సేవలకు వారే బాధ్యులు. మూల వార్తలు, ఉద్యోగ వెబ్‌సైట్ల వంటి బయటి లింకులపై మాకు నియంత్రణ ఉండదు. ఉద్యోగం కోసం ఎవరికీ డబ్బులు చెల్లించకండి.</p>
+<p><i>English:</i> Ads are labelled as such and advertisers are responsible for their own offers. We do not control external sites we link to. Never pay anyone for a job.</p>
+
+<h2>5. బాధ్యత పరిమితి · Limitation of liability</h2>
+<p>సమాచారం ఖచ్చితంగా ఉండేలా ప్రయత్నిస్తాం, కానీ ప్రతి వివరం సరైనదని లేదా తాజాగా ఉందని హామీ ఇవ్వలేం. Way2Sec సమాచారం ఆధారంగా తీసుకున్న నిర్ణయాల వల్ల కలిగే నష్టాలకు Way2Sec బాధ్యత వహించదు.</p>
+<p><i>English:</i> We work to keep information accurate but cannot guarantee every detail is complete or current, and are not liable for decisions made on the basis of it.</p>
+
+<h2>6. గోప్యత, మార్పులు · Privacy and changes</h2>
+<p>మీ సమాచారాన్ని ఎలా ఉపయోగిస్తామో <a href="/privacy.html" style="color:var(--brand);font-weight:800">గోప్యతా విధానం</a>లో చూడండి. ఈ నిబంధనలను అవసరమైనప్పుడు మారుస్తాం; తాజా వెర్షన్ ఎప్పుడూ ఈ పేజీలో ఉంటుంది. ఈ నిబంధనలకు భారతదేశ చట్టాలు వర్తిస్తాయి.</p>
+<p class="why"><small>సంప్రదించండి · Contact</small>Way2Sec టీమ్ · ఆలేరు, యాదాద్రి భువనగిరి జిల్లా, తెలంగాణ · way2sec.news@gmail.com · +91 70326 56422</p>
 """),
 }
 
@@ -405,7 +502,7 @@ def main():
             if not os.path.exists(fp) or open(fp, encoding="utf-8").read() != out:
                 with open(fp, "w", encoding="utf-8") as f: f.write(out)
         # sitemap for Google (home, sections, static pages, every article) + robots.txt
-        urls = [(SITE + "/", None), (SITE + "/about.html", None), (SITE + "/contact.html", None), (SITE + "/privacy.html", None), (SITE + "/epaper/", None)]
+        urls = [(SITE + "/", None), (SITE + "/about.html", None), (SITE + "/contact.html", None), (SITE + "/privacy.html", None), (SITE + "/editorial-policy.html", None), (SITE + "/terms.html", None), (SITE + "/epaper/", None)]
         for kind, s, sid in uniq:
             if s.get("wd"): continue
             urls.append((f"{SITE}/s/{sid}", iso_time(s)))

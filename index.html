@@ -13,7 +13,7 @@ gtag('event','app_open',{source:s});if(f)gtag('event','app_first_open',{source:s
 <script>
 /* Safety net (10 Nov 2026): if no news shows within 12 s, show the reason + a one-tap reset (keeps language/place). Plain ES5 so it runs on every phone. */
 (function(){var errs=[],shown=0;
-function bad(){var t=document.getElementById('tabs'),f=document.getElementById('feed');return !!(t&&f&&!t.children.length&&!f.children.length);}
+function bad(){var t=document.getElementById('tabs'),f=document.getElementById('feed');var n=f?f.children.length:0;if(n===1&&f.firstElementChild&&f.firstElementChild.className==='ssr')n=0;return !!(t&&f&&!t.children.length&&!n);}
 function box(){if(shown||!bad())return;shown=1;var msg=errs.length?errs.slice(0,3).join(' | '):'no news after 12 s';
  try{if(window.gtag)gtag('event','js_error',{msg:msg.slice(0,150)});}catch(e){}
  var d=document.createElement('div');d.id='w2sErr';d.style.cssText='position:fixed;left:14px;right:14px;top:30%;z-index:99999;background:#fff;color:#111;border-radius:18px;padding:18px;font:16px/1.45 system-ui,sans-serif;box-shadow:0 12px 48px rgba(0,0,0,.6)';
@@ -339,6 +339,7 @@ body.fs .fsplay.nop{opacity:0;pointer-events:none}
 @media (prefers-reduced-motion:reduce){.fsplay .wv b{animation:none;height:10px}}
 @media (max-width:380px){.logo{height:28px}.place{font-size:11.5px;padding:4px 9px}}
 @media (prefers-reduced-motion:reduce){.story{transition:none}.toast{transition:none}}
+.ssr{height:100%;overflow:auto;padding:18px 20px 40px;font-size:15px;line-height:1.7;color:var(--ink,#16130F)}.ssr h1{font-size:20px;line-height:1.4;margin:0 0 10px}.ssr h2{font-size:16px;margin:16px 0 6px}.ssr ul{margin:0;padding-left:20px}.ssr a{color:var(--brand,#C8102E);font-weight:700}.ssr .ssrf{font-size:13px;margin-top:16px}.ssr .ssrw{color:#888;font-size:13px}
 </style>
 </head>
 <body>
@@ -350,7 +351,17 @@ body.fs .fsplay.nop{opacity:0;pointer-events:none}
     <button class="icon" id="setBtn" type="button" aria-label="సెట్టింగ్స్"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
   </header>
   <nav class="tabs" id="tabs" aria-label="విభాగాలు"></nav>
-  <main class="feed" id="feed" aria-label="వార్తలు"></main>
+  <main class="feed" id="feed" aria-label="వార్తలు"><div class="ssr">
+<h1>Way2Sec News – తెలుగులో వేగంగా, క్లుప్తంగా వార్తలు</h1>
+<p>Way2Sec ఉచిత తెలుగు వార్తా యాప్, వెబ్‌సైట్. మీ ఊరు, జిల్లా, తెలంగాణ, ఆంధ్రప్రదేశ్, దేశం, ప్రపంచ ముఖ్య వార్తలను సులభమైన తెలుగులో, క్లుప్తంగా అందిస్తాం – ప్రతి వార్తకు అసలు మూలం పేరు, లింక్‌తో. ఆలేరు, యాదాద్రి భువనగిరి ప్రాంతంలోని మా స్థానిక రిపోర్టర్లు గ్రామ వార్తలను పంపుతారు. ఇంగ్లీష్, హిందీలోనూ చదవవచ్చు.</p>
+<p lang="en">Way2Sec News is a free Telugu news app and website: short, clear news from your village and district, Telangana, Andhra Pradesh, India and the world, every story with its original source. Also available in English and Hindi.</p>
+<h2>విభాగాలు · Sections</h2>
+<ul><li><a href="/web/?sec=telangana">తెలంగాణ వార్తలు</a></li><li><a href="/web/?sec=ap">ఆంధ్రప్రదేశ్ వార్తలు</a></li><li><a href="/web/?sec=india">దేశం వార్తలు</a></li><li><a href="/web/?sec=world">ప్రపంచం వార్తలు</a></li><li><a href="/web/?sec=ai">AI & టెక్ వార్తలు</a></li><li><a href="/web/?sec=jobs">ఉద్యోగ వార్తలు</a></li><li><a href="/web/?sec=business">బిజినెస్ వార్తలు</a></li><li><a href="/web/?sec=education">విద్య వార్తలు</a></li><li><a href="/web/?sec=agri">వ్యవసాయం వార్తలు</a></li><li><a href="/web/?sec=sports">క్రీడలు వార్తలు</a></li></ul>
+<h2>ఇంకా · More</h2>
+<ul><li><a href="/web/">తాజా వార్తలు · Latest news</a></li><li><a href="/epaper/">జనధ్వని ఈ-పేపర్ · Daily e-paper</a></li><li><a href="/?jobs=1">ఉద్యోగాలు · Jobs</a></li><li><a href="/reporter/join.html">మీ ఊరి రిపోర్టర్ అవ్వండి · Become a reporter</a></li></ul>
+<p class="ssrf"><a href="/about.html">మా గురించి · About</a> · <a href="/editorial-policy.html">సంపాదకీయ విధానం · Editorial policy</a> · <a href="/contact.html">సంప్రదించండి · Contact</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></p>
+<p class="ssrw">వార్తలు లోడ్ అవుతున్నాయి… · Loading news…</p>
+</div></main>
   <div class="installbar" id="installBar" hidden role="dialog" aria-label="యాప్ ఇన్‌స్టాల్">
     <img src="icon-192.png" alt="">
     <div class="t"><b>Way2Sec యాప్‌ను హోమ్ స్క్రీన్‌కు జోడించండి</b><span>ఉచితం · ఒక్క టచ్‌తో వార్తలు · 🔔 అలర్ట్‌లు</span></div>
@@ -415,7 +426,7 @@ body.fs .fsplay.nop{opacity:0;pointer-events:none}
       <div class="sndrow"><div><b>📖 కార్డు పూర్తిగా చూపించు</b><small>చదువుతున్నప్పుడు పైన, కింది బటన్లు దాగిపోతాయి · కార్డుపై ఒకసారి తాకితే మళ్లీ వస్తాయి</small></div><button class="btn" type="button" id="fsToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
       <div class="sndrow"><div><b>💧 కార్డ్ తిప్పే శబ్దం</b><small>స్వైప్ చేసినప్పుడు చిన్న "పాప్" శబ్దం</small></div><button class="btn" type="button" id="sndToggle" aria-pressed="true" style="min-width:84px">ఆన్</button></div>
       <button class="btn" id="tipOpen1" type="button" style="width:100%;margin-bottom:14px">📝 మీ ఊరి వార్త పంపండి</button>
-      <p class="links"><a href="privacy.html">Privacy Policy · గోప్యతా విధానం</a> · Contact: way2sec.news@gmail.com</p>
+      <p class="links"><a href="about.html">About · మా గురించి</a> · <a href="editorial-policy.html">Editorial policy</a> · <a href="privacy.html">Privacy Policy · గోప్యతా విధానం</a> · <a href="terms.html">Terms</a> · Contact: way2sec.news@gmail.com</p>
     </div>
     <div class="sh-foot"><button class="btn" id="save" type="button">సేవ్ చేయండి · Save</button></div>
   </section>
