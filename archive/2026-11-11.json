@@ -1,8 +1,208 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 168,
+ "count": 172,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "నవం. 17",
+   "statl": "హైకోర్టు ముందు హాజరు గడువు",
+   "h": "హైడ్రా కమిషనర్‌ను 17న హాజరుపరచండి: డీజీపీకి హైకోర్టు ఆదేశం",
+   "p": "సమన్లు ఇచ్చినా విచారణకు హాజరు కాకపోవడంపై తెలంగాణ హైకోర్టు బుధవారం హైడ్రా కమిషనర్ ఏవీ రంగనాథ్‌పై ఆగ్రహం వ్యక్తం చేసింది. ఆయనను నవంబర్ 17న కోర్టు ముందు హాజరుపరచాలని డీజీపీని ఆదేశించింది. వ్యక్తిగత హాజరు నుంచి మినహాయింపు కోరుతూ రంగనాథ్ వేసిన పిటిషన్లను కొట్టివేసింది. శంషాబాద్ ఎమ్మార్వోను కూడా తదుపరి విచారణకు హాజరుపరచాలని సైబరాబాద్ పోలీస్ కమిషనర్‌కు సూచించిందని సియాసత్ తెలిపింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/angry-hc-directs-dgp-to-produce-hydraa-commissioner-on-nov-17-3574691/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "సమన్లు ఉన్నా హాజరు కాని హైడ్రా కమిషనర్‌పై ఆగ్రహం",
+    "మినహాయింపు పిటిషన్లు కొట్టివేత",
+    "శంషాబాద్ ఎమ్మార్వోను హాజరుపరచాలని సైబరాబాద్ సీపీకి ఆదేశం"
+   ],
+   "why": "హైడ్రా చర్యలపై కోర్టు విచారణలు హైదరాబాద్ ప్రజలు, ఆస్తి యజమానులకు ముఖ్యమైనవి.",
+   "pub": "2026-11-11T21:04+05:30",
+   "en": {
+    "h": "HC directs DGP to produce HYDRAA Commissioner on November 17",
+    "p": "The Telangana High Court on Wednesday expressed anger that HYDRAA Commissioner AV Ranganath did not appear despite summons. It directed the DGP to produce him before the court on November 17 and dismissed his petitions seeking exemption from personal appearance. It also asked the Cyberabad Police Commissioner to produce the Shamshabad MRO at the next hearing, Siasat reported.",
+    "pts": [
+     "Court angry that HYDRAA Commissioner skipped hearing despite summons",
+     "Petitions seeking exemption dismissed",
+     "Cyberabad CP told to produce Shamshabad MRO"
+    ],
+    "why": "Court hearings on HYDRAA's actions matter to Hyderabad residents and property owners.",
+    "cat": "Hyderabad · High Court",
+    "statl": "Deadline to appear before HC"
+   },
+   "hi": {
+    "h": "हाइड्रा कमिश्नर को 17 नवंबर को पेश करें: हाईकोर्ट का डीजीपी को निर्देश",
+    "p": "तेलंगाना हाईकोर्ट ने बुधवार को समन के बावजूद पेश न होने पर हाइड्रा कमिश्नर एवी रंगनाथ पर नाराज़गी जताई। अदालत ने डीजीपी को उन्हें 17 नवंबर को पेश करने का निर्देश दिया और व्यक्तिगत पेशी से छूट की उनकी याचिकाएँ खारिज कर दीं। सियासत के अनुसार साइबराबाद पुलिस कमिश्नर को अगली सुनवाई पर शमशाबाद एमआरओ को पेश करने को कहा गया।",
+    "pts": [
+     "समन के बावजूद पेश न होने पर अदालत नाराज़",
+     "छूट की याचिकाएँ खारिज",
+     "साइबराबाद सीपी को शमशाबाद एमआरओ पेश करने का निर्देश"
+    ],
+    "why": "हाइड्रा की कार्रवाइयों पर अदालती सुनवाई हैदराबाद के निवासियों और संपत्ति मालिकों के लिए अहम है।",
+    "cat": "हैदराबाद · हाईकोर्ट",
+    "statl": "हाईकोर्ट में पेशी की तारीख"
+   },
+   "d": "11.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "రంగారెడ్డి · మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹30 లక్షలు",
+   "statl": "నకిలీ పత్రాలతో పొందిన రుణం",
+   "h": "నకిలీ గుర్తింపుతో ₹30 లక్షల బ్యాంకు రుణం: ఐదుగురి అరెస్టు",
+   "p": "నకిలీ పత్రాలతో గచ్చిబౌలిలోని ఒక ప్రైవేట్ బ్యాంకు నుంచి రూ.30 లక్షల రుణం పొందారనే ఆరోపణపై ఇబ్రహీంపట్నం పోలీసులు మంగళవారం ఐదుగురిని అరెస్టు చేశారు. పోలీసుల ప్రకారం నిందితులు నకిలీ ఆధార్, పాన్ కార్డులు, విద్యా సర్టిఫికెట్లు, ఉద్యోగ నియామక పత్రాలు సమర్పించారు. క్రెడిట్ కార్డుతో రూ.3 లక్షలు వాడారు. ఐదుగురికి రిమాండ్ విధించగా, మరో నలుగురు పరారీలో ఉన్నారని సియాసత్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-gang-uses-fake-identity-to-get-rs-30l-bank-loan-5-held-3574595/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "ఇబ్రహీంపట్నం",
+   "pts": [
+    "నకిలీ ఆధార్, పాన్, సర్టిఫికెట్లతో రుణం: పోలీసుల ఆరోపణ",
+    "క్రెడిట్ కార్డుతో రూ.3 లక్షల వినియోగం",
+    "ఐదుగురికి రిమాండ్, నలుగురు పరారీ"
+   ],
+   "why": "నకిలీ పత్రాలతో రుణ మోసాలపై బ్యాంకులు, ప్రజలు అప్రమత్తంగా ఉండాలని ఈ కేసు చూపిస్తుంది.",
+   "pub": "2026-11-11T20:48+05:30",
+   "en": {
+    "h": "Rs 30 lakh bank loan on fake identity: five arrested",
+    "p": "Ibrahimpatnam police on Tuesday arrested five people for allegedly obtaining a Rs 30 lakh loan from a private bank in Gachibowli using fake documents. According to police, the accused submitted fake Aadhaar and PAN cards, educational certificates and job appointment papers. They used Rs 3 lakh on a credit card. The five were remanded, while four others are absconding, Siasat reported.",
+    "pts": [
+     "Loan taken with fake Aadhaar, PAN, certificates: police allege",
+     "Rs 3 lakh spent on a credit card",
+     "Five remanded, four absconding"
+    ],
+    "why": "The case shows banks and the public need to stay alert to loan fraud using fake documents.",
+    "cat": "Rangareddy · Fraud",
+    "statl": "Loan obtained with fake papers"
+   },
+   "hi": {
+    "h": "फ़र्ज़ी पहचान से 30 लाख रुपये का बैंक लोन: पाँच गिरफ़्तार",
+    "p": "इब्राहिमपट्टनम पुलिस ने मंगलवार को गचीबौली के एक निजी बैंक से फ़र्ज़ी दस्तावेज़ों के ज़रिए 30 लाख रुपये का लोन लेने के आरोप में पाँच लोगों को गिरफ़्तार किया। पुलिस के अनुसार आरोपियों ने फ़र्ज़ी आधार, पैन कार्ड, शैक्षिक प्रमाणपत्र और नियुक्ति पत्र जमा किए। उन्होंने क्रेडिट कार्ड से 3 लाख रुपये खर्च किए। सियासत के अनुसार पाँचों को रिमांड पर भेजा गया, जबकि चार अन्य फ़रार हैं।",
+    "pts": [
+     "फ़र्ज़ी आधार, पैन, प्रमाणपत्रों से लोन: पुलिस का आरोप",
+     "क्रेडिट कार्ड से 3 लाख रुपये खर्च",
+     "पाँच रिमांड पर, चार फ़रार"
+    ],
+    "why": "यह मामला दिखाता है कि फ़र्ज़ी दस्तावेज़ों से लोन धोखाधड़ी को लेकर बैंकों और लोगों को सतर्क रहना चाहिए।",
+    "cat": "रंगारेड्डी · धोखाधड़ी",
+    "statl": "फ़र्ज़ी काग़ज़ों से लिया लोन"
+   },
+   "d": "11.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "77",
+   "statl": "నియోజకవర్గాల్లో పట్టభద్రుల ఎన్నికలు",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ప్రచారం ప్రారంభించిన కవిత: ఇద్దరు అభ్యర్థులు",
+   "p": "బంజారాహిల్స్‌లోని పార్టీ కార్యాలయంలో టీఆర్ఎస్ అధ్యక్షురాలు కల్వకుంట్ల కవిత బుధవారం పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల ప్రచారాన్ని ప్రారంభించారు. హైదరాబాద్–రంగారెడ్డి–మహబూబ్‌నగర్ స్థానం నుంచి ఆకాశ్ కొల్లూరి, నల్గొండ–ఖమ్మం–వరంగల్ స్థానం నుంచి డాక్టర్ నలమాస శ్రీకాంత్ గౌడ్‌ను గెలిపించాలని కోరారు. ప్రభుత్వాన్ని, ప్రతిపక్షాన్ని ప్రశ్నించే అవకాశమని, ఎన్నికల్లో డబ్బును తిరస్కరించాలని పట్టభద్రులకు పిలుపునిచ్చారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/chance-to-question-govt-oppn-kavitha-kicks-off-mlc-poll-campaign-3574604/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బంజారాహిల్స్",
+   "pts": [
+    "ఆకాశ్ కొల్లూరి, శ్రీకాంత్ గౌడ్ అభ్యర్థులు",
+    "రెండు స్థానాల పరిధిలో 77 అసెంబ్లీ నియోజకవర్గాలు",
+    "ఫీజు రీయింబర్స్‌మెంట్, నదీ జలాల వాటాపై దృష్టి"
+   ],
+   "why": "రాష్ట్రంలో సుమారు 80 లక్షల మంది పట్టభద్రులున్నారని, ఈ రెండు స్థానాలు దాదాపు మూడో వంతు రాష్ట్రాన్ని కవర్ చేస్తాయని కవిత చెప్పారు.",
+   "pub": "2026-11-11T20:22+05:30",
+   "en": {
+    "h": "Kavitha launches Graduate MLC campaign, names two candidates",
+    "p": "TRS chief Kalvakuntla Kavitha on Wednesday launched her party's Graduate MLC election campaign at its Banjara Hills office. She asked voters to elect Akash Kolluri from the Hyderabad–Rangareddy–Mahabubnagar seat and Dr Nalamasa Srikanth Goud from the Nalgonda–Khammam–Warangal seat. She called it a chance to question the government and the Opposition and urged graduates to reject money in elections.",
+    "pts": [
+     "Akash Kolluri and Srikanth Goud are the candidates",
+     "The two seats cover 77 Assembly constituencies",
+     "Focus on fee reimbursement and river water share"
+    ],
+    "why": "Kavitha said about 80 lakh people in the state hold degrees and the two seats cover nearly a third of Telangana.",
+    "cat": "Telangana · Elections",
+    "statl": "Constituencies in graduate polls"
+   },
+   "hi": {
+    "h": "कविता ने स्नातक एमएलसी प्रचार शुरू किया, दो उम्मीदवार घोषित",
+    "p": "टीआरएस अध्यक्ष कल्वकुंटला कविता ने बुधवार को बंजारा हिल्स स्थित पार्टी कार्यालय में स्नातक एमएलसी चुनाव प्रचार शुरू किया। उन्होंने हैदराबाद–रंगारेड्डी–महबूबनगर सीट से आकाश कोल्लूरी और नलगोंडा–खम्मम–वरंगल सीट से डॉ. नलमासा श्रीकांत गौड़ को जिताने की अपील की। उन्होंने इसे सरकार और विपक्ष से सवाल करने का मौका बताया और स्नातकों से चुनाव में पैसे को नकारने को कहा।",
+    "pts": [
+     "आकाश कोल्लूरी और श्रीकांत गौड़ उम्मीदवार",
+     "दोनों सीटों में 77 विधानसभा क्षेत्र",
+     "फ़ीस प्रतिपूर्ति और नदी जल हिस्सेदारी पर ज़ोर"
+    ],
+    "why": "कविता ने कहा कि राज्य में लगभग 80 लाख डिग्रीधारी हैं और ये दो सीटें तेलंगाना के लगभग एक तिहाई हिस्से को कवर करती हैं।",
+    "cat": "तेलंगाना · चुनाव",
+    "statl": "स्नातक चुनाव वाले क्षेत्र"
+   },
+   "d": "11.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · నిరసన",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "7 నెలలు",
+   "statl": "జైలులో నోయిడా కార్యకర్తలు",
+   "h": "నోయిడా కార్మిక కార్యకర్తల విడుదల కోరుతూ హైదరాబాద్‌లో నిరసన",
+   "p": "నోయిడాలో కార్మికులు, కార్యకర్తలు జైలుకు వెళ్లి ఏడు నెలలు అయిన సందర్భంగా బుధవారం హైదరాబాద్ సుందరయ్య పార్కులో నిరసన జరిగింది. కార్వాన్ (CaRWAN) సంస్థ నిర్వహించిన ఈ కార్యక్రమంలో విద్యార్థులు, పౌరులు పాల్గొన్నారు. ఏప్రిల్‌లో వేతనాల కోసం జరిగిన సమ్మెపై యూపీ ప్రభుత్వం అణచివేతకు దిగిందని, ఒకే కేసులో 11 ఎఫ్ఐఆర్‌లు నమోదయ్యాయని నిర్వాహకులు ఆరోపించారు. నిరసనలు కొనసాగిస్తామని చెప్పారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-protests-to-mark-noida-activists-seven-months-in-jail-3574548/",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సుందరయ్య పార్కు",
+   "pts": [
+    "సుందరయ్య పార్కులో కార్వాన్ ఆధ్వర్యంలో నిరసన",
+    "ఒకే కేసులో 11 ఎఫ్ఐఆర్‌లు: నిర్వాహకుల ఆరోపణ",
+    "ఎనిమిది మంది జైలులో ఉన్నారని సంస్థ వెల్లడి"
+   ],
+   "why": "కార్మికుల వేతన ఉద్యమాలు, నిరసన హక్కులపై చర్చకు ఈ నిరసన అద్దం పడుతుంది.",
+   "pub": "2026-11-11T20:04+05:30",
+   "en": {
+    "h": "Hyderabad protest seeks release of jailed Noida worker activists",
+    "p": "A protest was held at Sundarayya Park in Hyderabad on Wednesday to mark seven months since workers and activists in Noida were jailed. Organised by CaRWAN, it drew students and citizens. The organisers alleged that the UP government responded with repression to an April strike for better wages and that 11 FIRs were filed in the same case. They said protests would continue.",
+    "pts": [
+     "CaRWAN protest held at Sundarayya Park",
+     "11 FIRs in the same case, organisers allege",
+     "Group says eight people are in jail"
+    ],
+    "why": "The protest reflects the debate over workers' wage movements and the right to protest.",
+    "cat": "Hyderabad · Protest",
+    "statl": "Noida activists in jail"
+   },
+   "hi": {
+    "h": "नोएडा के जेल में बंद मज़दूर कार्यकर्ताओं की रिहाई के लिए हैदराबाद में प्रदर्शन",
+    "p": "नोएडा में मज़दूरों और कार्यकर्ताओं के जेल जाने के सात महीने पूरे होने पर बुधवार को हैदराबाद के सुंदरय्या पार्क में प्रदर्शन हुआ। CaRWAN द्वारा आयोजित इस कार्यक्रम में छात्र और नागरिक शामिल हुए। आयोजकों ने आरोप लगाया कि अप्रैल में बेहतर वेतन के लिए हुई हड़ताल पर यूपी सरकार ने दमन किया और एक ही मामले में 11 एफ़आईआर दर्ज हुईं। उन्होंने कहा कि प्रदर्शन जारी रहेंगे।",
+    "pts": [
+     "सुंदरय्या पार्क में CaRWAN का प्रदर्शन",
+     "एक ही मामले में 11 एफ़आईआर: आयोजकों का आरोप",
+     "संगठन के अनुसार आठ लोग जेल में"
+    ],
+    "why": "यह प्रदर्शन मज़दूरों के वेतन आंदोलनों और विरोध के अधिकार पर बहस को दर्शाता है।",
+    "cat": "हैदराबाद · प्रदर्शन",
+    "statl": "जेल में नोएडा कार्यकर्ता"
+   },
+   "d": "11.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "హైదరాబాద్ · కోర్టు",
    "col": "--c-city",

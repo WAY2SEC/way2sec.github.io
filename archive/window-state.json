@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T20:35:00+05:30",
+ "cutoff": "2026-11-11T21:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -816,6 +816,19 @@
    "skipped": 1,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Most searches returned stale listing pages; Eenadu, Sakshi, TV9, V6, NTV, ETV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicates: TT SCCL VKCM strike (NT 19:05 published), Hans AP SEC municipal polls 1141104 (AJ 19:05 published), TT GHMC Swachh award (event published earlier). Skipped: DC Anantapur student 2003302 (10.11 22:55, before lookback 12:05)."
+  },
+  {
+   "window": "2026-11-11T20:35:00+05:30/2026-11-11T21:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 6,
+   "published": 4,
+   "late": 1,
+   "sensitive": 2,
+   "corrected": 0,
+   "duplicates": 1,
+   "skipped": 2,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Search returned stale listing pages; Telangana Today, The South First, TNM listings show no per-article times; Deccan Chronicle and Hans India listings had nothing after 06:32; Eenadu, Sakshi, Andhra Jyothy, Namasthe Telangana, TV9, V6, NTV, ETV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicate: Siasat PTI Khurshid Bharat Summit 3574386 (event published earlier). Skipped: Siasat Kavya Maran wedding 3574659 (celebrity), Siasat Riyadh Houthi 3574641 (minor international, not opened)."
   }
  ],
  "seen": [
@@ -3538,6 +3551,41 @@
    "url": "https://www.siasat.com/telangana-cm-orders-102-system-from-next-academic-year-3574525/",
    "d": "11.11.2026",
    "w": "20:35"
+  },
+  {
+   "url": "https://www.siasat.com/angry-hc-directs-dgp-to-produce-hydraa-commissioner-on-nov-17-3574691/",
+   "d": "11.11.2026",
+   "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/hyderabad-gang-uses-fake-identity-to-get-rs-30l-bank-loan-5-held-3574595/",
+   "d": "11.11.2026",
+   "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/chance-to-question-govt-oppn-kavitha-kicks-off-mlc-poll-campaign-3574604/",
+   "d": "11.11.2026",
+   "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/hyderabad-protests-to-mark-noida-activists-seven-months-in-jail-3574548/",
+   "d": "11.11.2026",
+   "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/bjps-foreign-policy-lacks-ethics-values-ex-foreign-minister-3574386/",
+   "d": "11.11.2026",
+   "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/srh-owner-kavya-maran-marries-musician-anirudh-ravichander-photos-out-3574659/",
+   "d": "11.11.2026",
+   "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/riyadh-faces-fresh-houthi-missile-attack-three-intercepted-3574641/",
+   "d": "11.11.2026",
+   "w": "21:05"
   }
  ]
 }
