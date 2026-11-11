@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T14:35:00+05:30",
+ "cutoff": "2026-11-11T15:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -660,6 +660,19 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Searches mostly returned stale listing/tag pages (Telangana Today, DC, Hans, Siasat). ETV TG/AP live blog snapshots ended 09:39/09:10. Eenadu, Sakshi, TV9, V6, NTV, The Hindu, PTI, Reuters/BBC/AP and international-topic articles not surfaced in range. Duplicates: AJ Nalgonda home guard killing (published 10 Nov), AJ live-blog 13:30-13:45 entries (CII summit, low pressure, CM Education Day - events already published). Before lookback: AJ cold wave yellow alert (05:10)."
+  },
+  {
+   "window": "2026-11-11T14:35:00+05:30/2026-11-11T15:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 15,
+   "published": 15,
+   "late": 15,
+   "sensitive": 9,
+   "corrected": 0,
+   "duplicates": 12,
+   "skipped": 3,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Searches mostly returned stale listing/tag pages. ETV TG/AP live blogs had no entries after 09:32/09:10. Eenadu, Sakshi, TV9, V6, NTV, The Hindu, PTI, Reuters/BBC/AP and international-topic articles not surfaced in range. Duplicates: AJ CII Naidu welcome (1575246) + AJ live 12:20/12:00 (CII), AJ Group-1 DSP (1575136), AJ Krishna water (1575124), AJ live Chamala, Vijayasai (4 entries), Kavitha, Sensex, Bhatti/Khurshid Bharat Summit, silver, Microsoft, Andaman circulation, Hardik IPL. Skipped: AJ live Mumbai constable and Yogi remarks (minor other-state), TT ICC Bali meetings (minor). Before lookback: AJ DSP farewell (10 Nov 19:56)."
   }
  ],
  "seen": [
@@ -2657,6 +2670,131 @@
    "url": "https://andhrajyothy.com/2026/telangana/hyderabad/telangana-cold-weather-alert-yellow-warning-all-districts-temperatures-drop-12-degrees-1575155.html",
    "d": "11.11.2026",
    "w": "14:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-cm-revanth-reddy-accuses-bjp-of-targeting-minority-and-dalit-voters-through-sir-vk-1575252.html",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://telanganatoday.com/hyderabad-five-held-for-allegedly-cheating-icici-bank-of-rs-30-lakh",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cii-arrangements",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cbn-irrigation-review",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#fake-birth-certificates",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#shettipalem-bus",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#pariga-borewell-clash",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#mylavaram-tipper",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#gobbur-accident",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#air-india-hijack-note",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#kodair-indiramma",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#reddlakunta-lift",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#sridhar-babu-bharat-summit",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#torrur-minor",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#ks-bharat-uae",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/visakhapatnam/cm-chandrababu-naidu-welcomes-delegates-ahead-of-cii-partnership-summit-vk-1575246.html",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-group-1-recruitment-mgnrega-workers-children-dsps-revanth-reddy-1575136.html",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/revanth-reddy-telangana-krishna-river-water-share-supreme-court-1575124.html",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/cm-revanth-reddy-telangana-dsp-recruitment-tgpsc-vvnp-1574990.html",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://telanganatoday.com/icc-committees-to-discuss-crickets-global-expansion-and-governance",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#mumbai-constable",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#yogi-diwali",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cii-mp-vijay",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cii-cbn-welcome",
+   "d": "11.11.2026",
+   "w": "15:05"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#sridhar-bhatti-summit",
+   "d": "11.11.2026",
+   "w": "15:05"
   }
  ]
 }

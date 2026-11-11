@@ -1,8 +1,751 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T14:39:00+05:30",
+ "updated": "2026-11-11T15:11:42+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "4%",
+   "statl": "మైనారిటీ రిజర్వేషన్‌పై సీఎం వ్యాఖ్యలు",
+   "h": "‘సర్’ పేరుతో పేదలు, మైనారిటీల ఓట్లు తొలగిస్తున్నారు: సీఎం రేవంత్ ఆరోపణ",
+   "p": "హైదరాబాద్ బంజారా భవన్‌లో జాతీయ విద్యా దినోత్సవ కార్యక్రమంలో సీఎం రేవంత్‌రెడ్డి మాట్లాడారు. ఓటర్ల జాబితా ప్రత్యేక సవరణ (సర్) ద్వారా మైనారిటీలు, దళితులు, పేదల ఓట్లను కేంద్ర ప్రభుత్వం తొలగిస్తోందని ఆయన ఆరోపించారు. 4% మైనారిటీ రిజర్వేషన్ తొలగించాలంటున్న బీజేపీ నేతలు గుజరాత్‌లో ఎందుకు అడగడం లేదని ప్రశ్నించారు. ఐటీఐలను ఏటీసీలుగా మార్చామని, స్కిల్ యూనివర్సిటీ తెచ్చామని చెప్పారు. బీజేపీ స్పందన కథనంలో లేదు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-cm-revanth-reddy-accuses-bjp-of-targeting-minority-and-dalit-voters-through-sir-vk-1575252.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బంజారా భవన్",
+   "pts": [
+    "సర్ ద్వారా ఓట్ల తొలగింపు అని సీఎం ఆరోపణ",
+    "మైనారిటీ విద్యార్థుల స్కాలర్‌షిప్‌లపై బీజేపీ రాజకీయమని విమర్శ",
+    "ఐటీఐలు ఏటీసీలుగా, స్కిల్ యూనివర్సిటీ ఏర్పాటు ప్రస్తావన"
+   ],
+   "why": "ఓటర్ల జాబితా సవరణపై రాష్ట్ర, కేంద్ర పాలక పక్షాల మధ్య వివాదం ఓటర్లకు సంబంధించినది.",
+   "pub": "2026-11-11T13:51+05:30",
+   "en": {
+    "h": "SIR being used to delete votes of poor and minorities, alleges CM Revanth",
+    "p": "Speaking at a National Education Day event at Banjara Bhavan in Hyderabad, CM Revanth Reddy alleged that the Centre is deleting votes of minorities, Dalits and the poor through the Special Intensive Revision (SIR) of electoral rolls. He asked why BJP leaders seeking removal of the 4% minority reservation do not raise it in Gujarat. He said ITIs were turned into ATCs and a Skill University was set up. No BJP response is in the report.",
+    "pts": [
+     "CM alleges votes being deleted through SIR",
+     "Accuses BJP of politicising minority students' scholarships",
+     "Cites ITIs turned into ATCs and a Skill University"
+    ],
+    "why": "The dispute over electoral roll revision between the state and Centre's ruling parties concerns voters.",
+    "cat": "Telangana · Politics",
+    "statl": "CM's remarks on minority reservation"
+   },
+   "hi": {
+    "h": "‘SIR’ के नाम पर गरीबों, अल्पसंख्यकों के वोट हटाए जा रहे: सीएम रेवंत का आरोप",
+    "p": "हैदराबाद के बंजारा भवन में राष्ट्रीय शिक्षा दिवस कार्यक्रम में सीएम रेवंत रेड्डी ने आरोप लगाया कि मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) के जरिए केंद्र सरकार अल्पसंख्यकों, दलितों और गरीबों के वोट हटा रही है। उन्होंने पूछा कि 4% अल्पसंख्यक आरक्षण हटाने की मांग करने वाले भाजपा नेता गुजरात में यह क्यों नहीं कहते। उन्होंने कहा कि आईटीआई को एटीसी में बदला गया और स्किल यूनिवर्सिटी बनाई गई। रिपोर्ट में भाजपा की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "SIR से वोट हटाने का सीएम का आरोप",
+     "अल्पसंख्यक छात्रवृत्ति पर भाजपा पर राजनीति का आरोप",
+     "आईटीआई को एटीसी, स्किल यूनिवर्सिटी का जिक्र"
+    ],
+    "why": "मतदाता सूची पुनरीक्षण पर राज्य और केंद्र के सत्ताधारी दलों का विवाद मतदाताओं से जुड़ा है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "अल्पसंख्यक आरक्षण पर सीएम की टिप्पणी"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "రంగారెడ్డి · మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹30 లక్షలు",
+   "statl": "నకిలీ పత్రాలతో పొందిన రుణాలు (ఆరోపణ)",
+   "h": "నకిలీ పత్రాలతో ఐసీఐసీఐ బ్యాంకుకు ₹30 లక్షల మోసం ఆరోపణ: ఐదుగురు అదుపులో",
+   "p": "నకిలీ ఆధార్, పాన్ కార్డులు, నకిలీ నియామక పత్రాలు, జీతం స్లిప్పులతో ఐసీఐసీఐ బ్యాంకు నుంచి ₹30 లక్షల రుణాలు పొందారన్న ఆరోపణపై ఇబ్రహీంపట్నం పోలీసులు ఐదుగురిని అదుపులోకి తీసుకున్నారు. అనుమానాస్పద రుణ లావాదేవీలపై దర్యాప్తులో ఇది బయటపడిందని తెలంగాణ టుడే కథనం. ఈ ముఠా ఇతర రుణ మోసాల్లోనూ పాల్గొందా, ఇంకా ఎవరైనా ఉన్నారా అని పోలీసులు పరిశీలిస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-five-held-for-allegedly-cheating-icici-bank-of-rs-30-lakh",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "ఇబ్రహీంపట్నం",
+   "pts": [
+    "నకిలీ ఆధార్, పాన్, జీతం స్లిప్పులు వాడారని ఆరోపణ",
+    "ఐదుగురిని అదుపులోకి తీసుకుని విచారణ",
+    "ఇతర రుణ మోసాలపైనా పోలీసుల దర్యాప్తు"
+   ],
+   "why": "నకిలీ పత్రాలతో రుణ మోసాలు బ్యాంకులు, ఖాతాదారులు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని చూపుతున్నాయి.",
+   "pub": "2026-11-11T14:22+05:30",
+   "en": {
+    "h": "Five detained for allegedly cheating ICICI Bank of Rs 30 lakh with fake papers",
+    "p": "Ibrahimpatnam police detained five people on the allegation that they obtained Rs 30 lakh in loans from ICICI Bank using fake Aadhaar and PAN cards, forged appointment letters and salary slips. Telangana Today reports it came to light during a probe into suspicious loan transactions. Police are checking whether the gang was involved in other loan frauds and whether more people were part of it.",
+    "pts": [
+     "Fake Aadhaar, PAN and salary slips allegedly used",
+     "Five detained and being questioned",
+     "Police probing links to other loan frauds"
+    ],
+    "why": "Loan frauds using fake documents show the need for banks and customers to stay alert.",
+    "cat": "Rangareddy · Fraud",
+    "statl": "Loans obtained with fake papers (alleged)"
+   },
+   "hi": {
+    "h": "फर्जी दस्तावेजों से ICICI बैंक से ₹30 लाख ठगी का आरोप: पांच हिरासत में",
+    "p": "इब्राहिमपट्टनम पुलिस ने पांच लोगों को इस आरोप में हिरासत में लिया कि उन्होंने फर्जी आधार, पैन कार्ड, जाली नियुक्ति पत्र और वेतन पर्चियों से ICICI बैंक से ₹30 लाख के कर्ज लिए। तेलंगाना टुडे के अनुसार संदिग्ध ऋण लेनदेन की जांच में यह सामने आया। पुलिस जांच रही है कि क्या गिरोह अन्य ऋण धोखाधड़ी में भी शामिल था और क्या इसमें और लोग हैं।",
+    "pts": [
+     "फर्जी आधार, पैन, वेतन पर्ची इस्तेमाल का आरोप",
+     "पांच लोग हिरासत में, पूछताछ जारी",
+     "अन्य ऋण धोखाधड़ी की भी जांच"
+    ],
+    "why": "फर्जी दस्तावेजों से ऋण धोखाधड़ी बैंकों और ग्राहकों के लिए सतर्कता की जरूरत दिखाती है।",
+    "cat": "रंगारेड्डी · धोखाधड़ी",
+    "statl": "फर्जी कागजों से लिया कर्ज (आरोप)"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹11 లక్షల కోట్లు",
+   "statl": "సదస్సులో ఆశిస్తున్న పెట్టుబడి ఒప్పందాలు",
+   "h": "విశాఖ సీఐఐ సదస్సు: ₹11 లక్షల కోట్ల పెట్టుబడి ఒప్పందాలు ఆశాభావం",
+   "p": "విశాఖపట్నంలో జరగనున్న 31వ సీఐఐ భాగస్వామ్య సదస్సు ఏర్పాట్లను మంత్రి డోలా బాల వీరాంజనేయస్వామి, ఎంపీ భరత్, ఎమ్మెల్యేలు పరిశీలించారు. వరుసగా రెండోసారి ఈ సదస్సు విశాఖలో జరుగుతోంది. ఉపరాష్ట్రపతి, సీఎం చంద్రబాబు, కేంద్ర మంత్రులు హాజరవుతారు. సదస్సులో సుమారు ₹11 లక్షల కోట్ల పెట్టుబడి ఒప్పందాలు జరుగుతాయని అంచనా అని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cii-arrangements",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "31వ సీఐఐ భాగస్వామ్య సదస్సు ఏర్పాట్ల పరిశీలన",
+    "వరుసగా రెండోసారి విశాఖలో సదస్సు",
+    "ఉపరాష్ట్రపతి, సీఎం, కేంద్ర మంత్రులు హాజరు"
+   ],
+   "why": "భారీ పెట్టుబడి ఒప్పందాలు జరిగితే ఏపీలో పరిశ్రమలు, ఉద్యోగాలపై ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-11T13:30+05:30",
+   "en": {
+    "h": "Vizag CII summit: Rs 11 lakh crore investment pacts expected",
+    "p": "Minister Dola Bala Veeranjaneya Swamy, MP Bharat and MLAs inspected arrangements for the 31st CII Partnership Summit in Visakhapatnam. The summit is being held there for the second consecutive time. The Vice President, CM Chandrababu and Union ministers will attend. Andhra Jyothy reports that investment agreements worth about Rs 11 lakh crore are expected at the summit.",
+    "pts": [
+     "Arrangements for 31st CII Partnership Summit inspected",
+     "Held in Visakhapatnam for second straight time",
+     "Vice President, CM, Union ministers to attend"
+    ],
+    "why": "Large investment agreements would affect industries and jobs in Andhra Pradesh.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Investment pacts expected at summit"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम CII सम्मेलन: ₹11 लाख करोड़ के निवेश समझौतों की उम्मीद",
+    "p": "मंत्री डोला बाला वीरांजनेय स्वामी, सांसद भरत और विधायकों ने विशाखापत्तनम में होने वाले 31वें CII पार्टनरशिप समिट की तैयारियों का निरीक्षण किया। यह सम्मेलन लगातार दूसरी बार वहां हो रहा है। उपराष्ट्रपति, सीएम चंद्रबाबू और केंद्रीय मंत्री शामिल होंगे। आंध्र ज्योति के अनुसार सम्मेलन में करीब ₹11 लाख करोड़ के निवेश समझौते होने की उम्मीद है।",
+    "pts": [
+     "31वें CII पार्टनरशिप समिट की तैयारियों का निरीक्षण",
+     "लगातार दूसरी बार विशाखापत्तनम में आयोजन",
+     "उपराष्ट्रपति, सीएम, केंद्रीय मंत्री होंगे शामिल"
+    ],
+    "why": "बड़े निवेश समझौते आंध्र प्रदेश में उद्योग और रोजगार को प्रभावित करेंगे।",
+    "cat": "एपी · विशाखापत्तनम",
+    "statl": "सम्मेलन में अपेक्षित निवेश समझौते"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ఏపీ · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "36",
+   "statl": "రెండున్నరేళ్లలో పూర్తి చేయాల్సిన ప్రాజెక్టులు",
+   "h": "36 సాగునీటి ప్రాజెక్టులు రెండున్నరేళ్లలో పూర్తి చేయాలి: సీఎం చంద్రబాబు",
+   "p": "సాగునీటి ప్రాజెక్టులు, ఎత్తిపోతల పథకాలపై సీఎం చంద్రబాబు సమీక్ష నిర్వహించారు. ఎత్తిపోతల పథకాల మరమ్మతులు, నిర్వహణ, సాగునీటి శాఖ భూముల్లో సోలార్ విద్యుత్ ప్లాంట్ల ఏర్పాటుపై చర్చ జరిగింది. ఎత్తిపోతల పథకాలను జలహారతి కార్పొరేషన్ ద్వారా పర్యవేక్షించాలని, నీటి నియంత్రణ కమిషన్‌పై అధ్యయనం చేయాలని సూచించారు. 36 ప్రాజెక్టులను రెండున్నరేళ్లలో పూర్తి చేయాలని ఆదేశించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#cbn-irrigation-review",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఎత్తిపోతల మరమ్మతులు, నిర్వహణపై చర్చ",
+    "సాగునీటి భూముల్లో సోలార్ ప్లాంట్ల ప్రతిపాదన",
+    "జలహారతి కార్పొరేషన్ ద్వారా పర్యవేక్షణ సూచన"
+   ],
+   "why": "ప్రాజెక్టులు సకాలంలో పూర్తయితే ఏపీ రైతులకు సాగునీరు అందుబాటులోకి వస్తుంది.",
+   "pub": "2026-11-11T12:40+05:30",
+   "en": {
+    "h": "Complete 36 irrigation projects within two and a half years: CM Naidu",
+    "p": "CM Chandrababu Naidu reviewed irrigation projects and lift irrigation schemes. Repair and maintenance of lift schemes and setting up solar power plants on irrigation department land were discussed. He suggested monitoring lift schemes through the Jalaharati Corporation and studying a water regulatory commission. He directed that 36 projects be completed within two and a half years.",
+    "pts": [
+     "Repair and maintenance of lift schemes discussed",
+     "Solar plants on irrigation land proposed",
+     "Monitoring through Jalaharati Corporation suggested"
+    ],
+    "why": "Timely completion of projects would bring irrigation water to AP farmers.",
+    "cat": "AP · Irrigation",
+    "statl": "Projects to finish in two and a half years"
+   },
+   "hi": {
+    "h": "36 सिंचाई परियोजनाएं ढाई साल में पूरी करें: सीएम चंद्रबाबू",
+    "p": "सीएम चंद्रबाबू नायडू ने सिंचाई परियोजनाओं और लिफ्ट सिंचाई योजनाओं की समीक्षा की। लिफ्ट योजनाओं की मरम्मत, रखरखाव और सिंचाई विभाग की जमीन पर सौर बिजली संयंत्र लगाने पर चर्चा हुई। उन्होंने जलहारती कॉरपोरेशन के जरिए लिफ्ट योजनाओं की निगरानी और जल नियामक आयोग के अध्ययन का सुझाव दिया। उन्होंने 36 परियोजनाएं ढाई साल में पूरी करने का निर्देश दिया।",
+    "pts": [
+     "लिफ्ट योजनाओं की मरम्मत, रखरखाव पर चर्चा",
+     "सिंचाई जमीन पर सौर संयंत्र का प्रस्ताव",
+     "जलहारती कॉरपोरेशन से निगरानी का सुझाव"
+    ],
+    "why": "परियोजनाएं समय पर पूरी होने से एपी के किसानों को सिंचाई पानी मिलेगा।",
+    "cat": "एपी · सिंचाई",
+    "statl": "ढाई साल में पूरी होने वाली परियोजनाएं"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "70",
+   "statl": "స్వాధీనం చేసుకున్న నకిలీ జనన ధృవపత్రాలు",
+   "h": "నకిలీ జనన ధృవపత్రాల ముఠా: ముగ్గురిని అరెస్ట్ చేసిన ఎస్‌వోటీ పోలీసులు",
+   "p": "నకిలీ జనన ధృవపత్రాలు జారీ చేస్తున్న ముఠాకు చెందిన ముగ్గురిని ఎస్‌వోటీ పోలీసులు అరెస్ట్ చేశారు. వారి నుంచి 70 నకిలీ జనన ధృవపత్రాలు స్వాధీనం చేసుకున్నారు. ప్రధాన నిందితుడికి ఇద్దరు ఏజెంట్లు సహకరించారని, ఈ దందా టెలిగ్రామ్ ద్వారా సాగిందని పోలీసులు తెలిపినట్లు ఆంధ్రజ్యోతి పేర్కొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#fake-birth-certificates",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ముగ్గురు నిందితుల అరెస్ట్",
+    "70 నకిలీ జనన ధృవపత్రాలు స్వాధీనం",
+    "టెలిగ్రామ్ ద్వారా దందా అని పోలీసులు"
+   ],
+   "why": "ధృవపత్రాలు అధికారిక మార్గంలోనే తీసుకోవాలని ఈ కేసు ప్రజలను హెచ్చరిస్తోంది.",
+   "pub": "2026-11-11T12:30+05:30",
+   "en": {
+    "h": "Fake birth certificate racket: SOT police arrest three",
+    "p": "SOT police arrested three members of a gang issuing fake birth certificates and seized 70 fake certificates from them. Police said two agents helped the main accused and that the racket operated through Telegram, Andhra Jyothy reported.",
+    "pts": [
+     "Three accused arrested",
+     "70 fake birth certificates seized",
+     "Racket ran through Telegram, police say"
+    ],
+    "why": "The case warns people to obtain certificates only through official channels.",
+    "cat": "Hyderabad · Crime",
+    "statl": "Fake birth certificates seized"
+   },
+   "hi": {
+    "h": "फर्जी जन्म प्रमाणपत्र गिरोह: SOT पुलिस ने तीन को गिरफ्तार किया",
+    "p": "SOT पुलिस ने फर्जी जन्म प्रमाणपत्र जारी करने वाले गिरोह के तीन सदस्यों को गिरफ्तार किया और उनसे 70 फर्जी प्रमाणपत्र जब्त किए। आंध्र ज्योति के अनुसार पुलिस ने बताया कि दो एजेंटों ने मुख्य आरोपी की मदद की और यह धंधा टेलीग्राम के जरिए चलता था।",
+    "pts": [
+     "तीन आरोपी गिरफ्तार",
+     "70 फर्जी जन्म प्रमाणपत्र जब्त",
+     "पुलिस के अनुसार टेलीग्राम से धंधा"
+    ],
+    "why": "यह मामला लोगों को प्रमाणपत्र केवल आधिकारिक माध्यम से लेने की चेतावनी देता है।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "जब्त फर्जी जन्म प्रमाणपत्र"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "నల్గొండ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "12",
+   "statl": "గాయపడినవారు (ఆంధ్రజ్యోతి ప్రకారం)",
+   "h": "శెట్టిపాలెం వద్ద ధాన్యం ట్రాక్టర్‌ను ఢీకొన్న ఆర్టీసీ బస్సు: 12 మందికి గాయాలు",
+   "p": "నల్గొండ జిల్లా శెట్టిపాలెం వద్ద మిర్యాలగూడ నుంచి నల్గొండ వెళ్తున్న ఆర్టీసీ బస్సు ముందు వెళ్తున్న ధాన్యం ట్రాక్టర్‌ను వెనుక నుంచి ఢీకొంది. ఈ ప్రమాదంలో డ్రైవర్, కండక్టర్, 10 మంది ప్రయాణికులు గాయపడ్డారని ఆంధ్రజ్యోతి తెలిపింది. క్షతగాత్రులను మిర్యాలగూడ ఏరియా ఆస్పత్రికి తరలించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#shettipalem-bus",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "శెట్టిపాలెం",
+   "pts": [
+    "బస్సు మిర్యాలగూడ నుంచి నల్గొండ వెళ్తోంది",
+    "డ్రైవర్, కండక్టర్, 10 మంది ప్రయాణికులకు గాయాలు",
+    "మిర్యాలగూడ ఏరియా ఆస్పత్రికి తరలింపు"
+   ],
+   "why": "వరి కోతల సీజన్‌లో రోడ్లపై ట్రాక్టర్ల రాకపోకలతో జాగ్రత్త అవసరమని ఈ ఘటన చూపుతోంది.",
+   "pub": "2026-11-11T11:40+05:30",
+   "en": {
+    "h": "RTC bus rams paddy tractor near Shettipalem; 12 injured",
+    "p": "Near Shettipalem in Nalgonda district, an RTC bus travelling from Miryalaguda to Nalgonda hit a paddy-laden tractor from behind. The driver, the conductor and 10 passengers were injured, Andhra Jyothy reported. The injured were taken to the Miryalaguda area hospital.",
+    "pts": [
+     "Bus was going from Miryalaguda to Nalgonda",
+     "Driver, conductor and 10 passengers injured",
+     "Shifted to Miryalaguda area hospital"
+    ],
+    "why": "The incident shows the need for care with tractors on roads during the harvest season.",
+    "cat": "Nalgonda · Accident",
+    "statl": "Injured (per Andhra Jyothy)"
+   },
+   "hi": {
+    "h": "शेट्टीपालेम के पास RTC बस ने धान ट्रैक्टर को टक्कर मारी, 12 घायल",
+    "p": "नलगोंडा जिले के शेट्टीपालेम के पास मिर्यालगुडा से नलगोंडा जा रही RTC बस ने आगे चल रहे धान लदे ट्रैक्टर को पीछे से टक्कर मार दी। आंध्र ज्योति के अनुसार ड्राइवर, कंडक्टर और 10 यात्री घायल हुए। घायलों को मिर्यालगुडा एरिया अस्पताल ले जाया गया।",
+    "pts": [
+     "बस मिर्यालगुडा से नलगोंडा जा रही थी",
+     "ड्राइवर, कंडक्टर और 10 यात्री घायल",
+     "मिर्यालगुडा एरिया अस्पताल में भर्ती"
+    ],
+    "why": "यह घटना कटाई के मौसम में सड़कों पर ट्रैक्टरों को लेकर सावधानी की जरूरत दिखाती है।",
+    "cat": "नलगोंडा · हादसा",
+    "statl": "घायल (आंध्र ज्योति के अनुसार)"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "వికారాబాద్ · ఘర్షణ",
+   "col": "--c-power",
+   "art": "land",
+   "stat": "బోరుబావి",
+   "statl": "బంధువుల మధ్య వివాదానికి కారణం",
+   "h": "పరిగి మండలంలో బోరుబావి వివాదం: దాడిలో చిన్నారి సహా ముగ్గురికి గాయాలు",
+   "p": "వికారాబాద్ జిల్లా పరిగి మండలం సాలిపాలబాట తండాలో బోరుబావి విషయంలో రెండు బంధువుల కుటుంబాల మధ్య గొడవ దాడికి దారితీసింది. ఈ దాడిలో ఒక వ్యక్తి, అతని కుమార్తె, 17 నెలల చిన్నారి గాయపడ్డారని ఆంధ్రజ్యోతి కథనం. చిన్నారికి తలకు గాయాలయ్యాయి, ఒకరికి తీవ్ర గాయాలయ్యాయి. బాధితులు పరిగి ప్రభుత్వ ఆస్పత్రిలో చికిత్స పొందుతున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#pariga-borewell-clash",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "vikarabad",
+   "loc": "సాలిపాలబాట తండా, పరిగి",
+   "pts": [
+    "బోరుబావి విషయంలో బంధువుల మధ్య గొడవ",
+    "17 నెలల చిన్నారికి తలకు గాయాలు",
+    "పరిగి ప్రభుత్వ ఆస్పత్రిలో చికిత్స"
+   ],
+   "why": "చిన్న వివాదాలు హింసగా మారకుండా గ్రామాల్లో పెద్దలు, పోలీసుల జోక్యం అవసరమని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T11:50+05:30",
+   "en": {
+    "h": "Borewell dispute in Pariga mandal: three including infant hurt in attack",
+    "p": "At Salipalabata thanda in Pariga mandal of Vikarabad district, a borewell dispute between two related families led to an attack. A man, his daughter and a 17-month-old infant were injured, Andhra Jyothy reported. The infant suffered head injuries and one person was seriously hurt. The victims are being treated at the Pariga government hospital.",
+    "pts": [
+     "Borewell dispute between related families",
+     "17-month-old infant suffers head injuries",
+     "Treated at Pariga government hospital"
+    ],
+    "why": "It shows the need for elders and police to step in before small village disputes turn violent.",
+    "cat": "Vikarabad · Clash",
+    "statl": "Cause of dispute between relatives"
+   },
+   "hi": {
+    "h": "परिगी मंडल में बोरवेल विवाद: हमले में शिशु समेत तीन घायल",
+    "p": "विकाराबाद जिले के परिगी मंडल के सालीपालबाटा तांडा में बोरवेल को लेकर दो रिश्तेदार परिवारों के बीच विवाद हमले में बदल गया। आंध्र ज्योति के अनुसार एक व्यक्ति, उसकी बेटी और 17 महीने का शिशु घायल हुए। शिशु के सिर में चोट आई और एक व्यक्ति गंभीर रूप से घायल है। पीड़ितों का परिगी सरकारी अस्पताल में इलाज चल रहा है।",
+    "pts": [
+     "रिश्तेदार परिवारों में बोरवेल विवाद",
+     "17 महीने के शिशु के सिर में चोट",
+     "परिगी सरकारी अस्पताल में इलाज"
+    ],
+    "why": "यह दिखाता है कि गांवों में छोटे विवाद हिंसक होने से पहले बुजुर्गों और पुलिस का दखल जरूरी है।",
+    "cat": "विकाराबाद · झड़प",
+    "statl": "रिश्तेदारों के बीच विवाद की वजह"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ఎన్టీఆర్ జిల్లా · ప్రమాదం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "1",
+   "statl": "మృతి (ఆంధ్రజ్యోతి ప్రకారం)",
+   "h": "మైలవరం వద్ద బైక్‌ను ఢీకొన్న టిప్పర్: వాహనదారుడు మృతి",
+   "p": "ఎన్టీఆర్ జిల్లా మైలవరం సమీపంలోని వెల్వడం వంతెన వద్ద టిప్పర్ ఒక బైక్‌ను ఢీకొంది. మైలవరం నుంచి స్వగ్రామం చంద్రాలకు వెళ్తున్న బైక్ వాహనదారుడు ఈ ప్రమాదంలో మృతి చెందారని ఆంధ్రజ్యోతి తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#mylavaram-tipper",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "మైలవరం",
+   "pts": [
+    "వెల్వడం వంతెన వద్ద టిప్పర్-బైక్ ఢీ",
+    "బైక్ వాహనదారుడు మృతి",
+    "పోలీసుల కేసు నమోదు, దర్యాప్తు"
+   ],
+   "why": "భారీ వాహనాల వల్ల ద్విచక్ర వాహనదారులకు ఉన్న ప్రమాదాన్ని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "pub": "2026-11-11T13:02+05:30",
+   "en": {
+    "h": "Tipper hits bike near Mylavaram; rider killed",
+    "p": "A tipper hit a motorcycle near the Velvadam bridge close to Mylavaram in NTR district. The rider, who was travelling from Mylavaram to his village Chandralla, died in the accident, Andhra Jyothy reported. Police have registered a case and are investigating.",
+    "pts": [
+     "Tipper hits bike at Velvadam bridge",
+     "Motorcycle rider killed",
+     "Police register case, investigate"
+    ],
+    "why": "The accident is a reminder of the danger heavy vehicles pose to two-wheeler riders.",
+    "cat": "NTR district · Accident",
+    "statl": "Dead (per Andhra Jyothy)"
+   },
+   "hi": {
+    "h": "मैलावरम के पास टिपर ने बाइक को टक्कर मारी, सवार की मौत",
+    "p": "एनटीआर जिले में मैलावरम के पास वेलवडम पुल पर एक टिपर ने मोटरसाइकिल को टक्कर मार दी। आंध्र ज्योति के अनुसार मैलावरम से अपने गांव चंद्राला जा रहे बाइक सवार की हादसे में मौत हो गई। पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "वेलवडम पुल पर टिपर-बाइक टक्कर",
+     "बाइक सवार की मौत",
+     "पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह हादसा दोपहिया चालकों के लिए भारी वाहनों के खतरे की याद दिलाता है।",
+    "cat": "एनटीआर जिला · हादसा",
+    "statl": "मृत (आंध्र ज्योति के अनुसार)"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ఏపీ · ప్రమాదం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "4",
+   "statl": "గాయపడినవారు (ఆంధ్రజ్యోతి ప్రకారం)",
+   "h": "పెద్దారవీడు మండలం గొబ్బూరు వద్ద ట్రాక్టర్-కారు ఢీ: నలుగురికి గాయాలు",
+   "p": "మార్కాపురం ప్రాంతంలోని పెద్దారవీడు మండలం గొబ్బూరు వద్ద ట్రాక్టర్, కారు ఢీకొన్నాయి. ఈ ప్రమాదంలో నలుగురు గాయపడ్డారని, వారిని ఆస్పత్రికి తరలించారని ఆంధ్రజ్యోతి తెలిపింది. ప్రమాదానికి సంబంధించి మరిన్ని వివరాలు తెలియాల్సి ఉంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#gobbur-accident",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "loc": "గొబ్బూరు, పెద్దారవీడు",
+   "pts": [
+    "గొబ్బూరు వద్ద ట్రాక్టర్, కారు ఢీ",
+    "నలుగురికి గాయాలు, ఆస్పత్రికి తరలింపు"
+   ],
+   "why": "గ్రామీణ రహదారులపై వాహనదారులు జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "pub": "2026-11-11T12:15+05:30",
+   "en": {
+    "h": "Tractor and car collide at Gobbur in Peddaravidu mandal; four hurt",
+    "p": "A tractor and a car collided at Gobbur in Peddaravidu mandal in the Markapuram area. Four people were injured and taken to hospital, Andhra Jyothy reported. Further details of the accident are awaited.",
+    "pts": [
+     "Tractor and car collide at Gobbur",
+     "Four injured, taken to hospital"
+    ],
+    "why": "The incident is a reminder for motorists to take care on rural roads.",
+    "cat": "AP · Accident",
+    "statl": "Injured (per Andhra Jyothy)"
+   },
+   "hi": {
+    "h": "पेद्दारवीडु मंडल के गोब्बूर में ट्रैक्टर-कार टक्कर, चार घायल",
+    "p": "मार्कापुरम क्षेत्र के पेद्दारवीडु मंडल के गोब्बूर में एक ट्रैक्टर और कार की टक्कर हो गई। आंध्र ज्योति के अनुसार चार लोग घायल हुए और उन्हें अस्पताल ले जाया गया। हादसे का और ब्योरा अभी आना बाकी है।",
+    "pts": [
+     "गोब्बूर में ट्रैक्टर और कार की टक्कर",
+     "चार घायल, अस्पताल ले जाया गया"
+    ],
+    "why": "यह घटना ग्रामीण सड़कों पर वाहन चालकों को सावधान रहने की याद दिलाती है।",
+    "cat": "एपी · हादसा",
+    "statl": "घायल (आंध्र ज्योति के अनुसार)"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "భారత్ · విమానయానం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "హైజాక్ హెచ్చరిక",
+   "statl": "విమానంలో దొరికిన అనుమానాస్పద చీటీ",
+   "h": "ఎయిరిండియా కోల్‌కతా-ముంబై విమానంలో హైజాక్ హెచ్చరిక చీటీ: భద్రతా తనిఖీలు",
+   "p": "ఎయిరిండియా కోల్‌కతా-ముంబై విమానం టేకాఫ్‌కు ముందు విమానాన్ని హైజాక్ చేస్తామని హెచ్చరిస్తూ రాసిన అనుమానాస్పద చీటీ కనిపించింది. పైలట్ దాన్ని గుర్తించి ఏటీసీకి సమాచారం ఇచ్చారు. భద్రతా సిబ్బందిని అప్రమత్తం చేసి విమానాన్ని తనిఖీ చేసే చర్యలు ప్రారంభించినట్లు ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#air-india-hijack-note",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "టేకాఫ్‌కు ముందు అనుమానాస్పద చీటీ",
+    "పైలట్ ఏటీసీకి సమాచారం",
+    "విమానం తనిఖీకి భద్రతా చర్యలు"
+   ],
+   "why": "విమాన ప్రయాణికుల భద్రతకు సంబంధించిన ఘటన కావడంతో ప్రయాణికులకు ఇది ముఖ్యం.",
+   "pub": "2026-11-11T12:05+05:30",
+   "en": {
+    "h": "Hijack warning note found on Air India Kolkata-Mumbai flight; security checks",
+    "p": "A suspicious note warning of a hijack was found on an Air India Kolkata-Mumbai flight before take-off. The pilot spotted it and informed ATC. Security staff were alerted and steps to inspect the aircraft were started, Andhra Jyothy reported.",
+    "pts": [
+     "Suspicious note found before take-off",
+     "Pilot informs ATC",
+     "Security steps to inspect aircraft"
+    ],
+    "why": "The incident concerns the safety of air passengers.",
+    "cat": "India · Aviation",
+    "statl": "Suspicious note found on plane"
+   },
+   "hi": {
+    "h": "एयर इंडिया कोलकाता-मुंबई उड़ान में हाईजैक चेतावनी पर्ची, सुरक्षा जांच",
+    "p": "एयर इंडिया की कोलकाता-मुंबई उड़ान में उड़ान भरने से पहले विमान हाईजैक करने की चेतावनी वाली एक संदिग्ध पर्ची मिली। पायलट ने इसे देखकर एटीसी को सूचना दी। आंध्र ज्योति के अनुसार सुरक्षा कर्मियों को सतर्क किया गया और विमान की जांच के कदम शुरू किए गए।",
+    "pts": [
+     "उड़ान से पहले संदिग्ध पर्ची मिली",
+     "पायलट ने एटीसी को बताया",
+     "विमान जांच के लिए सुरक्षा कदम"
+    ],
+    "why": "यह घटना हवाई यात्रियों की सुरक्षा से जुड़ी है।",
+    "cat": "भारत · विमानन",
+    "statl": "विमान में मिली संदिग्ध पर्ची"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "నాగర్‌కర్నూల్ · గృహనిర్మాణం",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "ఇందిరమ్మ ఇళ్లు",
+   "statl": "కొండ్రావుపల్లిలో భూమిపూజ",
+   "h": "కోడేరు మండలంలో ఇందిరమ్మ ఇళ్లకు మంత్రి జూపల్లి భూమిపూజ",
+   "p": "నాగర్‌కర్నూల్ జిల్లా కోడేరు మండలం కొండ్రావుపల్లిలో ఇందిరమ్మ ఇళ్ల నిర్మాణానికి మంత్రి జూపల్లి కృష్ణారావు భూమిపూజ చేశారు. అర్హులైన ప్రతి లబ్ధిదారుడికీ ఇందిరమ్మ ఇల్లు అందుతుందని, అర్హులందరికీ ఇళ్లు ఇస్తామని ఆయన చెప్పారని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#kodair-indiramma",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nagarkurnool",
+   "loc": "కొండ్రావుపల్లి",
+   "pts": [
+    "కొండ్రావుపల్లిలో ఇందిరమ్మ ఇళ్లకు భూమిపూజ",
+    "అర్హులందరికీ ఇళ్లు అని మంత్రి హామీ"
+   ],
+   "why": "ఇందిరమ్మ ఇళ్ల పథకం కోసం ఎదురుచూస్తున్న పేద కుటుంబాలకు ఇది సంబంధించినది.",
+   "pub": "2026-11-11T11:10+05:30",
+   "en": {
+    "h": "Minister Jupally performs bhoomi puja for Indiramma houses in Kodair mandal",
+    "p": "Minister Jupally Krishna Rao performed bhoomi puja for Indiramma houses at Kondravupalli in Kodair mandal of Nagarkurnool district. He said every eligible beneficiary will get an Indiramma house and that houses will be given to all eligible people, Andhra Jyothy reported.",
+    "pts": [
+     "Bhoomi puja for Indiramma houses at Kondravupalli",
+     "Minister promises houses to all eligible"
+    ],
+    "why": "It concerns poor families waiting for houses under the Indiramma scheme.",
+    "cat": "Nagarkurnool · Housing",
+    "statl": "Bhoomi puja at Kondravupalli"
+   },
+   "hi": {
+    "h": "कोडेरु मंडल में इंदिरम्मा घरों के लिए मंत्री जुपल्ली ने किया भूमि पूजन",
+    "p": "मंत्री जुपल्ली कृष्णा राव ने नागरकर्नूल जिले के कोडेरु मंडल के कोंड्रावुपल्ली में इंदिरम्मा घरों के निर्माण के लिए भूमि पूजन किया। आंध्र ज्योति के अनुसार उन्होंने कहा कि हर पात्र लाभार्थी को इंदिरम्मा घर मिलेगा और सभी पात्र लोगों को घर दिए जाएंगे।",
+    "pts": [
+     "कोंड्रावुपल्ली में इंदिरम्मा घरों का भूमि पूजन",
+     "मंत्री का सभी पात्रों को घर का वादा"
+    ],
+    "why": "यह इंदिरम्मा योजना के तहत घर का इंतजार कर रहे गरीब परिवारों से जुड़ा है।",
+    "cat": "नागरकर्नूल · आवास",
+    "statl": "कोंड्रावुपल्ली में भूमि पूजन"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "సూర్యాపేట · సాగునీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "4,460 ఎకరాలు",
+   "statl": "ఎత్తిపోతల పథకంతో సాగులోకి",
+   "h": "రెడ్లకుంట ఎత్తిపోతల పనులపై మంత్రి ఉత్తమ్ అసంతృప్తి: డిసెంబర్ చివరికి పూర్తి",
+   "p": "సూర్యాపేట జిల్లా కోదాడ మండలం రెడ్లకుంటలో ఎత్తిపోతల పథకం పనులను మంత్రి ఉత్తమ్‌కుమార్‌రెడ్డి, ఎంపీ రఘువీర్‌రెడ్డితో కలిసి పరిశీలించారు. పనుల పురోగతిపై మంత్రి అసంతృప్తి వ్యక్తం చేశారు. డిసెంబర్ చివరి నాటికి పనులు పూర్తి చేస్తామని చెప్పారు. ఈ పథకంతో 4,460 ఎకరాలకు సాగునీరు అందుతుందని ఆంధ్రజ్యోతి తెలిపింది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#reddlakunta-lift",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "suryapet",
+   "loc": "రెడ్లకుంట, కోదాడ",
+   "pts": [
+    "ఎంపీ రఘువీర్‌రెడ్డితో కలిసి పనుల పరిశీలన",
+    "పనుల పురోగతిపై మంత్రి అసంతృప్తి",
+    "డిసెంబర్ చివరికి పూర్తి చేస్తామని హామీ"
+   ],
+   "why": "పథకం పూర్తయితే కోదాడ ప్రాంత రైతుల 4,460 ఎకరాలకు సాగునీరు అందుతుంది.",
+   "pub": "2026-11-11T09:30+05:30",
+   "en": {
+    "h": "Minister Uttam unhappy with Reddlakunta lift works; completion by December-end",
+    "p": "Minister Uttam Kumar Reddy, with MP Raghuveer Reddy, inspected lift irrigation works at Reddlakunta in Kodad mandal of Suryapet district. The minister expressed dissatisfaction with the progress and said the works would be completed by the end of December. The scheme will irrigate 4,460 acres, Andhra Jyothy reported.",
+    "pts": [
+     "Works inspected with MP Raghuveer Reddy",
+     "Minister unhappy with progress",
+     "Completion promised by December-end"
+    ],
+    "why": "Once complete, the scheme will irrigate 4,460 acres of farmers in the Kodad area.",
+    "cat": "Suryapet · Irrigation",
+    "statl": "Acres to be irrigated by the scheme"
+   },
+   "hi": {
+    "h": "रेड्लाकुंटा लिफ्ट कार्यों पर मंत्री उत्तम नाराज, दिसंबर अंत तक पूरा होगा",
+    "p": "मंत्री उत्तम कुमार रेड्डी ने सांसद रघुवीर रेड्डी के साथ सूर्यापेट जिले के कोदाड मंडल के रेड्लाकुंटा में लिफ्ट सिंचाई कार्यों का निरीक्षण किया। मंत्री ने प्रगति पर नाराजगी जताई और कहा कि काम दिसंबर के अंत तक पूरा होगा। आंध्र ज्योति के अनुसार इस योजना से 4,460 एकड़ की सिंचाई होगी।",
+    "pts": [
+     "सांसद रघुवीर रेड्डी के साथ कार्यों का निरीक्षण",
+     "प्रगति पर मंत्री की नाराजगी",
+     "दिसंबर अंत तक पूरा करने का वादा"
+    ],
+    "why": "योजना पूरी होने पर कोदाड क्षेत्र के किसानों की 4,460 एकड़ जमीन सिंचित होगी।",
+    "cat": "सूर्यापेट · सिंचाई",
+    "statl": "योजना से सिंचित होने वाली जमीन"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "unity",
+   "stat": "భారత్ సమ్మిట్",
+   "statl": "రాజకీయాలకు కాదన్న మంత్రి",
+   "h": "భారత్ సమ్మిట్ రాజకీయాల కోసం కాదు, బీజేపీ విమర్శలు ఆపాలి: మంత్రి శ్రీధర్‌బాబు",
+   "p": "హైదరాబాద్‌లో జరుగుతున్న భారత్ సమ్మిట్ రాజకీయాల కోసం కాదని, బీజేపీ అనవసర విమర్శలు ఆపాలని మంత్రి శ్రీధర్‌బాబు అన్నారు. సమ్మిట్‌కు రాహుల్ గాంధీని ఆహ్వానిస్తే తప్పేంటని ప్రశ్నించారు. సాంకేతికత, ప్రస్తుత సవాళ్లపై ఎవరైనా మాట్లాడవచ్చని, ప్రగతిశీల పార్టీలన్నింటినీ ఆహ్వానించామని చెప్పారు. ప్రపంచ మార్పులు, జెన్-జీ డిమాండ్లపై ప్రత్యేక సెషన్ ఉంటుందని తెలిపారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#sridhar-babu-bharat-summit",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రాహుల్ ఆహ్వానంలో తప్పేంటని మంత్రి ప్రశ్న",
+    "ప్రగతిశీల పార్టీలన్నింటికీ ఆహ్వానం",
+    "జెన్-జీ డిమాండ్లపై ప్రత్యేక సెషన్"
+   ],
+   "why": "రాష్ట్రంలో జరుగుతున్న అంతర్జాతీయ సదస్సుపై పార్టీల మధ్య వాదనలను ఇది తెలియజేస్తుంది.",
+   "pub": "2026-11-11T11:05+05:30",
+   "en": {
+    "h": "Bharat Summit is not for politics, BJP should stop criticism: Minister Sridhar Babu",
+    "p": "Minister Sridhar Babu said the Bharat Summit under way in Hyderabad is not for politics and that the BJP should stop unnecessary criticism. He asked what was wrong in inviting Rahul Gandhi. He said anyone can speak on technology and current challenges and that all progressive parties were invited. A special session will discuss global changes and Gen Z demands, he said.",
+    "pts": [
+     "Minister asks what is wrong in inviting Rahul",
+     "All progressive parties invited",
+     "Special session on Gen Z demands"
+    ],
+    "why": "It reflects the debate between parties over an international summit held in the state.",
+    "cat": "Telangana · Politics",
+    "statl": "Not for politics, says minister"
+   },
+   "hi": {
+    "h": "भारत समिट राजनीति के लिए नहीं, भाजपा आलोचना बंद करे: मंत्री श्रीधर बाबू",
+    "p": "मंत्री श्रीधर बाबू ने कहा कि हैदराबाद में हो रहा भारत समिट राजनीति के लिए नहीं है और भाजपा को अनावश्यक आलोचना बंद करनी चाहिए। उन्होंने पूछा कि राहुल गांधी को बुलाने में क्या गलत है। उन्होंने कहा कि तकनीक और मौजूदा चुनौतियों पर कोई भी बोल सकता है और सभी प्रगतिशील दलों को बुलाया गया है। वैश्विक बदलावों और जेन-ज़ी की मांगों पर विशेष सत्र होगा।",
+    "pts": [
+     "राहुल को बुलाने में गलत क्या, मंत्री का सवाल",
+     "सभी प्रगतिशील दलों को निमंत्रण",
+     "जेन-ज़ी की मांगों पर विशेष सत्र"
+    ],
+    "why": "यह राज्य में हो रहे अंतरराष्ट्रीय सम्मेलन पर दलों के बीच बहस को दर्शाता है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "राजनीति के लिए नहीं, मंत्री ने कहा"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "మహబూబాబాద్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "కేసు నమోదు",
+   "statl": "పోలీసుల దర్యాప్తు",
+   "h": "తొర్రూరు మండలంలో బాలికపై వేధింపుల ఆరోపణ: యువకుడిపై కేసు",
+   "p": "మహబూబాబాద్ జిల్లా తొర్రూరు మండలంలో ప్రేమ పేరుతో ఒక యువకుడు బాలికను మోసం చేసి గర్భవతిని చేశాడని, ఆ తర్వాత గర్భస్రావం కోసం మాత్రలు ఇచ్చాడని ఆరోపణ. దీంతో బాలిక అస్వస్థతకు గురై ఆస్పత్రిలో చికిత్స పొందుతోందని ఆంధ్రజ్యోతి తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#torrur-minor",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "mahabubabad",
+   "loc": "తొర్రూరు",
+   "pts": [
+    "ప్రేమ పేరుతో మోసం చేశాడని యువకుడిపై ఆరోపణ",
+    "బాలిక ఆస్పత్రిలో చికిత్స",
+    "పోలీసుల కేసు నమోదు, దర్యాప్తు"
+   ],
+   "why": "బాలికల భద్రతపై తల్లిదండ్రులు, సమాజం అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T10:50+05:30",
+   "en": {
+    "h": "Torrur mandal: youth booked over alleged exploitation of minor girl",
+    "p": "In Torrur mandal of Mahabubabad district, a youth allegedly deceived a minor girl in the name of love, made her pregnant and then gave her pills to end the pregnancy. The girl fell ill and is under treatment in hospital, Andhra Jyothy reported. Police have registered a case and are investigating.",
+    "pts": [
+     "Youth accused of deceiving girl in name of love",
+     "Girl under treatment in hospital",
+     "Police register case, investigate"
+    ],
+    "why": "It shows the need for parents and society to stay alert about girls' safety.",
+    "cat": "Mahabubabad · Crime",
+    "statl": "Police investigating"
+   },
+   "hi": {
+    "h": "तोर्रूर मंडल: नाबालिग लड़की के शोषण के आरोप में युवक पर मामला",
+    "p": "महबूबाबाद जिले के तोर्रूर मंडल में एक युवक पर आरोप है कि उसने प्यार के नाम पर एक नाबालिग लड़की को धोखा देकर गर्भवती किया और फिर गर्भपात के लिए गोलियां दीं। आंध्र ज्योति के अनुसार लड़की बीमार पड़ गई और अस्पताल में इलाज चल रहा है। पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "प्यार के नाम पर धोखे का युवक पर आरोप",
+     "लड़की का अस्पताल में इलाज",
+     "पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह लड़कियों की सुरक्षा को लेकर माता-पिता और समाज की सतर्कता की जरूरत दिखाता है।",
+    "cat": "महबूबाबाद · अपराध",
+    "statl": "पुलिस जांच जारी"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "భారత్ · క్రికెట్",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "7 టెస్టులు",
+   "statl": "భారత్ తరఫున కేఎస్ భరత్",
+   "h": "యూఏఈ తరఫున ఆడేందుకు భారత మాజీ వికెట్ కీపర్ కేఎస్ భరత్ ప్రయత్నం",
+   "p": "భారత మాజీ వికెట్ కీపర్ కేఎస్ భరత్ యూఏఈ తరఫున క్రికెట్ ఆడేందుకు ప్రయత్నిస్తున్నారని ఆంధ్రజ్యోతి తెలిపింది. ఆయన భారత్ తరఫున ఏడు టెస్టులు ఆడారు. ప్రస్తుతం అబుదాబి టీ10 లీగ్‌లో ఎమిరేట్స్ ఈగల్స్ జట్టుకు ప్రాతినిధ్యం వహిస్తున్నారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-11th-november-2026-3710.html#ks-bharat-uae",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "యూఏఈ తరఫున ఆడేందుకు భరత్ ప్రయత్నం",
+    "భారత్ తరఫున ఏడు టెస్టులు",
+    "అబుదాబి టీ10లో ఎమిరేట్స్ ఈగల్స్‌కు ఆట"
+   ],
+   "why": "తెలుగు క్రికెట్ అభిమానులు ఆసక్తిగా గమనించే ఆటగాడి కెరీర్ నిర్ణయం ఇది.",
+   "pub": "2026-11-11T12:45+05:30",
+   "en": {
+    "h": "Former India wicketkeeper KS Bharat seeks to play for UAE",
+    "p": "Former India wicketkeeper KS Bharat is trying to play cricket for the UAE, Andhra Jyothy reported. He played seven Tests for India. He currently represents Emirates Eagles in the Abu Dhabi T10 League.",
+    "pts": [
+     "Bharat seeks to play for UAE",
+     "Played seven Tests for India",
+     "Plays for Emirates Eagles in Abu Dhabi T10"
+    ],
+    "why": "It is a career move by a player Telugu cricket fans follow closely.",
+    "cat": "India · Cricket",
+    "statl": "KS Bharat's Tests for India"
+   },
+   "hi": {
+    "h": "भारत के पूर्व विकेटकीपर केएस भरत यूएई के लिए खेलने की कोशिश में",
+    "p": "आंध्र ज्योति के अनुसार भारत के पूर्व विकेटकीपर केएस भरत यूएई की ओर से क्रिकेट खेलने की कोशिश कर रहे हैं। उन्होंने भारत के लिए सात टेस्ट खेले। वह इस समय अबू धाबी टी10 लीग में एमिरेट्स ईगल्स की ओर से खेल रहे हैं।",
+    "pts": [
+     "भरत यूएई के लिए खेलने की कोशिश में",
+     "भारत के लिए सात टेस्ट खेले",
+     "अबू धाबी टी10 में एमिरेट्स ईगल्स से खेलते हैं"
+    ],
+    "why": "यह उस खिलाड़ी का करियर फैसला है जिसे तेलुगु क्रिकेट प्रशंसक करीब से देखते हैं।",
+    "cat": "भारत · क्रिकेट",
+    "statl": "भारत के लिए केएस भरत के टेस्ट"
+   },
+   "d": "11.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "తెలంగాణ · విద్యుత్",
    "col": "--c-power",
@@ -1755,757 +2498,6 @@
    },
    "d": "11.11.2026",
    "t": "10:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · క్రీడలు",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "9వ",
-   "statl": "ప్రపంచ రికార్డు అని కథనం",
-   "h": "హైదరాబాద్ కరాటే గ్రాండ్‌మాస్టర్ శాశ్వత్ కుమార్ తొమ్మిదో ప్రపంచ రికార్డు",
-   "p": "హైదరాబాద్‌కు చెందిన కరాటే గ్రాండ్‌మాస్టర్ శాశ్వత్ కుమార్ తొమ్మిదో ప్రపంచ రికార్డు సాధించారని తెలంగాణ టుడే కథనం. నవంబర్ 10న యూట్యూబ్ లైవ్ ప్రదర్శనలో కేవలం వేలితో దాడి చేసి ప్లాస్టిక్ నీళ్ల సీసాను చీల్చారు. ఇలా చేసిన తొలి మార్షల్ ఆర్టిస్ట్ ఆయనేనని ఆ ఘనత ప్రకటనలో పేర్కొన్నారు. రికార్డును ఏ సంస్థ గుర్తించిందో కథనంలో పేర్కొనలేదు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-s-karate-grandmaster-shaswat-kumar-claims-ninth-605c798b",
-   "sec": [
-    "telangana",
-    "sports"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "యూట్యూబ్ లైవ్‌లో వేలితో ప్లాస్టిక్ సీసా చీల్చిన ప్రదర్శన",
-    "ప్రేక్షకులు నేరుగా చూసేందుకే లైవ్ ప్రదర్శన",
-    "వేళ్ల బలానికి క్రమశిక్షణ, సాధన అవసరమన్న శాశ్వత్"
-   ],
-   "why": "హైదరాబాద్ మార్షల్ ఆర్ట్స్ క్రీడాకారుల సాధనను ఇది తెలియజేస్తుంది.",
-   "pub": "2026-11-11T09:41+05:30",
-   "en": {
-    "h": "Hyderabad karate grandmaster Shaswat Kumar claims ninth world record",
-    "p": "Hyderabad karate Grandmaster Shaswat Kumar has claimed his ninth world record, Telangana Today reports. In a YouTube Live demonstration on November 10, he pierced a plastic water bottle using only a finger attack. The achievement claim says he is the first martial artist to do this. The article does not name the body that recognised the record.",
-    "pts": [
-     "Pierced a plastic bottle with a finger on YouTube Live",
-     "Live stream let viewers see the feat directly",
-     "Shaswat says strong fingers need discipline and training"
-    ],
-    "why": "It highlights the work of Hyderabad's martial arts athletes.",
-    "cat": "Hyderabad · Sports",
-    "statl": "world record, per report"
-   },
-   "hi": {
-    "h": "हैदराबाद के कराटे ग्रैंडमास्टर शाश्वत कुमार का नौवां विश्व रिकॉर्ड",
-    "p": "तेलंगाना टुडे के अनुसार हैदराबाद के कराटे ग्रैंडमास्टर शाश्वत कुमार ने अपना नौवां विश्व रिकॉर्ड हासिल करने का दावा किया है। 10 नवंबर को यूट्यूब लाइव प्रदर्शन में उन्होंने केवल उंगली के वार से प्लास्टिक की पानी की बोतल भेद दी। उपलब्धि के दावे में कहा गया है कि ऐसा करने वाले वे पहले मार्शल आर्टिस्ट हैं। लेख में यह नहीं बताया गया कि रिकॉर्ड किस संस्था ने मान्य किया।",
-    "pts": [
-     "यूट्यूब लाइव पर उंगली से प्लास्टिक बोतल भेदी",
-     "लाइव प्रसारण से दर्शकों ने सीधे देखा",
-     "शाश्वत बोले, मजबूत उंगलियों के लिए अनुशासन और अभ्यास जरूरी"
-    ],
-    "why": "यह हैदराबाद के मार्शल आर्ट खिलाड़ियों की उपलब्धि दिखाता है।",
-    "cat": "हैदराबाद · खेल",
-    "statl": "विश्व रिकॉर्ड, रिपोर्ट के अनुसार"
-   },
-   "d": "11.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "భారత్ · రూపాయి",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "93.70",
-   "statl": "డాలర్‌తో రూపాయి విలువ",
-   "h": "డాలర్‌తో రూపాయి 7 పైసలు బలపడి 93.70కి",
-   "p": "బుధవారం ప్రారంభ ట్రేడింగ్‌లో అమెరికా డాలర్‌తో రూపాయి విలువ 7 పైసలు పెరిగి 93.70కి చేరిందని ఫారెక్స్ ట్రేడర్లు తెలిపారు. సోమవారం 93.77 వద్ద ముగిసింది. బలిప్రతిపద సందర్భంగా మంగళవారం మార్కెట్లకు సెలవు. నెలల తరబడి నిధుల ఉపసంహరణ తర్వాత విదేశీ పెట్టుబడిదారులు తిరిగి వస్తున్నారని ట్రేడర్లు చెప్పారు. నవంబర్ మొదటి 9 రోజుల్లో వారు రూ.53,739 కోట్ల నికర కొనుగోళ్లు చేశారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/rupee-rises-7-paise-to-93-70-against-us-dollar-in-early-2642d948",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "సోమవారం 93.77 వద్ద ముగిసిన రూపాయి",
-    "బ్రెంట్ ముడి చమురు బ్యారెల్ 92.41 డాలర్లు",
-    "సోమవారం విదేశీ సంస్థల కొనుగోళ్లు రూ.7,212 కోట్లు"
-   ],
-   "why": "చమురు ధర తగ్గితే దిగుమతుల బిల్లు తగ్గి రూపాయికి మేలని నిపుణుల అభిప్రాయం.",
-   "pub": "2026-11-11T10:00+05:30",
-   "en": {
-    "h": "Rupee gains 7 paise to 93.70 against the dollar",
-    "p": "The rupee rose 7 paise to 93.70 against the US dollar in early trade on Wednesday, forex traders said. It had closed at 93.77 on Monday. Markets were closed on Tuesday for Balipratipada. Traders said foreign investors are returning after months of outflows. In the first nine days of November, they made net purchases of Rs 53,739 crore.",
-    "pts": [
-     "Rupee had closed at 93.77 on Monday",
-     "Brent crude at USD 92.41 a barrel",
-     "Foreign investors bought Rs 7,212 crore on Monday"
-    ],
-    "why": "Experts say cheaper oil lowers the import bill and helps the rupee.",
-    "cat": "India · Rupee",
-    "statl": "rupee against the dollar"
-   },
-   "hi": {
-    "h": "डॉलर के मुकाबले रुपया 7 पैसे मजबूत होकर 93.70 पर",
-    "p": "फॉरेक्स कारोबारियों के अनुसार बुधवार को शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले रुपया 7 पैसे बढ़कर 93.70 पर पहुंचा। सोमवार को यह 93.77 पर बंद हुआ था। बलिप्रतिपदा के कारण मंगलवार को बाजार बंद थे। कारोबारियों ने कहा कि महीनों की निकासी के बाद विदेशी निवेशक लौट रहे हैं। नवंबर के पहले नौ दिनों में उन्होंने 53,739 करोड़ रुपये की शुद्ध खरीद की।",
-    "pts": [
-     "सोमवार को रुपया 93.77 पर बंद हुआ था",
-     "ब्रेंट कच्चा तेल 92.41 डॉलर प्रति बैरल",
-     "सोमवार को विदेशी निवेशकों ने 7,212 करोड़ की खरीद की"
-    ],
-    "why": "विशेषज्ञों के अनुसार सस्ता तेल आयात बिल घटाकर रुपये को मदद करता है।",
-    "cat": "भारत · रुपया",
-    "statl": "डॉलर के मुकाबले रुपया"
-   },
-   "d": "11.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "భారత్ · క్రికెట్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "₹18 కోట్లు",
-   "statl": "హార్దిక్ కొత్త ఫీజు",
-   "h": "ఐపీఎల్ 2027: పంజాబ్ కింగ్స్‌కు హార్దిక్, ముంబై ఇండియన్స్‌కు అర్ష్‌దీప్",
-   "p": "ముంబై ఇండియన్స్, పంజాబ్ కింగ్స్ మధ్య ఆటగాళ్ల మార్పిడి పూర్తయినట్లు ఐపీఎల్ బుధవారం అధికారికంగా ప్రకటించింది. హార్దిక్ పాండ్యా సవరించిన రూ.18 కోట్ల ఫీజుతో పంజాబ్ కింగ్స్‌లో చేరుతుండగా, అర్ష్‌దీప్ సింగ్ ప్రస్తుత రూ.18 కోట్ల ఫీజుతోనే ముంబై ఇండియన్స్‌కు వెళ్తున్నాడు. 2019 నుంచి పంజాబ్‌కు ఆడిన అర్ష్‌దీప్ 96 మ్యాచ్‌ల్లో 111 వికెట్లు తీశాడు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/sports/hardik-pandya-moves-to-punjab-kings-mumbai-indians-get-arshdeep-singh-2557428",
-   "sec": [
-    "india",
-    "sports"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "హార్దిక్ ఫీజు రూ.16.5 కోట్ల నుంచి రూ.18 కోట్లకు",
-    "అర్ష్‌దీప్ తొలిసారి పంజాబ్ జట్టును వీడుతున్నాడు",
-    "టాటా ఐపీఎల్ 2027 సీజన్ కోసం ఈ మార్పిడి"
-   ],
-   "why": "వచ్చే ఐపీఎల్ సీజన్‌లో రెండు జట్ల కూర్పు మారుతుంది.",
-   "pub": "2026-11-11T10:00+05:30",
-   "en": {
-    "h": "IPL 2027: Hardik to Punjab Kings, Arshdeep to Mumbai Indians",
-    "p": "The IPL officially announced on Wednesday that Mumbai Indians and Punjab Kings have completed a player trade. Hardik Pandya joins Punjab Kings at a revised fee of Rs 18 crore, while Arshdeep Singh moves to Mumbai Indians at his existing fee of Rs 18 crore. Arshdeep, who has played for Punjab since 2019, has taken 111 wickets in 96 matches.",
-    "pts": [
-     "Hardik's fee rises from Rs 16.5 crore to Rs 18 crore",
-     "Arshdeep leaves Punjab for the first time",
-     "Trade is for the TATA IPL 2027 season"
-    ],
-    "why": "The make-up of both teams changes for the next IPL season.",
-    "cat": "India · Cricket",
-    "statl": "Hardik's new fee"
-   },
-   "hi": {
-    "h": "आईपीएल 2027: हार्दिक पंजाब किंग्स में, अर्शदीप मुंबई इंडियंस में",
-    "p": "आईपीएल ने बुधवार को आधिकारिक घोषणा की कि मुंबई इंडियंस और पंजाब किंग्स के बीच खिलाड़ियों की अदला-बदली पूरी हो गई है। हार्दिक पांड्या संशोधित 18 करोड़ रुपये की फीस पर पंजाब किंग्स में शामिल होंगे, जबकि अर्शदीप सिंह अपनी मौजूदा 18 करोड़ रुपये की फीस पर मुंबई इंडियंस में जाएंगे। 2019 से पंजाब के लिए खेल रहे अर्शदीप ने 96 मैचों में 111 विकेट लिए हैं।",
-    "pts": [
-     "हार्दिक की फीस 16.5 करोड़ से बढ़कर 18 करोड़",
-     "अर्शदीप पहली बार पंजाब टीम छोड़ रहे हैं",
-     "यह अदला-बदली टाटा आईपीएल 2027 सीजन के लिए"
-    ],
-    "why": "अगले आईपीएल सीजन में दोनों टीमों की संरचना बदलेगी।",
-    "cat": "भारत · क्रिकेट",
-    "statl": "हार्दिक की नई फीस"
-   },
-   "d": "11.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "గద్వాల · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹10,000",
-   "statl": "రైతుల నుంచి వసూలు చేశారని ఆరోపణ",
-   "h": "పంటలు కాపాడుకునేందుకు ట్యాంకర్ నీళ్లు: రైతులపై జరిమానా అని ఆరోపణ",
-   "p": "జోగులాంబ గద్వాల జిల్లా అయిజ సమీపంలో ఎండుతున్న పంటలను కాపాడుకోవడానికి 20 మందికి పైగా రైతులు నెల రోజులుగా పెద్దవాగు నుంచి మురుగునీటిని ట్యాంకర్లలో తరలిస్తున్నారు. ఆర్టీఏ అధికారులమని చెప్పిన కొందరు ట్యాంకర్లను ఆపి, అనుమతి లేకుంటే ₹1.50 లక్షల జరిమానా అని హెచ్చరించి, ఇద్దరు రైతుల నుంచి మొత్తం ₹10 వేలు వసూలు చేశారని రైతులు ఆరోపించారు. తమ శాఖ అధికారులెవరూ వసూలు చేయలేదని డీటీవో చెప్పారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/farmers-fined-for-transporting-wastewater-to-save-drying-crops-2557243",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "gadwal",
-   "loc": "అయిజ",
-   "pts": [
-    "ట్యాంకర్ల అద్దెకే ₹1 లక్షకు పైగా ఖర్చు చేశామన్న రైతులు",
-    "బాధ్యులను సస్పెండ్ చేయాలని స్థానికుల డిమాండ్",
-    "జరిమానా వసూలు చేయలేదన్న డీటీవో రాధిక"
-   ],
-   "why": "నీటి కొరతతో పంటలు కాపాడుకునేందుకు ఖర్చు చేస్తున్న అయిజ ప్రాంత రైతులపై అదనపు భారం పడుతోంది.",
-   "pub": "2026-11-11T02:10+05:30",
-   "en": {
-    "h": "Farmers carrying tanker water to save crops allege fines",
-    "p": "Over 20 farmers near Aiza in Jogulamba Gadwal district have for a month been hiring tankers to carry wastewater from the Peddavagu stream to save drying crops. Farmers allege that people claiming to be RTA officials stopped the tankers, warned of a ₹1.50 lakh fine without permission, and collected ₹10,000 in all from two farmers. The DTO said none of her department's officials collected any fines.",
-    "pts": [
-     "Farmers say they spent over ₹1 lakh on tanker hire",
-     "Residents demand suspension of those responsible",
-     "DTO Radhika denies her officials collected fines"
-    ],
-    "why": "Farmers near Aiza, already spending to save crops amid water shortage, face an added burden.",
-    "cat": "Gadwal · Agriculture",
-    "statl": "Allegedly collected from farmers"
-   },
-   "hi": {
-    "h": "फसल बचाने के लिए टैंकर से पानी, किसानों पर जुर्माने का आरोप",
-    "p": "जोगुलांबा गद्वाल ज़िले के अयिजा के पास 20 से अधिक किसान एक महीने से सूखती फसलें बचाने के लिए पेद्दावागु नाले से गंदा पानी टैंकरों में ढो रहे हैं। किसानों का आरोप है कि खुद को आरटीए अधिकारी बताने वालों ने टैंकर रोके, बिना अनुमति ₹1.50 लाख जुर्माने की चेतावनी दी और दो किसानों से कुल ₹10,000 वसूले। डीटीओ ने कहा कि उनके विभाग के किसी अधिकारी ने वसूली नहीं की।",
-    "pts": [
-     "किसानों के अनुसार टैंकर किराए पर ₹1 लाख से अधिक खर्च",
-     "स्थानीय लोगों ने ज़िम्मेदारों के निलंबन की मांग की",
-     "डीटीओ राधिका ने जुर्माना वसूली से इनकार किया"
-    ],
-    "why": "पानी की कमी में फसल बचाने पर खर्च कर रहे अयिजा क्षेत्र के किसानों पर अतिरिक्त बोझ पड़ रहा है।",
-    "cat": "गद्वाल · कृषि",
-    "statl": "किसानों से वसूली का आरोप"
-   },
-   "d": "11.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "ప్రపంచం · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "-2.41%",
-   "statl": "ఔన్సు బంగారం ధర పతనం",
-   "h": "అంతర్జాతీయ మార్కెట్‌లో బంగారం 2.4% పతనం: 5%కి చేరువలో అమెరికా బాండ్ రాబడి",
-   "p": "అమెరికా మార్కెట్లు నవంబర్ 10న నష్టాల్లో ముగిశాయి. అంతర్జాతీయంగా బంగారం ధర 2.41% తగ్గి ఔన్సుకు 4,039 డాలర్లకు చేరింది. అమెరికా 10 ఏళ్ల బాండ్ రాబడి 4.983%కి పెరిగింది, డాలర్ ఇండెక్స్ 0.6% బలపడింది. అక్టోబర్‌లో అమెరికా వినియోగదారుల ధరలు 0.4% పెరిగాయని బ్యూరో ఆఫ్ లేబర్ స్టాటిస్టిక్స్ తెలిపింది.",
-   "src": "The Rio Times",
-   "url": "https://www.riotimesonline.com/global-economy-briefing-november-11-2026",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఎస్ అండ్ పీ 500 సూచీ 0.38% తగ్గుదల",
-    "నాస్‌డాక్ 0.74% నష్టం",
-    "చైనా అక్టోబర్ ఎగుమతులు 35.2% వృద్ధి"
-   ],
-   "why": "అంతర్జాతీయ బంగారం ధరలు, డాలర్ కదలికలు భారత్‌లో బంగారం కొనుగోలుదారులు, పొదుపుదారులపై ప్రభావం చూపుతాయి.",
-   "pub": "2026-11-11T09:49+05:30",
-   "en": {
-    "h": "Gold falls 2.4% globally as US bond yield nears 5%",
-    "p": "US markets closed lower on November 10. Gold fell 2.41% to $4,039 an ounce globally. The US 10-year bond yield rose to 4.983% and the dollar index gained 0.6%. US consumer prices rose 0.4% in October, according to the Bureau of Labor Statistics.",
-    "pts": [
-     "S&P 500 index fell 0.38%",
-     "Nasdaq lost 0.74%",
-     "China's October exports grew 35.2%"
-    ],
-    "why": "Global gold prices and dollar moves affect gold buyers and savers in India.",
-    "cat": "World · Business",
-    "statl": "Fall in gold price per ounce"
-   },
-   "hi": {
-    "h": "वैश्विक बाज़ार में सोना 2.4% गिरा, अमेरिकी बॉन्ड यील्ड 5% के करीब",
-    "p": "10 नवंबर को अमेरिकी बाज़ार गिरावट के साथ बंद हुए। वैश्विक स्तर पर सोना 2.41% गिरकर 4,039 डॉलर प्रति औंस पर आ गया। अमेरिका का 10 साल का बॉन्ड यील्ड बढ़कर 4.983% हो गया और डॉलर इंडेक्स 0.6% मज़बूत हुआ। ब्यूरो ऑफ लेबर स्टैटिस्टिक्स के अनुसार अक्टूबर में अमेरिका में उपभोक्ता कीमतें 0.4% बढ़ीं।",
-    "pts": [
-     "एसएंडपी 500 सूचकांक 0.38% गिरा",
-     "नैस्डैक में 0.74% की गिरावट",
-     "चीन का अक्टूबर निर्यात 35.2% बढ़ा"
-    ],
-    "why": "वैश्विक सोने के दाम और डॉलर की चाल भारत में सोना खरीदारों और बचतकर्ताओं को प्रभावित करती है।",
-    "cat": "विश्व · कारोबार",
-    "statl": "प्रति औंस सोने के दाम में गिरावट"
-   },
-   "d": "11.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "ఏపీ · పట్టణాభివృద్ధి",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "6",
-   "statl": "ఏపీకి స్వచ్ఛ సర్వేక్షణ్ అవార్డులు",
-   "h": "స్వచ్ఛ సర్వేక్షణ్‌లో ఏపీకి 6 అవార్డులు: నేడు ఢిల్లీలో ప్రదానం",
-   "p": "స్వచ్ఛ సర్వేక్షణ్‌లో ఆంధ్రప్రదేశ్‌కు ఆరు అవార్డులు వచ్చాయి. విజయవాడ, గుంటూరు, తిరుపతి కార్పొరేషన్లు సూపర్ స్వచ్ఛ లీగ్‌లో నిలిచాయి. రాజమహేంద్రవరానికి ప్రామిసింగ్ స్వచ్ఛ షహర్, జీవీఎంసీకి సఫాయి మిత్ర సురక్షిత్ షహర్, కుప్పానికి స్వచ్ఛ సిటీ అవార్డు దక్కాయి. బుధవారం ఢిల్లీ విజ్ఞాన్ భవన్‌లో రాష్ట్రపతి ద్రౌపది ముర్ము అందించే అవార్డులను మంత్రి నారాయణ స్వీకరిస్తారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/ap-wins-swachh-survekshan-awards-minister-narayana-to-receive-award-today-1141040",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "విజయవాడ, గుంటూరు, తిరుపతికి సూపర్ స్వచ్ఛ లీగ్ గుర్తింపు",
-    "జీవీఎంసీకి పారిశుద్ధ్య కార్మికుల భద్రత విభాగంలో అవార్డు",
-    "20 వేల లోపు జనాభా విభాగంలో కుప్పానికి అవార్డు"
-   ],
-   "why": "ఈ నగరాలు, పట్టణాల్లో పరిశుభ్రత కోసం చేసిన పనికి జాతీయ గుర్తింపు లభించింది.",
-   "pub": "2026-11-11T09:25+05:30",
-   "en": {
-    "h": "AP wins 6 Swachh Survekshan awards; to be presented in Delhi today",
-    "p": "Andhra Pradesh has won six Swachh Survekshan awards. Vijayawada, Guntur and Tirupati corporations were placed in the Super Swachh League. Rajamahendravaram won Promising Swachh Shehar, GVMC won Safai Mitra Surakshit Shehar and Kuppam won a Swachh City award. Minister P Narayana will receive the awards from President Droupadi Murmu at Vigyan Bhawan, Delhi, on Wednesday.",
-    "pts": [
-     "Vijayawada, Guntur, Tirupati in Super Swachh League",
-     "GVMC award for sanitation workers' safety",
-     "Kuppam award in under-20,000 population category"
-    ],
-    "why": "These cities and towns get national recognition for their cleanliness work.",
-    "cat": "AP · Urban Development",
-    "statl": "Swachh Survekshan awards for AP"
-   },
-   "hi": {
-    "h": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को 6 पुरस्कार, आज दिल्ली में सम्मान",
-    "p": "स्वच्छ सर्वेक्षण में आंध्र प्रदेश को छह पुरस्कार मिले हैं। विजयवाड़ा, गुंटूर और तिरुपति नगर निगम सुपर स्वच्छ लीग में रहे। राजमहेंद्रवरम को प्रॉमिसिंग स्वच्छ शहर, जीवीएमसी को सफाई मित्र सुरक्षित शहर और कुप्पम को स्वच्छ सिटी पुरस्कार मिला। बुधवार को दिल्ली के विज्ञान भवन में राष्ट्रपति द्रौपदी मुर्मू से मंत्री पी. नारायण पुरस्कार लेंगे।",
-    "pts": [
-     "विजयवाड़ा, गुंटूर, तिरुपति सुपर स्वच्छ लीग में",
-     "सफाई कर्मियों की सुरक्षा श्रेणी में जीवीएमसी को पुरस्कार",
-     "20 हजार से कम आबादी श्रेणी में कुप्पम को पुरस्कार"
-    ],
-    "why": "इन शहरों और कस्बों को स्वच्छता के काम के लिए राष्ट्रीय पहचान मिली है।",
-    "cat": "आंध्र प्रदेश · शहरी विकास",
-    "statl": "आंध्र प्रदेश को स्वच्छ सर्वेक्षण पुरस्कार"
-   },
-   "d": "11.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "ఏపీ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "13న",
-   "statl": "బంగాళాఖాతంలో అల్పపీడనం అంచనా",
-   "h": "ఏపీకి వర్ష సూచన, తెలంగాణలో మరింత చలి: 13న అల్పపీడనం",
-   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13న అల్పపీడనం ఏర్పడి, బలపడి వాయుగుండంగా మారి 18–19 నాటికి ఉత్తర తమిళనాడు తీరానికి చేరవచ్చని వాతావరణ శాఖ తెలిపింది. దీంతో దక్షిణ కోస్తా, రాయలసీమలో తేలికపాటి నుంచి మోస్తరు వర్షాలు పడొచ్చు. తెలంగాణలో సుమారు 16 జిల్లాల్లో రాత్రి ఉష్ణోగ్రతలు 14.7–15 డిగ్రీలు నమోదయ్యాయి. తీరంలో గాలుల వల్ల మత్స్యకారులు వేటకు వెళ్లొద్దని సూచించారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/rain-forecast-for-ap-as-telangana-turns-colder-1141039",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "18–19 నాటికి తమిళనాడు తీరానికి వాయుగుండం అంచనా",
-    "ఆదిలాబాద్ జిల్లా నేరడుగొండలో కనిష్ఠం 14.7 డిగ్రీలు",
-    "తీరంలో గంటకు 40–50 కి.మీ. గాలులు"
-   ],
-   "why": "దక్షిణ కోస్తా, రాయలసీమ రైతులు, మత్స్యకారులు, తెలంగాణలో చలికి గురయ్యేవారు జాగ్రత్తగా ఉండాలి.",
-   "pub": "2026-11-11T09:23+05:30",
-   "en": {
-    "h": "Rain forecast for AP, colder days for Telangana; low pressure on Nov 13",
-    "p": "The Meteorological Department said a low pressure area is likely over the south-east Bay of Bengal on November 13, which may intensify into a depression and reach the north Tamil Nadu coast by November 18–19. South coastal AP and Rayalaseema may get light to moderate rain. In Telangana, about 16 districts recorded night temperatures of 14.7–15°C. Fishermen were told not to venture into the sea due to coastal winds.",
-    "pts": [
-     "Depression likely to reach Tamil Nadu coast by Nov 18–19",
-     "Lowest 14.7°C at Neredugonda, Adilabad district",
-     "Coastal winds of 40–50 km/h"
-    ],
-    "why": "Farmers and fishermen in south coastal AP and Rayalaseema, and people facing the cold in Telangana, should take care.",
-    "cat": "AP · Weather",
-    "statl": "Low pressure expected in Bay of Bengal"
-   },
-   "hi": {
-    "h": "आंध्र में बारिश का अनुमान, तेलंगाना में और ठंड; 13 को कम दबाव",
-    "p": "मौसम विभाग ने कहा कि 13 नवंबर को दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव का क्षेत्र बन सकता है, जो अवदाब बनकर 18–19 नवंबर तक उत्तरी तमिलनाडु तट तक पहुंच सकता है। दक्षिण तटीय आंध्र और रायलसीमा में हल्की से मध्यम बारिश हो सकती है। तेलंगाना के करीब 16 जिलों में रात का तापमान 14.7–15 डिग्री रहा। तटीय हवाओं के कारण मछुआरों को समुद्र में न जाने की सलाह दी गई।",
-    "pts": [
-     "18–19 नवंबर तक तमिलनाडु तट पर अवदाब का अनुमान",
-     "आदिलाबाद जिले के नेरडुगोंडा में न्यूनतम 14.7 डिग्री",
-     "तट पर 40–50 किमी प्रति घंटा की हवाएं"
-    ],
-    "why": "दक्षिण तटीय आंध्र और रायलसीमा के किसानों, मछुआरों और तेलंगाना में ठंड झेल रहे लोगों को सावधान रहना चाहिए।",
-    "cat": "आंध्र प्रदेश · मौसम",
-    "statl": "बंगाल की खाड़ी में कम दबाव का अनुमान"
-   },
-   "d": "11.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "ప్రపంచం · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "$92.20",
-   "statl": "బ్రెంట్ ముడి చమురు బ్యారెల్ ధర",
-   "h": "హార్మూజ్‌లో నౌకలపై దాడులు: మళ్లీ పెరిగిన ముడి చమురు ధర",
-   "p": "రెండు నెలల కనిష్ఠం నుంచి బుధవారం చమురు ధర పెరిగింది. బ్రెంట్ 0.78% పెరిగి బ్యారెల్ 92.20 డాలర్లకు, డబ్ల్యూటీఐ 86.53 డాలర్లకు చేరింది. ఇరాన్ యుద్ధంలో ఉద్రిక్తత తగ్గుతుందన్న ఆశలు ఉన్నా, హార్మూజ్ జలసంధిలో నౌకలపై దాడులు కొనసాగడం ధరను పెంచిందని రాయిటర్స్ తెలిపింది. అక్టోబర్‌లో ఆ ప్రాంతంలో 37 నౌకలపై దాడులు జరిగాయని ఒక అధ్యయన సంస్థ లెక్కించింది.",
-   "src": "Reuters (via Business Recorder)",
-   "url": "https://www.brecorder.com/news/40448385/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "బ్రెంట్ 0.78% పెరిగి 92.20 డాలర్లు",
-    "నవంబర్‌లో ఇప్పటివరకు 10 దాడులు",
-    "చర్చలు జరగడం లేదని ఇరాన్ భద్రతా అధికారి ప్రకటన"
-   ],
-   "why": "ముడి చమురు ధర పెరిగితే భారత్‌లో ఇంధనం, రవాణా ఖర్చులపై ప్రభావం పడొచ్చు.",
-   "pub": "2026-11-11T08:16+05:30",
-   "en": {
-    "h": "Hormuz shipping attacks push crude oil prices up again",
-    "p": "Oil rose on Wednesday from a two-month low. Brent gained 0.78% to $92.20 a barrel and WTI was at $86.53. Reuters said hopes of de-escalation in the Iran war were offset by continuing attacks on ships in the Strait of Hormuz. A research institute counted 37 ships attacked in the area in October.",
-    "pts": [
-     "Brent up 0.78% to $92.20",
-     "10 attacks so far in November",
-     "Iranian security official said no talks under way"
-    ],
-    "why": "Higher crude prices can affect fuel and transport costs in India.",
-    "cat": "World · Business",
-    "statl": "Brent crude price per barrel"
-   },
-   "hi": {
-    "h": "होर्मुज में जहाजों पर हमले: कच्चे तेल के दाम फिर बढ़े",
-    "p": "बुधवार को तेल के दाम दो महीने के निचले स्तर से चढ़े। ब्रेंट 0.78% बढ़कर 92.20 डॉलर प्रति बैरल और डब्ल्यूटीआई 86.53 डॉलर पर रहा। रॉयटर्स के अनुसार ईरान युद्ध में तनाव घटने की उम्मीदों के बावजूद होर्मुज जलडमरूमध्य में जहाजों पर जारी हमलों से दाम बढ़े। एक शोध संस्था के मुताबिक अक्टूबर में वहां 37 जहाजों पर हमले हुए।",
-    "pts": [
-     "ब्रेंट 0.78% बढ़कर 92.20 डॉलर",
-     "नवंबर में अब तक 10 हमले",
-     "ईरानी सुरक्षा अधिकारी: कोई बातचीत नहीं हो रही"
-    ],
-    "why": "कच्चा तेल महंगा होने से भारत में ईंधन और परिवहन लागत पर असर पड़ सकता है।",
-    "cat": "विश्व · व्यापार",
-    "statl": "ब्रेंट कच्चे तेल का प्रति बैरल दाम"
-   },
-   "d": "11.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "తెలంగాణ · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "court",
-   "stat": "7",
-   "statl": "ఆస్పత్రులకు షోకాజ్ నోటీసులు",
-   "h": "ఏఆర్టీ కేంద్రాల్లో అక్రమ అండాల సేకరణపై తనిఖీలు: 7 ఆస్పత్రులకు నోటీసులు",
-   "p": "సంతాన సాఫల్య (ఏఆర్టీ) కేంద్రాల్లో అక్రమంగా అండాల సేకరణపై రాష్ట్ర ప్రభుత్వం దృష్టి పెట్టింది. రాష్ట్రంలోని 44 ఏఆర్టీ కేంద్రాల్లో 27 కేంద్రాలను వైద్య ఆరోగ్య శాఖ అధికారులు మంగళవారం తనిఖీ చేశారు. నిబంధనలు ఉల్లంఘించినట్లు గుర్తించిన ఏడు ఆస్పత్రులకు షోకాజ్ నోటీసులు ఇచ్చినట్లు కమిషనర్ ముషారఫ్ అలీ ఫారూఖీ తెలిపారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-cracks-down-on-illegal-egg-collection-at-art-centres-2557293",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "44 ఏఆర్టీ కేంద్రాల్లో 27 చోట్ల తనిఖీలు",
-    "ఏడు ఆస్పత్రుల్లో నిబంధనల ఉల్లంఘన: అధికారుల ప్రకారం",
-    "ఆ ఆస్పత్రులకు షోకాజ్ నోటీసులు జారీ"
-   ],
-   "why": "సంతాన చికిత్సలు తీసుకునే దంపతులు, అండ దాతల భద్రతకు ఇది సంబంధించినది.",
-   "pub": "2026-11-11T02:58+05:30",
-   "en": {
-    "h": "Telangana inspects ART centres over illegal egg collection; 7 hospitals get notices",
-    "p": "The state government has turned its attention to illegal egg (ovum) collection at assisted reproductive technology (ART) centres. Health department officials inspected 27 of the state's 44 ART centres on Tuesday. Show-cause notices were issued to seven hospitals found violating rules, said Commissioner Musharraf Ali Farooqui.",
-    "pts": [
-     "Inspections at 27 of 44 ART centres",
-     "Rule violations at seven hospitals, per officials",
-     "Show-cause notices issued to them"
-    ],
-    "why": "It concerns the safety of couples taking fertility treatment and egg donors.",
-    "cat": "Telangana · Health",
-    "statl": "Hospitals served show-cause notices"
-   },
-   "hi": {
-    "h": "तेलंगाना में एआरटी केंद्रों पर अवैध अंडाणु संग्रह की जांच, 7 अस्पतालों को नोटिस",
-    "p": "राज्य सरकार ने सहायक प्रजनन तकनीक (एआरटी) केंद्रों में अवैध अंडाणु संग्रह पर ध्यान दिया है। स्वास्थ्य विभाग के अधिकारियों ने मंगलवार को राज्य के 44 में से 27 एआरटी केंद्रों का निरीक्षण किया। आयुक्त मुशर्रफ अली फारूकी ने बताया कि नियमों का उल्लंघन करते पाए गए सात अस्पतालों को कारण बताओ नोटिस दिए गए।",
-    "pts": [
-     "44 में से 27 एआरटी केंद्रों पर निरीक्षण",
-     "अधिकारियों के अनुसार सात अस्पतालों में नियम उल्लंघन",
-     "उन्हें कारण बताओ नोटिस जारी"
-    ],
-    "why": "यह प्रजनन उपचार लेने वाले दंपतियों और अंडाणु दाताओं की सुरक्षा से जुड़ा है।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "अस्पतालों को कारण बताओ नोटिस"
-   },
-   "d": "11.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "తెలంగాణ · రెవెన్యూ",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "TRESA",
-   "statl": "తహసీల్దార్ల పదోన్నతులు కోరిన సంఘం",
-   "h": "తహసీల్దార్ల పదోన్నతుల ఫైల్‌ను త్వరగా క్లియర్ చేయాలి: ట్రెసా",
-   "p": "అర్హులైన తహసీల్దార్లకు డిప్యూటీ కలెక్టర్లుగా పదోన్నతులు ఇచ్చే ఫైల్‌ను త్వరగా క్లియర్ చేయాలని తెలంగాణ రెవెన్యూ ఉద్యోగుల సర్వీసుల సంఘం (ట్రెసా) సీఎం కార్యాలయ ముఖ్య కార్యదర్శి వి. శేషాద్రిని కోరింది. సంఘం రాష్ట్ర అధ్యక్షుడు కె. గౌతమ్ కుమార్, ప్రధాన కార్యదర్శి ఎల్. రమణ్ రెడ్డి, గౌరవ అధ్యక్షుడు వంగ రవీందర్ రెడ్డి ఈ బృందంలో ఉన్నారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/revenue-employees-seek-early-clearance-of-tahsildar-promotion-file-2557323",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "తహసీల్దార్లకు డిప్యూటీ కలెక్టర్ పదోన్నతుల కోసం వినతి",
-    "సీఎంవో ముఖ్య కార్యదర్శి శేషాద్రిని కలిసిన ట్రెసా బృందం",
-    "ఫైల్‌పై గడువు గురించి కథనంలో వివరాలు లేవు"
-   ],
-   "why": "రాష్ట్రవ్యాప్తంగా తహసీల్దార్ల పదోన్నతులు, రెవెన్యూ పాలనకు ఇది సంబంధించినది.",
-   "pub": "2026-11-11T04:08+05:30",
-   "en": {
-    "h": "Clear Tahsildar promotion file quickly, TRESA urges CMO",
-    "p": "The Telangana Revenue Employees Services Association (TRESA) asked V. Seshadri, Principal Secretary in the Chief Minister's Office, to quickly clear the file to promote eligible Tahsildars as Deputy Collectors. The delegation included state president K. Gautam Kumar, general secretary L. Raman Reddy and honorary president Vanga Ravinder Reddy.",
-    "pts": [
-     "Plea for Tahsildars' promotion as Deputy Collectors",
-     "TRESA team met CMO Principal Secretary Seshadri",
-     "Report gives no timeline for the file"
-    ],
-    "why": "It concerns Tahsildar promotions and revenue administration across the state.",
-    "cat": "Telangana · Revenue",
-    "statl": "Association seeking Tahsildar promotions"
-   },
-   "hi": {
-    "h": "तहसीलदारों की पदोन्नति फाइल जल्द निपटाएं: ट्रेसा",
-    "p": "तेलंगाना राजस्व कर्मचारी सेवा संघ (ट्रेसा) ने मुख्यमंत्री कार्यालय के प्रधान सचिव वी. शेषाद्रि से योग्य तहसीलदारों को डिप्टी कलेक्टर के रूप में पदोन्नत करने की फाइल जल्द निपटाने का आग्रह किया। प्रतिनिधिमंडल में प्रदेश अध्यक्ष के. गौतम कुमार, महासचिव एल. रमण रेड्डी और मानद अध्यक्ष वंगा रविंदर रेड्डी शामिल थे।",
-    "pts": [
-     "तहसीलदारों को डिप्टी कलेक्टर पदोन्नति की मांग",
-     "ट्रेसा दल ने सीएमओ प्रधान सचिव शेषाद्रि से मुलाकात की",
-     "रिपोर्ट में फाइल की समय-सीमा नहीं बताई गई"
-    ],
-    "why": "यह राज्यभर में तहसीलदारों की पदोन्नति और राजस्व प्रशासन से जुड़ा है।",
-    "cat": "तेलंगाना · राजस्व",
-    "statl": "तहसीलदार पदोन्नति मांगने वाला संघ"
-   },
-   "d": "11.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "కృష్ణా · సహకారం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹1 కోటి",
-   "statl": "సీఎం సహాయ నిధికి విరాళం",
-   "h": "పంట నష్టపోయిన రైతుల కోసం కృష్ణా డీసీసీబీ ₹1 కోటి విరాళం",
-   "p": "ప్రకృతి విపత్తుల వల్ల పంట నష్టపోయిన రైతులను ఆదుకునేందుకు కృష్ణా జిల్లా కేంద్ర సహకార బ్యాంకు (డీసీసీబీ) ముఖ్యమంత్రి సహాయ నిధికి ₹1 కోటి ఇచ్చింది. డీసీసీబీ ఛైర్మన్ నెట్టెం శ్రీ రఘురామ్, మంత్రి కొల్లు రవీంద్ర, ఆప్కాబ్ ఛైర్మన్ గన్ని వీరాంజనేయులు అమరావతి సచివాలయంలో సీఎం చంద్రబాబు నాయుడుకు చెక్కు అందజేశారు. రైతు సంక్షేమమే బ్యాంకు లక్ష్యమని రఘురామ్ అన్నారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/krishna-dccb-donates-rs-1-cr-to-cm-relief-fund-1140990",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "ap-krishna",
-   "pts": [
-    "పంట నష్టపోయిన రైతుల సహాయం కోసం విరాళం",
-    "అమరావతి సచివాలయంలో సీఎంకు చెక్కు అందజేత",
-    "బ్యాంకు సిబ్బందిని అభినందించిన సీఎం"
-   ],
-   "why": "తుపాన్లు, విపత్తులతో నష్టపోయిన రైతులకు సహాయ నిధి పెరుగుతుంది.",
-   "pub": "2026-11-11T06:38+05:30",
-   "en": {
-    "h": "Krishna DCCB donates ₹1 crore for crop-loss-hit farmers",
-    "p": "The Krishna District Cooperative Central Bank (DCCB) gave ₹1 crore to the Chief Minister's Relief Fund to help farmers who lost crops to natural calamities. DCCB chairman Nettam Sri Raghuram, Minister Kollu Ravindra and APCOB chairman Ganni Veeranjaneyulu handed the cheque to CM Chandrababu Naidu at the Amaravati Secretariat. Raghuram said farmer welfare is the bank's main goal.",
-    "pts": [
-     "Donation to help farmers hit by crop losses",
-     "Cheque handed to CM at Amaravati Secretariat",
-     "CM appreciated the bank's staff"
-    ],
-    "why": "It adds to relief funds for farmers hit by cyclones and disasters.",
-    "cat": "Krishna · Cooperative",
-    "statl": "Donation to CM Relief Fund"
-   },
-   "hi": {
-    "h": "फसल नुकसान झेल रहे किसानों के लिए कृष्णा डीसीसीबी ने दिए ₹1 करोड़",
-    "p": "प्राकृतिक आपदाओं से फसल गंवाने वाले किसानों की मदद के लिए कृष्णा जिला केंद्रीय सहकारी बैंक (डीसीसीबी) ने मुख्यमंत्री राहत कोष में ₹1 करोड़ दिए। डीसीसीबी अध्यक्ष नेट्टम श्री रघुराम, मंत्री कोल्लू रवींद्र और एपीकॉब अध्यक्ष गन्नी वीरांजनेयुलु ने अमरावती सचिवालय में सीएम चंद्रबाबू नायडू को चेक सौंपा। रघुराम ने कहा कि किसान कल्याण बैंक का मुख्य लक्ष्य है।",
-    "pts": [
-     "फसल नुकसान से प्रभावित किसानों की मदद के लिए दान",
-     "अमरावती सचिवालय में सीएम को चेक सौंपा",
-     "सीएम ने बैंक कर्मचारियों की सराहना की"
-    ],
-    "why": "इससे चक्रवात और आपदाओं से प्रभावित किसानों के लिए राहत कोष बढ़ेगा।",
-    "cat": "कृष्णा · सहकारिता",
-    "statl": "सीएम राहत कोष में दान"
-   },
-   "d": "11.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "ఏపీ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "355",
-   "statl": "గతంలో గెలిచిన ప్రతినిధులు (బీజేపీ ప్రకారం)",
-   "h": "పంచాయతీ ఎన్నికలకు ఏపీ బీజేపీ సన్నద్ధం: ప్రతి గ్రామంలో అభ్యర్థులు",
-   "p": "రాబోయే గ్రామ పంచాయతీ ఎన్నికల్లో ప్రతి మండలం, గ్రామంలో పార్టీ ప్రాతినిధ్యం ఉండాలని కేంద్ర మంత్రి భూపతిరాజు శ్రీనివాస వర్మ కార్యకర్తలను కోరారు. విజయవాడలో జరిగిన రాష్ట్ర స్థాయి సన్నాహక సమావేశంలో ప్రతి గ్రామంలో కనీసం ఒకటి రెండు వార్డు అభ్యర్థులు ఉండాలన్నారు. గతంలో 33 జడ్పీటీసీ స్థానాల్లో పోటీ చేసి సుమారు 23 గెలిచామని, 355 మంది ప్రతినిధులు ఎన్నికయ్యారని రాష్ట్ర అధ్యక్షుడు పీవీఎన్ మాధవ్ చెప్పారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/bjp-gears-up-for-panchayat-polls-1140910",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "loc": "విజయవాడ",
-   "pts": [
-    "ప్రతి గ్రామంలో 1–2 వార్డు అభ్యర్థులు ఉండాలని పిలుపు",
-    "వెంటనే సన్నాహాలు ప్రారంభించాలన్న మంత్రి సత్యకుమార్ యాదవ్",
-    "సమావేశంలో ఎంపీ పురందేశ్వరి కూడా ప్రసంగం"
-   ],
-   "why": "ఏపీ పంచాయతీ ఎన్నికల్లో గ్రామ స్థాయి పోటీ ఎలా ఉండబోతుందో ఇది చూపిస్తుంది.",
-   "pub": "2026-11-11T02:07+05:30",
-   "en": {
-    "h": "AP BJP gears up for panchayat polls, eyes candidates in every village",
-    "p": "Union Minister Bhupathiraju Srinivasa Varma urged BJP workers to secure party representation in every mandal and village in the coming gram panchayat polls. At a state-level preparatory meeting in Vijayawada, he asked for at least one or two ward candidates per village. State president P V N Madhav said the party earlier contested 33 ZPTC seats, won about 23, and 355 representatives were elected.",
-    "pts": [
-     "Call for 1–2 ward candidates in every village",
-     "Minister Satya Kumar Yadav asked for preparations to begin now",
-     "MP Purandeswari also addressed the meeting"
-    ],
-    "why": "It shows how village-level contests may shape up in AP panchayat polls.",
-    "cat": "AP · Politics",
-    "statl": "Representatives elected earlier (per BJP)"
-   },
-   "hi": {
-    "h": "पंचायत चुनाव के लिए आंध्र भाजपा तैयार, हर गांव में उम्मीदवार का लक्ष्य",
-    "p": "केंद्रीय मंत्री भूपतिराजू श्रीनिवास वर्मा ने भाजपा कार्यकर्ताओं से आगामी ग्राम पंचायत चुनावों में हर मंडल और गांव में पार्टी का प्रतिनिधित्व सुनिश्चित करने को कहा। विजयवाड़ा में राज्य स्तरीय तैयारी बैठक में उन्होंने हर गांव में कम से कम एक-दो वार्ड उम्मीदवार उतारने को कहा। प्रदेश अध्यक्ष पीवीएन माधव ने कहा कि पार्टी ने पहले 33 जेडपीटीसी सीटों पर चुनाव लड़कर करीब 23 जीतीं और 355 प्रतिनिधि चुने गए।",
-    "pts": [
-     "हर गांव में 1–2 वार्ड उम्मीदवार उतारने का आह्वान",
-     "मंत्री सत्य कुमार यादव ने तुरंत तैयारी शुरू करने को कहा",
-     "सांसद पुरंदेश्वरी ने भी बैठक को संबोधित किया"
-    ],
-    "why": "इससे पता चलता है कि आंध्र के पंचायत चुनावों में गांव स्तर पर मुकाबला कैसा होगा।",
-    "cat": "आंध्र प्रदेश · राजनीति",
-    "statl": "पहले चुने गए प्रतिनिधि (भाजपा के अनुसार)"
-   },
-   "d": "11.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "ఏపీ · ఆర్టీసీ",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "125",
-   "statl": "డిపో మేనేజర్లకు ప్రత్యేక శిక్షణ",
-   "h": "ఆదాయ నష్టాల నివారణకు 125 డిపో మేనేజర్లకు ఏపీఎస్‌ఆర్టీసీ శిక్షణ",
-   "p": "సాంకేతిక లోపాలు, ఆర్థిక అవకతవకలు, ఆదాయ నష్టాలను అరికట్టేందుకు రాష్ట్రవ్యాప్తంగా 125 మంది డిపో మేనేజర్లకు ఏపీఎస్‌ఆర్టీసీ ప్రత్యేక శిక్షణ ప్రారంభించింది. నవంబర్ 10 నుంచి 20 వరకు నాలుగు బ్యాచ్‌లుగా ఇది జరుగుతుంది. విజయవాడ ప్రధాన కార్యాలయంలో మొదటి బ్యాచ్‌లో 30 మంది పాల్గొన్నారు. ఆదాయ రక్షణ, పారదర్శకత, జవాబుదారీతనం ముఖ్యమని జేఎండీ ఎం. శివప్రసాద్ చెప్పారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/rtc-trains-125-depot-managers-to-prevent-revenue-losses-1140991",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "loc": "విజయవాడ",
-   "pts": [
-    "నవంబర్ 10–20 మధ్య నాలుగు బ్యాచ్‌లుగా శిక్షణ",
-    "మొదటి బ్యాచ్‌లో 30 మంది డిపో మేనేజర్లు",
-    "అకౌంట్స్, ఆపరేషన్స్, ఐటీ తదితర అంశాలపై పాఠాలు"
-   ],
-   "why": "ఆర్టీసీ ఆదాయం కాపాడటం, బస్సు సేవల్లో పారదర్శకతకు ఇది సంబంధించినది.",
-   "pub": "2026-11-11T06:40+05:30",
-   "en": {
-    "h": "APSRTC trains 125 depot managers to curb revenue losses",
-    "p": "APSRTC has launched special training for 125 depot managers across the state to curb technical lapses, financial irregularities and revenue losses. It runs in four batches from November 10 to 20. The first batch of 30 attended at the Vijayawada head office. Joint MD M. Siva Prasad said protecting revenue, transparency and accountability are key.",
-    "pts": [
-     "Training in four batches between November 10 and 20",
-     "First batch has 30 depot managers",
-     "Lessons cover accounts, operations, IT and more"
-    ],
-    "why": "It concerns protecting RTC revenue and transparency in bus services.",
-    "cat": "AP · RTC",
-    "statl": "Depot managers in special training"
-   },
-   "hi": {
-    "h": "राजस्व नुकसान रोकने के लिए APSRTC ने 125 डिपो मैनेजरों को दिया प्रशिक्षण",
-    "p": "तकनीकी खामियों, वित्तीय अनियमितताओं और राजस्व नुकसान को रोकने के लिए APSRTC ने राज्यभर के 125 डिपो मैनेजरों के लिए विशेष प्रशिक्षण शुरू किया है। यह 10 से 20 नवंबर तक चार बैचों में होगा। विजयवाड़ा मुख्यालय में पहले बैच में 30 लोग शामिल हुए। संयुक्त एमडी एम. शिव प्रसाद ने राजस्व सुरक्षा, पारदर्शिता और जवाबदेही को अहम बताया।",
-    "pts": [
-     "10 से 20 नवंबर के बीच चार बैचों में प्रशिक्षण",
-     "पहले बैच में 30 डिपो मैनेजर",
-     "अकाउंट्स, ऑपरेशंस, आईटी आदि विषय शामिल"
-    ],
-    "why": "यह आरटीसी के राजस्व की सुरक्षा और बस सेवाओं में पारदर्शिता से जुड़ा है।",
-    "cat": "आंध्र प्रदेश · आरटीसी",
-    "statl": "डिपो मैनेजरों को विशेष प्रशिक्षण"
-   },
-   "d": "11.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఉద్యోగ సంఘం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "3",
-   "statl": "కొత్త ఆఫీస్ బేరర్ల ఎన్నిక",
-   "h": "ఎక్సైజ్ గెజిటెడ్ అధికారుల సంఘం అధ్యక్షుడిగా జె. హరికిషన్",
-   "p": "తెలంగాణ ఎక్సైజ్ శాఖ గెజిటెడ్ అధికారుల సంఘం అధ్యక్షుడిగా సైబరాబాద్ డీసీ జె. హరికిషన్ ఎన్నికయ్యారు. హైదరాబాద్‌లోని ఎక్సైజ్ భవన్‌లో మంగళవారం ఎన్నికలు జరిగాయి. ప్రధాన కార్యదర్శిగా హనుమంతరావు (ఈఎస్, మల్కాజిగిరి), కోశాధికారిగా డి. శ్రీనివాస్ (ఏసీ, గ్రేటర్ హైదరాబాద్) ఎన్నికయ్యారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/j-harikishan-elected-president-of-telangana-excise-gazetted-officers-association-2557299",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "ఎక్సైజ్ భవన్, హైదరాబాద్",
-   "pts": [
-    "అధ్యక్షుడిగా సైబరాబాద్ డీసీ జె. హరికిషన్",
-    "ప్రధాన కార్యదర్శిగా హనుమంతరావు",
-    "కోశాధికారిగా డి. శ్రీనివాస్"
-   ],
-   "why": "ఎక్సైజ్ శాఖ అధికారుల సమస్యలను ఈ సంఘం ప్రభుత్వం ముందు ఉంచుతుంది.",
-   "pub": "2026-11-11T03:07+05:30",
-   "en": {
-    "h": "J. Harikishan elected president of Excise Gazetted Officers Association",
-    "p": "Cyberabad DC J. Harikishan was elected president of the Telangana Excise Department Gazetted Officers Association. Elections were held on Tuesday at Excise Bhavan in Hyderabad. Hanumantha Rao (ES, Malkajgiri) was elected general secretary and D. Srinivas (AC, Greater Hyderabad) treasurer.",
-    "pts": [
-     "Cyberabad DC J. Harikishan elected president",
-     "Hanumantha Rao is general secretary",
-     "D. Srinivas is treasurer"
-    ],
-    "why": "The association takes excise officers' issues to the government.",
-    "cat": "Telangana · Employees' body",
-    "statl": "New office-bearers elected"
-   },
-   "hi": {
-    "h": "जे. हरिकिशन एक्साइज गजटेड अधिकारी संघ के अध्यक्ष चुने गए",
-    "p": "साइबराबाद डीसी जे. हरिकिशन तेलंगाना आबकारी विभाग गजटेड अधिकारी संघ के अध्यक्ष चुने गए। मंगलवार को हैदराबाद के एक्साइज भवन में चुनाव हुए। हनुमंत राव (ईएस, मलकाजगिरी) महासचिव और डी. श्रीनिवास (एसी, ग्रेटर हैदराबाद) कोषाध्यक्ष चुने गए।",
-    "pts": [
-     "साइबराबाद डीसी जे. हरिकिशन अध्यक्ष",
-     "हनुमंत राव महासचिव",
-     "डी. श्रीनिवास कोषाध्यक्ष"
-    ],
-    "why": "यह संघ आबकारी अधिकारियों के मुद्दे सरकार के सामने रखता है।",
-    "cat": "तेलंगाना · कर्मचारी संघ",
-    "statl": "नए पदाधिकारी चुने गए"
-   },
-   "d": "11.11.2026",
-   "t": "09:05"
-  },
-  {
-   "cat": "తెలంగాణ · పరిశ్రమలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "−38.5%",
-   "statl": "2024-25లో తగ్గిన ఉద్యోగాలు (TGIPASS)",
-   "h": "రాష్ట్రంలో పరిశ్రమల వృద్ధి మందగింపు: ఉద్యోగాలు 38.5% తగ్గాయని కథనం",
-   "p": "TGIPASS గణాంకాల ఆధారంగా రాష్ట్రంలో పారిశ్రామిక వృద్ధి తగ్గిందని నమస్తే తెలంగాణ కథనం పేర్కొంది. 2023-24తో పోలిస్తే 2024-25లో ఉద్యోగాలు 38.5% తగ్గి 49,523కు, పెట్టుబడులు 52.5% తగ్గి రూ.11,719.90 కోట్లకు చేరాయని తెలిపింది. 2025-26లో యూనిట్లు 7.7%, ఉద్యోగాలు 3% పెరిగాయి. సుమారు 1,152 ప్రతిపాదనలు పెండింగ్‌లో ఉన్నాయి. పెట్టుబడుల ఒప్పందాలు అతిశయోక్తి అని ప్రతిపక్షాల ఆరోపణ; కథనంలో ప్రభుత్వ స్పందన లేదు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-industrial-growth-slows-as-job-opportunities-drop-by-38-5-2557197",
-   "sec": [
-    "telangana",
-    "business",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T08:02+05:30",
-   "pts": [
-    "2024-25లో ఉద్యోగాలు 49,523కు తగ్గుదల",
-    "2025-26లో ఉద్యోగాలు 3% పెరిగి 51,005",
-    "1,152 ప్రతిపాదనలు ఇంకా పెండింగ్‌లో"
-   ],
-   "why": "రాష్ట్రంలో కొత్త ఉద్యోగాలు, పెట్టుబడుల పరిస్థితిని ఈ గణాంకాలు చూపిస్తున్నాయి.",
-   "en": {
-    "h": "Industrial growth slows in Telangana; jobs fell 38.5%, says report",
-    "p": "Industrial growth in the state has slowed, according to a Namasthe Telangana report based on TGIPASS figures. Compared with 2023-24, jobs fell 38.5% to 49,523 in 2024-25 and investment fell 52.5% to Rs 11,719.90 crore, it said. In 2025-26, units rose 7.7% and jobs 3%. About 1,152 proposals are pending. Opposition parties allege investment agreements were exaggerated; the report carries no government response.",
-    "pts": [
-     "Jobs fell to 49,523 in 2024-25",
-     "Jobs rose 3% to 51,005 in 2025-26",
-     "1,152 proposals still pending"
-    ],
-    "why": "The figures show the state of new jobs and investment in Telangana.",
-    "cat": "Telangana · Industry",
-    "statl": "Fall in jobs in 2024-25 (TGIPASS)"
-   },
-   "hi": {
-    "h": "तेलंगाना में औद्योगिक विकास धीमा: नौकरियां 38.5% घटीं, रिपोर्ट",
-    "p": "नमस्ते तेलंगाना की TGIPASS आंकड़ों पर आधारित रिपोर्ट के अनुसार राज्य में औद्योगिक विकास धीमा हुआ है। 2023-24 की तुलना में 2024-25 में नौकरियां 38.5% घटकर 49,523 और निवेश 52.5% घटकर 11,719.90 करोड़ रुपये रह गया। 2025-26 में इकाइयां 7.7% और नौकरियां 3% बढ़ीं। करीब 1,152 प्रस्ताव लंबित हैं। विपक्ष का आरोप है कि निवेश समझौते बढ़ा-चढ़ाकर बताए गए; रिपोर्ट में सरकार का जवाब नहीं है।",
-    "pts": [
-     "2024-25 में नौकरियां घटकर 49,523",
-     "2025-26 में नौकरियां 3% बढ़कर 51,005",
-     "1,152 प्रस्ताव अभी लंबित"
-    ],
-    "why": "ये आंकड़े राज्य में नई नौकरियों और निवेश की स्थिति दिखाते हैं।",
-    "cat": "तेलंगाना · उद्योग",
-    "statl": "2024-25 में घटी नौकरियां (TGIPASS)"
-   },
-   "d": "11.11.2026",
-   "t": "08:35"
   }
  ]
 }
