@@ -1,8 +1,508 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 113,
+ "count": 123,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2 నెలలు",
+   "statl": "ప్రణాళికతో దాడి చేశాడని ఆరోపణ",
+   "h": "బంజారాహిల్స్‌లో పాత కక్షతో స్నేహితుడి హత్య ఆరోపణ: యువకుడి అరెస్ట్",
+   "p": "హైదరాబాద్ బంజారాహిల్స్‌లో నవంబర్ 8న 28 ఏళ్ల యువకుడిని కత్తితో పొడిచి చంపాడన్న ఆరోపణపై 24 ఏళ్ల యువకుడిని పోలీసులు అరెస్ట్ చేశారు. ఇద్దరి మధ్య పాత గొడవ ఉందని, నిందితుడు సుమారు రెండు నెలలు ప్రణాళిక వేసి ఆన్‌లైన్‌లో కత్తి కొన్నాడని సియాసత్ కథనం పేర్కొంది. దాడి తర్వాత అతను పోలీస్ స్టేషన్‌లో లొంగిపోయాడు. కేసు నమోదు చేసి రిమాండ్‌కు పంపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/cold-blooded-murder-in-hyderabad-man-kills-friend-over-old-grudge-3574206/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బంజారాహిల్స్",
+   "pts": [
+    "నవంబర్ 8న సాగర్ సొసైటీ జంక్షన్ సమీపంలో ఘటన",
+    "నిందితుడు పోలీస్ స్టేషన్‌లో లొంగిపోయాడు",
+    "నిందితుడిపై గతంలోనూ కేసులు ఉన్నాయని కథనం"
+   ],
+   "why": "నగరంలో పాత కక్షలతో జరుగుతున్న హింసపై పోలీసుల నిఘా అవసరాన్ని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "pub": "2026-11-11T15:31+05:30",
+   "en": {
+    "h": "Man held for allegedly killing friend over old grudge in Banjara Hills",
+    "p": "Police in Banjara Hills, Hyderabad, arrested a 24-year-old man for allegedly stabbing a 28-year-old to death on November 8. The two had an earlier dispute, and the accused allegedly planned the attack for about two months and bought a knife online, Siasat reported. He surrendered at the police station after the attack. A case was registered and he was sent to remand.",
+    "pts": [
+     "Incident near Sagar Society junction on November 8",
+     "Accused surrendered at the police station",
+     "Report says the accused already faced earlier cases"
+    ],
+    "why": "The incident highlights the need for police vigilance over violence linked to old grudges in the city.",
+    "cat": "Hyderabad · Crime",
+    "statl": "Attack allegedly planned"
+   },
+   "hi": {
+    "h": "बंजारा हिल्स में पुरानी रंजिश में दोस्त की हत्या का आरोप: युवक गिरफ्तार",
+    "p": "हैदराबाद के बंजारा हिल्स में 8 नवंबर को 28 वर्षीय युवक की चाकू मारकर हत्या करने के आरोप में पुलिस ने 24 वर्षीय युवक को गिरफ्तार किया। सियासत के अनुसार दोनों में पुराना विवाद था और आरोपी ने करीब दो महीने योजना बनाकर ऑनलाइन चाकू खरीदा। हमले के बाद उसने थाने में आत्मसमर्पण किया। मामला दर्ज कर उसे रिमांड पर भेजा गया।",
+    "pts": [
+     "8 नवंबर को सागर सोसाइटी जंक्शन के पास घटना",
+     "आरोपी ने थाने में आत्मसमर्पण किया",
+     "रिपोर्ट के अनुसार आरोपी पर पहले से मामले दर्ज"
+    ],
+    "why": "यह घटना शहर में पुरानी रंजिश से जुड़ी हिंसा पर पुलिस निगरानी की जरूरत दिखाती है।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "योजना बनाकर हमले का आरोप"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "భద్రాద్రి · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "20",
+   "statl": "గ్రామానికి మంజూరైన ఇంకుడు గుంతలు",
+   "h": "బూర్గంపహాడ్ మండలంలో జలసిరి: ఇంకుడు గుంతలతో భూగర్భ జలాల పెంపు",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లా బూర్గంపహాడ్ మండలం రెడ్డిపాలెం గ్రామంలో రాష్ట్ర ప్రభుత్వ జలసిరి కార్యక్రమం కింద ఇంకుడు గుంతల పనులు బుధవారం ప్రారంభమయ్యాయి. గ్రామానికి 20 ఇంకుడు గుంతలు మంజూరయ్యాయని ఎంపీడీవో తెలిపారు. వర్షపు నీరు వృథా కాకుండా భూగర్భ జలాలు పెంచడమే లక్ష్యమని, ప్రతి ఇంటికీ ఇంకుడు గుంత నిర్మించుకోవాలని ఆయన కోరినట్లు నమస్తే తెలంగాణ పేర్కొంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/groundwater-levels-increase-with-the-construction-of-indus-pits-2557540",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "బూర్గంపహాడ్",
+   "pts": [
+    "సర్పంచ్ ఆధ్వర్యంలో పనులు ప్రారంభం",
+    "గ్రామానికి 20 ఇంకుడు గుంతలు మంజూరు",
+    "వర్షపు నీటిని నిల్వ చేసి నీటి కొరత నివారణ లక్ష్యం"
+   ],
+   "why": "ఇంకుడు గుంతలతో గ్రామాల్లో భవిష్యత్తు నీటి కొరత తగ్గే అవకాశం ఉంది.",
+   "pub": "2026-11-11T15:25+05:30",
+   "en": {
+    "h": "Jalasiri in Burgampahad mandal: soak pits to raise groundwater",
+    "p": "Work on soak pits under the state government's Jalasiri programme began on Wednesday in Reddipalem village of Burgampahad mandal, Bhadradri Kothagudem district. The MPDO said 20 soak pits were sanctioned for the village. The aim is to stop rainwater going waste and recharge groundwater, and he urged every household to build a soak pit, Namasthe Telangana reported.",
+    "pts": [
+     "Work began under the sarpanch's leadership",
+     "20 soak pits sanctioned for the village",
+     "Aim is to store rainwater and prevent shortages"
+    ],
+    "why": "Soak pits can help reduce future water shortages in villages.",
+    "cat": "Bhadradri · Water",
+    "statl": "Soak pits sanctioned for the village"
+   },
+   "hi": {
+    "h": "बूर्गमपहाड मंडल में जलसिरी: सोख्ता गड्ढों से भूजल बढ़ाने की पहल",
+    "p": "भद्राद्री कोत्तागुडेम जिले के बूर्गमपहाड मंडल के रेड्डीपालेम गांव में राज्य सरकार के जलसिरी कार्यक्रम के तहत बुधवार को सोख्ता गड्ढों का काम शुरू हुआ। एमपीडीओ ने बताया कि गांव के लिए 20 सोख्ता गड्ढे मंजूर हुए हैं। नमस्ते तेलंगाना के अनुसार उन्होंने कहा कि लक्ष्य बारिश का पानी बचाकर भूजल बढ़ाना है और हर घर को सोख्ता गड्ढा बनाना चाहिए।",
+    "pts": [
+     "सरपंच के नेतृत्व में काम शुरू",
+     "गांव के लिए 20 सोख्ता गड्ढे मंजूर",
+     "बारिश का पानी सहेजकर कमी रोकना लक्ष्य"
+    ],
+    "why": "सोख्ता गड्ढों से गांवों में भविष्य की पानी की कमी घट सकती है।",
+    "cat": "भद्राद्री · पानी",
+    "statl": "गांव के लिए मंजूर सोख्ता गड्ढे"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "కరీంనగర్ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "50",
+   "statl": "ప్రభుత్వ పాఠశాలలకు కుర్చీలు",
+   "h": "బొమ్మనపల్లి ప్రభుత్వ పాఠశాలలకు మైక్ సెట్, 50 కుర్చీల వితరణ",
+   "p": "కరీంనగర్ జిల్లా చిగురుమామిడి మండలం బొమ్మనపల్లిలో దివంగత మాజీ ఎమ్మెల్యే దేశిని చిన్నమల్లయ్య వర్ధంతి సందర్భంగా ఆయన కుటుంబ సభ్యులు గ్రామంలోని ప్రభుత్వ పాఠశాలలకు సామగ్రి అందజేశారు. ప్రాథమిక పాఠశాలకు మైక్ సెట్, ట్రాలీ, లాలయ్యపల్లి పాఠశాలకు 30, సంఘం వాడ పాఠశాలకు 20 కుర్చీలు ఇచ్చారని నమస్తే తెలంగాణ తెలిపింది. విద్యార్థులకు మిఠాయిలు, పండ్లు పంచారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/donation-of-a-mic-set-and-50-chairs-to-government-schools-in-bommanapalli-2557573",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "loc": "బొమ్మనపల్లి",
+   "pts": [
+    "మాజీ ఎమ్మెల్యే వర్ధంతి సందర్భంగా వితరణ",
+    "మూడు పాఠశాలలకు మొత్తం 50 కుర్చీలు",
+    "ప్రాథమిక పాఠశాలకు మైక్ సెట్, ట్రాలీ"
+   ],
+   "why": "గ్రామీణ ప్రభుత్వ పాఠశాలల విద్యార్థులకు సౌకర్యాలు మెరుగుపడతాయి.",
+   "pub": "2026-11-11T15:21+05:30",
+   "en": {
+    "h": "Mic set and 50 chairs donated to Bommanapalli government schools",
+    "p": "On the death anniversary of late former MLA Deshini Chinna Mallaiah, his family donated materials to government schools in Bommanapalli, Chigurumamidi mandal, Karimnagar district. The primary school got a mic set and trolley, Lalayyapalli school 30 chairs and Sangham Wada school 20 chairs, Namasthe Telangana reported. Sweets and fruit were given to students.",
+    "pts": [
+     "Donation on former MLA's death anniversary",
+     "50 chairs in total for three schools",
+     "Mic set and trolley for the primary school"
+    ],
+    "why": "Facilities improve for students in rural government schools.",
+    "cat": "Karimnagar · Education",
+    "statl": "Chairs for government schools"
+   },
+   "hi": {
+    "h": "बोम्मनपल्ली के सरकारी स्कूलों को माइक सेट और 50 कुर्सियां दान",
+    "p": "करीमनगर जिले के चिगुरुमामिडी मंडल के बोम्मनपल्ली में दिवंगत पूर्व विधायक देशिनी चिन्नमल्लय्या की पुण्यतिथि पर उनके परिवार ने गांव के सरकारी स्कूलों को सामान दिया। नमस्ते तेलंगाना के अनुसार प्राथमिक स्कूल को माइक सेट और ट्रॉली, लालय्यापल्ली स्कूल को 30 और संघम वाड़ा स्कूल को 20 कुर्सियां दी गईं। छात्रों को मिठाई और फल बांटे गए।",
+    "pts": [
+     "पूर्व विधायक की पुण्यतिथि पर दान",
+     "तीन स्कूलों को कुल 50 कुर्सियां",
+     "प्राथमिक स्कूल को माइक सेट और ट्रॉली"
+    ],
+    "why": "ग्रामीण सरकारी स्कूलों के छात्रों के लिए सुविधाएं बेहतर होंगी।",
+    "cat": "करीमनगर · शिक्षा",
+    "statl": "सरकारी स्कूलों को कुर्सियां"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "జమ్మూకశ్మీర్ · భద్రత",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "3",
+   "statl": "గాయపడిన సీఆర్పీఎఫ్ జవాన్లు",
+   "h": "కుల్గాంలో సీఆర్పీఎఫ్ శిబిరంపై ఉగ్రవాదుల కాల్పులు: ముగ్గురు జవాన్లకు గాయాలు",
+   "p": "జమ్మూకశ్మీర్‌లోని కుల్గాం జిల్లాలో సీఆర్పీఎఫ్ శిబిరంపై బుధవారం ఉగ్రవాదులు కాల్పులు జరిపారు. ఈ దాడిలో ముగ్గురు సీఆర్పీఎఫ్ సిబ్బంది గాయపడ్డారని అధికారులు తెలిపినట్లు ఈటీవీ భారత్ పేర్కొంది. దాడి తర్వాత భద్రతా బలగాలు ఆ ప్రాంతాన్ని అధీనంలోకి తీసుకుని దుండగుల కోసం గాలింపు చేపట్టాయి. మరిన్ని వివరాలు తెలియాల్సి ఉంది.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/bharat/terrorists-fire-at-crpf-camp-in-kashmirs-kulgam-area-three-crpf-personnel-injured-ten26111103548",
+   "sec": [
+    "india"
+   ],
+   "st": "JK",
+   "place": "st-JK",
+   "pts": [
+    "కుల్గాం జిల్లాలో సీఆర్పీఎఫ్ శిబిరంపై దాడి",
+    "ముగ్గురు జవాన్లకు గాయాలని అధికారులు",
+    "ఆ ప్రాంతంలో భద్రతా బలగాల గాలింపు"
+   ],
+   "why": "కశ్మీర్‌లో భద్రతా బలగాలపై దాడులు దేశ భద్రతకు సంబంధించిన అంశం.",
+   "pub": "2026-11-11T15:13+05:30",
+   "en": {
+    "h": "Terrorists fire at CRPF camp in Kulgam; three personnel injured",
+    "p": "Terrorists fired at a CRPF camp in Kulgam district of Jammu and Kashmir on Wednesday. Officials said three CRPF personnel were injured in the attack, ETV Bharat reported. Security forces took control of the area after the attack and launched a search for the attackers. More details are awaited.",
+    "pts": [
+     "Attack on CRPF camp in Kulgam district",
+     "Officials say three personnel injured",
+     "Security forces searching the area"
+    ],
+    "why": "Attacks on security forces in Kashmir are a matter of national security.",
+    "cat": "Jammu & Kashmir · Security",
+    "statl": "CRPF personnel injured"
+   },
+   "hi": {
+    "h": "कुलगाम में सीआरपीएफ कैंप पर आतंकियों की गोलीबारी: तीन जवान घायल",
+    "p": "जम्मू-कश्मीर के कुलगाम जिले में बुधवार को आतंकियों ने सीआरपीएफ कैंप पर गोलीबारी की। ईटीवी भारत के अनुसार अधिकारियों ने बताया कि हमले में सीआरपीएफ के तीन जवान घायल हुए। हमले के बाद सुरक्षा बलों ने इलाके को घेरकर हमलावरों की तलाश शुरू की। और जानकारी का इंतजार है।",
+    "pts": [
+     "कुलगाम जिले में सीआरपीएफ कैंप पर हमला",
+     "अधिकारियों के अनुसार तीन जवान घायल",
+     "सुरक्षा बलों का इलाके में तलाशी अभियान"
+    ],
+    "why": "कश्मीर में सुरक्षा बलों पर हमले राष्ट्रीय सुरक्षा का विषय हैं।",
+    "cat": "जम्मू-कश्मीर · सुरक्षा",
+    "statl": "घायल सीआरपीएफ जवान"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "పెద్దపల్లి · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "25",
+   "statl": "పుస్తకంలోని ముఖ్య అంశాలు",
+   "h": "పరఖ్ జాతీయ మూల్యాంకనంలో రాష్ట్రం ముందుండాలి: పెద్దపల్లి కలెక్టర్",
+   "p": "జాతీయ స్థాయి పరఖ్ మూల్యాంకనంలో తెలంగాణ ఉన్నత స్థానం సాధించేలా ఉపాధ్యాయులు కృషి చేయాలని పెద్దపల్లి కలెక్టర్ కోయ శ్రీహర్ష సూచించారు. ధర్మారం మండలం రాచపల్లి ప్రాథమిక పాఠశాల ప్రధానోపాధ్యాయుడు రాసిన 'పరఖ్ అభ్యాస దీపిక' పుస్తకాన్ని కలెక్టరేట్‌లో ఆవిష్కరించారు. విద్యార్థులకు కష్టంగా ఉండే 25 అంశాలపై ప్రశ్నలు ఇందులో ఉన్నాయని నమస్తే తెలంగాణ తెలిపింది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/teachers-should-strive-to-ensure-that-the-state-of-telangana-achieves-a-high-ranking-in-the-national-assessment-peddapalli-collector-koya-sreeharsha-2557541",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "రాచపల్లి",
+   "pts": [
+    "కలెక్టరేట్‌లో పరఖ్ అభ్యాస దీపిక ఆవిష్కరణ",
+    "ప్రధానోపాధ్యాయుడు సొంత ఖర్చుతో ముద్రించి విద్యార్థులకు అందజేత",
+    "వినూత్న బోధన, ముందస్తు ప్రణాళిక పాటించాలని కలెక్టర్ సూచన"
+   ],
+   "why": "పరఖ్ మూల్యాంకనంలో రాష్ట్ర విద్యార్థుల ప్రదర్శన మెరుగుపడేందుకు ఇలాంటి సన్నద్ధత ఉపయోగపడుతుంది.",
+   "pub": "2026-11-11T14:44+05:30",
+   "en": {
+    "h": "State must do well in PARAKH national assessment: Peddapalli Collector",
+    "p": "Peddapalli Collector Koya Sreeharsha urged teachers to work so Telangana ranks high in the national PARAKH assessment. At the Collectorate he released 'Parakh Abhyasana Deepika', a book written by the headmaster of Rachapalli Primary School in Dharmaram mandal. It has questions on 25 topics students find difficult, Namasthe Telangana reported.",
+    "pts": [
+     "PARAKH practice book released at the Collectorate",
+     "Headmaster printed it at his own cost for students",
+     "Collector urges innovative teaching and early planning"
+    ],
+    "why": "Such preparation can help improve state students' performance in the PARAKH assessment.",
+    "cat": "Peddapalli · Education",
+    "statl": "Key topics in the book"
+   },
+   "hi": {
+    "h": "परख राष्ट्रीय मूल्यांकन में राज्य आगे रहे: पेद्दापल्ली कलेक्टर",
+    "p": "पेद्दापल्ली कलेक्टर कोया श्रीहर्ष ने शिक्षकों से कहा कि वे राष्ट्रीय परख मूल्यांकन में तेलंगाना को ऊंचा स्थान दिलाने के लिए काम करें। उन्होंने कलेक्ट्रेट में धर्मारम मंडल के राचपल्ली प्राथमिक स्कूल के प्रधानाध्यापक की लिखी पुस्तक 'परख अभ्यास दीपिका' का विमोचन किया। नमस्ते तेलंगाना के अनुसार इसमें छात्रों के लिए कठिन 25 विषयों पर प्रश्न हैं।",
+    "pts": [
+     "कलेक्ट्रेट में परख अभ्यास पुस्तक का विमोचन",
+     "प्रधानाध्यापक ने अपने खर्च से छपवाकर छात्रों को दी",
+     "कलेक्टर ने नवीन शिक्षण और पहले से योजना की सलाह दी"
+    ],
+    "why": "ऐसी तैयारी से परख मूल्यांकन में राज्य के छात्रों का प्रदर्शन सुधर सकता है।",
+    "cat": "पेद्दापल्ली · शिक्षा",
+    "statl": "पुस्तक के मुख्य विषय"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "నవజాత",
+   "statl": "గోనె సంచిలో దొరికిన శిశువు",
+   "h": "విశాఖలో కాలువ వద్ద గోనె సంచిలో నవజాత శిశువు: ఆసుపత్రికి తరలింపు",
+   "p": "విశాఖపట్నం మద్దిలపాలెం పిఠాపురం కాలనీ సమీపంలో కాలువ వద్ద గోనె సంచిలో వదిలేసిన నవజాత శిశువు ఏడుపు విని స్థానికులు పోలీసులకు సమాచారం ఇచ్చారు. పోలీసులు చేరుకుని శిశువును చికిత్స కోసం ఆసుపత్రికి తరలించారని డెక్కన్ క్రానికల్ పేర్కొంది. శిశువు ఆరోగ్య పరిస్థితి, ఘటన వివరాలు ఇంకా తెలియాల్సి ఉంది.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/newborn-baby-found-crying-in-gunny-bag-in-visakhapatnam-2003455",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "మద్దిలపాలెం",
+   "pts": [
+    "పిఠాపురం కాలనీ సమీపంలో కాలువ వద్ద ఘటన",
+    "శిశువు ఏడుపు విని స్థానికుల సమాచారం",
+    "పోలీసులు శిశువును ఆసుపత్రికి తరలించారు"
+   ],
+   "why": "స్థానికుల అప్రమత్తతతో శిశువుకు సకాలంలో చికిత్స అందింది.",
+   "pub": "2026-11-11T14:29+05:30",
+   "en": {
+    "h": "Newborn found in gunny bag near drain in Visakhapatnam, shifted to hospital",
+    "p": "Locals near Pithapuram Colony in Maddilapalem, Visakhapatnam, heard a newborn crying inside a gunny bag left near a drain and alerted police. Police reached the spot and shifted the baby to hospital for treatment, Deccan Chronicle reported. Details of the baby's condition and the incident are awaited.",
+    "pts": [
+     "Found near a drain close to Pithapuram Colony",
+     "Locals heard the baby crying and alerted police",
+     "Police shifted the baby to hospital"
+    ],
+    "why": "Alert locals helped the baby get timely treatment.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Baby found in gunny bag"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम में नाले के पास बोरे में नवजात मिला, अस्पताल भेजा गया",
+    "p": "विशाखापत्तनम के मद्दिलापालेम में पिठापुरम कॉलोनी के पास नाले के किनारे बोरे में छोड़े गए नवजात के रोने की आवाज सुनकर स्थानीय लोगों ने पुलिस को सूचना दी। डेक्कन क्रॉनिकल के अनुसार पुलिस ने मौके पर पहुंचकर बच्चे को इलाज के लिए अस्पताल भेजा। बच्चे की हालत और घटना का ब्योरा अभी आना बाकी है।",
+    "pts": [
+     "पिठापुरम कॉलोनी के पास नाले के किनारे घटना",
+     "रोने की आवाज सुनकर लोगों ने पुलिस को बताया",
+     "पुलिस ने बच्चे को अस्पताल पहुंचाया"
+    ],
+    "why": "स्थानीय लोगों की सतर्कता से बच्चे को समय पर इलाज मिला।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "बोरे में मिला नवजात"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "తెలంగాణ · మాదకద్రవ్యాలు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹100 కోట్లు",
+   "statl": "2024 నుంచి జప్తు చేసిన ఆస్తులు",
+   "h": "మత్తు ముఠాలపై ఈగల్ వరుస దాడులు: ₹100 కోట్ల ఆస్తుల జప్తు",
+   "p": "తెలంగాణ ఈగల్ బృందం గ్రాము మత్తుపదార్థం దొరికినా సరఫరాదారు నుంచి కొనుగోలుదారు వరకు దర్యాప్తు చేస్తోందని ఈటీవీ భారత్ కథనం. బాలానగర్‌లో 10 గ్రాముల గంజాయి కేసు ఒడిశా వరకు వెళ్లి ఐదుగురి అరెస్ట్‌కు దారితీసిందని, మొత్తం 240 మందిపై కేసులు నమోదయ్యాయని పేర్కొంది. 2024 నుంచి సేఫ్మా చట్టం కింద ₹100 కోట్ల ఆస్తులు జప్తు చేశామని అధికారులు తెలిపారు.",
+   "src": "ETV Bharat",
+   "url": "https://etvbharat.com/te/state/telangana-eagle-force-conducting-a-series-of-back-to-back-raids-tgs26111102035",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఈ ఏడాది సుమారు 800 మంది మత్తు వినియోగించినట్లు గుర్తింపు",
+    "171 మంది నిందితుల ఆస్తుల వివరాల కోసం లేఖలు",
+    "ఢిల్లీ, ముంబై, ఒడిశా, గోవా, బెంగళూరులోనూ ఆపరేషన్లు"
+   ],
+   "why": "మత్తుపదార్థాల సరఫరా గొలుసును ఛేదించడం యువత భద్రతకు కీలకం.",
+   "pub": "2026-11-11T14:09+05:30",
+   "en": {
+    "h": "EAGLE's back-to-back raids on drug gangs; ₹100 crore assets seized",
+    "p": "Telangana's EAGLE force traces the source, supplier, seller and buyer even when a gram of drugs is found, ETV Bharat reported. A 10-gram ganja case in Balanagar led to Odisha and five arrests, with 240 people booked in all. Officials said assets worth ₹100 crore have been seized under the SAFEMA law since 2024.",
+    "pts": [
+     "About 800 people found to have used drugs this year",
+     "Letters sent seeking asset details of 171 accused",
+     "Operations also in Delhi, Mumbai, Odisha, Goa, Bengaluru"
+    ],
+    "why": "Breaking the drug supply chain is key to the safety of young people.",
+    "cat": "Telangana · Drugs",
+    "statl": "Assets seized since 2024"
+   },
+   "hi": {
+    "h": "नशा गिरोहों पर ईगल के लगातार छापे: ₹100 करोड़ की संपत्ति जब्त",
+    "p": "ईटीवी भारत के अनुसार तेलंगाना की ईगल टीम एक ग्राम नशीला पदार्थ मिलने पर भी स्रोत, सप्लायर, विक्रेता और खरीदार तक जांच करती है। बालानगर में 10 ग्राम गांजे का मामला ओडिशा तक पहुंचा और पांच गिरफ्तारियां हुईं, कुल 240 लोगों पर मामले दर्ज हुए। अधिकारियों ने कहा कि 2024 से सेफमा कानून के तहत ₹100 करोड़ की संपत्ति जब्त की गई।",
+    "pts": [
+     "इस साल करीब 800 लोगों के नशा करने की पहचान",
+     "171 आरोपियों की संपत्ति के ब्योरे के लिए पत्र",
+     "दिल्ली, मुंबई, ओडिशा, गोवा, बेंगलुरु में भी ऑपरेशन"
+    ],
+    "why": "नशे की सप्लाई चेन तोड़ना युवाओं की सुरक्षा के लिए अहम है।",
+    "cat": "तेलंगाना · नशा",
+    "statl": "2024 से जब्त संपत्ति"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "తెలంగాణ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "3.90 లక్షల ఎకరాలు",
+   "statl": "గతేడాదితో పోలిస్తే తగ్గిన వరి",
+   "h": "యాసంగిలో వరి సాగు తగ్గుదల: ఆరుతడి పంటల వైపు రైతుల మొగ్గు",
+   "p": "ఎల్‌నినో ప్రభావంతో వర్షపాతం లోటు, జలాశయాల్లో నీరు తగ్గడంతో యాసంగిలో వరి సాగుపై తీవ్ర ప్రభావం పడిందని ఈటీవీ భారత్ కథనం. వ్యవసాయ శాఖ నివేదిక ప్రకారం గతేడాది ఈ సమయానికి 5.60 లక్షల ఎకరాలతో పోలిస్తే వరి 3.90 లక్షల ఎకరాలు తక్కువగా ఉంది. ఇప్పటికే 1.70 లక్షల ఎకరాల్లో ఆరుతడి పంటలు వేశారు.",
+   "src": "ETV Bharat",
+   "url": "https://etvbharat.com/te/state/farmers-interest-on-wet-crops-the-decline-in-rice-cultivation-during-the-rabi-season-tgs26111101356",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నూనెగింజలు 66,532 ఎకరాల్లో, పప్పుధాన్యాలు 57,337 ఎకరాల్లో",
+    "మొక్కజొన్న 21,044 ఎకరాలు, జొన్న 12,124 ఎకరాలు",
+    "కాలువ నీరు అందకపోవచ్చని ప్రభుత్వ హెచ్చరిక"
+   ],
+   "why": "వరి సాగు తగ్గడం రైతుల ఆదాయం, రాష్ట్ర ధాన్యం దిగుబడిపై ప్రభావం చూపవచ్చు.",
+   "pub": "2026-11-11T12:59+05:30",
+   "en": {
+    "h": "Paddy sowing falls in Yasangi season; farmers turn to dry crops",
+    "p": "With El Nino causing a rain deficit and low reservoir levels, Yasangi paddy cultivation has been hit hard, ETV Bharat reported. According to the Agriculture Department's report, paddy is 3.90 lakh acres lower than last year's 5.60 lakh acres at this time. Dry crops have already been sown on 1.70 lakh acres.",
+    "pts": [
+     "Oilseeds on 66,532 acres, pulses on 57,337 acres",
+     "Maize 21,044 acres, jowar 12,124 acres",
+     "Government warned canal water may not be supplied"
+    ],
+    "why": "Lower paddy sowing may affect farmers' incomes and the state's grain output.",
+    "cat": "Telangana · Agriculture",
+    "statl": "Paddy shortfall vs last year"
+   },
+   "hi": {
+    "h": "यासंगी में धान की बुवाई घटी: किसानों का रुख सूखी फसलों की ओर",
+    "p": "ईटीवी भारत के अनुसार अल नीनो से बारिश की कमी और जलाशयों में कम पानी के कारण यासंगी में धान की खेती पर बड़ा असर पड़ा है। कृषि विभाग की रिपोर्ट के अनुसार पिछले साल इस समय के 5.60 लाख एकड़ की तुलना में धान 3.90 लाख एकड़ कम है। अब तक 1.70 लाख एकड़ में सूखी फसलें बोई गई हैं।",
+    "pts": [
+     "तिलहन 66,532 एकड़, दालें 57,337 एकड़ में",
+     "मक्का 21,044 एकड़, ज्वार 12,124 एकड़",
+     "नहर का पानी न मिलने की सरकारी चेतावनी"
+    ],
+    "why": "धान की कम बुवाई से किसानों की आय और राज्य के अनाज उत्पादन पर असर पड़ सकता है।",
+    "cat": "तेलंगाना · कृषि",
+    "statl": "पिछले साल से कम धान"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "7.20%",
+   "statl": "10 ఏళ్ల బాండ్ రాబడి",
+   "h": "అమెరికా ట్రెజరీ అమ్మకాలతో భారత బాండ్లు బలహీనం: రాబడి 7.20%కి",
+   "p": "అక్టోబర్‌లో అమెరికా ద్రవ్యోల్బణం అంచనాకు మించడంతో ట్రెజరీ బాండ్ల అమ్మకాలు పెరిగి భారత ప్రభుత్వ బాండ్లు బుధవారం బలహీనపడ్డాయని రాయిటర్స్ పేర్కొంది. బెంచ్‌మార్క్ బాండ్ రాబడి సుమారు 5 బేసిస్ పాయింట్లు పెరిగి 7.2005%కి చేరింది. చమురు ధరలు తగ్గినా ఉపశమనం దక్కలేదు. బ్రెంట్ మూడు సెషన్లలో 6 డాలర్లు తగ్గి 92.4 డాలర్లకు చేరింది.",
+   "src": "Reuters",
+   "url": "https://www.brecorder.com/news/40448409/india-bonds-slips-as-treasury-rout-offsets-oil-slide",
+   "sec": [
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "అమెరికా 10 ఏళ్ల రాబడి 4.98%కి పెరుగుదల",
+    "శుక్రవారం ₹34,000 కోట్ల బాండ్ల వేలం",
+    "అక్టోబర్ ద్రవ్యోల్బణం 5.93% ఉండొచ్చని రాయిటర్స్ సర్వే"
+   ],
+   "why": "బాండ్ రాబడులు పెరిగితే రుణాల వడ్డీ రేట్లపై ప్రభావం పడే అవకాశం ఉంది.",
+   "pub": "2026-11-11T12:53+05:30",
+   "en": {
+    "h": "Indian bonds slip as US Treasury selloff offsets oil slide; yield at 7.20%",
+    "p": "Indian government bonds fell on Wednesday as a US Treasury selloff after hotter-than-expected October US inflation outweighed relief from lower oil prices, Reuters reported. The benchmark bond yield rose about 5 basis points to 7.2005%. Brent fell $6 over three sessions to $92.4.",
+    "pts": [
+     "US 10-year yield rises to 4.98%",
+     "₹34,000 crore bond auction on Friday",
+     "Reuters poll sees October inflation at 5.93%"
+    ],
+    "why": "Rising bond yields can affect interest rates on loans.",
+    "cat": "India · Markets",
+    "statl": "10-year bond yield"
+   },
+   "hi": {
+    "h": "अमेरिकी ट्रेजरी बिकवाली से भारतीय बॉन्ड कमजोर: यील्ड 7.20% पर",
+    "p": "रॉयटर्स के अनुसार अक्टूबर में अमेरिकी महंगाई अनुमान से ज्यादा रहने पर ट्रेजरी बॉन्ड में बिकवाली से बुधवार को भारतीय सरकारी बॉन्ड कमजोर हुए, तेल के दाम घटने की राहत भी काम नहीं आई। बेंचमार्क बॉन्ड यील्ड करीब 5 बेसिस पॉइंट बढ़कर 7.2005% पर पहुंची। ब्रेंट तीन सत्रों में 6 डॉलर गिरकर 92.4 डॉलर पर आया।",
+    "pts": [
+     "अमेरिकी 10 साल की यील्ड बढ़कर 4.98%",
+     "शुक्रवार को ₹34,000 करोड़ की बॉन्ड नीलामी",
+     "रॉयटर्स सर्वे: अक्टूबर महंगाई 5.93% संभव"
+    ],
+    "why": "बॉन्ड यील्ड बढ़ने से कर्ज की ब्याज दरों पर असर पड़ सकता है।",
+    "cat": "भारत · बाजार",
+    "statl": "10 साल के बॉन्ड की यील्ड"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "నిషేధం?",
+   "statl": "విద్యాసంస్థల్లో సినిమా ప్రచారాలు",
+   "h": "విద్యాసంస్థల్లో సినిమా ప్రచారాలు, వాణిజ్య కార్యక్రమాల నిషేధంపై ప్రభుత్వ యోచన",
+   "p": "విద్యాసంస్థల్లో సినిమా ప్రచారాలు, వాణిజ్య కార్యక్రమాలను రాష్ట్రవ్యాప్తంగా నిషేధించాలని తెలంగాణ ప్రభుత్వం యోచిస్తోందని ఈటీవీ భారత్ కథనం. అక్టోబర్ 17న నాదర్‌గుల్‌లోని ఓ ప్రైవేట్ ఇంజినీరింగ్ కళాశాలలో దాండియా కార్యక్రమంలో లైటింగ్ నిర్మాణం కూలి ఓ విద్యార్థి మృతి చెందగా 14 మంది గాయపడ్డారు. విద్యార్థుల భద్రతపై ఉన్నత విద్యా మండలి ఛైర్మన్ ముసాయిదా నివేదిక సమర్పించారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/state/telangana-mulls-banning-film-promotions-and-commercial-events-in-educational-institutions-enn26111100908",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "విద్యాసంస్థలు చదువు, క్రీడలకే పరిమితం కావాలని అధికార వర్గాలు",
+    "చిన్న కార్యక్రమాలకు కఠిన భద్రతా నిబంధనలతో అనుమతి అవకాశం",
+    "త్వరలో అధికారిక ఉత్తర్వులు వచ్చే అవకాశం"
+   ],
+   "why": "కళాశాలల్లో పెద్ద కార్యక్రమాల సమయంలో విద్యార్థుల భద్రతకు ఇది సంబంధించినది.",
+   "pub": "2026-11-11T09:33+05:30",
+   "en": {
+    "h": "Telangana mulls ban on film promotions, commercial events in educational institutions",
+    "p": "The Telangana government is considering a statewide ban on film promotions and commercial events in educational institutions, ETV Bharat reported. On October 17, a student died and 14 were injured when a lighting structure collapsed during a Dandiya event at a private engineering college in Nadergul. The Higher Education Council chairman has submitted a draft report on student safety.",
+    "pts": [
+     "Official sources say campuses should be for academics and sports",
+     "Small events may be allowed with strict safety rules",
+     "Official orders expected soon"
+    ],
+    "why": "It concerns students' safety during large events on college campuses.",
+    "cat": "Telangana · Education",
+    "statl": "Film promotions on campuses"
+   },
+   "hi": {
+    "h": "शैक्षणिक संस्थानों में फिल्म प्रचार, व्यावसायिक कार्यक्रमों पर रोक का विचार",
+    "p": "ईटीवी भारत के अनुसार तेलंगाना सरकार शैक्षणिक संस्थानों में फिल्म प्रचार और व्यावसायिक कार्यक्रमों पर राज्यव्यापी रोक पर विचार कर रही है। 17 अक्टूबर को नादरगुल के एक निजी इंजीनियरिंग कॉलेज में डांडिया कार्यक्रम के दौरान लाइटिंग ढांचा गिरने से एक छात्र की मौत हुई और 14 घायल हुए। उच्च शिक्षा परिषद के अध्यक्ष ने छात्र सुरक्षा पर मसौदा रिपोर्ट सौंपी है।",
+    "pts": [
+     "आधिकारिक सूत्र: परिसर केवल पढ़ाई और खेल के लिए",
+     "छोटे कार्यक्रमों को सख्त सुरक्षा नियमों के साथ अनुमति संभव",
+     "जल्द आधिकारिक आदेश आने की उम्मीद"
+    ],
+    "why": "यह कॉलेज परिसरों में बड़े कार्यक्रमों के दौरान छात्रों की सुरक्षा से जुड़ा है।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "परिसरों में फिल्म प्रचार"
+   },
+   "d": "11.11.2026",
+   "t": "15:35"
+  },
   {
    "cat": "ఆహ్వానం · ఆలేరు",
    "col": "--c-gov",
