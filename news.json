@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T15:41:18+05:30",
+ "updated": "2026-11-11T16:11:25+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "భారత్ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹62,370 కోట్లు",
+   "statl": "రబీ ఎరువుల సబ్సిడీ",
+   "h": "రబీ సీజన్‌కు ₹62,370 కోట్ల ఎరువుల సబ్సిడీకి కేంద్ర కేబినెట్ ఆమోదం",
+   "p": "రబీ 2026-27 సీజన్‌లో ఫాస్ఫేట్, పొటాష్ (P&K) ఎరువులకు పోషక ఆధారిత సబ్సిడీ (NBS) రేట్లను కేంద్ర కేబినెట్ బుధవారం ఆమోదించింది. దీనికి సుమారు ₹62,370.02 కోట్లు అవసరమని అంచనా. ఇది గత రబీ బడ్జెట్ ₹37,952.29 కోట్ల కంటే సుమారు ₹24,417.73 కోట్లు ఎక్కువ. డీఏపీ సహా ఎన్‌పీకేఎస్ ఎరువులకు అక్టోబర్ 1, 2026 నుంచి మార్చి 31, 2027 వరకు ఈ రేట్లు వర్తిస్తాయి.",
+   "src": "Business Standard",
+   "url": "https://www.business-standard.com/economy/news/cabinet-approves-62-370-crore-fertiliser-subsidy-for-rabi-2026-27-season-126111100867_1.html",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-11T16:02+05:30",
+   "pts": [
+    "గత రబీ కంటే ₹24,417.73 కోట్లు అధికం",
+    "అక్టోబర్ 1 నుంచి మార్చి 31 వరకు వర్తింపు",
+    "డీఏపీ సహా 28 రకాల P&K ఎరువులకు సబ్సిడీ"
+   ],
+   "why": "రబీ సాగు చేసే తెలుగు రాష్ట్రాల రైతులకు ఎరువులు సబ్సిడీ ధరలకు అందేందుకు ఇది కీలకం.",
+   "en": {
+    "h": "Union Cabinet approves Rs 62,370 crore fertiliser subsidy for rabi season",
+    "p": "The Union Cabinet on Wednesday approved Nutrient Based Subsidy (NBS) rates for phosphatic and potassic (P&K) fertilisers for the rabi 2026-27 season. The estimated requirement is about Rs 62,370.02 crore. This is about Rs 24,417.73 crore more than the Rs 37,952.29 crore budgeted for last rabi. The rates apply to P&K fertilisers including DAP and NPKS grades from October 1, 2026 to March 31, 2027.",
+    "pts": [
+     "Rs 24,417.73 crore more than last rabi",
+     "Applies from October 1 to March 31",
+     "Subsidy on 28 grades of P&K fertilisers including DAP"
+    ],
+    "why": "It matters for rabi farmers in the Telugu states to get fertilisers at subsidised prices.",
+    "cat": "India · Agriculture",
+    "statl": "Rabi fertiliser subsidy"
+   },
+   "hi": {
+    "h": "रबी सीज़न के लिए ₹62,370 करोड़ की उर्वरक सब्सिडी को केंद्रीय कैबिनेट की मंज़ूरी",
+    "p": "केंद्रीय कैबिनेट ने बुधवार को रबी 2026-27 सीज़न के लिए फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर पोषक तत्व आधारित सब्सिडी (NBS) दरों को मंज़ूरी दी। इसके लिए लगभग ₹62,370.02 करोड़ की ज़रूरत का अनुमान है। यह पिछले रबी के ₹37,952.29 करोड़ के बजट से लगभग ₹24,417.73 करोड़ अधिक है। डीएपी और एनपीकेएस सहित उर्वरकों पर ये दरें 1 अक्टूबर 2026 से 31 मार्च 2027 तक लागू होंगी।",
+    "pts": [
+     "पिछले रबी से ₹24,417.73 करोड़ अधिक",
+     "1 अक्टूबर से 31 मार्च तक लागू",
+     "डीएपी सहित 28 प्रकार के P&K उर्वरकों पर सब्सिडी"
+    ],
+    "why": "तेलुगु राज्यों के रबी किसानों को सब्सिडी वाली कीमतों पर उर्वरक मिलने के लिए यह अहम है।",
+    "cat": "भारत · कृषि",
+    "statl": "रबी उर्वरक सब्सिडी"
+   },
+   "d": "11.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ఏపీ · తుపాను సాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "2 జిల్లాలు",
+   "statl": "ప్రకాశం, బాపట్లలో మురసు నష్టంపై సమీక్ష",
+   "h": "మురసు తుపాను బాధిత ప్రతి రైతుకు సాయం: మంత్రి గొట్టిపాటి",
+   "p": "ప్రకాశం, బాపట్ల జిల్లాల్లో మురసు తుపాను ప్రభావంపై మంత్రి గొట్టిపాటి రవికుమార్ అమరావతి సచివాలయంలో విద్యుత్, వ్యవసాయ, ఉద్యాన, ఆర్‌అండ్‌బీ అధికారులతో సమీక్షించారు. ఇళ్లకు విద్యుత్ సరఫరా పునరుద్ధరణ దాదాపు పూర్తయిందని అధికారులు తెలిపారు. వ్యవసాయ కనెక్షన్లకు ప్రాధాన్యం ఇవ్వాలని, వరి, పత్తి, మిర్చి తదితర పంటల వారీగా నష్టం అంచనా వేయాలని, బీమా, ఇన్‌పుట్ సబ్సిడీ త్వరగా అందించాలని మంత్రి ఆదేశించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/ap-minister-gottipati-ravikumar-reviews-cyclone-murasu-damage-in-prakasam-and-bapatla-vk-1575249.html",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T13:24+05:30",
+   "pts": [
+    "ఇళ్లకు విద్యుత్ పునరుద్ధరణ దాదాపు పూర్తి: అధికారులు",
+    "పంటల వారీగా నష్టం అంచనాకు ఆదేశం",
+    "రోడ్ల మరమ్మతులు యుద్ధప్రాతిపదికన చేయాలని సూచన"
+   ],
+   "why": "ప్రకాశం, బాపట్ల జిల్లాల్లో తుపానుతో పంటలు కోల్పోయిన రైతులకు సాయం వేగవంతం కావడానికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "Every farmer hit by Cyclone Murasu will get aid: Minister Gottipati",
+    "p": "Minister Gottipati Ravikumar reviewed the impact of Cyclone Murasu in Prakasam and Bapatla districts with power, agriculture, horticulture and R&B officials at the Amaravati secretariat. Officials said restoration of household power supply was nearly complete. The minister ordered priority for farm power connections, crop-wise loss assessment for paddy, cotton, chilli and other crops, and quick release of insurance and input subsidy.",
+    "pts": [
+     "Household power restoration nearly complete: officials",
+     "Crop-wise loss assessment ordered",
+     "Road repairs to be done on a war footing"
+    ],
+    "why": "It matters for speeding up aid to farmers who lost crops to the cyclone in Prakasam and Bapatla.",
+    "cat": "AP · Cyclone relief",
+    "statl": "Murasu damage review in Prakasam, Bapatla"
+   },
+   "hi": {
+    "h": "मुरासु चक्रवात से प्रभावित हर किसान को मदद: मंत्री गोट्टिपाटि",
+    "p": "मंत्री गोट्टिपाटि रविकुमार ने प्रकाशम और बापटला ज़िलों में चक्रवात मुरासु के असर पर अमरावती सचिवालय में बिजली, कृषि, बागवानी और आर एंड बी अधिकारियों के साथ समीक्षा की। अधिकारियों ने बताया कि घरों की बिजली आपूर्ति की बहाली लगभग पूरी हो गई है। मंत्री ने कृषि कनेक्शनों को प्राथमिकता देने, धान, कपास, मिर्च आदि फसलों के नुकसान का फसलवार आकलन करने और बीमा व इनपुट सब्सिडी जल्दी देने का निर्देश दिया।",
+    "pts": [
+     "घरों की बिजली बहाली लगभग पूरी: अधिकारी",
+     "फसलवार नुकसान आकलन का निर्देश",
+     "सड़क मरम्मत युद्धस्तर पर करने को कहा"
+    ],
+    "why": "प्रकाशम और बापटला में चक्रवात से फसल गंवाने वाले किसानों तक मदद तेज़ी से पहुंचाने के लिए यह अहम है।",
+    "cat": "आंध्र प्रदेश · चक्रवात राहत",
+    "statl": "प्रकाशम, बापटला में मुरासु नुकसान की समीक्षा"
+   },
+   "d": "11.11.2026",
+   "t": "16:05"
+  },
   {
    "cat": "హైదరాబాద్ · నేరం",
    "col": "--c-power",
@@ -2397,108 +2497,6 @@
     "why": "यह कार्यक्रम राज्य भर के ग्रामीण मतदाताओं और सरपंच उम्मीदवारों के लिए अहम है।",
     "cat": "आंध्र प्रदेश · पंचायत चुनाव",
     "statl": "ग्राम पंचायतों में चुनाव"
-   },
-   "d": "11.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "ఏపీ · తిరుమల",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "12 గంటలు",
-   "statl": "సర్వదర్శనానికి వేచి ఉండే సమయం",
-   "h": "తిరుమలలో భక్తుల రద్దీ: టోకెన్ లేని సర్వదర్శనానికి 12 గంటలు",
-   "p": "తిరుమలలో భక్తుల రద్దీ కొనసాగుతోంది. టోకెన్లు లేని భక్తులకు సర్వదర్శనానికి 12 గంటల సమయం పడుతోంది. కంపార్ట్‌మెంట్లన్నీ నిండి క్యూ నారాయణగిరి షెడ్ల వరకు చేరింది. మంగళవారం 78,085 మంది స్వామివారిని దర్శించుకోగా, 26,232 మంది తలనీలాలు సమర్పించారు. హుండీ ఆదాయం రూ.3.93 కోట్లు వచ్చిందని ఈటీవీ భారత్ పేర్కొంది.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#tirumala-rush",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "AP",
-   "place": "ap-tirupati",
-   "loc": "తిరుమల",
-   "pts": [
-    "కంపార్ట్‌మెంట్లు నిండి నారాయణగిరి షెడ్ల వరకు క్యూ",
-    "మంగళవారం 78,085 మందికి దర్శనం",
-    "హుండీ ఆదాయం రూ.3.93 కోట్లు"
-   ],
-   "why": "తిరుమల వెళ్లే భక్తులు ప్రయాణం ప్లాన్ చేసుకునేందుకు ఈ సమాచారం ఉపయోగపడుతుంది.",
-   "pub": "2026-11-11T09:08+05:30",
-   "en": {
-    "h": "Heavy rush at Tirumala: 12-hour wait for sarva darshan without tokens",
-    "p": "The rush of devotees continues at Tirumala. Devotees without tokens are taking 12 hours for sarva darshan. All compartments are full and the queue has reached the Narayanagiri sheds. On Tuesday, 78,085 devotees had darshan and 26,232 offered tonsure. The hundi collection was Rs 3.93 crore, ETV Bharat said.",
-    "pts": [
-     "Compartments full, queue up to Narayanagiri sheds",
-     "78,085 devotees had darshan on Tuesday",
-     "Hundi collection Rs 3.93 crore"
-    ],
-    "why": "The information helps devotees heading to Tirumala plan their trip.",
-    "cat": "AP · Tirumala",
-    "statl": "wait for sarva darshan"
-   },
-   "hi": {
-    "h": "तिरुमला में भारी भीड़: बिना टोकन सर्वदर्शन में 12 घंटे",
-    "p": "तिरुमला में श्रद्धालुओं की भीड़ जारी है। बिना टोकन वाले श्रद्धालुओं को सर्वदर्शन में 12 घंटे लग रहे हैं। सभी कम्पार्टमेंट भरे हुए हैं और कतार नारायणगिरि शेड तक पहुंच गई है। मंगलवार को 78,085 श्रद्धालुओं ने दर्शन किए और 26,232 ने मुंडन कराया। ईटीवी भारत के अनुसार हुंडी आय 3.93 करोड़ रुपये रही।",
-    "pts": [
-     "कम्पार्टमेंट भरे, कतार नारायणगिरि शेड तक",
-     "मंगलवार को 78,085 श्रद्धालुओं ने दर्शन किए",
-     "हुंडी आय 3.93 करोड़ रुपये"
-    ],
-    "why": "यह जानकारी तिरुमला जाने वाले श्रद्धालुओं को यात्रा की योजना बनाने में मदद करती है।",
-    "cat": "आंध्र प्रदेश · तिरुमला",
-    "statl": "सर्वदर्शन का इंतज़ार"
-   },
-   "d": "11.11.2026",
-   "t": "11:35"
-  },
-  {
-   "cat": "నెల్లూరు · నేరం",
-   "col": "--c-power",
-   "art": "campus",
-   "stat": "2",
-   "statl": "కేసు నమోదైన విద్యార్థులు",
-   "h": "సంగంలో విద్యార్థితో బలవంతంగా పురుగుమందు తాగించారని ఆరోపణ: ఇద్దరిపై కేసు",
-   "p": "నెల్లూరు జిల్లా సంగంలో తోటి విద్యార్థులు ఓ విద్యార్థితో బలవంతంగా పురుగుమందు తాగించారని ఆరోపణ వచ్చింది. ఇంటికి వచ్చాక అస్వస్థతకు గురైన బాలుడిని తల్లిదండ్రులు చెన్నై ఆస్పత్రికి తీసుకెళ్లగా పురుగుమందు తాగినట్లు వైద్యులు గుర్తించారు. అతని పరిస్థితి ఇంకా విషమంగానే ఉందని ఈటీవీ భారత్ పేర్కొంది. తల్లిదండ్రుల ఫిర్యాదుతో ఇద్దరు విద్యార్థులపై అట్రాసిటీ, హత్యాయత్నం కేసు నమోదు చేశారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-news-today-ap-live-news-updates-telugu-breaking-news-aps26111100423#sangam-student",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "AP",
-   "place": "ap-nellore",
-   "loc": "సంగం",
-   "pts": [
-    "తోటి విద్యార్థులు పురుగుమందు తాగించారని ఆరోపణ",
-    "చెన్నై ఆస్పత్రిలో చికిత్స, పరిస్థితి విషమం",
-    "ఇద్దరు విద్యార్థులపై అట్రాసిటీ, హత్యాయత్నం కేసు"
-   ],
-   "why": "పాఠశాలల్లో విద్యార్థుల భద్రత, వేధింపుల నివారణపై తల్లిదండ్రులు, ఉపాధ్యాయులు దృష్టి పెట్టాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
-   "pub": "2026-11-11T07:32+05:30",
-   "en": {
-    "h": "Sangam student allegedly forced to drink pesticide; case against two",
-    "p": "A student in Sangam, Nellore district, was allegedly forced by classmates to drink pesticide. After he fell ill at home, his parents took him to a hospital in Chennai, where doctors found he had consumed pesticide. His condition is still serious, ETV Bharat said. On the parents' complaint, police registered a case against two students under the Atrocities Act and for attempt to murder.",
-    "pts": [
-     "Classmates allegedly forced him to drink pesticide",
-     "Treated in Chennai hospital, condition serious",
-     "Atrocities Act, attempt-to-murder case against two students"
-    ],
-    "why": "It shows the need for parents and teachers to focus on student safety and preventing harassment in schools.",
-    "cat": "Nellore · Crime",
-    "statl": "students booked"
-   },
-   "hi": {
-    "h": "संगम में छात्र को जबरन कीटनाशक पिलाने का आरोप: दो पर मामला",
-    "p": "नेल्लोर जिले के संगम में आरोप है कि सहपाठियों ने एक छात्र को जबरन कीटनाशक पिलाया। घर लौटने पर तबीयत बिगड़ने के बाद माता-पिता उसे चेन्नई के अस्पताल ले गए, जहां डॉक्टरों ने कीटनाशक पीने की पुष्टि की। ईटीवी भारत के अनुसार उसकी हालत अब भी गंभीर है। माता-पिता की शिकायत पर दो छात्रों के खिलाफ एट्रोसिटी एक्ट और हत्या के प्रयास का मामला दर्ज किया गया।",
-    "pts": [
-     "सहपाठियों पर जबरन कीटनाशक पिलाने का आरोप",
-     "चेन्नई के अस्पताल में इलाज, हालत गंभीर",
-     "दो छात्रों पर एट्रोसिटी, हत्या के प्रयास का मामला"
-    ],
-    "why": "यह स्कूलों में छात्रों की सुरक्षा और उत्पीड़न रोकने पर अभिभावकों व शिक्षकों के ध्यान देने की ज़रूरत दिखाता है।",
-    "cat": "नेल्लोर · अपराध",
-    "statl": "छात्रों पर मामला"
    },
    "d": "11.11.2026",
    "t": "11:35"

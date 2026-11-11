@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 123,
+ "count": 125,
  "stories": [
+  {
+   "cat": "భారత్ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹62,370 కోట్లు",
+   "statl": "రబీ ఎరువుల సబ్సిడీ",
+   "h": "రబీ సీజన్‌కు ₹62,370 కోట్ల ఎరువుల సబ్సిడీకి కేంద్ర కేబినెట్ ఆమోదం",
+   "p": "రబీ 2026-27 సీజన్‌లో ఫాస్ఫేట్, పొటాష్ (P&K) ఎరువులకు పోషక ఆధారిత సబ్సిడీ (NBS) రేట్లను కేంద్ర కేబినెట్ బుధవారం ఆమోదించింది. దీనికి సుమారు ₹62,370.02 కోట్లు అవసరమని అంచనా. ఇది గత రబీ బడ్జెట్ ₹37,952.29 కోట్ల కంటే సుమారు ₹24,417.73 కోట్లు ఎక్కువ. డీఏపీ సహా ఎన్‌పీకేఎస్ ఎరువులకు అక్టోబర్ 1, 2026 నుంచి మార్చి 31, 2027 వరకు ఈ రేట్లు వర్తిస్తాయి.",
+   "src": "Business Standard",
+   "url": "https://www.business-standard.com/economy/news/cabinet-approves-62-370-crore-fertiliser-subsidy-for-rabi-2026-27-season-126111100867_1.html",
+   "sec": [
+    "india",
+    "agri"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-11T16:02+05:30",
+   "pts": [
+    "గత రబీ కంటే ₹24,417.73 కోట్లు అధికం",
+    "అక్టోబర్ 1 నుంచి మార్చి 31 వరకు వర్తింపు",
+    "డీఏపీ సహా 28 రకాల P&K ఎరువులకు సబ్సిడీ"
+   ],
+   "why": "రబీ సాగు చేసే తెలుగు రాష్ట్రాల రైతులకు ఎరువులు సబ్సిడీ ధరలకు అందేందుకు ఇది కీలకం.",
+   "en": {
+    "h": "Union Cabinet approves Rs 62,370 crore fertiliser subsidy for rabi season",
+    "p": "The Union Cabinet on Wednesday approved Nutrient Based Subsidy (NBS) rates for phosphatic and potassic (P&K) fertilisers for the rabi 2026-27 season. The estimated requirement is about Rs 62,370.02 crore. This is about Rs 24,417.73 crore more than the Rs 37,952.29 crore budgeted for last rabi. The rates apply to P&K fertilisers including DAP and NPKS grades from October 1, 2026 to March 31, 2027.",
+    "pts": [
+     "Rs 24,417.73 crore more than last rabi",
+     "Applies from October 1 to March 31",
+     "Subsidy on 28 grades of P&K fertilisers including DAP"
+    ],
+    "why": "It matters for rabi farmers in the Telugu states to get fertilisers at subsidised prices.",
+    "cat": "India · Agriculture",
+    "statl": "Rabi fertiliser subsidy"
+   },
+   "hi": {
+    "h": "रबी सीज़न के लिए ₹62,370 करोड़ की उर्वरक सब्सिडी को केंद्रीय कैबिनेट की मंज़ूरी",
+    "p": "केंद्रीय कैबिनेट ने बुधवार को रबी 2026-27 सीज़न के लिए फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर पोषक तत्व आधारित सब्सिडी (NBS) दरों को मंज़ूरी दी। इसके लिए लगभग ₹62,370.02 करोड़ की ज़रूरत का अनुमान है। यह पिछले रबी के ₹37,952.29 करोड़ के बजट से लगभग ₹24,417.73 करोड़ अधिक है। डीएपी और एनपीकेएस सहित उर्वरकों पर ये दरें 1 अक्टूबर 2026 से 31 मार्च 2027 तक लागू होंगी।",
+    "pts": [
+     "पिछले रबी से ₹24,417.73 करोड़ अधिक",
+     "1 अक्टूबर से 31 मार्च तक लागू",
+     "डीएपी सहित 28 प्रकार के P&K उर्वरकों पर सब्सिडी"
+    ],
+    "why": "तेलुगु राज्यों के रबी किसानों को सब्सिडी वाली कीमतों पर उर्वरक मिलने के लिए यह अहम है।",
+    "cat": "भारत · कृषि",
+    "statl": "रबी उर्वरक सब्सिडी"
+   },
+   "d": "11.11.2026",
+   "t": "16:05"
+  },
+  {
+   "cat": "ఏపీ · తుపాను సాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "2 జిల్లాలు",
+   "statl": "ప్రకాశం, బాపట్లలో మురసు నష్టంపై సమీక్ష",
+   "h": "మురసు తుపాను బాధిత ప్రతి రైతుకు సాయం: మంత్రి గొట్టిపాటి",
+   "p": "ప్రకాశం, బాపట్ల జిల్లాల్లో మురసు తుపాను ప్రభావంపై మంత్రి గొట్టిపాటి రవికుమార్ అమరావతి సచివాలయంలో విద్యుత్, వ్యవసాయ, ఉద్యాన, ఆర్‌అండ్‌బీ అధికారులతో సమీక్షించారు. ఇళ్లకు విద్యుత్ సరఫరా పునరుద్ధరణ దాదాపు పూర్తయిందని అధికారులు తెలిపారు. వ్యవసాయ కనెక్షన్లకు ప్రాధాన్యం ఇవ్వాలని, వరి, పత్తి, మిర్చి తదితర పంటల వారీగా నష్టం అంచనా వేయాలని, బీమా, ఇన్‌పుట్ సబ్సిడీ త్వరగా అందించాలని మంత్రి ఆదేశించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/ap-minister-gottipati-ravikumar-reviews-cyclone-murasu-damage-in-prakasam-and-bapatla-vk-1575249.html",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T13:24+05:30",
+   "pts": [
+    "ఇళ్లకు విద్యుత్ పునరుద్ధరణ దాదాపు పూర్తి: అధికారులు",
+    "పంటల వారీగా నష్టం అంచనాకు ఆదేశం",
+    "రోడ్ల మరమ్మతులు యుద్ధప్రాతిపదికన చేయాలని సూచన"
+   ],
+   "why": "ప్రకాశం, బాపట్ల జిల్లాల్లో తుపానుతో పంటలు కోల్పోయిన రైతులకు సాయం వేగవంతం కావడానికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "Every farmer hit by Cyclone Murasu will get aid: Minister Gottipati",
+    "p": "Minister Gottipati Ravikumar reviewed the impact of Cyclone Murasu in Prakasam and Bapatla districts with power, agriculture, horticulture and R&B officials at the Amaravati secretariat. Officials said restoration of household power supply was nearly complete. The minister ordered priority for farm power connections, crop-wise loss assessment for paddy, cotton, chilli and other crops, and quick release of insurance and input subsidy.",
+    "pts": [
+     "Household power restoration nearly complete: officials",
+     "Crop-wise loss assessment ordered",
+     "Road repairs to be done on a war footing"
+    ],
+    "why": "It matters for speeding up aid to farmers who lost crops to the cyclone in Prakasam and Bapatla.",
+    "cat": "AP · Cyclone relief",
+    "statl": "Murasu damage review in Prakasam, Bapatla"
+   },
+   "hi": {
+    "h": "मुरासु चक्रवात से प्रभावित हर किसान को मदद: मंत्री गोट्टिपाटि",
+    "p": "मंत्री गोट्टिपाटि रविकुमार ने प्रकाशम और बापटला ज़िलों में चक्रवात मुरासु के असर पर अमरावती सचिवालय में बिजली, कृषि, बागवानी और आर एंड बी अधिकारियों के साथ समीक्षा की। अधिकारियों ने बताया कि घरों की बिजली आपूर्ति की बहाली लगभग पूरी हो गई है। मंत्री ने कृषि कनेक्शनों को प्राथमिकता देने, धान, कपास, मिर्च आदि फसलों के नुकसान का फसलवार आकलन करने और बीमा व इनपुट सब्सिडी जल्दी देने का निर्देश दिया।",
+    "pts": [
+     "घरों की बिजली बहाली लगभग पूरी: अधिकारी",
+     "फसलवार नुकसान आकलन का निर्देश",
+     "सड़क मरम्मत युद्धस्तर पर करने को कहा"
+    ],
+    "why": "प्रकाशम और बापटला में चक्रवात से फसल गंवाने वाले किसानों तक मदद तेज़ी से पहुंचाने के लिए यह अहम है।",
+    "cat": "आंध्र प्रदेश · चक्रवात राहत",
+    "statl": "प्रकाशम, बापटला में मुरासु नुकसान की समीक्षा"
+   },
+   "d": "11.11.2026",
+   "t": "16:05"
+  },
   {
    "cat": "హైదరాబాద్ · నేరం",
    "col": "--c-power",
