@@ -1,8 +1,310 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T10:08:27+05:30",
+ "updated": "2026-11-11T10:40:40+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "పల్నాడు · గురుకులం",
+   "col": "--c-power",
+   "art": "campus",
+   "stat": "10",
+   "statl": "విద్యార్థినుల జడలు కత్తిరింపు",
+   "h": "పల్నాడు గురుకులంలో 10 మంది విద్యార్థినుల జడలు కత్తిరింపు: పోలీసుల దర్యాప్తు",
+   "p": "పల్నాడు జిల్లా సత్తెనపల్లి రూరల్ మండలం రామకృష్ణాపురంలోని మహాత్మా జ్యోతిబా ఫూలే బీసీ సంక్షేమ బాలికల గురుకులంలో రాత్రి నిద్రిస్తున్న 10 మంది ఎనిమిదో తరగతి విద్యార్థినుల జడలను ఎవరో కత్తిరించారు. ఉదయం లేచాక విద్యార్థినులు గమనించారు. సిబ్బంది నిర్లక్ష్యంపై ఉన్నతాధికారులు విచారణ జరపాలని తల్లిదండ్రులు డిమాండ్ చేస్తున్నారు. రూరల్ పోలీస్ స్టేషన్‌లో ఫిర్యాదు అందగా ఎస్‌ఐ దర్యాప్తు చేస్తున్నారని నమస్తే తెలంగాణ కథనం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/andhrapradesh-news/10-girls-hair-cut-at-palnadu-gurukulam-school-police-begin-investigation-2557440",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "ap-palnadu",
+   "loc": "రామకృష్ణాపురం",
+   "pts": [
+    "నిద్రలో ఉన్న 10 మంది విద్యార్థినుల జడలు కత్తిరింపు",
+    "బయటి వ్యక్తులా, పాఠశాల విద్యార్థులా అని పోలీసుల ఆరా",
+    "విద్యార్థినులే కత్తిరించుకున్నారని ప్రధానోపాధ్యాయురాలు చెప్పినట్లు సమాచారం"
+   ],
+   "why": "గురుకులాల్లో బాలికల భద్రతపై తల్లిదండ్రుల ఆందోళనకు సంబంధించిన ఘటన ఇది.",
+   "pub": "2026-11-11T10:32+05:30",
+   "en": {
+    "h": "Braids of 10 girls cut at Palnadu gurukul; police investigating",
+    "p": "At the Mahatma Jyotiba Phule BC Welfare Girls Gurukulam in Ramakrishnapuram, Sattenapalli Rural mandal, Palnadu district, someone cut the braids of 10 Class 8 students while they slept at night. The girls noticed it after waking up. Parents are demanding that senior officials probe staff negligence. According to Namasthe Telangana, a complaint was filed at the Rural police station and an SI is investigating.",
+    "pts": [
+     "Braids of 10 sleeping students were cut",
+     "Police checking whether outsiders or students were responsible",
+     "Headmistress reportedly said students cut each other's hair"
+    ],
+    "why": "The incident concerns parents' worries about girls' safety in residential gurukuls.",
+    "cat": "Palnadu · Gurukul",
+    "statl": "students' braids cut"
+   },
+   "hi": {
+    "h": "पलनाडु गुरुकुल में 10 छात्राओं की चोटियां काटी गईं: पुलिस जांच",
+    "p": "पलनाडु जिले के सत्तेनपल्ली ग्रामीण मंडल के रामकृष्णापुरम स्थित महात्मा ज्योतिबा फुले बीसी कल्याण बालिका गुरुकुल में रात को सो रही कक्षा 8 की 10 छात्राओं की चोटियां किसी ने काट दीं। सुबह उठने पर छात्राओं को पता चला। अभिभावक मांग कर रहे हैं कि वरिष्ठ अधिकारी स्टाफ की लापरवाही की जांच करें। नमस्ते तेलंगाना के अनुसार ग्रामीण थाने में शिकायत दर्ज हुई और एसआई जांच कर रहे हैं।",
+    "pts": [
+     "सो रही 10 छात्राओं की चोटियां काटी गईं",
+     "पुलिस जांच रही है कि बाहरी लोग थे या छात्राएं",
+     "प्रधानाध्यापिका ने कथित तौर पर कहा कि छात्राओं ने खुद काटीं"
+    ],
+    "why": "यह घटना आवासीय गुरुकुलों में बालिकाओं की सुरक्षा को लेकर अभिभावकों की चिंता से जुड़ी है।",
+    "cat": "पलनाडु · गुरुकुल",
+    "statl": "छात्राओं की चोटियां काटी गईं"
+   },
+   "d": "11.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తెలంగాణ · పోలీస్",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "2వ బ్యాచ్",
+   "statl": "డీఎస్పీలు-2025 ముగింపు కార్యక్రమం",
+   "h": "పదవిని వ్యక్తిగత లాభానికి వాడొద్దు: కొత్త డీఎస్పీలకు సీఎం రేవంత్ సూచన",
+   "p": "హైదరాబాద్‌లో మంగళవారం డీఎస్పీలు-2025 రెండో బ్యాచ్ ముగింపు కార్యక్రమంలో సీఎం రేవంత్ రెడ్డి, పోలీసులు తమ పదవిని వ్యక్తిగత లాభానికి వాడుకోవద్దని హెచ్చరించారు. ప్రభుత్వ ఉపాధ్యాయుల మాదిరిగానే అవసరమైతే కొత్త డీఎస్పీలను విదేశీ అధ్యయన పర్యటనకు పంపుతామన్నారు. బాధితుల మాటలు సానుభూతితో వినాలని సూచించారు. ప్రతిపక్షం నియామకాలను అడ్డుకోవాలని చూసిందని, సుప్రీంకోర్టు ద్వారా నియామకాలు సాధించామని ఆయన అన్నారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/dont-exploit-your-position-for-personal-gain-cm-revanth-to-police-1140919",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "కొత్త డీఎస్పీలకు విదేశీ అధ్యయన పర్యటన యోచన",
+    "విధులతో పాటు శారీరక దృఢత్వం ముఖ్యమన్న సీఎం",
+    "గ్రూప్-1 జాప్యానికి గత బీఆర్‌ఎస్ ప్రభుత్వమే కారణమని సీఎం ఆరోపణ"
+   ],
+   "why": "కొత్త పోలీసు అధికారుల నుంచి ప్రభుత్వం ఆశిస్తున్న తీరును ఇది తెలియజేస్తుంది.",
+   "pub": "2026-11-11T04:31+05:30",
+   "en": {
+    "h": "Don't use your post for personal gain: CM Revanth to new DSPs",
+    "p": "Speaking on Tuesday at the valedictory of the second batch of DSPs-2025 in Hyderabad, CM Revanth Reddy warned police not to use their posts for personal gain. He said that, if needed, the new DSPs would be sent on a study tour abroad, as is done for government teachers. He urged them to listen to victims with compassion. He said the opposition tried to block the recruitment and the government secured the appointments through the Supreme Court.",
+    "pts": [
+     "Plan to send new DSPs on a study tour abroad",
+     "CM says physical fitness matters along with duty",
+     "CM alleges previous BRS government caused Group-1 delay"
+    ],
+    "why": "It shows what the government expects from newly recruited police officers.",
+    "cat": "Telangana · Police",
+    "statl": "DSPs-2025 valedictory"
+   },
+   "hi": {
+    "h": "पद का निजी लाभ के लिए दुरुपयोग न करें: नए डीएसपी से सीएम रेवंत",
+    "p": "हैदराबाद में मंगलवार को डीएसपी-2025 के दूसरे बैच के समापन समारोह में मुख्यमंत्री रेवंत रेड्डी ने पुलिस को चेताया कि वे अपने पद का निजी लाभ के लिए इस्तेमाल न करें। उन्होंने कहा कि सरकारी शिक्षकों की तरह जरूरत पड़ने पर नए डीएसपी को विदेश अध्ययन दौरे पर भेजा जाएगा। उन्होंने पीड़ितों की बात सहानुभूति से सुनने को कहा। उन्होंने कहा कि विपक्ष ने भर्ती रोकने की कोशिश की और सरकार ने सुप्रीम कोर्ट के जरिए नियुक्तियां कराईं।",
+    "pts": [
+     "नए डीएसपी को विदेश अध्ययन दौरे पर भेजने की योजना",
+     "सीएम ने कहा ड्यूटी के साथ शारीरिक फिटनेस जरूरी",
+     "सीएम का आरोप, ग्रुप-1 में देरी के लिए पिछली बीआरएस सरकार जिम्मेदार"
+    ],
+    "why": "यह बताता है कि सरकार नए पुलिस अधिकारियों से क्या अपेक्षा रखती है।",
+    "cat": "तेलंगाना · पुलिस",
+    "statl": "डीएसपी-2025 समापन समारोह"
+   },
+   "d": "11.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "నిజామాబాద్ · విద్య",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "KGBV",
+   "statl": "కలెక్టర్ ఆకస్మిక తనిఖీ",
+   "h": "మెండోరా కేజీబీవీలో కలెక్టర్ తనిఖీ: మెనూ మార్చొద్దని సిబ్బందికి హెచ్చరిక",
+   "p": "నిజామాబాద్ జిల్లా కలెక్టర్ ఇలా త్రిపాఠి మంగళవారం మెండోరా మండలంలోని కస్తూర్బా గాంధీ బాలికా విద్యాలయాన్ని ఆకస్మికంగా తనిఖీ చేశారు. తరగతి గదులు, మరుగుదొడ్లు, స్టోర్ రూమ్, ఆహార సరుకులను పరిశీలించి, ఎఫ్‌ఆర్‌ఎస్ యాప్ ద్వారా సిబ్బంది హాజరు చూశారు. ప్రభుత్వ మెనూలోని క్యారెట్ కూర బదులు బంగాళాదుంప కూర వడ్డించడంపై అసంతృప్తి వ్యక్తం చేశారు. ప్రహరీ గోడ నిర్మాణం త్వరగా పూర్తి చేయాలని ఆదేశించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/nizamabad/nizamabad-collector-inspects-kgbv-warns-staff-against-menu-deviations-1141018",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "nizamabad",
+   "loc": "మెండోరా",
+   "pts": [
+    "క్యారెట్ బదులు బంగాళాదుంప కూరపై కలెక్టర్ అసంతృప్తి",
+    "నిర్లక్ష్యం చేస్తే కఠిన చర్యలని హెచ్చరిక",
+    "ఆరో తరగతి విద్యార్థినుల అభ్యసన సామర్థ్యాల పరిశీలన"
+   ],
+   "why": "కేజీబీవీ విద్యార్థినులకు నాణ్యమైన భోజనం, పరిశుభ్రతపై అధికారుల పర్యవేక్షణను ఇది చూపుతుంది.",
+   "pub": "2026-11-11T03:00+05:30",
+   "en": {
+    "h": "Collector inspects Mendora KGBV, warns staff against changing menu",
+    "p": "Nizamabad District Collector Ila Tripathi made a surprise inspection on Tuesday of the Kasturba Gandhi Balika Vidyalaya in Mendora mandal. She checked classrooms, toilets, the storeroom and food provisions, and verified staff attendance through the FRS app. She expressed displeasure that potato curry was served instead of the carrot curry on the government menu. She directed officials to complete the compound wall construction quickly.",
+    "pts": [
+     "Collector unhappy over potato curry served instead of carrot",
+     "Warns of strict action for negligence",
+     "Checks learning skills of Class 6 students"
+    ],
+    "why": "It shows officials monitoring food quality and cleanliness for KGBV students.",
+    "cat": "Nizamabad · Education",
+    "statl": "Collector's surprise inspection"
+   },
+   "hi": {
+    "h": "मेंडोरा केजीबीवी में कलेक्टर का निरीक्षण, मेन्यू न बदलने की चेतावनी",
+    "p": "निजामाबाद की जिला कलेक्टर इला त्रिपाठी ने मंगलवार को मेंडोरा मंडल के कस्तूरबा गांधी बालिका विद्यालय का औचक निरीक्षण किया। उन्होंने कक्षाओं, शौचालयों, स्टोर रूम और खाद्य सामग्री की जांच की और एफआरएस ऐप से स्टाफ की हाजिरी देखी। सरकारी मेन्यू की गाजर की सब्जी की जगह आलू की सब्जी परोसने पर उन्होंने नाराजगी जताई। उन्होंने चारदीवारी का निर्माण जल्द पूरा करने का निर्देश दिया।",
+    "pts": [
+     "गाजर की जगह आलू की सब्जी पर कलेक्टर नाराज",
+     "लापरवाही पर सख्त कार्रवाई की चेतावनी",
+     "कक्षा 6 की छात्राओं की सीखने की क्षमता जांची"
+    ],
+    "why": "यह केजीबीवी छात्राओं के भोजन और स्वच्छता पर अधिकारियों की निगरानी दिखाता है।",
+    "cat": "निजामाबाद · शिक्षा",
+    "statl": "कलेक्टर का औचक निरीक्षण"
+   },
+   "d": "11.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · క్రీడలు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "9వ",
+   "statl": "ప్రపంచ రికార్డు అని కథనం",
+   "h": "హైదరాబాద్ కరాటే గ్రాండ్‌మాస్టర్ శాశ్వత్ కుమార్ తొమ్మిదో ప్రపంచ రికార్డు",
+   "p": "హైదరాబాద్‌కు చెందిన కరాటే గ్రాండ్‌మాస్టర్ శాశ్వత్ కుమార్ తొమ్మిదో ప్రపంచ రికార్డు సాధించారని తెలంగాణ టుడే కథనం. నవంబర్ 10న యూట్యూబ్ లైవ్ ప్రదర్శనలో కేవలం వేలితో దాడి చేసి ప్లాస్టిక్ నీళ్ల సీసాను చీల్చారు. ఇలా చేసిన తొలి మార్షల్ ఆర్టిస్ట్ ఆయనేనని ఆ ఘనత ప్రకటనలో పేర్కొన్నారు. రికార్డును ఏ సంస్థ గుర్తించిందో కథనంలో పేర్కొనలేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-s-karate-grandmaster-shaswat-kumar-claims-ninth-605c798b",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "యూట్యూబ్ లైవ్‌లో వేలితో ప్లాస్టిక్ సీసా చీల్చిన ప్రదర్శన",
+    "ప్రేక్షకులు నేరుగా చూసేందుకే లైవ్ ప్రదర్శన",
+    "వేళ్ల బలానికి క్రమశిక్షణ, సాధన అవసరమన్న శాశ్వత్"
+   ],
+   "why": "హైదరాబాద్ మార్షల్ ఆర్ట్స్ క్రీడాకారుల సాధనను ఇది తెలియజేస్తుంది.",
+   "pub": "2026-11-11T09:41+05:30",
+   "en": {
+    "h": "Hyderabad karate grandmaster Shaswat Kumar claims ninth world record",
+    "p": "Hyderabad karate Grandmaster Shaswat Kumar has claimed his ninth world record, Telangana Today reports. In a YouTube Live demonstration on November 10, he pierced a plastic water bottle using only a finger attack. The achievement claim says he is the first martial artist to do this. The article does not name the body that recognised the record.",
+    "pts": [
+     "Pierced a plastic bottle with a finger on YouTube Live",
+     "Live stream let viewers see the feat directly",
+     "Shaswat says strong fingers need discipline and training"
+    ],
+    "why": "It highlights the work of Hyderabad's martial arts athletes.",
+    "cat": "Hyderabad · Sports",
+    "statl": "world record, per report"
+   },
+   "hi": {
+    "h": "हैदराबाद के कराटे ग्रैंडमास्टर शाश्वत कुमार का नौवां विश्व रिकॉर्ड",
+    "p": "तेलंगाना टुडे के अनुसार हैदराबाद के कराटे ग्रैंडमास्टर शाश्वत कुमार ने अपना नौवां विश्व रिकॉर्ड हासिल करने का दावा किया है। 10 नवंबर को यूट्यूब लाइव प्रदर्शन में उन्होंने केवल उंगली के वार से प्लास्टिक की पानी की बोतल भेद दी। उपलब्धि के दावे में कहा गया है कि ऐसा करने वाले वे पहले मार्शल आर्टिस्ट हैं। लेख में यह नहीं बताया गया कि रिकॉर्ड किस संस्था ने मान्य किया।",
+    "pts": [
+     "यूट्यूब लाइव पर उंगली से प्लास्टिक बोतल भेदी",
+     "लाइव प्रसारण से दर्शकों ने सीधे देखा",
+     "शाश्वत बोले, मजबूत उंगलियों के लिए अनुशासन और अभ्यास जरूरी"
+    ],
+    "why": "यह हैदराबाद के मार्शल आर्ट खिलाड़ियों की उपलब्धि दिखाता है।",
+    "cat": "हैदराबाद · खेल",
+    "statl": "विश्व रिकॉर्ड, रिपोर्ट के अनुसार"
+   },
+   "d": "11.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "భారత్ · రూపాయి",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "93.70",
+   "statl": "డాలర్‌తో రూపాయి విలువ",
+   "h": "డాలర్‌తో రూపాయి 7 పైసలు బలపడి 93.70కి",
+   "p": "బుధవారం ప్రారంభ ట్రేడింగ్‌లో అమెరికా డాలర్‌తో రూపాయి విలువ 7 పైసలు పెరిగి 93.70కి చేరిందని ఫారెక్స్ ట్రేడర్లు తెలిపారు. సోమవారం 93.77 వద్ద ముగిసింది. బలిప్రతిపద సందర్భంగా మంగళవారం మార్కెట్లకు సెలవు. నెలల తరబడి నిధుల ఉపసంహరణ తర్వాత విదేశీ పెట్టుబడిదారులు తిరిగి వస్తున్నారని ట్రేడర్లు చెప్పారు. నవంబర్ మొదటి 9 రోజుల్లో వారు రూ.53,739 కోట్ల నికర కొనుగోళ్లు చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/rupee-rises-7-paise-to-93-70-against-us-dollar-in-early-2642d948",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "సోమవారం 93.77 వద్ద ముగిసిన రూపాయి",
+    "బ్రెంట్ ముడి చమురు బ్యారెల్ 92.41 డాలర్లు",
+    "సోమవారం విదేశీ సంస్థల కొనుగోళ్లు రూ.7,212 కోట్లు"
+   ],
+   "why": "చమురు ధర తగ్గితే దిగుమతుల బిల్లు తగ్గి రూపాయికి మేలని నిపుణుల అభిప్రాయం.",
+   "pub": "2026-11-11T10:00+05:30",
+   "en": {
+    "h": "Rupee gains 7 paise to 93.70 against the dollar",
+    "p": "The rupee rose 7 paise to 93.70 against the US dollar in early trade on Wednesday, forex traders said. It had closed at 93.77 on Monday. Markets were closed on Tuesday for Balipratipada. Traders said foreign investors are returning after months of outflows. In the first nine days of November, they made net purchases of Rs 53,739 crore.",
+    "pts": [
+     "Rupee had closed at 93.77 on Monday",
+     "Brent crude at USD 92.41 a barrel",
+     "Foreign investors bought Rs 7,212 crore on Monday"
+    ],
+    "why": "Experts say cheaper oil lowers the import bill and helps the rupee.",
+    "cat": "India · Rupee",
+    "statl": "rupee against the dollar"
+   },
+   "hi": {
+    "h": "डॉलर के मुकाबले रुपया 7 पैसे मजबूत होकर 93.70 पर",
+    "p": "फॉरेक्स कारोबारियों के अनुसार बुधवार को शुरुआती कारोबार में अमेरिकी डॉलर के मुकाबले रुपया 7 पैसे बढ़कर 93.70 पर पहुंचा। सोमवार को यह 93.77 पर बंद हुआ था। बलिप्रतिपदा के कारण मंगलवार को बाजार बंद थे। कारोबारियों ने कहा कि महीनों की निकासी के बाद विदेशी निवेशक लौट रहे हैं। नवंबर के पहले नौ दिनों में उन्होंने 53,739 करोड़ रुपये की शुद्ध खरीद की।",
+    "pts": [
+     "सोमवार को रुपया 93.77 पर बंद हुआ था",
+     "ब्रेंट कच्चा तेल 92.41 डॉलर प्रति बैरल",
+     "सोमवार को विदेशी निवेशकों ने 7,212 करोड़ की खरीद की"
+    ],
+    "why": "विशेषज्ञों के अनुसार सस्ता तेल आयात बिल घटाकर रुपये को मदद करता है।",
+    "cat": "भारत · रुपया",
+    "statl": "डॉलर के मुकाबले रुपया"
+   },
+   "d": "11.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "భారత్ · క్రికెట్",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "₹18 కోట్లు",
+   "statl": "హార్దిక్ కొత్త ఫీజు",
+   "h": "ఐపీఎల్ 2027: పంజాబ్ కింగ్స్‌కు హార్దిక్, ముంబై ఇండియన్స్‌కు అర్ష్‌దీప్",
+   "p": "ముంబై ఇండియన్స్, పంజాబ్ కింగ్స్ మధ్య ఆటగాళ్ల మార్పిడి పూర్తయినట్లు ఐపీఎల్ బుధవారం అధికారికంగా ప్రకటించింది. హార్దిక్ పాండ్యా సవరించిన రూ.18 కోట్ల ఫీజుతో పంజాబ్ కింగ్స్‌లో చేరుతుండగా, అర్ష్‌దీప్ సింగ్ ప్రస్తుత రూ.18 కోట్ల ఫీజుతోనే ముంబై ఇండియన్స్‌కు వెళ్తున్నాడు. 2019 నుంచి పంజాబ్‌కు ఆడిన అర్ష్‌దీప్ 96 మ్యాచ్‌ల్లో 111 వికెట్లు తీశాడు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/sports/hardik-pandya-moves-to-punjab-kings-mumbai-indians-get-arshdeep-singh-2557428",
+   "sec": [
+    "india",
+    "sports"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "హార్దిక్ ఫీజు రూ.16.5 కోట్ల నుంచి రూ.18 కోట్లకు",
+    "అర్ష్‌దీప్ తొలిసారి పంజాబ్ జట్టును వీడుతున్నాడు",
+    "టాటా ఐపీఎల్ 2027 సీజన్ కోసం ఈ మార్పిడి"
+   ],
+   "why": "వచ్చే ఐపీఎల్ సీజన్‌లో రెండు జట్ల కూర్పు మారుతుంది.",
+   "pub": "2026-11-11T10:00+05:30",
+   "en": {
+    "h": "IPL 2027: Hardik to Punjab Kings, Arshdeep to Mumbai Indians",
+    "p": "The IPL officially announced on Wednesday that Mumbai Indians and Punjab Kings have completed a player trade. Hardik Pandya joins Punjab Kings at a revised fee of Rs 18 crore, while Arshdeep Singh moves to Mumbai Indians at his existing fee of Rs 18 crore. Arshdeep, who has played for Punjab since 2019, has taken 111 wickets in 96 matches.",
+    "pts": [
+     "Hardik's fee rises from Rs 16.5 crore to Rs 18 crore",
+     "Arshdeep leaves Punjab for the first time",
+     "Trade is for the TATA IPL 2027 season"
+    ],
+    "why": "The make-up of both teams changes for the next IPL season.",
+    "cat": "India · Cricket",
+    "statl": "Hardik's new fee"
+   },
+   "hi": {
+    "h": "आईपीएल 2027: हार्दिक पंजाब किंग्स में, अर्शदीप मुंबई इंडियंस में",
+    "p": "आईपीएल ने बुधवार को आधिकारिक घोषणा की कि मुंबई इंडियंस और पंजाब किंग्स के बीच खिलाड़ियों की अदला-बदली पूरी हो गई है। हार्दिक पांड्या संशोधित 18 करोड़ रुपये की फीस पर पंजाब किंग्स में शामिल होंगे, जबकि अर्शदीप सिंह अपनी मौजूदा 18 करोड़ रुपये की फीस पर मुंबई इंडियंस में जाएंगे। 2019 से पंजाब के लिए खेल रहे अर्शदीप ने 96 मैचों में 111 विकेट लिए हैं।",
+    "pts": [
+     "हार्दिक की फीस 16.5 करोड़ से बढ़कर 18 करोड़",
+     "अर्शदीप पहली बार पंजाब टीम छोड़ रहे हैं",
+     "यह अदला-बदली टाटा आईपीएल 2027 सीजन के लिए"
+    ],
+    "why": "अगले आईपीएल सीजन में दोनों टीमों की संरचना बदलेगी।",
+    "cat": "भारत · क्रिकेट",
+    "statl": "हार्दिक की नई फीस"
+   },
+   "d": "11.11.2026",
+   "t": "10:35"
+  },
   {
    "cat": "గద్వాల · వ్యవసాయం",
    "col": "--c-gov",
@@ -2197,254 +2499,6 @@
     "why": "किसान मुद्दों पर विपक्ष का यह कार्यक्रम निर्मल जिले के किसानों से जुड़ा है।",
     "cat": "निर्मल · राजनीति",
     "statl": "रैली में केटीआर का आगमन"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "water",
-   "stat": "పాలమూరు",
-   "statl": "ప్రాజెక్టులపై బీఆర్‌ఎస్ విమర్శలు",
-   "h": "సీఎం రేవంత్‌ తెలంగాణకు ద్రోహం చేశారు: మాజీ మంత్రి శ్రీనివాస్ గౌడ్ ఆరోపణ",
-   "p": "సీఎం రేవంత్ రెడ్డి కన్నెపల్లి మోటార్లు ఆన్ చేయలేదని, పాలమూరు-రంగారెడ్డి ప్రాజెక్టు పూర్తి చేయలేదని బీఆర్‌ఎస్ నేత, మాజీ మంత్రి వి.శ్రీనివాస్ గౌడ్ తెలంగాణ భవన్‌లో ఆరోపించారు. పాలమూరుకు ఏటా ₹20,000 కోట్లు ఇస్తామన్న హామీ నెరవేరలేదని, పాలమూరు నుంచి వలసలు మళ్లీ మొదలయ్యాయని అన్నారు. ఇవి ఆయన ఆరోపణలు అని నమస్తే తెలంగాణ కథనం; ప్రభుత్వ స్పందన కథనంలో లేదు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/v-srinivas-goud-accuses-cm-revanth-reddy-of-betraying-telangana-2557161",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T03:40+05:30",
-   "pts": [
-    "కన్నెపల్లి మోటార్లు ఆన్ చేయలేదని ఆరోపణ",
-    "పాలమూరుకు ₹20,000 కోట్ల హామీ నెరవేరలేదని విమర్శ",
-    "పీఆర్సీ మూడేళ్లుగా ఇవ్వలేదని ఆరోపణ"
-   ],
-   "why": "సాగునీటి ప్రాజెక్టులపై రాజకీయ వివాదం పాలమూరు ప్రాంత ప్రజలకు సంబంధించినది.",
-   "en": {
-    "h": "CM Revanth betrayed Telangana, alleges former minister Srinivas Goud",
-    "p": "BRS leader and former minister V Srinivas Goud alleged at Telangana Bhavan that CM Revanth Reddy has not switched on the Kannepalli motors or completed the Palamuru-Rangareddy project. He said the promise of Rs 20,000 crore a year for Palamuru was not kept and migration from Palamuru has resumed. Namasthe Telangana reported these as his allegations; the report carries no government response.",
-    "pts": [
-     "Alleges Kannepalli motors not switched on",
-     "Says Rs 20,000 crore promise for Palamuru unmet",
-     "Alleges PRC not given for three years"
-    ],
-    "why": "The political row over irrigation projects concerns people of the Palamuru region.",
-    "cat": "Telangana · Politics",
-    "statl": "BRS criticism over projects"
-   },
-   "hi": {
-    "h": "सीएम रेवंत ने तेलंगाना से धोखा किया: पूर्व मंत्री श्रीनिवास गौड़ का आरोप",
-    "p": "बीआरएस नेता और पूर्व मंत्री वी. श्रीनिवास गौड़ ने तेलंगाना भवन में आरोप लगाया कि सीएम रेवंत रेड्डी ने कन्नेपल्ली मोटरें चालू नहीं कीं और पालमूरु-रंगारेड्डी परियोजना पूरी नहीं की। उन्होंने कहा कि पालमूरु को हर साल ₹20,000 करोड़ देने का वादा पूरा नहीं हुआ और पलायन फिर शुरू हो गया। नमस्ते तेलंगाना ने इन्हें उनके आरोप बताया; सरकार का जवाब रिपोर्ट में नहीं है।",
-    "pts": [
-     "कन्नेपल्ली मोटरें चालू न करने का आरोप",
-     "पालमूरु को ₹20,000 करोड़ का वादा अधूरा",
-     "तीन साल से पीआरसी न देने का आरोप"
-    ],
-    "why": "सिंचाई परियोजनाओं पर यह राजनीतिक विवाद पालमूरु क्षेत्र के लोगों से जुड़ा है।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "परियोजनाओं पर बीआरएस की आलोचना"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · కాంగ్రెస్",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "20",
-   "statl": "నిలిపివేసిన మీడియా నియామకాలు",
-   "h": "ఎంపీ చామల చేసిన 20 మీడియా నియామకాలను నిలిపివేసిన టీపీసీసీ",
-   "p": "టీపీసీసీ మీడియా విభాగం చైర్మన్, భువనగిరి ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి నియమించిన 20 మంది మీడియా ప్యానలిస్టులు, కోఆర్డినేటర్లు, అధికార ప్రతినిధుల నియామకాలను కాంగ్రెస్ నిలిపివేసిందని తెలంగాణ టుడే కథనం. తదుపరి ఆదేశాల వరకు నిలిపివేసినట్లు టీపీసీసీ అధికారిక ఎక్స్ ఖాతా పేర్కొంది. ఎంపీ ఏకపక్ష నిర్ణయాలపై రాష్ట్ర నాయకత్వం అభ్యంతరం చెప్పిందని పార్టీ వర్గాలు తెలిపాయి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-congress-puts-20-media-appointments-made-by-mp-chamala-on-hold",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-11T01:00+05:30",
-   "pts": [
-    "సోమవారం జారీ అయిన నియామక ఉత్తర్వులు",
-    "తదుపరి ఆదేశాల వరకు నిలిపివేత",
-    "అధికారిక కారణం వెల్లడించలేదు"
-   ],
-   "why": "అధికార పార్టీలో అంతర్గత నిర్ణయాలు రాష్ట్ర రాజకీయాలను అనుసరించేవారికి ముఖ్యం.",
-   "en": {
-    "h": "TPCC puts on hold 20 media appointments made by MP Chamala",
-    "p": "The Congress has put on hold the appointment of 20 media panelists, coordinators and spokespersons made by Bhongir MP Chamala Kiran Kumar Reddy, chairman of the TPCC media wing, Telangana Today reported. The official TPCC X handle said the orders were on hold until further notice. Party sources said the state leadership objected to the MP's unilateral decisions.",
-    "pts": [
-     "Appointment orders were issued on Monday",
-     "Kept on hold until further notice",
-     "No official reason given"
-    ],
-    "why": "Internal decisions of the ruling party matter to followers of state politics.",
-    "cat": "Telangana · Congress",
-    "statl": "Media appointments put on hold"
-   },
-   "hi": {
-    "h": "टीपीसीसी ने सांसद चमाला की 20 मीडिया नियुक्तियां रोकीं",
-    "p": "तेलंगाना टुडे के अनुसार, कांग्रेस ने टीपीसीसी मीडिया विंग के अध्यक्ष और भुवनगिरी सांसद चमाला किरण कुमार रेड्डी द्वारा नियुक्त 20 मीडिया पैनलिस्ट, समन्वयक और प्रवक्ताओं की नियुक्तियां रोक दीं। टीपीसीसी के आधिकारिक एक्स हैंडल ने कहा कि आदेश अगले निर्देश तक रोके गए हैं। पार्टी सूत्रों के अनुसार राज्य नेतृत्व ने सांसद के एकतरफा फैसलों पर आपत्ति की।",
-    "pts": [
-     "नियुक्ति आदेश सोमवार को जारी हुए थे",
-     "अगले निर्देश तक रोक",
-     "कोई आधिकारिक कारण नहीं बताया"
-    ],
-    "why": "सत्तारूढ़ दल के आंतरिक फैसले राज्य की राजनीति पर नजर रखने वालों के लिए अहम हैं।",
-    "cat": "तेलंगाना · कांग्रेस",
-    "statl": "रोकी गई मीडिया नियुक्तियां"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఖమ్మం · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "2",
-   "statl": "అరెస్టైన నిందితులు",
-   "h": "ఖమ్మం జిల్లాలో పదో తరగతి విద్యార్థి మృతి: విషం ఇచ్చారని పోలీసుల ఆరోపణ, ఇద్దరి అరెస్ట్",
-   "p": "ఖమ్మం జిల్లా కల్లూరు మండలంలో దసరా సెలవులకు ఇంటికి వచ్చిన 15 ఏళ్ల గురుకుల విద్యార్థి విషప్రయోగంతో మృతి చెందాడని పోలీసులు తెలిపారు. ఓ జంటను కలిసి చూసి కుటుంబానికి చెబుతానన్నందుకు, అక్టోబర్ 24న పురుగుమందు కలిపిన శీతల పానీయం ఇచ్చారని పోలీసుల ఆరోపణ. వరంగల్‌లో చికిత్స పొందుతూ ఆదివారం మృతి చెందాడు. ఇద్దరు నిందితులను అరెస్ట్ చేసి రిమాండ్‌కు పంపారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/15-year-old-boy-allegedly-murdered-after-witnessing-couple-together-in-khammam",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "khammam",
-   "loc": "కల్లూరు",
-   "pub": "2026-11-11T00:48+05:30",
-   "pts": [
-    "అక్టోబర్ 24న విషం కలిపిన పానీయం ఇచ్చారని ఆరోపణ",
-    "వరంగల్‌లో చికిత్స పొందుతూ ఆదివారం మృతి",
-    "కుటుంబ ఫిర్యాదుతో కేసు, ఇద్దరికి రిమాండ్"
-   ],
-   "why": "బాలలపై నేరాల విషయంలో పోలీసుల చర్యను ఈ కేసు చూపుతుంది.",
-   "en": {
-    "h": "Class 10 student dies in Khammam district; police allege poisoning, two arrested",
-    "p": "Police said a 15-year-old gurukul student, home in Kallur mandal of Khammam district for the Dasara holidays, died of poisoning. Police allege that after he saw a couple together and threatened to tell his family, he was given a pesticide-laced soft drink on October 24. He died on Sunday while under treatment in Warangal. Two accused were arrested and remanded.",
-    "pts": [
-     "Allegedly given poisoned drink on October 24",
-     "Died under treatment in Warangal on Sunday",
-     "Case on family complaint; two remanded"
-    ],
-    "why": "The case shows police action in crimes against children.",
-    "cat": "Khammam · Crime",
-    "statl": "Accused arrested"
-   },
-   "hi": {
-    "h": "खम्मम जिले में कक्षा 10 के छात्र की मौत: पुलिस का जहर देने का आरोप, दो गिरफ्तार",
-    "p": "पुलिस के अनुसार, दशहरा छुट्टियों में खम्मम जिले के कल्लूर मंडल में घर आए 15 वर्षीय गुरुकुल छात्र की जहर से मौत हुई। पुलिस का आरोप है कि एक जोड़े को साथ देखकर परिवार को बताने की बात कहने पर 24 अक्टूबर को उसे कीटनाशक मिला कोल्ड ड्रिंक दिया गया। वरंगल में इलाज के दौरान रविवार को उसकी मौत हुई। दो आरोपी गिरफ्तार कर रिमांड पर भेजे गए।",
-    "pts": [
-     "24 अक्टूबर को जहरीला पेय देने का आरोप",
-     "वरंगल में इलाज के दौरान रविवार को मौत",
-     "परिवार की शिकायत पर केस, दो रिमांड पर"
-    ],
-    "why": "यह मामला बच्चों के खिलाफ अपराध में पुलिस कार्रवाई दिखाता है।",
-    "cat": "खम्मम · अपराध",
-    "statl": "गिरफ्तार आरोपी"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఏపీ · ఎన్టీఆర్ జిల్లా",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹10,000",
-   "statl": "లంచం తీసుకుంటుండగా పట్టుబడ్డారని ఆరోపణ",
-   "h": "జి.కొండూరులో ఏసీబీ వలలో డిప్యూటీ తహసీల్దార్",
-   "p": "ఎన్టీఆర్ జిల్లా జి.కొండూరు తహసీల్దార్ కార్యాలయంలో ఓ డిప్యూటీ తహసీల్దార్ ₹10,000 లంచం తీసుకుంటుండగా మంగళవారం ఏసీబీ అధికారులు పట్టుకున్నారని హన్స్ ఇండియా కథనం. వెల్లటూరు గ్రామంలోని వ్యవసాయ భూమికి అడంగల్ సవరణ, పట్టాదారు పాస్‌బుక్ కోసం డబ్బు డిమాండ్ చేశారని ఏసీబీ ఆరోపణ. అవినీతి నిరోధక చట్టం సెక్షన్ 7 కింద కేసు నమోదైంది.",
-   "src": "The Hans India",
-   "url": "https://thehansindia.com/andhra-pradesh/dy-tahsildar-in-acb-net-1140902",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-ntr",
-   "loc": "జి.కొండూరు",
-   "pub": "2026-11-11T01:54+05:30",
-   "pts": [
-    "అడంగల్ సవరణ, పాస్‌బుక్ కోసం లంచం డిమాండ్ ఆరోపణ",
-    "మధ్యాహ్నం 2.05కు ఏసీబీ వల",
-    "అవినీతి నిరోధక చట్టం కింద కేసు"
-   ],
-   "why": "భూ రికార్డుల పనుల్లో లంచాలపై ఫిర్యాదు చేయవచ్చని రైతులకు ఇది తెలియజేస్తుంది.",
-   "en": {
-    "h": "Deputy tahsildar caught in ACB trap at G Konduru",
-    "p": "ACB officials caught a deputy tahsildar allegedly accepting a Rs 10,000 bribe at the G Konduru tahsildar's office in NTR district on Tuesday, The Hans India reported. The ACB alleges the money was demanded for correcting Adangal records and issuing a pattadar passbook for farm land at Vellaturu village. A case was registered under Section 7 of the Prevention of Corruption Act.",
-    "pts": [
-     "Bribe allegedly sought for Adangal correction, passbook",
-     "ACB trap laid around 2.05 pm",
-     "Case under Prevention of Corruption Act"
-    ],
-    "why": "It shows farmers they can complain about bribes for land-record work.",
-    "cat": "AP · NTR District",
-    "statl": "Bribe allegedly taken"
-   },
-   "hi": {
-    "h": "जी. कोंडुरु में एसीबी के जाल में डिप्टी तहसीलदार",
-    "p": "द हंस इंडिया के अनुसार, एसीबी अधिकारियों ने मंगलवार को एनटीआर जिले के जी. कोंडुरु तहसीलदार कार्यालय में एक डिप्टी तहसीलदार को कथित तौर पर ₹10,000 रिश्वत लेते पकड़ा। एसीबी का आरोप है कि वेल्लटूरु गांव की कृषि भूमि के अडंगल सुधार और पट्टादार पासबुक के लिए पैसे मांगे गए। भ्रष्टाचार निवारण अधिनियम की धारा 7 के तहत केस दर्ज हुआ।",
-    "pts": [
-     "अडंगल सुधार, पासबुक के लिए रिश्वत मांगने का आरोप",
-     "दोपहर 2.05 बजे एसीबी का जाल",
-     "भ्रष्टाचार निवारण अधिनियम के तहत केस"
-    ],
-    "why": "इससे किसानों को पता चलता है कि भूमि रिकॉर्ड के काम में रिश्वत की शिकायत कर सकते हैं।",
-    "cat": "आंध्र प्रदेश · एनटीआर जिला",
-    "statl": "कथित रिश्वत"
-   },
-   "d": "11.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "వనపర్తి · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹50,000",
-   "statl": "వసూలు చేశారని హోటల్ యజమాని ఆరోపణ",
-   "h": "మానవ హక్కుల సంఘం పేరుతో వసూళ్లు: కొత్తకోటలో ఇద్దరి అరెస్ట్",
-   "p": "మానవ హక్కుల సంఘం పేరుతో హోటళ్లు, బేకరీల యజమానుల నుంచి డబ్బు వసూలు చేశారనే ఆరోపణపై వనపర్తి జిల్లా కొత్తకోటలో ఇద్దరిని అరెస్ట్ చేసి రిమాండ్‌కు పంపినట్లు ఎస్సై విక్రమ్ తెలిపారు. హోటళ్లలో లోపాలు గుర్తించి యజమానులను కార్యాలయానికి పిలిపించి డబ్బులు తీసుకున్నారని ఆరోపణ. తన వద్ద ₹50,000 తీసుకున్నారని ఓ టిఫిన్ సెంటర్ యజమాని ఫిర్యాదు చేశారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/two-arrested-for-extorting-hotel-owners-in-the-name-of-human-rights-association-2557214",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "wanaparthy",
-   "loc": "కొత్తకోట",
-   "pub": "2026-11-11T01:57+05:30",
-   "pts": [
-    "హోటళ్లు, బేకరీల యజమానుల నుంచి వసూళ్ల ఆరోపణ",
-    "టిఫిన్ సెంటర్ యజమాని ఫిర్యాదుతో కేసు",
-    "ఇద్దరు నిందితులకు రిమాండ్"
-   ],
-   "why": "సంఘాల పేరుతో బెదిరింపులకు గురయ్యే చిన్న వ్యాపారులు పోలీసులకు ఫిర్యాదు చేయవచ్చు.",
-   "en": {
-    "h": "Extortion in the name of a human rights body: two arrested in Kothakota",
-    "p": "SI Vikram said two men were arrested and remanded in Kothakota, Wanaparthy district, on charges of extorting money from hotel and bakery owners in the name of a human rights association. They allegedly noted lapses at hotels, called owners to an office and took money. A tiffin centre owner complained that Rs 50,000 was taken from him.",
-    "pts": [
-     "Alleged extortion from hotel, bakery owners",
-     "Case on tiffin centre owner's complaint",
-     "Two accused remanded"
-    ],
-    "why": "Small traders threatened in the name of associations can complain to police.",
-    "cat": "Wanaparthy · Crime",
-    "statl": "Amount allegedly extorted from hotel owner"
-   },
-   "hi": {
-    "h": "मानवाधिकार संगठन के नाम पर वसूली: कोत्तकोटा में दो गिरफ्तार",
-    "p": "एसआई विक्रम ने बताया कि वनपर्ती जिले के कोत्तकोटा में मानवाधिकार संगठन के नाम पर होटल और बेकरी मालिकों से पैसे वसूलने के आरोप में दो लोगों को गिरफ्तार कर रिमांड पर भेजा गया। आरोप है कि वे होटलों में खामियां ढूंढकर मालिकों को दफ्तर बुलाकर पैसे लेते थे। एक टिफिन सेंटर मालिक ने शिकायत की कि उससे ₹50,000 लिए गए।",
-    "pts": [
-     "होटल, बेकरी मालिकों से वसूली का आरोप",
-     "टिफिन सेंटर मालिक की शिकायत पर केस",
-     "दोनों आरोपी रिमांड पर"
-    ],
-    "why": "संगठनों के नाम पर धमकाए जाने वाले छोटे व्यापारी पुलिस से शिकायत कर सकते हैं।",
-    "cat": "वनपर्ती · अपराध",
-    "statl": "होटल मालिक से कथित वसूली"
    },
    "d": "11.11.2026",
    "t": "06:35"
