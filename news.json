@@ -4,6 +4,63 @@
  "version": 2,
  "stories": [
   {
+   "cat": "నీటి సంక్షోభం · హైదరాబాద్",
+   "col": "--c-gov",
+   "art": "water",
+   "stat": "10%",
+   "statl": "సింగూరు, మంజీరాలో మిగిలిన నిల్వ",
+   "h": "డిసెంబర్ నుంచి హైదరాబాద్‌కు నీటి గండం! – సింగూరు, మంజీరా అడుగంటుతున్నాయి; శేరిలింగంపల్లిలో 80% కోత అవకాశం",
+   "p": "ఎల్‌నినో ప్రభావంతో వర్షాలు తగ్గి సింగూరు, మంజీరా జలాశయాల్లో నిల్వలు దాదాపు 10 శాతానికి పడిపోయాయి. డిసెంబర్ మధ్య నాటికి ఇవి అడుగంటే ప్రమాదం ఉందని, ఐటీ కారిడార్ సహా పశ్చిమ హైదరాబాద్‌కు డిసెంబర్ నుంచి నీటి కోత తప్పదని జలమండలి ఎండీ కె. అశోక్ రెడ్డి హెచ్చరించారు. నగరానికి రోజుకు సుమారు 10 కోట్ల గ్యాలన్ల (100 MGD) లోటు ఉండగా, గోదావరి నుంచి అదనంగా 4 కోట్ల గ్యాలన్లు తెచ్చే పైప్‌లైన్ కనెక్షన్లు పూర్తయినా ఇంకా దాదాపు 6 కోట్ల గ్యాలన్ల లోటు ఉంటుంది. శేరిలింగంపల్లిలో సరఫరా దాదాపు 80 శాతం తగ్గే అవకాశం ఉండగా, కూకట్‌పల్లి, గచ్చిబౌలి, నార్సింగి, పటాన్‌చెరు ప్రాంతాలపై తీవ్ర ప్రభావం పడనుంది. జూబ్లీహిల్స్, బంజారాహిల్స్, సనత్‌నగర్, ఎస్ఆర్ నగర్‌లో 30–50 శాతం కోత ఉండొచ్చు. నిర్మాణ పనులకు బోర్‌వెల్ నీటికి బదులు మురుగు శుద్ధి కేంద్రాల నీటిని వాడాలని బిల్డర్లకు సూచించారు. ప్రజలు నీటిని పొదుపుగా వాడాలని, వర్షపు నీటి సంరక్షణ చేపట్టాలని అధికారులు కోరుతున్నారు.",
+   "src": "TV5 News · జలమండలి (HMWSSB)",
+   "url": "",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హైదరాబాద్",
+   "pts": [
+    "సింగూరు, మంజీరాలో దాదాపు 10% నిల్వ – డిసెంబర్ మధ్యకల్లా అడుగంటే ప్రమాదం",
+    "రోజుకు 10 కోట్ల గ్యాలన్ల లోటు; గోదావరి అదనపు నీరు వచ్చినా 6 కోట్లు లోటే",
+    "శేరిలింగంపల్లిలో 80% వరకు కోత; జూబ్లీహిల్స్, బంజారాహిల్స్, సనత్‌నగర్, ఎస్ఆర్ నగర్‌లో 30–50%",
+    "కూకట్‌పల్లి, గచ్చిబౌలి, నార్సింగి, పటాన్‌చెరుపై తీవ్ర ప్రభావం"
+   ],
+   "why": "పశ్చిమ హైదరాబాద్‌లో ఉండేవారు ముందుగానే నీటి నిల్వ, పొదుపు, వర్షపు నీటి సంరక్షణ ఏర్పాట్లు చేసుకోవాలి; జలమండలి సరఫరాపైనే పూర్తిగా ఆధారపడొద్దు.",
+   "en": {
+    "cat": "Water crisis · Hyderabad",
+    "stat": "10%",
+    "statl": "Storage left in Singur and Manjira",
+    "h": "Hyderabad faces water shortage from December – Singur, Manjira near empty; supply cut of up to 80% likely in Serilingampally",
+    "p": "With El Niño cutting rainfall, storage in the Singur and Manjira reservoirs has fallen to about 10%. HMWSSB Managing Director K. Ashok Reddy has warned that they could run dry by mid-December and that western Hyderabad, including the IT corridor, faces supply cuts from December. The city faces a shortfall of about 100 MGD (10 crore gallons) a day; even after pipeline connections bring an additional 40 MGD of Godavari water, a gap of about 60 MGD will remain. Supply in Serilingampally may drop by about 80%, Kukatpally, Gachibowli, Narsingi and Patancheru will be badly hit, and Jubilee Hills, Banjara Hills, Sanathnagar and SR Nagar may see cuts of 30–50%. Builders have been told to use treated sewage water instead of borewell water for construction, and residents are urged to save water and harvest rainwater.",
+    "pts": [
+     "Singur and Manjira at about 10% – may run dry by mid-December",
+     "Shortfall of 100 MGD a day; still 60 MGD short even with extra Godavari water",
+     "Up to 80% cut in Serilingampally; 30–50% in Jubilee Hills, Banjara Hills, Sanathnagar, SR Nagar",
+     "Kukatpally, Gachibowli, Narsingi, Patancheru badly hit"
+    ],
+    "why": "Residents of western Hyderabad should plan storage, saving and rainwater harvesting now rather than relying only on Water Board supply."
+   },
+   "hi": {
+    "cat": "जल संकट · हैदराबाद",
+    "stat": "10%",
+    "statl": "सिंगूर, मंजीरा में बचा पानी",
+    "h": "दिसंबर से हैदराबाद में जल संकट – सिंगूर, मंजीरा सूखने की कगार पर; सेरिलिंगमपल्ली में 80% तक कटौती संभव",
+    "p": "अल नीनो के कारण कम बारिश से सिंगूर और मंजीरा जलाशयों में भंडार लगभग 10% रह गया है। HMWSSB के प्रबंध निदेशक के. अशोक रेड्डी ने चेतावनी दी है कि दिसंबर के मध्य तक ये सूख सकते हैं और आईटी कॉरिडोर समेत पश्चिमी हैदराबाद में दिसंबर से पानी की कटौती होगी। शहर में रोज़ लगभग 100 MGD (10 करोड़ गैलन) की कमी है; गोदावरी से अतिरिक्त 40 MGD आने के बाद भी लगभग 60 MGD की कमी बनी रहेगी। सेरिलिंगमपल्ली में आपूर्ति लगभग 80% घट सकती है, कूकटपल्ली, गच्चीबौली, नार्सिंगी और पटानचेरु पर गंभीर असर होगा, जबकि जुबली हिल्स, बंजारा हिल्स, सनतनगर और एसआर नगर में 30–50% कटौती हो सकती है। बिल्डरों को निर्माण में बोरवेल की जगह शोधित सीवेज पानी इस्तेमाल करने को कहा गया है और लोगों से पानी बचाने व वर्षा जल संचयन की अपील की गई है।",
+    "pts": [
+     "सिंगूर, मंजीरा में लगभग 10% पानी – दिसंबर मध्य तक सूखने का ख़तरा",
+     "रोज़ 100 MGD की कमी; गोदावरी का अतिरिक्त पानी आने पर भी 60 MGD कम",
+     "सेरिलिंगमपल्ली में 80% तक कटौती; जुबली हिल्स, बंजारा हिल्स, सनतनगर, एसआर नगर में 30–50%",
+     "कूकटपल्ली, गच्चीबौली, नार्सिंगी, पटानचेरु पर गंभीर असर"
+    ],
+    "why": "पश्चिमी हैदराबाद के निवासी अभी से पानी के भंडारण, बचत और वर्षा जल संचयन की तैयारी करें; केवल जल बोर्ड की आपूर्ति पर निर्भर न रहें।"
+   },
+   "d": "11.11.2026",
+   "t": "19:30",
+   "img": "photos/2026-11-11-hyderabad-water-crisis.jpg",
+   "imgfy": 0.45,
+   "local": true
+  },
+  {
    "cat": "భూపాలపల్లి · ఆరోగ్యం",
    "col": "--c-gov",
    "art": "campus",
