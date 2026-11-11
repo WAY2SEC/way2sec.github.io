@@ -1,8 +1,310 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T21:12:04+05:30",
+ "updated": "2026-11-11T21:48:43+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "భారత్ · ధరలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹4/లీ.",
+   "statl": "అమూల్ గోల్డ్ పాలపై పెంపు",
+   "h": "మదర్ డెయిరీ తర్వాత అమూల్ పాల ధరలు 5% వరకు పెంపు",
+   "p": "అమూల్ పాల ధరలు నవంబర్ 12 నుంచి దేశవ్యాప్తంగా 4–5 శాతం పెరుగుతున్నాయి. అమూల్ తాజా టోన్డ్ పాలపై లీటరుకు ₹2, అమూల్ గోల్డ్‌పై ₹4 పెంచారు. గుజరాత్ సహా పలు ప్రాంతాల్లో తక్కువ, అసమాన వర్షపాతం వల్ల రైతులకు మెరుగైన ధర ఇవ్వడానికే ఈ పెంపు అని జీసీఎంఎంఎఫ్ తెలిపింది. మదర్ డెయిరీ ఇప్పటికే లీటరుకు ₹2–4 పెంచిందని సియాసత్ (పీటీఐ) పేర్కొంది.",
+   "src": "Siasat Daily (PTI)",
+   "url": "https://www.siasat.com/after-mother-dairy-amul-increases-prices-by-5-per-cent-3574698/",
+   "sec": [
+    "india",
+    "business",
+    "agri"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "నవంబర్ 12 నుంచి అమూల్ ధరలు 4–5% పెంపు",
+    "తాజా టోన్డ్‌పై ₹2, గోల్డ్‌పై ₹4 అదనం",
+    "తక్కువ వర్షపాతమే కారణమన్న జీసీఎంఎంఎఫ్"
+   ],
+   "why": "రోజూ పాలు కొనే ప్రతి కుటుంబ ఖర్చు పెరుగుతుంది; పాడి రైతులకు ధర మెరుగవుతుందని సంస్థ చెబుతోంది.",
+   "pub": "2026-11-11T21:31+05:30",
+   "en": {
+    "h": "After Mother Dairy, Amul raises milk prices by up to 5%",
+    "p": "Amul milk prices will rise by 4–5% across India from November 12. Amul Taaza toned milk goes up by ₹2 a litre and Amul Gold by ₹4. GCMMF said the hike is meant to pay farmers better prices amid low and uneven rainfall in Gujarat and other regions. Mother Dairy has already raised prices by ₹2–4 a litre, Siasat (PTI) reported.",
+    "pts": [
+     "Amul prices up 4–5% from November 12",
+     "₹2 more for Taaza toned, ₹4 for Gold",
+     "GCMMF cites low rainfall"
+    ],
+    "why": "Every household buying milk daily will pay more; the federation says dairy farmers will get better prices.",
+    "cat": "India · Prices",
+    "statl": "Hike on Amul Gold milk"
+   },
+   "hi": {
+    "h": "मदर डेयरी के बाद अमूल ने दूध के दाम 5% तक बढ़ाए",
+    "p": "अमूल दूध के दाम 12 नवंबर से पूरे देश में 4–5 प्रतिशत बढ़ रहे हैं। अमूल ताज़ा टोंड दूध पर ₹2 और अमूल गोल्ड पर ₹4 प्रति लीटर की बढ़ोतरी हुई है। जीसीएमएमएफ ने कहा कि गुजरात समेत कई इलाकों में कम और असमान बारिश के बीच किसानों को बेहतर दाम देने के लिए यह बढ़ोतरी की गई है। सियासत (पीटीआई) के अनुसार मदर डेयरी पहले ही ₹2–4 प्रति लीटर बढ़ा चुकी है।",
+    "pts": [
+     "12 नवंबर से अमूल के दाम 4–5% बढ़े",
+     "ताज़ा टोंड पर ₹2, गोल्ड पर ₹4 ज़्यादा",
+     "जीसीएमएमएफ ने कम बारिश को कारण बताया"
+    ],
+    "why": "रोज़ दूध खरीदने वाले हर परिवार का खर्च बढ़ेगा; संस्था के अनुसार डेयरी किसानों को बेहतर दाम मिलेंगे।",
+    "cat": "भारत · कीमतें",
+    "statl": "अमूल गोल्ड दूध पर बढ़ोतरी"
+   },
+   "d": "11.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "సంగారెడ్డి · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "తెలుగులో",
+   "statl": "ముందుగా తెలుగులో సినిమా",
+   "h": "సోనియా గాంధీ ఆత్మకథ ఆధారంగా సినిమా తీస్తా: జగ్గారెడ్డి",
+   "p": "సోనియా గాంధీ ఆత్మకథ 'బిలాంగింగ్: ఎ జర్నీ ఆఫ్ లవ్' ఆధారంగా ఆమె జీవితంపై సినిమా తీస్తానని టీపీసీసీ వర్కింగ్ ప్రెసిడెంట్ టి.జగ్గారెడ్డి బుధవారం ప్రకటించారు. సంగారెడ్డి నియోజకవర్గ కాంగ్రెస్ కార్యకర్తల సమావేశంలో మాట్లాడుతూ, బయటి వారి నిధులు తీసుకోబోమని, పార్టీ శ్రేణులే నిధులు సమకూర్చాలని కోరారు. సినిమా మొదట తెలుగులో వస్తుందని తెలంగాణ టుడే తెలిపింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/jagga-reddy-to-make-movie-on-sonia-gandhis-autobiography",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "pts": [
+    "సోనియా ఆత్మకథ ఆధారంగా సినిమా ప్రకటన",
+    "నిధులు పార్టీ శ్రేణుల నుంచే సేకరణ",
+    "ముందుగా తెలుగులో నిర్మాణం"
+   ],
+   "why": "సంగారెడ్డి కాంగ్రెస్ కార్యకర్తల నుంచి నిధుల సేకరణకు బృందం ఏర్పాటు చేస్తామని ఆయన చెప్పారు.",
+   "pub": "2026-11-11T20:33+05:30",
+   "en": {
+    "h": "Will make a film on Sonia Gandhi's autobiography: Jagga Reddy",
+    "p": "TPCC working president T Jagga Reddy announced on Wednesday that he will make a film on Sonia Gandhi's life based on her autobiography 'Belonging: A Journey of Love'. Speaking at a meeting of Sangareddy constituency Congress workers, he said no outside funds would be taken and asked party cadres to raise the money. The film will first be made in Telugu, Telangana Today reported.",
+    "pts": [
+     "Film on Sonia's autobiography announced",
+     "Funds to be raised only from party cadres",
+     "To be made first in Telugu"
+    ],
+    "why": "He said a team would be formed to raise funds from Sangareddy Congress workers.",
+    "cat": "Sangareddy · Politics",
+    "statl": "Film first in Telugu"
+   },
+   "hi": {
+    "h": "सोनिया गांधी की आत्मकथा पर फ़िल्म बनाऊँगा: जग्गा रेड्डी",
+    "p": "टीपीसीसी कार्यकारी अध्यक्ष टी. जग्गा रेड्डी ने बुधवार को घोषणा की कि वे सोनिया गांधी की आत्मकथा 'बिलॉन्गिंग: ए जर्नी ऑफ़ लव' पर आधारित उनके जीवन पर फ़िल्म बनाएँगे। संगारेड्डी निर्वाचन क्षेत्र के कांग्रेस कार्यकर्ताओं की बैठक में उन्होंने कहा कि बाहरी पैसा नहीं लिया जाएगा और पार्टी कार्यकर्ता ही धन जुटाएँ। तेलंगाना टुडे के अनुसार फ़िल्म पहले तेलुगु में बनेगी।",
+    "pts": [
+     "सोनिया की आत्मकथा पर फ़िल्म की घोषणा",
+     "धन केवल पार्टी कार्यकर्ताओं से",
+     "पहले तेलुगु में बनेगी"
+    ],
+    "why": "उन्होंने कहा कि संगारेड्डी कांग्रेस कार्यकर्ताओं से धन जुटाने के लिए टीम बनाई जाएगी।",
+    "cat": "संगारेड्डी · राजनीति",
+    "statl": "पहले तेलुगु में फ़िल्म"
+   },
+   "d": "11.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "57 ఏళ్లు",
+   "statl": "బ్రెయిన్ డెడ్ అయిన ఏఎస్ఐ వయసు",
+   "h": "బ్రెయిన్ డెడ్ అయిన పోలీస్ అధికారి అవయవ దానానికి కుటుంబం అంగీకారం",
+   "p": "సికింద్రాబాద్ జీఆర్పీలో పనిచేస్తున్న మహబూబ్‌నగర్ జిల్లా కోడూరుకు చెందిన 57 ఏళ్ల ఏఆర్ ఏఎస్ఐ నవంబర్ 10న హైదరాబాద్ ప్రైవేటు ఆసుపత్రిలో బ్రెయిన్ డెడ్ అయ్యారు. ఆయన భార్య అవయవ దానానికి నిర్ణయించారు. అయితే వైద్య కారణాల వల్ల ఏ అవయవమూ మార్పిడికి పనికిరాలేదని జీవన్‌దాన్ తెలిపింది. కుటుంబ నిర్ణయం ఇతరులకు స్ఫూర్తి అని జీవన్‌దాన్ ఇన్‌చార్జ్ డా. శ్రీభూషణ్ రాజు అన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/family-of-brain-dead-police-officer-decides-to-donate-organs",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కోడూరు",
+   "pts": [
+    "నవంబర్ 10న బ్రెయిన్ డెడ్ ప్రకటన",
+    "భార్య నిర్ణయంతో అవయవ దానానికి అంగీకారం",
+    "వైద్య కారణాలతో అవయవాలు ఉపయోగపడలేదు: జీవన్‌దాన్"
+   ],
+   "why": "ఇలాంటి నిర్ణయాలు అవయవ దానంపై అవగాహన పెంచుతాయని జీవన్‌దాన్ పేర్కొంది.",
+   "pub": "2026-11-11T20:25+05:30",
+   "en": {
+    "h": "Family of brain-dead police officer agrees to donate organs",
+    "p": "A 57-year-old AR ASI serving with GRP Secunderabad, from Kodur in Mahabubnagar district, was declared brain dead on November 10 at a private hospital in Hyderabad. His wife decided to donate his organs. However, Jeevandan said none of the organs could be used for transplant for medical reasons. Jeevandan in-charge Dr Sree Bhushan Raju said the family's decision could inspire others.",
+    "pts": [
+     "Declared brain dead on November 10",
+     "Wife decided to donate organs",
+     "Organs unusable for medical reasons: Jeevandan"
+    ],
+    "why": "Jeevandan said such decisions raise awareness about organ donation.",
+    "cat": "Hyderabad · Health",
+    "statl": "Age of the brain-dead ASI"
+   },
+   "hi": {
+    "h": "ब्रेन डेड पुलिस अधिकारी के परिवार ने अंगदान को दी सहमति",
+    "p": "जीआरपी सिकंदराबाद में तैनात, महबूबनगर ज़िले के कोडूर के 57 वर्षीय एआर एएसआई को 10 नवंबर को हैदराबाद के एक निजी अस्पताल में ब्रेन डेड घोषित किया गया। उनकी पत्नी ने अंगदान का फ़ैसला किया। लेकिन जीवनदान के अनुसार चिकित्सा कारणों से कोई भी अंग प्रत्यारोपण योग्य नहीं था। जीवनदान प्रभारी डॉ. श्रीभूषण राजू ने कहा कि परिवार का फ़ैसला दूसरों को प्रेरित करेगा।",
+    "pts": [
+     "10 नवंबर को ब्रेन डेड घोषित",
+     "पत्नी ने अंगदान का फ़ैसला किया",
+     "चिकित्सा कारणों से अंग उपयोगी नहीं: जीवनदान"
+    ],
+    "why": "जीवनदान के अनुसार ऐसे फ़ैसले अंगदान के प्रति जागरूकता बढ़ाते हैं।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "ब्रेन डेड एएसआई की उम्र"
+   },
+   "d": "11.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "పెద్దపల్లి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "14 మంది",
+   "statl": "జూదం కేసుల్లో అరెస్టు",
+   "h": "పెద్దపల్లిలో జూదం దాడులు: 14 మంది అరెస్టు, ₹1.54 లక్షలు స్వాధీనం",
+   "p": "పెద్దపల్లి జిల్లాలో రెండు వేర్వేరు జూదం కేసుల్లో పోలీసులు 14 మందిని అరెస్టు చేశారు. గోదావరిఖనిలోని ఓ లాడ్జిలో మంగళవారం రాత్రి టాస్క్‌ఫోర్స్ దాడి చేసి జూదమాడుతున్నారన్న ఆరోపణపై 10 మందిని పట్టుకుని ₹1.36 లక్షలు, 10 ఫోన్లు స్వాధీనం చేసుకుంది. రామగిరి పరిధి సెంటినరీ కాలనీలో మరో నలుగురిని అదుపులోకి తీసుకున్నట్లు పోలీసుల ప్రకారం తెలంగాణ టుడే తెలిపింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/gambling-raids-in-peddapalli-14-held-cash-and-mobile-phones-seized",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "గోదావరిఖని",
+   "pts": [
+    "గోదావరిఖని లాడ్జిలో 10 మంది అరెస్టు",
+    "సెంటినరీ కాలనీలో మరో నలుగురు అదుపులోకి",
+    "మొత్తం ₹1.54 లక్షలు, 14 ఫోన్లు స్వాధీనం"
+   ],
+   "why": "జిల్లాలో జూదంపై పోలీసులు చర్యలు కొనసాగిస్తున్నారని ఈ దాడులు చూపుతున్నాయి.",
+   "pub": "2026-11-11T20:13+05:30",
+   "en": {
+    "h": "Gambling raids in Peddapalli: 14 held, ₹1.54 lakh seized",
+    "p": "Police arrested 14 people in two separate gambling cases in Peddapalli district. On Tuesday night the task force raided a lodge in Godavarikhani, held 10 people for allegedly gambling and seized ₹1.36 lakh and 10 phones. Four more were taken into custody at Centenary Colony in Ramagiri limits, Telangana Today reported, citing police.",
+    "pts": [
+     "10 held at Godavarikhani lodge",
+     "Four more held at Centenary Colony",
+     "₹1.54 lakh and 14 phones seized in all"
+    ],
+    "why": "The raids show police action against gambling in the district is continuing.",
+    "cat": "Peddapalli · Crime",
+    "statl": "Arrested in gambling cases"
+   },
+   "hi": {
+    "h": "पेद्दापल्ली में जुए पर छापे: 14 गिरफ़्तार, ₹1.54 लाख ज़ब्त",
+    "p": "पेद्दापल्ली ज़िले में पुलिस ने जुए के दो अलग-अलग मामलों में 14 लोगों को गिरफ़्तार किया। मंगलवार रात टास्क फ़ोर्स ने गोदावरीखनी के एक लॉज पर छापा मारकर कथित रूप से जुआ खेलते 10 लोगों को पकड़ा और ₹1.36 लाख व 10 फ़ोन ज़ब्त किए। पुलिस के हवाले से तेलंगाना टुडे ने बताया कि रामगिरी क्षेत्र की सेंटेनरी कॉलोनी में चार और लोग हिरासत में लिए गए।",
+    "pts": [
+     "गोदावरीखनी लॉज में 10 गिरफ़्तार",
+     "सेंटेनरी कॉलोनी में चार और हिरासत में",
+     "कुल ₹1.54 लाख और 14 फ़ोन ज़ब्त"
+    ],
+    "why": "छापे दिखाते हैं कि ज़िले में जुए पर पुलिस कार्रवाई जारी है।",
+    "cat": "पेद्दापल्ली · अपराध",
+    "statl": "जुए के मामलों में गिरफ़्तार"
+   },
+   "d": "11.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "భద్రాద్రి · ప్రమాదం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "1 మృతి",
+   "statl": "కోల్ టిప్పర్ ఢీకొన్న ఘటన",
+   "h": "అన్నపురెడ్డిపల్లి వద్ద ట్రాక్టర్‌ను ఢీకొన్న కోల్ టిప్పర్: డ్రైవర్ మృతి",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లా అన్నపురెడ్డిపల్లి మండలం గుంపెన గ్రామం వద్ద బుధవారం వేగంగా వచ్చిన కోల్ టిప్పర్ ట్రాక్టర్‌ను వెనుక నుంచి ఢీకొంది. పోలీసుల ప్రకారం చండ్రుగొండ మండలానికి చెందిన 42 ఏళ్ల ట్రాక్టర్ డ్రైవర్ తీవ్ర గాయాలతో అక్కడికక్కడే మృతి చెందారు. ఎస్సై విజయసింహారెడ్డి ఘటనా స్థలాన్ని పరిశీలించి వివరాలు సేకరించారని తెలంగాణ టుడే తెలిపింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tractor-driver-killed-after-coal-tipper-rams-vehicle-in-kothagudem",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "గుంపెన",
+   "pts": [
+    "కోల్ టిప్పర్ వెనుక నుంచి ఢీకొంది",
+    "42 ఏళ్ల డ్రైవర్ అక్కడికక్కడే మృతి",
+    "ఎస్సై ఘటనా స్థలం పరిశీలన"
+   ],
+   "why": "కొత్తగూడెం రహదారులపై బొగ్గు టిప్పర్ల వేగం స్థానికులకు ప్రమాదంగా మారుతోంది.",
+   "pub": "2026-11-11T17:01+05:30",
+   "en": {
+    "h": "Coal tipper rams tractor near Annapureddypalle, driver killed",
+    "p": "A speeding coal tipper hit a tractor from behind near Gumpena village in Annapureddypalle mandal of Bhadradri Kothagudem district on Wednesday. According to police, the 42-year-old tractor driver from Chandrugonda mandal suffered serious injuries and died on the spot. SI Vijaysimha Reddy visited the scene and collected details, Telangana Today reported.",
+    "pts": [
+     "Coal tipper hit tractor from behind",
+     "42-year-old driver died on the spot",
+     "SI inspected the scene"
+    ],
+    "why": "Speeding coal tippers on Kothagudem roads pose a risk to local people.",
+    "cat": "Bhadradri · Accident",
+    "statl": "Coal tipper crash"
+   },
+   "hi": {
+    "h": "अन्नपुरेड्डीपल्ली के पास कोयला टिपर ने ट्रैक्टर को टक्कर मारी, चालक की मौत",
+    "p": "भद्राद्री कोत्तागुडेम ज़िले के अन्नपुरेड्डीपल्ली मंडल के गुंपेना गाँव के पास बुधवार को तेज़ रफ़्तार कोयला टिपर ने ट्रैक्टर को पीछे से टक्कर मार दी। पुलिस के अनुसार चंद्रुगोंडा मंडल के 42 वर्षीय ट्रैक्टर चालक की गंभीर चोटों से मौके पर ही मौत हो गई। तेलंगाना टुडे के अनुसार एसआई विजयसिम्हा रेड्डी ने घटनास्थल का जायज़ा लिया।",
+    "pts": [
+     "कोयला टिपर ने पीछे से टक्कर मारी",
+     "42 वर्षीय चालक की मौके पर मौत",
+     "एसआई ने घटनास्थल का निरीक्षण किया"
+    ],
+    "why": "कोत्तागुडेम की सड़कों पर तेज़ कोयला टिपर स्थानीय लोगों के लिए ख़तरा हैं।",
+    "cat": "भद्राद्री · हादसा",
+    "statl": "कोयला टिपर हादसा"
+   },
+   "d": "11.11.2026",
+   "t": "21:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆవిష్కరణ",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "₹2,500",
+   "statl": "ఒక్కో యూనిట్ ఖర్చు",
+   "h": "ఆహార వ్యర్థాలను ప్రోటీన్ పశుగ్రాసంగా మార్చిన బిట్స్ హైదరాబాద్ పరిశోధకులు",
+   "p": "బిట్స్ పిలానీ హైదరాబాద్ క్యాంపస్ పరిశోధకులు బ్లాక్ సోల్జర్ ఫ్లై లార్వాలతో ఆహార వ్యర్థాలను సుమారు రెండు వారాల్లో ప్రోటీన్ పశుగ్రాసంగా మార్చే తక్కువ ఖర్చు వ్యవస్థను రూపొందించారు. ఒక్కో యూనిట్ ఖర్చు ₹2,500. తొలి ప్రయోగాల్లో రోజుకు సుమారు 2 కిలోల లార్వాలు వచ్చాయి. వీటిలో 20% ప్రోటీన్, 25% కొవ్వు ఉండటంతో కోళ్లు, పందులు, చేపల పెంపకానికి ఉపయోగపడతాయని తెలంగాణ టుడే తెలిపింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/bits-hyderabad-researchers-turn-food-waste-into-protein-rich-animal-feed",
+   "sec": [
+    "telangana",
+    "innovation",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఒక్కో యూనిట్ ఖర్చు ₹2,500 మాత్రమే",
+    "రోజుకు సుమారు 2 కిలోల లార్వా దిగుబడి",
+    "లార్వాల్లో 20% ప్రోటీన్, 25% కొవ్వు"
+   ],
+   "why": "కోళ్లు, చేపల పెంపకందారులకు దాణా ఖర్చు తగ్గే అవకాశంతో పాటు వ్యర్థాల సమస్యకూ ఉపయోగం.",
+   "pub": "2026-11-11T17:31+05:30",
+   "en": {
+    "h": "BITS Hyderabad researchers turn food waste into protein-rich animal feed",
+    "p": "Researchers at the BITS Pilani Hyderabad campus have built a low-cost system that uses black soldier fly larvae to turn food waste into protein-rich animal feed in about two weeks. Each unit costs ₹2,500. Early trials yielded about 2 kg of larvae a day. With 20% protein and 25% fat, the larvae can be used for poultry, pig and fish farming, Telangana Today reported.",
+    "pts": [
+     "Each unit costs only ₹2,500",
+     "About 2 kg of larvae a day",
+     "Larvae have 20% protein, 25% fat"
+    ],
+    "why": "It could cut feed costs for poultry and fish farmers while helping tackle food waste.",
+    "cat": "Hyderabad · Innovation",
+    "statl": "Cost per unit"
+   },
+   "hi": {
+    "h": "बिट्स हैदराबाद के शोधकर्ताओं ने खाने के कचरे से प्रोटीन युक्त पशु आहार बनाया",
+    "p": "बिट्स पिलानी हैदराबाद कैंपस के शोधकर्ताओं ने ब्लैक सोल्जर फ्लाई लार्वा की मदद से खाने के कचरे को लगभग दो हफ़्तों में प्रोटीन युक्त पशु आहार में बदलने वाली कम लागत की प्रणाली बनाई है। हर यूनिट की लागत ₹2,500 है। शुरुआती परीक्षणों में रोज़ लगभग 2 किलो लार्वा मिले। तेलंगाना टुडे के अनुसार 20% प्रोटीन और 25% वसा वाले ये लार्वा मुर्गी, सूअर और मछली पालन में काम आ सकते हैं।",
+    "pts": [
+     "हर यूनिट की लागत सिर्फ़ ₹2,500",
+     "रोज़ लगभग 2 किलो लार्वा",
+     "लार्वा में 20% प्रोटीन, 25% वसा"
+    ],
+    "why": "इससे मुर्गी और मछली पालकों का चारा खर्च घट सकता है और कचरे की समस्या भी कम होगी।",
+    "cat": "हैदराबाद · नवाचार",
+    "statl": "प्रति यूनिट लागत"
+   },
+   "d": "11.11.2026",
+   "t": "21:35"
+  },
   {
    "cat": "హైదరాబాద్ · హైకోర్టు",
    "col": "--c-city",
@@ -2164,306 +2466,6 @@
    },
    "d": "11.11.2026",
    "t": "17:05"
-  },
-  {
-   "cat": "భారత్ · మార్కెట్లు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "+773",
-   "statl": "సెన్సెక్స్ లాభం (పాయింట్లు)",
-   "h": "సెన్సెక్స్ 773 పాయింట్లు జంప్: 25,255 వద్ద ముగిసిన నిఫ్టీ",
-   "p": "బుధవారం దేశీయ స్టాక్ మార్కెట్లు భారీ లాభాలతో ముగిశాయి. బీఎస్ఈ సెన్సెక్స్ 772.75 పాయింట్లు (0.95%) పెరిగి 81,879.40 వద్ద, నిఫ్టీ 50 210.40 పాయింట్లు పెరిగి 25,255.05 వద్ద స్థిరపడ్డాయి. ఆటో, బ్యాంకింగ్ షేర్లు రాణించగా ఐటీ, ఫార్మా షేర్లు తగ్గాయి. నవంబర్‌లో ఇప్పటివరకు విదేశీ పోర్ట్‌ఫోలియో పెట్టుబడిదారులు 5.68 బిలియన్ డాలర్ల షేర్లు కొన్నారని హెచ్‌డీఎఫ్‌సీ స్కై తెలిపింది.",
-   "src": "HDFC Sky",
-   "url": "https://hdfcsky.com/news/market-close-report-today-november-11-2026-nifty-sensex-soar-as-auto-banking-shine",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "సెన్సెక్స్ 81,879.40, నిఫ్టీ 25,255.05 వద్ద ముగింపు",
-    "ఆటో, బ్యాంక్ షేర్ల లాభాలు; ఐటీ, ఫార్మా నష్టాలు",
-    "ఈ నెలలో సూచీలు దాదాపు 10% పెరిగాయి"
-   ],
-   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై ఈ కదలికల ప్రభావం ఉంటుంది.",
-   "pub": "2026-11-11T16:19+05:30",
-   "en": {
-    "h": "Sensex jumps 773 points; Nifty closes at 25,255",
-    "p": "Indian stock markets closed with strong gains on Wednesday. The BSE Sensex rose 772.75 points (0.95%) to 81,879.40 and the Nifty 50 gained 210.40 points to settle at 25,255.05. Auto and banking shares did well while IT and pharma shares fell. Foreign portfolio investors have bought shares worth $5.68 billion so far in November, HDFC Sky reported.",
-    "pts": [
-     "Sensex closes at 81,879.40, Nifty at 25,255.05",
-     "Auto and bank shares gain; IT and pharma fall",
-     "Indices up nearly 10% this month"
-    ],
-    "why": "These moves affect the savings of people invested in shares and mutual funds.",
-    "cat": "India · Markets",
-    "statl": "Sensex gain (points)"
-   },
-   "hi": {
-    "h": "सेंसेक्स 773 अंक उछला, निफ्टी 25,255 पर बंद",
-    "p": "बुधवार को घरेलू शेयर बाज़ार ज़ोरदार बढ़त के साथ बंद हुए। बीएसई सेंसेक्स 772.75 अंक (0.95%) चढ़कर 81,879.40 पर और निफ्टी 50 210.40 अंक बढ़कर 25,255.05 पर बंद हुआ। ऑटो और बैंकिंग शेयरों में तेज़ी रही, जबकि आईटी और फार्मा शेयर गिरे। एचडीएफसी स्काई के अनुसार नवंबर में अब तक विदेशी पोर्टफोलियो निवेशकों ने 5.68 अरब डॉलर के शेयर खरीदे हैं।",
-    "pts": [
-     "सेंसेक्स 81,879.40, निफ्टी 25,255.05 पर बंद",
-     "ऑटो, बैंक शेयरों में बढ़त; आईटी, फार्मा में गिरावट",
-     "इस महीने सूचकांक करीब 10% चढ़े"
-    ],
-    "why": "इन उतार-चढ़ावों का असर शेयरों और म्यूचुअल फंड में निवेश करने वालों की बचत पर पड़ता है।",
-    "cat": "भारत · बाज़ार",
-    "statl": "सेंसेक्स में बढ़त (अंक)"
-   },
-   "d": "11.11.2026",
-   "t": "17:05"
-  },
-  {
-   "cat": "నల్గొండ · భద్రత",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "2 బృందాలు",
-   "statl": "నిందితుడి కోసం పోలీసుల ప్రత్యేక బృందాలు",
-   "h": "కనగల్‌లో ఇద్దరు బాలికలపై వేధింపుల ఆరోపణ: పారిశుద్ధ్య కార్మికుడిపై పోక్సో కేసు",
-   "p": "నల్గొండ జిల్లాలో ఐదో తరగతి చదువుతున్న ఇద్దరు బాలికలను లైంగికంగా వేధించి, బెదిరించాడనే ఆరోపణలపై ఒక పారిశుద్ధ్య కార్మికుడిపై పోక్సో చట్టం కింద కేసు నమోదైంది. తల్లిదండ్రుల ఫిర్యాదు తర్వాత నిందితుడు పరారీలో ఉన్నాడని, అతడిని పట్టుకునేందుకు కనగల్ పోలీసులు రెండు ప్రత్యేక బృందాలను ఏర్పాటు చేశారని టైమ్స్ ఆఫ్ ఇండియాను ఉటంకిస్తూ సియాసత్ పేర్కొంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/nalgonda-sanitation-worker-booked-for-harassing-two-class-v-girls-3573791/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "కనగల్",
-   "pts": [
-    "పోక్సో చట్టం కింద కేసు నమోదు",
-    "ఫిర్యాదు తర్వాత నిందితుడు పరారీ: పోలీసులు",
-    "గాలింపునకు రెండు ప్రత్యేక బృందాలు"
-   ],
-   "why": "పాఠశాలల్లో పిల్లల భద్రతపై తల్లిదండ్రులు, పాఠశాల యాజమాన్యాలు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
-   "pub": "2026-11-11T09:54+05:30",
-   "en": {
-    "h": "Kanagal: Sanitation worker booked under POCSO for allegedly harassing two girls",
-    "p": "A case has been registered under the POCSO Act against a sanitation worker in Nalgonda district accused of sexually harassing and threatening two Class 5 girls. The accused has been absconding since the parents filed a complaint, and Kanagal police have formed two special teams to trace him, Siasat reported, citing The Times of India.",
-    "pts": [
-     "Case registered under the POCSO Act",
-     "Accused absconding after complaint, say police",
-     "Two special teams formed to trace him"
-    ],
-    "why": "It shows the need for parents and school managements to stay alert about children's safety in schools.",
-    "cat": "Nalgonda · Safety",
-    "statl": "Special police teams formed to trace accused"
-   },
-   "hi": {
-    "h": "कनगल: दो बच्चियों से उत्पीड़न के आरोप में सफाईकर्मी पर पॉक्सो केस",
-    "p": "नलगोंडा ज़िले में कक्षा 5 की दो बच्चियों का यौन उत्पीड़न करने और उन्हें धमकाने के आरोप में एक सफाईकर्मी के खिलाफ पॉक्सो अधिनियम के तहत मामला दर्ज किया गया है। सियासत ने टाइम्स ऑफ इंडिया के हवाले से बताया कि माता-पिता की शिकायत के बाद से आरोपी फरार है और कनगल पुलिस ने उसे पकड़ने के लिए दो विशेष टीमें बनाई हैं।",
-    "pts": [
-     "पॉक्सो अधिनियम के तहत मामला दर्ज",
-     "पुलिस के अनुसार शिकायत के बाद आरोपी फरार",
-     "तलाश के लिए दो विशेष टीमें गठित"
-    ],
-    "why": "यह स्कूलों में बच्चों की सुरक्षा को लेकर माता-पिता और स्कूल प्रबंधन के सतर्क रहने की ज़रूरत दिखाता है।",
-    "cat": "नलगोंडा · सुरक्षा",
-    "statl": "आरोपी की तलाश में विशेष पुलिस टीमें"
-   },
-   "d": "11.11.2026",
-   "t": "17:05"
-  },
-  {
-   "cat": "ఏపీ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "ఆరోపణ",
-   "statl": "స్థానిక ఎన్నికల్లో రిగ్గింగ్ జరిగిందని వైసీపీ ఆరోపణ",
-   "h": "స్థానిక ఎన్నికల్లో రిగ్గింగ్ జరిగిందని చంద్రబాబుపై జగన్ ఆరోపణ",
-   "p": "ఇటీవలి స్థానిక సంస్థల ఎన్నికల్లో ముఖ్యమంత్రి చంద్రబాబు నాయుడు రిగ్గింగ్‌కు పాల్పడ్డారని వైసీపీ అధ్యక్షుడు వైఎస్ జగన్ మోహన్ రెడ్డి ఆరోపించారు. తాడేపల్లిలో పలు జిల్లాల పార్టీ నేతలతో జరిగిన సమావేశంలో ఆయన మాట్లాడారు. అక్రమాలు జరిగినా 2024తో పోలిస్తే తమ ఓట్ల శాతం పెరిగిందని, స్వేచ్ఛగా ఎన్నికలు జరిగి ఉంటే ఇంకా ఎక్కువ వచ్చేదని ఆయన అన్నారని ఏఎన్ఐ కథనం పేర్కొంది.",
-   "src": "Asianet Newsable (ANI)",
-   "url": "https://newsable.asianetnews.com/india/ys-jagan-accuses-chandrababu-naidu-of-rigging-local-body-elections-articleshow-my9eqoa",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-guntur",
-   "loc": "తాడేపల్లి",
-   "pts": [
-    "వైసీపీ గెలిచిన చోట ఫలితాలు మార్చారని జగన్ ఆరోపణ",
-    "కౌంటింగ్ కేంద్రాల్లో కరెంట్ కోత, రీకౌంటింగ్ నిరాకరణ అని నేతల ఆరోపణ",
-    "రాష్ట్ర ఎన్నికల సంఘం విఫలమైందని వైసీపీ నేతల విమర్శ"
-   ],
-   "why": "స్థానిక ఎన్నికల ఫలితాలపై అధికార, ప్రతిపక్షాల మధ్య వివాదం ముదురుతోందని ఇది చూపుతోంది.",
-   "pub": "2026-11-11T16:10+05:30",
-   "en": {
-    "h": "Jagan accuses Chandrababu Naidu of rigging local body elections",
-    "p": "YSRCP president YS Jagan Mohan Reddy alleged that Chief Minister Chandrababu Naidu rigged the recent local body elections. He spoke at a meeting with party leaders from several districts at Tadepalli. He claimed that despite irregularities the YSRCP's vote share rose compared with 2024, and that a free and fair poll would have given it much more, ANI reported.",
-    "pts": [
-     "Jagan alleges results were overturned where YSRCP won",
-     "Leaders allege power cuts at counting centres, recounts denied",
-     "YSRCP leaders say the State Election Commission failed"
-    ],
-    "why": "It shows the dispute between the ruling and opposition parties over the local poll results is intensifying.",
-    "cat": "AP · Politics",
-    "statl": "YSRCP alleges rigging in local body polls"
-   },
-   "hi": {
-    "h": "जगन का आरोप: स्थानीय निकाय चुनावों में चंद्रबाबू नायडू ने धांधली की",
-    "p": "वाईएसआरसीपी अध्यक्ष वाईएस जगन मोहन रेड्डी ने आरोप लगाया कि मुख्यमंत्री चंद्रबाबू नायडू ने हाल के स्थानीय निकाय चुनावों में धांधली की। वे ताडेपल्ली में कई जिलों के पार्टी नेताओं की बैठक में बोल रहे थे। एएनआई के अनुसार उन्होंने दावा किया कि अनियमितताओं के बावजूद 2024 की तुलना में पार्टी का वोट प्रतिशत बढ़ा और निष्पक्ष चुनाव होते तो और अधिक मिलता।",
-    "pts": [
-     "जगन का आरोप: जहाँ वाईएसआरसीपी जीती वहाँ नतीजे पलटे गए",
-     "नेताओं का आरोप: मतगणना केंद्रों पर बिजली कटौती, पुनर्गणना से इनकार",
-     "वाईएसआरसीपी नेताओं ने कहा, राज्य चुनाव आयोग विफल रहा"
-    ],
-    "why": "इससे पता चलता है कि स्थानीय चुनाव नतीजों पर सत्ता पक्ष और विपक्ष का विवाद गहरा रहा है।",
-    "cat": "आंध्र प्रदेश · राजनीति",
-    "statl": "वाईएसआरसीपी का धांधली का आरोप"
-   },
-   "d": "11.11.2026",
-   "t": "16:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · ట్రాఫిక్",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "5 అడుగులు",
-   "statl": "ఢీకొన్న తర్వాత గాల్లోకి లేచిన కారు",
-   "h": "నిజాం కళాశాల వద్ద డివైడర్‌ను ఢీకొన్న వేగంగా వస్తున్న కారు: ఇద్దరు సురక్షితం",
-   "p": "హైదరాబాద్‌లో బషీర్‌బాగ్ ఫ్లైఓవర్ దిగి వేగంగా వస్తున్న కారు నిజాం కళాశాల సమీపంలో రోడ్డు డివైడర్‌ను ఢీకొంది. ప్రాథమిక సమాచారం ప్రకారం ఢీకొన్న ధాటికి రెండు టైర్లు పగిలి, కారు దాదాపు ఐదు అడుగులు గాల్లోకి లేచి మళ్లీ రోడ్డుపై పడింది. కారులోని ఇద్దరు గాయాలు లేకుండా బయటపడ్డారు. వారు మద్యం మత్తులో ఉన్నారని, అదే ప్రమాదానికి కారణమని పోలీసులు అనుమానిస్తున్నట్లు తెలంగాణ టుడే పేర్కొంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/speeding-car-hits-divider-near-nizam-college-occupants-escape-unhurt",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బషీర్‌బాగ్",
-   "pts": [
-    "ఢీకొన్న ధాటికి కారు రెండు టైర్లు పగిలాయి",
-    "కారులోని ఇద్దరికీ గాయాలు కాలేదు",
-    "మద్యం మత్తే కారణమని పోలీసుల అనుమానం"
-   ],
-   "why": "మద్యం తాగి అతివేగంగా నడపడం రోడ్డుపై అందరికీ ప్రమాదమని ఈ ఘటన గుర్తు చేస్తోంది.",
-   "pub": "2026-11-11T15:55+05:30",
-   "en": {
-    "h": "Speeding car hits divider near Nizam College; two occupants unhurt",
-    "p": "A speeding car coming down the Basheerbagh flyover in Hyderabad hit a road divider near Nizam College. According to preliminary information, two tyres burst on impact and the car rose nearly five feet into the air before landing back on the road. The two occupants escaped without injuries. Police suspect they were drunk and that this caused the crash, Telangana Today reported.",
-    "pts": [
-     "Two tyres of the car burst on impact",
-     "Both occupants escaped without injuries",
-     "Police suspect drunk driving caused the crash"
-    ],
-    "why": "The incident is a reminder that drunk and rash driving endangers everyone on the road.",
-    "cat": "Hyderabad · Traffic",
-    "statl": "Car rose into the air after impact"
-   },
-   "hi": {
-    "h": "निज़ाम कॉलेज के पास तेज रफ्तार कार डिवाइडर से टकराई, दोनों सवार सुरक्षित",
-    "p": "हैदराबाद में बशीरबाग फ्लाईओवर से तेज रफ्तार में उतर रही एक कार निज़ाम कॉलेज के पास सड़क डिवाइडर से टकरा गई। प्रारंभिक जानकारी के अनुसार टक्कर से दो टायर फट गए और कार करीब पाँच फुट हवा में उछलकर वापस सड़क पर गिरी। दोनों सवार बिना चोट के बच गए। तेलंगाना टुडे के अनुसार पुलिस को संदेह है कि वे नशे में थे और यही हादसे की वजह बनी।",
-    "pts": [
-     "टक्कर से कार के दो टायर फट गए",
-     "दोनों सवारों को कोई चोट नहीं आई",
-     "पुलिस को नशे में ड्राइविंग का संदेह"
-    ],
-    "why": "यह घटना याद दिलाती है कि नशे में तेज गाड़ी चलाना सड़क पर सभी के लिए खतरा है।",
-    "cat": "हैदराबाद · यातायात",
-    "statl": "टक्कर के बाद हवा में उछली कार"
-   },
-   "d": "11.11.2026",
-   "t": "16:35"
-  },
-  {
-   "cat": "భారత్ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹62,370 కోట్లు",
-   "statl": "రబీ ఎరువుల సబ్సిడీ",
-   "h": "రబీ సీజన్‌కు ₹62,370 కోట్ల ఎరువుల సబ్సిడీకి కేంద్ర కేబినెట్ ఆమోదం",
-   "p": "రబీ 2026-27 సీజన్‌లో ఫాస్ఫేట్, పొటాష్ (P&K) ఎరువులకు పోషక ఆధారిత సబ్సిడీ (NBS) రేట్లను కేంద్ర కేబినెట్ బుధవారం ఆమోదించింది. దీనికి సుమారు ₹62,370.02 కోట్లు అవసరమని అంచనా. ఇది గత రబీ బడ్జెట్ ₹37,952.29 కోట్ల కంటే సుమారు ₹24,417.73 కోట్లు ఎక్కువ. డీఏపీ సహా ఎన్‌పీకేఎస్ ఎరువులకు అక్టోబర్ 1, 2026 నుంచి మార్చి 31, 2027 వరకు ఈ రేట్లు వర్తిస్తాయి.",
-   "src": "Business Standard",
-   "url": "https://www.business-standard.com/economy/news/cabinet-approves-62-370-crore-fertiliser-subsidy-for-rabi-2026-27-season-126111100867_1.html",
-   "sec": [
-    "india",
-    "agri"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pub": "2026-11-11T16:02+05:30",
-   "pts": [
-    "గత రబీ కంటే ₹24,417.73 కోట్లు అధికం",
-    "అక్టోబర్ 1 నుంచి మార్చి 31 వరకు వర్తింపు",
-    "డీఏపీ సహా 28 రకాల P&K ఎరువులకు సబ్సిడీ"
-   ],
-   "why": "రబీ సాగు చేసే తెలుగు రాష్ట్రాల రైతులకు ఎరువులు సబ్సిడీ ధరలకు అందేందుకు ఇది కీలకం.",
-   "en": {
-    "h": "Union Cabinet approves Rs 62,370 crore fertiliser subsidy for rabi season",
-    "p": "The Union Cabinet on Wednesday approved Nutrient Based Subsidy (NBS) rates for phosphatic and potassic (P&K) fertilisers for the rabi 2026-27 season. The estimated requirement is about Rs 62,370.02 crore. This is about Rs 24,417.73 crore more than the Rs 37,952.29 crore budgeted for last rabi. The rates apply to P&K fertilisers including DAP and NPKS grades from October 1, 2026 to March 31, 2027.",
-    "pts": [
-     "Rs 24,417.73 crore more than last rabi",
-     "Applies from October 1 to March 31",
-     "Subsidy on 28 grades of P&K fertilisers including DAP"
-    ],
-    "why": "It matters for rabi farmers in the Telugu states to get fertilisers at subsidised prices.",
-    "cat": "India · Agriculture",
-    "statl": "Rabi fertiliser subsidy"
-   },
-   "hi": {
-    "h": "रबी सीज़न के लिए ₹62,370 करोड़ की उर्वरक सब्सिडी को केंद्रीय कैबिनेट की मंज़ूरी",
-    "p": "केंद्रीय कैबिनेट ने बुधवार को रबी 2026-27 सीज़न के लिए फॉस्फेटिक और पोटाशिक (P&K) उर्वरकों पर पोषक तत्व आधारित सब्सिडी (NBS) दरों को मंज़ूरी दी। इसके लिए लगभग ₹62,370.02 करोड़ की ज़रूरत का अनुमान है। यह पिछले रबी के ₹37,952.29 करोड़ के बजट से लगभग ₹24,417.73 करोड़ अधिक है। डीएपी और एनपीकेएस सहित उर्वरकों पर ये दरें 1 अक्टूबर 2026 से 31 मार्च 2027 तक लागू होंगी।",
-    "pts": [
-     "पिछले रबी से ₹24,417.73 करोड़ अधिक",
-     "1 अक्टूबर से 31 मार्च तक लागू",
-     "डीएपी सहित 28 प्रकार के P&K उर्वरकों पर सब्सिडी"
-    ],
-    "why": "तेलुगु राज्यों के रबी किसानों को सब्सिडी वाली कीमतों पर उर्वरक मिलने के लिए यह अहम है।",
-    "cat": "भारत · कृषि",
-    "statl": "रबी उर्वरक सब्सिडी"
-   },
-   "d": "11.11.2026",
-   "t": "16:05"
-  },
-  {
-   "cat": "ఏపీ · తుపాను సాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "2 జిల్లాలు",
-   "statl": "ప్రకాశం, బాపట్లలో మురసు నష్టంపై సమీక్ష",
-   "h": "మురసు తుపాను బాధిత ప్రతి రైతుకు సాయం: మంత్రి గొట్టిపాటి",
-   "p": "ప్రకాశం, బాపట్ల జిల్లాల్లో మురసు తుపాను ప్రభావంపై మంత్రి గొట్టిపాటి రవికుమార్ అమరావతి సచివాలయంలో విద్యుత్, వ్యవసాయ, ఉద్యాన, ఆర్‌అండ్‌బీ అధికారులతో సమీక్షించారు. ఇళ్లకు విద్యుత్ సరఫరా పునరుద్ధరణ దాదాపు పూర్తయిందని అధికారులు తెలిపారు. వ్యవసాయ కనెక్షన్లకు ప్రాధాన్యం ఇవ్వాలని, వరి, పత్తి, మిర్చి తదితర పంటల వారీగా నష్టం అంచనా వేయాలని, బీమా, ఇన్‌పుట్ సబ్సిడీ త్వరగా అందించాలని మంత్రి ఆదేశించారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/ap-minister-gottipati-ravikumar-reviews-cyclone-murasu-damage-in-prakasam-and-bapatla-vk-1575249.html",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-11T13:24+05:30",
-   "pts": [
-    "ఇళ్లకు విద్యుత్ పునరుద్ధరణ దాదాపు పూర్తి: అధికారులు",
-    "పంటల వారీగా నష్టం అంచనాకు ఆదేశం",
-    "రోడ్ల మరమ్మతులు యుద్ధప్రాతిపదికన చేయాలని సూచన"
-   ],
-   "why": "ప్రకాశం, బాపట్ల జిల్లాల్లో తుపానుతో పంటలు కోల్పోయిన రైతులకు సాయం వేగవంతం కావడానికి ఇది ముఖ్యం.",
-   "en": {
-    "h": "Every farmer hit by Cyclone Murasu will get aid: Minister Gottipati",
-    "p": "Minister Gottipati Ravikumar reviewed the impact of Cyclone Murasu in Prakasam and Bapatla districts with power, agriculture, horticulture and R&B officials at the Amaravati secretariat. Officials said restoration of household power supply was nearly complete. The minister ordered priority for farm power connections, crop-wise loss assessment for paddy, cotton, chilli and other crops, and quick release of insurance and input subsidy.",
-    "pts": [
-     "Household power restoration nearly complete: officials",
-     "Crop-wise loss assessment ordered",
-     "Road repairs to be done on a war footing"
-    ],
-    "why": "It matters for speeding up aid to farmers who lost crops to the cyclone in Prakasam and Bapatla.",
-    "cat": "AP · Cyclone relief",
-    "statl": "Murasu damage review in Prakasam, Bapatla"
-   },
-   "hi": {
-    "h": "मुरासु चक्रवात से प्रभावित हर किसान को मदद: मंत्री गोट्टिपाटि",
-    "p": "मंत्री गोट्टिपाटि रविकुमार ने प्रकाशम और बापटला ज़िलों में चक्रवात मुरासु के असर पर अमरावती सचिवालय में बिजली, कृषि, बागवानी और आर एंड बी अधिकारियों के साथ समीक्षा की। अधिकारियों ने बताया कि घरों की बिजली आपूर्ति की बहाली लगभग पूरी हो गई है। मंत्री ने कृषि कनेक्शनों को प्राथमिकता देने, धान, कपास, मिर्च आदि फसलों के नुकसान का फसलवार आकलन करने और बीमा व इनपुट सब्सिडी जल्दी देने का निर्देश दिया।",
-    "pts": [
-     "घरों की बिजली बहाली लगभग पूरी: अधिकारी",
-     "फसलवार नुकसान आकलन का निर्देश",
-     "सड़क मरम्मत युद्धस्तर पर करने को कहा"
-    ],
-    "why": "प्रकाशम और बापटला में चक्रवात से फसल गंवाने वाले किसानों तक मदद तेज़ी से पहुंचाने के लिए यह अहम है।",
-    "cat": "आंध्र प्रदेश · चक्रवात राहत",
-    "statl": "प्रकाशम, बापटला में मुरासु नुकसान की समीक्षा"
-   },
-   "d": "11.11.2026",
-   "t": "16:05"
   },
   {
    "cat": "ఆహ్వానం · ఆలేరు",

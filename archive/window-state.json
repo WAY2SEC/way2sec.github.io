@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T21:05:00+05:30",
+ "cutoff": "2026-11-11T21:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -829,6 +829,19 @@
    "skipped": 2,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Search returned stale listing pages; Telangana Today, The South First, TNM listings show no per-article times; Deccan Chronicle and Hans India listings had nothing after 06:32; Eenadu, Sakshi, Andhra Jyothy, Namasthe Telangana, TV9, V6, NTV, ETV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicate: Siasat PTI Khurshid Bharat Summit 3574386 (event published earlier). Skipped: Siasat Kavya Maran wedding 3574659 (celebrity), Siasat Riyadh Houthi 3574641 (minor international, not opened)."
+  },
+  {
+   "window": "2026-11-11T21:05:00+05:30/2026-11-11T21:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 13,
+   "published": 6,
+   "late": 5,
+   "sensitive": 2,
+   "corrected": 0,
+   "duplicates": 5,
+   "skipped": 2,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Search returned stale listing pages; siasat.com/news/telangana, telanganatoday.com/telangana, DC Telangana, Hans AP, ANI national, ntnews.com and andhrajyothy.com listings not fetched (permission not granted); Eenadu, Sakshi, TV9, V6, NTV, ETV, The Hindu, Reuters/BBC/AP and international-topic sources not surfaced. Duplicates (events already published): Siasat 10+2 3574525, TT AP 789 lift schemes, TT CII Vizag 3,800 delegates, TT KTR Nirmal Rythu Garjana water crisis, Hans Rahul Gandhi Bharat Summit 1141124. Skipped: Siasat Nisar feature 3574204 (feature, not news), TT Fadnavis Navi Mumbai flights (minor other-state)."
   }
  ],
  "seen": [
@@ -3586,6 +3599,66 @@
    "url": "https://www.siasat.com/riyadh-faces-fresh-houthi-missile-attack-three-intercepted-3574641/",
    "d": "11.11.2026",
    "w": "21:05"
+  },
+  {
+   "url": "https://www.siasat.com/after-mother-dairy-amul-increases-prices-by-5-per-cent-3574698/",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/jagga-reddy-to-make-movie-on-sonia-gandhis-autobiography",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/family-of-brain-dead-police-officer-decides-to-donate-organs",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/gambling-raids-in-peddapalli-14-held-cash-and-mobile-phones-seized",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/tractor-driver-killed-after-coal-tipper-rams-vehicle-in-kothagudem",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/bits-hyderabad-researchers-turn-food-waste-into-protein-rich-animal-feed",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/telangana-to-adopt-102-education-system-from-next-academic-year-revanth-reddy-2003485",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/nearly-3800-delegates-from-58-countries-expected-at-cii-summit-in-visakhapatnam",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/congress-compounded-telanganas-water-crisis-ktr",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://www.thehansindia.com/news/cities/new-delhi/rahul-gandhi-to-present-alternative-foreign-policy-vision-at-bharat-summit-1141124",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://www.siasat.com/generation-lost-nisars-life-23-years-after-hyderabad-police-arrest-3574204/",
+   "d": "11.11.2026",
+   "w": "21:35"
+  },
+  {
+   "url": "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "d": "11.11.2026",
+   "w": "21:35"
   }
  ]
 }
