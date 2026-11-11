@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T12:35:00+05:30",
+ "cutoff": "2026-11-11T13:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -608,6 +608,19 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Search mostly returned listing/tag pages. Business Standard markets live blog and The News Mill (Meerpet arrest) fetch failed (server error). Eenadu, Sakshi, TV9, V6, NTV, The Hindu, PTI, Reuters/BBC/AP articles not surfaced in range. Before lookback (not published): TT Shahalibanda stabbing arrests (10 Nov 22:37), South First MD radiodiagnosis seats (8 Nov). Live blogs (ETV TG/AP, Andhra Jyothy) had no new entries beyond those already published."
+  },
+  {
+   "window": "2026-11-11T12:35:00+05:30/2026-11-11T13:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 3,
+   "published": 2,
+   "late": 1,
+   "sensitive": 1,
+   "corrected": 0,
+   "duplicates": 1,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Search mostly returned listing/tag pages. ETV TG/AP and Andhra Jyothy live blogs had no entries after 09:39 beyond those already published. Eenadu, Sakshi, TV9, V6, NTV, The Hindu, PTI, Reuters/BBC/AP articles not surfaced in range. Before lookback (not published): 6 Hans India TG district articles 01:00-04:00 IST, UN News El Nino brief (9 Nov), Siasat Sanathnagar constables (9 Nov), Asianet fraudster arrest (7 Nov). Duplicate: Outlook Money Sensex 1,300 rally (same event as published BusinessToday story)."
   }
  ],
  "seen": [
@@ -2445,6 +2458,51 @@
    "url": "https://ntvtelugu.com/andhra-pradesh-news/vijayawada/vijayasai-reddy-announces-new-party-parivarthana-rajaniti-party-1034200.html",
    "d": "11.11.2026",
    "w": "12:35"
+  },
+  {
+   "url": "https://telanganatoday.com/brs-leaders-detained-ahead-of-bhattis-hanamkonda-visit",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://telanganatoday.com/h-1b-grace-period-plan-draws-31000-comments",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.outlookmoney.com/invest/stock-market-today-sensex-nifty-rally-reason",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/telangana/forest-workers-to-get-rs-10l-accident-insurance-1141027",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/telangana/nirmal-turns-pink-ahead-of-brs-rally-1141015",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/telangana/bhainsa-in-charge-municipal-commissioner-caught-in-acb-trap-1141009",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/telangana/massive-cmr-paddy-scam-in-jogulamba-gadwal-trs-1141028",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/news/cities/warangal/karthika-masam-celebrations-begin-at-thousand-pillar-temple-1141019",
+   "d": "11.11.2026",
+   "w": "13:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/telangana/accreditation-cards-to-be-issued-transparently-nirmal-collector-1141011",
+   "d": "11.11.2026",
+   "w": "13:05"
   }
  ]
 }

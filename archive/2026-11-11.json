@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 81,
+ "count": 83,
  "stories": [
+  {
+   "cat": "హనుమకొండ · రాజకీయాలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "హౌస్ అరెస్ట్",
+   "statl": "భట్టి పర్యటనకు ముందు బీఆర్ఎస్ నేతల నిర్బంధం",
+   "h": "భట్టి హనుమకొండ పర్యటన: బీఆర్ఎస్ నేతల హౌస్ అరెస్ట్, ముందస్తు నిర్బంధం",
+   "p": "డిప్యూటీ సీఎం భట్టి విక్రమార్క బుధవారం హనుమకొండ జిల్లా పర్యటనకు ముందు పలువురు బీఆర్ఎస్ నేతలను హౌస్ అరెస్ట్ చేసి, ముందస్తు నిర్బంధంలోకి తీసుకున్నారని తెలంగాణ టుడే తెలిపింది. మాజీ ప్రభుత్వ చీఫ్ విప్ దాస్యం వినయ్ భాస్కర్‌ను వడ్డేపల్లిలోని ఇంట్లో గృహనిర్బంధం చేశారు. కాజీపేట డివిజన్ నేతలను హసన్‌పర్తి పోలీస్ స్టేషన్‌కు తరలించారు. పర్యటనలో భట్టి తెలంగాణ పబ్లిక్ స్కూల్ భవనానికి శంకుస్థాపన చేయనున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/brs-leaders-detained-ahead-of-bhattis-hanamkonda-visit",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hanumakonda",
+   "loc": "హసన్‌పర్తి",
+   "pts": [
+    "మాజీ చీఫ్ విప్ వినయ్ భాస్కర్ గృహనిర్బంధం",
+    "కాజీపేట నేతలు హసన్‌పర్తి పీఎస్‌కు తరలింపు",
+    "పబ్లిక్ స్కూల్ భవనానికి భట్టి శంకుస్థాపన"
+   ],
+   "why": "ఉమ్మడి వరంగల్ జిల్లాలో ప్రభుత్వ, ప్రతిపక్ష పార్టీల మధ్య రాజకీయ వాతావరణాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T12:40+05:30",
+   "en": {
+    "h": "Bhatti's Hanamkonda visit: BRS leaders under house arrest, preventive custody",
+    "p": "Several BRS leaders were placed under house arrest or taken into preventive custody ahead of Deputy Chief Minister Bhatti Vikramarka's visit to Hanamkonda district on Wednesday, Telangana Today reported. Former government chief whip Dasyam Vinay Bhaskar was placed under house arrest at his residence in Waddepally. Leaders from the Kazipet division were taken to Hasanparthy police station. During the visit, Bhatti is to lay the foundation stone for a Telangana Public School building.",
+    "pts": [
+     "Former chief whip Vinay Bhaskar under house arrest",
+     "Kazipet leaders taken to Hasanparthy police station",
+     "Bhatti to lay foundation for public school building"
+    ],
+    "why": "It shows the political climate between the ruling and opposition parties in erstwhile Warangal district.",
+    "cat": "Hanamkonda · Politics",
+    "statl": "BRS leaders detained before Bhatti's visit"
+   },
+   "hi": {
+    "h": "भट्टि का हनमकोंडा दौरा: बीआरएस नेता नज़रबंद, एहतियाती हिरासत में",
+    "p": "तेलंगाना टुडे के अनुसार, उपमुख्यमंत्री भट्टि विक्रमार्क के बुधवार को हनमकोंडा ज़िले के दौरे से पहले कई बीआरएस नेताओं को नज़रबंद किया गया या एहतियाती हिरासत में लिया गया। पूर्व सरकारी मुख्य सचेतक दास्यम विनय भास्कर को वड्डेपल्ली स्थित उनके घर में नज़रबंद किया गया। काज़ीपेट डिवीजन के नेताओं को हसनपर्ती पुलिस स्टेशन ले जाया गया। दौरे में भट्टि तेलंगाना पब्लिक स्कूल भवन की आधारशिला रखेंगे।",
+    "pts": [
+     "पूर्व मुख्य सचेतक विनय भास्कर नज़रबंद",
+     "काज़ीपेट के नेता हसनपर्ती थाने ले जाए गए",
+     "भट्टि पब्लिक स्कूल भवन की आधारशिला रखेंगे"
+    ],
+    "why": "यह संयुक्त वरंगल ज़िले में सत्ताधारी और विपक्षी दलों के बीच राजनीतिक माहौल को दिखाता है।",
+    "cat": "हनमकोंडा · राजनीति",
+    "statl": "भट्टि के दौरे से पहले बीआरएस नेता हिरासत में"
+   },
+   "d": "11.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ప్రపంచం · యువత భవిష్యత్తు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "31,383",
+   "statl": "హెచ్-1బీ గ్రేస్ పీరియడ్ ప్రతిపాదనపై అభిప్రాయాలు",
+   "h": "హెచ్-1బీ 60 రోజుల గ్రేస్ పీరియడ్ రద్దు ప్రతిపాదనపై 31 వేలకు పైగా అభిప్రాయాలు",
+   "p": "ఉద్యోగం కోల్పోయిన హెచ్-1బీ తదితర వీసాదారులకు ఉన్న 60 రోజుల గ్రేస్ పీరియడ్‌ను రద్దు చేయాలన్న అమెరికా హోంల్యాండ్ సెక్యూరిటీ శాఖ (డీహెచ్ఎస్) ప్రతిపాదనపై మంగళవారం రాత్రికి 31,383 అభిప్రాయాలు వచ్చాయని ఐఏఎన్ఎస్ తెలిపింది. ఈ మార్పుతో ఆదాయ నష్టం, తరలింపు ఖర్చులు రావచ్చని డీహెచ్ఎస్ అంగీకరించింది. 2025 ఆర్థిక సంవత్సరంలో ఆమోదించిన హెచ్-1బీ పిటిషన్లలో సుమారు 70 శాతం భారత్‌లో జన్మించినవారివే.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/h-1b-grace-period-plan-draws-31000-comments",
+   "sec": [
+    "world",
+    "jobs"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఉద్యోగం పోయాక 60 రోజుల గడువు రద్దు ప్రతిపాదన",
+    "ఏటా సగటున 65,752 మంది ఉద్యోగం కోల్పోవడం/మారడం",
+    "ఆమోదిత హెచ్-1బీల్లో 70% భారతీయులవే"
+   ],
+   "why": "అమెరికాలో హెచ్-1బీపై పనిచేస్తున్న భారతీయ, తెలుగు ఉద్యోగులు, వారి కుటుంబాలపై దీని ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-11T10:56+05:30",
+   "en": {
+    "h": "Over 31,000 comments on plan to scrap H-1B 60-day grace period",
+    "p": "The US Department of Homeland Security (DHS) proposal to eliminate the 60-day grace period for laid-off H-1B and other visa holders had drawn 31,383 comments by Tuesday night, IANS reported. DHS acknowledged the change could cause income loss and relocation expenses. About 70 per cent of H-1B petitions approved in fiscal 2025 involved beneficiaries born in India.",
+    "pts": [
+     "Proposal ends 60-day window after job loss",
+     "Average 65,752 workers a year lost or changed jobs",
+     "70% of approved H-1Bs went to Indian-born"
+    ],
+    "why": "It affects Indian and Telugu workers on H-1B visas in the US and their families.",
+    "cat": "World · Youth & Future",
+    "statl": "Comments on H-1B grace period proposal"
+   },
+   "hi": {
+    "h": "एच-1बी की 60 दिन की ग्रेस अवधि खत्म करने के प्रस्ताव पर 31 हज़ार से ज़्यादा टिप्पणियाँ",
+    "p": "आईएएनएस के अनुसार, नौकरी गंवाने वाले एच-1बी और अन्य वीज़ा धारकों की 60 दिन की ग्रेस अवधि खत्म करने के अमेरिकी होमलैंड सिक्योरिटी विभाग (डीएचएस) के प्रस्ताव पर मंगलवार रात तक 31,383 टिप्पणियाँ आ चुकी थीं। डीएचएस ने माना कि इस बदलाव से आय का नुकसान और स्थानांतरण खर्च हो सकता है। वित्त वर्ष 2025 में मंज़ूर एच-1बी याचिकाओं में करीब 70 प्रतिशत भारत में जन्मे लोगों की थीं।",
+    "pts": [
+     "नौकरी जाने के बाद 60 दिन की मोहलत खत्म करने का प्रस्ताव",
+     "हर साल औसतन 65,752 कर्मचारियों की नौकरी गई या बदली",
+     "मंज़ूर एच-1बी में 70% भारत में जन्मे"
+    ],
+    "why": "इसका असर अमेरिका में एच-1बी पर काम कर रहे भारतीय और तेलुगु कर्मचारियों व उनके परिवारों पर पड़ेगा।",
+    "cat": "विश्व · युवा और भविष्य",
+    "statl": "एच-1बी ग्रेस अवधि प्रस्ताव पर टिप्पणियाँ"
+   },
+   "d": "11.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "ఏపీ · రాజకీయాలు",
    "col": "--c-election",
