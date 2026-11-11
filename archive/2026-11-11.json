@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 188,
+ "count": 190,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · చెరువులు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "1,372",
+   "statl": "హైదరాబాద్‌లో ఒకప్పటి చెరువులు",
+   "h": "ఆక్రమణలతో హైదరాబాద్‌లో దాదాపు సగం చెరువులు మాయం: సీఎం రేవంత్",
+   "p": "పునరుద్ధరించిన తమ్మిడికుంట చెరువును ప్రారంభించిన సీఎం రేవంత్ రెడ్డి, చెరువుల ఆక్రమణలను సహించబోమని, హైడ్రా కూల్చివేతలు నీటి వనరుల రక్షణకు, వరదల నివారణకు అవసరమని అన్నారు. 14 ఎకరాలకు కుంచించుకుపోయిన చెరువును 30 ఎకరాలకు విస్తరించారు. నగరంలో ఉన్న 1,372 చెరువుల్లో దాదాపు సగం ఆక్రమణలతో కనుమరుగయ్యాయని చెప్పారు. మూసీ పునరుజ్జీవనం తొలి దశ త్వరలో ప్రారంభమవుతుందన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/encroachments-caused-disappearance-of-nearly-half-of-hyderabads-lakes-says-revanth-reddy",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "తమ్మిడికుంట చెరువు 14 నుంచి 30 ఎకరాలకు విస్తరణ",
+    "రెండెకరాలు స్వచ్ఛందంగా ఇచ్చిన నటుడు నాగార్జునకు సీఎం కృతజ్ఞతలు",
+    "మూసీ పునరుజ్జీవనానికి పార్టీల మద్దతు కోరిన సీఎం"
+   ],
+   "why": "నగరంలో వరద ముప్పు, చెరువుల పరిరక్షణ, హైడ్రా చర్యలు హైదరాబాద్ వాసులందరిపై ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-11T22:40+05:30",
+   "en": {
+    "h": "Encroachments wiped out nearly half of Hyderabad's lakes: CM Revanth",
+    "p": "Inaugurating the restored Thammidikunta lake, CM Revanth Reddy said encroachments on lakes will not be tolerated and defended HYDRAA's demolitions as necessary to protect water bodies and prevent floods. The lake, which had shrunk to 14 acres, has been expanded to 30 acres. He said nearly half of the city's 1,372 lakes have disappeared due to encroachments. The first phase of Musi rejuvenation will begin soon, he said.",
+    "pts": [
+     "Thammidikunta lake expanded from 14 to 30 acres",
+     "CM thanks actor Nagarjuna for voluntarily giving two acres",
+     "CM seeks parties' support for Musi rejuvenation"
+    ],
+    "why": "Flood risk, lake protection and HYDRAA's actions affect everyone living in Hyderabad.",
+    "cat": "Hyderabad · Lakes",
+    "statl": "Lakes Hyderabad once had"
+   },
+   "hi": {
+    "h": "अतिक्रमण से हैदराबाद की लगभग आधी झीलें गायब: मुख्यमंत्री रेवंत",
+    "p": "पुनर्जीवित तम्मिडिकुंटा झील का उद्घाटन करते हुए मुख्यमंत्री रेवंत रेड्डी ने कहा कि झीलों पर अतिक्रमण बर्दाश्त नहीं होगा और हाइड्रा की तोड़फोड़ जल स्रोतों की रक्षा व बाढ़ रोकने के लिए जरूरी है। 14 एकड़ तक सिमटी झील को 30 एकड़ तक बढ़ाया गया। उन्होंने कहा कि शहर की 1,372 झीलों में से लगभग आधी अतिक्रमण से गायब हो गईं। मूसी पुनर्जीवन का पहला चरण जल्द शुरू होगा।",
+    "pts": [
+     "तम्मिडिकुंटा झील 14 से 30 एकड़ तक बढ़ी",
+     "दो एकड़ स्वेच्छा से देने पर अभिनेता नागार्जुन का आभार",
+     "मूसी पुनर्जीवन के लिए दलों से समर्थन की अपील"
+    ],
+    "why": "बाढ़ का खतरा, झीलों का संरक्षण और हाइड्रा की कार्रवाई हैदराबाद के सभी निवासियों को प्रभावित करती है।",
+    "cat": "हैदराबाद · झीलें",
+    "statl": "हैदराबाद में कभी थीं इतनी झीलें"
+   },
+   "d": "11.11.2026",
+   "t": "23:35"
+  },
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "17",
+   "statl": "వైసీపీ హయాంలో ప్రారంభించిన మెడికల్ కాలేజీలు",
+   "h": "పీపీపీలో మెడికల్ కాలేజీలు భారీ కుంభకోణం: జగన్ ఆరోపణ",
+   "p": "ప్రభుత్వ వైద్య కళాశాలలను పీపీపీ విధానంలో ప్రైవేటుకు అప్పగించే ప్రతిపాదన భారీ కుంభకోణమని వైఎస్సార్సీపీ అధినేత జగన్ మోహన్ రెడ్డి ఎక్స్ పోస్ట్‌లో సీఎం చంద్రబాబుపై ఆరోపించారని ఏఎన్ఐ కథనం. తమ హయాంలో 17 కొత్త కాలేజీలు ప్రారంభించామని, మిగిలిన తొమ్మిదింటిని ఏటా రూ.1,000 కోట్లతో పూర్తి చేయొచ్చని అన్నారు. వందల కోట్ల భూమిని ఎకరాకు రూ.100కే లీజుకు ఇస్తున్నారని ఆరోపించారు. ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/politics/ysrcp-accuses-chandrababu-naidu-govt-of-massive-scam-over-ppp-model-for-medical-colleges20261111221605/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "సగానికి పైగా సీట్లు ప్రైవేటు రేట్లకు వెళ్లొచ్చని జగన్ ఆరోపణ",
+    "వీజీఎఫ్‌కు రూ.1,630 కోట్ల ప్రజాధనం అని ఆరోపణ",
+    "ఆరోగ్యశ్రీ ఆసుపత్రులకు రూ.3,000 కోట్ల బకాయిలని వ్యాఖ్య"
+   ],
+   "why": "ప్రభుత్వ వైద్య కళాశాలల భవిష్యత్తు ఏపీలో వైద్య విద్యార్థులు, రోగులపై ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T22:16+05:30",
+   "en": {
+    "h": "PPP for medical colleges a massive scam, alleges Jagan",
+    "p": "YSRCP chief Jagan Mohan Reddy, in an X post addressed to CM Chandrababu Naidu, alleged that the proposal to hand government medical colleges to private players under the PPP model is a massive scam, ANI reported. He said his government started 17 new colleges and the remaining nine could be completed at Rs 1,000 crore a year. He alleged land worth hundreds of crores is being leased at Rs 100 an acre. The government's response is not in the report.",
+    "pts": [
+     "Jagan alleges over half the seats may go at private rates",
+     "Alleges Rs 1,630 crore public money for viability gap funding",
+     "Says Rs 3,000 crore dues to Aarogyasri hospitals"
+    ],
+    "why": "The future of government medical colleges affects medical students and patients in Andhra Pradesh.",
+    "cat": "AP · Politics",
+    "statl": "Medical colleges begun under YSRCP"
+   },
+   "hi": {
+    "h": "पीपीपी में मेडिकल कॉलेज बड़ा घोटाला: जगन का आरोप",
+    "p": "एएनआई के अनुसार वाईएसआरसीपी प्रमुख जगन मोहन रेड्डी ने मुख्यमंत्री चंद्रबाबू नायडू को संबोधित एक्स पोस्ट में आरोप लगाया कि सरकारी मेडिकल कॉलेजों को पीपीपी मॉडल में निजी हाथों में देने का प्रस्ताव बड़ा घोटाला है। उन्होंने कहा कि उनकी सरकार ने 17 नए कॉलेज शुरू किए और बाकी नौ हर साल 1,000 करोड़ रुपये से पूरे हो सकते हैं। उन्होंने आरोप लगाया कि सैकड़ों करोड़ की जमीन 100 रुपये प्रति एकड़ पर पट्टे पर दी जा रही है। रिपोर्ट में सरकार का जवाब नहीं है।",
+    "pts": [
+     "आधी से ज्यादा सीटें निजी दरों पर जा सकती हैं: जगन का आरोप",
+     "वीजीएफ के लिए 1,630 करोड़ रुपये जनता के धन का आरोप",
+     "आरोग्यश्री अस्पतालों का 3,000 करोड़ रुपये बकाया: जगन"
+    ],
+    "why": "सरकारी मेडिकल कॉलेजों का भविष्य आंध्र प्रदेश के मेडिकल छात्रों और मरीजों को प्रभावित करता है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "वाईएसआरसीपी काल में शुरू मेडिकल कॉलेज"
+   },
+   "d": "11.11.2026",
+   "t": "23:35"
+  },
   {
    "cat": "తెలంగాణ · విద్య",
    "col": "--c-money",
