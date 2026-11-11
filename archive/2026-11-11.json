@@ -1,8 +1,158 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 127,
+ "count": 130,
  "stories": [
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "10+2",
+   "statl": "వచ్చే విద్యా సంవత్సరం నుంచే అమలు",
+   "h": "వచ్చే ఏడాది నుంచే తెలంగాణలో 10+2 విధానం: సీఎం రేవంత్ ఆదేశం",
+   "p": "పాఠశాల విద్యాశాఖపై బుధవారం సమీక్ష నిర్వహించిన సీఎం రేవంత్ రెడ్డి, వచ్చే విద్యా సంవత్సరం నుంచే 10+2 విధానం అమలుకు చర్యలు తీసుకోవాలని అధికారులను ఆదేశించారు. నర్సరీ నుంచి 12వ తరగతి వరకు విద్యకు ప్రాధాన్యం, 9 నుంచి 12 తరగతులను ఉన్నత విద్యగా పరిగణించి ప్రత్యేక బోధన ఇవ్వాలన్నారు. ప్రైవేటుకు దీటుగా ప్రభుత్వ బడులను అభివృద్ధి చేయాలని సూచించినట్లు ఆంధ్రజ్యోతి పేర్కొంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/tg-10-plus-2-education-system-from-next-academic-year-suchi-1575275.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "వచ్చే విద్యా సంవత్సరం నుంచే 10+2 అమలుకు ఆదేశం",
+    "9–12 తరగతులు ఉన్నత విద్యగా, ప్రత్యేక బోధన",
+    "నాణ్యమైన విద్యే ప్రభుత్వ తొలి ప్రాధాన్యమన్న సీఎం"
+   ],
+   "why": "రాష్ట్రంలోని పాఠశాల, ఇంటర్ విద్యార్థులు, తల్లిదండ్రులు, ఉపాధ్యాయులపై ఈ మార్పు ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-11T16:12+05:30",
+   "en": {
+    "h": "Telangana to adopt 10+2 system from next academic year: CM Revanth",
+    "p": "Reviewing the school education department on Wednesday, Chief Minister Revanth Reddy directed officials to take steps to implement the 10+2 system from the next academic year. He said education from nursery to Class 12 should be prioritised, and Classes 9 to 12 treated as higher education with specialised teaching. He asked that government schools be developed to rival private schools, Andhra Jyothy reported.",
+    "pts": [
+     "Orders to implement 10+2 from next academic year",
+     "Classes 9–12 to be treated as higher education",
+     "CM says quality education is the first priority"
+    ],
+    "why": "The change will affect school and intermediate students, parents and teachers across the state.",
+    "cat": "Telangana · Education",
+    "statl": "To be implemented from next academic year"
+   },
+   "hi": {
+    "h": "तेलंगाना में अगले शैक्षणिक वर्ष से 10+2 व्यवस्था: सीएम रेवंत का आदेश",
+    "p": "बुधवार को स्कूल शिक्षा विभाग की समीक्षा करते हुए मुख्यमंत्री रेवंत रेड्डी ने अधिकारियों को अगले शैक्षणिक वर्ष से 10+2 व्यवस्था लागू करने के कदम उठाने का निर्देश दिया। उन्होंने कहा कि नर्सरी से कक्षा 12 तक की शिक्षा को प्राथमिकता दी जाए और कक्षा 9 से 12 को उच्च शिक्षा मानकर विशेष शिक्षण दिया जाए। आंध्र ज्योति के अनुसार उन्होंने सरकारी स्कूलों को निजी स्कूलों के बराबर विकसित करने को कहा।",
+    "pts": [
+     "अगले शैक्षणिक वर्ष से 10+2 लागू करने का आदेश",
+     "कक्षा 9–12 को उच्च शिक्षा माना जाएगा",
+     "सीएम बोले, गुणवत्तापूर्ण शिक्षा पहली प्राथमिकता"
+    ],
+    "why": "इस बदलाव का असर राज्य के स्कूल और इंटर के छात्रों, अभिभावकों और शिक्षकों पर पड़ेगा।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "अगले शैक्षणिक वर्ष से लागू"
+   },
+   "d": "11.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+773",
+   "statl": "సెన్సెక్స్ లాభం (పాయింట్లు)",
+   "h": "సెన్సెక్స్ 773 పాయింట్లు జంప్: 25,255 వద్ద ముగిసిన నిఫ్టీ",
+   "p": "బుధవారం దేశీయ స్టాక్ మార్కెట్లు భారీ లాభాలతో ముగిశాయి. బీఎస్ఈ సెన్సెక్స్ 772.75 పాయింట్లు (0.95%) పెరిగి 81,879.40 వద్ద, నిఫ్టీ 50 210.40 పాయింట్లు పెరిగి 25,255.05 వద్ద స్థిరపడ్డాయి. ఆటో, బ్యాంకింగ్ షేర్లు రాణించగా ఐటీ, ఫార్మా షేర్లు తగ్గాయి. నవంబర్‌లో ఇప్పటివరకు విదేశీ పోర్ట్‌ఫోలియో పెట్టుబడిదారులు 5.68 బిలియన్ డాలర్ల షేర్లు కొన్నారని హెచ్‌డీఎఫ్‌సీ స్కై తెలిపింది.",
+   "src": "HDFC Sky",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-11-2026-nifty-sensex-soar-as-auto-banking-shine",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "సెన్సెక్స్ 81,879.40, నిఫ్టీ 25,255.05 వద్ద ముగింపు",
+    "ఆటో, బ్యాంక్ షేర్ల లాభాలు; ఐటీ, ఫార్మా నష్టాలు",
+    "ఈ నెలలో సూచీలు దాదాపు 10% పెరిగాయి"
+   ],
+   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై ఈ కదలికల ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-11T16:19+05:30",
+   "en": {
+    "h": "Sensex jumps 773 points; Nifty closes at 25,255",
+    "p": "Indian stock markets closed with strong gains on Wednesday. The BSE Sensex rose 772.75 points (0.95%) to 81,879.40 and the Nifty 50 gained 210.40 points to settle at 25,255.05. Auto and banking shares did well while IT and pharma shares fell. Foreign portfolio investors have bought shares worth $5.68 billion so far in November, HDFC Sky reported.",
+    "pts": [
+     "Sensex closes at 81,879.40, Nifty at 25,255.05",
+     "Auto and bank shares gain; IT and pharma fall",
+     "Indices up nearly 10% this month"
+    ],
+    "why": "These moves affect the savings of people invested in shares and mutual funds.",
+    "cat": "India · Markets",
+    "statl": "Sensex gain (points)"
+   },
+   "hi": {
+    "h": "सेंसेक्स 773 अंक उछला, निफ्टी 25,255 पर बंद",
+    "p": "बुधवार को घरेलू शेयर बाज़ार ज़ोरदार बढ़त के साथ बंद हुए। बीएसई सेंसेक्स 772.75 अंक (0.95%) चढ़कर 81,879.40 पर और निफ्टी 50 210.40 अंक बढ़कर 25,255.05 पर बंद हुआ। ऑटो और बैंकिंग शेयरों में तेज़ी रही, जबकि आईटी और फार्मा शेयर गिरे। एचडीएफसी स्काई के अनुसार नवंबर में अब तक विदेशी पोर्टफोलियो निवेशकों ने 5.68 अरब डॉलर के शेयर खरीदे हैं।",
+    "pts": [
+     "सेंसेक्स 81,879.40, निफ्टी 25,255.05 पर बंद",
+     "ऑटो, बैंक शेयरों में बढ़त; आईटी, फार्मा में गिरावट",
+     "इस महीने सूचकांक करीब 10% चढ़े"
+    ],
+    "why": "इन उतार-चढ़ावों का असर शेयरों और म्यूचुअल फंड में निवेश करने वालों की बचत पर पड़ता है।",
+    "cat": "भारत · बाज़ार",
+    "statl": "सेंसेक्स में बढ़त (अंक)"
+   },
+   "d": "11.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "నల్గొండ · భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2 బృందాలు",
+   "statl": "నిందితుడి కోసం పోలీసుల ప్రత్యేక బృందాలు",
+   "h": "కనగల్‌లో ఇద్దరు బాలికలపై వేధింపుల ఆరోపణ: పారిశుద్ధ్య కార్మికుడిపై పోక్సో కేసు",
+   "p": "నల్గొండ జిల్లాలో ఐదో తరగతి చదువుతున్న ఇద్దరు బాలికలను లైంగికంగా వేధించి, బెదిరించాడనే ఆరోపణలపై ఒక పారిశుద్ధ్య కార్మికుడిపై పోక్సో చట్టం కింద కేసు నమోదైంది. తల్లిదండ్రుల ఫిర్యాదు తర్వాత నిందితుడు పరారీలో ఉన్నాడని, అతడిని పట్టుకునేందుకు కనగల్ పోలీసులు రెండు ప్రత్యేక బృందాలను ఏర్పాటు చేశారని టైమ్స్ ఆఫ్ ఇండియాను ఉటంకిస్తూ సియాసత్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/nalgonda-sanitation-worker-booked-for-harassing-two-class-v-girls-3573791/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "కనగల్",
+   "pts": [
+    "పోక్సో చట్టం కింద కేసు నమోదు",
+    "ఫిర్యాదు తర్వాత నిందితుడు పరారీ: పోలీసులు",
+    "గాలింపునకు రెండు ప్రత్యేక బృందాలు"
+   ],
+   "why": "పాఠశాలల్లో పిల్లల భద్రతపై తల్లిదండ్రులు, పాఠశాల యాజమాన్యాలు అప్రమత్తంగా ఉండాల్సిన అవసరాన్ని ఇది చూపుతోంది.",
+   "pub": "2026-11-11T09:54+05:30",
+   "en": {
+    "h": "Kanagal: Sanitation worker booked under POCSO for allegedly harassing two girls",
+    "p": "A case has been registered under the POCSO Act against a sanitation worker in Nalgonda district accused of sexually harassing and threatening two Class 5 girls. The accused has been absconding since the parents filed a complaint, and Kanagal police have formed two special teams to trace him, Siasat reported, citing The Times of India.",
+    "pts": [
+     "Case registered under the POCSO Act",
+     "Accused absconding after complaint, say police",
+     "Two special teams formed to trace him"
+    ],
+    "why": "It shows the need for parents and school managements to stay alert about children's safety in schools.",
+    "cat": "Nalgonda · Safety",
+    "statl": "Special police teams formed to trace accused"
+   },
+   "hi": {
+    "h": "कनगल: दो बच्चियों से उत्पीड़न के आरोप में सफाईकर्मी पर पॉक्सो केस",
+    "p": "नलगोंडा ज़िले में कक्षा 5 की दो बच्चियों का यौन उत्पीड़न करने और उन्हें धमकाने के आरोप में एक सफाईकर्मी के खिलाफ पॉक्सो अधिनियम के तहत मामला दर्ज किया गया है। सियासत ने टाइम्स ऑफ इंडिया के हवाले से बताया कि माता-पिता की शिकायत के बाद से आरोपी फरार है और कनगल पुलिस ने उसे पकड़ने के लिए दो विशेष टीमें बनाई हैं।",
+    "pts": [
+     "पॉक्सो अधिनियम के तहत मामला दर्ज",
+     "पुलिस के अनुसार शिकायत के बाद आरोपी फरार",
+     "तलाश के लिए दो विशेष टीमें गठित"
+    ],
+    "why": "यह स्कूलों में बच्चों की सुरक्षा को लेकर माता-पिता और स्कूल प्रबंधन के सतर्क रहने की ज़रूरत दिखाता है।",
+    "cat": "नलगोंडा · सुरक्षा",
+    "statl": "आरोपी की तलाश में विशेष पुलिस टीमें"
+   },
+   "d": "11.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "ఏపీ · రాజకీయం",
    "col": "--c-election",
