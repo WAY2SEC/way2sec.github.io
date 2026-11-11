@@ -1,8 +1,207 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 89,
+ "count": 93,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నేరాలు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "కేసు నమోదు",
+   "statl": "మేడిపల్లి పోలీసుల దర్యాప్తు",
+   "h": "పెళ్లి ప్రతిపాదన తిరస్కరించిందని మహిళకు వేధింపులు: కేసు నమోదు",
+   "p": "పెళ్లి ప్రతిపాదనను తిరస్కరించినందుకు ఓ వ్యక్తి ఫోన్‌లో దూషిస్తూ వేధిస్తున్నాడని బోడుప్పల్‌కు చెందిన 28 ఏళ్ల మహిళ ఫిర్యాదు చేసినట్లు తెలంగాణ టుడే తెలిపింది. విడాకులు రాకముందే పెళ్లి వద్దని ఆమె తల్లిదండ్రులు వ్యతిరేకించారని, ఆ తర్వాత అతను పదేపదే ఫోన్ చేసి దూషించాడని ఆరోపణ. మేడిపల్లి పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-man-harassed-woman-after-she-refused-his-marriage-proposal",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బోడుప్పల్",
+   "pts": [
+    "బోడుప్పల్‌కు చెందిన 28 ఏళ్ల మహిళ ఫిర్యాదు",
+    "పెళ్లి తిరస్కరణ తర్వాత ఫోన్‌లో దూషణలని ఆరోపణ",
+    "మేడిపల్లి పోలీసుల కేసు, దర్యాప్తు"
+   ],
+   "why": "ఫోన్ వేధింపులు ఎదుర్కొనే మహిళలు పోలీసులను ఆశ్రయించవచ్చని ఈ కేసు చూపుతోంది.",
+   "pub": "2026-11-11T13:35+05:30",
+   "en": {
+    "h": "Woman harassed after rejecting marriage proposal: case registered",
+    "p": "A 28-year-old woman from Boduppal complained that a man harassed her with abusive phone calls after she rejected his marriage proposal, Telangana Today reported. Her parents had opposed the proposal as she had not yet obtained a divorce, after which he allegedly called repeatedly and abused her. Medipally police have registered a case and are investigating.",
+    "pts": [
+     "Complaint by 28-year-old woman from Boduppal",
+     "Alleged abusive calls after proposal was rejected",
+     "Medipally police register case, probe on"
+    ],
+    "why": "The case shows women facing phone harassment can approach the police.",
+    "cat": "Hyderabad · Crime",
+    "statl": "Medipally police investigating"
+   },
+   "hi": {
+    "h": "शादी का प्रस्ताव ठुकराने पर महिला से उत्पीड़न: मामला दर्ज",
+    "p": "तेलंगाना टुडे के अनुसार बोडुप्पल की 28 वर्षीय महिला ने शिकायत की कि शादी का प्रस्ताव ठुकराने के बाद एक व्यक्ति फोन पर गाली देकर उसे परेशान कर रहा है। तलाक न होने के कारण महिला के माता-पिता ने प्रस्ताव का विरोध किया था, जिसके बाद उसने कथित तौर पर बार-बार फोन कर गालियां दीं। मेडिपल्ली पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "बोडुप्पल की 28 वर्षीय महिला की शिकायत",
+     "प्रस्ताव ठुकराने पर फोन पर गालियों का आरोप",
+     "मेडिपल्ली पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "यह मामला दिखाता है कि फोन पर उत्पीड़न झेल रही महिलाएं पुलिस की मदद ले सकती हैं।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "मेडिपल्ली पुलिस की जांच"
+   },
+   "d": "11.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "5%",
+   "statl": "అల్వాల్ టిమ్స్ పనులపై క్రిశాంక్ ఆరోపణ",
+   "h": "ప్రభుత్వ ఆసుపత్రులపై సీఎంకు శ్రద్ధ లేదు: బీఆర్ఎస్ నేత క్రిశాంక్ ఆరోపణ",
+   "p": "సీఎం రేవంత్ రెడ్డి రెండేళ్లలో మూడు మెడికవర్ ఆసుపత్రులు ప్రారంభించారని, ప్రభుత్వ ఆసుపత్రులపై మాత్రం శ్రద్ధ లేదని బీఆర్ఎస్ నేత మన్నె క్రిశాంక్ ఆరోపించినట్లు నమస్తే తెలంగాణ తెలిపింది. అల్వాల్ టిమ్స్ ఆసుపత్రి పనులపై మంత్రుల ప్రకటనలు చూస్తే 2025 జనవరి నుంచి కేవలం 5 శాతం పురోగతే కనిపిస్తోందని ఆయన అన్నారు. ప్రజలకు వైద్యం అందేలా ప్రభుత్వ ఆసుపత్రులపై దృష్టి పెట్టాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/manne-krishank-stated-that-revanth-reddy-has-no-interest-in-government-hospitals-2557516",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "మూడు మెడికవర్ ఆసుపత్రుల ప్రారంభంపై ప్రశ్న",
+    "అల్వాల్ టిమ్స్ పనుల జాప్యంపై ఆరోపణ",
+    "ప్రభుత్వ ఆసుపత్రులపై దృష్టి పెట్టాలని డిమాండ్"
+   ],
+   "why": "అల్వాల్ టిమ్స్ ఆసుపత్రి ఎప్పుడు అందుబాటులోకి వస్తుందనేది ఆ ప్రాంత ప్రజలకు కీలకం.",
+   "pub": "2026-11-11T12:48+05:30",
+   "en": {
+    "h": "CM shows no interest in government hospitals, alleges BRS leader Krishank",
+    "p": "BRS leader Manne Krishank alleged that CM Revanth Reddy opened three Medicover hospitals in two years but shows no interest in government hospitals, Namasthe Telangana reported. He said ministers' own statements on the Alwal TIMS hospital show only about 5 per cent progress since January 2025. He urged the government to focus on public hospitals so people get medical care.",
+    "pts": [
+     "Questions opening of three Medicover hospitals",
+     "Alleges delay in Alwal TIMS works",
+     "Demands focus on government hospitals"
+    ],
+    "why": "When Alwal TIMS hospital opens matters to people in that area.",
+    "cat": "Telangana · Health",
+    "statl": "Krishank's claim on Alwal TIMS works"
+   },
+   "hi": {
+    "h": "सरकारी अस्पतालों पर सीएम का ध्यान नहीं: बीआरएस नेता कृशांक का आरोप",
+    "p": "नमस्ते तेलंगाना के अनुसार बीआरएस नेता मन्ने कृशांक ने आरोप लगाया कि सीएम रेवंत रेड्डी ने दो साल में तीन मेडिकवर अस्पतालों का उद्घाटन किया, लेकिन सरकारी अस्पतालों पर ध्यान नहीं है। उन्होंने कहा कि अलवाल टिम्स अस्पताल पर मंत्रियों के बयानों से जनवरी 2025 से केवल 5 प्रतिशत प्रगति दिखती है। उन्होंने लोगों को इलाज मिले, इसके लिए सरकारी अस्पतालों पर ध्यान देने की मांग की।",
+    "pts": [
+     "तीन मेडिकवर अस्पतालों के उद्घाटन पर सवाल",
+     "अलवाल टिम्स के काम में देरी का आरोप",
+     "सरकारी अस्पतालों पर ध्यान देने की मांग"
+    ],
+    "why": "अलवाल टिम्स अस्पताल कब शुरू होगा, यह उस क्षेत्र के लोगों के लिए अहम है।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "अलवाल टिम्स पर कृशांक का दावा"
+   },
+   "d": "11.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "కరీంనగర్ · పర్యావరణం",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "అనుమతి లేదు",
+   "statl": "చెట్ల నరికివేతను గుర్తించిన అటవీ అధికారులు",
+   "h": "శాతవాహన యూనివర్సిటీలో అనుమతి లేకుండా చెట్ల నరికివేత: విద్యార్థుల ఫిర్యాదు",
+   "p": "కరీంనగర్ శాతవాహన యూనివర్సిటీలో మట్టి తవ్వకాలతో పాటు చెట్లను అక్రమంగా నరుకుతున్నారని విద్యార్థులు కలెక్టర్‌కు ఫిర్యాదు చేసినట్లు నమస్తే తెలంగాణ తెలిపింది. కలెక్టర్ ఆదేశంతో అటవీ శాఖ అధికారులు యూనివర్సిటీని సందర్శించి అనుమతి లేకుండా చెట్లు నరికినట్లు గుర్తించారు. చర్యలు తీసుకోవాలని విద్యార్థులు కాలుష్య నియంత్రణ మండలికి కూడా ఫిర్యాదు చేశారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/illegal-felling-of-trees-at-satavahana-university-in-karimnagar-2557474",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "చెట్ల నరికివేతపై కలెక్టర్‌కు విద్యార్థుల ఫిర్యాదు",
+    "అనుమతి లేదని గుర్తించిన అటవీ అధికారులు",
+    "కాలుష్య నియంత్రణ మండలికీ ఫిర్యాదు"
+   ],
+   "why": "క్యాంపస్‌లో పచ్చదనం, వన్యప్రాణుల రక్షణపై విద్యార్థులు ఆందోళన వ్యక్తం చేస్తున్నారు.",
+   "pub": "2026-11-11T11:22+05:30",
+   "en": {
+    "h": "Trees felled without permission at Satavahana University: students complain",
+    "p": "Students complained to the Collector that trees were being illegally cut along with soil excavation at Satavahana University in Karimnagar, Namasthe Telangana reported. On the Collector's direction, Forest Department officials visited the university and found trees had been felled without permission. The students also complained to the Pollution Control Board seeking action.",
+    "pts": [
+     "Students complain to Collector over tree felling",
+     "Forest officials find no permission was taken",
+     "Complaint also made to Pollution Control Board"
+    ],
+    "why": "Students are concerned about protecting greenery and wildlife on the campus.",
+    "cat": "Karimnagar · Environment",
+    "statl": "forest officials found trees felled"
+   },
+   "hi": {
+    "h": "शातवाहन विश्वविद्यालय में बिना अनुमति पेड़ों की कटाई: छात्रों की शिकायत",
+    "p": "नमस्ते तेलंगाना के अनुसार करीमनगर के शातवाहन विश्वविद्यालय में मिट्टी खुदाई के साथ अवैध रूप से पेड़ काटे जाने की छात्रों ने कलेक्टर से शिकायत की। कलेक्टर के निर्देश पर वन विभाग के अधिकारियों ने विश्वविद्यालय का दौरा किया और पाया कि बिना अनुमति पेड़ काटे गए। छात्रों ने कार्रवाई के लिए प्रदूषण नियंत्रण बोर्ड से भी शिकायत की।",
+    "pts": [
+     "पेड़ कटाई पर छात्रों की कलेक्टर से शिकायत",
+     "वन अधिकारियों ने पाया, अनुमति नहीं ली गई",
+     "प्रदूषण नियंत्रण बोर्ड से भी शिकायत"
+    ],
+    "why": "छात्र परिसर की हरियाली और वन्यजीवों की सुरक्षा को लेकर चिंतित हैं।",
+    "cat": "करीमनगर · पर्यावरण",
+    "statl": "वन अधिकारियों ने कटाई पाई"
+   },
+   "d": "11.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "ఏపీ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "నవం. 11",
+   "statl": "జాతీయ విద్యా దినోత్సవం",
+   "h": "మౌలానా ఆజాద్ ఆశయాలు భావితరాలకు స్ఫూర్తి: సీఎం చంద్రబాబు",
+   "p": "జాతీయ విద్యా దినోత్సవం సందర్భంగా మౌలానా అబుల్ కలాం ఆజాద్ జయంతి నాడు ఏపీ సీఎం చంద్రబాబు నాయుడు నివాళులర్పించినట్లు డెక్కన్ క్రానికల్ తెలిపింది. స్వాతంత్ర్య సమరయోధుడు, పండితుడు, దేశ తొలి విద్యా మంత్రిగా ఆజాద్ విద్యా వ్యవస్థను బలోపేతం చేశారని గుర్తు చేశారు. విద్యను దేశ నిర్మాణానికి, సామాజిక మార్పుకు సాధనంగా ఆజాద్ చూశారని, ఆయన ఆశయాలు భావితరాలకు స్ఫూర్తినిస్తాయని అన్నారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/national-education-day-naidu-pays-homage-to-maulana-abul-kalam-azad-2003399",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ఆజాద్ జయంతి నాడు జాతీయ విద్యా దినోత్సవం",
+    "దేశ తొలి విద్యా మంత్రిగా సేవలను గుర్తు చేసిన సీఎం",
+    "ఆజాద్ ఆశయాలు భావితరాలకు స్ఫూర్తి అన్న చంద్రబాబు"
+   ],
+   "why": "విద్యారంగంలో ఆజాద్ సేవలను విద్యార్థులు, ఉపాధ్యాయులు స్మరించుకునే రోజు ఇది.",
+   "pub": "2026-11-11T10:02+05:30",
+   "en": {
+    "h": "Maulana Azad's ideals will inspire future generations: CM Naidu",
+    "p": "AP CM N. Chandrababu Naidu paid tribute to Maulana Abul Kalam Azad on his birth anniversary, observed as National Education Day, Deccan Chronicle reported. He recalled Azad as a freedom fighter, scholar and India's first Education Minister who strengthened the education system. He said Azad saw education as a tool for nation-building and social change, and his ideals would inspire future generations.",
+    "pts": [
+     "Azad's birth anniversary is National Education Day",
+     "CM recalls his role as India's first Education Minister",
+     "Naidu says Azad's ideals will inspire future generations"
+    ],
+    "why": "It is a day for students and teachers to remember Azad's service to education.",
+    "cat": "AP · Education",
+    "statl": "National Education Day"
+   },
+   "hi": {
+    "h": "मौलाना आज़ाद के आदर्श भावी पीढ़ियों को प्रेरित करेंगे: सीएम नायडू",
+    "p": "डेक्कन क्रॉनिकल के अनुसार आंध्र प्रदेश के सीएम एन. चंद्रबाबू नायडू ने राष्ट्रीय शिक्षा दिवस के रूप में मनाई जाने वाली मौलाना अबुल कलाम आज़ाद की जयंती पर उन्हें श्रद्धांजलि दी। उन्होंने आज़ाद को स्वतंत्रता सेनानी, विद्वान और देश के पहले शिक्षा मंत्री के रूप में याद किया, जिन्होंने शिक्षा व्यवस्था को मजबूत किया। उन्होंने कहा कि आज़ाद शिक्षा को राष्ट्र निर्माण और सामाजिक बदलाव का साधन मानते थे और उनके आदर्श भावी पीढ़ियों को प्रेरित करेंगे।",
+    "pts": [
+     "आज़ाद की जयंती राष्ट्रीय शिक्षा दिवस",
+     "सीएम ने पहले शिक्षा मंत्री के रूप में योगदान याद किया",
+     "नायडू बोले, आज़ाद के आदर्श भावी पीढ़ियों को प्रेरणा देंगे"
+    ],
+    "why": "यह छात्रों और शिक्षकों के लिए शिक्षा में आज़ाद के योगदान को याद करने का दिन है।",
+    "cat": "आंध्र प्रदेश · शिक्षा",
+    "statl": "राष्ट्रीय शिक्षा दिवस"
+   },
+   "d": "11.11.2026",
+   "t": "14:05"
+  },
   {
    "cat": "ఏపీ · వాతావరణం",
    "col": "--c-water",
