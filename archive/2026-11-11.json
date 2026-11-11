@@ -1,8 +1,359 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 33,
+ "count": 40,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "14.6°C",
+   "statl": "కుబీర్‌లో కనిష్ఠ ఉష్ణోగ్రత",
+   "h": "తెలంగాణను వణికిస్తున్న చలి: కుబీర్‌లో 14.6 డిగ్రీలు",
+   "p": "రాష్ట్రంలో రాత్రి, తెల్లవారుజామున చలి తీవ్రత పెరుగుతోంది. నిర్మల్ జిల్లా కుబీర్‌లో రాష్ట్రంలోనే అత్యల్పంగా 14.6 డిగ్రీల కనిష్ఠ ఉష్ణోగ్రత నమోదైందని వార్త కథనం పేర్కొంది. హైదరాబాద్ సహా 20కి పైగా జిల్లాల్లో ఉష్ణోగ్రతలు 15 డిగ్రీల లోపుకు పడిపోయాయి. రాబోయే మూడు రోజుల్లో చలి మరింత పెరిగి, కొన్ని చోట్ల 11-12 డిగ్రీలకు చేరవచ్చని వాతావరణ శాఖ అంచనా.",
+   "src": "Vaartha",
+   "url": "https://vaartha.com/telangana/the-cold-that-has-telangana-shivering/803410/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "కుబీర్",
+   "pub": "2026-11-11T07:47+05:30",
+   "pts": [
+    "నిర్మల్ జిల్లా కుబీర్‌లో 14.6 డిగ్రీలు",
+    "హైదరాబాద్ సహా 20 జిల్లాల్లో 15 డిగ్రీల లోపు",
+    "మూడు రోజుల్లో 11-12 డిగ్రీలకు పడిపోవచ్చు"
+   ],
+   "why": "వృద్ధులు, చిన్నపిల్లలు, ఉదయం-రాత్రి ప్రయాణించేవారు జాగ్రత్తలు తీసుకోవాలి.",
+   "en": {
+    "h": "Cold grips Telangana: Kubeer records 14.6 degrees",
+    "p": "Cold is intensifying across the state at night and early morning. Kubeer in Nirmal district recorded the state's lowest minimum temperature of 14.6 degrees Celsius, the report said. Temperatures fell below 15 degrees in Hyderabad and 20 other districts. The weather department expects the cold to intensify over the next three days, with some places possibly dropping to 11-12 degrees.",
+    "pts": [
+     "Kubeer in Nirmal district at 14.6 degrees",
+     "Below 15 degrees in Hyderabad and 20 districts",
+     "May drop to 11-12 degrees in three days"
+    ],
+    "why": "The elderly, small children and those travelling in the morning or at night should take care.",
+    "cat": "Telangana · Weather",
+    "statl": "Lowest minimum at Kubeer"
+   },
+   "hi": {
+    "h": "तेलंगाना में ठंड का कहर: कुबीर में 14.6 डिग्री",
+    "p": "राज्य में रात और सुबह के समय ठंड बढ़ रही है। रिपोर्ट के अनुसार निर्मल ज़िले के कुबीर में राज्य का सबसे कम न्यूनतम तापमान 14.6 डिग्री सेल्सियस दर्ज हुआ। हैदराबाद समेत 20 अन्य ज़िलों में तापमान 15 डिग्री से नीचे गया। मौसम विभाग के अनुमान के अनुसार अगले तीन दिनों में ठंड और बढ़ेगी और कुछ जगहों पर तापमान 11-12 डिग्री तक गिर सकता है।",
+    "pts": [
+     "निर्मल ज़िले के कुबीर में 14.6 डिग्री",
+     "हैदराबाद समेत 20 ज़िलों में 15 डिग्री से कम",
+     "तीन दिनों में 11-12 डिग्री तक गिर सकता है"
+    ],
+    "why": "बुज़ुर्गों, छोटे बच्चों और सुबह-रात यात्रा करने वालों को सावधानी बरतनी चाहिए।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "कुबीर में न्यूनतम तापमान"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "సంగారెడ్డి · భూమి",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "16.5 ఎకరాలు",
+   "statl": "తీసుకున్నారని ఎమ్మెల్యే ఆరోపణ",
+   "h": "కోట్లపూర్‌లో దళిత రైతుల భూములు కంపెనీకి: ఎమ్మెల్యే చింతా ప్రభాకర్ ఆరోపణ",
+   "p": "సంగారెడ్డి జిల్లా కోట్లపూర్‌లో దళిత, బహుజన రైతుల అసైన్డ్ భూములను టీజీఐఐసీ ద్వారా జెట్టి ఇన్‌ఫ్రాకు తక్కువ ధరకు కేటాయించారని బీఆర్‌ఎస్ ఎమ్మెల్యే చింతా ప్రభాకర్ ఆరోపించారు. మొత్తం 16.5 ఎకరాలు తీసుకున్నారని, భూములు తిరిగి ఇవ్వాలని కలెక్టర్ ప్రతీక్ జైన్‌కు ఫిర్యాదు చేశారు. ఆరు ఎకరాల కేటాయింపు జరిగిందని, రాష్ట్ర ఉన్నతాధికారులు నిర్ణయించారని టీజీఐఐసీ జోనల్ మేనేజర్ తెలిపినట్లు నమస్తే తెలంగాణ పేర్కొంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/sangareddy-land-allocation-row-brs-mla-alleges-farmers-lands-handed-over-to-jetty-infra-2557177",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కోట్లపూర్",
+   "pub": "2026-11-11T07:08+05:30",
+   "pts": [
+    "జెట్టి ఇన్‌ఫ్రాకు భూకేటాయింపుపై ఎమ్మెల్యే ఆరోపణ",
+    "కలెక్టర్‌కు ఫిర్యాదు, భూములు తిరిగి ఇవ్వాలని డిమాండ్",
+    "ఆరు ఎకరాల కేటాయింపును ధృవీకరించిన టీజీఐఐసీ"
+   ],
+   "why": "అసైన్డ్ భూములున్న పేద రైతుల హక్కులకు సంబంధించిన అంశం ఇది.",
+   "en": {
+    "h": "Dalit farmers' land in Kotlapur given to company, alleges MLA Chinta Prabhakar",
+    "p": "BRS MLA Chinta Prabhakar alleged that assigned land of Dalit and Bahujan farmers in Kotlapur, Sangareddy district, was allotted cheaply to Jetty Infra through TGIIC. He alleged 16.5 acres in all were taken and complained to Collector Pratik Jain seeking return of the land. Namasthe Telangana said the TGIIC zonal manager confirmed a six-acre allotment and said senior state officials decided it.",
+    "pts": [
+     "MLA alleges land allotment to Jetty Infra",
+     "Complaint to Collector, demand to return land",
+     "TGIIC confirms six-acre allotment"
+    ],
+    "why": "The issue concerns the rights of poor farmers holding assigned land.",
+    "cat": "Sangareddy · Land",
+    "statl": "Taken, alleges MLA"
+   },
+   "hi": {
+    "h": "कोटलापुर में दलित किसानों की ज़मीन कंपनी को दी गई: विधायक चिंता प्रभाकर का आरोप",
+    "p": "बीआरएस विधायक चिंता प्रभाकर ने आरोप लगाया कि संगारेड्डी ज़िले के कोटलापुर में दलित और बहुजन किसानों की आवंटित ज़मीन टीजीआईआईसी के ज़रिए सस्ते में जेट्टी इन्फ्रा को दी गई। उन्होंने कुल 16.5 एकड़ लेने का आरोप लगाया और ज़मीन लौटाने के लिए कलेक्टर प्रतीक जैन से शिकायत की। नमस्ते तेलंगाना के अनुसार टीजीआईआईसी के ज़ोनल मैनेजर ने छह एकड़ आवंटन की पुष्टि की और कहा कि यह फ़ैसला राज्य के वरिष्ठ अधिकारियों ने लिया।",
+    "pts": [
+     "जेट्टी इन्फ्रा को भूमि आवंटन पर विधायक का आरोप",
+     "कलेक्टर से शिकायत, ज़मीन लौटाने की मांग",
+     "टीजीआईआईसी ने छह एकड़ आवंटन की पुष्टि की"
+    ],
+    "why": "यह मामला आवंटित ज़मीन वाले गरीब किसानों के अधिकारों से जुड़ा है।",
+    "cat": "संगारेड्डी · भूमि",
+    "statl": "लेने का विधायक का आरोप"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "తెలంగాణ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹2,461",
+   "statl": "ఏ-గ్రేడ్ ధాన్యం మద్దతు ధర",
+   "h": "కొనుగోలు కేంద్రాలు తెరవక కల్లాల్లోనే ధాన్యం: రైతుల ఆందోళన",
+   "p": "రాష్ట్రంలో చాలా ధాన్యం కొనుగోలు కేంద్రాలు ఇంకా తెరవకపోవడంతో రైతులు కల్లాల్లోనే ధాన్యంతో ఎదురుచూస్తున్నారని నమస్తే తెలంగాణ కథనం పేర్కొంది. 8,283 కేంద్రాల ద్వారా 65 లక్షల టన్నులు కొనాలని ప్రభుత్వం ప్రణాళిక వేసింది. కథనం ప్రకారం 100 కంటే తక్కువ కేంద్రాలే తెరుచుకున్నాయి. మిల్లర్లు, వ్యాపారులు క్వింటాకు రూ.1,000 వరకు ధర తగ్గించారని, పలు చోట్ల రైతులు నిరసన తెలిపారని పేర్కొంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/paddy-farmers-struggle-as-government-procurement-delays-trigger-price-crash-2557253",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T06:59+05:30",
+   "pts": [
+    "8,283 కేంద్రాల ద్వారా 65 లక్షల టన్నుల కొనుగోలు లక్ష్యం",
+    "కథనం ప్రకారం 100 లోపు కేంద్రాలే ప్రారంభం",
+    "దొడ్డు రకం క్వింటా రూ.2,000 లోపే పలుకుతోంది"
+   ],
+   "why": "ఖరీఫ్ ధాన్యం అమ్ముకోవాల్సిన లక్షలాది రైతుల ఆదాయంపై ప్రభావం.",
+   "en": {
+    "h": "Paddy stuck on threshing yards as procurement centres not opened",
+    "p": "With most paddy procurement centres in the state yet to open, farmers are waiting with grain on threshing yards, a Namasthe Telangana report said. The government planned to buy 65 lakh tonnes through 8,283 centres. According to the report, fewer than 100 centres have opened. It said millers and traders cut prices by up to Rs 1,000 per quintal and farmers protested in several places.",
+    "pts": [
+     "Target of 65 lakh tonnes via 8,283 centres",
+     "Fewer than 100 centres opened, per report",
+     "Coarse paddy fetching under Rs 2,000 a quintal"
+    ],
+    "why": "It affects the income of lakhs of farmers who must sell kharif paddy.",
+    "cat": "Telangana · Agriculture",
+    "statl": "MSP for Grade-A paddy"
+   },
+   "hi": {
+    "h": "ख़रीद केंद्र न खुलने से खलिहानों में पड़ा धान: किसान परेशान",
+    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार राज्य में अधिकतर धान ख़रीद केंद्र अभी नहीं खुले हैं, जिससे किसान खलिहानों में धान लेकर इंतज़ार कर रहे हैं। सरकार ने 8,283 केंद्रों के ज़रिए 65 लाख टन ख़रीदने की योजना बनाई थी। रिपोर्ट के अनुसार 100 से भी कम केंद्र खुले हैं। इसमें कहा गया कि मिलरों और व्यापारियों ने प्रति क्विंटल 1,000 रुपये तक दाम घटाए और कई जगह किसानों ने विरोध किया।",
+    "pts": [
+     "8,283 केंद्रों से 65 लाख टन ख़रीद का लक्ष्य",
+     "रिपोर्ट के अनुसार 100 से कम केंद्र खुले",
+     "मोटा धान 2,000 रुपये प्रति क्विंटल से कम"
+    ],
+    "why": "इसका असर ख़रीफ़ धान बेचने वाले लाखों किसानों की आय पर पड़ता है।",
+    "cat": "तेलंगाना · कृषि",
+    "statl": "ए-ग्रेड धान का समर्थन मूल्य"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-city",
+   "art": "power",
+   "stat": "అన్ని",
+   "statl": "బస్ స్టేషన్లలో సీసీటీవీలు",
+   "h": "అన్ని బస్ స్టేషన్లలో సీసీటీవీ కెమెరాలు: ఆర్టీసీ ఎండీ నాగిరెడ్డి",
+   "p": "రాష్ట్రంలోని అన్ని బస్ స్టేషన్లలో త్వరలో సీసీటీవీ కెమెరాలు ఏర్పాటు చేస్తామని ఆర్టీసీ ఎండీ వై. నాగిరెడ్డి ఒక ప్రకటనలో తెలిపారు. ప్రయాణికుల భద్రత, రద్దీ నియంత్రణ, కార్యకలాపాల పర్యవేక్షణ దీని లక్ష్యం. ఈ వ్యవస్థను ప్రాంతీయ కార్యాలయాలు, ప్రధాన కార్యాలయంతో అనుసంధానించి నిరంతరం పర్యవేక్షిస్తామని ఆయన చెప్పినట్లు నమస్తే తెలంగాణ పేర్కొంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-rtc-to-install-cctv-cameras-at-all-bus-stations-2557343",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T04:37+05:30",
+   "pts": [
+    "అన్ని బస్ స్టేషన్లలో త్వరలో సీసీటీవీలు",
+    "ప్రయాణికుల భద్రత, రద్దీ నియంత్రణ లక్ష్యం",
+    "ప్రధాన కార్యాలయం నుంచి నిరంతర పర్యవేక్షణ"
+   ],
+   "why": "రోజూ బస్సుల్లో ప్రయాణించే లక్షలాది మందికి భద్రత పెరుగుతుంది.",
+   "en": {
+    "h": "CCTV cameras at all bus stations: RTC MD Nagi Reddy",
+    "p": "RTC Managing Director Y. Nagi Reddy said in a statement that CCTV cameras will soon be installed at all bus stations in the state. The aim is passenger safety, crowd control and supervision of operations. Namasthe Telangana said the system will be linked to regional offices and the head office for continuous monitoring.",
+    "pts": [
+     "CCTV cameras soon at all bus stations",
+     "Aim: passenger safety, crowd control",
+     "Continuous monitoring from head office"
+    ],
+    "why": "It improves safety for lakhs of people who travel by bus daily.",
+    "cat": "Telangana · RTC",
+    "statl": "Bus stations to get CCTV"
+   },
+   "hi": {
+    "h": "सभी बस स्टेशनों पर सीसीटीवी कैमरे: आरटीसी एमडी नागी रेड्डी",
+    "p": "आरटीसी के प्रबंध निदेशक वाई. नागी रेड्डी ने एक बयान में कहा कि राज्य के सभी बस स्टेशनों पर जल्द सीसीटीवी कैमरे लगाए जाएंगे। इसका उद्देश्य यात्रियों की सुरक्षा, भीड़ नियंत्रण और कामकाज की निगरानी है। नमस्ते तेलंगाना के अनुसार यह व्यवस्था क्षेत्रीय कार्यालयों और मुख्यालय से जोड़ी जाएगी ताकि लगातार निगरानी हो सके।",
+    "pts": [
+     "सभी बस स्टेशनों पर जल्द सीसीटीवी",
+     "यात्री सुरक्षा और भीड़ नियंत्रण लक्ष्य",
+     "मुख्यालय से लगातार निगरानी"
+    ],
+    "why": "इससे रोज़ बस से यात्रा करने वाले लाखों लोगों की सुरक्षा बढ़ेगी।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "बस स्टेशनों पर सीसीटीवी"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "నవం. 11",
+   "statl": "మైనారిటీ సంక్షేమ దినోత్సవం",
+   "h": "మైనారిటీ సంక్షేమ దినోత్సవాన్ని ప్రభుత్వం పట్టించుకోవడం లేదు: సంఘం ఆరోపణ",
+   "p": "మౌలానా అబుల్ కలాం ఆజాద్ జయంతి సందర్భంగా నవంబర్ 11న జరిగే మైనారిటీ సంక్షేమ దినోత్సవాన్ని రాష్ట్ర ప్రభుత్వం నిర్లక్ష్యం చేస్తోందని మైనారిటీ సంక్షేమ సంఘం రాష్ట్ర అధ్యక్షుడు ఎండీ యాకూబ్ పాషా ఆరోపించారు. ఏటా మెమో మాత్రమే ఇస్తున్నారని, గతంలోలా నిధులు ఇవ్వడం లేదని అన్నారు. ప్రజావాణిలో వినతిపత్రం ఇచ్చినా స్పందన లేదని చెప్పినట్లు నమస్తే తెలంగాణ పేర్కొంది. కథనంలో ప్రభుత్వ స్పందన లేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/minority-leaders-fire-at-revanth-government-for-neglecting-minority-welfare-day-2557284",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T02:48+05:30",
+   "pts": [
+    "నవంబర్ 11న మైనారిటీ సంక్షేమ దినోత్సవం",
+    "అధికారిక వేడుకలు, నిధులు లేవని ఆరోపణ",
+    "ప్రజావాణిలో వినతిపత్రం ఇచ్చినట్లు వెల్లడి"
+   ],
+   "why": "పాఠశాలలు, విద్యాసంస్థల్లో దినోత్సవ కార్యక్రమాల నిర్వహణకు సంబంధించిన అంశం.",
+   "en": {
+    "h": "Government ignoring Minority Welfare Day, alleges association",
+    "p": "Minority Welfare Association state president MD Yakoob Pasha alleged that the state government is neglecting Minority Welfare Day, observed on November 11 on Maulana Abul Kalam Azad's birth anniversary. He said only a memo is issued every year and funds are not released as before. Namasthe Telangana said he told of a petition at Praja Vani that got no response. The report has no government response.",
+    "pts": [
+     "Minority Welfare Day on November 11",
+     "Alleges no official events or funds",
+     "Says petition given at Praja Vani"
+    ],
+    "why": "The issue concerns holding the day's events in schools and colleges.",
+    "cat": "Telangana · Welfare",
+    "statl": "Minority Welfare Day"
+   },
+   "hi": {
+    "h": "सरकार अल्पसंख्यक कल्याण दिवस की अनदेखी कर रही है: संघ का आरोप",
+    "p": "अल्पसंख्यक कल्याण संघ के प्रदेश अध्यक्ष एमडी याकूब पाशा ने आरोप लगाया कि मौलाना अबुल कलाम आज़ाद की जयंती पर 11 नवंबर को मनाए जाने वाले अल्पसंख्यक कल्याण दिवस की राज्य सरकार अनदेखी कर रही है। उन्होंने कहा कि हर साल केवल एक मेमो जारी होता है और पहले की तरह धनराशि नहीं दी जाती। नमस्ते तेलंगाना के अनुसार उन्होंने प्रजावाणी में दी गई अर्ज़ी पर कोई जवाब न मिलने की बात कही। रिपोर्ट में सरकार का जवाब नहीं है।",
+    "pts": [
+     "11 नवंबर को अल्पसंख्यक कल्याण दिवस",
+     "सरकारी आयोजन और धन न देने का आरोप",
+     "प्रजावाणी में अर्ज़ी देने की बात"
+    ],
+    "why": "यह मामला स्कूलों और कॉलेजों में दिवस के आयोजन से जुड़ा है।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "अल्पसंख्यक कल्याण दिवस"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ఏపీ · పిల్లల హక్కులు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "తండ్రి పేరు",
+   "statl": "తప్పనిసరి కాకూడదని సూచన",
+   "h": "ప్రభుత్వ పత్రాల్లో తండ్రి పేరు తప్పనిసరి కాకూడదు: ఏపీ బాలల హక్కుల కమిషన్",
+   "p": "చట్టప్రకారం అవసరం లేని చోట్ల ప్రభుత్వ దరఖాస్తులు, రికార్డుల్లో తండ్రి పేరును తప్పనిసరి చేయవద్దని ఏపీ బాలల హక్కుల పరిరక్షణ కమిషన్ సూచించింది. విజయవాడలో జరిగిన రాష్ట్రస్థాయి వర్క్‌షాప్‌లో కమిషన్ చైర్‌పర్సన్ వేటుకూరి రాజు మాట్లాడారు. ఒంటరి, వితంతు తల్లుల పిల్లలు, అక్రమ రవాణా బాధితులు ఇబ్బంది పడుతున్నారని చెప్పారు. జీవో తేవాలని మహిళా కమిషన్ చైర్‌పర్సన్ రాయపాటి శైలజ కోరారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/call-for-child-friendly-documentation-policies-1140894",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "విజయవాడ",
+   "pub": "2026-11-11T01:37+05:30",
+   "pts": [
+    "విజయవాడలో రాష్ట్రస్థాయి వర్క్‌షాప్",
+    "తండ్రి పేరు ఐచ్ఛికం చేయాలని సూచన",
+    "ప్రభుత్వ ఉత్తర్వు తేవాలని మహిళా కమిషన్ డిమాండ్"
+   ],
+   "why": "ఒంటరి తల్లుల పిల్లలకు చదువు, గుర్తింపు పత్రాలు, సంక్షేమం సులభంగా అందే అవకాశం.",
+   "en": {
+    "h": "Father's name should not be mandatory in government documents: AP child rights panel",
+    "p": "The AP State Commission for Protection of Child Rights suggested that the father's name should not be mandatory in government forms and records where the law does not require it. Commission chairperson Vetukuri Raju spoke at a state-level workshop in Vijayawada. He said children of single and widowed mothers and trafficking survivors face difficulties. Women's commission chairperson Rayapati Sailaja sought a Government Order.",
+    "pts": [
+     "State-level workshop held in Vijayawada",
+     "Suggests making father's name optional",
+     "Women's commission seeks Government Order"
+    ],
+    "why": "Children of single mothers could get education, ID documents and welfare more easily.",
+    "cat": "AP · Child Rights",
+    "statl": "Should not be mandatory"
+   },
+   "hi": {
+    "h": "सरकारी दस्तावेज़ों में पिता का नाम अनिवार्य न हो: एपी बाल अधिकार आयोग",
+    "p": "आंध्र प्रदेश बाल अधिकार संरक्षण आयोग ने सुझाव दिया कि जहाँ क़ानूनन ज़रूरी न हो, वहाँ सरकारी फ़ॉर्म और रिकॉर्ड में पिता का नाम अनिवार्य न किया जाए। आयोग के अध्यक्ष वेटुकुरी राजू ने विजयवाड़ा में राज्य स्तरीय कार्यशाला में यह बात कही। उन्होंने कहा कि अकेली और विधवा माताओं के बच्चे तथा तस्करी पीड़ित कठिनाइयों का सामना करते हैं। महिला आयोग की अध्यक्ष रायपाटी शैलजा ने सरकारी आदेश की मांग की।",
+    "pts": [
+     "विजयवाड़ा में राज्य स्तरीय कार्यशाला",
+     "पिता का नाम वैकल्पिक करने का सुझाव",
+     "महिला आयोग ने सरकारी आदेश मांगा"
+    ],
+    "why": "अकेली माताओं के बच्चों को शिक्षा, पहचान पत्र और कल्याण आसानी से मिल सकेगा।",
+    "cat": "एपी · बाल अधिकार",
+    "statl": "अनिवार्य न हो"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "భారత్ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "32",
+   "statl": "స్థానాల్లో ఓట్ల తేడా: నివేదిక",
+   "h": "2024 ఎన్నికల్లో 32 స్థానాల్లో పోలైన, లెక్కించిన ఓట్లలో తేడా: దర్యాప్తు నివేదిక",
+   "p": "2024లో మహారాష్ట్ర, హర్యానా, జమ్మూకశ్మీర్ ఎన్నికలకు సంబంధించిన ఎన్నికల సంఘం రికార్డులను పరిశీలించిన ‘ది రిపోర్టర్స్ కలెక్టివ్’ దర్యాప్తు ప్రకారం 32 స్థానాల్లో పోలైన ఓట్లు, లెక్కించిన ఓట్ల మధ్య తేడా కనిపించింది. 51 స్థానాల్లో రికార్డులు సరిపోలేదని నివేదిక పేర్కొంది. అన్ని దశలూ సజావుగా జరిగాయని ఈసీ నివేదిక ఇచ్చినట్లు, 20 స్థానాల్లో రీపోల్ కావాలని కాంగ్రెస్ కోరినట్లు నమస్తే తెలంగాణ తెలిపింది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/national/investigative-report-flags-discrepancies-between-votes-polled-and-counted-in-51-seats-2557141",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-11T03:20+05:30",
+   "pts": [
+    "467 అసెంబ్లీ, 63 లోక్‌సభ స్థానాల రికార్డుల పరిశీలన",
+    "12 చోట్ల తక్కువ, 20 చోట్ల ఎక్కువ ఓట్లు లెక్కింపు: నివేదిక",
+    "అన్ని దశలు సజావుగా జరిగాయన్న ఈసీ"
+   ],
+   "why": "ఎన్నికల రికార్డుల పారదర్శకతపై ప్రశ్నలు, దేశవ్యాప్తంగా ఓటర్లకు సంబంధించిన అంశం.",
+   "en": {
+    "h": "Polled and counted votes differ in 32 seats in 2024 polls: investigative report",
+    "p": "An investigation by The Reporters Collective into Election Commission records of the 2024 Maharashtra, Haryana and Jammu and Kashmir elections found differences between votes polled and counted in 32 seats. The report said records were insufficient in 51 seats. Namasthe Telangana said the EC submitted a report saying all phases went smoothly, and Congress sought re-polls in 20 seats.",
+    "pts": [
+     "Records of 467 Assembly, 63 Lok Sabha seats examined",
+     "Fewer votes counted in 12, more in 20: report",
+     "EC says all phases went smoothly"
+    ],
+    "why": "It raises questions on transparency of election records, a matter for voters nationwide.",
+    "cat": "India · Elections",
+    "statl": "Seats with vote gap: report"
+   },
+   "hi": {
+    "h": "2024 चुनावों में 32 सीटों पर डाले गए और गिने गए वोटों में अंतर: जांच रिपोर्ट",
+    "p": "2024 में महाराष्ट्र, हरियाणा और जम्मू-कश्मीर चुनावों के चुनाव आयोग रिकॉर्ड की 'द रिपोर्टर्स कलेक्टिव' की जांच के अनुसार 32 सीटों पर डाले गए और गिने गए वोटों में अंतर मिला। रिपोर्ट में कहा गया कि 51 सीटों पर रिकॉर्ड अपर्याप्त थे। नमस्ते तेलंगाना के अनुसार चुनाव आयोग ने रिपोर्ट दी कि सभी चरण सुचारु रहे, और कांग्रेस ने 20 सीटों पर दोबारा मतदान की मांग की।",
+    "pts": [
+     "467 विधानसभा, 63 लोकसभा सीटों के रिकॉर्ड जांचे",
+     "12 पर कम, 20 पर ज़्यादा वोट गिने: रिपोर्ट",
+     "चुनाव आयोग: सभी चरण सुचारु रहे"
+    ],
+    "why": "इससे चुनावी रिकॉर्ड की पारदर्शिता पर सवाल उठते हैं, जो देशभर के मतदाताओं से जुड़ा है।",
+    "cat": "भारत · चुनाव",
+    "statl": "वोट अंतर वाली सीटें: रिपोर्ट"
+   },
+   "d": "11.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "తెలంగాణ · సాగునీరు",
    "col": "--c-water",
