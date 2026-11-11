@@ -1,8 +1,1154 @@
 {
- "date": "10.11.2026",
- "updated": "2026-11-10T23:45:18+05:30",
+ "date": "11.11.2026",
+ "updated": "2026-11-11T06:43:14+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "4.61 లక్షల హె.",
+   "statl": "తుపాన్లతో దెబ్బతిన్న పంటల విస్తీర్ణం",
+   "h": "ఆర్నబ్, మురసు తుపాన్లు: ఏపీలో 4.61 లక్షల హెక్టార్లలో పంట నష్టం",
+   "p": "ఆర్నబ్, మురసు తుపాన్ల వల్ల రాష్ట్రంలో 4,61,194 హెక్టార్లలో వ్యవసాయ పంటలు, 29,960 హెక్టార్లలో ఉద్యాన పంటలు దెబ్బతిన్నాయని అధికారులు మంత్రి అచ్చెన్నాయుడికి నివేదించారు. ఆర్నబ్ తుపాను 15 జిల్లాల్లో 5.23 లక్షల మంది రైతులపై ప్రభావం చూపింది, నష్టం ₹2,392.84 కోట్లు. కోనసీమ జిల్లాలో 99.19% సాగు విస్తీర్ణం దెబ్బతింది. అర్హులైన ఏ రైతూ మిగిలిపోకుండా గణన వేగవంతం చేయాలని మంత్రి ఆదేశించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/cyclones-ravage-crops-in-461-lakh-hectares-1140907",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T02:03+05:30",
+   "pts": [
+    "ఆర్నబ్ తుపాను నష్టం ₹2,392.84 కోట్లు",
+    "మురసు తుపానుతో 1.86 లక్షల రైతులకు నష్టం",
+    "కోనసీమలో 99.19% సాగు విస్తీర్ణం దెబ్బతింది"
+   ],
+   "why": "తుపాన్లతో పంటలు కోల్పోయిన లక్షలాది ఏపీ రైతులకు పరిహారం గణన ముఖ్యం.",
+   "en": {
+    "h": "Cyclones Arnab, Murasu damage crops on 4.61 lakh hectares in AP",
+    "p": "Officials told Agriculture Minister K Atchannaidu that cyclones Arnab and Murasu damaged agricultural crops on 4,61,194 hectares and horticultural crops on 29,960 hectares in the state. Cyclone Arnab hit 5.23 lakh farmers in 15 districts, with losses of Rs 2,392.84 crore. In Konaseema district, 99.19% of the cultivated area was damaged. The minister ordered faster enumeration so no eligible farmer is left out.",
+    "pts": [
+     "Cyclone Arnab losses put at Rs 2,392.84 crore",
+     "Cyclone Murasu hit 1.86 lakh farmers",
+     "99.19% of cultivated area damaged in Konaseema"
+    ],
+    "why": "The damage count matters for lakhs of AP farmers who lost crops to the cyclones.",
+    "cat": "AP · Agriculture",
+    "statl": "Crop area damaged by cyclones"
+   },
+   "hi": {
+    "h": "अर्नब, मुरासु चक्रवात: आंध्र प्रदेश में 4.61 लाख हेक्टेयर फसल बर्बाद",
+    "p": "अधिकारियों ने कृषि मंत्री के. अच्चन्नायडु को बताया कि अर्नब और मुरासु चक्रवातों से राज्य में 4,61,194 हेक्टेयर कृषि फसलें और 29,960 हेक्टेयर बागवानी फसलें बर्बाद हुईं। अर्नब चक्रवात ने 15 जिलों में 5.23 लाख किसानों को प्रभावित किया, नुकसान ₹2,392.84 करोड़ रहा। कोनसीमा जिले में 99.19% खेती क्षेत्र बर्बाद हुआ। मंत्री ने गणना तेज करने का आदेश दिया ताकि कोई पात्र किसान न छूटे।",
+    "pts": [
+     "अर्नब चक्रवात से ₹2,392.84 करोड़ का नुकसान",
+     "मुरासु से 1.86 लाख किसान प्रभावित",
+     "कोनसीमा में 99.19% खेती क्षेत्र बर्बाद"
+    ],
+    "why": "चक्रवात में फसल गंवाने वाले लाखों किसानों के लिए यह गणना अहम है।",
+    "cat": "आंध्र प्रदेश · कृषि",
+    "statl": "चक्रवात से बर्बाद फसल क्षेत्र"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "18 వరకు",
+   "statl": "కొత్త చేయూత పింఛన్ల పంపిణీ గడువు",
+   "h": "రేపటి నుంచి కొత్త చేయూత పింఛన్ల పంపిణీ",
+   "p": "కొత్తగా మంజూరైన చేయూత పింఛన్లను గురువారం నుంచి ఈ నెల 18 వరకు పంపిణీ చేయాలని రాష్ట్ర ప్రభుత్వం అధికారులను ఆదేశించిందని నమస్తే తెలంగాణ కథనం. పెండింగ్‌లో ఉన్న పరిశీలన, ఆమోద ప్రక్రియను వేగవంతం చేయాలని సెర్ప్ సీఈవో దివ్య దేవరాజన్ కలెక్టర్లకు సర్క్యులర్ జారీ చేశారు. మండల కేంద్రాలు, మున్సిపాలిటీల్లో పంపిణీ ఏర్పాట్లు చేయాలని సూచించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-to-distribute-newly-sanctioned-cheyutha-pensions-from-thursday-2557282",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T02:47+05:30",
+   "pts": [
+    "గురువారం నుంచి 18 వరకు పంపిణీ",
+    "సెర్ప్ సీఈవో కలెక్టర్లకు సర్క్యులర్",
+    "మండల కేంద్రాలు, మున్సిపాలిటీల్లో పంపిణీ"
+   ],
+   "why": "కొత్తగా పింఛను మంజూరైన లబ్ధిదారులు ఈ తేదీల్లో పింఛను అందుకోవచ్చు.",
+   "en": {
+    "h": "New Cheyutha pensions to be distributed from tomorrow",
+    "p": "The state government has ordered officials to distribute newly sanctioned Cheyutha pensions from Thursday until the 18th of this month, Namasthe Telangana reported. SERP CEO Divya Devarajan issued a circular to collectors to speed up pending verification and approvals. Distribution is to be arranged at mandal headquarters and municipalities.",
+    "pts": [
+     "Distribution from Thursday to the 18th",
+     "SERP CEO issues circular to collectors",
+     "Distribution at mandal headquarters, municipalities"
+    ],
+    "why": "Newly sanctioned pensioners can receive their pensions on these dates.",
+    "cat": "Telangana · Welfare",
+    "statl": "Deadline for new Cheyutha pension distribution"
+   },
+   "hi": {
+    "h": "कल से नई चेयूता पेंशन का वितरण",
+    "p": "नमस्ते तेलंगाना के अनुसार, राज्य सरकार ने अधिकारियों को नई मंजूर चेयूता पेंशन गुरुवार से इस महीने की 18 तारीख तक बांटने का आदेश दिया है। सेर्प सीईओ दिव्या देवराजन ने कलेक्टरों को लंबित सत्यापन और मंजूरी तेज करने का सर्कुलर जारी किया। वितरण मंडल मुख्यालयों और नगरपालिकाओं में होगा।",
+    "pts": [
+     "गुरुवार से 18 तारीख तक वितरण",
+     "सेर्प सीईओ का कलेक्टरों को सर्कुलर",
+     "मंडल मुख्यालयों, नगरपालिकाओं में वितरण"
+    ],
+    "why": "नए मंजूर पेंशनभोगी इन तारीखों पर पेंशन ले सकेंगे।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "नई चेयूता पेंशन वितरण की समय-सीमा"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "court",
+   "stat": "1,364",
+   "statl": "ధరలు తగ్గిన క్యాన్సర్ మందులు",
+   "h": "క్యాన్సర్ మందుల ధరల తగ్గింపు: అధిక ధరలపై ఏపీలో తనిఖీలు",
+   "p": "కేంద్రం సోమవారం నుంచి 1,364 క్యాన్సర్ మందుల ధరలు తగ్గించింది; 671 బ్రాండ్ల ధరలు 50% కంటే ఎక్కువ తగ్గాయి. ఈ ప్రయోజనం రోగులకు పూర్తిగా అందేలా ఆసుపత్రులు, మెడికల్ షాపుల్లో తనిఖీలు పెంచాలని మంత్రి సత్యకుమార్ యాదవ్ ఆదేశించారు. ఏడు రోజుల్లో అన్ని క్యాన్సర్ ఆసుపత్రులను తనిఖీ చేయాలి. పాత ఎంఆర్‌పీ ఉన్న మందులను తగ్గిన ధరకే అమ్మాలి.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/cancer-drug-price-cut-ap-cracks-down-on-overcharging-1140909",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T02:06+05:30",
+   "pts": [
+    "671 బ్రాండ్ల ధరలు 50% పైగా తగ్గింపు",
+    "7 రోజుల్లో క్యాన్సర్ ఆసుపత్రుల తనిఖీ",
+    "ఫిర్యాదులకు డీసీఏ వాట్సాప్ 8632330909"
+   ],
+   "why": "క్యాన్సర్ రోగుల కుటుంబాలు మందులు తగ్గిన ధరకే పొందేందుకు ఇది ఉపయోగపడుతుంది.",
+   "en": {
+    "h": "Cancer drug price cut: AP steps up checks on overcharging",
+    "p": "The Centre cut prices of 1,364 cancer medicines from Monday; 671 brands fell by more than 50%. Health Minister Satya Kumar Yadav ordered more inspections of hospitals and medical stores so patients get the full benefit. All cancer hospitals must be inspected within seven days. Medicines with old MRPs must be sold at the lower price.",
+    "pts": [
+     "Prices of 671 brands cut by over 50%",
+     "Cancer hospitals to be inspected within 7 days",
+     "DCA WhatsApp for complaints: 8632330909"
+    ],
+    "why": "It helps cancer patients' families buy medicines at the reduced prices.",
+    "cat": "AP · Health",
+    "statl": "Cancer medicines with reduced prices"
+   },
+   "hi": {
+    "h": "कैंसर दवाओं के दाम घटे: आंध्र में अधिक कीमत वसूली पर जांच",
+    "p": "केंद्र ने सोमवार से 1,364 कैंसर दवाओं के दाम घटाए; 671 ब्रांड 50% से ज्यादा सस्ते हुए। स्वास्थ्य मंत्री सत्य कुमार यादव ने अस्पतालों और मेडिकल स्टोरों की जांच बढ़ाने का आदेश दिया ताकि मरीजों को पूरा लाभ मिले। सात दिनों में सभी कैंसर अस्पतालों की जांच होगी। पुराने एमआरपी वाली दवाएं घटी कीमत पर ही बिकेंगी।",
+    "pts": [
+     "671 ब्रांड के दाम 50% से ज्यादा घटे",
+     "7 दिनों में कैंसर अस्पतालों की जांच",
+     "शिकायत के लिए डीसीए व्हाट्सऐप 8632330909"
+    ],
+    "why": "इससे कैंसर मरीजों के परिवारों को घटी कीमत पर दवाएं मिलेंगी।",
+    "cat": "आंध्र प्रदेश · स्वास्थ्य",
+    "statl": "दाम घटी कैंसर दवाएं"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · భూములు",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "2,720",
+   "statl": "భూ రీసర్వే జరుగుతున్న గ్రామాలు",
+   "h": "2,720 గ్రామాల్లో భూముల రీసర్వే: మంత్రి పొంగులేటి సమీక్ష",
+   "p": "రాష్ట్రంలోని 10,954 రెవెన్యూ గ్రామాల్లో 2,720 గ్రామాల్లో సమగ్ర భూ రీసర్వే జరుగుతోందని రెవెన్యూ మంత్రి పొంగులేటి శ్రీనివాస్ రెడ్డి తెలిపారు. తొలి దశలో హైదరాబాద్ మినహా 32 జిల్లాల్లో ఒక్కో జిల్లాకు 70 గ్రామాలు ఎంపిక చేశారు. వెయ్యికి పైగా గ్రామాలు కీలక దశ దాటగా, 416 గ్రామాల్లో ప్రక్రియ పూర్తయింది. సచివాలయంలో అధికారులతో మంగళవారం సమీక్షించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/minister-ponguleti-reviews-progress-of-statewide-land-resurvey-2557328",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T04:19+05:30",
+   "pts": [
+    "10,954 రెవెన్యూ గ్రామాల్లో 2,720లో రీసర్వే",
+    "ఒక్కో జిల్లాలో 70 గ్రామాలు ఎంపిక",
+    "416 గ్రామాల్లో ప్రక్రియ పూర్తి"
+   ],
+   "why": "భూ రికార్డుల సమస్యలు ఎదుర్కొంటున్న గ్రామీణ భూయజమానులకు ఈ రీసర్వే ముఖ్యం.",
+   "en": {
+    "h": "Land resurvey under way in 2,720 villages: Minister Ponguleti reviews",
+    "p": "Revenue Minister Ponguleti Srinivas Reddy said a comprehensive land resurvey is under way in 2,720 of the state's 10,954 revenue villages. In phase one, 70 villages were chosen in each of 32 districts other than Hyderabad. Over 1,000 villages have crossed a key stage and 416 have completed the process. He reviewed progress with officials at the Secretariat on Tuesday.",
+    "pts": [
+     "Resurvey in 2,720 of 10,954 revenue villages",
+     "70 villages chosen in each district",
+     "Process complete in 416 villages"
+    ],
+    "why": "The resurvey matters for rural landowners facing land-record problems.",
+    "cat": "Telangana · Land",
+    "statl": "Villages under land resurvey"
+   },
+   "hi": {
+    "h": "2,720 गांवों में भूमि पुनर्सर्वेक्षण: मंत्री पोंगुलेटी ने की समीक्षा",
+    "p": "राजस्व मंत्री पोंगुलेटी श्रीनिवास रेड्डी ने बताया कि राज्य के 10,954 राजस्व गांवों में से 2,720 गांवों में व्यापक भूमि पुनर्सर्वेक्षण चल रहा है। पहले चरण में हैदराबाद को छोड़कर 32 जिलों में हर जिले से 70 गांव चुने गए। 1,000 से ज्यादा गांव अहम चरण पार कर चुके हैं और 416 में प्रक्रिया पूरी हुई। उन्होंने मंगलवार को सचिवालय में समीक्षा की।",
+    "pts": [
+     "10,954 में से 2,720 गांवों में पुनर्सर्वेक्षण",
+     "हर जिले से 70 गांव चुने गए",
+     "416 गांवों में प्रक्रिया पूरी"
+    ],
+    "why": "भूमि रिकॉर्ड की समस्याओं से जूझ रहे ग्रामीण भू-स्वामियों के लिए यह अहम है।",
+    "cat": "तेलंगाना · भूमि",
+    "statl": "पुनर्सर्वेक्षण वाले गांव"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "16–23",
+   "statl": "మళ్లీ సమీక్షల తేదీలు",
+   "h": "మిగులు ఉపాధ్యాయుల సర్దుబాటు ఇంకా అసంపూర్తి",
+   "p": "రాష్ట్రవ్యాప్తంగా మిగులు ఉపాధ్యాయుల సర్దుబాటు నిలిచిపోయిందని నమస్తే తెలంగాణ కథనం. వరంగల్ జిల్లాలో సర్దుబాటు పూర్తయినా, జోగులాంబ గద్వాల జిల్లాలో చాలా బడుల్లో టీచర్లు లేరు. మంచిర్యాల జిల్లా జన్నారం మండలంలో 400 మందికి పైగా విద్యార్థులున్న ఓ బడికి టీచర్లు కావాలి. డేటా నవీకరణ జరగకపోవడంతో 16 నుంచి 23 వరకు మళ్లీ సమీక్షలు జరగనున్నాయి.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/teacher-rationalisation-in-telangana-remains-incomplete-2557210",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T01:57+05:30",
+   "pts": [
+    "గద్వాల జిల్లాలో చాలా బడుల్లో టీచర్ల కొరత",
+    "జన్నారంలో 400 మంది విద్యార్థుల బడికి టీచర్లు అవసరం",
+    "బుధవారంలోగా పూర్తి చేయాలని విద్యాశాఖ ఆదేశం"
+   ],
+   "why": "టీచర్లు లేని ప్రభుత్వ బడుల్లో చదువుతున్న విద్యార్థులపై దీని ప్రభావం ఉంటుంది.",
+   "en": {
+    "h": "Adjustment of surplus teachers still incomplete in Telangana",
+    "p": "The statewide adjustment of surplus teachers has stalled, Namasthe Telangana reported. It was completed in Warangal district, but many schools in Jogulamba Gadwal district have no teachers. A school with over 400 students in Jannaram mandal of Mancherial district needs teachers. As data was not updated, fresh reviews are set for the 16th to 23rd.",
+    "pts": [
+     "Many Gadwal district schools lack teachers",
+     "Jannaram school with 400 students needs teachers",
+     "Education department orders completion by Wednesday"
+    ],
+    "why": "It affects students in government schools that lack teachers.",
+    "cat": "Telangana · Education",
+    "statl": "Dates of fresh reviews"
+   },
+   "hi": {
+    "h": "तेलंगाना में अतिरिक्त शिक्षकों का समायोजन अब भी अधूरा",
+    "p": "नमस्ते तेलंगाना के अनुसार, राज्यभर में अतिरिक्त शिक्षकों का समायोजन रुका हुआ है। वरंगल जिले में यह पूरा हुआ, लेकिन जोगुलांबा गदवाल जिले के कई स्कूलों में शिक्षक नहीं हैं। मंचेरियल जिले के जन्नारम मंडल में 400 से ज्यादा छात्रों वाले एक स्कूल को शिक्षक चाहिए। डेटा अपडेट न होने से 16 से 23 तारीख तक फिर समीक्षा होगी।",
+    "pts": [
+     "गदवाल जिले के कई स्कूलों में शिक्षकों की कमी",
+     "जन्नारम में 400 छात्रों वाले स्कूल को शिक्षक चाहिए",
+     "शिक्षा विभाग का बुधवार तक पूरा करने का आदेश"
+    ],
+    "why": "इसका असर बिना शिक्षक वाले सरकारी स्कूलों के छात्रों पर पड़ता है।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "फिर से समीक्षा की तारीखें"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ప్రపంచం · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "2.8%",
+   "statl": "స్పాట్ బంగారం ధర పతనం",
+   "h": "అమెరికా ద్రవ్యోల్బణం ఎక్కువ: అంతర్జాతీయంగా బంగారం ధర దాదాపు 3% పతనం",
+   "p": "అమెరికా అక్టోబర్ వినియోగదారుల ధరల సూచీ అంచనాల కంటే ఎక్కువగా 0.4% పెరగడంతో నవంబర్ 10న అంతర్జాతీయ బంగారం ధర దాదాపు 3% పడిపోయిందని ద నేషన్ కథనం. స్పాట్ బంగారం 2.8% తగ్గి ఔన్సుకు 4,021.36 డాలర్లకు చేరింది. వెండి 3.9% తగ్గింది. డిసెంబర్‌లో ఫెడ్ వడ్డీ రేటు పెంపు అంచనాలు బలపడ్డాయి. బుధవారం బంగారం స్వల్పంగా 0.1% పెరిగింది.",
+   "src": "The Nation (Thailand)",
+   "url": "https://www.nationthailand.com/news/general/40073349",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pub": "2026-11-11T05:58+05:30",
+   "pts": [
+    "స్పాట్ బంగారం ఔన్సుకు 4,021.36 డాలర్లు",
+    "వెండి 3.9% తగ్గి 51.32 డాలర్లు",
+    "డిసెంబర్‌లో ఫెడ్ రేటు పెంపు అంచనా"
+   ],
+   "why": "అంతర్జాతీయ ధరల మార్పు భారత్‌లో బంగారం కొనుగోలుదారులు, పెట్టుబడిదారులపై ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Higher US inflation: global gold prices fall nearly 3%",
+    "p": "Global gold prices fell nearly 3% on November 10 after US October consumer prices rose 0.4%, more than expected, The Nation reported. Spot gold fell 2.8% to $4,021.36 an ounce. Silver fell 3.9%. Expectations of a US Fed rate hike in December strengthened. Gold edged up 0.1% on Wednesday.",
+    "pts": [
+     "Spot gold at $4,021.36 an ounce",
+     "Silver down 3.9% to $51.32",
+     "Fed rate hike expected in December"
+    ],
+    "why": "Global price swings affect gold buyers and investors in India.",
+    "cat": "World · Business",
+    "statl": "Fall in spot gold price"
+   },
+   "hi": {
+    "h": "अमेरिकी महंगाई ज्यादा: वैश्विक बाजार में सोना करीब 3% गिरा",
+    "p": "द नेशन के अनुसार, अमेरिका में अक्टूबर की उपभोक्ता कीमतें अनुमान से ज्यादा 0.4% बढ़ने पर 10 नवंबर को वैश्विक सोने की कीमत करीब 3% गिरी। स्पॉट सोना 2.8% गिरकर 4,021.36 डॉलर प्रति औंस रहा। चांदी 3.9% गिरी। दिसंबर में अमेरिकी फेड की दर बढ़ोतरी की उम्मीद मजबूत हुई। बुधवार को सोना 0.1% चढ़ा।",
+    "pts": [
+     "स्पॉट सोना 4,021.36 डॉलर प्रति औंस",
+     "चांदी 3.9% गिरकर 51.32 डॉलर",
+     "दिसंबर में फेड दर बढ़ोतरी की उम्मीद"
+    ],
+    "why": "वैश्विक कीमतों का असर भारत में सोना खरीदारों और निवेशकों पर पड़ता है।",
+    "cat": "विश्व · व्यापार",
+    "statl": "स्पॉट सोने में गिरावट"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "భారత్ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "ఫిబ్ర. 7",
+   "statl": "ఐఎస్‌సీ 12వ తరగతి పరీక్షల ప్రారంభం",
+   "h": "2027 ఫిబ్రవరిలో ఐసీఎస్‌ఈ, ఐఎస్‌సీ బోర్డు పరీక్షలు",
+   "p": "2027 పదో తరగతి, 12వ తరగతి పరీక్షల షెడ్యూల్‌ను సీఐఎస్‌సీఈ విడుదల చేసిందని నమస్తే తెలంగాణ కథనం. పదో తరగతి పరీక్షలు 2027 ఫిబ్రవరి 15 నుంచి, 12వ తరగతి పరీక్షలు ఫిబ్రవరి 7 నుంచి ప్రారంభమవుతాయి. ఈ బోర్డు పరిధిలోని విద్యార్థులు ఈ తేదీలకు అనుగుణంగా సన్నద్ధం కావాల్సి ఉంటుంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/icse-releases-2027-class-10-and-12-examination-schedule-2557269",
+   "sec": [
+    "india",
+    "education"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-11T02:36+05:30",
+   "pts": [
+    "పదో తరగతి పరీక్షలు ఫిబ్రవరి 15 నుంచి",
+    "12వ తరగతి పరీక్షలు ఫిబ్రవరి 7 నుంచి"
+   ],
+   "why": "ఐసీఎస్‌ఈ, ఐఎస్‌సీ బోర్డు విద్యార్థులు, తల్లిదండ్రులకు ఈ షెడ్యూల్ ముఖ్యం.",
+   "en": {
+    "h": "ICSE, ISC board exams to be held in February 2027",
+    "p": "CISCE has released the 2027 schedule for Class 10 and Class 12 exams, Namasthe Telangana reported. Class 10 exams begin on February 15, 2027, and Class 12 exams on February 7. Students of the board will need to prepare according to these dates.",
+    "pts": [
+     "Class 10 exams from February 15",
+     "Class 12 exams from February 7"
+    ],
+    "why": "The schedule matters for ICSE and ISC students and their parents.",
+    "cat": "India · Education",
+    "statl": "ISC Class 12 exams begin"
+   },
+   "hi": {
+    "h": "फरवरी 2027 में आईसीएसई, आईएससी बोर्ड परीक्षाएं",
+    "p": "नमस्ते तेलंगाना के अनुसार, सीआईएससीई ने 2027 की कक्षा 10 और कक्षा 12 परीक्षाओं का कार्यक्रम जारी किया है। कक्षा 10 की परीक्षाएं 15 फरवरी 2027 से और कक्षा 12 की 7 फरवरी से शुरू होंगी। बोर्ड के छात्रों को इन तारीखों के अनुसार तैयारी करनी होगी।",
+    "pts": [
+     "कक्षा 10 की परीक्षाएं 15 फरवरी से",
+     "कक्षा 12 की परीक्षाएं 7 फरवरी से"
+    ],
+    "why": "यह कार्यक्रम आईसीएसई, आईएससी छात्रों और अभिभावकों के लिए अहम है।",
+    "cat": "भारत · शिक्षा",
+    "statl": "आईएससी कक्षा 12 परीक्षा शुरू"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "నిర్మల్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "farm",
+   "stat": "సా. 4",
+   "statl": "రైతు గర్జన సభకు కేటీఆర్ రాక",
+   "h": "నేడు నిర్మల్‌లో బీఆర్‌ఎస్ 'రైతు గర్జన': కేటీఆర్ నాయకత్వం",
+   "p": "బీఆర్‌ఎస్ కార్యనిర్వాహక అధ్యక్షుడు కేటీఆర్ బుధవారం నిర్మల్ ఎన్టీఆర్ మినీ స్టేడియంలో 'రైతు గర్జన' సభకు నాయకత్వం వహిస్తారని నమస్తే తెలంగాణ కథనం. ఆయన సాయంత్రం 4 గంటలకు చేరుకుంటారు. నిర్మల్, ఖానాపూర్, ముధోల్ నియోజకవర్గాల రైతులు రానున్నారు. కాంగ్రెస్ ప్రభుత్వ విధానాలు రైతు వ్యతిరేకమని బీఆర్‌ఎస్ ఆరోపిస్తోంది; రైతు భరోసా, రుణమాఫీ, కొనుగోళ్లపై డిమాండ్లు చేయనుంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/ktr-to-lead-brs-farmers-protest-against-congress-government-in-nirmal-2557249",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "loc": "నిర్మల్",
+   "pub": "2026-11-11T02:12+05:30",
+   "pts": [
+    "నిర్మల్ ఎన్టీఆర్ మినీ స్టేడియంలో సభ",
+    "మూడు నియోజకవర్గాల రైతులు హాజరు",
+    "ఖమ్మం, నల్గొండ, వరంగల్‌లోనూ సభలకు ప్రణాళిక"
+   ],
+   "why": "రైతు సమస్యలపై ప్రతిపక్ష కార్యక్రమం నిర్మల్ జిల్లా రైతులకు సంబంధించినది.",
+   "en": {
+    "h": "BRS 'Raithu Garjana' in Nirmal today, led by KTR",
+    "p": "BRS working president KTR will lead a 'Raithu Garjana' rally at the NTR Mini Stadium in Nirmal on Wednesday, Namasthe Telangana reported. He will arrive at about 4 pm. Farmers from Nirmal, Khanapur and Mudhole constituencies are expected. The BRS alleges the Congress government's policies are anti-farmer and will raise demands on Rythu Bharosa, loan waiver and procurement.",
+    "pts": [
+     "Rally at NTR Mini Stadium, Nirmal",
+     "Farmers from three constituencies to attend",
+     "Rallies also planned in Khammam, Nalgonda, Warangal"
+    ],
+    "why": "The opposition event on farm issues concerns farmers in Nirmal district.",
+    "cat": "Nirmal · Politics",
+    "statl": "KTR arrives at rally"
+   },
+   "hi": {
+    "h": "आज निर्मल में बीआरएस की 'रैतु गर्जना', केटीआर करेंगे नेतृत्व",
+    "p": "नमस्ते तेलंगाना के अनुसार, बीआरएस कार्यकारी अध्यक्ष केटीआर बुधवार को निर्मल के एनटीआर मिनी स्टेडियम में 'रैतु गर्जना' रैली का नेतृत्व करेंगे। वे करीब शाम 4 बजे पहुंचेंगे। निर्मल, खानापुर और मुधोल निर्वाचन क्षेत्रों के किसान आएंगे। बीआरएस का आरोप है कि कांग्रेस सरकार की नीतियां किसान विरोधी हैं; रैतु भरोसा, ऋण माफी, खरीद पर मांगें उठाई जाएंगी।",
+    "pts": [
+     "निर्मल एनटीआर मिनी स्टेडियम में रैली",
+     "तीन निर्वाचन क्षेत्रों के किसान आएंगे",
+     "खम्मम, नलगोंडा, वरंगल में भी रैलियों की योजना"
+    ],
+    "why": "किसान मुद्दों पर विपक्ष का यह कार्यक्रम निर्मल जिले के किसानों से जुड़ा है।",
+    "cat": "निर्मल · राजनीति",
+    "statl": "रैली में केटीआर का आगमन"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "water",
+   "stat": "పాలమూరు",
+   "statl": "ప్రాజెక్టులపై బీఆర్‌ఎస్ విమర్శలు",
+   "h": "సీఎం రేవంత్‌ తెలంగాణకు ద్రోహం చేశారు: మాజీ మంత్రి శ్రీనివాస్ గౌడ్ ఆరోపణ",
+   "p": "సీఎం రేవంత్ రెడ్డి కన్నెపల్లి మోటార్లు ఆన్ చేయలేదని, పాలమూరు-రంగారెడ్డి ప్రాజెక్టు పూర్తి చేయలేదని బీఆర్‌ఎస్ నేత, మాజీ మంత్రి వి.శ్రీనివాస్ గౌడ్ తెలంగాణ భవన్‌లో ఆరోపించారు. పాలమూరుకు ఏటా ₹20,000 కోట్లు ఇస్తామన్న హామీ నెరవేరలేదని, పాలమూరు నుంచి వలసలు మళ్లీ మొదలయ్యాయని అన్నారు. ఇవి ఆయన ఆరోపణలు అని నమస్తే తెలంగాణ కథనం; ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/v-srinivas-goud-accuses-cm-revanth-reddy-of-betraying-telangana-2557161",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T03:40+05:30",
+   "pts": [
+    "కన్నెపల్లి మోటార్లు ఆన్ చేయలేదని ఆరోపణ",
+    "పాలమూరుకు ₹20,000 కోట్ల హామీ నెరవేరలేదని విమర్శ",
+    "పీఆర్సీ మూడేళ్లుగా ఇవ్వలేదని ఆరోపణ"
+   ],
+   "why": "సాగునీటి ప్రాజెక్టులపై రాజకీయ వివాదం పాలమూరు ప్రాంత ప్రజలకు సంబంధించినది.",
+   "en": {
+    "h": "CM Revanth betrayed Telangana, alleges former minister Srinivas Goud",
+    "p": "BRS leader and former minister V Srinivas Goud alleged at Telangana Bhavan that CM Revanth Reddy has not switched on the Kannepalli motors or completed the Palamuru-Rangareddy project. He said the promise of Rs 20,000 crore a year for Palamuru was not kept and migration from Palamuru has resumed. Namasthe Telangana reported these as his allegations; the report carries no government response.",
+    "pts": [
+     "Alleges Kannepalli motors not switched on",
+     "Says Rs 20,000 crore promise for Palamuru unmet",
+     "Alleges PRC not given for three years"
+    ],
+    "why": "The political row over irrigation projects concerns people of the Palamuru region.",
+    "cat": "Telangana · Politics",
+    "statl": "BRS criticism over projects"
+   },
+   "hi": {
+    "h": "सीएम रेवंत ने तेलंगाना से धोखा किया: पूर्व मंत्री श्रीनिवास गौड़ का आरोप",
+    "p": "बीआरएस नेता और पूर्व मंत्री वी. श्रीनिवास गौड़ ने तेलंगाना भवन में आरोप लगाया कि सीएम रेवंत रेड्डी ने कन्नेपल्ली मोटरें चालू नहीं कीं और पालमूरु-रंगारेड्डी परियोजना पूरी नहीं की। उन्होंने कहा कि पालमूरु को हर साल ₹20,000 करोड़ देने का वादा पूरा नहीं हुआ और पलायन फिर शुरू हो गया। नमस्ते तेलंगाना ने इन्हें उनके आरोप बताया; सरकार का जवाब रिपोर्ट में नहीं है।",
+    "pts": [
+     "कन्नेपल्ली मोटरें चालू न करने का आरोप",
+     "पालमूरु को ₹20,000 करोड़ का वादा अधूरा",
+     "तीन साल से पीआरसी न देने का आरोप"
+    ],
+    "why": "सिंचाई परियोजनाओं पर यह राजनीतिक विवाद पालमूरु क्षेत्र के लोगों से जुड़ा है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "परियोजनाओं पर बीआरएस की आलोचना"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · కాంగ్రెస్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "20",
+   "statl": "నిలిపివేసిన మీడియా నియామకాలు",
+   "h": "ఎంపీ చామల చేసిన 20 మీడియా నియామకాలను నిలిపివేసిన టీపీసీసీ",
+   "p": "టీపీసీసీ మీడియా విభాగం చైర్మన్, భువనగిరి ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి నియమించిన 20 మంది మీడియా ప్యానలిస్టులు, కోఆర్డినేటర్లు, అధికార ప్రతినిధుల నియామకాలను కాంగ్రెస్ నిలిపివేసిందని తెలంగాణ టుడే కథనం. తదుపరి ఆదేశాల వరకు నిలిపివేసినట్లు టీపీసీసీ అధికారిక ఎక్స్ ఖాతా పేర్కొంది. ఎంపీ ఏకపక్ష నిర్ణయాలపై రాష్ట్ర నాయకత్వం అభ్యంతరం చెప్పిందని పార్టీ వర్గాలు తెలిపాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-congress-puts-20-media-appointments-made-by-mp-chamala-on-hold",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-11T01:00+05:30",
+   "pts": [
+    "సోమవారం జారీ అయిన నియామక ఉత్తర్వులు",
+    "తదుపరి ఆదేశాల వరకు నిలిపివేత",
+    "అధికారిక కారణం వెల్లడించలేదు"
+   ],
+   "why": "అధికార పార్టీలో అంతర్గత నిర్ణయాలు రాష్ట్ర రాజకీయాలను అనుసరించేవారికి ముఖ్యం.",
+   "en": {
+    "h": "TPCC puts on hold 20 media appointments made by MP Chamala",
+    "p": "The Congress has put on hold the appointment of 20 media panelists, coordinators and spokespersons made by Bhongir MP Chamala Kiran Kumar Reddy, chairman of the TPCC media wing, Telangana Today reported. The official TPCC X handle said the orders were on hold until further notice. Party sources said the state leadership objected to the MP's unilateral decisions.",
+    "pts": [
+     "Appointment orders were issued on Monday",
+     "Kept on hold until further notice",
+     "No official reason given"
+    ],
+    "why": "Internal decisions of the ruling party matter to followers of state politics.",
+    "cat": "Telangana · Congress",
+    "statl": "Media appointments put on hold"
+   },
+   "hi": {
+    "h": "टीपीसीसी ने सांसद चमाला की 20 मीडिया नियुक्तियां रोकीं",
+    "p": "तेलंगाना टुडे के अनुसार, कांग्रेस ने टीपीसीसी मीडिया विंग के अध्यक्ष और भुवनगिरी सांसद चमाला किरण कुमार रेड्डी द्वारा नियुक्त 20 मीडिया पैनलिस्ट, समन्वयक और प्रवक्ताओं की नियुक्तियां रोक दीं। टीपीसीसी के आधिकारिक एक्स हैंडल ने कहा कि आदेश अगले निर्देश तक रोके गए हैं। पार्टी सूत्रों के अनुसार राज्य नेतृत्व ने सांसद के एकतरफा फैसलों पर आपत्ति की।",
+    "pts": [
+     "नियुक्ति आदेश सोमवार को जारी हुए थे",
+     "अगले निर्देश तक रोक",
+     "कोई आधिकारिक कारण नहीं बताया"
+    ],
+    "why": "सत्तारूढ़ दल के आंतरिक फैसले राज्य की राजनीति पर नजर रखने वालों के लिए अहम हैं।",
+    "cat": "तेलंगाना · कांग्रेस",
+    "statl": "रोकी गई मीडिया नियुक्तियां"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఖమ్మం · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "2",
+   "statl": "అరెస్టైన నిందితులు",
+   "h": "ఖమ్మం జిల్లాలో పదో తరగతి విద్యార్థి మృతి: విషం ఇచ్చారని పోలీసుల ఆరోపణ, ఇద్దరి అరెస్ట్",
+   "p": "ఖమ్మం జిల్లా కల్లూరు మండలంలో దసరా సెలవులకు ఇంటికి వచ్చిన 15 ఏళ్ల గురుకుల విద్యార్థి విషప్రయోగంతో మృతి చెందాడని పోలీసులు తెలిపారు. ఓ జంటను కలిసి చూసి కుటుంబానికి చెబుతానన్నందుకు, అక్టోబర్ 24న పురుగుమందు కలిపిన శీతల పానీయం ఇచ్చారని పోలీసుల ఆరోపణ. వరంగల్‌లో చికిత్స పొందుతూ ఆదివారం మృతి చెందాడు. ఇద్దరు నిందితులను అరెస్ట్ చేసి రిమాండ్‌కు పంపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/15-year-old-boy-allegedly-murdered-after-witnessing-couple-together-in-khammam",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "khammam",
+   "loc": "కల్లూరు",
+   "pub": "2026-11-11T00:48+05:30",
+   "pts": [
+    "అక్టోబర్ 24న విషం కలిపిన పానీయం ఇచ్చారని ఆరోపణ",
+    "వరంగల్‌లో చికిత్స పొందుతూ ఆదివారం మృతి",
+    "కుటుంబ ఫిర్యాదుతో కేసు, ఇద్దరికి రిమాండ్"
+   ],
+   "why": "బాలలపై నేరాల విషయంలో పోలీసుల చర్యను ఈ కేసు చూపుతుంది.",
+   "en": {
+    "h": "Class 10 student dies in Khammam district; police allege poisoning, two arrested",
+    "p": "Police said a 15-year-old gurukul student, home in Kallur mandal of Khammam district for the Dasara holidays, died of poisoning. Police allege that after he saw a couple together and threatened to tell his family, he was given a pesticide-laced soft drink on October 24. He died on Sunday while under treatment in Warangal. Two accused were arrested and remanded.",
+    "pts": [
+     "Allegedly given poisoned drink on October 24",
+     "Died under treatment in Warangal on Sunday",
+     "Case on family complaint; two remanded"
+    ],
+    "why": "The case shows police action in crimes against children.",
+    "cat": "Khammam · Crime",
+    "statl": "Accused arrested"
+   },
+   "hi": {
+    "h": "खम्मम जिले में कक्षा 10 के छात्र की मौत: पुलिस का जहर देने का आरोप, दो गिरफ्तार",
+    "p": "पुलिस के अनुसार, दशहरा छुट्टियों में खम्मम जिले के कल्लूर मंडल में घर आए 15 वर्षीय गुरुकुल छात्र की जहर से मौत हुई। पुलिस का आरोप है कि एक जोड़े को साथ देखकर परिवार को बताने की बात कहने पर 24 अक्टूबर को उसे कीटनाशक मिला कोल्ड ड्रिंक दिया गया। वरंगल में इलाज के दौरान रविवार को उसकी मौत हुई। दो आरोपी गिरफ्तार कर रिमांड पर भेजे गए।",
+    "pts": [
+     "24 अक्टूबर को जहरीला पेय देने का आरोप",
+     "वरंगल में इलाज के दौरान रविवार को मौत",
+     "परिवार की शिकायत पर केस, दो रिमांड पर"
+    ],
+    "why": "यह मामला बच्चों के खिलाफ अपराध में पुलिस कार्रवाई दिखाता है।",
+    "cat": "खम्मम · अपराध",
+    "statl": "गिरफ्तार आरोपी"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · ఎన్టీఆర్ జిల్లా",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹10,000",
+   "statl": "లంచం తీసుకుంటుండగా పట్టుబడ్డారని ఆరోపణ",
+   "h": "జి.కొండూరులో ఏసీబీ వలలో డిప్యూటీ తహసీల్దార్",
+   "p": "ఎన్టీఆర్ జిల్లా జి.కొండూరు తహసీల్దార్ కార్యాలయంలో ఓ డిప్యూటీ తహసీల్దార్ ₹10,000 లంచం తీసుకుంటుండగా మంగళవారం ఏసీబీ అధికారులు పట్టుకున్నారని హన్స్ ఇండియా కథనం. వెల్లటూరు గ్రామంలోని వ్యవసాయ భూమికి అడంగల్ సవరణ, పట్టాదారు పాస్‌బుక్ కోసం డబ్బు డిమాండ్ చేశారని ఏసీబీ ఆరోపణ. అవినీతి నిరోధక చట్టం సెక్షన్ 7 కింద కేసు నమోదైంది.",
+   "src": "The Hans India",
+   "url": "https://thehansindia.com/andhra-pradesh/dy-tahsildar-in-acb-net-1140902",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "జి.కొండూరు",
+   "pub": "2026-11-11T01:54+05:30",
+   "pts": [
+    "అడంగల్ సవరణ, పాస్‌బుక్ కోసం లంచం డిమాండ్ ఆరోపణ",
+    "మధ్యాహ్నం 2.05కు ఏసీబీ వల",
+    "అవినీతి నిరోధక చట్టం కింద కేసు"
+   ],
+   "why": "భూ రికార్డుల పనుల్లో లంచాలపై ఫిర్యాదు చేయవచ్చని రైతులకు ఇది తెలియజేస్తుంది.",
+   "en": {
+    "h": "Deputy tahsildar caught in ACB trap at G Konduru",
+    "p": "ACB officials caught a deputy tahsildar allegedly accepting a Rs 10,000 bribe at the G Konduru tahsildar's office in NTR district on Tuesday, The Hans India reported. The ACB alleges the money was demanded for correcting Adangal records and issuing a pattadar passbook for farm land at Vellaturu village. A case was registered under Section 7 of the Prevention of Corruption Act.",
+    "pts": [
+     "Bribe allegedly sought for Adangal correction, passbook",
+     "ACB trap laid around 2.05 pm",
+     "Case under Prevention of Corruption Act"
+    ],
+    "why": "It shows farmers they can complain about bribes for land-record work.",
+    "cat": "AP · NTR District",
+    "statl": "Bribe allegedly taken"
+   },
+   "hi": {
+    "h": "जी. कोंडुरु में एसीबी के जाल में डिप्टी तहसीलदार",
+    "p": "द हंस इंडिया के अनुसार, एसीबी अधिकारियों ने मंगलवार को एनटीआर जिले के जी. कोंडुरु तहसीलदार कार्यालय में एक डिप्टी तहसीलदार को कथित तौर पर ₹10,000 रिश्वत लेते पकड़ा। एसीबी का आरोप है कि वेल्लटूरु गांव की कृषि भूमि के अडंगल सुधार और पट्टादार पासबुक के लिए पैसे मांगे गए। भ्रष्टाचार निवारण अधिनियम की धारा 7 के तहत केस दर्ज हुआ।",
+    "pts": [
+     "अडंगल सुधार, पासबुक के लिए रिश्वत मांगने का आरोप",
+     "दोपहर 2.05 बजे एसीबी का जाल",
+     "भ्रष्टाचार निवारण अधिनियम के तहत केस"
+    ],
+    "why": "इससे किसानों को पता चलता है कि भूमि रिकॉर्ड के काम में रिश्वत की शिकायत कर सकते हैं।",
+    "cat": "आंध्र प्रदेश · एनटीआर जिला",
+    "statl": "कथित रिश्वत"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "వనపర్తి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹50,000",
+   "statl": "వసూలు చేశారని హోటల్ యజమాని ఆరోపణ",
+   "h": "మానవ హక్కుల సంఘం పేరుతో వసూళ్లు: కొత్తకోటలో ఇద్దరి అరెస్ట్",
+   "p": "మానవ హక్కుల సంఘం పేరుతో హోటళ్లు, బేకరీల యజమానుల నుంచి డబ్బు వసూలు చేశారనే ఆరోపణపై వనపర్తి జిల్లా కొత్తకోటలో ఇద్దరిని అరెస్ట్ చేసి రిమాండ్‌కు పంపినట్లు ఎస్సై విక్రమ్ తెలిపారు. హోటళ్లలో లోపాలు గుర్తించి యజమానులను కార్యాలయానికి పిలిపించి డబ్బులు తీసుకున్నారని ఆరోపణ. తన వద్ద ₹50,000 తీసుకున్నారని ఓ టిఫిన్ సెంటర్ యజమాని ఫిర్యాదు చేశారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/two-arrested-for-extorting-hotel-owners-in-the-name-of-human-rights-association-2557214",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "wanaparthy",
+   "loc": "కొత్తకోట",
+   "pub": "2026-11-11T01:57+05:30",
+   "pts": [
+    "హోటళ్లు, బేకరీల యజమానుల నుంచి వసూళ్ల ఆరోపణ",
+    "టిఫిన్ సెంటర్ యజమాని ఫిర్యాదుతో కేసు",
+    "ఇద్దరు నిందితులకు రిమాండ్"
+   ],
+   "why": "సంఘాల పేరుతో బెదిరింపులకు గురయ్యే చిన్న వ్యాపారులు పోలీసులకు ఫిర్యాదు చేయవచ్చు.",
+   "en": {
+    "h": "Extortion in the name of a human rights body: two arrested in Kothakota",
+    "p": "SI Vikram said two men were arrested and remanded in Kothakota, Wanaparthy district, on charges of extorting money from hotel and bakery owners in the name of a human rights association. They allegedly noted lapses at hotels, called owners to an office and took money. A tiffin centre owner complained that Rs 50,000 was taken from him.",
+    "pts": [
+     "Alleged extortion from hotel, bakery owners",
+     "Case on tiffin centre owner's complaint",
+     "Two accused remanded"
+    ],
+    "why": "Small traders threatened in the name of associations can complain to police.",
+    "cat": "Wanaparthy · Crime",
+    "statl": "Amount allegedly extorted from hotel owner"
+   },
+   "hi": {
+    "h": "मानवाधिकार संगठन के नाम पर वसूली: कोत्तकोटा में दो गिरफ्तार",
+    "p": "एसआई विक्रम ने बताया कि वनपर्ती जिले के कोत्तकोटा में मानवाधिकार संगठन के नाम पर होटल और बेकरी मालिकों से पैसे वसूलने के आरोप में दो लोगों को गिरफ्तार कर रिमांड पर भेजा गया। आरोप है कि वे होटलों में खामियां ढूंढकर मालिकों को दफ्तर बुलाकर पैसे लेते थे। एक टिफिन सेंटर मालिक ने शिकायत की कि उससे ₹50,000 लिए गए।",
+    "pts": [
+     "होटल, बेकरी मालिकों से वसूली का आरोप",
+     "टिफिन सेंटर मालिक की शिकायत पर केस",
+     "दोनों आरोपी रिमांड पर"
+    ],
+    "why": "संगठनों के नाम पर धमकाए जाने वाले छोटे व्यापारी पुलिस से शिकायत कर सकते हैं।",
+    "cat": "वनपर्ती · अपराध",
+    "statl": "होटल मालिक से कथित वसूली"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "సూర్యాపేట · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹1,000",
+   "statl": "క్వింటాకు ధర తగ్గిందని ఆరోపణ",
+   "h": "ధాన్యం కొనుగోళ్లలో రైతుల దోపిడీ: మాజీ ఎమ్మెల్యే బొల్లం మల్లయ్య ఆరోపణ",
+   "p": "సూర్యాపేట జిల్లా చిలుకూరు మండలంలో కొనుగోలు కేంద్రాలను పరిశీలించిన కోదాడ మాజీ ఎమ్మెల్యే బొల్లం మల్లయ్య యాదవ్, దళారులు, వ్యాపారులు రైతులను దోపిడీ చేస్తున్నారని ఆరోపించారు. తూకంలో బస్తాకు 2.5 కిలోలు తరుగు తీస్తున్నారని, క్వింటా ధర సుమారు ₹4,200 నుంచి ₹3,200కు పడిపోయిందని అన్నారు. యూరియా కొరత ఉందని కూడా ఆరోపించారని నమస్తే తెలంగాణ కథనం.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/farmers-face-exploitation-in-paddy-procurement-says-former-mla-2557235",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "suryapet",
+   "loc": "చిలుకూరు",
+   "pub": "2026-11-11T02:05+05:30",
+   "pts": [
+    "బస్తాకు 2.5 కిలోల తరుగు తీస్తున్నారని ఆరోపణ",
+    "క్వింటా ధర ₹1,000 తగ్గిందని వ్యాఖ్య",
+    "యూరియా కొరత ఉందని ఆరోపణ"
+   ],
+   "why": "ధాన్యం అమ్ముతున్న సూర్యాపేట జిల్లా రైతుల ఆదాయానికి సంబంధించిన అంశం.",
+   "en": {
+    "h": "Farmers exploited in paddy procurement, alleges ex-MLA Bollam Mallaiah",
+    "p": "Former Kodad MLA Bollam Mallaiah Yadav, who inspected procurement centres in Chilukur mandal of Suryapet district, alleged that middlemen and traders are exploiting farmers. He said 2.5 kg per bag is deducted during weighing and the price per quintal fell from about Rs 4,200 to Rs 3,200. He also alleged a urea shortage, Namasthe Telangana reported.",
+    "pts": [
+     "Alleges 2.5 kg per bag deducted in weighing",
+     "Says price per quintal fell by Rs 1,000",
+     "Alleges urea shortage"
+    ],
+    "why": "The issue concerns the income of Suryapet district farmers selling paddy.",
+    "cat": "Suryapet · Agriculture",
+    "statl": "Alleged fall in price per quintal"
+   },
+   "hi": {
+    "h": "धान खरीद में किसानों का शोषण: पूर्व विधायक बोल्लम मल्लैया का आरोप",
+    "p": "सूर्यापेट जिले के चिलुकूर मंडल में खरीद केंद्रों का निरीक्षण करने वाले कोदाड के पूर्व विधायक बोल्लम मल्लैया यादव ने आरोप लगाया कि बिचौलिए और व्यापारी किसानों का शोषण कर रहे हैं। उन्होंने कहा कि तौल में प्रति बोरी 2.5 किलो काटा जा रहा है और प्रति क्विंटल कीमत करीब ₹4,200 से घटकर ₹3,200 हो गई। नमस्ते तेलंगाना के अनुसार उन्होंने यूरिया की कमी का भी आरोप लगाया।",
+    "pts": [
+     "तौल में प्रति बोरी 2.5 किलो कटौती का आरोप",
+     "प्रति क्विंटल ₹1,000 कीमत घटने की बात",
+     "यूरिया की कमी का आरोप"
+    ],
+    "why": "यह धान बेच रहे सूर्यापेट जिले के किसानों की आय से जुड़ा मुद्दा है।",
+    "cat": "सूर्यापेट · कृषि",
+    "statl": "प्रति क्विंटल कथित गिरावट"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "నల్గొండ · అదృశ్యం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "కనగల్",
+   "statl": "యువతి అదృశ్యమైన మండలం",
+   "h": "నల్గొండ జిల్లాలో యువతి అదృశ్యం: కుటుంబానికి కేటీఆర్ ఫోన్‌లో పరామర్శ",
+   "p": "నల్గొండ జిల్లా కనగల్ మండలానికి చెందిన ఓ యువతి అదృశ్యమైన ఘటనపై బీఆర్‌ఎస్ కార్యనిర్వాహక అధ్యక్షుడు కేటీఆర్ మంగళవారం ఆమె తండ్రికి ఫోన్ చేసి అండగా ఉంటామని హామీ ఇచ్చారని నమస్తే తెలంగాణ కథనం. పోలీసులకు ఫిర్యాదు చేసినా ఆచూకీ దొరకలేదని కుటుంబసభ్యులు తెలిపారు. ఈ విషయమై స్థానిక అధికారులతో మాట్లాడతానని కేటీఆర్ చెప్పారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/ktr-assures-support-to-family-of-missing-girl-in-nalgonda-2557146",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "loc": "కనగల్",
+   "pub": "2026-11-11T01:11+05:30",
+   "pts": [
+    "పోలీసులకు ఫిర్యాదు చేసినా ఆచూకీ లేదని కుటుంబం",
+    "స్థానిక అధికారులతో మాట్లాడతానన్న కేటీఆర్",
+    "మాజీ ఎమ్మెల్యే కంచర్ల భూపాల్ రెడ్డి గ్రామ సందర్శన"
+   ],
+   "why": "అదృశ్య కేసుల్లో వేగవంతమైన దర్యాప్తు అవసరాన్ని ఈ ఘటన చూపుతోంది.",
+   "en": {
+    "h": "Young woman missing in Nalgonda district; KTR calls family",
+    "p": "BRS working president KTR phoned the father of a young woman from Kanagal mandal in Nalgonda district who has gone missing, and assured support on Tuesday, Namasthe Telangana reported. Family members said she has not been traced despite a complaint to police. KTR said he would speak to local officials about the matter.",
+    "pts": [
+     "Family says no trace despite police complaint",
+     "KTR says he will speak to local officials",
+     "Ex-MLA Kancherla Bhupal Reddy visited the village"
+    ],
+    "why": "The case shows the need for swift investigation of missing-person complaints.",
+    "cat": "Nalgonda · Missing",
+    "statl": "Mandal where the woman went missing"
+   },
+   "hi": {
+    "h": "नलगोंडा जिले में युवती लापता: केटीआर ने परिवार से फोन पर बात की",
+    "p": "नमस्ते तेलंगाना के अनुसार, बीआरएस कार्यकारी अध्यक्ष केटीआर ने मंगलवार को नलगोंडा जिले के कनगल मंडल की लापता युवती के पिता को फोन कर मदद का भरोसा दिया। परिवार ने कहा कि पुलिस में शिकायत के बावजूद उसका पता नहीं चला। केटीआर ने कहा कि वे इस बारे में स्थानीय अधिकारियों से बात करेंगे।",
+    "pts": [
+     "पुलिस शिकायत के बावजूद पता नहीं: परिवार",
+     "स्थानीय अधिकारियों से बात करेंगे केटीआर",
+     "पूर्व विधायक कंचरला भूपाल रेड्डी गांव पहुंचे"
+    ],
+    "why": "यह मामला लापता लोगों की शिकायतों में तेज जांच की जरूरत दिखाता है।",
+    "cat": "नलगोंडा · लापता",
+    "statl": "वह मंडल जहां युवती लापता हुई"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "వరంగల్ · భూములు",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "14.37 ఎ.",
+   "statl": "మిగులు భూమిగా పేర్కొన్న విస్తీర్ణం",
+   "h": "వరంగల్ వైఎస్‌ఆర్ నగర్‌లో ఇళ్ల కూల్చివేత: పాత రికార్డులపై ప్రశ్నలు",
+   "p": "వరంగల్ వైఎస్‌ఆర్ నగర్ కాలనీలో పేదల ఇళ్లను కూల్చివేస్తున్నారని నమస్తే తెలంగాణ కథనం. అది ప్రైవేట్ పట్టా భూమి అని, రికార్డులు లేవని రెవెన్యూ, పోలీసు అధికారులు చెబుతున్నారని పత్రిక పేర్కొంది. అయితే పట్టణ భూగరిష్ఠ పరిమితి చట్టం కింద ఆ భూమిని మిగులు భూమిగా గుర్తించారని, 1995లో సుమారు 14.37 ఎకరాలు స్వాధీనం చేసుకోవాలని హైకోర్టు ఆదేశించిందని పత్రిక పేర్కొంది. ఇవి పత్రిక కథనంలోని అంశాలు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/warangal-ysr-nagar-land-dispute-old-records-raise-questions-over-demolition-of-poor-peoples-homes-2557174",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "warangal",
+   "loc": "వైఎస్‌ఆర్ నగర్",
+   "pub": "2026-11-11T03:24+05:30",
+   "pts": [
+    "ప్రైవేట్ పట్టా భూమి అని అధికారులు చెబుతున్నారని కథనం",
+    "మిగులు భూమిగా గుర్తించారని పత్రిక పేర్కొంది",
+    "1995 హైకోర్టు ఆదేశాన్ని ప్రస్తావించిన కథనం"
+   ],
+   "why": "ఇళ్లు కోల్పోతున్న వైఎస్‌ఆర్ నగర్ పేద కుటుంబాలకు భూమి హక్కుల స్పష్టత అవసరం.",
+   "en": {
+    "h": "Homes demolished in Warangal's YSR Nagar: old records raise questions",
+    "p": "Homes of poor residents are being demolished in YSR Nagar colony in Warangal, Namasthe Telangana reported. The paper says revenue and police officials claim the site is private patta land with no records. But it says the land was declared surplus under the Urban Land Ceiling Act and that the High Court in 1995 ordered about 14.37 acres to be taken over. These are points made in the paper's report.",
+    "pts": [
+     "Officials say it is private patta land, report says",
+     "Paper says land was declared surplus",
+     "Report cites a 1995 High Court order"
+    ],
+    "why": "Poor families losing homes in YSR Nagar need clarity on land rights.",
+    "cat": "Warangal · Land",
+    "statl": "Area described as surplus land"
+   },
+   "hi": {
+    "h": "वरंगल के वाईएसआर नगर में घर गिराए गए: पुराने रिकॉर्ड पर सवाल",
+    "p": "नमस्ते तेलंगाना के अनुसार, वरंगल की वाईएसआर नगर कॉलोनी में गरीबों के घर गिराए जा रहे हैं। अखबार कहता है कि राजस्व और पुलिस अधिकारी इसे निजी पट्टा जमीन बताते हैं और रिकॉर्ड नहीं होने की बात कहते हैं। लेकिन अखबार के अनुसार शहरी भूमि सीमा कानून के तहत इसे अतिरिक्त भूमि घोषित किया गया था और 1995 में हाईकोर्ट ने करीब 14.37 एकड़ अपने कब्जे में लेने का आदेश दिया था। ये अखबार की रिपोर्ट के बिंदु हैं।",
+    "pts": [
+     "अधिकारी इसे निजी पट्टा जमीन बताते हैं: रिपोर्ट",
+     "अखबार के अनुसार अतिरिक्त भूमि घोषित",
+     "रिपोर्ट में 1995 के हाईकोर्ट आदेश का जिक्र"
+    ],
+    "why": "घर खो रहे वाईएसआर नगर के गरीब परिवारों को भूमि अधिकारों पर स्पष्टता चाहिए।",
+    "cat": "वरंगल · भूमि",
+    "statl": "अतिरिक्त भूमि बताया गया क्षेत्र"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "రంగారెడ్డి · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "20 నిమి.",
+   "statl": "వృథాగా పారిన నీరు",
+   "h": "తుర్కయాంజాల్‌లో జలమండలి ట్యాంక్ నుంచి నీరు వృథా",
+   "p": "రంగారెడ్డి జిల్లా ఆదిబట్ల సర్కిల్ తుర్కయాంజాల్ పరిధిలో జలమండలి ట్యాంక్ నుంచి మంగళవారం ఉదయం 20 నిమిషాలకు పైగా వందల లీటర్ల నీరు నేలపాలైందని స్థానికులు తెలిపారని నమస్తే తెలంగాణ కథనం. సామాన్యులు నీరు వృథా చేస్తే జరిమానా వేసే జలమండలి, దీనికి బాధ్యులెవరని స్థానికులు ప్రశ్నించారు. ఇటీవల రాగన్నగూడలోనూ ఇలాగే జరిగిందని తెలిపారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/news/water-wastage-hmwssb-turkayamjal-turrur-division-2557166",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "తుర్కయాంజాల్",
+   "pub": "2026-11-11T01:28+05:30",
+   "pts": [
+    "20 నిమిషాలకు పైగా నీరు నేలపాలు",
+    "బాధ్యులెవరని స్థానికుల ప్రశ్న",
+    "రాగన్నగూడలోనూ ఇటీవల ఇదే పరిస్థితి"
+   ],
+   "why": "తాగునీటి వృథా స్థానికుల నీటి సరఫరాపై ప్రభావం చూపుతుంది.",
+   "en": {
+    "h": "Water wasted from HMWSSB tank in Turkayamjal",
+    "p": "Locals said hundreds of litres of water flowed onto the ground for over 20 minutes from an HMWSSB tank in Turkayamjal, Adibatla circle, Rangareddy district, on Tuesday morning, Namasthe Telangana reported. Residents asked who is responsible, noting the water board fines ordinary people for wastage. They said a similar spill recently happened at Ragannaguda.",
+    "pts": [
+     "Water flowed out for over 20 minutes",
+     "Residents ask who is responsible",
+     "Similar spill recently at Ragannaguda"
+    ],
+    "why": "Wastage of drinking water affects supply to local residents.",
+    "cat": "Rangareddy · Water",
+    "statl": "Water ran to waste"
+   },
+   "hi": {
+    "h": "तुर्कयांजल में जल बोर्ड की टंकी से पानी बर्बाद",
+    "p": "नमस्ते तेलंगाना के अनुसार, स्थानीय लोगों ने बताया कि रंगारेड्डी जिले के आदिबटला सर्कल के तुर्कयांजल में मंगलवार सुबह जल बोर्ड की टंकी से 20 मिनट से ज्यादा समय तक सैकड़ों लीटर पानी जमीन पर बहता रहा। लोगों ने पूछा कि आम लोगों पर जुर्माना लगाने वाला जल बोर्ड इसका जिम्मेदार किसे मानेगा। हाल में रागन्नागुडा में भी ऐसा हुआ था।",
+    "pts": [
+     "20 मिनट से ज्यादा पानी बहा",
+     "जिम्मेदार कौन, लोगों का सवाल",
+     "हाल में रागन्नागुडा में भी ऐसा हुआ"
+    ],
+    "why": "पेयजल की बर्बादी से स्थानीय लोगों की जलापूर्ति प्रभावित होती है।",
+    "cat": "रंगारेड्डी · पानी",
+    "statl": "बर्बाद बहता रहा पानी"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ప్రపంచం · ఆరోగ్యం",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "PJ.2.1",
+   "statl": "కొత్త కొవిడ్ వేరియంట్",
+   "h": "పలు దేశాల్లో విస్తరిస్తున్న కొత్త కొవిడ్ వేరియంట్ పీజే.2.1",
+   "p": "కొత్త కొవిడ్-19 వేరియంట్ పీజే.2.1 పలు దేశాలకు విస్తరించిందని నమస్తే తెలంగాణ కథనం. 2026 మేలో కెనడాలోని అంటారియోలో తొలిసారి గుర్తించారు. ఉత్తర అమెరికా, యూరప్, ఆసియా, ఓషియానియాల్లో పెరుగుతోంది. మానవ కణాల్లోకి ప్రవేశించే సామర్థ్యం ఎక్కువగా ఉండొచ్చని ప్రాథమిక నివేదిక సూచిస్తున్నా, క్లినికల్ ఆధారాలు ఇంకా లేవు. ప్రత్యేక లక్షణాలేవీ గుర్తించలేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/national/new-covid-19-variant-pj-2-1-spreads-across-several-countries-2557061",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pub": "2026-11-11T02:05+05:30",
+   "pts": [
+    "2026 మేలో కెనడాలో తొలిసారి గుర్తింపు",
+    "నాలుగు ఖండాల్లో కేసులు పెరుగుదల",
+    "క్లినికల్ ఆధారాలు ఇంకా లేవు"
+   ],
+   "why": "కొత్త వేరియంట్ సమాచారం ప్రజారోగ్యంపై అవగాహనకు ఉపయోగపడుతుంది.",
+   "en": {
+    "h": "New Covid variant PJ.2.1 spreading in several countries",
+    "p": "The new Covid-19 variant PJ.2.1 has spread to several countries, Namasthe Telangana reported. It was first identified in May 2026 in Ontario, Canada, and is rising in North America, Europe, Asia and Oceania. A preliminary report suggests it may enter human cells more easily, but there is no clinical evidence yet. No unique symptoms have been identified.",
+    "pts": [
+     "First identified in Canada in May 2026",
+     "Rising across four continents",
+     "No clinical evidence yet"
+    ],
+    "why": "Information on the new variant helps public health awareness.",
+    "cat": "World · Health",
+    "statl": "New Covid variant"
+   },
+   "hi": {
+    "h": "कई देशों में फैल रहा कोविड का नया वेरिएंट पीजे.2.1",
+    "p": "नमस्ते तेलंगाना के अनुसार, कोविड-19 का नया वेरिएंट पीजे.2.1 कई देशों में फैल गया है। इसे पहली बार मई 2026 में कनाडा के ओंटारियो में पहचाना गया था और यह उत्तरी अमेरिका, यूरोप, एशिया और ओशिनिया में बढ़ रहा है। एक प्रारंभिक रिपोर्ट के अनुसार यह मानव कोशिकाओं में आसानी से प्रवेश कर सकता है, लेकिन अभी क्लिनिकल प्रमाण नहीं है। कोई विशेष लक्षण नहीं पहचाने गए।",
+    "pts": [
+     "मई 2026 में कनाडा में पहली पहचान",
+     "चार महाद्वीपों में बढ़ोतरी",
+     "अभी क्लिनिकल प्रमाण नहीं"
+    ],
+    "why": "नए वेरिएंट की जानकारी जन स्वास्थ्य जागरूकता में मदद करती है।",
+    "cat": "विश्व · स्वास्थ्य",
+    "statl": "कोविड का नया वेरिएंट"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · శ్రీశైలం",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "₹216",
+   "statl": "ఆర్జిత అభిషేకం టికెట్ ధర",
+   "h": "శ్రీశైలంలో నెల రోజుల కార్తీక మాసోత్సవాలు ప్రారంభం",
+   "p": "శ్రీశైలం భ్రమరాంబ మల్లికార్జున స్వామి ఆలయంలో మంగళవారం కార్తీక మాసోత్సవాలు ప్రారంభమయ్యాయని హన్స్ ఇండియా కథనం. భక్తుల రద్దీకి విస్తృత ఏర్పాట్లు చేశామని ఆలయ ట్రస్ట్ బోర్డు చైర్మన్, ఈవో తెలిపారు. ఐదు మఠాల్లో ఆర్జిత అభిషేకాలు ప్రారంభించారు; టికెట్ ₹216, మనమిత్ర వాట్సాప్ 9552300009 ద్వారా బుక్ చేసుకోవచ్చు. సాధారణ దర్శనం ఉదయం 4.30 నుంచి సాయంత్రం 4 వరకు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/month-long-karthika-masam-festivities-commence-at-srisailam-1140979",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "AP",
+   "place": "ap-nandyal",
+   "loc": "శ్రీశైలం",
+   "pub": "2026-11-11T06:25+05:30",
+   "pts": [
+    "ఐదు మఠాల్లో ఆర్జిత అభిషేకాలు",
+    "మనమిత్ర వాట్సాప్ 9552300009 ద్వారా బుకింగ్",
+    "క్యూలో భక్తులకు ఉచిత అల్పాహారం"
+   ],
+   "why": "కార్తీక మాసంలో శ్రీశైలం వెళ్లే భక్తులకు దర్శన వేళలు, బుకింగ్ వివరాలు ఉపయోగపడతాయి.",
+   "en": {
+    "h": "Month-long Karthika Masam festivities begin at Srisailam",
+    "p": "Karthika Masam festivities began on Tuesday at the Sri Bhramaramba Mallikarjuna Swamy temple in Srisailam, The Hans India reported. The temple trust board chairman and EO said extensive arrangements were made for the rush of devotees. Arjitha Abhishekams were introduced at five maths; tickets cost Rs 216 and can be booked on Mana Mitra WhatsApp 9552300009. General darshan runs 4.30 am to 4 pm.",
+    "pts": [
+     "Arjitha Abhishekams at five maths",
+     "Booking via Mana Mitra WhatsApp 9552300009",
+     "Free breakfast for devotees in queues"
+    ],
+    "why": "Darshan timings and booking details help devotees visiting Srisailam in Karthika.",
+    "cat": "AP · Srisailam",
+    "statl": "Arjitha Abhishekam ticket price"
+   },
+   "hi": {
+    "h": "श्रीशैलम में एक महीने का कार्तिक मास उत्सव शुरू",
+    "p": "द हंस इंडिया के अनुसार, श्रीशैलम के श्री भ्रमरांबा मल्लिकार्जुन स्वामी मंदिर में मंगलवार को कार्तिक मास उत्सव शुरू हुआ। मंदिर ट्रस्ट बोर्ड अध्यक्ष और ईओ ने कहा कि श्रद्धालुओं की भीड़ के लिए व्यापक इंतजाम किए गए हैं। पांच मठों में आर्जित अभिषेक शुरू हुए; टिकट ₹216 है और मनमित्र व्हाट्सऐप 9552300009 से बुक हो सकता है। सामान्य दर्शन सुबह 4.30 से शाम 4 बजे तक।",
+    "pts": [
+     "पांच मठों में आर्जित अभिषेक",
+     "मनमित्र व्हाट्सऐप 9552300009 से बुकिंग",
+     "कतार में श्रद्धालुओं को मुफ्त नाश्ता"
+    ],
+    "why": "कार्तिक में श्रीशैलम जाने वाले श्रद्धालुओं के लिए दर्शन समय और बुकिंग जानकारी उपयोगी है।",
+    "cat": "आंध्र प्रदेश · श्रीशैलम",
+    "statl": "आर्जित अभिषेक टिकट"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "31వ",
+   "statl": "సీఐఐ భాగస్వామ్య సదస్సు",
+   "h": "సీఐఐ భాగస్వామ్య సదస్సు ప్రతినిధులకు ఆర్టీసీ ప్రత్యేక బస్సులు",
+   "p": "విశాఖపట్నంలో జరిగే 31వ సీఐఐ భాగస్వామ్య సదస్సు ప్రతినిధుల కోసం ఏపీఎస్ఆర్టీసీ ప్రత్యేక బస్సులు ఏర్పాటు చేసిందని హన్స్ ఇండియా కథనం. విమానాశ్రయం నుంచి మారికవలస, మధురవాడ, ఆనందపురం, ఎన్ఏడీ, పాత గాజువాక మార్గంలో గంటకోసారి బస్సులు నడుస్తాయి. ఐటీ పార్క్, ఆర్టీసీ కాంప్లెక్స్, రైల్వే స్టేషన్‌కూ సర్వీసులు ఉన్నాయి. విమానాశ్రయ బస్ బే వద్ద ప్రత్యేక సిబ్బందిని నియమించారు.",
+   "src": "The Hans India",
+   "url": "https://thehansindia.com/news/cities/visakhapatnam/hassle-free-transportation-for-delegates-for-cii-partnership-summit-1140968",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pub": "2026-11-11T06:10+05:30",
+   "pts": [
+    "విమానాశ్రయం నుంచి గంటకోసారి బస్సులు",
+    "ఐటీ పార్క్, రైల్వే స్టేషన్‌కూ సర్వీసులు",
+    "బస్ బే వద్ద ప్రత్యేక సిబ్బంది"
+   ],
+   "why": "సదస్సు సమయంలో విశాఖ ప్రయాణికులు, ప్రతినిధులకు ఈ బస్సులు ఉపయోగపడతాయి.",
+   "en": {
+    "h": "APSRTC special buses for CII Partnership Summit delegates",
+    "p": "APSRTC has arranged special buses for delegates to the 31st CII Partnership Summit in Visakhapatnam, The Hans India reported. Buses run hourly from the airport via Marikavalasa, Madhurawada, Anandapuram, NAD and Old Gajuwaka. Services also go to IT Park, RTC Complex and the railway station. Special staff are posted at the airport bus bay.",
+    "pts": [
+     "Hourly buses from the airport",
+     "Services to IT Park, railway station",
+     "Special staff at airport bus bay"
+    ],
+    "why": "The buses help delegates and travellers in Visakhapatnam during the summit.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CII Partnership Summit"
+   },
+   "hi": {
+    "h": "सीआईआई साझेदारी शिखर सम्मेलन के प्रतिनिधियों के लिए विशेष बसें",
+    "p": "द हंस इंडिया के अनुसार, एपीएसआरटीसी ने विशाखापत्तनम में 31वें सीआईआई साझेदारी शिखर सम्मेलन के प्रतिनिधियों के लिए विशेष बसें चलाई हैं। हवाई अड्डे से मारिकवलसा, मधुरवाड़ा, आनंदपुरम, एनएडी और पुराने गाजुवाका होकर हर घंटे बसें चलेंगी। आईटी पार्क, आरटीसी कॉम्प्लेक्स और रेलवे स्टेशन के लिए भी सेवाएं हैं। हवाई अड्डे के बस बे पर विशेष कर्मचारी तैनात हैं।",
+    "pts": [
+     "हवाई अड्डे से हर घंटे बसें",
+     "आईटी पार्क, रेलवे स्टेशन तक सेवा",
+     "बस बे पर विशेष कर्मचारी"
+    ],
+    "why": "सम्मेलन के दौरान विशाखापत्तनम के यात्रियों और प्रतिनिधियों को इन बसों से मदद मिलेगी।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सीआईआई साझेदारी सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · తిరుపతి",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "డిసె. 4–6",
+   "statl": "డీజీపీలు, ఐజీపీల సదస్సు",
+   "h": "తిరుపతిలో డీజీపీల జాతీయ సదస్సుకు ఏర్పాట్లు ముమ్మరం",
+   "p": "డిసెంబర్ 4 నుంచి 6 వరకు తిరుపతిలో జరిగే డీజీపీలు, ఐజీపీల జాతీయ సదస్సుకు ప్రధాని మోదీ హాజరయ్యే అవకాశం ఉందని హన్స్ ఇండియా కథనం. కలెక్టర్ డా.ఎస్.వెంకటేశ్వర్ మంగళవారం అధికారులతో సమీక్షించి వసతి, భద్రత, రవాణా, విద్యుత్, వైద్యం ఏర్పాట్లపై ఆదేశాలిచ్చారు. హోటళ్లు, అతిథి గృహాల్లో గదులు ముందుగానే బుక్ చేయాలని, నగర రహదారుల సుందరీకరణ చేపట్టాలని సూచించారు.",
+   "src": "The Hans India",
+   "url": "https://thehansindia.com/news/cities/tirupathi/tirupati-administration-steps-up-preparations-for-high-level-police-conference-1140973",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుపతి",
+   "pub": "2026-11-11T06:17+05:30",
+   "pts": [
+    "ప్రధాని మోదీ హాజరయ్యే అవకాశం",
+    "హోటళ్లలో గదులు ముందుగా బుకింగ్",
+    "నగర రహదారుల సుందరీకరణకు ఆదేశం"
+   ],
+   "why": "పెద్ద సదస్సు సమయంలో తిరుపతి నగరవాసులు, భక్తులపై ట్రాఫిక్, వసతి ప్రభావం ఉండొచ్చు.",
+   "en": {
+    "h": "Tirupati steps up preparations for national DGPs' conference",
+    "p": "PM Narendra Modi is expected to attend the national conference of DGPs and IGPs in Tirupati from December 4 to 6, The Hans India reported. Collector Dr S Venkateswar reviewed accommodation, security, transport, power and medical arrangements with officials on Tuesday. He ordered advance booking of rooms in hotels and guest houses and beautification of city roads.",
+    "pts": [
+     "PM Modi expected to attend",
+     "Rooms to be booked in advance",
+     "City road beautification ordered"
+    ],
+    "why": "The big conference may affect traffic and lodging for Tirupati residents and pilgrims.",
+    "cat": "AP · Tirupati",
+    "statl": "DGPs, IGPs conference"
+   },
+   "hi": {
+    "h": "तिरुपति में डीजीपी के राष्ट्रीय सम्मेलन की तैयारी तेज",
+    "p": "द हंस इंडिया के अनुसार, 4 से 6 दिसंबर तक तिरुपति में होने वाले डीजीपी और आईजीपी के राष्ट्रीय सम्मेलन में प्रधानमंत्री नरेंद्र मोदी के शामिल होने की उम्मीद है। कलेक्टर डॉ. एस. वेंकटेश्वर ने मंगलवार को अधिकारियों के साथ आवास, सुरक्षा, परिवहन, बिजली और चिकित्सा इंतजामों की समीक्षा की। उन्होंने होटलों और अतिथि गृहों में पहले से कमरे बुक करने और सड़कों के सौंदर्यीकरण का आदेश दिया।",
+    "pts": [
+     "प्रधानमंत्री मोदी के आने की उम्मीद",
+     "पहले से कमरों की बुकिंग",
+     "शहर की सड़कों के सौंदर्यीकरण का आदेश"
+    ],
+    "why": "बड़े सम्मेलन से तिरुपति के निवासियों और श्रद्धालुओं पर यातायात व ठहरने का असर पड़ सकता है।",
+    "cat": "आंध्र प्रदेश · तिरुपति",
+    "statl": "डीजीपी, आईजीपी सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · శ్రీసత్యసాయి",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "ఉపాధి",
+   "statl": "హామీ పనులపై కలెక్టర్ తనిఖీ",
+   "h": "ఉపాధి కూలీలకు వేతనాలు సకాలంలో: పుట్టపర్తిలో కలెక్టర్ ఆదేశం",
+   "p": "శ్రీసత్యసాయి జిల్లా కలెక్టర్ ఎ.శ్యామ్ ప్రసాద్ పుట్టపర్తిలోని డ్వామా కార్యాలయాన్ని సోమవారం ఆకస్మికంగా తనిఖీ చేసి ఉపాధి హామీ పనులను సమీక్షించారని హన్స్ ఇండియా కథనం. కూలీలకు వేతనాలు సకాలంలో చెల్లించాలని, ఫాం పాండ్లు, కందకాల పనులకు ప్రాధాన్యం ఇవ్వాలని ఆదేశించారు. పారదర్శక సామాజిక తనిఖీలు జరపాలని, నిర్లక్ష్యం చేసే సిబ్బందిపై కఠిన చర్యలు తప్పవని హెచ్చరించారు.",
+   "src": "The Hans India",
+   "url": "https://thehansindia.com/andhra-pradesh/collector-inspects-dwma-office-1140982",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "ap-sathyasai",
+   "loc": "పుట్టపర్తి",
+   "pub": "2026-11-11T06:30+05:30",
+   "pts": [
+    "డ్వామా కార్యాలయంలో ఆకస్మిక తనిఖీ",
+    "ఫాం పాండ్లు, కందకాల పనులకు ప్రాధాన్యం",
+    "నిర్లక్ష్యం చేసే సిబ్బందిపై చర్యల హెచ్చరిక"
+   ],
+   "why": "జిల్లాలోని ఉపాధి హామీ కూలీలకు సకాలంలో వేతనాలు అందడానికి ఇది ముఖ్యం.",
+   "en": {
+    "h": "Pay job scheme workers on time: Collector orders in Puttaparthi",
+    "p": "Sri Sathya Sai district Collector A Shyam Prasad made a surprise inspection of the DWMA office in Puttaparthi on Monday and reviewed employment guarantee works, The Hans India reported. He ordered timely wage payments to workers and priority for farm ponds and trenches. He called for transparent social audits and warned of strict action against negligent staff.",
+    "pts": [
+     "Surprise inspection of DWMA office",
+     "Priority for farm ponds and trenches",
+     "Action warned against negligent staff"
+    ],
+    "why": "It matters for timely wages to job scheme workers in the district.",
+    "cat": "AP · Sri Sathya Sai",
+    "statl": "Collector checks job scheme works"
+   },
+   "hi": {
+    "h": "रोजगार योजना मजदूरों को समय पर मजदूरी: पुट्टपर्थी में कलेक्टर का आदेश",
+    "p": "द हंस इंडिया के अनुसार, श्री सत्य साई जिले के कलेक्टर ए. श्याम प्रसाद ने सोमवार को पुट्टपर्थी में डीडब्ल्यूएमए कार्यालय का औचक निरीक्षण कर रोजगार गारंटी कार्यों की समीक्षा की। उन्होंने मजदूरों को समय पर मजदूरी देने और फार्म तालाबों व खाइयों के काम को प्राथमिकता देने का आदेश दिया। उन्होंने पारदर्शी सामाजिक ऑडिट का निर्देश दिया और लापरवाह कर्मचारियों पर सख्त कार्रवाई की चेतावनी दी।",
+    "pts": [
+     "डीडब्ल्यूएमए कार्यालय का औचक निरीक्षण",
+     "फार्म तालाबों, खाइयों को प्राथमिकता",
+     "लापरवाह कर्मचारियों पर कार्रवाई की चेतावनी"
+    ],
+    "why": "यह जिले के रोजगार योजना मजदूरों को समय पर मजदूरी के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · श्री सत्य साई",
+    "statl": "रोजगार योजना कार्यों की जांच"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · తిరుపతి",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "100 టన్నులు",
+   "statl": "గోశాలకు విరాళంగా వరిగడ్డి",
+   "h": "టీటీడీ గోశాలకు 100 టన్నుల వరిగడ్డి విరాళం",
+   "p": "అమలాపురానికి చెందిన శ్రీనివాస సేవా ట్రస్ట్ చైర్మన్ నిమ్మకాయల సత్యనారాయణ మంగళవారం తిరుపతిలోని టీటీడీ గోశాలకు 100 టన్నుల వరిగడ్డిని విరాళంగా అందజేశారని హన్స్ ఇండియా కథనం. ఏడాది పొడవునా క్రమం తప్పకుండా గడ్డి సరఫరాకు అనుమతి ఇవ్వాలని టీటీడీని కోరారు. ఆయన గతంలో 2025లో 38 లారీల గడ్డి అందించారు. గోశాల డైరెక్టర్ ఈ విరాళాన్ని ప్రశంసించారు.",
+   "src": "The Hans India",
+   "url": "https://thehansindia.com/news/cities/tirupathi/100-tonnes-of-paddy-straw-donated-to-ttd-gosala-1140976",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-tirupati",
+   "loc": "తిరుపతి",
+   "pub": "2026-11-11T06:21+05:30",
+   "pts": [
+    "అమలాపురం ట్రస్ట్ నుంచి విరాళం",
+    "ఏడాది పొడవునా సరఫరాకు అనుమతి కోరిన దాత",
+    "2025లో 38 లారీల గడ్డి అందజేత"
+   ],
+   "why": "టీటీడీ గోశాలలోని పశువులకు మేత అందుబాటుకు ఇలాంటి విరాళాలు తోడ్పడతాయి.",
+   "en": {
+    "h": "100 tonnes of paddy straw donated to TTD Gosala",
+    "p": "Srinivasa Seva Trust chairman Nimmakayala Satyanarayana of Amalapuram donated 100 tonnes of paddy straw to the TTD Gosala in Tirupati on Tuesday, The Hans India reported. He asked TTD for permission to supply straw regularly through the year. He had earlier donated 38 truckloads of straw in 2025. The Gosala director praised the donation.",
+    "pts": [
+     "Donation from an Amalapuram trust",
+     "Donor seeks nod for year-round supply",
+     "38 truckloads of straw given in 2025"
+    ],
+    "why": "Such donations help secure fodder for cattle at the TTD Gosala.",
+    "cat": "AP · Tirupati",
+    "statl": "Paddy straw donated to Gosala"
+   },
+   "hi": {
+    "h": "टीटीडी गोशाला को 100 टन धान का पुआल दान",
+    "p": "द हंस इंडिया के अनुसार, अमलापुरम के श्रीनिवास सेवा ट्रस्ट के अध्यक्ष निम्माकायला सत्यनारायण ने मंगलवार को तिरुपति में टीटीडी गोशाला को 100 टन धान का पुआल दान किया। उन्होंने टीटीडी से साल भर नियमित पुआल आपूर्ति की अनुमति मांगी। उन्होंने 2025 में भी 38 ट्रक पुआल दिया था। गोशाला निदेशक ने दान की सराहना की।",
+    "pts": [
+     "अमलापुरम के ट्रस्ट से दान",
+     "दानदाता ने साल भर आपूर्ति की अनुमति मांगी",
+     "2025 में 38 ट्रक पुआल दिया था"
+    ],
+    "why": "ऐसे दान से टीटीडी गोशाला के पशुओं के लिए चारा सुनिश्चित होता है।",
+    "cat": "आंध्र प्रदेश · तिरुपति",
+    "statl": "गोशाला को दान पुआल"
+   },
+   "d": "11.11.2026",
+   "t": "06:35"
+  },
   {
    "cat": "తెలంగాణ · ఆరోగ్యం",
    "col": "--c-gov",
@@ -1361,1008 +2507,6 @@
    },
    "d": "10.11.2026",
    "t": "20:35"
-  },
-  {
-   "cat": "హనుమకొండ · విద్యార్థులు",
-   "col": "--c-power",
-   "art": "campus",
-   "stat": "16 ఏళ్లు",
-   "statl": "ఇంటర్ విద్యార్థి వయసు",
-   "h": "దామెర మండలంలో ఇంటర్ విద్యార్థి ఆత్మహత్య",
-   "p": "హనుమకొండ జిల్లా దామెర మండలం సింగరాజుపల్లి గ్రామంలో 16 ఏళ్ల ఇంటర్మీడియట్ విద్యార్థి ఆత్మహత్య చేసుకున్నట్లు సియాసత్ డైలీ కథనం తెలిపింది. పోలీసులు ఘటనాస్థలికి చేరుకుని మృతదేహాన్ని పోస్టుమార్టం కోసం ప్రభుత్వ ఆసుపత్రికి తరలించారు. కారణాలపై కథనంలో వివరాలు లేవు. మానసిక ఒత్తిడిలో ఉన్నవారు కుటుంబం, స్నేహితులు లేదా నిపుణుల సహాయం తీసుకోవాలి.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/intermediate-student-dies-by-suicide-in-telangana-3573312/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hanumakonda",
-   "loc": "సింగరాజుపల్లి",
-   "pts": [
-    "సింగరాజుపల్లిలో 16 ఏళ్ల ఇంటర్ విద్యార్థి మృతి",
-    "పోస్టుమార్టం కోసం ప్రభుత్వ ఆసుపత్రికి తరలింపు",
-    "కారణాలపై వివరాలు ఇంకా తెలియలేదు"
-   ],
-   "why": "విద్యార్థుల మానసిక ఆరోగ్యంపై కుటుంబాలు, కళాశాలలు దృష్టి పెట్టాల్సిన అవసరాన్ని ఇది గుర్తుచేస్తోంది.",
-   "pub": "2026-11-10T16:02+05:30",
-   "en": {
-    "h": "Intermediate student dies by suicide in Damera mandal",
-    "p": "A 16-year-old Intermediate student died by suicide at Singarajupally village in Damera mandal of Hanumakonda district, according to a Siasat Daily report. Police reached the spot and shifted the body to a government hospital for post-mortem. The report gives no details about the reasons. People under mental stress should seek help from family, friends or professionals.",
-    "pts": [
-     "16-year-old Inter student dies in Singarajupally",
-     "Body shifted to government hospital for post-mortem",
-     "Details of the reasons not yet known"
-    ],
-    "why": "It is a reminder that families and colleges need to pay attention to students' mental health.",
-    "cat": "Hanumakonda · Students",
-    "statl": "Age of the Inter student"
-   },
-   "hi": {
-    "h": "दामेरा मंडल में इंटर छात्र ने की आत्महत्या",
-    "p": "सियासत डेली की खबर के अनुसार हनुमकोंडा जिले के दामेरा मंडल के सिंगराजुपल्ली गांव में 16 वर्षीय इंटरमीडिएट छात्र ने आत्महत्या कर ली। पुलिस मौके पर पहुंची और शव को पोस्टमार्टम के लिए सरकारी अस्पताल भेजा। खबर में कारणों का कोई विवरण नहीं है। मानसिक तनाव में लोग परिवार, दोस्तों या विशेषज्ञों से मदद लें।",
-    "pts": [
-     "सिंगराजुपल्ली में 16 वर्षीय इंटर छात्र की मौत",
-     "पोस्टमार्टम के लिए शव सरकारी अस्पताल भेजा",
-     "कारणों का अभी पता नहीं"
-    ],
-    "why": "यह याद दिलाता है कि परिवारों और कॉलेजों को छात्रों के मानसिक स्वास्थ्य पर ध्यान देना चाहिए।",
-    "cat": "हनुमकोंडा · छात्र",
-    "statl": "इंटर छात्र की उम्र"
-   },
-   "d": "10.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "హనుమకొండ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "12 గంటలు",
-   "statl": "బుధవారం శంకుస్థాపన సమయం",
-   "h": "కాజీపేటలో తెలంగాణ పబ్లిక్ స్కూల్ భవనానికి భట్టి శంకుస్థాపన",
-   "p": "హనుమకొండ జిల్లా కాజీపేటలో కొత్త తెలంగాణ పబ్లిక్ స్కూల్ (టీపీఎస్) భవనానికి ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క బుధవారం మధ్యాహ్నం 12 గంటలకు శంకుస్థాపన చేయనున్నారు. జిల్లా బీసీ సంక్షేమ బాలుర హాస్టల్ ఆవరణలో ఈ భవనం నిర్మిస్తారు. వరంగల్ పశ్చిమ ఎమ్మెల్యే నాయిని రాజేందర్ రెడ్డి పాల్గొంటారు. ఏర్పాట్లను కలెక్టర్ చాహత్ బాజ్‌పాయ్ మంగళవారం పరిశీలించారు.",
-   "src": "HMTV",
-   "url": "https://www.hmtvlive.com/telugu-news/warangal/kazipet-telangana-public-school-foundation-stone-laying-ceremony-deputy-cm-211281",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hanumakonda",
-   "loc": "కాజీపేట",
-   "pts": [
-    "బుధవారం మధ్యాహ్నం 12కు డిప్యూటీ సీఎం శంకుస్థాపన",
-    "బీసీ సంక్షేమ బాలుర హాస్టల్ ఆవరణలో భవనం",
-    "ఏర్పాట్లు త్వరగా పూర్తి చేయాలని కలెక్టర్ ఆదేశం"
-   ],
-   "why": "కాజీపేట, హనుమకొండ ప్రాంత విద్యార్థులకు కొత్త ప్రభుత్వ పాఠశాల భవనం రానుంది.",
-   "d": "10.11.2026",
-   "t": "20:05",
-   "pub": "2026-11-10T17:52+05:30",
-   "en": {
-    "h": "Bhatti to lay foundation for Telangana Public School building in Kazipet",
-    "p": "Deputy Chief Minister Mallu Bhatti Vikramarka will lay the foundation stone for the new Telangana Public School (TPS) building in Kazipet, Hanumakonda district, at 12 noon on Wednesday. The building will come up on the premises of the district BC welfare boys' hostel. Warangal West MLA Naini Rajender Reddy will take part. Collector Chahat Bajpai inspected the arrangements on Tuesday.",
-    "pts": [
-     "Deputy CM lays foundation at 12 noon on Wednesday",
-     "Building on BC welfare boys' hostel premises",
-     "Collector orders arrangements to be completed quickly"
-    ],
-    "why": "Students in the Kazipet and Hanumakonda area will get a new government school building.",
-    "cat": "Hanumakonda · Education",
-    "statl": "Foundation time on Wednesday"
-   },
-   "hi": {
-    "h": "काजीपेट में तेलंगाना पब्लिक स्कूल भवन की नींव रखेंगे भट्टी",
-    "p": "उपमुख्यमंत्री मल्लु भट्टी विक्रमार्क बुधवार दोपहर 12 बजे हनुमकोंडा जिले के काजीपेट में नए तेलंगाना पब्लिक स्कूल (टीपीएस) भवन की आधारशिला रखेंगे। यह भवन जिला बीसी कल्याण बालक छात्रावास परिसर में बनेगा। वरंगल पश्चिम के विधायक नायिनी राजेंदर रेड्डी भी शामिल होंगे। कलेक्टर चाहत बाजपेयी ने मंगलवार को तैयारियों का निरीक्षण किया।",
-    "pts": [
-     "बुधवार दोपहर 12 बजे उपमुख्यमंत्री रखेंगे नींव",
-     "बीसी कल्याण बालक छात्रावास परिसर में भवन",
-     "कलेक्टर ने तैयारियां जल्द पूरी करने का आदेश दिया"
-    ],
-    "why": "काजीपेट और हनुमकोंडा क्षेत्र के छात्रों को नया सरकारी स्कूल भवन मिलेगा।",
-    "cat": "हनुमकोंडा · शिक्षा",
-    "statl": "बुधवार को शिलान्यास का समय"
-   }
-  },
-  {
-   "cat": "తెలంగాణ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹38,268 కోట్లు",
-   "statl": "యాసంగి సీజన్‌కు కొత్త రుణాలు",
-   "h": "కరువు మండలాల్లో పంట రుణాలు రీషెడ్యూల్ చేయండి: బ్యాంకులకు భట్టి సూచన",
-   "p": "ఎల్ నినో వల్ల కరువు ప్రభావిత ప్రాంతాల్లో పంట రుణాలను పునర్వ్యవస్థీకరించి, రీషెడ్యూల్ చేయాలని ఉప ముఖ్యమంత్రి భట్టి విక్రమార్క ఎస్‌ఎల్‌బీసీ సమావేశంలో బ్యాంకులను కోరారు. యాసంగి సీజన్‌కు ₹38,268 కోట్ల కొత్త రుణాలు త్వరగా ఇవ్వాలన్నారు. సెప్టెంబర్ వరకు వ్యవసాయ రుణ లక్ష్యంలో 53% మాత్రమే చేరిందని మంత్రి తుమ్మల తెలిపారు. రాష్ట్రంలో 31 జిల్లాల్లోని సుమారు 365 మండలాలు కరువు ప్రాంతాలుగా ప్రకటించబడ్డాయి.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/bhatti-vikramarka-asks-banks-to-restructure-crop-loans-in-drought-hit-areas",
-   "sec": [
-    "telangana",
-    "agri",
-    "business"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "కరువు ప్రాంతాల్లో పంట రుణాల రీషెడ్యూల్‌కు సూచన",
-    "చిన్న, సన్నకారు, కౌలు రైతులకు ప్రాధాన్యం",
-    "సుమారు 365 మండలాలు కరువు ప్రాంతాలుగా ప్రకటన"
-   ],
-   "why": "కరువుతో నష్టపోయిన రైతులకు రుణ భారం తగ్గించి, యాసంగి సాగుకు కొత్త రుణాలు అందించే అంశం ఇది.",
-   "pub": "2026-11-10T19:30+05:30",
-   "en": {
-    "h": "Reschedule crop loans in drought-hit mandals: Bhatti tells banks",
-    "p": "Deputy CM Bhatti Vikramarka, at the SLBC meeting, asked banks to restructure and reschedule crop loans in areas hit by drought due to El Niño. He asked them to speed up fresh credit of ₹38,268 crore for the Yasangi season. Minister Tummala said only 53% of the agricultural credit target was achieved up to September. About 365 mandals in 31 districts of the state have been declared drought-affected.",
-    "pts": [
-     "Banks asked to reschedule crop loans in drought areas",
-     "Priority for small, marginal and tenant farmers",
-     "About 365 mandals declared drought-affected"
-    ],
-    "why": "It concerns easing loan burden on drought-hit farmers and fresh credit for Yasangi cultivation.",
-    "cat": "Telangana · Agriculture",
-    "statl": "Fresh credit for Yasangi season"
-   },
-   "hi": {
-    "h": "सूखा प्रभावित मंडलों में फसल ऋण पुनर्निर्धारित करें: भट्टी का बैंकों से आग्रह",
-    "p": "उपमुख्यमंत्री भट्टी विक्रमार्क ने एसएलबीसी बैठक में बैंकों से अल नीनो के कारण सूखा प्रभावित क्षेत्रों में फसल ऋणों का पुनर्गठन और पुनर्निर्धारण करने को कहा। उन्होंने यासंगी सीज़न के लिए ₹38,268 करोड़ के नए ऋण जल्द देने को कहा। मंत्री तुम्मला ने बताया कि सितंबर तक कृषि ऋण लक्ष्य का केवल 53% ही हासिल हुआ। राज्य के 31 जिलों के लगभग 365 मंडल सूखा प्रभावित घोषित किए गए हैं।",
-    "pts": [
-     "सूखा क्षेत्रों में फसल ऋण पुनर्निर्धारण का आग्रह",
-     "छोटे, सीमांत और बटाईदार किसानों को प्राथमिकता",
-     "लगभग 365 मंडल सूखा प्रभावित घोषित"
-    ],
-    "why": "यह सूखा प्रभावित किसानों का ऋण बोझ कम करने और यासंगी खेती के लिए नए ऋण से जुड़ा है।",
-    "cat": "तेलंगाना · कृषि",
-    "statl": "यासंगी सीज़न के लिए नए ऋण"
-   },
-   "d": "10.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "కరీంనగర్ · రవాణా",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "₹5,000",
-   "statl": "పెద్దలకు టికెట్ ధర",
-   "h": "కరీంనగర్ నుంచి అరుణాచలానికి టీజీఎస్‌ఆర్టీసీ ప్రత్యేక బస్సు",
-   "p": "కరీంనగర్ నుంచి తమిళనాడులోని తిరువణ్ణామలై (అరుణాచలం)కు భక్తుల కోసం టీజీఎస్‌ఆర్టీసీ బస్సు సర్వీసు ప్రారంభించింది. సూపర్ లగ్జరీ బస్సు నవంబర్ 13 మధ్యాహ్నం 2 గంటలకు బయలుదేరుతుంది. దారిలో కాణిపాకం, కంచి ఆలయాల దర్శనం ఉంటుంది. నవంబర్ 16 సాయంత్రం తిరుగు ప్రయాణం, అలంపూర్ జోగులాంబ ఆలయం మీదుగా. పెద్దలకు ₹5,000, పిల్లలకు ₹3,750 ఛార్జీ.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/tgrtc-launches-karimnagar-tiruvannamalai-bus-service-for-pilgrims",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "TG",
-   "place": "karimnagar",
-   "pts": [
-    "నవంబర్ 13 మధ్యాహ్నం 2కు కరీంనగర్ నుంచి బస్సు",
-    "కాణిపాకం, కంచి, అలంపూర్ ఆలయాల దర్శనం",
-    "పిల్లలకు ₹3,750; వివరాలకు 73828 49352"
-   ],
-   "why": "కార్తిక మాసంలో అరుణాచలం వెళ్లాలనుకునే కరీంనగర్ ప్రాంత భక్తులకు ఉపయోగపడే సర్వీసు.",
-   "pub": "2026-11-10T19:24+05:30",
-   "en": {
-    "h": "TGSRTC special bus from Karimnagar to Arunachalam for pilgrims",
-    "p": "TGSRTC has launched a bus service for pilgrims from Karimnagar to Tiruvannamalai (Arunachalam) in Tamil Nadu. The super luxury bus leaves on November 13 at 2 pm. The route includes darshan at Kanipakam and Kanchi temples. The return trip starts on the evening of November 16, via the Jogulamba temple at Alampur. The fare is ₹5,000 for adults and ₹3,750 for children.",
-    "pts": [
-     "Bus leaves Karimnagar on Nov 13 at 2 pm",
-     "Covers Kanipakam, Kanchi and Alampur temples",
-     "₹3,750 for children; enquiries 73828 49352"
-    ],
-    "why": "A useful service for Karimnagar-area devotees planning to visit Arunachalam.",
-    "cat": "Karimnagar · Transport",
-    "statl": "Adult ticket fare"
-   },
-   "hi": {
-    "h": "करीमनगर से अरुणाचलम के लिए टीजीएसआरटीसी की विशेष बस",
-    "p": "टीजीएसआरटीसी ने श्रद्धालुओं के लिए करीमनगर से तमिलनाडु के तिरुवन्नामलै (अरुणाचलम) तक बस सेवा शुरू की है। सुपर लग्ज़री बस 13 नवंबर को दोपहर 2 बजे रवाना होगी। रास्ते में काणिपाकम और कांची मंदिरों के दर्शन होंगे। वापसी 16 नवंबर की शाम आलमपुर के जोगुलांबा मंदिर होते हुए होगी। किराया वयस्कों के लिए ₹5,000 और बच्चों के लिए ₹3,750 है।",
-    "pts": [
-     "13 नवंबर दोपहर 2 बजे करीमनगर से बस",
-     "काणिपाकम, कांची और आलमपुर मंदिरों के दर्शन",
-     "बच्चों के लिए ₹3,750; जानकारी 73828 49352"
-    ],
-    "why": "अरुणाचलम जाने की योजना बना रहे करीमनगर क्षेत्र के श्रद्धालुओं के लिए उपयोगी सेवा।",
-    "cat": "करीमनगर · परिवहन",
-    "statl": "वयस्क टिकट किराया"
-   },
-   "d": "10.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "water",
-   "stat": "24.40 లక్షలు",
-   "statl": "ఎకరాల్లో పంట నష్టమని బీఆర్‌ఎస్",
-   "h": "పాలమూరు ఎత్తిపోతల పంపులు వెంటనే నడపాలి: బీఆర్‌ఎస్ డిమాండ్",
-   "p": "కృష్ణా, గోదావరి నీటిని వినియోగించకుండా కాంగ్రెస్ ప్రభుత్వం పాలమూరు ప్రాంతాన్ని కష్టాల్లోకి నెట్టిందని బీఆర్‌ఎస్ ఆరోపించింది. పాలమూరు-రంగారెడ్డి ఎత్తిపోతల పథకాన్ని వెంటనే నడపాలని తెలంగాణ భవన్‌లో డిమాండ్ చేసింది. అధికారికంగా గుర్తించిన సుమారు 24.40 లక్షల ఎకరాల పంట నష్టానికి పరిహారం ఇవ్వాలని మాజీ మంత్రి నిరంజన్ రెడ్డి కోరారు. ఈ ఆరోపణలపై ప్రభుత్వ స్పందన కథనంలో లేదు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/brs-questions-revanth-reddy-on-palamuru-destructions-drought-relief-and-irrigation-action",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "పాలమూరు-రంగారెడ్డి పథకం వెంటనే నడపాలని డిమాండ్",
-    "24.40 లక్షల ఎకరాల నష్టానికి పరిహారం కోరిన నిరంజన్ రెడ్డి",
-    "వలసలు మళ్లీ పెరుగుతున్నాయన్న శ్రీనివాస్ గౌడ్"
-   ],
-   "why": "కరువుతో ఇబ్బంది పడుతున్న పాలమూరు ప్రాంత రైతుల సాగునీటి, పరిహారం అంశం ఇది.",
-   "pub": "2026-11-10T18:59+05:30",
-   "en": {
-    "h": "Run Palamuru lift irrigation pumps immediately: BRS demands",
-    "p": "The BRS alleged that the Congress government pushed the Palamuru region into distress without using Krishna and Godavari waters. At Telangana Bhavan, it demanded immediate operation of the Palamuru-Rangareddy Lift Irrigation Scheme. Former minister Niranjan Reddy sought compensation for about 24.40 lakh acres of officially acknowledged crop loss. The government's response to these allegations is not in the report.",
-    "pts": [
-     "Demand to run Palamuru-Rangareddy scheme immediately",
-     "Niranjan Reddy seeks compensation for 24.40 lakh acres",
-     "Srinivas Goud says migration is rising again"
-    ],
-    "why": "It concerns irrigation and compensation for drought-hit farmers of the Palamuru region.",
-    "cat": "Telangana · Politics",
-    "statl": "Acres of crop loss, says BRS"
-   },
-   "hi": {
-    "h": "पालमुरु लिफ्ट सिंचाई पंप तुरंत चलाएं: बीआरएस की मांग",
-    "p": "बीआरएस ने आरोप लगाया कि कांग्रेस सरकार ने कृष्णा और गोदावरी का पानी इस्तेमाल किए बिना पालमुरु क्षेत्र को संकट में धकेल दिया। तेलंगाना भवन में उसने पालमुरु-रंगारेड्डी लिफ्ट सिंचाई योजना को तुरंत चलाने की मांग की। पूर्व मंत्री निरंजन रेड्डी ने आधिकारिक रूप से माने गए लगभग 24.40 लाख एकड़ फसल नुकसान के लिए मुआवजा मांगा। इन आरोपों पर सरकार की प्रतिक्रिया रिपोर्ट में नहीं है।",
-    "pts": [
-     "पालमुरु-रंगारेड्डी योजना तुरंत चलाने की मांग",
-     "निरंजन रेड्डी ने 24.40 लाख एकड़ के लिए मुआवजा मांगा",
-     "श्रीनिवास गौड़: पलायन फिर बढ़ रहा"
-    ],
-    "why": "यह पालमुरु क्षेत्र के सूखा प्रभावित किसानों की सिंचाई और मुआवजे से जुड़ा मामला है।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "एकड़ फसल नुकसान, बीआरएस के अनुसार"
-   },
-   "d": "10.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · భద్రత",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "10 మంది",
-   "statl": "అర్ధరాత్రి తనిఖీల్లో అదుపులోకి",
-   "h": "అత్తాపూర్‌లో పోలీసుల చబుత్రా మిషన్: రాత్రి తిరుగుతున్న 10 మంది అదుపులోకి",
-   "p": "హైదరాబాద్ అత్తాపూర్ పోలీసులు పలు ప్రాంతాల్లో ఫుట్ పెట్రోలింగ్, చబుత్రా మిషన్ తనిఖీలు నిర్వహించారు. ఇన్‌స్పెక్టర్ ఎ. సీతయ్య నేతృత్వంలో ప్రత్యేక బృందాలు అత్తాపూర్, ఎన్‌ఎం గూడ, అర్ష్ మహల్, సిక్ ఛావ్నీ, ఎంఎం పహాడీ, చింతల్‌మెట్‌లో తనిఖీ చేశాయి. అర్ధరాత్రి కారణం లేకుండా రోడ్లపై తిరుగుతున్నారని 10 మందిని అదుపులోకి తీసుకుని, మరో 30 మందికి కౌన్సెలింగ్ ఇచ్చారు. ఇలాంటి తనిఖీలు కొనసాగుతాయని పోలీసులు తెలిపారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/attapur-police-detain-10-in-late-night-chabutra-mission-drive",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "అత్తాపూర్",
-   "pts": [
-    "ఇన్‌స్పెక్టర్ సీతయ్య నేతృత్వంలో ప్రత్యేక బృందాల తనిఖీలు",
-    "10 మంది అదుపులోకి, 30 మందికి కౌన్సెలింగ్",
-    "తనిఖీలు క్రమం తప్పకుండా కొనసాగుతాయన్న పోలీసులు"
-   ],
-   "why": "అత్తాపూర్ పరిసర ప్రాంతాల ప్రజల భద్రత కోసం రాత్రి గస్తీ పెరిగింది.",
-   "pub": "2026-11-10T18:40+05:30",
-   "en": {
-    "h": "Attapur police Chabutra Mission: 10 detained for late-night loitering",
-    "p": "Attapur police in Hyderabad carried out foot patrols and a Chabutra Mission drive in several localities. Special teams led by Inspector A. Seethaiah checked Attapur, NM Guda, Arsh Mahal, Sikh Chawni, MM Pahadi and Chintalmet. Police detained 10 people allegedly moving on roads late at night without purpose and counselled 30 others. Police said such drives will continue.",
-    "pts": [
-     "Special teams led by Inspector Seethaiah conducted checks",
-     "10 detained, 30 others counselled",
-     "Police say drives will continue regularly"
-    ],
-    "why": "Night patrols have been stepped up for public safety in Attapur and nearby areas.",
-    "cat": "Hyderabad · Safety",
-    "statl": "Detained in late-night checks"
-   },
-   "hi": {
-    "h": "अत्तापुर पुलिस का चबूतरा मिशन: देर रात घूम रहे 10 लोग हिरासत में",
-    "p": "हैदराबाद की अत्तापुर पुलिस ने कई इलाकों में पैदल गश्त और चबूतरा मिशन जांच अभियान चलाया। इंस्पेक्टर ए. सीतैया के नेतृत्व में विशेष टीमों ने अत्तापुर, एनएम गुडा, अर्श महल, सिख छावनी, एमएम पहाड़ी और चिंतलमेट में जांच की। देर रात बिना कारण सड़कों पर घूमने के आरोप में 10 लोगों को हिरासत में लिया गया और 30 अन्य को समझाइश दी गई। पुलिस ने कहा कि ऐसे अभियान जारी रहेंगे।",
-    "pts": [
-     "इंस्पेक्टर सीतैया के नेतृत्व में विशेष टीमों की जांच",
-     "10 हिरासत में, 30 को समझाइश",
-     "पुलिस: अभियान नियमित रूप से जारी रहेंगे"
-    ],
-    "why": "अत्तापुर और आसपास के इलाकों में लोगों की सुरक्षा के लिए रात की गश्त बढ़ाई गई है।",
-    "cat": "हैदराबाद · सुरक्षा",
-    "statl": "देर रात जांच में हिरासत में"
-   },
-   "d": "10.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "కరీంనగర్ · వ్యవసాయం",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "₹50,000",
-   "statl": "పత్తి ఎకరాకు పరిహారం డిమాండ్",
-   "h": "కరీంనగర్‌ను కరువు జిల్లాగా ప్రకటించాలి: కలెక్టరేట్ ఎదుట సీపీఐ ధర్నా",
-   "p": "కరీంనగర్‌ను వెంటనే కరువు జిల్లాగా ప్రకటించి, పంట నష్టపోయిన రైతులకు పరిహారం ఇవ్వాలని సీపీఐ నాయకులు కలెక్టరేట్ ఎదుట ధర్నా చేశారు. వర్షాలు సరిగా కురవక పంటలు ఎండిపోయాయని మాజీ ఎమ్మెల్యే చాడ వెంకట్ రెడ్డి అన్నారు. సాధారణ పంటలకు ఎకరాకు ₹30,000, పత్తికి ₹50,000, కూరగాయలకు ₹20,000 ఇవ్వాలని డిమాండ్ చేశారు. జిల్లాలో తాగునీటి సమస్య కూడా పెరుగుతోందని చెప్పారు.",
-   "src": "NTV Telugu",
-   "url": "https://ntvtelugu.com/news/karimnagar-drought-demand-cpi-seeks-crop-loss-compensation-1033977.html",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "karimnagar",
-   "pts": [
-    "కరీంనగర్ కలెక్టరేట్ ఎదుట సీపీఐ ధర్నా",
-    "పత్తికి ఎకరాకు ₹50,000 పరిహారం డిమాండ్",
-    "తాగునీటి సమస్య కూడా పెరుగుతోందన్న చాడ వెంకట్ రెడ్డి"
-   ],
-   "why": "వర్షాభావంతో పంటలు నష్టపోయిన కరీంనగర్ జిల్లా రైతులకు ఇది సంబంధించిన అంశం.",
-   "pub": "2026-11-10T13:31+05:30",
-   "en": {
-    "h": "Declare Karimnagar a drought district: CPI dharna at Collectorate",
-    "p": "CPI leaders staged a dharna at the Karimnagar Collectorate demanding that the district be declared drought-hit immediately and that farmers get crop-loss compensation. Former MLA Chada Venkat Reddy said crops dried up due to poor rain. They demanded ₹30,000 per acre for ordinary crops, ₹50,000 for cotton and ₹20,000 for vegetables. He said drinking water problems are also growing in the district.",
-    "pts": [
-     "CPI dharna in front of Karimnagar Collectorate",
-     "₹50,000 per acre compensation demanded for cotton",
-     "Chada Venkat Reddy says drinking water problem also growing"
-    ],
-    "why": "This concerns Karimnagar district farmers whose crops were hit by poor rainfall.",
-    "cat": "Karimnagar · Agriculture",
-    "statl": "Compensation sought per acre of cotton"
-   },
-   "hi": {
-    "h": "करीमनगर को सूखा जिला घोषित करें: कलेक्टरेट के सामने सीपीआई का धरना",
-    "p": "सीपीआई नेताओं ने करीमनगर कलेक्टरेट के सामने धरना देकर जिले को तुरंत सूखाग्रस्त घोषित करने और फसल नुकसान झेलने वाले किसानों को मुआवजा देने की मांग की। पूर्व विधायक चाडा वेंकट रेड्डी ने कहा कि कम बारिश से फसलें सूख गईं। उन्होंने सामान्य फसलों के लिए प्रति एकड़ ₹30,000, कपास के लिए ₹50,000 और सब्जियों के लिए ₹20,000 की मांग की। उन्होंने कहा कि जिले में पेयजल की समस्या भी बढ़ रही है।",
-    "pts": [
-     "करीमनगर कलेक्टरेट के सामने सीपीआई का धरना",
-     "कपास के लिए प्रति एकड़ ₹50,000 मुआवजे की मांग",
-     "चाडा वेंकट रेड्डी: पेयजल समस्या भी बढ़ रही"
-    ],
-    "why": "यह कम बारिश से फसल नुकसान झेलने वाले करीमनगर जिले के किसानों से जुड़ा मामला है।",
-    "cat": "करीमनगर · कृषि",
-    "statl": "कपास के प्रति एकड़ मुआवजे की मांग"
-   },
-   "d": "10.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "ప్రపంచం · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "$4,149",
-   "statl": "ఔన్సు బంగారం ప్రారంభ ధర",
-   "h": "మూడు వారాల తర్వాత 4,100 డాలర్లు దాటిన బంగారం ధర",
-   "p": "మంగళవారం బంగారం డిసెంబర్ ఫ్యూచర్స్ ఔన్సుకు 4,149 డాలర్ల వద్ద ప్రారంభమైంది, ఇది 1.8% పెరుగుదల అని యాహూ ఫైనాన్స్ పేర్కొంది. అక్టోబర్ 22 తర్వాత 4,100 డాలర్లకు పైగా ప్రారంభం కావడం ఇదే మొదటిసారి. అమెరికా డాలర్ సూచీ తగ్గడం, చమురు ధరలు దిగిరావడంతో బంగారానికి బలం వచ్చింది. బ్రెంట్ క్రూడ్ బ్యారెల్‌కు 90.72 డాలర్లుగా ఉంది, ఐదు రోజుల్లో 12% పైగా తగ్గింది.",
-   "src": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-10-2026-gold-opens-above-4100-for-the-first-time-in-three-weeks-121734382.html",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అక్టోబర్ 22 తర్వాత తొలిసారి 4,100 డాలర్లు దాటిన ప్రారంభం",
-    "డాలర్ బలహీనత, చమురు ధరల తగ్గుదల కారణం",
-    "బ్రెంట్ క్రూడ్ ఐదు రోజుల్లో 12% పైగా తగ్గుదల"
-   ],
-   "why": "అంతర్జాతీయ బంగారం, చమురు ధరల మార్పులు బంగారం కొనేవారిని, పొదుపు చేసేవారిని ప్రభావితం చేస్తాయి.",
-   "pub": "2026-11-10T17:47+05:30",
-   "en": {
-    "h": "Gold opens above $4,100 for the first time in three weeks",
-    "p": "Gold December futures opened at $4,149 an ounce on Tuesday, up 1.8%, according to Yahoo Finance. It is the first open above $4,100 since October 22. Gold found support as the US dollar index eased and oil prices fell. Brent crude was at $90.72 a barrel, down more than 12% in five days.",
-    "pts": [
-     "First open above $4,100 since October 22",
-     "Weaker dollar and lower oil prices helped",
-     "Brent crude down over 12% in five days"
-    ],
-    "why": "Global gold and oil price moves affect gold buyers and savers.",
-    "cat": "World · Business",
-    "statl": "Gold opening price per ounce"
-   },
-   "hi": {
-    "h": "तीन हफ्ते बाद सोना 4,100 डॉलर के पार खुला",
-    "p": "याहू फाइनेंस के अनुसार मंगलवार को सोने का दिसंबर वायदा 4,149 डॉलर प्रति औंस पर खुला, जो 1.8% की बढ़त है। 22 अक्टूबर के बाद पहली बार सोना 4,100 डॉलर से ऊपर खुला। अमेरिकी डॉलर सूचकांक में नरमी और तेल की कीमतों में गिरावट से सोने को सहारा मिला। ब्रेंट क्रूड 90.72 डॉलर प्रति बैरल पर था, जो पांच दिनों में 12% से अधिक गिरा है।",
-    "pts": [
-     "22 अक्टूबर के बाद पहली बार 4,100 डॉलर से ऊपर शुरुआत",
-     "कमजोर डॉलर और सस्ते तेल से मदद",
-     "ब्रेंट क्रूड पांच दिनों में 12% से अधिक गिरा"
-    ],
-    "why": "सोने और तेल की वैश्विक कीमतों में बदलाव सोना खरीदने वालों और बचत करने वालों को प्रभावित करता है।",
-    "cat": "विश्व · व्यापार",
-    "statl": "सोने का प्रति औंस शुरुआती भाव"
-   },
-   "d": "10.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ఆరోగ్యం",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "5 నెలలు",
-   "statl": "రక్తం గడ్డకట్టకుండా పనిచేసిన వాల్వ్",
-   "h": "రక్తం పలుచబడే మందులు అవసరం లేని గుండె వాల్వ్: హైదరాబాద్ వైద్యుడికి అమెరికా పేటెంట్",
-   "p": "హైదరాబాద్‌కు చెందిన సజ్జ హార్ట్ ఫౌండేషన్ గుండె శస్త్రచికిత్స నిపుణుడు డాక్టర్ లోకేశ్వరరావు సజ్జ బృందం కొత్త యాంత్రిక గుండె వాల్వ్ రూపొందించింది. పేస్‌మేకర్ శక్తితో వాల్వ్‌పై స్వల్ప నెగటివ్ విద్యుదావేశం ఉంచి రక్తం గడ్డకట్టకుండా చేస్తారు. ప్రయోగశాల, జంతు పరీక్షల్లో ఐదు నెలలకుపైగా గడ్డలు లేకుండా పనిచేసిందని, మనుషులపై అధ్యయనాలతో నిర్ధారించాల్సి ఉందని ఆయన చెప్పారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-surgeon-develops-us-patented-heart-valve-designed-to-prevent-clots-without-blood-thinners",
-   "sec": [
-    "telangana",
-    "innovation"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "వాల్వ్ డిజైన్‌కు అమెరికా పేటెంట్",
-    "ఫలితాలు PLOS One, సైంటిఫిక్ రిపోర్ట్స్‌లో ప్రచురణ",
-    "రక్త కణాలకు ఎలాంటి హాని కనిపించలేదు"
-   ],
-   "why": "గుండె వాల్వ్ రోగులు జీవితాంతం రక్తం పలుచబడే మందులు వాడే అవసరం తగ్గే అవకాశంపై ఇది తొలి అడుగు.",
-   "pub": "2026-11-10T17:55+05:30",
-   "en": {
-    "h": "Heart valve that needs no blood thinners: US patent for Hyderabad surgeon",
-    "p": "Dr Lokeswara Rao Sajja of Hyderabad's Sajja Heart Foundation and his team have developed a new mechanical heart valve. A weak negative electric charge, powered by a pacemaker, keeps blood from clotting on it. In lab and animal tests it stayed clot-free for over five months, and he said human studies are needed to confirm the results.",
-    "pts": [
-     "US patent granted for the valve design",
-     "Results published in PLOS One and Scientific Reports",
-     "No damage to blood cells was seen"
-    ],
-    "why": "It is a first step towards heart-valve patients not needing lifelong blood thinners.",
-    "cat": "Hyderabad · Health",
-    "statl": "Valve stayed clot-free"
-   },
-   "hi": {
-    "h": "खून पतला करने की दवा के बिना चलने वाला हार्ट वाल्व: हैदराबाद के सर्जन को अमेरिकी पेटेंट",
-    "p": "हैदराबाद के सज्जा हार्ट फाउंडेशन के हृदय सर्जन डॉ. लोकेश्वर राव सज्जा और उनकी टीम ने नया मैकेनिकल हार्ट वाल्व बनाया है। पेसमेकर से चलने वाला हल्का नेगेटिव विद्युत आवेश उस पर खून का थक्का नहीं बनने देता। प्रयोगशाला और जानवरों पर परीक्षण में यह पांच महीने से ज़्यादा बिना थक्के के चला; उन्होंने कहा कि इंसानों पर अध्ययन से पुष्टि ज़रूरी है।",
-    "pts": [
-     "वाल्व के डिज़ाइन को अमेरिकी पेटेंट",
-     "नतीजे PLOS One और साइंटिफिक रिपोर्ट्स में प्रकाशित",
-     "रक्त कोशिकाओं को कोई नुकसान नहीं दिखा"
-    ],
-    "why": "यह हार्ट वाल्व मरीज़ों को जीवनभर खून पतला करने की दवा से मुक्ति की दिशा में पहला कदम है।",
-    "cat": "हैदराबाद · स्वास्थ्य",
-    "statl": "बिना थक्के के चला वाल्व"
-   },
-   "d": "10.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "ప్రపంచం · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "$90 దిగువకు",
-   "statl": "బ్రెంట్ ముడి చమురు ధర",
-   "h": "ఇరాన్‌పై దాడులు ఆపుతామన్న ట్రంప్: 90 డాలర్ల దిగువకు చమురు ధర",
-   "p": "ఇరాన్‌పై కొత్త సైనిక దాడులు నిలిపివేస్తామని అమెరికా అధ్యక్షుడు ట్రంప్ చెప్పడంతో మంగళవారం బ్రెంట్ ముడి చమురు ధర 2 శాతానికిపైగా తగ్గి బ్యారెల్‌కు 90 డాలర్ల దిగువకు చేరింది. ఆగస్టు చివరి తర్వాత ఇదే తొలిసారి. జపాన్ నిక్కీ 2.9%, దక్షిణ కొరియా కోస్పీ 4.4% పెరిగాయని రాయిటర్స్ కథనం.",
-   "src": "Reuters",
-   "url": "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "అమెరికా–ఇరాన్ శాంతి చర్చలపై మదుపర్ల ఆశలు",
-    "ఐరోపా స్టాక్స్ 600 సూచీ 0.5% పెరుగుదల",
-    "అమెరికా అక్టోబర్ ద్రవ్యోల్బణ గణాంకాల కోసం ఎదురుచూపు"
-   ],
-   "why": "చమురు ధర తగ్గితే భారత్ దిగుమతి భారం, పెట్రోల్–డీజిల్ ధరలపై ప్రభావం ఉంటుంది.",
-   "pub": "2026-11-10T15:38+05:30",
-   "en": {
-    "h": "Trump says Iran strikes on hold: oil falls below $90",
-    "p": "Brent crude fell more than 2% on Tuesday to below $90 a barrel after US President Trump said he would hold off on new military strikes on Iran. It is the first time since late August. Japan's Nikkei rose 2.9% and South Korea's KOSPI 4.4%, Reuters reported.",
-    "pts": [
-     "Investors hope for US-Iran peace talks",
-     "Europe's STOXX 600 index up 0.5%",
-     "Markets await US October inflation data"
-    ],
-    "why": "Lower oil prices affect India's import bill and petrol-diesel prices.",
-    "cat": "World · Business",
-    "statl": "Brent crude oil price"
-   },
-   "hi": {
-    "h": "ईरान पर हमले रोकने की ट्रंप की बात: तेल 90 डॉलर से नीचे",
-    "p": "अमेरिकी राष्ट्रपति ट्रंप के ईरान पर नए सैन्य हमले रोकने की बात कहने के बाद मंगलवार को ब्रेंट कच्चा तेल 2% से ज़्यादा गिरकर 90 डॉलर प्रति बैरल से नीचे आ गया। अगस्त के आखिर के बाद ऐसा पहली बार हुआ। रॉयटर्स के अनुसार जापान का निक्केई 2.9% और दक्षिण कोरिया का कोस्पी 4.4% चढ़ा।",
-    "pts": [
-     "अमेरिका-ईरान शांति वार्ता की उम्मीद में निवेशक",
-     "यूरोप का STOXX 600 सूचकांक 0.5% ऊपर",
-     "अमेरिका के अक्टूबर महंगाई आंकड़ों का इंतज़ार"
-    ],
-    "why": "तेल सस्ता होने से भारत के आयात बिल और पेट्रोल-डीज़ल कीमतों पर असर पड़ता है।",
-    "cat": "दुनिया · व्यापार",
-    "statl": "ब्रेंट कच्चे तेल का दाम"
-   },
-   "d": "10.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · అంతర్జాతీయ సదస్సు",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "70 దేశాలు",
-   "statl": "నుంచి సుమారు 1,000 మంది ప్రతినిధులు",
-   "h": "హైదరాబాద్‌లో రెండోసారి భారత్ సమ్మిట్: 70 దేశాల ప్రతినిధులు",
-   "p": "హైదరాబాద్‌లో జరగనున్న భారత్ సమ్మిట్‌కు దాదాపు 70 దేశాల నుంచి సుమారు 1,000 మంది ప్రతినిధులు వస్తారని కాంగ్రెస్ విదేశీ వ్యవహారాల విభాగం ఛైర్మన్ సల్మాన్ ఖుర్షీద్ దిల్లీలో చెప్పారు. రెండు రోజుల సదస్సు అని ఆయన అనగా, నవంబర్ 12–14 తేదీల్లో జరుగుతుందని భువనగిరి ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి తెలిపారని యూఎన్‌ఐ కథనాలు.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/national/politics-bharat-summit-congress-hyderabad/240716",
-   "sec": [
-    "telangana",
-    "world"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "హైదరాబాద్‌లో భారత్ సమ్మిట్ రెండోసారి",
-    "కొత్త ప్రపంచ క్రమం, భారత్ పాత్రపై చర్చలు",
-    "విధాన నిర్ణేతలు, నిపుణులు, ఉద్యమ నేతలు హాజరు"
-   ],
-   "why": "అంతర్జాతీయ విధాన చర్చలకు హైదరాబాద్ వేదిక కావడం నగరానికి గుర్తింపు తెస్తుంది.",
-   "pub": "2026-11-10T14:00+05:30",
-   "en": {
-    "h": "Hyderabad to host Bharat Summit again: delegates from 70 countries",
-    "p": "Around 1,000 delegates from nearly 70 countries are expected at the Bharat Summit in Hyderabad, Congress foreign affairs department chairman Salman Khurshid said in Delhi. He called it a two-day summit, while Bhongir MP Chamala Kiran Kumar Reddy said it would be held from November 12 to 14, UNI reported.",
-    "pts": [
-     "Hyderabad hosts the Bharat Summit for a second time",
-     "Talks on the new world order and India's role",
-     "Policymakers, experts and movement leaders to attend"
-    ],
-    "why": "Hosting global policy talks brings recognition to Hyderabad.",
-    "cat": "Hyderabad · Global summit",
-    "statl": "About 1,000 delegates from"
-   },
-   "hi": {
-    "h": "हैदराबाद में दूसरी बार भारत समिट: 70 देशों के प्रतिनिधि",
-    "p": "कांग्रेस के विदेश मामलों के विभाग के अध्यक्ष सलमान खुर्शीद ने दिल्ली में कहा कि हैदराबाद में होने वाले भारत समिट में करीब 70 देशों से लगभग 1,000 प्रतिनिधि आएंगे। उन्होंने इसे दो दिन का सम्मेलन बताया, जबकि भुवनगिरी सांसद चामला किरण कुमार रेड्डी ने कहा कि यह 12 से 14 नवंबर तक होगा, यूएनआई की खबरों के अनुसार।",
-    "pts": [
-     "हैदराबाद में दूसरी बार भारत समिट",
-     "नई विश्व व्यवस्था और भारत की भूमिका पर चर्चा",
-     "नीति-निर्माता, विशेषज्ञ और आंदोलन नेता शामिल होंगे"
-    ],
-    "why": "वैश्विक नीति चर्चा की मेज़बानी से हैदराबाद की पहचान बढ़ती है।",
-    "cat": "हैदराबाद · अंतरराष्ट्रीय सम्मेलन",
-    "statl": "से लगभग 1,000 प्रतिनिधि"
-   },
-   "d": "10.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "సంక్రాంతి తర్వాత",
-   "statl": "రాష్ట్రవ్యాప్త 'ప్రజా బలం' పర్యటన",
-   "h": "సంక్రాంతి తర్వాత రాష్ట్రమంతా పర్యటిస్తా: సీఎం రేవంత్ రెడ్డి",
-   "p": "కొడంగల్‌లో మూడు రోజుల పర్యటన ముగింపు సభలో సోమవారం మాట్లాడిన సీఎం రేవంత్ రెడ్డి, జనవరిలో సంక్రాంతి తర్వాత 'ప్రజా బలం' పేరుతో రాష్ట్రమంతా పర్యటిస్తానని చెప్పారు. ఇది బీఆర్ఎస్, బీజేపీని కొట్టుకుపోయే సునామీ అవుతుందని ఆయన అన్నారు. రబీలో తక్కువ నీరు అవసరమయ్యే పంటలు వేయాలని రైతులను కోరారని పీటీఐ కథనం.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/cm-revanth-plans-statewide-tour-after-sankranti-targets-brs-bjp-3572875/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "2028 డిసెంబర్‌లోగా కొడంగల్‌కు కృష్ణా నీళ్లు తెస్తామన్న సీఎం",
-    "కొడంగల్‌లో ₹10,000 కోట్ల పనులు జరుగుతున్నాయని వెల్లడి",
-    "బీఆర్ఎస్ హయాంలో ₹8.11 లక్షల కోట్ల అప్పు అని ఆరోపణ"
-   ],
-   "why": "సీఎం రాష్ట్రవ్యాప్త పర్యటన రానున్న రాజకీయ కార్యక్రమాలు, జిల్లాల పర్యటనలపై ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-10T10:39+05:30",
-   "en": {
-    "h": "Will tour the whole state after Sankranti: CM Revanth Reddy",
-    "p": "Speaking on Monday at a meeting ending his three-day Kodangal tour, CM Revanth Reddy said he would tour all of Telangana after Sankranti in January under the 'Praja Balam' programme. He said it would be a tsunami that sweeps away the BRS and BJP. He urged farmers to grow less water-intensive crops in Rabi, PTI reported.",
-    "pts": [
-     "CM promises Krishna water to Kodangal by December 2028",
-     "Says ₹10,000 crore of works under way in Kodangal",
-     "Alleges ₹8.11 lakh crore debt under BRS rule"
-    ],
-    "why": "The CM's statewide tour will shape upcoming political programmes and district visits.",
-    "cat": "Telangana · Politics",
-    "statl": "Statewide 'Praja Balam' tour"
-   },
-   "hi": {
-    "h": "संक्रांति के बाद पूरे राज्य का दौरा करूंगा: मुख्यमंत्री रेवंत रेड्डी",
-    "p": "कोडंगल के तीन दिन के दौरे की समापन सभा में सोमवार को मुख्यमंत्री रेवंत रेड्डी ने कहा कि जनवरी में संक्रांति के बाद वे 'प्रजा बलम' कार्यक्रम के तहत पूरे तेलंगाना का दौरा करेंगे। उन्होंने कहा कि यह बीआरएस और बीजेपी को बहा ले जाने वाली सुनामी होगी। पीटीआई के अनुसार उन्होंने किसानों से रबी में कम पानी वाली फसलें उगाने को कहा।",
-    "pts": [
-     "दिसंबर 2028 तक कोडंगल को कृष्णा का पानी देने का वादा",
-     "कोडंगल में ₹10,000 करोड़ के काम जारी होने की बात",
-     "बीआरएस शासन में ₹8.11 लाख करोड़ कर्ज़ का आरोप"
-    ],
-    "why": "मुख्यमंत्री का राज्यव्यापी दौरा आगामी राजनीतिक कार्यक्रमों और ज़िलों के दौरों को प्रभावित करेगा।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "राज्यव्यापी 'प्रजा बलम' दौरा"
-   },
-   "d": "10.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · నేరాలు",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹40,000",
-   "statl": "లోన్ యాప్ నుంచి తీసుకున్న రుణం",
-   "h": "లోన్ యాప్ వేధింపులు: హైదరాబాద్‌లో కానిస్టేబుల్ ఆత్మహత్య",
-   "p": "కొండాపూర్ బెటాలియన్‌కు చెందిన 31 ఏళ్ల పోలీస్ కానిస్టేబుల్ సోమవారం పహాడీషరీఫ్‌లోని తన ఇంట్లో ఆత్మహత్య చేసుకున్నారు. నాలుగు నెలల క్రితం లోన్ యాప్ నుంచి ₹40,000 రుణం తీసుకుని సకాలంలో చెల్లించలేకపోవడంతో నిర్వాహకులు వేధించి, కుటుంబ సభ్యులకు అసభ్య చిత్రాలు పంపుతామని బెదిరించారని ఆరోపణ. పహాడీషరీఫ్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారని తెలంగాణ టుడే కథనం.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hyderabad-police-constable-dies-by-suicide-amid-alleged-harassment-by-loan-app-operators",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "పహాడీషరీఫ్",
-   "pts": [
-    "లోన్ యాప్ నిర్వాహకుల వేధింపులు ఆరోపణ",
-    "కుటుంబానికి అసభ్య చిత్రాలు పంపుతామని బెదిరింపులు",
-    "పహాడీషరీఫ్ పోలీసుల కేసు, దర్యాప్తు"
-   ],
-   "why": "ఆన్‌లైన్ లోన్ యాప్‌ల వేధింపులపై అప్రమత్తత అవసరమని ఈ ఘటన గుర్తు చేస్తోంది; ఇబ్బందుల్లో ఉంటే సహాయం కోరండి.",
-   "pub": "2026-11-10T10:22+05:30",
-   "en": {
-    "h": "Loan app harassment: constable dies by suicide in Hyderabad",
-    "p": "A 31-year-old police constable of the Kondapur Battalion died by suicide at his home in Pahadishareef on Monday. He had allegedly been harassed by loan app operators after failing to repay a ₹40,000 loan taken four months earlier, with threats to send obscene images to his family. Pahadishareef police have registered a case and are investigating, Telangana Today reported.",
-    "pts": [
-     "Harassment by loan app operators alleged",
-     "Threats to send obscene images to family",
-     "Pahadishareef police register case, investigate"
-    ],
-    "why": "The case is a reminder to be careful with online loan apps; please seek help if you are in distress.",
-    "cat": "Hyderabad · Crime",
-    "statl": "Loan taken from a loan app"
-   },
-   "hi": {
-    "h": "लोन ऐप उत्पीड़न: हैदराबाद में कांस्टेबल ने आत्महत्या की",
-    "p": "कोंडापुर बटालियन के 31 वर्षीय पुलिस कांस्टेबल ने सोमवार को पहाड़ीशरीफ स्थित अपने घर में आत्महत्या कर ली। आरोप है कि चार महीने पहले लोन ऐप से लिया ₹40,000 का कर्ज़ समय पर न चुका पाने पर संचालकों ने उन्हें परेशान किया और परिवार को अश्लील तस्वीरें भेजने की धमकी दी। तेलंगाना टुडे के अनुसार पहाड़ीशरीफ पुलिस ने मामला दर्ज कर जांच शुरू की है।",
-    "pts": [
-     "लोन ऐप संचालकों पर उत्पीड़न का आरोप",
-     "परिवार को अश्लील तस्वीरें भेजने की धमकी",
-     "पहाड़ीशरीफ पुलिस ने केस दर्ज कर जांच शुरू की"
-    ],
-    "why": "यह घटना ऑनलाइन लोन ऐप से सावधान रहने की याद दिलाती है; परेशानी में हों तो मदद लें।",
-    "cat": "हैदराबाद · अपराध",
-    "statl": "लोन ऐप से लिया कर्ज़"
-   },
-   "d": "10.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "ఏపీ · ఆర్థికం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹100, ₹200",
-   "statl": "మాత్రమే ఉండాలన్న సీఎం",
-   "h": "₹500, ₹1000, ₹2000 నోట్లు రద్దు చేయాలి: సీఎం చంద్రబాబు",
-   "p": "పెద్ద నగదు లావాదేవీలు, అవినీతిని తగ్గించేందుకు అధిక విలువ నోట్లను దశలవారీగా తొలగించాలని ఏపీ సీఎం చంద్రబాబు నాయుడు సోమవారం అన్నారు. ₹500, ₹1000, ₹2000 నోట్లు రద్దు చేసి ₹100, ₹200 నోట్లు మాత్రమే ఉంచాలని చెప్పారు. పూర్తి నిషేధం ఇప్పుడు చాలా ఇబ్బందికరమని ఐఎస్‌బీ ప్రొఫెసర్ ప్రసన్న తంత్రి హెచ్చరించారని బిజినెస్ టుడే కథనం.",
-   "src": "Business Today",
-   "url": "https://www.businesstoday.in/india/story/chandrababu-naidu-wants-rs-500-notes-scrapped-isb-professor-warns-would-be-too-disruptive-566695-2026-11-10",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "పెద్ద నోట్ల రద్దు కోసం ప్రధానిని గతంలోనే కోరానన్న సీఎం",
-    "డిజిటల్ కరెన్సీకి చంద్రబాబు మద్దతు",
-    "అక్టోబర్ మధ్యనాటికి చలామణిలో ₹43.47 లక్షల కోట్ల నగదు"
-   ],
-   "why": "నగదు వాడకం, డిజిటల్ చెల్లింపులపై జరుగుతున్న చర్చ సామాన్యుల రోజువారీ లావాదేవీలతో ముడిపడి ఉంది.",
-   "pub": "2026-11-10T15:26+05:30",
-   "en": {
-    "h": "Scrap ₹500, ₹1,000, ₹2,000 notes: CM Chandrababu Naidu",
-    "p": "Andhra Pradesh CM N Chandrababu Naidu said on Monday that high-denomination notes should be phased out to reduce large cash transactions and corruption. He said ₹500, ₹1,000 and ₹2,000 notes should be scrapped and only ₹100 and ₹200 notes kept. ISB professor Prasanna Tantri warned that an outright ban would be too disruptive now, Business Today reported.",
-    "pts": [
-     "CM says he had urged the PM earlier",
-     "Naidu backs digital currency",
-     "₹43.47 lakh crore cash in circulation by mid-October"
-    ],
-    "why": "The debate on cash and digital payments is linked to ordinary people's daily transactions.",
-    "cat": "AP · Economy",
-    "statl": "Only notes the CM wants kept"
-   },
-   "hi": {
-    "h": "₹500, ₹1000, ₹2000 के नोट बंद हों: मुख्यमंत्री चंद्रबाबू नायडू",
-    "p": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू ने सोमवार को कहा कि बड़े नकद लेनदेन और भ्रष्टाचार कम करने के लिए ऊंचे मूल्य के नोट धीरे-धीरे हटाए जाएं। उन्होंने कहा कि ₹500, ₹1000 और ₹2000 के नोट बंद कर केवल ₹100 और ₹200 के नोट रखे जाएं। बिजनेस टुडे के अनुसार आईएसबी प्रोफेसर प्रसन्ना तंत्री ने चेताया कि अभी पूरी पाबंदी बहुत बाधक होगी।",
-    "pts": [
-     "मुख्यमंत्री बोले, पहले भी प्रधानमंत्री से आग्रह किया था",
-     "नायडू ने डिजिटल करेंसी का समर्थन किया",
-     "अक्टूबर मध्य तक ₹43.47 लाख करोड़ नकदी चलन में"
-    ],
-    "why": "नकदी और डिजिटल भुगतान पर बहस आम लोगों के रोज़ के लेनदेन से जुड़ी है।",
-    "cat": "आंध्र प्रदेश · अर्थव्यवस्था",
-    "statl": "सिर्फ ये नोट रखने की मांग"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "నిర్మల్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "farm",
-   "stat": "నవం. 11",
-   "statl": "నిర్మల్‌లో రైతు గర్జన సభ",
-   "h": "రేపు నిర్మల్‌లో బీఆర్ఎస్ రైతు గర్జన: ఏర్పాట్లు పరిశీలించిన నేతలు",
-   "p": "బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ ముఖ్య అతిథిగా బుధవారం (నవంబర్ 11) నిర్మల్ జిల్లా కేంద్రంలో రైతు గర్జన సభ జరగనుంది. సభా ఏర్పాట్లను ఎమ్మెల్యే వేముల ప్రశాంత్ రెడ్డి, మాజీ మంత్రి జోగు రామన్న, మాజీ ఎమ్మెల్యేలు బాల్క సుమన్, అనిల్ జాదవ్ తదితరులు మంగళవారం పరిశీలించారు. రైతులు, కార్యకర్తలు పెద్ద ఎత్తున వస్తారని భావిస్తున్నట్లు నమస్తే తెలంగాణ కథనం.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/adilabad/nirmal/mla-vemula-visits-nirmal-rythu-garjana-place-along-with-brs-leaders-for-arrangements-2556854",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nirmal",
-   "pts": [
-    "బుధవారం నిర్మల్‌లో బీఆర్ఎస్ రైతు గర్జన",
-    "ముఖ్య అతిథిగా కేటీఆర్",
-    "ఏర్పాట్లు పరిశీలించిన బీఆర్ఎస్ నేతలు"
-   ],
-   "why": "నిర్మల్ జిల్లా రైతులు, సభ రోజున ఆ ప్రాంతంలో ప్రయాణించేవారికి ఈ సమాచారం ఉపయోగపడుతుంది.",
-   "pub": "2026-11-10T17:27+05:30",
-   "en": {
-    "h": "BRS Rythu Garjana in Nirmal tomorrow; leaders inspect arrangements",
-    "p": "The BRS Rythu Garjana meeting will be held at Nirmal district headquarters on Wednesday, November 11, with BRS working president KTR as chief guest. MLA Vemula Prashanth Reddy, former minister Jogu Ramanna, former MLAs Balka Suman and Anil Jadhav and others inspected the arrangements on Tuesday. Farmers and workers are expected in large numbers, Namasthe Telangana reported.",
-    "pts": [
-     "BRS Rythu Garjana in Nirmal on Wednesday",
-     "KTR to be chief guest",
-     "BRS leaders inspect arrangements"
-    ],
-    "why": "The information is useful for Nirmal district farmers and people travelling in the area on the meeting day.",
-    "cat": "Nirmal · Politics",
-    "statl": "Rythu Garjana meeting in Nirmal"
-   },
-   "hi": {
-    "h": "कल निर्मल में बीआरएस रैतु गर्जना: नेताओं ने तैयारियां देखीं",
-    "p": "बीआरएस कार्यकारी अध्यक्ष केटीआर के मुख्य अतिथि के रूप में बुधवार (11 नवंबर) को निर्मल जिला मुख्यालय में रैतु गर्जना सभा होगी। विधायक वेमुला प्रशांत रेड्डी, पूर्व मंत्री जोगु रामन्ना, पूर्व विधायक बाल्का सुमन, अनिल जाधव और अन्य ने मंगलवार को तैयारियों का जायजा लिया। नमस्ते तेलंगाना के अनुसार बड़ी संख्या में किसान और कार्यकर्ता आने की उम्मीद है।",
-    "pts": [
-     "बुधवार को निर्मल में बीआरएस रैतु गर्जना",
-     "केटीआर होंगे मुख्य अतिथि",
-     "बीआरएस नेताओं ने तैयारियां देखीं"
-    ],
-    "why": "यह जानकारी निर्मल जिले के किसानों और सभा के दिन उस इलाके में यात्रा करने वालों के काम की है।",
-    "cat": "निर्मल · राजनीति",
-    "statl": "निर्मल में रैतु गर्जना सभा"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "భద్రాద్రి · ఇసుక",
-   "col": "--c-power",
-   "art": "water",
-   "stat": "365 రోజులు",
-   "statl": "అక్రమ రవాణా జరుగుతోందని ఆరోపణ",
-   "h": "బుడ్డగూడెం కేంద్రంగా కిన్నెరసాని వాగు నుంచి అక్రమ ఇసుక రవాణా: ఆరోపణ",
-   "p": "భద్రాద్రి కొత్తగూడెం జిల్లా బూర్గంపహాడ్ మండలం బుడ్డగూడెం కేంద్రంగా కిన్నెరసాని వాగు నుంచి అక్రమంగా ఇసుక తరలిస్తున్నారని నమస్తే తెలంగాణ కథనం. జేసీబీలు, పదుల సంఖ్యలో ట్రాక్టర్లతో రాత్రింబవళ్లు తవ్వకాలు జరుగుతున్నాయని, అధికార పార్టీ నేతల అండతో ఇద్దరు నడిపిస్తున్నారని ఆరోపణ. సమాచారం ఇచ్చినా పోలీసు, రెవెన్యూ, మైనింగ్ శాఖలు చర్యలు తీసుకోవడం లేదని స్థానికులు ఆరోపిస్తున్నారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/illegal-sand-transportation-centered-at-buddagudem-2556803",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "బుడ్డగూడెం",
-   "pts": [
-    "కిన్నెరసాని వాగులో జేసీబీలతో తవ్వకాలని ఆరోపణ",
-    "రాత్రి 10 నుంచి ఉదయం 6 వరకు రవాణా జరుగుతోందని కథనం",
-    "జిల్లా అధికారులు, టాస్క్‌ఫోర్స్ చర్యలు తీసుకోవాలని స్థానికుల డిమాండ్"
-   ],
-   "why": "వాగుల్లో అక్రమ ఇసుక తవ్వకాలు స్థానిక పర్యావరణం, గ్రామస్థులపై ప్రభావం చూపుతాయి.",
-   "pub": "2026-11-10T16:36+05:30",
-   "en": {
-    "h": "Illegal sand transport from Kinnerasani stream centred at Buddagudem: allegation",
-    "p": "Sand is being illegally transported from the Kinnerasani stream with Buddagudem in Burgampahad mandal, Bhadradri Kothagudem district, as its base, Namasthe Telangana reported. It alleges JCBs and dozens of tractors work day and night and that two people run it with the backing of ruling-party leaders. Locals allege police, revenue and mining departments have not acted despite being informed.",
-    "pts": [
-     "Digging with JCBs in Kinnerasani stream alleged",
-     "Report says transport runs from 10 pm to 6 am",
-     "Locals demand action by district officials and task force"
-    ],
-    "why": "Illegal sand mining in streams affects the local environment and villagers.",
-    "cat": "Bhadradri · Sand",
-    "statl": "Illegal transport alleged all year"
-   },
-   "hi": {
-    "h": "बुड्डागुडेम से किन्नेरसानी नाले की रेत का अवैध परिवहन: आरोप",
-    "p": "नमस्ते तेलंगाना के अनुसार भद्राद्री कोत्तागुडेम जिले के बूर्गमपहाड मंडल के बुड्डागुडेम को केंद्र बनाकर किन्नेरसानी नाले से अवैध रूप से रेत ले जाई जा रही है। आरोप है कि जेसीबी और दर्जनों ट्रैक्टर दिन-रात काम कर रहे हैं और सत्तारूढ़ दल के नेताओं की शह पर दो लोग इसे चला रहे हैं। स्थानीय लोगों का आरोप है कि सूचना देने पर भी पुलिस, राजस्व और खनन विभाग कार्रवाई नहीं कर रहे।",
-    "pts": [
-     "किन्नेरसानी नाले में जेसीबी से खुदाई का आरोप",
-     "रिपोर्ट के अनुसार रात 10 से सुबह 6 बजे तक परिवहन",
-     "स्थानीय लोगों ने जिला अधिकारियों व टास्क फोर्स से कार्रवाई मांगी"
-    ],
-    "why": "नालों में अवैध रेत खनन का असर स्थानीय पर्यावरण और ग्रामीणों पर पड़ता है।",
-    "cat": "भद्राद्री · रेत",
-    "statl": "सालभर अवैध परिवहन का आरोप"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "సిరిసిల్ల · ఆశా వర్కర్లు",
-   "col": "--c-gov",
-   "art": "deadline",
-   "stat": "₹18,000",
-   "statl": "నెల వేతనం డిమాండ్",
-   "h": "వేములవాడలో విప్ ఆది శ్రీనివాస్‌కు ఆశా వర్కర్ల సమ్మె నోటీసు",
-   "p": "సమస్యలు పరిష్కరించాలని కోరుతూ ఆశా వర్కర్లు మంగళవారం వేములవాడలో ప్రభుత్వ విప్ ఆది శ్రీనివాస్ నివాసంలో సమ్మె నోటీసు అందజేశారు. ప్రతి ఆశా వర్కర్‌కు నెలకు ₹18,000 స్థిర వేతనం, ఆరోగ్య, ఉద్యోగ భద్రత కల్పించాలని సీఐటీయూ జిల్లా ప్రధాన కార్యదర్శి రమణ డిమాండ్ చేశారు. డిమాండ్లు నెరవేరకపోతే డిసెంబర్ 15 నుంచి సమ్మె చేస్తామని తెలిపారని నమస్తే తెలంగాణ కథనం.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/karimnagar/strike-notice-to-government-whip-adi-srinivas-demanding-resolution-of-asha-workers-problems-2556829",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "sircilla",
-   "loc": "వేములవాడ",
-   "pts": [
-    "విప్ ఆది శ్రీనివాస్ నివాసంలో సమ్మె నోటీసు",
-    "నెలకు ₹18,000 స్థిర వేతనం డిమాండ్",
-    "డిసెంబర్ 15 నుంచి సమ్మె హెచ్చరిక"
-   ],
-   "why": "ఆశా వర్కర్లు సమ్మెకు దిగితే గ్రామీణ ఆరోగ్య సేవలపై ప్రభావం పడవచ్చు.",
-   "pub": "2026-11-10T16:35+05:30",
-   "en": {
-    "h": "ASHA workers serve strike notice on Whip Adi Srinivas in Vemulawada",
-    "p": "ASHA workers served a strike notice at Government Whip Adi Srinivas's residence in Vemulawada on Tuesday, seeking a solution to their problems. CITU district general secretary Ramana demanded a fixed monthly pay of ₹18,000 for each ASHA worker, plus health and job security. They said they will strike from December 15 if demands are not met, Namasthe Telangana reported.",
-    "pts": [
-     "Strike notice served at Whip Adi Srinivas's residence",
-     "Demand for ₹18,000 fixed monthly pay",
-     "Strike warning from December 15"
-    ],
-    "why": "A strike by ASHA workers could affect rural health services.",
-    "cat": "Sircilla · ASHA workers",
-    "statl": "Monthly pay demanded"
-   },
-   "hi": {
-    "h": "वेमुलवाडा में व्हिप आदि श्रीनिवास को आशा कार्यकर्ताओं का हड़ताल नोटिस",
-    "p": "समस्याओं के समाधान की मांग करते हुए आशा कार्यकर्ताओं ने मंगलवार को वेमुलवाडा में सरकारी व्हिप आदि श्रीनिवास के आवास पर हड़ताल नोटिस सौंपा। सीटू जिला महासचिव रमणा ने हर आशा कार्यकर्ता के लिए ₹18,000 मासिक निश्चित वेतन, स्वास्थ्य और नौकरी सुरक्षा की मांग की। नमस्ते तेलंगाना के अनुसार उन्होंने कहा कि मांगें पूरी न होने पर 15 दिसंबर से हड़ताल करेंगे।",
-    "pts": [
-     "व्हिप आदि श्रीनिवास के आवास पर हड़ताल नोटिस",
-     "₹18,000 मासिक निश्चित वेतन की मांग",
-     "15 दिसंबर से हड़ताल की चेतावनी"
-    ],
-    "why": "आशा कार्यकर्ताओं की हड़ताल से ग्रामीण स्वास्थ्य सेवाओं पर असर पड़ सकता है।",
-    "cat": "सिरिसिल्ला · आशा कार्यकर्ता",
-    "statl": "मासिक वेतन की मांग"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "పెద్దపల్లి · పోలీసు",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "10",
-   "statl": "స్వాధీనం చేసుకున్న బైకులు",
-   "h": "ధర్మారంలో అంతర్ జిల్లా బైక్ దొంగ అరెస్టు: 10 బైకులు స్వాధీనం",
-   "p": "జిల్లాల మధ్య బైకులు చోరీ చేస్తున్న జగిత్యాల జిల్లా కోరుట్లకు చెందిన ఒక వ్యక్తిని అరెస్టు చేసినట్లు పెద్దపల్లి ఏసీపీ గజ్జి కృష్ణ మంగళవారం ధర్మారం పోలీస్ స్టేషన్‌లో తెలిపారు. నంది మేడారం గ్రామస్థుడి ఫిర్యాదుతో దర్యాప్తు చేసి జక్కాపల్లి సమీపంలో పట్టుకున్నామని, సుమారు 10 బైకులు స్వాధీనం చేసుకున్నామని పోలీసుల ప్రకారం. నిందితుడిని రిమాండ్‌కు తరలించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/karimnagar/an-inter-district-thief-who-stole-bikes-was-arrested-peddapalli-acp-gaji-krishna-disclosed-the-details-2556800",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "peddapalli",
-   "loc": "ధర్మారం",
-   "pts": [
-    "నంది మేడారం గ్రామస్థుడి ఫిర్యాదుతో దర్యాప్తు",
-    "సుమారు 10 బైకులు స్వాధీనం: పోలీసులు",
-    "నిందితుడు రిమాండ్‌కు"
-   ],
-   "why": "పెద్దపల్లి, కరీంనగర్, జగిత్యాల ప్రాంతాల్లో బైకులు పోగొట్టుకున్నవారికి ఈ వార్త సంబంధించినది.",
-   "pub": "2026-11-10T16:03+05:30",
-   "en": {
-    "h": "Inter-district bike thief arrested in Dharmaram; 10 bikes seized",
-    "p": "Peddapalli ACP Gajji Krishna said at Dharmaram police station on Tuesday that a man from Koratla in Jagtial district who stole bikes across districts had been arrested. According to police, he was caught near Jakkapalli after a complaint by a Nandi Medaram villager, and about 10 bikes were seized. The accused was remanded.",
-    "pts": [
-     "Probe after complaint from Nandi Medaram villager",
-     "About 10 bikes seized: police",
-     "Accused remanded"
-    ],
-    "why": "The news concerns people who lost bikes in the Peddapalli, Karimnagar and Jagtial areas.",
-    "cat": "Peddapalli · Police",
-    "statl": "Bikes seized"
-   },
-   "hi": {
-    "h": "धर्मारम में अंतर-जिला बाइक चोर गिरफ्तार: 10 बाइक जब्त",
-    "p": "पेद्दापल्ली एसीपी गज्जी कृष्णा ने मंगलवार को धर्मारम थाने में बताया कि जिलों में बाइक चुराने वाले जगित्याल जिले के कोरुट्ला के एक व्यक्ति को गिरफ्तार किया गया है। पुलिस के अनुसार नंदी मेडारम गांव के एक व्यक्ति की शिकायत पर जांच कर उसे जक्कापल्ली के पास पकड़ा गया और करीब 10 बाइक जब्त की गईं। आरोपी को रिमांड पर भेजा गया।",
-    "pts": [
-     "नंदी मेडारम के ग्रामीण की शिकायत पर जांच",
-     "पुलिस के अनुसार करीब 10 बाइक जब्त",
-     "आरोपी रिमांड पर"
-    ],
-    "why": "यह खबर पेद्दापल्ली, करीमनगर और जगित्याल इलाकों में बाइक गंवाने वालों से जुड़ी है।",
-    "cat": "पेद्दापल्ली · पुलिस",
-    "statl": "जब्त बाइक"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "హనుమకొండ · ఉద్యమకారులు",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "13–15",
-   "statl": "నవంబర్‌లో రెండో విడత యాత్ర",
-   "h": "తెలంగాణ ఉద్యమకారుల ఐక్యవేదిక రెండో విడత యాత్ర 13 నుంచి",
-   "p": "హనుమకొండ కేంద్రంగా నవంబర్ 13, 14, 15 తేదీల్లో రెండో విడత సంతాప యాత్ర నిర్వహిస్తామని తెలంగాణ ఉద్యమకారుల ఐక్యవేదిక రాష్ట్ర ఛైర్మన్ గుడిమళ్ల రవికుమార్ మంగళవారం తెలిపారు. యాత్ర పోస్టర్లను ఆవిష్కరించారు. మరణించిన ఉద్యమకారుల కుటుంబాలకు గుర్తింపు, సాయం అందించాలని, నెలకు ₹25,000 పింఛన్, ఇంటి స్థలాలు ఇవ్వాలని ఆయన డిమాండ్ చేశారని నమస్తే తెలంగాణ కథనం.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/warangal-rural/warangal-city/ravikumar-stated-that-the-movement-centered-in-warangal-served-as-a-guiding-light-for-the-entire-telangana-region-2556823",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hanumakonda",
-   "pts": [
-    "13న ములుగు రోడ్ జంక్షన్ నుంచి మడికొండ వరకు యాత్ర",
-    "ఉద్యమకారుల ఇళ్లకు వెళ్లి కుటుంబ పరిస్థితుల నమోదు",
-    "₹25,000 పింఛన్, ₹25 లక్షల ఆరోగ్య బీమా డిమాండ్"
-   ],
-   "why": "తెలంగాణ ఉద్యమకారుల కుటుంబాల సంక్షేమ డిమాండ్లు మరోసారి చర్చకు వస్తున్నాయి.",
-   "pub": "2026-11-10T16:47+05:30",
-   "en": {
-    "h": "Telangana activists' forum to hold second-phase yatra from November 13",
-    "p": "Telangana Udyamakarula Aikya Vedika state chairman Gudimalla Ravikumar said on Tuesday that a second-phase condolence yatra will be held on November 13, 14 and 15 with Hanumakonda as the centre. Posters for the yatra were released. He demanded recognition and aid for families of activists who died, a ₹25,000 monthly pension and house sites, Namasthe Telangana reported.",
-    "pts": [
-     "Yatra on 13th from Mulugu Road junction to Madikonda",
-     "Volunteers to visit activists' homes and record family conditions",
-     "Demand for ₹25,000 pension, ₹25 lakh health insurance"
-    ],
-    "why": "The welfare demands of Telangana movement activists' families are back in discussion.",
-    "cat": "Hanumakonda · Activists",
-    "statl": "Second-phase yatra in November"
-   },
-   "hi": {
-    "h": "तेलंगाना आंदोलनकारी मंच की दूसरे चरण की यात्रा 13 नवंबर से",
-    "p": "तेलंगाना उद्यमकारुला ऐक्य वेदिका के राज्य अध्यक्ष गुडिमल्ला रविकुमार ने मंगलवार को कहा कि हनुमकोंडा को केंद्र बनाकर 13, 14 और 15 नवंबर को दूसरे चरण की श्रद्धांजलि यात्रा निकाली जाएगी। यात्रा के पोस्टर जारी किए गए। नमस्ते तेलंगाना के अनुसार उन्होंने दिवंगत आंदोलनकारियों के परिवारों को मान्यता और सहायता, ₹25,000 मासिक पेंशन और घर के प्लॉट देने की मांग की।",
-    "pts": [
-     "13 को मुलुगु रोड जंक्शन से मडिकोंडा तक यात्रा",
-     "आंदोलनकारियों के घर जाकर परिवारों की स्थिति दर्ज होगी",
-     "₹25,000 पेंशन, ₹25 लाख स्वास्थ्य बीमा की मांग"
-    ],
-    "why": "तेलंगाना आंदोलनकारियों के परिवारों की कल्याण मांगें फिर चर्चा में हैं।",
-    "cat": "हनुमकोंडा · आंदोलनकारी",
-    "statl": "नवंबर में दूसरे चरण की यात्रा"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
-  },
-  {
-   "cat": "ఆదిలాబాద్ · పంచాయతీ",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "హైకోర్టు",
-   "statl": "ఉత్తర్వులతో తిరిగి బాధ్యతలు",
-   "h": "హైకోర్టు ఉత్తర్వులతో గుండాల(జి) సర్పంచ్‌గా మళ్లీ బాధ్యతలు స్వీకరించిన రాథోడ్ సురేష్",
-   "p": "ఆదిలాబాద్ జిల్లా నార్నూర్ మండలం గుండాల(జి) గ్రామ పంచాయతీ సర్పంచ్‌గా రాథోడ్ సురేష్ మంగళవారం ప్రమాణం చేసి బాధ్యతలు స్వీకరించారు. ఎంపీవో మహేష్ ప్రమాణం చేయించారు. గతంలో సస్పెన్షన్‌కు గురవడంతో ఉప సర్పంచ్ చంద్రకాంత్‌కు బాధ్యతలు అప్పగించారని, సురేష్ హైకోర్టును ఆశ్రయించి ఉత్తర్వులు పొందారని ఎంపీవో తెలిపారు అని నమస్తే తెలంగాణ కథనం.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/adilabad/rathod-suresh-assumes-charge-as-sarpanch-2556750",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "adilabad",
-   "loc": "నార్నూర్",
-   "pts": [
-    "ఎంపీవో మహేష్ ప్రమాణ స్వీకారం చేయించారు",
-    "హైకోర్టు ఉత్తర్వులతో తిరిగి బాధ్యతలు",
-    "చంద్రకాంత్ ఉప సర్పంచ్‌గా కొనసాగుతారు"
-   ],
-   "why": "గుండాల(జి) గ్రామ పాలనా బాధ్యతలపై స్పష్టత వచ్చింది.",
-   "pub": "2026-11-10T15:17+05:30",
-   "en": {
-    "h": "Rathod Suresh resumes charge as Gundala (G) sarpanch after High Court order",
-    "p": "Rathod Suresh took oath and assumed charge as sarpanch of Gundala (G) gram panchayat in Narnoor mandal, Adilabad district, on Tuesday. MPO Mahesh administered the oath. The MPO said duties had gone to deputy sarpanch Chandrakanth after Suresh was suspended earlier, and Suresh had approached the High Court and obtained an order, Namasthe Telangana reported.",
-    "pts": [
-     "MPO Mahesh administered the oath",
-     "Charge resumed after High Court order",
-     "Chandrakanth continues as deputy sarpanch"
-    ],
-    "why": "It brings clarity on who runs Gundala (G) village administration.",
-    "cat": "Adilabad · Panchayat",
-    "statl": "Charge resumed after order"
-   },
-   "hi": {
-    "h": "हाईकोर्ट के आदेश से राठौड़ सुरेश ने फिर संभाला गुंडाला(जी) सरपंच पद",
-    "p": "आदिलाबाद जिले के नार्नूर मंडल की गुंडाला(जी) ग्राम पंचायत के सरपंच के रूप में राठौड़ सुरेश ने मंगलवार को शपथ लेकर कार्यभार संभाला। एमपीओ महेश ने शपथ दिलाई। नमस्ते तेलंगाना के अनुसार एमपीओ ने बताया कि पहले निलंबन के बाद जिम्मेदारी उपसरपंच चंद्रकांत को दी गई थी और सुरेश ने हाईकोर्ट जाकर आदेश हासिल किया।",
-    "pts": [
-     "एमपीओ महेश ने शपथ दिलाई",
-     "हाईकोर्ट के आदेश के बाद फिर कार्यभार",
-     "चंद्रकांत उपसरपंच बने रहेंगे"
-    ],
-    "why": "इससे गुंडाला(जी) गांव के प्रशासन की जिम्मेदारी पर स्पष्टता आई।",
-    "cat": "आदिलाबाद · पंचायत",
-    "statl": "आदेश के बाद फिर कार्यभार"
-   },
-   "d": "10.11.2026",
-   "t": "18:05"
   },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",
