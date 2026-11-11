@@ -1,8 +1,260 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T06:43:14+05:30",
+ "updated": "2026-11-11T07:08:44+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · చెరువులు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "సా. 6",
+   "statl": "తమ్మిడికుంట చెరువు ప్రారంభం",
+   "h": "మాదాపూర్ తమ్మిడికుంట చెరువును నేడు ప్రారంభించనున్న సీఎం రేవంత్",
+   "p": "హైడ్రా పునరుద్ధరించిన మాదాపూర్‌లోని తమ్మిడికుంట చెరువును ముఖ్యమంత్రి రేవంత్ రెడ్డి ఈరోజు సాయంత్రం 6 గంటలకు ప్రారంభించనున్నారు. ఇందుకు హైడ్రా ఏర్పాట్లు పూర్తి చేసింది. సినీ నటుడు అక్కినేని నాగార్జున అతిథిగా హాజరుకానున్నారు. గుడిసెలు కోల్పోయిన వారికి, రామంతాపూర్ పెద్దచెరువు వద్ద 34 మందితో సహా, ఇందిరమ్మ ఇళ్ల పత్రాలను కూడా సీఎం అందజేయనున్నారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-latest-top-news-information-across-telangana-tgs26111100387",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "మాదాపూర్",
+   "pub": "2026-11-11T06:40+05:30",
+   "pts": [
+    "సాయంత్రం 6 గంటలకు చెరువు ప్రారంభం",
+    "అతిథిగా నటుడు అక్కినేని నాగార్జున",
+    "గుడిసెలు కోల్పోయినవారికి ఇందిరమ్మ ఇళ్ల పత్రాలు"
+   ],
+   "why": "హైదరాబాద్‌లో చెరువుల పునరుద్ధరణ, ఇళ్లు కోల్పోయిన కుటుంబాలకు ఇళ్ల పత్రాలు ముఖ్యం.",
+   "en": {
+    "h": "CM Revanth to open restored Thammidikunta lake in Madhapur today",
+    "p": "Chief Minister Revanth Reddy will open the Thammidikunta lake in Madhapur, restored by HYDRAA, at 6 pm today. HYDRAA has completed the arrangements. Actor Akkineni Nagarjuna will attend as a guest. The CM will also hand over Indiramma housing papers to people who lost their huts, including 34 people at Ramanthapur Peddacheruvu.",
+    "pts": [
+     "Lake to be opened at 6 pm",
+     "Actor Akkineni Nagarjuna to attend as guest",
+     "Indiramma housing papers for people who lost huts"
+    ],
+    "why": "Lake restoration in Hyderabad and housing papers for families who lost homes matter to residents.",
+    "cat": "Hyderabad · Lakes",
+    "statl": "Thammidikunta lake opening"
+   },
+   "hi": {
+    "h": "सीएम रेवंत आज माधापुर की तम्मिडिकुंटा झील का उद्घाटन करेंगे",
+    "p": "मुख्यमंत्री रेवंत रेड्डी हाइड्रा द्वारा पुनर्जीवित माधापुर की तम्मिडिकुंटा झील का आज शाम 6 बजे उद्घाटन करेंगे। हाइड्रा ने इसकी तैयारियां पूरी कर ली हैं। अभिनेता अक्किनेनी नागार्जुन अतिथि के रूप में शामिल होंगे। मुख्यमंत्री झोपड़ियां गंवाने वाले लोगों को, जिनमें रामंतापुर पेद्दाचेरुवु के 34 लोग शामिल हैं, इंदिरम्मा आवास के कागज़ भी सौंपेंगे।",
+    "pts": [
+     "शाम 6 बजे झील का उद्घाटन",
+     "अभिनेता अक्किनेनी नागार्जुन अतिथि होंगे",
+     "झोपड़ी गंवाने वालों को इंदिरम्मा आवास के कागज़"
+    ],
+    "why": "हैदराबाद में झीलों का पुनरुद्धार और घर गंवाने वाले परिवारों को आवास कागज़ अहम हैं।",
+    "cat": "हैदराबाद · झीलें",
+    "statl": "तम्मिडिकुंटा झील उद्घाटन"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "31వ",
+   "statl": "సీఐఐ భాగస్వామ్య సదస్సు",
+   "h": "విశాఖలో రేపటి నుంచి సీఐఐ భాగస్వామ్య సదస్సు: అమిత్ షా ప్రారంభం",
+   "p": "రాష్ట్ర ప్రభుత్వం, సీఐఐ కలిసి నిర్వహిస్తున్న 31వ భాగస్వామ్య సదస్సు నవంబర్ 12, 13 తేదీల్లో విశాఖపట్నంలో జరగనుంది. కేంద్ర హోంమంత్రి అమిత్ షా 12న ఆంధ్ర విశ్వవిద్యాలయంలో దీన్ని ప్రారంభిస్తారు. అంతరిక్ష సాంకేతికత, స్వచ్ఛ ఇంధనం, ఏఐ, అధునాతన తయారీ రంగాలపై రాష్ట్రం దృష్టి పెట్టింది. సీఎం చంద్రబాబు స్కైరూట్, అగ్నికుల్ వంటి అంతరిక్ష సంస్థలతో భేటీ కానున్నారని హన్స్ ఇండియా పేర్కొంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/ap-sets-its-sights-on-next-industrial-revolution-1140992",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pub": "2026-11-11T06:42+05:30",
+   "pts": [
+    "నవంబర్ 12, 13 తేదీల్లో విశాఖలో సదస్సు",
+    "ఆంధ్ర విశ్వవిద్యాలయంలో అమిత్ షా ప్రారంభోత్సవం",
+    "ఐదు ప్రాంతీయ సదస్సుల్లో ₹86,000 కోట్ల హామీలు"
+   ],
+   "why": "పెట్టుబడులు వస్తే ఏపీ యువతకు ఉద్యోగాలు, పరిశ్రమల అభివృద్ధికి అవకాశం.",
+   "en": {
+    "h": "CII Partnership Summit in Visakhapatnam from tomorrow; Amit Shah to inaugurate",
+    "p": "The 31st Partnership Summit, organised jointly by the state government and CII, will be held in Visakhapatnam on November 12 and 13. Union Home Minister Amit Shah will inaugurate it at Andhra University on the 12th. The state is focusing on space technology, clean energy, AI and advanced manufacturing. The Hans India said CM Chandrababu Naidu will meet space firms such as Skyroot and Agnikul.",
+    "pts": [
+     "Summit in Visakhapatnam on November 12 and 13",
+     "Amit Shah to inaugurate at Andhra University",
+     "Rs 86,000 crore commitments from five regional meets"
+    ],
+    "why": "Investment could bring jobs for AP youth and industrial growth.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CII Partnership Summit"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम में कल से सीआईआई साझेदारी सम्मेलन: अमित शाह करेंगे उद्घाटन",
+    "p": "राज्य सरकार और सीआईआई द्वारा संयुक्त रूप से आयोजित 31वां साझेदारी सम्मेलन 12 और 13 नवंबर को विशाखापत्तनम में होगा। केंद्रीय गृह मंत्री अमित शाह 12 नवंबर को आंध्र विश्वविद्यालय में इसका उद्घाटन करेंगे। राज्य अंतरिक्ष तकनीक, स्वच्छ ऊर्जा, एआई और उन्नत विनिर्माण पर ध्यान दे रहा है। हंस इंडिया के अनुसार मुख्यमंत्री चंद्रबाबू नायडू स्काईरूट और अग्निकुल जैसी अंतरिक्ष कंपनियों से मिलेंगे।",
+    "pts": [
+     "12 और 13 नवंबर को विशाखापत्तनम में सम्मेलन",
+     "आंध्र विश्वविद्यालय में अमित शाह करेंगे उद्घाटन",
+     "पांच क्षेत्रीय बैठकों में ₹86,000 करोड़ की प्रतिबद्धताएं"
+    ],
+    "why": "निवेश आने से आंध्र प्रदेश के युवाओं को नौकरियां और उद्योगों को बढ़ावा मिल सकता है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सीआईआई साझेदारी सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "659",
+   "statl": "మండల పరిషత్తుల్లో అధ్యక్ష ఎన్నికలు",
+   "h": "ఏపీలో 19న ఎంపీపీ, 20న జడ్పీ ఛైర్‌పర్సన్ ఎన్నికలు",
+   "p": "రాష్ట్రంలోని 659 మండల పరిషత్తుల అధ్యక్ష, ఉపాధ్యక్ష పదవులకు నవంబర్ 19న, 28 జిల్లా పరిషత్తుల ఛైర్‌పర్సన్, వైస్ ఛైర్‌పర్సన్ పదవులకు 20న పరోక్ష ఎన్నికలు జరుగుతాయి. రాష్ట్ర ఎన్నికల కమిషనర్ అనిల్ చంద్ర పునేఠా మంగళవారం నోటిఫికేషన్లు జారీ చేశారు. ఎన్నికైన ఎంపీటీసీ, జడ్పీటీసీ సభ్యులకు నవంబర్ 14లోగా నోటీసులు అందించాలి. ఓటింగ్ చేతులెత్తే పద్ధతిలో జరుగుతుంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/indirect-polls-to-mpp-zpp-chief-posts-1140984",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T06:32+05:30",
+   "pts": [
+    "28 జిల్లా పరిషత్తులకు నవంబర్ 20న ఎన్నిక",
+    "ప్రతి ఎంపీపీకి ఒకరు, జడ్పీకి ఇద్దరు కోఆప్షన్ సభ్యులు",
+    "కోఆప్షన్‌కు తప్ప మిగతా ఓటింగ్‌కు పార్టీ విప్"
+   ],
+   "why": "మండల, జిల్లా పరిషత్తుల నాయకత్వం గ్రామీణ అభివృద్ధి పనులను నిర్ణయిస్తుంది.",
+   "en": {
+    "h": "AP to elect MPP chiefs on Nov 19, ZP chairpersons on Nov 20",
+    "p": "Indirect elections for president and vice-president posts in 659 Mandal Praja Parishads will be held on November 19, and for chairperson and vice-chairperson posts in 28 Zilla Praja Parishads on November 20. State Election Commissioner Anil Chandra Punetha issued the notifications on Tuesday. Notices must reach elected MPTC and ZPTC members by November 14. Voting will be by show of hands.",
+    "pts": [
+     "Election in 28 Zilla Parishads on November 20",
+     "One co-opted member per MPP, two per ZP",
+     "Party whips apply to all votes except co-option"
+    ],
+    "why": "Mandal and district parishad leaders decide rural development works.",
+    "cat": "AP · Local polls",
+    "statl": "Mandal parishads electing chiefs"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 19 को एमपीपी, 20 को जिला परिषद अध्यक्ष चुनाव",
+    "p": "राज्य की 659 मंडल प्रजा परिषदों के अध्यक्ष और उपाध्यक्ष पदों के लिए 19 नवंबर को और 28 जिला प्रजा परिषदों के अध्यक्ष और उपाध्यक्ष पदों के लिए 20 नवंबर को अप्रत्यक्ष चुनाव होंगे। राज्य चुनाव आयुक्त अनिल चंद्र पुनेठा ने मंगलवार को अधिसूचनाएं जारी कीं। निर्वाचित एमपीटीसी और जेडपीटीसी सदस्यों को 14 नवंबर तक नोटिस देने होंगे। मतदान हाथ उठाकर होगा।",
+    "pts": [
+     "28 जिला परिषदों में 20 नवंबर को चुनाव",
+     "हर एमपीपी में एक, हर जिला परिषद में दो सहयोजित सदस्य",
+     "सहयोजन को छोड़ बाकी मतदान पर पार्टी व्हिप लागू"
+    ],
+    "why": "मंडल और जिला परिषद के नेता ग्रामीण विकास कार्य तय करते हैं।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "मंडल परिषदों में अध्यक्ष चुनाव"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,400 కో.",
+   "statl": "పెండింగ్ పారిశ్రామిక ప్రోత్సాహకాలు విడుదల",
+   "h": "₹1,400 కోట్ల పారిశ్రామిక ప్రోత్సాహకాల విడుదలను స్వాగతించిన ఏపీ ఛాంబర్స్",
+   "p": "పెండింగ్‌లో ఉన్న పారిశ్రామిక ప్రోత్సాహకాల కోసం రాష్ట్ర ప్రభుత్వం సుమారు ₹1,400 కోట్లు విడుదల చేయడాన్ని ఏపీ ఛాంబర్స్ స్వాగతించింది. ఇందులో ఆహార శుద్ధి యూనిట్లకు ₹22 కోట్లు ఉన్నాయి. దీనివల్ల సూక్ష్మ, చిన్న, మధ్య తరహా పరిశ్రమలకు ఆర్థిక ఊరట లభిస్తుందని, వర్కింగ్ క్యాపిటల్ మెరుగవుతుందని ఛాంబర్స్ అధ్యక్షుడు పొట్లూరి భాస్కరరావు ఒక ప్రకటనలో తెలిపారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/release-of-industrial-incentives-hailed-1140903",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T01:55+05:30",
+   "pts": [
+    "ఆహార శుద్ధి యూనిట్లకు ₹22 కోట్లు",
+    "ఎంఎస్ఎంఈలకు ఆర్థిక ఊరట: ఏపీ ఛాంబర్స్",
+    "సీఎం చంద్రబాబుకు ఛాంబర్స్ కృతజ్ఞతలు"
+   ],
+   "why": "ప్రోత్సాహకాల కోసం ఎదురుచూస్తున్న ఏపీ చిన్న పరిశ్రమలకు నిధులు అందుతాయి.",
+   "en": {
+    "h": "AP Chambers welcomes release of Rs 1,400 crore industrial incentives",
+    "p": "AP Chambers welcomed the state government's release of about Rs 1,400 crore towards pending industrial incentives. This includes Rs 22 crore for food processing units. Chambers president Potluri Bhaskara Rao said in a statement that the release would give financial relief to micro, small and medium enterprises and improve their working capital.",
+    "pts": [
+     "Rs 22 crore for food processing units",
+     "Financial relief for MSMEs: AP Chambers",
+     "Chambers thanked CM Chandrababu Naidu"
+    ],
+    "why": "Small industries in AP waiting for incentives will receive funds.",
+    "cat": "AP · Industry",
+    "statl": "Pending industrial incentives released"
+   },
+   "hi": {
+    "h": "एपी चैंबर्स ने ₹1,400 करोड़ के औद्योगिक प्रोत्साहन जारी करने का स्वागत किया",
+    "p": "एपी चैंबर्स ने लंबित औद्योगिक प्रोत्साहनों के लिए राज्य सरकार द्वारा लगभग ₹1,400 करोड़ जारी करने का स्वागत किया। इसमें खाद्य प्रसंस्करण इकाइयों के लिए ₹22 करोड़ शामिल हैं। चैंबर्स अध्यक्ष पोट्लूरी भास्कर राव ने एक बयान में कहा कि इससे सूक्ष्म, लघु और मध्यम उद्यमों को आर्थिक राहत मिलेगी और उनकी कार्यशील पूंजी सुधरेगी।",
+    "pts": [
+     "खाद्य प्रसंस्करण इकाइयों के लिए ₹22 करोड़",
+     "एमएसएमई को आर्थिक राहत: एपी चैंबर्स",
+     "चैंबर्स ने मुख्यमंत्री चंद्रबाबू नायडू का आभार जताया"
+    ],
+    "why": "प्रोत्साहन का इंतज़ार कर रहे आंध्र प्रदेश के छोटे उद्योगों को धन मिलेगा।",
+    "cat": "आंध्र प्रदेश · उद्योग",
+    "statl": "लंबित औद्योगिक प्रोत्साहन जारी"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "విజయవాడ · క్రీడలు",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "4",
+   "statl": "జాతీయ జిమ్నాస్టిక్స్‌కు ఎంపికైన విద్యార్థులు",
+   "h": "జాతీయ ఏరోబిక్స్ జిమ్నాస్టిక్స్ పోటీలకు విజయవాడ విద్యార్థులు నలుగురు",
+   "p": "విజయవాడలోని వీరమాచనేని పడయ్య సిద్ధార్థ పబ్లిక్ స్కూల్‌కు చెందిన నలుగురు విద్యార్థులు జాతీయ ఏరోబిక్స్ జిమ్నాస్టిక్స్ ఛాంపియన్‌షిప్ 2026-27కు ఆంధ్రప్రదేశ్ జట్టులో ఎంపికయ్యారు. ఈ పోటీలు నవంబర్ 12 నుంచి 16 వరకు రాజస్థాన్‌లోని జైపూర్‌లో జరుగుతాయి. జట్టు నవంబర్ 11న జైపూర్ బయలుదేరి 18న తిరిగి వస్తుంది. పాఠశాల యాజమాన్యం విద్యార్థులను అభినందించింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/four-vps-students-selected-1140904",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "విజయవాడ",
+   "pub": "2026-11-11T01:57+05:30",
+   "pts": [
+    "నవంబర్ 12–16 తేదీల్లో జైపూర్‌లో పోటీలు",
+    "ఆంధ్రప్రదేశ్ జట్టులో నలుగురు విద్యార్థులు",
+    "ఎన్టీఆర్ జిల్లా జిమ్నాస్టిక్స్ సంఘం ఎంపిక లేఖ"
+   ],
+   "why": "జాతీయ స్థాయిలో రాష్ట్రానికి ప్రాతినిధ్యం వహించే యువ క్రీడాకారులకు ప్రోత్సాహం.",
+   "en": {
+    "h": "Four Vijayawada students selected for national aerobics gymnastics meet",
+    "p": "Four students of Veeramachaneni Paddayya Siddhartha Public School in Vijayawada have been selected for the Andhra Pradesh team at the Aerobics Gymnastics National Championship 2026-27. The event will be held in Jaipur, Rajasthan, from November 12 to 16. The team leaves for Jaipur on November 11 and returns on the 18th. The school management congratulated the students.",
+    "pts": [
+     "Championship in Jaipur from November 12 to 16",
+     "Four students in Andhra Pradesh team",
+     "Selection letter from NTR district gymnastics association"
+    ],
+    "why": "It encourages young athletes representing the state at the national level.",
+    "cat": "Vijayawada · Sports",
+    "statl": "Students picked for national gymnastics"
+   },
+   "hi": {
+    "h": "राष्ट्रीय एरोबिक्स जिम्नास्टिक्स प्रतियोगिता के लिए विजयवाड़ा के चार छात्र चुने गए",
+    "p": "विजयवाड़ा के वीरमाचनेनी पडय्या सिद्धार्थ पब्लिक स्कूल के चार छात्रों को एरोबिक्स जिम्नास्टिक्स राष्ट्रीय चैंपियनशिप 2026-27 के लिए आंध्र प्रदेश टीम में चुना गया है। प्रतियोगिता 12 से 16 नवंबर तक राजस्थान के जयपुर में होगी। टीम 11 नवंबर को जयपुर रवाना होगी और 18 को लौटेगी। स्कूल प्रबंधन ने छात्रों को बधाई दी।",
+    "pts": [
+     "जयपुर में 12 से 16 नवंबर तक चैंपियनशिप",
+     "आंध्र प्रदेश टीम में चार छात्र",
+     "एनटीआर जिला जिम्नास्टिक्स संघ का चयन पत्र"
+    ],
+    "why": "यह राष्ट्रीय स्तर पर राज्य का प्रतिनिधित्व करने वाले युवा खिलाड़ियों को प्रोत्साहन है।",
+    "cat": "विजयवाड़ा · खेल",
+    "statl": "राष्ट्रीय जिम्नास्टिक्स के लिए चुने गए छात्र"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "ఏపీ · వ్యవసాయం",
    "col": "--c-gov",
@@ -2105,408 +2357,6 @@
    },
    "d": "10.11.2026",
    "t": "21:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · బోర్లు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "1 లక్ష",
-   "statl": "రిగ్ వ్యాపారంపై ఆధారపడ్డ కుటుంబాలు (సంఘం ప్రకారం)",
-   "h": "బోరు ఆంక్షల జీఓ 259 సవరించాలి: రిగ్ యజమానుల సంఘం డిమాండ్",
-   "p": "అక్టోబర్ 29న జారీ చేసిన జీఓ 259 పేరుతో హైదరాబాద్‌లో బోరు రిగ్ వాహనాలను హైడ్రా, రెవెన్యూ అధికారులు సీజ్ చేస్తున్నారని తెలంగాణ రిగ్ ఓనర్స్ అసోసియేషన్ ఆరోపించింది. ఉన్న, కొత్త భవనాల్లో నిబంధనల మేరకు బోర్లకు అనుమతించాలని అధ్యక్షుడు ఎం.అంజిరెడ్డి కోరారు. డిమాండ్లు పట్టించుకోకపోతే పనులు పూర్తిగా నిలిపేస్తామని సంఘం హెచ్చరించింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/rig-owners-urge-telangana-government-to-amend-borewell-restrictions",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "జీఓ 2027 జూలై 31 వరకు అమల్లో ఉంటుందని సంఘం",
-    "ఎంఆర్‌ఓ కార్యాలయాల్లో దరఖాస్తులు తిరస్కరిస్తున్నారని ఆరోపణ",
-    "వారంలో సమావేశమై నిర్ణయం తీసుకుంటామన్న సంఘం"
-   ],
-   "why": "బోర్ల మరమ్మతులు, కొత్త బోర్లు కావాల్సిన హైదరాబాద్ ఇళ్లు, రిగ్ కార్మికులపై ఈ వివాదం ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-10T18:31+05:30",
-   "en": {
-    "h": "Amend borewell curbs in GO 259: rig owners' association",
-    "p": "The Telangana Rig Owners Association alleged that HYDRAA and Revenue officials are seizing borewell rig vehicles in Hyderabad citing GO 259, issued on October 29. President M Anji Reddy asked that borewells be allowed in existing and new buildings under rules. The association warned it could stop work entirely if its demands are ignored.",
-    "pts": [
-     "Association says GO is in force till July 31, 2027",
-     "Alleges MRO offices reject applications",
-     "Association to meet within a week"
-    ],
-    "why": "The row affects Hyderabad homes needing borewell repairs or new borewells, and rig workers.",
-    "cat": "Hyderabad · Borewells",
-    "statl": "Families dependent on rigs (per association)"
-   },
-   "hi": {
-    "h": "जीओ 259 के बोरवेल प्रतिबंधों में संशोधन हो: रिग मालिक संघ",
-    "p": "तेलंगाना रिग ओनर्स एसोसिएशन ने आरोप लगाया कि 29 अक्टूबर को जारी जीओ 259 के नाम पर हाइड्रा और राजस्व अधिकारी हैदराबाद में बोरवेल रिग वाहन जब्त कर रहे हैं। अध्यक्ष एम. अंजी रेड्डी ने मौजूदा और नए भवनों में नियमों के तहत बोरवेल की अनुमति मांगी। संघ ने चेतावनी दी कि मांगें न मानी गईं तो काम पूरी तरह बंद होगा।",
-    "pts": [
-     "संघ के अनुसार जीओ 31 जुलाई 2027 तक लागू",
-     "एमआरओ दफ्तरों में आवेदन खारिज होने का आरोप",
-     "संघ एक हफ्ते में बैठक करेगा"
-    ],
-    "why": "यह विवाद बोरवेल मरम्मत या नए बोरवेल चाहने वाले हैदराबाद के घरों और रिग मजदूरों को प्रभावित करता है।",
-    "cat": "हैदराबाद · बोरवेल",
-    "statl": "रिग पर निर्भर परिवार (संघ के अनुसार)"
-   },
-   "d": "10.11.2026",
-   "t": "21:35"
-  },
-  {
-   "cat": "కొత్తగూడెం · కార్మికులు",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "550",
-   "statl": "బోనస్ కోసం ఆందోళనలో కాంట్రాక్ట్ కార్మికులు",
-   "h": "బోనస్ వివాదం: వీకే బొగ్గు గని కాంట్రాక్ట్ కార్మికుల సమ్మె హెచ్చరిక",
-   "p": "కొత్తగూడెంలోని వీకే (వెంకటేశ్‌ఖని) ఓపెన్‌కాస్ట్ గనిలో సుమారు 550 మంది కాంట్రాక్ట్ కార్మికులకు బోనస్, భత్యాలు చెల్లించడం లేదని 11 కార్మిక సంఘాల జేఏసీ ఆరోపిస్తోంది. మస్టర్‌కు ₹120 కావాలని కార్మికులు, ₹65 ఇస్తామని కాంట్రాక్ట్ సంస్థ అంటోంది. చర్చలు విఫలమైతే బుధవారం నుంచి సమ్మె చేస్తామని జేఏసీ హెచ్చరించింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/vk-coal-mine-contract-workers-threaten-strike-over-bonus-dispute",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "కొత్తగూడెం",
-   "pts": [
-    "సుమారు 550 మంది కాంట్రాక్ట్ కార్మికుల బోనస్ డిమాండ్",
-    "కార్మికులు ₹120 అడిగితే సంస్థ ₹65 ఆఫర్",
-    "ఎస్సీసీఎల్ జీఎం కార్యాలయం వద్ద మంగళవారం ధర్నా"
-   ],
-   "why": "సింగరేణి గనుల్లో పనిచేసే కాంట్రాక్ట్ కార్మికుల ఆదాయం, బొగ్గు ఉత్పత్తిపై ఈ వివాదం ప్రభావం చూపవచ్చు.",
-   "pub": "2026-11-10T20:36+05:30",
-   "en": {
-    "h": "Bonus row: VK coal mine contract workers threaten strike",
-    "p": "A JAC of 11 trade unions alleges that about 550 contract workers at the VK (Venkateshkhani) opencast mine in Kothagudem are not being paid bonus and allowances. Workers want ₹120 per muster while the contracting firm offers ₹65. The JAC warned it would strike from Wednesday if talks fail.",
-    "pts": [
-     "About 550 contract workers demand bonus",
-     "Workers seek ₹120, firm offers ₹65",
-     "Dharna at SCCL GM office on Tuesday"
-    ],
-    "why": "The dispute may affect the income of contract workers in Singareni mines and coal output.",
-    "cat": "Kothagudem · Workers",
-    "statl": "Contract workers agitating for bonus"
-   },
-   "hi": {
-    "h": "बोनस विवाद: वीके कोयला खदान के ठेका मजदूरों ने हड़ताल की चेतावनी दी",
-    "p": "11 मजदूर संगठनों की जेएसी का आरोप है कि कोत्तागुडेम की वीके (वेंकटेशखनी) ओपनकास्ट खदान में करीब 550 ठेका मजदूरों को बोनस और भत्ते नहीं दिए जा रहे। मजदूर प्रति मस्टर ₹120 चाहते हैं, जबकि ठेका कंपनी ₹65 दे रही है। जेएसी ने कहा कि बातचीत विफल हुई तो बुधवार से हड़ताल होगी।",
-    "pts": [
-     "करीब 550 ठेका मजदूरों की बोनस मांग",
-     "मजदूर ₹120 मांग रहे, कंपनी ₹65 दे रही",
-     "मंगलवार को एससीसीएल जीएम दफ्तर पर धरना"
-    ],
-    "why": "यह विवाद सिंगरेणी खदानों के ठेका मजदूरों की आय और कोयला उत्पादन पर असर डाल सकता है।",
-    "cat": "कोत्तागुडेम · मजदूर",
-    "statl": "बोनस के लिए आंदोलन कर रहे ठेका मजदूर"
-   },
-   "d": "10.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఉద్యోగాలు",
-   "col": "--c-election",
-   "art": "campus",
-   "stat": "15 రోజులు",
-   "statl": "టీజీపీఎస్సీ రాతపూర్వక జవాబుకు గడువు",
-   "h": "గ్రూప్-1 పరీక్షపై న్యాయ విచారణ, ఫోరెన్సిక్ ఆడిట్ కోరిన బీఆర్‌ఎస్",
-   "p": "గ్రూప్-1 మెయిన్స్, మూల్యాంకనంలో అక్రమాలు జరిగాయని ఆరోపిస్తూ ఎమ్మెల్సీ దాసోజు శ్రవణ్ నేతృత్వంలో బీఆర్‌ఎస్ బృందం, అభ్యర్థులు మంగళవారం టీజీపీఎస్సీ చైర్మన్‌కు వినతిపత్రం ఇచ్చారు. హైకోర్టు జడ్జి నేతృత్వంలో 90 రోజుల్లో విచారణ జరపాలని, 15 రోజుల్లో జవాబు ఇవ్వాలని కోరారు. టీజీపీఎస్సీ స్పందన కథనంలో లేదు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/brs-seeks-judicial-inquiry-forensic-audit-into-group-i-examination",
-   "sec": [
-    "telangana",
-    "jobs",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "563 పోస్టులన్నింటిపై విచారణ కోరిన బీఆర్‌ఎస్",
-    "112 మంది శిక్షణ డీఎస్పీల్లో 40 మందికి పైగా ఫెయిల్ అని ఆరోపణ",
-    "జవాబు పత్రాలు, సీసీటీవీ రికార్డులు భద్రపరచాలని డిమాండ్"
-   ],
-   "why": "గ్రూప్-1 అభ్యర్థులు, ఎంపికైన అధికారుల భవిష్యత్తుపై ఈ డిమాండ్ ప్రభావం చూపే అవకాశం ఉంది.",
-   "pub": "2026-11-10T19:57+05:30",
-   "en": {
-    "h": "BRS seeks judicial inquiry, forensic audit into Group-I exam",
-    "p": "Alleging irregularities in the Group-I mains and evaluation, a BRS team led by MLC Dasoju Sravan, along with aspirants, gave a representation to the TGPSC Chairman on Tuesday. They sought an inquiry led by a High Court judge within 90 days and a reply within 15 days. The article carries no TGPSC response.",
-    "pts": [
-     "BRS seeks inquiry covering all 563 posts",
-     "Alleges over 40 of 112 trainee DSPs failed",
-     "Demands preservation of answer scripts, CCTV records"
-    ],
-    "why": "The demand could affect the future of Group-I aspirants and selected officers.",
-    "cat": "Telangana · Jobs",
-    "statl": "Deadline for TGPSC written reply"
-   },
-   "hi": {
-    "h": "बीआरएस ने ग्रुप-1 परीक्षा की न्यायिक जांच, फॉरेंसिक ऑडिट मांगा",
-    "p": "ग्रुप-1 मेन्स और मूल्यांकन में अनियमितताओं का आरोप लगाते हुए एमएलसी दासोजु श्रवण के नेतृत्व में बीआरएस दल और अभ्यर्थियों ने मंगलवार को टीजीपीएससी अध्यक्ष को ज्ञापन दिया। उन्होंने हाईकोर्ट जज की अगुवाई में 90 दिन में जांच और 15 दिन में जवाब मांगा। खबर में टीजीपीएससी का जवाब नहीं है।",
-    "pts": [
-     "बीआरएस ने सभी 563 पदों की जांच मांगी",
-     "आरोप: 112 प्रशिक्षु डीएसपी में 40 से ज्यादा फेल",
-     "उत्तर पुस्तिकाएं, सीसीटीवी रिकॉर्ड सुरक्षित रखने की मांग"
-    ],
-    "why": "यह मांग ग्रुप-1 अभ्यर्थियों और चयनित अधिकारियों के भविष्य पर असर डाल सकती है।",
-    "cat": "तेलंगाना · नौकरियां",
-    "statl": "टीजीपीएससी के लिखित जवाब की समय-सीमा"
-   },
-   "d": "10.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "సంగారెడ్డి · నేరాలు",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "కేసు నమోదు",
-   "statl": "కంగ్టి పోలీసుల దర్యాప్తు",
-   "h": "సంగారెడ్డి జిల్లాలో మంచంపై కాలిన స్థితిలో వ్యక్తి మృతదేహం: అనుమానాస్పద మృతి",
-   "p": "సంగారెడ్డి జిల్లా కంగ్టి మండలం దేగుల్‌వాడిలో 40 ఏళ్ల వ్యక్తి మంగళవారం ఉదయం తన ఇంట్లో మంచంపై కాలిన స్థితిలో మృతి చెంది కనిపించారు. ఎవరో హత్య చేసి ప్రమాదంగా చిత్రీకరిస్తున్నారని కుటుంబ సభ్యులు ఆరోపిస్తున్నారు. కంగ్టి పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. మృతికి కారణం ఇంకా తేలలేదు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/man-found-charred-in-bed-under-suspicious-circumstances-in-sangareddy",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "loc": "దేగుల్‌వాడి",
-   "pts": [
-    "కంగ్టి మండలంలో అనుమానాస్పద స్థితిలో మృతి",
-    "హత్య అని కుటుంబ సభ్యుల ఆరోపణ",
-    "నారాయణఖేడ్ ఆసుపత్రికి పోస్టుమార్టం కోసం తరలింపు"
-   ],
-   "why": "మృతికి కారణం పోలీసుల దర్యాప్తు, పోస్టుమార్టం నివేదికతోనే తేలనుంది.",
-   "pub": "2026-11-10T19:51+05:30",
-   "en": {
-    "h": "Man found charred on bed in Sangareddy district: suspicious death",
-    "p": "A 40-year-old man was found dead and charred on his bed at his house in Degulwadi, Kangti mandal, Sangareddy district, on Tuesday morning. His family alleges that someone killed him and is trying to pass it off as an accident. Kangti police have registered a case and are investigating. The cause of death is not yet known.",
-    "pts": [
-     "Suspicious death in Kangti mandal",
-     "Family alleges murder",
-     "Body sent to Narayankhed hospital for postmortem"
-    ],
-    "why": "The cause of death will be known only from the police probe and postmortem report.",
-    "cat": "Sangareddy · Crime",
-    "statl": "Kangti police investigating"
-   },
-   "hi": {
-    "h": "संगारेड्डी जिले में बिस्तर पर जली हालत में मिला शव: संदिग्ध मौत",
-    "p": "संगारेड्डी जिले के कंगटी मंडल के देगुलवाड़ी में मंगलवार सुबह 40 वर्षीय व्यक्ति अपने घर में बिस्तर पर जली हालत में मृत मिला। परिवार का आरोप है कि किसी ने उसकी हत्या कर इसे हादसा दिखाने की कोशिश की है। कंगटी पुलिस ने मामला दर्ज कर जांच शुरू की है। मौत का कारण अभी पता नहीं है।",
-    "pts": [
-     "कंगटी मंडल में संदिग्ध हालात में मौत",
-     "परिवार ने हत्या का आरोप लगाया",
-     "पोस्टमार्टम के लिए शव नारायणखेड़ अस्पताल भेजा गया"
-    ],
-    "why": "मौत का कारण पुलिस जांच और पोस्टमार्टम रिपोर्ट से ही पता चलेगा।",
-    "cat": "संगारेड्डी · अपराध",
-    "statl": "कंगटी पुलिस की जांच"
-   },
-   "d": "10.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "ఏపీ · ప్రభుత్వం",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "1996",
-   "statl": "బ్యాచ్ ఐపీఎస్ అధికారి సస్పెన్షన్ పొడిగింపు",
-   "h": "సీనియర్ ఐపీఎస్ అధికారి సస్పెన్షన్‌ను పొడిగించిన ఏపీ ప్రభుత్వం",
-   "p": "1996 బ్యాచ్ ఐపీఎస్ అధికారిపై క్రిమినల్ కేసులు ముగిసే వరకు లేదా ఆయన పదవీ విరమణ వరకు సస్పెన్షన్ కొనసాగిస్తూ ఏపీ ప్రభుత్వం మంగళవారం ఉత్తర్వులిచ్చింది. అగ్నిమాపక శాఖ డీజీగా ఉన్నప్పుడు ఎన్‌ఓసీ పోర్టల్‌లో నిధుల దుర్వినియోగం జరిగిందన్న ఆరోపణలపై 2024 డిసెంబర్‌లో ఆయన సస్పెండ్ అయ్యారు. ఏసీబీ దర్యాప్తు కొనసాగుతోందని పీటీఐ తెలిపింది.",
-   "src": "Telangana Today (PTI)",
-   "url": "https://telanganatoday.com/andhra-pradesh-extends-ips-officer-n-sanjays-suspension",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "నవంబర్ 6న సమీక్ష కమిటీ సిఫారసు",
-    "2024 డిసెంబర్ 24న ఏసీబీ కేసు నమోదు",
-    "ఆధారాలు తారుమారు చేసే అవకాశం ఉందని జీవో"
-   ],
-   "why": "అవినీతి ఆరోపణలున్న అధికారులపై ప్రభుత్వ చర్యలను ఈ నిర్ణయం సూచిస్తోంది.",
-   "pub": "2026-11-10T20:29+05:30",
-   "en": {
-    "h": "Andhra Pradesh extends suspension of senior IPS officer",
-    "p": "The Andhra Pradesh government on Tuesday ordered that the suspension of a 1996-batch IPS officer continue until his criminal cases end or he retires. He was suspended in December 2024 over alleged misappropriation in the NoC portal while he was DG of Fire Services. PTI said the ACB investigation is continuing.",
-    "pts": [
-     "Review committee recommended it on November 6",
-     "ACB case registered on December 24, 2024",
-     "GO says he could tamper with evidence"
-    ],
-    "why": "The decision shows government action against officers facing corruption allegations.",
-    "cat": "AP · Government",
-    "statl": "Batch IPS officer's suspension extended"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश ने वरिष्ठ आईपीएस अधिकारी का निलंबन बढ़ाया",
-    "p": "आंध्र प्रदेश सरकार ने मंगलवार को आदेश दिया कि 1996 बैच के एक आईपीएस अधिकारी का निलंबन उनके आपराधिक मामले खत्म होने या सेवानिवृत्ति तक जारी रहेगा। अग्निशमन सेवा के डीजी रहते एनओसी पोर्टल में कथित गड़बड़ी के आरोप में उन्हें दिसंबर 2024 में निलंबित किया गया था। पीटीआई के मुताबिक एसीबी जांच जारी है।",
-    "pts": [
-     "समीक्षा समिति ने 6 नवंबर को सिफारिश की",
-     "24 दिसंबर 2024 को एसीबी केस दर्ज",
-     "जीओ: सबूतों से छेड़छाड़ की आशंका"
-    ],
-    "why": "यह फैसला भ्रष्टाचार के आरोपों वाले अधिकारियों पर सरकारी कार्रवाई दिखाता है।",
-    "cat": "आंध्र प्रदेश · सरकार",
-    "statl": "बैच के आईपीएस अधिकारी का निलंबन बढ़ा"
-   },
-   "d": "10.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "తెలంగాణ · పరిశ్రమలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "51,005",
-   "statl": "2025-26లో టీజీ-ఐపాస్ ద్వారా ఉద్యోగాలు",
-   "h": "టీజీ-ఐపాస్ పరిశ్రమల ఉద్యోగాలు కరోనా కాలం స్థాయి కంటే తక్కువ: టీటీ విశ్లేషణ",
-   "p": "టీజీ-ఐపాస్ గణాంకాల ప్రకారం 2024-25లో ప్రభుత్వ సహకారంతో వచ్చిన పరిశ్రమల ఉద్యోగాలు 38.5% తగ్గి 49,523కు, పెట్టుబడులు 52.5% తగ్గి ₹11,719.90 కోట్లకు చేరాయని తెలంగాణ టుడే విశ్లేషణ తెలిపింది. 2025-26లో ఉద్యోగాలు 3% పెరిగి 51,005 అయినా, 2019-20లోని 59,261 కంటే తక్కువే. ప్రభుత్వ స్పందన కథనంలో లేదు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telanganas-industrial-growth-under-congress-trails-pandemic-era-levels",
-   "sec": [
-    "telangana",
-    "business",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "2025-26లో పెట్టుబడులు ₹10,236.76 కోట్లు",
-    "2021-22లో 88,110 ఉద్యోగాలు వచ్చాయి",
-    "1,146 ప్రతిపాదనలు ఇంకా పెండింగ్‌లో"
-   ],
-   "why": "రాష్ట్రంలో కొత్త పరిశ్రమలు, ఉద్యోగ అవకాశాల తీరును ఈ గణాంకాలు చూపుతున్నాయి.",
-   "pub": "2026-11-10T17:20+05:30",
-   "en": {
-    "h": "TG-iPASS industry jobs below pandemic-era levels: Telangana Today analysis",
-    "p": "Citing TG-iPASS data, a Telangana Today analysis said jobs from government-facilitated industries fell 38.5% to 49,523 in 2024-25 and investments fell 52.5% to ₹11,719.90 crore. In 2025-26 jobs rose 3% to 51,005, still below 59,261 in 2019-20. The article carries no government response.",
-    "pts": [
-     "2025-26 investments at ₹10,236.76 crore",
-     "88,110 jobs came in 2021-22",
-     "1,146 proposals still pending"
-    ],
-    "why": "The figures show the trend of new industries and job opportunities in the state.",
-    "cat": "Telangana · Industry",
-    "statl": "Jobs via TG-iPASS in 2025-26"
-   },
-   "hi": {
-    "h": "टीजी-आईपास उद्योगों की नौकरियां महामारी काल से भी कम: तेलंगाना टुडे विश्लेषण",
-    "p": "टीजी-आईपास आंकड़ों के हवाले से तेलंगाना टुडे के विश्लेषण में कहा गया कि 2024-25 में सरकारी सहायता से आए उद्योगों की नौकरियां 38.5% घटकर 49,523 और निवेश 52.5% घटकर ₹11,719.90 करोड़ रह गया। 2025-26 में नौकरियां 3% बढ़कर 51,005 हुईं, जो 2019-20 के 59,261 से कम हैं। खबर में सरकार का जवाब नहीं है।",
-    "pts": [
-     "2025-26 में निवेश ₹10,236.76 करोड़",
-     "2021-22 में 88,110 नौकरियां आईं",
-     "1,146 प्रस्ताव अब भी लंबित"
-    ],
-    "why": "ये आंकड़े राज्य में नए उद्योगों और रोजगार के रुझान को दिखाते हैं।",
-    "cat": "तेलंगाना · उद्योग",
-    "statl": "2025-26 में टीजी-आईपास से नौकरियां"
-   },
-   "d": "10.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "రంగారెడ్డి · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "6 నెలలు",
-   "statl": "కలెక్టర్‌కు జైలు శిక్ష (4 వారాలు నిలుపుదల)",
-   "h": "కోర్టు ధిక్కారం: రంగారెడ్డి కలెక్టర్‌కు 6 నెలల జైలు శిక్ష విధించిన హైకోర్టు",
-   "p": "కోర్టు ఉత్తర్వులను ఉద్దేశపూర్వకంగా పాటించలేదన్న ధిక్కార కేసులో రంగారెడ్డి జిల్లా కలెక్టర్ సి. నారాయణ రెడ్డికి తెలంగాణ హైకోర్టు జస్టిస్ కె. లక్ష్మణ్ ఆరు నెలల జైలు శిక్ష, ₹2,000 జరిమానా విధించారు. అప్పీల్‌కు వీలుగా శిక్షను నాలుగు వారాలు నిలిపివేశారు. తుర్కయాంజాల్‌లోని ప్లాట్లపై 60 రోజుల్లో నిర్ణయం చెప్పాలన్న 2025 ఆదేశాన్ని పాటించలేదని దంపతులు పిటిషన్ వేశారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-hc-sentences-rangareddy-collector-to-6-months-in-jail-3572994/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "rangareddy",
-   "loc": "తుర్కయాంజాల్",
-   "pts": [
-    "కలెక్టర్‌కు 6 నెలల జైలు, ₹2,000 జరిమానా",
-    "అప్పీల్ కోసం శిక్ష నాలుగు వారాలు నిలుపుదల",
-    "60 రోజుల్లో నిర్ణయం చెప్పాలన్న ఆదేశం అమలు కాలేదు"
-   ],
-   "why": "కోర్టు ఉత్తర్వులను అధికారులు సకాలంలో అమలు చేయాల్సిందేనని ఈ తీర్పు స్పష్టం చేస్తోంది.",
-   "pub": "2026-11-10T12:17+05:30",
-   "en": {
-    "h": "Contempt case: High Court sentences Rangareddy Collector to 6 months in jail",
-    "p": "Telangana High Court judge Justice K Lakshman sentenced Rangareddy district Collector C Narayana Reddy to six months' imprisonment and a fine of ₹2,000 in a contempt case for wilfully not following a court order. The sentence was suspended for four weeks to allow an appeal. A couple had petitioned that a 2025 order to decide on their Turkayamjal plots within 60 days was not followed.",
-    "pts": [
-     "Collector gets 6 months' jail, ₹2,000 fine",
-     "Sentence suspended for four weeks for appeal",
-     "Order to decide within 60 days was not implemented"
-    ],
-    "why": "The ruling makes clear that officials must implement court orders on time.",
-    "cat": "Rangareddy · High Court",
-    "statl": "Jail term for Collector (suspended 4 weeks)"
-   },
-   "hi": {
-    "h": "अवमानना मामला: हाईकोर्ट ने रंगारेड्डी कलेक्टर को 6 महीने जेल की सजा दी",
-    "p": "तेलंगाना हाईकोर्ट के न्यायमूर्ति के. लक्ष्मण ने अदालत के आदेश का जानबूझकर पालन न करने के अवमानना मामले में रंगारेड्डी जिला कलेक्टर सी. नारायण रेड्डी को छह महीने की जेल और ₹2,000 जुर्माने की सजा सुनाई। अपील के लिए सजा चार हफ्ते के लिए स्थगित की गई। एक दंपती ने याचिका दी थी कि तुर्कयांजल के उनके प्लॉटों पर 60 दिन में फैसला लेने का 2025 का आदेश नहीं माना गया।",
-    "pts": [
-     "कलेक्टर को 6 महीने जेल, ₹2,000 जुर्माना",
-     "अपील के लिए सजा चार हफ्ते स्थगित",
-     "60 दिन में फैसले का आदेश लागू नहीं हुआ"
-    ],
-    "why": "यह फैसला साफ करता है कि अधिकारियों को अदालत के आदेश समय पर लागू करने होंगे।",
-    "cat": "रंगारेड्डी · हाईकोर्ट",
-    "statl": "कलेक्टर को जेल (4 हफ्ते स्थगित)"
-   },
-   "d": "10.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "బస్తర్",
-   "statl": "రాహుల్ వ్యాఖ్యలపై బీజేపీ విమర్శ",
-   "h": "బస్తర్ వ్యాఖ్యలపై రాహుల్ గాంధీని విమర్శించిన టీబీజేపీ చీఫ్ రాంచందర్ రావు",
-   "p": "బస్తర్‌లో ప్రధాని మోదీ ప్రసంగంపై బహిరంగ చర్చకు రావాలన్న రాహుల్ గాంధీ డిమాండ్‌పై తెలంగాణ బీజేపీ అధ్యక్షుడు ఎన్. రాంచందర్ రావు మంగళవారం స్పందించారు. నక్సల్ దాడులు, భద్రతా దళాలపై హింసను రాహుల్ ఖండించడం లేదని ఆయన ఆరోపించారు. జాతీయ భద్రతపై పార్లమెంటులో చర్చించాలని సవాల్ చేశారు. కాంగ్రెస్ స్పందన కథనంలో లేదని సియాసత్ పేర్కొంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-bjp-chief-targets-rahul-gandhi-over-bastar-remarks-3573235/",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "మోదీతో బహిరంగ చర్చకు రాహుల్ డిమాండ్",
-    "నక్సల్ హింసను ఖండించలేదని రాంచందర్ రావు ఆరోపణ",
-    "జాతీయ భద్రతపై పార్లమెంటులో చర్చకు సవాల్"
-   ],
-   "why": "భారత్ సమ్మిట్‌కు ముందు రాష్ట్రంలో కాంగ్రెస్, బీజేపీ మధ్య మాటల యుద్ధం పెరుగుతోంది.",
-   "pub": "2026-11-10T15:52+05:30",
-   "en": {
-    "h": "Telangana BJP chief Ramchander Rao criticises Rahul Gandhi over Bastar remarks",
-    "p": "Telangana BJP president N Ramchander Rao on Tuesday responded to Rahul Gandhi's demand for an open debate on PM Modi's speech in Bastar. He alleged that Rahul does not condemn Naxal attacks and violence against security forces. He challenged him to discuss national security in Parliament. Siasat said the article carries no Congress response.",
-    "pts": [
-     "Rahul demands open debate with Modi",
-     "Ramchander Rao alleges Naxal violence not condemned",
-     "Challenge to debate national security in Parliament"
-    ],
-    "why": "The war of words between Congress and BJP in the state is rising ahead of the Bharat Summit.",
-    "cat": "Telangana · Politics",
-    "statl": "BJP criticises Rahul's remarks"
-   },
-   "hi": {
-    "h": "बस्तर टिप्पणी पर तेलंगाना भाजपा प्रमुख रामचंदर राव ने राहुल गांधी की आलोचना की",
-    "p": "बस्तर में प्रधानमंत्री मोदी के भाषण पर खुली बहस की राहुल गांधी की मांग पर तेलंगाना भाजपा अध्यक्ष एन. रामचंदर राव ने मंगलवार को प्रतिक्रिया दी। उन्होंने आरोप लगाया कि राहुल नक्सली हमलों और सुरक्षा बलों पर हिंसा की निंदा नहीं करते। उन्होंने राष्ट्रीय सुरक्षा पर संसद में चर्चा की चुनौती दी। सियासत के अनुसार लेख में कांग्रेस की प्रतिक्रिया नहीं है।",
-    "pts": [
-     "राहुल ने मोदी से खुली बहस की मांग की",
-     "रामचंदर राव का आरोप: नक्सली हिंसा की निंदा नहीं",
-     "राष्ट्रीय सुरक्षा पर संसद में चर्चा की चुनौती"
-    ],
-    "why": "भारत समिट से पहले राज्य में कांग्रेस और भाजपा के बीच जुबानी जंग तेज हो रही है।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "राहुल की टिप्पणी पर भाजपा का हमला"
-   },
-   "d": "10.11.2026",
-   "t": "20:35"
   },
   {
    "cat": "మోసం ఆరోపణ · సిద్దిపేట",

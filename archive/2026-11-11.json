@@ -1,8 +1,260 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 23,
+ "count": 28,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · చెరువులు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "సా. 6",
+   "statl": "తమ్మిడికుంట చెరువు ప్రారంభం",
+   "h": "మాదాపూర్ తమ్మిడికుంట చెరువును నేడు ప్రారంభించనున్న సీఎం రేవంత్",
+   "p": "హైడ్రా పునరుద్ధరించిన మాదాపూర్‌లోని తమ్మిడికుంట చెరువును ముఖ్యమంత్రి రేవంత్ రెడ్డి ఈరోజు సాయంత్రం 6 గంటలకు ప్రారంభించనున్నారు. ఇందుకు హైడ్రా ఏర్పాట్లు పూర్తి చేసింది. సినీ నటుడు అక్కినేని నాగార్జున అతిథిగా హాజరుకానున్నారు. గుడిసెలు కోల్పోయిన వారికి, రామంతాపూర్ పెద్దచెరువు వద్ద 34 మందితో సహా, ఇందిరమ్మ ఇళ్ల పత్రాలను కూడా సీఎం అందజేయనున్నారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--11th-november-2026-latest-top-news-information-across-telangana-tgs26111100387",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "మాదాపూర్",
+   "pub": "2026-11-11T06:40+05:30",
+   "pts": [
+    "సాయంత్రం 6 గంటలకు చెరువు ప్రారంభం",
+    "అతిథిగా నటుడు అక్కినేని నాగార్జున",
+    "గుడిసెలు కోల్పోయినవారికి ఇందిరమ్మ ఇళ్ల పత్రాలు"
+   ],
+   "why": "హైదరాబాద్‌లో చెరువుల పునరుద్ధరణ, ఇళ్లు కోల్పోయిన కుటుంబాలకు ఇళ్ల పత్రాలు ముఖ్యం.",
+   "en": {
+    "h": "CM Revanth to open restored Thammidikunta lake in Madhapur today",
+    "p": "Chief Minister Revanth Reddy will open the Thammidikunta lake in Madhapur, restored by HYDRAA, at 6 pm today. HYDRAA has completed the arrangements. Actor Akkineni Nagarjuna will attend as a guest. The CM will also hand over Indiramma housing papers to people who lost their huts, including 34 people at Ramanthapur Peddacheruvu.",
+    "pts": [
+     "Lake to be opened at 6 pm",
+     "Actor Akkineni Nagarjuna to attend as guest",
+     "Indiramma housing papers for people who lost huts"
+    ],
+    "why": "Lake restoration in Hyderabad and housing papers for families who lost homes matter to residents.",
+    "cat": "Hyderabad · Lakes",
+    "statl": "Thammidikunta lake opening"
+   },
+   "hi": {
+    "h": "सीएम रेवंत आज माधापुर की तम्मिडिकुंटा झील का उद्घाटन करेंगे",
+    "p": "मुख्यमंत्री रेवंत रेड्डी हाइड्रा द्वारा पुनर्जीवित माधापुर की तम्मिडिकुंटा झील का आज शाम 6 बजे उद्घाटन करेंगे। हाइड्रा ने इसकी तैयारियां पूरी कर ली हैं। अभिनेता अक्किनेनी नागार्जुन अतिथि के रूप में शामिल होंगे। मुख्यमंत्री झोपड़ियां गंवाने वाले लोगों को, जिनमें रामंतापुर पेद्दाचेरुवु के 34 लोग शामिल हैं, इंदिरम्मा आवास के कागज़ भी सौंपेंगे।",
+    "pts": [
+     "शाम 6 बजे झील का उद्घाटन",
+     "अभिनेता अक्किनेनी नागार्जुन अतिथि होंगे",
+     "झोपड़ी गंवाने वालों को इंदिरम्मा आवास के कागज़"
+    ],
+    "why": "हैदराबाद में झीलों का पुनरुद्धार और घर गंवाने वाले परिवारों को आवास कागज़ अहम हैं।",
+    "cat": "हैदराबाद · झीलें",
+    "statl": "तम्मिडिकुंटा झील उद्घाटन"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "31వ",
+   "statl": "సీఐఐ భాగస్వామ్య సదస్సు",
+   "h": "విశాఖలో రేపటి నుంచి సీఐఐ భాగస్వామ్య సదస్సు: అమిత్ షా ప్రారంభం",
+   "p": "రాష్ట్ర ప్రభుత్వం, సీఐఐ కలిసి నిర్వహిస్తున్న 31వ భాగస్వామ్య సదస్సు నవంబర్ 12, 13 తేదీల్లో విశాఖపట్నంలో జరగనుంది. కేంద్ర హోంమంత్రి అమిత్ షా 12న ఆంధ్ర విశ్వవిద్యాలయంలో దీన్ని ప్రారంభిస్తారు. అంతరిక్ష సాంకేతికత, స్వచ్ఛ ఇంధనం, ఏఐ, అధునాతన తయారీ రంగాలపై రాష్ట్రం దృష్టి పెట్టింది. సీఎం చంద్రబాబు స్కైరూట్, అగ్నికుల్ వంటి అంతరిక్ష సంస్థలతో భేటీ కానున్నారని హన్స్ ఇండియా పేర్కొంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/ap-sets-its-sights-on-next-industrial-revolution-1140992",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pub": "2026-11-11T06:42+05:30",
+   "pts": [
+    "నవంబర్ 12, 13 తేదీల్లో విశాఖలో సదస్సు",
+    "ఆంధ్ర విశ్వవిద్యాలయంలో అమిత్ షా ప్రారంభోత్సవం",
+    "ఐదు ప్రాంతీయ సదస్సుల్లో ₹86,000 కోట్ల హామీలు"
+   ],
+   "why": "పెట్టుబడులు వస్తే ఏపీ యువతకు ఉద్యోగాలు, పరిశ్రమల అభివృద్ధికి అవకాశం.",
+   "en": {
+    "h": "CII Partnership Summit in Visakhapatnam from tomorrow; Amit Shah to inaugurate",
+    "p": "The 31st Partnership Summit, organised jointly by the state government and CII, will be held in Visakhapatnam on November 12 and 13. Union Home Minister Amit Shah will inaugurate it at Andhra University on the 12th. The state is focusing on space technology, clean energy, AI and advanced manufacturing. The Hans India said CM Chandrababu Naidu will meet space firms such as Skyroot and Agnikul.",
+    "pts": [
+     "Summit in Visakhapatnam on November 12 and 13",
+     "Amit Shah to inaugurate at Andhra University",
+     "Rs 86,000 crore commitments from five regional meets"
+    ],
+    "why": "Investment could bring jobs for AP youth and industrial growth.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CII Partnership Summit"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम में कल से सीआईआई साझेदारी सम्मेलन: अमित शाह करेंगे उद्घाटन",
+    "p": "राज्य सरकार और सीआईआई द्वारा संयुक्त रूप से आयोजित 31वां साझेदारी सम्मेलन 12 और 13 नवंबर को विशाखापत्तनम में होगा। केंद्रीय गृह मंत्री अमित शाह 12 नवंबर को आंध्र विश्वविद्यालय में इसका उद्घाटन करेंगे। राज्य अंतरिक्ष तकनीक, स्वच्छ ऊर्जा, एआई और उन्नत विनिर्माण पर ध्यान दे रहा है। हंस इंडिया के अनुसार मुख्यमंत्री चंद्रबाबू नायडू स्काईरूट और अग्निकुल जैसी अंतरिक्ष कंपनियों से मिलेंगे।",
+    "pts": [
+     "12 और 13 नवंबर को विशाखापत्तनम में सम्मेलन",
+     "आंध्र विश्वविद्यालय में अमित शाह करेंगे उद्घाटन",
+     "पांच क्षेत्रीय बैठकों में ₹86,000 करोड़ की प्रतिबद्धताएं"
+    ],
+    "why": "निवेश आने से आंध्र प्रदेश के युवाओं को नौकरियां और उद्योगों को बढ़ावा मिल सकता है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सीआईआई साझेदारी सम्मेलन"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "659",
+   "statl": "మండల పరిషత్తుల్లో అధ్యక్ష ఎన్నికలు",
+   "h": "ఏపీలో 19న ఎంపీపీ, 20న జడ్పీ ఛైర్‌పర్సన్ ఎన్నికలు",
+   "p": "రాష్ట్రంలోని 659 మండల పరిషత్తుల అధ్యక్ష, ఉపాధ్యక్ష పదవులకు నవంబర్ 19న, 28 జిల్లా పరిషత్తుల ఛైర్‌పర్సన్, వైస్ ఛైర్‌పర్సన్ పదవులకు 20న పరోక్ష ఎన్నికలు జరుగుతాయి. రాష్ట్ర ఎన్నికల కమిషనర్ అనిల్ చంద్ర పునేఠా మంగళవారం నోటిఫికేషన్లు జారీ చేశారు. ఎన్నికైన ఎంపీటీసీ, జడ్పీటీసీ సభ్యులకు నవంబర్ 14లోగా నోటీసులు అందించాలి. ఓటింగ్ చేతులెత్తే పద్ధతిలో జరుగుతుంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/indirect-polls-to-mpp-zpp-chief-posts-1140984",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T06:32+05:30",
+   "pts": [
+    "28 జిల్లా పరిషత్తులకు నవంబర్ 20న ఎన్నిక",
+    "ప్రతి ఎంపీపీకి ఒకరు, జడ్పీకి ఇద్దరు కోఆప్షన్ సభ్యులు",
+    "కోఆప్షన్‌కు తప్ప మిగతా ఓటింగ్‌కు పార్టీ విప్"
+   ],
+   "why": "మండల, జిల్లా పరిషత్తుల నాయకత్వం గ్రామీణ అభివృద్ధి పనులను నిర్ణయిస్తుంది.",
+   "en": {
+    "h": "AP to elect MPP chiefs on Nov 19, ZP chairpersons on Nov 20",
+    "p": "Indirect elections for president and vice-president posts in 659 Mandal Praja Parishads will be held on November 19, and for chairperson and vice-chairperson posts in 28 Zilla Praja Parishads on November 20. State Election Commissioner Anil Chandra Punetha issued the notifications on Tuesday. Notices must reach elected MPTC and ZPTC members by November 14. Voting will be by show of hands.",
+    "pts": [
+     "Election in 28 Zilla Parishads on November 20",
+     "One co-opted member per MPP, two per ZP",
+     "Party whips apply to all votes except co-option"
+    ],
+    "why": "Mandal and district parishad leaders decide rural development works.",
+    "cat": "AP · Local polls",
+    "statl": "Mandal parishads electing chiefs"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 19 को एमपीपी, 20 को जिला परिषद अध्यक्ष चुनाव",
+    "p": "राज्य की 659 मंडल प्रजा परिषदों के अध्यक्ष और उपाध्यक्ष पदों के लिए 19 नवंबर को और 28 जिला प्रजा परिषदों के अध्यक्ष और उपाध्यक्ष पदों के लिए 20 नवंबर को अप्रत्यक्ष चुनाव होंगे। राज्य चुनाव आयुक्त अनिल चंद्र पुनेठा ने मंगलवार को अधिसूचनाएं जारी कीं। निर्वाचित एमपीटीसी और जेडपीटीसी सदस्यों को 14 नवंबर तक नोटिस देने होंगे। मतदान हाथ उठाकर होगा।",
+    "pts": [
+     "28 जिला परिषदों में 20 नवंबर को चुनाव",
+     "हर एमपीपी में एक, हर जिला परिषद में दो सहयोजित सदस्य",
+     "सहयोजन को छोड़ बाकी मतदान पर पार्टी व्हिप लागू"
+    ],
+    "why": "मंडल और जिला परिषद के नेता ग्रामीण विकास कार्य तय करते हैं।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "मंडल परिषदों में अध्यक्ष चुनाव"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹1,400 కో.",
+   "statl": "పెండింగ్ పారిశ్రామిక ప్రోత్సాహకాలు విడుదల",
+   "h": "₹1,400 కోట్ల పారిశ్రామిక ప్రోత్సాహకాల విడుదలను స్వాగతించిన ఏపీ ఛాంబర్స్",
+   "p": "పెండింగ్‌లో ఉన్న పారిశ్రామిక ప్రోత్సాహకాల కోసం రాష్ట్ర ప్రభుత్వం సుమారు ₹1,400 కోట్లు విడుదల చేయడాన్ని ఏపీ ఛాంబర్స్ స్వాగతించింది. ఇందులో ఆహార శుద్ధి యూనిట్లకు ₹22 కోట్లు ఉన్నాయి. దీనివల్ల సూక్ష్మ, చిన్న, మధ్య తరహా పరిశ్రమలకు ఆర్థిక ఊరట లభిస్తుందని, వర్కింగ్ క్యాపిటల్ మెరుగవుతుందని ఛాంబర్స్ అధ్యక్షుడు పొట్లూరి భాస్కరరావు ఒక ప్రకటనలో తెలిపారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/release-of-industrial-incentives-hailed-1140903",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-11T01:55+05:30",
+   "pts": [
+    "ఆహార శుద్ధి యూనిట్లకు ₹22 కోట్లు",
+    "ఎంఎస్ఎంఈలకు ఆర్థిక ఊరట: ఏపీ ఛాంబర్స్",
+    "సీఎం చంద్రబాబుకు ఛాంబర్స్ కృతజ్ఞతలు"
+   ],
+   "why": "ప్రోత్సాహకాల కోసం ఎదురుచూస్తున్న ఏపీ చిన్న పరిశ్రమలకు నిధులు అందుతాయి.",
+   "en": {
+    "h": "AP Chambers welcomes release of Rs 1,400 crore industrial incentives",
+    "p": "AP Chambers welcomed the state government's release of about Rs 1,400 crore towards pending industrial incentives. This includes Rs 22 crore for food processing units. Chambers president Potluri Bhaskara Rao said in a statement that the release would give financial relief to micro, small and medium enterprises and improve their working capital.",
+    "pts": [
+     "Rs 22 crore for food processing units",
+     "Financial relief for MSMEs: AP Chambers",
+     "Chambers thanked CM Chandrababu Naidu"
+    ],
+    "why": "Small industries in AP waiting for incentives will receive funds.",
+    "cat": "AP · Industry",
+    "statl": "Pending industrial incentives released"
+   },
+   "hi": {
+    "h": "एपी चैंबर्स ने ₹1,400 करोड़ के औद्योगिक प्रोत्साहन जारी करने का स्वागत किया",
+    "p": "एपी चैंबर्स ने लंबित औद्योगिक प्रोत्साहनों के लिए राज्य सरकार द्वारा लगभग ₹1,400 करोड़ जारी करने का स्वागत किया। इसमें खाद्य प्रसंस्करण इकाइयों के लिए ₹22 करोड़ शामिल हैं। चैंबर्स अध्यक्ष पोट्लूरी भास्कर राव ने एक बयान में कहा कि इससे सूक्ष्म, लघु और मध्यम उद्यमों को आर्थिक राहत मिलेगी और उनकी कार्यशील पूंजी सुधरेगी।",
+    "pts": [
+     "खाद्य प्रसंस्करण इकाइयों के लिए ₹22 करोड़",
+     "एमएसएमई को आर्थिक राहत: एपी चैंबर्स",
+     "चैंबर्स ने मुख्यमंत्री चंद्रबाबू नायडू का आभार जताया"
+    ],
+    "why": "प्रोत्साहन का इंतज़ार कर रहे आंध्र प्रदेश के छोटे उद्योगों को धन मिलेगा।",
+    "cat": "आंध्र प्रदेश · उद्योग",
+    "statl": "लंबित औद्योगिक प्रोत्साहन जारी"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "విజయవాడ · క్రీడలు",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "4",
+   "statl": "జాతీయ జిమ్నాస్టిక్స్‌కు ఎంపికైన విద్యార్థులు",
+   "h": "జాతీయ ఏరోబిక్స్ జిమ్నాస్టిక్స్ పోటీలకు విజయవాడ విద్యార్థులు నలుగురు",
+   "p": "విజయవాడలోని వీరమాచనేని పడయ్య సిద్ధార్థ పబ్లిక్ స్కూల్‌కు చెందిన నలుగురు విద్యార్థులు జాతీయ ఏరోబిక్స్ జిమ్నాస్టిక్స్ ఛాంపియన్‌షిప్ 2026-27కు ఆంధ్రప్రదేశ్ జట్టులో ఎంపికయ్యారు. ఈ పోటీలు నవంబర్ 12 నుంచి 16 వరకు రాజస్థాన్‌లోని జైపూర్‌లో జరుగుతాయి. జట్టు నవంబర్ 11న జైపూర్ బయలుదేరి 18న తిరిగి వస్తుంది. పాఠశాల యాజమాన్యం విద్యార్థులను అభినందించింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/four-vps-students-selected-1140904",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "విజయవాడ",
+   "pub": "2026-11-11T01:57+05:30",
+   "pts": [
+    "నవంబర్ 12–16 తేదీల్లో జైపూర్‌లో పోటీలు",
+    "ఆంధ్రప్రదేశ్ జట్టులో నలుగురు విద్యార్థులు",
+    "ఎన్టీఆర్ జిల్లా జిమ్నాస్టిక్స్ సంఘం ఎంపిక లేఖ"
+   ],
+   "why": "జాతీయ స్థాయిలో రాష్ట్రానికి ప్రాతినిధ్యం వహించే యువ క్రీడాకారులకు ప్రోత్సాహం.",
+   "en": {
+    "h": "Four Vijayawada students selected for national aerobics gymnastics meet",
+    "p": "Four students of Veeramachaneni Paddayya Siddhartha Public School in Vijayawada have been selected for the Andhra Pradesh team at the Aerobics Gymnastics National Championship 2026-27. The event will be held in Jaipur, Rajasthan, from November 12 to 16. The team leaves for Jaipur on November 11 and returns on the 18th. The school management congratulated the students.",
+    "pts": [
+     "Championship in Jaipur from November 12 to 16",
+     "Four students in Andhra Pradesh team",
+     "Selection letter from NTR district gymnastics association"
+    ],
+    "why": "It encourages young athletes representing the state at the national level.",
+    "cat": "Vijayawada · Sports",
+    "statl": "Students picked for national gymnastics"
+   },
+   "hi": {
+    "h": "राष्ट्रीय एरोबिक्स जिम्नास्टिक्स प्रतियोगिता के लिए विजयवाड़ा के चार छात्र चुने गए",
+    "p": "विजयवाड़ा के वीरमाचनेनी पडय्या सिद्धार्थ पब्लिक स्कूल के चार छात्रों को एरोबिक्स जिम्नास्टिक्स राष्ट्रीय चैंपियनशिप 2026-27 के लिए आंध्र प्रदेश टीम में चुना गया है। प्रतियोगिता 12 से 16 नवंबर तक राजस्थान के जयपुर में होगी। टीम 11 नवंबर को जयपुर रवाना होगी और 18 को लौटेगी। स्कूल प्रबंधन ने छात्रों को बधाई दी।",
+    "pts": [
+     "जयपुर में 12 से 16 नवंबर तक चैंपियनशिप",
+     "आंध्र प्रदेश टीम में चार छात्र",
+     "एनटीआर जिला जिम्नास्टिक्स संघ का चयन पत्र"
+    ],
+    "why": "यह राष्ट्रीय स्तर पर राज्य का प्रतिनिधित्व करने वाले युवा खिलाड़ियों को प्रोत्साहन है।",
+    "cat": "विजयवाड़ा · खेल",
+    "statl": "राष्ट्रीय जिम्नास्टिक्स के लिए चुने गए छात्र"
+   },
+   "d": "11.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "ఏపీ · వ్యవసాయం",
    "col": "--c-gov",
