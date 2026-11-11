@@ -1,8 +1,158 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T22:47:15+05:30",
+ "updated": "2026-11-11T23:14:17+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "55 ఏళ్లు",
+   "statl": "ఇంటర్ విధానానికి ముగింపు",
+   "h": "అప్‌డేట్: ఇంటర్ బోర్డు విలీనంపై జేఏసీ, సీపీఐ వ్యతిరేకత",
+   "p": "ఇంటర్మీడియట్ విద్యను పాఠశాల విద్యా శాఖలో విలీనం చేసి వచ్చే విద్యా సంవత్సరం నుంచి 10+2 విధానం తేవాలన్న సీఎం రేవంత్ రెడ్డి నిర్ణయంతో 55 ఏళ్ల ఇంటర్ వ్యవస్థ ముగియనుందని తెలంగాణ టుడే కథనం. పదో తరగతి తర్వాత సుమారు 40% విద్యార్థులు చదువు మానేస్తున్నారని సీఎం చెప్పారు. ఈ నిర్ణయాన్ని ఇంటర్ విద్యా జేఏసీ తీవ్రంగా వ్యతిరేకించగా, భాగస్వాములతో విస్తృత చర్చలు జరపాలని సీపీఐ కోరింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/end-of-a-55-year-era-for-intermediate-education-in-telangana",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నర్సరీ–4 ప్రాథమిక, 5–8 సెకండరీ, 9–12 సీనియర్ సెకండరీ",
+    "విలీనం జరిగితే ఆందోళనలు చేస్తామని జేఏసీ హెచ్చరిక",
+    "ఉద్యోగులకు ఇబ్బంది ఉండదని సీఎం హామీ"
+   ],
+   "why": "రాష్ట్రంలో ఇంటర్ విద్యార్థులు, తల్లిదండ్రులు, లెక్చరర్లు, ఉద్యోగులందరిపై ఈ మార్పు ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T22:59+05:30",
+   "en": {
+    "h": "Update: Intermediate JAC, CPI oppose merger of Inter board",
+    "p": "CM Revanth Reddy's decision to merge intermediate education with the School Education department and bring a 10+2 system from next academic year will end Telangana's 55-year-old intermediate structure, Telangana Today reported. The CM said about 40% of students drop out after Class 10. The Intermediate Education JAC strongly opposed the decision, while the CPI urged wide consultations with stakeholders.",
+    "pts": [
+     "Nursery–4 primary, 5–8 secondary, 9–12 senior secondary",
+     "JAC warns of protests if the merger goes ahead",
+     "CM assures employees will face no difficulties"
+    ],
+    "why": "The change affects intermediate students, parents, lecturers and employees across the state.",
+    "cat": "Telangana · Education",
+    "statl": "End of the Inter system"
+   },
+   "hi": {
+    "h": "अपडेट: इंटर बोर्ड विलय का जेएसी, सीपीआई ने किया विरोध",
+    "p": "तेलंगाना टुडे के अनुसार इंटरमीडिएट शिक्षा को स्कूल शिक्षा विभाग में मिलाकर अगले शैक्षणिक वर्ष से 10+2 प्रणाली लाने के मुख्यमंत्री रेवंत रेड्डी के फैसले से तेलंगाना की 55 साल पुरानी इंटर व्यवस्था खत्म होगी। मुख्यमंत्री ने कहा कि दसवीं के बाद लगभग 40% छात्र पढ़ाई छोड़ देते हैं। इंटरमीडिएट शिक्षा जेएसी ने फैसले का कड़ा विरोध किया, जबकि सीपीआई ने सभी पक्षों से व्यापक चर्चा की मांग की।",
+    "pts": [
+     "नर्सरी–4 प्राथमिक, 5–8 माध्यमिक, 9–12 उच्च माध्यमिक",
+     "विलय हुआ तो आंदोलन की जेएसी की चेतावनी",
+     "कर्मचारियों को दिक्कत नहीं होगी: मुख्यमंत्री"
+    ],
+    "why": "इस बदलाव का असर राज्य के इंटर छात्रों, अभिभावकों, लेक्चररों और कर्मचारियों पर पड़ेगा।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "इंटर व्यवस्था का अंत"
+   },
+   "d": "11.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "తెలంగాణ · సైబర్ భద్రత",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "అలర్ట్",
+   "statl": "నకిలీ ప్రకటనలు, కార్డు మోసాలు",
+   "h": "నకిలీ ఆన్‌లైన్ ప్రకటనలు, కార్డు మోసాలపై టీజీసీఎస్‌బీ హెచ్చరిక",
+   "p": "ఆన్‌లైన్ ప్రకటనల మోసాలు, క్రెడిట్/డెబిట్ కార్డు మోసాలు పెరుగుతున్నాయని తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో (టీజీసీఎస్‌బీ) ప్రజలను హెచ్చరించిందని యూఎన్ఐ కథనం. నవంబర్ సైబర్ అవగాహన ప్రచారంలో భాగంగా ఈ సూచన జారీ చేసింది. ఆన్‌లైన్ షాపింగ్, పండగ డిస్కౌంట్లు, హానికర మొబైల్ యాప్‌లను మోసగాళ్లు వాడుకుంటున్నారని డైరెక్టర్ శిఖా గోయల్ తెలిపారు.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/south-india/crime-telangana-tgcsb-warning/241983",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గత 20–30 రోజుల్లో రెండు కొత్త మోసాల తీరు గుర్తింపు",
+    "సోషల్ మీడియాలో నకిలీ ప్రకటనలు",
+    "డిజిటల్ చెల్లింపుల్లో జాగ్రత్తగా ఉండాలని సూచన"
+   ],
+   "why": "ఆన్‌లైన్‌లో కొనుగోళ్లు చేసే, కార్డులు వాడే ప్రతి ఒక్కరూ జాగ్రత్తగా ఉండాల్సిన అవసరం ఉంది.",
+   "pub": "2026-11-11T17:00+05:30",
+   "en": {
+    "h": "TGCSB warns of fake online ads and card frauds",
+    "p": "The Telangana Cyber Security Bureau (TGCSB) warned the public about a surge in online advertisement frauds and credit/debit card scams, UNI reported. The advisory was issued as part of its November Cyber Awareness Campaign. Director Shikha Goel said fraudsters are exploiting online shopping, festive discounts and malicious mobile apps.",
+    "pts": [
+     "Two new fraud patterns spotted in the last 20–30 days",
+     "Fake ads circulated on social media",
+     "Public urged to be careful with digital payments"
+    ],
+    "why": "Everyone who shops online or uses cards needs to stay alert.",
+    "cat": "Telangana · Cyber Safety",
+    "statl": "Fake ads, card frauds"
+   },
+   "hi": {
+    "h": "फर्जी ऑनलाइन विज्ञापनों और कार्ड धोखाधड़ी पर टीजीसीएसबी की चेतावनी",
+    "p": "यूएनआई के अनुसार तेलंगाना साइबर सुरक्षा ब्यूरो (टीजीसीएसबी) ने ऑनलाइन विज्ञापन धोखाधड़ी और क्रेडिट/डेबिट कार्ड घोटालों में बढ़ोतरी को लेकर लोगों को आगाह किया। यह सलाह नवंबर साइबर जागरूकता अभियान के तहत जारी की गई। निदेशक शिखा गोयल ने कहा कि ठग ऑनलाइन शॉपिंग, त्योहारी छूट और हानिकारक मोबाइल ऐप का फायदा उठा रहे हैं।",
+    "pts": [
+     "पिछले 20–30 दिनों में धोखाधड़ी के दो नए तरीके",
+     "सोशल मीडिया पर फर्जी विज्ञापन",
+     "डिजिटल भुगतान में सावधानी की सलाह"
+    ],
+    "why": "ऑनलाइन खरीदारी करने और कार्ड इस्तेमाल करने वाले हर व्यक्ति को सतर्क रहना होगा।",
+    "cat": "तेलंगाना · साइबर सुरक्षा",
+    "statl": "फर्जी विज्ञापन, कार्ड धोखाधड़ी"
+   },
+   "d": "11.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "WIPO",
+   "statl": "ఏపీతో భాగస్వామ్యానికి ప్రతిపాదన",
+   "h": "ఆవిష్కరణలు, మేధో సంపత్తి హక్కులపై WIPOతో భాగస్వామ్యం కోరిన చంద్రబాబు",
+   "p": "సీఐఐ భాగస్వామ్య సదస్సుకు ముందు విశాఖపట్నంలో ప్రపంచ మేధో సంపత్తి సంస్థ (WIPO) డైరెక్టర్ జనరల్ డారెన్ టాంగ్‌తో సీఎం చంద్రబాబు నాయుడు సమావేశమయ్యారని యూఎన్ఐ కథనం. రాష్ట్రంలో ఆవిష్కరణలు, పరిశోధన, మేధో సంపత్తి హక్కుల ప్రోత్సాహం, సంప్రదాయ ఉత్పత్తులు, స్టార్టప్‌లకు అంతర్జాతీయ గుర్తింపు కోసం భాగస్వామ్యం కోరారు.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/business-economy/business-ap-wipo-cm/242315",
+   "sec": [
+    "telangana",
+    "innovation",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "WIPO–ఆంధ్రప్రదేశ్ అకాడమీ ఏర్పాటు ప్రతిపాదన",
+    "పేటెంట్లు, ట్రేడ్‌మార్కులపై సంయుక్త శిక్షణ కార్యక్రమాలు",
+    "సంస్థాగత సహకారంపై చర్చ"
+   ],
+   "why": "ఏపీ సంప్రదాయ ఉత్పత్తులు, స్టార్టప్‌లకు అంతర్జాతీయ గుర్తింపు, రక్షణ లభించే అవకాశం ఉంది.",
+   "pub": "2026-11-11T19:47+05:30",
+   "en": {
+    "h": "Naidu seeks WIPO partnership on innovation, IP rights",
+    "p": "Ahead of the CII Partnership Summit, CM Chandrababu Naidu met World Intellectual Property Organization (WIPO) Director General Daren Tang in Visakhapatnam, UNI reported. He sought a partnership to promote innovation, research and intellectual property rights in the state and to win international recognition for its traditional products and startups.",
+    "pts": [
+     "Proposal for a WIPO–Andhra Pradesh Academy",
+     "Joint training on patents and trademarks",
+     "Institutional collaboration discussed"
+    ],
+    "why": "AP's traditional products and startups could gain international recognition and protection.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Partnership proposed with AP"
+   },
+   "hi": {
+    "h": "नवाचार, बौद्धिक संपदा अधिकारों पर नायडू ने मांगी WIPO की साझेदारी",
+    "p": "यूएनआई के अनुसार सीआईआई साझेदारी सम्मेलन से पहले मुख्यमंत्री चंद्रबाबू नायडू ने विशाखापत्तनम में विश्व बौद्धिक संपदा संगठन (WIPO) के महानिदेशक डेरेन टैंग से मुलाकात की। उन्होंने राज्य में नवाचार, शोध और बौद्धिक संपदा अधिकारों को बढ़ावा देने तथा पारंपरिक उत्पादों और स्टार्टअप को अंतरराष्ट्रीय पहचान दिलाने के लिए साझेदारी मांगी।",
+    "pts": [
+     "WIPO–आंध्र प्रदेश अकादमी का प्रस्ताव",
+     "पेटेंट और ट्रेडमार्क पर संयुक्त प्रशिक्षण",
+     "संस्थागत सहयोग पर चर्चा"
+    ],
+    "why": "आंध्र के पारंपरिक उत्पादों और स्टार्टअप को अंतरराष्ट्रीय पहचान और सुरक्षा मिल सकती है।",
+    "cat": "आंध्र · विशाखापत्तनम",
+    "statl": "आंध्र से साझेदारी का प्रस्ताव"
+   },
+   "d": "11.11.2026",
+   "t": "23:05"
+  },
   {
    "cat": "హైదరాబాద్ · పోలీస్",
    "col": "--c-city",
@@ -2418,56 +2568,6 @@
     "why": "आंध्र प्रदेश की राजनीति में एक और नई पार्टी आई है।",
     "cat": "आंध्र प्रदेश · राजनीति",
     "statl": "सीटें जिन पर लड़ने की घोषणा"
-   },
-   "d": "11.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "నిషేధం?",
-   "statl": "కళాశాలల్లో సినిమా ఈవెంట్లు",
-   "h": "విద్యాసంస్థల్లో సినిమా ఈవెంట్లపై నిషేధం యోచనలో తెలంగాణ ప్రభుత్వం",
-   "p": "భద్రతా కారణాల దృష్ట్యా విద్యాసంస్థల ఆవరణల్లో సినిమా ప్రచారాలు, ప్రదర్శనలు, ఇతర వాణిజ్య కార్యక్రమాలను నిషేధించే అవకాశం ఉందని సియాసత్ కథనం. నిబంధనలు పరిశీలించాలని విద్యాశాఖను అధికారులు కోరారు. పెద్ద కార్యక్రమాలకు ముందుగానే అధికారులకు లేదా పోలీసులకు హాజరు, భద్రత వివరాలు తెలియజేయాల్సి రావచ్చు. విద్యా, క్రీడా కార్యక్రమాలకు అనుమతి ఉంటుంది. ఇంకా అధికారిక ఉత్తర్వులు రాలేదు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/no-more-movie-events-in-colleges-telangana-govt-plans-big-action-3573951/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "వాణిజ్య కార్యక్రమాలపై నిషేధం యోచన",
-    "పెద్ద ఈవెంట్లకు ముందస్తు సమాచారం తప్పనిసరి కావచ్చు",
-    "అధికారిక ఉత్తర్వులు ఇంకా రాలేదు"
-   ],
-   "why": "రాష్ట్రవ్యాప్తంగా కళాశాలల విద్యార్థులు, యాజమాన్యాలపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-11T12:42+05:30",
-   "en": {
-    "h": "Telangana govt considering ban on movie events in educational institutions",
-    "p": "Siasat reports that Telangana is likely to ban film promotions, screenings and other commercial events on educational campuses over safety concerns. Officials have asked the Education Department to examine the rules. Colleges may have to inform authorities or police in advance about attendance and safety arrangements for large events. Academic and sports events would be allowed. No formal orders have been issued yet.",
-    "pts": [
-     "Ban on commercial events under consideration",
-     "Advance notice may be required for big events",
-     "No formal orders issued yet"
-    ],
-    "why": "The decision would affect college students and managements across the state.",
-    "cat": "Telangana · Education",
-    "statl": "Movie events in colleges"
-   },
-   "hi": {
-    "h": "शिक्षण संस्थानों में फिल्मी कार्यक्रमों पर रोक लगाने पर विचार कर रही तेलंगाना सरकार",
-    "p": "सियासत की रिपोर्ट के अनुसार सुरक्षा कारणों से तेलंगाना शिक्षण संस्थानों के परिसरों में फिल्म प्रचार, प्रदर्शन और अन्य व्यावसायिक कार्यक्रमों पर रोक लगा सकता है। अधिकारियों ने शिक्षा विभाग से नियमों की जांच करने को कहा है। बड़े कार्यक्रमों के लिए कॉलेजों को पहले से अधिकारियों या पुलिस को उपस्थिति और सुरक्षा की जानकारी देनी पड़ सकती है। शैक्षणिक और खेल कार्यक्रमों की अनुमति रहेगी। अभी औपचारिक आदेश जारी नहीं हुए हैं।",
-    "pts": [
-     "व्यावसायिक कार्यक्रमों पर रोक पर विचार",
-     "बड़े कार्यक्रमों के लिए पहले सूचना जरूरी हो सकती है",
-     "अभी औपचारिक आदेश जारी नहीं"
-    ],
-    "why": "इस फैसले का असर पूरे राज्य के कॉलेज छात्रों और प्रबंधनों पर पड़ेगा।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "कॉलेजों में फिल्मी कार्यक्रम"
    },
    "d": "11.11.2026",
    "t": "18:35"
