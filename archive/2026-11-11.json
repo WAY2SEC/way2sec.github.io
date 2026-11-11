@@ -1,8 +1,109 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 57,
+ "count": 59,
  "stories": [
+  {
+   "cat": "గద్వాల · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹10,000",
+   "statl": "రైతుల నుంచి వసూలు చేశారని ఆరోపణ",
+   "h": "పంటలు కాపాడుకునేందుకు ట్యాంకర్ నీళ్లు: రైతులపై జరిమానా అని ఆరోపణ",
+   "p": "జోగులాంబ గద్వాల జిల్లా అయిజ సమీపంలో ఎండుతున్న పంటలను కాపాడుకోవడానికి 20 మందికి పైగా రైతులు నెల రోజులుగా పెద్దవాగు నుంచి మురుగునీటిని ట్యాంకర్లలో తరలిస్తున్నారు. ఆర్టీఏ అధికారులమని చెప్పిన కొందరు ట్యాంకర్లను ఆపి, అనుమతి లేకుంటే ₹1.50 లక్షల జరిమానా అని హెచ్చరించి, ఇద్దరు రైతుల నుంచి మొత్తం ₹10 వేలు వసూలు చేశారని రైతులు ఆరోపించారు. తమ శాఖ అధికారులెవరూ వసూలు చేయలేదని డీటీవో చెప్పారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/farmers-fined-for-transporting-wastewater-to-save-drying-crops-2557243",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "gadwal",
+   "loc": "అయిజ",
+   "pts": [
+    "ట్యాంకర్ల అద్దెకే ₹1 లక్షకు పైగా ఖర్చు చేశామన్న రైతులు",
+    "బాధ్యులను సస్పెండ్ చేయాలని స్థానికుల డిమాండ్",
+    "జరిమానా వసూలు చేయలేదన్న డీటీవో రాధిక"
+   ],
+   "why": "నీటి కొరతతో పంటలు కాపాడుకునేందుకు ఖర్చు చేస్తున్న అయిజ ప్రాంత రైతులపై అదనపు భారం పడుతోంది.",
+   "pub": "2026-11-11T02:10+05:30",
+   "en": {
+    "h": "Farmers carrying tanker water to save crops allege fines",
+    "p": "Over 20 farmers near Aiza in Jogulamba Gadwal district have for a month been hiring tankers to carry wastewater from the Peddavagu stream to save drying crops. Farmers allege that people claiming to be RTA officials stopped the tankers, warned of a ₹1.50 lakh fine without permission, and collected ₹10,000 in all from two farmers. The DTO said none of her department's officials collected any fines.",
+    "pts": [
+     "Farmers say they spent over ₹1 lakh on tanker hire",
+     "Residents demand suspension of those responsible",
+     "DTO Radhika denies her officials collected fines"
+    ],
+    "why": "Farmers near Aiza, already spending to save crops amid water shortage, face an added burden.",
+    "cat": "Gadwal · Agriculture",
+    "statl": "Allegedly collected from farmers"
+   },
+   "hi": {
+    "h": "फसल बचाने के लिए टैंकर से पानी, किसानों पर जुर्माने का आरोप",
+    "p": "जोगुलांबा गद्वाल ज़िले के अयिजा के पास 20 से अधिक किसान एक महीने से सूखती फसलें बचाने के लिए पेद्दावागु नाले से गंदा पानी टैंकरों में ढो रहे हैं। किसानों का आरोप है कि खुद को आरटीए अधिकारी बताने वालों ने टैंकर रोके, बिना अनुमति ₹1.50 लाख जुर्माने की चेतावनी दी और दो किसानों से कुल ₹10,000 वसूले। डीटीओ ने कहा कि उनके विभाग के किसी अधिकारी ने वसूली नहीं की।",
+    "pts": [
+     "किसानों के अनुसार टैंकर किराए पर ₹1 लाख से अधिक खर्च",
+     "स्थानीय लोगों ने ज़िम्मेदारों के निलंबन की मांग की",
+     "डीटीओ राधिका ने जुर्माना वसूली से इनकार किया"
+    ],
+    "why": "पानी की कमी में फसल बचाने पर खर्च कर रहे अयिजा क्षेत्र के किसानों पर अतिरिक्त बोझ पड़ रहा है।",
+    "cat": "गद्वाल · कृषि",
+    "statl": "किसानों से वसूली का आरोप"
+   },
+   "d": "11.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "ప్రపంచం · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "-2.41%",
+   "statl": "ఔన్సు బంగారం ధర పతనం",
+   "h": "అంతర్జాతీయ మార్కెట్‌లో బంగారం 2.4% పతనం: 5%కి చేరువలో అమెరికా బాండ్ రాబడి",
+   "p": "అమెరికా మార్కెట్లు నవంబర్ 10న నష్టాల్లో ముగిశాయి. అంతర్జాతీయంగా బంగారం ధర 2.41% తగ్గి ఔన్సుకు 4,039 డాలర్లకు చేరింది. అమెరికా 10 ఏళ్ల బాండ్ రాబడి 4.983%కి పెరిగింది, డాలర్ ఇండెక్స్ 0.6% బలపడింది. అక్టోబర్‌లో అమెరికా వినియోగదారుల ధరలు 0.4% పెరిగాయని బ్యూరో ఆఫ్ లేబర్ స్టాటిస్టిక్స్ తెలిపింది.",
+   "src": "The Rio Times",
+   "url": "https://www.riotimesonline.com/global-economy-briefing-november-11-2026",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఎస్ అండ్ పీ 500 సూచీ 0.38% తగ్గుదల",
+    "నాస్‌డాక్ 0.74% నష్టం",
+    "చైనా అక్టోబర్ ఎగుమతులు 35.2% వృద్ధి"
+   ],
+   "why": "అంతర్జాతీయ బంగారం ధరలు, డాలర్ కదలికలు భారత్‌లో బంగారం కొనుగోలుదారులు, పొదుపుదారులపై ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-11T09:49+05:30",
+   "en": {
+    "h": "Gold falls 2.4% globally as US bond yield nears 5%",
+    "p": "US markets closed lower on November 10. Gold fell 2.41% to $4,039 an ounce globally. The US 10-year bond yield rose to 4.983% and the dollar index gained 0.6%. US consumer prices rose 0.4% in October, according to the Bureau of Labor Statistics.",
+    "pts": [
+     "S&P 500 index fell 0.38%",
+     "Nasdaq lost 0.74%",
+     "China's October exports grew 35.2%"
+    ],
+    "why": "Global gold prices and dollar moves affect gold buyers and savers in India.",
+    "cat": "World · Business",
+    "statl": "Fall in gold price per ounce"
+   },
+   "hi": {
+    "h": "वैश्विक बाज़ार में सोना 2.4% गिरा, अमेरिकी बॉन्ड यील्ड 5% के करीब",
+    "p": "10 नवंबर को अमेरिकी बाज़ार गिरावट के साथ बंद हुए। वैश्विक स्तर पर सोना 2.41% गिरकर 4,039 डॉलर प्रति औंस पर आ गया। अमेरिका का 10 साल का बॉन्ड यील्ड बढ़कर 4.983% हो गया और डॉलर इंडेक्स 0.6% मज़बूत हुआ। ब्यूरो ऑफ लेबर स्टैटिस्टिक्स के अनुसार अक्टूबर में अमेरिका में उपभोक्ता कीमतें 0.4% बढ़ीं।",
+    "pts": [
+     "एसएंडपी 500 सूचकांक 0.38% गिरा",
+     "नैस्डैक में 0.74% की गिरावट",
+     "चीन का अक्टूबर निर्यात 35.2% बढ़ा"
+    ],
+    "why": "वैश्विक सोने के दाम और डॉलर की चाल भारत में सोना खरीदारों और बचतकर्ताओं को प्रभावित करती है।",
+    "cat": "विश्व · कारोबार",
+    "statl": "प्रति औंस सोने के दाम में गिरावट"
+   },
+   "d": "11.11.2026",
+   "t": "10:05"
+  },
   {
    "cat": "ఏపీ · పట్టణాభివృద్ధి",
    "col": "--c-city",

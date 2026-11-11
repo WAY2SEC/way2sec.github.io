@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T09:35:00+05:30",
+ "cutoff": "2026-11-11T10:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -530,6 +530,19 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Search-first; WebFetch via sub-agent. Search mostly returned listing/tag pages. Eenadu, Sakshi, Andhra Jyothy, ETV Bharat, TV9, V6, NTV, Siasat, Deccan Chronicle (in range), PTI, BBC/AP articles not surfaced in range. Older than lookback (not published): TT JNTU-H tender complaint (10 Nov 23:30), TT Secretariat gatherings ban (2024), DC coldest Nov morning (2025)."
+  },
+  {
+   "window": "2026-11-11T09:35:00+05:30/2026-11-11T10:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 3,
+   "published": 2,
+   "late": 1,
+   "sensitive": 1,
+   "corrected": 0,
+   "duplicates": 1,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Search mostly returned listing/tag pages. Business Upturn (Sensex open) fetch failed. Eenadu, Sakshi, Andhra Jyothy, ETV Bharat, NTV, Siasat, The Hindu, PTI, Reuters/BBC/AP articles not surfaced in range; one WebSearch (DC/NIE/The Hindu AP) rejected by proxy. Older than lookback (not published): DC Hyderabad SIR rolls (7 Nov), Vaartha Ghatkesar bus stand water (10 Nov 19:13), TV9 Nalgonda gurukul case (10 Nov 17:18), Vaartha cold wave (10 Nov 11:40)."
   }
  ],
  "seen": [
@@ -2072,6 +2085,41 @@
    "url": "https://www.deccanchronicle.com/southern-states/telangana/tg-records-coldest-nov-morning-in-years-1917383",
    "d": "11.11.2026",
    "w": "09:35"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/farmers-fined-for-transporting-wastewater-to-save-drying-crops-2557243",
+   "d": "11.11.2026",
+   "w": "10:05"
+  },
+  {
+   "url": "https://www.riotimesonline.com/global-economy-briefing-november-11-2026",
+   "d": "11.11.2026",
+   "w": "10:05"
+  },
+  {
+   "url": "https://www.ntnews.com/telangana/telangana-braces-for-three-more-days-of-severe-cold-temperatures-may-drop-to-12c-2557221",
+   "d": "11.11.2026",
+   "w": "10:05"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-rolls-set-for-final-electoral-list-2002588",
+   "d": "11.11.2026",
+   "w": "10:05"
+  },
+  {
+   "url": "https://vaartha.com/latest-news/passengers-face-difficulties-at-bus-stands-due-to-lack-of-water/803371",
+   "d": "11.11.2026",
+   "w": "10:05"
+  },
+  {
+   "url": "https://tv9telugu.com/telangana/nalgonda-gurukulam-sanitation-worker-arrested-for-harassing-girl-students-1955060.html",
+   "d": "11.11.2026",
+   "w": "10:05"
+  },
+  {
+   "url": "https://vaartha.com/latest-news/telangana-weather-update-cold-wave-yellow-alert-temperature-drop/802872/",
+   "d": "11.11.2026",
+   "w": "10:05"
   }
  ]
 }
