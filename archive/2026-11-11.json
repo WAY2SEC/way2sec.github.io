@@ -1,8 +1,108 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 79,
+ "count": 81,
  "stories": [
+  {
+   "cat": "ఏపీ · రాజకీయాలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "PRP",
+   "statl": "విజయసాయిరెడ్డి కొత్త పార్టీ పేరు",
+   "h": "విజయవాడలో విజయసాయిరెడ్డి కొత్త పార్టీ: 'పరివర్తన రాజనీతి పార్టీ' ప్రకటన",
+   "p": "వైఎస్సార్సీపీ మాజీ రాజ్యసభ సభ్యుడు వి. విజయసాయిరెడ్డి బుధవారం విజయవాడలో కొత్త రాజకీయ పార్టీని ప్రారంభించారు. పార్టీ పేరును 'పరివర్తన రాజనీతి పార్టీ' (పీఆర్‌పీ)గా ప్రకటించి, పేరు, గుర్తును ఆవిష్కరించారు. దేశభక్తి, ప్రజా సంక్షేమం, ఏపీ ప్రయోజనాల రక్షణే పార్టీ మార్గదర్శకాలని ఆయన చెప్పినట్లు డెక్కన్ క్రానికల్ పేర్కొంది. కాషాయం, తెలుపు రంగుల్లో మధ్యలో అశోక చక్రంతో జెండా ఉందని ఈటీవీ భారత్ తెలిపింది.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/parivartan-rajniti-party-prp-vijayasai-reddy-unveils-new-party-name-and-symbol-2003418",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "విజయవాడ",
+   "pts": [
+    "పార్టీ పేరు 'పరివర్తన రాజనీతి పార్టీ' (పీఆర్‌పీ)",
+    "కాషాయం-తెలుపు జెండా, మధ్యలో అశోక చక్రం",
+    "దేశభక్తి, ప్రజా సంక్షేమం, ఏపీ ప్రయోజనాలే లక్ష్యమని ప్రకటన"
+   ],
+   "why": "ఏపీ రాజకీయాల్లో మరో కొత్త పార్టీ చేరడంతో రాష్ట్ర ఓటర్లకు ఇది ఆసక్తికర పరిణామం.",
+   "pub": "2026-11-11T11:52+05:30",
+   "en": {
+    "h": "Vijayasai Reddy launches new party 'Parivartana Rajaneethi Party' in Vijayawada",
+    "p": "Former YSRCP Rajya Sabha member V. Vijayasai Reddy launched a new political party in Vijayawada on Wednesday. He announced its name as 'Parivartana Rajaneethi Party' (PRP) and unveiled its name and symbol. He said patriotism, people's welfare and protecting Andhra Pradesh's interests will guide the party, Deccan Chronicle reported. ETV Bharat said the flag is saffron and white with an Ashoka Chakra in the centre.",
+    "pts": [
+     "Party named 'Parivartana Rajaneethi Party' (PRP)",
+     "Saffron-white flag with Ashoka Chakra in centre",
+     "Patriotism, welfare and AP's interests stated as aims"
+    ],
+    "why": "A new party entering Andhra Pradesh politics is a notable development for the state's voters.",
+    "cat": "AP · Politics",
+    "statl": "Vijayasai Reddy's new party"
+   },
+   "hi": {
+    "h": "विजयसाई रेड्डी ने विजयवाड़ा में नई पार्टी 'परिवर्तन राजनीति पार्टी' शुरू की",
+    "p": "वाईएसआरसीपी के पूर्व राज्यसभा सदस्य वी. विजयसाई रेड्डी ने बुधवार को विजयवाड़ा में नई राजनीतिक पार्टी शुरू की। उन्होंने पार्टी का नाम 'परिवर्तन राजनीति पार्टी' (पीआरपी) घोषित किया और नाम व चिह्न का अनावरण किया। डेक्कन क्रॉनिकल के अनुसार उन्होंने कहा कि देशभक्ति, जनकल्याण और आंध्र प्रदेश के हितों की रक्षा पार्टी का मार्गदर्शन करेंगे। ईटीवी भारत के अनुसार झंडा भगवा-सफेद है और बीच में अशोक चक्र है।",
+    "pts": [
+     "पार्टी का नाम 'परिवर्तन राजनीति पार्टी' (पीआरपी)",
+     "भगवा-सफेद झंडा, बीच में अशोक चक्र",
+     "देशभक्ति, जनकल्याण और आंध्र के हित लक्ष्य बताए"
+    ],
+    "why": "आंध्र प्रदेश की राजनीति में नई पार्टी का आना राज्य के मतदाताओं के लिए अहम घटनाक्रम है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "विजयसाई रेड्डी की नई पार्टी"
+   },
+   "d": "11.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "భారత్ · స్టాక్ మార్కెట్",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "+1,106",
+   "statl": "ప్రారంభంలో సెన్సెక్స్ లాభం (పాయింట్లు)",
+   "h": "స్టాక్ మార్కెట్ జోరు: ప్రారంభంలోనే సెన్సెక్స్ 1,106 పాయింట్లు పైకి",
+   "p": "అంతర్జాతీయ సానుకూల సంకేతాలతో బుధవారం దేశీయ స్టాక్ మార్కెట్లు లాభాలతో ప్రారంభమయ్యాయి. సెన్సెక్స్ 1,106 పాయింట్లు పెరిగి 82,212కి, నిఫ్టీ 276 పాయింట్లు పెరిగి 25,324కి చేరాయని బిజినెస్ టుడే తెలిపింది. బ్రెంట్ ముడి చమురు బ్యారెల్‌కు 92.45 డాలర్లకు చేరింది. నవంబర్‌లో విదేశీ పోర్ట్‌ఫోలియో పెట్టుబడులు రూ.53,739 కోట్లు వచ్చాయని కథనం పేర్కొంది.",
+   "src": "Business Today",
+   "url": "https://www.businesstoday.in/markets/stocks/story/sensex-zooms-1100-pts-nifty-crosses-25300-mark-on-positive-global-cues-566767-2026-11-11",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "సెన్సెక్స్ 82,212, నిఫ్టీ 25,324 వద్ద ట్రేడింగ్",
+    "ఇండిగో, ఎం అండ్ ఎం, ఎస్‌బీఐ టాప్ గెయినర్లు",
+    "గత ఐదు సెషన్లలో సూచీలు 6%కి పైగా పెరుగుదల"
+   ],
+   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై ఈ కదలిక ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T09:35+05:30",
+   "en": {
+    "h": "Markets surge: Sensex jumps 1,106 points at opening",
+    "p": "Indian stock markets opened higher on Wednesday on positive global cues. The Sensex rose 1,106 points to 82,212 and the Nifty rose 276 points to 25,324, Business Today reported. Brent crude rose to $92.45 a barrel. The report said foreign portfolio inflows in November have reached Rs 53,739 crore.",
+    "pts": [
+     "Sensex at 82,212, Nifty at 25,324",
+     "IndiGo, M&M, SBI among top gainers",
+     "Indices up over 6% in last five sessions"
+    ],
+    "why": "The move affects the savings of people invested in shares and mutual funds.",
+    "cat": "India · Stock market",
+    "statl": "Sensex gain at opening (points)"
+   },
+   "hi": {
+    "h": "शेयर बाज़ार में तेज़ी: शुरुआत में सेंसेक्स 1,106 अंक उछला",
+    "p": "वैश्विक सकारात्मक संकेतों से बुधवार को घरेलू शेयर बाज़ार बढ़त के साथ खुले। बिज़नेस टुडे के अनुसार सेंसेक्स 1,106 अंक बढ़कर 82,212 और निफ्टी 276 अंक बढ़कर 25,324 पर पहुंचा। ब्रेंट कच्चा तेल 92.45 डॉलर प्रति बैरल पर पहुंचा। रिपोर्ट के अनुसार नवंबर में विदेशी पोर्टफोलियो निवेश 53,739 करोड़ रुपये आया है।",
+    "pts": [
+     "सेंसेक्स 82,212, निफ्टी 25,324 पर",
+     "इंडिगो, एम एंड एम, एसबीआई प्रमुख बढ़त में",
+     "पिछले पांच सत्रों में सूचकांक 6% से ज़्यादा चढ़े"
+    ],
+    "why": "इस उतार-चढ़ाव का असर शेयर और म्यूचुअल फंड में निवेश करने वालों की बचत पर पड़ता है।",
+    "cat": "भारत · शेयर बाज़ार",
+    "statl": "शुरुआत में सेंसेक्स की बढ़त (अंक)"
+   },
+   "d": "11.11.2026",
+   "t": "12:35"
+  },
   {
    "cat": "తెలంగాణ · పారిశుద్ధ్యం",
    "col": "--c-gov",
