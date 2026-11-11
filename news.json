@@ -1,8 +1,359 @@
 {
  "date": "11.11.2026",
- "updated": "2026-11-11T18:09:46+05:30",
+ "updated": "2026-11-11T18:42:13+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "భూపాలపల్లి · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "30 రోజులు",
+   "statl": "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె",
+   "h": "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె 30వ రోజు: మహదేవపూర్‌లో పిల్లల టీకాలకు ఆటంకం",
+   "p": "జయశంకర్ భూపాలపల్లి జిల్లా మహదేవపూర్ మండలంలో ఎన్‌హెచ్‌ఎం ఉద్యోగుల నిరవధిక సమ్మె 30వ రోజుకు చేరింది. ఆసుపత్రులు, పీహెచ్‌సీలు, ఉపకేంద్రాల్లో సిబ్బంది లేక పిల్లలకు ఉచిత టీకాలు ఆలస్యమవుతున్నాయని, తల్లిదండ్రులు ఆందోళన చెందుతున్నారని నమస్తే తెలంగాణ కథనం. కాంట్రాక్ట్, ఔట్‌సోర్సింగ్ ఉద్యోగులను క్రమబద్ధీకరించి ఉద్యోగ భద్రత కల్పించాలని, టీకా కార్యక్రమం ఆగకుండా చూడాలని ఎన్‌హెచ్‌ఎం జేఏసీ నాయకులు ప్రభుత్వాన్ని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/warangal-rural/jayashankar/vaccines-not-reached-to-children-due-to-nhm-employees-strike-in-mahadevpur-2557694",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhupalpally",
+   "loc": "మహదేవపూర్",
+   "pts": [
+    "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె 30వ రోజుకు",
+    "గ్రామీణ ప్రాంతాల్లో పిల్లల ఉచిత టీకాలు ఆలస్యం",
+    "ఉద్యోగాల క్రమబద్ధీకరణకు జేఏసీ డిమాండ్"
+   ],
+   "why": "మహదేవపూర్ మండలంలో చిన్నారుల టీకాలు, గ్రామీణ వైద్య సేవలపై సమ్మె ప్రభావం పడుతోంది.",
+   "pub": "2026-11-11T17:46+05:30",
+   "en": {
+    "h": "NHM staff strike hits day 30; child vaccinations disrupted in Mahadevpur",
+    "p": "The indefinite strike by NHM employees in Mahadevpur mandal of Jayashankar Bhupalpally district has reached its 30th day. Namasthe Telangana reports that with staff absent at hospitals, PHCs and sub-centres, free vaccinations for children are being delayed and parents are worried. NHM JAC leaders asked the government to regularise contract and outsourced employees with job security and to ensure the vaccination programme continues.",
+    "pts": [
+     "NHM employees' strike reaches day 30",
+     "Free child vaccinations delayed in rural areas",
+     "JAC demands regularisation of jobs"
+    ],
+    "why": "The strike is affecting children's vaccinations and rural health services in Mahadevpur mandal.",
+    "cat": "Bhupalpally · Health",
+    "statl": "NHM employees' strike"
+   },
+   "hi": {
+    "h": "एनएचएम कर्मचारियों की हड़ताल 30वें दिन: महादेवपुर में बच्चों के टीकाकरण में बाधा",
+    "p": "जयशंकर भूपालपल्ली जिले के महादेवपुर मंडल में एनएचएम कर्मचारियों की अनिश्चितकालीन हड़ताल 30वें दिन पहुंच गई। नमस्ते तेलंगाना की रिपोर्ट के अनुसार अस्पतालों, पीएचसी और उपकेंद्रों में कर्मचारी न होने से बच्चों के मुफ्त टीके टल रहे हैं और माता-पिता चिंतित हैं। एनएचएम जेएसी नेताओं ने सरकार से अनुबंध और आउटसोर्सिंग कर्मचारियों को नौकरी की सुरक्षा के साथ नियमित करने और टीकाकरण कार्यक्रम जारी रखने की मांग की।",
+    "pts": [
+     "एनएचएम कर्मचारियों की हड़ताल 30वें दिन",
+     "ग्रामीण इलाकों में बच्चों के मुफ्त टीके टले",
+     "जेएसी ने नौकरियां नियमित करने की मांग की"
+    ],
+    "why": "हड़ताल से महादेवपुर मंडल में बच्चों के टीकाकरण और ग्रामीण स्वास्थ्य सेवाओं पर असर पड़ रहा है।",
+    "cat": "भूपालपल्ली · स्वास्थ्य",
+    "statl": "एनएचएम कर्मचारियों की हड़ताल"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రైల్వే",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹5.20 లక్షలు",
+   "statl": "స్వాధీనమైన బంగారు గొలుసు విలువ",
+   "h": "చర్లపల్లి ఎక్స్‌ప్రెస్‌లో బంగారు గొలుసు చోరీ ఆరోపణ: బెడ్‌రోల్ అటెండెంట్ అరెస్ట్",
+   "p": "చర్లపల్లి ఎక్స్‌ప్రెస్ ఏసీ బోగీలో ప్రయాణికురాలి బంగారు గొలుసు తీసుకున్నాడన్న ఆరోపణపై 26 ఏళ్ల బెడ్‌రోల్ అటెండెంట్‌ను జీఆర్‌పీ పోలీసులు అరెస్ట్ చేశారు. పోలీసుల ప్రకారం, నవంబర్ 9 తెల్లవారుజామున నర్సాపూర్ నుంచి రైలు చర్లపల్లి చేరినప్పుడు దిండు కింద గొలుసు దొరికింది. సికింద్రాబాద్‌లో అమ్మేందుకు ప్రయత్నించి విఫలమయ్యాడు. ₹5.20 లక్షల విలువైన 40 గ్రాముల గొలుసును స్వాధీనం చేసుకున్నారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://deccanchronicle.com/southern-states/telangana/cherlapally-express-bedroll-attendant-held-for-stealing-40-grams-of-gold-chain-2003481",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "చర్లపల్లి",
+   "pts": [
+    "ఏసీ బోగీ బీ1లో గొలుసు దొరికిందని పోలీసులు",
+    "40 గ్రాముల గొలుసు స్వాధీనం",
+    "చర్లపల్లి స్టేషన్‌లో నిందితుడి అరెస్ట్"
+   ],
+   "why": "రైళ్లలో ప్రయాణికులు తమ విలువైన వస్తువుల విషయంలో జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "pub": "2026-11-11T17:16+05:30",
+   "en": {
+    "h": "Bedroll attendant held over gold chain theft on Cherlapally Express",
+    "p": "The Government Railway Police arrested a 26-year-old bedroll attendant of the Cherlapally Express on the allegation that he took a passenger's gold chain in an AC coach. According to police, he found the chain under a pillow when the train from Narsapur reached Cherlapally early on November 9. He tried to sell it in Secunderabad but failed. A 40-gram chain worth ₹5.20 lakh was recovered.",
+    "pts": [
+     "Police say chain was found in AC coach B1",
+     "40-gram chain recovered",
+     "Accused arrested at Cherlapally station"
+    ],
+    "why": "The case is a reminder for train passengers to keep their valuables safe.",
+    "cat": "Hyderabad · Railways",
+    "statl": "Value of recovered gold chain"
+   },
+   "hi": {
+    "h": "चर्लापल्ली एक्सप्रेस में सोने की चेन चोरी का आरोप: बेडरोल अटेंडेंट गिरफ्तार",
+    "p": "जीआरपी पुलिस ने चर्लापल्ली एक्सप्रेस के एसी कोच में एक यात्री की सोने की चेन लेने के आरोप में 26 वर्षीय बेडरोल अटेंडेंट को गिरफ्तार किया। पुलिस के अनुसार 9 नवंबर तड़के नरसापुर से ट्रेन चर्लापल्ली पहुंचने पर उसे तकिये के नीचे चेन मिली। उसने सिकंदराबाद में इसे बेचने की कोशिश की लेकिन नाकाम रहा। ₹5.20 लाख की 40 ग्राम की चेन बरामद की गई।",
+    "pts": [
+     "पुलिस के अनुसार एसी कोच बी1 में चेन मिली",
+     "40 ग्राम की चेन बरामद",
+     "आरोपी चर्लापल्ली स्टेशन पर गिरफ्तार"
+    ],
+    "why": "यह मामला ट्रेन यात्रियों को अपने कीमती सामान का ध्यान रखने की याद दिलाता है।",
+    "cat": "हैदराबाद · रेलवे",
+    "statl": "बरामद सोने की चेन की कीमत"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "పెద్దపల్లి · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "5–6",
+   "statl": "పైప్‌లైన్ లీకేజీలు",
+   "h": "రామగుండం 54వ డివిజన్‌లో భగీరథ పైప్‌లైన్ లీకులు: రోడ్లపై వృథాగా తాగునీరు",
+   "p": "రామగుండం మున్సిపల్ కార్పొరేషన్ 54వ డివిజన్‌లో పరశురామ్ నగర్ బోర్డు నుంచి తిలక్ నగర్ సెంటర్ వరకు ప్రధాన రహదారిపై మిషన్ భగీరథ పైప్‌లైన్‌కు ఐదారు చోట్ల లీకులు ఏర్పడి నీరు వృథా అవుతోందని నమస్తే తెలంగాణ కథనం. పర్యవేక్షణ లోపం, సిబ్బంది నిర్లక్ష్యమే కారణమని స్థానికులు ఆరోపిస్తున్నారు. పంప్‌హౌస్ సాంకేతిక లోపంతో రెండు రోజులు ఆగిన సరఫరా బుధవారం పునరుద్ధరించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/pipeline-leaks-where-are-the-remedial-measures-bhagiratha-water-goes-to-waste-in-ramagundams-54th-division-2557595",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "రామగుండం",
+   "pts": [
+    "ప్రధాన రహదారిపై ఐదారు చోట్ల లీకులు",
+    "నిర్లక్ష్యమే కారణమని స్థానికుల ఆరోపణ",
+    "రెండు రోజుల తర్వాత సరఫరా పునరుద్ధరణ"
+   ],
+   "why": "లీకులతో నీరు కలుషితమయ్యే ప్రమాదం ఉందని, కమిషనర్ వెంటనే చర్యలు తీసుకోవాలని స్థానికులు కోరుతున్నారు.",
+   "pub": "2026-11-11T16:01+05:30",
+   "en": {
+    "h": "Bhagiratha pipeline leaks in Ramagundam's 54th division waste drinking water",
+    "p": "Namasthe Telangana reports that Mission Bhagiratha drinking water is going to waste on the main road from Parasuram Nagar board to Tilak Nagar centre in the 54th division of Ramagundam Municipal Corporation, with five or six pipeline leaks. Residents allege poor supervision and staff negligence. Supply, halted for two days by a technical fault at the pump house, was restored on Wednesday.",
+    "pts": [
+     "Five or six leaks on the main road",
+     "Residents allege negligence",
+     "Supply restored after two days"
+    ],
+    "why": "Residents fear the leaks could contaminate water and want the commissioner to act quickly.",
+    "cat": "Peddapalli · Water",
+    "statl": "Pipeline leaks"
+   },
+   "hi": {
+    "h": "रामागुंडम के 54वें डिवीजन में भगीरथ पाइपलाइन में रिसाव: सड़कों पर बह रहा पीने का पानी",
+    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार रामागुंडम नगर निगम के 54वें डिवीजन में परशुराम नगर बोर्ड से तिलक नगर सेंटर तक मुख्य सड़क पर मिशन भगीरथ पाइपलाइन में पांच-छह जगह रिसाव से पीने का पानी बर्बाद हो रहा है। स्थानीय लोग खराब निगरानी और कर्मचारियों की लापरवाही का आरोप लगा रहे हैं। पंप हाउस में तकनीकी खराबी से दो दिन बंद रही आपूर्ति बुधवार को बहाल हुई।",
+    "pts": [
+     "मुख्य सड़क पर पांच-छह जगह रिसाव",
+     "स्थानीय लोगों का लापरवाही का आरोप",
+     "दो दिन बाद आपूर्ति बहाल"
+    ],
+    "why": "स्थानीय लोगों को डर है कि रिसाव से पानी दूषित हो सकता है और वे आयुक्त से तुरंत कार्रवाई चाहते हैं।",
+    "cat": "पेद्दापल्ली · पानी",
+    "statl": "पाइपलाइन रिसाव"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "సంగారెడ్డి · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹4,500",
+   "statl": "టన్ను చెరకుకు కోరిన మద్దతు ధర",
+   "h": "చెరకుకు టన్నుకు ₹4,500 మద్దతు ధర ఇవ్వాలి: జహీరాబాద్ ఎమ్మెల్యే మాణిక్‌రావు",
+   "p": "చెరకు రైతులకు టన్నుకు ₹4,500 మద్దతు ధర ఇవ్వాలని కోరుతూ జహీరాబాద్ ఎమ్మెల్యే కొనింటి మాణిక్‌రావు, మాజీ డీసీఎంఎస్ చైర్మన్ శివకుమార్ హైదరాబాద్‌లో రాష్ట్ర చెరకు కమిషనర్‌కు వినతిపత్రం ఇచ్చారు. నియోజకవర్గంలో సుమారు 49,592 ఎకరాల్లో చెరకు సాగవుతోందని, స్థానిక చక్కెర కర్మాగారం మూడేళ్లుగా మూతపడటంతో రవాణా ఖర్చులు రైతులకు భారమయ్యాయని తెలిపారు. కర్మాగారాన్ని తిరిగి తెరవాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/medak/sangareddy/mla-manik-rao-demands-govt-to-give-support-price-to-sugercane-farmer-2557530",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "జహీరాబాద్",
+   "pts": [
+    "చెరకు కమిషనర్‌కు ఎమ్మెల్యే వినతిపత్రం",
+    "సుమారు 49,592 ఎకరాల్లో చెరకు సాగు",
+    "మూడేళ్లుగా మూతపడిన చక్కెర కర్మాగారం"
+   ],
+   "why": "జహీరాబాద్ ప్రాంత చెరకు రైతుల ఆదాయం, రవాణా ఖర్చులకు సంబంధించిన డిమాండ్ ఇది.",
+   "pub": "2026-11-11T13:28+05:30",
+   "en": {
+    "h": "Give sugarcane ₹4,500 per tonne support price: Zaheerabad MLA Manik Rao",
+    "p": "Zaheerabad MLA Konintti Manik Rao and former DCMS chairman Shivakumar submitted a memorandum to the state sugarcane commissioner in Hyderabad seeking a support price of ₹4,500 per tonne for cane farmers. They said sugarcane is grown on about 49,592 acres in the constituency and that, with the local sugar factory shut for three years, transport costs have become a burden on farmers. They asked for the factory to be reopened.",
+    "pts": [
+     "MLA submits memorandum to cane commissioner",
+     "Sugarcane grown on about 49,592 acres",
+     "Sugar factory shut for three years"
+    ],
+    "why": "The demand concerns the income and transport costs of sugarcane farmers in the Zaheerabad area.",
+    "cat": "Sangareddy · Agriculture",
+    "statl": "Support price sought per tonne"
+   },
+   "hi": {
+    "h": "गन्ने को ₹4,500 प्रति टन समर्थन मूल्य दें: जहीराबाद विधायक माणिक राव",
+    "p": "जहीराबाद विधायक कोनिंटी माणिक राव और पूर्व डीसीएमएस अध्यक्ष शिवकुमार ने हैदराबाद में राज्य गन्ना आयुक्त को ज्ञापन देकर गन्ना किसानों के लिए ₹4,500 प्रति टन समर्थन मूल्य की मांग की। उन्होंने कहा कि निर्वाचन क्षेत्र में करीब 49,592 एकड़ में गन्ना उगाया जाता है और स्थानीय चीनी कारखाना तीन साल से बंद होने से परिवहन खर्च किसानों पर बोझ बन गया है। उन्होंने कारखाना फिर से खोलने की मांग की।",
+    "pts": [
+     "विधायक ने गन्ना आयुक्त को ज्ञापन दिया",
+     "करीब 49,592 एकड़ में गन्ने की खेती",
+     "तीन साल से बंद चीनी कारखाना"
+    ],
+    "why": "यह मांग जहीराबाद क्षेत्र के गन्ना किसानों की आय और परिवहन खर्च से जुड़ी है।",
+    "cat": "संगारेड्डी · कृषि",
+    "statl": "प्रति टन मांगा गया समर्थन मूल्य"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ఖమ్మం · ప్రమాదం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "1",
+   "statl": "గుర్తు తెలియని వ్యక్తి మృతి",
+   "h": "ఎర్రుపాలెంలో ఏపీఎస్ఆర్టీసీ బస్సు ఢీకొని గుర్తు తెలియని వ్యక్తి మృతి",
+   "p": "ఖమ్మం జిల్లా ఎర్రుపాలెంలో మంగళవారం రాత్రి సుమారు 9 గంటలకు విజయవాడ నుంచి వస్తున్న ఏపీఎస్ఆర్టీసీ బస్సు రోడ్డు దాటుతున్న గుర్తు తెలియని వ్యక్తిని ఢీకొట్టింది. 108 వాహనంలో మధిర ప్రభుత్వ ఆసుపత్రికి తరలించగా రాత్రి 10:30 గంటలకు మృతి చెందాడని పోలీసుల ప్రకారం. మృతుడి వయసు 50–60 ఏళ్లు ఉంటుందని, ఆచూకీ తెలిసినవారు ఎర్రుపాలెం పోలీసులను సంప్రదించాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/unidentified-person-dies-after-being-hit-by-an-apsrtc-bus-2557533",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "khammam",
+   "loc": "ఎర్రుపాలెం",
+   "pts": [
+    "రోడ్డు దాటుతుండగా బస్సు ఢీకొట్టింది",
+    "మధిర ఆసుపత్రిలో మృతి చెందాడని పోలీసులు",
+    "ఆచూకీ తెలిస్తే పోలీసులను సంప్రదించాలని విజ్ఞప్తి"
+   ],
+   "why": "మృతుడిని గుర్తించేందుకు పోలీసులు ప్రజల సహాయం కోరుతున్నారు.",
+   "pub": "2026-11-11T13:48+05:30",
+   "en": {
+    "h": "Unidentified man dies after being hit by APSRTC bus in Errupalem",
+    "p": "An APSRTC bus coming from Vijayawada hit an unidentified man crossing the road at Errupalem in Khammam district at about 9 pm on Tuesday. According to police, he was taken by 108 ambulance to Madhira government hospital, where he died at 10:30 pm. Police said he appeared to be 50–60 years old and asked anyone who recognises him to contact Errupalem police.",
+    "pts": [
+     "Bus hit him while crossing the road",
+     "Police say he died at Madhira hospital",
+     "Public asked to help identify him"
+    ],
+    "why": "Police are seeking the public's help to identify the deceased.",
+    "cat": "Khammam · Accident",
+    "statl": "Unidentified man dead"
+   },
+   "hi": {
+    "h": "एर्रुपालेम में एपीएसआरटीसी बस की टक्कर से अज्ञात व्यक्ति की मौत",
+    "p": "खम्मम जिले के एर्रुपालेम में मंगलवार रात करीब 9 बजे विजयवाड़ा से आ रही एपीएसआरटीसी बस ने सड़क पार कर रहे एक अज्ञात व्यक्ति को टक्कर मार दी। पुलिस के अनुसार उसे 108 एंबुलेंस से मधिरा सरकारी अस्पताल ले जाया गया, जहां रात 10:30 बजे उसकी मौत हो गई। पुलिस ने बताया कि उसकी उम्र 50–60 साल लगती है और पहचानने वालों से एर्रुपालेम पुलिस से संपर्क करने को कहा।",
+    "pts": [
+     "सड़क पार करते समय बस ने टक्कर मारी",
+     "पुलिस के अनुसार मधिरा अस्पताल में मौत",
+     "पहचान के लिए लोगों से मदद की अपील"
+    ],
+    "why": "पुलिस मृतक की पहचान के लिए लोगों की मदद मांग रही है।",
+    "cat": "खम्मम · हादसा",
+    "statl": "अज्ञात व्यक्ति की मौत"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "175",
+   "statl": "స్థానాల్లో పోటీ చేస్తామని ప్రకటన",
+   "h": "విజయసాయి రెడ్డి కొత్త పార్టీ 'పరివర్తన రాజనీతి పార్టీ' ప్రకటన",
+   "p": "మాజీ ఎంపీ విజయసాయి రెడ్డి విజయవాడలో 'పరివర్తన రాజనీతి పార్టీ (పీఆర్‌పీ)' పేరుతో కొత్త పార్టీని ప్రకటించారు. తెలుపు, కాషాయ రంగుల జెండా మధ్యలో ధర్మచక్రం ఉంటుందని తెలిపారు. యువ నాయకత్వాన్ని ముందుకు తేవడమే లక్ష్యమని, రాష్ట్రంలో రెండు కుటుంబాలే పాలిస్తున్నాయని ఆయన విమర్శించారు. మొత్తం 175 అసెంబ్లీ స్థానాల్లో పోటీ చేస్తామని ఆంధ్రజ్యోతి కథనం ప్రకారం ప్రకటించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/krishna/former-mp-vijayasai-reddy-announces-name-of-his-prp-political-party-vk-1575235.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "విజయవాడ",
+   "pts": [
+    "కొత్త పార్టీ పేరు పరివర్తన రాజనీతి పార్టీ",
+    "జెండా మధ్యలో ధర్మచక్రం",
+    "175 అసెంబ్లీ స్థానాల్లో పోటీ చేస్తామని ప్రకటన"
+   ],
+   "why": "ఏపీ రాజకీయాల్లో మరో కొత్త పార్టీ రంగంలోకి వచ్చింది.",
+   "pub": "2026-11-11T11:31+05:30",
+   "en": {
+    "h": "Vijayasai Reddy launches new party, 'Parivartana Rajaniti Party'",
+    "p": "Former MP Vijayasai Reddy announced a new party, the Parivartana Rajaniti Party (PRP), in Vijayawada. He said its white and saffron flag carries a dharma chakra in the centre. He said the aim is to bring forward young leadership and criticised that two families rule the state. According to Andhra Jyothy, he announced that the party will contest all 175 Assembly seats.",
+    "pts": [
+     "New party named Parivartana Rajaniti Party",
+     "Dharma chakra at the centre of the flag",
+     "Says party will contest all 175 Assembly seats"
+    ],
+    "why": "Another new party has entered Andhra Pradesh politics.",
+    "cat": "AP · Politics",
+    "statl": "Seats party says it will contest"
+   },
+   "hi": {
+    "h": "विजयसाई रेड्डी ने नई पार्टी 'परिवर्तन राजनीति पार्टी' की घोषणा की",
+    "p": "पूर्व सांसद विजयसाई रेड्डी ने विजयवाड़ा में 'परिवर्तन राजनीति पार्टी (पीआरपी)' नाम से नई पार्टी की घोषणा की। उन्होंने कहा कि सफेद और भगवा झंडे के बीच में धर्मचक्र होगा। उन्होंने कहा कि लक्ष्य युवा नेतृत्व को आगे लाना है और आलोचना की कि राज्य पर दो परिवार राज कर रहे हैं। आंध्र ज्योति के अनुसार उन्होंने सभी 175 विधानसभा सीटों पर चुनाव लड़ने की घोषणा की।",
+    "pts": [
+     "नई पार्टी का नाम परिवर्तन राजनीति पार्टी",
+     "झंडे के बीच में धर्मचक्र",
+     "सभी 175 विधानसभा सीटों पर लड़ने की घोषणा"
+    ],
+    "why": "आंध्र प्रदेश की राजनीति में एक और नई पार्टी आई है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "सीटें जिन पर लड़ने की घोषणा"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "నిషేధం?",
+   "statl": "కళాశాలల్లో సినిమా ఈవెంట్లు",
+   "h": "విద్యాసంస్థల్లో సినిమా ఈవెంట్లపై నిషేధం యోచనలో తెలంగాణ ప్రభుత్వం",
+   "p": "భద్రతా కారణాల దృష్ట్యా విద్యాసంస్థల ఆవరణల్లో సినిమా ప్రచారాలు, ప్రదర్శనలు, ఇతర వాణిజ్య కార్యక్రమాలను నిషేధించే అవకాశం ఉందని సియాసత్ కథనం. నిబంధనలు పరిశీలించాలని విద్యాశాఖను అధికారులు కోరారు. పెద్ద కార్యక్రమాలకు ముందుగానే అధికారులకు లేదా పోలీసులకు హాజరు, భద్రత వివరాలు తెలియజేయాల్సి రావచ్చు. విద్యా, క్రీడా కార్యక్రమాలకు అనుమతి ఉంటుంది. ఇంకా అధికారిక ఉత్తర్వులు రాలేదు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/no-more-movie-events-in-colleges-telangana-govt-plans-big-action-3573951/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "వాణిజ్య కార్యక్రమాలపై నిషేధం యోచన",
+    "పెద్ద ఈవెంట్లకు ముందస్తు సమాచారం తప్పనిసరి కావచ్చు",
+    "అధికారిక ఉత్తర్వులు ఇంకా రాలేదు"
+   ],
+   "why": "రాష్ట్రవ్యాప్తంగా కళాశాలల విద్యార్థులు, యాజమాన్యాలపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T12:42+05:30",
+   "en": {
+    "h": "Telangana govt considering ban on movie events in educational institutions",
+    "p": "Siasat reports that Telangana is likely to ban film promotions, screenings and other commercial events on educational campuses over safety concerns. Officials have asked the Education Department to examine the rules. Colleges may have to inform authorities or police in advance about attendance and safety arrangements for large events. Academic and sports events would be allowed. No formal orders have been issued yet.",
+    "pts": [
+     "Ban on commercial events under consideration",
+     "Advance notice may be required for big events",
+     "No formal orders issued yet"
+    ],
+    "why": "The decision would affect college students and managements across the state.",
+    "cat": "Telangana · Education",
+    "statl": "Movie events in colleges"
+   },
+   "hi": {
+    "h": "शिक्षण संस्थानों में फिल्मी कार्यक्रमों पर रोक लगाने पर विचार कर रही तेलंगाना सरकार",
+    "p": "सियासत की रिपोर्ट के अनुसार सुरक्षा कारणों से तेलंगाना शिक्षण संस्थानों के परिसरों में फिल्म प्रचार, प्रदर्शन और अन्य व्यावसायिक कार्यक्रमों पर रोक लगा सकता है। अधिकारियों ने शिक्षा विभाग से नियमों की जांच करने को कहा है। बड़े कार्यक्रमों के लिए कॉलेजों को पहले से अधिकारियों या पुलिस को उपस्थिति और सुरक्षा की जानकारी देनी पड़ सकती है। शैक्षणिक और खेल कार्यक्रमों की अनुमति रहेगी। अभी औपचारिक आदेश जारी नहीं हुए हैं।",
+    "pts": [
+     "व्यावसायिक कार्यक्रमों पर रोक पर विचार",
+     "बड़े कार्यक्रमों के लिए पहले सूचना जरूरी हो सकती है",
+     "अभी औपचारिक आदेश जारी नहीं"
+    ],
+    "why": "इस फैसले का असर पूरे राज्य के कॉलेज छात्रों और प्रबंधनों पर पड़ेगा।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "कॉलेजों में फिल्मी कार्यक्रम"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
   {
    "cat": "నల్గొండ · వ్యవసాయం",
    "col": "--c-gov",
@@ -2202,305 +2553,6 @@
    },
    "d": "11.11.2026",
    "t": "14:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆరోగ్యం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "5%",
-   "statl": "అల్వాల్ టిమ్స్ పనులపై క్రిశాంక్ ఆరోపణ",
-   "h": "ప్రభుత్వ ఆసుపత్రులపై సీఎంకు శ్రద్ధ లేదు: బీఆర్ఎస్ నేత క్రిశాంక్ ఆరోపణ",
-   "p": "సీఎం రేవంత్ రెడ్డి రెండేళ్లలో మూడు మెడికవర్ ఆసుపత్రులు ప్రారంభించారని, ప్రభుత్వ ఆసుపత్రులపై మాత్రం శ్రద్ధ లేదని బీఆర్ఎస్ నేత మన్నె క్రిశాంక్ ఆరోపించినట్లు నమస్తే తెలంగాణ తెలిపింది. అల్వాల్ టిమ్స్ ఆసుపత్రి పనులపై మంత్రుల ప్రకటనలు చూస్తే 2025 జనవరి నుంచి కేవలం 5 శాతం పురోగతే కనిపిస్తోందని ఆయన అన్నారు. ప్రజలకు వైద్యం అందేలా ప్రభుత్వ ఆసుపత్రులపై దృష్టి పెట్టాలని కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/manne-krishank-stated-that-revanth-reddy-has-no-interest-in-government-hospitals-2557516",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "మూడు మెడికవర్ ఆసుపత్రుల ప్రారంభంపై ప్రశ్న",
-    "అల్వాల్ టిమ్స్ పనుల జాప్యంపై ఆరోపణ",
-    "ప్రభుత్వ ఆసుపత్రులపై దృష్టి పెట్టాలని డిమాండ్"
-   ],
-   "why": "అల్వాల్ టిమ్స్ ఆసుపత్రి ఎప్పుడు అందుబాటులోకి వస్తుందనేది ఆ ప్రాంత ప్రజలకు కీలకం.",
-   "pub": "2026-11-11T12:48+05:30",
-   "en": {
-    "h": "CM shows no interest in government hospitals, alleges BRS leader Krishank",
-    "p": "BRS leader Manne Krishank alleged that CM Revanth Reddy opened three Medicover hospitals in two years but shows no interest in government hospitals, Namasthe Telangana reported. He said ministers' own statements on the Alwal TIMS hospital show only about 5 per cent progress since January 2025. He urged the government to focus on public hospitals so people get medical care.",
-    "pts": [
-     "Questions opening of three Medicover hospitals",
-     "Alleges delay in Alwal TIMS works",
-     "Demands focus on government hospitals"
-    ],
-    "why": "When Alwal TIMS hospital opens matters to people in that area.",
-    "cat": "Telangana · Health",
-    "statl": "Krishank's claim on Alwal TIMS works"
-   },
-   "hi": {
-    "h": "सरकारी अस्पतालों पर सीएम का ध्यान नहीं: बीआरएस नेता कृशांक का आरोप",
-    "p": "नमस्ते तेलंगाना के अनुसार बीआरएस नेता मन्ने कृशांक ने आरोप लगाया कि सीएम रेवंत रेड्डी ने दो साल में तीन मेडिकवर अस्पतालों का उद्घाटन किया, लेकिन सरकारी अस्पतालों पर ध्यान नहीं है। उन्होंने कहा कि अलवाल टिम्स अस्पताल पर मंत्रियों के बयानों से जनवरी 2025 से केवल 5 प्रतिशत प्रगति दिखती है। उन्होंने लोगों को इलाज मिले, इसके लिए सरकारी अस्पतालों पर ध्यान देने की मांग की।",
-    "pts": [
-     "तीन मेडिकवर अस्पतालों के उद्घाटन पर सवाल",
-     "अलवाल टिम्स के काम में देरी का आरोप",
-     "सरकारी अस्पतालों पर ध्यान देने की मांग"
-    ],
-    "why": "अलवाल टिम्स अस्पताल कब शुरू होगा, यह उस क्षेत्र के लोगों के लिए अहम है।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "अलवाल टिम्स पर कृशांक का दावा"
-   },
-   "d": "11.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "కరీంనగర్ · పర్యావరణం",
-   "col": "--c-gov",
-   "art": "land",
-   "stat": "అనుమతి లేదు",
-   "statl": "చెట్ల నరికివేతను గుర్తించిన అటవీ అధికారులు",
-   "h": "శాతవాహన యూనివర్సిటీలో అనుమతి లేకుండా చెట్ల నరికివేత: విద్యార్థుల ఫిర్యాదు",
-   "p": "కరీంనగర్ శాతవాహన యూనివర్సిటీలో మట్టి తవ్వకాలతో పాటు చెట్లను అక్రమంగా నరుకుతున్నారని విద్యార్థులు కలెక్టర్‌కు ఫిర్యాదు చేసినట్లు నమస్తే తెలంగాణ తెలిపింది. కలెక్టర్ ఆదేశంతో అటవీ శాఖ అధికారులు యూనివర్సిటీని సందర్శించి అనుమతి లేకుండా చెట్లు నరికినట్లు గుర్తించారు. చర్యలు తీసుకోవాలని విద్యార్థులు కాలుష్య నియంత్రణ మండలికి కూడా ఫిర్యాదు చేశారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/illegal-felling-of-trees-at-satavahana-university-in-karimnagar-2557474",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "karimnagar",
-   "pts": [
-    "చెట్ల నరికివేతపై కలెక్టర్‌కు విద్యార్థుల ఫిర్యాదు",
-    "అనుమతి లేదని గుర్తించిన అటవీ అధికారులు",
-    "కాలుష్య నియంత్రణ మండలికీ ఫిర్యాదు"
-   ],
-   "why": "క్యాంపస్‌లో పచ్చదనం, వన్యప్రాణుల రక్షణపై విద్యార్థులు ఆందోళన వ్యక్తం చేస్తున్నారు.",
-   "pub": "2026-11-11T11:22+05:30",
-   "en": {
-    "h": "Trees felled without permission at Satavahana University: students complain",
-    "p": "Students complained to the Collector that trees were being illegally cut along with soil excavation at Satavahana University in Karimnagar, Namasthe Telangana reported. On the Collector's direction, Forest Department officials visited the university and found trees had been felled without permission. The students also complained to the Pollution Control Board seeking action.",
-    "pts": [
-     "Students complain to Collector over tree felling",
-     "Forest officials find no permission was taken",
-     "Complaint also made to Pollution Control Board"
-    ],
-    "why": "Students are concerned about protecting greenery and wildlife on the campus.",
-    "cat": "Karimnagar · Environment",
-    "statl": "forest officials found trees felled"
-   },
-   "hi": {
-    "h": "शातवाहन विश्वविद्यालय में बिना अनुमति पेड़ों की कटाई: छात्रों की शिकायत",
-    "p": "नमस्ते तेलंगाना के अनुसार करीमनगर के शातवाहन विश्वविद्यालय में मिट्टी खुदाई के साथ अवैध रूप से पेड़ काटे जाने की छात्रों ने कलेक्टर से शिकायत की। कलेक्टर के निर्देश पर वन विभाग के अधिकारियों ने विश्वविद्यालय का दौरा किया और पाया कि बिना अनुमति पेड़ काटे गए। छात्रों ने कार्रवाई के लिए प्रदूषण नियंत्रण बोर्ड से भी शिकायत की।",
-    "pts": [
-     "पेड़ कटाई पर छात्रों की कलेक्टर से शिकायत",
-     "वन अधिकारियों ने पाया, अनुमति नहीं ली गई",
-     "प्रदूषण नियंत्रण बोर्ड से भी शिकायत"
-    ],
-    "why": "छात्र परिसर की हरियाली और वन्यजीवों की सुरक्षा को लेकर चिंतित हैं।",
-    "cat": "करीमनगर · पर्यावरण",
-    "statl": "वन अधिकारियों ने कटाई पाई"
-   },
-   "d": "11.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "ఏపీ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "నవం. 11",
-   "statl": "జాతీయ విద్యా దినోత్సవం",
-   "h": "మౌలానా ఆజాద్ ఆశయాలు భావితరాలకు స్ఫూర్తి: సీఎం చంద్రబాబు",
-   "p": "జాతీయ విద్యా దినోత్సవం సందర్భంగా మౌలానా అబుల్ కలాం ఆజాద్ జయంతి నాడు ఏపీ సీఎం చంద్రబాబు నాయుడు నివాళులర్పించినట్లు డెక్కన్ క్రానికల్ తెలిపింది. స్వాతంత్ర్య సమరయోధుడు, పండితుడు, దేశ తొలి విద్యా మంత్రిగా ఆజాద్ విద్యా వ్యవస్థను బలోపేతం చేశారని గుర్తు చేశారు. విద్యను దేశ నిర్మాణానికి, సామాజిక మార్పుకు సాధనంగా ఆజాద్ చూశారని, ఆయన ఆశయాలు భావితరాలకు స్ఫూర్తినిస్తాయని అన్నారు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/national-education-day-naidu-pays-homage-to-maulana-abul-kalam-azad-2003399",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "ఆజాద్ జయంతి నాడు జాతీయ విద్యా దినోత్సవం",
-    "దేశ తొలి విద్యా మంత్రిగా సేవలను గుర్తు చేసిన సీఎం",
-    "ఆజాద్ ఆశయాలు భావితరాలకు స్ఫూర్తి అన్న చంద్రబాబు"
-   ],
-   "why": "విద్యారంగంలో ఆజాద్ సేవలను విద్యార్థులు, ఉపాధ్యాయులు స్మరించుకునే రోజు ఇది.",
-   "pub": "2026-11-11T10:02+05:30",
-   "en": {
-    "h": "Maulana Azad's ideals will inspire future generations: CM Naidu",
-    "p": "AP CM N. Chandrababu Naidu paid tribute to Maulana Abul Kalam Azad on his birth anniversary, observed as National Education Day, Deccan Chronicle reported. He recalled Azad as a freedom fighter, scholar and India's first Education Minister who strengthened the education system. He said Azad saw education as a tool for nation-building and social change, and his ideals would inspire future generations.",
-    "pts": [
-     "Azad's birth anniversary is National Education Day",
-     "CM recalls his role as India's first Education Minister",
-     "Naidu says Azad's ideals will inspire future generations"
-    ],
-    "why": "It is a day for students and teachers to remember Azad's service to education.",
-    "cat": "AP · Education",
-    "statl": "National Education Day"
-   },
-   "hi": {
-    "h": "मौलाना आज़ाद के आदर्श भावी पीढ़ियों को प्रेरित करेंगे: सीएम नायडू",
-    "p": "डेक्कन क्रॉनिकल के अनुसार आंध्र प्रदेश के सीएम एन. चंद्रबाबू नायडू ने राष्ट्रीय शिक्षा दिवस के रूप में मनाई जाने वाली मौलाना अबुल कलाम आज़ाद की जयंती पर उन्हें श्रद्धांजलि दी। उन्होंने आज़ाद को स्वतंत्रता सेनानी, विद्वान और देश के पहले शिक्षा मंत्री के रूप में याद किया, जिन्होंने शिक्षा व्यवस्था को मजबूत किया। उन्होंने कहा कि आज़ाद शिक्षा को राष्ट्र निर्माण और सामाजिक बदलाव का साधन मानते थे और उनके आदर्श भावी पीढ़ियों को प्रेरित करेंगे।",
-    "pts": [
-     "आज़ाद की जयंती राष्ट्रीय शिक्षा दिवस",
-     "सीएम ने पहले शिक्षा मंत्री के रूप में योगदान याद किया",
-     "नायडू बोले, आज़ाद के आदर्श भावी पीढ़ियों को प्रेरणा देंगे"
-    ],
-    "why": "यह छात्रों और शिक्षकों के लिए शिक्षा में आज़ाद के योगदान को याद करने का दिन है।",
-    "cat": "आंध्र प्रदेश · शिक्षा",
-    "statl": "राष्ट्रीय शिक्षा दिवस"
-   },
-   "d": "11.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "ఏపీ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "నవం. 15",
-   "statl": "నాటికి వాయుగుండంగా మారే అవకాశం",
-   "h": "అప్‌డేట్: బంగాళాఖాతంలో అల్పపీడనం, 15 నాటికి వాయుగుండం అవకాశం",
-   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13 నాటికి అల్పపీడనం ఏర్పడే అవకాశం ఉందని ఏపీ విపత్తుల నిర్వహణ సంస్థ తెలిపింది. ఇది వాయువ్య దిశగా కదిలి శనివారం నాటికి బలపడి, ఆదివారం (15న) వాయుగుండంగా మారే అవకాశం ఉందని పేర్కొంది. శనివారం నుంచి మంగళవారం వరకు సముద్రం అల్లకల్లోలంగా ఉంటుందని, మత్స్యకారులు వేటకు వెళ్లవద్దని హెచ్చరించింది. ప్రస్తుతానికి ఏపీపై ప్రభావం లేదని అధికారులు చెప్పారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/weather-forecast/bay-of-bengal-low-pressure-depression-november-weather-alert-suchi-1575250.html",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "13 నాటికి ఆగ్నేయ బంగాళాఖాతంలో అల్పపీడనం",
-    "15న వాయుగుండంగా మారే అవకాశం",
-    "శనివారం నుంచి మంగళవారం వరకు మత్స్యకారులకు హెచ్చరిక"
-   ],
-   "why": "తీర ప్రాంత మత్స్యకారులు ఈ హెచ్చరికను పాటించి వేటకు వెళ్లకుండా జాగ్రత్త పడాలి.",
-   "pub": "2026-11-11T13:28+05:30",
-   "en": {
-    "h": "Update: Low pressure in Bay of Bengal may become depression by Nov 15",
-    "p": "The AP Disaster Management Authority said a low pressure area may form over the southeast Bay of Bengal by November 13. It is expected to move northwest, strengthen by Saturday and become a depression by Sunday (15th). The sea will be rough from Saturday to Tuesday and fishermen were warned not to venture out. Officials said there is no impact on AP for now.",
-    "pts": [
-     "Low pressure likely over southeast Bay of Bengal by Nov 13",
-     "May intensify into a depression on Nov 15",
-     "Fishermen warned from Saturday to Tuesday"
-    ],
-    "why": "Coastal fishermen should follow the warning and avoid going to sea.",
-    "cat": "AP · Weather",
-    "statl": "likely to become a depression by then"
-   },
-   "hi": {
-    "h": "अपडेट: बंगाल की खाड़ी में कम दबाव, 15 नवंबर तक डिप्रेशन बनने की संभावना",
-    "p": "आंध्र प्रदेश आपदा प्रबंधन प्राधिकरण ने कहा कि 13 नवंबर तक दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव का क्षेत्र बन सकता है। यह उत्तर-पश्चिम की ओर बढ़कर शनिवार तक मजबूत होगा और रविवार (15 तारीख) तक डिप्रेशन बन सकता है। शनिवार से मंगलवार तक समुद्र अशांत रहेगा, मछुआरों को समुद्र में न जाने की चेतावनी दी गई। अधिकारियों के अनुसार अभी आंध्र प्रदेश पर कोई असर नहीं है।",
-    "pts": [
-     "13 नवंबर तक दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव",
-     "15 नवंबर को डिप्रेशन बनने की संभावना",
-     "शनिवार से मंगलवार तक मछुआरों को चेतावनी"
-    ],
-    "why": "तटीय मछुआरों को चेतावनी का पालन कर समुद्र में जाने से बचना चाहिए।",
-    "cat": "आंध्र प्रदेश · मौसम",
-    "statl": "तक डिप्रेशन बनने की संभावना"
-   },
-   "d": "11.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "మహబూబాబాద్ · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "deadline",
-   "stat": "నవం. 13",
-   "statl": "విదేశీ ఉద్యోగాలకు టామ్‌కామ్ రిజిస్ట్రేషన్",
-   "h": "విదేశీ ఉద్యోగాల కోసం 13న మహబూబాబాద్‌లో టామ్‌కామ్ రిజిస్ట్రేషన్",
-   "p": "తెలంగాణ ప్రభుత్వ సంస్థ టామ్‌కామ్ (తెలంగాణ ఓవర్సీస్ మ్యాన్‌పవర్ కంపెనీ) విదేశాల్లో ఉద్యోగాలు కోరుకునేవారి కోసం నవంబర్ 13న మహబూబాబాద్‌లో ప్రత్యేక రిజిస్ట్రేషన్ కార్యక్రమం నిర్వహిస్తోంది. ఎస్సీ కార్యాలయ ప్రాంగణంలోని ఏటీసీ కేంద్రంలో ఇది జరుగుతుందని జిల్లా ఉపాధి అధికారి రజిత తెలిపారు. జర్మనీ, యూకే, ఇజ్రాయెల్, ఆస్ట్రియా, పోలాండ్, సౌదీ అరేబియా, మారిషస్, దుబాయ్ తదితర దేశాల్లో అవకాశాలు ఉన్నాయన్నారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/warangal/tomcom-to-hold-registration-drive-for-overseas-jobs-in-mahabubabad-on-november-13-1141071",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "mahabubabad",
-   "pts": [
-    "నవంబర్ 13న ఏటీసీ కేంద్రంలో రిజిస్ట్రేషన్",
-    "జర్మనీ, యూకే, ఇజ్రాయెల్ సహా పలు దేశాల్లో అవకాశాలు",
-    "సురక్షిత, చట్టబద్ధ వలస మార్గాలు వాడాలని సూచన"
-   ],
-   "why": "విదేశీ ఉద్యోగాలు కోరే జిల్లా యువత ప్రభుత్వ సంస్థ ద్వారా సురక్షితంగా నమోదు చేసుకోవచ్చు.",
-   "pub": "2026-11-11T13:06+05:30",
-   "en": {
-    "h": "TOMCOM overseas jobs registration drive in Mahabubabad on November 13",
-    "p": "TOMCOM (Telangana Overseas Manpower Company), a state government undertaking, will hold a special registration programme for overseas job seekers in Mahabubabad on November 13. District Employment Officer Rajitha said it will be held at the ATC centre in the SC Office premises. Opportunities are available in Germany, the UK, Israel, Austria, Poland, Saudi Arabia, Mauritius, Dubai and other countries, she said.",
-    "pts": [
-     "Registration at the ATC centre on November 13",
-     "Openings in Germany, UK, Israel and other countries",
-     "Candidates urged to use safe and legal migration channels"
-    ],
-    "why": "Youth in the district seeking jobs abroad can register safely through a government agency.",
-    "cat": "Mahabubabad · Jobs",
-    "statl": "TOMCOM registration for overseas jobs"
-   },
-   "hi": {
-    "h": "विदेशी नौकरियों के लिए 13 नवंबर को महबूबाबाद में टॉमकॉम पंजीकरण",
-    "p": "तेलंगाना सरकार की संस्था टॉमकॉम (तेलंगाना ओवरसीज़ मैनपावर कंपनी) विदेश में नौकरी चाहने वालों के लिए 13 नवंबर को महबूबाबाद में विशेष पंजीकरण कार्यक्रम आयोजित करेगी। जिला रोजगार अधिकारी रजिता ने बताया कि यह एससी कार्यालय परिसर के एटीसी केंद्र में होगा। जर्मनी, ब्रिटेन, इज़राइल, ऑस्ट्रिया, पोलैंड, सऊदी अरब, मॉरीशस, दुबई और अन्य देशों में अवसर उपलब्ध हैं।",
-    "pts": [
-     "13 नवंबर को एटीसी केंद्र में पंजीकरण",
-     "जर्मनी, ब्रिटेन, इज़राइल सहित कई देशों में अवसर",
-     "सुरक्षित और कानूनी प्रवास मार्ग अपनाने की सलाह"
-    ],
-    "why": "विदेश में नौकरी चाहने वाले जिले के युवा सरकारी संस्था के जरिए सुरक्षित पंजीकरण करा सकते हैं।",
-    "cat": "महबूबाबाद · नौकरियां",
-    "statl": "विदेशी नौकरियों के लिए टॉमकॉम पंजीकरण"
-   },
-   "d": "11.11.2026",
-   "t": "13:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయాలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "77",
-   "statl": "నియోజకవర్గాల్లో పట్టభద్రుల ఎన్నికలు (కవిత ప్రకారం)",
-   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలు: ఓటు నమోదు చేసుకోవాలని కవిత పిలుపు",
-   "p": "త్వరలో రెండు పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలు ఉన్నాయని, పట్టభద్రులంతా ఓటర్లుగా నమోదు చేసుకోవాలని తెలంగాణ రాష్ట్ర సేన అధ్యక్షురాలు కల్వకుంట్ల కవిత హైదరాబాద్‌లో కోరారు. రాష్ట్రంలో సుమారు 80 లక్షల మంది పట్టభద్రులు ఉంటే 10 లక్షల లోపే నమోదయ్యారని ఆమె అన్నారు. గెలుపు కోసం కాంగ్రెస్ రూ.200 కోట్లు ఖర్చు చేయాలని చూస్తోందని ఆరోపించి, డబ్బుకు ఓటు అమ్ముకోవద్దని యువతను కోరారు.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/telangana/hyderabad/kavitha-graduate-mlc-election-campaign-suchi-1575240.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "హైదరాబాద్",
-   "pts": [
-    "త్వరలో రెండు పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికలు",
-    "80 లక్షల పట్టభద్రుల్లో 10 లక్షల లోపే నమోదు: కవిత",
-    "కాంగ్రెస్ రూ.200 కోట్లు ఖర్చు చేయనుందని కవిత ఆరోపణ"
-   ],
-   "why": "పట్టభద్రులు ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలంటే ముందుగా ఓటర్లుగా నమోదు చేసుకోవాలి.",
-   "pub": "2026-11-11T11:59+05:30",
-   "en": {
-    "h": "Graduate MLC polls: Kavitha urges graduates to register as voters",
-    "p": "Telangana Rashtra Sena president Kalvakuntla Kavitha, speaking in Hyderabad, said two graduate MLC elections are due soon and urged all graduates to register as voters. She said of about 80 lakh graduates in the state, fewer than 10 lakh have registered. She alleged that the Congress plans to spend Rs 200 crore to win and urged youth not to sell their votes for money.",
-    "pts": [
-     "Two graduate MLC elections due soon",
-     "Fewer than 10 lakh of 80 lakh graduates registered: Kavitha",
-     "Kavitha alleges Congress plans to spend Rs 200 crore"
-    ],
-    "why": "Graduates must register as voters first to vote in the MLC elections.",
-    "cat": "Telangana · Politics",
-    "statl": "constituencies in graduate polls (per Kavitha)"
-   },
-   "hi": {
-    "h": "स्नातक एमएलसी चुनाव: कविता ने स्नातकों से मतदाता पंजीकरण की अपील की",
-    "p": "तेलंगाना राष्ट्र सेना की अध्यक्ष कल्वकुंट्ला कविता ने हैदराबाद में कहा कि जल्द ही दो स्नातक एमएलसी चुनाव होने हैं और सभी स्नातकों से मतदाता के रूप में पंजीकरण कराने की अपील की। उन्होंने कहा कि राज्य में लगभग 80 लाख स्नातकों में से 10 लाख से कम ने पंजीकरण कराया है। उन्होंने आरोप लगाया कि कांग्रेस जीत के लिए 200 करोड़ रुपये खर्च करने की योजना बना रही है और युवाओं से पैसे के लिए वोट न बेचने को कहा।",
-    "pts": [
-     "जल्द ही दो स्नातक एमएलसी चुनाव",
-     "80 लाख में से 10 लाख से कम स्नातक पंजीकृत: कविता",
-     "कविता का आरोप – कांग्रेस 200 करोड़ खर्च करेगी"
-    ],
-    "why": "एमएलसी चुनाव में वोट देने के लिए स्नातकों को पहले मतदाता पंजीकरण कराना होगा।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "निर्वाचन क्षेत्रों में स्नातक चुनाव (कविता के अनुसार)"
-   },
-   "d": "11.11.2026",
-   "t": "13:35"
   }
  ]
 }

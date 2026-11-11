@@ -1,8 +1,359 @@
 {
  "date": "11.11.2026",
  "iso": "2026-11-11",
- "count": 136,
+ "count": 143,
  "stories": [
+  {
+   "cat": "భూపాలపల్లి · ఆరోగ్యం",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "30 రోజులు",
+   "statl": "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె",
+   "h": "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె 30వ రోజు: మహదేవపూర్‌లో పిల్లల టీకాలకు ఆటంకం",
+   "p": "జయశంకర్ భూపాలపల్లి జిల్లా మహదేవపూర్ మండలంలో ఎన్‌హెచ్‌ఎం ఉద్యోగుల నిరవధిక సమ్మె 30వ రోజుకు చేరింది. ఆసుపత్రులు, పీహెచ్‌సీలు, ఉపకేంద్రాల్లో సిబ్బంది లేక పిల్లలకు ఉచిత టీకాలు ఆలస్యమవుతున్నాయని, తల్లిదండ్రులు ఆందోళన చెందుతున్నారని నమస్తే తెలంగాణ కథనం. కాంట్రాక్ట్, ఔట్‌సోర్సింగ్ ఉద్యోగులను క్రమబద్ధీకరించి ఉద్యోగ భద్రత కల్పించాలని, టీకా కార్యక్రమం ఆగకుండా చూడాలని ఎన్‌హెచ్‌ఎం జేఏసీ నాయకులు ప్రభుత్వాన్ని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/warangal-rural/jayashankar/vaccines-not-reached-to-children-due-to-nhm-employees-strike-in-mahadevpur-2557694",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhupalpally",
+   "loc": "మహదేవపూర్",
+   "pts": [
+    "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె 30వ రోజుకు",
+    "గ్రామీణ ప్రాంతాల్లో పిల్లల ఉచిత టీకాలు ఆలస్యం",
+    "ఉద్యోగాల క్రమబద్ధీకరణకు జేఏసీ డిమాండ్"
+   ],
+   "why": "మహదేవపూర్ మండలంలో చిన్నారుల టీకాలు, గ్రామీణ వైద్య సేవలపై సమ్మె ప్రభావం పడుతోంది.",
+   "pub": "2026-11-11T17:46+05:30",
+   "en": {
+    "h": "NHM staff strike hits day 30; child vaccinations disrupted in Mahadevpur",
+    "p": "The indefinite strike by NHM employees in Mahadevpur mandal of Jayashankar Bhupalpally district has reached its 30th day. Namasthe Telangana reports that with staff absent at hospitals, PHCs and sub-centres, free vaccinations for children are being delayed and parents are worried. NHM JAC leaders asked the government to regularise contract and outsourced employees with job security and to ensure the vaccination programme continues.",
+    "pts": [
+     "NHM employees' strike reaches day 30",
+     "Free child vaccinations delayed in rural areas",
+     "JAC demands regularisation of jobs"
+    ],
+    "why": "The strike is affecting children's vaccinations and rural health services in Mahadevpur mandal.",
+    "cat": "Bhupalpally · Health",
+    "statl": "NHM employees' strike"
+   },
+   "hi": {
+    "h": "एनएचएम कर्मचारियों की हड़ताल 30वें दिन: महादेवपुर में बच्चों के टीकाकरण में बाधा",
+    "p": "जयशंकर भूपालपल्ली जिले के महादेवपुर मंडल में एनएचएम कर्मचारियों की अनिश्चितकालीन हड़ताल 30वें दिन पहुंच गई। नमस्ते तेलंगाना की रिपोर्ट के अनुसार अस्पतालों, पीएचसी और उपकेंद्रों में कर्मचारी न होने से बच्चों के मुफ्त टीके टल रहे हैं और माता-पिता चिंतित हैं। एनएचएम जेएसी नेताओं ने सरकार से अनुबंध और आउटसोर्सिंग कर्मचारियों को नौकरी की सुरक्षा के साथ नियमित करने और टीकाकरण कार्यक्रम जारी रखने की मांग की।",
+    "pts": [
+     "एनएचएम कर्मचारियों की हड़ताल 30वें दिन",
+     "ग्रामीण इलाकों में बच्चों के मुफ्त टीके टले",
+     "जेएसी ने नौकरियां नियमित करने की मांग की"
+    ],
+    "why": "हड़ताल से महादेवपुर मंडल में बच्चों के टीकाकरण और ग्रामीण स्वास्थ्य सेवाओं पर असर पड़ रहा है।",
+    "cat": "भूपालपल्ली · स्वास्थ्य",
+    "statl": "एनएचएम कर्मचारियों की हड़ताल"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రైల్వే",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "₹5.20 లక్షలు",
+   "statl": "స్వాధీనమైన బంగారు గొలుసు విలువ",
+   "h": "చర్లపల్లి ఎక్స్‌ప్రెస్‌లో బంగారు గొలుసు చోరీ ఆరోపణ: బెడ్‌రోల్ అటెండెంట్ అరెస్ట్",
+   "p": "చర్లపల్లి ఎక్స్‌ప్రెస్ ఏసీ బోగీలో ప్రయాణికురాలి బంగారు గొలుసు తీసుకున్నాడన్న ఆరోపణపై 26 ఏళ్ల బెడ్‌రోల్ అటెండెంట్‌ను జీఆర్‌పీ పోలీసులు అరెస్ట్ చేశారు. పోలీసుల ప్రకారం, నవంబర్ 9 తెల్లవారుజామున నర్సాపూర్ నుంచి రైలు చర్లపల్లి చేరినప్పుడు దిండు కింద గొలుసు దొరికింది. సికింద్రాబాద్‌లో అమ్మేందుకు ప్రయత్నించి విఫలమయ్యాడు. ₹5.20 లక్షల విలువైన 40 గ్రాముల గొలుసును స్వాధీనం చేసుకున్నారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://deccanchronicle.com/southern-states/telangana/cherlapally-express-bedroll-attendant-held-for-stealing-40-grams-of-gold-chain-2003481",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "చర్లపల్లి",
+   "pts": [
+    "ఏసీ బోగీ బీ1లో గొలుసు దొరికిందని పోలీసులు",
+    "40 గ్రాముల గొలుసు స్వాధీనం",
+    "చర్లపల్లి స్టేషన్‌లో నిందితుడి అరెస్ట్"
+   ],
+   "why": "రైళ్లలో ప్రయాణికులు తమ విలువైన వస్తువుల విషయంలో జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తు చేస్తోంది.",
+   "pub": "2026-11-11T17:16+05:30",
+   "en": {
+    "h": "Bedroll attendant held over gold chain theft on Cherlapally Express",
+    "p": "The Government Railway Police arrested a 26-year-old bedroll attendant of the Cherlapally Express on the allegation that he took a passenger's gold chain in an AC coach. According to police, he found the chain under a pillow when the train from Narsapur reached Cherlapally early on November 9. He tried to sell it in Secunderabad but failed. A 40-gram chain worth ₹5.20 lakh was recovered.",
+    "pts": [
+     "Police say chain was found in AC coach B1",
+     "40-gram chain recovered",
+     "Accused arrested at Cherlapally station"
+    ],
+    "why": "The case is a reminder for train passengers to keep their valuables safe.",
+    "cat": "Hyderabad · Railways",
+    "statl": "Value of recovered gold chain"
+   },
+   "hi": {
+    "h": "चर्लापल्ली एक्सप्रेस में सोने की चेन चोरी का आरोप: बेडरोल अटेंडेंट गिरफ्तार",
+    "p": "जीआरपी पुलिस ने चर्लापल्ली एक्सप्रेस के एसी कोच में एक यात्री की सोने की चेन लेने के आरोप में 26 वर्षीय बेडरोल अटेंडेंट को गिरफ्तार किया। पुलिस के अनुसार 9 नवंबर तड़के नरसापुर से ट्रेन चर्लापल्ली पहुंचने पर उसे तकिये के नीचे चेन मिली। उसने सिकंदराबाद में इसे बेचने की कोशिश की लेकिन नाकाम रहा। ₹5.20 लाख की 40 ग्राम की चेन बरामद की गई।",
+    "pts": [
+     "पुलिस के अनुसार एसी कोच बी1 में चेन मिली",
+     "40 ग्राम की चेन बरामद",
+     "आरोपी चर्लापल्ली स्टेशन पर गिरफ्तार"
+    ],
+    "why": "यह मामला ट्रेन यात्रियों को अपने कीमती सामान का ध्यान रखने की याद दिलाता है।",
+    "cat": "हैदराबाद · रेलवे",
+    "statl": "बरामद सोने की चेन की कीमत"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "పెద్దపల్లి · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "5–6",
+   "statl": "పైప్‌లైన్ లీకేజీలు",
+   "h": "రామగుండం 54వ డివిజన్‌లో భగీరథ పైప్‌లైన్ లీకులు: రోడ్లపై వృథాగా తాగునీరు",
+   "p": "రామగుండం మున్సిపల్ కార్పొరేషన్ 54వ డివిజన్‌లో పరశురామ్ నగర్ బోర్డు నుంచి తిలక్ నగర్ సెంటర్ వరకు ప్రధాన రహదారిపై మిషన్ భగీరథ పైప్‌లైన్‌కు ఐదారు చోట్ల లీకులు ఏర్పడి నీరు వృథా అవుతోందని నమస్తే తెలంగాణ కథనం. పర్యవేక్షణ లోపం, సిబ్బంది నిర్లక్ష్యమే కారణమని స్థానికులు ఆరోపిస్తున్నారు. పంప్‌హౌస్ సాంకేతిక లోపంతో రెండు రోజులు ఆగిన సరఫరా బుధవారం పునరుద్ధరించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/karimnagar/pipeline-leaks-where-are-the-remedial-measures-bhagiratha-water-goes-to-waste-in-ramagundams-54th-division-2557595",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "peddapalli",
+   "loc": "రామగుండం",
+   "pts": [
+    "ప్రధాన రహదారిపై ఐదారు చోట్ల లీకులు",
+    "నిర్లక్ష్యమే కారణమని స్థానికుల ఆరోపణ",
+    "రెండు రోజుల తర్వాత సరఫరా పునరుద్ధరణ"
+   ],
+   "why": "లీకులతో నీరు కలుషితమయ్యే ప్రమాదం ఉందని, కమిషనర్ వెంటనే చర్యలు తీసుకోవాలని స్థానికులు కోరుతున్నారు.",
+   "pub": "2026-11-11T16:01+05:30",
+   "en": {
+    "h": "Bhagiratha pipeline leaks in Ramagundam's 54th division waste drinking water",
+    "p": "Namasthe Telangana reports that Mission Bhagiratha drinking water is going to waste on the main road from Parasuram Nagar board to Tilak Nagar centre in the 54th division of Ramagundam Municipal Corporation, with five or six pipeline leaks. Residents allege poor supervision and staff negligence. Supply, halted for two days by a technical fault at the pump house, was restored on Wednesday.",
+    "pts": [
+     "Five or six leaks on the main road",
+     "Residents allege negligence",
+     "Supply restored after two days"
+    ],
+    "why": "Residents fear the leaks could contaminate water and want the commissioner to act quickly.",
+    "cat": "Peddapalli · Water",
+    "statl": "Pipeline leaks"
+   },
+   "hi": {
+    "h": "रामागुंडम के 54वें डिवीजन में भगीरथ पाइपलाइन में रिसाव: सड़कों पर बह रहा पीने का पानी",
+    "p": "नमस्ते तेलंगाना की रिपोर्ट के अनुसार रामागुंडम नगर निगम के 54वें डिवीजन में परशुराम नगर बोर्ड से तिलक नगर सेंटर तक मुख्य सड़क पर मिशन भगीरथ पाइपलाइन में पांच-छह जगह रिसाव से पीने का पानी बर्बाद हो रहा है। स्थानीय लोग खराब निगरानी और कर्मचारियों की लापरवाही का आरोप लगा रहे हैं। पंप हाउस में तकनीकी खराबी से दो दिन बंद रही आपूर्ति बुधवार को बहाल हुई।",
+    "pts": [
+     "मुख्य सड़क पर पांच-छह जगह रिसाव",
+     "स्थानीय लोगों का लापरवाही का आरोप",
+     "दो दिन बाद आपूर्ति बहाल"
+    ],
+    "why": "स्थानीय लोगों को डर है कि रिसाव से पानी दूषित हो सकता है और वे आयुक्त से तुरंत कार्रवाई चाहते हैं।",
+    "cat": "पेद्दापल्ली · पानी",
+    "statl": "पाइपलाइन रिसाव"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "సంగారెడ్డి · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹4,500",
+   "statl": "టన్ను చెరకుకు కోరిన మద్దతు ధర",
+   "h": "చెరకుకు టన్నుకు ₹4,500 మద్దతు ధర ఇవ్వాలి: జహీరాబాద్ ఎమ్మెల్యే మాణిక్‌రావు",
+   "p": "చెరకు రైతులకు టన్నుకు ₹4,500 మద్దతు ధర ఇవ్వాలని కోరుతూ జహీరాబాద్ ఎమ్మెల్యే కొనింటి మాణిక్‌రావు, మాజీ డీసీఎంఎస్ చైర్మన్ శివకుమార్ హైదరాబాద్‌లో రాష్ట్ర చెరకు కమిషనర్‌కు వినతిపత్రం ఇచ్చారు. నియోజకవర్గంలో సుమారు 49,592 ఎకరాల్లో చెరకు సాగవుతోందని, స్థానిక చక్కెర కర్మాగారం మూడేళ్లుగా మూతపడటంతో రవాణా ఖర్చులు రైతులకు భారమయ్యాయని తెలిపారు. కర్మాగారాన్ని తిరిగి తెరవాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/medak/sangareddy/mla-manik-rao-demands-govt-to-give-support-price-to-sugercane-farmer-2557530",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "జహీరాబాద్",
+   "pts": [
+    "చెరకు కమిషనర్‌కు ఎమ్మెల్యే వినతిపత్రం",
+    "సుమారు 49,592 ఎకరాల్లో చెరకు సాగు",
+    "మూడేళ్లుగా మూతపడిన చక్కెర కర్మాగారం"
+   ],
+   "why": "జహీరాబాద్ ప్రాంత చెరకు రైతుల ఆదాయం, రవాణా ఖర్చులకు సంబంధించిన డిమాండ్ ఇది.",
+   "pub": "2026-11-11T13:28+05:30",
+   "en": {
+    "h": "Give sugarcane ₹4,500 per tonne support price: Zaheerabad MLA Manik Rao",
+    "p": "Zaheerabad MLA Konintti Manik Rao and former DCMS chairman Shivakumar submitted a memorandum to the state sugarcane commissioner in Hyderabad seeking a support price of ₹4,500 per tonne for cane farmers. They said sugarcane is grown on about 49,592 acres in the constituency and that, with the local sugar factory shut for three years, transport costs have become a burden on farmers. They asked for the factory to be reopened.",
+    "pts": [
+     "MLA submits memorandum to cane commissioner",
+     "Sugarcane grown on about 49,592 acres",
+     "Sugar factory shut for three years"
+    ],
+    "why": "The demand concerns the income and transport costs of sugarcane farmers in the Zaheerabad area.",
+    "cat": "Sangareddy · Agriculture",
+    "statl": "Support price sought per tonne"
+   },
+   "hi": {
+    "h": "गन्ने को ₹4,500 प्रति टन समर्थन मूल्य दें: जहीराबाद विधायक माणिक राव",
+    "p": "जहीराबाद विधायक कोनिंटी माणिक राव और पूर्व डीसीएमएस अध्यक्ष शिवकुमार ने हैदराबाद में राज्य गन्ना आयुक्त को ज्ञापन देकर गन्ना किसानों के लिए ₹4,500 प्रति टन समर्थन मूल्य की मांग की। उन्होंने कहा कि निर्वाचन क्षेत्र में करीब 49,592 एकड़ में गन्ना उगाया जाता है और स्थानीय चीनी कारखाना तीन साल से बंद होने से परिवहन खर्च किसानों पर बोझ बन गया है। उन्होंने कारखाना फिर से खोलने की मांग की।",
+    "pts": [
+     "विधायक ने गन्ना आयुक्त को ज्ञापन दिया",
+     "करीब 49,592 एकड़ में गन्ने की खेती",
+     "तीन साल से बंद चीनी कारखाना"
+    ],
+    "why": "यह मांग जहीराबाद क्षेत्र के गन्ना किसानों की आय और परिवहन खर्च से जुड़ी है।",
+    "cat": "संगारेड्डी · कृषि",
+    "statl": "प्रति टन मांगा गया समर्थन मूल्य"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ఖమ్మం · ప్రమాదం",
+   "col": "--c-power",
+   "art": "deadline",
+   "stat": "1",
+   "statl": "గుర్తు తెలియని వ్యక్తి మృతి",
+   "h": "ఎర్రుపాలెంలో ఏపీఎస్ఆర్టీసీ బస్సు ఢీకొని గుర్తు తెలియని వ్యక్తి మృతి",
+   "p": "ఖమ్మం జిల్లా ఎర్రుపాలెంలో మంగళవారం రాత్రి సుమారు 9 గంటలకు విజయవాడ నుంచి వస్తున్న ఏపీఎస్ఆర్టీసీ బస్సు రోడ్డు దాటుతున్న గుర్తు తెలియని వ్యక్తిని ఢీకొట్టింది. 108 వాహనంలో మధిర ప్రభుత్వ ఆసుపత్రికి తరలించగా రాత్రి 10:30 గంటలకు మృతి చెందాడని పోలీసుల ప్రకారం. మృతుడి వయసు 50–60 ఏళ్లు ఉంటుందని, ఆచూకీ తెలిసినవారు ఎర్రుపాలెం పోలీసులను సంప్రదించాలని కోరారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/khammam/unidentified-person-dies-after-being-hit-by-an-apsrtc-bus-2557533",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "khammam",
+   "loc": "ఎర్రుపాలెం",
+   "pts": [
+    "రోడ్డు దాటుతుండగా బస్సు ఢీకొట్టింది",
+    "మధిర ఆసుపత్రిలో మృతి చెందాడని పోలీసులు",
+    "ఆచూకీ తెలిస్తే పోలీసులను సంప్రదించాలని విజ్ఞప్తి"
+   ],
+   "why": "మృతుడిని గుర్తించేందుకు పోలీసులు ప్రజల సహాయం కోరుతున్నారు.",
+   "pub": "2026-11-11T13:48+05:30",
+   "en": {
+    "h": "Unidentified man dies after being hit by APSRTC bus in Errupalem",
+    "p": "An APSRTC bus coming from Vijayawada hit an unidentified man crossing the road at Errupalem in Khammam district at about 9 pm on Tuesday. According to police, he was taken by 108 ambulance to Madhira government hospital, where he died at 10:30 pm. Police said he appeared to be 50–60 years old and asked anyone who recognises him to contact Errupalem police.",
+    "pts": [
+     "Bus hit him while crossing the road",
+     "Police say he died at Madhira hospital",
+     "Public asked to help identify him"
+    ],
+    "why": "Police are seeking the public's help to identify the deceased.",
+    "cat": "Khammam · Accident",
+    "statl": "Unidentified man dead"
+   },
+   "hi": {
+    "h": "एर्रुपालेम में एपीएसआरटीसी बस की टक्कर से अज्ञात व्यक्ति की मौत",
+    "p": "खम्मम जिले के एर्रुपालेम में मंगलवार रात करीब 9 बजे विजयवाड़ा से आ रही एपीएसआरटीसी बस ने सड़क पार कर रहे एक अज्ञात व्यक्ति को टक्कर मार दी। पुलिस के अनुसार उसे 108 एंबुलेंस से मधिरा सरकारी अस्पताल ले जाया गया, जहां रात 10:30 बजे उसकी मौत हो गई। पुलिस ने बताया कि उसकी उम्र 50–60 साल लगती है और पहचानने वालों से एर्रुपालेम पुलिस से संपर्क करने को कहा।",
+    "pts": [
+     "सड़क पार करते समय बस ने टक्कर मारी",
+     "पुलिस के अनुसार मधिरा अस्पताल में मौत",
+     "पहचान के लिए लोगों से मदद की अपील"
+    ],
+    "why": "पुलिस मृतक की पहचान के लिए लोगों की मदद मांग रही है।",
+    "cat": "खम्मम · हादसा",
+    "statl": "अज्ञात व्यक्ति की मौत"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "175",
+   "statl": "స్థానాల్లో పోటీ చేస్తామని ప్రకటన",
+   "h": "విజయసాయి రెడ్డి కొత్త పార్టీ 'పరివర్తన రాజనీతి పార్టీ' ప్రకటన",
+   "p": "మాజీ ఎంపీ విజయసాయి రెడ్డి విజయవాడలో 'పరివర్తన రాజనీతి పార్టీ (పీఆర్‌పీ)' పేరుతో కొత్త పార్టీని ప్రకటించారు. తెలుపు, కాషాయ రంగుల జెండా మధ్యలో ధర్మచక్రం ఉంటుందని తెలిపారు. యువ నాయకత్వాన్ని ముందుకు తేవడమే లక్ష్యమని, రాష్ట్రంలో రెండు కుటుంబాలే పాలిస్తున్నాయని ఆయన విమర్శించారు. మొత్తం 175 అసెంబ్లీ స్థానాల్లో పోటీ చేస్తామని ఆంధ్రజ్యోతి కథనం ప్రకారం ప్రకటించారు.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/krishna/former-mp-vijayasai-reddy-announces-name-of-his-prp-political-party-vk-1575235.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-ntr",
+   "loc": "విజయవాడ",
+   "pts": [
+    "కొత్త పార్టీ పేరు పరివర్తన రాజనీతి పార్టీ",
+    "జెండా మధ్యలో ధర్మచక్రం",
+    "175 అసెంబ్లీ స్థానాల్లో పోటీ చేస్తామని ప్రకటన"
+   ],
+   "why": "ఏపీ రాజకీయాల్లో మరో కొత్త పార్టీ రంగంలోకి వచ్చింది.",
+   "pub": "2026-11-11T11:31+05:30",
+   "en": {
+    "h": "Vijayasai Reddy launches new party, 'Parivartana Rajaniti Party'",
+    "p": "Former MP Vijayasai Reddy announced a new party, the Parivartana Rajaniti Party (PRP), in Vijayawada. He said its white and saffron flag carries a dharma chakra in the centre. He said the aim is to bring forward young leadership and criticised that two families rule the state. According to Andhra Jyothy, he announced that the party will contest all 175 Assembly seats.",
+    "pts": [
+     "New party named Parivartana Rajaniti Party",
+     "Dharma chakra at the centre of the flag",
+     "Says party will contest all 175 Assembly seats"
+    ],
+    "why": "Another new party has entered Andhra Pradesh politics.",
+    "cat": "AP · Politics",
+    "statl": "Seats party says it will contest"
+   },
+   "hi": {
+    "h": "विजयसाई रेड्डी ने नई पार्टी 'परिवर्तन राजनीति पार्टी' की घोषणा की",
+    "p": "पूर्व सांसद विजयसाई रेड्डी ने विजयवाड़ा में 'परिवर्तन राजनीति पार्टी (पीआरपी)' नाम से नई पार्टी की घोषणा की। उन्होंने कहा कि सफेद और भगवा झंडे के बीच में धर्मचक्र होगा। उन्होंने कहा कि लक्ष्य युवा नेतृत्व को आगे लाना है और आलोचना की कि राज्य पर दो परिवार राज कर रहे हैं। आंध्र ज्योति के अनुसार उन्होंने सभी 175 विधानसभा सीटों पर चुनाव लड़ने की घोषणा की।",
+    "pts": [
+     "नई पार्टी का नाम परिवर्तन राजनीति पार्टी",
+     "झंडे के बीच में धर्मचक्र",
+     "सभी 175 विधानसभा सीटों पर लड़ने की घोषणा"
+    ],
+    "why": "आंध्र प्रदेश की राजनीति में एक और नई पार्टी आई है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "सीटें जिन पर लड़ने की घोषणा"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "నిషేధం?",
+   "statl": "కళాశాలల్లో సినిమా ఈవెంట్లు",
+   "h": "విద్యాసంస్థల్లో సినిమా ఈవెంట్లపై నిషేధం యోచనలో తెలంగాణ ప్రభుత్వం",
+   "p": "భద్రతా కారణాల దృష్ట్యా విద్యాసంస్థల ఆవరణల్లో సినిమా ప్రచారాలు, ప్రదర్శనలు, ఇతర వాణిజ్య కార్యక్రమాలను నిషేధించే అవకాశం ఉందని సియాసత్ కథనం. నిబంధనలు పరిశీలించాలని విద్యాశాఖను అధికారులు కోరారు. పెద్ద కార్యక్రమాలకు ముందుగానే అధికారులకు లేదా పోలీసులకు హాజరు, భద్రత వివరాలు తెలియజేయాల్సి రావచ్చు. విద్యా, క్రీడా కార్యక్రమాలకు అనుమతి ఉంటుంది. ఇంకా అధికారిక ఉత్తర్వులు రాలేదు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/no-more-movie-events-in-colleges-telangana-govt-plans-big-action-3573951/",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "వాణిజ్య కార్యక్రమాలపై నిషేధం యోచన",
+    "పెద్ద ఈవెంట్లకు ముందస్తు సమాచారం తప్పనిసరి కావచ్చు",
+    "అధికారిక ఉత్తర్వులు ఇంకా రాలేదు"
+   ],
+   "why": "రాష్ట్రవ్యాప్తంగా కళాశాలల విద్యార్థులు, యాజమాన్యాలపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T12:42+05:30",
+   "en": {
+    "h": "Telangana govt considering ban on movie events in educational institutions",
+    "p": "Siasat reports that Telangana is likely to ban film promotions, screenings and other commercial events on educational campuses over safety concerns. Officials have asked the Education Department to examine the rules. Colleges may have to inform authorities or police in advance about attendance and safety arrangements for large events. Academic and sports events would be allowed. No formal orders have been issued yet.",
+    "pts": [
+     "Ban on commercial events under consideration",
+     "Advance notice may be required for big events",
+     "No formal orders issued yet"
+    ],
+    "why": "The decision would affect college students and managements across the state.",
+    "cat": "Telangana · Education",
+    "statl": "Movie events in colleges"
+   },
+   "hi": {
+    "h": "शिक्षण संस्थानों में फिल्मी कार्यक्रमों पर रोक लगाने पर विचार कर रही तेलंगाना सरकार",
+    "p": "सियासत की रिपोर्ट के अनुसार सुरक्षा कारणों से तेलंगाना शिक्षण संस्थानों के परिसरों में फिल्म प्रचार, प्रदर्शन और अन्य व्यावसायिक कार्यक्रमों पर रोक लगा सकता है। अधिकारियों ने शिक्षा विभाग से नियमों की जांच करने को कहा है। बड़े कार्यक्रमों के लिए कॉलेजों को पहले से अधिकारियों या पुलिस को उपस्थिति और सुरक्षा की जानकारी देनी पड़ सकती है। शैक्षणिक और खेल कार्यक्रमों की अनुमति रहेगी। अभी औपचारिक आदेश जारी नहीं हुए हैं।",
+    "pts": [
+     "व्यावसायिक कार्यक्रमों पर रोक पर विचार",
+     "बड़े कार्यक्रमों के लिए पहले सूचना जरूरी हो सकती है",
+     "अभी औपचारिक आदेश जारी नहीं"
+    ],
+    "why": "इस फैसले का असर पूरे राज्य के कॉलेज छात्रों और प्रबंधनों पर पड़ेगा।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "कॉलेजों में फिल्मी कार्यक्रम"
+   },
+   "d": "11.11.2026",
+   "t": "18:35"
+  },
   {
    "cat": "నల్గొండ · వ్యవసాయం",
    "col": "--c-gov",

@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-11T18:05:00+05:30",
+ "cutoff": "2026-11-11T18:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -751,6 +751,19 @@
    "skipped": 2,
    "review": 1,
    "gaps": "Search-first; WebFetch via sub-agent. Searches mostly returned stale tag/listing pages (Telangana Today, Deccan Chronicle, Hans India). Eenadu/ETV live blogs not re-read (already seen). Sakshi, TV9, V6, NTV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicates: TT/PTI AP 789 lift schemes 17:38 (same CBN irrigation review published 15:05), Hans India 10+2 17:44 and Telangana Tribune 10+2 16:38 (published 17:05). Skipped: HMTV Hanamkonda collector courtesy call (non-news), Vaartha weather 06 Nov (outside lookback). Review: Munsif Daily Revanth Krishna waters (no publication time)."
+  },
+  {
+   "window": "2026-11-11T18:05:00+05:30/2026-11-11T18:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 10,
+   "published": 7,
+   "late": 7,
+   "sensitive": 2,
+   "corrected": 0,
+   "duplicates": 2,
+   "skipped": 1,
+   "review": 0,
+   "gaps": "Search-first; WebFetch via sub-agent. Searches mostly returned stale tag/listing pages; nothing found published inside 18:05-18:35. Eenadu, Sakshi, TV9, V6, NTV, The Hindu, PTI national, Reuters/BBC/AP and international-topic sources not surfaced in range. Duplicates: AJ CBN irrigation review 1575245 (published 15:05), NT Kulgam CRPF 2557564 (ETV version published 15:35). Skipped: TT Kandukur missing family (personal matter). AJ URL 1575094 served a different (01:25) article; AJ 1575169/1575127/1575097 published before lookback start 10:05."
   }
  ],
  "seen": [
@@ -3198,6 +3211,76 @@
    "url": "https://www.ntnews.com/medak/siddipet/mla-kotha-prabhakar-reddy-inaugurated-the-paddy-procurement-centers-2557641",
    "d": "11.11.2026",
    "w": "18:05"
+  },
+  {
+   "url": "https://www.ntnews.com/medak/sangareddy/mla-manik-rao-demands-govt-to-give-support-price-to-sugercane-farmer-2557530",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.ntnews.com/warangal-rural/jayashankar/vaccines-not-reached-to-children-due-to-nhm-employees-strike-in-mahadevpur-2557694",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.ntnews.com/karimnagar/pipeline-leaks-where-are-the-remedial-measures-bhagiratha-water-goes-to-waste-in-ramagundams-54th-division-2557595",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.ntnews.com/khammam/unidentified-person-dies-after-being-hit-by-an-apsrtc-bus-2557533",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/krishna/former-mp-vijayasai-reddy-announces-name-of-his-prp-political-party-vk-1575235.html",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.siasat.com/no-more-movie-events-in-colleges-telangana-govt-plans-big-action-3573951/",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://deccanchronicle.com/southern-states/telangana/cherlapally-express-bedroll-attendant-held-for-stealing-40-grams-of-gold-chain-2003481",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://telanganatoday.com/married-woman-minor-son-and-young-man-go-missing-in-kandukur",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/cm-chandrababu-naidu-reviews-irrigation-and-lift-irrigation-projects-in-ap-vk-1575245.html",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.ntnews.com/national/terrorists-fire-at-crpf-party-in-kashmir-valleys-kulgam-district-three-crpf-personnel-injured-2557564",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/andhra-pradesh-releases-14248-crore-industrial-incentives-1575094.html",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/ap-high-court-stays-further-action-against-ys-jagan-in-election-code-violation-case-1575169.html",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://andhrajyothy.com/2026/andhra-pradesh/ap-ration-shops-offer-dal-at-100-and-palm-oil-at-125-1575127.html",
+   "d": "11.11.2026",
+   "w": "18:35"
+  },
+  {
+   "url": "https://andhrajyothy.com/2026/andhra-pradesh/prakasam/changed-election-schedule-1575097.html",
+   "d": "11.11.2026",
+   "w": "18:35"
   }
  ]
 }
