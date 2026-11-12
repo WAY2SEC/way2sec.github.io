@@ -1,8 +1,108 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 104,
+ "count": 106,
  "stories": [
+  {
+   "cat": "తెలంగాణ · కార్మికులు",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "₹26,000",
+   "statl": "నెల వేతనం కోసం డిమాండ్",
+   "h": "ప్రభుత్వ ఆసుపత్రుల్లో కాంట్రాక్ట్ సిబ్బంది రాష్ట్రవ్యాప్త ఆందోళన",
+   "p": "తెలంగాణలోని ప్రభుత్వ ఆసుపత్రుల్లో పనిచేసే కాంట్రాక్ట్ పారిశుద్ధ్య, పేషెంట్ కేర్, సెక్యూరిటీ సిబ్బంది గురువారం నెలకు ₹26,000 వేతనం కోరుతూ ఆందోళనకు దిగారు. ఏఐటీయూసీ అనుబంధ యూనియన్ ఈ నిరసనలు చేపట్టింది. మూడేళ్ల టెండర్ గడువు రెండేళ్ల క్రితమే ముగిసినా పాత కాంట్రాక్టర్లే కొనసాగుతున్నారని యూనియన్ ఆరోపించింది. ఉస్మానియా, నీలోఫర్, ఎంఎన్‌జే సహా పలు ఆసుపత్రుల్లో సేవలకు అంతరాయం కలిగింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/contract-healthcare-staff-protest-across-telangana-hospitals",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నెలకు ₹26,000 వేతనం కోరుతూ నిరసన",
+    "కొత్త టెండర్లు, 23 చట్టబద్ధ సెలవులు డిమాండ్",
+    "ఉస్మానియా, నీలోఫర్ సహా పలు ఆసుపత్రుల్లో సేవలకు అంతరాయం"
+   ],
+   "why": "ప్రభుత్వ ఆసుపత్రులకు వెళ్లే రోగులు, వేలాది కాంట్రాక్ట్ ఆరోగ్య సిబ్బందిపై ఇది ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T19:48+05:30",
+   "en": {
+    "h": "Contract staff at government hospitals stage statewide protest in Telangana",
+    "p": "Contract sanitation, patient care and security staff at government hospitals across Telangana protested on Thursday, demanding a monthly wage of ₹26,000. The AITUC-affiliated union organised the protests. The union alleged that old contractors continue even though the three-year tender expired two years ago. Services were disrupted at several hospitals including Osmania, Niloufer and MNJ.",
+    "pts": [
+     "Protest demanding ₹26,000 monthly wage",
+     "Demand for fresh tenders, 23 statutory leaves",
+     "Services disrupted at Osmania, Niloufer and other hospitals"
+    ],
+    "why": "It affects patients visiting government hospitals and thousands of contract health workers.",
+    "cat": "Telangana · Workers",
+    "statl": "Monthly wage demanded"
+   },
+   "hi": {
+    "h": "तेलंगाना के सरकारी अस्पतालों में अनुबंध कर्मचारियों का राज्यव्यापी प्रदर्शन",
+    "p": "तेलंगाना के सरकारी अस्पतालों में काम करने वाले अनुबंधित सफाई, मरीज देखभाल और सुरक्षा कर्मचारियों ने गुरुवार को ₹26,000 मासिक वेतन की मांग को लेकर प्रदर्शन किया। एआईटीयूसी से जुड़ी यूनियन ने यह प्रदर्शन आयोजित किया। यूनियन का आरोप है कि तीन साल का टेंडर दो साल पहले खत्म होने के बावजूद पुराने ठेकेदार ही काम कर रहे हैं। उस्मानिया, नीलोफर और एमएनजे समेत कई अस्पतालों में सेवाएं प्रभावित हुईं।",
+    "pts": [
+     "₹26,000 मासिक वेतन की मांग पर प्रदर्शन",
+     "नए टेंडर, 23 वैधानिक छुट्टियों की मांग",
+     "उस्मानिया, नीलोफर समेत कई अस्पतालों में सेवाएं प्रभावित"
+    ],
+    "why": "इसका असर सरकारी अस्पतालों में आने वाले मरीजों और हजारों अनुबंध स्वास्थ्य कर्मियों पर पड़ता है।",
+    "cat": "तेलंगाना · कर्मचारी",
+    "statl": "मासिक वेतन की मांग"
+   },
+   "d": "12.11.2026",
+   "t": "20:05"
+  },
+  {
+   "cat": "రంగారెడ్డి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "దర్యాప్తు",
+   "statl": "ఆదిభట్ల పోలీసుల కేసు",
+   "h": "ఆదిభట్లలో వలస మహిళ మృతి: భర్తే హత్య చేశాడని ఆరోపణ",
+   "p": "ఆదిభట్ల పరిధిలో గురువారం ఒడిశాకు చెందిన 26 ఏళ్ల మహిళ మృతి చెందారు. ఆమెను భర్త దుపట్టాతో గొంతు నులిమి హత్య చేశాడని ఆరోపణ. పని కోసం దంపతులు నాలుగు రోజుల క్రితమే హైదరాబాద్‌కు వచ్చారు. పోలీసుల ప్రకారం, కుటుంబ గొడవ కారణమై ఉండొచ్చని ప్రాథమిక సమాచారం. కచ్చితమైన కారణం ఇంకా తేలాల్సి ఉంది. ఆదిభట్ల పోలీసులు దర్యాప్తు చేస్తున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-woman-allegedly-strangled-to-death-by-husband-in-adibatla",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "rangareddy",
+   "loc": "ఆదిభట్ల",
+   "pts": [
+    "26 ఏళ్ల మహిళను భర్త హత్య చేశాడని ఆరోపణ",
+    "పని కోసం నాలుగు రోజుల క్రితమే నగరానికి వచ్చిన దంపతులు",
+    "కుటుంబ గొడవ కారణమని పోలీసుల అనుమానం"
+   ],
+   "why": "నగర శివార్లలో వలస కార్మిక కుటుంబాల్లో గృహ హింస సమస్యను ఈ ఘటన గుర్తుచేస్తోంది.",
+   "pub": "2026-11-12T19:38+05:30",
+   "en": {
+    "h": "Migrant woman dies in Adibatla; husband allegedly strangled her",
+    "p": "A 26-year-old woman from Odisha died in Adibatla on Thursday. Her husband allegedly strangled her with a dupatta. The couple had come to Hyderabad four days ago in search of work. According to police, preliminary information points to a family dispute. The exact reason is yet to be established. Adibatla police are investigating.",
+    "pts": [
+     "Husband allegedly killed 26-year-old woman",
+     "Couple came to the city for work four days ago",
+     "Police suspect a family dispute"
+    ],
+    "why": "The incident highlights domestic violence among migrant worker families on the city outskirts.",
+    "cat": "Rangareddy · Crime",
+    "statl": "Adibatla police case"
+   },
+   "hi": {
+    "h": "आदिभट्ला में प्रवासी महिला की मौत; पति पर गला घोंटने का आरोप",
+    "p": "आदिभट्ला में गुरुवार को ओडिशा की 26 वर्षीय एक महिला की मौत हो गई। आरोप है कि उसके पति ने दुपट्टे से उसका गला घोंट दिया। दंपती चार दिन पहले काम की तलाश में हैदराबाद आए थे। पुलिस के अनुसार, शुरुआती जानकारी पारिवारिक विवाद की ओर इशारा करती है। सटीक कारण अभी पता नहीं चला है। आदिभट्ला पुलिस जांच कर रही है।",
+    "pts": [
+     "पति पर 26 वर्षीय महिला की हत्या का आरोप",
+     "दंपती चार दिन पहले काम के लिए शहर आए थे",
+     "पुलिस को पारिवारिक विवाद का संदेह"
+    ],
+    "why": "यह घटना शहर के बाहरी इलाकों में प्रवासी मजदूर परिवारों में घरेलू हिंसा की समस्या दिखाती है।",
+    "cat": "रंगारेड्डी · अपराध",
+    "statl": "आदिभट्ला पुलिस का मामला"
+   },
+   "d": "12.11.2026",
+   "t": "20:05"
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-money",
