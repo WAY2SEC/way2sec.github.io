@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T19:05:00+05:30",
+ "cutoff": "2026-11-12T19:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -1232,6 +1232,19 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Search-first; WebSearch mostly stale tag/listing pages. Read: Siasat home + 2 articles, TT Telangana/Karimnagar/Mahabubnagar listings (relative times only), Hans Visakhapatnam listing (12 Nov items 00:44-02:30 only), Punjab Kesari (IANS), TT Kia, HMTV Karimnagar. Failed: investing.com Reuters Nvidia item (rate limit); blocked: Siasat Narayanpet water protest, TT Jagan PPP medical colleges (permission timeout). Not surfaced: Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, PTI, Reuters/AP; no national, other-state or international-topic items verifiable. Districts searched: Khammam, Warangal, Nalgonda, Karimnagar, Nizamabad, Mahabubnagar, Sangareddy, Kurnool, Guntur, Prakasam, Visakhapatnam, NTR, Tirupati."
+  },
+  {
+   "window": "2026-11-12T19:05:00+05:30/2026-11-12T19:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 3,
+   "published": 3,
+   "late": 0,
+   "sensitive": 0,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebSearch mostly stale tag/listing pages. Read: Siasat Hyderabad listing + 3 articles (all already published), TT Telangana/AP tags (relative times only), DC Kurnool, Hans AP tag (newest 7 Nov), Techmeme (latest 11 Nov), 5 TT articles. Adibatla woman death (TT 19:38) is after window end - left for next run. Not surfaced: Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, PTI direct, Reuters/AP; no national, other-state or international-topic items verifiable. Districts searched: Medak, Siddipet, Sangareddy, Nalgonda, Suryapet, Yadadri, Kurnool, Nandyal, Anantapur, East Godavari, Kakinada, Eluru."
   }
  ],
  "seen": [
@@ -5199,6 +5212,26 @@
    "url": "https://uniindia.com/south-india/administration-telangana-ips-reshuffle/243171",
    "d": "12.11.2026",
    "w": "19:05"
+  },
+  {
+   "url": "https://telanganatoday.com/chandrababu-naidu-meets-japanese-envoy-over-rare-earth-mineral-supplies",
+   "d": "12.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/nara-lokesh-pitches-andhra-pradesh-as-investment-destination-at-cii-summit",
+   "d": "12.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/hyderabad-scr-operates-nearly-400-special-trains-to-handle-festival-rush",
+   "d": "12.11.2026",
+   "w": "19:35"
+  },
+  {
+   "url": "https://telanganatoday.com/accused-in-umesh-pal-murder-case-killed-in-encounter",
+   "d": "12.11.2026",
+   "w": "19:35"
   }
  ]
 }

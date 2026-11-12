@@ -1,8 +1,161 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 101,
+ "count": 104,
  "stories": [
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "25%",
+   "statl": "దేశ బీచ్ శాండ్ ఖనిజ నిల్వల్లో ఏపీ వాటా",
+   "h": "సీఎం చంద్రబాబుతో జపాన్ రాయబారి భేటీ: అరుదైన ఖనిజాల సరఫరాపై చర్చ",
+   "p": "జపాన్ రాయబారి కెయిచి ఓనో నేతృత్వంలోని బృందం విశాఖపట్నంలో సీఎం చంద్రబాబు నాయుడును కలిసి, జపాన్‌కు అరుదైన ఖనిజాల (రేర్ ఎర్త్) నిరంతర సరఫరా కోరిందని ఏపీ ప్రభుత్వ ప్రకటన తెలిపింది. తీరం వెంట 'రేర్ ఎర్త్ ఎలిమెంట్ కారిడార్' ప్రణాళికలో భాగంగా 16 వేల హెక్టార్లకు పైగా 16 రకాల ఖనిజాలు గుర్తించినట్లు మంత్రి కొల్లు రవీంద్ర చెప్పారు. కాకినాడ నుంచి గ్రీన్ అమ్మోనియా సరఫరాకు ప్రాథమిక ఒప్పందం కూడా కుదిరింది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/chandrababu-naidu-meets-japanese-envoy-over-rare-earth-mineral-supplies",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "జపాన్‌కు రేర్ ఎర్త్ ఖనిజాల సరఫరా కోరిన బృందం",
+    "16 వేల హెక్టార్లకు పైగా 16 రకాల ఖనిజాలు గుర్తింపు",
+    "కాకినాడ నుంచి ఏటా 70 వేల టన్నుల గ్రీన్ అమ్మోనియా"
+   ],
+   "why": "తీర జిల్లాల్లో ఖనిజ పరిశ్రమలు, పెట్టుబడులు, ఉద్యోగాలకు ఇది కీలకం.",
+   "pub": "2026-11-12T19:14+05:30",
+   "en": {
+    "h": "Japanese envoy meets CM Naidu, seeks rare earth mineral supplies",
+    "p": "A Japanese delegation led by Ambassador Keiichi Ono met Chief Minister N. Chandrababu Naidu in Visakhapatnam and sought a steady supply of rare earth minerals to Japan, an AP government release said. Mines Minister Kollu Ravindra said 16 types of minerals have been identified over more than 16,000 hectares as part of a coastal 'Rare Earth Element Corridor' plan. A preliminary deal for green ammonia supply from Kakinada was also reached.",
+    "pts": [
+     "Delegation sought rare earth supplies to Japan",
+     "16 mineral types identified over 16,000+ hectares",
+     "70,000 tonnes a year of green ammonia from Kakinada"
+    ],
+    "why": "It matters for mineral industries, investment and jobs in coastal districts.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "AP share of India's beach sand mineral reserves"
+   },
+   "hi": {
+    "h": "जापानी राजदूत ने सीएम नायडू से मुलाकात की, दुर्लभ खनिजों की आपूर्ति पर चर्चा",
+    "p": "आंध्र प्रदेश सरकार की विज्ञप्ति के अनुसार राजदूत केइची ओनो के नेतृत्व में जापानी प्रतिनिधिमंडल ने विशाखापत्तनम में मुख्यमंत्री एन. चंद्रबाबू नायडू से मुलाकात कर जापान को दुर्लभ खनिजों (रेयर अर्थ) की निरंतर आपूर्ति की मांग की। खान मंत्री कोल्लु रवींद्र ने कहा कि तटीय 'रेयर अर्थ एलिमेंट कॉरिडोर' योजना के तहत 16,000 हेक्टेयर से अधिक क्षेत्र में 16 प्रकार के खनिज चिह्नित किए गए हैं। काकीनाडा से ग्रीन अमोनिया आपूर्ति पर प्रारंभिक समझौता भी हुआ।",
+    "pts": [
+     "जापान को रेयर अर्थ आपूर्ति की मांग",
+     "16,000+ हेक्टेयर में 16 प्रकार के खनिज चिह्नित",
+     "काकीनाडा से हर साल 70,000 टन ग्रीन अमोनिया"
+    ],
+    "why": "यह तटीय जिलों में खनिज उद्योग, निवेश और रोजगार के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "देश के बीच सैंड खनिज भंडार में एपी का हिस्सा"
+   },
+   "d": "12.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "ఏపీ · పెట్టుబడులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "12.7 లక్షలు",
+   "statl": "ఉద్యోగాలు వస్తాయని లోకేశ్ అంచనా",
+   "h": "ఏపీలో పెట్టుబడులు పెట్టండి: సీఐఐ సదస్సులో మంత్రి నారా లోకేశ్ పిలుపు",
+   "p": "విశాఖపట్నంలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో మంత్రి నారా లోకేశ్ కంపెనీలు ఏపీలో ఫ్యాక్టరీలు, ప్రధాన కార్యాలయాలు ఏర్పాటు చేయాలని కోరారు. 2024 జూన్ నుంచి ₹22.6 లక్షల కోట్ల పెట్టుబడి హామీలు వచ్చాయని, అందులో 73% (₹17.2 లక్షల కోట్లు) ఆమోదం పొందాయని, 12.7 లక్షల ఉద్యోగాలు వస్తాయని ఆయన చెప్పారు. రామాయపట్నం, మూలపేట, మచిలీపట్నం, కాకినాడల్లో నాలుగు కొత్త పోర్టులు నిర్మాణంలో ఉన్నాయన్నారు.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/nara-lokesh-pitches-andhra-pradesh-as-investment-destination-at-cii-summit",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "2024 జూన్ నుంచి ₹22.6 లక్షల కోట్ల హామీలు: లోకేశ్",
+    "73% ప్రాజెక్టులకు ఆమోదం, 12.7 లక్షల ఉద్యోగాలు అంచనా",
+    "నాలుగు గ్రీన్‌ఫీల్డ్ పోర్టులు నిర్మాణంలో"
+   ],
+   "why": "ఏపీ యువతకు ఉద్యోగాలు, తీర ప్రాంతాల అభివృద్ధికి ఈ పెట్టుబడులు కీలకం.",
+   "pub": "2026-11-12T19:18+05:30",
+   "en": {
+    "h": "Invest in Andhra Pradesh: Nara Lokesh at CII Summit",
+    "p": "At the CII Partnership Summit in Visakhapatnam, Minister Nara Lokesh invited companies to set up factories and headquarters in Andhra Pradesh. He said investment commitments of Rs 22.6 lakh crore have come in since June 2024, of which 73% (Rs 17.2 lakh crore) are approved, and are expected to create 12.7 lakh jobs. He said four new ports are under construction at Ramayapatnam, Mulapeta, Machilipatnam and Kakinada.",
+    "pts": [
+     "Rs 22.6 lakh crore commitments since June 2024: Lokesh",
+     "73% approved, 12.7 lakh jobs expected",
+     "Four greenfield ports under construction"
+    ],
+    "why": "These investments matter for jobs for AP youth and coastal development.",
+    "cat": "AP · Investments",
+    "statl": "Jobs expected, says Lokesh"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में निवेश करें: सीआईआई सम्मेलन में नारा लोकेश",
+    "p": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट में मंत्री नारा लोकेश ने कंपनियों से आंध्र प्रदेश में कारखाने और मुख्यालय स्थापित करने का आग्रह किया। उन्होंने कहा कि जून 2024 से ₹22.6 लाख करोड़ की निवेश प्रतिबद्धताएं मिलीं, जिनमें 73% (₹17.2 लाख करोड़) मंजूर हुईं और इनसे 12.7 लाख नौकरियां मिलने की उम्मीद है। उन्होंने बताया कि रामायपट्टनम, मूलपेटा, मछलीपट्टनम और काकीनाडा में चार नए बंदरगाह बन रहे हैं।",
+    "pts": [
+     "जून 2024 से ₹22.6 लाख करोड़ की प्रतिबद्धताएं: लोकेश",
+     "73% मंजूर, 12.7 लाख नौकरियों की उम्मीद",
+     "चार ग्रीनफील्ड बंदरगाह निर्माणाधीन"
+    ],
+    "why": "ये निवेश आंध्र के युवाओं के रोजगार और तटीय विकास के लिए अहम हैं।",
+    "cat": "आंध्र प्रदेश · निवेश",
+    "statl": "लोकेश के अनुसार अपेक्षित नौकरियां"
+   },
+   "d": "12.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రైల్వే",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "~400",
+   "statl": "నవంబర్‌లో ప్రత్యేక రైళ్లు",
+   "h": "ఛఠ్ పూజ రద్దీ: దాదాపు 400 ప్రత్యేక రైళ్లు నడుపుతున్న దక్షిణ మధ్య రైల్వే",
+   "p": "ఛఠ్ పూజ రద్దీ దృష్ట్యా నవంబర్‌లో దాదాపు 400 ప్రత్యేక రైళ్లు నడుపుతున్నట్లు దక్షిణ మధ్య రైల్వే (ఎస్‌సీఆర్) తెలిపింది. ప్రధాన స్టేషన్లలో రోజుకు సుమారు 4.6 లక్షల మంది ప్రయాణికులు ఉంటారని అంచనా. దర్భంగా, పట్నా, గోరఖ్‌పూర్, ప్రయాగ్‌రాజ్, హౌరా తదితర ప్రాంతాలకు రైళ్లు నడుస్తాయి. అదనపు టికెట్ తనిఖీ సిబ్బంది, ఆర్‌పీఎఫ్ బలగాలు, హోల్డింగ్ ఏరియాలు ఏర్పాటు చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-scr-operates-nearly-400-special-trains-to-handle-festival-rush",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రోజుకు 4.6 లక్షల మంది ప్రయాణికులు అంచనా",
+    "బిహార్, యూపీ, జార్ఖండ్, ఈశాన్యానికి రైళ్లు",
+    "యూటీఎస్ యాప్ వాడాలని ప్రయాణికులకు సూచన"
+   ],
+   "why": "పండుగకు ఉత్తరాదికి వెళ్లే ప్రయాణికులు, కార్మికులకు ఇది ఉపయోగం.",
+   "pub": "2026-11-12T19:34+05:30",
+   "en": {
+    "h": "Chhath rush: SCR runs nearly 400 special trains",
+    "p": "South Central Railway (SCR) said it is operating nearly 400 special trains in November to handle the Chhath Puja rush. About 4.6 lakh daily passengers are expected at its major stations. Trains run to Darbhanga, Patna, Gorakhpur, Prayagraj, Howrah and other places. Extra ticket-checking staff, RPF personnel and holding areas have been arranged.",
+    "pts": [
+     "About 4.6 lakh daily passengers expected",
+     "Trains to Bihar, UP, Jharkhand and the Northeast",
+     "Passengers urged to use the UTS app"
+    ],
+    "why": "It helps festival travellers and workers heading to north India.",
+    "cat": "Hyderabad · Railways",
+    "statl": "Special trains in November"
+   },
+   "hi": {
+    "h": "छठ की भीड़: दक्षिण मध्य रेलवे चला रहा लगभग 400 विशेष ट्रेनें",
+    "p": "दक्षिण मध्य रेलवे (एससीआर) ने कहा कि छठ पूजा की भीड़ को देखते हुए वह नवंबर में लगभग 400 विशेष ट्रेनें चला रहा है। प्रमुख स्टेशनों पर रोजाना करीब 4.6 लाख यात्रियों की उम्मीद है। ट्रेनें दरभंगा, पटना, गोरखपुर, प्रयागराज, हावड़ा आदि जाएंगी। अतिरिक्त टिकट जांच कर्मचारी, आरपीएफ जवान और होल्डिंग एरिया की व्यवस्था की गई है।",
+    "pts": [
+     "रोजाना करीब 4.6 लाख यात्रियों की उम्मीद",
+     "बिहार, यूपी, झारखंड और पूर्वोत्तर के लिए ट्रेनें",
+     "यात्रियों से यूटीएस ऐप इस्तेमाल करने की अपील"
+    ],
+    "why": "इससे त्योहार पर उत्तर भारत जाने वाले यात्रियों और मजदूरों को मदद मिलेगी।",
+    "cat": "हैदराबाद · रेलवे",
+    "statl": "नवंबर में विशेष ट्रेनें"
+   },
+   "d": "12.11.2026",
+   "t": "19:35"
+  },
   {
    "cat": "హైదరాబాద్ · ఐటీ",
    "col": "--c-money",

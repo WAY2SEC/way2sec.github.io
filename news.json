@@ -1,8 +1,161 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T19:14:52+05:30",
+ "updated": "2026-11-12T19:45:30+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "25%",
+   "statl": "దేశ బీచ్ శాండ్ ఖనిజ నిల్వల్లో ఏపీ వాటా",
+   "h": "సీఎం చంద్రబాబుతో జపాన్ రాయబారి భేటీ: అరుదైన ఖనిజాల సరఫరాపై చర్చ",
+   "p": "జపాన్ రాయబారి కెయిచి ఓనో నేతృత్వంలోని బృందం విశాఖపట్నంలో సీఎం చంద్రబాబు నాయుడును కలిసి, జపాన్‌కు అరుదైన ఖనిజాల (రేర్ ఎర్త్) నిరంతర సరఫరా కోరిందని ఏపీ ప్రభుత్వ ప్రకటన తెలిపింది. తీరం వెంట 'రేర్ ఎర్త్ ఎలిమెంట్ కారిడార్' ప్రణాళికలో భాగంగా 16 వేల హెక్టార్లకు పైగా 16 రకాల ఖనిజాలు గుర్తించినట్లు మంత్రి కొల్లు రవీంద్ర చెప్పారు. కాకినాడ నుంచి గ్రీన్ అమ్మోనియా సరఫరాకు ప్రాథమిక ఒప్పందం కూడా కుదిరింది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/chandrababu-naidu-meets-japanese-envoy-over-rare-earth-mineral-supplies",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "జపాన్‌కు రేర్ ఎర్త్ ఖనిజాల సరఫరా కోరిన బృందం",
+    "16 వేల హెక్టార్లకు పైగా 16 రకాల ఖనిజాలు గుర్తింపు",
+    "కాకినాడ నుంచి ఏటా 70 వేల టన్నుల గ్రీన్ అమ్మోనియా"
+   ],
+   "why": "తీర జిల్లాల్లో ఖనిజ పరిశ్రమలు, పెట్టుబడులు, ఉద్యోగాలకు ఇది కీలకం.",
+   "pub": "2026-11-12T19:14+05:30",
+   "en": {
+    "h": "Japanese envoy meets CM Naidu, seeks rare earth mineral supplies",
+    "p": "A Japanese delegation led by Ambassador Keiichi Ono met Chief Minister N. Chandrababu Naidu in Visakhapatnam and sought a steady supply of rare earth minerals to Japan, an AP government release said. Mines Minister Kollu Ravindra said 16 types of minerals have been identified over more than 16,000 hectares as part of a coastal 'Rare Earth Element Corridor' plan. A preliminary deal for green ammonia supply from Kakinada was also reached.",
+    "pts": [
+     "Delegation sought rare earth supplies to Japan",
+     "16 mineral types identified over 16,000+ hectares",
+     "70,000 tonnes a year of green ammonia from Kakinada"
+    ],
+    "why": "It matters for mineral industries, investment and jobs in coastal districts.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "AP share of India's beach sand mineral reserves"
+   },
+   "hi": {
+    "h": "जापानी राजदूत ने सीएम नायडू से मुलाकात की, दुर्लभ खनिजों की आपूर्ति पर चर्चा",
+    "p": "आंध्र प्रदेश सरकार की विज्ञप्ति के अनुसार राजदूत केइची ओनो के नेतृत्व में जापानी प्रतिनिधिमंडल ने विशाखापत्तनम में मुख्यमंत्री एन. चंद्रबाबू नायडू से मुलाकात कर जापान को दुर्लभ खनिजों (रेयर अर्थ) की निरंतर आपूर्ति की मांग की। खान मंत्री कोल्लु रवींद्र ने कहा कि तटीय 'रेयर अर्थ एलिमेंट कॉरिडोर' योजना के तहत 16,000 हेक्टेयर से अधिक क्षेत्र में 16 प्रकार के खनिज चिह्नित किए गए हैं। काकीनाडा से ग्रीन अमोनिया आपूर्ति पर प्रारंभिक समझौता भी हुआ।",
+    "pts": [
+     "जापान को रेयर अर्थ आपूर्ति की मांग",
+     "16,000+ हेक्टेयर में 16 प्रकार के खनिज चिह्नित",
+     "काकीनाडा से हर साल 70,000 टन ग्रीन अमोनिया"
+    ],
+    "why": "यह तटीय जिलों में खनिज उद्योग, निवेश और रोजगार के लिए अहम है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "देश के बीच सैंड खनिज भंडार में एपी का हिस्सा"
+   },
+   "d": "12.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "ఏపీ · పెట్టుబడులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "12.7 లక్షలు",
+   "statl": "ఉద్యోగాలు వస్తాయని లోకేశ్ అంచనా",
+   "h": "ఏపీలో పెట్టుబడులు పెట్టండి: సీఐఐ సదస్సులో మంత్రి నారా లోకేశ్ పిలుపు",
+   "p": "విశాఖపట్నంలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో మంత్రి నారా లోకేశ్ కంపెనీలు ఏపీలో ఫ్యాక్టరీలు, ప్రధాన కార్యాలయాలు ఏర్పాటు చేయాలని కోరారు. 2024 జూన్ నుంచి ₹22.6 లక్షల కోట్ల పెట్టుబడి హామీలు వచ్చాయని, అందులో 73% (₹17.2 లక్షల కోట్లు) ఆమోదం పొందాయని, 12.7 లక్షల ఉద్యోగాలు వస్తాయని ఆయన చెప్పారు. రామాయపట్నం, మూలపేట, మచిలీపట్నం, కాకినాడల్లో నాలుగు కొత్త పోర్టులు నిర్మాణంలో ఉన్నాయన్నారు.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/nara-lokesh-pitches-andhra-pradesh-as-investment-destination-at-cii-summit",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "2024 జూన్ నుంచి ₹22.6 లక్షల కోట్ల హామీలు: లోకేశ్",
+    "73% ప్రాజెక్టులకు ఆమోదం, 12.7 లక్షల ఉద్యోగాలు అంచనా",
+    "నాలుగు గ్రీన్‌ఫీల్డ్ పోర్టులు నిర్మాణంలో"
+   ],
+   "why": "ఏపీ యువతకు ఉద్యోగాలు, తీర ప్రాంతాల అభివృద్ధికి ఈ పెట్టుబడులు కీలకం.",
+   "pub": "2026-11-12T19:18+05:30",
+   "en": {
+    "h": "Invest in Andhra Pradesh: Nara Lokesh at CII Summit",
+    "p": "At the CII Partnership Summit in Visakhapatnam, Minister Nara Lokesh invited companies to set up factories and headquarters in Andhra Pradesh. He said investment commitments of Rs 22.6 lakh crore have come in since June 2024, of which 73% (Rs 17.2 lakh crore) are approved, and are expected to create 12.7 lakh jobs. He said four new ports are under construction at Ramayapatnam, Mulapeta, Machilipatnam and Kakinada.",
+    "pts": [
+     "Rs 22.6 lakh crore commitments since June 2024: Lokesh",
+     "73% approved, 12.7 lakh jobs expected",
+     "Four greenfield ports under construction"
+    ],
+    "why": "These investments matter for jobs for AP youth and coastal development.",
+    "cat": "AP · Investments",
+    "statl": "Jobs expected, says Lokesh"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में निवेश करें: सीआईआई सम्मेलन में नारा लोकेश",
+    "p": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट में मंत्री नारा लोकेश ने कंपनियों से आंध्र प्रदेश में कारखाने और मुख्यालय स्थापित करने का आग्रह किया। उन्होंने कहा कि जून 2024 से ₹22.6 लाख करोड़ की निवेश प्रतिबद्धताएं मिलीं, जिनमें 73% (₹17.2 लाख करोड़) मंजूर हुईं और इनसे 12.7 लाख नौकरियां मिलने की उम्मीद है। उन्होंने बताया कि रामायपट्टनम, मूलपेटा, मछलीपट्टनम और काकीनाडा में चार नए बंदरगाह बन रहे हैं।",
+    "pts": [
+     "जून 2024 से ₹22.6 लाख करोड़ की प्रतिबद्धताएं: लोकेश",
+     "73% मंजूर, 12.7 लाख नौकरियों की उम्मीद",
+     "चार ग्रीनफील्ड बंदरगाह निर्माणाधीन"
+    ],
+    "why": "ये निवेश आंध्र के युवाओं के रोजगार और तटीय विकास के लिए अहम हैं।",
+    "cat": "आंध्र प्रदेश · निवेश",
+    "statl": "लोकेश के अनुसार अपेक्षित नौकरियां"
+   },
+   "d": "12.11.2026",
+   "t": "19:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రైల్వే",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "~400",
+   "statl": "నవంబర్‌లో ప్రత్యేక రైళ్లు",
+   "h": "ఛఠ్ పూజ రద్దీ: దాదాపు 400 ప్రత్యేక రైళ్లు నడుపుతున్న దక్షిణ మధ్య రైల్వే",
+   "p": "ఛఠ్ పూజ రద్దీ దృష్ట్యా నవంబర్‌లో దాదాపు 400 ప్రత్యేక రైళ్లు నడుపుతున్నట్లు దక్షిణ మధ్య రైల్వే (ఎస్‌సీఆర్) తెలిపింది. ప్రధాన స్టేషన్లలో రోజుకు సుమారు 4.6 లక్షల మంది ప్రయాణికులు ఉంటారని అంచనా. దర్భంగా, పట్నా, గోరఖ్‌పూర్, ప్రయాగ్‌రాజ్, హౌరా తదితర ప్రాంతాలకు రైళ్లు నడుస్తాయి. అదనపు టికెట్ తనిఖీ సిబ్బంది, ఆర్‌పీఎఫ్ బలగాలు, హోల్డింగ్ ఏరియాలు ఏర్పాటు చేశారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-scr-operates-nearly-400-special-trains-to-handle-festival-rush",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "రోజుకు 4.6 లక్షల మంది ప్రయాణికులు అంచనా",
+    "బిహార్, యూపీ, జార్ఖండ్, ఈశాన్యానికి రైళ్లు",
+    "యూటీఎస్ యాప్ వాడాలని ప్రయాణికులకు సూచన"
+   ],
+   "why": "పండుగకు ఉత్తరాదికి వెళ్లే ప్రయాణికులు, కార్మికులకు ఇది ఉపయోగం.",
+   "pub": "2026-11-12T19:34+05:30",
+   "en": {
+    "h": "Chhath rush: SCR runs nearly 400 special trains",
+    "p": "South Central Railway (SCR) said it is operating nearly 400 special trains in November to handle the Chhath Puja rush. About 4.6 lakh daily passengers are expected at its major stations. Trains run to Darbhanga, Patna, Gorakhpur, Prayagraj, Howrah and other places. Extra ticket-checking staff, RPF personnel and holding areas have been arranged.",
+    "pts": [
+     "About 4.6 lakh daily passengers expected",
+     "Trains to Bihar, UP, Jharkhand and the Northeast",
+     "Passengers urged to use the UTS app"
+    ],
+    "why": "It helps festival travellers and workers heading to north India.",
+    "cat": "Hyderabad · Railways",
+    "statl": "Special trains in November"
+   },
+   "hi": {
+    "h": "छठ की भीड़: दक्षिण मध्य रेलवे चला रहा लगभग 400 विशेष ट्रेनें",
+    "p": "दक्षिण मध्य रेलवे (एससीआर) ने कहा कि छठ पूजा की भीड़ को देखते हुए वह नवंबर में लगभग 400 विशेष ट्रेनें चला रहा है। प्रमुख स्टेशनों पर रोजाना करीब 4.6 लाख यात्रियों की उम्मीद है। ट्रेनें दरभंगा, पटना, गोरखपुर, प्रयागराज, हावड़ा आदि जाएंगी। अतिरिक्त टिकट जांच कर्मचारी, आरपीएफ जवान और होल्डिंग एरिया की व्यवस्था की गई है।",
+    "pts": [
+     "रोजाना करीब 4.6 लाख यात्रियों की उम्मीद",
+     "बिहार, यूपी, झारखंड और पूर्वोत्तर के लिए ट्रेनें",
+     "यात्रियों से यूटीएस ऐप इस्तेमाल करने की अपील"
+    ],
+    "why": "इससे त्योहार पर उत्तर भारत जाने वाले यात्रियों और मजदूरों को मदद मिलेगी।",
+    "cat": "हैदराबाद · रेलवे",
+    "statl": "नवंबर में विशेष ट्रेनें"
+   },
+   "d": "12.11.2026",
+   "t": "19:35"
+  },
   {
    "cat": "హైదరాబాద్ · ఐటీ",
    "col": "--c-money",
@@ -2247,155 +2400,6 @@
     "why": "दिवंगत कर्मचारी के परिवार को सहारा देने का यह कदम आरटीसी कर्मियों के लिए अहम है।",
     "cat": "तेलंगाना · आरटीसी",
     "statl": "कर्मचारियों का एक दिन का वेतन दान"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · విశ్వవిద్యాలయం",
-   "col": "--c-city",
-   "art": "campus",
-   "stat": "15 రోజులు",
-   "statl": "కమిటీ నివేదికకు గడువు",
-   "h": "వ్యవసాయ విశ్వవిద్యాలయంలో వేధింపుల ఆరోపణలు: మహిళా కమిషన్ ముందు వీసీ",
-   "p": "హైదరాబాద్‌లోని వ్యవసాయ విశ్వవిద్యాలయంలో వేధింపుల ఆరోపణలపై విచారణలో భాగంగా విశ్వవిద్యాలయ వీసీ రాష్ట్ర మహిళా కమిషన్ ముందు హాజరయ్యారని ఆంధ్రజ్యోతి పేర్కొంది. ఈ వ్యవహారంపై ప్రభుత్వం ఇప్పటికే రాష్ట్ర గిడ్డంగుల సంస్థ ఎండీ నేతృత్వంలో కమిటీని ఏర్పాటు చేసింది. 15 రోజుల్లో నివేదిక ఇవ్వాలని ఆదేశించింది.",
-   "pts": [
-    "రాష్ట్ర మహిళా కమిషన్ ముందు హాజరైన వీసీ",
-    "గిడ్డంగుల సంస్థ ఎండీ నేతృత్వంలో విచారణ కమిటీ",
-    "15 రోజుల్లో నివేదిక ఇవ్వాలని ఆదేశం"
-   ],
-   "why": "విశ్వవిద్యాలయాల్లో విద్యార్థులు, సిబ్బంది భద్రతపై ఈ విచారణ ఫలితం ముఖ్యం.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-12T12:35+05:30",
-   "en": {
-    "h": "Harassment allegations at agriculture university: VC appears before women's commission",
-    "p": "As part of the inquiry into harassment allegations at the agriculture university in Hyderabad, the university's Vice-Chancellor appeared before the State Women's Commission, Andhra Jyothy reported. The government has already set up a committee headed by the MD of the State Warehousing Corporation and ordered it to submit a report within 15 days.",
-    "pts": [
-     "VC appears before State Women's Commission",
-     "Probe committee headed by Warehousing Corporation MD",
-     "Report ordered within 15 days"
-    ],
-    "why": "The outcome matters for the safety of students and staff at universities.",
-    "cat": "Hyderabad · University",
-    "statl": "Deadline for committee report"
-   },
-   "hi": {
-    "h": "कृषि विश्वविद्यालय में उत्पीड़न के आरोप: महिला आयोग के सामने पेश हुए कुलपति",
-    "p": "आंध्रज्योति के अनुसार हैदराबाद के कृषि विश्वविद्यालय में उत्पीड़न के आरोपों की जांच के तहत विश्वविद्यालय के कुलपति राज्य महिला आयोग के सामने पेश हुए। सरकार ने पहले ही राज्य भंडारण निगम के एमडी की अध्यक्षता में एक समिति बनाई है और 15 दिन में रिपोर्ट देने का आदेश दिया है।",
-    "pts": [
-     "राज्य महिला आयोग के सामने पेश हुए कुलपति",
-     "भंडारण निगम एमडी की अध्यक्षता में जांच समिति",
-     "15 दिन में रिपोर्ट देने का आदेश"
-    ],
-    "why": "विश्वविद्यालयों में छात्रों और कर्मचारियों की सुरक्षा के लिए यह जांच अहम है।",
-    "cat": "हैदराबाद · विश्वविद्यालय",
-    "statl": "समिति रिपोर्ट की समय सीमा"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "ఏపీ · శ్రీ సత్యసాయి",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "జామకాయ",
-   "statl": "కోసిందని బాలికపై దాడి ఆరోపణ",
-   "h": "అప్‌డేట్: జామకాయ ఘటన బాలిక కోలుకుంటోంది; కుటుంబానికి అండగా ఉంటామన్న మంత్రి సవిత",
-   "p": "శ్రీ సత్యసాయి జిల్లాలో జామకాయ కోసిందని ఒక మహిళ బాలికపై రాయితో దాడి చేసిందన్న ఘటనపై మంత్రి సవిత బాలిక తల్లిదండ్రులతో ఫోన్‌లో మాట్లాడారు. బాలిక గాయాల నుంచి కోలుకుంటోందని తల్లిదండ్రులు తెలిపారు. అనంతపురం ప్రభుత్వ ఆసుపత్రి వైద్యులతో మాట్లాడి మెరుగైన చికిత్స అందించాలని మంత్రి ఆదేశించారు. దాడి అమానుషమని, దాడి చేసిన మహిళపై చట్టపరమైన చర్యలు తీసుకుంటామని చెప్పారని ఆంధ్రజ్యోతి పేర్కొంది.",
-   "pts": [
-    "బాలిక కోలుకుంటోందని తెలిపిన తల్లిదండ్రులు",
-    "మెరుగైన చికిత్సకు మంత్రి సవిత ఆదేశం",
-    "దాడి చేసిన మహిళపై చట్టపరమైన చర్యలని హామీ"
-   ],
-   "why": "పిల్లలపై హింసపై ప్రభుత్వ స్పందన, బాధిత కుటుంబానికి సహాయం ముఖ్యం.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-sathyasai",
-   "pub": "2026-11-12T12:33+05:30",
-   "en": {
-    "h": "Update: Girl in guava attack recovering; Minister Savitha promises support",
-    "p": "Minister Savitha spoke by phone to the parents of a girl in Sri Sathya Sai district who was allegedly hit with a stone by a woman for plucking a guava. The parents said the girl is recovering from her injuries. The minister spoke to Anantapur government hospital doctors and ordered better treatment. Andhra Jyothy reported she called the attack inhuman and said legal action would be taken against the woman.",
-    "pts": [
-     "Parents say the girl is recovering",
-     "Minister Savitha orders better treatment",
-     "Legal action promised against the woman attacker"
-    ],
-    "why": "The government's response and help for the family matter in cases of violence against children.",
-    "cat": "AP · Sri Sathya Sai",
-    "statl": "Girl allegedly attacked for plucking"
-   },
-   "hi": {
-    "h": "अपडेट: अमरूद मामले में बच्ची ठीक हो रही; मंत्री सविता ने मदद का भरोसा दिया",
-    "p": "मंत्री सविता ने श्री सत्य साई जिले की उस बच्ची के माता-पिता से फोन पर बात की, जिस पर अमरूद तोड़ने पर एक महिला ने कथित तौर पर पत्थर से हमला किया था। माता-पिता ने बताया कि बच्ची ठीक हो रही है। मंत्री ने अनंतपुर सरकारी अस्पताल के डॉक्टरों से बात कर बेहतर इलाज का आदेश दिया। आंध्रज्योति के अनुसार उन्होंने हमले को अमानवीय बताया और हमलावर महिला पर कानूनी कार्रवाई की बात कही।",
-    "pts": [
-     "माता-पिता बोले, बच्ची ठीक हो रही है",
-     "मंत्री सविता ने बेहतर इलाज का आदेश दिया",
-     "हमलावर महिला पर कानूनी कार्रवाई का भरोसा"
-    ],
-    "why": "बच्चों पर हिंसा के मामलों में सरकार की प्रतिक्रिया और परिवार की मदद अहम है।",
-    "cat": "आंध्र प्रदेश · श्री सत्य साई",
-    "statl": "तोड़ने पर बच्ची पर हमले का आरोप"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "వనపర్తి · ఏసీబీ",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "10",
-   "statl": "ఏసీబీ బృందాలతో సోదాలు",
-   "h": "వనపర్తిలో నీటిపారుదల శాఖ అధికారి ఇంటిపై ఏసీబీ సోదాలు",
-   "p": "ఆదాయానికి మించిన ఆస్తుల కేసులో వనపర్తి జిల్లా ఖిల్లా ఘనపూర్ మండలం షాపూర్‌లో నీటిపారుదల, సీఏడీ శాఖకు చెందిన ఓ డిప్యూటీ ఎగ్జిక్యూటివ్ ఇంజినీర్ నివాసం సహా పలు చోట్ల ఏసీబీ అధికారులు సోదాలు చేశారు. పది ఏసీబీ బృందాలు ఇందులో పాల్గొన్నాయి. స్వాధీనం చేసుకున్న ఆస్తులు, కీలక పత్రాల వివరాలు ఇంకా వెల్లడించాల్సి ఉందని ఆంధ్రజ్యోతి పేర్కొంది.",
-   "pts": [
-    "ఆదాయానికి మించిన ఆస్తుల కేసులో సోదాలు",
-    "పది ఏసీబీ బృందాల మోహరింపు",
-    "స్వాధీన ఆస్తుల వివరాలు ఇంకా వెల్లడి కాలేదు"
-   ],
-   "why": "ప్రభుత్వ శాఖల్లో అవినీతిపై నిఘా చర్యలు ప్రజలకు ముఖ్యం.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "wanaparthy",
-   "loc": "ఖిల్లా ఘనపూర్",
-   "pub": "2026-11-12T12:19+05:30",
-   "en": {
-    "h": "ACB searches irrigation official's home in Wanaparthy",
-    "p": "In a disproportionate assets case, ACB officials searched several places, including the residence of a Deputy Executive Engineer of the Irrigation and CAD department, in Shapur, Khilla Ghanpur mandal, Wanaparthy district. Ten ACB teams took part. Details of the assets and key documents seized are yet to be disclosed, Andhra Jyothy reported.",
-    "pts": [
-     "Searches in a disproportionate assets case",
-     "Ten ACB teams deployed",
-     "Details of seized assets not yet disclosed"
-    ],
-    "why": "Anti-corruption action in government departments matters to the public.",
-    "cat": "Wanaparthy · ACB",
-    "statl": "ACB teams in searches"
-   },
-   "hi": {
-    "h": "वनपर्ती में सिंचाई विभाग के अधिकारी के घर पर एसीबी की तलाशी",
-    "p": "आय से अधिक संपत्ति के मामले में एसीबी अधिकारियों ने वनपर्ती जिले के खिल्ला घनपुर मंडल के शापुर में सिंचाई और सीएडी विभाग के एक डिप्टी एग्जीक्यूटिव इंजीनियर के घर समेत कई जगहों पर तलाशी ली। इसमें दस एसीबी टीमें शामिल थीं। आंध्रज्योति के अनुसार जब्त संपत्ति और अहम दस्तावेजों का ब्योरा अभी जारी होना बाकी है।",
-    "pts": [
-     "आय से अधिक संपत्ति मामले में तलाशी",
-     "दस एसीबी टीमें तैनात",
-     "जब्त संपत्ति का ब्योरा अभी नहीं"
-    ],
-    "why": "सरकारी विभागों में भ्रष्टाचार पर कार्रवाई जनता के लिए अहम है।",
-    "cat": "वनपर्ती · एसीबी",
-    "statl": "तलाशी में एसीबी टीमें"
    },
    "d": "12.11.2026",
    "t": "13:05"
