@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T16:35:00+05:30",
+ "cutoff": "2026-11-12T17:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -1167,6 +1167,19 @@
    "skipped": 4,
    "review": 0,
    "gaps": "Search-first; WebSearch returned mostly stale tag/listing pages. Read via sub-agent: Siasat Hyderabad & Telangana listings, TNM Telangana, India TV Telangana, TT Andhra Pradesh listing (no 12 Nov AP item verifiable). Not surfaced: Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, PTI, Reuters/AP; no AP district or international-topic items found; market close for 12 Nov 2026 not found. Skipped: Sonia memoir burnt Delhi (minor other-state), Bombay HC protest ruling (minor other-state), Sekhar Master accident (accident-victim naming rule/celebrity), Thammidikunta (already seen). Duplicate: Siasat GHMC Tolichowki huts = earlier Hakeempet story. Districts searched: Medak, Sangareddy, Siddipet, Khammam, Bhadradri, Mahabubabad, Vijayawada(NTR), Guntur, Nellore, Kakinada, East Godavari, Eluru, Srikakulam."
+  },
+  {
+   "window": "2026-11-12T16:35:00+05:30/2026-11-12T17:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 7,
+   "published": 7,
+   "late": 0,
+   "sensitive": 2,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebSearch returned only stale tag/listing pages. Read via sub-agent: Siasat Hyderabad listing (no new 12 Nov items), Southfirst AP & Telangana listings (undated), TNM AP (latest 10 Nov), Telangana Today AP tag page + 7 TT articles (16:33-16:54), Hans India Anantapur (02:26-02:30, before lookback). Not reachable: TT rupee-94.04 article (permission timeout). Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, Reuters/AP not surfaced; no international-topic items found. Districts searched: Karimnagar, Warangal, Nizamabad, Tirupati, Nellore, Kurnool, Guntur, Anantapur."
   }
  ],
  "seen": [
@@ -5019,6 +5032,41 @@
    "url": "https://www.siasat.com/choreographer-sekhar-master-meets-with-accident-truck-hits-car-3575061/",
    "d": "12.11.2026",
    "w": "16:35"
+  },
+  {
+   "url": "https://telanganatoday.com/farmers-protest-delay-in-paddy-procurement-across-telangana",
+   "d": "12.11.2026",
+   "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/andhra-pradesh-seeks-national-law-to-protect-investors-from-political-vendetta",
+   "d": "12.11.2026",
+   "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/centre-plans-fresh-push-for-womens-quota-bill-amid-confidence-of-majority",
+   "d": "12.11.2026",
+   "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/black-magic-suspicion-leads-to-murder-of-two-elderly-men-in-kothagudem",
+   "d": "12.11.2026",
+   "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/class-10-boy-reportedly-impregnates-intermediate-student-in-medak",
+   "d": "12.11.2026",
+   "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/hyderabad-excise-task-force-seizes-102-liquor-bottles-near-pahadishareef",
+   "d": "12.11.2026",
+   "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/hydraa-receives-36-complaints-over-illegal-borewells-in-6991911f",
+   "d": "12.11.2026",
+   "w": "17:05"
   }
  ]
 }

@@ -1,8 +1,358 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 85,
+ "count": 92,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "20 రోజులు",
+   "statl": "ప్రారంభించినా కొనుగోళ్లు జరగని కేంద్రాలు",
+   "h": "ధాన్యం కొనుగోళ్లలో జాప్యం: భువనగిరి, ఆలేరులో రైతుల ఆందోళన",
+   "p": "వానాకాలం ధాన్యం కొనుగోళ్లలో జాప్యంపై రైతులు ఆందోళన వ్యక్తం చేస్తున్నారని తెలంగాణ టుడే కథనం. భువనగిరి మండలం అనాజిపూర్, నందనం, నాగిరెడ్డిపల్లి కేంద్రాలను స్థానిక ఎమ్మెల్యే 20 రోజుల క్రితం ప్రారంభించినా కొనుగోళ్లు మొదలుకాలేదని రైతులు చెప్పారు. దళారులు క్వింటాకు ₹1,800–1,900 మాత్రమే ఇస్తున్నారని కథనం. ఆలేరు మార్కెట్ యార్డులో రైతులు ప్రభుత్వ విప్ బీర్ల అయిలయ్యను ప్రశ్నించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/farmers-protest-delay-in-paddy-procurement-across-telangana",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "భువనగిరి",
+   "pts": [
+    "20 రోజులుగా కేంద్రాల్లో కొనుగోళ్లు లేవని రైతుల ఆరోపణ",
+    "దళారులు క్వింటాకు ₹1,800–1,900 ఇస్తున్నట్లు కథనం",
+    "కేంద్రాలను సందర్శించిన బీఆర్ఎస్ నేతలు"
+   ],
+   "why": "ధాన్యం అమ్ముకోవాల్సిన వానాకాలం రైతుల ఆదాయంపై ఈ జాప్యం నేరుగా ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T16:54+05:30",
+   "en": {
+    "h": "Paddy procurement delay: farmers protest in Bhongir and Alair",
+    "p": "Farmers are protesting the delay in Vanakalam paddy procurement, Telangana Today reported. Farmers said centres at Anajipur, Nandanam and Nagireddypalli in Bhongir mandal were inaugurated by the local MLA 20 days ago, but purchases have not started. Middlemen are paying only ₹1,800–1,900 per quintal, the report said. At the Alair market yard, farmers questioned Government Whip Beerla Ilaiah.",
+    "pts": [
+     "Farmers allege no purchases at centres for 20 days",
+     "Middlemen paying ₹1,800–1,900 per quintal, report says",
+     "BRS leaders visited the centres"
+    ],
+    "why": "The delay directly hits the income of Vanakalam farmers waiting to sell paddy.",
+    "cat": "Telangana · Agriculture",
+    "statl": "Centres opened but no purchases yet"
+   },
+   "hi": {
+    "h": "धान खरीद में देरी: भुवनगिरी और आलेर में किसानों का विरोध",
+    "p": "तेलंगाना टुडे की खबर के अनुसार वानाकालम धान की खरीद में देरी पर किसान विरोध कर रहे हैं। किसानों ने कहा कि भुवनगिरी मंडल के अनाजिपुर, नंदनम और नागिरेड्डीपल्ली केंद्रों का उद्घाटन स्थानीय विधायक ने 20 दिन पहले किया, पर खरीद शुरू नहीं हुई। खबर के मुताबिक बिचौलिए प्रति क्विंटल केवल ₹1,800–1,900 दे रहे हैं। आलेर मार्केट यार्ड में किसानों ने सरकारी व्हिप बीरला अयलैया से सवाल किए।",
+    "pts": [
+     "किसानों का आरोप: 20 दिन से केंद्रों पर खरीद नहीं",
+     "खबर के अनुसार बिचौलिए ₹1,800–1,900 प्रति क्विंटल दे रहे",
+     "बीआरएस नेताओं ने केंद्रों का दौरा किया"
+    ],
+    "why": "यह देरी धान बेचने का इंतज़ार कर रहे किसानों की आय पर सीधा असर डालती है।",
+    "cat": "तेलंगाना · कृषि",
+    "statl": "केंद्र खुले, पर खरीद शुरू नहीं"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹22.6 లక్షల కోట్లు",
+   "statl": "జూన్ 2024 నుంచి పెట్టుబడి హామీలు: లోకేశ్",
+   "h": "అప్‌డేట్: పెట్టుబడిదారుల రక్షణకు జాతీయ చట్టం తేవాలని కేంద్రాన్ని కోరిన సీఎం చంద్రబాబు",
+   "p": "విశాఖలో 31వ సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభ సభలో సీఎం చంద్రబాబు, ప్రభుత్వాలు మారినా, రాజకీయ కక్షల నుంచి పెట్టుబడిదారులను కాపాడేలా రాష్ట్ర స్థాయి పెట్టుబడి రక్షణ చట్టం తెస్తామన్నారు. అసెంబ్లీ ఆమోదం తర్వాత బిల్లును కేంద్రానికి పంపుతామని, జాతీయ చట్టం తేవాలని కేంద్ర మంత్రి పీయూష్ గోయల్‌ను కోరారు. జూన్ 2024 నుంచి ₹22.6 లక్షల కోట్ల పెట్టుబడి హామీలు వచ్చాయని మంత్రి లోకేశ్ చెప్పారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/andhra-pradesh-seeks-national-law-to-protect-investors-from-political-vendetta",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "అసెంబ్లీ ఆమోదం తర్వాత బిల్లు కేంద్రానికి",
+    "₹17.2 లక్షల కోట్ల (73%) ప్రాజెక్టులకు ఆమోదం: లోకేశ్",
+    "₹5.9 లక్షల కోట్ల ప్రాజెక్టులు నిర్మాణంలో"
+   ],
+   "why": "ఏపీకి వచ్చే పెట్టుబడులు, వాటితో వచ్చే ఉద్యోగాలపై ఈ చట్టం ప్రభావం చూపనుంది.",
+   "pub": "2026-11-12T16:53+05:30",
+   "en": {
+    "h": "Update: CM Naidu urges Centre to bring national law protecting investors",
+    "p": "At the inaugural session of the 31st CII Partnership Summit in Visakhapatnam, CM Chandrababu Naidu said AP will bring a State-level Investment Protection Act to shield investors from changes of government and political vendetta. He said the Bill will be sent to the Centre after Assembly approval and urged Union Minister Piyush Goyal to bring a national law. Minister Lokesh said investment commitments since June 2024 total ₹22.6 lakh crore.",
+    "pts": [
+     "Bill to go to Centre after Assembly approval",
+     "₹17.2 lakh crore (73%) of projects approved: Lokesh",
+     "₹5.9 lakh crore of projects under construction"
+    ],
+    "why": "The law could affect investments coming to AP and the jobs they bring.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Investment commitments since June 2024: Lokesh"
+   },
+   "hi": {
+    "h": "अपडेट: सीएम नायडू ने निवेशकों की सुरक्षा के लिए राष्ट्रीय कानून की मांग की",
+    "p": "विशाखापत्तनम में 31वें सीआईआई पार्टनरशिप समिट के उद्घाटन सत्र में मुख्यमंत्री चंद्रबाबू नायडू ने कहा कि सरकार बदलने और राजनीतिक बदले की कार्रवाई से निवेशकों को बचाने के लिए आंध्र प्रदेश राज्य स्तर का निवेश संरक्षण कानून लाएगा। विधानसभा की मंज़ूरी के बाद विधेयक केंद्र को भेजा जाएगा; उन्होंने केंद्रीय मंत्री पीयूष गोयल से राष्ट्रीय कानून लाने का आग्रह किया। मंत्री लोकेश ने कहा कि जून 2024 से ₹22.6 लाख करोड़ के निवेश वादे मिले हैं।",
+    "pts": [
+     "विधानसभा की मंज़ूरी के बाद विधेयक केंद्र को",
+     "₹17.2 लाख करोड़ (73%) की परियोजनाएं स्वीकृत: लोकेश",
+     "₹5.9 लाख करोड़ की परियोजनाएं निर्माणाधीन"
+    ],
+    "why": "यह कानून आंध्र प्रदेश में आने वाले निवेश और उनसे मिलने वाली नौकरियों को प्रभावित कर सकता है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "जून 2024 से निवेश वादे: लोकेश"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "భారత్ · పార్లమెంట్",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "361",
+   "statl": "లోక్‌సభలో అవసరమైన ఓట్లు (మూడింట రెండొంతులు)",
+   "h": "మహిళా రిజర్వేషన్ బిల్లుకు మళ్లీ ప్రయత్నం: పార్లమెంట్ ప్రత్యేక సమావేశాలకు కేంద్రం యోచన",
+   "p": "మహిళా రిజర్వేషన్ రాజ్యాంగ సవరణ బిల్లు ఆమోదం కోసం పార్లమెంట్ ప్రత్యేక సమావేశాలు నిర్వహించాలని కేంద్రం యోచిస్తోందని ప్రభుత్వ వర్గాలు తెలిపినట్లు పీటీఐ కథనం. 15–18 ఓట్ల ఆధిక్యం ఉంటుందని భావిస్తున్నారు. డీలిమిటేషన్ ద్వారా లోక్‌సభ సీట్లను గరిష్ఠంగా 850కి పెంచి 33% మహిళా రిజర్వేషన్ కల్పించేలా సవరణ ప్రతిపాదన ఉంది. ఏప్రిల్ 17న ఇలాంటి బిల్లు వీగిపోయింది. తుది నిర్ణయం ఇంకా తీసుకోలేదు.",
+   "src": "PTI (via Telangana Today)",
+   "url": "https://telanganatoday.com/centre-plans-fresh-push-for-womens-quota-bill-amid-confidence-of-majority",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "లోక్‌సభ సీట్లు గరిష్ఠంగా 850కి పెంచే ప్రతిపాదన",
+    "ఏప్రిల్ 17న ఇలాంటి బిల్లు వీగిపోయింది",
+    "తేదీలపై ఇంకా తుది నిర్ణయం లేదు"
+   ],
+   "why": "చట్టసభల్లో మహిళల ప్రాతినిధ్యం, లోక్‌సభ సీట్ల సంఖ్యపై ఈ బిల్లు ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T16:33+05:30",
+   "en": {
+    "h": "Women's quota Bill: Centre plans special Parliament session for fresh push",
+    "p": "The Centre is planning a special session of Parliament to pass the women's reservation Constitution amendment Bill, PTI reported citing government sources. A margin of 15–18 votes is expected. The proposed amendment would raise Lok Sabha strength to a maximum of 850 through delimitation to enable 33% reservation for women. A similar Bill failed on April 17. No final decision has been taken yet.",
+    "pts": [
+     "Proposal to raise Lok Sabha seats to a maximum of 850",
+     "A similar Bill failed on April 17",
+     "No final decision yet on dates"
+    ],
+    "why": "The Bill affects women's representation in legislatures and the number of Lok Sabha seats.",
+    "cat": "India · Parliament",
+    "statl": "Votes needed in Lok Sabha (two-thirds)"
+   },
+   "hi": {
+    "h": "महिला आरक्षण विधेयक: केंद्र संसद का विशेष सत्र बुलाने पर विचार कर रहा",
+    "p": "पीटीआई ने सरकारी सूत्रों के हवाले से बताया कि महिला आरक्षण संविधान संशोधन विधेयक पारित कराने के लिए केंद्र संसद का विशेष सत्र बुलाने पर विचार कर रहा है। 15–18 वोटों के अंतर की उम्मीद है। प्रस्तावित संशोधन परिसीमन से लोकसभा की अधिकतम संख्या 850 करेगा ताकि महिलाओं को 33% आरक्षण मिल सके। 17 अप्रैल को ऐसा ही विधेयक गिर गया था। अभी अंतिम फैसला नहीं हुआ है।",
+    "pts": [
+     "लोकसभा सीटें अधिकतम 850 करने का प्रस्ताव",
+     "17 अप्रैल को ऐसा ही विधेयक गिर गया था",
+     "तारीखों पर अभी अंतिम फैसला नहीं"
+    ],
+    "why": "यह विधेयक विधायिकाओं में महिलाओं के प्रतिनिधित्व और लोकसभा सीटों की संख्या को प्रभावित करता है।",
+    "cat": "भारत · संसद",
+    "statl": "लोकसभा में ज़रूरी वोट (दो-तिहाई)"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "భద్రాద్రి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "5",
+   "statl": "పోలీసుల అదుపులో అనుమానితులు",
+   "h": "చేతబడి అనుమానంతో ఇద్దరు వృద్ధుల హత్య ఆరోపణ: ఐదుగురు అదుపులో",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లాలో చేతబడి చేస్తున్నారనే అనుమానంతో గ్రామస్తులు ఇద్దరు వృద్ధులను (80, 70 ఏళ్లు) కొట్టి చంపారని ఆరోపణ. పోలీసుల ప్రకారం, ఆళ్లపల్లి, మణుగూరు మండలాలకు చెందిన వీరు అక్టోబర్ 7న పూజ తర్వాత కనిపించకుండా పోయారు. కుటుంబసభ్యుల ఫిర్యాదుతో దర్యాప్తు చేసిన పోలీసులు మృతదేహాలను ఒక చెక్‌డ్యాం వద్ద పూడ్చినట్లు గుర్తించారు. ఐదుగురు అనుమానితులను అదుపులోకి తీసుకున్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/black-magic-suspicion-leads-to-murder-of-two-elderly-men-in-kothagudem",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "మణుగూరు",
+   "pts": [
+    "అక్టోబర్ 7 నుంచి ఇద్దరు వృద్ధులు అదృశ్యం",
+    "కొట్టి చంపారని పోలీసుల ప్రకారం",
+    "గ్రామాన్ని సందర్శించిన మణుగూరు డీఎస్పీ"
+   ],
+   "why": "మూఢనమ్మకాలు ప్రాణాలు తీస్తున్న తీరుపై ఏజెన్సీ ప్రాంతాల్లో అవగాహన అవసరాన్ని ఈ ఘటన చూపుతోంది.",
+   "pub": "2026-11-12T16:33+05:30",
+   "en": {
+    "h": "Two elderly men allegedly killed over black magic suspicion; five held",
+    "p": "Villagers allegedly beat two elderly men (aged 80 and 70) to death in Bhadradri Kothagudem district on suspicion of practising black magic. According to police, the men, from Allapalli and Manuguru mandals, went missing on October 7 after a puja. Acting on a family complaint, police found the bodies had been buried near a check dam. Five suspects have been taken into custody.",
+    "pts": [
+     "Two elderly men missing since October 7",
+     "Beaten to death, according to police",
+     "Manuguru DSP visited the village"
+    ],
+    "why": "The case shows the need for awareness in Agency areas about superstition that costs lives.",
+    "cat": "Bhadradri · Crime",
+    "statl": "Suspects in police custody"
+   },
+   "hi": {
+    "h": "काला जादू के शक में दो बुज़ुर्गों की हत्या का आरोप; पांच हिरासत में",
+    "p": "भद्राद्री कोत्तागुडेम ज़िले में काला जादू करने के शक में ग्रामीणों पर दो बुज़ुर्गों (80 और 70 वर्ष) की पीट-पीटकर हत्या का आरोप है। पुलिस के अनुसार आल्लापल्ली और मणुगुरु मंडलों के ये बुज़ुर्ग 7 अक्टूबर को पूजा के बाद लापता हो गए थे। परिवार की शिकायत पर जांच में पुलिस ने पाया कि शव एक चेक डैम के पास दफनाए गए थे। पांच संदिग्धों को हिरासत में लिया गया है।",
+    "pts": [
+     "7 अक्टूबर से दो बुज़ुर्ग लापता",
+     "पुलिस के अनुसार पीट-पीटकर हत्या",
+     "मणुगुरु डीएसपी ने गांव का दौरा किया"
+    ],
+    "why": "यह घटना एजेंसी क्षेत्रों में जान लेने वाले अंधविश्वास के प्रति जागरूकता की ज़रूरत दिखाती है।",
+    "cat": "भद्राद्री · अपराध",
+    "statl": "पुलिस हिरासत में संदिग्ध"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "మెదక్ · ఆరోగ్యం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "కేసు",
+   "statl": "అక్రమ అబార్షన్‌పై ఆర్‌ఎంపీపై కేసు",
+   "h": "మెదక్‌లో మైనర్‌కు అక్రమ అబార్షన్: ఆర్‌ఎంపీపై పోలీసుల కేసు",
+   "p": "మెదక్ జిల్లాలోని ఒక గ్రామంలో ఇంటర్ చదువుతున్న మైనర్ విద్యార్థినికి అక్టోబర్ చివరి వారంలో గ్రామ ఆర్‌ఎంపీ అబార్షన్ చేశారని తెలంగాణ టుడే కథనం. అప్పటికి ఆమె ఏడు నెలల గర్భవతి అని, పిండాన్ని గ్రామంలో పూడ్చిపెట్టారని కథనం. విషయం బయటపడటంతో పోలీసులు దర్యాప్తు ప్రారంభించి పిండాన్ని వెలికితీశారు. ఆర్‌ఎంపీపై కేసు నమోదు చేశారు; దర్యాప్తు కొనసాగుతోంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/class-10-boy-reportedly-impregnates-intermediate-student-in-medak",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "medak",
+   "pts": [
+    "అక్టోబర్ చివరి వారంలో అబార్షన్ చేసినట్లు కథనం",
+    "పూడ్చిన పిండాన్ని వెలికితీసిన పోలీసులు",
+    "ఆర్‌ఎంపీపై కేసు, దర్యాప్తు కొనసాగుతోంది"
+   ],
+   "why": "అర్హత లేని వైద్యుల వద్ద చికిత్సలు బాలికల ప్రాణాలకు ప్రమాదమని ఈ ఘటన గుర్తుచేస్తోంది.",
+   "pub": "2026-11-12T16:41+05:30",
+   "en": {
+    "h": "Illegal abortion on minor in Medak: police book village RMP",
+    "p": "A village RMP in Medak district allegedly performed an abortion on a minor intermediate student in the last week of October, Telangana Today reported. She was seven months pregnant at the time and the foetus was buried in the village, the report said. After the matter came to light, police began an investigation and exhumed the foetus. A case has been registered against the RMP; the probe is on.",
+    "pts": [
+     "Abortion allegedly done in last week of October",
+     "Police exhumed the buried foetus",
+     "Case against RMP, probe under way"
+    ],
+    "why": "The case is a reminder that treatment by unqualified practitioners puts girls' lives at risk.",
+    "cat": "Medak · Health",
+    "statl": "Case against RMP over illegal abortion"
+   },
+   "hi": {
+    "h": "मेदक में नाबालिग का अवैध गर्भपात: गांव के आरएमपी पर पुलिस का केस",
+    "p": "तेलंगाना टुडे की खबर के अनुसार मेदक ज़िले के एक गांव में आरएमपी ने अक्टूबर के आखिरी हफ्ते में इंटर में पढ़ने वाली एक नाबालिग छात्रा का गर्भपात किया। खबर के मुताबिक उस समय वह सात महीने की गर्भवती थी और भ्रूण गांव में दफना दिया गया। मामला सामने आने पर पुलिस ने जांच शुरू की और भ्रूण निकाला। आरएमपी पर केस दर्ज किया गया है; जांच जारी है।",
+    "pts": [
+     "अक्टूबर के आखिरी हफ्ते में गर्भपात का आरोप",
+     "पुलिस ने दफनाया गया भ्रूण निकाला",
+     "आरएमपी पर केस, जांच जारी"
+    ],
+    "why": "यह घटना याद दिलाती है कि अयोग्य चिकित्सकों से इलाज लड़कियों की जान के लिए खतरा है।",
+    "cat": "मेदक · स्वास्थ्य",
+    "statl": "अवैध गर्भपात पर आरएमपी के खिलाफ केस"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఎక్సైజ్",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "102",
+   "statl": "స్వాధీనం చేసుకున్న మద్యం సీసాలు",
+   "h": "పహాడీషరీఫ్ వద్ద 102 అక్రమ మద్యం సీసాలు స్వాధీనం",
+   "p": "గోవా తదితర ప్రాంతాల నుంచి శంషాబాద్ విమానాశ్రయం మీదుగా మద్యం తెస్తున్నారనే సమాచారంతో ఎక్సైజ్ స్టేట్ టాస్క్‌ఫోర్స్ గురువారం పహాడీషరీఫ్ వద్ద ప్రత్యేక తనిఖీలు చేసింది. రెండు బృందాలు జరిపిన తనిఖీల్లో సుంకం చెల్లించని 102 మద్యం సీసాలను స్వాధీనం చేసుకున్నారు. వాటిని తదుపరి చర్యల కోసం శంషాబాద్ ఎక్సైజ్ స్టేషన్‌కు అప్పగించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-excise-task-force-seizes-102-liquor-bottles-near-pahadishareef",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "పహాడీషరీఫ్",
+   "pts": [
+    "గోవా నుంచి విమానాశ్రయం మీదుగా మద్యం రవాణాపై సమాచారం",
+    "రెండు బృందాలతో ప్రత్యేక తనిఖీలు",
+    "శంషాబాద్ ఎక్సైజ్ స్టేషన్‌కు సీసాల అప్పగింత"
+   ],
+   "why": "ఇతర రాష్ట్రాల నుంచి అక్రమ మద్యం రవాణాను అడ్డుకునే చర్యల్లో భాగమని అధికారులు తెలిపారు.",
+   "pub": "2026-11-12T16:48+05:30",
+   "en": {
+    "h": "102 illegal liquor bottles seized near Pahadishareef",
+    "p": "Acting on information that liquor was being brought from Goa and other places via Shamshabad airport, the Excise State Task Force conducted special checks near Pahadishareef on Thursday. Two teams seized 102 non-duty-paid liquor bottles. The bottles were handed over to the Shamshabad Excise Station for further action.",
+    "pts": [
+     "Tip-off on liquor from Goa via the airport",
+     "Special checks by two teams",
+     "Bottles handed to Shamshabad Excise Station"
+    ],
+    "why": "Officials said it is part of efforts to curb illegal liquor transport from other states.",
+    "cat": "Hyderabad · Excise",
+    "statl": "Liquor bottles seized"
+   },
+   "hi": {
+    "h": "पहाड़ीशरीफ के पास 102 अवैध शराब की बोतलें ज़ब्त",
+    "p": "गोवा और अन्य जगहों से शमशाबाद हवाई अड्डे के रास्ते शराब लाए जाने की सूचना पर आबकारी स्टेट टास्क फोर्स ने गुरुवार को पहाड़ीशरीफ के पास विशेष जांच की। दो टीमों ने बिना शुल्क चुकाई 102 शराब की बोतलें ज़ब्त कीं। बोतलें आगे की कार्रवाई के लिए शमशाबाद आबकारी थाने को सौंपी गईं।",
+    "pts": [
+     "हवाई अड्डे के रास्ते गोवा से शराब की सूचना",
+     "दो टीमों की विशेष जांच",
+     "बोतलें शमशाबाद आबकारी थाने को सौंपी"
+    ],
+    "why": "अधिकारियों ने कहा कि यह दूसरे राज्यों से अवैध शराब परिवहन रोकने के प्रयासों का हिस्सा है।",
+    "cat": "हैदराबाद · आबकारी",
+    "statl": "ज़ब्त शराब की बोतलें"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · చెరువులు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "36",
+   "statl": "హైడ్రా ప్రజావాణికి వచ్చిన ఫిర్యాదులు",
+   "h": "చెరువుల వద్ద అక్రమ బోర్లు: హైడ్రాకు 36 ఫిర్యాదులు",
+   "p": "హైడ్రా ప్రజావాణికి బుద్ధభవన్‌లో 36 ఫిర్యాదులు అందాయి. చెరువుల దగ్గర అక్రమ బోర్లు, ఆక్రమణలు, పౌర సమస్యలపై ఇవి వచ్చాయి. కొందరు రాత్రివేళ ట్యాంకర్లతో నీటిని రహస్యంగా అమ్ముతున్నారని, కీసర మండలంలోని తుమ్మలకుంట చెరువు నుంచి బోర్ల ద్వారా నీరు తోడి అమ్ముతున్నారని, ఎఫ్‌టీఎల్ పరిధిలో ఆక్రమణలున్నాయని స్థానికులు ఆరోపించారు. వెంటనే చర్యలు తీసుకోవాలని కమిషనర్ ఏవీ రంగనాథ్ అధికారులను ఆదేశించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hydraa-receives-36-complaints-over-illegal-borewells-in-6991911f",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "కీసర",
+   "pts": [
+    "చెరువుల దగ్గర అక్రమ బోర్లపై ఫిర్యాదులు",
+    "తుమ్మలకుంట చెరువు నీటి అమ్మకంపై ఆరోపణ",
+    "తక్షణ చర్యలకు కమిషనర్ ఆదేశం"
+   ],
+   "why": "నగర చెరువులు, భూగర్భ జలాల రక్షణపై ఆసక్తి ఉన్న స్థానికులకు ఇది ముఖ్యం.",
+   "pub": "2026-11-12T16:45+05:30",
+   "en": {
+    "h": "Illegal borewells near lakes: HYDRAA receives 36 complaints",
+    "p": "HYDRAA's Prajavani at Budha Bhavan received 36 complaints about illegal borewells near lakes, encroachments and civic issues. Residents alleged some operators secretly sell water at night using tankers, and that water is drawn through borewells from Thummalakunta lake in Keesara mandal and sold, with encroachments inside FTL limits. Commissioner AV Ranganath directed officials to act immediately.",
+    "pts": [
+     "Complaints over illegal borewells near lakes",
+     "Allegation of water sales from Thummalakunta lake",
+     "Commissioner orders immediate action"
+    ],
+    "why": "It matters to residents concerned about protecting city lakes and groundwater.",
+    "cat": "Hyderabad · Lakes",
+    "statl": "Complaints at HYDRAA Prajavani"
+   },
+   "hi": {
+    "h": "झीलों के पास अवैध बोरवेल: हाइड्रा को 36 शिकायतें",
+    "p": "बुद्ध भवन में हाइड्रा प्रजावाणी को झीलों के पास अवैध बोरवेल, अतिक्रमण और नागरिक समस्याओं पर 36 शिकायतें मिलीं। निवासियों ने आरोप लगाया कि कुछ लोग रात में टैंकरों से चोरी-छिपे पानी बेचते हैं, और कीसरा मंडल की तुम्मलकुंटा झील से बोरवेल के ज़रिए पानी निकालकर बेचा जा रहा है तथा एफटीएल सीमा में अतिक्रमण है। आयुक्त एवी रंगनाथ ने अधिकारियों को तुरंत कार्रवाई का निर्देश दिया।",
+    "pts": [
+     "झीलों के पास अवैध बोरवेल की शिकायतें",
+     "तुम्मलकुंटा झील से पानी बेचने का आरोप",
+     "आयुक्त ने तुरंत कार्रवाई का आदेश दिया"
+    ],
+    "why": "यह शहर की झीलों और भूजल की सुरक्षा को लेकर चिंतित निवासियों के लिए अहम है।",
+    "cat": "हैदराबाद · झीलें",
+    "statl": "हाइड्रा प्रजावाणी में शिकायतें"
+   },
+   "d": "12.11.2026",
+   "t": "17:05"
+  },
   {
    "cat": "తెలంగాణ · వ్యవసాయం",
    "col": "--c-gov",
