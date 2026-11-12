@@ -1,8 +1,155 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T10:08:48+05:30",
+ "updated": "2026-11-12T10:46:20+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "16–17 నవం.",
+   "statl": "తీరం వైపు వచ్చే అవకాశం ఉన్న తేదీలు",
+   "h": "అప్‌డేట్: 15 నాటికి వాయుగుండం అవకాశం; మత్స్యకారులకు హెచ్చరిక",
+   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13 నాటికి అల్పపీడనం ఏర్పడవచ్చని, 15 నాటికి అది వాయుగుండంగా మారే అవకాశం ఉందని వాతావరణ శాఖ తెలిపింది. దీని గమనం ఇంకా స్పష్టంగా లేదని, 16 లేదా 17న ఒంగోలు–చెన్నై–పుదుచ్చేరి మధ్య తీరం వైపు రావచ్చని అంచనా. సముద్రం అల్లకల్లోలంగా ఉంటుందని మత్స్యకారులు వేటకు వెళ్లొద్దని ఏపీ ప్రభుత్వం సూచించింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/rain-alert-issued-to-ap-telangana-amid-expected-low-pressure-1141302",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ప్రస్తుతం ఏపీపై ఈ వ్యవస్థ ప్రభావం లేదని వాతావరణ శాఖ",
+    "మూడు రోజులు కోస్తా, రాయలసీమలో పొడి వాతావరణం",
+    "తెలంగాణలో వారం పాటు వర్షం లేదు, రాత్రి చలి పెరుగుదల"
+   ],
+   "why": "దక్షిణ కోస్తా ఏపీ మత్స్యకారులు, తీర ప్రాంత ప్రజలు ఈ హెచ్చరికను గమనించాలి.",
+   "pub": "2026-11-12T09:27+05:30",
+   "en": {
+    "h": "Update: Depression likely by Nov 15; warning for fishermen",
+    "p": "The Meteorological Department said a low-pressure area may form over the southeast Bay of Bengal by November 13 and could become a depression by the 15th. Its path is still unclear; it may approach the coast between Ongole, Chennai and Puducherry on the 16th or 17th. The AP government advised fishermen not to venture into the sea as it will be rough.",
+    "pts": [
+     "Met department says no effect on AP for now",
+     "Dry weather in coastal Andhra and Rayalaseema for three days",
+     "No rain in Telangana for a week; nights to get colder"
+    ],
+    "why": "Fishermen and coastal residents of south coastal AP should note this warning.",
+    "cat": "AP · Weather",
+    "statl": "possible dates of approach to the coast"
+   },
+   "hi": {
+    "h": "अपडेट: 15 नवंबर तक अवदाब की आशंका; मछुआरों को चेतावनी",
+    "p": "मौसम विभाग ने कहा कि दक्षिण-पूर्व बंगाल की खाड़ी में 13 नवंबर तक कम दबाव का क्षेत्र बन सकता है और 15 तक यह अवदाब में बदल सकता है। इसका रास्ता अभी स्पष्ट नहीं है; यह 16 या 17 को ओंगोल, चेन्नई और पुडुचेरी के बीच तट की ओर आ सकता है। आंध्र प्रदेश सरकार ने मछुआरों को समुद्र में न जाने की सलाह दी है क्योंकि समुद्र अशांत रहेगा।",
+    "pts": [
+     "मौसम विभाग: फिलहाल आंध्र पर कोई असर नहीं",
+     "तीन दिन तटीय आंध्र और रायलसीमा में मौसम शुष्क",
+     "तेलंगाना में एक हफ्ते बारिश नहीं; रातें और ठंडी"
+    ],
+    "why": "दक्षिण तटीय आंध्र के मछुआरों और तटीय लोगों को यह चेतावनी ध्यान में रखनी चाहिए।",
+    "cat": "आंध्र प्रदेश · मौसम",
+    "statl": "तट की ओर आने की संभावित तारीखें"
+   },
+   "d": "12.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "5 రోజులు",
+   "statl": "నిందితులకు పోలీస్ కస్టడీ",
+   "h": "అక్రమ అండాల సేకరణ కేసు: నిందితులకు 5 రోజుల పోలీస్ కస్టడీ",
+   "p": "మహిళల నుంచి అండాలు సేకరించిన కేసులో నిందితులను ఐదు రోజుల పోలీస్ కస్టడీకి సికింద్రాబాద్ కోర్టు అనుమతించిందని ఈటీవీ భారత్ తెలిపింది. చంచల్‌గూడ జైలు నుంచి తొమ్మిది మంది నిందితులను బేగంపేట పోలీసులు గురువారం కస్టడీలోకి తీసుకోనున్నారు. ఏజెంట్లు, వైద్య సంస్థల పాత్ర, ఆర్థిక లావాదేవీలపై విచారిస్తామని పోలీసులు చెబుతున్నారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#ova-custody",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బేగంపేట",
+   "pts": [
+    "సికింద్రాబాద్ కోర్టు 5 రోజుల కస్టడీకి అనుమతి",
+    "చంచల్‌గూడ జైలు నుంచి 9 మంది నిందితులు",
+    "ముఠా నెట్‌వర్క్, ఆర్థిక లావాదేవీలపై విచారణ"
+   ],
+   "why": "మహిళల ఆరోగ్యానికి ప్రమాదకరమైన అక్రమ అండాల వ్యాపారంపై దర్యాప్తు ఇది.",
+   "pub": "2026-11-12T06:35+05:30",
+   "en": {
+    "h": "Illegal egg-collection case: 5-day police custody for accused",
+    "p": "A Secunderabad court allowed five days of police custody for the accused in the case of collecting eggs (ova) from women, ETV Bharat reported. Begumpet police were to take nine accused from Chanchalguda jail into custody on Thursday. Police say they will probe the roles of agents and medical institutions and the financial transactions.",
+    "pts": [
+     "Secunderabad court allows 5-day custody",
+     "9 accused from Chanchalguda jail",
+     "Probe into the network and money transactions"
+    ],
+    "why": "This is a probe into an illegal egg trade that endangers women's health.",
+    "cat": "Hyderabad · Crime",
+    "statl": "police custody for accused"
+   },
+   "hi": {
+    "h": "अवैध अंडाणु संग्रह मामला: आरोपियों को 5 दिन की पुलिस हिरासत",
+    "p": "ईटीवी भारत के अनुसार, महिलाओं से अंडाणु एकत्र करने के मामले में सिकंदराबाद अदालत ने आरोपियों को पांच दिन की पुलिस हिरासत की अनुमति दी। बेगमपेट पुलिस गुरुवार को चंचलगुडा जेल से नौ आरोपियों को हिरासत में लेने वाली थी। पुलिस का कहना है कि वह एजेंटों और चिकित्सा संस्थानों की भूमिका और वित्तीय लेन-देन की जांच करेगी।",
+    "pts": [
+     "सिकंदराबाद अदालत ने 5 दिन की हिरासत दी",
+     "चंचलगुडा जेल से 9 आरोपी",
+     "नेटवर्क और लेन-देन की जांच"
+    ],
+    "why": "यह महिलाओं के स्वास्थ्य को खतरे में डालने वाले अवैध अंडाणु कारोबार की जांच है।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "आरोपियों की पुलिस हिरासत"
+   },
+   "d": "12.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తెలంగాణ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "35 ఏళ్లు",
+   "statl": "హత్యకు గురైన మహిళ వయసు",
+   "h": "మీర్‌పేట్ పరిధిలో మహిళ హత్య: పోలీసుల దర్యాప్తు",
+   "p": "మీర్‌పేట్ పోలీస్ స్టేషన్ పరిధిలో 35 ఏళ్ల మహిళను గుర్తు తెలియని వ్యక్తులు హత్య చేశారని ఈటీవీ భారత్ తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. హత్యకు కారణాలు, నిందితుల వివరాలు ఇంకా వెల్లడి కాలేదు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#meerpet-murder",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "మీర్‌పేట్",
+   "pts": [
+    "గుర్తు తెలియని వ్యక్తుల చేతిలో మహిళ హత్య",
+    "కేసు నమోదు చేసి పోలీసుల దర్యాప్తు"
+   ],
+   "why": "మహిళ హత్యపై పోలీసులు దర్యాప్తు చేస్తున్నారు; స్థానికులకు భద్రతపై ఆందోళన కలిగించే ఘటన.",
+   "pub": "2026-11-12T06:40+05:30",
+   "en": {
+    "h": "Woman murdered in Meerpet limits; police investigating",
+    "p": "A 35-year-old woman was murdered by unidentified persons within Meerpet police station limits, ETV Bharat reported. Police registered a case and are investigating. The motive and details of the accused have not yet been disclosed.",
+    "pts": [
+     "Woman killed by unidentified persons",
+     "Police register case and investigate"
+    ],
+    "why": "Police are investigating the murder; the incident is a safety concern for local residents.",
+    "cat": "Telangana · Crime",
+    "statl": "age of the woman killed"
+   },
+   "hi": {
+    "h": "मीरपेट क्षेत्र में महिला की हत्या; पुलिस जांच में जुटी",
+    "p": "ईटीवी भारत के अनुसार, मीरपेट पुलिस थाना क्षेत्र में अज्ञात लोगों ने 35 वर्षीय महिला की हत्या कर दी। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। हत्या का कारण और आरोपियों का विवरण अभी सामने नहीं आया है।",
+    "pts": [
+     "अज्ञात लोगों ने महिला की हत्या की",
+     "पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "पुलिस हत्या की जांच कर रही है; यह घटना स्थानीय लोगों के लिए सुरक्षा की चिंता है।",
+    "cat": "तेलंगाना · अपराध",
+    "statl": "मारी गई महिला की उम्र"
+   },
+   "d": "12.11.2026",
+   "t": "10:35"
+  },
   {
    "cat": "తెలంగాణ · పెట్టుబడులు",
    "col": "--c-money",
@@ -2258,157 +2405,6 @@
    },
    "d": "11.11.2026",
    "t": "22:05"
-  },
-  {
-   "cat": "ఏపీ · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "campus",
-   "stat": "210",
-   "statl": "శిక్షణ పొందిన వైద్య సిబ్బంది",
-   "h": "నవజాత శిశు సంరక్షణకు ఎఫ్‌బీఎన్‌సీ పోర్టల్: 210 మంది సిబ్బందికి శిక్షణ",
-   "p": "నవజాత శిశువుల ఆరోగ్యాన్ని నిరంతరం పర్యవేక్షించేందుకు ఫెసిలిటీ బేస్డ్ న్యూబార్న్ కేర్ (ఎఫ్‌బీఎన్‌సీ) పోర్టల్ వినియోగాన్ని ఏపీ ఆరోగ్య శాఖ బలోపేతం చేస్తోంది. ఇందుకోసం బుధవారం విజయవాడలో వైద్యులు, సిబ్బందికి ప్రత్యేక శిక్షణ ఇచ్చారు. 70 కేంద్రాల నుంచి సుమారు 210 మంది మెడికల్ ఆఫీసర్లు, స్టాఫ్ నర్సులు, డేటా ఎంట్రీ సిబ్బంది హాజరయ్యారని డెక్కన్ క్రానికల్ తెలిపింది.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-trains-doctors-health-personnel-on-fbnc-portal-for-newborn-care-2003536",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-ntr",
-   "loc": "విజయవాడ",
-   "pts": [
-    "విజయవాడలో వైద్య సిబ్బందికి ప్రత్యేక శిక్షణ",
-    "70 కేంద్రాల నుంచి 210 మంది హాజరు",
-    "యునిసెఫ్ కన్సల్టెంట్ పోర్టల్ వినియోగం వివరణ"
-   ],
-   "why": "ఆసుపత్రుల్లో పుట్టిన శిశువుల ఆరోగ్య పర్యవేక్షణ మెరుగుపడేందుకు ఈ చర్య ఉద్దేశించింది.",
-   "pub": "2026-11-11T20:57+05:30",
-   "en": {
-    "h": "FBNC portal for newborn care: 210 health staff trained in AP",
-    "p": "Andhra Pradesh health authorities are strengthening use of the Facility-Based Newborn Care (FBNC) portal for continuous monitoring of newborns' health. A special training for doctors and staff was held in Vijayawada on Wednesday. About 210 medical officers, staff nurses and data entry staff from 70 facilities attended, Deccan Chronicle reported.",
-    "pts": [
-     "Special training for health staff in Vijayawada",
-     "210 attended from 70 facilities",
-     "UNICEF consultant explained portal use"
-    ],
-    "why": "The step aims to improve health monitoring of babies born in hospitals.",
-    "cat": "AP · Health",
-    "statl": "Health staff trained"
-   },
-   "hi": {
-    "h": "नवजात देखभाल के लिए एफबीएनसी पोर्टल: आंध्र में 210 स्वास्थ्यकर्मियों को प्रशिक्षण",
-    "p": "आंध्र प्रदेश का स्वास्थ्य विभाग नवजात शिशुओं के स्वास्थ्य की लगातार निगरानी के लिए फैसिलिटी बेस्ड न्यूबॉर्न केयर (एफबीएनसी) पोर्टल का उपयोग मज़बूत कर रहा है। इसके लिए बुधवार को विजयवाड़ा में डॉक्टरों और कर्मचारियों को विशेष प्रशिक्षण दिया गया। डेक्कन क्रॉनिकल के अनुसार 70 केंद्रों से लगभग 210 मेडिकल ऑफिसर, स्टाफ नर्स और डेटा एंट्री कर्मी शामिल हुए।",
-    "pts": [
-     "विजयवाड़ा में स्वास्थ्यकर्मियों का विशेष प्रशिक्षण",
-     "70 केंद्रों से 210 लोग शामिल",
-     "यूनिसेफ सलाहकार ने पोर्टल का उपयोग समझाया"
-    ],
-    "why": "इस कदम का उद्देश्य अस्पतालों में जन्मे शिशुओं की स्वास्थ्य निगरानी बेहतर करना है।",
-    "cat": "आंध्र प्रदेश · स्वास्थ्य",
-    "statl": "प्रशिक्षित स्वास्थ्यकर्मी"
-   },
-   "d": "11.11.2026",
-   "t": "22:05"
-  },
-  {
-   "cat": "భారత్ · ధరలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹4/లీ.",
-   "statl": "అమూల్ గోల్డ్ పాలపై పెంపు",
-   "h": "మదర్ డెయిరీ తర్వాత అమూల్ పాల ధరలు 5% వరకు పెంపు",
-   "p": "అమూల్ పాల ధరలు నవంబర్ 12 నుంచి దేశవ్యాప్తంగా 4–5 శాతం పెరుగుతున్నాయి. అమూల్ తాజా టోన్డ్ పాలపై లీటరుకు ₹2, అమూల్ గోల్డ్‌పై ₹4 పెంచారు. గుజరాత్ సహా పలు ప్రాంతాల్లో తక్కువ, అసమాన వర్షపాతం వల్ల రైతులకు మెరుగైన ధర ఇవ్వడానికే ఈ పెంపు అని జీసీఎంఎంఎఫ్ తెలిపింది. మదర్ డెయిరీ ఇప్పటికే లీటరుకు ₹2–4 పెంచిందని సియాసత్ (పీటీఐ) పేర్కొంది.",
-   "src": "Siasat Daily (PTI)",
-   "url": "https://www.siasat.com/after-mother-dairy-amul-increases-prices-by-5-per-cent-3574698/",
-   "sec": [
-    "india",
-    "business",
-    "agri"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "నవంబర్ 12 నుంచి అమూల్ ధరలు 4–5% పెంపు",
-    "తాజా టోన్డ్‌పై ₹2, గోల్డ్‌పై ₹4 అదనం",
-    "తక్కువ వర్షపాతమే కారణమన్న జీసీఎంఎంఎఫ్"
-   ],
-   "why": "రోజూ పాలు కొనే ప్రతి కుటుంబ ఖర్చు పెరుగుతుంది; పాడి రైతులకు ధర మెరుగవుతుందని సంస్థ చెబుతోంది.",
-   "pub": "2026-11-11T21:31+05:30",
-   "en": {
-    "h": "After Mother Dairy, Amul raises milk prices by up to 5%",
-    "p": "Amul milk prices will rise by 4–5% across India from November 12. Amul Taaza toned milk goes up by ₹2 a litre and Amul Gold by ₹4. GCMMF said the hike is meant to pay farmers better prices amid low and uneven rainfall in Gujarat and other regions. Mother Dairy has already raised prices by ₹2–4 a litre, Siasat (PTI) reported.",
-    "pts": [
-     "Amul prices up 4–5% from November 12",
-     "₹2 more for Taaza toned, ₹4 for Gold",
-     "GCMMF cites low rainfall"
-    ],
-    "why": "Every household buying milk daily will pay more; the federation says dairy farmers will get better prices.",
-    "cat": "India · Prices",
-    "statl": "Hike on Amul Gold milk"
-   },
-   "hi": {
-    "h": "मदर डेयरी के बाद अमूल ने दूध के दाम 5% तक बढ़ाए",
-    "p": "अमूल दूध के दाम 12 नवंबर से पूरे देश में 4–5 प्रतिशत बढ़ रहे हैं। अमूल ताज़ा टोंड दूध पर ₹2 और अमूल गोल्ड पर ₹4 प्रति लीटर की बढ़ोतरी हुई है। जीसीएमएमएफ ने कहा कि गुजरात समेत कई इलाकों में कम और असमान बारिश के बीच किसानों को बेहतर दाम देने के लिए यह बढ़ोतरी की गई है। सियासत (पीटीआई) के अनुसार मदर डेयरी पहले ही ₹2–4 प्रति लीटर बढ़ा चुकी है।",
-    "pts": [
-     "12 नवंबर से अमूल के दाम 4–5% बढ़े",
-     "ताज़ा टोंड पर ₹2, गोल्ड पर ₹4 ज़्यादा",
-     "जीसीएमएमएफ ने कम बारिश को कारण बताया"
-    ],
-    "why": "रोज़ दूध खरीदने वाले हर परिवार का खर्च बढ़ेगा; संस्था के अनुसार डेयरी किसानों को बेहतर दाम मिलेंगे।",
-    "cat": "भारत · कीमतें",
-    "statl": "अमूल गोल्ड दूध पर बढ़ोतरी"
-   },
-   "d": "11.11.2026",
-   "t": "21:35"
-  },
-  {
-   "cat": "సంగారెడ్డి · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "తెలుగులో",
-   "statl": "ముందుగా తెలుగులో సినిమా",
-   "h": "సోనియా గాంధీ ఆత్మకథ ఆధారంగా సినిమా తీస్తా: జగ్గారెడ్డి",
-   "p": "సోనియా గాంధీ ఆత్మకథ 'బిలాంగింగ్: ఎ జర్నీ ఆఫ్ లవ్' ఆధారంగా ఆమె జీవితంపై సినిమా తీస్తానని టీపీసీసీ వర్కింగ్ ప్రెసిడెంట్ టి.జగ్గారెడ్డి బుధవారం ప్రకటించారు. సంగారెడ్డి నియోజకవర్గ కాంగ్రెస్ కార్యకర్తల సమావేశంలో మాట్లాడుతూ, బయటి వారి నిధులు తీసుకోబోమని, పార్టీ శ్రేణులే నిధులు సమకూర్చాలని కోరారు. సినిమా మొదట తెలుగులో వస్తుందని తెలంగాణ టుడే తెలిపింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/jagga-reddy-to-make-movie-on-sonia-gandhis-autobiography",
-   "sec": [
-    "telangana",
-    "culture"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "pts": [
-    "సోనియా ఆత్మకథ ఆధారంగా సినిమా ప్రకటన",
-    "నిధులు పార్టీ శ్రేణుల నుంచే సేకరణ",
-    "ముందుగా తెలుగులో నిర్మాణం"
-   ],
-   "why": "సంగారెడ్డి కాంగ్రెస్ కార్యకర్తల నుంచి నిధుల సేకరణకు బృందం ఏర్పాటు చేస్తామని ఆయన చెప్పారు.",
-   "pub": "2026-11-11T20:33+05:30",
-   "en": {
-    "h": "Will make a film on Sonia Gandhi's autobiography: Jagga Reddy",
-    "p": "TPCC working president T Jagga Reddy announced on Wednesday that he will make a film on Sonia Gandhi's life based on her autobiography 'Belonging: A Journey of Love'. Speaking at a meeting of Sangareddy constituency Congress workers, he said no outside funds would be taken and asked party cadres to raise the money. The film will first be made in Telugu, Telangana Today reported.",
-    "pts": [
-     "Film on Sonia's autobiography announced",
-     "Funds to be raised only from party cadres",
-     "To be made first in Telugu"
-    ],
-    "why": "He said a team would be formed to raise funds from Sangareddy Congress workers.",
-    "cat": "Sangareddy · Politics",
-    "statl": "Film first in Telugu"
-   },
-   "hi": {
-    "h": "सोनिया गांधी की आत्मकथा पर फ़िल्म बनाऊँगा: जग्गा रेड्डी",
-    "p": "टीपीसीसी कार्यकारी अध्यक्ष टी. जग्गा रेड्डी ने बुधवार को घोषणा की कि वे सोनिया गांधी की आत्मकथा 'बिलॉन्गिंग: ए जर्नी ऑफ़ लव' पर आधारित उनके जीवन पर फ़िल्म बनाएँगे। संगारेड्डी निर्वाचन क्षेत्र के कांग्रेस कार्यकर्ताओं की बैठक में उन्होंने कहा कि बाहरी पैसा नहीं लिया जाएगा और पार्टी कार्यकर्ता ही धन जुटाएँ। तेलंगाना टुडे के अनुसार फ़िल्म पहले तेलुगु में बनेगी।",
-    "pts": [
-     "सोनिया की आत्मकथा पर फ़िल्म की घोषणा",
-     "धन केवल पार्टी कार्यकर्ताओं से",
-     "पहले तेलुगु में बनेगी"
-    ],
-    "why": "उन्होंने कहा कि संगारेड्डी कांग्रेस कार्यकर्ताओं से धन जुटाने के लिए टीम बनाई जाएगी।",
-    "cat": "संगारेड्डी · राजनीति",
-    "statl": "पहले तेलुगु में फ़िल्म"
-   },
-   "d": "11.11.2026",
-   "t": "21:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",

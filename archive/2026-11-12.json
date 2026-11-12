@@ -1,8 +1,155 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 34,
+ "count": 37,
  "stories": [
+  {
+   "cat": "ఏపీ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "16–17 నవం.",
+   "statl": "తీరం వైపు వచ్చే అవకాశం ఉన్న తేదీలు",
+   "h": "అప్‌డేట్: 15 నాటికి వాయుగుండం అవకాశం; మత్స్యకారులకు హెచ్చరిక",
+   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13 నాటికి అల్పపీడనం ఏర్పడవచ్చని, 15 నాటికి అది వాయుగుండంగా మారే అవకాశం ఉందని వాతావరణ శాఖ తెలిపింది. దీని గమనం ఇంకా స్పష్టంగా లేదని, 16 లేదా 17న ఒంగోలు–చెన్నై–పుదుచ్చేరి మధ్య తీరం వైపు రావచ్చని అంచనా. సముద్రం అల్లకల్లోలంగా ఉంటుందని మత్స్యకారులు వేటకు వెళ్లొద్దని ఏపీ ప్రభుత్వం సూచించింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/rain-alert-issued-to-ap-telangana-amid-expected-low-pressure-1141302",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "ప్రస్తుతం ఏపీపై ఈ వ్యవస్థ ప్రభావం లేదని వాతావరణ శాఖ",
+    "మూడు రోజులు కోస్తా, రాయలసీమలో పొడి వాతావరణం",
+    "తెలంగాణలో వారం పాటు వర్షం లేదు, రాత్రి చలి పెరుగుదల"
+   ],
+   "why": "దక్షిణ కోస్తా ఏపీ మత్స్యకారులు, తీర ప్రాంత ప్రజలు ఈ హెచ్చరికను గమనించాలి.",
+   "pub": "2026-11-12T09:27+05:30",
+   "en": {
+    "h": "Update: Depression likely by Nov 15; warning for fishermen",
+    "p": "The Meteorological Department said a low-pressure area may form over the southeast Bay of Bengal by November 13 and could become a depression by the 15th. Its path is still unclear; it may approach the coast between Ongole, Chennai and Puducherry on the 16th or 17th. The AP government advised fishermen not to venture into the sea as it will be rough.",
+    "pts": [
+     "Met department says no effect on AP for now",
+     "Dry weather in coastal Andhra and Rayalaseema for three days",
+     "No rain in Telangana for a week; nights to get colder"
+    ],
+    "why": "Fishermen and coastal residents of south coastal AP should note this warning.",
+    "cat": "AP · Weather",
+    "statl": "possible dates of approach to the coast"
+   },
+   "hi": {
+    "h": "अपडेट: 15 नवंबर तक अवदाब की आशंका; मछुआरों को चेतावनी",
+    "p": "मौसम विभाग ने कहा कि दक्षिण-पूर्व बंगाल की खाड़ी में 13 नवंबर तक कम दबाव का क्षेत्र बन सकता है और 15 तक यह अवदाब में बदल सकता है। इसका रास्ता अभी स्पष्ट नहीं है; यह 16 या 17 को ओंगोल, चेन्नई और पुडुचेरी के बीच तट की ओर आ सकता है। आंध्र प्रदेश सरकार ने मछुआरों को समुद्र में न जाने की सलाह दी है क्योंकि समुद्र अशांत रहेगा।",
+    "pts": [
+     "मौसम विभाग: फिलहाल आंध्र पर कोई असर नहीं",
+     "तीन दिन तटीय आंध्र और रायलसीमा में मौसम शुष्क",
+     "तेलंगाना में एक हफ्ते बारिश नहीं; रातें और ठंडी"
+    ],
+    "why": "दक्षिण तटीय आंध्र के मछुआरों और तटीय लोगों को यह चेतावनी ध्यान में रखनी चाहिए।",
+    "cat": "आंध्र प्रदेश · मौसम",
+    "statl": "तट की ओर आने की संभावित तारीखें"
+   },
+   "d": "12.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "5 రోజులు",
+   "statl": "నిందితులకు పోలీస్ కస్టడీ",
+   "h": "అక్రమ అండాల సేకరణ కేసు: నిందితులకు 5 రోజుల పోలీస్ కస్టడీ",
+   "p": "మహిళల నుంచి అండాలు సేకరించిన కేసులో నిందితులను ఐదు రోజుల పోలీస్ కస్టడీకి సికింద్రాబాద్ కోర్టు అనుమతించిందని ఈటీవీ భారత్ తెలిపింది. చంచల్‌గూడ జైలు నుంచి తొమ్మిది మంది నిందితులను బేగంపేట పోలీసులు గురువారం కస్టడీలోకి తీసుకోనున్నారు. ఏజెంట్లు, వైద్య సంస్థల పాత్ర, ఆర్థిక లావాదేవీలపై విచారిస్తామని పోలీసులు చెబుతున్నారు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#ova-custody",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బేగంపేట",
+   "pts": [
+    "సికింద్రాబాద్ కోర్టు 5 రోజుల కస్టడీకి అనుమతి",
+    "చంచల్‌గూడ జైలు నుంచి 9 మంది నిందితులు",
+    "ముఠా నెట్‌వర్క్, ఆర్థిక లావాదేవీలపై విచారణ"
+   ],
+   "why": "మహిళల ఆరోగ్యానికి ప్రమాదకరమైన అక్రమ అండాల వ్యాపారంపై దర్యాప్తు ఇది.",
+   "pub": "2026-11-12T06:35+05:30",
+   "en": {
+    "h": "Illegal egg-collection case: 5-day police custody for accused",
+    "p": "A Secunderabad court allowed five days of police custody for the accused in the case of collecting eggs (ova) from women, ETV Bharat reported. Begumpet police were to take nine accused from Chanchalguda jail into custody on Thursday. Police say they will probe the roles of agents and medical institutions and the financial transactions.",
+    "pts": [
+     "Secunderabad court allows 5-day custody",
+     "9 accused from Chanchalguda jail",
+     "Probe into the network and money transactions"
+    ],
+    "why": "This is a probe into an illegal egg trade that endangers women's health.",
+    "cat": "Hyderabad · Crime",
+    "statl": "police custody for accused"
+   },
+   "hi": {
+    "h": "अवैध अंडाणु संग्रह मामला: आरोपियों को 5 दिन की पुलिस हिरासत",
+    "p": "ईटीवी भारत के अनुसार, महिलाओं से अंडाणु एकत्र करने के मामले में सिकंदराबाद अदालत ने आरोपियों को पांच दिन की पुलिस हिरासत की अनुमति दी। बेगमपेट पुलिस गुरुवार को चंचलगुडा जेल से नौ आरोपियों को हिरासत में लेने वाली थी। पुलिस का कहना है कि वह एजेंटों और चिकित्सा संस्थानों की भूमिका और वित्तीय लेन-देन की जांच करेगी।",
+    "pts": [
+     "सिकंदराबाद अदालत ने 5 दिन की हिरासत दी",
+     "चंचलगुडा जेल से 9 आरोपी",
+     "नेटवर्क और लेन-देन की जांच"
+    ],
+    "why": "यह महिलाओं के स्वास्थ्य को खतरे में डालने वाले अवैध अंडाणु कारोबार की जांच है।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "आरोपियों की पुलिस हिरासत"
+   },
+   "d": "12.11.2026",
+   "t": "10:35"
+  },
+  {
+   "cat": "తెలంగాణ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "35 ఏళ్లు",
+   "statl": "హత్యకు గురైన మహిళ వయసు",
+   "h": "మీర్‌పేట్ పరిధిలో మహిళ హత్య: పోలీసుల దర్యాప్తు",
+   "p": "మీర్‌పేట్ పోలీస్ స్టేషన్ పరిధిలో 35 ఏళ్ల మహిళను గుర్తు తెలియని వ్యక్తులు హత్య చేశారని ఈటీవీ భారత్ తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. హత్యకు కారణాలు, నిందితుల వివరాలు ఇంకా వెల్లడి కాలేదు.",
+   "src": "ETV Bharat",
+   "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#meerpet-murder",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "మీర్‌పేట్",
+   "pts": [
+    "గుర్తు తెలియని వ్యక్తుల చేతిలో మహిళ హత్య",
+    "కేసు నమోదు చేసి పోలీసుల దర్యాప్తు"
+   ],
+   "why": "మహిళ హత్యపై పోలీసులు దర్యాప్తు చేస్తున్నారు; స్థానికులకు భద్రతపై ఆందోళన కలిగించే ఘటన.",
+   "pub": "2026-11-12T06:40+05:30",
+   "en": {
+    "h": "Woman murdered in Meerpet limits; police investigating",
+    "p": "A 35-year-old woman was murdered by unidentified persons within Meerpet police station limits, ETV Bharat reported. Police registered a case and are investigating. The motive and details of the accused have not yet been disclosed.",
+    "pts": [
+     "Woman killed by unidentified persons",
+     "Police register case and investigate"
+    ],
+    "why": "Police are investigating the murder; the incident is a safety concern for local residents.",
+    "cat": "Telangana · Crime",
+    "statl": "age of the woman killed"
+   },
+   "hi": {
+    "h": "मीरपेट क्षेत्र में महिला की हत्या; पुलिस जांच में जुटी",
+    "p": "ईटीवी भारत के अनुसार, मीरपेट पुलिस थाना क्षेत्र में अज्ञात लोगों ने 35 वर्षीय महिला की हत्या कर दी। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। हत्या का कारण और आरोपियों का विवरण अभी सामने नहीं आया है।",
+    "pts": [
+     "अज्ञात लोगों ने महिला की हत्या की",
+     "पुलिस ने मामला दर्ज कर जांच शुरू की"
+    ],
+    "why": "पुलिस हत्या की जांच कर रही है; यह घटना स्थानीय लोगों के लिए सुरक्षा की चिंता है।",
+    "cat": "तेलंगाना · अपराध",
+    "statl": "मारी गई महिला की उम्र"
+   },
+   "d": "12.11.2026",
+   "t": "10:35"
+  },
   {
    "cat": "తెలంగాణ · పెట్టుబడులు",
    "col": "--c-money",
