@@ -1,8 +1,106 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 71,
+ "count": 73,
  "stories": [
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "70 దేశాలు",
+   "statl": "సమ్మిట్‌కు ప్రతినిధులు వస్తారన్న కాంగ్రెస్",
+   "h": "కాంగ్రెస్ భారత్ సమ్మిట్ 'భారత వ్యతిరేకం': బీజేపీ చీఫ్ రామచందర్ రావు ఆరోపణ",
+   "p": "హైదరాబాద్‌లో నవంబర్ 13, 14 తేదీల్లో కాంగ్రెస్ నిర్వహించే భారత్ సమ్మిట్ నిజానికి 'భారత వ్యతిరేక సమ్మిట్' అని తెలంగాణ బీజేపీ అధ్యక్షుడు ఎన్. రామచందర్ రావు బుధవారం విలేకరులతో అన్నారు. ప్రపంచంలోని తీవ్ర వామపక్ష, భారత వ్యతిరేక బృందాలను ఇది ఒకచోట చేరుస్తోందని ఆయన ఆరోపించారు. 70 దేశాల ప్రతినిధులు వస్తారని కాంగ్రెస్ చెబుతోంది. పీటీఐ కథనంలో కాంగ్రెస్ స్పందన లేదు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-bjp-chief-calls-congress-bharat-summit-anti-india-3574883/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 13, 14 తేదీల్లో హైదరాబాద్‌లో భారత్ సమ్మిట్",
+    "తీవ్ర వామపక్ష బృందాలను పిలుస్తున్నారని రామచందర్ రావు ఆరోపణ",
+    "సుమారు 1,000 మంది ప్రతినిధులు వస్తారన్న సల్మాన్ ఖుర్షీద్"
+   ],
+   "why": "హైదరాబాద్‌లో రేపటి నుంచి జరిగే కాంగ్రెస్ సమ్మిట్‌పై బీజేపీ అభ్యంతరాన్ని ఇది తెలియజేస్తోంది.",
+   "pub": "2026-11-12T08:11+05:30",
+   "en": {
+    "h": "Congress's Bharat Summit is 'anti-India', alleges BJP chief Ramchander Rao",
+    "p": "Telangana BJP president N Ramchander Rao told reporters on Wednesday that the Bharat Summit the Congress is hosting in Hyderabad on November 13 and 14 is in fact an 'Anti-Bharat Summit'. He alleged it brings together radical Left and anti-India groups from around the world. The Congress says delegates from 70 countries will attend. The PTI report carries no Congress response.",
+    "pts": [
+     "Bharat Summit in Hyderabad on November 13–14",
+     "Ramchander Rao alleges radical Left groups invited",
+     "Salman Khurshid says about 1,000 delegates will attend"
+    ],
+    "why": "It reflects the BJP's objection to the Congress summit starting in Hyderabad tomorrow.",
+    "cat": "Telangana · Politics",
+    "statl": "Countries sending delegates, says Congress"
+   },
+   "hi": {
+    "h": "कांग्रेस का भारत समिट 'भारत विरोधी': भाजपा प्रमुख रामचंदर राव का आरोप",
+    "p": "तेलंगाना भाजपा अध्यक्ष एन. रामचंदर राव ने बुधवार को पत्रकारों से कहा कि कांग्रेस 13 और 14 नवंबर को हैदराबाद में जो भारत समिट कर रही है, वह असल में 'भारत विरोधी समिट' है। उन्होंने आरोप लगाया कि इसमें दुनिया भर के कट्टर वामपंथी और भारत विरोधी समूह जुट रहे हैं। कांग्रेस के अनुसार 70 देशों के प्रतिनिधि आएंगे। पीटीआई की खबर में कांग्रेस की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "13–14 नवंबर को हैदराबाद में भारत समिट",
+     "रामचंदर राव का कट्टर वामपंथी समूहों को बुलाने का आरोप",
+     "सलमान खुर्शीद के अनुसार करीब 1,000 प्रतिनिधि आएंगे"
+    ],
+    "why": "यह हैदराबाद में कल से होने वाले कांग्रेस समिट पर भाजपा की आपत्ति दिखाता है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "देशों से प्रतिनिधि, कांग्रेस के अनुसार"
+   },
+   "d": "12.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "25 ఏళ్లు",
+   "statl": "ఇరాన్ పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
+   "h": "ఇరాన్‌పై 'పూర్తి విజయం' కావాలి: ట్రంప్; యుద్ధం ముగింపు తేదీ చెప్పలేదు",
+   "p": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ బుధవారం ఆర్లింగ్టన్ జాతీయ శ్మశానవాటికలో వెటరన్స్ డే ప్రసంగంలో ఇరాన్‌తో ఘర్షణ త్వరలో ముగుస్తుందని, అయితే అమెరికాకు 'పూర్తి విజయం' కావాలని అన్నారు. ముగింపు తేదీ, ఒప్పందం, బలగాల ఉపసంహరణ ప్రణాళిక ఏదీ ప్రకటించలేదు. తాము ధ్వంసం చేసినదాన్ని ఇరాన్ మళ్లీ నిర్మించుకోవడానికి 25 ఏళ్లు పడుతుందన్నారు; దానికి ఆధారం చూపలేదని ఐఏఎన్ఎస్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/donald-trump-seeks-total-victory-over-iran-3574884/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఇరాన్‌పై పూర్తి విజయం కావాలన్న ట్రంప్",
+    "యుద్ధం ముగింపు తేదీ ప్రకటించలేదు",
+    "ఒప్పందం, ఉపసంహరణ ప్రణాళిక ప్రకటన లేదు"
+   ],
+   "why": "అమెరికా–ఇరాన్ ఘర్షణ ఎప్పుడు ముగుస్తుందో ఇంకా స్పష్టత లేదని ఈ ప్రసంగం చూపిస్తోంది.",
+   "pub": "2026-11-12T08:06+05:30",
+   "en": {
+    "h": "Trump wants 'total victory' over Iran, gives no end date for conflict",
+    "p": "US President Donald Trump said in a Veterans Day address at Arlington National Cemetery on Wednesday that the conflict with Iran would end soon, but the US wanted 'total victory'. He announced no end date, settlement or troop withdrawal plan. He said Iran would take 25 years to rebuild what the US had destroyed; IANS noted he offered no supporting assessment.",
+    "pts": [
+     "Trump says US wants total victory over Iran",
+     "No end date announced for the conflict",
+     "No settlement or withdrawal plan announced"
+    ],
+    "why": "The speech shows there is still no clarity on when the US–Iran conflict will end.",
+    "cat": "World · USA",
+    "statl": "Years for Iran to rebuild, says Trump"
+   },
+   "hi": {
+    "h": "ईरान पर 'पूर्ण जीत' चाहिए: ट्रंप; संघर्ष खत्म होने की तारीख नहीं बताई",
+    "p": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बुधवार को आर्लिंगटन राष्ट्रीय कब्रिस्तान में वेटरन्स डे भाषण में कहा कि ईरान के साथ संघर्ष जल्द खत्म होगा, लेकिन अमेरिका 'पूर्ण जीत' चाहता है। उन्होंने कोई अंतिम तारीख, समझौता या सेना वापसी योजना घोषित नहीं की। उन्होंने कहा कि ईरान को फिर से निर्माण करने में 25 साल लगेंगे; आईएएनएस के अनुसार उन्होंने इसका कोई आधार नहीं बताया।",
+    "pts": [
+     "ट्रंप ने कहा अमेरिका ईरान पर पूर्ण जीत चाहता है",
+     "संघर्ष खत्म होने की तारीख घोषित नहीं",
+     "समझौते या वापसी की कोई योजना घोषित नहीं"
+    ],
+    "why": "भाषण दिखाता है कि अमेरिका–ईरान संघर्ष कब खत्म होगा, इस पर अब भी स्पष्टता नहीं है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "ईरान को पुनर्निर्माण में लगने वाले साल, ट्रंप के अनुसार"
+   },
+   "d": "12.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "నారాయణపేట · నీరు",
    "col": "--c-water",

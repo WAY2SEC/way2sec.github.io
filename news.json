@@ -1,8 +1,106 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T14:44:21+05:30",
+ "updated": "2026-11-12T15:14:55+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "70 దేశాలు",
+   "statl": "సమ్మిట్‌కు ప్రతినిధులు వస్తారన్న కాంగ్రెస్",
+   "h": "కాంగ్రెస్ భారత్ సమ్మిట్ 'భారత వ్యతిరేకం': బీజేపీ చీఫ్ రామచందర్ రావు ఆరోపణ",
+   "p": "హైదరాబాద్‌లో నవంబర్ 13, 14 తేదీల్లో కాంగ్రెస్ నిర్వహించే భారత్ సమ్మిట్ నిజానికి 'భారత వ్యతిరేక సమ్మిట్' అని తెలంగాణ బీజేపీ అధ్యక్షుడు ఎన్. రామచందర్ రావు బుధవారం విలేకరులతో అన్నారు. ప్రపంచంలోని తీవ్ర వామపక్ష, భారత వ్యతిరేక బృందాలను ఇది ఒకచోట చేరుస్తోందని ఆయన ఆరోపించారు. 70 దేశాల ప్రతినిధులు వస్తారని కాంగ్రెస్ చెబుతోంది. పీటీఐ కథనంలో కాంగ్రెస్ స్పందన లేదు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/telangana-bjp-chief-calls-congress-bharat-summit-anti-india-3574883/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 13, 14 తేదీల్లో హైదరాబాద్‌లో భారత్ సమ్మిట్",
+    "తీవ్ర వామపక్ష బృందాలను పిలుస్తున్నారని రామచందర్ రావు ఆరోపణ",
+    "సుమారు 1,000 మంది ప్రతినిధులు వస్తారన్న సల్మాన్ ఖుర్షీద్"
+   ],
+   "why": "హైదరాబాద్‌లో రేపటి నుంచి జరిగే కాంగ్రెస్ సమ్మిట్‌పై బీజేపీ అభ్యంతరాన్ని ఇది తెలియజేస్తోంది.",
+   "pub": "2026-11-12T08:11+05:30",
+   "en": {
+    "h": "Congress's Bharat Summit is 'anti-India', alleges BJP chief Ramchander Rao",
+    "p": "Telangana BJP president N Ramchander Rao told reporters on Wednesday that the Bharat Summit the Congress is hosting in Hyderabad on November 13 and 14 is in fact an 'Anti-Bharat Summit'. He alleged it brings together radical Left and anti-India groups from around the world. The Congress says delegates from 70 countries will attend. The PTI report carries no Congress response.",
+    "pts": [
+     "Bharat Summit in Hyderabad on November 13–14",
+     "Ramchander Rao alleges radical Left groups invited",
+     "Salman Khurshid says about 1,000 delegates will attend"
+    ],
+    "why": "It reflects the BJP's objection to the Congress summit starting in Hyderabad tomorrow.",
+    "cat": "Telangana · Politics",
+    "statl": "Countries sending delegates, says Congress"
+   },
+   "hi": {
+    "h": "कांग्रेस का भारत समिट 'भारत विरोधी': भाजपा प्रमुख रामचंदर राव का आरोप",
+    "p": "तेलंगाना भाजपा अध्यक्ष एन. रामचंदर राव ने बुधवार को पत्रकारों से कहा कि कांग्रेस 13 और 14 नवंबर को हैदराबाद में जो भारत समिट कर रही है, वह असल में 'भारत विरोधी समिट' है। उन्होंने आरोप लगाया कि इसमें दुनिया भर के कट्टर वामपंथी और भारत विरोधी समूह जुट रहे हैं। कांग्रेस के अनुसार 70 देशों के प्रतिनिधि आएंगे। पीटीआई की खबर में कांग्रेस की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "13–14 नवंबर को हैदराबाद में भारत समिट",
+     "रामचंदर राव का कट्टर वामपंथी समूहों को बुलाने का आरोप",
+     "सलमान खुर्शीद के अनुसार करीब 1,000 प्रतिनिधि आएंगे"
+    ],
+    "why": "यह हैदराबाद में कल से होने वाले कांग्रेस समिट पर भाजपा की आपत्ति दिखाता है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "देशों से प्रतिनिधि, कांग्रेस के अनुसार"
+   },
+   "d": "12.11.2026",
+   "t": "15:05"
+  },
+  {
+   "cat": "ప్రపంచం · అమెరికా",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "25 ఏళ్లు",
+   "statl": "ఇరాన్ పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
+   "h": "ఇరాన్‌పై 'పూర్తి విజయం' కావాలి: ట్రంప్; యుద్ధం ముగింపు తేదీ చెప్పలేదు",
+   "p": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ బుధవారం ఆర్లింగ్టన్ జాతీయ శ్మశానవాటికలో వెటరన్స్ డే ప్రసంగంలో ఇరాన్‌తో ఘర్షణ త్వరలో ముగుస్తుందని, అయితే అమెరికాకు 'పూర్తి విజయం' కావాలని అన్నారు. ముగింపు తేదీ, ఒప్పందం, బలగాల ఉపసంహరణ ప్రణాళిక ఏదీ ప్రకటించలేదు. తాము ధ్వంసం చేసినదాన్ని ఇరాన్ మళ్లీ నిర్మించుకోవడానికి 25 ఏళ్లు పడుతుందన్నారు; దానికి ఆధారం చూపలేదని ఐఏఎన్ఎస్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/donald-trump-seeks-total-victory-over-iran-3574884/",
+   "sec": [
+    "world"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఇరాన్‌పై పూర్తి విజయం కావాలన్న ట్రంప్",
+    "యుద్ధం ముగింపు తేదీ ప్రకటించలేదు",
+    "ఒప్పందం, ఉపసంహరణ ప్రణాళిక ప్రకటన లేదు"
+   ],
+   "why": "అమెరికా–ఇరాన్ ఘర్షణ ఎప్పుడు ముగుస్తుందో ఇంకా స్పష్టత లేదని ఈ ప్రసంగం చూపిస్తోంది.",
+   "pub": "2026-11-12T08:06+05:30",
+   "en": {
+    "h": "Trump wants 'total victory' over Iran, gives no end date for conflict",
+    "p": "US President Donald Trump said in a Veterans Day address at Arlington National Cemetery on Wednesday that the conflict with Iran would end soon, but the US wanted 'total victory'. He announced no end date, settlement or troop withdrawal plan. He said Iran would take 25 years to rebuild what the US had destroyed; IANS noted he offered no supporting assessment.",
+    "pts": [
+     "Trump says US wants total victory over Iran",
+     "No end date announced for the conflict",
+     "No settlement or withdrawal plan announced"
+    ],
+    "why": "The speech shows there is still no clarity on when the US–Iran conflict will end.",
+    "cat": "World · USA",
+    "statl": "Years for Iran to rebuild, says Trump"
+   },
+   "hi": {
+    "h": "ईरान पर 'पूर्ण जीत' चाहिए: ट्रंप; संघर्ष खत्म होने की तारीख नहीं बताई",
+    "p": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बुधवार को आर्लिंगटन राष्ट्रीय कब्रिस्तान में वेटरन्स डे भाषण में कहा कि ईरान के साथ संघर्ष जल्द खत्म होगा, लेकिन अमेरिका 'पूर्ण जीत' चाहता है। उन्होंने कोई अंतिम तारीख, समझौता या सेना वापसी योजना घोषित नहीं की। उन्होंने कहा कि ईरान को फिर से निर्माण करने में 25 साल लगेंगे; आईएएनएस के अनुसार उन्होंने इसका कोई आधार नहीं बताया।",
+    "pts": [
+     "ट्रंप ने कहा अमेरिका ईरान पर पूर्ण जीत चाहता है",
+     "संघर्ष खत्म होने की तारीख घोषित नहीं",
+     "समझौते या वापसी की कोई योजना घोषित नहीं"
+    ],
+    "why": "भाषण दिखाता है कि अमेरिका–ईरान संघर्ष कब खत्म होगा, इस पर अब भी स्पष्टता नहीं है।",
+    "cat": "विश्व · अमेरिका",
+    "statl": "ईरान को पुनर्निर्माण में लगने वाले साल, ट्रंप के अनुसार"
+   },
+   "d": "12.11.2026",
+   "t": "15:05"
+  },
   {
    "cat": "నారాయణపేట · నీరు",
    "col": "--c-water",
@@ -2384,105 +2482,6 @@
     "why": "इन कामों का असर मूसी किनारे रहने वाले हैदराबाद के लोगों पर पड़ेगा।",
     "cat": "हैदराबाद · मूसी",
     "statl": "मूसी पहले चरण के काम की लंबाई"
-   },
-   "d": "12.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "నారాయణపేట · కోర్టు",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "₹51.35 కోట్లు",
-   "statl": "చెల్లించాల్సిన భూసేకరణ పరిహారం",
-   "h": "భూసేకరణ పరిహారం చెల్లింపుకు ప్రభుత్వానికి 12 వారాల గడువు: హైకోర్టు",
-   "p": "నారాయణపేట భూయజమానులకు బకాయి ఉన్న ₹51.35 కోట్ల భూసేకరణ పరిహారాన్ని 12 వారాల్లో చెల్లించాలని జస్టిస్ ఎన్.వి. శ్రవణ్ కుమార్ బుధవారం ప్రభుత్వాన్ని ఆదేశించారు. ఆర్థిక శాఖ ముఖ్య కార్యదర్శి సందీప్ కుమార్ సుల్తానియా వర్చువల్‌గా హాజరై, నిధులు వెంటనే విడుదల చేయలేమని, ఆరు నెలలు కావాలని కోరారు. 12 వారాలే 'చివరి అవకాశం' అని న్యాయమూర్తి స్పష్టం చేశారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-hc-grants-govt-12-weeks-to-clear-rs-51-35-cr-land-acquisition-compensation-dues",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "narayanpet",
-   "pts": [
-    "₹51.35 కోట్ల పరిహారానికి 12 వారాల గడువు",
-    "ఆరు నెలలు కోరిన ఆర్థిక శాఖ",
-    "సమగ్ర అదనపు అఫిడవిట్ దాఖలుకు ఆదేశం"
-   ],
-   "why": "పరిహారం కోసం ఎదురుచూస్తున్న నారాయణపేట భూయజమానులకు ఈ ఆదేశం ముఖ్యం.",
-   "pub": "2026-11-11T23:59+05:30",
-   "en": {
-    "h": "HC gives govt 12 weeks to clear Rs 51.35 crore land compensation",
-    "p": "On Wednesday, Justice N.V. Shravan Kumar gave the government 12 weeks to clear Rs 51.35 crore in land acquisition compensation owed to Narayanpet landowners. Finance Principal Secretary Sandeep Kumar Sultania, appearing virtually, said funds could not be released immediately and sought six months. The judge said 12 weeks was a 'final opportunity'.",
-    "pts": [
-     "12 weeks to clear Rs 51.35 crore compensation",
-     "Finance department had sought six months",
-     "Comprehensive additional affidavit ordered"
-    ],
-    "why": "The order matters to Narayanpet landowners waiting for compensation.",
-    "cat": "Narayanpet · Court",
-    "statl": "Land compensation due"
-   },
-   "hi": {
-    "h": "भूमि मुआवज़ा चुकाने के लिए सरकार को 12 हफ़्ते: हाईकोर्ट",
-    "p": "बुधवार को जस्टिस एन.वी. श्रवण कुमार ने नारायणपेट के भूस्वामियों को बकाया ₹51.35 करोड़ भूमि अधिग्रहण मुआवज़ा 12 हफ़्ते में चुकाने का आदेश दिया। वित्त प्रधान सचिव संदीप कुमार सुल्तानिया ने वर्चुअली पेश होकर कहा कि धन तुरंत जारी नहीं हो सकता और छह महीने माँगे। न्यायाधीश ने कहा कि 12 हफ़्ते 'अंतिम अवसर' है।",
-    "pts": [
-     "₹51.35 करोड़ मुआवज़े के लिए 12 हफ़्ते",
-     "वित्त विभाग ने छह महीने माँगे थे",
-     "विस्तृत अतिरिक्त हलफ़नामा दाखिल करने का आदेश"
-    ],
-    "why": "मुआवज़े का इंतज़ार कर रहे नारायणपेट के भूस्वामियों के लिए यह आदेश अहम है।",
-    "cat": "नारायणपेट · अदालत",
-    "statl": "बकाया भूमि मुआवज़ा"
-   },
-   "d": "12.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "మేడ్చల్ · కోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "నవం. 25",
-   "statl": "కలెక్టర్ కోర్టుకు హాజరు కావాల్సిన తేదీ",
-   "h": "మేడ్చల్ కలెక్టర్ హాజరు మినహాయింపు పిటిషన్ తిరస్కరించిన హైకోర్టు",
-   "p": "కోర్టుకు వ్యక్తిగత హాజరు నుంచి మినహాయింపు కోరిన మేడ్చల్-మల్కాజిగిరి కలెక్టర్ దరఖాస్తును జస్టిస్ సి.వి. భాస్కర్ రెడ్డి తిరస్కరించారు. ఎన్నికల విధులు, ఓటర్ల జాబితా ప్రత్యేక సవరణను కలెక్టర్ కారణంగా చూపారు. అధికారిక విధులు సరిపడే కారణం కాదని కోర్టు పేర్కొంది. బాచుపల్లి భూవివాదంపై కోర్టు ధిక్కార పిటిషన్‌లో నవంబర్ 25న హాజరు కావాలని ఆదేశించింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hc-rejects-medchal-collectors-plea-for-exemption-from-personal-appearance",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "medchal",
-   "loc": "బాచుపల్లి",
-   "pts": [
-    "ఎన్నికల విధుల కారణం అంగీకరించని కోర్టు",
-    "గతంలో ఫిబ్రవరి 27, ఏప్రిల్ 2న మినహాయింపులు",
-    "హాజరు చూసుకోవాలని మల్కాజిగిరి సీపీకి ఆదేశం"
-   ],
-   "why": "కోర్టు ఆదేశాల అమలులో అధికారుల బాధ్యతను ఈ తీర్పు గుర్తు చేస్తుంది.",
-   "pub": "2026-11-11T23:44+05:30",
-   "en": {
-    "h": "HC rejects Medchal Collector's plea for exemption from appearance",
-    "p": "Justice C.V. Bhaskar Reddy dismissed the Medchal-Malkajgiri Collector's application for exemption from personal appearance. The Collector had cited election duties and the Special Intensive Revision of electoral rolls. The court said official duties are not sufficient grounds. In the contempt petition over a Bachupally land dispute, the Collector must appear on November 25.",
-    "pts": [
-     "Court did not accept election duties as a reason",
-     "Exemptions were given earlier on Feb 27 and April 2",
-     "Malkajgiri CP told to ensure the appearance"
-    ],
-    "why": "The ruling underlines officials' duty to comply with court orders.",
-    "cat": "Medchal · Court",
-    "statl": "Date the Collector must appear"
-   },
-   "hi": {
-    "h": "मेडचल कलेक्टर की पेशी छूट याचिका हाईकोर्ट ने खारिज की",
-    "p": "जस्टिस सी.वी. भास्कर रेड्डी ने मेडचल-मलकाजगिरी कलेक्टर की व्यक्तिगत पेशी से छूट की अर्ज़ी खारिज कर दी। कलेक्टर ने चुनाव ड्यूटी और मतदाता सूची के विशेष गहन पुनरीक्षण का हवाला दिया था। अदालत ने कहा कि सरकारी ड्यूटी पर्याप्त कारण नहीं है। बाचुपल्ली भूमि विवाद की अवमानना याचिका में कलेक्टर को 25 नवंबर को पेश होना होगा।",
-    "pts": [
-     "अदालत ने चुनाव ड्यूटी का कारण नहीं माना",
-     "पहले 27 फ़रवरी और 2 अप्रैल को छूट मिली थी",
-     "पेशी सुनिश्चित करने का मलकाजगिरी सीपी को निर्देश"
-    ],
-    "why": "यह फ़ैसला अदालती आदेशों के पालन में अधिकारियों की ज़िम्मेदारी याद दिलाता है।",
-    "cat": "मेडचल · अदालत",
-    "statl": "कलेक्टर की पेशी की तारीख"
    },
    "d": "12.11.2026",
    "t": "07:35"
