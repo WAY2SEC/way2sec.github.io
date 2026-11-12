@@ -1,8 +1,711 @@
 {
- "date": "11.11.2026",
- "updated": "2026-11-11T23:38:26+05:30",
+ "date": "12.11.2026",
+ "updated": "2026-11-12T06:42:14+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "141",
+   "statl": "సదస్సులో కుదిరే ఎంఓయూలు",
+   "h": "విశాఖలో నేటి నుంచి సీఐఐ సదస్సు: 141 ఒప్పందాలు, ₹12.13 లక్షల కోట్లు లక్ష్యం",
+   "p": "31వ సీఐఐ భాగస్వామ్య సదస్సు నవంబర్ 12, 13 తేదీల్లో విశాఖ ఏయూ ఇంజినీరింగ్ మైదానంలో జరగనుందని హన్స్ ఇండియా కథనం. ₹12,13,853 కోట్ల పెట్టుబడులతో 141 ఎంఓయూలు, 30 జీవోలు సిద్ధంగా ఉన్నాయని, వీటితో 2,46,373 ఉద్యోగాలు రావచ్చని పేర్కొంది. కేంద్ర మంత్రులు పీయూష్ గోయల్, రామ్మోహన్ నాయుడు, సీఎం చంద్రబాబు పాల్గొంటారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/amaravati/cii-partnership-summit-set-for-take-off-in-vizag-today-ap-eyes-rs-12-lakh-cr-investments-1141141",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "కియా ఒప్పందం, పీ4 కింద రెండు ఎంఓయూలు",
+    "ముగింపు సమావేశానికి ఉపరాష్ట్రపతి సీపీ రాధాకృష్ణన్",
+    "58 దేశాల ప్రతినిధులు వస్తారని డెక్కన్ క్రానికల్"
+   ],
+   "why": "పెట్టుబడులు కార్యరూపం దాలిస్తే ఏపీ యువతకు లక్షల ఉద్యోగాలు వచ్చే అవకాశం ఉంది.",
+   "pub": "2026-11-12T00:39+05:30",
+   "en": {
+    "h": "CII summit in Vizag from today: 141 MoUs, Rs 12.13 lakh crore targeted",
+    "p": "The 31st CII Partnership Summit will be held on November 12 and 13 at the AU Engineering Grounds in Visakhapatnam, The Hans India reported. It said 141 MoUs and 30 GOs worth Rs 12,13,853 crore are lined up, which could create 2,46,373 jobs. Union Ministers Piyush Goyal and Ram Mohan Naidu and CM Chandrababu Naidu will attend.",
+    "pts": [
+     "Includes a Kia agreement and two P4 MoUs",
+     "Vice-President C P Radhakrishnan at valedictory",
+     "Delegates from 58 countries, says Deccan Chronicle"
+    ],
+    "why": "If the investments materialise, lakhs of jobs could come for AP youth.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "MoUs lined up at the summit"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम में आज से सीआईआई सम्मेलन: 141 एमओयू, 12.13 लाख करोड़ का लक्ष्य",
+    "p": "द हंस इंडिया के अनुसार 31वां सीआईआई पार्टनरशिप सम्मेलन 12 और 13 नवंबर को विशाखापत्तनम के एयू इंजीनियरिंग ग्राउंड में होगा। इसमें 12,13,853 करोड़ रुपये के 141 एमओयू और 30 जीओ तैयार हैं, जिनसे 2,46,373 नौकरियां बन सकती हैं। केंद्रीय मंत्री पीयूष गोयल, राममोहन नायडू और मुख्यमंत्री चंद्रबाबू नायडू शामिल होंगे।",
+    "pts": [
+     "किआ समझौता और पी4 के तहत दो एमओयू",
+     "समापन सत्र में उपराष्ट्रपति सी.पी. राधाकृष्णन",
+     "58 देशों के प्रतिनिधि: डेक्कन क्रॉनिकल"
+    ],
+    "why": "निवेश जमीन पर उतरे तो आंध्र के युवाओं को लाखों नौकरियां मिल सकती हैं।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सम्मेलन में होने वाले एमओयू"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "deadline",
+   "stat": "22 నవం.",
+   "statl": "ఇన్‌సర్వీస్ టెట్ కొత్త తేదీ",
+   "h": "ఇన్‌సర్వీస్ టెట్ పరీక్ష నవంబర్ 22కు వాయిదా",
+   "p": "రాష్ట్రంలో ఉపాధ్యాయుల కోసం ఈ నెల 19న జరగాల్సిన ఇన్‌సర్వీస్ టెట్ పరీక్షను 22వ తేదీకి వాయిదా వేసినట్లు టెట్ కన్వీనర్ జి.రమేశ్ తెలిపారని నమస్తే తెలంగాణ కథనం. అదే రోజు టీజీపీఎస్సీ డిపార్ట్‌మెంటల్ పరీక్షలు ఉండటమే కారణమని చెప్పారు. అభ్యర్థులు 17వ తేదీ నుంచి హాల్‌టికెట్లు డౌన్‌లోడ్ చేసుకోవచ్చని సూచించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-in-service-tet-exam-postponed-to-november-22-2557975",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "19న జరగాల్సిన పరీక్ష 22కు మార్పు",
+    "అదే రోజు టీజీపీఎస్సీ డిపార్ట్‌మెంటల్ పరీక్షలు",
+    "17 నుంచి హాల్‌టికెట్ల డౌన్‌లోడ్"
+   ],
+   "why": "పరీక్ష రాయబోయే రాష్ట్ర ఉపాధ్యాయులు కొత్త తేదీ ప్రకారం సిద్ధం కావాలి.",
+   "pub": "2026-11-12T01:22+05:30",
+   "en": {
+    "h": "In-service TET exam postponed to November 22",
+    "p": "The in-service TET for teachers in Telangana, scheduled for the 19th of this month, has been postponed to the 22nd, TET convener G. Ramesh said, Namasthe Telangana reported. He said the reason is that TGPSC departmental exams are scheduled on the same day. Candidates can download their hall tickets from the 17th.",
+    "pts": [
+     "Exam moved from the 19th to the 22nd",
+     "TGPSC departmental exams on the same day",
+     "Hall tickets downloadable from the 17th"
+    ],
+    "why": "Telangana teachers taking the exam must prepare for the new date.",
+    "cat": "Telangana · Education",
+    "statl": "New in-service TET date"
+   },
+   "hi": {
+    "h": "इन-सर्विस टीईटी परीक्षा 22 नवंबर तक स्थगित",
+    "p": "नमस्ते तेलंगाना के अनुसार टीईटी संयोजक जी. रमेश ने बताया कि तेलंगाना में शिक्षकों के लिए इस महीने की 19 तारीख को होने वाली इन-सर्विस टीईटी अब 22 तारीख को होगी। उन्होंने कहा कि उसी दिन टीजीपीएससी की विभागीय परीक्षाएं होने के कारण यह बदलाव किया गया। अभ्यर्थी 17 तारीख से हॉल टिकट डाउनलोड कर सकते हैं।",
+    "pts": [
+     "19 की परीक्षा अब 22 को",
+     "उसी दिन टीजीपीएससी विभागीय परीक्षाएं",
+     "17 से हॉल टिकट डाउनलोड"
+    ],
+    "why": "परीक्षा देने वाले तेलंगाना के शिक्षकों को नई तारीख के अनुसार तैयारी करनी होगी।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "इन-सर्विस टीईटी की नई तारीख"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "14.5°",
+   "statl": "కోహిర్‌లో అత్యల్ప ఉష్ణోగ్రత",
+   "h": "పగలు వేడి, రాత్రి చలి: కోహిర్‌లో 14.5 డిగ్రీలు",
+   "p": "రాష్ట్రంలో పగటి ఉష్ణోగ్రతలు సాధారణం కంటే 3–4 డిగ్రీలు ఎక్కువగా, రాత్రి ఉష్ణోగ్రతలు 2–3 డిగ్రీలు తక్కువగా నమోదవుతున్నాయని నమస్తే తెలంగాణ కథనం. సంగారెడ్డి జిల్లా కోహిర్‌లో అత్యల్పంగా 14.5 డిగ్రీలు, ఆదిలాబాద్‌లో 14.7 డిగ్రీలు నమోదయ్యాయి. గురువారం ఆగ్నేయ బంగాళాఖాతంలో అల్పపీడనం ఏర్పడే అవకాశం ఉందని కథనం పేర్కొంది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-experiences-contrasting-weather-as-day-temperatures-rise-and-night-temperatures-drop-2558040",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "కోహిర్",
+   "pts": [
+    "పగలు సాధారణం కంటే 3–4 డిగ్రీలు ఎక్కువ",
+    "రాష్ట్రమంతటా కనిష్ఠం 15 డిగ్రీల లోపు",
+    "మెదక్, సిద్దిపేట, కరీంనగర్‌లోనూ 14.7 డిగ్రీలు"
+   ],
+   "why": "రాత్రి చలి పెరగడంతో వృద్ధులు, పిల్లలు జాగ్రత్తలు తీసుకోవాల్సి ఉంటుంది.",
+   "pub": "2026-11-12T01:19+05:30",
+   "en": {
+    "h": "Warm days, cold nights: Kohir records 14.5 degrees",
+    "p": "Day temperatures in Telangana are 3–4 degrees above normal while night temperatures have dropped by 2–3 degrees, Namasthe Telangana reported. The lowest was 14.5 degrees at Kohir in Sangareddy district, and Adilabad recorded 14.7 degrees. The report said a low-pressure area may form over the southeast Bay of Bengal on Thursday.",
+    "pts": [
+     "Days 3–4 degrees above normal",
+     "Minimums below 15 degrees across the state",
+     "Medak, Siddipet, Karimnagar also at 14.7 degrees"
+    ],
+    "why": "Colder nights mean the elderly and children need to take care.",
+    "cat": "Telangana · Weather",
+    "statl": "Lowest temperature, at Kohir"
+   },
+   "hi": {
+    "h": "दिन में गर्मी, रात में ठंड: कोहिर में 14.5 डिग्री",
+    "p": "नमस्ते तेलंगाना के अनुसार तेलंगाना में दिन का तापमान सामान्य से 3–4 डिग्री अधिक और रात का तापमान 2–3 डिग्री कम दर्ज हो रहा है। संगारेड्डी जिले के कोहिर में सबसे कम 14.5 डिग्री और आदिलाबाद में 14.7 डिग्री तापमान रहा। रिपोर्ट के अनुसार गुरुवार को दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव का क्षेत्र बन सकता है।",
+    "pts": [
+     "दिन सामान्य से 3–4 डिग्री गर्म",
+     "पूरे राज्य में न्यूनतम 15 डिग्री से नीचे",
+     "मेदक, सिद्दिपेट, करीमनगर में भी 14.7 डिग्री"
+    ],
+    "why": "रातें ठंडी होने से बुजुर्गों और बच्चों को सावधानी बरतनी होगी।",
+    "cat": "तेलंगाना · मौसम",
+    "statl": "कोहिर में सबसे कम तापमान"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · పరిశుభ్రత",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "1st",
+   "statl": "తెలంగాణ తొలి స్వచ్ఛ నగరం",
+   "h": "తెలంగాణ తొలి స్వచ్ఛ నగరంగా గ్రేటర్ హైదరాబాద్: రాష్ట్రపతి చేతుల మీదుగా అవార్డు",
+   "p": "స్వచ్ఛ సర్వేక్షణ్ 2025-26లో గ్రేటర్ హైదరాబాద్ తెలంగాణ తొలి స్వచ్ఛ నగరంగా నిలిచిందని సీఎం రేవంత్ రెడ్డి తెలిపారని సియాసత్ కథనం. బుధవారం ఢిల్లీ విజ్ఞాన్ భవన్‌లో రాష్ట్రపతి ద్రౌపది ముర్ము నుంచి మంత్రి పొన్నం ప్రభాకర్, జీహెచ్‌ఎంసీ కమిషనర్ ఆర్వీ కర్ణన్, హెచ్‌ఎండీఏ కమిషనర్ సర్ఫరాజ్ అహ్మద్ అవార్డు అందుకున్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/cm-hails-greater-hyderabad-becomes-telanganas-1st-swachh-city-3574757/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "వ్యర్థాల సేకరణ, శుద్ధి, మురుగు నిర్వహణ ప్రమాణాలు",
+    "హైదరాబాద్‌ను గ్రీన్, నెట్-జీరో సిటీ చేయడమే లక్ష్యం: సీఎం",
+    "పారిశుద్ధ్య కార్మికులకు సీఎం అభినందనలు"
+   ],
+   "why": "హైదరాబాద్ నగరవాసుల పరిశుభ్రత కృషికి జాతీయ స్థాయిలో గుర్తింపు లభించింది.",
+   "pub": "2026-11-11T22:43+05:30",
+   "en": {
+    "h": "Greater Hyderabad is Telangana's first Swachh City; President presents award",
+    "p": "Greater Hyderabad has become Telangana's first Swachh City in Swachh Survekshan 2025-26, Chief Minister Revanth Reddy said, Siasat Daily reported. Minister Ponnam Prabhakar, GHMC Commissioner RV Karnan and HMDA Commissioner Sarfaraz Ahmed received the award from President Droupadi Murmu at Vigyan Bhawan, Delhi, on Wednesday.",
+    "pts": [
+     "Criteria included waste collection, processing, sewage management",
+     "Goal is a Green and Net-Zero Hyderabad: CM",
+     "CM thanks sanitation workers"
+    ],
+    "why": "Hyderabad residents' cleanliness efforts got national recognition.",
+    "cat": "Hyderabad · Sanitation",
+    "statl": "Telangana's first Swachh City"
+   },
+   "hi": {
+    "h": "ग्रेटर हैदराबाद तेलंगाना का पहला स्वच्छ शहर; राष्ट्रपति ने दिया पुरस्कार",
+    "p": "सियासत डेली के अनुसार मुख्यमंत्री रेवंत रेड्डी ने कहा कि स्वच्छ सर्वेक्षण 2025-26 में ग्रेटर हैदराबाद तेलंगाना का पहला स्वच्छ शहर बना। बुधवार को दिल्ली के विज्ञान भवन में राष्ट्रपति द्रौपदी मुर्मू से मंत्री पोन्नम प्रभाकर, जीएचएमसी आयुक्त आरवी कर्णन और एचएमडीए आयुक्त सरफराज अहमद ने पुरस्कार लिया।",
+    "pts": [
+     "कचरा संग्रह, प्रसंस्करण, सीवेज प्रबंधन मानदंड",
+     "हैदराबाद को ग्रीन, नेट-जीरो शहर बनाना लक्ष्य: सीएम",
+     "सीएम ने सफाई कर्मचारियों को बधाई दी"
+    ],
+    "why": "हैदराबाद के नागरिकों के स्वच्छता प्रयासों को राष्ट्रीय पहचान मिली।",
+    "cat": "हैदराबाद · स्वच्छता",
+    "statl": "तेलंगाना का पहला स्वच्छ शहर"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · స్థానిక సంస్థలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "₹5,600 కోట్లు",
+   "statl": "కోల్పోయిన కేంద్ర నిధులు అని సంఘం ఆరోపణ",
+   "h": "మండల పరిషత్ ఎన్నికలు వెంటనే జరపాలి: ఎంపీటీసీల సంఘం",
+   "p": "మండల పరిషత్ ఎన్నికలను వెంటనే నిర్వహించాలని తెలంగాణ రాష్ట్ర ఎంపీటీసీల సంఘం డిమాండ్ చేసిందని నమస్తే తెలంగాణ కథనం. సోమాజిగూడ ప్రెస్‌క్లబ్‌లో సంఘం అధ్యక్షుడు గడీల కుమార్‌గౌడ్, వర్కింగ్ ప్రెసిడెంట్ దేవి రవీందర్ మాట్లాడుతూ, ఎన్నికలు సకాలంలో జరగకపోవడంతో రాష్ట్రం సుమారు ₹5,600 కోట్ల కేంద్ర నిధులు కోల్పోయిందని ఆరోపించారు. ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "src": "Namasthe Telangana",
+   "url": "https://ntnews.com/telangana/telangana-mptcs-association-demands-immediate-conduct-of-mandal-parishad-elections-2558169",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సోమాజిగూడ",
+   "pts": [
+    "ఎన్నికల జాప్యానికి సీఎం కారణమని సంఘం ఆరోపణ",
+    "ఏపీలో గడువు ముగియగానే ఎన్నికలు జరిగాయని పోలిక",
+    "ప్రతినిధులకు తగిన గౌరవ వేతనం, నిధులు కోరిక"
+   ],
+   "why": "మండల పరిషత్ ఎన్నికల జాప్యం గ్రామీణ అభివృద్ధి నిధులపై ప్రభావం చూపుతుందని సంఘం చెబుతోంది.",
+   "pub": "2026-11-12T03:06+05:30",
+   "en": {
+    "h": "Hold Mandal Parishad elections immediately: MPTCs association",
+    "p": "The Telangana State MPTCs Association demanded that Mandal Parishad elections be held immediately, Namasthe Telangana reported. At the Somajiguda Press Club, association president Gadila Kumar Goud and working president Devi Ravinder alleged that the failure to hold elections on time cost the state about Rs 5,600 crore in central funds. The government's response is not in the report.",
+    "pts": [
+     "Association blames CM for the delay",
+     "Compares with AP, where polls were held when terms ended",
+     "Seeks adequate honoraria and funds for representatives"
+    ],
+    "why": "The association says delayed Mandal Parishad polls affect rural development funds.",
+    "cat": "Telangana · Local bodies",
+    "statl": "Central funds lost, association alleges"
+   },
+   "hi": {
+    "h": "मंडल परिषद चुनाव तुरंत कराए जाएं: एमपीटीसी संघ",
+    "p": "नमस्ते तेलंगाना के अनुसार तेलंगाना राज्य एमपीटीसी संघ ने मंडल परिषद चुनाव तुरंत कराने की मांग की। सोमाजीगुडा प्रेस क्लब में संघ अध्यक्ष गडीला कुमार गौड़ और कार्यकारी अध्यक्ष देवी रविंदर ने आरोप लगाया कि समय पर चुनाव न होने से राज्य को लगभग 5,600 करोड़ रुपये के केंद्रीय फंड का नुकसान हुआ। रिपोर्ट में सरकार का जवाब नहीं है।",
+    "pts": [
+     "संघ ने देरी के लिए सीएम को जिम्मेदार ठहराया",
+     "आंध्र में कार्यकाल खत्म होते ही चुनाव होने की तुलना",
+     "प्रतिनिधियों के लिए उचित मानदेय और फंड की मांग"
+    ],
+    "why": "संघ का कहना है कि मंडल परिषद चुनाव में देरी से ग्रामीण विकास फंड प्रभावित होते हैं।",
+    "cat": "तेलंगाना · स्थानीय निकाय",
+    "statl": "केंद्रीय फंड का नुकसान, संघ का आरोप"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · వైద్యారోగ్యం",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "558",
+   "statl": "ఉద్యోగుల రిలీవ్ ఉత్తర్వులు నిలిపివేత",
+   "h": "వైద్య విధాన పరిషత్‌లో 558 మంది రిలీవ్ ఉత్తర్వుల నిలిపివేత",
+   "p": "వైద్య విధాన పరిషత్ పరిధిలోని 558 మంది ఉద్యోగుల రిలీవ్ ఉత్తర్వులను తదుపరి ఆదేశాల వరకు నిలిపివేయాలని వైద్యారోగ్య శాఖ ఆదేశించిందని నమస్తే తెలంగాణ కథనం. డీఎంఈ సర్క్యులర్ ప్రకారం వైద్యులు, ఫార్మసిస్టులు, ల్యాబ్ టెక్నీషియన్లు, నర్సింగ్ తదితర సిబ్బందికి ఇది వర్తిస్తుంది. ఇప్పటికే రిలీవ్ అయినవారిని పాత సంస్థల్లో కొనసాగించాలని సూపరింటెండెంట్లకు సూచించారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/relief-orders-of-558-medical-employees-revoked-after-namaste-telangana-impact-2558176",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఈ నెల 7న డీఎంఈ కార్యాలయం సవరణ ఉత్తర్వులు",
+    "రిలీవ్ అయినవారిని పాత చోటికి తిరిగి చేర్చాలి",
+    "కంప్లయన్స్ నివేదిక పంపాలని ఆదేశం"
+   ],
+   "why": "ప్రభుత్వ ఆసుపత్రుల సిబ్బంది బదిలీలు, రోగుల సేవలపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T03:24+05:30",
+   "en": {
+    "h": "Relieving orders of 558 Vaidya Vidhana Parishad staff put on hold",
+    "p": "The Medical and Health Department ordered that relieving orders for 558 employees under the Vaidya Vidhana Parishad be held until further orders, Namasthe Telangana reported. As per a DME circular, it covers doctors, pharmacists, lab technicians, nursing and other staff. Superintendents were told to retain already-relieved staff at their old institutions.",
+    "pts": [
+     "DME office issued modified orders on the 7th",
+     "Relieved staff to be restored to old posts",
+     "Compliance report sought"
+    ],
+    "why": "The decision affects transfers of government hospital staff and patient services.",
+    "cat": "Telangana · Health",
+    "statl": "Staff relieving orders put on hold"
+   },
+   "hi": {
+    "h": "वैद्य विधान परिषद के 558 कर्मचारियों के रिलीव आदेश रोके गए",
+    "p": "नमस्ते तेलंगाना के अनुसार चिकित्सा एवं स्वास्थ्य विभाग ने वैद्य विधान परिषद के 558 कर्मचारियों के रिलीव आदेश अगले आदेश तक रोकने का निर्देश दिया। डीएमई सर्कुलर के अनुसार यह डॉक्टरों, फार्मासिस्टों, लैब तकनीशियनों, नर्सिंग और अन्य कर्मचारियों पर लागू है। अधीक्षकों से कहा गया कि पहले से रिलीव कर्मचारियों को पुराने संस्थानों में रखें।",
+    "pts": [
+     "डीएमई कार्यालय ने 7 तारीख को संशोधित आदेश जारी किए थे",
+     "रिलीव कर्मचारी पुराने पदों पर लौटेंगे",
+     "अनुपालन रिपोर्ट मांगी गई"
+    ],
+    "why": "यह फैसला सरकारी अस्पताल कर्मचारियों के तबादलों और मरीजों की सेवाओं को प्रभावित करता है।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "कर्मचारियों के रिलीव आदेश रोके"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · న్యాయవ్యవస్థ",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "1,109",
+   "statl": "కొత్తగా నమోదైన న్యాయవాదులు",
+   "h": "తెలంగాణ బార్ కౌన్సిల్‌లో 1,109 మంది కొత్త న్యాయవాదుల నమోదు",
+   "p": "తెలంగాణ రాష్ట్ర బార్ కౌన్సిల్‌లో 1,109 మంది న్యాయ పట్టభద్రులు కొత్తగా న్యాయవాదులుగా నమోదయ్యారని నమస్తే తెలంగాణ కథనం. వారిలో 1,059 మంది బుధవారం హైకోర్టు ప్రాంగణంలో ప్రమాణం చేశారు. బార్ కౌన్సిల్ ఆఫ్ ఇండియా ఏర్పాటు చేసిన తాత్కాలిక నమోదు కమిటీ ఈ కార్యక్రమాన్ని పర్యవేక్షించింది. జస్టిస్ తంగిరాల మాధవీదేవి ముఖ్య అతిథిగా పాల్గొన్నారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/law-graduates-enrolled-as-advocates-in-telangana-bar-council-1109-2558151",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "1,059 మంది హైకోర్టులో ప్రమాణం",
+    "బీసీఐ తాత్కాలిక కమిటీ పర్యవేక్షణ",
+    "ముఖ్య అతిథిగా జస్టిస్ తంగిరాల మాధవీదేవి"
+   ],
+   "why": "కొత్త న్యాయవాదుల చేరికతో రాష్ట్రంలో న్యాయ సేవలు అందించేవారి సంఖ్య పెరుగుతుంది.",
+   "pub": "2026-11-12T02:44+05:30",
+   "en": {
+    "h": "1,109 new advocates enrolled with Telangana Bar Council",
+    "p": "As many as 1,109 law graduates were newly enrolled as advocates with the Telangana State Bar Council, Namasthe Telangana reported. Of them, 1,059 took their oath on Wednesday at the High Court premises. An interim enrolment committee set up by the Bar Council of India supervised the programme. Justice Tangirala Madhavi Devi was the chief guest.",
+    "pts": [
+     "1,059 took oath at the High Court",
+     "Supervised by BCI interim committee",
+     "Justice Tangirala Madhavi Devi chief guest"
+    ],
+    "why": "New enrolments increase the number of lawyers offering legal services in the state.",
+    "cat": "Telangana · Judiciary",
+    "statl": "Newly enrolled advocates"
+   },
+   "hi": {
+    "h": "तेलंगाना बार काउंसिल में 1,109 नए वकील पंजीकृत",
+    "p": "नमस्ते तेलंगाना के अनुसार तेलंगाना राज्य बार काउंसिल में 1,109 विधि स्नातक नए वकील के रूप में पंजीकृत हुए। इनमें से 1,059 ने बुधवार को हाईकोर्ट परिसर में शपथ ली। बार काउंसिल ऑफ इंडिया की अंतरिम नामांकन समिति ने कार्यक्रम की निगरानी की। जस्टिस तंगिराला माधवी देवी मुख्य अतिथि थीं।",
+    "pts": [
+     "1,059 ने हाईकोर्ट में शपथ ली",
+     "बीसीआई की अंतरिम समिति की निगरानी",
+     "मुख्य अतिथि जस्टिस तंगिराला माधवी देवी"
+    ],
+    "why": "नए पंजीकरण से राज्य में कानूनी सेवाएं देने वाले वकीलों की संख्या बढ़ती है।",
+    "cat": "तेलंगाना · न्यायपालिका",
+    "statl": "नए पंजीकृत वकील"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "తెలంగాణ · విద్య",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "25 నవం.",
+   "statl": "ఇగ్నో టర్మ్ ఎండ్ పరీక్షలు ప్రారంభం",
+   "h": "నవంబర్ 25 నుంచి ఇగ్నో టర్మ్ ఎండ్ పరీక్షలు",
+   "p": "ఇందిరాగాంధీ జాతీయ సార్వత్రిక విశ్వవిద్యాలయం (ఇగ్నో) టర్మ్ ఎండ్ పరీక్షలు ఈ నెల 25 నుంచి ప్రారంభమవుతాయని హైదరాబాద్ ప్రాంతీయ కేంద్రం డైరెక్టర్ డాక్టర్ రాజు బొల్ల తెలిపారని నమస్తే తెలంగాణ కథనం. హైదరాబాద్‌లో ఏడు కేంద్రాలతో పాటు వరంగల్, బోధన్, నల్గొండ, ఖమ్మం, కరీంనగర్‌లో పరీక్షా కేంద్రాలు ఉన్నాయి. వివరాలకు 94924 51812, 040-23117550 నంబర్లు ఇచ్చారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/ignou-term-end-examinations-to-begin-on-november-25-across-telangana-exam-centres-2557981",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "హైదరాబాద్‌లో ఏడు పరీక్షా కేంద్రాలు",
+    "వరంగల్, బోధన్, నల్గొండ, ఖమ్మం, కరీంనగర్‌లోనూ",
+    "హెల్ప్‌లైన్: 94924 51812"
+   ],
+   "why": "రాష్ట్రంలో దూరవిద్య చదువుతున్న ఇగ్నో విద్యార్థులు పరీక్షలకు సిద్ధం కావాలి.",
+   "pub": "2026-11-12T01:48+05:30",
+   "en": {
+    "h": "IGNOU term-end exams from November 25",
+    "p": "IGNOU's term-end examinations will begin on the 25th of this month, Hyderabad regional centre director Dr Raju Bolla said, Namasthe Telangana reported. Besides seven centres in Hyderabad, exams will be held in Warangal, Bodhan, Nalgonda, Khammam and Karimnagar. For details, the numbers 94924 51812 and 040-23117550 were given.",
+    "pts": [
+     "Seven exam centres in Hyderabad",
+     "Also in Warangal, Bodhan, Nalgonda, Khammam, Karimnagar",
+     "Helpline: 94924 51812"
+    ],
+    "why": "IGNOU distance-learning students in Telangana must prepare for the exams.",
+    "cat": "Telangana · Education",
+    "statl": "IGNOU term-end exams begin"
+   },
+   "hi": {
+    "h": "25 नवंबर से इग्नू टर्म-एंड परीक्षाएं",
+    "p": "नमस्ते तेलंगाना के अनुसार हैदराबाद क्षेत्रीय केंद्र के निदेशक डॉ. राजू बोल्ला ने बताया कि इग्नू की टर्म-एंड परीक्षाएं इस महीने की 25 तारीख से शुरू होंगी। हैदराबाद के सात केंद्रों के अलावा वरंगल, बोधन, नलगोंडा, खम्मम और करीमनगर में भी परीक्षा केंद्र हैं। जानकारी के लिए 94924 51812 और 040-23117550 नंबर दिए गए।",
+    "pts": [
+     "हैदराबाद में सात परीक्षा केंद्र",
+     "वरंगल, बोधन, नलगोंडा, खम्मम, करीमनगर में भी",
+     "हेल्पलाइन: 94924 51812"
+    ],
+    "why": "तेलंगाना में दूरस्थ शिक्षा पढ़ रहे इग्नू छात्रों को परीक्षा की तैयारी करनी होगी।",
+    "cat": "तेलंगाना · शिक्षा",
+    "statl": "इग्नू टर्म-एंड परीक्षाएं शुरू"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "అరెస్టు",
+   "statl": "బంజారా భవన్ వద్ద నిరసనలో",
+   "h": "మైనారిటీ విద్య సమస్యలపై నిరసన: బీఆర్ఎస్ నేత అబ్దుల్లా సోహైల్ అరెస్టు",
+   "p": "జాతీయ విద్యా దినోత్సవ వేడుకల సందర్భంగా బంజారా భవన్ వద్ద నిరసనకు ప్రయత్నించిన బీఆర్ఎస్ సీనియర్ నేత షేక్ అబ్దుల్లా సోహైల్, పలువురు కార్యకర్తలను హైదరాబాద్ పోలీసులు బుధవారం అరెస్టు చేశారని యూఎన్ఐ కథనం. మైనారిటీలకు ఇచ్చిన విద్యా హామీలను కాంగ్రెస్ ప్రభుత్వం నెరవేర్చలేదని, స్కాలర్‌షిప్, ఫీజు రీయింబర్స్‌మెంట్ బకాయిలు పెండింగ్‌లో ఉన్నాయని ఆయన ఆరోపించారు.",
+   "src": "UNI",
+   "url": "https://www.uniindia.com/south-india/politics-telangana-brs-arrest/242562",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "బంజారా హిల్స్",
+   "pts": [
+    "మైనారిటీ సంక్షేమ దినోత్సవ వేడుకల వేళ నిరసన",
+    "స్కాలర్‌షిప్, ఫీజు బకాయిలపై ఆరోపణ",
+    "ప్రభుత్వ స్పందన కథనంలో అందుబాటులో లేదు"
+   ],
+   "why": "మైనారిటీ విద్యార్థుల స్కాలర్‌షిప్, ఫీజు బకాయిల అంశం రాజకీయ చర్చగా మారింది.",
+   "pub": "2026-11-11T19:07+05:30",
+   "en": {
+    "h": "BRS leader Abdullah Sohail arrested during protest over minority education",
+    "p": "Hyderabad Police on Wednesday arrested senior BRS leader Shaik Abdullah Sohail and several party workers as they tried to protest near Banjara Bhavan during National Education Day celebrations, UNI reported. He alleged the Congress government had failed to keep its education promises to minorities and that scholarship and fee reimbursement dues were pending.",
+    "pts": [
+     "Protest during Minority Welfare Day celebrations",
+     "Alleges pending scholarship and fee dues",
+     "Government response not available in the report"
+    ],
+    "why": "Scholarship and fee dues of minority students have become a political issue.",
+    "cat": "Hyderabad · Politics",
+    "statl": "During protest at Banjara Bhavan"
+   },
+   "hi": {
+    "h": "अल्पसंख्यक शिक्षा मुद्दों पर विरोध: बीआरएस नेता अब्दुल्ला सोहैल गिरफ्तार",
+    "p": "यूएनआई के अनुसार राष्ट्रीय शिक्षा दिवस समारोह के दौरान बंजारा भवन के पास विरोध प्रदर्शन की कोशिश कर रहे बीआरएस के वरिष्ठ नेता शेख अब्दुल्ला सोहैल और कई कार्यकर्ताओं को हैदराबाद पुलिस ने बुधवार को गिरफ्तार किया। उन्होंने आरोप लगाया कि कांग्रेस सरकार ने अल्पसंख्यकों से किए शिक्षा वादे पूरे नहीं किए और छात्रवृत्ति व फीस प्रतिपूर्ति बकाया है।",
+    "pts": [
+     "अल्पसंख्यक कल्याण दिवस समारोह के दौरान विरोध",
+     "छात्रवृत्ति और फीस बकाया का आरोप",
+     "रिपोर्ट में सरकार का जवाब उपलब्ध नहीं"
+    ],
+    "why": "अल्पसंख्यक छात्रों की छात्रवृत्ति और फीस बकाया राजनीतिक मुद्दा बन गया है।",
+    "cat": "हैदराबाद · राजनीति",
+    "statl": "बंजारा भवन पर विरोध के दौरान"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "water",
+   "stat": "₹560 కోట్లు",
+   "statl": "విశాఖ పోర్టు కొత్త పనుల విలువ",
+   "h": "విశాఖ పోర్ట్ ప్రొమెనేడ్ ప్రారంభించిన కేంద్ర మంత్రి సోనోవాల్",
+   "p": "కేంద్ర నౌకాయాన మంత్రి సర్బానంద సోనోవాల్ బుధవారం విశాఖపట్నంలో ₹19 కోట్లతో నిర్మించిన పోర్ట్ ప్రొమెనేడ్‌ను ప్రజలకు అంకితం చేశారని ఏఎన్ఐ కథనం. వేంకటేశ్వర ఆలయం నుంచి ఇంటర్నేషనల్ క్రూయిజ్ టెర్మినల్ వరకు సుమారు 710 మీటర్ల నడక మార్గం ఇది. నాలుగు కొత్త ప్రాజెక్టులకు శంకుస్థాపనతో పోర్టు కొత్త పనుల విలువ సుమారు ₹560 కోట్లకు చేరింది.",
+   "src": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/india-is-now-standing-as-one-of-leading-maritime-nations-union-minister-sarbananda-sonowal20261112054400/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "5.5 ఎకరాల్లో వ్యూ డెక్‌లు, పార్కు, ఫుడ్ కోర్టు",
+    "మురుగు శుద్ధి ప్లాంటు 10 నుంచి 15 ఎంఎల్‌డీకి పెంపు",
+    "పీపీపీ విధానంలో టెర్మినళ్ల నిర్వహణ: హన్స్ ఇండియా"
+   ],
+   "why": "విశాఖ వాసులకు కొత్త విహార స్థలం, పోర్టు అభివృద్ధితో ఉపాధి అవకాశాలు.",
+   "pub": "2026-11-12T05:44+05:30",
+   "en": {
+    "h": "Union Minister Sonowal opens Vizag Port Promenade",
+    "p": "Union Shipping Minister Sarbananda Sonowal on Wednesday dedicated the Rs 19 crore Port Promenade in Visakhapatnam to the public, ANI reported. The walkway runs about 710 metres from the Venkateswara Temple to the International Cruise Terminal. With foundation stones for four new projects, the port's package of new works is about Rs 560 crore.",
+    "pts": [
+     "View decks, park, food court on 5.5 acres",
+     "Sewage plant upgraded from 10 to 15 MLD",
+     "Terminals to be run on PPP model: Hans India"
+    ],
+    "why": "Vizag residents get a new public space, and port growth can create jobs.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Value of new Vizag port works"
+   },
+   "hi": {
+    "h": "केंद्रीय मंत्री सोनोवाल ने विशाखापत्तनम पोर्ट प्रोमेनेड का उद्घाटन किया",
+    "p": "एएनआई के अनुसार केंद्रीय नौवहन मंत्री सर्बानंद सोनोवाल ने बुधवार को विशाखापत्तनम में 19 करोड़ रुपये से बना पोर्ट प्रोमेनेड जनता को समर्पित किया। यह वेंकटेश्वर मंदिर से इंटरनेशनल क्रूज टर्मिनल तक लगभग 710 मीटर लंबा पैदल मार्ग है। चार नई परियोजनाओं के शिलान्यास के साथ बंदरगाह के नए कार्यों का मूल्य लगभग 560 करोड़ रुपये है।",
+    "pts": [
+     "5.5 एकड़ में व्यू डेक, पार्क, फूड कोर्ट",
+     "सीवेज प्लांट 10 से 15 एमएलडी",
+     "टर्मिनल पीपीपी मॉडल पर: हंस इंडिया"
+    ],
+    "why": "विशाखापत्तनम के लोगों को नया सार्वजनिक स्थल और बंदरगाह विकास से रोजगार के अवसर।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "विशाखापत्तनम बंदरगाह के नए कार्य"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · రక్షణ",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "IMNEX-26",
+   "statl": "భారత్–మయన్మార్ నౌకాదళ విన్యాసం",
+   "h": "విశాఖలో భారత్–మయన్మార్ నౌకాదళ విన్యాసం ఐఎంనెక్స్-26 ప్రారంభం",
+   "p": "భారత్–మయన్మార్ నౌకాదళ విన్యాసం 8వ ఎడిషన్ ఐఎంనెక్స్-26 విశాఖపట్నంలో ప్రారంభమై నవంబర్ 14 వరకు జరుగుతుందని భారత నౌకాదళం తెలిపిందని ది ట్రిబ్యూన్ (ఏఎన్ఐ) కథనం. మయన్మార్ నౌక యూఎంఎస్ కింగ్ సిన్ ఫ్యూ షిన్‌తో పాటు ఐఎన్ఎస్ రాణా, ఐఎన్ఎస్ సుమేధ పాల్గొంటున్నాయి. హార్బర్ దశ తర్వాత సముద్ర దశ ఉంటుంది.",
+   "src": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/imnex-26/india-myanmar-naval-exercise-imnex-26-commences-in-visakhapatnam",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "మయన్మార్ నౌక నవంబర్ 10న విశాఖ చేరిక",
+    "ఐఎన్ఎస్ రాణాపై ప్రారంభ వేడుక",
+    "మహాసాగర్ దృక్పథంలో భాగమని నౌకాదళం"
+   ],
+   "why": "తూర్పు తీరంలో పొరుగు దేశాలతో భారత సముద్ర భద్రతా సహకారం బలపడుతుంది.",
+   "pub": "2026-11-12T01:17+05:30",
+   "en": {
+    "h": "India–Myanmar naval exercise IMNEX-26 begins in Visakhapatnam",
+    "p": "The 8th edition of the India–Myanmar naval exercise, IMNEX-26, began in Visakhapatnam and runs until November 14, the Indian Navy said, The Tribune (ANI) reported. Myanmar's UMS King Sin Phyu Shin is taking part with INS Rana and INS Sumedha. A sea phase will follow the harbour phase.",
+    "pts": [
+     "Myanmar ship reached Vizag on November 10",
+     "Opening ceremony on board INS Rana",
+     "Part of MAHASAGAR vision, says Navy"
+    ],
+    "why": "It strengthens India's maritime security cooperation with neighbours on the east coast.",
+    "cat": "AP · Defence",
+    "statl": "India–Myanmar naval exercise"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम में भारत–म्यांमार नौसेना अभ्यास आईएमनेक्स-26 शुरू",
+    "p": "द ट्रिब्यून (एएनआई) के अनुसार भारतीय नौसेना ने बताया कि भारत–म्यांमार नौसेना अभ्यास का 8वां संस्करण आईएमनेक्स-26 विशाखापत्तनम में शुरू हुआ और 14 नवंबर तक चलेगा। म्यांमार का पोत यूएमएस किंग सिन फ्यू शिन, आईएनएस राणा और आईएनएस सुमेधा के साथ भाग ले रहा है। हार्बर चरण के बाद समुद्री चरण होगा।",
+    "pts": [
+     "म्यांमार पोत 10 नवंबर को पहुंचा",
+     "आईएनएस राणा पर उद्घाटन समारोह",
+     "महासागर दृष्टिकोण का हिस्सा: नौसेना"
+    ],
+    "why": "इससे पूर्वी तट पर पड़ोसी देशों के साथ भारत का समुद्री सुरक्षा सहयोग मजबूत होता है।",
+    "cat": "आंध्र प्रदेश · रक्षा",
+    "statl": "भारत–म्यांमार नौसेना अभ्यास"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "deadline",
+   "stat": "1,500",
+   "statl": "అసిస్టెంట్ ప్రొఫెసర్ పోస్టులు",
+   "h": "పంచాయతీ ఎన్నికల దృష్ట్యా అసిస్టెంట్ ప్రొఫెసర్ పరీక్షల వాయిదాకు వినతి",
+   "p": "ఏపీ విశ్వవిద్యాలయాల్లో 1,500 అసిస్టెంట్ ప్రొఫెసర్ పోస్టులకు డిసెంబర్ 1–5 తేదీల్లో జరగాల్సిన పరీక్షలను వాయిదా వేయాలని అభ్యర్థులు ప్రభుత్వాన్ని కోరారని డెక్కన్ క్రానికల్ కథనం. నవంబర్ 26 నుంచి డిసెంబర్ 3 వరకు మూడు దశల్లో పంచాయతీ ఎన్నికలు ఉండటంతో ఉద్యోగులైన పలువురు అభ్యర్థులకు ఎన్నికల విధులు పడతాయని వారు చెప్పారు.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/postponement-of-university-assistant-professor-exams-sought-over-panchayat-polls-2003577",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "పరీక్షలు డిసెంబర్ 1 నుంచి 5 వరకు",
+    "స్కూల్ అసిస్టెంట్లకు ఎన్నికల విధులు పడే అవకాశం",
+    "ఎన్నికల తర్వాత కొత్త తేదీలు ప్రకటించాలని వినతి"
+   ],
+   "why": "ఏపీ విశ్వవిద్యాలయ ఉద్యోగాలకు సిద్ధమవుతున్న వేలాది అభ్యర్థులపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-11T22:24+05:30",
+   "en": {
+    "h": "Candidates seek postponement of assistant professor exams over panchayat polls",
+    "p": "Candidates for 1,500 assistant professor posts in AP universities have asked the government to postpone exams scheduled from December 1 to 5, Deccan Chronicle reported. They said panchayat elections in three phases from November 26 to December 3 mean many candidates who are employees will be put on election duty.",
+    "pts": [
+     "Exams scheduled December 1 to 5",
+     "School assistants may get election duty",
+     "Seek new dates after the polls"
+    ],
+    "why": "The decision affects thousands of candidates preparing for AP university jobs.",
+    "cat": "AP · Jobs",
+    "statl": "Assistant professor posts"
+   },
+   "hi": {
+    "h": "पंचायत चुनावों के चलते असिस्टेंट प्रोफेसर परीक्षा टालने की मांग",
+    "p": "डेक्कन क्रॉनिकल के अनुसार आंध्र प्रदेश के विश्वविद्यालयों में 1,500 असिस्टेंट प्रोफेसर पदों के अभ्यर्थियों ने 1 से 5 दिसंबर तक होने वाली परीक्षाएं टालने की मांग की है। उन्होंने कहा कि 26 नवंबर से 3 दिसंबर तक तीन चरणों में पंचायत चुनाव हैं, जिससे कर्मचारी अभ्यर्थियों को चुनाव ड्यूटी मिलेगी।",
+    "pts": [
+     "परीक्षाएं 1 से 5 दिसंबर तक",
+     "स्कूल असिस्टेंट्स को चुनाव ड्यूटी की संभावना",
+     "चुनाव के बाद नई तारीखों की मांग"
+    ],
+    "why": "यह फैसला आंध्र के विश्वविद्यालय नौकरियों की तैयारी कर रहे हजारों अभ्यर्थियों को प्रभावित करता है।",
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "असिस्टेंट प्रोफेसर पद"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · చిత్తూరు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "4",
+   "statl": "జడ్పీ చైర్‌పర్సన్ పదవికి ఆశావహులు",
+   "h": "చిత్తూరు జడ్పీ చైర్‌పర్సన్ పదవికి నలుగురు టీడీపీ మహిళల పోటీ",
+   "p": "మహిళకు (జనరల్) రిజర్వ్ అయిన చిత్తూరు జిల్లా పరిషత్ చైర్‌పర్సన్ పదవి కోసం అధికార టీడీపీకి చెందిన నలుగురు మహిళా జడ్పీటీసీలు ప్రయత్నాలు చేస్తున్నారని డెక్కన్ క్రానికల్ కథనం. వారిలో ఇద్దరు బంగారుపాళ్యం, పూతలపట్టు నుంచి ఏకగ్రీవంగా ఎన్నికయ్యారు. జిల్లాలోని 27 జడ్పీటీసీ స్థానాల్లో 23 కూటమి వద్ద ఉన్నాయి.",
+   "src": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/4-aspirants-lobby-for-chittoor-zp-chairperson-post-2003648",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-chittoor",
+   "pts": [
+    "అక్టోబర్ 13 గెజిట్ ద్వారా మహిళకు రిజర్వ్",
+    "ఆశావహుల కుటుంబాలు అమరావతిలో నేతలతో భేటీ",
+    "గుడిపాల, పలసముద్రం నుంచీ పోటీదారులు"
+   ],
+   "why": "జిల్లా పరిషత్ నాయకత్వం చిత్తూరు జిల్లా గ్రామీణాభివృద్ధి నిర్ణయాలను నిర్దేశిస్తుంది.",
+   "pub": "2026-11-12T00:40+05:30",
+   "en": {
+    "h": "Four TDP women in race for Chittoor ZP chairperson post",
+    "p": "Four women ZPTC members of the ruling TDP are lobbying for the Chittoor zilla parishad chairperson post, reserved for a woman (general), Deccan Chronicle reported. Two of them were elected unopposed from Bangarupalem and Puthalapattu. The ruling alliance holds 23 of the district's 27 ZPTC seats.",
+    "pts": [
+     "Reserved for a woman via October 13 gazette",
+     "Aspirants' families meeting leaders in Amaravati",
+     "Contenders also from Gudipala and Palasamudram"
+    ],
+    "why": "ZP leadership steers rural development decisions in Chittoor district.",
+    "cat": "AP · Chittoor",
+    "statl": "Aspirants for ZP chairperson"
+   },
+   "hi": {
+    "h": "चित्तूर जिला परिषद अध्यक्ष पद के लिए चार टीडीपी महिलाएं दौड़ में",
+    "p": "डेक्कन क्रॉनिकल के अनुसार महिला (सामान्य) के लिए आरक्षित चित्तूर जिला परिषद अध्यक्ष पद के लिए सत्तारूढ़ टीडीपी की चार महिला जेडपीटीसी सदस्य प्रयास कर रही हैं। इनमें से दो बंगारुपालेम और पूतलपट्टू से निर्विरोध चुनी गईं। जिले की 27 जेडपीटीसी सीटों में से 23 गठबंधन के पास हैं।",
+    "pts": [
+     "13 अक्टूबर के गजट से महिला के लिए आरक्षित",
+     "दावेदारों के परिवार अमरावती में नेताओं से मिले",
+     "गुडिपाला और पलसमुद्रम से भी दावेदार"
+    ],
+    "why": "जिला परिषद का नेतृत्व चित्तूर जिले के ग्रामीण विकास फैसले तय करता है।",
+    "cat": "आंध्र प्रदेश · चित्तूर",
+    "statl": "जिला परिषद अध्यक्ष पद के दावेदार"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
+  {
+   "cat": "ఏపీ · ప్రకాశం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "తుపాను",
+   "statl": "ప్రభావిత గ్రామాల్లో విద్యుత్ పునరుద్ధరణ",
+   "h": "ప్రకాశం తుపాను ప్రభావిత గ్రామాల్లో విద్యుత్ పునరుద్ధరణ పనుల తనిఖీ",
+   "p": "ప్రకాశం జిల్లాలో తుపాను ప్రభావిత ప్రాంతాల్లో విద్యుత్ పునరుద్ధరణ పనులను ఏపీసీపీడీసీఎల్ డైరెక్టర్ (ప్రాజెక్ట్స్, హెచ్‌ఆర్‌డీ) టీవీఎస్ఎన్ మూర్తి బుధవారం పరిశీలించారని హన్స్ ఇండియా కథనం. ఉప్పుగుండూరు, అమ్మనబ్రోలు, కనపర్తి, వీఆర్ పాలెం గ్రామాల్లో దెబ్బతిన్న లైన్లు, ట్రాన్స్‌ఫార్మర్లు, స్తంభాలను చూశారు. గ్రామాలు, పొలాలకు త్వరగా విద్యుత్ ఇవ్వాలని ఆదేశించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/ongole/power-restoration-works-inspected-1141183",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-prakasam",
+   "loc": "ఉప్పుగుండూరు",
+   "pts": [
+    "పొలాల్లో పడిన తీగలు, స్తంభాల పరిశీలన",
+    "పునరుద్ధరణ పురోగతిపై సమీక్ష",
+    "ప్రభావిత ఇళ్ల సంఖ్య కథనంలో లేదు"
+   ],
+   "why": "తుపాను తర్వాత విద్యుత్ లేక ఇబ్బంది పడుతున్న ప్రకాశం రైతులు, గ్రామస్తులకు ఇది కీలకం.",
+   "pub": "2026-11-12T01:40+05:30",
+   "en": {
+    "h": "Power restoration works inspected in cyclone-hit Prakasam villages",
+    "p": "APCPDCL Director (Projects and HRD) TVSN Murthy on Wednesday inspected power restoration works in cyclone-hit areas of Prakasam district, The Hans India reported. He visited Uppugundur, Ammanabrolu, Kanaparthi and VR Palem, checking damaged lines, transformers and poles, and directed officials to restore supply to villages and fields at the earliest.",
+    "pts": [
+     "Checked wires and poles lying in fields",
+     "Reviewed restoration progress",
+     "Number of affected homes not in the report"
+    ],
+    "why": "This matters to Prakasam farmers and villagers left without power after the cyclone.",
+    "cat": "AP · Prakasam",
+    "statl": "Power restoration in affected villages"
+   },
+   "hi": {
+    "h": "प्रकाशम के चक्रवात प्रभावित गांवों में बिजली बहाली कार्यों का निरीक्षण",
+    "p": "द हंस इंडिया के अनुसार एपीसीपीडीसीएल के निदेशक (परियोजना और एचआरडी) टीवीएसएन मूर्ति ने बुधवार को प्रकाशम जिले के चक्रवात प्रभावित क्षेत्रों में बिजली बहाली कार्यों का निरीक्षण किया। उन्होंने उप्पुगुंडूर, अम्मनब्रोलु, कनपर्ति और वीआर पालेम में क्षतिग्रस्त लाइनें, ट्रांसफार्मर और खंभे देखे और गांवों व खेतों में जल्द बिजली बहाल करने का निर्देश दिया।",
+    "pts": [
+     "खेतों में गिरे तार और खंभों की जांच",
+     "बहाली की प्रगति की समीक्षा",
+     "प्रभावित घरों की संख्या रिपोर्ट में नहीं"
+    ],
+    "why": "चक्रवात के बाद बिना बिजली के परेशान प्रकाशम के किसानों और ग्रामीणों के लिए यह अहम है।",
+    "cat": "आंध्र प्रदेश · प्रकाशम",
+    "statl": "प्रभावित गांवों में बिजली बहाली"
+   },
+   "d": "12.11.2026",
+   "t": "06:35"
+  },
   {
    "cat": "హైదరాబాద్ · చెరువులు",
    "col": "--c-water",
@@ -1711,610 +2414,6 @@
    "t": "19:35"
   },
   {
-   "cat": "హైదరాబాద్ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "₹1,000 కోట్లు",
-   "statl": "ఓయూకు విడుదల చేయాలని డిమాండ్",
-   "h": "ఓయూ హాస్టళ్ల కూల్చివేత ఆపాలి: బీఆర్ఎస్వీ డిమాండ్",
-   "p": "ఉస్మానియా యూనివర్సిటీలో ఈ1, ఈ2, డి హాస్టళ్ల కూల్చివేతను ఆపి, విద్యుత్, నీటి సరఫరా పునరుద్ధరించాలని బీఆర్ఎస్వీ బుధవారం డిమాండ్ చేసింది. ఓయూ రిజిస్ట్రార్ ప్రొ. జి. నరేశ్ రెడ్డికి వినతిపత్రం ఇచ్చిన బీఆర్ఎస్వీ ప్రధాన కార్యదర్శి జంగయ్య, ఉద్యోగ పోటీ పరీక్షలకు సిద్ధమవుతున్న విద్యార్థులు వసతి లేక ఇబ్బంది పడుతున్నారని అన్నారు. వర్సిటీకి హామీ ఇచ్చిన ₹1,000 కోట్లు విడుదల చేయాలని కోరారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/brsv-urges-ou-to-halt-demolition-of-hostels-restore-utilities",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "ఉస్మానియా యూనివర్సిటీ",
-   "pts": [
-    "ఈ1, ఈ2, డి హాస్టళ్ల కూల్చివేత ఆపాలని డిమాండ్",
-    "విద్యుత్, నీటి సరఫరా పునరుద్ధరించాలని వినతి",
-    "ఖాళీ పోస్టుల భర్తీకి నోటిఫికేషన్లు కోరిన బీఆర్ఎస్వీ"
-   ],
-   "why": "ఓయూ హాస్టళ్లలో ఉండి పోటీ పరీక్షలకు సిద్ధమవుతున్న విద్యార్థుల వసతిపై ప్రభావం ఉంది.",
-   "pub": "2026-11-11T19:30+05:30",
-   "en": {
-    "h": "Stop demolition of OU hostels: BRSV demands",
-    "p": "The BRSV on Wednesday demanded that Osmania University halt demolition of its E1, E2 and D hostels and restore power and water supply. Submitting a representation to OU Registrar Prof G Naresh Reddy, BRSV general secretary Jangaiah said students preparing for job exams were left without accommodation. He sought release of the Rs 1,000 crore promised to the university.",
-    "pts": [
-     "Demand to halt demolition of E1, E2, D hostels",
-     "Plea to restore power and water supply",
-     "BRSV seeks notifications for vacant posts"
-    ],
-    "why": "It affects OU hostel students preparing for competitive exams.",
-    "cat": "Hyderabad · Education",
-    "statl": "Sought for OU"
-   },
-   "hi": {
-    "h": "ओयू हॉस्टलों को गिराना रोका जाए: बीआरएसवी की मांग",
-    "p": "बीआरएसवी ने बुधवार को उस्मानिया यूनिवर्सिटी से ई1, ई2 और डी हॉस्टलों को गिराना रोकने और बिजली-पानी की आपूर्ति बहाल करने की मांग की। ओयू रजिस्ट्रार प्रो. जी. नरेश रेड्डी को ज्ञापन देते हुए बीआरएसवी महासचिव जंगय्या ने कहा कि नौकरी की परीक्षाओं की तैयारी कर रहे छात्र बिना आवास के रह गए हैं। उन्होंने यूनिवर्सिटी को वादा किए गए ₹1,000 करोड़ जारी करने की मांग की।",
-    "pts": [
-     "ई1, ई2, डी हॉस्टल गिराना रोकने की मांग",
-     "बिजली और पानी आपूर्ति बहाल करने की अपील",
-     "बीआरएसवी ने रिक्त पदों पर अधिसूचना मांगी"
-    ],
-    "why": "इससे प्रतियोगी परीक्षाओं की तैयारी कर रहे ओयू हॉस्टल छात्र प्रभावित हैं।",
-    "cat": "हैदराबाद · शिक्षा",
-    "statl": "ओयू के लिए मांग"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "భారత్ · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "~1,000",
-   "statl": "ఉద్యోగాలపై ప్రభావం (నివేదికలు)",
-   "h": "బెంగళూరులో క్వాల్‌కామ్ లేఆఫ్‌లు ప్రారంభం: హైదరాబాద్‌కూ విస్తరించే అవకాశం",
-   "p": "ప్రపంచవ్యాప్త పునర్వ్యవస్థీకరణలో భాగంగా క్వాల్‌కామ్ భారత్‌లో ఉద్యోగుల తొలగింపు ప్రారంభించిందని ఐఏఎన్ఎస్ కథనం. నివేదికల ప్రకారం సుమారు 1,000 మంది, అంటే భారత్ సిబ్బందిలో 5–6 శాతం మందిపై ప్రభావం పడవచ్చు. బెంగళూరులో మొదలైన ఈ ప్రక్రియ రానున్న రోజుల్లో హైదరాబాద్, ఢిల్లీ-ఎన్‌సీఆర్, చెన్నై కేంద్రాలకూ చేరవచ్చని అంచనా. పరిహార నిబంధనలను సంస్థ అధికారికంగా ధృవీకరించలేదు.",
-   "src": "Telangana Today (IANS)",
-   "url": "https://telanganatoday.com/qualcomm-begins-bengaluru-layoffs-hyderabad-may-follow",
-   "sec": [
-    "india",
-    "jobs",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "బెంగళూరులో సీనియర్ ఇంజినీర్లపై ప్రధానంగా ప్రభావం",
-    "హైదరాబాద్, చెన్నై, ఢిల్లీ-ఎన్‌సీఆర్‌కు విస్తరించే అవకాశం",
-    "అక్టోబర్ 20న సీఈఓ పునర్వ్యవస్థీకరణ ప్రకటన"
-   ],
-   "why": "హైదరాబాద్‌లోని క్వాల్‌కామ్ ఇంజినీరింగ్, పరిశోధన కేంద్రాల ఉద్యోగులపై ప్రభావం పడవచ్చు.",
-   "pub": "2026-11-11T19:10+05:30",
-   "en": {
-    "h": "Qualcomm begins layoffs in Bengaluru; Hyderabad may follow",
-    "p": "Qualcomm has begun laying off employees in India as part of a global restructuring, IANS reported. Reports say about 1,000 staff, nearly 5–6 per cent of its India workforce, could be affected. The process began in Bengaluru and is expected to reach its Hyderabad, Delhi-NCR and Chennai centres in the coming days. The company has not officially confirmed the severance terms.",
-    "pts": [
-     "Senior engineers in Bengaluru mainly hit",
-     "May extend to Hyderabad, Chennai, Delhi-NCR",
-     "CEO announced restructuring on October 20"
-    ],
-    "why": "Employees at Qualcomm's Hyderabad engineering and research centres may be affected.",
-    "cat": "India · Jobs",
-    "statl": "Jobs may be hit (reports)"
-   },
-   "hi": {
-    "h": "क्वालकॉम ने बेंगलुरु में छंटनी शुरू की: हैदराबाद में भी हो सकती है",
-    "p": "आईएएनएस के अनुसार वैश्विक पुनर्गठन के तहत क्वालकॉम ने भारत में कर्मचारियों की छंटनी शुरू कर दी है। रिपोर्टों के मुताबिक करीब 1,000 कर्मचारी, यानी भारत के स्टाफ का 5–6 प्रतिशत, प्रभावित हो सकते हैं। प्रक्रिया बेंगलुरु से शुरू हुई और आने वाले दिनों में हैदराबाद, दिल्ली-एनसीआर और चेन्नई केंद्रों तक पहुंच सकती है। कंपनी ने मुआवज़े की शर्तों की आधिकारिक पुष्टि नहीं की है।",
-    "pts": [
-     "बेंगलुरु में मुख्य रूप से वरिष्ठ इंजीनियर प्रभावित",
-     "हैदराबाद, चेन्नई, दिल्ली-एनसीआर तक विस्तार संभव",
-     "सीईओ ने 20 अक्टूबर को पुनर्गठन की घोषणा की"
-    ],
-    "why": "हैदराबाद के क्वालकॉम इंजीनियरिंग और रिसर्च केंद्रों के कर्मचारी प्रभावित हो सकते हैं।",
-    "cat": "भारत · नौकरियां",
-    "statl": "नौकरियों पर असर (रिपोर्ट)"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "సంగారెడ్డి · రోడ్డు ప్రమాదం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "4",
-   "statl": "మందికి తీవ్ర గాయాలు",
-   "h": "కొల్లూరు వద్ద ఓఆర్ఆర్‌పై వరుస ప్రమాదాలు: నలుగురికి తీవ్ర గాయాలు",
-   "p": "సంగారెడ్డి జిల్లా కొల్లూరు సమీపంలో ఔటర్ రింగ్ రోడ్డుపై బుధవారం వరుసగా రెండు ప్రమాదాలు జరిగాయని ఇండ్‌టుడే కథనం. ఓ కారు లారీని ఢీకొనగా, అందులోని నలుగురు బయటకు దిగారు. వెనుక నుంచి వచ్చిన మరో కారు వారిని ఢీకొనడంతో నలుగురూ తీవ్రంగా గాయపడ్డారు. అటుగా వెళ్తున్న ఎమ్మెల్సీ అంజిరెడ్డి వారిని తన కారులో హైదరాబాద్ ఆసుపత్రికి తరలించారు. కొల్లూరు పోలీసులు కేసు నమోదు చేశారు.",
-   "src": "IndToday",
-   "url": "https://indtoday.com/kollur-road-accidents-four-seriously-injured-in-seperate-mishaps/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "sangareddy",
-   "loc": "కొల్లూరు",
-   "pts": [
-    "కారు-లారీ ఢీ తర్వాత మరో కారు ఢీకొంది",
-    "గాయపడిన వారిని ఆసుపత్రికి తరలించిన ఎమ్మెల్సీ అంజిరెడ్డి",
-    "కొల్లూరు పోలీసుల కేసు నమోదు, దర్యాప్తు"
-   ],
-   "why": "ఓఆర్ఆర్‌పై ప్రమాదం తర్వాత వాహనాల నుంచి దిగడం ఎంత ప్రమాదకరమో ఈ ఘటన చూపుతోంది.",
-   "pub": "2026-11-11T19:17+05:30",
-   "en": {
-    "h": "Back-to-back crashes on ORR near Kollur: four seriously injured",
-    "p": "Two consecutive accidents occurred on the Outer Ring Road near Kollur in Sangareddy district on Wednesday, IndToday reported. A car hit a lorry and four occupants stepped out. Another car coming from behind then hit them, seriously injuring all four. MLC Anji Reddy, passing by, took them to a hospital in Hyderabad in his car. Kollur police registered a case.",
-    "pts": [
-     "Car hit four after a car-lorry collision",
-     "MLC Anji Reddy took injured to hospital",
-     "Kollur police register case, probe on"
-    ],
-    "why": "It shows how risky it is to step out of vehicles after a crash on the ORR.",
-    "cat": "Sangareddy · Road accident",
-    "statl": "Seriously injured"
-   },
-   "hi": {
-    "h": "कोल्लूर के पास ओआरआर पर लगातार हादसे: चार गंभीर रूप से घायल",
-    "p": "इंडटुडे के अनुसार संगारेड्डी ज़िले में कोल्लूर के पास आउटर रिंग रोड पर बुधवार को लगातार दो हादसे हुए। एक कार लॉरी से टकराई और उसमें सवार चार लोग बाहर उतरे। पीछे से आई दूसरी कार ने उन्हें टक्कर मार दी, जिससे चारों गंभीर रूप से घायल हो गए। वहां से गुज़र रहे एमएलसी अंजी रेड्डी उन्हें अपनी कार में हैदराबाद के अस्पताल ले गए। कोल्लूर पुलिस ने मामला दर्ज किया।",
-    "pts": [
-     "कार-लॉरी टक्कर के बाद दूसरी कार ने चार को टक्कर मारी",
-     "एमएलसी अंजी रेड्डी घायलों को अस्पताल ले गए",
-     "कोल्लूर पुलिस ने मामला दर्ज कर जांच शुरू की"
-    ],
-    "why": "यह दिखाता है कि ओआरआर पर हादसे के बाद वाहन से उतरना कितना जोखिम भरा है।",
-    "cat": "संगारेड्डी · सड़क हादसा",
-    "statl": "गंभीर रूप से घायल"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "భారత్ · ఫుట్‌బాల్",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "1-0",
-   "statl": "మాల్దీవులపై భారత్ విజయం",
-   "h": "శాఫ్ ఛాంపియన్‌షిప్: మాల్దీవులపై గెలిచి సెమీస్‌కు భారత్",
-   "p": "ఢాకాలో బుధవారం జరిగిన శాఫ్ ఛాంపియన్‌షిప్ గ్రూప్-బి మ్యాచ్‌లో భారత్ 1-0తో మాల్దీవులను ఓడించి సెమీఫైనల్‌కు చేరిందని పీటీఐ తెలిపింది. 38వ నిమిషంలో అబ్దుల్ రబీహ్‌ను బాక్స్‌లో పడగొట్టడంతో వచ్చిన పెనాల్టీని సుహైల్ అహ్మద్ భట్ గోల్‌గా మలిచాడు. సీనియర్ జట్టు న్యూజిలాండ్‌తో స్నేహపూర్వక మ్యాచ్‌లు ఆడుతుండటంతో, అండర్-23 కోచ్ నౌషాద్ మూసా నేతృత్వంలో యువ జట్టు బరిలోకి దిగింది.",
-   "src": "Telangana Today (PTI)",
-   "url": "https://telanganatoday.com/india-advance-to-saff-last-four-after-1-0-victory",
-   "sec": [
-    "india",
-    "sports"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "38వ నిమిషంలో సుహైల్ భట్ పెనాల్టీ గోల్",
-    "గ్రూప్-బి నుంచి సెమీఫైనల్‌కు భారత్",
-    "నౌషాద్ మూసా శిక్షణలో యువ జట్టు"
-   ],
-   "why": "భారత ఫుట్‌బాల్ అభిమానులకు, యువ ఆటగాళ్లకు ఇది ప్రోత్సాహకర ఫలితం.",
-   "pub": "2026-11-11T19:07+05:30",
-   "en": {
-    "h": "SAFF Championship: India beat Maldives to reach semis",
-    "p": "India beat Maldives 1-0 in a SAFF Championship Group B match in Dhaka on Wednesday to reach the semifinals, PTI reported. Suhail Ahmad Bhat converted a 38th-minute penalty awarded after Abdul Rabeeh was fouled in the box. With the senior team playing friendlies against New Zealand, a young side led by Under-23 coach Naushad Moosa took the field.",
-    "pts": [
-     "Suhail Bhat penalty goal in 38th minute",
-     "India reach semifinals from Group B",
-     "Young squad under coach Naushad Moosa"
-    ],
-    "why": "An encouraging result for Indian football fans and young players.",
-    "cat": "India · Football",
-    "statl": "India beat Maldives"
-   },
-   "hi": {
-    "h": "सैफ चैंपियनशिप: मालदीव को हराकर भारत सेमीफाइनल में",
-    "p": "पीटीआई के अनुसार ढाका में बुधवार को सैफ चैंपियनशिप के ग्रुप-बी मैच में भारत ने मालदीव को 1-0 से हराकर सेमीफाइनल में जगह बनाई। अब्दुल रबीह को बॉक्स में गिराए जाने पर 38वें मिनट में मिली पेनल्टी को सुहैल अहमद भट ने गोल में बदला। सीनियर टीम न्यूज़ीलैंड से दोस्ताना मैच खेल रही है, इसलिए अंडर-23 कोच नौशाद मूसा के नेतृत्व में युवा टीम उतरी।",
-    "pts": [
-     "38वें मिनट में सुहैल भट का पेनल्टी गोल",
-     "ग्रुप-बी से भारत सेमीफाइनल में",
-     "कोच नौशाद मूसा के नेतृत्व में युवा टीम"
-    ],
-    "why": "भारतीय फुटबॉल प्रशंसकों और युवा खिलाड़ियों के लिए उत्साहजनक नतीजा।",
-    "cat": "भारत · फुटबॉल",
-    "statl": "भारत ने मालदीव को हराया"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "134",
-   "statl": "కొత్త టీజీపీఎస్‌ల ప్రతిపాదన",
-   "h": "ప్రభుత్వ పాఠశాలల విలీనం ప్రారంభం: తెలంగాణ పబ్లిక్ స్కూళ్ల ఏర్పాటు",
-   "p": "ఒకే క్యాంపస్‌లో పలు ప్రభుత్వ పాఠశాలలను విలీనం చేసి తెలంగాణ పబ్లిక్ స్కూళ్లు (టీజీపీఎస్) ఏర్పాటు చేయాలని పాఠశాల విద్యాశాఖ డీఈఓలను ఆదేశించిందని తెలంగాణ టుడే కథనం. ఆరుట్ల, పోల్కంపల్లి, వనగూరు, మంచాలలో ఇప్పటికే టీజీపీఎస్‌లు ఏర్పాటయ్యాయి. ప్రతి గ్రామీణ నియోజకవర్గానికి ఒకటి చొప్పున మరో 134 ప్రతిపాదించారు. 5–10 కి.మీ. బస్సు ప్రయాణం ఆర్టీఈ పరిమితులకు విరుద్ధమని ఉపాధ్యాయులు అంటున్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/telangana-begins-merging-government-schools-to-establish-tgps",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "ఎంపీపీఎస్, జడ్పీహెచ్ఎస్, కేజీబీవీలు ఒకే క్యాంపస్‌లోకి",
-    "కొడంగల్, మధిరకు తొమ్మిది చొప్పున మంజూరు",
-    "సుమారు 7,500 బడుల్లో తక్కువ లేదా సున్నా నమోదు"
-   ],
-   "why": "గ్రామీణ విద్యార్థులు బడికి వెళ్లే దూరం, తల్లిదండ్రుల ఎంపికలపై ఈ మార్పు ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-11T18:59+05:30",
-   "en": {
-    "h": "Merger of government schools begins to set up Telangana Public Schools",
-    "p": "The School Education department has directed DEOs to merge several government schools on one campus to form Telangana Public Schools (TGPS), Telangana Today reported. TGPS have already been set up at Arutla, Polkampally, Vanguru and Manchala. Another 134 are proposed, one per rural constituency. Teachers say bus travel of 5–10 km goes against RTE limits.",
-    "pts": [
-     "MPPS, ZPHS, KGBVs to share one campus",
-     "Nine each sanctioned for Kodangal, Madhira",
-     "About 7,500 schools have low or nil enrolment"
-    ],
-    "why": "The change affects how far rural students travel to school and parents' choices.",
-    "cat": "Telangana · Education",
-    "statl": "New TGPS proposed"
-   },
-   "hi": {
-    "h": "सरकारी स्कूलों का विलय शुरू: तेलंगाना पब्लिक स्कूलों की स्थापना",
-    "p": "तेलंगाना टुडे के अनुसार स्कूल शिक्षा विभाग ने डीईओ को कई सरकारी स्कूलों को एक परिसर में मिलाकर तेलंगाना पब्लिक स्कूल (टीजीपीएस) बनाने का निर्देश दिया है। अरुट्ला, पोल्कमपल्ली, वनगुरु और मंचाला में टीजीपीएस पहले ही बन चुके हैं। हर ग्रामीण विधानसभा क्षेत्र में एक के हिसाब से 134 और प्रस्तावित हैं। शिक्षकों का कहना है कि 5–10 किमी बस यात्रा आरटीई सीमाओं के खिलाफ है।",
-    "pts": [
-     "एमपीपीएस, जेडपीएचएस, केजीबीवी एक परिसर में",
-     "कोडंगल और मधिरा के लिए नौ-नौ मंज़ूर",
-     "करीब 7,500 स्कूलों में कम या शून्य नामांकन"
-    ],
-    "why": "यह बदलाव ग्रामीण छात्रों की स्कूल दूरी और अभिभावकों के विकल्पों को प्रभावित करेगा।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "नए टीजीपीएस प्रस्तावित"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "నల్గొండ · కార్మికులు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "నవంబర్ 15–18",
-   "statl": "నల్గొండలో కిసాన్ సభ మహాసభలు",
-   "h": "ప్రైవేటీకరణకు వ్యతిరేకంగా పోరాడుదాం: నల్గొండలో సీఐటీయూ బైక్ ర్యాలీ",
-   "p": "కేంద్ర ప్రభుత్వ కార్పొరేట్ అనుకూల విధానాలకు వ్యతిరేకంగా ఐక్య పోరాటాలు చేయాలని, ప్రభుత్వ రంగ సంస్థలను కాపాడుకోవాలని సీఐటీయూ రాష్ట్ర ఉపాధ్యక్షుడు తుమ్మల వీరారెడ్డి పిలుపునిచ్చారు. బుధవారం ఎఫ్‌సీఐ హమాలీ వర్కర్స్ యూనియన్ ఆధ్వర్యంలో నల్గొండలో సీఐటీయూ కార్యాలయం నుంచి కలెక్టరేట్ వరకు బైక్ ర్యాలీ జరిగింది. నవంబర్ 15–18 తేదీల్లో నల్గొండలో జరిగే అఖిల భారత కిసాన్ సభ 36వ జాతీయ మహాసభల బహిరంగ సభను జయప్రదం చేయాలని కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nalgonda/let-us-fight-against-privatization-2557748",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "loc": "నల్గొండ",
-   "pts": [
-    "సీఐటీయూ కార్యాలయం నుంచి కలెక్టరేట్ వరకు ర్యాలీ",
-    "ప్రభుత్వ రంగ సంస్థల రక్షణకు పిలుపు",
-    "15న కిసాన్ సభ బహిరంగ సభ"
-   ],
-   "why": "నల్గొండలో జరిగే కిసాన్ సభ జాతీయ మహాసభలు జిల్లా రైతులు, కార్మికులకు సంబంధించినవి.",
-   "pub": "2026-11-11T18:45+05:30",
-   "en": {
-    "h": "Let us fight privatisation: CITU bike rally in Nalgonda",
-    "p": "CITU state vice-president Tummala Veera Reddy called for united struggles against the Centre's pro-corporate policies and to protect public sector undertakings. On Wednesday, the FCI Hamali Workers Union held a bike rally in Nalgonda from the CITU office to the Collectorate. He urged people to make a success of the public meeting of the All India Kisan Sabha's 36th national conference in Nalgonda, to be held from November 15 to 18.",
-    "pts": [
-     "Rally from CITU office to Collectorate",
-     "Call to protect public sector undertakings",
-     "Kisan Sabha public meeting on the 15th"
-    ],
-    "why": "The Kisan Sabha national conference in Nalgonda concerns the district's farmers and workers.",
-    "cat": "Nalgonda · Workers",
-    "statl": "Kisan Sabha conference in Nalgonda"
-   },
-   "hi": {
-    "h": "निजीकरण के खिलाफ लड़ें: नलगोंडा में सीटू की बाइक रैली",
-    "p": "सीटू के राज्य उपाध्यक्ष तुम्मला वीरा रेड्डी ने केंद्र की कॉरपोरेट-समर्थक नीतियों के खिलाफ एकजुट संघर्ष और सार्वजनिक उपक्रमों की रक्षा का आह्वान किया। बुधवार को एफसीआई हमाली वर्कर्स यूनियन ने नलगोंडा में सीटू कार्यालय से कलेक्टरेट तक बाइक रैली निकाली। उन्होंने 15 से 18 नवंबर तक नलगोंडा में होने वाले अखिल भारतीय किसान सभा के 36वें राष्ट्रीय सम्मेलन की जनसभा को सफल बनाने की अपील की।",
-    "pts": [
-     "सीटू कार्यालय से कलेक्टरेट तक रैली",
-     "सार्वजनिक उपक्रमों की रक्षा का आह्वान",
-     "15 तारीख को किसान सभा की जनसभा"
-    ],
-    "why": "नलगोंडा में किसान सभा का राष्ट्रीय सम्मेलन ज़िले के किसानों और मज़दूरों से जुड़ा है।",
-    "cat": "नलगोंडा · मज़दूर",
-    "statl": "नलगोंडा में किसान सभा सम्मेलन"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · సదస్సు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "70+",
-   "statl": "దేశాల నుంచి ప్రతినిధులు",
-   "h": "హైటెక్స్‌లో 13, 14న భారత్ సమ్మిట్: 70కి పైగా దేశాల ప్రతినిధులు",
-   "p": "నవంబర్ 13, 14 తేదీల్లో హైటెక్స్‌లో జరిగే రెండో భారత్ సమ్మిట్‌కు 70కి పైగా దేశాల నుంచి 1,000 మందికి పైగా ప్రతినిధులు హాజరవుతారని ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క తెలిపారు. హైటెక్స్‌లో విలేకరుల సమావేశంలో ఆయన మాట్లాడారు. గాంధీ అహింస, నెహ్రూ అలీనోద్యమం, మిశ్రమ ఆర్థిక విధానం ప్రధాన అంశాలని చెప్పారు. మంత్రి శ్రీధర్ బాబు, సల్మాన్ ఖుర్షీద్, టీపీసీసీ అధ్యక్షుడు మహేశ్ కుమార్ గౌడ్ పాల్గొన్నారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hyderabad-bharat-summit-to-host-delegates-from-over-70-countries-3573976/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "హైటెక్స్",
-   "pts": [
-    "సీఎం రేవంత్ రెడ్డి నేతృత్వంలో రెండు రోజుల సదస్సు",
-    "1,000 మందికి పైగా ప్రతినిధుల హాజరు అంచనా",
-    "గాంధీ, నెహ్రూ ఆలోచనలపై చర్చలు"
-   ],
-   "why": "హైదరాబాద్‌లో అంతర్జాతీయ సదస్సు కారణంగా హైటెక్స్ పరిసరాల్లో రద్దీ ఉండే అవకాశం ఉంది.",
-   "pub": "2026-11-11T14:03+05:30",
-   "en": {
-    "h": "Bharat Summit at HITEX on 13–14: delegates from 70+ countries",
-    "p": "Deputy CM Mallu Bhatti Vikramarka said the second Bharat Summit, to be held at HITEX on November 13 and 14, will bring more than 1,000 delegates from over 70 countries. He spoke at a press conference at HITEX. He said Gandhi's ahimsa, Nehru's non-alignment and the mixed economic model are the main themes. Minister Sridhar Babu, Salman Khurshid and TPCC chief Mahesh Kumar Goud were present.",
-    "pts": [
-     "Two-day summit led by CM Revanth Reddy",
-     "Over 1,000 delegates expected",
-     "Discussions on Gandhi and Nehru's ideas"
-    ],
-    "why": "The international summit may bring heavy traffic around HITEX in Hyderabad.",
-    "cat": "Hyderabad · Summit",
-    "statl": "Countries sending delegates"
-   },
-   "hi": {
-    "h": "हाईटेक्स में 13-14 को भारत समिट: 70 से अधिक देशों के प्रतिनिधि",
-    "p": "उपमुख्यमंत्री मल्लू भट्टी विक्रमार्क ने कहा कि 13 और 14 नवंबर को हाईटेक्स में होने वाले दूसरे भारत समिट में 70 से अधिक देशों के 1,000 से ज़्यादा प्रतिनिधि आएंगे। वे हाईटेक्स में संवाददाता सम्मेलन में बोल रहे थे। उन्होंने कहा कि गांधी की अहिंसा, नेहरू की गुटनिरपेक्षता और मिश्रित अर्थव्यवस्था मुख्य विषय हैं। मंत्री श्रीधर बाबू, सलमान खुर्शीद और टीपीसीसी अध्यक्ष महेश कुमार गौड़ मौजूद थे।",
-    "pts": [
-     "सीएम रेवंत रेड्डी के नेतृत्व में दो दिवसीय समिट",
-     "1,000 से अधिक प्रतिनिधियों के आने की उम्मीद",
-     "गांधी और नेहरू के विचारों पर चर्चा"
-    ],
-    "why": "अंतरराष्ट्रीय समिट के कारण हैदराबाद में हाईटेक्स के आसपास भीड़ रह सकती है।",
-    "cat": "हैदराबाद · समिट",
-    "statl": "देशों से प्रतिनिधि"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
-  },
-  {
-   "cat": "పెద్దపల్లి · రైల్వే",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "గూడ్స్ రైలు",
-   "statl": "పట్టాలు తప్పిన ఇంజిన్",
-   "h": "పెద్దపల్లిలో పట్టాలు తప్పిన గూడ్స్ రైలు ఇంజిన్: కారణంపై దర్యాప్తు",
-   "p": "పెద్దపల్లి పట్టణంలోని కూనారం రైల్వే గేటు సమీపంలో బుధవారం ఓ గూడ్స్ రైలు ఇంజిన్ ప్రమాదవశాత్తు పట్టాలు తప్పింది. సమాచారం అందుకున్న రైల్వే అధికారులు ఘటనాస్థలాన్ని పరిశీలించారు. సాంకేతిక లోపమా లేక ట్రాక్ సమస్యా అనేది దర్యాప్తులో తేలాల్సి ఉందని అధికారులు తెలిపారు. ఆ మార్గంలో రైళ్ల రాకపోకలకు తాత్కాలికంగా అంతరాయం కలిగినట్లు సమాచారం. ట్రాక్ పునరుద్ధరణ పనులు ప్రారంభమయ్యాయి.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/karimnagar/goods-train-derails-in-peddapalli-2557633",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "peddapalli",
-   "loc": "కూనారం రైల్వే గేటు",
-   "pts": [
-    "కూనారం గేటు వద్ద ఇంజిన్ పట్టాలు తప్పింది",
-    "కారణంపై రైల్వే అధికారుల దర్యాప్తు",
-    "ట్రాక్ పునరుద్ధరణ పనులు ప్రారంభం"
-   ],
-   "why": "ఈ మార్గంలో ప్రయాణించే రైళ్లు, ప్రయాణికులపై తాత్కాలిక ప్రభావం పడే అవకాశం ఉంది.",
-   "pub": "2026-11-11T16:25+05:30",
-   "en": {
-    "h": "Goods train engine derails in Peddapalli; probe into cause",
-    "p": "The engine of a goods train accidentally derailed near the Koonaram railway gate in Peddapalli town on Wednesday. Railway officials reached the spot after being informed and inspected it. Officials said the probe must establish whether a technical fault or a track problem caused it. Train movement on the route was reportedly disrupted temporarily. Track restoration work has begun.",
-    "pts": [
-     "Engine derailed near Koonaram gate",
-     "Railway officials probing the cause",
-     "Track restoration work begun"
-    ],
-    "why": "Trains and passengers on this route may face temporary disruption.",
-    "cat": "Peddapalli · Railways",
-    "statl": "Engine derailed"
-   },
-   "hi": {
-    "h": "पेद्दापल्ली में मालगाड़ी का इंजन पटरी से उतरा: कारण की जांच",
-    "p": "पेद्दापल्ली शहर में कूनारम रेलवे गेट के पास बुधवार को एक मालगाड़ी का इंजन दुर्घटनावश पटरी से उतर गया। सूचना मिलने पर रेलवे अधिकारी मौके पर पहुंचे और जांच की। अधिकारियों ने कहा कि जांच से पता चलेगा कि तकनीकी खराबी थी या ट्रैक की समस्या। बताया गया कि इस मार्ग पर ट्रेनों की आवाजाही अस्थायी रूप से बाधित हुई। ट्रैक बहाली का काम शुरू हो गया है।",
-    "pts": [
-     "कूनारम गेट के पास इंजन पटरी से उतरा",
-     "रेलवे अधिकारी कारण की जांच कर रहे",
-     "ट्रैक बहाली का काम शुरू"
-    ],
-    "why": "इस मार्ग की ट्रेनों और यात्रियों पर अस्थायी असर पड़ सकता है।",
-    "cat": "पेद्दापल्ली · रेलवे",
-    "statl": "पटरी से उतरा इंजन"
-   },
-   "d": "11.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "ఏపీ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "నవంబర్ 26",
-   "statl": "మున్సిపల్ పోలింగ్ తేదీ",
-   "h": "ఏపీలో మరిన్ని పురపాలికలకు నవంబర్ 26న ఎన్నికలు: 13న నోటిఫికేషన్",
-   "p": "కోర్టు వివాదాలు తొలగిపోవడంతో పలు మున్సిపాలిటీలు, నగరపాలక సంస్థలకు నవంబర్ 26న ఎన్నికలు నిర్వహించాలని రాష్ట్ర ఎన్నికల సంఘం బుధవారం నిర్ణయించిందని ఆంధ్రజ్యోతి తెలిపింది. శ్రీకాకుళం, కాకినాడ, రాజమండ్రి, మంగళగిరి-తాడేపల్లి కార్పొరేషన్లతో పాటు భీమవరం, గుడివాడ, నరసరావుపేట, బాపట్ల, కావలి, శ్రీకాళహస్తి తదితర పురపాలికల్లో పోలింగ్ జరగనుంది. నవంబర్ 13న నోటిఫికేషన్ రావచ్చు; రిజర్వేషన్లు ఖరారయ్యాయి.",
-   "src": "Andhra Jyothy",
-   "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/guntur/ap-municipal-elections-november-26-vvnp-1575266.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "నాలుగు కార్పొరేషన్లు, పలు మున్సిపాలిటీల్లో పోలింగ్",
-    "అదే రోజు తొలి విడత పంచాయతీ ఎన్నికలు",
-    "ఈ సంస్థల రిజర్వేషన్లు ఇప్పటికే ఖరారు"
-   ],
-   "why": "ఈ పట్టణాల ఓటర్లు నవంబర్ 26న తమ స్థానిక ప్రతినిధులను ఎన్నుకోనున్నారు.",
-   "pub": "2026-11-11T15:34+05:30",
-   "en": {
-    "h": "AP: polls on November 26 for more municipal bodies; notification on 13th",
-    "p": "The State Election Commission decided on Wednesday to hold elections on November 26 for several municipalities and municipal corporations after court disputes were cleared, Andhra Jyothy reported. Polling will be held in the Srikakulam, Kakinada, Rajahmundry and Mangalagiri-Tadepalli corporations and municipalities including Bhimavaram, Gudivada, Narasaraopet, Bapatla, Kavali and Srikalahasti. The notification may come on November 13; reservations are finalised.",
-    "pts": [
-     "Polls in four corporations and several municipalities",
-     "First phase of panchayat polls the same day",
-     "Reservations for these bodies already finalised"
-    ],
-    "why": "Voters in these towns will elect their local representatives on November 26.",
-    "cat": "AP · Elections",
-    "statl": "Municipal polling date"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश: और नगर निकायों के चुनाव 26 नवंबर को, 13 को अधिसूचना",
-    "p": "आंध्र ज्योति के अनुसार, अदालती विवाद खत्म होने के बाद राज्य चुनाव आयोग ने बुधवार को कई नगरपालिकाओं और नगर निगमों के चुनाव 26 नवंबर को कराने का फैसला किया। श्रीकाकुलम, काकीनाडा, राजमुंदरी और मंगलगिरी-ताडेपल्ली निगमों के साथ भीमावरम, गुडिवाडा, नरसरावपेट, बापटला, कावली और श्रीकालहस्ती समेत नगरपालिकाओं में मतदान होगा। अधिसूचना 13 नवंबर को आ सकती है; आरक्षण तय हो चुका है।",
-    "pts": [
-     "चार निगमों और कई नगरपालिकाओं में मतदान",
-     "उसी दिन पंचायत चुनाव का पहला चरण",
-     "इन निकायों का आरक्षण पहले ही तय"
-    ],
-    "why": "इन शहरों के मतदाता 26 नवंबर को अपने स्थानीय प्रतिनिधि चुनेंगे।",
-    "cat": "आंध्र प्रदेश · चुनाव",
-    "statl": "नगर निकाय मतदान की तारीख"
-   },
-   "d": "11.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "కొత్తగూడెం · సింగరేణి",
-   "col": "--c-gov",
-   "art": "economy",
-   "stat": "20%",
-   "statl": "కార్మికులు డిమాండ్ చేస్తున్న బోనస్",
-   "h": "సింగరేణి వీకేసీఎం గనిలో కాంట్రాక్ట్ కార్మికుల ఆందోళన: పూర్తి బోనస్‌కు డిమాండ్",
-   "p": "సింగరేణి కొత్తగూడెం ఏరియా వీకేసీఎం గనిలో మట్టి తొలగింపు పనులు చేసే సోధా కంపెనీ కాంట్రాక్ట్ కార్మికుల ఆందోళన బుధవారం రెండో రోజుకు చేరింది. 20 శాతం పూర్తి బోనస్, చట్టబద్ధ హక్కులు కల్పించాలని జేఏసీ డిమాండ్ చేస్తోంది. చర్చల పేరుతో రెండు నెలలుగా బోనస్ ఆలస్యం చేశారని, మంగళవారం అతి తక్కువ మొత్తం జమ చేశారని నేతలు ఆరోపించారు. సింగరేణి యాజమాన్యం జోక్యం చేసుకోవాలని కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/khammam/badradri-kothagudem/we-will-not-call-off-the-protest-until-the-full-bonus-is-paid-2557729",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "bhadradri",
-   "loc": "రుద్రంపూర్",
-   "pts": [
-    "ఆందోళన రెండో రోజుకు చేరింది",
-    "20% పూర్తి బోనస్ చెల్లించాలని జేఏసీ డిమాండ్",
-    "లేదంటే నిరవధిక ఆందోళన హెచ్చరిక"
-   ],
-   "why": "సింగరేణి గనిలో పనిచేసే కాంట్రాక్ట్ కార్మికుల జీతభత్యాలకు సంబంధించిన విషయం ఇది.",
-   "pub": "2026-11-11T18:16+05:30",
-   "en": {
-    "h": "Contract workers protest at Singareni VKCM mine, demand full bonus",
-    "p": "Contract workers of Sodha company doing earth-removal work at the VKCM mine in Singareni's Kothagudem area continued their protest for a second day on Wednesday. Their JAC demands the full 20 per cent bonus and legal rights. Leaders alleged the bonus was delayed for two months in the name of talks and a very small amount was credited on Tuesday. They urged Singareni management to intervene.",
-    "pts": [
-     "Protest enters second day",
-     "JAC demands full 20% bonus",
-     "Warns of indefinite agitation otherwise"
-    ],
-    "why": "The issue concerns pay and benefits of contract workers at a Singareni mine.",
-    "cat": "Kothagudem · Singareni",
-    "statl": "Bonus demanded by workers"
-   },
-   "hi": {
-    "h": "सिंगरेणी वीकेसीएम खदान में ठेका मजदूरों का आंदोलन: पूरे बोनस की मांग",
-    "p": "सिंगरेणी के कोत्तागुडेम क्षेत्र की वीकेसीएम खदान में मिट्टी हटाने का काम करने वाली सोधा कंपनी के ठेका मजदूरों का आंदोलन बुधवार को दूसरे दिन जारी रहा। उनकी जेएसी पूरा 20 प्रतिशत बोनस और कानूनी अधिकार मांग रही है। नेताओं का आरोप है कि बातचीत के नाम पर दो महीने बोनस टाला गया और मंगलवार को बहुत कम राशि जमा की गई। उन्होंने सिंगरेणी प्रबंधन से हस्तक्षेप की मांग की।",
-    "pts": [
-     "आंदोलन दूसरे दिन पहुंचा",
-     "जेएसी की पूरे 20% बोनस की मांग",
-     "नहीं तो अनिश्चितकालीन आंदोलन की चेतावनी"
-    ],
-    "why": "यह मामला सिंगरेणी खदान के ठेका मजदूरों के वेतन-लाभ से जुड़ा है।",
-    "cat": "कोत्तागुडेम · सिंगरेणी",
-    "statl": "मजदूरों की बोनस मांग"
-   },
-   "d": "11.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "నల్గొండ · రైతులు",
-   "col": "--c-gov",
-   "art": "farm",
-   "stat": "36వ",
-   "statl": "అఖిల భారత కిసాన్ సభ జాతీయ మహాసభలు",
-   "h": "రైతు వ్యతిరేక విధానాలపై కవులు కలం ఎత్తాలి: నందిని సిధారెడ్డి",
-   "p": "నల్గొండ టీఎన్జీవో భవన్‌లో బుధవారం జరిగిన 'రైతు జనకవనం' కవి గాయక సమ్మేళనంలో కేంద్ర సాహిత్య అకాడమీ పురస్కార గ్రహీత డాక్టర్ నందిని సిధారెడ్డి మాట్లాడారు. రైతులను కాపాడాల్సిన ప్రభుత్వాలు పెట్టుబడిదారులకు అనుకూలంగా ఉన్నాయని ఆయన విమర్శించారు. నల్గొండలో అఖిల భారత కిసాన్ సభ 36వ జాతీయ మహాసభల సందర్భంగా తెలంగాణ సాహితి, ప్రజా నాట్యమండలి, రైతు సంఘం ఈ కార్యక్రమం నిర్వహించాయి.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nalgonda/poets-should-take-up-their-pens-against-anti-farmer-policies-2557738",
-   "sec": [
-    "telangana",
-    "culture",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "pts": [
-    "టీఎన్జీవో భవన్‌లో రైతు జనకవనం సమ్మేళనం",
-    "భూ సంస్కరణల చట్టం అమలుకు ఏనుగు నరసింహారెడ్డి పిలుపు",
-    "కిసాన్ సభ జాతీయ మహాసభల సందర్భంగా కార్యక్రమం"
-   ],
-   "why": "రైతుల సమస్యలపై సాహితీవేత్తల స్పందనను ఈ కార్యక్రమం ప్రతిబింబిస్తోంది.",
-   "pub": "2026-11-11T18:36+05:30",
-   "en": {
-    "h": "Poets should raise their pens against anti-farmer policies: Nandini Sidhareddy",
-    "p": "Central Sahitya Akademi awardee Dr Nandini Sidhareddy spoke at the 'Raitu Janakavanam' poets and singers meet at TNGO Bhavan in Nalgonda on Wednesday. He criticised governments meant to protect farmers for favouring investors. Telangana Sahiti, Praja Natya Mandali and the farmers' association organised the event during the 36th national conference of the All India Kisan Sabha in Nalgonda.",
-    "pts": [
-     "Raitu Janakavanam meet at TNGO Bhavan",
-     "Enugu Narasimha Reddy calls for land reform law enforcement",
-     "Held during Kisan Sabha national conference"
-    ],
-    "why": "The event reflects writers' response to farmers' problems.",
-    "cat": "Nalgonda · Farmers",
-    "statl": "All India Kisan Sabha national conference"
-   },
-   "hi": {
-    "h": "किसान विरोधी नीतियों के खिलाफ कवि कलम उठाएं: नंदिनी सिधारेड्डी",
-    "p": "केंद्रीय साहित्य अकादमी पुरस्कार विजेता डॉ. नंदिनी सिधारेड्डी ने बुधवार को नलगोंडा के टीएनजीओ भवन में 'रैतु जनकवनम' कवि-गायक सम्मेलन में बात की। उन्होंने आलोचना की कि किसानों की रक्षा करने वाली सरकारें निवेशकों के पक्ष में हैं। नलगोंडा में अखिल भारतीय किसान सभा के 36वें राष्ट्रीय सम्मेलन के दौरान तेलंगाना साहिती, प्रजा नाट्य मंडली और किसान संघ ने यह आयोजन किया।",
-    "pts": [
-     "टीएनजीओ भवन में रैतु जनकवनम सम्मेलन",
-     "एनुगु नरसिम्हा रेड्डी ने भूमि सुधार कानून लागू करने की मांग की",
-     "किसान सभा राष्ट्रीय सम्मेलन के दौरान आयोजन"
-    ],
-    "why": "यह कार्यक्रम किसानों की समस्याओं पर साहित्यकारों की प्रतिक्रिया दिखाता है।",
-    "cat": "नलगोंडा · किसान",
-    "statl": "अखिल भारतीय किसान सभा राष्ट्रीय सम्मेलन"
-   },
-   "d": "11.11.2026",
-   "t": "19:05"
-  },
-  {
-   "cat": "కామారెడ్డి · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "బీఆర్ఎస్",
-   "statl": "పార్టీలో చేరికలు",
-   "h": "డోంగ్లీలో బీఆర్ఎస్‌లో చేరిన కాంగ్రెస్, బీజేపీ నాయకులు",
-   "p": "కామారెడ్డి జిల్లా జుక్కల్ నియోజకవర్గం మద్నూర్-డోంగ్లీ మండల కేంద్రంలో బుధవారం బీఆర్ఎస్ కార్యకర్తల సమావేశం జరిగింది. మాజీ ఎమ్మెల్యే హన్మంత్ షిండే సమక్షంలో మోగా, సోనాల, వాడి, లింబూర్ తదితర గ్రామాలకు చెందిన పలువురు కాంగ్రెస్, బీజేపీ నాయకులు, కార్యకర్తలు బీఆర్ఎస్‌లో చేరారని నమస్తే తెలంగాణ తెలిపింది. ప్రజలకు అందుబాటులో ఉండి పార్టీని బలోపేతం చేయాలని షిండే పిలుపునిచ్చారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/nizamabad/massive-influx-into-brs-in-dongli-congress-and-bjp-leaders-join-the-party-in-the-presence-of-former-mla-hanmanth-shinde-2557629",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "kamareddy",
-   "loc": "డోంగ్లీ",
-   "pts": [
-    "మద్నూర్-డోంగ్లీలో బీఆర్ఎస్ కార్యకర్తల సమావేశం",
-    "మాజీ ఎమ్మెల్యే హన్మంత్ షిండే ముఖ్య అతిథి",
-    "పలు గ్రామాల నాయకులు పార్టీలో చేరిక"
-   ],
-   "why": "జుక్కల్ నియోజకవర్గంలో స్థానిక రాజకీయ మార్పులను ఇది చూపుతోంది.",
-   "pub": "2026-11-11T16:22+05:30",
-   "en": {
-    "h": "Congress, BJP leaders join BRS in Dongli",
-    "p": "A BRS workers' meeting was held on Wednesday at the Madnoor-Dongli mandal headquarters in Jukkal constituency of Kamareddy district. Several Congress and BJP leaders and workers from Moga, Sonala, Wadi, Limbur and other villages joined BRS in the presence of former MLA Hanmanth Shinde, Namasthe Telangana reported. Shinde urged cadres to stay accessible to people and strengthen the party.",
-    "pts": [
-     "BRS workers' meeting in Madnoor-Dongli",
-     "Former MLA Hanmanth Shinde chief guest",
-     "Leaders from several villages join party"
-    ],
-    "why": "It reflects local political shifts in Jukkal constituency.",
-    "cat": "Kamareddy · Politics",
-    "statl": "Joinings in party"
-   },
-   "hi": {
-    "h": "डोंगली में कांग्रेस, भाजपा नेता बीआरएस में शामिल",
-    "p": "कामारेड्डी जिले के जुक्कल निर्वाचन क्षेत्र के मद्नूर-डोंगली मंडल मुख्यालय में बुधवार को बीआरएस कार्यकर्ताओं की बैठक हुई। नमस्ते तेलंगाना के अनुसार, पूर्व विधायक हनमंत शिंदे की मौजूदगी में मोगा, सोनाला, वाडी, लिंबूर और अन्य गांवों के कई कांग्रेस व भाजपा नेता और कार्यकर्ता बीआरएस में शामिल हुए। शिंदे ने कार्यकर्ताओं से लोगों के बीच रहकर पार्टी मजबूत करने को कहा।",
-    "pts": [
-     "मद्नूर-डोंगली में बीआरएस कार्यकर्ता बैठक",
-     "पूर्व विधायक हनमंत शिंदे मुख्य अतिथि",
-     "कई गांवों के नेता पार्टी में शामिल"
-    ],
-    "why": "यह जुक्कल क्षेत्र में स्थानीय राजनीतिक बदलाव दिखाता है।",
-    "cat": "कामारेड्डी · राजनीति",
-    "statl": "पार्टी में शामिल"
-   },
-   "d": "11.11.2026",
-   "t": "19:05"
-  },
-  {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
    "col": "--c-gov",
    "art": "water",
@@ -2370,106 +2469,6 @@
    "img": "photos/2026-11-11-hyderabad-water-crisis.jpg",
    "imgfy": 0.45,
    "local": true
-  },
-  {
-   "cat": "భూపాలపల్లి · ఆరోగ్యం",
-   "col": "--c-gov",
-   "art": "campus",
-   "stat": "30 రోజులు",
-   "statl": "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె",
-   "h": "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె 30వ రోజు: మహదేవపూర్‌లో పిల్లల టీకాలకు ఆటంకం",
-   "p": "జయశంకర్ భూపాలపల్లి జిల్లా మహదేవపూర్ మండలంలో ఎన్‌హెచ్‌ఎం ఉద్యోగుల నిరవధిక సమ్మె 30వ రోజుకు చేరింది. ఆసుపత్రులు, పీహెచ్‌సీలు, ఉపకేంద్రాల్లో సిబ్బంది లేక పిల్లలకు ఉచిత టీకాలు ఆలస్యమవుతున్నాయని, తల్లిదండ్రులు ఆందోళన చెందుతున్నారని నమస్తే తెలంగాణ కథనం. కాంట్రాక్ట్, ఔట్‌సోర్సింగ్ ఉద్యోగులను క్రమబద్ధీకరించి ఉద్యోగ భద్రత కల్పించాలని, టీకా కార్యక్రమం ఆగకుండా చూడాలని ఎన్‌హెచ్‌ఎం జేఏసీ నాయకులు ప్రభుత్వాన్ని కోరారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/warangal-rural/jayashankar/vaccines-not-reached-to-children-due-to-nhm-employees-strike-in-mahadevpur-2557694",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "bhupalpally",
-   "loc": "మహదేవపూర్",
-   "pts": [
-    "ఎన్‌హెచ్‌ఎం ఉద్యోగుల సమ్మె 30వ రోజుకు",
-    "గ్రామీణ ప్రాంతాల్లో పిల్లల ఉచిత టీకాలు ఆలస్యం",
-    "ఉద్యోగాల క్రమబద్ధీకరణకు జేఏసీ డిమాండ్"
-   ],
-   "why": "మహదేవపూర్ మండలంలో చిన్నారుల టీకాలు, గ్రామీణ వైద్య సేవలపై సమ్మె ప్రభావం పడుతోంది.",
-   "pub": "2026-11-11T17:46+05:30",
-   "en": {
-    "h": "NHM staff strike hits day 30; child vaccinations disrupted in Mahadevpur",
-    "p": "The indefinite strike by NHM employees in Mahadevpur mandal of Jayashankar Bhupalpally district has reached its 30th day. Namasthe Telangana reports that with staff absent at hospitals, PHCs and sub-centres, free vaccinations for children are being delayed and parents are worried. NHM JAC leaders asked the government to regularise contract and outsourced employees with job security and to ensure the vaccination programme continues.",
-    "pts": [
-     "NHM employees' strike reaches day 30",
-     "Free child vaccinations delayed in rural areas",
-     "JAC demands regularisation of jobs"
-    ],
-    "why": "The strike is affecting children's vaccinations and rural health services in Mahadevpur mandal.",
-    "cat": "Bhupalpally · Health",
-    "statl": "NHM employees' strike"
-   },
-   "hi": {
-    "h": "एनएचएम कर्मचारियों की हड़ताल 30वें दिन: महादेवपुर में बच्चों के टीकाकरण में बाधा",
-    "p": "जयशंकर भूपालपल्ली जिले के महादेवपुर मंडल में एनएचएम कर्मचारियों की अनिश्चितकालीन हड़ताल 30वें दिन पहुंच गई। नमस्ते तेलंगाना की रिपोर्ट के अनुसार अस्पतालों, पीएचसी और उपकेंद्रों में कर्मचारी न होने से बच्चों के मुफ्त टीके टल रहे हैं और माता-पिता चिंतित हैं। एनएचएम जेएसी नेताओं ने सरकार से अनुबंध और आउटसोर्सिंग कर्मचारियों को नौकरी की सुरक्षा के साथ नियमित करने और टीकाकरण कार्यक्रम जारी रखने की मांग की।",
-    "pts": [
-     "एनएचएम कर्मचारियों की हड़ताल 30वें दिन",
-     "ग्रामीण इलाकों में बच्चों के मुफ्त टीके टले",
-     "जेएसी ने नौकरियां नियमित करने की मांग की"
-    ],
-    "why": "हड़ताल से महादेवपुर मंडल में बच्चों के टीकाकरण और ग्रामीण स्वास्थ्य सेवाओं पर असर पड़ रहा है।",
-    "cat": "भूपालपल्ली · स्वास्थ्य",
-    "statl": "एनएचएम कर्मचारियों की हड़ताल"
-   },
-   "d": "11.11.2026",
-   "t": "18:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · రైల్వే",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "₹5.20 లక్షలు",
-   "statl": "స్వాధీనమైన బంగారు గొలుసు విలువ",
-   "h": "చర్లపల్లి ఎక్స్‌ప్రెస్‌లో బంగారు గొలుసు చోరీ ఆరోపణ: బెడ్‌రోల్ అటెండెంట్ అరెస్ట్",
-   "p": "చర్లపల్లి ఎక్స్‌ప్రెస్ ఏసీ బోగీలో ప్రయాణికురాలి బంగారు గొలుసు తీసుకున్నాడన్న ఆరోపణపై 26 ఏళ్ల బెడ్‌రోల్ అటెండెంట్‌ను జీఆర్‌పీ పోలీసులు అరెస్ట్ చేశారు. పోలీసుల ప్రకారం, నవంబర్ 9 తెల్లవారుజామున నర్సాపూర్ నుంచి రైలు చర్లపల్లి చేరినప్పుడు దిండు కింద గొలుసు దొరికింది. సికింద్రాబాద్‌లో అమ్మేందుకు ప్రయత్నించి విఫలమయ్యాడు. ₹5.20 లక్షల విలువైన 40 గ్రాముల గొలుసును స్వాధీనం చేసుకున్నారు.",
-   "src": "Deccan Chronicle",
-   "url": "https://deccanchronicle.com/southern-states/telangana/cherlapally-express-bedroll-attendant-held-for-stealing-40-grams-of-gold-chain-2003481",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "చర్లపల్లి",
-   "pts": [
-    "ఏసీ బోగీ బీ1లో గొలుసు దొరికిందని పోలీసులు",
-    "40 గ్రాముల గొలుసు స్వాధీనం",
-    "చర్లపల్లి స్టేషన్‌లో నిందితుడి అరెస్ట్"
-   ],
-   "why": "రైళ్లలో ప్రయాణికులు తమ విలువైన వస్తువుల విషయంలో జాగ్రత్తగా ఉండాలని ఈ ఘటన గుర్తు చేస్తోంది.",
-   "pub": "2026-11-11T17:16+05:30",
-   "en": {
-    "h": "Bedroll attendant held over gold chain theft on Cherlapally Express",
-    "p": "The Government Railway Police arrested a 26-year-old bedroll attendant of the Cherlapally Express on the allegation that he took a passenger's gold chain in an AC coach. According to police, he found the chain under a pillow when the train from Narsapur reached Cherlapally early on November 9. He tried to sell it in Secunderabad but failed. A 40-gram chain worth ₹5.20 lakh was recovered.",
-    "pts": [
-     "Police say chain was found in AC coach B1",
-     "40-gram chain recovered",
-     "Accused arrested at Cherlapally station"
-    ],
-    "why": "The case is a reminder for train passengers to keep their valuables safe.",
-    "cat": "Hyderabad · Railways",
-    "statl": "Value of recovered gold chain"
-   },
-   "hi": {
-    "h": "चर्लापल्ली एक्सप्रेस में सोने की चेन चोरी का आरोप: बेडरोल अटेंडेंट गिरफ्तार",
-    "p": "जीआरपी पुलिस ने चर्लापल्ली एक्सप्रेस के एसी कोच में एक यात्री की सोने की चेन लेने के आरोप में 26 वर्षीय बेडरोल अटेंडेंट को गिरफ्तार किया। पुलिस के अनुसार 9 नवंबर तड़के नरसापुर से ट्रेन चर्लापल्ली पहुंचने पर उसे तकिये के नीचे चेन मिली। उसने सिकंदराबाद में इसे बेचने की कोशिश की लेकिन नाकाम रहा। ₹5.20 लाख की 40 ग्राम की चेन बरामद की गई।",
-    "pts": [
-     "पुलिस के अनुसार एसी कोच बी1 में चेन मिली",
-     "40 ग्राम की चेन बरामद",
-     "आरोपी चर्लापल्ली स्टेशन पर गिरफ्तार"
-    ],
-    "why": "यह मामला ट्रेन यात्रियों को अपने कीमती सामान का ध्यान रखने की याद दिलाता है।",
-    "cat": "हैदराबाद · रेलवे",
-    "statl": "बरामद सोने की चेन की कीमत"
-   },
-   "d": "11.11.2026",
-   "t": "18:35"
   },
   {
    "cat": "ఆహ్వానం · ఆలేరు",
