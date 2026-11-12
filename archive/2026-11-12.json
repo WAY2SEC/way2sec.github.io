@@ -1,8 +1,209 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 76,
+ "count": 80,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · రవాణా",
+   "col": "--c-election",
+   "art": "economy",
+   "stat": "6 లక్షలు",
+   "statl": "క్యాబ్ డ్రైవర్ల జీవనోపాధికి ముప్పు: బీఆర్ఎస్",
+   "h": "గ్రీన్ ఎస్ఎం క్యాబ్‌లపై నిషేధం విధించాలి: బీఆర్ఎస్ డిమాండ్",
+   "p": "వియత్నాం సంస్థ గ్రీన్ ఎస్ఎం క్యాబ్‌లను రాష్ట్రంలో నిషేధించాలని బీఆర్ఎస్ ప్రధాన కార్యదర్శి ఆర్ఎస్ ప్రవీణ్ కుమార్ తెలంగాణ భవన్‌లో డిమాండ్ చేశారు. సుమారు నెల రోజులుగా కి.మీ.కు దాదాపు ₹8కే నడుస్తున్న ఈ క్యాబ్‌లతో దాదాపు ఆరు లక్షల మంది స్థానిక డ్రైవర్ల జీవనోపాధి ప్రమాదంలో పడిందని ఆయన అన్నారు. జీఎస్టీ చెల్లించడం లేదని ఆరోపించిన ఆయన, ఆటోల తరహాలో క్యాబ్ డ్రైవర్లకు నియంత్రిత ఛార్జీల విధానం తేవాలని కోరారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/brs-seeks-ban-on-green-sm-cabs-demands-fare-regulation-for-cab-drivers",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "కి.మీ.కు సుమారు ₹8కే గ్రీన్ ఎస్ఎం క్యాబ్‌లు: ప్రవీణ్ కుమార్",
+    "అనుమతి ఎవరిచ్చారని ప్రశ్న; జీఎస్టీ ఎగవేత ఆరోపణ",
+    "క్యాబ్ డ్రైవర్లకు ఛార్జీల కార్డు తేవాలని డిమాండ్"
+   ],
+   "why": "హైదరాబాద్‌లో క్యాబ్ నడిపే డ్రైవర్లు, క్యాబ్ ప్రయాణికులకు ఈ అంశం నేరుగా సంబంధించినది.",
+   "d": "12.11.2026",
+   "t": "16:05",
+   "pub": "2026-11-12T15:32+05:30",
+   "en": {
+    "h": "BRS demands ban on Green SM cabs, fare regulation for drivers",
+    "p": "BRS general secretary RS Praveen Kumar, speaking at Telangana Bhavan, demanded that the state ban Vietnam-based Green SM cabs. He said the cabs, running in the city for about a month at around ₹8 per km, threaten the livelihoods of nearly six lakh local drivers. Alleging the firm does not pay GST, he sought a regulated fare system for cab drivers like the one for autos.",
+    "pts": [
+     "Green SM cabs run at about ₹8/km: Praveen Kumar",
+     "Questions who gave permission; alleges GST evasion",
+     "Demands a fare card for cab drivers"
+    ],
+    "why": "The issue directly concerns cab drivers and cab passengers in Hyderabad.",
+    "cat": "Hyderabad · Transport",
+    "statl": "Cab drivers' livelihoods at risk: BRS"
+   },
+   "hi": {
+    "h": "बीआरएस ने ग्रीन एसएम कैब पर प्रतिबंध, ड्राइवरों के लिए किराया नियमन मांगा",
+    "p": "बीआरएस महासचिव आरएस प्रवीण कुमार ने तेलंगाना भवन में वियतनाम की कंपनी ग्रीन एसएम कैब पर राज्य में प्रतिबंध की मांग की। उन्होंने कहा कि करीब एक महीने से लगभग ₹8 प्रति किमी पर चल रही इन कैबों से लगभग छह लाख स्थानीय ड्राइवरों की रोज़ी खतरे में है। कंपनी पर जीएसटी न देने का आरोप लगाते हुए उन्होंने ऑटो की तरह कैब ड्राइवरों के लिए नियमित किराया व्यवस्था मांगी।",
+    "pts": [
+     "ग्रीन एसएम कैब लगभग ₹8/किमी पर: प्रवीण कुमार",
+     "अनुमति किसने दी, सवाल; जीएसटी न देने का आरोप",
+     "कैब ड्राइवरों के लिए किराया कार्ड की मांग"
+    ],
+    "why": "यह मुद्दा हैदराबाद के कैब ड्राइवरों और यात्रियों से सीधे जुड़ा है।",
+    "cat": "हैदराबाद · परिवहन",
+    "statl": "कैब ड्राइवरों की रोज़ी खतरे में: बीआरएस"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆక్రమణలు",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "10–15 అడుగులు",
+   "statl": "నాలాలోకి ఆక్రమణలు: జీహెచ్ఎంసీ",
+   "h": "హకీంపేటలో ఆక్రమణల తొలగింపు; స్థానికుల ఆందోళనతో ఉద్రిక్తత",
+   "p": "హకీంపేటలో ఐఏఎస్ కాలనీ సమీపంలో వర్షపు నీటి నాలాపై ఉన్న తాత్కాలిక షెడ్లను జీహెచ్ఎంసీ టౌన్ ప్లానింగ్ అధికారులు పోలీసు బందోబస్తు మధ్య గురువారం తొలగించారు. ముందస్తు నోటీసు ఇవ్వలేదని, ఏళ్లుగా ఉంటున్న కూలీలు ఎక్కడికి వెళ్లాలని స్థానికులు ప్రశ్నించారు. షెడ్లు నాలాలోకి 10–15 అడుగులు ఆక్రమించి నీటి ప్రవాహానికి అడ్డుగా ఉన్నాయని, త్వరలో రోడ్డు విస్తరణ చేపడతామని గోల్కొండ జోన్ డిప్యూటీ కమిషనర్ తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/anti-encroachment-drive-triggers-tension-in-hakeempet",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హకీంపేట",
+   "pts": [
+    "నాలాపై తాత్కాలిక షెడ్ల తొలగింపు",
+    "నోటీసు ఇవ్వలేదని స్థానికుల ఆరోపణ",
+    "స్థానికులకు నచ్చజెప్పి పని పూర్తి: టోలిచౌకి పోలీసులు"
+   ],
+   "why": "నాలాల ఆక్రమణల తొలగింపు, రోడ్డు విస్తరణ ఈ ప్రాంత నివాసులు, ప్రయాణికులపై ప్రభావం చూపుతాయి.",
+   "d": "12.11.2026",
+   "t": "16:05",
+   "pub": "2026-11-12T11:38+05:30",
+   "en": {
+    "h": "Anti-encroachment drive in Hakeempet sparks tension among residents",
+    "p": "GHMC town planning officials, with police deployed, on Thursday removed temporary shelters built on a stormwater drain near IAS Colony in Hakeempet. Residents alleged no prior notice was given and asked where daily-wage workers who had lived there for years would go. The Golconda Zone Deputy Commissioner said the shelters encroached 10–15 feet into the drain, blocking water flow, and road widening would begin soon.",
+    "pts": [
+     "Temporary shelters on stormwater drain removed",
+     "Residents allege no prior notice was given",
+     "Work completed after residents were persuaded: Tolichowki police"
+    ],
+    "why": "Drain clearance and road widening affect residents and commuters in the area.",
+    "cat": "Hyderabad · Encroachments",
+    "statl": "Encroachment into drain: GHMC"
+   },
+   "hi": {
+    "h": "हकीमपेट में अतिक्रमण हटाने की कार्रवाई, निवासियों के विरोध से तनाव",
+    "p": "हकीमपेट में आईएएस कॉलोनी के पास बरसाती नाले पर बने अस्थायी शेड जीएचएमसी टाउन प्लानिंग अधिकारियों ने पुलिस की मौजूदगी में गुरुवार को हटाए। निवासियों ने आरोप लगाया कि पहले नोटिस नहीं दिया गया और पूछा कि वर्षों से रह रहे दिहाड़ी मज़दूर कहाँ जाएँ। गोलकोंडा ज़ोन के डिप्टी कमिश्नर ने कहा कि शेड नाले में 10–15 फुट तक अतिक्रमण कर पानी का बहाव रोक रहे थे और जल्द सड़क चौड़ी की जाएगी।",
+    "pts": [
+     "बरसाती नाले पर बने अस्थायी शेड हटाए गए",
+     "निवासियों का आरोप: पहले नोटिस नहीं मिला",
+     "निवासियों को समझाकर काम पूरा: टोलीचौकी पुलिस"
+    ],
+    "why": "नाले की सफाई और सड़क चौड़ीकरण का असर इलाके के निवासियों और यात्रियों पर पड़ेगा।",
+    "cat": "हैदराबाद · अतिक्रमण",
+    "statl": "नाले में अतिक्रमण: जीएचएमसी"
+   }
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "సీఐఐ",
+   "statl": "భాగస్వామ్య సదస్సులో కేంద్ర మంత్రి ప్రసంగం",
+   "h": "సీఎం చంద్రబాబు 'ఆంధ్రప్రెన్యూర్స్' దార్శనికతను ప్రశంసించిన కేంద్ర మంత్రి రామ్మోహన్ నాయుడు",
+   "p": "విశాఖలో జరుగుతున్న సీఐఐ సదస్సులో కేంద్ర మంత్రి రామ్మోహన్ నాయుడు, 'ఆంధ్రప్రెన్యూర్స్'ను తయారు చేయాలన్న సీఎం చంద్రబాబు నాయుడు దార్శనికతను ప్రశంసించారు. డబుల్ ఇంజిన్ ప్రభుత్వంలో రాష్ట్రం అన్ని రంగాల్లో బాగా ముందుకెళ్తోందని, విశాఖను ఆర్థికాభివృద్ధి కేంద్రంగా మార్చేందుకు రాష్ట్రం సిద్ధంగా ఉందని ఆయన అన్నారు. ప్రధాని మోదీ నేతృత్వంలో గత 12 ఏళ్లలో దేశం ఎంతో పురోగతి సాధించిందని చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/union-minister-rammohan-naidu-praised-cm-chandrababus-vision-at-cii-summit-1141402",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "'ఆంధ్రప్రెన్యూర్స్' దార్శనికతకు కేంద్ర మంత్రి ప్రశంస",
+    "విశాఖను ఆర్థికాభివృద్ధి కేంద్రంగా మార్చే లక్ష్యం",
+    "సీఎంను నిరంతరం నేర్చుకునే వ్యక్తిగా అభివర్ణన"
+   ],
+   "why": "సీఐఐ సదస్సులో వచ్చే పెట్టుబడులు విశాఖ, ఏపీలో ఉద్యోగాలు, అభివృద్ధిపై ప్రభావం చూపుతాయి.",
+   "d": "12.11.2026",
+   "t": "16:05",
+   "pub": "2026-11-12T15:34+05:30",
+   "en": {
+    "h": "Union Minister Rammohan Naidu praises CM Naidu's 'Andhra-preneurs' vision",
+    "p": "At the CII Summit in Visakhapatnam, Union Minister Rammohan Naidu praised CM Chandrababu Naidu's vision of creating 'Andhra-preneurs'. He said the state is progressing well in all sectors under the double-engine government and is set to make Visakhapatnam a hub of economic development. He said India has made great progress under PM Modi over the last 12 years.",
+    "pts": [
+     "Union Minister praises 'Andhra-preneurs' vision",
+     "Aim to make Visakhapatnam an economic hub",
+     "Describes the CM as a life-long learner"
+    ],
+    "why": "Investments from the CII Summit will affect jobs and development in Visakhapatnam and AP.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Union Minister's speech at partnership summit"
+   },
+   "hi": {
+    "h": "केंद्रीय मंत्री राममोहन नायडू ने सीएम नायडू के 'आंध्रप्रेन्योर्स' विज़न की सराहना की",
+    "p": "विशाखापत्तनम में सीआईआई सम्मेलन में केंद्रीय मंत्री राममोहन नायडू ने 'आंध्रप्रेन्योर्स' तैयार करने के मुख्यमंत्री चंद्रबाबू नायडू के विज़न की सराहना की। उन्होंने कहा कि डबल इंजन सरकार में राज्य सभी क्षेत्रों में आगे बढ़ रहा है और विशाखापत्तनम को आर्थिक विकास का केंद्र बनाने को तैयार है। उन्होंने कहा कि प्रधानमंत्री मोदी के नेतृत्व में पिछले 12 वर्षों में देश ने बड़ी प्रगति की है।",
+    "pts": [
+     "'आंध्रप्रेन्योर्स' विज़न की केंद्रीय मंत्री ने सराहना की",
+     "विशाखापत्तनम को आर्थिक केंद्र बनाने का लक्ष्य",
+     "मुख्यमंत्री को हमेशा सीखने वाला बताया"
+    ],
+    "why": "सीआईआई सम्मेलन के निवेश का असर विशाखापत्तनम और आंध्र प्रदेश में रोज़गार व विकास पर पड़ेगा।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "साझेदारी सम्मेलन में केंद्रीय मंत्री का भाषण"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · పర్యావరణం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "ఉసిరి, బిల్వం",
+   "statl": "కార్తీక మాసంలో మొక్కల కార్యక్రమం",
+   "h": "'ప్రతి ఇంటా ఉసిరి – ప్రతి గుడిలో బిల్వం' కార్యక్రమంలో సంతోష్ కుమార్",
+   "p": "గ్రీన్ ఇండియా ఛాలెంజ్ వ్యవస్థాపకుడు, మాజీ రాజ్యసభ సభ్యుడు జోగినిపల్లి సంతోష్ కుమార్ కార్తీక మాసం సందర్భంగా 'ప్రతి ఇంటా ఉసిరి – ప్రతి గుడిలో బిల్వం' కార్యక్రమంలో పాల్గొన్నారు. మహదేవపురంలోని ఆలయంలో ఉసిరి, బిల్వ మొక్కలు నాటారు. ప్రతి ఇల్లు, గుడి, బడిలో ఈ చెట్లు నాటేలా ప్రజలను ప్రోత్సహించడమే లక్ష్యమని, గ్రామాల్లో మొక్కలు పంపిణీ చేస్తామని తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/santosh-kumar-joins-kartika-tree-drive-725b84e3",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "మహదేవపురం",
+   "pts": [
+    "మహదేవపురం ఆలయంలో ఉసిరి, బిల్వ మొక్కలు నాటారు",
+    "ఇల్లు, గుడి, బడిలో చెట్లు నాటడమే లక్ష్యం",
+    "గ్రామాల్లో మొక్కల పంపిణీ"
+   ],
+   "why": "గ్రామాల్లో ఉచితంగా మొక్కలు అందే అవకాశం ఉండటంతో పచ్చదనం పెంచేందుకు ఇది ఉపయోగపడుతుంది.",
+   "d": "12.11.2026",
+   "t": "16:05",
+   "pub": "2026-11-12T14:21+05:30",
+   "en": {
+    "h": "Santosh Kumar joins 'Amla in every home, Bilva in every temple' drive",
+    "p": "Green India Challenge founder and former Rajya Sabha MP Joginipally Santosh Kumar took part in the 'Prathi Inta Usiri – Prathi Gudilo Bilvam' initiative during Kartika Masam. He planted Amla and Bilva saplings at a temple in Mahadevpuram. He said the aim is to encourage people to plant these trees in every home, temple and school, and saplings will be distributed in villages.",
+    "pts": [
+     "Amla and Bilva saplings planted at Mahadevpuram temple",
+     "Aim: trees in every home, temple and school",
+     "Saplings to be distributed in villages"
+    ],
+    "why": "Sapling distribution in villages can help increase green cover.",
+    "cat": "Telangana · Environment",
+    "statl": "Kartika month plantation drive"
+   },
+   "hi": {
+    "h": "'हर घर आंवला – हर मंदिर बिल्व' अभियान में संतोष कुमार शामिल",
+    "p": "ग्रीन इंडिया चैलेंज के संस्थापक और पूर्व राज्यसभा सांसद जोगिनिपल्ली संतोष कुमार कार्तिक मास में 'प्रति इंटा उसिरी – प्रति गुडिलो बिल्वम' अभियान में शामिल हुए। उन्होंने महादेवपुरम के मंदिर में आंवला और बिल्व के पौधे लगाए। उन्होंने कहा कि लक्ष्य लोगों को हर घर, मंदिर और स्कूल में ये पेड़ लगाने के लिए प्रेरित करना है और गाँवों में पौधे बाँटे जाएँगे।",
+    "pts": [
+     "महादेवपुरम मंदिर में आंवला, बिल्व के पौधे लगाए",
+     "लक्ष्य: हर घर, मंदिर, स्कूल में पेड़",
+     "गाँवों में पौधे बाँटे जाएँगे"
+    ],
+    "why": "गाँवों में पौधे बाँटने से हरियाली बढ़ाने में मदद मिल सकती है।",
+    "cat": "तेलंगाना · पर्यावरण",
+    "statl": "कार्तिक मास पौधारोपण अभियान"
+   }
+  },
   {
    "cat": "తెలంగాణ · స్థానిక సంస్థలు",
    "col": "--c-gov",
