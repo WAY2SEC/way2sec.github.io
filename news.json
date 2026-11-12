@@ -1,8 +1,260 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T16:14:33+05:30",
+ "updated": "2026-11-12T16:40:48+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · వ్యవసాయం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "239 ఎకరాలు",
+   "statl": "కోహెడ పండ్ల మార్కెట్ విస్తీర్ణం",
+   "h": "కోహెడ పండ్ల మార్కెట్ 2028 జూన్ 2 నాటికి పూర్తి: మంత్రి తుమ్మల",
+   "p": "హైదరాబాద్ సమీపంలోని కోహెడ సమీకృత పండ్ల మార్కెట్‌ను 2028 జూన్ 2 నాటికి పూర్తి చేయాలని వ్యవసాయ మంత్రి తుమ్మల నాగేశ్వరరావు అధికారులను ఆదేశించారు. సచివాలయంలో గురువారం సమీక్ష నిర్వహించిన ఆయన, 239 ఎకరాల ఈ మార్కెట్ మొదటి దశ 2027 మార్చి నాటికి పూర్తి కావాలన్నారు. పనుల పర్యవేక్షణకు రాహుల్ రాజ్‌ను ప్రత్యేక అధికారిగా నియమించారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/koheda-fruit-market-near-hyderabad-set-for-2028-completion-3575343/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "loc": "కోహెడ",
+   "pts": [
+    "మొదటి దశ గడువు 2027 మార్చి",
+    "పూర్తి మార్కెట్ 2028 జూన్ 2 నాటికి రైతులకు",
+    "ప్రత్యేక అధికారిగా రాహుల్ రాజ్ నియామకం"
+   ],
+   "why": "పండ్ల రైతులు, వ్యాపారులకు కొత్త పెద్ద మార్కెట్ ఎప్పుడు అందుబాటులోకి వస్తుందో ఇది చెబుతుంది.",
+   "d": "12.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-12T15:36+05:30",
+   "en": {
+    "h": "Koheda fruit market to be completed by June 2, 2028: Minister Tummala",
+    "p": "Agriculture Minister Tummala Nageswara Rao directed officials to complete the Koheda Integrated Fruit Market near Hyderabad by June 2, 2028. Holding a review at the Secretariat on Thursday, he said the first phase of the 239-acre market must be finished by March 2027. He appointed Rahul Raj as special officer to monitor the works.",
+    "pts": [
+     "First phase deadline: March 2027",
+     "Full market for farmers by June 2, 2028",
+     "Rahul Raj appointed special officer"
+    ],
+    "why": "It tells fruit farmers and traders when the big new market will be available.",
+    "cat": "Telangana · Agriculture",
+    "statl": "Area of Koheda fruit market"
+   },
+   "hi": {
+    "h": "कोहेडा फल मंडी 2 जून 2028 तक पूरी होगी: मंत्री तुम्मला",
+    "p": "कृषि मंत्री तुम्मला नागेश्वर राव ने अधिकारियों को हैदराबाद के पास कोहेडा एकीकृत फल मंडी 2 जून 2028 तक पूरी करने का निर्देश दिया। गुरुवार को सचिवालय में समीक्षा बैठक में उन्होंने कहा कि 239 एकड़ की इस मंडी का पहला चरण मार्च 2027 तक पूरा हो। काम की निगरानी के लिए राहुल राज को विशेष अधिकारी नियुक्त किया गया।",
+    "pts": [
+     "पहले चरण की समय-सीमा मार्च 2027",
+     "पूरी मंडी 2 जून 2028 तक किसानों के लिए",
+     "राहुल राज विशेष अधिकारी नियुक्त"
+    ],
+    "why": "इससे फल किसानों और व्यापारियों को पता चलता है कि नई बड़ी मंडी कब मिलेगी।",
+    "cat": "तेलंगाना · कृषि",
+    "statl": "कोहेडा फल मंडी का क्षेत्रफल"
+   }
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "1,200+",
+   "statl": "తెలంగాణ ఉద్యమ త్యాగాలు: వినోద్ కుమార్",
+   "h": "సోనియా ఆత్మకథలో తెలంగాణ ప్రస్తావనే లేదు: బీఆర్ఎస్ నేత వినోద్ కుమార్",
+   "p": "సోనియా గాంధీ ఆత్మకథ 'బిలాంగింగ్: ఏ జర్నీ ఆఫ్ లవ్'లో తెలంగాణ ఉద్యమ ప్రస్తావన లేకపోవడాన్ని బీఆర్ఎస్ వ్యవస్థాపక సభ్యుడు బి. వినోద్ కుమార్ ప్రశ్నించారు. రాష్ట్ర ఏర్పాటు నిర్ణయాల్లో సోనియా కీలక పాత్ర పోషించారని, 1,200 మందికి పైగా విద్యార్థులు, ఉద్యమకారుల త్యాగాలున్నా పుస్తకంలో 'తెలంగాణ' అనే పదమే లేదని ఎక్స్‌లో పేర్కొన్నారు. కారణం ఆమెకే తెలియాలన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/brs-leader-questions-sonia-over-telangana-omission-in-belonging-3575239/",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 10న విడుదలైన సోనియా ఆత్మకథ",
+    "పుస్తకంలో 'తెలంగాణ' పదమే లేదని వినోద్ కుమార్",
+    "కారణం సోనియాకే తెలియాలని వ్యాఖ్య"
+   ],
+   "why": "తెలంగాణ ఉద్యమ చరిత్రపై రాజకీయ చర్చకు ఈ విమర్శ దారితీస్తోంది.",
+   "d": "12.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-12T14:40+05:30",
+   "en": {
+    "h": "No mention of Telangana in Sonia's memoir: BRS leader Vinod Kumar",
+    "p": "BRS founder-member B Vinod Kumar questioned the absence of the Telangana movement in Sonia Gandhi's memoir 'Belonging: A Journey of Love'. In a post on X he said Sonia played a key role in the decisions that led to the state's formation and, despite the sacrifices of over 1,200 students and activists, the book does not mention the word 'Telangana'. The reason is best known to her, he said.",
+    "pts": [
+     "Sonia's memoir released on November 10",
+     "Vinod Kumar says the word 'Telangana' is missing",
+     "Says the reason is best known to Sonia"
+    ],
+    "why": "The criticism is sparking political debate over the history of the Telangana movement.",
+    "cat": "Telangana · Politics",
+    "statl": "Telangana movement sacrifices: Vinod Kumar"
+   },
+   "hi": {
+    "h": "सोनिया की आत्मकथा में तेलंगाना का ज़िक्र नहीं: बीआरएस नेता विनोद कुमार",
+    "p": "बीआरएस के संस्थापक सदस्य बी. विनोद कुमार ने सोनिया गांधी की आत्मकथा 'बिलॉन्गिंग: ए जर्नी ऑफ लव' में तेलंगाना आंदोलन का उल्लेख न होने पर सवाल उठाया। एक्स पर उन्होंने कहा कि राज्य गठन के फैसलों में सोनिया की अहम भूमिका थी और 1,200 से अधिक छात्रों व कार्यकर्ताओं के बलिदान के बावजूद किताब में 'तेलंगाना' शब्द तक नहीं है। उन्होंने कहा कि इसका कारण वही जानती हैं।",
+    "pts": [
+     "सोनिया की आत्मकथा 10 नवंबर को जारी",
+     "विनोद कुमार: किताब में 'तेलंगाना' शब्द नहीं",
+     "कहा, कारण सोनिया ही जानती हैं"
+    ],
+    "why": "इस आलोचना से तेलंगाना आंदोलन के इतिहास पर राजनीतिक बहस छिड़ी है।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "तेलंगाना आंदोलन के बलिदान: विनोद कुमार"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · ట్రాఫిక్",
+   "col": "--c-city",
+   "art": "economy",
+   "stat": "82%",
+   "statl": "సొంత వాహనాల్లో ప్రయాణించే ఐటీ ఉద్యోగులు",
+   "h": "సైబరాబాద్ ఐటీ హబ్‌లలో 82% మంది సొంత వాహనాల్లోనే: పోలీసుల గణాంకాలు",
+   "p": "సైబరాబాద్ ఐటీ కేంద్రాల్లో ప్రయాణికుల్లో 82 శాతం మంది సొంత వాహనాలు వాడుతుండగా, ప్రజా రవాణా వాటా కేవలం 2 శాతమేనని సైబరాబాద్ పోలీసులు, ఎస్‌సీఎస్‌సీ గణాంకాలు వెల్లడించాయి. 15 ప్రధాన ప్రాంతాల్లో రోజూ 25 లక్షలకు పైగా వాహనాలు, ప్రజల రాకపోకలు ఉంటున్నాయి. ఉద్యోగులకు షేర్డ్ రవాణా వాడాలని కంపెనీలకు సూచించారు. నవంబర్ 26–28 తేదీల్లో 'సైబరాబాద్ మూవ్స్ 2026' నిర్వహిస్తారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/cyberabad-it-hubs-choke-as-82-pc-commuters-drive-own-vehicles-3575117/",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సైబరాబాద్",
+   "pts": [
+    "ప్రజా రవాణా వాటా కేవలం 2 శాతం",
+    "షేర్డ్ రవాణా, హైబ్రిడ్ పని వేళలకు సూచన",
+    "నవంబర్ 26–28న 'సైబరాబాద్ మూవ్స్ 2026'"
+   ],
+   "why": "ఐటీ కారిడార్‌లో రోజూ ప్రయాణించే లక్షలాది ఉద్యోగుల ట్రాఫిక్ కష్టాలకు ఇది సంబంధించినది.",
+   "d": "12.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-12T12:48+05:30",
+   "en": {
+    "h": "82% use own vehicles in Cyberabad IT hubs: police data",
+    "p": "Data from Cyberabad Police and SCSC show 82 per cent of commuters in Cyberabad's IT hubs use personal vehicles, while public transport handles only 2 per cent. Over 2.5 million vehicles and people move daily across 15 key locations. Companies were advised to use shared transport for employees. 'Cyberabad Moves 2026' will be held from November 26 to 28.",
+    "pts": [
+     "Public transport share only 2 per cent",
+     "Shared transport, hybrid schedules advised",
+     "'Cyberabad Moves 2026' on November 26–28"
+    ],
+    "why": "It concerns the daily traffic woes of lakhs of employees travelling to the IT corridor.",
+    "cat": "Hyderabad · Traffic",
+    "statl": "IT commuters using own vehicles"
+   },
+   "hi": {
+    "h": "साइबराबाद आईटी हब में 82% लोग अपने वाहनों से: पुलिस आंकड़े",
+    "p": "साइबराबाद पुलिस और एससीएससी के आंकड़ों के मुताबिक साइबराबाद के आईटी केंद्रों में 82 प्रतिशत यात्री निजी वाहन इस्तेमाल करते हैं, जबकि सार्वजनिक परिवहन का हिस्सा सिर्फ 2 प्रतिशत है। 15 प्रमुख स्थानों पर रोज़ 25 लाख से ज़्यादा वाहनों और लोगों की आवाजाही होती है। कंपनियों को कर्मचारियों के लिए साझा परिवहन की सलाह दी गई। 26 से 28 नवंबर तक 'साइबराबाद मूव्स 2026' होगा।",
+    "pts": [
+     "सार्वजनिक परिवहन का हिस्सा सिर्फ 2 प्रतिशत",
+     "साझा परिवहन, हाइब्रिड समय की सलाह",
+     "26–28 नवंबर को 'साइबराबाद मूव्स 2026'"
+    ],
+    "why": "यह आईटी कॉरिडोर में रोज़ आने-जाने वाले लाखों कर्मचारियों की ट्रैफिक परेशानी से जुड़ा है।",
+    "cat": "हैदराबाद · ट्रैफिक",
+    "statl": "अपने वाहनों से आने वाले आईटी यात्री"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · సైబర్ నేరం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹33.62 లక్షలు",
+   "statl": "నకిలీ ట్రేడింగ్ యాప్‌తో పోయిన మొత్తం",
+   "h": "నకిలీ ట్రేడింగ్ యాప్ మోసం: ₹33.62 లక్షలు పోగొట్టుకున్న టెకీ",
+   "p": "ఫేస్‌బుక్ ప్రకటన ద్వారా వాట్సాప్ గ్రూప్‌లో చేరిన హైదరాబాద్ సాఫ్ట్‌వేర్ ఉద్యోగి నకిలీ ట్రేడింగ్ యాప్‌లో ₹33.62 లక్షలు కోల్పోయారు. యాప్‌లో ₹1.44 కోట్లకు పైగా లాభం చూపించి, ఉపసంహరణకు మరో ₹28.83 లక్షలు కట్టాలని అడిగారని డెక్కన్ క్రానికల్‌ను ఉటంకిస్తూ సియాసత్ తెలిపింది. సైబరాబాద్ సైబర్ క్రైమ్ పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-techie-loses-rs-33-62-lakh-to-fake-facebook-trading-app-3575056/",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "యాప్‌లో ₹1.44 కోట్లకు పైగా నకిలీ లాభం చూపారు",
+    "ఐటీ చట్టం 66-డీ కింద కేసు నమోదు",
+    "నిజమైన సంస్థ పేరును క్లోన్ చేశారని పోలీసులు"
+   ],
+   "why": "సోషల్ మీడియా పెట్టుబడి గ్రూపులు, నకిలీ యాప్‌లపై జాగ్రత్తగా ఉండాలని పోలీసులు హెచ్చరిస్తున్నారు.",
+   "d": "12.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-12T12:06+05:30",
+   "en": {
+    "h": "Fake trading app fraud: Hyderabad techie loses ₹33.62 lakh",
+    "p": "A Hyderabad software employee who joined a WhatsApp group through a Facebook advertisement lost ₹33.62 lakh on a fake trading app. Citing Deccan Chronicle, Siasat said the app showed fake profits of over ₹1.44 crore and he was asked to pay another ₹28.83 lakh to withdraw. Cyberabad Cyber Crime Police have registered a case and are investigating.",
+    "pts": [
+     "App showed fake profit of over ₹1.44 crore",
+     "Case registered under IT Act Section 66-D",
+     "Fraudsters cloned a real firm's name: police"
+    ],
+    "why": "Police warn people to beware of social media investment groups and fake apps.",
+    "cat": "Hyderabad · Cyber crime",
+    "statl": "Amount lost to fake trading app"
+   },
+   "hi": {
+    "h": "फर्ज़ी ट्रेडिंग ऐप धोखाधड़ी: हैदराबाद के टेकी ने ₹33.62 लाख गंवाए",
+    "p": "फेसबुक विज्ञापन के ज़रिए व्हाट्सऐप ग्रुप से जुड़े हैदराबाद के एक सॉफ्टवेयर कर्मचारी ने फर्ज़ी ट्रेडिंग ऐप में ₹33.62 लाख गंवा दिए। डेक्कन क्रॉनिकल के हवाले से सियासत ने बताया कि ऐप में ₹1.44 करोड़ से ज़्यादा का नकली मुनाफा दिखाकर निकासी के लिए ₹28.83 लाख और मांगे गए। साइबराबाद साइबर क्राइम पुलिस ने मामला दर्ज कर जांच शुरू की है।",
+    "pts": [
+     "ऐप में ₹1.44 करोड़ से ज़्यादा नकली मुनाफा दिखाया",
+     "आईटी एक्ट धारा 66-डी के तहत केस",
+     "असली कंपनी का नाम क्लोन किया: पुलिस"
+    ],
+    "why": "पुलिस ने सोशल मीडिया निवेश ग्रुप और फर्ज़ी ऐप से सावधान रहने की चेतावनी दी है।",
+    "cat": "हैदराबाद · साइबर अपराध",
+    "statl": "फर्ज़ी ट्रेडिंग ऐप में गई रकम"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "1.1 కిలోలు",
+   "statl": "స్వాధీనం చేసుకున్న గంజాయి",
+   "h": "ధూల్‌పేట్‌లో 1.1 కిలోల గంజాయితో మహిళ అరెస్ట్: ఎక్సైజ్ అధికారులు",
+   "p": "హైదరాబాద్ ధూల్‌పేట్‌ గంగాబౌలిలో దాడి చేసిన ప్రొహిబిషన్ అండ్ ఎక్సైజ్ అధికారులు 36 ఏళ్ల మహిళను అరెస్ట్ చేసి 1.1 కిలోల గంజాయి స్వాధీనం చేసుకున్నారు. ఆమె స్థానికంగా గంజాయి అమ్ముతున్నారని అధికారుల ఆరోపణ. ఇదే విక్రయంలో మరో ఇద్దరు మహిళలపై కేసులు నమోదయ్యాయి; వారు పరారీలో ఉన్నారని, గాలింపు కొనసాగుతోందని అధికారులు తెలిపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-woman-arrested-with-1-1-kg-ganja-in-dhoolpet-3575340/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "ధూల్‌పేట్",
+   "pts": [
+    "గంగాబౌలిలో ఎక్సైజ్ అధికారుల దాడి",
+    "మరో ఇద్దరిపై కేసు; పరారీలో ఉన్నారని అధికారులు",
+    "మాదకద్రవ్యాల విక్రయంపై చర్యలు కొనసాగుతాయని వెల్లడి"
+   ],
+   "why": "నగరంలో గంజాయి విక్రయాలపై ఎక్సైజ్ శాఖ చర్యలు కొనసాగుతున్నాయని ఇది చూపుతుంది.",
+   "d": "12.11.2026",
+   "t": "16:35",
+   "pub": "2026-11-12T15:14+05:30",
+   "en": {
+    "h": "Woman arrested with 1.1 kg ganja in Dhoolpet: excise officials",
+    "p": "Prohibition and Excise officials raided Gangabowli in Dhoolpet, Hyderabad, arrested a 36-year-old woman and seized 1.1 kg of ganja. Officials allege she was selling ganja in the locality. Cases were also registered against two other women over the sale; officials said they are absconding and efforts are on to trace them.",
+    "pts": [
+     "Excise raid at Gangabowli",
+     "Case against two others; absconding, say officials",
+     "Action against narcotics sales to continue"
+    ],
+    "why": "It shows the excise department's continuing action against ganja sales in the city.",
+    "cat": "Hyderabad · Crime",
+    "statl": "Ganja seized"
+   },
+   "hi": {
+    "h": "धूलपेट में 1.1 किलो गांजे के साथ महिला गिरफ्तार: आबकारी अधिकारी",
+    "p": "निषेध एवं आबकारी अधिकारियों ने हैदराबाद के धूलपेट स्थित गंगाबावली में छापा मारकर 36 वर्षीय महिला को गिरफ्तार किया और 1.1 किलो गांजा ज़ब्त किया। अधिकारियों का आरोप है कि वह इलाके में गांजा बेच रही थी। इसी बिक्री को लेकर दो अन्य महिलाओं पर भी केस दर्ज हुए; अधिकारियों के अनुसार वे फरार हैं और उनकी तलाश जारी है।",
+    "pts": [
+     "गंगाबावली में आबकारी छापा",
+     "दो अन्य पर केस; फरार, अधिकारियों के अनुसार",
+     "नशीले पदार्थों की बिक्री पर कार्रवाई जारी रहेगी"
+    ],
+    "why": "इससे शहर में गांजा बिक्री पर आबकारी विभाग की लगातार कार्रवाई दिखती है।",
+    "cat": "हैदराबाद · अपराध",
+    "statl": "ज़ब्त गांजा"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · రవాణా",
    "col": "--c-election",
@@ -2145,350 +2397,6 @@
    },
    "d": "12.11.2026",
    "t": "11:05"
-  },
-  {
-   "cat": "ఏపీ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "16–17 నవం.",
-   "statl": "తీరం వైపు వచ్చే అవకాశం ఉన్న తేదీలు",
-   "h": "అప్‌డేట్: 15 నాటికి వాయుగుండం అవకాశం; మత్స్యకారులకు హెచ్చరిక",
-   "p": "ఆగ్నేయ బంగాళాఖాతంలో నవంబర్ 13 నాటికి అల్పపీడనం ఏర్పడవచ్చని, 15 నాటికి అది వాయుగుండంగా మారే అవకాశం ఉందని వాతావరణ శాఖ తెలిపింది. దీని గమనం ఇంకా స్పష్టంగా లేదని, 16 లేదా 17న ఒంగోలు–చెన్నై–పుదుచ్చేరి మధ్య తీరం వైపు రావచ్చని అంచనా. సముద్రం అల్లకల్లోలంగా ఉంటుందని మత్స్యకారులు వేటకు వెళ్లొద్దని ఏపీ ప్రభుత్వం సూచించింది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/rain-alert-issued-to-ap-telangana-amid-expected-low-pressure-1141302",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "ప్రస్తుతం ఏపీపై ఈ వ్యవస్థ ప్రభావం లేదని వాతావరణ శాఖ",
-    "మూడు రోజులు కోస్తా, రాయలసీమలో పొడి వాతావరణం",
-    "తెలంగాణలో వారం పాటు వర్షం లేదు, రాత్రి చలి పెరుగుదల"
-   ],
-   "why": "దక్షిణ కోస్తా ఏపీ మత్స్యకారులు, తీర ప్రాంత ప్రజలు ఈ హెచ్చరికను గమనించాలి.",
-   "pub": "2026-11-12T09:27+05:30",
-   "en": {
-    "h": "Update: Depression likely by Nov 15; warning for fishermen",
-    "p": "The Meteorological Department said a low-pressure area may form over the southeast Bay of Bengal by November 13 and could become a depression by the 15th. Its path is still unclear; it may approach the coast between Ongole, Chennai and Puducherry on the 16th or 17th. The AP government advised fishermen not to venture into the sea as it will be rough.",
-    "pts": [
-     "Met department says no effect on AP for now",
-     "Dry weather in coastal Andhra and Rayalaseema for three days",
-     "No rain in Telangana for a week; nights to get colder"
-    ],
-    "why": "Fishermen and coastal residents of south coastal AP should note this warning.",
-    "cat": "AP · Weather",
-    "statl": "possible dates of approach to the coast"
-   },
-   "hi": {
-    "h": "अपडेट: 15 नवंबर तक अवदाब की आशंका; मछुआरों को चेतावनी",
-    "p": "मौसम विभाग ने कहा कि दक्षिण-पूर्व बंगाल की खाड़ी में 13 नवंबर तक कम दबाव का क्षेत्र बन सकता है और 15 तक यह अवदाब में बदल सकता है। इसका रास्ता अभी स्पष्ट नहीं है; यह 16 या 17 को ओंगोल, चेन्नई और पुडुचेरी के बीच तट की ओर आ सकता है। आंध्र प्रदेश सरकार ने मछुआरों को समुद्र में न जाने की सलाह दी है क्योंकि समुद्र अशांत रहेगा।",
-    "pts": [
-     "मौसम विभाग: फिलहाल आंध्र पर कोई असर नहीं",
-     "तीन दिन तटीय आंध्र और रायलसीमा में मौसम शुष्क",
-     "तेलंगाना में एक हफ्ते बारिश नहीं; रातें और ठंडी"
-    ],
-    "why": "दक्षिण तटीय आंध्र के मछुआरों और तटीय लोगों को यह चेतावनी ध्यान में रखनी चाहिए।",
-    "cat": "आंध्र प्रदेश · मौसम",
-    "statl": "तट की ओर आने की संभावित तारीखें"
-   },
-   "d": "12.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "5 రోజులు",
-   "statl": "నిందితులకు పోలీస్ కస్టడీ",
-   "h": "అక్రమ అండాల సేకరణ కేసు: నిందితులకు 5 రోజుల పోలీస్ కస్టడీ",
-   "p": "మహిళల నుంచి అండాలు సేకరించిన కేసులో నిందితులను ఐదు రోజుల పోలీస్ కస్టడీకి సికింద్రాబాద్ కోర్టు అనుమతించిందని ఈటీవీ భారత్ తెలిపింది. చంచల్‌గూడ జైలు నుంచి తొమ్మిది మంది నిందితులను బేగంపేట పోలీసులు గురువారం కస్టడీలోకి తీసుకోనున్నారు. ఏజెంట్లు, వైద్య సంస్థల పాత్ర, ఆర్థిక లావాదేవీలపై విచారిస్తామని పోలీసులు చెబుతున్నారు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#ova-custody",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బేగంపేట",
-   "pts": [
-    "సికింద్రాబాద్ కోర్టు 5 రోజుల కస్టడీకి అనుమతి",
-    "చంచల్‌గూడ జైలు నుంచి 9 మంది నిందితులు",
-    "ముఠా నెట్‌వర్క్, ఆర్థిక లావాదేవీలపై విచారణ"
-   ],
-   "why": "మహిళల ఆరోగ్యానికి ప్రమాదకరమైన అక్రమ అండాల వ్యాపారంపై దర్యాప్తు ఇది.",
-   "pub": "2026-11-12T06:35+05:30",
-   "en": {
-    "h": "Illegal egg-collection case: 5-day police custody for accused",
-    "p": "A Secunderabad court allowed five days of police custody for the accused in the case of collecting eggs (ova) from women, ETV Bharat reported. Begumpet police were to take nine accused from Chanchalguda jail into custody on Thursday. Police say they will probe the roles of agents and medical institutions and the financial transactions.",
-    "pts": [
-     "Secunderabad court allows 5-day custody",
-     "9 accused from Chanchalguda jail",
-     "Probe into the network and money transactions"
-    ],
-    "why": "This is a probe into an illegal egg trade that endangers women's health.",
-    "cat": "Hyderabad · Crime",
-    "statl": "police custody for accused"
-   },
-   "hi": {
-    "h": "अवैध अंडाणु संग्रह मामला: आरोपियों को 5 दिन की पुलिस हिरासत",
-    "p": "ईटीवी भारत के अनुसार, महिलाओं से अंडाणु एकत्र करने के मामले में सिकंदराबाद अदालत ने आरोपियों को पांच दिन की पुलिस हिरासत की अनुमति दी। बेगमपेट पुलिस गुरुवार को चंचलगुडा जेल से नौ आरोपियों को हिरासत में लेने वाली थी। पुलिस का कहना है कि वह एजेंटों और चिकित्सा संस्थानों की भूमिका और वित्तीय लेन-देन की जांच करेगी।",
-    "pts": [
-     "सिकंदराबाद अदालत ने 5 दिन की हिरासत दी",
-     "चंचलगुडा जेल से 9 आरोपी",
-     "नेटवर्क और लेन-देन की जांच"
-    ],
-    "why": "यह महिलाओं के स्वास्थ्य को खतरे में डालने वाले अवैध अंडाणु कारोबार की जांच है।",
-    "cat": "हैदराबाद · अपराध",
-    "statl": "आरोपियों की पुलिस हिरासत"
-   },
-   "d": "12.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "తెలంగాణ · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "35 ఏళ్లు",
-   "statl": "హత్యకు గురైన మహిళ వయసు",
-   "h": "మీర్‌పేట్ పరిధిలో మహిళ హత్య: పోలీసుల దర్యాప్తు",
-   "p": "మీర్‌పేట్ పోలీస్ స్టేషన్ పరిధిలో 35 ఏళ్ల మహిళను గుర్తు తెలియని వ్యక్తులు హత్య చేశారని ఈటీవీ భారత్ తెలిపింది. పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. హత్యకు కారణాలు, నిందితుల వివరాలు ఇంకా వెల్లడి కాలేదు.",
-   "src": "ETV Bharat",
-   "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#meerpet-murder",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "మీర్‌పేట్",
-   "pts": [
-    "గుర్తు తెలియని వ్యక్తుల చేతిలో మహిళ హత్య",
-    "కేసు నమోదు చేసి పోలీసుల దర్యాప్తు"
-   ],
-   "why": "మహిళ హత్యపై పోలీసులు దర్యాప్తు చేస్తున్నారు; స్థానికులకు భద్రతపై ఆందోళన కలిగించే ఘటన.",
-   "pub": "2026-11-12T06:40+05:30",
-   "en": {
-    "h": "Woman murdered in Meerpet limits; police investigating",
-    "p": "A 35-year-old woman was murdered by unidentified persons within Meerpet police station limits, ETV Bharat reported. Police registered a case and are investigating. The motive and details of the accused have not yet been disclosed.",
-    "pts": [
-     "Woman killed by unidentified persons",
-     "Police register case and investigate"
-    ],
-    "why": "Police are investigating the murder; the incident is a safety concern for local residents.",
-    "cat": "Telangana · Crime",
-    "statl": "age of the woman killed"
-   },
-   "hi": {
-    "h": "मीरपेट क्षेत्र में महिला की हत्या; पुलिस जांच में जुटी",
-    "p": "ईटीवी भारत के अनुसार, मीरपेट पुलिस थाना क्षेत्र में अज्ञात लोगों ने 35 वर्षीय महिला की हत्या कर दी। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। हत्या का कारण और आरोपियों का विवरण अभी सामने नहीं आया है।",
-    "pts": [
-     "अज्ञात लोगों ने महिला की हत्या की",
-     "पुलिस ने मामला दर्ज कर जांच शुरू की"
-    ],
-    "why": "पुलिस हत्या की जांच कर रही है; यह घटना स्थानीय लोगों के लिए सुरक्षा की चिंता है।",
-    "cat": "तेलंगाना · अपराध",
-    "statl": "मारी गई महिला की उम्र"
-   },
-   "d": "12.11.2026",
-   "t": "10:35"
-  },
-  {
-   "cat": "తెలంగాణ · పెట్టుబడులు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "2,17,690",
-   "statl": "రెండేళ్లలో అమ్ముడైన విద్యుత్ వాహనాలు",
-   "h": "ఈవీ పెట్టుబడులకు తెలంగాణ ఆహ్వానం: రెండేళ్లలో 2.17 లక్షల విద్యుత్ వాహనాల అమ్మకం",
-   "p": "డిసెంబర్ 7–9 తేదీల్లో భారత్ ఫ్యూచర్ సిటీలో జరిగే ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్ 2026కు ముందు ఆటో, ఈవీ రంగ పెట్టుబడిదారులను ప్రభుత్వం ఆహ్వానించింది. సచివాలయంలో బుధవారం జరిగిన తొలి ఎగ్జిక్యూటివ్ కౌన్సిల్ సమావేశానికి రవాణా మంత్రి పొన్నం ప్రభాకర్ అధ్యక్షత వహించారు. ఈవీ విధానం కింద రోడ్ ట్యాక్స్, రిజిస్ట్రేషన్ ఫీజుకు 100% మినహాయింపు ఉందని, రెండేళ్లలో 2,17,690 ఈవీలు అమ్ముడై సుమారు ₹2,343 కోట్ల పన్ను మినహాయింపు ఇచ్చామని తెలిపారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/hyderabad/govt-rolls-out-red-carpet-for-ev-investments-1141281",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "డిసెంబర్ 7–9న ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్",
-    "ఈవీలకు రోడ్ ట్యాక్స్, రిజిస్ట్రేషన్ ఫీజు 100% మినహాయింపు",
-    "జహీరాబాద్ నిమ్జ్, ఎంకతల, కొడంగల్‌లో అవకాశాలు"
-   ],
-   "why": "విద్యుత్ వాహనాలు కొనేవారికి పన్ను మినహాయింపు, ఆటో రంగ పెట్టుబడిదారులకు ప్రభుత్వ మద్దతు వివరాలు ఇవి.",
-   "pub": "2026-11-12T05:00+05:30",
-   "en": {
-    "h": "Telangana woos EV investors; 2.17 lakh electric vehicles sold in two years",
-    "p": "Ahead of the Invest Telangana Global Summit 2026, to be held at Bharat Future City from December 7 to 9, the government invited auto and EV investors. Transport Minister Ponnam Prabhakar chaired the first Executive Council meeting at the Secretariat on Wednesday. He said the EV policy gives 100% exemption on road tax and registration fees, and that 2,17,690 EVs were sold in two years with tax exemptions of about ₹2,343 crore.",
-    "pts": [
-     "Invest Telangana Global Summit on December 7–9",
-     "100% road tax and registration fee exemption for EVs",
-     "Opportunities at Zaheerabad NIMZ, Enkatala and Kodangal"
-    ],
-    "why": "These are details of tax relief for EV buyers and government support for auto-sector investors.",
-    "cat": "Telangana · Investment",
-    "statl": "electric vehicles sold in two years"
-   },
-   "hi": {
-    "h": "ईवी निवेश के लिए तेलंगाना का न्योता; दो साल में 2.17 लाख इलेक्ट्रिक वाहन बिके",
-    "p": "7 से 9 दिसंबर तक भारत फ्यूचर सिटी में होने वाले इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 से पहले सरकार ने ऑटो और ईवी निवेशकों को आमंत्रित किया। सचिवालय में बुधवार को पहली कार्यकारी परिषद बैठक की अध्यक्षता परिवहन मंत्री पोन्नम प्रभाकर ने की। उन्होंने कहा कि ईवी नीति में रोड टैक्स और पंजीकरण शुल्क पर 100% छूट है, और दो साल में 2,17,690 ईवी बिके, जिन पर लगभग ₹2,343 करोड़ की कर छूट दी गई।",
-    "pts": [
-     "7–9 दिसंबर को इन्वेस्ट तेलंगाना ग्लोबल समिट",
-     "ईवी पर रोड टैक्स और पंजीकरण शुल्क में 100% छूट",
-     "ज़हीराबाद निम्ज़, एनकतला और कोडंगल में अवसर"
-    ],
-    "why": "ये ईवी खरीदारों के लिए कर छूट और ऑटो क्षेत्र के निवेशकों को सरकारी समर्थन के विवरण हैं।",
-    "cat": "तेलंगाना · निवेश",
-    "statl": "दो साल में बिके इलेक्ट्रिक वाहन"
-   },
-   "d": "12.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "4%",
-   "statl": "రాష్ట్రంలో మైనారిటీలకు రిజర్వేషన్",
-   "h": "బీఆర్ఎస్ ఢిల్లీలో బీజేపీతో జతకడుతుంది: సీఎం రేవంత్ ఆరోపణ",
-   "p": "జాతీయ విద్యా దినోత్సవం, మైనారిటీ సంక్షేమ దినోత్సవ కార్యక్రమాల్లో బుధవారం మాట్లాడిన సీఎం రేవంత్ రెడ్డి, తదుపరి ఎన్నికల తర్వాత బీఆర్ఎస్ ఢిల్లీలో బీజేపీకి మిత్రపక్షంగా మారుతుందని ఆరోపించారు. విద్య, ఉద్యోగాల్లో మైనారిటీ రిజర్వేషన్లను బీజేపీ అడ్డుకుంటోందని విమర్శించారు. రాష్ట్రంలో మైనారిటీలకు 4 శాతం రిజర్వేషన్ ఉందని గుర్తుచేశారు. ఏఐ వల్ల సాఫ్ట్‌వేర్ ఉద్యోగాలు తగ్గుతున్నందున నైపుణ్యాభివృద్ధిని ప్రోత్సహిస్తున్నామని ద హన్స్ ఇండియా కథనం ప్రకారం చెప్పారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/hyderabad/cm-revanth-reddy-says-brs-will-join-hands-with-bjp-1141210",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "బీఆర్ఎస్ కారు ఢిల్లీలో కమలంగా మారుతుందని వ్యాఖ్య",
-    "మైనారిటీ రిజర్వేషన్లను బీజేపీ అడ్డుకుంటోందని విమర్శ",
-    "ఓల్డ్ సిటీ మెట్రో, మూసీ ప్రాజెక్టుతో పునరుజ్జీవనమని వెల్లడి"
-   ],
-   "why": "రాష్ట్ర రాజకీయాలు, మైనారిటీ రిజర్వేషన్ల అంశంపై సీఎం వైఖరిని ఈ వ్యాఖ్యలు తెలియజేస్తాయి.",
-   "pub": "2026-11-12T02:05+05:30",
-   "en": {
-    "h": "BRS will join hands with BJP in Delhi, alleges CM Revanth Reddy",
-    "p": "Speaking at National Education Day and Minority Welfare Day events on Wednesday, CM Revanth Reddy alleged that after the next elections the BRS would become a BJP ally in Delhi. He criticised the BJP for blocking minority reservations in education and jobs, and noted that minorities get 4 per cent reservation in the state. As AI reduces software jobs, the state is promoting skill development, he said, according to The Hans India.",
-    "pts": [
-     "Said the BRS 'car' would turn into a lotus in Delhi",
-     "Accused BJP of blocking minority reservations",
-     "Said Old City Metro and Musi project would revive it"
-    ],
-    "why": "The remarks show the CM's stand on state politics and minority reservations.",
-    "cat": "Hyderabad · Politics",
-    "statl": "reservation for minorities in the state"
-   },
-   "hi": {
-    "h": "बीआरएस दिल्ली में भाजपा से हाथ मिलाएगी: सीएम रेवंत रेड्डी का आरोप",
-    "p": "बुधवार को राष्ट्रीय शिक्षा दिवस और अल्पसंख्यक कल्याण दिवस कार्यक्रमों में मुख्यमंत्री रेवंत रेड्डी ने आरोप लगाया कि अगले चुनाव के बाद बीआरएस दिल्ली में भाजपा की सहयोगी बन जाएगी। उन्होंने शिक्षा और नौकरियों में अल्पसंख्यक आरक्षण रोकने के लिए भाजपा की आलोचना की और कहा कि राज्य में अल्पसंख्यकों को 4 प्रतिशत आरक्षण है। द हंस इंडिया के अनुसार, उन्होंने कहा कि एआई से सॉफ्टवेयर नौकरियां घट रही हैं, इसलिए राज्य कौशल विकास को बढ़ावा दे रहा है।",
-    "pts": [
-     "कहा, बीआरएस की 'कार' दिल्ली में कमल बन जाएगी",
-     "भाजपा पर अल्पसंख्यक आरक्षण रोकने का आरोप",
-     "ओल्ड सिटी मेट्रो, मूसी परियोजना से पुनरुद्धार की बात"
-    ],
-    "why": "ये टिप्पणियां राज्य की राजनीति और अल्पसंख्यक आरक्षण पर मुख्यमंत्री का रुख दिखाती हैं।",
-    "cat": "हैदराबाद · राजनीति",
-    "statl": "राज्य में अल्पसंख्यकों के लिए आरक्षण"
-   },
-   "d": "12.11.2026",
-   "t": "10:05"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-power",
-   "art": "water",
-   "stat": "2 సంఘాలు",
-   "statl": "కాలుష్యంపై ఆడిట్ డిమాండ్",
-   "h": "విశాఖ పారిశ్రామిక కాలుష్య ఉల్లంఘనలపై సమగ్ర ఆడిట్ చేయాలని పౌర సంఘాల డిమాండ్",
-   "p": "విశాఖపట్నం, పరిసర పారిశ్రామిక ప్రాంతాల్లో కాలుష్య ఉల్లంఘనలపై సమగ్ర ఆడిట్ చేయాలని గ్రేటర్ విశాఖ సిటిజన్స్ ఫోరం, హ్యూమన్ రైట్స్ ఫోరం సంయుక్త ప్రకటనలో కోరాయి. గాలి, నీరు, నేల నాణ్యతపై స్వతంత్ర అధ్యయనం, ప్రజారోగ్యంపై ప్రభావ పరిశీలన, తనిఖీ నివేదికల వెల్లడి, పదేపదే ఉల్లంఘించే యూనిట్ల మూసివేత కావాలని డిమాండ్ చేశాయి. కాలుష్య నియంత్రణ మండలి స్పందన కథనంలో లేదు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/citizens-groups-seek-audit-of-industrial-pollution-violations-in-vizag-2003652",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "జీవీసీఎఫ్, హెచ్ఆర్ఎఫ్ సంయుక్త ప్రకటన",
-    "గాలి, నీరు, నేల నాణ్యతపై స్వతంత్ర అధ్యయనం కోరిక",
-    "ఉల్లంఘించే యూనిట్ల మూసివేత, పునరుద్ధరణ ఖర్చుల వసూలు డిమాండ్"
-   ],
-   "why": "పారిశ్రామిక కాలుష్యం విశాఖ ప్రజల ఆరోగ్యం, పర్యావరణంపై నేరుగా ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-12T01:12+05:30",
-   "en": {
-    "h": "Citizens' groups seek full audit of industrial pollution violations in Vizag",
-    "p": "The Greater Visakhapatnam Citizens' Forum and the Human Rights Forum, in a joint statement, sought a comprehensive audit of industrial pollution violations in and around Visakhapatnam. They demanded an independent study of air, water and soil quality, a study of health impacts, public disclosure of inspection reports, and closure of units that repeatedly break rules. The article carries no response from the Pollution Control Board.",
-    "pts": [
-     "Joint statement by GVCF and HRF",
-     "Independent study of air, water, soil quality sought",
-     "Closure of repeat violators, recovery of restoration costs demanded"
-    ],
-    "why": "Industrial pollution directly affects the health and environment of Visakhapatnam's residents.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "Demand pollution audit"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम में औद्योगिक प्रदूषण उल्लंघनों के व्यापक ऑडिट की नागरिक संगठनों की मांग",
-    "p": "ग्रेटर विशाखापत्तनम सिटिजन्स फोरम और ह्यूमन राइट्स फोरम ने संयुक्त बयान में विशाखापत्तनम और आसपास के औद्योगिक क्षेत्रों में प्रदूषण उल्लंघनों के व्यापक ऑडिट की मांग की। उन्होंने हवा, पानी और मिट्टी की गुणवत्ता का स्वतंत्र अध्ययन, स्वास्थ्य प्रभाव की जांच, निरीक्षण रिपोर्ट सार्वजनिक करने और बार-बार उल्लंघन करने वाली इकाइयों को बंद करने की मांग की। लेख में प्रदूषण नियंत्रण बोर्ड का जवाब नहीं है।",
-    "pts": [
-     "जीवीसीएफ और एचआरएफ का संयुक्त बयान",
-     "हवा, पानी, मिट्टी की गुणवत्ता का स्वतंत्र अध्ययन मांगा",
-     "बार-बार उल्लंघन करने वाली इकाइयों को बंद करने की मांग"
-    ],
-    "why": "औद्योगिक प्रदूषण विशाखापत्तनम के लोगों के स्वास्थ्य और पर्यावरण पर सीधा असर डालता है।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "प्रदूषण ऑडिट की मांग"
-   },
-   "d": "12.11.2026",
-   "t": "09:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "నవంబర్ 11",
-   "statl": "మౌలానా ఆజాద్ జయంతి",
-   "h": "తెలంగాణ భవన్‌లో ఆజాద్ జయంతి; మైనారిటీలను విస్మరిస్తున్నారని బీఆర్ఎస్ ఆరోపణ",
-   "p": "దేశ తొలి విద్యాశాఖ మంత్రి మౌలానా అబుల్ కలాం ఆజాద్ జయంతిని బుధవారం హైదరాబాద్‌లోని తెలంగాణ భవన్‌లో బీఆర్ఎస్ నేతలు నిర్వహించారు. మాజీ ఉపముఖ్యమంత్రి మహమూద్ అలీ తదితరులు నివాళులు అర్పించారు. కాంగ్రెస్ ప్రభుత్వం మైనారిటీలను నిర్లక్ష్యం చేస్తోందని, మైనారిటీ డిక్లరేషన్ అమలు కాలేదని వారు ఆరోపించారు. కాంగ్రెస్ స్పందన కథనంలో లేదు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/brs-leaders-pay-tribute-to-maulana-abul-kalam-azad-at-telangana-bhavan-2558189",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "తెలంగాణ భవన్‌లో ఆజాద్ చిత్రపటానికి నివాళి",
-    "మహమూద్ అలీ, రావుల చంద్రశేఖర్ రెడ్డి హాజరు",
-    "మైనారిటీ డిక్లరేషన్ అమలు కాలేదని బీఆర్ఎస్ ఆరోపణ"
-   ],
-   "why": "మైనారిటీ సంక్షేమ హామీల అమలుపై రాష్ట్రంలో రాజకీయ చర్చ కొనసాగుతోంది.",
-   "pub": "2026-11-12T04:24+05:30",
-   "en": {
-    "h": "Azad birth anniversary at Telangana Bhavan; BRS alleges neglect of minorities",
-    "p": "BRS leaders observed the birth anniversary of Maulana Abul Kalam Azad, India's first education minister, at Telangana Bhavan in Hyderabad on Wednesday. Former deputy CM Mahmood Ali and others paid tributes. They alleged that the Congress government is neglecting minorities and has not implemented its minority declaration. The article carries no Congress response.",
-    "pts": [
-     "Tributes paid to Azad's portrait at Telangana Bhavan",
-     "Mahmood Ali, Raavula Chandrasekhar Reddy attended",
-     "BRS alleges minority declaration not implemented"
-    ],
-    "why": "The implementation of minority welfare promises remains a subject of political debate in the state.",
-    "cat": "Telangana · Politics",
-    "statl": "Maulana Azad birth anniversary"
-   },
-   "hi": {
-    "h": "तेलंगाना भवन में आजाद जयंती; बीआरएस का अल्पसंख्यकों की अनदेखी का आरोप",
-    "p": "देश के पहले शिक्षा मंत्री मौलाना अबुल कलाम आजाद की जयंती बुधवार को हैदराबाद के तेलंगाना भवन में बीआरएस नेताओं ने मनाई। पूर्व उपमुख्यमंत्री महमूद अली सहित अन्य नेताओं ने श्रद्धांजलि दी। उन्होंने आरोप लगाया कि कांग्रेस सरकार अल्पसंख्यकों की अनदेखी कर रही है और अल्पसंख्यक घोषणापत्र लागू नहीं हुआ। लेख में कांग्रेस का जवाब नहीं है।",
-    "pts": [
-     "तेलंगाना भवन में आजाद के चित्र पर श्रद्धांजलि",
-     "महमूद अली, रावुला चंद्रशेखर रेड्डी मौजूद",
-     "अल्पसंख्यक घोषणापत्र लागू न होने का बीआरएस का आरोप"
-    ],
-    "why": "अल्पसंख्यक कल्याण वादों के अमल पर राज्य में राजनीतिक बहस जारी है।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "मौलाना आजाद जयंती"
-   },
-   "d": "12.11.2026",
-   "t": "09:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
