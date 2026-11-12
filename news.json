@@ -1,8 +1,108 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T07:40:04+05:30",
+ "updated": "2026-11-12T08:09:28+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "2,700",
+   "statl": "భద్రతా విధుల్లో పోలీసులు",
+   "h": "విశాఖ సీఐఐ సదస్సుకు 2,700 మంది పోలీసులతో భారీ భద్రత",
+   "p": "విశాఖపట్నంలో గురు, శుక్రవారాల్లో జరిగే 31వ సీఐఐ భాగస్వామ్య సదస్సుకు సుమారు 2,700 మంది పోలీసులతో భద్రత ఏర్పాటు చేసినట్లు నగర పోలీస్ కమిషనర్ శంఖబ్రత బాగ్చీ తెలిపారు. కమాండ్ కంట్రోల్ సెంటర్, డ్రోన్లు, సీసీటీవీ, బాడీ కెమెరాలతో పర్యవేక్షిస్తారు. కేంద్ర హోంమంత్రి అమిత్ షా సదస్సును ప్రారంభిస్తారు. రెండు రోజుల్లో ₹11 లక్షల కోట్ల కొత్త ఒప్పందాలు ఆశిస్తున్నట్లు జిల్లా ఇన్‌చార్జి మంత్రి డోలా శ్రీ బాల వీరాంజనేయ స్వామి చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/2700-police-personnel-deployed-for-multi-layered-security-1141204",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pts": [
+    "35 ఏసీపీలు, 103 సీఐలు, 250 ఎస్సైలు విధుల్లో",
+    "హోటళ్లు, లాడ్జీల్లో డాగ్, బాంబ్ స్క్వాడ్ తనిఖీలు",
+    "58కి పైగా విదేశీ ప్రతినిధులు, 400కు పైగా బీ2బీ భేటీలు"
+   ],
+   "why": "సదస్సు జరిగే రెండు రోజులూ విశాఖలో భారీ భద్రతా ఏర్పాట్లు, తనిఖీలు ఉంటాయి; నగరవాసులు గమనించాలి.",
+   "pub": "2026-11-12T01:59+05:30",
+   "en": {
+    "h": "2,700 police deployed for CII Partnership Summit security in Visakhapatnam",
+    "p": "About 2,700 police personnel have been deployed for security at the 31st CII Partnership Summit in Visakhapatnam on Thursday and Friday, City Police Commissioner Shankhabrata Bagchi said. The venue will be monitored from a Command and Control Centre with drones, CCTV and body-worn cameras. Union Home Minister Amit Shah will inaugurate the summit. District in-charge minister Dola Sree Bala Veeranjaneya Swamy said fresh MoUs worth Rs 11 lakh crore are expected over the two days.",
+    "pts": [
+     "35 ACPs, 103 CIs and 250 SIs on duty",
+     "Dog and bomb squads check hotels and lodges",
+     "Over 58 foreign delegates, over 400 B2B meetings"
+    ],
+    "why": "Visakhapatnam will see heavy security arrangements and checks on both days of the summit; residents should take note.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Police on security duty"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम सीआईआई सम्मेलन की सुरक्षा में 2,700 पुलिसकर्मी तैनात",
+    "p": "विशाखापत्तनम में गुरुवार और शुक्रवार को होने वाले 31वें सीआईआई पार्टनरशिप समिट की सुरक्षा के लिए करीब 2,700 पुलिसकर्मी तैनात किए गए हैं, शहर के पुलिस आयुक्त शंखब्रत बागची ने बताया। कमांड एंड कंट्रोल सेंटर से ड्रोन, सीसीटीवी और बॉडी कैमरों के ज़रिए निगरानी होगी। केंद्रीय गृह मंत्री अमित शाह सम्मेलन का उद्घाटन करेंगे। ज़िला प्रभारी मंत्री डोला श्री बाला वीरांजनेय स्वामी ने कहा कि दो दिनों में ₹11 लाख करोड़ के नए समझौतों की उम्मीद है।",
+    "pts": [
+     "35 एसीपी, 103 सीआई और 250 एसआई ड्यूटी पर",
+     "होटलों, लॉज में डॉग और बम स्क्वॉड की जांच",
+     "58 से अधिक विदेशी प्रतिनिधि, 400 से अधिक बी2बी बैठकें"
+    ],
+    "why": "सम्मेलन के दोनों दिन विशाखापत्तनम में कड़ी सुरक्षा व्यवस्था और जांच रहेगी; शहरवासी ध्यान दें।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सुरक्षा ड्यूटी पर पुलिसकर्मी"
+   },
+   "d": "12.11.2026",
+   "t": "08:05"
+  },
+  {
+   "cat": "ప్రపంచం · వ్యాపారం",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "$91.62",
+   "statl": "బ్రెంట్ ముడి చమురు బ్యారెల్ ధర",
+   "h": "శాంతి చర్చలపై ఆశలతో ముడి చమురు ధర $1కి పైగా తగ్గుదల",
+   "p": "రష్యా–ఉక్రెయిన్, మధ్యప్రాచ్య శాంతి చర్చల్లో పురోగతి ఉండొచ్చన్న ఆశలతో గురువారం ముడి చమురు ధరలు బ్యారెల్‌కు $1కి పైగా తగ్గాయని రాయిటర్స్ తెలిపింది. బ్రెంట్ 1.2% తగ్గి $91.62కు, అమెరికా డబ్ల్యూటీఐ $85.49కు చేరాయి. అబుదాబి చర్చల్లో రష్యా, ఉక్రెయిన్ పెద్ద ఎత్తున ఖైదీల మార్పిడికి అంగీకరించాయి. హార్ముజ్ జలసంధి అనిశ్చితి వల్ల ధరలు భారీగా పడే అవకాశం తక్కువని ఒక విశ్లేషకుడు అన్నారు.",
+   "src": "Reuters",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171",
+   "sec": [
+    "world",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "బ్రెంట్ $1.14 తగ్గి $91.62కు",
+    "డబ్ల్యూటీఐ $1.04 తగ్గి $85.49కు",
+    "అమెరికా ముడి నిల్వలు 90 లక్షల బ్యారెళ్లు పెరిగాయి (API)"
+   ],
+   "why": "ముడి చమురు ధరల మార్పులు పెట్రోల్, డీజిల్ వినియోగదారులు, వ్యాపారాలపై ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-12T07:22+05:30",
+   "en": {
+    "h": "Crude oil falls over $1 on hopes for peace talks",
+    "p": "Crude oil prices fell more than $1 a barrel on Thursday on hopes of progress in Russia-Ukraine and Middle East peace talks, Reuters reported. Brent fell 1.2% to $91.62 and US WTI to $85.49. At talks in Abu Dhabi, Russia and Ukraine agreed a major prisoner exchange. An analyst said uncertainty over the Strait of Hormuz makes a big price collapse unlikely.",
+    "pts": [
+     "Brent down $1.14 to $91.62",
+     "WTI down $1.04 to $85.49",
+     "US crude stocks up 9 million barrels (API)"
+    ],
+    "why": "Changes in crude oil prices affect petrol and diesel users and businesses.",
+    "cat": "World · Business",
+    "statl": "Brent crude price per barrel"
+   },
+   "hi": {
+    "h": "शांति वार्ता की उम्मीदों से कच्चा तेल $1 से ज़्यादा सस्ता",
+    "p": "रूस–यूक्रेन और मध्य-पूर्व शांति वार्ता में प्रगति की उम्मीदों से गुरुवार को कच्चे तेल की कीमतें प्रति बैरल $1 से ज़्यादा गिरीं, रॉयटर्स ने बताया। ब्रेंट 1.2% गिरकर $91.62 और अमेरिकी डब्ल्यूटीआई $85.49 पर आ गया। अबू धाबी वार्ता में रूस और यूक्रेन बड़े कैदी आदान-प्रदान पर सहमत हुए। एक विश्लेषक ने कहा कि होर्मुज़ जलडमरूमध्य की अनिश्चितता के कारण कीमतों में भारी गिरावट की संभावना कम है।",
+    "pts": [
+     "ब्रेंट $1.14 गिरकर $91.62 पर",
+     "डब्ल्यूटीआई $1.04 गिरकर $85.49 पर",
+     "अमेरिकी कच्चे तेल का भंडार 90 लाख बैरल बढ़ा (API)"
+    ],
+    "why": "कच्चे तेल की कीमतों में बदलाव पेट्रोल-डीज़ल उपभोक्ताओं और कारोबार को प्रभावित करता है।",
+    "cat": "विश्व · व्यापार",
+    "statl": "ब्रेंट कच्चे तेल का प्रति बैरल भाव"
+   },
+   "d": "12.11.2026",
+   "t": "08:05"
+  },
   {
    "cat": "హైదరాబాద్ · మూసీ",
    "col": "--c-water",
@@ -2314,206 +2414,6 @@
    },
    "d": "11.11.2026",
    "t": "21:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · కోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "1 ఏడాది",
-   "statl": "కఠిన కారాగార శిక్ష",
-   "h": "అవినీతి కేసులో నిజామాబాద్ మాజీ పోలీస్ ఇన్‌స్పెక్టర్‌కు ఏడాది జైలు",
-   "p": "2011లో నమోదైన అవినీతి కేసులో నిజామాబాద్‌కు చెందిన ఒక మాజీ పోలీస్ ఇన్‌స్పెక్టర్‌ను హైదరాబాద్‌లోని ఏసీబీ కేసుల ప్రత్యేక కోర్టు బుధవారం దోషిగా తేల్చింది. ప్రతి అభియోగానికి ఒక ఏడాది కఠిన కారాగార శిక్ష విధించింది, శిక్షలు ఏకకాలంలో అమలవుతాయి. అవినీతి నిరోధక చట్టం కింద రూ.10,000 జరిమానా కూడా విధించిందని తెలంగాణ టుడే పేర్కొంది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/acb-court-convicts-former-nizamabad-police-inspector-dharavath-balaji",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "2011 నాటి అవినీతి కేసులో తీర్పు",
-    "ఏసీబీ ప్రత్యేక కోర్టు: ఏడాది కఠిన కారాగారం",
-    "రూ.10,000 జరిమానా విధింపు"
-   ],
-   "why": "అధికారుల అవినీతి కేసుల్లో కోర్టులు శిక్షలు విధిస్తున్నాయని ఈ తీర్పు చూపిస్తుంది.",
-   "pub": "2026-11-11T20:06+05:30",
-   "en": {
-    "h": "Former Nizamabad police inspector gets one year in jail in graft case",
-    "p": "A special court for ACB cases in Hyderabad on Wednesday convicted a former Nizamabad police inspector in a corruption case registered in 2011. It sentenced him to one year of rigorous imprisonment under each count, with the sentences to run concurrently. It also imposed a fine of Rs 10,000 under the Prevention of Corruption Act, Telangana Today reported.",
-    "pts": [
-     "Verdict in a 2011 corruption case",
-     "ACB special court: one year rigorous imprisonment",
-     "Fine of Rs 10,000 imposed"
-    ],
-    "why": "The verdict shows courts are punishing officials in corruption cases.",
-    "cat": "Hyderabad · Court",
-    "statl": "Rigorous imprisonment"
-   },
-   "hi": {
-    "h": "भ्रष्टाचार मामले में निज़ामाबाद के पूर्व पुलिस इंस्पेक्टर को एक साल की जेल",
-    "p": "हैदराबाद में एसीबी मामलों की विशेष अदालत ने बुधवार को 2011 में दर्ज भ्रष्टाचार मामले में निज़ामाबाद के एक पूर्व पुलिस इंस्पेक्टर को दोषी ठहराया। अदालत ने हर आरोप में एक साल के कठोर कारावास की सज़ा दी, जो साथ-साथ चलेंगी। तेलंगाना टुडे के अनुसार भ्रष्टाचार निवारण अधिनियम के तहत 10,000 रुपये का जुर्माना भी लगाया गया।",
-    "pts": [
-     "2011 के भ्रष्टाचार मामले में फ़ैसला",
-     "एसीबी विशेष अदालत: एक साल कठोर कारावास",
-     "10,000 रुपये का जुर्माना"
-    ],
-    "why": "यह फ़ैसला दिखाता है कि अदालतें अधिकारियों के भ्रष्टाचार मामलों में सज़ा दे रही हैं।",
-    "cat": "हैदराबाद · अदालत",
-    "statl": "कठोर कारावास"
-   },
-   "d": "11.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · కాలుష్యం",
-   "col": "--c-city",
-   "art": "land",
-   "stat": "4",
-   "statl": "నిర్మాణాల మూసివేతకు సిఫారసు",
-   "h": "హైదరాబాద్, రంగారెడ్డిలో 4 నిర్మాణ ప్రాజెక్టుల మూసివేతకు పీసీబీ సిఫారసు",
-   "p": "అనుమతి (సీఎఫ్‌ఈ) లేకుండా నిర్మాణాలు చేస్తున్న హైదరాబాద్, రంగారెడ్డి జిల్లాల్లోని నాలుగు ప్రాజెక్టులను మూసివేయాలని తెలంగాణ కాలుష్య నియంత్రణ మండలి టాస్క్‌ఫోర్స్ కమిటీ సిఫారసు చేసింది. మరో ప్రాజెక్టు నిర్మాణం ఆపాలని సూచించింది. బుధవారం 18 ప్రాజెక్టుల స్థితిని సమీక్షించింది. లోపాలను 10 రోజుల్లో సరిచేయాలని, పెద్ద ఉల్లంఘనలకు పర్యావరణ పరిహారం వసూలు చేయాలని నిర్ణయించింది.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/four-construction-projects-in-hyderabad-ranga-reddy-face-closure-over-environmental-violations",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "18 నిర్మాణ ప్రాజెక్టుల సమీక్ష",
-    "అనుమతి లేని ఆర్‌ఎంసీ ప్లాంట్ మూసివేతకు సిఫారసు",
-    "లోపాలు సరిచేయడానికి 10 రోజుల గడువు"
-   ],
-   "why": "నిర్మాణ దుమ్ముతో వాయు కాలుష్యం ఎదుర్కొంటున్న నగరవాసులకు ఇది సంబంధించిన చర్య.",
-   "pub": "2026-11-11T19:59+05:30",
-   "en": {
-    "h": "PCB panel recommends closing 4 construction projects in Hyderabad, Rangareddy",
-    "p": "The Telangana Pollution Control Board's task force committee recommended closure of four construction projects in Hyderabad and Rangareddy districts that were building without Consent for Establishment. It recommended stopping construction at another project. It reviewed 18 projects on Wednesday. Deficiencies must be fixed within 10 days, and environmental compensation will be levied for major violations.",
-    "pts": [
-     "18 construction projects reviewed",
-     "Closure recommended for an RMC plant without consent",
-     "10 days given to fix deficiencies"
-    ],
-    "why": "The action concerns city residents facing air pollution from construction dust.",
-    "cat": "Hyderabad · Pollution",
-    "statl": "Projects recommended for closure"
-   },
-   "hi": {
-    "h": "हैदराबाद, रंगारेड्डी में 4 निर्माण परियोजनाओं को बंद करने की पीसीबी सिफ़ारिश",
-    "p": "तेलंगाना प्रदूषण नियंत्रण बोर्ड की टास्क फ़ोर्स समिति ने हैदराबाद और रंगारेड्डी ज़िलों की चार निर्माण परियोजनाओं को बंद करने की सिफ़ारिश की, जो स्थापना की सहमति (सीएफ़ई) के बिना निर्माण कर रही थीं। एक और परियोजना में निर्माण रोकने की सिफ़ारिश की गई। बुधवार को 18 परियोजनाओं की समीक्षा हुई। कमियाँ 10 दिन में ठीक करनी होंगी और बड़े उल्लंघनों पर पर्यावरण मुआवज़ा लिया जाएगा।",
-    "pts": [
-     "18 निर्माण परियोजनाओं की समीक्षा",
-     "बिना सहमति वाले आरएमसी प्लांट को बंद करने की सिफ़ारिश",
-     "कमियाँ ठीक करने के लिए 10 दिन"
-    ],
-    "why": "यह कदम निर्माण धूल से वायु प्रदूषण झेल रहे शहरवासियों से जुड़ा है।",
-    "cat": "हैदराबाद · प्रदूषण",
-    "statl": "बंद करने की सिफ़ारिश"
-   },
-   "d": "11.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "2",
-   "statl": "జంట జలాశయాల నుంచి అదనపు నీరు?",
-   "h": "వేసవి నీటి కొరత: ఉస్మాన్‌సాగర్, హిమాయత్‌సాగర్ నుంచి అదనపు నీటిపై జలమండలి పరిశీలన",
-   "p": "ఎల్‌నినో ప్రభావం, సింగూరు–మంజీరా జలాశయాల్లో తగ్గుతున్న నిల్వల నేపథ్యంలో వచ్చే వేసవిలో నగర తాగునీటి సరఫరా ఆగకుండా జలమండలి ప్రత్యామ్నాయాలు చూస్తోంది. ఎండీ కె. అశోక్ రెడ్డి బుధవారం గండిపేట పరిసరాలను పరిశీలించి, ఉస్మాన్‌సాగర్, హిమాయత్‌సాగర్ నుంచి అదనపు నీటి సేకరణపై చర్చించారు. 2027 ఫిబ్రవరి, మార్చిలో డిమాండ్ పెరుగుతుందని అంచనా.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/hmwssb-explores-drawing-additional-water-from-twin-reservoirs-to-meet-summer-demand",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "గండిపేట",
-   "pts": [
-    "గండిపేట వద్ద జలమండలి ఎండీ పరిశీలన",
-    "కొత్త పైప్‌లైన్ మార్గాలు, మౌలిక వసతులపై అధ్యయనం",
-    "నీటి లభ్యత చూసి తదుపరి నిర్ణయం"
-   ],
-   "why": "వచ్చే వేసవిలో హైదరాబాద్ నగరవాసుల తాగునీటి సరఫరాకు ఇది కీలకం.",
-   "pub": "2026-11-11T19:35+05:30",
-   "en": {
-    "h": "Summer water worry: HMWSSB studies extra water from Osman Sagar, Himayat Sagar",
-    "p": "With El Niño concerns and falling reserves in the Singur and Manjira reservoirs, HMWSSB is exploring alternatives to keep Hyderabad's drinking water supply going next summer. MD K Ashok Reddy inspected Gandipet and nearby areas on Wednesday and discussed drawing extra water from Osman Sagar and Himayat Sagar. Demand is expected to rise in February and March 2027.",
-    "pts": [
-     "HMWSSB MD inspects Gandipet area",
-     "New pipeline routes and infrastructure studied",
-     "Next step after assessing water availability"
-    ],
-    "why": "This is key to Hyderabad residents' drinking water supply next summer.",
-    "cat": "Hyderabad · Water",
-    "statl": "Extra water from twin reservoirs?"
-   },
-   "hi": {
-    "h": "गर्मी में पानी की चिंता: उस्मानसागर, हिमायतसागर से अतिरिक्त पानी पर जल बोर्ड का अध्ययन",
-    "p": "अल नीनो की आशंका और सिंगूर–मंजीरा जलाशयों में घटते भंडार के बीच हैदराबाद जल बोर्ड अगली गर्मी में पेयजल आपूर्ति बनाए रखने के विकल्प देख रहा है। प्रबंध निदेशक के. अशोक रेड्डी ने बुधवार को गंडिपेट क्षेत्र का निरीक्षण किया और उस्मानसागर व हिमायतसागर से अतिरिक्त पानी लेने पर चर्चा की। फरवरी-मार्च 2027 में मांग बढ़ने का अनुमान है।",
-    "pts": [
-     "जल बोर्ड एमडी ने गंडिपेट का निरीक्षण किया",
-     "नए पाइपलाइन मार्गों और ढांचे का अध्ययन",
-     "पानी की उपलब्धता देखकर अगला फ़ैसला"
-    ],
-    "why": "यह अगली गर्मी में हैदराबाद के लोगों की पेयजल आपूर्ति के लिए अहम है।",
-    "cat": "हैदराबाद · पानी",
-    "statl": "जुड़वां जलाशयों से अतिरिक्त पानी?"
-   },
-   "d": "11.11.2026",
-   "t": "20:35"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "12",
-   "statl": "ఫుడ్ క్లస్టర్‌పై ఆసక్తి చూపిన యూఏఈ కంపెనీలు",
-   "h": "ఏపీ ఆహార శుద్ధి రంగంలో పెట్టుబడులు పెట్టండి: యూఏఈకి చంద్రబాబు ఆహ్వానం",
-   "p": "విశాఖలో సీఐఐ భాగస్వామ్య సదస్సుకు వచ్చిన యూఏఈ ఆర్థిక, పర్యాటక మంత్రి అబ్దుల్లా బిన్ తౌక్ అల్ మర్రి సీఎం చంద్రబాబుతో భేటీ అయ్యారు. రాయలసీమను రూ.1 లక్ష కోట్లతో ఉద్యాన హబ్‌గా అభివృద్ధి చేస్తున్నామని, ఆహార శుద్ధి రంగంలో పెట్టుబడులు పెట్టాలని సీఎం కోరారు. రొయ్యలు, ఆక్వా ఉత్పత్తుల దిగుమతిని పరిశీలిస్తున్నామని, మరో 12 కంపెనీలు ఆసక్తి చూపాయని యూఏఈ బృందం చెప్పింది.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/naidu-invites-uae-to-invest-in-andhra-pradeshs-food-processing-sector-2003512",
-   "sec": [
-    "telangana",
-    "business",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "యూఏఈ మంత్రితో సీఎం చంద్రబాబు భేటీ",
-    "రాయలసీమ ఉద్యాన హబ్‌కు రూ.1 లక్ష కోట్లు",
-    "ఆక్వా ఉత్పత్తుల దిగుమతిపై యూఏఈ ఆసక్తి"
-   ],
-   "why": "రాయలసీమ ఉద్యాన రైతులు, ఆక్వా రైతులకు కొత్త మార్కెట్ అవకాశాలకు ఇది సంబంధించినది.",
-   "pub": "2026-11-11T19:22+05:30",
-   "en": {
-    "h": "Invest in AP's food processing sector: Chandrababu Naidu invites UAE",
-    "p": "UAE Minister of Economy and Tourism Abdullah bin Touq Al Marri, in Visakhapatnam for the CII Partnership Summit, met CM Chandrababu Naidu. Naidu said Rayalaseema is being developed as a horticulture hub with Rs 1 lakh crore and invited investment in food processing. The UAE delegation said it is exploring imports of shrimp and aquaculture products and that 12 more companies have shown interest.",
-    "pts": [
-     "CM Naidu meets UAE minister",
-     "Rs 1 lakh crore for Rayalaseema horticulture hub",
-     "UAE interested in importing aqua products"
-    ],
-    "why": "It concerns new market opportunities for Rayalaseema horticulture and aqua farmers.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "UAE firms interested in food cluster"
-   },
-   "hi": {
-    "h": "आंध्र के खाद्य प्रसंस्करण क्षेत्र में निवेश करें: चंद्रबाबू नायडू का यूएई को न्योता",
-    "p": "सीआईआई पार्टनरशिप समिट के लिए विशाखापत्तनम आए यूएई के अर्थव्यवस्था और पर्यटन मंत्री अब्दुल्ला बिन तौक अल मर्री ने मुख्यमंत्री चंद्रबाबू नायडू से मुलाक़ात की। नायडू ने कहा कि रायलसीमा को 1 लाख करोड़ रुपये से बागवानी हब बनाया जा रहा है और खाद्य प्रसंस्करण में निवेश का न्योता दिया। यूएई प्रतिनिधिमंडल ने कहा कि वह झींगा और जलकृषि उत्पादों के आयात पर विचार कर रहा है और 12 और कंपनियों ने रुचि दिखाई है।",
-    "pts": [
-     "मुख्यमंत्री नायडू की यूएई मंत्री से मुलाक़ात",
-     "रायलसीमा बागवानी हब के लिए 1 लाख करोड़ रुपये",
-     "जलकृषि उत्पादों के आयात में यूएई की रुचि"
-    ],
-    "why": "यह रायलसीमा के बागवानी और जलकृषि किसानों के लिए नए बाज़ार अवसरों से जुड़ा है।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "फ़ूड क्लस्टर में रुचि दिखाने वाली कंपनियां"
-   },
-   "d": "11.11.2026",
-   "t": "20:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
