@@ -1,8 +1,58 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T21:10:15+05:30",
+ "updated": "2026-11-12T21:44:49+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "2–3°C",
+   "statl": "సాధారణం కంటే తగ్గనున్న కనిష్ఠ ఉష్ణోగ్రతలు",
+   "h": "చలి పెరుగుతుండటంతో తెలంగాణలో ఫ్లూ హెచ్చరిక: ఆసుపత్రుల్లో పడకలు సిద్ధం",
+   "p": "రానున్న రెండు రోజులు కనిష్ఠ ఉష్ణోగ్రతలు సాధారణం కంటే 2–3 డిగ్రీలు తగ్గుతాయని ఐఎండీ హైదరాబాద్ అంచనా వేయడంతో రాష్ట్ర ఆరోగ్య శాఖ ఫ్లూ హెచ్చరిక జారీ చేసింది. అన్ని ప్రభుత్వ ఆసుపత్రుల్లో ప్రత్యేక పడకలు, అవసరమైన మందులు సిద్ధంగా ఉంచాలని ప్రజారోగ్య సంచాలకులు డాక్టర్ బి. రవీందర్ నాయక్ ఆదేశించారు. జ్వరం, దగ్గు, గొంతు నొప్పి, ఒళ్లు నొప్పులు ఫ్లూ లక్షణాలని, అత్యవసరమైతే 108కు కాల్ చేయాలని సూచించారు.",
+   "src": "The South First",
+   "url": "https://thesouthfirst.com/health/temperature-dip-triggers-flu-advisory-in-telangana-hospitals-told-to-keep-beds-ready/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గర్భిణులు, ఐదేళ్లలోపు పిల్లలు, 65 ఏళ్లు పైబడినవారికి ఎక్కువ ముప్పు",
+    "తీవ్ర జ్వరం, ఆయాసం ఉంటే వెంటనే చికిత్స అవసరం",
+    "అత్యవసరమైతే 108కు కాల్ చేయాలని సూచన"
+   ],
+   "why": "చలికాలంలో పిల్లలు, వృద్ధులు, గర్భిణులు, దీర్ఘకాలిక వ్యాధులున్నవారు జాగ్రత్తగా ఉండాల్సిన అవసరాన్ని ఈ హెచ్చరిక గుర్తుచేస్తోంది.",
+   "pub": "2026-11-12T16:53+05:30",
+   "d": "12.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Flu advisory in Telangana as temperatures dip; hospitals told to keep beds ready",
+    "p": "With IMD Hyderabad forecasting minimum temperatures 2–3 degrees below normal over the next two days, the state Health Department has issued a flu advisory. Director of Public Health Dr B. Ravinder Nayak directed all government hospitals to keep special beds and essential medicines ready. Fever, cough, sore throat and body ache are flu symptoms, and people were told to call 108 in an emergency.",
+    "pts": [
+     "Pregnant women, under-fives and people over 65 most at risk",
+     "High fever or breathlessness need immediate treatment",
+     "Call 108 in an emergency, advisory says"
+    ],
+    "why": "The advisory reminds children, the elderly, pregnant women and people with chronic illnesses to take care this winter.",
+    "cat": "Telangana · Health",
+    "statl": "Minimum temperatures to fall below normal"
+   },
+   "hi": {
+    "h": "तापमान गिरने पर तेलंगाना में फ्लू एडवाइज़री: अस्पतालों में बिस्तर तैयार रखने के निर्देश",
+    "p": "आईएमडी हैदराबाद ने अगले दो दिनों में न्यूनतम तापमान सामान्य से 2–3 डिग्री कम रहने का अनुमान जताया है, जिसके बाद राज्य स्वास्थ्य विभाग ने फ्लू एडवाइज़री जारी की। जन स्वास्थ्य निदेशक डॉ. बी. रवींदर नायक ने सभी सरकारी अस्पतालों को विशेष बिस्तर और ज़रूरी दवाएँ तैयार रखने का निर्देश दिया। बुखार, खांसी, गले में खराश और बदन दर्द फ्लू के लक्षण हैं; आपात स्थिति में 108 पर कॉल करने को कहा गया।",
+    "pts": [
+     "गर्भवती महिलाओं, पाँच साल से कम बच्चों और 65+ लोगों को ज़्यादा खतरा",
+     "तेज़ बुखार, सांस फूलने पर तुरंत इलाज ज़रूरी",
+     "आपात स्थिति में 108 पर कॉल करने की सलाह"
+    ],
+    "why": "यह एडवाइज़री सर्दियों में बच्चों, बुज़ुर्गों, गर्भवती महिलाओं और पुरानी बीमारी वाले लोगों को सावधान रहने की याद दिलाती है।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "न्यूनतम तापमान सामान्य से नीचे जाएगा"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
@@ -2455,57 +2505,6 @@
    },
    "d": "12.11.2026",
    "t": "14:35"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹9.89 లక్షల కోట్లు",
-   "statl": "సీఐఐ సదస్సులో పెట్టుబడుల ఒప్పందాలు",
-   "h": "సీఐఐ సదస్సులో 303 ఒప్పందాలు, ₹9.89 లక్షల కోట్ల పెట్టుబడులు: సీఎం చంద్రబాబు",
-   "p": "విశాఖలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో కుదిరిన 303 ఒప్పందాల ద్వారా రాష్ట్రానికి ₹9.89 లక్షల కోట్ల పెట్టుబడులు వస్తాయని సీఎం చంద్రబాబు నాయుడు తెలిపారు. దీంతో రాష్ట్రానికి మొత్తం పెట్టుబడులు ₹32 లక్షల కోట్లకు చేరాయన్నారు. క్వాంటమ్ కంప్యూటింగ్ యూనిట్లు, పౌర, రక్షణ డ్రోన్ల కోసం 'డ్రోన్ సిటీ' ఏర్పాటు చేస్తామని ఆయన ప్రకటించారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/ap-secures-rs-989-lakh-cr-of-investment-at-cii-summit-cm-naidu-1141360",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "loc": "విశాఖపట్నం",
-   "pts": [
-    "303 ఒప్పందాలతో ₹9.89 లక్షల కోట్ల పెట్టుబడులు",
-    "రాష్ట్ర మొత్తం పెట్టుబడులు ₹32 లక్షల కోట్లు",
-    "డ్రోన్ సిటీ, క్వాంటమ్ యూనిట్ల ప్రకటన"
-   ],
-   "why": "ఈ పెట్టుబడులు అమలైతే ఏపీలో పరిశ్రమలు, ఉద్యోగ అవకాశాలపై ప్రభావం ఉంటుంది.",
-   "pub": "2026-11-12T13:41+05:30",
-   "en": {
-    "h": "303 deals worth ₹9.89 lakh crore signed at CII summit: CM Naidu",
-    "p": "Chief Minister N. Chandrababu Naidu said the 303 agreements signed at the CII Partnership Summit in Visakhapatnam will bring ₹9.89 lakh crore of investment to the state. He said this takes the state's total investments to ₹32 lakh crore. He announced quantum computing units and a 'Drone City' for civilian and defence drones.",
-    "pts": [
-     "303 deals worth ₹9.89 lakh crore",
-     "State's total investment at ₹32 lakh crore",
-     "Drone City and quantum units announced"
-    ],
-    "why": "If implemented, these investments will affect industry and job opportunities in AP.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "Investment deals at CII summit"
-   },
-   "hi": {
-    "h": "सीआईआई सम्मेलन में 303 समझौते, ₹9.89 लाख करोड़ का निवेश: सीएम नायडू",
-    "p": "मुख्यमंत्री एन. चंद्रबाबू नायडू ने कहा कि विशाखापत्तनम में सीआईआई पार्टनरशिप समिट में हुए 303 समझौतों से राज्य में ₹9.89 लाख करोड़ का निवेश आएगा। उन्होंने कहा कि इससे राज्य में कुल निवेश ₹32 लाख करोड़ तक पहुंच गया है। उन्होंने क्वांटम कंप्यूटिंग इकाइयों और नागरिक व रक्षा ड्रोन के लिए 'ड्रोन सिटी' की घोषणा की।",
-    "pts": [
-     "303 समझौते, ₹9.89 लाख करोड़ का निवेश",
-     "राज्य में कुल निवेश ₹32 लाख करोड़",
-     "ड्रोन सिटी और क्वांटम इकाइयों की घोषणा"
-    ],
-    "why": "लागू होने पर इन निवेशों का आंध्र प्रदेश में उद्योग और रोजगार पर असर होगा।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "सीआईआई सम्मेलन में निवेश समझौते"
-   },
-   "d": "12.11.2026",
-   "t": "14:05"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",

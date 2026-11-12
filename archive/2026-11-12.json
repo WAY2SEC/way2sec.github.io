@@ -1,8 +1,58 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 116,
+ "count": 117,
  "stories": [
+  {
+   "cat": "తెలంగాణ · ఆరోగ్యం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "2–3°C",
+   "statl": "సాధారణం కంటే తగ్గనున్న కనిష్ఠ ఉష్ణోగ్రతలు",
+   "h": "చలి పెరుగుతుండటంతో తెలంగాణలో ఫ్లూ హెచ్చరిక: ఆసుపత్రుల్లో పడకలు సిద్ధం",
+   "p": "రానున్న రెండు రోజులు కనిష్ఠ ఉష్ణోగ్రతలు సాధారణం కంటే 2–3 డిగ్రీలు తగ్గుతాయని ఐఎండీ హైదరాబాద్ అంచనా వేయడంతో రాష్ట్ర ఆరోగ్య శాఖ ఫ్లూ హెచ్చరిక జారీ చేసింది. అన్ని ప్రభుత్వ ఆసుపత్రుల్లో ప్రత్యేక పడకలు, అవసరమైన మందులు సిద్ధంగా ఉంచాలని ప్రజారోగ్య సంచాలకులు డాక్టర్ బి. రవీందర్ నాయక్ ఆదేశించారు. జ్వరం, దగ్గు, గొంతు నొప్పి, ఒళ్లు నొప్పులు ఫ్లూ లక్షణాలని, అత్యవసరమైతే 108కు కాల్ చేయాలని సూచించారు.",
+   "src": "The South First",
+   "url": "https://thesouthfirst.com/health/temperature-dip-triggers-flu-advisory-in-telangana-hospitals-told-to-keep-beds-ready/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "గర్భిణులు, ఐదేళ్లలోపు పిల్లలు, 65 ఏళ్లు పైబడినవారికి ఎక్కువ ముప్పు",
+    "తీవ్ర జ్వరం, ఆయాసం ఉంటే వెంటనే చికిత్స అవసరం",
+    "అత్యవసరమైతే 108కు కాల్ చేయాలని సూచన"
+   ],
+   "why": "చలికాలంలో పిల్లలు, వృద్ధులు, గర్భిణులు, దీర్ఘకాలిక వ్యాధులున్నవారు జాగ్రత్తగా ఉండాల్సిన అవసరాన్ని ఈ హెచ్చరిక గుర్తుచేస్తోంది.",
+   "pub": "2026-11-12T16:53+05:30",
+   "d": "12.11.2026",
+   "t": "21:35",
+   "en": {
+    "h": "Flu advisory in Telangana as temperatures dip; hospitals told to keep beds ready",
+    "p": "With IMD Hyderabad forecasting minimum temperatures 2–3 degrees below normal over the next two days, the state Health Department has issued a flu advisory. Director of Public Health Dr B. Ravinder Nayak directed all government hospitals to keep special beds and essential medicines ready. Fever, cough, sore throat and body ache are flu symptoms, and people were told to call 108 in an emergency.",
+    "pts": [
+     "Pregnant women, under-fives and people over 65 most at risk",
+     "High fever or breathlessness need immediate treatment",
+     "Call 108 in an emergency, advisory says"
+    ],
+    "why": "The advisory reminds children, the elderly, pregnant women and people with chronic illnesses to take care this winter.",
+    "cat": "Telangana · Health",
+    "statl": "Minimum temperatures to fall below normal"
+   },
+   "hi": {
+    "h": "तापमान गिरने पर तेलंगाना में फ्लू एडवाइज़री: अस्पतालों में बिस्तर तैयार रखने के निर्देश",
+    "p": "आईएमडी हैदराबाद ने अगले दो दिनों में न्यूनतम तापमान सामान्य से 2–3 डिग्री कम रहने का अनुमान जताया है, जिसके बाद राज्य स्वास्थ्य विभाग ने फ्लू एडवाइज़री जारी की। जन स्वास्थ्य निदेशक डॉ. बी. रवींदर नायक ने सभी सरकारी अस्पतालों को विशेष बिस्तर और ज़रूरी दवाएँ तैयार रखने का निर्देश दिया। बुखार, खांसी, गले में खराश और बदन दर्द फ्लू के लक्षण हैं; आपात स्थिति में 108 पर कॉल करने को कहा गया।",
+    "pts": [
+     "गर्भवती महिलाओं, पाँच साल से कम बच्चों और 65+ लोगों को ज़्यादा खतरा",
+     "तेज़ बुखार, सांस फूलने पर तुरंत इलाज ज़रूरी",
+     "आपात स्थिति में 108 पर कॉल करने की सलाह"
+    ],
+    "why": "यह एडवाइज़री सर्दियों में बच्चों, बुज़ुर्गों, गर्भवती महिलाओं और पुरानी बीमारी वाले लोगों को सावधान रहने की याद दिलाती है।",
+    "cat": "तेलंगाना · स्वास्थ्य",
+    "statl": "न्यूनतम तापमान सामान्य से नीचे जाएगा"
+   }
+  },
   {
    "cat": "హైదరాబాద్ · నీరు",
    "col": "--c-water",
