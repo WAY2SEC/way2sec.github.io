@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T10:35:00+05:30",
+ "cutoff": "2026-11-12T11:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -1011,6 +1011,19 @@
    "skipped": 4,
    "review": 0,
    "gaps": "Search-first; WebSearch returned mostly stale listing pages. Read via sub-agent: Hans Telangana listing, ETV Bharat TG+AP 12 Nov live blogs, Hans rain-alert article, Andhra Jyothy TET, Prabha News cold. 4 Hans articles (SP pending cases 08:01, KTR ashta grahalu 02:07, Trump Iran 07:12, Sunita Williams 07:33) refused by WebFetch (not in search results) - left unseen. ETV TG blog search snippet mentioned a Nizamabad Kanjar road accident (2 dead) not in fetched page - left unseen. DC Bharat Summit BJP article (10:41) is after END - left for next run. telugunow, newstrack, thehawk refused. Eenadu, Sakshi, TV9, V6, NTV, The Hindu, PTI, Reuters/AP not surfaced in range. Districts searched: Khammam, Warangal, Nalgonda, Suryapet, Yadadri, Sircilla, Jagtial, Kamareddy, Medak, Guntur, Prakasam, Krishna, Visakhapatnam."
+  },
+  {
+   "window": "2026-11-12T10:35:00+05:30/2026-11-12T11:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 3,
+   "published": 3,
+   "late": 1,
+   "sensitive": 2,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebSearch returned mostly stale listing pages. Read via sub-agent: ETV Bharat TG 12 Nov live blog (cached copy only to 06:57; Kanjar/Nizamabad accident entry not present - left unseen), Telangana Today HYDRAA HC (11:00), TT/IANS Kishtwar SPOs (10:38), Hans gold rates (10:31), Hans cyclone (01:18, before lookback) and Kedarnath closure (02:15, before lookback). ETV blog entries 06:41-06:52 (Modi Karnataka visit, fake certificates racket, Italy school threats, Trump-Iran, Rahul US tour) share an already-published URL - not republished. No international-topic items surfaced. Eenadu, Sakshi, Andhra Jyothy, TV9, V6, NTV, The Hindu, PTI, Reuters/AP not surfaced in range. Districts searched: Bhadradri Kothagudem, Mahabubabad, Mulugu, Nizamabad, Adilabad, Nirmal, Anakapalli, Konaseema, Visakhapatnam."
   }
  ],
  "seen": [
@@ -4363,6 +4376,21 @@
    "url": "https://www.etvbharat.com/te/state/live-blog--12th-november-2026-latest-top-news-information-across-telangana-tgs26111200326#rahul-us-visit",
    "d": "12.11.2026",
    "w": "10:35"
+  },
+  {
+   "url": "https://telanganatoday.com/telangana-high-court-orders-police-to-ensure-officials-e703cc1f",
+   "d": "12.11.2026",
+   "w": "11:05"
+  },
+  {
+   "url": "https://telanganatoday.com/two-missing-spos-found-dead-with-bullet-injuries-in-jks-kishtwar",
+   "d": "12.11.2026",
+   "w": "11:05"
+  },
+  {
+   "url": "https://www.thehansindia.com/business/market-compass/gold-and-silver-rates-today-12-nov-in-hyderabad-visakhapatnam-check-gold-prices-of-18k-22k-24k-1141327",
+   "d": "12.11.2026",
+   "w": "11:05"
   }
  ]
 }
