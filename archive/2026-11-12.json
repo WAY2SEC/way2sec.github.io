@@ -1,8 +1,259 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 14,
+ "count": 19,
  "stories": [
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "8%+",
+   "statl": "ఆఫ్టర్-అవర్స్‌లో షేరు పతనం",
+   "h": "అప్‌డేట్: సీఈఓ జెన్సన్ హువాంగ్ తొలగింపుపై ఎన్‌విడియా బోర్డు భేటీ",
+   "p": "ఎన్‌విడియా సీఈఓ జెన్సన్ హువాంగ్‌ను తొలగించాలా వద్దా అని నిర్ణయించేందుకు కంపెనీ బోర్డు బుధవారం (అమెరికా కాలమానం) సమావేశమవుతోందని సంబంధిత వ్యక్తి ఒకరు రాయిటర్స్‌కు తెలిపారు. ఆయనపై రెండు వివాహేతర సంబంధాల ఆరోపణల నేపథ్యంలో ఈ పరిణామం. బోర్డు ఆయనను తొలగించేందుకు సిద్ధమవుతోందని వాల్‌స్ట్రీట్ జర్నల్ నివేదించింది. బోర్డు సమావేశంపై ఎన్‌విడియా వెంటనే స్పందించలేదు.",
+   "src": "ABC News",
+   "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826",
+   "sec": [
+    "world",
+    "ai",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఆఫ్టర్-అవర్స్ ట్రేడింగ్‌లో షేరు 8%కు పైగా పతనం",
+    "వార్తలతో నాస్‌డాక్ ఫ్యూచర్స్ 1% తగ్గుదల",
+    "బోర్డు భేటీపై ఎన్‌విడియా ఇంకా స్పందించలేదు"
+   ],
+   "why": "ఏఐ చిప్ దిగ్గజంలో ఈ పరిణామం టెక్ మార్కెట్లను కదిలించింది; ఏఐ, టెక్ షేర్లను గమనించేవారికి ముఖ్యం.",
+   "pub": "2026-11-12T06:49+05:30",
+   "en": {
+    "h": "Update: Nvidia board meets on whether to oust CEO Jensen Huang",
+    "p": "Nvidia's board is meeting on Wednesday (US time) to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters. This follows allegations of two extramarital affairs against him. The Wall Street Journal reported that the board is preparing to oust him. Nvidia did not immediately respond to a request for comment on the board meeting.",
+    "pts": [
+     "Shares fell over 8% in after-hours trading",
+     "Nasdaq futures dropped 1% on the news",
+     "Nvidia has not yet responded on the board meeting"
+    ],
+    "why": "The development at the AI chip giant has moved tech markets; it matters to anyone tracking AI and tech stocks.",
+    "cat": "World · Technology",
+    "statl": "Share fall in after-hours trade"
+   },
+   "hi": {
+    "h": "अपडेट: सीईओ जेन्सन हुआंग को हटाने पर एनवीडिया बोर्ड की बैठक",
+    "p": "एनवीडिया के सीईओ जेन्सन हुआंग को हटाया जाए या नहीं, यह तय करने के लिए कंपनी का बोर्ड बुधवार (अमेरिकी समय) को बैठक कर रहा है, मामले से जुड़े एक व्यक्ति ने रॉयटर्स को बताया। यह उन पर दो विवाहेतर संबंधों के आरोपों के बाद हुआ है। वॉल स्ट्रीट जर्नल ने बताया कि बोर्ड उन्हें हटाने की तैयारी कर रहा है। बोर्ड बैठक पर एनवीडिया ने तुरंत कोई जवाब नहीं दिया।",
+    "pts": [
+     "आफ्टर-आवर्स ट्रेडिंग में शेयर 8% से ज़्यादा गिरा",
+     "खबर से नैस्डैक फ्यूचर्स 1% गिरे",
+     "बोर्ड बैठक पर एनवीडिया ने अभी जवाब नहीं दिया"
+    ],
+    "why": "एआई चिप दिग्गज में इस घटनाक्रम ने टेक बाज़ारों को हिलाया; एआई और टेक शेयरों पर नज़र रखने वालों के लिए अहम।",
+    "cat": "विश्व · टेक्नोलॉजी",
+    "statl": "आफ्टर-आवर्स में शेयर गिरावट"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "తెలంగాణ · క్రీడలు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "7,000",
+   "statl": "క్రీడాకారులు, కోచ్‌లు, అతిథులు",
+   "h": "డిసెంబర్ 11 నుంచి తెలంగాణలో ఖేలో ఇండియా యూత్ గేమ్స్",
+   "p": "ఖేలో ఇండియా యూత్ గేమ్స్ 2026 డిసెంబర్ 11 నుంచి 22 వరకు తెలంగాణలోని ఆరు జిల్లాల్లో జరగనున్నాయి. కేంద్ర క్రీడా కార్యదర్శి హరి రంజన్ రావుతో వీడియో కాన్ఫరెన్స్ సమీక్ష తర్వాత సీఎస్ సంజయ్ జాజు ఏర్పాట్లు వేగంగా సాగుతున్నాయని చెప్పారు. దేశవ్యాప్తంగా సుమారు 7,000 మంది క్రీడాకారులు, కోచ్‌లు, అతిథులు రానున్నారు. క్రీడా వసతులకు ₹120 కోట్లు కేటాయించినట్లు అధికారులు తెలిపారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-to-host-khelo-india-youth-games-2026-from-december-11-to-22-across-six-districts-2557964",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "హైదరాబాద్, హనుమకొండ, నిజామాబాద్, కరీంనగర్, ఖమ్మం, మహబూబ్‌నగర్‌లో పోటీలు",
+    "11 స్టేడియాలు సిద్ధం, మరో 5 ఆధునీకరణ చివరి దశలో",
+    "క్రీడా మౌలిక వసతులకు ₹120 కోట్లు కేటాయింపు"
+   ],
+   "why": "రాష్ట్ర యువ క్రీడాకారులకు, ఆతిథ్యమిచ్చే ఆరు జిల్లాల ప్రజలకు ఇది పెద్ద జాతీయ క్రీడా వేదిక.",
+   "pub": "2026-11-12T02:41+05:30",
+   "en": {
+    "h": "Telangana to host Khelo India Youth Games from December 11",
+    "p": "The Khelo India Youth Games 2026 will be held in six districts of Telangana from December 11 to 22. After a video-conference review with Union Sports Secretary Hari Ranjan Rao, Chief Secretary Sanjay Jaju said preparations are moving fast. About 7,000 athletes, coaches and guests are expected from across India. Officials said Rs 120 crore has been allotted for sports facilities.",
+    "pts": [
+     "Events in Hyderabad, Hanamkonda, Nizamabad, Karimnagar, Khammam, Mahabubnagar",
+     "11 stadiums ready, 5 more nearing modernisation",
+     "Rs 120 crore allotted for sports infrastructure"
+    ],
+    "why": "It is a big national sports stage for the state's young athletes and the six host districts.",
+    "cat": "Telangana · Sports",
+    "statl": "Athletes, coaches and guests"
+   },
+   "hi": {
+    "h": "11 दिसंबर से तेलंगाना में खेलो इंडिया यूथ गेम्स",
+    "p": "खेलो इंडिया यूथ गेम्स 2026 तेलंगाना के छह ज़िलों में 11 से 22 दिसंबर तक होंगे। केंद्रीय खेल सचिव हरि रंजन राव के साथ वीडियो कॉन्फ्रेंस समीक्षा के बाद मुख्य सचिव संजय जाजू ने कहा कि तैयारियाँ तेज़ी से चल रही हैं। देशभर से करीब 7,000 खिलाड़ी, कोच और मेहमान आएँगे। अधिकारियों ने बताया कि खेल सुविधाओं के लिए ₹120 करोड़ आवंटित किए गए हैं।",
+    "pts": [
+     "हैदराबाद, हनमकोंडा, निज़ामाबाद, करीमनगर, खम्मम, महबूबनगर में मुकाबले",
+     "11 स्टेडियम तैयार, 5 और का आधुनिकीकरण अंतिम चरण में",
+     "खेल ढाँचे के लिए ₹120 करोड़ आवंटित"
+    ],
+    "why": "राज्य के युवा खिलाड़ियों और मेज़बान छह ज़िलों के लिए यह बड़ा राष्ट्रीय खेल मंच है।",
+    "cat": "तेलंगाना · खेल",
+    "statl": "खिलाड़ी, कोच और मेहमान"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగులు",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "51%",
+   "statl": "కోరుతున్న ఫిట్‌మెంట్",
+   "h": "డిసెంబర్ 12న టీఎన్జీవోల 'చలో ఢిల్లీ'",
+   "p": "కేంద్ర, రాష్ట్ర ప్రభుత్వాల విధానాలకు నిరసనగా డిసెంబర్ 12న 'చలో ఢిల్లీ' చేపడుతున్నట్లు తెలంగాణ నాన్-గెజిటెడ్ ఆఫీసర్ల సంఘం (టీఎన్జీవో) ప్రకటించింది. ఢిల్లీ రామ్‌లీలా మైదానంలో అఖిల భారత రాష్ట్ర ప్రభుత్వ ఉద్యోగుల సమాఖ్య నిర్వహించే కర్మచారి ఆక్రోశ్ ర్యాలీని విజయవంతం చేయాలని అధ్యక్షుడు మారం జగదీశ్వర్, ప్రధాన కార్యదర్శి ఎస్‌ఎం హుస్సేనీ పిలుపునిచ్చారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/tngos-call-for-chalo-delhi-on-december-12-to-protest-against-central-and-state-government-policies-2558149",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "51% ఫిట్‌మెంట్‌తో పీఆర్సీ అమలు చేయాలని డిమాండ్",
+    "సీపీఎస్ రద్దు, పాత పెన్షన్ పునరుద్ధరణ కోరిక",
+    "పీఆర్సీ లేక మూడేళ్లు నష్టపోయామని నేతల ఆవేదన"
+   ],
+   "why": "వేతన సవరణ, పెన్షన్ అంశాలు రాష్ట్ర ప్రభుత్వ ఉద్యోగులు, వారి కుటుంబాలపై నేరుగా ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-12T02:42+05:30",
+   "en": {
+    "h": "TNGOs call for 'Chalo Delhi' on December 12",
+    "p": "The Telangana Non-Gazetted Officers' Association (TNGO) has announced a 'Chalo Delhi' on December 12 to protest central and state government policies. President Maram Jagadishwar and general secretary SM Hussaini urged members to make a success of the Karmachari Akrosh Rally organised by the All India State Government Employees Federation at Delhi's Ramlila Maidan.",
+    "pts": [
+     "Demand for PRC with 51% fitment",
+     "Call to abolish CPS and restore old pension",
+     "Leaders say employees lost three years without PRC"
+    ],
+    "why": "Pay revision and pension issues directly affect state government employees and their families.",
+    "cat": "Telangana · Employees",
+    "statl": "Fitment demanded"
+   },
+   "hi": {
+    "h": "12 दिसंबर को टीएनजीओ का 'चलो दिल्ली'",
+    "p": "तेलंगाना नॉन-गज़ेटेड ऑफिसर्स एसोसिएशन (टीएनजीओ) ने केंद्र और राज्य सरकारों की नीतियों के विरोध में 12 दिसंबर को 'चलो दिल्ली' की घोषणा की है। अध्यक्ष मारम जगदीश्वर और महासचिव एसएम हुसैनी ने दिल्ली के रामलीला मैदान में अखिल भारतीय राज्य सरकारी कर्मचारी महासंघ की कर्मचारी आक्रोश रैली को सफल बनाने की अपील की।",
+    "pts": [
+     "51% फिटमेंट के साथ पीआरसी लागू करने की माँग",
+     "सीपीएस खत्म कर पुरानी पेंशन बहाली की माँग",
+     "नेताओं का कहना, पीआरसी के बिना तीन साल का नुकसान"
+    ],
+    "why": "वेतन संशोधन और पेंशन के मुद्दे राज्य सरकारी कर्मचारियों और उनके परिवारों पर सीधा असर डालते हैं।",
+    "cat": "तेलंगाना · कर्मचारी",
+    "statl": "माँगा गया फिटमेंट"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · సదస్సు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "2 రోజులు",
+   "statl": "నవంబర్ 13–14 తేదీల్లో",
+   "h": "హైదరాబాద్‌లో 13, 14 తేదీల్లో భారత్ సమ్మిట్-2026",
+   "p": "తెలంగాణ ప్రభుత్వం ఈ నెల 13, 14 తేదీల్లో హైదరాబాద్‌లో 'భారత్ సమ్మిట్-2026' నిర్వహిస్తోందని ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క బుధవారం విలేకరులకు తెలిపారు. ప్రపంచవ్యాప్తంగా ఉన్న ప్రజాస్వామ్యవాదులు, ప్రగతిశీల మేధావులను ఒకే వేదికపైకి తెచ్చి ప్రజాస్వామ్య, సామాజిక, ఆర్థిక విధానాలకు కొత్త దిశ చూపడమే సదస్సు లక్ష్యమని ఆయన చెప్పారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/business/hyderabad-to-host-two-day-bharat-summit-2026-on-november-13-and-14-2557956",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 13, 14 తేదీల్లో రెండు రోజుల సదస్సు",
+    "ప్రపంచ ప్రజాస్వామ్యవాదులు, మేధావులు ఒకే వేదికపైకి",
+    "వివరాలు వెల్లడించిన డిప్యూటీ సీఎం భట్టి విక్రమార్క"
+   ],
+   "why": "హైదరాబాద్ ఆతిథ్యమిచ్చే ఈ అంతర్జాతీయ సదస్సు విధానాలపై చర్చకు వేదిక కానుంది.",
+   "pub": "2026-11-12T01:37+05:30",
+   "en": {
+    "h": "Hyderabad to host Bharat Summit-2026 on November 13 and 14",
+    "p": "Deputy Chief Minister Mallu Bhatti Vikramarka told reporters on Wednesday that the Telangana government is hosting the 'Bharat Summit-2026' in Hyderabad on the 13th and 14th of this month. He said the summit aims to bring democrats and progressive intellectuals from around the world onto one platform and set a new direction for democratic, social and economic policies.",
+    "pts": [
+     "Two-day summit on November 13 and 14",
+     "Global democrats and intellectuals on one platform",
+     "Details shared by Deputy CM Bhatti Vikramarka"
+    ],
+    "why": "The international summit hosted by Hyderabad will be a platform for policy discussions.",
+    "cat": "Hyderabad · Summit",
+    "statl": "On November 13–14"
+   },
+   "hi": {
+    "h": "हैदराबाद में 13 और 14 नवंबर को भारत समिट-2026",
+    "p": "उपमुख्यमंत्री मल्लू भट्टी विक्रमार्क ने बुधवार को पत्रकारों से कहा कि तेलंगाना सरकार इस महीने की 13 और 14 तारीख को हैदराबाद में 'भारत समिट-2026' आयोजित कर रही है। उन्होंने कहा कि इसका लक्ष्य दुनिया भर के लोकतंत्रवादियों और प्रगतिशील बुद्धिजीवियों को एक मंच पर लाकर लोकतांत्रिक, सामाजिक और आर्थिक नीतियों को नई दिशा देना है।",
+    "pts": [
+     "13 और 14 नवंबर को दो दिवसीय सम्मेलन",
+     "दुनिया भर के लोकतंत्रवादी और बुद्धिजीवी एक मंच पर",
+     "उपमुख्यमंत्री भट्टी विक्रमार्क ने दी जानकारी"
+    ],
+    "why": "हैदराबाद में होने वाला यह अंतरराष्ट्रीय सम्मेलन नीतियों पर चर्चा का मंच बनेगा।",
+    "cat": "हैदराबाद · सम्मेलन",
+    "statl": "13–14 नवंबर को"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "సింగపూర్",
+   "statl": "అమరావతి భాగస్వామ్యంపై చర్చలు",
+   "h": "అమరావతి అభివృద్ధిపై సింగపూర్ మంత్రితో సీఎం చంద్రబాబు చర్చలు",
+   "p": "విశాఖలో సీఐఐ భాగస్వామ్య సదస్సు సందర్భంగా సీఎం చంద్రబాబు నాయుడు బుధవారం సింగపూర్ విదేశాంగ, ఇంధన, వాణిజ్య–పరిశ్రమల సహాయ మంత్రి గాన్ సియో హువాంగ్‌తో భేటీ అయ్యారు. అమరావతి సమీకృత టౌన్‌షిప్ అభివృద్ధి, ఆర్టీజీఎస్ ద్వారా డిజిటల్ పాలన, సంస్థాగత సామర్థ్య పెంపు, లాజిస్టిక్స్, అంతర్జాతీయ వాణిజ్యంపై చర్చించినట్లు ది హన్స్ ఇండియా తెలిపింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/cm-naidu-holds-talks-with-singapore-on-amaravati-1141142",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "ఏపీ–సింగపూర్ భాగస్వామ్యంపై సింగపూర్ మంత్రితో చర్చలు",
+    "అమరావతి టౌన్‌షిప్, డిజిటల్ పాలన, లాజిస్టిక్స్ అంశాలు",
+    "డబ్ల్యూఐపీవో డీజీ డారెన్ టాంగ్‌తోనూ సీఎం భేటీ"
+   ],
+   "why": "అమరావతి అభివృద్ధి, అంతర్జాతీయ భాగస్వామ్యాలు రాజధాని ప్రాంత ప్రజలకు, ఏపీ వాణిజ్యానికి సంబంధించినవి.",
+   "pub": "2026-11-12T00:44+05:30",
+   "en": {
+    "h": "CM Naidu holds talks with Singapore minister on Amaravati development",
+    "p": "On the sidelines of the CII Partnership Summit in Visakhapatnam, Chief Minister N Chandrababu Naidu met Singapore's Minister of State for Foreign Affairs and Energy, Trade and Industry Gan Siow Huang on Wednesday. The Hans India said they discussed Amaravati's integrated township development, digital governance through RTGS, institutional capacity-building, logistics and international trade.",
+    "pts": [
+     "Talks with Singapore minister on AP–Singapore partnership",
+     "Amaravati township, digital governance, logistics discussed",
+     "CM also met WIPO Director General Daren Tang"
+    ],
+    "why": "Amaravati's development and international partnerships concern the capital region's people and AP's trade.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Talks on Amaravati partnership"
+   },
+   "hi": {
+    "h": "अमरावती विकास पर सिंगापुर की मंत्री से सीएम नायडू की बातचीत",
+    "p": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट के दौरान मुख्यमंत्री एन. चंद्रबाबू नायडू ने बुधवार को सिंगापुर की विदेश, ऊर्जा, व्यापार एवं उद्योग राज्य मंत्री गान सियो हुआंग से मुलाकात की। द हंस इंडिया के अनुसार अमरावती के एकीकृत टाउनशिप विकास, आरटीजीएस के ज़रिए डिजिटल शासन, संस्थागत क्षमता निर्माण, लॉजिस्टिक्स और अंतरराष्ट्रीय व्यापार पर चर्चा हुई।",
+    "pts": [
+     "एपी–सिंगापुर साझेदारी पर सिंगापुर की मंत्री से बातचीत",
+     "अमरावती टाउनशिप, डिजिटल शासन, लॉजिस्टिक्स पर चर्चा",
+     "सीएम ने डब्ल्यूआईपीओ महानिदेशक डैरेन टैंग से भी मुलाकात की"
+    ],
+    "why": "अमरावती का विकास और अंतरराष्ट्रीय साझेदारी राजधानी क्षेत्र के लोगों और एपी के व्यापार से जुड़ी है।",
+    "cat": "एपी · विशाखापत्तनम",
+    "statl": "अमरावती साझेदारी पर बातचीत"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-money",

@@ -1,8 +1,259 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T06:42:14+05:30",
+ "updated": "2026-11-12T07:09:49+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "8%+",
+   "statl": "ఆఫ్టర్-అవర్స్‌లో షేరు పతనం",
+   "h": "అప్‌డేట్: సీఈఓ జెన్సన్ హువాంగ్ తొలగింపుపై ఎన్‌విడియా బోర్డు భేటీ",
+   "p": "ఎన్‌విడియా సీఈఓ జెన్సన్ హువాంగ్‌ను తొలగించాలా వద్దా అని నిర్ణయించేందుకు కంపెనీ బోర్డు బుధవారం (అమెరికా కాలమానం) సమావేశమవుతోందని సంబంధిత వ్యక్తి ఒకరు రాయిటర్స్‌కు తెలిపారు. ఆయనపై రెండు వివాహేతర సంబంధాల ఆరోపణల నేపథ్యంలో ఈ పరిణామం. బోర్డు ఆయనను తొలగించేందుకు సిద్ధమవుతోందని వాల్‌స్ట్రీట్ జర్నల్ నివేదించింది. బోర్డు సమావేశంపై ఎన్‌విడియా వెంటనే స్పందించలేదు.",
+   "src": "ABC News",
+   "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826",
+   "sec": [
+    "world",
+    "ai",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "ఆఫ్టర్-అవర్స్ ట్రేడింగ్‌లో షేరు 8%కు పైగా పతనం",
+    "వార్తలతో నాస్‌డాక్ ఫ్యూచర్స్ 1% తగ్గుదల",
+    "బోర్డు భేటీపై ఎన్‌విడియా ఇంకా స్పందించలేదు"
+   ],
+   "why": "ఏఐ చిప్ దిగ్గజంలో ఈ పరిణామం టెక్ మార్కెట్లను కదిలించింది; ఏఐ, టెక్ షేర్లను గమనించేవారికి ముఖ్యం.",
+   "pub": "2026-11-12T06:49+05:30",
+   "en": {
+    "h": "Update: Nvidia board meets on whether to oust CEO Jensen Huang",
+    "p": "Nvidia's board is meeting on Wednesday (US time) to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters. This follows allegations of two extramarital affairs against him. The Wall Street Journal reported that the board is preparing to oust him. Nvidia did not immediately respond to a request for comment on the board meeting.",
+    "pts": [
+     "Shares fell over 8% in after-hours trading",
+     "Nasdaq futures dropped 1% on the news",
+     "Nvidia has not yet responded on the board meeting"
+    ],
+    "why": "The development at the AI chip giant has moved tech markets; it matters to anyone tracking AI and tech stocks.",
+    "cat": "World · Technology",
+    "statl": "Share fall in after-hours trade"
+   },
+   "hi": {
+    "h": "अपडेट: सीईओ जेन्सन हुआंग को हटाने पर एनवीडिया बोर्ड की बैठक",
+    "p": "एनवीडिया के सीईओ जेन्सन हुआंग को हटाया जाए या नहीं, यह तय करने के लिए कंपनी का बोर्ड बुधवार (अमेरिकी समय) को बैठक कर रहा है, मामले से जुड़े एक व्यक्ति ने रॉयटर्स को बताया। यह उन पर दो विवाहेतर संबंधों के आरोपों के बाद हुआ है। वॉल स्ट्रीट जर्नल ने बताया कि बोर्ड उन्हें हटाने की तैयारी कर रहा है। बोर्ड बैठक पर एनवीडिया ने तुरंत कोई जवाब नहीं दिया।",
+    "pts": [
+     "आफ्टर-आवर्स ट्रेडिंग में शेयर 8% से ज़्यादा गिरा",
+     "खबर से नैस्डैक फ्यूचर्स 1% गिरे",
+     "बोर्ड बैठक पर एनवीडिया ने अभी जवाब नहीं दिया"
+    ],
+    "why": "एआई चिप दिग्गज में इस घटनाक्रम ने टेक बाज़ारों को हिलाया; एआई और टेक शेयरों पर नज़र रखने वालों के लिए अहम।",
+    "cat": "विश्व · टेक्नोलॉजी",
+    "statl": "आफ्टर-आवर्स में शेयर गिरावट"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "తెలంగాణ · క్రీడలు",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "7,000",
+   "statl": "క్రీడాకారులు, కోచ్‌లు, అతిథులు",
+   "h": "డిసెంబర్ 11 నుంచి తెలంగాణలో ఖేలో ఇండియా యూత్ గేమ్స్",
+   "p": "ఖేలో ఇండియా యూత్ గేమ్స్ 2026 డిసెంబర్ 11 నుంచి 22 వరకు తెలంగాణలోని ఆరు జిల్లాల్లో జరగనున్నాయి. కేంద్ర క్రీడా కార్యదర్శి హరి రంజన్ రావుతో వీడియో కాన్ఫరెన్స్ సమీక్ష తర్వాత సీఎస్ సంజయ్ జాజు ఏర్పాట్లు వేగంగా సాగుతున్నాయని చెప్పారు. దేశవ్యాప్తంగా సుమారు 7,000 మంది క్రీడాకారులు, కోచ్‌లు, అతిథులు రానున్నారు. క్రీడా వసతులకు ₹120 కోట్లు కేటాయించినట్లు అధికారులు తెలిపారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/telangana-to-host-khelo-india-youth-games-2026-from-december-11-to-22-across-six-districts-2557964",
+   "sec": [
+    "telangana",
+    "sports"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "హైదరాబాద్, హనుమకొండ, నిజామాబాద్, కరీంనగర్, ఖమ్మం, మహబూబ్‌నగర్‌లో పోటీలు",
+    "11 స్టేడియాలు సిద్ధం, మరో 5 ఆధునీకరణ చివరి దశలో",
+    "క్రీడా మౌలిక వసతులకు ₹120 కోట్లు కేటాయింపు"
+   ],
+   "why": "రాష్ట్ర యువ క్రీడాకారులకు, ఆతిథ్యమిచ్చే ఆరు జిల్లాల ప్రజలకు ఇది పెద్ద జాతీయ క్రీడా వేదిక.",
+   "pub": "2026-11-12T02:41+05:30",
+   "en": {
+    "h": "Telangana to host Khelo India Youth Games from December 11",
+    "p": "The Khelo India Youth Games 2026 will be held in six districts of Telangana from December 11 to 22. After a video-conference review with Union Sports Secretary Hari Ranjan Rao, Chief Secretary Sanjay Jaju said preparations are moving fast. About 7,000 athletes, coaches and guests are expected from across India. Officials said Rs 120 crore has been allotted for sports facilities.",
+    "pts": [
+     "Events in Hyderabad, Hanamkonda, Nizamabad, Karimnagar, Khammam, Mahabubnagar",
+     "11 stadiums ready, 5 more nearing modernisation",
+     "Rs 120 crore allotted for sports infrastructure"
+    ],
+    "why": "It is a big national sports stage for the state's young athletes and the six host districts.",
+    "cat": "Telangana · Sports",
+    "statl": "Athletes, coaches and guests"
+   },
+   "hi": {
+    "h": "11 दिसंबर से तेलंगाना में खेलो इंडिया यूथ गेम्स",
+    "p": "खेलो इंडिया यूथ गेम्स 2026 तेलंगाना के छह ज़िलों में 11 से 22 दिसंबर तक होंगे। केंद्रीय खेल सचिव हरि रंजन राव के साथ वीडियो कॉन्फ्रेंस समीक्षा के बाद मुख्य सचिव संजय जाजू ने कहा कि तैयारियाँ तेज़ी से चल रही हैं। देशभर से करीब 7,000 खिलाड़ी, कोच और मेहमान आएँगे। अधिकारियों ने बताया कि खेल सुविधाओं के लिए ₹120 करोड़ आवंटित किए गए हैं।",
+    "pts": [
+     "हैदराबाद, हनमकोंडा, निज़ामाबाद, करीमनगर, खम्मम, महबूबनगर में मुकाबले",
+     "11 स्टेडियम तैयार, 5 और का आधुनिकीकरण अंतिम चरण में",
+     "खेल ढाँचे के लिए ₹120 करोड़ आवंटित"
+    ],
+    "why": "राज्य के युवा खिलाड़ियों और मेज़बान छह ज़िलों के लिए यह बड़ा राष्ट्रीय खेल मंच है।",
+    "cat": "तेलंगाना · खेल",
+    "statl": "खिलाड़ी, कोच और मेहमान"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఉద్యోగులు",
+   "col": "--c-gov",
+   "art": "deadline",
+   "stat": "51%",
+   "statl": "కోరుతున్న ఫిట్‌మెంట్",
+   "h": "డిసెంబర్ 12న టీఎన్జీవోల 'చలో ఢిల్లీ'",
+   "p": "కేంద్ర, రాష్ట్ర ప్రభుత్వాల విధానాలకు నిరసనగా డిసెంబర్ 12న 'చలో ఢిల్లీ' చేపడుతున్నట్లు తెలంగాణ నాన్-గెజిటెడ్ ఆఫీసర్ల సంఘం (టీఎన్జీవో) ప్రకటించింది. ఢిల్లీ రామ్‌లీలా మైదానంలో అఖిల భారత రాష్ట్ర ప్రభుత్వ ఉద్యోగుల సమాఖ్య నిర్వహించే కర్మచారి ఆక్రోశ్ ర్యాలీని విజయవంతం చేయాలని అధ్యక్షుడు మారం జగదీశ్వర్, ప్రధాన కార్యదర్శి ఎస్‌ఎం హుస్సేనీ పిలుపునిచ్చారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/tngos-call-for-chalo-delhi-on-december-12-to-protest-against-central-and-state-government-policies-2558149",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "51% ఫిట్‌మెంట్‌తో పీఆర్సీ అమలు చేయాలని డిమాండ్",
+    "సీపీఎస్ రద్దు, పాత పెన్షన్ పునరుద్ధరణ కోరిక",
+    "పీఆర్సీ లేక మూడేళ్లు నష్టపోయామని నేతల ఆవేదన"
+   ],
+   "why": "వేతన సవరణ, పెన్షన్ అంశాలు రాష్ట్ర ప్రభుత్వ ఉద్యోగులు, వారి కుటుంబాలపై నేరుగా ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-12T02:42+05:30",
+   "en": {
+    "h": "TNGOs call for 'Chalo Delhi' on December 12",
+    "p": "The Telangana Non-Gazetted Officers' Association (TNGO) has announced a 'Chalo Delhi' on December 12 to protest central and state government policies. President Maram Jagadishwar and general secretary SM Hussaini urged members to make a success of the Karmachari Akrosh Rally organised by the All India State Government Employees Federation at Delhi's Ramlila Maidan.",
+    "pts": [
+     "Demand for PRC with 51% fitment",
+     "Call to abolish CPS and restore old pension",
+     "Leaders say employees lost three years without PRC"
+    ],
+    "why": "Pay revision and pension issues directly affect state government employees and their families.",
+    "cat": "Telangana · Employees",
+    "statl": "Fitment demanded"
+   },
+   "hi": {
+    "h": "12 दिसंबर को टीएनजीओ का 'चलो दिल्ली'",
+    "p": "तेलंगाना नॉन-गज़ेटेड ऑफिसर्स एसोसिएशन (टीएनजीओ) ने केंद्र और राज्य सरकारों की नीतियों के विरोध में 12 दिसंबर को 'चलो दिल्ली' की घोषणा की है। अध्यक्ष मारम जगदीश्वर और महासचिव एसएम हुसैनी ने दिल्ली के रामलीला मैदान में अखिल भारतीय राज्य सरकारी कर्मचारी महासंघ की कर्मचारी आक्रोश रैली को सफल बनाने की अपील की।",
+    "pts": [
+     "51% फिटमेंट के साथ पीआरसी लागू करने की माँग",
+     "सीपीएस खत्म कर पुरानी पेंशन बहाली की माँग",
+     "नेताओं का कहना, पीआरसी के बिना तीन साल का नुकसान"
+    ],
+    "why": "वेतन संशोधन और पेंशन के मुद्दे राज्य सरकारी कर्मचारियों और उनके परिवारों पर सीधा असर डालते हैं।",
+    "cat": "तेलंगाना · कर्मचारी",
+    "statl": "माँगा गया फिटमेंट"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · సదస్సు",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "2 రోజులు",
+   "statl": "నవంబర్ 13–14 తేదీల్లో",
+   "h": "హైదరాబాద్‌లో 13, 14 తేదీల్లో భారత్ సమ్మిట్-2026",
+   "p": "తెలంగాణ ప్రభుత్వం ఈ నెల 13, 14 తేదీల్లో హైదరాబాద్‌లో 'భారత్ సమ్మిట్-2026' నిర్వహిస్తోందని ఉప ముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క బుధవారం విలేకరులకు తెలిపారు. ప్రపంచవ్యాప్తంగా ఉన్న ప్రజాస్వామ్యవాదులు, ప్రగతిశీల మేధావులను ఒకే వేదికపైకి తెచ్చి ప్రజాస్వామ్య, సామాజిక, ఆర్థిక విధానాలకు కొత్త దిశ చూపడమే సదస్సు లక్ష్యమని ఆయన చెప్పారు.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/business/hyderabad-to-host-two-day-bharat-summit-2026-on-november-13-and-14-2557956",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 13, 14 తేదీల్లో రెండు రోజుల సదస్సు",
+    "ప్రపంచ ప్రజాస్వామ్యవాదులు, మేధావులు ఒకే వేదికపైకి",
+    "వివరాలు వెల్లడించిన డిప్యూటీ సీఎం భట్టి విక్రమార్క"
+   ],
+   "why": "హైదరాబాద్ ఆతిథ్యమిచ్చే ఈ అంతర్జాతీయ సదస్సు విధానాలపై చర్చకు వేదిక కానుంది.",
+   "pub": "2026-11-12T01:37+05:30",
+   "en": {
+    "h": "Hyderabad to host Bharat Summit-2026 on November 13 and 14",
+    "p": "Deputy Chief Minister Mallu Bhatti Vikramarka told reporters on Wednesday that the Telangana government is hosting the 'Bharat Summit-2026' in Hyderabad on the 13th and 14th of this month. He said the summit aims to bring democrats and progressive intellectuals from around the world onto one platform and set a new direction for democratic, social and economic policies.",
+    "pts": [
+     "Two-day summit on November 13 and 14",
+     "Global democrats and intellectuals on one platform",
+     "Details shared by Deputy CM Bhatti Vikramarka"
+    ],
+    "why": "The international summit hosted by Hyderabad will be a platform for policy discussions.",
+    "cat": "Hyderabad · Summit",
+    "statl": "On November 13–14"
+   },
+   "hi": {
+    "h": "हैदराबाद में 13 और 14 नवंबर को भारत समिट-2026",
+    "p": "उपमुख्यमंत्री मल्लू भट्टी विक्रमार्क ने बुधवार को पत्रकारों से कहा कि तेलंगाना सरकार इस महीने की 13 और 14 तारीख को हैदराबाद में 'भारत समिट-2026' आयोजित कर रही है। उन्होंने कहा कि इसका लक्ष्य दुनिया भर के लोकतंत्रवादियों और प्रगतिशील बुद्धिजीवियों को एक मंच पर लाकर लोकतांत्रिक, सामाजिक और आर्थिक नीतियों को नई दिशा देना है।",
+    "pts": [
+     "13 और 14 नवंबर को दो दिवसीय सम्मेलन",
+     "दुनिया भर के लोकतंत्रवादी और बुद्धिजीवी एक मंच पर",
+     "उपमुख्यमंत्री भट्टी विक्रमार्क ने दी जानकारी"
+    ],
+    "why": "हैदराबाद में होने वाला यह अंतरराष्ट्रीय सम्मेलन नीतियों पर चर्चा का मंच बनेगा।",
+    "cat": "हैदराबाद · सम्मेलन",
+    "statl": "13–14 नवंबर को"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "సింగపూర్",
+   "statl": "అమరావతి భాగస్వామ్యంపై చర్చలు",
+   "h": "అమరావతి అభివృద్ధిపై సింగపూర్ మంత్రితో సీఎం చంద్రబాబు చర్చలు",
+   "p": "విశాఖలో సీఐఐ భాగస్వామ్య సదస్సు సందర్భంగా సీఎం చంద్రబాబు నాయుడు బుధవారం సింగపూర్ విదేశాంగ, ఇంధన, వాణిజ్య–పరిశ్రమల సహాయ మంత్రి గాన్ సియో హువాంగ్‌తో భేటీ అయ్యారు. అమరావతి సమీకృత టౌన్‌షిప్ అభివృద్ధి, ఆర్టీజీఎస్ ద్వారా డిజిటల్ పాలన, సంస్థాగత సామర్థ్య పెంపు, లాజిస్టిక్స్, అంతర్జాతీయ వాణిజ్యంపై చర్చించినట్లు ది హన్స్ ఇండియా తెలిపింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/cm-naidu-holds-talks-with-singapore-on-amaravati-1141142",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "ఏపీ–సింగపూర్ భాగస్వామ్యంపై సింగపూర్ మంత్రితో చర్చలు",
+    "అమరావతి టౌన్‌షిప్, డిజిటల్ పాలన, లాజిస్టిక్స్ అంశాలు",
+    "డబ్ల్యూఐపీవో డీజీ డారెన్ టాంగ్‌తోనూ సీఎం భేటీ"
+   ],
+   "why": "అమరావతి అభివృద్ధి, అంతర్జాతీయ భాగస్వామ్యాలు రాజధాని ప్రాంత ప్రజలకు, ఏపీ వాణిజ్యానికి సంబంధించినవి.",
+   "pub": "2026-11-12T00:44+05:30",
+   "en": {
+    "h": "CM Naidu holds talks with Singapore minister on Amaravati development",
+    "p": "On the sidelines of the CII Partnership Summit in Visakhapatnam, Chief Minister N Chandrababu Naidu met Singapore's Minister of State for Foreign Affairs and Energy, Trade and Industry Gan Siow Huang on Wednesday. The Hans India said they discussed Amaravati's integrated township development, digital governance through RTGS, institutional capacity-building, logistics and international trade.",
+    "pts": [
+     "Talks with Singapore minister on AP–Singapore partnership",
+     "Amaravati township, digital governance, logistics discussed",
+     "CM also met WIPO Director General Daren Tang"
+    ],
+    "why": "Amaravati's development and international partnerships concern the capital region's people and AP's trade.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Talks on Amaravati partnership"
+   },
+   "hi": {
+    "h": "अमरावती विकास पर सिंगापुर की मंत्री से सीएम नायडू की बातचीत",
+    "p": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट के दौरान मुख्यमंत्री एन. चंद्रबाबू नायडू ने बुधवार को सिंगापुर की विदेश, ऊर्जा, व्यापार एवं उद्योग राज्य मंत्री गान सियो हुआंग से मुलाकात की। द हंस इंडिया के अनुसार अमरावती के एकीकृत टाउनशिप विकास, आरटीजीएस के ज़रिए डिजिटल शासन, संस्थागत क्षमता निर्माण, लॉजिस्टिक्स और अंतरराष्ट्रीय व्यापार पर चर्चा हुई।",
+    "pts": [
+     "एपी–सिंगापुर साझेदारी पर सिंगापुर की मंत्री से बातचीत",
+     "अमरावती टाउनशिप, डिजिटल शासन, लॉजिस्टिक्स पर चर्चा",
+     "सीएम ने डब्ल्यूआईपीओ महानिदेशक डैरेन टैंग से भी मुलाकात की"
+    ],
+    "why": "अमरावती का विकास और अंतरराष्ट्रीय साझेदारी राजधानी क्षेत्र के लोगों और एपी के व्यापार से जुड़ी है।",
+    "cat": "एपी · विशाखापत्तनम",
+    "statl": "अमरावती साझेदारी पर बातचीत"
+   },
+   "d": "12.11.2026",
+   "t": "07:05"
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-money",
@@ -2161,257 +2412,6 @@
    },
    "d": "11.11.2026",
    "t": "20:35"
-  },
-  {
-   "cat": "నిర్మల్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "farm",
-   "stat": "1996",
-   "statl": "నిర్మల్ ఉప ఎన్నిక నాటి జ్ఞాపకం",
-   "h": "తెలంగాణ తెస్తానని కేసీఆర్ తొలిసారి చెప్పింది నిర్మల్‌లోనే: కేటీఆర్",
-   "p": "నిర్మల్‌లో జరిగిన బీఆర్ఎస్ రైతు గర్జన సభలో పార్టీ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ మాట్లాడారు. 1996లో నిర్మల్ ఉప ఎన్నిక సమయంలో ఇన్‌చార్జ్ మంత్రిగా వచ్చిన కేసీఆర్ పోచంపాడ్ ప్రాజెక్టును చూసి, గేట్లకు గ్రీజు కూడా లేని దుస్థితి చూసి, శక్తి ఇస్తే ఉద్యమం చేసి తెలంగాణ తెస్తానని అన్నారని గుర్తుచేశారు. నిర్మల్ కళాకారులను ఆయన ప్రశంసించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/adilabad/nirmal/first-time-kcr-told-he-will-bring-telangana-in-nirmal-area-says-ktr-2557740",
-   "sec": [
-    "telangana",
-    "agri"
-   ],
-   "st": "TG",
-   "place": "nirmal",
-   "pts": [
-    "నిర్మల్‌లో బీఆర్ఎస్ రైతు గర్జన సభ",
-    "1996 ఉప ఎన్నిక నాటి కేసీఆర్ మాటలు గుర్తుచేసిన కేటీఆర్",
-    "నిర్మల్ బొమ్మలు, చిత్రకళ కళాకారులకు ప్రశంస"
-   ],
-   "why": "నిర్మల్ ప్రాంత రైతులు, బీఆర్ఎస్ కార్యకర్తలను ఉద్దేశించిన సభ ఇది.",
-   "pub": "2026-11-11T18:38+05:30",
-   "en": {
-    "h": "KCR first spoke of achieving Telangana in Nirmal: KTR",
-    "p": "BRS working president KTR addressed the party's Rythu Garjana meeting in Nirmal. He recalled that during the 1996 Nirmal by-election, KCR came as in-charge minister, saw the Pochampad project with gates lacking even grease, and said that if given strength he would launch a movement and bring Telangana. KTR also praised Nirmal's artisans.",
-    "pts": [
-     "BRS Rythu Garjana meeting held in Nirmal",
-     "KTR recalls KCR's words from 1996 by-election",
-     "Praise for Nirmal toy and painting artisans"
-    ],
-    "why": "The meeting was aimed at farmers and BRS workers in the Nirmal region.",
-    "cat": "Nirmal · Politics",
-    "statl": "Memory of Nirmal by-election"
-   },
-   "hi": {
-    "h": "केसीआर ने तेलंगाना लाने की बात पहली बार निर्मल में कही थी: केटीआर",
-    "p": "बीआरएस के कार्यकारी अध्यक्ष केटीआर ने निर्मल में पार्टी की रैतु गर्जना सभा को संबोधित किया। उन्होंने याद किया कि 1996 के निर्मल उपचुनाव में प्रभारी मंत्री के रूप में आए केसीआर ने पोचमपाड परियोजना के गेटों पर ग्रीस तक न होने की हालत देखी और कहा कि शक्ति मिली तो आंदोलन कर तेलंगाना लाएंगे। केटीआर ने निर्मल के कारीगरों की भी सराहना की।",
-    "pts": [
-     "निर्मल में बीआरएस की रैतु गर्जना सभा",
-     "केटीआर ने 1996 उपचुनाव की केसीआर की बात याद की",
-     "निर्मल के खिलौना और चित्रकला कारीगरों की सराहना"
-    ],
-    "why": "यह सभा निर्मल क्षेत्र के किसानों और बीआरएस कार्यकर्ताओं को संबोधित थी।",
-    "cat": "निर्मल · राजनीति",
-    "statl": "निर्मल उपचुनाव की याद"
-   },
-   "d": "11.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "27 లక్షలు",
-   "statl": "బడిలో అల్పాహారం పొందుతున్న పిల్లలు",
-   "h": "ప్రతి బిడ్డకు నాణ్యమైన విద్యే లక్ష్యం: కాజీపేటలో భట్టి విక్రమార్క",
-   "p": "కాజీపేటలో తెలంగాణ పబ్లిక్ స్కూల్ కొత్త భవనానికి డిప్యూటీ సీఎం భట్టి విక్రమార్క బుధవారం శంకుస్థాపన చేశారు. రాష్ట్రంలో పుట్టిన ప్రతి బిడ్డకు నాణ్యమైన విద్య అందించడమే ప్రభుత్వ లక్ష్యమన్నారు. ఒక్కోటి సుమారు ₹200 కోట్లతో 105 యంగ్ ఇండియా పాఠశాలలు నిర్మిస్తున్నామని, ప్రతి నియోజకవర్గంలో పబ్లిక్ స్కూల్ వస్తుందని చెప్పారు. 27 లక్షల మంది పిల్లలకు బడిలో అల్పాహారం అందుతోందన్నారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/quality-education-to-each-child-here-bhatti-spells-out-govt-goal-3574347/",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hanumakonda",
-   "loc": "కాజీపేట",
-   "pts": [
-    "కాజీపేట పబ్లిక్ స్కూల్ భవనానికి శంకుస్థాపన",
-    "105 యంగ్ ఇండియా స్కూళ్లు, ఒక్కోటి ~₹200 కోట్లు",
-    "ప్రీ-ప్రైమరీ నుంచి 12వ తరగతి వరకు రవాణా, భోజనం"
-   ],
-   "why": "ప్రభుత్వ బడుల్లో చదివే పిల్లలు, తల్లిదండ్రులకు కొత్త సౌకర్యాలపై స్పష్టత.",
-   "pub": "2026-11-11T17:13+05:30",
-   "en": {
-    "h": "Quality education for every child is the goal: Bhatti in Kazipet",
-    "p": "Deputy CM Bhatti Vikramarka on Wednesday laid the foundation stone for a new Telangana Public School building in Kazipet. He said the government's goal is quality education for every child born in the state. He said 105 Young India schools costing around Rs 200 crore each are being built and a public school will come up in every constituency. 27 lakh children get breakfast at school, he said.",
-    "pts": [
-     "Foundation laid for Kazipet public school building",
-     "105 Young India schools, about Rs 200 crore each",
-     "Transport, meals from pre-primary to Class 12"
-    ],
-    "why": "Clarity for children in government schools and their parents on new facilities.",
-    "cat": "Telangana · Education",
-    "statl": "Children getting school breakfast"
-   },
-   "hi": {
-    "h": "हर बच्चे को गुणवत्तापूर्ण शिक्षा लक्ष्य: काजीपेट में भट्टि विक्रमार्क",
-    "p": "उपमुख्यमंत्री भट्टि विक्रमार्क ने बुधवार को काजीपेट में तेलंगाना पब्लिक स्कूल के नए भवन की आधारशिला रखी। उन्होंने कहा कि राज्य में जन्मे हर बच्चे को गुणवत्तापूर्ण शिक्षा देना सरकार का लक्ष्य है। लगभग 200 करोड़ रुपये प्रति स्कूल की लागत से 105 यंग इंडिया स्कूल बन रहे हैं और हर निर्वाचन क्षेत्र में पब्लिक स्कूल बनेगा। 27 लाख बच्चों को स्कूल में नाश्ता मिल रहा है।",
-    "pts": [
-     "काजीपेट पब्लिक स्कूल भवन की आधारशिला",
-     "105 यंग इंडिया स्कूल, प्रत्येक ~200 करोड़ रुपये",
-     "प्री-प्राइमरी से 12वीं तक परिवहन, भोजन"
-    ],
-    "why": "सरकारी स्कूलों के बच्चों और अभिभावकों के लिए नई सुविधाओं पर स्पष्टता।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "स्कूल में नाश्ता पाने वाले बच्चे"
-   },
-   "d": "11.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "ఏపీ · ఉద్యోగాలు",
-   "col": "--c-election",
-   "art": "campus",
-   "stat": "2,721",
-   "statl": "ప్రకటించిన టీచర్ పోస్టులు",
-   "h": "23 వేల ఖాళీలుంటే 2,721 టీచర్ పోస్టులేనా: వైఎస్సార్సీపీ విమర్శ",
-   "p": "రాష్ట్రంలో 23 వేలకు పైగా టీచర్ ఖాళీలు ఉన్నా ప్రభుత్వం 2,721 పోస్టులే ప్రకటించిందని వైఎస్సార్సీపీ విద్యార్థి విభాగం వర్కింగ్ ప్రెసిడెంట్ ఎ. రవిచంద్ర తాడేపల్లిలో ఆరోపించారు. రోస్టర్ వివరాల ఆలస్యం, జిల్లాల మధ్య అసమాన కేటాయింపులపై సమాధానం కోరారు. ఐదు జిల్లాలకు ఒక్క పోస్టూ రాలేదని, తొమ్మిది జిల్లాలకు ఒక అంకె పోస్టులే వచ్చాయని అన్నారు. ప్రభుత్వ స్పందన కథనంలో లేదు.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/politics/ysrcp-accuses-naidu-government-of-rs-12000-crore-amaravati-land-scam20261111185817/",
-   "sec": [
-    "telangana",
-    "jobs",
-    "education"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "loc": "తాడేపల్లి",
-   "pts": [
-    "906 స్కూల్ అసిస్టెంట్, 1,205 ఎస్జీటీ పోస్టులు ఉన్నాయి",
-    "5 జిల్లాలకు సున్నా పోస్టులు అని ఆరోపణ",
-    "చర్యలు లేకపోతే రాష్ట్రవ్యాప్త నిరసనలని హెచ్చరిక"
-   ],
-   "why": "ఏపీలో టీచర్ ఉద్యోగాల కోసం సిద్ధమవుతున్న నిరుద్యోగ యువతకు సంబంధించిన అంశం.",
-   "pub": "2026-11-11T18:58+05:30",
-   "en": {
-    "h": "Only 2,721 teacher posts despite 23,000 vacancies: YSRCP",
-    "p": "YSRCP students' wing working president A. Ravichandra alleged in Tadepalli that the government announced only 2,721 posts although over 23,000 teacher vacancies exist in the state. He sought answers on delayed roster details and unequal district allocations. He said five districts got no posts and nine got only single-digit allocations. The report carries no government response.",
-    "pts": [
-     "Posts include 906 School Assistants, 1,205 SGTs",
-     "Alleges five districts got zero posts",
-     "Warns of statewide protests if no action"
-    ],
-    "why": "The issue concerns unemployed youth preparing for teacher jobs in AP.",
-    "cat": "AP · Jobs",
-    "statl": "Teacher posts announced"
-   },
-   "hi": {
-    "h": "23 हज़ार रिक्तियों पर सिर्फ 2,721 शिक्षक पद: वाईएसआरसीपी",
-    "p": "वाईएसआरसीपी छात्र विंग के कार्यकारी अध्यक्ष ए. रविचंद्र ने ताडेपल्ली में आरोप लगाया कि राज्य में 23 हज़ार से ज़्यादा शिक्षक पद खाली होने के बावजूद सरकार ने सिर्फ 2,721 पद घोषित किए। उन्होंने रोस्टर विवरण में देरी और ज़िलों के बीच असमान आवंटन पर जवाब मांगा। उनके अनुसार पांच ज़िलों को एक भी पद नहीं मिला और नौ ज़िलों को एक अंक में पद मिले। रिपोर्ट में सरकार का जवाब नहीं है।",
-    "pts": [
-     "906 स्कूल असिस्टेंट, 1,205 एसजीटी पद शामिल",
-     "पांच ज़िलों को शून्य पद मिलने का आरोप",
-     "कार्रवाई न होने पर राज्यव्यापी विरोध की चेतावनी"
-    ],
-    "why": "यह मुद्दा आंध्र प्रदेश में शिक्षक नौकरी की तैयारी कर रहे बेरोज़गार युवाओं से जुड़ा है।",
-    "cat": "आंध्र प्रदेश · नौकरियां",
-    "statl": "घोषित शिक्षक पद"
-   },
-   "d": "11.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · సమాజం",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "3,000 కి.మీ",
-   "statl": "భీమవరం నుంచి ఢిల్లీకి సైకిల్ యాత్ర",
-   "h": "62 ఏళ్ల వయసులో 3,000 కి.మీ సైకిల్ యాత్ర: డ్రగ్స్‌పై అవగాహన",
-   "p": "డ్రగ్స్ వ్యసనంపై యువతలో అవగాహన కోసం 62 ఏళ్ల విజయలక్ష్మి నషా ముక్త్ భారత్ అభియాన్‌లో భాగంగా భీమవరం నుంచి న్యూఢిల్లీకి 3,000 కి.మీ సైకిల్ యాత్ర చేపట్టారు. అక్టోబర్ 2న ప్రారంభించి ఇప్పటివరకు సుమారు 800 కి.మీ ప్రయాణించారు; డిసెంబర్ 10న ఢిల్లీ చేరాలని లక్ష్యం. హైదరాబాద్‌లో తెలంగాణ ఈగల్ ఫోర్స్ ఆమెకు ఘన స్వాగతం పలికింది.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/62-year-old-woman-cycles-3000-km-from-andhra-pradesh-to-new-delhi-for-nasha-mukth-bharat-campaign20261111142035/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "అక్టోబర్ 2న భీమవరం నుంచి యాత్ర ప్రారంభం",
-    "ఇప్పటికే 40 కళాశాలల సందర్శన",
-    "లక్ష మంది పిల్లలను చేరుకోవడం లక్ష్యం"
-   ],
-   "why": "డ్రగ్స్ ముప్పుపై తల్లిదండ్రులు, యువతను అప్రమత్తం చేసే ప్రయత్నం ఇది.",
-   "pub": "2026-11-11T14:20+05:30",
-   "en": {
-    "h": "At 62, a 3,000-km cycle journey for drug awareness",
-    "p": "To raise awareness among youth about drug abuse, 62-year-old Vijayalakshmi has taken up a 3,000-km cycle journey from Bheemavaram to New Delhi under the Nasha Mukt Bharat Abhiyan. She began on October 2, has covered about 800 km so far and aims to reach Delhi on December 10. The Telangana Eagle Force gave her a grand welcome in Hyderabad.",
-    "pts": [
-     "Journey began from Bheemavaram on October 2",
-     "Has visited 40 colleges so far",
-     "Aims to reach one lakh children"
-    ],
-    "why": "An effort to alert parents and youth to the threat of drugs.",
-    "cat": "Hyderabad · Society",
-    "statl": "Bheemavaram to Delhi cycle ride"
-   },
-   "hi": {
-    "h": "62 की उम्र में 3,000 किमी साइकिल यात्रा: नशे के खिलाफ जागरूकता",
-    "p": "युवाओं में नशे की लत के प्रति जागरूकता के लिए 62 वर्षीय विजयलक्ष्मी ने नशा मुक्त भारत अभियान के तहत भीमावरम से नई दिल्ली तक 3,000 किमी की साइकिल यात्रा शुरू की है। 2 अक्टूबर को शुरू कर वे अब तक करीब 800 किमी चल चुकी हैं और 10 दिसंबर को दिल्ली पहुंचने का लक्ष्य है। हैदराबाद में तेलंगाना ईगल फोर्स ने उनका भव्य स्वागत किया।",
-    "pts": [
-     "2 अक्टूबर को भीमावरम से यात्रा शुरू",
-     "अब तक 40 कॉलेजों का दौरा",
-     "एक लाख बच्चों तक पहुंचने का लक्ष्य"
-    ],
-    "why": "नशे के खतरे के प्रति अभिभावकों और युवाओं को सचेत करने का प्रयास।",
-    "cat": "हैदराबाद · समाज",
-    "statl": "भीमावरम से दिल्ली साइकिल यात्रा"
-   },
-   "d": "11.11.2026",
-   "t": "20:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆరోగ్యం",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "125",
-   "statl": "మెడికల్ షాపులకు షోకాజ్ నోటీసులు",
-   "h": "అలవాటు పుట్టించే మందుల అక్రమ విక్రయం: 125 మెడికల్ షాపులకు నోటీసులు",
-   "p": "అలవాటు పుట్టించే మందుల అక్రమ అమ్మకాలపై తెలంగాణ ఫుడ్ అండ్ ఎసెన్షియల్ డ్రగ్స్ స్టాండర్డ్స్ అథారిటీ (టీజీ సేఫ్) బుధవారం ప్రత్యేక తనిఖీలు చేపట్టింది. మేడ్చల్, శేరిలింగంపల్లి జోన్లపై దృష్టి పెట్టి డెకాయ్ కొనుగోళ్లు చేశారు. ప్రిస్క్రిప్షన్ లేకుండా అమ్మకాలు, షెడ్యూల్ హెచ్1 రిజిస్టర్లు లేకపోవడం, ఫార్మసిస్ట్ లేకుండా విక్రయం వంటి ఉల్లంఘనలు గుర్తించారు. 125 షాపులకు షోకాజ్ నోటీసులు జారీ చేశారు; లైసెన్సుల సస్పెన్షన్ లేదా రద్దు చర్యలు తీసుకోనున్నారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/125-telangana-shops-face-notices-over-habit-forming-drug-sales-3574561/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "టీజీ సేఫ్ ప్రత్యేక డ్రైవ్‌లో 125 షాపుల్లో ఉల్లంఘనలు",
-    "ట్రామడాల్, ఆల్ప్రజోలం, కోడీన్ సిరప్‌లపై తనిఖీ",
-    "లైసెన్సుల సస్పెన్షన్ లేదా రద్దు చర్యలు రానున్నాయి"
-   ],
-   "why": "ప్రిస్క్రిప్షన్ లేకుండా ప్రమాదకర మందుల అమ్మకాలు అరికట్టడం ప్రజారోగ్యానికి కీలకం.",
-   "pub": "2026-11-11T19:29+05:30",
-   "en": {
-    "h": "Habit-forming drug sales: notices to 125 Telangana medical shops",
-    "p": "The Telangana Standards Authority for Food and Essential Drugs (TG SAFE) held a special drive on Wednesday against illegal sale of habit-forming drugs. Focusing on Medchal and Serilingampally zones, teams made decoy purchases. Violations found included sales without prescriptions, missing Schedule H1 registers and dispensing without pharmacists. Show-cause notices were issued to 125 shops; suspension or cancellation of licences will follow.",
-    "pts": [
-     "TG SAFE drive finds violations at 125 shops",
-     "Tramadol, Alprazolam, codeine syrups checked",
-     "Licence suspension or cancellation to follow"
-    ],
-    "why": "Curbing sale of risky drugs without prescription is key to public health.",
-    "cat": "Telangana · Health",
-    "statl": "Shops served show-cause notices"
-   },
-   "hi": {
-    "h": "आदत डालने वाली दवाओं की अवैध बिक्री: तेलंगाना की 125 दवा दुकानों को नोटिस",
-    "p": "तेलंगाना स्टैंडर्ड्स अथॉरिटी फॉर फूड एंड एसेंशियल ड्रग्स (टीजी सेफ) ने बुधवार को आदत डालने वाली दवाओं की अवैध बिक्री के खिलाफ विशेष अभियान चलाया। मेडचल और शेरिलिंगमपल्ली ज़ोन पर ध्यान देकर टीमों ने डिकॉय खरीदारी की। बिना पर्चे बिक्री, शेड्यूल एच1 रजिस्टर न होना और बिना फार्मासिस्ट दवा देना जैसे उल्लंघन मिले। 125 दुकानों को कारण बताओ नोटिस दिए गए; लाइसेंस निलंबन या रद्द करने की कार्रवाई होगी।",
-    "pts": [
-     "टीजी सेफ अभियान में 125 दुकानों पर उल्लंघन",
-     "ट्रामाडोल, अल्प्राजोलम, कोडीन सिरप की जांच",
-     "लाइसेंस निलंबन या रद्द करने की कार्रवाई होगी"
-    ],
-    "why": "बिना पर्चे जोखिम भरी दवाओं की बिक्री रोकना जनस्वास्थ्य के लिए अहम है।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "दुकानों को कारण बताओ नोटिस"
-   },
-   "d": "11.11.2026",
-   "t": "19:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
