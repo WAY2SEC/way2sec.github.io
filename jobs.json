@@ -1,43 +1,45 @@
 {
- "updated": "2026-11-12T08:29:15+05:30",
+ "updated": "2026-11-12T17:29:29+05:30",
  "version": 1,
  "jobs": [
   {
-   "id": "rrc-nr-act-apprentice-4651-2026",
-   "type": "railway",
-   "org": "RRC Northern Railway",
-   "h": "నార్తర్న్ రైల్వేలో 4,651 అప్రెంటిస్ ఖాళీలు",
-   "p": "నార్తర్న్ రైల్వే వర్క్‌షాప్‌లు, యూనిట్లలో ఐటీఐ ట్రేడ్ అప్రెంటిస్ శిక్షణకు దరఖాస్తులు. రాత పరీక్ష, ఇంటర్వ్యూ లేదు; మెరిట్ ఆధారంగా ఎంపిక.",
-   "posts": "4,651",
+   "id": "iaf-afcat-01-2027",
+   "type": "police",
+   "org": "Indian Air Force",
+   "h": "ఎయిర్‌ఫోర్స్ ఆఫీసర్ పోస్టులకు AFCAT 01/2027 దరఖాస్తులు ప్రారంభం",
+   "p": "భారత వైమానిక దళంలో ఫ్లయింగ్, గ్రౌండ్ డ్యూటీ (టెక్నికల్, నాన్-టెక్నికల్) శాఖల్లో ఆఫీసర్‌గా చేరేందుకు అవివాహిత డిగ్రీ/బీటెక్ అభ్యర్థులు దరఖాస్తు చేయవచ్చు.",
+   "posts": "పలు",
    "statl": "పోస్టులు",
-   "qual": "పదో తరగతి (50% మార్కులు) + సంబంధిత ట్రేడ్‌లో ఐటీఐ",
+   "qual": "డిగ్రీ / బీఈ / బీటెక్ (ఇంటర్‌లో మ్యాథ్స్, ఫిజిక్స్; పోస్టును బట్టి)",
    "exp": "",
    "loc": "",
-   "age": "15–24 ఏళ్లు (11.12.2026 నాటికి)",
-   "pay": "",
+   "age": "ఫ్లయింగ్ 20–24 ఏళ్లు, గ్రౌండ్ డ్యూటీ 20–26 ఏళ్లు (01.01.2028 నాటికి)",
+   "pay": "₹56,100–₹1,77,500",
    "last": "11.12.2026",
    "walk": "",
-   "how": "rrcnr.org లో ఆన్‌లైన్",
-   "apply": "https://www.rrcnr.org/",
-   "url": "https://www.careerindia.com/news/rrc-nr-apprentice-recruitment-2026-apply-for-4-651-posts-068471.html",
+   "how": "afcat.edcil.co.in లో ఆన్‌లైన్",
+   "apply": "https://afcat.edcil.co.in/",
+   "url": "https://www.careerindia.com/news/afcat-01-2027-registration-begins-apply-for-flying-ground-duty-posts-068517.html",
    "src": "Careerindia",
    "place": "IN",
    "d": "12.11.2026",
    "en": {
-    "h": "Northern Railway invites applications for 4,651 apprentice posts",
-    "p": "Applications are open for ITI trade apprentice training in Northern Railway workshops and units. There is no written test or interview; selection is on merit.",
+    "h": "AFCAT 01/2027 applications open for Air Force officer posts",
+    "p": "Unmarried degree/B.Tech candidates can apply to join the Indian Air Force as officers in the Flying and Ground Duty (Technical and Non-Technical) branches.",
+    "posts": "Several",
     "statl": "Posts",
-    "qual": "Class 10 (50% marks) + ITI in the relevant trade",
-    "age": "15–24 years (as on 11.12.2026)",
-    "how": "Online at rrcnr.org"
+    "qual": "Degree / BE / B.Tech (Maths and Physics in Class 12; varies by post)",
+    "age": "Flying 20–24 years, Ground Duty 20–26 years (as on 01.01.2028)",
+    "how": "Online at afcat.edcil.co.in"
    },
    "hi": {
-    "h": "उत्तर रेलवे में 4,651 अप्रेंटिस पदों के लिए आवेदन",
-    "p": "उत्तर रेलवे की वर्कशॉप और इकाइयों में आईटीआई ट्रेड अप्रेंटिस प्रशिक्षण के लिए आवेदन शुरू। लिखित परीक्षा या इंटरव्यू नहीं; चयन मेरिट के आधार पर।",
+    "h": "वायुसेना अधिकारी पदों के लिए AFCAT 01/2027 आवेदन शुरू",
+    "p": "अविवाहित स्नातक/बीटेक उम्मीदवार भारतीय वायुसेना में फ्लाइंग और ग्राउंड ड्यूटी (तकनीकी व गैर-तकनीकी) शाखाओं में अधिकारी बनने के लिए आवेदन कर सकते हैं।",
+    "posts": "कई",
     "statl": "पद",
-    "qual": "10वीं (50% अंक) + संबंधित ट्रेड में आईटीआई",
-    "age": "15–24 वर्ष (11.12.2026 तक)",
-    "how": "rrcnr.org पर ऑनलाइन"
+    "qual": "स्नातक / बीई / बीटेक (12वीं में गणित व भौतिकी; पद के अनुसार)",
+    "age": "फ्लाइंग 20–24 वर्ष, ग्राउंड ड्यूटी 20–26 वर्ष (01.01.2028 तक)",
+    "how": "afcat.edcil.co.in पर ऑनलाइन"
    }
   },
   {
@@ -2660,6 +2662,44 @@
     "qual": "बीई / बीटेक (65%; SC/ST/PwBD 60%) + गेट 2025",
     "age": "अधिकतम 29 वर्ष",
     "how": "dvc.gov.in के करियर पेज पर ऑनलाइन"
+   }
+  },
+  {
+   "id": "rrc-nr-act-apprentice-4651-2026",
+   "type": "railway",
+   "org": "RRC Northern Railway",
+   "h": "నార్తర్న్ రైల్వేలో 4,651 అప్రెంటిస్ ఖాళీలు",
+   "p": "నార్తర్న్ రైల్వే వర్క్‌షాప్‌లు, యూనిట్లలో ఐటీఐ ట్రేడ్ అప్రెంటిస్ శిక్షణకు దరఖాస్తులు. రాత పరీక్ష, ఇంటర్వ్యూ లేదు; మెరిట్ ఆధారంగా ఎంపిక.",
+   "posts": "4,651",
+   "statl": "పోస్టులు",
+   "qual": "పదో తరగతి (50% మార్కులు) + సంబంధిత ట్రేడ్‌లో ఐటీఐ",
+   "exp": "",
+   "loc": "",
+   "age": "15–24 ఏళ్లు (11.12.2026 నాటికి)",
+   "pay": "",
+   "last": "11.12.2026",
+   "walk": "",
+   "how": "rrcnr.org లో ఆన్‌లైన్",
+   "apply": "https://www.rrcnr.org/",
+   "url": "https://www.careerindia.com/news/rrc-nr-apprentice-recruitment-2026-apply-for-4-651-posts-068471.html",
+   "src": "Careerindia",
+   "place": "IN",
+   "d": "12.11.2026",
+   "en": {
+    "h": "Northern Railway invites applications for 4,651 apprentice posts",
+    "p": "Applications are open for ITI trade apprentice training in Northern Railway workshops and units. There is no written test or interview; selection is on merit.",
+    "statl": "Posts",
+    "qual": "Class 10 (50% marks) + ITI in the relevant trade",
+    "age": "15–24 years (as on 11.12.2026)",
+    "how": "Online at rrcnr.org"
+   },
+   "hi": {
+    "h": "उत्तर रेलवे में 4,651 अप्रेंटिस पदों के लिए आवेदन",
+    "p": "उत्तर रेलवे की वर्कशॉप और इकाइयों में आईटीआई ट्रेड अप्रेंटिस प्रशिक्षण के लिए आवेदन शुरू। लिखित परीक्षा या इंटरव्यू नहीं; चयन मेरिट के आधार पर।",
+    "statl": "पद",
+    "qual": "10वीं (50% अंक) + संबंधित ट्रेड में आईटीआई",
+    "age": "15–24 वर्ष (11.12.2026 तक)",
+    "how": "rrcnr.org पर ऑनलाइन"
    }
   },
   {
