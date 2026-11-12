@@ -1,8 +1,107 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 32,
+ "count": 34,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పెట్టుబడులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "2,17,690",
+   "statl": "రెండేళ్లలో అమ్ముడైన విద్యుత్ వాహనాలు",
+   "h": "ఈవీ పెట్టుబడులకు తెలంగాణ ఆహ్వానం: రెండేళ్లలో 2.17 లక్షల విద్యుత్ వాహనాల అమ్మకం",
+   "p": "డిసెంబర్ 7–9 తేదీల్లో భారత్ ఫ్యూచర్ సిటీలో జరిగే ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్ 2026కు ముందు ఆటో, ఈవీ రంగ పెట్టుబడిదారులను ప్రభుత్వం ఆహ్వానించింది. సచివాలయంలో బుధవారం జరిగిన తొలి ఎగ్జిక్యూటివ్ కౌన్సిల్ సమావేశానికి రవాణా మంత్రి పొన్నం ప్రభాకర్ అధ్యక్షత వహించారు. ఈవీ విధానం కింద రోడ్ ట్యాక్స్, రిజిస్ట్రేషన్ ఫీజుకు 100% మినహాయింపు ఉందని, రెండేళ్లలో 2,17,690 ఈవీలు అమ్ముడై సుమారు ₹2,343 కోట్ల పన్ను మినహాయింపు ఇచ్చామని తెలిపారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/govt-rolls-out-red-carpet-for-ev-investments-1141281",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "డిసెంబర్ 7–9న ఇన్వెస్ట్ తెలంగాణ గ్లోబల్ సమ్మిట్",
+    "ఈవీలకు రోడ్ ట్యాక్స్, రిజిస్ట్రేషన్ ఫీజు 100% మినహాయింపు",
+    "జహీరాబాద్ నిమ్జ్, ఎంకతల, కొడంగల్‌లో అవకాశాలు"
+   ],
+   "why": "విద్యుత్ వాహనాలు కొనేవారికి పన్ను మినహాయింపు, ఆటో రంగ పెట్టుబడిదారులకు ప్రభుత్వ మద్దతు వివరాలు ఇవి.",
+   "pub": "2026-11-12T05:00+05:30",
+   "en": {
+    "h": "Telangana woos EV investors; 2.17 lakh electric vehicles sold in two years",
+    "p": "Ahead of the Invest Telangana Global Summit 2026, to be held at Bharat Future City from December 7 to 9, the government invited auto and EV investors. Transport Minister Ponnam Prabhakar chaired the first Executive Council meeting at the Secretariat on Wednesday. He said the EV policy gives 100% exemption on road tax and registration fees, and that 2,17,690 EVs were sold in two years with tax exemptions of about ₹2,343 crore.",
+    "pts": [
+     "Invest Telangana Global Summit on December 7–9",
+     "100% road tax and registration fee exemption for EVs",
+     "Opportunities at Zaheerabad NIMZ, Enkatala and Kodangal"
+    ],
+    "why": "These are details of tax relief for EV buyers and government support for auto-sector investors.",
+    "cat": "Telangana · Investment",
+    "statl": "electric vehicles sold in two years"
+   },
+   "hi": {
+    "h": "ईवी निवेश के लिए तेलंगाना का न्योता; दो साल में 2.17 लाख इलेक्ट्रिक वाहन बिके",
+    "p": "7 से 9 दिसंबर तक भारत फ्यूचर सिटी में होने वाले इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 से पहले सरकार ने ऑटो और ईवी निवेशकों को आमंत्रित किया। सचिवालय में बुधवार को पहली कार्यकारी परिषद बैठक की अध्यक्षता परिवहन मंत्री पोन्नम प्रभाकर ने की। उन्होंने कहा कि ईवी नीति में रोड टैक्स और पंजीकरण शुल्क पर 100% छूट है, और दो साल में 2,17,690 ईवी बिके, जिन पर लगभग ₹2,343 करोड़ की कर छूट दी गई।",
+    "pts": [
+     "7–9 दिसंबर को इन्वेस्ट तेलंगाना ग्लोबल समिट",
+     "ईवी पर रोड टैक्स और पंजीकरण शुल्क में 100% छूट",
+     "ज़हीराबाद निम्ज़, एनकतला और कोडंगल में अवसर"
+    ],
+    "why": "ये ईवी खरीदारों के लिए कर छूट और ऑटो क्षेत्र के निवेशकों को सरकारी समर्थन के विवरण हैं।",
+    "cat": "तेलंगाना · निवेश",
+    "statl": "दो साल में बिके इलेक्ट्रिक वाहन"
+   },
+   "d": "12.11.2026",
+   "t": "10:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "4%",
+   "statl": "రాష్ట్రంలో మైనారిటీలకు రిజర్వేషన్",
+   "h": "బీఆర్ఎస్ ఢిల్లీలో బీజేపీతో జతకడుతుంది: సీఎం రేవంత్ ఆరోపణ",
+   "p": "జాతీయ విద్యా దినోత్సవం, మైనారిటీ సంక్షేమ దినోత్సవ కార్యక్రమాల్లో బుధవారం మాట్లాడిన సీఎం రేవంత్ రెడ్డి, తదుపరి ఎన్నికల తర్వాత బీఆర్ఎస్ ఢిల్లీలో బీజేపీకి మిత్రపక్షంగా మారుతుందని ఆరోపించారు. విద్య, ఉద్యోగాల్లో మైనారిటీ రిజర్వేషన్లను బీజేపీ అడ్డుకుంటోందని విమర్శించారు. రాష్ట్రంలో మైనారిటీలకు 4 శాతం రిజర్వేషన్ ఉందని గుర్తుచేశారు. ఏఐ వల్ల సాఫ్ట్‌వేర్ ఉద్యోగాలు తగ్గుతున్నందున నైపుణ్యాభివృద్ధిని ప్రోత్సహిస్తున్నామని ద హన్స్ ఇండియా కథనం ప్రకారం చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/cm-revanth-reddy-says-brs-will-join-hands-with-bjp-1141210",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "బీఆర్ఎస్ కారు ఢిల్లీలో కమలంగా మారుతుందని వ్యాఖ్య",
+    "మైనారిటీ రిజర్వేషన్లను బీజేపీ అడ్డుకుంటోందని విమర్శ",
+    "ఓల్డ్ సిటీ మెట్రో, మూసీ ప్రాజెక్టుతో పునరుజ్జీవనమని వెల్లడి"
+   ],
+   "why": "రాష్ట్ర రాజకీయాలు, మైనారిటీ రిజర్వేషన్ల అంశంపై సీఎం వైఖరిని ఈ వ్యాఖ్యలు తెలియజేస్తాయి.",
+   "pub": "2026-11-12T02:05+05:30",
+   "en": {
+    "h": "BRS will join hands with BJP in Delhi, alleges CM Revanth Reddy",
+    "p": "Speaking at National Education Day and Minority Welfare Day events on Wednesday, CM Revanth Reddy alleged that after the next elections the BRS would become a BJP ally in Delhi. He criticised the BJP for blocking minority reservations in education and jobs, and noted that minorities get 4 per cent reservation in the state. As AI reduces software jobs, the state is promoting skill development, he said, according to The Hans India.",
+    "pts": [
+     "Said the BRS 'car' would turn into a lotus in Delhi",
+     "Accused BJP of blocking minority reservations",
+     "Said Old City Metro and Musi project would revive it"
+    ],
+    "why": "The remarks show the CM's stand on state politics and minority reservations.",
+    "cat": "Hyderabad · Politics",
+    "statl": "reservation for minorities in the state"
+   },
+   "hi": {
+    "h": "बीआरएस दिल्ली में भाजपा से हाथ मिलाएगी: सीएम रेवंत रेड्डी का आरोप",
+    "p": "बुधवार को राष्ट्रीय शिक्षा दिवस और अल्पसंख्यक कल्याण दिवस कार्यक्रमों में मुख्यमंत्री रेवंत रेड्डी ने आरोप लगाया कि अगले चुनाव के बाद बीआरएस दिल्ली में भाजपा की सहयोगी बन जाएगी। उन्होंने शिक्षा और नौकरियों में अल्पसंख्यक आरक्षण रोकने के लिए भाजपा की आलोचना की और कहा कि राज्य में अल्पसंख्यकों को 4 प्रतिशत आरक्षण है। द हंस इंडिया के अनुसार, उन्होंने कहा कि एआई से सॉफ्टवेयर नौकरियां घट रही हैं, इसलिए राज्य कौशल विकास को बढ़ावा दे रहा है।",
+    "pts": [
+     "कहा, बीआरएस की 'कार' दिल्ली में कमल बन जाएगी",
+     "भाजपा पर अल्पसंख्यक आरक्षण रोकने का आरोप",
+     "ओल्ड सिटी मेट्रो, मूसी परियोजना से पुनरुद्धार की बात"
+    ],
+    "why": "ये टिप्पणियां राज्य की राजनीति और अल्पसंख्यक आरक्षण पर मुख्यमंत्री का रुख दिखाती हैं।",
+    "cat": "हैदराबाद · राजनीति",
+    "statl": "राज्य में अल्पसंख्यकों के लिए आरक्षण"
+   },
+   "d": "12.11.2026",
+   "t": "10:05"
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-power",
