@@ -1,8 +1,158 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 94,
+ "count": 97,
  "stories": [
+  {
+   "cat": "కొత్తగూడెం · అటవీ",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "4 ఆవులు",
+   "statl": "ఏపీ వైపు పులి చంపినట్లు సమాచారం",
+   "h": "తెలంగాణ–ఏపీ సరిహద్దులో పులి సంచారం: అశ్వారావుపేట గ్రామాల్లో భయం",
+   "p": "ట్రాకర్ అమర్చిన పులి తెలంగాణ–ఆంధ్రప్రదేశ్ సరిహద్దులో తిరుగుతోందన్న సమాచారంతో కొత్తగూడెం జిల్లా అశ్వారావుపేట మండల గ్రామస్థులు ఆందోళనలో ఉన్నారు. తమ రేంజ్‌లో పులి కనిపించలేదని, పాదముద్రలు దొరకలేదని ఎఫ్‌ఆర్‌ఓ మురళి తెలిపారు. ఏపీలోని వేలేరుపాడు మండలం కొత్తూరు ప్రాంతంలో పులి నాలుగు ఆవులను చంపినట్లు సమాచారం. అటవీ సిబ్బంది అప్రమత్తంగా ఉన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/tiger-movement-near-telangana-ap-border-triggers-panic-in-aswaraopet-villages",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "అశ్వారావుపేట",
+   "pts": [
+    "అశ్వారావుపేట రేంజ్‌లో పాదముద్రలు లేవన్న ఎఫ్‌ఆర్‌ఓ",
+    "అడవుల్లోకి వెళ్లొద్దని ప్రజలకు సూచన, అవగాహన కార్యక్రమాలు",
+    "పాపికొండ జాతీయ ఉద్యానవనం నుంచి వచ్చి ఉండొచ్చని అంచనా"
+   ],
+   "why": "సరిహద్దు గ్రామాల ప్రజలు, పశువుల యజమానులు అటవీ శాఖ సూచనలు పాటించాల్సిన అవసరం ఉంది.",
+   "pub": "2026-11-12T17:43+05:30",
+   "en": {
+    "h": "Tiger movement on Telangana–AP border sparks fear in Aswaraopet villages",
+    "p": "Villagers in Aswaraopet mandal of Kothagudem district are worried after reports that a tracker-fitted tiger is moving along the Telangana–Andhra Pradesh border. Forest Range Officer Murali said the tiger was not seen in his range and no pugmarks were found. The tiger reportedly killed four cows in the Kothuru area of Velerupadu mandal in AP. Forest staff are on alert.",
+    "pts": [
+     "FRO says no pugmarks found in Aswaraopet range",
+     "People told not to enter forests; awareness drives held",
+     "Tiger may have strayed from Papikonda National Park"
+    ],
+    "why": "Border villagers and cattle owners need to follow the forest department's advice.",
+    "cat": "Kothagudem · Forest",
+    "statl": "Cows reportedly killed on AP side"
+   },
+   "hi": {
+    "h": "तेलंगाना–आंध्र सीमा पर बाघ की हलचल: अश्वरावपेट के गांवों में डर",
+    "p": "ट्रैकर लगे एक बाघ के तेलंगाना–आंध्र प्रदेश सीमा पर घूमने की खबर से कोत्तागुडेम जिले के अश्वरावपेट मंडल के ग्रामीण चिंतित हैं। वन रेंज अधिकारी मुरली ने कहा कि उनकी रेंज में बाघ नहीं दिखा और पैरों के निशान नहीं मिले। खबर है कि बाघ ने आंध्र के वेलेरुपाडु मंडल के कोत्तूरु इलाके में चार गायों को मारा। वन कर्मी सतर्क हैं।",
+    "pts": [
+     "एफआरओ: अश्वरावपेट रेंज में पैरों के निशान नहीं",
+     "लोगों को जंगल में न जाने की सलाह, जागरूकता अभियान",
+     "बाघ पापिकोंडा राष्ट्रीय उद्यान से भटका हो सकता है"
+    ],
+    "why": "सीमा के गांवों के लोगों और पशुपालकों को वन विभाग की सलाह माननी होगी।",
+    "cat": "कोत्तागुडेम · वन",
+    "statl": "आंध्र की ओर गायें मारे जाने की खबर"
+   },
+   "d": "12.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "ఆదిలాబాద్ · పత్తి రైతులు",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "₹8,667",
+   "statl": "క్వింటాల్ పత్తి సీసీఐ మద్దతు ధర",
+   "h": "సీసీఐ కొనుగోళ్లలో జాప్యం: ఆదిలాబాద్ పత్తి రైతులకు ప్రైవేటు వ్యాపారుల దెబ్బ",
+   "p": "ఉమ్మడి ఆదిలాబాద్ జిల్లాలో ప్రైవేటు వ్యాపారులు సీసీఐ మద్దతు ధర ₹8,667 కన్నా క్వింటాల్‌కు సుమారు ₹300 తక్కువకు పత్తి కొంటున్నారని, తేమ పేరుతో, హమాలీ, అప్పుల పేరుతో కోతలు పెడుతున్నారని ఆరోపణలు వచ్చాయని తెలంగాణ టుడే తెలిపింది. అనధికార కేంద్రాలపై దాడులు చేయాలని రైతులు కోరారు. అక్రమ వ్యాపారులకు జరిమానా విధిస్తామని మార్కెటింగ్ అధికారి గజానంద్ చెప్పారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/private-traders-exploit-adilabad-cotton-farmers-amid-cci-procurement-delay",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "adilabad",
+   "pts": [
+    "అక్టోబర్ 22న సీసీఐ కొనుగోళ్లు ప్రారంభం; 18 కేంద్రాలు",
+    "వర్షాభావంతో దిగుబడి అంచనా 90 నుంచి 50 లక్షల క్వింటాళ్లకు",
+    "సుమారు 550 మంది వ్యాపారులకే లైసెన్సులు: అధికారి"
+   ],
+   "why": "ఆదిలాబాద్, నిర్మల్, ఆసిఫాబాద్, మంచిర్యాల పత్తి రైతుల ఆదాయంపై ఇది నేరుగా ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T17:37+05:30",
+   "en": {
+    "h": "CCI delay: Adilabad cotton farmers hit by private traders, allegations say",
+    "p": "In erstwhile Adilabad district, private traders are allegedly buying cotton about ₹300 per quintal below the CCI support price of ₹8,667, citing moisture and making deductions for hamali and loan recovery, Telangana Today reported. Farmers sought raids on unauthorised centres. District Marketing Officer Gajanand said illegal traders would be fined.",
+    "pts": [
+     "CCI buying began October 22; 18 centres",
+     "Scanty rain cut yield estimate from 90 to 50 lakh quintals",
+     "Only about 550 traders licensed: official"
+    ],
+    "why": "It directly affects the income of cotton farmers in Adilabad, Nirmal, Asifabad and Mancherial.",
+    "cat": "Adilabad · Cotton farmers",
+    "statl": "CCI support price per quintal of cotton"
+   },
+   "hi": {
+    "h": "सीसीआई खरीद में देरी: आदिलाबाद के कपास किसानों पर निजी व्यापारियों की मार का आरोप",
+    "p": "तेलंगाना टुडे के अनुसार पूर्ववर्ती आदिलाबाद जिले में निजी व्यापारियों पर आरोप है कि वे सीसीआई समर्थन मूल्य ₹8,667 से लगभग ₹300 प्रति क्विंटल कम पर कपास खरीद रहे हैं और नमी, हमाली व कर्ज वसूली के नाम पर कटौती कर रहे हैं। किसानों ने अनधिकृत केंद्रों पर छापे की मांग की। जिला विपणन अधिकारी गजानंद ने कहा कि अवैध व्यापारियों पर जुर्माना लगेगा।",
+    "pts": [
+     "सीसीआई खरीद 22 अक्टूबर से शुरू; 18 केंद्र",
+     "कम बारिश से उपज अनुमान 90 से 50 लाख क्विंटल",
+     "केवल करीब 550 व्यापारियों के पास लाइसेंस: अधिकारी"
+    ],
+    "why": "इसका सीधा असर आदिलाबाद, निर्मल, आसिफाबाद और मंचेरियल के कपास किसानों की आय पर पड़ता है।",
+    "cat": "आदिलाबाद · कपास किसान",
+    "statl": "कपास का सीसीआई समर्थन मूल्य प्रति क्विंटल"
+   },
+   "d": "12.11.2026",
+   "t": "18:05"
+  },
+  {
+   "cat": "ఏపీ · అనంతపురం",
+   "col": "--c-gov",
+   "art": "farm",
+   "stat": "11.04 లక్షల టన్నులు",
+   "statl": "రెండు జిల్లాల్లో పశుగ్రాసం కొరత",
+   "h": "అనంతపురం, శ్రీ సత్యసాయి జిల్లాల్లో పశుగ్రాసం కొరత: ₹1 కోటితో సరఫరాకు ఆదేశం",
+   "p": "ఎల్ నినో వల్ల వచ్చిన కరవుతో అనంతపురం, శ్రీ సత్యసాయి జిల్లాల్లో కలిపి సుమారు 11.04 లక్షల మెట్రిక్ టన్నుల పశుగ్రాసం కొరత ఏర్పడిందని ది సౌత్ ఫస్ట్ తెలిపింది. ₹1 కోటి విలువైన 250 టన్నుల గ్రాసాన్ని వెంటనే సరఫరా చేయాలని ప్రభుత్వం ఆదేశించింది. కొరత ఎక్కువ ఉన్న ప్రాంతాలకు ప్రాధాన్యం ఇస్తామని పశుసంవర్ధక శాఖ డైరెక్టర్ అమరేంద్ర చెప్పారు.",
+   "src": "The South First",
+   "url": "https://thesouthfirst.com/andhrapradesh/el-nino-impact-anantapur-sri-sathya-sai-face-11-04-lakh-tonne-fodder-deficit-state-orders-%e2%82%b91-crore-supply/",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-anantapur",
+   "pts": [
+    "అనంతపురంలో 8.84 లక్షల టన్నుల కొరత",
+    "శ్రీ సత్యసాయిలో 363 గ్రామ సచివాలయాల పరిధిలో కొరత",
+    "రైతులు ఆందోళన చెందొద్దన్న మంత్రి సత్యకుమార్ యాదవ్"
+   ],
+   "why": "కరవు జిల్లాల్లో పశువులపై ఆధారపడిన రైతుల జీవనోపాధికి ఈ సరఫరా కీలకం.",
+   "pub": "2026-11-12T16:34+05:30",
+   "en": {
+    "h": "Fodder shortage in Anantapur, Sri Sathya Sai; ₹1 crore supply ordered",
+    "p": "El Niño-linked drought has left Anantapur and Sri Sathya Sai districts with a combined fodder deficit of about 11.04 lakh metric tonnes, The South First reported. The government ordered immediate supply of 250 tonnes of fodder worth ₹1 crore. Animal Husbandry Director Amarendra said the worst-hit areas would get priority.",
+    "pts": [
+     "Anantapur deficit 8.84 lakh tonnes",
+     "Shortage in all 363 village secretariats of Sri Sathya Sai",
+     "Minister Satyakumar Yadav says farmers need not panic"
+    ],
+    "why": "The supply is key for farmers in drought districts who depend on cattle.",
+    "cat": "AP · Anantapur",
+    "statl": "Fodder deficit in two districts"
+   },
+   "hi": {
+    "h": "अनंतपुर, श्री सत्य साई में चारे की कमी; ₹1 करोड़ की आपूर्ति का आदेश",
+    "p": "द साउथ फर्स्ट के अनुसार अल नीनो से जुड़े सूखे के कारण अनंतपुर और श्री सत्य साई जिलों में कुल मिलाकर करीब 11.04 लाख मीट्रिक टन चारे की कमी है। सरकार ने ₹1 करोड़ के 250 टन चारे की तुरंत आपूर्ति का आदेश दिया। पशुपालन निदेशक अमरेंद्र ने कहा कि सबसे ज्यादा प्रभावित इलाकों को प्राथमिकता मिलेगी।",
+    "pts": [
+     "अनंतपुर में 8.84 लाख टन की कमी",
+     "श्री सत्य साई के सभी 363 ग्राम सचिवालयों में कमी",
+     "मंत्री सत्यकुमार यादव: किसान घबराएं नहीं"
+    ],
+    "why": "सूखाग्रस्त जिलों में पशुओं पर निर्भर किसानों के लिए यह आपूर्ति अहम है।",
+    "cat": "आंध्र · अनंतपुर",
+    "statl": "दो जिलों में चारे की कमी"
+   },
+   "d": "12.11.2026",
+   "t": "18:05"
+  },
   {
    "cat": "తెలంగాణ · పోలీస్",
    "col": "--c-power",
