@@ -1,8 +1,57 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 26,
+ "count": 27,
  "stories": [
+  {
+   "cat": "ఉత్తరప్రదేశ్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "403",
+   "statl": "యూపీ అసెంబ్లీ సీట్లు",
+   "h": "యూపీ ఎన్నికలకు ఒవైసీ–చంద్రశేఖర్ ఆజాద్ పొత్తు ప్రకటన నేడు",
+   "p": "2027 ఉత్తరప్రదేశ్ అసెంబ్లీ ఎన్నికల కోసం ఏఐఎంఐఎం అధ్యక్షుడు అసదుద్దీన్ ఒవైసీ, ఆజాద్ సమాజ్ పార్టీ (కాన్షీరామ్) అధినేత చంద్రశేఖర్ ఆజాద్ గురువారం లక్నోలో సంయుక్త విలేకరుల సమావేశంలో పొత్తు ప్రకటించనున్నట్లు పార్టీ నేతలు తెలిపారు. రెండు పార్టీలు కలిసి పనిచేస్తాయని ఏఐఎంఐఎం ప్రతినిధి షాదాబ్ చౌహాన్ పీటీఐకి చెప్పారు. పొత్తు స్వరూపం, సీట్ల పంపకం ఇంకా వెల్లడి కాలేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/owaisi-chandrashekhar-azad-set-to-announce-alliance-for-up-polls-on-nov-12",
+   "sec": [
+    "india"
+   ],
+   "st": "UP",
+   "place": "st-UP",
+   "pts": [
+    "లక్నోలో గురువారం మధ్యాహ్నం సంయుక్త విలేకరుల సమావేశం",
+    "403 సీట్లలో పంపకం ఇంకా స్పష్టం కాలేదు",
+    "ఇండియా కూటమిలో చేరికకు ఒవైసీ పెట్టిన అక్టోబర్ 2 గడువుకు స్పందన రాలేదు"
+   ],
+   "why": "ఏఐఎంఐఎం యూపీ ఎన్నికల్లో కొత్త పొత్తుతో దళిత, మైనారిటీ ఓటర్లను లక్ష్యంగా చేసుకుంటోందని కథనాలు చెబుతున్నాయి.",
+   "d": "12.11.2026",
+   "t": "08:35",
+   "pub": "2026-11-12T08:25+05:30",
+   "en": {
+    "h": "Owaisi, Chandrashekhar Azad to announce alliance for UP polls today",
+    "p": "AIMIM president Asaduddin Owaisi and Azad Samaj Party (Kanshiram) chief Chandrashekhar Azad are set to announce an alliance for the 2027 Uttar Pradesh Assembly elections at a joint press conference in Lucknow on Thursday, party leaders said. AIMIM spokesperson Shadab Chauhan told PTI the two parties will work together. The nature of the pact and seat-sharing have not yet been revealed.",
+    "pts": [
+     "Joint press conference in Lucknow on Thursday afternoon",
+     "Seat-sharing among 403 seats not yet clear",
+     "No response to Owaisi's October 2 deadline to join INDIA bloc"
+    ],
+    "why": "Reports say AIMIM is targeting Dalit and minority voters in UP through the new alliance.",
+    "cat": "Uttar Pradesh · Politics",
+    "statl": "UP Assembly seats"
+   },
+   "hi": {
+    "h": "यूपी चुनाव के लिए ओवैसी–चंद्रशेखर आज़ाद गठबंधन का ऐलान आज",
+    "p": "2027 उत्तर प्रदेश विधानसभा चुनाव के लिए एआईएमआईएम अध्यक्ष असदुद्दीन ओवैसी और आज़ाद समाज पार्टी (कांशीराम) प्रमुख चंद्रशेखर आज़ाद गुरुवार को लखनऊ में संयुक्त प्रेस कॉन्फ्रेंस में गठबंधन का ऐलान करेंगे, पार्टी नेताओं ने बताया। एआईएमआईएम प्रवक्ता शादाब चौहान ने पीटीआई से कहा कि दोनों पार्टियां साथ काम करेंगी। गठबंधन का स्वरूप और सीट बंटवारा अभी तय नहीं हुआ है।",
+    "pts": [
+     "गुरुवार दोपहर लखनऊ में संयुक्त प्रेस कॉन्फ्रेंस",
+     "403 सीटों में बंटवारा अभी स्पष्ट नहीं",
+     "इंडिया गठबंधन में शामिल होने की ओवैसी की 2 अक्टूबर की समय-सीमा पर जवाब नहीं"
+    ],
+    "why": "रिपोर्टों के अनुसार एआईएमआईएम नए गठबंधन से यूपी में दलित और अल्पसंख्यक मतदाताओं को लक्ष्य कर रही है।",
+    "cat": "उत्तर प्रदेश · राजनीति",
+    "statl": "यूपी विधानसभा सीटें"
+   }
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-power",

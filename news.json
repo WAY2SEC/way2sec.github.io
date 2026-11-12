@@ -1,8 +1,57 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T08:09:28+05:30",
+ "updated": "2026-11-12T08:38:12+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఉత్తరప్రదేశ్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "403",
+   "statl": "యూపీ అసెంబ్లీ సీట్లు",
+   "h": "యూపీ ఎన్నికలకు ఒవైసీ–చంద్రశేఖర్ ఆజాద్ పొత్తు ప్రకటన నేడు",
+   "p": "2027 ఉత్తరప్రదేశ్ అసెంబ్లీ ఎన్నికల కోసం ఏఐఎంఐఎం అధ్యక్షుడు అసదుద్దీన్ ఒవైసీ, ఆజాద్ సమాజ్ పార్టీ (కాన్షీరామ్) అధినేత చంద్రశేఖర్ ఆజాద్ గురువారం లక్నోలో సంయుక్త విలేకరుల సమావేశంలో పొత్తు ప్రకటించనున్నట్లు పార్టీ నేతలు తెలిపారు. రెండు పార్టీలు కలిసి పనిచేస్తాయని ఏఐఎంఐఎం ప్రతినిధి షాదాబ్ చౌహాన్ పీటీఐకి చెప్పారు. పొత్తు స్వరూపం, సీట్ల పంపకం ఇంకా వెల్లడి కాలేదు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/owaisi-chandrashekhar-azad-set-to-announce-alliance-for-up-polls-on-nov-12",
+   "sec": [
+    "india"
+   ],
+   "st": "UP",
+   "place": "st-UP",
+   "pts": [
+    "లక్నోలో గురువారం మధ్యాహ్నం సంయుక్త విలేకరుల సమావేశం",
+    "403 సీట్లలో పంపకం ఇంకా స్పష్టం కాలేదు",
+    "ఇండియా కూటమిలో చేరికకు ఒవైసీ పెట్టిన అక్టోబర్ 2 గడువుకు స్పందన రాలేదు"
+   ],
+   "why": "ఏఐఎంఐఎం యూపీ ఎన్నికల్లో కొత్త పొత్తుతో దళిత, మైనారిటీ ఓటర్లను లక్ష్యంగా చేసుకుంటోందని కథనాలు చెబుతున్నాయి.",
+   "d": "12.11.2026",
+   "t": "08:35",
+   "pub": "2026-11-12T08:25+05:30",
+   "en": {
+    "h": "Owaisi, Chandrashekhar Azad to announce alliance for UP polls today",
+    "p": "AIMIM president Asaduddin Owaisi and Azad Samaj Party (Kanshiram) chief Chandrashekhar Azad are set to announce an alliance for the 2027 Uttar Pradesh Assembly elections at a joint press conference in Lucknow on Thursday, party leaders said. AIMIM spokesperson Shadab Chauhan told PTI the two parties will work together. The nature of the pact and seat-sharing have not yet been revealed.",
+    "pts": [
+     "Joint press conference in Lucknow on Thursday afternoon",
+     "Seat-sharing among 403 seats not yet clear",
+     "No response to Owaisi's October 2 deadline to join INDIA bloc"
+    ],
+    "why": "Reports say AIMIM is targeting Dalit and minority voters in UP through the new alliance.",
+    "cat": "Uttar Pradesh · Politics",
+    "statl": "UP Assembly seats"
+   },
+   "hi": {
+    "h": "यूपी चुनाव के लिए ओवैसी–चंद्रशेखर आज़ाद गठबंधन का ऐलान आज",
+    "p": "2027 उत्तर प्रदेश विधानसभा चुनाव के लिए एआईएमआईएम अध्यक्ष असदुद्दीन ओवैसी और आज़ाद समाज पार्टी (कांशीराम) प्रमुख चंद्रशेखर आज़ाद गुरुवार को लखनऊ में संयुक्त प्रेस कॉन्फ्रेंस में गठबंधन का ऐलान करेंगे, पार्टी नेताओं ने बताया। एआईएमआईएम प्रवक्ता शादाब चौहान ने पीटीआई से कहा कि दोनों पार्टियां साथ काम करेंगी। गठबंधन का स्वरूप और सीट बंटवारा अभी तय नहीं हुआ है।",
+    "pts": [
+     "गुरुवार दोपहर लखनऊ में संयुक्त प्रेस कॉन्फ्रेंस",
+     "403 सीटों में बंटवारा अभी स्पष्ट नहीं",
+     "इंडिया गठबंधन में शामिल होने की ओवैसी की 2 अक्टूबर की समय-सीमा पर जवाब नहीं"
+    ],
+    "why": "रिपोर्टों के अनुसार एआईएमआईएम नए गठबंधन से यूपी में दलित और अल्पसंख्यक मतदाताओं को लक्ष्य कर रही है।",
+    "cat": "उत्तर प्रदेश · राजनीति",
+    "statl": "यूपी विधानसभा सीटें"
+   }
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-power",
@@ -2360,57 +2409,6 @@
     "why": "कविता ने कहा कि राज्य में लगभग 80 लाख डिग्रीधारी हैं और ये दो सीटें तेलंगाना के लगभग एक तिहाई हिस्से को कवर करती हैं।",
     "cat": "तेलंगाना · चुनाव",
     "statl": "स्नातक चुनाव वाले क्षेत्र"
-   },
-   "d": "11.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · నిరసన",
-   "col": "--c-election",
-   "art": "unity",
-   "stat": "7 నెలలు",
-   "statl": "జైలులో నోయిడా కార్యకర్తలు",
-   "h": "నోయిడా కార్మిక కార్యకర్తల విడుదల కోరుతూ హైదరాబాద్‌లో నిరసన",
-   "p": "నోయిడాలో కార్మికులు, కార్యకర్తలు జైలుకు వెళ్లి ఏడు నెలలు అయిన సందర్భంగా బుధవారం హైదరాబాద్ సుందరయ్య పార్కులో నిరసన జరిగింది. కార్వాన్ (CaRWAN) సంస్థ నిర్వహించిన ఈ కార్యక్రమంలో విద్యార్థులు, పౌరులు పాల్గొన్నారు. ఏప్రిల్‌లో వేతనాల కోసం జరిగిన సమ్మెపై యూపీ ప్రభుత్వం అణచివేతకు దిగిందని, ఒకే కేసులో 11 ఎఫ్ఐఆర్‌లు నమోదయ్యాయని నిర్వాహకులు ఆరోపించారు. నిరసనలు కొనసాగిస్తామని చెప్పారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hyderabad-protests-to-mark-noida-activists-seven-months-in-jail-3574548/",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "సుందరయ్య పార్కు",
-   "pts": [
-    "సుందరయ్య పార్కులో కార్వాన్ ఆధ్వర్యంలో నిరసన",
-    "ఒకే కేసులో 11 ఎఫ్ఐఆర్‌లు: నిర్వాహకుల ఆరోపణ",
-    "ఎనిమిది మంది జైలులో ఉన్నారని సంస్థ వెల్లడి"
-   ],
-   "why": "కార్మికుల వేతన ఉద్యమాలు, నిరసన హక్కులపై చర్చకు ఈ నిరసన అద్దం పడుతుంది.",
-   "pub": "2026-11-11T20:04+05:30",
-   "en": {
-    "h": "Hyderabad protest seeks release of jailed Noida worker activists",
-    "p": "A protest was held at Sundarayya Park in Hyderabad on Wednesday to mark seven months since workers and activists in Noida were jailed. Organised by CaRWAN, it drew students and citizens. The organisers alleged that the UP government responded with repression to an April strike for better wages and that 11 FIRs were filed in the same case. They said protests would continue.",
-    "pts": [
-     "CaRWAN protest held at Sundarayya Park",
-     "11 FIRs in the same case, organisers allege",
-     "Group says eight people are in jail"
-    ],
-    "why": "The protest reflects the debate over workers' wage movements and the right to protest.",
-    "cat": "Hyderabad · Protest",
-    "statl": "Noida activists in jail"
-   },
-   "hi": {
-    "h": "नोएडा के जेल में बंद मज़दूर कार्यकर्ताओं की रिहाई के लिए हैदराबाद में प्रदर्शन",
-    "p": "नोएडा में मज़दूरों और कार्यकर्ताओं के जेल जाने के सात महीने पूरे होने पर बुधवार को हैदराबाद के सुंदरय्या पार्क में प्रदर्शन हुआ। CaRWAN द्वारा आयोजित इस कार्यक्रम में छात्र और नागरिक शामिल हुए। आयोजकों ने आरोप लगाया कि अप्रैल में बेहतर वेतन के लिए हुई हड़ताल पर यूपी सरकार ने दमन किया और एक ही मामले में 11 एफ़आईआर दर्ज हुईं। उन्होंने कहा कि प्रदर्शन जारी रहेंगे।",
-    "pts": [
-     "सुंदरय्या पार्क में CaRWAN का प्रदर्शन",
-     "एक ही मामले में 11 एफ़आईआर: आयोजकों का आरोप",
-     "संगठन के अनुसार आठ लोग जेल में"
-    ],
-    "why": "यह प्रदर्शन मज़दूरों के वेतन आंदोलनों और विरोध के अधिकार पर बहस को दर्शाता है।",
-    "cat": "हैदराबाद · प्रदर्शन",
-    "statl": "जेल में नोएडा कार्यकर्ता"
    },
    "d": "11.11.2026",
    "t": "21:05"
