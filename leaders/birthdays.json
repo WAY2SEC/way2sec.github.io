@@ -1,6 +1,6 @@
 {
  "about": "Way2Sec birthday greetings: PM, Telangana + Andhra Pradesh CMs, Dy CMs, ministers, MLAs and MPs. dob = YYYY-MM-DD (or --MM-DD if the year is unknown). verified=true only when a reputable/official source in dob_src states the date. last_posted = year of the last greeting (prevents repeats). photo = path to a photo the user supplied (never download leaders' photos).",
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "leaders": [
   {
    "id": "narendra-modi",
@@ -14,8 +14,8 @@
    "party": "BJP",
    "post": "Prime Minister of India",
    "dob": "1950-09-17",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "pmindia.gov.in PM profile (\"born on the 17th of September 1950\"), checked 2026-11-12",
+   "verified": true,
    "te": {
     "name": "శ్రీ నరేంద్ర మోదీ",
     "role": "భారత ప్రధాన మంత్రి"
@@ -839,15 +839,15 @@
    "party": "BRS",
    "post": "MLA, Siddipet (Telangana)",
    "dob": "1972-06-03",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "Oneindia politician profile (03 Jun 1972) + Wikidata via OpenSanctions Q7668299, checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ హరీశ్ రావు",
+    "role": "సిద్దిపేట ఎమ్మెల్యే"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री हरीश राव",
+    "role": "सिद्दिपेट के विधायक"
    },
    "photo": "",
    "last_posted": ""
@@ -913,8 +913,8 @@
    "no": 36,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1958-12-05",
+   "dob_src": "unconfirmed: Wikipedia (citation not visible) + hyderabadstories.com, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -1388,8 +1388,8 @@
    "no": 55,
    "party": "INC",
    "post": "Speaker, Telangana Legislative Assembly",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1964-06-04",
+   "dob_src": "unconfirmed: Wikipedia infobox (uncited), 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -1914,7 +1914,7 @@
    "party": "INC",
    "post": "Minister, Government of Telangana",
    "dob": null,
-   "dob_src": "",
+   "dob_src": "not found 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -2113,16 +2113,16 @@
    "no": 85,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
-   "verified": false,
+   "dob": "1955-08-10",
+   "dob_src": "The Hans India \"Know Your MLA\" (born August 10, 1955) + Wikidata via OpenSanctions Q6314533, checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ జూపల్లి కృష్ణారావు",
+    "role": "తెలంగాణ రాష్ట్ర మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री जूपल्ली कृष्णा राव",
+    "role": "तेलंगाना सरकार में मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -2288,8 +2288,8 @@
    "no": 92,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1965-05-23",
+   "dob_src": "unconfirmed: Wikipedia/Oneindia say 23 May 1965 but Lok Sabha data (OpenSanctions in-sansad-ls-5074) says 1963-05-23 — year conflict, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -2713,8 +2713,8 @@
    "no": 109,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1971-07-09",
+   "dob_src": "unconfirmed: Wikipedia (uncited) + hyderabadstories.com, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -2788,8 +2788,8 @@
    "no": 112,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1953-11-15",
+   "dob_src": "unconfirmed: Wikipedia (uncited) + hyderabadstories.com, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -2813,16 +2813,16 @@
    "no": 113,
    "party": "INC",
    "post": "Minister, Government of Telangana",
-   "dob": null,
-   "dob_src": "",
-   "verified": false,
+   "dob": "1965-11-04",
+   "dob_src": "OpenSanctions in-sansad-ls-4683 (16th Lok Sabha member record) + Wikidata, checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ పొంగులేటి శ్రీనివాస రెడ్డి",
+    "role": "తెలంగాణ రాష్ట్ర మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री पोंगुलेटी श्रीनिवास रेड्डी",
+    "role": "तेलंगाना सरकार में मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -3039,7 +3039,7 @@
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
    "dob": null,
-   "dob_src": "",
+   "dob_src": "not found 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -3288,8 +3288,8 @@
    "no": 13,
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1973-03-15",
+   "dob_src": "unconfirmed: Deccan Chronicle profile, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -3364,7 +3364,7 @@
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
    "dob": null,
-   "dob_src": "",
+   "dob_src": "not found 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -3788,8 +3788,8 @@
    "no": 33,
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1979-03-24",
+   "dob_src": "unconfirmed: Wikipedia (uncited); Oneindia says 01 Jan 1984 — conflict, 2026-11-12",
    "verified": false,
    "te": {
     "name": "శ్రీమతి వంగలపూడి అనిత",
@@ -3813,8 +3813,8 @@
    "no": 34,
    "party": "TDP",
    "post": "Speaker, Andhra Pradesh Legislative Assembly",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1957-09-04",
+   "dob_src": "unconfirmed: Wikipedia mirrors (uncited), 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -4014,7 +4014,7 @@
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
    "dob": null,
-   "dob_src": "",
+   "dob_src": "not found 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -4339,7 +4339,7 @@
    "party": "JSP",
    "post": "Minister, Government of Andhra Pradesh",
    "dob": null,
-   "dob_src": "",
+   "dob_src": "not found 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -4388,8 +4388,8 @@
    "no": 57,
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1968-05-06",
+   "dob_src": "unconfirmed: Wikipedia infobox (uncited; body says 1969) — year conflict, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -4463,16 +4463,16 @@
    "no": 60,
    "party": "TDP",
    "post": "Deputy Speaker, Andhra Pradesh Legislative Assembly",
-   "dob": null,
-   "dob_src": "",
-   "verified": false,
+   "dob": "1962-05-14",
+   "dob_src": "OpenSanctions in-sansad-ls-5097 (17th Lok Sabha member record), checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ రఘురామకృష్ణ రాజు",
+    "role": "ఆంధ్రప్రదేశ్ శాసనసభ ఉపసభాపతి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री रघु रामकृष्ण राजू",
+    "role": "आंध्र प्रदेश विधानसभा के उपाध्यक्ष"
    },
    "photo": "",
    "last_posted": ""
@@ -4713,8 +4713,8 @@
    "no": 70,
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
-   "dob": null,
-   "dob_src": "",
+   "dob": "1965-04-18",
+   "dob_src": "unconfirmed: Wikipedia (uncited) + vuyyuru.splenden.in, 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -4839,7 +4839,7 @@
    "party": "TDP",
    "post": "Minister, Government of Andhra Pradesh",
    "dob": null,
-   "dob_src": "",
+   "dob_src": "not found 2026-11-12",
    "verified": false,
    "te": {
     "name": "",
@@ -6189,15 +6189,15 @@
    "party": "YSRCP",
    "post": "Former Chief Minister of Andhra Pradesh",
    "dob": "1972-12-21",
-   "dob_src": "to verify",
-   "verified": false,
+   "dob_src": "OpenSanctions in-sansad-ls-4530 (Lok Sabha members data) + Wikidata, checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ వైఎస్ జగన్ మోహన్ రెడ్డి",
+    "role": "ఆంధ్రప్రదేశ్ మాజీ ముఖ్యమంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री वाई. एस. जगन मोहन रेड्डी",
+    "role": "आंध्र प्रदेश के पूर्व मुख्यमंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -7563,16 +7563,16 @@
    "no": 9,
    "party": "BJP",
    "post": "Union Minister of State",
-   "dob": null,
-   "dob_src": "",
-   "verified": false,
+   "dob": "1967-08-04",
+   "dob_src": "sansad.in Lok Sabha member 5745 (04-Aug-1967), checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "శ్రీ భూపతిరాజు శ్రీనివాస వర్మ",
+    "role": "కేంద్ర సహాయ మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "श्री भूपतिराजू श्रीनिवास वर्मा",
+    "role": "केंद्रीय राज्य मंत्री"
    },
    "photo": "",
    "last_posted": ""
@@ -7663,16 +7663,16 @@
    "no": 13,
    "party": "TDP",
    "post": "Union Minister of State",
-   "dob": null,
-   "dob_src": "",
-   "verified": false,
+   "dob": "1976-03-07",
+   "dob_src": "OpenSanctions in-sansad record (18th Lok Sabha) + Oneindia profile (07 Mar 1976), checked 2026-11-12",
+   "verified": true,
    "te": {
-    "name": "",
-    "role": ""
+    "name": "డాక్టర్ పెమ్మసాని చంద్రశేఖర్",
+    "role": "కేంద్ర సహాయ మంత్రి"
    },
    "hi": {
-    "name": "",
-    "role": ""
+    "name": "डॉ. चंद्रशेखर पेम्मासानी",
+    "role": "केंद्रीय राज्य मंत्री"
    },
    "photo": "",
    "last_posted": ""
