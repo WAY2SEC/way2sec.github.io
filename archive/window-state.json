@@ -1,19 +1,7 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T23:05:00+05:30",
+ "cutoff": "2026-11-12T23:35:00+05:30",
  "runs": [
-  {
-   "window": "2026-11-10T08:05:00+05:30/2026-11-10T08:35:00+05:30",
-   "status": "completed-with-gaps",
-   "eligible": 0,
-   "published": 0,
-   "held": 0,
-   "corrected": 0,
-   "duplicates": 0,
-   "skipped": 0,
-   "review": 0,
-   "gaps": "Search-first; no in-window timestamped results. Checked: ETV Bharat TG/AP live blogs (latest 06:43/06:49), Andhra Jyothy flash (latest 07:30), Namasthe Telangana (latest 04:37), Telangana Today (cached), Al Jazeera (8-9 Nov only). Eenadu, Sakshi, Siasat, TOI, The Hindu, IE, HT, NDTV, PTI, Reuters/AP/BBC, other-state outlets and international-topic sources returned no timestamped in-window results."
-  },
   {
    "window": "2026-11-10T08:35:00+05:30/2026-11-10T09:05:00+05:30",
    "status": "completed-with-gaps",
@@ -1289,6 +1277,19 @@
    "skipped": 2,
    "review": 0,
    "gaps": "Search-first; WebSearch returned stale tag/listing pages. Read: TT GHMC Tolichowki (22:29), TT Malkajgiri Sweat Run (22:50), TT tag/telangana (no article times), DC AP trafficking (Jun) and Guntur (Jul) — old. Skipped minor: TT Erdogan Gaza (minor intl), TT Shimla 3.9 quake (minor other-state). Not surfaced: Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, PTI, Reuters/AP; no AP, national or international-topic items verifiable in range. Districts searched: Nizamabad, Kamareddy, Mahabubnagar, Nagarkurnool, Gadwal, Guntur, NTR, Visakhapatnam, Srikakulam, Vizianagaram."
+  },
+  {
+   "window": "2026-11-12T23:05:00+05:30/2026-11-12T23:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 1,
+   "published": 0,
+   "late": 0,
+   "sensitive": 0,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 1,
+   "review": 0,
+   "gaps": "Search-first; WebSearch returned stale tag/listing pages only. Read: TT hyderabad-news-today/latest, tag/telangana, sangareddy-news, Warangal, mahabubabad-news, Jagtial (no article times; sidebar relative labels), Siasat Hyderabad (all items already published/seen), South First AP tag, 9 articles (AP Rs 33,500 cr investments 11:56, Amul milk 09:12, Sikkim quake 08:55, WHO air study 08:59, Jagan PPP 08:40, Makkah drones 11 Nov — all before lookback 15:05; TT Miyapur and Sangareddy gang — old). DC Warangal listing rendered empty. Skipped minor other-state: AIMIM–Azad UP alliance (15:12). Not surfaced: Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, PTI direct, Reuters/AP. Districts searched: Medak, Sangareddy, Siddipet, Jagtial, Peddapalli, Suryapet, Warangal, Khammam, Mahabubabad, Mulugu, Kakinada, Eluru, East Godavari, NTR, Visakhapatnam, Tirupati."
   }
  ],
  "seen": [
@@ -5431,6 +5432,11 @@
    "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/pemmasani-unveils-civic-development-plans-for-guntur-1972052",
    "d": "12.11.2026",
    "w": "23:05"
+  },
+  {
+   "url": "https://telanganatoday.com/aimim-chandrashekhar-azad-form-alliance-in-up",
+   "d": "12.11.2026",
+   "w": "23:35"
   }
  ]
 }
