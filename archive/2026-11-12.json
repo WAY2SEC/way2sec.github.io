@@ -1,8 +1,108 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 119,
+ "count": 121,
  "stories": [
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "court",
+   "stat": "5",
+   "statl": "కంపెనీలపై దావా",
+   "h": "కొత్త ఏఐ మోడళ్ల అభివృద్ధి ఆపాలంటూ ఐదు టెక్ సంస్థలపై దావా",
+   "p": "ఆన్‌లైన్ భద్రత, వినియోగదారుల హక్కుల కోసం పనిచేసే లాభాపేక్ష లేని సంస్థల కూటమి శాన్ ఫ్రాన్సిస్కో సుపీరియర్ కోర్టులో దావా వేసింది. ఆంత్రోపిక్, గూగుల్, మెటా, ఓపెన్‌ఏఐ సహా ఐదు ఏఐ కంపెనీలు కొత్త మోడళ్లను అభివృద్ధి చేయకుండా, విడుదల చేయకుండా ఆపాలని కోరింది. కాలిఫోర్నియా అన్యాయ పోటీ చట్టం ఉల్లంఘన జరిగిందని ఆరోపించింది. కంపెనీలు వెంటనే స్పందించలేదని ఏపీ తెలిపింది.",
+   "src": "AP (via Telangana Today)",
+   "url": "https://telanganatoday.com/ai-safety-groups-sue-five-tech-giants-seek-halt-to-development-of-new-models",
+   "sec": [
+    "world",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "శాన్ ఫ్రాన్సిస్కో సుపీరియర్ కోర్టులో దావా దాఖలు",
+    "దావా వేసినవాటిలో పబ్లిక్ సిటిజన్, హీట్ ఇనిషియేటివ్ సంస్థలు",
+    "ప్రజారోగ్యానికి ముప్పు అని పిటిషనర్ల ఆరోపణ"
+   ],
+   "why": "ఈ కంపెనీల ఏఐ సేవలను భారత్‌లోనూ కోట్లాది మంది ఫోన్, ఇంటర్నెట్ వినియోగదారులు వాడుతున్నారు.",
+   "d": "12.11.2026",
+   "t": "22:35",
+   "pub": "2026-11-12T22:10+05:30",
+   "en": {
+    "h": "Safety groups sue five tech firms to halt new AI models",
+    "p": "A coalition of nonprofit online safety and consumer advocacy groups has filed a lawsuit in San Francisco Superior Court. It asks a judge to stop five AI companies, including Anthropic, Google, Meta and OpenAI, from developing or deploying new models. It alleges a violation of California's unfair competition law. AP said the companies did not immediately respond.",
+    "pts": [
+     "Lawsuit filed in San Francisco Superior Court",
+     "Plaintiffs include Public Citizen and Heat Initiative",
+     "Petitioners allege a threat to public health"
+    ],
+    "why": "Crores of phone and internet users in India also use these companies' AI services.",
+    "cat": "World · Technology",
+    "statl": "companies sued"
+   },
+   "hi": {
+    "h": "नए एआई मॉडल रोकने के लिए पांच टेक कंपनियों पर मुकदमा",
+    "p": "ऑनलाइन सुरक्षा और उपभोक्ता हितों के लिए काम करने वाले गैर-लाभकारी संगठनों के गठबंधन ने सैन फ्रांसिस्को सुपीरियर कोर्ट में मुकदमा दायर किया है। इसमें एंथ्रोपिक, गूगल, मेटा और ओपनएआई सहित पांच एआई कंपनियों को नए मॉडल विकसित करने या जारी करने से रोकने की मांग की गई है। कैलिफोर्निया के अनुचित प्रतिस्पर्धा कानून के उल्लंघन का आरोप है। एपी के अनुसार कंपनियों ने तुरंत जवाब नहीं दिया।",
+    "pts": [
+     "सैन फ्रांसिस्को सुपीरियर कोर्ट में मुकदमा दायर",
+     "याचिकाकर्ताओं में पब्लिक सिटिजन और हीट इनिशिएटिव",
+     "याचिकाकर्ताओं का आरोप: जन स्वास्थ्य को खतरा"
+    ],
+    "why": "भारत में भी करोड़ों फोन और इंटरनेट उपयोगकर्ता इन कंपनियों की एआई सेवाएं इस्तेमाल करते हैं।",
+    "cat": "दुनिया · टेक्नोलॉजी",
+    "statl": "कंपनियों पर मुकदमा"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · సంస్కృతి",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "నవం 14–30",
+   "statl": "ఎన్టీఆర్ స్టేడియంలో",
+   "h": "ఎన్టీఆర్ స్టేడియంలో నవంబర్ 14 నుంచి కోటి దీపోత్సవం",
+   "p": "కార్తీక మాసం సందర్భంగా భక్తి టీవీ ఆధ్వర్యంలో హైదరాబాద్ ఎన్టీఆర్ స్టేడియంలో నవంబర్ 14 నుంచి 30 వరకు కోటి దీపోత్సవం జరగనుంది. రోజూ సాయంత్రం 5.30 నుంచి కార్యక్రమాలు ఉంటాయి. చాగంటి కోటేశ్వరరావు, గరికపాటి నరసింహారావు సహా ప్రముఖుల ప్రవచనాలు, అభిషేకాలు, కల్యాణోత్సవాలు నిర్వహిస్తారు. ప్రతి సాయంత్రం వేలాది భక్తులు వస్తారని అంచనా.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/koti-deepotsavam-to-be-held-at-hyderabads-ntr-stadium-from-november-14",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 14–30, రోజూ సాయంత్రం 5.30 నుంచి",
+    "చాగంటి, గరికపాటి ప్రవచనాలు",
+    "కొల్హాపూర్ మహాలక్ష్మి, కంచి కామాక్షి, మధుర మీనాక్షి దర్శనం"
+   ],
+   "why": "కార్తీక మాసంలో దీపోత్సవానికి వెళ్లాలనుకునే హైదరాబాద్ భక్తులకు ఉపయోగపడే సమాచారం.",
+   "d": "12.11.2026",
+   "t": "22:35",
+   "pub": "2026-11-12T21:50+05:30",
+   "en": {
+    "h": "Koti Deepotsavam at Hyderabad's NTR Stadium from November 14",
+    "p": "Koti Deepotsavam will be held at NTR Stadium, Hyderabad, from November 14 to 30 during Karthika Masam, organised by Bhakti TV. Programmes will run daily from 5.30 pm. They include discourses by Chaganti Koteswara Rao, Garikapati Narasimha Rao and others, along with abhishekams and kalyanotsavams. Thousands of devotees are expected each evening.",
+    "pts": [
+     "November 14–30, daily from 5.30 pm",
+     "Discourses by Chaganti and Garikapati",
+     "Darshan of Kolhapur Mahalakshmi, Kanchi Kamakshi, Madurai Meenakshi"
+    ],
+    "why": "Useful information for Hyderabad devotees planning to attend the Karthika Masam lamp festival.",
+    "cat": "Hyderabad · Culture",
+    "statl": "at NTR Stadium"
+   },
+   "hi": {
+    "h": "हैदराबाद के एनटीआर स्टेडियम में 14 नवंबर से कोटि दीपोत्सवम",
+    "p": "कार्तिक मास के अवसर पर भक्ति टीवी की ओर से हैदराबाद के एनटीआर स्टेडियम में 14 से 30 नवंबर तक कोटि दीपोत्सवम आयोजित होगा। रोज शाम 5.30 बजे से कार्यक्रम होंगे। इनमें चागंटी कोटेश्वर राव, गरिकपाटि नरसिंह राव सहित विद्वानों के प्रवचन, अभिषेक और कल्याणोत्सव शामिल हैं। हर शाम हजारों श्रद्धालुओं के आने की उम्मीद है।",
+    "pts": [
+     "14–30 नवंबर, रोज शाम 5.30 बजे से",
+     "चागंटी और गरिकपाटि के प्रवचन",
+     "कोल्हापुर महालक्ष्मी, कांची कामाक्षी, मदुरै मीनाक्षी के दर्शन"
+    ],
+    "why": "कार्तिक मास दीपोत्सव में जाने वाले हैदराबाद के श्रद्धालुओं के लिए उपयोगी जानकारी।",
+    "cat": "हैदराबाद · संस्कृति",
+    "statl": "एनटीआर स्टेडियम में"
+   }
+  },
   {
    "cat": "తెలంగాణ · విద్యుత్",
    "col": "--c-power",

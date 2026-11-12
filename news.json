@@ -1,8 +1,108 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T22:13:27+05:30",
+ "updated": "2026-11-12T22:43:53+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "court",
+   "stat": "5",
+   "statl": "కంపెనీలపై దావా",
+   "h": "కొత్త ఏఐ మోడళ్ల అభివృద్ధి ఆపాలంటూ ఐదు టెక్ సంస్థలపై దావా",
+   "p": "ఆన్‌లైన్ భద్రత, వినియోగదారుల హక్కుల కోసం పనిచేసే లాభాపేక్ష లేని సంస్థల కూటమి శాన్ ఫ్రాన్సిస్కో సుపీరియర్ కోర్టులో దావా వేసింది. ఆంత్రోపిక్, గూగుల్, మెటా, ఓపెన్‌ఏఐ సహా ఐదు ఏఐ కంపెనీలు కొత్త మోడళ్లను అభివృద్ధి చేయకుండా, విడుదల చేయకుండా ఆపాలని కోరింది. కాలిఫోర్నియా అన్యాయ పోటీ చట్టం ఉల్లంఘన జరిగిందని ఆరోపించింది. కంపెనీలు వెంటనే స్పందించలేదని ఏపీ తెలిపింది.",
+   "src": "AP (via Telangana Today)",
+   "url": "https://telanganatoday.com/ai-safety-groups-sue-five-tech-giants-seek-halt-to-development-of-new-models",
+   "sec": [
+    "world",
+    "ai"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "శాన్ ఫ్రాన్సిస్కో సుపీరియర్ కోర్టులో దావా దాఖలు",
+    "దావా వేసినవాటిలో పబ్లిక్ సిటిజన్, హీట్ ఇనిషియేటివ్ సంస్థలు",
+    "ప్రజారోగ్యానికి ముప్పు అని పిటిషనర్ల ఆరోపణ"
+   ],
+   "why": "ఈ కంపెనీల ఏఐ సేవలను భారత్‌లోనూ కోట్లాది మంది ఫోన్, ఇంటర్నెట్ వినియోగదారులు వాడుతున్నారు.",
+   "d": "12.11.2026",
+   "t": "22:35",
+   "pub": "2026-11-12T22:10+05:30",
+   "en": {
+    "h": "Safety groups sue five tech firms to halt new AI models",
+    "p": "A coalition of nonprofit online safety and consumer advocacy groups has filed a lawsuit in San Francisco Superior Court. It asks a judge to stop five AI companies, including Anthropic, Google, Meta and OpenAI, from developing or deploying new models. It alleges a violation of California's unfair competition law. AP said the companies did not immediately respond.",
+    "pts": [
+     "Lawsuit filed in San Francisco Superior Court",
+     "Plaintiffs include Public Citizen and Heat Initiative",
+     "Petitioners allege a threat to public health"
+    ],
+    "why": "Crores of phone and internet users in India also use these companies' AI services.",
+    "cat": "World · Technology",
+    "statl": "companies sued"
+   },
+   "hi": {
+    "h": "नए एआई मॉडल रोकने के लिए पांच टेक कंपनियों पर मुकदमा",
+    "p": "ऑनलाइन सुरक्षा और उपभोक्ता हितों के लिए काम करने वाले गैर-लाभकारी संगठनों के गठबंधन ने सैन फ्रांसिस्को सुपीरियर कोर्ट में मुकदमा दायर किया है। इसमें एंथ्रोपिक, गूगल, मेटा और ओपनएआई सहित पांच एआई कंपनियों को नए मॉडल विकसित करने या जारी करने से रोकने की मांग की गई है। कैलिफोर्निया के अनुचित प्रतिस्पर्धा कानून के उल्लंघन का आरोप है। एपी के अनुसार कंपनियों ने तुरंत जवाब नहीं दिया।",
+    "pts": [
+     "सैन फ्रांसिस्को सुपीरियर कोर्ट में मुकदमा दायर",
+     "याचिकाकर्ताओं में पब्लिक सिटिजन और हीट इनिशिएटिव",
+     "याचिकाकर्ताओं का आरोप: जन स्वास्थ्य को खतरा"
+    ],
+    "why": "भारत में भी करोड़ों फोन और इंटरनेट उपयोगकर्ता इन कंपनियों की एआई सेवाएं इस्तेमाल करते हैं।",
+    "cat": "दुनिया · टेक्नोलॉजी",
+    "statl": "कंपनियों पर मुकदमा"
+   }
+  },
+  {
+   "cat": "హైదరాబాద్ · సంస్కృతి",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "నవం 14–30",
+   "statl": "ఎన్టీఆర్ స్టేడియంలో",
+   "h": "ఎన్టీఆర్ స్టేడియంలో నవంబర్ 14 నుంచి కోటి దీపోత్సవం",
+   "p": "కార్తీక మాసం సందర్భంగా భక్తి టీవీ ఆధ్వర్యంలో హైదరాబాద్ ఎన్టీఆర్ స్టేడియంలో నవంబర్ 14 నుంచి 30 వరకు కోటి దీపోత్సవం జరగనుంది. రోజూ సాయంత్రం 5.30 నుంచి కార్యక్రమాలు ఉంటాయి. చాగంటి కోటేశ్వరరావు, గరికపాటి నరసింహారావు సహా ప్రముఖుల ప్రవచనాలు, అభిషేకాలు, కల్యాణోత్సవాలు నిర్వహిస్తారు. ప్రతి సాయంత్రం వేలాది భక్తులు వస్తారని అంచనా.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/koti-deepotsavam-to-be-held-at-hyderabads-ntr-stadium-from-november-14",
+   "sec": [
+    "telangana",
+    "culture"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "నవంబర్ 14–30, రోజూ సాయంత్రం 5.30 నుంచి",
+    "చాగంటి, గరికపాటి ప్రవచనాలు",
+    "కొల్హాపూర్ మహాలక్ష్మి, కంచి కామాక్షి, మధుర మీనాక్షి దర్శనం"
+   ],
+   "why": "కార్తీక మాసంలో దీపోత్సవానికి వెళ్లాలనుకునే హైదరాబాద్ భక్తులకు ఉపయోగపడే సమాచారం.",
+   "d": "12.11.2026",
+   "t": "22:35",
+   "pub": "2026-11-12T21:50+05:30",
+   "en": {
+    "h": "Koti Deepotsavam at Hyderabad's NTR Stadium from November 14",
+    "p": "Koti Deepotsavam will be held at NTR Stadium, Hyderabad, from November 14 to 30 during Karthika Masam, organised by Bhakti TV. Programmes will run daily from 5.30 pm. They include discourses by Chaganti Koteswara Rao, Garikapati Narasimha Rao and others, along with abhishekams and kalyanotsavams. Thousands of devotees are expected each evening.",
+    "pts": [
+     "November 14–30, daily from 5.30 pm",
+     "Discourses by Chaganti and Garikapati",
+     "Darshan of Kolhapur Mahalakshmi, Kanchi Kamakshi, Madurai Meenakshi"
+    ],
+    "why": "Useful information for Hyderabad devotees planning to attend the Karthika Masam lamp festival.",
+    "cat": "Hyderabad · Culture",
+    "statl": "at NTR Stadium"
+   },
+   "hi": {
+    "h": "हैदराबाद के एनटीआर स्टेडियम में 14 नवंबर से कोटि दीपोत्सवम",
+    "p": "कार्तिक मास के अवसर पर भक्ति टीवी की ओर से हैदराबाद के एनटीआर स्टेडियम में 14 से 30 नवंबर तक कोटि दीपोत्सवम आयोजित होगा। रोज शाम 5.30 बजे से कार्यक्रम होंगे। इनमें चागंटी कोटेश्वर राव, गरिकपाटि नरसिंह राव सहित विद्वानों के प्रवचन, अभिषेक और कल्याणोत्सव शामिल हैं। हर शाम हजारों श्रद्धालुओं के आने की उम्मीद है।",
+    "pts": [
+     "14–30 नवंबर, रोज शाम 5.30 बजे से",
+     "चागंटी और गरिकपाटि के प्रवचन",
+     "कोल्हापुर महालक्ष्मी, कांची कामाक्षी, मदुरै मीनाक्षी के दर्शन"
+    ],
+    "why": "कार्तिक मास दीपोत्सव में जाने वाले हैदराबाद के श्रद्धालुओं के लिए उपयोगी जानकारी।",
+    "cat": "हैदराबाद · संस्कृति",
+    "statl": "एनटीआर स्टेडियम में"
+   }
+  },
   {
    "cat": "తెలంగాణ · విద్యుత్",
    "col": "--c-power",
@@ -2309,104 +2409,6 @@
    },
    "d": "12.11.2026",
    "t": "15:35"
-  },
-  {
-   "cat": "తెలంగాణ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "70 దేశాలు",
-   "statl": "సమ్మిట్‌కు ప్రతినిధులు వస్తారన్న కాంగ్రెస్",
-   "h": "కాంగ్రెస్ భారత్ సమ్మిట్ 'భారత వ్యతిరేకం': బీజేపీ చీఫ్ రామచందర్ రావు ఆరోపణ",
-   "p": "హైదరాబాద్‌లో నవంబర్ 13, 14 తేదీల్లో కాంగ్రెస్ నిర్వహించే భారత్ సమ్మిట్ నిజానికి 'భారత వ్యతిరేక సమ్మిట్' అని తెలంగాణ బీజేపీ అధ్యక్షుడు ఎన్. రామచందర్ రావు బుధవారం విలేకరులతో అన్నారు. ప్రపంచంలోని తీవ్ర వామపక్ష, భారత వ్యతిరేక బృందాలను ఇది ఒకచోట చేరుస్తోందని ఆయన ఆరోపించారు. 70 దేశాల ప్రతినిధులు వస్తారని కాంగ్రెస్ చెబుతోంది. పీటీఐ కథనంలో కాంగ్రెస్ స్పందన లేదు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/telangana-bjp-chief-calls-congress-bharat-summit-anti-india-3574883/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "నవంబర్ 13, 14 తేదీల్లో హైదరాబాద్‌లో భారత్ సమ్మిట్",
-    "తీవ్ర వామపక్ష బృందాలను పిలుస్తున్నారని రామచందర్ రావు ఆరోపణ",
-    "సుమారు 1,000 మంది ప్రతినిధులు వస్తారన్న సల్మాన్ ఖుర్షీద్"
-   ],
-   "why": "హైదరాబాద్‌లో రేపటి నుంచి జరిగే కాంగ్రెస్ సమ్మిట్‌పై బీజేపీ అభ్యంతరాన్ని ఇది తెలియజేస్తోంది.",
-   "pub": "2026-11-12T08:11+05:30",
-   "en": {
-    "h": "Congress's Bharat Summit is 'anti-India', alleges BJP chief Ramchander Rao",
-    "p": "Telangana BJP president N Ramchander Rao told reporters on Wednesday that the Bharat Summit the Congress is hosting in Hyderabad on November 13 and 14 is in fact an 'Anti-Bharat Summit'. He alleged it brings together radical Left and anti-India groups from around the world. The Congress says delegates from 70 countries will attend. The PTI report carries no Congress response.",
-    "pts": [
-     "Bharat Summit in Hyderabad on November 13–14",
-     "Ramchander Rao alleges radical Left groups invited",
-     "Salman Khurshid says about 1,000 delegates will attend"
-    ],
-    "why": "It reflects the BJP's objection to the Congress summit starting in Hyderabad tomorrow.",
-    "cat": "Telangana · Politics",
-    "statl": "Countries sending delegates, says Congress"
-   },
-   "hi": {
-    "h": "कांग्रेस का भारत समिट 'भारत विरोधी': भाजपा प्रमुख रामचंदर राव का आरोप",
-    "p": "तेलंगाना भाजपा अध्यक्ष एन. रामचंदर राव ने बुधवार को पत्रकारों से कहा कि कांग्रेस 13 और 14 नवंबर को हैदराबाद में जो भारत समिट कर रही है, वह असल में 'भारत विरोधी समिट' है। उन्होंने आरोप लगाया कि इसमें दुनिया भर के कट्टर वामपंथी और भारत विरोधी समूह जुट रहे हैं। कांग्रेस के अनुसार 70 देशों के प्रतिनिधि आएंगे। पीटीआई की खबर में कांग्रेस की प्रतिक्रिया नहीं है।",
-    "pts": [
-     "13–14 नवंबर को हैदराबाद में भारत समिट",
-     "रामचंदर राव का कट्टर वामपंथी समूहों को बुलाने का आरोप",
-     "सलमान खुर्शीद के अनुसार करीब 1,000 प्रतिनिधि आएंगे"
-    ],
-    "why": "यह हैदराबाद में कल से होने वाले कांग्रेस समिट पर भाजपा की आपत्ति दिखाता है।",
-    "cat": "तेलंगाना · राजनीति",
-    "statl": "देशों से प्रतिनिधि, कांग्रेस के अनुसार"
-   },
-   "d": "12.11.2026",
-   "t": "15:05"
-  },
-  {
-   "cat": "ప్రపంచం · అమెరికా",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "25 ఏళ్లు",
-   "statl": "ఇరాన్ పునర్నిర్మాణానికి పడుతుందన్న ట్రంప్",
-   "h": "ఇరాన్‌పై 'పూర్తి విజయం' కావాలి: ట్రంప్; యుద్ధం ముగింపు తేదీ చెప్పలేదు",
-   "p": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ బుధవారం ఆర్లింగ్టన్ జాతీయ శ్మశానవాటికలో వెటరన్స్ డే ప్రసంగంలో ఇరాన్‌తో ఘర్షణ త్వరలో ముగుస్తుందని, అయితే అమెరికాకు 'పూర్తి విజయం' కావాలని అన్నారు. ముగింపు తేదీ, ఒప్పందం, బలగాల ఉపసంహరణ ప్రణాళిక ఏదీ ప్రకటించలేదు. తాము ధ్వంసం చేసినదాన్ని ఇరాన్ మళ్లీ నిర్మించుకోవడానికి 25 ఏళ్లు పడుతుందన్నారు; దానికి ఆధారం చూపలేదని ఐఏఎన్ఎస్ పేర్కొంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/donald-trump-seeks-total-victory-over-iran-3574884/",
-   "sec": [
-    "world"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "ఇరాన్‌పై పూర్తి విజయం కావాలన్న ట్రంప్",
-    "యుద్ధం ముగింపు తేదీ ప్రకటించలేదు",
-    "ఒప్పందం, ఉపసంహరణ ప్రణాళిక ప్రకటన లేదు"
-   ],
-   "why": "అమెరికా–ఇరాన్ ఘర్షణ ఎప్పుడు ముగుస్తుందో ఇంకా స్పష్టత లేదని ఈ ప్రసంగం చూపిస్తోంది.",
-   "pub": "2026-11-12T08:06+05:30",
-   "en": {
-    "h": "Trump wants 'total victory' over Iran, gives no end date for conflict",
-    "p": "US President Donald Trump said in a Veterans Day address at Arlington National Cemetery on Wednesday that the conflict with Iran would end soon, but the US wanted 'total victory'. He announced no end date, settlement or troop withdrawal plan. He said Iran would take 25 years to rebuild what the US had destroyed; IANS noted he offered no supporting assessment.",
-    "pts": [
-     "Trump says US wants total victory over Iran",
-     "No end date announced for the conflict",
-     "No settlement or withdrawal plan announced"
-    ],
-    "why": "The speech shows there is still no clarity on when the US–Iran conflict will end.",
-    "cat": "World · USA",
-    "statl": "Years for Iran to rebuild, says Trump"
-   },
-   "hi": {
-    "h": "ईरान पर 'पूर्ण जीत' चाहिए: ट्रंप; संघर्ष खत्म होने की तारीख नहीं बताई",
-    "p": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बुधवार को आर्लिंगटन राष्ट्रीय कब्रिस्तान में वेटरन्स डे भाषण में कहा कि ईरान के साथ संघर्ष जल्द खत्म होगा, लेकिन अमेरिका 'पूर्ण जीत' चाहता है। उन्होंने कोई अंतिम तारीख, समझौता या सेना वापसी योजना घोषित नहीं की। उन्होंने कहा कि ईरान को फिर से निर्माण करने में 25 साल लगेंगे; आईएएनएस के अनुसार उन्होंने इसका कोई आधार नहीं बताया।",
-    "pts": [
-     "ट्रंप ने कहा अमेरिका ईरान पर पूर्ण जीत चाहता है",
-     "संघर्ष खत्म होने की तारीख घोषित नहीं",
-     "समझौते या वापसी की कोई योजना घोषित नहीं"
-    ],
-    "why": "भाषण दिखाता है कि अमेरिका–ईरान संघर्ष कब खत्म होगा, इस पर अब भी स्पष्टता नहीं है।",
-    "cat": "विश्व · अमेरिका",
-    "statl": "ईरान को पुनर्निर्माण में लगने वाले साल, ट्रंप के अनुसार"
-   },
-   "d": "12.11.2026",
-   "t": "15:05"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
