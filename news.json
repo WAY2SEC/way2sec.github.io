@@ -1,8 +1,109 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T22:43:53+05:30",
+ "updated": "2026-11-12T23:08:11+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఆక్రమణలు",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "60+",
+   "statl": "గుడిసెల తొలగింపు",
+   "h": "టోలిచౌకిలో నాలాపై 60కి పైగా గుడిసెలు కూల్చిన జీహెచ్ఎంసీ",
+   "p": "హైదరాబాద్ టోలిచౌకి ఐఏఎస్ కాలనీ సమీపంలోని హకీంపేటలో వరదనీటి కాలువను ఆక్రమించాయని చెబుతున్న 60కి పైగా తాత్కాలిక గుడిసెలను జీహెచ్ఎంసీ గురువారం భారీ పోలీసు బందోబస్తు మధ్య తొలగించింది. గుడిసెలు కాలువలోకి 10–15 అడుగులు విస్తరించాయని అధికారులు తెలిపారు. ముందస్తు నోటీసు లేకుండా కూల్చారని, 50 ఏళ్లకు పైగా ఇక్కడే ఉంటున్నామని స్థానికులు ఆరోపిస్తూ నిరసన తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/ghmc-demolishes-over-60-shelters-encroaching-on-stormwater-drain-in-tolichowki",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "టోలిచౌకి",
+   "pts": [
+    "కాలువలోకి 10–15 అడుగులు ఆక్రమణ: అధికారులు",
+    "రోడ్డు విస్తరణ ప్రతిపాదనలో భాగమన్న డిప్యూటీ కమిషనర్",
+    "నోటీసు ఇవ్వలేదని స్థానికుల ఆరోపణ"
+   ],
+   "why": "టోలిచౌకి ప్రాంతంలో ఇళ్లు కోల్పోయిన రోజువారీ కూలీ కుటుంబాలు, స్థానిక ట్రాఫిక్‌పై ప్రభావం.",
+   "pub": "2026-11-12T22:29+05:30",
+   "en": {
+    "h": "GHMC demolishes over 60 shelters on stormwater drain in Tolichowki",
+    "p": "GHMC on Thursday removed more than 60 temporary shelters said to be encroaching on a stormwater drain at Hakeempet near IAS Colony, Tolichowki, Hyderabad, amid heavy police deployment. Officials said the huts extended 10–15 feet into the drain. Residents protested, alleging the demolition was done without prior notice and saying they had lived there for over 50 years.",
+    "pts": [
+     "Huts extended 10–15 ft into drain: officials",
+     "Deputy Commissioner links it to road-widening proposal",
+     "Residents allege no prior notice"
+    ],
+    "why": "Affects daily-wage families who lost homes in Tolichowki and local traffic.",
+    "cat": "Hyderabad · Encroachment",
+    "statl": "shelters removed"
+   },
+   "hi": {
+    "h": "टोलीचौकी में नाले पर बनी 60 से ज्यादा झोपड़ियां GHMC ने गिराईं",
+    "p": "हैदराबाद के टोलीचौकी में आईएएस कॉलोनी के पास हकीमपेट में बरसाती नाले पर कथित अतिक्रमण करने वाली 60 से अधिक अस्थायी झोपड़ियों को GHMC ने गुरुवार को भारी पुलिस बल की मौजूदगी में हटाया। अधिकारियों के अनुसार झोपड़ियां नाले में 10–15 फीट तक फैली थीं। निवासियों ने बिना पूर्व सूचना कार्रवाई का आरोप लगाकर विरोध किया और कहा कि वे 50 साल से अधिक समय से वहां रह रहे थे।",
+    "pts": [
+     "नाले में 10–15 फीट अतिक्रमण: अधिकारी",
+     "डिप्टी कमिश्नर ने सड़क चौड़ीकरण प्रस्ताव से जोड़ा",
+     "निवासियों का आरोप: पूर्व सूचना नहीं दी"
+    ],
+    "why": "टोलीचौकी में घर खोने वाले दिहाड़ी मजदूर परिवारों और स्थानीय यातायात पर असर।",
+    "cat": "हैदराबाद · अतिक्रमण",
+    "statl": "झोपड़ियां हटाई गईं"
+   },
+   "d": "12.11.2026",
+   "t": "23:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · పర్యావరణం",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "10 కి.మీ",
+   "statl": "స్వెట్ రన్",
+   "h": "నీరు, విద్యుత్ ఆదాపై మల్కాజిగిరి కార్పొరేషన్ 10 కి.మీ 'స్వెట్ రన్'",
+   "p": "నీటి సంరక్షణ, విద్యుత్ ఆదా, పర్యావరణ పరిరక్షణపై అవగాహన కోసం మల్కాజిగిరి మున్సిపల్ కార్పొరేషన్, ఎల్బీ నగర్ రన్నర్స్ గురువారం 10 కి.మీ 'స్వెట్ రన్' నిర్వహించారు. 60 మందికి పైగా రన్నర్లు, సైక్లిస్టులు నాగోల్, ఉప్పల్, హబ్సిగూడ మీదుగా తార్నాకలోని కార్పొరేషన్ కార్యాలయానికి చేరుకున్నారు. ఎల్‌నినో ప్రభావంతో నీటి కొరత నేపథ్యంలో ప్రజల భాగస్వామ్యం అవసరమని కమిషనర్ టి.వినయ్ కృష్ణారెడ్డి అన్నారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-malkajgiri-civic-body-organises-10-km-sweat-run-to-promote-water-and-energy-conservation",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "medchal",
+   "loc": "మల్కాజిగిరి",
+   "pts": [
+    "60 మందికి పైగా రన్నర్లు, సైక్లిస్టులు",
+    "నాగోల్–ఉప్పల్–హబ్సిగూడ–తార్నాక మార్గం",
+    "బ్యానర్లు, నినాదాలతో అవగాహన"
+   ],
+   "why": "నీటి కొరత, విద్యుత్ వినియోగంపై తూర్పు హైదరాబాద్ ప్రజల్లో అవగాహన పెంచే ప్రయత్నం.",
+   "pub": "2026-11-12T22:50+05:30",
+   "en": {
+    "h": "Malkajgiri civic body holds 10-km 'Sweat Run' for water, power saving",
+    "p": "Malkajgiri Municipal Corporation and LB Nagar Runners held a 10-km 'Sweat Run' on Thursday to promote water conservation, power saving and environmental protection. Over 60 runners and cyclists went via Nagole, Uppal and Habsiguda to the corporation office in Tarnaka. Commissioner T Vinay Krishna Reddy said public participation is needed amid water scarcity linked to El Niño.",
+    "pts": [
+     "Over 60 runners and cyclists",
+     "Route: Nagole–Uppal–Habsiguda–Tarnaka",
+     "Awareness through banners and slogans"
+    ],
+    "why": "An effort to raise awareness on water scarcity and power use among East Hyderabad residents.",
+    "cat": "Hyderabad · Environment",
+    "statl": "Sweat Run"
+   },
+   "hi": {
+    "h": "पानी, बिजली बचत के लिए मल्काजगिरी निगम की 10 किमी 'स्वेट रन'",
+    "p": "जल संरक्षण, बिजली बचत और पर्यावरण संरक्षण पर जागरूकता के लिए मल्काजगिरी नगर निगम और एलबी नगर रनर्स ने गुरुवार को 10 किमी 'स्वेट रन' आयोजित की। 60 से अधिक धावक और साइकिल चालक नागोल, उप्पल और हब्सीगुडा होते हुए तारनाका स्थित निगम कार्यालय पहुंचे। आयुक्त टी. विनय कृष्ण रेड्डी ने कहा कि एल नीनो से जुड़ी पानी की कमी के बीच जनभागीदारी जरूरी है।",
+    "pts": [
+     "60 से अधिक धावक और साइकिल चालक",
+     "मार्ग: नागोल–उप्पल–हब्सीगुडा–तारनाका",
+     "बैनर और नारों से जागरूकता"
+    ],
+    "why": "पूर्वी हैदराबाद के लोगों में पानी की कमी और बिजली खपत पर जागरूकता का प्रयास।",
+    "cat": "हैदराबाद · पर्यावरण",
+    "statl": "स्वेट रन"
+   },
+   "d": "12.11.2026",
+   "t": "23:05"
+  },
   {
    "cat": "ప్రపంచం · టెక్నాలజీ",
    "col": "--c-money",
