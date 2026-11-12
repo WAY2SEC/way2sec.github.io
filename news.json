@@ -1,8 +1,207 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T14:10:00+05:30",
+ "updated": "2026-11-12T14:44:21+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "నారాయణపేట · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "24%",
+   "statl": "రాష్ట్రంలో వర్షపాత లోటు (జూన్–అక్టోబర్)",
+   "h": "మక్తల్‌లో తాగునీటి కొరతపై మహిళల రాస్తారోకో",
+   "p": "నారాయణపేట జిల్లా మక్తల్ మున్సిపాలిటీ నందిని నగర్ కాలనీలో తాగునీటి కొరతపై గురువారం పలువురు మహిళలు రోడ్డును దిగ్బంధించారు. నీటి కోసం దూరం వెళ్లాల్సి వస్తోందని, కౌన్సిలర్ అభ్యర్థులు ఇచ్చిన హామీలు నెరవేరలేదని వారు ఆరోపించారు. జూన్–అక్టోబర్‌లో తెలంగాణలో సాధారణం (831 మి.మీ.) కంటే 24% తక్కువగా 628 మి.మీ. వర్షం పడిందని సియాసత్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/narayanpet-women-protest-drinking-water-shortage-blame-govt-3575097/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "narayanpet",
+   "loc": "మక్తల్",
+   "pts": [
+    "నందిని నగర్ కాలనీలో మహిళల రోడ్డు దిగ్బంధం",
+    "నీటి కోసం దూరం వెళ్లాల్సి వస్తోందని ఆవేదన",
+    "554 మండలాల్లో భూగర్భ జలాలు తగ్గుదల"
+   ],
+   "why": "వర్షాభావంతో నారాయణపేట జిల్లాలో తాగునీటి సమస్య తీవ్రమవుతోందని ఇది చూపిస్తోంది.",
+   "pub": "2026-11-12T14:14+05:30",
+   "en": {
+    "h": "Women block road in Makthal over drinking water shortage",
+    "p": "Several women blocked a road in Nandini Nagar Colony of Makthal municipality in Narayanpet district on Thursday over a drinking water shortage. They said they have to travel long distances for water and alleged that promises made by councillor candidates were not kept. Siasat reported that Telangana received 628 mm of rain in June–October, 24% below the normal 831 mm.",
+    "pts": [
+     "Women block road in Nandini Nagar Colony",
+     "Say they travel long distances for water",
+     "Groundwater declined in 554 mandals"
+    ],
+    "why": "It shows the drinking water problem is worsening in Narayanpet district due to poor rainfall.",
+    "cat": "Narayanpet · Water",
+    "statl": "State rainfall deficit (June–October)"
+   },
+   "hi": {
+    "h": "मक्तल में पेयजल संकट पर महिलाओं ने सड़क जाम की",
+    "p": "नारायणपेट जिले की मक्तल नगरपालिका की नंदिनी नगर कॉलोनी में गुरुवार को कई महिलाओं ने पेयजल की कमी को लेकर सड़क जाम कर दी। उन्होंने कहा कि पानी के लिए दूर जाना पड़ता है और आरोप लगाया कि पार्षद उम्मीदवारों के वादे पूरे नहीं हुए। सियासत के अनुसार जून–अक्टूबर में तेलंगाना में सामान्य 831 मिमी के मुकाबले 24% कम, 628 मिमी बारिश हुई।",
+    "pts": [
+     "नंदिनी नगर कॉलोनी में महिलाओं ने सड़क जाम की",
+     "पानी के लिए दूर जाने की शिकायत",
+     "554 मंडलों में भूजल स्तर में गिरावट"
+    ],
+    "why": "यह दिखाता है कि कम बारिश से नारायणपेट जिले में पेयजल संकट गहरा रहा है।",
+    "cat": "नारायणपेट · पानी",
+    "statl": "राज्य में बारिश की कमी (जून–अक्टूबर)"
+   },
+   "d": "12.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "తెలంగాణ · హైకోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "2015",
+   "statl": "ఫ్యామిలీ కోర్టు పిటిషన్ కొట్టివేసిన ఏడాది",
+   "h": "ఆధారాలు లేకుంటే విడాకులు లేవు: భర్త అప్పీల్ కొట్టివేసిన హైకోర్టు",
+   "p": "క్రూరత్వం కారణంగా విడాకులు కోరుతూ ఒక భర్త వేసిన అప్పీల్‌ను తెలంగాణ హైకోర్టు ధర్మాసనం కొట్టివేసింది. భార్యపై చేసిన వివాహేతర సంబంధం ఆరోపణ రుజువు కాలేదని పేర్కొంది. డబ్బు పంపినట్లు బ్యాంకు పాస్‌బుక్ ఒక్కటే సరిపోదని, సాక్షులను విచారించలేదని తెలిపింది. 2015లోనే ఫ్యామిలీ కోర్టు ఈ పిటిషన్‌ను తోసిపుచ్చింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/no-proof-no-divorce-telangana-hc-rejects-husbands-plea-3575113/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "జస్టిస్ కె. లక్ష్మణ్, జస్టిస్ కె. సుజన ధర్మాసనం తీర్పు",
+    "వివాహేతర సంబంధం ఆరోపణ రుజువు కాలేదని స్పష్టం",
+    "పాస్‌బుక్ ఒక్కటే ఆధారంగా సరిపోదని వ్యాఖ్య"
+   ],
+   "why": "విడాకుల కేసుల్లో ఆరోపణలకు స్పష్టమైన ఆధారాలు అవసరమని ఈ తీర్పు గుర్తుచేస్తోంది.",
+   "pub": "2026-11-12T14:07+05:30",
+   "en": {
+    "h": "No proof, no divorce: Telangana HC dismisses husband's appeal",
+    "p": "A Telangana High Court division bench dismissed a husband's appeal seeking divorce on grounds of cruelty. It said his allegation of an illicit relationship against his wife was not proven. The court said a bank passbook alone was not enough to prove money was sent and that witnesses were not examined. A family court had rejected the petition in 2015.",
+    "pts": [
+     "Verdict by Justices K Lakshman and K Sujana",
+     "Illicit relationship allegation not proven, court says",
+     "Passbook alone not sufficient evidence"
+    ],
+    "why": "The verdict is a reminder that allegations in divorce cases need clear proof.",
+    "cat": "Telangana · High Court",
+    "statl": "Year family court dismissed petition"
+   },
+   "hi": {
+    "h": "सबूत नहीं तो तलाक नहीं: तेलंगाना हाईकोर्ट ने पति की अपील खारिज की",
+    "p": "तेलंगाना हाईकोर्ट की खंडपीठ ने क्रूरता के आधार पर तलाक मांगने वाले एक पति की अपील खारिज कर दी। अदालत ने कहा कि पत्नी पर लगाया गया अवैध संबंध का आरोप साबित नहीं हुआ। अदालत ने कहा कि पैसे भेजने के सबूत के रूप में केवल बैंक पासबुक काफी नहीं है और गवाहों से पूछताछ नहीं हुई। फैमिली कोर्ट ने 2015 में यह याचिका खारिज की थी।",
+    "pts": [
+     "जस्टिस के. लक्ष्मण और जस्टिस के. सुजना की पीठ का फैसला",
+     "अवैध संबंध का आरोप साबित नहीं: अदालत",
+     "केवल पासबुक पर्याप्त सबूत नहीं"
+    ],
+    "why": "यह फैसला याद दिलाता है कि तलाक के मामलों में आरोपों के लिए ठोस सबूत जरूरी हैं।",
+    "cat": "तेलंगाना · हाईकोर्ट",
+    "statl": "फैमिली कोर्ट ने याचिका खारिज की"
+   },
+   "d": "12.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "భారత్ · పట్టణాభివృద్ధి",
+   "col": "--c-city",
+   "art": "deadline",
+   "stat": "డిసెం. 2027",
+   "statl": "డంప్‌సైట్ల శుద్ధికి కొత్త తుది గడువు",
+   "h": "పాత చెత్త డంప్‌సైట్ల తొలగింపు గడువు డిసెంబర్ 2027కి పొడిగింపు",
+   "p": "స్వచ్ఛ భారత్ మిషన్–అర్బన్ 2.0 కింద పాత డంప్‌సైట్ల శుద్ధికి ఉన్న 2026 అక్టోబర్ 1 గడువును పొడిగించారని ఇండియన్ ఎక్స్‌ప్రెస్ కథనాన్ని ఉటంకిస్తూ సియాసత్ తెలిపింది. తుది గడువు ఇప్పుడు డిసెంబర్ 2027. నవంబర్ 11 నాటికి 2,607 డంప్‌సైట్లలో 1,402 శుద్ధి కాగా, 148 చోట్ల పనుల్లో ఎలాంటి పురోగతి లేదు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/deadline-to-clear-dumpsites-pushed-to-december-2027-report-3575076/",
+   "sec": [
+    "india"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "మిషన్ గడువు మార్చి 2027 వరకు పొడిగింపు",
+    "1,057 డంప్‌సైట్లలో పనులు కొనసాగుతున్నాయి",
+    "చెన్నై, ముంబై అత్యంత క్లిష్టమని మంత్రి మనోహర్ లాల్"
+   ],
+   "why": "నగరాల్లో చెత్త గుట్టల సమీపంలో నివసించే ప్రజలపై ఈ పనుల వేగం ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T13:59+05:30",
+   "en": {
+    "h": "Deadline to clear legacy dumpsites extended to December 2027",
+    "p": "The 1 October 2026 deadline to remediate legacy dumpsites under Swachh Bharat Mission-Urban 2.0 has been extended, Siasat reported citing The Indian Express. The final deadline is now December 2027. As of 11 November, 1,402 of 2,607 dumpsites had been remediated, while 148 showed no progress.",
+    "pts": [
+     "Mission extended to March 2027",
+     "Work under way at 1,057 dumpsites",
+     "Minister Manohar Lal says Chennai, Mumbai most challenging"
+    ],
+    "why": "The pace of this work affects people living near garbage mounds in cities.",
+    "cat": "India · Urban Development",
+    "statl": "New final deadline for dumpsite clean-up"
+   },
+   "hi": {
+    "h": "पुराने कचरा डंपसाइट हटाने की समय-सीमा दिसंबर 2027 तक बढ़ी",
+    "p": "सियासत ने इंडियन एक्सप्रेस के हवाले से बताया कि स्वच्छ भारत मिशन-शहरी 2.0 के तहत पुराने डंपसाइट के निपटान की 1 अक्टूबर 2026 की समय-सीमा बढ़ा दी गई है। अंतिम समय-सीमा अब दिसंबर 2027 है। 11 नवंबर तक 2,607 में से 1,402 डंपसाइट साफ हुईं, जबकि 148 पर कोई प्रगति नहीं हुई।",
+    "pts": [
+     "मिशन मार्च 2027 तक बढ़ाया गया",
+     "1,057 डंपसाइट पर काम जारी",
+     "मंत्री मनोहर लाल: चेन्नई, मुंबई सबसे कठिन"
+    ],
+    "why": "इस काम की रफ्तार शहरों में कचरे के ढेरों के पास रहने वाले लोगों को प्रभावित करती है।",
+    "cat": "भारत · शहरी विकास",
+    "statl": "डंपसाइट सफाई की नई अंतिम समय-सीमा"
+   },
+   "d": "12.11.2026",
+   "t": "14:35"
+  },
+  {
+   "cat": "వాతావరణం · హైదరాబాద్",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "16°C",
+   "statl": "హైదరాబాద్‌లో కనిష్ఠ ఉష్ణోగ్రత అంచనా",
+   "h": "హైదరాబాద్‌లో పొగమంచు, 16–32 డిగ్రీలు; అమరావతిలో 33 డిగ్రీల వరకు",
+   "p": "భారత వాతావరణ శాఖ అంచనాల ప్రకారం గురువారం హైదరాబాద్‌లో పొగమంచు (హేజ్) ఉంటుంది, ఉష్ణోగ్రత 16 నుంచి 32 డిగ్రీల మధ్య ఉంటుంది. అమరావతిలోనూ హేజ్, 21–33 డిగ్రీలు. చెన్నైలో తేలికపాటి వర్షం, తిరువనంతపురంలో ఉరుములతో వర్షం అవకాశం ఉందని ద సౌత్ ఫస్ట్ తెలిపింది. హైదరాబాద్, అమరావతి, చెన్నై, బెంగళూరుకు హెచ్చరికలు జారీ కాలేదు.",
+   "src": "The South First",
+   "url": "https://thesouthfirst.com/news/weather-update-forecast-for-southern-cities-on-12-november/",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "హైదరాబాద్: హేజ్, 16–32 డిగ్రీలు",
+    "అమరావతి: హేజ్, 21–33 డిగ్రీలు",
+    "చెన్నైలో తేలికపాటి వర్షం; బెంగళూరు మేఘావృతం"
+   ],
+   "why": "రెండు తెలుగు రాష్ట్రాల రాజధానుల్లో రోజువారీ ప్రయాణాలు, పనులకు ఈ అంచనా ఉపయోగపడుతుంది.",
+   "pub": "2026-11-12T06:45+05:30",
+   "en": {
+    "h": "Haze in Hyderabad, 16–32°C; Amaravati up to 33°C",
+    "p": "According to IMD forecasts, Hyderabad will see haze on Thursday with temperatures between 16 and 32 degrees Celsius. Amaravati will also be hazy at 21–33 degrees. The South First reported light rain in Chennai and a chance of thunderstorms in Thiruvananthapuram. No warnings were issued for Hyderabad, Amaravati, Chennai and Bengaluru.",
+    "pts": [
+     "Hyderabad: haze, 16–32°C",
+     "Amaravati: haze, 21–33°C",
+     "Light rain in Chennai; Bengaluru cloudy"
+    ],
+    "why": "The forecast helps daily travel and work in the capitals of both Telugu states.",
+    "cat": "Weather · Hyderabad",
+    "statl": "Forecast minimum in Hyderabad"
+   },
+   "hi": {
+    "h": "हैदराबाद में धुंध, 16–32 डिग्री; अमरावती में 33 डिग्री तक",
+    "p": "भारत मौसम विज्ञान विभाग के पूर्वानुमान के अनुसार गुरुवार को हैदराबाद में धुंध रहेगी और तापमान 16 से 32 डिग्री के बीच रहेगा। अमरावती में भी धुंध, 21–33 डिग्री। द साउथ फर्स्ट के अनुसार चेन्नई में हल्की बारिश और तिरुवनंतपुरम में गरज के साथ बारिश की संभावना है। हैदराबाद, अमरावती, चेन्नई और बेंगलुरु के लिए कोई चेतावनी जारी नहीं हुई।",
+    "pts": [
+     "हैदराबाद: धुंध, 16–32 डिग्री",
+     "अमरावती: धुंध, 21–33 डिग्री",
+     "चेन्नई में हल्की बारिश; बेंगलुरु में बादल"
+    ],
+    "why": "यह पूर्वानुमान दोनों तेलुगु राज्यों की राजधानियों में रोज़ाना यात्रा और काम में मददगार है।",
+    "cat": "मौसम · हैदराबाद",
+    "statl": "हैदराबाद में न्यूनतम तापमान का अनुमान"
+   },
+   "d": "12.11.2026",
+   "t": "14:35"
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-money",
@@ -2284,108 +2483,6 @@
     "why": "यह फ़ैसला अदालती आदेशों के पालन में अधिकारियों की ज़िम्मेदारी याद दिलाता है।",
     "cat": "मेडचल · अदालत",
     "statl": "कलेक्टर की पेशी की तारीख"
-   },
-   "d": "12.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "farm",
-   "stat": "₹1 లక్ష కోట్లు",
-   "statl": "రాయలసీమ హార్టికల్చర్ హబ్ పెట్టుబడి",
-   "h": "ఆహార శుద్ధి పరిశ్రమలకు యూఏఈ కంపెనీలను ఆహ్వానించిన సీఎం చంద్రబాబు",
-   "p": "సీఐఐ భాగస్వామ్య సదస్సుకు వచ్చిన యూఏఈ ఆర్థిక, పర్యాటక మంత్రి అబ్దుల్లా బిన్ తౌక్ అల్ మర్రీతో విశాఖపట్నంలో సమావేశమైన సీఎం చంద్రబాబు నాయుడు, ఆహార శుద్ధి రంగంలో పెట్టుబడులు పెట్టాలని కోరారు. రూ.1 లక్ష కోట్ల పెట్టుబడితో రాయలసీమను హార్టికల్చర్ హబ్‌గా అభివృద్ధి చేస్తున్నామని చెప్పారు. ప్రతిపాదిత యూఏఈ ఫుడ్ క్లస్టర్‌కు సిలాల్‌ను ఆహ్వానించారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/naidu-woos-uae-companies-for-food-processing-projects-in-andhra-pradesh",
-   "sec": [
-    "telangana",
-    "business",
-    "agri"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "రాయలసీమ హార్టికల్చర్ హబ్‌కు ₹1 లక్ష కోట్లు",
-    "యూఏఈ ఫుడ్ క్లస్టర్‌కు సిలాల్‌కు ఆహ్వానం",
-    "చిత్తూరులో ఫ్లోర్‌మాస్టర్ ప్రతిపాదిత ప్రాజెక్టుపై చర్చ"
-   ],
-   "why": "ఈ పెట్టుబడులు వస్తే రాయలసీమ ఉద్యాన రైతులకు, ఆహార శుద్ధి ఉద్యోగాలకు ప్రయోజనం ఉంటుంది.",
-   "pub": "2026-11-12T00:33+05:30",
-   "en": {
-    "h": "CM Naidu invites UAE companies to invest in AP food processing",
-    "p": "Meeting UAE Economy and Tourism Minister Abdullah bin Touq Al Marri, who came for the CII Partnership Summit, in Visakhapatnam, CM Chandrababu Naidu invited investment in food processing. He said Rayalaseema is being developed as a horticulture hub with Rs 1 lakh crore of investment. He invited Silal to a proposed UAE food cluster.",
-    "pts": [
-     "Rs 1 lakh crore for Rayalaseema horticulture hub",
-     "Silal invited to a proposed UAE food cluster",
-     "Floormaster's proposed Chittoor project discussed"
-    ],
-    "why": "If the investments come, Rayalaseema horticulture farmers and food-processing jobs would benefit.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "Rayalaseema horticulture hub investment"
-   },
-   "hi": {
-    "h": "सीएम नायडू ने यूएई कंपनियों को एपी फ़ूड प्रोसेसिंग में न्योता दिया",
-    "p": "सीआईआई पार्टनरशिप समिट में आए यूएई के अर्थव्यवस्था और पर्यटन मंत्री अब्दुल्ला बिन तौक अल मर्री से विशाखापत्तनम में मिलकर सीएम चंद्रबाबू नायडू ने फ़ूड प्रोसेसिंग में निवेश का न्योता दिया। उन्होंने कहा कि ₹1 लाख करोड़ के निवेश से रायलसीमा को बागवानी हब बनाया जा रहा है। उन्होंने सिलाल को प्रस्तावित यूएई फ़ूड क्लस्टर में आमंत्रित किया।",
-    "pts": [
-     "रायलसीमा बागवानी हब के लिए ₹1 लाख करोड़",
-     "प्रस्तावित यूएई फ़ूड क्लस्टर में सिलाल को न्योता",
-     "चित्तूर में फ्लोरमास्टर की प्रस्तावित परियोजना पर चर्चा"
-    ],
-    "why": "निवेश आने पर रायलसीमा के बागवानी किसानों और फ़ूड प्रोसेसिंग रोज़गार को लाभ होगा।",
-    "cat": "एपी · विशाखापत्तनम",
-    "statl": "रायलसीमा बागवानी हब निवेश"
-   },
-   "d": "12.11.2026",
-   "t": "07:35"
-  },
-  {
-   "cat": "సంపాదకీయం · కరవు",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "23%",
-   "statl": "తెలంగాణ వర్షపాతం లోటు (వ్యాసం ప్రకారం)",
-   "h": "తెలంగాణ కరవుకు ఎల్ నినో కాదు, ప్రభుత్వ నిర్ణయాలే కారణం: విశ్లేషణ వ్యాసం",
-   "p": "తెలంగాణ టుడేలో రిటైర్డ్ సూపరింటెండింగ్ ఇంజనీర్ శ్రీధర్ రావు దేశ్‌పాండే రాసిన అభిప్రాయ వ్యాసం ఇది. ఆయన ప్రకారం రాష్ట్రంలో 795.7 మి.మీ సాధారణానికి 615.8 మి.మీ వర్షమే కురిసింది, 23% లోటు. కన్నెపల్లి వద్ద గోదావరి నీటిని ఎత్తిపోయకుండా దిగువకు వదిలారని ఆయన విమర్శించారు. సీడబ్ల్యూసీ లెక్కల ప్రకారం సుమారు 750 టీఎంసీలు ఏపీకి వెళ్లాయని పేర్కొన్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/opinion-telanganas-drought-not-caused-by-el-nino-but-by-the-government",
-   "sec": [
-    "telangana",
-    "agri",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "వర్షపాతం 615.8 మి.మీ, సాధారణం 795.7 మి.మీ",
-    "ఎస్సారెస్పీ, నిజాంసాగర్, కాళేశ్వరం ఆయకట్టులో క్రాప్ హాలిడే",
-    "ఇది రచయిత అభిప్రాయం, ప్రభుత్వ స్పందన వ్యాసంలో లేదు"
-   ],
-   "why": "కరవుతో నష్టపోతున్న ఆయకట్టు రైతులకు సాగునీటి నిర్వహణపై ఈ చర్చ సంబంధించినది.",
-   "pub": "2026-11-11T23:36+05:30",
-   "en": {
-    "h": "Telangana's drought caused by government decisions, not El Nino: opinion",
-    "p": "This is an opinion piece in Telangana Today by retired Superintending Engineer Sridhar Rao Deshpande. According to him, the state received 615.8 mm of rain against a normal 795.7 mm, a 23% deficit. He criticised the release of Godavari water downstream instead of lifting it at Kannepalli. Citing CWC data, he said about 750 TMC flowed into Andhra Pradesh.",
-    "pts": [
-     "Rainfall 615.8 mm against normal 795.7 mm",
-     "Crop holiday in SRSP, Nizamsagar, Kaleshwaram command areas",
-     "This is the author's opinion; no government response in the piece"
-    ],
-    "why": "The debate on irrigation management concerns command-area farmers hit by the drought.",
-    "cat": "Editorial · Drought",
-    "statl": "Telangana rainfall deficit (per the article)"
-   },
-   "hi": {
-    "h": "तेलंगाना का सूखा एल नीनो नहीं, सरकारी फ़ैसलों से: विचार लेख",
-    "p": "यह तेलंगाना टुडे में सेवानिवृत्त अधीक्षण अभियंता श्रीधर राव देशपांडे का विचार लेख है। उनके अनुसार राज्य में सामान्य 795.7 मिमी के मुकाबले 615.8 मिमी बारिश हुई, यानी 23% कमी। उन्होंने कन्नेपल्ली पर गोदावरी का पानी उठाने के बजाय नीचे छोड़ने की आलोचना की। सीडब्ल्यूसी आँकड़ों के हवाले से उन्होंने कहा कि करीब 750 टीएमसी पानी आंध्र प्रदेश गया।",
-    "pts": [
-     "बारिश 615.8 मिमी, सामान्य 795.7 मिमी",
-     "एसआरएसपी, निज़ामसागर, कालेश्वरम कमान क्षेत्र में क्रॉप हॉलिडे",
-     "यह लेखक की राय है; लेख में सरकार का जवाब नहीं"
-    ],
-    "why": "सिंचाई प्रबंधन पर यह बहस सूखे से प्रभावित कमान क्षेत्र के किसानों से जुड़ी है।",
-    "cat": "संपादकीय · सूखा",
-    "statl": "तेलंगाना वर्षा कमी (लेख के अनुसार)"
    },
    "d": "12.11.2026",
    "t": "07:35"
