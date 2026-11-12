@@ -1,8 +1,160 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 73,
+ "count": 76,
  "stories": [
+  {
+   "cat": "తెలంగాణ · స్థానిక సంస్థలు",
+   "col": "--c-gov",
+   "art": "voters",
+   "stat": "₹600 కోట్లు",
+   "statl": "గ్రామీణ సంస్థలు కోల్పోయిన కేంద్ర నిధులు (కథనం ప్రకారం)",
+   "h": "స్థానిక ఎన్నికల జాప్యంతో కేంద్ర నిధులకు ముప్పు: టీటీ కథనం",
+   "p": "తెలంగాణలో స్థానిక సంస్థల ఎన్నికలు ఆలస్యం కావడంతో 5 కార్పొరేషన్లు, 7 మున్సిపాలిటీలు, 31 జిల్లా పరిషత్‌లు, 565 మండల పరిషత్‌లు ప్రత్యేక అధికారుల పాలనలో ఉన్నాయని Telangana Today కథనం తెలిపింది. దీనివల్ల రెండేళ్లలో సుమారు ₹600 కోట్ల 15వ ఆర్థిక సంఘం నిధులు నష్టపోయినట్లు, పట్టణ సంస్థలకు సుమారు ₹500 కోట్లు నిలిచిపోయినట్లు పేర్కొంది. జీహెచ్ఎంసీ పునర్వ్యవస్థీకరణ, వార్డుల పునర్విభజన కారణాలని ప్రభుత్వం చెబుతోంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-local-body-poll-delay-puts-central-grants-worth-crores-at-risk",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "565 మండల, 31 జిల్లా పరిషత్‌లు ప్రత్యేక అధికారుల చేతిలో",
+    "పట్టణ సంస్థలకు సుమారు ₹500 కోట్ల నిధులు నిలిచాయి",
+    "కొత్త ఎన్నికల షెడ్యూల్ ఇంకా ప్రకటించలేదు"
+   ],
+   "why": "ఎన్నికలు జరగకపోతే గ్రామ, పట్టణ అభివృద్ధి పనులకు రావాల్సిన కేంద్ర నిధులు ఆగిపోవచ్చు.",
+   "pub": "2026-11-12T15:13+05:30",
+   "en": {
+    "h": "Local body poll delay puts Central grants at risk: Telangana Today",
+    "p": "With local body elections delayed in Telangana, 5 corporations, 7 municipalities, 31 Zilla Parishads and 565 Mandal Parishads are under special officers, Telangana Today reported. It said about ₹600 crore of 15th Finance Commission grants were lost over two years and about ₹500 crore for urban bodies is held up. The government cites GHMC reorganisation and ward delimitation as reasons.",
+    "pts": [
+     "565 Mandal, 31 Zilla Parishads under special officers",
+     "About ₹500 crore held up for urban bodies",
+     "No fresh election schedule announced yet"
+    ],
+    "why": "Without elections, Central funds meant for village and town development may stay blocked.",
+    "cat": "Telangana · Local bodies",
+    "statl": "Central funds lost by rural bodies (per report)"
+   },
+   "hi": {
+    "h": "स्थानीय चुनावों में देरी से केंद्रीय अनुदान खतरे में: तेलंगाना टुडे",
+    "p": "तेलंगाना टुडे की रिपोर्ट के अनुसार, तेलंगाना में स्थानीय निकाय चुनावों में देरी से 5 निगम, 7 नगरपालिकाएं, 31 जिला परिषदें और 565 मंडल परिषदें विशेष अधिकारियों के अधीन हैं। रिपोर्ट के मुताबिक दो साल में लगभग ₹600 करोड़ के 15वें वित्त आयोग के अनुदान का नुकसान हुआ और शहरी निकायों के लगभग ₹500 करोड़ अटके हैं। सरकार जीएचएमसी पुनर्गठन और वार्ड परिसीमन को कारण बताती है।",
+    "pts": [
+     "565 मंडल, 31 जिला परिषदें विशेष अधिकारियों के अधीन",
+     "शहरी निकायों के लगभग ₹500 करोड़ अटके",
+     "नया चुनाव कार्यक्रम अभी घोषित नहीं"
+    ],
+    "why": "चुनाव न होने से गांव और शहरों के विकास के लिए केंद्रीय धन रुका रह सकता है।",
+    "cat": "तेलंगाना · स्थानीय निकाय",
+    "statl": "ग्रामीण निकायों का खोया केंद्रीय धन (रिपोर्ट के अनुसार)"
+   },
+   "d": "12.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "$2 బిలియన్లు",
+   "statl": "కియా కొత్త ప్లాంట్ పెట్టుబడి",
+   "h": "ఏపీలో కొత్త ప్లాంట్‌కు కియా $2 బిలియన్ల పెట్టుబడి",
+   "p": "విశాఖలో జరుగుతున్న 31వ సీఐఐ భాగస్వామ్య సదస్సు తొలిరోజు కార్ల తయారీ సంస్థ కియా ఆంధ్రప్రదేశ్‌లో కొత్త తయారీ ప్లాంట్ కోసం $2 బిలియన్లు పెట్టుబడి పెడతామని ప్రకటించినట్లు Gulte కథనం తెలిపింది. కియా ఇండియా ఎండీ, సీఈఓ గ్వాంగు లీ ఈ విషయం చెప్పారు. 2017లో ఏపీలో తమ ప్రయాణం మొదలైందని, అప్పటి నుంచి విస్తరిస్తున్నామని ఆయన అన్నారు. కియాకు ఇప్పటికే అనంతపురంలో ప్లాంట్ ఉంది.",
+   "src": "Gulte",
+   "url": "https://www.gulte.com/political-news/441375/day-1-cii-partnership-summit-bumper-hit-kia-to-invest-2-bn-in-ap",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "కియా ఏపీలో కొత్త ప్లాంట్‌కు $2 బిలియన్లు",
+    "ప్రకటించిన వారు కియా ఇండియా సీఈఓ గ్వాంగు లీ",
+    "అనంతపురంలో ఇప్పటికే కియా ప్లాంట్"
+   ],
+   "why": "కొత్త కార్ల ప్లాంట్ వస్తే ఏపీలో తయారీ రంగం, ఉద్యోగాలపై ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-12T13:57+05:30",
+   "en": {
+    "h": "Kia to invest $2 billion in new plant in Andhra Pradesh",
+    "p": "On the first day of the 31st CII Partnership Summit in Visakhapatnam, carmaker Kia announced a $2 billion investment for a new manufacturing plant in Andhra Pradesh, Gulte reported. Kia India MD and CEO Gwanggu Lee made the announcement. He said Kia's AP journey began in 2017 and has expanded since. Kia already has a plant in Anantapur.",
+    "pts": [
+     "Kia: $2 billion for new AP plant",
+     "Announced by Kia India CEO Gwanggu Lee",
+     "Kia already has a plant in Anantapur"
+    ],
+    "why": "A new car plant would affect manufacturing and jobs in Andhra Pradesh.",
+    "cat": "AP · Industry",
+    "statl": "Kia's new plant investment"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में नए प्लांट के लिए किआ का $2 अरब निवेश",
+    "p": "गुल्टे की रिपोर्ट के अनुसार, विशाखापत्तनम में 31वें सीआईआई पार्टनरशिप समिट के पहले दिन कार निर्माता किआ ने आंध्र प्रदेश में नए विनिर्माण प्लांट के लिए $2 अरब निवेश की घोषणा की। किआ इंडिया के एमडी और सीईओ ग्वांगगु ली ने यह घोषणा की। उन्होंने कहा कि आंध्र प्रदेश में किआ का सफर 2017 में शुरू हुआ और तब से बढ़ रहा है। किआ का अनंतपुर में पहले से प्लांट है।",
+    "pts": [
+     "किआ: आंध्र में नए प्लांट के लिए $2 अरब",
+     "किआ इंडिया सीईओ ग्वांगगु ली ने की घोषणा",
+     "अनंतपुर में पहले से किआ प्लांट"
+    ],
+    "why": "नए कार प्लांट से आंध्र प्रदेश में विनिर्माण और रोजगार पर असर होगा।",
+    "cat": "आंध्र प्रदेश · उद्योग",
+    "statl": "किआ के नए प्लांट का निवेश"
+   },
+   "d": "12.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "farm",
+   "stat": "అరకు కాఫీ",
+   "statl": "యూఏఈ మంత్రికి సీఎం కానుక",
+   "h": "యూఏఈ మంత్రికి అరకు కాఫీ; ఏపీ కోకోతో చాక్లెట్ పరిశ్రమకు సీఎం ఆహ్వానం",
+   "p": "సీఐఐ భాగస్వామ్య సదస్సుకు ముందు విశాఖలో సీఎం చంద్రబాబు నాయుడు యూఏఈ మంత్రి అబ్దుల్లా బిన్ తౌక్ అల్ మర్రీకి అరకు కాఫీ కానుకగా ఇచ్చారు. మంత్రి యూఏఈ చాక్లెట్లు ఇవ్వగా, వాటికి కోకో ఏపీలోనే పండుతుందని సీఎం చెప్పారు. ఫుడ్ ప్రాసెసింగ్‌లో ఏపీ కోకోతో చాక్లెట్ తయారీ పరిశ్రమ పెట్టాలని ఆయన సూచించినట్లు The Hans India తెలిపింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/coffee-meets-chocolate-at-cii-summit-cm-chandrababu-explores-investment-opportunities-with-uae-minister-1141334",
+   "sec": [
+    "telangana",
+    "business",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "యూఏఈ మంత్రికి అరకు కాఫీ కానుక",
+    "చాక్లెట్లకు కోకో ఏపీలో పండుతుందన్న సీఎం",
+    "చాక్లెట్ తయారీ పరిశ్రమ పెట్టాలని సూచన"
+   ],
+   "why": "ఇలాంటి పరిశ్రమ వస్తే ఏపీ కోకో, కాఫీ రైతులకు కొత్త మార్కెట్ దొరకవచ్చు.",
+   "pub": "2026-11-12T10:50+05:30",
+   "en": {
+    "h": "Araku coffee for UAE minister; Naidu pitches chocolate unit using AP cocoa",
+    "p": "Ahead of the CII Partnership Summit in Visakhapatnam, CM Chandrababu Naidu gifted Araku coffee to UAE Minister Abdullah bin Touq Al Marri. When the minister gave UAE chocolates in return, Naidu said the cocoa for them is grown in AP. He suggested a chocolate manufacturing unit in food processing using AP cocoa, The Hans India reported.",
+    "pts": [
+     "Araku coffee gifted to UAE minister",
+     "CM: cocoa for the chocolates grown in AP",
+     "Suggests chocolate manufacturing unit"
+    ],
+    "why": "Such a unit could open new markets for AP's cocoa and coffee farmers.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CM's gift to UAE minister"
+   },
+   "hi": {
+    "h": "यूएई मंत्री को अराकू कॉफी; नायडू ने आंध्र कोको से चॉकलेट उद्योग का प्रस्ताव रखा",
+    "p": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट से पहले मुख्यमंत्री चंद्रबाबू नायडू ने यूएई के मंत्री अब्दुल्ला बिन तौक अल मर्री को अराकू कॉफी भेंट की। मंत्री ने बदले में यूएई की चॉकलेट दी, तो नायडू ने कहा कि इनका कोको आंध्र प्रदेश में उगता है। द हंस इंडिया के अनुसार, उन्होंने खाद्य प्रसंस्करण में आंध्र के कोको से चॉकलेट बनाने की इकाई लगाने का सुझाव दिया।",
+    "pts": [
+     "यूएई मंत्री को अराकू कॉफी भेंट",
+     "सीएम: चॉकलेट का कोको आंध्र में उगता है",
+     "चॉकलेट निर्माण इकाई का सुझाव"
+    ],
+    "why": "ऐसी इकाई से आंध्र के कोको और कॉफी किसानों को नया बाजार मिल सकता है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "यूएई मंत्री को सीएम का उपहार"
+   },
+   "d": "12.11.2026",
+   "t": "15:35"
+  },
   {
    "cat": "తెలంగాణ · రాజకీయం",
    "col": "--c-election",

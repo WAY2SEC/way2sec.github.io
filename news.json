@@ -1,8 +1,160 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T15:14:55+05:30",
+ "updated": "2026-11-12T15:42:40+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · స్థానిక సంస్థలు",
+   "col": "--c-gov",
+   "art": "voters",
+   "stat": "₹600 కోట్లు",
+   "statl": "గ్రామీణ సంస్థలు కోల్పోయిన కేంద్ర నిధులు (కథనం ప్రకారం)",
+   "h": "స్థానిక ఎన్నికల జాప్యంతో కేంద్ర నిధులకు ముప్పు: టీటీ కథనం",
+   "p": "తెలంగాణలో స్థానిక సంస్థల ఎన్నికలు ఆలస్యం కావడంతో 5 కార్పొరేషన్లు, 7 మున్సిపాలిటీలు, 31 జిల్లా పరిషత్‌లు, 565 మండల పరిషత్‌లు ప్రత్యేక అధికారుల పాలనలో ఉన్నాయని Telangana Today కథనం తెలిపింది. దీనివల్ల రెండేళ్లలో సుమారు ₹600 కోట్ల 15వ ఆర్థిక సంఘం నిధులు నష్టపోయినట్లు, పట్టణ సంస్థలకు సుమారు ₹500 కోట్లు నిలిచిపోయినట్లు పేర్కొంది. జీహెచ్ఎంసీ పునర్వ్యవస్థీకరణ, వార్డుల పునర్విభజన కారణాలని ప్రభుత్వం చెబుతోంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-local-body-poll-delay-puts-central-grants-worth-crores-at-risk",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "565 మండల, 31 జిల్లా పరిషత్‌లు ప్రత్యేక అధికారుల చేతిలో",
+    "పట్టణ సంస్థలకు సుమారు ₹500 కోట్ల నిధులు నిలిచాయి",
+    "కొత్త ఎన్నికల షెడ్యూల్ ఇంకా ప్రకటించలేదు"
+   ],
+   "why": "ఎన్నికలు జరగకపోతే గ్రామ, పట్టణ అభివృద్ధి పనులకు రావాల్సిన కేంద్ర నిధులు ఆగిపోవచ్చు.",
+   "pub": "2026-11-12T15:13+05:30",
+   "en": {
+    "h": "Local body poll delay puts Central grants at risk: Telangana Today",
+    "p": "With local body elections delayed in Telangana, 5 corporations, 7 municipalities, 31 Zilla Parishads and 565 Mandal Parishads are under special officers, Telangana Today reported. It said about ₹600 crore of 15th Finance Commission grants were lost over two years and about ₹500 crore for urban bodies is held up. The government cites GHMC reorganisation and ward delimitation as reasons.",
+    "pts": [
+     "565 Mandal, 31 Zilla Parishads under special officers",
+     "About ₹500 crore held up for urban bodies",
+     "No fresh election schedule announced yet"
+    ],
+    "why": "Without elections, Central funds meant for village and town development may stay blocked.",
+    "cat": "Telangana · Local bodies",
+    "statl": "Central funds lost by rural bodies (per report)"
+   },
+   "hi": {
+    "h": "स्थानीय चुनावों में देरी से केंद्रीय अनुदान खतरे में: तेलंगाना टुडे",
+    "p": "तेलंगाना टुडे की रिपोर्ट के अनुसार, तेलंगाना में स्थानीय निकाय चुनावों में देरी से 5 निगम, 7 नगरपालिकाएं, 31 जिला परिषदें और 565 मंडल परिषदें विशेष अधिकारियों के अधीन हैं। रिपोर्ट के मुताबिक दो साल में लगभग ₹600 करोड़ के 15वें वित्त आयोग के अनुदान का नुकसान हुआ और शहरी निकायों के लगभग ₹500 करोड़ अटके हैं। सरकार जीएचएमसी पुनर्गठन और वार्ड परिसीमन को कारण बताती है।",
+    "pts": [
+     "565 मंडल, 31 जिला परिषदें विशेष अधिकारियों के अधीन",
+     "शहरी निकायों के लगभग ₹500 करोड़ अटके",
+     "नया चुनाव कार्यक्रम अभी घोषित नहीं"
+    ],
+    "why": "चुनाव न होने से गांव और शहरों के विकास के लिए केंद्रीय धन रुका रह सकता है।",
+    "cat": "तेलंगाना · स्थानीय निकाय",
+    "statl": "ग्रामीण निकायों का खोया केंद्रीय धन (रिपोर्ट के अनुसार)"
+   },
+   "d": "12.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · పరిశ్రమలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "$2 బిలియన్లు",
+   "statl": "కియా కొత్త ప్లాంట్ పెట్టుబడి",
+   "h": "ఏపీలో కొత్త ప్లాంట్‌కు కియా $2 బిలియన్ల పెట్టుబడి",
+   "p": "విశాఖలో జరుగుతున్న 31వ సీఐఐ భాగస్వామ్య సదస్సు తొలిరోజు కార్ల తయారీ సంస్థ కియా ఆంధ్రప్రదేశ్‌లో కొత్త తయారీ ప్లాంట్ కోసం $2 బిలియన్లు పెట్టుబడి పెడతామని ప్రకటించినట్లు Gulte కథనం తెలిపింది. కియా ఇండియా ఎండీ, సీఈఓ గ్వాంగు లీ ఈ విషయం చెప్పారు. 2017లో ఏపీలో తమ ప్రయాణం మొదలైందని, అప్పటి నుంచి విస్తరిస్తున్నామని ఆయన అన్నారు. కియాకు ఇప్పటికే అనంతపురంలో ప్లాంట్ ఉంది.",
+   "src": "Gulte",
+   "url": "https://www.gulte.com/political-news/441375/day-1-cii-partnership-summit-bumper-hit-kia-to-invest-2-bn-in-ap",
+   "sec": [
+    "telangana",
+    "business",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "కియా ఏపీలో కొత్త ప్లాంట్‌కు $2 బిలియన్లు",
+    "ప్రకటించిన వారు కియా ఇండియా సీఈఓ గ్వాంగు లీ",
+    "అనంతపురంలో ఇప్పటికే కియా ప్లాంట్"
+   ],
+   "why": "కొత్త కార్ల ప్లాంట్ వస్తే ఏపీలో తయారీ రంగం, ఉద్యోగాలపై ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-12T13:57+05:30",
+   "en": {
+    "h": "Kia to invest $2 billion in new plant in Andhra Pradesh",
+    "p": "On the first day of the 31st CII Partnership Summit in Visakhapatnam, carmaker Kia announced a $2 billion investment for a new manufacturing plant in Andhra Pradesh, Gulte reported. Kia India MD and CEO Gwanggu Lee made the announcement. He said Kia's AP journey began in 2017 and has expanded since. Kia already has a plant in Anantapur.",
+    "pts": [
+     "Kia: $2 billion for new AP plant",
+     "Announced by Kia India CEO Gwanggu Lee",
+     "Kia already has a plant in Anantapur"
+    ],
+    "why": "A new car plant would affect manufacturing and jobs in Andhra Pradesh.",
+    "cat": "AP · Industry",
+    "statl": "Kia's new plant investment"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में नए प्लांट के लिए किआ का $2 अरब निवेश",
+    "p": "गुल्टे की रिपोर्ट के अनुसार, विशाखापत्तनम में 31वें सीआईआई पार्टनरशिप समिट के पहले दिन कार निर्माता किआ ने आंध्र प्रदेश में नए विनिर्माण प्लांट के लिए $2 अरब निवेश की घोषणा की। किआ इंडिया के एमडी और सीईओ ग्वांगगु ली ने यह घोषणा की। उन्होंने कहा कि आंध्र प्रदेश में किआ का सफर 2017 में शुरू हुआ और तब से बढ़ रहा है। किआ का अनंतपुर में पहले से प्लांट है।",
+    "pts": [
+     "किआ: आंध्र में नए प्लांट के लिए $2 अरब",
+     "किआ इंडिया सीईओ ग्वांगगु ली ने की घोषणा",
+     "अनंतपुर में पहले से किआ प्लांट"
+    ],
+    "why": "नए कार प्लांट से आंध्र प्रदेश में विनिर्माण और रोजगार पर असर होगा।",
+    "cat": "आंध्र प्रदेश · उद्योग",
+    "statl": "किआ के नए प्लांट का निवेश"
+   },
+   "d": "12.11.2026",
+   "t": "15:35"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "farm",
+   "stat": "అరకు కాఫీ",
+   "statl": "యూఏఈ మంత్రికి సీఎం కానుక",
+   "h": "యూఏఈ మంత్రికి అరకు కాఫీ; ఏపీ కోకోతో చాక్లెట్ పరిశ్రమకు సీఎం ఆహ్వానం",
+   "p": "సీఐఐ భాగస్వామ్య సదస్సుకు ముందు విశాఖలో సీఎం చంద్రబాబు నాయుడు యూఏఈ మంత్రి అబ్దుల్లా బిన్ తౌక్ అల్ మర్రీకి అరకు కాఫీ కానుకగా ఇచ్చారు. మంత్రి యూఏఈ చాక్లెట్లు ఇవ్వగా, వాటికి కోకో ఏపీలోనే పండుతుందని సీఎం చెప్పారు. ఫుడ్ ప్రాసెసింగ్‌లో ఏపీ కోకోతో చాక్లెట్ తయారీ పరిశ్రమ పెట్టాలని ఆయన సూచించినట్లు The Hans India తెలిపింది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/coffee-meets-chocolate-at-cii-summit-cm-chandrababu-explores-investment-opportunities-with-uae-minister-1141334",
+   "sec": [
+    "telangana",
+    "business",
+    "agri"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "యూఏఈ మంత్రికి అరకు కాఫీ కానుక",
+    "చాక్లెట్లకు కోకో ఏపీలో పండుతుందన్న సీఎం",
+    "చాక్లెట్ తయారీ పరిశ్రమ పెట్టాలని సూచన"
+   ],
+   "why": "ఇలాంటి పరిశ్రమ వస్తే ఏపీ కోకో, కాఫీ రైతులకు కొత్త మార్కెట్ దొరకవచ్చు.",
+   "pub": "2026-11-12T10:50+05:30",
+   "en": {
+    "h": "Araku coffee for UAE minister; Naidu pitches chocolate unit using AP cocoa",
+    "p": "Ahead of the CII Partnership Summit in Visakhapatnam, CM Chandrababu Naidu gifted Araku coffee to UAE Minister Abdullah bin Touq Al Marri. When the minister gave UAE chocolates in return, Naidu said the cocoa for them is grown in AP. He suggested a chocolate manufacturing unit in food processing using AP cocoa, The Hans India reported.",
+    "pts": [
+     "Araku coffee gifted to UAE minister",
+     "CM: cocoa for the chocolates grown in AP",
+     "Suggests chocolate manufacturing unit"
+    ],
+    "why": "Such a unit could open new markets for AP's cocoa and coffee farmers.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CM's gift to UAE minister"
+   },
+   "hi": {
+    "h": "यूएई मंत्री को अराकू कॉफी; नायडू ने आंध्र कोको से चॉकलेट उद्योग का प्रस्ताव रखा",
+    "p": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट से पहले मुख्यमंत्री चंद्रबाबू नायडू ने यूएई के मंत्री अब्दुल्ला बिन तौक अल मर्री को अराकू कॉफी भेंट की। मंत्री ने बदले में यूएई की चॉकलेट दी, तो नायडू ने कहा कि इनका कोको आंध्र प्रदेश में उगता है। द हंस इंडिया के अनुसार, उन्होंने खाद्य प्रसंस्करण में आंध्र के कोको से चॉकलेट बनाने की इकाई लगाने का सुझाव दिया।",
+    "pts": [
+     "यूएई मंत्री को अराकू कॉफी भेंट",
+     "सीएम: चॉकलेट का कोको आंध्र में उगता है",
+     "चॉकलेट निर्माण इकाई का सुझाव"
+    ],
+    "why": "ऐसी इकाई से आंध्र के कोको और कॉफी किसानों को नया बाजार मिल सकता है।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "यूएई मंत्री को सीएम का उपहार"
+   },
+   "d": "12.11.2026",
+   "t": "15:35"
+  },
   {
    "cat": "తెలంగాణ · రాజకీయం",
    "col": "--c-election",
@@ -2236,255 +2388,6 @@
    },
    "d": "12.11.2026",
    "t": "09:35"
-  },
-  {
-   "cat": "ఏపీ · రాజకీయం",
-   "col": "--c-election",
-   "art": "campus",
-   "stat": "₹1,630 కోట్లు",
-   "statl": "వీజీఎఫ్ అని జగన్ ఆరోపణ",
-   "h": "వైద్య కళాశాలల పీపీపీ అప్పగింతలో భారీ కుంభకోణం: జగన్ ఆరోపణ",
-   "p": "ప్రభుత్వ వైద్య కళాశాలలను పీపీపీ విధానంలో ప్రైవేటుకు అప్పగించడం ప్రజా ఆస్తులతో కూడిన భారీ కుంభకోణమని వైఎస్సార్సీపీ అధ్యక్షుడు జగన్ మోహన్ రెడ్డి ఎక్స్ పోస్ట్‌లో ఆరోపించారు. ఎకరం ₹100కే లీజు, సగానికి పైగా సీట్లకు మార్కెట్ ఫీజులు, ₹1,630 కోట్ల వీజీఎఫ్ ఇస్తున్నారని ఆయన ఆరోపణ. దీనిపై టీడీపీ వెంటనే స్పందించలేదని పీటీఐ కథనం పేర్కొంది.",
-   "src": "Telangana Today (PTI)",
-   "url": "https://telanganatoday.com/jagan-alleges-massive-scam-in-move-to-hand-over-medical-colleges-under-ppp-model",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "తమ హయాంలో 17 కొత్త వైద్య కళాశాలలు ఏర్పాటు చేశామన్న జగన్",
-    "సుమారు కోటి మంది వ్యతిరేక పిటిషన్‌పై సంతకాలు చేశారని వెల్లడి",
-    "అధికారంలోకి వస్తే చట్టపరమైన చర్యలంటూ హెచ్చరిక"
-   ],
-   "why": "ఏపీ ప్రభుత్వ వైద్య కళాశాలల సీట్లు, ఫీజులపై ఈ వివాదం వైద్య విద్యార్థులు, తల్లిదండ్రులపై ప్రభావం చూపవచ్చు.",
-   "d": "12.11.2026",
-   "t": "09:05",
-   "pub": "2026-11-12T08:40+05:30",
-   "en": {
-    "h": "Jagan alleges massive scam in handing medical colleges under PPP model",
-    "p": "YSRCP president Jagan Mohan Reddy alleged in an X post that handing government medical colleges to private operators under the PPP model is a massive scam involving public assets. He alleged land is leased at ₹100 an acre, market fees allowed for over half the seats and ₹1,630 crore given as VGF. The TDP did not immediately respond, the PTI report said.",
-    "pts": [
-     "Jagan says his government set up 17 new medical colleges",
-     "Says about one crore people signed a petition against it",
-     "Warns of legal action if YSRCP returns to power"
-    ],
-    "why": "The dispute over seats and fees in AP government medical colleges may affect medical students and parents.",
-    "cat": "AP · Politics",
-    "statl": "VGF, as alleged by Jagan"
-   },
-   "hi": {
-    "h": "मेडिकल कॉलेज पीपीपी हस्तांतरण में बड़ा घोटाला: जगन का आरोप",
-    "p": "वाईएसआरसीपी अध्यक्ष जगन मोहन रेड्डी ने एक्स पोस्ट में आरोप लगाया कि सरकारी मेडिकल कॉलेजों को पीपीपी मॉडल में निजी संचालकों को सौंपना सार्वजनिक संपत्ति से जुड़ा बड़ा घोटाला है। उनका आरोप है कि ₹100 प्रति एकड़ पर ज़मीन लीज़, आधी से ज़्यादा सीटों पर बाज़ार फ़ीस और ₹1,630 करोड़ वीजीएफ दिया जा रहा है। पीटीआई के अनुसार टीडीपी ने तुरंत प्रतिक्रिया नहीं दी।",
-    "pts": [
-     "जगन बोले, उनकी सरकार ने 17 नए मेडिकल कॉलेज बनाए",
-     "करीब एक करोड़ लोगों ने विरोध याचिका पर हस्ताक्षर किए",
-     "वाईएसआरसीपी सत्ता में लौटी तो कानूनी कार्रवाई की चेतावनी"
-    ],
-    "why": "आंध्र के सरकारी मेडिकल कॉलेजों की सीटों और फ़ीस पर यह विवाद छात्रों और अभिभावकों को प्रभावित कर सकता है।",
-    "cat": "आंध्र प्रदेश · राजनीति",
-    "statl": "वीजीएफ, जगन के आरोप अनुसार"
-   }
-  },
-  {
-   "cat": "ఉత్తరప్రదేశ్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "403",
-   "statl": "యూపీ అసెంబ్లీ సీట్లు",
-   "h": "యూపీ ఎన్నికలకు ఒవైసీ–చంద్రశేఖర్ ఆజాద్ పొత్తు ప్రకటన నేడు",
-   "p": "2027 ఉత్తరప్రదేశ్ అసెంబ్లీ ఎన్నికల కోసం ఏఐఎంఐఎం అధ్యక్షుడు అసదుద్దీన్ ఒవైసీ, ఆజాద్ సమాజ్ పార్టీ (కాన్షీరామ్) అధినేత చంద్రశేఖర్ ఆజాద్ గురువారం లక్నోలో సంయుక్త విలేకరుల సమావేశంలో పొత్తు ప్రకటించనున్నట్లు పార్టీ నేతలు తెలిపారు. రెండు పార్టీలు కలిసి పనిచేస్తాయని ఏఐఎంఐఎం ప్రతినిధి షాదాబ్ చౌహాన్ పీటీఐకి చెప్పారు. పొత్తు స్వరూపం, సీట్ల పంపకం ఇంకా వెల్లడి కాలేదు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/owaisi-chandrashekhar-azad-set-to-announce-alliance-for-up-polls-on-nov-12",
-   "sec": [
-    "india"
-   ],
-   "st": "UP",
-   "place": "st-UP",
-   "pts": [
-    "లక్నోలో గురువారం మధ్యాహ్నం సంయుక్త విలేకరుల సమావేశం",
-    "403 సీట్లలో పంపకం ఇంకా స్పష్టం కాలేదు",
-    "ఇండియా కూటమిలో చేరికకు ఒవైసీ పెట్టిన అక్టోబర్ 2 గడువుకు స్పందన రాలేదు"
-   ],
-   "why": "ఏఐఎంఐఎం యూపీ ఎన్నికల్లో కొత్త పొత్తుతో దళిత, మైనారిటీ ఓటర్లను లక్ష్యంగా చేసుకుంటోందని కథనాలు చెబుతున్నాయి.",
-   "d": "12.11.2026",
-   "t": "08:35",
-   "pub": "2026-11-12T08:25+05:30",
-   "en": {
-    "h": "Owaisi, Chandrashekhar Azad to announce alliance for UP polls today",
-    "p": "AIMIM president Asaduddin Owaisi and Azad Samaj Party (Kanshiram) chief Chandrashekhar Azad are set to announce an alliance for the 2027 Uttar Pradesh Assembly elections at a joint press conference in Lucknow on Thursday, party leaders said. AIMIM spokesperson Shadab Chauhan told PTI the two parties will work together. The nature of the pact and seat-sharing have not yet been revealed.",
-    "pts": [
-     "Joint press conference in Lucknow on Thursday afternoon",
-     "Seat-sharing among 403 seats not yet clear",
-     "No response to Owaisi's October 2 deadline to join INDIA bloc"
-    ],
-    "why": "Reports say AIMIM is targeting Dalit and minority voters in UP through the new alliance.",
-    "cat": "Uttar Pradesh · Politics",
-    "statl": "UP Assembly seats"
-   },
-   "hi": {
-    "h": "यूपी चुनाव के लिए ओवैसी–चंद्रशेखर आज़ाद गठबंधन का ऐलान आज",
-    "p": "2027 उत्तर प्रदेश विधानसभा चुनाव के लिए एआईएमआईएम अध्यक्ष असदुद्दीन ओवैसी और आज़ाद समाज पार्टी (कांशीराम) प्रमुख चंद्रशेखर आज़ाद गुरुवार को लखनऊ में संयुक्त प्रेस कॉन्फ्रेंस में गठबंधन का ऐलान करेंगे, पार्टी नेताओं ने बताया। एआईएमआईएम प्रवक्ता शादाब चौहान ने पीटीआई से कहा कि दोनों पार्टियां साथ काम करेंगी। गठबंधन का स्वरूप और सीट बंटवारा अभी तय नहीं हुआ है।",
-    "pts": [
-     "गुरुवार दोपहर लखनऊ में संयुक्त प्रेस कॉन्फ्रेंस",
-     "403 सीटों में बंटवारा अभी स्पष्ट नहीं",
-     "इंडिया गठबंधन में शामिल होने की ओवैसी की 2 अक्टूबर की समय-सीमा पर जवाब नहीं"
-    ],
-    "why": "रिपोर्टों के अनुसार एआईएमआईएम नए गठबंधन से यूपी में दलित और अल्पसंख्यक मतदाताओं को लक्ष्य कर रही है।",
-    "cat": "उत्तर प्रदेश · राजनीति",
-    "statl": "यूपी विधानसभा सीटें"
-   }
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "2,700",
-   "statl": "భద్రతా విధుల్లో పోలీసులు",
-   "h": "విశాఖ సీఐఐ సదస్సుకు 2,700 మంది పోలీసులతో భారీ భద్రత",
-   "p": "విశాఖపట్నంలో గురు, శుక్రవారాల్లో జరిగే 31వ సీఐఐ భాగస్వామ్య సదస్సుకు సుమారు 2,700 మంది పోలీసులతో భద్రత ఏర్పాటు చేసినట్లు నగర పోలీస్ కమిషనర్ శంఖబ్రత బాగ్చీ తెలిపారు. కమాండ్ కంట్రోల్ సెంటర్, డ్రోన్లు, సీసీటీవీ, బాడీ కెమెరాలతో పర్యవేక్షిస్తారు. కేంద్ర హోంమంత్రి అమిత్ షా సదస్సును ప్రారంభిస్తారు. రెండు రోజుల్లో ₹11 లక్షల కోట్ల కొత్త ఒప్పందాలు ఆశిస్తున్నట్లు జిల్లా ఇన్‌చార్జి మంత్రి డోలా శ్రీ బాల వీరాంజనేయ స్వామి చెప్పారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/2700-police-personnel-deployed-for-multi-layered-security-1141204",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "35 ఏసీపీలు, 103 సీఐలు, 250 ఎస్సైలు విధుల్లో",
-    "హోటళ్లు, లాడ్జీల్లో డాగ్, బాంబ్ స్క్వాడ్ తనిఖీలు",
-    "58కి పైగా విదేశీ ప్రతినిధులు, 400కు పైగా బీ2బీ భేటీలు"
-   ],
-   "why": "సదస్సు జరిగే రెండు రోజులూ విశాఖలో భారీ భద్రతా ఏర్పాట్లు, తనిఖీలు ఉంటాయి; నగరవాసులు గమనించాలి.",
-   "pub": "2026-11-12T01:59+05:30",
-   "en": {
-    "h": "2,700 police deployed for CII Partnership Summit security in Visakhapatnam",
-    "p": "About 2,700 police personnel have been deployed for security at the 31st CII Partnership Summit in Visakhapatnam on Thursday and Friday, City Police Commissioner Shankhabrata Bagchi said. The venue will be monitored from a Command and Control Centre with drones, CCTV and body-worn cameras. Union Home Minister Amit Shah will inaugurate the summit. District in-charge minister Dola Sree Bala Veeranjaneya Swamy said fresh MoUs worth Rs 11 lakh crore are expected over the two days.",
-    "pts": [
-     "35 ACPs, 103 CIs and 250 SIs on duty",
-     "Dog and bomb squads check hotels and lodges",
-     "Over 58 foreign delegates, over 400 B2B meetings"
-    ],
-    "why": "Visakhapatnam will see heavy security arrangements and checks on both days of the summit; residents should take note.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "Police on security duty"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम सीआईआई सम्मेलन की सुरक्षा में 2,700 पुलिसकर्मी तैनात",
-    "p": "विशाखापत्तनम में गुरुवार और शुक्रवार को होने वाले 31वें सीआईआई पार्टनरशिप समिट की सुरक्षा के लिए करीब 2,700 पुलिसकर्मी तैनात किए गए हैं, शहर के पुलिस आयुक्त शंखब्रत बागची ने बताया। कमांड एंड कंट्रोल सेंटर से ड्रोन, सीसीटीवी और बॉडी कैमरों के ज़रिए निगरानी होगी। केंद्रीय गृह मंत्री अमित शाह सम्मेलन का उद्घाटन करेंगे। ज़िला प्रभारी मंत्री डोला श्री बाला वीरांजनेय स्वामी ने कहा कि दो दिनों में ₹11 लाख करोड़ के नए समझौतों की उम्मीद है।",
-    "pts": [
-     "35 एसीपी, 103 सीआई और 250 एसआई ड्यूटी पर",
-     "होटलों, लॉज में डॉग और बम स्क्वॉड की जांच",
-     "58 से अधिक विदेशी प्रतिनिधि, 400 से अधिक बी2बी बैठकें"
-    ],
-    "why": "सम्मेलन के दोनों दिन विशाखापत्तनम में कड़ी सुरक्षा व्यवस्था और जांच रहेगी; शहरवासी ध्यान दें।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "सुरक्षा ड्यूटी पर पुलिसकर्मी"
-   },
-   "d": "12.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "ప్రపంచం · వ్యాపారం",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "$91.62",
-   "statl": "బ్రెంట్ ముడి చమురు బ్యారెల్ ధర",
-   "h": "శాంతి చర్చలపై ఆశలతో ముడి చమురు ధర $1కి పైగా తగ్గుదల",
-   "p": "రష్యా–ఉక్రెయిన్, మధ్యప్రాచ్య శాంతి చర్చల్లో పురోగతి ఉండొచ్చన్న ఆశలతో గురువారం ముడి చమురు ధరలు బ్యారెల్‌కు $1కి పైగా తగ్గాయని రాయిటర్స్ తెలిపింది. బ్రెంట్ 1.2% తగ్గి $91.62కు, అమెరికా డబ్ల్యూటీఐ $85.49కు చేరాయి. అబుదాబి చర్చల్లో రష్యా, ఉక్రెయిన్ పెద్ద ఎత్తున ఖైదీల మార్పిడికి అంగీకరించాయి. హార్ముజ్ జలసంధి అనిశ్చితి వల్ల ధరలు భారీగా పడే అవకాశం తక్కువని ఒక విశ్లేషకుడు అన్నారు.",
-   "src": "Reuters",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171",
-   "sec": [
-    "world",
-    "business"
-   ],
-   "st": "WORLD",
-   "place": "IN",
-   "pts": [
-    "బ్రెంట్ $1.14 తగ్గి $91.62కు",
-    "డబ్ల్యూటీఐ $1.04 తగ్గి $85.49కు",
-    "అమెరికా ముడి నిల్వలు 90 లక్షల బ్యారెళ్లు పెరిగాయి (API)"
-   ],
-   "why": "ముడి చమురు ధరల మార్పులు పెట్రోల్, డీజిల్ వినియోగదారులు, వ్యాపారాలపై ప్రభావం చూపుతాయి.",
-   "pub": "2026-11-12T07:22+05:30",
-   "en": {
-    "h": "Crude oil falls over $1 on hopes for peace talks",
-    "p": "Crude oil prices fell more than $1 a barrel on Thursday on hopes of progress in Russia-Ukraine and Middle East peace talks, Reuters reported. Brent fell 1.2% to $91.62 and US WTI to $85.49. At talks in Abu Dhabi, Russia and Ukraine agreed a major prisoner exchange. An analyst said uncertainty over the Strait of Hormuz makes a big price collapse unlikely.",
-    "pts": [
-     "Brent down $1.14 to $91.62",
-     "WTI down $1.04 to $85.49",
-     "US crude stocks up 9 million barrels (API)"
-    ],
-    "why": "Changes in crude oil prices affect petrol and diesel users and businesses.",
-    "cat": "World · Business",
-    "statl": "Brent crude price per barrel"
-   },
-   "hi": {
-    "h": "शांति वार्ता की उम्मीदों से कच्चा तेल $1 से ज़्यादा सस्ता",
-    "p": "रूस–यूक्रेन और मध्य-पूर्व शांति वार्ता में प्रगति की उम्मीदों से गुरुवार को कच्चे तेल की कीमतें प्रति बैरल $1 से ज़्यादा गिरीं, रॉयटर्स ने बताया। ब्रेंट 1.2% गिरकर $91.62 और अमेरिकी डब्ल्यूटीआई $85.49 पर आ गया। अबू धाबी वार्ता में रूस और यूक्रेन बड़े कैदी आदान-प्रदान पर सहमत हुए। एक विश्लेषक ने कहा कि होर्मुज़ जलडमरूमध्य की अनिश्चितता के कारण कीमतों में भारी गिरावट की संभावना कम है।",
-    "pts": [
-     "ब्रेंट $1.14 गिरकर $91.62 पर",
-     "डब्ल्यूटीआई $1.04 गिरकर $85.49 पर",
-     "अमेरिकी कच्चे तेल का भंडार 90 लाख बैरल बढ़ा (API)"
-    ],
-    "why": "कच्चे तेल की कीमतों में बदलाव पेट्रोल-डीज़ल उपभोक्ताओं और कारोबार को प्रभावित करता है।",
-    "cat": "विश्व · व्यापार",
-    "statl": "ब्रेंट कच्चे तेल का प्रति बैरल भाव"
-   },
-   "d": "12.11.2026",
-   "t": "08:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · మూసీ",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "21 కి.మీ",
-   "statl": "మూసీ తొలి దశ పనుల పొడవు",
-   "h": "మూసీ పునరుజ్జీవనం తొలి దశ పనులు త్వరలో: సీఎం రేవంత్",
-   "p": "మాదాపూర్‌లో హైడ్రా పునరుద్ధరించిన తమ్మిడికుంట చెరువును బుధవారం సాయంత్రం ప్రారంభించిన సీఎం రేవంత్ రెడ్డి, 55 కి.మీ మూసీలో తొలి 21 కి.మీ పనులు త్వరలో మొదలవుతాయని చెప్పారు. అన్ని అనుమతులు వచ్చాయని, టెండర్లు ఖరారు దశలో ఉన్నాయని తెలిపారు. ఇది అందం కోసం కాదు, నది శుద్ధి కోసమని అన్నారు. నగరంలోని 1,372 చెరువుల్లో సగం ఆక్రమణలతో కనుమరుగయ్యాయని పేర్కొన్నారు.",
-   "src": "Telangana Today",
-   "url": "https://telanganatoday.com/revanth-reddy-says-first-phase-of-musi-rejuvenation-works-to-begin-soon",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "మాదాపూర్",
-   "pts": [
-    "55 కి.మీ మూసీలో తొలి 21 కి.మీ పనులు",
-    "అనుమతులు పూర్తి, టెండర్లు ఖరారు దశలో",
-    "తమ్మిడికుంట చెరువు 14 నుంచి 30 ఎకరాలకు: సీఎం"
-   ],
-   "why": "మూసీ పరివాహక ప్రాంతాల్లో నివసించే హైదరాబాద్ ప్రజలపై ఈ పనుల ప్రభావం ఉంటుంది.",
-   "pub": "2026-11-12T00:49+05:30",
-   "en": {
-    "h": "First phase of Musi rejuvenation works to begin soon: CM Revanth",
-    "p": "After inaugurating the HYDRAA-restored Tammidikunta lake in Madhapur on Wednesday evening, CM Revanth Reddy said works on the first 21 km of the 55 km Musi will begin soon. He said all permissions are in place and tenders are being finalised. He said the project is about cleaning the river, not beautification, and that half of the city's 1,372 lakes have vanished due to encroachments.",
-    "pts": [
-     "First 21 km of the 55 km Musi to be taken up",
-     "Permissions in place, tenders being finalised",
-     "Tammidikunta lake grew from 14 to 30 acres: CM"
-    ],
-    "why": "The works will affect Hyderabad residents living along the Musi river.",
-    "cat": "Hyderabad · Musi",
-    "statl": "Length of Musi first-phase works"
-   },
-   "hi": {
-    "h": "मूसी पुनरुद्धार का पहला चरण जल्द शुरू होगा: सीएम रेवंत",
-    "p": "माधापुर में हाइड्रा द्वारा पुनर्जीवित तम्मिडिकुंटा झील का बुधवार शाम उद्घाटन करने के बाद सीएम रेवंत रेड्डी ने कहा कि 55 किमी मूसी के पहले 21 किमी पर काम जल्द शुरू होगा। उन्होंने कहा कि सभी अनुमतियाँ मिल चुकी हैं और टेंडर अंतिम चरण में हैं। उन्होंने कहा कि यह सौंदर्यीकरण नहीं, नदी की सफ़ाई है, और शहर की 1,372 झीलों में से आधी अतिक्रमण से गायब हो गईं।",
-    "pts": [
-     "55 किमी मूसी के पहले 21 किमी पर काम",
-     "अनुमतियाँ पूरी, टेंडर अंतिम चरण में",
-     "तम्मिडिकुंटा झील 14 से 30 एकड़ हुई: सीएम"
-    ],
-    "why": "इन कामों का असर मूसी किनारे रहने वाले हैदराबाद के लोगों पर पड़ेगा।",
-    "cat": "हैदराबाद · मूसी",
-    "statl": "मूसी पहले चरण के काम की लंबाई"
-   },
-   "d": "12.11.2026",
-   "t": "07:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",

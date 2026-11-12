@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T15:05:00+05:30",
+ "cutoff": "2026-11-12T15:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -1128,6 +1128,19 @@
    "skipped": 1,
    "review": 5,
    "gaps": "Search-first; WebSearch returned only stale tag/listing pages. Read via sub-agent: Siasat Telangana + Hyderabad listings (cache ~08:15 IST), Telangana Today home (cached 11 Nov), Hans India Anantapur (newest 02:30), India TV Telangana listing; 3574883 (08:11) and 3574884 (08:06) published late-found; Marissa Roy LA attorney (07:49) skipped minor international. India TV 12 Nov articles (Pitroda, Bhagwat, HAL, MSCI, Sneijder) denied by fetch tool - review. Nothing in 14:35-15:05 could be checked. Eenadu, Sakshi, NT, TT, TV9, V6, NTV, The Hindu, PTI, Reuters/AP not surfaced. Districts searched: Adilabad, Nizamabad, Kamareddy, Mancherial, Nirmal, Medchal, Visakhapatnam, Anantapur, Kadapa, Annamayya, Sri Sathya Sai, Tirupati."
+  },
+  {
+   "window": "2026-11-12T15:05:00+05:30/2026-11-12T15:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 4,
+   "published": 3,
+   "late": 2,
+   "sensitive": 0,
+   "corrected": 0,
+   "duplicates": 1,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebSearch returned mostly stale tag/listing pages. Read via sub-agent: Telangana Today local-body poll delay (15:13, published), TT HYDRAA HC (11:00, already seen), TT/IANS CII drums (13:06, duplicate of summit-start story), Gulte Kia $2bn (13:57, late-found), Hans 1141334 coffee/chocolate (10:50, late-found), Siasat Hyderabad listing (all already seen). Bloomberg Naidu-Google robots refused; Siasat Telangana listing fetch permission timeout. Eenadu, Sakshi, NT, TV9, V6, NTV, The Hindu, PTI, Reuters/AP not surfaced; no international-topic items found. Districts searched: Medak, Sangareddy, Siddipet, Mahabubnagar, Gadwal, Wanaparthy, Guntur, NTR, Nellore, Srikakulam, Vizianagaram, Kakinada."
   }
  ],
  "seen": [
@@ -4850,6 +4863,26 @@
    "url": "https://www.indiatvnews.com/sports/football/wesley-sneijder-slams-jorge-jesus-for-mistreating-cristiano-ronaldo-after-latter-s-international-retirement-2026-11-12-1059253",
    "d": "12.11.2026",
    "w": "review"
+  },
+  {
+   "url": "https://telanganatoday.com/telangana-local-body-poll-delay-puts-central-grants-worth-crores-at-risk",
+   "d": "12.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.gulte.com/political-news/441375/day-1-cii-partnership-summit-bumper-hit-kia-to-invest-2-bn-in-ap",
+   "d": "12.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/coffee-meets-chocolate-at-cii-summit-cm-chandrababu-explores-investment-opportunities-with-uae-minister-1141334",
+   "d": "12.11.2026",
+   "w": "15:35"
+  },
+  {
+   "url": "https://telanganatoday.com/chandrababu-naidu-pawan-kalyan-piyush-goyal-play-drums-at-visakhapatnam-summit",
+   "d": "12.11.2026",
+   "w": "15:35"
   }
  ]
 }
