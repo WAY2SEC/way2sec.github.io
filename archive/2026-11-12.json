@@ -1,8 +1,207 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 97,
+ "count": 101,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఐటీ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "1,000",
+   "statl": "భవిష్యత్తులో మార్స్ ఉద్యోగులు",
+   "h": "హైదరాబాద్‌లో మార్స్ గ్లోబల్ కెపాబిలిటీ సెంటర్ ప్రారంభం",
+   "p": "స్నికర్స్, ఎం&ఎంస్, పెడిగ్రీ వంటి బ్రాండ్ల సంస్థ మార్స్ జెన్‌ప్యాక్ట్ భాగస్వామ్యంతో హైదరాబాద్‌లో గ్లోబల్ కెపాబిలిటీ సెంటర్ (జీసీసీ) ఏర్పాటు చేసింది. ఐటీ, పరిశ్రమల మంత్రి డి. శ్రీధర్ బాబు గురువారం దీనిని ప్రారంభించారు. 60 వేల చదరపు అడుగుల ఈ కేంద్రం 400 మందికి పైగా జెన్‌ప్యాక్ట్ ఉద్యోగులతో మొదలై, రాబోయే ఏళ్లలో 1,000 మంది మార్స్ ఉద్యోగులకు పెరగనుందని సియాసత్ తెలిపింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/mars-collaborates-with-genpact-opens-gcc-in-hyderabad-3575572/",
+   "sec": [
+    "telangana",
+    "jobs",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మంత్రి శ్రీధర్ బాబు చేతుల మీదుగా ప్రారంభం",
+    "60 వేల చ.అడుగుల్లో కేంద్రం, 400+ మందితో మొదలు",
+    "ఏఐ, క్లౌడ్, డేటా అనలిటిక్స్ రంగాల్లో పనులు"
+   ],
+   "why": "హైదరాబాద్‌లో టెక్నాలజీ రంగ యువతకు కొత్త ఉద్యోగ అవకాశాలు వస్తాయి.",
+   "pub": "2026-11-12T18:35+05:30",
+   "en": {
+    "h": "Mars opens Global Capability Centre in Hyderabad",
+    "p": "Mars, the company behind brands like Snickers, M&M's and Pedigree, has set up a Global Capability Centre (GCC) in Hyderabad in collaboration with Genpact. IT and Industries Minister D. Sridhar Babu inaugurated it on Thursday. The 60,000 sq ft centre starts with over 400 Genpact staff and will grow to 1,000 Mars associates in the coming years, Siasat reported.",
+    "pts": [
+     "Inaugurated by Minister Sridhar Babu",
+     "60,000 sq ft centre, starts with 400+ staff",
+     "Work in AI, cloud, data analytics"
+    ],
+    "why": "It brings new job opportunities for tech youth in Hyderabad.",
+    "cat": "Hyderabad · IT",
+    "statl": "Mars associates planned"
+   },
+   "hi": {
+    "h": "हैदराबाद में मार्स का ग्लोबल कैपेबिलिटी सेंटर शुरू",
+    "p": "स्निकर्स, एम एंड एम्स, पेडिग्री जैसे ब्रांड वाली कंपनी मार्स ने जेनपैक्ट के साथ मिलकर हैदराबाद में ग्लोबल कैपेबिलिटी सेंटर (जीसीसी) स्थापित किया है। आईटी व उद्योग मंत्री डी. श्रीधर बाबू ने गुरुवार को इसका उद्घाटन किया। सियासत के अनुसार 60,000 वर्ग फुट का यह केंद्र 400 से अधिक जेनपैक्ट कर्मचारियों से शुरू होकर आने वाले वर्षों में 1,000 मार्स कर्मचारियों तक बढ़ेगा।",
+    "pts": [
+     "मंत्री श्रीधर बाबू ने किया उद्घाटन",
+     "60,000 वर्ग फुट, 400+ कर्मचारियों से शुरुआत",
+     "एआई, क्लाउड, डेटा एनालिटिक्स में काम"
+    ],
+    "why": "इससे हैदराबाद के तकनीकी युवाओं को नए रोजगार अवसर मिलेंगे।",
+    "cat": "हैदराबाद · आईटी",
+    "statl": "भविष्य में मार्स कर्मचारी"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "తెలంగాణ · కోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "2021",
+   "statl": "కోవిడ్ నిబంధనల కేసు నమోదైన ఏడాది",
+   "h": "పాత కేసులో నాంపల్లి కోర్టుకు హాజరైన సీఎం రేవంత్ రెడ్డి",
+   "p": "గత ప్రభుత్వ హయాంలో నమోదైన కేసుల్లో ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డి గురువారం నాంపల్లిలోని ప్రజాప్రతినిధుల కోర్టుకు హాజరయ్యారు. 2021 నాగార్జునసాగర్ ఉపఎన్నిక ప్రచారంలో నల్గొండ జిల్లా చలకుర్తిలో కోవిడ్ నిబంధనలు ఉల్లంఘించారన్న ఆరోపణపై ఈ కేసు నమోదైంది. కోర్టు ఆయన వాంగ్మూలాన్ని నమోదు చేసిందని ఐఏఎన్ఎస్ కథనం పేర్కొంది.",
+   "src": "IANS (Punjab Kesari)",
+   "url": "https://english.punjabkesari.com/india/telangana-cm-appears-before-court-in-an-old-case",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నాంపల్లి",
+   "pts": [
+    "మాస్క్ ధరించలేదన్నది ప్రధాన ఆరోపణ",
+    "సెక్షన్ 313 కింద వాంగ్మూలం నమోదు",
+    "ఫిబ్రవరి 28న ఏడు కేసుల్లో హాజరయ్యారు"
+   ],
+   "why": "ముఖ్యమంత్రిపై ఉన్న పాత కేసుల విచారణ ఎంతవరకు వచ్చిందో ఇది తెలియజేస్తుంది.",
+   "pub": "2026-11-12T17:31+05:30",
+   "en": {
+    "h": "CM Revanth Reddy appears before Nampally court in old case",
+    "p": "Chief Minister A. Revanth Reddy appeared on Thursday before the Public Representatives Court in Nampally in cases registered during the previous government. One case alleges he violated COVID-19 rules at Chalakurthi in Nalgonda district during the 2021 Nagarjuna Sagar by-election campaign. The court recorded his statement, an IANS report said.",
+    "pts": [
+     "Main allegation: not wearing a mask",
+     "Statement recorded under Section 313",
+     "Had appeared in seven cases on February 28"
+    ],
+    "why": "It shows where the trial of old cases against the Chief Minister stands.",
+    "cat": "Telangana · Court",
+    "statl": "Year COVID-rules case was filed"
+   },
+   "hi": {
+    "h": "पुराने मामले में नामपल्ली कोर्ट में पेश हुए सीएम रेवंत रेड्डी",
+    "p": "मुख्यमंत्री ए. रेवंत रेड्डी पिछली सरकार के समय दर्ज मामलों में गुरुवार को नामपल्ली स्थित जनप्रतिनिधि अदालत में पेश हुए। एक मामले में आरोप है कि उन्होंने 2021 नागार्जुनसागर उपचुनाव प्रचार के दौरान नलगोंडा जिले के चलकुर्ती में कोविड नियमों का उल्लंघन किया। आईएएनएस की रिपोर्ट के अनुसार अदालत ने उनका बयान दर्ज किया।",
+    "pts": [
+     "मुख्य आरोप: मास्क नहीं पहना",
+     "धारा 313 के तहत बयान दर्ज",
+     "28 फरवरी को सात मामलों में पेश हुए थे"
+    ],
+    "why": "इससे पता चलता है कि मुख्यमंत्री पर पुराने मामलों की सुनवाई कहां तक पहुंची।",
+    "cat": "तेलंगाना · अदालत",
+    "statl": "कोविड नियम मामला दर्ज होने का वर्ष"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కరీంనగర్ · పౌర సమస్య",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "6",
+   "statl": "పొగతో ఇబ్బంది పడుతున్న ప్రాంతాలు",
+   "h": "కరీంనగర్ డంపింగ్ యార్డును వెంటనే తరలించాలి: సీపీఎం డిమాండ్",
+   "p": "కరీంనగర్‌లోని డంపింగ్ యార్డును వెంటనే తరలించి శాశ్వత పరిష్కారం చూపాలని సీపీఎం నగర కార్యదర్శి గుడికందుల సత్యం డిమాండ్ చేశారు. ఏటా యార్డు కాలి వచ్చే పొగతో అల్కాపురి కాలనీ, అలుగునూర్, హౌసింగ్ బోర్డు తదితర ప్రాంతాల ప్రజలు శ్వాసకోశ సమస్యలు ఎదుర్కొంటున్నారని ఆయన అన్నారు. తరలింపును బీజేపీయే అడ్డుకుంటోందని ఆయన ఆరోపించారని హెచ్ఎంటీవీ తెలిపింది.",
+   "src": "HMTV",
+   "url": "https://hmtvlive.com/telugu-news/karimnagar/karimnagar-dumping-yard-relocation-demand-cpm-gudikandula-satyam-slams-211980",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "వర్షాకాలంలో దుర్వాసనతో స్థానికుల ఇబ్బంది",
+    "కొందరు అడ్డుకుంటున్నారన్న బండి సంజయ్ వ్యాఖ్యపై స్పందన",
+    "తరలించకుంటే ఉద్యమం చేస్తామని హెచ్చరిక"
+   ],
+   "why": "డంపింగ్ యార్డు సమీప కాలనీల ప్రజల ఆరోగ్యానికి సంబంధించిన సమస్య ఇది.",
+   "pub": "2026-11-12T15:46+05:30",
+   "en": {
+    "h": "Relocate Karimnagar dumping yard immediately, demands CPM",
+    "p": "CPM city secretary Gudikandula Satyam demanded that the dumping yard in Karimnagar be relocated immediately for a permanent solution. He said smoke from the yard, which catches fire every year, causes breathing problems for residents of Alkapuri Colony, Alugunur, Housing Board and other areas. He alleged that the BJP itself was blocking the relocation, HMTV reported.",
+    "pts": [
+     "Residents also face foul smell in the rainy season",
+     "Responded to Bandi Sanjay's remark that some are obstructing",
+     "Warned of agitation if it is not moved"
+    ],
+    "why": "It is a health issue for people living in colonies near the dumping yard.",
+    "cat": "Karimnagar · Civic",
+    "statl": "Areas affected by smoke"
+   },
+   "hi": {
+    "h": "करीमनगर डंपिंग यार्ड तुरंत हटाया जाए: सीपीएम की मांग",
+    "p": "सीपीएम नगर सचिव गुडिकंदुला सत्यम ने करीमनगर के डंपिंग यार्ड को तुरंत स्थानांतरित कर स्थायी समाधान की मांग की। उन्होंने कहा कि हर साल यार्ड में आग लगने से उठने वाले धुएं से अलकापुरी कॉलोनी, अलुगुनूर, हाउसिंग बोर्ड समेत कई इलाकों के लोगों को सांस की तकलीफ होती है। एचएमटीवी के अनुसार उन्होंने आरोप लगाया कि भाजपा ही स्थानांतरण रोक रही है।",
+    "pts": [
+     "बारिश में दुर्गंध से भी परेशान हैं लोग",
+     "कुछ लोग रोक रहे हैं वाले बंडी संजय के बयान पर जवाब",
+     "न हटाने पर आंदोलन की चेतावनी"
+    ],
+    "why": "यह डंपिंग यार्ड के पास की कॉलोनियों के लोगों के स्वास्थ्य से जुड़ा मुद्दा है।",
+    "cat": "करीमनगर · नागरिक समस्या",
+    "statl": "धुएं से प्रभावित इलाके"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "8+8",
+   "statl": "రాష్ట్రంలో బీజేపీ ఎమ్మెల్యేలు, ఎంపీలు",
+   "h": "ఎన్నికల సంఘం పనితీరుపై సుప్రీం విచారణ కోరిన కేటీఆర్; బీజేపీ కౌంటర్",
+   "p": "ఎన్నికల సంఘం పనితీరుపై సుప్రీంకోర్టు విచారణ జరపాలని బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీ రామారావు డిమాండ్ చేశారు. బుధవారం నిర్మల్ రైతు గర్జన సభలో మాట్లాడుతూ, ఈసీని సమర్థించేందుకు బీజేపీ నిర్మల్‌లో ర్యాలీ ఎందుకు చేస్తోందని ప్రశ్నించారు. కేటీఆర్, కాంగ్రెస్ ఒక్కటేనని, భయంతోనే బీజేపీ ప్రజాప్రతినిధులను లక్ష్యంగా చేసుకుంటున్నారని బీజేపీ రాష్ట్ర అధ్యక్షుడు రామచందర్ రావు పీటీఐతో అన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/ktr-seeks-sc-probe-into-ec-functioning-bjp-calls-it-fear-3575310/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "pts": [
+    "నిర్మల్ రైతు గర్జన సభలో కేటీఆర్ వ్యాఖ్యలు",
+    "బీజేపీ ఎమ్మెల్యే ఏలేటి మహేశ్వర్ రెడ్డిపై విమర్శలు",
+    "కేటీఆర్ ఆరోపణలు భయంతోనేనన్న బీజేపీ"
+   ],
+   "why": "ఎన్నికల సంఘం విశ్వసనీయతపై రాష్ట్ర రాజకీయ పార్టీల మధ్య వాదనలు ఇవి.",
+   "pub": "2026-11-12T15:43+05:30",
+   "en": {
+    "h": "KTR seeks Supreme Court probe into EC functioning; BJP hits back",
+    "p": "BRS working president K.T. Rama Rao demanded a Supreme Court inquiry into the Election Commission's functioning. Speaking at the Nirmal Rythu Garjana meeting on Wednesday, he asked why the BJP was holding a rally in Nirmal to defend the EC. BJP state president Ramchander Rao told PTI that KTR and the Congress were the same and that the BRS was targeting BJP legislators out of fear.",
+    "pts": [
+     "KTR spoke at Nirmal Rythu Garjana meeting",
+     "Criticised BJP MLA Alleti Maheshwar Reddy",
+     "BJP says KTR's charges come from fear"
+    ],
+    "why": "These are rival party claims over the Election Commission's credibility.",
+    "cat": "Telangana · Politics",
+    "statl": "BJP MLAs and MPs in the state"
+   },
+   "hi": {
+    "h": "केटीआर ने चुनाव आयोग की कार्यप्रणाली की सुप्रीम कोर्ट जांच मांगी; भाजपा का पलटवार",
+    "p": "बीआरएस कार्यकारी अध्यक्ष के.टी. रामाराव ने चुनाव आयोग की कार्यप्रणाली की सुप्रीम कोर्ट से जांच की मांग की। बुधवार को निर्मल रैतु गर्जना सभा में उन्होंने पूछा कि भाजपा ईसी के बचाव में निर्मल में रैली क्यों कर रही है। भाजपा प्रदेश अध्यक्ष रामचंदर राव ने पीटीआई से कहा कि केटीआर और कांग्रेस एक ही हैं और बीआरएस डर से भाजपा विधायकों को निशाना बना रही है।",
+    "pts": [
+     "निर्मल रैतु गर्जना सभा में केटीआर का भाषण",
+     "भाजपा विधायक अलेटी महेश्वर रेड्डी की आलोचना",
+     "भाजपा ने कहा, आरोप डर से लगाए जा रहे"
+    ],
+    "why": "ये चुनाव आयोग की विश्वसनीयता पर दलों के बीच परस्पर दावे हैं।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "राज्य में भाजपा विधायक व सांसद"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
   {
    "cat": "కొత్తగూడెం · అటవీ",
    "col": "--c-gov",

@@ -1,8 +1,207 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T18:13:38+05:30",
+ "updated": "2026-11-12T19:14:52+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · ఐటీ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "1,000",
+   "statl": "భవిష్యత్తులో మార్స్ ఉద్యోగులు",
+   "h": "హైదరాబాద్‌లో మార్స్ గ్లోబల్ కెపాబిలిటీ సెంటర్ ప్రారంభం",
+   "p": "స్నికర్స్, ఎం&ఎంస్, పెడిగ్రీ వంటి బ్రాండ్ల సంస్థ మార్స్ జెన్‌ప్యాక్ట్ భాగస్వామ్యంతో హైదరాబాద్‌లో గ్లోబల్ కెపాబిలిటీ సెంటర్ (జీసీసీ) ఏర్పాటు చేసింది. ఐటీ, పరిశ్రమల మంత్రి డి. శ్రీధర్ బాబు గురువారం దీనిని ప్రారంభించారు. 60 వేల చదరపు అడుగుల ఈ కేంద్రం 400 మందికి పైగా జెన్‌ప్యాక్ట్ ఉద్యోగులతో మొదలై, రాబోయే ఏళ్లలో 1,000 మంది మార్స్ ఉద్యోగులకు పెరగనుందని సియాసత్ తెలిపింది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/mars-collaborates-with-genpact-opens-gcc-in-hyderabad-3575572/",
+   "sec": [
+    "telangana",
+    "jobs",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "మంత్రి శ్రీధర్ బాబు చేతుల మీదుగా ప్రారంభం",
+    "60 వేల చ.అడుగుల్లో కేంద్రం, 400+ మందితో మొదలు",
+    "ఏఐ, క్లౌడ్, డేటా అనలిటిక్స్ రంగాల్లో పనులు"
+   ],
+   "why": "హైదరాబాద్‌లో టెక్నాలజీ రంగ యువతకు కొత్త ఉద్యోగ అవకాశాలు వస్తాయి.",
+   "pub": "2026-11-12T18:35+05:30",
+   "en": {
+    "h": "Mars opens Global Capability Centre in Hyderabad",
+    "p": "Mars, the company behind brands like Snickers, M&M's and Pedigree, has set up a Global Capability Centre (GCC) in Hyderabad in collaboration with Genpact. IT and Industries Minister D. Sridhar Babu inaugurated it on Thursday. The 60,000 sq ft centre starts with over 400 Genpact staff and will grow to 1,000 Mars associates in the coming years, Siasat reported.",
+    "pts": [
+     "Inaugurated by Minister Sridhar Babu",
+     "60,000 sq ft centre, starts with 400+ staff",
+     "Work in AI, cloud, data analytics"
+    ],
+    "why": "It brings new job opportunities for tech youth in Hyderabad.",
+    "cat": "Hyderabad · IT",
+    "statl": "Mars associates planned"
+   },
+   "hi": {
+    "h": "हैदराबाद में मार्स का ग्लोबल कैपेबिलिटी सेंटर शुरू",
+    "p": "स्निकर्स, एम एंड एम्स, पेडिग्री जैसे ब्रांड वाली कंपनी मार्स ने जेनपैक्ट के साथ मिलकर हैदराबाद में ग्लोबल कैपेबिलिटी सेंटर (जीसीसी) स्थापित किया है। आईटी व उद्योग मंत्री डी. श्रीधर बाबू ने गुरुवार को इसका उद्घाटन किया। सियासत के अनुसार 60,000 वर्ग फुट का यह केंद्र 400 से अधिक जेनपैक्ट कर्मचारियों से शुरू होकर आने वाले वर्षों में 1,000 मार्स कर्मचारियों तक बढ़ेगा।",
+    "pts": [
+     "मंत्री श्रीधर बाबू ने किया उद्घाटन",
+     "60,000 वर्ग फुट, 400+ कर्मचारियों से शुरुआत",
+     "एआई, क्लाउड, डेटा एनालिटिक्स में काम"
+    ],
+    "why": "इससे हैदराबाद के तकनीकी युवाओं को नए रोजगार अवसर मिलेंगे।",
+    "cat": "हैदराबाद · आईटी",
+    "statl": "भविष्य में मार्स कर्मचारी"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "తెలంగాణ · కోర్టు",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "2021",
+   "statl": "కోవిడ్ నిబంధనల కేసు నమోదైన ఏడాది",
+   "h": "పాత కేసులో నాంపల్లి కోర్టుకు హాజరైన సీఎం రేవంత్ రెడ్డి",
+   "p": "గత ప్రభుత్వ హయాంలో నమోదైన కేసుల్లో ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డి గురువారం నాంపల్లిలోని ప్రజాప్రతినిధుల కోర్టుకు హాజరయ్యారు. 2021 నాగార్జునసాగర్ ఉపఎన్నిక ప్రచారంలో నల్గొండ జిల్లా చలకుర్తిలో కోవిడ్ నిబంధనలు ఉల్లంఘించారన్న ఆరోపణపై ఈ కేసు నమోదైంది. కోర్టు ఆయన వాంగ్మూలాన్ని నమోదు చేసిందని ఐఏఎన్ఎస్ కథనం పేర్కొంది.",
+   "src": "IANS (Punjab Kesari)",
+   "url": "https://english.punjabkesari.com/india/telangana-cm-appears-before-court-in-an-old-case",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "నాంపల్లి",
+   "pts": [
+    "మాస్క్ ధరించలేదన్నది ప్రధాన ఆరోపణ",
+    "సెక్షన్ 313 కింద వాంగ్మూలం నమోదు",
+    "ఫిబ్రవరి 28న ఏడు కేసుల్లో హాజరయ్యారు"
+   ],
+   "why": "ముఖ్యమంత్రిపై ఉన్న పాత కేసుల విచారణ ఎంతవరకు వచ్చిందో ఇది తెలియజేస్తుంది.",
+   "pub": "2026-11-12T17:31+05:30",
+   "en": {
+    "h": "CM Revanth Reddy appears before Nampally court in old case",
+    "p": "Chief Minister A. Revanth Reddy appeared on Thursday before the Public Representatives Court in Nampally in cases registered during the previous government. One case alleges he violated COVID-19 rules at Chalakurthi in Nalgonda district during the 2021 Nagarjuna Sagar by-election campaign. The court recorded his statement, an IANS report said.",
+    "pts": [
+     "Main allegation: not wearing a mask",
+     "Statement recorded under Section 313",
+     "Had appeared in seven cases on February 28"
+    ],
+    "why": "It shows where the trial of old cases against the Chief Minister stands.",
+    "cat": "Telangana · Court",
+    "statl": "Year COVID-rules case was filed"
+   },
+   "hi": {
+    "h": "पुराने मामले में नामपल्ली कोर्ट में पेश हुए सीएम रेवंत रेड्डी",
+    "p": "मुख्यमंत्री ए. रेवंत रेड्डी पिछली सरकार के समय दर्ज मामलों में गुरुवार को नामपल्ली स्थित जनप्रतिनिधि अदालत में पेश हुए। एक मामले में आरोप है कि उन्होंने 2021 नागार्जुनसागर उपचुनाव प्रचार के दौरान नलगोंडा जिले के चलकुर्ती में कोविड नियमों का उल्लंघन किया। आईएएनएस की रिपोर्ट के अनुसार अदालत ने उनका बयान दर्ज किया।",
+    "pts": [
+     "मुख्य आरोप: मास्क नहीं पहना",
+     "धारा 313 के तहत बयान दर्ज",
+     "28 फरवरी को सात मामलों में पेश हुए थे"
+    ],
+    "why": "इससे पता चलता है कि मुख्यमंत्री पर पुराने मामलों की सुनवाई कहां तक पहुंची।",
+    "cat": "तेलंगाना · अदालत",
+    "statl": "कोविड नियम मामला दर्ज होने का वर्ष"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "కరీంనగర్ · పౌర సమస్య",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "6",
+   "statl": "పొగతో ఇబ్బంది పడుతున్న ప్రాంతాలు",
+   "h": "కరీంనగర్ డంపింగ్ యార్డును వెంటనే తరలించాలి: సీపీఎం డిమాండ్",
+   "p": "కరీంనగర్‌లోని డంపింగ్ యార్డును వెంటనే తరలించి శాశ్వత పరిష్కారం చూపాలని సీపీఎం నగర కార్యదర్శి గుడికందుల సత్యం డిమాండ్ చేశారు. ఏటా యార్డు కాలి వచ్చే పొగతో అల్కాపురి కాలనీ, అలుగునూర్, హౌసింగ్ బోర్డు తదితర ప్రాంతాల ప్రజలు శ్వాసకోశ సమస్యలు ఎదుర్కొంటున్నారని ఆయన అన్నారు. తరలింపును బీజేపీయే అడ్డుకుంటోందని ఆయన ఆరోపించారని హెచ్ఎంటీవీ తెలిపింది.",
+   "src": "HMTV",
+   "url": "https://hmtvlive.com/telugu-news/karimnagar/karimnagar-dumping-yard-relocation-demand-cpm-gudikandula-satyam-slams-211980",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "వర్షాకాలంలో దుర్వాసనతో స్థానికుల ఇబ్బంది",
+    "కొందరు అడ్డుకుంటున్నారన్న బండి సంజయ్ వ్యాఖ్యపై స్పందన",
+    "తరలించకుంటే ఉద్యమం చేస్తామని హెచ్చరిక"
+   ],
+   "why": "డంపింగ్ యార్డు సమీప కాలనీల ప్రజల ఆరోగ్యానికి సంబంధించిన సమస్య ఇది.",
+   "pub": "2026-11-12T15:46+05:30",
+   "en": {
+    "h": "Relocate Karimnagar dumping yard immediately, demands CPM",
+    "p": "CPM city secretary Gudikandula Satyam demanded that the dumping yard in Karimnagar be relocated immediately for a permanent solution. He said smoke from the yard, which catches fire every year, causes breathing problems for residents of Alkapuri Colony, Alugunur, Housing Board and other areas. He alleged that the BJP itself was blocking the relocation, HMTV reported.",
+    "pts": [
+     "Residents also face foul smell in the rainy season",
+     "Responded to Bandi Sanjay's remark that some are obstructing",
+     "Warned of agitation if it is not moved"
+    ],
+    "why": "It is a health issue for people living in colonies near the dumping yard.",
+    "cat": "Karimnagar · Civic",
+    "statl": "Areas affected by smoke"
+   },
+   "hi": {
+    "h": "करीमनगर डंपिंग यार्ड तुरंत हटाया जाए: सीपीएम की मांग",
+    "p": "सीपीएम नगर सचिव गुडिकंदुला सत्यम ने करीमनगर के डंपिंग यार्ड को तुरंत स्थानांतरित कर स्थायी समाधान की मांग की। उन्होंने कहा कि हर साल यार्ड में आग लगने से उठने वाले धुएं से अलकापुरी कॉलोनी, अलुगुनूर, हाउसिंग बोर्ड समेत कई इलाकों के लोगों को सांस की तकलीफ होती है। एचएमटीवी के अनुसार उन्होंने आरोप लगाया कि भाजपा ही स्थानांतरण रोक रही है।",
+    "pts": [
+     "बारिश में दुर्गंध से भी परेशान हैं लोग",
+     "कुछ लोग रोक रहे हैं वाले बंडी संजय के बयान पर जवाब",
+     "न हटाने पर आंदोलन की चेतावनी"
+    ],
+    "why": "यह डंपिंग यार्ड के पास की कॉलोनियों के लोगों के स्वास्थ्य से जुड़ा मुद्दा है।",
+    "cat": "करीमनगर · नागरिक समस्या",
+    "statl": "धुएं से प्रभावित इलाके"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
+  {
+   "cat": "తెలంగాణ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "8+8",
+   "statl": "రాష్ట్రంలో బీజేపీ ఎమ్మెల్యేలు, ఎంపీలు",
+   "h": "ఎన్నికల సంఘం పనితీరుపై సుప్రీం విచారణ కోరిన కేటీఆర్; బీజేపీ కౌంటర్",
+   "p": "ఎన్నికల సంఘం పనితీరుపై సుప్రీంకోర్టు విచారణ జరపాలని బీఆర్ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీ రామారావు డిమాండ్ చేశారు. బుధవారం నిర్మల్ రైతు గర్జన సభలో మాట్లాడుతూ, ఈసీని సమర్థించేందుకు బీజేపీ నిర్మల్‌లో ర్యాలీ ఎందుకు చేస్తోందని ప్రశ్నించారు. కేటీఆర్, కాంగ్రెస్ ఒక్కటేనని, భయంతోనే బీజేపీ ప్రజాప్రతినిధులను లక్ష్యంగా చేసుకుంటున్నారని బీజేపీ రాష్ట్ర అధ్యక్షుడు రామచందర్ రావు పీటీఐతో అన్నారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/ktr-seeks-sc-probe-into-ec-functioning-bjp-calls-it-fear-3575310/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "pts": [
+    "నిర్మల్ రైతు గర్జన సభలో కేటీఆర్ వ్యాఖ్యలు",
+    "బీజేపీ ఎమ్మెల్యే ఏలేటి మహేశ్వర్ రెడ్డిపై విమర్శలు",
+    "కేటీఆర్ ఆరోపణలు భయంతోనేనన్న బీజేపీ"
+   ],
+   "why": "ఎన్నికల సంఘం విశ్వసనీయతపై రాష్ట్ర రాజకీయ పార్టీల మధ్య వాదనలు ఇవి.",
+   "pub": "2026-11-12T15:43+05:30",
+   "en": {
+    "h": "KTR seeks Supreme Court probe into EC functioning; BJP hits back",
+    "p": "BRS working president K.T. Rama Rao demanded a Supreme Court inquiry into the Election Commission's functioning. Speaking at the Nirmal Rythu Garjana meeting on Wednesday, he asked why the BJP was holding a rally in Nirmal to defend the EC. BJP state president Ramchander Rao told PTI that KTR and the Congress were the same and that the BRS was targeting BJP legislators out of fear.",
+    "pts": [
+     "KTR spoke at Nirmal Rythu Garjana meeting",
+     "Criticised BJP MLA Alleti Maheshwar Reddy",
+     "BJP says KTR's charges come from fear"
+    ],
+    "why": "These are rival party claims over the Election Commission's credibility.",
+    "cat": "Telangana · Politics",
+    "statl": "BJP MLAs and MPs in the state"
+   },
+   "hi": {
+    "h": "केटीआर ने चुनाव आयोग की कार्यप्रणाली की सुप्रीम कोर्ट जांच मांगी; भाजपा का पलटवार",
+    "p": "बीआरएस कार्यकारी अध्यक्ष के.टी. रामाराव ने चुनाव आयोग की कार्यप्रणाली की सुप्रीम कोर्ट से जांच की मांग की। बुधवार को निर्मल रैतु गर्जना सभा में उन्होंने पूछा कि भाजपा ईसी के बचाव में निर्मल में रैली क्यों कर रही है। भाजपा प्रदेश अध्यक्ष रामचंदर राव ने पीटीआई से कहा कि केटीआर और कांग्रेस एक ही हैं और बीआरएस डर से भाजपा विधायकों को निशाना बना रही है।",
+    "pts": [
+     "निर्मल रैतु गर्जना सभा में केटीआर का भाषण",
+     "भाजपा विधायक अलेटी महेश्वर रेड्डी की आलोचना",
+     "भाजपा ने कहा, आरोप डर से लगाए जा रहे"
+    ],
+    "why": "ये चुनाव आयोग की विश्वसनीयता पर दलों के बीच परस्पर दावे हैं।",
+    "cat": "तेलंगाना · राजनीति",
+    "statl": "राज्य में भाजपा विधायक व सांसद"
+   },
+   "d": "12.11.2026",
+   "t": "19:05"
+  },
   {
    "cat": "కొత్తగూడెం · అటవీ",
    "col": "--c-gov",
@@ -2200,308 +2399,6 @@
    },
    "d": "12.11.2026",
    "t": "13:05"
-  },
-  {
-   "cat": "భారత్ · మార్కెట్లు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "82,013",
-   "statl": "ఉదయం ట్రేడింగ్‌లో సెన్సెక్స్",
-   "h": "ఉదయం ట్రేడింగ్‌లో లాభాల్లో సెన్సెక్స్, నిఫ్టీ; తగ్గిన ముడి చమురు ధర",
-   "p": "విదేశీ పెట్టుబడిదారుల కొనుగోళ్లు, ముడి చమురు ధర తగ్గడంతో గురువారం ఉదయం ట్రేడింగ్‌లో సెన్సెక్స్ 166.44 పాయింట్లు పెరిగి 82,013.58కి, నిఫ్టీ 55.65 పాయింట్లు పెరిగి 25,316.55కి చేరాయి. బుధవారం విదేశీ సంస్థాగత పెట్టుబడిదారులు రూ.12,563.33 కోట్ల షేర్లు కొన్నారు. బ్రెంట్ ముడి చమురు 1.12% తగ్గి బ్యారెల్ 91.75 డాలర్లకు చేరిందని పీటీఐని ఉటంకిస్తూ ఈటీవీ భారత్ పేర్కొంది.",
-   "pts": [
-    "సెన్సెక్స్ 166 పాయింట్లు, నిఫ్టీ 56 పాయింట్లు పెరుగుదల",
-    "బుధవారం విదేశీ సంస్థల కొనుగోళ్లు రూ.12,563 కోట్లు",
-    "నవంబర్‌లో ఇప్పటివరకు నిఫ్టీ 9.55% పెరుగుదల"
-   ],
-   "why": "మ్యూచువల్ ఫండ్లు, షేర్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై మార్కెట్ కదలికలు ప్రభావం చూపుతాయి.",
-   "src": "ETV Bharat (PTI)",
-   "url": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012",
-   "sec": [
-    "india",
-    "business"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pub": "2026-11-12T10:09+05:30",
-   "en": {
-    "h": "Sensex, Nifty gain in early trade; crude oil prices fall",
-    "p": "Helped by foreign investor buying and lower crude prices, the Sensex rose 166.44 points to 82,013.58 and the Nifty rose 55.65 points to 25,316.55 in early trade on Thursday. Foreign institutional investors bought shares worth Rs 12,563.33 crore on Wednesday. Brent crude fell 1.12% to 91.75 dollars a barrel, ETV Bharat reported, citing PTI.",
-    "pts": [
-     "Sensex up 166 points, Nifty up 56 points",
-     "FIIs bought Rs 12,563 crore on Wednesday",
-     "Nifty up 9.55% so far in November"
-    ],
-    "why": "Market moves affect the savings of people invested in mutual funds and shares.",
-    "cat": "India · Markets",
-    "statl": "Sensex in early trade"
-   },
-   "hi": {
-    "h": "शुरुआती कारोबार में सेंसेक्स, निफ्टी में बढ़त; कच्चा तेल सस्ता",
-    "p": "विदेशी निवेशकों की खरीदारी और कच्चे तेल की कम कीमतों से गुरुवार को शुरुआती कारोबार में सेंसेक्स 166.44 अंक बढ़कर 82,013.58 और निफ्टी 55.65 अंक बढ़कर 25,316.55 पर पहुंचा। विदेशी संस्थागत निवेशकों ने बुधवार को 12,563.33 करोड़ रुपये के शेयर खरीदे। पीटीआई के हवाले से ईटीवी भारत के अनुसार ब्रेंट कच्चा तेल 1.12% गिरकर 91.75 डॉलर प्रति बैरल रहा।",
-    "pts": [
-     "सेंसेक्स 166 अंक, निफ्टी 56 अंक ऊपर",
-     "बुधवार को एफआईआई ने 12,563 करोड़ के शेयर खरीदे",
-     "नवंबर में अब तक निफ्टी 9.55% ऊपर"
-    ],
-    "why": "बाजार की चाल म्यूचुअल फंड और शेयरों में निवेश करने वालों की बचत पर असर डालती है।",
-    "cat": "भारत · बाजार",
-    "statl": "शुरुआती कारोबार में सेंसेक्स"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · ఇంధన ధరలు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "₹115.69",
-   "statl": "హైదరాబాద్‌లో లీటర్ పెట్రోల్",
-   "h": "హైదరాబాద్‌లో పెట్రోల్ లీటర్ ₹115.69, డీజిల్ ₹103.82; ధరలు స్థిరం",
-   "p": "నవంబర్ 12న పెట్రోల్, డీజిల్ ధరలు స్థిరంగా ఉన్నాయని ది హన్స్ ఇండియా పేర్కొంది. హైదరాబాద్‌లో లీటర్ పెట్రోల్ రూ.115.69, డీజిల్ రూ.103.82గా ఉంది. ఢిల్లీలో పెట్రోల్ రూ.102.12, డీజిల్ రూ.95.20; ముంబైలో పెట్రోల్ రూ.111.21, డీజిల్ రూ.97.83; బెంగళూరులో పెట్రోల్ రూ.110.82, డీజిల్ రూ.98.78గా ఉన్నాయి. ధరలు మారే అవకాశం ఉందని పత్రిక తెలిపింది.",
-   "pts": [
-    "హైదరాబాద్‌లో పెట్రోల్ రూ.115.69, డీజిల్ రూ.103.82",
-    "ఢిల్లీలో పెట్రోల్ రూ.102.12",
-    "ఇంధన ధరల్లో మార్పు లేదు"
-   ],
-   "why": "వాహనదారులు, రవాణా ఖర్చులు భరించే కుటుంబాలకు రోజువారీ ఇంధన ధరలు ముఖ్యం.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/business/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-12-november-2026-1141331",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-12T10:36+05:30",
-   "en": {
-    "h": "Hyderabad petrol at Rs 115.69 a litre, diesel Rs 103.82; prices stable",
-    "p": "Petrol and diesel prices were stable on November 12, The Hans India reported. In Hyderabad petrol costs Rs 115.69 a litre and diesel Rs 103.82. In Delhi petrol is Rs 102.12 and diesel Rs 95.20; in Mumbai petrol Rs 111.21 and diesel Rs 97.83; and in Bengaluru petrol Rs 110.82 and diesel Rs 98.78. The paper said prices are subject to change.",
-    "pts": [
-     "Hyderabad: petrol Rs 115.69, diesel Rs 103.82",
-     "Delhi petrol at Rs 102.12",
-     "No change in fuel prices"
-    ],
-    "why": "Daily fuel prices matter to vehicle owners and families who bear transport costs.",
-    "cat": "Hyderabad · Fuel Prices",
-    "statl": "Petrol per litre in Hyderabad"
-   },
-   "hi": {
-    "h": "हैदराबाद में पेट्रोल 115.69 रुपये, डीजल 103.82 रुपये लीटर; दाम स्थिर",
-    "p": "द हंस इंडिया के अनुसार 12 नवंबर को पेट्रोल और डीजल के दाम स्थिर रहे। हैदराबाद में पेट्रोल 115.69 रुपये और डीजल 103.82 रुपये प्रति लीटर है। दिल्ली में पेट्रोल 102.12 और डीजल 95.20 रुपये, मुंबई में पेट्रोल 111.21 और डीजल 97.83 रुपये, तथा बेंगलुरु में पेट्रोल 110.82 और डीजल 98.78 रुपये है। अखबार ने कहा कि दाम बदल सकते हैं।",
-    "pts": [
-     "हैदराबाद: पेट्रोल 115.69, डीजल 103.82 रुपये",
-     "दिल्ली में पेट्रोल 102.12 रुपये",
-     "ईंधन के दाम में कोई बदलाव नहीं"
-    ],
-    "why": "रोज के ईंधन दाम वाहन मालिकों और परिवहन खर्च उठाने वाले परिवारों के लिए अहम हैं।",
-    "cat": "हैदराबाद · ईंधन दाम",
-    "statl": "हैदराबाद में पेट्रोल प्रति लीटर"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "ఏపీ · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "2,721",
-   "statl": "ఉపాధ్యాయ పోస్టులు",
-   "h": "ఏపీ డీఎస్సీ: 2,721 టీచర్ పోస్టులకు దరఖాస్తులు ప్రారంభం",
-   "p": "ఆంధ్రప్రదేశ్‌లో 2,721 ఉపాధ్యాయ ఖాళీల భర్తీకి డీఎస్సీ ఆన్‌లైన్ దరఖాస్తుల ప్రక్రియ మొదలైంది. నవంబర్ 30 వరకు దరఖాస్తు చేసుకోవచ్చు. సాధారణ పాఠశాలల్లో 2,111 ఎస్ఏ, ఎస్జీటీ పోస్టులు, ప్రత్యేక విద్యలో 350, సొసైటీలు, ఇతర యాజమాన్యాల్లో 260 పోస్టులు ఉన్నాయి. డిసెంబర్ 5న ప్రాక్టీస్ టెస్ట్, డిసెంబర్ 14 నుంచి హాల్ టికెట్లు, డిసెంబర్ 20 నుంచి జనవరి 13 వరకు ఆన్‌లైన్ పరీక్షలు జరుగుతాయని ది హన్స్ ఇండియా పేర్కొంది.",
-   "pts": [
-    "దరఖాస్తులకు చివరి తేదీ నవంబర్ 30",
-    "సాధారణ పాఠశాలల్లో 2,111 ఎస్ఏ, ఎస్జీటీ పోస్టులు",
-    "డిసెంబర్ 20 నుంచి జనవరి 13 వరకు పరీక్షలు"
-   ],
-   "why": "ఉపాధ్యాయ ఉద్యోగాల కోసం సిద్ధమవుతున్న ఏపీ అభ్యర్థులకు ఈ తేదీలు కీలకం.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/ap-dsc-recruitment-application-process-begins-to-fill-2721-teaching-positions-1141345",
-   "sec": [
-    "telangana",
-    "jobs",
-    "education"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-12T12:11+05:30",
-   "en": {
-    "h": "AP DSC: applications open for 2,721 teacher posts",
-    "p": "Online applications have begun for Andhra Pradesh's DSC recruitment to fill 2,721 teaching vacancies, with a deadline of November 30. There are 2,111 SA and SGT posts in general schools, 350 in special education and 260 in societies and other managements. The Hans India reports a practice test on December 5, hall tickets from December 14, and online exams from December 20 to January 13.",
-    "pts": [
-     "Last date to apply is November 30",
-     "2,111 SA and SGT posts in general schools",
-     "Exams from December 20 to January 13"
-    ],
-    "why": "These dates matter to AP candidates preparing for teaching jobs.",
-    "cat": "AP · Jobs",
-    "statl": "Teacher posts"
-   },
-   "hi": {
-    "h": "आंध्र डीएससी: 2,721 शिक्षक पदों के लिए आवेदन शुरू",
-    "p": "आंध्र प्रदेश में 2,721 शिक्षक रिक्तियों को भरने के लिए डीएससी की ऑनलाइन आवेदन प्रक्रिया शुरू हो गई है। आवेदन की अंतिम तिथि 30 नवंबर है। सामान्य स्कूलों में 2,111 एसए और एसजीटी पद, विशेष शिक्षा में 350 और सोसाइटियों व अन्य प्रबंधनों में 260 पद हैं। द हंस इंडिया के अनुसार 5 दिसंबर को प्रैक्टिस टेस्ट, 14 दिसंबर से हॉल टिकट और 20 दिसंबर से 13 जनवरी तक ऑनलाइन परीक्षाएं होंगी।",
-    "pts": [
-     "आवेदन की अंतिम तिथि 30 नवंबर",
-     "सामान्य स्कूलों में 2,111 एसए, एसजीटी पद",
-     "20 दिसंबर से 13 जनवरी तक परीक्षाएं"
-    ],
-    "why": "ये तारीखें शिक्षक नौकरी की तैयारी कर रहे आंध्र के उम्मीदवारों के लिए अहम हैं।",
-    "cat": "आंध्र प्रदेश · नौकरियां",
-    "statl": "शिक्षक पद"
-   },
-   "d": "12.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఏపీ · పెట్టుబడులు",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "తొలి రాష్ట్రం",
-   "statl": "పెట్టుబడిదారుల రక్షణ చట్టం లక్ష్యం",
-   "h": "పెట్టుబడిదారుల రక్షణ చట్టం తెచ్చే తొలి రాష్ట్రంగా ఏపీ: లోకేశ్",
-   "p": "పెట్టుబడిదారులకు భద్రత, నమ్మకం పెంచేందుకు ప్రత్యేక 'ఇన్వెస్టర్స్ ప్రొటెక్షన్ యాక్ట్' తీసుకొచ్చే దిశగా ఏపీ పనిచేస్తోందని మంత్రి నారా లోకేశ్ చెప్పారు. విశాఖపట్నంలో 31వ సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభ సమావేశంలో ఆయన మాట్లాడారు. విధాన అనుమతులకు సహకరించాలని, దేశవ్యాప్తంగా ఇలాంటి చట్రానికి మద్దతివ్వాలని కేంద్ర మంత్రి పీయూష్ గోయల్‌ను కోరారని ది హన్స్ ఇండియా పేర్కొంది.",
-   "pts": [
-    "సీఐఐ సదస్సు ప్రారంభ సమావేశంలో లోకేశ్ ప్రకటన",
-    "పెట్టుబడిదారుల కోసం ఇప్పటికే ఎస్క్రో ఖాతాలు",
-    "కేంద్ర మంత్రి గోయల్ సహకారం కోరిన లోకేశ్"
-   ],
-   "why": "ఈ చట్టం వస్తే ఏపీలో పెట్టుబడులు పెట్టే సంస్థలకు చట్టపరమైన రక్షణ లభిస్తుంది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/andhra-pradesh/andhra-pradesh-set-to-become-first-state-to-introduce-investors-protection-act-nara-lokesh-1141350",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pub": "2026-11-12T12:34+05:30",
-   "en": {
-    "h": "AP to be first state with Investors Protection Act: Lokesh",
-    "p": "Minister Nara Lokesh said Andhra Pradesh is working towards a dedicated 'Investors Protection Act' to strengthen investor security and confidence. He spoke at the inaugural session of the 31st CII Partnership Summit in Visakhapatnam. The Hans India reports he urged Union Minister Piyush Goyal to help with policy clearance and to support a similar framework nationally.",
-    "pts": [
-     "Lokesh announced it at the CII summit's opening",
-     "Escrow accounts for investors already in place",
-     "Lokesh sought Union Minister Goyal's support"
-    ],
-    "why": "If enacted, the law would give legal protection to companies investing in AP.",
-    "cat": "AP · Investment",
-    "statl": "Aims for investor protection law"
-   },
-   "hi": {
-    "h": "निवेशक संरक्षण कानून लाने वाला पहला राज्य बनेगा आंध्र: लोकेश",
-    "p": "मंत्री नारा लोकेश ने कहा कि आंध्र प्रदेश निवेशकों की सुरक्षा और भरोसा बढ़ाने के लिए एक विशेष 'निवेशक संरक्षण अधिनियम' लाने की दिशा में काम कर रहा है। वे विशाखापत्तनम में 31वें सीआईआई पार्टनरशिप समिट के उद्घाटन सत्र में बोल रहे थे। द हंस इंडिया के अनुसार उन्होंने केंद्रीय मंत्री पीयूष गोयल से नीतिगत मंजूरी में मदद और देशभर में ऐसे ढांचे का समर्थन करने का आग्रह किया।",
-    "pts": [
-     "सीआईआई समिट के उद्घाटन में लोकेश की घोषणा",
-     "निवेशकों के लिए पहले से एस्क्रो खाते",
-     "लोकेश ने केंद्रीय मंत्री गोयल से सहयोग मांगा"
-    ],
-    "why": "कानून बनने पर आंध्र में निवेश करने वाली कंपनियों को कानूनी सुरक्षा मिलेगी।",
-    "cat": "आंध्र प्रदेश · निवेश",
-    "statl": "निवेशक संरक्षण कानून का लक्ष्य"
-   },
-   "d": "12.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఆదిలాబాద్ · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "ఇంకుడు గుంతలు",
-   "statl": "భూగర్భ జలాల కోసం తప్పనిసరి",
-   "h": "నార్నూర్‌లో భూగర్భ జలాల పెంపుకు ఇంకుడు గుంతలు తప్పనిసరి: ఎంపీడీవో",
-   "p": "ఆదిలాబాద్ జిల్లా నార్నూర్ మండల పరిషత్ సమావేశ మందిరంలో గురువారం ఎంపీడీవో పుల్లారావు అధ్యక్షతన మండల స్థాయి సమావేశం జరిగింది. వర్షాభావ పరిస్థితులను ఎదుర్కొనేందుకు, భూగర్భ జలాలు పెంచేందుకు ఇంకుడు గుంతలు నిర్మించాలని ఆయన సూచించారు. ఎల్‌నినో వల్ల నీటిమట్టాలు తగ్గే అవకాశం ఉందని, నీటిని వృథా చేయవద్దని కోరారని నమస్తే తెలంగాణ పేర్కొంది.",
-   "pts": [
-    "ఎంపీడీవో పుల్లారావు అధ్యక్షతన మండల సమావేశం",
-    "ఎల్‌నినోతో నీటిమట్టాలు తగ్గే అవకాశం అని హెచ్చరిక",
-    "సమన్వయంతో సమస్యలు పరిష్కరించాలని పిలుపు"
-   ],
-   "why": "వర్షాభావం ఉన్న నార్నూర్ మండల ప్రజలకు, రైతులకు నీటి సంరక్షణ కీలకం.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/news/mpdo-pullarao-said-that-water-should-not-be-wasted-2558391",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "adilabad",
-   "loc": "నార్నూర్",
-   "pub": "2026-11-12T12:29+05:30",
-   "en": {
-    "h": "Percolation pits a must to raise groundwater in Narnoor: MPDO",
-    "p": "A mandal-level meeting chaired by MPDO Pullarao was held on Thursday at the Mandal Parishad hall in Narnoor, Adilabad district. He urged building percolation pits to raise groundwater and cope with rain-deficit conditions. Namasthe Telangana reports he warned that El Nino could lower water levels and asked people not to waste water.",
-    "pts": [
-     "Mandal meeting chaired by MPDO Pullarao",
-     "Warning that El Nino may lower water levels",
-     "Call to coordinate and solve problems together"
-    ],
-    "why": "Water conservation is crucial for people and farmers in rain-deficit Narnoor mandal.",
-    "cat": "Adilabad · Water",
-    "statl": "Must for groundwater"
-   },
-   "hi": {
-    "h": "नारनूर में भूजल बढ़ाने के लिए सोख्ता गड्ढे जरूरी: एमपीडीओ",
-    "p": "आदिलाबाद जिले के नारनूर मंडल परिषद सभागार में गुरुवार को एमपीडीओ पुल्लाराव की अध्यक्षता में मंडल स्तरीय बैठक हुई। उन्होंने कम बारिश की स्थिति से निपटने और भूजल बढ़ाने के लिए सोख्ता गड्ढे बनाने की सलाह दी। नमस्ते तेलंगाना के अनुसार उन्होंने कहा कि अल नीनो से जलस्तर घट सकता है और लोगों से पानी बर्बाद न करने की अपील की।",
-    "pts": [
-     "एमपीडीओ पुल्लाराव की अध्यक्षता में मंडल बैठक",
-     "अल नीनो से जलस्तर घटने की चेतावनी",
-     "मिलकर समस्याएं हल करने का आह्वान"
-    ],
-    "why": "कम बारिश वाले नारनूर मंडल के लोगों और किसानों के लिए जल संरक्षण अहम है।",
-    "cat": "आदिलाबाद · पानी",
-    "statl": "भूजल के लिए जरूरी"
-   },
-   "d": "12.11.2026",
-   "t": "12:35"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "141",
-   "statl": "ఒప్పందాలు కుదిరే అవకాశం",
-   "h": "విశాఖలో సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభం: 141 ఒప్పందాల అంచనా",
-   "p": "విశాఖపట్నంలోని ఆంధ్రా యూనివర్సిటీ ఇంజినీరింగ్ కళాశాలలో సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభమైంది. కేంద్ర మంత్రి పీయూష్ గోయల్ ముఖ్య అతిథిగా హాజరయ్యారు. సీఎం చంద్రబాబు, ఉప ముఖ్యమంత్రి పవన్ కల్యాణ్, మంత్రి లోకేశ్, పలు దేశాల ప్రతినిధులు పాల్గొన్నారు. ఏపీ ప్రభుత్వంతో 141 అవగాహన ఒప్పందాలు కుదిరే అవకాశం ఉందని, వీటితో ₹12.14 లక్షల కోట్ల పెట్టుబడులు, 2.46 లక్షల ఉద్యోగాలు రావచ్చని అంచనా అని ది హన్స్ ఇండియా పేర్కొంది.",
-   "pts": [
-    "ముఖ్య అతిథిగా కేంద్ర మంత్రి పీయూష్ గోయల్",
-    "141 ఒప్పందాలు, ₹12.14 లక్షల కోట్ల పెట్టుబడుల అంచనా",
-    "2.46 లక్షల ఉద్యోగాలు వస్తాయని అంచనా"
-   ],
-   "why": "అంచనా వేసిన పెట్టుబడులు, ఉద్యోగాలు ఏపీ యువతకు, పరిశ్రమలకు కీలకం.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/cii-summit-begins-in-visakhapatnam-union-minister-piyush-goyal-attends-as-chief-guest-1141333",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pub": "2026-11-12T10:43+05:30",
-   "en": {
-    "h": "CII Partnership Summit opens in Visakhapatnam; 141 MoUs expected",
-    "p": "The CII Partnership Summit began at Andhra University's College of Engineering in Visakhapatnam, with Union Minister Piyush Goyal as chief guest. CM Chandrababu Naidu, Deputy CM Pawan Kalyan, Minister Lokesh and delegates from several countries attended. The Hans India reports that 141 MoUs are expected to be signed with the AP government, projected to bring Rs 12.14 lakh crore in investment and 2.46 lakh jobs.",
-    "pts": [
-     "Union Minister Piyush Goyal is chief guest",
-     "141 MoUs, Rs 12.14 lakh crore investment projected",
-     "2.46 lakh jobs expected"
-    ],
-    "why": "The projected investment and jobs matter to AP's youth and industry.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "MoUs expected to be signed"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट शुरू; 141 समझौतों की उम्मीद",
-    "p": "विशाखापत्तनम में आंध्र विश्वविद्यालय के इंजीनियरिंग कॉलेज में सीआईआई पार्टनरशिप समिट शुरू हुआ। केंद्रीय मंत्री पीयूष गोयल मुख्य अतिथि रहे। मुख्यमंत्री चंद्रबाबू नायडू, उपमुख्यमंत्री पवन कल्याण, मंत्री लोकेश और कई देशों के प्रतिनिधि शामिल हुए। द हंस इंडिया के अनुसार, आंध्र प्रदेश सरकार के साथ 141 समझौते होने की उम्मीद है, जिनसे ₹12.14 लाख करोड़ निवेश और 2.46 लाख नौकरियों का अनुमान है।",
-    "pts": [
-     "केंद्रीय मंत्री पीयूष गोयल मुख्य अतिथि",
-     "141 समझौते, ₹12.14 लाख करोड़ निवेश का अनुमान",
-     "2.46 लाख नौकरियों की उम्मीद"
-    ],
-    "why": "अनुमानित निवेश और नौकरियां आंध्र के युवाओं और उद्योगों के लिए अहम हैं।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "समझौते होने की उम्मीद"
-   },
-   "d": "12.11.2026",
-   "t": "11:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
