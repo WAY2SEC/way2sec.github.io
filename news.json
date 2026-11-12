@@ -1,8 +1,210 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T20:46:45+05:30",
+ "updated": "2026-11-12T21:10:15+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "120→20 MGD",
+   "statl": "మంజీరా, సింగూరు నుంచి రోజువారీ నీటి సరఫరా",
+   "h": "జనవరి నుంచి మంజీరా నీటి కోత: సైబరాబాద్‌లో 3.5 లక్షల కనెక్షన్లపై ప్రభావం",
+   "p": "సింగూరు, మంజీరా జలాశయాల్లో నీటిమట్టం వేగంగా తగ్గడంతో జనవరి నుంచి అక్కడి నుంచి తీసుకునే నీటిని రోజుకు 120 ఎంజీడీ నుంచి 20 ఎంజీడీకి పరిమితం చేయాలని జలమండలి నిర్ణయించింది. దీంతో సైబరాబాద్ ఐటీ కారిడార్‌లో 3.5 లక్షలకు పైగా ఇళ్లు, వాణిజ్య కనెక్షన్లపై ప్రభావం పడవచ్చని తెలంగాణ టుడే కథనం. గచ్చిబౌలి, మాదాపూర్, కొండాపూర్, కూకట్‌పల్లి ప్రాంతాలు ప్రభావితం కావచ్చు. ట్యాంకర్లకు డిమాండ్ పెరిగే అవకాశం ఉంది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/over-3-5-lakh-taps-to-run-dry-in-cyberabad-as-hmwssb-halts-100-mgd-manjeera-supply-from-january",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సైబరాబాద్",
+   "pts": [
+    "మంజీరా, సింగూరు జలాశయాల్లో నీటిమట్టం వేగంగా తగ్గుదల",
+    "శేరిలింగంపల్లి, ఐటీ కారిడార్‌కు ఎక్కువ ముప్పు",
+    "స్విమ్మింగ్ పూల్స్, క్లబ్‌హౌస్‌లు మూసేసిన కాలనీ సంఘాలు"
+   ],
+   "why": "సైబరాబాద్ ఐటీ కారిడార్‌లోని లక్షల కుటుంబాలు, కంపెనీలు నీటి కొరత, ట్యాంకర్ ఖర్చుల భారం ఎదుర్కోవచ్చు.",
+   "pub": "2026-11-12T20:50+05:30",
+   "en": {
+    "h": "Manjeera water cut from January: 3.5 lakh Cyberabad connections hit",
+    "p": "With water levels in the Singur and Manjeera reservoirs falling sharply, HMWSSB has decided to limit drawals from them to 20 MGD a day from January, down from 120 MGD. Telangana Today reports this could affect over 3.5 lakh household and commercial connections in the Cyberabad IT corridor. Gachibowli, Madhapur, Kondapur and Kukatpally may be affected. Demand for tankers is likely to rise.",
+    "pts": [
+     "Water levels falling sharply in Manjeera and Singur reservoirs",
+     "Serilingampally and the IT corridor most at risk",
+     "Resident associations close swimming pools and clubhouses"
+    ],
+    "why": "Lakhs of families and companies in the Cyberabad IT corridor may face water shortage and tanker costs.",
+    "cat": "Hyderabad · Water",
+    "statl": "Daily water drawal from Manjeera, Singur"
+   },
+   "hi": {
+    "h": "जनवरी से मंजीरा पानी में कटौती: साइबराबाद के 3.5 लाख कनेक्शन प्रभावित",
+    "p": "सिंगूर और मंजीरा जलाशयों में जलस्तर तेजी से गिरने के कारण HMWSSB ने जनवरी से वहां से पानी लेना रोजाना 120 MGD से घटाकर 20 MGD करने का फैसला किया है। तेलंगाना टुडे के अनुसार इससे साइबराबाद आईटी कॉरिडोर के 3.5 लाख से ज्यादा घरेलू और व्यावसायिक कनेक्शन प्रभावित हो सकते हैं। गच्चीबौली, मादापुर, कोंडापुर और कूकटपल्ली प्रभावित हो सकते हैं। टैंकरों की मांग बढ़ने की संभावना है।",
+    "pts": [
+     "मंजीरा और सिंगूर जलाशयों में जलस्तर तेजी से गिरा",
+     "शेरिलिंगमपल्ली और आईटी कॉरिडोर को सबसे ज्यादा खतरा",
+     "कॉलोनी संघों ने स्विमिंग पूल, क्लबहाउस बंद किए"
+    ],
+    "why": "साइबराबाद आईटी कॉरिडोर के लाखों परिवारों और कंपनियों को पानी की कमी और टैंकर खर्च झेलना पड़ सकता है।",
+    "cat": "हैदराबाद · पानी",
+    "statl": "मंजीरा, सिंगूर से रोजाना पानी"
+   },
+   "d": "12.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "ప్రపంచం · టెక్నాలజీ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "10%",
+   "statl": "ప్రీమార్కెట్‌లో ఎన్విడియా షేర్ల పతనం",
+   "h": "ఎన్విడియా సీఈఓ పదవికి జెన్సెన్ హువాంగ్ రాజీనామా",
+   "p": "ప్రపంచ ప్రముఖ చిప్ కంపెనీ ఎన్విడియా సీఈఓ జెన్సెన్ హువాంగ్ గురువారం రాజీనామా చేశారని ఏపీ వార్తా సంస్థ తెలిపింది. ఆయన వ్యక్తిగత సంబంధం జాతీయ భద్రతా ఆందోళనలకు దారితీసిందని కథనం. సీఎఫ్ఓ కొలెట్ క్రెస్ తాత్కాలిక సీఈఓగా, హార్వే సి జోన్స్ తొలి చైర్మన్‌గా నియమితులయ్యారు. జాతీయ భద్రత, కంపెనీ రహస్యాలు దెబ్బతిన్నాయని నమ్మడానికి కారణం లేదని ఎన్విడియా పేర్కొంది. చైనా తన ప్రమేయాన్ని ఖండించింది.",
+   "src": "AP (via Telangana Today)",
+   "url": "https://telanganatoday.com/nvidia-ceo-steps-down-amid-controversy-over-alleged-links-to-chinese-spy",
+   "sec": [
+    "world",
+    "ai",
+    "business"
+   ],
+   "st": "WORLD",
+   "place": "IN",
+   "pts": [
+    "తాత్కాలిక సీఈఓగా సీఎఫ్ఓ కొలెట్ క్రెస్",
+    "ఎఫ్‌బీఐ దర్యాప్తు చేస్తోందని ట్రంప్ వెల్లడి",
+    "ప్రీమార్కెట్‌లో షేర్లు 10 శాతం పతనం"
+   ],
+   "why": "ఏఐ చిప్‌లలో అగ్రగామి సంస్థలో మార్పులు టెక్ రంగం, షేర్ మార్కెట్ పెట్టుబడిదారులపై ప్రభావం చూపవచ్చు.",
+   "pub": "2026-11-12T20:45+05:30",
+   "en": {
+    "h": "Jensen Huang resigns as Nvidia CEO",
+    "p": "Jensen Huang, CEO of leading chip company Nvidia, resigned on Thursday, AP reported. According to the report, a personal relationship of his raised national security concerns. CFO Colette Kress was named interim CEO and Harvey C Jones its first chairman. Nvidia said it had no reason to believe national security or company secrets were compromised. China denied any involvement.",
+    "pts": [
+     "CFO Colette Kress named interim CEO",
+     "Trump said the FBI is investigating",
+     "Shares fell 10 per cent in premarket trading"
+    ],
+    "why": "Changes at the leading AI chip company could affect the tech sector and stock market investors.",
+    "cat": "World · Technology",
+    "statl": "Nvidia share fall in premarket trading"
+   },
+   "hi": {
+    "h": "जेन्सेन हुआंग ने एनवीडिया के सीईओ पद से इस्तीफा दिया",
+    "p": "एपी के अनुसार प्रमुख चिप कंपनी एनवीडिया के सीईओ जेन्सेन हुआंग ने गुरुवार को इस्तीफा दे दिया। रिपोर्ट के मुताबिक उनके एक निजी संबंध से राष्ट्रीय सुरक्षा को लेकर चिंताएं उठीं। सीएफओ कोलेट क्रेस को अंतरिम सीईओ और हार्वे सी जोन्स को पहला चेयरमैन बनाया गया। एनवीडिया ने कहा कि राष्ट्रीय सुरक्षा या कंपनी के रहस्यों से समझौता होने का कोई कारण नहीं दिखता। चीन ने किसी भी भूमिका से इनकार किया।",
+    "pts": [
+     "सीएफओ कोलेट क्रेस अंतरिम सीईओ बनीं",
+     "ट्रंप ने कहा एफबीआई जांच कर रही है",
+     "प्रीमार्केट में शेयर 10 प्रतिशत गिरे"
+    ],
+    "why": "प्रमुख एआई चिप कंपनी में बदलाव का असर टेक क्षेत्र और शेयर बाजार निवेशकों पर पड़ सकता है।",
+    "cat": "विश्व · टेक्नोलॉजी",
+    "statl": "प्रीमार्केट में एनवीडिया शेयर गिरावट"
+   },
+   "d": "12.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "భద్రాద్రి · సింగరేణి",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "3వ రోజు",
+   "statl": "వీకేసీఎం గనిలో నిలిచిన బొగ్గు ఉత్పత్తి",
+   "h": "కొత్తగూడెం వీకే ఓపెన్‌కాస్ట్ గనిలో మూడో రోజూ నిలిచిన బొగ్గు ఉత్పత్తి",
+   "p": "వార్షిక బోనస్ కోసం కాంట్రాక్ట్ కార్మికుల సమ్మెతో కొత్తగూడెంలోని సింగరేణి వీకే ఓపెన్‌కాస్ట్ గనిలో గురువారం మూడో రోజూ ఉత్పత్తి నిలిచిపోయింది. కార్మికులు 20 శాతం బోనస్ కోరగా, కాంట్రాక్ట్ సంస్థ 8.33 శాతమే చెల్లించిందని తెలంగాణ టుడే కథనం. నలుగురు కార్మికులను తొలగించారని, మెస్ మూసేశారని కార్మికుల జేఏసీ పేర్కొంది. సమ్మెకు ముందున్న బొగ్గు నిల్వలు సరిపోతాయని సింగరేణి అధికారులు తెలిపారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/kothagudem-vkcm-coal-production-halted-for-third-day-as-contract-workers-continue-strike",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "కొత్తగూడెం",
+   "pts": [
+    "సుమారు 550 మంది కాంట్రాక్ట్ కార్మికుల సమ్మె",
+    "తొలగించిన కార్మికుల పునర్నియామకానికి జేఏసీ డిమాండ్",
+    "సమ్మెకు బీఆర్ఎస్ నేతల మద్దతు"
+   ],
+   "why": "సమ్మె కొనసాగితే గని కార్మికుల ఉపాధి, బొగ్గు ఉత్పత్తిపై ప్రభావం పడుతుంది.",
+   "pub": "2026-11-12T21:00+05:30",
+   "en": {
+    "h": "Coal production halted for third day at Kothagudem VK opencast mine",
+    "p": "Production at SCCL's VK opencast mine in Kothagudem stayed halted for a third day on Thursday as contract workers struck over annual bonus. Workers sought a 20 per cent bonus but the contractor paid only 8.33 per cent, Telangana Today reported. The workers' JAC said four workers were terminated and the mess was closed. SCCL officials said pre-strike coal stocks are sufficient.",
+    "pts": [
+     "Strike by about 550 contract workers",
+     "JAC demands reinstatement of terminated workers",
+     "BRS leaders back the strike"
+    ],
+    "why": "If the strike continues, it will affect mine workers' livelihoods and coal production.",
+    "cat": "Bhadradri · Singareni",
+    "statl": "Coal output halted at VKCM"
+   },
+   "hi": {
+    "h": "कोत्तागुडेम वीके ओपनकास्ट खदान में तीसरे दिन भी कोयला उत्पादन ठप",
+    "p": "वार्षिक बोनस को लेकर ठेका मजदूरों की हड़ताल के कारण कोत्तागुडेम में SCCL की वीके ओपनकास्ट खदान में गुरुवार को तीसरे दिन भी उत्पादन ठप रहा। तेलंगाना टुडे के अनुसार मजदूरों ने 20 प्रतिशत बोनस मांगा, लेकिन ठेकेदार ने केवल 8.33 प्रतिशत दिया। मजदूरों की जेएसी ने कहा कि चार मजदूरों को निकाला गया और मेस बंद कर दी गई। SCCL अधिकारियों ने कहा कि हड़ताल से पहले का कोयला भंडार पर्याप्त है।",
+    "pts": [
+     "करीब 550 ठेका मजदूरों की हड़ताल",
+     "जेएसी ने निकाले गए मजदूरों की बहाली मांगी",
+     "बीआरएस नेताओं ने हड़ताल का समर्थन किया"
+    ],
+    "why": "हड़ताल जारी रही तो खदान मजदूरों की आजीविका और कोयला उत्पादन पर असर पड़ेगा।",
+    "cat": "भद्राद्री · सिंगरेनी",
+    "statl": "वीकेसीएम में कोयला उत्पादन ठप"
+   },
+   "d": "12.11.2026",
+   "t": "21:05"
+  },
+  {
+   "cat": "తెలంగాణ · భూములు",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "22-A",
+   "statl": "పెండింగ్ భూ దరఖాస్తుల పరిష్కారానికి ఆదేశం",
+   "h": "22-ఏ భూముల దరఖాస్తులు త్వరగా పరిష్కరించండి: కలెక్టర్లకు మంత్రి పొంగులేటి ఆదేశం",
+   "p": "22-ఏ జాబితాలోని భూములకు సంబంధించిన పెండింగ్ దరఖాస్తులన్నీ ప్రాధాన్యంగా పరిష్కరించాలని రెవెన్యూ మంత్రి పొంగులేటి శ్రీనివాస్ రెడ్డి గురువారం సచివాలయంలో జరిగిన సమీక్షలో కలెక్టర్లను ఆదేశించారు. హైదరాబాద్, రంగారెడ్డి, సంగారెడ్డి, మేడ్చల్ జిల్లాల కలెక్టర్లు, రిజిస్ట్రార్లు హాజరయ్యారు. ప్రతి వారం పురోగతి సమీక్షించాలని, పరిష్కారం కాని కేసులను రెవెన్యూ కార్యదర్శి నేతృత్వంలోని ఉన్నత కమిటీకి పంపాలని సూచించారు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/ponguleti-directs-collectors-to-clear-pending-22-a-land-applications-in-telangana",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఒక్క దరఖాస్తు కూడా పెండింగ్ ఉండకూడదని ఆదేశం",
+    "జీవో 118, జీవో 76 కింద ఉత్తర్వులు జారీ",
+    "యూఎల్‌సీ కేసులు, నాలా మార్పిడి, జీవో 59 పైనా సమీక్ష"
+   ],
+   "why": "22-ఏ జాబితా వల్ల ఆస్తుల రిజిస్ట్రేషన్ ఆగిపోయిన భూ యజమానులకు ఊరట లభించవచ్చు.",
+   "pub": "2026-11-12T20:21+05:30",
+   "en": {
+    "h": "Clear 22-A land applications quickly: Minister Ponguleti to Collectors",
+    "p": "Revenue Minister Ponguleti Srinivas Reddy directed Collectors to clear all pending applications relating to 22-A list lands on priority at a review meeting at the Secretariat on Thursday. Collectors and registrars of Hyderabad, Rangareddy, Sangareddy and Medchal districts attended. He asked them to review progress every week and refer unresolved cases to a high-level committee headed by the Revenue Secretary.",
+    "pts": [
+     "Directed that no application should remain pending",
+     "Orders issued under GO 118 and GO 76",
+     "ULC cases, NALA conversion and GO 59 also reviewed"
+    ],
+    "why": "Landowners whose property registrations were stuck due to the 22-A list may get relief.",
+    "cat": "Telangana · Land",
+    "statl": "Order to clear pending land applications"
+   },
+   "hi": {
+    "h": "22-ए भूमि आवेदन जल्दी निपटाएं: मंत्री पोंगुलेटी का कलेक्टरों को निर्देश",
+    "p": "राजस्व मंत्री पोंगुलेटी श्रीनिवास रेड्डी ने गुरुवार को सचिवालय में समीक्षा बैठक में कलेक्टरों को 22-ए सूची की जमीनों से जुड़े सभी लंबित आवेदनों को प्राथमिकता से निपटाने का निर्देश दिया। हैदराबाद, रंगारेड्डी, संगारेड्डी और मेडचल जिलों के कलेक्टर और रजिस्ट्रार मौजूद थे। उन्होंने हर हफ्ते प्रगति की समीक्षा करने और अनसुलझे मामले राजस्व सचिव की अध्यक्षता वाली उच्च स्तरीय समिति को भेजने को कहा।",
+    "pts": [
+     "कोई आवेदन लंबित न रहे, यह निर्देश",
+     "जीओ 118 और जीओ 76 के तहत आदेश जारी",
+     "यूएलसी मामले, नाला रूपांतरण, जीओ 59 की भी समीक्षा"
+    ],
+    "why": "22-ए सूची के कारण जिनकी संपत्ति का पंजीकरण अटका था, उन भूमि मालिकों को राहत मिल सकती है।",
+    "cat": "तेलंगाना · भूमि",
+    "statl": "लंबित भूमि आवेदन निपटाने का आदेश"
+   },
+   "d": "12.11.2026",
+   "t": "21:05"
+  },
   {
    "cat": "కరీంనగర్ · పర్యావరణం",
    "col": "--c-gov",
@@ -2301,205 +2503,6 @@
     "why": "लागू होने पर इन निवेशों का आंध्र प्रदेश में उद्योग और रोजगार पर असर होगा।",
     "cat": "आंध्र प्रदेश · विशाखापत्तनम",
     "statl": "सीआईआई सम्मेलन में निवेश समझौते"
-   },
-   "d": "12.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "ఏపీ · ఇంధనం",
-   "col": "--c-power",
-   "art": "power",
-   "stat": "₹29,500 కోట్లు",
-   "statl": "రీన్యూ కొత్త పెట్టుబడి",
-   "h": "ఏపీలో రీన్యూ ₹29,500 కోట్ల పెట్టుబడి: పంప్డ్ స్టోరేజ్, గ్రీన్ అమ్మోనియా ప్రాజెక్టులు",
-   "p": "రీన్యూ సంస్థ ఆంధ్రప్రదేశ్‌లో ₹29,500 కోట్ల పెట్టుబడికి ముందుకొచ్చింది. ఇందులో ₹12,500 కోట్లు 2 గిగావాట్ల పంప్డ్ స్టోరేజ్ ప్రాజెక్టుకు, ₹17,000 కోట్లు గ్రీన్ అమ్మోనియా, ఈ-ఫ్యూయల్ ప్రాజెక్టుకు కేటాయిస్తారు. విశాఖ సీఐఐ సదస్సు సందర్భంగా మంత్రి నారా లోకేశ్, రీన్యూ చైర్మన్ సుమంత్ సిన్హా మధ్య జరిగిన భేటీలో ఇది ఖరారైంది.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/renew-announces-rs-29500-cr-investment-in-ammonia-and-e-fuel-project-in-ap-1141358",
-   "sec": [
-    "telangana",
-    "business",
-    "innovation"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "2 గిగావాట్ల పంప్డ్ స్టోరేజ్‌కు ₹12,500 కోట్లు",
-    "గ్రీన్ అమ్మోనియా, ఈ-ఫ్యూయల్‌కు ₹17,000 కోట్లు",
-    "లోకేశ్–సుమంత్ సిన్హా భేటీలో ఖరారు"
-   ],
-   "why": "పునరుత్పాదక ఇంధన రంగంలో ఏపీకి వచ్చే పెద్ద పెట్టుబడుల్లో ఇది ఒకటి.",
-   "pub": "2026-11-12T13:22+05:30",
-   "en": {
-    "h": "ReNew to invest ₹29,500 crore in AP pumped storage, green ammonia projects",
-    "p": "ReNew has committed ₹29,500 crore of investment in Andhra Pradesh. Of this, ₹12,500 crore is for a 2 GW pumped storage project and ₹17,000 crore for a green ammonia and e-fuel project. It was finalised at a meeting between Minister Nara Lokesh and ReNew Chairman Sumant Sinha during the CII summit in Visakhapatnam.",
-    "pts": [
-     "₹12,500 crore for 2 GW pumped storage",
-     "₹17,000 crore for green ammonia, e-fuel",
-     "Finalised at Lokesh–Sumant Sinha meeting"
-    ],
-    "why": "This is among the big renewable-energy investments coming to AP.",
-    "cat": "AP · Energy",
-    "statl": "ReNew's new investment"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में रीन्यू का ₹29,500 करोड़ निवेश: पंप्ड स्टोरेज, ग्रीन अमोनिया परियोजनाएं",
-    "p": "रीन्यू ने आंध्र प्रदेश में ₹29,500 करोड़ के निवेश की प्रतिबद्धता जताई है। इसमें ₹12,500 करोड़ 2 गीगावाट पंप्ड स्टोरेज परियोजना और ₹17,000 करोड़ ग्रीन अमोनिया व ई-फ्यूल परियोजना के लिए हैं। विशाखापत्तनम सीआईआई सम्मेलन के दौरान मंत्री नारा लोकेश और रीन्यू चेयरमैन सुमंत सिन्हा की बैठक में यह तय हुआ।",
-    "pts": [
-     "2 गीगावाट पंप्ड स्टोरेज के लिए ₹12,500 करोड़",
-     "ग्रीन अमोनिया, ई-फ्यूल के लिए ₹17,000 करोड़",
-     "लोकेश–सुमंत सिन्हा बैठक में तय"
-    ],
-    "why": "यह आंध्र प्रदेश में आने वाले बड़े नवीकरणीय ऊर्जा निवेशों में से एक है।",
-    "cat": "आंध्र प्रदेश · ऊर्जा",
-    "statl": "रीन्यू का नया निवेश"
-   },
-   "d": "12.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "నల్గొండ · మహిళా భద్రత",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "48 గంటలు",
-   "statl": "చర్యల నివేదికకు ఎన్‌సీడబ్ల్యూ గడువు",
-   "h": "నల్గొండలో వితంతువుపై దాడి ఆరోపణ: నిజనిర్ధారణ కమిటీ వేసిన ఎన్‌సీడబ్ల్యూ",
-   "p": "నల్గొండ జిల్లాలో 60 ఏళ్ల వితంతువు, ప్రభుత్వ ఉపాధ్యాయురాలి ఇంట్లోకి గుంపు చొరబడి దాడి, ధ్వంసం చేశారన్న ఆరోపణపై జాతీయ మహిళా కమిషన్ ఇద్దరు సభ్యుల కమిటీ వేసింది. కమిటీ బాధితురాలు, సాక్షులు, కలెక్టర్, ఎస్పీలతో మాట్లాడింది. కేసు నిర్వహణలో కొన్ని లోపాలు గుర్తించామని, 48 గంటల్లో చర్యల నివేదిక ఇవ్వాలని పోలీసులను ఆదేశించినట్లు ఎన్‌సీడబ్ల్యూ తెలిపిందని పీటీఐ కథనం.",
-   "src": "Siasat Daily (PTI)",
-   "url": "https://www.siasat.com/ncw-forms-panel-seeks-report-on-telangana-widow-assault-3574864/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "nalgonda",
-   "pts": [
-    "ఇద్దరు సభ్యుల నిజనిర్ధారణ కమిటీ నల్గొండ పర్యటన",
-    "కేసు నిర్వహణలో లోపాలు గుర్తించినట్లు ఎన్‌సీడబ్ల్యూ",
-    "48 గంటల్లో చర్యల నివేదికకు ఆదేశం"
-   ],
-   "why": "మహిళపై దాడి ఆరోపణల కేసులో పోలీసు చర్యలపై జాతీయ కమిషన్ పర్యవేక్షణ ఇది.",
-   "pub": "2026-11-12T07:55+05:30",
-   "en": {
-    "h": "Alleged assault on widow in Nalgonda: NCW forms fact-finding panel",
-    "p": "The National Commission for Women formed a two-member committee over the alleged assault on a 60-year-old widow and government teacher in Nalgonda district, whose house was allegedly entered and ransacked by a mob. The committee spoke with the victim, witnesses, the Collector and the SP. NCW said it noted certain lapses in handling the case and directed police to submit an Action Taken Report within 48 hours, PTI reported.",
-    "pts": [
-     "Two-member fact-finding panel visits Nalgonda",
-     "NCW notes lapses in handling the case",
-     "Action Taken Report sought within 48 hours"
-    ],
-    "why": "A national commission is overseeing police action in a case of alleged assault on a woman.",
-    "cat": "Nalgonda · Women's safety",
-    "statl": "NCW deadline for action report"
-   },
-   "hi": {
-    "h": "नलगोंडा में विधवा पर हमले का आरोप: एनसीडब्ल्यू ने तथ्य-जांच समिति बनाई",
-    "p": "राष्ट्रीय महिला आयोग ने नलगोंडा जिले में 60 वर्षीय विधवा और सरकारी शिक्षिका के घर में भीड़ के घुसकर हमला और तोड़फोड़ करने के आरोप पर दो सदस्यीय समिति बनाई। समिति ने पीड़िता, गवाहों, कलेक्टर और एसपी से बात की। पीटीआई के अनुसार एनसीडब्ल्यू ने कहा कि मामले के निपटारे में कुछ खामियां मिलीं और पुलिस को 48 घंटे में कार्रवाई रिपोर्ट देने का निर्देश दिया।",
-    "pts": [
-     "दो सदस्यीय तथ्य-जांच समिति नलगोंडा पहुंची",
-     "एनसीडब्ल्यू को मामले में खामियां मिलीं",
-     "48 घंटे में कार्रवाई रिपोर्ट मांगी"
-    ],
-    "why": "महिला पर हमले के आरोप वाले मामले में राष्ट्रीय आयोग पुलिस कार्रवाई की निगरानी कर रहा है।",
-    "cat": "नलगोंडा · महिला सुरक्षा",
-    "statl": "कार्रवाई रिपोर्ट के लिए एनसीडब्ल्यू की समय-सीमा"
-   },
-   "d": "12.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · మీడియా",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "వీసా ఉన్నా",
-   "statl": "ప్రయాణానికి అనుమతి నిరాకరణ అని ఆరోపణ",
-   "h": "హైదరాబాద్ సదస్సుకు రావాల్సిన నార్వే జర్నలిస్టుకు భారత్‌లో ప్రవేశం నిరాకరణ: ఆమె ఆరోపణ",
-   "p": "హైదరాబాద్‌లో మీడియా, పత్రికా స్వేచ్ఛపై జరిగే సదస్సులో మాట్లాడాల్సిన నార్వే జర్నలిస్టు హెల్లె లింగ్‌ను విమానం ఎక్కనివ్వలేదని ఆమె ఆరోపించారు. వీసా ఉన్నప్పటికీ ఆ రోజు భారత్‌కు ప్రయాణించలేరని బయలుదేరే ముందు ఫోన్ వచ్చిందని, ఇది రాజకీయ ప్రేరేపితమని ఆమె అన్నారు. ప్రభుత్వం, రాయబార కార్యాలయం స్పందన కథనంలో లేదని సియాసత్ పేర్కొంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/hyderabad-norwegian-journalist-who-questioned-pm-denied-entry-3574850/",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "హైదరాబాద్ సదస్సులో మాట్లాడాల్సిన నార్వే జర్నలిస్టు",
-    "వీసా ఉన్నా ప్రయాణానికి అనుమతి లేదని ఆరోపణ",
-    "ప్రభుత్వ స్పందన కథనంలో లేదు"
-   ],
-   "why": "హైదరాబాద్‌లో జరిగే అంతర్జాతీయ సదస్సు, పత్రికా స్వేచ్ఛ చర్చకు సంబంధించిన అంశం ఇది.",
-   "pub": "2026-11-12T07:49+05:30",
-   "en": {
-    "h": "Norwegian journalist due at Hyderabad conference denied entry to India, she alleges",
-    "p": "Norwegian journalist Helle Lyng, due to speak at a conference in Hyderabad on media and press freedom, alleged she was stopped from boarding her flight. She said she got a call shortly before departure saying she could not travel to India that day despite holding a visa, and called it politically motivated. Siasat said the article has no response from the government or the embassy.",
-    "pts": [
-     "Norwegian journalist due at Hyderabad conference",
-     "Alleges travel denied despite valid visa",
-     "No government response in the report"
-    ],
-    "why": "The issue concerns an international conference in Hyderabad and the debate on press freedom.",
-    "cat": "Hyderabad · Media",
-    "statl": "Alleges travel was denied"
-   },
-   "hi": {
-    "h": "हैदराबाद सम्मेलन में आने वाली नॉर्वे की पत्रकार को भारत में प्रवेश से रोका गया: उनका आरोप",
-    "p": "हैदराबाद में मीडिया और प्रेस स्वतंत्रता पर सम्मेलन में बोलने वाली नॉर्वे की पत्रकार हेल्ले लिंग ने आरोप लगाया कि उन्हें विमान में चढ़ने से रोका गया। उन्होंने कहा कि वीसा होने के बावजूद रवाना होने से पहले फोन आया कि वे उस दिन भारत नहीं जा सकतीं, और इसे राजनीति से प्रेरित बताया। सियासत के अनुसार लेख में सरकार या दूतावास की प्रतिक्रिया नहीं है।",
-    "pts": [
-     "हैदराबाद सम्मेलन में बोलने वाली नॉर्वे की पत्रकार",
-     "वीसा होने के बावजूद यात्रा रोकने का आरोप",
-     "रिपोर्ट में सरकार की प्रतिक्रिया नहीं"
-    ],
-    "why": "यह मामला हैदराबाद के अंतरराष्ट्रीय सम्मेलन और प्रेस स्वतंत्रता की बहस से जुड़ा है।",
-    "cat": "हैदराबाद · मीडिया",
-    "statl": "यात्रा रोकने का आरोप"
-   },
-   "d": "12.11.2026",
-   "t": "14:05"
-  },
-  {
-   "cat": "ఉత్తరప్రదేశ్ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "2027",
-   "statl": "యూపీ అసెంబ్లీ ఎన్నికలకు కొత్త కూటమి",
-   "h": "అప్‌డేట్: యూపీలో ఒవైసీ–ఆజాద్ 'సామాజిక్ పరివర్తన్ మోర్చా'; సీఎం అభ్యర్థిగా చంద్రశేఖర్ ఆజాద్",
-   "p": "ఎంఐఎం అధ్యక్షుడు అసదుద్దీన్ ఒవైసీ, ఆజాద్ సమాజ్ పార్టీ నేత చంద్రశేఖర్ ఆజాద్ కలిసి 2027 యూపీ అసెంబ్లీ ఎన్నికలకు 'సామాజిక్ పరివర్తన్ మోర్చా' అనే మూడో కూటమిని ప్రకటించారు. ఆజాద్ మోర్చా అధ్యక్షుడు, సీఎం అభ్యర్థి అని ఒవైసీ తెలిపారు. విద్య, యువత నిరుద్యోగం, రైతుల సమస్యలపై దృష్టి పెడతామని, నవంబర్ 26న బహిరంగ సభ ఉంటుందని చెప్పారు.",
-   "src": "The Hans India",
-   "url": "https://thehansindia.com/uttarpradesh/a-new-front-a-new-cm-face-owaisi-bets-on-azad-for-cms-chair-1141363",
-   "sec": [
-    "india"
-   ],
-   "st": "UP",
-   "place": "st-UP",
-   "pts": [
-    "ఎంఐఎం–ఆజాద్ సమాజ్ పార్టీ మూడో కూటమి",
-    "సీఎం అభ్యర్థిగా చంద్రశేఖర్ ఆజాద్",
-    "నవంబర్ 26న బహిరంగ సభ"
-   ],
-   "why": "హైదరాబాద్ ఎంపీ ఒవైసీ పార్టీ యూపీ ఎన్నికల్లో కొత్త కూటమితో బరిలోకి దిగుతోంది.",
-   "pub": "2026-11-12T14:02+05:30",
-   "en": {
-    "h": "Update: Owaisi, Azad launch 'Samajik Parivartan Morcha' in UP; Azad named CM face",
-    "p": "AIMIM chief Asaduddin Owaisi and Azad Samaj Party leader Chandrashekhar Azad jointly announced a third front, the Samajik Parivartan Morcha, for the 2027 Uttar Pradesh Assembly elections. Owaisi said Azad will be the morcha's chief and chief ministerial candidate. They said the front will focus on education, youth unemployment and farmers' problems, with a public meeting on November 26.",
-    "pts": [
-     "AIMIM–Azad Samaj Party third front",
-     "Chandrashekhar Azad named CM candidate",
-     "Public meeting on November 26"
-    ],
-    "why": "Hyderabad MP Owaisi's party is entering the UP polls with a new front.",
-    "cat": "Uttar Pradesh · Elections",
-    "statl": "New front for UP Assembly polls"
-   },
-   "hi": {
-    "h": "अपडेट: यूपी में ओवैसी–आज़ाद का 'सामाजिक परिवर्तन मोर्चा'; चंद्रशेखर आज़ाद सीएम चेहरा",
-    "p": "एआईएमआईएम प्रमुख असदुद्दीन ओवैसी और आज़ाद समाज पार्टी के नेता चंद्रशेखर आज़ाद ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए तीसरे मोर्चे 'सामाजिक परिवर्तन मोर्चा' की संयुक्त घोषणा की। ओवैसी ने कहा कि आज़ाद मोर्चे के प्रमुख और मुख्यमंत्री पद के उम्मीदवार होंगे। उन्होंने कहा कि मोर्चा शिक्षा, युवा बेरोजगारी और किसानों की समस्याओं पर ध्यान देगा और 26 नवंबर को जनसभा होगी।",
-    "pts": [
-     "एआईएमआईएम–आज़ाद समाज पार्टी का तीसरा मोर्चा",
-     "चंद्रशेखर आज़ाद सीएम उम्मीदवार",
-     "26 नवंबर को जनसभा"
-    ],
-    "why": "हैदराबाद के सांसद ओवैसी की पार्टी नए मोर्चे के साथ यूपी चुनाव में उतर रही है।",
-    "cat": "उत्तर प्रदेश · चुनाव",
-    "statl": "यूपी विधानसभा चुनाव के लिए नया मोर्चा"
    },
    "d": "12.11.2026",
    "t": "14:05"
