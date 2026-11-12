@@ -1,8 +1,109 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T13:10:34+05:30",
+ "updated": "2026-11-12T13:39:01+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · పోలీసు",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "10 భాషలు",
+   "statl": "సేతు కియోస్క్‌లో ఫిర్యాదు భాషలు",
+   "h": "పంజాగుట్ట దేశంలోనే తొలి ఏఐ పోలీస్ స్టేషన్‌గా మారనుంది",
+   "p": "హైదరాబాద్ పంజాగుట్ట పోలీస్ స్టేషన్‌ను దేశంలో తొలి ఏఐ ఆధారిత స్టేషన్‌గా తీర్చిదిద్దుతున్నట్లు సీపీ వీసీ సజ్జనార్ తెలిపారు. డీజీపీ సీవీ ఆనంద్ డిసెంబర్ మొదటి వారంలో పైలట్‌గా ప్రారంభిస్తారు. ఎఫ్‌ఐఆర్ నుంచి చార్జిషీట్ వరకు పనులను ఏఐ చేస్తుంది. ఫలితాలు చూసి రాష్ట్రంలోని అన్ని స్టేషన్లకు విస్తరిస్తారని ఏఎన్ఐ పేర్కొంది.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/hyderabads-panjagutta-to-become-indias-first-ai-police-station20261112112716/",
+   "sec": [
+    "telangana",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "పంజాగుట్ట",
+   "pts": [
+    "డిసెంబర్ మొదటి వారంలో పైలట్ ప్రారంభం",
+    "సేతు కియోస్క్‌లో సుమారు 10 భాషల్లో ఫిర్యాదు",
+    "ఎఫ్‌ఐఆర్, కేసు డైరీ, చార్జిషీట్ ఏఐతో"
+   ],
+   "why": "ఫిర్యాదుదారులు తమ భాషలోనే ఫిర్యాదు చేయగలరు; ఫలితాలు బాగుంటే రాష్ట్రమంతా అమలవుతుంది.",
+   "d": "12.11.2026",
+   "t": "13:35",
+   "pub": "2026-11-12T11:27+05:30",
+   "en": {
+    "h": "Panjagutta to become India's first AI police station",
+    "p": "Hyderabad Police Commissioner V.C. Sajjanar said Panjagutta police station is being developed as the country's first AI-based station. DGP C.V. Anand will launch it as a pilot in the first week of December. AI will handle work from FIR registration to charge-sheets. After reviewing results, it will be extended to all stations in the state, ANI reported.",
+    "pts": [
+     "Pilot launch in first week of December",
+     "'Sethu' kiosk takes complaints in about 10 languages",
+     "FIR, case diary and charge-sheet with AI"
+    ],
+    "why": "Complainants can file in their own language; if results are good, it will be rolled out statewide.",
+    "cat": "Hyderabad · Police",
+    "statl": "Complaint languages at Sethu kiosk"
+   },
+   "hi": {
+    "h": "पंजागुट्टा बनेगा देश का पहला एआई पुलिस स्टेशन",
+    "p": "हैदराबाद पुलिस आयुक्त वी.सी. सज्जनार ने कहा कि पंजागुट्टा पुलिस स्टेशन को देश के पहले एआई आधारित स्टेशन के रूप में विकसित किया जा रहा है। डीजीपी सी.वी. आनंद दिसंबर के पहले सप्ताह में इसे पायलट के रूप में शुरू करेंगे। एफआईआर से चार्जशीट तक का काम एआई करेगा। नतीजे देखकर इसे राज्य के सभी थानों में लागू किया जाएगा, एएनआई ने बताया।",
+    "pts": [
+     "दिसंबर के पहले सप्ताह में पायलट शुरू",
+     "'सेतु' कियोस्क पर लगभग 10 भाषाओं में शिकायत",
+     "एफआईआर, केस डायरी और चार्जशीट एआई से"
+    ],
+    "why": "शिकायतकर्ता अपनी भाषा में शिकायत कर सकेंगे; नतीजे अच्छे रहे तो पूरे राज्य में लागू होगा।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "सेतु कियोस्क पर शिकायत की भाषाएँ"
+   }
+  },
+  {
+   "cat": "కామారెడ్డి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "3 అరెస్ట్",
+   "statl": "రిమాండ్‌కు తరలించిన నిందితులు",
+   "h": "బాన్సువాడలో భర్త హత్య కేసు: భార్య సహా ముగ్గురు అరెస్ట్",
+   "p": "బాన్సువాడ పోలీసుల ప్రకారం, అక్టోబర్ 23 రాత్రి ఓ వ్యక్తిని హత్య చేసి ప్రమాదంలా చూపేందుకు మృతదేహాన్ని పంచెర చెరువులో పడేశారని ఆరోపణ. పోస్ట్‌మార్టం ప్రాథమిక నివేదిక తర్వాత హత్యగా నిర్ధారించి కేసును బీఎన్ఎస్ సెక్షన్ 103కు మార్చారు. భార్యతో పాటు మరో ఇద్దరిని అరెస్ట్ చేసి జ్యుడీషియల్ రిమాండ్‌కు పంపినట్లు ఏఎన్ఐ తెలిపింది.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/woman-found-dead-under-suspicious-circumstances-in-hyderabad-flat20261112125027/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "loc": "బాన్సువాడ",
+   "pts": [
+    "పోస్ట్‌మార్టం తర్వాత హత్య కేసుగా మార్పు",
+    "ముగ్గురు నిందితుల అరెస్ట్, ఫోన్లు స్వాధీనం",
+    "నిందితులకు జ్యుడీషియల్ రిమాండ్"
+   ],
+   "why": "ప్రమాదంగా కనిపించిన మరణాన్ని దర్యాప్తుతో హత్యగా పోలీసులు గుర్తించిన కేసు ఇది.",
+   "d": "12.11.2026",
+   "t": "13:35",
+   "pub": "2026-11-12T12:50+05:30",
+   "en": {
+    "h": "Banswada husband murder case: three including wife arrested",
+    "p": "According to Banswada police, a man was allegedly killed on the night of October 23 and his body dumped in Panchera Cheruvu to make it look like an accident. After the preliminary post-mortem report, police confirmed it as murder and changed the case to BNS Section 103. Three accused, including his wife, were arrested and sent to judicial remand, ANI reported.",
+    "pts": [
+     "Case changed to murder after post-mortem",
+     "Three accused arrested, phones seized",
+     "Accused sent to judicial remand"
+    ],
+    "why": "Police investigation found that a death made to look like an accident was a murder.",
+    "cat": "Kamareddy · Crime",
+    "statl": "Accused sent to remand"
+   },
+   "hi": {
+    "h": "बांसवाड़ा में पति की हत्या का मामला: पत्नी समेत तीन गिरफ्तार",
+    "p": "बांसवाड़ा पुलिस के अनुसार, 23 अक्टूबर की रात एक व्यक्ति की कथित तौर पर हत्या कर शव को हादसा दिखाने के लिए पंचेरा चेरुवु तालाब में फेंक दिया गया। प्रारंभिक पोस्टमार्टम रिपोर्ट के बाद पुलिस ने इसे हत्या माना और मामला बीएनएस धारा 103 में बदला। पत्नी समेत तीन आरोपियों को गिरफ्तार कर न्यायिक हिरासत में भेजा गया, एएनआई ने बताया।",
+    "pts": [
+     "पोस्टमार्टम के बाद हत्या का मामला",
+     "तीन आरोपी गिरफ्तार, फोन जब्त",
+     "आरोपी न्यायिक हिरासत में"
+    ],
+    "why": "पुलिस जांच में हादसा दिखाई गई मौत हत्या निकली।",
+    "cat": "कामारेड्डी · अपराध",
+    "statl": "आरोपी रिमांड पर भेजे गए"
+   }
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
@@ -2289,107 +2390,6 @@
    },
    "d": "12.11.2026",
    "t": "07:05"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "141",
-   "statl": "సదస్సులో కుదిరే ఎంఓయూలు",
-   "h": "విశాఖలో నేటి నుంచి సీఐఐ సదస్సు: 141 ఒప్పందాలు, ₹12.13 లక్షల కోట్లు లక్ష్యం",
-   "p": "31వ సీఐఐ భాగస్వామ్య సదస్సు నవంబర్ 12, 13 తేదీల్లో విశాఖ ఏయూ ఇంజినీరింగ్ మైదానంలో జరగనుందని హన్స్ ఇండియా కథనం. ₹12,13,853 కోట్ల పెట్టుబడులతో 141 ఎంఓయూలు, 30 జీవోలు సిద్ధంగా ఉన్నాయని, వీటితో 2,46,373 ఉద్యోగాలు రావచ్చని పేర్కొంది. కేంద్ర మంత్రులు పీయూష్ గోయల్, రామ్మోహన్ నాయుడు, సీఎం చంద్రబాబు పాల్గొంటారు.",
-   "src": "The Hans India",
-   "url": "https://www.thehansindia.com/news/cities/amaravati/cii-partnership-summit-set-for-take-off-in-vizag-today-ap-eyes-rs-12-lakh-cr-investments-1141141",
-   "sec": [
-    "telangana",
-    "business",
-    "jobs"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "కియా ఒప్పందం, పీ4 కింద రెండు ఎంఓయూలు",
-    "ముగింపు సమావేశానికి ఉపరాష్ట్రపతి సీపీ రాధాకృష్ణన్",
-    "58 దేశాల ప్రతినిధులు వస్తారని డెక్కన్ క్రానికల్"
-   ],
-   "why": "పెట్టుబడులు కార్యరూపం దాలిస్తే ఏపీ యువతకు లక్షల ఉద్యోగాలు వచ్చే అవకాశం ఉంది.",
-   "pub": "2026-11-12T00:39+05:30",
-   "en": {
-    "h": "CII summit in Vizag from today: 141 MoUs, Rs 12.13 lakh crore targeted",
-    "p": "The 31st CII Partnership Summit will be held on November 12 and 13 at the AU Engineering Grounds in Visakhapatnam, The Hans India reported. It said 141 MoUs and 30 GOs worth Rs 12,13,853 crore are lined up, which could create 2,46,373 jobs. Union Ministers Piyush Goyal and Ram Mohan Naidu and CM Chandrababu Naidu will attend.",
-    "pts": [
-     "Includes a Kia agreement and two P4 MoUs",
-     "Vice-President C P Radhakrishnan at valedictory",
-     "Delegates from 58 countries, says Deccan Chronicle"
-    ],
-    "why": "If the investments materialise, lakhs of jobs could come for AP youth.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "MoUs lined up at the summit"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम में आज से सीआईआई सम्मेलन: 141 एमओयू, 12.13 लाख करोड़ का लक्ष्य",
-    "p": "द हंस इंडिया के अनुसार 31वां सीआईआई पार्टनरशिप सम्मेलन 12 और 13 नवंबर को विशाखापत्तनम के एयू इंजीनियरिंग ग्राउंड में होगा। इसमें 12,13,853 करोड़ रुपये के 141 एमओयू और 30 जीओ तैयार हैं, जिनसे 2,46,373 नौकरियां बन सकती हैं। केंद्रीय मंत्री पीयूष गोयल, राममोहन नायडू और मुख्यमंत्री चंद्रबाबू नायडू शामिल होंगे।",
-    "pts": [
-     "किआ समझौता और पी4 के तहत दो एमओयू",
-     "समापन सत्र में उपराष्ट्रपति सी.पी. राधाकृष्णन",
-     "58 देशों के प्रतिनिधि: डेक्कन क्रॉनिकल"
-    ],
-    "why": "निवेश जमीन पर उतरे तो आंध्र के युवाओं को लाखों नौकरियां मिल सकती हैं।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "सम्मेलन में होने वाले एमओयू"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "deadline",
-   "stat": "22 నవం.",
-   "statl": "ఇన్‌సర్వీస్ టెట్ కొత్త తేదీ",
-   "h": "ఇన్‌సర్వీస్ టెట్ పరీక్ష నవంబర్ 22కు వాయిదా",
-   "p": "రాష్ట్రంలో ఉపాధ్యాయుల కోసం ఈ నెల 19న జరగాల్సిన ఇన్‌సర్వీస్ టెట్ పరీక్షను 22వ తేదీకి వాయిదా వేసినట్లు టెట్ కన్వీనర్ జి.రమేశ్ తెలిపారని నమస్తే తెలంగాణ కథనం. అదే రోజు టీజీపీఎస్సీ డిపార్ట్‌మెంటల్ పరీక్షలు ఉండటమే కారణమని చెప్పారు. అభ్యర్థులు 17వ తేదీ నుంచి హాల్‌టికెట్లు డౌన్‌లోడ్ చేసుకోవచ్చని సూచించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-in-service-tet-exam-postponed-to-november-22-2557975",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "19న జరగాల్సిన పరీక్ష 22కు మార్పు",
-    "అదే రోజు టీజీపీఎస్సీ డిపార్ట్‌మెంటల్ పరీక్షలు",
-    "17 నుంచి హాల్‌టికెట్ల డౌన్‌లోడ్"
-   ],
-   "why": "పరీక్ష రాయబోయే రాష్ట్ర ఉపాధ్యాయులు కొత్త తేదీ ప్రకారం సిద్ధం కావాలి.",
-   "pub": "2026-11-12T01:22+05:30",
-   "en": {
-    "h": "In-service TET exam postponed to November 22",
-    "p": "The in-service TET for teachers in Telangana, scheduled for the 19th of this month, has been postponed to the 22nd, TET convener G. Ramesh said, Namasthe Telangana reported. He said the reason is that TGPSC departmental exams are scheduled on the same day. Candidates can download their hall tickets from the 17th.",
-    "pts": [
-     "Exam moved from the 19th to the 22nd",
-     "TGPSC departmental exams on the same day",
-     "Hall tickets downloadable from the 17th"
-    ],
-    "why": "Telangana teachers taking the exam must prepare for the new date.",
-    "cat": "Telangana · Education",
-    "statl": "New in-service TET date"
-   },
-   "hi": {
-    "h": "इन-सर्विस टीईटी परीक्षा 22 नवंबर तक स्थगित",
-    "p": "नमस्ते तेलंगाना के अनुसार टीईटी संयोजक जी. रमेश ने बताया कि तेलंगाना में शिक्षकों के लिए इस महीने की 19 तारीख को होने वाली इन-सर्विस टीईटी अब 22 तारीख को होगी। उन्होंने कहा कि उसी दिन टीजीपीएससी की विभागीय परीक्षाएं होने के कारण यह बदलाव किया गया। अभ्यर्थी 17 तारीख से हॉल टिकट डाउनलोड कर सकते हैं।",
-    "pts": [
-     "19 की परीक्षा अब 22 को",
-     "उसी दिन टीजीपीएससी विभागीय परीक्षाएं",
-     "17 से हॉल टिकट डाउनलोड"
-    ],
-    "why": "परीक्षा देने वाले तेलंगाना के शिक्षकों को नई तारीख के अनुसार तैयारी करनी होगी।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "इन-सर्विस टीईटी की नई तारीख"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",

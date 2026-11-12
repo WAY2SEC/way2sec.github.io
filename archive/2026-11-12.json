@@ -1,8 +1,109 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 60,
+ "count": 62,
  "stories": [
+  {
+   "cat": "హైదరాబాద్ · పోలీసు",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "10 భాషలు",
+   "statl": "సేతు కియోస్క్‌లో ఫిర్యాదు భాషలు",
+   "h": "పంజాగుట్ట దేశంలోనే తొలి ఏఐ పోలీస్ స్టేషన్‌గా మారనుంది",
+   "p": "హైదరాబాద్ పంజాగుట్ట పోలీస్ స్టేషన్‌ను దేశంలో తొలి ఏఐ ఆధారిత స్టేషన్‌గా తీర్చిదిద్దుతున్నట్లు సీపీ వీసీ సజ్జనార్ తెలిపారు. డీజీపీ సీవీ ఆనంద్ డిసెంబర్ మొదటి వారంలో పైలట్‌గా ప్రారంభిస్తారు. ఎఫ్‌ఐఆర్ నుంచి చార్జిషీట్ వరకు పనులను ఏఐ చేస్తుంది. ఫలితాలు చూసి రాష్ట్రంలోని అన్ని స్టేషన్లకు విస్తరిస్తారని ఏఎన్ఐ పేర్కొంది.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/hyderabads-panjagutta-to-become-indias-first-ai-police-station20261112112716/",
+   "sec": [
+    "telangana",
+    "ai"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "పంజాగుట్ట",
+   "pts": [
+    "డిసెంబర్ మొదటి వారంలో పైలట్ ప్రారంభం",
+    "సేతు కియోస్క్‌లో సుమారు 10 భాషల్లో ఫిర్యాదు",
+    "ఎఫ్‌ఐఆర్, కేసు డైరీ, చార్జిషీట్ ఏఐతో"
+   ],
+   "why": "ఫిర్యాదుదారులు తమ భాషలోనే ఫిర్యాదు చేయగలరు; ఫలితాలు బాగుంటే రాష్ట్రమంతా అమలవుతుంది.",
+   "d": "12.11.2026",
+   "t": "13:35",
+   "pub": "2026-11-12T11:27+05:30",
+   "en": {
+    "h": "Panjagutta to become India's first AI police station",
+    "p": "Hyderabad Police Commissioner V.C. Sajjanar said Panjagutta police station is being developed as the country's first AI-based station. DGP C.V. Anand will launch it as a pilot in the first week of December. AI will handle work from FIR registration to charge-sheets. After reviewing results, it will be extended to all stations in the state, ANI reported.",
+    "pts": [
+     "Pilot launch in first week of December",
+     "'Sethu' kiosk takes complaints in about 10 languages",
+     "FIR, case diary and charge-sheet with AI"
+    ],
+    "why": "Complainants can file in their own language; if results are good, it will be rolled out statewide.",
+    "cat": "Hyderabad · Police",
+    "statl": "Complaint languages at Sethu kiosk"
+   },
+   "hi": {
+    "h": "पंजागुट्टा बनेगा देश का पहला एआई पुलिस स्टेशन",
+    "p": "हैदराबाद पुलिस आयुक्त वी.सी. सज्जनार ने कहा कि पंजागुट्टा पुलिस स्टेशन को देश के पहले एआई आधारित स्टेशन के रूप में विकसित किया जा रहा है। डीजीपी सी.वी. आनंद दिसंबर के पहले सप्ताह में इसे पायलट के रूप में शुरू करेंगे। एफआईआर से चार्जशीट तक का काम एआई करेगा। नतीजे देखकर इसे राज्य के सभी थानों में लागू किया जाएगा, एएनआई ने बताया।",
+    "pts": [
+     "दिसंबर के पहले सप्ताह में पायलट शुरू",
+     "'सेतु' कियोस्क पर लगभग 10 भाषाओं में शिकायत",
+     "एफआईआर, केस डायरी और चार्जशीट एआई से"
+    ],
+    "why": "शिकायतकर्ता अपनी भाषा में शिकायत कर सकेंगे; नतीजे अच्छे रहे तो पूरे राज्य में लागू होगा।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "सेतु कियोस्क पर शिकायत की भाषाएँ"
+   }
+  },
+  {
+   "cat": "కామారెడ్డి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "3 అరెస్ట్",
+   "statl": "రిమాండ్‌కు తరలించిన నిందితులు",
+   "h": "బాన్సువాడలో భర్త హత్య కేసు: భార్య సహా ముగ్గురు అరెస్ట్",
+   "p": "బాన్సువాడ పోలీసుల ప్రకారం, అక్టోబర్ 23 రాత్రి ఓ వ్యక్తిని హత్య చేసి ప్రమాదంలా చూపేందుకు మృతదేహాన్ని పంచెర చెరువులో పడేశారని ఆరోపణ. పోస్ట్‌మార్టం ప్రాథమిక నివేదిక తర్వాత హత్యగా నిర్ధారించి కేసును బీఎన్ఎస్ సెక్షన్ 103కు మార్చారు. భార్యతో పాటు మరో ఇద్దరిని అరెస్ట్ చేసి జ్యుడీషియల్ రిమాండ్‌కు పంపినట్లు ఏఎన్ఐ తెలిపింది.",
+   "src": "ANI",
+   "url": "https://aninews.in/news/national/general-news/woman-found-dead-under-suspicious-circumstances-in-hyderabad-flat20261112125027/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "kamareddy",
+   "loc": "బాన్సువాడ",
+   "pts": [
+    "పోస్ట్‌మార్టం తర్వాత హత్య కేసుగా మార్పు",
+    "ముగ్గురు నిందితుల అరెస్ట్, ఫోన్లు స్వాధీనం",
+    "నిందితులకు జ్యుడీషియల్ రిమాండ్"
+   ],
+   "why": "ప్రమాదంగా కనిపించిన మరణాన్ని దర్యాప్తుతో హత్యగా పోలీసులు గుర్తించిన కేసు ఇది.",
+   "d": "12.11.2026",
+   "t": "13:35",
+   "pub": "2026-11-12T12:50+05:30",
+   "en": {
+    "h": "Banswada husband murder case: three including wife arrested",
+    "p": "According to Banswada police, a man was allegedly killed on the night of October 23 and his body dumped in Panchera Cheruvu to make it look like an accident. After the preliminary post-mortem report, police confirmed it as murder and changed the case to BNS Section 103. Three accused, including his wife, were arrested and sent to judicial remand, ANI reported.",
+    "pts": [
+     "Case changed to murder after post-mortem",
+     "Three accused arrested, phones seized",
+     "Accused sent to judicial remand"
+    ],
+    "why": "Police investigation found that a death made to look like an accident was a murder.",
+    "cat": "Kamareddy · Crime",
+    "statl": "Accused sent to remand"
+   },
+   "hi": {
+    "h": "बांसवाड़ा में पति की हत्या का मामला: पत्नी समेत तीन गिरफ्तार",
+    "p": "बांसवाड़ा पुलिस के अनुसार, 23 अक्टूबर की रात एक व्यक्ति की कथित तौर पर हत्या कर शव को हादसा दिखाने के लिए पंचेरा चेरुवु तालाब में फेंक दिया गया। प्रारंभिक पोस्टमार्टम रिपोर्ट के बाद पुलिस ने इसे हत्या माना और मामला बीएनएस धारा 103 में बदला। पत्नी समेत तीन आरोपियों को गिरफ्तार कर न्यायिक हिरासत में भेजा गया, एएनआई ने बताया।",
+    "pts": [
+     "पोस्टमार्टम के बाद हत्या का मामला",
+     "तीन आरोपी गिरफ्तार, फोन जब्त",
+     "आरोपी न्यायिक हिरासत में"
+    ],
+    "why": "पुलिस जांच में हादसा दिखाई गई मौत हत्या निकली।",
+    "cat": "कामारेड्डी · अपराध",
+    "statl": "आरोपी रिमांड पर भेजे गए"
+   }
+  },
   {
    "cat": "ఏపీ · స్థానిక ఎన్నికలు",
    "col": "--c-election",
