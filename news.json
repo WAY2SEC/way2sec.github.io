@@ -1,8 +1,109 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T21:44:49+05:30",
+ "updated": "2026-11-12T22:13:27+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · విద్యుత్",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "₹7,635 కోట్లు",
+   "statl": "ట్రూ-అప్ వసూలుకు టీజీఈఆర్సీ ఆమోదం",
+   "h": "విద్యుత్ బిల్లుల్లో ట్రూ-అప్ చార్జీలు: నెలకు ₹25–50 అదనపు భారం",
+   "p": "2022-23, 2023-24 సంవత్సరాల విద్యుత్ కొనుగోలు ఖర్చులను రాబట్టేందుకు తెలంగాణ డిస్కంలు గృహ వినియోగదారుల నుంచి వినియోగాన్ని బట్టి నెలకు ₹25 నుంచి ₹50 వరకు ట్రూ-అప్ చార్జీలు వసూలు చేస్తున్నాయి. మొత్తం ₹7,635.22 కోట్ల వసూలుకు టీజీఈఆర్సీ ఆమోదం తెలిపింది. ఇందులో వ్యవసాయ వినియోగానికి సంబంధించిన ₹2,214.99 కోట్లను ప్రభుత్వం భరించాలి; మిగతా ₹5,420.23 కోట్లు ఇతర వినియోగదారుల నుంచి వసూలవుతాయి.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/power-bills-rise-as-telangana-discoms-recover-true-up-charges",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "ఎస్‌పీడీసీఎల్ పరిధిలో 29 నెలలు వసూలు",
+    "ఎన్‌పీడీసీఎల్ పరిధిలో 26 నెలలు వసూలు",
+    "యూసుఫ్‌గూడ వినియోగదారుడికి యూనిట్‌కు 30 పైసల చొప్పున ₹27"
+   ],
+   "why": "రాష్ట్రంలోని గృహ విద్యుత్ వినియోగదారులందరిపై రాబోయే రెండేళ్లకు పైగా నెలవారీ బిల్లు భారం పెరుగుతుంది.",
+   "pub": "2026-11-12T19:06+05:30",
+   "en": {
+    "h": "True-Up charges push up Telangana power bills by Rs 25–50 a month",
+    "p": "Telangana DISCOMs are charging domestic consumers extra True-Up charges of Rs 25 to Rs 50 a month, depending on usage, to recover power purchase costs for 2022-23 and 2023-24. TGERC approved recovery of Rs 7,635.22 crore in all. Of this, the government must bear Rs 2,214.99 crore linked to agricultural consumption, while the remaining Rs 5,420.23 crore is recovered from other consumers.",
+    "pts": [
+     "Collection over 29 months under TGSPDCL",
+     "Collection over 26 months under TGNPDCL",
+     "Yousufguda consumer charged Rs 27 at 30 paise per unit"
+    ],
+    "why": "Every domestic power consumer in the state faces a higher monthly bill for more than two years.",
+    "cat": "Telangana · Power",
+    "statl": "True-Up recovery approved by TGERC"
+   },
+   "hi": {
+    "h": "ट्रू-अप शुल्क से तेलंगाना में बिजली बिल ₹25–50 महीना बढ़े",
+    "p": "2022-23 और 2023-24 की बिजली खरीद लागत वसूलने के लिए तेलंगाना की डिस्कॉम घरेलू उपभोक्ताओं से खपत के हिसाब से हर महीने ₹25 से ₹50 तक ट्रू-अप शुल्क ले रही हैं। टीजीईआरसी ने कुल ₹7,635.22 करोड़ की वसूली को मंज़ूरी दी है। इसमें कृषि खपत से जुड़े ₹2,214.99 करोड़ सरकार को वहन करने हैं, जबकि बाकी ₹5,420.23 करोड़ अन्य उपभोक्ताओं से वसूले जाएंगे।",
+    "pts": [
+     "टीजीएसपीडीसीएल क्षेत्र में 29 महीने वसूली",
+     "टीजीएनपीडीसीएल क्षेत्र में 26 महीने वसूली",
+     "यूसुफगुडा के उपभोक्ता से 30 पैसे प्रति यूनिट पर ₹27"
+    ],
+    "why": "राज्य के सभी घरेलू बिजली उपभोक्ताओं पर दो साल से अधिक समय तक मासिक बिल का बोझ बढ़ेगा।",
+    "cat": "तेलंगाना · बिजली",
+    "statl": "टीजीईआरसी ने ट्रू-अप वसूली मंज़ूर की"
+   },
+   "d": "12.11.2026",
+   "t": "22:05"
+  },
+  {
+   "cat": "సంగారెడ్డి · వాతావరణం",
+   "col": "--c-water",
+   "art": "rain",
+   "stat": "11.3°C",
+   "statl": "కోహిర్‌లో ఈ సీజన్ అత్యల్ప ఉష్ణోగ్రత",
+   "h": "వణికిస్తున్న చలి: కోహిర్‌లో సీజన్ అత్యల్పం 11.3 డిగ్రీలు",
+   "p": "గత 24 గంటల్లో తెలంగాణ అంతటా కనిష్ఠ ఉష్ణోగ్రతలు సాధారణం కంటే 2–3 డిగ్రీలు తగ్గాయి. సంగారెడ్డి జిల్లా కోహిర్‌లో రాష్ట్రంలోనే అత్యల్పంగా 11.3 డిగ్రీలు నమోదైంది. రంగారెడ్డి జిల్లా చందనవెల్లిలో 11.4, మహబూబ్‌నగర్ జిల్లా రాజాపూర్‌లో 12 డిగ్రీలు నమోదయ్యాయి. రానున్న వారం పొడి వాతావరణం ఉంటుందని ఐఎండీ హైదరాబాద్ అంచనా వేసింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-shivers-as-kohir-records-seasons-lowest-temperature-of-11-3-degrees",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "sangareddy",
+   "loc": "కోహిర్",
+   "pts": [
+    "ఆసిఫాబాద్ జిల్లా సిర్పూర్‌లో 12.2 డిగ్రీలు",
+    "హైదరాబాద్ రాజేంద్రనగర్‌లో 13.1, మౌలాలిలో 13.2 డిగ్రీలు",
+    "మరో రెండు రోజులు సాధారణం కంటే 2–3 డిగ్రీలు తక్కువ"
+   ],
+   "why": "చలి తీవ్రత పెరుగుతున్నందున పిల్లలు, వృద్ధులు, ఉదయాన్నే బయటకు వెళ్లేవారు జాగ్రత్తగా ఉండాలి.",
+   "pub": "2026-11-12T18:28+05:30",
+   "en": {
+    "h": "Telangana shivers as Kohir records season's lowest 11.3 degrees",
+    "p": "Minimum temperatures across Telangana fell 2–3 degrees below normal in the last 24 hours. Kohir in Sangareddy district recorded the state's lowest at 11.3 degrees Celsius, followed by Chandanvelly in Rangareddy district at 11.4 and Rajapur in Mahabubnagar district at 12 degrees. IMD Hyderabad forecast dry weather over the coming week.",
+    "pts": [
+     "Sirpur in Asifabad district at 12.2 degrees",
+     "Hyderabad: Rajendranagar 13.1, Moula Ali 13.2 degrees",
+     "2–3 degrees below normal for two more days"
+    ],
+    "why": "With the cold intensifying, children, the elderly and early-morning commuters need to take care.",
+    "cat": "Sangareddy · Weather",
+    "statl": "Season's lowest temperature at Kohir"
+   },
+   "hi": {
+    "h": "ठिठुरा तेलंगाना: कोहिर में मौसम का सबसे कम तापमान 11.3 डिग्री",
+    "p": "पिछले 24 घंटों में पूरे तेलंगाना में न्यूनतम तापमान सामान्य से 2–3 डिग्री नीचे गिरा। संगारेड्डी ज़िले के कोहिर में राज्य का सबसे कम 11.3 डिग्री सेल्सियस दर्ज हुआ। इसके बाद रंगारेड्डी ज़िले के चंदनवेल्ली में 11.4 और महबूबनगर ज़िले के राजापुर में 12 डिग्री रहा। आईएमडी हैदराबाद ने अगले हफ़्ते शुष्क मौसम का अनुमान जताया है।",
+    "pts": [
+     "आसिफाबाद ज़िले के सिरपुर में 12.2 डिग्री",
+     "हैदराबाद: राजेंद्रनगर 13.1, मौला अली 13.2 डिग्री",
+     "अगले दो दिन सामान्य से 2–3 डिग्री कम"
+    ],
+    "why": "ठंड बढ़ने से बच्चों, बुज़ुर्गों और सुबह जल्दी निकलने वालों को सावधान रहना चाहिए।",
+    "cat": "संगारेड्डी · मौसम",
+    "statl": "कोहिर में मौसम का सबसे कम तापमान"
+   },
+   "d": "12.11.2026",
+   "t": "22:05"
+  },
   {
    "cat": "తెలంగాణ · ఆరోగ్యం",
    "col": "--c-water",
@@ -2306,205 +2407,6 @@
    },
    "d": "12.11.2026",
    "t": "15:05"
-  },
-  {
-   "cat": "నారాయణపేట · నీరు",
-   "col": "--c-water",
-   "art": "water",
-   "stat": "24%",
-   "statl": "రాష్ట్రంలో వర్షపాత లోటు (జూన్–అక్టోబర్)",
-   "h": "మక్తల్‌లో తాగునీటి కొరతపై మహిళల రాస్తారోకో",
-   "p": "నారాయణపేట జిల్లా మక్తల్ మున్సిపాలిటీ నందిని నగర్ కాలనీలో తాగునీటి కొరతపై గురువారం పలువురు మహిళలు రోడ్డును దిగ్బంధించారు. నీటి కోసం దూరం వెళ్లాల్సి వస్తోందని, కౌన్సిలర్ అభ్యర్థులు ఇచ్చిన హామీలు నెరవేరలేదని వారు ఆరోపించారు. జూన్–అక్టోబర్‌లో తెలంగాణలో సాధారణం (831 మి.మీ.) కంటే 24% తక్కువగా 628 మి.మీ. వర్షం పడిందని సియాసత్ పేర్కొంది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/narayanpet-women-protest-drinking-water-shortage-blame-govt-3575097/",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "narayanpet",
-   "loc": "మక్తల్",
-   "pts": [
-    "నందిని నగర్ కాలనీలో మహిళల రోడ్డు దిగ్బంధం",
-    "నీటి కోసం దూరం వెళ్లాల్సి వస్తోందని ఆవేదన",
-    "554 మండలాల్లో భూగర్భ జలాలు తగ్గుదల"
-   ],
-   "why": "వర్షాభావంతో నారాయణపేట జిల్లాలో తాగునీటి సమస్య తీవ్రమవుతోందని ఇది చూపిస్తోంది.",
-   "pub": "2026-11-12T14:14+05:30",
-   "en": {
-    "h": "Women block road in Makthal over drinking water shortage",
-    "p": "Several women blocked a road in Nandini Nagar Colony of Makthal municipality in Narayanpet district on Thursday over a drinking water shortage. They said they have to travel long distances for water and alleged that promises made by councillor candidates were not kept. Siasat reported that Telangana received 628 mm of rain in June–October, 24% below the normal 831 mm.",
-    "pts": [
-     "Women block road in Nandini Nagar Colony",
-     "Say they travel long distances for water",
-     "Groundwater declined in 554 mandals"
-    ],
-    "why": "It shows the drinking water problem is worsening in Narayanpet district due to poor rainfall.",
-    "cat": "Narayanpet · Water",
-    "statl": "State rainfall deficit (June–October)"
-   },
-   "hi": {
-    "h": "मक्तल में पेयजल संकट पर महिलाओं ने सड़क जाम की",
-    "p": "नारायणपेट जिले की मक्तल नगरपालिका की नंदिनी नगर कॉलोनी में गुरुवार को कई महिलाओं ने पेयजल की कमी को लेकर सड़क जाम कर दी। उन्होंने कहा कि पानी के लिए दूर जाना पड़ता है और आरोप लगाया कि पार्षद उम्मीदवारों के वादे पूरे नहीं हुए। सियासत के अनुसार जून–अक्टूबर में तेलंगाना में सामान्य 831 मिमी के मुकाबले 24% कम, 628 मिमी बारिश हुई।",
-    "pts": [
-     "नंदिनी नगर कॉलोनी में महिलाओं ने सड़क जाम की",
-     "पानी के लिए दूर जाने की शिकायत",
-     "554 मंडलों में भूजल स्तर में गिरावट"
-    ],
-    "why": "यह दिखाता है कि कम बारिश से नारायणपेट जिले में पेयजल संकट गहरा रहा है।",
-    "cat": "नारायणपेट · पानी",
-    "statl": "राज्य में बारिश की कमी (जून–अक्टूबर)"
-   },
-   "d": "12.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "తెలంగాణ · హైకోర్టు",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "2015",
-   "statl": "ఫ్యామిలీ కోర్టు పిటిషన్ కొట్టివేసిన ఏడాది",
-   "h": "ఆధారాలు లేకుంటే విడాకులు లేవు: భర్త అప్పీల్ కొట్టివేసిన హైకోర్టు",
-   "p": "క్రూరత్వం కారణంగా విడాకులు కోరుతూ ఒక భర్త వేసిన అప్పీల్‌ను తెలంగాణ హైకోర్టు ధర్మాసనం కొట్టివేసింది. భార్యపై చేసిన వివాహేతర సంబంధం ఆరోపణ రుజువు కాలేదని పేర్కొంది. డబ్బు పంపినట్లు బ్యాంకు పాస్‌బుక్ ఒక్కటే సరిపోదని, సాక్షులను విచారించలేదని తెలిపింది. 2015లోనే ఫ్యామిలీ కోర్టు ఈ పిటిషన్‌ను తోసిపుచ్చింది.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/no-proof-no-divorce-telangana-hc-rejects-husbands-plea-3575113/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "జస్టిస్ కె. లక్ష్మణ్, జస్టిస్ కె. సుజన ధర్మాసనం తీర్పు",
-    "వివాహేతర సంబంధం ఆరోపణ రుజువు కాలేదని స్పష్టం",
-    "పాస్‌బుక్ ఒక్కటే ఆధారంగా సరిపోదని వ్యాఖ్య"
-   ],
-   "why": "విడాకుల కేసుల్లో ఆరోపణలకు స్పష్టమైన ఆధారాలు అవసరమని ఈ తీర్పు గుర్తుచేస్తోంది.",
-   "pub": "2026-11-12T14:07+05:30",
-   "en": {
-    "h": "No proof, no divorce: Telangana HC dismisses husband's appeal",
-    "p": "A Telangana High Court division bench dismissed a husband's appeal seeking divorce on grounds of cruelty. It said his allegation of an illicit relationship against his wife was not proven. The court said a bank passbook alone was not enough to prove money was sent and that witnesses were not examined. A family court had rejected the petition in 2015.",
-    "pts": [
-     "Verdict by Justices K Lakshman and K Sujana",
-     "Illicit relationship allegation not proven, court says",
-     "Passbook alone not sufficient evidence"
-    ],
-    "why": "The verdict is a reminder that allegations in divorce cases need clear proof.",
-    "cat": "Telangana · High Court",
-    "statl": "Year family court dismissed petition"
-   },
-   "hi": {
-    "h": "सबूत नहीं तो तलाक नहीं: तेलंगाना हाईकोर्ट ने पति की अपील खारिज की",
-    "p": "तेलंगाना हाईकोर्ट की खंडपीठ ने क्रूरता के आधार पर तलाक मांगने वाले एक पति की अपील खारिज कर दी। अदालत ने कहा कि पत्नी पर लगाया गया अवैध संबंध का आरोप साबित नहीं हुआ। अदालत ने कहा कि पैसे भेजने के सबूत के रूप में केवल बैंक पासबुक काफी नहीं है और गवाहों से पूछताछ नहीं हुई। फैमिली कोर्ट ने 2015 में यह याचिका खारिज की थी।",
-    "pts": [
-     "जस्टिस के. लक्ष्मण और जस्टिस के. सुजना की पीठ का फैसला",
-     "अवैध संबंध का आरोप साबित नहीं: अदालत",
-     "केवल पासबुक पर्याप्त सबूत नहीं"
-    ],
-    "why": "यह फैसला याद दिलाता है कि तलाक के मामलों में आरोपों के लिए ठोस सबूत जरूरी हैं।",
-    "cat": "तेलंगाना · हाईकोर्ट",
-    "statl": "फैमिली कोर्ट ने याचिका खारिज की"
-   },
-   "d": "12.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "భారత్ · పట్టణాభివృద్ధి",
-   "col": "--c-city",
-   "art": "deadline",
-   "stat": "డిసెం. 2027",
-   "statl": "డంప్‌సైట్ల శుద్ధికి కొత్త తుది గడువు",
-   "h": "పాత చెత్త డంప్‌సైట్ల తొలగింపు గడువు డిసెంబర్ 2027కి పొడిగింపు",
-   "p": "స్వచ్ఛ భారత్ మిషన్–అర్బన్ 2.0 కింద పాత డంప్‌సైట్ల శుద్ధికి ఉన్న 2026 అక్టోబర్ 1 గడువును పొడిగించారని ఇండియన్ ఎక్స్‌ప్రెస్ కథనాన్ని ఉటంకిస్తూ సియాసత్ తెలిపింది. తుది గడువు ఇప్పుడు డిసెంబర్ 2027. నవంబర్ 11 నాటికి 2,607 డంప్‌సైట్లలో 1,402 శుద్ధి కాగా, 148 చోట్ల పనుల్లో ఎలాంటి పురోగతి లేదు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/deadline-to-clear-dumpsites-pushed-to-december-2027-report-3575076/",
-   "sec": [
-    "india"
-   ],
-   "st": "IN",
-   "place": "IN",
-   "pts": [
-    "మిషన్ గడువు మార్చి 2027 వరకు పొడిగింపు",
-    "1,057 డంప్‌సైట్లలో పనులు కొనసాగుతున్నాయి",
-    "చెన్నై, ముంబై అత్యంత క్లిష్టమని మంత్రి మనోహర్ లాల్"
-   ],
-   "why": "నగరాల్లో చెత్త గుట్టల సమీపంలో నివసించే ప్రజలపై ఈ పనుల వేగం ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-12T13:59+05:30",
-   "en": {
-    "h": "Deadline to clear legacy dumpsites extended to December 2027",
-    "p": "The 1 October 2026 deadline to remediate legacy dumpsites under Swachh Bharat Mission-Urban 2.0 has been extended, Siasat reported citing The Indian Express. The final deadline is now December 2027. As of 11 November, 1,402 of 2,607 dumpsites had been remediated, while 148 showed no progress.",
-    "pts": [
-     "Mission extended to March 2027",
-     "Work under way at 1,057 dumpsites",
-     "Minister Manohar Lal says Chennai, Mumbai most challenging"
-    ],
-    "why": "The pace of this work affects people living near garbage mounds in cities.",
-    "cat": "India · Urban Development",
-    "statl": "New final deadline for dumpsite clean-up"
-   },
-   "hi": {
-    "h": "पुराने कचरा डंपसाइट हटाने की समय-सीमा दिसंबर 2027 तक बढ़ी",
-    "p": "सियासत ने इंडियन एक्सप्रेस के हवाले से बताया कि स्वच्छ भारत मिशन-शहरी 2.0 के तहत पुराने डंपसाइट के निपटान की 1 अक्टूबर 2026 की समय-सीमा बढ़ा दी गई है। अंतिम समय-सीमा अब दिसंबर 2027 है। 11 नवंबर तक 2,607 में से 1,402 डंपसाइट साफ हुईं, जबकि 148 पर कोई प्रगति नहीं हुई।",
-    "pts": [
-     "मिशन मार्च 2027 तक बढ़ाया गया",
-     "1,057 डंपसाइट पर काम जारी",
-     "मंत्री मनोहर लाल: चेन्नई, मुंबई सबसे कठिन"
-    ],
-    "why": "इस काम की रफ्तार शहरों में कचरे के ढेरों के पास रहने वाले लोगों को प्रभावित करती है।",
-    "cat": "भारत · शहरी विकास",
-    "statl": "डंपसाइट सफाई की नई अंतिम समय-सीमा"
-   },
-   "d": "12.11.2026",
-   "t": "14:35"
-  },
-  {
-   "cat": "వాతావరణం · హైదరాబాద్",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "16°C",
-   "statl": "హైదరాబాద్‌లో కనిష్ఠ ఉష్ణోగ్రత అంచనా",
-   "h": "హైదరాబాద్‌లో పొగమంచు, 16–32 డిగ్రీలు; అమరావతిలో 33 డిగ్రీల వరకు",
-   "p": "భారత వాతావరణ శాఖ అంచనాల ప్రకారం గురువారం హైదరాబాద్‌లో పొగమంచు (హేజ్) ఉంటుంది, ఉష్ణోగ్రత 16 నుంచి 32 డిగ్రీల మధ్య ఉంటుంది. అమరావతిలోనూ హేజ్, 21–33 డిగ్రీలు. చెన్నైలో తేలికపాటి వర్షం, తిరువనంతపురంలో ఉరుములతో వర్షం అవకాశం ఉందని ద సౌత్ ఫస్ట్ తెలిపింది. హైదరాబాద్, అమరావతి, చెన్నై, బెంగళూరుకు హెచ్చరికలు జారీ కాలేదు.",
-   "src": "The South First",
-   "url": "https://thesouthfirst.com/news/weather-update-forecast-for-southern-cities-on-12-november/",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "హైదరాబాద్: హేజ్, 16–32 డిగ్రీలు",
-    "అమరావతి: హేజ్, 21–33 డిగ్రీలు",
-    "చెన్నైలో తేలికపాటి వర్షం; బెంగళూరు మేఘావృతం"
-   ],
-   "why": "రెండు తెలుగు రాష్ట్రాల రాజధానుల్లో రోజువారీ ప్రయాణాలు, పనులకు ఈ అంచనా ఉపయోగపడుతుంది.",
-   "pub": "2026-11-12T06:45+05:30",
-   "en": {
-    "h": "Haze in Hyderabad, 16–32°C; Amaravati up to 33°C",
-    "p": "According to IMD forecasts, Hyderabad will see haze on Thursday with temperatures between 16 and 32 degrees Celsius. Amaravati will also be hazy at 21–33 degrees. The South First reported light rain in Chennai and a chance of thunderstorms in Thiruvananthapuram. No warnings were issued for Hyderabad, Amaravati, Chennai and Bengaluru.",
-    "pts": [
-     "Hyderabad: haze, 16–32°C",
-     "Amaravati: haze, 21–33°C",
-     "Light rain in Chennai; Bengaluru cloudy"
-    ],
-    "why": "The forecast helps daily travel and work in the capitals of both Telugu states.",
-    "cat": "Weather · Hyderabad",
-    "statl": "Forecast minimum in Hyderabad"
-   },
-   "hi": {
-    "h": "हैदराबाद में धुंध, 16–32 डिग्री; अमरावती में 33 डिग्री तक",
-    "p": "भारत मौसम विज्ञान विभाग के पूर्वानुमान के अनुसार गुरुवार को हैदराबाद में धुंध रहेगी और तापमान 16 से 32 डिग्री के बीच रहेगा। अमरावती में भी धुंध, 21–33 डिग्री। द साउथ फर्स्ट के अनुसार चेन्नई में हल्की बारिश और तिरुवनंतपुरम में गरज के साथ बारिश की संभावना है। हैदराबाद, अमरावती, चेन्नई और बेंगलुरु के लिए कोई चेतावनी जारी नहीं हुई।",
-    "pts": [
-     "हैदराबाद: धुंध, 16–32 डिग्री",
-     "अमरावती: धुंध, 21–33 डिग्री",
-     "चेन्नई में हल्की बारिश; बेंगलुरु में बादल"
-    ],
-    "why": "यह पूर्वानुमान दोनों तेलुगु राज्यों की राजधानियों में रोज़ाना यात्रा और काम में मददगार है।",
-    "cat": "मौसम · हैदराबाद",
-    "statl": "हैदराबाद में न्यूनतम तापमान का अनुमान"
-   },
-   "d": "12.11.2026",
-   "t": "14:35"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
