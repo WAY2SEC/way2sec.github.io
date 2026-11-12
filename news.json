@@ -1,8 +1,454 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T12:39:19+05:30",
+ "updated": "2026-11-12T13:10:34+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "26 నవం.",
+   "statl": "పోలింగ్ తేదీ",
+   "h": "ఏపీలో 23 పట్టణ స్థానిక సంస్థలకు ఎన్నికల షెడ్యూల్ విడుదల",
+   "p": "ఆంధ్రప్రదేశ్‌లో 23 పట్టణ స్థానిక సంస్థల ఎన్నికలకు నోటిఫికేషన్ వచ్చింది. ఇందులో 4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలు ఉన్నాయి. నవంబర్ 14 నుంచి 16 వరకు నామినేషన్లు, 17న పరిశీలన, 19 వరకు ఉపసంహరణకు అవకాశం ఉంటుంది. నవంబర్ 26న పోలింగ్, 30న ఓట్ల లెక్కింపు జరుగుతాయని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "pts": [
+    "4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలకు ఎన్నికలు",
+    "నవంబర్ 14–16 నామినేషన్లు",
+    "26న పోలింగ్, 30న లెక్కింపు"
+   ],
+   "why": "ఈ 23 పట్టణాల ఓటర్లు, పోటీ చేయాలనుకునే అభ్యర్థులకు ఈ తేదీలు కీలకం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-12T13:04+05:30",
+   "en": {
+    "h": "AP announces election schedule for 23 urban local bodies",
+    "p": "A notification has been issued for elections to 23 urban local bodies in Andhra Pradesh, covering 4 corporations and 19 municipalities. Nominations will be accepted from November 14 to 16, scrutiny is on the 17th and candidates can withdraw until the 19th. Polling will be held on November 26 and counting on the 30th, Andhra Jyothy reported.",
+    "pts": [
+     "Polls for 4 corporations and 19 municipalities",
+     "Nominations from November 14 to 16",
+     "Polling on 26th, counting on 30th"
+    ],
+    "why": "These dates matter to voters and would-be candidates in these 23 towns.",
+    "cat": "AP · Local Elections",
+    "statl": "Polling date"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 23 शहरी निकायों के चुनाव का कार्यक्रम जारी",
+    "p": "आंध्र प्रदेश में 23 शहरी स्थानीय निकायों के चुनाव की अधिसूचना जारी हुई है। इनमें 4 नगर निगम और 19 नगरपालिकाएं शामिल हैं। 14 से 16 नवंबर तक नामांकन, 17 को जांच और 19 तक नाम वापसी होगी। आंध्रज्योति के अनुसार 26 नवंबर को मतदान और 30 को मतगणना होगी।",
+    "pts": [
+     "4 नगर निगम, 19 नगरपालिकाओं में चुनाव",
+     "14–16 नवंबर तक नामांकन",
+     "26 को मतदान, 30 को मतगणना"
+    ],
+    "why": "इन 23 शहरों के मतदाताओं और उम्मीदवारों के लिए ये तारीखें अहम हैं।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "मतदान की तारीख"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "30 డిసెం.",
+   "statl": "తుది ఓటర్ల జాబితా",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఓటర్ల జాబితా: 25న ముసాయిదా, డిసెంబర్ 30న తుది జాబితా",
+   "p": "తెలంగాణలో పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల ఓటర్ల జాబితా షెడ్యూల్ వెలువడింది. నవంబర్ 25న ముసాయిదా ఓటర్ల జాబితా, డిసెంబర్ 30న తుది జాబితా విడుదల చేస్తారని ఆంధ్రజ్యోతి పేర్కొంది. ఈ ప్రక్రియపై ఇతర వివరాలు ఇంకా వెల్లడి కాలేదు.",
+   "pts": [
+    "నవంబర్ 25న ముసాయిదా ఓటర్ల జాబితా",
+    "డిసెంబర్ 30న తుది ఓటర్ల జాబితా"
+   ],
+   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలనుకునే వారు ఈ తేదీలు గమనించాలి.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-12T13:04+05:30",
+   "en": {
+    "h": "Graduates' MLC voter list: draft on 25th, final list on December 30",
+    "p": "The voter list schedule for Telangana's graduates' MLC election has been announced. The draft voter list will be released on November 25 and the final list on December 30, Andhra Jyothy reported. Other details of the process have not yet been given.",
+    "pts": [
+     "Draft voter list on November 25",
+     "Final voter list on December 30"
+    ],
+    "why": "Graduates who want to vote in the MLC election should note these dates.",
+    "cat": "Telangana · Elections",
+    "statl": "Final voter list"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी मतदाता सूची: 25 को मसौदा, 30 दिसंबर को अंतिम सूची",
+    "p": "तेलंगाना में स्नातक एमएलसी चुनाव की मतदाता सूची का कार्यक्रम जारी हुआ है। आंध्रज्योति के अनुसार 25 नवंबर को मसौदा मतदाता सूची और 30 दिसंबर को अंतिम सूची जारी होगी। प्रक्रिया के अन्य विवरण अभी नहीं दिए गए हैं।",
+    "pts": [
+     "25 नवंबर को मसौदा मतदाता सूची",
+     "30 दिसंबर को अंतिम मतदाता सूची"
+    ],
+    "why": "एमएलसी चुनाव में वोट देने वाले स्नातकों को ये तारीखें ध्यान रखनी चाहिए।",
+    "cat": "तेलंगाना · चुनाव",
+    "statl": "अंतिम मतदाता सूची"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "8",
+   "statl": "సీఐఐ సదస్సులు నిర్వహించానన్న సీఎం",
+   "h": "విశాఖ సమీపంలో సెమీకండక్టర్ హబ్: సీఐఐ సదస్సులో సీఎం చంద్రబాబు",
+   "p": "విశాఖపట్నంలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో సీఎం చంద్రబాబు మాట్లాడుతూ, విశాఖ సమీపంలో సెమీకండక్టర్ పరిశ్రమల హబ్ వస్తుందని చెప్పారు. ఇప్పటివరకు ఎనిమిది సీఐఐ సదస్సులు నిర్వహించానని, విశాఖ దేశంలోనే అత్యంత పరిశుభ్రమైన, సురక్షితమైన నగరమని అన్నారు. ఏపీ పెట్టుబడులకు నమ్మకమైన రాష్ట్రమని డిప్యూటీ సీఎం పవన్ కల్యాణ్, సాంకేతికత వినియోగంలో ఏపీ ముందుందని కేంద్ర మంత్రి పీయూష్ గోయల్ అన్నారు.",
+   "pts": [
+    "విశాఖ సమీపంలో సెమీకండక్టర్ హబ్ వస్తుందన్న సీఎం",
+    "అంతర్జాతీయ స్థాయి మౌలిక వసతులు కల్పిస్తున్నామని వెల్లడి",
+    "ఉత్తరాంధ్రకు పర్యాటక అవకాశాలు ఎక్కువన్న రామ్మోహన్ నాయుడు"
+   ],
+   "why": "సెమీకండక్టర్ పరిశ్రమలు వస్తే ఉత్తరాంధ్ర యువతకు ఉద్యోగ అవకాశాలు పెరగవచ్చు.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pub": "2026-11-12T12:56+05:30",
+   "en": {
+    "h": "Semiconductor hub to come near Visakhapatnam: CM Naidu at CII summit",
+    "p": "Speaking at the CII Partnership Summit in Visakhapatnam, CM Chandrababu Naidu said a semiconductor industry hub will come up near the city. He said he has held eight CII summits so far and called Visakhapatnam the country's cleanest and safest city. Deputy CM Pawan Kalyan called AP a reliable place for investment, and Union minister Piyush Goyal said AP leads in adopting technology.",
+    "pts": [
+     "CM says semiconductor hub coming near Vizag",
+     "International-standard infrastructure being provided, he says",
+     "Rammohan Naidu cites Uttarandhra's tourism potential"
+    ],
+    "why": "Semiconductor industries could bring more jobs for young people in north Andhra.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CII summits held, says CM"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम के पास सेमीकंडक्टर हब: सीआईआई सम्मेलन में सीएम नायडू",
+    "p": "विशाखापत्तनम में सीआईआई साझेदारी सम्मेलन में मुख्यमंत्री चंद्रबाबू नायडू ने कहा कि शहर के पास सेमीकंडक्टर उद्योग हब आएगा। उन्होंने कहा कि वे अब तक आठ सीआईआई सम्मेलन कर चुके हैं और विशाखापत्तनम देश का सबसे स्वच्छ और सुरक्षित शहर है। उपमुख्यमंत्री पवन कल्याण ने आंध्र को निवेश के लिए भरोसेमंद बताया और केंद्रीय मंत्री पीयूष गोयल ने कहा कि तकनीक अपनाने में आंध्र आगे है।",
+    "pts": [
+     "सीएम बोले, विशाखापत्तनम के पास सेमीकंडक्टर हब",
+     "अंतरराष्ट्रीय स्तर का बुनियादी ढांचा दे रहे हैं",
+     "राममोहन नायडू: उत्तरांध्र में पर्यटन की बड़ी संभावना"
+    ],
+    "why": "सेमीकंडक्टर उद्योग आने से उत्तर आंध्र के युवाओं के लिए नौकरियां बढ़ सकती हैं।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सीआईआई सम्मेलन, सीएम के अनुसार"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "₹1 కోటి",
+   "statl": "ఉద్యోగుల ఒక రోజు వేతనం విరాళం",
+   "h": "మృతి చెందిన నర్సంపేట ఆర్టీసీ డ్రైవర్ కుమారుడికి ఆర్టీసీలో ఉద్యోగం",
+   "p": "ఆత్మహత్య చేసుకున్న నర్సంపేట డిపో ఆర్టీసీ డ్రైవర్ కుటుంబానికి ఇచ్చిన హామీని ప్రభుత్వం నెరవేర్చిందని ఆంధ్రజ్యోతి పేర్కొంది. డ్రైవర్ కుమారుడిని ఆర్టీసీలో రికార్డు ట్రెజరర్‌గా నియమిస్తూ మంత్రి పొన్నం ప్రభాకర్, ఆర్టీసీ ఎండీ నాగిరెడ్డి నియామక పత్రం అందజేశారు. ప్రభుత్వం, ఆర్టీసీ తరఫున పరిహారం ఇచ్చారు. ఆర్టీసీ ఉద్యోగులు ఒక రోజు వేతనంతో రూ.1 కోటి విరాళంగా అందించారు.",
+   "pts": [
+    "డ్రైవర్ కుమారుడికి ఆర్టీసీలో రికార్డు ట్రెజరర్ ఉద్యోగం",
+    "మంత్రి పొన్నం, ఎండీ నాగిరెడ్డి చేతుల మీదుగా నియామక పత్రం",
+    "ఉద్యోగుల ఒక రోజు వేతనం రూ.1 కోటి విరాళం"
+   ],
+   "why": "విధుల్లో ఉన్న ఉద్యోగి మృతి చెందితే కుటుంబానికి అండగా నిలిచే చర్యగా ఇది ఆర్టీసీ సిబ్బందికి ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-12T12:38+05:30",
+   "en": {
+    "h": "Son of deceased Narsampet RTC driver given job in RTC",
+    "p": "The government has kept its promise to the family of a Narsampet depot RTC driver who died by suicide, Andhra Jyothy reported. Minister Ponnam Prabhakar and RTC MD Nagireddy handed over a letter appointing the driver's son as record treasurer in the RTC. Compensation was given by the government and the RTC, and RTC employees donated Rs 1 crore from one day's pay.",
+    "pts": [
+     "Driver's son appointed record treasurer in RTC",
+     "Letter handed over by Minister Ponnam and MD Nagireddy",
+     "Employees donate Rs 1 crore from a day's pay"
+    ],
+    "why": "It matters to RTC staff as support for the family of an employee who died.",
+    "cat": "Telangana · RTC",
+    "statl": "Employees' one-day pay donated"
+   },
+   "hi": {
+    "h": "नरसंपेट के दिवंगत आरटीसी चालक के बेटे को आरटीसी में नौकरी",
+    "p": "आंध्रज्योति के अनुसार सरकार ने नरसंपेट डिपो के उस आरटीसी चालक के परिवार से किया वादा निभाया, जिसने आत्महत्या की थी। मंत्री पोन्नम प्रभाकर और आरटीसी एमडी नागिरेड्डी ने चालक के बेटे को आरटीसी में रिकॉर्ड ट्रेज़रर नियुक्त करने का पत्र सौंपा। सरकार और आरटीसी की ओर से मुआवजा दिया गया और आरटीसी कर्मचारियों ने एक दिन के वेतन से 1 करोड़ रुपये दान किए।",
+    "pts": [
+     "चालक के बेटे को आरटीसी में रिकॉर्ड ट्रेज़रर की नौकरी",
+     "मंत्री पोन्नम और एमडी नागिरेड्डी ने पत्र सौंपा",
+     "कर्मचारियों ने एक दिन का वेतन, 1 करोड़ रुपये दान दिए"
+    ],
+    "why": "दिवंगत कर्मचारी के परिवार को सहारा देने का यह कदम आरटीसी कर्मियों के लिए अहम है।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "कर्मचारियों का एक दिन का वेतन दान"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · విశ్వవిద్యాలయం",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "15 రోజులు",
+   "statl": "కమిటీ నివేదికకు గడువు",
+   "h": "వ్యవసాయ విశ్వవిద్యాలయంలో వేధింపుల ఆరోపణలు: మహిళా కమిషన్ ముందు వీసీ",
+   "p": "హైదరాబాద్‌లోని వ్యవసాయ విశ్వవిద్యాలయంలో వేధింపుల ఆరోపణలపై విచారణలో భాగంగా విశ్వవిద్యాలయ వీసీ రాష్ట్ర మహిళా కమిషన్ ముందు హాజరయ్యారని ఆంధ్రజ్యోతి పేర్కొంది. ఈ వ్యవహారంపై ప్రభుత్వం ఇప్పటికే రాష్ట్ర గిడ్డంగుల సంస్థ ఎండీ నేతృత్వంలో కమిటీని ఏర్పాటు చేసింది. 15 రోజుల్లో నివేదిక ఇవ్వాలని ఆదేశించింది.",
+   "pts": [
+    "రాష్ట్ర మహిళా కమిషన్ ముందు హాజరైన వీసీ",
+    "గిడ్డంగుల సంస్థ ఎండీ నేతృత్వంలో విచారణ కమిటీ",
+    "15 రోజుల్లో నివేదిక ఇవ్వాలని ఆదేశం"
+   ],
+   "why": "విశ్వవిద్యాలయాల్లో విద్యార్థులు, సిబ్బంది భద్రతపై ఈ విచారణ ఫలితం ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-12T12:35+05:30",
+   "en": {
+    "h": "Harassment allegations at agriculture university: VC appears before women's commission",
+    "p": "As part of the inquiry into harassment allegations at the agriculture university in Hyderabad, the university's Vice-Chancellor appeared before the State Women's Commission, Andhra Jyothy reported. The government has already set up a committee headed by the MD of the State Warehousing Corporation and ordered it to submit a report within 15 days.",
+    "pts": [
+     "VC appears before State Women's Commission",
+     "Probe committee headed by Warehousing Corporation MD",
+     "Report ordered within 15 days"
+    ],
+    "why": "The outcome matters for the safety of students and staff at universities.",
+    "cat": "Hyderabad · University",
+    "statl": "Deadline for committee report"
+   },
+   "hi": {
+    "h": "कृषि विश्वविद्यालय में उत्पीड़न के आरोप: महिला आयोग के सामने पेश हुए कुलपति",
+    "p": "आंध्रज्योति के अनुसार हैदराबाद के कृषि विश्वविद्यालय में उत्पीड़न के आरोपों की जांच के तहत विश्वविद्यालय के कुलपति राज्य महिला आयोग के सामने पेश हुए। सरकार ने पहले ही राज्य भंडारण निगम के एमडी की अध्यक्षता में एक समिति बनाई है और 15 दिन में रिपोर्ट देने का आदेश दिया है।",
+    "pts": [
+     "राज्य महिला आयोग के सामने पेश हुए कुलपति",
+     "भंडारण निगम एमडी की अध्यक्षता में जांच समिति",
+     "15 दिन में रिपोर्ट देने का आदेश"
+    ],
+    "why": "विश्वविद्यालयों में छात्रों और कर्मचारियों की सुरक्षा के लिए यह जांच अहम है।",
+    "cat": "हैदराबाद · विश्वविद्यालय",
+    "statl": "समिति रिपोर्ट की समय सीमा"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ఏపీ · శ్రీ సత్యసాయి",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "జామకాయ",
+   "statl": "కోసిందని బాలికపై దాడి ఆరోపణ",
+   "h": "అప్‌డేట్: జామకాయ ఘటన బాలిక కోలుకుంటోంది; కుటుంబానికి అండగా ఉంటామన్న మంత్రి సవిత",
+   "p": "శ్రీ సత్యసాయి జిల్లాలో జామకాయ కోసిందని ఒక మహిళ బాలికపై రాయితో దాడి చేసిందన్న ఘటనపై మంత్రి సవిత బాలిక తల్లిదండ్రులతో ఫోన్‌లో మాట్లాడారు. బాలిక గాయాల నుంచి కోలుకుంటోందని తల్లిదండ్రులు తెలిపారు. అనంతపురం ప్రభుత్వ ఆసుపత్రి వైద్యులతో మాట్లాడి మెరుగైన చికిత్స అందించాలని మంత్రి ఆదేశించారు. దాడి అమానుషమని, దాడి చేసిన మహిళపై చట్టపరమైన చర్యలు తీసుకుంటామని చెప్పారని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "pts": [
+    "బాలిక కోలుకుంటోందని తెలిపిన తల్లిదండ్రులు",
+    "మెరుగైన చికిత్సకు మంత్రి సవిత ఆదేశం",
+    "దాడి చేసిన మహిళపై చట్టపరమైన చర్యలని హామీ"
+   ],
+   "why": "పిల్లలపై హింసపై ప్రభుత్వ స్పందన, బాధిత కుటుంబానికి సహాయం ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-sathyasai",
+   "pub": "2026-11-12T12:33+05:30",
+   "en": {
+    "h": "Update: Girl in guava attack recovering; Minister Savitha promises support",
+    "p": "Minister Savitha spoke by phone to the parents of a girl in Sri Sathya Sai district who was allegedly hit with a stone by a woman for plucking a guava. The parents said the girl is recovering from her injuries. The minister spoke to Anantapur government hospital doctors and ordered better treatment. Andhra Jyothy reported she called the attack inhuman and said legal action would be taken against the woman.",
+    "pts": [
+     "Parents say the girl is recovering",
+     "Minister Savitha orders better treatment",
+     "Legal action promised against the woman attacker"
+    ],
+    "why": "The government's response and help for the family matter in cases of violence against children.",
+    "cat": "AP · Sri Sathya Sai",
+    "statl": "Girl allegedly attacked for plucking"
+   },
+   "hi": {
+    "h": "अपडेट: अमरूद मामले में बच्ची ठीक हो रही; मंत्री सविता ने मदद का भरोसा दिया",
+    "p": "मंत्री सविता ने श्री सत्य साई जिले की उस बच्ची के माता-पिता से फोन पर बात की, जिस पर अमरूद तोड़ने पर एक महिला ने कथित तौर पर पत्थर से हमला किया था। माता-पिता ने बताया कि बच्ची ठीक हो रही है। मंत्री ने अनंतपुर सरकारी अस्पताल के डॉक्टरों से बात कर बेहतर इलाज का आदेश दिया। आंध्रज्योति के अनुसार उन्होंने हमले को अमानवीय बताया और हमलावर महिला पर कानूनी कार्रवाई की बात कही।",
+    "pts": [
+     "माता-पिता बोले, बच्ची ठीक हो रही है",
+     "मंत्री सविता ने बेहतर इलाज का आदेश दिया",
+     "हमलावर महिला पर कानूनी कार्रवाई का भरोसा"
+    ],
+    "why": "बच्चों पर हिंसा के मामलों में सरकार की प्रतिक्रिया और परिवार की मदद अहम है।",
+    "cat": "आंध्र प्रदेश · श्री सत्य साई",
+    "statl": "तोड़ने पर बच्ची पर हमले का आरोप"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "వనపర్తి · ఏసీబీ",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "10",
+   "statl": "ఏసీబీ బృందాలతో సోదాలు",
+   "h": "వనపర్తిలో నీటిపారుదల శాఖ అధికారి ఇంటిపై ఏసీబీ సోదాలు",
+   "p": "ఆదాయానికి మించిన ఆస్తుల కేసులో వనపర్తి జిల్లా ఖిల్లా ఘనపూర్ మండలం షాపూర్‌లో నీటిపారుదల, సీఏడీ శాఖకు చెందిన ఓ డిప్యూటీ ఎగ్జిక్యూటివ్ ఇంజినీర్ నివాసం సహా పలు చోట్ల ఏసీబీ అధికారులు సోదాలు చేశారు. పది ఏసీబీ బృందాలు ఇందులో పాల్గొన్నాయి. స్వాధీనం చేసుకున్న ఆస్తులు, కీలక పత్రాల వివరాలు ఇంకా వెల్లడించాల్సి ఉందని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "pts": [
+    "ఆదాయానికి మించిన ఆస్తుల కేసులో సోదాలు",
+    "పది ఏసీబీ బృందాల మోహరింపు",
+    "స్వాధీన ఆస్తుల వివరాలు ఇంకా వెల్లడి కాలేదు"
+   ],
+   "why": "ప్రభుత్వ శాఖల్లో అవినీతిపై నిఘా చర్యలు ప్రజలకు ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "wanaparthy",
+   "loc": "ఖిల్లా ఘనపూర్",
+   "pub": "2026-11-12T12:19+05:30",
+   "en": {
+    "h": "ACB searches irrigation official's home in Wanaparthy",
+    "p": "In a disproportionate assets case, ACB officials searched several places, including the residence of a Deputy Executive Engineer of the Irrigation and CAD department, in Shapur, Khilla Ghanpur mandal, Wanaparthy district. Ten ACB teams took part. Details of the assets and key documents seized are yet to be disclosed, Andhra Jyothy reported.",
+    "pts": [
+     "Searches in a disproportionate assets case",
+     "Ten ACB teams deployed",
+     "Details of seized assets not yet disclosed"
+    ],
+    "why": "Anti-corruption action in government departments matters to the public.",
+    "cat": "Wanaparthy · ACB",
+    "statl": "ACB teams in searches"
+   },
+   "hi": {
+    "h": "वनपर्ती में सिंचाई विभाग के अधिकारी के घर पर एसीबी की तलाशी",
+    "p": "आय से अधिक संपत्ति के मामले में एसीबी अधिकारियों ने वनपर्ती जिले के खिल्ला घनपुर मंडल के शापुर में सिंचाई और सीएडी विभाग के एक डिप्टी एग्जीक्यूटिव इंजीनियर के घर समेत कई जगहों पर तलाशी ली। इसमें दस एसीबी टीमें शामिल थीं। आंध्रज्योति के अनुसार जब्त संपत्ति और अहम दस्तावेजों का ब्योरा अभी जारी होना बाकी है।",
+    "pts": [
+     "आय से अधिक संपत्ति मामले में तलाशी",
+     "दस एसीबी टीमें तैनात",
+     "जब्त संपत्ति का ब्योरा अभी नहीं"
+    ],
+    "why": "सरकारी विभागों में भ्रष्टाचार पर कार्रवाई जनता के लिए अहम है।",
+    "cat": "वनपर्ती · एसीबी",
+    "statl": "तलाशी में एसीबी टीमें"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "82,013",
+   "statl": "ఉదయం ట్రేడింగ్‌లో సెన్సెక్స్",
+   "h": "ఉదయం ట్రేడింగ్‌లో లాభాల్లో సెన్సెక్స్, నిఫ్టీ; తగ్గిన ముడి చమురు ధర",
+   "p": "విదేశీ పెట్టుబడిదారుల కొనుగోళ్లు, ముడి చమురు ధర తగ్గడంతో గురువారం ఉదయం ట్రేడింగ్‌లో సెన్సెక్స్ 166.44 పాయింట్లు పెరిగి 82,013.58కి, నిఫ్టీ 55.65 పాయింట్లు పెరిగి 25,316.55కి చేరాయి. బుధవారం విదేశీ సంస్థాగత పెట్టుబడిదారులు రూ.12,563.33 కోట్ల షేర్లు కొన్నారు. బ్రెంట్ ముడి చమురు 1.12% తగ్గి బ్యారెల్ 91.75 డాలర్లకు చేరిందని పీటీఐని ఉటంకిస్తూ ఈటీవీ భారత్ పేర్కొంది.",
+   "pts": [
+    "సెన్సెక్స్ 166 పాయింట్లు, నిఫ్టీ 56 పాయింట్లు పెరుగుదల",
+    "బుధవారం విదేశీ సంస్థల కొనుగోళ్లు రూ.12,563 కోట్లు",
+    "నవంబర్‌లో ఇప్పటివరకు నిఫ్టీ 9.55% పెరుగుదల"
+   ],
+   "why": "మ్యూచువల్ ఫండ్లు, షేర్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై మార్కెట్ కదలికలు ప్రభావం చూపుతాయి.",
+   "src": "ETV Bharat (PTI)",
+   "url": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-12T10:09+05:30",
+   "en": {
+    "h": "Sensex, Nifty gain in early trade; crude oil prices fall",
+    "p": "Helped by foreign investor buying and lower crude prices, the Sensex rose 166.44 points to 82,013.58 and the Nifty rose 55.65 points to 25,316.55 in early trade on Thursday. Foreign institutional investors bought shares worth Rs 12,563.33 crore on Wednesday. Brent crude fell 1.12% to 91.75 dollars a barrel, ETV Bharat reported, citing PTI.",
+    "pts": [
+     "Sensex up 166 points, Nifty up 56 points",
+     "FIIs bought Rs 12,563 crore on Wednesday",
+     "Nifty up 9.55% so far in November"
+    ],
+    "why": "Market moves affect the savings of people invested in mutual funds and shares.",
+    "cat": "India · Markets",
+    "statl": "Sensex in early trade"
+   },
+   "hi": {
+    "h": "शुरुआती कारोबार में सेंसेक्स, निफ्टी में बढ़त; कच्चा तेल सस्ता",
+    "p": "विदेशी निवेशकों की खरीदारी और कच्चे तेल की कम कीमतों से गुरुवार को शुरुआती कारोबार में सेंसेक्स 166.44 अंक बढ़कर 82,013.58 और निफ्टी 55.65 अंक बढ़कर 25,316.55 पर पहुंचा। विदेशी संस्थागत निवेशकों ने बुधवार को 12,563.33 करोड़ रुपये के शेयर खरीदे। पीटीआई के हवाले से ईटीवी भारत के अनुसार ब्रेंट कच्चा तेल 1.12% गिरकर 91.75 डॉलर प्रति बैरल रहा।",
+    "pts": [
+     "सेंसेक्स 166 अंक, निफ्टी 56 अंक ऊपर",
+     "बुधवार को एफआईआई ने 12,563 करोड़ के शेयर खरीदे",
+     "नवंबर में अब तक निफ्टी 9.55% ऊपर"
+    ],
+    "why": "बाजार की चाल म्यूचुअल फंड और शेयरों में निवेश करने वालों की बचत पर असर डालती है।",
+    "cat": "भारत · बाजार",
+    "statl": "शुरुआती कारोबार में सेंसेक्स"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఇంధన ధరలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹115.69",
+   "statl": "హైదరాబాద్‌లో లీటర్ పెట్రోల్",
+   "h": "హైదరాబాద్‌లో పెట్రోల్ లీటర్ ₹115.69, డీజిల్ ₹103.82; ధరలు స్థిరం",
+   "p": "నవంబర్ 12న పెట్రోల్, డీజిల్ ధరలు స్థిరంగా ఉన్నాయని ది హన్స్ ఇండియా పేర్కొంది. హైదరాబాద్‌లో లీటర్ పెట్రోల్ రూ.115.69, డీజిల్ రూ.103.82గా ఉంది. ఢిల్లీలో పెట్రోల్ రూ.102.12, డీజిల్ రూ.95.20; ముంబైలో పెట్రోల్ రూ.111.21, డీజిల్ రూ.97.83; బెంగళూరులో పెట్రోల్ రూ.110.82, డీజిల్ రూ.98.78గా ఉన్నాయి. ధరలు మారే అవకాశం ఉందని పత్రిక తెలిపింది.",
+   "pts": [
+    "హైదరాబాద్‌లో పెట్రోల్ రూ.115.69, డీజిల్ రూ.103.82",
+    "ఢిల్లీలో పెట్రోల్ రూ.102.12",
+    "ఇంధన ధరల్లో మార్పు లేదు"
+   ],
+   "why": "వాహనదారులు, రవాణా ఖర్చులు భరించే కుటుంబాలకు రోజువారీ ఇంధన ధరలు ముఖ్యం.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/business/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-12-november-2026-1141331",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-12T10:36+05:30",
+   "en": {
+    "h": "Hyderabad petrol at Rs 115.69 a litre, diesel Rs 103.82; prices stable",
+    "p": "Petrol and diesel prices were stable on November 12, The Hans India reported. In Hyderabad petrol costs Rs 115.69 a litre and diesel Rs 103.82. In Delhi petrol is Rs 102.12 and diesel Rs 95.20; in Mumbai petrol Rs 111.21 and diesel Rs 97.83; and in Bengaluru petrol Rs 110.82 and diesel Rs 98.78. The paper said prices are subject to change.",
+    "pts": [
+     "Hyderabad: petrol Rs 115.69, diesel Rs 103.82",
+     "Delhi petrol at Rs 102.12",
+     "No change in fuel prices"
+    ],
+    "why": "Daily fuel prices matter to vehicle owners and families who bear transport costs.",
+    "cat": "Hyderabad · Fuel Prices",
+    "statl": "Petrol per litre in Hyderabad"
+   },
+   "hi": {
+    "h": "हैदराबाद में पेट्रोल 115.69 रुपये, डीजल 103.82 रुपये लीटर; दाम स्थिर",
+    "p": "द हंस इंडिया के अनुसार 12 नवंबर को पेट्रोल और डीजल के दाम स्थिर रहे। हैदराबाद में पेट्रोल 115.69 रुपये और डीजल 103.82 रुपये प्रति लीटर है। दिल्ली में पेट्रोल 102.12 और डीजल 95.20 रुपये, मुंबई में पेट्रोल 111.21 और डीजल 97.83 रुपये, तथा बेंगलुरु में पेट्रोल 110.82 और डीजल 98.78 रुपये है। अखबार ने कहा कि दाम बदल सकते हैं।",
+    "pts": [
+     "हैदराबाद: पेट्रोल 115.69, डीजल 103.82 रुपये",
+     "दिल्ली में पेट्रोल 102.12 रुपये",
+     "ईंधन के दाम में कोई बदलाव नहीं"
+    ],
+    "why": "रोज के ईंधन दाम वाहन मालिकों और परिवहन खर्च उठाने वाले परिवारों के लिए अहम हैं।",
+    "cat": "हैदराबाद · ईंधन दाम",
+    "statl": "हैदराबाद में पेट्रोल प्रति लीटर"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "ఏపీ · ఉద్యోగాలు",
    "col": "--c-money",
@@ -1941,557 +2387,6 @@
     "why": "परीक्षा देने वाले तेलंगाना के शिक्षकों को नई तारीख के अनुसार तैयारी करनी होगी।",
     "cat": "तेलंगाना · शिक्षा",
     "statl": "इन-सर्विस टीईटी की नई तारीख"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · వాతావరణం",
-   "col": "--c-water",
-   "art": "rain",
-   "stat": "14.5°",
-   "statl": "కోహిర్‌లో అత్యల్ప ఉష్ణోగ్రత",
-   "h": "పగలు వేడి, రాత్రి చలి: కోహిర్‌లో 14.5 డిగ్రీలు",
-   "p": "రాష్ట్రంలో పగటి ఉష్ణోగ్రతలు సాధారణం కంటే 3–4 డిగ్రీలు ఎక్కువగా, రాత్రి ఉష్ణోగ్రతలు 2–3 డిగ్రీలు తక్కువగా నమోదవుతున్నాయని నమస్తే తెలంగాణ కథనం. సంగారెడ్డి జిల్లా కోహిర్‌లో అత్యల్పంగా 14.5 డిగ్రీలు, ఆదిలాబాద్‌లో 14.7 డిగ్రీలు నమోదయ్యాయి. గురువారం ఆగ్నేయ బంగాళాఖాతంలో అల్పపీడనం ఏర్పడే అవకాశం ఉందని కథనం పేర్కొంది.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/telangana-experiences-contrasting-weather-as-day-temperatures-rise-and-night-temperatures-drop-2558040",
-   "sec": [
-    "telangana",
-    "weather"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "loc": "కోహిర్",
-   "pts": [
-    "పగలు సాధారణం కంటే 3–4 డిగ్రీలు ఎక్కువ",
-    "రాష్ట్రమంతటా కనిష్ఠం 15 డిగ్రీల లోపు",
-    "మెదక్, సిద్దిపేట, కరీంనగర్‌లోనూ 14.7 డిగ్రీలు"
-   ],
-   "why": "రాత్రి చలి పెరగడంతో వృద్ధులు, పిల్లలు జాగ్రత్తలు తీసుకోవాల్సి ఉంటుంది.",
-   "pub": "2026-11-12T01:19+05:30",
-   "en": {
-    "h": "Warm days, cold nights: Kohir records 14.5 degrees",
-    "p": "Day temperatures in Telangana are 3–4 degrees above normal while night temperatures have dropped by 2–3 degrees, Namasthe Telangana reported. The lowest was 14.5 degrees at Kohir in Sangareddy district, and Adilabad recorded 14.7 degrees. The report said a low-pressure area may form over the southeast Bay of Bengal on Thursday.",
-    "pts": [
-     "Days 3–4 degrees above normal",
-     "Minimums below 15 degrees across the state",
-     "Medak, Siddipet, Karimnagar also at 14.7 degrees"
-    ],
-    "why": "Colder nights mean the elderly and children need to take care.",
-    "cat": "Telangana · Weather",
-    "statl": "Lowest temperature, at Kohir"
-   },
-   "hi": {
-    "h": "दिन में गर्मी, रात में ठंड: कोहिर में 14.5 डिग्री",
-    "p": "नमस्ते तेलंगाना के अनुसार तेलंगाना में दिन का तापमान सामान्य से 3–4 डिग्री अधिक और रात का तापमान 2–3 डिग्री कम दर्ज हो रहा है। संगारेड्डी जिले के कोहिर में सबसे कम 14.5 डिग्री और आदिलाबाद में 14.7 डिग्री तापमान रहा। रिपोर्ट के अनुसार गुरुवार को दक्षिण-पूर्व बंगाल की खाड़ी में कम दबाव का क्षेत्र बन सकता है।",
-    "pts": [
-     "दिन सामान्य से 3–4 डिग्री गर्म",
-     "पूरे राज्य में न्यूनतम 15 डिग्री से नीचे",
-     "मेदक, सिद्दिपेट, करीमनगर में भी 14.7 डिग्री"
-    ],
-    "why": "रातें ठंडी होने से बुजुर्गों और बच्चों को सावधानी बरतनी होगी।",
-    "cat": "तेलंगाना · मौसम",
-    "statl": "कोहिर में सबसे कम तापमान"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · పరిశుభ్రత",
-   "col": "--c-city",
-   "art": "unity",
-   "stat": "1st",
-   "statl": "తెలంగాణ తొలి స్వచ్ఛ నగరం",
-   "h": "తెలంగాణ తొలి స్వచ్ఛ నగరంగా గ్రేటర్ హైదరాబాద్: రాష్ట్రపతి చేతుల మీదుగా అవార్డు",
-   "p": "స్వచ్ఛ సర్వేక్షణ్ 2025-26లో గ్రేటర్ హైదరాబాద్ తెలంగాణ తొలి స్వచ్ఛ నగరంగా నిలిచిందని సీఎం రేవంత్ రెడ్డి తెలిపారని సియాసత్ కథనం. బుధవారం ఢిల్లీ విజ్ఞాన్ భవన్‌లో రాష్ట్రపతి ద్రౌపది ముర్ము నుంచి మంత్రి పొన్నం ప్రభాకర్, జీహెచ్‌ఎంసీ కమిషనర్ ఆర్వీ కర్ణన్, హెచ్‌ఎండీఏ కమిషనర్ సర్ఫరాజ్ అహ్మద్ అవార్డు అందుకున్నారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/cm-hails-greater-hyderabad-becomes-telanganas-1st-swachh-city-3574757/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "వ్యర్థాల సేకరణ, శుద్ధి, మురుగు నిర్వహణ ప్రమాణాలు",
-    "హైదరాబాద్‌ను గ్రీన్, నెట్-జీరో సిటీ చేయడమే లక్ష్యం: సీఎం",
-    "పారిశుద్ధ్య కార్మికులకు సీఎం అభినందనలు"
-   ],
-   "why": "హైదరాబాద్ నగరవాసుల పరిశుభ్రత కృషికి జాతీయ స్థాయిలో గుర్తింపు లభించింది.",
-   "pub": "2026-11-11T22:43+05:30",
-   "en": {
-    "h": "Greater Hyderabad is Telangana's first Swachh City; President presents award",
-    "p": "Greater Hyderabad has become Telangana's first Swachh City in Swachh Survekshan 2025-26, Chief Minister Revanth Reddy said, Siasat Daily reported. Minister Ponnam Prabhakar, GHMC Commissioner RV Karnan and HMDA Commissioner Sarfaraz Ahmed received the award from President Droupadi Murmu at Vigyan Bhawan, Delhi, on Wednesday.",
-    "pts": [
-     "Criteria included waste collection, processing, sewage management",
-     "Goal is a Green and Net-Zero Hyderabad: CM",
-     "CM thanks sanitation workers"
-    ],
-    "why": "Hyderabad residents' cleanliness efforts got national recognition.",
-    "cat": "Hyderabad · Sanitation",
-    "statl": "Telangana's first Swachh City"
-   },
-   "hi": {
-    "h": "ग्रेटर हैदराबाद तेलंगाना का पहला स्वच्छ शहर; राष्ट्रपति ने दिया पुरस्कार",
-    "p": "सियासत डेली के अनुसार मुख्यमंत्री रेवंत रेड्डी ने कहा कि स्वच्छ सर्वेक्षण 2025-26 में ग्रेटर हैदराबाद तेलंगाना का पहला स्वच्छ शहर बना। बुधवार को दिल्ली के विज्ञान भवन में राष्ट्रपति द्रौपदी मुर्मू से मंत्री पोन्नम प्रभाकर, जीएचएमसी आयुक्त आरवी कर्णन और एचएमडीए आयुक्त सरफराज अहमद ने पुरस्कार लिया।",
-    "pts": [
-     "कचरा संग्रह, प्रसंस्करण, सीवेज प्रबंधन मानदंड",
-     "हैदराबाद को ग्रीन, नेट-जीरो शहर बनाना लक्ष्य: सीएम",
-     "सीएम ने सफाई कर्मचारियों को बधाई दी"
-    ],
-    "why": "हैदराबाद के नागरिकों के स्वच्छता प्रयासों को राष्ट्रीय पहचान मिली।",
-    "cat": "हैदराबाद · स्वच्छता",
-    "statl": "तेलंगाना का पहला स्वच्छ शहर"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · స్థానిక సంస్థలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "₹5,600 కోట్లు",
-   "statl": "కోల్పోయిన కేంద్ర నిధులు అని సంఘం ఆరోపణ",
-   "h": "మండల పరిషత్ ఎన్నికలు వెంటనే జరపాలి: ఎంపీటీసీల సంఘం",
-   "p": "మండల పరిషత్ ఎన్నికలను వెంటనే నిర్వహించాలని తెలంగాణ రాష్ట్ర ఎంపీటీసీల సంఘం డిమాండ్ చేసిందని నమస్తే తెలంగాణ కథనం. సోమాజిగూడ ప్రెస్‌క్లబ్‌లో సంఘం అధ్యక్షుడు గడీల కుమార్‌గౌడ్, వర్కింగ్ ప్రెసిడెంట్ దేవి రవీందర్ మాట్లాడుతూ, ఎన్నికలు సకాలంలో జరగకపోవడంతో రాష్ట్రం సుమారు ₹5,600 కోట్ల కేంద్ర నిధులు కోల్పోయిందని ఆరోపించారు. ప్రభుత్వ స్పందన కథనంలో లేదు.",
-   "src": "Namasthe Telangana",
-   "url": "https://ntnews.com/telangana/telangana-mptcs-association-demands-immediate-conduct-of-mandal-parishad-elections-2558169",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "సోమాజిగూడ",
-   "pts": [
-    "ఎన్నికల జాప్యానికి సీఎం కారణమని సంఘం ఆరోపణ",
-    "ఏపీలో గడువు ముగియగానే ఎన్నికలు జరిగాయని పోలిక",
-    "ప్రతినిధులకు తగిన గౌరవ వేతనం, నిధులు కోరిక"
-   ],
-   "why": "మండల పరిషత్ ఎన్నికల జాప్యం గ్రామీణ అభివృద్ధి నిధులపై ప్రభావం చూపుతుందని సంఘం చెబుతోంది.",
-   "pub": "2026-11-12T03:06+05:30",
-   "en": {
-    "h": "Hold Mandal Parishad elections immediately: MPTCs association",
-    "p": "The Telangana State MPTCs Association demanded that Mandal Parishad elections be held immediately, Namasthe Telangana reported. At the Somajiguda Press Club, association president Gadila Kumar Goud and working president Devi Ravinder alleged that the failure to hold elections on time cost the state about Rs 5,600 crore in central funds. The government's response is not in the report.",
-    "pts": [
-     "Association blames CM for the delay",
-     "Compares with AP, where polls were held when terms ended",
-     "Seeks adequate honoraria and funds for representatives"
-    ],
-    "why": "The association says delayed Mandal Parishad polls affect rural development funds.",
-    "cat": "Telangana · Local bodies",
-    "statl": "Central funds lost, association alleges"
-   },
-   "hi": {
-    "h": "मंडल परिषद चुनाव तुरंत कराए जाएं: एमपीटीसी संघ",
-    "p": "नमस्ते तेलंगाना के अनुसार तेलंगाना राज्य एमपीटीसी संघ ने मंडल परिषद चुनाव तुरंत कराने की मांग की। सोमाजीगुडा प्रेस क्लब में संघ अध्यक्ष गडीला कुमार गौड़ और कार्यकारी अध्यक्ष देवी रविंदर ने आरोप लगाया कि समय पर चुनाव न होने से राज्य को लगभग 5,600 करोड़ रुपये के केंद्रीय फंड का नुकसान हुआ। रिपोर्ट में सरकार का जवाब नहीं है।",
-    "pts": [
-     "संघ ने देरी के लिए सीएम को जिम्मेदार ठहराया",
-     "आंध्र में कार्यकाल खत्म होते ही चुनाव होने की तुलना",
-     "प्रतिनिधियों के लिए उचित मानदेय और फंड की मांग"
-    ],
-    "why": "संघ का कहना है कि मंडल परिषद चुनाव में देरी से ग्रामीण विकास फंड प्रभावित होते हैं।",
-    "cat": "तेलंगाना · स्थानीय निकाय",
-    "statl": "केंद्रीय फंड का नुकसान, संघ का आरोप"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · వైద్యారోగ్యం",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "558",
-   "statl": "ఉద్యోగుల రిలీవ్ ఉత్తర్వులు నిలిపివేత",
-   "h": "వైద్య విధాన పరిషత్‌లో 558 మంది రిలీవ్ ఉత్తర్వుల నిలిపివేత",
-   "p": "వైద్య విధాన పరిషత్ పరిధిలోని 558 మంది ఉద్యోగుల రిలీవ్ ఉత్తర్వులను తదుపరి ఆదేశాల వరకు నిలిపివేయాలని వైద్యారోగ్య శాఖ ఆదేశించిందని నమస్తే తెలంగాణ కథనం. డీఎంఈ సర్క్యులర్ ప్రకారం వైద్యులు, ఫార్మసిస్టులు, ల్యాబ్ టెక్నీషియన్లు, నర్సింగ్ తదితర సిబ్బందికి ఇది వర్తిస్తుంది. ఇప్పటికే రిలీవ్ అయినవారిని పాత సంస్థల్లో కొనసాగించాలని సూపరింటెండెంట్లకు సూచించారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/relief-orders-of-558-medical-employees-revoked-after-namaste-telangana-impact-2558176",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "ఈ నెల 7న డీఎంఈ కార్యాలయం సవరణ ఉత్తర్వులు",
-    "రిలీవ్ అయినవారిని పాత చోటికి తిరిగి చేర్చాలి",
-    "కంప్లయన్స్ నివేదిక పంపాలని ఆదేశం"
-   ],
-   "why": "ప్రభుత్వ ఆసుపత్రుల సిబ్బంది బదిలీలు, రోగుల సేవలపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-12T03:24+05:30",
-   "en": {
-    "h": "Relieving orders of 558 Vaidya Vidhana Parishad staff put on hold",
-    "p": "The Medical and Health Department ordered that relieving orders for 558 employees under the Vaidya Vidhana Parishad be held until further orders, Namasthe Telangana reported. As per a DME circular, it covers doctors, pharmacists, lab technicians, nursing and other staff. Superintendents were told to retain already-relieved staff at their old institutions.",
-    "pts": [
-     "DME office issued modified orders on the 7th",
-     "Relieved staff to be restored to old posts",
-     "Compliance report sought"
-    ],
-    "why": "The decision affects transfers of government hospital staff and patient services.",
-    "cat": "Telangana · Health",
-    "statl": "Staff relieving orders put on hold"
-   },
-   "hi": {
-    "h": "वैद्य विधान परिषद के 558 कर्मचारियों के रिलीव आदेश रोके गए",
-    "p": "नमस्ते तेलंगाना के अनुसार चिकित्सा एवं स्वास्थ्य विभाग ने वैद्य विधान परिषद के 558 कर्मचारियों के रिलीव आदेश अगले आदेश तक रोकने का निर्देश दिया। डीएमई सर्कुलर के अनुसार यह डॉक्टरों, फार्मासिस्टों, लैब तकनीशियनों, नर्सिंग और अन्य कर्मचारियों पर लागू है। अधीक्षकों से कहा गया कि पहले से रिलीव कर्मचारियों को पुराने संस्थानों में रखें।",
-    "pts": [
-     "डीएमई कार्यालय ने 7 तारीख को संशोधित आदेश जारी किए थे",
-     "रिलीव कर्मचारी पुराने पदों पर लौटेंगे",
-     "अनुपालन रिपोर्ट मांगी गई"
-    ],
-    "why": "यह फैसला सरकारी अस्पताल कर्मचारियों के तबादलों और मरीजों की सेवाओं को प्रभावित करता है।",
-    "cat": "तेलंगाना · स्वास्थ्य",
-    "statl": "कर्मचारियों के रिलीव आदेश रोके"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · న్యాయవ్యవస్థ",
-   "col": "--c-city",
-   "art": "court",
-   "stat": "1,109",
-   "statl": "కొత్తగా నమోదైన న్యాయవాదులు",
-   "h": "తెలంగాణ బార్ కౌన్సిల్‌లో 1,109 మంది కొత్త న్యాయవాదుల నమోదు",
-   "p": "తెలంగాణ రాష్ట్ర బార్ కౌన్సిల్‌లో 1,109 మంది న్యాయ పట్టభద్రులు కొత్తగా న్యాయవాదులుగా నమోదయ్యారని నమస్తే తెలంగాణ కథనం. వారిలో 1,059 మంది బుధవారం హైకోర్టు ప్రాంగణంలో ప్రమాణం చేశారు. బార్ కౌన్సిల్ ఆఫ్ ఇండియా ఏర్పాటు చేసిన తాత్కాలిక నమోదు కమిటీ ఈ కార్యక్రమాన్ని పర్యవేక్షించింది. జస్టిస్ తంగిరాల మాధవీదేవి ముఖ్య అతిథిగా పాల్గొన్నారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/law-graduates-enrolled-as-advocates-in-telangana-bar-council-1109-2558151",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pts": [
-    "1,059 మంది హైకోర్టులో ప్రమాణం",
-    "బీసీఐ తాత్కాలిక కమిటీ పర్యవేక్షణ",
-    "ముఖ్య అతిథిగా జస్టిస్ తంగిరాల మాధవీదేవి"
-   ],
-   "why": "కొత్త న్యాయవాదుల చేరికతో రాష్ట్రంలో న్యాయ సేవలు అందించేవారి సంఖ్య పెరుగుతుంది.",
-   "pub": "2026-11-12T02:44+05:30",
-   "en": {
-    "h": "1,109 new advocates enrolled with Telangana Bar Council",
-    "p": "As many as 1,109 law graduates were newly enrolled as advocates with the Telangana State Bar Council, Namasthe Telangana reported. Of them, 1,059 took their oath on Wednesday at the High Court premises. An interim enrolment committee set up by the Bar Council of India supervised the programme. Justice Tangirala Madhavi Devi was the chief guest.",
-    "pts": [
-     "1,059 took oath at the High Court",
-     "Supervised by BCI interim committee",
-     "Justice Tangirala Madhavi Devi chief guest"
-    ],
-    "why": "New enrolments increase the number of lawyers offering legal services in the state.",
-    "cat": "Telangana · Judiciary",
-    "statl": "Newly enrolled advocates"
-   },
-   "hi": {
-    "h": "तेलंगाना बार काउंसिल में 1,109 नए वकील पंजीकृत",
-    "p": "नमस्ते तेलंगाना के अनुसार तेलंगाना राज्य बार काउंसिल में 1,109 विधि स्नातक नए वकील के रूप में पंजीकृत हुए। इनमें से 1,059 ने बुधवार को हाईकोर्ट परिसर में शपथ ली। बार काउंसिल ऑफ इंडिया की अंतरिम नामांकन समिति ने कार्यक्रम की निगरानी की। जस्टिस तंगिराला माधवी देवी मुख्य अतिथि थीं।",
-    "pts": [
-     "1,059 ने हाईकोर्ट में शपथ ली",
-     "बीसीआई की अंतरिम समिति की निगरानी",
-     "मुख्य अतिथि जस्टिस तंगिराला माधवी देवी"
-    ],
-    "why": "नए पंजीकरण से राज्य में कानूनी सेवाएं देने वाले वकीलों की संख्या बढ़ती है।",
-    "cat": "तेलंगाना · न्यायपालिका",
-    "statl": "नए पंजीकृत वकील"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "తెలంగాణ · విద్య",
-   "col": "--c-money",
-   "art": "campus",
-   "stat": "25 నవం.",
-   "statl": "ఇగ్నో టర్మ్ ఎండ్ పరీక్షలు ప్రారంభం",
-   "h": "నవంబర్ 25 నుంచి ఇగ్నో టర్మ్ ఎండ్ పరీక్షలు",
-   "p": "ఇందిరాగాంధీ జాతీయ సార్వత్రిక విశ్వవిద్యాలయం (ఇగ్నో) టర్మ్ ఎండ్ పరీక్షలు ఈ నెల 25 నుంచి ప్రారంభమవుతాయని హైదరాబాద్ ప్రాంతీయ కేంద్రం డైరెక్టర్ డాక్టర్ రాజు బొల్ల తెలిపారని నమస్తే తెలంగాణ కథనం. హైదరాబాద్‌లో ఏడు కేంద్రాలతో పాటు వరంగల్, బోధన్, నల్గొండ, ఖమ్మం, కరీంనగర్‌లో పరీక్షా కేంద్రాలు ఉన్నాయి. వివరాలకు 94924 51812, 040-23117550 నంబర్లు ఇచ్చారు.",
-   "src": "Namasthe Telangana",
-   "url": "https://www.ntnews.com/telangana/ignou-term-end-examinations-to-begin-on-november-25-across-telangana-exam-centres-2557981",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pts": [
-    "హైదరాబాద్‌లో ఏడు పరీక్షా కేంద్రాలు",
-    "వరంగల్, బోధన్, నల్గొండ, ఖమ్మం, కరీంనగర్‌లోనూ",
-    "హెల్ప్‌లైన్: 94924 51812"
-   ],
-   "why": "రాష్ట్రంలో దూరవిద్య చదువుతున్న ఇగ్నో విద్యార్థులు పరీక్షలకు సిద్ధం కావాలి.",
-   "pub": "2026-11-12T01:48+05:30",
-   "en": {
-    "h": "IGNOU term-end exams from November 25",
-    "p": "IGNOU's term-end examinations will begin on the 25th of this month, Hyderabad regional centre director Dr Raju Bolla said, Namasthe Telangana reported. Besides seven centres in Hyderabad, exams will be held in Warangal, Bodhan, Nalgonda, Khammam and Karimnagar. For details, the numbers 94924 51812 and 040-23117550 were given.",
-    "pts": [
-     "Seven exam centres in Hyderabad",
-     "Also in Warangal, Bodhan, Nalgonda, Khammam, Karimnagar",
-     "Helpline: 94924 51812"
-    ],
-    "why": "IGNOU distance-learning students in Telangana must prepare for the exams.",
-    "cat": "Telangana · Education",
-    "statl": "IGNOU term-end exams begin"
-   },
-   "hi": {
-    "h": "25 नवंबर से इग्नू टर्म-एंड परीक्षाएं",
-    "p": "नमस्ते तेलंगाना के अनुसार हैदराबाद क्षेत्रीय केंद्र के निदेशक डॉ. राजू बोल्ला ने बताया कि इग्नू की टर्म-एंड परीक्षाएं इस महीने की 25 तारीख से शुरू होंगी। हैदराबाद के सात केंद्रों के अलावा वरंगल, बोधन, नलगोंडा, खम्मम और करीमनगर में भी परीक्षा केंद्र हैं। जानकारी के लिए 94924 51812 और 040-23117550 नंबर दिए गए।",
-    "pts": [
-     "हैदराबाद में सात परीक्षा केंद्र",
-     "वरंगल, बोधन, नलगोंडा, खम्मम, करीमनगर में भी",
-     "हेल्पलाइन: 94924 51812"
-    ],
-    "why": "तेलंगाना में दूरस्थ शिक्षा पढ़ रहे इग्नू छात्रों को परीक्षा की तैयारी करनी होगी।",
-    "cat": "तेलंगाना · शिक्षा",
-    "statl": "इग्नू टर्म-एंड परीक्षाएं शुरू"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "హైదరాబాద్ · రాజకీయం",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "అరెస్టు",
-   "statl": "బంజారా భవన్ వద్ద నిరసనలో",
-   "h": "మైనారిటీ విద్య సమస్యలపై నిరసన: బీఆర్ఎస్ నేత అబ్దుల్లా సోహైల్ అరెస్టు",
-   "p": "జాతీయ విద్యా దినోత్సవ వేడుకల సందర్భంగా బంజారా భవన్ వద్ద నిరసనకు ప్రయత్నించిన బీఆర్ఎస్ సీనియర్ నేత షేక్ అబ్దుల్లా సోహైల్, పలువురు కార్యకర్తలను హైదరాబాద్ పోలీసులు బుధవారం అరెస్టు చేశారని యూఎన్ఐ కథనం. మైనారిటీలకు ఇచ్చిన విద్యా హామీలను కాంగ్రెస్ ప్రభుత్వం నెరవేర్చలేదని, స్కాలర్‌షిప్, ఫీజు రీయింబర్స్‌మెంట్ బకాయిలు పెండింగ్‌లో ఉన్నాయని ఆయన ఆరోపించారు.",
-   "src": "UNI",
-   "url": "https://www.uniindia.com/south-india/politics-telangana-brs-arrest/242562",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బంజారా హిల్స్",
-   "pts": [
-    "మైనారిటీ సంక్షేమ దినోత్సవ వేడుకల వేళ నిరసన",
-    "స్కాలర్‌షిప్, ఫీజు బకాయిలపై ఆరోపణ",
-    "ప్రభుత్వ స్పందన కథనంలో అందుబాటులో లేదు"
-   ],
-   "why": "మైనారిటీ విద్యార్థుల స్కాలర్‌షిప్, ఫీజు బకాయిల అంశం రాజకీయ చర్చగా మారింది.",
-   "pub": "2026-11-11T19:07+05:30",
-   "en": {
-    "h": "BRS leader Abdullah Sohail arrested during protest over minority education",
-    "p": "Hyderabad Police on Wednesday arrested senior BRS leader Shaik Abdullah Sohail and several party workers as they tried to protest near Banjara Bhavan during National Education Day celebrations, UNI reported. He alleged the Congress government had failed to keep its education promises to minorities and that scholarship and fee reimbursement dues were pending.",
-    "pts": [
-     "Protest during Minority Welfare Day celebrations",
-     "Alleges pending scholarship and fee dues",
-     "Government response not available in the report"
-    ],
-    "why": "Scholarship and fee dues of minority students have become a political issue.",
-    "cat": "Hyderabad · Politics",
-    "statl": "During protest at Banjara Bhavan"
-   },
-   "hi": {
-    "h": "अल्पसंख्यक शिक्षा मुद्दों पर विरोध: बीआरएस नेता अब्दुल्ला सोहैल गिरफ्तार",
-    "p": "यूएनआई के अनुसार राष्ट्रीय शिक्षा दिवस समारोह के दौरान बंजारा भवन के पास विरोध प्रदर्शन की कोशिश कर रहे बीआरएस के वरिष्ठ नेता शेख अब्दुल्ला सोहैल और कई कार्यकर्ताओं को हैदराबाद पुलिस ने बुधवार को गिरफ्तार किया। उन्होंने आरोप लगाया कि कांग्रेस सरकार ने अल्पसंख्यकों से किए शिक्षा वादे पूरे नहीं किए और छात्रवृत्ति व फीस प्रतिपूर्ति बकाया है।",
-    "pts": [
-     "अल्पसंख्यक कल्याण दिवस समारोह के दौरान विरोध",
-     "छात्रवृत्ति और फीस बकाया का आरोप",
-     "रिपोर्ट में सरकार का जवाब उपलब्ध नहीं"
-    ],
-    "why": "अल्पसंख्यक छात्रों की छात्रवृत्ति और फीस बकाया राजनीतिक मुद्दा बन गया है।",
-    "cat": "हैदराबाद · राजनीति",
-    "statl": "बंजारा भवन पर विरोध के दौरान"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "water",
-   "stat": "₹560 కోట్లు",
-   "statl": "విశాఖ పోర్టు కొత్త పనుల విలువ",
-   "h": "విశాఖ పోర్ట్ ప్రొమెనేడ్ ప్రారంభించిన కేంద్ర మంత్రి సోనోవాల్",
-   "p": "కేంద్ర నౌకాయాన మంత్రి సర్బానంద సోనోవాల్ బుధవారం విశాఖపట్నంలో ₹19 కోట్లతో నిర్మించిన పోర్ట్ ప్రొమెనేడ్‌ను ప్రజలకు అంకితం చేశారని ఏఎన్ఐ కథనం. వేంకటేశ్వర ఆలయం నుంచి ఇంటర్నేషనల్ క్రూయిజ్ టెర్మినల్ వరకు సుమారు 710 మీటర్ల నడక మార్గం ఇది. నాలుగు కొత్త ప్రాజెక్టులకు శంకుస్థాపనతో పోర్టు కొత్త పనుల విలువ సుమారు ₹560 కోట్లకు చేరింది.",
-   "src": "ANI",
-   "url": "https://www.aninews.in/news/national/general-news/india-is-now-standing-as-one-of-leading-maritime-nations-union-minister-sarbananda-sonowal20261112054400/",
-   "sec": [
-    "telangana",
-    "business"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "5.5 ఎకరాల్లో వ్యూ డెక్‌లు, పార్కు, ఫుడ్ కోర్టు",
-    "మురుగు శుద్ధి ప్లాంటు 10 నుంచి 15 ఎంఎల్‌డీకి పెంపు",
-    "పీపీపీ విధానంలో టెర్మినళ్ల నిర్వహణ: హన్స్ ఇండియా"
-   ],
-   "why": "విశాఖ వాసులకు కొత్త విహార స్థలం, పోర్టు అభివృద్ధితో ఉపాధి అవకాశాలు.",
-   "pub": "2026-11-12T05:44+05:30",
-   "en": {
-    "h": "Union Minister Sonowal opens Vizag Port Promenade",
-    "p": "Union Shipping Minister Sarbananda Sonowal on Wednesday dedicated the Rs 19 crore Port Promenade in Visakhapatnam to the public, ANI reported. The walkway runs about 710 metres from the Venkateswara Temple to the International Cruise Terminal. With foundation stones for four new projects, the port's package of new works is about Rs 560 crore.",
-    "pts": [
-     "View decks, park, food court on 5.5 acres",
-     "Sewage plant upgraded from 10 to 15 MLD",
-     "Terminals to be run on PPP model: Hans India"
-    ],
-    "why": "Vizag residents get a new public space, and port growth can create jobs.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "Value of new Vizag port works"
-   },
-   "hi": {
-    "h": "केंद्रीय मंत्री सोनोवाल ने विशाखापत्तनम पोर्ट प्रोमेनेड का उद्घाटन किया",
-    "p": "एएनआई के अनुसार केंद्रीय नौवहन मंत्री सर्बानंद सोनोवाल ने बुधवार को विशाखापत्तनम में 19 करोड़ रुपये से बना पोर्ट प्रोमेनेड जनता को समर्पित किया। यह वेंकटेश्वर मंदिर से इंटरनेशनल क्रूज टर्मिनल तक लगभग 710 मीटर लंबा पैदल मार्ग है। चार नई परियोजनाओं के शिलान्यास के साथ बंदरगाह के नए कार्यों का मूल्य लगभग 560 करोड़ रुपये है।",
-    "pts": [
-     "5.5 एकड़ में व्यू डेक, पार्क, फूड कोर्ट",
-     "सीवेज प्लांट 10 से 15 एमएलडी",
-     "टर्मिनल पीपीपी मॉडल पर: हंस इंडिया"
-    ],
-    "why": "विशाखापत्तनम के लोगों को नया सार्वजनिक स्थल और बंदरगाह विकास से रोजगार के अवसर।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "विशाखापत्तनम बंदरगाह के नए कार्य"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఏపీ · రక్షణ",
-   "col": "--c-power",
-   "art": "unity",
-   "stat": "IMNEX-26",
-   "statl": "భారత్–మయన్మార్ నౌకాదళ విన్యాసం",
-   "h": "విశాఖలో భారత్–మయన్మార్ నౌకాదళ విన్యాసం ఐఎంనెక్స్-26 ప్రారంభం",
-   "p": "భారత్–మయన్మార్ నౌకాదళ విన్యాసం 8వ ఎడిషన్ ఐఎంనెక్స్-26 విశాఖపట్నంలో ప్రారంభమై నవంబర్ 14 వరకు జరుగుతుందని భారత నౌకాదళం తెలిపిందని ది ట్రిబ్యూన్ (ఏఎన్ఐ) కథనం. మయన్మార్ నౌక యూఎంఎస్ కింగ్ సిన్ ఫ్యూ షిన్‌తో పాటు ఐఎన్ఎస్ రాణా, ఐఎన్ఎస్ సుమేధ పాల్గొంటున్నాయి. హార్బర్ దశ తర్వాత సముద్ర దశ ఉంటుంది.",
-   "src": "The Tribune",
-   "url": "https://www.tribuneindia.com/news/imnex-26/india-myanmar-naval-exercise-imnex-26-commences-in-visakhapatnam",
-   "sec": [
-    "telangana",
-    "india"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pts": [
-    "మయన్మార్ నౌక నవంబర్ 10న విశాఖ చేరిక",
-    "ఐఎన్ఎస్ రాణాపై ప్రారంభ వేడుక",
-    "మహాసాగర్ దృక్పథంలో భాగమని నౌకాదళం"
-   ],
-   "why": "తూర్పు తీరంలో పొరుగు దేశాలతో భారత సముద్ర భద్రతా సహకారం బలపడుతుంది.",
-   "pub": "2026-11-12T01:17+05:30",
-   "en": {
-    "h": "India–Myanmar naval exercise IMNEX-26 begins in Visakhapatnam",
-    "p": "The 8th edition of the India–Myanmar naval exercise, IMNEX-26, began in Visakhapatnam and runs until November 14, the Indian Navy said, The Tribune (ANI) reported. Myanmar's UMS King Sin Phyu Shin is taking part with INS Rana and INS Sumedha. A sea phase will follow the harbour phase.",
-    "pts": [
-     "Myanmar ship reached Vizag on November 10",
-     "Opening ceremony on board INS Rana",
-     "Part of MAHASAGAR vision, says Navy"
-    ],
-    "why": "It strengthens India's maritime security cooperation with neighbours on the east coast.",
-    "cat": "AP · Defence",
-    "statl": "India–Myanmar naval exercise"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम में भारत–म्यांमार नौसेना अभ्यास आईएमनेक्स-26 शुरू",
-    "p": "द ट्रिब्यून (एएनआई) के अनुसार भारतीय नौसेना ने बताया कि भारत–म्यांमार नौसेना अभ्यास का 8वां संस्करण आईएमनेक्स-26 विशाखापत्तनम में शुरू हुआ और 14 नवंबर तक चलेगा। म्यांमार का पोत यूएमएस किंग सिन फ्यू शिन, आईएनएस राणा और आईएनएस सुमेधा के साथ भाग ले रहा है। हार्बर चरण के बाद समुद्री चरण होगा।",
-    "pts": [
-     "म्यांमार पोत 10 नवंबर को पहुंचा",
-     "आईएनएस राणा पर उद्घाटन समारोह",
-     "महासागर दृष्टिकोण का हिस्सा: नौसेना"
-    ],
-    "why": "इससे पूर्वी तट पर पड़ोसी देशों के साथ भारत का समुद्री सुरक्षा सहयोग मजबूत होता है।",
-    "cat": "आंध्र प्रदेश · रक्षा",
-    "statl": "भारत–म्यांमार नौसेना अभ्यास"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఏపీ · ఉద్యోగాలు",
-   "col": "--c-money",
-   "art": "deadline",
-   "stat": "1,500",
-   "statl": "అసిస్టెంట్ ప్రొఫెసర్ పోస్టులు",
-   "h": "పంచాయతీ ఎన్నికల దృష్ట్యా అసిస్టెంట్ ప్రొఫెసర్ పరీక్షల వాయిదాకు వినతి",
-   "p": "ఏపీ విశ్వవిద్యాలయాల్లో 1,500 అసిస్టెంట్ ప్రొఫెసర్ పోస్టులకు డిసెంబర్ 1–5 తేదీల్లో జరగాల్సిన పరీక్షలను వాయిదా వేయాలని అభ్యర్థులు ప్రభుత్వాన్ని కోరారని డెక్కన్ క్రానికల్ కథనం. నవంబర్ 26 నుంచి డిసెంబర్ 3 వరకు మూడు దశల్లో పంచాయతీ ఎన్నికలు ఉండటంతో ఉద్యోగులైన పలువురు అభ్యర్థులకు ఎన్నికల విధులు పడతాయని వారు చెప్పారు.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/postponement-of-university-assistant-professor-exams-sought-over-panchayat-polls-2003577",
-   "sec": [
-    "telangana",
-    "jobs",
-    "education"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pts": [
-    "పరీక్షలు డిసెంబర్ 1 నుంచి 5 వరకు",
-    "స్కూల్ అసిస్టెంట్లకు ఎన్నికల విధులు పడే అవకాశం",
-    "ఎన్నికల తర్వాత కొత్త తేదీలు ప్రకటించాలని వినతి"
-   ],
-   "why": "ఏపీ విశ్వవిద్యాలయ ఉద్యోగాలకు సిద్ధమవుతున్న వేలాది అభ్యర్థులపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
-   "pub": "2026-11-11T22:24+05:30",
-   "en": {
-    "h": "Candidates seek postponement of assistant professor exams over panchayat polls",
-    "p": "Candidates for 1,500 assistant professor posts in AP universities have asked the government to postpone exams scheduled from December 1 to 5, Deccan Chronicle reported. They said panchayat elections in three phases from November 26 to December 3 mean many candidates who are employees will be put on election duty.",
-    "pts": [
-     "Exams scheduled December 1 to 5",
-     "School assistants may get election duty",
-     "Seek new dates after the polls"
-    ],
-    "why": "The decision affects thousands of candidates preparing for AP university jobs.",
-    "cat": "AP · Jobs",
-    "statl": "Assistant professor posts"
-   },
-   "hi": {
-    "h": "पंचायत चुनावों के चलते असिस्टेंट प्रोफेसर परीक्षा टालने की मांग",
-    "p": "डेक्कन क्रॉनिकल के अनुसार आंध्र प्रदेश के विश्वविद्यालयों में 1,500 असिस्टेंट प्रोफेसर पदों के अभ्यर्थियों ने 1 से 5 दिसंबर तक होने वाली परीक्षाएं टालने की मांग की है। उन्होंने कहा कि 26 नवंबर से 3 दिसंबर तक तीन चरणों में पंचायत चुनाव हैं, जिससे कर्मचारी अभ्यर्थियों को चुनाव ड्यूटी मिलेगी।",
-    "pts": [
-     "परीक्षाएं 1 से 5 दिसंबर तक",
-     "स्कूल असिस्टेंट्स को चुनाव ड्यूटी की संभावना",
-     "चुनाव के बाद नई तारीखों की मांग"
-    ],
-    "why": "यह फैसला आंध्र के विश्वविद्यालय नौकरियों की तैयारी कर रहे हजारों अभ्यर्थियों को प्रभावित करता है।",
-    "cat": "आंध्र प्रदेश · नौकरियां",
-    "statl": "असिस्टेंट प्रोफेसर पद"
-   },
-   "d": "12.11.2026",
-   "t": "06:35"
-  },
-  {
-   "cat": "ఏపీ · చిత్తూరు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "4",
-   "statl": "జడ్పీ చైర్‌పర్సన్ పదవికి ఆశావహులు",
-   "h": "చిత్తూరు జడ్పీ చైర్‌పర్సన్ పదవికి నలుగురు టీడీపీ మహిళల పోటీ",
-   "p": "మహిళకు (జనరల్) రిజర్వ్ అయిన చిత్తూరు జిల్లా పరిషత్ చైర్‌పర్సన్ పదవి కోసం అధికార టీడీపీకి చెందిన నలుగురు మహిళా జడ్పీటీసీలు ప్రయత్నాలు చేస్తున్నారని డెక్కన్ క్రానికల్ కథనం. వారిలో ఇద్దరు బంగారుపాళ్యం, పూతలపట్టు నుంచి ఏకగ్రీవంగా ఎన్నికయ్యారు. జిల్లాలోని 27 జడ్పీటీసీ స్థానాల్లో 23 కూటమి వద్ద ఉన్నాయి.",
-   "src": "Deccan Chronicle",
-   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/4-aspirants-lobby-for-chittoor-zp-chairperson-post-2003648",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "ap-chittoor",
-   "pts": [
-    "అక్టోబర్ 13 గెజిట్ ద్వారా మహిళకు రిజర్వ్",
-    "ఆశావహుల కుటుంబాలు అమరావతిలో నేతలతో భేటీ",
-    "గుడిపాల, పలసముద్రం నుంచీ పోటీదారులు"
-   ],
-   "why": "జిల్లా పరిషత్ నాయకత్వం చిత్తూరు జిల్లా గ్రామీణాభివృద్ధి నిర్ణయాలను నిర్దేశిస్తుంది.",
-   "pub": "2026-11-12T00:40+05:30",
-   "en": {
-    "h": "Four TDP women in race for Chittoor ZP chairperson post",
-    "p": "Four women ZPTC members of the ruling TDP are lobbying for the Chittoor zilla parishad chairperson post, reserved for a woman (general), Deccan Chronicle reported. Two of them were elected unopposed from Bangarupalem and Puthalapattu. The ruling alliance holds 23 of the district's 27 ZPTC seats.",
-    "pts": [
-     "Reserved for a woman via October 13 gazette",
-     "Aspirants' families meeting leaders in Amaravati",
-     "Contenders also from Gudipala and Palasamudram"
-    ],
-    "why": "ZP leadership steers rural development decisions in Chittoor district.",
-    "cat": "AP · Chittoor",
-    "statl": "Aspirants for ZP chairperson"
-   },
-   "hi": {
-    "h": "चित्तूर जिला परिषद अध्यक्ष पद के लिए चार टीडीपी महिलाएं दौड़ में",
-    "p": "डेक्कन क्रॉनिकल के अनुसार महिला (सामान्य) के लिए आरक्षित चित्तूर जिला परिषद अध्यक्ष पद के लिए सत्तारूढ़ टीडीपी की चार महिला जेडपीटीसी सदस्य प्रयास कर रही हैं। इनमें से दो बंगारुपालेम और पूतलपट्टू से निर्विरोध चुनी गईं। जिले की 27 जेडपीटीसी सीटों में से 23 गठबंधन के पास हैं।",
-    "pts": [
-     "13 अक्टूबर के गजट से महिला के लिए आरक्षित",
-     "दावेदारों के परिवार अमरावती में नेताओं से मिले",
-     "गुडिपाला और पलसमुद्रम से भी दावेदार"
-    ],
-    "why": "जिला परिषद का नेतृत्व चित्तूर जिले के ग्रामीण विकास फैसले तय करता है।",
-    "cat": "आंध्र प्रदेश · चित्तूर",
-    "statl": "जिला परिषद अध्यक्ष पद के दावेदार"
    },
    "d": "12.11.2026",
    "t": "06:35"

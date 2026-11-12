@@ -1,8 +1,454 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 51,
+ "count": 60,
  "stories": [
+  {
+   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "26 నవం.",
+   "statl": "పోలింగ్ తేదీ",
+   "h": "ఏపీలో 23 పట్టణ స్థానిక సంస్థలకు ఎన్నికల షెడ్యూల్ విడుదల",
+   "p": "ఆంధ్రప్రదేశ్‌లో 23 పట్టణ స్థానిక సంస్థల ఎన్నికలకు నోటిఫికేషన్ వచ్చింది. ఇందులో 4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలు ఉన్నాయి. నవంబర్ 14 నుంచి 16 వరకు నామినేషన్లు, 17న పరిశీలన, 19 వరకు ఉపసంహరణకు అవకాశం ఉంటుంది. నవంబర్ 26న పోలింగ్, 30న ఓట్ల లెక్కింపు జరుగుతాయని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "pts": [
+    "4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలకు ఎన్నికలు",
+    "నవంబర్ 14–16 నామినేషన్లు",
+    "26న పోలింగ్, 30న లెక్కింపు"
+   ],
+   "why": "ఈ 23 పట్టణాల ఓటర్లు, పోటీ చేయాలనుకునే అభ్యర్థులకు ఈ తేదీలు కీలకం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-12T13:04+05:30",
+   "en": {
+    "h": "AP announces election schedule for 23 urban local bodies",
+    "p": "A notification has been issued for elections to 23 urban local bodies in Andhra Pradesh, covering 4 corporations and 19 municipalities. Nominations will be accepted from November 14 to 16, scrutiny is on the 17th and candidates can withdraw until the 19th. Polling will be held on November 26 and counting on the 30th, Andhra Jyothy reported.",
+    "pts": [
+     "Polls for 4 corporations and 19 municipalities",
+     "Nominations from November 14 to 16",
+     "Polling on 26th, counting on 30th"
+    ],
+    "why": "These dates matter to voters and would-be candidates in these 23 towns.",
+    "cat": "AP · Local Elections",
+    "statl": "Polling date"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में 23 शहरी निकायों के चुनाव का कार्यक्रम जारी",
+    "p": "आंध्र प्रदेश में 23 शहरी स्थानीय निकायों के चुनाव की अधिसूचना जारी हुई है। इनमें 4 नगर निगम और 19 नगरपालिकाएं शामिल हैं। 14 से 16 नवंबर तक नामांकन, 17 को जांच और 19 तक नाम वापसी होगी। आंध्रज्योति के अनुसार 26 नवंबर को मतदान और 30 को मतगणना होगी।",
+    "pts": [
+     "4 नगर निगम, 19 नगरपालिकाओं में चुनाव",
+     "14–16 नवंबर तक नामांकन",
+     "26 को मतदान, 30 को मतगणना"
+    ],
+    "why": "इन 23 शहरों के मतदाताओं और उम्मीदवारों के लिए ये तारीखें अहम हैं।",
+    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
+    "statl": "मतदान की तारीख"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "30 డిసెం.",
+   "statl": "తుది ఓటర్ల జాబితా",
+   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఓటర్ల జాబితా: 25న ముసాయిదా, డిసెంబర్ 30న తుది జాబితా",
+   "p": "తెలంగాణలో పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల ఓటర్ల జాబితా షెడ్యూల్ వెలువడింది. నవంబర్ 25న ముసాయిదా ఓటర్ల జాబితా, డిసెంబర్ 30న తుది జాబితా విడుదల చేస్తారని ఆంధ్రజ్యోతి పేర్కొంది. ఈ ప్రక్రియపై ఇతర వివరాలు ఇంకా వెల్లడి కాలేదు.",
+   "pts": [
+    "నవంబర్ 25న ముసాయిదా ఓటర్ల జాబితా",
+    "డిసెంబర్ 30న తుది ఓటర్ల జాబితా"
+   ],
+   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలనుకునే వారు ఈ తేదీలు గమనించాలి.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pub": "2026-11-12T13:04+05:30",
+   "en": {
+    "h": "Graduates' MLC voter list: draft on 25th, final list on December 30",
+    "p": "The voter list schedule for Telangana's graduates' MLC election has been announced. The draft voter list will be released on November 25 and the final list on December 30, Andhra Jyothy reported. Other details of the process have not yet been given.",
+    "pts": [
+     "Draft voter list on November 25",
+     "Final voter list on December 30"
+    ],
+    "why": "Graduates who want to vote in the MLC election should note these dates.",
+    "cat": "Telangana · Elections",
+    "statl": "Final voter list"
+   },
+   "hi": {
+    "h": "स्नातक एमएलसी मतदाता सूची: 25 को मसौदा, 30 दिसंबर को अंतिम सूची",
+    "p": "तेलंगाना में स्नातक एमएलसी चुनाव की मतदाता सूची का कार्यक्रम जारी हुआ है। आंध्रज्योति के अनुसार 25 नवंबर को मसौदा मतदाता सूची और 30 दिसंबर को अंतिम सूची जारी होगी। प्रक्रिया के अन्य विवरण अभी नहीं दिए गए हैं।",
+    "pts": [
+     "25 नवंबर को मसौदा मतदाता सूची",
+     "30 दिसंबर को अंतिम मतदाता सूची"
+    ],
+    "why": "एमएलसी चुनाव में वोट देने वाले स्नातकों को ये तारीखें ध्यान रखनी चाहिए।",
+    "cat": "तेलंगाना · चुनाव",
+    "statl": "अंतिम मतदाता सूची"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "8",
+   "statl": "సీఐఐ సదస్సులు నిర్వహించానన్న సీఎం",
+   "h": "విశాఖ సమీపంలో సెమీకండక్టర్ హబ్: సీఐఐ సదస్సులో సీఎం చంద్రబాబు",
+   "p": "విశాఖపట్నంలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో సీఎం చంద్రబాబు మాట్లాడుతూ, విశాఖ సమీపంలో సెమీకండక్టర్ పరిశ్రమల హబ్ వస్తుందని చెప్పారు. ఇప్పటివరకు ఎనిమిది సీఐఐ సదస్సులు నిర్వహించానని, విశాఖ దేశంలోనే అత్యంత పరిశుభ్రమైన, సురక్షితమైన నగరమని అన్నారు. ఏపీ పెట్టుబడులకు నమ్మకమైన రాష్ట్రమని డిప్యూటీ సీఎం పవన్ కల్యాణ్, సాంకేతికత వినియోగంలో ఏపీ ముందుందని కేంద్ర మంత్రి పీయూష్ గోయల్ అన్నారు.",
+   "pts": [
+    "విశాఖ సమీపంలో సెమీకండక్టర్ హబ్ వస్తుందన్న సీఎం",
+    "అంతర్జాతీయ స్థాయి మౌలిక వసతులు కల్పిస్తున్నామని వెల్లడి",
+    "ఉత్తరాంధ్రకు పర్యాటక అవకాశాలు ఎక్కువన్న రామ్మోహన్ నాయుడు"
+   ],
+   "why": "సెమీకండక్టర్ పరిశ్రమలు వస్తే ఉత్తరాంధ్ర యువతకు ఉద్యోగ అవకాశాలు పెరగవచ్చు.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pub": "2026-11-12T12:56+05:30",
+   "en": {
+    "h": "Semiconductor hub to come near Visakhapatnam: CM Naidu at CII summit",
+    "p": "Speaking at the CII Partnership Summit in Visakhapatnam, CM Chandrababu Naidu said a semiconductor industry hub will come up near the city. He said he has held eight CII summits so far and called Visakhapatnam the country's cleanest and safest city. Deputy CM Pawan Kalyan called AP a reliable place for investment, and Union minister Piyush Goyal said AP leads in adopting technology.",
+    "pts": [
+     "CM says semiconductor hub coming near Vizag",
+     "International-standard infrastructure being provided, he says",
+     "Rammohan Naidu cites Uttarandhra's tourism potential"
+    ],
+    "why": "Semiconductor industries could bring more jobs for young people in north Andhra.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "CII summits held, says CM"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम के पास सेमीकंडक्टर हब: सीआईआई सम्मेलन में सीएम नायडू",
+    "p": "विशाखापत्तनम में सीआईआई साझेदारी सम्मेलन में मुख्यमंत्री चंद्रबाबू नायडू ने कहा कि शहर के पास सेमीकंडक्टर उद्योग हब आएगा। उन्होंने कहा कि वे अब तक आठ सीआईआई सम्मेलन कर चुके हैं और विशाखापत्तनम देश का सबसे स्वच्छ और सुरक्षित शहर है। उपमुख्यमंत्री पवन कल्याण ने आंध्र को निवेश के लिए भरोसेमंद बताया और केंद्रीय मंत्री पीयूष गोयल ने कहा कि तकनीक अपनाने में आंध्र आगे है।",
+    "pts": [
+     "सीएम बोले, विशाखापत्तनम के पास सेमीकंडक्टर हब",
+     "अंतरराष्ट्रीय स्तर का बुनियादी ढांचा दे रहे हैं",
+     "राममोहन नायडू: उत्तरांध्र में पर्यटन की बड़ी संभावना"
+    ],
+    "why": "सेमीकंडक्टर उद्योग आने से उत्तर आंध्र के युवाओं के लिए नौकरियां बढ़ सकती हैं।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सीआईआई सम्मेलन, सीएम के अनुसार"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "తెలంగాణ · ఆర్టీసీ",
+   "col": "--c-gov",
+   "art": "unity",
+   "stat": "₹1 కోటి",
+   "statl": "ఉద్యోగుల ఒక రోజు వేతనం విరాళం",
+   "h": "మృతి చెందిన నర్సంపేట ఆర్టీసీ డ్రైవర్ కుమారుడికి ఆర్టీసీలో ఉద్యోగం",
+   "p": "ఆత్మహత్య చేసుకున్న నర్సంపేట డిపో ఆర్టీసీ డ్రైవర్ కుటుంబానికి ఇచ్చిన హామీని ప్రభుత్వం నెరవేర్చిందని ఆంధ్రజ్యోతి పేర్కొంది. డ్రైవర్ కుమారుడిని ఆర్టీసీలో రికార్డు ట్రెజరర్‌గా నియమిస్తూ మంత్రి పొన్నం ప్రభాకర్, ఆర్టీసీ ఎండీ నాగిరెడ్డి నియామక పత్రం అందజేశారు. ప్రభుత్వం, ఆర్టీసీ తరఫున పరిహారం ఇచ్చారు. ఆర్టీసీ ఉద్యోగులు ఒక రోజు వేతనంతో రూ.1 కోటి విరాళంగా అందించారు.",
+   "pts": [
+    "డ్రైవర్ కుమారుడికి ఆర్టీసీలో రికార్డు ట్రెజరర్ ఉద్యోగం",
+    "మంత్రి పొన్నం, ఎండీ నాగిరెడ్డి చేతుల మీదుగా నియామక పత్రం",
+    "ఉద్యోగుల ఒక రోజు వేతనం రూ.1 కోటి విరాళం"
+   ],
+   "why": "విధుల్లో ఉన్న ఉద్యోగి మృతి చెందితే కుటుంబానికి అండగా నిలిచే చర్యగా ఇది ఆర్టీసీ సిబ్బందికి ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-12T12:38+05:30",
+   "en": {
+    "h": "Son of deceased Narsampet RTC driver given job in RTC",
+    "p": "The government has kept its promise to the family of a Narsampet depot RTC driver who died by suicide, Andhra Jyothy reported. Minister Ponnam Prabhakar and RTC MD Nagireddy handed over a letter appointing the driver's son as record treasurer in the RTC. Compensation was given by the government and the RTC, and RTC employees donated Rs 1 crore from one day's pay.",
+    "pts": [
+     "Driver's son appointed record treasurer in RTC",
+     "Letter handed over by Minister Ponnam and MD Nagireddy",
+     "Employees donate Rs 1 crore from a day's pay"
+    ],
+    "why": "It matters to RTC staff as support for the family of an employee who died.",
+    "cat": "Telangana · RTC",
+    "statl": "Employees' one-day pay donated"
+   },
+   "hi": {
+    "h": "नरसंपेट के दिवंगत आरटीसी चालक के बेटे को आरटीसी में नौकरी",
+    "p": "आंध्रज्योति के अनुसार सरकार ने नरसंपेट डिपो के उस आरटीसी चालक के परिवार से किया वादा निभाया, जिसने आत्महत्या की थी। मंत्री पोन्नम प्रभाकर और आरटीसी एमडी नागिरेड्डी ने चालक के बेटे को आरटीसी में रिकॉर्ड ट्रेज़रर नियुक्त करने का पत्र सौंपा। सरकार और आरटीसी की ओर से मुआवजा दिया गया और आरटीसी कर्मचारियों ने एक दिन के वेतन से 1 करोड़ रुपये दान किए।",
+    "pts": [
+     "चालक के बेटे को आरटीसी में रिकॉर्ड ट्रेज़रर की नौकरी",
+     "मंत्री पोन्नम और एमडी नागिरेड्डी ने पत्र सौंपा",
+     "कर्मचारियों ने एक दिन का वेतन, 1 करोड़ रुपये दान दिए"
+    ],
+    "why": "दिवंगत कर्मचारी के परिवार को सहारा देने का यह कदम आरटीसी कर्मियों के लिए अहम है।",
+    "cat": "तेलंगाना · आरटीसी",
+    "statl": "कर्मचारियों का एक दिन का वेतन दान"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · విశ్వవిద్యాలయం",
+   "col": "--c-city",
+   "art": "campus",
+   "stat": "15 రోజులు",
+   "statl": "కమిటీ నివేదికకు గడువు",
+   "h": "వ్యవసాయ విశ్వవిద్యాలయంలో వేధింపుల ఆరోపణలు: మహిళా కమిషన్ ముందు వీసీ",
+   "p": "హైదరాబాద్‌లోని వ్యవసాయ విశ్వవిద్యాలయంలో వేధింపుల ఆరోపణలపై విచారణలో భాగంగా విశ్వవిద్యాలయ వీసీ రాష్ట్ర మహిళా కమిషన్ ముందు హాజరయ్యారని ఆంధ్రజ్యోతి పేర్కొంది. ఈ వ్యవహారంపై ప్రభుత్వం ఇప్పటికే రాష్ట్ర గిడ్డంగుల సంస్థ ఎండీ నేతృత్వంలో కమిటీని ఏర్పాటు చేసింది. 15 రోజుల్లో నివేదిక ఇవ్వాలని ఆదేశించింది.",
+   "pts": [
+    "రాష్ట్ర మహిళా కమిషన్ ముందు హాజరైన వీసీ",
+    "గిడ్డంగుల సంస్థ ఎండీ నేతృత్వంలో విచారణ కమిటీ",
+    "15 రోజుల్లో నివేదిక ఇవ్వాలని ఆదేశం"
+   ],
+   "why": "విశ్వవిద్యాలయాల్లో విద్యార్థులు, సిబ్బంది భద్రతపై ఈ విచారణ ఫలితం ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-12T12:35+05:30",
+   "en": {
+    "h": "Harassment allegations at agriculture university: VC appears before women's commission",
+    "p": "As part of the inquiry into harassment allegations at the agriculture university in Hyderabad, the university's Vice-Chancellor appeared before the State Women's Commission, Andhra Jyothy reported. The government has already set up a committee headed by the MD of the State Warehousing Corporation and ordered it to submit a report within 15 days.",
+    "pts": [
+     "VC appears before State Women's Commission",
+     "Probe committee headed by Warehousing Corporation MD",
+     "Report ordered within 15 days"
+    ],
+    "why": "The outcome matters for the safety of students and staff at universities.",
+    "cat": "Hyderabad · University",
+    "statl": "Deadline for committee report"
+   },
+   "hi": {
+    "h": "कृषि विश्वविद्यालय में उत्पीड़न के आरोप: महिला आयोग के सामने पेश हुए कुलपति",
+    "p": "आंध्रज्योति के अनुसार हैदराबाद के कृषि विश्वविद्यालय में उत्पीड़न के आरोपों की जांच के तहत विश्वविद्यालय के कुलपति राज्य महिला आयोग के सामने पेश हुए। सरकार ने पहले ही राज्य भंडारण निगम के एमडी की अध्यक्षता में एक समिति बनाई है और 15 दिन में रिपोर्ट देने का आदेश दिया है।",
+    "pts": [
+     "राज्य महिला आयोग के सामने पेश हुए कुलपति",
+     "भंडारण निगम एमडी की अध्यक्षता में जांच समिति",
+     "15 दिन में रिपोर्ट देने का आदेश"
+    ],
+    "why": "विश्वविद्यालयों में छात्रों और कर्मचारियों की सुरक्षा के लिए यह जांच अहम है।",
+    "cat": "हैदराबाद · विश्वविद्यालय",
+    "statl": "समिति रिपोर्ट की समय सीमा"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "ఏపీ · శ్రీ సత్యసాయి",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "జామకాయ",
+   "statl": "కోసిందని బాలికపై దాడి ఆరోపణ",
+   "h": "అప్‌డేట్: జామకాయ ఘటన బాలిక కోలుకుంటోంది; కుటుంబానికి అండగా ఉంటామన్న మంత్రి సవిత",
+   "p": "శ్రీ సత్యసాయి జిల్లాలో జామకాయ కోసిందని ఒక మహిళ బాలికపై రాయితో దాడి చేసిందన్న ఘటనపై మంత్రి సవిత బాలిక తల్లిదండ్రులతో ఫోన్‌లో మాట్లాడారు. బాలిక గాయాల నుంచి కోలుకుంటోందని తల్లిదండ్రులు తెలిపారు. అనంతపురం ప్రభుత్వ ఆసుపత్రి వైద్యులతో మాట్లాడి మెరుగైన చికిత్స అందించాలని మంత్రి ఆదేశించారు. దాడి అమానుషమని, దాడి చేసిన మహిళపై చట్టపరమైన చర్యలు తీసుకుంటామని చెప్పారని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "pts": [
+    "బాలిక కోలుకుంటోందని తెలిపిన తల్లిదండ్రులు",
+    "మెరుగైన చికిత్సకు మంత్రి సవిత ఆదేశం",
+    "దాడి చేసిన మహిళపై చట్టపరమైన చర్యలని హామీ"
+   ],
+   "why": "పిల్లలపై హింసపై ప్రభుత్వ స్పందన, బాధిత కుటుంబానికి సహాయం ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-sathyasai",
+   "pub": "2026-11-12T12:33+05:30",
+   "en": {
+    "h": "Update: Girl in guava attack recovering; Minister Savitha promises support",
+    "p": "Minister Savitha spoke by phone to the parents of a girl in Sri Sathya Sai district who was allegedly hit with a stone by a woman for plucking a guava. The parents said the girl is recovering from her injuries. The minister spoke to Anantapur government hospital doctors and ordered better treatment. Andhra Jyothy reported she called the attack inhuman and said legal action would be taken against the woman.",
+    "pts": [
+     "Parents say the girl is recovering",
+     "Minister Savitha orders better treatment",
+     "Legal action promised against the woman attacker"
+    ],
+    "why": "The government's response and help for the family matter in cases of violence against children.",
+    "cat": "AP · Sri Sathya Sai",
+    "statl": "Girl allegedly attacked for plucking"
+   },
+   "hi": {
+    "h": "अपडेट: अमरूद मामले में बच्ची ठीक हो रही; मंत्री सविता ने मदद का भरोसा दिया",
+    "p": "मंत्री सविता ने श्री सत्य साई जिले की उस बच्ची के माता-पिता से फोन पर बात की, जिस पर अमरूद तोड़ने पर एक महिला ने कथित तौर पर पत्थर से हमला किया था। माता-पिता ने बताया कि बच्ची ठीक हो रही है। मंत्री ने अनंतपुर सरकारी अस्पताल के डॉक्टरों से बात कर बेहतर इलाज का आदेश दिया। आंध्रज्योति के अनुसार उन्होंने हमले को अमानवीय बताया और हमलावर महिला पर कानूनी कार्रवाई की बात कही।",
+    "pts": [
+     "माता-पिता बोले, बच्ची ठीक हो रही है",
+     "मंत्री सविता ने बेहतर इलाज का आदेश दिया",
+     "हमलावर महिला पर कानूनी कार्रवाई का भरोसा"
+    ],
+    "why": "बच्चों पर हिंसा के मामलों में सरकार की प्रतिक्रिया और परिवार की मदद अहम है।",
+    "cat": "आंध्र प्रदेश · श्री सत्य साई",
+    "statl": "तोड़ने पर बच्ची पर हमले का आरोप"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "వనపర్తి · ఏసీబీ",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "10",
+   "statl": "ఏసీబీ బృందాలతో సోదాలు",
+   "h": "వనపర్తిలో నీటిపారుదల శాఖ అధికారి ఇంటిపై ఏసీబీ సోదాలు",
+   "p": "ఆదాయానికి మించిన ఆస్తుల కేసులో వనపర్తి జిల్లా ఖిల్లా ఘనపూర్ మండలం షాపూర్‌లో నీటిపారుదల, సీఏడీ శాఖకు చెందిన ఓ డిప్యూటీ ఎగ్జిక్యూటివ్ ఇంజినీర్ నివాసం సహా పలు చోట్ల ఏసీబీ అధికారులు సోదాలు చేశారు. పది ఏసీబీ బృందాలు ఇందులో పాల్గొన్నాయి. స్వాధీనం చేసుకున్న ఆస్తులు, కీలక పత్రాల వివరాలు ఇంకా వెల్లడించాల్సి ఉందని ఆంధ్రజ్యోతి పేర్కొంది.",
+   "pts": [
+    "ఆదాయానికి మించిన ఆస్తుల కేసులో సోదాలు",
+    "పది ఏసీబీ బృందాల మోహరింపు",
+    "స్వాధీన ఆస్తుల వివరాలు ఇంకా వెల్లడి కాలేదు"
+   ],
+   "why": "ప్రభుత్వ శాఖల్లో అవినీతిపై నిఘా చర్యలు ప్రజలకు ముఖ్యం.",
+   "src": "Andhra Jyothy",
+   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "wanaparthy",
+   "loc": "ఖిల్లా ఘనపూర్",
+   "pub": "2026-11-12T12:19+05:30",
+   "en": {
+    "h": "ACB searches irrigation official's home in Wanaparthy",
+    "p": "In a disproportionate assets case, ACB officials searched several places, including the residence of a Deputy Executive Engineer of the Irrigation and CAD department, in Shapur, Khilla Ghanpur mandal, Wanaparthy district. Ten ACB teams took part. Details of the assets and key documents seized are yet to be disclosed, Andhra Jyothy reported.",
+    "pts": [
+     "Searches in a disproportionate assets case",
+     "Ten ACB teams deployed",
+     "Details of seized assets not yet disclosed"
+    ],
+    "why": "Anti-corruption action in government departments matters to the public.",
+    "cat": "Wanaparthy · ACB",
+    "statl": "ACB teams in searches"
+   },
+   "hi": {
+    "h": "वनपर्ती में सिंचाई विभाग के अधिकारी के घर पर एसीबी की तलाशी",
+    "p": "आय से अधिक संपत्ति के मामले में एसीबी अधिकारियों ने वनपर्ती जिले के खिल्ला घनपुर मंडल के शापुर में सिंचाई और सीएडी विभाग के एक डिप्टी एग्जीक्यूटिव इंजीनियर के घर समेत कई जगहों पर तलाशी ली। इसमें दस एसीबी टीमें शामिल थीं। आंध्रज्योति के अनुसार जब्त संपत्ति और अहम दस्तावेजों का ब्योरा अभी जारी होना बाकी है।",
+    "pts": [
+     "आय से अधिक संपत्ति मामले में तलाशी",
+     "दस एसीबी टीमें तैनात",
+     "जब्त संपत्ति का ब्योरा अभी नहीं"
+    ],
+    "why": "सरकारी विभागों में भ्रष्टाचार पर कार्रवाई जनता के लिए अहम है।",
+    "cat": "वनपर्ती · एसीबी",
+    "statl": "तलाशी में एसीबी टीमें"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "82,013",
+   "statl": "ఉదయం ట్రేడింగ్‌లో సెన్సెక్స్",
+   "h": "ఉదయం ట్రేడింగ్‌లో లాభాల్లో సెన్సెక్స్, నిఫ్టీ; తగ్గిన ముడి చమురు ధర",
+   "p": "విదేశీ పెట్టుబడిదారుల కొనుగోళ్లు, ముడి చమురు ధర తగ్గడంతో గురువారం ఉదయం ట్రేడింగ్‌లో సెన్సెక్స్ 166.44 పాయింట్లు పెరిగి 82,013.58కి, నిఫ్టీ 55.65 పాయింట్లు పెరిగి 25,316.55కి చేరాయి. బుధవారం విదేశీ సంస్థాగత పెట్టుబడిదారులు రూ.12,563.33 కోట్ల షేర్లు కొన్నారు. బ్రెంట్ ముడి చమురు 1.12% తగ్గి బ్యారెల్ 91.75 డాలర్లకు చేరిందని పీటీఐని ఉటంకిస్తూ ఈటీవీ భారత్ పేర్కొంది.",
+   "pts": [
+    "సెన్సెక్స్ 166 పాయింట్లు, నిఫ్టీ 56 పాయింట్లు పెరుగుదల",
+    "బుధవారం విదేశీ సంస్థల కొనుగోళ్లు రూ.12,563 కోట్లు",
+    "నవంబర్‌లో ఇప్పటివరకు నిఫ్టీ 9.55% పెరుగుదల"
+   ],
+   "why": "మ్యూచువల్ ఫండ్లు, షేర్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై మార్కెట్ కదలికలు ప్రభావం చూపుతాయి.",
+   "src": "ETV Bharat (PTI)",
+   "url": "https://www.etvbharat.com/en/business/stock-market-on-november-12-sensex-nifty-crude-oil-prices-enn26111201012",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pub": "2026-11-12T10:09+05:30",
+   "en": {
+    "h": "Sensex, Nifty gain in early trade; crude oil prices fall",
+    "p": "Helped by foreign investor buying and lower crude prices, the Sensex rose 166.44 points to 82,013.58 and the Nifty rose 55.65 points to 25,316.55 in early trade on Thursday. Foreign institutional investors bought shares worth Rs 12,563.33 crore on Wednesday. Brent crude fell 1.12% to 91.75 dollars a barrel, ETV Bharat reported, citing PTI.",
+    "pts": [
+     "Sensex up 166 points, Nifty up 56 points",
+     "FIIs bought Rs 12,563 crore on Wednesday",
+     "Nifty up 9.55% so far in November"
+    ],
+    "why": "Market moves affect the savings of people invested in mutual funds and shares.",
+    "cat": "India · Markets",
+    "statl": "Sensex in early trade"
+   },
+   "hi": {
+    "h": "शुरुआती कारोबार में सेंसेक्स, निफ्टी में बढ़त; कच्चा तेल सस्ता",
+    "p": "विदेशी निवेशकों की खरीदारी और कच्चे तेल की कम कीमतों से गुरुवार को शुरुआती कारोबार में सेंसेक्स 166.44 अंक बढ़कर 82,013.58 और निफ्टी 55.65 अंक बढ़कर 25,316.55 पर पहुंचा। विदेशी संस्थागत निवेशकों ने बुधवार को 12,563.33 करोड़ रुपये के शेयर खरीदे। पीटीआई के हवाले से ईटीवी भारत के अनुसार ब्रेंट कच्चा तेल 1.12% गिरकर 91.75 डॉलर प्रति बैरल रहा।",
+    "pts": [
+     "सेंसेक्स 166 अंक, निफ्टी 56 अंक ऊपर",
+     "बुधवार को एफआईआई ने 12,563 करोड़ के शेयर खरीदे",
+     "नवंबर में अब तक निफ्टी 9.55% ऊपर"
+    ],
+    "why": "बाजार की चाल म्यूचुअल फंड और शेयरों में निवेश करने वालों की बचत पर असर डालती है।",
+    "cat": "भारत · बाजार",
+    "statl": "शुरुआती कारोबार में सेंसेक्स"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఇంధన ధరలు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹115.69",
+   "statl": "హైదరాబాద్‌లో లీటర్ పెట్రోల్",
+   "h": "హైదరాబాద్‌లో పెట్రోల్ లీటర్ ₹115.69, డీజిల్ ₹103.82; ధరలు స్థిరం",
+   "p": "నవంబర్ 12న పెట్రోల్, డీజిల్ ధరలు స్థిరంగా ఉన్నాయని ది హన్స్ ఇండియా పేర్కొంది. హైదరాబాద్‌లో లీటర్ పెట్రోల్ రూ.115.69, డీజిల్ రూ.103.82గా ఉంది. ఢిల్లీలో పెట్రోల్ రూ.102.12, డీజిల్ రూ.95.20; ముంబైలో పెట్రోల్ రూ.111.21, డీజిల్ రూ.97.83; బెంగళూరులో పెట్రోల్ రూ.110.82, డీజిల్ రూ.98.78గా ఉన్నాయి. ధరలు మారే అవకాశం ఉందని పత్రిక తెలిపింది.",
+   "pts": [
+    "హైదరాబాద్‌లో పెట్రోల్ రూ.115.69, డీజిల్ రూ.103.82",
+    "ఢిల్లీలో పెట్రోల్ రూ.102.12",
+    "ఇంధన ధరల్లో మార్పు లేదు"
+   ],
+   "why": "వాహనదారులు, రవాణా ఖర్చులు భరించే కుటుంబాలకు రోజువారీ ఇంధన ధరలు ముఖ్యం.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/business/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-12-november-2026-1141331",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pub": "2026-11-12T10:36+05:30",
+   "en": {
+    "h": "Hyderabad petrol at Rs 115.69 a litre, diesel Rs 103.82; prices stable",
+    "p": "Petrol and diesel prices were stable on November 12, The Hans India reported. In Hyderabad petrol costs Rs 115.69 a litre and diesel Rs 103.82. In Delhi petrol is Rs 102.12 and diesel Rs 95.20; in Mumbai petrol Rs 111.21 and diesel Rs 97.83; and in Bengaluru petrol Rs 110.82 and diesel Rs 98.78. The paper said prices are subject to change.",
+    "pts": [
+     "Hyderabad: petrol Rs 115.69, diesel Rs 103.82",
+     "Delhi petrol at Rs 102.12",
+     "No change in fuel prices"
+    ],
+    "why": "Daily fuel prices matter to vehicle owners and families who bear transport costs.",
+    "cat": "Hyderabad · Fuel Prices",
+    "statl": "Petrol per litre in Hyderabad"
+   },
+   "hi": {
+    "h": "हैदराबाद में पेट्रोल 115.69 रुपये, डीजल 103.82 रुपये लीटर; दाम स्थिर",
+    "p": "द हंस इंडिया के अनुसार 12 नवंबर को पेट्रोल और डीजल के दाम स्थिर रहे। हैदराबाद में पेट्रोल 115.69 रुपये और डीजल 103.82 रुपये प्रति लीटर है। दिल्ली में पेट्रोल 102.12 और डीजल 95.20 रुपये, मुंबई में पेट्रोल 111.21 और डीजल 97.83 रुपये, तथा बेंगलुरु में पेट्रोल 110.82 और डीजल 98.78 रुपये है। अखबार ने कहा कि दाम बदल सकते हैं।",
+    "pts": [
+     "हैदराबाद: पेट्रोल 115.69, डीजल 103.82 रुपये",
+     "दिल्ली में पेट्रोल 102.12 रुपये",
+     "ईंधन के दाम में कोई बदलाव नहीं"
+    ],
+    "why": "रोज के ईंधन दाम वाहन मालिकों और परिवहन खर्च उठाने वाले परिवारों के लिए अहम हैं।",
+    "cat": "हैदराबाद · ईंधन दाम",
+    "statl": "हैदराबाद में पेट्रोल प्रति लीटर"
+   },
+   "d": "12.11.2026",
+   "t": "13:05"
+  },
   {
    "cat": "ఏపీ · ఉద్యోగాలు",
    "col": "--c-money",
