@@ -1,8 +1,258 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 62,
+ "count": 67,
  "stories": [
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "₹9.89 లక్షల కోట్లు",
+   "statl": "సీఐఐ సదస్సులో పెట్టుబడుల ఒప్పందాలు",
+   "h": "సీఐఐ సదస్సులో 303 ఒప్పందాలు, ₹9.89 లక్షల కోట్ల పెట్టుబడులు: సీఎం చంద్రబాబు",
+   "p": "విశాఖలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో కుదిరిన 303 ఒప్పందాల ద్వారా రాష్ట్రానికి ₹9.89 లక్షల కోట్ల పెట్టుబడులు వస్తాయని సీఎం చంద్రబాబు నాయుడు తెలిపారు. దీంతో రాష్ట్రానికి మొత్తం పెట్టుబడులు ₹32 లక్షల కోట్లకు చేరాయన్నారు. క్వాంటమ్ కంప్యూటింగ్ యూనిట్లు, పౌర, రక్షణ డ్రోన్ల కోసం 'డ్రోన్ సిటీ' ఏర్పాటు చేస్తామని ఆయన ప్రకటించారు.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/ap-secures-rs-989-lakh-cr-of-investment-at-cii-summit-cm-naidu-1141360",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "loc": "విశాఖపట్నం",
+   "pts": [
+    "303 ఒప్పందాలతో ₹9.89 లక్షల కోట్ల పెట్టుబడులు",
+    "రాష్ట్ర మొత్తం పెట్టుబడులు ₹32 లక్షల కోట్లు",
+    "డ్రోన్ సిటీ, క్వాంటమ్ యూనిట్ల ప్రకటన"
+   ],
+   "why": "ఈ పెట్టుబడులు అమలైతే ఏపీలో పరిశ్రమలు, ఉద్యోగ అవకాశాలపై ప్రభావం ఉంటుంది.",
+   "pub": "2026-11-12T13:41+05:30",
+   "en": {
+    "h": "303 deals worth ₹9.89 lakh crore signed at CII summit: CM Naidu",
+    "p": "Chief Minister N. Chandrababu Naidu said the 303 agreements signed at the CII Partnership Summit in Visakhapatnam will bring ₹9.89 lakh crore of investment to the state. He said this takes the state's total investments to ₹32 lakh crore. He announced quantum computing units and a 'Drone City' for civilian and defence drones.",
+    "pts": [
+     "303 deals worth ₹9.89 lakh crore",
+     "State's total investment at ₹32 lakh crore",
+     "Drone City and quantum units announced"
+    ],
+    "why": "If implemented, these investments will affect industry and job opportunities in AP.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "Investment deals at CII summit"
+   },
+   "hi": {
+    "h": "सीआईआई सम्मेलन में 303 समझौते, ₹9.89 लाख करोड़ का निवेश: सीएम नायडू",
+    "p": "मुख्यमंत्री एन. चंद्रबाबू नायडू ने कहा कि विशाखापत्तनम में सीआईआई पार्टनरशिप समिट में हुए 303 समझौतों से राज्य में ₹9.89 लाख करोड़ का निवेश आएगा। उन्होंने कहा कि इससे राज्य में कुल निवेश ₹32 लाख करोड़ तक पहुंच गया है। उन्होंने क्वांटम कंप्यूटिंग इकाइयों और नागरिक व रक्षा ड्रोन के लिए 'ड्रोन सिटी' की घोषणा की।",
+    "pts": [
+     "303 समझौते, ₹9.89 लाख करोड़ का निवेश",
+     "राज्य में कुल निवेश ₹32 लाख करोड़",
+     "ड्रोन सिटी और क्वांटम इकाइयों की घोषणा"
+    ],
+    "why": "लागू होने पर इन निवेशों का आंध्र प्रदेश में उद्योग और रोजगार पर असर होगा।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "सीआईआई सम्मेलन में निवेश समझौते"
+   },
+   "d": "12.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "ఏపీ · ఇంధనం",
+   "col": "--c-power",
+   "art": "power",
+   "stat": "₹29,500 కోట్లు",
+   "statl": "రీన్యూ కొత్త పెట్టుబడి",
+   "h": "ఏపీలో రీన్యూ ₹29,500 కోట్ల పెట్టుబడి: పంప్డ్ స్టోరేజ్, గ్రీన్ అమ్మోనియా ప్రాజెక్టులు",
+   "p": "రీన్యూ సంస్థ ఆంధ్రప్రదేశ్‌లో ₹29,500 కోట్ల పెట్టుబడికి ముందుకొచ్చింది. ఇందులో ₹12,500 కోట్లు 2 గిగావాట్ల పంప్డ్ స్టోరేజ్ ప్రాజెక్టుకు, ₹17,000 కోట్లు గ్రీన్ అమ్మోనియా, ఈ-ఫ్యూయల్ ప్రాజెక్టుకు కేటాయిస్తారు. విశాఖ సీఐఐ సదస్సు సందర్భంగా మంత్రి నారా లోకేశ్, రీన్యూ చైర్మన్ సుమంత్ సిన్హా మధ్య జరిగిన భేటీలో ఇది ఖరారైంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/renew-announces-rs-29500-cr-investment-in-ammonia-and-e-fuel-project-in-ap-1141358",
+   "sec": [
+    "telangana",
+    "business",
+    "innovation"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "2 గిగావాట్ల పంప్డ్ స్టోరేజ్‌కు ₹12,500 కోట్లు",
+    "గ్రీన్ అమ్మోనియా, ఈ-ఫ్యూయల్‌కు ₹17,000 కోట్లు",
+    "లోకేశ్–సుమంత్ సిన్హా భేటీలో ఖరారు"
+   ],
+   "why": "పునరుత్పాదక ఇంధన రంగంలో ఏపీకి వచ్చే పెద్ద పెట్టుబడుల్లో ఇది ఒకటి.",
+   "pub": "2026-11-12T13:22+05:30",
+   "en": {
+    "h": "ReNew to invest ₹29,500 crore in AP pumped storage, green ammonia projects",
+    "p": "ReNew has committed ₹29,500 crore of investment in Andhra Pradesh. Of this, ₹12,500 crore is for a 2 GW pumped storage project and ₹17,000 crore for a green ammonia and e-fuel project. It was finalised at a meeting between Minister Nara Lokesh and ReNew Chairman Sumant Sinha during the CII summit in Visakhapatnam.",
+    "pts": [
+     "₹12,500 crore for 2 GW pumped storage",
+     "₹17,000 crore for green ammonia, e-fuel",
+     "Finalised at Lokesh–Sumant Sinha meeting"
+    ],
+    "why": "This is among the big renewable-energy investments coming to AP.",
+    "cat": "AP · Energy",
+    "statl": "ReNew's new investment"
+   },
+   "hi": {
+    "h": "आंध्र प्रदेश में रीन्यू का ₹29,500 करोड़ निवेश: पंप्ड स्टोरेज, ग्रीन अमोनिया परियोजनाएं",
+    "p": "रीन्यू ने आंध्र प्रदेश में ₹29,500 करोड़ के निवेश की प्रतिबद्धता जताई है। इसमें ₹12,500 करोड़ 2 गीगावाट पंप्ड स्टोरेज परियोजना और ₹17,000 करोड़ ग्रीन अमोनिया व ई-फ्यूल परियोजना के लिए हैं। विशाखापत्तनम सीआईआई सम्मेलन के दौरान मंत्री नारा लोकेश और रीन्यू चेयरमैन सुमंत सिन्हा की बैठक में यह तय हुआ।",
+    "pts": [
+     "2 गीगावाट पंप्ड स्टोरेज के लिए ₹12,500 करोड़",
+     "ग्रीन अमोनिया, ई-फ्यूल के लिए ₹17,000 करोड़",
+     "लोकेश–सुमंत सिन्हा बैठक में तय"
+    ],
+    "why": "यह आंध्र प्रदेश में आने वाले बड़े नवीकरणीय ऊर्जा निवेशों में से एक है।",
+    "cat": "आंध्र प्रदेश · ऊर्जा",
+    "statl": "रीन्यू का नया निवेश"
+   },
+   "d": "12.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "నల్గొండ · మహిళా భద్రత",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "48 గంటలు",
+   "statl": "చర్యల నివేదికకు ఎన్‌సీడబ్ల్యూ గడువు",
+   "h": "నల్గొండలో వితంతువుపై దాడి ఆరోపణ: నిజనిర్ధారణ కమిటీ వేసిన ఎన్‌సీడబ్ల్యూ",
+   "p": "నల్గొండ జిల్లాలో 60 ఏళ్ల వితంతువు, ప్రభుత్వ ఉపాధ్యాయురాలి ఇంట్లోకి గుంపు చొరబడి దాడి, ధ్వంసం చేశారన్న ఆరోపణపై జాతీయ మహిళా కమిషన్ ఇద్దరు సభ్యుల కమిటీ వేసింది. కమిటీ బాధితురాలు, సాక్షులు, కలెక్టర్, ఎస్పీలతో మాట్లాడింది. కేసు నిర్వహణలో కొన్ని లోపాలు గుర్తించామని, 48 గంటల్లో చర్యల నివేదిక ఇవ్వాలని పోలీసులను ఆదేశించినట్లు ఎన్‌సీడబ్ల్యూ తెలిపిందని పీటీఐ కథనం.",
+   "src": "Siasat Daily (PTI)",
+   "url": "https://www.siasat.com/ncw-forms-panel-seeks-report-on-telangana-widow-assault-3574864/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pts": [
+    "ఇద్దరు సభ్యుల నిజనిర్ధారణ కమిటీ నల్గొండ పర్యటన",
+    "కేసు నిర్వహణలో లోపాలు గుర్తించినట్లు ఎన్‌సీడబ్ల్యూ",
+    "48 గంటల్లో చర్యల నివేదికకు ఆదేశం"
+   ],
+   "why": "మహిళపై దాడి ఆరోపణల కేసులో పోలీసు చర్యలపై జాతీయ కమిషన్ పర్యవేక్షణ ఇది.",
+   "pub": "2026-11-12T07:55+05:30",
+   "en": {
+    "h": "Alleged assault on widow in Nalgonda: NCW forms fact-finding panel",
+    "p": "The National Commission for Women formed a two-member committee over the alleged assault on a 60-year-old widow and government teacher in Nalgonda district, whose house was allegedly entered and ransacked by a mob. The committee spoke with the victim, witnesses, the Collector and the SP. NCW said it noted certain lapses in handling the case and directed police to submit an Action Taken Report within 48 hours, PTI reported.",
+    "pts": [
+     "Two-member fact-finding panel visits Nalgonda",
+     "NCW notes lapses in handling the case",
+     "Action Taken Report sought within 48 hours"
+    ],
+    "why": "A national commission is overseeing police action in a case of alleged assault on a woman.",
+    "cat": "Nalgonda · Women's safety",
+    "statl": "NCW deadline for action report"
+   },
+   "hi": {
+    "h": "नलगोंडा में विधवा पर हमले का आरोप: एनसीडब्ल्यू ने तथ्य-जांच समिति बनाई",
+    "p": "राष्ट्रीय महिला आयोग ने नलगोंडा जिले में 60 वर्षीय विधवा और सरकारी शिक्षिका के घर में भीड़ के घुसकर हमला और तोड़फोड़ करने के आरोप पर दो सदस्यीय समिति बनाई। समिति ने पीड़िता, गवाहों, कलेक्टर और एसपी से बात की। पीटीआई के अनुसार एनसीडब्ल्यू ने कहा कि मामले के निपटारे में कुछ खामियां मिलीं और पुलिस को 48 घंटे में कार्रवाई रिपोर्ट देने का निर्देश दिया।",
+    "pts": [
+     "दो सदस्यीय तथ्य-जांच समिति नलगोंडा पहुंची",
+     "एनसीडब्ल्यू को मामले में खामियां मिलीं",
+     "48 घंटे में कार्रवाई रिपोर्ट मांगी"
+    ],
+    "why": "महिला पर हमले के आरोप वाले मामले में राष्ट्रीय आयोग पुलिस कार्रवाई की निगरानी कर रहा है।",
+    "cat": "नलगोंडा · महिला सुरक्षा",
+    "statl": "कार्रवाई रिपोर्ट के लिए एनसीडब्ल्यू की समय-सीमा"
+   },
+   "d": "12.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "హైదరాబాద్ · మీడియా",
+   "col": "--c-city",
+   "art": "court",
+   "stat": "వీసా ఉన్నా",
+   "statl": "ప్రయాణానికి అనుమతి నిరాకరణ అని ఆరోపణ",
+   "h": "హైదరాబాద్ సదస్సుకు రావాల్సిన నార్వే జర్నలిస్టుకు భారత్‌లో ప్రవేశం నిరాకరణ: ఆమె ఆరోపణ",
+   "p": "హైదరాబాద్‌లో మీడియా, పత్రికా స్వేచ్ఛపై జరిగే సదస్సులో మాట్లాడాల్సిన నార్వే జర్నలిస్టు హెల్లె లింగ్‌ను విమానం ఎక్కనివ్వలేదని ఆమె ఆరోపించారు. వీసా ఉన్నప్పటికీ ఆ రోజు భారత్‌కు ప్రయాణించలేరని బయలుదేరే ముందు ఫోన్ వచ్చిందని, ఇది రాజకీయ ప్రేరేపితమని ఆమె అన్నారు. ప్రభుత్వం, రాయబార కార్యాలయం స్పందన కథనంలో లేదని సియాసత్ పేర్కొంది.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-norwegian-journalist-who-questioned-pm-denied-entry-3574850/",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "హైదరాబాద్ సదస్సులో మాట్లాడాల్సిన నార్వే జర్నలిస్టు",
+    "వీసా ఉన్నా ప్రయాణానికి అనుమతి లేదని ఆరోపణ",
+    "ప్రభుత్వ స్పందన కథనంలో లేదు"
+   ],
+   "why": "హైదరాబాద్‌లో జరిగే అంతర్జాతీయ సదస్సు, పత్రికా స్వేచ్ఛ చర్చకు సంబంధించిన అంశం ఇది.",
+   "pub": "2026-11-12T07:49+05:30",
+   "en": {
+    "h": "Norwegian journalist due at Hyderabad conference denied entry to India, she alleges",
+    "p": "Norwegian journalist Helle Lyng, due to speak at a conference in Hyderabad on media and press freedom, alleged she was stopped from boarding her flight. She said she got a call shortly before departure saying she could not travel to India that day despite holding a visa, and called it politically motivated. Siasat said the article has no response from the government or the embassy.",
+    "pts": [
+     "Norwegian journalist due at Hyderabad conference",
+     "Alleges travel denied despite valid visa",
+     "No government response in the report"
+    ],
+    "why": "The issue concerns an international conference in Hyderabad and the debate on press freedom.",
+    "cat": "Hyderabad · Media",
+    "statl": "Alleges travel was denied"
+   },
+   "hi": {
+    "h": "हैदराबाद सम्मेलन में आने वाली नॉर्वे की पत्रकार को भारत में प्रवेश से रोका गया: उनका आरोप",
+    "p": "हैदराबाद में मीडिया और प्रेस स्वतंत्रता पर सम्मेलन में बोलने वाली नॉर्वे की पत्रकार हेल्ले लिंग ने आरोप लगाया कि उन्हें विमान में चढ़ने से रोका गया। उन्होंने कहा कि वीसा होने के बावजूद रवाना होने से पहले फोन आया कि वे उस दिन भारत नहीं जा सकतीं, और इसे राजनीति से प्रेरित बताया। सियासत के अनुसार लेख में सरकार या दूतावास की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "हैदराबाद सम्मेलन में बोलने वाली नॉर्वे की पत्रकार",
+     "वीसा होने के बावजूद यात्रा रोकने का आरोप",
+     "रिपोर्ट में सरकार की प्रतिक्रिया नहीं"
+    ],
+    "why": "यह मामला हैदराबाद के अंतरराष्ट्रीय सम्मेलन और प्रेस स्वतंत्रता की बहस से जुड़ा है।",
+    "cat": "हैदराबाद · मीडिया",
+    "statl": "यात्रा रोकने का आरोप"
+   },
+   "d": "12.11.2026",
+   "t": "14:05"
+  },
+  {
+   "cat": "ఉత్తరప్రదేశ్ · ఎన్నికలు",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "2027",
+   "statl": "యూపీ అసెంబ్లీ ఎన్నికలకు కొత్త కూటమి",
+   "h": "అప్‌డేట్: యూపీలో ఒవైసీ–ఆజాద్ 'సామాజిక్ పరివర్తన్ మోర్చా'; సీఎం అభ్యర్థిగా చంద్రశేఖర్ ఆజాద్",
+   "p": "ఎంఐఎం అధ్యక్షుడు అసదుద్దీన్ ఒవైసీ, ఆజాద్ సమాజ్ పార్టీ నేత చంద్రశేఖర్ ఆజాద్ కలిసి 2027 యూపీ అసెంబ్లీ ఎన్నికలకు 'సామాజిక్ పరివర్తన్ మోర్చా' అనే మూడో కూటమిని ప్రకటించారు. ఆజాద్ మోర్చా అధ్యక్షుడు, సీఎం అభ్యర్థి అని ఒవైసీ తెలిపారు. విద్య, యువత నిరుద్యోగం, రైతుల సమస్యలపై దృష్టి పెడతామని, నవంబర్ 26న బహిరంగ సభ ఉంటుందని చెప్పారు.",
+   "src": "The Hans India",
+   "url": "https://thehansindia.com/uttarpradesh/a-new-front-a-new-cm-face-owaisi-bets-on-azad-for-cms-chair-1141363",
+   "sec": [
+    "india"
+   ],
+   "st": "UP",
+   "place": "st-UP",
+   "pts": [
+    "ఎంఐఎం–ఆజాద్ సమాజ్ పార్టీ మూడో కూటమి",
+    "సీఎం అభ్యర్థిగా చంద్రశేఖర్ ఆజాద్",
+    "నవంబర్ 26న బహిరంగ సభ"
+   ],
+   "why": "హైదరాబాద్ ఎంపీ ఒవైసీ పార్టీ యూపీ ఎన్నికల్లో కొత్త కూటమితో బరిలోకి దిగుతోంది.",
+   "pub": "2026-11-12T14:02+05:30",
+   "en": {
+    "h": "Update: Owaisi, Azad launch 'Samajik Parivartan Morcha' in UP; Azad named CM face",
+    "p": "AIMIM chief Asaduddin Owaisi and Azad Samaj Party leader Chandrashekhar Azad jointly announced a third front, the Samajik Parivartan Morcha, for the 2027 Uttar Pradesh Assembly elections. Owaisi said Azad will be the morcha's chief and chief ministerial candidate. They said the front will focus on education, youth unemployment and farmers' problems, with a public meeting on November 26.",
+    "pts": [
+     "AIMIM–Azad Samaj Party third front",
+     "Chandrashekhar Azad named CM candidate",
+     "Public meeting on November 26"
+    ],
+    "why": "Hyderabad MP Owaisi's party is entering the UP polls with a new front.",
+    "cat": "Uttar Pradesh · Elections",
+    "statl": "New front for UP Assembly polls"
+   },
+   "hi": {
+    "h": "अपडेट: यूपी में ओवैसी–आज़ाद का 'सामाजिक परिवर्तन मोर्चा'; चंद्रशेखर आज़ाद सीएम चेहरा",
+    "p": "एआईएमआईएम प्रमुख असदुद्दीन ओवैसी और आज़ाद समाज पार्टी के नेता चंद्रशेखर आज़ाद ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए तीसरे मोर्चे 'सामाजिक परिवर्तन मोर्चा' की संयुक्त घोषणा की। ओवैसी ने कहा कि आज़ाद मोर्चे के प्रमुख और मुख्यमंत्री पद के उम्मीदवार होंगे। उन्होंने कहा कि मोर्चा शिक्षा, युवा बेरोजगारी और किसानों की समस्याओं पर ध्यान देगा और 26 नवंबर को जनसभा होगी।",
+    "pts": [
+     "एआईएमआईएम–आज़ाद समाज पार्टी का तीसरा मोर्चा",
+     "चंद्रशेखर आज़ाद सीएम उम्मीदवार",
+     "26 नवंबर को जनसभा"
+    ],
+    "why": "हैदराबाद के सांसद ओवैसी की पार्टी नए मोर्चे के साथ यूपी चुनाव में उतर रही है।",
+    "cat": "उत्तर प्रदेश · चुनाव",
+    "statl": "यूपी विधानसभा चुनाव के लिए नया मोर्चा"
+   },
+   "d": "12.11.2026",
+   "t": "14:05"
+  },
   {
    "cat": "హైదరాబాద్ · పోలీసు",
    "col": "--c-power",
