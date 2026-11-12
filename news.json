@@ -1,8 +1,58 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T08:38:12+05:30",
+ "updated": "2026-11-12T09:14:48+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "₹1,630 కోట్లు",
+   "statl": "వీజీఎఫ్ అని జగన్ ఆరోపణ",
+   "h": "వైద్య కళాశాలల పీపీపీ అప్పగింతలో భారీ కుంభకోణం: జగన్ ఆరోపణ",
+   "p": "ప్రభుత్వ వైద్య కళాశాలలను పీపీపీ విధానంలో ప్రైవేటుకు అప్పగించడం ప్రజా ఆస్తులతో కూడిన భారీ కుంభకోణమని వైఎస్సార్సీపీ అధ్యక్షుడు జగన్ మోహన్ రెడ్డి ఎక్స్ పోస్ట్‌లో ఆరోపించారు. ఎకరం ₹100కే లీజు, సగానికి పైగా సీట్లకు మార్కెట్ ఫీజులు, ₹1,630 కోట్ల వీజీఎఫ్ ఇస్తున్నారని ఆయన ఆరోపణ. దీనిపై టీడీపీ వెంటనే స్పందించలేదని పీటీఐ కథనం పేర్కొంది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/jagan-alleges-massive-scam-in-move-to-hand-over-medical-colleges-under-ppp-model",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "తమ హయాంలో 17 కొత్త వైద్య కళాశాలలు ఏర్పాటు చేశామన్న జగన్",
+    "సుమారు కోటి మంది వ్యతిరేక పిటిషన్‌పై సంతకాలు చేశారని వెల్లడి",
+    "అధికారంలోకి వస్తే చట్టపరమైన చర్యలంటూ హెచ్చరిక"
+   ],
+   "why": "ఏపీ ప్రభుత్వ వైద్య కళాశాలల సీట్లు, ఫీజులపై ఈ వివాదం వైద్య విద్యార్థులు, తల్లిదండ్రులపై ప్రభావం చూపవచ్చు.",
+   "d": "12.11.2026",
+   "t": "09:05",
+   "pub": "2026-11-12T08:40+05:30",
+   "en": {
+    "h": "Jagan alleges massive scam in handing medical colleges under PPP model",
+    "p": "YSRCP president Jagan Mohan Reddy alleged in an X post that handing government medical colleges to private operators under the PPP model is a massive scam involving public assets. He alleged land is leased at ₹100 an acre, market fees allowed for over half the seats and ₹1,630 crore given as VGF. The TDP did not immediately respond, the PTI report said.",
+    "pts": [
+     "Jagan says his government set up 17 new medical colleges",
+     "Says about one crore people signed a petition against it",
+     "Warns of legal action if YSRCP returns to power"
+    ],
+    "why": "The dispute over seats and fees in AP government medical colleges may affect medical students and parents.",
+    "cat": "AP · Politics",
+    "statl": "VGF, as alleged by Jagan"
+   },
+   "hi": {
+    "h": "मेडिकल कॉलेज पीपीपी हस्तांतरण में बड़ा घोटाला: जगन का आरोप",
+    "p": "वाईएसआरसीपी अध्यक्ष जगन मोहन रेड्डी ने एक्स पोस्ट में आरोप लगाया कि सरकारी मेडिकल कॉलेजों को पीपीपी मॉडल में निजी संचालकों को सौंपना सार्वजनिक संपत्ति से जुड़ा बड़ा घोटाला है। उनका आरोप है कि ₹100 प्रति एकड़ पर ज़मीन लीज़, आधी से ज़्यादा सीटों पर बाज़ार फ़ीस और ₹1,630 करोड़ वीजीएफ दिया जा रहा है। पीटीआई के अनुसार टीडीपी ने तुरंत प्रतिक्रिया नहीं दी।",
+    "pts": [
+     "जगन बोले, उनकी सरकार ने 17 नए मेडिकल कॉलेज बनाए",
+     "करीब एक करोड़ लोगों ने विरोध याचिका पर हस्ताक्षर किए",
+     "वाईएसआरसीपी सत्ता में लौटी तो कानूनी कार्रवाई की चेतावनी"
+    ],
+    "why": "आंध्र के सरकारी मेडिकल कॉलेजों की सीटों और फ़ीस पर यह विवाद छात्रों और अभिभावकों को प्रभावित कर सकता है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "वीजीएफ, जगन के आरोप अनुसार"
+   }
+  },
   {
    "cat": "ఉత్తరప్రదేశ్ · రాజకీయం",
    "col": "--c-election",
@@ -2359,56 +2409,6 @@
     "why": "यह मामला दिखाता है कि फ़र्ज़ी दस्तावेज़ों से लोन धोखाधड़ी को लेकर बैंकों और लोगों को सतर्क रहना चाहिए।",
     "cat": "रंगारेड्डी · धोखाधड़ी",
     "statl": "फ़र्ज़ी काग़ज़ों से लिया लोन"
-   },
-   "d": "11.11.2026",
-   "t": "21:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "77",
-   "statl": "నియోజకవర్గాల్లో పట్టభద్రుల ఎన్నికలు",
-   "h": "పట్టభద్రుల ఎమ్మెల్సీ ప్రచారం ప్రారంభించిన కవిత: ఇద్దరు అభ్యర్థులు",
-   "p": "బంజారాహిల్స్‌లోని పార్టీ కార్యాలయంలో టీఆర్ఎస్ అధ్యక్షురాలు కల్వకుంట్ల కవిత బుధవారం పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల ప్రచారాన్ని ప్రారంభించారు. హైదరాబాద్–రంగారెడ్డి–మహబూబ్‌నగర్ స్థానం నుంచి ఆకాశ్ కొల్లూరి, నల్గొండ–ఖమ్మం–వరంగల్ స్థానం నుంచి డాక్టర్ నలమాస శ్రీకాంత్ గౌడ్‌ను గెలిపించాలని కోరారు. ప్రభుత్వాన్ని, ప్రతిపక్షాన్ని ప్రశ్నించే అవకాశమని, ఎన్నికల్లో డబ్బును తిరస్కరించాలని పట్టభద్రులకు పిలుపునిచ్చారు.",
-   "src": "Siasat Daily",
-   "url": "https://www.siasat.com/chance-to-question-govt-oppn-kavitha-kicks-off-mlc-poll-campaign-3574604/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "బంజారాహిల్స్",
-   "pts": [
-    "ఆకాశ్ కొల్లూరి, శ్రీకాంత్ గౌడ్ అభ్యర్థులు",
-    "రెండు స్థానాల పరిధిలో 77 అసెంబ్లీ నియోజకవర్గాలు",
-    "ఫీజు రీయింబర్స్‌మెంట్, నదీ జలాల వాటాపై దృష్టి"
-   ],
-   "why": "రాష్ట్రంలో సుమారు 80 లక్షల మంది పట్టభద్రులున్నారని, ఈ రెండు స్థానాలు దాదాపు మూడో వంతు రాష్ట్రాన్ని కవర్ చేస్తాయని కవిత చెప్పారు.",
-   "pub": "2026-11-11T20:22+05:30",
-   "en": {
-    "h": "Kavitha launches Graduate MLC campaign, names two candidates",
-    "p": "TRS chief Kalvakuntla Kavitha on Wednesday launched her party's Graduate MLC election campaign at its Banjara Hills office. She asked voters to elect Akash Kolluri from the Hyderabad–Rangareddy–Mahabubnagar seat and Dr Nalamasa Srikanth Goud from the Nalgonda–Khammam–Warangal seat. She called it a chance to question the government and the Opposition and urged graduates to reject money in elections.",
-    "pts": [
-     "Akash Kolluri and Srikanth Goud are the candidates",
-     "The two seats cover 77 Assembly constituencies",
-     "Focus on fee reimbursement and river water share"
-    ],
-    "why": "Kavitha said about 80 lakh people in the state hold degrees and the two seats cover nearly a third of Telangana.",
-    "cat": "Telangana · Elections",
-    "statl": "Constituencies in graduate polls"
-   },
-   "hi": {
-    "h": "कविता ने स्नातक एमएलसी प्रचार शुरू किया, दो उम्मीदवार घोषित",
-    "p": "टीआरएस अध्यक्ष कल्वकुंटला कविता ने बुधवार को बंजारा हिल्स स्थित पार्टी कार्यालय में स्नातक एमएलसी चुनाव प्रचार शुरू किया। उन्होंने हैदराबाद–रंगारेड्डी–महबूबनगर सीट से आकाश कोल्लूरी और नलगोंडा–खम्मम–वरंगल सीट से डॉ. नलमासा श्रीकांत गौड़ को जिताने की अपील की। उन्होंने इसे सरकार और विपक्ष से सवाल करने का मौका बताया और स्नातकों से चुनाव में पैसे को नकारने को कहा।",
-    "pts": [
-     "आकाश कोल्लूरी और श्रीकांत गौड़ उम्मीदवार",
-     "दोनों सीटों में 77 विधानसभा क्षेत्र",
-     "फ़ीस प्रतिपूर्ति और नदी जल हिस्सेदारी पर ज़ोर"
-    ],
-    "why": "कविता ने कहा कि राज्य में लगभग 80 लाख डिग्रीधारी हैं और ये दो सीटें तेलंगाना के लगभग एक तिहाई हिस्से को कवर करती हैं।",
-    "cat": "तेलंगाना · चुनाव",
-    "statl": "स्नातक चुनाव वाले क्षेत्र"
    },
    "d": "11.11.2026",
    "t": "21:05"

@@ -1,8 +1,58 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 27,
+ "count": 28,
  "stories": [
+  {
+   "cat": "ఏపీ · రాజకీయం",
+   "col": "--c-election",
+   "art": "campus",
+   "stat": "₹1,630 కోట్లు",
+   "statl": "వీజీఎఫ్ అని జగన్ ఆరోపణ",
+   "h": "వైద్య కళాశాలల పీపీపీ అప్పగింతలో భారీ కుంభకోణం: జగన్ ఆరోపణ",
+   "p": "ప్రభుత్వ వైద్య కళాశాలలను పీపీపీ విధానంలో ప్రైవేటుకు అప్పగించడం ప్రజా ఆస్తులతో కూడిన భారీ కుంభకోణమని వైఎస్సార్సీపీ అధ్యక్షుడు జగన్ మోహన్ రెడ్డి ఎక్స్ పోస్ట్‌లో ఆరోపించారు. ఎకరం ₹100కే లీజు, సగానికి పైగా సీట్లకు మార్కెట్ ఫీజులు, ₹1,630 కోట్ల వీజీఎఫ్ ఇస్తున్నారని ఆయన ఆరోపణ. దీనిపై టీడీపీ వెంటనే స్పందించలేదని పీటీఐ కథనం పేర్కొంది.",
+   "src": "Telangana Today (PTI)",
+   "url": "https://telanganatoday.com/jagan-alleges-massive-scam-in-move-to-hand-over-medical-colleges-under-ppp-model",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pts": [
+    "తమ హయాంలో 17 కొత్త వైద్య కళాశాలలు ఏర్పాటు చేశామన్న జగన్",
+    "సుమారు కోటి మంది వ్యతిరేక పిటిషన్‌పై సంతకాలు చేశారని వెల్లడి",
+    "అధికారంలోకి వస్తే చట్టపరమైన చర్యలంటూ హెచ్చరిక"
+   ],
+   "why": "ఏపీ ప్రభుత్వ వైద్య కళాశాలల సీట్లు, ఫీజులపై ఈ వివాదం వైద్య విద్యార్థులు, తల్లిదండ్రులపై ప్రభావం చూపవచ్చు.",
+   "d": "12.11.2026",
+   "t": "09:05",
+   "pub": "2026-11-12T08:40+05:30",
+   "en": {
+    "h": "Jagan alleges massive scam in handing medical colleges under PPP model",
+    "p": "YSRCP president Jagan Mohan Reddy alleged in an X post that handing government medical colleges to private operators under the PPP model is a massive scam involving public assets. He alleged land is leased at ₹100 an acre, market fees allowed for over half the seats and ₹1,630 crore given as VGF. The TDP did not immediately respond, the PTI report said.",
+    "pts": [
+     "Jagan says his government set up 17 new medical colleges",
+     "Says about one crore people signed a petition against it",
+     "Warns of legal action if YSRCP returns to power"
+    ],
+    "why": "The dispute over seats and fees in AP government medical colleges may affect medical students and parents.",
+    "cat": "AP · Politics",
+    "statl": "VGF, as alleged by Jagan"
+   },
+   "hi": {
+    "h": "मेडिकल कॉलेज पीपीपी हस्तांतरण में बड़ा घोटाला: जगन का आरोप",
+    "p": "वाईएसआरसीपी अध्यक्ष जगन मोहन रेड्डी ने एक्स पोस्ट में आरोप लगाया कि सरकारी मेडिकल कॉलेजों को पीपीपी मॉडल में निजी संचालकों को सौंपना सार्वजनिक संपत्ति से जुड़ा बड़ा घोटाला है। उनका आरोप है कि ₹100 प्रति एकड़ पर ज़मीन लीज़, आधी से ज़्यादा सीटों पर बाज़ार फ़ीस और ₹1,630 करोड़ वीजीएफ दिया जा रहा है। पीटीआई के अनुसार टीडीपी ने तुरंत प्रतिक्रिया नहीं दी।",
+    "pts": [
+     "जगन बोले, उनकी सरकार ने 17 नए मेडिकल कॉलेज बनाए",
+     "करीब एक करोड़ लोगों ने विरोध याचिका पर हस्ताक्षर किए",
+     "वाईएसआरसीपी सत्ता में लौटी तो कानूनी कार्रवाई की चेतावनी"
+    ],
+    "why": "आंध्र के सरकारी मेडिकल कॉलेजों की सीटों और फ़ीस पर यह विवाद छात्रों और अभिभावकों को प्रभावित कर सकता है।",
+    "cat": "आंध्र प्रदेश · राजनीति",
+    "statl": "वीजीएफ, जगन के आरोप अनुसार"
+   }
+  },
   {
    "cat": "ఉత్తరప్రదేశ్ · రాజకీయం",
    "col": "--c-election",

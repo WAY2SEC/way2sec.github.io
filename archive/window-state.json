@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T08:35:00+05:30",
+ "cutoff": "2026-11-12T09:05:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -959,6 +959,19 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Search-first; WebSearch returned only stale listing pages; WebFetch via sub-agent on Siasat Hyderabad (no times), Telangana Today tag/telangana (no times), DC Vijayawada (newest 11 Nov 23:53), TT eluru/states. Out-of-lookback items checked: TT NCAHP (11 Nov 14:31), TT TIMS-Alwal (11 Nov 12:10), TT prison inmates (7 Nov), TT 10+2 (11 Nov 20:10, already covered). Eenadu, Sakshi, Andhra Jyothy, TV9, V6, NTV, ETV Bharat, The Hindu, PTI national, Reuters/AP world and international-topic sources not surfaced in range. Districts searched: Adilabad, Nirmal, Nizamabad, Kamareddy, Eluru, East Godavari, Kakinada, Prakasam, NTR, Guntur, Tirupati."
+  },
+  {
+   "window": "2026-11-12T08:35:00+05:30/2026-11-12T09:05:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 3,
+   "published": 1,
+   "late": 0,
+   "sensitive": 1,
+   "corrected": 0,
+   "duplicates": 0,
+   "skipped": 2,
+   "review": 0,
+   "gaps": "Search-first; WebSearch returned stale listing pages only. WebFetch via sub-agent on TT tag/telangana, TT tag/Nalgonda, Sakshi Post Tirupati, Hans AP election tag. Sakshi cyclone-alert article blocked (PROVENANCE_REQUIRED), no time on listing. Eenadu, Andhra Jyothy, TV9, V6, NTV, ETV Bharat, The Hindu, PTI national, Reuters/AP world, international-topic sources not surfaced in range. Districts searched: Warangal, Jangaon, Mahabubabad, Nalgonda, Suryapet, Khammam, Srikakulam, Vizianagaram, Anakapalli, Tirupati, Nellore, Kadapa, Kurnool. Skipped: Sikkim 4.9 quake no damage (minor other-state), Vermont Praneet Menon (minor international)."
   }
  ],
  "seen": [
@@ -4201,6 +4214,21 @@
    "url": "https://telanganatoday.com/owaisi-chandrashekhar-azad-set-to-announce-alliance-for-up-polls-on-nov-12",
    "d": "12.11.2026",
    "w": "08:35"
+  },
+  {
+   "url": "https://telanganatoday.com/jagan-alleges-massive-scam-in-move-to-hand-over-medical-colleges-under-ppp-model",
+   "d": "12.11.2026",
+   "w": "09:05"
+  },
+  {
+   "url": "https://telanganatoday.com/india-born-praneet-menon-wins-seat-in-vermont-house-of-representatives",
+   "d": "12.11.2026",
+   "w": "09:05"
+  },
+  {
+   "url": "https://telanganatoday.com/4-9-magnitude-earthquake-jolts-sikkim-nepal-region-tremors-felt-in-gangtok",
+   "d": "12.11.2026",
+   "w": "09:05"
   }
  ]
 }
