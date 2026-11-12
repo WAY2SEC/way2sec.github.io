@@ -1,11 +1,8 @@
-// Way2Sec service worker: keeps the app working offline. News is always fetched fresh first.
-const CACHE = 'w2s-v4';
-const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'logo.png', 'logo-light.png', 'qr.png', 'icon-192.png'];
-self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL))); self.skipWaiting(); });
-self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))); self.clients.claim(); });
-self.addEventListener('fetch', e => {
-  const u = new URL(e.request.url);
-  if (e.request.method !== 'GET' || u.origin !== location.origin) return;
-  e.respondWith(fetch(e.request).then(r => { const copy = r.clone(); caches.open(CACHE).then(c => c.put(e.request, copy)); return r; })
-    .catch(() => caches.match(e.request, {ignoreSearch: true})));
+// Way2Sec is paused: this worker clears the old offline copy of the app and removes itself.
+self.addEventListener('install', function(){ self.skipWaiting(); });
+self.addEventListener('activate', function(e){
+  e.waitUntil(caches.keys().then(function(ks){ return Promise.all(ks.map(function(k){ return caches.delete(k); })); })
+    .then(function(){ return self.registration.unregister(); })
+    .then(function(){ return self.clients.matchAll(); })
+    .then(function(cs){ cs.forEach(function(c){ c.navigate(c.url); }); }));
 });
