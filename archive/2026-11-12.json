@@ -1,8 +1,403 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 40,
+ "count": 48,
  "stories": [
+  {
+   "cat": "ఏపీ · విశాఖ",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "141",
+   "statl": "ఒప్పందాలు కుదిరే అవకాశం",
+   "h": "విశాఖలో సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభం: 141 ఒప్పందాల అంచనా",
+   "p": "విశాఖపట్నంలోని ఆంధ్రా యూనివర్సిటీ ఇంజినీరింగ్ కళాశాలలో సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభమైంది. కేంద్ర మంత్రి పీయూష్ గోయల్ ముఖ్య అతిథిగా హాజరయ్యారు. సీఎం చంద్రబాబు, ఉప ముఖ్యమంత్రి పవన్ కల్యాణ్, మంత్రి లోకేశ్, పలు దేశాల ప్రతినిధులు పాల్గొన్నారు. ఏపీ ప్రభుత్వంతో 141 అవగాహన ఒప్పందాలు కుదిరే అవకాశం ఉందని, వీటితో ₹12.14 లక్షల కోట్ల పెట్టుబడులు, 2.46 లక్షల ఉద్యోగాలు రావచ్చని అంచనా అని ది హన్స్ ఇండియా పేర్కొంది.",
+   "pts": [
+    "ముఖ్య అతిథిగా కేంద్ర మంత్రి పీయూష్ గోయల్",
+    "141 ఒప్పందాలు, ₹12.14 లక్షల కోట్ల పెట్టుబడుల అంచనా",
+    "2.46 లక్షల ఉద్యోగాలు వస్తాయని అంచనా"
+   ],
+   "why": "అంచనా వేసిన పెట్టుబడులు, ఉద్యోగాలు ఏపీ యువతకు, పరిశ్రమలకు కీలకం.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/visakhapatnam/cii-summit-begins-in-visakhapatnam-union-minister-piyush-goyal-attends-as-chief-guest-1141333",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pub": "2026-11-12T10:43+05:30",
+   "en": {
+    "h": "CII Partnership Summit opens in Visakhapatnam; 141 MoUs expected",
+    "p": "The CII Partnership Summit began at Andhra University's College of Engineering in Visakhapatnam, with Union Minister Piyush Goyal as chief guest. CM Chandrababu Naidu, Deputy CM Pawan Kalyan, Minister Lokesh and delegates from several countries attended. The Hans India reports that 141 MoUs are expected to be signed with the AP government, projected to bring Rs 12.14 lakh crore in investment and 2.46 lakh jobs.",
+    "pts": [
+     "Union Minister Piyush Goyal is chief guest",
+     "141 MoUs, Rs 12.14 lakh crore investment projected",
+     "2.46 lakh jobs expected"
+    ],
+    "why": "The projected investment and jobs matter to AP's youth and industry.",
+    "cat": "AP · Visakhapatnam",
+    "statl": "MoUs expected to be signed"
+   },
+   "hi": {
+    "h": "विशाखापत्तनम में सीआईआई पार्टनरशिप समिट शुरू; 141 समझौतों की उम्मीद",
+    "p": "विशाखापत्तनम में आंध्र विश्वविद्यालय के इंजीनियरिंग कॉलेज में सीआईआई पार्टनरशिप समिट शुरू हुआ। केंद्रीय मंत्री पीयूष गोयल मुख्य अतिथि रहे। मुख्यमंत्री चंद्रबाबू नायडू, उपमुख्यमंत्री पवन कल्याण, मंत्री लोकेश और कई देशों के प्रतिनिधि शामिल हुए। द हंस इंडिया के अनुसार, आंध्र प्रदेश सरकार के साथ 141 समझौते होने की उम्मीद है, जिनसे ₹12.14 लाख करोड़ निवेश और 2.46 लाख नौकरियों का अनुमान है।",
+    "pts": [
+     "केंद्रीय मंत्री पीयूष गोयल मुख्य अतिथि",
+     "141 समझौते, ₹12.14 लाख करोड़ निवेश का अनुमान",
+     "2.46 लाख नौकरियों की उम्मीद"
+    ],
+    "why": "अनुमानित निवेश और नौकरियां आंध्र के युवाओं और उद्योगों के लिए अहम हैं।",
+    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
+    "statl": "समझौते होने की उम्मीद"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "నల్గొండ · గృహనిర్మాణం",
+   "col": "--c-gov",
+   "art": "land",
+   "stat": "480",
+   "statl": "ఇందిరమ్మ టవర్ ఇళ్లు మంజూరు",
+   "h": "నల్గొండ కార్పొరేషన్‌కు 480 ఇందిరమ్మ టవర్ ఇళ్లు మంజూరు",
+   "p": "ఇందిరమ్మ టవర్స్ గృహ పథకం కింద నల్గొండ మున్సిపల్ కార్పొరేషన్‌కు ప్రభుత్వం 480 ఇళ్లు మంజూరు చేసింది. ఒక్కో ఇంటి నిర్మాణ వ్యయాన్ని ₹8.50 లక్షలుగా నిర్ణయించి, అర్హులకు ₹5 లక్షల సబ్సిడీ ఆమోదించారని మేయర్ బుర్రి చైతన్య శ్రీనివాస్ రెడ్డి తెలిపారు. నిర్ణయాన్ని స్వాగతిస్తూ సీఎం రేవంత్ రెడ్డి, మంత్రి కోమటిరెడ్డి వెంకట్ రెడ్డికి ఆమె కృతజ్ఞతలు తెలిపారు.",
+   "pts": [
+    "నల్గొండ కార్పొరేషన్‌కు 480 ఇళ్లు మంజూరు",
+    "ఒక్కో ఇంటి నిర్మాణ వ్యయం ₹8.50 లక్షలు",
+    "అర్హులకు ₹5 లక్షల సబ్సిడీ: మేయర్"
+   ],
+   "why": "నల్గొండలో సొంత ఇల్లు లేని పేద కుటుంబాలకు ఈ పథకం ఉపయోగపడుతుంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/telangana/nmc-allocated-480-indiramma-tower-houses-1141278",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "nalgonda",
+   "pub": "2026-11-12T04:15+05:30",
+   "en": {
+    "h": "Nalgonda Municipal Corporation gets 480 Indiramma Tower houses",
+    "p": "The government has sanctioned 480 houses to the Nalgonda Municipal Corporation under the Indiramma Towers housing scheme. Mayor Burri Chaitanya Srinivas Reddy said the construction cost per house was fixed at Rs 8.50 lakh and a Rs 5 lakh subsidy was approved for eligible beneficiaries. Welcoming the decision, she thanked CM Revanth Reddy and Minister Komatireddy Venkat Reddy.",
+    "pts": [
+     "480 houses sanctioned to Nalgonda corporation",
+     "Construction cost Rs 8.50 lakh per house",
+     "Rs 5 lakh subsidy for eligible people: Mayor"
+    ],
+    "why": "The scheme helps poor families in Nalgonda who have no house of their own.",
+    "cat": "Nalgonda · Housing",
+    "statl": "Indiramma Tower houses sanctioned"
+   },
+   "hi": {
+    "h": "नलगोंडा नगर निगम को 480 इंदिरम्मा टावर मकान मंजूर",
+    "p": "इंदिरम्मा टावर्स आवास योजना के तहत सरकार ने नलगोंडा नगर निगम को 480 मकान मंजूर किए हैं। मेयर बुर्री चैतन्य श्रीनिवास रेड्डी ने बताया कि प्रति मकान निर्माण लागत ₹8.50 लाख तय की गई है और पात्र लाभार्थियों को ₹5 लाख सब्सिडी मंजूर हुई है। फैसले का स्वागत करते हुए उन्होंने मुख्यमंत्री रेवंत रेड्डी और मंत्री कोमटिरेड्डी वेंकट रेड्डी का धन्यवाद किया।",
+    "pts": [
+     "नलगोंडा निगम को 480 मकान मंजूर",
+     "प्रति मकान लागत ₹8.50 लाख",
+     "पात्र लोगों को ₹5 लाख सब्सिडी: मेयर"
+    ],
+    "why": "यह योजना नलगोंडा के बेघर गरीब परिवारों के काम आएगी।",
+    "cat": "नलगोंडा · आवास",
+    "statl": "इंदिरम्मा टावर मकान मंजूर"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "భూపాలపల్లి · బాల కార్మికులు",
+   "col": "--c-power",
+   "art": "land",
+   "stat": "₹500",
+   "statl": "ఇద్దరు పిల్లలకు కలిపి రోజు కూలీ (ఆరోపణ)",
+   "h": "భూపాలపల్లి వెదురు తోట పనుల్లో బాల కార్మికులు ఉన్నారని ఆరోపణ",
+   "p": "భూపాలపల్లి–కాళేశ్వరం ప్రధాన రహదారి సమీపంలోని వెదురు తోటలో అటవీ అభివృద్ధి సంస్థ (ఎఫ్‌డీసీ) పనుల్లో పెద్దలతో పాటు మైనర్లు పనిచేస్తున్నారని ఆరోపణలు వచ్చాయని ది హన్స్ ఇండియా కథనం. మధ్యప్రదేశ్‌కు చెందిన ఒక వలస కుటుంబంలోని ఇద్దరు పిల్లలు పనిలో పాల్గొన్నారని, పెద్దలకు రోజుకు ₹500, ఇద్దరు పిల్లలకు కలిపి ₹500 ఇస్తున్నారని కూలీలు చెప్పినట్లు పేర్కొంది. విచారణ జరపాలని స్థానికులు కోరారు. ఎఫ్‌డీసీ స్పందన కథనంలో లేదు.",
+   "pts": [
+    "ఎఫ్‌డీసీ వెదురు పనుల్లో మైనర్లు ఉన్నారని ఆరోపణ",
+    "పిల్లలిద్దరికీ కలిపి రోజుకు ₹500 అని కూలీల కథనం",
+    "విచారణ, పిల్లల చదువు కోసం స్థానికుల డిమాండ్"
+   ],
+   "why": "వలస కార్మికుల పిల్లల చదువు, హక్కులు, పనిచోట్ల పర్యవేక్షణపై ఇది ప్రశ్నలు లేవనెత్తుతోంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/telangana/child-labour-allegations-expose-gaps-in-forest-worksite-monitoring-1141273",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhupalpally",
+   "pub": "2026-11-12T03:15+05:30",
+   "en": {
+    "h": "Child labour alleged at Bhupalpally bamboo plantation work",
+    "p": "According to The Hans India, minors were allegedly working alongside adults in Forest Development Corporation (FDC) work at a bamboo plantation near the Bhupalpally–Kaleshwaram main road. Labourers reportedly said two children of a migrant family from Madhya Pradesh took part, with adults paid Rs 500 a day and the two children Rs 500 together. Locals sought an inquiry. The report carries no FDC response.",
+    "pts": [
+     "Minors allegedly employed in FDC bamboo work",
+     "Rs 500 a day for both children together, labourers say",
+     "Locals demand inquiry and schooling for children"
+    ],
+    "why": "It raises questions on migrant children's education, rights and worksite monitoring.",
+    "cat": "Bhupalpally · Child labour",
+    "statl": "Daily wage for two children together (alleged)"
+   },
+   "hi": {
+    "h": "भूपालपल्ली बांस बागान के काम में बाल मजदूरी का आरोप",
+    "p": "द हंस इंडिया के अनुसार, भूपालपल्ली–कालेश्वरम मुख्य सड़क के पास एक बांस बागान में वन विकास निगम (एफडीसी) के काम में वयस्कों के साथ नाबालिगों के काम करने का आरोप है। मज़दूरों के मुताबिक मध्य प्रदेश के एक प्रवासी परिवार के दो बच्चे काम में शामिल थे; वयस्कों को रोज़ ₹500 और दोनों बच्चों को मिलाकर ₹500 मिलते थे। स्थानीय लोगों ने जांच की मांग की। रिपोर्ट में एफडीसी की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "एफडीसी के बांस काम में नाबालिगों का आरोप",
+     "दोनों बच्चों को मिलाकर रोज़ ₹500: मज़दूर",
+     "जांच और बच्चों की पढ़ाई की मांग"
+    ],
+    "why": "यह प्रवासी बच्चों की पढ़ाई, अधिकारों और कार्यस्थल निगरानी पर सवाल उठाता है।",
+    "cat": "भूपालपल्ली · बाल श्रम",
+    "statl": "दो बच्चों की कुल दैनिक मज़दूरी (आरोप)"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "నిర్మల్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "water",
+   "stat": "1,000 TMC",
+   "statl": "దిగువకు వెళ్లిన నీరు (కేటీఆర్ ఆరోపణ)",
+   "h": "కృష్ణా, గోదావరి నీటిని ప్రభుత్వం వృథా చేస్తోంది: కేటీఆర్ ఆరోపణ",
+   "p": "నిర్మల్‌లో జరిగిన బీఆర్ఎస్ 'రైతు గర్జన' సభలో పార్టీ కార్యనిర్వాహక అధ్యక్షుడు కేటీఆర్, కాంగ్రెస్ ప్రభుత్వం కృష్ణా, గోదావరి నీటిని సరిగా వినియోగించడం లేదని ఆరోపించారు. రెండు నదుల్లో సుమారు 1,000 టీఎంసీల నీరు దిగువకు వెళ్లిపోయిందని, దాదాపు 90% పూర్తయిన పాలమూరు–రంగారెడ్డి ప్రాజెక్టును వదిలేశారని అన్నారు. రైతు బంధు బకాయిలు, 2,000 కొనుగోలు కేంద్రాలు కోరారు. ప్రభుత్వ స్పందన కథనంలో లేదు.",
+   "pts": [
+    "1,000 టీఎంసీల నీరు దిగువకు వెళ్లిందని ఆరోపణ",
+    "పాలమూరు–రంగారెడ్డి, కాళేశ్వరం నిర్లక్ష్యమని విమర్శ",
+    "రైతు బంధు బకాయిలు, 2,000 కొనుగోలు కేంద్రాలకు డిమాండ్"
+   ],
+   "why": "సాగునీరు, రైతు సాయంపై జరుగుతున్న రాజకీయ చర్చ తెలంగాణ రైతులకు సంబంధించినది.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/telangana/ktr-accuses-congress-government-of-wasting-krishna-and-godavari-waters-2558221",
+   "sec": [
+    "telangana",
+    "agri"
+   ],
+   "st": "TG",
+   "place": "nirmal",
+   "pub": "2026-11-12T06:30+05:30",
+   "en": {
+    "h": "Government wasting Krishna, Godavari waters, alleges KTR",
+    "p": "At the BRS 'Rythu Garjana' rally in Nirmal, party working president KTR alleged the Congress government is not using Krishna and Godavari waters properly. He said about 1,000 TMC of water in the two rivers flowed downstream and that the nearly 90% complete Palamuru–Rangareddy project was left unfinished. He demanded Rythu Bandhu dues and 2,000 procurement centres. The report carries no government response.",
+    "pts": [
+     "Alleges 1,000 TMC water flowed downstream",
+     "Says Palamuru–Rangareddy, Kaleshwaram neglected",
+     "Demands Rythu Bandhu dues, 2,000 procurement centres"
+    ],
+    "why": "The political debate over irrigation and farm support concerns Telangana's farmers.",
+    "cat": "Nirmal · Politics",
+    "statl": "Water flowed downstream (KTR's claim)"
+   },
+   "hi": {
+    "h": "सरकार कृष्णा-गोदावरी का पानी बर्बाद कर रही है: केटीआर का आरोप",
+    "p": "निर्मल में बीआरएस की 'रैतु गर्जना' सभा में पार्टी के कार्यकारी अध्यक्ष केटीआर ने आरोप लगाया कि कांग्रेस सरकार कृष्णा और गोदावरी के पानी का सही उपयोग नहीं कर रही। उन्होंने कहा कि दोनों नदियों का लगभग 1,000 टीएमसी पानी नीचे बह गया और लगभग 90% पूरी पालमूरु–रंगारेड्डी परियोजना अधूरी छोड़ दी गई। उन्होंने रैतु बंधु बकाया और 2,000 खरीद केंद्रों की मांग की। रिपोर्ट में सरकार की प्रतिक्रिया नहीं है।",
+    "pts": [
+     "1,000 टीएमसी पानी नीचे बहने का आरोप",
+     "पालमूरु–रंगारेड्डी, कालेश्वरम की अनदेखी का आरोप",
+     "रैतु बंधु बकाया, 2,000 खरीद केंद्रों की मांग"
+    ],
+    "why": "सिंचाई और किसान सहायता पर यह राजनीतिक बहस तेलंगाना के किसानों से जुड़ी है।",
+    "cat": "निर्मल · राजनीति",
+    "statl": "नीचे बहा पानी (केटीआर का दावा)"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "నారాయణపేట · పోలీసు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "4",
+   "statl": "ప్రతి గ్రామంలో కనీస సీసీ కెమెరాలు",
+   "h": "పెండింగ్ కేసుల దర్యాప్తు వేగవంతం చేయాలి: నారాయణపేట ఎస్పీ",
+   "p": "నారాయణపేట జిల్లా ఎస్పీ వినీత్ బుధవారం జిల్లా పోలీసు అధికారులతో నెలవారీ నేర సమీక్ష సమావేశం నిర్వహించారు. పెండింగ్ కేసుల దర్యాప్తును వేగవంతం చేయాలని, నేరాల నివారణపై దృష్టి పెట్టాలని ఆదేశించారు. ప్రతి గ్రామంలో కనీసం నాలుగు సీసీ కెమెరాలతో నిఘాను బలోపేతం చేయాలని సూచించారు. బాధితులకు త్వరగా న్యాయం అందేలా చూడాలని చెప్పారు.",
+   "pts": [
+    "నెలవారీ నేర సమీక్ష నిర్వహించిన ఎస్పీ వినీత్",
+    "ప్రతి గ్రామంలో కనీసం 4 సీసీ కెమెరాలు",
+    "బాధితులకు త్వరిత న్యాయం అందాలని ఆదేశం"
+   ],
+   "why": "గ్రామాల్లో నిఘా, కేసుల వేగవంతమైన దర్యాప్తు జిల్లా ప్రజల భద్రతకు సంబంధించినవి.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/telangana/speed-up-investigation-of-pending-cases-sp-1141259",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "narayanpet",
+   "pub": "2026-11-12T08:01+05:30",
+   "en": {
+    "h": "Speed up probe into pending cases: Narayanpet SP",
+    "p": "Narayanpet SP Vineeth held a monthly crime review meeting with district police officers on Wednesday. He directed them to speed up investigation of pending cases and focus on crime prevention. He asked them to strengthen surveillance with at least four CCTV cameras in every village, and to ensure speedy justice for victims.",
+    "pts": [
+     "SP Vineeth holds monthly crime review",
+     "At least 4 CCTV cameras in every village",
+     "Directs speedy justice for victims"
+    ],
+    "why": "Village surveillance and faster case probes concern people's safety in the district.",
+    "cat": "Narayanpet · Police",
+    "statl": "Minimum CCTV cameras per village"
+   },
+   "hi": {
+    "h": "लंबित मामलों की जांच तेज़ करें: नारायणपेट एसपी",
+    "p": "नारायणपेट के एसपी विनीत ने बुधवार को जिले के पुलिस अधिकारियों के साथ मासिक अपराध समीक्षा बैठक की। उन्होंने लंबित मामलों की जांच तेज़ करने और अपराध रोकथाम पर ध्यान देने का निर्देश दिया। हर गांव में कम से कम चार सीसीटीवी कैमरों से निगरानी मज़बूत करने और पीड़ितों को जल्द न्याय दिलाने को कहा।",
+    "pts": [
+     "एसपी विनीत ने मासिक अपराध समीक्षा की",
+     "हर गांव में कम से कम 4 सीसीटीवी कैमरे",
+     "पीड़ितों को जल्द न्याय का निर्देश"
+    ],
+    "why": "गांवों में निगरानी और तेज़ जांच जिले के लोगों की सुरक्षा से जुड़ी है।",
+    "cat": "नारायणपेट · पुलिस",
+    "statl": "हर गांव में न्यूनतम सीसीटीवी कैमरे"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · హైడ్రా",
+   "col": "--c-city",
+   "art": "land",
+   "stat": "హైడ్రా",
+   "statl": "ప్రభుత్వ భూమిలో ఆక్రమణల తొలగింపు",
+   "h": "హకీంపేటలో ప్రభుత్వ భూమిలోని అక్రమ గుడిసెలను తొలగిస్తున్న హైడ్రా",
+   "p": "హైదరాబాద్‌లోని హకీంపేటలో ప్రభుత్వ భూమిలో అనుమతి లేకుండా వేసిన గుడిసెలు, నిర్మాణాలను హైడ్రా తొలగిస్తోందని ఆంధ్రజ్యోతి లైవ్ అప్‌డేట్స్ పేర్కొన్నాయి. పోలీసుల బందోబస్తు మధ్య ఈ తొలగింపు చర్యలు జరుగుతున్నాయి.",
+   "pts": [
+    "ప్రభుత్వ భూమిలో అక్రమ గుడిసెల తొలగింపు",
+    "పోలీసు బందోబస్తు మధ్య చర్యలు"
+   ],
+   "why": "ప్రభుత్వ భూముల ఆక్రమణలపై హైడ్రా చర్యలు నగరవాసులకు సంబంధించినవి.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html#hydraa-hakimpet",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "హకీంపేట",
+   "pub": "2026-11-12T10:37+05:30",
+   "en": {
+    "h": "HYDRAA removes illegal huts on government land at Hakimpet",
+    "p": "HYDRAA is removing huts and structures put up without permission on government land at Hakimpet in Hyderabad, Andhra Jyothy's live updates said. The removal is being carried out under police protection.",
+    "pts": [
+     "Illegal huts on government land being removed",
+     "Action under police protection"
+    ],
+    "why": "HYDRAA's action on encroachment of government land concerns city residents.",
+    "cat": "Hyderabad · HYDRAA",
+    "statl": "Removing encroachments on government land"
+   },
+   "hi": {
+    "h": "हकीमपेट में सरकारी ज़मीन से अवैध झोपड़ियां हटा रहा हाइड्रा",
+    "p": "आंध्र ज्योति के लाइव अपडेट के अनुसार, हैदराबाद के हकीमपेट में सरकारी ज़मीन पर बिना अनुमति बनी झोपड़ियों और ढांचों को हाइड्रा हटा रहा है। यह कार्रवाई पुलिस सुरक्षा में हो रही है।",
+    "pts": [
+     "सरकारी ज़मीन से अवैध झोपड़ियां हटाई जा रहीं",
+     "पुलिस सुरक्षा में कार्रवाई"
+    ],
+    "why": "सरकारी ज़मीन पर कब्ज़े के खिलाफ हाइड्रा की कार्रवाई शहरवासियों से जुड़ी है।",
+    "cat": "हैदराबाद · हाइड्रा",
+    "statl": "सरकारी ज़मीन से कब्ज़े हटाना"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "గుంటూరు · మోసం",
+   "col": "--c-power",
+   "art": "economy",
+   "stat": "₹7 కోట్లు",
+   "statl": "సుమారు 20 మంది నష్టపోయినట్లు ఫిర్యాదు",
+   "h": "జనసేన నేతల పేరుతో ఉద్యోగాల మోసం: ₹7 కోట్లు పోయాయని ఫిర్యాదు",
+   "p": "మంగళగిరి జనసేన నేతల పేరు చెప్పి ఉద్యోగాలు ఇప్పిస్తామంటూ ఏలూరు, తణుకుల్లో డబ్బులు వసూలు చేశారని ఆరోపణ. సుమారు 20 మంది దాదాపు ₹7 కోట్లు నష్టపోయారని ఆంధ్రజ్యోతి లైవ్ అప్‌డేట్స్ పేర్కొన్నాయి. ఫిర్యాదుల మేరకు మంగళగిరి రూరల్ పోలీస్ స్టేషన్‌లో కేసు నమోదైంది.",
+   "pts": [
+    "ఉద్యోగాల పేరుతో ఏలూరు, తణుకుల్లో వసూళ్లు: ఆరోపణ",
+    "సుమారు 20 మంది, దాదాపు ₹7 కోట్లు నష్టం",
+    "మంగళగిరి రూరల్ పీఎస్‌లో కేసు నమోదు"
+   ],
+   "why": "ఉద్యోగాల పేరుతో డబ్బులు అడిగే వారి విషయంలో నిరుద్యోగులు అప్రమత్తంగా ఉండాలని ఈ ఘటన చూపుతోంది.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html#mangalagiri-job-fraud",
+   "sec": [
+    "telangana",
+    "jobs"
+   ],
+   "st": "AP",
+   "place": "ap-guntur",
+   "loc": "మంగళగిరి",
+   "pub": "2026-11-12T10:37+05:30",
+   "en": {
+    "h": "Job fraud in name of Janasena leaders: Rs 7 crore lost, complaint says",
+    "p": "Money was allegedly collected in Eluru and Tanuku with promises of jobs, using the names of Mangalagiri Janasena leaders. About 20 people lost nearly Rs 7 crore, Andhra Jyothy's live updates said. A case was registered at Mangalagiri Rural police station on complaints.",
+    "pts": [
+     "Alleged job-promise collections in Eluru, Tanuku",
+     "About 20 people lost nearly Rs 7 crore",
+     "Case registered at Mangalagiri Rural PS"
+    ],
+    "why": "The case shows job seekers must be careful with those asking money for jobs.",
+    "cat": "Guntur · Fraud",
+    "statl": "About 20 people lost, complaint says"
+   },
+   "hi": {
+    "h": "जनसेना नेताओं के नाम पर नौकरी धोखाधड़ी: ₹7 करोड़ गंवाने की शिकायत",
+    "p": "आरोप है कि मंगलगिरि के जनसेना नेताओं के नाम पर नौकरी दिलाने का वादा कर एलुरु और तणुकु में पैसे वसूले गए। आंध्र ज्योति के लाइव अपडेट के अनुसार, लगभग 20 लोगों ने करीब ₹7 करोड़ गंवाए। शिकायतों पर मंगलगिरि ग्रामीण थाने में मामला दर्ज हुआ।",
+    "pts": [
+     "एलुरु, तणुकु में नौकरी के नाम पर वसूली का आरोप",
+     "लगभग 20 लोगों के करीब ₹7 करोड़ डूबे",
+     "मंगलगिरि ग्रामीण थाने में केस दर्ज"
+    ],
+    "why": "यह घटना बताती है कि नौकरी के नाम पर पैसे मांगने वालों से सावधान रहें।",
+    "cat": "गुंटूर · धोखाधड़ी",
+    "statl": "लगभग 20 लोगों का नुकसान, शिकायत"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
+  {
+   "cat": "పల్నాడు · శాంతిభద్రతలు",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "సీసీటీవీ",
+   "statl": "హెచ్చరికల దృశ్యాలు నమోదు",
+   "h": "పెదమక్కెనలో కూటమి నేతలకు హెచ్చరికలు: పోలీసులకు ఫిర్యాదు",
+   "p": "పల్నాడు జిల్లా సత్తెనపల్లి మండలం పెదమక్కెనలో కూటమి పార్టీకి చెందిన ఒక నేత నడుపుతున్న కిరాణా దుకాణంపై కరపత్రం అతికించారని, ఆ దుకాణం వద్ద కూర్చోవద్దని కొందరు యువకులు కూటమి నేతలను హెచ్చరించారని ఆంధ్రజ్యోతి లైవ్ అప్‌డేట్స్ పేర్కొన్నాయి. ఈ దృశ్యాలు సీసీటీవీలో నమోదైనట్లు తెలిపాయి. కూటమి నేతలు సత్తెనపల్లి రూరల్ పోలీస్ స్టేషన్‌లో ఫిర్యాదు చేశారు.",
+   "pts": [
+    "దుకాణంపై కరపత్రం అతికించారని కథనం",
+    "కూటమి నేతలకు యువకుల హెచ్చరికలు సీసీటీవీలో నమోదు",
+    "సత్తెనపల్లి రూరల్ పీఎస్‌లో ఫిర్యాదు"
+   ],
+   "why": "గ్రామాల్లో శాంతిభద్రతల కోసం ఇలాంటి ఫిర్యాదులపై పోలీసుల చర్య కీలకం.",
+   "src": "Andhra Jyothy",
+   "url": "https://www.andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html#pedamakkena-warning",
+   "sec": [
+    "telangana"
+   ],
+   "st": "AP",
+   "place": "ap-palnadu",
+   "loc": "పెదమక్కెన",
+   "pub": "2026-11-12T10:41+05:30",
+   "en": {
+    "h": "Alliance leaders warned at Pedamakkena; police complaint filed",
+    "p": "At Pedamakkena in Sattenapalli mandal of Palnadu district, a pamphlet was pasted on a grocery shop run by an alliance party leader, and some youths warned alliance leaders not to sit at the shop, Andhra Jyothy's live updates said. The scenes were recorded on CCTV. Alliance leaders filed a complaint at Sattenapalli Rural police station.",
+    "pts": [
+     "Pamphlet pasted on a shop, report says",
+     "Youths' warnings to alliance leaders caught on CCTV",
+     "Complaint filed at Sattenapalli Rural PS"
+    ],
+    "why": "Police action on such complaints is key to keeping peace in villages.",
+    "cat": "Palnadu · Law & order",
+    "statl": "Warnings recorded"
+   },
+   "hi": {
+    "h": "पेदमक्केना में गठबंधन नेताओं को चेतावनी; पुलिस में शिकायत",
+    "p": "आंध्र ज्योति के लाइव अपडेट के अनुसार, पलनाडु ज़िले के सत्तेनपल्ली मंडल के पेदमक्केना में गठबंधन दल के एक नेता की किराना दुकान पर पर्चा चिपकाया गया और कुछ युवकों ने गठबंधन नेताओं को उस दुकान पर न बैठने की चेतावनी दी। ये दृश्य सीसीटीवी में दर्ज हुए। गठबंधन नेताओं ने सत्तेनपल्ली ग्रामीण थाने में शिकायत की।",
+    "pts": [
+     "दुकान पर पर्चा चिपकाने की खबर",
+     "युवकों की चेतावनी सीसीटीवी में दर्ज",
+     "सत्तेनपल्ली ग्रामीण थाने में शिकायत"
+    ],
+    "why": "गांवों में शांति के लिए ऐसी शिकायतों पर पुलिस कार्रवाई अहम है।",
+    "cat": "पलनाडु · कानून-व्यवस्था",
+    "statl": "चेतावनी के दृश्य दर्ज"
+   },
+   "d": "12.11.2026",
+   "t": "11:35"
+  },
   {
    "cat": "రంగారెడ్డి · హైకోర్టు",
    "col": "--c-city",
