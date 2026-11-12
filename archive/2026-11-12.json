@@ -1,8 +1,160 @@
 {
  "date": "12.11.2026",
  "iso": "2026-11-12",
- "count": 48,
+ "count": 51,
  "stories": [
+  {
+   "cat": "ఏపీ · ఉద్యోగాలు",
+   "col": "--c-money",
+   "art": "campus",
+   "stat": "2,721",
+   "statl": "ఉపాధ్యాయ పోస్టులు",
+   "h": "ఏపీ డీఎస్సీ: 2,721 టీచర్ పోస్టులకు దరఖాస్తులు ప్రారంభం",
+   "p": "ఆంధ్రప్రదేశ్‌లో 2,721 ఉపాధ్యాయ ఖాళీల భర్తీకి డీఎస్సీ ఆన్‌లైన్ దరఖాస్తుల ప్రక్రియ మొదలైంది. నవంబర్ 30 వరకు దరఖాస్తు చేసుకోవచ్చు. సాధారణ పాఠశాలల్లో 2,111 ఎస్ఏ, ఎస్జీటీ పోస్టులు, ప్రత్యేక విద్యలో 350, సొసైటీలు, ఇతర యాజమాన్యాల్లో 260 పోస్టులు ఉన్నాయి. డిసెంబర్ 5న ప్రాక్టీస్ టెస్ట్, డిసెంబర్ 14 నుంచి హాల్ టికెట్లు, డిసెంబర్ 20 నుంచి జనవరి 13 వరకు ఆన్‌లైన్ పరీక్షలు జరుగుతాయని ది హన్స్ ఇండియా పేర్కొంది.",
+   "pts": [
+    "దరఖాస్తులకు చివరి తేదీ నవంబర్ 30",
+    "సాధారణ పాఠశాలల్లో 2,111 ఎస్ఏ, ఎస్జీటీ పోస్టులు",
+    "డిసెంబర్ 20 నుంచి జనవరి 13 వరకు పరీక్షలు"
+   ],
+   "why": "ఉపాధ్యాయ ఉద్యోగాల కోసం సిద్ధమవుతున్న ఏపీ అభ్యర్థులకు ఈ తేదీలు కీలకం.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/ap-dsc-recruitment-application-process-begins-to-fill-2721-teaching-positions-1141345",
+   "sec": [
+    "telangana",
+    "jobs",
+    "education"
+   ],
+   "st": "AP",
+   "place": "AP",
+   "pub": "2026-11-12T12:11+05:30",
+   "en": {
+    "h": "AP DSC: applications open for 2,721 teacher posts",
+    "p": "Online applications have begun for Andhra Pradesh's DSC recruitment to fill 2,721 teaching vacancies, with a deadline of November 30. There are 2,111 SA and SGT posts in general schools, 350 in special education and 260 in societies and other managements. The Hans India reports a practice test on December 5, hall tickets from December 14, and online exams from December 20 to January 13.",
+    "pts": [
+     "Last date to apply is November 30",
+     "2,111 SA and SGT posts in general schools",
+     "Exams from December 20 to January 13"
+    ],
+    "why": "These dates matter to AP candidates preparing for teaching jobs.",
+    "cat": "AP · Jobs",
+    "statl": "Teacher posts"
+   },
+   "hi": {
+    "h": "आंध्र डीएससी: 2,721 शिक्षक पदों के लिए आवेदन शुरू",
+    "p": "आंध्र प्रदेश में 2,721 शिक्षक रिक्तियों को भरने के लिए डीएससी की ऑनलाइन आवेदन प्रक्रिया शुरू हो गई है। आवेदन की अंतिम तिथि 30 नवंबर है। सामान्य स्कूलों में 2,111 एसए और एसजीटी पद, विशेष शिक्षा में 350 और सोसाइटियों व अन्य प्रबंधनों में 260 पद हैं। द हंस इंडिया के अनुसार 5 दिसंबर को प्रैक्टिस टेस्ट, 14 दिसंबर से हॉल टिकट और 20 दिसंबर से 13 जनवरी तक ऑनलाइन परीक्षाएं होंगी।",
+    "pts": [
+     "आवेदन की अंतिम तिथि 30 नवंबर",
+     "सामान्य स्कूलों में 2,111 एसए, एसजीटी पद",
+     "20 दिसंबर से 13 जनवरी तक परीक्षाएं"
+    ],
+    "why": "ये तारीखें शिक्षक नौकरी की तैयारी कर रहे आंध्र के उम्मीदवारों के लिए अहम हैं।",
+    "cat": "आंध्र प्रदेश · नौकरियां",
+    "statl": "शिक्षक पद"
+   },
+   "d": "12.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ఏపీ · పెట్టుబడులు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "తొలి రాష్ట్రం",
+   "statl": "పెట్టుబడిదారుల రక్షణ చట్టం లక్ష్యం",
+   "h": "పెట్టుబడిదారుల రక్షణ చట్టం తెచ్చే తొలి రాష్ట్రంగా ఏపీ: లోకేశ్",
+   "p": "పెట్టుబడిదారులకు భద్రత, నమ్మకం పెంచేందుకు ప్రత్యేక 'ఇన్వెస్టర్స్ ప్రొటెక్షన్ యాక్ట్' తీసుకొచ్చే దిశగా ఏపీ పనిచేస్తోందని మంత్రి నారా లోకేశ్ చెప్పారు. విశాఖపట్నంలో 31వ సీఐఐ భాగస్వామ్య సదస్సు ప్రారంభ సమావేశంలో ఆయన మాట్లాడారు. విధాన అనుమతులకు సహకరించాలని, దేశవ్యాప్తంగా ఇలాంటి చట్రానికి మద్దతివ్వాలని కేంద్ర మంత్రి పీయూష్ గోయల్‌ను కోరారని ది హన్స్ ఇండియా పేర్కొంది.",
+   "pts": [
+    "సీఐఐ సదస్సు ప్రారంభ సమావేశంలో లోకేశ్ ప్రకటన",
+    "పెట్టుబడిదారుల కోసం ఇప్పటికే ఎస్క్రో ఖాతాలు",
+    "కేంద్ర మంత్రి గోయల్ సహకారం కోరిన లోకేశ్"
+   ],
+   "why": "ఈ చట్టం వస్తే ఏపీలో పెట్టుబడులు పెట్టే సంస్థలకు చట్టపరమైన రక్షణ లభిస్తుంది.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/andhra-pradesh/andhra-pradesh-set-to-become-first-state-to-introduce-investors-protection-act-nara-lokesh-1141350",
+   "sec": [
+    "telangana",
+    "business"
+   ],
+   "st": "AP",
+   "place": "ap-visakhapatnam",
+   "pub": "2026-11-12T12:34+05:30",
+   "en": {
+    "h": "AP to be first state with Investors Protection Act: Lokesh",
+    "p": "Minister Nara Lokesh said Andhra Pradesh is working towards a dedicated 'Investors Protection Act' to strengthen investor security and confidence. He spoke at the inaugural session of the 31st CII Partnership Summit in Visakhapatnam. The Hans India reports he urged Union Minister Piyush Goyal to help with policy clearance and to support a similar framework nationally.",
+    "pts": [
+     "Lokesh announced it at the CII summit's opening",
+     "Escrow accounts for investors already in place",
+     "Lokesh sought Union Minister Goyal's support"
+    ],
+    "why": "If enacted, the law would give legal protection to companies investing in AP.",
+    "cat": "AP · Investment",
+    "statl": "Aims for investor protection law"
+   },
+   "hi": {
+    "h": "निवेशक संरक्षण कानून लाने वाला पहला राज्य बनेगा आंध्र: लोकेश",
+    "p": "मंत्री नारा लोकेश ने कहा कि आंध्र प्रदेश निवेशकों की सुरक्षा और भरोसा बढ़ाने के लिए एक विशेष 'निवेशक संरक्षण अधिनियम' लाने की दिशा में काम कर रहा है। वे विशाखापत्तनम में 31वें सीआईआई पार्टनरशिप समिट के उद्घाटन सत्र में बोल रहे थे। द हंस इंडिया के अनुसार उन्होंने केंद्रीय मंत्री पीयूष गोयल से नीतिगत मंजूरी में मदद और देशभर में ऐसे ढांचे का समर्थन करने का आग्रह किया।",
+    "pts": [
+     "सीआईआई समिट के उद्घाटन में लोकेश की घोषणा",
+     "निवेशकों के लिए पहले से एस्क्रो खाते",
+     "लोकेश ने केंद्रीय मंत्री गोयल से सहयोग मांगा"
+    ],
+    "why": "कानून बनने पर आंध्र में निवेश करने वाली कंपनियों को कानूनी सुरक्षा मिलेगी।",
+    "cat": "आंध्र प्रदेश · निवेश",
+    "statl": "निवेशक संरक्षण कानून का लक्ष्य"
+   },
+   "d": "12.11.2026",
+   "t": "12:35"
+  },
+  {
+   "cat": "ఆదిలాబాద్ · నీరు",
+   "col": "--c-water",
+   "art": "water",
+   "stat": "ఇంకుడు గుంతలు",
+   "statl": "భూగర్భ జలాల కోసం తప్పనిసరి",
+   "h": "నార్నూర్‌లో భూగర్భ జలాల పెంపుకు ఇంకుడు గుంతలు తప్పనిసరి: ఎంపీడీవో",
+   "p": "ఆదిలాబాద్ జిల్లా నార్నూర్ మండల పరిషత్ సమావేశ మందిరంలో గురువారం ఎంపీడీవో పుల్లారావు అధ్యక్షతన మండల స్థాయి సమావేశం జరిగింది. వర్షాభావ పరిస్థితులను ఎదుర్కొనేందుకు, భూగర్భ జలాలు పెంచేందుకు ఇంకుడు గుంతలు నిర్మించాలని ఆయన సూచించారు. ఎల్‌నినో వల్ల నీటిమట్టాలు తగ్గే అవకాశం ఉందని, నీటిని వృథా చేయవద్దని కోరారని నమస్తే తెలంగాణ పేర్కొంది.",
+   "pts": [
+    "ఎంపీడీవో పుల్లారావు అధ్యక్షతన మండల సమావేశం",
+    "ఎల్‌నినోతో నీటిమట్టాలు తగ్గే అవకాశం అని హెచ్చరిక",
+    "సమన్వయంతో సమస్యలు పరిష్కరించాలని పిలుపు"
+   ],
+   "why": "వర్షాభావం ఉన్న నార్నూర్ మండల ప్రజలకు, రైతులకు నీటి సంరక్షణ కీలకం.",
+   "src": "Namasthe Telangana",
+   "url": "https://www.ntnews.com/news/mpdo-pullarao-said-that-water-should-not-be-wasted-2558391",
+   "sec": [
+    "telangana",
+    "weather"
+   ],
+   "st": "TG",
+   "place": "adilabad",
+   "loc": "నార్నూర్",
+   "pub": "2026-11-12T12:29+05:30",
+   "en": {
+    "h": "Percolation pits a must to raise groundwater in Narnoor: MPDO",
+    "p": "A mandal-level meeting chaired by MPDO Pullarao was held on Thursday at the Mandal Parishad hall in Narnoor, Adilabad district. He urged building percolation pits to raise groundwater and cope with rain-deficit conditions. Namasthe Telangana reports he warned that El Nino could lower water levels and asked people not to waste water.",
+    "pts": [
+     "Mandal meeting chaired by MPDO Pullarao",
+     "Warning that El Nino may lower water levels",
+     "Call to coordinate and solve problems together"
+    ],
+    "why": "Water conservation is crucial for people and farmers in rain-deficit Narnoor mandal.",
+    "cat": "Adilabad · Water",
+    "statl": "Must for groundwater"
+   },
+   "hi": {
+    "h": "नारनूर में भूजल बढ़ाने के लिए सोख्ता गड्ढे जरूरी: एमपीडीओ",
+    "p": "आदिलाबाद जिले के नारनूर मंडल परिषद सभागार में गुरुवार को एमपीडीओ पुल्लाराव की अध्यक्षता में मंडल स्तरीय बैठक हुई। उन्होंने कम बारिश की स्थिति से निपटने और भूजल बढ़ाने के लिए सोख्ता गड्ढे बनाने की सलाह दी। नमस्ते तेलंगाना के अनुसार उन्होंने कहा कि अल नीनो से जलस्तर घट सकता है और लोगों से पानी बर्बाद न करने की अपील की।",
+    "pts": [
+     "एमपीडीओ पुल्लाराव की अध्यक्षता में मंडल बैठक",
+     "अल नीनो से जलस्तर घटने की चेतावनी",
+     "मिलकर समस्याएं हल करने का आह्वान"
+    ],
+    "why": "कम बारिश वाले नारनूर मंडल के लोगों और किसानों के लिए जल संरक्षण अहम है।",
+    "cat": "आदिलाबाद · पानी",
+    "statl": "भूजल के लिए जरूरी"
+   },
+   "d": "12.11.2026",
+   "t": "12:35"
+  },
   {
    "cat": "ఏపీ · విశాఖ",
    "col": "--c-money",
