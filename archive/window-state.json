@@ -1,6 +1,6 @@
 {
  "about": "News-window state for the Way2Sec news tasks. cutoff = end of the last COMPLETED window (IST). seen = article URLs already reviewed/delivered in a window (kept 3 days).",
- "cutoff": "2026-11-12T17:05:00+05:30",
+ "cutoff": "2026-11-12T17:35:00+05:30",
  "runs": [
   {
    "window": "2026-11-09T22:05:00+05:30/2026-11-09T22:35:00+05:30",
@@ -1180,6 +1180,19 @@
    "skipped": 0,
    "review": 0,
    "gaps": "Search-first; WebSearch returned only stale tag/listing pages. Read via sub-agent: Siasat Hyderabad listing (no new 12 Nov items), Southfirst AP & Telangana listings (undated), TNM AP (latest 10 Nov), Telangana Today AP tag page + 7 TT articles (16:33-16:54), Hans India Anantapur (02:26-02:30, before lookback). Not reachable: TT rupee-94.04 article (permission timeout). Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, Reuters/AP not surfaced; no international-topic items found. Districts searched: Karimnagar, Warangal, Nizamabad, Tirupati, Nellore, Kurnool, Guntur, Anantapur."
+  },
+  {
+   "window": "2026-11-12T17:05:00+05:30/2026-11-12T17:35:00+05:30",
+   "status": "completed-with-gaps",
+   "eligible": 6,
+   "published": 2,
+   "late": 1,
+   "sensitive": 0,
+   "corrected": 0,
+   "duplicates": 4,
+   "skipped": 0,
+   "review": 0,
+   "gaps": "Search-first; WebSearch mostly returned stale tag/listing pages. Read via sub-agent: Siasat Hyderabad, TT Telangana & Karimnagar tags (no absolute times), Hans India Anantapur (02:26-02:30 only), DC Kadapa (latest 10 Nov), Southfirst AP tag (undated); articles TT, DC x3, Hans, Tribune. Not surfaced: Eenadu, Sakshi, NT, V6, TV9, NTV, The Hindu, PTI, Reuters/AP; no international-topic or other-state items verifiable. Duplicates: DC IPS reshuffle (=TT), Tribune market close (=Hans), DC 303 MoUs (=earlier Hans), DC CII summit begins (=earlier Hans). Districts searched: Nalgonda, Suryapet, Khammam, Warangal, Karimnagar, Adilabad, Mancherial, Anantapur, Kadapa, Prakasam(Ongole), East Godavari(Rajamahendravaram), Visakhapatnam."
   }
  ],
  "seen": [
@@ -5067,6 +5080,41 @@
    "url": "https://telanganatoday.com/hydraa-receives-36-complaints-over-illegal-borewells-in-6991911f",
    "d": "12.11.2026",
    "w": "17:05"
+  },
+  {
+   "url": "https://telanganatoday.com/mahesh-bhagwat-appointed-hyderabad-police-commissioner-in-major-ips-reshuffle",
+   "d": "12.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/major-ips-reshuffle-in-telangana-mahesh-bhagwat-is-new-hyderabad-cp-sajjanar-moved-to-fire-services-2003780",
+   "d": "12.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://newsmeter.in/regional/telangana/hyderabad-gets-new-police-commissioner-mahesh-bhagwat-replaces-vc-sajjanar-779185",
+   "d": "12.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.thehansindia.com/business/sensex-nifty-end-higher-amid-realty-rally-broader-markets-outperform-1141415",
+   "d": "12.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.tribuneindia.com/news/bse/sensex-nifty-close-flat-as-investors-await-october-cpi-data-realty-banking-stocks-gain",
+   "d": "12.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/naidu-announces-303-mous-worth-rs989-lakh-crore-at-cii-summit-2003744",
+   "d": "12.11.2026",
+   "w": "17:35"
+  },
+  {
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/31st-cii-partnership-summit-commences-on-a-colourful-note-in-vizag-2003699",
+   "d": "12.11.2026",
+   "w": "17:35"
   }
  ]
 }

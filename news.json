@@ -1,8 +1,107 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T17:15:41+05:30",
+ "updated": "2026-11-12T17:40:40+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "తెలంగాణ · పోలీస్",
+   "col": "--c-power",
+   "art": "unity",
+   "stat": "21 మంది",
+   "statl": "బదిలీ అయిన ఐపీఎస్ అధికారులు",
+   "h": "హైదరాబాద్ కొత్త పోలీస్ కమిషనర్‌గా మహేశ్ భగవత్; 21 ఐపీఎస్‌ల బదిలీ",
+   "p": "తెలంగాణ ప్రభుత్వం గురువారం 21 మంది ఐపీఎస్ అధికారులను బదిలీ చేసింది. సీనియర్ అధికారి మహేశ్ మురళీధర్ భగవత్ హైదరాబాద్ పోలీస్ కమిషనర్‌గా నియమితులయ్యారు. ఇప్పటివరకు సీపీగా ఉన్న వీసీ సజ్జనార్‌ను అగ్నిమాపక, విపత్తు స్పందన శాఖ డీజీగా బదిలీ చేసి ఎస్‌పీఎఫ్ అదనపు బాధ్యతలు ఇచ్చారు. చారు సిన్హా ఏసీబీ డీజీగా, స్వాతి లక్రా జైళ్ల శాఖ డీజీగా నియమితులయ్యారని తెలంగాణ టుడే తెలిపింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/mahesh-bhagwat-appointed-hyderabad-police-commissioner-in-major-ips-reshuffle",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "సజ్జనార్ అగ్నిమాపక, విపత్తు స్పందన శాఖ డీజీగా బదిలీ",
+    "సౌమ్య మిశ్రాకు మహిళా భద్రత, షీ టీమ్స్ బాధ్యతలు",
+    "టీజీఎస్‌ఆర్టీసీ వీసీ & ఎండీగా డాక్టర్ అనిల్ కుమార్"
+   ],
+   "why": "నగర పోలీసు నాయకత్వం మారడంతో హైదరాబాద్ శాంతిభద్రతల పర్యవేక్షణపై ఈ నిర్ణయం ప్రభావం చూపుతుంది.",
+   "pub": "2026-11-12T17:18+05:30",
+   "en": {
+    "h": "Mahesh Bhagwat is new Hyderabad Police Commissioner; 21 IPS officers transferred",
+    "p": "The Telangana government transferred 21 IPS officers on Thursday. Senior officer Mahesh Muralidhar Bhagwat was appointed Hyderabad Police Commissioner. V C Sajjanar, the commissioner until now, was moved as DG of Fire, Disaster Response and Emergency services with additional charge of the SPF. Charu Sinha was named ACB DG and Swati Lakra DG of Prisons, Telangana Today reported.",
+    "pts": [
+     "Sajjanar moved as DG, Fire and Disaster Response",
+     "Soumya Mishra gets Women Safety, SHE Teams charge",
+     "Dr Anil Kumar named TGSRTC VC & MD"
+    ],
+    "why": "The change in city police leadership affects how law and order is overseen in Hyderabad.",
+    "cat": "Telangana · Police",
+    "statl": "IPS officers transferred"
+   },
+   "hi": {
+    "h": "महेश भागवत हैदराबाद के नए पुलिस आयुक्त; 21 आईपीएस अफसरों का तबादला",
+    "p": "तेलंगाना सरकार ने गुरुवार को 21 आईपीएस अधिकारियों का तबादला किया। वरिष्ठ अधिकारी महेश मुरलीधर भागवत को हैदराबाद पुलिस आयुक्त नियुक्त किया गया। अब तक आयुक्त रहे वी सी सज्जनार को अग्निशमन, आपदा प्रतिक्रिया व आपात सेवा का डीजी बनाकर एसपीएफ का अतिरिक्त प्रभार दिया गया। तेलंगाना टुडे के अनुसार चारु सिन्हा एसीबी डीजी और स्वाति लकड़ा जेल विभाग की डीजी बनीं।",
+    "pts": [
+     "सज्जनार अग्निशमन व आपदा प्रतिक्रिया के डीजी बने",
+     "सौम्या मिश्रा को महिला सुरक्षा, शी टीम्स का प्रभार",
+     "डॉ अनिल कुमार टीजीएसआरटीसी के वीसी व एमडी"
+    ],
+    "why": "शहर पुलिस नेतृत्व बदलने से हैदराबाद में कानून-व्यवस्था की निगरानी पर असर पड़ेगा।",
+    "cat": "तेलंगाना · पुलिस",
+    "statl": "तबादला हुए आईपीएस अधिकारी"
+   },
+   "d": "12.11.2026",
+   "t": "17:35"
+  },
+  {
+   "cat": "భారత్ · మార్కెట్లు",
+   "col": "--c-money",
+   "art": "economy",
+   "stat": "25,299",
+   "statl": "నిఫ్టీ ముగింపు స్థాయి",
+   "h": "ఒడిదొడుకుల మధ్య స్వల్ప లాభాలతో ముగిసిన సెన్సెక్స్, నిఫ్టీ",
+   "p": "గురువారం ఒడిదొడుకుల ట్రేడింగ్ తర్వాత స్టాక్ మార్కెట్లు స్వల్ప లాభాలతో ముగిశాయి. సెన్సెక్స్ 31.61 పాయింట్లు పెరిగి 81,911.01 వద్ద, నిఫ్టీ 44.30 పాయింట్లు పెరిగి 25,299.35 వద్ద స్థిరపడ్డాయి. రియల్టీ సూచీ 4 శాతం ఎగిసి అగ్రస్థానంలో నిలవగా, ఆటో రంగం బాగా నష్టపోయింది. స్మాల్‌క్యాప్ 100 సూచీ 1.12 శాతం పెరిగిందని ఐఏఎన్ఎస్ కథనం.",
+   "src": "The Hans India",
+   "url": "https://www.thehansindia.com/business/sensex-nifty-end-higher-amid-realty-rally-broader-markets-outperform-1141415",
+   "sec": [
+    "india",
+    "business"
+   ],
+   "st": "IN",
+   "place": "IN",
+   "pts": [
+    "సెన్సెక్స్ 0.04%, నిఫ్టీ 0.18% లాభం",
+    "రియల్టీ 4% జంప్; బ్యాంకింగ్ షేర్లకూ లాభాలు",
+    "నిఫ్టీకి 25,000 వద్ద మద్దతు: విశ్లేషకులు"
+   ],
+   "why": "షేర్లు, మ్యూచువల్ ఫండ్లలో పెట్టుబడి పెట్టిన వారి పొదుపుపై మార్కెట్ కదలికలు ప్రభావం చూపుతాయి.",
+   "pub": "2026-11-12T16:09+05:30",
+   "en": {
+    "h": "Sensex, Nifty end marginally higher after volatile session",
+    "p": "Stock markets ended marginally higher on Thursday after a volatile session. The Sensex rose 31.61 points to close at 81,911.01, and the Nifty gained 44.30 points to settle at 25,299.35. The realty index jumped 4 per cent to lead the gainers, while auto was the worst performer. The SmallCap 100 index rose 1.12 per cent, IANS reported.",
+    "pts": [
+     "Sensex up 0.04%, Nifty up 0.18%",
+     "Realty jumps 4%; banking shares also gain",
+     "Analysts see Nifty support at 25,000"
+    ],
+    "why": "Market moves affect the savings of people invested in shares and mutual funds.",
+    "cat": "India · Markets",
+    "statl": "Nifty closing level"
+   },
+   "hi": {
+    "h": "उतार-चढ़ाव के बीच सेंसेक्स, निफ्टी मामूली बढ़त के साथ बंद",
+    "p": "गुरुवार को उतार-चढ़ाव भरे कारोबार के बाद शेयर बाजार मामूली बढ़त के साथ बंद हुए। सेंसेक्स 31.61 अंक चढ़कर 81,911.01 पर और निफ्टी 44.30 अंक बढ़कर 25,299.35 पर बंद हुआ। रियल्टी सूचकांक 4 प्रतिशत उछलकर सबसे आगे रहा, जबकि ऑटो सबसे कमजोर रहा। आईएएनएस के अनुसार स्मॉलकैप 100 सूचकांक 1.12 प्रतिशत चढ़ा।",
+    "pts": [
+     "सेंसेक्स 0.04%, निफ्टी 0.18% ऊपर",
+     "रियल्टी 4% उछला; बैंक शेयरों में भी बढ़त",
+     "विश्लेषकों के अनुसार निफ्टी को 25,000 पर सहारा"
+    ],
+    "why": "बाजार की चाल शेयरों और म्यूचुअल फंड में निवेश करने वालों की बचत को प्रभावित करती है।",
+    "cat": "भारत · बाजार",
+    "statl": "निफ्टी का समापन स्तर"
+   },
+   "d": "12.11.2026",
+   "t": "17:35"
+  },
   {
    "cat": "తెలంగాణ · వ్యవసాయం",
    "col": "--c-gov",
