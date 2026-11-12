@@ -1,8 +1,306 @@
 {
  "date": "12.11.2026",
- "updated": "2026-11-12T20:13:41+05:30",
+ "updated": "2026-11-12T20:46:45+05:30",
  "version": 2,
  "stories": [
+  {
+   "cat": "కరీంనగర్ · పర్యావరణం",
+   "col": "--c-gov",
+   "art": "campus",
+   "stat": "~500",
+   "statl": "నరికిన చెట్లు (విద్యార్థి సంఘాల ప్రకారం)",
+   "h": "శాతవాహన వర్సిటీలో 500 చెట్ల నరికివేతపై విద్యార్థి సంఘాల ఆగ్రహం",
+   "p": "కరీంనగర్‌లోని శాతవాహన విశ్వవిద్యాలయ ప్రాంగణంలో సింథటిక్ ట్రాక్ పేరుతో చెట్లు నరికి, మట్టి తవ్వుతున్నారని విద్యార్థి సంఘాలు ఆరోపించాయి. ఎస్ఎఫ్ఐ నేతలు గురువారం వీసీ ఉమేశ్ కుమార్‌కు వినతిపత్రం ఇచ్చి బాధ్యులపై కేసు పెట్టాలని కోరారు. సుమారు 500 పెద్ద చెట్లు నరికారని తెలంగాణ రక్షణ సేన ఆరోపించి సమగ్ర విచారణ కోరింది. నరికివేత వీడియో సోషల్ మీడియాలో వైరల్ అయింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/karimnagar-student-unions-oppose-felling-of-500-trees-at-satavahana-university-campus",
+   "sec": [
+    "telangana",
+    "education"
+   ],
+   "st": "TG",
+   "place": "karimnagar",
+   "pts": [
+    "సింథటిక్ ట్రాక్ పేరుతో చెట్ల నరికివేత అని ఆరోపణ",
+    "వీసీకి ఎస్ఎఫ్ఐ వినతిపత్రం, కేసు నమోదుకు డిమాండ్",
+    "అటవీ శాఖ దర్యాప్తు చేయాలని విద్యార్థుల విజ్ఞప్తి"
+   ],
+   "why": "విశ్వవిద్యాలయ ప్రాంగణంలోని పచ్చదనం రక్షణపై విద్యార్థులు, స్థానికుల్లో ఆందోళన పెరుగుతోంది.",
+   "pub": "2026-11-12T20:32+05:30",
+   "en": {
+    "h": "Student unions protest felling of 500 trees at Satavahana University",
+    "p": "Student unions alleged that trees are being cut and soil excavated on the Satavahana University campus in Karimnagar in the name of laying a synthetic track. SFI leaders submitted a representation to VC Umesh Kumar on Thursday and sought a case against those responsible. Telangana Rakshana Sena alleged around 500 fully grown trees were felled and sought a comprehensive probe. A video of the felling went viral on social media.",
+    "pts": [
+     "Trees allegedly felled in the name of a synthetic track",
+     "SFI petitions VC, demands a case be registered",
+     "Students urge forest department to investigate"
+    ],
+    "why": "Students and locals are increasingly concerned about protecting green cover on the university campus.",
+    "cat": "Karimnagar · Environment",
+    "statl": "Trees felled (per student unions)"
+   },
+   "hi": {
+    "h": "सातवाहन विश्वविद्यालय में 500 पेड़ काटने पर छात्र संगठनों का विरोध",
+    "p": "छात्र संगठनों ने आरोप लगाया कि करीमनगर के सातवाहन विश्वविद्यालय परिसर में सिंथेटिक ट्रैक बनाने के नाम पर पेड़ काटे जा रहे हैं और मिट्टी खोदी जा रही है। एसएफआई नेताओं ने गुरुवार को कुलपति उमेश कुमार को ज्ञापन सौंपा और जिम्मेदार लोगों पर केस दर्ज करने की मांग की। तेलंगाना रक्षण सेना ने आरोप लगाया कि करीब 500 बड़े पेड़ काटे गए और व्यापक जांच की मांग की। पेड़ काटने का वीडियो सोशल मीडिया पर वायरल हो गया।",
+    "pts": [
+     "सिंथेटिक ट्रैक के नाम पर पेड़ काटने का आरोप",
+     "एसएफआई ने कुलपति को ज्ञापन दिया, केस की मांग",
+     "छात्रों ने वन विभाग से जांच की अपील की"
+    ],
+    "why": "विश्वविद्यालय परिसर की हरियाली बचाने को लेकर छात्रों और स्थानीय लोगों में चिंता बढ़ रही है।",
+    "cat": "करीमनगर · पर्यावरण",
+    "statl": "काटे गए पेड़ (छात्र संगठनों के अनुसार)"
+   },
+   "d": "12.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "తెలంగాణ · సంక్షేమం",
+   "col": "--c-gov",
+   "art": "economy",
+   "stat": "4.5 లక్షలు",
+   "statl": "కొత్త చేయూత లబ్ధిదారులు",
+   "h": "అప్‌డేట్: కొత్త చేయూత పింఛన్ల మంజూరు పత్రాల పంపిణీ ప్రారంభం",
+   "p": "కొత్తగా మంజూరైన చేయూత పింఛన్ల లబ్ధిదారులకు మంజూరు పత్రాల పంపిణీ గురువారం రాష్ట్రవ్యాప్తంగా ప్రారంభమైంది. నవంబర్ 18 వరకు అన్ని అసెంబ్లీ నియోజకవర్గాల్లో పంపిణీ జరుగుతుంది. అధికారుల ప్రకారం, ఇందిరా గాంధీ జయంతి అయిన నవంబర్ 19న పింఛన్లు అందుతాయి. సుమారు 4.5 లక్షల మంది కొత్తగా అర్హులయ్యారు. దీంతో ప్రస్తుత ప్రభుత్వంలో కొత్త లబ్ధిదారుల సంఖ్య 5,73,625కి చేరింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/telangana-cheyutha-pension-sanction-letters-distributed-to-new-beneficiaries",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "TS",
+   "pts": [
+    "నవంబర్ 18 వరకు మంజూరు పత్రాల పంపిణీ",
+    "నవంబర్ 19న కొత్త పింఛన్ల చెల్లింపు",
+    "మొత్తం కొత్త లబ్ధిదారులు 5,73,625"
+   ],
+   "why": "కొత్తగా అర్హులైన లక్షల మంది లబ్ధిదారులకు ఈ నెల నుంచే పింఛన్ అందనుంది.",
+   "pub": "2026-11-12T20:20+05:30",
+   "en": {
+    "h": "Update: Distribution of new Cheyutha pension sanction letters begins",
+    "p": "Distribution of sanction letters to newly approved Cheyutha pension beneficiaries began across Telangana on Thursday. It will continue in all Assembly constituencies until November 18. According to officials, the pensions will be paid on November 19, Indira Gandhi's birth anniversary. About 4.5 lakh people have newly qualified. This takes the number of new beneficiaries under the present government to 5,73,625.",
+    "pts": [
+     "Sanction letters to be distributed until November 18",
+     "New pensions to be paid on November 19",
+     "Total new beneficiaries reach 5,73,625"
+    ],
+    "why": "Lakhs of newly eligible families will start receiving pensions from this month.",
+    "cat": "Telangana · Welfare",
+    "statl": "New Cheyutha beneficiaries"
+   },
+   "hi": {
+    "h": "अपडेट: नई चेयूता पेंशन के स्वीकृति पत्रों का वितरण शुरू",
+    "p": "नई स्वीकृत चेयूता पेंशन के लाभार्थियों को स्वीकृति पत्रों का वितरण गुरुवार को पूरे तेलंगाना में शुरू हुआ। यह 18 नवंबर तक सभी विधानसभा क्षेत्रों में चलेगा। अधिकारियों के अनुसार, इंदिरा गांधी की जयंती 19 नवंबर को पेंशन दी जाएगी। करीब 4.5 लाख लोग नए पात्र बने हैं। इससे मौजूदा सरकार में नए लाभार्थियों की संख्या 5,73,625 हो गई है।",
+    "pts": [
+     "18 नवंबर तक स्वीकृति पत्रों का वितरण",
+     "19 नवंबर को नई पेंशन का भुगतान",
+     "कुल नए लाभार्थी 5,73,625"
+    ],
+    "why": "नए पात्र बने लाखों परिवारों को इसी महीने से पेंशन मिलने लगेगी।",
+    "cat": "तेलंगाना · कल्याण",
+    "statl": "नए चेयूता लाभार्थी"
+   },
+   "d": "12.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · ఆరోగ్యం",
+   "col": "--c-city",
+   "art": "unity",
+   "stat": "3",
+   "statl": "అవయవ దానంతో ప్రాణాలు",
+   "h": "బ్రెయిన్ డెడ్ యువకుడి అవయవ దానం: ముగ్గురికి కొత్త జీవితం",
+   "p": "సికింద్రాబాద్ సిక్ విలేజ్‌కు చెందిన 25 ఏళ్ల యువకుడు నవంబర్ 9న కారు చెట్టును ఢీకొన్న ప్రమాదంలో గాయపడ్డారు. ప్రైవేటు ఆసుపత్రిలో చికిత్స పొందుతూ నవంబర్ 11న బ్రెయిన్ డెడ్ అయ్యారు. ఆయన తల్లి అంగీకారంతో జీవన్‌దాన్ ద్వారా రెండు కిడ్నీలు, కాలేయం దానం చేశారు. వీటితో ముగ్గురు రోగులకు లబ్ధి కలిగింది. ఈ ఏడాది 180 అవయవ దానాలు పూర్తయ్యాయని జీవన్‌దాన్ తెలిపింది.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/hyderabad-family-donates-brain-dead-mans-organs-to-save-three-lives",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "loc": "సికింద్రాబాద్",
+   "pts": [
+    "రెండు కిడ్నీలు, కాలేయం దానం",
+    "జీవన్‌దాన్ ద్వారా ముగ్గురు రోగులకు లబ్ధి",
+    "ఈ ఏడాది 180 అవయవ దానాలు: జీవన్‌దాన్"
+   ],
+   "why": "అవయవ దానంపై అవగాహనతో మరిన్ని ప్రాణాలు కాపాడవచ్చని ఈ ఘటన చూపిస్తోంది.",
+   "pub": "2026-11-12T20:16+05:30",
+   "en": {
+    "h": "Brain-dead youth's organs give new life to three patients",
+    "p": "A 25-year-old from Sikh Village, Secunderabad, was injured on November 9 when the car he was travelling in hit a tree. He was declared brain dead on November 11 while undergoing treatment at a private hospital. With his mother's consent, his two kidneys and liver were donated through Jeevandan. They helped three patients. Jeevandan said 180 organ donations have been completed this year.",
+    "pts": [
+     "Two kidneys and liver donated",
+     "Three patients helped through Jeevandan",
+     "180 organ donations this year: Jeevandan"
+    ],
+    "why": "The case shows how awareness of organ donation can save more lives.",
+    "cat": "Hyderabad · Health",
+    "statl": "Lives saved by donation"
+   },
+   "hi": {
+    "h": "ब्रेन डेड युवक के अंगदान से तीन मरीजों को नई जिंदगी",
+    "p": "सिकंदराबाद के सिख विलेज का 25 वर्षीय युवक 9 नवंबर को उस कार के पेड़ से टकराने पर घायल हुआ जिसमें वह यात्रा कर रहा था। निजी अस्पताल में इलाज के दौरान 11 नवंबर को उसे ब्रेन डेड घोषित किया गया। मां की सहमति से जीवनदान के जरिए उसकी दोनों किडनी और लिवर दान किए गए। इनसे तीन मरीजों को मदद मिली। जीवनदान ने बताया कि इस साल 180 अंगदान पूरे हुए हैं।",
+    "pts": [
+     "दोनों किडनी और लिवर दान",
+     "जीवनदान के जरिए तीन मरीजों को मदद",
+     "इस साल 180 अंगदान: जीवनदान"
+    ],
+    "why": "यह मामला दिखाता है कि अंगदान के प्रति जागरूकता से और जानें बचाई जा सकती हैं।",
+    "cat": "हैदराबाद · स्वास्थ्य",
+    "statl": "अंगदान से बची जानें"
+   },
+   "d": "12.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "భద్రాద్రి · నేరం",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "కేసు నమోదు",
+   "statl": "పాల్వంచ పోలీసులు",
+   "h": "పాల్వంచలో వలస కూలీపై అత్యాచారం ఆరోపణ: ఆటో డ్రైవర్‌పై కేసు",
+   "p": "భద్రాద్రి కొత్తగూడెం జిల్లా పాల్వంచలో ఛత్తీస్‌గఢ్‌కు చెందిన 19 ఏళ్ల వలస కూలీపై అత్యాచారం జరిగిందని ఆరోపణ. పని ఇప్పిస్తానని లేబర్ అడ్డా వద్ద నమ్మించి ఓ ఆటో డ్రైవర్ నిర్మానుష్య ప్రాంతానికి తీసుకెళ్లాడని పోలీసుల ప్రకారం. స్థానికులు రావడంతో నిందితుడు పరారయ్యాడు. బాధితురాలి ఫిర్యాదుతో పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు. నిందితుడు పరారీలో ఉన్నాడు.",
+   "src": "Telangana Today",
+   "url": "https://telanganatoday.com/paloncha-auto-driver-booked-for-allegedly-raping-19-year-old-woman-from-chhattisgarh",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "bhadradri",
+   "loc": "పాల్వంచ",
+   "pts": [
+    "పని ఇప్పిస్తానని నమ్మించాడని పోలీసుల ప్రకారం",
+    "ఫిర్యాదుతో కేసు నమోదు, దర్యాప్తు",
+    "నిందితుడు పరారీలో"
+   ],
+   "why": "పని కోసం వచ్చిన వలస మహిళా కూలీల భద్రతపై ఈ ఘటన ఆందోళన కలిగిస్తోంది.",
+   "pub": "2026-11-12T20:12+05:30",
+   "en": {
+    "h": "Paloncha auto driver booked for allegedly raping migrant labourer",
+    "p": "A 19-year-old migrant labourer from Chhattisgarh was allegedly raped at Paloncha in Bhadradri Kothagudem district. According to police, an auto-rickshaw driver approached her at a labour adda promising work and took her to a deserted area. The accused fled when locals arrived. Police registered a case on her complaint and are investigating. The accused is absconding.",
+    "pts": [
+     "Accused allegedly promised her work, police say",
+     "Case registered on complaint, probe on",
+     "Accused absconding"
+    ],
+    "why": "The incident raises concern over the safety of women migrant workers who come in search of work.",
+    "cat": "Bhadradri · Crime",
+    "statl": "Paloncha police"
+   },
+   "hi": {
+    "h": "पाल्वंचा में प्रवासी मजदूर से दुष्कर्म का आरोप, ऑटो चालक पर केस",
+    "p": "भद्राद्री कोत्तागुडेम जिले के पाल्वंचा में छत्तीसगढ़ की 19 वर्षीय प्रवासी मजदूर से दुष्कर्म का आरोप है। पुलिस के अनुसार, एक ऑटो चालक ने लेबर अड्डे पर काम दिलाने का झांसा दिया और उसे सुनसान जगह ले गया। स्थानीय लोगों के आने पर आरोपी भाग गया। पुलिस ने शिकायत पर केस दर्ज कर जांच शुरू की है। आरोपी फरार है।",
+    "pts": [
+     "पुलिस के अनुसार काम दिलाने का झांसा दिया",
+     "शिकायत पर केस दर्ज, जांच जारी",
+     "आरोपी फरार"
+    ],
+    "why": "यह घटना काम की तलाश में आने वाली प्रवासी महिला मजदूरों की सुरक्षा पर चिंता बढ़ाती है।",
+    "cat": "भद्राद्री · अपराध",
+    "statl": "पाल्वंचा पुलिस"
+   },
+   "d": "12.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · పోలీసు",
+   "col": "--c-power",
+   "art": "court",
+   "stat": "60+",
+   "statl": "స్క్రీనింగ్‌లో గుర్తించినవారు",
+   "h": "కొత్త కమిషనర్ ఆదేశాలతో 'ఆపరేషన్ థండర్‌బోల్ట్': 8 చోట్ల తనిఖీలు",
+   "p": "కమిషనర్ మహేశ్ భగవత్ ఆదేశాలతో హైదరాబాద్ పోలీసులు గురువారం ఏడు జోన్లలోని ఎనిమిది ప్రాంతాల్లో 'ఆపరేషన్ థండర్‌బోల్ట్' పేరుతో కార్డన్ సెర్చ్ నిర్వహించారు. గోల్కొండ జోన్‌లోనే వెయ్యి మందికి పైగా సిబ్బంది పాల్గొన్నారు. గంజాయి వంటి మత్తు పదార్థాల వినియోగం అనుమానంతో 60 మందికి పైగా గుర్తించినట్లు అదనపు కమిషనర్ ఎం. శ్రీనివాస్ తెలిపారు. నంబర్ ప్లేట్లు, పత్రాలు లేని వాహనాలను కూడా ఆపారు.",
+   "src": "Siasat Daily",
+   "url": "https://www.siasat.com/hyderabad-police-conducts-search-operation-under-new-commissioner-3575645/",
+   "sec": [
+    "telangana"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "ఏడు జోన్లలో 8 చోట్ల కార్డన్ సెర్చ్",
+    "డ్రగ్ టెస్ట్ కిట్లతో తనిఖీలు",
+    "పత్రాలు లేని వాహనాల యాజమాన్య పరిశీలన"
+   ],
+   "why": "నగరంలో మత్తు పదార్థాలు, నేరాల నియంత్రణపై కొత్త కమిషనర్ దృష్టిని ఇది సూచిస్తోంది.",
+   "pub": "2026-11-12T19:10+05:30",
+   "en": {
+    "h": "'Operation Thunderbolt': Hyderabad police search 8 areas on new commissioner's orders",
+    "p": "On the orders of Commissioner Mahesh Bhagwat, Hyderabad police carried out a cordon-and-search operation named 'Operation Thunderbolt' at eight locations across seven zones on Thursday. More than 1,000 personnel took part in the Golconda zone alone. Additional Commissioner M Srinivas said over 60 people were identified on suspicion of using ganja or other drugs. Vehicles without number plates or documents were also stopped.",
+    "pts": [
+     "Cordon search at 8 locations in seven zones",
+     "Checks conducted with drug-testing kits",
+     "Ownership of undocumented vehicles being verified"
+    ],
+    "why": "It signals the new commissioner's focus on curbing drugs and crime in the city.",
+    "cat": "Hyderabad · Police",
+    "statl": "Identified in screening"
+   },
+   "hi": {
+    "h": "नए आयुक्त के आदेश पर 'ऑपरेशन थंडरबोल्ट': हैदराबाद में 8 जगह तलाशी",
+    "p": "आयुक्त महेश भागवत के आदेश पर हैदराबाद पुलिस ने गुरुवार को सात जोन की आठ जगहों पर 'ऑपरेशन थंडरबोल्ट' नाम से घेराबंदी और तलाशी अभियान चलाया। अकेले गोलकोंडा जोन में 1,000 से अधिक कर्मी शामिल हुए। अतिरिक्त आयुक्त एम. श्रीनिवास ने बताया कि गांजा या अन्य नशीले पदार्थों के सेवन के संदेह में 60 से अधिक लोगों की पहचान की गई। बिना नंबर प्लेट या कागजात वाले वाहनों को भी रोका गया।",
+    "pts": [
+     "सात जोन में 8 जगह घेराबंदी तलाशी",
+     "ड्रग टेस्ट किट से जांच",
+     "बिना कागजात वाले वाहनों के मालिकाना हक की जांच"
+    ],
+    "why": "यह शहर में नशे और अपराध पर नियंत्रण पर नए आयुक्त के जोर को दिखाता है।",
+    "cat": "हैदराबाद · पुलिस",
+    "statl": "स्क्रीनिंग में पहचाने गए"
+   },
+   "d": "12.11.2026",
+   "t": "20:35"
+  },
+  {
+   "cat": "హైదరాబాద్ · రాజకీయం",
+   "col": "--c-election",
+   "art": "voters",
+   "stat": "70 దేశాలు",
+   "statl": "భారత్ సమ్మిట్ ప్రతినిధులు",
+   "h": "భారత్ సమ్మిట్‌కు నార్వే జర్నలిస్టు వీసా రద్దు ఆరోపణ: కాంగ్రెస్ మద్దతు",
+   "p": "నవంబర్ 13, 14 తేదీల్లో హైదరాబాద్‌లో కాంగ్రెస్ నిర్వహించే భారత్ సమ్మిట్‌కు రావాల్సిన నార్వే జర్నలిస్టు హెల్లె లింగ్ తన వీసాను కేంద్ర హోంశాఖ ఆదేశాలతో రద్దు చేశారని ఆరోపించారు. ఆమెకు తెలంగాణ కాంగ్రెస్ నేతలు మద్దతు తెలిపారు. గతంలో ప్రధానిని ప్రశ్నించారన్న కారణంతో అడ్డుకోకూడదని ఎంపీ చామల కిరణ్ కుమార్ రెడ్డి అన్నారు. ఈ ఆరోపణపై ప్రభుత్వం ఇంకా స్పందించలేదని పీటీఐ పేర్కొంది.",
+   "src": "Siasat Daily (PTI)",
+   "url": "https://www.siasat.com/congress-backs-norwegian-journalist-set-to-attend-bharat-summit-3575666/",
+   "sec": [
+    "telangana",
+    "india"
+   ],
+   "st": "TG",
+   "place": "hyderabad",
+   "pts": [
+    "హోంశాఖ ఆదేశాలతో వీసా రద్దని జర్నలిస్టు ఆరోపణ",
+    "ప్రతినిధులను విమానాశ్రయంలో ప్రశ్నిస్తున్నారని ఎంపీ ఆరోపణ",
+    "70 దేశాల నుంచి సుమారు వెయ్యి మంది: ఖుర్షీద్"
+   ],
+   "why": "హైదరాబాద్‌లో జరిగే అంతర్జాతీయ సదస్సు చుట్టూ రాజకీయ వివాదం నెలకొంది.",
+   "pub": "2026-11-12T20:05+05:30",
+   "en": {
+    "h": "Norwegian journalist alleges visa cancelled for Bharat Summit; Congress backs her",
+    "p": "Norwegian journalist Helle Lyng, due to attend the Bharat Summit hosted by Congress in Hyderabad on November 13 and 14, alleged her visa was cancelled on the Union Home Ministry's orders. Telangana Congress leaders backed her. MP Chamala Kiran Kumar Reddy said she cannot be stopped for having questioned the Prime Minister earlier. PTI said the government had not yet responded to the allegation.",
+    "pts": [
+     "Journalist alleges visa cancelled on Home Ministry orders",
+     "MP alleges delegates questioned at airport",
+     "About 1,000 delegates from 70 countries: Khurshid"
+    ],
+    "why": "A political row has erupted around an international summit being held in Hyderabad.",
+    "cat": "Hyderabad · Politics",
+    "statl": "Bharat Summit delegates"
+   },
+   "hi": {
+    "h": "भारत समिट के लिए नॉर्वे की पत्रकार का वीजा रद्द करने का आरोप, कांग्रेस का समर्थन",
+    "p": "13 और 14 नवंबर को हैदराबाद में कांग्रेस की मेजबानी में होने वाले भारत समिट में आने वाली नॉर्वे की पत्रकार हेल्ले लिंग ने आरोप लगाया कि केंद्रीय गृह मंत्रालय के आदेश पर उनका वीजा रद्द किया गया। तेलंगाना कांग्रेस नेताओं ने उनका समर्थन किया। सांसद चामला किरण कुमार रेड्डी ने कहा कि पहले प्रधानमंत्री से सवाल पूछने के कारण उन्हें रोका नहीं जा सकता। पीटीआई के अनुसार सरकार ने अभी तक आरोप पर जवाब नहीं दिया है।",
+    "pts": [
+     "पत्रकार का आरोप: गृह मंत्रालय के आदेश पर वीजा रद्द",
+     "सांसद का आरोप: हवाई अड्डे पर प्रतिनिधियों से पूछताछ",
+     "70 देशों से करीब 1,000 प्रतिनिधि: खुर्शीद"
+    ],
+    "why": "हैदराबाद में होने वाले अंतरराष्ट्रीय सम्मेलन को लेकर राजनीतिक विवाद खड़ा हो गया है।",
+    "cat": "हैदराबाद · राजनीति",
+    "statl": "भारत समिट प्रतिनिधि"
+   },
+   "d": "12.11.2026",
+   "t": "20:35"
+  },
   {
    "cat": "తెలంగాణ · కార్మికులు",
    "col": "--c-gov",
@@ -2205,304 +2503,6 @@
    },
    "d": "12.11.2026",
    "t": "14:05"
-  },
-  {
-   "cat": "హైదరాబాద్ · పోలీసు",
-   "col": "--c-power",
-   "art": "economy",
-   "stat": "10 భాషలు",
-   "statl": "సేతు కియోస్క్‌లో ఫిర్యాదు భాషలు",
-   "h": "పంజాగుట్ట దేశంలోనే తొలి ఏఐ పోలీస్ స్టేషన్‌గా మారనుంది",
-   "p": "హైదరాబాద్ పంజాగుట్ట పోలీస్ స్టేషన్‌ను దేశంలో తొలి ఏఐ ఆధారిత స్టేషన్‌గా తీర్చిదిద్దుతున్నట్లు సీపీ వీసీ సజ్జనార్ తెలిపారు. డీజీపీ సీవీ ఆనంద్ డిసెంబర్ మొదటి వారంలో పైలట్‌గా ప్రారంభిస్తారు. ఎఫ్‌ఐఆర్ నుంచి చార్జిషీట్ వరకు పనులను ఏఐ చేస్తుంది. ఫలితాలు చూసి రాష్ట్రంలోని అన్ని స్టేషన్లకు విస్తరిస్తారని ఏఎన్ఐ పేర్కొంది.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/hyderabads-panjagutta-to-become-indias-first-ai-police-station20261112112716/",
-   "sec": [
-    "telangana",
-    "ai"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "loc": "పంజాగుట్ట",
-   "pts": [
-    "డిసెంబర్ మొదటి వారంలో పైలట్ ప్రారంభం",
-    "సేతు కియోస్క్‌లో సుమారు 10 భాషల్లో ఫిర్యాదు",
-    "ఎఫ్‌ఐఆర్, కేసు డైరీ, చార్జిషీట్ ఏఐతో"
-   ],
-   "why": "ఫిర్యాదుదారులు తమ భాషలోనే ఫిర్యాదు చేయగలరు; ఫలితాలు బాగుంటే రాష్ట్రమంతా అమలవుతుంది.",
-   "d": "12.11.2026",
-   "t": "13:35",
-   "pub": "2026-11-12T11:27+05:30",
-   "en": {
-    "h": "Panjagutta to become India's first AI police station",
-    "p": "Hyderabad Police Commissioner V.C. Sajjanar said Panjagutta police station is being developed as the country's first AI-based station. DGP C.V. Anand will launch it as a pilot in the first week of December. AI will handle work from FIR registration to charge-sheets. After reviewing results, it will be extended to all stations in the state, ANI reported.",
-    "pts": [
-     "Pilot launch in first week of December",
-     "'Sethu' kiosk takes complaints in about 10 languages",
-     "FIR, case diary and charge-sheet with AI"
-    ],
-    "why": "Complainants can file in their own language; if results are good, it will be rolled out statewide.",
-    "cat": "Hyderabad · Police",
-    "statl": "Complaint languages at Sethu kiosk"
-   },
-   "hi": {
-    "h": "पंजागुट्टा बनेगा देश का पहला एआई पुलिस स्टेशन",
-    "p": "हैदराबाद पुलिस आयुक्त वी.सी. सज्जनार ने कहा कि पंजागुट्टा पुलिस स्टेशन को देश के पहले एआई आधारित स्टेशन के रूप में विकसित किया जा रहा है। डीजीपी सी.वी. आनंद दिसंबर के पहले सप्ताह में इसे पायलट के रूप में शुरू करेंगे। एफआईआर से चार्जशीट तक का काम एआई करेगा। नतीजे देखकर इसे राज्य के सभी थानों में लागू किया जाएगा, एएनआई ने बताया।",
-    "pts": [
-     "दिसंबर के पहले सप्ताह में पायलट शुरू",
-     "'सेतु' कियोस्क पर लगभग 10 भाषाओं में शिकायत",
-     "एफआईआर, केस डायरी और चार्जशीट एआई से"
-    ],
-    "why": "शिकायतकर्ता अपनी भाषा में शिकायत कर सकेंगे; नतीजे अच्छे रहे तो पूरे राज्य में लागू होगा।",
-    "cat": "हैदराबाद · पुलिस",
-    "statl": "सेतु कियोस्क पर शिकायत की भाषाएँ"
-   }
-  },
-  {
-   "cat": "కామారెడ్డి · నేరం",
-   "col": "--c-power",
-   "art": "court",
-   "stat": "3 అరెస్ట్",
-   "statl": "రిమాండ్‌కు తరలించిన నిందితులు",
-   "h": "బాన్సువాడలో భర్త హత్య కేసు: భార్య సహా ముగ్గురు అరెస్ట్",
-   "p": "బాన్సువాడ పోలీసుల ప్రకారం, అక్టోబర్ 23 రాత్రి ఓ వ్యక్తిని హత్య చేసి ప్రమాదంలా చూపేందుకు మృతదేహాన్ని పంచెర చెరువులో పడేశారని ఆరోపణ. పోస్ట్‌మార్టం ప్రాథమిక నివేదిక తర్వాత హత్యగా నిర్ధారించి కేసును బీఎన్ఎస్ సెక్షన్ 103కు మార్చారు. భార్యతో పాటు మరో ఇద్దరిని అరెస్ట్ చేసి జ్యుడీషియల్ రిమాండ్‌కు పంపినట్లు ఏఎన్ఐ తెలిపింది.",
-   "src": "ANI",
-   "url": "https://aninews.in/news/national/general-news/woman-found-dead-under-suspicious-circumstances-in-hyderabad-flat20261112125027/",
-   "sec": [
-    "telangana"
-   ],
-   "st": "TG",
-   "place": "kamareddy",
-   "loc": "బాన్సువాడ",
-   "pts": [
-    "పోస్ట్‌మార్టం తర్వాత హత్య కేసుగా మార్పు",
-    "ముగ్గురు నిందితుల అరెస్ట్, ఫోన్లు స్వాధీనం",
-    "నిందితులకు జ్యుడీషియల్ రిమాండ్"
-   ],
-   "why": "ప్రమాదంగా కనిపించిన మరణాన్ని దర్యాప్తుతో హత్యగా పోలీసులు గుర్తించిన కేసు ఇది.",
-   "d": "12.11.2026",
-   "t": "13:35",
-   "pub": "2026-11-12T12:50+05:30",
-   "en": {
-    "h": "Banswada husband murder case: three including wife arrested",
-    "p": "According to Banswada police, a man was allegedly killed on the night of October 23 and his body dumped in Panchera Cheruvu to make it look like an accident. After the preliminary post-mortem report, police confirmed it as murder and changed the case to BNS Section 103. Three accused, including his wife, were arrested and sent to judicial remand, ANI reported.",
-    "pts": [
-     "Case changed to murder after post-mortem",
-     "Three accused arrested, phones seized",
-     "Accused sent to judicial remand"
-    ],
-    "why": "Police investigation found that a death made to look like an accident was a murder.",
-    "cat": "Kamareddy · Crime",
-    "statl": "Accused sent to remand"
-   },
-   "hi": {
-    "h": "बांसवाड़ा में पति की हत्या का मामला: पत्नी समेत तीन गिरफ्तार",
-    "p": "बांसवाड़ा पुलिस के अनुसार, 23 अक्टूबर की रात एक व्यक्ति की कथित तौर पर हत्या कर शव को हादसा दिखाने के लिए पंचेरा चेरुवु तालाब में फेंक दिया गया। प्रारंभिक पोस्टमार्टम रिपोर्ट के बाद पुलिस ने इसे हत्या माना और मामला बीएनएस धारा 103 में बदला। पत्नी समेत तीन आरोपियों को गिरफ्तार कर न्यायिक हिरासत में भेजा गया, एएनआई ने बताया।",
-    "pts": [
-     "पोस्टमार्टम के बाद हत्या का मामला",
-     "तीन आरोपी गिरफ्तार, फोन जब्त",
-     "आरोपी न्यायिक हिरासत में"
-    ],
-    "why": "पुलिस जांच में हादसा दिखाई गई मौत हत्या निकली।",
-    "cat": "कामारेड्डी · अपराध",
-    "statl": "आरोपी रिमांड पर भेजे गए"
-   }
-  },
-  {
-   "cat": "ఏపీ · స్థానిక ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "26 నవం.",
-   "statl": "పోలింగ్ తేదీ",
-   "h": "ఏపీలో 23 పట్టణ స్థానిక సంస్థలకు ఎన్నికల షెడ్యూల్ విడుదల",
-   "p": "ఆంధ్రప్రదేశ్‌లో 23 పట్టణ స్థానిక సంస్థల ఎన్నికలకు నోటిఫికేషన్ వచ్చింది. ఇందులో 4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలు ఉన్నాయి. నవంబర్ 14 నుంచి 16 వరకు నామినేషన్లు, 17న పరిశీలన, 19 వరకు ఉపసంహరణకు అవకాశం ఉంటుంది. నవంబర్ 26న పోలింగ్, 30న ఓట్ల లెక్కింపు జరుగుతాయని ఆంధ్రజ్యోతి పేర్కొంది.",
-   "pts": [
-    "4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలకు ఎన్నికలు",
-    "నవంబర్ 14–16 నామినేషన్లు",
-    "26న పోలింగ్, 30న లెక్కింపు"
-   ],
-   "why": "ఈ 23 పట్టణాల ఓటర్లు, పోటీ చేయాలనుకునే అభ్యర్థులకు ఈ తేదీలు కీలకం.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana"
-   ],
-   "st": "AP",
-   "place": "AP",
-   "pub": "2026-11-12T13:04+05:30",
-   "en": {
-    "h": "AP announces election schedule for 23 urban local bodies",
-    "p": "A notification has been issued for elections to 23 urban local bodies in Andhra Pradesh, covering 4 corporations and 19 municipalities. Nominations will be accepted from November 14 to 16, scrutiny is on the 17th and candidates can withdraw until the 19th. Polling will be held on November 26 and counting on the 30th, Andhra Jyothy reported.",
-    "pts": [
-     "Polls for 4 corporations and 19 municipalities",
-     "Nominations from November 14 to 16",
-     "Polling on 26th, counting on 30th"
-    ],
-    "why": "These dates matter to voters and would-be candidates in these 23 towns.",
-    "cat": "AP · Local Elections",
-    "statl": "Polling date"
-   },
-   "hi": {
-    "h": "आंध्र प्रदेश में 23 शहरी निकायों के चुनाव का कार्यक्रम जारी",
-    "p": "आंध्र प्रदेश में 23 शहरी स्थानीय निकायों के चुनाव की अधिसूचना जारी हुई है। इनमें 4 नगर निगम और 19 नगरपालिकाएं शामिल हैं। 14 से 16 नवंबर तक नामांकन, 17 को जांच और 19 तक नाम वापसी होगी। आंध्रज्योति के अनुसार 26 नवंबर को मतदान और 30 को मतगणना होगी।",
-    "pts": [
-     "4 नगर निगम, 19 नगरपालिकाओं में चुनाव",
-     "14–16 नवंबर तक नामांकन",
-     "26 को मतदान, 30 को मतगणना"
-    ],
-    "why": "इन 23 शहरों के मतदाताओं और उम्मीदवारों के लिए ये तारीखें अहम हैं।",
-    "cat": "आंध्र प्रदेश · स्थानीय चुनाव",
-    "statl": "मतदान की तारीख"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఎన్నికలు",
-   "col": "--c-election",
-   "art": "voters",
-   "stat": "30 డిసెం.",
-   "statl": "తుది ఓటర్ల జాబితా",
-   "h": "పట్టభద్రుల ఎమ్మెల్సీ ఓటర్ల జాబితా: 25న ముసాయిదా, డిసెంబర్ 30న తుది జాబితా",
-   "p": "తెలంగాణలో పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల ఓటర్ల జాబితా షెడ్యూల్ వెలువడింది. నవంబర్ 25న ముసాయిదా ఓటర్ల జాబితా, డిసెంబర్ 30న తుది జాబితా విడుదల చేస్తారని ఆంధ్రజ్యోతి పేర్కొంది. ఈ ప్రక్రియపై ఇతర వివరాలు ఇంకా వెల్లడి కాలేదు.",
-   "pts": [
-    "నవంబర్ 25న ముసాయిదా ఓటర్ల జాబితా",
-    "డిసెంబర్ 30న తుది ఓటర్ల జాబితా"
-   ],
-   "why": "పట్టభద్రుల ఎమ్మెల్సీ ఎన్నికల్లో ఓటు వేయాలనుకునే వారు ఈ తేదీలు గమనించాలి.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana",
-    "education"
-   ],
-   "st": "TG",
-   "place": "TS",
-   "pub": "2026-11-12T13:04+05:30",
-   "en": {
-    "h": "Graduates' MLC voter list: draft on 25th, final list on December 30",
-    "p": "The voter list schedule for Telangana's graduates' MLC election has been announced. The draft voter list will be released on November 25 and the final list on December 30, Andhra Jyothy reported. Other details of the process have not yet been given.",
-    "pts": [
-     "Draft voter list on November 25",
-     "Final voter list on December 30"
-    ],
-    "why": "Graduates who want to vote in the MLC election should note these dates.",
-    "cat": "Telangana · Elections",
-    "statl": "Final voter list"
-   },
-   "hi": {
-    "h": "स्नातक एमएलसी मतदाता सूची: 25 को मसौदा, 30 दिसंबर को अंतिम सूची",
-    "p": "तेलंगाना में स्नातक एमएलसी चुनाव की मतदाता सूची का कार्यक्रम जारी हुआ है। आंध्रज्योति के अनुसार 25 नवंबर को मसौदा मतदाता सूची और 30 दिसंबर को अंतिम सूची जारी होगी। प्रक्रिया के अन्य विवरण अभी नहीं दिए गए हैं।",
-    "pts": [
-     "25 नवंबर को मसौदा मतदाता सूची",
-     "30 दिसंबर को अंतिम मतदाता सूची"
-    ],
-    "why": "एमएलसी चुनाव में वोट देने वाले स्नातकों को ये तारीखें ध्यान रखनी चाहिए।",
-    "cat": "तेलंगाना · चुनाव",
-    "statl": "अंतिम मतदाता सूची"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "ఏపీ · విశాఖ",
-   "col": "--c-money",
-   "art": "economy",
-   "stat": "8",
-   "statl": "సీఐఐ సదస్సులు నిర్వహించానన్న సీఎం",
-   "h": "విశాఖ సమీపంలో సెమీకండక్టర్ హబ్: సీఐఐ సదస్సులో సీఎం చంద్రబాబు",
-   "p": "విశాఖపట్నంలో జరుగుతున్న సీఐఐ భాగస్వామ్య సదస్సులో సీఎం చంద్రబాబు మాట్లాడుతూ, విశాఖ సమీపంలో సెమీకండక్టర్ పరిశ్రమల హబ్ వస్తుందని చెప్పారు. ఇప్పటివరకు ఎనిమిది సీఐఐ సదస్సులు నిర్వహించానని, విశాఖ దేశంలోనే అత్యంత పరిశుభ్రమైన, సురక్షితమైన నగరమని అన్నారు. ఏపీ పెట్టుబడులకు నమ్మకమైన రాష్ట్రమని డిప్యూటీ సీఎం పవన్ కల్యాణ్, సాంకేతికత వినియోగంలో ఏపీ ముందుందని కేంద్ర మంత్రి పీయూష్ గోయల్ అన్నారు.",
-   "pts": [
-    "విశాఖ సమీపంలో సెమీకండక్టర్ హబ్ వస్తుందన్న సీఎం",
-    "అంతర్జాతీయ స్థాయి మౌలిక వసతులు కల్పిస్తున్నామని వెల్లడి",
-    "ఉత్తరాంధ్రకు పర్యాటక అవకాశాలు ఎక్కువన్న రామ్మోహన్ నాయుడు"
-   ],
-   "why": "సెమీకండక్టర్ పరిశ్రమలు వస్తే ఉత్తరాంధ్ర యువతకు ఉద్యోగ అవకాశాలు పెరగవచ్చు.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana",
-    "business",
-    "innovation"
-   ],
-   "st": "AP",
-   "place": "ap-visakhapatnam",
-   "pub": "2026-11-12T12:56+05:30",
-   "en": {
-    "h": "Semiconductor hub to come near Visakhapatnam: CM Naidu at CII summit",
-    "p": "Speaking at the CII Partnership Summit in Visakhapatnam, CM Chandrababu Naidu said a semiconductor industry hub will come up near the city. He said he has held eight CII summits so far and called Visakhapatnam the country's cleanest and safest city. Deputy CM Pawan Kalyan called AP a reliable place for investment, and Union minister Piyush Goyal said AP leads in adopting technology.",
-    "pts": [
-     "CM says semiconductor hub coming near Vizag",
-     "International-standard infrastructure being provided, he says",
-     "Rammohan Naidu cites Uttarandhra's tourism potential"
-    ],
-    "why": "Semiconductor industries could bring more jobs for young people in north Andhra.",
-    "cat": "AP · Visakhapatnam",
-    "statl": "CII summits held, says CM"
-   },
-   "hi": {
-    "h": "विशाखापत्तनम के पास सेमीकंडक्टर हब: सीआईआई सम्मेलन में सीएम नायडू",
-    "p": "विशाखापत्तनम में सीआईआई साझेदारी सम्मेलन में मुख्यमंत्री चंद्रबाबू नायडू ने कहा कि शहर के पास सेमीकंडक्टर उद्योग हब आएगा। उन्होंने कहा कि वे अब तक आठ सीआईआई सम्मेलन कर चुके हैं और विशाखापत्तनम देश का सबसे स्वच्छ और सुरक्षित शहर है। उपमुख्यमंत्री पवन कल्याण ने आंध्र को निवेश के लिए भरोसेमंद बताया और केंद्रीय मंत्री पीयूष गोयल ने कहा कि तकनीक अपनाने में आंध्र आगे है।",
-    "pts": [
-     "सीएम बोले, विशाखापत्तनम के पास सेमीकंडक्टर हब",
-     "अंतरराष्ट्रीय स्तर का बुनियादी ढांचा दे रहे हैं",
-     "राममोहन नायडू: उत्तरांध्र में पर्यटन की बड़ी संभावना"
-    ],
-    "why": "सेमीकंडक्टर उद्योग आने से उत्तर आंध्र के युवाओं के लिए नौकरियां बढ़ सकती हैं।",
-    "cat": "आंध्र प्रदेश · विशाखापत्तनम",
-    "statl": "सीआईआई सम्मेलन, सीएम के अनुसार"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
-  },
-  {
-   "cat": "తెలంగాణ · ఆర్టీసీ",
-   "col": "--c-gov",
-   "art": "unity",
-   "stat": "₹1 కోటి",
-   "statl": "ఉద్యోగుల ఒక రోజు వేతనం విరాళం",
-   "h": "మృతి చెందిన నర్సంపేట ఆర్టీసీ డ్రైవర్ కుమారుడికి ఆర్టీసీలో ఉద్యోగం",
-   "p": "ఆత్మహత్య చేసుకున్న నర్సంపేట డిపో ఆర్టీసీ డ్రైవర్ కుటుంబానికి ఇచ్చిన హామీని ప్రభుత్వం నెరవేర్చిందని ఆంధ్రజ్యోతి పేర్కొంది. డ్రైవర్ కుమారుడిని ఆర్టీసీలో రికార్డు ట్రెజరర్‌గా నియమిస్తూ మంత్రి పొన్నం ప్రభాకర్, ఆర్టీసీ ఎండీ నాగిరెడ్డి నియామక పత్రం అందజేశారు. ప్రభుత్వం, ఆర్టీసీ తరఫున పరిహారం ఇచ్చారు. ఆర్టీసీ ఉద్యోగులు ఒక రోజు వేతనంతో రూ.1 కోటి విరాళంగా అందించారు.",
-   "pts": [
-    "డ్రైవర్ కుమారుడికి ఆర్టీసీలో రికార్డు ట్రెజరర్ ఉద్యోగం",
-    "మంత్రి పొన్నం, ఎండీ నాగిరెడ్డి చేతుల మీదుగా నియామక పత్రం",
-    "ఉద్యోగుల ఒక రోజు వేతనం రూ.1 కోటి విరాళం"
-   ],
-   "why": "విధుల్లో ఉన్న ఉద్యోగి మృతి చెందితే కుటుంబానికి అండగా నిలిచే చర్యగా ఇది ఆర్టీసీ సిబ్బందికి ముఖ్యం.",
-   "src": "Andhra Jyothy",
-   "url": "https://andhrajyothy.com/2026/mukhyaamshalu/abn-andhrajyothy-ap-and-telangana-national-international-breaking-live-updates-of-12th-november-2026-3711.html",
-   "sec": [
-    "telangana",
-    "jobs"
-   ],
-   "st": "TG",
-   "place": "hyderabad",
-   "pub": "2026-11-12T12:38+05:30",
-   "en": {
-    "h": "Son of deceased Narsampet RTC driver given job in RTC",
-    "p": "The government has kept its promise to the family of a Narsampet depot RTC driver who died by suicide, Andhra Jyothy reported. Minister Ponnam Prabhakar and RTC MD Nagireddy handed over a letter appointing the driver's son as record treasurer in the RTC. Compensation was given by the government and the RTC, and RTC employees donated Rs 1 crore from one day's pay.",
-    "pts": [
-     "Driver's son appointed record treasurer in RTC",
-     "Letter handed over by Minister Ponnam and MD Nagireddy",
-     "Employees donate Rs 1 crore from a day's pay"
-    ],
-    "why": "It matters to RTC staff as support for the family of an employee who died.",
-    "cat": "Telangana · RTC",
-    "statl": "Employees' one-day pay donated"
-   },
-   "hi": {
-    "h": "नरसंपेट के दिवंगत आरटीसी चालक के बेटे को आरटीसी में नौकरी",
-    "p": "आंध्रज्योति के अनुसार सरकार ने नरसंपेट डिपो के उस आरटीसी चालक के परिवार से किया वादा निभाया, जिसने आत्महत्या की थी। मंत्री पोन्नम प्रभाकर और आरटीसी एमडी नागिरेड्डी ने चालक के बेटे को आरटीसी में रिकॉर्ड ट्रेज़रर नियुक्त करने का पत्र सौंपा। सरकार और आरटीसी की ओर से मुआवजा दिया गया और आरटीसी कर्मचारियों ने एक दिन के वेतन से 1 करोड़ रुपये दान किए।",
-    "pts": [
-     "चालक के बेटे को आरटीसी में रिकॉर्ड ट्रेज़रर की नौकरी",
-     "मंत्री पोन्नम और एमडी नागिरेड्डी ने पत्र सौंपा",
-     "कर्मचारियों ने एक दिन का वेतन, 1 करोड़ रुपये दान दिए"
-    ],
-    "why": "दिवंगत कर्मचारी के परिवार को सहारा देने का यह कदम आरटीसी कर्मियों के लिए अहम है।",
-    "cat": "तेलंगाना · आरटीसी",
-    "statl": "कर्मचारियों का एक दिन का वेतन दान"
-   },
-   "d": "12.11.2026",
-   "t": "13:05"
   },
   {
    "cat": "నీటి సంక్షోభం · హైదరాబాద్",
